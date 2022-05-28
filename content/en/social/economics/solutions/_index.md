@@ -1,0 +1,8 @@
+---
+title: "Solutions from Economic Superphysics"
+description: "We list the solutions by Economic Superphysics to the problems caused by Marxism and Neoclassical Economics"
+image: "/covers/solutions.png"
+linkTitle: "Solutions"
+youtube: "rVP73TV2X0s"
+type: "featured"
+---

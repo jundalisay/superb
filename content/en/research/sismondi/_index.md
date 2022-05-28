@@ -1,0 +1,7 @@
++++
+title= "Sismondi"
+description= "Sismondi was a socialist economist who treated Economics as beneficence"
+image= "/covers/sismondi.jpg"
+date= 2022-01-29
++++
+

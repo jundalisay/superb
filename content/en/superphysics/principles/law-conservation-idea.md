@@ -1,0 +1,28 @@
+---
+title: "The Law of Conservation of Idea"
+heading: "Why you only have 1 idea at a time"
+date: "2020-01-01"
+image: "/photos/social/monkey.jpg"
+description: "Why you only have 1 idea at a time"
+linkb: /articles/superphysics/everything-is-an-idea
+linkbtext: "Everything-is-an-idea"
+linkf: /articles/superphysics/what-is-consciousness
+linkftext: "What-is-consciousness?"
+author: Juan
+icon: /icons/sp.png
+icontext: Superphysics icon
+---
+
+The law of conservation of mass and energy is:
+
+{{< quote >}}
+Matter and Energy cannot be created nor destroyed 
+</div>
+
+
+We extend this to the aethereal layer of ideas and feelings:
+
+{{< quote >}}
+Ideas and Feelings cannot be created nor destroyed 
+</div>
+

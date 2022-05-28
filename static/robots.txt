@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://superphysics.one/tl/sitemap.xml
+Sitemap: https://superphysics.one/en/sitemap.xml
