@@ -3,7 +3,7 @@ title: POLITICAL WORK
 heading: Chapter 12
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-11"
 linkbtext: "Chapter 11"
 linkf: "/research/mao/quotations/chapter-13"

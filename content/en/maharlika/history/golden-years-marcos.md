@@ -10,8 +10,10 @@ linkftext: "Gloria Arroyo: Evil Genius"
 author: Juan
 icon: /icons/sun.png
 aliases:
+  /maharlika/articles/golden-age-marcos/
   /articles/golden-age-marcos/
   /articles/history/golden-years-marcos/
+
 ---
 
 <!-- linkb: "articles/metaphysics/democracy-is-bad"

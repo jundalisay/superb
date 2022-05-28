@@ -1,6 +1,6 @@
 ---
 title: Mao Zedong
 description: Quotations from Mao
-# image: "/photos/meta/buddhism.jpg"
+image: "/graphics/mao.jpg"
 date: 2022-03-10
 ---

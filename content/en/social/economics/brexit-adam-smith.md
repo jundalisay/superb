@@ -11,8 +11,8 @@ linkftext: "Index"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
-# aliases: 
-#   /articles/taonomics/brexit-adam-smith
+aliases: 
+  /articles/taonomics/brexit-adam-smith
 ---
 
 <!-- https://superphysics.one/articles/taonomics/brexit-adam-smith/ -->

@@ -3,7 +3,7 @@ title: METHODS OF THINKING AND METHODS OF WORK
 heading: Chapter 22 of Quotations of Mao Zedong Simplified
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-30"
 linkbtext: "Chapter 30"
 linkf: "/research/mao/quotations/chapter-31"

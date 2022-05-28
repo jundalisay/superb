@@ -3,7 +3,7 @@ title: CLASSES AND CLASS STRUGGLE
 heading: Chapter 2
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-01"
 linkbtext: "Chapter 1"
 linkf: "/research/mao/quotations/chapter-03"

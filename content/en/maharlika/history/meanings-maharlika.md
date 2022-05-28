@@ -15,6 +15,7 @@ aliases:
   /history/what-is-maharlika/  
   /articles/what-is-maharlika/
   /articles/history/what-is-maharlika/
+  /maharlika/history/what-is-maharlika/  
 ---
 
 <!-- linkb: "articles/governance/principal-orders-kkk"

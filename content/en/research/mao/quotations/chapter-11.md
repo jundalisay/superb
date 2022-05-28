@@ -3,7 +3,7 @@ title: The Mass Line
 heading: Chapter 11
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-10"
 linkbtext: "Chapter 10"
 linkf: "/research/mao/quotations/chapter-12"

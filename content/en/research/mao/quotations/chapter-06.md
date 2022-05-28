@@ -3,7 +3,7 @@ title: IMPERIALISM AND A LL R EACTIONARIES ARE P APER TIGERS
 heading: Chapter 6
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-07"
 linkbtext: "Chapter 7"
 linkf: "/research/mao/quotations/chapter-09"

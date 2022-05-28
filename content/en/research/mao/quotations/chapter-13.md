@@ -3,7 +3,7 @@ title: RELATIONS B ETWEEN O FFICERS AND MEN
 heading: Chapter 13
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-12"
 linkbtext: "Chapter 12"
 linkf: "/research/mao/quotations/chapter-14"

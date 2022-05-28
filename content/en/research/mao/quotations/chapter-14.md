@@ -3,7 +3,7 @@ title: RELATIONS BETWEEN THE ARMY AND THE PEOPLE
 heading: Chapter 14
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-30"
 linkbtext: "Chapter 30"
 linkf: "/research/mao/quotations/chapter-32"

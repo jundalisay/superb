@@ -1,4 +1,18 @@
-4. THE CORRECT H ANDLING OF C ONTRADICTIONS A MONG THE P EOPLE
+---
+title: THE CORRECT HANDLING OF CONTRADICTIONS AMONG THE PEOPLE
+heading: Chapter 4
+date: 2022-02-01
+description: Quotations of Mao
+image: "/graphics/mao.jpg"
+linkb: "/research/mao/quotations/chapter-03"
+linkbtext: "Chapter 3"
+linkf: "/research/mao/quotations/chapter-05"
+linkftext: "Chapter 5"
+author: "Mao Zedong"
+icon: /icons/mao.png
+---
+
+
 We are confronted by two types of social contradictions - those between
 ourselves and the enemy and those among the people themselves. The two
 are totally different in their nature.

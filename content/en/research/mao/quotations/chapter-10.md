@@ -3,7 +3,7 @@ title: LEADERSHIP OF PARTY COMMITTEES
 heading: Chapter 10
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-09"
 linkbtext: "Chapter 9"
 linkf: "/research/mao/quotations/chapter-11"

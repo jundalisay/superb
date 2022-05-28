@@ -3,7 +3,7 @@ title: DEMOCRACY IN THE T HREE M AIN F IELDS
 heading: Chapter 15 of Quotations of Mao Zedong Simplified
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-16"
 linkbtext: "Chapter 16"
 linkf: "/research/mao/quotations/chapter-18"

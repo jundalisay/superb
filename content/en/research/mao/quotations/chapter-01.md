@@ -3,7 +3,7 @@ title: The Communist Party
 heading: Chapter 1
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/"
 linkbtext: "Index"
 linkf: "/research/mao/quotations/chapter-02"

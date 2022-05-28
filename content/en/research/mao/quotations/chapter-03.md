@@ -1,9 +1,9 @@
 ---
 title: SOCIALISM AND COMMUNISM
-heading: Chapter 6
+heading: Chapter 3
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-02"
 linkbtext: "Chapter 2"
 linkf: "/research/mao/quotations/chapter-04"

@@ -3,7 +3,7 @@ title: PATRIOTISM AND INTERNATIONALISM
 heading: Chapter 18 of Quotations of Mao Zedong Simplified
 date: 2022-02-01
 description: Quotations of Mao
-# image: "/covers/hyp.jpg"
+image: "/graphics/mao.jpg"
 linkb: "/research/mao/quotations/chapter-17"
 linkbtext: "Chapter 17"
 linkf: "/research/mao/quotations/chapter-19"

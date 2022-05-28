@@ -13,6 +13,7 @@ icon: /icons/sun.png
 aliases:
   /articles/how-did-colonialism-take-root/
   /articles/history/how-did-colonialism-take-root/  
+  /maharlika/articles/how-did-colonialism-take-root/    
 ---
 
 In the previous article, we explained that Lapu Lapu, the first national hero of the Philippines, fought against the Spanish. If colonialism were so bad, why did't the rest of the natives surrender to the colonizers who only numbered a few hundred? 
