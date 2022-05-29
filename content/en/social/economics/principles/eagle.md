@@ -3,9 +3,9 @@ title: "The Eagle: Our Equation for Everything"
 date: 2021-06-23
 image: "/graphics/econ/eagle.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
-linkb: /solutions/material/how-to-fix-general-relativity
+linkb: /material/fallacies/general-relativity
 linkbtext: "Fixing Relativity"
-linkf: /articles/pantrynomics/the-modern-economic-table
+linkf: /social/economics/solutions/modern-economic-table
 linkftext: "The Modern Economic Table"
 btext: "The universal equation"
 author: Juan
@@ -28,11 +28,11 @@ This potential linear or nonlinear movement is responsible for the shifting of p
 
 - E is inherent energy and represents potentiality
 - G is the dharma of the thing (as gravitational signature). This represents Shiva or Yang
-- <sub>l</sub> is [the physical layer](/material/five-layers) where the thing lies or occurs. This represents the confinement by Shakti-Yin on Shiva-Yang
+- <sub>l</sub> is [the physical layer](/material/principles/five-layers) where the thing lies or occurs. This represents the confinement by Shakti-Yin on Shiva-Yang
 
 We can call this equation as "eagle" as it is written with the letters E G l. 
 
-It predicts the movement of anything by knowing its G or [dharma or true nature](/pantrynomics/invisible-hand-of-tao) relative to other G's within the same layer and/or the immediate layer above it. 
+It predicts the movement of anything by knowing its G or [dharma or true nature](/social/economics/principles/invisible-hand) relative to other G's within the same layer and/or the immediate layer above it. 
 
 
 ![The Eagle](/graphics/econ/eagle.jpg)
@@ -110,7 +110,7 @@ Economics and the commercial system are unable to arrive at the real price of ev
   - This means that the price of bread only crashes for the lemon owners but not for the potato owners. 
   - If the ratio of 1 bread still exchanges for 1 potato, then the real value or economic G of bread is more linked to potatoes instead of lemons. 
 
-This prevents the pantrynomic system from crashing because [the relativity of prices](/pantrynomics/four-laws-of-value) are maintained and not made absolute or constant as in the commercial system. 
+This prevents the pantrynomic system from crashing because [the relativity of prices](/social/economics/principles/four-laws-of-value) are maintained and not made absolute or constant as in the commercial system. 
 
 <!-- Price movements are relativistic because they represent value which is really a wave, just as special relativity works for photons which are waves, but not for rocks which are material.  -->
 

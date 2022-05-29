@@ -99,7 +99,7 @@ The natural price is the lowest price that a dealer can sell his goods.. The mar
 When the commodities fall short of the effectual demand, the shortage will cause some of the buyers give more for those few commodities. This will create a competition among buyers which will raise the market price. When the amount sold exceeds the effectual demand, the excess will remain unsold. To dispose of it, it must be sold to those who are willing to pay less.
 {{< /quote >}}
 
-> *Instead of profit maximization as producer's surplus, buyers are interested in bargains as [consumer's surplus](/articles/pantrynomics/producers-consumers-surplus-deadweight-loss)
+> *Instead of profit maximization as producer's surplus, buyers are interested in bargains as [consumer's surplus](/social/economics/fallacies/surplus)
 
 ![Natural Price Economics](https://sorasystem.sirv.com/charts/demsup/righttao.png)
 
@@ -170,7 +170,7 @@ Rather than reform a system with a corrupt base, it would be better to take its 
 
 For this reason, we introduce alternatives to every major economic concept as the foundation of Pantrynomics:
 
-- [Natural Price Theory](/pantrynomics/four-laws-of-value) replaces Equilibrium Theory of Microeconomics
-- [The Effort Theory of Value](/articles/pantrynomics/the-effort-theory-of-value) replaces Profit Maximization
-- [Purchasing Power](/articles/pantrynomics/the-alternative-to-gdp) replaces GDP of Macroeconomics
-- [Economic Balance](/articles/pantrynomics/the-demand-capital-trade-industry-tool) replaces GDP growth
+- [Natural Price Theory](/social/economics/principles/four-laws-of-value) replaces Equilibrium Theory of Microeconomics
+- [The Effort Theory of Value](/social/economics/principles/the-effort-theory-of-value) replaces Profit Maximization
+- [Purchasing Power](/social/economics/solutions/gdp) replaces GDP of Macroeconomics
+- [Economic Balance](/social/economics/principles/dcti) replaces GDP growth

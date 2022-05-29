@@ -29,7 +29,7 @@ Like most countries, the Philippines was hard hit by Covid-19 both in 2020 and 2
 - The production of vaccines is the domain of biotech which India, South Korea, and Singapore are good at. 
 - The production of PPEs, on the other hand, are done by manufacturing, which China, Taiwan, and even Vietnam excel in.
 
-The Philippines has no strength in either and so its Covid response was deficient. This was made worse by [the overpopulation problem caused by the Church](/articles/history/problems-philippines).       
+The Philippines has no strength in either and so its Covid response was deficient. This was made worse by [the overpopulation problem caused by the Church](/maharlika/history/problems-philippines).       
 
 Because of the lack of local biotech and manufacturing, the country had to literally beg for supplies from China and the US. When begging got nowhere, the government turned to bashing rich countries, even if it was really the fault of Philippine policy in the first place. 
 
@@ -167,7 +167,7 @@ Mahalikanism is anti-imperial and pro-self-reliance. We suggest the following po
 
 ### Tweak the Foreign Investment Act
 
-A glaring flaw in the [FSA Amendment](/laws/foreign-investment-act/section-1) is the lack of environmental representation. The DENR is not part of the regulatory body (IIPC). Only DTI, NEDA, and business chambers are the significant regulators. The DENR should be added and have the same powers as NEDA. 
+A glaring flaw in the [FSA Amendment](/maharlika/laws/foreign-investment-act/section-1) is the lack of environmental representation. The DENR is not part of the regulatory body (IIPC). Only DTI, NEDA, and business chambers are the significant regulators. The DENR should be added and have the same powers as NEDA. 
 
 The FSA should be used to create semi-state owned corporations that will build dams, power generation, and transportation infrastructure. 
 
@@ -250,7 +250,7 @@ Examples of advanced countries which have no minimum wage are:
 
 Our proposed bayanihan economy is based on [points as a store of value](https://pantrypoints.com). This makes it a kind of delayed barter system that is based on morals instead of money, specifically pakikipagkapwa. This would make entrepreneurship cheaper since morals (trust, integrity, honesty) are free yet very expensive. 
 
-According to [historian Chau Ju Kua](/history/mai), barter was the natural commercial system very effectively used by Maharlika. So far, barter is only legal in Sulu through the Mindanao Barter Council. 
+According to [historian Chau Ju Kua](/research/chau-ju-kua/chun-fan-chi/40-maharlika), barter was the natural commercial system very effectively used by Maharlika. So far, barter is only legal in Sulu through the Mindanao Barter Council. 
 
 Unknown to many, the British economist EF Schumacher proposed a similar international barter system called <!-- is guaranteed by the lower cost of electricity, water, telecoms, and infrastructure, local production would increase naturally. This can be sped up by free trade to encourage exports. We recommend the proposal of British economist EF Schumacher of a --> [multilateral clearing](https://centerforneweconomics.org/publications/multilateral-clearing/) wherein all countries act as one entity in a 'pool'. This is opposite of the currency union of the EU, and world trade system which uses the US Dollar as an international reserve currency. 
 

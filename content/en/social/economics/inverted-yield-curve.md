@@ -60,7 +60,7 @@ The problem is that people think that an inverted yield curve is the sole indica
 
 Pantrynomics proposes [clearing funds](/research/schumacher/pool-clearing) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
 
-People can have money to pay in cash because their local purchases can be transacted by points (as [basic universal revenue](/social/economics/bur)) or barter.
+People can have money to pay in cash because their local purchases can be transacted by points (as [basic universal revenue](/social/economics/solutions/bur)) or barter.
 
 
 <!-- replaces bonds with  My research is into what is the basket of key indicators that can best predict such crises, building on the data that Adam Smith established (his data set starts in the 13th century, which I continued). It has predicted a future crisis year since all these indicators come from factors or causes that are cyclical in nature. The economic crisis periods in human history are when all these cycles coincide to create a perfect storm.

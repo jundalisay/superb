@@ -183,7 +183,7 @@ The prices do not so much depend on the absolute quantity of commodities and mon
 
 Our estimation on food-grain prices should never include the grain which the farmer reserves for seed [capital] and for the maintenance of himself and family [stock for consumption]. It is only the surplus*, compared to the demand, that determines the value of food-grains.
 
-> *Translator's Note: This is the basis for Smith's [Net revenue](/articles/pantrynomics/the-alternative-to-gdp) which is the proper alternative to GDP 
+> *Translator's Note: This is the basis for Smith's [Net revenue](/social/economics/solutions/gdp) which is the proper alternative to GDP 
 
 In the first uncultivated ages of any state:
 - fancy has confounded human wants with those of nature, 

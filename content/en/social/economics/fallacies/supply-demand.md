@@ -16,7 +16,7 @@ aliases:
 ---
 
 {{< me date="April 2021" >}}
-[The actual supply prices of Covid vaccines](/fallacies/economics/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics
+[The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics
 {{< /me >}}
 
 Adam Smith’s Supply and Demand Curves (below) are the foundation our proposed science called pantrynomics which is based on Classical Economics. It can be applied to any problem in economics in order to provide common sense answers.

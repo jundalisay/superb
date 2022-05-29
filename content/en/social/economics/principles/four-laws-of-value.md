@@ -28,7 +28,7 @@ aliases:
 
 <!-- I am always willing to run some hazard of being tedious in order to be sure that I am perspicuous; and after taking the utmost pains that I can to be perspicuous, some obscurity may still appear to remain upon a subject in its own nature extremely abstracted. -->
 
-Pantrynomics falls under [Social Superphysics](/social) which is a paradigm that sees reality as [waves manifesting as particles](/articles/social/collective-wave-of-desire). This is different from science which prefers particles* over waves. 
+Pantrynomics falls under [Social Superphysics](/social) which is a paradigm that sees reality as [waves manifesting as particles](/social/supersociology/principles/collective-wave-of-desire). This is different from science which prefers particles* over waves. 
 
 > *However, that paradigm seems to be changing as proven by electrons nowadays being regarded as a probability cloud instead of as a material point
 
@@ -85,7 +85,7 @@ Thus:
 > *This means that the animal and plant kingdoms have their own pantrynomic laws, which are out of the scope of our current Pantrynomics, that dictate how they allocate resources among themselves to quench their desires. 
 
 
-The Celsius degrees in thermodynamics then manifest as dollar prices in Pantrynomics. This lets us fit [all the principles of pantrynomics elegantly under four headings](/articles/pantrynomics/pantrynomics-textbook/). This is different from the messy* organization of Economics as micro-macro-economics, behavioral, political economy, development economics, etc.
+The Celsius degrees in thermodynamics then manifest as dollar prices in Pantrynomics. This lets us fit [all the principles of pantrynomics elegantly under four headings](/social/economics/textbook/). This is different from the messy* organization of Economics as micro-macro-economics, behavioral, political economy, development economics, etc.
 
 > *Such a mess is what happens when people build something in an uncoordinated way or without looking at the very big picture. In contrast, our Pantrynomics is a subset of Social Superphysics which is itself a subset of Superphysics
 

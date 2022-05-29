@@ -6,7 +6,7 @@ description : "The widespread use of standardized money, from the rise of peace 
 date: 2015-04-11
 linkb: /social/economics/fallacies/simple-says-law
 linkbtext: simple says law
-linkf: /social/economics/tao-life-purpose
+linkf: /social/economics/principles/tao-life-purpose
 linkftext: Tao as Life Purpose
 youtube: "rVP73TV2X0s"
 author: Juan

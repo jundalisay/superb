@@ -4,7 +4,7 @@ heading: "The Failure of the Vision Fund"
 date: 2017-01-15
 image: "/photos/econ/masa.jpg"
 description: "We predict a failure of Softbank's Vision Fund as it is based on Mercantile ideas"
-linkb: /social/economics/the-six-types-of-effort
+linkb: /social/economics/principles/6-efforts
 linkbtext: "6 types of effort"
 linkf: /social/economics/problems-with-money
 linkftext: "problems-with-money"

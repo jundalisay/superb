@@ -10,12 +10,14 @@ linkftext: Says-law
 heading: Society as One Huge Family
 author: Juan
 icon: /icons/pantry.png
+aliases:
+  /articles/pantrynomics/what-is-the-consumption-motive/
 ---
 
 
 ## The Consumer is King
 
-The consumption or demand motive is one of the most important maxims of Adam Smith's economic system, aside from the [Effort Theory of Value](/articles/pantrynomics/what-is-the-consumption-motive/). This maxim states that all economic activity is rooted in the people or the demanders in society and not in the producers or suppliers. 
+The consumption or demand motive is one of the most important maxims of Adam Smith's economic system, aside from the [Effort Theory of Value](/social/economics/principles/effort-theory-of-value/). This maxim states that all economic activity is rooted in the people or the demanders in society and not in the producers or suppliers. 
 
 This is easily seen in the concept of the human family which is the smallest and most common type of society. We see parents work to provide or produce food for their children who are their consumers. Humans do this by instinct because this is how our species has evolved to be so advanced over animals.
 
