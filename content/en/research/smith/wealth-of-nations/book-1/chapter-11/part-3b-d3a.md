@@ -1,26 +1,26 @@
 +++
-title=  "Digression=  The effect of improvement on real value of rude produce"
-# heading=  "Digression, Part 3, Digression of the Simplified Wealth of Nations"
+title=  "Digression: The effect of improvement on real value of rude produce"
+heading=  "Digression, Part 3, Digression of the Simplified Wealth of Nations"
 date=  2020-01-18
 image=  "/covers/wn.jpg"
-description=  "The chance of loss is frequently under-valued and rarely valued more than it is worth"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-10b"
-linkbtext=  "Chapter 10 Part 2a"
-linkf=  "/research/smith/wealth-of-nations/book-2"
-linkftext=  "Chapter 10 Part 2b"
-# heading=  Chapter 11 Part 3 Digression 3a
+description=  "Rude produce may be divided into three"
+linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d2b"
+linkbtext=  "Chapter 11 Digression d2b"
+linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3b1"
+linkftext=  "Chapter 11 Digression d3b1"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
 
-{{< s v="193" >}} Rude produce may be divided into three= 
 
-The ones that human industry cannot multiply at all
+{{< s v="193" >}} Rude produce may be divided into three:
+
+1. The ones that human industry cannot multiply at all
 Its real price may rise to any degree.
-The ones that human industry can multiply in proportion to the demand.
+
+2. The ones that human industry can multiply in proportion to the demand.
 Its real price may rise to a certain boundary.
-The ones that human industry can multiply in a limited or uncertain way.
+
+3. The ones that human industry can multiply in a limited or uncertain way.
 Its real price may rise, stay the same, or even fall in the progress of improvement, according to the efforts of human industry.
 
 

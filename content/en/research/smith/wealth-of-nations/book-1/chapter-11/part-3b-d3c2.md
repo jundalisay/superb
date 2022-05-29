@@ -6,12 +6,9 @@ image=  "/covers/wn.jpg"
 description=  "The multiplication fish is both limited and uncertain"
 linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3c1"
 linkbtext=  "Digression 3c1"
-linkf=  "/research/smith/wealth-of-nations/book-2"
-linkftext=  "Book 2"
-# heading=  Chapter 11 Part 3b Digression 3c2
+linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d4"
+linkftext=  "Digresssion d4"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
 
 

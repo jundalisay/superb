@@ -5,23 +5,24 @@ date: 2020-09-21
 image: /photos/psych/bore.jpg
 # image: "https://sorasystem.sirv.com/graphics/equation.jpg"
 description : "We propose Decon Notation to make math easier to understand"
-linkb: "/solutions/superphysics/bullet-style-writing"
+linkb: "/superphysics/solutions/bullet-style-writing"
 linkbtext: "bullet-style-writing"
-linkf: "/solutions/supersociology"
+linkf: "/supersociology/solutions"
 linkftext: "Supersociology Solutions"
-btext: Stop the Greek
 author: Juan
 icon: /icons/sp.png
-icontext: Superphysics icon
 ---
 
 A major turn-off in math is the use of arbitrary variables in equations, usually written in Greek characters. This burdens the mind which has to know what those variables mean just to make sense of of the whole equation. An error in one character will nullify the understanding of the whole equation and makes its output wrong.
 
 To make math fun again, we can create a method called decon notation, which deconstructs those arbitrary Greek variables back into plain English. For example, John Maynard Keynes’ uses `ΣQrdr` to define the “marginal efficiency of capital”:
 
-<div class="squote keynes" data-sal="slide-right"> If Qr is the prospective yield from an asset at time r, and dr is the present value of £1 deferred r years at the current rate of interest, ΣQrdr, is the demand price of the investment.
+
+{{< q a="keynes" >}}
+If Qr is the prospective yield from an asset at time r, and dr is the present value of £1 deferred r years at the current rate of interest, ΣQrdr, is the demand price of the investment.
 <cite>General Theory of of Employment, Interest and Money</cite>
-</div>
+{{< /q >}}
+
 
 Instead of `ΣQrdr``, we can use its decon version:
 

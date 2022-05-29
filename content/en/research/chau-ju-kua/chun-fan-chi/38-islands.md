@@ -6,7 +6,7 @@ author= "Chau Ju Kua"
 image= "/flags/mw.png"
 linkb= "/research/chau-ju-kua/chun-fan-chi/36-egypt"
 linkbtext= "Egypt"
-linkf= "/research/chau-ju-kua/chun-fan-chi/39-egypt"
+linkf= "/research/chau-ju-kua/chun-fan-chi/39-borneo"
 linkftext= "Borneo"
 date = "2022-01-12"
 +++

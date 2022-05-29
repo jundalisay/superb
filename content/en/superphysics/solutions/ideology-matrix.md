@@ -40,7 +40,7 @@ Democracy first appeared in ancient Greece and was defined by Socrates* as a sys
 - The monarchs and the church made up the second estate
 - The merchants* and manufacturers made up the third estate
 
-> *After the French Revolution, the aristocrats were lumped into a term called 'capitalists' because of the industrial revolution. Our [other post](/articles/pantrynomics/what-defines-capitalism) explains why even the modern word 'capitalist' is wrong because it originally meant profit-earners, which include farmers and peddlers. The classical term for modern capitalism is "stock-jobbing" which emphasizes the growth of paper stock price. Thus, Neo-classical Economics should be more accurately named as 'Paper Mercantilism' and Capitalism as 'Stock-Paper Mercantilism' as its subset.
+> *After the French Revolution, the aristocrats were lumped into a term called 'capitalists' because of the industrial revolution. Our [other post](/social/economics/capitalism) explains why even the modern word 'capitalist' is wrong because it originally meant profit-earners, which include farmers and peddlers. The classical term for modern capitalism is "stock-jobbing" which emphasizes the growth of paper stock price. Thus, Neo-classical Economics should be more accurately named as 'Paper Mercantilism' and Capitalism as 'Stock-Paper Mercantilism' as its subset.
 
 
 Thus, the peasants were split into two:

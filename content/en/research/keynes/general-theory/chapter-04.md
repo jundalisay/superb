@@ -8,9 +8,8 @@ linkbtext= "chapter-3"
 linkf= "/research/keynes/general-theory/chapter-05"
 linkftext= "chapter-5"
 icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
 +++ 
+
 
 Chapters 4 to 7 are a digression on three perplexities:
 
@@ -167,7 +166,7 @@ To predict how entrepreneurs <!-- possessing a given equipment --> will respond 
 
 <!--  would compare with what they were at a different date or in another country.  -->
 
-> *Superhysics note= This is actually why we created the [grain index](/articles/pantrynomics/the-alternative-to-gdp)
+> *Superhysics note: This is actually why we created the [grain index](/social/economics/solutions/gdp)
 
 
 
@@ -179,7 +178,9 @@ This does not need any reference to quantities of output, whether individually o
 
 The aggregate supply function for a firm (and an industry as a whole) is:
 
-`Zr = φr(Nr)`
+```elixir
+Zr = φr(Nr)
+```
 
 - Nr is the target level of employment
 - Zr is the return expected that will then induce Nr

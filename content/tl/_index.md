@@ -55,7 +55,7 @@ sub4 = "Pakikipagkapwa at hindi Pansariling Interes"
    subtitle = "May relativity na"
 
 [artsup.a]
-   url = "superphysics/what-is-superphysics"
+   url = "/superphysics/what-is-superphysics"
    img = "/banner.jpg" 
    title = "Ano ang Superphysics?"
    subtitle = "Bagong agham na base sa Dialektiko ni Socratic"

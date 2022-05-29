@@ -24,7 +24,7 @@ Our version of Maharlika is totally different. It's for cultural*, historical, a
 
 This urgent necessity of this shift is caused by the inceasing problems in physical health and mental health caused by European (and Arab) culture which is incompatible with island life. 
 
-- [Filipino food](/culture/war-adobo) is full of heavy meats which are suitable to cold European climates and not to the hot tropics
+- [Filipino food](/maharlika/culture/war-adobo) is full of heavy meats which are suitable to cold European climates and not to the hot tropics
 - Catholicism and Islam are best for temperate Europe and barren Arabia respectively. Fertile Maharlika is better matched with Asian philosophies such as Hinduism, Buddhism, Taoism, etc.
   - An example is Bali Indonesia which has kept its Hindu culture. This makes it a magnet for tourists who avoid unfriendly Islamic areas like Aceh. This raises Bali's GDP, preventing poverty
   - Another example is Buddhist Thailand which excels in hospitality as the land of smiles

@@ -4,9 +4,9 @@ date: 2020-05-26
 image: "/photos/psych/heart.jpg"
 heading: "Adding to Critical Thinking"
 description: "Critical feeling is done by the heart as a sixth or intuitional sense to catch the ego (the feeling of the self)"
-linkf: /superphysics/isaiah
+linkf: /superphysics/solutions/isaiah
 linkftext: "What is ISAIAH?"
-linkb: /superphysics/ideology-matrix
+linkb: /superphysics/solutions/ideology-matrix
 linkbtext: "Ideology matrix"
 author: Juan
 icon: /icons/sp.png

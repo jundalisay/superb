@@ -1,4 +1,3 @@
-
 +++
 title=  "Coin and symbols of value"
 heading=  "Section 2c"

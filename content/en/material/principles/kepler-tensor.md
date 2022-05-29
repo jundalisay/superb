@@ -16,7 +16,7 @@ icon: /icons/spmat.png
 
 ## The Two Domains
 
-In [the previous post](/articles/material/cartesian-view), we explained the Cartesian view which saw the universe in two planes: 
+In [the previous post](/material/principles/cartesian-view), we explained the Cartesian view which saw the universe in two planes: 
 
 1. Physical
 2. Aethereal 

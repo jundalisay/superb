@@ -129,15 +129,15 @@ We thus distill the root causes of the problem of the Philippines into two:
 Our solution will therefore address both problems:
 
 1. Governance solutions leading to socio-political and socio-economic policies
-- The Exchequer and Audit as [the Fourth Branch of Government](/governance/fourth-branch-government)
+- The Exchequer and Audit as [the Fourth Branch of Government](/maharlika/governance/fourth-branch-government)
 - Bicameral Federalism
 - Confirmation Elections or Party system
-- [Multilateral Clearing](https://superphysics.one/solutions/pantrynomics/multilateral-pool-clearing) 
+- [Multilateral Clearing](/research/schumacher/pool-clearing) 
 - GAAMAP (Government automated as much as possible)
 - No dual citizenship
 
 2. Metaphysical solutions leading to moral and educationalpolicies and advocacies, such as:
-- [Constitutional Virtues](/advocacy/maharlikanism)
+- [Constitutional Virtues](/maharlika/advocacy/maharlikanism)
 - Open religious policy
 - Multiple languages (Tagalog is put on same footing as Bisaya or Ilokano)
 - A guardian class or protector

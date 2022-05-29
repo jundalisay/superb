@@ -6,7 +6,7 @@ date: 2021-09-02
 image: "/covers/bbl.jpg"
 linkf: "/maharlika/laws/bbl/article-10"
 linkftext: "article-10"
-linkb: "/maharlika/laws/bbl/article-7"
+linkb: "/maharlika/laws/bbl/article-07"
 linkbtext: "article-7"
 ---
 

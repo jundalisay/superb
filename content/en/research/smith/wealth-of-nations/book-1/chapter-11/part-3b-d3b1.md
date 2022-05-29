@@ -3,15 +3,14 @@ title=  "Second Kind: Produce that can be multiplied according to demand"
 date=  2020-01-17
 image=  "/covers/wn.jpg"
 description=  "The second kind is the rude produce which human industry can multiply in proportion to the demand--Beef, Deer Meat"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-10b"
-linkbtext=  "Chapter 10 Part 2a"
-linkf=  "/research/smith/wealth-of-nations/book-2"
-linkftext=  "Chapter 10 Part 2b"
-# heading=  Chapter 11 Part 3b Digression 3b1
+linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3a"
+linkbtext=  "Chapter 11 Digression d3a"
+linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3b2"
+linkbtext=  "Chapter 11 Digression d3b2"
+heading=  "Chapter 11 Part 3b Digression 3b1"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
+
 
 {{< s v="195" >}} The second kind is the rude produce which human industry can multiply in proportion to the demand.
 

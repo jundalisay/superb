@@ -72,7 +72,7 @@ For example:
 The definition of the former focuses on the negative aspect of Existence, such as Apocalypse, the Devil, and the End of Days, while the latter does not. Since mentality creates reality, we go with the latter definition. In this way, we build a system that is naturally free from conflict and negativity, very different from the other systems that have naturally-perpetual conflict .
  -->
 
-> *We emphasize 'felt the need' in order to be consistent with [our moral solution](/articles/superphysics/everything-is-an-idea) of getting all the feelings of diifferent human societies so that we can find the lowest-common-denominator-feeling. 
+> *We emphasize 'felt the need' in order to be consistent with [our moral solution](/superphysics/principles/idea) of getting all the feelings of diifferent human societies so that we can find the lowest-common-denominator-feeling. 
 
 
 If all the inventions of God, Yahweh, Allah, etc are all caused by our positive feelings in their effort to counteract negative feelings, then finding a common positive feeling can lead to a framework to unify all those Supreme Deities for the sake of peace and unity instead of division and conflict. 

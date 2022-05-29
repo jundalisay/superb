@@ -47,7 +47,8 @@ Though Biden bears some of the blame for such a rapid withdrawal, the entire US 
 
 The American ignorance on how to build morals<!--  souls, and the metaphysics that leads to it, --> is easily seen in the belated attempts at nation-building <!-- and troop surge --> by the American military. More importantly, it is seen in their policy of starting up a democratically-elected government at a time when the soul and moral glue of Afghan society had been obliterated by the Soviet war*. 
 
-> *Our [Supersociology](/supersociology) defines a society as a [collection of minds](/articles/supersociology/what-is-social-networkism) that are unified or glued together by the morals of common interest. Afghan society therefore is a union of the different tribal society-minds which are made up of individual personal minds. This union is dissociated by internal discord from heightened ego as selfish-interest, or by external pressures, such as war. The Soviet war dissociated the soul of Afghan society, splitting it back to its components: the Pashtun society-soul, Tajik society-soul, Hazara society-soul, Uzbek society-soul, etc. with weak morals.
+> *Our [Supersociology](/social/supersociology) defines a society as a [collection of minds](/social/supersociology/principles/social-networkism) that are unified or glued together by the morals of common interest. Afghan society therefore is a union of the different tribal society-minds which are made up of individual personal minds. This union is dissociated by internal discord from heightened ego as selfish-interest, or by external pressures, such as war. The Soviet war dissociated the soul of Afghan society, splitting it back to its components: the Pashtun society-soul, Tajik society-soul, Hazara society-soul, Uzbek society-soul, etc. with weak morals.
+
 
 We will apply dialectical analysis according to Supersociology in order to list the mistakes of the US policy in Afghanistan. From there, we can come up with solutions that are better than the ones implemented by Bush to Biden. 
 
@@ -142,7 +143,7 @@ Because of the mismatch, an Afghan rent-seeking class naturally emerged to manag
 
 From 2001 until the troop surge of Obama, the strategy of the US hinged on military objectives instead of social or political ones. They would go house to house to hunt down suspected terrorists and even launch airstrikes against them. The problem is that those military actions caused collateral damage which infuriated the Afghans against the Americans more than against the Taliban. 
 
-![](https://sorasystem.sirv.com/photos/war.jpg)
+![War](https://sorasystem.sirv.com/photos/war.jpg)
 
 
 Under Obama, the main strategy of the US was to simiplistically rely on the Afghan army to defend their country. To do this, they funneled money to them which, in the end, merely went to their generals. Without proper political and military leadership and morals, the army could not defend against the Taliban who had a strong, moral leadership based on the idea called Allah. To the Afghans, this Allah was more solid than the money-god worshipped by the West.

@@ -1,6 +1,3 @@
-
-
-
 +++
 title=  "The currency of money"
 heading=  "Section 2b"

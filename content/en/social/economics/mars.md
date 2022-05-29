@@ -6,11 +6,13 @@ image: /photos/physics/mars.jpg
 description: "Pantrynomics can be used to create economic systems for Mars and other planets"
 linkb: /social/economics
 linkbtext: "Pantrynomics Articles"
-linkf: /solutions/pantrynomics/how-to-restore-the-gold-standard
+linkf: /social/economics/solutions/gold-standard
 linkftext: "how-to-restore-the-gold-standard"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
+aliases:
+  /social/economics/economic-system-for-mars
 ---
 
 Jeff Bezos recently announced his vision of moving polluting industries to the moon in order to save the Earth, using his reusable rockets. His logic is that the gravity in the moon is 1/6 of that of the Earth and so moon-based industries will require less energy. 
@@ -24,7 +26,7 @@ The whole problem with Bezos' plan is that it uses rockets for propulsion which 
 
 ![Caveman technology](https://sorasystem.sirv.com/graphics/caveman.jpg)
 
-Instead of rockets, Superphysics, via [Material Superphysics](/articles/material), advocates gravity-based propulsion which is currently unthinkable at the current level of science. 
+Instead of rockets, Superphysics, via [Material Superphysics](/material), advocates gravity-based propulsion which is currently unthinkable at the current level of science. 
 
 {{< q a="soc" >}}
 Three-dimensional solid geometry should have naturally followed two-dimensional geometry. But three-dimensional solid geometry is in such a ludicrous state. It made me pass over it, and go on to astronomy as the motion of solids.

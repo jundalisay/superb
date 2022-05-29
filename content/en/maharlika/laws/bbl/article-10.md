@@ -1,17 +1,15 @@
 ---
-title: "General Principles And Policies"
+title: "Bangsamoro Justice System"
 heading: "Article 10 of the Bangsamoro Basic Law Simplified"
 description: "For Muslims, the justice system in the Bangsamoro shall give primary consideration to Shari’ah, and customary rights and traditions of the indigenous peoples in the Bangsamoro."
 date: 2021-09-02
 image: "/covers/bbl.jpg"
 linkf: "/maharlika/laws/bbl/article-11"
 linkftext: "article-11"
-linkb: "/maharlika/laws/bbl/article-9"
-linkbtext: "article-9"
+linkb: "/maharlika/laws/bbl/article-09"
+linkbtext: "article 9"
 ---
 
-
-## Article 10: BANGSAMORO JUSTICE SYSTEM
 
 Section 1. Justice System in the Bangsamoro
 

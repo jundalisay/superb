@@ -7,9 +7,9 @@ banner      = "/graphics/physics/general.jpg"
 description = "In Superphysics, electrons have a positive or masculine charge, while protons have a negative or feminine charge. This is consistent with the male Yang or Shiva, and the female Yin or Shakti"
 categories  = ["Material Superphysics"]
 linkTitle = "Gravitational Signatures"
-linkb = "/material/general-relativity"
+linkb = "/material/fallacies/general-relativity"
 linkbtext = "general-relativity"
-linkf = "/material/universal-relativity"
+linkf = "/material/principles/universal-relativity"
 linkftext = "universal-relativity"
 icon = "/icons/spmat.png"
 aliases = [
@@ -24,7 +24,7 @@ In the previous post, we fixed relativity* by adhering to the rules** which Socr
 - The solution and cause of movement must be inherent to the object, as opposed to being external
 - The solution must be universal, that is, applicable to all five layers of the Greek or Asian model of Earth, Water, Fire, Air, and Ether 
 
-> *We fix Newton [in this post](/articles/material/cartesian-view) 
+> *We fix Newton [in this post](/material/solutions/cartesian-view) 
 
 
 > **This adherence of logic to timeless metaphysical truths is the key aspect of the dialectical method that makes it different from the scientific method which is based on evidence supplied by the limited physical senses.
@@ -106,7 +106,7 @@ This `G` then has five versions*, one for each of five layers represented by l.
 
 
 
-In this way, the resulting equation E = Gl called [the Eagle](/articles/pantrynomics/the-eagle) serves as a template that holds all the equations of potential motion:
+In this way, the resulting equation E = Gl called [the Eagle](/social/economics/principles/eagle) serves as a template that holds all the equations of potential motion:
 - `w = mg` is `E :: Gl` in the Material layer*
 - Radioactivity or non-radioactivity is `E :: Gl` in the Radioactive layer
 - `E = mc^2` is `E :: Gl` in the Radiant layer
@@ -116,7 +116,7 @@ In this way, the resulting equation E = Gl called [the Eagle](/articles/pantryno
 
 
 
-> *Superphysics uses [qualimath](/articles/superphysics/what-is-qualimath) which converts `=` into `::`
+> *Superphysics uses [qualimath](/superphysics/solutions/qualimath) which converts `=` into `::`
 
 
 <b>A gravitational signature produces attractive or repulsive motion by its affinity or difference with the signatures of other existing objects, entities, and minds within the same layer*. Lower layers are affected by higher layers, but higher layers are unaffected by the lower. Light is affected by gravity, but gravity is not affected by light.</b>
@@ -140,11 +140,11 @@ In this way, the resulting equation E = Gl called [the Eagle](/articles/pantryno
 Next, we replace `c` or the constant speed of light with `s` as the spatial speed limit* of the universe so that E :: ms<sup>2</sup>. In this way, gravitational waves travel within this spatial speed limit, instead of traveling at the speed of light. This is to switch gravitation from being subordinate to photons, to being superior to it, in accordance with our 5-layer model.
 
 For the active version, we:
-- convert the stress-energy tensor into the [Kepler Tensor](/articles/material/kepler-tensor) `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)
+- convert the stress-energy tensor into the [Kepler Tensor](/material/principles/kepler-tensor) `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)
 - convert the Einstein tensor as a ratio or relativity `:` of the identity in question to another identity 
 - convert the constants into the limiter `s` as the limits of physical space
 - remove light `c` which makes the cosmological constant `Λ` unnecessary 
-- put everthing inside a [Cartesian view](/articles/material/cartesian-view) which imposes obervation and timespans, consequently the timeline
+- put everthing inside a [Cartesian view](/material/solutions/cartesian-view) which imposes obervation and timespans, consequently the timeline
 
 
 
@@ -224,7 +224,7 @@ The result is that their theories are not universal and will fall apart once new
 
 Einstein's general relativity only holds because the simultaniety of time is rooted in the perception action. This action is based on the generation of the idea (or feeling) to start perceiving. 
 
-The speed of the generation or perception of ideas (or feelings) holds a ratio to the speed of the generation or perception of gravitational signatures or the speed of creating discrete things within the universe (since [everything is an idea](/articles/superphysics/everything-is-an-idea/). **The speed limit of the universe, whether it be on photons or gravitational waves, is totally dependent on the speed of this generation or perception.** This perception is dictated by the aether, which is the material of the mind and the medium of spacetime. 
+The speed of the generation or perception of ideas (or feelings) holds a ratio to the speed of the generation or perception of gravitational signatures or the speed of creating discrete things within the universe (since [everything is an idea](/superphysics/principles/idea/). **The speed limit of the universe, whether it be on photons or gravitational waves, is totally dependent on the speed of this generation or perception.** This perception is dictated by the aether, which is the material of the mind and the medium of spacetime. 
 
 From here we can assert, in line with Socrates, that the speed of light is not constant. Rather it is slowly increasing, proportional to the accelerated expansion of spacetime, the more the universe interacts with itself and creates discrete new entities as a result of the interactions. 
 
@@ -248,7 +248,7 @@ From this, we can make another important assertion that General Relativity (GR) 
 - GR only works on gravitational lensing because light is measured
 - Gravitational waves travel at the speed of light because lasers are used to measure it. This means a lot of things move faster than light, but are never visible nor measureable by anything electronic
 
-We replace Einstein's Special Relativity with the original Relativity of Lorentz-Poincare, using Poincare's definition of time as an illusion, instead of Einstein's time as simultaniety based on `c`. General Relativity is replaced by [qosts](/material/qost) with gravitational signatures. 
+We replace Einstein's Special Relativity with the original Relativity of Lorentz-Poincare, using Poincare's definition of time as an illusion, instead of Einstein's time as simultaniety based on `c`. General Relativity is replaced by [qosts](/material/principles/qost) with gravitational signatures. 
 
 
 ## So What's the Use of Gravitational Signatures?
@@ -271,7 +271,7 @@ This is why we can make a conjecture that Einstein actually stifled science by l
 Instead of using expensive detectors, we use Socrates to solve the problems with General Relativity:
 - The expansion of space is caused by gravitational signatures of galaxies repelling each other, not by [dark energy](https://www.futurity.org/dark-energy-dark-matter-universe-expansion-2543202-2/)
 - Gravitational lensing is caused by the gravitational signature of the intervening galaxy
-- Galaxies are held together by the gravitational signature in their center as [supermassive galactic qosts](/material/qost), not by dark matter. This implies that there is more than one kind of gravity*, each with two subtypes, a superior and a junior. 
+- Galaxies are held together by the gravitational signature in their center as [supermassive galactic qosts](/material/principles/qost), not by dark matter. This implies that there is more than one kind of gravity*, each with two subtypes, a superior and a junior. 
 
 
 > *Material Superphysics asserts that there are five kinds of gravity, four of which have been discovered by Physics as the four fundamental forces
@@ -333,7 +333,7 @@ Materially, this `G` can be used for:
 Gravitational signatures don't just work for movements in the five physical layers but also for movements in the metaphysical layer. This theory can help:
 
 - move public opinon or feelings towards a policy proposal or political candidate by knowing the current G of society. Is your society headed for a golden age, or is it on a decline? This is the job of [Social Superphysics](/social)
-- attract or retain the right employees or minds for your company and maximize their productivity by finding out their motivational G that might be different from the material particle called money. This is the job of [Economic Superphysics (Pantrynomics)](/pantrynomics)
+- attract or retain the right employees or minds for your company and maximize their productivity by finding out their motivational G that might be different from the material particle called money. This is the job of [Economic Superphysics (Pantrynomics)](/social/economics)
 - know how temporally far a person is from a disease by comparing his G with that of the disease, so that he can move away from or prevent the disease. This is the job of [Medical Superphysics](/medical)
 - and so on..
 

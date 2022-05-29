@@ -6,7 +6,7 @@ image: "/flags/cn.png"
 description: "The People’s Republic of China is a socialist state governed by a people’s democratic dictatorship that is led by the working class and based on an alliance of workers and peasants"
 linkb: /research/constitutions/cn
 linkbtext: "constitutions"
-linkf: /research/constitutions/cn/chapter-2
+linkf: /research/constitutions/cn/
 linkftext: "constitutions"
 icon: "/flags/cn.png"
 ---

@@ -6,7 +6,7 @@ image: "/photos/buy.jpg"
 description : "Ban Crypto and NFT to reduce the inflation of 2020"
 linkb: "/social/economics/solutions"
 linkbtext: "Index"
-linkf: "/social/economics/bur"
+linkf: "/social/economics/solutions/bur"
 linkftext: "BUR"
 author: Juan
 icon: "/icons/pantry.png"

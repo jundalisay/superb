@@ -15,7 +15,8 @@ aliases:
   /solutions/pantrynomics/resource-credits
   /articles/taonomics/what-are-resource-credits
   /posts-taonomics/what-are-resource-credits
-  /solutions/pantrynomics/investment-points  
+  /solutions/pantrynomics/investment-points
+  /social/economics/investment-points  
 ---
 
 We have moved this to [Pantrypoints](https://pantrypoints.com/articles/investment-points)

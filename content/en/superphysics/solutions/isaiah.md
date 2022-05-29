@@ -25,7 +25,7 @@ linkftext: "What is a Red Herring?"
  
 Pantrynomics (Economic Superphysics) aims to solve all economic problems by adding barter as points-based valuation to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether to the idea of "quantum fields". 
 
-The points-based valuation represents [the effort theory of value](/articles/pantrynomics/the-effort-theory-of-value) which we derived from Adam Smith:
+The points-based valuation represents [the effort theory of value](/social/economics/priciples/effort-theory-of-value) which we derived from Adam Smith:
 
 
 {{< quote ava="smith" >}}
@@ -79,6 +79,6 @@ ISAIAH, as a machine learning hub, can interpret data from non-economic sciences
 
 _ | Superphysics paradigm | End Goal
 --- | --- | ---
-Economic data | Pantrynomics | Real Prices, [Clearing Fund Rates](/solutions/social/how-multilateral-pool-clearing-can-solve-currency-crises)
+Economic data | Pantrynomics | Real Prices, [Clearing Fund Rates](/research/schumacher/pool-clearing)
 Health data |  [Medical Superphysics](/medical) | Disease prediction
-Historical data | [Supersociology](/supersociology) | Social and political predictions 
+Historical data | [Supersociology](/social/supersociology) | Social and political predictions 

@@ -169,7 +169,7 @@ A point is pegged to 1 kilogram of NFA rice. This will make the economy secure f
 
 <!-- This makes it a kind of delayed barter system that is based on morals instead of money, specifically pakikipagkapwa. This would make entrepreneurship cheaper since morals (trust, integrity, honesty) are free yet very expensive. --> 
 
-According to [historian Chau Ju Kua](/maharlika/history/mai), barter was the natural commercial system in Maharlika. So far, barter is only legal in Sulu through the Mindanao Barter Council. 
+According to [historian Chau Ju Kua](/research/chau-ju-kua/chun-fan-chi), barter was the natural commercial system in Maharlika. So far, barter is only legal in Sulu through the Mindanao Barter Council. 
 
 {{< q >}}
 The native traders will bring those goods to other islands for barter. It will take 8-9 months for them to return. They then repay the foreign merchants with what they had obtained for the goods.

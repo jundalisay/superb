@@ -4,9 +4,9 @@ date: 2022-01-03
 linkTitle: "Radioactive Relativity"
 image: /graphics/physics/feynman.jpg
 description: "Radioactive Relativity explains the Principles for Movement in the Radioactive Layer"
-linkb: /material/universal-relativity
+linkb: /material/principles/universal-relativity
 linkbtext: universal-relativity
-linkf: /articles/pantrynomics/the-eagle
+linkf: /social/economics/principles/eagle
 linkftext: The Eagle
 heading: Feynman Diagrams
 icon: /icons/spmat.png

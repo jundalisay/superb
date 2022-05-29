@@ -3,10 +3,10 @@ title: Feelings vs Sentiments vs Emotions vs Sensations
 date: 2020-05-26
 image: /photos/sad.jpg
 description: "Feelings, Sentiments, Emotions, Sensations are similary yet different"
+linkb: /superphysics/solutions
+linkbtext: "solutions"
 linkftext: "What is ISAIAH?"
-linkf: /articles/superphysics/what-is-isaiah
-linkb: /articles/superphysics/ideology-matrix
-linkbtext: "Ideology matrix"
+linkf: /superphysics/solutions/isaiah
 author: Juan
 icon: /icons/sp.png
 ---

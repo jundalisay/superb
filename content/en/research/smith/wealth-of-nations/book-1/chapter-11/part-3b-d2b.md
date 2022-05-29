@@ -14,7 +14,7 @@ icon=  "/icons/smith.png"
 # linkbooktext=  Support Superphysics by buying the ebook
 +++
 
-{{< s v="169" >}} The continual consumption of the precious metals is very sensible= 
+{{< s v="169" >}} The continual consumption of the precious metals is very sensible:
 - in coin by wearing
 - in plate both by wearing and cleaning
 

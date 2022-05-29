@@ -4,10 +4,10 @@ heading: "From the 4 Laws of Value"
 date: 2019-08-02
 image: "/photos/happysuccess.jpg"
 description : "The 4 branches of Pantrynomics are Personal, Social, Micro, Macro, These based on the 4 laws of value"
-linkb: /articles/pantrynomics/
+linkb: /social/economics/
 linkbtext: "Pantrynomics Articles"
-linkf: /articles/pantrynomics/barter-disadvantages-addressed
-linkftext: "Barter disadvantages addressed"
+linkf: /social/
+linkftext: "Social Superphysics"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
