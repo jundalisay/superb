@@ -4,9 +4,9 @@ heading: "Buddhist Economics"
 date: 2020-01-01
 image: "/photos/meta/buddhism.jpg"
 description : "Buddhist Economics focuses on optimal consumption, Economics focuses on optimal production"
-linkb: /research/schumacher/part-1
+linkb: /research/schumacher/buddhist-economics/part-1
 linkbtext: "Part 1"
-linkf: /research/schumacher/
+linkf: /research/schumacher/buddhist-economics/
 linkftext: "Index"
 author: EF Schumacher
 icon: /avatars/ef.png

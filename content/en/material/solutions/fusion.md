@@ -178,9 +178,9 @@ One of these powers is to levitate using their center of gravity.
 
 # 
 
-This shows how low energy input as metaphysical Effort*, without any physical fuel source or physical Force, can produce "work" as to physically lift a man by altering his [gravitational signature](/material/general-relativity). 
+This shows how low energy input as metaphysical Effort*, without any physical fuel source or physical Force, can produce "work" as to physically lift a man by altering his [gravitational signature](/material/fallacies/general-relativity). 
 
-> *This concept is one of the basis for our [Effort Theory of Value](/articles/pantrynomics/the-effort-theory-of-value), derived from Adam Smith, and is the foundation of Pantrynomics. It is opposite of the 'scarcity' embraced by Economics which makes it into a dismal science. 
+> *This concept is one of the basis for our [Effort Theory of Value](/social/economics/principles/effort-theory-of-value), derived from Adam Smith, and is the foundation of Pantrynomics. It is opposite of the 'scarcity' embraced by Economics which makes it into a dismal science. 
 
 
 This is the same technique used by UFO's to lift themselves without needing boosters nor bulky fuel tanks. It implies that their ships are sentient* just as the monk is sentient or has his own ability to express metaphysical ideas and do effort by himself.
@@ -190,7 +190,7 @@ This is the same technique used by UFO's to lift themselves without needing boos
 
 <!-- This is the first power-generation method that we mentioned being simiar to windmills.   -->
 
-Fusion is thus created when a sentient computer manipulates the gravitational signature of hydrogen, as deuterium, as to both confine and levitate them. This is the same thing that stars ([stellar qosts](/material/qost)) naturally do to clouds of gas and dust in a galaxy to start fusion and actually become stars*.
+Fusion is thus created when a sentient computer manipulates the gravitational signature of hydrogen, as deuterium, as to both confine and levitate them. This is the same thing that stars ([stellar qosts](/material/principles/qost)) naturally do to clouds of gas and dust in a galaxy to start fusion and actually become stars*.
 
 
 > *This implies that stars are sentient. This sentience is [the origin of life](/medical/physical/solutions/covid-flu-star) in the universe and is the connection point between Material and Medical Superphysics
@@ -219,24 +219,26 @@ Since artificial gravitation is the key ingredient to sustainable fusion, the fi
 
 The use of trumpets by the Israelites is consistent with Kepler who wrote about the Harmony of the Universe, consistent with Socrates and Pythagoras:
 
-<div class="squote kepler">
+
+{{< q a='kepler' >}}
 a great distinction exists between the consonances of the single planets which have been unfolded and the consonances of the planets in pairs. The single ones cannot exist at the same moment, but the pairs absolutely can. This is because the same planet, moving at its aphelion, cannot be at the opposite perihelion at the same time. But of two planets, one can be at its aphelion and the other at its perihelion. <br><br>And so the ratio of plain-song or monody, which we call "choral music" and which alone was known to the ancients, 1 to polyphony—called "figured song,"; 2 the invention of the latest generations—is the same as the ratio of the consonances which the single planets designate to the consonances of the planets taken together.
 <cite>Johanes Kepler</cite>
-</div>
+{{< /q >}}
 
-<div class="squote socrates">
+
+{{< q a='socrates' >}}
 Therefore, musical training is a more potent instrument than any other, because rhythm and harmony find their way into the inward places of the soul.
 <cite>The Simple Republic, Book 3, Chapter 2</cite>
-</div>
+{{< /q >}}
 
-![Trumpets of the ancient Egyptians](/photos/medieval/trumpets.jpg)
-<figcaption>The two trumpets found in King Tut's tomb match the use of trumpets used by the Israelites to collapse the walls of Jericho</figcaption>
 
-<br>
+{{< img src="/photos/medieval/trumpets.jpg" alt="Trumpets of the ancient Egyptians" cap="The two trumpets found in King Tut's tomb match the use of trumpets used by the Israelites to collapse the walls of Jericho" >}}
+
+
 
 Material Superphysics builds on Kepler's Laws to rebuild the principles of the material Universe based on sound from the perspective of the Supreme Entity instead of the shallow human view based on sight. This bypasses everything from Aristotle to Ptolemy, and Newton to Einstein, who created Physics principles from a shallow observation of cause and effect:
 
-<br>
+
 
 Materialist Camp | Nonmaterialist Camp
 --- | ---

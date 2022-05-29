@@ -5,10 +5,10 @@ description=  "Smith explains the errors of Aristotle"
 date=  2015-09-09
 image=  "/covers/philo.jpg"
 # image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/logic/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/logic/chapter-2"
-linkftext=  "Chapter 2"
+linkb=  "/research/smith/philosophy/chapter-2"
+linkbtext=  "Chapter 2"
+linkf=  "/research/smith/philosophy"
+linkftext=  "Index"
 # btext=  Chapter 3
 +++
 

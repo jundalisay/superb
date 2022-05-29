@@ -23,7 +23,7 @@ Currently, Economics has messy divisions arising from the lack of understanding 
 - Behavioral Economics
 - Political Economy
 
-[The Four Laws of Value](/pantrynomics/four-laws-of-value) of Pantrynomics streamlines this into four branches:
+[The Four Laws of Value](/social/economics/principles/four-laws-of-value) of Pantrynomics streamlines this into four branches:
 
 > 1. Personal Economy 
 
@@ -40,7 +40,7 @@ This is measured by the Demand factor in the DCTI model. <!-- It  manifests as t
 
 This provides the valuation system, as the Effort Theory of Value, which is based on the common food grain. This monitors the real price of everything, which is the key to preventing poverty, inequality, and crises, while maximizing productivity and personal and social happiness within the limits of the natural environment.  
 
-This is measured by the Capital factor in the [DCTI model](/articles/pantrynomics/dcti).
+This is measured by the Capital factor in the [DCTI model](/social/economics/principles/dcti).
 
 <!-- gives info on the relative indices between cities and countries, showing their relative aggregate supply and demand, measured in grain through the grain index. This manifests as our proposed centralized indicators portal -->
 
@@ -65,7 +65,7 @@ This is measured by the Industry factor in the DCTI model.
 
 ## The Four Classes
 
-[The four classes](/social/law-social-cycles) then have a domain in each of the four economies:
+[The four classes](/social/supersociology/principles/law-social-cycles) then have a domain in each of the four economies:
 
 Class | Economy
 --- | ---

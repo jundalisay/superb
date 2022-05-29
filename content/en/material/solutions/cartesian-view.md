@@ -31,7 +31,7 @@ This is made up of two parts, separated by a colon or ratio sign*;
   - Aethereal Plane: This is the cause of all movements 
   - Physical Plane: This is for physical movements that carry over from the aethereal plane
 
-> *This is explained in [Quali-math](/articles/superphysics/what-is-qualimath)
+> *This is explained in [Quali-math](/superphysics/solutions/qualimath)
 
 
 ## The Problem with the Newtonian View: Limited to the Physical Plane
@@ -170,7 +170,7 @@ Of course, we can push the box without deriving the gravitational signature of t
 
 Likewise, a physical cartesian plane might not be so useful in helping us get permits rushed in governments. But a real-time visualization of the aethereal Cartesian plane of two governments will help us figure out which one to approach and when, since it squeezes in more information. 
 
-Both can be visualized in the physical and aethereal Cartesian planes. This is actually how we plot the [Effort Theory of Value](/articles/pantrynomics/the-effort-theory-of-value) in Economic Superphysics (Pantrynomics). 
+Both can be visualized in the physical and aethereal Cartesian planes. This is actually how we plot the [Effort Theory of Value](/social/economics/principles/effort-theory-of-value) in Economic Superphysics (Pantrynomics). 
 
 ![Price trends](/graphics/qoaprices.png) 
 

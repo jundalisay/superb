@@ -5,15 +5,14 @@ date: 2020-09-21
 image: /photos/econ/writer.jpg
 # image: "https://sorasystem.sirv.com/photos/type.jpg"
 description : "We propose Bullet-style Writing style for writing content that is better for the internet and SEO"
-linkb: "/solutions/supersociology"
+linkb: "/social/supersociology/solutions"
 linkbtext: "Social solutions"
-linkf: "/solutions/superphysics/how-to-fix-math"
+linkf: "/superphysics/solutions/how-to-fix-math"
 linkftext: "how-to-fix-math"
-btext: How does it work?
 author: Juan
 icon: /icons/sp.png
-icontext: Superphysics icon
 ---
+
 
 The advent of the internet allowed information to be shared globally, resulting in 'information overload'.  However, this increase in the quantity of information being perceived did not really come from new information, but instead came from already-existing information from various sources being made accessible to the user or perceiver.
 
@@ -28,16 +27,16 @@ Since brain and mind* cannot change drastically overnight or even in a few years
 In this way, by reducing the superfluous data or noise, he can still have a piece of the information from his fellow-countrymen and really know all of his country to some extent.
 <!-- or be grouped into 100 or 1,000 units, then at maximum capacity, the person can still accommodate all the info from his countrymen. -->
 
-<br>
 
-### How it Works
+## How it Works
 
 Since recorded information usually manifests as written text, then the style of writing can be optimized to reduce the noise and unnecessary data. This can be done by breaking down complex ideas into basic ones, and by grouping similar or contiguous ideas*, as described by David Hume:
 
-<div class="squote hume" data-sal="slide-right">
+
+{{< q a="hume" >}}
 It is certain that distance diminishes the force of every idea, and that, upon our approach to any object; though it does not discover itself to our senses; it operates upon the mind with an influence, which imitates an immediate impression. The thinking on any object readily transports the mind to what is contiguous; but it is only the actual presence of an object, that transports it with a superior vivacity.
 <cite>Enquiry on Human Understanding, Section 5, Part 2</cite>
-</div>
+{{< /q >}}
 
 
 > *This follows the maxim that all ideas are connected
@@ -49,9 +48,10 @@ For example, we implement Hume's metaphysical ideas in re-organizing a news arti
 ![Bullet-style writing](https://socioecons.files.wordpress.com/2015/09/bulletstyle-new-page-2.png)
 
 
-<br>
 
-### Positive Response
+## Positive Response
 
-I've posted the above article on social media and so far most have preferred bullet style as more convenient and quicker for comprehension. This style of organizing information will be implemented in our simplifications of enlightenment-era works, such as those of David Hume and Montesquieu in order to make the more understandable.
+I've posted the above article on social media and so far most have preferred bullet style as more convenient and quicker for comprehension. 
+
+This style of organizing information will be implemented in our simplifications of enlightenment-era works, such as those of David Hume and Montesquieu in order to make the more understandable.
   

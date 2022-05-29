@@ -4,7 +4,7 @@ heading: "The moral sense in all humans"
 date: 2017-09-21
 image: /photos/meta/buddhism.jpg
 description: "The Impartial Spectator of Adam Smith is the moral sense in all humans"
-linkb: /social/supersociology/what-is-morality
+linkb: /superphysics/principles/what-is-morality
 linkbtext: "what-is-morality"
 linkf: /superphysics/ai-is-autonomous
 linkftext: "AI is autonomous"
