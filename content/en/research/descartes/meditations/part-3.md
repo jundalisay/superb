@@ -1,15 +1,16 @@
-+++
-title= "The existence of God"
-author= "Rene Descartes"
-image= "/covers/meditations.jpg"
-description= "This thing also imagines and has sensory perceptions. Even if the objects of my sensory experience and imagination don’t exist outside me, still sensory perception and imagination themselves, considered simply as mental events, certainly do occur in me."
-linkb= "/research/descartes/meditations/part-2"
-linkbtext= "Part 2"
-linkf= "/research/descartes/meditations/part-4"
-linkftext= "Part 4"
-heading= "Third meditation"
-icon= "/icons/spmat.png"
-+++
+---
+title: The existence of God
+heading: Third of the Meditations Simplified
+date: 2022-01-31
+description: "Bodies are much more clearly known to me than this puzzling ‘I’ that cannot be pictured in the imagination"
+image: "/covers/meditations.jpg"
+author: "Rene Descartes"
+linkb: "/research/descartes/meditations/part-2"
+linkbtext: "Part 2"
+linkf: "/research/descartes/meditations/part-3b"
+linkftext: "Part 3b"
+icon: "/icons/descartes.png"
+---
 
 
 I will now:
@@ -31,103 +32,143 @@ I am a thing that thinks:
 - wills,
 - refuses. 
 
-This thing also imagines and has sensory perceptions. Even if the objects of my sensory experience and imagination don’t exist outside me, still sensory perception and imagination themselves, considered simply as mental events, certainly do occur in me.
+This thing also imagines and has sensory perceptions. 
 
-That lists everything that I truly know, or at least everything I have, up to now, discovered that I know. 
+My sensory experiences and imagination certainly do occur inside me as mental events, even if they do not  exist outside me. 
 
-Now I will look more carefully to see whether I have overlooked other facts about myself. I am certain that I am a thinking thing. Doesn’t that tell me what it takes for me to be certain about anything? In this first item of knowledge there is simply a clear and distinct perception of what I am asserting; this wouldn’t be enough to make me certain of its truth if it could ever turn out that something that I perceived so clearly and distinctly was false. So I now seem to be able to lay it down as a general rule that whatever I perceive very clearly and distinctly is true.
+<!-- That lists everything that I truly know, or at least everything I have, up to now, discovered that I know.  -->
 
-I previously accepted as perfectly certain and evident many things that I afterwards realized were doubtful – the earth, sky, stars, and everything else that I took in through the senses – but in those cases what I perceived clearly were merely the ideas or thoughts of those things that came into my mind; and I am still not denying that those ideas occur within me. But I used also to believe that my ideas came from things outside that resembled them in all respects. Indeed, I believed this for so long that I wrongly came to think that I perceived it clearly. In fact, it was false; or anyway if it was true it was not thanks to the strength of my perceptions.
+Have I overlooked other facts about myself?
 
-But what about when I was considering something simple and straightforward in arithmetic or geometry, for example that two plus three makes five? Didn’t I see these things clearly enough to accept them as true? Indeed, the only reason I could find for doubting them was this= Perhaps some God could have made me so as to be deceived even in those matters that seemed most obvious. 
+<!-- I am certain that I am a thinking thing. Doesn’t that tell me what it takes for me to be certain about anything? In this first item of  -->
 
-Whenever I bring to mind my old belief in the supreme power of God, I have to admit that God could, if he wanted to, easily make me go wrong even about things that I think I see perfectly clearly. But when I turn my thought onto the things themselves – the ones I think I perceive clearly – I find them so convincing that I spontaneously exclaim= ‘Let him do his best to deceive me! He will never bring it about that I am nothing while I think I am something; or make it true in the future that I have never existed, given that I do now exist; or bring it about that two plus three make more or less than five, or anything else like this in which I see a plain contradiction.’ Also, since I have no evidence that there is a deceiving God, and don’t even know for sure that there is a God at all, the reason for doubt that depends purely on this supposition of a deceiving God is a very slight and theoretical one. However, I shall want to remove even this slight reason for doubt; so when I get the opportunity I shall examine whether there is a God, and (if there is) whether he can be a deceiver. If I don’t settle this, it seems, then I can never be quite certain about anything else.
 
-First, if I am to proceed in an orderly way I should classify my thoughts into definite kinds, and ask which kinds can properly be said to be true or false. Some of my thoughts are, so to speak, images or pictures of things – as when I think of a man, or a chimera, or the sky, or an angel, or God – and strictly speaking these are the only thoughts that should be called ‘ideas’.
+## Knowledge
 
-Other thoughts have more to them than that= for example when I will, or am afraid, or affirm, or deny, my thought represents some particular thing but it also includes something more than merely the likeness of that thing. Some thoughts in this category are called volitions or emotions, while others are called judgments.
+Knowledge means that there is a clear and distinct perception of what I am knowing. **Thus, as a general rule, whatever I perceive very clearly and distinctly is true.**
 
-When ideas are considered solely in themselves and not taken to be connected to anything else, they can’t be false; for whether it is a goat that I am imagining or a chimera, either way it is true that I do imagine it. Nor is there falsity in the will or the emotions; for even if the things I want are wicked or non-existent, it is still true that I want them. All that is left – the only kind of thought where I must watch out for mistakes – are judgments. And the mistake they most commonly involve is to judge that my ideas resemble things outside me. Of course, if I considered the ideas themselves simply as aspects of my thought and not as connected to anything else, they couldn’t lead me into error.
+<!--  asserting; this wouldn’t be enough to make me certain of its truth if it could ever turn out that something that I perceived so clearly and distinctly was false. So I now seem to be able to lay it down -->
 
-Among my ideas, some seem to be innate, some to be caused from the outside, and others to have been invented by me. As I see it, my understanding of what a thing is, what truth is, and what thought is, derives purely from my own nature, which means that it is innate·; my hearing a noise or seeing the sun or feeling the fire comes from things outside me; and sirens, hippogriffs and the like are my own invention. But perhaps really all my ideas are caused from the outside, or all are innate, or all are made up; for I still have not clearly perceived their true origin.
+<!-- I previously accepted as perfectly certain and evident many things that I afterwards realized were doubtful – the earth, sky, stars, and everything else that I took in through the senses – but in those cases what I perceived clearly were merely the ideas or thoughts of those things that came into my mind. 
+ -->
 
-But my main question now concerns the ideas that I take to come from things outside me= why do I think they resemble these things? Nature has apparently taught me to think that they do.
+I realized that the sensory objects were doubtful. But these led to my ideas of them. Those ideas <!-- I am still not denying that those ideas --> still occurred inside me. 
 
-But also I know from experience that these ideas don’t depend on my will, and thus don’t depend simply on me. They often come into my mind without my willing them to= right now, for example, I have a feeling of warmth, whether I want to or not, and that leads me to think that this sensation or idea of heat comes from something other than myself, namely the heat of a fire by which I am sitting. And it seems natural to suppose that what comes to me from that external thing will be like it rather than unlike it.
+But I used believed that my ideas of those sensory objects were exactly as those objects. I believed this for so long that I wrongly came to think that I perceived those objects clearly. In fact, my ideas were false. If it were true, then it was not due to the strength of my perceptions.
 
-Now let me see if these arguments are strong enough. When I say ‘Nature taught me to think this’, all I mean is that I have a spontaneous impulse to believe it, not that I am shown its truth by some natural light. There is a great difference between those. Things that are revealed by the natural light – for example, that if I am doubting then I exist – are not open to any doubt, because no other faculty that might show them to be false could be as trustworthy as the natural light. My natural impulses, however, have no such privilege= I have often come to think that they had pushed me the wrong way on moral questions, and I don’t see any reason to trust them in other things.
+But what about abstract ideas like those of arithmetic or geometry, like 2 + 3 = 5? These are true*.
 
-Then again, although these ideas don’t depend on my will, it doesn’t follow that they must come from things located outside me. Perhaps they come from some faculty of mine other than my will – one that I don’t fully know about – which produces these ideas without help from external things; this is, after all, just how I have always thought ideas are produced in me when I am dreaming. Similarly, the natural impulses that I have been talking about, though they seem opposed to my will, come from within me; which provides evidence that I can cause things that my will does not cause.
 
-Finally, even if these ideas do come from things other than myself, it doesn’t follow that they must resemble those things. Indeed, I think I have often discovered objects to be very unlike my ideas of them. For example, I find within me two different ideas of the sun= one seems to come from the senses – it is a prime example of an idea that I reckon to have an external source – and it makes the sun appear very small; the other is based on astronomical reasoning, and it shows the sun to be several times larger than the earth. Obviously these ideas cannot both resemble the external sun; and reason convinces me that the idea that seems to have come most directly from the sun itself in fact does not resemble it at all.
+> Superphysics Note: The truth of `2 + 3 = 5` comes from the fact that `2`, `3`, and `5` are all idea-objects made up of aether, and not sensory objects made uo of electromagnetism or strong and weak forces. Thus, the idea and mind match, leading to truth, because they are both of the same material. The idea of God is an idea with a huge aether content.
 
-These considerations show that it isn’t reliable judgment but merely some blind impulse that has led me to think that there exist things outside me that give ideas or images of themselves through the sense organs or in some other way.
+<!-- Didn’t I see these things clearly enough to accept them as true? Indeed, the only reason I could find for doubting them was this= Perhaps some God could have made me so as to be deceived even in those matters that seemed most obvious.  -->
 
-Perhaps, though, there is another way of investigating whether some of the things of which I have ideas really do exist outside me. Considered simply as mental events, my ideas seem to be all on a par= they all appear to come from inside me in the same way. But considered as images representing things other than themselves, it is clear that they differ widely. Undoubtedly, the ideas that represent substances amount to something more – they contain within themselves more representative reality – than do the ideas that merely represent qualities. Again, the idea that gives me my understanding of a supreme God – eternal, infinite, unchangeable, omniscient, omnipotent and the creator of everything that exists except for himself – certainly has in it more representative reality than the ideas that represent merely finite substances.
+<!-- Whenever I bring to mind my old belief in the supreme power of God, I have to admit that  -->
 
-Now it is obvious by the natural light that the total cause of something must contain at least as much reality as does the effect. For where could the effect get its reality from if not from the cause? And how could the cause give reality to the effect unless it first had that reality itself? Two things follow from this= that something can’t arise from nothing, and that what is more perfect – that is, contains in itself more reality – can’t arise from what is less perfect. And this is plainly true not only for ‘actual’ or ‘intrinsic’ reality (as philosophers call it) but also for the representative reality of ideas – that is, the reality that a idea represents. A stone, for example, can begin to exist only if it is produced by something that contains – either straightforwardly or in some higher form – everything that is to be found in the stone; similarly, heat can’t be produced in a previously cold object except by something of at least the same order of perfection as heat, and so on. (I don’t say simply ‘except by something that is hot’, because that is not necessary. The thing could be caused to be hot by something that doesn’t itself straightforwardly contain heat – i.e. that isn’t itself hot – but contains heat in a higher form, that is, something of a higher order of perfection than heat. Thus, for example, although God is obviously not himself hot, he can cause something to be hot because he contains heat not straightforwardly but in a higher form.) But it is also true that the idea of heat or of a stone can be caused in me only by something that contains at least as much reality as I conceive to be in the heat or in the stone. For although this cause does not transfer any of its actual or intrinsic reality to my idea, it still can’t be less real. An idea need have no intrinsic reality except what it derives from my thought, of which it is a mode. But any idea that has representative reality must surely come from a cause that contains at least as much intrinsic reality as there is representative reality in the idea. For if we suppose that an idea contains something that was not in its cause, it must have got this from nothing; yet the kind of reality that is involved in something’s being represented in the mind by an idea, though it may not be very perfect, certainly isn’t nothing, and so it can’t come from nothing.
+God could easily make me go wrong, even on things that I think I see perfectly clearly.
 
-It might be thought that since the reality that I am considering in my ideas is merely representative, it might be possessed by its cause only representatively and not intrinsically. That would mean that the cause is itself an idea, because only ideas have representative reality. But that would be wrong. Although one idea may perhaps originate from another, there can’t be an infinite regress of such ideas; eventually one must come back to an idea whose cause isn’t an idea, and this cause must be a kind of archetype containing intrinsically all the reality or perfection that the idea contains only representatively. So the natural light makes it clear to me that my ideas are like pictures or images that can easily fall short of the perfection of the things from which they are taken, but which can’t exceed it.
+But when I think about the ideas that I think I perceive clearly, I exclaim: 
 
-The longer and more carefully I examine all these points, the more clearly and distinctly I recognize their truth. But what is my conclusion to be? If I find that some idea of mine has so much representative reality that I am sure the same reality doesn’t reside in me, either straightforwardly or in a higher form, and hence that I myself can’t be the cause of the idea, then, because everything must have some cause, it will necessarily follow that I am not alone in the world= there exists some other thing that is the cause of that idea.
+‘Let him do his best to deceive me! He can never fool me into thinking that:
+- I am nothing while I think I am something
+- I never existed to my future self when I really do exist now
+- 2 + 3 = 4 or 6"
 
-If no such idea is to be found in me, I shall have no argument to show that anything exists apart from myself; for, despite a most careful and wide-ranging survey, this is the only argument I have so far been able to find.
 
-Among my ideas, apart from the one that gives me a representation of myself, which can’t present any difficulty in this context, there are ideas that variously represent God, inanimate bodies, angels, animals and finally other men like myself.
+I have no evidence that there is a deceiving God. I am not even sure that there is a God at all. The idea of a deceiving God is a very theoretical one. 
 
-As regards my ideas of other men, or animals, or angels, I can easily understand that they could be put together from the ideas I have of myself, of bodies and of God, even if the world contained no men besides me, no animals and no angels.
+I will analyze this idea so I can be certain about what God is. 
 
-As to my ideas of bodies, so far as I can see they contain nothing that is so great or excellent that it couldn’t have originated in myself. For if I examine them thoroughly, one by one, as I did the idea of the wax yesterday, I realize that the following short list gives everything that I perceive clearly and distinctly in them= size, or extension in length, breadth and depth; shape, which is a function of the boundaries of this extension; position, which is a relation between various items possessing shape; motion, or change in position.
+<!-- However, I shall want to remove even this slight reason for doubt; so when I get the opportunity I shall examine whether there is a God, and (if there is) whether he can be a deceiver. If I don’t settle this, it seems, then I can never be quite certain about anything else. -->
 
-To these may be added substance, duration and number.
+First, I classify my thoughts into definite kinds, with each kind being true or false. 
 
-But as for all the rest, including light and colours, sounds, smells, tastes, heat and cold and the other qualities that can be known by touch, I think of these in such a confused and obscure way that I don’t even know whether they are true or false, that is, whether my ideas of them are ideas of real things or of non-things. Strictly speaking, only judgments can be true or false; but we can also speak of an idea as ‘false’ in a certain sense – we call it ‘materially false’ – if it represents a non-thing as a thing. For example, my ideas of heat and cold have so little clarity and distinctness that they don’t enable me to know whether cold is merely the absence of heat, or heat is merely the absence of cold, or heat and cold are both real positive qualities, or neither heat nor cold is a real positive quality.
+### Ideas
 
-If the right answer is that cold is nothing but the absence of heat, the idea that represents it to me as something real and positive deserves to be called ‘false'; and the same goes for other ideas of this kind.
+Some of my thoughts are images of things. These thought-images <!--  – as when I think of a man, or a chimera, or the sky, or an angel, or God – and strictly speaking these --> are the only ones that should be called ‘ideas’.
 
-Such ideas obviously don’t have to be caused by something other than myself. If they are false – that is, if they represent non-things – then they are in me only because of a deficiency or lack of perfection in my nature, which is to say that they arise from nothing; I know this by the natural light. If on the other hand they are true, there is no reason why they shouldn’t arise from myself, since they represent such a slight reality that I can’t even distinguish it from a non-thing.
+### Non-Ideas (Feelings)
 
-With regard to the clear and distinct elements in my ideas of bodies, it appears that I could have borrowed some of these from my idea of myself, namely substance, duration, number and anything else of this kind. For example, I think that a stone is a substance, or is a thing capable of existing independently, and I also think that I am a substance. Admittedly I conceive of myself as a thing that thinks and isn’t extended, and of the stone as a thing that is extended and doesn’t think, so that the two conceptions differ enormously; but they seem to have the classification ‘substance’ in common. Again, I perceive that I now exist, and remember that I have existed for some time; moreover, I have various thoughts that I can count; it is in these ways that I acquire the ideas of duration and number that I can then transfer to other things. As for all the other elements that make up the ideas of bodies – extension, shape, position and movement – these are not straightforwardly contained in me, since I am nothing but a thinking thing; but since they are merely modes of a substance, and I am a substance, it seems possible that they are contained in me in some higher form. That is, I am not myself extended, shaped etc., but because I am a substance I am (so to speak) metaphysically one up on these mere modes, which implies that I can contain within me whatever it takes to cause the ideas of them.
+Other thoughts come from will, fear, affirmation, denial, etc.  <!-- my thought represents some particular thing but it also includes something more than merely the likeness of that thing. -->  These are <!-- Some thoughts in this category are --> called volitions or emotions.
 
-So there remains only the idea of God= is there anything in that which couldn’t have originated in myself? By the word ‘God’ I understand a substance that is infinite, eternal, unchangeable, independent, supremely intelligent, supremely powerful, which created myself and anything else that may exist. The more carefully I concentrate on these attributes, the less possible it seems that any of them could have originated from me alone. So this whole discussion implies that God necessarily exists.
+Ideas are true when they are considered solely by themselves, unconnected to anything else. <!--  they can’t be false; for whether it is a goat that I am imagining or a chimera, either way it is true that I do imagine it. --> 
 
-It is true that my being a substance explains my having the idea of substance; but it does not explain my having the idea of an infinite substance. That must come from some substance that is itself infinite. I am finite.
+The will or the emotions are also true. Even if I want bad or non-existent things, it is still true that I want them. 
 
-It might be thought that this is wrong, because my notion of the infinite is arrived at merely by negating the finite, just as my conceptions of rest and darkness are arrived at by negating movement and light. That would be a mistake, however. I clearly understand that there is more reality in an infinite substance than in a finite one, and hence that my perception of the infinite, i.e. God, is in some way prior to my perception of the finite, i.e. myself. Whenever I know that I doubt something or want something, I understand that I lack something and am therefore not wholly perfect. How could I grasp this unless I had an idea of a perfect being, which enabled me to recognize my own defects by comparison? Nor can it be said that this idea of God could be ‘materially false’, and thus have come from nothing, as may be the case (I noted this a few moments ago) with the ideas of heat and cold. On the contrary, it is utterly clear and distinct, and contains in itself more representative reality than any other idea; that is, it stands for something that is grander, more powerful, more real, than any other idea stands for; so it is more true – less open to the suspicion of falsehood – than any other idea. This idea of a supremely perfect and infinite being is, I say, true in the highest degree; for although one might imagine that such a being does not exist, it can’t be supposed that the idea of such a being represents something unreal in the way that the idea of cold perhaps does. The idea is, moreover, utterly clear and distinct. It does not matter that I don’t grasp the infinite, or that there are countless additional attributes of God that I can’t grasp and perhaps can’t even touch in my thought; for it is in the nature of the infinite not to be grasped by a finite being like myself. It is enough that I understand the infinite, and that I judge that all the attributes that I clearly perceive and know to imply some perfection – and perhaps countless others of which I am ignorant – are present in God either straightforwardly or in some higher form. This is enough to make the idea that I have of God the truest and most clear and distinct of all my ideas.
 
-Here is a possible objection to that line of thought. Perhaps I am greater than I myself understand= perhaps all the perfections that I attribute to God are ones that I do have in some potential form, and they merely haven’t yet shown themselves in actuality. My knowledge is gradually increasing, and I see no obstacle to its going on increasing to infinity. I might then be able to use this increased and eventually infinite knowledge to acquire all the other perfections of God. In that case, I already have the potentiality for these perfections – why shouldn’t this potentiality be enough to enable me to have caused the idea of them that is, to have caused my idea of God·? But all this is impossible for three reasons.
+### Judgments
 
-First, though it is true that my knowledge is increasing, and that I have many potentialities that are not yet actual, this is all quite irrelevant to the idea of God, which contains absolutely nothing that is potential. Indeed, this gradual increase in knowledge is itself the surest sign of imperfection, because if I am learning more, that shows that there are things I don’t know, and that is an imperfection in me. What is more, even if my knowledge increases for ever, it will never actually be infinite, since it will never reach the point where it isn’t capable of a further increase; God, on the other hand, I take to be actually infinite, so that nothing can be added to his perfection. And, thirdly, strictly speaking potential being is nothing; what it takes to cause the representative being of an idea is actual being.
 
-If one concentrates carefully, all this is quite evident by the natural light. But when I relax my concentration, and my mental vision is blurred by the images of things I perceive by the senses, I lose sight of the reasons why my idea of more perfect being has to come from a being that really is more perfect. So I want to push on with my enquiry, now asking a new question= If the more perfect being didn’t exist, could I exist? My hope is that the answer to this will yield a new proof of the existence of a perfect being – a proof that it will be easier for me to keep in mind even when I relax my concentration.
+Thoughts that are not ideas or feelings are called judgments. These are liable to by false. 
 
-Well, if God didn’t exist, from what would I derive my existence? It would have to come from myself, or from my parents, or from some other beings less perfect than God (a being more perfect than God, or even one as perfect, is unthinkable).
+<!-- All that is left – the only kind of thought where I must watch out for mistakes – are judgments.  -->
 
-If I had derived my existence from myself, I would not now doubt or want or lack anything at all; for I would have given myself all the perfections of which I have any idea. So I would be God.
+The most common mistake is to judge that my ideas resemble things outside of me. <!-- Of course, if I considered the ideas themselves simply as aspects of my thought and not as connected to anything else, they couldn’t lead me into error. -->
 
-Here is a thought that might seem to undercut that argument. Perhaps I have always existed as I do now. In that case, wouldn’t it follow that there need be no cause for my existence? No, it does not follow. For a life-span can be divided into countless parts, each completely independent of the others, so that from my existing at one time it doesn’t follow that I exist at later times, unless some cause keeps me in existence – one might say that it creates me afresh at each moment. Anyone who thinks hard about the nature of time will understand that what it takes to bring something into existence is also needed to keep it in existence at each moment of its duration. Thus there is no real distinction between preservation and creation – only a conceptual one – and this is one of the things that the natural light makes evident.
+Among my ideas:
+- some are innate
+- some are caused from the outside
+- some are invented by me. 
 
-So I have to ask myself whether I have the power to bring it about that I, who now exist, will still exist a minute from now. For since I am nothing but a thinking thing – or anyway that is the only part of me that I am now concerned with – if I had such a power I would undoubtedly be aware of it. But I experience no such power, and this shows me quite clearly that I depend for my continued existence on some being other than myself.
+The following are all innate:
+- my understanding of what a thing is
+- my understanding of what truth is
+- my understanding of what thought is
 
-Perhaps this being is not God, though. Perhaps I was produced by causes less perfect than God, such as my parents. No; for as I have said before, it is quite clear that there must be at least as much reality or perfection in the cause as in the effect. And therefore, given that I am a thinking thing and have within me some idea of God, the cause of me – whatever it is – must itself be a thinking thing and must have the idea of all the perfections that I attribute to God. What is the cause of this cause of me? If it is the cause of its own existence, then it is God; for if it has the power of existing through its own strength, then undoubtedly it also has the power of actually possessing all the perfections of which it has an idea – that is, all the perfections that I conceive to be in God. If on the other hand it gets its existence from another cause, then the question arises all over again regarding this further cause= Does it get its existence from itself or from another cause? Eventually we must reach the ultimate cause, and this will be God.
+These come purely from my own nature.
 
-It is clear enough that this sequence of causes of causes can’t run back to infinity, especially since I am dealing with the cause that not only produced me in the past but also preserves me at the present moment.
 
-One might think this= Several partial causes contributed to my creation; I received the idea of one of the perfections that I attribute to God from one cause, and the idea of another from another.
+my hearing a noise or seeing the sun or feeling the fire comes from things outside me; and 
 
-Each perfection is to be found somewhere in the universe, but no one thing has them all.
+sirens, hippogriffs and the like are my own invention. 
 
-That can’t be right, because God’s simplicity – that is, the unity or inseparability of all his attributes – is one of the most important of the perfections that I understand him to have. The idea of his perfections as united in a single substance couldn’t have been placed in me by any cause that didn’t also provide me with the ideas of the perfections themselves; for no cause could have made me understand that the perfections are united without at the same time showing me what they are.
+My ideas might all come from the outside, or might be all innate, or made up by myself. <!-- ; for I still have not clearly perceived their true origin. -->
 
-Lastly, as regards my parents, even if everything I have ever believed about them is true, it is certainly not they who keep me in existence. Insofar as I am a thinking thing, indeed, they did not even make me; they merely brought about an arrangement of matter that I have always regarded as containing me (that is, containing my mind, for that is all I now take myself to be). So my parents can’t be the cause-of-me that I am enquiring about.
+But my main question now concerns the ideas that I take to come from things outside me= 
 
-Given the failure of every other candidacy for the role of cause of me and of my idea of a most perfect being, I infer that the only successful candidacy is God’s. Thus, I conclude that the mere fact that I exist and have within me an idea of a most perfect being – that is, God – provides a clear proof that God does indeed exist.
+But why do I think that the ideas from external origins resemble the ideas that I made myself? 
 
-It remains for me only to ask how I received this idea from God. I didn’t get it from the senses= it has never come to me unexpectedly, as do most of the ideas that occur when I seem to see and touch and hear things. And it’s not something that I invented, either; for clearly I can’t take anything away from it or to add anything to it. ·When an idea is sheerly invented, the inventor is free to fiddle with it – add a bit here, subtract a bit there – whereas my idea of God is a natural unit that doesn’t invite or even permit such interference·. The only remaining alternative is that my idea of God is innate in me, just as the idea of myself is innate in me.
+Nature has apparently taught me to think that they do.
 
-It is no surprise that God in creating me should have placed this idea in me, to serve as a mark of the craftsman stamped on his work (not that he needed any mark other than the work itself). But the mere fact that God created me is a good reason for thinking that I am somehow made in his image and likeness, and that I perceive that likeness in the same way that I perceive myself. That is, when I turn my mind’s eye upon myself, I understand that I am a thing that is incomplete and dependent on something else, and which aspires without limit to ever greater and better things; but I also understand at the same time that he on whom I depend has within him all those greater things, and hence that he is God. The core of the argument is this= I couldn’t exist with the nature that I have – that is, containing within me the idea of God – if God didn’t really exist. By ‘God’ I mean the very being the idea of whom is within me – the one that has no defects and has all those perfections that I can’t grasp but can somehow touch with my thought.
+But from experience, I know that these ideas do not depend on my will. Thus, they do not depend simply on me. They often come into my mind without my willing them to. 
 
-This shows clearly that it is not possible for him to be a deceiver, since the natural light makes it clear that all fraud and deception depend on some defect.
+For example, now I feel warm whether I want to or not. This leads me to think that this sensation or idea of heat comes from something other than myself, namely the heat of a fire nearby. 
 
-But before examining this point more carefully and investigating other truths that may be derived from it, I want to pause here and spend some time contemplating God; to reflect on his attributes and to gaze with wonder and adoration on the beauty of this immense light, so far as the eye of my darkened intellect can bear it. For just as we believe through faith that the supreme happiness of the next life consists in contemplating the divine majesty, so experience tells us that this same contemplation, though much less perfect, provides the greatest joy we can have in this life.
+What comes to me from that external thing will naturally be like it.
+
+<!-- Now let me see if these arguments are strong enough.  --> Nature makes us believe this through <!--  taught me to think this’, all I mean is that I have --> a spontaneous impulse, not <!--  to believe it, not that I am shown --> through a natural truth<!--  by some natural light -->. 
+
+There is a great difference between:
+- natural impulse
+- natural truth. 
+
+The natural truth is revealed by the natural light. For example, I know the natural truth of my existence because the natural light tells me so. <!--  that if I am doubting then I exist – are not open to any doubt, because no other faculty that might show them to be false could be as trustworthy as .  -->
+
+My natural impulses, however, have no such privilege. These have pushed me in the wrong way on moral questions. I do not trust them. <!--  see any reason to trust them in other things. -->
+
+The ideas from natural impulses do not depend on my will. But it does not mean that they must come from things outside of me. 
+
+Perhaps they come from some faculty of mine other than my will – one that I don’t fully know about – which produces these ideas without help from external things. This is how ideas are produced in me when I am dreaming. 
+
+Similarly, the ideas from natural impulses might seem opposed to my will. But these can come from within me. I can cause things that my will does not cause.
+
+Finally, even if these ideas do come from things other than myself, it does not mean that they must resemble those things. 
+
+I have often discovered objects which are very unlike my ideas of them. For example, I have 2 different ideas of the sun:
+- Idea 1 comes from the senses which makes the sun appear very small
+- Idea 2 is based on astronomical reasoning, showing the sun to be much larger than the earth. 
+
+These ideas cannot both resemble the external sun. Idea 2, from the sun itself, is very different from Idea 1. 
+
+Idea 1 shows that ideas from blind impulse do not lead to reliable judgment. <!--   but merely some  that has led me to think that there exist things outside me that give ideas or images of themselves through the sense organs or in some other way. -->
+
+Perhaps, though, there is another way of investigating whether some of the things of which I have ideas really do exist outside me.
+
+As mental events, my ideas seem to be all on a par. They all appear to come from inside me in the same way. 
+
+But considered as images representing things other than themselves, they differ widely.
+
+The ideas that represent substances amount to something more. They contain within themselves more representative reality – than do the ideas that merely represent qualities. 
+
+My idea of a supreme God as an eternal, infinite, unchangeable, omniscient, omnipotent creator of everything that exists except for himself has more representative reality than the ideas that represent merely finite substances.
 

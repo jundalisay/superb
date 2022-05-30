@@ -96,7 +96,9 @@ In order to maximize our experience of existence, it would best to have both sen
 
 This active sensing is the foundation of critical thinking (as intellect), as well as [critical feeling](/superphysics/critical-feeling) (as kindness and fellow-feeling). 
 
-Currently, the educational system in most countries mostly focuses on intellect and is very deficient in fellow-feeling. This is proven by the prevalence of racism, terrorism, poverty & inequality, materialism, environmental destruction, etc. The glaring proof is the existence of mass shootings by young people in the West. It shows that their educational or cultural systems nurtured hate and division instead of fellow-feeling and unity. This problem does not exist in Asian* education or culture.   
+Currently, the educational system in most countries mostly focuses on intellect and is very deficient in fellow-feeling. This is proven by the prevalence of racism, terrorism, poverty & inequality, materialism, environmental destruction, etc. 
+
+The glaring proof is the existence of mass shootings by young people in the West. It shows that their educational or cultural systems nurtured hate and division instead of fellow-feeling and unity. This problem does not exist in Asian* education or culture.   
 
 > *Instead of personal divisions, Asia has religious divisions that create religious conflict such as that between Hindus and Muslims in India, Buddhists and Muslims in Myanmar, and Falun Gong versus the Chinese Communist Party. In Africa, the divisions are even more basic as being based on tribal lines.  
 
@@ -104,3 +106,10 @@ Currently, the educational system in most countries mostly focuses on intellect 
 Globally, this lack of fellow-feeling hurts even the intellectual sciences. For example, scientists have long had the data to prove that global warming causes disasters. Yet the feelings of the human species are extremely disunited as to render them unable to actually implement them.
 
 The mere visualization or even 'audification' of feelings will not be enough to increase fellow-feeling. To deal with such large-scale non-feeling, Superphysics proposes many new concepts such as quali-math, constitutional virtues, five layers of medicine, five relativities, four laws of value, four social cycles, etc.  
+
+These unify the feelings of each person so that each one will discover his role in the greater plan of the universe, and appreciate the hidden value in the existence of each. 
+
+{{< q a="descartes" >}}
+A skilled craftsman makes a perfect creation as a whole, even if its parts taken individually seem imperfect.
+<cite>Descartes, Meditations Simplified, Part 4</cite>
+{{< /q >}}

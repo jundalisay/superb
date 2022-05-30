@@ -6,7 +6,7 @@ description=  "The second kind is the rude produce which human industry can mult
 linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3a"
 linkbtext=  "Chapter 11 Digression d3a"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3b2"
-linkbtext=  "Chapter 11 Digression d3b2"
+linkftext=  "Chapter 11 Digression d3b2"
 heading=  "Chapter 11 Part 3b Digression 3b1"
 icon=  "/icons/smith.png"
 +++

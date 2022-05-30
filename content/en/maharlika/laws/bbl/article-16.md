@@ -85,8 +85,7 @@ The BTA may empower the interim Chief Minister to create other ministries and pr
 
 Section 8. Organization of the Bureaucracy
 
-The authority of the BTA to create offices and organize the bureaucracy during transition is without prejudice to the
-authority of the Bangsamoro Government to reorganize the bureaucracy upon its constitution, or any time thereafter. 
+The authority of the BTA to create offices and organize the bureaucracy during transition is without prejudice to the authority of the Bangsamoro Government to reorganize the bureaucracy upon its constitution, or any time thereafter. 
 
 In the exercise of this authority, the BTA shall ensure the least possible disruption to the functioning of government and the delivery of services in the region.
 
@@ -109,29 +108,41 @@ For this purpose, the Office of the Regional Governor of the ARMM shall turnover
 
 Section 10. Disposition of Personnel and Assets of Central Government
 
-Offices/Agencies. – The Central Government shall provide for the disposition of personnel of Central Government or National GOCCs whose mandate and functions are transferred to or now vested in the Bangsamoro Government by virtue of this Basic
-Law. 
+Offices/Agencies
+
+The Central Government shall provide for the disposition of personnel of Central Government or National GOCCs whose mandate and functions are transferred to or now vested in the Bangsamoro Government by virtue of this Basic Law. 
 
 Properties and assets shall be transferred to the Bangsamoro Government within six (6) weeks from the organization of the BTA. The transfer of properties and assets is without prejudice to the power of the BTA to organize the bureaucracy during
 transition.97
 
 Section 11. Dissolution of the BTA
 
-Immediately upon the qualification of the elected Chief Minister under the first Bangsamoro Parliament, the Bangsamoro
-Transition Authority shall be deemed dissolved.
+Immediately upon the qualification of the elected Chief Minister under the first Bangsamoro Parliament, the Bangsamoro Transition Authority shall be deemed dissolved.
 
 The BTA shall submit its final report and recommendations to the Bangsamoro Parliament, as well as to the House of Representatives and the Senate, on the status of government during the transition period within sixty (60) days from the assumption into office of all members of the first Parliament.
 
 Section 12. Regular Elections
 
-The first regular elections for the Bangsamoro Government under this Basic Law shall be held on the first Monday of May 2016. It shall be governed by the Bangsamoro Electoral Code. The National Omnibus Election Code shall apply suppletorily, whenever appropriate. 
+The first regular elections for the Bangsamoro Government under this Basic Law shall be held on the first Monday of May 2016, governed by the Bangsamoro Electoral Code. 
 
-The Commission on Elections (COMELEC), through the Bangsamoro Electoral Office, shall promulgate rules and regulations as may be necessary for the conduct of said elections, and enforce and administer the same, consistent with this Basic Law and the Bangsamoro Electoral Code, as correlated with relevant national laws.
+The National Omnibus Election Code shall apply suppletorily, whenever appropriate. 
+
+The Commission on Elections (COMELEC), through the Bangsamoro Electoral Office, shall:
+- promulgate rules and regulations for the said elections
+- enforce and administer the same, consistent with this Basic Law and the Bangsamoro Electoral Code, as correlated with relevant national laws.
+
 
 Section 13. Initial Funding for Transition
 
-To carry out the requirements of transition, including the organizational activities of the BTA, organization of the
-bureaucracy, hiring of personnel, and the exercise of functions and powers of the BTA, as provided in this Basic Law, the amount of One Billion Pesos (1,000,000,000.00) is hereby appropriated for the BTA, charged against the General Funds of the Central Government. In addition, the current year's appropriations for the ARMM shall also be transferred to the BTA for this purpose.
+To carry out the requirements of transition, including , as provided in this Basic Law, the amount of 
+
+1b Pesos is appropriated for the BTA, charged against the General Funds of the Central Government. This fund is for:
+- the activities of the BTA
+- organization of the bureaucracy
+- hiring of personnel
+- the exercise of the BTA's functions and powers 
+
+In addition, the current year's appropriations for the ARMM shall also be transferred to the BTA for this purpose.
 
 This shall be without prejudice to any supplemental budget that may be appropriated by Congress to support the transition.
 
@@ -156,7 +167,9 @@ The plebiscite shall be held not earlier than sixty (60) days or later than nine
 
 Section 1. Separability Clause
 
-The provisions of this Basic Law are deemed separate. If, for any reason, any section or provision of this Basic Law is declared unconstitutional, other sections or provisions, which are not affected by such declaration shall continue to be in full force and effect.
+The provisions of this Basic Law are deemed separate. 
+
+If any provision of this Basic Law is declared unconstitutional, other sections or provisions, which are not affected by such declaration shall continue.
 
 Section 2. Repealing Clause
 
@@ -168,9 +181,8 @@ All subsisting laws enacted by the Regional Legislative Assembly of the Autonomo
 
 Section 4. Effectivity Clause
 
-This Basic Law shall take effect fifteen (15) days following its complete publication in at least two (2) national newspapers of general circulation and one (1) local newspaper of general circulation in the autonomous region.
+This Basic Law shall take effect 15 days following its complete publication in at least 2 national newspapers and 1 local newspaper in the Bangsamoro.
 
 Section 5. Abolition of the ARMM
 
-Upon the ratification of this Basic Law, the Bangsamoro shall be deemed established, and the ARMM shall be deemed abolished.
-
+The ratification of this Basic Law abolishes the ARMM.

@@ -1,15 +1,16 @@
-+++
-title= "The Difference Between Our Sensations and the Things That Produce Them"
-heading= "First Meditation"
-author= "Rene Descartes"
-image= "/covers/meditations.jpg"
-description= "Rene Descartes starts to doubt all of his beliefs"
-linkb= "/research/descartes/meditations/"
-linkbtext= "Index"
-linkf= "/research/descartes/meditations/part-2"
-linkftext= "Second Meditation"
-icon= "/icons/sp.png"
-+++
+---
+title: The Difference Between Our Sensations and the Things That Produce Them
+heading: First of the Meditations Simplified
+date: 2022-01-31
+description: "Rene Descartes starts to doubt all of his beliefs"
+author: "Rene Descartes"
+image: "/covers/meditations.jpg"
+linkb: "/research/descartes/meditations/"
+linkbtext: "Index"
+linkf: "/research/descartes/meditations/part-2"
+linkftext: "Part 2"
+icon: "/icons/descartes.png"
+---
 
 
 Rene Descartes 1639
