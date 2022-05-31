@@ -13,7 +13,7 @@ linkftext=  "Chapter 10 Part 2c1"
 
 ## B. The Economic Policy unnaturally increases the competition in some employments, leading to an opposite inequality
 
-<!-- <sup>88</sup> It creates an opposite inequality in the employments of labour and stock. -->
+<!-- {{< s v="88" >}} It creates an opposite inequality in the employments of labour and stock. -->
 
 ### Scholarships
 

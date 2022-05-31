@@ -135,7 +135,7 @@ In the European monarchies before and after the establishment of the feudal law,
 In the field and at home, they maintained themselves by their own revenue, and not by any stipend or pay from the king.
 
 
-<sup>7</sup> In a more advanced society, two causes render it impossible for those who take the field to maintain themselves at their own expence= 
+{{< s v="7" >}} In a more advanced society, two causes render it impossible for those who take the field to maintain themselves at their own expence= 
 - The progress of manufactures
 - The improvement in the art of war
 

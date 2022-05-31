@@ -1,22 +1,21 @@
-
-
-
-+++
-title=  "Corruption of Morality by this disposition to admire the rich and despise the poor"
-heading=  "Chapter 3 of The Theory of Moral Sentiments Part 1 Section 3"
-description=  "The similarity between the respect for greatness and respect for virtue corrupts morality."
-date=  2015-09-09
-image=  "https= //sorasystem.sirv.com/photos/protests3.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-2"
-linkftext=  "Chapter 2"
-+++
+---
+title: "Corruption of Morality by our admiration of the rich and despise of the poor"
+heading: "Chapter 2 Part 1 of The Theory of Moral Sentiments Simplified"
+description: "The similarity between the respect for greatness and respect for virtue corrupts morality"
+date: 2022-01-27
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+linkb:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-2"
+linkbtext:  "Chapter 2"
+linkf:  "/research/smith/theory-moral-sentiments/part-2"
+linkftext:  "Part 2"
+icon: /icons/smith.png
+---
 
 
 The similarity between the respect for greatness and respect for virtue corrupts morality.
 
-28 We have a disposition to= 
+{{< s v="28" >}} We are disposed to:
 - admire, and almost to worship, the rich and the powerful, and
 - neglect or despise persons of poor and mean condition.
 
@@ -29,13 +28,13 @@ However, it is also the most universal cause of the corruption of our moral sent
 - that poverty and weakness is unjustly detested when vice and folly should be the ones detested.
 
 
-29 We desire to be respectable and to be respected. We dread to be contemptible and to be condemned.
+{{< s v="29" >}} We desire to be respectable and to be respected. We dread to be contemptible and to be condemned.
 
 But upon coming into the world, we soon find that= 
 - wisdom and virtue are not the sole objects of respect, and
 - vice and folly are not the sole objects of contempt.
 
-We frequently see= 
+We frequently see: 
 - the world's respect strongly directed towards the rich and the great, than towards the wise and the virtuous, and
 - the powerful's vices and follies much less despised than the innocent's poverty and weakness.
 
@@ -56,10 +55,10 @@ Two different models are held out to us on how we may fashion our own character 
 The few wise and virtuous chiefly are the real admirers of wisdom and virtue. The great mob of mankind are the disinterested admirers and worshippers of wealth and greatness.
 
 
-30 Our respect for wisdom and virtue is different from our respect for wealth and greatness. Despite this difference, those feelings resemble each another very closely, but are different in some features. <!-- On the surface, they seem very nearly the same. --> Inattentive observers commonly mistake the one for the other.
+{{< s v="30" >}} Our respect for wisdom and virtue is different from our respect for wealth and greatness. Despite this difference, those feelings resemble each another very closely, but are different in some features. <!-- On the surface, they seem very nearly the same. --> Inattentive observers commonly mistake the one for the other.
 
  
-31 In equal degrees of merit, everyone respects the rich and the great more than the poor and the humble. To most, the vanity of the rich are much more admired than the solid merit of the poor. It is improper to say that mere wealth and greatness, without merit and virtue, deserve our respect. However, we must acknowledge that they almost constantly obtain it.
+{{< s v="31" >}} In equal degrees of merit, everyone respects the rich and the great more than the poor and the humble. To most, the vanity of the rich are much more admired than the solid merit of the poor. It is improper to say that mere wealth and greatness, without merit and virtue, deserve our respect. However, we must acknowledge that they almost constantly obtain it.
 
 In some respects, wealth and greatness may be considered as the natural objects or respect.
 - The rich and the great might be completely degraded by vice and folly.

@@ -1,4 +1,3 @@
-
 +++
 title=  "The Experimental Confirmation Of General Relativity"
 heading=  "Appendix 3"
@@ -52,9 +51,9 @@ The line of the orbit would not then be a closed one, but in the course of time 
 According to General relativity, a small variation from the Newton-Kepler motion of a planet in its orbit should take place, and in such a way, that the angle described by the radius sun-planet between one perihelion and the
 next should exceed that corresponding to one complete revolution by an amount given by
 
-24 π <sup>3</sup> a<sup>2</sup>
+24 π {{< s v="3" >}} a{{< s v="2" >}}
 __________________
-T<sup>2</sup> c<sup>2</sup> ( 1 − e<sup>2</sup> )
+T{{< s v="2" >}} c{{< s v="2" >}} ( 1 − e{{< s v="2" >}} )
 
 Note— One complete revolution corresponds to the angle 2π in the absolute angular measure customary in physics. The above expression gives the amount by which the radius sun-planet exceeds this angle during the interval between one perihelion and the next.) 
 - "a" is the major semi-axis of the ellipse

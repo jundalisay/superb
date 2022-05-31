@@ -1,24 +1,23 @@
+---
+title: "The Selfish  Feelings"
+heading: "Chapter 5 Part 1 of The Theory of Moral Sentiments Simplified"
+description: "The Selfish feelings are in between the Social and Unsocial feelings"
+date: 2022-01-27
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+linkb:  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-4"
+linkbtext:  "Chapter 4"
+linkf:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-1"
+linkftext:  "Chapter 1"
+icon: /icons/smith.png
+---
 
 
+## The Selfish feelings are in between the Social and Unsocial feelings
 
-+++
-title=  "The Selfish  Feelings"
-heading=  "Chapter 5"
-description=  "The Selfish feelings are in between the Social and Unsocial feelings"
-# of The Theory of Moral Sentiments Part 1 Section 2
-date=  2015-10-26
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-1"
-linkftext=  "Chapter 1"
-+++
+{{< s v="32" >}} Our grief and joy of our own fortune makes up the feelings which are in between the social and unsocial ones.
 
-### The Selfish feelings are in between the Social and Unsocial feelings
-
-32 Our grief and joy of our own fortune makes up the feelings which are in between the social and unsocial ones.
-
-These selfish feelings are= 
+These selfish feelings are: 
 - never so graceful as the social feelings
 - never so odious as the unsocial feelings.
 
@@ -57,8 +56,8 @@ Until at last he grows  and forfeits the esteem of all.
 
 Human happiness chiefly arises from being beloved. If this were true, those sudden changes of fortune should seldom contribute much to happiness. Those who advance more gradually to greatness are the happiest. The public sees every step of his progress. Once achieved, his success excites no extravagant joy in the public and thus no jealousy with other people.
 
- 
-33 However, mankind more readily sympathizes with those smaller joys flowing from less important causes.
+
+{{< s v="33" >}} However, mankind more readily sympathizes with those smaller joys flowing from less important causes.
 
 It is decent to be humble amidst great prosperity. But we cannot express too much satisfaction in the little occurrences of common life, such as= 
 - in the company with which we spent last night
@@ -68,7 +67,7 @@ It is decent to be humble amidst great prosperity. But we cannot express too muc
 - in all those frivolous nothings which fill up the void of human life.
 
 
-### Youth 
+## Youth 
 
 The habitual cheerfulness for all the little common pleasures is most graceful and so we readily sympathize with it.
 - It inspires us with the same joy.
@@ -84,7 +83,8 @@ Remembering our youth creates an above-ordinary joy.
 They . -->
  
 
-34. It is quite otherwise with grief. Small vexations excite no sympathy, but deep affliction calls forth the greatest.
+
+{{< s v="34" >}} It is quite otherwise with grief. Small vexations excite no sympathy, but deep affliction calls forth the greatest.
 
 We seldom sympathize with a man who feels uneasy with every little disagreeable incident, even if it is a bit reasonable.
 - He is hurt if the cook or the butler fails in their smallest duty.
@@ -109,7 +109,7 @@ Our aversion to grief will not always hinder us from it during trifling occasion
 - prevents all sympathy with little uneasinesses, and
 - makes little uneasinesses in some measure diverting.
 
-Hence we delight in= 
+Hence we delight in: 
 - raillery and
 - our friend's small vexation when he is teased.
   - Those who have ordinary good-breeding can dissemble the pain from any little incident. 
@@ -118,7 +118,8 @@ Hence we delight in=
     - He thinks that others will also consider those calamities as ridiculous.
  
 
-35 On the contrary, our sympathy with deep distress is very strong and sincere. We weep even at a tragedy. You can generally depend on the sincerest sympathy and  assistance of your friends if you suffer any calamity, even those of your own fault.
+
+{{< s v="35" >}} On the contrary, our sympathy with deep distress is very strong and sincere. We weep even at a tragedy. You can generally depend on the sincerest sympathy and  assistance of your friends if you suffer any calamity, even those of your own fault.
 
 But your friends will make fun of you if your misfortune is not as dreadful, such as if you= 
 - have only been a little baulked in your ambition, and

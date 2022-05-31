@@ -13,7 +13,7 @@ icon=  "/icons/smith.png"
 # linkbooktext=  Support Superphysics by buying the ebook
 +++
 
-<sup>229</sup> Most of the writers who collected the money prices in ancient times, considered the low money price of wheat and other goods (the high value of gold and silver) as a proof of= 
+{{< s v="229" >}} Most of the writers who collected the money prices in ancient times, considered the low money price of wheat and other goods (the high value of gold and silver) as a proof of= 
 - the scarcity of those metals, and
 - the poverty of the country then.
 

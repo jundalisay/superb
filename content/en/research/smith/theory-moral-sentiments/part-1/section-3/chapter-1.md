@@ -1,19 +1,22 @@
-+++
-title=  "How Our sympathy with sorrow falls much shorter of the sorrow felt by sufferer"
-heading=  "Chapter 1 of The Theory of Moral Sentiments Part 1 Section 3"
-description=  "Our Sympathy with the Sorrow of Others is Stronger than Our Sympathy with the Joy of Others because pain is a stronger sensation than pleasure"
-date=  2015-09-09
-image=  "https://sorasystem.sirv.com/photos/boxing.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-2"
-linkftext=  "Chapter 2"
-+++
+---
+title: "How Our Sympathy Falls much shorter of Sufferer's Sorrow"
+heading: "Chapter 1 Part 1 of The Theory of Moral Sentiments Simplified"
+description: "Our Sympathy with the Sorrow of Others is Stronger than Our Sympathy with the Joy of Others because pain is a stronger sensation than pleasure"
+date: 2022-01-27
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+linkb:  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-5"
+linkbtext:  "Chapter 5"
+linkf:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-2"
+linkftext:  "Chapter 2"
+icon: /icons/smith.png
+---
 
 
-## Our Sympathy with the Sorrow of Others is Stronger than Our Sympathy with the Joy of Others because pain is a stronger sensation than pleasure (which can even be a source of envy)
+## Our Sympathy with the Sorrow of Others is Stronger than Our Sympathy with their Joy because pain is a stronger sensation than pleasure (which can even be a source of envy)
 
-1 Our sympathy with sorrow has been more noticed than our sympathy with joy. In its most proper and primitive signification, the word 'sympathy' denotes our fellow-feeling with the sufferings of others, not with their enjoyments.
+
+{{< s v="1" >}} Our sympathy with sorrow has been more noticed than our sympathy with joy. In its most proper and primitive signification, the word 'sympathy' denotes our fellow-feeling with the sufferings of others, not with their enjoyments.
 
 Joseph Butler was an ingenious and subtle philosopher. He thought it necessary to prove that= 
 - we had a real sympathy with joy
@@ -22,7 +25,8 @@ Joseph Butler was an ingenious and subtle philosopher. He thought it necessary t
 No one else ever thought it necessary to prove that compassion was such.
  
 
-2 First, our sympathy with sorrow is more universal than our sympathy with joy. We may still have some fellow-feeling with sorrow even if it is excessive. But our feeling does not become a complete sympathy.
+
+{{< s v="2" >}} First, our sympathy with sorrow is more universal than our sympathy with joy. We may still have some fellow-feeling with sorrow even if it is excessive. But our feeling does not become a complete sympathy.
 - We do not weep, exclaim, and lament with the sufferer.
 - On the contrary, we know= 
   - his weakness and
@@ -31,10 +35,10 @@ No one else ever thought it necessary to prove that compassion was such.
 Yet we often feel a very sensible concern on his account. But if we do not entirely enter into and go along with another's joy, we have no fellow-feeling for it. We are annoyed at the man who skips and dances with an intemperate and senseless joy that cannot be accompanied by us.
 
 
-3 Besides, pain of mind or body is a more pungent sensation than pleasure. Our sympathy with pain falls greatly short of what is felt by the sufferer. It is more distinct perception than our sympathy with pleasure. Our sympathy with pleasure makes us feel the original pleasure more accurately. 
+{{< s v="3" >}} Besides, pain of mind or body is a more pungent sensation than pleasure. Our sympathy with pain falls greatly short of what is felt by the sufferer. It is more distinct perception than our sympathy with pleasure. Our sympathy with pleasure makes us feel the original pleasure more accurately. 
 
 
-4 Over and above all this, we often struggle to keep down our sympathy with the sorrow of others. When the sufferer is not looking, we try to suppress our sorrow as much as we can, for our own sake.
+{{< s v="4" >}} Over and above all this, we often struggle to keep down our sympathy with the sorrow of others. When the sufferer is not looking, we try to suppress our sorrow as much as we can, for our own sake.
 
 <!-- We are not always successful.
 We are necessarily obliged to notice it more because of= 
@@ -129,7 +133,7 @@ At the same time, we might feel that their sorrow is natural and no greater than
 Nature seems to have thought that our sorrows were enough, when she loaded us with them. Therefore, Nature did not command us to more of the sorrow of others than what was necessary to relieve them.
  
 
-### Magnanimity is a virtue because of the natural lack of sympathy during distress
+## Magnanimity is a virtue because of the natural lack of sympathy during distress
 
 13 Magnanimity amidst great distress always appears divinely graceful because of our dull sensibility to the afflictions of others.
 - A person who can maintain his cheerfulness amidst frivolous disasters is gentle and agreeable.

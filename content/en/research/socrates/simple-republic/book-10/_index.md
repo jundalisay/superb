@@ -1,7 +1,9 @@
-+++
-title= "Book 10= The Soul"
-date= "2015-09-10"
-image= "/covers/republic.jpg"
-description= "Socrates explains the nature of the soul to Glaucon. According to him, the attributes of the soul is immortality, reincarnation, and having chakras (spinning whorls) on the anthakarana (spindle of the whorls)"
-# heading= 3 Chapters
-+++
+---
+title: "The Soul"
+linkTitle: "Book 10"
+heading: "Book 10"
+date: "2015-09-10"
+author: "Socrates"
+image: "/covers/republic.jpg"
+description: "To Socrates, the attributes of the soul are immortality, reincarnation, and having chakras (spinning whorls) on the anthakarana (spindle of the whorls)"
+---

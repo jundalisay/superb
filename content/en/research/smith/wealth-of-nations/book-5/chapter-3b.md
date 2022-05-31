@@ -51,7 +51,7 @@ Its deficiencies were £2,055,999.
 It was called the third general mortgage or fund. [second anticipation]
 The sum borrowed on it was £983,254.
 
-<sup>18</sup> In 1708, those duties were all further continued as a fund for new loans to August 1, 1714 except for= 
+{{< s v="18" >}} In 1708, those duties were all further continued as a fund for new loans to August 1, 1714 except for= 
 - the Old Subsidy of Tonnage and the Poundage
   - only one part made it into this fund
 - an import duty on Scotch linen which was removed by the Articles of Union
@@ -61,12 +61,12 @@ It was called the fourth general mortgage or fund. [third anticipation]
 The sum borrowed on it was £925,176.
 
 
-<sup>19</sup> In 1709, those duties were all continued to August 1, 1716 except for the Old Subsidy of Tonnage and Poundage which was now all left out of this fund.
+{{< s v="19" >}} In 1709, those duties were all continued to August 1, 1716 except for the Old Subsidy of Tonnage and Poundage which was now all left out of this fund.
 
 It was called the fifth general mortgage or fund.
 The sum borrowed on it was £922,029.
 
-<sup>20</sup> In 1710, those duties were again prolonged to August 1, 1720.
+{{< s v="20" >}} In 1710, those duties were again prolonged to August 1, 1720.
 
 It was called the sixth general mortgage or fund.
 The sum borrowed on it was £1,296,552.

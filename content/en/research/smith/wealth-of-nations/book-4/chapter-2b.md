@@ -51,7 +51,7 @@ This is proven by:
 The common people of Ireland have sometimes violently opposed the exportation of their cattle. The exporters could have easily conquered this mobbish opposition if they found any great advantage in continuing the exportation.
 
 
-<sup>18</sup> The feeding and fattening lands must always be highly improved.
+{{< s v="18" >}} The feeding and fattening lands must always be highly improved.
 
 Breeding lands are generally uncultivated.
 The high price of lean cattle increases the value of uncultivated land. It is like a bounty against improvement.
@@ -65,7 +65,7 @@ It would prevent those breeding lands from=
     laying a real tax on the more improved parts of the country
 
 
-<sup>19</sup> In the same way, the freest importation of salt provisions would have little effect on the interest of British graziers.
+{{< s v="19" >}} In the same way, the freest importation of salt provisions would have little effect on the interest of British graziers.
 
 Salt provisions are a very bulky commodity.
 Foreign salt imports are of worse quality than fresh meat because they cost more labour and expence.
@@ -82,7 +82,7 @@ The few salt provisions imported from Ireland is an experimental proof that our 
 The price of meat was never sensibly affected by it.
 
 
-<sup>20</sup> Even the free importation of foreign wheat could affect the interest of British farmers very little.
+{{< s v="20" >}} Even the free importation of foreign wheat could affect the interest of British farmers very little.
 
 Corn is a much more bulky commodity than meat.
 A pound of wheat at 1 pence is as dear as a pound of meat at 4 pence.
@@ -110,7 +110,7 @@ But the country gentlemen and farmers could suffer very little.
 Wheat merchants were very anxious for the continuation of the bounty, and not in the country gentlemen and farmers.
 
 
-<sup>21</sup> To their great honour, country gentlemen and farmers are least subjected to the wretched spirit of monopoly.
+{{< s v="21" >}} To their great honour, country gentlemen and farmers are least subjected to the wretched spirit of monopoly.
 
 The owner of a big manufacture is sometimes alarmed if another work of the same kind is established within 20 miles.
 The Dutch woollen manufacturer at Abbeville stipulated that no work of the same kind should be established within 30 leagues of Abbeville.
@@ -133,4 +133,4 @@ The country gentlemen and farmers forgot their own natural generosity.
 They put themselves on a level with the merchants and manufacturers who were disposed to oppress them.
 Perhaps they did not consider how the freedom of trade affected their interest much less than those of merchants and manufacturers.
 
-<sup>22</sup> In reality permanently prohibiting the importation of foreign wheat and cattle is enacting that the countryside's population and industry shall never exceed what its rude produce can maintain.
+{{< s v="22" >}} In reality permanently prohibiting the importation of foreign wheat and cattle is enacting that the countryside's population and industry shall never exceed what its rude produce can maintain.

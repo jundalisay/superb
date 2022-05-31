@@ -20,7 +20,7 @@ aliases = [
 ]
 +++
 
-<!-- E :: G<sub>l</sub> as an alternative to E = mc<sup>2</sup> -->
+<!-- E :: G<sub>l</sub> as an alternative to E = mc{{< s v="2" >}} -->
 
 
 While collating the works of Socrates in order to unify them with those of David Hume to harmonize Superphysics, I came upon his maxims on astrophysics: <!-- that referred to the proper way to judge the movement of heavenly bodies: -->
@@ -80,7 +80,7 @@ He called this unification as "special relativity" leading to mass-energy equiva
 
 
 {{< q a="ein">}}
-<p>mc<sup>2</sup> does not contain the velocity. It is not needed if we are only asking how the energy of a point-mass depends on the velocity... Before the advent of relativity, physics recognised two conservation laws of fundamental importance, namely, the law of the conservation of energy and the law of the conservation of mass.. Through the theory of relativity, they have been united into one law.</p>
+<p>mc{{< s v="2" >}} does not contain the velocity. It is not needed if we are only asking how the energy of a point-mass depends on the velocity... Before the advent of relativity, physics recognised two conservation laws of fundamental importance, namely, the law of the conservation of energy and the law of the conservation of mass.. Through the theory of relativity, they have been united into one law.</p>
 
 <cite>Einstein, Relativity</cite>
 {{< /q >}}

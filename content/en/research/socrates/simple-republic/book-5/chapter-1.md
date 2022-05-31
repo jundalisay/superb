@@ -219,7 +219,10 @@ Our rulers will find a considerable dose of falsehood and deceit necessary for t
 The best of either sex should be united with the best as often. The inferior should be united with the inferior as seldom as possible.
 
 They should rear the offspring of the best sort of union, but not of inferior union if the flock is to be maintained in first-rate condition. Now these must be a secret which the rulers only know. Otherwise, the guardians will break out into rebellion.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 We should appoint certain festivals when we will bring together the brides and bridegrooms, sacrifices offered, and suitable hymeneal songs composed by our poets. The number of weddings is a matter which must be left to the discretion of the rulers. Their aim is to preserve the population size.
 
 They will have to consider the effects of wars, diseases, and any similar agencies, in order to prevent the State from becoming too large or too small. We shall have to invent some ingenious kind of lots which the less worthy may draw on to select their partner. This will make them accuse their own ill-luck and not the rulers.

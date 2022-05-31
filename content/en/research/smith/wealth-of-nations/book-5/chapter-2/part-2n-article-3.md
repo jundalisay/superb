@@ -9,8 +9,6 @@ linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2o-article-3"
 linkftext=  "Part 2o"
 heading=  "Part 2n"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
 
 
@@ -56,7 +54,7 @@ In the long-run, it must always be advanced by the employer in the higher wages 
 - If he is a manufacturer, he will charge this rise with a profit on his goods. The final payment of the tax, with this overcharge, will fall on the consumer.
 - If he is a farmer, the final payment with a like overcharge, will fall on the landlord's rent.
 
-<sup>151</sup> It is otherwise with taxes on luxuries, even on the luxuries of the poor.
+{{< s v="151" >}} It is otherwise with taxes on luxuries, even on the luxuries of the poor.
 
 The rise in the price of luxury commodities will not cause wages to rise.
 

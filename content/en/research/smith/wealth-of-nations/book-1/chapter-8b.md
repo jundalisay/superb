@@ -9,6 +9,7 @@ linkbtext=  "Chapter 8a"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-8c"
 linkftext=  "Chapter 8c"
 icon=  "/icons/smith.png"
+author= "Adam Smith"
 +++
 
 

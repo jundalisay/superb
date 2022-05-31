@@ -150,7 +150,7 @@ They foresee the ruin of their credit and the miscarriage of their projects from
 A sober and parsimonious people, who are strangers to all such projects, do not feel the need for any such concealment.
 
 
-<sup>98</sup> In Holland, soon after the exaltation of the late Prince of Orange to the stadtholdership, a 2% tax was imposed on every citizen.
+{{< s v="98" >}} In Holland, soon after the exaltation of the late Prince of Orange to the stadtholdership, a 2% tax was imposed on every citizen.
 
 Each assessed himself and paid his tax with great fidelity in the same manner as at Hamburgh.
 At that time, the people loved their new government which they just established through an insurrection.
@@ -165,7 +165,7 @@ In a particular exigency, the people may have great public zeal and give up even
 But it is impossible that they should continue to do so for a long time.
 If they did, the tax would ruin them and they would be unable to support the state.
 
-<sup>99</sup> The tax on stock imposed by the Land-tax Bill in England is proportional to the capital.
+{{< s v="99" >}} The tax on stock imposed by the Land-tax Bill in England is proportional to the capital.
 
 It does not intend to reduce that capital.
 It only aims to be a tax on interest, proportional to the tax on land rent.

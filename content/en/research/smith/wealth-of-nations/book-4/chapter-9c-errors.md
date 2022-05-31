@@ -108,7 +108,7 @@ The labour of farmers and countryside labourers is certainly more productive tha
 However, their superior produce does not render the produce of merchants and manufacturers unproductive.
 
 
-<sup>31</sup> 2. It is improper to consider artificers, manufacturers, and merchants in the same light as menial servants.
+{{< s v="31" >}} 2. It is improper to consider artificers, manufacturers, and merchants in the same light as menial servants.
 
 The labour of menial servants does not continue the fund which maintains and employs them.
 Their maintenance and employment is at their master's expence.
@@ -120,7 +120,7 @@ On the contrary, the labour of artificers, manufacturers, and merchants naturall
 Because of this, I have classed artificers, manufacturers, and merchants as productive labourers and menial servants as unproductive labourers in Book 2, Chapter 3.
 
 
-<sup>32</sup> 3. The labour of artificers, manufacturers, and merchants do increase the society's real revenue.
+{{< s v="32" >}} 3. The labour of artificers, manufacturers, and merchants do increase the society's real revenue.
 
 Even their consumption was equal their production, it would not follow that their labour added nothing to the national annual produce.
 For example, an artificer who creates £10 worth of commodities in the first six months after harvest, might consume £10 worth of food.
@@ -135,7 +135,7 @@ The artificer's produced value is not greater than his consumed value.
 But the actual value of goods in the market is greater because of his production.
 
 
-<sup>33</sup> The patrons of this system assert that the consumption of artificers, manufacturers, and merchants is equal to the value of what they produce.
+{{< s v="33" >}} The patrons of this system assert that the consumption of artificers, manufacturers, and merchants is equal to the value of what they produce.
 
 They probably mean that their revenue is equal to the fund for their consumption.
 If they had asserted more accurately that their revenue was equal to the value that they produced, it might have been obvious to the reader that what would be naturally saved out of this revenue would increase the society's real wealth.
@@ -156,14 +156,14 @@ They can be reduced to more simplicity than the labour of farmers and country la
 They are capable of both these improvements in a much higher degree.
 In this respect, cultivators can have no advantage over artificers and manufacturers.
 
-<sup>36</sup> The increase in the amount of useful labour actually employed depends on the increase of the capital which employs it.
+{{< s v="36" >}} The increase in the amount of useful labour actually employed depends on the increase of the capital which employs it.
 
 The increase of that capital again must be exactly equal to the amount of the savings from the revenue of the persons who either= 
 manage and direct the employment of that capital, or
 lend that capital to them.
 If merchants, artificers, and manufacturers are naturally more inclined to parsimony and saving than proprietors and cultivators, they are more likely to increase their society's useful labour and real revenue.
 
-<sup>37</sup> 5. Even if the revenue of a country were measured in food, a trading and manufacturing country would always have greater revenue than a country without trade or manufactures.
+{{< s v="37" >}} 5. Even if the revenue of a country were measured in food, a trading and manufacturing country would always have greater revenue than a country without trade or manufactures.
 
 By trade and manufactures, more food can be imported into a country than what its own lands could afford.
 The town's inhabitants frequently possess no lands of their own.
@@ -187,7 +187,7 @@ The people of the manufacturing country must always enjoy more food than what th
 The inhabitants of the non-manufacturing must always enjoy fewer.
 
 
-<sup>38</sup> This system, with all its imperfections, is perhaps nearest to the truth on political economy.
+{{< s v="38" >}} This system, with all its imperfections, is perhaps nearest to the truth on political economy.
 
 Political economy is a very important science. It is the nature and causes of the wealth of nations.
 

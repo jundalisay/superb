@@ -1,5 +1,6 @@
 +++
 title=  "The Origin and Use of Money"
+heading=  "Chapter 4a of Book 1 of the Wealth of Nations Simplified"
 date=  2020-01-26
 image=  "/covers/wn.jpg"
 description=  "Money was invented to facilitate trade"
@@ -8,8 +9,6 @@ linkbtext=  "Chapter 3"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-4b"
 linkftext=  "Chapter 4b"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 
@@ -19,7 +18,7 @@ icon=  "/icons/smith.png"
 - He supplies the rest with the produce of the labour of others.
 - Everyone lives by exchanging and the society grows into a commercial society.
 
-2 But when the division of labour first began, this power of exchanging was frequently very much clogged and embarrassed in its operations.
+{{< s v="2" >}} But when the division of labour first began, this power of exchanging was frequently very much clogged and embarrassed in its operations.
 
 Person X has more goods than he himself needs while Person Y has less.
 - X would be glad to dispose of, and Y would be glad to buy some of this excess.
@@ -37,7 +36,8 @@ To avoid this inconvenience after the first establishment of the division of lab
 - his own produce, and
 - some commodities that few people would refuse in exchange for their produce.
 
-3 Probably many different commodities were thought of and successively used for this purpose.
+
+{{< s v="3" >}} Probably many different commodities were thought of and successively used for this purpose.
 
 - In the rude ages of society, cattle was the common instrument of commerce.
 - In old times, things were frequently valued according to the number of cattle exchanged for them, even if it must have been very inconvenient.
@@ -56,7 +56,8 @@ The following were the common instrument of commerce=
 
 I am told that to this day, workers in a village in Scotland can carry nails instead of money to the baker's shop or the ale-house.
 
-4 However, men in all countries were finally determined by irresistible reasons to prefer metals above every other commodity.
+
+{{< s v="4" >}} However, men in all countries were finally determined by irresistible reasons to prefer metals above every other commodity.
 
 Metals can be kept with little loss.
 - They are not perishable.
@@ -69,18 +70,20 @@ For example, the man who wanted to buy salt but could only give cattle must have
 - If he wanted to buy salt more than the value of one ox, he must buy two or more oxen.
 - But if he had metals to give, he could easily give an amount of metal for the precise amount of the commodity that he wanted.
 
-5 Different metals have been used by different nations for commerce.
+
+{{< s v="5" >}} Different metals have been used by different nations for commerce.
 - Iron was used by the ancient Spartans.
 - Copper was used by the ancient Romans.
 - Gold and silver was used by all rich and commercial nations.
 
-6 Those metals were originally in the form of rude bars, without any stamp or coinage.
+
+{{< s v="6" >}} Those metals were originally in the form of rude bars, without any stamp or coinage.
 
 Pliny says that according to Timæus, an ancient historian, the Romans had no coined money until the time of Servius Tullius.
 - They used unstamped bars of copper which was their money back then.
 
 
-7 These rude bars had two major inconveniences= 
+{{< s v="7" >}} These rude bars had two major inconveniences= 
 
 > 1. The trouble of weighing
 

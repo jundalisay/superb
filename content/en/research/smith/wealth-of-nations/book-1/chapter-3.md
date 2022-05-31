@@ -1,6 +1,6 @@
 +++
 title=  "Division of Labour is Limited by the Size of the Market"
-# heading=  Chapter 3 of Book 1 of the Wealth of Nations Simplified
+heading=  "Chapter 3 of Book 1 of the Wealth of Nations Simplified"
 date=  2020-01-27
 image=  "/covers/wn.jpg"
 description=  "Market Size is the Most Important Factor that Leads to the Division of Labour in Society"
@@ -9,8 +9,6 @@ linkbtext=  "Chapter 2"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-4a"
 linkftext=  "Chapter 4a"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 

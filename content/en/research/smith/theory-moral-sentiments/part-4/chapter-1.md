@@ -1,12 +1,9 @@
-
-
-
-
 +++
 title=  "The Extensive Influence of the Beauty From Utility"
-heading=  "Chapter 1"
+heading=  "Chapter 1 Part 4 of The Theory of Moral Sentiments Simplified"
 description=  "Utility is one of the principal sources of beauty"
 date=  2015-09-30
+author= "Adam Smith"
 image=  "/covers/tms.jpg"
 linkb=  "/research/smith/theory-moral-sentiments/part-3/chapter-6"
 linkbtext=  "Chapter 6"
@@ -14,7 +11,8 @@ linkf=  "/research/smith/theory-moral-sentiments/part-4/chapter-2"
 linkftext=  "Chapter 2"
 +++
 
-<sup>1</sup> Utility is one of the principal sources of beauty.
+
+{{< s v="1" >}} Utility is one of the principal sources of beauty.
 
 A house's convenience gives regular pleasure to the spectator. He is as much hurt when he sees its inconvenience, such as= 
 - windows of different shapes, or
@@ -23,7 +21,7 @@ A house's convenience gives regular pleasure to the spectator. He is as much hur
 The fitness of any system or machine for its intended purpose gives a beauty on the whole. It renders its very thought agreeable.
 
 
-<sup>2</sup> David Hume has recently answered most deeply, clearly, and elegantly why utility pleases. According to him, any object's utility pleases the master by perpetually suggesting the pleasure or convenience that it aims to promote.
+{{< s v="2" >}} David Hume has recently answered most deeply, clearly, and elegantly why utility pleases. According to him, any object's utility pleases the master by perpetually suggesting the pleasure or convenience that it aims to promote.
 
 Everytime he looks at it, he remembers this pleasure. The object becomes a source of perpetual satisfaction and enjoyment. The spectator= 
 - enters into his master's feelings through sympathy, and
@@ -36,7 +34,7 @@ When we visit the palaces of the great, we conceive our satisfaction if we ourse
 In the same way, the appearance of inconvenience renders any object disagreeable to the owner and the spectator.
 
 
-<sup>3</sup> But no one has noticed that this fitness is often more valued than its intended purpose.
+{{< s v="3" >}} But no one has noticed that this fitness is often more valued than its intended purpose.
 
 The exact adjustment of the means for attaining any convenience or pleasure is frequently more regarded than that very convenience or pleasure itself.
 
@@ -44,7 +42,7 @@ The attainment of such pleasure seems to justify the means.
 
 <!-- However, this is very frequently the case in the most frivolous and most important concerns of human life. -->
 
-<sup>4</sup> When a man finds the chairs disordered in room, he gets angry with his servant. He takes the trouble to set them all in their proper places. 
+{{< s v="4" >}} When a man finds the chairs disordered in room, he gets angry with his servant. He takes the trouble to set them all in their proper places. 
 
 The propriety of his action comes from the superior convenience of having the room orderly. To attain this convenience, he voluntarily puts himself to more trouble than what the disorder could have caused. 
 
@@ -55,7 +53,7 @@ Therefore, he wanted more of the *arrangement* of things which promotes the conv
 - gives it propriety and beauty.
 
 
-<sup>5</sup> In the same way, a watch that falls behind two minutes per day is despised by a watch-lover. He sells it for two guineas and buys another at 50 which will not lose more than a minute in a fortnight.
+{{< s v="5" >}} In the same way, a watch that falls behind two minutes per day is despised by a watch-lover. He sells it for two guineas and buys another at 50 which will not lose more than a minute in a fortnight.
 
 However, the sole use of watches is to tell us the time to= 
 - prevent us from breaking any engagement or
@@ -63,7 +61,7 @@ However, the sole use of watches is to tell us the time to=
 
 But the watch-lover will not be more punctual or more anxiously concerned by the time, than other men. What interests him is the perfection of the watch, not the knowledge of the time.
 
-<sup>6</sup> How many people ruin themselves by spending money on trinkets of frivolous utility?
+{{< s v="6" >}} How many people ruin themselves by spending money on trinkets of frivolous utility?
 
 What pleases these 
 
@@ -72,9 +70,9 @@ Toy lovers are pleased with the aptness of the machines fitted to promote utilit
 <!-- In weight, and sometimes in value, they are not inferior to an ordinary Jew's-box. Some may sometimes be of some use. But all might at be very well spared. -->
 
 
-<sup>7</sup> This is not limited to frivolous objects. It also manifests as <!-- even affects  is often the secret motive of --> the most serious and important pursuits of life.
+{{< s v="7" >}} This is not limited to frivolous objects. It also manifests as <!-- even affects  is often the secret motive of --> the most serious and important pursuits of life.
 
-<sup>8</sup> The poor man's ambitous son<!-- , whom heaven's anger has imbued with ambition, --> admires the condition of the rich.
+{{< s v="8" >}} The poor man's ambitous son<!-- , whom heaven's anger has imbued with ambition, --> admires the condition of the rich.
 - He finds his father's cottage to be too small.
   - He fancies that he should live with more ease in a palace.
 - He is displeased by walking on foot or by riding on horseback.
@@ -141,7 +139,7 @@ These are pleasures gone forever. -->
 When reduced by spleen or disease, a man starts to observe greatness with attention.
 He considers what is missing from his happiness. -->
 
-Power and riches appear then to be, what they are=  enormous and operose machines contrived to produce a few trifling conveniencies to the body. These conveniences consist of delicate springs which must be kept in order with the most anxious attention.
+Power and riches then become what they really are: enormous and operose machines contrived to produce a few trifling conveniencies to the body. These conveniences consist of delicate springs which must be kept in order with the most anxious attention.
 
 Despite of all our care, they are ready at any moment to= 
 - burst into pieces, and
@@ -155,7 +153,7 @@ They are immense fabrics which require a lifelong labour to raise. Every moment,
   - anxiety and fear, and
   - sorrow to diseases, danger, and death.
 
-<sup>9</sup> In time of sickness or low spirits, this spiteful philosophy is familiar to everyone. It entirely depreciates those great objects of human desire. In pain and sorrow, our imagination seems confined and cooped up within our own persons.
+{{< s v="9" >}} In time of sickness or low spirits, this spiteful philosophy is familiar to everyone. It entirely depreciates those great objects of human desire. In pain and sorrow, our imagination seems confined and cooped up within our own persons.
 
 <!-- We always see these as agreeable when we are in better health and humour. -->
 
@@ -174,17 +172,17 @@ But we rarely view it in this abstract and philosophical light. We naturally con
 In this complex view, the pleasures of wealth and greatness strike the imagination as something grand, beautiful, and noble. Their attainment seems worth all the toil and anxiety for them.
 
 
-<sup>10</sup> **It is good that nature imposes on us in this manner.**
+{{< s v="10" >}} **It is good that nature imposes on us in this manner.**
 
 It is this deception which rouses mankind's industry and keeps it in continual motion. By these labours, the earth has been obliged to double her natural fertility and maintain more people.
 
-This first prompted them to= 
+This first prompted them to:
 - cultivate the ground,
 - build houses,
 - found cities and commonwealths, and
 - invent and improve all the sciences and arts, which ennoble and embellish human life
 
-These have= 
+These have:
 - entirely changed the world,
 - turned the rude forests into fertile plains,
 - made the barren ocean a new fund of subsistence,
@@ -211,7 +209,7 @@ The rich only select from the heap what is most precious and agreeable.
 
 They are led by an invisible hand to make nearly the same distribution of life's necessities which would have been made, had the earth been divided equally among all its inhabitants.
 
-Thus, without intending or knowing it, they= 
+Thus, without intending or knowing it, they:
 - advance the interest of the society, and
 - afford the means to multiply the species.
 
@@ -223,92 +221,3 @@ In the real happiness of human life, they are not inferior to those who seem so 
 - The beggar, who suns himself by the highway, possesses that security which kings are fighting for.
 
 
-<sup>11</sup> Those institutions which promote the public welfare are frequently recommended by= 
-- the same principle,
-- the same love of system, and
-- the same regard to the beauty of order, art, and contrivance
-
-When a patriot exerts to improve the public police, his conduct does not always arise from pure sympathy with the happiness of those who will benefit of it.
-
-A public-spirited man encourages the mending of high roads not commonly from a fellow-feeling with carriers and wagoners.
-
-When the legislature establishes premiums and other encouragements to advance the linen or woollen manufactures, its conduct seldom proceeds= 
-- from pure sympathy with the wearer of cloth,
-- much less from sympathy with the manufacturer or merchant.
-
-The perfection of policy and the extension of trade and manufactures are noble and magnificent objects which are part of the great system of government.<!-- Their contemplation pleases us.
-We are interested in whatever advances them. -->
-
-It makes the wheels of the political machine move with more harmony and ease.
-<!-- We take pleasure in beholding the perfection of so beautiful and grand a system.
-We are uneasy until we remove any obstruction that can disturb or encumber the regularity of its motions. -->
-
-However, all constitutions of government are valued if they promote the happiness of those who live under them.
-- This is their sole use and end.
-
-We sometimes value the means more than the end because of a certain= 
-- spirit of system,
-- love of art and contrivance.
-
-We are eager to promote the happiness of others more from our desire to perfect and improve a beautiful and orderly system, than from any immediate feeling of what they feel.
-
-On the contrary, there have been men of the greatest humanity who lacked public spirit.
-- There have been men of the greatest public spirit who were not very sensible to the feelings of humanity.
-
-We all have both kinds of people within our circle of acquaintances.
-
-Peter the Great had the least humanity and most public spirit. 
-
-On the contrary, the social and well-natured James I of Great Britain had no passion for his country's glory or interest.
-
-How would you drive the industry of an ambition-less man?
-
-He would not be moved even if you tell him that the rich are happy from not experiencing fatigue nor lack. But you can convince him if you explain to him= 
-- the convenience and arrangement of the rooms in their palaces,
-- the propriety of their equipages, and
-- the number, order, and offices of all their attendants.
-
-<!-- havin
-- sheltered from the sun and the rain,
-- seldom hungry and cold, and
-- rarely exposed to weariness or any kind of lack. -->
-
-<!-- The most eloquent exhortation of this kind will have little effect on him. If you hope to succeed, you must=  -->
-
-These can make an impression on him.
-
-<!-- Yet all these things only= 
-keep off the sun and the rain, and
-save them from= 
-hunger and cold,
-want and weariness. -->
-
-In the same way, a non-patriotic person <!-- it will often be useless to tell a person, who lacks interest in his country, --> will not care about the superior advantages of a well-governed state. You will be more likely to persuade him if you= 
-- describe the great system of public police which procures these advantages, and
-- explain the connections and dependencies of its several parts= 
-- their mutual subordination to one another, and
-- their general subserviency to the society's happiness.
-
-<!-- Such subjects are better lodged, clothed, and fed.
-These considerations will commonly make no great impression. -->
-
-Anyone would surely feel animated with public spirit if you show= 
-- how this system might be introduced into his own country,
-- what hinders it from taking place there at present,
-- how those obstructions might be removed,
-- how the wheels of the machine of government can be made to move with more harmony and smoothness, without= 
-  - grating on one another, or
-  - mutually retarding one another's motions.
-
-For the moment, he will feel some desire to= 
-- remove those obstructions, and
-- mobilise such a beautiful and orderly a machine.
-
-The study of politics best promotes public spirit. It is the study of= 
-- the systems of civil government with their advantages and disadvantages,
-- the constitution, situation, commerce, defence, and the interest of our own country with regard to foreign nations, and
-- how to remove its disadvantages and guard against its dangers.
-
-Upon this account, political essays which are just, reasonable, and realistic, are the most useful of all the works of speculation. Even the weakest and the worst of them are useful. They serve to= 
-- animate the public passions of men, and
-- rouse them to seek ways to promote the society's happiness.

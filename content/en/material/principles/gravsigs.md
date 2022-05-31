@@ -137,7 +137,7 @@ In this way, the resulting equation E = Gl called [the Eagle](/social/economics/
 
 ## Getting Rid of c
 
-Next, we replace `c` or the constant speed of light with `s` as the spatial speed limit* of the universe so that E :: ms<sup>2</sup>. In this way, gravitational waves travel within this spatial speed limit, instead of traveling at the speed of light. This is to switch gravitation from being subordinate to photons, to being superior to it, in accordance with our 5-layer model.
+Next, we replace `c` or the constant speed of light with `s` as the spatial speed limit* of the universe so that E :: ms{{< s v="2" >}}. In this way, gravitational waves travel within this spatial speed limit, instead of traveling at the speed of light. This is to switch gravitation from being subordinate to photons, to being superior to it, in accordance with our 5-layer model.
 
 For the active version, we:
 - convert the stress-energy tensor into the [Kepler Tensor](/material/principles/kepler-tensor) `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)

@@ -1,23 +1,23 @@
-
-
-+++
-title=  "The Origin of Ambition and Distinction of Ranks"
-heading=  "Chapter 2 of The Theory of Moral Sentiments Part 1 Section 3"
-description=  "Our sympathy with the false idea of the happiness of the rich and the great is the basis of ambition"
-date=  2015-09-09
-image=  "https://sorasystem.sirv.com/hero/womanphone.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-3"
-linkftext=  "Chapter 3"
-+++
+---
+title: "The Origin of Ambition and Distinction of Ranks"
+heading: "Chapter 2 Part 1 of The Theory of Moral Sentiments Simplified"
+description: "Our sympathy with the false idea of the happiness of the rich and the great is the basis of ambition"
+date: 2022-01-27
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+linkb:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-1"
+linkbtext:  "Chapter 1"
+linkf:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-3"
+linkftext:  "Chapter 3"
+icon: /icons/smith.png
+---
 
 
 ## Our sympathy with the false idea of the happiness of the rich and the great is the basis of ambition
 
-16 We parade our riches and hide our poverty because people sympathize more with our joy than our sorrow.
+{{< s v="16" >}} We parade our riches and hide our poverty because people sympathize more with our joy than our sorrow.
 
-We are most mortified to= 
+We are most mortified to: 
 - expose our distress in public, and
 - feel that no one conceives half of what we suffer.
 

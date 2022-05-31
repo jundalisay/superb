@@ -48,28 +48,30 @@ This great mortality happens chiefly among the children of the common people who
 In foundling hospitals and parish charities, the mortality is still greater than among those of the common people.
 
 
-38 Every species of animals naturally multiplies in proportion to the means of their subsistence. No species can ever multiply beyond it.
+{{< s v="38" >}} Every species of animals naturally multiplies in proportion to the means of their subsistence. No species can ever multiply beyond it.
 
 It is only among poor people that the scantiness of subsistence can limit population growth by destroying their children.
 
 
-39 High wages enable the poor to provide better for their children and extend this limit.
+{{< s v="39" >}} High wages enable the poor to provide better for their children and extend this limit.
 
 High wages naturally increases the population according to the demand for labour. If this demand continually increases, high wages encourage marriages and the multiplication of labourers for them to supply such demand with a continually increasing population.
 
 If wages are less than what is needed to increase the population size, the market would be understocked with labour.
+
 This deficiency would then increase wages.
 
 If wages are more than what is needed, the excessive multiplication of labourers would overstock the market.
+
 The oversupply would soon lower it to the rate required by society.
 
 In this way, the demand for men, like that for any other commodity, regulates the production of men.
 
-The demand= 
+The demand:
 - quickens the supply when it goes on too slowly, and stops it when it advances too fast,
 - regulates the population growth in all countries= 
 
-It makes the population growth= 
+It makes the population growth:
 - rapidly progressive in North America,
 - slow and gradual in Europe, and
 - stationary in China.
@@ -81,24 +83,29 @@ It makes the population growth=
 In reality, the cost of maintaining a free servant also belongs to his master.
 
 The wages paid to journeymen and servants must enable them to continue their numbers according to the increasing, decreasing, or stationary demand of the society.
-But though the maintenance of a free servant be equally at the master's expence, it generally costs him much less than that of a slave.
-The fund for maintaining the slave, is commonly managed by a negligent master.
 
-But the fund for the free man is managed by the free man himself.
-The disorders in the economy of the rich is carried over in the management of slaves.
-The frugality and parsimony of the poor is carried over in the management of free men.
-The different management of slaves and free men translates to very different costs.
-The work of freemen is cheaper in the end than that of slaves
-This is found even at Boston, New York, and Philadelphia, where the wages of common labour are very high.
+The maintenance of a free servant is equally at the master's expence. But it generally costs him much less than the maintenance of a slave.
+
+The fund for maintaining the slave is commonly managed by a negligent master.
+- But the fund for the free man is managed by the free man himself.
+
+**The disorders in the economy of the rich is carried over in the management of slaves.**
+- The frugality and parsimony of the poor is carried over in the management of free men.
+
+**The different management of slaves and free men translates to very different costs.**
+- In the end, the work of freemen is cheaper than the work of slaves
+- This is found even at Boston, New York, and Philadelphia, where the wages of common labour are very high.
 
 
 {{< s v="41" >}} High wages, therefore, are the effect of increasing wealth and the cause of an increasing population.
 
 To complain of it, is to lament the cause and effect of the greatest public prosperity.
 
-42 It is in the progressive state, while the society is advancing to riches, rather than when it has acquired its riches, that most of the labouring poor is happiest and most comfortable.
+
+{{< s v="42" >}} It is in the progressive state, while the society is advancing to riches, rather than when it has acquired its riches, that most of the labouring poor is happiest and most comfortable.
 
 Their life is hard and dull in the stationary state and miserable and sad in the declining state.
+
 The progressive state is the cheerful and hearty state for the whole society.
 
 

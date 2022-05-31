@@ -67,7 +67,7 @@ Thus, it took 1 unit of effort to levitate 1 meter/second^2 with zero physical f
 
 ## Physical Force
 
-We then apply the formula to a 50 kg block pushed forward accelerating constantly at 1 m/s<sup>2</sup>
+We then apply the formula to a 50 kg block pushed forward accelerating constantly at 1 m/s{{< s v="2" >}}
 
 ```elixir
 F = Gm2 [GP second] - Gm1 [GP second]

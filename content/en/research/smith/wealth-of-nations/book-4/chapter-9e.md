@@ -94,7 +94,7 @@ The landlord will have less encouragement to increase this rude produce by land 
 The farmer will have less encouragement to increase this rude produce through cultivation.
 Whatever reduces the number of artificers and manufacturers reduces the home market and consequently discourages agriculture, because the home market is the most important market for rude produce.
 
-<sup>49</sup> Those systems which prefer agriculture impose restraints on manufactures and foreign trade.
+{{< s v="49" >}} Those systems which prefer agriculture impose restraints on manufactures and foreign trade.
 
 They act contrary to the very end which they propose.
 They indirectly discourage the agriculture which they mean to promote.
@@ -106,7 +106,7 @@ But it really and ultimately encourages the industry which it means to promote.
 Those agricultural systems, on the contrary, really and ultimately discourage their own favourite industry.
 
 
-<sup>50</sup> Thus, economic systems can subvert the great purpose they mean to promote if they= 
+{{< s v="50" >}} Thus, economic systems can subvert the great purpose they mean to promote if they= 
 
 draw, by extraordinary encouragements, more of society's capital towards a particular industry, than what would naturally go to it, and
 force, by extraordinary restraints, from a particular industry some of the capital which would otherwise be employed in it.
@@ -130,7 +130,7 @@ The duty of protecting every member of society from the injustice or oppression 
 The duty of building and maintaining public works and institutions
 No single person might have an interest to build and maintain such works because the profit could never repay its cost to any individual, although it might frequently repay itself when done by a large society.
 
-<sup>52</sup> The proper performance of those duties necessarily incurs a certain cost.
+{{< s v="52" >}} The proper performance of those duties necessarily incurs a certain cost.
 
 This cost necessarily requires a certain revenue to support it.
 

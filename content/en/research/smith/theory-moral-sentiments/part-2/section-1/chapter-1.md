@@ -1,5 +1,3 @@
-
-
 +++
 title=  "Objects of gratitude appear to deserve reward. Objects of resentment appear to deserve punishment"
 heading=  "Chapter 1 of Part 2 Section 1"
@@ -7,23 +5,23 @@ description=  "Merit and Demerit are another set of qualities ascribed to mankin
 date=  2015-09-30
 author=  "Adam Smith"
 image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-2"
+linkb=  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-3"
+linkbtext=  "Chapter 3"
+linkf=  "/research/smith/theory-moral-sentiments/part-2/section-1/chapter-2"
 linkftext=  "Chapter 2"
 +++
 
 
 ## Introduction
 
-1 Merit and Demerit are another set of qualities ascribed to mankind's actions and conduct, distinct from propriety or decency.
+{{< s v="1" >}} Merit and Demerit are another set of qualities ascribed to mankind's actions and conduct, distinct from propriety or decency.
 - Merit is the quality deserving reward.
 - Demerit is the quality deserving punishment.
 
 These are the objects of a distinct species of approbation.
 
 
-2 Feelings have two aspects or relations= 
+{{< s v="2" >}} Feelings have two aspects or relations:
 
 1. In relation to the cause which excites it
   - An action's propriety or decency depends on the suitableness of the feeling, which creates the action, to the cause which excites it.
@@ -35,7 +33,7 @@ Part 1 explained what makes up our sense of the propriety or impropriety. Part 2
 
 
 
-### Chapter 1=  Objects of Gratitude Deserve Reward and Objects of Resentment Deserve Punishment
+## Chapter 1: Objects of Gratitude Deserve Reward and Objects of Resentment Deserve Punishment
 
 3 An action deserves reward if it is the proper object of that feeling which immediately and directly prompts us to reward or do good. In the same way, an action deserves punishment if it is the proper object of that feeling which immediately and directly prompts us to punish or inflict evil.
 

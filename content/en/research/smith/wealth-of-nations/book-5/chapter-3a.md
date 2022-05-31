@@ -142,7 +142,7 @@ In that case, nobody would be willing to lend to government during exigencies. T
 
 Nations, like private men, have begun to borrow on personal credit, without assigning or mortgaging any fund for the payment of the debt. When this credit failed them, they went on to borrow on assignments or mortgages of particular funds.
 
-<sup>11</sup> The unfunded debt of Great Britain is contracted as a personal credit.
+{{< s v="11" >}} The unfunded debt of Great Britain is contracted as a personal credit.
 
 It consists partly in= 
 - a debt which bears no interest

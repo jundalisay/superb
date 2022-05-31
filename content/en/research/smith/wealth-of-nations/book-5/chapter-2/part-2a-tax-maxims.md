@@ -51,7 +51,7 @@ The certainty of what a person should pay as taxes is so important.
 A very small degree of uncertainty in tax payment is a greater evil than a very big degree of tax inequality.
 
 
-> <sup>27</sup> **3. Every tax should be levied at the time and manner most convenient for the taxpayer**
+> {{< s v="27" >}} **3. Every tax should be levied at the time and manner most convenient for the taxpayer**
 
 A tax on land and house rent should be= 
 - payable at the same usual term
@@ -64,7 +64,7 @@ He is free to buy or not to buy as he pleases.
 It must be his own fault if he is ever inconvenienced by such taxes.
 
 
-> <sup>28</sup> **4. Taxes should take out as little as possible from the people over and above what it brings into the public treasury**
+> {{< s v="28" >}} **4. Taxes should take out as little as possible from the people over and above what it brings into the public treasury**
 
 Taxes might take out more from the people than it brings into the public treasury in four ways= 
 
@@ -88,7 +88,7 @@ The law increases the punishment in proportion to temptation.
 
 These four ways make taxes more burdensome to the people than they are beneficial to the sovereign. 
 
-<sup>29</sup> The justice and utility of the above maxims have recommended them to the attention of all nations.
+{{< s v="29" >}} The justice and utility of the above maxims have recommended them to the attention of all nations.
 
 All nations have endeavoured, to the best of their judgment, to render their taxes= 
 - as equal, certain, convenient as possible to the tax payer in the time and mode of payment

@@ -10,7 +10,6 @@ linkftext: "The Modern Economic Table"
 btext: "The universal equation"
 author: Juan
 icon: /icons/pantry.png
-icontext: pantrynomics icon
 ---
 
 A [previous post](/material/fallacies/general-relativity) explained how the error in Einstien's E = mc^2 led to the universal equation of Superphysics. 
@@ -22,13 +21,13 @@ At this minute, you might feel happy. But in the next minute, you might remember
 
 ## Based on G
 
-This potential linear or nonlinear movement is responsible for the shifting of public opinion, market prices, policy changes, health and disease, the rise and fall of civilizations, etc. and can be simplified as E = G<sub>l</sub>.
+This potential linear or nonlinear movement is responsible for the shifting of public opinion, market prices, policy changes, health and disease, the rise and fall of civilizations, etc. and can be simplified as E = G{{< sub v="l" >}}.
 
 ![E = Gl](/graphics/eglrest.png)
 
 - E is inherent energy and represents potentiality
 - G is the dharma of the thing (as gravitational signature). This represents Shiva or Yang
-- <sub>l</sub> is [the physical layer](/material/principles/five-layers) where the thing lies or occurs. This represents the confinement by Shakti-Yin on Shiva-Yang
+- {{< sub v="l" >}} is [the physical layer](/material/principles/five-layers) where the thing lies or occurs. This represents the confinement by Shakti-Yin on Shiva-Yang
 
 We can call this equation as "eagle" as it is written with the letters E G l. 
 
@@ -43,7 +42,7 @@ It predicts the movement of anything by knowing its G or [dharma or true nature]
 
 <p>The idea for the eagle came from the eagle standard of the Roman legions.</p>
 
-<p>Historians wrote how the legions would rally around their eagle symbol and protect it with all their might. Our E = G<sub>l</sub> equation is centered on G which represents Socrates' true nature or dharma, which is a central belief in Buddhism, Hinduism, and Taoism.</p>
+<p>Historians wrote how the legions would rally around their eagle symbol and protect it with all their might. Our E = G{{< sub v="l" >}} equation is centered on G which represents Socrates' true nature or dharma, which is a central belief in Buddhism, Hinduism, and Taoism.</p>
 
 <p>Buddhists are urged to keep the wheel of dharma turning at all costs, just as Socrates' guardians are supposed to keep up their mastery of true philosophy. This is because if dharma or true philosophy stops, then society would likely degrade into selfish animal behavior and the love for matter (materialism) filled with vices, gambling, destruction, wars, crises, etc. instead of love for the Aether (the material of mind of God)</p> 
 
@@ -61,21 +60,21 @@ It predicts the movement of anything by knowing its G or [dharma or true nature]
 
 The job of knowing or discovering this G and predicting its movement-results is done by specific sciences:
 
-- E = G<sub>l</sub> in the material layer manifests as w = mg and is discovered by high school and university-level Physics
+- E = G{{< sub v="l" >}} in the material layer manifests as w = mg and is discovered by high school and university-level Physics
   - w (weight) is inherent E (energy)
   - m (mass) is G 
   - g is the domain of Earth's gravity where the object lies 
-- E = G<sub>l</sub> in the electromagnetic layer manifests as E = mc<sup>2</sup> and is discovered by graduate-level Physics. G becomes m, and <sub>l</sub> becomes c<sup>2</sup> which represents the speed limit of Minkowski's four-dimensional space 
-- E = G<sub>l</sub> in the gravitational layer manifests as E = G<sub>AB</sub> and will be discovered by research institutions, where B and A are locational properties within spacetime of the same G
+- E = G{{< sub v="l" >}} in the electromagnetic layer manifests as E = mc{{< s v="2" >}} and is discovered by graduate-level Physics. G becomes m, and {{< sub v="l" >}} becomes c{{< s v="2" >}} which represents the speed limit of Minkowski's four-dimensional space 
+- E = G{{< sub v="l" >}} in the gravitational layer manifests as E = G{{< sub v="AB">}} and will be discovered by research institutions, where B and A are locational properties within spacetime of the same G
 
 ![The five layers](https://sorasystem.sirv.com/graphics/layersegl.png)
-<br>
+
 
 The eagle also extends into metaphysical movement, such as the movement of minds:
 
-- E = G<sub>l</sub> in the social layer manifests as the potential shifts in public opinion according to social cycles by Socrates (aristocrat, oligarch, democrat, tyrant) which then leads to changes in policies, ruling parties, cultural norms, morals, and religious beliefs. This is to be discovered by [Social Superphysics](/social)
-- E = G<sub>l</sub> in the economic layer manifests as the potential movement of prices according to [the labor theory of value](/social/economics/principles/effort-theory-of-value) instead of marginal pricing. This is how we predicted the current crisis and why we predict it to be a long one. Its goal is to know the real price of everything, in order to prevent inflation, bubbles, recessions, and economic crises. This is to be discovered by [Pantrynomics](/social/economics) which is a subset of Social Superphysics
-- E = G<sub>l</sub> in the medical layer manifests as the potential movement or risk of a person from health to disease and is discovered by applying data science to the five medical sciences of Western medicine, ayurveda, chinese medicine, homeopathy, and naturopathy, as Medical Superphysics. As none of our team has a medical background, and since medicine is highly regulated and fiercly protected by doctors and medical interests*, this would likely be developed last.
+- E = G{{< sub v="l" >}} in the social layer manifests as the potential shifts in public opinion according to social cycles by Socrates (aristocrat, oligarch, democrat, tyrant) which then leads to changes in policies, ruling parties, cultural norms, morals, and religious beliefs. This is to be discovered by [Social Superphysics](/social)
+- E = G{{< sub v="l" >}} in the economic layer manifests as the potential movement of prices according to [the labor theory of value](/social/economics/principles/effort-theory-of-value) instead of marginal pricing. This is how we predicted the current crisis and why we predict it to be a long one. Its goal is to know the real price of everything, in order to prevent inflation, bubbles, recessions, and economic crises. This is to be discovered by [Pantrynomics](/social/economics) which is a subset of Social Superphysics
+- E = G{{< sub v="l" >}} in the medical layer manifests as the potential movement or risk of a person from health to disease and is discovered by applying data science to the five medical sciences of Western medicine, ayurveda, chinese medicine, homeopathy, and naturopathy, as Medical Superphysics. As none of our team has a medical background, and since medicine is highly regulated and fiercly protected by doctors and medical interests*, this would likely be developed last.
 
 
 > *The worst thing that can happen by denouncing Einstein and Samuelson by advancing alternative theories is to bashed as either as an idiot or as an arrogant know-it-all by dogmatic physicists and economists. But to advance alternative theories for medicine is to be fined, sued for endangering public health, and even to go to jail!
@@ -93,7 +92,7 @@ The Eagle in the dimension of resource allocation manifests as supply and demand
 
 ![Supply and Demand Equation](https://sorasystem.sirv.com/graphics/pspdD.png)
 
-The G manifests as the effectual demand or d of the people, while the layer limit <sub>l</sub> manifests as their absolute demand or D (a concept that does not exist in Economics). This D works in the same way as c works in E = mc<sup>2</sup>, where c acts as the speed limit of the physical universe. <!-- In the Material layer, this manifests as g or the gravity of the Earth. -->
+The G manifests as the effectual demand or d of the people, while the layer limit {{< sub v="l" >}} manifests as their absolute demand or D (a concept that does not exist in Economics). This D works in the same way as c works in E = mc{{< s v="2" >}}, where c acts as the speed limit of the physical universe. <!-- In the Material layer, this manifests as g or the gravity of the Earth. -->
 
 
 

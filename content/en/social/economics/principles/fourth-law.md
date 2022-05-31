@@ -126,7 +126,7 @@ Pantrynomics law | Thermodynamics law counterpart
 3rd | 1st
 4th | 0th
 
-<!-- We then input these laws according to our eagle equation in order to create our 'equation' for demand and supply as ps:pd<sup>D</sup>. This overturns the mercantilist 'Law' of Supply and Demand of Economics which treats of s and d as equals:
+<!-- We then input these laws according to our eagle equation in order to create our 'equation' for demand and supply as ps:pd{{< s v="D" >}}. This overturns the mercantilist 'Law' of Supply and Demand of Economics which treats of s and d as equals:
 
 ![4](/images/graphics/eglwmg.png)
 *Our eagle equation for all kinetic movementfits into both the Third Law of Thermodynamics and the Third Law of Value. The image above is for potental movement (I noticed that some physicists tend to be very fussy about the difference between potential and kinetic energy)*

@@ -35,11 +35,11 @@ So, four ounces of silver, Tower-weight then was equal to=
 
 This makes it a moderate price for the quarter of eight bushels
 
-<sup>98</sup> This statute is a better proof of the moderate price of grain then, than the prices of the dear or cheap years recorded by historians. Those prices made it difficult get the ordinary price.
+{{< s v="98" >}} This statute is a better proof of the moderate price of grain then, than the prices of the dear or cheap years recorded by historians. Those prices made it difficult get the ordinary price.
 
 There are other reasons why, some years before the 14th century, the common price of wheat was not less than 4 ounces of silver the quarter relative to other grain
 
-<sup>99</sup> Ralph de Born was a prior [monastic officer below an abbot] of St. Augustine's, Canterbury.
+{{< s v="99" >}} Ralph de Born was a prior [monastic officer below an abbot] of St. Augustine's, Canterbury.
 
 In 1309, he gave a feast on his installation day and William Thorn preserved the bill. The following were consumed in that feast= 
 - 53 quarters of wheat costing £19, or 86 pence a quarter then, or 258 pence today.
@@ -48,9 +48,9 @@ In 1309, he gave a feast on his installation day and William Thorn preserved the
 
 The prices of malt and oats were higher than ordinary relative to wheat.
 
-<sup>100</sup> Those prices were not extraordinary.
+{{< s v="100" >}} Those prices were not extraordinary.
 
-<sup>101</sup> In 1266, the ancient statute called The Assize of Bread and Ale. It was made in the times of the progenitors of Henry the 3rd. It is probably at least as old as the time of his grandfather Henry the 2nd.
+{{< s v="101" >}} In 1266, the ancient statute called The Assize of Bread and Ale. It was made in the times of the progenitors of Henry the 3rd. It is probably at least as old as the time of his grandfather Henry the 2nd.
 
 It regulates the price of bread according the prices of wheat from 12-240 pence the quarter.
 
@@ -60,21 +60,21 @@ Therefore, 120 pence with six ounces of silver, Tower-weight then, is equal to 3
 - It must have been the middle price of wheat from when this statute was enacted, until 1266. 
 - We suppose that the middle price was not less than 1/3 of the highest price, or 80 pence then, with 4 ounces of silver Tower-weight.
 
-<sup>102</sup> We can conclude that at the middle of the 14th century and for some time before, the average price of wheat was not less than 4 ounces of silver, Tower-weight.
+{{< s v="102" >}} We can conclude that at the middle of the 14th century and for some time before, the average price of wheat was not less than 4 ounces of silver, Tower-weight.
 
-<sup>103</sup> From the mid-14th to the start of the 16th century, its ordinary price sunk gradually to 2 ounces or 120 pence today, until 1570.
+{{< s v="103" >}} From the mid-14th to the start of the 16th century, its ordinary price sunk gradually to 2 ounces or 120 pence today, until 1570.
 
-<sup>104</sup> Henry was the 5th Earl of Northumberland. His 1512 household book has 2 estimations of wheat= 
+{{< s v="104" >}} Henry was the 5th Earl of Northumberland. His 1512 household book has 2 estimations of wheat= 
 - 80 pence the quarter
 - 68 pence the quarter
 
 In 1512, 80 pence only had 2 ounces of silver Tower-weight, or 120 pence today.
 
-<sup>105</sup> From 1350 to 1558, 80 pence was ordinary price of wheat.
+{{< s v="105" >}} From 1350 to 1558, 80 pence was ordinary price of wheat.
 
 However, the amount of silver in it was continually decreasing due to alterations in the coin. But the increase of the value of silver compensated the reduction of silver in coin. The legislature did not think it worthwhile to attend to it.
 
-<sup>106</sup> Thus in 1436, it was enacted that= 
+{{< s v="106" >}} Thus in 1436, it was enacted that= 
 - wheat could be exported without a licence when its price was as low as 80 pence, and
 - no wheat should be imported if the price was not above 80 pence the quarter.
 
@@ -82,19 +82,19 @@ The legislature imagined that=
 - when the price was so low, it could be exported, when
 - when it rose higher, it could be imported.
 
-<sup>80</sup> pence then is 160 pence today (2/3 of the same nominal sum in Edward the 3rd's time).
+{{< s v="80" >}} pence then is 160 pence today (2/3 of the same nominal sum in Edward the 3rd's time).
 
 It was the moderate price of wheat.
 
-<sup>107</sup> Wheat exportation was banned whenever the price exceeded 80 pence in 1554 and 1558. They found that this banned wheat exports altogether.
+{{< s v="107" >}} Wheat exportation was banned whenever the price exceeded 80 pence in 1554 and 1558. They found that this banned wheat exports altogether.
 
 In 1562, wheat exportation was allowed whenever its price does not exceed 120 pence, the moderate price of wheat. It agrees with the estimation of the Northumberland book in 1512.
 
-<sup>108</sup> In France, Mr. Duprè de St. Maur and the author of the Essay on the police of grain, observed that the average grain price was much lower in the end of the 15th and the start of the 16th century, than in the 13th and 14th centuries.
+{{< s v="108" >}} In France, Mr. Duprè de St. Maur and the author of the Essay on the police of grain, observed that the average grain price was much lower in the end of the 15th and the start of the 16th century, than in the 13th and 14th centuries.
 
 Its price, during the same period, probably sunk in the same way throughout Europe.
 
-<sup>109</sup> This rise in the value of silver relative to wheat, may have been caused by= 
+{{< s v="109" >}} This rise in the value of silver relative to wheat, may have been caused by= 
 - the increase of the demand for silver because of the increasing improvement and cultivation, or
 - the reduction of the silver supply because of the exhaustion of many mines, or
 - a mix of both.

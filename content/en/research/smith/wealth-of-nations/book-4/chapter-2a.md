@@ -36,7 +36,7 @@ It is not so obvious whether it=
 - gives it the most advantageous direction.
 
 
-<sup>3</sup> The general industry of society can never exceed what the capital of the society can employ.
+{{< s v="3" >}} The general industry of society can never exceed what the capital of the society can employ.
 
 The number of workers that can be employed by any person must be proportional to his capital. Likewise, the number that can be employed by a society must be proportional to the total capital of that society. It can never exceed that proportion.
 
@@ -44,17 +44,17 @@ No commercial regulation can increase the amount of industry in any society beyo
 
 
 
-<sup>4</sup> "Every individual is continually exerting himself to find out the most advantageous employment for whatever capital he can command."
+{{< s v="4" >}} "Every individual is continually exerting himself to find out the most advantageous employment for whatever capital he can command."
 
 It is his own advantage which he has in view, and not that of the society.
 But the study of his own advantage naturally leads him to prefer that employment which is most advantageous to society.
 
 
-<sup>5</sup> Every individual endeavours to employ his capital as near home as he can.
+{{< s v="5" >}} Every individual endeavours to employ his capital as near home as he can.
 
 He consequently supports domestic industry as much as he can, provided that he can always obtain profits which are ordinary or not much less than the ordinary.
 
-<sup>6</sup> Thus, on equal profits, every wholesale merchant naturally prefers the home-trade to the foreign trade of consumption.
+{{< s v="6" >}} Thus, on equal profits, every wholesale merchant naturally prefers the home-trade to the foreign trade of consumption.
 
     He prefers the foreign trade of consumption to the carrying trade.
     In the home-trade, his capital is never long out of his sight.
@@ -93,9 +93,9 @@ Upon equal profits, every individual is naturally inclined to employ his capital
 - support domestic industry, and
 - give revenue and employment to the greatest number of people of his own country.
 
-<sup>7</sup> Every individual who employs his capital to support domestic industry necessarily tries to direct that industry so that its produce may be of the greatest value.
+{{< s v="7" >}} Every individual who employs his capital to support domestic industry necessarily tries to direct that industry so that its produce may be of the greatest value.
 
-<sup>8</sup> The produce of industry is what capital adds to the raw materials.
+{{< s v="8" >}} The produce of industry is what capital adds to the raw materials.
 
 The profits of the employer will be in proportion to the value of this produce.
 But it is only for the sake of profit that anyone employs a capital to support industry. He will always employ it to support that industry which gives the most valuable produce.
@@ -104,7 +104,7 @@ But it is only for the sake of profit that anyone employs a capital to support i
 
 ## The Invisible Hand
 
-<sup>9</sup> The annual revenue of every society is always precisely equal to the exchangeable value of the whole annual produce of its industry.
+{{< s v="9" >}} The annual revenue of every society is always precisely equal to the exchangeable value of the whole annual produce of its industry.
 
 Its revenue is precisely the same thing with that exchangeable value. Every individual necessarily works to render the society's annual revenue as great as he can. He generally does not= 
 - intend to promote the public interest, or
@@ -120,7 +120,7 @@ By pursuing his own interest, he frequently promotes the society's interest more
         Very few words can be used to dissuade them from it.
 
 
-<sup>10</sup> Every individual can, in his local situation, judge much better than any statesman on what domestic industry his capital produce the greatest value.
+{{< s v="10" >}} Every individual can, in his local situation, judge much better than any statesman on what domestic industry his capital produce the greatest value.
 
 The statesman who directs private people how they should employ their capitals would load himself with a most unnecessary attention.
 
@@ -142,7 +142,7 @@ For their interest, all of them employ their industry with some advantage over t
     They buy whatever else they need with the price of their own produce.
 
 
-<sup>12</sup> The prudence in the conduct of every private family cannot be a folly in the conduct of a great kingdom.
+{{< s v="12" >}} The prudence in the conduct of every private family cannot be a folly in the conduct of a great kingdom.
 
 If a foreign country can supply us with a commodity cheaper than we can make ourselves, better buy it of them with the produce of our own industry employed in our advantage.
 The general industry of the country is always in proportion to the capital which employs it.
@@ -154,21 +154,21 @@ It is certainly not employed to the greatest advantage when it is directed towar
 By making those cheap foreign commodities at home, the nation's industry is thus turned into a less advantageous employment.
     The exchangeable value of its annual produce is reduced by such regulations, opposite of the intention of the lawgiver.
 
-<sup>13</sup> By such regulations, a particular manufacture may sometimes be developed sooner.
+{{< s v="13" >}} By such regulations, a particular manufacture may sometimes be developed sooner.
 
 After a certain time, it may be made at home cheaper than in the foreign country.
 But even if the society's industry may be advantageously brought into a particular channel sooner, it does not follow that its total industry or revenue can be increased by such regulations.
 The society's industry can increase only in proportion as its capital increases. Its capital can increase only in proportion to what can be gradually saved out of its revenue. The immediate effect of such regulations is to reduce its revenue. What reduces its revenue will not increase its capital faster than if capital and industry were left to find their natural employments.
 
 
-<sup>14</sup> Even if a society fails to develop a certain manufacture because of the lack of the needed supporting regulations, it would not be necessarily poorer.
+{{< s v="14" >}} Even if a society fails to develop a certain manufacture because of the lack of the needed supporting regulations, it would not be necessarily poorer.
 
 A society's total capital and industry might still be employed on other manufactures most advantageous at the time.
 Its revenue might have been the greatest which its capital could afford.
 Both capital and revenue might have been increased the fastest.
 
 
-<sup>15</sup> The natural advantages one country has over another in producing particular commodities are sometimes so great that it is in vain to struggle with them.
+{{< s v="15" >}} The natural advantages one country has over another in producing particular commodities are sometimes so great that it is in vain to struggle with them.
 
 Very good grapes can be raised in Scotland by using glasses, hotbeds, and hot walls. Very good wine can be made at about 30 times more expence than those from overseas.
 

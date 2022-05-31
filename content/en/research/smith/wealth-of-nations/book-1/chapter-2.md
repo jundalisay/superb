@@ -1,5 +1,6 @@
 +++
 title=  "The Cause of the Division of Labour"
+heading=  "Chapter 2 of Book 1 of the Wealth of Nations Simplified"
 date=  2020-01-28
 image=  "/covers/wn.jpg"
 description=  "The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour"
@@ -7,14 +8,11 @@ linkb=  "/research/smith/wealth-of-nations/book-1/chapter-1c-productivity"
 linkbtext=  "Chapter 1c"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-3"
 linkftext=  "Chapter 3"
-heading=  "Chapter 2"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
-## The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour
 
+## The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour
 
 {{< s v="1" >}} This division of labour is not originally the effect of any human wisdom. It is the necessary, very slow, gradual, consequence of the propensity in human nature to exchange one thing for another.
 
@@ -43,12 +41,14 @@ He will likely get help more successfully if he can use their self-love to his f
 
 Whoever offers a bargain of any kind, proposes to do this. The meaning of every such offer is=  'Give me that which I want, and you shall have this which you want'
 
-In this way, we get most of what we need. <b>It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest*.</b>
+In this way, we get most of what we need. **It is not from the benevolence of the butcher, the brewer, or the baker, that we expect our dinner, but from their regard to their own interest**.*
 
-> *Translator's note=  Here Smith refers to own interest as svadharma and not selfishness
+
+> *Superphysics note: Here Smith refers to own interest as svadharma and not selfishness
 
 
 We address, not their humanity but their self-love. We never talk to them of our own necessities but of their advantages.
+
 Only a beggar chooses to depend chiefly on the benevolence of others.
 But even a beggar does not depend on it entirely.
 
@@ -61,7 +61,8 @@ He uses the donated money to buy food. He exchanges the old clothes donated to h
 - food, or
 - money.
 
-3 We obtain what we need from one another through by treaty, by barter, and by purchase.
+
+{{< s v="3" >}} We obtain what we need from one another through by treaty, by barter, and by purchase.
 
 This trucking disposition is the origin of the division of labour.
 In a tribe of hunters, a person makes bows and arrows better than any other.
@@ -73,20 +74,23 @@ Thus, the certainty of being able to exchange their surplus produce for the prod
 have an occupation, and
 cultivate whatever talent he might have.
 
-4 The difference in the natural talents in men is much less than we think.
+
+{{< s v="4" >}} The difference in the natural talents in men is much less than we think.
 
 The different levels of skill of different men in different professions is the effect of the division of labour.
 The difference between a philosopher and a street porter seems to arise not so much from nature, but from habit, custom, and education.
+
 They were perhaps very much alike when they were 6-8 years old.
 As they got older, the difference in their talents widened until their employments became totally different.
+
 Without the disposition to truck, barter, and exchange, everyone must have had the same duties and work to do.
 There could have been no such difference of employment and no great difference in talents.
 
 
-5 This disposition to trade creates the difference of talents and renders them useful to society.
+{{< s v="5" >}} This disposition to trade creates the difference of talents and renders them useful to society.
 
 Animals of the same species have more talents than humans who have not yet been educated.
-From nature's perspective, a philosopher's genius is not so different from that of a street porter. Likewise= 
+From nature's perspective, a philosopher's genius is not so different from that of a street porter. Likewise: 
 - a mastiff is not so different from a greyhound,
 - a greyhound is not so different from a spaniel,
 - a spaniel is not so different from a shepherd's dog.

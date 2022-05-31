@@ -2,6 +2,24 @@ March 4, 1918 Kansas - May
 Sept Oct 1918 Phily Boston San Fransisco
 
 
+
+{{ with .Param "design.colors.light" }}
+$light: {{ . }};
+{{ end }}
+{{ with .Param "design.colors.dark" }}
+$dark: {{ . }};
+{{ end }}
+{{ with .Param "design.colors.link" }}
+$link: {{ . }};
+{{ end }}
+{{ with .Param "design.colors.success" }}
+$success: {{ . }};
+{{ end }}
+
+
+
+
+
 {{ template "_internal/opengraph.html" $page }}
 
 

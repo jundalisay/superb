@@ -44,7 +44,7 @@ In 1720, most of the other annuities for terms of years were subscribed into the
 On January 5, 1775, the remainder, or what was not subscribed at that time, was only £136,453.
 
 
-<sup>31</sup> During the two wars which began in 1739 and 1755, little money was borrowed on annuities for terms of years, or on those for lives.
+<sup>31" >}} During the two wars which began in 1739 and 1755, little money was borrowed on annuities for terms of years, or on those for lives.
 
 An annuity for 98 or 99 years is worth nearly as much money as a perpetuity. It should be a fund for borrowing nearly as much.
 
@@ -60,7 +60,7 @@ The value of the perpetual annuity may be always the same. It therefore makes a 
 These annuities were the amount over and above the loan's projected interest.
 They served as an additional encouragement to the lender, not as a fund for borrowed money.
 
-<sup>33</sup> Annuities for lives was granted in two ways= 
+<sup>33" >}} Annuities for lives was granted in two ways= 
 - on separate lives,
 - on lots of lives.
 
@@ -206,11 +206,11 @@ The reduction of the debt began in 1723.
     It went on so slowly that, by December 31, 1739 after 17 years of profound peace, the whole sum paid off was no more than £8,328,354.
     The capital of the public debt at that time was £46,954,623.
 
-<sup>44</sup> The debt increased because of the War of Jenkins' Ear, which began in 1739, and the War of the Austrian Succession which soon followed it.
+<sup>44" >}} The debt increased because of the War of Jenkins' Ear, which began in 1739, and the War of the Austrian Succession which soon followed it.
 
 On December 31, 1748, the debt was at £78,293,313 after the war was concluded by the Treaty of Aix-la-Chapelle. The most profound peace of 17 years reduced the debt by only £8,328,354. A war of less than nine years added £31,338,689 to the debt.
 
-<sup>45</sup> During Mr. Pelham's prudent and truly patriotic administration [1743-1754], the interest of the public debt was reduced from 4% to 3%.
+<sup>45" >}} During Mr. Pelham's prudent and truly patriotic administration [1743-1754], the interest of the public debt was reduced from 4% to 3%.
 
 The sinking fund was increased and some part of the public debt was paid off. In 1755, before the recent war, the funded debt of Great Britain was £72,289,673.
 
@@ -234,7 +234,7 @@ During a seven-year peace, Mr.Pelham's administration was unable to pay off an o
 
 During a war of nearly seven years, a new debt of more than £75 million was contracted.
 
-<sup>46</sup> On January 5, 1775, Great Britain's funded debt was £124,996,086.
+<sup>46" >}} On January 5, 1775, Great Britain's funded debt was £124,996,086.
 
 Its unfunded debt, exclusive of a large civil list debt, was £4,150,263.
 - Funded and unfunded debt together was £129,146,322.

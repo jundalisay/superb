@@ -1,24 +1,19 @@
+---
+title: "The Amiable Virtues are Social Feelings"
+heading: "Chapter 4 Part 1 of The Theory of Moral Sentiments Simplified"
+description: "The Amiable Virtues are Social Feelings"
+date: 2022-01-27
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+linkb:  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-3"
+linkbtext:  "Chapter 3"
+linkf:  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-5"
+linkftext:  "Chapter 5"
+icon: /icons/smith.png
+---
 
 
-
-
-+++
-title=  "The Social Feelings"
-heading=  "Chapter 4 of The Theory of Moral Sentiments Part 1 Section 2"
-description=  "The Amiable Virtues are Social Feelings"
-date=  2015-10-27
-image=  "/covers/tms.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/team.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-5"
-linkftext=  "Chapter 5"
-# btext=  Chapter 4
-+++
-
-### The Amiable Virtues are Social Feelings
-
-<sup>29</sup> A divided sympathy makes anger and resentment so disagreeable. The social and benevolent feelings are opposite to these. They cause a redoubled sympathy which almost always render them agreeable.
+{{< s v="29" >}} A divided sympathy makes anger and resentment so disagreeable. The social and benevolent feelings are opposite to these. They cause a redoubled sympathy which almost always render them agreeable.
 
 The indifferent observer is almost always pleased with= 
 - Generosity
@@ -46,7 +41,8 @@ Therefore, we always sympathize with the benevolent affections. We enter into th
 The harmony and commerce between friends are felt by both the most refined people and the crudest people. These are more important to happiness than all the little services which flow from them.
 
 
-30 The sentiment of love is, in itself, agreeable to its subject-person, or to the person who feels it. It soothes and composes the breast. It seems to= 
+
+{{< s v="30" >}} The feeling of love is, in itself, agreeable to its subject-person, or to the person who feels it. It soothes and composes the breast. It seems to= 
 - favour the vital motions and
 - promote the health.
 
@@ -68,7 +64,7 @@ On the contrary, how uneasy it is to enter a house of an unloving family where t
 - are always ready to burst out through all the restraints which the presence of the company imposes.
 
 
-31 Those amiable passions, even when excessive, are never regarded with aversion. There is something agreeable even in the weakness of friendship and humanity. The following might sometimes be looked on with pity with a mixture of love= 
+{{< s v="31" >}} Those amiable passions, even when excessive, are never regarded with aversion. There is something agreeable even in the weakness of friendship and humanity. The following might sometimes be looked on with pity with a mixture of love= 
 - The too tender mother
 - The too indulgent father
 - The too generous and affectionate friend.

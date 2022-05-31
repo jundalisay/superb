@@ -37,7 +37,7 @@ When the ordinary price of subsistence naturally doubles in a year, then its rea
 In other words, although the nominal prices have increased, the ratio of the real prices of labour to the real price of wheat is the same.
 
 
-<sup>17</sup> Labour, therefore, is the only universal and accurate measure of value.
+{{< s v="17" >}} Labour, therefore, is the only universal and accurate measure of value.
 
 It is the only standard by which we can compare the values of different commodities at all times and places.
 From century to century, wheat is a better measure than silver
@@ -47,13 +47,13 @@ But from year to year silver is better, because each unit of silver will command
 
 ## When To Use Real And Nominal Prices
 
-<sup>18</sup> Although it is useful to have real and nominal prices for long term leases, it is not useful in common and ordinary transactions.
+{{< s v="18" >}} Although it is useful to have real and nominal prices for long term leases, it is not useful in common and ordinary transactions.
 
-<sup>19</sup> "At the same time and place the real and the nominal price of all commodities are exactly in proportion to one another."
+{{< s v="19" >}} "At the same time and place the real and the nominal price of all commodities are exactly in proportion to one another."
 
 Only at the same time and place is money the exact measure of the real exchangeable value of all commodities.
 
-<sup>20</sup> At distant places, differences in real and nominal prices exist.
+{{< s v="20" >}} At distant places, differences in real and nominal prices exist.
 
 Yet, the merchant considers only the nominal or money price. This difference of arbitrage is exactly what merchants want.
 
@@ -71,26 +71,26 @@ By getting 1 ounce in London, he now has double the command of labour, compared 
 
 ## Nominal Prices and (Secondary) Arbitrage
 
-<sup>21</sup> Nominal price has become more of a concern than real price because all purchases and sales are transacted in nominal prices.
+{{< s v="21" >}} Nominal price has become more of a concern than real price because all purchases and sales are transacted in nominal prices.
 
-<sup>22</sup> However, real prices are more useful in trades done between two different times and places.
+{{< s v="22" >}} However, real prices are more useful in trades done between two different times and places.
 
 In such a case, wheat should be used for the transaction as it is the more accurate measure of labour.
 
 
 ## The History Of Metals in Coinage
 
-<sup>23</sup> Commercial nations have used gold coins for large payments, silver for moderate purchases, and copper for smaller ones.
+{{< s v="23" >}} Commercial nations have used gold coins for large payments, silver for moderate purchases, and copper for smaller ones.
 Each nation ended up with a single metal, usually the first metal to accept, to be used as its standard tool for trade.
 
 
-<sup>24</sup> The Romans used only copper money until five years before the first Punic war, when they first began to coin silver.
+{{< s v="24" >}} The Romans used only copper money until five years before the first Punic war, when they first began to coin silver.
 Copper appears to have always been the measure of value there.
 All estates in Rome were computed in= 
 As=  a denomination of copper coin
 Sestertii=  2.5 Asses, equal to a silver coin
 
-<sup>25</sup> The Northern Europeans used silver.
+{{< s v="25" >}} The Northern Europeans used silver.
 The Saxons used silver and little gold coin until Edward III and no copper until James I
 
 In all modern European nations, all value is generally measured in silver (pounds sterling)
@@ -98,20 +98,20 @@ In all modern European nations, all value is generally measured in silver (pound
 
 ## Gold Versus Silver
 
-<sup>26</sup> The values of gold and silver money were not fixed by any law. They were left to be settled by the market. In this case, there was more than a nominal distinction between the different metals.
+{{< s v="26" >}} The values of gold and silver money were not fixed by any law. They were left to be settled by the market. In this case, there was more than a nominal distinction between the different metals.
 
-<sup>27</sup> In time, people established laws to set the values of gold and silver. In this case, the difference between the metals was just a little nominal distinction. A (gold) guinea was equal to 21 (silver) shillings
+{{< s v="27" >}} In time, people established laws to set the values of gold and silver. In this case, the difference between the metals was just a little nominal distinction. A (gold) guinea was equal to 21 (silver) shillings
 
-<sup>28</sup> If the law changes, then the difference becomes more than nominal again.
+{{< s v="28" >}} If the law changes, then the difference becomes more than nominal again.
 If a guinea was changed to be equal to 20 or 22 shillings, then debts in silver will require different amounts of guinea.
 Silver appeared to be the measure of value of gold because of the custom of keeping accounts in silver.
 On the contrary, promissory notes are recorded in gold.
 Through notes, gold appeared as the measure of the value of silver.
 If the custom of using notes in gold instead of silver becomes general, then gold will be the standard measure of value.
 
-<sup>29</sup> In reality, the value of the most precious metal regulates the value of all coins.
+{{< s v="29" >}} In reality, the value of the most precious metal regulates the value of all coins.
 12 copper pence contain half a pound, avoirdupois, of copper, seldom worth sevenpence in silver
 But by regulation, 12 copper pence equals a shilling
 The regulation makes worn coins of equal value to good coins of the same kind
 
-<sup>30</sup> Because the regulation disregards the physical degradation of coins, it raises the real value of silver.
+{{< s v="30" >}} Because the regulation disregards the physical degradation of coins, it raises the real value of silver.

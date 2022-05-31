@@ -56,7 +56,7 @@ Their great desire is a consumption brisk enough to quicken sales and keep up pr
 
 
 
-<sup>4</sup> If a businessman says "I want money for my woollens, not other products," it would be easy to convince him that his customers must first sell their own products for money, to buy his woollens.
+{{< s v="4" >}} If a businessman says "I want money for my woollens, not other products," it would be easy to convince him that his customers must first sell their own products for money, to buy his woollens.
 
 He will be told "That farmer will buy your woollens if he can sell his crops. You say you only want money. I say you want other commodities, not money. Why do you you want the money? Is it not to buy things for your trade?
 
@@ -67,7 +67,7 @@ If you cannot sell your products, do you say that it is merely because of the la
 
 
 
-<sup>5</sup> To say that sales are dull because of the scarcity of money, is to mistake the means for the cause.
+{{< s v="5" >}} To say that sales are dull because of the scarcity of money, is to mistake the means for the cause.
 
 {{< color color="red" val="Sales are not dull because money is scarce, but because other products are scarce." >}} 
 
@@ -81,7 +81,7 @@ Money itself soon pours in, for this reason, that all produce naturally gravitat
 
 
 
-<sup>6</sup> When a superabundant product cannot be sold, the scarcity of money has so little to do with the obstruction of its sale, that the sellers would gladly receive its value in kind.
+{{< s v="6" >}} When a superabundant product cannot be sold, the scarcity of money has so little to do with the obstruction of its sale, that the sellers would gladly receive its value in kind.
 
 {{< color color="red" val="They would not ask for money, since they would only use money to convert it into consumption." >}}
 
@@ -89,7 +89,7 @@ Money itself soon pours in, for this reason, that all produce naturally gravitat
 
 
 
-<sup>7</sup> This is applicable to all cases.
+{{< s v="7" >}} This is applicable to all cases.
 
 Goods and services will universally find the most extensive demand where they are most valued.
 Money just facilitates this double exchange.
@@ -139,8 +139,8 @@ This glut arises from surpassing its total demand because:
 
 
 {{< s v="15">}} {{< c c="red">}} The more the producers and the more various their productions:{{< /c >}}
-- <span class="has-text-danger">the more prompt, numerous, and extensive are the demand for those productions</span>
-- <span class="has-text-danger">the more profitable are they to the producers for price rises with the demand</span>
+- {{< c c="red" >}}the more prompt, numerous, and extensive are the demand for those productions{{< /c >}}
+- {{< c c="red" >}}the more profitable are they to the producers for price rises with the demand{{< /c >}}
 
 But this advantage is from real production alone and not from a forced circulation of products like when governments tax goods to provide for non-producers. This is a great injury to production.
 

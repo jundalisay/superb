@@ -1,5 +1,6 @@
 +++
 title=  "The Real and Nominal Price of Commodities"
+heading=  "Chapter 5a of Book 1 of the Wealth of Nations Simplified"
 date=  2020-01-24
 image=  "/covers/wn.jpg"
 description=  "Labor or effort is the foundation of value and subsequently wealth in a society. Money represents the command of labor, and is not a representation of goods or services"
@@ -8,12 +9,13 @@ linkbtext=  "Chapter 4b"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-5b"
 linkftext=  "Chapter 5b"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
-> Translator's note:  I've noticed the core of the misunderstanding of Smith's Labour Theory of Value is the ambiguity of the word 'labour', so I replace it with 'toil and trouble' to equate it more to psychology, emotions, and subjectiveness, instead of physical force or objectiveness. Toil and trouble is more related to suffering and non-suffering. A link to the original translation with the word 'labour' will be posted in the bottom.
-Toil and trouble is the real measure of Exchangeable Value
+
+> Superphysics note:  The core of the misunderstanding of Smith's Labour Theory of Value is the ambiguity of the word 'labour'. Here, we replace it with 'toil and trouble' to equate it more to psychology, emotions, and subjectiveness, instead of physical force or objectiveness. Toil and trouble is more related to suffering and non-suffering. A link to the original translation with the word 'labour' will be posted in the bottom.
+
+
+## Toil and trouble is the real measure of Exchangeable Value
 
 {{< s v="1" >}} A person's wealth depends on the degree by which he can afford to enjoy the necessaries, conveniencies, and amusements of human life. These necessaries and enjoyments come from the work of other people. His wealth depends on the amount of that work which he can command or buy.
 
@@ -29,7 +31,7 @@ What we buy with money or goods is bought by our work through our toil. Money or
 Effort was the first price, the original purchase-money that was paid for all things. All the wealth of the world was originally bought with effort and not by money. The value of wealth, to those who possess it, is precisely equal to the amount of effort which that wealth can purchase or command.
 
 
-<sup>3</sup> Mr. Hobbes says that wealth is power. Mere possession of wealth does not necessarily give civil or military power. Instead, it immediately and directly gives him the power of purchasing a certain command over= 
+{{< s v="3" >}} Mr. Hobbes says that wealth is power. Mere possession of wealth does not necessarily give civil or military power. Instead, it immediately and directly gives him the power of purchasing a certain command over= 
 - all the effort in a market, and
 - all the produce of the effort in a market
 
@@ -39,11 +41,11 @@ His fortune is proportional to the extent of this power to command=
 
 "The exchangeable value of every thing must always be precisely equal to the extent of this power which it conveys to its owner."
 
-<br>
 
-### Relativity of Effort Determined through Haggling
 
-<sup>4</sup> However, we do not estimate the exchangeable value of commodities in terms of effort because it is difficult to do so.
+## Relativity of Effort Determined through Haggling
+
+{{< s v="4" >}} However, we do not estimate the exchangeable value of commodities in terms of effort because it is difficult to do so.
 
 The time factor or the time spent on effort will not alone determine value. There is also the factor of hardship and ingenuity which is hard to measure. There may be more effort in= 
 - an hour's hard work than in two hours easy business, or
@@ -51,17 +53,17 @@ The time factor or the time spent on effort will not alone determine value. Ther
 
 In exchanging the produce of different sorts of effort, some allowance is commonly made for both hardship and ingenuity. It is adjusted by the higgling and bargaining of the market, according to a rough equality sufficient for carrying on the business of common life.
 
-<sup>5</sup> Every commodity is frequently and more naturally exchanged for other commodities than with effort. Most people understand better the amount of a commodity than the amount of effort. A commodity is a plain palpable object. Effort is an abstract notion, not so natural and obvious.
+{{< s v="5" >}} Every commodity is frequently and more naturally exchanged for other commodities than with effort. Most people understand better the amount of a commodity than the amount of effort. A commodity is a plain palpable object. Effort is an abstract notion, not so natural and obvious.
 
-<br>
 
-### Metals As A Measure Of Effort
+## Metals As A Measure Of Effort
 
-<sup>6</sup> When money becomes the common instrument of trade, every commodity is more frequently exchanged with it.
+{{< s v="6" >}} When money becomes the common instrument of trade, every commodity is more frequently exchanged with it.
 
 The butcher exchanges his meat for money, then exchanges that money for bread and beer. The amount of money which he gets regulates the amount of bread and beer he can buy. It is more natural and obvious for him to estimate their value by money. It is better to value his meat at 3-pence or 4-pence a pound than at three or four pounds of bread or three or four quarts of beer.
 
-<sup>7</sup> However, metal money also vary in their value.
+
+{{< s v="7" >}} However, metal money also vary in their value.
 
 The amount of effort or goods which money can purchase or command depends on the fertility of the mines. The discovery of the abundant American mines in the 16th century reduced the value of gold and silver in Europe to 1/3 of its former value. They could buy less work because they themselves cost less work.
 
@@ -77,7 +79,8 @@ Toil and trouble never varies in its own value. Therefore, it alone is the ultim
 
 "It is their real price; money is their nominal price only."
 
-<sup>8</sup> Although a worker's toil and trouble has always the same value to the himself, its value may vary to his employer.
+
+{{< s v="8" >}} Although a worker's toil and trouble has always the same value to the himself, its value may vary to his employer.
 
 The employer buys them with= 
 - more goods when the worker's productivity rises, and
@@ -86,29 +89,30 @@ The employer buys them with=
 In reality, however, it is the goods which are cheap in the one case, and dear in the other.
 
 
-<sup>9</sup> Toil and trouble, like commodities, has a real price and a nominal price. Its real price is the amount of the necessaries and conveniencies given for it. Its nominal price is its amount in money.
+
+{{< s v="9" >}} Toil and trouble, like commodities, has a real price and a nominal price. Its real price is the amount of the necessaries and conveniencies given for it. Its nominal price is its amount in money.
 
 The worker is rich or poor in proportion to the amount of necessaries and convenience he can get, not in the amount of money he has.
  
 
-<sup>10</sup> Real price is always the same. But nominal price always varies with the value of gold and silver. Perpetual rents should not be reserved in metal money because money fluctuates in value through= 
+{{< s v="10" >}} Real price is always the same. But nominal price always varies with the value of gold and silver. Perpetual rents should not be reserved in metal money because money fluctuates in value through= 
 - fluctuations in the amount of metals in coins, and
 - fluctuations in the price of metals themselves.
 
 
-<sup>11</sup> The amount of pure metal in the coins of all nations has been almost continually decreasing. Their rulers wanted to reduce it to reduce their debts. However, it almost always reduces the value of a money rent.
+{{< s v="11" >}} The amount of pure metal in the coins of all nations has been almost continually decreasing. Their rulers wanted to reduce it to reduce their debts. However, it almost always reduces the value of a money rent.
 
 
-<sup>12</sup> The discovery of American mines reduced and will continue to reduce the value of gold and silver in Europe for a long time. It will reduce the value of a money rent, even if rents are paid in ounces of silver and not coin.
+{{< s v="12" >}} The discovery of American mines reduced and will continue to reduce the value of gold and silver in Europe for a long time. It will reduce the value of a money rent, even if rents are paid in ounces of silver and not coin.
 
 
-<sup>13</sup> The rents reserved in corn have preserved their value much better than those reserved in money, even where the denomination of the coin has not been altered.
+{{< s v="13" >}} The rents reserved in corn have preserved their value much better than those reserved in money, even where the denomination of the coin has not been altered.
 
 During 1576, 1/3 of all college leases were paid in its corn value, while 2/3 was paid in money. 
 - According to Doctor Blackstone, however, during the present time, the value of the 1/3 corn rent rose to nearly double of the 2/3 money rent. 
 - In other words, the 2/3 money rent fell to nearly 1/4 of its original value, due to the fall of the value of silver.
 
 
-<sup>14</sup> If the degradation in a metal's value is combined with the reduction of its amount in the same coin, the loss is still greater. 
+{{< s v="14" >}} If the degradation in a metal's value is combined with the reduction of its amount in the same coin, the loss is still greater. 
 - The coin denomination was altered more in Scotland than in England and more in France than in Scotland. 
 - Some ancient valuable rents, have been reduced to almost nothing.

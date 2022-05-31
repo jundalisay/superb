@@ -49,7 +49,7 @@ To grow rich is to get money. Wealth and money are considered synonymous in comm
 
 ### Mercantilism believes that money is wealth
 
-<sup>2</sup> A rich country, like a rich man, is supposed to be abounding in money. Heaping up gold and silver is supposed to be the readiest way to enrich it. After the discovery of America, the Spaniards' first inquiry was if there was any gold or silver whenever they arrived at an unknown coast. They then judged whether to make a settlement there or if the country was worth conquering.
+{{< s v="2" >}} A rich country, like a rich man, is supposed to be abounding in money. Heaping up gold and silver is supposed to be the readiest way to enrich it. After the discovery of America, the Spaniards' first inquiry was if there was any gold or silver whenever they arrived at an unknown coast. They then judged whether to make a settlement there or if the country was worth conquering.
 
 Plano Carpino was a monk sent as ambassador from the King of France to one of Genghis Khan's sons. The Mongols asked him frequently if there was plenty of sheep and oxen in France. Like the Spaniards, they wanted to know if the country was rich enough to be worth conquering.
 
@@ -58,7 +58,7 @@ Among the Mongols and shepherd nations who are ignorant of the use of money, cat
 **Of the two, the Mongol notion, perhaps, was the nearest to the truth.**
 
 
-<sup>3</sup> Mr. Locke distinguished money from other movable goods. He says= 
+{{< s v="3" >}} Mr. Locke distinguished money from other movable goods. He says= 
 
 {{< quote >}}
 all other movable goods are consumable. This makes the wealth in them undependable. A nation rich in movable goods in one year may be lacking in the next, merely due to their own waste and extravagance of those goods.
@@ -69,7 +69,7 @@ On the contrary, money is a steady friend which is not wasted and consumed. Even
 He thinks the great object of its political economy should be to multiply those metals.
 
 
-<sup>4</sup> Others admit that if a nation could be entirely isolated, it would not matter how much money circulated in it. The consumable goods circulated by this money would only be exchanged for a different amount of money.  The country's real wealth would depend on the amount of those consumable goods.
+{{< s v="4" >}} Others admit that if a nation could be entirely isolated, it would not matter how much money circulated in it. The consumable goods circulated by this money would only be exchanged for a different amount of money.  The country's real wealth would depend on the amount of those consumable goods.
 
 It is otherwise with countries which= 
 - have connections with foreign nations
@@ -78,17 +78,17 @@ It is otherwise with countries which=
 A nation cannot send much money abroad unless it has much at home. Therefore, every such nation must accumulate gold and silver in peacetime so that it can carry on foreign wars.
 
 
-<sup>5</sup> Because of these popular notions, all European nations studied every means of accumulating gold and silver, to little purpose.
+{{< s v="5" >}} Because of these popular notions, all European nations studied every means of accumulating gold and silver, to little purpose.
 
 Spain and Portugal own the principal gold and silver mines which supply Europe. They prohibited the exportation of those metals under the severest penalties or subjected it to a high duty.
 
 Most European nations had the same prohibition as part of their ancient policy. It is even found in some old Scotch acts of Parliament, where we should least expect to find it. These forbid the carrying gold or silver away from the kingdom, under heavy penalties. The same policy anciently took place in France and England.
 
 
-<sup>6</sup> When those countries became commercial, the merchants found this prohibition extremely inconvenient. They could import foreign goods or bring them to another foreign country better with gold and silver than with any other commodity. They remonstrated against this prohibition as hurtful to trade.
+{{< s v="6" >}} When those countries became commercial, the merchants found this prohibition extremely inconvenient. They could import foreign goods or bring them to another foreign country better with gold and silver than with any other commodity. They remonstrated against this prohibition as hurtful to trade.
         
 
-<sup>7</sup> They said that the exportation of gold and silver for buying foreign goods did not always lessen those metals in the kingdom.
+{{< s v="7" >}} They said that the exportation of gold and silver for buying foreign goods did not always lessen those metals in the kingdom.
 
 On the contrary, the exportation of gold and silver could increase the gold and silver at home, by buying goods which could be re-exported for a large profit overseas. It might bring back more treasure than was originally paid for them.
 
@@ -99,7 +99,7 @@ We may think a husbandman is a madman when he casts good grains into the ground 
 </div>
 
 
-<sup>8</sup> He said that= 
+{{< s v="8" >}} He said that= 
 
 {{< quote >}}
 this prohibition could not hinder gold and silver exportation because the smallness of their bulk in proportion to their value allowed them to be easily smuggled abroad. This exportation could only be prevented by a proper attention to the balance of trade.
@@ -132,7 +132,7 @@ For example, if the exchange between England and Holland was 5% against England,
 </div>
 
 
-<sup>9</sup> Those arguments were partly solid and partly sophistical.
+{{< s v="9" >}} Those arguments were partly solid and partly sophistical.
 
 They were solid in asserting= 
 - that gold and silver exportation can be advantageous to the country
@@ -158,7 +158,7 @@ The prohibition of exporting gold and silver coins increases the risk in smuggli
   - It would reduce the unfavourable balance of trade and the exportation of gold and silver.
 
 
-<sup>10</sup> However, those arguments convinced the parliaments, councils of princes, nobles, and country gentlemen.
+{{< s v="10" >}} However, those arguments convinced the parliaments, councils of princes, nobles, and country gentlemen.
 
 Those arguments were created by those who were supposed to understand trade for those who knew nothing about trade. 
 - The nobles, country gentlemen, and merchants knew that foreign trade enriched the country. But how it enriched the country, none of them knew well.
@@ -200,7 +200,7 @@ He said that=
 </div>
 
 
-<sup>11</sup> A country that has no mines of its own must draw its gold and silver from overseas, in the same way as one that has no vineyards must draw its wines from others.
+{{< s v="11" >}} A country that has no mines of its own must draw its gold and silver from overseas, in the same way as one that has no vineyards must draw its wines from others.
 
 It is unnecessary that the government's attention should be turned towards metals than towards wines.
 - A country that can buy wine will always get the wine it needs.

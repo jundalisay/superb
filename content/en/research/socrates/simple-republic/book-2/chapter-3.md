@@ -8,8 +8,6 @@ linkbtext= "Chapter 2"
 linkf= "/research/socrates/simple-republic/book-3/chapter-1/"
 linkftext= "Book 3"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
 +++
 
 

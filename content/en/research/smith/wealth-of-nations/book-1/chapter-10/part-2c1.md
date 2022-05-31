@@ -41,12 +41,12 @@ The statute of apprenticeship renders such workers unqualified for other employm
 
 ### Immigration Restrictions
 
-<sup>100</sup> Whatever obstructs the free circulation of labour from one employment to another obstructs the free circulation of stock because stock depends very much on the labour it employs.
+{{< s v="100" >}} Whatever obstructs the free circulation of labour from one employment to another obstructs the free circulation of stock because stock depends very much on the labour it employs.
 
 Corporation laws obstruct labour circulation more than stock.
 It is much easier for a wealthy merchant to have the privilege of trading in a town corporate, than for a poor artificer to work in it.
 
-<sup>101</sup> The obstruction of the corporation laws to the free circulation of labour is common in Europe.
+{{< s v="101" >}} The obstruction of the corporation laws to the free circulation of labour is common in Europe.
 
 That obstruction caused by the poor laws is peculiar to England.
     It gives difficulty to a poor man to= 
@@ -59,7 +59,7 @@ The corporation laws only obstruct the free circulation of the labour of artific
 
 ### Unjust Immigration Laws
 
-<sup>102</sup> After the destruction of monasteries, the poor were deprived of the charity of those religious houses.
+{{< s v="102" >}} After the destruction of monasteries, the poor were deprived of the charity of those religious houses.
 
 The Poor Relief Act of 1601 enacted that= 
     every parish is bound to provide for its own poor, and

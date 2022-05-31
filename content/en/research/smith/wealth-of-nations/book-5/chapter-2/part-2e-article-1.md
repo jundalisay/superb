@@ -65,7 +65,7 @@ It would fall=
 - partly on the ground owner.
 
 
-<sup>70</sup> For example, if a person rents a house for £60 a year.
+{{< s v="70" >}} For example, if a person rents a house for £60 a year.
 
 The house-rent tax is 4 shillings in the pound or 20%.
 A house of £60 rent will cost him £72 a year. [60 * 1.2]

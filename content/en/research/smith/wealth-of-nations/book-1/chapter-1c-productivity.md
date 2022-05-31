@@ -9,16 +9,15 @@ linkbtext=  "Chapter 1b"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-2"
 linkftext=  "Chapter 2"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
+
 
 {{< s v="10" >}} The division of labour greatly increases productivity. This productivity in a well-governed society creates the universal opulence which extends to the poor.
 
 Every worker produces a lot more goods than what he himself needs. This allows all workers to exchange their excess goods among each other, creating a general plenty that diffuses itself through the different ranks of society.
 
 
-11 The accommodation of a common day-labourer in a civilized country involves a small part of the industry of so many people.
+{{< s v="11" >}} The accommodation of a common day-labourer in a civilized country involves a small part of the industry of so many people.
 
 For example, the labourer's woollen coat is coarse and rough. But it is the produce of the joint labour of many workers= 
 - the shepherd,

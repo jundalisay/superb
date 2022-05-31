@@ -1,6 +1,6 @@
 +++
 title=  "What Causes the Increase in Productivity?"
-# heading=  Chapter 1b of Book 1 of the Wealth of Nations Simplified
+heading=  "Chapter 1b of the Wealth of Nations Simplified"
 date=  2020-01-30
 image=  "/covers/wn.jpg"
 description=  "Division of Labor raises productivity by increasing skill, time savings, and by the invention of technology"
@@ -9,8 +9,6 @@ linkbtext=  "Division of Labor"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-1c-productivity"
 linkftext=  "Productivity"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 

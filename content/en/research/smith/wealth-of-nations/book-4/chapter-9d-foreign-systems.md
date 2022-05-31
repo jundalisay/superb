@@ -82,7 +82,7 @@ In both countries, the caste of the priests held the highest rank.
 - The caste of the soldiers was next highest.
 - The caste of the farmers and labourers was superior to the castes of merchants and manufacturers.
 
-<sup>44</sup> The governments of ancient Egypt and India were particularly attentive to the interest of agriculture.
+{{< s v="44" >}} The governments of ancient Egypt and India were particularly attentive to the interest of agriculture.
 
 The works built by the ancient Egyptian sovereigns for the proper water distribution of the Nile were famous in antiquity.
 Similar works were built by the ancient Indian sovereigns for the proper water distribution of the Ganges and other rivers.
@@ -92,7 +92,7 @@ Both countries were famous for their great fertility even though they occasional
 Both were extremely populous.
 In years of moderate plenty, they were both able to export plenty of grain.
 
-<sup>45</sup> The ancient Egyptians had a superstitious aversion to the sea.
+{{< s v="45" >}} The ancient Egyptians had a superstitious aversion to the sea.
 
 The Hindu religion does not permit its followers to= 
 light a fire on the water, and
@@ -140,7 +140,7 @@ It commonly exports the greatest amount of rice.
 It has always been more remarkable for its various manufacturing exports than for its grain exports.
 
 
-<sup>46</sup> The sovereigns of China, ancient Egypt, and India have always derived the biggest part of their revenue from land-tax or land-rent.
+{{< s v="46" >}} The sovereigns of China, ancient Egypt, and India have always derived the biggest part of their revenue from land-tax or land-rent.
 
 This land-tax or land-rent is like the tithe in Europe.
 It consisted in 20% of the produce of the land.

@@ -83,7 +83,7 @@ This happened in Scotland and more in North America.
 
 Those metals became more abundant in America since the suppression of some of their paper currencies. Gold and silver were more abundant before the institution of those currencies.
 
-<sup>93</sup> Banks can still give the same assistance to its country's industry and commerce if paper money were confined to the circulation between dealers and dealers, as when paper money filled almost the whole circulation.
+{{< s v="93" >}} Banks can still give the same assistance to its country's industry and commerce if paper money were confined to the circulation between dealers and dealers, as when paper money filled almost the whole circulation.
 
 The dealer's ready money for answering occasional demands is destined to circulate between himself and the other dealers he buys goods from.
 He does not need to keep ready money to circulate between himself and the consumers because the consumers bring ready money to him.
@@ -91,7 +91,7 @@ Banks can still relieve those dealers from needing to keep ready money unemploye
 discounting real bills of exchange, and
 lending on cash accounts even if the circulation would be confined between dealers and dealers.
 
-<sup>94</sup> It may be said that the following are violations of natural liberty which the law should support and not infringe= 
+{{< s v="94" >}} It may be said that the following are violations of natural liberty which the law should support and not infringe= 
 
 - restraining private people from receiving a banker's promissory notes which they are willing to receive, and
 - restraining a banker from issuing such notes which everyone is willing to accept.

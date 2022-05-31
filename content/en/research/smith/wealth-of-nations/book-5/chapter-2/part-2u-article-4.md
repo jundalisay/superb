@@ -9,8 +9,6 @@ linkbtext=  "part-2t"
 linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2v-article-4"
 linkftext=  "part-2v"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
 
 
@@ -94,12 +92,12 @@ Thus, excise duties and excise officers are more unpopular than customs duties a
 - This observation might be a mere suggestion of smugglers who are prevented by their diligence.
 
 
-<sup>211</sup> The inconveniences from taxes on consumable commodities fall as light on the British as on those of other countries with expensive governments.
+{{< s v="211" >}} The inconveniences from taxes on consumable commodities fall as light on the British as on those of other countries with expensive governments.
 
 Our state is not perfect, but it is as good or better than the states of most of our neighbours.
 
 
-<sup>212</sup> Because of the notion that duties on consumable goods were taxes on merchants' profits, those duties were repeated on every successive sale of goods in some countries.
+{{< s v="212" >}} Because of the notion that duties on consumable goods were taxes on merchants' profits, those duties were repeated on every successive sale of goods in some countries.
 
 If the profits of the merchant importer or merchant manufacturer were taxed, it seemed just to tax the profits of all the middlemen between them and the consumer.
 
@@ -120,12 +118,12 @@ The produce of every part of the country must be proportioned to the consumption
 Ustaritz imputes the ruin of Spanish manufactures to the alcavala. He also could have imputed the decline of agriculture to it because the alcavala was also imposed on agricultural produce.
 
 
-<sup>213</sup> In Naples, there is a similar tax of 3% on the value of all contracts, including contracts of sale. It is lighter than the Spanish tax.
+{{< s v="213" >}} In Naples, there is a similar tax of 3% on the value of all contracts, including contracts of sale. It is lighter than the Spanish tax.
 
 Most of the towns are allowed to pay a composition in lieu of it. They levy this composition in a way that does not interrupt their interior commerce. The Neapolitan tax is not as ruinous as the Spanish alcavala.
 
 
-<sup>214</sup> The uniform system of taxation, with a few small exceptions, in all of the United Kingdom, leaves its interior commerce almost entirely free.
+{{< s v="214" >}} The uniform system of taxation, with a few small exceptions, in all of the United Kingdom, leaves its interior commerce almost entirely free.
 
 The inland trade is almost perfectly free. 
 Most goods may be carried from one end of the kingdom to the other without= 

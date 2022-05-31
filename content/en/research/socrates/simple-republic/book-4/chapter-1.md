@@ -1,18 +1,17 @@
-+++
-title= "Wisdom and Courage"
-# heading= "The Simple Republic by Plato Book 4 Chapter 1"
-date= 2015-09-25
-image= "/covers/republic.jpg"
-# image= "https://sorasystem.sirv.com/photos/medieval/peloponnesianwar.jpg"
-description= "Socrates gives the policies for wealth, war, and federalism"
-linkf= "/research/socrates/simple-republic/book-4/chapter-2/"
-linkftext= "Chapter 2"
-linkb= "/research/socrates/simple-republic/book-3/chapter-5/"
-linkbtext= "Chapter 5"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "Wisdom and Courage"
+heading: "Chapter 1 Book 4 The Republic by Plato Simplified"
+date: 2015-09-25
+image: "/covers/republic.jpg"
+description: "Socrates gives the policies for wealth, war, and federalism"
+author: "Socrates"
+linkb: "/research/socrates/simple-republic/book-3/chapter-5/"
+linkbtext: "Chapter 5"
+linkf: "/research/socrates/simple-republic/book-4/chapter-2/"
+linkftext: "Chapter 2"
+icon: "/icons/soc.png"
+---
+
 
 {{< r a="Adeimantus" >}}
 A person might say:
@@ -44,7 +43,7 @@ But our aim in founding the State is the greatest happiness of the whole and not
 
 Having found both States, we can then decide which of them is happier. We are now fashioning the happy State as a whole and not piecemeal or with a view of making a few citizens happy. Later, we will proceed to view the opposite kind of State.
 
-If we were painting a statue and someone came up to us and said, why don't you put the most beautiful colours on the most beautiful parts of the body? The eyes should be purple, but you have made them black. We answer= We cannot beautify the eyes to the point that they are no longer eyes. Instead, by giving this and the other features their due proportion, we make the whole beautiful. So do not compel us to give a kind of happiness to the guardians which will make them anything but guardians.
+If we were painting a statue and someone came up to us and said, why don't you put the most beautiful colours on the most beautiful parts of the body? The eyes should be purple, but you have made them black. We answer: We cannot beautify the eyes to the point that they are no longer eyes. Instead, by giving this and the other features their due proportion, we make the whole beautiful. So do not compel us to give a kind of happiness to the guardians which will make them anything but guardians.
 
 We can clothe our husbandmen in royal apparel. Our potters also might be allowed to feast by the fireside. In this way, we can make every class happy, and then the whole State. But this would actually make the husbandman no longer a husbandman, and the potter no longer a potter. No one will have a distinct class in the State. This will not corrupt society so much if it were confined to cobblers.
 
@@ -123,7 +122,7 @@ These are at war with one another. There are many smaller divisions in either. Y
 
 Your wise State will be the greatest of States, not in reputation or appearance, but in deed and truth, even if she has not more than 1,000 defenders. No single State will be equal to her even if many of them are bigger. <b>The State should increase in size and territory so far as is consistent with unity.</b> That is the proper limit.
 
-Here then is another order that is not very severe for our guardians= <b>Let our city not be large nor small, but united and self-sufficing.</b> 
+Here then is another order that is not very severe for our guardians: <b>Let our city not be large nor small, but united and self-sufficing.</b> 
 
 But this order is lighter than the order to downgrade the inferior offsprings of the guardians and upgrade the superior offspring of the lower classes to the rank of guardians. This will make the citizens find their natural purpose so that everyone will do one work instead of many, and focus on his business. In this way, whole city would be one and not many.
 
@@ -274,5 +273,5 @@ Let us see where in it we can discover justice and injustice, how they differ fr
 {{< /l >}}
 
 {{< r a="Glaucon" >}}
-Glaucon= You promised to search yourself. You said that it would be an impiety to not help justice in her need.
+Glaucon: You promised to search yourself. You said that it would be an impiety to not help justice in her need.
 {{< /r >}}

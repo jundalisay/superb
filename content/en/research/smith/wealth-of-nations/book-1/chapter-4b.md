@@ -1,8 +1,6 @@
-
-
 +++
 title=  "The Origin of Coinage"
-# heading=  The Simplified Wealth of Nations by Adam Smith, Book 1 Chapter 2a
+heading=  "Chapter 2a Book 1 of The Wealth of Nations Simplified"
 date=  2020-01-25
 image=  "/covers/wn.jpg"
 description=  "The difficulty of weighing metals led to coinage"
@@ -11,8 +9,6 @@ linkbtext=  "Chapter 4a"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-5a"
 linkftext=  "Chapter 5a"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 
@@ -41,11 +37,12 @@ From the time of Alexander 1st [in 1107] to that of Robert Bruce [in 1329], the 
 English, French, and Scots pennies also originally had a real pennyweight of silver, 1/20 of an ounce, and the 1/240 of a pound.
 The shilling too originally stood for a weight.
 
-An ancient statute of Henry 3rd says= 
+An ancient statute of Henry 3rd says:
 
-{{< quote >}}
+{{< q >}}
 When wheat is at 12 shillings the quarter, then wastel bread of a farthing shall weigh 11 shillings and 4 pence.
-</div>
+{{< /q >}}
+
 
 However, the proportion between the shilling and the penny or the pound was not so constant and uniform as that between the penny and the pound.
 
@@ -54,6 +51,7 @@ During the first race of the French kings, the French sou or shilling contained 
 Among the ancient Saxons, a shilling at one time had only five pennies.
 It might have been as variable among them as among their neighbours, the ancient Franks.
 From the time of Charlemagne among the French and from that of William the Conqueror among the English, the proportion between the pound, shilling, and penny, was uniformly the same as now.
+
 But the value of each has been very different.
 In every country of the world, the avarice and injustice of princes and sovereign states abused the confidence of their subjects.
 
@@ -72,15 +70,15 @@ Therefore, such operations were always favourable to the debtor and ruinous to t
 They sometimes produced a greater and more universal revolution in the fortunes of private persons, than any great public calamity.
 
 
-{{< s v="" >}}11 In this way, money became the universal instrument of commerce in all civilized nations.
+{{< s v="11" >}} In this way, money became the universal instrument of commerce in all civilized nations.
 
 It intervenes to exchange goods for one another.
 
-{{< s v="" >}}12 People naturally observe rules in exchanging goods either for money or for one another.
+{{< s v="12" >}} People naturally observe rules in exchanging goods either for money or for one another.
 
 These rules determine the 'relative' or 'exchangeable' value of goods.
 
-{{< s v="" >}}13 'Value' has two different meanings.
+{{< s v="13" >}} 'Value' has two different meanings.
 
 > 1. It sometimes expresses utility
 
@@ -91,25 +89,27 @@ This is called value in use
 This is called value in exchange
 
 The things which have the greatest value in use have frequently little or no value in exchange.
+
 Things which have the greatest value in exchange have frequently little or no value in use.
-Nothing is more useful than water= 
-but it will buy scarce anything, and
-scarce anything can be exchanged for it.
+Nothing is more useful than water:
+- but it will buy scarce anything, and
+- scarce anything can be exchanged for it.
+
 On the contrary, a diamond, has scarce any value in use.
 But a many goods may frequently be had for it.
 
 14 To investigate the principles which regulate the exchangeable value of commodities, I shall try to show= 
 
-- <sup>15</sup> The real measure of this exchangeable value, or what is the basis of the real price of all commodities.
-- <sup>16</sup> The parts that make up this real price.
-- <sup>17</sup> The circumstances which= 
+- {{< s v="15" >}} The real measure of this exchangeable value, or what is the basis of the real price of all commodities.
+- {{< s v="16" >}} The parts that make up this real price.
+- {{< s v="17" >}} The circumstances which= 
   - sometimes raise some or all of these parts of price above, and
   - sometimes sink them below their natural or ordinary rate,
 - What are the causes which sometimes hinder the market price from coinciding exactly with their 'natural price'.
 
 The market price is the actual price of commodities.
 
-18 I shall try to explain those three subjects in the three following chapters.
+{{< s v="18" >}} I shall try to explain those three subjects in the three following chapters.
 
 I very earnestly entreat the reader's patience and attention. 
 - Patience is needed to examine a detail which might appear unnecessarily tedious

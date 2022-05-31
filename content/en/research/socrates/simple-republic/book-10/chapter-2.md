@@ -1,160 +1,163 @@
-+++
-title= "The Immortality of the Soul"
-# heading= "The Simple Republic by Plato Book 10 Chapter 2"
-date= 2015-09-29
-image= "/covers/republic.jpg"
-# image= "https://sorasystem.sirv.com/photos/outline.png"
-description= "The soul is immortal. The number of souls in existence do not increase nor decrease. The reward of justice is the natural and everlasting happiness that it gives to the soul itself, and not in any external pleasure"
-linkf= "/research/socrates/simple-republic/book-10/chapter-3/"
-linkftext= "Chapter 3"
-linkb= "/research/socrates/simple-republic/book-10/chapter-1/"
-linkbtext= "Chapter 1"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "The Immortality of the Soul"
+heading: Chapter 3 Book 10 of The Republic by Plato Simplified
+date: 2022-01-31
+description: "The soul is immortal. The number of souls in existence do not increase nor decrease. The reward of justice is natural and everlasting happiness"
+image: "/covers/republic.jpg"
+linkb: "/research/socrates/simple-republic/book-10/chapter-2"
+linkbtext: "Chapter 2"
+linkf: "/research/socrates/simple-republic/book-10/chapter-4"
+linkftext: "Chapter 4"
+icon: "/icons/soc.png"
+---
 
 
-## The Just Are Rewarded, and the Unjust are Punished in the Next Life
+{{< l a="Socrates" >}}
+Imitation is only a kind of play or sport. The tragic poets are imitators in the highest degree. Imitation is concerned with that which is thrice removed from the truth. Imitation addresses what faculty in man?
+
+A body is large when seen near and appears small when seen from afar. The same object appears straight when seen out of the water, and crooked when in the water. The concave becomes convex due to the illusion on colours to which the sight is liable.
+
+<b>Thus, every confusion is revealed to come from within us.</b> This is that weakness in the inferior part of the human mind that is imposed on by illusory tricks which affects us like magic. <!--   the art of conjuring and deceiving by light and shadow and other ingenious devices imposes. It has an effect upon us . -->
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+The arts of measuring, counting, and weighing come to the rescue of the human understanding. These free us from the uncertainty of greater or less, or more or heavier. The better part of the soul to measure and calculation.  
+<!-- They give ground to calculation, measure, and weight. This surely is the work of the calculating and rational principle in the soul. When this principle measures and certifies that some things are equal, or that some are greater or less than others, there occurs an apparent contradiction. But we said that such a contradiction is impossible. -->
+
+<!-- The same faculty cannot have contrary opinions at the same time about the same thing. This means that the part of the soul which has an opinion contrary to measure is not the same with that part which has an opinion in accordance with measure.  -->
+<!-- That which is opposed to them is the inferior part. This was the conclusion that I was seeking when I said that painting and imitation are far removed from truth. They are the companions and friends of a principle within us which is equally removed from reason. They have no true or healthy aim. -->
+
+The imitative art is an inferior one who marries an inferior, and has inferior offspring. This inferiority extends itself to sight and hearing with regards to poetry. Imitation imitates the actions of men, whether voluntary or involuntary. This results in a man not being in unity with himself.
+{{< /l >}}
+
+<!-- {{< r a="Glaucon" >}} Probably the same would be true of poetry.{{< /l >}} {{< l a="Socrates" >}} -->
+
+<!-- Do not rely on a probability derived from the analogy of painting. Is the faculty concerned with which poetical imitation good or bad? -->
+<!-- They then imagine that a good or bad result has ensued. They then rejoice or sorrow accordingly. But in all this variety of circumstances, is the man at ? -->
+  
+
+{{< l a="Socrates" >}}
+In our example on sight, there was confusion and opposition in his opinions about the same things. So here also, there is strife and inconsistency in his life.
+
+The soul is full of these and 10,000 similar oppositions occurring at the same time. We said that a good man who has lost his son will bear the loss with more equanimity than a man who is not good.
+
+He will moderate his sorrow. He is more likely to struggle and hold out against his sorrow when he is alone. When he is by himself, he can do many things which he would be ashamed of. There is a principle of law and reason in him which bids him to resist his sadness. <!-- , as well as a feeling of his misfortune which is forcing him to indulge his sorrow. --> 
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+But when a man is drawn in two opposite directions, to and from the same object, it implies two distinct principles in him. One of them is ready to follow the guidance of the law which would say:
+<ul>
+  <li>that it is best to be patient under suffering,</li>
+  <li>that we should not give way to impatience, as there is no knowing whether such things are good or evil, and</li>
+  <li>that nothing is gained by impatience, because no human thing is of serious importance.</li>
+</ul>
+
+The other principle is grief which stands in the way of taking counsel about what has happened. This counsel is most needed. It says that when the dice has been thrown, we should order our affairs in the way that reason deems best. We should do this not like children who have fallen and waste time in crying. Instead, we should do it always accustoming the soul to:
+<ul>
+  <li>apply a remedy,</li>
+  <li>raise up that which is sickly and fallen, and</li>
+  <li>banish the cry of sorrow by the healing art.</li>
+</ul>
+{{< /l >}}
 
 {{< r a="Glaucon" >}}
-You have not mentioned the greatest prizes and rewards which await virtue.
+Yes, that is the true way of meeting the attacks of fortune.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-Socrates= Virtue is great prize in itself. If there are greater prizes, then they must be of an inconceivable greatness. Forty years is surely a little thing compared with eternity. Then just say that there is nothing to reward virtue in the future.
+The higher principle is ready to follow this suggestion of reason. The other principle inclines us to remember our troubles. The irrational, useless, and cowardly have the inferior principle. The rebellious principle furnishes many materials for imitation.
 
-An immortal being would rather think of eternity than this short life. Are you not aware that the soul of man is immortal and imperishable?
+The wise and calm temperament is always nearly equable. It is not easy to imitate or to appreciate when imitated, especially at a public festival when a promiscuous crowd is assembled in a theatre because the feeling represented is new to them. 
+
+The imitative poet who aims at being popular does not target the rational principle in the soul. Like the painter, he instead will target the passionate temper, the inferior part of the soul, which is easily imitated.
+<!-- We can place him beside the painter, for he is like him in two ways:
+<ul>
+  <li>His creations have an inferior degree of truth.</li>
+  <li>He is also concerned with an .</li>
+</ul> -->
 {{< /l >}}
 
 
-He looked at me in astonishment
+{{< l a="Socrates" >}}
+Therefore, we should ban him from a well-ordered State because he awakens and strengthens the feelings and impairs reason. The imitative poet implants an evil constitution in the soul because he:
+<ul>
+  <li>indulges the irrational nature,</li>
+  <li>manufactures images, and</li>
+  <li>is very far removed from the truth.</li>
+</ul>
+
+This irrational nature has no discernment. It thinks the same thing at one time great and at another small. Our heaviest accusation is that the power of poetry harms even the good (and there are very few who are not harmed).
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+Imagine Homer or one of the tragedians representing some pitiful hero crying in a long oration. We would give way to sympathy. But when we ourselves are sad, we pride ourselves on being quiet, patient, and manly. The man crying loudly is doing the part of a woman. We cannot praise a person who is doing a shameful thing. Our reason teaches us not to cry loudly. 
+
+But poets aim for this sympathy which we get since the sorrow is from another person. We, as spectators, fancy that it is not disgraceful to praise or pity the suffering person because it means that it is not us who are suffering. 
+
+<!-- But this is reasonable if you consider that when in misfortune, we feel a natural hunger and desire to relieve our sorrow by weeping and lamentation.
+This feeling is kept under control in our own calamities and is satisfied and delighted by the .
+ -->
+<!-- The better nature in each of us is not sufficiently trained by reason or habit -->
+
+<!-- It allows the sympathetic element to break loose because 
+
+He thinks that the pleasure is a gain.
+Why should he be supercilious and lose this gain and the poem too?
+ -->
+
+The people do not think that when they think of the evil of other men, something of evil is communicated to themselves. In time, the sadness at the sight of the misfortunes of others gathers and becomes more difficult to repress.
+
+This is also true for laughter. There are jokes which you would be ashamed to make yourself. Yet when you hear them on the comic stage, or in private, you are greatly amused.You are not at all disgusted at them and so the laughter gathers strength too. 
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+There is a principle in human nature which makes us laugh. This is restrained by reason, because you were afraid of being thought a buffoon. Comedy makes it come out again. It stimulates the humorous faculty. It unconsciously betrays you into playing the comic at home. The same may be said of lust, anger, and all the other affections, pain and pleasure, which are held to be inseparable from every action.
+
+In all of them, poetry feeds the passions instead of drying them up. She lets them rule, even if they should be controlled. Therefore, Glaucon, we should love the excellent eulogists of Homer who say that:
+<ul>
+  <li>he has been the educator of Hellas,</li>
+  <li>he is profitable for education and for the ordering of human things,</li>
+  <li>you should read him again and again to regulate your life according to him.</li>
+</ul>
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+Homer is the greatest of poets and first of tragedy writers. But we must remain firm in our conviction that hymns to the gods and praises of famous men are the only poetry allowed into our State. If you disobey this and allow the honeyed muse to enter in epic or lyric verse, then pleasure and pain will rule the State.
+
+<!-- Our current defense shows the reasonableness of that purgation. Back then, reason constrained us from being harsh to bad poetry. -->
+
+We have previously purged bad poetry out of our State. There is an ancient quarrel between philosophy and poetry, as proven by the sayings:
+<ul>
+  <li>'the yelping hound howling at her lord,'</li>
+  <li>'mighty in the vain talk of fools,'</li>
+  <li>'the mob of sages circumventing Zeus,' and</li>
+  <li>'subtle thinkers who are beggars after all'</li>
+</ul>
+{{< /l >}}
+<!-- There are innumerable other signs of ancient enmity between them. If the arts of imitation can prove her title to exist in a well-ordered State, then we shall be delighted to receive her. We are very conscious of her charms. But we may not on that account betray the truth. --> 
+
+
+
+{{< l a="Socrates" >}}
+Imitative poetry can be allowed to return from exile only on the condition that she make her defence in lyrical or some other metre. The lovers of poetry, but not yet poets, can speak in prose on her behalf. Let them show that she is pleasant and useful to people.
+
+<!-- If this is proven, then we shall surely be the gainers if there is a use in poetry as well as a delight.
+People restrain themselves when they think their desires are opposed to their interests.
+In the same way, we must give up poetry, with a struggle. -->
+
+We too are inspired by that love of poetry which the education of noble States has implanted in us. We want her to appear at her best and truest. But as long as she is unable to defend herself, our argument shall be a mantra to us. We will repeat it to ourselves while we listen to her strains. In this way, we will not fall into the childish love of her which captivates many.
+
+Imitative poetry does not attain the truth. People should be on guard against her seductions. They must not neglect justice and virtue from the influence of honour, money, power under the excitement of poetry.
+<!-- He who listens to poetry, fearing for the safety of the city within him, .
+He should make our words his law.
+For great is the issue at stake if  -->
+{{< /l >}}
 
 {{< r a="Glaucon" >}}
-No. Are you really prepared to maintain this?
+Yes, I have been convinced by the argument.
 {{< /r >}}
-
-{{< l a="Socrates" >}}
-Yes, it is easy to prove. The corrupting and destroying element is called "evil". The saving and improving element is called "good". Everything has a good and an evil.
-
-Ophthalmia is the evil of the eyes and disease of the whole body. Mildew is the evil of corn. Rot is the evil of timber. Rust is the evil of copper and iron.
-
-In almost everything, there is an inherent evil and disease. Anything which is infected by any of these evils is made evil. In the end, it dissolves and dies. The vice and evil which is inherent in each thing brings its own destruction.
-
-If this does not destroy them, then nothing else will. For good, or anything that is not good nor evil, will not destroy them.
-If we find any nature which is not destroyed by this inherent corruption, then in that nature there is no destruction. Is there no evil which corrupts the soul?
-{{< /l >}}
-
-
-{{< right ava="Glaucon" >}}
-Yes, there are all the evils= unrighteousness, intemperance, cowardice, ignorance.
-{{< /r >}}
-
-{{< l a="Socrates" >}}
-But does any of these dissolve or destroy her? This does not mean that the unjust and foolish man perishes through his own injustice.
-
-Take the analogy of the body. The evil of the body is a disease which wastes and annihilates the body.
-Bodies get destroyed from their own corruption attaching to them, inhering, and destroying them from the inside.
-The injustice or other evil in the soul waste and consume the body.
-They attach to the soul, kill the body, and separate the soul from the body.
-Yet, it is unreasonable for anything to perish from outside by an external evil which could not be destroyed from within by a corruption of its own.
-
-Even the badness of food when confined to the actual food, and not eaten, does not destroy the body.
-The badness of food destroys the body by sending corruption as disease.
-The body, being one thing, can be destroyed by the badness of food, which is another thing which does not engender any natural infection.
-
-On the same principle, the soul cannot be dissolved by any external evil which belongs to another, unless some bodily evil can produce an evil of the soul.
-
-The soul cannot be destroyed by disease, a knife to the throat, or even the cutting up of the whole body.
-These only destroy the soul if it makes it more unholy or unrighteous as a consequence.
-No one affirms that the soul can be destroyed by an external evil if it cannot be destroyed by an internal evil.
-Surely, no one will ever prove that souls become more unjust as a consequence of death.
-
-Some people boldly reject the immortality of the soul.
-
-They say that the dying do really become more evil.
-If this were true, then it would mean:
-that injustice, like disease, would be fatal to the unjust, and
-that the unjust die from their own injustice sooner or later through the natural inherent destructiveness of evil.
-But this death is quite different from the death that the wicked get as punishment.
-In that case, injustice would not be so terrible to the unjust, because death will free him from evil.
-
-But I rather suspect the opposite to be the truth.
-I suspect that injustice will cause the unjust to murder others while keeping the unjust murderer alive.
-True, if the inherent natural vice or evil in the soul is unable to kill or destroy the soul, then any other thing which is appointed to destroy some other body will not be able to destroy the soul either.
-
-But the soul cannot be destroyed by an evil, whether internal or external. Therefore, it must exist forever. This has many proofs. This means that souls must always be the same.
-
-If none are destroyed, then the souls will not diminish in number. Their numbers will not increase, for the increase of the immortal natures must come from something mortal and therefore end their immortality. But reason will not allow us to believe this.
-
-Reason will also not allow us to believe that the soul, in its truest nature, is full of variety, difference, and dissimilarity. The immortal soul is the fairest of compositions. It cannot be made up of many elements. We should see the soul in its original purity, not when it is united with the body and other impurities.
-
-In this way, justice and injustice will manifest more clearly. The original image of the sea-god Glaucus can hardly be discerned because his natural members are broken off, crushed, and damaged by the waves in all sorts of ways.
-
-Seaweed, shells, and stones have grown over them. He is more like some monster.
-
-The soul is in a similar condition, disfigured by 10,000 ills. But we must look at its love of wisdom.
-The soul is kindred with the immortal, eternal, and divine.
-
-We must see:
-whom the soul affects and what what society it seeks in terms of virtue,
-how different the soul would be if it wholly followed wisdom.
-
-This would disengage it from the stones, shells, and things of earth that spring up around it, which serve as the good things of this life and is a natural consequence of the soul feeding on physical existence.
-In this way, you would see it as it is.
-You would know whether it has one shape only or many, or what its nature is.
-We have explained its affections and the forms it takes in life.
-You say that the rewards of justice are to be found in Homer and Hesiod.
-
-But in reality, justice is the best for the soul in its own nature.
-Let a man do what is just, whether he has the ring of Gyges or not, and even the helmet of Hades.
-We can now enumerate how many and great are the rewards which justice and the other virtues procure to the soul from gods and men, both in life and after death.
-You assumed that the just man should appear unjust and the unjust should appear just.
-
-The eyes of gods and men will see through this illusion. But you still kept it so that pure justice could be weighed against pure injustice. Do you remember?
-{{< /l >}}
-
-{{< right ava="Glaucon" >}}
-I should be much to blame if I had forgotten.
-{{< /r >}}
-
-{{< l a="Socrates" >}}
-Then, we restore the original definition of justice which cannot be misrepresented to gods and men.
-
-The nature of the just and unjust is truly known to the gods.
-This makes one of them a friend of the gods and the other as their enemy.
-The friend of the gods receive from them all things at their best, except the evil which is the necessary consequence of former sins.
-Then their friend must be the just man.
-
-Even when he is in poverty, sickness, or misfortune, all things will in the end work together for good to him in life and death because the gods have a care of anyone whose desire is to become just and to be like God by the pursuit of virtue.
-{{< /l >}}
-
-{{< right ava="Glaucon" >}}
-Yes, if he is like God he will surely not be neglected by him.
-{{< /r >}}
-
-{{< l a="Socrates" >}}
-The gods will give victory to the just. The opposite may be supposed of the unjust.
-The clever unjust are runners who run well from the starting-place.
-They start at a great speed.
-
-But in the end, they look foolish.
-
-They slink away with their ears draggling on their shoulders, and without a crown.
-But the true runner--the just--comes to the finish, receives the prize, and is crowned.
-He who endures to the end in every action and occasion of his entire life has a good report.
-This is the prize which men have to bestow on him.
-The just can become rulers in their own city.
-
-They marry whom they like and give in marriage to whom they will.
-On the other hand, most of the unjust can escape in their youth.
-The rest are found looking foolish in the end.
-
-They come to be old and miserable and flouted alike by stranger and citizen.
-They are beaten and will be racked and have their eyes burned out.
-You wrongly said [in Book 2, Chapter 1] that these awaited the just who pretended to be unjust.
-Assuming what I said are true, then these are the rewards and gifts bestowed on the just by gods and men in this life.
-
-This is in addition to the other good things which justice itself provides.
-Yet, all these are as nothing in quality or quantity compared with those other recompenses which await both the just and unjust after death.
-{{< /l >}}

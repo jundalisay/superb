@@ -20,7 +20,7 @@ But they create equality when the advantages and disadvantages in employments ar
 
 ## Equality Through Length of Time in Operations
 
-> 1. <sup>44</sup> The employments must be well known and long established in the neighbourhood
+> 1. {{< s v="44" >}} The employments must be well known and long established in the neighbourhood
 
 45 Where all other circumstances are equal, wages are higher in new than in old trades. Before an entrepreneur establishes a new manufacture, he must at first entice workmen from other employments with higher wages. A considerable time must pass before he can reduce them to the common level.
 
@@ -49,7 +49,7 @@ Manufactures for products with ever-changing demand, arising from fashion and fa
 ## Businesses must be natural
 
 
-> 2. <sup>47</sup> This equality can take place only in the ordinary or natural state of those employments.
+> 2. {{< s v="47" >}} This equality can take place only in the ordinary or natural state of those employments.
 
 48 The demand for labour constantly changes.
 
@@ -77,7 +77,7 @@ Manufactures for products with ever-changing demand, arising from fashion and fa
 
 ## Focus of the Entrepeneur
 
-> 3. <sup>50</sup> This equality can take place only in the sole or principal employments of those who occupy them.
+> 3. {{< s v="50" >}} This equality can take place only in the sole or principal employments of those who occupy them.
 
 51 When a person derives his subsistence from an employment which can give him some free time, he is often willing to work at another for less wages than normal.
 52 Cotters (or Cottagers) of Scotland were frequent some years ago.

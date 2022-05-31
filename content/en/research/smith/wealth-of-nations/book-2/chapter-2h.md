@@ -94,7 +94,7 @@ All of them may become bankrupts, but there is little chance that they will all 
 </div>
 
 
-<sup>68</sup> The interest on bills was 5% in the year. The commission was never less than 0.5% on each draft.
+{{< s v="68" >}} The interest on bills was 5% in the year. The commission was never less than 0.5% on each draft.
 
 Let us suppose that Trader A in Edinburgh draws a $100 bill on Trader B in London on January 1, payable after two months or on March 1. In reality, B in London owes nothing to A in Edinburgh.
 
@@ -111,12 +111,12 @@ Whatever money `A` might raise must have, cost him something more than 8% in the
 This practice was called *raising money by circulation*.
 
 
-<sup>69</sup> In a country where most ordinary profits in mercantile projects run between 6-10%, it was pure speculation to be able to earn a good profit after paying the enormous cost of borrowed money.
+{{< s v="69" >}} In a country where most ordinary profits in mercantile projects run between 6-10%, it was pure speculation to be able to earn a good profit after paying the enormous cost of borrowed money.
 
 Many vast projects were carried on for several years with only drawn and redrawn bills. The entrepreneurs had golden dreams of great profit. After waking up at the end of their projects or when they could no longer continue them, they very seldom found great profits.
 
 
-<sup>70</sup> Trader `A` in Edinburgh regularly discounted with some Edinburgh bank the bills he drew on `B`, 2 months before they were due.
+{{< s v="70" >}} Trader `A` in Edinburgh regularly discounted with some Edinburgh bank the bills he drew on `B`, 2 months before they were due.
 - Trader `B` in London regularly discounted with some London bank the bills he drew on `A`, 2 months before they were due.
 - Scottish paper money was advanced in those bills discounted with the Edinburgh banks.
 - English paper money was advanced in those bills discounted with the London banks.
@@ -130,13 +130,13 @@ Because before each bill became due, a new bill was always drawn to a greater am
 - The stream which ran out of the coffers of the banks through the bills of exchange, was never replaced by any stream which ran into them.
 
 
-<sup>71</sup> The paper money issued on those bills <!-- of exchange --> made up the **whole fund** for some vast project of agriculture, commerce, or manufactures, and not just the ready money for answering occasional demands.
+{{< s v="71" >}} The paper money issued on those bills <!-- of exchange --> made up the **whole fund** for some vast project of agriculture, commerce, or manufactures, and not just the ready money for answering occasional demands.
 - Consequently, most of this paper money was in excess of the national circulation, had there been no paper money.
 - It immediately returned to the banks to be exchanged for gold and silver.
 - Thus, those entrepreneurs very artfully used it to draw gold and silver from those banks, without the bank's consent or knowledge that they had really advanced it.
 
 
-<sup>72</sup> Two people who continually draw and redraw on one another and discount their bills with the same banker are really trading <!-- . , the banker must immediately discover that they are trading --> with the capital that the banker advances to them and not with their own capital. This is difficult to spot when= 
+{{< s v="72" >}} Two people who continually draw and redraw on one another and discount their bills with the same banker are really trading <!-- . , the banker must immediately discover that they are trading --> with the capital that the banker advances to them and not with their own capital. This is difficult to spot when= 
 - they discount their bills with other banks, and
 - the same two persons draw from a great circle of entrepreneurs.
 

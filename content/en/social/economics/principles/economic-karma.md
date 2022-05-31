@@ -22,7 +22,8 @@ Instead of the word dharma, however, he named his concept **the invisible hand**
 
 The main difference between Smith's invisible hand and Eastern dharma is that the former has moral, spiritual, and practical uses, while the latter emphasizes only its moral and spiritual use. 
 
-![Buddhism](/photos/meta/buddhism.jpg)
+
+{{< img src="/photos/meta/buddhism.jpg" alt="Buddhism" >}}
 
 Eastern philosophers did not dare teach the practical use of dharma because they knew that it would merely lead to corruption and evil.
 
@@ -62,10 +63,20 @@ In Hinduism, the concept of dharma naturally leads to the concept of karma. Anyt
 
 Since karma is universal and timeless, it works the same way regardless of time and location, whether in the distant past, distant future, or in a very distant place. Selfish actions always and everywhere bring about something hurtful, or opposite of what was intended, in the long-run or even short-run:
 
-{{< quote ava="smith" >}}
-At first sight, the monopoly of the great commerce of America naturally seems to be an acquisition of the highest value. <!-- To the undiscerning eye of giddy ambition, it naturally presents itself amidst the confused scramble of politics and war as a very dazzling object to fight for. --> The dazzling splendour of the object, however, <!-- the immense greatness of the commerce, --> is the very quality which renders the monopoly of it hurtful..<br><br> Even the regulations by which each nation endeavours to secure to itself the exclusive trade of its own colonies are frequently more hurtful to the countries in favour of which they are established than to those against which they are established.<br><br> The unjust oppression of the industry of other countries falls back, if I may say so, upon the heads of the oppressors, and crushes their industry more than it does that of those other countries. The industry of the country, therefore, is thus turned away from a more to a less advantageous employment [because of the monopoly of the home market]; and the exchangeable value of its annual produce, instead of being increased, according to the intention of the lawgiver, must necessarily be diminished by every such regulation.
+{{< q a="smith" >}}
+At first sight, the monopoly of the great commerce of America naturally seems to be an acquisition of the highest value. <!-- To the undiscerning eye of giddy ambition, it naturally presents itself amidst the confused scramble of politics and war as a very dazzling object to fight for. --> The dazzling splendour of the object, however, <!-- the immense greatness of the commerce, --> is the very quality which renders the monopoly of it hurtful..
+{{< /q >}}
+
+{{< q a="smith" >}}
+Even the regulations by which each nation endeavours to secure to itself the exclusive trade of its own colonies are frequently more hurtful to the countries in favour of which they are established than to those against which they are established.
+{{< /q >}}
+
+
+{{< q a="smith" >}}
+The unjust oppression of the industry of other countries falls back, if I may say so, upon the heads of the oppressors, and crushes their industry more than it does that of those other countries. The industry of the country, therefore, is thus turned away from a more to a less advantageous employment [because of the monopoly of the home market]; and the exchangeable value of its annual produce, instead of being increased, according to the intention of the lawgiver, must necessarily be diminished by every such regulation.
 <cite>The Wealth of Nations</cite>
-{{< /quote >}}
+{{< /q >}}
+
 
 ![Karma boxes falling](https://socioecons.files.wordpress.com/2014/12/karma.gif)
 
@@ -100,3 +111,4 @@ Those policies were created to increase wealth rapidly, but ended up destroying 
 
 <p>2. Learn the techniques to burn karma faster, whether good or bad. This is akin to making your karmic bank account more liquid. In this way, bad karma doesn't occur in one go, which might overwhelm your mind. Likewise, good karma doesn't all fall on you in one package, as this might bloat your ego.  Instead, karma is taken in manageable pieces, just like a loan that gets easy payment terms.</p>
 {{< /box >}}
+

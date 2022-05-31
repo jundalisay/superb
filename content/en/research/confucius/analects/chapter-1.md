@@ -8,7 +8,7 @@ linkbtext=  "Index"
 linkf=  "/research/confucius/analects/chapter-2"
 linkftext=  "Chapter 2"
 heading=  "Chapter 1"
-+++ 
++++
 
 
 {{< l a="Confucius" >}}

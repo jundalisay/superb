@@ -60,7 +60,7 @@ The tax contrivers probably found in difficult to ascertain which part of the ho
 It should not be very difficult to distinguish those two.
 
 
-<sup>78</sup> In Great Britain, house-rent is taxed in the same proportion as land rent by the annual land-tax.
+{{< s v="78" >}} In Great Britain, house-rent is taxed in the same proportion as land rent by the annual land-tax.
 
 The valuation in each parish and district is always the same.
 Then and now, it is extremely unequal.
@@ -83,14 +83,14 @@ In Holland, the market interest rate does not exceed 3%.
 The house valuations are very unequal and is always below the real value.
 When a house is rebuilt, improved, or enlarged, there is a new valuation, and the tax is rated accordingly.
 
-<sup>80</sup> The contrivers of house taxes in England thought that it was very difficult to determine the real rent of every house.
+{{< s v="80" >}} The contrivers of house taxes in England thought that it was very difficult to determine the real rent of every house.
 
 They regulated their taxes according to more obvious circumstances which they imagined to be proportional to the rent.
 
 
 ## English House Taxes
 
-<sup>81</sup> The first tax of this kind was hearth-money.
+{{< s v="81" >}} The first tax of this kind was hearth-money.
 
 It was a tax of 24 pence on every hearth.
 To determine how many hearths were in the house, the tax-gatherer entered every room.
@@ -98,7 +98,7 @@ This odious visit rendered the tax odious.
 After the revolution, it was abolished as a badge of slavery.
 
 
-<sup>82</sup> The next tax was a tax of 24 pence on every inhabited dwelling-house.
+{{< s v="82" >}} The next tax was a tax of 24 pence on every inhabited dwelling-house.
 
 A house with 10 windows was to pay 48 pence more.
 A house with 20 windows and more was to pay 96 pence.
@@ -108,7 +108,7 @@ The number of windows can be counted from outside without entering the house.
 The tax-gatherer's visit was less offensive than the tax of hearth-money.
 
 
-<sup>83</sup> This tax was afterwards repealed and replaced with the window-tax.
+{{< s v="83" >}} This tax was afterwards repealed and replaced with the window-tax.
 
 It had many revisions and additions.
 At present (January 1775), the window-tax lays a duty of= 
@@ -120,7 +120,7 @@ In England, this tax increases gradually from=
 - 24 pence, the highest rate for houses with 25 or more windows
 
 
-<sup>84</sup> Such taxes are the worst and most unequal. They fall heavier on the poor than the rich.
+{{< s v="84" >}} Such taxes are the worst and most unequal. They fall heavier on the poor than the rich.
 
 A house of £10 rent in a country town may have more windows than a house of £500 rent in London.
 
@@ -129,7 +129,7 @@ Such taxes are directly contrary to my first maxim of taxation.
 They do not offend much against the other three maxims.
 
 
-<sup>85</sup> The window-tax and all house taxes naturally reduce rents.
+{{< s v="85" >}} The window-tax and all house taxes naturally reduce rents.
 
 The more a man pays for the tax, the less he can pay for the rent.
 However, since the imposition of the window-tax, house rents have risen.
