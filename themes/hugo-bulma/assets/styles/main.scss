@@ -4,27 +4,17 @@
 {{ with .Param "design.colors.primary" }}
 $primary: {{ . }};
 {{ end }}
-{{ with .Param "design.colors.link" }}
-$link: {{ . }};
-{{ end }}
 {{ with .Param "design.colors.info" }}
 $info: {{ . }};
 {{ end }}
-{{ with .Param "design.colors.success" }}
-$success: {{ . }};
-{{ end }}
+
 {{ with .Param "design.colors.warning" }}
 $warning: {{ . }};
 {{ end }}
 {{ with .Param "design.colors.danger" }}
 $danger: {{ . }};
 {{ end }}
-{{ with .Param "design.colors.light" }}
-$light: {{ . }};
-{{ end }}
-{{ with .Param "design.colors.dark" }}
-$dark: {{ . }};
-{{ end }}
+
 
 // radiusless
 {{ if .Param "design.isRadiusless" }}
@@ -171,6 +161,7 @@ small {
 
 
 body {
+  letter-spacing: 0.2px;
   line-height: 1.6em;
   color: black;
   background-color: black;
@@ -762,24 +753,6 @@ a.box:active {
     }
 }
 
-.brand {
-    display: flex;
-    flex-direction: column;
-    white-space: nowrap;
-    margin-left: 12px;
-    .brand-title {
-        margin: 0;
-        padding: 0;
-        font-size: 1.125rem;
-        font-weight: 700; 
-    }
-    .brand-tagline {
-        margin: 0;
-        padding: 0;
-        font-size: 1rem;
-        font-weight: 500; 
-    }
-}
 
 {{ if or (.Param "widgets.header.menu.leftMargin") (.Param "widgets.header.menu.leftMargin") }}
 .navbar-menu {

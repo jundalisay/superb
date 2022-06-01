@@ -1,0 +1,91 @@
+---
+title: "The Heart Chakra and Propensities"
+heading: "Chapter 4 of Idea and Ideology Simplified"
+date: 2022-01-31
+description: ""
+image: "/covers/ideology.jpg"
+linkb: "/research/indian/idea/chapter-03"
+linkbtext: "Chapter 3"
+linkf: "/research/indian/idea/chapter-05"
+linkftext: "Chapter 5"
+icon: "/icons/sarkar.jpg"
+---
+
+
+## The Heart Chakra
+
+The <!-- position of práńendriya is in the --> heart cakra (anáhata) is not in the mechanical heart.  <!-- which palpitates but in the yogic centre of heart, that is, in the middle point of the  cakra. --> It <!-- Práńendriya --> is not listed as a sense-organ <!-- (indriya) --> because:
+- its <!-- , not only because its site or --> controlling point is not in the brain
+- it is a layer and not a sense-organ
+  - The job of the 10 sense-organs (indriyas) is only to send and receive <!-- perceive --> quantum-perceptions
+  - The Heart Chakra is the collective name of the 10 váyus
+<!-- , but in the heart chakra.  different from that of other indriyas, but for another reason as well.  -->
+
+<!-- tattvas -->. 
+
+
+<!-- , comes under the category of tattvas. -->
+
+The sense-organs <!--  Indriyas, therefore, --> are the activators and perceivers of the 5 layers. 
+
+The heart chakra <!-- bhútatattvas, and práńendriya is more or less --> is a correlated activity of the 10 analysed sub-factors of váyutattva.
+
+<!-- Práńendriya --> 
+
+The Heart Chakra is the most vital part of the physical and psycho-physical level. 
+- Every activity of the Heart Chakra is pulsative – contracting and expanding<!-- (saḿkoca-vikáshii) -->.
+- The auxiliary waves of the Heart Chakra flow in a pulsative way -- there is an arrangement of alternative motions and pauses in their flows. 
+
+It is during the state of pause and potentiality that the mindstuff:
+- is able to receive the quantum-perceptions<!--  tanmátras -->
+- takes the form of shapes represented by those quantum-perceptions<!-- tanmátras -->.
+
+Unless the mindstuff <!-- citta --> takes the form of incoming the quantum-perceptions, <!-- tanmátras --> no perception is possible. This is because the ego can work only when the mindstuff <!-- citta --> adopts a form.
+
+
+
+This is revealed by analysing a very common experience. 
+
+The mind cannot have any perception if the mindstuff does not receive those quantum-perceptions, even if the afferent nerves are working.
+
+If one eats something while walking or running, one is not able to enjoy the taste fully. 
+- This is because the mindstuff is unable to receive the quantum-perceptions
+
+
+One is unable to receive and understand an idea <!-- bháva (idea) --> simultaneously with some other physical and mental activity. 
+
+The secret is the heart chakra <!-- práńendriya -->. **It is able to let all the nerves flow in the pattern in which it itself is flowing.** 
+
+This means that if heart chakra is expanding then  <!-- stage and not in the contracting one, --> every nerve, along with the mindstuff itself, is also expanding and flowing in the same wavelength. 
+
+The result is that incoming tanmátras face hindrance and cannot activate the citta. 
+
+Thus either there is difficulty in perception or there is no perception. 
+
+Therefore, even if all the other factors responsible for perception are working quite satisfactorily, the heart chakra in its expansive stage will cause the citta and nerves to vibrate sympathetically and thereby hamper the movement of the incoming tanmátras. 
+
+But if the heart chakra is in the controlling position or at a pause, it creates such a calmness throughout the psycho-physical structure that the correct perception is possible. 
+
+So actually the heart chakra plays a vital part in helping the organs indirectly to receive the tanmátras, in assisting the mindstuff to perceive them correctly, and thus in letting the ego have a cognition in that connection.
+
+This is the psycho-philosophy behind the practice of 
+
+Práńáyáma is where the sádhaka tries to let this heart chakra remain paused. 
+
+This lets the paused unit mind merge into the ocean of consciousness just to have the experience of the supramental stratum.
+
+In our daily life, the experiences of soft and hard, melodious and harsh, hot and cold are being experienced by our heart chakra. 
+
+These experiences do not come within the scope of the 5 fundamental perceptions of shravańa (hearing), sparshana (feeling by touch), darshana (vision), ashvádana (taste) and ághráńa (smell).
+
+The aforesaid subtler experiences, not coming within the jurisdiction of crude fundamentality, are felt by the sixth organ – the heart chakra.
+
+The heart chakra's special function is to recognize the objectives from different experienced sense perceptions and innate psychic projections. 
+
+It also works as an auxiliary force in some of the internal mental activities. 
+
+With the help of this práńendriya one feels that a particular person is very kind and affectionate, or a particular person is unkind and antipathetic. 
+
+Such an experience is based more on a subjective feeling than on any outer objective correlation.
+
+In certain philosophies, "bodhendriya" is also used for the heart chakra. A better word is <!--  for expressing the essence of this indriya shall be --> "bodha vivikti". The other indriyas may be called "bodhendriyas".

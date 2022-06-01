@@ -15,7 +15,7 @@ aliases:
 ---
 
 
-We can use our [DCTI tool](/articles/pantrynomics/the-demand-capital-trade-industry-tool) to analyze the Greek crisis to prove that the current solutions of austerity and high taxes are not the best ones. Such solutions are are a relic of the mercantile way of thinking of an economy as a business, instead of, naturally, as a society, family, or group of friends. The proper solution will involve the whole EU and will help the union stay together*.
+We can use our [DCTI tool](/social/economics/principles/dcti) to analyze the Greek crisis to prove that the current solutions of austerity and high taxes are not the best ones. Such solutions are are a relic of the mercantile way of thinking of an economy as a business, instead of, naturally, as a society, family, or group of friends. The proper solution will involve the whole EU and will help the union stay together*.
 
 
 
@@ -77,19 +77,34 @@ Small republics sometimes derived a big revenue from the profit of mercantile pr
 Smith explained that debt is good for the merchant class, but bad for the ruling and working classes because it does not always increase the society’s productive capital and frequently drains it away through unproductive uses:
 
 {{< quote ava="smith" >}}
-In return for the capital they advanced, the creditors obtained an annuity in the public funds of more than equal value. This annuity replaced their capital and carry on their trade and business to a greater extent than before. However, this new capital which they bought or borrowed from other people must have existed in the country before. It must have been employed, as all capitals are, in maintaining productive labour. When it came into the hands of those who had advanced their money to government, though it was a new capital to them, it was not a new capital to the country. It was just a capital withdrawn from certain employments to be turned towards others. It replaced to them what they had advanced to government, but it did not replace it to the country.
-<cite>The Simple Wealth of Nations, Book 5, Chapter 3</cite>
+In return for the capital they advanced, the creditors obtained an annuity in the public funds of more than equal value. This annuity replaced their capital and carry on their trade and business to a greater extent than before. 
+<br><br>
+However, this new capital which they bought or borrowed from other people must have existed in the country before. It must have been employed in maintaining productive labour. 
+
+When it came into the hands of those who had advanced their money to government, though it was a new capital to them, it was not a new capital to the country. 
+<br><br>
+It was just a capital withdrawn from certain employments to be turned towards others. It replaced to them what they had advanced to government, but it did not replace it to the country.
+<cite>The Wealth of Nations Simplified, Book 5, Chapter 3</cite>
 {{< /quote >}}
 
-In the Greek case, the merchant class as the German and French banks had an interest in lending unnatural amounts to Greece for self-profit. On the other hand, the corrupt Greek government, as the ruling class, had an interest in borrowing unnaturally also for self-profit. Of course, bankers know that they are not supposed to give loans to irresponsible people just as governments know that they are not supposed to spend* on worthless projects. Yet they do it anyway because it brings high profits for themselves in the guise of helping the people. The same thing happened during the Latin American debt crisis where huge amounts of onerous debts were given to dictators who never really could pay them back. The Greek debt crisis is similar to the Latin American debt crisis. 
+In the Greek case, the merchant class as the German and French banks had an interest in lending unnatural amounts to Greece for self-profit. On the other hand, the corrupt Greek government, as the ruling class, had an interest in borrowing unnaturally also for self-profit. 
 
-> *Update July 2021: The Greek mistake was recently repeated by Japan's spending for the 2020 Olympics which is much more wasteful because it coincided with the pandemic. That's why we predict a crisis for Japan in the future and are proposing [Pool Clearing](/solutions/pantrynomics/multilateral-pool-clearing) to solve it way before it hits.
+Of course, bankers know that they are not supposed to give loans to irresponsible people just as governments know that they are not supposed to spend* on worthless projects. Yet they do it anyway because it brings high profits for themselves in the guise of helping the people. 
+
+The same thing happened during the Latin American debt crisis where huge amounts of onerous debts were given to dictators who never really could pay them back. The Greek debt crisis is similar to the Latin American debt crisis. 
+
+
+{{< me d="July 2021" >}}
+The Greek mistake was recently repeated by Japan's spending for the 2020 Olympics which is much more wasteful because it coincided with the pandemic. That's why we predict a crisis for Japan in the future and are proposing [Pool Clearing](/research/schumacher/pool-clearing) to solve it way before it hits.
+{{< /me >}}
 
 
 Smith would simply throw away such corrupt policies:
 
 {{< quote ava="smith" >}}
-Restraining private people from receiving the promissory notes of a banker which they are willing to receive, and restraining a banker from issuing such notes everyone is willing to accept are violations of that natural liberty which the law should support and not infringe. Such regulations may be considered a violation of natural liberty. But those exertions of the natural liberty of a few individuals which might endanger the security of the whole society, should be restrained by the laws of all governments.
+Restraining private people from receiving the promissory notes of a banker which they are willing to receive, and restraining a banker from issuing such notes everyone is willing to accept are violations of that natural liberty which the law should support and not infringe. 
+<br><br>
+Such regulations may be considered a violation of natural liberty. But those exertions of the natural liberty of a few individuals which might endanger the security of the whole society, should be restrained by the laws of all governments.
 <cite>The Simple Wealth of Nations, Book 2</cite>
 {{< /quote >}}
 
@@ -108,7 +123,9 @@ It is not because they are poor that their payments are irregular and uncertain,
 <cite>The Simple Wealth of Nations Book 5</cite>
 {{< /quote >}}
 
-Austerity and high taxes are mercantile solutions which work well for businesses but not for society. If a business is in trouble, it can simply lay off or remove excess workers. But if a society or family is in trouble, it cannot remove its citizens or family members by forcing them to go overseas or to die from disease  or suicide. Instead, society or family members naturally share the burden for the sake of the well-being of the collective, something that would not make sense among competing businesses.
+Austerity and high taxes are mercantile solutions which work well for businesses but not for society. If a business is in trouble, it can simply lay off or remove excess workers. But if a society or family is in trouble, it cannot remove its citizens or family members by forcing them to go overseas or to die from disease  or suicide. 
+
+Instead, society or family members naturally share the burden for the sake of the well-being of the collective, something that would not make sense among competing businesses.
 
 ![European Politicians together](https://socioecons.files.wordpress.com/2015/04/paris_politicians_3161352c.jpg)
 
