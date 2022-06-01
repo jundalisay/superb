@@ -1,9 +1,9 @@
 ---
 title: Unity
 heading: Chapter 25 of Quotations of Mao Zedong Simplified
-date: 2022-02-01
+date: 2022-01-12
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
+image: "/covers/quotations.jpg"
 linkb: "/research/mao/quotations/chapter-24"
 linkbtext: "Chapter 24"
 linkf: "/research/mao/quotations/chapter-27"

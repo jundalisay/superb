@@ -1,29 +1,27 @@
 ---
 title: METHODS OF THINKING AND METHODS OF WORK
 heading: Chapter 22 of Quotations of Mao Zedong Simplified
-date: 2022-02-01
+date: 2022-01-14
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
-linkb: "/research/mao/quotations/chapter-30"
-linkbtext: "Chapter 30"
-linkf: "/research/mao/quotations/chapter-31"
-linkftext: "Chapter 31"
+image: "/covers/quotations.jpg"
+linkb: "/research/mao/quotations/chapter-19"
+linkbtext: "Chapter 19"
+linkf: "/research/mao/quotations/chapter-22"
+linkftext: "Chapter 22"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
 
 
-The history of mankind is one of continuous development from the realm of necessity to the realm of freedom. This process is never-ending. In any society in which classes exist class struggle will never end. In classless society the struggle between the new and the old and between truth and falsehood will never end. 
+The history of mankind is one of continuous development from the realm of necessity to the realm of freedom. This process is never-ending. In any society in which classes exist class struggle will never end. 
 
-In the fields of the struggle for production and scientific experiment, mankind makes constant progress and nature undergoes constant change, they never remain at the same level. Therefore,
-man has constantly to sum up experience and go on discovering, inventing, creating and advancing. 
+In classless society the struggle between the new and the old and between truth and falsehood will never end. 
 
-Ideas of stagnation, pessimism, inertia and complacency are all wrong. They are wrong because they agree neither with the historical facts of social development over the past million years, nor with
-the historical facts of nature so far known to us (i.e., nature as revealed in the
-history of celestial bodies, the earth, life, and other natural phenomena).
-Quoted in "Premier Chou Enlai's Report on the Work of the Government to the First
-Session of the Third National People's Congress of the People's Republic of China "
-(December 21-22, 1964).
+In the fields of the struggle for production and scientific experiment, mankind makes constant progress and nature undergoes constant change, they never remain at the same level. Therefore, man has constantly to sum up experience and go on discovering, inventing, creating and advancing. 
+
+Ideas of stagnation, pessimism, inertia and complacency are all wrong. They are wrong because they agree neither with the historical facts of social development over the past million years, nor with the historical facts of nature so far known to us (i.e., nature as revealed in the history of celestial bodies, the earth, life, and other natural phenomena).
+
+Quoted in "Premier Chou Enlai's Report on the Work of the Government to the First Session of the Third National People's Congress of the People's Republic of China " (December 21-22, 1964).
 
 Natural science is one of man's weapons in his fight for freedom. For the
 purpose of attaining freedom in society, man must use social science to

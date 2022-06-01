@@ -1,5 +1,5 @@
 ---
-title: "THE INTERPRETATION OF NATURE"
+title: "The Reign of Man NATURE"
 heading: Chapter 1 Book 2 of Nova Organum
 date: 2022-01-31
 description: ""

@@ -303,13 +303,21 @@
 [[navbar]]
     parent = "nenl"
     weight = 241
+    name = "Mao Zedong"
+    url = "/research/mao"
+    pre = "<img src='/icons/mao.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
+
+
+[[navbar]]
+    parent = "nenl"
+    weight = 245
     name = "Marx"
     url = "/research/marx"
     pre = "<img src='/icons/marx.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
     parent = "nenl"
-    weight = 242
+    weight = 247
     name = "Mill"
     url = "/research/mill"
     pre = "<img src='/icons/mill.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"

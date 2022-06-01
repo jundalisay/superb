@@ -1,9 +1,9 @@
 ---
 title: INVESTIGATION AND STUDY
-heading: Chapter 27 of Quotations of Mao Zedong Simplified
-date: 2022-02-01
+heading: Chapter 23 of Quotations of Mao Zedong Simplified
+date: 2022-01-13
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
+image: "/covers/quotations.jpg"
 linkb: "/research/mao/quotations/chapter-30"
 linkbtext: "Chapter 30"
 linkf: "/research/mao/quotations/chapter-31"
@@ -13,15 +13,12 @@ icon: /icons/mao.png
 ---
 
 
-Everyone engaged in practical work must investigate conditions at the lower
-levels. Such investigation is especially necessary for those who know theory
-but do not know the actual conditions, for otherwise they will not be able to
-link theory with practice. 
+Everyone engaged in practical work must investigate conditions at the lower levels. Such investigation is especially necessary for those who know theory but do not know the actual conditions, for otherwise they will not be able to link theory with practice. 
 
-Although my assertion, "No investigation no right to speak", has been ridiculed as "narrow empiricism", to this day I do not regret having made it; far from regretting it, I still insist that without investigation there cannot possibly be any right to speak. There are many
-people who "the moment they alight from the official carriage" make a
-hullabaloo, spout opinions, criticize this and condemn that; but, in fact, ten
-out of ten of them will meet with failure. 
+Although my assertion, "No investigation no right to speak", has been ridiculed as "narrow empiricism", to this day I do not regret having made it; far from regretting it, I still insist that without investigation there cannot possibly be any right to speak. 
+
+There are many people who "the moment they alight from the official carriage" make a
+hullabaloo, spout opinions, criticize this and condemn that; but, in fact, 10 out of 10 of them will meet with failure. 
 
 For such views or criticisms, which are not based on thorough investigation, are nothing but ignorant twaddle. Countless times our Party suffered at the hands of these "imperial envoys",
 who rushed here, there and everywhere. Stalin rightly says that "theory

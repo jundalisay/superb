@@ -1,19 +1,27 @@
 ---
 title: The Communists
-heading: Chapter 28 of Quotations of Mao Zedong Simplified
-date: 2022-02-01
+heading: Chapter 10 of Quotations of Mao Zedong Simplified
+date: 2022-01-10
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
-linkb: "/research/mao/quotations/chapter-30"
-linkbtext: "Chapter 30"
-linkf: "/research/mao/quotations/chapter-31"
-linkftext: "Chapter 31"
+image: "/covers/quotations.jpg"
+linkb: "/research/mao/quotations/chapter-27"
+linkbtext: "Chapter 27"
+linkf: "/research/mao/quotations/chapter-30"
+linkftext: "Chapter 30"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
 
 
-A Communist should have largeness of mind and he should be staunch and active, looking upon the interests of the revolution as his very life and subordinating his personal interests to those of the revolution; always and everywhere he should adhere to principle and wage a tireless struggle against all incorrect ideas and actions, so as to consolidate the collective life of the Party and strengthen the ties between the Party and the masses; he should be more concerned about the Party and the masses than about any individual, and more concerned about others than about himself. Only thus can he be considered a Communist.
+A Communist should:
+- have largeness of mind
+- be staunch and active
+- look upon the interests of the revolution as his very life 
+- subordinate his personal interests to those of the revolution
+- always and everywhere adhere to principle 
+- wage a tireless struggle against all incorrect ideas and actions, so as to consolidate the collective life of the Party and strengthen the ties between the Party and the masses
+
+He should be more concerned about the Party and the masses than about any individual, and more concerned about others than about himself. Only thus can he be considered a Communist.
 
 {{< cite >}}
 "Combat Liberalism" (September 7, 1937), Selected Works, Vol. II, p. 33.*
@@ -42,23 +50,17 @@ people.
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 315.
 {{< /cite >}}
 
-Communists must always go into the whys and wherefores of anything, use
-their own heads and carefully think over whether or not it corresponds toreality and is really well founded; on no account should they follow blindly
+Communists must always go into the whys and wherefores of anything, use their own heads and carefully think over whether or not it corresponds toreality and is really well founded; on no account should they follow blindly
 and encourage slavishness.
 
-"Rectify the Party's Style of Work" (February 1, 1942), Selected Works, Vol. III, pp.
-49-50.
+{{< cite >}}
+"Rectify the Party's Style of Work" (February 1, 1942), Selected Works, Vol. 3, pp. 49-50.
+{{< /cite >}}
 
-We should encourage comrades to take the interests of the whole into
-account. Every Party member, every branch of work, every statement and
-every action must proceed from the interests of the whole Party; it is
-absolutely impermissible to violate this principle.
-Ibid., p. 44.
 
-Communists should set an example in being practical as well as far-sighted.
-For only by being practical can they fulfil the appointed tasks, and only far-
-sightedness can prevent them from losing their bearings in the march
-forward.
+We should encourage comrades to take the interests of the whole into account. Every Party member, every branch of work, every statement and every action must proceed from the interests of the whole Party; it is absolutely impermissible to violate this principle.
+
+Communists should set an example in being practical as well as far-sighted. For only by being practical can they fulfil the appointed tasks, and only far-sightedness can prevent them from losing their bearings in the march forward.
 
 {{< cite >}}
 "The Role of the Chinese Communist Party in the National War" (October 1938),

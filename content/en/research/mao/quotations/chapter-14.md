@@ -1,9 +1,9 @@
 ---
 title: RELATIONS BETWEEN THE ARMY AND THE PEOPLE
-heading: Chapter 14
-date: 2022-02-01
+heading: Chapter 14 of Quotations of Mao Zedong Simplified
+date: 2022-01-20
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
+image: "/covers/quotations.jpg"
 linkb: "/research/mao/quotations/chapter-30"
 linkbtext: "Chapter 30"
 linkf: "/research/mao/quotations/chapter-32"
@@ -16,17 +16,24 @@ icon: /icons/mao.png
 The army must become one with the people so that they see it as their own
 army. Such an army will be invincible…
 
+{{< cite >}}
 "On Protracted War" (May 1938), Selected Works, Vol. II, p. 186.
-Every comrade must be helped to understand that as long as we rely on the
-people, believe firmly in the inexhaustible creative power of the masses and
-hence trust and identify ourselves with them, we can surmount any difficulty,
-and no enemy can crush us while we can crush any enemy.
+{{< /cite >}}
 
+Every comrade must be helped to understand that as long as we rely on the people, believe firmly in the inexhaustible creative power of the masses and hence trust and identify ourselves with them, we can surmount any difficulty, and no enemy can crush us while we can crush any enemy.
+
+{{< cite >}}
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 316.*
-Wherever our comrades go, they must build good relations with the masses,
-be concerned for them and help them overcome their difficulties. We must
-unite with the masses, the more of the masses we unite with, the better.
+{{< /cite >}}
+
+
+Wherever our comrades go, they must build good relations with the masses, be concerned for them and help them overcome their difficulties. We must unite with the masses, the more of the masses we unite with, the better. 
+
+{{< cite >}}
 "On the Chungking Negotiations" (October 17, 1945), Selected Works, Vol. IV, p. 59.
+{{< /cite >}}
+
+
 The army in the Liberated Areas must support the government and cherish
 the people, while the democratic governments must lead the people in the
 work of supporting the army and giving preferential treatment to the families

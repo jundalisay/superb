@@ -1,9 +1,9 @@
 ---
 title: DEMOCRACY IN THE T HREE M AIN F IELDS
 heading: Chapter 15 of Quotations of Mao Zedong Simplified
-date: 2022-02-01
+date: 2022-01-19
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
+image: "/covers/quotations.jpg"
 linkb: "/research/mao/quotations/chapter-16"
 linkbtext: "Chapter 16"
 linkf: "/research/mao/quotations/chapter-18"
@@ -13,17 +13,13 @@ icon: /icons/mao.png
 ---
 
 
-A proper measure of democracy should be put into effect in the army, chiefly
-by abolishing the feudal practice of bullying and beating and by having
-officers and men share weal and woe. Once this is done, unity will be
-achieved between officers and men, the combat effectiveness of the army will
-be greatly increased, and there will be no doubt of our ability to sustain the
-long, cruel war.
+A proper measure of democracy should be put into effect in the army, chiefly by abolishing the feudal practice of bullying and beating and by having officers and men share weal and woe. 
+
+Once this is done, unity will be achieved between officers and men, the combat effectiveness of the army will be greatly increased, and there will be no doubt of our ability to sustain the long, cruel war.
 
 "On Protracted War" (May 1938), Selected Works, Vol. II, p. 186.
-Apart from the role played by the Party, the reason why the Red Army has
-been able to carry on in spite of such poor material conditions and such
-frequent engagements is its practice of democracy. The officers do not beat
+
+Apart from the role played by the Party, the reason why the Red Army has been able to carry on in spite of such poor material conditions and such frequent engagements is its practice of democracy. The officers do not beat
 the men; officers and men receive equal treatment; soldiers are free to hold
 meetings and to speak out; trivial formalities have been done away with; and
 the accounts are open for all to inspect… In China the army needs democracy

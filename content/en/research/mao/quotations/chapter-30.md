@@ -1,10 +1,10 @@
 ---
 title: The Youth
 heading: Chapter 30 of Quotations of Mao Zedong Simplified
-date: 2022-02-01
+date: 2022-01-09
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
-linkb: "/research/mao/quotations/chapter-30"
+image: "/covers/quotations.jpg"
+linkb: "/research/mao/quotations/chapter-28"
 linkbtext: "Chapter 30"
 linkf: "/research/mao/quotations/chapter-31"
 linkftext: "Chapter 31"
@@ -12,44 +12,31 @@ author: "Mao Zedong"
 icon: /icons/mao.png
 ---
 
-The world is yours, as well as ours, but in the last analysis, it is yours. You
-young people, full of vigour and vitality, are in the bloom of life, like the sun
-at eight or nine in the morning. Our hope is placed on you.
+The world is yours, as well as ours, but in the last analysis, it is yours. Young people, full of vigour and vitality, are in the bloom of life, like the sun at eight or nine in the morning. Our hope is placed on you.
 
 The world belongs to you. China 's future belongs to you.
-Talk at a meeting with Chinese students and trainees in Moscow (November 17,
-1957).
 
-We must help all our young people to understand that ours is still a very poor
-country, that we cannot change this situation radically in a short time, and
-that only through the united efforts of our younger generation and all our
-people, working with their own hands, can China be made strong and
-prosperous within a period of several decades. The establishment of our
-socialist system has opened the road leading to the ideal society of the future,
-but to translate this ideal into reality needs hard work.
+{{< cite >}}
+Talk at a meeting with Chinese students and trainees in Moscow (November 17, 1957).
+{{< /cite >}}
+
+We must help all our young people to understand that ours is still a very poor country, that we cannot change this situation radically in a short time, and that only through the united efforts of our younger generation and all our people, working with their own hands, can China be made strong and prosperous within a period of several decades. 
+
+The establishment of our socialist system has opened the road leading to the ideal society of the future, but to translate this ideal into reality needs hard work.
 
 {{< cite >}}
 On the Correct Handling of Contradictions Among the People (February 27, 1957), 1st pocket ed., pp. 44-45.
 {{< /cite >}}
 
-Because of their lack of political and social experience, quite a number of
-young people are unable to see the contrast between the old China and the
-new, and it is not easy for them thoroughly to comprehend the hardships our
-people went through in the struggle to free themselves from the oppression of
-the imperialists and Kuomintang reactionaries, or the long period of arduous
-work needed before a happy socialist society can be established. That is why
-we must constantly carry on lively and effective political education among
+Because of their lack of political and social experience, quite a number of young people are unable to see the contrast between the old China and the new, and it is not easy for them thoroughly to comprehend the hardships our people went through in the struggle to free themselves from the oppression of the imperialists and Kuomintang reactionaries, or the long period of arduous work needed before a happy socialist society can be established. 
+
+That is why we must constantly carry on lively and effective political education among
 the masses and should always tell them the truth about the difficulties that
 crop up and discuss with them how to surmount these difficulties.
 
-The young people are the most active and vital force in society. They are the
-most eager to learn and the least conservative in their thinking. This is
-especially so in the era of socialism. We hope that the local Party
-organizations in various places will help and work with the Youth Leagueorganizations and go into the question of bringing into full play the energy of
-our youth in particular. The Party organizations should not treat them in the
-same way as everybody else and ignore their special characteristics. Of
-course, the young people should learn from the old and other adults, and
-should strive as much as possible to engage in all sorts of useful activities
+The young people are the most active and vital force in society. They are the most eager to learn and the least conservative in their thinking. This is especially so in the era of socialism. We hope that the local Party organizations in various places will help and work with the Youth League organizations and go into the question of bringing into full play the energy of our youth in particular. 
+
+The Party organizations should not treat them in the same way as everybody else and ignore their special characteristics. Of course, the young people should learn from the old and other adults, and should strive as much as possible to engage in all sorts of useful activities
 with their agreement.
 
 Introductory note to "A Youth Shock Brigade of the No. 9 Agricultural Producers' Co-

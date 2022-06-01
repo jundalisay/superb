@@ -19,19 +19,25 @@ To understand the inverted yield curve, we have to understand [the nature of bon
 
 ## What are bonds?
 
-A bond is a loan to government, giving them private capital to spend for public uses.
+A bond is a loan to government, giving them private capital to spend for public uses. However, unlike a normal loan which is paid back in full and can be ended, *a bond is a perpetual debt.*
 
-However, unlike a normal loan which is paid back in full and can be ended, a bond is a perpetual debt. The investor enters this perpetual lending scheme by buying the bond and then exits at at maturity or by selling his bond back to the market. The returns are called *yield*, and not interest payments of non-perpetual loans.
+The investor enters this perpetual lending scheme by buying the bond and then exits at maturity by selling his bond back to the market. The returns are called *yields*, and not interest payments of non-perpetual loans.
 
-The return on this perpetual loan is naturally the lowest since governments are not supposed to profit from their people just as parents are not supposed to profit from their own children. Nevertheless, investors invest in them because they are guaranteed and can be paid back as long as its society exists. International investors invest in US bonds because the US is secure as a superpower. There is another superpower rising called China which is slowly getting a piece of the bond world.
+The return on this perpetual loan is naturally the lowest since governments are not supposed to profit from their people just as parents are not supposed to profit from their own children. 
 
-According to Adam Smith, bonds in England started in 1697 under King William III as a natural result of the invention of paper financial instruments such as bank notes and stocks. It was an alternative to non-perpetual loans which were called 'anticipations':
+Nevertheless, investors invest in them because they are **guaranteed** and can be paid back as long as its society exists. 
+- International investors invest in US bonds because the US is secure as a superpower. 
+- There is another superpower rising called China which is slowly getting a piece of the bond world.
+
+According to Adam Smith, bonds in England started in 1697 under King William 3rd as a natural result of the invention of paper financial instruments such as bank notes and stocks. It was an alternative to non-perpetual loans which were called 'anticipations':
 
 {{< quote ava="smith" >}}
-Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come. However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
+Such improvident anticipations gave birth to the more ruinous practice of perpetual funding. This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.<br><br> However, it raises more money than the old practice of anticipation. When men became familiar with funding, it became universally preferred to anticipation during great state exigencies. Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 {{< /quote >}}
 
-Governments like it a lot because it lets them borrow tons of money which they will never pay in full. In theory, a government can borrow 1 gazillion dollars and just pay back $1 a year for 1 gazillion years. A human who gets the same loan would have to pay back $1 gazillion divided by his years left alive, which is much much bigger than the $1 that governments have to pay. 
+Governments like it a lot because it lets them borrow tons of money which they will never pay in full. 
+
+In theory, a government can borrow 1 gazillion dollars and just pay back $1 a year for 1 gazillion years. A human who gets the same loan would have to pay back $1 gazillion divided by his years left alive, which is much much bigger than the $1 that governments have to pay. 
 
 
 ## What are bond yields?
@@ -58,7 +64,7 @@ The new thing is the rise of the [3-month yield](https://www.cnbc.com/quotes/?sy
 
 The problem is that people think that an inverted yield curve is the sole indicator. In reality there are many. 
 
-Pantrynomics proposes [clearing funds](/research/schumacher/pool-clearing) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
+Pantrynomics proposes [clearing funds](/research/schumacher/pool-clearing/part-1) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
 
 People can have money to pay in cash because their local purchases can be transacted by points (as [basic universal revenue](/social/economics/solutions/bur)) or barter.
 

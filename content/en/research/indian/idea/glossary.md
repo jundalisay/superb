@@ -1,4 +1,18 @@
-Glossary
+---
+title: "Glossary"
+heading: "Chapter 11b of Idea and Ideology Simplified"
+date: 2022-01-31
+author: "PR Sarkar"
+description: "The availability of the minimum essentialities of life plays a vital part not only in achieving world brotherhood, but also in the development of human personality"
+image: "/covers/ideology.jpg"
+linkb: "/research/indian/idea/chapter-11"
+linkbtext: "Chapter 11"
+linkf: "/research/indian/idea/"
+linkftext: "Index"
+icon: "/icons/sarkar.jpg"
+draft: true
+---
+
 
 Those Sanskrit terms that have been adequately explained where they first occur in the text itself have not been included in this glossary.
 ÁCÁRYA m. or ÁCÁRYÁ f. Spiritual teacher qualified to teach all lessons of meditation.

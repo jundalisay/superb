@@ -7,6 +7,7 @@ linkbtext= "Indian"
 linkf= "/research/indian/"
 linkftext= "Indian"
 icon = "/icons/yoga.jpg"
+draft= "true"
 +++
 
 

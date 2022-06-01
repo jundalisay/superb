@@ -1,9 +1,9 @@
 ---
 title: Women
-heading: Chapter 32
-date: 2022-02-01
+heading: Chapter 31 of Quotations of Mao Zedong Simplified
+date: 2022-01-08
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
+image: "/covers/quotations.jpg"
 linkb: "/research/mao/quotations/chapter-30"
 linkbtext: "Chapter 30"
 linkf: "/research/mao/quotations/chapter-32"
@@ -13,28 +13,27 @@ icon: /icons/mao.png
 ---
 
 
-## 31. WOMEN
+A man in China is usually subjected to the domination of 3 systems of authority:
+- political authority
+- clan authority
+- religious authority
 
-A man in China is usually subjected to the domination of three systems of authority [political authority, clan authority and religious authority]… As for women, in addition to being dominated by these three systems of authority, they are also dominated by the men (the authority of the husband). 
+Women, are also dominated by these, but also dominated by the men as the authority of the husband. 
 
 These four authorities - political, clan, religious and masculine - are the embodiment of
-the whole feudal-patriarchal ideology and system, and are the four thick ropes binding the Chinese people, particularly the peasants. 
+the whole feudal-patriarchal ideology and system. They are the four thick ropes binding the Chinese people, particularly the peasants. 
 
-How the peasants have overthrown the political authority of the landlords in the countryside has
-been described above. The political authority of the landlords is the backbone of all the other systems of authority. With that overturned, the clan authority, the religious authority and the authority of the husband all begin to totter…
+How the peasants have overthrown the political authority of the landlords in the countryside has been described above. 
 
-As to the authority of the husband, this has always been weaker among the
-poor peasants because, out of economic necessity, their womenfolk have to
-do more manual labour than the women of the richer classes and therefore
-have more say and greater power of decision in family matters. With the
-increasing bankruptcy of the rural economy in recent years, the basis for
-men's domination over women has already been undermined. 
+The political authority of the landlords is the backbone of all the other systems of authority. With that overturned, the clan authority, the religious authority and the authority of the husband all begin to totter…
 
-With the rise of the peasant movement, the women in many places have now begun to
-organize rural women's associations; the opportunity has come for them to lift
-up their heads, and the authority of the husband is getting shakier every day.
-In a word, the whole feudal-patriarchal ideology and system is tottering with
-the growth of the peasants' power.
+As to the authority of the husband, this has always been weaker among the poor peasants because, out of economic necessity, their womenfolk have to do more manual labour than the women of the richer classes and therefore have more say and greater power of decision in family matters. 
+
+With the increasing bankruptcy of the rural economy in recent years, the basis for men's domination over women has already been undermined. 
+
+With the rise of the peasant movement, the women in many places have now begun to organize rural women's associations; the opportunity has come for them to lift up their heads, and the authority of the husband is getting shakier every day.
+
+In a word, the whole feudal-patriarchal ideology and system is tottering with the growth of the peasants' power.
 
 {{< cite >}}
 "Report on an Investigation of the Peasant Movement in Hunan " (March 1927),
@@ -63,24 +62,25 @@ power in an organized way and to encourage women to do farm work.
 "Our Economic Policy" (January 23, 1934), Selected Works, Vol. I, p. 142.*
 {{< /cite >}}
 
-In order to build a great socialist society it is of the utmost importance to
-arouse the broad masses of women to join in productive activity. Men and
-women must receive equal pay for equal work in production. Genuine
-equality between the sexes can only be realized in the process of the socialist
-transformation of society as a whole.
+In order to build a great socialist society it is of the utmost importance to arouse the broad masses of women to join in productive activity. Men and women must receive equal pay for equal work in production. Genuine equality between the sexes can only be realized in the process of the socialist transformation of society as a whole.
 
+{{< cite >}}
 Introductory note to "Women Have Gone to the Labour Front" (1955), The Socialist
 Upsurge in China's Countryside, Chinese ed., Vol. I.
-With the completion of agricultural cooperation, many co-operatives are
-finding themselves short of labour. 
+{{< /cite >}}
 
-It has become necessary to arouse the great mass of women who did not work in the fields before to take their place on the labour front… China 's women are a vast reserve of labour power. This
-reserve should be tapped in the struggle to build a great socialist country.
 
+With the completion of agricultural cooperation, many co-operatives are finding themselves short of labour. 
+
+It has become necessary to arouse the great mass of women who did not work in the fields before to take their place on the labour front… China 's women are a vast reserve of labour power. This reserve should be tapped in the struggle to build a great socialist country.
+
+{{< cite >}}
 Introductory note to "Solving the Labour Shortage by Arousing the Women to Join in Production" (1955), The Socialist Upsurge in China's Countryside, Chinese ed., Vol. II.
+{{< /cite >}}
+
 
 Enable every woman who can work to take her place on the labour front, under the principle of equal pay for equal work. This should be done as quickly as possible.
 
-Introductory note to "On Widening the Scope of Women's Work in the Agricultural
-Co-operative Movement" (1955), The Socialist Upsurge in China's Countryside,
-Chinese ed., Vol. I.
+{{< cite >}}
+Introductory note to "On Widening the Scope of Women's Work in the Agricultural Co-operative Movement" (1955), The Socialist Upsurge in China's Countryside, Chinese ed., Vol. I.
+{{< /cite >}}

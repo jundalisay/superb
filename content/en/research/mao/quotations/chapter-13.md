@@ -1,9 +1,9 @@
 ---
 title: RELATIONS B ETWEEN O FFICERS AND MEN
-heading: Chapter 13
-date: 2022-02-01
+heading: Chapter 13 of Quotations of Mao Zedong Simplified
+date: 2022-01-21
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
+image: "/covers/quotations.jpg"
 linkb: "/research/mao/quotations/chapter-12"
 linkbtext: "Chapter 12"
 linkf: "/research/mao/quotations/chapter-14"

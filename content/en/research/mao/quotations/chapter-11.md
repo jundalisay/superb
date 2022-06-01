@@ -1,9 +1,9 @@
 ---
 title: The Mass Line
-heading: Chapter 11
-date: 2022-02-01
+heading: Chapter 11 of Quotations of Mao Zedong Simplified
+date: 2022-01-21
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
+image: "/covers/quotations.jpg"
 linkb: "/research/mao/quotations/chapter-10"
 linkbtext: "Chapter 10"
 linkf: "/research/mao/quotations/chapter-12"
@@ -70,7 +70,10 @@ sectarianism, bureaucracy and an arrogant attitude in work are definitely
 harmful and intolerable, and why anyone suffering from these maladies must
 overcome them, is that they alienate us from the masses.
 
+{{< cite >}}
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 315.
+{{< /cite >}}
+
 
 To link oneself with the masses, one must act in accordance with the needs and wishes of the masses. All work done for the masses must start from their needs and not from the desire of any individual, however well-intentioned. It often happens that objectively the masses need a certain change, but subjectively they are not yet conscious of the need, not yet willing or determined to make the change. In such cases, we should wait patiently. 
 
@@ -80,22 +83,26 @@ Otherwise we shall isolate ourselves from the masses. Unless they are conscious 
 
 one is the actual needs of the masses rather than what we fancy they need, and the other is the wishes of the masses, who must make up their own minds instead of our making up their minds for them.
 
-"The United Front in Cultural Work" (October 30, 1944), Selected Works, Vol. III, pp.
-236-37.*
+{{< cite >}}
+"The United Front in Cultural Work" (October 30, 1944), Selected Works, Vol. III, pp. 236-37.*
+{{< /cite >}}
 
-Our congress should call upon the whole Party to be vigilant and to see that
-no comrade at any post is divorced from the masses. It should teach every
-comrade to love the people and listen attentively to the voice of the masses;
-to identify himself with the masses wherever he goes and, instead of standingabove them, to immerse himself among them; and, according to their present level, to awaken them or raise their political consciousness and help them gradually to organize themselves voluntarily and to set going all essential struggles permitted by the internal and external circumstances of the given
-time and place.
 
+Our congress should call upon the whole Party to be vigilant and to see that no comrade at any post is divorced from the masses. It should teach every comrade to love the people and listen attentively to the voice of the masses; to identify himself with the masses wherever he goes and, instead of standingabove them, to immerse himself among them; and, according to their present level, to awaken them or raise their political consciousness and help them gradually to organize themselves voluntarily and to set going all essential struggles permitted by the internal and external circumstances of the given time and place.
+
+{{< cite >}}
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, pp. 315-16.
-If we tried to go on the offensive when the masses are not yet awakened, that
-would be adventurism. If we insisted on leading the masses to do anything
-against their will, we would certainly fail. If we did not advance when the
-masses demand advance, that would be Right opportunism.
-"A Talk to the Editorial Staff of the Shansi-Suiyuan Daily" (April 2, 1948), Selected
-Works, Vol. IV, p. 243.
+{{< /cite >}}
+
+
+It would be adventurism to go on the offensive when the masses are not yet awakened. 
+
+If we insisted on leading the masses to do anything against their will, we would certainly fail. If we did not advance when the masses demand advance, that would be Right opportunism.
+
+{{< cite >}}
+"A Talk to the Editorial Staff of the Shansi-Suiyuan Daily" (April 2, 1948), Selected Works, Vol. IV, p. 243.
+{{< /cite >}}
+
 
 Commandism is wrong in any type of work, because in overstepping the level
 of political consciousness of the masses and violating the principle of
@@ -103,32 +110,31 @@ voluntary mass action it reflects the disease of impetuosity. Our comrades
 must not assume that everything they themselves understand is understood by
 the masses. Whether the masses understand it and are ready to take action can
 be discovered only by going into their midst and making investigations. If we
-do so, we can avoid commandism. Tailism in any type of work is also wrong,
-because in falling below the level of political consciousness of the masses
-and violating the principle of leading the masses forward it reflects the
-disease of dilatoriness. Our comrades must not assume that the masses have
-no understanding of what they themselves do not yet understand. It often
-happens that the masses outstrip us and are eager to advance a step and that
-nevertheless our comrades fail to act as leaders of the masses and tail behind
-certain backward elements, reflecting their views and, moreover, mistaking
-them for those of the broad masses.
+do so, we can avoid commandism. 
 
+Tailism in any type of work is also wrong, because in falling below the level of political consciousness of the masses and violating the principle of leading the masses forward it reflects the disease of dilatoriness. 
+
+Our comrades must not assume that the masses have no understanding of what they themselves do not yet understand. It often happens that the masses outstrip us and are eager to advance a step and that nevertheless our comrades fail to act as leaders of the masses and tail behind
+certain backward elements, reflecting their views and, moreover, mistaking them for those of the broad masses.
+
+{{< cite >}}
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 316.*
+{{< /cite >}}
+
+
 Take the ideas of the masses and concentrate them, then go to the masses,
 persevere in the ideas and carry them through, so as to form correct ideas of
 leadership - such is the basic method of leadership.
-"Some Questions Concerning Methods of Leadership" (June 1, 1943), Selected Works,
-Vol. III, p. 120.
 
-In all the practical work of our Party, all correct leadership is necessarily"from the masses, to the masses". This means: take the ideas of the masses
-(scattered and unsystematic ideas) and concentrate them (through study turn
-them into concentrated and systematic ideas), then go to the masses and
-propagate and explain these ideas until the masses embrace them as their
-own, hold fast to them and translate them into action, and test the correctness
-of these ideas in such action. Then once again concentrate ideas from the
-masses and once again go to the masses so that the ideas are persevered in
-and carried through. And so on, over and over again in an endless spiral, with
-the ideas becoming more correct, more vital and richer each time. Such is the
+{{< cite >}}
+"Some Questions Concerning Methods of Leadership" (June 1, 1943), Selected Works, Vol. 3, p. 120.
+{{< /cite >}}
+
+
+In all the practical work of our Party, all correct leadership is necessarily"from the  masses, to the masses". This means: take the ideas of the masses (scattered and unsystematic ideas) and concentrate them (through study turn them into concentrated and systematic ideas), then go to the masses and propagate and explain these ideas until the masses embrace them as their own, hold fast to them and translate them into action, and test the correctness
+of these ideas in such action. 
+
+Then once again concentrate ideas from the masses and once again go to the masses so that the ideas are persevered in and carried through. And so on, over and over again in an endless spiral, with the ideas becoming more correct, more vital and richer each time. Such is the
 Marxist theory of knowledge.
 Ibid., p. 119.
 
@@ -141,8 +147,12 @@ There are people in our leading organs in some places who think that it is
 enough for the leaders alone to know the Party's policies and that there is no
 need to let the masses know them. This is one of the basic reasons why some
 of our work cannot be done well.
+
+{{< cite >}}
 "A Talk to the Editorial Staff of the Shansi-Suiyuan Daily" (April 2, 1948), Selected
 Works, Vol. IV, p. 241.
+{{< /cite >}}
+
 
 In all mass movements we must make a basic investigation and analysis of
 the number of active supporters, opponents and neutrals and must not decide
@@ -155,8 +165,12 @@ relatively active, the intermediate and the relatively backward. The leaders
 must therefore be skilled in uniting the small number of active elements
 around the leadership and must rely on them to raise the level of the
 intermediate elements and to win over the backward elements.
-"Some Questions Concerning Methods of Leadership" (June 1, 1943), Selected Works,
-Vol. III, p. 118.To be good at translating the Party's policy into action of the masses, to be
+
+{{< cite >}}
+"Some Questions Concerning Methods of Leadership" (June 1, 1943), Selected Works, Vol. 3, p. 118.
+{{< /cite >}}
+
+To be good at translating the Party's policy into action of the masses, to be
 good at getting not only the leading cadres but also the broad masses to
 understand and master every movement and every struggle we launch - this is
 an art of Marxist-Leninist leadership. It is also the dividing line that
@@ -169,8 +183,11 @@ effort by a handful of people unless combined with the activity of the masses.
 On the other hand, if the masses alone are active without a strong leading
 group to organize their activity properly, such activity cannot be sustained for
 long, or carried forward in the right direction, or raised to a high level.
-"Some Questions Concerning Methods of Leadership" (June 1, 1943), Selected Works,
-Vol. III, p. 118.
+
+{{< cite >}}
+"Some Questions Concerning Methods of Leadership" (June 1, 1943), Selected Works, Vol. 3 p. 118.
+{{< /cite >}}
+
 
 Production by the masses, the interests of the masses, the experiences and
 feelings of the masses - to these the leading cadres should pay constant
@@ -184,5 +201,6 @@ We should pay close attention to the well-being of the masses, from the problems
 
 We should help them to proceed from these things to an understanding of the higher tasks which we have put forward, the tasks of the revolutionary war, so that they will support the revolution and spread it throughout the country, respond to our political appeals and fight to the end for victory in the revolution. 
 
+{{< cite >}}
 "Be Concerned with the Well-Being of the Masses, Pay Attention to Methods of Work" (January 27, 1934), Selected Works, Vol. I, p. 149.*
-
+{{< /cite >}}

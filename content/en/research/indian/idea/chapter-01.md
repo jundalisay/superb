@@ -3,7 +3,7 @@ title: "Saiṋcara and Práńáh"
 heading: Chapter 1 of Idea and Ideology Simplified
 date: 2022-01-31
 description: ""
-# image: "/graphics/1987.jpg"
+image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/"
 linkbtext: "Index"
 linkf: "/research/indian/idea/chapter-01b"

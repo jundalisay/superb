@@ -1,13 +1,13 @@
 ---
 title: CORRECTING MISTAKEN IDEAS
-heading: Chapter 27 of Quotations of Mao Zedong Simplified
-date: 2022-02-01
+heading: Chapter 24 of Quotations of Mao Zedong Simplified
+date: 2022-01-12
 description: Quotations of Mao
-image: "/graphics/mao.jpg"
-linkb: "/research/mao/quotations/chapter-30"
-linkbtext: "Chapter 30"
-linkf: "/research/mao/quotations/chapter-31"
-linkftext: "Chapter 31"
+image: "/covers/quotations.jpg"
+linkb: "/research/mao/quotations/chapter-23"
+linkbtext: "Chapter 23"
+linkf: "/research/mao/quotations/chapter-25"
+linkftext: "Chapter 25"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
