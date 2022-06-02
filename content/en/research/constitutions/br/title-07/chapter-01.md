@@ -1,5 +1,5 @@
-125TITLE VII
-The Economic and Financial Order
+TITLE 7: The Economic and Financial Order
+
 CHAPTER I
 The General Principles of the Economic Activity
 Article 170.  The economic order, founded on the appreciation of the value of
@@ -21,10 +21,9 @@ laws and having their head-office and management in Brazil.
 Free exercise of any economic activity is ensured to everyone,
 regardless of authorization from government agencies, except in the cases set forth
 by law.
-Article 171. (Revoked). (CA No. 6, 1995)
-Article 172.  The law shall regulate, based on national interests, the foreign capital
-investments, shall encourage reinvestments and shall regulate the remittance of
-profits.
+
+Article 172.  The law shall regulate, based on national interests, the foreign capital investments, shall encourage reinvestments and shall regulate the remittance of profits.
+
 Article 173. With the exception of the cases set forth in this Constitution, the direct
 exploitation of an economic activity by the State shall only be allowed whenever
 needed to the imperative necessities of the national security or to a relevant collective

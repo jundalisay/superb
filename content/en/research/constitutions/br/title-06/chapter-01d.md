@@ -1,4 +1,16 @@
-SECTION 6: Tax Revenue Sharing
+---
+title: "Tax Revenue Sharing"
+heading: "Section 6"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
+
 
 Article 157.  The following shall be assigned to the states and to the Federal District:
 1. the proceeds from the collection of the federal tax on income and earnings
@@ -6,28 +18,20 @@ of any nature, levied at source on income paid on any account by them, by their
 autonomous government entities and by the foundations they institute and maintain;
 2.  twenty per cent of the proceeds from the collection of the tax that the Union
 may institute in the exercise of the powers conferred on it by article 154, I.
+
 Article 158. The following shall be assigned to the municipalities:
-1. the proceeds from the collection of the federal tax on income and earnings
-of any nature, levied at source on income paid on any account by them, by their
-autonomous government entities and by the foundations they institute and maintain;
-2.  fifty per cent of the proceeds from the collection of the federal tax on rural
-property, concerning real property located in the municipalities, or one hundred per cent
-of such proceeds in the case of the option referred to in article 153, paragraph 4, III;
-3.   fifty per cent of the proceeds from the collection of the state tax on the
-ownership of automotive vehicles licensed in the municipalities;
-4. twenty-five per cent of the proceeds from the collection of the state tax
-on transactions regarding the circulation of goods and on rendering of interstate and
-intermunicipal transportation services and services of communication.
-The revenue portions assigned to the municipalities, as mentioned
-in item IV, shall be credited in accordance with the following criteria:
+1. the proceeds from the collection of the federal tax on income and earnings of any nature, levied at source on income paid on any account by them, by their autonomous government entities and by the foundations they institute and maintain;
+2. 50% of the proceeds from the collection of the federal tax on rural property, concerning real property located in the municipalities, or 100% of such proceeds in the case of the option referred to in article 153, paragraph 4, 3
+3. 50% of the proceeds from the collection of the state tax on the ownership of automotive vehicles licensed in the municipalities
+4. 25% of the proceeds from the collection of the state tax on transactions regarding the circulation of goods and on rendering of interstate and intermunicipal transportation services and services of communication. 
+
+The revenue portions assigned to the municipalities, as mentioned in item IV, shall be credited in accordance with the following criteria:
 1. at least three-fourths, in proportion to the value added in the transactions
 regarding the circulation of goods and the rendering of services carried out in the
-territory of the municipalities;
-118
- 2.  up to one-quarter, in accordance with the provisions of a state law or, in
-the case of the territories, of a federal law.
-Article 159. The Union shall remit: (CA No. 42, 2003; CA No. 44, 2004; CA No.
-55, 2007)
+territory of the municipalities
+2.  up to one-quarter, in accordance with the provisions of a state law or, in the case of the territories, of a federal law.
+
+Article 159. The Union shall remit:
 1. of the proceeds from the collection of the tax on income and earnings of
 any nature and of the tax on industrialized products, forty-eight per cent as follows:
 a) twenty-one and a half of one per cent to the Revenue Sharing Fund of the
@@ -48,17 +52,15 @@ respective exportations of industrialized products;
 in the economic domain set forth in article 177, paragraph 4, twenty-nine per cent to
 the States and to the Federal District, distributed in accordance with the law, with due
 regard for the allocation referred to in item II, c, of said paragraph.
-Paragraph 1. For purposes of calculating the amount to be remitted in accordance
-with the provisions in item I, the portion of the collected tax on income and earnings
-of any nature assigned to the states, to the Federal District and to the municipalities
-shall be excluded, as provided by articles 157, I, and 158, I.
-Paragraph 2. No federated unit may be allocated a portion in excess of twenty
-per cent of the amount referred to in item II, and any excess shall be distributed
-among the other participants, maintaining, for the latter, the apportionment criterion
-established therein.
+
+Paragraph 1. For purposes of calculating the amount to be remitted in accordance with the provisions in item I, the portion of the collected tax on income and earnings of any nature assigned to the states, to the Federal District and to the municipalities shall be excluded, as provided by articles 157, I, and 158, I.
+
+Paragraph 2. No federated unit may be allocated a portion in excess of 20% of the amount referred to in item II, and any excess shall be distributed among the other participants, maintaining, for the latter, the apportionment criterion established therein.
+
 Paragraph 3. The states shall remit twenty-five per cent of the funds they may
 receive as provided by item II to the respective municipalities, observing the criteria
 established in article 158, sole paragraph, I and II.
+
 Paragraph 4. Twenty-five per cent of the amount of monies referred to in item
 III and allocated to each State shall be assigned to its Municipalities, in accordance
 with the law referred to in said item.

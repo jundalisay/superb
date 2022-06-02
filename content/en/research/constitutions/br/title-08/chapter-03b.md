@@ -1,17 +1,29 @@
+---
+title: "Culture"
+heading: "Chapter 3b and 4"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
+
+
 SECTION 2: Culture
 
 Article 215.  The state shall ensure to all the full exercise of the cultural rights and
 access to the sources of national culture and shall support and foster the appreciation
 and diffusion of cultural expressions. (CA No. 48, 2005)
 
-145Paragraph 1. The State shall protect the expressions of popular, Indian and
-Afro-Brazilian cultures, as well as those of other groups participating in the national
-civilization process.
-Paragraph 2. The law shall provide for the establishment of commemorative dates
-of high significance for the various national ethnic segments.
-Paragraph 3. The law shall establish the National Culture Plan, in the form of a
-multiyear plan aimed at the cultural development of the country and the integration
-of government initiatives to attain the following:
+Paragraph 1. The State shall protect the expressions of popular, Indian and Afro-Brazilian cultures, as well as those of other groups participating in the national civilization process.
+
+Paragraph 2. The law shall provide for the establishment of commemorative dates of high significance for the various national ethnic segments. 
+
+Paragraph 3. The law shall establish the National Culture Plan, in the form of a multiyear plan aimed at the cultural development of the country and the integration of government initiatives to attain the following:
+
 1. protection and appreciation of the value of Brazil’s cultural heritage;
 2.  production, promotion, and diffusion of cultural goods;
 3.   training of qualified personnel to manage culture in its multiple dimensions;
