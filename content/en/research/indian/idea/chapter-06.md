@@ -2,37 +2,59 @@
 title: "Mind, Práńendriya and Vrtti"
 heading: "Chapter 4 of Idea and Ideology Simplified"
 date: 2022-01-31
-description: ""
+description: "Due to internal clash and cohesion amongst the 3 immanent principles (sentient, mutative and static), the resultant force bursts out at any one vertex of the triangle formed due to the ever-flowing eternal force"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-03"
-linkbtext: "Chapter 3"
-linkf: "/research/indian/idea/chapter-05"
-linkftext: "Chapter 5"
+linkb: "/research/indian/idea/chapter-05"
+linkbtext: "Chapter 5"
+linkf: "/research/indian/idea/chapter-07"
+linkftext: "Chapter 7"
 icon: "/icons/sarkar.jpg"
 ---
 
 
-Due to internal clash and cohesion amongst the three immanent principles (sentient, mutative and static), the resultant force bursts out at any one vertex of the triangle formed due to the ever-flowing eternal force. 
+Due to internal clash and cohesion amongst the 3 immanent principles (sentient, mutative and static), the resultant force bursts out at any one vertex of the triangle formed due to the ever-flowing eternal force.
 
-Puruśa, or Consciousness, is the Nucleus from whom commences the process of saiṋcara, or uniform movement from the subtle to the gross, from the one to the many. Mahattattva, Ahaḿtattva and citta are formed as a result of increasing crudeness, and mind is born at the stage where all three – Mahattattva, Ahaḿtattva and citta – are present.
+Puruśa, or Consciousness, is the Nucleus from whom commences the process of saiṋcara, or uniform movement from the subtle to the gross, from the one to the many. 
+
+Mahattattva, Ahaḿtattva and citta are formed as a result of increasing crudeness, and mind is born at the stage where all three – Mahattattva, Ahaḿtattva and citta – are present.
 
 The original entity is the unqualified undivided Macrocosm. By further crudification the citta gets metamorphosed into five fundamental factors, namely, ethereal, aerial, luminous, liquid and solid. 
 
-Right from Nucleus Puruśottama to the crudest solid, there is no change in Puruśadeha. The action and interaction of the three forces of Prakrti cause a change in appearance whereby the Transcendent Entity appears to have lost its transcendentality. This phase of evolution, named saiṋcara, is the inanimate phase of creation, and represents the Cosmic Mind, or Macrocosm, in different stages. 
+Right from Nucleus Puruśottama to the crudest solid, there is no change in Puruśadeha. 
+
+The action and interaction of the three forces of Prakrti cause a change in appearance whereby the Transcendent Entity appears to have lost its transcendentality. 
+
+This phase of evolution, named saiṋcara, is the inanimate phase of creation, and represents the Cosmic Mind, or Macrocosm, in different stages. 
 
 In the living bodies after the formation of crudest kśititattva, or solid factor, division and association of matter result in the formation of mind.
 
-The process of pratisaiṋcara commences at this point. It is the counter-movement wherein the unit mind gets dilated ever-increasingly, the volume and mass of the unit mind increases due to increasing reflection of Cosmic Consciousness, and matter gets decimated continuously, till in the end the unit mind achieves mental liberation. Philosophy terms it savikalpa samádhi.
+The process of pratisaiṋcara commences at this point. 
+
+It is the counter-movement wherein the unit mind gets dilated ever-increasingly, the volume and mass of the unit mind increases due to increasing reflection of Cosmic Consciousness, and matter gets decimated continuously, till in the end the unit mind achieves mental liberation. Philosophy terms it savikalpa samádhi.
 
 Throughout pratisaiṋcara the unit mind or microcosm exists in different stages. Thus the inanimate phase of creation, or saiṋcara, is a stage of the Cosmic Mind, and the animate phase of pratisaiṋcara is the stage of unit minds.
 
-Each and every atom and molecule of the Macrocosm is nothing else but Puruśottama. It is He who radiates Himself everywhere; it is He who is omnipresent as the witnessing entity as well. As the sun by its radiation pervades the solar system, so does Puruśottama His system by His Citishakti. Thus in the Cosmic Mind both the radiated stuff and the witnessing entity are Puruśottama Himself. 
+Each and every atom and molecule of the Macrocosm is nothing else but Puruśottama. It is He who radiates Himself everywhere; it is He who is omnipresent as the witnessing entity as well. 
 
-In the second phase of evolution, that is, at the different stages of the unit mind, Puruśottama is the witnessing entity, all other objects being crude derivatives of citta. In the phases both of saiṋcara and pratisaiṋcara, Puruśottama is the Consciousness. He witnesses the microcosms and Macrocosm. Puruśottama is, therefore, also called “Collective Consciousness”.
+As the sun by its radiation pervades the solar system, so does Puruśottama His system by His Citishakti. Thus in the Cosmic Mind both the radiated stuff and the witnessing entity are Puruśottama Himself. 
 
-As witnessing entity Puruśottama connects Himself to his mental object with the help of His Avidyámáyá and reflects Himself on the object as Citishakti. This reflection is not like a reflection in a mirror but a reflection involving association like the rays of the sun. Association of Puruśottama with the Cosmic Mind, whereby He functions as the witnessing entity, is called prota yoga; association of Puruśottama with the unit minds separately and individually, whereby He functions as the witnessing entity for each individual unit mind, is called ota yoga. His association with the unit minds in collectivity is also termed prota yoga. Thus in saiṋcara there is only prota yoga but in pratisaiṋcara both prota yoga and ota yoga are there.
+In the second phase of evolution, that is, at the different stages of the unit mind, Puruśottama is the witnessing entity, all other objects being crude derivatives of citta. 
 
-It has been fully explained previously that the resultant force of Prakrti bursts out from one of the vertices of the triangle of forces of Prakrti, and that this is the origin of creation. The mid-point of this triangle of forces from whose vertex the bursting occurred is Puruśottama. The mid-points of these triangles of forces having bursting vertices coincide, and hence Puruśottama is a singular entity.
+In the phases both of saiṋcara and pratisaiṋcara, Puruśottama is the Consciousness. He witnesses the microcosms and Macrocosm. Puruśottama is, therefore, also called “Collective Consciousness”.
+
+As witnessing entity Puruśottama connects Himself to his mental object with the help of His Avidyámáyá and reflects Himself on the object as Citishakti. This reflection is not like a reflection in a mirror but a reflection involving association like the rays of the sun. 
+
+Association of Puruśottama with the Cosmic Mind, whereby He functions as the witnessing entity, is called prota yoga; association of Puruśottama with the unit minds separately and individually, whereby He functions as the witnessing entity for each individual unit mind, is called ota yoga. 
+
+His association with the unit minds in collectivity is also termed prota yoga. 
+
+Thus, in saiṋcara there is only prota yoga but in pratisaiṋcara both prota yoga and ota yoga are there.
+
+The resultant force of Prakrti bursts out from one of the vertices of the triangle of forces of Prakrti, and that this is the origin of creation. 
+
+The mid-point of this triangle of forces from whose vertex the bursting occurred is Puruśottama. 
+
+The mid-points of these triangles of forces having bursting vertices coincide, and hence Puruśottama is a singular entity.
 
 Philosophers have defined Paramátman as the collective name for Puruśottama, His prota yoga in saiṋcara and ota and prota yogas in pratisaiṋcara. 
 

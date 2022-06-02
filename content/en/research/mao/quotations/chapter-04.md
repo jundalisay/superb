@@ -1,6 +1,6 @@
 ---
 title: The Correct Handling Of Contradictions Among The People
-heading: Chapter 4 of Quotations of Mao Zedong Simplified
+heading: Chapter 4
 date: 2022-01-28
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

@@ -1,6 +1,6 @@
 ---
 title: Women
-heading: Chapter 31 of Quotations of Mao Zedong Simplified
+heading: Chapter 31
 date: 2022-01-08
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
@@ -25,7 +25,7 @@ the whole feudal-patriarchal ideology and system. They are the four thick ropes 
 
 How the peasants have overthrown the political authority of the landlords in the countryside has been described above. 
 
-The political authority of the landlords is the backbone of all the other systems of authority. With that overturned, the clan authority, the religious authority and the authority of the husband all begin to totter…
+The political authority of the landlords is the backbone of all the other systems of authority. With that overturned, the clan authority, the religious authority and the authority of the husband all begin to totter
 
 As to the authority of the husband, this has always been weaker among the poor peasants because, out of economic necessity, their womenfolk have to do more manual labour than the women of the richer classes and therefore have more say and greater power of decision in family matters. 
 

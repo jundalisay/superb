@@ -1,9 +1,11 @@
 ---
-title: "ISAIAH: Impartial Spectator Automated Intelligence Aggregation Host"
-heading: "The machine learning system of Superphysics"
+title: "What is ISAIAH?"
+heading: "Impartial Spectator Automated Intelligence Aggregation Host"
+#"The machine learning system of Superphysics"
 date: 2015-09-09
 image: /photos/objects/rubik.jpg
-description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers and the public on the real-price trends. AI also administers the Clearing Funds which are the proposed investment system that complements bonds."
+description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers and the public on the real-price trends."
+# AI also administers the Clearing Funds which are the proposed investment system that complements bonds.
 linkb: "/superphysics/ai-is-autonomous"
 linkbtext: "ai-is-autonomous"
 linkf: /social/supersociology
@@ -79,6 +81,6 @@ ISAIAH, as a machine learning hub, can interpret data from non-economic sciences
 
 _ | Superphysics paradigm | End Goal
 --- | --- | ---
-Economic data | Pantrynomics | Real Prices, [Clearing Fund Rates](/research/schumacher/pool-clearing)
+Economic data | Pantrynomics | Real Prices, [Clearing Fund Rates](/research/schumacher/pool-clearing/part-1)
 Health data |  [Medical Superphysics](/medical) | Disease prediction
 Historical data | [Supersociology](/social/supersociology) | Social and political predictions 

@@ -1,6 +1,6 @@
 ---
 title: POLITICAL WORK
-heading: Chapter 12 of Quotations of Mao Zedong Simplified
+heading: Chapter 12
 date: 2022-01-20
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

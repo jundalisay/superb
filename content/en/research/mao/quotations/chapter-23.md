@@ -1,6 +1,6 @@
 ---
 title: INVESTIGATION AND STUDY
-heading: Chapter 23 of Quotations of Mao Zedong Simplified
+heading: Chapter 23
 date: 2022-01-13
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

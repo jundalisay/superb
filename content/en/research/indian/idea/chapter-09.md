@@ -89,7 +89,7 @@ This is the ultimate and only way to final liberation or final union.
 
 Shrii Shrii Shankaracharya has declared bhakti as the best way to mokśa.<!--  – the ultimate liberation: Mokśakárańa samagryáḿ bhaktireva gariiyasii. -->
 
-4 June 1959
+<!-- 4 June 1959 -->
 
 
 

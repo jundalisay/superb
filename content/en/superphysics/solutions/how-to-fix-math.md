@@ -11,6 +11,7 @@ linkf: "/supersociology/solutions"
 linkftext: "Supersociology Solutions"
 author: Juan
 icon: /icons/sp.png
+draft: true
 ---
 
 A major turn-off in math is the use of arbitrary variables in equations, usually written in Greek characters. This burdens the mind which has to know what those variables mean just to make sense of of the whole equation. An error in one character will nullify the understanding of the whole equation and makes its output wrong.

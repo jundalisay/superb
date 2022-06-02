@@ -1,6 +1,6 @@
 ---
 title: SERVING THE PEOPLE
-heading: Chapter 17 of Quotations of Mao Zedong Simplified
+heading: Chapter 17
 date: 2022-01-17
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

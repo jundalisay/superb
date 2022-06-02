@@ -1,6 +1,6 @@
 ---
 title: The Communist Party
-heading: Chapter 1 of Quotations of Mao Zedong Simplified
+heading: Chapter 1
 date: 2022-01-31
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

@@ -1,6 +1,6 @@
 ---
 title: The People's Army
-heading: Chapter 6 of Quotations of Mao Zedong Simplified
+heading: Chapter 6
 date: 2022-01-23
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

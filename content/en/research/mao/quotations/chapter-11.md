@@ -1,6 +1,6 @@
 ---
 title: The Mass Line
-heading: Chapter 11 of Quotations of Mao Zedong Simplified
+heading: Chapter 11
 date: 2022-01-21
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

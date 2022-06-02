@@ -1,6 +1,6 @@
 ---
 title: Imperialism And All Reactionaries Are Paper Tigers
-heading: Chapter 6 of Quotations of Mao Zedong Simplified
+heading: Chapter 6
 date: 2022-01-26
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

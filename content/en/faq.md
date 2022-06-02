@@ -59,7 +59,9 @@ How do you weed out junk ideas like faeries and pixie dust?
 {{< /r >}}
 
 {{< l ava="Superphysics" >}}
-By finding consistent patterns. If all five continents have oral tradition of faeries and pixie dust that survive up to modern times, then there's some reality to it. But we find that there are none, so we cross it out. 
+By finding consistent patterns. If all five continents have oral tradition of faeries and pixie dust that survive up to modern times, then there's some reality to it. But we find that there are none, so we cross it out as untrue.
+
+Truth is the equality of perceptions. We're after true patterns that lead to the single truth, as the cause behind an issue or problem. 
 
 The most common pattern in all human societies is the belief in an afterlife or another type of reality, and so we drill down on that.  
 {{< /l >}}
@@ -79,7 +81,9 @@ Like the movie "The Matrix", huh?
 {{< /r >}}
 
 {{< l ava="Superphysics" >}}
-Yes. It's more commonly known as theories that say that we exist in a simulation. Knowing how this simulation is sustained allows the possibility to tap into that inexhaustible creative or sustaining mechanism
+Yes. It's more commonly known as theories that say that we exist in a simulation. Knowing how this simulation is sustained allows the possibility to tap into that inexhaustible creative or sustaining mechanism. 
+
+We use it to solve all problems. 
 {{< /l >}}
 
 {{< r ava="asker" >}}
@@ -104,7 +108,7 @@ By knowing the root cause of the headache. The cause could be diet, stress, cong
 
 Medical science deals with the headache by masking its pain and not really dealing with what is causing the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. Moreover, the doctor can only work with the data that the patient gives. 
 
-Medical Superphysics combines the patient's knowledge of himself with the knowledge of the doctor regarding headaches. This combined knowledge can then point to the proper headache solutions whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
+Medical Superphysics gets all the data about the patient to find the pattern on which **[layer](/material/principles/five-layers)** the cause is in. It then routes that patient to the proper specialist whether it be from Western medicine, yoga, Chinese medicine, homeopathy, etc.  
 
 <!-- 
 , on the other hand, gets not only all the data from the person to find out what the cause, but also the patterns from all the data. This is more difficult and time-consuming, but is able to give more lasting solutions.
@@ -112,6 +116,9 @@ Medical Superphysics gives the person to question himself and extract data from 
 
 This technique is the original Socratic Dialectics and is actually done by Chinese medicine and Homeopathy. the Socratic-dialectical method is an upgrade of the scientific method which has a limited dataset. --> 
 {{< /l >}}
+
+
+<!-- combines the patient's knowledge of himself with the knowledge of the doctor regarding headaches. This combined knowledge can then point to the proper headache solutions whether it be from -->
 
 {{< r ava="asker" >}}
 So you want everyone to switch to alternative medicine?

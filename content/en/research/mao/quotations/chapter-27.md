@@ -1,6 +1,6 @@
 ---
 title: Criticism And Self-criticism
-heading: Chapter 27 of Quotations of Mao Zedong Simplified
+heading: Chapter 27
 date: 2022-01-11
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

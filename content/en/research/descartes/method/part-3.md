@@ -1,5 +1,6 @@
 +++
-title= "Part 3"
+title= "The 3 Maxims"
+heading= "Part 3"
 author= "Rene Descartes"
 image= "/covers/method.jpg"
 description= "Rene Descartes 1635"

@@ -1,6 +1,7 @@
 ---
 title: "What is Qualimath?"
-heading: "Math for Qualities and Ratios more than Quantities and Equalities"
+heading: "Math for Qualities and Ratios" 
+# more than Quantities and Equalities"
 date: 2020-07-07
 image: "/graphics/physics/math.jpg"
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
@@ -48,6 +49,11 @@ The problem is that the processes such as `dℓ` must accommodate numerical vari
 It would be like requiring a house-builder to know a house’s entire blueprint before the house is built. This limits the number of house-builders to a few, reducing the number of new houses. Now think that those people are spaceship-builders and navigators instead of house-builders, and you will see an extreme shortage that will increase the cost of space-travel accordingly.
 
 ![Equation](https://sorasystem.sirv.com/graphics/equation.jpg)
+
+
+{{< q a="descartes" >}}
+Modern algebra has so many certain rules and formulas that it is full of confusion and obscurity that embarrasses instead of cultivating the mind.
+{{< /q >}}
 
 
 ## Wave-Based Math

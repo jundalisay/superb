@@ -1,15 +1,16 @@
 +++
-title= "Part 1"
+title= "My Life"
+heading= "Part 1"
 author= "Rene Descartes"
 image= "/covers/method.jpg"
 description= "Rene Descartes 1635"
-linkb= "/research/descartes/meditations/part-1"
-linkbtext= "Part 1"
+linkb= "/research/descartes/meditations/"
+linkbtext= "Index"
 linkf= "/research/descartes/meditations/part-2"
 linkftext= "Part 2"
 +++
 
-## Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences
+<!-- ## Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences -->
 
 <!-- Source= Discourse on the method of rightly conducting the reason and seeking the truth in the sciences, by René Descartes, edited by Charles W. Eliot. Published by P.F. Collier & Son, 1909, New York,
 Transcribed= by Andy Blunden. -->
@@ -25,13 +26,23 @@ Their conviction shows that:
 - the power of judging is by nature equal in all men
 - the diversity of our opinions, consequently, does not arise from some being endowed with a larger share of reason than others, but solely from this, that we conduct our thoughts along different ways, and do not fix our attention on the same objects. 
 
-For to be possessed of a vigorous mind is not enough; the prime requisite is rightly to apply it. The greatest minds, as they are capable of the highest excellences, are open likewise to the greatest aberrations; and those who travel very slowly may yet make far greater progress, provided they keep always to the straight road, than those who, while they run, forsake it.
+Having a vigorous mind is not enough. One must apply it. 
 
-For myself, I have never fancied my mind to be in any respect more perfect than those of the generality; on the contrary, I have often wished that I were equal to some others in promptitude of thought, or in clearness and distinctness of imagination, or in fullness and readiness of memory. 
+The greatest minds are open likewise to the greatest aberrations. Those who travel very slowly may progress far if they <!--  yet make far greater progress, provided they --> keep always to the straight road, than those who run and forsake it.
 
-Besides these, I know of no other qualities that contribute to the perfection of the mind; for as to the reason or sense, inasmuch as it is that alone which constitutes us men, and distinguishes us from the brutes, I am disposed to believe that it is to be found complete in each individual; and on this point to adopt the common opinion of philosophers, who say that the difference of greater and less holds only among the accidents, and not among the forms or natures of individuals of the same species.
+My mind is not superior to others. I am even inferior to others <!--  wish that I were equal
+For myself, I have never fancied my mind to be in any respect more perfect than those of the generality; on the contrary, I have often wished that I were equal to some others --> in:
+- quickness of thought
+- clearness and distinctness of imagination
+- fullness and readiness of memory. 
 
-I will not hesitate, however, to avow my belief that it has been my singular good fortune to have very early in life fallen in with certain tracks which have conducted me to considerations and maxims, of which I have formed a method that gives me the means, as I think, of gradually augmenting my knowledge, and of raising it by little and little to the highest point which the mediocrity of my talents and the brief duration of my life will permit me to reach. 
+These are the only qualities that I think lead to <!-- Besides these, I know of no other qualities that contribute to --> the perfection of the mind. 
+
+Reason or sense is <!-- , inasmuch as it is that alone which constitutes us men, and distinguishes us from the brutes, I am disposed to believe that it is to be found --> already complete in each individual.
+
+The errors in reason come from <!-- and on this point to adopt the common opinion of philosophers, who say that the difference of greater and less holds only among --> the accidents, and not from the natures of individuals of the same species.
+
+I was lucky to fall into certain tracks very early in life which have led me to maxims gradually augmented my knowledge, and raised it to the highest point which the mediocrity of my talents<!--  and the brief duration of my life --> will permit me to reach. 
 
 For I have already reaped from it such fruits that, although I have been accustomed to think lowly enough of myself, and although when I look with the eye of a philosopher at the varied courses and pursuits of mankind at large, I find scarcely one which does not appear in vain and useless, I nevertheless derive the highest satisfaction from the progress I conceive myself to have already made in the search after truth, and cannot help entertaining such expectations of the future as to believe that if, among the occupations of men as men, there is any one really excellent and important, it is that which I have chosen.
 

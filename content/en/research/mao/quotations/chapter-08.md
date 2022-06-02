@@ -1,6 +1,6 @@
 ---
 title: The People's War
-heading: Chapter 8 of Quotations of Mao Zedong Simplified
+heading: Chapter 8
 date: 2022-01-24
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

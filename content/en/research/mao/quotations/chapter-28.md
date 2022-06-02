@@ -1,6 +1,6 @@
 ---
 title: The Communists
-heading: Chapter 10 of Quotations of Mao Zedong Simplified
+heading: Chapter 10
 date: 2022-01-10
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

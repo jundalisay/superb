@@ -1,6 +1,19 @@
-Chapter XIII. Education
+---
+title: "Education"
+heading: "Chapter 13"
+date: 2021-11-20
+image: "/flags/id.png"
+description: ""
+linkb: /research/constitutions/id
+linkbtext: "constitutions"
+linkf: /research/constitutions/id
+linkftext: "constitutions"
+icon: /flags/id.png
+---
+
 
 Article 31
+
 1. Every citizen has the right to receive education.
 2. Every citizen has the obligation to undertake basic education, and the
 government has the obligation to fund this.

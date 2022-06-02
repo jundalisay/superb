@@ -1,6 +1,6 @@
 ---
 title: The Youth
-heading: Chapter 30 of Quotations of Mao Zedong Simplified
+heading: Chapter 30
 date: 2022-01-09
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

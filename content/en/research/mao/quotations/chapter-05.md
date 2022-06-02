@@ -1,6 +1,6 @@
 ---
 title: War and Peace
-heading: Chapter 5 of Quotations of Mao Zedong Simplified
+heading: Chapter 5
 date: 2022-01-27
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

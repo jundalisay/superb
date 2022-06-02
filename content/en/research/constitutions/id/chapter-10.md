@@ -1,35 +1,62 @@
+---
+title: "Citizens and Residents"
+heading: "Chapter 10"
+date: 2021-11-20
+image: "/flags/id.png"
+description: ""
+linkb: /research/constitutions/id
+linkbtext: "constitutions"
+linkf: /research/constitutions/id
+linkftext: "constitutions"
+icon: /flags/id.png
+---
+
 Chapter X. Citizens and Residents
-Requirements for birthright citizenship
+
+<!-- Requirements for birthright citizenship -->
+
+
 Article 26
-1. Citizens shall consist of indigenous Indonesian peoples and persons of foreign
-origin who have been legalised as citizens in accordance with law.
-2. Residents shall consist of Indonesian citizens and foreign nationals living in
-Indonesia.
-3. Matters concerning citizens and residents shall be regulated by law.
-Requirements for naturalization
+
+1. Citizens shall consist of indigenous Indonesian peoples and persons of foreign origin who have been legalised as citizens in accordance with law.
+
+2. Residents shall consist of Indonesian citizens and foreign nationals living in Indonesia.
+
+3. Matters concerning citizens and residents shall be regulated by law. Requirements for naturalization
+
 Article 27
-1. All citizens shall be equal before the law and the government and shall be
-required to respect the law and the government, with no exceptions.
+
+1. All citizens shall be equal before the law and the government and shall be required to respect the law and the government, with no exceptions.
+
 2. Every citizen shall have the right to work and to earn a humane livelihood.
+
 3. Each citizen shall have the right and duty to participate in the effort of defending
 the State.
 
 
-Chapter XA. Human Rights
+## Chapter XA. Human Rights
+
 Article 28
+
 The freedom to associate and to assemble, to express written and oral opinions, etc.,
 shall be regulated by law.
 
 
 Article 28A
+
 Every person shall have the right to live and to defend his/her life and existence.
+
 Article 28B
+
 1. Every person shall have the right to establish a family and to procreate based
 upon lawful marriage.
-2. Every child shall have the right to live, to grow and to develop, and shall have the
-right to protection from violence and discrimination.
-Rights of children
+
+2. Every child shall have the right to live, to grow and to develop, and shall have the right to protection from violence and discrimination.
+
+<!-- Rights of children -->
+
 Article 28C
+
 1. Every person shall have the right to develop him/herself through the fulfillment
 of his/her basic needs, the right to get education and to benefit from science and
 technology, arts and culture, for the purpose of improving the quality of his/her
@@ -66,9 +93,8 @@ purpose of the development of his/her self and social environment, and shall hav
 right to seek, obtain, possess, store, process and convey information by employing all
 available types of channels.
 
+
 Article 28G Human dignity
-
-
 
 1. Every person shall have the right to protection of his/herself, family, honour,
 dignity, and property, and shall have the right to feel secure against and receive
@@ -118,39 +144,19 @@ the recognition and respect of the rights and freedoms of others and of satisfyi
 just demands base upon considerations of morality, religious values, security and
 public order in a democratic society.
 
+
 Chapter XI. Religion
 
 Article 29
+
 1. The State shall be based upon the belief in the One and Only God.
 2. The State guarantees all persons the freedom of worship, each according to
 his/her own religion or belief.
-Official religion
+
+<!-- Official religion
 God or other
 deities
 Freedom
 of religion
 
-Chapter XII. State Defence and Security
-
-Article 30
-Duty to serve in the military
-Indonesia 1945 (reinst. 1959, rev. 2002)
-1. Every citizen shall have the right and duty to participate in the defence and
-security of the State.
-Page 16constituteproject.org
-PDF generated: 27 Apr 2022, 11:02
-2. The defence and security of the State shall be conducted through the total
-people's defence and security system, with the Indonesian National Military
-(TNI) and the Indonesian National Police (POLRI) as the main force, and the
-people as the supporting force.
-3. TNI, consisting of the Army, Navy and Air Force, as an instrument of the State
-has the duty to defend, protect, and maintain the integrity and sovereignty of the
-State.
-4. POLRI, as an instrument of the State that maintains public order and security,
-has the duty to protect, guard, and serve the people, and to uphold the law.
-5. The structure and status of TNI and POLRI, the authority relationships between
-TNI and POLRI in performing their respective duties, the conditions concerning
-the participation of citizens in the defence and security of the State, and other
-matters related to defence and security, shall be regulated by law.
-Duty to serve in the military
-
+ -->

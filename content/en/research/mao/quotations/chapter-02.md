@@ -1,6 +1,6 @@
 ---
 title: Classes And Class Struggle
-heading: Chapter 2 of Quotations of Mao Zedong Simplified
+heading: Chapter 2
 date: 2022-01-30
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

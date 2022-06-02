@@ -36,16 +36,16 @@ Physics came from Isaac Newton* who came up with classical mechanics to explain 
 Newton was very good at math and so he naturally had zero knowledge of metaphysics*. This is why he couldn't find the cause of gravity. 
 
 
-{{< quote socrates >}}
+{{< q a="socrates" >}}
 Surely the skilled mathematician is not a dialectician.
 <cite>Socrates, The Republic Book 7</cite>
-{{< /quote >}}
+{{< /q>}}
 
 
-{{< quote newton >}}
+{{< q a="newton" >}}
 But I have not been able to discover the cause of gravity from phenomena. I have no hypotheses because hypotheses have no place in experimental philosophy.. To me, it is enough that gravity exists and that it accounts for all the motions of the the celestial bodies, and of our sea. 
 <cite>Newton, Principia Mathematica Book 3, General Scholium</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 > *This is because the operation of the mind when doing math and philosophy are different

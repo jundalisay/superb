@@ -1,6 +1,6 @@
 ---
 title: EDUCATION AND THE TRAINING OF TROOPS
-heading: Chapter 16 of Quotations of Mao Zedong Simplified
+heading: Chapter 16
 date: 2022-01-18
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

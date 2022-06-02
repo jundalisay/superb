@@ -1,6 +1,6 @@
 ---
 title: Socialism And Communism
-heading: Chapter 3 of Quotations of Mao Zedong Simplified
+heading: Chapter 3
 date: 2022-01-29
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

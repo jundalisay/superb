@@ -1,6 +1,6 @@
 ---
 title: RELATIONS BETWEEN THE ARMY AND THE PEOPLE
-heading: Chapter 14 of Quotations of Mao Zedong Simplified
+heading: Chapter 14
 date: 2022-01-20
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

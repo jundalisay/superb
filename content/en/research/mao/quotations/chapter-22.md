@@ -1,6 +1,6 @@
 ---
 title: METHODS OF THINKING AND METHODS OF WORK
-heading: Chapter 22 of Quotations of Mao Zedong Simplified
+heading: Chapter 22
 date: 2022-01-14
 description: Quotations of Mao
 image: "/covers/quotations.jpg"

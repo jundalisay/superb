@@ -1,6 +1,6 @@
 ---
 title: CULTURE AND ART
-heading: Chapter 32 of Quotations of Mao Zedong Simplified
+heading: Chapter 32
 date: 2022-01-08
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
