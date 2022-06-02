@@ -2,15 +2,13 @@
 title= "The Tyrannical Man"
 heading= "The Simple Republic by Plato Book 9 Chapter 1"
 date= 2015-09-09
-image= "/photos/marcos.jpg"
+image= "/covers/republic.jpg"
 description= "The Tyrannical Man emerges from the Democratic man"
 linkf= "/research/socrates/simple-republic/book-9/chapter-2/"
 linkftext= "Chapter 2"
 linkb= "/research/socrates/simple-republic/book-8/chapter-4/"
 linkbtext= "Chapter 4"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
 +++
 
 {{< l a="Socrates" >}}

@@ -1,16 +1,14 @@
 +++
-title= "The Three Pleasures= Wisdom, Honor, Gain"
+title= "The Three Pleasures: Wisdom, Honor, Gain"
 heading= "Book 9 Chapter 2"
 date= 2015-09-09
-image= "https://sorasystem.sirv.com/graphics/overwork.jpg"
+image= "/covers/republic.jpg"
 description= "The Three Pleasures are Wisdom, Honor, Gain"
 linkf= "/research/socrates/simple-republic/book-9/chapter-3/"
 linkftext= "Chapter 3"
 linkb= "/research/socrates/simple-republic/book-9/chapter-1/"
 linkbtext= "Chapter 1"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
 +++
 
 

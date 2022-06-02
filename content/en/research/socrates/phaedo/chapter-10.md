@@ -8,8 +8,6 @@ linkbtext= "chapter-9"
 linkf= "/research/socrates/simple-republic"
 linkftext= "Chapter 1"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
 +++
 
 When he had done speaking, Crito said:
@@ -40,7 +38,9 @@ I cannot make Crito believe that I am the same Socrates who have been talking an
 I have already said that after I drink the poison, I shall leave you and go to the joys of the blessed. I said these words to comfort you and myself. But these had had no effect upon Crito. 
 
 Therefore I want you to be surety for me to him now, as at the trial he was surety to the judges for me. But let the promise be of another sort. He was surety for me to the judges that I would remain, and you must be my surety to him that I shall not remain, but go away and depart. 
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 Then he will suffer less at my death, and not be grieved when he sees my body being burned or buried. I would not have him sorrow at my hard lot, or say at the burial, Thus we lay out Socrates, or, Thus we follow him to the grave or bury him; for false words are not only evil in themselves, but they infect the soul with evil. 
 
 Be of good cheer, then, my dear Crito, and say that you are burying my body only, and do with that whatever is usual, and what you think best.
@@ -58,7 +58,10 @@ To you, Socrates, whom I know to be the noblest and gentlest and best of all who
 I return your good wishes, and will do as you bid. [Turning to us] How charming he is. Since I have been in prison he has always been coming to see me, and was good to me. Now see how generously he sorrows on my account. We must do as he says, Crito; and therefore let the cup be brought, if the poison is prepared= if not, let the attendant prepare some.
 {{< /l >}}
 
-Yet, said Crito, the sun is still upon the hill-tops, and I know that many a one has taken the draught late, and after the announcement has been made to him, he has eaten and drunk, and enjoyed the society of his beloved; do not hurry—there is time enough.
+
+{{< r a="Crito" >}}
+Yet, the sun is still upon the hill-tops, and I know that many a one has taken the draught late, and after the announcement has been made to him, he has eaten and drunk, and enjoyed the society of his beloved; do not hurry—there is time enough.
+{{< /r  >}}
 
 {{< l a="Socrates" >}}
 Yes, Crito, and they of whom you speak are right in so acting, for they think that they will be gainers by the delay; but I am right in not following their example, for I do not think that I should gain anything by drinking the poison a little later; I should only be ridiculous in my own eyes for sparing and saving a life which is already forfeit. Please then to do as I say, and not to refuse me.
@@ -70,7 +73,7 @@ Crito made a sign to the servant, who was standing by; and he went out, and havi
 You, my good friend, are experienced in these matters. Please tell me how to proceed. 
 {{< /l >}}
 
-{{< r >}}
+{{< r a="Jailer">}}
 You have only to walk about until your legs are heavy, and then to lie down, and the poison will act. 
 {{< /r >}}
 

@@ -2,15 +2,13 @@
 title= "From Democracy into Tyranny"
 heading= "The Simple Republic by Plato Book 8 Chapter 4"
 date= 2015-09-09
-image= "https://sorasystem.sirv.com/photos/taliban.jpg"
+image= "/covers/republic.jpg"
 description= "Democracy naturally turns into Tyranny"
 linkf= "/research/socrates/simple-republic/book-9/chapter-1/"
 linkftext= "Book 9"
 linkb= "/research/socrates/simple-republic/book-8/chapter-3/"
 linkbtext= "Chapter 3"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
 +++
 
 

@@ -3,11 +3,11 @@ title= "Aristocracy, Oligarchy, Democracy, Tyranny"
 # heading= "The Simple Republic by Plato Book 8 Chapter 1"
 date= 2015-09-12
 description= "Dialectics is the last and most important study that is superior to all the sciences as it deals with the nature of things. The four divisions of knowledge are science, understanding, opinion, and perception of shadows."
+image ="/covers/republic.jpg"
 linkf= "/research/socrates/simple-republic/book-8/chapter-2/"
 linkftext= "Chapter 2"
 linkb= "/research/socrates/simple-republic/book-7/chapter-4/"
 linkbtext= "Chapter 4"
-image= "/covers/republic.jpg"
 icon= "/icons/soc.png"
 +++
 

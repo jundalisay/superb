@@ -2,15 +2,13 @@
 title= "The Shadow of Shallow Pleasures"
 heading= "The Simple Republic by Plato Book 9 Chapter 3"
 date= 2015-09-09
-image= "https://sorasystem.sirv.com/graphics/money.jpg"
+image= "/covers/republic.jpg"
 description= "Shallow Pleasures are only a shadow compared to the real pleasures of philosophy and realization"
 linkf= "/research/socrates/simple-republic/book-10/chapter-1/"
 linkftext= "Book 10"
 linkb= "/research/socrates/simple-republic/book-9/chapter-2/"
 linkbtext= "Chapter 2"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
 +++
 
 

@@ -52,11 +52,11 @@ The pushing leads to the creation and expansion of physical space, first as 2-di
 
 This "pushing" is similar to the theory of Descartes which was destroyed by Newton:
 
-{{< quote avatar="smith" >}}
+{{< q a="smith" >}}
 According to Descartes, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the universe was always the same. But there was no void. No part of matter could be moved without thrusting some other out of its place. The matter which any body pushed before it, rolled immediately backwards, to supply the place of that matter which flowed in behind it. This is similar to the swimming of a fish. The water, which it pushes before it, immediately rolls backwards, to supply the place of what flows in.<br><br> It thus forms a vortex around the body of the fish. In the same way, the motion originally impressed by the Creator on matter produced in it an infinity of vortices, or circular streams. 
 
 <cite>The Simplified History of Astronomy by Adam Smith</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 
@@ -70,19 +70,17 @@ Thus, spacetime is created by the mere existence or popping-in of the qosts from
 
 
 
-![Flipbook](/graphics/flipbook.gif)
-{{< cap >}}
-The universe is made up of static ideas which are glued together by perception, which gives the illusion of movement
-{{< /cap >}}
+{{< img src="/graphics/flipbook.gif" alt="Flipbok" cap="The universe is made up of static ideas which are glued together by perception, which gives the illusion of movement" >}}
+
 
 
 ## The Aether: The Source of All Movement in the Physical Universe
 
-{{< quote avatar="smith" >}}
+{{< q a="smith" >}}
 [According to Descartes]..the Sun was the fiery center of a circular stream of ether, which flowed continually round her.
 
 <cite>The Simplified History of Astronomy by Adam Smith</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 The aether is a metaphysical thing that is central to Plato (Timaeus), Descartes, Hinduism, and Buddhism (as citta). The problem is that people interpreted it to be physical or perceivable to our five senses. In reality, the aether is invisible and immaterial. It interacts instead with feelings and ideas since it *is* the material of feelings and ideas.  
