@@ -1,13 +1,13 @@
 ---
-title: METHODS OF THINKING AND METHODS OF WORK
+title: Methods Of Thinking And Work
 heading: Chapter 22
 date: 2022-01-14
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-19"
-linkbtext: "Chapter 19"
-linkf: "/research/mao/quotations/chapter-22"
-linkftext: "Chapter 22"
+linkb: "/research/mao/quotations/chapter-21"
+linkbtext: "Chapter 21"
+linkf: "/research/mao/quotations/chapter-23"
+linkftext: "Chapter 23"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

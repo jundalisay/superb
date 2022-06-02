@@ -1,5 +1,5 @@
 ---
-title: CULTURE AND ART
+title: Culture And Art
 heading: Chapter 32
 date: 2022-01-08
 description: Quotations of Mao

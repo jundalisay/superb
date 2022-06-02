@@ -42,7 +42,7 @@ Paragraph 7. In a special legislative session, the National Congress shall delib
 
 Paragraph 8. If there are provisional measures in effect on the date a special session of the National Congress is called, they shall be automatically included in the agenda of the session.
 
-SECTION 7: The Committees
+Section 7: The Committees
 
 Article 58.  The National Congress and both its Houses shall have permanent and temporary committees, established in the manner and with the incumbencies set forth in the respective regulations or in the act from which their creation resulted.
 

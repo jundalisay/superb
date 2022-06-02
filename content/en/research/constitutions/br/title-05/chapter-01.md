@@ -6,15 +6,13 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 
 
-CHAPTER 1 The State of Defense and the State of Siege
-
-SECTION I The State of Defense
+## Section 1: The State of Defense
 
 Article 136.  The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, decree a state of defense to preserve or to promptly re-establish, in specific and restricted locations, the public order or the social peace threatened by serious and imminent institutional instability or affected by major natural calamities.
 
@@ -48,7 +46,8 @@ Paragraph 6. The National Congress shall examine the decree within ten days as f
 receipt thereof, and shall remain in operation as long as the state of defense is in force.
 Paragraph 7. If the decree is rejected, the state of defense shall cease immediately.
 
-SECTION 2: The State of Siege
+
+## Section 2: The State of Siege
 
 Article 137. The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, request authorization from the National Congress to decree the state of siege in the event of:
 1. serious disturbance with nationwide effects or ocurrence of facts that
@@ -61,9 +60,7 @@ request, and the National Congress shall decide by absolute majority.
 
 Article 138.  The decree of the state of siege shall specify the period of its duration, the rules required to implement it and the constitutional guarantees that are to be suspended and, after it is published, the President of the Republic shall designate the executor of the specific measures and the areas encompassed.
 
-Paragraph 1. In the event of article 137, I, the state of siege may not be decreed for
-more than thirty days nor may each extension exceed such period; in the event of item
-II, it may be decreed for the entire period of the war or foreign armed aggression.
+Paragraph 1. In the event of article 137, I, the state of siege may not be decreed for more than thirty days nor may each extension exceed such period; in the event of item 2 , it may be decreed for the entire period of the war or foreign armed aggression.
 
 Paragraph 2. If authorization to decree the state of siege is requested during
 parliamentary recess, the President of the Federal Senate shall immediately summon
@@ -90,7 +87,7 @@ The broadcasting of speeches made by Congressmen in their
 Legislative Houses is not included in the restrictions of item III, if authorized by the
 respective Directing Board.
 
-SECTION 3: General Provisions
+Section 3: General Provisions
 
 Article 140.  The Directing Board of the National Congress shall, after hearing the
 party leaders, designate a Committee comprised of five of its members to monitor

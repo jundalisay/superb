@@ -6,7 +6,7 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
@@ -184,7 +184,7 @@ Branch, or against their ancillary services, thus presenting formal charges dire
 the National Council of Justice.
 
 
-SECTION 3: The Superior Court of Justice
+Section 3: The Superior Court of Justice
 
 Article 104.  The Superior Court of Justice is composed of a minimum of 33 Justices.
 

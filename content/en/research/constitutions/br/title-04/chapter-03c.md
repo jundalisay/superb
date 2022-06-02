@@ -6,7 +6,7 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br/
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---

@@ -1,5 +1,5 @@
 ---
-title: RELATIONS BETWEEN THE ARMY AND THE PEOPLE
+title: Relations Between The Army And The People
 heading: Chapter 14
 date: 2022-01-20
 description: Quotations of Mao

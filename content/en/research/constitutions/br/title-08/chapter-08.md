@@ -1,4 +1,16 @@
-CHAPTER 8: Indians
+---
+title: "Indians"
+heading: "Chapter 8"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
+
 
 Article 231. Indians shall have their social organization, customs, languages, creeds and traditions recognized, as well as their original rights to the lands they traditionally  occupy, it being incumbent upon the Union to demarcate them, protect and ensure respect for all of their property.
 

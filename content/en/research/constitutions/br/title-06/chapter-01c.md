@@ -1,4 +1,16 @@
-SECTION 3: Federal Taxes
+---
+title: "Federal Taxes"
+heading: "Section 3"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
+
 
 Article 153.  The Union shall have the power to institute taxes on. 
 
@@ -43,8 +55,11 @@ an assessment basis reserved for the taxes specified in this Constitution;
 2.  in the imminence or in the event of foreign war, extraordinary taxes,
 encompassed or not by its power to tax, which shall be gradually suppressed when
 the causes for their institution have ceased.
-SECTION IV
-State and Federal District Taxes
+
+
+## Section 4: State and Federal District Taxes
+
+
 Article 155.  The states and the Federal District shall have the competence to institute
 taxes on: (CA No. 3, 1993; CA No. 33, 2001; CA No. 42, 2003)
 1. transfer by death and donation of any property or rights;
@@ -170,7 +185,7 @@ Paragraph 6. The tax established in item III:
 1. shall have its minimum rates stipulated by the Federal Senate;
 2.  may have different rates according to type and utilization.
 
-SECTION 5: Municipal Taxes
+## Section 5: Municipal Taxes
 
 Article 156. The municipalities shall have the competence to institute taxes on:
 

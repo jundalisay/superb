@@ -1,6 +1,6 @@
 ---
-title: Unity
-heading: Chapter 25
+title: Unity and Discipline
+heading: Chapter 25-26
 date: 2022-01-12
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
@@ -48,7 +48,8 @@ and the people, between the army and government organizations, and
 between our army and the friendly armies. It is imperative to overcomeanything that impairs this unity.
 "On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 264.*
 
-26. DISCIPLINE
+
+## Chapter 26. DISCIPLINE
 
 Within the ranks of the people, democracy is correlative with centralism and
 freedom with discipline. They are the two opposites of a single entity,

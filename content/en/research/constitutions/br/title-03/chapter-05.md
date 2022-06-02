@@ -1,6 +1,6 @@
 CHAPTER V: The Federal District and the Territories
 
-SECTION I: The Federal District
+Section I: The Federal District
 
 Article 32.  The Federal District, which may not be divided into municipalities, shall
 be governed by an organic law, voted in two readings, with a minimum interval of
@@ -15,34 +15,29 @@ Paragraph 3. The provisions of article 27 apply to the District Deputies and the
 Legislative Chamber.
 Paragraph 4. A federal law shall provide for the use, by the Government of the
 Federal District, of the civil and military polices and the military fire brigade.
-SECTION II
-The Territories
-Article 33. The law shall provide for the administrative and judicial organization
-of the territories.
-Paragraph 1. The territories may be divided into municipalities, to which the
-provisions of Chapter IV of this Title shall be applied, insofar as pertinent.
-Paragraph 2. The accounts of the Government of the territory shall be submitted
-to the National Congress, with the prior opinion of the Federal Audit Court.
-Paragraph 3. In the federal territories with over a hundred thousand inhabitants,
-in addition to the Governor, appointed as set forth in this Constitution, there shall be
-judicial agencies of first and second instances, members of the Public Prosecution
-and Federal Public Legal Defenders; the law shall provide for the elections to the
-Territory Chamber and its decision-making powers.
-CHAPTER VI
-Intervention
-Article 34.  The Union shall not intervene in the states or in the Federal District,
-except: (CA No. 14, 1996; CA No. 29, 2000)
 
-411. to maintain national integrity;
+Section 2: The Territories
+
+Article 33. The law shall provide for the administrative and judicial organization of the territories.
+
+Paragraph 1. The territories may be divided into municipalities, to which the provisions of Chapter IV of this Title shall be applied, insofar as pertinent.
+
+Paragraph 2. The accounts of the Government of the territory shall be submitted to the National Congress, with the prior opinion of the Federal Audit Court.
+
+Paragraph 3. In the federal territories with over a hundred thousand inhabitants, in addition to the Governor, appointed as set forth in this Constitution, there shall be judicial agencies of first and second instances, members of the Public Prosecution and Federal Public Legal Defenders; the law shall provide for the elections to the Territory Chamber and its decision-making powers.
+
+CHAPTER 6: Intervention
+
+Article 34.  The Union shall not intervene in the states or in the Federal District, except:
+
+1. to maintain national integrity;
 2.  to repel foreign invasion or that of one unit of the Federation into another;
 3.   to put an end to serious jeopardy to public order;
-4. to guarantee the free exercise of any of the powers of the units of the
-Federation;
+4. to guarantee the free exercise of any of the powers of the units of the Federation;
 5. to reorganize the finances of a unit of the Federation that:
-a) stops the payment of its funded debt for more than two consecutive years,
-except for reasons of force majeure;
-b) fails to deliver to the municipalities the tax revenues established in this
-Constitution, within the periods of time set forth by law;
+a) stops the payment of its funded debt for more than two consecutive years, except for reasons of force majeure;
+b) fails to deliver to the municipalities the tax revenues established in this Constitution, within the periods of time set forth by law;
+
 6.  to provide for the enforcement of federal law, judicial order or decision;
 7.   to ensure compliance with the following constitutional principles:
 a) republican form, representative system and democratic regime;
@@ -52,72 +47,51 @@ d) rendering of accounts of the direct and indirect public administration;
 e) the application of the minimum required amount of the revenues resulting from
 state taxes, including revenues originating from transfers, to the maintenance
 and development of education and to health actions and public services.
-Article 35.  The state shall not intervene in its municipalities, neither the Union in
-the municipalities located in a federal territory, except when: (CA No. 29, 2000)
-1. the funded debt is not paid for two consecutive years, without reasons of
-force majeure;
-2.  the due accounts are not rendered, in the manner prescribed by law;
-3.   the minimum required amount of the municipal revenues has not been
-applied to the maintenance and development of education and to health actions and
-public services;
+
+
+Article 35.  The state shall not intervene in its municipalities, neither the Union in the municipalities located in a federal territory, except when:
+1. the funded debt is not paid for two consecutive years, without reasons of force majeure;
+2.  the due accounts are not rendered, in the manner prescribed by law
+3.   the minimum required amount of the municipal revenues has not been applied to the maintenance and development of education and to health actions and public services;
 4. the Court of Justice grants a petition to ensure observance of the principles
 indicated in the state Constitution or to provide for the enforcement of the law, judicial
 order or decision.
-Article 36.
-2004)
-The issuance of a decree of intervention shall depend: (CA No. 45,
+
+Article 36. The issuance of a decree of intervention shall depend:
+
 1. on a request from the coerced or impeded Legislative or Executive Power,
 or on a requisition from the Supreme Federal Court, if the coercion is exercised against
 the Judicial Power, in the case of article 34, IV;
 2.  in case of disobedience to a judicial order or decision, on a requisition from
 the Supreme Federal Court, the Superior Court of Justice or the Superior Electoral
 Court;
-42
- 3.   on the granting of a petition from the Attorney-General of the Republic
-by the Supreme Federal Court, in the case of article 34, VII, and in the case of refusal
-to enforce a federal law;
-4. (Revoked).
-Paragraph 1. The decree of intervention, which shall specify the extent, the period
-and the conditions of enforcement and which, if pertinent, shall appoint the intervenor,
-shall be submitted to the National Congress or the State Legislative Assembly for
-consideration, within twenty-four hours.
+3.   on the granting of a petition from the Attorney-General of the Republic by the Supreme Federal Court, in the case of article 34, VII, and in the case of refusal to enforce a federal law;
+
+Paragraph 1. The decree of intervention, which shall specify the extent, the period and the conditions of enforcement and which, if pertinent, shall appoint the intervenor, shall be submitted to the National Congress or the State Legislative Assembly for consideration, within twenty-four hours.
+
 Paragraph 2. If the National Congress or the Legislative Assembly are not in
 session, a special session shall be called within the same twenty-four hours.
-Paragraph 3. In the case of article 34, VI and VII, or article 35, IV, when the
-consideration by the National Congress or the Legislative Assembly may be waived,
-the decree shall be limited to suspending the enforcement of the impugned act, if such
-measure suffices to restore normality.
-Paragraph 4. Upon cessation of the reasons that caused the intervention, the
-authorities removed from their offices shall return to them, unless there is some legal
-impediment.
-CHAPTER VII
-Public Administration
-SECTION I
-General Provisions
+
+Paragraph 3. In the case of article 34, VI and VII, or article 35, IV, when the consideration by the National Congress or the Legislative Assembly may be waived, the decree shall be limited to suspending the enforcement of the impugned act, if such measure suffices to restore normality.
+
+Paragraph 4. Upon cessation of the reasons that caused the intervention, the authorities removed from their offices shall return to them, unless there is some legal impediment.
+
+
+CHAPTER 7: Public Administration
+
+Section 1: General Provisions
+
 Article 37.  The governmental entities and entities owned by the Government in any
 of the powers of the Union, the states, the Federal District and the Municipalities shall
 obey the principles of lawfulness, impersonality, morality, publicity, and efficiency,
-and also the following: (CA No. 19, 1998; CA No. 20, 1998; CA No. 41, 2003; CA
-No. 42, 2003; CA No. 47, 2005)
-1. public offices, positions and functions are accessible to all Brazilians who
-meet the requirements established by law, as well as to foreigners, under the terms
-of the law;
-2.  investiture in a public office or position depends on previously passing
-an entrance examination consisting of tests or tests and presentation of academic and
-professional credentials, according to the nature and the complexity of the office or
-position, as provided by law, except for appointment to a commission office declared
-by law as being of free appointment and discharge;
-3.   the period of validity of a public entrance examination shall be up to two
-years, extendable once for a like period of time;
-4. during the unextendable period established in the public call notice,
-a person who has passed a public entrance examination of tests, or of tests and
-presentation of academic and professional credentials, shall be called with priority
-over newly approved applicants, to take an office or position in the career;
+and also the following:
 
-435. positions of trust, exercised exclusively by public employees holding an
-effective post, and commission offices, to be exercised by career employees in the
-cases, under the conditions and within the minimum percentages established in law,
-are reserved exclusively for the duties of directors, chiefs of staff, and assistants;
+1. public offices, positions and functions are accessible to all Brazilians who meet the requirements established by law, as well as to foreigners, under the terms of the law;
+2.  investiture in a public office or position depends on previously passing an entrance examination consisting of tests or tests and presentation of academic and professional credentials, according to the nature and the complexity of the office or position, as provided by law, except for appointment to a commission office declared by law as being of free appointment and discharge;
+3.   the period of validity of a public entrance examination shall be up to 2 years, extendable once for a like period of time
+4. during the unextendable period established in the public call notice, a person who has passed a public entra
+nce examination of tests, or of tests and presentation of academic and professional credentials, shall be called with priority over newly approved applicants, to take an office or position in the career
+5. positions of trust, exercised exclusively by public employees holding an effective post, and commission offices, to be exercised by career employees in the cases, under the conditions and within the minimum percentages established in law, are reserved exclusively for the duties of directors, chiefs of staff, and assistants
 6.  the right to free union association is guaranteed to civil servants;
 7.   the right to strike shall be exercised in the manner and within the limits
 defined by a specific law;
@@ -267,7 +241,7 @@ promotion by merit;
 5. for purposes of social security benefits, in the case of leave of absence,
 the amounts shall be established as if he were in activity.
 
-SECTION II: Government Employees
+Section II: Government Employees
 
 Article 39.  The Union, the States, the Federal District and the Municipalities shall
 institute a board of administration policy and personnel remuneration policy, composed
@@ -448,7 +422,7 @@ of employment, until he is adequately placed in another office.
 Paragraph 4. As a requirement to acquire tenure, a special appraisal of performance
 by a committee created for this purpose is mandatory.
 
-SECTION 3: The Military of the States
+Section 3: The Military of the States
 
 Article 42.  The members of the Military Police and of the Military Fire Brigades,
 institutions whose organization is based on hierarchy and discipline, are military of
@@ -459,7 +433,7 @@ Paragraph 2. The provisions that may be established by a specific act of the
 respective state shall apply to the pensioners of the military of the States, of the
 Federal District, and of the Territories.
 
-SECTION 4: The Regions
+Section 4: The Regions
 
 Article 43.  For administrative purposes, the Union may coordinate its action in
 one same social and geoeconomic complex, seeking to attain its development and to

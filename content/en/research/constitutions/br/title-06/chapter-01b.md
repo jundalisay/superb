@@ -1,4 +1,16 @@
-SECTION 2: Limitations on the Power to Tax
+---
+title: "Limitations on the Power to Tax"
+heading: "Chapter 1 Section 2"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
+
 
 Article 150. Without prejudice to any other guarantees ensured to the taxpayers, the Union, the states, the Federal District and the municipalities are forbidden to:
 1. impose or increase a tribute without a law to establish it

@@ -1,8 +1,8 @@
 ---
-title: LEADERSHIP OF PARTY COMMITTEES
+title: Leadership Of Party Committees
 heading: Chapter 10
 date: 2022-01-22
-description: Quotations of Mao
+description: Quotations of Mao Simplified
 image: "/covers/quotations.jpg"
 linkb: "/research/mao/quotations/chapter-09"
 linkbtext: "Chapter 9"
@@ -13,14 +13,22 @@ icon: /icons/mao.png
 ---
 
 
-The Party committee system is an important Party institution for ensuring collective leadership and preventing any individual from monopolizing the conduct of affairs. It has recently been found that in some (of course not all) leading bodies it is the habitual practice for one individual to monopolize the conduct of affairs and decide important problems. 
+The Party committee system is an important Party institution for:
+- ensuring collective leadership
+- preventing any individual from monopolizing the conduct of affairs. 
 
-Solutions to important problems are decided not by Party committee meetings but by one individual, and membership in the Party committee has become nominal. Differences of opinion among committee members cannot be resolved and are left unresolved for a long time. Members of the Party committee maintain only formal, not real, unity among themselves. This situation must be changed. 
+In some leading bodies, one individual usually monopolizes the conduct of affairs and decide important problems.
 
-From now on, a sound system of Party committee meetings must be instituted in all leading bodies, from the regional bureaus of the Central Committee to the prefectural Party committees; from the Party committees of the fronts to
-the Party committees of brigades and military areas (sub-commissions of the
-Revolutionary Military Commission or leading groups); and the leading Party
-members' groups in government bodies, people's organizations the news agency and the newspaper offices. 
+Solutions to important problems are decided not by Party committee meetings but by one individual, and membership in the Party committee has become nominal. 
+
+Differences of opinion among committee members cannot be resolved and are left unresolved for a long time. Members of the Party committee maintain only formal, not real, unity among themselves. This situation must be changed. 
+
+From now on, a sound system of Party committee meetings must be instituted in all leading bodies:
+- from the regional bureaus of the Central Committee to the prefectural Party committees
+- from the Party committees of the fronts to:
+  - the Party committees of brigades and military areas (sub-commissions of the Revolutionary Military Commission or leading groups)
+  - the leading Party members' groups in government bodies
+  - people's organizations the news agency and the newspaper offices. 
 
 All important problems (of course, not the unimportant, trivial problems, or problems whose solutions have already been decided after discussion at meetings and need only be carried out) must be submitted to the committee for discussion, and the committee members present should express their views fully and reach definite decisions which should then be carried out by the members concerned… 
 

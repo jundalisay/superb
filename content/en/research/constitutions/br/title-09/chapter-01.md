@@ -1,9 +1,18 @@
-TITLE 9: General Constitutional Provisions
+---
+title: "General Provisions"
+heading: "Chapter 7"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
 
-Article 234.  It is forbidden for the Union to assume, directly or indirectly, as a result
-of the creation of a state, burdens related to expenses with inactive personnel and
-with charges and repayments of internal or foreign debt of the public administration,
-including those of the indirect administration.
+
+Article 234.  It is forbidden for the Union to assume, directly or indirectly, as a result of the creation of a state, burdens related to expenses with inactive personnel and with charges and repayments of internal or foreign debt of the public administration, including those of the indirect administration.
 
 Article 235. During the first ten years after the creation of a state the following
 basic rules shall be observed:

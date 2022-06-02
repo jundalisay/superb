@@ -6,13 +6,13 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 
 
-SECTION 1 The Public Prosecution
+## Section 1: The Public Prosecution
 
 Article 127.  The Public Prosecution is a permanent institution, essential to the jurisdictional function of the State, and it is its duty to defend the juridical order, the democratic regime and the inalienable social and individual interests.
 

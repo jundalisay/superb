@@ -6,7 +6,7 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br/
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
@@ -42,7 +42,7 @@ Paragraph 4. During his term of office, the President of the Republic may not be
 held liable to acts outside the performance of his functions.
 
 
-## SECTION 4: The Ministers of State
+## Section 4: The Ministers of State
 
 Article 87. The Ministers of State shall be chosen from among Brazilians over 21 years of age and in possession of their political rights. 
 

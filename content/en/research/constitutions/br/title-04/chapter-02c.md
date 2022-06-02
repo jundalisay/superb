@@ -6,13 +6,13 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br/
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 
 
-SUBSECTION I: The Council of the Republic
+SUBSection I: The Council of the Republic
 
 Article 89. The Council of the Republic is a higher body for consultation by the President of the Republic. 
 
@@ -38,7 +38,7 @@ Paragraph 2. The organization and operation of the Council of the Republic shall
 be regulated by law.
 
 
-## SUBSECTION 2: The National Defense Council
+## SUBSection 2: The National Defense Council
 
 Article 91.  The National Defense Council is a consultation body of the President of the Republic on matters related to national sovereignty and the defense of the democratic state, and the following participate in it as natural members:
 1. the Vice-President of the Republic;

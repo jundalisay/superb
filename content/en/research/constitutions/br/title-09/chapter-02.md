@@ -1,4 +1,15 @@
-TEMPORARY CONSTITUTIONAL PROVISIONS ACT
+---
+title: "Temporary Constitutional Provisions Act"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
+
 
 Article 1.  The President of the Republic, the President of the Supreme Federal Court and the members of the National Congress shall take an oath to maintain, defend and comply with the Constitution, upon and on the date of the promulgation thereof.
 
@@ -28,9 +39,7 @@ register with the Electoral Courts after the Constitution is promulgated.
 Paragraph 2. In the absence of a specific legal rule, it shall be incumbent upon
 the Superior Electoral Court to issue the rules required to hold the 1988 elections,
 with due regard for the laws in force.
-5
-Please refer to CA no. 2/1992.
-Temporary Constitutional Provisions Act
+
 163Paragraph 3. Present Federal Congressmen and State Representatives elected
 for the office of Vice-Mayor, if called to exercise the office of Mayor, shall not lose
 their parliamentary office.
@@ -56,9 +65,11 @@ its formation.
 Paragraph 2. The new party shall automatically lose its provisional registration
 if, within twenty-four months of its formation, it fails to obtain the final registration
 at the Superior Electoral Court, as established by law.
+
 Article 7.
-rights.
-Brazil shall strive for the creation of an international court of human
+
+Brazil shall strive for the creation of an international court of human rights.
+
 Article 8.  Amnesty is granted to those who, during the period from September 18,
 1946, to the date the Constitution is promulgated, have been affected, exclusively
 for political reasons, by institutional or supplementary acts of exception, to those
@@ -69,24 +80,15 @@ they were in active service, with due regard for the periods of continuous activ
 forth in laws and regulations in force, respecting the characteristics and peculiarities
 of the careers of civil and military public servants and complying with the respective
 legal regimes.
-Paragraph 1. The provisions of this article shall only generate financial effects
-as from the promulgation of the Constitution, any kind of retroactive compensation
-being forbidden.
-Paragraph 2. The benefits established in this article are ensured to workers of the
-private sector, union officers and representatives who, for exclusively political reasons,
-164
-  have been punished, dismissed or compelled to leave the remunerated activities they had
-been performing, as well as to those who have been prevented from performing their
-professional activities by virtue of ostensive pressures or secret official procedures.
-Paragraph 3. Reparation of economic nature shall be granted, as set forth by a
-law to be proposed by the National Congress and to become effective within twelve
-months counted from the promulgation of the Constitution, to citizens who were
-prevented from performing, as civilians, a specific professional activity by virtue
-of Reserved Ordinances of the Ministry of the Air Force no. S-50-GM5 of June 19,
-1964, and no. S-285-GM5.
-Paragraph 4. To those who, by virtue of institutional acts, have gratuitously
-exercised elective offices of city councilmen, the respective periods shall be computed
-for purposes of social security and retirement from civil service.
+
+Paragraph 1. The provisions of this article shall only generate financial effects as from the promulgation of the Constitution, any kind of retroactive compensation being forbidden.
+
+Paragraph 2. The benefits established in this article are ensured to workers of the private sector, union officers and representatives who, for exclusively political reasons, have been punished, dismissed or compelled to leave the remunerated activities they had been performing, as well as to those who have been prevented from performing their professional activities by virtue of ostensive pressures or secret official procedures.
+
+Paragraph 3. Reparation of economic nature shall be granted, as set forth by a law to be proposed by the National Congress and to become effective within twelve months counted from the promulgation of the Constitution, to citizens who were prevented from performing, as civilians, a specific professional activity by virtue of Reserved Ordinances of the Ministry of the Air Force 
+
+Paragraph 4. To those who, by virtue of institutional acts, have gratuitously exercised elective offices of city councilmen, the respective periods shall be computed for purposes of social security and retirement from civil service.
+
 Paragraph 5. The amnesty granted under this article applies to civil servants and
 to employees at all levels of government or at its foundations, state-owned companies
 or mixed-capital companies under state control, except in the military Ministries, who
@@ -101,8 +103,8 @@ to acknowledge the rights and advantages interrupted by the punitive acts, provi
 that they prove that such acts were marked by gross flaws.
 The Supreme Federal Court shall pronounce its decision within
 one hundred and twenty days as from the request of the interested party.
-Article 10. Until the supplementary law referred to in article 7, I, of the Constitution
-is promulgated:
+
+Article 10. Until the supplementary law referred to in article 7, I, of the Constitution is promulgated:
 1. the protection referred to therein is limited to the increase, to four times,
 of the percentage set forth in article 6, head paragraph and paragraph 1, of the Law
 no. 5,107 6 of September 13, 1966;
@@ -141,28 +143,32 @@ Paragraph 1. Within one year the Committee shall submit the results of its studi
 to the National Congress so that, in accordance with the Constitution, such studies may
 be examined during the twelve subsequent months, the committee being dissolved
 shortly thereafter.
+
 Paragraph 2. The states and the municipalities shall, within three years of the
 promulgation of the Constitution, provide, by agreement or adjustment, for the
 demarcation of their borders presently in litigation, and they may for such purpose
 effect area alterations and compensations which allow for natural features, historical
 criteria, administrative ease and convenience of the bordering populations.
+
 Paragraph 3. At the request of the interested states and municipalities, the Union
 may undertake the demarcation work.
+
 Paragraph 4. If, three years after the promulgation of the Constitution, the
 demarcation work has not been completed, the Union shall determine the borders of
 the areas under litigation.
+
 Paragraph 5. The present borders of the state of Acre with the states of Amazonas
 and Rondonia are hereby recognized and ratified according to cartographic and
 geodesic surveys conducted by the Tripartite Committee formed by representatives
 of the states and of the specialized technical services of the Brazilian Institute of
 Geography and Statistics.
+
 Article 13.  The state of Tocantins is created by separation of the area described
 in this article and its installation shall occur on the forty-sixth day after the election
 provided for in paragraph 3, but not before January 1, 1989.
-7
-Article 233 was revoked by CA no. 28/2000.
-166
-  Paragraph 1. The state of Tocantins is part of the Northern Region and borders
+
+
+Paragraph 1. The state of Tocantins is part of the Northern Region and borders
 with the state of Goiás along the northern boundaries of the municipalities of São
 Miguel do Araguaia, Porangatu, Formoso, Minaçu, Cavalcante, Monte Alegre de Goiás
 and Campos Belos, maintaining the present eastern, northern and western borders of

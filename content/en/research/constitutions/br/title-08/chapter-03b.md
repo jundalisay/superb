@@ -12,7 +12,7 @@ icon: "/flags/br.png"
 ---
 
 
-SECTION 2: Culture
+Section 2: Culture
 
 Article 215.  The state shall ensure to all the full exercise of the cultural rights and
 access to the sources of national culture and shall support and foster the appreciation
@@ -63,7 +63,7 @@ the payment of the following items being forbidden:
 3.   any other current expense not directly related to the investments or actions
 supported by said programs.
 
-SECTION 3: Sports
+Section 3: Sports
 
 Article 217.  It is the duty of the State to foster the practice of formal and informal sports, as a right of each individual, with due regard for:
 

@@ -1,4 +1,16 @@
-## CHAPTER 2: Urban Policy
+---
+title: "Urban Policy"
+heading: "Chapter 2"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
+
 
 Article 182.  The urban development policy carried out by the municipal government, according to general guidelines set forth in the law, is aimed at ordaining the full development of the social functions of the city and ensuring the well-being of its inhabitants.
 
@@ -22,4 +34,3 @@ Paragraph 1. The deed of domain and concession of use shall be granted to the ma
 Paragraph 2. This right shall not be recognized for the same holder more than once.
 
 Paragraph 3. Public real estate shall not be acquired by prescription.
-

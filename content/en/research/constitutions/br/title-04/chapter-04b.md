@@ -6,17 +6,14 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br/title-04
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 
 Article 131.  The Advocacy-General of the Union is the institution which, either directly or through a subordinated agency, represents the Union judicially or extrajudicially, and it is responsible, under the terms of the supplementary law which provides for its organization and operation, for the activities of judicial consultation and assistance to the Executive Power.
 
-Paragraph 1. The Advocacy-General of the Union is headed by the Advocate-
-General of the Union, freely appointed by the President of the Republic from among
-citizens over thirty-five years of age, of notable juridical learning and spotless
-reputation.
+Paragraph 1. The Advocacy-General of the Union is headed by the Advocate-General of the Union, freely appointed by the President of the Republic from among citizens over thirty-five years of age, of notable juridical learning and spotless reputation.
 
 Paragraph 2. Admission into the initial classes of the careers of the institution dealt
 with in this article shall take place by means of a civil service entrance examination
@@ -36,7 +33,7 @@ tenure after three years of effective exercise, by means of a performance apprai
 carried out by the relevant agencies, following a detailed report issued by the
 corregidors.
 
-## SECTION 3: The Legal Profession and the Public Legal Defense
+## Section 3: The Legal Profession and the Public Legal Defense
 
 Article 133. The lawyer is indispensable to the administration of justice and is inviolable for his acts or manifestations in the exercise of his profession, within the limits of the law.
 

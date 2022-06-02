@@ -1,13 +1,26 @@
-CHAPTER III
-Education, Culture and Sports
-SECTION I
-Education
+---
+title: "Education, Culture and Sports"
+heading: "Chapter 3"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
+
+
+Section 1: Education
+
 Article 205.  Education, which is the right of all and duty of the State and of the
 family, shall be promoted and fostered with the cooperation of society, with a view
 to the full development of the person, his preparation for the exercise of citizenship
 and his qualification for work.
+
 Article 206. Education shall be provided on the basis of the following principles:
-(CA No. 53, 2006)
+
 1. equal conditions of access and permanence in school;
 2.  freedom to learn, teach, research and express thought, art and knowledge;
 3.   pluralism of pedagogic ideas and conceptions and coexistence of public
@@ -92,24 +105,15 @@ Paragraph 6. State and municipal quotas of the proceeds from the collection of t
 
 Article 213.  Public funds shall be allocated to public schools, and may be channelled
 to community, religious or philantropic schools, as defined by law, which:
-1. prove that they do not seek profit and that they apply their surplus funds
-in education;
-2.  ensure that their assets shall be assigned to another community, religious
-or philantropic schools, or to the Government in case they cease their activities.
-Paragraph 1. The funds provided by this article may be allocated to elementary and
-secondary school scholarships, as provided by law, for those who prove insufficiency
-of means, when there are no vacancies or no regular courses are offered in the public
-school system of the place where the student lives, the Government being placed
-under the obligation to invest, on a priority basis, in the expansion of the public
-system of the locality.
-Paragraph 2. Research and extension activities at university level may receive
-financial support from the Government.
-Article 214.  The law shall establish a ten-year national education plan, with a
-view to organizing the national education system with the cooperation of states and
-municipalities, as well as to defining implementation directives, objectives, targets,
-and strategies so as to ensure maintenance and development of teaching, at its various
-levels, grades, and modalities, by means of integrated federal, state, and municipal
-government actions leading to: (CA No. 59, 2009)
+1. prove that they do not seek profit and that they apply their surplus funds in education
+2.  ensure that their assets shall be assigned to another community, religious or philantropic schools, or to the Government in case they cease their activities.
+
+Paragraph 1. The funds provided by this article may be allocated to elementary and secondary school scholarships, as provided by law, for those who prove insufficiency of means, when there are no vacancies or no regular courses are offered in the public school system of the place where the student lives, the Government being placed under the obligation to invest, on a priority basis, in the expansion of the public system of the locality.
+
+Paragraph 2. Research and extension activities at university level may receive financial support from the Government.
+
+Article 214.  The law shall establish a ten-year national education plan, with a view to organizing the national education system with the cooperation of states and municipalities, as well as to defining implementation directives, objectives, targets, and strategies so as to ensure maintenance and development of teaching, at its various levels, grades, and modalities, by means of integrated federal, state, and municipal government actions leading to:
+
 1. eradication of illiteracy;
 2.  universalization of school assistance;
 3.   improvement of the quality of education;

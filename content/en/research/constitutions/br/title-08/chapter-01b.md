@@ -1,4 +1,16 @@
-SECTION 2: Health
+---
+title: "Health"
+heading: "Chapter 1 Section 2"
+date: 2021-11-20
+image: "/flags/br.png"
+description: ""
+linkb: /research/constitutions/br/title-05
+linkbtext: "Title 5"
+linkf: /research/constitutions/br/title-05
+linkftext: "Title 5"
+icon: "/flags/br.png"
+---
+
 
 Article 196.  Health is a right of all and a duty of the State and shall be guaranteed by means of social and economic policies aimed at reducing the risk of illness and other hazards and at the universal and equal access to actions and services for its promotion, protection and recovery.
 

@@ -1,5 +1,5 @@
 ---
-title: CORRECTING MISTAKEN IDEAS
+title: Correcting Mistaken Ideas
 heading: Chapter 24
 date: 2022-01-12
 description: Quotations of Mao

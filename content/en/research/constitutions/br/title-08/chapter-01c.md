@@ -12,7 +12,7 @@ icon: "/flags/br.png"
 ---
 
 
-SECTION 3: Social Security
+Section 3: Social Security
 
 Article 201. The social security system shall be organized as a general scheme,
 of a contributory basis and mandatory participation, with due regard for criteria that
@@ -106,7 +106,7 @@ private pension plan companies, and shall regulate the inclusion of participants
 the collegiate bodies and decision-making bodies in which their interests are subject
 to discussion and decision.
 
-SECTION 4: Social Assistance
+Section 4: Social Assistance
 
 Article 203.  Social assistance shall be rendered to whomever may need it, regardless of contribution to social welfare and shall have as objectives: 
 1. the protection of the family, maternity, childhood, adolescence and old age

@@ -11,7 +11,7 @@ linkftext: "Chapter 1e"
 icon: "/flags/br.png"
 ---
 
-SUBSECTION I: General Provision
+SUBSection I: General Provision
 
 Article 59. The legislative process comprises the preparation of:
 1. amendments to the Constitution;
@@ -24,7 +24,7 @@ Article 59. The legislative process comprises the preparation of:
 
 A supplementary law shall provide for the preparation, drafting, amendment and consolidation of laws.
 
-SUBSECTION 2: Amendments to the Constitution
+SUBSection 2: Amendments to the Constitution
 
 Article 60. The Constitution may be amended on the proposal of:
 1. at least one-third of the members of the Chamber of Deputies or of the
@@ -47,7 +47,7 @@ Paragraph 5. The matter dealt with in a proposal of amendment that is rejected
 or considered impaired shall not be the subject of another proposal in the same
 legislative session.
 
-SUBSECTION 3: The Laws
+SUBSection 3: The Laws
 
 Article 61.  The initiative of supplementary and ordinary laws is within the competence of any member or committee of the Chamber of Deputies and the Federal Senate or the National Congress, the President of the Republic, the Supreme Federal Court, the Superior Courts, the Attorney-General of the Republic and the citizens, in the manner and in the cases provided for in this Constitution. 
 

@@ -1,13 +1,13 @@
 ---
-title: INVESTIGATION AND STUDY
+title: Investigation And Study
 heading: Chapter 23
 date: 2022-01-13
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-30"
-linkbtext: "Chapter 30"
-linkf: "/research/mao/quotations/chapter-31"
-linkftext: "Chapter 31"
+linkb: "/research/mao/quotations/chapter-22"
+linkbtext: "Chapter 22"
+linkf: "/research/mao/quotations/chapter-24"
+linkftext: "Chapter 24"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
@@ -27,12 +27,12 @@ he rightly adds that "practice gropes in the dark if its path is not illumined b
 revolutionary theory". Nobody should be labelled a "narrow empiricist"
 except the "practical man" who gropes in the dark and lacks perspective and
 foresight.
+
+
 "Preface and Postscript to Rural Surveys" (March and April 1941), Selected Works,
 Vol. III, p. 13.*
 
-To take such an attitude is to seek truth from facts. "Facts" are all the things
-that exist objectively, "truth" means their internal relations, that is, the laws
-governing them, and "to seek" means to study. We should proceed from the
+To take such an attitude is to seek truth from facts. "Facts" are all the things that exist objectively, "truth" means their internal relations, that is, the laws governing them, and "to seek" means to study. We should proceed from the
 actual conditions inside and outside the country, the province, county or
 district, and derive from them, as our guide to action, laws which are inherent
 in them and not imaginary, that is, we should find the internal relations of the
@@ -84,21 +84,16 @@ Therefore one certainly cannot make an investigation, or do it well, without
 zeal, a determination to direct one's eyes downward and a thirst for
 knowledge, and without shedding the ugly mantle of pretentiousness and
 becoming a willing pupil.
-Ibid., p. 12.
-A commander's correct dispositions stem from his correct decisions, his
-correct decisions stem from his correct judgements, and his correct
-judgements stem from a thorough and necessary reconnaissance and from
-pondering on and piecing together the data of various kinds gathered through
-reconnaissance. He applies all possible and necessary methods of
-reconnaissance, and ponders on the information gathered about the enemy's
-situation, discarding the dross and selecting the essential, eliminating the
-false and retaining the true, proceeding from the one to the other and from the
-outside to the inside; then, he takes the conditions on his own side into
-account, and makes a study of both sides and their interrelations, thereby
-forming his judgements, making up his mind and working out his plans. Such
-is the complete process of knowing a situation which a military man goes
-through before he formulates a strategic plan, a campaign plan or a battle
-plan.
-"Problems of Strategy in China 's Revolutionary War" (December 1936), Selected
-Works, Vol. I. p. 188.
+
+
+
+A commander's correct dispositions stem from his correct decisions, his correct decisions stem from his correct judgements, and his correct judgements stem from a thorough and necessary reconnaissance and from pondering on and piecing together the data of various kinds gathered through
+reconnaissance. 
+
+He applies all possible and necessary methods of reconnaissance, and ponders on the information gathered about the enemy's situation, discarding the dross and selecting the essential, eliminating the false and retaining the true, proceeding from the one to the other and from the
+outside to the inside; then, he takes the conditions on his own side into account, and makes a study of both sides and their interrelations, thereby forming his judgements, making up his mind and working out his plans. 
+
+Such is the complete process of knowing a situation which a military man goes through before he formulates a strategic plan, a campaign plan or a battle plan.
+
+"Problems of Strategy in China 's Revolutionary War" (December 1936), Selected Works, Vol. I. p. 188.
 

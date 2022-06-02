@@ -102,11 +102,10 @@ go out to face the world and brave the storm, what good will they be to the
 Chinese people? None at all, and we do not need such people as Party
 members. We Communists ought to face the world and brave the storm the
 great world of mass struggle and the mighty storm of mass struggle.
+
 "Get Organized!" (November 29, 1943), Selected Works, Vol. III, p. 158.
-The exemplary vanguard role of the Communists is of vital importance.
-Communists in the Eighth Route and New Fourth Armies should set an
-example in fighting bravely, carrying out orders, observing discipline, doing
-political work and fostering internal unity and solidarity.
+
+The exemplary vanguard role of the Communists is of vital importance. Communists in the Eighth Route and New Fourth Armies should set an example in fighting bravely, carrying out orders, observing discipline, doing political work and fostering internal unity and solidarity.
 
 {{< cite >}}
 "The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 197.*
@@ -191,13 +190,15 @@ Such cadres and leaders must be free from selfishness, from individualistic hero
 Cadres are a decisive factor, once the political line is determined. 
 
 Therefore, it is our fighting task to train large numbers of new cadres in a planned way.
-"The Role of the Chinese Communist Party in the National War" (October 1938),
-Selected Works, Vol. II, p. 202.
+
+
+"The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 202.
+
+
 The criterion the Communist Party should apply in its cadres policy is
 whether or not a cadre is resolute in carrying out the Party line, keeps to Party
 discipline, has close ties with the masses, has the ability to find his bearings
-independently, and is active, hardworking and unselfish. This is what
-"appointing people on their merit" means.
+independently, and is active, hardworking and unselfish. This is what "appointing people on their merit" means.
 
 It is necessary to maintain the system of cadre participation in collective productive labour. The cadres of our Party and state are ordinary workers and not overlords sitting on the backs of the people. By taking part in collective productive labour, the cadres maintain extensive, constant and close ties with the working people. This is a major measure of fundamental importance for a socialist system; it helps to overcome bureaucracy and to prevent revisionism
 and dogmatism.
@@ -209,15 +210,15 @@ Quoted in On Khrushchov's Phoney Communism and Its Historical Lessons for the Wo
 We must know how to judge cadres. We must not confine our judgement to a
 short period or a single incident in a cadre's life, but should consider his life
 and work as a whole. This is the principal method of judging cadres.
-"The Role of the Chinese Communist Party in the National War" (October 1938),
-Selected Works, Vol. II, p. 202.
 
-We must, know how to use cadres well. In the final analysis, leadership
-involves two main responsibilities: to work out ideas, and to use cadres well.
-Such things as drawing up plans, making decisions, and giving orders and
-directives, are all in the category of "working out ideas". To put the ideas into
-practice, we must weld the cadres together and encourage them to go into
-action; this comes into the category of "using the cadres well".
+{{< cite >}}
+"The Role of the Chinese Communist Party in the National War" (October 1938), Selected Works, Vol. II, p. 202.
+{{< /cite >}}
+
+
+We must, know how to use cadres well. In the final analysis, leadership involves two main responsibilities: to work out ideas, and to use cadres well. 
+
+Such things as drawing up plans, making decisions, and giving orders and directives, are all in the category of "working out ideas". To put the ideas into practice, we must weld the cadres together and encourage them to go into action; this comes into the category of "using the cadres well".
 
 There are several ways to take good care of cadres:
 

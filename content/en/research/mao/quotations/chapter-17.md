@@ -1,5 +1,5 @@
 ---
-title: SERVING THE PEOPLE
+title: Serving The People
 heading: Chapter 17
 date: 2022-01-17
 description: Quotations of Mao

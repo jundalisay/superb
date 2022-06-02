@@ -11,7 +11,7 @@ linkftext: "Chapter 1b"
 icon: "/flags/br.png"
 ---
 
-## SECTION I The National Congress
+## Section I The National Congress
 
 Article 44.  The Legislative Power is exercised by the National Congress, composed of:
 - the Chamber of Deputies
@@ -38,7 +38,7 @@ Article 47.  Except where there is a constitutional provision to the contrary, t
 
 
 
-## SECTION 2: Powers of the National Congress
+## Section 2: Powers of the National Congress
 
 Article 48.  The National Congress shall have the power, with the sanction of the President of the Republic, which shall not be required for the matters specified in articles 49, 51 and 52, to provide for all the matters within the competence of the Union and especially on:
 
@@ -91,7 +91,7 @@ Paragraph 1. The Ministers of State may attend the Federal Senate, the Chamber o
 Paragraph 2. The Directing Boards of the Chamber of Deputies and of the Federal Senate may forward to the Ministers of State, or any of the persons mentioned in the head paragraph of this article, written requests for information, and refusal or non-compliance, within a period of thirty days, as well as the rendering of false information, shall constitute a crime of malversation.
 
 
-## SECTION 3: The Chamber of Deputies
+## Section 3: The Chamber of Deputies
 
 Article 51. The Chamber of Deputies shall:
 

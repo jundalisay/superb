@@ -6,13 +6,13 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br/
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 
 
-SECTION 6: Electoral Courts and Judges
+Section 6: Electoral Courts and Judges
 
 Article 118. The following are the bodies of Electoral Justice:
 1. the Superior Electoral Court;
@@ -81,7 +81,7 @@ The civil justices shall be chosen by the President of the Republic from among B
 Article 124.  The Military Courts have the competence to carry out legal proceeding and trial of the military crimes defined by law. The law shall make provisions for the organization, operation
 and competence of the Military Courts.
 
-SECTION 8: Courts and Judges of the States
+Section 8: Courts and Judges of the States
 
 Article 125. The states shall organize their judicial system, observing the principles
 established in this Constitution. (CA No. 45, 2004)

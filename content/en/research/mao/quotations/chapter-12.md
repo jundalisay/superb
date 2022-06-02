@@ -1,5 +1,5 @@
 ---
-title: POLITICAL WORK
+title: Political Work
 heading: Chapter 12
 date: 2022-01-20
 description: Quotations of Mao
@@ -15,20 +15,30 @@ icon: /icons/mao.png
 
 The system of Party representatives and of political departments, adopted for the first time in China, entirely changed the complexion of these armed forces. [1] The Red Army, which was founded in 1927, and the Eighth Route Army of today have inherited this system and developed it.
 
-"Interview with the British Journalist James Bertram" (October 25, 1937), Selected Works, Vol. II, p. 54.
+{{< cite >}}
+"Interview with the British Journalist James Bertram" (October 25, 1937), Selected Works, Vol. II, p. 54
+{{< /cite >}}
 
 The People's Liberation Army has developed its vigorous revolutionary political work, which is an important factor in winning victory over the enemy, on the basis of a people's war and of the principles of unity between army and people, of unity between commanders and fighters and of
 disintegrating the enemy troops.
 
-"The Present Situation and Our Tasks" (December 25, 1947), Selected Military
-Writings, 2nd ed., p. 350.
+{{< cite >}}
+"The Present Situation and Our Tasks" (December 25, 1947), Selected Military Writings, 2nd ed., p. 350.
+{{< /cite >}}
 
 This army has built up a system of political work which is essential for the people's war and is aimed at promoting unity in its own ranks, unity with the friendly armies and unity with the people, and at disintegrating the enemy forces and ensuring victory in battle.
 
-"On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 265.* Political work is the life-blood of all economic work. This is particularly true at a time when the social and economic system is undergoing fundamental change.
 
-Introductory note to "A Serious Lesson" (1955), The Socialist Upsurge in China's
-Countryside, Chinese ed., Vol. I.
+{{< cite >}}
+"On Coalition Government" (April 24, 1945), Selected Works, Vol. III, p. 265.* 
+{{< /cite >}}
+
+Political work is the life-blood of all economic work. This is particularly true at a time when the social and economic system is undergoing fundamental change.
+
+{{< cite >}}
+Introductory note to "A Serious Lesson" (1955), The Socialist Upsurge in China's Countryside, Chinese ed., Vol. I.
+{{< /cite >}}
+
 
 "The Party branch is organized on a company basis"; this is an important
 reason why the Red Army has been able to carry on such arduous fighting

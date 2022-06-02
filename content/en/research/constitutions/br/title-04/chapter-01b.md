@@ -6,7 +6,7 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
@@ -48,7 +48,7 @@ article 89, VII.
 In the cases provided for in items I and II, the Chief Justice of the Supreme Federal Court shall act as President and the sentence, which may only be issued by two-thirds of the votes of the Federal Senate, shall be limited to the loss of office with disqualification to hold any public office for a period of eight years, without prejudice to other applicable judicial sanctions.
 
 
-## SECTION 5: Deputies and Senators
+## Section 5: Deputies and Senators
 
 Article 53. Deputies and Senators enjoy civil and criminal inviolability on account
 of any of their opinions, words and votes.

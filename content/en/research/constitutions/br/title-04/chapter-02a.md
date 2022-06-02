@@ -6,7 +6,7 @@ image: "/flags/br.png"
 description: ""
 linkb: /research/constitutions/br
 linkbtext: "Brazil"
-linkf: /research/constitutions/br/chapter-2
+klinkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
@@ -45,7 +45,7 @@ Article 82. The term of office of the President of the Republic is four years, a
 
 Article 83.  The President and the Vice-President of the Republic may not, without authorization from the National Congress, leave the country for a period of more than fifteen days, subject to loss of office.
 
-## SECTION 2: Duties of the President
+## Section 2: Duties of the President
 
 Article 84. The President of the Republic shall:
 1. appoint and dismiss the Ministers of State
