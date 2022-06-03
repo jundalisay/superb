@@ -3,17 +3,16 @@ title: "Pandemic and All-Hazards Preparedness Act"
 description: "Miriam Defensor Santiago wrote the Pandemic Bill way before the pandemic struck the Philippines"
 date: 2020-07-10
 image: https://sorasystem.sirv.com/photos/sick.jpg
-btext: Could it work?
 linkb: "/maharlika/laws"
 linkbtext: "Index"
 linkf: "/maharlika/laws"
 linkftext: "Index"
+aliases:
+  "/maharlika/governance/pandemic-bill"
 ---
 
 
-16th Congress 
-First Regular Session ) Senate S.no. 1573 "13 Sep -5 P5 
-by Senator Miriam Defensor Santiago 
+*16th Congress  First Regular Session ) Senate S.no. 1573 by Senator Miriam Defensor Santiago *
 
 
 ## An Act Strengthening National Preparedness And Response To Public Health Emergencies
@@ -61,7 +60,7 @@ As of 15 April 2005, 88 confirmed human cases of this specific  avian influenza 
 
 Of these cases, 68 were in Vietnam, e 17 in Thailand, and three in Cambodia. On 23 February 2005, Dr.  Shigeru Omi, Asia regional  director of the World Health Organization (WHO), stated with respect to the avian flu, “We at WHO believe that the world  is now in the gravest possible danger of a pandemic.” 
 
-The best defense against influenza pandemics is a heightened global  surveillance system. In many of the  nations  where the H5N1 avian flu has become  endemic,  the early  detection capabilities and the transparency in health systems are severely lacking. * In addition to surveillance, pandemic preparedness requires  domestic  and international coordination and cooperation to ensure an adequate medical response, including communication and information  networks,  public health  measures  to  prevent spread,  use of vaccination and antivirals,  provision of health  outpatient  and  inpatient  services, and maintenance of core  public functions. . " . 
+The best defense against influenza pandemics is a heightened global  surveillance system. In many of the  nations  where the H5N1 avian flu has become  endemic,  the early  detection capabilities and the transparency in health systems are severely lacking. * In addition to surveillance, pandemic preparedness requires  domestic  and international coordination and cooperation to ensure an adequate medical response, including communication and information  networks,  public health  measures  to  prevent spread,  use of vaccination and antivirals,  provision of health  outpatient  and  inpatient  services, and maintenance of core  public functions.
 
 
 ## Pandemic Influenza Preparedness Act of 2005
@@ -70,37 +69,41 @@ The best defense against influenza pandemics is a heightened global  surveillanc
 
 Introduced by Senator Miriam Defensor Santiago AN ACT TO PROVIDE FOR PANDEMIC INFLUENZA PREPAREDNESS AND TO ESTABLISH A POLICY COORDINATING COMMITTEE ON PANDEMIC INFLUENZA PREPAREDNESS Section 
 
-2. Dejinition
+2. Definition
 
-(A) Pandemic Influenza - means a widespread epidemic of influenza illness over a particular location. (B) Secretary - refers to the Secretary of the Department of Health 
+- (A) Pandemic Influenza - means a widespread epidemic of influenza illness over a particular location. 
 
-(C) DOH - refers to the Department of Health. 
+- (B) Secretary - refers to the Secretary of the Department of Health 
 
-(D) DA - refers to the Department of Agriculture. 
+- (C) DOH - refers to the Department of Health. 
 
-(E) DILG - refers to the Department of Interior and Local Government. 
+- (D) DA - refers to the Department of Agriculture. 
 
-(F)  DTI -refers to the Department of Trade and Industry. 
+- (E) DILG - refers to the Department of Interior and Local Government. 
 
-(G) DOTC -refers to the Department of Transportation and Communication ., 
+- (F)  DTI -refers to the Department of Trade and Industry. 
+
+- (G) DOTC -refers to the Department of Transportation and Communication ., 
 
 
 3. Policy Coordinating Committee on Pandemic Influenza Preparedness. - 
 
-(A) In General. - There is hereby established the Pandemic Influenza Preparedness Policy Coordinating Committee. 
+- (A) In General. - There is hereby established the Pandemic Influenza Preparedness Policy Coordinating Committee. 
 
-(B) Membership. - 
+- (B) Membership. - 
 
 (1) In General. - The Committee shall be composed of - (a) the Secretary; (b) the Secretary of DA; 
 (c) the Secretary of DILG; (d) the Secretary of DTI; (e) the Secretary of DOTC; and (f) other representatives as determined appropriate by the Co-Chairs . of the Committee. 
 
 (2) Co-Chairs. - The Secretary and the Secretary of DA shall serve as the Co-Chairs of the Committee. (3) Term. - The members of the  Committee shall serve for the  life of the Committee. 
 
-(C) Meetings. - (1) In GeneraZ. -The Committee shall meet not less than two (2) times each year at the call of the Co-Chairs or as determined necessay by the President. (2) Representation. - A member of the  Committee under  subsection (B) may designate a  representative to participate in  Committee meetings, but  such representative shall hold the position of at least an assistant secretary or equivalent position. 
+- (C) Meetings
 
-(D) Duties of the Committee
+(1) In GeneraZ. -The Committee shall meet not less than two (2) times each year at the call of the Co-Chairs or as determined necessay by the President. (2) Representation. - A member of the  Committee under  subsection (B) may designate a  representative to participate in  Committee meetings, but  such representative shall hold the position of at least an assistant secretary or equivalent position. 
 
-(I) Preparedness Plans. - Each member of the Committee shall submit to the Committee a pandemic influenza preparedness plan for the agency involved that describes - (a) initiatives  and  proposals by such member to address pandemic- influenza (including avian influenza) preparedness; and (b)  any activity in coordination with international entities related to such initiatives and proposals. (2) Interagency Plan And Recommendations. - (a) In General. - 
+- (D) Duties of the Committee
+
+- (E) Preparedness Plans. - Each member of the Committee shall submit to the Committee a pandemic influenza preparedness plan for the agency involved that describes - (a) initiatives  and  proposals by such member to address pandemic- influenza (including avian influenza) preparedness; and (b)  any activity in coordination with international entities related to such initiatives and proposals. (2) Interagency Plan And Recommendations. - (a) In General. - 
 
 
 (i) Preparedness Plan. - Based  on the preparedness  plans described under  paragraph (l), and not later than  ninety (90) days after the date of  enactment of the Pandemic Influenza Preparedness Act of 2005, the Committee   shall   develop an Interagency Preparedness Plan that integrates and coordinates such preparedness plans. 
@@ -109,17 +112,33 @@ Introduced by Senator Miriam Defensor Santiago AN ACT TO PROVIDE FOR PANDEMIC IN
 
 The  Interagency Preparedness  Plan under clause (i) shall include a description of - 
 
-(I) departmental or agency responsibility and accountability for each component of such plan; 
+1. departmental or agency responsibility and accountability for each component of such plan; 
+2. funding reqnirements and sources; 
+3. international collaboration and coordination efforts
+4. recommendations and a timeline for implementation of such plan. 
 
-(11) funding reqnirements and sources; (111) international   collaboration and coordination efforts; and (IV) recommendations and a timeline for implementation of such plan. (b) Report. - (i) In General. -The Committee shall submit to the President and  Congress, and make available  to the public, a report  that includes the Interagency Preparedness Plan. (ii) Updated Report. - The  Committee  shall  submit  to  the President and Congress,  and  make available  to  the  public, on a biannual basis, an update of the report that includes a description of- (I) progress  made toward  plan  implementation, as described under clause (i); and (11) progress of the national preparedness programs. (c) Consultation  With International  Entities. - In   developing the preparedness plans described  under subparagraph (a)  and  the report  under * ~ 
-. subparagraph (b), the Committee  may consult with representatives from the World Health Organization, the World Organization for Animal Health, and other international bodies, as appropriate. 
+(b) Report. - 
+
+(i) In General. -The Committee shall submit to the President and  Congress, and make available  to the public, a report  that includes the Interagency Preparedness Plan. 
+
+(ii) Updated Report. - The  Committee  shall  submit  to  the President and Congress,  and  make available  to  the  public, on a biannual basis, an update of the report that includes a description of- 
+
+(I) progress  made toward  plan  implementation, as described under clause (i); and (ii) progress of the national preparedness programs. 
+
+(c) Consultation  With International  Entities. - In   developing the preparedness plans described  under subparagraph (a)  and  the report  under subparagraph (b), the Committee  may consult with representatives from the World Health Organization, the World Organization for Animal Health, and other international bodies, as appropriate. 
 
 
 4. Public Education and Awareness Campaign
 
 (A) In General
 
-The Secretary, in consultation with the Director of the National Center for  Disease  Prevention and  Control and the Philippine  Information Agency,  shall develop an outreach campaign with respect to public education and awareness of influenza and influenza preparedness. (B) Details of Campaign. -The campaign established under subsection (A) shall - (1) be culturally and linguistically appropriate for domestic populations; (2) target high-risk populations  (those most likely to contract, transmit, and die from influenza); (3) promote personal influenza precautionary measures and knowledge, and n the need for general vaccination, as appropriate; and (4) describe precautions at the national and local level  that could be implemented during pandemic influenza, including quarantine and other measures. 
+The Secretary, in consultation with the Director of the National Center for  Disease  Prevention and  Control and the Philippine  Information Agency,  shall develop an outreach campaign with respect to public education and awareness of influenza and influenza preparedness. 
+
+(B) Details of Campaign. -The campaign established under subsection (A) shall - 
+
+- (1) be culturally and linguistically appropriate for domestic populations; 
+- (2) target high-risk populations  (those most likely to contract, transmit, and die from influenza); 
+- (3) promote personal influenza precautionary measures and knowledge, and n the need for general vaccination, as appropriate; and (4) describe precautions at the national and local level  that could be implemented during pandemic influenza, including quarantine and other measures. 
 
 
 5. Health  Professional  Training
@@ -144,6 +163,8 @@ If  any provision, or part  hereof,  is declared invalid or unconstitutional, th
 
 8. Repealing Clause
 
-Any law, presidential decree  or issuance, executive order, letter of instruction, administrative order, rule or regulation  contrary to or inconsistent with, the provisions of this Act, are hereby modified, repealed, or amended accordingly. Section 9. Ufecectivity Clause. - 
+Any law, presidential decree  or issuance, executive order, letter of instruction, administrative order, rule or regulation  contrary to or inconsistent with, the provisions of this Act, are hereby modified, repealed, or amended accordingly. 
 
-This Act  shall take  effect fifteen (15) days after its publication in at least two (2) newspapers of general circulation
+9. Ufecectivity Clause.
+
+This Act shall take  effect 15 days after its publication in at least 2 newspapers of general circulation

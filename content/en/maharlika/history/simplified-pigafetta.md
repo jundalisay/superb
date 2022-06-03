@@ -3,8 +3,6 @@ title: "Simplified Pigafetta 1519-1521"
 date: 2020-07-10
 image: /photos/medieval/magellan.jpg
 description: "We simplify Pigafetta's accounts to make historical facts easier to understand"
-#image: "https://res.cloudinary.com/nara/image/upload/v1632385950/photos/magellan.jpg"
-# btext: "More concise"
 linkb: "/maharlika/metaphysics/maharlika-social-cycles"
 linkbtext: "Maharlika Social Cycles"
 linkf: "/maharlika/history/was-lapu-lapu-tausug"
@@ -12,14 +10,12 @@ linkftext: "Was Lapu Lapu Tausug?"
 author: Pigafetta
 icon: /icons/sun.png
 aliases:
+  /maharlika/articles/simplified-pigafetta/
   /articles/simplified-pigafetta/
   /articles/history/simplified-pigafetta/
 ---
 
-<!-- linkb: "articles/metaphysics/maharlika-social-cycles"
-linkbtext: "Maharlika Social Cycles"
-linkf: "articles/history/was-lapu-lapu-tausug"
-linkftext: "Was Lapu Lapu Tausug?" -->
+
 
 > This simplifies Pigafetta's account of 1521 by subsituting pronouns with actual names to prevent confusion
 
@@ -61,10 +57,8 @@ Each one of those people lives according to his own will, for they have no seign
 - Those natives thought, according to the signs which they made, that there were no other people in the world but themselves.
  -->
 
-<br>
 
-
-### Samar (under Sulu?)
+## Samar (under Sulu?)
 
 At dawn on Saturday, March 16 1521, we came upon Samar island 300 leagues from Ladroni [The Marianas].
 - The next day, Magellan had two tents set up on the shore for the sick, and had a sow killed for them.
@@ -137,7 +131,7 @@ On the afternoon of holy Monday, March 25 we went west southwest between four sm
 - Abarien
 
 
-### Butuan (Masawa)
+## Butuan (Masawa)
 
 On Thursday morning, March 28 we saw a fire on an island the night before, so we anchored near it.
 - We saw a small boat which the natives call boloto with 8 men in it, approaching the flagship.
@@ -556,7 +550,7 @@ Cebu is a large island with dogs, cats, rice, millet, panicum, sorgo, ginger, ba
 - We stowed the best of its contents in the other two ships, and the laid our course toward the south southwest, coasting along the island called Panilongon, where black men like those in Etiopia live.
 
 
-### Zamboanga del Norte
+## Zamboanga del Norte
 
 Then we came to a large island [Mindanao], at a port called Chipit and met its king Raja Calanao.
 - He drew blood from his left hand marking his body, face, and the tip of his tongue with it as a token of the closest friendship, and we did the same. 
@@ -600,7 +594,7 @@ Those people go naked.
 - Two days’ journey thence to the northwest is a large island called Luzon, where six or eight Chinese junks go yearly.
 
 
-### Tawi-tawi
+## Tawi-tawi (Mapun?)
 
 We sailed west southwest to an island called Cagayan which is not very large and almost uninhabited.
 - The people of that island are Moros and were banished from Borneo.
@@ -612,7 +606,7 @@ We sailed west southwest to an island called Cagayan which is not very large and
 - It lies in a latitude of 7.5 degrees toward the Arctic Pole, and 43 leguas from Chippit. 
 
 
-### Palawan
+## Palawan
 
 About 25 leguas west northwest from Cagayan is the large island of Palawan which has rice, ginger, swine, goats, fowls, bananas one-half braza long and as thick as the arm (they are excellent, the others are one palmo and less in length, and are much better than all the others), cocoanuts, camotes [batate], sugarcane, and roots resembling turnips in taste.
 
@@ -632,11 +626,11 @@ Those people of Palawan also go naked.
 - They have distilled rice wine which is stronger and better than that made from the palm.
 
 
-### Borneo
+## Borneo
 
 10 leguas southwest of Palawan, we came to Borneo. 
 - 50 leguas from the tip is the port of Brunei.
-- After entering Brunei, the holy [213]body [i.e., St. Elmo’s fire] appeared to us through the pitchy darkness. 
+- After entering Brunei, the holy body [i.e., St. Elmo’s fire] appeared to us through the pitchy darkness. 
 - The next day, July 9, its Moro king Raja Siripada sent a very beautiful prau to us
   - Its bow and stern were worked in gold. 
   - At the bow flew a white and blue banner surmounted with peacock feathers. 
@@ -718,7 +712,7 @@ On Monday morning, July 29, we saw more than 100 praus divided into three squadr
 - Had Carvaio not given up that captain to Raja Siripada, Raja Siripada would have given us whatever we had asked, for that captain was exceedingly feared throughout those regions especially by the heathens, as the latter are very hostile to Raja Siripada.
 
 
-### Laoe
+## Laoe
 
 In that same port of Laoe, there is another city inhabited by heathens, which is larger than that of the Moros, and also built in salt water.
 - The two peoples have daily combats in that same harbor.
@@ -757,7 +751,7 @@ At that place the people highly esteem bronze [metalo], quicksilver, glass, cinn
 Those Moros also go naked. They drink quicksilver—the sick man drinks it to cleanse himself, and the well man to preserve his health.
 
 
-### Cotabato
+## Cotabato
 
 We sailed northeast to a large city called Maguindanao in the island of Butuan and Calaghan to gather information on Moluccas.
 - We captured by force a bigniday, a vessel resembling a prau, and killed 7 men.
