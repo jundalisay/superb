@@ -12,17 +12,37 @@ icon: /favicon.png
 ---
 
 
-XXII. The first prerogative instance is solitary instance. 
+{{< s v="22" >}} The first prerogative instance is solitary instance. 
 
-Solitary instances are those which exhibit the required nature in subjects that have nothing in common with any other subject than the nature in question, or which do not exhibit the required nature in subjects resembling others in every respect except that of the nature in question; for these instances manifestly remove prolixity, and accelerate and confirm exclusion, so that a few of them are of as much avail as many.
+Solitary instances are those which exhibit the required nature in subjects that:
+- have nothing in common with any other subject regarding the nature in question
+- do not exhibit the required nature in resembling subjects
+  - Those resembling subjects:
+    - remove prolixity
+    - accelerate and confirm exclusion, so that a few of them are of as much avail as many.
 
-For instance, let the inquiry be the nature of color. Prisms, crystalline gems, which yield colors not only internally but on the wall, dews, etc., are solitary instances; for[161] they have nothing in common with the fixed colors in flowers and colored gems, metals, woods, etc., except the color itself. Hence we easily deduce that color is nothing but a modification of the image of the incident and absorbed light, occasioned in the former case by the different degrees of incidence, in the latter by the various textures and forms of bodies.[109] These are solitary instances as regards similitude.
+An example is color.
+
+Prisms and crystalline gems yield colors:
+- internally
+- externally on the wall, dews, etc.
+
+These are solitary instances. They have nothing in common with the fixed colors in flowers, metals, woods, etc. except the color itself. 
+
+Hence color is nothing but a modification of the image of the incident and absorbed light, occasioned in the former case by the different degrees of incidence, in the latter by the various textures and forms of bodies.[109] 
+
+These are solitary instances as regards similitude.
 
 Again, in the same inquiry the distinct veins of white and black in marble, and the variegated colors of flowers of the same species, are solitary instances; for the black and white of marble, and the spots of white and purple in the flowers of the stock, agree in every respect but that of color. Thence we easily deduce that color has not much to do with the intrinsic natures of any body, but depends only on the coarser and as it were mechanical arrangement of the parts. These are solitary instances as regards difference. We call them both solitary or wild, to borrow a word from the astronomers.
 
-XXIII. The second prerogative instance is migrating instance. 
 
-In these the required nature passes toward generation, having no previous existence, or toward corruption, having first existed. In each of these divisions, therefore, the instances are always twofold, or rather it is one instance, first in motion or on its passage, and then brought to the opposite conclusion. These instances not only hasten and confirm exclusion, but also reduce affirmation, or the form itself, to a narrow compass; for the form must be something conferred by this[162] migration, or, on the contrary, removed and destroyed by it; and although all exclusion advances affirmation, yet this takes place more directly in the same than in different subjects; but if the form (as it is quite clear from what has been advanced) exhibit itself in one subject, it leads to all. The more simple the migration is, the more valuable is the instance. These migrating instances are, moreover, very useful in practice, for since they manifest the form, coupled with that which causes or destroys it, they point out the right practice in some subjects, and thence there is an easy transition to those with which they are most allied. There is, however, a degree of danger which demands caution, namely, lest they should refer the form too much to its efficient cause, and imbue, or at least tinge, the understanding with a false notion of the form from the appearance of such cause, which is never more than a vehicle or conveyance of the form. This may easily be remedied by a proper application of exclusion.
+{{< s v="23" >}} The second prerogative instance is migrating instance. 
+
+In these the required nature passes toward generation, having no previous existence, or toward corruption, having first existed. In each of these divisions, therefore, the instances are always twofold, or rather it is one instance, first in motion or on its passage, and then brought to the opposite conclusion. 
+
+These instances not only hasten and confirm exclusion, but also reduce affirmation, or the form itself, to a narrow compass; for the form must be something conferred by this[162] migration, or, on the contrary, removed and destroyed by it; and although all exclusion advances affirmation, yet this takes place more directly in the same than in different subjects; but if the form (as it is quite clear from what has been advanced) exhibit itself in one subject, it leads to all. 
+
+The more simple the migration is, the more valuable is the instance. These migrating instances are, moreover, very useful in practice, for since they manifest the form, coupled with that which causes or destroys it, they point out the right practice in some subjects, and thence there is an easy transition to those with which they are most allied. There is, however, a degree of danger which demands caution, namely, lest they should refer the form too much to its efficient cause, and imbue, or at least tinge, the understanding with a false notion of the form from the appearance of such cause, which is never more than a vehicle or conveyance of the form. This may easily be remedied by a proper application of exclusion.
 
 Let us then give an example of a migrating instance. Let whiteness be the required nature. An instance which passes toward generation is glass in its entire and in its powdered state, or water in its natural state, and when agitated to froth; for glass when entire, and water in its natural state, are transparent and not white, but powdered glass and the froth of water are white and not transparent. We must inquire, therefore, what has happened to the glass or water in the course of this migration; for it is manifest that the form of whiteness is conveyed and introduced by the bruising of the glass and the agitation of the water; but nothing is found to have been introduced but a diminishing of the parts of the glass and water and the insertion of air. Yet this is no slight progress toward discovering[163] the form of whiteness, namely, that two bodies, in themselves more or less transparent (as air and water, or air and glass), when brought into contact in minute portions, exhibit whiteness from the unequal refraction of the rays of light.
 

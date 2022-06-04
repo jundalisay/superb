@@ -171,6 +171,6 @@ Rather than reform a system with a corrupt base, it would be better to take its 
 For this reason, we introduce alternatives to every major economic concept as the foundation of Pantrynomics:
 
 - [Natural Price Theory](/social/economics/principles/four-laws-of-value) replaces Equilibrium Theory of Microeconomics
-- [The Effort Theory of Value](/social/economics/principles/the-effort-theory-of-value) replaces Profit Maximization
+- [The Effort Theory of Value](/social/economics/principles/effort-theory-of-value) replaces Profit Maximization
 - [Purchasing Power](/social/economics/solutions/gdp) replaces GDP of Macroeconomics
 - [Economic Balance](/social/economics/principles/dcti) replaces GDP growth

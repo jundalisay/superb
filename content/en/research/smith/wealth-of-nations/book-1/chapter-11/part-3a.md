@@ -1,17 +1,16 @@
 +++
 title=  "The variations of the ratos between the Values the of Food and Non-Food Rude Produce"
+heading=  "Chapter 11 Part 3b"
 date=  2020-01-26
 image=  "/covers/wn.jpg"
 description=  "The value of non-food produce should constantly rise relative to food produce"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-10b"
-linkbtext=  "Chapter 10 Part 2a"
-linkf=  "/research/smith/wealth-of-nations/book-2"
-linkftext=  "Chapter 10 Part 2b"
-heading=  "Chapter 10 Part 3a"
+linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-2c"
+linkbtext=  "Chapter 11 Part 2c"
+linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a1"
+linkftext=  "Chapter 11 Part 3b"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
+
 
 <!-- Of the variations in the Proportion between the respective Values of that sort of Produce which always affords Rent, and of that which sometimes does, and sometimes does not, afford Rent -->
 
@@ -33,9 +32,12 @@ This is the general case if accidents did not increase the food supply more than
 
 But the value of a silver mine's produce will not increase with the district's improvement.
 The market for stones from a quarry is frequently near it.
+
 Its demand must be proportional to that district's improvement and population.
 The silver mine's market may be global.
+
 Unless the world is advancing in improvement and population, the demand for silver might not be increased by the improvement even of a large district with a silver mine.
+
 Even if the world were improving, silver prices would fall if new, more fertile mines were discovered to increase the supply more than the demand.
 
 {{< s v="91" >}} The commercial world is the great market for silver.
@@ -46,8 +48,9 @@ Even if the world were improving, silver prices would fall if new, more fertile 
 
 {{< s v="93" >}} On the contrary, if the supply increases more than the demand, silver would gradually become cheaper. The average money price of wheat would become dearer in spite of all improvements.
 
-94 If the supply of silver increases in proportion to the demand, it would continue to buy nearly the same amount of wheat.
+{{< s v="94" >}} If the supply of silver increases in proportion to the demand, it would continue to buy nearly the same amount of wheat.
 The average money price of wheat would stay nearly the same.
 
-95 These three are all the possible combinations of events which can happen in the progress of improvement.
+{{< s v="95" >}} These 3 are all the possible combinations of events which can happen in the progress of improvement.
+
 These have happened in the European market in the past 400 years.

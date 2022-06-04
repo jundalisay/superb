@@ -4,14 +4,15 @@ heading: "Chapter 1 Section 8"
 date: 2021-11-20
 image: "/flags/br.png"
 description: "A supplementary law shall provide for the preparation, drafting, amendment and consolidation of laws"
-linkb: /research/constitutions/br/chapter-01c
+linkb: /research/constitutions/br/title-04/chapter-01c
 linkbtext: "Chapter 1c"
-linkf: /research/constitutions/br/chapter-01e
+linkf: /research/constitutions/br/title-04/chapter-01e
 linkftext: "Chapter 1e"
 icon: "/flags/br.png"
 ---
 
-SUBSection I: General Provision
+
+Subsection 1: General Provision
 
 Article 59. The legislative process comprises the preparation of:
 1. amendments to the Constitution;

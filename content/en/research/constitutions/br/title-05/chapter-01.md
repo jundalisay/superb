@@ -3,10 +3,10 @@ title: "The Defense of the State"
 heading: "Title 5 Chapter 1"
 date: 2021-11-20
 image: "/flags/br.png"
-description: ""
+description: "The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, decree a state of defense"
 linkb: /research/constitutions/br
 linkbtext: "Brazil"
-klinkf: /research/constitutions/br/
+linkf: /research/constitutions/br/
 linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---

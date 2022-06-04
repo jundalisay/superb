@@ -183,7 +183,7 @@ All these principles are into a long set of policy proposals condensed in [a sho
 - eight consitutional virtues
 - federalize the country to 27 states
 - a National Assembly that votes the executives, as written in the Malolos Constitution (this is similar to parliamentary systems)
-  - an [election system](https://superphysics.one/solutions/social/supersociology/solutions/confirmation-elections) that follows [David Hume's plan](https://superphysics.one/research/hume/essays/part-2/16-the-ideal-system-of-government)
+  - an [election system](https://superphysics.one/social/supersociology/solutions/confirmation-elections) that follows [David Hume's plan](https://superphysics.one/research/hume/essays/part-2/16-the-ideal-system-of-government)
 - a balanced economy with industry, services, and agriculture. This is different from the current setup which is focused on services
   - a revival and formalization of barter and barter taxation (this will complement federalism)
 - open religious policy to prevent the dominance of any religion. This leads to the competition of ideas 

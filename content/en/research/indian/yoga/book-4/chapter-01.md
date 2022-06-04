@@ -1,14 +1,14 @@
 ---
-title: "Yoga"
-heading: "Chapter 1 of Yoga Sutras Simplified"
+title: "Psychic and spiritual powers"
+heading: "Chapter 1 of Book 4 Yoga Sutras Simplified"
 date: 2022-01-31
 author: "Patanjali"
-description: ""
+description: "Through these powers, the spiritual man stands, sees, hears, speaks, in the spiritual world, as the physical man stands, sees, hears, speaks in the natural world"
 image: "/covers/yoga.jpg"
-linkb: "/research/indian/yoga/book-1/chapter-11"
-linkbtext: "Chapter 11"
-linkf: "/research/indian/yoga/book-1/chapter-02"
-linkftext: "Index"
+linkb: "/research/indian/yoga/book-3/chapter-02"
+linkbtext: "Chapter 2"
+linkf: "/research/indian/yoga/book-4/chapter-02"
+linkftext: "Chapter 2"
 icon: "/flags/in.png"
 ---
 
@@ -24,7 +24,7 @@ The last part of the last book needs little introduction. In a sense, it is the 
 
 If this, then, be the most vital and fundamental part of the teaching, should it not stand at the very beginning? It may seem so at first; but had it stood there, we should not have comprehended it. For he who would know the doctrine must lead the life, doing the will of his Father which is in Heaven. -->
 
-BOOK IV
+## BOOK 4
 
 1. Psychic and spiritual powers may be:
 - inborn, or
@@ -34,13 +34,21 @@ BOOK IV
   - fervour
   - Meditation.
 
-Spiritual powers have been enumerated and described in the preceding sections. They are the normal powers of the spiritual man, the antetype, the divine edition, of the powers of the natural man. Through these powers, the spiritual man stands, sees, hears, speaks, in the spiritual world, as the physical man stands, sees, hears, speaks in the natural world.
+Spiritual powers <!-- have been enumerated and described in the preceding sections. They --> are the normal powers of the spiritual man. <!-- , the antetype, the divine edition, of the powers of the natural man.  -->
 
-There is a counterfeit presentment of the spiritual man, in the world of dreams, a shadow lord of shadows, who has his own dreamy powers of vision, of hearing, of movement; he has left the natural without reaching the spiritual. He has set forth from the shore, but has not gained the further verge of the river. He is borne along by the stream, with no foothold on either shore. Leaving the actual, he has fallen short of the real, caught in the limbo of vanities and delusions. The cause of this aberrant phantasm is always the worship of a false, vain self, the lord of dreams, within one’s own breast. This is the psychic man, lord of delusive and bewildering psychic powers.
+Through these powers, the spiritual man stands, sees, hears, speaks, in the spiritual world, as the physical man stands, sees, hears, speaks in the natural world.
+
+There is a counterfeit presentment of the spiritual man, in the world of dreams, a shadow lord of shadows, who has his own dreamy powers of vision, of hearing, of movement; he has left the natural without reaching the spiritual.
+
+He has set forth from the shore, but has not gained the further verge of the river. He is borne along by the stream, with no foothold on either shore. Leaving the actual, he has fallen short of the real, caught in the limbo of vanities and delusions. 
+
+The cause of this aberrant phantasm is always the worship of a false, vain self, the lord of dreams, within one’s own breast. This is the psychic man, lord of delusive and bewildering psychic powers.
 
 Spiritual powers, like intellectual or artistic gifts, may be inborn: the fruit, that is, of seeds planted and reared with toil in a former birth. So also the powers of the psychic man may be inborn, a delusive harvest from seeds of delusion.
 
-Psychical powers may be gained by drugs, as poverty, shame, debasement may be gained by the self-same drugs. In their action, they are baneful, cutting the man off from consciousness of the restraining power of his divine nature, so that his forces break forth exuberant, like the laughter of drunkards, and he sees and hears things delusive. While sinking, he believes that he has risen; growing weaker, he thinks himself full of strength; beholding illusions, he takes them to be true. Such are the powers gained by drugs; they are wholly psychic, since the real powers, the spiritual, can never be so gained.
+Psychical powers may be gained by drugs, as poverty, shame, debasement may be gained by the self-same drugs. In their action, they are baneful, cutting the man off from consciousness of the restraining power of his divine nature, so that his forces break forth exuberant, like the laughter of drunkards, and he sees and hears things delusive. 
+
+While sinking, he believes that he has risen; growing weaker, he thinks himself full of strength; beholding illusions, he takes them to be true. Such are the powers gained by drugs; they are wholly psychic, since the real powers, the spiritual, can never be so gained.
 
 Incantations are affirmations of half-truths concerning spirit and matter, what is and what is not, which work upon the mind and slowly build up a wraith of powers and a delusive well-being. These, too, are of the psychic realm of dreams.
 
@@ -48,15 +56,29 @@ Lastly, there are the true powers of the spiritual man, built up and realized in
 
 2. The transfer of powers from one venture to another comes through the flow of the natural creative forces.
 
-Here, if we can perceive it, is the whole secret of spiritual birth, growth and life Spiritual being, like all being, is but an expression of the Self, of the inherent power and being of Atma. Inherent in the Self are consciousness and will, which have, as their lordly heritage, the wide sweep of the universe throughout eternity, for the Self is one with the Eternal. And the consciousness of the Self may make itself manifest as seeing, hearing, tasting, feeling, or whatsoever perceptive powers there may be, just as the white sunlight may divide into many-coloured rays. So may the will of the Self manifest itself in the uttering of words, or in handling, or in moving, and whatever powers of action there are throughout the seven worlds. Where the Self is, there will its powers be. It is but a question of the vesture through which these powers shall shine forth. And wherever the consciousness and desire of the ever-creative Self are fixed, there will a vesture be built up; where the heart is, there will the treasure be also.
+Here, if we can perceive it, is the whole secret of spiritual birth, growth and life Spiritual being, like all being, is but an expression of the Self, of the inherent power and being of Atma. Inherent in the Self are consciousness and will, which have, as their lordly heritage, the wide sweep of the universe throughout eternity, for the Self is one with the Eternal.
 
-Since through ages the desire of the Self has been toward the natural world, wherein the Self sought to mirror himself that he might know himself, therefore a vesture of natural elements came into being, through which blossomed forth the Self’s powers of perceiving and of will: the power to see, to hear, to speak, to walk, to handle; and when the Self, thus come to self-consciousness, and, with it, to a knowledge of his imprisonment, shall set his desire on the divine and real world, and raise his consciousness thereto, the spiritual vesture shall be built up for him there, with its expression of his inherent powers. Nor will migration thither be difficult for the Self, since the divine is no strange or foreign land for him, but the house of his home, where he dwells from everlasting.
+The consciousness of the Self may make itself manifest as seeing, hearing, tasting, feeling, or whatsoever perceptive powers there may be, just as the white sunlight may divide into many-coloured rays. So may the will of the Self manifest itself in the uttering of words, or in handling, or in moving, and whatever powers of action there are throughout the seven worlds. 
+
+Where the Self is, there will its powers be. 
+
+It is but a question of the vesture through which these powers shall shine forth. And wherever the consciousness and desire of the ever-creative Self are fixed, there will a vesture be built up; where the heart is, there will the treasure be also.
+
+Since the beginning, the desire of the Self has been toward the natural world, wherein the Self sought to mirror himself that he might know himself. And so a vesture of natural elements came into being. From it blossomed the Self’s powers of perception and will: the power to see, to hear, to speak, to walk, to handle. 
+
+When the Self, thus come to self-consciousness, and, with it, to a knowledge of his imprisonment, shall set his desire on the divine and real world, and raise his consciousness thereto, the spiritual vesture shall be built up for him there, with its expression of his inherent powers. 
+
+Nor will migration thither be difficult for the Self, since the divine is no strange or foreign land for him, but the house of his home, where he dwells from everlasting.
 
 3. The apparent, immediate cause is not the true cause of the creative nature-powers; but, like the husbandman in his field, it takes obstacles away.
 
-The husbandman tills his field, breaking up the clods of earth into fine mould, penetrable to air and rain; he sows his seed, carefully covering it, for fear of birds and the wind; he waters the seed-laden earth, turning the little rills from the irrigation tank now this way and that, removing obstacles from the channels, until the even How of water vitalizes the whole field. And so the plants germinate and grow, first the blade, then the ear, then the full corn in the ear. But it is not the husbandman who makes them grow. It is, first, the miraculous plasmic power in the grain of seed, which brings forth after its kind; then the alchemy of sunlight which, in presence of the green colouring matter of the leaves, gathers hydrogen from the water and carbon from the gases in the air, and mingles them in the hydro-carbons of plant growth; and, finally, the wholly occult vital powers of the plant itself, stored up through ages, and flowing down from the primal sources of life. The husbandman but removes the obstacles. He plants and waters, but God gives the increase.
+The husbandman tills his field, breaking up the clods of earth into fine mould, penetrable to air and rain; he sows his seed, carefully covering it, for fear of birds and the wind; he waters the seed-laden earth, turning the little rills from the irrigation tank now this way and that, removing obstacles from the channels, until the even How of water vitalizes the whole field. 
 
-So with the finer husbandman of diviner fields. He tills and sows, but the growth of the spiritual man comes through the surge and flow of divine, creative forces and powers. Here, again, God gives the increase. The divine Self puts forth, for the manifestation of its powers, a new and finer vesture, the body of the spiritual man.
+And so the plants germinate and grow, first the blade, then the ear, then the full corn in the ear. But it is not the husbandman who makes them grow. It is, first, the miraculous plasmic power in the grain of seed, which brings forth after its kind; then the alchemy of sunlight which, in presence of the green colouring matter of the leaves, gathers hydrogen from the water and carbon from the gases in the air, and mingles them in the hydro-carbons of plant growth; and, finally, the wholly occult vital powers of the plant itself, stored up through ages, and flowing down from the primal sources of life. The husbandman but removes the obstacles. He plants and waters, but God gives the increase.
+
+So with the finer husbandman of diviner fields. He tills and sows, but the growth of the spiritual man comes through the surge and flow of divine, creative forces and powers. 
+
+Here, again, God gives the increase. The divine Self puts forth, for the manifestation of its powers, a new and finer vesture, the body of the spiritual man.
 
 4. Vestures of consciousness are built up in conformity with the Boston of the feeling of selfhood.
 
@@ -74,7 +96,9 @@ It is all a question of the states of consciousness; all a question of raising t
 
 5. In the different fields of manifestation, the Consciousness, though one, is the elective cause of many states of consciousness.
 
-Here is the splendid teaching of oneness that lies at the heart of the Eastern wisdom. Consciousness is ultimately One, everywhere and forever. The Eternal, the Father, is the One Self of All Beings. And so, in each individual who is but a facet of that Self, Consciousness is One. Whether it breaks through as the dull fire of physical life, or the murky flame of the psychic and passional, or the radiance of the spiritual man, or the full glory of the Divine, it is ever the Light, naught but the Light. The one Consciousness is the effective cause of all states of consciousness, on every plane.
+Here is the splendid teaching of oneness that lies at the heart of the Eastern wisdom. Consciousness is ultimately One, everywhere and forever. The Eternal, the Father, is the One Self of All Beings.
+
+And so, in each individual who is but a facet of that Self, Consciousness is One. Whether it breaks through as the dull fire of physical life, or the murky flame of the psychic and passional, or the radiance of the spiritual man, or the full glory of the Divine, it is ever the Light, naught but the Light. The one Consciousness is the effective cause of all states of consciousness, on every plane.
 
 6. Among states of consciousness, that which is born of Contemplation is free from the seed of future sorrow.
 
@@ -94,7 +118,11 @@ But, for him who has gone beyond desire, whose desire is set on the Eternal, nei
 
 We are now to consider the general mechanism of Karma, in order that we may pass on to the consideration of him who is free from Karma. Karma, indeed, is the concern of the personal man, of his bondage or freedom. It is the succession of the forces which built up the personal man, reproducing themselves in one personality after another.
 
-Now let us take an imaginary case, to see how these forces may work out. Let us think of a man, with murderous intent in his heart, striking with a dagger at his enemy. He makes a red wound in his victim’s breast; at the same instant he paints, in his own mind, a picture of that wound: a picture dynamic with all the fierce will-power he has put into his murderous blow. In other words he has made a deep wound in his own psychic body; and, when he comes to be born again, that body will become his outermost vesture, upon which, with its wound still there, bodily tissue will be built up. So the man will be born maimed, or with the predisposition to some mortal injury; he is unguarded at that point, and any trifling accidental blow will pierce the broken Joints of his psychic armour. Thus do the dynamic mind-images manifest themselves, coming to the surface, so that works done in the past may ripen and come to fruition.
+Now let us take an imaginary case, to see how these forces may work out. Let us think of a man, with murderous intent in his heart, striking with a dagger at his enemy. He makes a red wound in his victim’s breast; at the same instant he paints, in his own mind, a picture of that wound: a picture dynamic with all the fierce will-power he has put into his murderous blow. 
+
+In other words he has made a deep wound in his own psychic body; and, when he comes to be born again, that body will become his outermost vesture, upon which, with its wound still there, bodily tissue will be built up. 
+
+So the man will be born maimed, or with the predisposition to some mortal injury; he is unguarded at that point, and any trifling accidental blow will pierce the broken Joints of his psychic armour. Thus do the dynamic mind-images manifest themselves, coming to the surface, so that works done in the past may ripen and come to fruition.
 
 9. Works separated by different nature, or place, or time, are brought together by the correspondence between memory and dynamic impression.
 
@@ -106,7 +134,9 @@ Just as the dynamic mind-images of desire ripen out in bodily conditions and cir
 
 10. The series of dynamic mind-images is beginningless, because Desire is everlasting.
 
-The whole series of dynamic mind-images, which make up the entire history of the personal man, is a part of the mechanism which the Self employs, to mirror itself in a reflection, to embody its powers in an outward form, to the end of self-expression, selfrealization, self-knowledge. Therefore the initial impulse behind these dynamic mind-images comes from the Self and is the descending ray of the Self; so that it cannot be said that there is any first member of the series of images, from which the rest arose. The impulse is beginningless, since it comes from the Self, which is from everlasting. Desire is not to cease; it is to turn to the Eternal, and so become aspiration.
+The whole series of dynamic mind-images, which make up the entire history of the personal man, is a part of the mechanism which the Self employs, to mirror itself in a reflection, to embody its powers in an outward form, to the end of self-expression, selfrealization, self-knowledge. 
+
+Therefore, the initial impulse behind these dynamic mind-images comes from the Self and is the descending ray of the Self; so that it cannot be said that there is any first member of the series of images, from which the rest arose. The impulse is beginningless, since it comes from the Self, which is from everlasting. Desire is not to cease; it is to turn to the Eternal, and so become aspiration.
 
 11. Since the dynamic mind-images are held together by impulses of desire, by the wish for personal reward, by the substratum of mental habit, by the support of outer things desired; therefore, when these cease, the self reproduction of dynamic mind-images ceases.
 

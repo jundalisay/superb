@@ -4,16 +4,16 @@ heading: "Doing what is correct and avoiding the wrong"
 date: 2019-12-17
 image: "/photos/phone.jpg"
 description: "Morality is the state of doing what is correct and avoiding the wrong in order to have sustainable happiness for as long as possible and for as many entities as possible"
-linkb: /medical/mental/idea-of-self
+linkb: /medical/mental/principles/idea-of-self
 linkbtext: "David Hume idea of self"
-linkf: /social/supersociology/impartial-spectator
+linkf: /superphysics/principles/impartial-spectator
 linkftext: "impartial spectator"
 author: Juan
 icon: /icons/spsoc.png
 ---
 
 
-In [a previous post](/pantrynomics/invisible-hand-of-tao), we explained that everything in existence has a dharma which represents the design or plan made by its inventor or creator. 
+In [a previous post](/social/economics/principles/invisible-hand), we explained that everything in existence has a dharma which represents the design or plan made by its inventor or creator. 
 - A smartphone is designed to withstand being dropped a few feet, but not many meters
 - A basketball, on the other hand, is designed to withstand being dropped from long distances 
 

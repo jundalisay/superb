@@ -5,8 +5,8 @@ image= "/covers/muq.jpg"
 date= 2020-01-17
 linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-28a"
 linkbtext= "Part 28a"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-29"
-linkftext= "Part 29"
+linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-29a"
+linkftext= "Part 29a"
 heading= "Parts 28b"
 icon = "/icons/ibn.jpg"
 +++
@@ -20,61 +20,75 @@ other,
 3. between Ibn az-Zubayr and 'Abd-al-Malik.
 
 
-### Ali
+## Ali
 
-When 'Uthman was killed, the important Muslims were dispersed over the various cities. Thus, they were not present when the oath of allegiance was rendered to 'Ali. Of those who were present, some rendered the oath of allegiance to him. Others, however, waited until the people should come together and agree upon an imam. 
+When 'Uthman was killed, the important Muslims were dispersed over the various cities. They were not present when the oath of allegiance was rendered to 'Ali. 
 
-Among those who waited were, for instance, Sa'd (b. Abi Waggas), Sa'id (b. Zayd), ('Abdallah) b.
-'Umar, Usamah b. Zayd, al-Mughirah b. Shu'bah,'Abdallah b. Salim, Qudamah b.
-Maz'un, Abu Sa'id (Sa'd b. Malik) al-Khudri, Ka'b b. 'Ujrah, Ka'b b. Malik, an-Nu'man b. Bashir, Hassan b. Thabit, Maslamah b. Makhlad, 343 Fudalah b. 'Ubayd, and other important personalities from among the men around Muhammad. Those
-who were in the various cities also refrained from rendering the oath of allegiance to
-'Ali and were in favor of seeking revenge for 'Uthman, and so they left matters in a
-state of anarchy. 
+- Of those who were present, some rendered the oath of allegiance to him. 
+- Others, however, waited for the others to come and agree on an imam. 
 
-Eventually, the Muslims formed an (electoral) council (shard) to determine whom they should appoint. They suspected 'Ali of negligence when he kept silent and did not help 'Uthman against his murderers, but they did not suspect him of having actually conspired against 'Uthman. That would be unthinkable. 
+Among those who waited were, for instance:
+- Sa'd (b. Abi Waggas)
+- Sa'id (b. Zayd)
+- ('Abdallah) b. 'Umar
+- Usamah b. Zayd
+- al-Mughirah b. Shu'bah
+- 'Abdallah b. Salim
+- Qudamah b. Maz'un
+- Abu Sa'id (Sa'd b. Malik) al-Khudri
+- Ka'b b. 'Ujrah
+- Ka'b b. Malik
+- an-Nu'man b. Bashir
+- Hassan b. Thabit
+- Maslamah b. Makhlad
+- Fudalah b. 'Ubayd
+- other important personalities from among the men around Muhammad. 
+
+Those who were in the various cities:
+- also refrained from rendering the oath of allegiance to 'Ali
+- preferred to seek revenge for 'Uthman
+
+And so they left matters in a state of anarchy. 
+
+Eventually, the Muslims formed an (electoral) council (shard) to determine whom they should appoint. 
+
+They suspected 'Ali of negligence when he kept silent and did not help 'Uthman against his murderers, but they did not suspect him of having actually conspired against 'Uthman. 
+
+That would be unthinkable. 
 
 When Mu'awiyah openly reproached 'Ali, his accusation was directed exclusively against his keeping silent.
+
 Later on, they had differences. 'Ali was of the opinion that the oath of allegiance that had been rendered to him was binding and obligatory upon those who had not yet rendered it, because the people had agreed upon (rendering the oath) in Medina, the residence of the Prophet and the home of the men around Muhammad.
 
+He thought of postponing 'Uthman's revenge until unity was established among the people and the whole thing was well organized. Then it would be feasible. 
 
-He thought of postponing 'Uthman's revenge until unity was established among the people and the whole thing was well organized. Then it would be feasible. Others were of the opinion that the oath of allegiance rendered to 'All was not binding,
-because the men around Muhammad who controlled the executive power were dispersed all over the world and only a few had been present (when the oath to 'All was rendered). (They thought that) an oath of allegiance requires the agreement of
-all the men who control the executive power and that there was no obligation to
-confirm a person who had received it from others or merely from a minority of
-those men. 
+Others were of the opinion that the oath of allegiance rendered to 'All was not binding, because the men around Muhammad who controlled the executive power were dispersed all over the world and only a few had been present (when the oath to 'All was rendered).
 
-Thus, they thought that the Muslims were at the time in a state of anarchy and should first seek revenge for 'Uthman and then agree upon an imam. This opinion was held by Mu'awiyah, by 'Amr b. al-'As, by the Mother of theMuslims, 'A'ishah, by az-Zubayr and his son 'Abdallah, by Talhah and his son Muhammad, by Sa'd, by Sa'id, by an-Nu'man b. Bashir, by Mu'awiyah b. Hudayj, and by others among the men around Muhammad who followed the opinion of those mentioned and who hesitated, as we have mentioned, to render the oath of allegiance to 'Ali in Medina.
+(They thought that) an oath of allegiance requires the agreement of all the men who control the executive power and that there was no obligation to confirm a person who had received it from others or merely from a minority of those men. 
 
-However, the men of the second period after them agreed that the oath of
-allegiance rendered to 'All had been binding and obligatory upon all Muslims. They
-considered ('Ali's) opinion the correct one and clearly indicated that the error was on
-Mu'awiyah's side and on that of those who were of his opinion, especially Talhah
-and az-Zubayr, who broke with 'Ali after having rendered the oath of allegiance to
-him, as has been reported. Still, it was not considered acceptable to declare both
-parties at fault, for such a thing is not done in cases of independent judgment. 
+Thus, they thought that the Muslims were at the time in a state of anarchy and should first seek revenge for 'Uthman and then agree upon an imam. 
+
+This opinion was held by Mu'awiyah, by 'Amr b. al-'As, by the Mother of theMuslims, 'A'ishah, by az-Zubayr and his son 'Abdallah, by Talhah and his son Muhammad, by Sa'd, by Sa'id, by an-Nu'man b. Bashir, by Mu'awiyah b. Hudayj, and by others among the men around Muhammad who followed the opinion of those mentioned and who hesitated, as we have mentioned, to render the oath of allegiance to 'Ali in Medina.
+
+However, the men of the second period after them agreed that the oath of allegiance rendered to 'All had been binding and obligatory upon all Muslims. 
+
+They considered ('Ali's) opinion the correct one and clearly indicated that the error was on Mu'awiyah's side and on that of those who were of his opinion, especially Talhah and az-Zubayr, who broke with 'Ali after having rendered the oath of allegiance to him, as has been reported. Still, it was not considered acceptable to declare both parties at fault, for such a thing is not done in cases of independent judgment. 
 
 Such became the general consensus among the men of the second period as to one of the two opinions held by the men of the first period. 
 
-Ali was asked about those who had died in the Battle of the Camel and the Battle of Siffin. He replied= "By God, all of them who die with pure heart will be admitted by God to paradise." He referred to both parties. This remark was reported by at-Tabari and by others. 344
+Ali was asked about those who had died in the Battle of the Camel and the Battle of Siffin. He replied: "By God, all of them who die with pure heart will be admitted by God to paradise." He referred to both parties. This remark was reported by at-Tabari and by others.
 
-The probity of none of these men should be doubted. No aspersion should be
-cast on them in this connection. It is well known who they were. Their words and
-deeds are models to be followed. Their probity is perfect, in the view of orthodox
-Muslim opinion. The only exception would be a statement by the Mu'tazilah with
-regard to those who fought 'Ali, 345 but no true believer pays attention to this
-statement or stoops to consider it seriously. He who looks at the matter impartially
-will find excusable, not only the differences among all the people (the Muslims)
-with regard to the affair of 'Uthman, but also all the subsequent differences among
-the men around Muhammad. He will realize that (these quarrels) were temptations
-inflicted by God upon the Muslim nation, while He vanquished the enemies of the
-Muslims and made the Muslims rulers of the lands and country of their enemies,
-and while they established cities in the border territories, in al-Basrah and al-Kufah
-(the 'Iraq), in Syria, and in Egypt.
+The probity of none of these men should be doubted. No aspersion should be cast on them in this connection. It is well known who they were. Their words and deeds are models to be followed. Their probity is perfect, in the view of orthodox Muslim opinion. 
+
+The only exception would be a statement by the Mu'tazilah with regard to those who fought 'Ali, 345 but no true believer pays attention to this statement or stoops to consider it seriously. He who looks at the matter impartially will find excusable, not only the differences among all the people (the Muslims) with regard to the affair of 'Uthman, but also all the subsequent differences among the men around Muhammad. 
+
+He will realize that (these quarrels) were temptations inflicted by God upon the Muslim nation, while He vanquished the enemies of the Muslims and made the Muslims rulers of the lands and country of their enemies, and while they established cities in the border territories, in al-Basrah and al-Kufah (the 'Iraq), in Syria, and in Egypt.
 
 Most of the Arabs who settled in those cities were uncivilized. They had made little use of the Prophet's company and had not been improved by his way of life and manners, nor had they been trained in his qualities of character. 
 
 Moreover, they had been uncivilized in pre-Islamic times, had been possessed by group feeling
 and overbearing pride, and had been remote from the soothing influence of the faith.
+
 When the (Muslim) dynasty came to be powerful, (these Arabs) were dominated by
 (Meccan) emigrants and (Medinese) Ansar, belonging to the Quraysh, the Kinanah,
 the Thaqif, the Hudhayl, and the inhabitants of the Hijaz and Yathrib (Medina), who

@@ -4,22 +4,36 @@ heading: Capital Volume One
 date: 2022-02-01
 description: The General Formula for Capital
 # image: "/graphics/mao.jpg"
-linkb: "/research/marx/capital/chapter-4"
+linkb: "/research/marx/capital/"
 linkbtext: "Index"
-linkf: "/research/marx/capital/chapter-4"
+linkf: "/research/marx/capital/"
 linkftext: "Index"
 author: "Karl Marx"
 icon: /icons/marx.png
 ---
 
 
-Part II: The Transformation of Money into Capital
+Part 2: The Transformation of Money into Capital
 
- 
 
-The circulation of commodities is the starting-point of capital. The production of commodities, their circulation, and that more developed form of their circulation called commerce, these form the historical ground-work from which it rises. The modern history of capital dates from the creation in the 16th century of a world-embracing commerce and a world-embracing market.
+{{< c c="red">}}
+The circulation of commodities is the starting-point of capital. 
+{{< /c >}}
 
-If we abstract from the material substance of the circulation of commodities, that is, from the exchange of the various use-values, and consider only the economic forms produced by this process of circulation, we find its final result to be money: this final product of the circulation of commodities is the first form in which capital appears.
+
+<!-- The historical ground-work from where  -->
+
+Capital arises from:
+- the production of commodities
+- their circulation as <!-- , and that more developed form of their circulation called --> commerce
+
+Modern<!--  history of --> capital begins in <!--  dates from the creation in --> the global commerce of the 16th century.<!--  of a world-embracing commerce and a world-embracing market. -->
+
+<!-- If we abstract from the material substance of the circulation of commodities, that is, from the , and consider only the economic forms produced by this process of circulation, we find its  to be  -->
+
+Money is the final material result of the exchange of use-values. Capital first appears in the form of money. 
+
+<!-- This final product of the circulation of commodities is the first form in which capital appears. -->
 
 As a matter of history, capital, as opposed to landed property, invariably takes the form at first of money; it appears as moneyed wealth, as the capital of the merchant and of the usurer. [1] But we have no need to refer to the origin of capital in order to discover that the first form of appearance of capital is money. We can see it daily under our very eyes. All new capital, to commence with, comes on the stage, that is, on the market, whether of commodities, labour, or money, even in our days, in the shape of money that by a definite process has to be transformed into capital.
 

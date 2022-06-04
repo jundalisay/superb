@@ -5,7 +5,7 @@ date: 2021-08-21
 image: "/photos/objects/egypt.jpg"
 # image: "https://sorasystem.sirv.com/photos/mischief600.jpg"
 description: "The general behavior of a people that arises from the topography of their homeland"
-linkb: /social/supersociology/social-networkism
+linkb: /social/supersociology/principles/social-networkism
 linkbtext: "Social networkism"
 linkf: /social/supersociology/self-regulation
 linkftext: "Self-regulation"

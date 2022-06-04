@@ -1,14 +1,14 @@
 ---
-title: "Yoga"
-heading: "Chapter 1 of Yoga Sutras Simplified"
+title: "Dharana"
+heading: "Chapter 1 Book 3 of Yoga Sutras Simplified"
 date: 2022-01-31
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"
-linkb: "/research/indian/yoga/book-1/chapter-11"
-linkbtext: "Chapter 11"
-linkf: "/research/indian/yoga/book-1/chapter-02"
-linkftext: "Index"
+linkb: "/research/indian/yoga/book-3"
+linkbtext: "Book 3"
+linkf: "/research/indian/yoga/book-3/chapter-02"
+linkftext: "Chapter 2"
 icon: "/flags/in.png"
 ---
 
@@ -32,7 +32,9 @@ Therefore ponder well the earlier rules, and lay a firm foundation of courage, s
 
 Emerson quotes Sir Isaac Newton as saying that he made his great discoveries by intending his mind on them. That is what is meant here. I read the page of a book while inking of something else. 
 
-At the end of he page, I have no idea of what it is about, and read it again, still thinking of something else, with the same result. Then I wake up, so to speak, make an effort of attention, fix my thought on what I am reading, and easily take in its meaning. The act of will, the effort of attention, the intending of the mind on each word and line of the page, just as the eyes are focussed on each word and line, is the power here contemplated. It is the power to focus the consciousness on a given spot, and hold it there Attention is the first and indispensable step in all knowledge. Attention to spiritual things is the first step to spiritual knowledge.
+At the end of he page, I have no idea of what it is about, and read it again, still thinking of something else, with the same result.
+
+Then I wake up, so to speak, make an effort of attention, fix my thought on what I am reading, and easily take in its meaning. The act of will, the effort of attention, the intending of the mind on each word and line of the page, just as the eyes are focussed on each word and line, is the power here contemplated. It is the power to focus the consciousness on a given spot, and hold it there Attention is the first and indispensable step in all knowledge. Attention to spiritual things is the first step to spiritual knowledge.
 
 2. A prolonged holding of the perceiving consciousness in that region is meditation (dhyana).
 

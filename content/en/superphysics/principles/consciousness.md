@@ -4,10 +4,10 @@ heading: "Consciousness is Binary as the Other Side of Existence"
 date: "2019-07-21"
 image: /photos/physics/ai.jpg
 description: "Consciousness is the perception of ideas and feelings"
-linkf: /superphysics/what-is-superphysics
-linkftext: "what-is-superphysics?"
 linkb: /superphysics/principles/god
 linkbtext: "God is existence"
+linkf: /superphysics/what-is-superphysics
+linkftext: "what-is-superphysics?"
 author: Juan
 icon: /icons/sp.png
 ---
@@ -83,7 +83,7 @@ Thus, existence is the effect. Desire is the cause. The idea-particle that took 
 
 A lot of metaphysical doctrines and moral philosophies emphasize consciousness and mind, but do not look into the nature of desire and feelings of the mind. 
 
-These desires are such a powerful principle that it even leads to the invention of concepts such as God*, Allah, Yahweh, Jehovah, Kali, Ganesh, etc. as stated in [the previous post](/articles/superphysics/god-is-existence). 
+These desires are such a powerful principle that it even leads to the invention of concepts such as God*, Allah, Yahweh, Jehovah, Kali, Ganesh, etc. as stated in the previous post. 
 
 
 > *Atheists often bash religions for believing in arbitrary Deities. They do not realize that those Deities are a symptom of the natural mental or metaphysical limitation of most humans. Bashing a religion would be like bashing a disabled person for being disabled. The moral solution is to not bash the disabled, but on the contrary, to give them more assistance than ordinary. This is why Superphysics embraces religions and focuses on their common traits and feelings, instead of dwelling on their differences.

@@ -4,15 +4,13 @@ title=  "Money Demand and the Ratio of Gold to Silver"
 date=  2020-01-19
 image=  "/covers/wn.jpg"
 description=  "The consumption of those metals in manufactures is much more rapid and sensible though it may be less than this gradual consumption in coin and plate"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-10b"
-linkbtext=  "Chapter 10 Part 2a"
-linkf=  "/research/smith/wealth-of-nations/book-2"
-linkftext=  "Chapter 10 Part 2b"
-# heading=  Chapter 11 Digression 2b
+linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d2b"
+linkbtext=  "Chapter 11 Part 2a"
+linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3a"
+linkftext=  "Chapter 11 Part 3b"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
+
 
 {{< s v="169" >}} The continual consumption of the precious metals is very sensible:
 - in coin by wearing

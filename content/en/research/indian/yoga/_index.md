@@ -1,6 +1,6 @@
 ---
 title: "Yoga Sutras by Patanjali Simplified"
-subtitle: "Coming Soon!"
+subtitle: "Yoga Sutras Simplified"
 linkTitle: "Yoga Sutras"
 description: ""
 image: "/covers/yoga.jpg"

@@ -4,10 +4,10 @@ heading: "Why you only have 1 idea at a time"
 date: "2020-01-01"
 image: "/photos/social/monkey.jpg"
 description: "Why you only have 1 idea at a time"
-linkb: /articles/superphysics/everything-is-an-idea
+linkb: /superphysics/principles/idea
 linkbtext: "Everything-is-an-idea"
-linkf: /articles/superphysics/what-is-consciousness
-linkftext: "What-is-consciousness?"
+linkf: /superphysics/principls/consciousness
+linkftext: "consciousness"
 author: Juan
 icon: /icons/sp.png
 icontext: Superphysics icon

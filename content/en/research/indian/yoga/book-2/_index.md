@@ -1,6 +1,6 @@
 ---
 title: "Book 2"
-subtitle: "Coming Soon!"
+subtitle: "Yoga Sutras Simplified"
 description: ""
 image: "/covers/yoga.jpg"
 ---

@@ -1,13 +1,13 @@
 ---
-title: "Yoga"
-heading: "Chapter 1 of Yoga Sutras Simplified"
+title: "The Mind"
+heading: "Chapter 2 Book 4 of Yoga Sutras Simplified"
 date: 2022-01-31
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"
-linkb: "/research/indian/yoga/book-1/chapter-11"
-linkbtext: "Chapter 11"
-linkf: "/research/indian/yoga/book-1/chapter-02"
+linkb: "/research/indian/yoga/book-4/chapter-01"
+linkbtext: "Chapter 1"
+linkf: "/research/indian/yoga/"
 linkftext: "Index"
 icon: "/flags/in.png"
 ---

@@ -7,8 +7,8 @@ image: /photos/econ/writer.jpg
 description : "We propose Bullet-style Writing style for writing content that is better for the internet and SEO"
 linkb: "/social/supersociology/solutions"
 linkbtext: "Social solutions"
-linkf: "/superphysics/solutions/how-to-fix-math"
-linkftext: "how-to-fix-math"
+linkf: "/superphysics/solutions/qualimath"
+linkftext: "Qualimath"
 author: Juan
 icon: /icons/sp.png
 ---

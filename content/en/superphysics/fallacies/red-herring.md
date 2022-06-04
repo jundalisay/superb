@@ -49,7 +49,7 @@ Fallacies are easy to detect because there is no long train of ideas to confuse 
 
 ### “Misdirection” instead of “Red Herring”
 
-![Red-herring diagram](https://sorasystem.sirv.com/graphics/f-misdirection.jpg)
+![Red-herring diagram](/graphics/misdirection.jpg)
 
 A misdirection uses the natural relation of two related ideas to misdirect the logic onto a fallacy. An example is: “Children are our future, so we must raise taxes for a better future.”
 

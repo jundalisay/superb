@@ -1,27 +1,28 @@
 ---
-title: "Yoga"
-heading: "Chapter 1 of Yoga Sutras Simplified"
+title: "Eight Means of Yoga"
+heading: "Chapter 2 Book 2 of Yoga Sutras Simplified"
 date: 2022-01-31
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"
-linkb: "/research/indian/yoga/book-1/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/indian/yoga/book-1/chapter-02"
-linkftext: "Index"
+linkb: "/research/indian/yoga/book-2/chapter-01b"
+linkbtext: "Chapter 1b"
+linkf: "/research/indian/yoga/book-3"
+linkftext: "Book 3"
 icon: "/flags/in.png"
 ---
 
 
-29. The eight means of Yoga are: 
-- the Commandments
-- the Rules
-- right Poise
-- right Control of the life-force
-- Withdrawal
-- Attention
-- Meditation
-- Contemplation.
+29. The 8 means of Yoga are: 
+
+1. the Commandments
+2. the Rules
+3. right Poise
+4. right Control of the life-force
+5. Withdrawal
+6. Attention
+7. Meditation
+8/ Contemplation.
 
 These eight means are to be followed in their order, in the sense which will immediately be made clear. 
 
