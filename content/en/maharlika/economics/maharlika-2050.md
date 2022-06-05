@@ -13,17 +13,33 @@ icon: "/flags/ph.png"
 ---
 
 
-The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Post-Keynesian Dutertenomics, which is embodied in the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan.
+The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Keynesian Dutertenomics, which is embodied in the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan.
 
 The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/law-social-cycles). That class is made up of business and monied interests.
 
-With the 3 classes weakened, the Philippine economy easily collapsed after Covid struck. To get back on its feet, it had to incur a huge Php 12 trillion debt which <!-- **seems** to be an advantage to businesses, but --> is actually detrimental <!-- to it in the medium term and fatal in the long run --> as the governent will pay for it through taxation:
+With the 3 classes weakened, the Philippine economy easily collapsed after Covid struck. To get back on its feet, it had to incur a huge Php 12 trillion debt which <!-- **seems** to be an advantage to businesses, but --> the people will have to pay for eventually  <!-- to it in the medium term and fatal in the long run --> through taxation:
 
 
 {{< q a="smith" >}}
 The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 2</cite>
 {{< /q >}}
+
+
+Debt transfers the present huge burden and spreads it to the future in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
+
+
+{{< q a="smith" >}}
+This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
+
+However, it raises more money than the old practice of anticipation.
+<br><br>
+When men became familiar with funding, it became universally preferred to anticipation during great state exigencies.
+
+Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
+{{< /q >}}
+
+
 
 Class | Example
 --- | ---
@@ -72,7 +88,9 @@ The very first step is to establish a moral system based on [constitutional virt
 8. Environmentalism 
 
 
-These define what a Maharlikan is. These are not hard-coded, but can be changed every few years. With this new identity, the people stop being Filipinos or subjects or employees of King Philip, and become Maharlikan, an independent people with their own mind.  
+These define what a Maharlikan is. These are not hard-coded, but can be changed every few years. 
+
+With this new identity, the people stop being Filipinos or subjects or employees of King Philip, and become Maharlikan, an independent people with their own mind.  
 
 ![Lapu](/photos/medieval/lapu.jpg)
 
@@ -131,7 +149,16 @@ The Visayan settlements are along the coast are not connected by common jurisdic
 <cite>Chau Ju Kua [12th century Pre-colonial Philippines]</cite>
 {{< /q >}}
 
-A unitary government on such a land will lead to feudalism wherein the local governments act like vassals of imperial Manila (the capital of Maharlika). This then leads to low productivity since the people are under a leader that owes his rule to Manila instead of the locals.
+A unitary government on such a land will lead to feudalism wherein the local governments act like vassals of imperial Manila (the capital of Maharlika). An example is how warlords were [allowed by the president to keep private armies](https://www.bbc.com/news/world-asia-pacific-11139653). 
+
+{{< q >}}
+In 2006, Mrs Arroyo issued an executive order legalising the informal private "armies" being kept by families like the Ampatuans.. legitimising their use as a means of local control.
+<cite>BBC News</cite>
+{{< /q >}}
+
+
+
+This contributes to rent-seeking and low productivity since the people are under a leader that owes his rule to Manila instead of the locals.
 
 Maharlikanism suggests a [federation of 27 states](/maharlika/governance/federalism) that will spur and maximize the productivity of the people. 
 
@@ -165,7 +192,9 @@ The  representatives will have all the legislative power. The votes on legislati
 
 The federalized system will be ideal for our proposed bayanihan barter economy which is based on [points as a store of value](/social/economics/solutions/bur/).
 
-A point is pegged to 1 kilogram of NFA rice. This will make the economy secure from inflation and financial crises, which we predict to happen in a few years. This system give importance to agriculture and will be the basis of the Maharlikan cooperative system.
+A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](/social/economics/principles/effort-theory-of-value).
+
+This will make the economy secure from inflation and financial crises, which we predict to happen in a few years. This system give importance to agriculture and will be the basis of the Maharlikan cooperative system.
 
 <!-- This makes it a kind of delayed barter system that is based on morals instead of money, specifically pakikipagkapwa. This would make entrepreneurship cheaper since morals (trust, integrity, honesty) are free yet very expensive. --> 
 
@@ -297,7 +326,7 @@ Currently, Western countries advocate massive spending on green energy to reduce
 A more sustainable solution is to [use trees themselves to reduce greenhouse gases](https://www.nationalgeographic.com/environment/article/planting-trees-helps-fight-climate-change-but-we-need-billions-more-seedlings). Trees work for free and can maintain themselves after some time. 
 
 The government can barter food and other non-monetary items in exchange for the labor for tree-planting and maintenance (such as mangroves in coastal areas). This will:
-- drive employment while providing welfare (ayuda)
+- drive employment while providing welfare, as an alternative to ayuda and univesal basic income 
 - enrich the soil naturally
 - prevent erosion and floods
 - raise land values

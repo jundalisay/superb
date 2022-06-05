@@ -3,7 +3,7 @@ title: "Dutertenomics"
 # date: 2021-09-30
 heading: "Ambisyon 2040"
 date: 2021-09-30
-description: "Dutertenomics is the Philippine implementation of Post Keynesianism"
+description: "Dutertenomics is the Philippine implementation of Keynesianism"
 image: https://sorasystem.sirv.com/photos/duterte.jpg
 linkb: "/maharlika/politicians/duterte"
 linkbtext: "Duterte"
@@ -28,7 +28,7 @@ To see where the contradiction occurs, let's dissect Dutertenomics. Its most pro
 - Land Distribution
 - Continuation of *Pantawid Pamilya* of Noynoy Aquino
 
-These policies are consistent with Post-Keynesian doctrine, except for "Pantawid Pamilya" which is Conditional Cash Transfer (CCT), a modified version of Universal Basic Income (UBI) implemented by former President Noynoy Aquino.
+These policies are consistent with the Keynesian doctrine, except for "Pantawid Pamilya" which is Conditional Cash Transfer (CCT), a modified version of Universal Basic Income (UBI) implemented by former President Noynoy Aquino.
 
 CCT is a neoliberal policy* that [helps development banks](/social/economics/solutions/how-to-solve-inequality) such as the World Bank by giving employment to the bank's consultants and its money. Likewise, tech startups lobby for UBI to give employment to themselves via blockchain and other fancy new technologies, even if there might be no added benefit for the poor.  
 
@@ -219,9 +219,9 @@ Didn't they know that this is what Vietnam does with state-owned Vinafood which 
 Didn't they know that Marcos replicated this with the NFA (milling), Food Terminal Inc as FTI (storage), and Kadiwa stores (retail) which allowed the country to export rice in the past?
 
 
-## The Problem with Neoliberal Post-Keynesianism
+## The Problem with Neoliberal Keynesianism
 
-These problems are really rooted in the flawed assumptions of Post-Keynesianism which spread after the 2008 Financial Crisis. Because of the doctrine of profit maximization, the burden of driving growth fell to the government which had to build huge projects, get debt, then raise taxes to pay for that debt. 
+These problems are really rooted in the flawed assumptions of Keynesianism which spread after the 2008 Financial Crisis. Because of the doctrine of profit maximization, the burden of driving growth fell to the government which had to build huge projects, get debt, then raise taxes to pay for that debt. 
 
 In the case of Dutertenomics, TRAIN and food importation (Rice Tarrification) was used to pay for Build Build Build. It oppresses consumers and farmers to support the construction industry. It is not a growth that is inclusive nor balanced.
 
