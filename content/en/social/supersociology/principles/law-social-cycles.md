@@ -90,9 +90,9 @@ Society must therefore have its infancy, youth, manhood, and old age, similar to
 
 ## Universal Relativity 
 
-We plug in this model into our equation for everything to come up with something for machine learning to work on:
+We plug in this model into our [equation-for-everything](/social/economics/principles/eagle) to come up with something for machine learning to work on:
 
-
+![Universal Relativity](/graphics/social/cycle.png)
 
 
 <!-- 
