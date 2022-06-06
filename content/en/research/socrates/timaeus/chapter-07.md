@@ -93,24 +93,50 @@ Thus our original design of discoursing about the universe down to the creation 
 
 ### Animals 
 
-The men who were cowards or led unrighteous lives changed into the nature of women in their second generation. This was the reason why at that time the gods created in us the desire of sexual intercourse, contriving in man one animated substance, and in woman another, which they formed respectively in the following manner. 
+The men who were cowards or led unrighteous lives changed into women in their second generation.
 
-The outlet for drink by which liquids pass through the lung under the kidneys and into the bladder, which receives and then by the pressure of the air emits them, was so fashioned by them as to penetrate also into the body of the marrow, which passes from the head along the neck and through the back, and which in the preceding discourse we have named the seed. 
+This was the reason why at that time the gods created in us the desire of sexual intercourse, contriving in man one animated substance, and in woman another, which they formed respectively in the following manner. 
 
-The seed having life, and becoming endowed with respiration, produces in that part in which it respires a lively desire of emission, and thus creates in us the love of procreation. Wherefore also in men the organ of generation becoming rebellious and masterful, like an animal disobedient to reason, and maddened with the sting of lust, seeks to gain absolute sway; and the same is the case with the so-called womb or matrix of women; the animal within them is desirous of procreating children, and when remaining unfruitful long beyond its proper time, gets discontented and angry, and wandering in every direction through the body, closes up the passages of the breath, and, by obstructing respiration, drives them to extremity, causing all varieties of disease, until at length the desire and love of the man and the woman, bringing them together and as it were plucking the fruit from the tree, sow in the womb, as in a field, animals unseen by reason of their smallness and without form; these again are separated and matured within; they are then finally brought out into the light, and thus the generation of animals is completed.
+Liquids pass through the lung under the kidneys and into the bladder. This liquid is emitted by the pressure of the air*. This air penetrates also into the body of the marrow, which passes from the head along the neck and through the back. It ends in "the seed". 
 
-Thus were created women and the female sex in general. But the race of birds was created out of innocent light-minded men, who, although their minds were directed toward heaven, imagined, in their simplicity, that the clearest demonstration of the things above was to be obtained by sight; these were remodelled and transformed into birds, and they grew feathers instead of hair. 
 
-The race of wild pedestrian animals, again, came from those who had no philosophy in any of their thoughts, and never considered at all about the nature of the heavens, because they had ceased to use the courses of the head, but followed the guidance of those parts of the soul which are in the breast. 
+> *Superphysics note: This is the pranah of the spatial layer
+
+
+1. Humas
+
+The seed has life and respiration. It produces in that part in which it respires a lively desire of emission, and thus creates in us the love of procreation. 
+
+Wherefore also in men the organ of generation becoming rebellious and masterful, like an animal disobedient to reason, and maddened with the sting of lust, seeks to gain absolute sway. 
+
+The same is the case with the so-called womb or matrix of women; the animal within them is desirous of procreating children, and when remaining unfruitful long beyond its proper time, gets discontented and angry, and wandering in every direction through the body, closes up the passages of the breath, and, by obstructing respiration, drives them to extremity, causing all varieties of disease, until at length the desire and love of the man and the woman, bringing them together and as it were plucking the fruit from the tree, sow in the womb, as in a field, animals unseen by reason of their smallness and without form; these again are separated and matured within; they are then finally brought out into the light, and thus the generation of animals is completed.
+
+Thus, the female sex was created. 
+
+. birds
+
+But the race of birds was created out of innocent light-minded men, who, although their minds were directed toward heaven, imagined, in their simplicity, that the clearest demonstration of the things above was to be obtained by sight; 
+
+these were remodelled and transformed into birds, and they grew feathers instead of hair. 
+
+
+. feet
+
+The race of wild pedestrian animals came from those who had no philosophy in any of their thoughts, and never considered at all about the nature of the heavens, because they had ceased to use the courses of the head, but followed the guidance of those parts of the soul which are in the breast. 
 
 In consequence of these habits of theirs they had their front-legs and their heads resting upon the earth to which they were drawn by natural affinity; and the crowns of their heads were elongated and of all sorts of shapes, into which the courses of the soul were crushed by reason of disuse. 
 
 
-This was the reason why they were created quadrupeds and polypods= God gave the more senseless of them the more support that they might be more attracted to the earth. And the most foolish of them, who trail their bodies entirely upon the ground and have no longer any need of feet, he made without feet to crawl upon the earth. 
+This was the reason why they were created quadrupeds and polypods: God gave the more senseless of them the more support that they might be more attracted to the earth. And the most foolish of them, who trail their bodies entirely upon the ground and have no longer any need of feet, he made without feet to crawl upon the earth. 
 
-The fourth class were the inhabitants of the water= these were made out of the most entirely senseless and ignorant of all, whom the transformers did not think any longer worthy of pure respiration, because they possessed a soul which was made impure by all sorts of transgression; and instead of the subtle and pure medium of air, they gave them the deep and muddy sea to be their element of respiration; and hence arose the race of fishes and oysters, and other aquatic animals, which have received the most remote habitations as a punishment of their outlandish ignorance. 
+4. The inhabitants of the water
+
+These were made out of the most entirely senseless and ignorant of all, whom the transformers did not think any longer worthy of pure respiration, because they possessed a soul which was made impure by all sorts of transgression. 
+
+Instead of the subtle and pure medium of air, they gave them the deep and muddy sea to be their element of respiration.  and hence arose the race of fishes and oysters, and other aquatic animals, which have received the most remote habitations as a punishment of their outlandish ignorance. 
 
 These are the laws by which animals pass into one another, now, as ever, changing as they lose or gain wisdom and folly.
 
-We may now say that our discourse about the nature of the universe has an end. The world has received animals, mortal and immortal, and is fulfilled with them, and has become a visible animal containing the visible—the sensible God who is the image of the intellectual, the greatest, best, fairest, most perfect—the one only-begotten heaven.
+<!-- We may now say that our discourse about the nature of the universe has an end. The world has received animals, mortal and immortal, and is fulfilled with them, and has become a visible animal containing the visible—the sensible God who is the image of the intellectual, the greatest, best, fairest, most perfect—the one only-begotten heaven.
 
+ -->

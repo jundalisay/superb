@@ -8,8 +8,6 @@ linkbtext= "section-1c"
 linkf= "/research/socrates/timaeus/section-1d"
 linkftext= "Section 1d"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
 draft= true
 +++
 
@@ -168,11 +166,27 @@ When the creators had furnished all these natures for our sustenance, they cut c
 
 The causes of respiration have now to be considered. The exhalation of the breath through the mouth and nostrils displaces the external air, and at the same time leaves a vacuum into which through the pores the air which is displaced enters. Also the vacuum which is made when the air is exhaled through the pores is filled up by the inhalation of breath through the mouth and nostrils. The explanation of this double phenomenon is as follows:—Elements move towards their natural places. Now as every animal has within him a fountain of fire, the air which is inhaled through the mouth and nostrils, on coming into contact with this, is heated; and when heated, in accordance with the law of attraction, it escapes by the way it entered toward the place of fire. On leaving the body it is cooled and drives round the air which it displaces through the pores into the empty lungs. This again is in turn heated by the internal fire and escapes, as it entered, through the pores.
 
-The phenomena of medical cupping-glasses, of swallowing, and of the hurling of bodies, are to be explained on a similar principle; as also sounds, which are sometimes discordant on account of the inequality of them, and again harmonious by reason of equality. The slower sounds reaching the swifter, when they begin to pause, by degrees assimilate with them= whence arises a pleasure which even the unwise feel, and which to the wise becomes a higher sense of delight, being an imitation of divine harmony in mortal motions. Streams flow, lightnings play, amber and the magnet attract, not by reason of attraction, but because ‘nature abhors a vacuum,’ and because things, when compounded or dissolved, move different ways, each to its own place.
+The phenomena of medical cupping-glasses, of swallowing, and of the hurling of bodies come from a similar principle.
 
-I will now return to the phenomena of respiration. The fire, entering the belly, minces the food, and as it escapes, fills the veins by drawing after it the divided portions, and thus the streams of nutriment are diffused through the body. The fruits or herbs which are our daily sustenance take all sorts of colours when intermixed, but the colour of red or fire predominates, and hence the liquid which we call blood is red, being the nurturing principle of the body, whence all parts are watered and empty places filled.
+Sounds are sometimes:
+- discordant because of their inequality 
+- harmonious because of equality. 
 
-The process of repletion and depletion is produced by the attraction of like to like, after the manner of the universal motion. The external elements by their attraction are always diminishing the substance of the body= the particles of blood, too, formed out of the newly digested food, are attracted towards kindred elements within the body and so fill up the void. When more is taken away than flows in, then we decay; and when less, we grow and increase.
+The slower sounds reach the faster sounds when the faster sounds begin to pause. This makes the slower sounds assimilate with them. This creates a pleasure which even the unwise feel. To the wise, this pleasure gives more delight because it imitates the divine harmony in mortal motions.
+
+Streams flow, lightnings play, amber and the magnet attract, not by attraction, but because:
+- ‘nature abhors a vacuum’ and 
+- things, when compounded or dissolved, move different ways, each to its own place.
+
+## Respiration
+
+ The fire [pranah] enters the belly and minces the food. As it escapes, it fills the veins by drawing after it the divided portions. Thus, the streams of nutriment are diffused through the body. 
+
+ The fruits or herbs which are our daily sustenance take all sorts of colours when intermixed. But fire or the red color predominates. Hence, blood is red. It is the nurturing principle of the body which waters all parts and fills all empty places.
+
+The process of repletion and depletion is produced by the attraction of like to like, after the manner of the universal motion. 
+
+The external elements by their attraction are always diminishing the substance of the body= the particles of blood, too, formed out of the newly digested food, are attracted towards kindred elements within the body and so fill up the void. When more is taken away than flows in, then we decay; and when less, we grow and increase.
 
 The young of every animal has the triangles new and closely locked together, and yet the entire frame is soft and delicate, being newly made of marrow and nurtured on milk. These triangles are sharper than those which enter the body from without in the shape of food, and therefore they cut them up. But as life advances, the triangles wear out and are no longer able to assimilate food; and at length, when the bonds which unite the triangles of the marrow become undone, they in turn unloose the bonds of the soul; and if the release be according to nature, she then flies away with joy. For the death which is natural is pleasant, but that which is caused by violence is painful.
 

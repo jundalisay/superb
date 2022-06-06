@@ -52,16 +52,27 @@ Merchants | Mercantile | Socratic Neoliberals | Vaesyas | Oligarchs
 > *We add 'Socratic' to separate them a bit from the modern classification, while having some resemblance 
 
 
+
+## P-M-P-M
+
 An easy mnemomic is "P-M-P-M" which stands for Populist-Militant-Philosopher-Merchant. In this way:
 
-- Socialists, Liberals, and American libertarians fall under Socratic Liberals
-- Dictators, Generals, Communists, and Fascists fall under Socratic NeoCons
-- Priests, Technocrats, Researchers, and Nazis fall under Socratic Conservatives
-- Big Businesses and Free marketeers fall under Socratic NeoLiberals
+- Socialists, Liberals, and American libertarians fall under **Populists** or Socratic Liberals
+- Dictators, Generals, Communists, and Fascists fall under **Militants** or Socratic NeoCons
+- Priests, Technocrats, Researchers, and Nazis fall under **Philosophers** or Socratic Conservatives
+- Big Businesses and Free marketeers fall under **Merchants** or Socratic NeoLiberals
 
-This makes Socratic Liberals and Neoliberals as Socratic Left Wing, while Socratic Conservatives and NeoConservatives as Socratic Right Wing. Here, Left Wing represents matter (such as money), while Right Wing represents the immaterial (such as the soul). 
+This makes:
+- Populists and Oliarchs <!-- Socratic Liberals and Neoliberals --> as the Socratic Left Wing
+- Militants and Philosophers <!-- Socratic Conservatives and NeoConservatives --> as Socratic Right Wing. 
 
-We use this model to expose the current cycle of any society, based on the outcome of events. For example, a successful popular protest that topples a government indicates that the country is in a democractic phase. A successful military crackdown of that protest, on the contrary, will indicate that the society is in a tyranny phase. We use outcomes of changing events* to reveal the soul of the society, just as dust reveals an invisible object by establishing markers. 
+Here, Left Wing represents matter (such as money), while Right Wing represents the immaterial (such as the soul).
+
+We use this model to expose the current cycle of any society, based on the outcome of events. For example:
+- a successful popular protest that topples a government indicates that the country is in a <!-- democractic --> populist phase
+- a successful military crackdown of that protest, on the contrary, will indicate that the society is in a militant phase
+
+We use outcomes of changing events* to reveal the soul of the society, just as dust reveals an invisible object by establishing that object's outline.
 
 > *This is what Hegel had in mind when he mentioned dialectics. 
 
@@ -69,12 +80,12 @@ We use this model to expose the current cycle of any society, based on the outco
 ![Soul of Society](https://sorasystem.sirv.com/graphics/soulsociety.png)
 
 
-These cycles then reveal the soul of the society, the most important aspects of which are its age and phases. Is a society metaphysically young and rising or old and stagnating? Has a country's soul been recently replaced by a new one? 
+These cycles then reveal the soul of the society, the most important aspects of which are its **age and phases**. Is a society metaphysically young and rising or old and stagnating? Has a country's soul been recently replaced by a new one? 
 
-{{< quote ava="soc" >}}
+{{< q a="hume" >}}
 Society must therefore have its infancy, youth, manhood, and old age, similar to that each individual form which it contains. Man has these variations equally with every animal and plant.
 <cite>Essay 11: On The Populousness Of Ancient Nations, Simplified Essays by David Hume</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 <!-- 
@@ -95,10 +106,10 @@ The social cycles can be explained in a short story:<br><br>One afternoon, a sma
 
 Pantrynomics, the subset of Social Superphysics, explains that the cycles are based on the four laws of value:
 
-1. The Philosophical or Brahmin class comes from the Second law of Value
-2. The Merchant or Vaeshya class comes from the Third law
-3. The Militant or Ksattriya class comes from the Fourth law
-4. The Popular or Shudra class comes from the First law
+1. The Popular or Shudra class comes from [the First law of Value](/social/economics/principles/first-law)
+2. The Philosophical or Brahmin class comes from [the Second law of Value](/social/economics/principles/second-law)
+3. The Merchant or Vaeshya class comes from the [the Third law of Value](/social/economics/principles/third-law)
+4. The Militant or Ksattriya class comes from [the Fourth law of Value](/social/economics/principles/fourth-law)
 
 The intellectual class is the closest to the metaphysical dimension while the worker class is the closest to physical dimenion. 
 
@@ -113,3 +124,6 @@ If you know things happen in a regular cycle, then you can predict what will hap
 
 We also have a [running list of predictions](/social/cycles/predictions/) to prove that cycles work and that we are inside a Matrix.
 
+We use these correct predictions to prove the solidity of the principles discovered by Socrates, David Hume, Hinduism, Buddhism, and Taoism. This is similar to how the solidity of Newtonian Physics was proven by the correct prediction of the arrival of Haley's comet. 
+
+As a science, these cycles and laws of value unify Sociology and Economics by describing the causes of the dynamics of the soul of society.

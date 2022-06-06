@@ -15,15 +15,43 @@ icon: "/flags/ph.png"
 
 The [previous post](/maharlika/economics/dutertenomics) explained the problem with the Keynesian Dutertenomics, which is embodied in the neoliberal economic plan called "Ambisyon 2040" by Arsenio Balisacan.
 
+
+## Society Subsidizing the Rich
+
 The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/law-social-cycles). That class is made up of business and monied interests.
 
-With the 3 classes weakened, the Philippine economy easily collapsed after Covid struck. To get back on its feet, it had to incur a huge Php 12 trillion debt which <!-- **seems** to be an advantage to businesses, but --> the people will have to pay for eventually  <!-- to it in the medium term and fatal in the long run --> through taxation:
+Class | Example
+--- | ---
+Merchants | Businessmen, Banks, Traders
+Populists | Workers, Employees, General labor (Farm labor, fishermen, maids, etc)
+Militants | Government, Military, Police
+Philosophers | Universities, Researchers, Inventors, Religions 
 
+
+
+With the 3 classes weakened, the Philippine economy easily collapsed after Covid struck. To get back on its feet, it had to incur a huge Php 12 trillion debt.
+
+The debt is in money which is the expertise of the monied interests. **Thus, the solution to the problem created by the merchant class is also facilitated by those same merchant class.** 
+
+It would be like getting thieves to be in charge of security in your estate. They would allow expert burglaries which can only be solved by themselves to keep themselves employed and relevant while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.   
+
+Such a genius scheme in macroeconomics really began in the 1970s after the Nixon shock. 
+
+The profit maximization doctrine of the merchant class stops growth. And so the merchant class lobbies for public debt, as Keynesian "deficit spending". This is really paid for by the entire society. 
+
+Thus, the public subsidizes the lavish lifestyle of the overgrown merchant class.
 
 {{< q a="smith" >}}
 The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 2</cite>
 {{< /q >}}
+
+
+{{< q a="smith" >}}
+In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts. Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it. A small stop in that great blood-vessel will bring the most dangerous disorders on the whole political body.
+<cite>The Wealth of Nations Simplified, Book 4, Chapter 7</cite>
+{{< /q >}}
+
 
 
 Debt transfers the present huge burden and spreads it to the future in smaller chunks. Instead of one huge oppression now, the oppression is imposed gradually and with increasing weight.
@@ -37,16 +65,11 @@ However, it raises more money than the old practice of anticipation.
 When men became familiar with funding, it became universally preferred to anticipation during great state exigencies.
 
 Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
+<cite>The Wealth of Nations Simplified, Book 5, Chapter 3</cite>
 {{< /q >}}
 
 
 
-Class | Example
---- | ---
-Merchants | Businessmen, Banks, Traders
-Populists | Workers, Employees
-Militants | Government, Military, Police
-Philosophers | Universities, Researchers, Inventors, Religions 
 
 
 Here, we explain the proper solution as **Maharlika 2050** which puts the merchant class back in line with the other classes, specifically by:
@@ -61,9 +84,9 @@ Here, we explain the proper solution as **Maharlika 2050** which puts the mercha
 
 The main problem of the country is poverty and inequality brought by years of colonial and neocolonial rule.
 - The **colonial rule** was done through Spain and its military and Church<!-- , through its weapons and tactics -->. This is the dominance of the militant class (Spanish navy) and the philosopher class (Spanish Catholic Church)
-- The **neocolonial rule** was done through the US and its mercantile financial system (debt and equity-globalization)
+- The **neocolonial rule** was done through the US and its mercant-class financial system (debt and equity-globalization)
 
-These 2 phenomena stifle the natives who end up as:
+These 2 phenomena stifle the natives (populist class) who end up as:
 - overseas slaves called OFWs (overseas Filipino workers)
 - lowly call center agents
 
@@ -90,9 +113,14 @@ The very first step is to establish a moral system based on [constitutional virt
 
 These define what a Maharlikan is. These are not hard-coded, but can be changed every few years. 
 
+France has its own version of constitutional virtues as:
+- Liberty
+- Equality
+- Fraternity
+
 With this new identity, the people stop being Filipinos or subjects or employees of King Philip, and become Maharlikan, an independent people with their own mind.  
 
-![Lapu](/photos/medieval/lapu.jpg)
+{{<img src="/photos/medieval/lapu.jpg" alt="Lapu Lapu" cap="Lapu Lapu is the first Western-recorded person to exhibit Maharlikan virtues. Datu Puti and the Negrito king who welcomes him are also pre-colonial examples." >}}
 
 These virtues can lead to a new culture and rules that can replace the morals of Spanish Catholicism and American liberalism. They will be the template for policy-changes that can be implemented until the 2050's when our model predicts a big social change to happen. 
 
@@ -104,10 +132,16 @@ These virtues can lead to a new culture and rules that can replace the morals of
 The main obstacle to identity is the Catholic and Islamic religions that were created in Europe and Arabia, respectively. **Those countries are not tropical, not archipelagos, nor have many natural disasters** like Maharlika. 
 
 Moreover, those religions had a political agenda that serves the interests of Europe and Arabia. For example:
-- **Christianity depicts God as a white male in the sky**. This makes Christian Filipinos subconsciously think whites are superior. This does not afflict the Muslim Filipinos who can criticize Western ideas and policies
-- **Islam requires Muslims to make a pilgrimage to Mecca**. This makes Muslim Filipinos spend for that trip which is a clear benefit to the economy of Saudi Arabia, and a loss to the Philippine economy
+- **Christianity depicts God as a white male in the sky**. This makes Christian Filipinos subconsciously think that whites are superior. This does not afflict the Muslim Filipinos who can criticize Western ideas and policies
+- **Islam requires Muslims to make a pilgrimage to Mecca**. This makes Muslim Filipinos spend for that trip which is a clear benefit to Saudi Arabia's economy, and a loss to the Philippine economy because the Saudis are not obligated to visit the Philippines in return.
 
-An open religious policy can reduce the incidence of terrorism like the Marawi seige. More importantly, it can spur critical thinking and raise the people's intellectual level, when combined with policy-change #6.
+An open religious policy can:
+- stop overpopulation by allowing abortion and contraception
+- stop domestic violence by allowing divorce
+- reduce the incidence of terrorism like the Marawi seige
+- when combined with policy-change #6, spur critical thinking and raise the people's intellectual level by increasing the variety of abstract cognitive experiences
+- increase productivity by replacing formal prayer (with its overhead) with informal ideation 
+
 
 {{< q a="smith">}}
 The religious teachers' interested zeal can be dangerous when only one sect is tolerated or when the society is divided into two or three great sects.
@@ -145,9 +179,11 @@ No Filipino shall establish laws on primogeniture, nor institutions restrictive 
 The Philippines currently has a unitary form of government because it followed administrative system established by the Spanish. The problem is that Maharlika was originally a confederation and without a single ruler. This is because **it is made up of many small islands and not a single land mass**.  
 
 {{< q >}}
-The Visayan settlements are along the coast are not connected by common jurisdiction. They are are all independent.
-<cite>Chau Ju Kua [12th century Pre-colonial Philippines]</cite>
+The Visayan settlements are along the coast are not connected by common jurisdiction. They are all independent.
+<cite>Chau Ju Kua, Chun Fan Chi Simplified</cite>
 {{< /q >}}
+
+<!--  [12th century Pre-colonial Philippines] -->
 
 A unitary government on such a land will lead to feudalism wherein the local governments act like vassals of imperial Manila (the capital of Maharlika). An example is how warlords were [allowed by the president to keep private armies](https://www.bbc.com/news/world-asia-pacific-11139653). 
 

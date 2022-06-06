@@ -71,11 +71,21 @@ Egotism is but the perversion of spiritual being. Ambition is the inversion of s
 
 The power and life which are the heritage of the spiritual man have been caught and enmeshed in psychical activities. Instead of pure being in the Divine, there has been fretful, combative, egotism, its hand against every man. Instead of the light of pure vision, there have been restless senses nave been re and imaginings. Instead of spiritual joy, the undivided joy of pure being, there has been self-indulgence of body and mind. These are all real forces, but distorted from their true nature and goal. They must be extricated, like gems from the matrix, like the pith from the reed, steadily, without destructive violence. Spiritual powers are to be drawn forth from the psychic meshes.
 
-5. The psychic activities are five; they are either subject or not subject to the five hindrances (Book II, 3).
+5. There are psychic activities. They are either subject or not subject to the five hindrances (Book 2, 3).
 
-The psychic nature is built up through the image-making power, the power which lies behind and dwells in mind-pictures. These pictures do not remain quiescent in the mind; they are kinetic, restless, stimulating to new acts. Thus the mind-image of an indulgence suggests and invites to a new indulgence; the picture of past joy is framed in regrets or hopes. And there is the ceaseless play of the desire to know, to penetrate to the essence of things, to classify. This, too, busies itself ceaselessly with the mind-images. So that we may classify the activities of the psychic nature thus:
+The psychic nature is built up through the image-making power, the power which lies behind and dwells in mind-pictures. 
 
-6. These activities are: Sound intellection, unsound intellection, predication, sleep, memory.
+These pictures do not remain quiescent in the mind. They are kinetic, restless, stimulating to new acts. 
+
+Thus the mind-image of an indulgence suggests and invites to a new indulgence; the picture of past joy is framed in regrets or hopes. And there is the ceaseless play of the desire to know, to penetrate to the essence of things, to classify. This, too, busies itself ceaselessly with the mind-images. So that we may classify the activities of the psychic nature thus:
+
+
+6. These activities are: 
+- Sound intellection
+- unsound intellection
+- predication
+- sleep
+- memory.
 
 We have here a list of mental and emotional powers; of powers that picture and observe, and of powers that picture and feel. But the power to know and feel is spiritual and immortal. What is needed is, not to destroy it, but to raise it from the psychical to the spiritual realm.
 

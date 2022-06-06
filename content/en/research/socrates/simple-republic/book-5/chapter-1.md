@@ -38,11 +38,11 @@ We think that the right or wrong management of such matters will have a paramoun
 {{< /r >}}
 
 {{< r a="Glaucon" >}}
-Glaucon= I agree.
+I agree.
 {{< /r >}}
 
 {{< r a="Thrasymachus" >}}
-Thrasymachus= We all agree.
+We all agree.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
@@ -55,62 +55,91 @@ We came here to hear discourse.
 
 {{< r a="Glaucon" >}}
 Never mind about us.
+
+- What sort of community of women and children should prevail among our guardians? 
+- How shall we manage the period between birth and education, which seems to require the greatest care? 
 {{< /r >}}
 
 
-{{< l a="Socrates" >}}
-Answer the question in your own way= What sort of community of women and children should prevail among our guardians? How shall we manage the period between birth and education, which seems to require the greatest care? The answer is difficult and is either not so practical or is doubtful.
+<!-- {{< l a="Socrates" >}}
+The answer is difficult and is either not so practical or is doubtful.
 
-The danger is that I might miss the truth where I need to be sure of my footing the most, and then drag my friends with me in my fall. I believe that to be an involuntary homicide is a less crime than to be a deceiver on beauty, goodness, or justice in the matter of laws. That is a risk which I would rather run among enemies than among friends. You encourage me to this homicide.
+The danger is that I might miss the truth where I need to be sure of my footing the most, and then drag my friends with me in my fall. 
+
+I believe that to be an involuntary homicide is a less crime than to be a deceiver on beauty, goodness, or justice in the matter of laws. That is a risk which I would rather run among enemies than among friends. You encourage me to this homicide.
 {{< /l >}}
 
 Glaucon laughed
 
 {{< r a="Glaucon" >}}
 Well, in case your argument gives us serious injury, then we shall acquit you beforehand of the homicide. You shall not be a deceiver.
-{{< /r >}}
+{{< /r >}} -->
 
 {{< l a="Socrates" >}}
 The only way to determine how women and children will live in our State is to follow the path on which we originally started, when men were to be the guardians and watchdogs of the herd. The birth and education of our women is subject to similar or nearly similar regulations.
-
-Are dogs divided into males and females? Or do they both share equally in hunting, in keeping watch, and in the other duties of dogs? Do we entrust to the males the entire and exclusive care of the flocks and leave the females at home, under the idea that the bearing and suckling their puppies is labour enough for them?
+- Are dogs divided into males and females?
+- Or do they both share equally in hunting, in keeping watch, and in the other duties of dogs? 
+- Do we entrust the exclusive care of the flocks to the males?
+- Do we leave the bitches at home so that they can focus on bearing and suckling their puppies?
 {{< /l >}}
 
 {{< r a="Glaucon" >}}
-No, they share alike. The only difference between them is that the males are stronger and the females weaker.
+No, they share alike. 
+
+The only difference between them is that the males are stronger and the females weaker.
 {{< /r >}}
 
 
 {{< l a="Socrates" >}}
-Different animals cannot be used for the same purpose unless they are bred and fed in the same way. Then, if women are to have the same duties as men, they must have the same nurture and education. The education which was assigned to the men was music and gymnastic. Then women must be taught music and gymnastic and also the art of war, which they must practise like the men.
+Different animals cannot be used for the same purpose unless they are bred and fed in the same way. 
 
-The most ridiculous thing of all will be the sight of women naked in the palaestra, exercising with the men, especially when they are no longer young. They will not be a vision of beauty, just as enthusiastic and wrinkled old men continue to frequent the gymnasia.  But we must not fear the jests that will be directed against this sort of innovation. They will talk of:
-<ul>
-  <li>women's attainments in music and gymnastic, and</li>
-  <li>their wearing armour and riding on horseback!</li>
-</ul>
+If women are to have the same duties as men, they must have the same nurture and education. The education which was assigned to the men was music and gymnastic. Then women must be taught music and gymnastic and also the art of war, which they must practise like the men.
 
-We must go forward to the rough places of the law. At the same time, we beg that these gentlemen for once in their life be serious. The Cretans introduced the custom of naked warriors, followed by the Spartans. 
+The most ridiculous thing is to see old women naked in the palaestra, exercising with the men. They will not be a vision of beauty, just as enthusiastic and wrinkled old men continue to frequent the gymnasia.  
 
-Not long ago, the Hellenes and the barbarians thought that it was ridiculous and improper. But experience showed that to be naked was far better than to be covered up. The ludicrous effect to the outward eye vanished when reason was asserted. Then, those who ridiculed the good were called fools. The same became true for those who weigh the beautiful by any other standard but that of the good.
+People will joke against this innovation. They will talk of:
+- women's attainments in music and gymnastic, and
+- their wearing armour and riding on horseback!
+{{< /l >}}
+
+{{< l a="Socrates" >}}
+We must go forward to the rough places of the law. 
+
+At the same time, we beg these people for once in their life to be serious. The Cretans introduced the custom of naked warriors, followed by the Spartans. 
+
+Not long ago, the Hellenes and the barbarians thought that it was ridiculous and improper. But experience showed that being naked was far better than to be covered up. 
+
+The ludicrous effect to the outward eye vanished when reason was asserted. Then, those who ridiculed the good were called fools. The same became true for those who weigh the beautiful by any other standard but that of the good.
+{{< /l >}}
+
+
+## Women Can Lead Just as Men Can Lead
 
 <!-- Those innovations must have been ridiculed. -->
-First, let us understand the nature of woman. Can she share wholly or partially in the actions of men, or not at all? Can she share in the art of war?
+
+{{< l a="Socrates" >}}
+First, let us understand the nature of woman.
+
+- Can she share wholly or partially in the actions of men, or not at all? 
+- Can she share in the art of war?
 
 <!-- We can take the other side first and argue against ourselves.
 They will say= 'Socrates and Glaucon, you yourselves  -->
 
-Our opponents will say that we made the principle that everybody was to do the one work suited to his own nature. But the natures of men and women differ very much. The tasks assigned to men and to women should be the same yet be agreeable to their different natures. 
+Our principle is for everyone to do the one work suited to his own nature. 
+
+But the natures of men and women differ very much. The tasks assigned to men and to women should be the same yet be agreeable to their different natures. 
 
 <!-- This makes you inconsistent= Men and women are different but they should do the same actions.
 This is not easy to answer when asked suddenly.
 There are many others of a like kind, which I foresaw long ago. -->
 
-But when a man and a woman fall into the sea, they have to swim all the same. We have said that:
-<ul>
-  <li>different natures should have different pursuits, and</li>
-  <li>men's and women's natures are different.</li>
-</ul>
+But when a man and a woman fall into the sea, they have to swim all the same. 
+
+We have said that:
+- different natures should have different pursuits, and
+- men's and women's natures are different.
+{{< /l >}}
 
 <!-- Many people fall into doing what is against his will.
 
@@ -120,54 +149,96 @@ He will pursue a merely verbal opposition in the spirit of contention and not of
 
 There is certainly a danger of our getting unintentionally into a verbal opposition. -->
 
-We valiantly insist on the verbal truth, that different natures, as personality, should have different pursuits. But our opponents use the word 'nature' differently, as physical natures. 
+{{< l a="Socrates" >}}
+**We valiantly insist on the verbal truth, that different natures, as personality, should have different pursuits.** 
+
+But our opponents use the word 'nature' differently*, as physical natures. 
 
 <!-- , but we never considered at all what was the meaning of sameness or difference of nature, or why we distinguished them when we assigned different pursuits to different natures and the same to the same natures. -->
+- Is nature of bald men opposite that of hairy men?
+- If bald men are traders, then should we forbid the hairy men to be traders? 
+{{< /l >}}
 
-Is nature of bald men opposite that of hairy men? If bald men are traders, then should we forbid the hairy men to be traders? 
 
-We never meant that the opposition of natures should extend to every difference both in physical and in personality. It only extends to those differences in personal pursuit. 
+> *Superphysics note: The problem here is the ambiguity of the word "Nature". Hindus solve this with a separate word "dharma", just as Taoists use a separate word "tao" for "nature" that is based on metaphysics instead of that based on shallow perception
+
+
+{{< l a="Socrates" >}}
+**We never meant that the opposition of natures should extend to every difference both in physical and in personality.** It only extends to those differences in personal pursuit. 
 
 A real physician and a person who thinks like a physician has the same nature. The real physician and the real carpenter have different natures.
 
-If the male and female sex differ in their fitness for any art, then such an art should be assigned to one or the other of them. But if the difference is only in women bearing children, this is not a proof that a woman differs from a man in terms of what education she should receive.
+- **If male and female differ in their fitness for any art, then such an art should be assigned to the gender fit for it**
+- **But if the difference is only in women bearing children, this is not a proof that a woman differs from a man in terms of what education she should receive.**
 
-Therefore, our guardians and their wives should have the same pursuits. We ask our opponent= In terms of the pursuits or arts of civic life, how does the nature of a woman differ from that of a man?
+**Therefore, our guardians and their wives should have the same pursuits.**
+{{< /l >}}
 
-We can show that there is nothing peculiar in women which would affect them in the administration of the State. Let us ask him= When you spoke of a nature being gifted or not gifted, did you mean that:
-<ul>
-  <li>one man will acquire a thing easily, while another man will acquire it with difficulty?</li>
-  <li>one man will learn something easily, while another man will take time to learn the same thing?</li>
-  <li>one man's body is a good servant to his mind, while the body of the other man is a hindrance to him?</li>
-  <li>such differences distinguish a gifted man from an ungifted one?</li>
-</ul>
 
-Can you mention any pursuit wherein males do not have more of these gifts and qualities than the female? Females are better than males in weaving and managing pancakes and preserves. You are quite right in maintaining the general inferiority of females. Many women are in many things superior to many men, yet on the whole what you say is true.
+{{< l a="Socrates" >}}
+We ask our opponent: In the pursuits or arts of civic life, how does the nature of a woman differ from that of a man?
+
+We can show that there is nothing peculiar in women which would affect them in the administration of the State. 
+
+Let us ask him:
+- When you spoke of a nature being gifted or not gifted, did you mean that:
+  - one man will acquire a thing easily, while another man will acquire it with difficulty?
+  - one man will learn something easily, while another man will take time to learn the same thing?
+  - one man's body is a good servant to his mind, while the body of the other man is a hindrance to him?
+  - such differences distinguish a gifted man from an ungifted one?
+- Can you mention any pursuit where males do not have more of these gifts and qualities than females? 
+{{< /l >}}
+
+
+{{< r a="Glaucon" >}}
+Females are better than males in weaving and managing pancakes and preserves. 
 {{< /r >}}
+
+
+{{< l a="Socrates" >}}
+You are quite right in maintaining the general inferiority of females. 
+
+But many women are in many things superior to many men.<!-- , yet on the whole what you say is true. -->
+{{< /l >}}
 
 
 ## The Law Should Match the Nature of the People
 
 {{< l a="Socrates" >}}
-If there is no special faculty of administration in a state for women, and if all the gifts of nature are given to both men and women, then the women would be inferior to men. Then we should impose all our enactments on men and none on women.
-<ul>
-  <li>One woman has a gift of healing, while another does not.</li>
-  <li>One woman is a musician, and another has no music in her nature.</li>
-  <li>One woman likes gymnastics and military exercises, and another is unwarlike and hates gymnastics.</li>
-  <li>One woman is a philosopher, and another is an enemy of philosophy.</li>
-  <li>One has spirit, and another is without spirit.</li>
-  <li>One woman will have the temper of a guardian, and another not.</li>
-</ul>
+Women would be inferior to men if:
+- the state treats men and women equally
+- there were no special institutions for women
 
-The selection of the male guardians was determined by differences of this sort. Both men and women have the qualities which make a guardian. They differ only in their comparative strength or weakness. Those women who have such qualities are to be selected as the companions and colleagues of men who have similar qualities and whom they resemble in capacity and in character. The same natures should have the same pursuits. Then, there is nothing unnatural in assigning music and gymnastic to the wives of the guardians. The law which we then enacted was agreeable to nature.
+In such a case, <!-- faculty of administration in a state , and f all the gifts of nature are given to both , then the . Then we should impose  -->all our rules should only be for men and not for women.
 
-Therefore, it is not an impossibility or mere aspiration. The contrary practice, which prevails at present, is in reality a violation of nature. We had to consider:
-<ul>
-  <li>First, whether our proposals were possible (the possibility has been acknowledged), and</li>
-  <li>Secondly, whether they were the most beneficial.</li>
-</ul>
+- One woman has a gift of healing, while another does not.
+- One woman is a musician, and another has no music in her nature.
+- One woman likes gymnastics and military exercises, and another is unwarlike and hates gymnastics.
+- One woman is a philosopher, and another is an enemy of philosophy.
+- One has spirit, and another is without spirit.
+- One woman will have the temper of a guardian, and another not.
 
-We shall establish the great benefit next. The same education which makes a man a good guardian will make a woman a good guardian, for their original nature is the same. In the commonwealth which we were founding, the guardians are to be more perfect men. One man is better than another. Our guardians are the best of our citizens. Their wives be the best women. It is the interest of the State that its men and women be as good as possible.
+The selection of the male guardians was determined by such differences. **Both men and women have the qualities which make a guardian.**
+{{< /l >}}
+
+{{< l a="Socrates" >}}
+They differ only in their comparative strength or weakness. Those women who have such qualities are to be selected as the companions of men:
+- who have similar qualities and
+- whom they resemble in capacity and character. 
+
+**The same natures should have the same pursuits.** 
+
+Then, there is nothing unnatural in assigning music and gymnastic to the wives of the guardians. 
+
+**This law would thus be agreeable to nature. Therefore, it is not an impossibility or mere aspiration.**
+
+The contrary practice, which prevails at present, is in reality a violation of nature. We had to consider:
+1. Whether our proposals were possible
+2. Whether they were the most beneficial
+
+We shall establish the great benefit next. 
+
+The same education which makes a man a good guardian will make a woman a good guardian, for their original nature is the same. In the commonwealth which we were founding, the guardians are to be more perfect men. One man is better than another. Our guardians are the best of our citizens. Their wives be the best women. It is the interest of the State that its men and women be as good as possible.
 
 This is what the arts of music and gymnastic will accomplish. Thus, we have made a rule that is possible and very beneficial to the State. Let the wives of our guardians strip. Their virtue will be their robe. Let them share in the toils of war and the defence of their country. They will only get the lighter labours due to their weaker natures. But in other respects, their duties are to be the same.
 

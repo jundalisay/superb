@@ -121,10 +121,12 @@ In this way, the fund becomes insufficient to pay the principal and the interest
 Such improvident anticipations gave birth to the more ruinous practice of perpetual funding.
 
 This practice puts off the liberation of the public revenue from a fixed period to an indefinite period, never likely to come.
+
 However, it raises more money than the old practice of anticipation.
+
 When men became familiar with funding, it became universally preferred to anticipation during great state exigencies.
-Relieving the present exigency is always the object of government.
-    The future liberation of the public revenue they leave to the care of posterity.
+
+Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 
 27 During the reign of Queen Anne, which started in 1702, the market interest rate fell from 6% to 5%.
 

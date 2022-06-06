@@ -26,12 +26,13 @@ British industry was turned to suit one great market instead of many small marke
 Her commerce ran principally in one great channel instead of running in many small channels.
 Her industry and commerce was made less secure.
 Her whole political body was made less healthy.
-In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts.
 
-Her body is liable to many dangerous disorders which affect unproportioned bodies.
-Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it.
+In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts.
+- Her body is liable to many dangerous disorders which affect unproportioned bodies.
+- Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it.
 
 A small stop in that great blood-vessel will very likely bring the most dangerous disorders on the whole political body.
+
 The expectation of a rupture with the colonies has struck the British with more terror than the Spanish armada or a French invasion.
 
 This terror rendered the repeal of the stamp act a popular measure among the merchants, at least.

@@ -86,15 +86,21 @@ The senate:
 The power of the old senate continues for three weeks after the annual election of the county representatives. Then all the new senators are shut up in a conclave, like the cardinals.
 
 By an intricate ballot, such as that of Venice or Malta, they choose the following:
-- a protector, who represents the dignity of the commonwealth, and presides in the senate
+- a protector*, who represents the dignity of the commonwealth, and presides in the senate
 - two secretaries of state
 - a council of state which handles all foreign politics
-- a council of religion and learning which inspects the universities and clergy
+- a council of religion** and learning which inspects the universities and clergy
 - a council of trade inspects every thing that may affect commerce
 - a council of laws inspects all the abuses of law by the inferior magistrates and examines what improvements for the municipal law
 - a council of war inspects the militia and its arms and generals
 - a council of the admiralty controls the navy
     
+> *Superphysics note: We suggest this in our [solution to Afghanistan](/social/cycles/afghanistan/#solution-an-80-year-phased-approach) 
+
+
+> *Superphysics note: We suggest [a Guardian council](/research/socrates/simple-republic/book-5/chapter-1)
+
+
 Each council has:
 - five persons
 - six commissioners of the treasury
