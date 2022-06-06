@@ -1,5 +1,5 @@
 +++
-title= "Essential Subjects= Math and Geometry"
+title= "Essential Subjects: Math and Geometry"
 date= 2015-09-11
 image= "/covers/republic.jpg"
 description= "Inviting objects draw curiosity and intelligence. Uninviting objects do not (Chapter 2). The essential subjects are math, geometry, physics, astronomy, and dialectics."
@@ -8,8 +8,6 @@ linkftext= "Chapter 3"
 linkb= "/research/socrates/simple-republic/book-7/chapter-1/"
 linkbtext= "Chapter 1"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
 +++
 
 

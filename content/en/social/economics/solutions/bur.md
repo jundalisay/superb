@@ -254,7 +254,14 @@ A community pantry accepts plastic waste or compost collected by poor citizens i
 
 But what happens when a human moves from `Country A` to `Country B`? What happens to all his points left in his country? Can these be moved with him?
 
-BUR prevents arbitrary productivity-transfer in order to not let productivity get sucked away or be amassed by other people. This would have prevented the Asian Financial Crisis, 2008 Financial Crisis, the speculative attacks by George Soros, as well as the 2008 Food Crisis. 
+**BUR prevents arbitrary productivity-transfer in order to not let productivity get sucked away or be amassed by other people.** This prevents inequality and would have prevented:
+- the Asian Financial Crisis
+- 2008 Financial Crisis
+- the speculative attacks by George Soros
+- the 2008 Food Crisis. 
+
+
+
 
 But does this mean that foreign investments can never be made?
 

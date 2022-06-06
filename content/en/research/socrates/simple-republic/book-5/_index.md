@@ -1,5 +1,5 @@
 ---
-title: "Leadership"
+title: "The Guardians"
 linkTitle: "Book 5"
 heading: "Book 5"
 date: "2015-09-30"

@@ -88,6 +88,13 @@ Society must therefore have its infancy, youth, manhood, and old age, similar to
 {{< /q >}}
 
 
+## Universal Relativity 
+
+We plug in this model into our equation for everything to come up with something for machine learning to work on:
+
+
+
+
 <!-- 
 In The Republic, Socrates describes the four cycles of society  
 
@@ -104,7 +111,7 @@ The social cycles can be explained in a short story:<br><br>One afternoon, a sma
 
 ## Why are there four cycles?
 
-Pantrynomics, the subset of Social Superphysics, explains that the cycles are based on the four laws of value:
+Pantrynomics, the subset of Social Superphysics, explains that the cycles are based on the 4 laws of value which mirror the 4 laws of thermodynamics:
 
 1. The Popular or Shudra class comes from [the First law of Value](/social/economics/principles/first-law)
 2. The Philosophical or Brahmin class comes from [the Second law of Value](/social/economics/principles/second-law)
