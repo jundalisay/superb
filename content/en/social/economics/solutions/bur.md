@@ -152,7 +152,8 @@ On a personal level, the point-debts are called <!-- implemented through --> 'Ba
 
 This is similar to how the Inca established a nonmonetary economy using strings called *quipu* that represented an amount of food in the granary.
 
-{{< img src="https://sorasystem.sirv.com/photos/quipu.jpg" cap="The Inca empire was able to sustain an economy without money nor writing" alt="Quipu strings" >}}
+{{< img src="https://sorasystem.sirv.com/photos/quipu.jpg" cap="Adam Smith cited the Inca and Mongol civilizations as proof that large economies do not need currency to survive. The Inca used strings to represent food assets stored in community-granaries which were then traded for military service. Instead of strings, we use points. Instead of granaries, we use community hubs" alt="Quipu strings" >}}
+
 
 
 A donor can jumpstart the economy by giving food to the poor in exchange for points which the donor can claim through the labor or produce of the poor. For example, if the donor is the government, then:
@@ -168,8 +169,6 @@ In this way, BUR creates full employment witout being a debt-trap like microfina
 
 Adam Smith points to the [effort theory of value](/articles/pantrynomics/the-effort-theory-of-value) as the secret sauce of his poverty-and-inequality-free system.
  -->
-
-{{< img src="https://sorasystem.sirv.com/photos/quipu.jpg" cap="Adam Smith cited the Inca and Mongol civilizations as proof that large economies do not need currency to survive. The Inca used strings to represent food assets stored in community-granaries which were then traded for military service. Instead of strings, we use points. Instead of granaries, we use community hubs" alt="Quipu strings" >}}
 
 
 <!-- <img src="https://sorasystem.sirv.com/photos/mars.jpg" width="300px"> -->
