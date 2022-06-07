@@ -1,80 +1,128 @@
-+++
-title= "The Senses"
-# date= 2015-09-09
-date= 2022-01-25
-# image= "/photos/physics/galaxy.jpg"
-image= "/covers/timaeus.jpg"
-description= "Water, by condensation, becomes stone and earth. When melted and dispersed, passes into vapour and air"
-linkb= "/research/socrates/timaeus/chapter-05"
-linkbtext= "Chapter 5"
-linkf= "/research/socrates/timaeus/chapter-05c"
-linkftext= "chapter-05c"
-+++
+---
+title: "The Nature of Motion"
+date: 2022-01-28
+image: "/covers/timaeus.jpg"
+description: "The Simplified Timaeus by Plato"
+linkb: "/research/socrates/timaeus/chapter-05b"
+linkbtext: "Chapter 5b"
+linkf: "/research/socrates/timaeus/chapter-05d"
+linkftext: "Chapter 5d"
+---
 
 
-<!-- I have thus shown the various classes of bodies as they are diversified by their forms and combinations and changes into one another, and now I must endeavour to set forth their affections and the causes of them. In the first place, the bodies which I have been describing are necessarily objects of sense. But we have not yet considered the origin of flesh, or what belongs to flesh, or of that part of the soul which is mortal. And these things cannot be adequately explained without also explaining the affections which are concerned with sensation, nor the latter without the former= and yet to explain them together is hardly possible; for which reason we must assume first one or the other and afterwards examine the nature of our hypothesis. In order, then, that the affections may follow regularly after the elements, let us presuppose the existence of body and soul. -->
+It is impossible:
+- for anything to be moved without a mover. 
+- for a mover to exist without something which can be moved
 
-What do we mean that "fire is hot?" 
+Motion cannot exist where either of these are lacking. It is for impossible for these to be uniform. Therefore we must assign rest to uniformity and motion to the lack of uniformity. 
 
-We may reason about this from the dividing or cutting power which fire has on our bodies. We all feel that fire is sharp. We may further consider:
-- the fineness of the sides of fire
-- the sharpness of the angles of fire
-- the smallness of the particles of fire, and
-- the swiftness of the motion of fire
+Inequality is the cause of the nature which is lacking in uniformity. <!-- ; and of this we have already described the origin.  -->
 
-All this makes the action of fire violent and sharp, so that it cuts whatever it meets. 
+Why things when divided <!-- after their kinds --> do not cease to pass through one another and to change their place? 
 
-The original shape of fire (i.e. the pyramid), more than any other form, has a dividing power which cuts our bodies into small pieces (Kepmatizei). It naturally produces that affection called 'heat'. Hence, the origin of the name (thepmos, Kepma). 
+In the revolution of the universe are comprehended all the 4 elements. 
 
-The larger particles of moisture which surround the body, entering in and driving out the lesser, but not being able to take their places, compress the moist principle in us. This from being unequal and disturbed, is forced by them into a state of rest, which is due to equability and compression. 
+This is circular and having a tendency to come together. It compresses everything and will not allow any place to be left void. 
 
-But things which are contracted contrary to nature are by nature at war, and force themselves apart; and to this war and convulsion the name of shivering and trembling is given; and the whole affection and the cause of the affection are both termed cold. 
+Fire penetrates everywhere. Air goes next, as being next in rarity of the elements. The two other elements in like manner penetrate according to their degrees of rarity.
 
-That is called hard to which our flesh yields, and soft which yields to our flesh; and things are also termed hard and soft relatively to one another. That which yields has a small base; but that which rests on quadrangular bases is firmly posed and belongs to the class which offers the greatest resistance; so too does that which is the most compact and therefore most repellent. 
+For those things which are composed of the largest particles have the largest void left in their compositions. Those which are composed of the smallest particles have the least. 
 
-The nature of the light and the heavy will be best understood when examined in connexion with our notions of above and below; for it is quite a mistake to suppose that the universe is parted into two regions, separate from and opposite to each other, the one a lower to which all things tend which have any bulk, and an upper to which things only ascend against their will. For as the universe is in the form of a sphere, all the extremities, being equidistant from the centre, are equally extremities, and the centre, which is equidistant from them, is equally to be regarded as the opposite of them all. 
+The contraction caused by the compression thrusts the smaller particles into the interstices of the larger. 
 
-<!-- Such being the nature of the world, when a person says that any of these points is above or below, may he not be justly charged with using an improper expression? --> 
+Thus, when the small parts are placed side by side with the larger, and the lesser divide the greater and the greater unite the lesser, all the elements are borne up and down and hither and thither towards their own places; for the change in the size of each changes its position in space. 
 
-The centre of the universe is just the centre and nothing else. The circumference is not the centre, and has in no one part of itself a different relation to the centre from what it has in any of the opposite parts. 
+These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements in all time.
 
-Indeed, when it is in every direction similar, how can one rightly give to it names which imply opposition? For if there were any solid body in equipoise at the centre of the universe, there would be nothing to draw it to this extreme rather than to that, for they are all perfectly similar. 
 
-If a person were to go round the world in a circle, he would often, when standing at the antipodes of his former position, speak of the same point as above and below; for, as I was saying just now, to speak of the whole which is in the form of a globe as having one part above and another below is not like a sensible man. 
+### Kinds of Fire
 
-The reason why these names are used, and the circumstances under which they are ordinarily applied by us to the division of the heavens, may be elucidated by the following supposition:—if a person were to stand in that part of the universe which is the appointed place of fire, and where there is the great mass of fire to which fiery bodies gather—if he were to ascend thither, and, having the power to do this, were to abstract particles of fire and put them in scales and weigh them, and then, raising the balance, were to draw the fire by force towards the uncongenial element of the air, it would be very evident that he could compel the smaller mass more readily than the larger; for when two things are simultaneously raised by one and the same power, the smaller body must necessarily yield to the superior power with less reluctance than the larger; 
+1. Flame
+2. Emanations of flame which do not burn but only give light to the eyes
+3. The remains of fire, which are seen in red-hot embers after the flame has been extinguished. 
 
-The larger body is called heavy and said to tend downwards, and the smaller body is called light and said to tend upwards. And we may detect ourselves who are upon the earth doing precisely the same thing. For we often separate earthy natures, and sometimes earth itself, and draw them into the uncongenial element of air by force and contrary to nature, both clinging to their kindred elements. But that which is smaller yields to the impulse given by us towards the dissimilar element more easily than the larger; and so we call the former light, and the place towards which it is impelled we call above, and the contrary state and place we call heavy and below respectively. 
 
-The relations of these necessarily vary because the principal masses of the different elements hold opposite positions; for that which is light, heavy, below or above in one place will be found to be and become contrary and transverse and every way diverse in relation to that which is light, heavy, below or above in an opposite place.
+## Air 
 
-About all of them this has to be considered:—that the tendency of each towards its kindred element makes the body which is moved heavy, and the place towards which the motion tends below, but things which have an opposite tendency we call by an opposite name. 
+There are similar differences in the air. The brightest part is called the aether. The most turbid sort mist and darkness. There are various other nameless kinds which arise from the inequality of the triangles. 
 
-<!-- Such are the causes which we assign to these phenomena. As to the smooth and the rough, any one who sees them can explain the reason of them to another. For roughness is hardness mingled with irregularity, and smoothness is produced by the joint effect of uniformity and density. -->
 
-The most important of the affections which concern the whole body remains to be considered—that is, the cause of pleasure and pain in the perceptions of which I have been speaking, and in all other things which are perceived by sense through the parts of the body, and have both pains and pleasures attendant on them. 
+## Water 
 
-Let us imagine the causes of every affection, whether of sense or not, to be of the following nature, remembering that we have already distinguished between the nature which is easy and which is hard to move; for this is the direction in which we must hunt the prey which we mean to take. A body which is of a nature to be easily moved, on receiving an impression however slight, spreads abroad the motion in a circle, the parts communicating with each other, until at last, reaching the principle of mind, they announce the quality of the agent. But a body of the opposite kind, being immobile, and not extending to the surrounding region, merely receives the impression, and does not stir any of the neighbouring parts; and since the parts do not distribute the original impression to other parts, it has no effect of motion on the whole animal, and therefore produces no effect on the patient. This is true of the bones and hair and other more earthy parts of the human body; whereas what was said above relates mainly to sight and hearing, because they have in them the greatest amount of fire and air. Now we must conceive of pleasure and pain in this way. 
+Water is divided into 2 kinds:
 
-An impression produced in us contrary to nature and violent, if sudden, is painful; and, again, the sudden return to nature is pleasant; but a gentle and gradual return is imperceptible and vice versa. On the other hand the impression of sense which is most easily produced is most readily felt, but is not accompanied by pleasure or pain; such, for example, are the affections of the sight, which, as we said above, is a body naturally uniting with our body in the day-time; for cuttings and burnings and other affections which happen to the sight do not give pain, nor is there pleasure when the sight returns to its natural state; but the sensations are clearest and strongest according to the manner in which the eye is affected by the object, and itself strikes and touches it; there is no violence either in the contraction or dilation of the eye. But bodies formed of larger particles yield to the agent only with a struggle; and then they impart their motions to the whole and cause pleasure and pain—pain when alienated from their natural conditions, and pleasure when restored to them. Things which experience gradual withdrawings and emptyings of their nature, and great and sudden replenishments, fail to perceive the emptying, but are sensible of the replenishment; and so they occasion no pain, but the greatest pleasure, to the mortal part of the soul, as is manifest in the case of perfumes. But things which are changed all of a sudden, and only gradually and with difficulty return to their own nature, have effects in every way opposite to the former, as is evident in the case of burnings and cuttings of the body.
+1. liquid
+- small and unequal particles of water. This moves itself and is moved by other bodies owing to the want of uniformity and the shape of its particles
+2. fusile. 
+- this is formed of large and uniform particles, is more stable than the other, and is heavy and compact by reason of its uniformity. 
 
-Thus have we discussed the general affections of the whole body, and the names of the agents which produce them. And now I will endeavour to speak of the affections of particular parts, and the causes and agents of them, as far as I am able. In the first place let us set forth what was omitted when we were speaking of juices, concerning the affections peculiar to the tongue. These too, like most of the other affections, appear to be caused by certain contractions and dilations, but they have besides more of roughness and smoothness than is found in other affections; for whenever earthy particles enter into the small veins which are the testing instruments of the tongue, reaching to the heart, and fall upon the moist, delicate portions of flesh—when, as they are dissolved, they contract and dry up the little veins, they are astringent if they are rougher, but if not so rough, then only harsh. 
+When fire gets in and dissolves the particles and destroys the uniformity, it has greater mobility, and becoming fluid is thrust forth by the neighbouring air and spreads upon the earth. 
 
-Those of them which are of an abstergent nature, and purge the whole surface of the tongue, if they do it in excess, and so encroach as to consume some part of the flesh itself, like potash and soda, are all termed bitter. But the particles which are deficient in the alkaline quality, and which cleanse only moderately, are called salt, and having no bitterness or roughness, are regarded as rather agreeable than otherwise. Bodies which share in and are made smooth by the heat of the mouth, and which are inflamed, and again in turn inflame that which heats them, and which are so light that they are carried upwards to the sensations of the head, and cut all that comes in their way, by reason of these qualities in them, are all termed pungent. But when these same particles, refined by putrefaction, enter into the narrow veins, and are duly proportioned to the particles of earth and air which are there, they set them whirling about one another, and while they are in a whirl cause them to dash against and enter into one another, and so form hollows surrounding the particles that enter—which watery vessels of air (for a film of moisture, sometimes earthy, sometimes pure, is spread around the air) are hollow spheres of water; and those of them which are pure, are transparent, and are called bubbles, while those composed of the earthy liquid, which is in a state of general agitation and effervescence, are said to boil or ferment—of all these affections the cause is termed acid. And there is the opposite affection arising from an opposite cause, when the mass of entering particles, immersed in the moisture of the mouth, is congenial to the tongue, and smooths and oils over the roughness, and relaxes the parts which are unnaturally contracted, and contracts the parts which are relaxed, and disposes them all according to their nature;—that sort of remedy of violent affections is pleasant and agreeable to every man, and has the name sweet. But enough of this.
+This dissolution of the solid masses is called "melting". Their spreading out upon the earth flowing. Again, when the fire goes out of the fusile substance, it does not pass into a vacuum, but into the neighbouring air. 
 
-The faculty of smell does not admit of differences of kind; for all smells are of a half-formed nature, and no element is so proportioned as to have any smell. The veins about the nose are too narrow to admit earth and water, and too wide to detain fire and air; and for this reason no one ever perceives the smell of any of them; but smells always proceed from bodies that are damp, or putrefying, or liquefying, or evaporating, and are perceptible only in the intermediate state, when water is changing into air and air into water; and all of them are either vapour or mist. That which is passing out of air into water is mist, and that which is passing from water into air is vapour; and hence all smells are thinner than water and thicker than air. The proof of this is, that when there is any obstruction to the respiration, and a man draws in his breath by force, then no smell filters through, but the air without the smell alone penetrates. Wherefore the varieties of smell have no name, and they have not many, or definite and simple kinds; but they are distinguished only as painful and pleasant, the one sort irritating and disturbing the whole cavity which is situated between the head and the navel, the other having a soothing influence, and restoring this same region to an agreeable and natural condition.
+The air which is displaced forces together the liquid and still moveable mass into the place which was occupied by the fire, and unites it with itself. 
 
-In considering the third kind of sense, hearing, we must speak of the causes in which it originates. We may in general assume sound to be a blow which passes through the ears, and is transmitted by means of the air, the brain, and the blood, to the soul, and that hearing is the vibration of this blow, which begins in the head and ends in the region of the liver. The sound which moves swiftly is acute, and the sound which moves slowly is grave, and that which is regular is equable and smooth, and the reverse is harsh. A great body of sound is loud, and a small body of sound the reverse. Respecting the harmonies of sound I must hereafter speak.
+Thus, compressed the mass resumes its equability, and is again at unity with itself, because the fire which was the author of the inequality has retreated; and this departure of the fire is called cooling, and the coming together which follows upon it is termed congealment. 
 
-There is a fourth class of sensible things, having many intricate varieties, which must now be distinguished. They are called by the general name of colours, and are a flame which emanates from every sort of body, and has particles corresponding to the sense of sight. I have spoken already, in what has preceded, of the causes which generate sight, and in this place it will be natural and suitable to give a rational theory of colours.
+Of all the kinds termed fusile, that which is the densest and is formed out of the finest and most uniform parts is that most precious possession called gold, which is hardened by filtration through rock; this is unique in kind, and has both a glittering and a yellow colour. 
 
-Of the particles coming from other bodies which fall upon the sight, some are smaller and some are larger, and some are equal to the parts of the sight itself. Those which are equal are imperceptible, and we call them transparent. The larger produce contraction, the smaller dilation, in the sight, exercising a power akin to that of hot and cold bodies on the flesh, or of astringent bodies on the tongue, or of those heating bodies which we termed pungent. White and black are similar effects of contraction and dilation in another sphere, and for this reason have a different appearance. Wherefore, we ought to term white that which dilates the visual ray, and the opposite of this is black. There is also a swifter motion of a different sort of fire which strikes and dilates the ray of sight until it reaches the eyes, forcing a way through their passages and melting them, and eliciting from them a union of fire and water which we call tears, being itself an opposite fire which comes to them from an opposite direction—the inner fire flashes forth like lightning, and the outer finds a way in and is extinguished in the moisture, and all sorts of colours are generated by the mixture. This affection is termed dazzling, and the object which produces it is called bright and flashing. There is another sort of fire which is intermediate, and which reaches and mingles with the moisture of the eye without flashing; and in this, the fire mingling with the ray of the moisture, produces a colour like blood, to which we give the name of red. A bright hue mingled with red and white gives the colour called auburn (Greek). 
+A shoot of gold, which is so dense as to be very hard, and takes a black colour, is called adamant. 
 
-The law of proportion, however, according to which the several colours are formed, even if a man knew he would be foolish in telling, for he could not give any necessary reason, nor indeed any tolerable or probable explanation of them. Again, red, when mingled with black and white, becomes purple, but it becomes umber (Greek) when the colours are burnt as well as mingled and the black is more thoroughly mixed with them. 
+There is also another kind which has parts nearly like gold, and of which there are several species. It is denser than gold. It contains a small and fine portion of earth, and is therefore harder, yet also lighter because of the great interstices which it has within itself. 
 
-Flame-colour (Greek) is produced by a union of auburn and dun (Greek), and dun by an admixture of black and white; pale yellow (Greek), by an admixture of white and auburn. White and bright meeting, and falling upon a full black, become dark blue (Greek), and when dark blue mingles with white, a light blue (Greek) colour is formed, as flame-colour with black makes leek green (Greek). There will be no difficulty in seeing how and by what mixtures the colours derived from these are made according to the rules of probability. He, however, who should attempt to verify all this by experiment, would forget the difference of the human and divine nature. 
+This substance, which is one of the bright and denser kinds of water, when solidified is called copper. 
 
-For God only has the knowledge and also the power which are able to combine many things into one and again resolve the one into many. But no man either is or ever will be able to accomplish either the one or the other operation.
+There is an alloy of earth mingled with it, which, when the two parts grow old and are disunited, shows itself separately and is called rust. The remaining phenomena of the same kind there will be no difficulty in reasoning out by the method of probabilities. 
 
-These are the elements, thus of necessity then subsisting, which the creator of the fairest and best of created things associated with himself, when he made the self-sufficing and most perfect God, using the necessary causes as his ministers in the accomplishment of his work, but himself contriving the good in all his creations. Wherefore we may distinguish two sorts of causes, the one divine and the other necessary, and may seek for the divine in all things, as far as our nature admits, with a view to the blessed life; but the necessary kind only for the sake of the divine, considering that without them and when isolated from them, these higher things for which we look cannot be apprehended or received or in any way shared by us.
+A man may sometimes set aside meditations about eternal things, and for recreation turn to consider the truths of generation which are probable only. 
 
+He will thus gain a pleasure not to be repented of, and secure for himself while he lives a wise and moderate pastime. Let us grant ourselves this indulgence, and go through the probabilities relating to the same subjects which follow next in order.
+
+Water which is mingled with fire, so much as is fine and liquid (being so called by reason of its motion and the way in which it rolls along the ground), and soft, because its bases give way and are less stable than those of earth, when separated from fire and air and isolated, becomes more uniform, and by their retirement is compressed into itself.
+
+If the condensation be very great, the water above the earth becomes hail, but on the earth, ice; and that which is congealed in a less degree and is only half solid, when above the earth is called snow, and when upon the earth, and condensed from dew, hoar-frost. 
+
+There are many kinds of water which have been mingled with one another, and are distilled through plants which grow in the earth. This whole class is called by the name of juices or saps. 
+
+The unequal admixture of these fluids creates a variety of species; most of them are nameless, but four which are of a fiery nature are clearly distinguished and have names. 
+
+1. There is wine, which warms the soul as well as the body
+2. There is the oily nature, which is smooth and divides the visual ray, and for this reason is bright and shining and of a glistening appearance, including pitch, the juice of the castor berry, oil itself, and other things of a like kind
+3. There is the class of substances which expand the contracted parts of the mouth, until they return to their natural state, and by reason of this property create sweetness;—these are included under the general name of honey= 
+4. There is a frothy nature, which differs from all juices, having a burning quality which dissolves the flesh; it is called opos (a vegetable acid).
+
+
+The kind of earth that is filtered through water passes into stone in the following way:
+
+The water which mixes with the earth and is broken up in the process changes into air, and taking this form mounts into its own place. 
+
+But as there is no surrounding vacuum, it thrusts away the neighbouring air. This being rendered heavy, and when it is displaced, having been poured around the mass of earth, forcibly compresses it and drives it into the vacant space whence the new air had come up. The earth when compressed by the air into an indissoluble union with water becomes rock. 
+
+The fairer sort is that which is made up of equal and similar parts and is transparent; that which has the opposite qualities is inferior. 
+
+But when all the watery part is suddenly drawn out by fire, a more brittle substance is formed, to which we give the name of pottery. Sometimes also moisture may remain, and the earth which has been fused by fire becomes, when cool, a certain stone of a black colour. 
+
+A like separation of the water which had been copiously mingled with them may occur in 2 substances composed of finer particles of earth and of a briny nature; out of either of them a half-solid-body is then formed, soluble in water—the one, soda, which is used for purging away oil and earth, the other, salt, which harmonizes so well in combinations pleasing to the palate, and is, as the law testifies, a substance dear to the gods. 
+
+The compounds of earth and water are not soluble by water, but by fire only. This is because neither fire nor air melt masses of earth. This is because their particles are smaller than the interstices in its structure. They have plenty of room to move without forcing their way. And so they leave the earth unmelted and undissolved; but particles of water, which are larger, force a passage, and dissolve and melt the earth. 
+
+Wherefore earth when not consolidated by force is dissolved by water only; when consolidated, by nothing but fire; for this is the only body which can find an entrance. 
+
+The cohesion of water:
+- when very strong, is dissolved by fire only. 
+- when weaker, then either by air or fire
+
+Air enters the interstices, and the latter penetrating even the triangles. 
+
+But nothing can dissolve air, when strongly condensed, which does not reach the elements or triangles; or if not strongly condensed, then only fire can dissolve it. 
+
+<!-- As to bodies composed of earth and water,  -->
+
+While the water occupies the vacant interstices of the earth in them which are compressed by force, the particles of water which approach them from without, finding no entrance, flow around the entire mass and leave it undissolved. 
+
+But the particles of fire, entering into the interstices of the water, do to the water what water does to earth and fire to air (The text seems to be corrupt.), and are the sole causes of the compound body of earth and water liquefying and becoming fluid. 
+
+These bodies are of 2 kinds:
+
+1. Some of them, such as glass and the fusible sort of stones, have less water than they have earth;
+2. substances of the nature of wax and incense have more of water entering into their composition.

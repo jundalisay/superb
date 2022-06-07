@@ -8,7 +8,9 @@ linkbtext= "Part 1"
 linkf= "/research/ibn-khaldun/muqaddimah/chapter-4/part-06"
 linkftext= "Part 6"
 heading= "Part 5"
+icon= "/icons/ibn.jpg"
 +++
+
 
 <!-- ## 5. Requirements, for the planning of towns and the  -->
 

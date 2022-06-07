@@ -1,5 +1,5 @@
 ---
-title: "David Hume's Idea of the Self"
+title: "Kundalini"
 heading: "There are 3 billion yous"
 date: "2020-01-01"
 image: "/photos/social/monkey.jpg"

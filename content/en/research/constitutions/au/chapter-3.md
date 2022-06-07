@@ -16,37 +16,33 @@ icon: "/flags/au.png"
 
 The judicial power of the Commonwealth shall be vested in a Federal Supreme Court, called the High Court of Australia, and in such other federal courts as the Parliament creates, and in such other courts as it invests with federal jurisdiction. The High Court shall consist of a Chief Justice, and so many other Justices, not less than two, as the Parliament prescribes.
 
-72. Judges’ appointment, tenure and remuneration 16
+72. Judges’ appointment, tenure and remuneration
+
 The Justices of the High Court and of the other courts created by the Parliament:
-(i) shall be appointed by the Governor-General in Council;
-(ii) shall not be removed except by the Governor-General in Council, on an address from both Houses of
-the Parliament in the same session, praying for such removal on the ground of proved misbehaviour or
-incapacity;
-(iii) shall receive such remuneration as the Parliament may fix; but the remuneration shall not be
-diminished during their continuance in office.
-The appointment of a Justice of the High Court shall be for a term expiring upon his attaining the age of seventy
-years, and a person shall not be appointed as a Justice of the High Court if he has attained that age.
-The appointment of a Justice of a court created by the Parliament shall be for a term expiring upon his attaining
-the age that is, at the time of his appointment, the maximum age for Justices of that court and a person shall
-not be appointed as a Justice of such a court if he has attained the age that is for the time being the maximum
-age for Justices of that court.
-Subject to this section, the maximum age for Justices of any court created by the Parliament is seventy years.
-The Parliament may make a law fixing an age that is less than seventy years as the maximum age for Justices
-of a court created by the Parliament and may at any time repeal or amend such a law, but any such repeal or
-amendment does not affect the term of office of a Justice under an appointment made before the repeal or
-amendment.
-A Justice of the High Court or of a court created by the Parliament may resign his office by writing under his
-hand delivered to the Governor-General.
-Nothing in the provisions added to this section by the Constitution Alteration (Retirement of Judges) 1977
-affects the continuance of a person in office as a Justice of a court under an appointment made before the
-commencement of those provisions.
-A reference in this section to the appointment of a Justice of the High Court or of a court created by the
-Parliament shall be read as including a reference to the appointment of a person who holds office as a Justice
-of the High Court or of a court created by the Parliament to another office of Justice of the same court having a
+
+- shall be appointed by the Governor-General in Council
+- shall not be removed except by the Governor-General in Council<!-- , on an address from both Houses of the Parliament in the same session, praying for such removal on the ground of proved misbehaviour or incapacity; -->
+- shall receive such remuneration as the Parliament may fix<!-- ; but the remuneration shall not be
+diminished during their continuance in office. -->
+
+The appointment of a Justice of the High Court shall be for a term expiring upon his attaining the age of 70 years. A person shall not be appointed as a Justice of the High Court if he has attained that age.
+
+The appointment of a Justice of a court created by the Parliament shall be for a term expiring upon his attaining the age that is, at the time of his appointment, the maximum age for Justices of that court and a person shall not be appointed as a Justice of such a court if he has attained the age that is for the time being the maximum age for Justices of that court.
+
+Subject to this section, the maximum age for Justices of any court created by the Parliament is 70 years.
+
+The Parliament may make a law fixing an age that is less than seventy years as the maximum age for Justices of a court created by the Parliament and may at any time repeal or amend such a law, but any such repeal or amendment does not affect the term of office of a Justice under an appointment made before the repeal or amendment.
+
+A Justice of the High Court or of a court created by the Parliament may resign his office by writing under his hand delivered to the Governor-General.
+
+Nothing in the provisions added to this section by the Constitution Alteration (Retirement of Judges) 1977 affects the continuance of a person in office as a Justice of a court under an appointment made before the commencement of those provisions.
+
+A reference in this section to the appointment of a Justice of the High Court or of a court created by the Parliament shall be read as including a reference to the appointment of a person who holds office as a Justice of the High Court or of a court created by the Parliament to another office of Justice of the same court having a
 different status or designation.
+
 73. Appellate jurisdiction of High Court
-The High Court shall have jurisdiction, with such exceptions and subject to such regulations as the Parliament
-prescribes, to hear and determine appeals from all judgments, decrees, orders, and sentences:
+
+The High Court shall have jurisdiction, with such exceptions and subject to such regulations as the Parliament prescribes, to hear and determine appeals from all judgments, decrees, orders, and sentences:
 (i) of any Justice or Justices exercising the original jurisdiction of the High Court;
 (ii) of any other federal court, or court exercising federal jurisdiction; or of the Supreme Court of any State,
 or of any other court of any State from which at the establishment of the Commonwealth an appeal lies

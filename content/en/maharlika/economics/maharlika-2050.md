@@ -31,7 +31,7 @@ Philosophers | Universities, Researchers, Inventors, Religions
 
 With the 3 classes weakened, the Philippine economy easily collapsed after Covid struck. To get back on its feet, it had to incur a huge Php 12 trillion debt.
 
-The debt is in money which is the expertise of the monied interests. **Thus, the solution to the problem created by the merchant class is also facilitated by those same merchant class.** 
+The debt is in money which is the expertise of the monied interests. **Thus, the solution to the problem created by the merchant class is also facilitated by that same merchant class.** 
 
 It would be like getting thieves to be in charge of security in your estate. They would allow expert burglaries which can only be solved by themselves to keep themselves employed and relevant while gaining commissions from those burglars. This leads to a double revenue stream to help keep them in power for a very long time until someone can connect the dots and expose their scam.   
 
@@ -222,15 +222,20 @@ The  representatives will have all the legislative power. The votes on legislati
 
 
 
-### 5. Barter Trade Legalization (Cooperation-Bayanihan)
+### 5. Barter Trade (Cooperation-Bayanihan)
 
 <!-- The Chinese traders respected the barter economy of Maharlika for its fidelity.    -->
 
 The federalized system will be ideal for our proposed bayanihan barter economy which is based on [points as a store of value](/social/economics/solutions/bur/).
 
-A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](/social/economics/principles/effort-theory-of-value).
+A point is pegged to 1 kilogram of NFA rice. This will implement Adam Smith's [grain-based valuation](/social/economics/principles/effort-theory-of-value). This is superior to cryptocurrency and which is pegged to nothing. In fact, the chronic inflation from 2020 is caused by crypto*.
 
-This will make the economy secure from inflation and financial crises, which we predict to happen in a few years. This system give importance to agriculture and will be the basis of the Maharlikan cooperative system.
+
+> *Instead of people putting their money in the bank which the bank can lend to producers, they put their money into crypto which produces nothing and even wastes electricity. This waste and lack of production contributes to inflation. 
+
+
+
+A grain-based system will make the economy secure from inflation and financial crises, which we predict to happen in a few years. This system give importance to agriculture and will be the basis of the Maharlikan cooperative system.
 
 <!-- This makes it a kind of delayed barter system that is based on morals instead of money, specifically pakikipagkapwa. This would make entrepreneurship cheaper since morals (trust, integrity, honesty) are free yet very expensive. --> 
 

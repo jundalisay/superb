@@ -9,6 +9,7 @@ linkbtext= "Part 13"
 linkf= "/research/ibn-khaldun/muqaddimah/chapter-2/part-19"
 linkftext= "Part 19"
 heading= "Part 16"
+icon= "/icons/ibn.jpg"
 +++
 
 
@@ -18,30 +19,44 @@ This is because group feeling:
 - gives protection and mutual defense
 - allows the pressing of claims and other kinds of social activity
 
-Human beings need someone to act as a restraining influence and mediator in every social organization, in order to keep the members from (fighting) with each other. 
+Human beings need someone to act as a restraining influence and mediator in every social organization, in order to keep the members from fighting each other. 
 
-That person must, by necessity, have superiority over the others in the matter of group feeling. If not, his power to (exercise a restraining influence) could not materialize. 
+That person must, by necessity, have superiority over the others in the matter of group feeling. - If not, his power to exercise a restraining influence could not materialize. 
 
-Such superiority is royal authority (mulk). It is more than leadership. Leadership means being a chieftain, and the leader is obeyed, but he has no power to force others to accept his rulings. Royal authority means superiority and the power to rule by force.
+Such superiority is royal authority (mulk). It is more than leadership. 
 
-When a person sharing in the group feeling 101 has reached the rank of chieftain and commands obedience, and when he then finds the way open toward superiority and (the use of) force, he follows that way, because it is something desirable. 
+Leadership means being a chieftain. The leader is obeyed, but he has no power to force others to accept his rulings. 
 
-He cannot completely achieve his (goal) except with the help of the group feeling, which causes (the others) to obey him. Thus, royal superiority is a goal to which group feeling leads, as one can see.
+Royal authority means superiority and the power to rule by force.
 
-Even if an individual tribe has different "houses" and many diverse group feelings, still, there must exist a group feeling that is stronger than all the other group feelings combined, that is superior to them all and makes them subservient, and in which all the diverse group feelings coalesce, as it were, to become one greater group feeling. Otherwise, splits would occur and lead to dissension and strife. "If God did not keep human beings apart, the earth would perish." 102
+When a person sharing in the group feeling has reached the rank of chieftain, <!--  and commands obedience, and when --> he then finds the way towards superiority. <!--  and the use of force, he follows that way, because it is something desirable.  -->
+
+He can only achieve his goal through the help of the group feeling, which causes the others to obey him. 
+
+Thus, group feeling leads to royal superiority, its goal.
+
+A tribe has different "houses" and many diverse group feelings. Still, there exists a group feeling that is stronger than all the other group feelings combined. 
+
+It:
+- is superior to them all and makes them subservient
+- is that in which all the diverse group feelings coalesce to become one greater group feeling.
+
+Otherwise, splits would occur and lead to dissension and strife. <!-- "If God did not keep human beings apart, the earth would perish." 102 -->
 
 
-Once group feeling has established superiority over the people who share (in that particular group feeling), it will, by its very nature, seek superiority over people of other group feelings unrelated to the first. If the one (group feeling) is the equal of the other or is able to stave off (its challenge), the (competing people) are even with and equal to each other. (In this case,) each group feeling maintains its sway over its own domain and people, as is the case with tribes and nations all over the earth. 
+Once group feeling has established superiority over the people who share (in that particular group feeling), it will, by its very nature, seek superiority over people of other group feelings unrelated to the first. 
 
-However, if the one group feeling overpowers the other and makes it subservient to itself, the two group feelings enter into close contact, and the (defeated) group feeling gives added power to the (victorious) group feeling, which,
-as a result, sets its goal of superiority and domination higher than before. 
+If the one group feeling is the equal of the other or is able to stave off its challenge, the competing people are even with and equal to each other. In this case, each group feeling maintains its sway over its own domain and people, as is the case with tribes and nations all over the earth. 
 
-In this way, it goes on until the power of that particular group feeling equals the power of the ruling dynasty. 
+However, if the one group feeling overpowers the other and makes it subservient, the 2 group feelings enter into close contact. 
+- The defeated group feeling gives added power to the victorious group feeling
+- The victorious group feeling sets its goal of superiority and domination higher than before until it equals the power of the ruling dynasty. 
 
-Then, when the ruling dynasty grows senile and no defender arises from among its friends who share in its group feeling, the (new group feeling) takes over and deprives the ruling dynasty of its power, and, thus, obtains complete royal authority.
+Then, when the ruling dynasty grows senile and no defender arises from among its friends who share in its group feeling, the new group feeling takes over. It deprives the ruling dynasty of its power and obtains complete royal authority.
 
-The power of (a given group feeling) may (also) reach its peak when the ruling dynasty has not yet reached senility. (This stage) may coincide with the stage at which (the ruling dynasty) needs to have recourse to the people who represent the
-various group feelings (in order to master the situation). In such a case, the ruling dynasty incorporates (the people who enjoy the powerful group feeling) among its clients whom it uses for the execution of its various projects. This, then, means (theformation of) another royal authority, inferior to that of the controlling royal authority. 
+The power of a given group feeling may also reach its peak when the ruling dynasty has not yet reached senility. 
+
+This stage may coincide with the stage at which (the ruling dynasty) needs to have recourse to the people who represent the various group feelings (in order to master the situation). In such a case, the ruling dynasty incorporates (the people who enjoy the powerful group feeling) among its clients whom it uses for the execution of its various projects. This, then, means (theformation of) another royal authority, inferior to that of the controlling royal authority. 
 
 This was the case with the Turks under the 'Abbasids ' 103 with the Sinhajah and the Zanatah in their relation to the Kutamah, and with the Hamdanids in their relation to the (Fatimid) 'Alids and the 'Abbisids.
 
@@ -122,13 +137,30 @@ An illustration of this fact is Muhammad's statement in the Sahih, 111 on the su
 
 When he saw a plowshare in one of the houses of the Ansar (in Medina), he said= "Such a thing never entered anyone's house save accompanied by humbleness." 
 
-This is sound proof for (the contention) that payment of imposts makes humbleness necessary. In addition, the humbleness that is the result of paying imposts is accompanied by character qualities of cunning and deceit, because force rules (under such circumstances). According to the Sahih 112 the Messenger of God used to decry the payment of imposts. When he was asked about it, he said= "A man who has to pay imposts talks and lies. He promises, and breaks his promise." When one sees a tribe humiliated by the payment of imposts, one cannot hope that it will ever achieve royal authority.
+This is sound proof for the contention that payment of tax makes humbleness necessary. 
 
-This makes clear that it is erroneous to assume that the Zanatah in the Maghrib were sheep-breeding Bedouins who paid imposts to the various rulers of their time. As one can see, this is a serious error. Had such been the case, the Zanatah would never have achieved royal authority and established a dynasty. In this connection, one may compare the words of Shahrbaraz, the ruler of Derbend. 113
+In addition, the humbleness that is the result of paying imposts is accompanied by character qualities of cunning and deceit, because force rules (under such circumstances). 
 
-'Abd-ar-Rahman b. Rabi'ah came upon him, and Shahrbaraz asked him for his protection with the (promise) that he would belong to him. On that occasion, (Shahrbaraz) said= "Today, I am one of you. My hand is in your hands. I am your sincere friend. 
+According to the Sahih, [112] the Prophet Mohammad used to decry the payment of taxes. He said:
 
-You are welcome. God bless us and you. The poll tax we shall pay you will consist in our helping you and doing what you will. But do not humiliate us by (imposing the) poll tax. (Otherwise,) you would weaken us to the point of
-(becoming the prey of) your enemies." 114 
+{{< q >}}
+A man who has to pay imposts talks and lies. He promises, and breaks his promise.
+{{< /q >}}
 
-This story sufficiently (supports) our preceding remarks. 
+When one sees a tribe humiliated by the payment of imposts, one cannot hope that it will ever achieve royal authority.
+
+It is very wrong to assume that the Zanatah in the Maghrib were sheep-breeding Bedouins who paid imposts to the various rulers of their time. 
+
+If ths were true, then the Zanatah would never have achieved royal authority and established a dynasty. 
+
+In this connection, one may compare the words of Shahrbaraz, the ruler of Derbend[113].  Abd-ar-Rahman b. Rabi'ah came to him. Shahrbaraz asked him for his protection with the (promise) that he would belong to him: 
+
+{{< l a="Shahrbaraz" >}}
+Today, I am one of you. I am your sincere friend.
+{{< /l >}}
+
+{{< r a="Abd-ar-Rahman b. Rabi'ah" >}}
+You are welcome. The poll tax we shall pay to you will consist in our helping you and doing what you will. 
+
+But do not humiliate us by imposing the poll tax. Otherwise, you would weaken us to the point of becoming the prey of your enemies." [114]
+{{< /r >}}

@@ -35,16 +35,20 @@ or it would be like appearing naked before people.
 The existence of group feeling without the practice of praiseworthy qualities would be a defect among people who possess a "house" and prestige. All the more so would it be a defect in men who are invested with royal authority, the greatest
 possible kind of glory and prestige. 
 
-Furthermore, political and royal authority are (God's) guarantee to mankind and serve as a representation of God among men with
-respect to His laws. Now, divine laws affecting men are all for their good and envisage the interests (of men). This is attested by the religious law. Bad laws, 117 on the other hand, all result from stupidity and from Satan, in opposition to the
+Political and royal authority are God's guarantee to mankind and serve as a representation of God among men with respect to His laws.
+
+Divine laws affecting men are all for their good and envisage the interests of men. This is attested by the religious law. 
+
+Bad laws, [117] on the other hand, all result from stupidity and from Satan, in opposition to the
 predestination and power of God. 
 
-He makes both good and evil and predetermines them, for there is no maker except Him.
+<!-- He makes both good and evil and predetermines them, for there is no maker except Him. -->
 
-He who thus obtained group feeling guaranteeing power, and who is known to have good qualities appropriate for the execution of God's laws concerning His creatures, is ready to act as (God's) substitute and guarantor among mankind. He has
-the qualifications for that. 
+Thus, he who obtains group feeling guarantees power. He who is known to have good qualities for the execution of God's laws concerning His creatures can act as God's substitute and guarantor among mankind. <!-- He has the qualifications for that.  -->
 
-This proof is more reliable and solid than the first one. It has thus become clear that good qualities attest the (potential) existence of royal authority in a person who (in addition to his good qualities) possesses group feeling. 
+This proof is more reliable and solid than the first one. 
+
+Good qualities attest the potential existence of royal authority in a person who, in addition to his good qualities, possesses group feeling. 
 
 People who possess group feeling and who have gained control over many lands and nations, have an eager desire for goodness and good qualities, such as:
 - generosity
@@ -77,44 +81,81 @@ It is not something superfluous to them, or something that exists as a joke 118 
 
 Vice versa, when God wants a nation to be deprived of royal authority, He causes (its members) to commit blameworthy deeds and to practice all sorts of vices. 
 
-This will lead to complete loss of the political virtues among them. (These virtues) continue to be destroyed, until they will no longer exercise royal authority. Someone else will exercise it in their stead. This is to constitute (in addition) an insult to them, in that the royal authority God has given them and the good things He has placed at their disposal are taken away from them. "When we want to destroy a village, we order those of its inhabitants who live in luxury to act wickedly therein. 
+This will lead to complete loss of the political virtues among them. These virtues continue to be destroyed, until they will no longer exercise royal authority. 
 
-Thus, the word becomes true for it, and we do destroy it." 119 Upon close investigation, many instances of what we have said and outlined will be found among the nations of the past. God "creates whatever He wishes, and His is the choice." 120
+Someone else will exercise it instead. This is to constitute (in addition) an insult to them, in that the royal authority God has given them and the good things He has placed at their disposal are taken away from them. "When we want to destroy a village, we order those of its inhabitants who live in luxury to act wickedly therein. Thus, the word becomes true for it, and we do destroy it." 119 
 
-A quality belonging to perfection, that tribes possessing group feeling are eager to cultivate and which attests to their (right to) royal authority, is respect for (religious) scholars, pious men, noble (relatives of the Prophet), well-born persons, and the different kinds of merchants and foreigners, as well as the ability to assign everybody to his proper station. The respect shown by tribes and persons (in control) of group feelings and families, for men of comparable nobility, tribal position, group feeling, and rank, is something natural. 
+<!-- Upon close investigation, many instances of what we have said and outlined will be found among the nations of the past. God "creates whatever He wishes, and His is the choice." 120 -->
 
-It mostly results from the (human) desire for rank, or from fear of the people of the person to whom respect is paid, or from a wish for reciprocal treatment. However, in the case of people who have no group feeling to make themselves feared, and who have no rank (to bestow) for which one might hope, there can be no doubt as to why they are respected, and it is quite clear what one wants (to find) through them, namely, glory, perfection in personal qualities, and total progress toward (a position of) political leadership. Respect for one's rivals and equals must exist in connection with the special 121 political leadership that concerns one's tribe and its competitors (and equals). Respect for excellent and particularly qualified strangers means
-perfection in general political leadership. 
+A quality belonging to perfection, that tribes possessing group feeling are eager to cultivate and which attests to their (right to) royal authority, is respect for (religious) scholars, pious men, noble (relatives of the Prophet), well-born persons, and the different kinds of merchants and foreigners, as well as the ability to assign everybody to his proper station. 
 
-The pious are thus respected for their religion; scholars, because they are needed for establishing the statutes of the
-religious law; merchants, in order to give encouragement (to their profession), so that (their) usefulness may be as widespread as possible. Strangers are respected out of generosity and in order to encourage (them) to undertake certain kinds (of activity). 
+The respect shown by tribes and persons in control of group feelings is something natural<!--  and families, for men of comparable nobility, tribal position, group feeling, and rank,  -->. 
 
-Assigning everybody to his proper station is done out of fairness, and fairness means justice. When people who possess group feeling have that, one knows that they are ready for general political leadership, which means (they are
-ready for) royal authority. 
-f
-God permits (political leadership) to exist among them, because the (characteristic) sign of (political leadership) exists among them.Therefore, the first thing to disappear in a tribe that exercises royal authority, when God wants to deprive the members of that tribe of their royal and governmental authority, is respect for these kinds of people. When a nation is observed to have
-lost (that respect), it should be realized that (all) the virtues have begun to go, and it can be expected that the royal authority will cease to exist in it. 
+It mostly results from:
+- the human desire for rank, or
+- the fear of the people at their respected person, or
+- from a wish for reciprocal treatment. 
+
+However, in the case of people who have no group feeling to make themselves feared, and who have no rank (to bestow) for which one might hope, there can be no doubt as to why they are respected, and it is quite clear what one wants (to find) through them, namely, glory, perfection in personal qualities, and total progress toward (a position of) political leadership. 
+
+Respect for one's rivals and equals must exist in connection with the special [121] political leadership that concerns one's tribe and its competitors (and equals). 
+
+Respect for excellent and particularly qualified strangers means perfection in general political leadership. 
+
+Thus:
+- The pious are respected for their religion
+- Scholars are respected because they are needed for establishing the statutes of the
+religious law
+- Merchants are respected to give encouragement (to their profession), so that (their) usefulness may be as widespread as possible. 
+- Foreigners are respected out of generosity and in order to encourage (them) to undertake certain kinds (of activity). 
+
+Assigning everybody to his proper station is done out of fairness, and fairness means justice. 
+
+When people who possess group feeling have that, one knows that they are ready for general political leadership, which means (they are ready for) royal authority. 
+
+God permits (political leadership) to exist among them, because the (characteristic) sign of (political leadership) exists among them. 
+
+Therefore, the first thing to disappear in a tribe that exercises royal authority, when God wants to deprive the members of that tribe of their royal and governmental authority, is respect for these kinds of people. When a nation is observed to have lost (that respect), it should be realized that (all) the virtues have begun to go, and it can be expected that the royal authority will cease to exist in it.
 
 <!-- "If God wants evil to happen to certain people, nothing can turn it back." --> 
 
 ## 20. While a nation is savage, its royal authority extends farther.
 
-This is because such a nation is better able to achieve superiority and full control, and to subdue other groups. The members of such a nation have the strength to fight other nations, and they are among human beings what beasts of prey are among dumb animals. The Arabs and the Zanatah and similar groups, for instance, are such nations, as are the Kurds, the Turkomans, and the Veiled Sinhajah.
+This is because a savage nation is more able to achieve superiority and full control, and to subdue other groups. 
 
-These savage peoples, furthermore, have no homelands that they might use as a fertile (pasture), and no fixed place to which they might repair. All regions and places are the same to them. Therefore, they do not restrict themselves to possession of their own and neighboring regions. They do not stop at the borders of their horizon. They swarm across distant zones and achieve superiority over faraway nations.
+The members of such a nation have the strength to fight other nations, and they are like what beasts of prey are among dumb animals. 
 
-One might compare in this connection what `Umar is reported to have said when he received the oath of allegiance and arose to incite the people to the conquest of the 'Iraq. 
+The Arabs and the Zanatah and similar groups, for instance, are such nations, as are the Kurds, the Turkomans, and the Veiled Sinhajah.
+
+These savage peoples:
+- have no homelands to use as fertile pasture
+- have no fixed place to repair. 
+
+All regions and places are the same to them. Therefore, they do not:
+- restrict themselves to possession of their own and neighboring regions
+- stop at the borders of their horizon. 
+
+They swarm across distant zones and achieve superiority over faraway nations.
+
+Umar said the following when he received the oath of allegiance and incited the people to conquer Iraq. 
+
+{{< q >}}
+The Hijaz is your home only in as far as it is a pasturage. 
+
+Those who dwell there have no power over it except in this respect. Where do you newcomers who emigrated to Medina stand with regard to God's promise, 'Travel about in the world'? 124 God promised it to you in His book for your inheritance, when He said, 'In order to give (the true religion) victory over all religions, even if the polytheists dislike it.' " 125
+{{< /q >}}
 
 
-He said= "The Hijaz is your home only in as far as it is a pasturage. Those who dwell there have no power over it except in this respect. Where do (you) newcomers who emigrated (to Medina) stand with regard to God's promise, 'Travel about in the world'? 124 God promised it to you in His book for your inheritance, when He said, 'In order to give (the true religion) victory over all
-religions, even if the polytheists dislike it.' " 125
+Another example is the condition of the ancient pre-Islamic Arabs, such as the Tubba's and the Himyar. 
 
-Another example is the condition of the ancient (preIslamic) Arabs, such as the Tubba's and the Himyar. They are reported 126 to have marched from the Yemen to the Maghrib at one time, and to the 'Iraq and India at another time. No
-other nation except the Arabs ever did anything like that.
+They [126] marched:
+- from the Yemen to the Maghrib at one time, and
+- to the 'Iraq and India at another time. 
 
-The condition of the Veiled (Sinhajah) in the Maghrib is another example. When they aspired to royal authority, they swarmed out of their desert plains in the neighborhood of the Sudan, in the first zone, and overran the Spanish realm in the
-fourth and fifth zones, without any intermediate (stage).
+Only the Arabs ever did anything like that.
 
-Such is the case with savage nations. Their (dynasties), therefore, extend
-over a wider area and over regions farther from their (original) center (than do other
-nations).
+The condition of the Veiled (Sinhajah) in the Maghrib is another example. 
+
+When they aspired to royal authority, they swarmed out of their desert plains in the neighborhood of the Sudan, in the first zone, and overran the Spanish realm in the fourth and fifth zones, without any intermediate (stage).
+
+The dynasties of savage nations, therefore, extend over a wider area and over regions farther from their original center<!--  (than do other nations) -->.

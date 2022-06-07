@@ -57,7 +57,9 @@ The authors of our being, remembering the command of their father when he bade t
 
 He who would understand what he remembers to have been said, whether in a dream or when he was awake, by the prophetic and inspired nature, or would determine by reason the meaning of the apparitions which he has seen, and what indications they afford to this man or that, of past, present or future good and evil, must first recover his wits. 
 
-But, while he continues demented, he cannot judge of the visions which he sees or the words which he utters; the ancient saying is very true, that ‘only a man who has his wits can act or judge about himself and his own affairs.’ And for this reason it is customary to appoint interpreters to be judges of the true inspiration. 
+But, while he continues demented, he cannot judge of the visions which he sees or the words which he utters; 
+
+the ancient saying is very true, that ‘only a man who has his wits can act or judge about himself and his own affairs.’ And for this reason it is customary to appoint interpreters to be judges of the true inspiration. 
 
 Some persons call them prophets; they are quite unaware that they are only the expositors of dark sayings and visions, and are not to be called prophets at all, but only interpreters of prophecy.
 
@@ -65,10 +67,12 @@ Such is the nature of the liver, which is placed as we have described in order t
 
 When any impurities arise in the region of the liver by reason of disorders of the body, the loose nature of the spleen, which is composed of a hollow and bloodless tissue, receives them all and clears them away, and when filled with the unclean matter, swells and festers, but, again, when the body is purged, settles down into the same place as before, and is humbled.
 
-Concerning the soul, as to which part is mortal and which divine, and how and why they are separated, and where located, if God acknowledges that we have spoken the truth, then, and then only, can we be confident; still, we may venture to assert that what has been said by us is probable, and will be rendered more probable by investigation. Let us assume thus much.
+Concerning the soul, as to which part is mortal and which divine, and how and why they are separated, and where located, if God acknowledges that we have spoken the truth, then, and then only, can we be confident; 
+
+still, we may venture to assert that what has been said by us is probable, and will be rendered more probable by investigation. Let us assume thus much.
 
 The creation of the rest of the body follows next in order, and this we may investigate in a similar manner. And it appears to be very meet that the body should be framed on the following principles:—
 
-The authors of our race were aware that we should be intemperate in eating and drinking, and take a good deal more than was necessary or proper, by reason of gluttony. In order then that disease might not quickly destroy us, and lest our mortal race should perish without fulfilling its end—intending to provide against this, the gods made what is called the lower belly, to be a receptacle for the superfluous meat and drink, and formed the convolution of the bowels, so that the food might be prevented from passing quickly through and compelling the body to require more food, thus producing insatiable gluttony, and making the whole race an enemy to philosophy and music, and rebellious against the divinest element within us.
+The authors of our race were aware that we should be intemperate in eating and drinking, and take a good deal more than was necessary or proper, by reason of gluttony. 
 
-
+In order then that disease might not quickly destroy us, and lest our mortal race should perish without fulfilling its end—intending to provide against this, the gods made what is called the lower belly, to be a receptacle for the superfluous meat and drink, and formed the convolution of the bowels, so that the food might be prevented from passing quickly through and compelling the body to require more food, thus producing insatiable gluttony, and making the whole race an enemy to philosophy and music, and rebellious against the divinest element within us.

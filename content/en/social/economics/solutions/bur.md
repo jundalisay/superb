@@ -162,6 +162,7 @@ A donor can jumpstart the economy by giving food to the poor in exchange for poi
 
 {{< youtube Yh5uY0gJWus >}}
 
+# 
 
 In this way, BUR creates full employment witout being a debt-trap like microfinance nor encouraging gambling as what happens with UBI. It would also be cheaper to administer if it were done online.
 

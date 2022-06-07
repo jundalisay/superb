@@ -100,4 +100,13 @@ Legislation must be progressive and capable of gradual adjustment with the preva
 
 Crimes are acts forbidden by the law of the government concerned, and virtue and vice (puńya and pápa) are the outcome of traditional customs. The sentiments of the lawmakers are very much influenced by the prevalent traditions and customs regarding the concept of virtue and vice of the locality or of the people concerned. 
 
-The sense of crime, therefore, has a parallelism with the concept of virtue and vice. The idea of virtue and vice is different in different countries. The aspirants of world fraternity should try to lessen the difference and reduce the gap amongst cardinal, moral and human laws. All those actions which help in the growth of the spiritual, mental and physical aspects of human beings in general should come under the category of virtuous deeds, and those actions which go against humanity in its spiritual, mental and physical development must come under “vice”. This conception of virtue and vice applies commonly to humanity in general.
+
+## Virtue and Vice
+
+The sense of crime, therefore, has a parallelism with the concept of virtue and vice. 
+
+The idea of virtue and vice is different in different countries. **The aspirants of world fraternity should try to lessen the difference and reduce the gap amongst cardinal, moral and human laws.** 
+
+All those actions which help in the growth of the spiritual, mental and physical aspects of human beings in general should come under the category of virtuous deeds. Those actions which go against humanity in its spiritual, mental and physical development must come under “vice”. 
+
+This conception of virtue and vice applies commonly to humanity in general.

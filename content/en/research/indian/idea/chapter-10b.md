@@ -1,5 +1,5 @@
 ---
-title: "The Social Cycles"
+title: "Yama and Niyama"
 heading: "Chapter 10b of Idea and Ideology Simplified"
 date: 2022-01-31
 description: "In the cycle of social evolution, during each age before it is succeeded by another age, one particular class enjoys domination and superiority"
@@ -12,11 +12,47 @@ icon: "/icons/sarkar.jpg"
 ---
 
 
+Those spiritual revolutionaries who work to achieve such progressive changes for human elevation on a well-thought, pre-planned basis, whether in the physical, metaphysical or spiritual sphere, by adhering to the principles of Yama and Niyama, are sadvipras.
+
+The 5 principles of Yama are:
+
+Yama | Meaning
+--- | ---
+ahiḿsá | not causing suffering to any harmless creature through thought, word or deed
+satya | action of mind or use of words with the object of helping others in the real sense. It has no relative application.
+asteya | non-stealing in physical and mental actions. All actions originate in the mind. And so this means to give up the desire of acquiring what is not rightly one’s own
+aparigraha | the non-acceptance of such amenities and comforts of life as are superfluous for the preservation of the physical existence. 
+Brahmacarya | to experience His presence and authority in each and every physical and psychic objectivity. This occurs when the unit mind resonates with Cosmic will.
+
+
+
+The 5 rules of Niyama are:
+
+Niyama | Meaning
+--- | ---
+shaoca | purity of both physical and mental bodies. Mental purity is attained by benevolent deeds, charity, or other dutiful acts
+santośa | contentment. This implies accepting ungrudgingly and without a complaint the out-turn of the services rendered by one’s own physical or mental labour
+tapah | efforts to reach the goal the physical discomforts that they bring
+svádhyáya | study of the scriptures or other books of learning and assimilating their spirit
+Iishvara prańidhána | 
+
+
+
+<!-- The whole universe is guided by the Supreme Entity. Nothing that one does or can do is without His specific command. -->
+
+Iishvara prańidhána:
+- is an auto-suggestion of the idea that each and every unit is an instrument in the hands of the Almighty and is a mere spark of that supreme fire. 
+- implies implicit faith in Him irrespective of whether one lives in momentary happiness or sorrow, prosperity or adversity.
+
+
+Only those who by their nature adhere to these 10 commands in their normal and spiritual conduct are sadvipras. Such a morally- and spiritually-equipped sadvipra has to perform a fundamental and vital duty to society.
+
+
 In the cycle of social evolution, during each age before it is succeeded by another age, one particular class enjoys domination and superiority. 
 
-Such a class, while in political power, has every chance of exploiting the society. History has shown that this is not mere chance, but has been repeating itself. Now the duty of the sadvipra is to see that the dominating class does not take recourse to exploitation. 
+Such a class, while in political power, has every chance of exploiting the society. History has shown that this is not mere chance, but has been repeating itself. The duty of the sadvipra is to see that the dominating class does not take recourse to exploitation. 
 
-The four classes are:
+As mentioned previously, the 4 classes are:
 1. Shúdra, the toiling class
 2. Kśatriya, the warrior class
 3. Vipra, the intellectual class
@@ -49,9 +85,10 @@ If the vaeshyas are dominating, the sadvipras may have to contest and win electi
 
 4 June 1959
 
-
+<!-- 
 ## Footnotes
 
 [^1]: A period of chaos and catastrophe ends when kśatriya leadership re-emerges, signifying the start of the next Kśatriya Age. For a more detailed discussion of this process, see “The Shúdra Revolution and the Sadvipra Society” in Human Society Part 2 by the author. –Eds.
 
 [^2]: See also the definitions of parikránti in the author’s Problems of the Day, section 34, and Ánanda Sútram, Chapter 5, Sútra 7. Eds.
+ -->

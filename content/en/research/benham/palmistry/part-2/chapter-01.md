@@ -8,10 +8,10 @@ linkf=  "/research/benham/palmistry/part-2/chapter-02"
 linkftext=  "Index"
 +++
 
-{{< quote >}}
+{{< q >}}
 "The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought."
 <cite>Emerson</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 <!-- By continued study and observation of the lines in the hand, and by carefully tabulating the results of innumerable experiments with them, it has been shown that -->
@@ -40,7 +40,9 @@ Thus, we are either forced to declare that=
 
 Not so very long ago, the medical profession knew comparatively little about the human organism. 
 
-There are organs whose functions anatomists have not yet discovered, but these students of the human body do not, for this reason, claim that such organs have no usefulness. One by one the mysteries of our construction are being discovered, and it is the belief of progressive students that in time the function of every part will be revealed, and nothing found that is not necessary to the operation of the human machinery. As long as every physician undertook to master the entire range of medicine and to treat every form of disease, we had the general practitioner, who possessed only a general knowledge of anatomy, disease, and treatment. 
+There are organs whose functions anatomists have not yet discovered, but these students of the human body do not, for this reason, claim that such organs have no usefulness. One by one the mysteries of our construction are being discovered, and it is the belief of progressive students that in time the function of every part will be revealed, and nothing found that is not necessary to the operation of the human machinery. 
+
+As long as every physician undertook to master the entire range of medicine and to treat every form of disease, we had the general practitioner, who possessed only a general knowledge of anatomy, disease, and treatment. 
 
 
 During this period the real information about the several parts of the body possessed by any one man was necessarily limited, the practice of medicine and surgery was crude, and the results obtained were comparatively unsatisfactory. But when one man began devoting his entire life to a study of the eye, another of the ear, another of the skin, and so on through every organ of the body, we had the evolution of the specialist, and at once great progress was made and wonderful results were achieved. 

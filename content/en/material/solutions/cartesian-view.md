@@ -88,7 +88,7 @@ This limitation renders science unable to solve chronic problems which are ultim
 
 - Economic science is unable to solve inequality, poverty, recessions, debt, and inflation. 
 - Phyics is unable to solve fusion (always 30 years away), teleportaion, and levitation
-- Western Medicine is unable to solve Covid 19 as proven by the Omicron variant still spreading and making people sick, as well as many mental health problems
+- Western Medicine is unable to solve Covid 19 as proven by the Omicron variant still spreading and making people sick, as well as many mental health problems (Update June 2022: as proven by mass shootings and the Russia-Ukraine war)
 
 
 ## Cartesian View: Two Planes 
