@@ -43,8 +43,7 @@ Aethereal relativity was instrumental in letting us predict [the current Covid c
  -->
 
 
-![Price trends as Quanta of Aether](/graphics/qoaprices.png)
-<figcaption>Economic Superphysics (as '<a href="/pantrynomics">Pantrynomics</a>') applies aethereal relativity to know the real prices of everything. Social Superphysics applies it to know where society is heading whether into democracy, tyranny, aristocracy, or oligarchy. Adam Smith is our basis for the aethereal relativitiy of prices, just as Kepler (not Einstein) is our basis for gravitational relativity</figcaption>
+{{< img src="/graphics/qoaprices.png" alt="Price trends as Quanta of Aether" cap="Economic Superphysics (as '[Pantrynomics](/pantrynomics)') applies aethereal relativity to know the real prices of everything. Social Superphysics applies it to know where society is heading whether into democracy, tyranny, aristocracy, or oligarchy. Adam Smith is our basis for the aethereal relativitiy of prices, just as Kepler (not Einstein) is our basis for gravitational relativity" >}}
 
 
 ## Gravity is the Effect of the Aether

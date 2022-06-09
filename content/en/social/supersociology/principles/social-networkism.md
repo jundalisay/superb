@@ -69,7 +69,7 @@ Species | Soul of species | Human species | Individual societies | Species evolv
 Planetary | Soul of planet | Earthlings | Each species (cats, dogs, humans, potatoes) | All species evolve according to their planet's conditions | 
 Stellar | Soul of the star system | system | Individual planets | All planets affect each other 
 Galactic | Soul of galaxy | Milky way | Individual stars | Life begins from supernova which spread throughout its galaxy 
-Universal | Soul of universe |  Physical Universe | Individual galaxies | The galaxies form the mind of<br> the universe as a portion of Existence
+Universal | Soul of universe |  Physical Universe | Individual galaxies | The galaxies form the mind of the universe as a portion of Existence
 Multiversal | Soul of Existence (Paramatman) | Multiverse (Brahma) | Individual Universes and Realities |  The physical and metaphysical parts of the universe form Brahma 
 
 
@@ -132,7 +132,9 @@ Then in our city, the language of harmony and concord will be more often heard t
 <cite>The Simple Republic by Plato, Book 5, Chapter 2</cite>
 {{< /quote >}}
 
-Thus, the key to common interest is to group everyone according to ideas that would interest them. This would let them gravitate to it and hopefully lower their egos in order to explore that idea further. For example, we sometimes go to Meetups about the food, technology, artists, and sports that we like. Nowadays, the internet, social networks, and messaging apps like Whatsapp, Zalo, and Viber help us to access such interests virtually. 
+Thus, the key to common interest is to group everyone according to ideas that would interest them. This would let them gravitate to it and hopefully lower their egos in order to explore that idea further. 
+
+For example, we sometimes go to Meetups about the food, technology, artists, and sports that we like. Nowadays, the internet, social networks, and messaging apps like Whatsapp, Zalo, and Viber help us to access such interests virtually. 
 
 
 <!--  manage such variety and disparity of minds if they were grouped by their inherent qualities, manifesting as their personal interests. Adam likes to catch fish, Barbara likes to sing, Charlie likes to write software, Dan likes to play instruments. We can group Barbara and Dan together since their interests are similar. Barbara would probably be happier with Dan than with Charlie who likes quiet concentration. 
@@ -187,7 +189,9 @@ A society with social networkism -->
 
 ## Facebook is a Personal Network, Not a Social Network
 
-Unfortunately, some social apps group people not to build the common interest, but merely funnel advertisements more effectively. An example is Facebook which lets its users add other users that they like, creating a **personal network** instead of a proper social network.  Those users can then post whatever is in their personal interest which then creates a personal bubble or echo chamber that might go against other bubbles. If left unchecked, it can lead to online conflict, followed by real physical conflict or harm.
+Unfortunately, some social apps group people not to build the common interest, but merely funnel advertisements more effectively. An example is Facebook which lets its users add other users that they like, creating a **personal network** instead of a proper social network.  
+
+Those users can then post whatever is in their personal interest which then creates a personal bubble or echo chamber that might go against other bubbles. If left unchecked, it can lead to online conflict, followed by real physical conflict or harm.
 
 <!-- traps its users in an echo chamber that can help it serve ads that strike our personal or group interest. 
 

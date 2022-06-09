@@ -74,7 +74,6 @@ As proof, physicists concede that [they will never be able to solve GR](https://
 
 Superphysics breaks through this barrier that Einstein created by tapping into the knowledge of the civilizations outside of the Roman Empire. Unknown to many, those civlizations, such as the ancient Greeks, Indians, and Chinese all follow a five-force model: 
 
-<br>
 
 Greeks (Timaeus) | Hindus | Chinese | Shape
 --- | --- | --- | --- | ---
@@ -101,6 +100,26 @@ Rank | Name | Greek-Hindu | Chinese | Physics Force | Superphysics Force | Force
 The five layers solve the mysteries of quantum physics (which is based on the radiant or electromagnetic layer) by extending human knowledge onto the higher gravitational (spatial) and aethereal layers. 
 
 
+
+{{< q a="krishna" >}}
+My manifest form is made up of:
+
+1. Earth
+2. Water
+3. Flame
+4. Air
+5. Aether
+6. life
+7. mind
+8. Individuality
+
+These are my lower Nature. Learn my higher Nature that produces this Universe by its principle of life. 
+
+I am that womb. I make and I unmake this Universe.
+{{< /q >}}
+
+
+
 ![Five layers of Superphysics](/graphics/physics/egllayers.png)
 
 
@@ -110,7 +129,7 @@ Western medicine only works on the material layer which is the crudest of the fi
 
 Instead, Western medicine is very good at material health problems that can be cured by physical surgery or masked by chemical medicines. 
 
-<br>
+
 
 ### The Octave vs the Pentatonic Scale
 

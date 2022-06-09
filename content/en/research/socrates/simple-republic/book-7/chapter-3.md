@@ -91,19 +91,32 @@ I acknowledge the justice of your rebuke. Still, how can astronomy be learned to
 
 
 {{< l a="Socrates" >}}
-The starry heaven is wrought on a visible ground. The most perfect of visible things is far inferior to the true motions of absolute swiftness and slowness which are relative to each other*.
+The starry heaven is wrought on a visible ground. 
+
+The most perfect of visible things is far inferior to the true motions of absolute swiftness and slowness which are relative to each other*.
+
 They carry with them that which is contained in them**.
+
 These are to be apprehended by reason and intelligence, but not by sight.
+
 The spangled heavens should be used as a pattern and with a view to that higher knowledge.
+{{< /l >}}
+
+
+> *Superphysics Note: This is similar to General Relativity. 
+
+> **Superphysics Note: Unlike General Relativity, the cause of the motions of heavenly bodies are inherent. I call this "gravitational signatures". Socrates implies that photons cannot directly measure such inherent signatures. The pattern of such signatures can then be used to make a locational map that Einstein refers to as the fabric of spacetime and can be used to predict the motions of heavenly bodies.
+
+{{< l a="Socrates" >}}
 Their beauty is like the beauty of pictures excellently wrought by the hand of Daedalus or some other great artist.
-Any geometrician who saw them would appreciate the exquisiteness of their workmanship.
-But he would never think that there is a true equal, true double, or true proportion in the spangled heavens***.
+
+Any geometrician who saw them would appreciate the exquisiteness of their workmanship. But he would never think that there is a true equal, true double, or true proportion in the spangled heavens*.
+
 Likewise, a true astronomer will have the same feeling when he looks at the movements of the stars.
 {{< /l >}}
 
-> * Translator's Note= This is similar to General Relativity. 
-** But unlike General Relativity, the cause of the motions of heavenly bodies are inherent. I call this "gravitational signatures". Socrates implies that photons cannot directly measure such inherent signatures. The pattern of such signatures can then be used to make a locational map that Einstein refers to as the fabric of spacetime and can be used to predict the motions of heavenly bodies. 
-*** Socrates rejects a cosmological constant
+> *Superphysics Note: Socrates rejects a cosmological constant
+
 
 {{< r a="Glaucon" >}}
 He will think that heaven and the things in heaven are framed by the Creator in the most perfect way.
@@ -111,18 +124,20 @@ He will think that heaven and the things in heaven are framed by the Creator in 
 
 {{< l a="Socrates" >}}
 But the true astronomer will never imagine that the following can also be eternal and subject to no deviation:
-the proportions of:
-night and day,
-night and day to the month,
-the month to the year,
-the stars to these and to one another.
+- the proportions of:
+  - night and day,
+  - night and day to the month,
+  - the month to the year,
+  - the stars to these and to one another.
+
 It is equally absurd to take so much pains in investigating their exact truth*.
 
 Then, in astronomy, as in geometry, we should employ problems, and leave the heavens alone if we would approach the subject in the right way.
 This would make the natural gift of reason useful.
 {{< /l >}}
 
-* Translator's Note= Socrates discourages the search for a universal constant.
+> *Superphysics Note: Socrates discourages the search for a universal constant.
+
 
 {{< l a="Socrates" >}}
 That is a work infinitely beyond our present astronomers.

@@ -54,7 +54,7 @@ Hence, in the stage of citta we get Mahattattva and Ahaḿtattva as well.
 
 In the extroversial saiṋcara process citta gradually crudifies under the influence of static Prakrti, till the crude solid is created. 
 
-This process of crudification of mindstuff, having a coordination of Great-layer and Ego-layer, is divided into 5 stages<!--  known as kośas -->. 
+This process of crudification of mindstuff, having a coordination of Identity-layer and Ego-layer, is divided into 5 stages<!--  known as kośas -->. 
 
 According to their relative density of crudeness developed through the bondage of the static principle, the five kośas, starting from the initial stage, are:
 - hirańmaya kośa

@@ -14,7 +14,7 @@ icon: "/icons/sarkar.jpg"
 
 ## Mind
 
-Saiṋcara transforms the transcendental entity <!-- Puruśa --> Consciousness into <!-- , under the localized influence of His immanent principles, is transformed into --> Mind, as the Great-Layer, Ego-Layer, and mindstuff<!--  Mahattattva, Ahaḿtattva and citta -->. 
+Saiṋcara transforms the transcendental entity <!-- Puruśa --> Consciousness into <!-- , under the localized influence of His immanent principles, is transformed into --> Mind, as the Identity-Layer, Ego-Layer, and mindstuff<!--  Mahattattva, Ahaḿtattva and citta -->. 
 
 The first 2 stages of bondage are theoretical – the movement or vibration is unrestricted by the relative factors of time, space and person. These 2 stages are not perceivable. <!-- do not come within the scope of perception.  -->
 

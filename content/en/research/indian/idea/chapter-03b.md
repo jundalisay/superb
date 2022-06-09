@@ -81,7 +81,9 @@ The type of vibration radiated by an object is the "out-going quantum-perception
 The wave received by the sensory nerves is the "incoming quantum-perception"<!--  tanmátra” -->.
 
 
-## Indriyatattva
+## The Sensory Layer
+
+<!-- Indriyatattva -->
 
 The mind is the master which perceives, orders and acts with the help of organs <!-- indriyas -->, both sensory and motor. 
 

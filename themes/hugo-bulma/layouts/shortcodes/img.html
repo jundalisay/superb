@@ -8,7 +8,7 @@
 	<figure class="is-inline-block">
 	  <img src="{{ $src }}" alt="{{ $alt }}" class="image {{ $size }}">
 	  {{ if $cap }}
-	  	<figcaption>{{ $cap }}</figcaption>
+	  	<figcaption>{{ $cap | markdownify }}</figcaption>
 	  {{ end }}
 	</div>
 </figure>

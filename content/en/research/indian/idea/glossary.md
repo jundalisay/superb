@@ -15,10 +15,15 @@ draft: true
 
 
 Those Sanskrit terms that have been adequately explained where they first occur in the text itself have not been included in this glossary.
+
 ÁCÁRYA m. or ÁCÁRYÁ f. Spiritual teacher qualified to teach all lessons of meditation.
+
 AHAḾTATTVA. Doer “I”, ego, second mental subjectivity.
+
 ANÁHATA CAKRA. Fourth psychic-spiritual centre, or plexus; the “yogic heart”. See also CAKRA.
+
 ÁNANDA. Divine bliss.
+
 ANANDA MARGA. Path of divine bliss; Ánanda Márga Pracáraka Saḿgha (Ananda Marga organization).
 ANNAMAYA KOŚA. The physical body, composed of the five fundamental factors.
 APARÁVIDYÁ. Knowledge of the mundane.

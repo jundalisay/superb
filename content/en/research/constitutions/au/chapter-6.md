@@ -29,7 +29,6 @@ The Parliament of the Commonwealth may, with the consent of the Parliament of a 
 124. Formation of new States
 
 A new State may be formed by separation of territory from a State, but only with the consent of the Parliament
-thereof, and a new State may be formed by the union of two or more States or parts of States, but only with the
-consent of the Parliaments of the States affected.
+thereof, and a new State may be formed by the union of two or more States or parts of States, but only with the consent of the Parliaments of the States affected.
 
 

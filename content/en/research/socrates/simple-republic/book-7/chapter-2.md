@@ -22,12 +22,12 @@ Our young men are to be warrior athletes. This new kind of knowledge must be use
 
 {{< r a="Glaucon" >}}
 Music was the counterpart of gymnastics. It trained the guardians:
-<ul>
-  <li>by the influences of habit,</li>
-  <li>by harmony making them harmonious,</li>
-  <li>by rhythm rhythmical,</li>
-  <li>but not giving them science.</li>
-</ul>
+
+- by the influences of habit
+- by harmony making them harmonious
+- by rhythm rhythmical
+-  but not giving them science.
+
 
 The words, whether fabulous or possibly true, had kindred elements of rhythm and harmony in them. But in music, there was nothing which tended to that good which you are now seeking. 
 {{< /r >}}
@@ -41,26 +41,52 @@ Yes, in music there certainly was nothing of the kind. We decided that all the u
 ## Essential Subject 1: Arithmetic
 
 {{< l a="Socrates" >}}
-The little matter of distinguishing one, two, and three—- number and calculation. All arts and sciences necessarily partake of them. The art of war partakes of them.
-Palamedes proved that Agamemnon ridiculously unfit to be a general.
+The little matter of distinguishing one, two, and three—- number and calculation. 
+
+All arts and sciences necessarily partake of them. The art of war partakes of them.
+- Palamedes proved that Agamemnon ridiculously unfit to be a general.
+
 Palamedes declared that he himself had invented number.
+- He had numbered the ships and set in array the ranks of the army at Troy. 
 
-He had numbered the ships and set in array the ranks of the army at Troy. This implies that they had never been numbered before. Agamemnon must have been incapable of counting his own feet. A warrior should have a knowledge of arithmetic. This is the study of the kind which we are seeking.
+This implies that they had never been numbered before. Agamemnon must have been incapable of counting his own feet. 
 
-It leads naturally to reflection, but never to have been rightly used. Its true use is simply to draw the soul towards being. There are two kinds of objects of sense:
-<ul>
-  <li>Uninviting objects</li>
-  <li>Inviting objects</li>
-</ul>
+A warrior should have a knowledge of arithmetic. This is the study of the kind which we are seeking.
+{{< /l >}}
+
+{{< l a="Socrates" >}}
+Arithmetic leads naturally to reflection. But it was never rightly used. 
+
+**Its true use is simply to draw the soul towards being.** 
+
+There are 2 kinds of objects of sense:
+- Uninviting objects
+- Inviting objects
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
-Uninviting objects do not pass from one sensation to the opposite. An example is my three fingers. Now one will ask "what is a finger?", as there is nothing here which invites, excites, or draws intelligence.
+**Uninviting objects do not pass from one sensation to the opposite.** 
 
-Inviting objects pass from one sensation to the opposite. The sense coming on the object only gives a vivid idea of its opposite. Fingers do not excite curiosity, but the size of fingers do. Can sight adequately perceive them? Does the touch adequately perceive the thickness or softness of the fingers? The sense concerned with hardness is also concerned with softness. It only conveys to the soul that the same thing is felt to be both hard and soft.
+An example is my 3 fingers. There is <!--  Now one will ask "what is a finger?", as there is --> nothing here which invites, excites, or draws intelligence.
 
-The soul would be perplexed if 'hard' and 'soft' were used arbitrarily. In these perplexities, the soul uses calculation and intelligence to help her distinguish between several objects. If an object turns out to be two two objects, then each of them is different.
+Inviting objects pass from one sensation to the opposite sensation. 
+
+The real perception of an object gives an  idea of its opposite perception. 
+
+Fingers do not excite curiosity and are uninviting. But the size of fingers do. 
+
+Their size invites further perceptions from sight and touch.
+<!-- Can sight adequately perceive them? Does the touch adequately perceive the thickness or softness of the fingers?  -->
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+The sense concerned with hardness is also concerned with softness. It only conveys to the soul that the same thing is felt to be both hard and soft.
+
+The soul would be perplexed if 'hard' and 'soft' were used arbitrarily. 
+
+In these perplexities, the soul uses calculation and intelligence to help her distinguish between several objects. If an object turns out to be two two objects, then each of them is different.
 
 If the two are the same and came from one, then she will conceive the two as divided. If there were undivided, they could only be conceived of as one. The eye can see big and small, but only in a confused manner and cannot distinguish objects all the time. The thinking mind intends to light up the chaos.
 It was compelled to reverse the process, and look at small and big as separate and not confused. This was the beginning of the question 'What is big?' and 'What is small?'. Thus, the distinction of the visible and the intelligible arose.
@@ -68,7 +94,9 @@ It was compelled to reverse the process, and look at small and big as separate a
 
 
 {{< l a="Socrates" >}}
-This was what I meant of impressions that invited the intellect and those that did not. If simple unity could be adequately perceived by the sight alone, then nothing could attract the soul towards the essence of being, just as nothing is attracted to the nature of a finger.
+This was what I meant of impressions that invited the intellect and those that did not. 
+
+If simple unity could be adequately perceived by the sight alone, then nothing could attract the soul towards the essence of being, just as nothing is attracted to the nature of a finger.
 
 But when there is some contradiction always present, the soul becomes perplexed. It wants to arrive at a decision and asks 'What is absolute unity?' This is how the study of the one has a power of drawing and converting the mind to the contemplation of true being.
 
@@ -79,31 +107,31 @@ Arithmetic and calculation deal with numbers. They appear to lead the mind towar
 
 
 {{< l a="Socrates" >}}
-Arithmetic has a double use, military and philosophical. The man of war must learn the art of number or he will not know how to array his troops. The philosopher also must be an arithmetician as he has to lay hold of true being. Our guardian is both warrior and philosopher. This is a kind of knowledge which legislation may prescribe. We must try to persuade those who are to be the principal men of our State to go and learn arithmetic:
-<ul>
-  <li>not as amateurs, but they must carry on the study until they see the nature of numbers with the mind only, and</li>
-  <li>not like merchants or retail-traders, with a view to buying or selling, but for the sake of their military use, and of the soul herself.</li>
-</ul>
+Arithmetic has a double use, military and philosophical. 
+
+The man of war must learn the art of number or he will not know how to array his troops. The philosopher also must be an arithmetician as he has to lay hold of true being. 
+
+Our guardian is both warrior and philosopher. This is a kind of knowledge which legislation may prescribe. We must try to persuade those who are to be the principal men of our State to go and learn arithmetic:
+- not as amateurs, but they must carry on the study until they see the nature of numbers with the mind only, and
+- not like merchants or retail-traders, with a view to buying or selling, but for the sake of their military use, and of the soul herself.
 
 This will be the easiest way for her to pass from becoming to truth and being.
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
-Arithmetic, as a science, is so charming! In many ways, it conduces to our desired end, if pursued in the spirit of a philosopher, and not of a shopkeeper! Arithmetic has a very great and elevating effect.
-<ul>
-  <li>It compels the soul to reason about abstract number.</li>
-  <li>It rebels against the introduction of visible or tangible objects into the argument.</li>
-  <li>The masters of the art steadily repel and ridicule any one who attempts to divide absolute unity when he is calculating. If you divide, they multiply. They either:
-    <ul>
-      <li>integrate the number because they deny the possibility of fractions, or</li>
-      <li>regard division as a process of multiplication, for the fractions of one continue to be units.</li>
-    </ul>
-  </li>
-</ul>
+Arithmetic, as a science, is so charming! 
+
+In many ways, it conduces to our desired end, if pursued in the spirit of a philosopher, and not of a shopkeeper! Arithmetic has a very great and elevating effect.
+- It compels the soul to reason about abstract number.
+- It rebels against the introduction of visible or tangible objects into the argument.
+- The masters of the art steadily repel and ridicule any one who attempts to divide absolute unity when he is calculating. If you divide, they multiply. They either:
+  - integrate the number because they deny the possibility of fractions, or
+  - regard division as a process of multiplication, for the fractions of one continue to be units.
 
 Suppose a person were to ask "What are these wonderful numbers that have a unity yet each unit is equal, invariable, indivisible?"
 {{< /l >}}
+
 
 {{< r a="Glaucon" >}}
 They would answer that they were speaking of numbers which can only be realized in thought.
@@ -120,16 +148,15 @@ Arithmetic is a difficult study. This is why the best natures should be trained 
 This should be one of our subjects of education. Does the kindred science of geomerty also concern us?
 {{< /l >}}
 
+
 {{< r a="Glaucon" >}}
 Clearly, we are concerned with that part of geometry which relates to war.
 
 It will make all the difference whether a general is or is not a geometrician:
-<ul>
-  <li>in pitching a camp,</li>
-  <li>taking up a position,</li>
-  <li>closing or extending the lines of an army, or</li>
-  <li>any other military manoeuvre.</li>
-</ul>
+- in pitching a camp,
+- taking up a position,
+- closing or extending the lines of an army, or
+- any other military manoeuvre.
 {{< /r >}}
 
 
@@ -143,7 +170,10 @@ They are always speaking, in a narrow and ridiculous manner, of squaring and ext
 
 They confuse the necessities of geometry with those of daily life, even if knowledge is the real object of the whole science.
 The knowledge which geometry aims at is knowledge of the eternal, and not of the perishing and transient.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Then, geometry will draw the soul towards truth.
 It will create the spirit of philosophy and raise up that which is now unhappily allowed to fall down.
 

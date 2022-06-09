@@ -1,17 +1,19 @@
 ---
-title: "The Place of Sadvipras in the Samája Cakra"
+title: "Evolution and the 4 Ages of Society"
 heading: "Chapter 4 of Idea and Ideology Simplified"
 date: 2022-01-31
-description: ""
+description: "In this cycle of civilization, one age changes or evolves into another. One complete cycle from Shúdra to Vipra Age is called parikránti."
 image: "/covers/ideology.jpg"
 author: "PR Sarkar"
-linkb: "/research/indian/idea/chapter-03"
-linkbtext: "Chapter 3"
-linkf: "/research/indian/idea/chapter-05"
-linkftext: "Chapter 5"
+linkb: "/research/indian/idea/chapter-09"
+linkbtext: "Chapter 9"
+linkf: "/research/indian/idea/chapter-10b"
+linkftext: "Chapter 10b"
 icon: "/icons/sarkar.jpg"
 ---
 
+
+<!-- The Place of Sadvipras in the Samája Cakra -->
 
 Primitive humans had no society. Their whole set-up was individualistic. 
 
@@ -30,6 +32,9 @@ The reliance on physical power gradually led a chosen few to lead the rest by ph
 
 Simultaneously, the family developed. 
 
+
+## Kśatriyas
+
 The physical leadership, once based upon the superiority of muscles, passed on from the father to the son or from the mother to the daughter. This is:
 - partly due to the momentum of fear and power commanded
 - partly because of superiority of animalic breed.
@@ -39,6 +44,9 @@ Superior strength requires the assistance of other superior strengths in the nei
 Gradually the leaders by physical might started a well-knit group. Ultimately this led to a class called the kśatriyas. 
 
 The Kśatriya Age was the time when the power to rule, or supremacy in arms, was the only material factor that mattered. The leaders of the Kśatriya Age were Herculean, huge giants who depended on the supremacy of personal valour and might, making little or no use of intellect.
+
+
+## Vipras
 
 The physical and psychic clash in the kśatriya-dominated society led to the development of intellect and skill. Even the physical giant had to sit and learn the use of arms and strategy from physically-common teachers.
 
@@ -63,6 +71,10 @@ To maintain power amongst the limited few, they actively prevented others from a
   - the caste system of Hindu society is an example.
 
 This was the phase of human society in the Middle Ages in most of the world.
+
+
+
+## Vaeshyas
 
 The continued exploitation led to inequality. 
 - It led to <!-- by one section of society resulted in the necessity for --> the hoarding and transfer of consumable goods.
@@ -104,6 +116,9 @@ The leaders of this revolution, also, are people physically and mentally better-
 
 In other words, they are also kśatriyas. So, after a period of chaos and catastrophe, once more the same cycle – Shúdra Age to Kśatriya to Vipra, and so on – recommences.(1)
 
+
+## Evolution and Counter-evolution
+
 In this cycle of civilization, one age changes into another. 
 
 This gradual change should be called “evolution” or kránti. The period of transition from one age to another is "yuga saḿkránti" – “transitional age”. 
@@ -118,11 +133,14 @@ But if this reversal of the social cycle takes place, due to political pressure 
 
 It is just like the negative pratisaiṋcara of Brahma Cakra. 
 
-Thus the progress and march of civilization can be represented as points of position and as the speed of approaching Puruśottama, respectively, by a collective body in Brahma Cakra.
+Thus, the progress of civilization can be represented:
+- as points of position, and
+- as the speed of approaching the Macrocosmic Nucleus <!-- Puruśottama -->, respectively, by a collective body in Brahma Cakra.
 
-The world is a transitory phase or changing phenomenon within the scope of the Cosmic Mind. It is going in eternal motion, and such a motion is the law of nature and the law of life. 
+The world is a transitory phase <!-- or changing phenomenon --> within the <!-- scope of the --> Cosmic Mind. It is in eternal motion. Such a motion is the law of nature and the law of life. 
 
 Stagnancy means death. Hence no power can check the social cycle of evolution. 
 
-Any force, external or internal, can only retard or accelerate the speed of transition, but cannot prevent it from moving. Therefore progressive humanity should cast off all skeletons of the past. Human beings should go on accelerating the speed of progress for the good of humanity in general.
+Any force, external or internal, can only retard or accelerate the speed of transition, but cannot prevent it from moving. 
 
+Therefore, progressive humanity should cast off all skeletons of the past. Human beings should go on accelerating the speed of progress for the good of humanity in general.

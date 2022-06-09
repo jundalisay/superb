@@ -30,8 +30,8 @@ Shall we let him off, or what shall we do?
 {{< r a="Adeimantus" >}}
 Adeimantus (raising his voice)= Certainly not, Socrates should not be let off. We think that you are lazy and mean to cheat us out of a whole chapter which is a very important part of the story. You think that we do not notice your airy way of proceeding, as if it were obvious to all how women and children 'friends have all things in common.' But what is right in this case needs to be explained. There are many kinds of community. So please say what sort of community you mean. We have been long expecting you to tell us about the family life of your citizens.
 <ul>
-  <li>How they will raise children?</li>
-  <li>What is the nature of this community of women and children?</li>
+  How they will raise children?
+  What is the nature of this community of women and children?
 </ul>
 
 We think that the right or wrong management of such matters will have a paramount influence on the State. The question is still unanswered, but you are already changing the topic.<!--  We have resolved not to let you go until you give an account of all this. -->
@@ -217,15 +217,19 @@ In such a case, <!-- faculty of administration in a state , and f all the gifts 
 - One woman is a philosopher, and another is an enemy of philosophy.
 - One has spirit, and another is without spirit.
 - One woman will have the temper of a guardian, and another not.
-
-The selection of the male guardians was determined by such differences. **Both men and women have the qualities which make a guardian.**
 {{< /l >}}
 
+
+
 {{< l a="Socrates" >}}
+The selection of the male guardians was determined by such differences. **Both men and women have the qualities which make a guardian.**
+
 They differ only in their comparative strength or weakness. Those women who have such qualities are to be selected as the companions of men:
 - who have similar qualities and
 - whom they resemble in capacity and character. 
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 **The same natures should have the same pursuits.** 
 
 Then, there is nothing unnatural in assigning music and gymnastic to the wives of the guardians. 
@@ -237,40 +241,60 @@ The contrary practice, which prevails at present, is in reality a violation of n
 2. Whether they were the most beneficial
 
 We shall establish the great benefit next. 
+{{< /l >}}
 
-The same education which makes a man a good guardian will make a woman a good guardian, for their original nature is the same. In the commonwealth which we were founding, the guardians are to be more perfect men. One man is better than another. Our guardians are the best of our citizens. Their wives be the best women. It is the interest of the State that its men and women be as good as possible.
+{{< l a="Socrates" >}}
+The same education which makes a man a good guardian will make a woman a good guardian, for their original nature is the same. 
 
-This is what the arts of music and gymnastic will accomplish. Thus, we have made a rule that is possible and very beneficial to the State. Let the wives of our guardians strip. Their virtue will be their robe. Let them share in the toils of war and the defence of their country. They will only get the lighter labours due to their weaker natures. But in other respects, their duties are to be the same.
+<!-- In the commonwealth which we were founding, the guardians are to be more perfect men. One man is better than another. --> Our guardians should be the best of our citizens and their wives  the best women. It is the interest of the State that its men and women be as good as possible.
 
-Men will laugh at naked women exercising from the best of motives. In reality, they are plucking 'A fruit of unripe wisdom'. They are ignorant of what he is laughing at. The best of sayings is that "the useful is the noble and the hurtful is the base".
+This is what the arts of music and gymnastic will accomplish. 
+
+Thus, we have made a rule that is possible and very beneficial to the State. 
+
+Let the wives of our guardians strip. Their virtue will be their robe. 
+
+Let them share in the toils of war and the defence of their country. They will only get the lighter labours due to their weaker natures. But in other respects, their duties are to be the same.
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+Men will laugh at naked women exercising from the best of motives. 
+
+In reality, they are plucking 'A fruit of unripe wisdom'. They are ignorant of what he is laughing at. The best of sayings is that "the useful is the noble and the hurtful is the base".
 
 There is one difficulty in our law about women. The rule that follows our first rule is:
-<ul>
-  <li>The wives of our guardians are to be common.</li>
-  <li>Their children are to be common.</li>
-  <li>No parent is to know his own child, nor any child his parent.</li>
-</ul>
+- The wives of our guardians are to be common.
+- Their children are to be common.
+- No parent is to know his own child, nor any child his parent.
 {{< /l >}}
 
 {{< r a="Glaucon" >}}
 Yes, the possibility and the utility of such a law are far more questionable.
 {{< /r >}}
 
+
 {{< l a="Socrates" >}}
 Having wives and children in common is very useful. However, its reality is very much disputed.
 
 Let us assume that it were possible. How will it be done and how will it be beneficial to the State and to the guardians?
 
-Our rulers must be willing to to comman their auxiliaries, just as their auxiliaries must be willing to obey their rulers. The guardians must themselves obey the laws. They must also imitate the spirit of them in any details entrusted to their care. You are their legislator. You have selected the men and the women for them. 
-<ul>
-  <li>They must be of like natures.</li>
-  <li>They must live in common houses and meet at common meals.</li>
-  <li>None of them will have anything specially his or her own.</li>
-  <li>They will be together and will be brought up together.</li>
-  <li>They will associate at gymnastic exercises.</li>
-  <li>They will be drawn by a necessity to have intercourse with each other which must be orderly.</li>
-</ul>
+Our rulers must be willing to command their auxiliaries, just as their auxiliaries must be willing to obey their rulers. 
 
+The guardians themselves must obey the laws. They must also imitate the spirit of them in any details entrusted to their care. You are their legislator. 
+{{< /l >}}
+
+{{< l a="Socrates" >}}
+You have selected the men and the women for them. 
+- They must be of like natures.
+- They must live in common houses and meet at common meals.
+- None of them will have anything specially his or her own.
+- They will be together and will be brought up together.
+- They will associate at gymnastic exercises.
+- They will be drawn by a necessity to have intercourse with each other which must be orderly.
+{{< /l >}}
+
+{{< l a="Socrates" >}}
 In a city of the blessed, licentiousness is an unholy thing which the rulers will forbid. Then the legislator will make matrimony sacred in the highest degree, for what is most beneficial will be deemed sacred.
 
 How can marriages be made most beneficial? Glaucon, I see that you have dogs for hunting and many birds. You take care to breed from the best only. You only take those of ripe age. If care was not taken in the breeding, your dogs and birds would greatly deteriorate. Good heavens, what consummate skill will our rulers need if the same principle holds of the human species! 
@@ -301,7 +325,7 @@ They will have to consider the effects of wars, diseases, and any similar agenci
 Our braver and better youth might have greater facilities of intercourse with the women given them. Their bravery will be a reason, and such fathers should have as many sons as possible. The proper officers can be either male or female.
 
 They will take the offspring of the good parents to the pen and deposit them with certain nurses who live in a separate quarter. But the offspring of the inferior will be put away in some mysterious, unknown place, as they should be.
-{{< /r >}}
+{{< /l >}}
 
 
 {{< r a="Glaucon" >}}
@@ -310,11 +334,9 @@ Yes, that must be done if the breed of the guardians is to be kept pure.
 
 {{< l a="Socrates" >}}
 They nurses will:
-<ul>
-  <li>provide for their nurture</li>
-  <li>bring the mothers to the fold when they are full of milk</li>
-  <li>take the greatest care that no mother recognises her own child</li>
-</ul>
+- provide for their nurture
+- bring the mothers to the fold when they are full of milk
+- take the greatest care that no mother recognises her own child
 
 Care will also be taken that the process of suckling shall not be protracted too long. The mothers will have no getting up at night or other trouble. They will hand over all this sort of thing to the nurses and attendants. 
 {{< /l >}}
@@ -325,7 +347,12 @@ You suppose the wives of our guardians to have a fine easy time when they are ha
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-They should. We were saying that the parents should be in the prime of life. The prime of life is a period of about 20 years in a woman's life and 30 in a man's. A woman at 25 years may begin to bear children to the State, and continue to bear them until 40. A man may begin at 25, when he has passed the point at which the pulse of life beats quickest, and continue to beget children until he be 55. 
+They should. 
+
+The parents should be in the prime of life. The prime of life is about 20 years in a woman's life and 30 in a man's. 
+
+- A woman at 25 years may begin to bear children to the State, and continue to bear them until 40.
+- A man may begin at 25, when he has passed the point at which the pulse of life beats quickest, and continue to beget children until he be 55. 
 {{< /l >}}
 
 
@@ -335,17 +362,25 @@ Certainly, both in men and women those years are the prime of physical as well a
 
 
 {{< l a="Socrates" >}}
-It is unholy and unrighteous for anyone above or below the prescribed ages to take part in the public hymeneals. A person who produces a child outside of those ages bears the offspring of darkness and strange lust. This is different from the proper birth under the sacrifices and prayers offered by priestesses and priests. Those proper acts help the new generation to be better and more useful than their parents. The same law will apply to the guardians within the prescribed age connects with any woman in the prime of life without the sanction of the rulers.  He is raising up a bastard to the State, uncertified and unconsecrated. This applies only to those who are within the specified age. After that, we allow them to range at will, except that a man guardian may not marry his daughter, his daughter's daughter, his mother, or his mother's mother. 
+It is unholy and unrighteous for anyone above or below the prescribed ages to take part in the public hymeneals. A person who produces a child outside of those ages bears the offspring of darkness and strange lust. 
+
+This is different from the proper birth under the sacrifices and prayers offered by priestesses and priests. Those proper acts help the new generation to be better and more useful than their parents. 
+{{< /l >}}
+
+{{< l a="Socrates" >}}
+The same law will apply to the guardians within the prescribed age connects with any woman in the prime of life without the sanction of the rulers.  He is raising up a bastard to the State, uncertified and unconsecrated. This applies only to those who are within the specified age. After that, we allow them to range at will, except that a man guardian may not marry his daughter, his daughter's daughter, his mother, or his mother's mother. 
 
 Women, on the other hand, are prohibited from marrying their sons, fathers, son's son, or father's father in either direction. We give strict orders to prevent any embryo which may come into being from seeing the light. If any force a way to the birth, the parents must understand that the offspring of such an union cannot be maintained. 
 {{< /l >}}
 
 {{< r a="Glaucon" >}}
 But how will they know who are fathers and daughters, and so on?
-{{< /l >}}
+{{< /r >}}
 
 {{< l a="Socrates" >}}
-They will never know. Dating from the day of the hymeneal, the married couple will call all the children born in the 7th and 10th month afterwards as their children. Those children will call them their parents. All who were begotten at the time when their fathers and mothers came together will be called their brothers and sisters and will be forbidden to inter-marry. 
+They will never know. 
+
+Dating from the day of the hymeneal, the married couple will call all the children born in the 7th and 10th month afterwards as their children. Those children will call them their parents. All who were begotten at the time when their fathers and mothers came together will be called their brothers and sisters and will be forbidden to inter-marry.
 
 This, however, is not an absolute prohibition of the marriage of brothers and sisters. If they receive the sanction of the Pythian oracle, the law will allow them. This is how our guardians are to have their families in common.
 {{< /l >}}

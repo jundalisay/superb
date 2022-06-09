@@ -9,8 +9,6 @@ linkftext= "Chapter 3"
 linkb= "/research/socrates/simple-republic/book-6/chapter-1/"
 linkbtext= "Chapter 1"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
 +++
 
 ## The Characteristics of Guardians
@@ -65,23 +63,24 @@ I shall strive to convert him and other men, or do something which may profit th
 That time is far away. 
 {{< /r >}}
 
+
 {{< l a="Socrates" >}}
 But that time is near, relative to eternity.
 
 Many refuse to believe philosophy for they have never seen what we have. They:
-<ul>
-  <li>have seen only a conventional imitation of philosophy, made of words artificially brought together, unlike ours that have a natural unity</li>
-  <li>have never seen any human who is perfectly moulded into virtue in word and deed, ruling in a city which is also virtuous</li>
-  <li>have seldom heard the free and noble feelings which are uttered when they seek truth for the sake of knowledge</li>
-</ul>
+- have seen only a conventional imitation of philosophy, made of words artificially brought together, unlike ours that have a natural unity
+- have never seen any human who is perfectly moulded into virtue in word and deed, ruling in a city which is also virtuous
+- have seldom heard the free and noble feelings which are uttered when they seek truth for the sake of knowledge
 
-Theese result in <!--  end result of the subtleties of controversy is --> opinion and strife in society.
+These result in <!--  end result of the subtleties of controversy is --> opinion and strife in society. 
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
 This was why truth forced us to admit that neither cities, States, nor individuals will attain perfection until:
-<ul>
-  <li>the small class of useless but non-corrupt philosophers are compelled to take care of the State, and</li>
-  <li>a like necessity is laid on the State to obey them, or</li>
-  <li>kings or princes, are divinely inspired with a true love of true philosophy.</li>
-</ul>
+- the small class of useless but non-corrupt philosophers are compelled to take care of the State, and
+- a like necessity is laid on the State to obey them, or
+- kings or princes, are divinely inspired with a true love of true philosophy.
 
 If these alternatives are impossible, then we can be justly ridiculed as dreamers and visionaries.
 
@@ -97,13 +96,12 @@ But do you mean that the multitude thinks it as impossible?
 
 
 {{< l a="Socrates" >}}
-Do not attack the multitude. <b>They will change their minds if you gently and soothingly, not aggressively</b>:
+Do not attack the multitude. **They will change their minds if you gently and soothingly, not aggressively**:
 
-<ul>
-  <li>remove their dislike of over-education,</li>
-  <li>show them your philosophers as they really are, and</li>
-  <li>describe their character and profession.</li>
-</ul>
+- remove their dislike of over-education,
+- show them your philosophers as they really are, and
+- describe their character and profession.
+
 
 Then, they will see that philosophers are not useless as they supposed.
 <!-- If they view him in this new light, they will surely change their notion of him, and answer in another strain. -->
@@ -113,19 +111,19 @@ Who can hate anyone who loves them? Who will be jealous anyone who is not jealou
 
 {{< l a="Socrates" >}}
 This harsh temper may be found in a few, but not in the majority of mankind. The harsh feeling that people have towards philosophy comes from the pretenders, who:
-<ul>
-  <li>rush in uninvited,</li>
-  <li>are always abusing them,</li>
-  <li>finding fault with them, and</li>
-  <li>make persons instead of things the theme of their conversation.</li>
-</ul>
+
+- rush in uninvited,
+- are always abusing them,
+- finding fault with them, and
+- make persons instead of things the theme of their conversation.
+
 
 Nothing can be more unbecoming in philosophers than this. A person always views fixed and immutable things if his mind:
-<ul>
-  <li>is fixed on true being, and</li>
-  <li>has no time to look down on earthly affairs or have malice and envy against other men</li>
-</ul>
-{{< /r >}}
+
+- is fixed on true being, and
+- has no time to look down on earthly affairs or have malice and envy against other men
+{{< /l >}}
+
 
 {{< l a="Socrates" >}}
 He sees neither injuring nor injured by one another, but all in order moving according to reason. These he imitates, and to these he will, as far as he can, conform himself.
@@ -154,20 +152,20 @@ They will begin by taking the State and the manners of men.
 Like a tablet, they will rub out the picture, and leave a clean surface.
 
 This is not easy.
-Until the philosophers have found or made a clean surface, they will:
-<ul>
-  <li>have nothing to do with the individual or the State, and</li>
-  <li>will inscribe no laws.</li>
-</ul>
 
+Until the philosophers have found or made a clean surface, they will:
+- have nothing to do with the individual or the State, and
+- will inscribe no laws.
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
 They will then:
-<ul>
-  <li>trace an outline of the constitution</li>
-  <li>look at absolute justice and beauty and temperance, and again at the human copy</li>
-  <li>mingle and temper the various elements of life into the image of a man</li>
-  <li>conceive this according to as what Homer calls 'the form and likeness of God'</li>
-  <li>erase and add features until they have made the ways of men agreeable to the ways of God</li>
-</ul>
+- trace an outline of the constitution
+- look at absolute justice and beauty and temperance, and again at the human copy
+- mingle and temper the various elements of life into the image of a man
+- conceive this according to as what Homer calls 'the form and likeness of God'
+- erase and add features until they have made the ways of men agreeable to the ways of God
 
 We shall persuade the people that that is the goal of the painter of constitutions.
 
@@ -182,16 +180,12 @@ But they will tell us that such a nature will not be perfectly good and wise. Th
 
 {{< l a="Socrates" >}}
 No. They will be less angry at us saying that until philosophers rule:
-<ul>
-	<li>States and individuals will have no rest from evil, and</li>
-	<li>our ideal State will never be realized.</li>
-</ul>
+- States and individuals will have no rest from evil, and
+- our ideal State will never be realized.
 
 Some kings or princes are by nature philosophers. There are examples of this in history. This means that it is possible for one man to:
-<ul>
-	<li>have a city obedient to his will, and</li>
-	<li>create the ideal State about which the world is so incredulous.</li>
-</ul>
+- have a city obedient to his will, and
+- create the ideal State about which the world is so incredulous.
 
 The ruler may impose the laws and institutions we described.
 <!-- The citizens might be willing to obey them.
@@ -204,46 +198,41 @@ How and by what studies will the saviours of the constitution be created? When a
 
 {{< l a="Socrates" >}}
 I omitted the troublesome business of:
-<ul>
-  <li>the possession of women,</li>
-  <li>the procreation of children,</li>
-  <li>the appointment of the rulers.</li>
-</ul>
+- the possession of women,
+- the procreation of children,
+- the appointment of the rulers.
 
 This is because I knew that the perfect State would be eyed with jealousy and was difficult to attain. The rulers must be investigated from the very beginning.
 
 They were:
-<ul>
-  <li>to be lovers of their country,</li>
-  <li>tried by the test of pleasures and pains,</li>
-  <li>never to lose their patriotism in hardships, dangers, nor at any critical moment,</li>
-  <li>people who always came forth pure gold tried in the refiner's fire, and</li>
-  <li>to receive honours and rewards in life and after death.</li>
-</ul>
+- to be lovers of their country,
+- tried by the test of pleasures and pains,
+- never to lose their patriotism in hardships, dangers, nor at any critical moment,
+- people who always came forth pure gold tried in the refiner's fire, and
+- to receive honours and rewards in life and after death.
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 **The perfect guardian must be a philosopher.**
 
 There will be few of them because the gifts which we deem essential rarely grow together. They are mostly found in shreds and patches.
 
 Quick intelligence, memory, sagacity, cleverness, and similar qualities, do not often grow together.
-<ul>
-  <li>Persons who possess them and are at the same time high-spirited and magnanimous.</li>
-  <li>They are not so constituted by nature as to live orderly and in a peaceful and settled manner.</li>
-  <li>They are driven any way by their impulses, and all solid principle goes out of them.</li>
-</ul>
+- Persons who possess them and are at the same time high-spirited and magnanimous.
+- They are not so constituted by nature as to live orderly and in a peaceful and settled manner.
+- They are driven any way by their impulses, and all solid principle goes out of them.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 On the other hand, the steadfast nature is dependable.
-<ul>
-  <li>In a battle, it is impregnable to fear and is immovable.</li>
-  <li>But it also often goes to sleep over any intellectual toil.</li>
-  <li>It is equally immovable when there is anything to be learned.</li>
-</ul>  
+- In a battle, it is impregnable to fear and is immovable.
+- But it also often goes to sleep over any intellectual toil.
+- It is equally immovable when there is anything to be learned.
 
 Yet both qualities were necessary in those to who will receive higher education and be in command.
 
 They will be a class which is rarely found.
-<ul>
-  <li>The aspirant must not only be tested in those labours and dangers and pleasures which we mentioned before.</li>
-  <li>He must be exercised also in many kinds of knowledge, to see whether the soul will be able to endure the highest of all, or will faint under them, as in any other studies and exercises.</li>
-</ul>
+- The aspirant must not only be tested in those labours and dangers and pleasures which we mentioned before.
+- He must be exercised also in many kinds of knowledge, to see whether the soul will be able to endure the highest of all, or will faint under them, as in any other studies and exercises.
 {{< /l >}}

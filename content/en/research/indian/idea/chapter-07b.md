@@ -1,96 +1,80 @@
 ---
-title: "How Does Life Come About?"
+title: "Samskara"
 heading: "Chapter 7b of Idea and Ideology Simplified"
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-03"
-linkbtext: "Chapter 3"
-linkf: "/research/indian/idea/chapter-05"
-linkftext: "Chapter 5"
+linkb: "/research/indian/idea/chapter-07"
+linkbtext: "Chapter 7"
+linkf: "/research/indian/idea/chapter-07c"
+linkftext: "Chapter 7c"
 icon: "/icons/sarkar.jpg"
 ---
 
 
-The food we eat mixes with the digestive fluids and gets transformed into rasa. Our body rejects the unnecessary material as urine and other waste matter. 
+Every stage results from the previous stages. The stage after formation of the unit mind is also the effect of all the past stages. 
 
-The essence of rasa is transformed into blood. Its waste matter is once again rejected. 
+"Saḿskára" is the effect of action in the past stages. It gives momentum to the unit mind. 
 
-The essence of blood changes into flesh. The essence of flesh changes into fat (meda or vasá). This goes on until it changes into bone, bone marrow, and ultimately into shukra. 
+The initial creation of the unit mind is the result of certain forces reacting in saiṋcara. 
 
-The physical body is made up of these 7 materials, of which shukra is the final essence. 
+The ultimate cause of momentum of every force is the Macrocosm. <!-- , the entire working principle in saiṋcara and pratisaiṋcara. It is, --> Therefore, the Macrocosm:
+- works through the media of microcosms
+- provides the momentum for the unit mind. 
 
-1. rasa
-2. blood
-3. flesh
-4. fat
-5. bone
-6. bone marrow
-7. shukra
+The attraction of the Great gives an acceleration to such momentum. 
 
+At the nucleus point where the first manifestation of Prakrti took place, the momentum of creation lay in latent form. The momentum of the universe is the momentum by the Cosmos through the media of microcosms and also through the medium of the inanimate portion of the Macrocosm. 
 
-The vital fluid shukra has 3 stages:
+This is the play of One in many forms. Before the formation of microcosms only the Macrocosm existed, and all projected activities lay in the Macrocosm, and all the diversities were in collective unity there. 
 
-1. lymph, or práńa-rasa (lasiká)
-2. spermatozoa
-3. seminal fluid.:[^1]
+All the Cosmos resides in Him. Therefore, there is no question of life, death or saḿskára in this inanimate phase of creation (from the first bursting out of Prakrti, to the development of crudest solid matter).
 
+In the journey of pratisaiṋcara, the crude mind gets momentum from the Macrocosm. 
 
-The lymph forces through lymphatic vessels which run side by side with the arteries. These pass through the lymphatic glands. 
+In the first stage, the microcosm evolves neither ego (ahaḿtattva) nor mahattattva, so it is devoid of any saḿskára. The eternal force of the Macrocosm moves the microcosms further towards the Nucleus.
 
-The lymph:
-- purifies the blood
-- maintains the body's beauty and glory
+In a later stage, the ego is evolved but the unit mind feels it and accepts it as a possessor of saḿskára or momentum. Afterwards, a stage comes when this ego starts controlling the mental activities.
 
-By getting into the glands, it enables proper secretion of hormones. 
+This stage in evolution is represented by human beings. Humans instead of going further towards the divine goal according to the movement of pratisaiṋcara can retrace, or adopt the path of negative pratisaiṋcara. 
 
-For the proper development of innate qualities, an adequate amount of lymph is necessary. 
+The momentum for this negative movement being the accepted momentum of the unit mind, it is said that the saḿskára of any living animal inferior to the human is “infused” but that of the human is “acquired”.
 
-The lymph rises up and gets into the brain, strengthening it. 
+Inferior animals continue to march on the path of pratisaiṋcara (because of their less-developed ego), while humans may retrace by adopting mean objectives.
 
-For intellectuals an adequate amount of lymph is necessary. A deficiency or defect in the lymph causes some disease in the organ where the deficiency has occurred. 
+While maintaining the unit structure of any object in the animated phase of evolution, proper adjustment amongst mental waves, physical waves and the práńáh is an essentiality. 
 
-For example, defects of the lymph system in the leg will result in elephantiasis of the leg.
+Any object, mental or physical, always emanates waves. If these waves from the physical body and the mental body have a parallelism, then and then only is a cooperative unit structure maintained.
 
-Some nerve plexuses get developed at 12-14 years old in hot countries and 13-16 in cold countries. 
-- In the male body, they are the testes. 
-- In the female, they are the ovaries. 
+This parallelism can be lost as well, causing a dissociation of the composite factors by a maladjustment or unadjustable elevation or degradation of any one of the constituent factors. 
 
-After a due supply of lymph to the brain, the extra lymph comes in contact with the testes and is transformed into spermatozoa. 
+In the animated phase of evolution elevation occurs due to physical clash, psychic clash, or the attraction of the Supreme. 
 
-By a proper system of observing fast, the excessive formation of lymph can be checked. Impure thoughts also cause excessive formation of spermatozoa from lymph. If the surplus lymph is destroyed there is no harm. Spermatozoa with lymph and other fluids collected in the seminal sac are known as “seminal fluid”.
+To take an example, if a dog comes in contact with a human, the mental waves of the dog contact and clash with the waves of the human and thereby the dog’s mental waves get evolved and attain a greater wavelength.
 
-In the female body, this excess lymph is converted into ova. The unused ova together with other seminal wastages are discharged every month during the last 3 or 4 days in the monthly menstruation.
+A stage may be reached when the evolved mental wavelength of the dog may lose proper adjustment with its physical structure. 
 
-If the sperms of the male and the ova of the female get together, they constitute one physical structure. 
+This loss in parallelism will cause dissociation, and the dissociated mind will have to find a physical body with which it can find proper adjustment. We say that the animal has “died” and undergone a corporal change.
 
-When the physical structure commences formation, there is no question of extra seminal fluid or seminal wastage, and that is why in the stage of pregnancy there is no menstruation. 
+If a psychic clash with higher thought brings about the better wavelength and thereby becomes the cause of a more evolved physical body, contact and clash with meaner thought will lessen the wavelength of the mental waves. 
 
-All the seminal fluid is utilized in forming the body of the embryo.
+Here, as well, the loss of parallelism shall occur and the physical and psychic bodies shall dissociate from each other. 
 
-In the uterus, the basic physical structure is first formed. This structure has potential energy and emanates a wavelength. 
+For example, if a person's mental wavelength cannot adjust properly with the human body, his psychic body will have to associate with another <!-- properly adjustable --> physical structure such as <!-- , which may be of -->:
+- an inferior animal
+- a plant, or
+- crude matter. 
 
-**It receives the potentiality from the momentum of the spermatozoa.** 
+The epic Rámáyańa tells of Ahalyá, the wife of Gaotama Muni, being transformed into stone for some sin done by her. It illustrates the process of negative pratisaiṋcara. 
 
-Spermatozoa get their motion from the vital potentiality of the male body. That is why the living being is said to reside first in the seminal fluid of the male and then in the mother’s womb. After which, the bosom of Mother Earth receives it.
+The imbibing of waves of higher wavelengths can rarefy the psychic body of a lower animal or plant, so that it can associate with the human physical structure. <!-- , and vice versa, if the wavelength is made cruder by inculcating meaner thoughts. -->
 
-The physical structure starts from spermatozoa which has a positive motion and, therefore, a wavelength. This means the formed physical structure has a wavelength. 
+- Life arises from the association by proper adjustment and parallelism between the psychic and physical bodies.
+- Death is the dissociation under adverse conditions. 
 
-The dissociated mind also has a wavelength (in a potential form) and a momentum which has to be expressed.
+Such association can also take place if the waves of the physical structure get cruder due to old age or any other physical deficiency. Here the physician may come to help and by some means or other attribute to the physical body the requisite wavelength.
 
-The dissociated mind needs physical parallelism for proper expression. Therefore, the Cosmic mutative force causes the dissociated mind from eternal space to enter the adjustable physical structure, assuming a form in the mother’s womb.
+Through science the span of life can be made longer by properly adjusting the waves of the physical bodies.
 
-<!-- This is how life comes into physical creation. -->
+But if a change in the mental body be made by changing the brain, its personality itself will also get changed. Such a change will mean the transformation of the person himself, and thus not Mr. X but Mr. Y shall regain life.
 
-2 June 1959, Jamalpur
-
-
-## Footnotes
-
-[^1]: The three stages of shukra are the same in both the male and the female, except that in the female, as the author will explain in a following paragraph, excess lymph is converted into ova rather than into spermatozoa. 
-
-In other words, the first stage of shukra is lymph, in both males and females; the second stage is spermatozoa in males, and ova in females; and the third stage is seminal fluid, in both males and females. 
-
-The term “seminal fluid” as applied to males comprises certain fluids and the spermatozoa suspended in them. “Seminal fluid” as applied to females clearly refers at least in part to substances in the female reproductive system which contribute to the nurture of the ovum. 
-
-It is generally considered that the author conceptualized the actions of lymph in the body in terms not only of the lymph system as narrowly defined, but of a system that would embrace many of lymph’s ramifying effects as well. 

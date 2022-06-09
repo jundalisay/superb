@@ -8,9 +8,8 @@ linkftext= "Chapter 2"
 linkb= "/research/socrates/simple-republic/book-6/chapter-3/"
 linkbtext= "Chapter 3"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
 +++
+
 
 ## Unenlightened Humans
 
@@ -20,12 +19,13 @@ Let me show how far our nature is enlightened or unenlightened.
 Imagine humans living in a underground cave. Its mouth is open towards the light which reaches all along the cave. 
 
 They:
-<ul>
-  <li>have lived inside the cave from childhood</li>
-  <li>have their legs and necks chained so that they cannot move</li>
-  <li>can only see in front of them</li>
-</ul>
+- have lived inside the cave from childhood
+- have their legs and necks chained so that they cannot move
+- can only see in front of them
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 The chains prevent them from moving their heads. Above and behind them a fire is blazing at a distance. Between the fire and the prisoners there is a raised way with a low wall built along it. 
 
 The wall is like the one which marionette players have in front of them, over which they show the puppets. Men pass along the wall carrying vessels, statues, and figures of animals made of wood and stone, which appear over the wall. They see only their own shadows and those of the objects being carried.
@@ -49,14 +49,15 @@ A released prisoner will initially suffer sharp pains from standing up and turni
 His instructor will point to the objects as they pass and require him to name them. He will be perplexed. He will imagine that the shadows which he saw before are truer than the objects he now sees. He will have a pain in his eyes from looking at the light.
 
 He will:
-<ul>
-  <li>turn away to take refuge in the objects of vision which he can see</li>
-  <li>conceive those objects to be clearer than the things now being shown to him</li>
-  <li>be pained and his eyes will be dazzled if he is dragged up and put under the sun</li>
-  <li>not be able to see what are now called realities</li>
-  <li>need to be accustomed to the sight of the upper world.</li>
-</ul>  
+- turn away to take refuge in the objects of vision which he can see
+- conceive those objects to be clearer than the things now being shown to him
+- be pained and his eyes will be dazzled if he is dragged up and put under the sun
+- not be able to see what are now called realities
+- need to be accustomed to the sight of the upper world.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 First, he will see the shadows best.
 
 Next, he will see the reflections of men and other objects in the water, and then the objects themselves. 
@@ -67,12 +68,12 @@ Then he will gaze on the light of the moon and the stars. He will see the sky an
 
 {{< l ava="Socrates" >}}
 Finally, he will be able to see the sun, and not mere reflections of him in the water. But he will see himself in his own proper place, and not in another. He will then argue that his real self:
-<ul>
-  <li>gives the season and the years,</li>
-  <li>is the guardian of all that is in the visible world,</li>
-  <li>is the cause of all things which he and his fellows used to see.</li>
-</ul>
+- gives the season and the years,
+- is the guardian of all that is in the visible world,
+- is the cause of all things which he and his fellows used to see.
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 Clearly, he would first see the sun and then reason about it. When he remembered his old habitation and the wisdom of the den and his fellow-prisoners, he would be happy at the change and pity them.
 
 They had the habit of conferring honours to those who were quickest to observe the passing shadows and remark which of them went before and which ones followed after, and which were together. But he would no longer care for such honours. He would say with Homer:
@@ -85,39 +86,38 @@ Yes, I think that he would rather suffer anything than entertain these false not
 {{< /r >}}
 
 {{< l ava="Socrates" >}}
-Imagine him coming back down into the cave. His eyes will now be full of darkness. If there were a contest and he had to compete in measuring the shadows with the prisoners, then he would surely lose. The others would say of him:
-<ul>
-  <li>that up he went and down he came without his eyes, and</li>
-  <li>that it was better not even to think of ascending.</li>
-</ul>
+Imagine him coming back down into the cave. His eyes will now be full of darkness. If there were a contest and he had to compete in measuring the shadows with the prisoners, then he would surely lose. 
+
+The others would say of him:
+- that up he went and down he came without his eyes, and
+- that it was better not even to think of ascending.
 
 If anyone tried to free another and lead him up to the light, they would kill that offender. You can now add this allegory to the previous argument.
+{{< /l >}}
 
-The prison-house is the world of sight. The light of the fire is the sun.
-The journey upwards is the ascent of the soul into the intellectual world.
+{{< l a="Socrates" >}}
+The prison-house is the world of sight. The light of the fire is the sun. The journey upwards is the ascent of the soul into the intellectual world.
 
-I think that in the world of knowledge, the idea of good appears last of all, and is seen only with effort.
+In the world of knowledge, the idea of good appears last of all, and is seen only with effort.
 
 When seen, it is also inferred to be:
-<ul>
-  <li>the universal author of all things beautiful and right,</li>
-  <li>the lord of light in this visible world, and</li>
-  <li>the immediate source of reason and truth in the intellectual world.</li>
-</ul>
+- the universal author of all things beautiful and right,
+- the lord of light in this visible world, and
+- the immediate source of reason and truth in the intellectual world.
 {{< /l >}}
 
 {{< l ava="Socrates" >}}
 This power allows him to act rationally and fixes his eyes. This is why those who attain to this beatific vision are unwilling to descend into human affairs. Their souls are ever hastening into the upper world where they desire to dwell.
 
 It is not surprising to see one who passes from divine contemplations to the evil state of man, misbehaving if he is compelled to fight in courts of law.
-The courts have the shadows of justice.
-He is not used to such darkness yet.
-He is trying to understand the conceptions of those who have never yet seen absolute justice.
 
-The bewilderments of the eyes are from two causes:
-<ol>
-  <li>from going into darkness from the light, or</li>
-  <li>from going into the light, which is true of the mind's eye, quite as much as of the bodily eye.</li>
+The courts have the shadows of justice.
+- He is not used to such darkness yet.
+- He is trying to understand the conceptions of those who have never yet seen absolute justice.
+
+The bewilderments of the eyes are from 2 causes:
+1. from going into darkness from the light, or
+2. from going into the light, which is true of the mind's eye, quite as much as of the bodily eye.
 </ol>
 {{< /l >}}
 
@@ -127,10 +127,8 @@ We should remember this when we sees a person whose vision is perplexed and weak
 
 <!-- Or, if he has a mind to laugh at the soul which comes from below into the light, there will be more reason in this than in the laugh which greets him who returns from above out of the light into the den. -->
 Certain professors of education are wrong when they say that they can make the blind see just as they can put knowledge into the soul which has no knowledge. Instead, we say that:
-<ul>
-  <li>the power and capacity of learning exists in the soul already, and</li>
-  <li>the eye was unable to turn from darkness to light without the whole body.</li>
-</ul>
+- the power and capacity of learning exists in the soul already, and
+- the eye was unable to turn from darkness to light without the whole body.
 {{< /l >}}
 
 
@@ -151,10 +149,13 @@ They had been severed from those sensual pleasures, such as eating and drinking,
 
 The uneducated have no single aim of duty to rule their actions, private as well as public.
 The educated will only act on compulsion, fancying that they are already blessed.
+
 Then, the founders of the State must compel the best minds to attain that greatest of knowledge.
 They must continue to ascend until they arrive at the good.
+
 But when they have ascended and seen enough we must not allow them to do as they do now.
 I mean that they remain in the upper world.
+
 But this must not be allowed. They must be made to descend again among the prisoners in the den, and partake of their labours and honours.
 {{< /l >}}
 
@@ -180,16 +181,16 @@ You are better able to share in the double duty.
 Each of you, when his turn comes, must go down to the general underground cave and get the habit of seeing in the dark.
 When you have acquired the habit, you will see 10,000 times better than the inhabitants of the cave.
 You will know what the several images are and what they represent, because you have seen the beautiful, just, and good in their truth.
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 Thus our State will be a reality and not a dream only.
 
 It will be administered in a spirit unlike that of other States wherein men fight with each another for shadows only. They are distracted in the struggle for power, which in their eyes is a great good.
 
 The truth is that:
-<ul>
-  <li>the State in which the rulers are most reluctant to govern is always the best and most quietly governed</li>
-  <li>The State in which they are most eager is the worst governed.</li>
-</ul>
+- the State in which the rulers are most reluctant to govern is always the best and most quietly governed
+- The State in which they are most eager is the worst governed.
 
 When our students hear this, will they refuse to take their turn at the toils of State, when they are allowed to spend most of their time with one another in the heavenly light?
 {{< /l >}}
@@ -206,14 +207,16 @@ Yes, you will have a well-ordered State if you contrive for your future rulers a
 Only in such a State will they rule who are truly rich, not in silver and gold, but in virtue and wisdom, which are the true blessings of life.
 
 Whereas, if they go for power, hungry for their own private advantage, there can never be order.
-<ul>
-  <li>They will be fighting for office. The civil and domestic broils will ruin the rulers themselves and the whole State.</li>
-  <li>Only true philosophy looks down on the life of political ambition.</li>
-</ul>
+- They will be fighting for office. The civil and domestic broils will ruin the rulers themselves and the whole State.
+- Only true philosophy looks down on the life of political ambition.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Those who govern should not be lovers of the task. 
 
 If they are, there will be rival lovers, and they will fight. Who then should we compel to be guardians? 
 
 They will be the men who are wisest about affairs of State and by whom the State is best administered.
 {{< /l >}}
+

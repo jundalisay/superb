@@ -66,7 +66,7 @@ As a result of the clash, portions of the physical body get powdered down, trans
 
 This mind arises as a chemical reaction of physical clash within the unit structure. 
 - This is because its physical body itself is a creation of the Cosmic Mindstuff. 
-- This Cosmic Mindstuff keeps the subtler Great-layer and the Ego-layer as its dormant aspects. 
+- This Cosmic Mindstuff keeps the subtler Identity-layer and the Ego-layer as its dormant aspects. 
 
 The first stages of the creation of mind is thus from natural (external-static-pressure) physical chemical reactions where vital energy is present. 
 - These first minds are made up of mere mindstuff, without ego (Ego-layer)

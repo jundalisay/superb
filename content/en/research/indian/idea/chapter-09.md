@@ -1,16 +1,17 @@
 ---
-title: "Psycho-Spiritual Parallelism"
+title: "Ideology and Personality"
 heading: "Chapter 4 of Idea and Ideology Simplified"
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-03"
-linkbtext: "Chapter 3"
-linkf: "/research/indian/idea/chapter-05"
-linkftext: "Chapter 5"
+linkb: "/research/indian/idea/chapter-08b"
+linkbtext: "Chapter 8b"
+linkf: "/research/indian/idea/chapter-10"
+linkftext: "Chapter 10"
 icon: "/icons/sarkar.jpg"
 ---
 
+<!-- Psycho-Spiritual Parallelism -->
 
 The Cosmic Consciousness acts as the witnessing entity with the help of His Citishakti. 
 

@@ -78,7 +78,7 @@ The mutative force overcomes the static force. It causes a stir of expression on
 - sentient in tendency
 
 
-## The Cosmic Identity as Great-Layer from Sentient Prakrti
+## The Cosmic Identity as Identity-Layer from Sentient Prakrti
 
 Thus, Prakrti expresses Herself as the resultant force that starts saiṋcara*. This Prakrti is sentient, though rudimentally static. It creates the Pure “I” feeling in Puruśa. 
 
@@ -88,7 +88,7 @@ Thus, Prakrti expresses Herself as the resultant force that starts saiṋcara*. 
 
 It is a pure “I” feeling because sentient Prakrti cannot go any further. 
 
-This stage is known as Great-Layer or Mahattattva which is nothing but the Cosmic “I”. This is the first bondage of Puruśa by His innate sentient Prakrti.
+This stage is known as Identity-Layer or Mahattattva which is nothing but the Cosmic “I”. This is the first bondage of Puruśa by His innate sentient Prakrti.
 
 ```elixir
 Cosmic Identity [The One] = Pure Consciousness + Sentient Prakrti
@@ -96,7 +96,7 @@ Cosmic Identity [The One] = Pure Consciousness + Sentient Prakrti
 
 **This bondage is located in a microscopic fraction of His universal body**. But it is not felt as a bondage because of its looseness. Hence it is merely theoretical. 
 
-The Puruśa in the Great-Layer <!-- Mahattattva --> undergoes only the slightest metamorphosis. 
+The Puruśa in the Identity-Layer <!-- Mahattattva --> undergoes only the slightest metamorphosis. 
 
 
 ## Active 'I' as Ego-Layer from the Mutative Prakrti
@@ -109,7 +109,7 @@ This mutation causes the feeling of second subjectivity. This transforms the Cos
 Cosmic Doer [The Active One] = Cosmic Identity + Mutative Prakrti
 ```
 
-This Cosmic Active “I” is known as the Ego-Layer or Ahaḿtattva. Here the bondage of Prakrti on Puruśa is more prominent than that in the Great-Layer<!--  Mahattattva -->. But it still is subjective (second subjective) in character because Puruśa still gets no objectivity. 
+This Cosmic Active “I” is known as the Ego-Layer or Ahaḿtattva. Here the bondage of Prakrti on Puruśa is more prominent than that in the Identity-Layer<!--  Mahattattva -->. But it still is subjective (second subjective) in character because Puruśa still gets no objectivity. 
 
 This bondage of Mahattattva is therefore theoretical.
 
@@ -120,7 +120,7 @@ The metamorphosis of Puruśa in the Ego-Layer <!-- Ahaḿtattva --> is still hi
 
 ## Objects as Mind-Stuff
 
-As the static principle starts its domination, it forces the Ego-Layer or Active Identity <!-- Ahaḿtattva --> to separate from the Great-Layer or Cosmic Identity to become the object of the Cosmic Identity. This allows the Ego-Layer to have full activity through the cruder mind-stuff (citta). <!-- gets objectivated. --> 
+As the static principle starts its domination, it forces the Ego-Layer or Active Identity <!-- Ahaḿtattva --> to separate from the Identity-Layer or Cosmic Identity to become the object of the Cosmic Identity. This allows the Ego-Layer to have full activity through the cruder mind-stuff (citta). <!-- gets objectivated. --> 
 
 <!-- This cruder stage in the process of saiṋcara is known as .  -->
 
@@ -144,17 +144,17 @@ Thus, through the Cosmic mind-stuff created from the Cosmic Identity:
 Here, Puruśa feels the bondage as an objective reality or Cosmic mind-stuff. <!-- The Cosmic  mind-stuff is this Active Puruśabháva coming under the influence of static Prakrti.  -->
 <!-- This citta is an objective reality. -->
 - Its *immediate* mental subjectivity is the Ego-Layer <!-- Ahaḿtattva --> 
-- Its *supreme* mental subjectivity is the Great-Layer<!--  Mahattattva -->. 
+- Its *supreme* mental subjectivity is the Identity-Layer<!--  Mahattattva -->. 
 
-"Mind" is the collective name of the Great-Layer, Ego-Layer, and mind-stuff<!-- Mahattattva, Ahaḿtattva and citta -->. Its subjective counterpart or cause is the Cosmic Consciousness<!-- Puruśa Cosmic Puruśa -->.
+"Mind" is the collective name of the Identity-Layer, Ego-Layer, and mind-stuff<!-- Mahattattva, Ahaḿtattva and citta -->. Its subjective counterpart or cause is the Cosmic Consciousness<!-- Puruśa Cosmic Puruśa -->.
 
 ```elixir
 Mind = Cosmic Identity + Active Identity + Mindstuff
 ```
 
 The process of saiṋcara still continues under the increasing domination of static Prakrti.
-- The Macrocosmic Nucleus <!-- Puruśottama --> transforms into the Great-Layer <!-- Mahattattva -->
-- The Great-Layer <!-- Mahattattva --> transforms into the Ego-Layer <!-- Ahaḿtattva -->
+- The Macrocosmic Nucleus <!-- Puruśottama --> transforms into the Identity-Layer <!-- Mahattattva -->
+- The Identity-Layer <!-- Mahattattva --> transforms into the Ego-Layer <!-- Ahaḿtattva -->
 - The Ego-Layer <!-- Ahaḿtattva --> transforms into mind-stuff <!-- citta -->
 
 <!-- owing to the influence of one or the other aspect of Prakrti.  -->
