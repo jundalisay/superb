@@ -23,7 +23,7 @@ aliases = [
 Space-time depends totally on perception. Rather than say that it is infinite, it is more correct to call it as totally abitrary. A particle, when imposed on (since its 'spin' reflects reality), can therefore arbitrarily change its location and 'defy' gravity and locality.
  -->
 
-In Superphysics, physical existence is made when the aether arbitrarily creates <b>q</b>uanta <b>o</b>f <b>s</b>pace<b>t</b>ime or [qost](/material/principles/qost)*, which are 1-dimensional points, within itself. Each point is a discrete and unique identity filled with an arbitrary amount of qualities as potentiality. 
+In Superphysics, physical existence is made when the aether arbitrarily creates **q**uanta **o**f **s**pace**t**ime or [qost](/material/principles/qost)*, which are 1-dimensional points, within itself. Each point is a discrete and unique identity filled with an arbitrary amount of qualities as potentiality. 
 
 
 > *pronounced as 'kost'. This is supposed to be the graviton which will never be found, because it can only be felt since it lies in the spatial layer which is above the visible eletromagnetic layer. Nor can it be detected directly by instruments that use electromagnetism. It can only be detected by spacetime itself (as gravitational waves or vibrations which lie in the same spatial layer) or by minds and feelings (which lie in the aethereal layer above it). 
@@ -63,10 +63,10 @@ According to Descartes, through an eternal revolution from rest to motion and mo
 Creation goes on to make the 5th, 6th, and 7th dimensions*. However, only the four dimensions are visible to our ordinary senses, since the 5th to 7th are metaphysical in essence. 
 
 
-> *The seven dimensions match the seven chakras in Hinduism and is essential in Ayurveda, which we classify under [Medical Superphysics](/medical). The sequence of creation is actually in reverse. From the Creator's perspective, it starts from the 7th then goes down to the 1st dimension. But from our perspective as 'createes', it's from the 1st to the 7th.  
+> *The 7 dimensions match the 7 chakras in Hinduism and is essential in Ayurveda, which we classify under [Medical Superphysics](/medical). The sequence of creation is actually in reverse. From the Creator's perspective, it starts from the 7th then goes down to the 1st dimension. But from our perspective as 'createes', it's from the 1st to the 7th.  
 
 
-Thus, spacetime is created by the mere existence or popping-in of the qosts from the aether*. This gives the <b>illusion</b> of movement by one qost against the other when in fact, none of them are moving and the only real movement is their appearance into reality or actuality coming from nonreality or probability. 
+Thus, spacetime is created by the mere existence or popping-in of the qosts from the aether*. This gives the **illusion** of movement by one qost against the other when in fact, none of them are moving. The only real movement is their appearance into reality or actuality coming from nonreality or probability. 
 
 
 

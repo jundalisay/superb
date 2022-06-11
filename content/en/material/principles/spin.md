@@ -57,12 +57,8 @@ We can therefore equate the idea of spin to the ability of particles to mirror t
 > *Wolfgang Pauli called it "Classically non-describable two valuedness"
 
 
-![Argon Spin](https://sorasystem.sirv.com/graphics/argonspin.jpg)
 
-{{< cap >}}
-Spin is the inherent ability of particles to mirror the forces or actions done on them. In double slit experiments, the detector influences the particle, causing changes in the interference pattern. In quantum eraser experiments, the particles react differently depending on whether they are erased or not. “Erased” photons merely change locations or quantum-teleport depending the outcome for the entangled partner, and do not undergo retrocausality.
-{{< /cap >}}
-
+{{< img src="https://sorasystem.sirv.com/graphics/argonspin.jpg" alt="Argon Spin" cap="Spin is the inherent ability of particles to mirror the forces or actions done on them. In double slit experiments, the detector influences the particle, causing changes in the interference pattern. In quantum eraser experiments, the particles react differently depending on whether they are erased or not. “Erased” photons merely change locations or quantum-teleport depending the outcome for the entangled partner, and do not undergo retrocausality." >}}
 
 
 ## So What's the Use of Binary Reflectivity of Particles?

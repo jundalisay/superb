@@ -35,22 +35,38 @@ When you utilize bio-fertilizer bacteria, that is, organic fertilizers, the func
 
 You should start practical research into positive microvita from the study of bio-fertilizers and their positive functions.
 
-Among the organic fertilizers from animals, the urine and dung from sheep are the best manures. Sheep to be raised in Ráŕh can be acquired from Bengal, Jammu, Himachal Pradesh and Uttar Pradesh. Varieties from Australia can also be used. Materials for bio-gas include cow, buffalo and sheep dung, the dung of mammals kept in protected compounds, and the organic material from beauty spots. Water hyacinths are also a good raw material for producing bio-gas, but cow dung is best. The dung of hybrid animals is not as good as that of pure or natural breeds because hybrids are more prone to disease.
-The best manure for green vegetables is rotten vegetables. Cow dung may also serve the same purpose. In the case of gourd, oil cakes and mustard cakes mixed equally with soil will increase production.
+The urine and dung from sheep are the best organic fertilizers from animals. 
+- Sheep to be raised in Ráŕh can be acquired from Bengal, Jammu, Himachal Pradesh and Uttar Pradesh. 
+- Varieties from Australia can also be used.
 
-Farmers need fertilizers for the maximum utilization of agricultural land. 
+Materials for bio-gas include:
+- cow dung
+- buffalo dung
+- sheep dung
+- the dung of mammals kept in protected compounds
+- the organic material from <!-- beauty spots --> around lakes. 
 
-Animal fertilizers are insufficient – farmers need chemical fertilizers. However, it is noticeable that whenever chemical fertilizers are used intensively, the land becomes infertile and useless after some time. 
+Water hyacinths are also a good raw material for producing bio-gas, but cow dung is best. 
+
+The dung of hybrid animals is not as good as that of pure or natural breeds because hybrids are more prone to disease.
+
+Rotten vegetables are the best manure for green vegetables. Cow dung cab also be used. 
+
+In the case of gourd, oil cakes and mustard cakes mixed equally with soil will increase production.
+
+<!-- Farmers need fertilizers for the .  -->
+
+Animal fertilizers are insufficient for the maximum utilization of agricultural land. Farmers need chemical fertilizers. However, when chemical fertilizers are used intensively, the land becomes infertile and useless after some time.
 
 **This is because chemical fertilizers destroy the vital energy of the land so that it becomes lifeless, just like cement.** 
 
-Intensive research should be conducted on how to use chemical fertilizers in agriculture without producing any ill effects on the land. **In the system of individual farming it is not possible to escape the ill effects of chemical fertilizers.**
+Intensive research should be conducted on how to use chemical fertilizers without producing any ill effects on the land. **In the system of individual farming it is not possible to escape the ill effects of chemical fertilizers.**
 
-The solution to this problem lies in the cooperative system where there is great scope for  research and development to discover new ways to better utilize and prolong the vitality of the land. 
+The solution is in the cooperative system where there is great scope for research and development to discover new ways to better utilize and prolong the land's vitality. 
 
-The benefit of cooperatives is that they combine the wealth and resources of many individuals and harness them in a united way.
+Cooperatives combine the wealth and resources of many individuals and harness them in a united way.
 
-There was a time when farmers used to leave their land fallow for a year after several years of continuous cultivation. But this is not possible today. 
+In the past, farmers used to leave their land fallow for <!-- a year after --> several years<!--  of continuous cultivation -->. But this is not possible today. 
 
 It is now necessary to adopt a system in which either chemical fertilizers that do not decrease soil fertility are used, or high yields are produced without using chemical fertilizers at all. I am optomistic that this will be achieved in the near future.
 
