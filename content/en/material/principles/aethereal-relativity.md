@@ -31,9 +31,9 @@ Like the movement of a ball from point A to point B, the movement of ideas is gr
 > *There might be multiverses where a species invents a horse-carriage today and then is able to suddenly upgrade it into a Tesla Model 3 the next day.
 
 
-Other examples of movement in the aethereal layer are price movements in the universe of Economics, and the evolution of [society](/social/social-networkism) in the universe of Sociology. We apply aethereal relativity to predict price movements and social changes just as Einstein used special (radiant) relativity to predict the movement of starlight during an eclipse.
+Other examples of movement in the aethereal layer are price movements in the universe of Economics, and the evolution of [society](/social/supersociology/principles/social-networkism) in the universe of Sociology. We apply aethereal relativity to predict price movements and social changes just as Einstein used special (radiant) relativity to predict the movement of starlight during an eclipse.
 
-Aethereal relativity was instrumental in letting us predict [the current Covid crisis](/social/precrisis-years). The next step is to apply it for other predictions such as:
+Aethereal relativity was instrumental in letting us predict [the current Covid crisis](/social/supersociology/precrisis-years). The next step is to apply it for other predictions such as:
 - The start of the wars between EU-AUKUS vs Russia-China
 - The end of Covid
 - Specific country outcomes

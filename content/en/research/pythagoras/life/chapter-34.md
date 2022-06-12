@@ -1,18 +1,21 @@
-+++
-title= "Pythagoras' Political Contributions"
-heading = "Chapter 34"
-date= 2015-09-05
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-33"
-linkbtext= "Chapter 33"
-linkf= "/research/pythagoras/life/chapter-35"
-linkftext= "chapter-35"
-+++
+---
+title: "Pythagoras' Political Contributions"
+heading: "Chapter 34"
+author: Iamblichus
+date: 2015-09-05
+image: "/covers/lifepyi.png"
+description: "Iamblichus’ Life of Pythagoras"
+linkb: /research/pythagoras/life/chapter-33
+linkbtext: "Chapter 33"
+linkf: /research/pythagoras/life/chapter-35
+linkftext: "Chapter 35"
+icon: /icons/py.png
+aliases:
+  /research/pythagoras/iamblichus/chapter-34
+---
 
 
-Each of the Greeks who joined himself to the community of the Pythagoreans, was ordered to use his native language because they did not approve of the use of a foreign tongue. 
+The Greeks who joined the community of the Pythagoreans were ordered to use their native language because the Pythagoreans did not approve of foreign languages. 
 
 Foreigners also united themselves to the Pythagoric sect such as:
 - the Messenians
@@ -20,13 +23,20 @@ Foreigners also united themselves to the Pythagoric sect such as:
 - Picentini
 - the Romans
 
-Metrodorus was the son of Thyrsus who was the father of Epicharmus. He transferred most of his doctrine to medicine. He says that Epicharmus, and prior to him Pythagoras, conceived that the best dialect, as well as the best harmony of music, is the Doric; that the Ionic and the Æolic participate of the chromatic harmony; but that the Attic dialect is replete with this in a still greater degree. 
+Metrodorus was the son of Thyrsus who was the father of Epicharmus. He transferred most of his doctrine to medicine. 
+
+He says that Epicharmus, and prior to him Pythagoras, conceived that:
+- the best dialect, as well as the best harmony of music, is the Doric
+- the Ionic and the Æolic have chromatic harmony
+- the Attic dialect is replete with this in a still greater degree. 
 
 They also thought that the Doric dialect, which consists of vocal letters, is enharmonic.
 
 Fables likewise bear testimony to the antiquity of this dialect. For in these it is said that Nereus married Doris the daughter of Ocean; by whom he had 50 daughters, one of which was the mother of Achilles. 
 
-Metrodorus also says, that according to some, Hellen was the offspring of Deucalion, who was the son of Prometheus and Pyrrha the daughter of Epimetheus; and that from him came Dorus, and Æolus. He farther observes, that he learnt from the sacred rites of the Babylonians, that Hellen was the offspring of Jupiter, and that the sons of Hellen were Dorus, Xuthus, and Æolus; with which narrations Herodotus also accords. 
+Metrodorus also says that Hellen was the offspring of Deucalion, who was the son of Prometheus and Pyrrha the daughter of Epimetheus. From him came Dorus, and Æolus. 
+
+He farther observes, that he learnt from the sacred rites of the Babylonians, that Hellen was the offspring of Jupiter, and that the sons of Hellen were Dorus, Xuthus, and Æolus; with which narrations Herodotus also accords. 
 
 <!-- It is difficult, however, for those in more recent times to know accurately, in particulars so ancient, which of these narrations is to be preferred. But it may be collected from each of these histories, that  -->
 
@@ -37,18 +47,36 @@ Metrodorus also says, that according to some, Hellen was the offspring of Deucal
 
 Orpheus also, who is the most ancient of the poets, used the Doric dialect.
 
-Of medicine, however, they especially embraced the diætetic species, and in the exercise of this were most accurate. And in the first place, indeed, they endeavoured to learn the indications of symmetry, of labor, food, and repose. In the next place, with respect to the preparation of food, they were nearly the first who attempted to employ themselves in it, and to define the mode in which it should be performed. The Pythagoreans likewise employed cataplasms, more frequently than their predecessors; but they in a less degree approved of medicated ointments. 
+Of medicine, however, they especially embraced the diætetic species, and in the exercise of this were most accurate. 
 
-These, however, they principally used in the cure of ulcerations. But incisions and burnings they admitted the least of all things. Some diseases also they cured by incantations. But they are said to have objected to those who expose disciplines to sale; who open their souls like the gates of an inn to every man that approaches to them; and who, if they do not thus find buyers, diffuse themselves through cities, and, in short, hire gymnasia and require a reward from young men for those things which are without price. Pythagoras, however, concealed the meaning of much that was said by him, in order that those who were genuinely instructed might clearly be partakers of it; but that others, as Homer says of Tantalus, might be pained in the midst of what they heard, in consequence of receiving no delight from thence.
+They tried to learn the indications of symmetry, labor, food, and sleep. 
 
-The Pythagoreans said, respecting those who teach for the sake of reward, that they show themselves to be worse than statuaries, or those artists who perform their work sitting. 
+In the next place, with respect to the preparation of food, they were nearly the first who attempted to employ themselves in it, and to define the mode in which it should be performed. 
 
-For these, when some one orders them to make a statue of Hermes, search for wood adapted to the reception of the proper form; but those pretend that they can readily produce the works of virtue from every nature.[49] The Pythagoreans likewise said, that it is more necessary to pay attention to philosophy, than to parents and agriculture; for it is owing to the latter, that we live; but philosophers and preceptors are the causes of our living well, and becoming wise, in consequence of having discovered the right mode of discipline and instruction. 
+The Pythagoreans likewise employed cataplasms, more frequently than their predecessors. But they approved of medicated ointments much less, principally used to cure ulcerations. 
 
-Nor did they think fit either to speak or write in such a way, that their conceptions might be obvious to any casual persons; but Pythagoras is said to have taught this in the first place to those that came to him, that, being purified from all incontinence, they should preserve in silence the doctrines they had heard. 
+They admitted to incisions and burnings the least. Some diseases they cured by incantations. But they objected to those who sold their disciplines. <!--  expose disciplines to sale;  -->
 
-He who first divulged the theory of commensurable and incommensurable quantities, to those who were unworthy to receive it, was so hated by the Pythagoreans that they not only expelled him from their common association, and from living with them, but also constructed a tomb for him, as one who had migrated from the human and passed into a another life. Others also say, that the Divine Power was indignant with those who divulged the dogmas of Pythagoras= for that he perished in the sea, as an impious person, who rendered manifest the composition of the icostagonus; viz. who delivered the method of inscribing in a sphere the dodecaedron, which is one of what are called the five solid figures. 
+who open their souls like the gates of an inn to every man that approaches to them; and who, if they do not thus find buyers, diffuse themselves through cities, and, in short, hire gymnasia and require a reward from young men for those things which are without price. 
 
-But according to others, this happened to him who unfolded the doctrine of irrational and incommensurable quantities.[50] Moreover, all the Pythagoric discipline was symbolic, and resembled enigmas and riddles, consisting of apothegms, in consequence of imitating antiquity in its character; just as the truly divine and Pythian oracles appear to be in a certain respect difficult to be understood and explained, to those who carelessly receive the answers which they give. 
+Pythagoras concealed the meaning of much that was said by him so that those who were genuinely instructed might clearly be partakers of it. The others, as Homer says of Tantalus, would be pained of what they heard, being unable to understand it. 
 
-Such therefore, and so many are the indications respecting Pythagoras and the Pythagoreans, which may be collected from what is disseminated about them.
+The Pythagoreans said that those who taught for the sake of reward were worse than <!-- statuaries, or --> those artists who perform their work sitting.
+
+For these, when some one orders them to make a statue of Hermes, search for wood adapted to the reception of the proper form; but those pretend that they can readily produce the works of virtue from every nature.[49] 
+
+The Pythagoreans likewise said, that it is more necessary to pay attention to philosophy, than to parents and agriculture. 
+
+We owe our lives to the latter. But philosophers and preceptors lead us to a better life by <!-- . are the causes of our living well, and becoming wise, in consequence of having --> discovering the right mode of discipline and instruction.
+
+The Pythagoreans spoke and wrote in such a way that was hard for casual persons to understand. Pythagoras taught this to those who came to him. They were then purified from all incontinence so that they would  preserve in silence the doctrines they had heard. 
+
+The Pythagoreans hated the person who first divulged the theory of commensurable and incommensurable quantities to the unworthy. They expelled him from their common association and also constructed a tomb for him, as one who had migrated to another life. 
+
+Others say that the Divine Power hated those who divulged the dogmas of Pythagoras. The icostagonus was a person who delivered the method of drawing in a sphere the dodecaedron, which is one of the 5 solid figures.  Such a man was an impious person and so he perished in the sea.
+
+But according to others, this happened to the person who unfolded the doctrine of irrational and incommensurable quantities.[50] 
+
+The Pythagoric discipline was symbolic. It resembled enigmas and riddles, consisting of apothegms, in consequence of imitating antiquity in its character. This is similar to the truly divine and Pythian oracles being difficult to understand. 
+
+<!-- Such therefore, and so many are the indications respecting Pythagoras and the Pythagoreans, which may be collected from what is disseminated about them. -->

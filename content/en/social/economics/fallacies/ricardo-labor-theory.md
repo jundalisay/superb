@@ -12,6 +12,7 @@ author: Juan
 icon: /icons/pantry.png
 aliases:
   /articles/taonomics/ricardo-labor-theory-of-value/
+  /social/economics/fallacies/ricardo-labor-theory-of-value/  
 ---
 
 

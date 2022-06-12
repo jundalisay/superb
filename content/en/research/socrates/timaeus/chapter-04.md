@@ -1,14 +1,17 @@
-+++
-title= "Time and Space"
+---
+title: "Time and Space"
+heading: "Chapter 4"
 # date= 2015-09-09
-date= 2022-01-28
-image= "/covers/timaeus.jpg"
-description= "The Simplified Timaeus by Plato"
-linkb= "/research/socrates/timaeus/"
-linkbtext= "Index"
-linkf= "/research/socrates/timaeus/"
-linkftext= "Index"
-+++
+date: 2022-01-28
+image: "/covers/timaeus.jpg"
+description: "The Simplified Timaeus by Plato"
+linkb: "/research/socrates/timaeus/chapter-03b"
+linkbtext: "Chapter 3b"
+linkf: "/research/socrates/timaeus/chapter-04b"
+linkftext: "Chapter 4b"
+---
+
+
 
 The Creator rejoiced when He saw the creature which he had made moving and living, the created image of the eternal gods. He decided to make the copy still more like the original; and as this was eternal, he sought to make the universe eternal, so far as might be. 
 

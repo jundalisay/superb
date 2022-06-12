@@ -14,6 +14,8 @@ linkftext: "equilibrium-fallacy-2"
 author: Juan
 icon: /icons/pantry.png
 aliases:
+  /social/economics/market-equilibrium-fallacy
+  /pantrynomics/market-equilibrium-fallacy
   /taonomics/market-equilibrium-fallacy
   /articles/taonomics/the-market-equilibrium-fallacy
   /fallacies/economics/market-equilibrium-fallacy
@@ -155,7 +157,7 @@ When the price of any commodity is neither more nor less than what is sufficient
 
 ![Real Downward Supply Curve](https://socioecons.files.wordpress.com/2015/08/image002.jpg)
 
-Unlike the producer's or mercantile supply curves which slope upwards, Smith's [pantrynomic](/pantrynomics/invisible-hand-of-tao) supply curve slopes downward to represent less effort and energy expense while production increases, in a phenomenon called **economies of scale or division of labour**. 
+Unlike the producer's or mercantile supply curves which slope upwards, Smith's [pantrynomic](/social/economics/principles/second-law) supply curve slopes downward to represent less effort and energy expense while production increases, in a phenomenon called **economies of scale or division of labour**. 
 
 
 
@@ -194,4 +196,3 @@ Update July 2021: This is consistent with history:
 - The mergers and acquisitions in the 1990s
 - The Financial Crisis in 2007   
 - The War against the Amazon rainforest in 2019 resulting in Covid   
-

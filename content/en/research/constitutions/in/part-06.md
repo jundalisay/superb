@@ -284,9 +284,11 @@ period of six months after the Proclamation has ceased to operate.
 (2) The Legislative Council of a State shall not be subject to dissolution, but as nearly as possible one-
 third of the members thereof shall retire as soon as may be on the expiration of every second year in
 accordance with the provisions made in that behalf by Parliament by law.
+
 173. Qualification for membership of the State Legislature.—A person shall not be qualified to be
-chosen to fill a seat in the Legislature of a State unless he—
-2
+chosen to fill a seat in the Legislature of a State unless he
+
+
 [(a) is a citizen of India, and makes and subscribes before some person authorised in that behalf
 by the Election Commission an oath or affirmation according to the form set out for the purpose in the
 Third Schedule;]
@@ -294,14 +296,16 @@ Third Schedule;]
 in the case of a seat in the Legislative Council, not less than thirty years of age; and
 (c) possesses such other qualifications as may be prescribed in that behalf by or under any law
 made by Parliament.
-3
+
 [174. Sessions of the State Legislature, prorogation and dissolution.—(1) The Governor shall from
 time to time summon the House or each House of the Legislature of the State to meet at such time and place
 as he thinks fit, but six months shall not intervene between its last sitting in one session and the date
 appointed for its first sitting in the next session.
+
 (2) The Governor may from time to time—
 (a) prorogue the House or either House;
 (b) dissolve the Legislative Assembly.]
+
 175. Right of Governor to address and send messages to the House or Houses.—(1) The Governor
 may address the Legislative Assembly or, in the case of a State having a Legislative Council, either House
 of the Legislature of the State, or both Houses assembled together, and may for that purpose require the
@@ -310,8 +314,10 @@ attendance of members.
 with respect to a Bill then pending in the Legislature or otherwise, and a House to which any message is so
 sent shall with all convenient dispatch consider any matter required by the message to be taken into
 consideration.
+
 176. Special address by the Governor.—(1) At the commencement of 4 [the first session after each
 general election to the Legislative Assembly and at the commencement of the first session of each year],
+
 1. Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 24 for the words “six years” (w.e.f. 6-9-1979). The words
 “six years” were subs. for the original words “five years” by the Constitution (Forty-second Amendment) Act, 1976, s. 30 (w.e.f.
 3-1-1977).

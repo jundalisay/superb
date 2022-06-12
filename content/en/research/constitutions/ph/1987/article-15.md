@@ -34,15 +34,23 @@ Section 4. The family has the duty to care for its elderly members but the State
 
 Section 1. The flag of the Philippines shall be red, white, and blue, with a sun and three stars, as consecrated and honored by the people and recognized by law.
 
-Section 2. The Congress may, by law, adopt a new name for the country, a national anthem, or a national seal, which shall all be truly reflective and symbolic of the ideals, history, and traditions of the people. Such law shall take effect only upon its ratification by the people in a national referendum.
+Section 2. The Congress may, by law, adopt a new:
+- name for the country
+- national anthem
+- national seal
+
+These must be ratified by a national referendum.<!-- , which shall all be truly reflective and symbolic of the ideals, history, and traditions of the people. Such law shall take effect only upon its ratification by the people in --> .
+
 
 Section 3. The State may not be sued without its consent.
 
 Section 4. The Armed Forces of the Philippines shall be composed of a citizen armed force which shall undergo military training and serve, as may be provided by law. It shall keep a regular force necessary for the security of the State.
 
-Section 5. (1) All members of the armed forces shall take an oath or affirmation to uphold and defend this Constitution.
+Section 5.
 
-(2) The State shall strengthen the patriotic spirit and nationalist consciousness of the military, and respect for people’s rights in the performance of their duty.
+1. All members of the armed forces shall take an oath or affirmation to uphold and defend this Constitution.
+
+2. The State shall strengthen the patriotic spirit and nationalist consciousness of the military, and respect for people’s rights in the performance of their duty.
 
 (3) Professionalism in the armed forces and adequate remuneration and benefits of its members shall be a prime concern of the State. The armed forces shall be insulated from partisan politics.
 

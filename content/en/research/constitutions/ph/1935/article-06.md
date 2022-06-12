@@ -40,9 +40,9 @@ The Senators must be:
 
 Section 5
 
-The House of Representatives shall be composed of not more than one hundred and twenty Members who shall be apportioned among the several provinces as nearly as may be accorded to the number of their respective inhabitants, but each province shall have at least one Member. 
+The House of Representatives shall have not more than 120 Members who shall be apportioned among the several provinces as nearly as may be accorded to the number of their respective inhabitants. Each province shall have at least 1 Member. 
 
-The Congress shall by law make an apportionment within three years after the return of every enumeration, and not otherwise. Until such apportionment shall have been made, the House of Representatives shall have the same number of Members as that fixed by law for the National Assembly, who shall be elected by the qualified electors from the present Assembly districts. Each representative district shall comprise, as far as practicable, contiguous and compact territory.
+The Congress shall by law make an apportionment within 3 years after the return of every enumeration, and not otherwise. Until such apportionment shall have been made, the House of Representatives shall have the same number of Members as that fixed by law for the National Assembly, who shall be elected by the qualified electors from the present Assembly districts. Each representative district shall comprise, as far as practicable, contiguous and compact territory.
 
 Section 6. The term of office of the Members of the House of Representatives shall be four years and shall begin on the thirtieth day of December next following their election.
 

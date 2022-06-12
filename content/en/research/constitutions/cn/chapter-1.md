@@ -87,19 +87,23 @@ The state shall protect the lawful rights and interests of urban and rural colle
 
 Article 9 
 
-All mineral resources, waters, forests, mountains, grasslands, unreclaimed land, mudflats and other natural resources are owned by the state, that is, by the whole people,except for the forests, mountains, grasslands, unreclaimed land and mudflats that are owned by collectives as prescribed by law.
+All mineral resources, waters, forests, mountains, grasslands, unreclaimed land, mudflats and other natural resources are owned by the state, that is, by the whole people, except for the forests, mountains, grasslands, unreclaimed land and mudflats that are owned by collectives as prescribed by law.
 
 The state shall ensure the rational use of natural resources and protect rare animals and plants. It is prohibited for any organization or individual to seize or damage natural resources by any means.
 
 Article 10
 
-Land in cities is owned by the state.
+The state owns land in cities.
 
-Land in rural and suburban areas is owned by collectives except for that which belongs to the state as prescribed by law; housing sites and cropland and hillsides allotted for private use are also owned by collectives.
+Collectives own:
+- land in rural and suburban areas, except for state lands prescribed by law,
+- housing sites
+- cropland
+- hillsides allotted for private use
 
 The state may, in order to meet the demands of the public interest and in accordance with the provisions of law, expropriate or requisition land and furnish compensation.
 
-No organization or individualshallunlawfully transfer land through seizure, sale and purchase, or in any other form. Land-use rights may be transferred in accordance with the provisions of law.
+No organization or individual shall unlawfully transfer land through seizure, sale and purchase, or in any other form. Land-use rights may be transferred in accordance with the provisions of law.
 
 All organizations and individuals using land must use it in an appropriate manner.
 

@@ -1,5 +1,6 @@
 ---
 title: "The Nature of Motion"
+heading: "Timaeus by Plato Simplified"
 date: 2022-01-28
 image: "/covers/timaeus.jpg"
 description: "The Simplified Timaeus by Plato"
@@ -7,6 +8,8 @@ linkb: "/research/socrates/timaeus/chapter-05b"
 linkbtext: "Chapter 5b"
 linkf: "/research/socrates/timaeus/chapter-05d"
 linkftext: "Chapter 5d"
+author: Timaeus
+icon: /icons/soc.png
 ---
 
 
@@ -35,7 +38,7 @@ Thus, when the small parts are placed side by side with the larger, and the less
 These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements in all time.
 
 
-### Kinds of Fire
+## Kinds of Fire
 
 1. Flame
 2. Emanations of flame which do not burn but only give light to the eyes

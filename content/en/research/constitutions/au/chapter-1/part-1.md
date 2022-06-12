@@ -42,6 +42,7 @@ The provisions of this Constitution relating to the Governor-General extend and 
 The Governor-General may appoint such times for holding the sessions of the Parliament as he thinks fit, and may also from time to time, by Proclamation or otherwise, prorogue the Parliament, and may in like manner dissolve the House of Representatives.
 
 ## Summoning Parliament
+
 After any general election the Parliament shall be summoned to meet not later than thirty days after the day appointed for the return of the writs.
 
 First session

@@ -1,15 +1,17 @@
-+++
-title= "The Five Elements"
-# date= 2015-09-09
-date= 2022-01-26
-image= "/covers/timaeus.jpg"
-# image= "/photos/physics/galaxy.jpg"
-description= "Water, by condensation, becomes stone and earth. When melted and dispersed, passes into vapour and air"
-linkb= "/research/socrates/timaeus/chapter-05"
-linkbtext= "Chapter 5"
-linkf= "/research/socrates/timaeus/chapter-05c"
-linkftext= "chapter-05c"
-+++
+---
+title: "The 5 Elements"
+heading: "Timaeus by Plato Simplified"
+date: 2021-07-07
+image: /covers/timaeus.jpg
+description: "Timaeus explains the 5 elements"
+linkb: "/research/socrates/timaeus/chapter-05"
+linkbtext: "Chapter 5"
+linkf: "/research/socrates/timaeus/chapter-05c"
+linkftext: "Chapter 5c"
+author: Timaeus
+icon: /icons/soc.png
+---
+
 
 Creation is mixed, being made up of necessity and mind. 
 
@@ -24,28 +26,30 @@ We must consider:
 
 No one has as yet explained the manner of their generation.
 
-But we speak of fire and the rest of them, whatever they mean, as though men knew their natures, and we maintain them to be the first principles and letters or elements of the whole, when they cannot reasonably be compared by a man of any sense even to syllables or first compounds. 
+But we speak of fire and the rest of them, whatever they mean, as though men knew their natures, and we maintain them to be the first principles. <!--  and letters or elements of the whole, when they cannot reasonably be compared by a man of any sense even to syllables or first compounds. --> 
 
-I will not now speak of the first principle or principles of all things, or by whatever name they are to be called, for this reason—because it is difficult to set forth my opinion according to the method of discussion which we are at present employing. Do not imagine, any more than I can bring myself to imagine, that I should be right in undertaking so great and difficult a task. 
+<!-- I will not now speak of the first principle or principles of all things, or by whatever name they are to be called, for this reason—because it is difficult to set forth my opinion according to the method of discussion which we are at present employing.  -->
+
+<!-- Do not imagine, any more than I can bring myself to imagine, that I should be right in undertaking so great and difficult a task. 
 
 I will do my best to give as probable an explanation as any other—or rather, more probable.
 
-I will first go back to the beginning and try to speak of each thing and of all. Once more, then, at the commencement of my discourse, I call upon God, and beg him to be our saviour out of a strange and unwonted enquiry, and to bring us to the haven of probability. So now let us begin again.
+I will first go back to the beginning and try to speak of each thing and of all. Once more, then, at the commencement of my discourse, I call upon God, and beg him to be our saviour out of a strange and unwonted enquiry, and to bring us to the haven of probability. So now let us begin again. -->
 
 This new beginning of our discussion of the universe requires a fuller division than the former; for then we made two classes, now a third must be revealed. 
 
-The two sufficed for the former discussion= one, which we assumed, was a pattern intelligible and always the same; 
+There are 3 classes:
 
-the second was only the imitation of the pattern, generated and visible. 
-
-There is also a third kind which we did not distinguish at the time, conceiving that the two would be enough. 
-
-The fourth kind is <!-- But now the argument seems to require that we should set forth in words another kind, which is difficult of explanation and dimly seen. What nature are we to attribute to this new kind of being?  We reply, that it is --> the receptacle, the nurse of all generation. 
+1. The Same: This had an intelligible pattern which was always the same. 
+2. This was only the imitation of the pattern, generated and visible. 
+3. 
+<!-- There is also a third kind which we did not distinguish at the time, conceiving that the two would be enough.  -->
+4. <!-- The fourth kind --> This is <!-- But now the argument seems to require that we should set forth in words another kind, which is difficult of explanation and dimly seen. What nature are we to attribute to this new kind of being?  We reply, that it is --> the receptacle, the nurse of all generation. 
 
 <!-- I have spoken the truth; but I must express myself in clearer language, and this will be an arduous task for many reasons, and in particular because I must first raise questions concerning fire and the other elements, and determine what each of them is; for to say, with any probability or certitude, which of them should be called water rather than fire, and which should be called any of them rather than all or some one of them, is a difficult matter. How, then, shall we settle this point, and what questions about the elements may be fairly raised?
  -->
 
-1.
+## The Same
 
 Water, by condensation, becomes stone and earth. When melted and dispersed, passes into vapour and air. 
 
@@ -58,8 +62,11 @@ Air, when collected and condensed, produces cloud and mist
 From these, when still more compressed, comes flowing water, and from water comes earth and stones once more. 
 
 Thus:
-- generation is transmitted from one to the other in a circle. 
+- generation is transmitted from one to the other in a circle*
 - the several elements never present themselves in the same form.  
+
+
+> *Superphysics note: In Hinduism, this is called Brahmacakra
 
 <!-- how can any one have the assurance to assert positively that any of them, whatever it may be, is one thing rather than another?  -->
 

@@ -49,35 +49,71 @@ Pulses:
 - supplement manure
   - They fix nitrogen in the soil from the air
 
-Calcium, phosphates, potash, etc must still be added to pulse crops.
+**Calcium, phosphates, potash, etc must still be added to pulse crops.**
 
-Cereals are rich in carbohydrates and include rice, wheat, maize, oats, barley and rye. 
+Cereals are rich in carbohydrates and include:
+- rice
+- wheat
+- maize
+- oats
+- barley
+- rye. 
 
-Coarse grains include all types of millet, sorghum, barley, rye and buckwheat. Oil-seeds include mustard, soya, sesame, linseed, safflower and sunflower. 
+Coarse grains include all types of:
+- millet
+- sorghum
+- barley
+- rye
+- buckwheat. 
+
+Oil-seeds include:
+- mustard
+- soya
+- sesame
+- linseed
+- safflower
+- sunflower. 
 
 It is most important to exchange seeds between India and the rest of the world. 
 
-Sugar crops include sugar cane, sugar beet, date palm and palmyra. 
+Sugar crops include:
+- sugar cane
+- sugar beet
+- date palm
+- palmyra. 
 
 Spices include cloves, cumin, coriander, etc. 
 
-Many types of medicinal plants can be grown in Bengal. At Ánanda Nagar many herbaria should be established.
+Many types of medicinal plants can be grown in Bengal.<!--  At Ánanda Nagar many herbaria should be established. -->
 
-In India, many seasonal vegetables such as summer vegetables, winter vegetables and all-season vegetables are grown. 
+<!-- In India, many seasonal vegetables such as summer vegetables, winter vegetables and all-season vegetables are grown.  -->
 
 The variety of vegetables that are produced should be increased. 
 
-Onions and garlic are grown for sale to the public and for processing into medicines, but of course they are not beneficial for those doing spiritual practices.
+<!-- Onions and garlic are grown for sale to the public and for processing into medicines, but of course they are not beneficial for those doing spiritual practices. -->
 
-Some other items include coffee, cocoa, tea and rubber. 
+<!-- Some other items include coffee, cocoa, tea and rubber.  -->
 
-Tea gardens and rubber plantations can be grown for use by the local people and as cash crops. 
+Tea and rubber can be grown:
+- for use by the local people
+- as cash crops. 
 
-Cash crops will help to transform the local economy. If cash crops are grown by cooperatives, they can help raise the economic standard of poor local people in a short time.
+Cash crops <!--  help to transform the local economy. If cash crops are --> grown by cooperatives can help raise the economic standard of poor local people in a short time.
 
-In the case of yellow mustard, big lentils and wheat, there is a choice of early, medium and late varieties, but in the case of paddy there is no such choice. If the early, medium and late varieties of any crop are available for plantation, and sufficient time is at hand to choose any of them, then the early variety should be chosen first for plantation. Proper planning should be done so that the production of this crop is increased. 
+In the case of yellow mustard, big lentils and wheat, there is a choice of early, medium and late varieties.
 
-In case the early variety fails, then the medium variety should be tried. If everything is done properly, the production of this variety will be almost equal to the early variety. If the medium variety also fails for some reason, then lastly the late variety should be tried. If the late variety is planted in the beginning of the season and fails for some reason, then there is no scope for cultivation and the season will be lost. Liquid manure should be applied along with the second irrigation after proper weeding.
+But in the case of paddy there is no such choice. 
+
+If the early, medium and late varieties of any crop are available for plantation, and sufficient time is at hand to choose any of them, then the early variety should be chosen first for plantation. <!-- Proper planning should be done so that the production of this crop is increased.  -->
+
+In case the early variety fails, then the medium variety should be tried. 
+
+If everything is done properly, the production of this variety will be almost equal to the early variety. If the medium variety also fails for some reason, then lastly the late variety should be tried. 
+
+If the late variety is planted in the beginning of the season and fails for some reason, then there is no scope for cultivation and the season will be lost. 
+
+
+Liquid manure should be applied along with the second irrigation after proper weeding.
 
 Paddy is the staple food in northeastern India. 
 
@@ -93,7 +129,16 @@ Whenever plants from frigid and temperate zones are transplanted into a warm or 
 
 The fencing of all farm compounds except beauty spots may be utilized as a platform for spinach in spring and summer, and for beans in summer, the rainy season, autumn and winter. In the case of beauty spots, the fencing may be utilized as a platform for flower creepers.
 
-Farming projects should also cultivate some selected items for special emergency survival. These include vegetables, pulses, potato and fodder for dairy cows to ensure milk production. All farming projects must start the production of these items immediately. They are the minimum items necessary for physical survival. These items will ensure your survival in any difficult times that may come in the future.
+Farming projects should grow crops for special emergency survival. These include:
+- vegetables
+- pulses
+- potato
+- fodder for dairy cows to ensure milk production. 
+
+**All farming projects must start the production of these items immediately.** 
+
+They are the minimum items necessary for physical survival. These items will ensure your survival in any difficult times that may come in the future.
+
 
 ## Horticulture
 
@@ -143,22 +188,43 @@ In Bengal, production based on insects has 3 main branches:
 
 1. Sericulture
 
-The first is sericulture. There are two main varieties of silk in Bengal – mulberry and non-mulberry. Mulberry silkworms feed on mulberry leaves, and can produce two qualities of silk – fine quality (garad) and rough quality (matka). Non-mulberry silk includes muuṋgá, tasar and endy. In the muuṋgá variety the silkworms feed on drumsticks. In the tasar variety the worms feed on many plants such as sal [Shorea robusta Gaertn. f.], arjuna [Terminalia arjuna Bedd.], Indian plum [Zizyphus jujube Linn.], asan [Terminalia tomentosa Bedd.], Assamese swalu [Kadsura hetroclita], a bush which is mostly confined to Assam, and Indian rosewood (svet sal) [Dalbergia latifolia Roxb.]. In the endy variety the silkworms feed on castor leaves.
+The first is sericulture. There are two main varieties of silk in Bengal – mulberry and non-mulberry. Mulberry silkworms feed on mulberry leaves, and can produce two qualities of silk – fine quality (garad) and rough quality (matka). 
+
+Non-mulberry silk includes muuṋgá, tasar and endy. In the muuṋgá variety the silkworms feed on drumsticks. In the tasar variety the worms feed on many plants such as sal [Shorea robusta Gaertn. f.], arjuna [Terminalia arjuna Bedd.], Indian plum [Zizyphus jujube Linn.], asan [Terminalia tomentosa Bedd.], Assamese swalu [Kadsura hetroclita], a bush which is mostly confined to Assam, and Indian rosewood (svet sal) [Dalbergia latifolia Roxb.]. In the endy variety the silkworms feed on castor leaves.
 
 The mulberry silkworm is a domesticated variety of silkworm. Tasar is a naturally grown variety of silkworm. In this variety the cocoons are put on trees in order for the larvae to feed. Once the larvae have hatched the cocoons are collected from the trees. In tasar production the trees are kept to the manageable height of six feet, otherwise it would be impractical to collect the cocoons.
 
-In domesticated silk production moths lay eggs, and then larvae hatch from the eggs, eat leaves, grow to their full size and finally spin a cocoon made of silk. The cocoons are usually dried in the sun or boiled to kill the larvae. As the larvae are in a state of natural hibernation, when they are killed in this way they do not feel pain. The silk cocoons are collected and spun into silk thread. Silk production is a profitable industry, and silk is an excellent clothing fibre. Some silk plants such as mulberry and Indian plum also produce fruit. Different crops can be grown around silk plants so that there is maximum utilization of agricultural land.
-Non-grafted seedlings of mulberry give more foliage for silk production than grafted seedlings. Malda is a good source of mulberry. Mulberry seedlings should be planted in such a way that their shade does not fall on agricultural land.
+In domesticated silk production, moths lay eggs. The larvae hatch from the eggs, eat leaves, grow to their full size and finally spin a cocoon made of silk. 
 
-The following should be grown between two mulberry plants:
+The cocoons are usually dried in the sun or boiled to kill the larvae. As the larvae are in a state of natural hibernation, when they are killed in this way they do not feel pain. 
 
-1. Where the land is extremely rocky and there is no soil, soil should be brought from outside so that palm, Indian plum and custard-apple saplings, not seedlings, can be planted between two mulberry plants. Research should be done on the custard-apple and the Indian plum.
+The silk cocoons are collected and spun into silk thread. 
 
-2. Where the land is extremely rocky but there are accumulations of soil between the rocks, thorny puneala plum (thorny paniala) [Flacourtia jangomas (Lour) Raeusch.] and custard-apple can be planted between two mulberry plants. Research should be done on the thorny puneala plum.
+Silk production is a profitable industry.  Silk is an excellent clothing fibre. 
+
+Some silk plants such as mulberry and Indian plum also produce fruit. Different crops can be grown around silk plants so that there is maximum utilization of agricultural land.
+
+Non-grafted seedlings of mulberry give more foliage for silk production than grafted seedlings. 
+
+Malda is a good source of mulberry. Mulberry seedlings should be planted in such a way that their shade does not fall on agricultural land.
+
+The following should be grown between 2 mulberry plants:
+
+1. Where the land is extremely rocky and there is no soil, soil should be brought from outside so that palm, Indian plum and custard-apple saplings, not seedlings, can be planted between 2 mulberry plants. 
+
+Research should be done on the custard-apple and the Indian plum.
+
+2. Where the land is extremely rocky but there are accumulations of soil between the rocks, thorny puneala plum (thorny paniala) [Flacourtia jangomas (Lour) Raeusch.] and custard-apple can be planted between two mulberry plants. 
+
+Research should be done on the thorny puneala plum.
 
 3. Where the land is less rocky, non-thorny puneala plum (non-thorny paniala) and custard-apple can be planted between two mulberry plants. Research should be done on the non-thorny puneala plum.
-4) Where the land is a bit better than in number three above, date palm (khejur) and custard-apple saplings can be planted between two mulberry plants.
-Custard-apple varieties from abroad should be brought to India as far as possible, especially the variety from the Philippines, which is a large variety. Sporting goods can be made from mulberry wood. Mulberry can be grown successfully in Ánanda Nagar.
+
+4. Where the land is a bit better than in number three above, date palm (khejur) and custard-apple saplings can be planted between two mulberry plants.
+
+Custard-apple varieties from abroad should be brought to India as far as possible, especially the variety from the Philippines, which is a large variety. 
+
+Sporting goods can be made from mulberry wood. Mulberry can be grown successfully in Ánanda Nagar.
 
 
 2. Lac culture. 
@@ -223,6 +289,7 @@ Fish should be cultivated in lakes, dams and ponds because they help conserve an
 Small fish can also be cultivated in the paddy fields during the rainy season. 
 
 Fish are the natural food of birds, so they are an essential part of a balanced ecology.
+
 
 
 ## Pest Control

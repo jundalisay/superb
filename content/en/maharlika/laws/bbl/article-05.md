@@ -282,64 +282,30 @@ welfare of the people in the Bangsamoro.
 
 Section 4. Other Exclusive Powers
 
-The following powers and competencies previously granted to the Autonomous Region in Muslim Mindanao (ARMM) under R.A. No. 6734, as amended by R.A. No. 9054, are hereby transferred to the Bangsamoro
-Government as part of its exclusive powers:
+The following powers of the Autonomous Region in Muslim Mindanao (ARMM) under R.A. No. 6734, as amended by R.A. No. 9054, are transferred to the Bangsamoro Government:
 
-a. To regulate and exercise authority over foreign investments within its jurisdiction. The Central Government may intervene in such matters only if national security is involved;
-b. To proclaim a state of calamity over its territorial jurisdiction or parts thereof whenever typhoons, flash floods, earthquakes, tsunamis, or other natural calamities cause widespread damage or destruction to life or property in the
-region. The state of calamity proclaimed by the Chief Minister shall only be for
-the purpose of maximizing the efforts to rescue imperiled persons and property
-and the expeditious rehabilitation of the damaged area
-c. To temporarily take over or direct operation of any privately-owned public utility or business affected with public interest, in times of state of calamity declared by the Chief Minister, when the public interest so requires and under
-such reasonable terms and safeguards as may be prescribed by the Parliament.
-The public utility or business concerned may contest the take-over of its
-operations by the Bangsamoro Government by filing a proper case or petition
-with the Court of Appeals
-d. To recognize constructive or traditional possession of lands and resources by
-indigenous cultural communities subject to judicial affirmation, the petition for
-which shall be instituted within a period of ten (10) years from the effectivity of
-this Basic Law. The procedure for judicial affirmation of imperfect titles under19
-existing laws shall, as far as practicable, apply to the judicial affirmation of titles
+- a. Regulate foreign investments within its jurisdiction. The Central Government may intervene only if national security is involved
+- b. To proclaim a state of calamity whenever natural calamities cause widespread destruction. The state of calamity proclaimed by the Chief Minister shall only be for maximizing the efforts to rescue imperiled persons and property and the expeditious rehabilitation of the damaged area
+- c. To temporarily take over or direct operation of any privately-owned public utility or business affected with public interest, in times of state of calamity declared by the Chief Minister, when the public interest so requires and under such reasonable terms and safeguards as may be prescribed by the Parliament.
+The public utility or business concerned may contest the take-over of its operations by the Bangsamoro Government by filing a proper case or petition with the Court of Appeals
+- d. To recognize constructive or traditional possession of lands and resources by indigenous cultural communities subject to judicial affirmation, the petition for which shall be instituted within a period of ten (10) years from the effectivity of this Basic Law. The procedure for judicial affirmation of imperfect titles under existing laws shall, as far as practicable, apply to the judicial affirmation of titles
 to ancestral lands
-e. To adopt and implement a comprehensive urban land reform and land use
-program, to ensure the just utilization of lands within its jurisdiction;
-f. The Bangsamoro Parliament shall have the following powers:
-1. To enact legislation on the rights of the people of the Bangsamoro to initiate
-measures for the passage, amendment or repeal of regional or local
-legislation; to be consulted on matters that affect their environment; to call
-for a referendum on important issues affecting their lives; and, to recall
-regional or local officials;
-2. To conduct inquiries or public consultations in aid of legislation in accordance with its rules. In connection therewith, it shall have the power to issue subpoena or subpoena duces tecum to compel the attendance of witnesses and the production of papers, documents, or things by witnesses or persons under investigation by the Parliament, itself, or by any of its
-committees. 
-
-It shall also have the right to cite witnesses or persons under investigation for contempt for refusal to testify before it or before any of its committees or to produce papers, documents or things required by the  Parliament or any of its committees. The rights of persons appearing in or affected by such inquiries shall be respected;
-3. To enact a law that would allow the Chief Minister, Speaker of the Parliament
-and the Presiding Justice of the Bangsamoro Shari'ah High Court to augment
-any item in the Bangsamoro General Appropriations Law for their respective
-offices from savings in other items of their respective appropriations;
-4. To enact a law that shall regulate the grant of franchises and concessions,
-and empower the Chief Minister to grant leases, permits, and licenses over
-agricultural lands and for forest management;20
-g. To create pioneering firms and other business entities needed to boost economic
-development in the Bangsamoro;
-h. To establish and operate pioneering public utilities in the interest of regional
-welfare and security. Upon payment of just compensation, it may cause the
-transfer of the ownership of such utilities to cooperatives or other collective
-organizations;
-i.
-To support and encourage the building up of entrepreneurial capability in the
-Bangsamoro and to recognize, promote, and protect cooperatives;
-j. To supervise and regulate private schools in the Bangsamoro and to allow for
-the participation of three (3) representatives of private schools in the
-deliberations of the appropriate Bangsamoro Government’s ministry or office on
-matters dealing with private schools;
-k. To be represented in the board of the state universities and colleges (SUCs) in the Bangsamoro by the Chair of the appropriate committee of the Bangsamoro Parliament, either as co-chair or co-vice chair. The SUCs within the Bangsamoro
-shall be considered part of the Bangsamoro educational system. This notwithstanding, these SUCs shall enjoy academic freedom and fiscal autonomy and shall continue to be governed by their respective charters;
-l. To supervise, through the appropriate ministry, the accredited madaris in the Bangsamoro;
-m. To conduct periodic competitive qualifying examinations of madaris teachers for permanent appointments to the Bangsamoro education system;
-n. To adopt measures to protect and promote the rights of people's organizations
-and other collective organizations;21 
-o. To adopt measures for the protection of the youth in the Bangsamoro and the promotion of their welfare, and to create the appropriate office and other mechanisms for the implementation of such measures;
-p. To enforce the policy against the appointment or designation of any member of the Armed Forces of the Philippines in the active service to a civilian position in the Bangsamoro Government, including government-owned and/or -controlled
-corporations, or in any of their subsidiaries or instrumentalities within the Bangsamoro.
-
+- e. To adopt and implement a comprehensive urban land reform and land use program, to ensure the just utilization of lands within its jurisdiction
+- f. The Bangsamoro Parliament shall have the following powers:
+  - To enact legislation on the rights of the Bangsamoro people to initiate measures for the passage, amendment or repeal of regional or local legislation; to be consulted on matters that affect their environment; to call for a referendum on important issues affecting their lives; and, to recall regional or local officials
+  - To conduct inquiries or public consultations in aid of legislation in accordance with its rules. In connection therewith, it shall have the power to issue subpoena or subpoena duces tecum to compel the attendance of witnesses and the production of papers, documents, or things by witnesses or persons under investigation by the Parliament, itself, or by any of its committees. It shall also have the right to cite witnesses or persons under investigation for contempt for refusal to testify before it or before any of its committees or to produce papers, documents or things required by the  Parliament or any of its committees. The rights of persons appearing in or affected by such inquiries shall be respected
+  - To enact a law that would allow the Chief Minister, Speaker of the Parliament and the Presiding Justice of the Bangsamoro Shari'ah High Court to augment any item in the Bangsamoro General Appropriations Law for their respective offices from savings in other items of their respective appropriations
+  - To enact a law that shall regulate the grant of franchises and concessions, and empower the Chief Minister to grant leases, permits, and licenses over agricultural lands and for forest management
+- g. To create pioneering firms and other business entities needed to boost economic
+development in the Bangsamoro
+- h. To establish and operate pioneering public utilities in the interest of regional welfare and security. Upon payment of just compensation, it may cause the transfer of the ownership of such utilities to cooperatives or other collective organizations
+- i. To support and encourage the building up of entrepreneurial capability in the Bangsamoro and to recognize, promote, and protect cooperatives
+- j. To supervise and regulate private schools in the Bangsamoro and to allow for the participation of three (3) representatives of private schools in the deliberations of the appropriate Bangsamoro Government’s ministry or office on matters dealing with private schools
+- k. To be represented in the board of the state universities and colleges (SUCs) in the Bangsamoro by the Chair of the appropriate committee of the Bangsamoro Parliament, either as co-chair or co-vice chair. The SUCs within the Bangsamoro shall be considered part of the Bangsamoro educational system. This notwithstanding, these SUCs shall enjoy academic freedom and fiscal autonomy and shall continue to be governed by their respective charters
+- l. To supervise, through the appropriate ministry, the accredited madaris in the Bangsamoro;
+- m. To conduct periodic competitive qualifying examinations of madaris teachers for permanent appointments to the Bangsamoro education system
+- n. To adopt measures to protect and promote the rights of people's organizations and other collective organizations
+- o. To adopt measures for the protection of the youth in the Bangsamoro and the promotion of their welfare, and to create the appropriate office and other mechanisms for the implementation of such measures
+- p. To enforce the policy against the appointment of any active member of the Armed Forces of the Philippines to a civilian position in the Bangsamoro Government, including:
+  - government-owned and/or -controlled corporations, or 
+  - any of their subsidiaries or instrumentalities within the Bangsamoro.

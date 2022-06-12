@@ -84,17 +84,28 @@ Section 19. All properties, records, equipment, buildings, facilities, and other
 
 Section 20. The first Congress shall give priority to the determination of the period for the full implementation of free public secondary education.
 
-Section 21. The Congress shall provide efficacious procedures and adequate remedies for the reversion to the State of all lands of the public domain and real rights connected therewith which were acquired in violation of the Constitution or the public land laws, or through corrupt practices. No transfer or disposition of such lands or real rights shall be allowed until after the lapse of one year from the ratification of this Constitution.
+Section 21. The Congress shall provide procedures to revert to the State all lands of the public domain and real rights connected therewith which were acquired in violation of the Constitution or the public land laws, or through corrupt practices. 
 
-Section 22. At the earliest possible time, the Government shall expropriate idle or abandoned agricultural lands as may be defined by law, for distribution to the beneficiaries of the agrarian reform program.
+No transfer or disposition of such lands or real rights shall be allowed until after 1 year from the ratification of this Constitution.
 
-Section 23. Advertising entities affected by paragraph (2), Section 11 of Article XVI of this Constitution shall have five years from its ratification to comply on a graduated and proportionate basis with the minimum Filipino ownership requirement therein.
+Section 22. The Government shall expropriate idle or abandoned agricultural lands to be distributed to the beneficiaries of the agrarian reform program.
 
-Section 24. Private armies and other armed groups not recognized by duly constituted authority shall be dismantled. All paramilitary forces including Civilian Home Defense Forces not consistent with the citizen armed force established in this Constitution, shall be dissolved or, where appropriate, converted into the regular force.
+Section 23. Advertising entities affected by paragraph (2), Section 11 of Article 16 shall have 5 years from its ratification to comply on a graduated and proportionate basis with the minimum Filipino ownership requirement therein.
 
-Section 25. After the expiration in 1991 of the Agreement between the Republic of the Philippines and the United States of America concerning Military Bases, foreign military bases, troops, or facilities shall not be allowed in the Philippines except under a treaty duly concurred in by the Senate and, when the Congress so requires, ratified by a majority of the votes cast by the people in a national referendum held for that purpose, and recognized as a treaty by the other contracting State.
+Section 24. Private armies and other armed groups not recognized by duly constituted authority shall be dismantled. 
 
-Section 26. The authority to issue sequestration or freeze orders under Proclamation No. 3 dated March 25, 1986 in relation to the recovery of ill-gotten wealth shall remain operative for not more than eighteen months after the ratification of this Constitution. However, in the national interest, as certified by the President, the Congress may extend said period.
+All paramilitary forces including Civilian Home Defense Forces not consistent with the citizen armed force established in this Constitution, shall be:
+- dissolved or
+- converted into the regular force.
+
+Section 25. <!-- After the expiration in 1991 of the Agreement between the Republic of the Philippines and the United States of America concerning Military Bases,  -->Foreign military bases, troops, or facilities shall not be allowed in the Philippines except under a treaty:
+- allowed by the Senate
+- ratified by a national referendum
+<!--  and, when the Congress so requires, ratified by a majority of the votes cast by the people in  held for that purpose, and recognized as a treaty by the other contracting State. -->
+
+Section 26. 
+
+The authority to issue sequestration or freeze orders under Proclamation No. 3 dated March 25, 1986 in relation to the recovery of ill-gotten wealth shall remain operative for not more than 18 months after the ratification of this Constitution. However, in the national interest, as certified by the President. The Congress can extend the said period.
 
 A sequestration or freeze order shall be issued only upon showing of a prima facie case. The order and the list of the sequestered or frozen properties shall forthwith be registered with the proper court. For orders issued before the ratification of this Constitution, the corresponding judicial action or proceeding shall be filed within six months from its ratification. For those issued after such ratification, the judicial action or proceeding shall be commenced within six months from the issuance thereof.
 

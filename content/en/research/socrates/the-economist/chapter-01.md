@@ -1,15 +1,15 @@
-+++
-title= "What is Wealth?"
-heading= "Chapter 1"
-date= 2015-09-30
-image= "/covers/economist.jpg"
-description= "Wealth is anything that provides utilitiy and benefit for living"
-linkf= "/research/socrates/the-economist"
-linkftext= "The Economist"
-linkb= "/research/socrates/the-economist/chapter-03"
-linkbtext= "Chapter 3"
-icon= "/icons/soc.png"
-+++
+---
+title: "What is Wealth?"
+heading: "Chapter 1 of The Economist Simplified"
+date: 2015-09-30
+image: "/covers/economist.jpg"
+description: "Wealth is anything that provides utilitiy and benefit for living"
+linkb: /research/socrates/the-economist/
+linkbtext: "Index"
+linkf: /research/socrates/the-economist/chapter-03
+linkftext: "Chapter 3"
+icon: "/icons/soc.png"
+---
 
 
 ## Wealth is anything that is Useful and Beneficial

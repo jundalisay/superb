@@ -41,6 +41,7 @@ following requirements:
 environment;
 3.   compliance with the provisions that regulate labour relations;
 4. exploitation that favours the well-being of the owners and labourers.
+
 Article 187.  The agricultural policy shall be planned and carried out as established
 by law, with the effective participation of the production sector, comprising producers
 and rural workers, as well as the marketing, storage and transportation sectors, with
@@ -59,9 +60,11 @@ Paragraph 1. Agricultural planning includes agroindustrial, stock raising, fishi
 Paragraph 2. Agricultural policy and agrarian reform actions shall be made compatible.
 
 
-Article 188.  The destination given to public and unoccupied lands shall be made compatible with the agricultural policy and the national agrarian reform plan.
+Article 188.  
 
-Paragraph 1. The alienation or concession in any way of public lands with an area of more than two thousand and five hundred hectares to an individual or legal entity, even if through an intermediary, shall depend on the prior approval of the National Congress.
+The destination given to public and unoccupied lands shall be made compatible with the agricultural policy and the national agrarian reform plan.
+
+{{< s v="1" >}} The alienation or concession in any way of public lands of more than 2,500 hectares to an individual or legal entity, even if through an intermediary, shall depend on the prior approval of the National Congress.
 
 Paragraph 2. Alienations or concessions of public lands for agrarian reform purposes are excluded from the provisions of the preceding paragraph. 
 
@@ -69,9 +72,15 @@ Article 189. The beneficiaries of distribution of rural land through agrarian re
 
 The title-deed and the concession of use shall be granted to the man or the woman, or to both, irrespective of their marital status, according to the terms and conditions set forth by law.
 
-Article 190.  The law shall regulate and limit the acquisition or lease of rural property by a foreign individual or legal entity, and shall establish the cases that shall depend on authorization by the National Congress.
+Article 190
 
-Article 191.  The individual who, not being the owner of rural or urban property, holds as his own, for five uninterrupted years, without opposition, an area of land in the rural zone, not exceeding fifty hectares, making it productive with his labour or that of his family, and having his dwelling thereon, shall acquire ownership of the land. The public real estate shall not be acquired by prescription.
+The law shall regulate and limit the acquisition or lease of rural property by a foreign individual or legal entity, and shall establish the cases that shall depend on authorization by the National Congress.
+
+Article 191
+
+The individual who, not being the owner of rural or urban property, holds as his own, for five uninterrupted years, without opposition, an area of land in the rural zone, not exceeding fifty hectares, making it productive with his labour or that of his family, and having his dwelling thereon, shall acquire ownership of the land. 
+
+The public real estate shall not be acquired by prescription.
 
 
 ## CHAPTER 4 : The National Financial System

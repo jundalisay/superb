@@ -10,9 +10,9 @@ linkftext: "Chapter 5"
 ---
 
 
-Until the birth of time, the created universe was made in the likeness of the original, but inasmuch as all animals were not yet comprehended therein, it was still unlike. 
+Until the birth of time, the created universe was made in the likeness of the original. But since all animals were not yet created, <!--  comprehended therein, --> it was still Unlike. 
 
-What remained, the creator then proceeded to fashion after the nature of the pattern. Now as in the ideal animal the mind perceives ideas or species of a certain nature and number, he thought that this created animal should have species of a like nature and number. 
+What remained, the Creator then proceeded to fashion after the nature of the pattern. The mind perceives the idea of an animal a certain nature and number. And so He thought that this created animal should have a like nature and number. 
 
 The four of such are:
 

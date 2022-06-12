@@ -48,11 +48,18 @@ Civilian authority is, at all times, supreme over the military. The Armed Forces
 
 Section 4
 
-The prime duty of the Government is to serve and protect the people. The Government may call upon the people to defend the State and, in the fulfillment thereof, all citizens may be required, under conditions provided by law, to render personal military or civil service.
+The Government's prime duty is to serve and protect the people. 
+
+The Government may call on the people to defend the State. All citizens may be required to render personal military or civil service.
+
 
 Section 5
 
-The maintenance of peace and order, the protection of life, liberty, and property, and the promotion of the general welfare are essential for the enjoyment by all the people of the blessings of democracy.
+All people shall enjoy:
+- peace and order
+- the protection of life, liberty, and property
+- the general welfare
+
 
 Section 6
 
@@ -64,15 +71,28 @@ The separation of Church and State shall be inviolable.
 
 Section 7
 
-The State shall pursue an independent foreign policy. In its relations with other states the paramount consideration shall be national sovereignty, territorial integrity, national interest, and the right to self-determination.
+The State shall have an independent foreign policy. 
+
+In its relations with other states, the paramount consideration shall be:
+- national sovereignty
+- territorial integrity
+- national interest
+- the right to self-determination.
+
 
 Section 8
 
 The Philippines, consistent with the national interest, adopts and pursues a policy of freedom from nuclear weapons in its territory.
 
+
 Section 9
 
-The State shall promote a just and dynamic social order that will ensure the prosperity and independence of the nation and free the people from poverty through policies that provide adequate social services, promote full employment, a rising standard of living, and an improved quality of life for all.
+The State shall promote a just and dynamic social order that will:
+- ensure the prosperity and independence of the nation
+- free the people from poverty through policies that:
+  - provide adequate social services
+  - promote full employment<!-- , a rising standard of living, --> and an improved quality of life.
+
 
 Section 10
 
@@ -84,11 +104,16 @@ The State values the dignity of every human person and guarantees full respect f
 
 Section 12
 
-The State recognizes the sanctity of family life and shall protect and strengthen the family as a basic autonomous social institution. It shall equally protect the life of the mother and the life of the unborn from conception. The natural and primary right and duty of parents in the rearing of the youth for civic efficiency and the development of moral character shall receive the support of the Government.
+The State recognizes the sanctity of family life and shall protect and strengthen the family as a basic autonomous social institution. 
+
+It shall equally protect the life of the mother and the life of the unborn from conception. The natural and primary right and duty of parents in the rearing of the youth for civic efficiency and the development of moral character shall receive the support of the Government.
+
 
 Section 13
 
-The State recognizes the vital role of the youth in nation-building and shall promote and protect their physical, moral, spiritual, intellectual, and social well-being. It shall inculcate in the youth patriotism and nationalism, and encourage their involvement in public and civic affairs.
+The State recognizes the vital role of the youth in nation-building and shall promote and protect their physical, moral, spiritual, intellectual, and social well-being. 
+
+It shall inculcate in the youth patriotism and nationalism, and encourage their involvement in public and civic affairs.
 
 Section 14
 
@@ -144,9 +169,13 @@ The State shall guarantee equal access to opportunities for public service, and 
 
 Section 27
 
-The State shall maintain honesty and integrity in the public service and take positive and effective measures against graft and corruption.
+The State shall:
+- maintain honesty and integrity in the public service
+- take positive and effective measures against graft and corruption.
 
-#Section 28
 
-Subject to reasonable conditions prescribed by law, the State adopts and implements a policy of full public disclosure of all its transactions involving public interest.
+Section 28
 
+<!-- Subject to reasonable conditions prescribed by law, the State adopts and implements a policy of --> 
+
+There will be full public disclosure of all government transactions involving public interest.

@@ -22,9 +22,10 @@ Section 2.
 
 The promotion of social justice shall include the commitment to create economic opportunities based on freedom of initiative and self-reliance.
 
+
 ## Labor
 
-Section 3. 
+Section 3
 
 The State shall afford full protection to labor, local and overseas, organized and unorganized, and promote full employment and equality of employment opportunities for all.
 
@@ -50,11 +51,19 @@ The State shall apply the principles of agrarian reform or stewardship, whenever
 
 The State may resettle landless farmers and farmworkers in its own agricultural estates which shall be distributed to them in the manner provided by law.
 
-Section 7. The State shall protect the rights of subsistence fishermen, especially of local communities, to the preferential use of local marine and fishing resources, both inland and offshore. It shall provide support to such fishermen through appropriate technology and research, adequate financial, production, and marketing assistance, and other services. The State shall also protect, develop, and conserve such resources. The protection shall extend to offshore fishing grounds of subsistence fishermen against foreign intrusion. Fishworkers shall receive a just share from their labor in the utilization of marine and fishing resources.
+Section 7
 
-Section 8. The State shall provide incentives to landowners to invest the proceeds of the agrarian reform program to promote industrialization, employment creation, and privatization of public sector enterprises. Financial instruments used as payment for their lands shall be honored as equity in enterprises of their choice.
+The State shall protect the rights of subsistence fishermen, especially of local communities, to the preferential use of local marine and fishing resources, both inland and offshore. 
 
-Urban Land Reform and Housing
+It shall provide support to such fishermen through appropriate technology and research, adequate financial, production, and marketing assistance, and other services. The State shall also protect, develop, and conserve such resources. 
+
+The protection shall extend to offshore fishing grounds of subsistence fishermen against foreign intrusion. Fishworkers shall receive a just share from their labor in the utilization of marine and fishing resources.
+
+Section 8
+
+The State shall provide incentives to landowners to invest the proceeds of the agrarian reform program to promote industrialization, employment creation, and privatization of public sector enterprises. Financial instruments used as payment for their lands shall be honored as equity in enterprises of their choice.
+
+## Urban Land Reform and Housing
 
 Section 9. The State shall, by law, and for the common good, undertake, in cooperation with the public sector, a continuing program of urban land reform and housing which will make available at affordable cost decent housing and basic services to underprivileged and homeless citizens in urban centers and resettlements areas. It shall also promote adequate employment opportunities to such citizens. In the implementation of such program the State shall respect the rights of small property owners.
 

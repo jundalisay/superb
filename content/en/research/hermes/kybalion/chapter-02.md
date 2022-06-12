@@ -1,6 +1,6 @@
 ---
 title: The 7 Hermetic Principles
-description: The Principles of Truth are Seven. The knower of these has the Magic Key before whose touch all the Doors of the Temple fly open
+description: There are 7 Principles of Truth. The knower of these has the Magic Key before whose touch all the Doors of the Temple fly open
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-29
@@ -17,7 +17,7 @@ heading: "Chapter 2"
 {{< /q >}}
 
 
-The Seven Hermetic Principles which is the basis or the entire Hermetic Philosophy are:
+The 7 Hermetic Principles which is the basis or the entire Hermetic Philosophy are:
 
 ## 1. The Principle of Mentalism
 

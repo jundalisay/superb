@@ -12,6 +12,7 @@ author: Juan
 icon: /icons/spmed.png
 aliases:
   /solutions/medical/how-to-stop-covid/
+  /medical/how-to-stop-covid/
 ---
 
 

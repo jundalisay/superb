@@ -1,21 +1,22 @@
-+++
-title= "The Four Elements"
-date= 2015-09-09
-image= "/avatars/socrates.jpg"
-description= "The Simplified Timaeus by Plato"
-linkb= "/research/socrates/timaeus/section-1"
-linkbtext= "section-1"
-linkf= "/research/socrates/timaeus/section-1c"
-linkftext= "Section 1c"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-draft= true
-+++
+---
+title: "The 4 Elements"
+heading: "Timaeus by Plato Simplified"
+date: 2021-07-07
+image: /covers/timaeus.jpg
+description: "Timaeus explains the 4 elements"
+linkb: "/research/socrates/timaeus/section-1"
+linkbtext: "Section 1"
+linkf: "/research/socrates/timaeus/section-1c"
+linkftext: "Section 1c"
+author: Juan
+icon: /icons/sun.png
+draft: true
+---
+
 
 ## The Universe
 
-Timaeus= Our first question is why did the Creator make the world? He made this world of generation because He was good, and the good can never be jealous of anything.
+Our first question is: why did the Creator make the world? He made this world of generation because He was good, and the good can never be jealous of anything.
 
 Being free from jealousy, he desired that all things should be as like Himself. According to wise men, this is in the truest sense the origin of creation and of the world= 
 
@@ -26,7 +27,7 @@ Being free from jealousy, he desired that all things should be as like Himself. 
 - Wherefore, using the language of probability, we may say that the world became a living creature truly endowed with soul and intelligence by the providence of God.
 
 
-Our second question is= In the likeness of what animal did the Creator make the world?
+Our second question is: In the likeness of what animal did the Creator make the world?
 
 - It would be an unworthy thing to liken it to any nature which exists as a part only; for nothing can be beautiful which is like any imperfect thing.
 - But let us suppose the world to be the very image of that whole of which all other animals both individually and in their tribes are portions.
@@ -34,7 +35,7 @@ Our second question is= In the likeness of what animal did the Creator make the 
 - For the Deity, intending to make this world like the fairest and most perfect of intelligible beings, framed one visible animal comprehending within itself all other animals of a kindred nature.
 
 
-Our third question is= Is there only one world, or are there many and infinite?
+Our third question is: Is there only one world, or are there many and infinite?
 
 - There must be one only, if the created copy is to accord with the original. For that which includes all other intelligible creatures cannot have a second or companion; in that case there would be need of another living being which would include both, and of which they would be parts, and the likeness would be more truly said to resemble not them, but that other which included them. 
 - In order then that the world might be solitary, like the perfect animal, the creator made not two worlds or an infinite number of them; but there is and ever will be one only -- begotten and created heaven.
