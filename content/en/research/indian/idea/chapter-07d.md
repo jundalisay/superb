@@ -87,10 +87,15 @@ The dissociated mind needs physical parallelism for proper expression. Therefore
 
 ## Footnotes
 
-[^1]: The three stages of shukra are the same in both the male and the female, except that in the female, as the author will explain in a following paragraph, excess lymph is converted into ova rather than into spermatozoa. 
+[^1]: The 3 stages of shukra are the same in both the male and the female, except that in the female, <!-- as the author will explain in a following paragraph, --> excess lymph is converted into ova rather than into spermatozoa. 
 
-In other words, the first stage of shukra is lymph, in both males and females; the second stage is spermatozoa in males, and ova in females; and the third stage is seminal fluid, in both males and females. 
+- Stage 1 of shukra is lymph, in both males and females
+- Stage 2 of shukra is spermatozoa in males, and ova in females
+- Stage 3 is seminal fluid, in both males and females. 
 
-The term “seminal fluid” as applied to males comprises certain fluids and the spermatozoa suspended in them. “Seminal fluid” as applied to females clearly refers at least in part to substances in the female reproductive system which contribute to the nurture of the ovum. 
+Male seminal fluid is the fluid that has the spermatozoa.
 
-It is generally considered that the author conceptualized the actions of lymph in the body in terms not only of the lymph system as narrowly defined, but of a system that would embrace many of lymph’s ramifying effects as well. 
+Female seminal fluid is the fluid which nurtures the ovum. 
+
+<!-- It is generally considered that the author conceptualized the actions of lymph in the body in terms not only of the lymph system as narrowly defined, but of a system that would embrace many of lymph’s ramifying effects as well. 
+ -->

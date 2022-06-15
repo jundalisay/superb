@@ -60,10 +60,10 @@ contact_form =  "https://hub.pantrypoints.com/api/email"
 
 
 
+# [spon.a]
+#     url = "https://matayog.com"
+#     img = "/banners/matayog.png"
 [spon.a]
-    url = "https://matayog.com"
-    img = "/banners/matayog.png"
-[spon.b]
     url = "https://pantryhub.work"
     img = "/banners/pw.png"
 
