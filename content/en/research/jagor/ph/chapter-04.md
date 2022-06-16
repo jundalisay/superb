@@ -1,5 +1,5 @@
 ---
-title: "The Philippines"
+title: "The Europeans"
 date: 2022-04-30
 image: /covers/travels.jpg
 description: ""
@@ -8,135 +8,79 @@ linkb: "/research/jagor/ph"
 linkbtext: "Index"
 linkf: "/research/jagor/ph"
 linkftext: "Index"
-author: Juan
-icon: /icons/spmat.png
+author: Jagor
+icon: /graphics/flag.png
 ---
 
 
-COMPARATIVE POBITION OF EUROPEANS AND NATIVES IN ENGLISH, DUTCH, AND
+<!-- COMPARATIVE POBITION OF EUROPEANS AND NATIVES IN ENGLISH, DUTCH, AND SPANISH COLONIES. -INFLUENCE OF SPANISH COLONIAL POLICY ON THE MANNERS AND CUSTOMS OF THE NATIVES.—THE COMFORTS OF PHILIPPINE LIFE.—COCOAPALM TREES, BAMBOOS. -->
 
-SPANISH COLONIES. -INFLUENCE OF SPANISH COLONIAL POLICY ON THE MANNERS AND CUSTOMS OF THE NATIVES.—THE COMFORTS OF PHILIPPINE LIFE.—COCOAPALM TREES, BAMBOOS.
+A SCOTCH merchant <!-- to whom I brought a letter of introduction --> invited me with such cordiality to come and stay with him.<!-- , that I found myself unable to refuse. While thus living under the roof and protection of --> 
 
-A SCOTCH merchant to whom I brought a letter of introduction invited me with such cordiality to come and stay with him, that I found myself unable to refuse. While thus living under the roof and protection of one of the wealthiest and most respected men in the city, the cabmen I employed insisted on being paid beforehand every time I rode in their vehicles. This distrust was occasioned by the scanty feeling of respect most of the Europeans in Manila inspired in the minds of the natives. Many later observations confirmed this impression. What a different state of things exists in Java and Singapore! The reason, however, is easily explained.
+He was one of the wealthiest and most respected men in the city, the cabmen I employed insisted on being paid beforehand every time I rode in their vehicles. 
 
-The Dutch are as little able as the English to acclimatise themselves in tropical countries. They get all they can out of countries in which they are only temporary sojourners, the former by slavery and monopoly, the latter by commerce. In both cases, however, the end is accomplished by comparatively few individuals, whose official position and the largeness of whose undertakings place them far above the mass of the population. In Java, moreover, the Europeans constitute the governing classes, the natives the governed ; and even in Singapore the humblest white man so thoroughly understands the art of keeping the natives at a distance, that custom, if not the law, allows him all the privileges of a
+This distrust was occasioned by the scanty feeling of respect most of the Europeans in Manila inspired in the minds of the natives. Many later observations confirmed this impression. 
 
-SPANISH OFFICIALS.
+What a different state of things exists in Java and Singapore! The reason, however, is easily explained.
 
-35
+The Dutch are as unable as the English to acclimatise themselves in tropical countries. They get all they can out of those countries. <!--  in which they are only temporary sojourners, the former --> 
+- The Dutch by slavery and monopoly
+- The English by commerce. 
 
-higher caste. The difference of religion does but widen the gap; and, finally, every European there speaks the language of the country, while the natives are totally ignorant of that spoken by the foreigners.
+These are done by a <!-- In both cases, however, the end is accomplished by comparatively --> few individuals, whose official position and the largeness of whose undertakings place them far above the people. 
 
-The Dutch officials are educated at home in schools specially devoted to the East Indian service. The art of managing the natives, the upholding of prestige, which is considered the secret of the Dutch power over the numerous native populations, forms an essential particular in their education. The Dutch, therefore, manage their intercourse with the natives, no matter how much they intend to get out of them, in strict accordance with customary usage (adat); they never offend their sense of honour, and never expose themselves in their own mutual intercourse, which remains a sealed book to the inhabitants.
+In Java, moreover, the Europeans are the governing class. The natives are the governed. Even in Singapore, the humblest white man so thoroughly understands the art of keeping the natives at a distance, that custom, if not the law, allows him all the privileges of a higher caste. 
 
-Things are different in the Philippines. With the exception of those officials whose stay is limited by the rules of the service, or by the place-hunting that ensues at every change in the Spanish ministry, few Spaniards who have once settled in the colony ever return home. It is forbidden to the priests, and most of the rest have no means of doing so. A considerable portion of them consist of subaltern officers, soldiers, sailors, political delinquents and refugees whom the mother-country has got rid of; and not seldom of adventurers deficient both in means and desire for the journey back, for their life in the colony is far pleasanter than that they were forced to lead in Spain. These latter arrive without the slightest knowledge of the country and without being in the least prepared for a sojourn there. Many of them are so lazy that they won't take the trouble to learn the language even if they marry a daughter of the soil. Their servants understand Spanish, and clandestinely watch the conversation and the actions, and become acquainted with all the secrets, of their indiscreet masters, to whom the natives remain an enigma which their conceit prevents them attempting to decipher,
+The difference of religion widens the gap. Finally, every European there speaks the native language while the natives are totally ignorant of the foreign language.
 
-It is easy to understand how the native respect for Europeans must be diminished by the numbers of these uneducated, improvident, and extravagant Spaniards, who, no matter what may have been their position at home, are all determined to play the master in the colony. The relative standing of the natives naturally profits by all this, and it would be difficult to find a colony in which the natives, taken all in all, feel more comfortable than in the Philippines. They have adopted the religion, the manners, and the customs of their rulers; and though legally not on an equal footing with the latter, they are by no means separated from them by the high barriers, with which, except in Java, the churlish reserve of the English has surrounded the natives of the other colonies.
+The Dutch officials are educated at home in schools specially devoted to the East Indian service.  The secret of the Dutch power over the native populations is in their art of:
+- **managing the natives**
+- **upholding their own prestige**
+
+These are essential in their Dutch education. 
+
+The Dutch, therefore, manage their intercourse with the natives, no matter how much they intend to get out of them, in strict accordance with customary usage (adat). They never:
+- offend the native sense of honour
+- expose themselves in their own mutual intercourse, which remains a sealed book to the inhabitants.
+
+Things are different in the Philippines. 
+
+With the exception of those officials whose stay is limited by the rules of the service, or by the place-hunting that ensues at every change in the Spanish ministry, few Spaniards who have once settled in the colony ever return home. 
+
+It is forbidden to the priests, and most of the rest have no means of doing so. 
+
+A considerable portion of them consist of subaltern officers, soldiers, sailors, political delinquents and refugees whom Spain has got rid of; and not seldom of adventurers deficient both in means and desire for the journey back, for their life in the colony is far pleasanter than that they were forced to lead in Spain.
+
+These latter arrive without the slightest knowledge of the country and without being in the least prepared for a sojourn there. Many of them are so lazy that they won't take the trouble to learn the language even if they marry a native woman. Their servants understand Spanish, and clandestinely watch the conversation and the actions, and become acquainted with all the secrets, of their indiscreet masters, to whom the natives remain an enigma which their conceit prevents them attempting to decipher,
+
+Thus, the natives' respect for Europeans is reduced by these uneducated, improvident, and extravagant Spaniards who <!-- , no matter what may have been their position at home,  -->are all determined to play the master in the colony. 
+
+The relative standing of the natives naturally profits by all this, and it would be difficult to find a colony in which the natives, taken all in all, feel more comfortable than in the Philippines. 
+
+They have adopted the religion, the manners, and the customs of their rulers. Though legally not on an equal footing with the latter, they are by no means separated from them by the high barriers, with which, except in Java, the churlish reserve of the English has surrounded the natives of the other colonies.
 
 The same religion, a similar form of worship, an existence intermixed with that of the indigenous population, all tend to strengthen the ties between the Europeans. and the Indians. That they have done so is proved by the existence of the proportionately numerous band of half-castes who inhabit the islands.
 
-The Spaniards and the Portuguese appear, in fact, to be the only Europeans who take root in tropical countries. They are capable of permanent and fruitful amalgamation with the natives, a result contributed to in no small degree by the celibacy of the priesthood. *
+The Spaniards and the Portuguese appear to be the only Europeans who take root in tropical countries. They can permanently and fruitfully amalgamate with the natives, a result contributed to in no small degree by the celibacy of the priesthood. *
 
-* Bertillon (Acclimatement and Acclimatation, Dict. Encycl. des Sciences Medicales) ascribes the capacity of the Spaniards for acclimatisation in tropical countries to the large admixture of Syrian and African blood which flows in their veins. The ancient Iberians appear to have reached Spain from Chaldea across Africa ; the Phænicians and Carthaginians had flourishing colonies in the peninsula, and, in later times, the Moors possessed a large portion of the country for a century, and ruled with great splendour, a state of things leading to a mixture of race. Thus Spanish blood has three distinct times been abundantly crossell with that of Africa. The warm climate of the peninsula must also largely contribute to render its inhabitants fit for life in the tropics. The pure Indo-European race has never succeeded in establishing itself on the southern shores of the Mediterranean, much less in the arid soil of the tropics.
+* Bertillon (Acclimatement and Acclimatation, Dict. Encycl. des Sciences Medicales) ascribes the capacity of the Spaniards for acclimatisation in tropical countries to the large admixture of Syrian and African blood which flows in their veins. 
 
-In Martinique, where from eight to nine thousand whites live on the proceeds of the toil of 125,000 of the coloured race, the population is diminishing instead of increasing. The French Creoles seem to have lost the power of maintaining themselves, in proportion to the existing means of subsistence, and of multiplying. Families which do not from time to time fortify themselves with a strain of fresh European blood, die out in from three to four generations. The same thing happens in the English, but not in the Spanish Antilles, although the climate and the natural surroundings are the same. According to Ramon de la Sagra, the death-rate is smaller among the Creoles, and greater among the natives, than it is in Spain; the mortality among the garrison, however, is considerable. The same writer states that the real acclimatisation of the Spanish race takes place by selection; the unfit die, and the others thrive.
+The ancient Iberians reached Spain from Chaldea across Africa. The Phænicians and Carthaginians had flourishing colonies in the peninsula. The Moors possessed Spain for a century, and ruled with great splendour. This led to a mixture of race. 
 
-NATIVE MIMICRY.
+Thus Spanish blood has 3 distinct times been abundantly crossell with that of Africa. 
 
-The want of originality, which among the half-castes appears to arise from their equivocal position, is also to be found among the Indians. Distinctly marked national customs, which one would naturally expect to find in such an isolated part of the world, are sought for in vain.
+The warm climate of the peninsula must also largely contribute to render its inhabitants fit for life in the tropics. The pure Indo-European race has never succeeded in establishing itself on the southern shores of the Mediterranean, much less in the arid soil of the tropics.
 
-As Spanish Catholicism forcibly expelled the civilisation of the Moors, and in Peru that of the Incas, so in the Philippines it has understood how to set aside an equally well founded one, by appropriating in an incredible manner, in order to take root itself the more quickly, all existing forms and abuses.*
 
-The uncivilised inhabitants of the Philippines quickly adopted the rites, forms, and ceremonies of this strange religion, and, at the same time, copied the personal externalities of their new masters, learning to despise their own manners and customs as heathenish and barbarian. Nowadays, forsooth, they sing Andalusian songs, and dance Spanish dances; but in what sort of way? They imitate everything that passes before their eyes without possessing the intelligence to appreciate it. It is this which makes both themselves and their artistic productions wearisome, devoid of character, and, I may add, unnatural, in spite of the skill and patience they devote to them. These two peculiarities, moreover, are invariably to be found amongst nations whose civilisation is
+## Population Trends
 
-* Depons, speaking of the means employed in America to obtuin the same end, says, “I am convinced that it is impossible to engraft the Christian religion on the Indian mind without mixing up their own inclinations and customs with those of Christianity; this has been even carried so far, that at one time theologians raised the question, whether it was lawful to eat human flesh? But the most singular part of the proceeding is, that the question was decided in favour of the anthropophagi.”
+In Martinique, around 9,000 whites live off of the toil of 125,000 natives. Their native population is diminishing instead of increasing. 
 
-but little developed ; the patience so much admired is often nothing but waste of time and breath, quite out of proportion to the end in view, and the skill is the mere consequence of the backward state of the division of labour.
+The French Creoles seem to have lost the power of maintaining themselves, in proportion to the existing means of subsistence, and of multiplying.
 
-If I entered the house of a well-to-do native, who spoke Spanish, I was received with the same phrases his model, a Spaniard, would employ ; but I always had the feeling that it was out of place. In countries where the native population remains true to its ancient customs this is not the case; and whenever I have not been received with proper respect, I have remarked that the apparent fact proceeded from a difference in social forms, not more to be wondered at than a difference in weights and measures. In Java, and particularly in Borneo and the Malaccas, the utensils in daily use are ornamented with so refined a feeling for form and colour, that they are praised by our artists as patterns of ornamentation, and afford a proof that the labour is one of love, and that it is presided over by an acute intelligence. Such a sense of beauty is seldom to be met with in the Philippines. Everything there is imitation or careless makeshift. Even the Pina embroideries, which are fabricated with such wonderful patience and skill, and are so celebrated for the fineness of the work, are, as a rule, spiritless imitations of Spanish patterns. One is involuntarily led to these conclusions by a comparison of the art products of the Spanish-American communities with those of more barbarous races. The Berlin Ethnographical Museum contains many proofs of the facts I have just mentioned.
+Families which do not from time to time fortify themselves with a strain of fresh European blood, die out in from three to four generations. 
 
-The oars used in the Philippines are usually made of bamboo poles, with a board tied to their extremities with strips of rattan. If they happen to break, so much the better; for the fatiguing labour of rowing must necessarily be suspended till they are mended again.
+The same thing happens in the English, but not in the Spanish Antilles, although the climate and the natural surroundings are the same. 
 
-In Java the buffalo cars, which are completely covered in as a protection against the rain, are ornamented with many tasteful
+According to Ramon de la Sagra, the death-rate is smaller among the Creoles, and greater among the natives, than it is in Spain; the mortality among the garrison, however, is considerable. The same writer states that the real acclimatisation of the Spanish race takes place by selection; the unfit die, and the others thrive.
 
-SPANISH COLONIAL POLICY.
-
-39
-
-patterns. The roofless waggons used in the Philippines are roughly put together at the last moment. When it is necessary to protect their contents from the wet, the natives throw an old pair of mats over them, more for the purpose of appeasing the prejudices of the “Castilians,” than really to keep off the rain.
-
-The English and the Dutch are always looked upon as strangers in the tropics ; their influence never touches the ancient native customs which culminate in the religion of the country. But the populations whom the Spaniards have conyerted to Catholicism have lost all originality, all sense of nationality ; yet the alien religion has never really penetrated into their inmost being, they never feel it to be a source of moral support, and it is no accidental coincidence that they are all more or less stamped with a want of dignity, with a frailty, and even with a looseness of life.
-
-With the exception of this want of national idiosyncrasy, and the loss of the distinguishing manners and customs which constitute the chief charm of most eastern peoples, the native of the Philippines is an interesting study of a type of mankind existing in the easiest natural conditions. The arbitrary rule of their chiefs, and the iron shackles of slavery, were abolished by the Spaniards shortly after their arrival; and peace and security reigned in the place of war and rapine. The Spanish rule in these islands was always a mild one, not because the laws, which treated the Indians like children, were wonderfully gentle, but because the causes did not exist which caused such scandalous cruelties in Spanish America and in the colonies of other nations.
-
-It was fortunate for the natives that their islands possessed no wealth, in the shape of precious stones or costly spices. In the earlier days of maritime traffic there was little possibility of exporting the numerous agricultural productions of the colony; and it was scarcely worth while, therefore, to make the most of the land. The few Spaniards who resided in the colony found such
-
-an easy method of making money in the commerce with China and Mexico, that they held themselves aloof from all economical enterprises, which had little attraction for their haughty inclinations, and would have imposed the severest labour on the natives. Taking into consideration the wearisome and dangerous navigation of the time, it was, moreover, impossible for the Spaniards, upon whom their too large possessions in America already imposed an exhausting man-tax, to maintain a strong armed force in the Philippines. The subjection, which had been inaugurated by a dazzling military exploit, was chiefly accomplished by the assistance of the monastic orders, whose missionaries were taught to employ extreme prudence and patience. The Philippines were thus principally won by a peaceful conquest.
-
-The taxes laid upon the natives were so trifling that they did not suffice for the administration of the colony. The difference was covered by yearly contributions from Mexico. The extortions of unconscientious officials were by no means conspicuous by their absence. Cruelties, however, such as were practised in the American mining districts, or in the manufactures of Quito, never occurred in the Philippines.
-
-Uncultivated land was free, and was at the service of any one willing to make it productive ; if, however, it remained untilled for two years, it reverted to the crown.* · The only tax which the Indians pay is the poll-tax, known as the “ Tributo,” which originally, three hundred years ago, amounted to one dollar for every pair of adults, and in a country where all marry early, and the sexes are equally divided, really constituted a family-tax. By degrees the tribute has been raised to 216 dollars. An adult, therefore, male or female, pays 13's dollar, and that from his sixteenth to his sixtieth year. Besides this, every man
-
-* As a matter of fact, productive land is always appropriated, and in many parts of the island is difficult and expensive to purchase. Near Manila, and in Bulacan, land bas for many years past cost over 150 thalers an acre.
-
-POLOS Y SERVICIOS.
-
-41
-
-has to give forty days' labour every year to the State. This vassal: age (Polos y serricios) is divided into ordinary and extraordinary services : the first consists of the duties appertaining to a watchman or messenger, in cleaning the courts of justice, and in other light labours; the second in road-making, and similar heavier kinds of work, for the benefit of villages and provinces. The little use, however, that is made of these services, is shown by the fact that any one can obtain a release from them for a sum which at most is not more than three dollars. No personal service is required of women. I have collected in a short special chapter, a little further on, some important details about the tax from some official sources, which were placed at my disposal in the Colonial Office.
-
-In other countries, with an equally mild climate, and an equally fertile soil, the natives, unless they had reached a higher degree of civilisation than that of the Philippine islanders, would have been ground down by native princes, or ruthlessly plundered and destroyed by foreigners. In these isolated islands, so richly endowed by nature, where pressure from above, impulse from within, and every stimulus from the outside are wanting, the satisfaction of a few trifling wants is sufficient for an existence with ample comfort. Of all countries in the world, the Philippines have the greatest claim to be considered a lotos-eating Utopia. The traveller whose knowledge of the dolce far niente is derived from Naples, has no real appreciation of it; it only blossoms under the shade of palm-trees. These notes of travel will contain plenty of examples to support this. One trip across the Pasig gives a foretaste of life in the interior of the country. Low wooden cabins and bamboo huts, surmounted with green foliage and blossoming flowers, are picturesquely grouped with areca palms, and tall, feather-headed bamboos, upon its banks. Sometimes the enclosures run down into the stream itself, some of them being duck-grounds, and others bathingplaces. The shore is fringed with canoes, nets, rafts, and fishing apparatus. Heavily laden boats float down the stream, and small canoes ply from bank to bank between the groups of bathers. The most lively traffic is to be seen in the tiendas, large sheds, corresponding to the Javanese harongs, which open upon the river, the great channel for traffic.
-
-They are a source of great attraction to the passing sailors, who resort to them for eating, drinking, and other convivialities; and while away the time there in gambling, betel chewing, and smoking, with idle companions of both sexes.
-
-Sometimes a native may be seen floating down the stream asleep on a heap of cocoa-nuts. If the nuts run ashore, the sleeper rouses himself, pushes himself off with a long bamboo, and contentedly relapses into slumber, as his eccentric raft regains the current of the river. One cut of a pruning-knife easily detaches sufficient of the husk of the nuts to allow of their being fastened together ; in this way a kind of wreath is formed which encircles and holds together the loose nuts piled up in the middle.
-
-The arduous labours of many centuries have left as their legacy a perfect system of transport; but in these islands man can obtain many of his requirements direct from the hands of nature, and procure for himself, with proportionately trifling labour, a large amount of comfort.
-
-Off the island of Talim, in the great lake of Bay, my boatmen bought for a few cuartos several dozens of fish quite twelve inches long; and those which they couldn't eat were split open, salted, and dried by a few hours' exposure to the heat of the sun on the roof of the boat. When the fishermen had parted with their contemplated breakfast, they stooped down and filled their cooking-vessels with sand-mussels, first throwing away the dead ones from the handfuls they picked up from the bottom of the shallow water. Nearly all the dwellings are built by the water's edge. The river is a natural self-maintaining highway, on which loads can be carried to the foot of the mountains. The huts of
-
- [blocks in formation]
-the natives, built upon piles, are to be seen thickly scattered about its banks, and particularly about its broad mouths. The appropriateness of their position is evident, for the stream is at once the very centre of activity and the most convenient spot for the pursuit of their callings. At each tide the takes of fish are more or less plentiful, and at low-water the women and children may be seen picking up shell-fish with their toes, which practice has enabled them to use as deftly as their fingers, or gathering in the sand-crabs and eatable seaweed.
-
-The river-side is a pretty sight when the men, women, and children are bathing and frolicking in the shade of the palm-trees; when the young girls are filling their water-vessels, large bamboos, which they carry on their shoulders, or jars, which they bear on their heads : and when the boys are standing upright on the broad backs of the buffaloes and riding triumphantly into the water.
-
-It is here too that the cocoa-palm most flourishes, a tree that supplies them not only with meat and drink, but with every material necessary for the construction of their huts and the manufacture of the various articles in use amongst them. While the greatest care is necessary to make those growing further inland bear even a little fruit; the palm-trees close to the shore, even when planted on wretched soil, grow plentiful crops without the slightest trouble. Has no palm-tree been ever made to blossom in a hothouse ? Thomson* mentions that cocoa-trees growing by the sea-side are wont to incline their stems over the ocean, the waters of which bear their fruit to desert shores and islands, and render them habitable for mankind. Thus the cocoa-tree would seem to play an essential part in the ocean vagabondage of Malaysia and Polynesia.
-
-Close to the cocoa-trees grow clumps of the stunted nipapalms, which only flourish in brackish waters ;t their leaves * "Travels in the Indian Archipelago."
-
-† In Buitenzorger's garden, Java, the author observed, however, some specimens growing in fresh water.
-
-furnish the best roof-thatching. Sugar, brandy, and vinegar are manufactured from their sap. Three hundred and fifty years ago Pigafetta found these manufactures in full swing, but nowadays they seem to be limited to the Philippines. Besides these, the pundanus-tree, from the leaves of which the softer mats are woven, is always found in near proximity to the shore.
-
-Towards the interior the landscape is covered with rice-fields, which yearly receive a fresh layer of fertile soil, washed down from the mountains by the river, and spread over their surface by. the overflowing of its waters; and which in consequence never require any manure. The buffalo, the favourite domestic animal of the Malays, and which they keep especially for agricultural purposes, prefers these regions to all others. It loves to wallow in the mud, and is not fit for work unless permitted to frequent the water. Bamboos with luxuriant leafy tops grow plentifully by the huts in the rice-fields which fringe the banks of the river. In my former sketches of travel I have endeavoured to describe how much this gigantic plant contributes to the comfort and convenience of tropical life. Since then I have become acquainted with many curious purposes to which it is turned, but to describe them here would be out of place.* I may be allowed, however, to briefly cite a few examples showing what numerous results are obtained from simple means. Nature has endowed these splendid plants, which perhaps surpass all others in beauty, with so many useful qualities, and delivered them into the hands of mankind so ready for immediate use, that a few sharp cuts suffice to convert them into all kinds of various utensils. The bamboo possesses, in proportion to its lightness, an extraordinary strength ;
-
-* Boyle, in his “ Adventures among the Dyaks,” mentions that he actually found pneumatic tinder-boxes, made of bamboo, in use among the Dyaks; Bastian met with them in Burmah. Boyle saw a Dyak place some tinder on a broken piece of earthenware, holding it steady with his thumb while he struck it a sharp blow with a piece of bamboo. The tinder took fire. Wallace observed the same method of striking a light in Ternate,
-
-BAMBOOS.
-
-the result of its round shape, and the regularity of the joints in its stem. The parallel position and toughness of its fibres render it easy to split, and when split its pieces are of extraordinary pliability and elasticity. To the gravelly soil on which it grows it owes its durability, and its firm, even, and always clean surface, the brilliancy and colour of which improve by use. And finally, it is a great thing for a population with such limited means of conveyance that the bamboo is to be found in such abundance in all kinds of localities and of all dimensions, from a few millimetres to ten or fifteen centimetres in diameter, even some
-
-Bamboo Plant. times to twice this amount; and that, on account of its unsurpassed floating power, it is pre-eminently fitted for locomotion in a country poor in roads but rich in watercourses. A blow with a pruning-knife is generally enough to cut down a strong stem. If the thin joints are taken away, hollow stems of different thicknesses can be slid into one another like the parts of a telescope. From bamboos split in half, gutters, troughs, and roofing tiles
-
-[graphic]
-[graphic][ocr errors]
-can be made. Split into several laths, which can be again divided into small strips and fibres for the manufacture of baskets, ropes,
-
-mats, and fine plaiting work, they can be made into frames and stands. Two cuts in the same place make a round hole through which a stem of corresponding diameter can be firmly introduced (a). If a similar opening is made in a second upright, the horizontal stem can be run through both (6). Gates, closing perpendicularly or horizontally in frames moving without friction on a perpendicular or horizontal axis, can be made in this way.
-
-Two deep cuts give an angular shape to the stem (c); and when its two sides are wide enough apart to admit of a crossstem being placed between them, they can be employed as roof. ridges (d), or for the framework of tables and chairs; (e), a quantity of flat split pieces of bamboo being fastened on top of them with chair-cane. These split pieces then form the seats of the chairs and the tops of the tables, instead of the boards and large bamboo laths (f) used at other times. It is equally easy to make an oblong opening in a large bamboo in which to fit the laths of a stand (9).
-
-A couple of cuts are almost enough to make a fork, a pair of tongs (h), or a hook (i).
-
-If one makes a hole as big as the end of one's finger in a large bamboo close under a joint, one obtains by fastening a small piece of cloth to the open end, a syphon or a filter (k). If a piece of bamboo is split down to the joint in strips, and the strips be bound together with others horizontally interlaced, it makes a conical basket (1). If the strips are cut shorter, it makes a pedlar's pack basket. If a long handle is added, and it is filled with tar, it can be used as a signal torch (m). If shallower baskets of the same dimensions, but with their bottoms cut off or punched out, are placed inside these conical ones, the two together make capital snare baskets for crabs and fish (n). If a bamboo stem be cut off just below the joint, and its lower edge be split up into a cogged rim, it makes, when the partition of the joint is punched out, an earth borer (0), a fountain-pipe, and many things of the kind.
-
-TREATMENT OF CRIMINALS.
-
-The drawings on pages 177, 193, and 210 of my “Sketches of Travel” show several ingenious samples of bamboo construction.
-
-Strangers travelling in the interior have daily fresh opportunities of enjoying the hospitality of nature. The atmosphere is so equitably warm that one would gladly dispense with all clothing except a solar hat and a pair of light shoes. Should one be tempted to pass the night in the open air, the construction of a hut from the leaves of the palm and the fern is the work of a few minutes ; but in even the smallest village the traveller finds a “common house” (casa real), in which he can take up his quarters and be supplied with the necessaries of life at the market
-
-[graphic][merged small]
-price. There too he will always meet with Semanéros (those who perform menial duties) ready to serve him as messengers or porters for the most trifling remuneration. But long practice has taught me that their services principally consist in doing nothing. On one occasion I wanted to send a man who was playing cards and drinking tuba (fresh or weakly-fermented palm-sap) with his companions, on an errand. Without stopping his game the fellow excused himself on the ground of being a prisoner, and one of his guardians, leaving his charge to enjoy himself in the shade, proceeded in the midst of the intense heat to carry my troublesome message. Prisoners have certainly little cause to grumble. The only inconvenience to which they are exposed are the floggings which the local authorities very liberally dispense for the most trifling offences. Except the momentary bodily pain, however, these appear in most cases to make little impression on the natives, who have been accustomed to corporal punishment from their youth upwards. Their acquaintances stand round the sufferers, while the blows are being inflicted, and mockingly ask them how it tastes.
-
-A long residence amongst the earnest, quiet, and dignified Malays, who are most anxious for their honour, while most submissive to their superiors, makes the contrast in character exhibited by the natives of the Philippines, who yet belong to the Malay race, all the more striking. The change in their nature appears to be a natural consequence of the Spanish rule, for the same characteristics may be observed in the natives of Spanish America. The class distinctions and the despotic oppression prevalent under their former chiefs doubtless rendered the Philippinians of the past more like the Malays of to-day.

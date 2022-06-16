@@ -1,5 +1,5 @@
 ---
-title: "The Philippines"
+title: "Geography of The Philippines"
 date: 2022-04-30
 image: /covers/travels.jpg
 description: ""
@@ -8,18 +8,20 @@ linkb: "/research/jagor/ph"
 linkbtext: "Index"
 linkf: "/research/jagor/ph"
 linkftext: "Index"
-author: Juan
-icon: /icons/spmat.png
+author: Jagor
+icon: /graphics/flag.png
 ---
 
 
-GEOGRAPHY OF THE PHILIPPINES. THEIR METEOROLOGY.INTERNAL ADMINISTRATION.
+<!-- GEOGRAPHY OF THE PHILIPPINES. THEIR METEOROLOGY.INTERNAL ADMINISTRATION.
 
----POPULATION.--DIALECTS.
+---POPULATION.--DIALECTS. -->
 
-The environs of Manila, the Pasig, and the Lake of Bay, which are visited by every fresh arrival in the colony, have been so often described that I have restricted myself to a few short notes upon these parts of the country, and intend to relate in detail only my excursions into the south-eastern provinces of Luzon, Camarines, and Albay, and the islands which lie to the east of them, Samar and Leyte. Before doing this, however, it will not be out of place to glance at the map and give some slight description of their geographical positions.
+The environs of Manila, the Pasig, and Laguna de Bay <!-- the Lake of Bay -->, which are visited by every fresh arrival in the colony, have been so often described that I have restricted myself to a few short notes upon these parts of the country, and intend to relate in detail only my excursions into the south-eastern provinces of Luzon, Camarines, and Albay, and the islands which lie to the east of them, Samar and Leyte. Before doing this, however, it will not be out of place to glance at the map and give some slight description of their geographical positions.
 
-The Philippinian Archipelago lies between Borneo and Formosa, and separates the northern Pacific Ocean from the Chinese Sea. It covers 147° of latitude, and extends from the Sulu Islands in the south, in the fifth parallel of north latitude, to the Babuyans in the north in latitude 19° 30'. If, however, the Bashee or Batanes Islands be included, its area may be said to extend to the twenty-first parallel of north latitude. But neither southwards or northwards does Spanish rule extend to these extreme limits, nor, in fact, does it always reach the far interior of the larger islands. From the eastern to the western extremity of the Philippines the distance is about go of longitude. Two islands, Luzon, with an area of two thousand, and Mindanao, with one of more than one thousand five hundred square miles, are together larger than all the rest. The next seven largest islands are Palawan, Samar,
+The Philippinian Archipelago lies between Borneo and Formosa, and separates the northern Pacific Ocean from the Chinese Sea. 
+
+It covers 147° of latitude, and extends from the Sulu Islands in the south, in the fifth parallel of north latitude, to the Babuyans in the north in latitude 19° 30'. If, however, the Bashee or Batanes Islands be included, its area may be said to extend to the twenty-first parallel of north latitude. But neither southwards or northwards does Spanish rule extend to these extreme limits, nor, in fact, does it always reach the far interior of the larger islands. From the eastern to the western extremity of the Philippines the distance is about go of longitude. Two islands, Luzon, with an area of two thousand, and Mindanao, with one of more than one thousand five hundred square miles, are together larger than all the rest. The next seven largest islands are Palawan, Samar,
 
 Panay, Mindoro, Leyte, Negros, and Cebu ; of which the first measures about two hundred and fifty, and the last about one hundred square miles. Then come Bojol and Masbate, each about half the size of Cebu; twenty smaller islands, still of some little importance; and numerous tiny islets, rocks, and reefs.*
 
@@ -29,15 +31,11 @@ The larger islands contain vast inland seas, considerable navigable rivers, and 
 
 • The dimensions of the isolated islands are given in the Appendix.
 
-un
+The mainland of Luzon stretches itself in a compact, long quadrangle, 25 miles broad, from 18° 40' north latitude to the Bay of Manila (14° 30'); and then projects, amid large lakes and deep creeks, a rugged promontory to the east, joined to the main continent by but two narrow isthmuses which stretch east and west of the large inland Lake of Bay. 
 
-ea a
+Many traces of recent upheavals betoken that the two portions were once separated and formed two distinct islands. The large eastern promontory, well nigh as long as the northern portion, is nearly cut in half by two deep bays, which, starting from opposite points on the south-eastern and north-western coasts, almost merge their waters in the centre of the peninsula; the Bay of Ragay, and the Bay of Sogod. In fact, the southern portion of Luzon may be better described as two small peninsulas lying next to one another in parallel positions, and joined together by a narrow neck of land scarcely three miles broad. Two small streams which rise nearly in the same spot and pour themselves into the two opposite gulfs, make the separation almost complete, and form at the same time the boundary between the province of Tayabas on the west, and that of Camarines on the east. The western portion, indeed, consists almost entirely of the first-named district, and the eastern is divided into the provinces of North Camarines, South Camarines, and Albay. The first of these three is divided from Tayabas by the boundary already mentioned, and from South Camarines by a line drawn from the southern shore of the Bay of San Miguel on the north to the opposite coast. The eastern extremity of the peninsula forms the province of Albay ; separated from South Camarines by a line which runs from Donzol, on the south coast, northwards across the volcano of Mayon, and which then, inclining to the west, reaches the northern shore, A look at the map will make these explanations clearer.
 
-GEOGRAPHICAL PECULIARITIES.
-
-The mainland of the isle of Luzon stretches itself in a compact, long quadrangle, twenty-five miles broad, from 18° 40' north latitude to the Bay of Manila (14° 30'); and then projects, amid large lakes and deep creeks, a rugged promontory to the east, joined to the main continent by but two narrow isthmuses which stretch east and west of the large inland Lake of Bay. Many traces of recent upheavals betoken that the two portions were once separated and formed two distinct islands. The large eastern promontory, well nigh as long as the northern portion, is nearly cut in half by two deep bays, which, starting from opposite points on the south-eastern and north-western coasts, almost merge their waters in the centre of the peninsula; the Bay of Ragay, and the Bay of Sogod. In fact, the southern portion of Luzon may be better described as two small peninsulas lying next to one another in parallel positions, and joined together by a narrow neck of land scarcely three miles broad. Two small streams which rise nearly in the same spot and pour themselves into the two opposite gulfs, make the separation almost complete, and form at the same time the boundary between the province of Tayabas on the west, and that of Camarines on the east. The western portion, indeed, consists almost entirely of the first-named district, and the eastern is divided into the provinces of North Camarines, South Camarines, and Albay. The first of these three is divided from Tayabas by the boundary already mentioned, and from South Camarines by a line drawn from the southern shore of the Bay of San Miguel on the north to the opposite coast. The eastern extremity of the peninsula forms the province of Albay ; separated from South Camarines by a line which runs from Donzol, on the south coast, northwards across the volcano of Mayon, and which then, inclining to the west, reaches the northern shore, A look at the map will make these explanations clearer.
-
-There are two seasons in the Philippines, the wet and the dry, The south-west monsoon brings the rainy season, at the time of our summer, to the provinces which lie exposed to the south and west winds. On the northern and eastern coasts the heaviest downpours take place in our winter months) during the northeastern monsoons. The ruggedness of the country and its numerous mountains cause, in certain districts, many variations in these normal meteorological conditions. The dry season lasts in Manila from November till June (duration of the north-east monsoon); rain prevails during the remaining months (duration of the south-west monsoon). The heaviest rainfall occurs in September; March and April are frequently free from wet. From October to February inclusively the weather is cool and dry (prevalence of N.W., N., and N.E. winds); March, April, and May are warm and dry (prevalence of E.N.E., E., and E.S.E. winds); and from June till the end of September it is humid and moderately warm.
+There are 2 seasons the wet and the dry. The south-west monsoon brings the rainy season, at the time of our summer, to the provinces which lie exposed to the south and west winds. On the northern and eastern coasts the heaviest downpours take place in our winter months) during the northeastern monsoons. The ruggedness of the country and its numerous mountains cause, in certain districts, many variations in these normal meteorological conditions. The dry season lasts in Manila from November till June (duration of the north-east monsoon); rain prevails during the remaining months (duration of the south-west monsoon). The heaviest rainfall occurs in September; March and April are frequently free from wet. From October to February inclusively the weather is cool and dry (prevalence of N.W., N., and N.E. winds); March, April, and May are warm and dry (prevalence of E.N.E., E., and E.S.E. winds); and from June till the end of September it is humid and moderately warm.
 
 There has been an observatory for many years past in Manila under the management of the Jesuits. The following is an epitome of the yearly meteorological report for 1867, for which I am indebted to Professor Dove: *
 
@@ -47,9 +45,6 @@ In 1867 the difference between the highest and lowest barometrical readings was 
 
 Daily reading of the Barometer. — The mercury rises in the early morning till about 9 A.M., it then falls up to 3 or 4 P.m.; from then it rises again till 9 P.m., and then again falls till towards day-break. Both the principal atmospheric currents
 
-18
-
-more
 
 * A table of the variations in the weather, and one containing the observations taken during a period of five years (1865-1869), are given in the Appendix.
 
@@ -81,7 +76,7 @@ The changes of monsoons are often accompanied with tremendous storms; during one
 
 The Philippines are divided into provinces (P), and districts (D), each of which is administered by an alcalde of the 1st (A1), 2nd (A2), or 3rd class (A3) (de termino, de ascenso, de entrada);
 
- [blocks in formation]
+ 
 by a political and military governor (G), and by a commandant (C). In some provinces an alcalde of the 3rd class is appointed as coadjutor to the governor. These divisions are frequently changed.
 
 The population is estimated approximately at about five millions.
@@ -90,28 +85,22 @@ In spite of the long possession of the islands by the Spaniards their language h
 
 ISLAND OF LUZON.
 
-[graphic]
-[ocr errors]
-Ilocano . . . . . . 
-Bicol . . . . . . . . 
-
-.
-
-                                                 . . . 
- Tagalo, Pampango . . . . . . 
-Tagalo . . . . . . . . . . . 
-Igorrote, Ilocano, Pangasinan . . . 
-Suflin, Ilocano, Igorrote ..... 
- Tagalo . . . . . . . . . . . 
- Ibanag, Itanes, Idayan, Gaddan, Ilocano, 
-
-  Dadaya, Apayao, Malaneg. ... 
- Tagalo, Bicol ......... 
- Bicol . . . . . . . . . . 
-Spanish, Tagalo . . . . . . . . 
- Ilocano, Tinguian. ... 
- Ilocano . . . . . . . 
- Tagalo... . . . 
+Name | Dialect | Population | Pueblos
+--- | ---
+Abra | Ilocano | 34,337 | 
+Albay | Bicol
+Bataan | Tagalog, Pampango . . . . . . 
+Batangas | Tagalog . . . . . . . . . . . 
+Benguet | Igorrote, Ilocano, Pangasinan . . . 
+Bontoc | Suflin, Ilocano, Igorot
+Bulacan | Tagalog
+Cagayan | Ibanag, Itanes, Idayan, Gaddan, Ilocano, Dadaya, Apayao, Malaneg
+Camarines Norte | Tagalog, Bicol
+Camarines Sur | Bicol
+Cavite | Spanish, Tagalog
+Ilocos Norte | Ilocano, Tinguian. ... 
+Ilocos Sur | Ilocano
+| Tagalo... . . . 
  Ibanag, Gaddan, Tagalo . 
  Tagalo, Spanish . . . . 
  Igorrote, Ilocano ..... 
@@ -143,7 +132,6 @@ Tagalo, Pangasinan ......
 
 ISLANDS BETWEEN LUZON AND MINDANAO.
 
-[graphic]
 P. Antique (Panay) Bisaya . . . . .
 
 88,874 13 P. Bojól .i.. Bisaya . . . . . .
@@ -187,4 +175,8 @@ siano : : : : 17,703
 
 8,381 | 6 17,703 5 5,940 | 6
 
-The statistics of the above table are taken from a small work, by Senor Barrantes, the Secretary-General of the Philippines ; but I have arranged them differently, to render them more easily intelligible to the eye. Although Senor Barrantes had the best official materials at his disposal, too much value must not be attributed to his figures, for the sources from which he drew them are tainted with errors to an extent that can hardly be realised in Europe. For example, he derives the following contradictory statements from his official sources :—The population of Cavite is set down as 115,300 and 65,225; that of Mindoro at 45,630, and 23,054; that of Manila at 230,443, and 323,683 ; and that of Capiz at 788,947, and 191,818.
+The statistics of the above table are taken from a small work, by Senor Barrantes, the Secretary-General of the Philippines. 
+
+; but I have arranged them differently, to render them more easily intelligible to the eye. 
+
+ Although Senor Barrantes had the best official materials at his disposal, too much value must not be attributed to his figures, for the sources from which he drew them are tainted with errors to an extent that can hardly be realised in Europe. For example, he derives the following contradictory statements from his official sources :—The population of Cavite is set down as 115,300 and 65,225; that of Mindoro at 45,630, and 23,054; that of Manila at 230,443, and 323,683 ; and that of Capiz at 788,947, and 191,818.

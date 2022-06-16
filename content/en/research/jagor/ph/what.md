@@ -2,7 +2,7 @@ of climate between two hamlets situated in such close proximity to one another, 
 
 I visited a small settlement of pagan natives situated on the slope of the volcano. The people of the plains call them indifferently Ygorrotes, Cimarrons, Remontados, Infieles, or Montesinos. None of these names, however, with the exception of the two last, are appropriate ones. The first is derived from the term applied in the north of the island to the mixed descendants of Chinese and Indian parents. The word Cimarron is borrowed from the American slave colonies, where it denotes negroes who have escaped from slavery and are living in a state of freedom ; but here it is applied to natives who prefer a wild existence to the comforts of village life, which they consider are overbalanced by the servitude and bondage which accompany them. The term Remontado explains itself, and has the same signification as Cimarron. As the difference between the two states—on account of the mildness of the climate, and the ease with which the wants of the natives are supplied—is far less than it would be in Europe, these self-constituted exiles are more frequently to be met with than might be supposed ; the cause of their separation from their fellow-men sometimes being some offence against the laws, and sometimes a mere aversion to the duties and labours of village life. Every Indian has an innate inclination to abandon the hamlets and retire into the solitude of the woods, or live isolated in the midst of his own fields; and it is only the village prisons and the priests— the salaries of the latter
 
- [blocks in formation]
+ 
 are proportionate to the number of their parishioners- that pre-. vent him from gradually turning the puéblos into visitas,* and the latter into ranchos. Until a visit to other ranchos in the neighbourhood corrected my first impression, I took the inhabitants of the slopes of the Yriga for cross-breeds between Indians and negritos. The colour of their skin was not black, but a dark brown, scarcely any darker than that of Indians who have been much exposed to the sun ; and only a few of them had woolly hair. The negritos whom I saw at Angat and Marivéles knew nothing whatever about agriculture, lived in the open air, and supported themselves upon the spontaneous products of Nature; but the halfsavages of the Yriga dwell in decent huts, and-cultivate several vegetables and a little sugar-cane. No pure negritos, as far as I could ascertain, are to be met with in Camarines. A thickly populated province, only sparsely dotted with lofty hills, would be ill-suited for the residence of a nomadic hunting race ignorant of agriculture.
 
 The ranchos on the Yriga are very accessible, and their inhabitants carry on a friendly intercourse with the Indians ; indeed, if they did not, they would have been long ago exterminated. In spite of these neighbourly communications, however, they have preserved many of their own primitive manners and customs. The men go about naked with the exception of a cloth about the loins; and the women are equally unclad, some of them perhaps wearing an apron reaching from the hip to the knee.f In the larger ranchos the women were decently clad in the usual Indian fashion. Their furniture consisted of a few articles made of bamboo, a few calabashes of cocoa-nut-shell, and an earthen cooking-pot. Although the Ygorrotes are not Christians, they decorate their huts
@@ -35,7 +35,7 @@ Perrey, in the “ Mémoires de l'Académie de Dijon,” mentions another outbre
 
 * Apud Camarines quoque terram eodem die quatuor decies contremuisse, fide dignis testimoniis renuntiatum est: multa interim ædificia diruta. Ingentem montem medium crepuisse immani hiatu, ex immensa vi excussisse arbores per oras pelagi, ita ut leucam occuparent æquoris, nec humor per illud intervallum appareret. Accidit hoc anno 1628.-S. Eusebius Nierembergius, Historia Naturæ lib. xvi. 383. Antwerpiæ, 1635.
 
- [blocks in formation]
+ 
 When I was at Tambong, a small hamlet on the shore of the lake belonging to the parochial diocese of Buhi, I made a second unsuccessful attempt to reach the highest point of the Yriga. We arrived in the evening at the southern point of the crater's edge (1,041 metres above the level of the sea by my
 
 [graphic][merged small]
@@ -50,7 +50,7 @@ In the Philippines, where the fineness of the work is best understood and apprec
 
 At Buhi, which is not sufficiently sheltered towards the north* At Fort William, Calcutta, experiments have proved the extraordinary endurance of the pine-apple fibre. A cable eight centimetres in circumference was not torn asunder until a force of 2,850 kilogrammes had been applied to it.-— Report of the Jury, London International Exhibition.
 
- [blocks in formation]
+ 
 east, it rained almost as much as at Darága. I had found out from the Ygorrotes that a path could be forced through the tall canes up to the summit; but the continual rain prevented me; so I resolved to cross the Malináo, returning along the coast to my quarters, and then, freshly equipped, descend the river Bícol as far as Nága.
 
 Before we parted the Ygorrotes prepared for me some arrow poison from the bark of two trees. I happened to see neither the leaves nor the blossoms, but only the bark. A piece of bark was beaten to pieces, pressed dry, wetted, and again pressed. This was done with the bare hand, which, however, sustained no injury. The juice thus extracted looked like pea-soup, and was warmed in an earthen vessel over a slow fire. During the process it coagulated at the edges; and the coagulum was again dissolved, by stirring into the boiling fluid mass. When this had reached the consistency of syrup, a small quantity was scraped off the inner surface of a second piece of bark, and its juice squeezed into the vessel. This juice was a dark brown colour. When the mass had attained the consistency of a thin jelly, it was scraped out of the pot with a chip and preserved on a leaf sprinkled with ashes. For poisoning an arrow they use a piece of the size of a hazel-nut, which, after being warmed, is distributed uniformly over the broad iron point; and the poisoned arrow serves for repeated use.
@@ -63,7 +63,7 @@ mass
 
 when stretched out than a linen thread, are extraordinarily active. They attach themselves firmly to every part of the body, penetrating even into the nose, the ears, and the eyelids, where, if they remain unobserved, they gorge themselves to such excess that they become as round as balls and look like small cherries. While they are sucking no pain is felt; but afterwards the spots attacked often itch the whole day long. * In one place the wood consisted for the most part of fig-trees, with bunches of fruit quite six feet in length hanging from the stems and the thicker branches; and between the trees grew ferns, aroids, and orchids. After nearly six hours' toil we reached the pass (841 metres above the sea level), and descended
 
-[merged small][ocr errors]
+[merged small]
 The point a, as visible from Tibi, lies S. 49° 7'; b, 54° 8'; 2, 64° 2 ; e, 67° W.; the cavity C,
 
 S. 59° 5' W.
@@ -80,7 +80,7 @@ distinct crater. From the lake of Buhi it is not so clearly distinguishable.
 
 Not far from Tibi, exactly north-east of Malináo, we found a small hot spring called Igabó. In the middle of a plot of turf encircled by trees was a bare spot of oval form, nearly 100 paces long and 70 wide. The whole space was covered with stones, rounded by attrition, as large as a man's head and larger. Here and there hot water bubbled out of the ground and discharged into a little brook; at which some women were engaged in cooking their food, which they suspended in nets in the hottest parts of the water. On the lower surfaces of some of the stones a little sulphur was sublimated ; of alum hardly a trace was perceptible.
 
-[graphic][ocr errors][merged small][merged small]
+[merged small][merged small]
 From here I visited the stalactite springs, not far distant, of Naglegběng.* I had expected to see a calcareous fountain, but found the most magnificent masses of silica of infinite variety of form ; shallow cones with cylindrical summits, pyramidal flights of steps, round basins with ribbed margins, and ponds of boiling water. One spot, denuded of trees, from two to three hundred paces in breadth and about five hundred in length, was, with the exception of a few places overgrown with turf, covered with a crust of silicious dross, which here and there formed large connected areas, but was generally broken up into flaky plates by the vertical springs which pierced it. In numerous localities boiling hot mineral water
 
 * Gemelli Careri has already mentioned them.

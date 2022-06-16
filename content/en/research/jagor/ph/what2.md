@@ -1,3 +1,5 @@
+
+
 as the Grand Turk. Tbis may be true of the native padres; but I myself never saw, in any of the households of the numerous Spanish priests I visited, anything that could possibly cause the least breath of scandal. Their servants were exclusively men, though perhaps I may have noticed here and there an old wo'nan or two. Ribadeneyra says :-“ The Indians, who observe how careful the Franciscan monks are of their chastity, have arrived at the conclusion that they are not really men, and that, though the devil had often attempted to lead these holy men astray, using the charms of some pretty Indian girl as a bait, yet, to the confusion of both damsel and devil, the monks had always come scathless out of the struggle.” * Ribadeneyra, however, is not an over-reliable author; and, if his physiological mistakes are as gross as his geographical ones (he says somewhere that Luzon is another name for the island of Cebu !), the monks are not perhaps as fireproof as he supposes. At any rate, his description does not universally apply nowadays. The younger priests pass their existence like the lords of the so:l of old; the young girls consider it an honour to be allowed to associate with them; and the padres in their turn find many convenient opportunities. They have no jealous wives to pry into their secrets, and their position as confessors and spiritual advisers affords them plenty of pretexts for being alone with the women.† The confessional, in particular, must be a perilous rock-a-head for most of them. In an appendix to the “ Tagal Grammar" (which, by-the-bye, is not added to the editions sold for general use) a list of questions is given for the convenience of young priests not yet conversant with the Tagal language. These questions are to be asked in the confessional, and several pages of them relate exclusively to the relations between the sexes.
 
 • History of the Islands.
@@ -24,7 +26,7 @@ Nowadays men with some knowledge of the law are sent out to the Philippines as a
 
 + St. Croix.
 
-[ocr errors]
+
 .
 
 A CHINESE COMPARISON.

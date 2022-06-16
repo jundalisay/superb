@@ -8,8 +8,8 @@ linkb: "/research/jagor/ph"
 linkbtext: "Index"
 linkf: "/research/jagor/ph"
 linkftext: "Index"
-author: Juan
-icon: /icons/spmat.png
+author: Jagor
+icon: /graphics/flag.png
 ---
 
 
@@ -23,7 +23,7 @@ I set out on the 25th of September and passed the night, by the advice of Señor
 
 + I learnt from Mr. Paton that the undertaking had also been represented as impracticable in Albáy. “Not a single Spaniard, not a single native had ever succeeded in reaching the summit; in spite of all their precautions they would certainly be swallowed up in the sand.” However, one morning about five o'clock, they set off, and soon reached the foot of the cone of the crater. Accompanied by a couple of natives, who soon left them, they began to make the ascent. Resting half way up, they noticed frequent masses of shining lava, thrown from the mouth of the crater, gliding down the mountain. With the greatest exertions they succeeded, between two and three o'clock, in reaching the summit; where, however, they were prevented by the noxious gas from remaining more than two or three minutes. During their descent, they restored their strength with some refreshments Señor Muñoz had sent to meet them; and they reached Albáy towards evening, where during their short stay they were treated as heroes, and presented with an official certificate of their achievement, for which they had the pleasure of paying several dollars.
 
- [graphic][ocr errors][ocr errors][subsumed][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][subsumed][subsumed][ocr errors][subsumed][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][ocr errors][subsumed][ocr errors][ocr errors][ocr errors][subsumed][ocr errors][merged small]
+ [subsumed][subsumed][subsumed][subsumed][subsumed][subsumed][merged small]
 ASCENT OF A VOLCANO.
 
 91

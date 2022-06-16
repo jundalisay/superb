@@ -91,13 +91,18 @@ Thus, the plants should be removed after the second year and new ones grown. Dha
 
 The indigenous, suryamukhi and dhani lanka varieties are all summer varieties of green chilli. There is also a red winter variety which is often dried and made into powder. Chilli can also be made into a spicy sauce.
 
-### Turmeric (Halud)
+## Turmeric (Halud)
 
-Turmeric is commonly made into powder and used as a spice. When taken raw, it is poisonous. It should be taken only after it has been processed in cow dung water. Raw turmeric can be converted into sunte halud by boiling it with cow dung. Turmeric requires half sun and half shade. The best turmeric tubers are found in Patna.
+Turmeric is commonly made into powder and used as a spice. 
+
+When taken raw, it is poisonous. It should be taken only after it has been processed in cow dung water. Raw turmeric can be converted into sunte halud by boiling it with cow dung. 
+
+**Turmeric requires half sun and half shade.** The best turmeric tubers are found in Patna.
+
 
 ## Radish (Mula)
 
-Radish is a 45 to 60 day crop. Its came from Japan. It first came to India 3,000 years ago. 
+Radish is a 45-60 day crop. Its came from Japan. It first came to India 3,000 years ago. 
 
 It has less food value than potato, although it is rich in mineral salts and is good for the blood. 
 
@@ -119,7 +124,7 @@ Radish oil is pungent, like mustard oil. Radish oil cake makes a good manure. If
 
 Radish can be grown as a blended crop with potato and other crops. The root is not wide, so it can be grown with a tuber such as potato without disturbing it.
 
-The soil for growing radish should have a very light texture. Sandy alluvial soil is good, but it should contain a lot of calcium. 
+The soil for growing radish should have a very light texture. Sandy alluvial soil is good, **but it should contain a lot of calcium.** 
 
 Radish require 1 tilling. In Guazipur and Juanpur radish grows quite large. Radish seedlings should be planted in such a way that the roots go straight down.
 

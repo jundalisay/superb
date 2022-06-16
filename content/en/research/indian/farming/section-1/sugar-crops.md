@@ -42,29 +42,57 @@ Research should be done on these and other sugar crops to make them commercially
 
 ## Sugar Cane
 
-Sugar cane is a member of the grass group. The long canes are simply peeled and chewed to extract the sweet juice. Mechanical methods of extracting the juice are also used. Previously, sugar cane was sown in Kárttika, but now early varieties can be grown in the month of Phálguna. It is preferable if sugar cane is planted in the month of Phálguna. The cuttings must be brought from at least 20 kilometres away or the crop will be prone to pests and disease. Solid molasses or gur may be prepared from sugar cane. 
+Sugar cane is a member of the grass group. 
 
-Country sugar can also be made, as well as sugar candy. Research should be done on the early varieties of sugar cane, which take five to six months to grow, to see if the cane can be grown in a shorter period of time. Also, sweet varieties of sugar cane should be grown wherever possible. Good varieties are available from Coimbatore, Fiji and Mauritius.
+The long canes are simply peeled and chewed to extract the sweet juice. Mechanical methods of extracting the juice are also used. 
+
+Previously, sugar cane was sown in Kárttika. But now, early varieties can be grown in the month of Phálguna, which is its ideal planting month. 
+
+**The cuttings must be brought from at least 20 kilometres away or the crop will be prone to pests and disease.** Solid molasses or gur may be prepared from sugar cane. 
+
+Country sugar can also be made, as well as sugar candy. 
+
+Research should be done on the early varieties of sugar cane, which take 5-6 months to grow, to see if the cane can be grown in a shorter period of time.
+
+Also, sweet varieties of sugar cane should be grown wherever possible. Good varieties are available from Coimbatore, Fiji and Mauritius.
 
 
 ## Sugar Beet
 
-Sugar beet is a root crop. During the last world war, the sugar supply to Germany from Mauritus and India was blocked, so sugar beet was used as a substitute for sugar cane. Elephantum potato (khámálu) and elephant root yam (ol) have more food value than sugar beet, but they take longer to grow.
+Sugar beet is a root crop. During World War 2, the sugar supply to Germany from Mauritus and India was blocked, so sugar beet was used as a substitute for sugar cane. 
+
+Elephantum potato (khámálu) and elephant root yam (ol) have more food value than sugar beet, but they take longer to grow.
+
 
 ## Sweet Potato
 
-Sweet potato is a creeping tuber. It can be planted among many other plants, including fruit trees. It grows very well with bamboo because it can climb the bamboo poles.
+Sweet potato is a creeping tuber. It can be planted among many other plants, including fruit trees. **It grows very well with bamboo because it can climb the bamboo poles.**
 
 There are two main varieties of sweet potato:
 - sweet juice potato (sháṋkálu)
 - sweet potato (miśt́i álu, rángálu, shakkarkand)
 
-Where sweet potatoes are grown, the land may also be used for the cultivation of bamboo, sugar cane, banana and papaya. The early variety of sweet potato should be grown from Áshvina to Agraháyańa, and the late variety from Paoś to Phálguna. Almost any space between two other plants can be used to grow sweet juice potato from the month of Áshvina to Phálguna.
+Where sweet potatoes are grown, the land may also be used for the cultivation of bamboo, sugar cane, banana and papaya. 
+
+The early variety of sweet potato should be grown from Áshvina to Agraháyańa. The late variety from Paoś to Phálguna. 
+
+Almost any space between two other plants can be used to grow sweet juice potato from the month of Áshvina to Phálguna.
+
 A good quality solid molasses can be produced from sweet juice potato. Dehydrated sweet potato powder can also be made.
+
 
 ## Date Palm (Khejur)
 
-Several palms produce juices which can be converted into sugar. Solid molasses (gur), country sugar and half concentrated juice (used as a beverage) can all be prepared from date palm. The Bengal variety of date palm is not good as a food, but it is excellent for producing plant juice from which we can get good quality solid date palm molasses (khejur gur) and date palm sugar (chini). The juice produced on our farming projects should not be used for preparing fermented juice (khejur tadi). Date palm molasses is 125 times more substantial than refined sugar, but for diabetics, refined sugar is more harmful than molasses.
+Several palms produce juices which can be converted into sugar.
+
+Solid molasses (gur), country sugar and half concentrated juice (used as a beverage) can all be prepared from date palm. 
+
+The Bengal variety of date palm is not good as a food, but it is excellent for producing plant juice from which we can get good quality solid date palm molasses (khejur gur) and date palm sugar (chini). 
+
+The juice produced on our farming projects should not be used for preparing fermented juice (khejur tadi). 
+
+Date palm molasses is 125 times more substantial than refined sugar. For diabetics, refined sugar is more harmful than molasses.
+
 
 ## Indian Palmyra
 
@@ -97,6 +125,7 @@ Salt Lake was named after the salty water in eastern Calcutta, and Gol Park deri
 
 ## Indian Olive (Mahuá, Mahul)
 
-Indian olive is important both as an oil crop and as a sugar crop. The source of sugar in Indian olive is the flowers, from which solid molasses is made, and this can be refined into sugar. The dehydrated flowers can also be made into flour.
+Indian olive is important both as an oil crop and as a sugar crop. 
 
+The source of sugar in Indian olive is the flowers, from which solid molasses is made, and this can be refined into sugar. The dehydrated flowers can also be made into flour.
 

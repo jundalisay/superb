@@ -82,17 +82,3 @@ Bee boxes can be located near oil-seeds, flower gardens, neem trees, Indian oliv
 
 Floral nectar can be collected directly from some special flowers which naturally produce honey. More research on all kinds of floral honey should be done.
 
-
-## Dairy Farming
-
-Dairy farming includes milk production from dairy cows, goats, sheep and buffaloes. Milk powder and dehydrated curd should also be produced. Animals are not to be sold for slaughter.
-
-
-## Pisciculture
-
-Fish should be cultivated in lakes, dams and ponds because they help conserve and purify the water. 
-
-Small fish can also be cultivated in the paddy fields during the rainy season. 
-
-Fish are the natural food of birds, so they are an essential part of a balanced ecology.
-

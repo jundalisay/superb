@@ -20,16 +20,17 @@ The [previous post](/maharlika/economics/dutertenomics) explained the problem wi
 
 The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/law-social-cycles). That class is made up of business and monied interests.
 
-Class | Example
---- | ---
-Merchants | Businessmen, Banks, Traders
-Populists | Workers, Employees, General labor (Farm labor, fishermen, maids, etc)
-Militants | Government, Military, Police
-Philosophers | Universities, Researchers, Inventors, Religions 
+Class | Socratic Name | Hindu Name | Example
+--- | --- | --- | ---
+Merchants | Oligarchs "The Few" | Vaesya | Businessmen, Banks, Traders
+Populists | Democrats "The Many" | Shudra | Workers, Employees, General labor (Farm labor, fishermen, maids, etc)
+Militants | Tyrants | Ksattriya | Government, Military, Police
+Philosophers | Aristocrats "The Best" | Brahmin | Universities, Researchers, Inventors, Religions 
 
 
+A society needs all 4 classes to be in good shape just as a human body needs all its organs working properly. A weakness in one organ leads to disease or even death. 
 
-With the 3 classes weakened, the Philippine economy easily collapsed after Covid struck. To get back on its feet, it had to incur a huge Php 12 trillion debt.
+With the 3 classes weakened, the Philippine economy easily collapsed after pandemic struck. To get back on its feet, it had to incur a huge Php 12 trillion debt.
 
 The debt is in money which is the expertise of the monied interests. **Thus, the solution to the problem created by the merchant class is also facilitated by that same merchant class.** 
 
@@ -91,6 +92,12 @@ These 2 phenomena stifle the natives (populist class) who end up as:
 - lowly call center agents
 
 This is very different from advanced countries which are the employers of those OFWs and call center agents. 
+
+
+{{< q >}}
+The populations whom the Spaniards have conyerted to Catholicism have lost all originality, all sense of nationality.
+<cite>Jagor, Travels in the Philippines Simplified 1869</cite>
+{{< /q >}}
 
 
 ## The Maharlikan Plan 

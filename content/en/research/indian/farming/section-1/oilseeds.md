@@ -36,13 +36,15 @@ Some of the better known oil seeds are:
 - peanut (ciná bádám)
 - sesame (til)
 - linseed (tisi)
-- mustard (sarśe, sariśá). The varieties include:
+- mustard (sarśe, sariśá)
+<!--  The varieties include:
 rái
 yellow mustard
-red mustard (tori sarśe)
-cotton. The varieties include:
+red mustard (tori sarśe) -->
+- cotton
+<!-- The varieties include:
 three year cotton (gách kápás)
-three month cotton (chás kápás)
+three month cotton (chás kápás) -->
 sargujá (niger)
 castor (erańd́a, ŕeŕi, Ricinus communis). The varieties include:
 wild castor (bhereńd́a)

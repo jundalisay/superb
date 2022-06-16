@@ -114,13 +114,21 @@ After the seeds have been planted they should be watered, and thereafter, they s
 
 Healthy broccoli plants five to six feet tall can be grown in Calcutta, but they will not produce seeds. Research should be done to develop varieties which will produce seeds in the warm climate of Bengal.
 
+
 ## Carrot
 
-Carrot grows very well in the fertile land on either side of the Ganges, and is a very rich food. To cultivate carrot, the field should be ploughed four times by tractor in the month of Áshvina. Dried cow dung or organic compost should be used as fertilizer. The seeds should be soaked in water for twelve hours and then properly dried before they are sown in the field. The crop can be harvested in the last week of Paoś or the first week of Mágha. Carrot is like broccoli in that it will grow in the warm weather of Calcutta, but will not produce seeds. So research should be done to develop varieties which will produce seeds in warm climates.
+Carrot grows very well in the fertile land on either side of the Ganges, and is a very rich food. To cultivate carrot, the field should be ploughed four times by tractor in the month of Áshvina. Dried cow dung or organic compost should be used as fertilizer. 
+
+The seeds should be soaked in water for twelve hours and then properly dried before they are sown in the field. 
+
+The crop can be harvested in the last week of Paoś or the first week of Mágha. Carrot is like broccoli in that it will grow in the warm weather of Calcutta, but will not produce seeds. So research should be done to develop varieties which will produce seeds in warm climates.
+
 
 ## Greens (Shák)
 
-There are various green leafy vegetables called shák in Bengali, including lal shák (tampala or Amaranthus tricolor, L.), pui (spinach), palak shák or palang shák (beetroot, Beta vulgaris), summer shák (known as “Gandhari tandularak” in Saḿskrta), etc. Green leafy vegetables contain many vitamins and minerals, but are most important as a rich source of chlorophyll. Summer shák grows very well wherever rice water is thrown onto the soil. Other varieties of shák should be sown wherever there is enough water, such as beside water pumps, to utilize the water and every inch of land.
+There are various green leafy vegetables called shák in Bengali, including lal shák (tampala or Amaranthus tricolor, L.), pui (spinach), palak shák or palang shák (beetroot, Beta vulgaris), summer shák (known as “Gandhari tandularak” in Saḿskrta), etc. 
+
+Green leafy vegetables contain many vitamins and minerals, but are most important as a rich source of chlorophyll. Summer shák grows very well wherever rice water is thrown onto the soil. Other varieties of shák should be sown wherever there is enough water, such as beside water pumps, to utilize the water and every inch of land.
 
 
 
@@ -157,6 +165,7 @@ All-season vegetables include:
 - okra (bhindi, dhenrash)
 
 Many varieties of gourd, pumpkin and cucumber are creeping vegetables as well as all-season vegetables, and are discussed in the section on creeping vegetables. Lady’s finger is also a fibre crop and is discussed in that section.
+
 
 ### Chal Kumŕá
 

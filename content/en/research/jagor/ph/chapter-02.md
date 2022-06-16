@@ -7,54 +7,104 @@ linkb: "/research/jagor/ph"
 linkbtext: "Index"
 linkf: "/research/jagor/ph"
 linkftext: "Index"
-author: Juan
-icon: /icons/spmat.png
+author: Jagor
+icon: /graphics/flag.png
 ---
 
-THE ordeal at the custom-house, and the many formalities which the native minor officials exercised without any attempt at discretion, appeared all the more wearisome to me when contrasted with the easy routine of the English free ports of the east I had just quitted. The guarantee of a respectable merchant obtained for me, as a particular favour, the permission to disembark after a detention of sixteen hours ; 
+The Manila custom-house requires many formalities which the native minor officials exercised without  discretion. This is:
+- different from the easy routine of the English free ports in Asia which I had just came from
+- wearisome to me. 
+
+A respectable merchant obtained for me a guarantee, as a particular favour, to have permission to disembark after a detention of 16 hours.
 
 but even then I was not allowed to take the smallest article of luggage on shore with me. During the south-west monsoon and the stormy season that accompanies the change of monsoons, the roadstead is unsafe. 
 
-Vessels are then obliged to seek protection in the port of Cavite, seven miles further down the coast ; but during the north-east monsoons they can safely anchor half a league from the coast. All ships under 300 tons burden pass the breakwater and enter the Pasig, where, as far as the bridge, they lie in serried rows, extending from the shore to the middle of the stream, and bear witness by their numbers, as well as by the bustle and stir going on amongst them, to the activity of the home trade.
+Vessels are then obliged to seek protection in the port of Cavite, 7 miles further down the coast ; but during the north-east monsoons they can safely anchor half a league from the coast. 
 
-The small number of the vessels in the roadstead, particularly of those of foreign countries, was the more remarkable, as Manila was the only port in the Archipelago that had any commerce with foreign countries.
+All ships under 300 tons burden pass the breakwater and enter the Pasig, where, as far as the bridge, they lie in serried rows, extending from the shore to the middle of the stream, and bear witness by their numbers, as well as by the bustle and stir going on amongst them, to the activity of the home trade.
 
-Since 1855, three other ports, to which a fourth may now be added, have laid claim to this distinction ; but at the time of my arrival, in March, 1859, not one of them had ever been entered by a foreign vessel, and it was a few weeks after my visit that the first English ship sailed into Iloilo to take in a cargo of sugar for Australia.*
+The few ships in the roadstead, particularly of those of foreign countries, was the more remarkable, as Manila was the only port in the Philippines that had any commerce with foreign countries.
 
-The reason of this peculiarity laid partly in the feeble development of agriculture, in spite of the unexampled fertility of the soil, but chiefly in the antiquated and artificially limited conditions of trade. 
+Since 1855, foreign trade could be done at 4 ports. But at during my arrival in March 1859, none of them had accepted a foreign ship. It was a few weeks after my visit that the first English ship sailed into Iloilo to take in a cargo of sugar for Australia.*
 
-The customs duties were in themselves not very high. They were generally about seven per cent. upon merchandise conveyed under the Spanish flag, and about twice as much for that carried in foreign bottoms. When the cargo was of Spanish production, the duty was three per cent. if carried in national vessels, eight per cent. if in foreign ships. The latter were only allowed, as a rule, to enter the port in ballast. f
+* The opening of Iloiilo proved so advantageous that I intended to have given a few interesting details of its trade in a separate chapter, chiefly gathered from the verbal and written remarks of the English Vice-Consul, the late Mr. N. Loney, and from other consular reports.
+
+This is because of:
+- the feeble development of agriculture, despite the unexampled soil fertility  
+- chiefly the antiquated and artificially limited conditions of trade. 
+
+The customs duties were not very high at:
+- 7% on merchandise carried by Spanish ships 
+- about twice for foreign ships. 
+
+Spanish products have a duty of:
+- 3% if carried in Spanish ships
+- if in foreign ships. 
+
+The latter were only allowed, as a rule, to enter the port in ballast.
 
 As, however, the principal wants of the colony were imported from England and abroad, these were either kept back till an opportunity occurred of sending them in Spanish vessels, which charged nearly a treble freight (from £4 to £5 instead of from £1} to £2 per ton), and which only made their appearance in British ports at rare intervals, or they were sent to Singapore and Hongkong, where they were reshipped under the Spanish flag. Tonnage dues were levied, moreover, upon ships in ballast, and upon others which merely touched at Manila without unloading or
-
-* The opening of this port proved so advantageous that I intended to have given a few interesting details of its trade in a separate chapter, chiefly gathered from the verbal and written remarks of the English Vice-Consul, the late Mr. N. Loney, and from other consular reports.
 
 † In 1868 112 foreign vessels, to the aggregate of 74,054 tons, and Spanish ships to the aggregate of 26,762 tons, entered the port of Manila. Nearly all the first came in ballast, but left with cargoes. The latter both came and left in freight. (English Consul's Report, 1869.)
 
 
 ## FORMER CUSTOMS DUTIES
 
-taking in fresh cargo; and if a vessel under such circumstances landed even the smallest parcel, it was no longer rated as a ship in ballast, but charged on the higher scale. Vessels were therefore forced to enter the port entirely devoid of cargo, or carrying sufficient to cover the expense of the increased harbour dues ; almost an impossibility for foreign ships, on account of the differential customs rates, which acted almost as a complete prohibition. The result was that foreign vessels came there only in ballast, or when summoned for some particular object.
+taking in fresh cargo; and if a vessel under such circumstances landed even the smallest parcel, it was no longer rated as a ship in ballast, but charged on the higher scale. 
 
-The exports of the colony were almost entirely limited to its raw produce, which was burdened with an export duty of three per cent. Exports leaving under the Spanish flag were only taxed to the amount of one per cent.; but, as scarcely any export trade existed with Spain, and as Spanish vessels, from their high rates of freight, were excluded from the carrying trade of the world, the boon to commerce was a delusive one.*
+Vessels were therefore forced to enter the port entirely devoid of cargo, or carrying sufficient to cover the expense of the increased harbour dues ; almost an impossibility for foreign ships, on account of the differential customs rates, which acted almost as a complete prohibition. 
 
-These eccentric excise laws, hampered with a hundred suspicious forms, frightened away the whole carrying trade from the port; and its commission merchants were frequently unable to dispose of the local produce. So trifling was the carrying trade that the total yearly average of the harbour dues, calculated from the returns of ten years, barely reached 10,000 dollars.
+The result was that foreign vessels came there only in ballast, or when summoned for some particular object.
 
-The position of Manila, a central point betwixt Japan, China, Annam, the English and Dutch ports of the Archipelago and Australia, is in itself extremely favourable to the development of a world-wide trade.* At the time of the north-eastern monsoons, during our winter, when vessels for the sake of a fair wind pass through the Straits of Gilolo on their way from the Indian Archi
+Philippine exports were almost entirely limited to its raw produce, burdened with an export duty of 3%.
 
-* In 1868 the total exports amounted to 14,013,108 dollars; of this England alone accounted for 4,857,000 dollars, and the whole of the rest of Europe for only 102,477 dollars. The first amount does not include the tobacco duty paid to Spain by the colony, 3,169,144 dollars. (English Consul's Report, 1869.)
+Exports leaving under the Spanish flag were only taxed at 1%. But there was scarcely any export trade with Spain, and as Spanish vessels, from their high rates of freight, were excluded from the carrying trade of the world, the boon to commerce was a delusive one.*
+
+These eccentric excise laws, hampered with a hundred suspicious forms, frightened away the whole carrying trade from Manila. Its commission merchants were frequently unable to dispose of the local produce. 
+
+So trifling was the carrying trade that the total yearly average of the harbour dues, calculated from the returns of 10 years, barely reached 10,000 dollars.
+
+The position of Manila, a central point between Japan, China, Annam, the English and Dutch ports of the Archipelago and Australia, is in itself extremely favourable to world trade.* 
+
+At the time of the north-eastern monsoons, during our winter, when vessels for the sake of a fair wind pass through the Straits of Gilolo on their way from the Indian Archipelago to China, they are obliged to pass close to Manila. They would find it a most convenient station, for the Philippines, as we have already mentioned, are particularly favourably placed for the west coast of America.
+
+Destination 1868 | Value in dollars
+--- | ---
+England | 4,857,000
+Rest of Europe | 102,477
+Tobacco to Spain | 3,169,144
+Total | 14,013,108
+
+<!-- The first amount does not include the tobacco duty paid to Spain by the colony,  dollars. (English Consul's Report, 1869.) -->
 
 † Lapérouse said that Manila was perhaps the most fortunately situated city in the world.
 
-pelago to China, they are obliged to pass close to Manila. They would find it a most convenient station, for the Philippines, as we have already mentioned, are particularly favourably placed for the west coast of America.
 
-The important decree—important, that is to say, for the future of the colony-issued on the 5th of April, 1869, and which would have appeared sooner had not the Spanish and colonial shipowners, spoilt by the protective system, obstinately opposed any innovation which touched the privileges they had hitherto enjoyed, and compelled them to be more energetic, proves that the colonial ministry was perfectly aware of these circumstances, and had drawn their own conclusions.
+An important decree was issued on April 5, 1869 which:
+- reduced the differential duties and removed them after 2 years
+- abrogated all export duties
+- consolidated the more annoying port dues into one single charge
 
-The most noteworthy points of the decree are the moderation of the differential duties, and their entire extinction at the expiration of two years; the abrogation of all export duties; and the consolidation of the more annoying port dues into one single charge.
+It:
+- would have appeared sooner had not the Spanish and colonial shipowners, spoilt by the protective system, opposed anything which touched their privileges
+- proves that the colonial ministry was aware of these circumstances
 
-When the Spaniards landed at the Philippines they found the inhabitants clad in silks and cotton stuffs, which were imported from China in exchange for gold-dust, sapan wood,* holothurian, edible birds' nests, and skins.f The islands were also in communication with Japan, Cambodia, Siam, # the Moluccas, and the Malay Archipelago. De Barros mentions that vessels from Luzon visited Malacca in 1511.3
+When the Spaniards landed at the Philippines they found the inhabitants clad in silks and cotton stuffs, which were imported from China in exchange for:
+- gold-dust
+- sapan wood*
+- holothurian
+- edible birds' nests
+- skins. 
 
-* Sapan or sibucao, Cæsalpinia Sapan. Pernambuco or Brazil wood, to which the empire of Brazil owes its name, comes from the Casalpinia echinata and the Cæsalpinia Braziliensis. (The oldest maps of America remark of Brazil: “ Its only useful product is Brazil (wood).") The sapan of the Philippines is richer in dye stuff than all other eastern woods, but it ranks below the Brazilian sapan. It has nowadays lost its reputation, owing to its being often stupidly cut down too early. It is sent especially to China, where it is used for dyeing or printing in red. The stuff is first macerated with alum, and then for a finish dipped in a weak alcoholic solution of alkali. The reddish brown tint so frequently met with in the clothes of the poorer Chinese is produced from sapan.
+The Philippines was also in communication with Japan, Cambodia, Siam, the Moluccas, and the Malay Archipelago. De Barros mentions that vessels from Luzon visited Malacca in 1511.3
+
+* Sapan or sibucao, Cæsalpinia Sapan. Pernambuco or Brazil wood, to which the empire of Brazil owes its name, comes from the Casalpinia echinata and the Cæsalpinia Braziliensis. (The oldest maps of America remark of Brazil: “ 
+
+Its only useful product is Brazil (wood).") 
+
+The sapan of the Philippines is richer in dye stuff than all other eastern woods, but it ranks below the Brazilian sapan. It has nowadays lost its reputation, owing to its being often stupidly cut down too early. 
+
+It is sent especially to China, where it is used for dyeing or printing in red. The stuff is first macerated with alum, and then for a finish dipped in a weak alcoholic solution of alkali. The reddish brown tint so frequently met with in the clothes of the poorer Chinese is produced from sapan.
 
 + An interesting catalogue of the Chinese imports is given in the Appendix.
 
@@ -205,13 +255,18 @@ I A very good description of these voyages may be found in the 10th chapter of A
 
 captured and burnt in 1586 off the Californian coast : “Our people suiled so carelessly that they used their guns for ballast the pirate's venture was such a fortunate one that he returned to London with sails of Chinese damask and silken rigging." 
 
-The cargo was sold in Acapulco at a profit of 100 per cent., and was paid for in silver, cochineal, quicksilver, &c. The total value of the return freight amounted perhaps to between two and three million dollars,* of which a quarter of a million, at least, fell to the king
+The cargo was sold in Acapulco at a 100% profit and was paid for in silver, cochineal, quicksilver, etc. 
+
+The total value of the return freight was between 2-3 million dollars,* of which at least 0.25 million went to the king.
 
 The return of a galleon to Manila, laden with silver dollars and new arrivals, was a great holiday for the colony. A con
 
 gaming table, was soon spent by the crew; when matters returned to their usual lethargic state. It was no unfrequent event, however, for vessels to be lost. They were too often laden with a total disregard to seaworthiness, and wretchedly handled by officers who disobeyed their orders and set caution at defiance. 
 
-It was favour not capacity that determined the patronage of these lucrative appointments.† Many galleons fell into the hands of English and Dutch cruisers. But these tremendous profits gradually decreased when the Compania (as it did later) obtained the right to import Indian cottons, one of the principal articles of trade, into New Spain by way of Vera Cruz, subject to a customs duty of 6 per cent.; and when English and American adventurers began to smuggle these and other goods into the
+It was favour, not capacity, that determined the patronage of these lucrative appointments.† 
+
+Many galleons fell into the hands of English and Dutch cruisers. But these tremendous profits gradually decreased when the Compania obtained the right to import Indian cotton into New Spain by way of Vera Cruz, subject to a 6% customs duty  and when English and American adventurers began to smuggle these and other goods into the country.* 
+
 
 • De Guignes.
 
@@ -219,8 +274,8 @@ It was favour not capacity that determined the patronage of these lucrative appo
 
 I The value of the cargoes Anson captured amounted to 1,313,000 dollars, besides 36,682 ounces of fine silver and cochineal. While England and Spain were at peace, Drake plundered the latter to the extent of at least one and a half million of dollars. Thomas Candish burnt the rich cargo of the Santa Anna, as he had no room for it on board his own vessel.
 
-country.* This chapter may end with the remark that Spanish dollars found their way in the galleons to China and the further Indies, where they are in circulation to this day.
-
-. For instance, in 1786 the San Andrés, which had a cargo on board valued at a couple of millions, found no market for it in Acapulco; the same thing happened in 1787 to the San José, and a second time in 1789 to the San Andrés.
 
 
+. For instance, in 1786 the San Andrés, which had a cargo on board valued at 2 million, found no market for it in Acapulco. The same thing happened in 1787 to the San José, and a second time in 1789 to the San Andrés.
+
+Spanish dollars found their way to China and the further Indies through the galleons, where they circulate to this day.

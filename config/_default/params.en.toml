@@ -3,18 +3,22 @@ isQuirksMode = true     # set value to true will throw error as warning when bui
 contact_form =  "https://hub.pantrypoints.com/api/email"
 
 [latests]
+    [latests.a]
+        title = "Moneyless Maharlikan System to Solve Stagflation"
+        url = "/maharlika/economics/maharlika-2050"
+        img = "/graphics/flag.png"
+    [latests.b]
+        title = "Alternative to General Relativity"
+        url = "/material/fallacies/general-relativity"
+        img = "/graphics/physics/general.jpg"
+    # [latests.b]
+    #     title = "The Covid Star"
+    #     url = "/medical/physical/solutions/covid-flu-star"
+    #     img = "/photos/physics/star.jpg"
     [latests.c]
         title = "How to Fix Russia and Ukraine"
         url = "/social/cycles/russia"
         img = "/flags/ua.png"
-    [latests.a]
-        title = "Alternative to General Relativity"
-        url = "/material/fallacies/general-relativity"
-        img = "/graphics/physics/general.jpg"
-    [latests.b]
-        title = "The Covid Star"
-        url = "/medical/physical/solutions/covid-flu-star"
-        img = "/photos/physics/star.jpg"
     [latests.d]
         title = "How to Fix Afghanistan"
         url = "/social/cycles/afghanistan"

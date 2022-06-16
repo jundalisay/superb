@@ -52,23 +52,3 @@ If there is lack of cooperation among the three, the river water coming from the
 Magadh is in a relatively convenient position as both the hill and plain stages of its rivers are in Magadh.
 
 
-## Appendix: The Bengali Calendar
-
-The months in the Bengali calendar are:
-
-_# | Name | Months
---- | ---
-1 | Vaeshákha | mid-April to mid-May
-2 | Jyaeśt́ha  | mid-May to mid-June
-3 | Aśádha | mid-June to mid-July
-4 | Shrávańa | mid-July to mid-August
-5 | Bhádra | mid-August to mid-September
-6 | Áshvina | mid-September to mid-October
-7 | Kárttika |  mid October to mid November
-8 | Agrahayańa | mid November to mid December
-9 | Pauśa | mid December to mid January
-10 | Mágha | mid January to mid February
-11 | Phálguna | mid February to mid March
-12 | Caetra | mid March to mid April
-
-The Bengali calendar is based on the cycles of the moon. Detailed research needs to be done to make all calendars more accurate. This will make farming more scientific and increase productivity.

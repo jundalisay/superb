@@ -7,6 +7,6 @@ linkb: "/research/jagor/ph"
 linkbtext: "Index"
 linkf: "/research/jagor/ph"
 linkftext: "Index"
-author: Juan
-icon: /icons/spmat.png
+author: Jagor
+icon: /graphics/flag.png
 ---

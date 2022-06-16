@@ -8,8 +8,8 @@ linkb: "/research/jagor/ph"
 linkbtext: "Index"
 linkf: "/research/jagor/ph"
 linkftext: "Index"
-author: Juan
-icon: /icons/spmat.png
+author: Jagor
+icon: /graphics/flag.png
 ---
 
 
@@ -67,7 +67,7 @@ candied in the same manner as the kernel of the sweet pine, which it resembles i
 
 bot.,
 
- [blocks in formation]
+ 
 diminishing year by year, and, until a short time ago, when the French laid out several large plantations in Central America, were of but trifling value. According to F. Engel, a flourishing cacao plantation requires less outlay and trouble, and yields more profit than any other tropical plant; yet its harvests, which do not yield anything for the first five or six years, are very uncertain, owing to the numerous insects which attack the plants. In short, cacao plantations are only suited to large capitalists, or to very small cultivators who grow the trees in their own gardens. Moreover, as we have said, since the abolition of Slavery, most of the plantations have fallen into decay, for the manumitted slaves are entirely wanting in industry.
 
 The original chocolate was not generally relished in Europe. When, however, at a later period, it was mixed with sugar, it met with more approbation. The exaggerated praise of its admirers raised a bitter opposition amongst the opponents of the new drink; and the priests levied conscientious scruples against the use of so nourishing an article of food on fast days. The quarrel lasted till the seventeenth century, by which time cacao had become an everyday necessary in Spain. It was first introduced into Spain in 1520; but chocolate, on account of the monopoly of the Conquistadores, was for a long time prepared on the other side of the ocean. In 1580, however, it was in common use in Spain, though it was so entirely unknown in England that, in 1579, an English captain burnt a captured cargo of it as useless. It reached Italy in 1606, and was introduced into France by Anne of Austria. The first chocolate-house in London was opened in 1657, and in 1700 Germany at last followed suit.*
@@ -82,7 +82,7 @@ In 1856 the exports of coffee were not more than 7,000 picos ; · in 1865 they h
 
 The best coffee comes from the provinces of Lagúna, Batangas and Cavíte ; the worst from Mindanáo. The latter, in consequence of careless treatment, is very impure, and generally contains a
 
- [blocks in formation]
+ 
 quantity of bad beans. The coffee beans of Mindanao are of a yellowish white colour and flabby; those of Lagúna are smaller, but much firmer in texture.
 
 Manila coffee is very highly esteemed by connoisseurs, and is very expensive, though it is by no means so nice looking as that of Ceylon and other more carefully prepared kinds. It is a remarkable fact that in 1865 France, which imported only 105,000 francs' worth of hemp from the Philippines, imported more than 1,000,000 francs' worth of Manila coffee, a third of the entire coffee produce of the islands. * Manila coffee is not much prized in London, and does not fetch much more than good Ceylon (60s. per cwt.).† This, however, is no reproach to the coffee, as every one acquainted with an Englishman's appreciation of coffee will allow.
@@ -123,7 +123,7 @@ Both the theatrical performance and the whole festival bore the impress of lazin
 
 Travellers have remarked the same want of gaiety amongst the Indians of America ; and some of them ascribe it to the small development of the nervous system prevalent among these peoples, to which cause also they attribute their wonderful courage in bearing pain. But Tylor observes that the Indian's countenance is so different from ours that it takes us several years to rightly interpret its expression. There probably is something in both these explanations. And, although I observed no lively expression of amusement among my native friends at Legaspi, I noticed that they took the greatest possible pleasure in decorating their village, and that the procession which formed part of the festival had extraordinary charms for them. Every individual was dressed in his very best; and the honour of carrying a fighting cock inspired those who attained it with the greatest pride, and raised an amazing amount of envy in the breasts of the remainder. Visitors poured in from all the surrounding hamlets, and erected triumphal arches which they had brought with them ready-made, and which bore some complimentary inscription. I am obliged to confess that some of the holiday-makers were very drunk. The inhabitants of the Philippines have a great love for strong drink; even the young girls occasionally get intoxicated. When night came on, the strangers were hospitably lodged in the dwellings of the village. On such occasions native hospitality
 
- [blocks in formation]
+ 
 shows itself in a very favourable light. The door of every house stands open, and even balls take place in some of the larger hamlets. The Spanish and half-caste cavaliers, however, condescend to dance only with half-caste partners, and very seldom invite a pretty Indian girl to join them. The natives very rarely dance together; but in Sámar I was present on one occasion when a by no means ungraceful native dance was improvised on the spot. The men sang verses, and one of the dancers presented his partner with a rose, “begging her to be careful how she handled it, as no rose was without a thorn.” This would have been thought a charming compliment in the mouth of an Andalusian.
 
 The idle existence we spent in Darága was so agreeable to my servants and their numerous friends that they were anxious I should stay there as long as possible ; and they adopted some very ingenious means to persuade me to do so. Twice, when everything was prepared for a start the next morning, my shoes were stolen in the night; and on another occasion they kidnapped my horse. When an Indian has a particularly heavy load to carry, or a long journey to make, he thinks nothing of coolly appropriating the well-fed beast of some Spaniard ; which, when he has done with it, he turns loose without attempting to feed it, and it wanders about till somebody catches it and stalls it in the nearest “Tribunal.” There it is kept tied up and hungry until its master claims it and pays its expenses. I had a dollar to pay when I recovered mine, although it was nearly starved to death, on the pretence that it had swallowed rice to that value since it had been caught.

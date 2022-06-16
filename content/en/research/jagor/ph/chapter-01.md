@@ -7,8 +7,8 @@ linkb: "/research/jagor/ph"
 linkbtext: "Index"
 linkf: "/research/jagor/ph"
 linkftext: "Index"
-author: Juan
-icon: /icons/spmat.png
+author: Jagor
+icon: /graphics/flag.png
 ---
 
 <!-- DIFFERENCE OF TIME. - COMMERCIAL RELATIONS OF THE PHILIPPINES.- PARTITION OF
@@ -35,7 +35,11 @@ Since that time, the Philippines lie no longer in the distant west, but in the f
 
 The proper field for their commerce, however, is what is to us the far west. They were colonised thence, and for centuries they had no communication with Europe but an indirect one, by the annual voyage of the galleon between Manila and Acapulco. 
 
-Now, however, when the eastern shores of the Pacific are at last beginning to teem with life, and, with unexampled speed, are pressing forward to grasp their stupendous future, the Philippines will no longer be able to remain in their past seclusion. No tropical Asiatic colony is so favourably situated for communication with the west coast of America ; and it is only in a few matters that the Dutch Indies can compete with them for the favours of the Australian market. But, on the other hand, they will have to abandon their traffic with China, whose principal emporium Manila originally was, as well as that with those westward-looking countries of Asia, our own far east, which lie the nearest to the Atlantic ports.f
+Now, however, when the eastern shores of the Pacific are at last beginning to teem with life, and, with unexampled speed, are pressing forward to grasp their stupendous future, the Philippines will no longer be able to remain in their past seclusion. 
+
+No tropical Asiatic colony is so favourably situated for communication with the west coast of America ; and it is only in a few matters that the Dutch Indies can compete with them for the favours of the Australian market. 
+
+But, on the other hand, they will have to abandon their traffic with China, whose principal emporium Manila originally was, as well as that with those westward-looking countries of Asia, our own far east, which lie the nearest to the Atlantic ports.f
 
 Had the circumstances we have mentioned been left unnoticed, 
 
@@ -73,57 +77,35 @@ The disputes between the Spaniards and the Portuguese, occasioned by the uncerta
 
 Manila lies 650 nautical miles south-east of Hongkong, a distance that the mail östeamer running between the two ports accomplishes in from three to four days. This allows of a fortnightly postal communication between the colony and the rest of the world.*
 
-* The European post reaches Manila through Singapore and Hong-Kong. Singapore is about equidistant from the other two places. Letters therefore could be received in the Philippines as soon as in China, if they were sent direct from Singapore. In that case, however, a steam communication with that port must be established, and the traffic is not yet sufficiently developed to bear the double expense. According to the report of the English Consul (May, 1870), there is, besides the Government steamer, a private packet running between Hongkong and Manila. The number of passengers it conveyed to China amounted, in 1868, to 141 Europeans and 3,048 Chinese ; total, 3,489. The numbers carried the other wa'y were 330 Europeans and 4,664 Chinese; in all, 4,994. The fare is 80 dollars for Europeans and 20 for Chinamen.
+* The European post reaches Manila through Singapore and Hong-Kong. Singapore is about equidistant from the other two places. Letters therefore could be received in the Philippines as soon as in China, if they were sent direct from Singapore. 
+
+In that case, however, a steam communication with that port must be established, and the traffic is not yet sufficiently developed to bear the double expense. According to the report of the English Consul (May, 1870), there is, besides the Government steamer, a private packet running between Hongkong and Manila. The number of passengers it conveyed to China amounted, in 1868, to 141 Europeans and 3,048 Chinese ; total, 3,489. The numbers carried the other wa'y were 330 Europeans and 4,664 Chinese; in all, 4,994. The fare is 80 dollars for Europeans and 20 for Chinamen.
 
 
 This small steamer is the only thing to remind an observer at Hongkong, a port thronged with the ships of all nations, that an island, so specially favoured in organisation and fertility, lies in such close proximity.
 
-Although the Philippines belong to Spain, there is but little commerce between the two countries. Once the tie which bound them was so close that Manila was wont to celebrate the arrival of the Spanish mail with Te Deums and bell-ringing, in honour of the successful achievement of so stupendous a journey. 
+Although the Philippines belongs to Spain, there is little commerce between the two countries. <!-- Once the tie which bound them was so close that --> Manila<!--  was wont to --> celebrates the arrival of the Spanish mail <!-- with Te Deums and --> with Churchbell-ringing, in honour of the successful <!--  achievement of so stupendous a --> journey. 
 
-Until Portugal fell to Spain, the road round Africa to the Philippines was not open to Spanish vessels. Its advantages, as compared with those of the overland route, are shown by the fact that in 1603 two Augustine monks, who were entrusted with an important message for the king, and who chose the direct line through Goa, Turkey, and Italy, took three years in reaching Madrid.
+Until Portugal fell to Spain, the road around Africa to the Philippines was not open to Spanish vessels. 
 
-The heavy tax which the Spanish flag imposed upon trade had the effect, in spite of the protective duty in favour of national products, of restricting the imports of the colony to the merchandise of alien countries, and the consignment of its exports to foreign ports. The traffic with Spain was limited to the conveyance of officials, priests, and their usual necessaries, such as provisions, wine and other liquors; and, except a few French novels, some atrociously dull books, histories of saints, and similar works.
+<!-- Its advantages, as compared with those of the overland route, are shown by the fact that  -->
 
-The Bay of Manila is large enough to contain the united fleets of Europe ; it has the reputation of being one of the finest in the world. The aspect of the coast, however, to a stranger arriving, as did the author, at the close of the dry season, falls short of the lively descriptions of some travellers. 
+In 1603, 2 Augustine monks were entrusted with an important message for the king. They chose the direct line through Goa, Turkey, and Italy which took them 3 years to reach Madrid.
 
-The circular bay, 120 nautical miles in circumference, the waters of which wash the shores of five different provinces, is fringed in the neighbourhood of Manila by a level coast, behind which rises an equally flat tableland. The scanty vegetation in the foreground, consisting chiefly of bamboos and areca palms, was dried up by the sun; while in the far distance the dull uniformity of the landscape was broken by the blue hills of San Mateo.
+The Spanish imposed a heavy tax on trade. This restricted the imports of the Philippines. 
 
-In the rainy season the numerous bankless canals overflow their borders and form a series of connected lakes, which soon, however, change into luxuriant and verdant rice-fields.
+<!-- had the effect, in spite of the protective duty in favour of national products, of -->  
 
-Manila is situated on both sides of the river Pasig. The town itself, surrounded with walls and ramparts, with its low tiled roofs and scattered towers, had, in 1859, the appearance of some ancient European fortress. Four years later the greater part of it was destroyed by an earthquake.
+<!-- the colony to the merchandise of alien countries, and the consignment of its exports to foreign ports.  -->
 
-On June 3, 1863 at 7:31pm an earthquake shook the preparations for the festival of Corpus Christi. 
+The traffic with Spain was limited to the conveyance of officials, priests, and their usual necessaries, such as provisions, wine and other liquors. Except a few French novels, some atrociously dull books, histories of saints, and similar works.
 
-The firmest buildings reeled visibly, walls crumbled, and beams snapped in two. The dreadful shock lasted half a minute; but this little interval was enough to change the whole town into a mass of ruins, and to bury alive hundreds of its inhabitants. 
+Manila Bay is large enough to contain the united fleets of Europe. It has the reputation of being one of the finest in the world. 
 
-A letter of the Governor-General, which I have seen, states that the cathedral, the government-house, the barracks, and all the public buildings of Manila were entirely destroyed, and that the few private houses which remained standing threatened to fall in. Later accounts speak of 400 killed and 2,000 injured. The estimate was a loss at $8m. 
+At the close of the dry season, however, strangers, including myself, would see the coast as falling short of the lively descriptions of some travellers. 
 
-46 public and 570 private buildings were thrown down. 28 public, 528 private buildings were nearly destroyed. All the houses left standing were more or less injured.
+The circular bay is 120 nautical miles in circumference. Its waters wash the shores of 5 different provinces. It is fringed in the neighbourhood of Manila by a level coast, behind which rises an equally flat tableland. The scanty vegetation in the foreground, consisting chiefly of bamboos and areca palms, was dried up by the sun; while in the far distance the dull uniformity of the landscape was broken by the blue hills of San Mateo.
 
-At the same time, an earthquake of 40 seconds' duration occurred at Cavite, the naval port of the Philippines, and destroyed several buildings.
+In the rainy season, the numerous bankless canals overflow their borders and form a series of connected lakes, which change into luxuriant and verdant rice-fields.
 
-3 years later, the Duke of Alençon (Luzon and Mindanao; Paris, 1870) found the traces of the catastrophe everywhere. 
 
-Three sides of the principal square of the city, in which formerly stood the government-house, the cathedral, and the town-house, were lying like dust heaps overgrown with weeds. All the large public edifices were “temporarily” constructed of wood; but no one appeared to have thought of building anything permanent.
-
-Manila is very often subject to earthquakes. 
-
-The most fatal occurred in 1601; in 1610 (Nov. 30th); in 1645 (Nov. 30th); in 1658 (Aug. 20th); in 1675; in 1699; in 1796; in 1824; in 1852; and in 1863. 
-
-In 1645, 600, or, according to some accounts, 3,000 persons perished, buried under the ruins of their houses. The monastery, the church of the Augustines, and that of the Jesuits, were the only public buildings which remained standing.
-
-Smaller shocks, which suddenly set the hanging lamps swinging, occur very often and generally remain unnoticed. The houses are on this account generally of but one story, and the loose volcanic soil on which they are built tends to lessen the violence of the shock. Their heavy tiled roofs, however, appear very inappropriate under the circumstances. 
-
-Earthquakes are also of frequent occurrence in the provinces, but they, as a rule, cause so little damage, owing to the houses being constructed of timber or bamboo, that they are never mentioned,
-
-M. Alexis Perrey gives, in the memoirs of the Dijon Academy for 1850, a catalogue, collected with much diligence from every accessible source, of the earthquakes which have visited the Philippines, and particularly Manila. But the accounts, except of the most important, are very scanty, and the dates of their occurrence very unreliable. Of the minor shocks, only a few are mentioned, those which were noticed by scientific observers accidentally present at the time.
-
-Aduarte mentions a tremendous earthquake which occurred in 1610. I briefly quote his version of the details of the catastrophe, as I find them mentioned nowhere else.
-
-“ Towards the close of November, 1610, on St. Andrew's Day, a more violent earthquake than had ever before been witnessed, visited this island ; its effects extended from Manila to the extreme end of the province of New Segovia (in the far north of Luzon), a distance of 200 leagues. It caused great destruction over the whole area ; in the province of Ilocos it swallowed up palm trees, and left only the tops of their branches above the earth's surface; its shock dashed hills on the opposite sides of valleys together, threw down many buildings, and killed a great number of people. Its fury was greatest in New Segovia, where it rent mountains asunder, and created new lake basins. 
-
-The earth threw up immense fountains of sand, and vibrated so terribly that the people, unable to stand upon it, laid down and fastened themselves to the ground, as if they had been on a ship in a stormy sea. In the range inhabited by the Mendayas a mountain fell in, • crushing a village and destroying its inhabitants. 
-
-An immense portion of the cliff sank into the river; and now, where the stream was formerly bordered by a range of hills of equal altitude, its banks are level with the watercourse. The commotion was so great in the bed of the river that waves arose like those of the ocean, or as if the water had been lashed by a furious wind. 
-
-Those edifices which were of stone suffered the most damage, our church and the convent fell in, etc"

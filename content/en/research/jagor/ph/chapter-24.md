@@ -8,8 +8,8 @@ linkb: "/research/jagor/ph"
 linkbtext: "Index"
 linkf: "/research/jagor/ph"
 linkftext: "Index"
-author: Juan
-icon: /icons/spmat.png
+author: Jagor
+icon: /graphics/flag.png
 ---
 
 
@@ -132,7 +132,7 @@ male population-an evidence surely that a suitable recompense will overcome the 
 
 An examination of the following table will confirm the accuracy of these views :
 
-[blocks in formation]
+
 Total ...
 
 273,260 | 493,352 | 406,682 | 460,558 | 488,570 | 463,752 
@@ -150,7 +150,7 @@ Sesal-hemp, which is named after the export harbour of Sisal (in the N. W. of th
 
 * In the Agricultural Report of 1869, p. 232, another fibre was highly mentioned, belonging to a plant very closely related to sesal (Bromelia Sylvestris), perhaps even a variety of the same. The native name, "jxtle," is possibly derived from the fact of their curiously flattened, spiky-edged leaves, resembling the dentated knives formed from volcanic stone (obsidian) possessed by the Aztecs, and termed by them “ iztli.”
 
- [blocks in formation]
+ 
 Indians, a memorial of the Toltecs, who brought it with them upon their emigration from Mexico, where it was in vogue long before the arrival of the Spaniards.
 
 The sesal cultivation yields an annual profit of 95 per cent. A mecate, equal to 576 square yards (varas), contains 64 plants, giving 64 lbs. of clear fibre, of the value of 3 dollars 84 cents; which, after deducting 1 dollar 71 cents, the cost of obtaining it, leaves 2 dollars 13 cents remaining. The harvesting commences from four to five years after the first laying out of the plantation, and continues annually for about fifty or sixty years.

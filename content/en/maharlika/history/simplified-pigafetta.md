@@ -274,7 +274,7 @@ After dinner, we all returned, clad in our doublets. That afternoon, we went tog
   - They replied:
     - Ceylon [Leyte]
     - Cebu was the largest and the one with most trade
-    - Calaghan [in Mindanao]
+    - Calaghan [Caraga <!-- in Mindanao -->]
   - They offered heir pilots to show us the way
 
 Magellan asked the kings for the pilots because he intended to depart the following morning. 
