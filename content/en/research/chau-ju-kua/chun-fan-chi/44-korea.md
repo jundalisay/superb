@@ -1,6 +1,6 @@
 +++
-title= "Korea -- Chau Ju Kua's Works Simplified"
-heading= "Chapter 44"
+title= "Korea"
+heading= "Chapter 44 of Chau Ju Kua's Works Simplified"
 description= "The Koreans (Sinlo) descend from the Pien-han."
 author= "Chau Ju Kua"
 image= "/flags/kr.png"
@@ -32,13 +32,11 @@ so foreign to them that the people that they do not even pick up things dropped 
 
 When contracting marriage, they do not send presents. 
 
-The people can write and are fond of learning. Even the menial classes are given to studious
-pursuits. 
+The people can write and are fond of learning. Even the menial classes are given to studious pursuits. 
 
 In the villages they have colleges, called public halls in the inscriptions over their doors. 
 
-In these their unmarried sons and younger
-brothers are placed in order to study literature and to practice archery.
+In these their unmarried sons and younger brothers are placed in order to study literature and to practice archery.
 
 They have:
 - a triennial examination for the degree of Kujon

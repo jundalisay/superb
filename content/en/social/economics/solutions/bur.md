@@ -22,11 +22,12 @@ aliases:
 ---
 
 
-## What's Wrong with Universal Basic Income? 
-
 Universal Basic Income (UBI) became popular in 2016 after it was adopted by a few Western countries. 
 
 In UBI, money is given to poor people without any strings attached. This makes it a bit different from Conditional Cash Transfers (CCT) which imposes conditions that the poor must meet. 
+
+
+## What's Wrong with Universal Basic Income? 
 
 In general, studies have found two flaws in UBI:
 - It contributes little to alleviate poverty as a whole
@@ -42,7 +43,7 @@ Adam Smith, the founder of Economics, would be against UBI because:
 <p>In towns principally supported by the residence of a court, the poor are chiefly maintained by the spending of revenue. The inferior ranks are generally idle, dissolute, and poor as in Rome, Versailles, Compiegne, and Fontainebleu..
 
 <br><br> In mercantile and manufacturing towns, the inferior ranks of people are chiefly maintained by the employment of capital. The inferior ranks are generally industrious, sober, and thriving.. It is better, says the proverb, to play for nothing than to work for nothing.</p>
-<cite>The Simple Wealth of Nations Book 3</cite>
+<cite>The Wealth of Nations Simplified, Book 3</cite>
 {{< /q >}}
 
 <!-- 
@@ -58,7 +59,7 @@ Development banks want UBI for them to find use for their idle money which is of
 Governments of democratic countries like Brazil and the Philippines want it because it lets them placate the poor and prevent public disobedience or the rise of Communism or terrorism. Unofficially, it helps politicians buy votes*. The abandonment of UBI in Finland and Bolsa Familia in Brazil are proofs that UBI is not sustainable.
 
 
-> *This is proven by presidential candidates using dole outs during their campaigns
+> *This is proven by presidential candidates using dole outs during their election campaigns
 
 
 <!-- Canada and Finland, which are experimenting with UBI, are coincidentally the 4th and 5th largest gambling nations according to CNBC. Ontario, where UBI will be tested in Canada, also has the largest 2008 gambling revenue  of all the Canadian provinces. -->
@@ -137,7 +138,8 @@ For example, a soon-to-be bankrupt airline can stay afloat by getting a deposit 
 - Instead of an interest rate, a direct markup is assigned.  
 
 When viewed on a macro level, the points-deposits represent an estimate of future productivity. This is different from money-deposits which represent actual productivity.
-- 'Monetization' speeds up an economy by converting goods and services into money through sales, - 'Pointization' is the opposite conversion of money into a promise of future resources. 
+- 'Monetization' speeds up an economy by converting goods and services into money through sales
+- 'Pointization' is the opposite conversion of money into a promise of future resources. 
 
 Pointization thus saves companies and societies from a monetary crash, by facilitating a soft-landing<!-- through goods and services -->. <!-- numerous loans will allow the unsold productivity of a slowing-down economy to be stored in order to avoid -->
 
