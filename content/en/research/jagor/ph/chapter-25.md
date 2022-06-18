@@ -15,13 +15,28 @@ icon: /graphics/flag.png
 
 THE TOBACCO MONOPOLY.
 
-Of all the productions of the country tobacco is the most important, so far (at least) as concerns the Government, who have made the cultivation of this plant, its manipulation, and sale, the subjects of an extensive and strictly guarded monopoly, and who derive a very considerable portion of their revenue therefrom.*
+In terms of government revenue, tobacco is the most important product of the Philippines.  
+
+The Government has strictly monopolized its:
+- cultivation
+- manipulation
+- sale
+
+The Government derive a very large portion of their revenue from tobacco. Below are the estimates of its receipts:
+
+Years | Gross Revenue | Expenses | Profit
+--- | --- | ---
+1866-7 | $8,418,939 | $4,519,866 | $3,899,073
+1867 | | 7,033,576 | $2,627,976 
+
+<!-- while the total expenditure of the colony, after deduction of the expenses occasioned by the tobacco management, was set down at  dollars. -->
+
+<!-- • The English Consul --> 
 
 As to the objections raised against this revenue on the score of its being opposed to justice and morality, many other sources of revenue in the colonial budget might be condemned (such as the poll-tax, gaming and opium licences, the brandy trade, and the sale of indulgences); yet none is so in vidious and pernicious as the tobacco monopoly.
 
 Often in the course of this narrative of my travels I have had occasion to commend the clemency of the Spanish Government. In glaring contrast therewith, however, stands the management of the tobacco regulations.
 
-• The English Consul estimates the receipts from this monopoly for the year 1866-7 at 8,418,939 dollars, after an expenditure of 4,519,866 dollars; thus leaving a clear profit of 3,899,073 dollars. In the colonial budget for 1867 the profit on tobacco was estimated at 2,627,976 dollars, while the total expenditure of the colony, after deduction of the expenses occasioned by the tobacco management, was set down at 7,033,576 dollars.
 
 According to the official tables of the chief of the Administration in Manila, 1871, the total annual revenue derived from the tobacco management between the years 1865 and 1869 amounted, on an average, to 5,367,262 dollars. By reason of proper accounts being wanting an accurate estimate of the expenditure cannot be delivered ; but it would be at least 4,000,000 dollars, so that a profit of only 1,367,262 dollars remains.
 

@@ -1,4 +1,17 @@
-THE IGNATIUS BEAN. 
+---
+title: "The Ignatius Bean"
+date: 2022-04-30
+image: /covers/travels.jpg
+description: ""
+linkTitle: "Chapter 20"
+linkb: "/research/jagor/ph"
+linkbtext: "Index"
+linkf: "/research/jagor/ph"
+linkftext: "Index"
+author: Jagor
+icon: /graphics/flag.png
+---
+
 
 <!-- The crocodile, when it has swallowed the bait and the hook at the same time, endeavours in vain to get away, for the pliability of the raft prevents its being torn to pieces, and the peculiar elasticity of the bundle of fibres prevents its being bitten through. The raft serves likewise as a buoy for the captured animal. According to the statements of the hunters, the large crocodiles live far from human habitations, generally selecting the close vegetation in an oozy swamp, in which their bellies, dragging heavily along, leave trails behind them which betray them to the initiated. After a week the pastor mentioned that his party had sent in three crocodiles, the largest of which, however, measured only eighteen feet, but that he had not kept one for me, as he hoped to obtain one of thirty feet. His expectation, however, was not fulfilled. -->
 

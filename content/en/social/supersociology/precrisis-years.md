@@ -15,7 +15,9 @@ aliases:
 ---
 
 
-Our model, derived from the principles laid by David Hume, Adam Smith, and Socrates, designated 2019 as the spark of a global stagflation. This stagflation will increase from 2020 onwards up to 2030 when it will reach its peak, culminating in some kind of conflict. A stagflation is a phenomenon which has low employment and output while having high prices at the same time.
+Our model, derived from the principles laid by David Hume, Adam Smith, and Socrates, designated 2019 as the spark of a global stagflation. 
+
+This stagflation will increase from 2020 onwards up to 2030 when it will reach its peak, culminating in some kind of conflict. A stagflation is a phenomenon which has low employment and output while having high prices at the same time.
 
 
 ## A Primer: The Metaphysics of Societies

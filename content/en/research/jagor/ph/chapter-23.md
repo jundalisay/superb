@@ -1,5 +1,5 @@
 ---
-title: "MANNERS AND CUSTOMS OF THE BISAYAN INDIAXS"
+title: "Philippine Ports"
 date: 2022-04-30
 image: /covers/travels.jpg
 description: ""
@@ -13,9 +13,9 @@ icon: /graphics/flag.png
 ---
 
 
-THE NEW PORTS OF CUSTOMS.-PIT-COAL IN CEBÚ.-Yloilo.-INDUCEMENTS TO THE
+<!-- THE NEW PORTS OF CUSTOMS.-PIT-COAL IN CEBÚ.-Yloilo.-INDUCEMENTS TO THE
 
-CULTIVATION OF SUGAR.
+CULTIVATION OF SUGAR. -->
 
 In 1830, 7 new ports were opened as an experiment. But due to great frauds in the tolls, they were soon closed again. 
 
@@ -26,14 +26,14 @@ This was followed by a custom-house for foreing trade in:
 - Iloílo in Panay in 1855
 - Cebú in 1863
 
-Before 1635, the Spaniards had established a fort at Zamboanga, which reduced the piratical excursions&. 
+Before 1635, the Spaniards had established a fort at Zamboanga, which reduced the piratical excursions. 
 
-> *In anticipation of an attack by Koxinga, all the available forces, including those of Zamboanga, were collected around Manila. The Moro attacked the island with 60 ships, whereas formerly their armaments used not to exceed six or eight ships. Torrubia, p. 363.
-
-
+In anticipation of an attack by Koxinga, all the available forces, including those of Zamboanga, were collected around Manila. The Moro attacked the island with 60 ships, whereas formerly their armaments used not to exceed six or eight ships. Torrubia, p. 363.
 
 Until 1848, 800-1,500 people have been carried off by the Moro.† 
 <!-- † Hakl. Morga, Append. 360. -->
+
+## Zamboanga
 
 The Zamboanga custom-house was therefore based on political rather than commercial motives, for easy access to the piratical states of the Sulu Sea for selling their products. 
 
@@ -42,6 +42,8 @@ Trade, up to the present date, is very small. The exports consist chiefly of a l
 and of the collected products of the forest and of the water, such as wax, birds'-nests, tortoise-shell, pearls, mother-of-pearl, and edible holothuria. 
 
 The Zamboanga and Sulu trade is entirely in the hands of the Chinese, who alone possess the patience, adaptiveness, and adroitness which are required for it.
+
+## Sual
 
 Suál is especially important for its rice exports. Its foreign trade is therefore affected by the results of the harvests in Saigon, Burma, and China. 
 
@@ -111,11 +113,9 @@ Good pit-coal gives 6,000 cal. The first coal pits in Cebú were excavated in th
 
 According to the Catalogue of the Products of the Philippines (Manila, 1866), the coal strata of Cebú have, at many places in the mountain range which runs from north to south across the whole of the island, an average thickness of two miles. The coul is of middling quality, and is burnt in the Government steam works after being mixed with Cardiff coal. The price in Cebú is on the average six dollars per ton.
 
-† English Consular Report, 217.
+<!-- † English Consular Report, 217. -->
 
-
-THE PORT OF Yloilo.
-
+## Iloilo 
 
 merly the products for exportation were bought up by the foreign merchants, mostly through Chinese mestizes ; but now they are bought direct from the producers, who thus obtain better prices in consequence of the abolition of the high brokerages. To this and to the energy of the foreign merchants, under favourable circumstances, is the gradual improvement of agriculture principally to be ascribed.
 

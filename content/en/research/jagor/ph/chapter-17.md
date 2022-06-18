@@ -220,15 +220,24 @@ A YGORROTE PETITION
 
 home when in the forest; what they do is done voluntarily, and the stranger, when he possesses their confidence, is treated as a guest. But the Indians are reluctant companions, Polistas, who, even when they receive a high rate of wages, consider that they are acting most honourably when they do as little as possible. At any rate, it is no pleasure to them to leave their village in order to become luggage-porters or beaters of roads on fatiguing marches in impracticable districts, and to camp out in the open air under every deprivation. For them, still more than for the European peasant, repose is the most agreeable refreshment. The less comfort any one enjoys at home, the greater is the reluctance with which he leaves it; and the same thing may be observed in Europe.
 
-As the Ygorrotes were not permitted to have cocoa-palms for the preparation of wine, vinegar and brandy, so that they might not infringe the monopoly of the hacienda, they presented me with a petition entreating me to obtain this favour for them. The document was put together by an Indian writer in so ludicrously confused a manner that I give it as a specimen of Philippine clerkship.* At all events, it had the best result, for the petitioners were accorded twice as much as they had prayed for.
+As the Igorots were not permitted to have coconut palms to make wine, vinegar and brandy, so that they might not infringe the hacienda's monopoly. 
+
+They showed me a petition asking me for my commments. <!--  entreating me to obtain this favour for them. --> The document was put together by an native writer in so ludicrously confused a manner that I give it as a specimen of Philippine clerkship.*
+
+<!-- • Sor Inspector por S. M. -->
+
+At all events, it had the best result, for the petitioners were accorded twice as much as they had prayed for.
 
 The south-west monsoon lasts in this region (district of Goa) from April to October. April is very calm (navegacion de señoras). From June to August the south-west winds blow steadily;
 
-• Sor Inspector por S. M.
+<!-- Nosotros dos Capnes actuales de Rancerias de Lalud y Uacloy comprension del pueblo de Goa prova de Camarines Sur. Ante los pies de vmd postramos y decimos. Que portan de plorable estado en que nos hallabamos de la infedelidad recienpoblados esta visitas de Rancerias ya nos Contentamos bastantemente eu bu felis llegada y suvida de este eminento monte de Ysarog loque havia con quiztado industriamente de V. bajo mis consuelos, y alibios para poder con seguir a doce ponos (i.e. arboles) de cocales de mananguiteria para Nuestro uso y alogacion a los demas Ygorotes, o montesinos q. no quieren vendirnos ; eta utilidad publica y reconocer a Dios y a la soberana Reyna y Sora Doña Isabel 2a (que Dios Gue) Y por intento.
 
-Nosotros dos Capnes actuales de Rancerias de Lalud y Uacloy comprension del pueblo de Goa prova de Camarines Sur. Ante los pies de vmd postramos y decimos. Que portan de plorable estado en que nos hallabamos de la infedelidad recienpoblados esta visitas de Rancerias ya nos Contentamos bastantemente eu bu felis llegada y suvida de este eminento monte de Ysarog loque havia con quiztado industriamente de V. bajo mis consuelos, y alibios para poder con seguir a doce ponos (i.e. arboles) de cocales de mananguiteria para Nuestro uso y alogacion a los demas Ygorotes, o montesinos q. no quieren vendirnos ; eta utilidad publica y reconocer a Dios y a la soberana Reyna y Sora Doña Isabel 2a (que Dios Gue) Y por intento.
+A. V. pedimos, y suplicamos con humildad secirva proveer y mandar, si es gracia segun lo q. imploramos, etc. Domingo Tales t. Jose Laurenciano +. -->
 
-A. V. pedimos, y suplicamos con humildad secirva proveer y mandar, si es gracia segun lo q. imploramos, etc. Domingo Tales t. Jose Laurenciano +.
+March, April, and May are the driest months. There are shifting winds in March and the beginning of April; while from October to December is the time of storms; “ S. Francisco (4th October) brings bad weather.” Rice is planted in September and reaped in February
 
-March, April, and May are the driest months; there are shifting winds in March and the beginning of April; while from October to December is the time of storms; “ S. Francisco (4th October) brings bad weather.” Rice is planted in September and reaped in February
+
+
+
+
 

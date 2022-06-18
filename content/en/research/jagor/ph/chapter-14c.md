@@ -19,28 +19,95 @@ For cooking purposes
 
 An earthen pot is used for cooking. It costs between 3 and 10 cuartos. When cooking rice, is closed firmly with a banana-leaf, so that the steam of a very small quantity of water is sufficient. 
 
-No other cooking utensils are used by the poorer classes. Those better off have a few cast-iron pans and dishes. 
+The poor have no other cooking utensil. Those better off have a few cast-iron pans and dishes. 
 
-In the smaller houses, the hearth consists of a portable earthen pan or a flat chest, frequently of an old cigar-chest full of sand, with three stones which serve as a tripod. In the larger houses it is in the form of a bedstead, filled with sand or ashes, instead
+In the smaller houses, the hearth consists of:
+- a portable earthen pan or a flat chest, frequently of an old cigar-chest full of sand
+- 3 stones as a tripod. 
 
-* Buyo is the name given in the Philippines to the preparation of betel suitable for the mouth. A leaf of betel pepper (Chavica betel), of the form and size of a bean-leaf, is smeared over with a small piece of burnt lime of the size of a pea, and rolled together from both ends to the middle; when, one end of the roll being inserted into the other, a ring is formed, into which a smooth piece of areca nut of corresponding size is introduced.
+In the larger houses, it is in the form of a bedstead, filled with sand or ashes, instead of a mattrass. 
 
-of a mattrass. The water in small households is carried and preserved in thick bamboos. In his bolo (wood-knife), moreover, every one has an universal instrument, which he carries in a wooden sheath made by himself, suspended by a cord of looselytwisted bast fibres tied round his body. This, and the ricemortar (a block of wood with a similar cavity), together with pestles and a few baskets, constitute the whole of the household furniture of a poor family ; sometimes a large snail, with a rush wick, is also to be found as a lamp. They sleep on a mat of pandanus (fan-palm, Corypha), when they possess one ; if not, on the splittings of bamboo, with which the house is floored. By the poor oil for lighting is rarely used ; but torches of resin, which last a couple of days, are bought in the market for half a cuarto.
+The water in small households is carried and stored in thick bamboos. 
+
+In his bolo (wood-knife), moreover, every one has an universal instrument, which he carries in a wooden sheath made by himself, suspended by a cord of looselytwisted bast fibres tied round his body. 
+
+This, and the ricemortar (a block of wood with a similar cavity), together with pestles and a few baskets, constitute the whole of the household furniture of a poor family ; sometimes a large snail, with a rush wick, is also to be found as a lamp. 
+
+They sleep on a mat of pandanus (fan-palm, Corypha) or on the splittings of bamboo, with which the house is floored. 
+
+By the poor oil for lighting is rarely used ; but torches of resin, which last a couple of days, are bought in the market for 0.5 cuarto.
 
 
-A woman wears a camisa de guinára (a short shift of abaca fibre), a patadíon (a gown reaching from the hip to the ancles), a cloth, and a comb. A piece of guinára, costing 1 real, gives two shifts; the coarsest patadíon costs 3 reals; a cloth, at the highest, 1 real; and a comb, 2 cuartos ; making altogether 4 reals, 12 cuartos. Women of the better class wear a camisa, costing between 1 and 2 r., a patadíon 6 r., cloth between 2 and 3 r., and a comb 2 cu. The men wear a shirt, 1 r., hose, 3 r., hat (tararura) of Spanish cane, 10 cu., or a salacot (a large rain-hat, frequently decorated), at least 2 r.—often, when ornamented with silver, as much as 50 dollars. At least three, but more commonly four, suits are worn out yearly; the women, however, taking care to weave almost the whole quantity for the family themselves.
+* Buyo is the preparation of betel for the mouth. A leaf of betel pepper (Chavica betel), of the form and size of a bean-leaf, is smeared over with a small piece of burnt lime of the size of a pea, and rolled together from both ends to the middle. when, one end of the roll being inserted into the other, a ring is formed, into which a smooth piece of areca nut of corresponding size is introduced.
 
-The daily wages of the common labourer are 1 real, without food ; and his hours of work are from 6 to 12, and from 2 to 6 o'clock. The women, as a rule, perform no field labour, but plant out the rice and assist in the reaping; their wages on both occasions being equal to those of the men. Wood and stone-cutters receive 1.5 r. per day, and calkers 1.75 r.
+
+A woman wears:
+- a camisa de guinára (a short shift of abaca fibre)
+- a patadíon (a gown reaching from the hip to the ancles)
+- a cloth
+- a comb. 
+
+Item | Cost | Notes
+--- | --- | ---
+A piece of guinára | 1 real | gives two shifts
+the coarsest patadíon | 3 reals | 
+a cloth |  1 real | at the highest
+a comb | 2 cuartos | 
+
+These total 4 reals, 12 cuartos. 
+
+Women of the better class wear:
+
+Item | Cost | Notes
+--- | --- | ---
+A camisa | 1-2 real |
+A patadíon | 6 real | 
+cloth | between 2-3 real | 
+a comb | 2 cuartos | 
+
+The men wear a shirt, 1 r., hose, 3 r., hat (tararura) of Spanish cane, 10 cu., or a salacot (a large rain-hat, frequently decorated), at least 2 r.—often, when ornamented with silver, as much as 50 dollars. At least three, but more commonly four, suits are worn out yearly; the women, however, taking care to weave almost the whole quantity for the family themselves.
+
+The daily wages of the common labourer are 1 real, without food
+
+His hours of work are from 6 to 12, and from 2 to 6 o'clock. 
+
+The women perform no field labour, but plant out the rice and assist in the reaping. 
+
+Their wages on both occasions being equal to those of the men. Wood and stone-cutters receive 1.5 r. per day, and calkers 1.75 r.
 
 The Tercio is a pretty general contract in the cultivation of the land. The owner simply lets arable land for the third part of the crop. Some mestizoes possess several pieces of ground; but they are seldom connected together, as they generally acquire them as mortgages for sums bearing but a small proportion to their real value.
 
-Under the head of earnings I give the income of a small family. The man earns daily 1 r., and the woman, if she weaves coarse stuff, į r. and her food (thus a piece of guinára, occupying the labour of two days, costs half a real in weavers' wages). The most skilful female weaver of the finer stuffs obtains 12 r. per piece; but it takes a month to weave; and the month, on account of the numerous holy-days, must be calculated at the most as equal to twenty-four working days; she consequently earns į r. per day and her food. For the knitting of the fibres of the ananas for the piña web (called sugot) she gets only an eighth of a real and her food.
+Under the head of earnings I give the income of a small family. 
 
-In all the pueblos there are schools. The schoolmaster is paid by the Government, and generally obtains two dollars per month, without board or lodging. In large pueblos the salary amounts to three dollars and a half; out of which an assistant must be paid. The schools are under the supervision of the ecclesiastics of the place. Reading and writing are taught, the writing copies being Spanish. The teacher, who has to teach his scholars Spanish exactly, does not understand it himself, while the Spanish officers, on the other hand, do not understand the language of the country; and the priests have no inclination to alter this state of things, which is very useful to them as a means of influence. Almost the only Indians who speak Spanish are those who have been in the service of Europeans. A kind of religious horn-book is the first that is read in the language of the country (Bicol); and after that comes the Christian Doctrine, the reading-book called Casayayan. On an average, half of all the children go to school, generally from the seventh to the tenth year. They learn to read a little; a few even write a little : but they soon forget it again. Only those who are afterwards employed as clerks write
+The man earns daily 1 real. The woman, if she weaves coarse stuff, į r. and her food (thus a piece of guinára, occupying the labour of two days, costs half a real in weavers' wages). 
 
-eremo
+The most skilful female weaver of the finer stuffs obtains 12 r. per piece; but it takes a month to weave; and the month, on account of the numerous holy-days, must be calculated at the most as equal to twenty-four working days; she consequently earns į r. per day and her food. 
 
-Some priests do not permit boys and girls to attend the same school ; and in this case they pay a second teacher, a female, a dollar a month. The Indians learn arithmetic very quickly, generally aiding themselves by the use of mussels or stones, which they pile in little heaps before them and then count through.
+For the knitting of the fibres of the ananas for the piña web (called sugot) she gets only an eighth of a real and her food.
+
+All the pueblos have schools. The schoolmaster is paid by the Government at 2 dollars per month, without board or lodging. 
+
+In large pueblos, the salary is 3.5 dollars. Out of this, an assistant must be paid. 
+
+The schools are under the supervision of the local Church. Reading and writing are taught, the writing copies being Spanish. 
+
+The teacher, who has to teach his scholars Spanish exactly, does not understand it himself, while the Spanish officers, on the other hand, do not understand the local language.
+
+The priests do not alter this state of things because they use it for influence. 
+
+Almost the only Indians who speak Spanish are those who have been in the service of Europeans. A kind of religious horn-book is the first that is read in the language of the country (Bicol); and after that comes the Christian Doctrine. 
+
+The reading-book called Casayayan. 
+
+On an average, half of all the children go to school, generally from the 7th-10th year. 
+
+They learn to read a little; a few even write a little. But they soon forget it again. Only those who are afterwards employed as clerks write.
+
+<!-- eremo -->
+
+Some priests do not permit boys and girls to attend the same school. In this case they pay a second teacher, a female, 1 dollar a month. 
+
+The natives learn arithmetic very quickly, generally aiding themselves by the use of mussels or stones, which they pile in little heaps before them and then count through.
 
 The women seldom marry before the 14th year, 12 years old is the legal limit. 
 
@@ -68,34 +135,10 @@ This mortality arises from great uncleanliness and impure air; since in the cham
 
 Every aperture of the house is closed up by the husband early during travail, in order that Patianac may not break in-an evil spirit who brings mischief to lying-in women, and endeavours to hinder the birth. 
 
-The custom has been further maintained even amongst many who attach no belief to the superstition, but who, from fear of a draught of air through a hole, have discovered a new explanation for an old custom, -namely, that
+The custom has been further maintained even amongst many who attach no belief to the superstition, but who, from fear of a draught of air through a hole, have discovered a new explanation for an old custom, -namely, that instances of such practices occur amongst all people. 
 
-instances of such practices occur amongst all people. One very widely-spread malady is the itch, although, according to the assurance of the physician above referred to, it may be easily subdued; and, according to the judgment of those who are not physicians and who employ that term for any eruptions of the skin, the natives generally live on much too low a diet.
+One very widely-spread malady is the itch which is easily cured. It is said to be caused by <!-- , although, according to the assurance of the physician above referred to, it may be easily subdued; and, according to the judgment of those who are not physicians and who employ that term for any eruptions of the skin, --> the low diet of the natives (The Bicol natives even more than the Tagal).
 
-The Bicol Indians even more than the Tagal.* Under certain conditions, which the physicians, on being questioned, could not define more precisely, the natives can support neither hunger nor thirst; of which fact I have on many occasions been a witness. It is reported of them, when forced into such a situation as to suffer from unappeased wants, that they become critically ill; and thus they often die.
 
-Hence arises the morbid mania for imitation, which is called in Java Sakit-latar, and here Mali-mali. In Java many believe that the sickness is only assumed, because those who pretend to be afflicted with it find it to their advantage to be seen by newly arrived Europeans. Here, however, I saw one instance where indeed no simulation could be suspected. My companions availed themselves of the diseased condition of a poor old woman who met us in the highway, to practise some rough jokes upon her. The old woman imitated every motion as if impelled by an irresistible impulse, and expressed at the same time the most extreme indig. nation against those who abused her infirmity.
 
-In R. Maak's “ Journey to the Amour," it is recorded :“ It is not unusual for the Maniagri to suffer also from a nervous malady of the most peculiar kind, with which we had already been made acquainted by the descriptions of several travellers.t This malady is met with, for the most part, amongst the wild
 
-* In the country it is believed that swine's flesh often causes this malady. A friend, a physiologist, conjectures the cause to be the free use of very fat pork ; but the Indians commonly eat but little flesh, and the pigs are very seldom fat.
-
-† Compare A. Erman, “ Journey Round the Earth through Northern Asia," vol. iii. sec. i. p. 191.
-
-people of Siberia, as well as amongst the Russians settled there. In the district of the Jakutes, where this affliction very frequently occurs, those affected by it, both Russians and Jakutes, are known by the name of · Emiura ;' but here (that is, in that part of Siberia where the Maniagri live) the same malady is called by the Maniagri · Olon,' and by the Argurian Cossacks · Olgandshi.' The attacks of the malady which I am now mentioning consist in this, that a man suffering from it will, if under the influence of terror or consternation, unconsciously, and often without the smallest sense of shame, imitate everything that passes before him. 
-
-Should he be offended, he falls into a rage, which manifests itself by wild shrieks and raving ; and he precipitates himself at the same time, with a knife or any other object which may fall to his hand, upon those who have placed him in this predicament. Amongst the Maniagri, women, especially the very aged, are the chief sufferers from this malady; and instances, moreover, of men who were affected by it are likewise known to me. It is worthy of remark that those women who returned home on account of this sickness were notwithstanding strong, and in all other respects enjoyed good health.”
-
-Probably it is only an accidental coincidence that in the Malay countries Sakit-latar and Amok exist together, if not in the same individual, yet amongst the same people. Instances of Amok seem to occur also in the Philippines.* I find the following account in the Diario de Manila of the 21st February, 1866 :In Cavité, on the 18th February, a soldier rushed into the house of a school-teacher, and, struggling with him, stabbed him with a dagger, and then killed the teacher's son with a second stab. Plunging into the street, he stabbed two young girls of ten and twelve years of age and wounded a woman in the side, a boy aged nine in the arm, a coachman (mortally) in the belly, and, besides another woman, a sailor and three soldiers; and arriving at his
-
-* According to Semper, p. 69, in Zamboanga and Basilan.
-
-NASAL ACUTENESS.
-
-barracks, where he was stopped by the sentry, he plunged the dagger into his own breast.
-
-It is one of the greatest insults to stride over a sleeping native, or to awaken him suddenly. They rouse one another, when necessity requires, with the greatest circumspection and by the slowest degrees.* The sense of smell is developed amongst the Indians to so great a degree that they are able, by smelling at the pocket-handkerchiefs, to tell to which persons they belong (“ Reisesk.,” p. 39); and lovers at parting exchange pieces of the linen they may be wearing, and during their separation inhale the odour of the beloved being, besides smothering the relics with kisses.f .
-
-* The fear of waking sleeping persons really refers to the widely-spread superstition that during sleep the soul leaves the body; numerous instances of which occur in Bastian's work. Amongst the Tinguianes (North Luzon) the worst of all curses is to this effect: “ May'st thou die sleeping!"- Informe, i. 14.
-
-+ Lewin (“Chittagong Hill Tracks," 1869, p. 46) relates of the mountain people at that place: “ Their manner of kissing is peculiar. Instead of pressing lip to lip, they place the mouth and nose upon the cheek, and inhalę the breath strongly. Their form of speech is not . Give me a kiss,' but • Smell me."

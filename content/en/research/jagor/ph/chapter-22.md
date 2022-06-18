@@ -1,5 +1,6 @@
 ---
-title: "MANNERS AND CUSTOMS OF THE BISAYAN INDIAXS"
+title: "Rice Cultivation"
+# title: "MANNERS AND CUSTOMS OF THE BISAYAN INDIAXS"
 date: 2022-04-30
 image: /covers/travels.jpg
 description: ""
@@ -36,7 +37,7 @@ They are very peaceable, neither making war with one another, nor having poisone
 turn to the forests in order to become Cimarronese, is, on the other hand, very inconsiderable indeed—still smaller than in Luzon, as the natives, from the dull, almost vegetating life which they lead, are not easily brought into such straitened circumstances as to be compelled to leave their village, which, still more than in Luzon, is all the world to them.
 
 
-RICE CULTIVATION
+## RICE CULTIVATION
 
 The culture of rice follows the seasons of the year. In some places. where there are large fields the plough (arado) and the sodsod (here called surod) are employed; 
 
