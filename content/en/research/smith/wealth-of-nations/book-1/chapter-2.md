@@ -1,15 +1,15 @@
-+++
-title=  "The Cause of the Division of Labour"
-heading=  "Chapter 2 of Book 1 of the Wealth of Nations Simplified"
-date=  2020-01-28
-image=  "/covers/wn.jpg"
-description=  "The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-1c-productivity"
-linkbtext=  "Chapter 1c"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-3"
-linkftext=  "Chapter 3"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Cause of the Division of Labour"
+heading: "Chapter 2 of Book 1 of the Wealth of Nations Simplified"
+date: 2020-01-28
+image: "/covers/wn.jpg"
+description: "The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour"
+linkb: /research/smith/wealth-of-nations/book-1/chapter-1c-productivity
+linkbtext: "Chapter 1b"
+linkf: /research/smith/wealth-of-nations/book-1/chapter-3
+linkftext: "Chapter 3"
+icon: "/icons/smith.png"
+---
 
 
 ## The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour
@@ -62,29 +62,50 @@ He uses the donated money to buy food. He exchanges the old clothes donated to h
 - money.
 
 
-{{< s v="3" >}} We obtain what we need from one another through by treaty, by barter, and by purchase.
+{{< s v="3" >}} We obtain what we need from one another: 
+- **by treaty**
+- **by barter**
+- **by purchase**. *
 
-This trucking disposition is the origin of the division of labour.
-In a tribe of hunters, a person makes bows and arrows better than any other.
-He exchanges them for cattle from people who can catch them better.
-From a regard to his own interest, bows and arrows becomes his chief business.
-Another excels in building huts and also trades this service for cattle and meat until carpentry becomes his employment.
-In the same way, a third becomes a smith and a fourth becomes a tanner.
-Thus, the certainty of being able to exchange their surplus produce for the produce of other men’s labour, encourages every man to= 
-have an occupation, and
-cultivate whatever talent he might have.
+
+> *Superphysics Note: Our moneyless system is a hybrid of treaty and barter. 
+
+
+**This trucking disposition is the origin of the division of labour.**
+
+A tribal person makes bows and arrows better than any other.
+- He exchanges them for cattle from people who can catch them better.
+- From a regard to his own interest, bows and arrows becomes his chief business.
+- Another excels in building huts and also trades this service for cattle and meat until carpentry becomes his employment.
+- In the same way, a third becomes a smith
+- a fourth becomes a tanner.
+
+**Thus, the _certainty_ of being able to exchange their surplus produce for the produce of other men’s labour, encourages every man to**: *
+- have an occupation, and
+- cultivate whatever talent he might have.
+
+> *Superphysics Note: This is why a moneyless system requires long-term investment
+
 
 
 {{< s v="4" >}} The difference in the natural talents in men is much less than we think.
 
-The different levels of skill of different men in different professions is the effect of the division of labour.
-The difference between a philosopher and a street porter seems to arise not so much from nature, but from habit, custom, and education.
+The different levels of skill of different men in different professions is the effect of the division of labour*.
 
-They were perhaps very much alike when they were 6-8 years old.
-As they got older, the difference in their talents widened until their employments became totally different.
 
-Without the disposition to truck, barter, and exchange, everyone must have had the same duties and work to do.
-There could have been no such difference of employment and no great difference in talents.
+> *Superphysics Note: The natural human ability to communicate and trade is the cause, skill and specialization is the effect. However, we go deeper and assign the root cause as a living mind's ability to express
+
+
+The difference between a philosopher and a street porter seems to arise not so much from nature, but from **habit, custom, and education**.*
+- They were perhaps very much alike when they were 6-8 years old.
+- As they got older, the difference in their talents widened until their employments became totally different.
+
+> *Superphysics Note: This matches David Hume's assertion that 'nurture' is more important than 'nature'
+
+
+Without the disposition to truck, barter, and exchange:
+- everyone must have had the same duties and work to do
+- there could have been no difference of employment and talents.
 
 
 {{< s v="5" >}} This disposition to trade creates the difference of talents and renders them useful to society.
@@ -102,11 +123,14 @@ The mastiff's strength cannot be supported by=
 - the spaniel's sagacity, or
 - the shepherd’s dog's docility.
 
-These talents= 
+These talents:
 - cannot be brought into a common stock, and
 - do not contribute to improve the accommodation and conveniency of their species.
 
 
-Each animal works only for itself and gets no benefit from the talents of other animals.
+Each animal:
+- works only for itself and
+- gets no benefit from the talents of other animals.
+
 Among men, on the contrary, the most dissimilar talents are useful to one another.
-The disposition to truck, barter, and exchange allows the produce of their different talents to be brought into a common stock where everyone can buy what they need.
+- **The disposition to truck, barter, and exchange allows the produce of their different talents to be brought into a common stock where everyone can buy what they need.**

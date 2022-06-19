@@ -68,15 +68,29 @@ Section 12
 
 The Supreme Court shall, within one year after the ratification of this Constitution, adopt a systematic plan to expedite the decision or resolution of cases or matters pending in the Supreme Court or the lower courts prior to the effectivity of this Constitution. A similar plan shall be adopted for all special courts and quasi-judicial bodies.
 
-Section 13. The legal effect of the lapse, before the ratification of this Constitution, of the applicable period for the decision or resolution of the cases or matters submitted for adjudication by the courts, shall be determined by the Supreme Court as soon as practicable.
+Section 13
 
-Section 14. The provisions of paragraphs (3) and (4), Section 15 of Article VIII of this Constitution shall apply to cases or matters filed before the ratification of this Constitution, when the applicable period lapses after such ratification.
+The legal effect of the lapse, before the ratification of this Constitution, of the applicable period for the decision or resolution of the cases or matters submitted for adjudication by the courts, shall be determined by the Supreme Court as soon as practicable.
 
-Section 15. The incumbent Members of the Civil Service Commission, the Commission on Elections, and the Commission on Audit shall continue in office for one year after the ratification of this Constitution, unless they are sooner removed for cause or become incapacitated to discharge the duties of their office or appointed to a new term thereunder. In no case shall any Member serve longer than seven years including service before the ratification of this Constitution.
+Section 14
 
-Section 16. Career civil service employees separated from the service not for cause but as a result of the reorganization pursuant to Proclamation No. 3 dated March 25, 1986 and the reorganization following the ratification of this Constitution shall be entitled to appropriate separation pay and to retirement and other benefits accruing to them under the laws of general application in force at the time of their separation. In lieu thereof, at the option of the employees, they may be considered for employment in the Government or in any of its subdivisions, instrumentalities, or agencies, including government-owned or controlled corporations and their subsidiaries. This provision also applies to career officers whose resignation, tendered in line with the existing policy, had been accepted.
+The provisions of paragraphs (3) and (4), Section 15 of Article VIII of this Constitution shall apply to cases or matters filed before the ratification of this Constitution, when the applicable period lapses after such ratification.
 
-Section 17. Until the Congress provides otherwise, the President shall receive an annual salary of three hundred thousand pesos; the Vice-President, the President of the Senate, the Speaker of the House of Representatives, and the Chief Justice of the Supreme Court, two hundred forty thousand pesos each; the Senators, the Members of the House of Representatives, the Associate Justices of the Supreme Court, and the Chairmen of the Constitutional Commissions, two hundred four thousand pesos each; and the Members of the Constitutional Commissions, one hundred eighty thousand pesos each.
+Section 15. 
+
+The incumbent Members of the Civil Service Commission, the Commission on Elections, and the Commission on Audit shall continue in office for one year after the ratification of this Constitution, unless they are sooner removed for cause or become incapacitated to discharge the duties of their office or appointed to a new term thereunder. 
+
+No Member can serve longer than 7 years. <!-- including service before the ratification of this Constitution. -->
+
+Section 16. 
+
+Career civil service employees separated from the service not for cause but as a result of the reorganization pursuant to Proclamation No. 3 dated March 25, 1986 and the reorganization following the ratification of this Constitution shall be entitled to appropriate separation pay and to retirement and other benefits accruing to them under the laws of general application in force at the time of their separation. 
+
+In lieu thereof, at the option of the employees, they may be considered for employment in the Government or in any of its subdivisions, instrumentalities, or agencies, including government-owned or controlled corporations and their subsidiaries. This provision also applies to career officers whose resignation, tendered in line with the existing policy, had been accepted.
+
+Section 17. 
+
+Until the Congress provides otherwise, the President shall receive an annual salary of three hundred thousand pesos; the Vice-President, the President of the Senate, the Speaker of the House of Representatives, and the Chief Justice of the Supreme Court, two hundred forty thousand pesos each; the Senators, the Members of the House of Representatives, the Associate Justices of the Supreme Court, and the Chairmen of the Constitutional Commissions, two hundred four thousand pesos each; and the Members of the Constitutional Commissions, one hundred eighty thousand pesos each.
 
 Section 18. At the earliest possible time, the Government shall increase the salary scales of the other officials and employees of the National Government.
 

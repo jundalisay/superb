@@ -2,12 +2,12 @@
 title: "Native Priests"
 date: 2022-04-30
 image: /covers/travels.jpg
-description: ""
+description: "The native priest of Bátu was full of complaints about his parishioners, who gave him no opportunities of gaining an honest penny."
 linkTitle: "Chapter 13"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
+linkb: "/research/jagor/ph/chapter-12b"
+linkbtext: "Chapter 12b"
+linkf: "/research/jagor/ph/chapter-13b"
+linkftext: "Chatper 13b"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -37,7 +37,9 @@ When I revisited the same lake in February, I found its waters so greatly fallen
 
 The withdrawal of the waters had compressed the tangled seaweed into a kind of matting, which, bleached by the sun, and nearly an inch thick, covered the whole of the shore, and hung suspended over the stunted bushes which, on my first visit, had been under water. I have never either seen elsewhere, or heard any one mention, a similar phenomenon.
 
-The native priest of Bátu was full of complaints about his parishioners, who gave him no opportunities of gaining an honest penny. “I am never asked for a mass, sir ; in fact, this is such a miserable hole that it is shunned by Death itself. In D., where I was for a long time coadjutor, we had our couple of burials regularly every day at 3 dollars a head, and as many masses at a dollar apiece as we had time to say, besides christenings and weddings, which always brought a little more grist to the mill. But here nothing takes place, and I scarcely make anything." 
+The native priest of Bátu was full of complaints about his parishioners, who gave him no opportunities of gaining an honest penny. 
+
+“I am never asked for a mass, sir ; in fact, this is such a miserable hole that it is shunned by Death itself. In D., where I was for a long time coadjutor, we had our couple of burials regularly every day at 3 dollars a head, and as many masses at a dollar apiece as we had time to say, besides christenings and weddings, which always brought a little more grist to the mill. But here nothing takes place, and I scarcely make anything." 
 
 This stagnant state of things led him into commerce. Native priests, as a rule, do little credit to their profession. They are:
 - extraordinarily ignorant

@@ -107,8 +107,12 @@ The State shall regulate and exercise authority over foreign investments within 
 
 **Section 11**
 
-No franchise, certificate, or any other form of authorization for the operation of a public utility shall be granted except to citizens of the Philippines or to corporations or associations organized under the laws of the Philippines at least 60% of whose capital is owned by such citizens, nor shall such franchise, certificate, or authorization be exclusive in character or for a longer than 50% years. 
+A franchise, certificate, or authorization to operate a public utility shall:
+- be granted only to Filipinos or to corporations or associations organized under Philippine laws with capital of at least 60% owned by Filipinos.
+- not be exclusive in character or be granted longer than 50 years. 
 
-Neither shall any such franchise or right be granted except under the condition that it shall be subject to amendment, alteration, or repeal by the Congress when the common good so requires. The State shall encourage equity participation in public utilities by the general public. The participation of foreign investors in the governing body of any public utility enterprise shall be limited to their proportionate share in its capital, and all the executive and managing officers of such corporation or association must be citizens of the Philippines.
+Such franchise or right is subject to amendment, alteration, or repeal by the Congress when the common good so requires.
 
+The State shall encourage equity participation in public utilities by the general public. 
 
+The participation of foreign investors in the governing body of any public utility enterprise shall be limited to their proportionate share in its capital. All the executive and managing officers of such corporation or association must be Filipinos.

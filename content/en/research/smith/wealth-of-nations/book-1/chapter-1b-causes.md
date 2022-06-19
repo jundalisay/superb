@@ -1,15 +1,16 @@
-+++
-title=  "What Causes the Increase in Productivity?"
-heading=  "Chapter 1b of the Wealth of Nations Simplified"
-date=  2020-01-30
-image=  "/covers/wn.jpg"
-description=  "Division of Labor raises productivity by increasing skill, time savings, and by the invention of technology"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-1-division"
-linkbtext=  "Division of Labor"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-1c-productivity"
-linkftext=  "Productivity"
-icon=  "/icons/smith.png"
-+++
+---
+title: "What Causes the Increase in Productivity?"
+heading: "Chapter 1b of Book 1 of the Wealth of Nations Simplified"
+date: 2020-01-29
+image: "/covers/wn.jpg"
+description: "Division of Labor raises productivity by increasing skill, time savings, and by the invention of technology"
+linkb: /research/smith/wealth-of-nations/book-1/chapter-1b
+linkbtext: "Chapter 1"
+linkf: /research/smith/wealth-of-nations/book-1/chapter-1c-productivity
+linkftext: "Chapter 1c"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="5" >}} This great increase in productivity from the division of labour is due to three circumstances= 

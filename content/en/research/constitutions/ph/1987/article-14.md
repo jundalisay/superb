@@ -87,13 +87,21 @@ Section 9. The Congress shall establish a national language commission composed 
 
 ## Science and Technology
 
-Section 10. Science and technology are essential for national development and progress. The State shall give priority to research and development, invention, innovation, and their utilization; and to science and technology education, training, and services. It shall support indigenous, appropriate, and self-reliant scientific and technological capabilities, and their application to the country’s productive systems and national life.
+Section 10. 
 
-Section 11. The Congress may provide for incentives, including tax deductions, to encourage private participation in programs of basic and applied scientific research. Scholarships, grants-in-aid, or other forms of incentives shall be provided to deserving science students, researchers, scientists, inventors, technologists, and specially gifted citizens.
+Science and technology are essential for national development and progress. The State shall give priority to research and development, invention, innovation, and their utilization; and to science and technology education, training, and services. It shall support indigenous, appropriate, and self-reliant scientific and technological capabilities, and their application to the country’s productive systems and national life.
 
-Section 12. The State shall regulate the transfer and promote the adaptation of technology from all sources for the national benefit. It shall encourage the widest participation of private groups, local governments, and community-based organizations in the generation and utilization of science and technology.
+Section 11. 
 
-Section 13. The State shall protect and secure the exclusive rights of scientists, inventors, artists, and other gifted citizens to their intellectual property and creations, particularly when beneficial to the people, for such period as may be provided by law.
+The Congress may provide for incentives, including tax deductions, to encourage private participation in programs of basic and applied scientific research. Scholarships, grants-in-aid, or other forms of incentives shall be provided to deserving science students, researchers, scientists, inventors, technologists, and specially gifted citizens.
+
+Section 12. 
+
+The State shall regulate the transfer and promote the adaptation of technology from all sources for the national benefit. It shall encourage the widest participation of private groups, local governments, and community-based organizations in the generation and utilization of science and technology.
+
+Section 13. 
+
+The State shall protect and secure the exclusive rights of scientists, inventors, artists, and other gifted citizens to their intellectual property and creations, particularly when beneficial to the people, for such period as may be provided by law.
 
 
 ## Arts and Culture
