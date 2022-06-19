@@ -1,17 +1,17 @@
-+++
-title= "Roads Should Not Be Privatized"
-description=  "Levying a toll on turnpikes is liable to very important objections"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3a"
-linkbtext=  "Part 3a"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3c"
-linkftext=  "Part 3c"
-icon=  "/icons/smith.png"
-icontext=  "Adam Smith avatar"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
-+++
+---
+title: "Roads Should Not Be Privatized"
+heading: "Part 3b of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "There are many objections against levying a toll on turnpikes and privatizing roads"
+linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3a"
+linkftext: "Part 3a"
+linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3c"
+linkbtext: "Part 3c"
+# youtube: "H0tUf35JB44"
+author: Adam Smith
+icon: /avatars/smith.png
+---
 
 
 {{< s v="78" >}} The tolls for maintaining a high road cannot be made private property. This is because a neglected high road does not become impassable, but a a neglected canal becomes impassable.

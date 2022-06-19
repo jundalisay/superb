@@ -1,4 +1,3 @@
-
 +++
 title=  "Exchange (Forex and Trade Financing)"
 heading=  "Chapter 15 of Part 2 Section 2"

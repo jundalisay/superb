@@ -1,6 +1,3 @@
-
-
-
 +++
 title=  "The Rate of Interest"
 heading=  "Chapter 14 of Part 2 Section 2"

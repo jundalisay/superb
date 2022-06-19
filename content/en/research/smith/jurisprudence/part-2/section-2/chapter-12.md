@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 +++
 title=  "The Opinion that no Expense at Home can be hurtful"
 heading=  "Chapter 12 of Part 2 Section 2"
@@ -16,6 +9,7 @@ linkbtext=  "Chapter 11"
 linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-13"
 linkftext=  "Chapter 13"
 +++
+
 
 The absurd notion that national opulence consists in money has another bad effect -- it makes people think that whatever people spend locally cannot reduce public opulence.
 

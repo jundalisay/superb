@@ -25,20 +25,20 @@ An economic system based on the private ownership of capital to produce goods an
 
 Based on this defintion, can we conclusively answer if the following are capitalist?
 
-- A baker who grows his own wheat, employs a few assistants, and bakes his own bread to be sold for profit?
-  - According to the definition, Yes.
-- A corporation that is unable to make any profits or just breaks even for a long time?
-  - Yes, since the profit intention is there.
-- A holding company or shell company that produces nothing?
-  - No, since nothing is produced.
-- A day-trader who uses his own money to buy stocks in the morning and sell in the afternoon for profit?
-  - No, since nothing is produced.
-- A long-term investor that uses his money to buy and hold stocks in a company that sells products profitably?
-  - Yes. All criteria are met.
-- A corporation that makes profits but gives it all back to society?
-  - Yes because the motive was there, but no since the profits were lost.
 
-Obviously, the above is not a clear definition of capitalism since we do not regard the bakers of 1,000 years ago as capitalists, and the shell companies of today as non-capitalists. To get a clear definition*, we follow David Hume's method of breaking down the compound idea of capitalism into its basic parts. The five basic ideas in it are:
+Entity | Is it Capitalist?
+--- | ---
+A baker who grows his own wheat, employs a few assistants, and bakes his own bread to be sold for profit | According to the definition, Yes.
+A corporation that is unable to make any profits or just breaks even for a long time | Yes, since the profit intention is there
+A holding company or shell company that produces nothing | No, since nothing is produced
+A day-trader who uses his own money to buy stocks in the morning and sell in the afternoon for profit | No, since nothing is produced
+A long-term investor that uses his money to buy and hold stocks in a company that sells products profitably | Yes. All criteria are met
+A corporation that makes profits but gives it all back to society | Yes because the motive was there, but no since the profits were lost
+
+
+Obviously, the above is not a clear definition of capitalism since we do not regard the bakers of 1,000 years ago as capitalists, and the shell companies of today as non-capitalists. 
+
+To get a clear definition*, we follow David Hume's method of breaking down the compound idea of capitalism into its basic parts. The five basic ideas in it are:
 
 1. private ownership
 2. capital
@@ -46,24 +46,30 @@ Obviously, the above is not a clear definition of capitalism since we do not reg
 4. goods & services
 5. profit
 
-> *We must define everything because our goal is to [automate the running of the economy](/articles/superphysics/what-is-isaiah) to make it as efficient as possible
+> *We must define everything because our goal is to [automate the running of the economy](/superphysics/solutions/isaiah) to make it as efficient as possible
 
-We remove the capital*, production, goods & services, as they are common to every economic system. How else can goods & services exist other than by production through capital? Thus, private ownership and profit remain as the noteworthy basic ideas possibly unique to capitalism.
-
+We remove the capital*, production, goods & services, as they are common to every economic system. How else can goods & services exist other than by production through capital? 
 
 > *Smith defines capital as anything that produces value and is not used for final consumption. He divides it into fixed capital (such as a singer's lovely voice) and circulating capital (such as gasoline for a taxi, with the taxi service being the final consumption)
+
+
+Thus, private ownership and profit remain as the noteworthy basic ideas possibly unique to capitalism.
 
 
 
 ## Private Ownership?
 
-Private ownership alone cannot be capitalism's defining characteristic since feudal lands and even a whole country like North Korea can be said to be under private ownership of their rulers, yet are still able to produce goods. This leaves us with **the profit motive** as its possible defining characteristic. This is strengthened by the fact that rulers earn revenue from rent as taxes, and not from the profits of buying and selling.
+Private ownership alone cannot be capitalism's defining characteristic since feudal lands and even a whole country like North Korea can be said to be under private ownership of their rulers, yet are still able to produce goods. 
+
+This leaves us with **the profit motive** as its possible defining characteristic. This is strengthened by the fact that rulers earn revenue from rent as taxes, and not from the profits of buying and selling.
 
 
 {{< img src="https://socioecons.files.wordpress.com/2015/07/a0155bc65a21c8ad73c5235b78814c1a-genghis-khan-horde.jpg" alt="Mongol leader" cap="Rulers such as Genghis Khan and the Arab Muslims earned by taxing the people directly (as jizya) and not by commerce" >}}
 
 
-However, the problem with this is that the profit motive also defines mercantilism. Merchants in the 18th century lobbied for tariffs, exclusive privileges, and subsidies in order to get higher profits from commerce. The businessmen of the 17th century set up mercantile companies to profit from the production of tea and opium in India, just as Apple funded factories in China to produce iPhones to take advantage of price differences. Then and now, this massive profiteering can only be done through big business organizations.
+However, the problem with this is that the profit motive also defines mercantilism. 
+
+Merchants in the 18th century lobbied for tariffs, exclusive privileges, and subsidies in order to get higher profits from commerce. The businessmen of the 17th century set up mercantile companies to profit from the production of tea and opium in India, just as Apple funded factories in China to produce iPhones to take advantage of price differences. Then and now, this massive profiteering can only be done through big business organizations.
 
 <!-- Thus, those pro-business regulations were merely the effects, and the profit motive was the cause. This is why Adam Smith wrote so much against such regulations which enriched the few and impoverished the poor. Unfortunately, those businessmen found a champion in Paul Samuelson who corrupted Smith's words to appear that he was totally anti-regulation. -->
 
@@ -71,13 +77,12 @@ In Book 5 of The Wealth of Nations, corporations or firms were known as joint st
 
 Joint stock company (Book 5, Chap. 1) | Corporation or firm
 --- | ---
-trade on a joint stock, on a large capital | trade on a common or preferred stock representing a large capital
-each member shares in the common profit or loss in proportion to his share in this stock | Stockholder's liability is limited to his stock investment
-Member can transfer shares, introduce new members without the company’s consent | People can buy and transfer shares of publicly listed companies
-Value of a share is always its market price and is different from the stated value | Stock price can be different from the IPO price or par value
+Trade on a joint stock, on a large capital | Trade on a common or preferred stock representing a large capital
+Each member shares in the common profit or loss in proportion to his share | Stockholder's liability is limited to his stock investment
+Members can transfer shares, introduce new members without the company’s consent | People can buy and transfer shares of publicly listed companies
+The value of a share is always its market price and is different from the stated value | Stock price can be different from the IPO price or par value
 The joint stock company is always managed by a court of directors | The corporation is managed by executives under a CEO
-The court of direcors is frequently subject to a court of proprietors | But most of those proprietors seldom pretend to understand the business of the company The CEO is managed by a board of directors from various backgrounds
-
+The court of directors is under a court of proprietors who do not understand the company's business | The CEO is managed by a board of directors from various backgrounds
 
 
 
@@ -91,15 +96,14 @@ Merchants and master manufacturers are the two classes in this order who employ 
 {{< /quote >}}
 
 
-But different words exist only to express different ideas. Even if the basic idea of capitalism and mercantilism are the same, there must have been a secondary basic idea to differentiate their expression, otherwise, they could've been used interchangeably, just as the words 'automobile' and 'car' can mean the exact same thing. <!-- No one will be confused by 'ride my automobile' and 'ride my car'. But we cannot say 'you are a capitalist' and 'you are a mercantilist' to a person who trades stocks.  -->
+But different words exist only to express different ideas. Even if the basic idea of capitalism and mercantilism are the same, there must have been a secondary basic idea to differentiate them. Otherwise, they could've been used interchangeably, just as the words 'automobile' and 'car' mean the exact same thing. <!-- No one will be confused by 'ride my automobile' and 'ride my car'. But we cannot say 'you are a capitalist' and 'you are a mercantilist' to a person who trades stocks.  -->
 
 To find this secondary idea, we retrace our steps back to 'private ownership' to see if there is any difference in the idea of private ownership in mercantilism and private ownership in capitalism.
 
 
-
 ### Outside Private Ownership
 
-The main difference between mercantilism and capitalism is the prevalence of regulated companies (government-owned corporations) in the former and their lack in the latter. The most significant characteristic of regulated companies is their exclusivity, similar to guilds of the past.
+The main difference between mercantilism and capitalism is the prevalence of private regulated companies in the former and their lack in the latter. The most significant characteristic of private regulated companies is their exclusivity, similar to guilds of the past.
 
 {{< quote ava="smith" >}}
 The object of most of the bylaws of all regulated companies and all other corporations, is not so much to oppress existing members. Its object is more to discourage others from becoming members... The directors of a regulated company, haveno common capital to manage.They have no other fund to use for forts and garrisons other than the casual revenue from: the admission fines, the corporation duties.

@@ -1,5 +1,3 @@
-
-
 +++
 title=  "The Causes of the slow Progress of Opulence"
 heading=  "Chapter 16 of Part 2 Section 2"
@@ -16,9 +14,8 @@ It is surprising for nations to continue to be poor for so long when we consider
 
 This is caused by natural impediments and the oppression by the government.
 
-<br>
 
-### Lack of Division of Labor or Teamwork
+## Lack of Division of Labor or Teamwork
 
 A barbarous people are ignorant of the effects of the division of labour. It takes a long time before a person can produce more than is necessary for his daily subsistence. 
 

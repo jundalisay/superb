@@ -1,15 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
 +++
 title=  "What Causes the Division of Labour"
 heading=  "Chapter 5 of Part 3"
