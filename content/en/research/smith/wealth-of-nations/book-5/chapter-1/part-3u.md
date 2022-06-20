@@ -1,148 +1,120 @@
 +++
-title=  "Educational Fees"
-description=  "The proper performance of every service requires that its pay be proportional to the nature of the service"
-date=  2015-01-01
+title= "Women's Education and Basic Educational Institutions"
+description=  "Women's Education and Basic Educational Institutions"
 image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3t"
-linkbtext=  "Part 3t"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-4"
-linkftext=  "Part 4"
-heading=  "Part 3u"
+linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3n"
+linkbtext=  "Part 3n"
+linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3p"
+linkftext=  "Part 3p"
+heading=  "Part 3o"
 icon=  "/icons/smith.png"
+# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ
+# linkbooktext=  Support Superphysics by buying the ebook
 +++
 
 
-{{< s v="227" >}} The church benefices cannot be very big if they are all nearly equal.
+{{< s v="175" >}} There are no public educational institutions for women. There is accordingly nothing useless, absurd, or fantastic in their common education.
 
-This mediocrity of benefice may be carried too far but has very agreeable effects.
-Only the most exemplary morals can give dignity to a man of small fortune.
-Levity and vanity render him ridiculous.
+They are taught what their parents judge necessary or useful for them to learn and nothing else.
 
-They are as ruinous to him as they are to common people.
-He must follow the moral system respected by the common people.
-The common people look upon him with the kindness that we naturally regard to someone of the same condition but who, we think, should be higher.
-Their kindness naturally provokes his kindness.
+Their education is used to improve the natural attractions of their person, form their mind to reserve, modesty, chastity, and economy, make them the mistresses of a family, and make them behave properly when they have become such.
 
-He becomes:
-- careful to instruct them, and
-- attentive to assist them.
+In every part of her life, a woman feels some conveniency or advantage from her education.
 
-He does not even despise the prejudices of people who are favourable to him.
-He never treats them with the arrogance of the proud dignitaries of well-endowed churches.
-The presbyterian clergy have more influence over the common people than perhaps that of any established church.
-
-Common people convert completely without persecution only in presbyterian countries.
+A man seldom derives any conveniency or advantage from the most laborious and troublesome education.
 
 
-{{< s v="228" >}} In countries where church benefices are very moderate, a university position is generally better than a church position.
+{{< s v="176" >}} Should the public give no attention to the people's education?
 
-In this case, the universities can choose their members from all the country's churchmen.
-The churchmen are the most numerous class of men of letters.
-On the contrary, where church benefices are very big, the church naturally draws their eminent men of letters from the universities.
-
-Those men find some patron to give them honour through church preferment.
-Where church benefices are very moderate, universities are filled with the most eminent men of letters of the country.
-
-Where benefices are big, universities have a few eminent men.
-They are likely to be drained away from universities before acquiring useful experience and knowledge.
-
-Father Porrée was a Jesuit of no great eminence in the republic of letters.
-
-Voltaire observes that he was the only professor in France whose works were worth reading.
-France has produced so many eminent men of letters.
-It is strange that none have been a university professor.
-The famous Gassendi was a professor in the university of Aix.
-When his genius was recognized, he was told that he could easily find in the church= 
-a more quiet and comfortable subsistence, and
-a better situation for pursuing his studies.
-He immediately followed this advice.
-Voltaire's observation may be applied to France and all Roman Catholic countries.
-
-We very rarely find in any of them an eminent man of letters who is a professor in a university, except in law and physics.
-The Church is not so likely to draw from those professions.
-After the Church of Rome, the Church of England is the richest and best endowed in Christendom.
-In England, the Church is continually draining the universities of all their best members.
-An old college tutor who is an eminent man of letters, is as rarely found there as in any Roman catholic country.
-On the contrary, in Protestant countries like Switzerland, Germany, Holland, Scotland, Sweden, and Denmark, the most eminent men of letters have been university professors.
-
-In those countries, the universities are continually draining the church of all its most eminent men of letters.
-
-{{< s v="229" >}} In Greece and Rome, the following were public or private teachers of philosophy or rhetoric:
-- poets,
-- a few orators,
-- a few historians,
-- the far greater part of the other eminent men of letters.
-
-This is true from the days of= 
-- Lysias and Isocrates,
-- Plato and Aristotle,
-- Plutarch and Epictetus, and
-- Suetonius and Quintilian.
-
-In reality, imposing the need to teach any science annually is the most effective method for making anyone master it completely.
-
-He becomes well acquainted with it by being obliged to go every year over the same subject.
-If he makes a hasty opinion in one year, he can correct it in the following year through the course of his lectures.
-To be a teacher of science is certainly the natural employment of a mere man of letters.
-
-Science education can best make him a man of solid learning and knowledge.
-The mediocity of church benefices naturally draws most men of letters.
-It makes them most useful to the public.
-It gives them the best education they are capable of receiving.
-It renders their learning as solid and as useful as possible.
+If it should give any, what are the parts of education which it should attend to in the different orders of people? How should it to attend to them?
 
 
-{{< s v="230" >}} The revenue of every church, except those from lands or manors, is part of the state's general revenue.
+{{< s v="177" >}} In some cases, the state places most individuals in situations that allow them to naturally develop almost all the abilities and virtues required by that state, without any government attention.
 
-It is diverted from the state's defence.
-For example, the tithe is a real land-tax.
-It prevents the proprietors of land from contributing more towards the state's defence.
-The rent of land is the sole or the principal fund from which the state exigencies must be ultimately supplied.
-The more of this fund that is given to the church, the less can be spared to the state.
-It may be laid down as a maxim that, all other things equal, the richer the church, the poorer the the sovereign or the people must be and the less the state can defend itself.
-
-In protestant countries, particularly in Switzerland, the Catholic Church's revenue was sufficient to:
-- give competent salaries to their clergy, and
-- defray all the other state expences.
-
-The magistrates of the powerful canton of Berne accumulated a very large savings from this fund.
-
-Part of it is deposited in a public treasury.
-Part of it is placed at interest in the public funds of the indebted European nations, chiefly of France and Great Britain.
-I do not know how much the church of any other protestant country costs the state.
-In 1755, the whole revenue of the clergy of the Church of Scotland was estimated at only £68,514 which included:
-- their glebe or church lands, and
-- the rent of their manses or dwelling-houses.
-
-This very moderate revenue affords a decent subsistence to 944 ministers.
-The church's whole expence cannot exceed £80,000-85,000 a year.
-It includes the cost for the building and repair of churches and of the manses of ministers.
-The most opulent church in Christendom does not maintain the following better than this very poorly endowed Church of Scotland:
-- the uniformity of faith,
-- the fervour of devotion, and
-- the spirit of order, regularity, and austere morals in the people.
-
-All the good civil and religious effects of an established church are produced by the Church of Scotland as completely as any other.
-
-Most of the protestant churches of Switzerland are not better endowed than the church of Scotland.
-They produce more of those effects.
-
-Everyone there profess themselves to be of the established church.
-If a person professes himself to be of any other, the law obliges him to leave the canton.
-Such an oppressive law, could only have been executed in those free countries from the diligence of the clergy in converting the people to the established church.
-In some parts of Switzerland where the conversion was incomplete, both religions are tolerated and established by law.
+In other cases, the state does not place individuals in such situations.
+Some government attention is needed to prevent the people's corruption and degeneracy.
 
 
+{{< s v="178" >}} In the progress of the division of labour, the employment of most of people becomes confined to a few very simple operations, frequently to one or two.
 
-{{< s v="231" >}} **The proper performance of every service requires that its pay be proportional to the nature of the service.**
+But the understandings of most men are necessarily formed by their ordinary employments.
 
-If any service is very underpaid, it will suffer from the incapacity of those employed in it.
-If it is very much overpaid, it will suffer more from negligence and idleness.
+The man who performs a few, simple, unchanging operations his whole life, does not commonly need to exert his understanding or find ways to remove difficulties which never occur.
+- He naturally loses the habit of such exertion.
+- He generally becomes as stupid and ignorant as possible for a human to become.
+- The torpor of his mind renders him incapable of:
+  - relishing any rational conversation,
+  - conceiving any generous, noble, or tender sentiment,
+  - forming any just judgement about the ordinary duties of private life.
+- He is:
+  - incapable of judging the great and extensive interests of his country.
+  - equally incapable of defending his country in war.
 
-A man of a large revenue of whatever profession thinks that he should:
-- live like other men of large revenues,
-- spend most his time in festivity, vanity, and dissipation.
+The uniformity of his stationary life naturally corrupts the courage of his mind.
+It makes him abhor the irregular, uncertain, and adventurous life of a soldier.
+It corrupts even the activity of his body.
+It renders him incapable of exerting his strength with vigour and perseverance in any other employment.
 
-But in a clergyman, this thinking:
-- consumes the time set aside for his duties,
-- destroys that sanctity of character in the eyes of the common people, which enables him to perform those duties with authority.
+
+His dexterity at his own trade is acquired at the cost of his intellectual, social, and martial virtues.
+In every civilized society, this is the state of the labouring poor or most of the people, unless the government prevents it.
+
+
+{{< s v="179" >}} It is otherwise in the barbarous societies of hunters, shepherds, and husbandmen.
+
+In such societies, the varied occupations of every man oblige them to:
+- exert their capacity,
+- invent expedients for removing difficulties continually occurring.
+
+Invention is kept alive. The mind does not fall into that drowsy stupidity.
+In a civilized society, it seems to benumb the understanding of the inferior ranks of people.
+
+In those barbarous societies, every man is a warrior. Every man too is in some measure a statesman.
+
+He can form a tolerable judgement author:
+- his society's interest and
+- the conduct of its leaders.
+
+Almost everyone in his society knows how good their chiefs are as judges in peace or as leaders in war.
+In such a society, no one can acquire the improved and refined understanding which a few men can have in a more civilized state.
+
+A rude society has more variety in individual occupations.
+
+But there is little variety in the occupations of the whole society taken together.
+Every man does almost everything which any other man does.
+Every man has a considerable degree of knowledge, ingenuity, and invention, but no one has a great degree of them.
+What they have is sufficient only for conducting the simple business of society.
+In a civilized state, on the contrary, there is little variety in individual occupations.
+
+But there is an almost infinite variety in the occupations of the whole society.
+A few people are not attached to a particular occupation.
+They have leisure and inclination to examine the occupations of other people.
+These varied occupations present an almost infinite variety of objects to their contemplation.
+The contemplation of such a variety of objects exercises their minds in endless comparisons and combinations.
+
+It renders their understandings extraordinarily acute and comprehensive.
+Unless those few were placed in very particular situations, their great, honourable abilities may contribute very little for their society's happiness.
+
+All the nobler parts of the human character may be extinguished in the people.
+
+
+{{< s v="180" >}} In a civilized society, the education of the common people requires perhaps the public's attention more than those of people of rank and fortune.
+
+People of some rank and fortune are generally 18 or 19 years old before they enter their business or profession, wherein they hope to distinguish themselves.
+Before that, they have time to acquire every accomplishment which can make them worthy of the public esteem.
+
+Their parents or guardians are anxious that they should be so accomplished.
+In most cases, they are willing to spend for that purpose.
+
+If they are not always properly educated, it is because of:
+- the improper spending, and not from the lack of spending for education,
+- the negligence and incapacity of the available teachers, not from the lack of teachers, and
+- the difficulty of finding more skilled teachers.
+
+The employments of people of rank or fortune are not simple and uniform like those of the common people.
+
+They are almost all extremely complicated.
+They exercise the head more than the hands.
+They generally have a lot of leisure.
+Their intellect seldom grows torpid from the lack of exercise.
+They may perfect themselves in every useful or ornamental knowledge.

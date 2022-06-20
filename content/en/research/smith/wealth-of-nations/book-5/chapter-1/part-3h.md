@@ -1,64 +1,120 @@
 ---
-title: "The Royal African Joint Stock Company (1660-1752)"
-heading: "Part 3h of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+title: "The African Regulated Company of Merchants (1752-1821)"
+heading: "Part 3f of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
 date: 2021-08-01
 image: "/covers/wn.jpg"
-description: "The Royal African Company is the predecessor of the present African Company"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3g"
-linkftext: "Part 3g"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3i"
-linkbtext: "Part 3i"
+description: "The 23rd of George 2nd chapter 31 established the African Company"
+linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3e"
+linkftext: "Part 3e"
+linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3g"
+linkbtext: "Part 3g"
 author: Adam Smith
 icon: /avatars/smith.png
 ---
 
 
+{{< s v="101" >}} In 1750 long after the time of Sir Josiah Child, the African Company of Merchants, a regulated company, was established by the 23rd of George 2nd chapter 31.
 
-{{< s v="108" >}} The Royal African Joint Stock Company is the predecessor of the present regulated African Company of Merchants.
+It had two objects: 
 
-Both it and the Hudson's Bay Company had an exclusive privilege by charter which was not confirmed by an act of parliament. 
+1. Restrain the oppressive and monopolizing spirit natural to the <!-- directors --> executives of a private regulated company
+2. Force them to maintain forts and garrisons, something unnatural to them.
 
-<!--  is in the same situation as the Royal African Company in their legal rights.
-Their exclusive charter was not confirmed by an act of parliament. -->
-
-The following had an exclusive privilege confirmed by act of parliament as long as they were a trading company:
-- The South Sea Joint Stock Company
-- The United Joint Stock Company of Merchants trading to the East Indies.
-
-After the declaration of rights after the revolution, the trade was opened to all British. <!-- his majesty's subjects. -->
-
-{{< s v="109" >}} The Royal African Company soon found that they could not compete against private adventurers.
-- It continued to persecute them as interlopers despite the Declaration of Rights.
-
-In 1698, the private adventurers were subjected to a 10% duty on almost all their trades.
-- This tax was to be used by the company to maintain their forts and garrisons.
-- Despite this heavy tax, the company was still unable to keep up with <!--  maintain --> the competition.
-- Their stock and credit gradually declined.
-
-In 1712, their debts became so great that an act of parliament had to secure the company and their creditors.
-- It enacted that the resolution of 2/3 of these creditors in number and value should bind the rest, with regard:
-  - to the time for the company to pay its debts, and
-  - to any other agreement on those debts.
-
-The sole purpose and pretext of their institution was to maintain their forts and garrisons.
-
-In 1730, the company was in so great disorder that they could not even do this.
-- From 1730 until its final dissolution in 1752, the parliament alloted £10,000 annually for that purpose.
-
-For many years, it was a loser in the negro slave trade to the West Indies.
-- In 1732, it finally gave up the slave trade and sold its negroes to the private traders to America.
-- It employed its staff <!-- servants --> in a trade to the inland parts of Africa for gold dust, elephants' teeth, dyeing drugs, etc.
-  - Its success in this smaller trade was not greater than their success in their old extensive slave trade.
-
-Its affairs continued to gradually decline.
-- It went bankrupt and was dissolved by act of parliament.
-
-Its forts and garrisons were put under the regulated African Company of Merchants.<!--  company of merchants trading to Africa. -->
-
-Before the Royal African Company's establishment, there were 3 other joint stock companies successively established for the African trade.*
-- They were all equally unsuccessful.
-- They all had exclusive charters not confirmed by act of parliament.
-- Those charters conveyed a real exclusive privilege.
+At first, it was expressly charged to maintain all the British forts and garrisons between Cape Blanc and the Cape of Good Hope. Afterwards, it maintained only those between Cape Rouge and the Cape of Good Hope.
 
 
-> *Superphysics Note: This implies that the African slave trade was declining that it had to be liberalized through private regulated companies instead of joint stock companies. It seems that join stock companies are for agriculture while the regulated companies are for extractive industries.
+## Restraining Monopoly
+
+{{< s v="102" >}} For the first purpose, the admission fee is limited to 40 shillings.
+
+The company is prohibited from:
+- <!-- trading --> doing business using <!-- in their corporate capacity or on a --> a joint stock,
+- borrowing money on common seal, and
+- restraining <!--  laying any restraints on --> the business <!-- trade --> which may be done freely from all places, and by all British persons after paying the admission fee.
+
+The management is made up of a committee of 9 persons who meet at London. They are chosen annually by the freemen of the company at London, Bristol, and Liverpool, 3 from each place.
+
+No committee member can be in office for more than 3 years. After being heard in his own defence, any committee member can be removed by the Board of Trade and Plantations.
+
+They are now removed by a committee council which is forbidden from:
+- exporting negroes from Africa, and
+- importing any African goods into Great Britain.
+
+They:
+- are charged with the maintenance of forts and garrisons.
+- may export goods from Great Britain to Africa for that purpose.
+
+They are allowed to receive from the company:
+- up to £800 for the salaries of their clerks and agents at London, Bristol, and Liverpool,
+- the house-rent of their office at London, and
+- all other expences of management, commission, and agency in England.
+
+What remains of this sum after defraying these expences may be divided among themselves as compensation.
+
+These rules were expected to restrain the spirit of monopoly of the executives<!-- directors -->. But they did not.
+
+By the 4th of George 3rd chapter 20, the fort of Senegal with all its dependencies was put under this company. <!-- vested in the company of merchants trading to Africa. -->
+- In the next year (by the 5th of George 3rd chapter 44), Senegal, its dependencies and the whole coast from the port of Salé in Morocco to Cape Rouge was exempted from the jurisdiction of that company.
+- Those areas were put back <!--  vested in --> under the crown.
+
+The business to them was declared free to all British. <!-- his Majesty's subjects. -->
+- The company was suspected of restraining that business <!-- trade --> and establishing some improper monopoly.
+
+It is not very easy to see how they could do so under the regulations of the 23rd of George 2nd. The printed debates of the House of Commons are not always the most truthful records.
+- In those debates, the company was accused of this monopoly.
+- The members of the committee were all merchants.
+
+Their governors and factors in their forts and settlements were all dependent on them. It is likely that the governors and factors gave peculiar attention to the consignments and commissions of the committee to establish a real monopoly.
+
+
+
+## Maintaining Forts
+
+{{< sup v="103" >}} The act's second purpose was the maintenance of forts and garrisons.
+
+Around £13,000 was allotted to the company by parliament.
+- The committee is obliged to account this sum annually to the Cursitor Baron of Exchequer.
+- Its account is afterwards laid before Parliament.
+
+But Parliament gives so little attention to the application of millions.
+- It is not likely to give much attention to £13,000 a year.
+- The profession and education of a Cursitor Baron of Exchequer is not likely to be skilled in the proper expence of forts and garrisons.
+
+The captains of the British navy or any commissioned officers appointed by the Board of Admiralty may:
+- inquire into the condition of the forts and garrisons, and
+- report their observations to that board.
+
+**But that board has no direct jurisdiction over the committee.**
+- It has no authority to correct the committee's conduct.
+- The captains of the British navy are not experts in fortifications.
+
+The committee's term can only last for 3 years.
+- Its lawful emoluments are very small.
+- Removal from this office is the highest punishment for any committee member for any fault except direct malversation or embezzlement of money.
+  - That punishment can never force a careful attention to a business he has no interest in.
+
+<!--  is accused of sending out bricks and stones from England to .  -->
+
+Parliament granted a lot of money to the committee several times to send bricks and stones to repair the Cape Coast Castle on the coast of Guinea.
+- These were sent on a long voyage.
+- But they were of so bad quality that it was necessary to rebuild the walls repaired with them.
+
+The forts and garrisons north of Cape Rouge are maintained at the expence of the state and governed by it.
+
+There is no good reason why the forts south of Cape Rouge maintained at state expence should be under private management.<!--  a different government. -->
+- The Gibraltar and Minorca garrisons were originally to protect the Mediterranean trade
+- The management of those garrisons was always very properly committed to the government and not <!-- executive power, not --> to the Turkey Company.
+
+The <!-- executive power --> government takes pride <!-- and dignity --> in the <!-- extent --> size of its dominion. It will likely be <!--  is not very likely to fail in --> attentive in defending that dominion.
+
+The Gibraltar and Minorca garrisons have never been neglected.
+- Minorca was twice taken and is now probably lost forever.
+- That disaster was never imputed to any neglect by the government<!--   executive power -->.
+
+I do not insinuate that those expensive garrisons was ever necessary for their separation from the Spanish monarchy.
+
+The only real purpose for that separation was:
+- to unite the 2 branches of the house of Bourbon in a much stricter and more permanent alliance than blood ties could unite, and
+- to alienate the King of Spain from England.
+
+The King of Spain is England's natural ally.

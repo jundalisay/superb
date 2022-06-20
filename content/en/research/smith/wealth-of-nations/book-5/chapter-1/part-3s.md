@@ -1,117 +1,87 @@
-+++
-title=  "Church Politics"
-description=  "Church Politics"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3r"
-linkbtext=  "Part 3r"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3t"
-linkftext=  "Part 3t"
-heading=  "Part 3s"
-icon=  "/icons/smith.png"
-+++
+---
+title: "European Education"
+heading: "Part 3s of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "The changes introduced by European universities into the ancient course of philosophy were all meant to educate ecclesiastics"
+linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3r"
+linkftext: "Part 3r"
+linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3t"
+linkbtext: "Part 3t"
+author: Adam Smith
+icon: /avatars/smith.png
+---
 
 
+{{< s v="159" >}} The following was the common course of philosophical education in most European universities:
+- Logic was taught first
+- Ontology came in second
+- Pneumatology came in third. This was the doctrine on the nature of the human soul and the Deity
+- A debased system of moral philosophy came in fourth. This was immediately connected with: 
+  - The doctrines of Pneumatology
+  - The immortality of the human soul
+  - The rewards and punishments from the Deity to be expected in a life to come
 
-{{< s v="209" >}} In the Christian church's ancient constitution, the bishop of each diocese was elected by the joint votes of: 
-- the clergy, and
-- the people of the episcopal city.
-
-The people did not long retain their right of election.
-
-When they had it, they almost always acted under the clergy's influence.
-The clergy soon grew weary of managing them.
-They found it easier to elect their own bishops themselves in the same way as the abbot was elected by the monks of the monastery.
-All the inferior ecclesiastical benefices comprehended within the diocese were collated by the bishop.
-
-He bestowed them on such ecclesiastics as he thought proper.
-In this way, all church preferments were in the church's disposal.
-The sovereign might have some indirect influence in those elections.
-But he had no direct means of managing the clergy.
-The ambition of every clergyman naturally led him to court his own order more than the sovereign.
+A short and superficial system of Physics usually concluded the course.
 
 
-{{< s v="210" >}} Through most of Europe, the Pope gradually drew to himself:
+{{< s v="160" >}} The changes introduced by European universities into the ancient course of philosophy were all meant to: 
+- educate ecclesiastics, and
+- render it as a more proper introduction to the study of theology
 
-First, the Consistorial benefices
-These were a collation of the territories of bishops and abbies
-Afterwards, most of the inferior benefices within each diocese.
-The bishop was given only what was barely necessary to have decent authority over his own clergy.
-This arrangement worsened the condition of the sovereign than before.
-The European clergy formed into a spiritual army which could be now be directed by one head on one plan.
+But those changes introduced the following into philosophy: 
+- additional subtlety,
+- sophistry,
+- casuistry, and
+- ascetic morality.
 
-The clergy of each country was a detachment of that army.
-Its operations could easily be supported by other detachments around it.
-Each detachment was independent of the sovereign who maintained it.
-Each depended on the foreign sovereign in the Pope.
-He could at any time turn it against each sovereign, supported by the other detachments.
-
-
-{{< s v="211" >}} Those arms were most formidable.
-
-Before the establishment of arts and manufactures in ancient Europe, the clergy's wealth gave them the same influence over the common people as those of the great barons had over their vassals, tenants, and retainers.
-
-The mistaken piety of princes and private persons bestowed on the church the great landed estates.
-With those estates came the same jurisdictions as those of the great barons, and for the same reason.
-In those great landed estates, the clergy or their bailiffs, could easily keep the peace without the king's support.
-No one could keep the peace without the clergy's support.
-The clergy's jurisdictions in their particular baronies were equally independent.
-
-They were equally exclusive of the authority of the king's courts, as those of the great temporal lords.
-
-The clergy's tenants were like the tenants of the great barons. They were= 
-- almost all tenants at will, and
-- entirely dependent.
-
-They could be called out to fight in any quarrel which the clergy engaged them in.
-
-In addition to the rents of those estates, the clergy had a very large portion of the rents of all the other estates in every European kingdom in the tithes.
-
-Most of the revenues from both rents were paid in kind, in corn, wine, cattle poultry, etc.
-The amount greatly exceeded what the clergy could themselves consume.
-There were no arts nor manufactures which they could exchange for their surplus.
-The clergy could only derive advantage from this immense surplus by employing it in the most profuse hospitality and extensive charity.
-The ancient clergy's hospitality and charity was very great.
-
-They maintained:
-- the poor of every kingdom, and
-- many knights and gentlemen who travelled from monastery to monastery for subsistence under the pretence of devotion.
-
-The retainers of some prelates were as many as those of the greatest lay-lords.
-
-There were perhaps more retainers of all the clergy combined than those of all the lay-lords.
-There was always much more union among the clergy than among the lay-lords.
-The clergy were under a regular discipline and subordination to the Pope.
-The lay lords were not.
-They were always jealous of one another and the king.
-The union of the clergy's tenants and retainers would have made them more formidable than those of the great lay lords even if they were fewer.
-
-The clergy's hospitality and charity gave them the command of a great temporal force.
-It very much increased the weight of their spiritual weapons.
-Those virtues procured the clergy the highest respect and veneration of the poor who were fed by them.
-The possessions, privileges, doctrines of the clergy appeared sacred to the common people that their violation became the most wicked act.
-The sovereign frequently found it difficult to resist the confederacy of a few great nobles.
-
-He found it more difficult to resist the clergy's united force in his own dominions when they were supported by the clergy of neighbouring dominions.
-We may wonder how he was able to resist the clergy in such circumstances.
+These certainly did not:
+- render it more proper for education,
+- improve understanding, nor
+- mend the heart.
 
 
-{{< s v="212" >}} The clergy's privileges in those ancient times were most absurd. For example, they were totally exempted from the secular jurisdiction in England.
+{{< s v="161" >}} This course of philosophy is still taught diligently in most European universities.
 
-<!-- It was the natural consequences of the state of things then.
-How dangerous must it have been for the sovereign to punish a clergyman who was considered sacred? -->
-The sovereign could only let an erring clergyman be tried by the ecclesiastical courts which would restrain their members <!-- from committing enormous crimes --> in order to protect their own order's honour.
+In some of the richest and best endowed universities, the tutors teach a few unconnected shreds and parcels of this corrupted course.
+They commonly teach it very negligently and superficially.
 
 
-{{< s v="213" >}} Around the 10th-13th centuries in Europe, the Roman church was the most formidable combination ever formed against the government.
+{{< s v="162" >}} Most of the improvements made in several branches of philosophy were not made in universities.
 
-It is also against mankind's liberty, reason, and happiness.
-These can only flourish where civil government can protect them.
+Most universities did not even want to adopt those improvements.
+For a long time, several of those universities chose to remain the sanctuaries for exploded systems and obsolete prejudices after they had been hunted out of other parts of the world.
 
-The grossest superstitions were supported by <!-- the private interests of so many people in --> the private interest of the Roman church.
-- This kept them safe from the assault of human reason which might have been able to unveil some of the delusions of superstition.
-  - But it could never have dissolved the ties of private interest.
-  - If the Roman church had been attacked only by the feeble efforts of human reason, it would have endured forever.
+In general, the richest and best endowed universities were the slowest in adopting those improvements.
+They were most averse to permit any major change in the established plan of education.
+Those improvements were more easily introduced into the poorer universities.
+The teachers there depended on their reputation for most of their subsistence.
+They were obliged to pay more attention to the current world opinions.
 
-But that immense and well-built fabric which could never be shaken by all human wisdom and virtue was naturally weakened and then destroyed in some parts.
-It is now likely to crumble entirely perhaps within a few more centuries.
+
+{{< s v="163" >}} European public schools and universities were originally intended only for the education of churchmen.
+
+Those churchmen were not always very diligent in instructing their pupils.
+But they gradually drew to themselves the education of almost everyone, particularly those of gentlemen and men of fortune.
+It was the best way to spend the time between infancy to adulthood for learning the business of the world.
+However, most of what is taught in schools and universities is not the most proper preparation for that business.
+
+{{< s v="164" >}} In England, it becomes everyday more the custom to send young people to foreign countries immediately after leaving school, without sending them to university.
+
+It is said that our young people generally return home much improved by their travels.
+A young man who goes abroad at 17 or 18 and returns home at 21.
+At that age, it is very difficult not to improve much in three or four years.
+
+He acquires some knowledge of foreign languages from his travels though he is seldom able to speak or write them fluently.
+
+He commonly returns home more conceited, unprincipled, dissipated, and more incapable of any serious application to study or business than if he had lived at home.
+By traveling so very young, he spends the most precious years of his life in the most frivolous dissipation.
+
+He is far from the inspection and control of his parents and relations.
+Every useful habit formed by his early education might be weakened or erased instead of being riveted and confirmed.
+
+Only the discredit of the universities could have ever created this very absurd practice of travelling at a young age.
+By sending his son abroad, a father delivers himself from seeing his own son unemployed, neglected, and going to ruin.
+
+
+{{< s v="165" >}} Such were the effects of some modern educational institutions.

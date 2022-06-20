@@ -1,139 +1,179 @@
 +++
-title=  "How to solve religious conflicts"
-description=  "How to solve religious conflicts"
+title=  "Article 2-Educational Subjects"
+description=  "Educational Subjects"
 date=  2015-01-01
 image=  "/covers/wn.jpg"
 linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3q"
 linkbtext=  "Part 3q"
 linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3s"
 linkftext=  "Part 3s"
-heading=  "Part 3r"
+heading=  "Part 3m"
 icon=  "/icons/smith.png"
 +++
 
 
-{{< s v="202" >}} There state can use two very easy and effective remedies to peacefully correct the disagreeably rigorous morals of little sects.
+## Language Learning
+
+{{< s v="148" >}} When Christianity was first established by law, a corrupted Latin had become the common language of Western Europe.
+
+Church services and the Bible translations read in churches were both in that corrupted Latin.
+After demise of the Roman empire, Latin gradually ceased to be the language of Europe.
+But the people's reverence naturally preserves the established forms and ceremonies of religion long after the reasons for their establishment have disappeared.
+Church services still continued in Latin even though the people no longer understood Latin.
+
+Thus, two languages were established in Europe, in the same manner as in ancient Egypt= 
+- a sacred, learned language of the priests, and
+- a profane, unlearned language of the people.
+
+It was necessary that the priests understood the language they used. The study of the Latin made an essential part of university education from the beginning.
 
 
-## Remedy 1: {{< s v="203" >}} The study of science and philosophy.
+{{< s v="149" >}} It was not so with the Greek or Hebrew languages.
 
-The state should make the study of science and philosophy universal among the middle class.
+The Latin translation of the Bible is commonly called the Latin Vulgate.
+The infallible church decrees made that version dictated by divine inspiration.
+It therefore was of equal authority with the Greek and Hebrew originals.
+The knowledge and study of Greek and Hebrew was not required for churchmen.
+For a long time, their study was not necessary in common university education.
+There are some Spanish universities where the study of Greek was never done.
+The first reformers found the Greek text of the new testament, and the Hebrew text of the old testament, more favourable than the Latin Vulgate translation.
 
-It could institute a probationary period for anyone who wished to:
-- exercise any liberal profession, or
-- be a candidate for any honourable office of trust or profit.
+The Latin version was gradually accommodated to support the Catholic church's doctrines.
+They exposed the many errors of that translation, which the Roman Catholic clergy defended or explained.
+But this could not be done well without knowledge of those three languages.
+Their study was therefore gradually introduced into most universities.
+Some of those universities embraced while some rejected the doctrines of the reformation.
+The Greek language was connected with classical learning.
+Classical learning was first principally cultivated by Catholics and Italians.
+It came into fashion around the same time the doctrines of the reformation began.
 
-It should not give salaries to teachers that would make them negligent and idle.
+In most universities, Greek was taught= 
+- before philosophy, and
+- as soon as the student had made some progress in Latin.
 
-If the state imposed the necessity of learning on the people of liberal professions, it would have no problem providing people with the proper teachers.
-The people would soon find better teachers than what the state could provide.
-Science is the great antidote to the poison of enthusiasm and superstition.
-If the superior ranks of people were free from superstition, the inferior ranks could not be much exposed to it.
-
-
-## Remedy 2: {{< s v="204" >}} The frequency and gaiety of public diversions.
-
-The state could easily dissipate the gloom which breeds popular superstition by encouraging proper public amusement through:
-- painting, poetry, music, dancing, and
-- dramatic representations and exhibitions.
-
-Public diversions were always hated by all religious fanatics.
-
-The good humour inspired by those diversions were inconsistent with that mental temper fittest for superstitions or which those promoters could best work on.
-
-Dramatic representations frequently exposed those promoters to public ridicule.
-
-
-{{< s v="205" >}} Religions do not need to depend on the executive power in countries with no state religion.
-- The sovereign would not appoint nor dismiss clergy.
-  - His only concern would be to maintain the peace among religions.
-
-It is opposite in countries which have a state religion.
-- The sovereign can only be secure if he can influence the teachers of that religion.
+The Hebrew language had no connection with classical learning except in the holy Scriptures.
+No esteemed book was written in it.
+Its study only commenced after the study of philosophy when the student entered the study of theology.
 
 
-## Organized Religion
+{{< s v="150" >}} Originally, the first rudiments of Greek and Latin were taught in universities.
 
-{{< s v="206" >}} The clergy of an established church is a great incorporation.
-
-They can:
-- act in concert,
-- pursue their interest with one plan and one spirit, as if directed by one man.
-
-Their interest as an incorporated body is never the same with that of the sovereign. It is sometimes directly opposite to it.
-
-Their great interest is to maintain their authority.
-- This authority depends on the doctrine they inculcate for avoiding eternal misery.
-- The independent clergy will brand the sovereign as profane if he derides their doctrine<!--  or protects those who doubted or derided their doctrine. -->
-  - They will use the terrors of religion to oblige the people to ally to a more religious prince.
-
-<!-- The princes who have dared to rebel against the church would be charged with rebellion and heresy. -->
-
-<!-- But the authority of religion is superior to every other authority." -->
-The fears spurred by religion are stronger <!-- which it suggests conquer --> than all other fears.
-
-<!-- When religious teachers propagate subversive doctrines to the people,  -->
-
-The sovereign can only maintain his authority against a church through a standing army.
-
-Even an army cannot give him any lasting security because its soldiers are usually drawn from the people.
-- They can be soon corrupted by those very doctrines.
-
-The sovereign who is unable to influence the state religion's clergy has a precarious rule. This is proven by:
-- the revolutions continually caused by the Greek clergy at Constantinople, and
-- the convulsions continually created by the Roman clergy in Europe.
+In others, the student is expected to have previously learned those languages.
+The study of both makes a very considerable part of university education everywhere.
 
 
+## Philosophy
 
-{{< s v="207" >}} Articles of faith and all other spiritual matters are not within the department of a temporal sovereign.
+{{< s v="151" >}} The ancient Greek philosophy was divided into three great branches= 
 
-He is seldom qualified for instructing spiritual matters.
-His authority on such matters can seldom be enough to counterbalance the established church's united authority.
+1. Physics or natural philosophy
+2. Ethics or moral philosophy
+3. Logic
 
-The public peace and his own security frequently depends on the church's doctrines.
-<!-- He should be able to influence their decisions because he can seldom directly oppose them. -->
-He can influence the church only by exciting fears and expectations in the church:
-- the fear of deprivation or other punishments, and
-- the expectation of further preferment.
+**This general division is perfectly agreeable to the nature of things.**
 
 
-{{< s v="208" >}} In all Christian churches, the clergy's benefices are freeholds.
-- They enjoy them during life or good behaviour.
-- They could never maintain their authority with the people if they could be easily removed by the sovereign or his ministers.
+{{< s v="152" >}} The great phenomena of nature necessarily excite wonder= 
 
-The people would see them as mercenary dependents of the court.
-They would have no confidence in their instructions.
+the revolutions of the heavenly bodies, eclipses, comets, thunder, lightning, and extraordinary meteors, and
+the generation, life, growth, and dissolution of plants and animals.
+They naturally call forth mankind's curiosity to inquire into their causes.
 
-A sovereign who violently deprives any seditious clergymen of their freeholds, would only make them and their doctrine 10 times more popular, 10 times more dangerous than before.
-<!-- In almost all cases, fear is a wretched instrument of government. -->
+Superstition first attempted to satisfy this curiosity by referring them all to the agency of the gods.
+Philosophy afterwards tried to account for them from more familiar causes.
+Those great phenomena are the first objects of human curiosity.
+The science which pretends to explain them must naturally have been the first branch of philosophy.
+Accordingly, the first recorded philosophers were natural philosophers.
 
-Fear should never be used against anyone who desires independence because terrifying them only strengthens their opposition.
-<!-- - It will strengthen their opposition which more gentle usage might soften or eliminate. -->
 
-The French government violently forced their parliaments or courts of justice to enact any unpopular law.
-- They usually did this by imprisoning all the refractory members.
-- They very seldom succeeded.
+{{< s v="153" >}} In every age and country, men must have attended to one another's characters, designs, and actions.
 
-The princes of the house of Stewart sometimes did the same to influence the English parliament.
-- The princes generally found the parliament equally stubborn.
+Many reputable rules and maxims for the conduct of human life must have been laid down and approved of by common consent.
+As soon as writing came into fashion, wise men would naturally endeavour= 
+- to multiply those maxims, and
+- to express their own sense of what was proper or improper conduct sometimes in= 
+  - the more artificial form of apologues, like Aesop's fables,
+  - the more simple form of apophthegms or wise sayings like= 
+	- The Proverbs of Solomon
+	- The verses of Theognis and Phocyllides
+	- The works of Hesiod
 
-The English parliament is now managed in another way.
+They might continue in this way for a long time merely to multiply those maxims of prudence and morality, without even attempting to= 
+arrange them in any distinct or methodical order, and
+connect them by general principles from which they were all deducible, like effects from their natural causes.
+There was a beautiful, systemic arrangement of their different observations, connected by a few common principles.
+This was first seen in the rude ancient essays about the system of natural philosophy.
+Something of the same kind was afterwards attempted in morals.
 
-The Duke of Choiseul made a very small experiment about 12 years ago on the Paris parliament.
-- He demonstrated that all French parliaments could be managed more easily.
-- That experiment was not pursued.
+The maxims of common life were arranged in some methodical order.
+They were connected together by a few common principles, in the same manner attempted in the arrangement and connection of natural phenomena.
+The science which pretends to investigate and explain those connecting principles is called moral philosophy.
 
-Management and persuasion are always the safest instruments of governments.
+154 Different authors gave different systems of natural and moral philosophy.
 
-Force and violence are the most dangerous.
-But man's natural insolence makes him always disdain the good instrument except when he cannot use the bad one.
-The French government could use force and so it did not use management and persuasion.
-I think that it is so ruinous to use force and violence on any respected clergy.
+But the arguments which supported those systems were frequently very slender probabilities at best.
+Sometimes those arguments were mere sophisms.
+Their only foundation was the inaccuracy and ambiguity of common language.
+Speculative systems have always been adopted for frivolous reasons.
 
-Every clergy member's rights, privileges, and personal liberty are more respected than those of anyone of equal rank and fortune even in the most despotic governments.
-This is true in all degrees of despotism, from the gentle government of Paris to the violent government of Constantinople.
-The clergy cannot be forced.
+Gross sophistry has never influenced mankind's opinions, except in matters of philosophy and speculation.
+Gross sophistry was frequently the greatest in philosophy and speculation.
+The patrons of each system of natural and moral philosophy naturally tried to expose the weakness of the arguments of opposing systems.
+In examining those arguments, they had to consider the difference between= 
+a probable and a demonstrative argument,
+a fallacious and a conclusive one.
+Logic is the science of the general principles of good and bad reasoning.
 
-However, they may be managed as easily as any other.
-The sovereign's security and the public peace depends very much on how the sovereign manages them.
-It is in the preferment which he has to bestow on them.
+It arose out of the scrutiny of this examination.
+It was originally posterior to physics and ethics.
+It was commonly taught in most of the ancient schools of philosophy, previous to physics and ethics.
+The student was thought to understand the difference between good and bad reasoning before he was led to reason on important subjects.
+155 This ancient division of philosophy into three parts was changed into five parts in most European universities.
+
+156 In the ancient philosophy, whatever concerned the nature of the human mind or the Deity was a part of physics.
+Those beings were parts of the great system of the universe.
+They produced the most important effects.
+Whatever human reason could conclude about them made two very important chapters, of the science which pretended to give an account of the origin and revolutions of the great system of the universe.
+But in European universities, philosophy was taught as subservient to theology.
+It was natural to dwell longer on these two chapters than any other chapter of the science.
+They were gradually extended and divided into many inferior chapters such as= 
+the doctrine of spirits, and
+This is a study where so little can be known.
+the doctrine of bodies.
+This is a study where so much can be known.
+In the end, the doctrine of spirits took up as much room in philosophy as the doctrine of bodies.
+
+Those two doctrines made two distinct sciences.
+Metaphysics or Pneumatics were set in opposition to Physics.
+Metaphysics were cultivated as the more sublime and useful science than Physics.
+Experiment and observation requires a careful attention which is capable of making so many useful discoveries.
+Experiment and observation was almost entirely neglected.
+Metaphysics was greatly cultivated.
+It had a few very simple and obvious truths.
+The most careful attention of these truths can only lead to obscurity and uncertainty.
+It can only produce subtleties and sophisms.
+
+157 When those two sciences were set in opposition to one another, the comparison between them naturally created a third science called Ontology.
+
+Ontology is the science which studied the qualities and attributes common to subjects in Metaphysics and Physics.
+Subtleties and sophisms composed most of Metaphysics or Pneumatics and the whole of the cobweb of Ontology.
+Ontology was sometimes also called Metaphysics.
+
+158 The ancient moral philosophy investigated the happiness and perfection of a man considered as an individual and a member of= 
+- a family,
+- a state,
+- the great human society.
+
+In moral philosophy, the duties of human life were treated as subservient to the happiness and perfection of human life.
+
+But when moral and natural philosophy came to be taught only as subservient to theology, the duties of human life were treated as subservient to the happiness of a life to come.
+In the ancient philosophy, the perfection of virtue produced the most perfect happiness in this life.
+In the modern philosophy, the perfection of virtue was frequently inconsistent with happiness in this life.
+Heaven was to be earned only by= 
+penance and mortification, and
+the austerities and abasement of a monk.
+Heaven was not to be earned bythe liberal, generous, and spirited conduct of a man.
+Casuistry and an ascetic morality made up most of the moral philosophy of the schools.
+In this manner, the most important branch of philosophy became the most corrupted.
+
+

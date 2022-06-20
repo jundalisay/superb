@@ -1,119 +1,73 @@
 ---
-title: "The Hudson's Bay (1660-1752) and South Sea Joint Stock Companies"
-heading: "Part 3i of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+title: "Private Copartneries vs Joint Stock Companies"
+heading: "Part 3g of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
 date: 2021-08-01
 image: "/covers/wn.jpg"
-description: "The Royal African Company is the predecessor of the present African Company"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3h"
-linkftext: "Part 3h"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3j"
-linkbtext: "Part 3j"
+description: "Joint stock companies, established by royal charter or by act of parliament, differ from regulated companies and private copartneries"
+linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3f"
+linkftext: "Part 3f"
+linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3h"
+linkbtext: "Part 3h"
 author: Adam Smith
 icon: /avatars/smith.png
 ---
 
 
-{{< s v="110" >}} Before their misfortunes in the recent war, the Hudson's Bay Joint Stock Company was much more fortunate than the Royal African Joint Stock Company.
+{{< s v="104" >}} Joint stock companies established by royal charter or by act of parliament differ from:
+- regulated companies and
+- private copartneries.
 
-Their necessary costs are much smaller.
-- They maintained up to 120 persons in their settlements which they called forts.
-- 120 persons are sufficient to prepare the cargo of furs and other goods for their ships beforehand.
-  - Their ships can seldom remain more than 8 weeks in those seas because of the ice.
+{{< s v="105" >}} 1. In a private copartnery, a partner needs the consent of the company to: 
+- transfer his share to another person,
+- introduce a new member into the company.
 
-For several years, private adventurers could not have this advantage of having a cargo ready prepared. Without this advantage, it was impossible to trade to Hudson's Bay.
-
-The company's moderate capital does not exceed £110,000.
-- It might be enough to enable them to engross the whole trade and surplus produce of that miserable but large country.
-
-No private adventurers have ever attempted to compete with them. This company always enjoyed an exclusive trade even if they may have no legal right to it. Its moderate capital was divided among very few proprietors.
-
-**But a joint stock company with a moderate capital and a few proprietors are almost like a private copartnery.**
-- It is capable of nearly the same degree of vigilance and attention. 
-- It is no wonder that the Hudson's Bay Company was able to carry on their trade successfully before the recent war.
-
-Their profits probably never approached to what the late Mr. Dobbs imagined them. 
-
-Mr. Anderson
-- is much more sober and judicious. 
-- is the author of The Historical and Chronological Deduction of Commerce
-- very justly examines the accounts Mr. Dobbs received of its exports and imports
-- made the proper allowances for their extraordinary risk and expence
-- revealed that its profits do not much exceed ordinary profits.
+Upon proper warning, each member may: 
+- withdraw from the copartnery, and
+- demand payment for his share of the common stock from the copartnery.
 
 
-## The South Sea Company
+In a joint stock company, on the contrary, each member:
+- cannot demand payment for his share from the company
+- can, without the company's consent:
+  - transfer his share to another person, and
+  - introduce a new member.
 
-{{< s v="111" >}} The South Sea Joint Stock Company never had any forts or garrisons to maintain.
-
-It was entirely exempted from a great expence. **But they had an immense capital divided among so many proprietors.**
-
-Folly, negligence, and profusion naturally prevailed in their management. The knavery and extravagance of their stock-jobbing projects are sufficiently known. Explaining those projects would be off-topic.
-
-Their mercantile projects were not much better conducted. 
-
-Their first trade was supplying negroes to the Spanish West Indies.
-- They had exclusive privilege of that trade because of the Assiento contract granted by the treaty of Utrecht. 
-- Not much profit was expected by this trade.
-- Before the South Sea Company entered it, the Portuguese and French companies were already ruined by it.
-
-As compensation, they were allowed to annually send a ship to trade directly to the Spanish West Indies.
-- It made 10 voyages. 
-- They gained considerably only by the Royal Caroline voyage in 1731.
-- They were losers by almost all the rest.
-
-Their factors and agents imputed their failure to the Spanish government's extortion and oppression.
-- But in reality, it was principally due to the profusion and depredations of those very factors and agents.
-- Some of them acquired great fortunes in a year.
-
-In 1734, the company petitioned that king allowed them to: 
-- dispose of the trade and tonnage of their annual ship because of the little profit which they made by it, and
-- accept such equivalent as they could obtain from the king of Spain.
+**The value of a share in a joint stock is always its market price. This is different from the stated value in the stock of the company.**
 
 
-{{< s v="112" >}} In 1724, it entered the whale-fishery which they had no monopoly of. No other British subjects engaged in it.
 
-Their ships made 8 voyages to Greenland. 
-- They gained by 1 and lost by all the rest.
-- After their 8th and last voyage, they sold their ships, stores, and utensils.
+{{< s v="106" >}} 2. In a private co-partnery, each partner is bound for the debts of the company to the extent of his fortune.
 
-They found that their whole loss, including the capital and interest, was more than £237,000.
+In a joint stock company, on the contrary, each partner is bound only to the extent of his share.
 
 
-{{< s v="113" >}} In 1722, it petitioned parliament to be allowed to divide their immense capital of more than £33,800,000.
 
-All of it was lent to government, into 2 equal parts.
+{{< s v="107" >}} The joint stock company's <!-- trade --> business is always managed by an executive board (court of directors)<!-- court of directors --> which is managed by a board of investors <!-- directors --> (court of proprietors).
+<!-- - The  is frequently subject to a  []. -->
 
-1. The first half of more than £16,900,000 was to be put on the same footing with other government annuities.
+But most of those investors <!-- proprietors --> seldom pretend to understand the company's business.
+- When the spirit of faction does not prevail among them, they give no trouble about it.
+- They are content to receive yearly dividends as the executives <!-- directors --> think proper to give to them.
 
-It was not to be subject to the debts contracted or losses incurred by the company directors.
+**This total exemption from trouble and risk, beyond a limited sum, encourages many people to become adventurers in joint stock companies.** *
 
-2. The second half was to remain as a trading stock.
-
-It was to be subject to those debts and losses.
-
-<!-- The petition was too reasonable not to be granted. -->
-
-In 1733, they again petitioned parliament that:
-- 3/4 of their trading stock might be turned into annuity stock
-- only 1/4 was to remain as trading stock amounting only to £3,662,784 8s. 6d.
-
-This stock was under the bad management of their directors. By this time, their annuity and trading stocks were reduced by more than 2 million each, by several payments from government.
+> *Superphysics Note: The joint principles of laziness and managed risk or safety leads to the huge size of corporations
 
 
-In 1748, all the company's demands on the king of Spain because of the Assiento contract were given up by the Treaty of Aix-la-Chapelle.
-- Their trade with the Spanish West Indies was ended.
-- The remainder of their trading stock was turned into an annuity stock.
-- The company ceased to be a trading company.
 
+They would never hazard their fortunes in any private co-partnery. Thus, joint stock companies draw more stocks than any private co-partnery.
+- The South Sea Company's trading stock at one time amounted to more than £33,800,000.
+- The Bank of England's divided capital [a joint stock?] is presently £10,780,000.
 
-{{< s v="114" >}} The South Sea Company's trade on its annual ship was the only trade it was expected to profit from.
-- It had competition in foreign and home markets.
-- They competed with Spanish merchants at Carthagena, Porto Bello, and La Vera Cruz.
-  - Those merchants imported from Cadiz Spain the same European goods that the company imported.
-- They competed with English merchants in England.
-  - Those merchants imported the same goods of the Spanish West Indies imported by the company.
+The <!-- directors --> executives of such companies are the managers of other people's money.
+- **They cannot be expected to watch over it with the same vigilance as the partners in a private co-partnery.**
+- They are like the stewards of a rich man.
+  - They think that attending to small matters are not for their master's honour.
+  - They very easily exempt themselves from attending to such matters.
+- Negligence and profusion, must always prevail, more or less, in the management of the affairs of such a company.
 
-The goods of the Spanish and English merchants were perhaps subject to higher duties.
-- But the loss from the negligence, profusion, and malversation of the servants of the company probably was a tax much heavier than all those duties.
-
-It seems contrary to all experience that a joint stock company should be successful in foreign trade when they compete openly and fairly with private adventurers.
+Joint stock companies for foreign trade seldom were able to compete against private adventurers.
+- They very seldom succeeded without an exclusive privilege.
+- They frequently have not succeeded even with an exclusive privilege.
+- Without an exclusive privilege they commonly mismanaged the trade.
+- With an exclusive privilege they both mismanaged and confined it.

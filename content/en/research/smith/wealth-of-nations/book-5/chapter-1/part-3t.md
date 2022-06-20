@@ -1,237 +1,175 @@
 +++
-title=  "The Decline of the Church"
-description=  "The gradual improvements of arts, manufactures, and commerce which destroyed the great barons also destroyed the power of the European clergy"
+title=  "Ancient Educational Institutions"
+description=  "Ancient Educational Institutions"
 date=  2015-01-01
 image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3s"
-linkbtext=  "Part 3r"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3u"
-linkftext=  "Part 3t"
+linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3m"
+linkbtext=  "Part 3m"
+linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3o"
+linkftext=  "Part 3o"
+heading=  "Part 3n"
 icon=  "/icons/smith.png"
+linkbook=  "https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ"
+linkbooktext=  "Support Superphysics by buying the ebook"
 +++
 
 
-{{< s v="214" >}} The gradual improvements of arts, manufactures, and commerce which destroyed the power of the great barons destroyed the whole temporal power of the clergy in Europe.
+{{< s v="166" >}} Different educational institutions were established in other ages and nations.
+
+{{< s v="167" >}} In the ancient Greek republic, every free citizen was instructed in gymnastic exercises and music, under the public magistrate.
+
+Gymnastic exercises were intended to:
+- harden his body,
+- sharpen his courage, and
+- prepare him for war.
+
+The Greek militia was one of the best in the world.
+Their public education completely answered its purpose.
+Music was intended to= 
+- humanize the mind,
+- soften the temper, and
+- make the mind perform the social and moral duties of life.
+
+
+{{< s v="168" >}} In ancient Rome, the exercises of the Campus Martius had the same purpose as the Gymnasium in ancient Greece.
+
+They answered that purpose equally well.
+But the Romans did not have the musical education of the Greeks.
+Roman public and private morals were much superior to those of the Greeks.
+Polybius and Dionysius of Halicarnassus knew both Rome and Greece.
+
+They have testimony that Roman morals were superior in private life.
+Greek and Roman history accounts the superiority of Roman public morals.
+The good temper and moderation of contending factions were the most essential circumstances in the public morals of a free people.
+
+But the Greek factions were almost always violent and sanguinary.
+No blood was ever shed in any Roman faction until the time of the Gracchi.
+From the time of the Gracchi, the Roman republic was dissolved.
+The very respectable Plato, Aristotle, Polybius thought that Greek musical education had a great effect in mending Greek morals
+
+Mr. Montesquieu supports this with very ingenious reasons.
+However, I think that it had no effect, because without any musical education, Roman morals were superior.
+The respect of Plato, Aristotle, Polybius for their ancestors' institutions probably disposed them to find much political wisdom in a mere ancient custom.
+This custom continued uninterrupted from the earliest to the most refined periods of those societies.
+Music and dancing are the great amusements of almost all barbarous nations.
+
+They are great accomplishments for entertaining one's society.
+It is so presently among the negroes on the African coast.
+According to Homer, it was so among:
+- the ancient Celts,
+- the ancient Scandinavians and
+- the ancient Greeks before the Trojan war.
+
+When the Greek tribes formed themselves into little republics, the study of those accomplishments naturally became part of public education for a long time.
+
+
+{{< s v="169" >}} The masters who instructed the young people in music or military exercises were not paid or appointed by the state either in Rome or Athens.
+
+The state required that every free citizen should learn his military exercises to defend it in war.
+But it left him to learn them from the masters he could find.
+It only gave a public field where he should practise his exercises.
+170 In the early ages of the Greek and Roman republics, the other parts of education consisted in learning to read, write, and compute according to the math of the times.
+
+The richer citizens frequently acquired these skills at home through a domestic teacher, who was a slave or a freed-man.
+The poorer citizens learned them in the schools of masters who taught for hire.
+Such education were left to the care of each individual's parents or guardians.
+The state never inspected or directed them.
+By a law of Solon, children were free from maintaining their parents in old age, if the parents neglected to instruct them in some profitable trade.
+171 In the progress of refinement, philosophy and rhetoric came into fashion.
+
+The better sort of people used to send their children to the schools of philosophers and rhetoricians to be instructed in those fashionable sciences.
+But those schools were not supported.
+They were barely tolerated by the public.
+For a long time, the demand for philosophy and rhetoric was so small that the first teachers could not find constant employment in any one city.
+They were obliged to travel about from place to place.
+Zeno of Elea, Protagoras, Gorgias, Hippias, and many others lived in this way.
+As the demand increased, the schools of philosophy and rhetoric became stationary first in Athens and afterwards in other cities.
+
+However, the state never encouraged them further.
+It assigned some of them a place to teach in= 
+The Academy to Plato
+The Lyceum to Aristotle
+The Portico to Zeno of Citta, the founder of the Stoics
+Epicurus bequeathed his gardens to his own school
+Marcus Antoninus was a philosophical emperor.
+
+Until his time, no teacher had any:
+- salary from the public, nor
+- any other emoluments but what arose from the fees of his scholars.
+
+According to Lucian, the bounty Marcus Antonius bestowed on a philosophy teacher probably lasted as long as the teacher's life. There was nothing equal to the privileges of graduation.
+
+Attending those schools was not needed to practise any trade or profession.
+The law did not:
+- force anybody to go to schools, nor
+- reward anybody for going to them.
+
+The teachers had no jurisdiction over their pupils.
+Their only authority was the natural authority that skilled and virtuous teachers have over their students.
+
+{{< s v="172" >}} At Rome, the study of the civil law was part of the education of some particular families and not of the citizens.
+
+The young people who wished to study law, had no public school to go to.
+They could only study law by frequenting the company of their relations and friends who understood it.
+Many of the laws of the 12 tables were copied from the laws of the ancient Greek republics.
+Yet law was never a science in any ancient Greek republic.
+In Rome it became a science very early.
+It gave a high degree of illustration to those who understood it.
+In the ancient Greek republics, particularly in Athens, the ordinary courts of justice consisted of numerous, disorderly bodies of people.
 
-Like the great barons, the clergy found something in the manufactures and commerce which they could exchange their rude produce.
-- They discovered ways of spending their whole revenues on their own persons without sharing with other people.
-  - Their charity became gradually less extensive.
-  - Their hospitality became less profuse.
-  - Their retainers dwindled away.
+They frequently decided at random or as clamour, faction, and party spirit happened to determine.
+The ignominy of an unjust decision, when it was to be divided among 500 to 1,500 people (some of their courts were so numerous), could not fall very heavy on any individual.
+On the contrary, the principal courts of justice at Rome had one or a few judges who deliberated in public.
 
-Like the great barons, the clergy wanted to get more rent<!--  from their landed estates to have more to spend for their own private vanity and folly -->. But this could only be done by granting leases to their tenants, who became independent.
+Their character would always be very much affected by any rash or unjust decision.
+In doubtful cases, they would naturally shelter themselves under the example or precedent of the judges before them in order to avoid blame.
+This attention to practice and precedent formed the Roman law into that regular and orderly system delivered down to us.
+Other countries which gave the same attention created the same effects on their laws.
+The superiority of Roman character over the Greeks was so much remarked by Polybius and Dionysius of Halicarnassus.
 
-In this way, the ties of interest which bound the lower class to the clergy gradually dissolved even faster than those which bound the lower class to the great barons.
+It probably owed more to the better constitution of their courts of justice than to any circumstance those authors ascribe it.
 
-This is because most church benefices were much smaller than the estates of the great barons.
-- The possessor of each benefice was able to spend its revenue on himself much sooner.
+The Romans were distinguished for their superior respect to an oath.
+But the people who made oaths before a diligent and well-informed court of justice would naturally be much more attentive to what they swore than those who swore before mobbish and disorderly assemblies.
 
-During the 14th-15th centuries, the great barons were in full vigour in most of Europe. But the clergy's temporal power and spritual authority over the people was very much decayed.
 
-<!-- By that time, the church's power was very nearly reduced in Europe to what arose from her spiritual authority. -->
-<!-- Even that spiritual authority was much weakened when it stopped being supported by the clergy's charity and hospitality. -->
+{{< s v="173" >}} The civil and military abilities of the Greeks and Romans were at least equal to any modern nation.
 
-The poor no longer looked on the clergy as:
-- the comforters of their distress and
-- the relievers of their indigence.
+We overrate them.
+The Greek and Roman states did not strive to form those abilities, except in military exercises.
+I cannot believe that the Greek musical education helped form those abilities.
+Masters were found for teaching the better sort of people in every art and science necessary for their society.
+The demand for such instruction produced what it always produces, the talent for giving it.
+An unrestrained competition never fails to excite emulation.
 
-They were provoked and disgusted by the richer clergy's vanity, luxury, and expence.
+This emulation brought that talent to a very high degree of perfection.
+The ancient philosophers were much superior to any modern teachers in= 
+the attention they excited,
+the empire they acquired over the opinions and principles of their auditors, and
+their faculty of giving a certain tone and character to those auditors' conduct and conversation.
+In modern times, the diligence of public teachers is corrupted by the separation of their success and their reputation in teaching.
 
+The salaries of public teachers put the private teacher, who competes with them, in the same state as a merchant who trades without a bounty competing with merchants who have a big bounty.
+If he sells his goods at the same price, he cannot have the same profit.
+He will be bankrupt and ruined.
 
-{{< s v="215" >}} The European sovereigns tried to recover the influence they once had in the disposal of the church's great benefices.
+If he attempts to sell them dearer, he will have so few customers.
+The privileges of graduation are necessary or at least extremely convenient to most men of learned professions.
 
-They restored the ancient right of:
-- the deans and the chapters of each diocese in electing the bishop.
-- the monks of each abbacy in electing the abbot.
+But those privileges can be obtained only by attending the lectures of the public teachers.
+The most careful attendance to the ablest instructions of any private teacher cannot always give any title to them.
+Because of these, the private teacher of the sciences which are taught in modern universities is considered the lowest order of men of letters.
+This is the most humiliating or unprofitable employment for a man of real abilities.
 
-The re-establishment of this ancient order was the object of several statutes enacted during the 14th century.
+The endowment of schools and colleges have:
+- corrupted the diligence of public teachers, and
+- rendered it almost impossible to have any good private teachers.
 
-Particularly, it was the object of:
-- the statute of provisors in England, and
-- the Pragmatic sanction established in France in the 15th century.
 
-To render the election valid, the sovereign should consent to it beforehand and approve of the person elected.
+{{< s v="173" >}} If there are no public educational institutions, only the sciences and systems which were necessary, convenient, fashionable, and in demand would be taught.
 
-The election was still free.
-But he had all the indirect means of influencing the clergy.
-
-Before the Reformation, the Pope's power in the collation of the great church benefices was restrained in France and England.
-
-In the 16th century, the Concordat gave French kings the absolute right of presenting to all the consistorial benefices of the Gallican church.
-
-
-{{< s v="216" >}} Since the establishment of the Pragmatic sanction and of the Concordat, the French clergy were shown less respect to the decrees of the papal court than the clergy of any other Catholic country.
-
-In all the disputes between their sovereign and the pope, they have almost constantly sided with the sovereign.
-
-This independence of the French clergy on the Roman court was principally founded on the Pragmatic sanction and the Concordat.
-
-In the earlier monarchies, the French clergy was as much devoted to the pope as any foreign clergy.
-Robert was the second prince of the Capetian race.
-When he was most unjustly excommunicated by the Roman court, his servants threw the victuals to the dogs.
-They refused to taste anything he touched.
-The clergy presumably taught them to do so.
-
-
-{{< s v="217" >}} The claim of collating to the great benefices of the church was a claim frequently shaken and sometimes overturned by the Roman court.
-
-In this way, some of the greatest Christian sovereigns were restrained, modified, or given up in Europe even before the reformation.
-The clergy had now less influence over the people, so the state had more influence over the clergy.
-The clergy had less power and inclination to disturb the state.
-
-
-
-{{< s v="218" >}} The Roman church's authority was declining when the disputes which gave birth to the reformation began in Germany and soon spread throughout Europe.
-
-The new doctrines were very popular everywhere.
-They were propagated with all that enthusiastic zeal which commonly animates the spirit of party when it attacks established authority.
-The teachers of those doctrines were perhaps not more learned than the divines who defended the established church.
-They generally were better acquainted with= 
-ecclesiastical history, and
-the origin and progress of the opinions on which the authority of the church was established.
-They thereby had some advantage in every dispute.
-Their austerity gave them authority with the common people.
-The people contrasted the strict regularity of their conduct with their own clergy's disorderly lives.
-
-They had more popularity and arts in gaining proselytes than their adversaries.
-The church had long neglected those arts as useless.
-The reason of the new doctrines recommended them to some people.
-
-Their novelty recommended them to many people.
-The hatred for the established clergy recommended them to even more people.
-The zealous, passionate, and fanatical, though rustic, eloquence recommended them to the most people.
-
-
-
-{{< s v="219" >}} The success of the new doctrines was almost so great that the princes who were on bad terms with the Roman court were able to overturn the church in their own dominions.
-
-The church lost the respect and veneration of the inferior ranks of people.
-It could not resist.
-The Roman court was disobliged with the smaller princes in northern Germany.
-It probably considered them too insignificant to be worth managing.
-The princes universally established the reformation in their own dominions.
-The tyranny of Christiern 2nd and of Troll, the Archbishop of Upsala, enabled Gustavus Vasa to expel them both from Sweden.
-
-The pope favoured them.
-Gustavus Vasa easily established the reformation in Sweden.
-Christiern 2nd was afterwards deposed from the Danish throne where his conduct made him as odious as in Sweden.
-The pope still favoured him.
-Frederic of Holstein took the throne and followed the example of Gustavus Vasa.
-The magistrates of Berne and Zurich had no quarrel with the pope.
-
-They established the reformation in their respective cantons very easily.
-Some of the clergy in those cantons rendered the whole order odious and contemptible.
-
-
-{{< s v="220" >}} In this critical situation, the papal court was at pains to cultivate the friendship of the powerful French and Spanish sovereigns.
-
-Back then, the Spanish king was the Emperor of Germany.
-With their assistance, they were able to suppress the reformation's progress in their dominions with great difficulty and bloodshed.
-
-It was well enough inclined to be complaisant to the king of England.
-But it offended a greater sovereign, Charles V, king of Spain and emperor of Germany.
-Henry 8th did not embrace most of the reformation's doctrines.
-
-Yet the prevalence of the reformation enabled him to= 
-suppress all the monasteries, and
-abolish the authority of the Roman church in his dominions.
-The patrons of the reformation were somewhat satisfied that he went so far but not any further.
-They possessed the government in the reign of his son and successor.
-Without any difficulty, they completed the work which Henry 8th begun.
-
-
-
-221 In some countries where the government was weak, unpopular, and not firmly established, as in Scotland, the reformation was strong enough to overturn the church and the state which supported the church.
-
-222 There was no general tribunal among the followers of the reformation in Europe like that of the court of Rome or an ecumenical council which could settle disputes.
-Disputes between the followers of the reformation in different countries could never be decided.
-Many disputes arose among them.
-
-The most interesting were about the government of the church and the right of conferring ecclesiastical benefices.
-These gave birth to the Lutheran and Calvinistic sects, the two principal parties of the reformation.
-
-223 The Lutherians and the Church of England:
-- preserved the episcopal government,
-- established subordination among the clergy,
-- gave the sovereign the disposal of all the bishoprics and other consistorial benefices within his dominions,
-- made the sovereign the real head of the church, and
-- favoured and admitted the right of presentation in the sovereign and all lay patrons, without depriving the bishop his right of collating - the smaller benefices within his diocese.
-
-From the beginning, this system of church government was favourable to peace, order, and submission to the civil sovereign.
-
-The Church of England always valued herself on the unexceptionable loyalty of her principles.
-Under such a government, the clergy naturally endeavour to recommend themselves to the sovereign, the court, and the nobility.
-
-They court those patrons:
-- sometimes by vile flattery,
-- frequently by cultivating those arts which gain them the esteem of people of rank and fortune by: 
-  - their useful and ornamental knowledge,
-  - the decent liberality of their manners,
-  - the social good humour of their conversation, and
-  - their contempt of the hypocritical austerities which fanatics pretend to practise, so that:
-    - the clergy will be venerated, and
-	- the common people will abhor the men of rank and fortune who do not practise austerities.
-Such a clergy are very apt to neglect their influence and authority over people of lower ranks.
-They are listened to, esteemed, and respected by their superiors.
-But before their inferiors, they are frequently incapable of effectively defending their own moderate doctrines against the attacks of the most ignorant enthusiast.
-
-224 The Calvinists [followers of Huldrych Zwingli], on the contrary:
-- allowed the people of each parish to elect their own pastor, and
-When this was done vigorously, it:
-- caused disorder and confusion, and
-- corrupted the morals of the clergy and the people.
-- established perfect equality among the clergy.
-
-This produced perfectly agreeable effects.
-
-
-{{< s v="225" >}} As long as the people could elect their own pastors, they were under the influence of the most fanatical clergy.
-
-The clergy became fanatics to preserve their influence in those popular elections.
-They encouraged fanaticism among the people and preferred the most fanatical candidate.
-A small matter as the appointment of a parish priest frequently created a violent contest in all neighbouring parishes which joined the quarrel.
-When the parish was in a great city, it divided all the people into two parties.
-When that city was a city-state or a capital of a small republic like Switzerland or Holland, disputes of this kind threatened to create:
-- a new schism in the church, and
-- a new faction in the state.
-
-In those small republics, the magistrate had to present to all vacant benefices in order to preserve the public peace.
-
-Scotland is the largest country where this presbyterian church government was established.
-
-The rights of patronage in Scotland were abolished by the act which established presbytery in the beginning of William 3rd's reign.
-This act allowed certain classes to buy the right of electing their own pastor for a very small price.
-This act established a constitution which was allowed for 22 years.
-It was abolished by the 10th of queen Anne chapter 12 because of the disorders it created.
-However, in an extensive country as Scotland, a tumult in a remote parish was unlikely to disturb the government.
-
-The 10th of queen Anne restored the rights of patronage.
-In Scotland, the benefice is given to the person presented by the patron.
-The 'cure of souls' is the ecclesiastical jurisdiction in the parish.
-Sometimes, the church requires a certain concurrence of the people before she confers the cure of souls on the presentee.
-
-She sometimes delays the settlement until this concurrence can be procured, to preserve the peace of the parish.
-
-The old fanatical spirit in the clergy or in the Scottish people are perhaps kept up principally by the tampering of the neighbouring clergy to procure or to prevent this concurrence.
-
-
-226 The equality which the presbyterian form of church government establishes among the clergy, consists in:
-- The equality of authority or ecclesiastical jurisdiction
-- The equality of benefice.
-
-In all presbyterian churches, the equality of authority is perfect, but the equality of benefice is not.
-
-The difference between benefices are seldom so big to tempt the possessor to flatter his patron in order to get a better benefice.
-
-In all the presbyterian churches where the rights of patronage are established, the established clergy try to gain the favour of their superiors by nobler and better arts, through:
-- their learning,
-- their life's regularity, and
-- the faithful and diligent discharge of their duty.
-
-Their patrons even complain of their independence.
-
-They think the clergy is ungrateful for past favours.
-But at worst, they are perhaps just indifferent.
-This naturally arises from the consciousness that no further favours of the kind are ever to be expected.
-
-The presbyterian clergy of Holland, Geneva, Switzerland, and Scotland are perhaps the most learned, decent, independent, and respectable men in Europe.
+A private teacher could never get by teaching a science that was= 
+exploded, antiquated, but useful, and
+universally believed to be a useless and pedantic heap of sophistry and nonsense.
+Such systems and sciences can only subsist in incorporated societies for educating people whose wealth is independent of their reputation and industry.
+If there were no public educational institutions, a gentleman who completes all the available education would not be ignorant of worldly subjects.

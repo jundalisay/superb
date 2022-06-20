@@ -1,197 +1,131 @@
-+++
-title= "Article 3-Moral Education for People of all Ages"
-description=  "Article 3-Moral Education for People of all Ages"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3o"
-linkbtext=  "Part 3o"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3q"
-linkftext=  "Part 3q"
-heading=  "Part 3p"
-icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
-+++
+---
+title: "Article 2-Educational Institutions for the youth"
+heading: "Part 3j of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "University Education"
+linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3k"
+linkftext: "Part 3k"
+linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3m"
+linkbtext: "Part 3m"
+author: Adam Smith
+icon: /avatars/smith.png
+---
 
 
-{{< s v="190" >}} The educational institutions for people of all ages are chiefly those for religious instruction.
+{{< s v="130" >}} The educational institutions for the youth may generate a revenue to defray their own expence.
 
-It aims to prepare them for a better world in a life to come. Its teachers may depend on= 
-- their students' voluntary contributions,
-- a fund from their country such as= 
-  - a landed estate,
-  - a tithe or land-tax,
-  - an established salary or stipend.
+The fee or honorary which the scholar pays the teacher is naturally a revenue of this kind.
 
-Their exertion, zeal, and industry, will be much greater with voluntary contributions than a fixed fund.
-The teachers of new religions always had a big advantage in attacking the clergy's ancient and established systems.
 
-The clergy:
-- rested on their benefices,
-- neglected to keep up the faith and devotion in the people,
-- turned indolent,
-- became incapable of defending their own establishment.
+{{< s v="131" >}} Even if the teacher's reward does not come from this natural revenue, it still is unnecessary that it should be derived from the society's general revenue.
 
-The clergy of an established and well-endowed religion frequently become men of learning and elegance.
-They have all the virtues of gentlemen.
+In most countries, the collection and application of the society's general revenue is done through the executive power. Through most of Europe, the endowment of schools and colleges takes a very small amount, or none at all, from that general revenue.
 
-But they are apt to gradually lose the qualities which:
-- gave them authority and influence over the inferior ranks of people, and
-- were the original causes of the success and establishment of their religion.
+It arises chiefly from:
+- some local or provincial revenue,
+- from the rent of some landed estate, and
+- from the interest of money allotted for this purpose and managed by trustees, sometimes by the sovereign or a private donor.
 
-When such a clergy is attacked by popular and bold enthusiasts, they feel as defenceless as the indolent, effeminate, and full-fed Asian nations when they were invaded by the active, hardy, and hungry Mongols.
-During such an emergency, such clergy can only call on the civil magistrate to persecute their adversaries as disturbers of the public peace.
 
-The Roman catholic clergy called on the civil magistrates to persecute the protestants.
-The Church of England called on the civil magistrates to persecute the dissenters.
-In general, religious sects which were legally secured for a century or more, could not vigorously defend themselves against new attacking sects.
+{{< s v="132" >}} Have those public endowments promoted the education of the youth? 
 
-Sometimes, the established church might have the advantage in learning and good writing.
-But the adversaries constantly have the popular advantage.
-In England, the art of popularity was long neglected by the established church's well-endowed clergy.
+Have they encouraged the diligence and the improvement the teachers' abilities?
 
-Popularity is presently chiefly cultivated by= 
-- the dissenters and
-- the Methodists.
+Have they directed education towards more useful objects than towards objects it would naturally have gone into of its own accord?
 
-Independent provisions were made for dissenting teachers through voluntary subscriptions, trust rights, and other evasions of the law.
+<!-- It is not very difficult to answer these questions. -->
 
-Those provisions very much abated those teachers' zeal and activity.
-Many of them became very learned, ingenious, and respectable men.
-But in general, they ceased to be very popular preachers.
 
-The Methodists:
-- have less than half the dissenters' learning, and
-- are much more in vogue.
+{{< s v="133" >}} In every profession, the exertion of those who exercise it is always proportional to the necessity for that exertion.
 
-191 In the Roman church, the inferior clergy's industry and zeal are kept more alive by the powerful motive of self-interest than in the Protestant church.
+This necessity is greatest in professions where emoluments are= 
+- the only source of their fortune, or
+- even ordinary revenue and subsistence.
 
-Many of the parochial clergy derive their subsistence from the people's voluntary oblations.
+To acquire this fortune or subsistence, they must execute a certain quantity of work of a known value.
 
-Confession improves this revenue.
-- The mendicant orders derive their whole revenue from confessions.
-- Confessions are similar to the policy of some armies=  no plunder, no pay.
+If the competition is free, the competitors try to jostle one another out of employment. It obliges everyone to execute his work with exactness.
 
-The parochial clergy are like those teachers whose reward depends on= 
-- their salary,
-- the fees or honoraries from their pupils.
+The greatness of the objects acquired by the success in some professions may animate those of extraordinary spirit and ambition towards exertion.
 
-These must always depend on their industry and reputation. The mendicant orders are like those teachers whose subsistence depends on industry. They use every art to animate the devotion of common people.
+**Great objects are unnecessary to cause the greatest exertions.**
 
-The orders of St. Dominic and St. Francis are two great mendicant orders.
-Machiavelli observed that their establishment in the 13th and 14th centuries revived the languishing faith and devotion of the Catholic Church.
+Rivalry and emulation are enough. These= 
+- render excellency as an object of ambition, even in mean professions
+- frequently lead to the greatest exertions.
 
-In Roman Catholic countries, devotion is supported by the monks and the poorer parochial clergy.
-- They are careful to maintain the necessary discipline over their inferiors.
-- But they seldom teach the people.
+On the contrary, great objects alone, and unsupported by necessity, are seldom enough to lead to exertion.
 
-192 David Hume is the most illustrious philosopher and historian of the present age. He says:
+In England, success in the law profession leads to very great objects of ambition. How few men born to easy fortunes have ever here been eminent in law?
 
-Most of the arts and professions in a state:
-- promote society's interests and
-- are useful to some people.
 
-The magistrate's constant rule, except on the first introduction of any art, is to= 
-- leave the profession to itself and
-- trust its encouragement to the individuals who benefit from it.
+{{< s v="134" >}} The endowments of schools and colleges reduced the necessity of exertion in the teachers.
 
-Artisans find that their profits rise by the favour of their customers.
+Their subsistence is from their salaries. It is derived from a fund independent of their success and reputation.
 
-They increase their skill and industry as much as possible.
-Their skills are always nearly proportioned to the demand, because their skills cannot be altered easily.
 
-193 But there are also some professions which bring no advantage or pleasure to anyone.
+{{< s v="135" >}} In some universities, the salary makes a small part of the teacher's emoluments.
 
-The supreme power must alter its conduct with regard to those professionals.
-It must give them public encouragement for their subsistence.
-It must provide against negligence by= 
-annexing honours to their profession,
-establishing a long subordination of ranks and a strict dependence, or
-some other expedient.
-Examples are those employed in the finances, fleets, and magistracy.
+Most comes from the honoraries or fees from his pupils.
+The necessity of application is still always reduced.
+But in this case, it is not entirely removed.
 
-194 At first sight, it may naturally be thought that ecclesiastics belong to the first class.
+Reputation is still important to a teacher.
+- He is still dependent on his students' affection, gratitude, and favourable report.
+- He is likely to gain these only by:
+  - his abilities, and
+  - diligence to his duty.
 
-Their encouragement, as well as that of lawyers and physicians, may safely be entrusted to the people attached to their doctrines. This will= 
-- encourage their industry, and
-- increase their skill daily from their increasing practice, study, and attention.
 
-195 But at closer inspection, we shall find that the clergy's interested diligence is very harmful.
+{{< s v="136" >}} In other universities, the teacher is prohibited from receiving any honorary or fee from his pupils.
 
-Every wise legislator will study to prevent it.
-It even has a natural tendency to pervert the true religion by infusing a strong mixture of superstition, folly, and delusion into it.
-Each ghostly practitioner will inspire the most violent abhorrence of all other sects to render himself more precious and sacred.
-He will continually try to excite his audience's languid devotion.
-He will pay no regard to truth, morals, or decency in the doctrines inculcated.
-The tenets which best suits his disorderly affections will be adopted.
-Customers will be drawn to religious gatherings which address the people's passions and credulity.
-In the end, the civil magistrate will realize his big mistake in creating a fixed establishment for the priests.
+His salary is his whole revenue.
+In this case, his interest is opposite his duty.
+It is the interest of every man to live as much at his ease as he can;"
 
-He can most decently amend such a situation by bribing the priests' indolence by= 
-assigning them stated salaries, and
-rendering it superfluous for them to be more active than necessary in preventing their flock from straying to new pastures.
-In this way, ecclesiastical establishments become advantageous to the political interests of society in the end.
+If his emoluments are the same whether he works hard or not, it would certainly be his interest to:
+- neglect his duty or
+- perform it as carelessly as possible.
 
-196 But whatever were the effects of the clergy's provision, they perhaps were unintentional.
+If he is naturally active and hardworking, his interest is to do activities where he can derive some advantage.
 
-Times of violent religious controversy were generally times of violent political faction.
-Each political party found or imagined it for its interest to be allies with the contending religious sects.
-This could be done only by adopting or favouring that sect's tenets.
-The sect necessarily shared in the victory of its ally over its enemies.
+He will do this rather than perform his duty, from which he can derive no advantage.
 
-The sect's enemies were therefore also the party's enemies.
-The clergy of this winning sect would become complete masters of the field.
-Their influence and authority with the people would be at its highest.
-They would be powerful enough= 
-to over-awe their own party leaders, and
-to oblige the civil magistrate to respect their opinions and inclinations.
-Their first demand was generally that the civil magistrate should silence and subdue their adversaries.
 
-Their second demand was that he should bestow an independent provision on themselves.
-Since they contributed to the victory, it seemed reasonable that they should share in the spoil.
-They were weary of humouring and depending on the people for subsistence.
-In making this demand, they consulted their own ease and comfort without foreseeing its effect on their order's influence and authority.
-The civil magistrate was seldom very forward to grant it.
-Necessity always forced him to submit after many delays, evasions, and excuses.
+{{< s v="137" >}} The teachers are likely to be very indulgent to one another if:
+- they are under the corporate body's authority, and
+- most of the members of his college or university are teachers
 
-197 If politics never called in the help of religion, it would probably have dealt equally and impartially with all the different sects.
+Every member will allow other members to neglect their duty provided he himself is allowed to neglect his own. In Oxford university, most public professors for so many years have given up even the pretence of teaching.
 
-The conquering party would have allowed every man to choose his own priest and religion.
-There would have been many religious sects.
 
-Almost every congregation would make a little sect in itself with its own tenets.
-Each teacher would feel the need to preserve and increase the number of his disciples.
+{{< s v="138" >}} The teacher will not likely neglect his duty if his superiors are some other extraneous persons such as:
+- the diocese bishop,
+- the provincial governor,
+- some state minister.
 
-Because of the competition, no single teacher would have very great success.
-The religious teachers' interested and active zeal can be dangerous and troublesome only when:
-- only one sect is tolerated,
-the society is divided into two or three great sects, or
-the teachers of each sect act in concert and under a regular discipline and subordination
-But that zeal must be innocent when the society is divided into thousands of small sects.
+However, such superiors can only force him to= 
+- attend to his pupils a certain number of hours, and
+- give a certain number of lectures.
 
-No one could be big enough to disturb the public peace.
-The teachers of each sect would have more enemies than friends.
-They would be forced to have that candour and moderation not found in great sects.
-The tenets of those great sects are supported by the civil magistrate.
-They are venerated by all who see no other alternative.
-The teachers of each little sect would find themselves alone.
+Those lectures still depend on the teacher's diligence. That diligence will likely be proportional to his motives for exerting it. This kind of extraneous jurisdiction is liable to be exercised ignorantly and capriciously.
 
-They would be forced to respect other sects and make mutually convenient and agreeable concessions to one another.
-In time, it would probably reduce their doctrine to that pure and rational religion.
-It would be free from absurdity, imposture, or fanaticism, which wise men throughout history wished to see established.
-This ideal religion perhaps never will be established in any country because positive law was always and will be influenced by popular superstition and enthusiasm.
-The sect called Independents was a sect of very wild enthusiasts.
+In its nature, it is arbitrary and discretionary.
 
-Towards the end of the civil war, they proposed a non-ecclesiastical government in England.
-If it were established, by this time it would probably have produced philosophical good temper and moderation in religion despite having very unphilosophical origins.
-It was established in Pennsylvania.
-The law there favours no single sect despite having the most numerous Quakers.
-It has produced this philosophical good temper and moderation.
+Such persons who exercise authority over the teacher are can seldom exercise it properly because they= 
+- do not attend the lectures themselves, and
+- do not understand what he teaches.
 
-198 Even if this equality of treatment does not produce this good temper and moderation in most religious sects, each sect's excessive zeal would not be harmful if= 
-- those sects were sufficiently numerous, and
-- each of them were consequently too small to disturb the public peace.
+From the insolence of office, they are frequently indifferent how they exercise it.
+They are very apt to censure or deprive the teacher of his office wantonly, without any just cause.
+The teacher is then degraded by it.
 
-It would produce several good effects.
+Instead of being respectable, he becomes one of the meanest and most contemptible persons in society.
+- He can guard himself only by powerful protection.
+- He can most likely gain this protection, not by ability or diligence, but by:
+  - submissiveness to his superiors' will, and
+  - being ready to sacrifice the university's rights, interest, and honour to that will.
 
-If the government left them alone and obliged them to leave each other alone, they would naturally subdivide themselves fast enough to become sufficiently numerous.
+Whoever attends a French university's administration for a long time will these effects. These naturally result from this kind of arbitrary and extraneous jurisdiction.
+

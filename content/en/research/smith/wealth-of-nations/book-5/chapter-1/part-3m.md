@@ -1,242 +1,188 @@
-+++
-title=  "Article 2-Educational Subjects"
-description=  "Educational Subjects"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3l"
-linkbtext=  "Part 3l"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3n"
-linkftext=  "Part 3n"
-heading=  "Part 3m"
-icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
-+++
+---
+title: "The British East India Joint Stock Company (1600-1874)"
+heading: "Part 3o of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "The old English East India Company was established in 1600 by a charter from Queen Elizabeth"
+linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3i"
+linkftext: "Part 3i"
+linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3k"
+linkbtext: "Part 3k"
+author: Adam Smith
+icon: /avatars/smith.png
+---
 
 
-## Language Learning
+{{< s v="115" >}} The old English East India Company was established in 1600 by a charter from Queen Elizabeth.
 
-{{< s v="148" >}} When Christianity was first established by law, a corrupted Latin had become the common language of Western Europe.
+It <!-- traded --> did business as a regulated company in its first 12 voyages to India.
+- It used private capital <!-- separate stocks --> only in their general ships<!--  of the company -->.
+- In 1612, it united into a joint stock.
 
-Church services and the Bible translations read in churches were both in that corrupted Latin.
-After demise of the Roman empire, Latin gradually ceased to be the language of Europe.
-But the people's reverence naturally preserves the established forms and ceremonies of religion long after the reasons for their establishment have disappeared.
-Church services still continued in Latin even though the people no longer understood Latin.
+Its charter was not confirmed by act of parliament and conveyed an exclusive privilege. For many years, it was not much disturbed by interlopers.
 
-Thus, two languages were established in Europe, in the same manner as in ancient Egypt= 
-- a sacred, learned language of the priests, and
-- a profane, unlearned language of the people.
+Its capital never exceeded £744,000 at £50 a share.
+- The share price was not so exorbitant nor its dealings so extensive to cause gross negligence, profusion, gross malversation.
 
-It was necessary that the priests understood the language they used. The study of the Latin made an essential part of university education from the beginning.
+It had a successful business for many years despite some extraordinary losses caused by the malice of the Dutch East India Company and other accidents.
 
-
-{{< s v="149" >}} It was not so with the Greek or Hebrew languages.
-
-The Latin translation of the Bible is commonly called the Latin Vulgate.
-The infallible church decrees made that version dictated by divine inspiration.
-It therefore was of equal authority with the Greek and Hebrew originals.
-The knowledge and study of Greek and Hebrew was not required for churchmen.
-For a long time, their study was not necessary in common university education.
-There are some Spanish universities where the study of Greek was never done.
-The first reformers found the Greek text of the new testament, and the Hebrew text of the old testament, more favourable than the Latin Vulgate translation.
-
-The Latin version was gradually accommodated to support the Catholic church's doctrines.
-They exposed the many errors of that translation, which the Roman Catholic clergy defended or explained.
-But this could not be done well without knowledge of those three languages.
-Their study was therefore gradually introduced into most universities.
-Some of those universities embraced while some rejected the doctrines of the reformation.
-The Greek language was connected with classical learning.
-Classical learning was first principally cultivated by Catholics and Italians.
-It came into fashion around the same time the doctrines of the reformation began.
-
-In most universities, Greek was taught= 
-- before philosophy, and
-- as soon as the student had made some progress in Latin.
-
-The Hebrew language had no connection with classical learning except in the holy Scriptures.
-No esteemed book was written in it.
-Its study only commenced after the study of philosophy when the student entered the study of theology.
+But in time, when the principles of liberty were better understood, it became more doubtful how far a Royal Charter, not confirmed by act of parliament, could convey an exclusive privilege*.
 
 
-{{< s v="150" >}} Originally, the first rudiments of Greek and Latin were taught in universities.
-
-In others, the student is expected to have previously learned those languages.
-The study of both makes a very considerable part of university education everywhere.
+> *Superphysics Note: Without parliament, the company would lose to smaller private competitors 
 
 
-## Philosophy
+The decisions of the courts of justice on this question were not uniform. They varied with: 
+- the government's authority, and
+- the humours of the times.
 
-{{< s v="151" >}} The ancient Greek philosophy was divided into three great branches= 
+Interlopers multiplied on the company. From the end of Charles 2nd's reign in 1685 to that of William 3rd in 1702, they brought it great distress.
 
-1. Physics or natural philosophy
-2. Ethics or moral philosophy
-3. Logic
-
-**This general division is perfectly agreeable to the nature of things.**
+In 1698, a proposal was made to parliament to <!-- advance --> loan £2 million to government at 8%, provided the subscribers were collected into a new East India Company with exclusive privileges*.
 
 
-{{< s v="152" >}} The great phenomena of nature necessarily excite wonder= 
-
-the revolutions of the heavenly bodies, eclipses, comets, thunder, lightning, and extraordinary meteors, and
-the generation, life, growth, and dissolution of plants and animals.
-They naturally call forth mankind's curiosity to inquire into their causes.
-
-Superstition first attempted to satisfy this curiosity by referring them all to the agency of the gods.
-Philosophy afterwards tried to account for them from more familiar causes.
-Those great phenomena are the first objects of human curiosity.
-The science which pretends to explain them must naturally have been the first branch of philosophy.
-Accordingly, the first recorded philosophers were natural philosophers.
+> *Superphysics Note: Here, the investors wanted guaranteed profits by eliminating private businesses
 
 
-{{< s v="153" >}} In every age and country, men must have attended to one another's characters, designs, and actions.
+The old East India Company offered £700,000, nearly the amount of their capital, at 4% on the same conditions.
+- Public credit was such in a bad state, that it was more convenient for government to borrow £2 million at 8%* than £700,000 at 4%.
 
-Many reputable rules and maxims for the conduct of human life must have been laid down and approved of by common consent.
-As soon as writing came into fashion, wise men would naturally endeavour= 
-- to multiply those maxims, and
-- to express their own sense of what was proper or improper conduct sometimes in= 
-  - the more artificial form of apologues, like Aesop's fables,
-  - the more simple form of apophthegms or wise sayings like= 
-	- The Proverbs of Solomon
-	- The verses of Theognis and Phocyllides
-	- The works of Hesiod
+> *Superphysics Note: This is the similar condition of poor countries in 2015 getting Chinese debt
 
-They might continue in this way for a long time merely to multiply those maxims of prudence and morality, without even attempting to= 
-arrange them in any distinct or methodical order, and
-connect them by general principles from which they were all deducible, like effects from their natural causes.
-There was a beautiful, systemic arrangement of their different observations, connected by a few common principles.
-This was first seen in the rude ancient essays about the system of natural philosophy.
-Something of the same kind was afterwards attempted in morals.
 
-The maxims of common life were arranged in some methodical order.
-They were connected together by a few common principles, in the same manner attempted in the arrangement and connection of natural phenomena.
-The science which pretends to investigate and explain those connecting principles is called moral philosophy.
+The proposal<!--  of the new subscribers --> was accepted and a new East India Company established.
+- The old East India Company could continue until 1701.
 
-154 Different authors gave different systems of natural and moral philosophy.
 
-But the arguments which supported those systems were frequently very slender probabilities at best.
-Sometimes those arguments were mere sophisms.
-Their only foundation was the inaccuracy and ambiguity of common language.
-Speculative systems have always been adopted for frivolous reasons.
+## East India Company as a Semi Joint Stock
 
-Gross sophistry has never influenced mankind's opinions, except in matters of philosophy and speculation.
-Gross sophistry was frequently the greatest in philosophy and speculation.
-The patrons of each system of natural and moral philosophy naturally tried to expose the weakness of the arguments of opposing systems.
-In examining those arguments, they had to consider the difference between= 
-a probable and a demonstrative argument,
-a fallacious and a conclusive one.
-Logic is the science of the general principles of good and bad reasoning.
+At the same time, it subscribed £315,000 very artfully into the new company's joint stock.
+- The act of parliament failed to emphasize that all subscribers of the £2 million loan were <!-- all obliged to  -->united into a joint stock.
 
-It arose out of the scrutiny of this examination.
-It was originally posterior to physics and ethics.
-It was commonly taught in most of the ancient schools of philosophy, previous to physics and ethics.
-The student was thought to understand the difference between good and bad reasoning before he was led to reason on important subjects.
-155 This ancient division of philosophy into three parts was changed into five parts in most European universities.
+A few private <!-- traders --> shareholders had subscriptions of only £7,200. They insisted:
+- on <!-- the privilege of --> <!-- trading --> doing business on their own stocks separately at their own risk
+- that the old East India Company had a right to private business <!-- a separate trade --> on its old stock until 1701, and
+- like the private owners<!-- traders -->, the Company had a right to a <!-- separate --> private trade on the £315,000 which it had subscribed into the new company's stock.
 
-156 In the ancient philosophy, whatever concerned the nature of the human mind or the Deity was a part of physics.
-Those beings were parts of the great system of the universe.
-They produced the most important effects.
-Whatever human reason could conclude about them made two very important chapters, of the science which pretended to give an account of the origin and revolutions of the great system of the universe.
-But in European universities, philosophy was taught as subservient to theology.
-It was natural to dwell longer on these two chapters than any other chapter of the science.
-They were gradually extended and divided into many inferior chapters such as= 
-the doctrine of spirits, and
-This is a study where so little can be known.
-the doctrine of bodies.
-This is a study where so much can be known.
-In the end, the doctrine of spirits took up as much room in philosophy as the doctrine of bodies.
+The competition between these 2 companies and with private <!-- traders --> businesses almost ruined both.
 
-Those two doctrines made two distinct sciences.
-Metaphysics or Pneumatics were set in opposition to Physics.
-Metaphysics were cultivated as the more sublime and useful science than Physics.
-Experiment and observation requires a careful attention which is capable of making so many useful discoveries.
-Experiment and observation was almost entirely neglected.
-Metaphysics was greatly cultivated.
-It had a few very simple and obvious truths.
-The most careful attention of these truths can only lead to obscurity and uncertainty.
-It can only produce subtleties and sophisms.
+In 1730, a proposal was made to parliament to put its <!-- trade --> business under a private regulated company and laying it open.
+- The East India Company opposed this proposal.
+- They were very strongly against the ensuing <!-- miserable effects of this --> competition.
+- They said that:
+  - In India, the competition raised the price of goods so high that they were not worth buying.
+  - In England, the competition overstocked the market and sunk the price of goods so low that no profit could be made.
 
-157 When those two sciences were set in opposition to one another, the comparison between them naturally created a third science called Ontology.
+The plentiful supply was a great advantage and conveniency to the public.
+- It reduced the price of Indian goods so much in the English market.
+- But it did not raise the price of goods very much in the Indian market.
 
-Ontology is the science which studied the qualities and attributes common to subjects in Metaphysics and Physics.
-Subtleties and sophisms composed most of Metaphysics or Pneumatics and the whole of the cobweb of Ontology.
-Ontology was sometimes also called Metaphysics.
+All the extraordinary demand that competition could bring was just a drop of water in the immense ocean of Indian commerce.
 
-158 The ancient moral philosophy investigated the happiness and perfection of a man considered as an individual and a member of= 
-- a family,
-- a state,
-- the great human society.
+**"The increase of demand though in the beginning it may sometimes raise the price of goods, never fails to lower it in the run."**
+- It encourages production and increases the competition of the producers.
+- Those producers turn to new divisions of labour and improvements never thought of in order to undersell one another.
+- The company complained of:
+  - the cheapness of consumption, and
+  - the encouragement given to production.
 
-In moral philosophy, the duties of human life were treated as subservient to the happiness and perfection of human life.
+**These are precisely the two great effects promoted by political economy.**
 
-But when moral and natural philosophy came to be taught only as subservient to theology, the duties of human life were treated as subservient to the happiness of a life to come.
-In the ancient philosophy, the perfection of virtue produced the most perfect happiness in this life.
-In the modern philosophy, the perfection of virtue was frequently inconsistent with happiness in this life.
-Heaven was to be earned only by= 
-penance and mortification, and
-the austerities and abasement of a monk.
-Heaven was not to be earned bythe liberal, generous, and spirited conduct of a man.
-Casuistry and an ascetic morality made up most of the moral philosophy of the schools.
-In this manner, the most important branch of philosophy became the most corrupted.
 
-159 The following was the common course of philosophical education in most European universities= 
+## East India Company as a Joint Stock
 
-Logic was taught first
-Ontology came in second
-Pneumatology came in third
-It was the doctrine on the nature of the human soul and the Deity
-A debased system of moral philosophy came in fourth.
-It was immediately connected with= 
-The doctrines of Pneumatology
-The immortality of the human soul
-The rewards and punishments from the Deity to be expected in a life to come
-A short and superficial system of Physics usually concluded the course.
+The competition they complained of was not allowed to continue for long.
 
-160 The changes introduced by European universities into the ancient course of philosophy were all meant to= 
-- educate ecclesiastics, and
-- render it as a more proper introduction to the study of theology
+- In 1702, the 2 companies were united by an indenture tripartite, to which the queen was the third party.
+- In 1708, by an act of parliament, they were perfectly consolidated into 1 company as The United Company of Merchants trading to the East Indies.
 
-But those changes introduced the following into philosophy= 
-- additional subtlety,
-- sophistry,
-- casuistry, and
-- ascetic morality.
+This act had a clause which allowed the separate traders to continue their trade until September 29, 1711. At the same time, it empowered the directors, upon 3 years notice, to:
+- redeem their little capital of £7,200, and
+- convert the whole stock of the company into a joint stock.
 
-These certainly did not= 
-- render it more proper for education,
-- improve understanding, nor
-- mend the heart.
+The company's capital was increased from £2 million to £3.2 million through a new loan to the government.
 
-161 This course of philosophy is still taught diligently in most European universities.
+In 1743, the company advanced another £1 million to the government.
+- This million was raised by selling annuities and contracting bond-debts, not by a call on the proprietors.
+- It did not increase the stock on which the proprietors could claim a dividend.
 
-In some of the richest and best endowed universities, the tutors teach a few unconnected shreds and parcels of this corrupted course.
-They commonly teach it very negligently and superficially.
+It increased their trading stock.
+- Their trading stock was equally liable with the other £3.2 million to the losses and debts by the company.
 
-162 Most of the improvements made in several branches of philosophy were not made in universities.
+From 1708 or 1711, this company fully established the successful monopoly of English commerce to the East Indies.
+- A moderate dividend was annually given to their proprietors from its profits.
 
-Most universities did not even want to adopt those improvements.
-For a long time, several of those universities chose to remain the sanctuaries for exploded systems and obsolete prejudices after they had been hunted out of other parts of the world.
-In general, the richest and best endowed universities were the slowest in adopting those improvements.
-They were most averse to permit any major change in the established plan of education.
-Those improvements were more easily introduced into the poorer universities.
-The teachers there depended on their reputation for most of their subsistence.
-They were obliged to pay more attention to the current world opinions.
-163 European public schools and universities were originally intended only for the education of churchmen.
+The French war began in 1741.
 
-Those churchmen were not always very diligent in instructing their pupils.
-But they gradually drew to themselves the education of almost everyone, particularly those of gentlemen and men of fortune.
-It was the best way to spend the time between infancy to adulthood for learning the business of the world.
-However, most of what is taught in schools and universities is not the most proper preparation for that business.
+Mr. Dupleix was the French governor of Pondicherry. His ambition involved the French in:
+- the Carnatic wars, and
+- the politics of the Indian princes.
 
-164 In England, it becomes everyday more the custom to send young people to foreign countries immediately after leaving school, without sending them to university.
+<!-- After many extraordinary successes and losses, the East India Company lost Madras. Madras was their principal settlement in India back then.
+- It was restored to the French by the treaty of Aix-la-Chapelle. -->
 
-It is said that our young people generally return home much improved by their travels.
-A young man who goes abroad at 17 or 18 and returns home at 21.
-At that age, it is very difficult not to improve much in three or four years.
-He acquires some knowledge of foreign languages from his travels though he is seldom able to speak or write them fluently.
-He commonly returns home more conceited, unprincipled, dissipated, and more incapable of any serious application to study or business than if he had lived at home.
-By traveling so very young, he spends the most precious years of his life in the most frivolous dissipation.
-He is far from the inspection and control of his parents and relations.
-Every useful habit formed by his early education might be weakened or erased instead of being riveted and confirmed.
-Only the discredit of the universities could have ever created this very absurd practice of travelling at a young age.
-By sending his son abroad, a father delivers himself from seeing his own son unemployed, neglected, and going to ruin.
-165 Such were the effects of some modern educational institutions.
+At this time, the spirit of war and conquest possessed the East India <!--  servants --> staff in India and never left them. 
+- Another French war began in 1755 as the Seven Years' War.
+- The company defended Madras, took Pondicherry, and recovered Calcutta.
+- They acquired the revenues of more than £3 million a year from this rich and extensive territory.
+
+In 1767, the French crown laid claim to their company's territorial acquisitions and its revenue.
+- The company agreed to pay the government £400,000 a year in compensation for this claim.
+
+Before this, they gradually increased their dividend from 6% to 10%.
+- From their capital of £3.2 million, they increased it by £128,000 or raised it from £192,000 to £320,000 a year.
+- They were attempting to raise it to 12.5%.
+
+It would have made their annual payments to their investors <!-- proprietors --> equal to their £400,000 annual payment to government.
+
+But during the 2 years when their agreement with government was to take place, they were restrained by 2 successive acts of parliament from increasing the dividend.
+
+Their debts were then estimated at more than £6-7 million sterling. They wanted to pay their debts faster.
+
+In 1769, the company renewed their agreement with government for 5 years more. During those 5 years, it should be allowed to gradually increase its dividend to 12.5%, never increasing it more than 1% per year.
+
+At its highest, this dividend increase could increase its annual payments to the investors <!-- proprietors --> and government only by £608,000 more than what it was before their recent territorial acquisitions.
+
+The net revenue of those territorial acquisitions from an account by the Cruttenden East Indiaman in 1768 was £2,048,747.
+
+At the same time, the company had another revenue of £439,000:
+- partly from lands, and
+- chiefly from the customs at their settlements.
+
+At this time, their trade profits was: 
+- at least £400,000 a year, according to their chairman before the House of Commons,
+- at least £500,000 a year, according to their accountant,
+- at least equal to the highest dividend that was to be paid to their proprietors, according to the lowest account.
+
+So great a revenue might certainly have afforded an increase of £608,000 in their annual payments.
+
+At the same time, it would have left a large sinking fund sufficient for speedy debt reduction.
+
+In 1773, their debts increased by:
+- An arrear in the payment of the £400,000
+- Another payment to the custom-house for duties unpaid
+- A large debt to the bank for money borrowed
+- A fourth payment for bills drawn on them from India of more than £1,200,000 and wantonly accepted
+
+These accumulated claims obliged them to: 
+- immediately reduce their dividend to 6%, and
+- <!-- supplicate --> beg the government for:
+  - a release from further payment of the stipulated £400,000 a year, and
+  - a loan of £1,400,000 to save them from immediate bankruptcy.
+
+The great increase of their fortune only gave their staff <!-- servants -->:
+- a pretext for greater profusion, and
+- a cover for greater malversation <!-- than the increase of that fortune. -->
+
+Their conduct <!-- of their servants in India and their affairs in India and Europe --> was subjected to a parliamentary inquiry.
+- Several very important changes were made in the constitution of their government at home and abroad.
+- In India, their principal settlements of Madras, Bombay, and Calcutta were previously independent of one another. These were subjected to a governor-general who was assisted by a council of 4 assessors.
+- Parliament <!-- assumed to itself the first --> nominated this governor and council who were to reside at Calcutta.
+
+Calcutta became the most important English settlement in India, replacing Madras.
+- The court of Calcutta was originally instituted for mercantile cases in the city.
+- It gradually extended its jurisdiction with the extension of the empire.
+<!-- It was now reduced and confined to its original purpose.
+Instead of it,  -->
+- It was replaced with a new supreme court<!-- was established -->.
+  - It had a chief justice and 3 judges to be appointed by the crown.

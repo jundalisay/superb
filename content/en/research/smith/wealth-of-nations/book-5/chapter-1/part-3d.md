@@ -1,48 +1,82 @@
 ---
-title: "The Hamburgh, Russian, and Eastland Regulated Companies"
-heading: "Part 3d of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+title: "Mercantile Corporations as Commercial Institutions"
+heading: "Part 3c of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
 date: 2021-08-01
 image: "/covers/wn.jpg"
-description: "Sir Josiah Child complained these companies were extremely oppressive"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3c"
-linkftext: "Part 3c"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3e"
-linkbtext: "Part 3e"
+description: "Particular institutions are necessary to facilitate particular branches of commerce"
+linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3b"
+linkftext: "Part 3b"
+linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3d"
+linkbtext: "Part 3d"
 author: Adam Smith
 icon: /avatars/smith.png
 ---
 
 
-{{< s v="98" >}} The terms of admission into the Hamburgh Company are now quite easy.
 
-Its executives <!-- directors --> have not yet subjected the trade to any burdensome regulations.
-- It was not always so.
+{{< s v="90" >}} Specific institutions are necessary to facilitate specific branches of commerce. These require a specific and extraordinary costs.
 
-In the mid-17th century, the <!-- fine -->fee for admission was £50.
-- At one time it was £100.
-- The company's conduct was extremely oppressive.
 
-In 1643, 1645, and 1661, the clothiers and free traders west of England complained them to parliament as monopolists who:
-- confined the trade and
-- oppressed the country's manufactures.
+{{< s v="91" >}} The commerce done with uncivilized nations needs extraordinary protection.
 
-Those complaints:
-- produced an act of parliament
-- probably intimidated the company as to reform their conduct. 
+An ordinary counting-house gives little security to the goods of the merchants trading to the African west coast. Their warehouses should be fortified against the barbarous natives.
 
-Since that time, there were no more complaints against them.
+The Indian government's disorders rendered such fortifications necessary even among that mild and gentle people.
 
-The conduct of the Russian and Eastland companies probably created the following acts of parliament.
-- The 10th and 11th of William 3rd chapter 6 which reduced the fee for admission into the Russia Company to £5
-- The 25th of Charles 2nd chapter 7 reduced the fee for admission into the Eastland Company to 40 shillings. At the same time, Sweden, Denmark, and Norway were exempted from their exclusive charter.
 
-Before that time, Sir Josiah Child complained that the following companies as extremely oppressive: 
-- The Hamburgh Company
-- The Russia Company
-- The Eastland Company
+## Mercenaries and Negotiators versus Government Armies and Ministers
 
-He imputed to their bad management the low state of the trade with the countries in their charters.
-- Presently, those companies are not very oppressive. However, they are certainly altogether useless.
-- "To be merely useless is perhaps the highest eulogy which can ever justly be bestowed upon a regulated company."
-<!-- - All those 3 companies presently deserve this eulogy. -->
+The English and French East India Companies were allowed to build their first forts in India under pretence of securing their persons and property from violence.
+
+Other governments are vigorous enough to prevent foreigners from having any forts within their territory.
+
+In such nations, it may be necessary to maintain an ambassador. He may judge cases between: 
+<!-- decide, according to their own customs: -->
+- <!-- the differences among  -->his own countrymen in that foreign land, and
+- their disputes with the natives.
+
+By his public character, he can:
+- interfere with more authority, and
+- better protect his countrymen, than any private man.
+
+Commercial interests made it necessary to maintain ministers in foreign countries.
+- The Turkey Company's commerce first established an ambassador at Constantinople.
+- The first English embassies to Russia arose from commercial interests.
+
+There was constant interference of commercial interests among the European states. It probably introduced the custom of keeping permanent ambassadors in neighbouring countries.
+
+This custom was unknown in ancient times. It seems not older than the end of the 15th or the start of the 16th century when:
+- commerce first extended itself to most European nations, and
+- European nations first attended to commercial interests.
+
+
+
+{{< s v="92" >}} The extraordinary cost of protecting any branch of commerce should be paid for by a moderate tax on that branch.
+
+For example:
+- a moderate fee paid by the traders when they first enter the trade, and
+- a percentage duty on the goods they export or import to or from the country where protection is needed.
+  - This tax is fairer <!-- more equal --> than the fee. <!-- moderate fine. -->
+
+The protection from pirates <!-- and free-booters --> created the first customs duties.
+- A general trade tax pays for the protection of the general trade
+- A specific trade tax pays for the protection of that specific trade.
+
+
+{{< s v="93" >}} The protection of general trade was always:
+- essential to national defence and
+- the executive power's duty.
+
+The collection and use of the general customs duties was always left to the executive power. 
+
+The protection of a specific trade is a part of the protection of the general trade. Therefore, it is a part of the executive power's duty. 
+
+Both general and specific should always be left to the executive. 
+
+However, in most European commercial countries, specific companies of merchants have lobbied <!-- persuaded --> the legislature to fully entrust this duty to them.
+
+{{< s v="94" >}} These companies might have been useful to introduce some commerce by making an experiment at their own expence which the state did not think it prudent to make.
+
+But in the long-run, those companies proved universally burdensome or useless by their mismanagement or confinement of the trade that they created.
+
 

@@ -1,73 +1,126 @@
-+++
-title=  "Austere vs Liberal Morals"
-description=  "Austere vs Liberal Morals"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3p"
-linkbtext=  "Part 3p"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3r"
-linkftext=  "Part 3r"
-icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
-+++
+---
+title: "Scholarships"
+heading: "Part 3q of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "University Education"
+linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3p"
+linkftext: "Part 3p"
+linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3r"
+linkbtext: "Part 3r"
+author: Adam Smith
+icon: /avatars/smith.png
+---
 
 
-{{< s v="199" >}} In every civilized society which has the distinction of ranks, there were always two systems of morality.
+{{< s v="139" >}} **Whatever forces students to any college or university independent of the teachers' merit or reputation reduces the necessity of that merit or reputation.**
 
-1. The strict or austere
+The privileges of graduates in arts, law, physics, and divinity are in some cases obtained only by residing a certain number of years in certain universities.
 
-This is generally admired and revered by the common people.
+It forces a certain number of students to those universities, independent of the teachers' merit or reputation.
 
-2. The liberal or loose system
+The privileges of graduates are a sort of statutes of apprenticeship.
 
-The loose is commonly more esteemed and adopted by people of fashion. The vices of levity is apt to arise from great prosperity.
+They have contributed to improve education, just as statutes of apprenticeship have contributed to improve arts and manufactures.
 
-It leads to the excess of gaiety and good humour.
-Our disapproval of levity is the principal distinction between those two opposite systems.
-In the loose system, the following are generally treated with much indulgence and are easily excused or pardoned= 
-- luxury,
-- wanton and even disorderly amusement,
-- the less-restrained pursuit of pleasure,
-- the breach of chastity which do not lead to gross indecency, falsehood or injustice.
 
-In the strict system, those excesses are extremely abhorred and detested.
+{{< s v="140" >}} The charitable foundations of scholarships, exhibitions, bursaries, etc. necessarily attach a certain number of students to certain colleges, independent of the merit of those colleges.
 
-The vices of levity are always ruinous to common people.
-A single week's thoughtlessness and dissipation is often enough to= 
-undo a poor workman forever, and
-drive him to commit enormous crimes.
-Wise common people always abhor and detest such excesses.
-Their experience reminds them of its immediate fatality to people of their condition.
-On the contrary, the disorder and extravagance of several years will not always ruin a man of fashion.
-Those people consider excess as their advantage and looseness as one of the privileges of their fortune.
-They regard such excesses with a slight disapproval.
-200 Almost all religious sects began among the common people from whom they drew their earliest and most numerous proselytes.
+Were the students under such charitable foundations free to choose the college they liked best, there might be some emulation among colleges.
 
-The austere system of morality was adopted by those sects.
-It best recommend their reformation plan to those common people.
-Most of them gained credit by refining this austere system to the point of folly.
-This excessive rigour gave them more of the respect and veneration of the common people.
+On the contrary, a regulation which prohibited them from leaving their college to go to another would very much extinguish that emulation.
 
-201 A man of rank and fortune is a distinguished member of a great society.
 
-Society attends to every part of his conduct.
-It obliges him to attend to his own conduct himself.
-His authority and consideration depend very much on the respect of his society.
-He dares not do anything which would disgrace or discredit him.
-He is obliged to strictly observe the moral system approved by his society for persons of his rank and fortune.
-On the contrary, a man of low condition is not distinguished in any great society.
+{{< s v="141" >}}  A regulation which: 
+- let each college head appoint the teachers instead of being voluntarily chosen by the student, and
+- did not allow the student to change his teacher in case of the teacher's neglect, inability, or bad usage would:
+  - extinguish all emulation among teachers of the same college, and
+  - very much reduce their diligence and attention to their pupils.
 
-While he remains in a country village, his conduct may be attended to.
-He may be obliged to attend to it himself.
-Only in this situation does he have a character to lose.
-But as soon as he comes into a great city he is sunk in obscurity and darkness.
-No one observes or attends to his conduct.
-He will very likely neglect it himself and abandon himself to vice.
-He never emerges from this obscurity until he becomes a member of a small religious sect.
-He then acquires some consideration he never had before.
-All his fellow sect members are interested to observe his conduct.
-He is liable to be punished or expelled from the sect if he enters any scandal.
-In little religious sects, the common people's morals were always remarkably regular and orderly.
+Such teachers would be very well paid by their students. But they might neglect those students who do not pay them.
 
-The morals of those little sects were generally more regular than in the established church but were frequently disagreeably rigorous and unsocial.
+
+{{< s v="142" >}}  A sensible teacher must find it unpleasant to:
+- lecture nonsense to his students, and
+- find his students deserting his lectures or attending them with neglect, contempt, and derision.
+
+If he is obliged to give a certain number of lectures, these motives alone might urge him strive to give tolerably good ones.
+
+Several expedients may be used to effectively reduce diligence.
+The teacher might read a book about the topic he will teach, instead of explaining it to his pupils.
+
+If this book is written in a foreign or dead language, he might:
+- interpret it to them in their own language, and
+- make his students interpret it to him.
+
+Now and then he would remark on it.
+
+He may flatter himself that he is giving a lecture and give himself less trouble.
+He can do this with the slightest knowledge, without sounding foolish, absurd, or ridiculous.
+
+The college's discipline may enable him to force his pupils= 
+- to regularly attend this sham-lecture, and
+- to maintain the most decent and respectful behaviour during the performance.
+
+
+{{< s v="143" >}} In general, the discipline of colleges and universities is contrived for the interest or ease of the masters, not for the benefit of the students.
+
+In all cases, it aims: 
+- to maintain the authority of the master whether he neglects his duty or not, and
+- to oblige the students to behave as if he performed his duty with the greatest diligence and ability.
+
+"It seems to presume perfect wisdom and virtue in the one order, and the greatest weakness and folly in the other."
+
+Where the masters really perform their duty, most of the students perform theirs.
+No discipline is ever needed to force attendance on lectures really worth attending.
+Force and restraint may be needed to oblige children or very young boys to attend essential early education.
+
+But after 12 or 13 years of age, provided the master does his duty, force or restraint is unnecessary in any part of education.
+Such is the generosity of most young men that they pardon many of their teacher's errors.
+They sometimes even conceal his gross negligence from the public, provided he is serious in intending to be useful to them.
+
+
+{{< s v="144" >}} Generally, the subjects which do not have their own public institutions are the best taught.
+
+When a young man goes to a fencing or a dancing school, he does not always learn to fence or to dance very well.
+- He seldom fails to learn to fence or dance.
+
+The good effects of the riding school are not so evident.
+- The cost of a riding school is so great that in most places it is a public institution.
+
+The 3 most essential parts of literary education are:
+- to read,
+- to write,
+- to do mathematics,
+
+They are more commonly acquired in private than public schools. It very seldom happens that anybody fails to acquire them.
+
+
+
+{{< s v="145" >}} In England, the public schools are much less corrupted than the universities.
+
+- In the schools, the youth are taught only Greek and Latin. Schools have no exclusive privileges.
+- In the universities, the youth are not taught the sciences.
+- The sciences are taught by guilds (incorporated bodies)
+
+In most cases, the schoolmaster's reward depends principally or entirely on the fees from his scholars.
+
+To obtain graduation honours in a school, one just needs to answer the examination correctly on what is taught there, and no questions are asked on where he learnt it. He does not need to bring a certificate of having studied a certain number of years at a public school.
+
+
+{{< s v="146" >}} The subjects in universities are perhaps not very well taught. But without universities, they would not have been taught at all. The people would suffer from the lack of such education.
+
+
+{{< s v="147" >}} Most of the present European universities were originally ecclesiastical corporations.
+
+They were: 
+- instituted to educate churchmen
+- founded by the pope's authority and under his immediate protection.
+
+Their members were masters or students and all had the benefit of clergy. They were:
+- exempted from the civil jurisdiction <!-- of the countries where those universities were situated. -->
+- judged by ecclesiastical tribunals.
+
+The subjects taught in most of those universities were suitable to their institution's goal:
+- Theology
+- Preparatory Theology

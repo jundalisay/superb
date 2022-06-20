@@ -1,73 +1,125 @@
 ---
-title: "Private Copartneries vs Joint Stock Companies"
-heading: "Part 3g of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+title: "The Turkey Company (1581-1825)"
+heading: "Part 3e of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
 date: 2021-08-01
 image: "/covers/wn.jpg"
-description: "Joint stock companies, established by royal charter or by act of parliament, differ from regulated companies and private copartneries"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3f"
-linkftext: "Part 3f"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3h"
-linkbtext: "Part 3h"
+description: "By a bylaw, no British manufactures could be exported to Turkey except in the company's ships."
+linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3d"
+linkftext: "Part 3d"
+linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3f"
+linkbtext: "Part 3f"
 author: Adam Smith
 icon: /avatars/smith.png
 ---
 
 
-{{< s v="104" >}} Joint stock companies established by royal charter or by act of parliament differ from:
-- regulated companies and
-- private copartneries.
+{{< s v="99" >}} The fee for admission into the Turkey Company was formerly: 
+- £25 for all persons under 26 years old, and
+- £50 for all persons above 26 years old.
 
-{{< s v="105" >}} 1. In a private copartnery, a partner needs the consent of the company to: 
-- transfer his share to another person,
-- introduce a new member into the company.
+Only mere merchants could be admitted.
 
-Upon proper warning, each member may: 
-- withdraw from the copartnery, and
-- demand payment for his share of the common stock from the copartnery.
+This restriction excluded all shop-keepers and retailers.
+
+By a bylaw, British manufactures could be exported to Turkey only on the company's ships.
+- Those ships always sailed from the expensive port of London.
+- This restriction confined the trade to London and its traders.
+
+By another bylaw, the following could not be admitted as a member:
+- persons living within 20 miles of London, and
+- persons not free of the city.
+
+These 2 restrictions excluded all but the freemen of London.
+- The time for the loading and sailing of those ships depended on the directors.
+- They could easily fill them with the goods of their own and their friends.
+- Others were excluded as making their proposals too late.
+
+This company was a strict and oppressive monopoly.
+- Those abuses created the act of the 26th of George 2nd chapter 18.
+
+It reduced the admission fee to £20 for all persons without:
+- any age distinction, and
+- any restriction to mere merchants or freemen of London.
+
+It granted to all such persons the liberty of:
+- exporting permitted British goods from all British ports to any Turkish port,
+- importing all permitted Turkish goods from Turkey after:
+  - paying general customs duties,
+  - paying the particular duties for defraying the company's costs, and
+  - submitting to:
+    - the authority of the British ambassador and consuls in Turkey, and
+    - the company's bylaws.
+
+To prevent any oppression by those bylaws, the same act ordained that if 7 company members were aggrieved by any bylaw enacted after this act was passed:
+- they can appeal to the Board of Trade and Plantations (now a privy council) provided such appeal was brought within 12 months after the bylaw was enacted, and
+- they can bring a like appeal, provided it was within 12 months after the day this act was to take place.
+
+**One year may not always be enough to reveal the pernicious tendency of a bylaw to all the members of a big company.**
+
+If they discover it, the Board of Trade and the committee of council cannot give them any redress.
+
+The object of most of the bylaws of all regulated companies and all other corporations, is not so much to oppress existing members. **Its object is more to discourage others from becoming members.**
+This may be done through:
+- a high admission fee and
+- many other contrivances.
+
+The constant view of such companies is always:
+- to raise their own profit rate as high as they can, and
+- to keep the market as understocked with goods as much as possible.
+
+These can only be done:
+- by restraining the competition, or
+- by discouraging new adventurers from entering the trade.
+
+A fee even of £20 might be insufficient to discourage anyone from entering the Turkey trade with an intention to continue in it. It might be enough to discourage a speculative merchant.
 
 
-In a joint stock company, on the contrary, each member:
-- cannot demand payment for his share from the company
-- can, without the company's consent:
-  - transfer his share to another person, and
-  - introduce a new member.
-
-**The value of a share in a joint stock is always its market price. This is different from the stated value in the stock of the company.**
+**In all trades, the regular established traders, even those not incorporated, naturally combine to raise profits.**
+- Their profits are most likely to be kept down to their proper level at all times by speculative competition.
+- The Turkey trade was somewhat laid open by this act.
+  - But it is still very far from being free.
 
 
-
-{{< s v="106" >}} 2. In a private co-partnery, each partner is bound for the debts of the company to the extent of his fortune.
-
-In a joint stock company, on the contrary, each partner is bound only to the extent of his share.
-
-
-
-{{< s v="107" >}} The joint stock company's <!-- trade --> business is always managed by an executive board (court of directors)<!-- court of directors --> which is managed by a board of investors <!-- directors --> (court of proprietors).
-<!-- - The  is frequently subject to a  []. -->
-
-But most of those investors <!-- proprietors --> seldom pretend to understand the company's business.
-- When the spirit of faction does not prevail among them, they give no trouble about it.
-- They are content to receive yearly dividends as the executives <!-- directors --> think proper to give to them.
-
-**This total exemption from trouble and risk, beyond a limited sum, encourages many people to become adventurers in joint stock companies.** *
-
-> *Superphysics Note: The joint principles of laziness and managed risk or safety leads to the huge size of corporations
+The Turkey Company maintains 1 ambassador and 2-3 consuls.
+- Those ministers should be maintained by the state like other public ministers.
+- The trade should be laid open to all.
+- The taxes levied by the Turkey company might afford a revenue to enable the state to maintain such ministers.
 
 
+{{< s v="100" >}} Sir Josiah Child observed that regulated companies frequently supported public ministers.
 
-They would never hazard their fortunes in any private co-partnery. Thus, joint stock companies draw more stocks than any private co-partnery.
-- The South Sea Company's trading stock at one time amounted to more than £33,800,000.
-- The Bank of England's divided capital [a joint stock?] is presently £10,780,000.
+Those companies never maintained any forts or garrisons in the countries where they traded.
+- On the other hand, joint stock companies frequently maintained forts.
 
-The <!-- directors --> executives of such companies are the managers of other people's money.
-- **They cannot be expected to watch over it with the same vigilance as the partners in a private co-partnery.**
-- They are like the stewards of a rich man.
-  - They think that attending to small matters are not for their master's honour.
-  - They very easily exempt themselves from attending to such matters.
-- Negligence and profusion, must always prevail, more or less, in the management of the affairs of such a company.
+**In reality, private regulated companies seem more unfit for maintaining forts than joint stock companies.**
 
-Joint stock companies for foreign trade seldom were able to compete against private adventurers.
-- They very seldom succeeded without an exclusive privilege.
-- They frequently have not succeeded even with an exclusive privilege.
-- Without an exclusive privilege they commonly mismanaged the trade.
-- With an exclusive privilege they both mismanaged and confined it.
+
+1. The executives <!-- directors --> of a regulated company have no interest in the prosperity of the company's general trade which maintains such forts.
+
+The decay of that general trade may even be advantageous to their own private trade. It would:
+- lessen their competitors, and
+- enable the executives <!-- directors --> to buy cheaper and sell dearer.
+
+On the contrary, the <!-- directors --> executives of a joint stock company only have their share in the profits made on the common stock they manage.
+- They have no private business which can interfere with the company's general business.
+
+Their private interest is connected with:
+- the prosperity of the company's general business, and
+- the maintenance of the forts and garrisons necessary for its defence
+
+They are more likely to have that continual and careful attention which that maintenance requires.
+
+
+
+2. The executives <!-- directors --> of a joint stock company always manage a large capital.
+
+They may properly use part of this large capital in building, repairing, and maintaining such forts and garrisons.
+
+But the <!-- directors --> executives of a private regulated company have no common capital to manage.
+- They have no other fund to use for forts and garrisons other than the casual revenue from:
+  - the admission fees, and
+  - the corporation duties on the company's business.
+- <!-- Though they had the same interest to ,  -->They can seldom have the same ability as joint stock company to maintain such forts and garrisons.
+
+The maintenance of a public minister requires no attention and only a moderate and limited expence.
+- It is much more suitable for a private regulated company.
