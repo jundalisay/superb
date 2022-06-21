@@ -72,7 +72,7 @@ How can multilateral clearing be achieved without the application of force?
 - Each Clearing Fund thus receives and disburses only national currency
   - It receives such currency from the home importers and disburses it to the home exporters.
 
-> *Footnote: This paragraph merely states the theoretical principle of Pool Clearing. In practice, the channeling of all payments through the Clearing Fund can be made hardly noticeable to any individual trader. The established banks would be authorised to make and accept payments against documentary evidence and would merely settle the uncleared balance with the Clearing Fund. They would also continue to finance home importers and exporters in much the same way as before. Whether or not certain categories of in-payments or out-payments are to be made subject to special permit, is a question which every government has by itself. Any foreign exchange control is equally compatible with Pool Clearing.
+> *Schumacher Footnote: This paragraph merely states the theoretical principle of Pool Clearing. In practice, the channeling of all payments through the Clearing Fund can be made hardly noticeable to any individual trader. The established banks would be authorised to make and accept payments against documentary evidence and would merely settle the uncleared balance with the Clearing Fund. They would also continue to finance home importers and exporters in much the same way as before. Whether or not certain categories of in-payments or out-payments are to be made subject to special permit, is a question which every government has by itself. Any foreign exchange control is equally compatible with Pool Clearing.
 
 
 Assume this goes on for 12 months and each Fund has 3 outcomes:
@@ -111,11 +111,22 @@ This cannot be answered unless the time sequence of all individual transactions 
 
 ## The Pooling of Local Currency and the International Clearing Union
 
-The pooling of balances arises automatically out of the system's mechanism. No surplus country is ever called on to exchange one balance for another. Under bilateral clearings, America—in our example—would possess the GBP-balances even if Britain had achieved balance or even if Britain were a surplus country. To multilateralise such a system, America would have to be forced against her immediate interest to swap her GBP balances against Britain’s balances in the deficit countries. There would be no country strong enough to enforce such swapping on a worldwide scale.
+The pooling of balances arises automatically out of the system's mechanism. No surplus country is ever called on to exchange one balance for another. 
 
-**Under Pool Clearing, this whole question never comes up**. Any such cash balances in the various Funds are always the result of **a deficit in the total trade of the countries in question**. Mere bilateral trade deficits do not create the appearance of uncleared balances, unless they represent at the same time deficits in total trade. 
+Under bilateral clearings, America—in our example—would possess the GBP-balances even if Britain had achieved balance or even if Britain were a surplus country. 
 
-The pooling of balances arises automatically. But we still need to create some international machinery to give to this process a legal form. An “International Clearing Office*” can be set up as Trustee in the pooling of uncleared balances*. All cash balances accumulating (in the form of a holding of Treasury Bills) in the Clearing Funds of the deficit countries are to be taken over by the International Clearing Office. The Clearing Funds of the surplus countries will own each a share in the Pool, equal to the size of their respective surpluses.
+To multilateralise such a system, America would have to be forced against her immediate interest to swap her GBP balances against Britain’s balances in the deficit countries. There would be no country strong enough to enforce such swapping on a worldwide scale.
+
+**Under Pool Clearing, this whole question never comes up**. 
+
+Any such cash balances in the various Funds are always the result of **a deficit in the total trade of the countries in question**. Mere bilateral trade deficits do not create the appearance of uncleared balances, unless they represent at the same time deficits in total trade. 
+
+Thus, the pooling of balances arises automatically. 
+
+But we still need to create some international machinery to give to this process a legal form. An “International Clearing Office” can be set up as Trustee in the pooling of uncleared balances*. 
+
+
+All cash balances accumulating (in the form of a holding of Treasury Bills) in the Clearing Funds of the deficit countries are to be taken over by the International Clearing Office. The Clearing Funds of the surplus countries will own each a share in the Pool, equal to the size of their respective surpluses.
 
 ![Pool Union Graphic](https://sorasystem.sirv.com/charts/pool/poolunion.png)
 
