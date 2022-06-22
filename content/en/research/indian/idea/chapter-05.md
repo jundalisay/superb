@@ -1,5 +1,6 @@
 ---
-title: "Kośa"
+title: "The Portions of the Mind"
+# KośaStages 
 heading: "Chapter 5 of Idea and Ideology Simplified"
 date: 2022-01-31
 description: "Consciousness is the supreme subjectivity and all other, mundane, subjectivities or objectivities are mere blendings of the absolute subjectivity"
@@ -13,85 +14,100 @@ icon: /flags/in.png
 
 
 Consciousness is the supreme subjectivity. 
+- All other, mundane, subjectivities or objectivities are mere blendings of the absolute subjectivity.
 
-All other, mundane, subjectivities or objectivities are mere blendings of the absolute subjectivity.
-
-Therefore, the mind is not an absolute entity. Instead, it is a transformed state of consciousness. 
-
-To perform its actions, it depends on the motor or sensory organs as its direct agents. Afferent and efferent nerves, in their turn, act as direct agents of these organs.
+Therefore, the mind is not an absolute entity. 
+- Instead, it is a transformed state of consciousness. 
+- To perform its actions, it depends on the motor or sensory organs as its direct agents.
+- Afferent and efferent nerves, in their turn, act as direct agents of these organs.
 
 The nerves:
-- convey the tanmátras from objects into the mind
-- activate the objects with the force they get from the mental structure
+- convey the quantum-perceptions <!-- tanmátras --> from objects into the mind, and
+- activate the objects with the force that they get from the mental structure
 
-Thus, they link the mind with the external objectivities and are the indirect agents of the mind.
+Thus, they:
+- link the mind with the external objectivities and
+- are the indirect agents of the mind.
 
-Whenever the outgoing tanmátras carrying mental force get reflected, the objects come within our scope of sensation, perception and conception. 
 
-When they get refracted, the objects partially come within our scope of sensation, etc. 
+## Perception
 
-When the quantum-perceptions are neither reflected nor refracted or when there is little reflection or refraction, the objects do not come within the scope of our feeling.
+Whenever the outgoing quantum-perceptions carrying mental force:
+- gets reflected, the objects come within our scope of sensation, perception and conception. 
+- gets refracted, the objects **partially** come within our scope of sensation, etc. 
+- are neither reflected nor refracted or when there is little reflection or refraction, the objects do not come within the scope of our feeling.
 
-The correctness of perception depends upon a good many factors. The objects transmitting tanmátras must be in healthy condition. The gateways of the organs must be healthy, and also the reflecting tanmátras should be defectless. 
+**The correctness of perception depends on many factors.** 
 
-The afferent and efferent nerves and the mindstuff should be sufficiently strong and active. The last but not least factor is that the ego should be ready to receive them. 
+1. The objects transmitting quantum-perceptions must be in healthy condition. 
+2. The gateways of the organs must be healthy
+3. The reflecting quantum-perceptions should be defectless. 
+4. The afferent and efferent nerves and the mindstuff should be sufficiently strong and active.
+5. The <!-- last but not least factor is that --> ego should be ready to receive them. 
 
-Any defect or slackness of any of the above factors results in incorrect perception and hence in incorrect conception.
+Any defect or slackness of any of the above factors results in incorrect perception and consequently, incorrect conception.
 
-For example, in glaucoma, watery fluid is deposited in the optical nerve. This causes a dispersion of light inside, making <!--  As a result even --> the white light transmitted by objects appear to be spectrum-colored.
+For example, in glaucoma, watery fluid is deposited in the optical nerve. 
+- This causes a dispersion of light inside, making <!--  As a result even --> the white light transmitted by objects appear to be spectrum-colored.
 
-So far as the efferent nerves are concerned, it is primarily upon the activating capacity of the ego that the process of physical activity depends. 
+In terms of the efferent nerves, the activating (radiating) capacity of the ego determines:
+- physical activity, primarily
+- one’s personality 
+  - The more developed the radiating power, the more glaring will be one’s personality.
 
-One’s personality also depends on the activating (radiating) capacity. The more developed is the radiating power, the more glaring will be one’s personality.
+Thus, the mind acts through the organs and nerves to receive or radiate the quantum-perceptions. 
 
-Thus, the mind acts through the organs and nerves to receive or radiate the tanmátras. 
+The portion of mind which deals with the sense-organs is called kámamaya stage. This controls the physical longings of the microcosm.
 
-The portion of mind which deals with indriyas is named kámamaya kośa. This controls the physical longings of the microcosm.
+<!-- As regards the Macrocosm, the mind is said to be started at that stage where the sense of subjectivity (Identity-Layer), the subjectivated “I” (Ego-Layer) and the objectivated “I” (mindstuff) are all present. 
 
-As regards the Macrocosm the mind is said to be started at that stage where the sense of subjectivity (Mahattattva), the subjectivated “I” (Ahaḿtattva) and the objectivated “I” (citta) are all present. 
+Hence, in the stage of  -->
 
-Hence, in the stage of citta we get Mahattattva and Ahaḿtattva as well.
+The mindstuff has Identity-layer and Ego-layer <!-- we get Mahattattva and Ahaḿtattva --> as well.
 
-In the extroversial saiṋcara process citta gradually crudifies under the influence of static Prakrti, till the crude solid is created. 
+In the crudification <!-- cycle, extroversial saiṋcara --> process, mindstuff gradually crudifies under the influence of static Activity until the crude solid is created. 
 
-This process of crudification of mindstuff, having a coordination of Identity-layer and Ego-layer, is divided into 5 stages<!--  known as kośas -->. 
+This process of crudification of mindstuff, having a coordination of Identity-layer and Ego-layer, is divided into 5 portions or kośas 
 
-According to their relative density of crudeness developed through the bondage of the static principle, the five kośas, starting from the initial stage, are:
-- hirańmaya kośa
+According to their relative density of crudeness developed through the bondage of the static principle, the 5 portions from the initial portion are:
+
+1. Causal <!-- hirańmaya -->
   - this is called “causal” or “astral” mind collectively with the vijiṋánamaya and atimánasa kosas 
-- vijiṋánamaya kośa
-- atimánasa kośa
-- manomaya kośa
-  - this is known as the “subtle mind” or súkśma manah
-- kámamaya kośa. 
-  - this is the crudest in structure and is called the “crude mind” or sthúla manah in dealing with the 5 layers.
+2. vijiṋánamaya
+3. atimánasa
+4. Subtle <!-- manomaya  -->
+<!-- - this is known as the “subtle mind” or súkśma manah -->
+5. Crude <!-- kámamaya kośa. --> 
+<!--   - this is the crudest in structure and is called the “crude mind” or sthúla manah in dealing with the 5 layers. -->
+
 <!--   -  and in the case of the microcosm dealing with the external paiṋcabhútas,   -->
 
 The <!-- psychological nomenclature of --> Freudian classification of “conscious”, “sub-conscious” and “unconscious” minds for the crude, subtle and causal minds are wrong.
 
 
-## Kámamaya Kośa
+## Crude Portion or Kámamaya Kośa
 
-This is the crudest stage of citta, where it is metamorphosed into the crudest stuff. 
+This is the crudest portion of mindstuff, where it is metamorphosed into the crudest stuff. 
 
-With the five manifested fundamental physical factors (it is physical for the microcosm but mental for the Macrocosm) the Macrocosmic Mind displays its will. 
+The 5 layers are the crude portion of the Macrocosmic Mind where it displays its will. 
 
-Macrocosmic control over the five fundamental physical factors means the internal display of the Macrocosmic kámamaya kośa. 
+<!-- Macrocosmic control over the 5 fundamental physical layers means the internal display of the Macrocosmic physical portion --><!--  kámamaya kośa -->
 
-Nothing is beyond the scope of Cosmic Mind. Everything comes within that mental scope. And so the Macrocosmic Entity needs no nervous system or senses for controlling these operations. The Cosmic Mind at this stage requires no physical structure.
+<!-- Nothing is beyond the scope of Cosmic Mind. Everything comes within that mental scope. And so the Macrocosmic Entity needs no nervous system or senses for controlling these operations. The Cosmic Mind at this stage requires no physical structure. -->
 
 
-## Manomaya Kośa
+## Subtle Portion or Manomaya Kośa
 
-The manomaya kośa is subtler than the kámamaya kośa. It has the capacity of recollection and contemplation (smarańa and manana). 
+The subtle portion <!-- manomaya kośa --> is subtler than the crude portion<!--  kámamaya kośa -->. It has the capacity of recollection and contemplation<!-- (smarańa and manana) -->. 
 
-From the microcosmic angle of vision, the kámamaya kośa of the Macrocosm is expressed through the 5 rudimental physical factors from which the physical body of the microcosm and other physical objects come into being. 
+From the microcosmic angle of vision, the crude portion <!-- kámamaya kośa --> of the Macrocosm is expressed through the 5 <!-- rudimental --> physical layers.<!--  factors from which the physical body of the microcosm and other physical objects come into being.  -->
+ <!-- kámamaya kośa --> <!-- of the Cosmic therefore includes the annamaya kośa of the unit. -->
+- The crude portion of the Macrocosm in its flow of imagination is able to create actualities for the unit mind.
+- But the crude portion of the unit cannot create physical actualities by its own imagination. 
 
-The kámamaya kośa of the Cosmic includes, therefore, the annamaya kośa of the unit. 
+The crude portion <!-- kámamaya kośa, --> can deal <!-- having the function of dealing --> with the created layers.  <!-- bhútas, is said to be the crude mind in the case of the microcosm also.  -->
 
-Here, the Macrocosm in its flow of imagination creates actualities for the unit mind, whereas the kámamaya kośa of the unit cannot create physical actualities by its imagination. 
-
-The kámamaya kośa, having the function of dealing with the bhútas, is said to be the crude mind in the case of the microcosm also. The manomaya, performing the function of recollection and contemplation, is known as the subtle mind of the microcosm also. 
+The subtle portion <!-- manomaya, --> is capable of <!-- performing the function of --> recollection and contemplation. <!-- , is known as the subtle mind of the microcosm also.  -->
 
 
 
@@ -101,34 +117,39 @@ These are the causal portion of both the Macrocosm and the microcosm.
 
 <!-- The remaining 3 kośas are still more subtle and also being the rudimental stages of sthúla and súkśma manah, are .  -->
 
-But the division of the microcosm into a causal portion is merely theoretical. 
+But the causal stage <!-- portion --> <!-- division --> of the microcosmic mind is merely theoretical. 
+- There is no separate existence of the unit causal mind from the Cosmic causal mind. 
+- There is no causal difference between the microcosm and the Macrocosm.
 
-There is no separate existence of the unit causal mind from the Cosmic causal mind. 
 
-In case the crude and subtle portions of the unit mind suspend their work by the process of sádhaná or otherwise, the causal portion of the unit mind will not be able to maintain its separate identity. Only the seed of past action will remain just to differentiate the microcosm from the Macrocosm.
+The causal portion of the unit mind will not be able to maintain its separate identity from the Macrocosmic mind when the crude and subtle portions of the unit mind suspend their work by the process of sádhaná. 
+- Only the seed of reactive momenta <!-- past action will remain just to --> differentiates the causal microcosm from the causal Macrocosm.
+- Through correct sádhaná, the spiritual aspirant will feel that there is one causal mind in the universe.
+- Similarly, by the subtleness of projection, subtle and crude portions of the unit mind can connect themselves with the subtle and crude portions of the Cosmic Mind. 
+- Yogic sádhaná is the way to achieve this subtleness of projection. 
 
-Through correct sádhaná, the sádhaka will feel that there is one causal mind in the universe.
 
-There is no causal difference between the microcosm and the Macrocosm. 
+## The Crude, Subtle, Casual Macrocosm
 
-Similarly, by the subtleness of projection, subtle and crude portions of the unit mind can connect themselves with the subtle and crude portions of the Cosmic Mind. 
+The entire Macrocosm can similarly be divided into 3 parts or bodies:
+- crude 
+- subtle body (súkśma deha) of the the Paramátman
+- astral or causal, made up of the Identity-layer and Ego-layer
 
-Yogic sádhaná is the way to achieve this subtleness of projection.
+These bodies <!--  concept of “causal body” is --> are only philosophical.
 
-The entire Macrocosm can similarly be divided into 3 parts:
-- crude
-- subtle
-- astral or causal. 
+The physical world is within the psychic scope of the Macrocosm. 
+- But the Macrocosm cannot have any crude or physical body in the sense the microcosm has. 
 
-The physical world is within the psychic scope of the Macrocosm, the Macrocosm cannot have any crude or physical body in the sense the microcosm has. 
+Yet because of the inclusion of the 5 layers<!--  bhútas --> within its mind, the crude portion <!-- kámamaya kośa --> of the Macrocosm is often called the crude body of Supreme Consciousness <!-- Paramátman -->.
 
-Yet because of the inclusion of the five bhútas within its mind, the kámamaya kośa of the Macrocosm is often termed the crude body of Paramátman.
+<!-- The remaining portions of the Macrocosmic body are: -->
 
-The remaining portions of the Macrocosmic kośas are:
-- the subtle body, or the súkśma deha, of Paramátman. 
-- Ahaḿtattva and Mahattattva of Paramátman are known as Its astral or causal body.
+<!-- - Ahaḿtattva and Mahattattva of Paramátman are known as Its astral or causal body. -->
 
-The concept of “causal body” is only philosophical. This is because philosophy says that the moment the Macrocosmic Nucleus<!--  Puruśottama --> was influenced by His immanent sentient principle:
+ 
+
+This is because philosophy says that the moment the Macrocosmic Nucleus<!--  Puruśottama --> was influenced by His immanent sentient principle:
 - the seed of creation was expressed
 - His bodies and lokas were created.
 

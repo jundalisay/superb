@@ -1,5 +1,5 @@
 ---
-title: "Waves"
+title: "The Perception Layers and Sense-Layers"
 heading: "Chapter 3 of Idea and Ideology Simplified"
 date: 2022-01-31
 description: ""
@@ -20,28 +20,31 @@ An object or objectivity is nothing but a wave motion within the body of the Cos
 
 Life consists only of an ocean of waves.
 
-Every layer (bhúta) from the ethereal to the solid is in an eternal flow. The very existence of bhútatattva is just a pattern of waves. 
+Every layer (bhúta) from the aethereal to the solid is in an eternal flow.
+- The very existence of the created layers <!-- bhútatattva --> is just a pattern of waves. 
+
+Quantum-percpetions (Tanmátras) are a microscopic fraction of the waves, taken in a collective form by the mindstuff via the sensory organs<!-- -cum-citta -->. 
+- <!-- These microscopic fractions carried through waves are called . --> Hence, quantum-perceptions <!-- tanmátras --> <!-- are nothing but --> are the waves produced by the objects as a result of reflection of the subtler layer <!-- bhúta --> on the cruder ones.
+
+<!-- Tanmátras --> Quantum-perceptions in the mathematical sense are heterogeneous, not homogeneous.
+- This leads to the varieties in the perceptible external world. 
+- This heterogeneity is specialized by the difference in wavelengths amongst different quantum-perceptions <!-- tanmátras --> internally or externally of the scope of any particular layer <!-- bhúta -->.
 
 
-Quanta (Tanmátras) are a microscopic fraction of the waves, taken in a collective form by the citta via the sensory organs<!-- -cum-citta -->. 
-
-<!-- These microscopic fractions carried through waves are called . --> Hence, quantum-perceptions <!-- tanmátras --> <!-- are nothing but --> are the waves produced by the objects as a result of reflection of the subtler layer <!-- bhúta --> on the cruder ones.
-
-<!-- Tanmátras --> Quanta in the mathematical sense are not homogeneous. They are heterogeneous. This leads to the varieties in the perceptible external world. 
-
-This heterogeneity is specialized by the difference in wavelengths amongst different quantum-perceptions <!-- tanmátras --> within or outside of the scope of any particular layer <!-- bhúta -->.
-
-Ákásha or the ethereal <!-- factor --> layer is theoretical. 
-
-It is the subtlest of all the layers<!-- bhútas -->, having the maximum wavelength. Its flow faces no physical hindrance, whereas the other bhútas do face some.
+Ákásha or the aether is theoretical. 
+- It is the subtlest of all the layers<!-- bhútas -->, having the maximum wavelength. 
+- Its flow faces no physical hindrance, whereas the other layers<!--  bhútas --> do face some.
 
 A wave can:
 - **move freely only when it is in harmony with previous waves and their curvatures.** 
 - **pass through an object where there is no physical obstruction or hindrance from a subtler wave, that is, subtler waves can pass through cruder waves.** 
 
-Under such circumstances, there is always an adjustment of wavelengths. This results in the creation of physical diversities.
+Under such circumstances, there is always an adjustment of wavelengths. 
+- This results in the creation of physical diversities.
 
-A proper adjustment of wavelength means adjustment at the two pauses of the waves – the sentient pause and the static pause. 
+A proper adjustment of wavelength means adjustment at the 2 pauses of the waves:
+- the sentient pause and
+- the static pause
 
 The sentient pause in the wave is where:
 - upward momentum is finally exhausted
@@ -51,34 +54,34 @@ The static pause is where:
 - downward movement has ended
 - upward motion is just about to start.
 
-They represent the crest and trough of physical science. The greater the wavelength of any layer (bhútatattva), the higher the chance of waves passing through. <!--  this adjustment of the striking . -->
-
-When an object lets a wave pass through, then it does not come within the scope of sensory nerves. 
-
-But when the wave is <!--  does not get such a passage, that is, it --> is reflected back, then our sensory nerves perceive its existence.
+They represent the crest and trough of physical science.
+- **The greater the wavelength of any layer, the higher the chance of the other waves passing through.** <!--  this adjustment of the striking . -->
+- When an object lets a wave pass through, then it does not come within the scope of sensory nerves. 
+- **But when the wave is reflected back, then our sensory nerves perceive its existence.**
+<!--  does not get such a passage, that is, it -->
 <!-- Let us examine the process of actual perception and see how it occurs.  -->
 
 <!-- HOW TO REFLECT SUBTLER WAVES??? -->
 
+<!-- The existence of -->**A physical structure is nothing but a state of continuous vibration.** 
+- Its very existence demands eternal movement. 
+- This vibration creates waves which strike the gateways of the sense-organs.
+  - From them, a sympathetic vibration within the sensory nerve is conveyed to the actual organ in the brain. 
 
-<!-- The existence of -->**A physical structure is nothing but a state of continuous vibration.** Its very existence demands eternal movement. This vibration creates waves which strike the gateways of the organs.
+**In the brain, the unit mindstuff takes the form of the vibration.** 
+- This makes the ego feel that it is perceiving its object.
 
-A sympathetic vibration within the sensory nerve is conveyed to the actual organ in the brain. 
-
-In the brain, the unit citta takes the form of the vibration. The ego feels that it is perceiving its object.
-
-For example, when the light waves coming from an object strike the eye's retina, the optical nerve creates a similar vibration in the optical fluid which conveys the vibration to a point in the brain known as cakśu indriya.
-
-Citta takes the form of the object. <!-- ahaḿtattva or --> The ego feels that “I am seeing the object.”
+For example, when the light waves coming from an object strike the eye's retina, the optical nerve creates a similar vibration in the optical fluid. 
+- This conveys the vibration to a point in the brain known as cakśu indriya.
+- Mindstuff then takes the form of the object. <!-- ahaḿtattva or --> 
+- The ego feels “I am seeing the object”
 
 Thus, actual perception is achieved by <!-- made through a process in --> the nerves carrying vibrations from the gateways of the organs to the actual <!-- sites of the particular --> organs in the brain. <!-- This is the case with taste perception and other sensory activities.  -->
+- If any of the sensory nerves are defective, that type of perception will not be experienced by the ego.
 
-If any of the sensory nerves are defective, that type of perception will not be experienced by the ego. 
-
-In other words, the objective perception is always attributed to the merits and demerits of the sensory nerves. 
-
-The type of vibration radiated by an object is the "out-going quantum-perception"<!--  tanmátra” -->
-The wave received by the sensory nerves is the "incoming quantum-perception"<!--  tanmátra” -->.
+**In other words, the objective perception is always attributed to the merits and demerits of the sensory nerves.**
+- The vibration or wave *radiated* by an object is the "out-going quantum-perception"<!--  tanmátra” -->
+- The vibration or wave *received* by the sensory nerves is the "incoming quantum-perception"<!--  tanmátra” -->.
 
 
 ## The Sensory Layer
@@ -93,20 +96,22 @@ The <!-- indriyas or --> organs are 10:
 
 The sensory organs <!-- indriyas --> receives the different quantum-perceptions <!-- tanmátras -->.
 
-The motor organs <!-- indriyas --> create quantum-perceptions <!-- tanmátras --> according to the inherent saḿskára and transmit them in an extroversial style.
+The motor organs <!-- indriyas --> create quantum-perceptions <!-- tanmátras --> according to the inherent reactive-momenta <!-- saḿskára --> and transmit them in a crude way. <!-- n extroversial style. -->
 
-**A very important point to be noted here is that the immanent capacity of an object, whether ethereal or solid, for discharging quantum-perceptions <!-- tanmátras, --> remains the same.** 
+**A very important point to be noted here is that the immanent capacity of an object, whether aethereal or solid, for discharging quantum-perceptions <!-- tanmátras, --> remains the same.** 
 
 **Any increase in the number of sense perceptions does not affect the total intensity of perception. It remains constant in a mathematical manner.**
+- If the solid can transmit the 5 fundamental perceptions of sound, touch, form, taste and smell with equal intensity, it does not mean that each and every perception of this solid quantum-perception <!-- tanmátra --> will have the same intensity of sound waves transmitted by the aethereal body.
 
-If the solid can transmit the 5 fundamental perceptions of sound, touch, form, taste and smell with equal intensity, it does not mean that each and every perception of this solid quantun <!-- tanmátra --> will have the same intensity of sound waves transmitted by the ethereal body.
+The aethereal body has the singular characteristic of transmitting sound waves.
+- These sound waves have the collective intensity of all the 5 quantum-perceptions <!-- tanmátras --> transmitted by the solid body having the multilateral sensory functions.*
 
-The ethereal body has the singular characteristic of transmitting sound waves. It has the collective intensity of all the 5 quanta <!-- tanmátras --> transmitted by the solid body having the multilateral sensory functions.*
+> *Superphysics Note: This means that an aethereal version of a solid object gives out the perceptions of that object via sound, just as its physical version gives out its perceptions as touch, sight, smell.    
 
-> *Superphysics Note: This means that an aethereal idea-object gives out the perceptions via sound as its physical object 
+<!-- idea-object gives out the perceptions via sound just as its physical object gives out its perceptions as touch, sight,   -->
 
 
-### Sensory organs
+### Sensory and Motor Organs
 
 Name | Function
 --- | ---
@@ -118,7 +123,7 @@ Name | Function
 
 These help the mind in assimilating the <!-- tanmátras --> quantum-perceptions.
 
-The motor organs or karmendriyas:
+The motor organs <!-- or karmendriyas -->:
 
 Name | Function
 --- | ---

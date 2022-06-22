@@ -125,28 +125,22 @@ The members present at the joint sitting may deliberate and shall vote together 
 proposed by the House of Representatives, and upon amendments, if any, which have been made therein
 by one House and not agreed to by the other, and any such amendments which are affirmed by an absolute
 majority of the total number of the members of the Senate and House of Representatives shall be taken to
-have been carried, and if the proposed law, with the amendments, if any, so carried is affirmed by an absolute
-majority of the total number of the members of the Senate and House of Representatives, it shall be taken to
-
-17have been duly passed by both Houses of the Parliament, and shall be presented to the Governor-General for
-the Queen’s assent.
+have been carried, and if the proposed law, with the amendments, if any, so carried is affirmed by an absolute majority of the total number of the members of the Senate and House of Representatives, it shall be taken to have been duly passed by both Houses of the Parliament, and shall be presented to the Governor-General for the Queen’s assent.
 
 58. Royal assent to Bills
 When a proposed law passed by both Houses of the Parliament is presented to the Governor-General for the
-Queen’s assent, he shall declare, according to his discretion, but subject to this Constitution, that he assents in
-the Queen’s name, or that he withholds assent, or that he reserves the law for the Queen’s pleasure.
+Queen’s assent, he shall declare, according to his discretion, but subject to this Constitution, that he assents in the Queen’s name, or that he withholds assent, or that he reserves the law for the Queen’s pleasure.
+
 Recommendations by Governor-General
+
 The Governor-General may return to the house in which it originated any proposed law so presented to him,
 and may transmit therewith any amendments which he may recommend, and the Houses may deal with the
 recommendation.
+
 59. Disallowance by the Queen
-The Queen may disallow any law within one year from the Governor-General’s assent, and such disallowance on
-being made known by the Governor-General by speech or message to each of the Houses of the Parliament, or
-by Proclamation, shall annul the law from the day when the disallowance is so made known.
+
+The Queen may disallow any law within one year from the Governor-General’s assent, and such disallowance on being made known by the Governor-General by speech or message to each of the Houses of the Parliament, or by Proclamation, shall annul the law from the day when the disallowance is so made known.
 
 60. Signification of Queen’s pleasure on Bills reserved
-A proposed law reserved for the Queen’s pleasure shall not have any force unless and until within two years
-from the day on which it was presented to the Governor-General for the Queen’s assent the Governor-General
-makes known, by speech or message to each of the Houses of the Parliament, or by Proclamation, that it has
-received the Queen’s assent.
 
+A proposed law reserved for the Queen’s pleasure shall not have any force unless and until within two years from the day on which it was presented to the Governor-General for the Queen’s assent the Governor-General makes known, by speech or message to each of the Houses of the Parliament, or by Proclamation, that it has received the Queen’s assent.
