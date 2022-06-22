@@ -1,6 +1,6 @@
 ---
 title: "Life, Death and Saḿskára"
-heading: "Chapter 7 of Idea and Ideology Simplified"
+heading: "Chapter 7 "
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"

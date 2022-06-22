@@ -1,6 +1,6 @@
 ---
 title: "Subtilification (Pratisaiṋcara) and Manah"
-heading: "Chapter 2 of Idea and Ideology Simplified"
+heading: "Chapter 2 "
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"

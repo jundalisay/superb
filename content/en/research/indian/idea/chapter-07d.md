@@ -1,6 +1,6 @@
 ---
 title: "How Does Life Come About?"
-heading: "Chapter 7b of Idea and Ideology Simplified"
+heading: "Chapter 7b "
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"

@@ -3,7 +3,7 @@ title: "The Reign of Man NATURE"
 heading: Chapter 1 Book 2 of Nova Organum
 date: 2022-01-31
 description: ""
-# image: "/graphics/1987.jpg"
+image: "/covers/nova.jpg"
 linkb: "/research/bacon/nova/book-2/"
 linkbtext: "Index"
 linkf: "/research/bacon/nova/book-2/"
@@ -44,7 +44,7 @@ Nothing exists in nature except individual bodies exhibiting clear individual ef
 This law, therefore, and its parallel in each science, is what we understand by the term form,[75] adopting that word because it has grown into common use, and is of familiar occurrence.
 
 
-III. He who has learned the cause of a particular nature (such as whiteness or heat), in particular subjects only, has acquired but an imperfect knowledge: as he who can induce a certain effect upon particular substances only, among those which are susceptible of it, has acquired but an imperfect power. 
+{{< s v="3" >}} He who has learned the cause of a particular nature (such as whiteness or heat), in particular subjects only, has acquired but an imperfect knowledge: as he who can induce a certain effect upon particular substances only, among those which are susceptible of it, has acquired but an imperfect power. 
 
 But he who has only learned the efficient and material cause (which causes are variable and mere vehicles[111] conveying form to particular substances) may perhaps arrive at some new discoveries in matters of a similar nature, and prepared for the purpose, but does not stir the limits of things which are much more deeply rooted; while he who is acquainted with forms, comprehends the unity of nature in substances apparently most distinct from each other. He can disclose and bring forward, therefore (though it has never yet been done), things which neither the vicissitudes of nature, nor the industry of experiment, nor chance itself, would ever have brought about, and which would forever have escaped man’s thoughts; from the discovery of forms, therefore, results genuine theory and free practice.
 

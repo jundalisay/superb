@@ -1,6 +1,6 @@
 ---
 title: "The Cosmic Brotherhood"
-heading: "Chapter 11 of Idea and Ideology Simplified"
+heading: "Chapter 11 "
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "The Kuńd́alinii or Coiled Serpentine"
-heading: "Chapter 4 of Idea and Ideology Simplified"
+heading: "Chapter 4 "
 date: 2022-01-31
 description: "The kulakuńd́alinii, the “coiled serpentine”, is the theoretical negative force of the unit body. This is why it is different for each individual."
 image: "/covers/ideology.jpg"

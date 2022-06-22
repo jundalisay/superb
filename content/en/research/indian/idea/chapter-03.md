@@ -1,7 +1,7 @@
 ---
 title: "The 5 Created Layers"
 # Bhútatattva, Tanmátratattva and Indriyatattva
-heading: "Chapter 3 of Idea and Ideology Simplified"
+heading: "Chapter 3 "
 date: 2022-01-31
 description: "The created layers are not any new stuff, but only the crudified forms of Cosmic mindstuff."
 image: "/covers/ideology.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "The Portions of the Mind"
 # KośaStages 
-heading: "Chapter 5 of Idea and Ideology Simplified"
+heading: "Chapter 5"
 date: 2022-01-31
 description: "Consciousness is the supreme subjectivity and all other, mundane, subjectivities or objectivities are mere blendings of the absolute subjectivity"
 image: "/covers/ideology.jpg"
@@ -153,25 +153,28 @@ This is because philosophy says that the moment the Macrocosmic Nucleus<!--  Pur
 - the seed of creation was expressed
 - His bodies and lokas were created.
 
-Similarly, the annamaya kośa of the unit is its crude body (sthúla deha). 
+Thus, the whole portion <!-- annamaya kośa --> of the unit mind is the crude body of the Macrocosm <!--  (sthúla deha) -->. 
 
-The kámamaya, the manomaya, atimánasa, vijiṋánamaya and hirańmaya kośas constitute the subtle body of the unit. 
+The subtle body of the unit's mind is made up of the following portions:
+- crude
+- subtle
+- atimánasa, vijiṋánamaya
+- causal
 
-Above the scope of hirańmaya and till the merger into Puruśottama the unit certainly possesses a body but that body cannot be termed causal. It, being the last phase, is known as sámánya deha.
+
+Above the scope of the causal portion <!-- hirańmaya --> until the merger into the Macrocosmic Nucleus, the unit certainly has a body. 
+- But that body cannot be called causal. <!-- It, being the last phase, is known as sámánya deha. -->
 
 By its very nature, if the mind is to possess objectivity, it must also have a witnessing entity. 
-
-The witnessing entity is the summum bonum of the mind. 
+- The witnessing entity is the summum bonum of the mind. 
 
 Philosophy has given different names to the witnessing entity according to the differences in the nature of the objective mind. 
+- But this does not mean that the same Macrocosmic Nucleus <!-- Puruśottama --> is not the witnessing entity at different stages of the mind.
+- It is He who reflects Himself as the witnessing counterpart by functional difference due to the changing mental status.
 
-But this does not mean that the same Macrocosmic Nucleus <!-- Puruśottama --> is not the witnessing entity at different stages of the mind.
+At different portions, different names have been adopted for that singular entity:
 
-It is He who reflects Himself as the witnessing counterpart by functional difference due to the changing mental status. 
-
-At different stages, different names have been adopted for that singular entity:
-
-Name of Macrocosmic Nucleus | Stage of Cosmic Mind
+Name of Macrocosmic Nucleus | Portion of Cosmic Mind
 --- | ---
 Virát́a or Vaeshvánara | causal Cosmic mind
 Hirańyagarbha | subtle Cosmic mind
@@ -180,24 +183,25 @@ Iishvara | crude Cosmic mind
 
 Similarly, the Macrocosmic Nucleus has different names as witness of the microcosm:
 
-Name of Macrocosmic Nucleus | Stage of Cosmic Mind
+Name of Macrocosmic Nucleus | Portion of Cosmic Mind
 --- | ---
 Vishva | causal Cosmic mind
 Taejasa | subtle Cosmic mind
 Prájiṋa | crude Cosmic mind
 
 
-The Cosmic Entity extends in different <!-- lokas --> worlds wherein the different stages <!-- kośas --> and the unit minds dwell. 
+The Cosmic Entity extends in different <!-- lokas --> worlds wherein the different portions <!-- kośas --> and the unit minds dwell. 
 
-The term loka refers only to the Macrocosm and not to the unit. 
+World or "loka" refers only to the Macrocosm and not to the unit. 
 
-The kámamaya stage of the Cosmic where material structure has taken form is called the “physical world"<!-- bhurloka -->. 
-
-The kámamaya stage of the Cosmic Entity where material structure has just begun taking form but has not actually acquired it is called <!-- bhuvarloka or --> “crude mental world”. 
-
-The levels of manomaya, atimánasa, vijiṋánamaya and hirańmaya stages are known as svarloka or “subtle mental world”, maharloka or “supramental world”, janarloka or “subliminal world” and taparloka, respectively.
-
-Above that, since the causal body is conceived to be in existence from a philosophic point of view, it is termed Satyaloka.
+- The "physical world"<!--  kámamaya stage --> is the crude portion of the Cosmic Entity where material structure has taken form <!-- bhurloka -->. 
+- The "crude mental world" is this crude portion<!--  kámamaya --> where material structure has just begun taking form but has not actually acquired it <!-- is called  bhuvarloka or --> . 
+- The "subtle mental world" (svarloka) is made up of subtle portion.
+- The "supramental world" (maharloka) is made up of the atimánasa 
+- The "subliminal world" (janarloka) is made up of the vijiṋánamaya 
+- The "taparloka" is made up of the causal portion 
+- The "satyaloka" is above the causal body and is philosophical only  
+<!-- Above that, since the  is conceived to be in existence from a  point of view, it is termed . -->
 
 <!-- The above kośas, different stages of mind, witnessing entities and lokas are tabulated below. -->
 

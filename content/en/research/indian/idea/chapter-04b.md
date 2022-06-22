@@ -1,6 +1,6 @@
 ---
 title: "The Heart Chakra and Práńáyáma"
-heading: "Chapter 4 of Idea and Ideology Simplified"
+heading: "Chapter 4 "
 date: 2022-01-31
 description: "The Heart Chakra is the most vital part of the physical and psycho-physical body"
 image: "/covers/ideology.jpg"

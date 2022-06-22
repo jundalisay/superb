@@ -1,6 +1,6 @@
 ---
 title: "Paramátman and Atman"
-heading: "Chapter 6b of Idea and Ideology Simplified"
+heading: "Chapter 6b "
 date: 2022-01-31
 description: "'Paramátman' [active collective consciousness] is the collective name for the Macrocosmic Nucleus"
 image: "/covers/ideology.jpg"

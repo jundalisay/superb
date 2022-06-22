@@ -47,7 +47,9 @@ Article 21. Freedom of assembly and association as well as speech, press and all
 
 Article 22. Every person shall have freedom to choose and change his residence and to choose his occupation to the extent that it does not interfere with the public welfare. Freedom of all persons to move to a foreign country and to divest themselves of their nationality shall be inviolate. Article 23. Academic freedom is guaranteed. 
 
-Article 24. Marriage shall be based only on the mutual consent of both sexes and it shall be maintained through mutual cooperation with the equal rights of husband and wife as a basis. With regard to choice of spouse, property rights, inheritance, choice of domicile, divorce and other matters pertaining to marriage and the family, laws shall be enacted from the standpoint of individual dignity and the essential equality of the sexes. 
+Article 24. Marriage shall be based only on the mutual consent of both sexes and it shall be maintained through mutual cooperation with the equal rights of husband and wife as a basis.
+
+With regard to choice of spouse, property rights, inheritance, choice of domicile, divorce and other matters pertaining to marriage and the family, laws shall be enacted from the standpoint of individual dignity and the essential equality of the sexes. 
 
 Article 25. All people shall have the right to maintain the minimum standards of wholesome and cultured living. In all spheres of life, the State shall use its endeavors for the promotion and extension of social welfare and security, and of public health. 
 

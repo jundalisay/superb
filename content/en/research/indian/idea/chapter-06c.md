@@ -1,6 +1,6 @@
 ---
 title: "Táraka Brahma"
-heading: "Chapter 6c of Idea and Ideology Simplified"
+heading: "Chapter 6c "
 date: 2022-01-31
 description: "Táraka Brahma is not a figure of philosophy. It is a creation of devotional sentiment."
 image: "/covers/ideology.jpg"

@@ -1,6 +1,6 @@
 ---
 title: "Mind, Práńendriya and Vrtti"
-heading: "Chapter 4 of Idea and Ideology Simplified"
+heading: "Chapter 4 "
 date: 2022-01-31
 description: "Due to internal clash and cohesion amongst the 3 immanent principles (sentient, mutative and static), the resultant force bursts out at any one vertex of the triangle formed due to the ever-flowing eternal force"
 image: "/covers/ideology.jpg"

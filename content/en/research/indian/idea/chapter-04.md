@@ -1,7 +1,7 @@
 ---
 title: "The Mind and the 10 Energies"
 #, Práńendriya and Vrtti
-heading: "Chapter 4 of Idea and Ideology Simplified"
+heading: "Chapter 4 "
 date: 2022-01-31
 description: "By division and decimation, solids get metamorphosed into subtler layers. This creates the unit mind."
 image: "/covers/ideology.jpg"

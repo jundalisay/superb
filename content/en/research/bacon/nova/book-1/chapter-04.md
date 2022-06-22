@@ -3,11 +3,11 @@ title: "THE INTERPRETATION OF NATURE"
 heading: Chapter 1 Book 2 of Nova Organum
 date: 2022-01-31
 description: ""
-# image: "/graphics/1987.jpg"
-linkb: "/research/bacon/nova/book-2/"
-linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
-linkftext: "Chapter 2"
+image: "/covers/nova.jpg"
+linkb: "/research/bacon/nova/book-1/chapter-03"
+linkbtext: "Chapter 3"
+linkf: "/research/bacon/nova/book-1/chapter-05"
+linkftext: "Chapter 5"
 icon: /favicon.png
 ---
 

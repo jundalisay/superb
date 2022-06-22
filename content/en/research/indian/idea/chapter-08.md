@@ -1,6 +1,6 @@
 ---
 title: "Mind, Práńendriya and Vrtti"
-heading: "Chapter 4 of Idea and Ideology Simplified"
+heading: "Chapter 4 "
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"

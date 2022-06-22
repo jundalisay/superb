@@ -1,6 +1,6 @@
 ---
 title: "The Perception Layers and Sense-Layers"
-heading: "Chapter 3 of Idea and Ideology Simplified"
+heading: "Chapter 3 "
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"

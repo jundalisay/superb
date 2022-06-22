@@ -18,21 +18,31 @@ Article 41. The Diet shall be:
 
 Article 42. The Diet has 2 Houses:
 - the House of Representatives
-- the House of Councillors. 
+- the House of Councilors 
 
-Article 43. Both Houses shall consist of elected members, representative of all the people. The number of the members of each House shall be fixed by law. 
+Article 43
 
-Article 44. The qualifications of members of both Houses and their electors shall be fixed by law.
+Both Houses shall consist of elected members, representative of all the people. The number of the members of each House shall be fixed by law. 
+
+Article 44
+
+The qualifications of members of both Houses and their electors shall be fixed by law.
 
 However, there shall be no discrimination because of race, creed, sex, social status, family origin, education, property or income. 
 
-Article 45. The term of members of the House of Representatives is 4 years. 
+Article 45
+
+The term of members of the House of Representatives is 4 years. 
 
 However, the term shall be terminated before the full term is up in case the House of Representatives is dissolved. 
 
-Article 46. The term of office of members of the House of Councillors shall be six years, and election for half the members shall take place every three years. 
+Article 46
 
-Article 47. Electoral districts, method of voting and other matters pertaining to the method of election of members of both Houses shall be fixed by law. 
+The term of office of members of the House of Councilors is 6 years. The election for half the members shall take place every three years. 
+
+Article 47
+
+Electoral districts, method of voting and other matters pertaining to the method of election of members of both Houses shall be fixed by law. 
 
 Article 48. No person shall be permitted to be a member of both Houses simultaneously. 
 

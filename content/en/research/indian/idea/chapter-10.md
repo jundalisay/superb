@@ -1,6 +1,6 @@
 ---
 title: "Evolution and the 4 Ages of Society"
-heading: "Chapter 4 of Idea and Ideology Simplified"
+heading: "Chapter 4 "
 date: 2022-01-31
 description: "In this cycle of civilization, one age changes or evolves into another. One complete cycle from Shúdra to Vipra Age is called parikránti."
 image: "/covers/ideology.jpg"

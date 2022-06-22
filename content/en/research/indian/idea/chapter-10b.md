@@ -1,6 +1,6 @@
 ---
 title: "Yama and Niyama"
-heading: "Chapter 10b of Idea and Ideology Simplified"
+heading: "Chapter 10b "
 date: 2022-01-31
 description: "In the cycle of social evolution, during each age before it is succeeded by another age, one particular class enjoys domination and superiority"
 image: "/covers/ideology.jpg"

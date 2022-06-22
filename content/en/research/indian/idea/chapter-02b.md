@@ -1,6 +1,6 @@
 ---
 title: "The Evolution of Life"
-heading: "Chapter 2b of Idea and Ideology Simplified"
+heading: "Chapter 2b "
 date: 2022-01-31
 description: "In plant and animal life, mind is underdeveloped and the vital energy and mind are controlled by the Supreme Mind"
 image: "/covers/ideology.jpg"

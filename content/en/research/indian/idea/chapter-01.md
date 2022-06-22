@@ -1,7 +1,7 @@
 ---
 title: "The Crudfication Cycle (Saiṋcara) and Práńáh"
 # title: "Saiṋcara and Práńáh"
-heading: Chapter 1 of Idea and Ideology Simplified
+heading: Chapter 1
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"

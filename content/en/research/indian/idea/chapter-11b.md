@@ -1,6 +1,6 @@
 ---
 title: "The Minimum Essentials of Life"
-heading: "Chapter 11b of Idea and Ideology Simplified"
+heading: "Chapter 11b "
 date: 2022-01-31
 author: "PR Sarkar"
 description: "The availability of the minimum essentialities of life plays a vital part not only in achieving world brotherhood, but also in the development of human personality"
