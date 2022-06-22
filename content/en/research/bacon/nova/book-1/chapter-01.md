@@ -1,12 +1,12 @@
 ---
 title: "THE INTERPRETATION OF NATURE"
-heading: Chapter 1 Book 2 of Nova Organum
+heading: Chapter 1 Book 1 of Nova Organum
 date: 2022-01-31
 description: ""
-# image: "/graphics/1987.jpg"
-linkb: "/research/bacon/nova/book-2/"
+image: "/covers/nova.jpg"
+linkb: "/research/bacon/nova/book-1/"
 linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
+linkf: "/research/bacon/nova/book-1/chapter-02"
 linkftext: "Chapter 2"
 icon: /favicon.png
 ---
@@ -78,23 +78,36 @@ They are all fantastical and ill-defined.
 
 {{< s v="27" >}} Anticipations are sufficiently powerful in producing unanimity, for if men were all to become even uniformly mad, they might agree tolerably well with each other.
 
-{{< s v="28" >}} Anticipations again, will be assented to much more readily than interpretations, because being deduced from a few instances, and these principally of familiar occurrence, they immediately hit the understanding and satisfy the imagination; while, on the contrary, interpretations, being deduced from various subjects, and these widely dispersed, cannot suddenly strike the understanding, so that in common estimation they must appear difficult and discordant, and almost like the mysteries of faith.
+{{< s v="28" >}} Anticipations again, will be assented to much more readily than interpretations, because being deduced from a few instances, and these principally of familiar occurrence, they immediately hit the understanding and satisfy the imagination. 
+
+On the contrary, interpretations, being deduced from various subjects, and these widely dispersed, cannot suddenly strike the understanding, so that in common estimation they must appear difficult and discordant, and almost like the mysteries of faith.
 
 {{< s v="29" >}} In sciences founded on opinions and dogmas, it is right to make use of anticipations and logic if you wish to force assent rather than things.
 
-XXX. If all the capacities of all ages should unite and combine and transmit their labors, no great progress will be[18] made in learning by anticipations, because the radical errors, and those which occur in the first process of the mind, are not cured by the excellence of subsequent means and remedies.
+{{< s v="30" >}} If all the capacities of all ages should unite and combine and transmit their labors, no great progress will be[18] made in learning by anticipations, because the radical errors, and those which occur in the first process of the mind, are not cured by the excellence of subsequent means and remedies.
 
-XXXI. It is in vain to expect any great progress in the sciences by the superinducing or ingrafting new matters upon old. An instauration must be made from the very foundations, if we do not wish to revolve forever in a circle, making only some slight and contemptible progress.
+{{< s v="31" >}} It is in vain to expect any great progress in the sciences by the superinducing or ingrafting new matters upon old. An instauration must be made from the very foundations, if we do not wish to revolve forever in a circle, making only some slight and contemptible progress.
 
-XXXII. The ancient authors and all others are left in undisputed possession of their honors; for we enter into no comparison of capacity or talent, but of method, and assume the part of a guide rather than of a critic.
+{{< s v="32" >}} The ancient authors and all others are left in undisputed possession of their honors; for we enter into no comparison of capacity or talent, but of method, and assume the part of a guide rather than of a critic.
 
-XXXIII. To speak plainly, no correct judgment can be formed either of our method or its discoveries by those anticipations which are now in common use; for it is not to be required of us to submit ourselves to the judgment of the very method we ourselves arraign.
+{{< s v="33" >}} To speak plainly, no correct judgment can be formed either of our method or its discoveries by those anticipations which are now in common use; for it is not to be required of us to submit ourselves to the judgment of the very method we ourselves arraign.
 
-XXXIV. Nor is it an easy matter to deliver and explain our sentiments; for those things which are in themselves new can yet be only understood from some analogy to what is old.
+{{< s v="34" >}} Nor is it an easy matter to deliver and explain our sentiments; for those things which are in themselves new can yet be only understood from some analogy to what is old.
 
-{{< s v="35" >}} Alexander Borgia[7] said of the expedition of the French into Italy that they came with chalk in their hands to mark up their lodgings, and not with weapons to force their passage. Even so do we wish our philosophy to make its way quietly into those minds that are fit for it, and of good capacity; for we have no need of contention where we[19] differ in first principles, and in our very notions, and even in our forms of demonstration.
+{{< s v="35" >}} Alexander Borgia[7] said that the French, during their expedition into Italy, came with chalk in their hands to mark up their lodgings, and not with weapons to force their passage. 
 
-{{< s v="36" >}} We have but one simple method of delivering our sentiments, namely, we must bring men to particulars and their regular series and order, and they must for a while renounce their notions, and begin to form an acquaintance with things.
+Likewise, we want our philosophy to make its way quietly into those minds that are fit for it, and of good capacity. We do not need to contend in <!--  where we[19] differ --> our:
+- first principles
+- notions, and
+- forms of demonstration.
+
+{{< s v="36" >}} We only have 1 simple method of delivering our feelings: 
+- We must bring men to particulars and their regular series and order. 
+- They must renounce their notions for a while, and begin to get acquainted with things.
 
 
-{{< s v="37" >}} Our method and that of the sceptics[8] agree in some respects at first setting out, but differ most widely, and are completely opposed to each other in their conclusion; for they roundly assert that nothing can be known; we, that but a small part of nature can be known, by the present method; their next step, however, is to destroy the authority of the senses and understanding, while we invent and supply them with assistance.
+{{< s v="37" >}} Our method intitially match that of the skeptics. But we are very different and opposite in our <!--  most widely, and are completely opposed to each other in their --> conclusion. 
+
+They assert that nothing can be known. But we say that a small part of nature can be known by the present method. 
+
+Their next step, however, is to destroy the authority of the senses and understanding, while we invent and supply them with assistance.

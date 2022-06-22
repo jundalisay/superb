@@ -2,7 +2,7 @@
 title: "The Propensities"
 heading: "Chapter 4c of Idea and Ideology Simplified"
 date: 2022-01-31
-description: ""
+description: "To find expression, the mind adopts certain propensities of love, hatred, fear, etc."
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-04b"
 linkbtext: "Chapter 4b"
@@ -74,13 +74,13 @@ Generally, there are 1,000 propensities in the human structure.
   - Saḿkalpátmaka, or one leading to parávidyá (knowledge of the Great)
   - Vikalpátmaka, relating to aparávidyá (knowledge of the mundane). 
 
-The pineal as a structure controls all these 50 vrttis taken internally and externally by all 10 indriyas. 50 x 2 x 10 = 1,000.
+The pineal as a structure controls all these 50 vrttis taken internally and externally by all 10 sense-organs<!--  indriyas -->. 50 x 2 x 10 = 1,000.
 
-Yogis having control over the sahasrára cakra attain nirvikalpa samádhi, a state where they are beyond the approach of all the vrttis. 
+Within the scope of these propensities lies the seed of <!-- saḿskára – --> good or bad reactive momenta.
 
-Within the scope of these vrttis lies the seed of saḿskára – good or bad. So the attainment of such a state means the end of all the saḿskára, exhaustion of all the previous momentum accumulated by the mind due to its previous journeys in Brahma Cakra. 
-
-This is what is called mokśa – union with the Transcendentality.
+- Yogis who can control<!--  over --> the sahasrára cakra can attain nirvikalpa samádhi -- a state where they are beyond the approach of all the propensities<!-- vrttis -->. 
+  - The attainment of such a state means the end of all reactive momenta (samskara)
+  - The exhaustion of all the previous momentum accumulated by the mind due to its previous journeys in Brahma Cakra is called mokśa, the union with the Transcendentality.
 
 
 30 May 1959

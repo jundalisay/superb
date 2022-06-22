@@ -1,13 +1,13 @@
 ---
-title: "The Heart Chakra and Propensities"
+title: "The Heart Chakra and Práńáyáma"
 heading: "Chapter 4 of Idea and Ideology Simplified"
 date: 2022-01-31
-description: ""
+description: "The Heart Chakra is the most vital part of the physical and psycho-physical body"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-03"
-linkbtext: "Chapter 3"
-linkf: "/research/indian/idea/chapter-05"
-linkftext: "Chapter 5"
+linkb: "/research/indian/idea/chapter-04"
+linkbtext: "Chapter 4"
+linkf: "/research/indian/idea/chapter-04c"
+linkftext: "Chapter 4c"
 icon: "/icons/sarkar.jpg"
 ---
 
@@ -32,7 +32,7 @@ The heart chakra <!-- bhútatattvas, and práńendriya is more or less --> is
 
 <!-- Práńendriya --> 
 
-The Heart Chakra is the most vital part of the physical and psycho-physical level. 
+**The Heart Chakra is the most vital part of the physical and psycho-physical body.** 
 - Every activity of the Heart Chakra is pulsative – contracting and expanding<!-- (saḿkoca-vikáshii) -->.
 - The auxiliary waves of the Heart Chakra flow in a pulsative way -- there is an arrangement of alternative motions and pauses in their flows. 
 
@@ -66,26 +66,32 @@ Therefore, even if all the other factors responsible for perception are working 
 
 But if the heart chakra is in the controlling position or at a pause, it creates such a calmness throughout the psycho-physical structure that the correct perception is possible. 
 
-So actually the heart chakra plays a vital part in helping the organs indirectly to receive the tanmátras, in assisting the mindstuff to perceive them correctly, and thus in letting the ego have a cognition in that connection.
+So actually, the heart chakra plays a vital part in helping the organs indirectly to:
+- receive the quantum-perceptions<!--  tanmátras -->, 
+- assist the mindstuff to perceive them correctly, and thus
+- to let the ego get a deeper understanding of them<!-- have a cognition in that connection. -->
 
-This is the psycho-philosophy behind the practice of 
 
-Práńáyáma is where the sádhaka tries to let this heart chakra remain paused. 
+## Práńáyáma
 
-This lets the paused unit mind merge into the ocean of consciousness just to have the experience of the supramental stratum.
+This is the psycho-philosophy behind the practice of Práńáyáma. 
+- Práńáyáma is where the spiritual aspirant <!-- sádhaka --> tries to let this heart chakra remain paused. 
+- This lets the paused unit mind merge into the ocean of consciousness just to have the experience of the supramental stratum.
 
 In our daily life, the experiences of soft and hard, melodious and harsh, hot and cold are being experienced by our heart chakra. 
-
-These experiences do not come within the scope of the 5 fundamental perceptions of shravańa (hearing), sparshana (feeling by touch), darshana (vision), ashvádana (taste) and ághráńa (smell).
+- These experiences do not come within the scope of the 5 fundamental perceptions of shravańa (hearing), sparshana (feeling by touch), darshana (vision), ashvádana (taste) and ághráńa (smell).
 
 The aforesaid subtler experiences, not coming within the jurisdiction of crude fundamentality, are felt by the sixth organ – the heart chakra.
 
-The heart chakra's special function is to recognize the objectives from different experienced sense perceptions and innate psychic projections. 
+**The heart chakra's special function is to recognize the objectivities from different sense-perceptions and innate psychic projections.** 
+- It also works as an auxiliary force in some of the internal mental activities. 
 
-It also works as an auxiliary force in some of the internal mental activities. 
-
-With the help of this práńendriya one feels that a particular person is very kind and affectionate, or a particular person is unkind and antipathetic. 
+With the help of this heart-chakra <!-- práńendriya --> one feels that:
+- a particular person is very kind and affectionate, or
+- a particular person is unkind and antipathetic. 
 
 Such an experience is based more on a subjective feeling than on any outer objective correlation.
 
-In certain philosophies, "bodhendriya" is also used for the heart chakra. A better word is <!--  for expressing the essence of this indriya shall be --> "bodha vivikti". The other indriyas may be called "bodhendriyas".
+In certain philosophies, "bodhendriya" is also used for the heart chakra. 
+- A better word is <!--  for expressing the essence of this indriya shall be --> "bodha vivikti". 
+- The other sense-organs<!--  indriyas --> may be called "bodhendriyas".

@@ -24,6 +24,8 @@ There are 5 fundamental layers <!-- factors --> of this phenomenal world:
 5. vyoma (ethereal)
 
 
+These are physical for the microcosm, but mental for the Macrocosm. 
+
 Crudification (saiṋcara or saḿkrama) is:
 - the transformation or metamorphosis of the One into these layers<!-- factors -->. 
 - a process of analysis. 
