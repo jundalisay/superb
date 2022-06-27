@@ -59,7 +59,13 @@ Article 27. All people shall have the right and the obligation to work. Standard
 
 Article 28. The right of workers to organize and to bargain and act collectively is guaranteed. 
 
-Article 29. The right to own or to hold property is inviolable. Property rights shall be defined by law, in conformity with the public welfare. Private property may be taken for public use upon just compensation therefor. Article 30. The people shall be liable to taxation as provided by law. Article 31. No person shall be deprived of life or liberty, nor shall any other criminal penalty be imposed, except according to procedure established by law. 
+Article 29. The right to own or to hold property is inviolable. 
+
+Property rights shall be defined by law, in conformity with the public welfare. Private property may be taken for public use upon just compensation therefor. 
+
+Article 30. The people shall be liable to taxation as provided by law.
+
+Article 31. No person shall be deprived of life or liberty, nor shall any other criminal penalty be imposed, except according to procedure established by law. 
 
 Article 32. No person shall be denied the right of access to the courts. 
 

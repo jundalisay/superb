@@ -1,7 +1,17 @@
+---
+title: "People’s Court And People’s Procuracy"
+heading: "Chapter 8 of the Vietnamese Constitution Simplified"
+date: 2021-11-20
+image: "/flags/vn.png"
+description: "Political, civic, economic, cultural and social human rights and citizen’s rights are recognized, respected, protected, and guaranteed"
+linkb: /research/constitutions/vn
+linkbtext: "constitutions"
+linkf: /research/constitutions/vn
+linkftext: "constitutions"
+icon: /flags/vn.png
+---
 
 
-
-CHAPTER VIII. PEOPLE’S COURT AND PEOPLE’S PROCURACY
 
 Article 102
 1. The people’s courts are the judicial organ of the Socialist Republic of Vietnam, exercising the judicial power.
@@ -42,15 +52,19 @@ with by the organs, organizations, and individuals concerned.
 
 
 Article 107
-1. The people's procuracies shall exercise the power to prosecution and control judicial activities.
-2. The people’s procuracies comprise the Supreme People’s Procuracy and other procuracies provided by the law.
-3. The people’s procuracies are responsible for the protection of law, human rights, citizen’s rights, socialist regime, interests of the State, and legal rights and interests of organizations and individuals, thus contributing to ensuring that laws are strictly and uniformly observed.
+
+The people's procuracies:
+- can prosecute and control judicial activities.
+- comprise the Supreme People’s Procuracy and other procuracies provided by the law.
+- are responsible for the protection of law, human rights, citizen’s rights, socialist regime, interests of the State, and legal rights and interests of organizations and individuals, thus contributing to ensuring that laws are strictly and uniformly observed.
 
 
 Article 108
+
 1. The term of the Head of the Supreme People’s Procuracy is consistent with the term of the National Assembly. The appointment, release from duties, and removal from office of heads of other procuracies and procurators are provided by the law.
 2. The Head of the Supreme People's Procuracy is responsible and makes his reports to the National Assembly and, when the latter is not in session, to its Standing Committee and to the State President. The regime of report of heads of other procuracies is provided by the law.
 
 Article 109
+
 1. A People's Procuracy is directed by its Head. The Heads of inferior Procuracies are subject to the leadership of the Heads of superior Procuracies. The Heads of Procuracies at all levels are subject to the overall leadership of the Head of the Supreme People's Procuracy.
 2. When exercising the power of the power to prosecution and controlling judicial activities, procurators shall obey the law and are subject to the leadership of the Head of the People’s Procuracy.

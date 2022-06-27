@@ -70,7 +70,7 @@ Mathematically speaking, this fight results in a triangle of forces. Consciousne
 
 ## Crudification (Saiṋcara)
 
-The internal clash and cohesion of these 3 immanent principles causes creation to come out from a point in any one of the vertices of the triangle of Active forces. 
+The internal clash and cohesion, division and association of these 3 immanent principles causes creation to come out from a point in any one of the vertices of the triangle of Active forces. 
 - The Macrocosmic Nucleus is the center of the triangle. 
 - The Vertex (Shambhú) is the point in Consciousness where creation comes out.
 

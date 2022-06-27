@@ -1172,29 +1172,23 @@ up to half of one percent may be created, to raise the rate of the local service
 or the rate of the tax that may eventually replace it, levied on luxury services.
 Article 83. A federal law shall define the luxury goods and services referred to in
 articles 80, item II, and 82, paragraph 2. (CA No. 42, 2003)
-Article 84.  The provisional contribution on the movement or transmission of monies
-and of credits and rights of a financial nature, set forth in articles 74, 75, and 80, I, of
-this Temporary Constitutional Provisions Act, shall be collected through December
-31, 2004. (CA No. 37, 2002; CA No. 42, 2003)
-Paragraph 1. The effect of Law no. 9,311, of October 24, 1996, as well as of its
-alterations, is hereby extended through the date mentioned in the head paragraph of
-this article.
-Paragraph 2. Of the proceeds from collection of the social contribution mentioned
-in this article, the portion corresponding to the following rates shall be allocated to
-the purposes herein stated:
-1. twenty hundredths percent to the National Health Fund, for the financing
-of health actions and services;
-190
-  2.  ten hundredths percent to the financing of social security;
+
+Article 84.  The provisional contribution on the movement or transmission of monies and of credits and rights of a financial nature, set forth in articles 74, 75, and 80, I, of this Temporary Constitutional Provisions Act, shall be collected through December 31, 2004. (CA No. 37, 2002; CA No. 42, 2003)
+
+Paragraph 1. The effect of Law no. 9,311, of October 24, 1996, as well as of its alterations, is hereby extended through the date mentioned in the head paragraph of this article.
+
+Paragraph 2. Of the proceeds from collection of the social contribution mentioned in this article, the portion corresponding to the following rates shall be allocated to the purposes herein stated:
+1. twenty hundredths percent to the National Health Fund, for the financing of health actions and services;
+2.  ten hundredths percent to the financing of social security;
 3.   eight hundredths percent to the Fund to Fight and Eradicate Poverty, set
 forth in articles 80 and 81 of this Temporary Constitutional Provisions Act.
 to:
 Paragraph 3. The rate of the contribution mentioned in this article shall be equal
-1. thirty-eight hundredths percent in the financial years of 2002 and 2003;
-2.  (revoked).
-Article 85.  The contribution mentioned in article 84 of this Temporary Constitutional
-Provisions Act shall not be levied, as from the thirtieth day after the publication of
-this Constitutional Amendment, on entries concerning: (CA No. 37, 2002)
+1. thirty-eight hundredths percent in the financial years of 2002 and 2003
+
+
+Article 85.  The contribution mentioned in article 84 of this Temporary Constitutional Provisions Act shall not be levied, as from the 30th day after the publication of this Constitutional Amendment, on entries concerning: (CA No. 37, 2002)
+
 1. current deposit accounts especially opened and exclusively used for
 transactions carried out by:
 a) clearinghouses and providers of clearing and settlement services referred to
@@ -1203,14 +1197,15 @@ b) securitization companies referred to in Law no. 9,514, of November 20,
 1997;
 c) business corporations whose exclusive purpose is to purchase credits
 originating from transactions carried out in the financial market;
+
 2.  current deposit accounts, when such entries are related to:
 a) stock purchase and sale transactions, effected within stock exchange trading
 floors or electronic systems, and in the organized over-the-counter market;
 b) contracts written on stocks or stock indices, in their various modes,
 negotiated in stock exchanges, commodities and futures exchanges;
-3.   foreign investors’ accounts, regarding entries into and remittances from
-Brazil of funds employed exclusively in transactions and contracts referred to in item
-II of this article.
+
+3.   foreign investors’ accounts, regarding entries into and remittances from Brazil of funds employed exclusively in transactions and contracts referred to in item II of this article.
+
 Paragraph 1. The Executive Branch shall regulate the provisions of this article
 within thirty days as of the date of publication of this Constitutional Amendment 19 .
 Paragraph 2. The provisions of item I of this article apply only to the transactions

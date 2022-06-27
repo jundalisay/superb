@@ -14,11 +14,11 @@ icon: "/flags/br.png"
 
 Article 225.  All have the right to an ecologically balanced environment, which is an asset of common use and essential to a healthy quality of life, and both the Government and the community shall have the duty to defend and preserve it for present and future generations.
 
-Paragraph 1. In order to ensure the effectiveness of this right, it is incumbent upon the Government to:
+Paragraph 1. The Government will:
 
 1. preserve and restore the essential ecological processes and provide for the ecological treatment of species and ecosystems
 2.  preserve the diversity and integrity of the genetic patrimony of the country and to control entities engaged in research and manipulation of genetic material
-3.   define, in all units of the Federation, territorial spaces and their components which are to receive special protection, any alterations and suppressions being allowed only by means of law, and any use which may harm the integrity of the attributes which justify their protection being forbidden;
+3.   define, in all units of the Federation, territorial spaces and their components which are to receive special protection, any alterations and suppressions being allowed only by means of law, and any use which may harm the integrity of the attributes which justify their protection being forbidden
 4. demand, in the manner prescribed by law, for the installation of works and activities which may potentially cause significant degradation of the environment, a prior environmental impact study, which shall be made public
 5. control the production, sale and use of techniques, methods or substances which represent a risk to life, the quality of life and the environment
 6.  promote environment education in all school levels and public awareness of the need to preserve the environment

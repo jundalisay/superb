@@ -2,7 +2,7 @@
 title: "How is Life Created?"
 heading: Chapter 1 
 date: 2022-01-31
-description: ""
+description: "An environment for the unit structure is essentially required where all these 5 fundamental layers are available in requisite quantity. Life can get expression only under such a condition"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-01"
 linkbtext: "Chapter 1"
@@ -23,8 +23,7 @@ Physical structures are composed of 5 fundamental layers<!--  factors -->:
 5. Solid
 
 A unit structure has a body made up of a composite of these 5 layers<!--  factors --> with controlling nuclei.
-
-These layers <!-- factors --> should remain in requisite proportion. 
+- These layers <!-- factors --> should remain in requisite proportion. 
 
 Vital energy or práńáh is the structure's collective creative unifying energy. 
 - It <!-- resultant interial --><!--  or  --> depends on the mutual cohesion of these layers<!-- factors -->.
@@ -37,13 +36,6 @@ Vital energy or práńáh is the structure's collective creative unifying ene
 
 
 
-**A deficiency of some layer results in the wear and tear within a physical structure.**
-<!-- and may also tell upon the resultant activity controlling the subjective nucleus and maintaining structural solidarity.  -->
-- If the deficiency is not adequately compensated, and if the requisite proportion of any layer <!-- factor or factors --> is not met, the vital energy (creative unifying force) <!-- resultant interial --> will begin varying in intensity. 
-- The unit structure may lose its solidarity. 
-
-<!-- Logically, therefore, it may be concluded that for the physical unit structure  -->
-
 **An environment for the unit structure is essentially required where all these 5 fundamental layers are available in requisite quantity.** 
 - **Life can get expression only under such a condition.** 
 <!-- For the manifestation of life, therefore, a congenial atmosphere is a fundamental necessity. --> 
@@ -51,10 +43,7 @@ Vital energy or práńáh is the structure's collective creative unifying ene
 
 <!-- práńáh or -->   <!-- resultant interial -->
 
-In Sanskrit, this vital energy is always plural because it is a collection of 10 important forces (váyus) working internally or externally of the physical structure.
-
 The manifestation of vital energy <!-- práńáh --> depends on 2 conditions:
-
 1. The <!-- resultant of práńa must be an interial force --> <!-- creation of práńa must be a --> energy must be from the unifying force
 2. There must be a congenial environment
 
@@ -66,47 +55,121 @@ Even if the creative unifying force <!-- resultant interial be --> <!-- the winn
 
 **In the absence of a proper environment, life does not get an expression.** 
 
+To maintain life:
+- <!--  or for association, --> proper adjustment between the waves of the psychic body and of the physical body is essential
+- adjustment with the vital-energy <!-- práńáh --> is necessary.
+
+**A deficiency of some layer results in the wear and tear within a physical structure.**
+<!-- and may also tell upon the resultant activity controlling the subjective nucleus and maintaining structural solidarity.  -->
+- If the deficiency is not adequately compensated, and if the requisite proportion of any layer <!-- factor or factors --> is not met, the vital energy (creative unifying force) <!-- resultant interial --> will begin varying in intensity. 
+- The unit structure may lose its solidarity and lead to death. 
+
+<!-- Logically, therefore, it may be concluded that for the physical unit structure  -->
 
 
-## Structural Dissociation from the Lack of Vital Energy
 
-Structural Dissociation (jad́asphot́a) happens when celestial bodies lose vital energy. This can be:
-- instantaneous
-- gradual
-
-
-Instantaneous structural dissociation happens when static Activity <!-- Prakrti --> continues exerting static pressure<!--  or bala --> on a lifeless unit structure. 
-- This compresses the solid body until it creates a tremendous reaction within the physical body affecting both the unifying and divisive forces. 
-- In Physics, this is called a supernova.
-
-<!-- Unable to express life, the  becomes more compressed. Eventually, this creates --> <!-- Consequently, a stage will come when there will be little interatomic space within . If static Prakrti exerts more pressure, there will be -->  <!-- interial and the exterial --> <!-- forces. This leads to an instantaneous structural dissociation (jad́asphot́a). -->  <!-- "" -->.
-
-In a living celestial body, the existing congenial environment will convert energy into vital energy. <!--  cause transformation of práńa into práńáh. --> 
-- This eliminates the chance of dissociation.
+---
+title: "How Does Life Come About?"
+heading: "Chapter 7b "
+date: 2022-01-31
+description: ""
+image: "/covers/ideology.jpg"
+linkb: "/research/indian/idea/chapter-03"
+linkbtext: "Chapter 3"
+linkf: "/research/indian/idea/chapter-05"
+linkftext: "Chapter 5"
+icon: "/icons/sarkar.jpg"
+---
 
 
-Gradual structural dissociation happens when a living celestial body has divisive energy <!-- práńa --> permeating some of its spaces. 
+The food we eat mixes with the digestive fluids.
+- These get transformed into rasa.
+- Our body rejects the unnecessary material as urine and other waste matter. 
+- The essence of rasa is transformed into blood.
+  - Its waste matter is once again rejected. 
+- The essence of blood changes into flesh.
+- The essence of flesh changes into fat (meda or vasá).
+- This goes on until it changes into bone, bone marrow, and ultimately into shukra. 
 
 
-<!-- dissociation occurs gradually in some spaces of the structure, then the bursting up becomes gradual. -->
+The physical body is made up of these 7 materials, of which shukra is the final essence. 
 
-Both instantaneous and gradual dissociation converts the celestial body back into the component 5 fundamental layers.
-<!-- Due to jad́asphot́a, gradual or , the component factors of the physical structure get dissociated into the  factors.  -->
-
-
-## Reverse-Crudification (Negative Saincara)
-
-Reverse-Crudification <!-- Negative saiṋcara --> is the retracing back in Crudification<!-- saiṋcara -->. 
-
-In this process, the component layers <!-- factors --> cannot dissociate subtler than the ethereal, as that would mean the Ego-Layer withdrawing its active thought-projection. 
-- This withdrawal would mean suspension of the Cosmic Mind or the cessation of Macrocosmic activity or the end of creation.<!-- , as creation itself is only a thought-projection of the Macrocosm.  -->
-
-Dissociation is not an end of thought.
-- It is a <!-- Bursting up is not a phenomenon of withdrawal, but a --> stirring up of the thought-waves due to excessive pressure of static Activity<!-- Prakrti -->.
-
-The dissociation creates new identities as the 5 fundamental factors.
-
-In this way, the journey of evolution continues eternally according to the divine urge of the Macrocosm. There is no chance of the thermal death of the universe.
+1. rasa
+2. blood
+3. flesh
+4. fat
+5. bone
+6. bone marrow
+7. shukra
 
 
-27 May 1959, Jamalpur
+The vital fluid shukra has 3 stages:
+
+1. lymph, or práńa-rasa (lasiká)
+2. spermatozoa
+3. seminal fluid.:[^1]
+
+
+The lymph forces through lymphatic vessels which run side by side with the arteries. These pass through the lymphatic glands. 
+
+The lymph:
+- purifies the blood
+- maintains the body's beauty and glory
+
+By getting into the glands, it enables proper secretion of hormones. 
+
+For the proper development of innate qualities, an adequate amount of lymph is necessary. 
+
+The lymph rises up and gets into the brain, strengthening it. 
+
+For intellectuals an adequate amount of lymph is necessary. A deficiency or defect in the lymph causes some disease in the organ where the deficiency has occurred. 
+
+For example, defects of the lymph system in the leg will result in elephantiasis of the leg.
+
+Some nerve plexuses get developed at 12-14 years old in hot countries and 13-16 in cold countries. 
+- In the male body, they are the testes. 
+- In the female, they are the ovaries. 
+
+After a due supply of lymph to the brain, the extra lymph comes in contact with the testes and is transformed into spermatozoa. 
+
+By a proper system of observing fast, the excessive formation of lymph can be checked. Impure thoughts also cause excessive formation of spermatozoa from lymph. If the surplus lymph is destroyed there is no harm. Spermatozoa with lymph and other fluids collected in the seminal sac are known as “seminal fluid”.
+
+In the female body, this excess lymph is converted into ova. The unused ova together with other seminal wastages are discharged every month during the last 3 or 4 days in the monthly menstruation.
+
+If the sperms of the male and the ova of the female get together, they constitute one physical structure. 
+
+When the physical structure commences formation, there is no question of extra seminal fluid or seminal wastage, and that is why in the stage of pregnancy there is no menstruation. 
+
+All the seminal fluid is utilized in forming the body of the embryo.
+
+In the uterus, the basic physical structure is first formed. This structure has potential energy and emanates a wavelength. 
+
+**It receives the potentiality from the momentum of the spermatozoa.** 
+
+Spermatozoa get their motion from the vital potentiality of the male body. That is why the living being is said to reside first in the seminal fluid of the male and then in the mother’s womb. After which, the bosom of Mother Earth receives it.
+
+The physical structure starts from spermatozoa which has a positive motion and, therefore, a wavelength. This means the formed physical structure has a wavelength. 
+
+The dissociated mind also has a wavelength (in a potential form) and a momentum which has to be expressed.
+
+The dissociated mind needs physical parallelism for proper expression. Therefore, the Cosmic mutative force causes the dissociated mind from eternal space to enter the adjustable physical structure, assuming a form in the mother’s womb.
+
+<!-- This is how life comes into physical creation. -->
+
+2 June 1959, Jamalpur
+
+
+## Footnotes
+
+[^1]: The 3 stages of shukra are the same in both the male and the female, except that in the female, <!-- as the author will explain in a following paragraph, --> excess lymph is converted into ova rather than into spermatozoa. 
+
+- Stage 1 of shukra is lymph, in both males and females
+- Stage 2 of shukra is spermatozoa in males, and ova in females
+- Stage 3 is seminal fluid, in both males and females. 
+
+Male seminal fluid is the fluid that has the spermatozoa.
+
+Female seminal fluid is the fluid which nurtures the ovum. 
+
+<!-- It is generally considered that the author conceptualized the actions of lymph in the body in terms not only of the lymph system as narrowly defined, but of a system that would embrace many of lymph’s ramifying effects as well. 
+ -->

@@ -81,10 +81,7 @@ CHAPTER 7: Public Administration
 
 Section 1: General Provisions
 
-Article 37.  The governmental entities and entities owned by the Government in any
-of the powers of the Union, the states, the Federal District and the Municipalities shall
-obey the principles of lawfulness, impersonality, morality, publicity, and efficiency,
-and also the following:
+Article 37.  The governmental entities and entities owned by the Government in any of the powers of the Union, the states, the Federal District and the Municipalities shall obey the principles of lawfulness, impersonality, morality, publicity, and efficiency, and also the following:
 
 1. public offices, positions and functions are accessible to all Brazilians who meet the requirements established by law, as well as to foreigners, under the terms of the law;
 2.  investiture in a public office or position depends on previously passing an entrance examination consisting of tests or tests and presentation of academic and professional credentials, according to the nature and the complexity of the office or position, as provided by law, except for appointment to a commission office declared by law as being of free appointment and discharge;
@@ -129,10 +126,8 @@ computed or accumulated for purposes of granting subsequent raises;
 15. the compensation and the salaries of holders of public offices and
 positions may not be reduced, except for the provisions of items XI and XIV of this
 article and of articles 39, paragraph 4, 150, II, 153, III, and 153, paragraph 2, I;
-16.  remunerated accumulation of public offices is forbidden, except, when
-there is compatibility of working hours, and with due regard, in any instance, for the
-provision of item XI:
-44
+16.  remunerated accumulation of public offices is forbidden, except, when there is compatibility of working hours, and with due regard, in any instance, for the
+provision of item 11:
  a) of two teaching positions;
 b) of one teaching position with another technical or scientific position;
 c) of two positions or jobs which are exclusive for health professionals, with

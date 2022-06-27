@@ -51,20 +51,14 @@ requirements of their activity.
 
 Paragraph 5. Federal legislation shall provide for the legal regime, a nationwide professional minimum salary, the guidelines for Career Schemes, and the regulation of activities of community health workers and endemic disease control agents, and it shall be incumbent upon the Federal Government, under the terms of the law, to provide supplementary financial support to the States, the Federal District, and Municipalities, to achieve compliance with said minimum salary.
 
-Paragraph 6. In addition to the cases set forth in paragraph 1 of article 41 and in
-paragraph 4 of article 169 of the Federal Constitution, an employee whose activities
-are equivalent to those of a community health worker or an endemic disease control
-agent may be dismissed if he does not comply with the specific requirements stipulated
-by law for such activities.
+Paragraph 6. In addition to the cases set forth in paragraph 1 of article 41 and in paragraph 4 of article 169 of the Federal Constitution, an employee whose activities are equivalent to those of a community health worker or an endemic disease control agent may be dismissed if he does not comply with the specific requirements stipulated by law for such activities.
+
 
 Article 199.  Health assistance is open to private enterprise. 
 
-Paragraph 1. Private institutions may participate in a supplementary manner in the unified health system, in accordance with the directives established by the latter, by
-means of public law contracts or agreements, preference being given to philanthropic
-and non-profit entities.
+Paragraph 1. Private institutions may participate in a supplementary manner in the unified health system, in accordance with the directives established by the latter, by means of public law contracts or agreements, preference being given to philanthropic and non-profit entities.
 
-Paragraph 2. The allocation of public funds to aid or subsidize profit-oriented
-private institutions is forbidden.
+Paragraph 2. The allocation of public funds to aid or subsidize profit-oriented private institutions is forbidden.
 
 Paragraph 3. Direct or indirect participation of foreign companies or capital in health assistance in the country is forbidden, except in cases provided by law.
 

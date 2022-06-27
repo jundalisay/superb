@@ -1,7 +1,7 @@
-baseURL = "https://superphysics.one/"
+baseURL = "https://superphysics.org/"
 
 theme = "hugo-bulma"
-googleAnalytics = ""
+# googleAnalytics = ""
 # Disable Hugo generator meta tag in the HTML head.
 disableHugoGeneratorInject =  true
 # Default language to use.

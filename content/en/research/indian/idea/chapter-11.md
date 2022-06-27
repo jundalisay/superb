@@ -12,7 +12,8 @@ icon: "/icons/sarkar.jpg"
 ---
 
 
-Spirituality is not a utopian ideal. It is a practical philosophy which can be practised and realized in daily life, however mundane it be. 
+Spirituality is not a utopian ideal. 
+- It is a practical philosophy which can be practised and realized in daily life, however mundane it be. 
 
 Spirituality stands for evolution and elevation, and not for superstition in action or pessimism. 
 

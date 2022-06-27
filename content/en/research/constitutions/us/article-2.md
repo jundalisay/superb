@@ -4,7 +4,7 @@ heading: "US Constitution Simplified"
 date: 2021-11-20
 image: "/flags/us.png"
 description: ""
-linkb: /research/constitutions/us/article-1
+linkb: /research/constitutions/us/article-1b
 linkbtext: "Article 1"
 linkf: /research/constitutions/us/article-3
 linkftext: "article-3"

@@ -12,16 +12,16 @@ icon: /flags/us.png
 ---
 
 
-AMENDMENT 11 - Passed by Congress March 4, 1794. Ratified February 7, 1795.
+AMENDMENT 11 - Passed March 4, 1794. Ratified February 7, 1795.
 
 Note: Article 3, section 2, of the Constitution was modified by amendment 11.
 
 The Judicial power shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the US by Citizens of another State, or by Citizens of any Foreign State.
 
 
-AMENDMENT 12 - Passed by Congress December 9, 1803. Ratified June 15, 1804.
+AMENDMENT 12 - Passed December 9, 1803. Ratified June 15, 1804.
 
-Note: A portion of Article II, section 1 of the Constitution was superseded by the 12th amendment.
+Note: A portion of Article 2, section 1 of the Constitution was superseded by the 12th amendment.
 
 The Electors shall meet in their respective states and vote by ballot for President and Vice-President. 
 
@@ -55,25 +55,42 @@ Note: Article I, section 2, of the Constitution was modified by section 2 of the
 
 Section 1.
 
-All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside. 
+All persons born or naturalized in the US, and subject to the jurisdiction thereof, are citizens of the US and of the State wherein they reside. 
 
-No State shall make or enforce any law which shall abridge the privileges or immunities of citizens of the United States; nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.
+States cannot:
+- make or enforce any law which abridges the privileges or immunities of US citizens
+- deprive any person of life, liberty, or property, without due process of law
+- deny to any person within its jurisdiction the equal protection of the laws.
+
 
 Section 2.
 
-Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. But when the right to vote at any election for the choice of electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being 21 years old* and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
+Representatives shall be apportioned among the several States according to their respective numbers, counting the whole number of persons in each State, excluding Indians not taxed. 
+
+But when the right to vote at any election for the choice of electors for President and Vice-President of the United States, Representatives in Congress, the Executive and Judicial officers of a State, or the members of the Legislature thereof, is denied to any of the male inhabitants of such State, being 21 years old* and citizens of the United States, or in any way abridged, except for participation in rebellion, or other crime, the basis of representation therein shall be reduced in the proportion which the number of such male citizens shall bear to the whole number of male citizens twenty-one years of age in such State.
 
 Section 3.
 
-No person shall be a Senator or Representative in Congress, or elector of President and Vice-President, or hold any office, civil or military, under the United States, or under any State, who, having previously taken an oath, as a member of Congress, or as an officer of the United States, or as a member of any State legislature, or as an executive or judicial officer of any State, to support the Constitution of the United States, shall have engaged in insurrection or rebellion against the same, or given aid or comfort to the enemies thereof. But Congress may by a vote of two-thirds of each House, remove such disability.
+The following cannot be engaged in insurrection or rebellion against the US Constitution or give aid or comfort to its enemies:
+- Senator or Representative in Congress or state legislature
+- elector of President and Vice-President
+- any government or state employee or official, civil or military
+- any executive or judicial officer of any State
+
+But Congress may by a vote of 2/3 of each House, remove such disability.
 
 Section 4.
 
-The validity of the public debt of the United States, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the United States, or any claim for the loss or emancipation of any slave; but all such debts, obligations and claims shall be held illegal and void.
+The validity of the US public debt, authorized by law, including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion, shall not be questioned. 
+
+But neither the United States nor any State shall assume or pay any debt or obligation incurred in aid of insurrection or rebellion against the US, or any claim for the loss or emancipation of any slave. 
+
+But all such debts, obligations and claims shall be held illegal and void.
 
 Section 5.
 
 The Congress shall have the power to enforce, by appropriate legislation, the provisions of this article.
+
 
 *Changed by section 1 of the 26th amendment.
 

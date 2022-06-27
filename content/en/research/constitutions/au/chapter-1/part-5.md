@@ -17,9 +17,9 @@ icon: "/flags/au.png"
 The Parliament shall have power to make laws for the peace, order, and good government of the Commonwealth with respect to:
 - 1. trade and commerce with other countries, and among the States
 - 2. taxation; but so as not to discriminate between States or parts of States;
-(iii) bounties on the production or export of goods, but so that such bounties shall be uniform throughout
+- 3. bounties on the production or export of goods, but so that such bounties shall be uniform throughout
 the Commonwealth;
-(iv) borrowing money on the public credit of the Commonwealth;
+- 4. borrowing money on the public credit of the Commonwealth;
 (v) postal, telegraphic, telephonic, and other like services;
 (vi) the naval and military defence of the Commonwealth and of the several States, and the control of the
 forces to execute and maintain the laws of the Commonwealth;

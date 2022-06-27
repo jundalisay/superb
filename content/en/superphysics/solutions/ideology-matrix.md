@@ -19,7 +19,9 @@ A lot of people confuse socialism, left wing, democracy, and communism with each
 
 ![Phone and a Smartphone](https://cdn-images-1.medium.com/max/800/1*Ni2rC5pbSjMiBLyOVEOIxQ.jpeg)
 
-A modern day example is the mobile phone and smartphone. A mobile phone means mobile telephone. When computer-abilities were added to it, it became a ‘smartphone’. However, this name is wrong because the computer-ability outweighs the telephone-ability. People use their ‘smartphones’ more for watching movies, playing games, or text-chatting, instead of talking via voice as what a telephone would do. Nowadays, smartphones are more properly called mobile devices.
+A modern day example is the mobile phone and smartphone. A mobile phone means mobile telephone. When computer-abilities were added to it, it became a ‘smartphone’. However, this name is wrong because the computer-ability outweighs the telephone-ability. 
+
+People use their ‘smartphones’ more for watching movies, playing games, or text-chatting, instead of talking via voice as what a telephone would do. Nowadays, smartphones are more properly called mobile devices.
 
 David Hume explained that such naming mistakes are caused by the mind always choosing the mental processes that expend the least energy — it tries to connect ideas and form new ones without thinking. Thus, the phone became smart and so it was called a smartphone.
 

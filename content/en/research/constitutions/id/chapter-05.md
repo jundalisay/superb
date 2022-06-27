@@ -3,7 +3,7 @@ title: "Ministers of State"
 heading: "Chapter 5"
 date: 2021-11-20
 image: "/flags/id.png"
-description: ""
+description: "Ministers of State shall be appointed and dismissed by the President"
 linkb: /research/constitutions/id
 linkbtext: "constitutions"
 linkf: /research/constitutions/id
@@ -12,33 +12,40 @@ icon: /flags/id.png
 ---
 
 
-Chapter V. Ministers of State
+## Chapter 5. Ministers of State
 
 Article 17
-1. The President shall be assisted by Ministers of State.
-2. Ministers of State shall be appointed and dismissed by the President.
-3. Each Minister of State shall be responsible for a particular area of Government activity.
 
-4. The formation, change, and dissolution of ministries of state shall be regulated by
-law.
+The President shall be assisted by Ministers of State which he will appointed and dismiss.
+- Each Minister of State shall be responsible for a particular area of Government activity.
+- The formation, change, and dissolution of ministries of state shall be regulated by law.
 
 <!-- Establishment of cabinet/ministers
 Cabinet selection
 Cabinet removal
 Cabinet removal -->
 
-Chapter 6. Regional Authorities
+
+## Chapter 6. Regional Authorities
 
 Article 18
 
-1. The Unitary State of the Republic of Indonesia shall be divided into provinces and those provinces shall be divided into regencies (kabupaten) and municipalities (kota), each of which shall have regional authorities which shall be regulated by law.
+1. The Unitary State of the Republic is divided into provinces. 
+- Those provinces shall be divided into regencies (kabupaten) and municipalities (kota)
+- Each of which shall have regional authorities regulated by law.
 
-2. The regional authorities of the provinces, regencies and municipalities shall administer and manage their own affairs according to the principles of regional autonomy and the duty of assistance (tugas pembantuan).
+2. The regional authorities of the provinces, regencies and municipalities shall administer and manage their own affairs according to the principles of:
+- regional autonomy and
+- the duty of assistance (tugas pembantuan).
 
 3. The authorities of the provinces, regencies and municipalities shall include for each a Regional People's House of Representatives (DPRD) whose members shall be elected through general elections.
+
 4. Governors, Regents (bupati) and Mayors (walikota), respectively as head of regional government of the provinces, regencies and municipalities, shall be elected democratically.
+
 5. The regional authorities shall exercise wide-ranging autonomy, except in matters specified by law to be the affairs of the central government.
+
 6. The regional authorities shall have the authority to adopt regional regulations and other regulations to implement autonomy and the duty of assistance.
+
 7. The structure and administrative mechanisms of regional authorities shall be regulated by law.
 
 <!-- Subsidiary unit government

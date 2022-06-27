@@ -77,15 +77,16 @@ the age of six years.]
 other weaker sections.—The State shall promote with special care the educational and economic interests
 of the weaker sections of the people, and, in particular, of the Scheduled Castes and the Scheduled Tribes,
 and shall protect them from social injustice and all forms of exploitation.
+
 47. Duty of the State to raise the level of nutrition and the standard of living and to improve
-public health.—The State shall regard the raising of the level of nutrition and the standard of living of its
-people and the improvement of public health as among its primary duties and, in particular, the State shall
-endeavour to bring about prohibition of the consumption except for medicinal purposes of intoxicating
-drinks and of drugs which are injurious to health.
-48. Organisation of agriculture and animal husbandry.—The State shall endeavour to organise
-agriculture and animal husbandry on modern and scientific lines and shall, in particular, take steps for
-preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and
-draught cattle.
+public health.
+
+The State shall regard the raising of the level of nutrition and the standard of living of its
+people and the improvement of public health as among its primary duties. The State shall prohibit the consumption except for medicinal purposes of intoxicating drinks and of drugs which are injurious to health.
+
+48. Organisation of agriculture and animal husbandry
+
+The State shall endeavour to organise agriculture and animal husbandry on modern and scientific lines and shall, in particular, take steps for preserving and improving the breeds, and prohibiting the slaughter, of cows and calves and other milch and draught cattle.
 1. Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 9 (w.e.f. 3-1-1977).
 2. Ins. by the Constitution (Ninety-seventh Amendment) Act, 2011, s. 3 (w.e.f. 15-2-2012).
 3. Subs. by the Constitution (Eighty-sixth Amendment) Act, 2002, s. 3 for art. 45 (w.e.f. 1-4-2010).

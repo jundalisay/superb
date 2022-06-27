@@ -1,20 +1,39 @@
+---
+title: "Economy, Society, Culture, Education, Science, Technology, Environment"
+heading: "Chapter 3 of the Vietnamese Constitution Simplified"
+date: 2021-11-20
+image: "/flags/vn.png"
+description: "Political, civic, economic, cultural and social human rights and citizen’s rights are recognized, respected, protected, and guaranteed"
+linkb: /research/constitutions/vn
+linkbtext: "constitutions"
+linkf: /research/constitutions/vn
+linkftext: "constitutions"
+icon: /flags/vn.png
+---
 
 
-CHAPTER 3. ECONOMY, SOCIETY, CULTURE, EDUCATION, SCIENCE, TECHNOLOGY, AND ENVIRONMENT
 
 Article 50
-The Socialist Republic of Vietnam constructs an independent and sovereign economy which shall promote its internal resources, internationally cooperate, and closely connect with cultural development; practices social progressiveness and equality; protects the environment; and exercises industrialization and modernization of the country
+
+The Socialist Republic of Vietnam constructs an independent and sovereign economy which shall:
+- promote its internal resources
+- internationally cooperate
+- closely connect with cultural development
+- practices social progressiveness and equality
+- protects the environment
+- exercises industrialization and modernization of the country
 
 Article 51
+
 1. The Vietnamese economy is a socialist-oriented market economy with multi-forms of ownership and multi-sectors of economic structure; the state economic sector plays the leading role.
-2. All economic sectors are important constituents of the national economy. Actors
-of different economic sectors are equal, cooperate, and compete in accordance with the law.
+
+2. All economic sectors are important constituents of the national economy. Actors of different economic sectors are equal, cooperate, and compete in accordance with the law.
+
 3. The State encourages, provide favorable conditions for entrepreneurs, enterprises and individuals, and other organizations to invest, produce, and do business, contributing to the stable development of the economic branches and national construction. Private possessions of individuals, organizations of investment, production, and business are protected by the law and are not subjected to nationalization.
 
-Article 52. The State constructs and perfects economic institutions, coordinate the economy on the
-base of respecting market rules; exercises distribution, decentralization, and separation
-of authorities in state management; and promotes the connection of regional economy
-and guarantee the unity of the national economy.
+Article 52. 
+
+The State constructs and perfects economic institutions, coordinate the economy on the base of respecting market rules; exercises distribution, decentralization, and separation of authorities in state management; and promotes the connection of regional economy and guarantee the unity of the national economy.
 
 
 Article 53

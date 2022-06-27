@@ -1,13 +1,13 @@
 ---
-title: "Articles 1-2"
+title: "Article 1 Sections 1-6"
 heading: "US Constitution"
 date: 2021-11-20
 image: "/flags/us.png"
-description: ""
-linkb: /research/constitutions
-linkbtext: "constitutions"
-linkf: /research/constitutions
-linkftext: "constitutions"
+description: "All legislative Powers are with the US Congress, consisting of a Senate a House of Representatives"
+linkb: /research/constitutions/us
+linkbtext: "US constitution"
+linkf: /research/constitutions/us/article-1b
+linkftext: "article-1b"
 icon: /flags/us.png
 ---
 
@@ -16,15 +16,23 @@ icon: /flags/us.png
 
 Section. 1. 
 
-All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives. 
+All legislative Powers are with the US Congress, consisting of:
+- a Senate
+- a House of Representatives. 
 
 Section. 2. 
 
-The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature. 
+The House of Representatives shall be composed of Members chosen every second Year by the People of the several States. 
 
-No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen. Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons. 
+The Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature. 
 
-The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by Law direct. 
+A Representative must be:
+- at least 25 years old  and 7 years a US citizen
+- an inhabitant of that State 
+
+Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole Number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons. 
+
+The actual Enumeration shall be made within 3 Years after the first Meeting of the US Congress and within every subsequent Term of 10 Years, in such Manner as they shall by Law direct. 
 
 The Number of Representatives shall not exceed 1 for every 30,000. But each State shall have at Least 1 Representative. 
 
@@ -51,17 +59,35 @@ The House of Representatives shall chuse their Speaker and other Officers; and s
 
 Section. 3. 
 
-The Senate of the United States shall be composed of two Senators from each State, chosen by the Legislature thereof, for six Years; and each Senator shall have one Vote. 
+The Senate shall have 2 Senators from each State, chosen by the State Legislature for 6 Years. Each Senator shall have 1 Vote. 
 
-Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes. The Seats of the Senators of the first Class shall be vacated at the Expiration of the second Year, of the second Class at the Expiration of the fourth Year, and of the third Class at the Expiration of the sixth Year, so that one third may be chosen every second Year; 
+Immediately after, they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into 3 Classes. 
+
+1. First Class Senators shall vacate at the end of the 2nd second Year
+2. Second Class shall vacate at the end of the 4th Year
+3. Third Class shall vacate at the end of the 6th Year
+
+In this way, 1/3 may be chosen every 2nd Year.
 
 If Vacancies happen by Resignation, or otherwise, during the Recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next Meeting of the Legislature, which shall then fill such Vacancies. 
 
-No Person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen. 
+Senators must:
+- be at least 30 Years old
+- have been 9 Years a US Citizen
+- be an Inhabitant of that State for which he shall be chosen. 
 
-The Vice President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided. The Senate shall chuse their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the United States. The Senate shall have the sole Power to try all Impeachments.
+The US Vice President shall be President of the Senate, but shall have no Vote, unless they be equally divided.
 
-When sitting for that Purpose, they shall be on Oath or Affirmation. When the President of the United States is tried, the Chief Justice shall preside: And no Person shall be convicted without the Concurrence of two thirds of the Members present. Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law. 
+The Senate shall choose their other Officers, and also a President pro tempore, in the Absence of the Vice President, or when he shall exercise the Office of President of the United States. 
+
+The Senate shall have the sole Power to try all Impeachments. During impeachments, they shall be on Oath or Affirmation. 
+
+When the US President is tried, the Chief Justice shall preside. No Person shall be convicted without the Concurrence of 2/3 of the Members present. 
+
+Judgment in Cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: 
+
+but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law. 
+
 
 Section. 4
 
@@ -69,7 +95,9 @@ The Times, Places and Manner of holding Elections for Senators and Representativ
 
 Section. 5
 
-Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide. Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of two thirds, expel a Member. 
+Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide. 
+
+Each House may determine the Rules of its Proceedings, punish its Members for disorderly Behaviour, and, with the Concurrence of 2/3, expel a Member. 
 
 Each House shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal. Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting. 
 
@@ -81,53 +109,3 @@ They shall in all Cases, except Treason, Felony and Breach of the Peace, be priv
 
 No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the Authority of the United States, which shall have been created, or the Emoluments whereof shall have been encreased during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office. 
 
-Section. 7
-
-All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills. Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the US.
-
-If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it.
-
-If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of both Houses shall be determined by yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
-
-Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
-
-Section. 8
-
-The Congress can:
-- collect Taxes, Duties, Imposts and Excises
-- pay the Debts and provide for the common Defence and general Welfare of the United States
-  - All Duties, Imposts and Excises shall be uniform throughout the US. 
-- borrow Money on the credit of the United States
-- regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes; 
-- establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States
-- coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures; 
-- provide for the Punishment of counterfeiting the Securities and current Coin of the United States
-- establish Post Offices and post Roads
-- promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries
-- constitute Tribunals inferior to the supreme Court
-- define and punish Piracies and Felonies committed on the high Seas, and Offences against the Law of Nations
-- declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water; 
-- raise and support Armies, but no Appropriation of Money to that Use shall be for a longer Term than two Years; 
-- provide and maintain a Navy
-- make Rules for the Government and Regulation of the land and naval Forces
-- provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions
-- provide for organizing, arming, and disciplining, the Militia
-  - using a Part of the Militia for the Service of the US
-  - Their respective States shall Appoint the Officers <!-- , and the Authority of training the Militia --> according to the discipline prescribed by Congress
-- exclusively make laws for Districts (not exceeding 10 Miles square) ceded to the US. <!-- by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and  -->
-- to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings
-- make all Laws for Executing the Powers vested by this Constitution in the US Government
-
-Section. 9.
-
-The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to 1808. A Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person.
-
-The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it. No Bill of Attainder or ex post facto Law shall be passed. No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or enumeration herein before directed to be taken. No Tax or Duty shall be laid on Articles exported from any State. No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another. No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time. No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State. 
-
-Section. 10. 
-
-No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility. 
-
-No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing it's inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Controul of the Congress.
-
-No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay. 

@@ -1,5 +1,6 @@
 ---
-title: "Samskara"
+title: "Samskara or Reactive Momenta"
+# 
 heading: "Chapter 7b "
 date: 2022-01-31
 description: ""
@@ -12,39 +13,50 @@ icon: "/icons/sarkar.jpg"
 ---
 
 
-Every stage results from the previous stages. The stage after formation of the unit mind is also the effect of all the past stages. 
+Every stage results from the previous stages. 
+- Even the stage after formation of the unit mind is the effect of all the past stages. 
 
-"Saḿskára" is the effect of action in the past stages. It gives momentum to the unit mind. 
+"Saḿskára" is the effect of action in the past stages.
+- It gives momentum to the unit mind. 
 
-The initial creation of the unit mind is the result of certain forces reacting in saiṋcara. 
+The initial creation of the unit mind is the result of certain forces reacting in crudification. 
 
 The ultimate cause of momentum of every force is the Macrocosm. <!-- , the entire working principle in saiṋcara and pratisaiṋcara. It is, --> Therefore, the Macrocosm:
 - works through the media of microcosms
 - provides the momentum for the unit mind. 
 
-The attraction of the Great gives an acceleration to such momentum. 
+The attraction of the Great accelerates such momentum. 
+- At the nucleus point where the first manifestation of Activity took place, the momentum of creation lay latent.
 
-At the nucleus point where the first manifestation of Prakrti took place, the momentum of creation lay in latent form. The momentum of the universe is the momentum by the Cosmos through the media of microcosms and also through the medium of the inanimate portion of the Macrocosm. 
+The momentum of the universe is the momentum by the Cosmos through:
+- the media of microcosms and
+- the medium of the inanimate portion of the Macrocosm. 
 
-This is the play of One in many forms. Before the formation of microcosms only the Macrocosm existed, and all projected activities lay in the Macrocosm, and all the diversities were in collective unity there. 
+This is the play of One in many forms. Before the formation of microcosms:
+- only the Macrocosm existed
+- all projected activities lay in the Macrocosm
+- all the diversities were in collective unity there. 
 
 All the Cosmos resides in Him. Therefore, there is no question of life, death or saḿskára in this inanimate phase of creation (from the first bursting out of Prakrti, to the development of crudest solid matter).
 
-In the journey of pratisaiṋcara, the crude mind gets momentum from the Macrocosm. 
-
-In the first stage, the microcosm evolves neither ego (ahaḿtattva) nor mahattattva, so it is devoid of any saḿskára. The eternal force of the Macrocosm moves the microcosms further towards the Nucleus.
-
-In a later stage, the ego is evolved but the unit mind feels it and accepts it as a possessor of saḿskára or momentum. Afterwards, a stage comes when this ego starts controlling the mental activities.
+In the journey of subtlification, the crude mind gets momentum from the Macrocosm. 
+- In the first stage, the microcosm evolves neither ego <!-- (ahaḿtattva) --> nor identity<!-- mahattattva -->, so it is devoid of any saḿskára. 
+<!-- The eternal force of the Macrocosm moves the microcosms further towards the Nucleus. -->
+- In a later stage, the ego is evolved but the unit mind feels it and accepts it as a possessor of saḿskára or momentum. 
+- Afterwards, a stage comes when this ego starts controlling the mental activities.
 
 This stage in evolution is represented by human beings. Humans instead of going further towards the divine goal according to the movement of pratisaiṋcara can retrace, or adopt the path of negative pratisaiṋcara. 
 
 The momentum for this negative movement being the accepted momentum of the unit mind, it is said that the saḿskára of any living animal inferior to the human is “infused” but that of the human is “acquired”.
 
-Inferior animals continue to march on the path of pratisaiṋcara (because of their less-developed ego), while humans may retrace by adopting mean objectives.
+Because of their less-developed ego, inferior animals continue to march on the path of subtlification. 
 
-While maintaining the unit structure of any object in the animated phase of evolution, proper adjustment amongst mental waves, physical waves and the práńáh is an essentiality. 
+Humans, on the other hand, can retrace their path by adopting mean objectives.
 
-Any object, mental or physical, always emanates waves. If these waves from the physical body and the mental body have a parallelism, then and then only is a cooperative unit structure maintained.
+While maintaining the unit structure of any object in the animated phase of evolution, proper adjustment amongst mental waves, physical waves and the vital energy (práńáh) is essential. 
+
+Any object, mental or physical, always emanates waves.
+- If these waves from the physical body and the mental body have a parallelism, then and then only is a cooperative unit structure maintained.
 
 This parallelism can be lost as well, causing a dissociation of the composite factors by a maladjustment or unadjustable elevation or degradation of any one of the constituent factors. 
 

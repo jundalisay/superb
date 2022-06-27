@@ -11,6 +11,7 @@ linkftext: "Chapter 2"
 icon: "/flags/cn.png"
 ---
 
+
 Article 1 
 
 The People’s Republic of China (PRC) is a socialist state governed by a people’s democratic dictatorship led by the working class, based on an alliance of workers and peasants.
@@ -43,7 +44,9 @@ Article 4
 
 All ethnic groups of the PRC are equal. 
 
-The state shall protect the lawful rights and interests of all ethnic minorities and upholdand promote relations of equality, unity, mutual assistance and harmony among all ethnic groups. Discrimination against and oppression of any ethnic group are prohibited; any act that undermines the unity of ethnic groups or creates divisions among them is prohibited.
+The state shall protect the lawful rights and interests of all ethnic minorities and uphold and promote relations of equality, unity, mutual assistance and harmony among all ethnic groups. 
+
+Discrimination against and oppression of any ethnic group are prohibited; any act that undermines the unity of ethnic groups or creates divisions among them is prohibited.
 
 The state shall, in light of the characteristics and needs of all ethnic minorities, assist all ethnic minority areas inaccelerating their economic and cultural development.
 
@@ -79,7 +82,7 @@ Article 8
 
 Rural collective economic organizations shallpractice a two-tiered system of both unified and separate operations with household contract management as its basis. Rural economic cooperatives —producer, supply and marketing, credit and consumer cooperatives —are part of the socialist economy under collective ownershipby the working people. 
 
-Working people who belong to rural collective economic organizations shall have the right, within the scopeprescribed by law, to farm cropland and hillsides allotted to them for their private use, engage in household sideline production, and raise privately owned livestock.
+Working people who belong to rural collective economic organizations shall have the right, within the scope prescribed by law, to farm cropland and hillsides allotted to them for their private use, engage in household sideline production, and raise privately owned livestock.
 
 The various forms of cooperative economic activities in cities and towns, such as those in the handicraft, industrial, building, transport, commercial and service trades,shallall be part ofthe socialist economy under collective ownership by the working people.
 
@@ -107,9 +110,9 @@ No organization or individual shall unlawfully transfer land through seizure, sa
 
 All organizations and individuals using land must use it in an appropriate manner.
 
-Article 11 Non-public economic sectors that are within the scopeprescribed by law, such as individually owned and private businesses, are an important component of the socialist market economy.
+Article 11 Non-public economic sectors that are within the scope prescribed by law, such as individually owned and private businesses, are an important component of the socialist market economy.
 
-The state shallprotect the lawful rights and interests of non-public economic sectors such asindividually owned and private businesses.The state shallencourage, support and guide the development of non-public economic sectors and exercise oversight and regulation over non-public economic sectors in accordance with law.
+The state shall protect the lawful rights and interests of non-public economic sectors such asindividually owned and private businesses. The state shall encourage, support and guide the development of non-public economic sectors and exercise oversight and regulation over non-public economic sectors in accordance with law.
 
 Article 12
 
@@ -168,7 +171,7 @@ Article 19
 
 The state shall develop socialist education to raise the scientific and cultural level of the whole nation.
 
-The state shall runschools of all types, provide universal compulsory primary education, develop secondary, vocational and higher education, and also develop preschool education.
+The state shall run schools of all types, provide universal compulsory primary education, develop secondary, vocational and higher education, and also develop preschool education.
 
 The state shall developdifferent types of educational facilities, eliminate illiteracy, provide political, cultural, scientific, technical and field-specific education for workers, peasants, state employees and other working people, and encourage people to become accomplished individuals through self-study.
 
@@ -199,13 +202,19 @@ The state shall train all kinds of specialized personnel to serve socialism, exp
 
 Article 24 
 
-The state shall promote socialist cultural-ethical advancementthroughwidely accessible education on ideals, morality, culture, discipline and law, and through the formulation and observance of different forms of rules of conduct and public pledges among different urban and rural populations.
+The state shall promote socialist cultural-ethical advancement through widely accessible education on ideals, morality, culture, discipline and law, and through the formulation and observance of different forms of rules of conduct and public pledges among different urban and rural populations.
 
-The state shallchampion core socialist values; advocate the civic virtues of love for the motherland, for the people, for work, for science and for socialism; educate the people in patriotism and collectivism, in internationalism and communism, and in dialectical and historical materialism; and combat capitalist, feudal and other forms of decadent thought.
+The state shall:
+- champion core socialist values
+- advocate the civic virtues of love for the motherland, for the people, for work, for science and for socialism
+- educate the people in patriotism and collectivism, in internationalism and communism, and in dialectical and historical materialism
+- combat capitalist, feudal and other forms of decadent thought.
+
 
 Article 25 
 
-The state shall promote family planningto see thatpopulation growth is consistent witheconomic and social development plans.
+The state shall promote family planning to see that population growth is consistent with economic and social development plans.
+
 
 Article 26 
 
@@ -215,7 +224,7 @@ The state shall organize and encourage afforestation and protect forests.
 
 Article 27 
 
-All state organsshall practice the principle of lean and efficientadministration, a work responsibility system, and a system of employee training and evaluation in order to keepimproving the quality and efficiency of their work and combat bureaucratism.
+All state organs shall practice the principle of lean and efficient administration, a work responsibility system, and a system of employee training and evaluation in order to keepimproving the quality and efficiency of their work and combat bureaucratism.
 
 All state organs and state employees must rely on the support of the people, stay engaged with them, listen to their opinions and suggestions, accept their oversight, and work hard to serve them.
 
@@ -233,7 +242,7 @@ The state shall make the armed forces more revolutionary, more modernized and be
 
 Article 30 The administrative areas of the PRC shall be delineated as follows:
 
-(1) The countryconsists ofprovinces, autonomous regions and cities directly under central government jurisdiction;
+(1) The country consists ofprovinces, autonomous regions and cities directly under central government jurisdiction;
 
 (2) Provinces and autonomous regions consist of autonomous prefectures, counties, autonomous counties and cities; and
 
