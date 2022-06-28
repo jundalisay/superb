@@ -219,7 +219,7 @@ In future posts, we will explain how this moral authority can be implemented by 
  -->
 
  
-We implement his guardians as [ISAIAH](/articles/superphysics/what-is-isaiah) which is the machine learning that will regulate our proposed social pantrynomic network which implements our concept of social networkism desribed here. Thus, social networkism is made up of the following ideas:
+We implement his guardians as [ISAIAH](/superphysics/solutions/isaiah) which is the machine learning that will regulate our proposed social pantrynomic network which implements our concept of social networkism desribed here. Thus, social networkism is made up of the following ideas:
 
 - The soul of society being made up of individual souls that merge and dissociate flexibly
 - A common interest that unifies such souls together into a society 

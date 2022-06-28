@@ -1,6 +1,6 @@
 +++
 # title = "zz"
-# image = "/avatars/aris.jpg"
+image = "/og/sp.jpg"
 heading = "A New Science Based on Metaphysics and Dialectics"
 sub = "All Knowledge Can Be Grouped Into Three"
 

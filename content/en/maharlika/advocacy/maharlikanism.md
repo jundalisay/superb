@@ -16,7 +16,7 @@ aliases:
 
 Maharlikanism is a set of solutions to overhaul, either gradually or totally, Philippines into Maharlika. 
 
-It is an implementation of our proposed [Social Superphysics](https://superphysics.one/social) which aims overhaul the current unsustainable economic and political systems which were established by colonialism and the industrial revolution. 
+It is an implementation of our proposed [Social Superphysics](https://superphysics.org/social) which aims overhaul the current unsustainable economic and political systems which were established by colonialism and the industrial revolution. 
 
 You could say that while the current systems had mercantilist and industrial roots, the systems from Social Superphysics has its roots in the internet and the Enlightenment. This makes it responsive, flexible, cooperative, democratic, and universal. 
 
@@ -183,7 +183,7 @@ All these principles are into a long set of policy proposals condensed in [a sho
 - eight consitutional virtues
 - federalize the country to 27 states
 - a National Assembly that votes the executives, as written in the Malolos Constitution (this is similar to parliamentary systems)
-  - an [election system](https://superphysics.one/social/supersociology/solutions/confirmation-elections) that follows [David Hume's plan](https://superphysics.one/research/hume/essays/part-2/16-the-ideal-system-of-government)
+  - an [election system](https://superphysics.org/social/supersociology/solutions/confirmation-elections) that follows [David Hume's plan](https://superphysics.org/research/hume/essays/part-2/16-the-ideal-system-of-government)
 - a balanced economy with industry, services, and agriculture. This is different from the current setup which is focused on services
   - a revival and formalization of barter and barter taxation (this will complement federalism)
 - open religious policy to prevent the dominance of any religion. This leads to the competition of ideas 

@@ -24,7 +24,7 @@ Maharlikanism is the plan that follows the democratic system as a federation. Th
 - Constitutional virtues as the foundation of Maharlikan morals instead of the Bible or the Quran. Christian and Islamic morals can be added on top of those constitutional virtues
 - Semi-independent federalized states similar to the United states
 - A bicameral parliament where the senators are elected from congressmen and the President and Vice President are elected from the senators
-- A free trade system that allows both money and barter and implements [EF Schumacher's Multilateral Clearing](https://superphysics.one/solutions/pantrynomics/multilateral-pool-clearing) that creates a common universal interest, as opposed to the national interest that dominates the current systems
+- A free trade system that allows both money and barter and implements [EF Schumacher's Multilateral Clearing](https://superphysics.org/research/schumacher/pool-clearing/part-1) that creates a common universal interest, as opposed to the national interest that dominates the current systems
 - A renaming of the Philippines, as **ordered** by the Katipunan:
 
 {{< quote ava="boni" >}}
@@ -33,9 +33,9 @@ Maharlikanism is the plan that follows the democratic system as a federation. Th
 {{< /quote >}}
 
 
-Maharlikanism itself is an implementation of the solutions applicable to the Philippines, given by the Western Enlightenment (Socrates, Spinoza, Montesquieu, David Hume, Adam Smith) and Eastern Enlightenment (Hinduism, Taoism, Buddhism, Sikhism) which we unified as [Social Superphysics](https://superphysics.one/social)
+Maharlikanism itself is an implementation of the solutions applicable to the Philippines, given by the Western Enlightenment (Socrates, Spinoza, Montesquieu, David Hume, Adam Smith) and Eastern Enlightenment (Hinduism, Taoism, Buddhism, Sikhism) which we unified as [Social Superphysics](https://superphysics.org/social)
 
-Unknown to many, the Katipunan founders had a thirst for enlightenment ideas which were blocked off by the Catholic Church. This desire ranked number 11 in their list of [22 demands on Spain](/articles/governance/principal-orders-kkk):
+Unknown to many, the Katipunan founders had a thirst for enlightenment ideas which were blocked off by the Catholic Church. This desire ranked number 11 in their list of [22 demands on Spain](/maharlika/governance/principal-orders-kkk):
 
 {{< quote ava="boni" >}}
 <p>Spain does not give us any freedom to produce or distribute any book or document in our language that would open our eyes to beneficial pursuits and enlighten our thinking on the Arts and Sciences and other things that are not holy. We remain in blindness. We are prevented from glimpsing reason and other virtues.</p>
@@ -43,7 +43,7 @@ Unknown to many, the Katipunan founders had a thirst for enlightenment ideas whi
 {{< /quote >}}
 
 
-Other countries will have their own implementations. For example, our suggestion for [the overhaul of Afghanistan](https://superphysics.one/social/cycles/how-to-fix-afghanistan/) is an Islamic federation that emphasizes the opposition to be female-led in order to counterbalance the male-dominated ruling party, and to implement Afghan constitutional virtues.
+Other countries will have their own implementations. For example, our suggestion for [the overhaul of Afghanistan](https://superphysics.org/social/cycles/afghanistan/) is an Islamic federation that emphasizes the opposition to be female-led in order to counterbalance the male-dominated ruling party, and to implement Afghan constitutional virtues.
 
 ## The 27 Federal States
 
@@ -56,4 +56,4 @@ Instead of the old regions, we suggest 27 federal states that will have the foll
 - be in line with any existing large-scale infrastructure and economic links or logistics
 - have at least 1 million people
 
-The [Bangsamoro](/maharlika/laws/bbl) can be a template on how states will be created. 
+The [Bangsamoro](/maharlika/laws/bbl/article-01) can be a template on how states will be created. 

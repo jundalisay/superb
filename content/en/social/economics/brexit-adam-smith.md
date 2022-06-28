@@ -15,7 +15,7 @@ aliases:
   /articles/taonomics/brexit-adam-smith
 ---
 
-<!-- https://superphysics.one/articles/taonomics/brexit-adam-smith/ -->
+<!-- https://superphysics.org/articles/taonomics/brexit-adam-smith/ -->
 
 Adam Smith would be against Brexit because the European Union (EU) is an internal free trade zone and Britain derives a lot of benefits from it.
 

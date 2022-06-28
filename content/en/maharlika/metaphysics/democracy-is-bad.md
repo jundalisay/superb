@@ -77,7 +77,7 @@ Such a corruption is also present in Africa and Latin American countries where m
 
 Maharlika avoided such corruption by having a semi-democracy bound by morals. In fact, one of the meanings of Maharlika is nobleness, gallantry, and respectfulness (maginoo). This is an improvement of the savagery of island people, just as the Greek gentlness that led to the Athenian democracy was an improvement over the barbarous Helotes, Persians, and Carthaginans. 
 
-<!-- The Americans pushed for freedom from Britain after the latter imposed harsher taxes on tea after the [1772 credit crisis](https://superphysics.one/articles/the-1772-credit-crunch). The British never wanted to divorce from America. Adam Smith even proposed that the capital of Britain should move to America in the future. -->
+<!-- The Americans pushed for freedom from Britain after the latter imposed harsher taxes on tea after the [1772 credit crisis](https://superphysics.org/articles/the-1772-credit-crunch). The British never wanted to divorce from America. Adam Smith even proposed that the capital of Britain should move to America in the future. -->
 
 <!-- Democracy just strengthens this division because it makes the more numerous Christian Tagalogs and Bisayas make laws that neglect the Muslim Moros.
 

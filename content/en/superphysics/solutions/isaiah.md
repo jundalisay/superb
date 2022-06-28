@@ -15,7 +15,9 @@ icon: /icons/pantry.png
 aliases:
   /articles/superphysics/what-is-isaiah
   /pantrynomics/isaiah
+  /social/economics/solutions/isaiah
 ---
+
 
 <!-- ISAIAH is the machine learning system for the implementations of Superphysics -->
 

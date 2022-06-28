@@ -121,4 +121,10 @@ is an infinite advantage in every controversy, to defend the negative. If the qu
 
 By what arguments or analogies can we prove any state of existence, which no one ever saw, and which no wise resembles any that ever was seen? 
 
-Who will repose such trust in any pretended philosophy, as to admit upon its testimony the reality of so marvellous a scene? Some new species of logic is requisite for that purpose; and some new faculties of the mind, which may enable us to comprehend that logic. Nothing could set in a fuller light the infinite obligations, which mankind have to divine revelation; since we find, that no other medium could ascertain this great and important truth.
+Who will trust in any<!--  pretended --> such philosophy?<!-- , as to admit upon its testimony the reality of so marvellous a scene? -->
+
+It needs:
+- some new kind of logic
+- some new faculties of the mind to enable us to comprehend that logic. 
+
+Nothing could set in a fuller light the infinite obligations, which mankind have to divine revelation; since we find, that no other medium could ascertain this great and important truth.

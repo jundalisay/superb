@@ -68,7 +68,7 @@ This classification is more systematic than the left, far-left, centrist, right,
 
 The leaders should match the cycle that their society is in, so that their policies would match and create happiness. Civil war and recessions occur when the leaders are out of sync with their society. 
 
-According to [our social cycles model](https://superphysics.one/analysis/social-cycles)*, the Philippines is currently in a tyranny cycle, to which a dictatorship is the best kind of leader. This explains why Duterte won by landslide in 2016 since the country transitioned into a tyranny cycle in 2014. This also explains:
+According to [our social cycles model](https://superphysics.org/social/supersociology/principles/law-social-cycles)*, the Philippines is currently in a tyranny cycle, to which a dictatorship is the best kind of leader. This explains why Duterte won by landslide in 2016 since the country transitioned into a tyranny cycle in 2014. This also explains:
 - why the Liberal Party was so popular in the past
 - why the liberal Otso Diretso lost so miserably in the last election
 - why it's easy to predict that a pro-Duterte candidate will win in 2022, unless the votes become split. 

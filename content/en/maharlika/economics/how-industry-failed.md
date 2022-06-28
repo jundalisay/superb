@@ -259,7 +259,7 @@ Unknown to many, the British economist EF Schumacher proposed a similar internat
 > *A single currency system without a single taxation system can create currency crises like what happened in the Greek debt crisis -->
 
  <!-- It's clear that the solo-nation approach to industrialization and development is no longer feasible. That's why --> 
- <!-- [Taonomics](https://superphysics.one/taonomics) advocates a multi-national free trade approach through . This would make trade wars  -->
+ <!-- [Taonomics](https://superphysics.org/taonomics) advocates a multi-national free trade approach through . This would make trade wars  -->
 
 In Schumacher's system, instead of the exports of Country A competing with Country B, the foreign trade of both countries are unified as to act like local trade. In this way, a country can industrialize or 'agriculturalize' faster.  
 
