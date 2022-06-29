@@ -13,6 +13,7 @@ icon: /flags/eu.png
 
 TITLE I
 TRANSITIONAL PROVISIONS ON THE EUROPEAN INVESTMENT BANK
+
 Article 38
 The Kingdom of Spain shall pay the amount of EUR 309 686 775 as its share of the capital paid in
 for the subscribed capital increase. This contribution shall be paid in eight equal instalments

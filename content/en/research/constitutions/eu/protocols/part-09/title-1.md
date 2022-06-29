@@ -70,14 +70,7 @@ acquis concerned have been met in that new Member State.
 The Council shall take its decision, after consulting the European Parliament, acting with the
 unanimity of its members representing the Governments of the Member States in respect of which
 the provisions referred to in the present paragraph have already been put into effect and of the
-representative of the Government of the Member State in respect of which those provisions are to be954393_TRAITE_EN_301_350
-12-01-2005
-15:56
-Pagina 306
-306
-Part IV
-put into effect. The members of the Council representing the Governments of Ireland and of the
-United Kingdom of Great Britain and Northern Ireland shall take part in such a decision insofar as it
+representative of the Government of the Member State in respect of which those provisions are to be put into effect. The members of the Council representing the Governments of Ireland and of the United Kingdom of Great Britain and Northern Ireland shall take part in such a decision insofar as it
 relates to the provisions of the Schengen acquis and the acts building upon it or otherwise related to it
 in which these Member States participate.
 3. The Agreements concluded by the Council under Article 6 of the Schengen Protocol shall be
@@ -106,18 +99,13 @@ Treaty, insofar as they are still in force, and also to the protocols on the int
 conventions by the Court of Justice of the European Communities, signed by the present Member
 States, and to this end they shall be required to enter into negotiations with the present Member
 States in order to make the necessary adjustments thereto.
+
 Article 6
+
 1. The new Member States shall be required to accede, under the conditions laid down in this
 Protocol, to the agreements or conventions concluded or provisionally applied by the present
 Member States and the Union or the European Atomic Energy Community, acting jointly, and to the
-agreements concluded by those States which are related to those agreements or conventions.954393_TRAITE_EN_301_350
-12-01-2005
-15:56
-Treaty establishing a Constitution for Europe
-Pagina 307
-307
-The accession of the new Member States to the agreements or conventions mentioned in paragraph
-4, as well as the agreements with Belarus, China, Chile, Mercosur and Switzerland which have been
+agreements concluded by those States which are related to those agreements or conventions. The accession of the new Member States to the agreements or conventions mentioned in paragraph 4, as well as the agreements with Belarus, China, Chile, Mercosur and Switzerland which have been 
 concluded or signed by the Community and its present Member States jointly shall be agreed by the
 conclusion of a protocol to such agreements or conventions between the Council, acting
 unanimously on behalf of the Member States, and the third country or countries or international
@@ -156,13 +144,6 @@ Should the amendments to the bilateral textile agreements and arrangements not h
 force by 1 May 2004, the Union shall make the necessary adjustments to its rules for the import of
 textile and clothing products from third countries to take into account the accession of the new
 Member States.
-( 1 )
-OJ L 1, 3.1.1994, p. 3.954393_TRAITE_EN_301_350
-12-01-2005
-15:56
-Pagina 308
-308
-Part IV
 6. The quantitative restrictions applied by the Union on imports of steel and steel products shall be
 adjusted on the basis of imports by new Member States during the years immediately preceding the
 signing of the Accession Treaty of steel products originating in the supplier countries concerned.
@@ -189,35 +170,38 @@ parties, to the rights and obligations arising from their accession to the Union
 They shall in particular withdraw at 1 May 2004 or the earliest possible date thereafter from
 international fisheries agreements and organisations to which the Union is also a party, unless their
 membership relates to matters other than fisheries.
+
 Article 7
+
 Acts adopted by the institutions to which the transitional provisions laid down in this Protocol relate
 shall retain their status in law; in particular, the procedures for amending those acts shall continue to
 apply.
+
 Article 8
+
 Provisions of the Act of Accession of 16 April 2003, as interpreted by the Court of Justice of the
 European Communities and the Court of First Instance, the purpose or effect of which is to repeal or
 amend, otherwise than as a transitional measure, acts adopted by the institutions, bodies, offices or
 agencies of the Community or of the European Union established by the Treaty on European Union
-shall remain in force subject to the application of the second paragraph.954393_TRAITE_EN_301_350
-12-01-2005
-15:56
-Pagina 309
-Treaty establishing a Constitution for Europe
-309
+shall remain in force subject to the application of the second paragraph.
+
 These provisions shall have the same status in law as the acts which they repeal or amend and shall be
 subject to the same rules as those acts.
+
 Article 9
+
 The texts of the acts of the institutions, bodies, offices and agencies of the Community or of the
 European Union established by the Treaty on European Union and the texts of acts of the European
 Central Bank which were adopted before 1 May 2004 and which were drawn up in the Czech,
 Estonian, Latvian, Lithuanian, Hungarian, Maltese, Polish, Slovenian and Slovak languages shall be
 authentic from that date, under the same conditions as the texts drawn up and authentic in the other
 languages.
+
 Article 10
+
 A European law of the Council may repeal the transitional provisions set out in this Protocol, when
 they are no longer applicable. The Council shall act unanimously after consulting the European
 Parliament.
 Article 11
 The application of the Constitution and acts adopted by the institutions shall, as a transitional
 measure, be subject to the derogations provided for in this Protocol.
-

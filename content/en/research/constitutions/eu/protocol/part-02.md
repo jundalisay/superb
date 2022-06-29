@@ -1,5 +1,5 @@
 ---
-title: "PROTOCOL ON THE APPLICATION OF THE PRINCIPLES OF SUBSIDIARITY AND PROPORTIONALITY"
+title: "Protocol On The Application Of The Principles Of Subsidiarity And Proportionality"
 heading: "Part 2"
 date: 2021-11-20
 image: "/flags/eu.png"

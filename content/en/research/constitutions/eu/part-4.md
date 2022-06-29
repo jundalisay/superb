@@ -1,25 +1,28 @@
-PART IV
+---
+title: "General And Final Provisions"
+heading: "Part 4"
+date: 2021-11-20
+image: "/flags/eu.png"
+description: ""
+linkb: /research/constitutions/eu
+linkbtext: "EU"
+linkf: /research/constitutions/eu
+linkftext: "EU"
+icon: /flags/eu.png
+---
 
-GENERAL AND FINAL PROVISIONS
 
 Article IV-437
 
 Repeal of earlier Treaties
-1. This Treaty establishing a Constitution for Europe shall repeal the Treaty establishing the
-European Community, the Treaty on European Union and, under the conditions laid down in the
-Protocol on the acts and treaties having supplemented or amended the Treaty establishing the
-European Community and the Treaty on European Union, the acts and treaties which have
-supplemented or amended them, subject to paragraph 2 of this Article.
-2. The Treaties on the Accession:
-(a) of the Kingdom of Denmark, Ireland and the United Kingdom of Great Britain and
-Northern Ireland;
-(b) of the Hellenic Republic;
-(c) of the Kingdom of Spain and the Portuguese Republic;
-(d) of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden, and
-(e) of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia,
-the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of
-Poland, the Republic of Slovenia and the Slovak Republic,
-shall be repealed.
+1. This Constitution for Europe shall repeal the Treaty establishing the European Community, the Treaty on European Union and, under the conditions laid down in the Protocol on the acts and treaties having supplemented or amended the Treaty establishing the European Community and the Treaty on European Union, the acts and treaties which have supplemented or amended them, subject to paragraph 2 of this Article.
+2. The following Treaties on Accession shall be repealeed:
+(a) Denmark, Ireland and the UK
+(b) Hellenic Republic
+(c) Spain and Portugal
+(d) Austria, Finland and Sweden
+(e) Czech Republic, Estonia, Cyprus, Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic.
+
 Nevertheless:
 — the provisions of the Treaties referred to in points (a) to (d) and set out or referred to in the
 Protocol on the Treaties and Acts of Accession of the Kingdom of Denmark, Ireland and the
@@ -34,8 +37,7 @@ the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the 
 shall remain in force and their legal effects shall be preserved in accordance with that Protocol.
 
 Article IV-438 Succession and legal continuity
-1. The European Union established by this Treaty shall be the successor to the European Union
-established by the Treaty on European Union and to the European Community.
+1. The EU established by this Treaty shall be the successor to the EU established by the Treaty on European Union and to the European Community.
 2. Until new provisions have been adopted in implementation of this Treaty or until the end of
 their term of office, the institutions, bodies, offices and agencies existing on the date of the entry into
 force of this Treaty shall, subject to Article IV-439, exercise their powers within the meaning of this
@@ -44,16 +46,11 @@ Treaty in their composition on that date.
 acts repealed by Article IV-437 shall remain in force. Their legal effects shall be preserved until those
 acts are repealed, annulled or amended in implementation of this Treaty. The same shall apply to
 agreements concluded between Member States on the basis of the treaties and acts repealed by
-Article IV-437.
-The other components of the acquis of the Community and of the Union existing at the time of the
-entry into force of this Treaty, in particular the interinstitutional agreements, decisions and
-agreements arrived at by the Representatives of the Governments of the Member States, meeting
-within the Council, the agreements concluded by the Member States on the functioning of the Union
-or of the Community or linked to action by the Union or by the Community, the declarations,
-including those made in the context of intergovernmental conferences, as well as the resolutions or
-other positions adopted by the European Council or the Council and those relating to the Union or
-to the Community adopted by common accord by the Member States, shall also be preserved until
-they have been deleted or amended.
+
+Article IV-437
+
+The other components of the acquis of the Community and of the Union existing at the time of the entry into force of this Treaty, in particular the interinstitutional agreements, decisions and agreements arrived at by the Representatives of the Governments of the Member States, meeting within the Council, the agreements concluded by the Member States on the functioning of the Union or of the Community or linked to action by the Union or by the Community, the declarations, including those made in the context of intergovernmental conferences, as well as the resolutions or other positions adopted by the European Council or the Council and those relating to the Union or to the Community adopted by common accord by the Member States, shall also be preserved until they have been deleted or amended.
+
 4. The case-law of the Court of Justice of the European Communities and of the Court of First
 Instance on the interpretation and application of the treaties and acts repealed by Article IV-437, as
 well as of the acts and conventions adopted for their application, shall remain, mutatis mutandis, the

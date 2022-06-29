@@ -14,6 +14,8 @@ icon: "/icons/sarkar.jpg"
 
 How does life get expression within the physical unit structure?
 
+## The 5 Layers
+
 Physical structures are composed of 5 fundamental layers<!--  factors -->:
 
 1. Ethereal
@@ -39,9 +41,13 @@ Vital energy or práńáh is the structure's collective creative unifying ene
 **An environment for the unit structure is essentially required where all these 5 fundamental layers are available in requisite quantity.** 
 - **Life can get expression only under such a condition.** 
 <!-- For the manifestation of life, therefore, a congenial atmosphere is a fundamental necessity. --> 
-- Hence, life is the expression of the creative unifying force of itself as vital energy under a congenial environment.
 
-<!-- práńáh or -->   <!-- resultant interial -->
+Hence, life is the expression of the creative unifying force of itself as vital energy under a congenial environment.
+
+
+## Vital Energy or Práńáh
+
+<!-- resultant interial -->
 
 The manifestation of vital energy <!-- práńáh --> depends on 2 conditions:
 1. The <!-- resultant of práńa must be an interial force --> <!-- creation of práńa must be a --> energy must be from the unifying force
@@ -56,8 +62,9 @@ Even if the creative unifying force <!-- resultant interial be --> <!-- the winn
 **In the absence of a proper environment, life does not get an expression.** 
 
 To maintain life:
-- <!--  or for association, --> proper adjustment between the waves of the psychic body and of the physical body is essential
-- adjustment with the vital-energy <!-- práńáh --> is necessary.
+<!--  or for association, -->
+- the proper adjustment between the waves of the psychic body and of the physical body is essential
+- the adjustment with the vital-energy <!-- práńáh --> is necessary.
 
 **A deficiency of some layer results in the wear and tear within a physical structure.**
 <!-- and may also tell upon the resultant activity controlling the subjective nucleus and maintaining structural solidarity.  -->
@@ -65,21 +72,6 @@ To maintain life:
 - The unit structure may lose its solidarity and lead to death. 
 
 <!-- Logically, therefore, it may be concluded that for the physical unit structure  -->
-
-
-
----
-title: "How Does Life Come About?"
-heading: "Chapter 7b "
-date: 2022-01-31
-description: ""
-image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-03"
-linkbtext: "Chapter 3"
-linkf: "/research/indian/idea/chapter-05"
-linkftext: "Chapter 5"
-icon: "/icons/sarkar.jpg"
----
 
 
 The food we eat mixes with the digestive fluids.
