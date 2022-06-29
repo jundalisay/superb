@@ -91,7 +91,7 @@ contact_form =  "https://hub.pantrypoints.com/api/email"
         path = "icons/sp.png"    # logo file should put in `/assets/`
 
     [design.brand]
-        title = "Superphysics One"
+        title = "Superphysics"
         tagline = "A new science"
 
 
