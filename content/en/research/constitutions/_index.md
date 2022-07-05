@@ -1,5 +1,5 @@
 ---
 title: "Constitutions"
-image: "/photos/psych/eat.jpg"
+image: "/flags/eu.png"
 date: 2020-10-31
 ---

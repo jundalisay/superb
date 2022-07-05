@@ -1,35 +1,51 @@
-+++
-title=  "The Saturn Line"
-heading=  "Chapter 10"
-image=  "/photos/objects/hand.jpg"
-description=  "THE line of Saturn is frequently called the line of Fate"
-linkb=  "/research/benham/palmistry/part-2/chapter-09-affection"
-linkbtext=  "Chapter 9"
-linkf=  "/research/benham/palmistry/part-2/chapter-28-girdle"
-linkftext=  "Chapter 28"
-+++
+---
+title: "The Saturn Line"
+heading: "Chapter 10"
+date: 2021-11-20
+image: "/photos/objects/hand.jpg"
+description: "The Saturn line is frequently called the line of Fate."
+linkb: "/research/benham/palmistry/part-2/chapter-09-affection"
+linkbtext: "Chapter 9"
+linkf: "/research/benham/palmistry/part-2/chapter-28-girdle"
+linkftext: "Chapter 28"
+icon: /flags/eu.png
+---
+
 
 
 "We make our fortunes and we call them fate." - B. DISRAELI
 
 
-THE line of Saturn is the fourth Main line which receives the Current, and is frequently called the "line of Fate."
+THE line of Saturn is the fourth Main line which receives the Current.
+- It is also called the "line of Fate"
+- It rises at the base of the hand and runs upward
+<!-- It may not be obvious why fatality has been ascribed to this line, but the claim is justified in various ways. -->
 
-It may not be obvious why fatality has been ascribed to this line, but the claim is justified in various ways.
-The line of Saturn rises at the base of the hand and runs upward toward the fingers ; and, according to our hypothesis, the Current which passes into it does so on its return from the brain where it has been sent from the end of the Life line.
+I hypothesize that the Current from the Life line passes into the Saturn line on its return from the brain.<!--  where it has been sent from the end of the . -->
+- Thus, the Saturn line is read from the bottom upward
 
-The line of Saturn thus reads from the bottom upward and the scale indicating the various years of life will be found in Chapter 4 (The Age Of The Subject - Age As Indicated On The Lines).
+Its scale indicating the various years of life is in Chapter 4 <!-- (The Age Of The Subject - Age As Indicated On The Lines). -->
+- Childhood is the extreme lower part of the line
+- Old age is on the Mount of Saturn
 
-According to this scale the period of childhood is the extreme lower part of the line, and old age is recorded by it on the Mount of Saturn.
-From the line of Saturn health difficulties are not read, nor is anything shown concerning the general make-up or constitution of a subject such as is indicated in other lines that we have considered.
-It does indicate the course of the subject through life from a standpoint of material success, and shows whether he must make his own way, whether he will have a hard time, or whether things will apparently come easy to him.
-It will also locate his most productive periods.
-This is what the older palmists had in mind when they named the line of Saturn "Fate or Destiny," as it is generally taken for granted that one whose life runs smoothly must have luck in his favor.
+The line of Saturn does not indicate health difficulties. <!-- t read, nor is anything shown concerning the general make-up or constitution of a subject such as is indicated in other lines that we have considered. -->
+
+It indicates the course of material success of the subject. It shows:
+- whether he will have an easy or <!-- must make his own way, whether he will have --> a hard time<!-- , or whether things will apparently come easy to him. -->
+- his most productive periods.
+
+This is why the older palmists named it as the line of "Fate or Destiny" as it is generally indicates luck. <!--  taken for granted that one whose life runs smoothly must have luck in his favor. -->
 
 In these cases it has not always been remembered that such a subject may have had every qualification which would enable him to merit success, and that he has achieved it because he has worked, and because success has been deserved.
+
 Combined with a good line of Saturn, there may be health, brains, determination, ambition, and similar qualities, and in that case the presence of these qualities accounts for the good line of Saturn, which consequently indicates that the subject will get through the world comfortably and successfully.
-A combination of such forces as the above, if wisely and faithfully used, produces so-called luck, and most of the persons who are pointed out as particularly fortunate, or lucky, attribute their success primarily to brains, health, energy, ambition, and kindred allies, and not to blind chance, luck, or fate.
-There is, however, some magic glamour around the words "fate" and "luck," which seems to speak of results achieved without effort, and this has always been the goal toward which the eyes of lazy folk are turned.
+
+A combination of such forces as the above, if wisely and faithfully used, produces so-called luck
+
+and most of the persons who are pointed out as particularly fortunate, or lucky, attribute their success primarily to brains, health, energy, ambition, and kindred allies, and not to blind chance, luck, or fate.
+
+There is, however, some magic glamour around the words "fate" and "luck," which seems to speak of results achieved without effort. This has always been the goal of lazy folk.
+
 Such people are ever ready to account for their failures by saying, "Others are lucky, I am not," but this should be followed by the further explanation that most often the "lucky" subject is a worker and the "unlucky" one is not.
 
 Day dreamers expect luck to reach down and touch them with a magic wand. Those who are called lucky say that the magic wand is industry.
@@ -39,31 +55,86 @@ In the majority of cases, it would be more proper to say that foresight and pers
 In the beginning of a study of the line of Saturn, or line of Fate, I wish to give my definition of that word and to assure you that we are not to plunge from a treatment of the hand which has thus far proceeded entirely under laws of cause and effect into one which deals with chance.
 
 The line of Saturn is a wonderful line, its revelations are accurate and important, but we shall find causes for all the effects we see upon it.
+
 On every line of Saturn, we note periods when everything is propitious for the subject.
 These are the harvest periods of his life.
+
 At such times we find good health, the presence of mental powers such as discernment, will, ambition, and various good companions which he may turn to his account, or which he may leave unused.
 During these periods, life is easier for the subject.
+
 He is well and in possession of his full powers. He works with less effort, and, in superstitious parlance, he is "lucky" and "fate" is on his side.
+
 Many persons take advantage of these periods of greatest possibilities and "make hay while the sun shines."
 Others pass such times in enjoyment and laziness, confident that "luck is with them," and will never leave.<
 When the powers begin to wane luck is not so constant in attendance ; it takes more effort to accomplish the same results, and finally all kinds of effort fail to produce anything considerable.
 
 At this time the cry is raised, "luck has gone." The truth is that the subject has passed his harvest period and has slept his golden moments away.
+
 The opportunities placed before him have not been seized ; he has taken his pleasure during the time when he should have worked hardest, and by the law of compensation he must toil to make up for it.
+
 "You cannot eat your cake and have it too"; you cannot waste your harvest days and be "lucky." He who has worked through his productive time may rest when powers fail.
 The laws of cause and effect are present in the line of Saturn, or Fate, as everywhere else.
 It is only after much observation of this line that it is possible to state what can actually be told from it. The superficiality which has been shown in its treatment has served principally to disgust sensible persons.
+
 Why the line shows these matters, which are so obviously beyond the consciousness of the individual, can only be explained on the already stated hypothesis, that the lines are the life map of every person, placed before him in order that he may be guided to the achievement of his best results.
 
-The line of Saturn, when strong, emphasizes the Saturnian traits, especially if the line be deep on the Mount, and these traits are wisdom, soberness, and the faculty of seeing life from its serious side. The fact that these balancing qualities are present in some degree with a good line may account for the success in old age which comes to one with a strong line on the Mount. Saturnian traits are energy and frugality, as well as studiousness and the ability to think, and these qualities will do much to make a life successful. The Saturnian has a penchant for explorations in the earth, and has from this natural love been led to discovering gold, silver, coal, and other mine treasures. He has found gas and oil wells, and thus, through following his natural inclinations, " fate " has been said to be with him, and the Saturnian has for these reasons been called the "child of fate." The greatest part that fate or luck plays with humanity is to give one person more brains and a better type than another, and this has been sometimes called the " accident of birth." In these cases the subject will also have the best Saturn line. The Apollonian and Venusian, or a good Jupiterian, or Mercurian, are much greater examples to my mind of a kind fate than is the Saturnian. The line of Saturn is not found in every hand. 
+The line of Saturn, when strong, emphasizes the Saturnian traits, especially if the line be deep on the Mount, and these traits are wisdom, soberness, and the faculty of seeing life from its serious side. The fact that these balancing qualities are present in some degree with a good line may account for the success in old age which comes to one with a strong line on the Mount. Saturnian traits are energy and frugality, as well as studiousness and the ability to think, and these qualities will do much to make a life successful. The Saturnian has a penchant for explorations in the earth, and has from this natural love been led to discovering gold, silver, coal, and other mine treasures. 
 
-Older palmists gave to a hand without a Saturn line the interpretation of a "negative existence." Observation will show that the line is absent in the hands of many successful people, and in other prosperous subjects it is present only in rudimentary form. These persons have not led negative lives, so this interpretation cannot be correct. In a great many cases of this kind coming under my observation, I have found that the subjects are what are commonly called "self-made men," that they began life in humble positions, and only by dint of energy and application have they made their way in the world. These "self-made" people are not always brilliant to start with, but they have determination and energy and will educate themselves, even if it must be done at night after the day's work is over, and they will not fail to seize every opportunity for progress. They seem to feel that everything depends upon their own efforts and no amount of labor is allowed to stand between them and ultimate success. They are the kind of men who can "carry the message to Garcia." As the result of my observation, I read hands in which no Saturn line is seen as belonging to a subject who must depend upon himself entirely; who should not trust to luck or fortunate circumstances, but if he would accomplish much in the world, it must be the result of his own efforts. 
+He has found gas and oil wells, and thus, through following his natural inclinations, " fate " has been said to be with him, and the Saturnian has for these reasons been called the "child of fate." The greatest part that fate or luck plays with humanity is to give one person more brains and a better type than another, and this has been sometimes called the " accident of birth." In these cases the subject will also have the best Saturn line. The Apollonian and Venusian, or a good Jupiterian, or Mercurian, are much greater examples to my mind of a kind fate than is the Saturnian. The line of Saturn is not found in every hand. 
 
-The line of Saturn may start from one of many places. These are always at the base of the hand (344) but may be any point between the end of the Life line and the Mount of Moon. Sometimes the line rises inside the Life line, and sometimes as high as the upper Mount of Moon. The course of the Saturn line is always toward the Mount of Saturu, sometimes reaching the Mount, and sometimes falling far short. It always runs through the centre of the palm. When the Saturn line rises inside the Life line and runs on to the Mount of Saturn (345) it indicates that the subject will have material success in life, and that near relatives will assist him greatly. When the line rises from the centre of the palm (346) and runs into the Mount of Saturn, the subject will achieve success in life largely by his own efforts. When the line rises from the Mount of Moon and runs on to the Mount of Saturn (347) the subject's success in life will be materially assisted by one of the opposite sex. 
+Older palmists gave to a hand without a Saturn line the interpretation of a "negative existence." 
 
-This may either be by good advice or by rendering financial aid. I have noted this marking on many hands where the wives have been of great assistance in the career of the subject. In most instances the sources of the line will be in one of these three positions, all other beginnings being a modification of one or the other of them, and all readings should be modified in proportion as the source of the line is from these three pronounced centres. Sometimes the line does not rise low in the hand, but starts higher up (348). In this case the subject will have a more negative existence for the first part of the life, as this point is the time when he is so young that he can accomplish little by his own efforts, and such a beginning to the line indicates that he was not born with a " silver spoon in his mouth." His best period will begin at the time the line starts, for while the absence of the line does not show that influences are at work to prevent the advancement of the subject, the presence of a good line does show that some especial advantages are present during its existence. The absence of the line shows that constant effort is needed, while a good line will show that during its best period of formation the greatest efforts should be exerted if the largest results possible are to be achieved. The higher in the hand the line starts, the later in life will be the period of easiest sailing. Whenever a deficiency is noted in the Saturn line you will find an explanation in some of the other lines or signs. With [he line absent at the beginning, it may be found that the Life line will show great delicacy for the same period of years that is covered by the absence of the Saturn line (349). 
+It is absent in the hands of many successful people. In other prosperous subjects it is present only in rudimentary form. 
 
-Thus you will know that the subject did little during the earlier years because he was delicate. As the Saturn line begins at the time this delicacy ends on the Life line, he will at that time begin a period which he may make productive. If the Life line be thin when it begins to recover, and grows thicker as it progresses, and if the Saturn line does the same, the subject will continue to do better in a business way as his strength increases. It will be noted that it is necessary to read the beginning of the Saturn line from the bottom and the Life line from the top. If with the line rising late we find a defective Head line at the start (350) the subject will have his start in life impeded by brain weakness, and the Saturn line will not grow good until the Head line does. If the Head line be weak at the start, and as soon as it recovers the Heart line become weak, the Life line being thin all of this time (351), the career of the subject will be hindered first by head trouble, and then by heart weakness, and he does not begin to do his best until these have passed away. If the line rise high in the hand and the lines of Head or Heart are not defective, you must look for health defects in other parts of the hand, on lines and Mounts, and somewhere you will discover the cause of the absence of the Saturn line. Use both hands with the Saturn line. If the line begin low in the left hand and rise high in the right, you will know that the natural course of the line was favorable, but as it shows its defects in the right hand, something has occurred to alter the original plan. This may be health, laziness, or influences from family, friends, or outsiders, and inasmuch as we do not believe that mere chance has produced the alteration we must look somewhere for the unfavorable condition which has prevented the rising of the Saturn line low in the right hand. The absence of a Saturn line where it should normally begin will often be explained by some accident to the parents. The Line Of Saturn Part 2 495 No. 344. The Line Of Saturn Part 2 496 No. 345. The Line Of Saturn Part 2 497 No. 346. The Line Of Saturn Part 2 498 No. 347. The Line Of Saturn Part 2 499 No. 348. The Line Of Saturn Part 2 500 No. 349. 
+These persons have not led negative lives, so this interpretation cannot be correct. 
+
+In a great many cases of this kind coming under my observation, I have found that the subjects are what are commonly called "self-made men," that they began life in humble positions, and only by dint of energy and application have they made their way in the world. These "self-made" people are not always brilliant to start with, but they have determination and energy and will educate themselves, even if it must be done at night after the day's work is over, and they will not fail to seize every opportunity for progress. 
+
+They seem to feel that everything depends upon their own efforts and no amount of labor is allowed to stand between them and ultimate success. They are the kind of men who can "carry the message to Garcia." As the result of my observation, I read hands in which no Saturn line is seen as belonging to a subject who must depend upon himself entirely; who should not trust to luck or fortunate circumstances, but if he would accomplish much in the world, it must be the result of his own efforts. 
+
+The Saturn line may start from one of many places. This may be (344) anywhere between the end of the Life line and the Mount of Moon. 
+
+Sometimes the line rises inside the Life line, and sometimes as high as the upper Mount of Moon. 
+
+The course of the Saturn line is always toward the Mount of Saturn. 
+- Sometimes, it reaches the Mount
+- Sometimes, it falls far short. 
+
+It always runs through the centre of the palm. 
+
+When the Saturn line rises inside the Life line and runs on to the Mount of Saturn (345) it indicates that the subject will have material success in life, and that near relatives will assist him greatly. 
+
+When the line rises from the centre of the palm (346) and runs into the Mount of Saturn, the subject will achieve success in life largely by his own efforts. 
+
+When the line rises from the Mount of Moon and runs on to the Mount of Saturn (347) the subject's success in life will be materially assisted by one of the opposite sex. 
+
+This may either be by good advice or by rendering financial aid. I have noted this marking on many hands where the wives have been of great assistance in the career of the subject. 
+
+In most instances the sources of the line will be in one of these three positions, all other beginnings being a modification of one or the other of them, and all readings should be modified in proportion as the source of the line is from these three pronounced centres. 
+
+Sometimes the line does not rise low in the hand, but starts higher up (348). 
+
+In this case the subject will have a more negative existence for the first part of the life, as this point is the time when he is so young that he can accomplish little by his own efforts, and such a beginning to the line indicates that he was not born with a " silver spoon in his mouth." 
+
+His best period will begin at the time the line starts, for while the absence of the line does not show that influences are at work to prevent the advancement of the subject, the presence of a good line does show that some especial advantages are present during its existence. 
+
+The absence of the line shows that constant effort is needed, while a good line will show that during its best period of formation the greatest efforts should be exerted if the largest results possible are to be achieved. 
+
+**The higher in the hand the line starts, the later in life will be the period of easiest sailing.** 
+
+Whenever a deficiency is noted in the Saturn line you will find an explanation in some of the other lines or signs. With the line absent at the beginning, it may be found that the Life line will show great delicacy for the same period of years that is covered by the absence of the Saturn line (349). 
+
+Thus you will know that the subject did little during the earlier years because he was delicate. As the Saturn line begins at the time this delicacy ends on the Life line, he will at that time begin a period which he may make productive. 
+
+If the Life line be thin when it begins to recover, and grows thicker as it progresses, and if the Saturn line does the same, the subject will continue to do better in a business way as his strength increases. 
+
+It will be noted that it is necessary to read the beginning of the Saturn line from the bottom and the Life line from the top. 
+
+If with the line rising late we find a defective Head line at the start (350) the subject will have his start in life impeded by brain weakness, and the Saturn line will not grow good until the Head line does. 
+
+If the Head line be weak at the start, and as soon as it recovers the Heart line become weak, the Life line being thin all of this time (351), the career of the subject will be hindered first by head trouble, and then by heart weakness, and he does not begin to do his best until these have passed away. If the line rise high in the hand and the lines of Head or Heart are not defective, you must look for health defects in other parts of the hand, on lines and Mounts, and somewhere you will discover the cause of the absence of the Saturn line. 
+
+Use both hands with the Saturn line. If the line begin low in the left hand and rise high in the right, you will know that the natural course of the line was favorable, but as it shows its defects in the right hand, something has occurred to alter the original plan. This may be health, laziness, or influences from family, friends, or outsiders, and inasmuch as we do not believe that mere chance has produced the alteration we must look somewhere for the unfavorable condition which has prevented the rising of the Saturn line low in the right hand. The absence of a Saturn line where it should normally begin will often be explained by some accident to the parents. The Line Of Saturn Part 2 495 No. 344. The Line Of Saturn Part 2 496 No. 345. The Line Of Saturn Part 2 497 No. 346. The Line Of Saturn Part 2 498 No. 347. The Line Of Saturn Part 2 499 No. 348. The Line Of Saturn Part 2 500 No. 349. 
 
 The Line Of Saturn Part 2 501 No. 350. The Line Of Saturn Part 2 502 No. 351. 
 
@@ -104,6 +175,17 @@ These defects are, however, the cause of the trouble. If a Saturn line rises on 
 
 Such a line is a fine one for a politician (411). If a Saturn line which runs to the Mount of Saturu have a branch rising to the Mount of Apollo, the subject will win success in art, business, or as an actor, according to which phalanx of the Apollo finger rules (412). If a Saturn line have one branch rising to Jupiter, and one to Apollo, the subject will have an assured future of wealth and fame, for ambition and the Jupiterian attributes, the wisdom of Saturn, with brilliancy, art, and business from Apollo, are all united to assist him to a rich harvest (413). This is the most favorable combination possible. If the Saturn line have a branch rising to Mercury, the subject will have the assistance of shrewdness, business ability, good power of expression, and a scientific turn of mind to assist in his success (414). If a Saturn line have a branch rising and joining but not cutting the Head line, the subject will have the assistance of a good head in the shaping of his career (415). The Line Of Saturn Part 7 555 No. 404. The Line Of Saturn Part 7 556 No. 406. The Line Of Saturn Part 7 557 No. 406. The Line Of Saturn Part 7 558 No. 407. The Line Of Saturn Part 7 559 No. 408. The Line Of Saturn Part 7 560 No. 409. The Line Of Saturn Part 7 561 No. 410. The Line Of Saturn Part 7 562 No. 411. The Line Of Saturn Part 7 563 No. 412. The termination of the line will show the outcome of the career. In a large number of hands the line does not reach the Mount of Saturn but ends somewhere below it. Indicating as it does the periods of productive capacity, it is not strange that it should be absent in old age, for at this time disease or delicacy generally makes the career negative. The presence of a Mount without a line shows at least that no forces are working against the subject, and if the line be good in its early course it shows that a productive life is behind him, and it will be found that he is enjoying in old age the result of his early labors. On some Mounts a deep line is seen, and this is a strong indication of well-to-do old age. In any event the point at which the line ceases, be it in youth or old age, terminates our work with it, except that we can say to those whose line has stopped and no other has taken its place, that the future is as they make it. If a deep line runs only for twenty years, the subject can be promised a productive period only during that time; the period after it, is as be makes it by effort. The Line Of Saturn Part 7 564 No. 413. 
 
-The Line Of Saturn Part 7 565 No. 414. The Line Of Saturn Part 7 566 No. 415. If the line runs deep for part of the way and terminates in a wavy line (416), the career during the latter years will be uncertain, and there wilt be worries in old age. So these defective terminations on the Mount may not mean poverty or money losses in old age, but they may mean financial checks to the career from disappointments in children, or similar troubles. I mention this in order to warn against reading defective terminations as necessarily meaning poverty when the Saturn line has previously been deep for its entire course. Breaks in the line, bars cutting it, crosses or dots following a hitherto deep line, will indicate trials and crosses in old age. If the Saturn line breaks on the Mount, and the Life, Head, and Heart lines be defective at the same age, ill health in old age will render the last days ones of trouble (417). If the Saturn line end in an island and downward branches be seen on the Life line with a long tassel, financial difficulties due to ill health will cloud the last days of the subject (418). If the line be crossed by bars which cut it on the Mount, the subject will suffer losses and trials in old age (419). If the bars be faint and do not cut the line they are troubles and worries. If the line has crosses on the Mount, great trials and misfortunes will harass the latter years of the subject (420). All of these terminations apply to the line on the Mount of Saturn, and have their various indications in old age. If the line terminate in these signs at any age the reading will be the same, except that it applies to the age indicated on the line at the time at which it occurs. If the line be defective during its entire course and terminates in any of these signs, the indication will be worse than when these markings terminate a deep line, for in the first instance the subject will not have a prosperous life behind him, during which he might have provided for old age. No. 421 will give various examples of such defective lines. The Line Of Saturn Part 8 567 No. 416. The Line Of Saturn Part 8 568 No. 417. The Line Of Saturn Part 8 569 No. 418. 
+The Line Of Saturn Part 7 565 No. 414. The Line Of Saturn Part 7 566 No. 415. If the line runs deep for part of the way and terminates in a wavy line (416), the career during the latter years will be uncertain, and there wilt be worries in old age. So these defective terminations on the Mount may not mean poverty or money losses in old age, but they may mean financial checks to the career from disappointments in children, or similar troubles. I mention this in order to warn against reading defective terminations as necessarily meaning poverty when the Saturn line has previously been deep for its entire course. Breaks in the line, bars cutting it, crosses or dots following a hitherto deep line, will indicate trials and crosses in old age. If the Saturn line breaks on the Mount, and the Life, Head, and Heart lines be defective at the same age, ill health in old age will render the last days ones of trouble (417). If the Saturn line end in an island and downward branches be seen on the Life line with a long tassel, financial difficulties due to ill health will cloud the last days of the subject (418). 
 
-The Line Of Saturn Part 8 570 No. 419. The Line Of Saturn Part 8 571 No. 420. The Line Of Saturn Part 8 572 No. 421. We have now followed the Saturn line from babyhood to extreme old age, and have seen how it records success and failure, as well as the causes which have produced them. It is poor consolation for one to look back upon a life of meagre fruitage and say, "If I had only known the productive periods, the end might have been different." This oft-repeated exclamation is sadly true, for in only few lives are productive periods taken advantage of in their fullest measure. If by a careful application of the rules laid down in this chapter you are enabled to help struggling humanity to make use of the harvest portion of their lives, and thus provide for the days when vital forces wane, and labor can no longer be done, you will have wasted no time which has been spent in a study of the line of Saturn.
+If the line be crossed by bars which cut it on the Mount, the subject will suffer losses and trials in old age (419). If the bars be faint and do not cut the line they are troubles and worries. If the line has crosses on the Mount, great trials and misfortunes will harass the latter years of the subject (420). All of these terminations apply to the line on the Mount of Saturn, and have their various indications in old age. If the line terminate in these signs at any age the reading will be the same, except that it applies to the age indicated on the line at the time at which it occurs. If the line be defective during its entire course and terminates in any of these signs, the indication will be worse than when these markings terminate a deep line, for in the first instance the subject will not have a prosperous life behind him, during which he might have provided for old age. No. 421 will give various examples of such defective lines. The Line Of Saturn Part 8 567 No. 416. The Line Of Saturn Part 8 568 No. 417. The Line Of Saturn Part 8 569 No. 418. 
+
+<!-- The Line Of Saturn Part 8 570 No. 419. The Line Of Saturn Part 8 571 No. 420. The Line Of Saturn Part 8 572 No. 421. 
+
+We have now followed the Saturn line from babyhood to extreme old age, and have seen how it records success and failure, as well as the causes which have produced them. It is poor consolation for one to look back upon a life of meagre fruitage and say, -->
+
+
+People will say "If I had only known the productive periods, the end might have been different." 
+
+This<!--  oft-repeated exclamation --> is sadly true, for in only few lives are productive periods taken advantage of in their fullest measure. 
+
+If by a careful application of the rules laid down in this chapter you are enabled to help struggling humanity to make use of the harvest portion of their lives, and thus provide for the days when vital forces wane, and labor can no longer be done, you will have wasted no time which has been spent in a study of the line of Saturn.

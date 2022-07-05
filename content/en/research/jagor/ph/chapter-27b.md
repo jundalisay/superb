@@ -77,13 +77,18 @@ The natives revolted because of:
 
 Yet none of these are of any great danger to the Spanish rule because:
 - the discontent has always been confined to a single district, as the natives do not form a united nation
-- there is no bond of a common speech
-- there is no general interest binding the different tribes together.
+- the natives have no bond of a common speech
+- there is no general interest binding the different native tribes together.
 - the communications and laws among them scarcely reach beyond the borders of the villages and their dependencies.
 
-A consideration of far more importance to the distant metropolis than the condition of the constantly excited Indians, who are politically divided among themselves, and really have no steady object in view, is the attitude of the half-castes and creoles, whose discontent increases in proportion to their numbers and prosperity. 
+<!-- A consideration of far more importance to the distant metropolis than the  -->
 
-A military revolt broke out in 1823 led by 2 creoles. This could have ended Spanish rule easily. <!--  have terminated fatally for Spain.  -->
+<!--  Indians, who are politically divided among themselves, and  -->
+
+The attitude of the half-castes and creoles [mestizos] are much more important in triggering a revolution than the condition of the constantly-excited natives who really have no steady object in view.
+- Their discontent increases in proportion to their numbers and prosperity. 
+
+A military revolt broke out in 1823 led by 2 creoles which could have ended Spanish rule easily. <!--  have terminated fatally for Spain.  -->
 
 
 ### The Cavite Mutiny
@@ -95,17 +100,25 @@ The latest of all the risings of the half-castes has been the most dangerous to:
 
 On January 20, 1872, between 8pm-9pm, the artillery, marines, and the garrison of the arsenal revolted in Cavite and <!-- , the naval harbour of the Philippines, and --> murdered their officers. 
 
-A lieutenant who tried to <!--  endeavoured to carry the intelligence to --> warn Manila fell into the hands of a crowd of natives. 
+A lieutenant who tried to <!--  endeavoured to carry the intelligence to --> warn Manila fell into the hands of a crowd of natives.
 
-The news therefore did not reach the capital until the next morning, when all the available troops were at once dispatched, and, after a heavy preliminary struggle, they succeeded the following day in storming the citadel. 
+The news therefore did not reach the capital until the next morning. 
+- All the available troops were at once dispatched
+- After a heavy preliminary struggle, they succeeded the following day in storming the citadel.
 
-A dreadful slaughter of the rebels ensued. Not a soul escaped. Among them was not a single European ; but there were many half-castes, of whom several were priests and lawyers. 
+A dreadful slaughter of the rebels ensued and not a soul escaped. 
+- Among them was not a single European
+- But there were many half-castes, of whom several were priests and lawyers. 
 
-Though perhaps the first accounts, written under the influence of terror, may have exaggerated many particulars, yet both official and private letters agree in describing the conspiracy as being long contemplated, widely spread, and well planned. 
+The first accounts were written under the influence of terror and might have exaggerated many particulars. Yet both official and private letters agree in describing the conspiracy as being:
+- long contemplated
+- widely spread
+- well planned. 
 
-The whole fleet and a large number of troops were absent at the time, engaged in the expedition against Sulu. A portion of the garrison of Manilla were to rise at the same time as the revolt in Cavite, and thousands of natives were to precipitate themselves on the caras blancas (pale faces), and murder them. 
+The whole fleet and many troops were absent at the time, engaged in the expedition against Sulu.
+- A portion of the garrison of Manila were to rise at the same time as the revolt in Cavite
+- Thousands of natives were to precipitate themselves on the caras blancas (pale faces), and murder them. 
 
 The conspiracy's failure was caused by the rebels mistaking a rocket fired during a Church festival as agreed signal, and began the attack too soon.
 
 <!-- Let me be permitted, in conclusion, to bring together a few observations which have been scattered through the text, touching the relations of the Philippines with foreign countries, and briefly speculate thereon. -->
-

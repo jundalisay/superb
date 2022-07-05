@@ -11,7 +11,7 @@ author: Juan
 icon: /icons/pantry.png
 aliases:
   /social/economics/the-modern-economic-table/
-  /articles/pantrynomics/the-modern-economic-table/  
+  /articles/pantrynomics/the-modern-economic-table/
 ---
 
 

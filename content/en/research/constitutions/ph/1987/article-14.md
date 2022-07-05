@@ -19,19 +19,16 @@ Section 1. The State shall protect and promote the right of all citizens to qual
 
 Section 2. The State shall:
 
-(1) Establish, maintain, and support a complete, adequate, and integrated system of education relevant to the needs of the people and society;
+1. Establish, maintain, and support a complete, adequate, and integrated system of education relevant to the needs of the people and society
+2. Establish and maintain a system of free public education in the elementary and high school levels. Without limiting the natural right of parents to rear their children, elementary education is compulsory for all children of school age
+3. Establish and maintain a system of scholarship grants, student loan programs, subsidies, and other incentives which shall be available to deserving students in both public and private schools, especially to the underprivileged
+4. Encourage non-formal, informal, and indigenous learning systems, as well as self-learning, independent, and out-of-school study programs particularly those that respond to community needs; and
+5. Provide adult citizens, the disabled, and out-of-school youth with training in civics, vocational efficiency, and other skills.
 
-(2) Establish and maintain a system of free public education in the elementary and high school levels. Without limiting the natural right of parents to rear their children, elementary education is compulsory for all children of school age;
+Section 3.
 
-(3) Establish and maintain a system of scholarship grants, student loan programs, subsidies, and other incentives which shall be available to deserving students in both public and private schools, especially to the underprivileged;
-
-(4) Encourage non-formal, informal, and indigenous learning systems, as well as self-learning, independent, and out-of-school study programs particularly those that respond to community needs; and
-
-(5) Provide adult citizens, the disabled, and out-of-school youth with training in civics, vocational efficiency, and other skills.
-
-Section 3. (1) All educational institutions shall include the study of the Constitution as part of the curricula.
-
-(2) They shall inculcate patriotism and nationalism, foster love of humanity, respect for human rights, appreciation of the role of national heroes in the historical development of the country, teach the rights and duties of citizenship, strengthen ethical and spiritual values, develop moral character and personal discipline, encourage critical and creative thinking, broaden scientific and technological knowledge, and promote vocational efficiency.
+1. All educational institutions shall include the study of the Constitution as part of the curricula.
+2. They shall inculcate patriotism and nationalism, foster love of humanity, respect for human rights, appreciation of the role of national heroes in the historical development of the country, teach the rights and duties of citizenship, strengthen ethical and spiritual values, develop moral character and personal discipline, encourage critical and creative thinking, broaden scientific and technological knowledge, and promote vocational efficiency.
 
 (3) At the option expressed in writing by the parents or guardians, religion shall be allowed to be taught to their children or wards in public elementary and high schools within the regular class hours by instructors designated or approved by the religious authorities of the religion to which the children or wards belong, without additional cost to the Government.
 

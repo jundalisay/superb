@@ -19,6 +19,8 @@ aliases:
   /solutions/taonomics/how-basic-universal-revenue-can-solve-poverty-inequality
   /solutions/taonomics/basic-universal-revenue/
   /pantrynomics/basic-universal-revenue
+  /social/economics/bur
+  /economics/basic-universal-revenue  
 ---
 
 

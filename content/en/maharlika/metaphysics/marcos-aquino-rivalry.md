@@ -12,6 +12,7 @@ linkftext: "Natural Industries"
 author: Juan
 icon: /favicon.png
 aliases:
+  /maharlika/articles/metaphysics/marcos-aquino-rivalry/
   /articles/metaphysics/marcos-aquino-rivalry/
 ---
 

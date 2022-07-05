@@ -1,0 +1,41 @@
+---
+title: "Natural Remedies for Appendicitis"
+heading: "Yogic Treatments and Natural Remedies"
+date: 2022-01-31
+author: "PR Sarkar"
+description: "Swelling of the appendix and simultaneous unbearable pain in the abdominal region; fear of eating in spite of appetite or desire for food"
+image: "/photos/med/appendix.jpg"
+linkb: "/research/indian/yogic-treatments/acidity"
+linkbtext: "yogic-treatments"
+linkf: "/research/indian/yogic-treatments/asthma"
+linkftext: "asthma"
+icon: "/flags/in.png"
+aliases:
+  /research/indian/yogic-treatments/appendicitis
+---
+
+
+## Symptoms
+
+- Swelling of the appendix and simultaneous unbearable pain in the abdominal region
+- Fear of eating in spite of appetite
+
+![Appendicitis](/photos/med/appendix.jpg)
+
+
+## Causes
+
+- Aversion to physical labour
+- Spending much time indoors
+- Not taking part in sports and exercises
+- Constipation
+- Overeating
+
+
+## Treatment and Remedies
+
+Ásanas, mudrás, diet and dos and don’ts are the same as for dyspepsia patients. 
+
+Fibrous foods, all types of non-vegetarian foods, atapa rice (a fine-quality, very white type of rice) and all foods that cause constipation are strictly forbidden.
+
+

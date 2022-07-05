@@ -11,6 +11,7 @@ linkftext: "dutertenomics"
 author: Juan
 icon: /favicon.png
 aliases:
+  /maharlika/articles/politicians/duterte
   /articles/politicians/duterte
   /politicians/duterte
 ---

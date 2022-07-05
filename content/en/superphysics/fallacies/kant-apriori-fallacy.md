@@ -12,6 +12,7 @@ author: Juan
 icon: /icons/sp.png
 aliases:
   /posts/superphysics/the-apriori-fallacy-of-kant/
+  /fallacies/philosophy/kant-apriori-fallacy
 ---
 
 Dialectics was the most important part of Socrates' philosophy, of which the Socratic dialogue is the only part that is understood by academics. Its most important parts are the metaphysical laws that he established, such as:

@@ -20,22 +20,27 @@ A respectable merchant obtained for me a guarantee, as a particular favour, to h
 
 But even then, I was not allowed to take the smallest article of luggage on shore with me. During the south-west monsoon and the stormy season that accompanies the change of monsoons, the roadstead is unsafe. 
 
-Vessels are then obliged to shelter in the port of Cavite, 7 miles away. But during the north-east monsoons they can safely anchor half a league from the coast.
+Vessels are then obliged to shelter in the port of Cavite, 7 miles away. 
+- But during the north-east monsoons they can safely anchor half a league from the coast.
 
 All ships under 300 tons burden pass the breakwater and enter the Pasig. <!-- , where, as far as the bridge, they lie in serried rows, extending from the shore to the middle of the stream, and bear witness by their numbers, as well as by the bustle and stir going on amongst them, to the activity of the home trade. --> The few ships in the roadstead, particularly of those of foreign countries, was the more remarkable, as Manila was the only port in the Philippines that had any commerce with foreign countries.
 
-Since 1855, foreign trade could be done at 4 ports. But at during my arrival in March 1859, none of them had accepted a foreign ship. It was a few weeks after my visit that the first English ship sailed into Iloilo to take in a cargo of sugar for Australia.
+Since 1855, foreign trade could be done at 4 ports.
+- But at during my arrival in March 1859, none of them had accepted a foreign ship. 
+- It was a few weeks after my visit that the first English ship sailed into Iloilo to take in a cargo of sugar for Australia.
+
+In 1868, 112 foreign vessels entered the port of Manila:
+- The foreign shipes totaled 74,054 tons. Nearly all entered empty, but <!-- came in ballast, --> left with cargoes
+- The Spanish ships totaled 26,762 tons. These came and left with cargo. <!--  in freight. (English Consul's Report, 1869.) -->
 
 The opening of Iloilo was so advantageous, as explained in Chapter . <!--  that I intended to have given a few interesting details of its trade in a separate chapter, chiefly gathered from the verbal and written remarks of the English Vice-Consul, the late Mr. N. Loney, and from other consular reports. -->
-
-† In 1868 112 foreign vessels, to the aggregate of 74,054 tons, and Spanish ships to the aggregate of 26,762 tons, entered the port of Manila. Nearly all the first came in ballast, but left with cargoes. The latter both came and left in freight. (English Consul's Report, 1869.)
-
-## FORMER CUSTOMS DUTIES
-
 
 This is because of:
 - the feeble development of agriculture, despite the unexampled soil fertility  
 - chiefly the antiquated and artificially limited conditions of trade. 
+
+
+## FORMER CUSTOMS DUTIES
 
 The customs duties were not very high at:
 - 7% on merchandise carried by Spanish ships 
@@ -43,15 +48,26 @@ The customs duties were not very high at:
 
 Spanish products have a duty of:
 - 3% if carried in Spanish ships
-- if in foreign ships.
+- ? if in foreign ships. These were only allowed to enter the port <!-- in ballast --> empty.
 
-The latter were only allowed, as a rule, to enter the port in ballast.
+The main <!--  principal wants of the --> Philippine imports were from England which entered in 2 ways: <!-- and abroad --> 
 
-The principal wants of the Philippines were imported from England and abroad, these were either kept back until they could be sent in Spanish ships, which charged nearly a triple freight (from £4 to £5 instead of from £1 to £2 per ton). These shipts went to British ports rarely. Or the goods were sent to Singapore and Hongkong where they were reshipped under the Spanish flag. Tonnage dues were levied, moreover, upon ships in ballast, and upon others which merely touched at Manila without unloading or taking in fresh cargo; and if a vessel under such circumstances landed even the smallest parcel, it was no longer rated as a ship in ballast, but charged on the higher scale. 
+1. These were kept back until they could be sent in Spanish ships which charged nearly a triple freight (from £4 to £5 instead of from £1 to £2 per ton). These ships went to British ports rarely.
 
-Vessels were therefore forced to enter the port entirely devoid of cargo, or carrying sufficient to cover the expense of the increased harbour dues ; almost an impossibility for foreign ships, on account of the differential customs rates, which acted almost as a complete prohibition. 
+2. The goods were sent to Singapore and Hongkong where they were reshipped under the Spanish flag. 
 
-The result was that foreign vessels came there only in ballast, or when summoned for some particular object.
+Tonnage dues were levied on:
+- empty ships<!-- . , moreover, upon ships in ballast, and upon others which merely --> 
+- ships that touched at Manila without unloading or taking in fresh cargo
+
+If a ship<!--  under such circumstances --> landed even the smallest parcel, it was no longer rated as an empty ship<!--  in ballast -->, but charged on the higher scale. 
+
+Vessels were therefore forced to enter the port either:
+- entirely empty <!-- devoid of cargo, --> or 
+- carrying sufficient to cover the expense of the increased harbour dues
+  - This is almost impossibile for foreign ships because of the differential customs rates, which acted almost as a complete prohibition.
+
+This made ships enter empty. <!-- result was that foreign vessels came there only in ballast, or when summoned for some particular object. -->
 
 Philippine exports were almost entirely limited to its raw produce, burdened with an export duty of 3%.
 

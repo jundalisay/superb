@@ -11,6 +11,7 @@ linkftext: "Simplified Pigafetta"
 author: Juan
 icon: /favicon.png
 aliases:
+  /maharlika/articles/maharlika-social-cycles/
   /articles/maharlika-social-cycles/
   /articles/metaphysics/maharlika-social-cycles/
 ---

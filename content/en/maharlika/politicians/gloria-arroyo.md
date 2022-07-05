@@ -11,6 +11,7 @@ linkftext: "marcos-aquino-rivalry"
 author: Juan
 icon: /favicon.png
 aliases:
+  /maharlika/articles/gloria-arroyo/
   /articles/gloria-arroyo/
   /articles/politicians/gloria-arroyo/
 ---

@@ -1,6 +1,6 @@
 +++
 title= "England"
-image= "/covers/magna.jpg"
+image= "/flags/gb.png"
 author= "King John"
 date= "2022-01-31"
 +++ 

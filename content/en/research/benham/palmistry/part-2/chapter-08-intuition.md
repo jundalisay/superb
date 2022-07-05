@@ -82,7 +82,9 @@ The death of a relative will often change the course of a life, and if some indi
 
 In connection with the lines of Saturn and Apollo it is of constant service. 
 
-The death of relatives also seriously impairs the health of some subjects, and thus in all directions Influence lines are valuable indications. When lines of Influence are deep, strong, and well colored, the influence is powerful; when they are thin, shallow, chained, uneven, or broken in any way (282), the influence is not strong. 
+The death of relatives also seriously impairs the health of some subjects, and thus in all directions Influence lines are valuable indications. 
+
+When lines of Influence are deep, strong, and well colored, the influence is powerful; when they are thin, shallow, chained, uneven, or broken in any way (282), the influence is not strong. 
 
 When an Influence line begins deep, then grows thin, and fades away, the influence was strong in the beginning, but has gradually grown weaker until it has no effect (283). 
 

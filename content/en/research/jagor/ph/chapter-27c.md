@@ -1,5 +1,5 @@
 ---
-title: "Juan de Salcédo and The Cavite Mutiny"
+title: "Juan de Salcédo"
 date: 2022-04-30
 image: /covers/travels.jpg
 description: "Juan de Salcédo was the most illustrious of all the conquerors"

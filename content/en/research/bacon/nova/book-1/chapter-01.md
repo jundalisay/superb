@@ -21,48 +21,89 @@ He tries to understand the order of nature. <!-- , either with regard to things 
 Effects are produced by the means of instruments and helps, which the understanding requires no less than the hand; and as instruments either promote or regulate the motion of the hand, so those that are applied to the mind prompt or protect the understanding.
 
 
-{{< s v="3" >}} Knowledge and human power are synonymous, since the ignorance of the cause frustrates the effect; for nature is only subdued by submission, and that which in contemplative philosophy corresponds with the cause in practical science becomes the rule.
+{{< s v="3" >}} Knowledge and human power are synonymous, since the ignorance of the cause frustrates the effect. 
 
-{{< s v="4" >}} Man can only apply or withdraw natural bodies. Nature internally performs the rest.
+Nature is only subdued by submission. <!-- and that which in contemplative philosophy corresponds with --> The cause in practical science becomes the rule.
 
 
-{{< s v="5" >}} V. Those who become practically versed in nature are, the mechanic, the mathematician, the physician, the alchemist, and the magician,[2] but all (as matters now stand) with faint efforts and meagre success.
+{{< s v="4" >}} Man can only apply or withdraw natural bodies. 
+
+Nature internally performs the rest.
+
+
+{{< s v="5" >}} The following are practically versed in nature:
+- the mechanic
+- the mathematician
+- the physician
+- the alchemist
+- the magician[2]
+
+But all of them now <!--  (as matters now stand) with --> have faint efforts and meagre success.
 
 
 {{< s v="6" >}} It would be madness to suppose that things never been done can be done without using some untried means.
 
 
-{{< s v="7" >}} The creations of the mind and hand appear very numerous. But all that variety consists of an excessive refinement, and of deductions from a few well known matters—not of a number of axioms.
+{{< s v="7" >}} The mind and hand can create many things. 
+
+But all that variety consists of:
+- an excessive refinement, and
+- deductions from a few well known matters
+
+The variety is not from having many axioms.
 
 {{< s v="8" >}} Even the effects already discovered are due to chance and experiment rather than to the sciences; for our present sciences are nothing more than peculiar arrangements of matters already discovered, and not methods for discovery or plans for new operations.
 
-{{< s v="9" >}} The sole cause and root of almost every defect in the sciences is this, that while we falsely admire and extol the powers of the human mind, we do not search for its real helps.
+{{< s v="9" >}} The sole cause and root of almost every defect in the sciences is that we falsely admire and extol the powers of the human mind, but we do not search for its real helps.
 
-{{< s v="10" >}} The subtilty of nature is far beyond that of sense or of the understanding: so that the specious meditations, speculations, and theories of mankind are but a kind of insanity, only there is no one to stand by and observe it.
+{{< s v="10" >}} The subtilty of nature is far beyond that of sense or of the understanding. 
 
-{{< s v="11" >}} As the present sciences are useless for the discovery of effects, so the present system of logic is useless for the discovery of the sciences.
+The specious meditations, speculations, and theories of mankind are but a kind of insanity, only there is no one to stand by and observe it.
 
-{{< s v="12" >}} The present system of logic rather assists in confirming and rendering inveterate the errors founded on vulgar notions than in searching after truth, and is therefore more hurtful than useful.
 
-{{< s v="13" >}} The syllogism is not applied to the principles of the sciences, and is of no avail in intermediate axioms,[5] as[14] being very unequal to the subtilty of nature. It forces assent, therefore, and not things.
+## Logic
 
-{{< s v="14" >}} The syllogism consists of propositions; propositions of words; words are the signs of notions. 
+{{< s v="11" >}} The present sciences are useless for the discovery of effects. Likewise, the present system of logic is useless for the discovery of the sciences.
 
-If, therefore, the notions (which form the basis of the whole) be confused and carelessly abstracted from things, there is no solidity in the superstructure. Our only hope, then, is in genuine induction.
+{{< s v="12" >}} The present system of logic rather assists in confirming and rendering inveterate the errors founded on vulgar notions than in searching after truth. It is therefore more hurtful than useful.
 
-{{< s v="15" >}} We have no sound notions either in logic or physics; substance, quality, action, passion, and existence are not clear notions; much less weight, levity, density, tenuity, moisture, dryness, generation, corruption, attraction,[15] repulsion, element, matter, form, and the like. 
+{{< s v="13" >}} The syllogism is:
+- not applied to the principles of the sciences
+- useless in intermediate axioms,[5] as[14] being very unequal to the subtilty of nature. 
+
+It forces assent and not things.
+
+{{< s v="14" >}} The syllogism consists of propositions.
+- Propositions consist of words
+- Words are the signs of notions. 
+
+If the basic notions are confused and carelessly abstracted from things, there is no solidity in the superstructure. Our only hope, then, is in genuine induction.
+
+{{< s v="15" >}} We have no sound notions either in logic or physics. 
+
+Substance, quality, action, passion, and existence are not clear notions; much less weight, levity, density, tenuity, moisture, dryness, generation, corruption, attraction,[15] repulsion, element, matter, form, and the like. 
 
 They are all fantastical and ill-defined.
 
-{{< s v="16" >}} The notions of less abstract natures, as man, dog, dove, and the immediate perceptions of sense, as heat, cold, white, black, do not deceive us materially, yet even these are sometimes confused by the mutability of matter and the intermixture of things. All the rest which men have hitherto employed are errors, and improperly abstracted and deduced from things.
+{{< s v="16" >}} The notions of less abstract natures, as man, dog, dove, and the immediate perceptions of sense, as heat, cold, white, black, do not deceive us materially.
+
+Yet even these are sometimes confused by the mutability of matter and the intermixture of things. All the rest which men have hitherto employed are errors, and improperly abstracted and deduced from things.
 
 {{< s v="17" >}} There is the same degree of licentiousness and error in forming axioms as in abstracting notions, and that in the first principles, which depend on common induction; still more is this the case in axioms and inferior propositions derived from syllogisms.
 
-{{< s v="18" >}} The present discoveries in science are such as lie immediately beneath the surface of common notions. It is necessary, however, to penetrate the more secret and remote parts of nature, in order to abstract both notions and axioms from things by a more certain and guarded method.
+{{< s v="18" >}} The present discoveries in science are such as lie immediately beneath the surface of common notions. 
 
-{{< s v="19" >}} There are and can exist but two ways of investigating and discovering truth. The one hurries on rapidly from the senses and particulars to the most general axioms, and from them, as principles and their supposed indisputable truth, derives and discovers the intermediate axioms. This is the way now in use. The other constructs its axioms from the senses and particulars, by ascending continually and gradually, till it finally arrives at the most general axioms, which is the true but unattempted way.
+It is necessary, however, to penetrate the more secret and remote parts of nature, in order to abstract both notions and axioms from things by a more certain and guarded method.
 
-{{< s v="20" >}} The understanding when left to itself proceeds by the same way as that which it would have adopted under the guidance of logic, namely, the first; for the mind is fond of starting off to generalities, that it may avoid labor, and[16] after dwelling a little on a subject is fatigued by experiment. But those evils are augmented by logic, for the sake of the ostentation of dispute.
+{{< s v="19" >}} There are and can exist but two ways of investigating and discovering truth. 
+
+The one hurries on rapidly from the senses and particulars to the most general axioms, and from them, as principles and their supposed indisputable truth, derives and discovers the intermediate axioms. 
+
+This is the way now in use. The other constructs its axioms from the senses and particulars, by ascending continually and gradually, till it finally arrives at the most general axioms, which is the true but unattempted way.
+
+{{< s v="20" >}} The understanding when left to itself proceeds by the same way as that which it would have adopted under the guidance of logic, namely, the first; for the mind is fond of starting off to generalities, that it may avoid labor, and[16] after dwelling a little on a subject is fatigued by experiment. 
+
+But those evils are augmented by logic, for the sake of the ostentation of dispute.
 
 {{< s v="21" >}} The understanding, when left to itself in a man of a steady, patient, and reflecting disposition (especially when unimpeded by received doctrines), makes some attempt in the right way, but with little effect, since the understanding, undirected and unassisted, is unequal to and unfit for the task of vanquishing the obscurity of things.
 
