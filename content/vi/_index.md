@@ -54,13 +54,13 @@ sub4 = "Fellow-Feeling Instead of Selfish-Interest"
    subtitle = "Has relativity baked in"
 
 [artsup.a]
-   url = "superphysics/what-is-superphysics"
+   url = "/superphysics/what-is-superphysics"
    img = "/banner.jpg" 
    title = "What's Superphysics?"
    subtitle = "A new science based on the original Socratic Dialectics"
 
 [artsup.b]
-   url = "superphysics/socratic-dialectics/"
+   url = "/superphysics/socratic-dialectics/"
    img = "/avatars/socrates.jpg" 
    title = "What's Socratic Dialectics?"
    subtitle = "A thinking paradigm that allows both Physics and Metaphysics"

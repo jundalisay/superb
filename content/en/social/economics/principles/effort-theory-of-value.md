@@ -1,7 +1,8 @@
 ---
 title: "The Effort Theory of Value"
 heading: "The alternative to arbitrary marginal pricing"
-date: 2020-04-18
+# date: 2020-04-18
+date: 2015-10-30
 image: "/graphics/jfk.jpg"
 description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
 linkb: /social/economics/why-business-is-immoral
@@ -20,11 +21,15 @@ aliases:
 
 While building Adam Smith's resource allocation system, I've often been asked:"What measure of value does it use?"
 
-Unlike the current economic system which uses money (because it was directly descended from the Mercantile system and merchants only care about money), Smith's system uses real value as a measure of value. He suggests grains as a long term measure of value (since everyone needs to eat), and precious metals as a measure of short term value (since metals are useful to all). However, what does the wheat and precious metal actually represent? 
+Unlike the current economic system which uses money (because it was directly descended from the Mercantile system and merchants only care about money), Smith's system uses real value as a measure of value. He suggests grains as a long term measure of value (since everyone needs to eat), and precious metals as a measure of short term value (since metals are useful to all). 
 
-Smith says that it represents 'labour'. But labour is ambiguous. Marx uses the same measure in Das Kapital and ends up with the strange concepts like 'labour power' and 'labour time', which are measures of **physical** labour. These then lead to the oppressive rationing system in Communist countries.
+However, what does the wheat and precious metal actually represent? 
 
-You can exactly ration gasoline and electricity to your cars and iPhones, but it would be absurd to do that to humans. You could ration $1,000 to a software developer to build a furniture and $1,000 to a carpenter to build an app and their outputs would be inferior. 
+Smith says that it represents 'labour'. But labour is ambiguous. 
+
+Marx uses the same measure in Das Kapital and ends up with the strange concepts like 'labour power' and 'labour time', which are measures of **physical** labour. These then lead to the oppressive rationing system in Communist countries.
+
+You can exactly ration gasoline and electricity to your cars and iPhones, but it would be absurd to do that to humans. You could ration $1,000 to a software developer to build a furniture, and $1,000 to a carpenter to build an app. Their actual outputs would be inferior.
 
 People confuse Smith's labour theory with that of Marx simply because both use the word 'labour'. To separate those two ideas, we have to look into how differently Smith sees human labour.
 
@@ -39,7 +44,9 @@ The real price of everything.. is the toil and trouble of acquiring it. What eve
 {{< /quote >}}
 
 
-Toil and trouble are not objective. Person A who has no interest learning how to play the guitar (who we shall call 'Guitar Hater') might 'toil' a lot if forced to learn guitar, compared to Person B ('Guitar Lover') who naturally likes it. Therefore, the 'high toil' or suffering of Guitar Hater in learning guitar is consistently high always and everywhere he is. Likewise, the low toil or suffering of Guitar Lover in learning guitar is consistently low always and anywhere he is. This is evident in Smith's maxim:
+Toil and trouble are not objective. 
+
+Person A who has no interest learning how to play the guitar (who we shall call 'Guitar Hater') might 'toil' a lot if forced to learn guitar, compared to Person B ('Guitar Lover') who naturally likes it. Therefore, the 'high toil' or suffering of Guitar Hater in learning guitar is consistently high always and everywhere he is. Likewise, the low toil or suffering of Guitar Lover in learning guitar is consistently low always and anywhere he is. This is evident in Smith's maxim:
 
 {{< quote ava="smith" >}}
 At all times and places that is dear which it is difficult to come at, or which it costs much labour to acquire; and that cheap which is to be had easily, or with very little labour. Labour alone, therefore, never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared. It is their real price; money is their nominal price only.
@@ -49,12 +56,16 @@ At all times and places that is dear which it is difficult to come at, or which 
 
 ## Enter Relativity and the Constant of Personal Interest
 
-Thus, the 'cost' or 'price' of guitar learning will be consistently 'expensive' to Guitar Hater but consistently 'cheap' to Guitar Lover. If their society naturally values guitar music, then Guitar Hater will be 'poor', while Guitar Lover will be 'wealthy' especially since he can 'arbitrage' his high quality but cheaply-earned guitar skill by selling it to society at a price that is high to them.  
+Thus, the 'cost' or 'price' of guitar learning will be consistently 'expensive' to Guitar Hater but consistently 'cheap' to Guitar Lover. 
+
+If their society naturally values guitar music, then Guitar Hater will be 'poor', while Guitar Lover will be 'wealthy' especially since he can 'arbitrage' his high quality but cheaply-earned guitar skill by selling it to society at a price that is high to them.  
 
 {{< img src="https://socioecons.files.wordpress.com/2017/07/playinggtr_1.jpg" alt="Guitar-playing" cap="Playing instruments is easy for some, hard for others" >}}
 
 
-So the core idea in Smith's theory is psychological toil and trouble instead of physical labour. To establish this core idea, we replace 'Labour theory of value' with 'Effort Theory of Value' since the word 'effort' best combines both psychological and emotional toil and trouble with physical work. 'Work Theory of Value' was also a good candidate. However, 'work' tends to mean more of the effect rather than the cause.
+So the core idea in Smith's theory is psychological toil and trouble instead of physical labour. 
+
+To establish this core idea, we replace 'Labour theory of value' with 'Effort Theory of Value' since the word 'effort' best combines both psychological and emotional toil and trouble with physical work. 'Work Theory of Value' was also a good candidate. However, 'work' tends to mean more of the effect rather than the cause.
 
 
 {{< me date="Dec 2020" >}}
@@ -70,14 +81,17 @@ Eastern philosophy solves this by using a mantra constantly which forces the min
 
 But effort alone will not lead to value-creation unless the person is interested in what he is applying the effort to -- he has to be deeply interested in whatever task he is doing. 
 
-This is where his 'personal-interest'* comes in. Whatever one is interested in is a natural part of the invisible hand of his dharma or tao. A person interested in guitars will naturally create higher quality* guitar music than someone who is not interested in guitars.
+This is where his 'personal-interest'* comes in. Whatever one is interested in is a natural part of the invisible hand of his dharma or tao. 
+
+> *The Invisible Hand of Dharma or the Tao separates self-interest from selfish-interest. In order to make the separation permanent, we shall call self-interest as "personal interest" in order to remove the vice of selfishness from it.
+
+
+A person interested in guitars will naturally create higher quality* guitar music than someone who is not interested in guitars.
 
 > *We can call this a 'superabundance' in guitar music
 
 
 Society would therefore have more value, quality, and abundance if its bakers baked and its brewers brewed, instead of its bakers brewing and its brewers baking.
-
-> *The Invisible Hand of the Tao separates self-interest from selfish-interest. In order to make the separation permanent, we shall call self-interest as "personal interest" in order to remove the vice of selfishness from it.
 
 
 This value and abundance are then spread through exchange, such as through money, barter, credit, or donations, onto places where there is lack*:

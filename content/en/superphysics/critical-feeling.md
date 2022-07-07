@@ -12,6 +12,7 @@ author: Juan
 icon: /icons/sp.png
 ---
 
+
 In a previous post, we defined moral as a quality that produces happiness for now and for as long as possible, for the self and for as many entities as possible.
 
 The problem is that the Negative Force (the force that is tasked to create reality) is designed to limit and compress things. This limitation is seen in the ego in actively-conscious entities*. 
