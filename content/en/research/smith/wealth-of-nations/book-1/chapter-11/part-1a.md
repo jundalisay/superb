@@ -8,11 +8,9 @@ linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/introduction"
 linkbtext=  "Chapter 11 Introduction"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-2a"
 linkftext=  "Chapter 11 Part 2a"
-# heading=  Chapter 11 Part 1a
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
+
 
 {{< s v="10" >}} Food is always in demand because men, like animals, naturally multiply in proportion to their subsistence.
 

@@ -9,8 +9,6 @@ linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2h"
 linkftext=  "Chapter 2h"
 heading=  "Chapter 2g"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=0iHMDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 {{< s v="61" >}} For a long time, Scottish banks were very careful to require frequent and regular repayments from all their customers They did not deal with any person of any fortune or credit who did not make frequent and regular operations with them.

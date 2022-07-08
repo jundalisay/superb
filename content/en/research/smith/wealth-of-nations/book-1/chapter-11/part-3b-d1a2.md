@@ -9,8 +9,6 @@ linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a3"
 linkftext=  "Digression 1a3"
 heading=  "Part 3b Digression 1a2"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
 
 

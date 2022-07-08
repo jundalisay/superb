@@ -1,16 +1,14 @@
 +++
 title=  "Stock Lent At Interest"
 date=  2020-01-01
-image=  "https= //sorasystem.sirv.com/photos/money.jpg"
-description=  ""
+image=  "/covers/wn.jpg"
+description=  "The stock lent at interest is always considered as a capital by its lender."
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-3d"
 linkbtext=  "Chapter 3d"
 linkf=  "/research/smith/wealth-of-nations/book-2/chapter-4b"
 linkftext=  "Chapter 4b"
 heading=  "Chapter 4a"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=0iHMDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 

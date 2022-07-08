@@ -1,6 +1,6 @@
 +++
 title=  "The Dangers of Overcirculation"
-description=  ""
+description=  "A bank also spends to keep a large amount at all times in its coffers for answering the occasional demands of the holders of its notes."
 date=  2020-01-01
 image=  "/covers/wn.jpg"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2e"
@@ -9,13 +9,13 @@ linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2g"
 linkftext=  "Chapter 2g"
 heading=  "Chapter 2f"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=0iHMDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
-{{< s v="49" >}} Other than the common business expenses, such as the cost of house-rent, wages of servants, clerks, accountants, etc., a bank's expenses consist chiefly in= 
+{{< s v="49" >}} A bank's common expenses are:
+- the cost of house-rent
+- wages of servants, clerks, accountants, etc.
 
-The expence of keeping a large amount at all times in its coffers for answering the occasional demands of the holders of its notes.
+It also spends to keep a large amount at all times in its coffers for answering the occasional demands of the holders of its notes.
 - This amount pays no interest.
 - The expence of replenishing those coffers as fast as they are emptied when answering those occasional demands.
 

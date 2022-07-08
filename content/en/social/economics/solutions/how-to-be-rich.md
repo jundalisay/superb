@@ -11,6 +11,7 @@ author: Juan
 icon: /icons/pantry.png
 aliases:
   /articles/taonomics/how-to-be-rich
+  /social/economics/how-to-be-rich/
 ---
 
 

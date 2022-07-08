@@ -12,10 +12,9 @@ icon=  "/icons/smith.png"
 +++
 
 
-{{< s v="40" >}} The praises for the following are unmerited= 
-
-The law which establishes the wheat export bounty
-The regulations connected with the bounty
+{{< s v="40" >}} The praises for the following are unmerited:
+- The law which establishes the wheat export bounty
+- The regulations connected with the bounty
 
 This is demonstrated by examining the nature of= 
 
@@ -24,14 +23,17 @@ the British laws related to it
 
 This is a very important subject, justified by this long digression.
 
-41 The wheat merchant's trade is composed of four separate branches which can be done by the same person= 
+
+{{< s v="41" >}} The wheat merchant's trade is composed of four separate branches which can be done by the same person= 
 
 The trade of the inland dealer
 The merchant importer for home consumption
 The merchant exporter of home produce for foreign consumption
 The merchant carrier or importer and re-exporter of wheat
 
-42 The interest of the inland dealer is exactly the same with the people's interest even if it may appear opposite even in years of great scarcity.
+
+{{< s v="42" >}} The interest of the inland dealer is exactly the same with the people's interest even if it may appear opposite even in years of great scarcity.
+
     His interest is to raise wheat prices as high as needed by the season's real scarcity.
         It can never be his interest to raise it higher.
     He discourages wheat consumption by raising its price.
@@ -67,7 +69,8 @@ In the same way, excessive avarice might cause the inland wheat merchant to rais
         of the indignation against him
         he must sell his season's leftover wheat at a lower price if the next season is abundant.
 
-43 If one great merchant company got all of a country's crops, it might be its interest to destroy a big part of it to keep up the price of the rest.
+
+{{< s v="43" >}} If one great merchant company got all of a country's crops, it might be its interest to destroy a big part of it to keep up the price of the rest.
 
 This is what the Dutch did to the Moluccas spiceries.
 But it is impossible, even by the violence of law, to establish such an extensive monopoly on wheat.
@@ -92,54 +95,52 @@ All dealers would be bound by these same motives and interests.
 
 
 
+{{< s v="44" >}} Whoever examines the history of European dearths and famines from 16th century to the present will find that a dearth always arose from a real scarcity.
 
-44 Whoever examines the history of European dearths and famines from 16th century to the present will find that a dearth always arose from a real scarcity.
+This scarcity was created by:
+- war, or
+- the fault of the seasons, most frequently
 
-This scarcity was created by= 
-    war, or
-    the fault of the seasons, most frequently
-It never arose from any combination of the inland wheat dealers.
-A famine only arose from the government's violence in attempting to remedy a dearth improperly.
-
+It never arose from any combination of the inland wheat dealers. A famine only arose from the government's violence in attempting to remedy a dearth improperly.
 
 
 
-45 In an extensive wheat country with free commerce and communication, the scarcity created by the most unfavourable seasons can never be so great as to produce a famine.
+{{< s v="45" >}} In an extensive wheat country with free commerce and communication, the scarcity created by the most unfavourable seasons can never be so great as to produce a famine.
 
 If managed with frugality and economy, the scantiest crop will maintain the same number of people fed during periods of moderate plenty.
 Excessive drought or rain are bad for crops.
-    But wheat grows equally on= 
-        high and low lands, and
-        wet or dry land
+
+But wheat grows equally on: 
+- high and low lands, and
+- wet or dry land
+
 Drought or excessive rains may hurt one part of the country.
     But the other part will not have them.
         In wet and dry seasons, some of the wheat lost in one part of the country is compensated by the wheat gained in the other.
+
 Rice requires a very moist soil and must be laid underwater.
     In rice countries, a drought is much more dismal.
     However, even in such countries, the drought is perhaps never so universal to create a famine if the government allows a free trade.
+
 The drought in Bengal a few years ago might have created a very great dearth.
     Some improper regulations and restraints imposed by the East India Company on the rice trade perhaps contributed to turn that dearth into a famine.
 
 
 
-
-46 When the government tries to to remedy a dearth by ordering all dealers to sell their wheat at a reasonable price, it= 
-
-hinders the dealers from bringing it to market, and
-    It may then produce a famine
-enables the people to consume it so fast.
-    It produces a famine before the season's end.
+{{< s v="46" >}} When the government tries to to remedy a dearth by ordering all dealers to sell their wheat at a reasonable price, it:
+- hinders the dealers from bringing it to market, and
+  - It may then produce a famine
+- enables the people to consume it so fast.
+  - It produces a famine before the season's end.
 
 The unlimited, unrestrained freedom of the wheat trade is the only effective preventative of a famine.
 
-It is the best palliative of a dearth.
-    Because the inconveniences of a real scarcity cannot be remedied, it can only be palliated.
+It is the best palliative of a dearth. Because the inconveniences of a real scarcity cannot be remedied, it can only be palliated.
 Free wheat trade deserves and requires the most protection of the law because no trade is so much exposed to popular odium.
 
 
 
-
-47 In years of scarcity, the lower classes impute their distress to the wheat merchant's avarice.
+{{< s v="47" >}} In years of scarcity, the lower classes impute their distress to the wheat merchant's avarice.
 
 Instead of profiting from the scarcity, he is often in danger of being ruined.
     His magazines are in danger of being plundered and destroyed by violence.
@@ -156,26 +157,28 @@ The wheat merchant expects his main profit during years of scarcity when prices 
 A popular odium attends the wheat trade in years of scarcity.
     It makes people of character and fortune averse to enter into it.
     The wheat trade is abandoned to an inferior set of dealers.
-The only middlemen that come between the grower and the consumer are= 
-    millers
-    bakers
-    mealmen [warehouse?]
-    meal factors [agents? retailers?] , together with wretched hucksters [resellers? peddlers?]
+
+The only middlemen that come between the grower and the consumer are:
+- millers
+- bakers
+- mealmen [warehouse?]
+- meal factors [agents? retailers?] , together with wretched hucksters [resellers? peddlers?]
 
 
 
-48 Europe's ancient policy authorized and encouraged this popular odium against the wheat trade, even if the wheat trade is so beneficial to the public.
+{{< s v="48" >}} Europe's ancient policy authorized and encouraged this popular odium against the wheat trade, even if the wheat trade is so beneficial to the public.
 
 
-49  The 5th and 6th of Edward VI cap. 14 enacted that anyone who buys any wheat or grain with intent to sell it again would be an unlawful engrosser.
+{{< s v="49" >}} The 5th and 6th of Edward 6th cap. 14 enacted that anyone who buys any wheat or grain with intent to sell it again would be an unlawful engrosser.
 
-For the first fault= 
-    he would be imprisoned for two months, and
-    the value of his wheat would be forfeited.
-For the second= 
+For the first fault:
+- he would be imprisoned for two months, and
+- the value of his wheat would be forfeited.
+
+For the second:
     he would be imprisoned for six months, and
     the double value of his wheat would be forfeited.
-For the third= 
+For the third:
     he would be imprisoned in the pillory, and
     all his goods and chattels would be forfeited.
 
@@ -285,21 +288,18 @@ If he were free to sell his crops to a wheat merchant as fast as he could thresh
 
 By being obliged to sell his wheat by retail, he was obliged to keep most of his capital in his granaries and stack yard through the year.
     He could not cultivate so well with the same capital.
-This law= 
-    obstructed land improvement, and
-    must have rendered wheat scarcer and dearer.
+This law:
+- obstructed land improvement, and
+- must have rendered wheat scarcer and dearer.
 
 
+## The Trade Between The Farmer and The wheat Merchant
 
-The Trade Between The Farmer and The wheat Merchant
-
-57 After the farmer, the wheat merchant contributes the most to the raising of wheat, if his trade is properly protected and encouraged.
-
-He would support the farmer in the same way the wholesale dealer supports the manufacturer.
+{{< s v="57" >}} After the farmer, the wheat merchant contributes the most to the raising of wheat, if his trade is properly protected and encouraged.
+- He would support the farmer in the same way the wholesale dealer supports the manufacturer.
 
 
-
-58 The wholesale dealer affords a ready market to the manufacturer by taking the manufacturer's goods as fast as the manufacturer can make them.
+{{< s v="58" >}} The wholesale dealer affords a ready market to the manufacturer by taking the manufacturer's goods as fast as the manufacturer can make them.
 
 It enables the manufacturer to keep his whole capital constantly employed in manufacturing.
     He can manufacture more goods than if he sold them himself to end consumers or retailers.

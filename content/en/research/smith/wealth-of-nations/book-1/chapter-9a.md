@@ -9,8 +9,6 @@ linkf=  "/research/smith/wealth-of-nations/book-1/chapter-9b"
 linkftext=  "Chapter 9b"
 heading=  "Chapter 9a"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 

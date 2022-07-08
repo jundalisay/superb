@@ -1,7 +1,7 @@
 +++
 title=  "Banks Increase National Wealth by Mobilizing Dead Stock"
 date=  2020-01-01
-image=  "https= //sorasystem.sirv.com/cards/hireme.jpg"
+image=  "/covers/wn.jpg"
 description=  "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2k"
 linkbtext=  "Chapter 2k"
@@ -9,8 +9,6 @@ linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2m"
 linkftext=  "Chapter 2m"
 heading=  "Chapter 2l"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=0iHMDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 

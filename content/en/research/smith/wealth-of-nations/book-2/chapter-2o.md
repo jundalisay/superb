@@ -1,4 +1,3 @@
-
 +++
 title=  "Monetary Policy"
 date=  2020-01-01
@@ -10,8 +9,6 @@ linkf=  "/research/smith/wealth-of-nations/book-2/chapter-3a"
 linkftext=  "Chapter 3a"
 heading=  "Chapter 2o"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=0iHMDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 

@@ -8,9 +8,8 @@ linkbtext=  "Chapter 3c"
 linkf=  "/research/smith/wealth-of-nations/book-3/chapter-4b"
 linkftext=  "Chapter 4b"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=0iHMDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
+
 
 ## The Benefits of Trade and Manufactures
 

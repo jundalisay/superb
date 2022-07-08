@@ -9,8 +9,6 @@ linkf=  "/research/smith/wealth-of-nations/book-4/chapter-9d-foreign-systems"
 linkftext=  "foreign-systems"
 heading=  "Chapter 1 Part 1a"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
 
 

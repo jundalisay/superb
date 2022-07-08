@@ -11,8 +11,6 @@ linkbtext=  "Chapter 6a"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-7a"
 linkftext=  "Chapter 7a"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
 +++
 
 {{< s v="9" >}} The real value of the parts of price is measured by the amount of labour which each part can purchase or command.

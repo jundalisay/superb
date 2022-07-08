@@ -9,8 +9,6 @@ linkbtext=  "Digression Conclusion"
 linkf=  "/research/smith/wealth-of-nations/book-2"
 linkftext=  "Book 2"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
 
 

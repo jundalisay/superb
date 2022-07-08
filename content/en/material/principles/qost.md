@@ -47,9 +47,9 @@ Phase 1 of the existence of a Universe is when its Matrix boots up, or the Mind 
 > *The Matrix analogy is meant for nonspiritual or close minded people, the Brahma analogy is meant for the spiritual or open minded
 
 
-This activates the aethereal layer to get the many ideas of the Supreme for that Universe. The ideas come from pre-existence and are transferred onto aethereal existence by the desire (Positive Force) of the Supreme. The aethereal ideas we call as 'quanta of aether' (qoas) as ideas which are meant for physical existence. 
+This activates the aethereal layer to get the many ideas of the Supreme for that Universe. The ideas come from pre-existence and are transferred onto aethereal existence by the desire (Positive Force) of the Supreme. 
 
-These qoas then get funneled into nodes which we call quanta of spacetime (qosts) which exist in the layer under the aethereal layer. The universe thus shifts from aetherel probability into spatial reality (has spacetime). 
+The aethereal ideas we call as 'quanta of aether' (qoas) as ideas which are meant for physical existence. These qoas then get funneled into nodes which we call quanta of spacetime (qosts) which exist in the layer under the aethereal layer. The universe thus shifts from aetherel probability into spatial reality (i.e experiences space and time). 
 
 
 <!-- 0. Metaphysical dimension: The pre-existing idea is deployed
@@ -72,7 +72,9 @@ For example, a smartphone has two kinds of memory:
 - Phone memory where the apps are run
 - SD Card memory where the apps are stored and are usually larger than the phone memory
 
-The spatial layer is the phone memory which runs the operating system which has the apps. The aethereal layer is the SD card which can have far more apps ready to be installed (have potential existence). 
+The spatial layer is the phone memory which runs the operating system which has the apps. 
+
+The aethereal layer is the SD card which can have far more apps ready to be installed (have potential existence). 
 
 
 {{< img src="/graphics/apps.jpg" alt="Apps in a Matrix" cap="We are inside a Matrix just as our apps are inside a phone" >}}
@@ -115,7 +117,12 @@ Stars come from galaxies and are subservient to them, just as planets and astero
 
 ## The Creation Process from Idea to Physical Reality
 
-Galactic qosts emerge arbitrarily onto the aether (or out of the aether) as one-dimensional points which repel each other to preserve their identity. <!-- , for the same existential reason that mass and energy are conserved. --> This creates the concept of spacetime between each of the points.
+Galactic qosts emerge arbitrarily onto the aether (or out of the aether) as one-dimensional points which repel each other to preserve their identity*.
+
+
+> *We call this the Law of Conservation of Idea
+
+<!-- , for the same existential reason that mass and energy are conserved. --> This creates the concept of spacetime between each of the points.
 
 Pythagoras called these 1D points as monads:
 
@@ -135,7 +142,9 @@ The monad was the indivisible point and the first cause. The duad was the first 
 <!-- (known in Physics as the Higgs field) -->
 <!-- The job or dharma of this gravitational force is to convert dynamic energy into static matter with the help of the three lower layers of radiant, radioactive, and material.   -->
 
-The spacetime layer thus converts the 1-dimensional galactic qosts into 2-dimensional, and then into 3-dimensional nodes the more qosts emerge. This continues until finally the nodes lead to 4 physically-observable dimensions* through the concept of time.
+#
+
+The spacetime layer thus converts the 1-dimensional galactic qosts into 2-dimensional, and then into 3-dimensional nodes the more qosts emerge. This continues until finally the nodes lead to 4 physically-observable dimensions* through the concept of time. This leads to the 4-dimensional 'Minkowski' spacetime of physics.
 
 > *There can be up to 6 spacetime dimensions. Above that, spacetime no longer exists and experience becomes fully immersive and totally arbitrary. 
 

@@ -1,6 +1,5 @@
 +++
 title=  "Monopolies Through Secrets in Trade and Manufactures"
-# heading=  The Simplified Wealth of Nations by Adam Smith, Book 1 Chapter 7b
 date=  2020-01-20
 image=  "/covers/wn.jpg"
 description=  "High prices are caused by monopolies"
@@ -9,8 +8,8 @@ linkbtext=  "Chapter 7a"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-8a"
 linkftext=  "Chapter 8a"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook version
+
+ version
 +++
 
 ## Keeping Up the Market Price Above the Natural Price through Secrets of Trade and Manufactures

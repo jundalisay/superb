@@ -10,8 +10,6 @@ linkftext=  "Part 2k"
 heading=  "Part 2j Appendix"
 icon=  "/icons/smith.png"
 icontext=  "Adam Smith avatar"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
 +++
 
 

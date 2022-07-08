@@ -9,8 +9,8 @@ linkbtext=  "Digression 3c2"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/conclusion"
 linkftext=  "Conclusion"
 icon=  "/icons/smith.png"
-# linkbook=  https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext=  Support Superphysics by buying the ebook
+
+
 +++
 
 {{< s v="229" >}} Most of the writers who collected the money prices in ancient times, considered the low money price of wheat and other goods (the high value of gold and silver) as a proof of= 
