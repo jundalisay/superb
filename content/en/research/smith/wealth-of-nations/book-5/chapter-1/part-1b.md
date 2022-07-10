@@ -1,113 +1,113 @@
 +++
-title=  "Two Methods of Defense=  Militias and Armies"
-description=  "The state can use two methods for the public defence"
-date=  2020-12-29
+title=  "The Development of Militaries"
+description=  "The art of war is certainly the noblest of all arts."
+date=  2020-12-30
 image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-1a"
-linkbtext=  "part-1a"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-1c"
-linkftext=  "part-1c"
-heading=  "Part 1b"
+linkb=  "/research/smith/wealth-of-nations/book-4/chapter-9b-unproductive"
+linkbtext=  "unproductive"
+linkf=  "/research/smith/wealth-of-nations/book-4/chapter-9d-foreign-systems"
+linkftext=  "foreign-systems"
+heading=  "Chapter 1 Part 1a"
 icon=  "/icons/smith.png"
 +++
 
 
-## Armies are Dominated by the Soldier Mentality
+
+{{< s v="7" >}} In a more advanced society, two causes make it impossible for those who take the field to maintain themselves at their own expence:
+- The progress of manufactures
+- The improvement in the art of war
 
 
-{{< s v="15" >}} The state can use two methods for the public defence.
+{{< s v="8" >}} When a husbandman goes to war which starts after seed-time and ends before harvest, his revenue is not reduced with his work's interruption.
+- Nature does most of the husbandman's remaining work.
 
-{{< s v="16" >}} 1. It may enforce military exercises.
+But when an <!-- artificer --> manufacturer, smith, carpenter, or weaver quits his workhouse, his revenue completely dries up.
+- Nature does nothing for him.
+- He does all for himself.
 
-    It may oblige some citizens of military age to become soldiers, in addition to their current profession.
-    It may do this through a very rigorous police, despite the people's contrary interest, genius, and inclinations.
-    18 This method forms a militia
+When he takes the field to defend the public, he has no revenue to maintain himself.
+- He must be maintained by the public.
 
-17 2. It may separate the soldier's profession from all other professions by maintaining and employing some citizens in constant military exercises.
-
-    18 This method forms a standing army
-
-18 The practice of military exercises is the sole or principal occupation of a standing army.
-
-    The maintenance or pay the state affords them is their subsistence's principal and ordinary fund.
-    The practice of military exercises is only the militia's occasional occupation.
-        They derive their principal and ordinary subsistence from some other occupation.
-    In a militia, the character of the labourer, artificer, or tradesman, predominates over that of the soldier.
-        In a standing army, the character of the soldier predominates over every other character.
-        This is the essential difference between militias and standing armies.
-
-19 There are many kinds of militias.
-
-    In some countries, the citizens defending the states were exercised without being regimented.
-        They were not divided into separate bodies of troops with its own permanent officers.
-    In the ancient Greek and Roman republics, each citizen who remained at home practised his exercises separately and independently.
-        He was not attached to any body of troops until he was actually called on to take the field.
-    In other countries, the militia was regimented.
-        In England, Switzerland, and other modern European countries where militias were established, every militiaman is attached to a body of troops under its own permanent officers even in peacetime.
+But in a country where most of the people are <!-- artificers and --> manufacturers, the people who go to war must be drawn from manufacturers<!-- those classes -->.
+- Therefore, they must be maintained by the public as long as they are employed in its service.
 
 
-### Effects of Firearms
 
-20 Before the invention of firearms, the superior army was one where each soldier had the greatest skill and dexterity in using their arms.
+{{< s v="9" >}} It becomes universally necessary for the public to maintain those who serve the public in war, at least while they are employed to do so when:
+- the art of war has grown to be a very intricate and complicated science,
+war ceases to be determined by a single irregular skirmish or battle, and
+war is made up of several different campaigns, each lasts for most of the year.
 
-    Strength and agility were of the highest consequence.
-        It commonly determined the state of battles.
-        This skill and dexterity in the use of their arms could be acquired only by practising each man separately= 
-            in a particular school,
-            under a particular master, and
-            with his own equals and companions and not in great bodies, in the same manner as fencing is practiced presently.
-    Since the invention of firearms, strength, agility, dexterity, and skill in the use of arms were of less consequence.
-        The nature of the weapon puts the awkward more on a level with the skilful than ever before.
-        All the dexterity and skill needed for using firearms can be acquired by practising in great bodies.
+Military service would have been very tedious and expensive for those who served in war.
 
-21 In modern armies, regularity, order, and prompt obedience to command are more important in determining the fate of battles than dexterity and skill in arms.
-
-    The noise, smoke, and the invisible death from firearms makes it very difficult to maintain any regularity, order, and prompt obedience even in the beginning of a modern battle.
-    In an ancient battle, the only noise arose from the human voice.
-        There was no smoke nor invisible cause of wounds or death.
-        Every man clearly saw that no such weapon was near him until a weapon actually did approach him.
-        It must have been much easier to preserve regularity and order through the whole progress of an ancient battle until one of the armies was defeated.
-    But the habits of regularity, order, and prompt obedience to command can be acquired only by troops which are exercised in great bodies.
-
-22A militia is always much inferior to a well-disciplined and well-exercised standing army.
-
-    23 Soldiers who are exercised only once a week or once a month can never be as expert in the use of their arms as those exercised every day or every other day.
-    The superiority of the Prussian troops is due very much to their expertness in their exercise.
-
-24 There are soldiers who are= 
-
-    bound to obey their officer only once a week or once a month, or
-    at all other times free to manage their own affairs their own way without being accountable to their officer.
-
-Such soldiers can never be in ready obedience nor be under the same awe of his presence as soldiers who= 
-
-    have their whole life and conduct are directed by their officer everyday, and
-    rise and go to bed according to their officer's orders everyday.
-
-Discipline is the habit of ready obedience.
-
-    A militia must always be inferior to a standing army in discipline than in manual exercise or the use of its arms.
-    But in modern war, discipline is more important than superiority in the use of arms.
+After the second Persian war, the armies of Athens were composed of mercenary troops.
+They consisted partly of citizens and foreigners.
+All of them were equally hired and paid by the state.
+From the time of the siege of Veii, the Roman armies received pay while they remained in the field.
+Under the feudal governments, the military service of the great lords and of their dependants was universally exchanged for a payment in money which maintained those who served.
 
 
-25 The best militias are those which go to war under the same chieftains whom they obey in peace, like the Mongol or Arab militia.
+10 Fewer people can go to war in a civilized society than one in a rude state.
 
-    They are almost similar to to standing armies in terms of= 
-        respect for their officers, and
-        discipline.
-    When the highland militia served under its own chieftains, it had some advantage of this kind.
-        The highlanders were stationary shepherds who all had a fixed habitation.
-    In peacetime, they were not accustomed to follow their chieftain from place to place
-        In wartime, they were less willing to follow him to a far distance or for a long time in the field.
-    When they had acquired any booty they were eager to return home, and his authority was seldom sufficient to detain them.
-    In point of obedience they were always much inferior to what is reported of the Mongols and Arabs.
-    As the highlanders too, from their stationary life, spend less of their time in the open air, they were always less used to military exercises, and were less expert in the use of their arms than the Mongols and Arabs are.
+In a civilized society, the soldiers are maintained by those who are not soldiers.
+The number of soldiers can never exceed what the non-soldiers can maintain.
+In the little agrarian states of ancient Greece, 1/4 or 1/5 of the people are soldiers.
+In modern Europe, not more than 1% of the people of any country can be soldiers without ruining the country which pays their expences.
 
 
-26 A militia which has served for several successive campaigns becomes a standing army.
+11 The cost of an army was not considerable in any nation until long after it fell entirely on the sovereign.
 
-The soldiers are every day exercised in the use of their arms.
-They are constantly under the command of their officers.
-They are habituated to the same prompt obedience as in standing armies.
-What they were before they took the field is of little importance.
-Should the war in America drag out through another campaign, the American militia may become a match for a standing army not inferior to the valour of the French and Spanish veterans of the last war.
+In all the ancient Greek republics, learning military exercises was a necessary part of education imposed by the state on every free citizen.
+In every city, there was a public field under the protection of the public magistrate where young people were taught exercises by different masters.
+This was the whole expence any Greek state ever had to prepare its citizens for war.
+The exercises of the Campus Martius in ancient Rome answered the same purpose of the Gymnasium in ancient Greece.
+Under the feudal governments, there many public ordinances promoting the practise archery and other military exercises to the citizens.
+
+They were universally neglected= 
+- from the lack of interest of the officers executing those ordinances, or
+- from some other cause.
+
+In all those governments, military exercises went gradually into disuse among the people.
+
+
+12 The trade of a soldier was not a separate distinct trade.
+
+It was not the sole or principal occupation of any citizen.
+This was true from the ancient Greek and Roman republics to the first feudal governments.
+Every subject of the state considered himself as a soldier during many extraordinary occasions.
+
+
+13 The art of war is certainly the noblest of all arts.
+
+In the progress of improvement, it necessarily becomes one of the most complicated.
+The mechanical and other arts connected to it determines its perfection.
+To make it perfect, it should be the sole or principal occupation of a class of citizens.
+The division of labour is necessary for the improvement of this art as in every other art.
+The division of labour is naturally introduced by the prudence of individuals.
+They find that they promote their private interest better by confining themselves to a particular trade than by exercising many.
+Only the state's wisdom can render the soldier's trade distinct from all others.
+A private citizen who spends his time in military exercises might= 
+    improve himself very much in them and
+    amuse himself very well.
+But he certainly would not promote his own interest.
+Only the state's wisdom can render it for his interest to give up most of his time to be a soldier.
+    States did not always have this wisdom even when their existence required it.
+
+
+14 A shepherd has much leisure. An artificer or manufacturer has none at all.
+
+<!-- In the rude state of husbandry, a husbandman has some leisure. -->
+
+The shepherd may spend much of his time in martial exercises without any loss. But an artificier or manufacturer cannot spend a single hour in martial exercises without some loss. This leads him to neglect martial exercises. 
+<!-- A husbandman may employ some of his time without any loss. -->
+
+<!-- His attention to his own interest naturally leads him to  -->
+The improvements in husbandry leave the husbandman as little leisure as the artificer.
+Military exercises become neglected by people in towns and in the countryside.
+The people becomes unwarlike.
+
+That wealth always follows the improvements of agriculture and manufactures.
+It is the accumulated produce of those improvements.
+It provokes the invasion of all their neighbours.
+
+An industrious and wealthy nation is the most likely to be attacked.Unless the state takes some new measures for its defence, the natural habits of the people render them incapable of defending themselves.

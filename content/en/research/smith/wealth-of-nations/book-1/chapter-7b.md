@@ -8,9 +8,8 @@ linkbtext=  "Chapter 7a"
 linkf=  "/research/smith/wealth-of-nations/book-1/chapter-8a"
 linkftext=  "Chapter 8a"
 icon=  "/icons/smith.png"
-
- version
 +++
+
 
 ## Keeping Up the Market Price Above the Natural Price through Secrets of Trade and Manufactures
 

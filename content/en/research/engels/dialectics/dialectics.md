@@ -1,9 +1,8 @@
 ---
-title: Introduction
-heading: Dialectics of Nature
+title: Dialectics
+heading: Part 2
 date: 2022-02-01
 description: Dialectics of Nature
-# image: "/graphics/mao.jpg"
 linkb: "/research/engels/dialectics/"
 linkbtext: "Index"
 linkf: "/research/engels/dialectics/"
@@ -13,18 +12,32 @@ icon: /icons/engels.png
 ---
 
 
-Engels' Dialectics of Nature
+The general nature of dialectics to be developed is the science of interconnections, in contrast to metaphysics.
 
-II. Dialectics
+The laws of dialectics are abstracted, therefore, from:
+- the history of nature and 
+- the history of human society. 
 
-(The general nature of dialectics to be developed as the science of interconnections, in contrast to metaphysics.)
-It is, therefore, from the history of nature and human society that the laws of dialectics are abstracted. For they are nothing but the most general laws of these two aspects of historical development, as well as of thought itself. And indeed they can be reduced in the main to three:
+These laws are nothing but the most general laws of these 2 aspects of historical development, as well as of thought itself. 
 
-The law of the transformation of quantity into quality and vice versa;
-The law of the interpenetration of opposites;
-The law of the negation of the negation.
+They can be reduced to 3 developed by Hegel in his idealist fashion as mere laws of thought:
 
-All three are developed by Hegel in his idealist fashion as mere laws of thought: the first, in the first part of his Logic, in the Doctrine of Being; the second fills the whole of the second and by far the most important part of his Logic, the Doctrine of Essence; finally the third figures as the fundamental law for the construction of the whole system. The mistake lies in the fact that these laws are foisted on nature and history as laws of thought, and not deduced from them. This is the source of the whole forced and often outrageous treatment; the universe, willy-nilly, is made out to be arranged in accordance with a system of thought which itself is only the product of a definite stage of evolution of human thought. If we turn the thing round, then everything becomes simple, and the dialectical laws that look so extremely mysterious in idealist philosophy at once become simple and clear as noonday.
+1. The law of the transformation of quantity into quality and vice versa
+
+This is his Doctrine of Being, and is the first part of his Logic.
+
+2. The law of the interpenetration of opposites
+
+This is his Doctrine of Essence and is the most important part of his Logic
+
+3. The law of the negation of the negation.
+ 
+This is the fundamental law for the construction of the whole system
+
+
+His mistake lies in the fact that these laws are foisted on nature and history as laws of thought, and not deduced from them. This is the source of the whole forced and often outrageous treatment; the universe, willy-nilly, is made out to be arranged in accordance with a system of thought which itself is only the product of a definite stage of evolution of human thought. 
+
+If we turn the thing round, then everything becomes simple, and the dialectical laws that look so extremely mysterious in idealist philosophy at once become simple and clear as noonday.
 
 Moreover, anyone who is even only slightly acquainted with his Hegel will be aware that in hundreds of passages Hegel is capable of giving the most striking individual illustrations from nature and history of the dialectical laws.
 
@@ -52,20 +65,20 @@ In physics, bodies are treated as chemically unalterable or indifferent; we have
 
 The sphere, however, in which the law of nature discovered by Hegel celebrates its most important triumphs is that of chemistry. Chemistry can be termed the science of the qualitative changes of bodies as a result of changed quantitative composition. That was already known to Hegel himself (Logic, Collected Works, III, p. 488). As in the case of oxygen: if three atoms unite into a molecule, instead of the usual two, we get ozone, a body which is very considerably different from ordinary oxygen in its odour and reactions. Again, one can take the various proportions in which oxygen combines with nitrogen or sulphur, each of which produces a substance qualitatively different from any of the others! How different laughing gas (nitrogen monoxide N2O) is from nitric anhydride (nitrogen pentoxide, N2O5) ! The first is a gas, the second at ordinary temperatures a solid crystalline substance. And yet the whole difference in composition is that the second contains five times as much oxygen as the first, and between the two of them are three more oxides of nitrogen (N0, N2O3, NO2), each of which is qualitatively different from the first two and from each other.
 
-This is seen still more strikingly in the homologous series of carbon compounds, especially in the simpler hydrocarbons. Of the normal paraffins, the lowest is methane, CH4; here the four linkages of the carbon atom are saturated by four atoms of hydrogen. The second, ethane, C2H6, has two atoms of carbon joined together and the six free linkages are saturated by six atoms of hydrogen. And so it goes on, with C3H8, C4H10, etc., according to the algebraic formula CnH2n+2, so that by each addition of CH2 a body is formed that is qualitatively distinct from the preceding one. The three lowest members of the series are gases, the highest known, hexadecane, C16H34, is a solid body with a boiling point of 270º C. Exactly the same holds good for the series of primary alcohols with formula CnH2n+20, derived (theoretically) from the paraffins, and the series of monobasic fatty acids (formula CnH2nO2). What qualitative difference can be caused by the quantitative addition of C3H6 is taught by experience if we consume ethyl alcohol, C2H12O, in any drinkable form without addition of other alcohols, and on another occasion take the same ethyl alcohol but with a slight addition of amyl alcohol, C5H12O, which forms the main constituent of the notorious fusel oil. One's head will certainly be aware of it the next morning, much to its detriment; so that one could even say that the intoxication, and subsequent "morning after" feeling, is also quantity transformed into quality, on the one hand of ethyl alcohol and on the other hand of this added C3H6.
+This is seen still more strikingly in the homologous series of carbon compounds, especially in the simpler hydrocarbons. Of the normal paraffins, the lowest is methane, CH4; here the four linkages of the carbon atom are saturated by four atoms of hydrogen. The second, ethane, C2H6, has two atoms of carbon joined together and the six free linkages are saturated by six atoms of hydrogen. 
+
+And so it goes on, with C3H8, C4H10, etc., according to the algebraic formula CnH2n+2, so that by each addition of CH2 a body is formed that is qualitatively distinct from the preceding one. The three lowest members of the series are gases, the highest known, hexadecane, C16H34, is a solid body with a boiling point of 270º C. Exactly the same holds good for the series of primary alcohols with formula CnH2n+20, derived (theoretically) from the paraffins, and the series of monobasic fatty acids (formula CnH2nO2). What qualitative difference can be caused by the quantitative addition of C3H6 is taught by experience if we consume ethyl alcohol, C2H12O, in any drinkable form without addition of other alcohols, and on another occasion take the same ethyl alcohol but with a slight addition of amyl alcohol, C5H12O, which forms the main constituent of the notorious fusel oil. One's head will certainly be aware of it the next morning, much to its detriment; so that one could even say that the intoxication, and subsequent "morning after" feeling, is also quantity transformed into quality, on the one hand of ethyl alcohol and on the other hand of this added C3H6.
 
 In these series we encounter the Hegelian law in yet another form. The lower members permit only of a single mutual arrangement of the atoms. If, however, the number of atoms united into a molecule attains a size definitely fixed for each series, the grouping of the atoms in the molecule can take place in more than one way; so that two or more isomeric substances can be formed, having equal numbers of C, H, and 0 atoms in the molecule but nevertheless qualitatively distinct from one another. We can even calculate how many such isomers are possible for each member of the series. Thus, in the paraffin series, for C4H10 there are two, for C6H12 there are three; among the higher members the number of possible isomers mounts very rapidly. Hence once again it is the quantitative number of atoms in the molecule that determines the possibility and, in so far as it has been proved, also the actual existence of such qualitatively distinct isomers.
 
 Still more. From the analogy of the substances with which we are acquainted in each of these series, we can draw conclusions as to the physical properties of the still unknown members of the series and, at least for the members immediately following the known ones, predict their properties, boiling point, etc., with fair certainty.
 
-Finally, the Hegelian law is valid not only for compound substances but also for the chemical elements themselves. We now know that "the chemical properties of the elements are a periodic function of their atomic weights" (Roscoe-Schorlemmer, Complete Text-Book of Chemistry, II, p. 823), and that, therefore, their quality is determined by the quantity of their atomic weight. And the test of this has been brilliantly carried out. Mendeleyev proved that various gaps occur in the series of related elements arranged according to atomic weights indicating that here new elements remain to be discovered. He described in advance the general chemical properties of one of these unknown elements, which he termed eka-aluminium, because it follows after aluminium in the series beginning with the latter, and he predicted its approximate specific and atomic weight as well as its atomic volume. A few years later, Lecoq de Boisbaudran actually discovered this element, and Mendeleyev's predictions fitted with only very slight discrepancies. Eka-aluminium was realised in gallium (ibid., p. 828). By means of the - unconscious - application of Hegel's law of the transformation of quantity into quality, Mendeleyev achieved a scientific feat which it is not too bold to put on a par with that of Leverrier in calculating the orbit of the still unknown planet Neptune.
+Finally, the Hegelian law is valid not only for compound substances but also for the chemical elements themselves. We now know that "the chemical properties of the elements are a periodic function of their atomic weights" (Roscoe-Schorlemmer, Complete Text-Book of Chemistry, II, p. 823), and that, therefore, their quality is determined by the quantity of their atomic weight. And the test of this has been brilliantly carried out. Mendeleyev proved that various gaps occur in the series of related elements arranged according to atomic weights indicating that here new elements remain to be discovered. 
+
+He described in advance the general chemical properties of one of these unknown elements, which he termed eka-aluminium, because it follows after aluminium in the series beginning with the latter, and he predicted its approximate specific and atomic weight as well as its atomic volume. A few years later, Lecoq de Boisbaudran actually discovered this element, and Mendeleyev's predictions fitted with only very slight discrepancies. Eka-aluminium was realised in gallium (ibid., p. 828). By means of the - unconscious - application of Hegel's law of the transformation of quantity into quality, Mendeleyev achieved a scientific feat which it is not too bold to put on a par with that of Leverrier in calculating the orbit of the still unknown planet Neptune.
 
 In biology, as in the history of human society, the same law holds good at every step, but we prefer to dwell here on examples from the exact sciences, since here the quantities are accurately measurable and traceable.
 
 Probably the same gentlemen who up to now have decried the transformation of quantity into quality as mysticism and incomprehensible transcendentalism will now declare that it is indeed something quite self-evident, trivial, and commonplace, which they have long employed, and so they have been taught nothing new.
 
 But to have formulated for the first time in its universally valid form a general law of development of nature, society, and thought, will always remain an act of historic importance. And if these gentlemen have for years caused quantity and quality to be transformed into one another, without knowing what they did, then they will have to console themselves with Moliere's Monsieur Jourdain who had spoken prose all his life without having the slightest inkling of it.
-
- 
-
-Contents | next section | Marx Engels Archive

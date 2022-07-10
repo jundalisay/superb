@@ -24,12 +24,17 @@ The Corona virus disease began in January in Wuhan, China just before the Lunar 
 
 This all changed from February 20 when it spread into Iran and Italy. By March 11, the World Health Organization declared it as a pandemic. As of May 26, or 5 months in, there have been 5.4 million cases and 345, 000 deaths. In 5 months, Covid-19 would have killed a similar amount of people as the military deaths in World War II among the British.
 
+A hidden contributor to the early spread of Covid were the sudden promo fares launched by airlines in February and early March. Covid already impacted airlines because of it coincided with the Lunar New Year Holidays. To get more passengers, the airlines aggresively cut fares which then spurred international travel, allowing the virus to spread.    
+
 
 ## Western Medicine Offers No Real Solution*
 
-A big contributor to the huge number of deaths is the inability of Western Medicine to prevent or cure Covid-19. Some doctors think of it as a pulmonary disease, while others as an autoimmune disorder because of its cytokine storms, and still others think of it as a blood disease because of the stroke that it causes. To them, the best preventive measure is to wear masks and personal protective equipment.
+While the airlines spread Covid, it was the inability of Western Medicine to prevent or cure it that led to the huge number of deaths. 
+
+Some doctors think of it as a pulmonary disease, while others as an autoimmune disorder because of its cytokine storms. Still others think of it as a blood disease because of the stroke that it causes. To them, the best preventive measure is to wear masks and personal protective equipment.
 
 > *Update May 2021: To say that vaccines are the solution is useless to those who have died waiting for the vaccine. For example, India is the biggest producer of vaccines, yet have suffered the most from the spike in April 2021. Vaccines, together with booster shots, are a workaround, not a solution.
+
 
 The reason why Western Medicine cannot solve viruses quickly and easily is because it relies on physical observation to prove the nature of phenomena. This is fine when it comes to obvious diseases like clogged arteries or bacterial infection which the eyes can see easily. But it is useless for viruses and mental health issues, since the eyes cannot see nanometer-sized particles nor observe another person’s mind. 
 

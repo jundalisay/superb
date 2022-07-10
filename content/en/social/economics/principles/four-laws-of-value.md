@@ -1,5 +1,6 @@
 ---
 title: "The Four Laws of Value and Four Kinds of Prices"
+linkTitle: The 4 Laws of Value
 heading: Nominal, Real, Natural, Market Prices
 date: 2022-01-05
 dateorig: Originally written in 2016
@@ -49,7 +50,7 @@ The economic value of a bridge, for example, is more abstract than its cost-pric
 - The economic value has a range such as $1b-$1.5b over 10 years
 - It cost price is a specific number such as $100m, paid in 2010
 
-Value thus has the same dynamics as fluctuating waves, while price has the dynamics of fixed particles. Value is more fundamental* than prices just as waves are more fundamental than particles. If value were a moving desire-entity, then price would be a snapshot of that desire taken at a certain time.
+**Value thus has the same dynamics as fluctuating waves, while price has the dynamics of fixed particles.** Value is more fundamental* than prices just as waves are more fundamental than particles. If value were a moving desire-entity, then price would be a snapshot of that desire taken at a certain time.
 
 > *This is proven by the Japanese character for value and those for price 値段. Fundamental perceptions like person 人 and day 日 get one character, while their derivative ideas like Chinese person 中国人 and Monday 月曜日 have characters added to them.
 
@@ -90,8 +91,35 @@ The Celsius degrees in thermodynamics then manifest as dollar prices in Pantryno
 > *Such a mess is what happens when people build something in an uncoordinated way or without looking at the very big picture. In contrast, our Pantrynomics is a subset of Social Superphysics which is itself a subset of Superphysics
 
 
+## The 4 Laws of Value and the 4 Prices
+
+These four laws of value are:
+
+1. **Everything in the universe has value, otherwise it would not exist**
+
+This law leads to the concept of Nominal price.
+
+![First Law](/graphics/econ/law1.jpg)
+
+2. **Value goes from areas with high value to areas with low value in order to spread out the value and remove lack, since Nature abhors a vacuum**
+
+This law leads to the concept of Real price, and dynamism.
+
+![Second Law](/graphics/econ/law2.jpg)
+
+3. Economic value is transferred through fair exchange whether it be through money, barter, points, promises, etc
+
+This law leads to the concept of Market price.
+
+![Third Law](/graphics/econ/law3.jpg)
+
+4. There must be balance in any economy, whether it be a family, company, or nation
+
+This law leads to the concept of Natural price, a violation of which leads to crises.
+
+![Fourth Law](/graphics/econ/law4.jpg)
+
 
 ## Onto the First Law
 
 The next post will explain the first law of value as nominal value.
-

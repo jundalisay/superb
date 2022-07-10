@@ -3,7 +3,7 @@ title: The General Formula for Capital
 heading: Capital Volume One
 date: 2022-02-01
 description: The General Formula for Capital
-# image: "/graphics/mao.jpg"
+
 linkb: "/research/marx/capital/"
 linkbtext: "Index"
 linkf: "/research/marx/capital/"

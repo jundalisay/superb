@@ -15,7 +15,7 @@ aliases:
 ---
 
 
-Our model, derived from the principles laid by David Hume, Adam Smith, and Socrates, designated 2019 as the spark of a global stagflation. 
+Our model, derived from the principles laid by David Hume, Adam Smith, and Socrates, designated 2019 as the start of a global stagflation. 
 
 This stagflation will increase from 2020 onwards up to 2030 when it will reach its peak, culminating in some kind of conflict. A stagflation is a phenomenon which has low employment and output while having high prices at the same time.
 
@@ -33,9 +33,14 @@ According to Eastern social cycle theory, history repeats itself because humans 
 {{< img src="/icons/tao.png" cap="There are only two forces in the universe. All perceivable forces, such as gravrity, electromagnetism, love & hatred, are versions or 'modes' of those two" alt="Yin Yang symbol" >}}
 
 
-In Taoism, this duality is called Yin and Yang. In Hinduism, it is called Shiva and Shakti. In Western Christian philosophy, this is roughly similar to God and the Devil*. This interaction between the two forces creates a recurring pattern while their existence is in force, just as the two forces of the Sun and outer space create a tug-of-war for the Earth manifesting as its orbital pattern. We will use the name Shiva-Shakti since its principles are better known, so that a gravitation that pulls the Earth to the sun is a 'Shakti-force', while the vastness of space is a 'Shiva-force'.
+- In Taoism, this duality is called Yin and Yang
+- In Hinduism, it is called Shiva and Shakti
+- In Western Christian philosophy, this is roughly similar to God and the Devil*
 
-> We make this absurd analogy just to associate the eastern idea to something familiar to the reader (who we assume is Christian since this article is in English). We do not need to make this analogy in the Chinese or Vietnamese versions.
+> *We make this absurd analogy just to associate the eastern idea to something familiar to the reader (who we assume is Christian since this article is in English). We do not need to make this analogy in the Chinese or Vietnamese versions.
+
+
+This interaction between the 2 forces creates a recurring pattern while their existence is in force, just as the 2 forces of the Sun and outer space create a tug-of-war for the Earth manifesting as its orbital pattern. We will use the name *Shiva-Shakti* since its principles are better known, so that a gravitation that pulls the Earth to the sun is a 'Shakti-force', while the vastness of space is a 'Shiva-force'.
 
 
 ## Social Cycles
@@ -50,9 +55,14 @@ The combination of all your individual experiences makes up your metaphysical se
 
 When all the individual experiences of all the people (self-organisms) in your country are combined, the result is a larger metaphysical organism called a society. This has its own soul which can call the 'soul of society'. Each personal-soul has a conscience just as every society-soul has a common interest. 
 
-Each society-organism then expresses its collective experiences as events, just as a personal-soul expresses itself through action. A stock bubble is a manifestation of a society-organism wanting or choosing stocks (as shiva-force). A presidential election is a society-organism choosing a leader (also as shiva). A war is a manifestation of a society-organism wanting a fight (shakti-force) with other society-organisms, and so on.
+Each society-organism then expresses its collective experiences as events, just as a personal-soul expresses itself through action.
+- A stock bubble is a manifestation of a society-organism wanting or choosing stocks (as shiva-force)
+- A presidential election is a society-organism choosing a leader (also as shiva)
+- A war is a manifestation of a society-organism wanting a fight (shakti-force) with other society-organisms, and so on
 
-Through time, these desires and experiences form a pattern which manifest as social cycles. This represents the force from the metaphysical Creator of humans (shiva) and the physical Nature where humans exist (shakti). Our social cycle model applies on all events, but is easiest applied on presidential elections and economic events since they have very granular and detailed data as votes and prices, respectively. It can even be applied on sporting events* because a team is also a society-organism made up of its team members and the score is the objective data that can be modeled, with the two forces being the desire of each team.
+Through time, these desires and experiences form a pattern which manifest as social cycles. This represents the force from the metaphysical Creator of humans (shiva) and the physical Nature where humans exist (shakti). 
+
+Our social cycle model applies on all events, but is easiest applied on presidential elections and economic events since they have very granular and detailed data as votes and prices, respectively. It can even be applied on sporting events* because a team is also a society-organism made up of its team members and the score is the objective data that can be modeled, with the two forces being the desire of each team.
 
 > *According to this principle, between two equally matched teams, the date and time of the sporting event decides the winner. This negates home-court advantage and explains why teams can win away from home.
 
@@ -83,7 +93,7 @@ The Great Depression began as the "Roaring Twenties" which degraded into a long 
 The ultimate cause of the depression was that the rich people from the Roaring Twenties wanted to be even richer, so they invented stock speculation (borrowing on margin) and imposed tariffs on imported goods. But Adam Smith said that societies have a natural level of productivity. If you exceed this level, you will be getting nothing back, and this nothingness (no revenue to match the investment) manifests as a crash. And that's exactly what happened inthe Great Crash of 1929.
 
 {{< quote ava="smith" >}}
-<p>In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by theirunnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they aretoo eager to become excessively rich.</p>
+<p>In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by their unnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they aretoo eager to become excessively rich.</p>
 <cite>The Wealth Of Nations Book 5</cite>
 {{< /quote >}}
 

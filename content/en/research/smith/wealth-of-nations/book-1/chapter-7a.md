@@ -11,6 +11,7 @@ linkftext=  "Chapter 7b"
 icon=  "/icons/smith.png"
 +++
 
+
 {{< s v="1" >}} Average rates of wages and profits exist in all societies. These are naturally regulated by= 
 the society's= 
 - general circumstances,

@@ -11,6 +11,7 @@ linkftext: "Chapter 1b"
 icon: "/flags/br.png"
 ---
 
+
 ## Section I The National Congress
 
 Article 44.  The Legislative Power is exercised by the National Congress, composed of:
