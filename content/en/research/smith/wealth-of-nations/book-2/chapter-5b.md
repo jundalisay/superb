@@ -46,25 +46,25 @@ A trader's capital sends British goods to Portugal and brings back Portuguese go
 The foreign trade of consumption will only give half the encouragement to national industry as the home trade, even if its returns were as quick as the home-trade.
 
 
-27 But the returns of the foreign trade of consumption are very seldom as quick as those of the home-trade. The returns of the home-trade come in before the end of the year. It comes three or four times in the year.
+{{< s v="27" >}} But the returns of the foreign trade of consumption are very seldom as quick as those of the home-trade. The returns of the home-trade come in before the end of the year. It comes three or four times in the year.
     
 The returns of the foreign trade of consumption seldom come in before the end of the year. It sometimes comes after two or three years. A capital employed in the home-trade can make 12 operations.
 
 It can be sent out and return 12 times, before that of the foreign trade of consumption has made one. If the capitals are equal, the home trade will give 24 times more encouragement to the country's industry than the foreign trade.
 
 
-28 The foreign goods for home-consumption may sometimes be bought with other foreign goods. Those other foreign goods must be bought immediately with domestic produce because foreign goods can only be bought with domestic goods, except during war and conquest.
+{{< s v="28" >}} The foreign goods for home-consumption may sometimes be bought with other foreign goods. Those other foreign goods must be bought immediately with domestic produce because foreign goods can only be bought with domestic goods, except during war and conquest.
 
 The effects of a round-about foreign trade are the same as a direct foreign trade. Except that the final returns will likely be more distant because they must depend on the returns of two or three other foreign trades.
 
-Assuming= 
+Assuming:
 - British manufactures are used to buy Virginia tobacco
 - Virginia tobacco is used to buy the flax & hemp of Latvia [Riga].
 
 The merchant must wait for the returns of Virginia tobacco and the flax & hemp of Latvia before he can re-purchase British manufactures.
 
 
-Assuming= 
+Assuming:
 - British manufactures are used to buy Jamaican sugar & rum instead,
 - Jamaican sugar & rum are used to buy Virginia tobacco, and
 - Virginia tobacco are used to buy the flax & hemp of Latvia.

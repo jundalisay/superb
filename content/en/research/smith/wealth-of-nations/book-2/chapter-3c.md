@@ -56,7 +56,8 @@ Those unproductive hands might consume so much of the society's revenue that the
 - All the frugality and good conduct of individuals might not be enough to compensate this waste<!-- created by this forced encroachment -->.
 
 
-32 This frugality and good conduct is enough to compensate= 
+
+{{< s v="32" >}} This frugality and good conduct is enough to compensate= 
 - private prodigality and misconduct
 - government extravagance
 
@@ -66,22 +67,23 @@ This principle* is frequently powerful enough to maintain the natural progress o
 - the extravagance of government, and
 - the greatest errors of administration.
 
-> *Translator's note=  In Hinduism, this principle is known as shakti
+> *Translator's note: In Hinduism, this principle is known as shakti
 
 This is similar to the unknown principle of animal life which frequently restores health and vigour in spite of= 
 - the disease, and
 - the doctor’s absurd prescriptions.
 
-> *Translator's note=  In Hinduism, this principle is known as prana
+> *Translator's note: In Hinduism, this principle is known as prana
 
 
-32 A nation's produce can be increased in value only by increasing the quantity of productive workers or the quality of productive powers.
+
+{{< s v="32" >}} A nation's produce can be increased in value only by increasing the quantity of productive workers or the quality of productive powers.
 
 This incease requires the increase of capital in the form of= 
 - additions and improvements to those machines which facilitate labour, and
 - a more proper division and distribution* of employment
 
-> *Translator's note=  This is what the Pantry network, with ISAIAH Match, is supposed to do 
+> *Translator's note: This is what the Pantry network, with ISAIAH Match, is supposed to do 
 
 
 In either case, an additional capital is almost always needed. **Much more capital is needed to keep each worker constantly employed when labour is greatly divided, than where labour is undivided.**
@@ -95,4 +97,3 @@ When a country's produce is greater this year than last year, it means=
 Normally, this is true for most nations, even those without prudent governments. To prove this, we can compare a country at distant time periods. Improvement is not obvious in the short term because progress is frequently very gradual.
 
 <!-- People frequently suspect that the country’s riches and industry are decaying from the decline of certain industries even in prosperous times. -->
-

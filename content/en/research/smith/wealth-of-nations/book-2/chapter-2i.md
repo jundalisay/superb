@@ -17,7 +17,7 @@ icon=  "/icons/smith.png"
 The design was generous but the execution was imprudent.
 It did not understand the nature and causes of the distress it meant to relieve.
 
-Compared to any other bank, it was more liberal in= 
+Compared to any other bank, it was more liberal in:
 - in granting cash accounts and
 - in discounting bills of exchange
 
@@ -74,10 +74,14 @@ But it only caused them to get so much deeper into debt.
 
 When ruin came, it fell so much heavier on the entrepreneurs and their creditors.
 In the long-run, this bank aggravated the distress imposed by those entrepreneurs on themselves and their country.
+
 It would have been much better for themselves, their creditors, and their country, if most of them had stopped two years sooner.
 The temporary relief this bank gave to those entrepreneurs was a permanent relief for the other Scotch banks.
+
 All the bad bills of exchange which the Scotch banks were so backward in discounting, went to this new bank where they were received with open arms.
+
 Those other banks easily got out of that fatal circle which would have caused them loss and discredit.
+
 
 {{< s v="75" >}} In the long-run, the operations of this bank increased the real distress of the country it meant to relieve.
 
@@ -90,11 +94,12 @@ They later realized that raising money by security was too slow to refill their 
 They were forced to draw bills upon London, paid with other drafts with accumulated interest and commission.
 The bills let them raise money quickly, but led to a loss each time.
 In the long-run, they ruined themselves as a mercantile company, but not as fast as by the more expensive practice of drawing and redrawing.
+
 They made nothing by the interest of the paper because it was in excess of what was needed by the national circulation.
 The paper returned to them to be exchanged for gold and silver as fast as they issued it.
 Their shortage of metal money continually obliged them to borrow metal money.
 
-They would have lost from the cost of= 
+They would have lost from the cost of:
 - this method of borrowing, and
 - employing agents to look for and negotiate with people who had money to lend, drawing the proper bond or assignment.
 
@@ -103,7 +108,7 @@ Replenishing their coffers in this way may be compared to a man who employed peo
 
 ### Too Big To Fail
 
-77 The country derived no benefit from this operation even if it was practicable and profitable to the bank as a mercantile company.
+{{< s v="77" >}} The country derived no benefit from this operation even if it was practicable and profitable to the bank as a mercantile company.
 
 On the contrary, the country suffered a very considerable loss by it.
 This operation could not augment the amount of money to be lent.
@@ -111,16 +116,17 @@ This bank became a sort of general loan office for the whole country.
 Those who wanted to borrow applied to this bank, instead of applying to private persons.
 But a bank which lends money to 500 people is not likely to be more judicious than a private person who lends to a few people whom he knows.
 
-Most of the debtors of such a bank would likely be chimerical entrepreneurs. They would= 
+Most of the debtors of such a bank would likely be chimerical entrepreneurs. They would:
 - be the drawers and re-drawers of circulating bills of exchange.
 - employ money in extravagant projects which they would probably never be completed.
 
 Even if those projects were completed, they would never repay their cost. Those projects would not afford a fund to maintain the labour employed to make them.
 
-On the contrary, the sober and frugal debtors of private persons would be more likely to employ the money borrowed in sober projects. Their projects would= 
+On the contrary, the sober and frugal debtors of private persons would be more likely to employ the money borrowed in sober projects. Their projects would:
 - be proportional to their capitals,
 - be less marvelous but be more solid and profitable,
 - afford a fund to maintain more labour.
 
 The success of this bank would not increase the country's capital.
+
 It would only have transferred most of the national capital from prudent and profitable, to imprudent and unprofitable undertakings.

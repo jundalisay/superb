@@ -12,6 +12,7 @@ linkftext=  "Chapter 2l"
 icon=  "/icons/smith.png"
 +++
 
+
 {{< s v="79" >}} The Bank of England is the biggest bank of circulation in Europe.
 
 It was incorporated by a charter under the Great Seal on July 27, 1694. It then lent to government £1.2 million in exchange for an annuity of £100,000 composed of= 
@@ -60,17 +61,19 @@ In pursuance of the 8th of George 1st, Chapter 21 in 1721, the bank bought £4m 
 
 In 1722, its capital stock was increased by £3.4m because of the purchase.
 
-At this time, therefore= 
+At this time, therefore:
 - the bank had lent £9,375,027 to the government, [£5.37m + £4m]
 - but the bank's capital stock was only £8,959,995. [£5.5m + 3.4 m]
 
 The sum lent to the government, and for which it received interest, began to exceed its capital stock.
 Its capital stock is the source of the dividends paid to the owners of the bank stock.
+
 In other words, the Bank began to have an undivided capital, in excess of its divided capital stock.
 It has continued to have the same kind of undivided capital ever since.
 
 In 1746, the Bank had lent £11,686,800 to the government.
 Its divided capital has been raised to £10,780,000 by different calls and subscriptions.
+
 The state of those two sums has continued to be the same ever since.
 In pursuance of the 4th of George 3rd, Chapter 25 in 1763, the Bank paid £110,000 to the government for the renewal of its charter.
 This sum, therefore, did not increase those two other sums.
@@ -85,9 +88,10 @@ For some years past, the bank dividend has been at 5.5%.
 {{< s v="85" >}} The stability of the Bank of England is equal to the stability of the British government.
 
 All that it has lent to the government must be lost before its creditors can sustain any loss.
-No other banking company in England can= 
-be established by an act of Parliament, or
-consist of more than six members.
+
+No other banking company in England can:
+- be established by an act of Parliament, or
+- consist of more than six members.
 
 It acts as an:
 - a great engine of state, and
@@ -95,10 +99,11 @@ It acts as an:
 It receives and pays most of the annuities due to the creditors of the government.
 It circulates exchequer bills.
 It advances to government the land and malt taxes which are not paid up until some years after.
+
 In these operations, its duty to the public may sometimes have obliged it, without any fault of its directors, to oversupply paper money.
-an ordinary bank= 
-It discounts merchants' bills.
-It has supported the credit of the principal houses of England, Hamburgh, and Holland.
+an ordinary bank:
+- It discounts merchants' bills.
+- It has supported the credit of the principal houses of England, Hamburgh, and Holland.
 
 In 1763, it is said to have lent around £1.6m in one week, mostly in bullion.
 I do not warrant this sum nor the timespan.

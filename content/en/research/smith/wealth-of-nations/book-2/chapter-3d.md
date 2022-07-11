@@ -32,7 +32,7 @@ Many of them were written by very intelligent people who wrote what they believe
 - It was more improved at the Saxon Heptarchy than at the invasion of Julius Cæsar, when its inhabitants were the same as savages in North America.
 
 
-35 In each of those periods, there was much private and public profusion. There were many expensive and unnecessary wars. Such absolute waste and destruction of stock during those times= 
+{{< s v="35" >}} In each of those periods, there was much private and public profusion. There were many expensive and unnecessary wars. Such absolute waste and destruction of stock during those times:
 - retarded the natural accumulation of riches, and
 - rendered the country poorer than at the beginning.
 
@@ -58,13 +58,13 @@ The value of the country’s annual produce would have considerably increased ev
 The country could have reached unimaginable heights of wealth.
 
 
-36 The wastefulness of government retarded, but was unable to stop, England's natural progress towards wealth.
+{{< s v="36" >}} The wastefulness of government retarded, but was unable to stop, England's natural progress towards wealth.
 
 - Its national produce is currently much greater than it was at the Restoration or at the Revolution.
 - Its annual capital must be much greater.
   - Despite all the exactions of government, this capital was silently and gradually accumulated by the private frugality and good conduct of individuals from their universal, continual, and uninterrupted effort to better their own condition.
 
-This effort was= 
+This effort was:
 - protected by law, and
 - allowed by liberty to exert itself in the most advantageous way.
 

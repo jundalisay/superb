@@ -47,7 +47,8 @@ distance and probability of the term of its final discharge and redemption.
 
 However, such a law is so unjustly complained of in the colonies.
 
-102 Pennsylvania was always more moderate in its creations of paper money than any other of our colonies.
+
+{{< s v="102" >}} Pennsylvania was always more moderate in its creations of paper money than any other of our colonies.
 
 Its paper currency never sunk below the value of the gold and silver in the colony before the first creation of its paper money.
 Before that creation, the colony raised its coin denomination.
@@ -65,7 +66,7 @@ However, they found that=
 - their gold and silver were exported as fast as ever.
 
 
-103 The paper of each colony was used to pay the provincial taxes at its original value.
+{{< s v="103" >}} The paper of each colony was used to pay the provincial taxes at its original value.
 
 This gave it some additional value over and above the length of time for its final redemption.
 - This additional value depended on whether the amount of paper issued was in excess of what could be used to pay taxes.
@@ -88,7 +89,8 @@ This is why they say that its bank money sells for a premium, or bears an agio o
 
 However, this account of the bank of Amsterdam is mostly imaginary.
 
-105 A paper currency which falls below the value of gold and silver coin does not sink the value of those metals.
+
+{{< s v="105" >}} A paper currency which falls below the value of gold and silver coin does not sink the value of those metals.
 
 It does not cause equal quantities of them to exchange for fewer goods.
 The proportion between the value of gold and silver and the value of goods depends on the fertility of the gold and silver mines.
@@ -97,16 +99,17 @@ It depends on the proportion between the amount of labour needed=
 to bring gold and silver to market, and
 to bring a certain quantity of goods.
 
-106 Banks are considered perfectly free if= 
+
+{{< s v="106" >}} Banks are considered perfectly free if:
 
 - Their trade is done with safety to the public. 
-- Its bankers are= 
+- Its bankers are:
 	- restrained from issuing any bank notes for less than a certain sum, and
 	- obliged to pay immediate and unconditionally for bank notes when they are presented.
 
 The recent multiplication of banking companies in the United Kingdom has alarmed many people.
 
-Their free competition actually increases the security of the public by= 
+Their free competition actually increases the security of the public by: 
 - obliging all banks to be more circumspect in their own conduct,
   - This prevents them from extending their currency beyond its due proportion to their cash.
 	- This guards themselves against those malicious runs caused by their competitors.

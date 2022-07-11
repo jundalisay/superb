@@ -1,7 +1,7 @@
 ---
 title: "The Formation of Mind"
 # title: "Saiṋcara and Práńáh"
-heading: Chapter 1b 
+heading: Chapter 1c
 date: 2022-01-31
 description: "Mind is the collective name of the Identity-Layer, Ego-Layer, and mind-stuff"
 image: "/covers/ideology.jpg"
@@ -100,7 +100,7 @@ This is the centre-seeking or interial force that tries to maintain the object's
 
 
 ```elixir
-Energy = Static Activity + 5 Layers
+Energy = (Divisive Static Pressure from Activity + Unifying Static Pressure from Activity) 5 Layers
 ```
 
 #
@@ -112,7 +112,7 @@ Every solid factor has energy which is the eternal game between the Cosmic cause
 <!-- In práńa there exists an internal clash in which  -->
 
 Either of the 2 active forces may win. 
-- if the <!-- interial --> unifying <!-- centripetal --> forces win, then a nucleus is formed within the solid factor. This leads to a solid structure. The maintenance of its physical solidarity then depends on the external pressure from static Activity <!-- bala or --> <!-- external-static-pressure -->. 
+- if the <!-- interial --> unifying <!-- centripetal --> forces win, then a nucleus is formed within the solid factor. This leads to a solid structure. The maintenance of its physical solidarity then depends on the external pressure from static Activity <!-- bala or --> <!-- external-static-pressure -->.
 <!-- that is, if the resultant force created happens to be interial in character, -->
 - if the <!-- exterial --> divisive <!-- centrifugal --> forces win, no nucleus is formed
 

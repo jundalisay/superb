@@ -1,11 +1,11 @@
 ---
 title: "How is Life Created?"
-heading: Chapter 1 
+heading: Chapter 1e
 date: 2022-01-31
 description: "An environment for the unit structure is essentially required where all these 5 fundamental layers are available in requisite quantity. Life can get expression only under such a condition"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-01"
-linkbtext: "Chapter 1"
+linkb: "/research/indian/idea/chapter-01d"
+linkbtext: "Chapter 1d"
 linkf: "/research/indian/idea/chapter-02"
 linkftext: "Chapter 2"
 icon: "/icons/sarkar.jpg"

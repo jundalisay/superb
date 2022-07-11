@@ -1,15 +1,17 @@
 ---
-title: "Subtilification (Pratisaiṋcara) and Manah"
+title: "Subtilification (Pratisaiṋcara)"
+# and Manah
 heading: "Chapter 2 "
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-01c"
-linkbtext: "Chapter 1c"
-linkf: "/research/indian/idea/chapter-2"
-linkftext: "Chapter 2"
+linkb: "/research/indian/idea/chapter-01e"
+linkbtext: "Chapter 1e"
+linkf: "/research/indian/idea/chapter-2b"
+linkftext: "Chapter 2b"
 icon: "/icons/sarkar.jpg"
 ---
+
 
 <!-- The singular Self is the rudimental cause of all the diversities.  -->
 

@@ -9,7 +9,7 @@ linkb: "/research/indian/idea/chapter-02b"
 linkbtext: "Chapter 2b"
 linkf: "/research/indian/idea/chapter-03b"
 linkftext: "Chapter 3b"
-icon: /flags/in.png
+icon: "/icons/sarkar.jpg"
 ---
 
 

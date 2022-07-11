@@ -14,6 +14,7 @@ icon=  "/icons/smith.png"
 
 {{< s v="86" >}} The judicious operations of banking can increase a country’s industry, not by augmenting the country’s capital, but by rendering most of that capital productive.
 
+
 The money which a dealer keeps unemployed for answering occasional demands is dead stock.
 It produces nothing to him or to his country.
 The judicious operations of banking enable him to convert this dead stock into= 
@@ -22,6 +23,7 @@ The judicious operations of banking enable him to convert this dead stock into=
 - tools to work with,
 - provisions to work for, and
 - stock which produces something to himself and his country.
+
 
 The gold and silver money which circulates a country’s annual produce to its consumers is all dead stock, just like the dealer's ready money.
 It is a very valuable part of the country's capital.

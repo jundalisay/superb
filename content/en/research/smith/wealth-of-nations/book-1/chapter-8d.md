@@ -138,6 +138,7 @@ Our soldiers are not the most industrious people. Yet when they are liberally pa
 
 Before this stipulation, soldiers frequently overworked and hurt their health by mutual emulation and the desire of greater gain.
 
+
 ### No to Four-day Workweek
 
 Excessive work during four days of the week, is frequently the real cause of the idleness of the other three, so much complained of.

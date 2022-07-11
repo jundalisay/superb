@@ -98,7 +98,9 @@ The ultimate cause of the depression was that the rich people from the Roaring T
 {{< /quote >}}
 
 
-Suddenly, the US economy became nothing after 1929 and the US society-organism became weak. This empowered German, Italian, Japanese, and Soviet society-organisms to push their own ego-experiences as Nazism, Fascism, Bushido, and Communism respectively. This led to a metaphysical clash of ideas which sparked a physical world war*.
+Suddenly, the US economy became nothing after 1929 and the US society-organism became weak. This empowered German, Italian, Japanese, and Soviet society-organisms to push their own ego-experiences as Nazism, Fascism, Bushido, and Communism respectively. 
+
+This led to a metaphysical clash of ideas which sparked a physical world war*.
 
 
 > *David Hume wrote that mentality creates reality. This means if your society BELIEVES in an apocalypse or a war to end all wars, then such a war will eventually HAPPEN because the soul of society created it as a probability in the metaphysical dimension, waiting for deployment in physical reality. This is currently the case in the Middle East where Jews and Muslims believe in an 'end of days'. Such end of days actually happen during airstrikes (by the West) or suicide attacks (by the Islamists)  

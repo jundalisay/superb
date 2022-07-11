@@ -72,12 +72,12 @@ However, most of the capital of all such craftsmen are circulated in=
 They are repaid with a profit by the price of the work.
 
 
-9 In other works, more fixed capital is required. For example=  
+{{< s v="9" >}} In other works, more fixed capital is required. For example=  
 - in a big ironworks, the furnace, forge, and slit-mill are very expensive instruments
 - in coal-works and mines, the machinery for drawing out the water is even more expensive
 
 
-10 A farmer's agricultural tools are a fixed capital. He earns from his tools by keeping them.
+{{< s v="10" >}} A farmer's agricultural tools are a fixed capital. He earns from his tools by keeping them.
 
 The wages and maintenance of his labouring servants are a circulating capital. He parts with the wages that he gives to them and earns from their labour.
 
@@ -94,5 +94,4 @@ Their food is a circulating capital. Profit is made by parting with it to feed t
 The whole value of the seed is a fixed capital. It goes backwards and forwards between the ground and the granary. But it never changes masters and does not circulate. The farmer profits by its increase, not by its sale.
 
 
-11 The general stock of any society is the same with that of all its inhabitants. It naturally divides itself into the same three portions, each with a distinct function.
-
+{{< s v="11" >}} The general stock of any society is the same with that of all its inhabitants. It naturally divides itself into the same three portions, each with a distinct function.

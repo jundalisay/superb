@@ -1,15 +1,16 @@
-+++
-title=  "The Stock for Consumption and Fixed Capital"
-heading=  "Book 2, Chapter 1b"
-date=  2020-01-01
-image=  "/covers/wn.jpg"
-description=  "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-1a-capitals"
-linkbtext=  "Chapter 1a"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-1c-circulating"
-linkftext=  "Chapter 1b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Stock for Consumption and Fixed Capital"
+heading: "Book 2, Chapter 1b"
+date: 2020-01-01
+image: "/covers/wn.jpg"
+description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
+linkb: "/research/smith/wealth-of-nations/book-2/chapter-1a-capitals"
+linkbtext: "chapter 1a"
+linkf: "/research/smith/wealth-of-nations/book-2/chapter-1c-circulating"
+linkftext: "chapter 1c"
+icon: "/icons/smith.png"
+---
+
 
 
 ## The Stock for Consumption 
@@ -48,30 +49,35 @@ Of all the parts of the stock reserved for immediate consumption, those laid out
 - A stock of houses, well built and properly taken care of, may last many centuries. Their total consumption lasts longer. But they are still a stock reserved for immediate consumption as clothes or furniture.
 
 
-## Second Division=  The Fixed Capital
+## Second Division: The Fixed Capital
 
-13 The second division is the fixed capital.
+{{< s v="13" >}} The second division is the fixed capital.
 
 It affords a profit without circulating or changing masters.
 
-It consists chiefly of four articles= 
+It consists chiefly of 4 articles:
 
-14 Useful machines and tools  which facilitate and abridge labour.
-15 Profitable buildings which produce a revenue for= 
-    their proprietor who rents them out, and
-    their tenants who use them as shops, warehouses, workhouses, farmhouses, stables, granaries, etc.
+{{< s v="14" >}} Useful machines and tools  which facilitate and abridge labour.
+
+{{< s v="15" >}} Profitable buildings which produce a revenue for:
+- their proprietor who rents them out, and
+- their tenants who use them as shops, warehouses, workhouses, farmhouses, stables, granaries, etc.
 
 Unlike mere dwelling houses, these are instruments of trade.
 
-16 Improvements  of land in clearing, draining, enclosing, manuring, and rendering it proper for tillage.
-    An improved farm is the same as those useful machines.
-        It allows an equal circulating capital to afford more revenue.
-        It is equally advantageous and more durable than machines.
-        Its frequent cultivation are the only repairs it needs.
 
-17 Useful abilities of everyone in society.
-    The acquisition of such talents always costs the maintenance of the learner during his education.
-        It is a capital fixed and realized in his person.
-    Those talents form part of his fortune and the fortune of the society he belongs to.
-    The worker’s improved dexterity is the same as a machine which facilitates labour.
-        It has a cost which it repays with a profit.
+{{< s v="16" >}} Improvements  of land in clearing, draining, enclosing, manuring, and rendering it proper for tillage.
+
+An improved farm is the same as those useful machines.
+- It allows an equal circulating capital to afford more revenue.
+- It is equally advantageous and more durable than machines.
+- Its frequent cultivation are the only repairs it needs.
+
+
+{{< s v="17" >}} Useful abilities of everyone in society.
+
+The acquisition of such talents always costs the maintenance of the learner during his education.
+    It is a capital fixed and realized in his person.
+Those talents form part of his fortune and the fortune of the society he belongs to.
+The worker’s improved dexterity is the same as a machine which facilitates labour.
+    It has a cost which it repays with a profit.

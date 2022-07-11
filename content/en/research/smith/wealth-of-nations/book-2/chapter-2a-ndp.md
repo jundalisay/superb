@@ -60,7 +60,8 @@ The wages paid to create those materials may form part of the society's net reve
 The wages go to the workers' consumption.
 The produce goes to the consumption of other people, whose subsistence, conveniences, and amusements, are increased.
 
-7 The intention of the fixed capital is to increase productivity.
+
+{{< s v="7" >}} The intention of the fixed capital is to increase productivity.
 
 The same number of labourers and labouring cattle will raise more produce in an improved farm with the necessary buildings, fences, drains, communications, etc. than in an unimproved farm. In manufacturing, the same number of workers assisted with the best machinery, will create more goods than those with imperfect ones.
 
@@ -76,15 +77,17 @@ Let us say that the owner of a big factory employs 1,000 workers to maintain his
 - If he can reduce this expence to 500, he will naturally employ the other 500 in buying more materials to be processed by more workers.
 - The production will naturally increase, providing more advantage and convenience for society.
 
-8 The cost of maintaining the fixed capital in a country may be compared to the repairs in a private farm.
+
+{{< s v="8" >}} The cost of maintaining the fixed capital in a country may be compared to the repairs in a private farm.
 
 The cost of repairs may be needed to support the farm's produce and the gross and net rent for the landlord. When such costs are reduced without reducing the produce, the gross rent remains same, but the net rent increases.
 
-9 The cost of maintaining the fixed capital is excluded from the society's net revenue.
+
+{{< s v="9" >}} The cost of maintaining the fixed capital is excluded from the society's net revenue.
 
 The cost of maintaining the circulating capital is included in the society's net revenue. 
 
-The last three parts of circulating capital are= 
+The last 3 parts of circulating capital are:
 - provisions,
 - materials, and
 - finished work.
@@ -97,7 +100,8 @@ The circulating capital used to maintain fixed capital all goes to the stock for
 
 The maintenance of provisions, materials, and finished work withdraws from the society's net revenue only what is needed to maintain the fixed capital.
 
-10 The society's circulating capital in this respect is different from an individual's circulating capital.
+
+{{< s v="10" >}} The society's circulating capital in this respect is different from an individual's circulating capital.
 
 A person's circulating capital is totally excluded from his net revenue.
 - His net revenue must all consist in his profits to be realized as his stock for consumption.
@@ -108,14 +112,17 @@ Every person's circulating capital makes a part of his society's total circulati
 A merchant must not consume all of the goods that he himself sells.
 - But they may be consumed by other people who pay for them, with profits, without reducing their capital or that of the merchant.
 
-11 Therefore, money is the only part of the society's circulating capital, of which the maintenance can reduce their net revenue*.
 
-> *[Translator’s note=  Because money cannot be consumed nor be used for anything else]
+{{< s v="11" >}} Therefore, money is the only part of the society's circulating capital, of which the maintenance can reduce their net revenue*.
+
+> *[Translator’s note: Because money cannot be consumed nor be used for anything else]
 
 
-12 The fixed capital, and that circulating capital called money, are very similar to one another in affecting the society's revenue.
 
-13 Those machines and tools incur a cost to build and support. That cost is a deduction from the society's net revenue.
+{{< s v="12" >}} The fixed capital, and that circulating capital called money, are very similar to one another in affecting the society's revenue.
+
+
+{{< s v="13" >}} Those machines and tools incur a cost to build and support. That cost is a deduction from the society's net revenue.
 
 A country’s stock of money incurs a cost to collect and support.
 
