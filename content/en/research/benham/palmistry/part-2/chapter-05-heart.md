@@ -1,25 +1,32 @@
-+++
-title=  "The Heart Line"
-description=  "The line of Heart rises from some point under or near the finger of Jupiter, and traces its way across the hand under the Mounts, ending on the percussion"
-image=  "/photos/acecard.jpg"
-linkb=  "/research/benham/palmistry/part-2/chapter-04-age"
-linkbtext=  "Chapter 4"
-linkf=  "/research/benham/palmistry/part-2/chapter-06-head"
-linkftext=  "Chapter 6"
-+++
+---
+title: "The Heart Line"
+# heading: "Chapter 10"
+# date: 2021-11-20
+image: "/photos/objects/hand.jpg"
+description: "The line of Heart rises from some point under or near the finger of Jupiter, and traces its way across the hand under the Mounts, ending on the percussion."
+linkb: "/research/benham/palmistry/part-2/chapter-09-affection"
+linkbtext: "Chapter 9"
+linkf: "/research/benham/palmistry/part-2/chapter-28-girdle"
+linkftext: "Chapter 28"
+---
 
 
 Upon entering our bodies through the finger of Jupiter, the first line reached by the Electric Current is the line of Heart. It is so named because it accurately reflects the heart's condition and operation.
 
 It deals with that central life-sustaining mechanism which pumps and controls the blood stream, which, by its quantity and quality, so largely affects our health and temperament.
 
-The line of Heart rises from some point under or near the finger of Jupiter. It traces its way across the hand under the Mounts, ending on the percussion.
+The line of Heart rises from some point under or near the finger of Jupiter.
+- It traces its way across the hand under the Mounts, ending on the percussion.
 
-This line does not have any normal starting or stopping place. What might be normal with one subject would not be with another. The line of Heart must always be considered in relation to the individual on which it is seen.
+This line does not have any normal starting or stopping place.
+- What might be normal with one subject would not be with another. 
+
+The line of Heart must always be considered in relation to the individual on which it is seen.
 
 The old saying, that a person has a "warm heart" or a "great deal of heart," has become synonymous with the idea that these persons are affectionate and sympathetic.
 
 This is largely true, for we have already seen that the action of a strong heart is followed by pink color, indicating warmth and health, and this we know produces genial, sympathetic people.
+
 Plenty of blood, pumped by a strong heart, means the antithesis of whiteness and coldness.
 
 So a "warm heart" really refers to the physical health of that organ, and the warmth that follows good blood supply, which condition produces the consequent attraction towards its fellow-men peculiar to such natures.
@@ -50,7 +57,12 @@ For this single line to be considered the Heart and not the Head line, it must:
 - rise high on the Mount of Jupiter (24), or in that vicinity, and
 - trace its way across the hand just under the Mounts, and not by any means low enough to be in the location of the Head line. 
 
-A missing Heart line shows a lack of sympathy and affection. It warns of one who is coldblooded, selfish, and who desires personal success even at the expense of others. It is a bad marking, which easily leads from mere selfishness into hypocrisy, deceit, lack of candor, and positive dishonesty. 
+
+## Absent Heart Line
+
+**A missing Heart line shows a lack of sympathy and affection.** 
+- It warns of one who is coldblooded, selfish, and who desires personal success even at the expense of others. 
+- It is a bad marking, which easily leads from mere selfishness into hypocrisy, deceit, lack of candor, and positive dishonesty. 
 
 <!-- The Line Of Heart 181 No. 24.  -->
 
@@ -73,6 +85,10 @@ The Lunarian may have the Heart line absent or badly deficient, as he is natural
 Fortunately, you are not likely to meet many Lunarians. 
 
 So the absent line of Heart will tell you that the subject lacks heart in a moral way, is cold and selfish, and that he will also be cowardly and sneaking in his disposition, though sometimes a great "bluffer." 
+
+
+
+## Staring Points
 
 The Heart line generally rises from some point on or near the Mount of Jupiter, sometimes extending over and rising on the Mount of Saturn. 
 

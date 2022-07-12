@@ -1,13 +1,12 @@
-+++
-title=  "Line of Mars, Ring of Solomon, Ring of Saturn"
-description=  "THE line of Mars rises on the lower Mount of Mars and runs inside of the Life line and very close beside it"
-image=  "/photos/objects/hand.jpg"
-linkb=  "/research/benham/palmistry/part-2/chapter-28-girdle"
-linkbtext=  "Chapter 28"
-linkf=  "/research/benham/palmistry/part-2/chapter-32-intuition"
-linkftext=  "Chapter 32"
-heading =  "Chapter 29-31"
-+++
+---
+title: "Line of Mars, Ring of Solomon, Ring of Saturn"
+image: "/photos/objects/hand.jpg"
+description: "THE line of Mars rises on the lower Mount of Mars and runs inside of the Life line and very close beside it"
+linkb: /research/benham/palmistry/part-2/chapter-28-girdle
+linkbtext: "Chapter 2"
+linkf: /research/benham/palmistry/part-2/chapter-28-girdle
+linkftext: "Chapter 2c"
+---
 
 
 THE line of Mars rises on the lower Mount of Mars and runs inside of the Life line and very close beside it.
