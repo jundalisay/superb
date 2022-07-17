@@ -1,6 +1,7 @@
-+++
-title=  "The Spirit of the Laws Simplified"
-description=  "The Spirit of the Laws is Montesquieu's greatest work"
-linkTitle = "Spirit of the Laws"
-image=  "/covers/spirit.jpg"
-+++
+---
+title: "The Spirit of the Laws Simplified"
+linkTitle: "Spirit of the Laws"
+image: "/covers/spirit.jpg"
+aliases:
+  /research/montesquieu/spirit-of-the-laws/table-of-contents
+---

@@ -1,6 +1,6 @@
 ---
 title: "The Effort Theory of Value"
-heading: "The alternative to arbitrary marginal pricing"
+heading: "The Alternative to Arbitrary Narginal Pricing"
 # date: 2020-04-18
 date: 2015-10-30
 image: "/graphics/jfk.jpg"
@@ -12,11 +12,13 @@ linkftext: "1772 credit crunch"
 icon: /icons/pantry.png
 aliases:
   /articles/taonomics/the-effort-theory-of-value/
-  /articles/pantrynomics/the-effort-theory-of-value/  
+  /articles/pantrynomics/the-effort-theory-of-value/
+  /social/economics/principles/the-effort-theory-of-value/
+  /social/economics/the-effort-theory-of-value/  
 ---
 
 
-> Summary: The effort theory of value is the foundation of Pantrynomics and is derived entirely from Adam Smith's wheat-based valuation in <a href="/research/smith/wealth-of-nations/book-1/chapter-5a">the Wealth of Nations Book 1 Chapter 5</a>. Instead of pegging value to metal coins, it pegs it to the abstract difficulty, stress, or hardship of a task to produce a product or service, which is then relativistically pegged to food, through basic universal revenue and the Economic Table of the Physiocrats
+> Summary: The effort theory of value is the foundation of Pantrynomics. It is derived entirely from Adam Smith's wheat-based valuation in <a href="/research/smith/wealth-of-nations/book-1/chapter-5a">the Wealth of Nations Book 1 Chapter 5</a>. Instead of pegging value to metal coins, it pegs it to the abstract difficulty, stress, or hardship of a task to produce a product or service. This is then relativistically pegged to food through a points-ledger which the Physiocrats referred to as "The Economic Table"
 
 
 While building Adam Smith's resource allocation system, I've often been asked:"What measure of value does it use?"
@@ -29,13 +31,13 @@ Smith says that it represents 'labour'. But labour is ambiguous.
 
 Marx uses the same measure in Das Kapital and ends up with the strange concepts like 'labour power' and 'labour time', which are measures of **physical** labour. These then lead to the oppressive rationing system in Communist countries.
 
-You can exactly ration gasoline and electricity to your cars and iPhones, but it would be absurd to do that to humans. You could ration $1,000 to a software developer to build a furniture, and $1,000 to a carpenter to build an app. Their actual outputs would be inferior.
+You can exactly ration gasoline and electricity to your cars and iPhones, but it would be absurd to do that to humans. You could ration $1,000 to a software developer to build a wooden cabinet, and $1,000 to a carpenter to build an app. But their actual outputs would be inferior.
 
 People confuse Smith's labour theory with that of Marx simply because both use the word 'labour'. To separate those two ideas, we have to look into how differently Smith sees human labour.
 
 <br>
 
-## A deeper look into Smith's theory
+## A Deeper Look Into Smith's Theory
 
 Fortunately, Smith explains his theory in just one chapter -- [Chapter 5 of The Wealth of Nations](/research/smith/wealth-of-nations/book-1/chapter-5a). It is clear that 'labour' to Smith is rooted in psychology instead of physics when he equates it to toil and trouble:
 
@@ -46,7 +48,9 @@ The real price of everything.. is the toil and trouble of acquiring it. What eve
 
 Toil and trouble are not objective. 
 
-Person A who has no interest learning how to play the guitar (who we shall call 'Guitar Hater') might 'toil' a lot if forced to learn guitar, compared to Person B ('Guitar Lover') who naturally likes it. Therefore, the 'high toil' or suffering of Guitar Hater in learning guitar is consistently high always and everywhere he is. Likewise, the low toil or suffering of Guitar Lover in learning guitar is consistently low always and anywhere he is. This is evident in Smith's maxim:
+Person A who has no interest learning how to play the guitar (who we shall call 'Guitar Hater') might 'toil' a lot if forced to learn guitar, compared to Person B ('Guitar Lover') who naturally likes it. Therefore, the 'high toil' or suffering of Guitar Hater in learning guitar is consistently high always and everywhere he is. Likewise, the low toil or suffering of Guitar Lover in learning guitar is consistently low always and anywhere he is. 
+
+This is evident in Smith's maxim:
 
 {{< quote ava="smith" >}}
 At all times and places that is dear which it is difficult to come at, or which it costs much labour to acquire; and that cheap which is to be had easily, or with very little labour. Labour alone, therefore, never varying in its own value, is alone the ultimate and real standard by which the value of all commodities can at all times and places be estimated and compared. It is their real price; money is their nominal price only.
@@ -71,7 +75,9 @@ To establish this core idea, we replace 'Labour theory of value' with 'Effort Th
 {{< me date="Dec 2020" >}}
 This way of thinking about another person's love for guitar-playing (cause) instead of thinking about his actual guitar music (effect) is not common. When you buy bread at the grocery, you often check the label and think about its price and nutrients. You never think about the baker who baked that bread and who was the cause of the existence of the bread. His name, skills, looks, personality, doesn't enter your mind. Likewise, we see objects everday and never think about the persons or Creator that made their existence possible.
 
-Eastern philosophy solves this by using a mantra constantly which forces the mind to always think of the causal principles behind every perception. Thanks to this technique, the mind is trained to look at the principles behind every perception, whether it be in economics, politics, healthcare, astrophysics, etc. Shallow minds will think that money is the cause of economic activity because that is what their perceptions readily present to them. From this, they will create utility theories, and then equilibrium and profit maximization theories, not knowing that such ideas naturally create crises after some time because they are based on effect instead of cause.
+Eastern philosophy solves this by using a mantra constantly which forces the mind to always think of the causal principles behind every perception. Thanks to this technique, the mind is trained to look at the principles behind every perception, whether it be in economics, politics, healthcare, astrophysics, etc. 
+
+Shallow minds will think that money is the cause of economic activity because that is what their perceptions readily presents to them. From this, they will create utility theories, and then equilibrium and profit maximization theories, not knowing that such ideas naturally create crises after some time because they are based on effect instead of cause.
 {{< /me >}}
 
 ![Effort is not enough](/graphics/jfk.jpg)
@@ -79,7 +85,9 @@ Eastern philosophy solves this by using a mantra constantly which forces the min
 
 ## Personal Interest as the Invisible Hand
 
-But effort alone will not lead to value-creation unless the person is interested in what he is applying the effort to -- he has to be deeply interested in whatever task he is doing. 
+But effort alone will not lead to value-creation. No matter how hard a carpenter works to make an app, he will never make it better than the software developer can make it. 
+
+Thus to succeed, a person must be interested in what he is applying his effort to -- **he has to be deeply interested in whatever task he is doing**. 
 
 This is where his 'personal-interest'* comes in. Whatever one is interested in is a natural part of the invisible hand of his dharma or tao. 
 
@@ -91,8 +99,7 @@ A person interested in guitars will naturally create higher quality* guitar musi
 > *We can call this a 'superabundance' in guitar music
 
 
-Society would therefore have more value, quality, and abundance if its bakers baked and its brewers brewed, instead of its bakers brewing and its brewers baking.
-
+Society would therefore have more value, quality, and abundance if its carpenters focused on making furniture, and its software developer focused on software instead of the other way around. <!-- bakers baked and its brewers brewed, instead of its bakers brewing and its brewers baking. -->
 
 This value and abundance are then spread through exchange, such as through money, barter, credit, or donations, onto places where there is lack*:
 

@@ -26,3 +26,5 @@ We extend this to the aethereal layer of ideas and feelings:
 Ideas and Feelings cannot be created nor destroyed 
 </div>
 
+
+<!-- even tribal humans have to evolve because gorillas will also evolve into the level of tribal humans and Law of Conservation of ideas. They will clash.   -->
