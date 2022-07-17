@@ -1,12 +1,9 @@
-
-
 +++
 title=  "Book 5 Government Expenses and Revenue"
+linkTitle = "Book 5"
 description=  "We simplify The Wealth of Nations Book 5 about Government Expenses and Revenue"
 date=  "2015-09-09"
 image=  "/covers/wn.jpg"
-# image=  "https= //sorasystem.sirv.com/books/wn1.jpg"
-# heading=  View 3 Chapters
 aliases= [
   "/research/smith/simple-wealth-of-nations/"
 ] 

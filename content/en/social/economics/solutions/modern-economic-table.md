@@ -33,6 +33,8 @@ The inflation in Singapore from the global food crisis is proof that a zero-agri
 {{< /me >}}
 
 
+## The Physiocrats vs Modern Economics
+
 The Physiocrats' Economic Table advocates the mechanization of agriculture and extraction in order to maximize the raw material output which is the basis for further processing and manufacturing.
 
 {{< quote ava="quesnay" >}}
@@ -57,16 +59,18 @@ Maxim 24 Balance of Money in Trade is Illusory: Let no one be deceived by an app
 {{< /quote >}}
 
 
-## Our Modern Economic Table Leads to Real Prices and Fair (Non-commercial) Taxation
+## Our Modern Economic Table is an Online Ledger
 
-This regulation is done through the Economic Table which lists the transactions that are involved in turning a raw material into a finished product which manifests as wealth. The transactions include the increase in the market value and the natural price of a commodity as it is processed by human effort. 
+<!-- Leads to Real Prices and Fair (Non-commercial) Taxation -->
 
-![Table](/graphics/econ/table.jpg)
+This regulation is done through the Economic Table which lists the chain of transactions that are involved in turning a raw material into a finished product which then manifests as wealth. The chain shows the increase in the market value and the natural price of a commodity as it is processed subsequently by [human effort](/social/economics/principles/effort-theory-of-value). 
 
 We then implement this transaction system as a ledger of points-transactions.
 
-In this way, the ledger can show the **real price** of products, commodities, and services relative to grain. This will then relativistically reveal which companies and industries are generating the most wealth for the least expense. 
+![Table](/graphics/econ/table.jpg)
 
+
+In this way, the ledger can show the **real price** of products, commodities, and services relative to grain. This will then relativistically reveal which companies and industries are generating the most wealth for the least expense. 
 
 Modern Economics has no concept of real or natural price because it is grounded on money, which wipes out the relativity of real prices in order to create arbitrage and profit maximization. This then explains why economic systems are unstable and have systemic risk.
 
