@@ -55,10 +55,17 @@ It pointed to a series of crises from 2019 to 2030, which we call The Great Stag
 
 
 {{< me d="April 2021" >}}
-The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led to Medical Superphysics. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Pantry Network](https://pantrypoints.com). Economic and political systems will be stressed much later.
+The crisis years came via Covid. It turned out that the medical system was the first one to break down. This led us to create [Pantry Health](https://pantrypoints.com/health) as an implementation of Medical Superphysics as a solution. Our model predicts that the financial system will be the next one to crash at year X, which led us to create the [Points Banking](https://pantrypoints.com/banking). Economic and political systems will be stressed much later.
+{{< /me >}}
+
+
+{{< me d="July 2022" >}}
+Sri Lanka's economic and political system actually collapsed proving the pattern correct. This will be the pattern unless people drop Neoclassical Economics (selfish-interest, marginal utility, profit maximization, equity investments, and liquidity preference) and switch to Classical Economics (common interest, life purpose, dharma, social lending, and goal preference).
 {{< /me >}}
 
 
 We are looking for universities that would be interested in our theories, publishers interested in our books, and companies and angels that would like to invest in a resilient economic system that will preserve their businesses and capital during such a prolonged crisis. 
 
-Feel free to contact us via email at superphysicsone@gmail.com. We also accept donations in cash, kind, or labor (such as translating the posts or apps into your local language, or sharing our posts, apps, and pages). Every contribution is listed down.
+Feel free to contact us via email at superphysicsorg@gmail.com. We also accept donations in cash, kind, or labor (such as translating the posts or apps into your local language, or sharing our posts, apps, and pages). 
+
+<!-- Every contribution earns points which are relative to other contributions. -->
