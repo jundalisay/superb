@@ -5,6 +5,9 @@
 {{ $rows := $page.Params.templates.single.rows | default $page.Site.Params.templates.single.rows | default slice }}
 
 <main class="main" role="main" id="top">
+
+<div class="message is-warning m-4 p-4">We are moving our site to <a href="https://superphysics.org">https://superphysics.org</a>. Please update your bookmarks accordingly. Thanks!</div>
+    
     {{ if gt (len $rows) 0 }}
         <section class="section template-single px-5">
             <div class="container">

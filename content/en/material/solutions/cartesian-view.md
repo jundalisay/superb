@@ -130,7 +130,7 @@ The Cartesian View also has three attributes:
 - **Timespan**: the physical plane has a timespan set from outside the plane, the aethereal sets the time from the inside, at the center (the present)
 
 
-{{< img src="/graphics/physics/determined.png" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
+{{< img src="/graphics/physics/determined.jpg" alt="Physical Viewpoint versus the Aethereal Viewpoint" cap="The physical plane sees movement from the outside. The aethereal plane sees it from the inside" >}}
 
 
 ### Data and Visualizations first, equations later

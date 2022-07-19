@@ -1,8 +1,8 @@
 ---
-title: "How is Life Created?"
+title: "Vital Energy (Pranah)"
 heading: Chapter 1e
 date: 2022-01-31
-description: "An environment for the unit structure is essentially required where all these 5 fundamental layers are available in requisite quantity. Life can get expression only under such a condition"
+description: "In Sanskrit, vital energy is always plural because it is a collection of 10 important forces (váyus) with 5 working internally, and 5 working externally of the physical structure"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-01d"
 linkbtext: "Chapter 1d"
@@ -11,9 +11,6 @@ linkftext: "Chapter 2"
 icon: "/icons/sarkar.jpg"
 ---
 
-
-
-## Vital Energy
 
 In Sanskrit, this vital energy is always plural because it is a collection of 10 important forces (váyus) with 5 working internally, and 5 working externally of the physical structure.
 
