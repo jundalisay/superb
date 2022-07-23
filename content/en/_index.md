@@ -4,10 +4,11 @@ image = "/og/sp.jpg"
 heading = "A New Science Based on Metaphysics and Dialectics"
 sub = "All Knowledge Can Be Grouped Into Three"
 
+youtube = "5fL2_ZcRgNQ"
+
 mini1 = "The Nature of the Soul"
 heading1 = "Everything is a wave that manifests as a particle"
 sub1 = "The analog universe streams in real-definition to create reality"
-
 mini2 = "The Soul of the Physical Universe"
 heading2 = "Material Superphysics"
 sub2 = "Based on the five layers of the ancient Greek, Hindus, and Chinese"

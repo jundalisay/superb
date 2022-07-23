@@ -16,9 +16,11 @@ aliases = [
   "/fixing-relativity",
   "/posts/material/fixing-general-relativity",
   "/solutions/material/how-to-fix-general-relativity",
-  "/material/general-relativity/"
+  "/material/general-relativity/",
+  "/material/fallacies/general-relativity"
 ]
 +++
+
 
 <!-- E :: G<sub>l</sub> as an alternative to E = mc{{< s v="2" >}} -->
 

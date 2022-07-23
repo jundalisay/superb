@@ -12,6 +12,7 @@ linkftext: "USA"
 author: Juan
 icon: "/flags/ru.png"
 aliases:
+  /analysis/social-cycles/how-to-fix-russia
   /social/cycles/russia
   /social/cycles/how-to-fix-russia  
 comments:
