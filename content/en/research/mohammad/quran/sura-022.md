@@ -1,20 +1,28 @@
-22. THE PILGRIMAGE (al-Hajj)
+---
+title: "THE PILGRIMAGE (al-Hajj)"
+heading: "Chapter 22 of the Quran Simplified"
+date: 2021-11-20
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /mohammad/quran/
+linkbtext: "Index"
+linkf: /mohammad/quran/
+linkftext: "Index"
+---
 
 
-1. O people, be conscious of your Lord. The
-quaking of the Hour is a tremendous thing.
-2. On the Day when you will see it: every nurs-
-ing mother will discard her infant, and every
-pregnant woman will abort her load, and you
-will see the people drunk, even though they
-are not drunk—but the punishment of Allah
-is severe.
-3. Among the people is he who argues about
-Allah without knowledge, and follows every
+1. O people, be conscious of your Lord. The quaking of the Hour is a tremendous thing.
+
+2. On the Day when you will see it: every nursing mother will discard her infant, and every
+pregnant woman will abort her load, and you will see the people drunk, even though they
+are not drunk—but the punishment of Allah is severe.
+
+3. Among the people is he who argues about Allah without knowledge, and follows every
 defiant devil.
-4. It was decreed for him, that whoever follows
-him—he will misguide him, and lead him to
+
+4. It was decreed for him, that whoever follows him—he will misguide him, and lead him to
 the torment of the Blaze.
+
 5. O people! If you are in doubt about the Res-
 urrection—We created you from dust, then
 from a small drop, then from a clinging clot,

@@ -68,8 +68,12 @@ contact_form =  "https://hub.pantrypoints.com/api/email"
 #     url = "https://matayog.com"
 #     img = "/banners/matayog.png"
 [spon.a]
-    url = "https://pantryhub.work"
-    img = "/banners/pw.png"
+    url = "https://pantrypoints.com/build"
+    img = "/banners/build.jpg"
+
+[spon.b]
+    url = "https://foodrescueph.site"
+    img = "/banners/fri.jpg"
 
 
 ########## Design

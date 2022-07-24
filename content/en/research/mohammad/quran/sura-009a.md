@@ -10,12 +10,9 @@ linkf: /mohammad/quran/
 linkftext: "Index"
 ---
 
+{{< s v="1" >}} Give a declaration of immunity coming from Allah and His Messenger to the polytheists with whom you had made a treaty.
 
-1. A declaration of immunity from Allah and His Messenger to the polytheists with whom
-you had made a treaty.
-
-2. So travel the land for four months, and know that you cannot escape Allah, and that
-Allah will disgrace the disbelievers.
+{{< s v="2" >}} Travel the land for 4 months. 
 
 3. And a proclamation from Allah and His Messenger to the people on the day of the
 Greater Pilgrimage, that Allah has disowned the polytheists, and so did His Messenger. If
@@ -24,8 +21,7 @@ you repent, it will be better for you.
 But if you turn away, know that you cannot escape Allah. And announce to those who disbelieve a
 painful punishment.
 
-4. Except for those among the polytheists with whom you had made a treaty, and did not vi-
-olate any of its terms, nor aided anyone against you. 
+4. Except for those among the polytheists with whom you had made a treaty, and did not violate any of its terms, nor aided anyone against you. 
 
 So fulfill the treaty with them to the end of its term.
 
@@ -42,31 +38,25 @@ As long as they are upright with you, be upright with them.
 respect neither kinship nor treaty with you.
 They satisfy you with lip service, but their
 hearts refuse, and most of them are immoral.
-9. They traded away Allah's revelations for a
-cheap price, so they barred others from His
+
+9. They traded away Allah's revelations for a cheap price, so they barred others from His
 path. How evil is what they did.
-10. Towards a believer they respect neither
-kinship nor treaty. These are the transgres-
-sors.
-11. But if they repent, and perform the prayers,
-and give the obligatory charity, then they are
-your brethren in faith. We detail the revela-
-tions for a people who know.
-12. But if they violate their oaths after their
-pledge, and attack your religion, then fight
-the leaders of disbelief—they have no faith—
-so that they may desist.
-13. Will you not fight a people who violated
-their oaths, and planned to exile the Messen-
-ger, and initiated hostilities against you? Do
-you fear them? It is Allah you should fear, if
-you are believers.
-14. Fight them. Allah will punish them at your
-hands, and humiliate them, and help you
-against them, and heal the hearts of a believ-
-ing people.
-15. And He will remove the anger of their
-hearts. Allah redeems whomever He wills.
+
+10. Towards a believer they respect neither kinship nor treaty. These are the transgressors.
+
+11. But if they repent, and perform the prayers, and give the obligatory charity, then they are
+your brethren in faith. We detail the revelations for a people who know.
+
+12. But if they violate their oaths after their pledge, and attack your religion, then fight
+the leaders of disbelief—they have no faith so that they may desist.
+
+13. Will you not fight a people who violated their oaths, and planned to exile the Messenger, and initiated hostilities against you? Do
+you fear them? It is Allah you should fear, if you are believers.
+
+14. Fight them. Allah will punish them at your hands, and humiliate them, and help you
+against them, and heal the hearts of a believing people.
+
+15. And He will remove the anger of their hearts. Allah redeems whomever He wills.
 Allah is Knowledgeable and Wise.
 16. Or do you think that you will be left alone,
 without Allah identifying which of you will
@@ -385,22 +375,19 @@ abiding therein forever, and fine homes in
 
 not venture out in the heat.” Say, “The Fire of
 Hell is much hotter, if they only understood.”
-82. Let them laugh a little, and weep much; in
-recompense for what they used to earn.
-83. If Allah brings you back to a party of them,
-and they ask your permission to go out, say,
-“You will not go out with me, ever, nor will
-you ever fight an enemy with me. You were
-content to sit back the first time, so sit back
-with those who stay behind.”
-84. You are never to pray over anyone of them
-who dies, nor are you to stand at his grave-
-side. They rejected Allah and His Messenger,
-and died while they were sinners.
-85. Do not let their possessions and their chil-
-dren impress you. Allah desires to torment
-them through them in this world, and their
-souls expire while they are disbelievers.
+
+82. Let them laugh a little, and weep much; in recompense for what they used to earn.
+
+83. If Allah brings you back to a party of them, and they ask your permission to go out, say,
+“You will not go out with me, ever, nor will you ever fight an enemy with me. You were
+content to sit back the first time, so sit back with those who stay behind.”
+
+84. You are never to pray over anyone of them who dies, nor are you to stand at his grave-
+side. They rejected Allah and His Messenger, and died while they were sinners.
+
+85. Do not let their possessions and their children impress you. Allah desires to torment
+them through them in this world, and their souls expire while they are disbelievers.
+
 86. When a chapter is revealed, stating: “Be-
 lieve in Allah and strive with His Messenger,”
 the prominent among them ask you for ex-
@@ -5009,65 +4996,65 @@ the affliction. Thus We save the faithful.
 89. And Zechariah, when he called out to his
 Lord, “My Lord, do not leave me alone, even
 though you are the Best of heirs.”
+
 90. So We answered him, and gave him John.
-And We cured his wife for him. They used to
+
+We cured his wife for him. They used to
 vie in doing righteous deeds, and used to call
 on Us in love and awe, and they used to hum-
 ble themselves to Us.
-91. And she who guarded her virginity. We
-breathed into her of Our spirit, and made her
+
+91. And she who guarded her virginity. We breathed into her of Our spirit, and made her
 and her son a sign to the world.
-92. This community of yours is one commu-
-nity, and I am your Lord, so worship Me.
-93. But they splintered themselves into fac-
-tions. They will all return to Us.
-94. Whoever does righteous deeds, and is a be-
-liever, his effort will not be denied. We are
-writing it down for him.
-95. There is a ban on the town that We had de-
-stroyed—that they will not return.
-Until, when Gog and Magog are let loose,
-and they swarm down from every mound.
-97. The promise of truth has drawn near. The
-eyes of those who disbelieved will stare in
-horror: “Woe to us. We were oblivious to
-this. In fact, we were wrongdoers.”
-98. You and what you worship besides Allah
-are fuel for Hell. You will descend into it.
-99. Had these been gods, they would not have
-descended into it. All will abide in it.
+
+92. This community of yours is one community, and I am your Lord, so worship Me.
+93. But they splintered themselves into factions. They will all return to Us.
+94. Whoever does righteous deeds, and is a believer, his effort will not be denied. We are
+writing it down for him. 
+
+95. There is a ban on the town that We had destroyed—that they will not return.
+Until, when Gog and Magog are let loose, and they swarm down from every mound.
+
+97. The promise of truth has drawn near. The eyes of those who disbelieved will stare in
+horror: “Woe to us. We were oblivious to this. In fact, we were wrongdoers.”
+
+98. You and what you worship besides Allah are fuel for Hell. You will descend into it.
+99. Had these been gods, they would not have descended into it. All will abide in it.
 96.
-100. In 
-it they will wail. In it they will not hear.
+
+100. In it they will wail. In it they will not hear. 
 for those who deserved goodness from
 Us—these will be kept away from it.
-102. They will not hear its hissing, and they will
-forever abide in what their hearts desire.
-103. The Supreme Fear will not worry them,
-and the angels will receive them: “This is your
+
+102. They will not hear its hissing, and they will forever abide in what their hearts desire.
+
+103. The Supreme Fear will not worry them, and the angels will receive them: “This is your
 Day which you were promised.”
-104. On the Day when We fold the heaven, like
-the folding of a book. Just as We began the
-first creation, We will repeat it—a promise
-binding on Us. We will act.
-105. We have written in the Psalms, after the
-Reminder, that the earth will be inherited by
+
+104. On the Day when We fold the heaven, like the folding of a book. Just as We began the
+first creation, We will repeat it—a promise binding on Us. We will act.
+
+105. We have written in the Psalms, after the Reminder, that the earth will be inherited by
 My righteous servants.
+
 106. Indeed, in this is a message for people who
 worship.
-107. We did not send you except as mercy to
-mankind.
+
+107. We did not send you except as mercy to mankind.
+
 108. Say, “It is revealed to me that your God is
 One God. Are you going to submit?”
-109. But if they turn away, say, “I have in-
-formed you sufficiently. Although I do not
-know whether what you are promised is near
-or far.”
-110. He knows what is said openly, and He
-knows what you conceal.
-111. “And I do not know whether it is perhaps
-a trial for you, and an enjoyment for a while.”
+
+109. But if they turn away, say, “I have informed you sufficiently. Although I do not
+know whether what you are promised is near or far.”
+
+110. He knows what is said openly, and He knows what you conceal.
+
+111. “And I do not know whether it is perhaps a trial for you, and an enjoyment for a while.”
+
 112. He said, “My Lord, judge with justice.”
+
 And, “Our Lord is the Gracious, Whose help
 is sought against what you allege.”
+
 101. As 

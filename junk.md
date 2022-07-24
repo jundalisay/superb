@@ -17,6 +17,10 @@ $success: {{ . }};
 {{ end }}
 
 
+
+Note that it sustain and not grow. 
+as it would be unnatural for a business to grow while its country's economy was collapsing 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5fL2_ZcRgNQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 

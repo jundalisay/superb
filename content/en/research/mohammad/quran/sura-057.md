@@ -1,4 +1,16 @@
-57. IRON (al-Hadid`)
+---
+title: "IRON (al-Hadid`)"
+heading: "Chapter 57 of the Quran Simplified"
+date: 2021-11-20
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /mohammad/quran/
+linkbtext: "Index"
+linkf: /mohammad/quran/
+linkftext: "Index"
+---
+
+
 
 <!-- 1. Glorifying Allah is everything in the heavens and the earth. He is the Almighty, the
 Wise. -->
@@ -24,15 +36,12 @@ among you who believe and give will have a great reward.
 you to believe in your Lord, and He has received a pledge from you, if you are believers?
 9. It is He who sends down upon His servant clear revelations, to bring you out of darkness
 into the light. Allah is Gentle towards you, Most Compassionate.
-10. And why is it that you do not spend in the
-cause of Allah, when to Allah belongs the in-
-heritance of the heavens and the earth? Not
-equal among you are those who contributed
-before the conquest, and fought. Those are
-higher in rank than those who contributed
-afterwards, and fought. But Allah promises
-both a good reward. Allah is Well Experi-
-enced in what you do.
+
+10. And why is it that you do not spend in the cause of Allah, when to Allah belongs the in-
+heritance of the heavens and the earth? Not equal among you are those who contributed
+before the conquest, and fought. Those are higher in rank than those who contributed
+afterwards, and fought. But Allah promises both a good reward. <!-- Allah is Well Experi-enced in what you do. -->
+
 11. Who is he who will lend Allah a loan of
 goodness, that He may double it for him, and
 will have a generous reward?

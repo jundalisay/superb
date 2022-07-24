@@ -1,15 +1,25 @@
-72. THE JINN (al-Jinn)
+---
+title: "THE JINN (al-Jinn)"
+heading: "Chapter 72 of the Quran Simplified"
+date: 2021-11-20
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /mohammad/quran/
+linkbtext: "Index"
+linkf: /mohammad/quran/
+linkftext: "Index"
+---
 
-Say, “It was revealed to me that a band of
-jinn listened in, and said, ‘We have heard a
-wondrous Quran.
-2. It guides to rectitude, so we have believed in
-it; and we will never associate anyone with
+
+Say, “It was revealed to me that a band of jinn listened in, and said, ‘We have heard a wondrous Quran.
+
+2. It guides to rectitude, so we have believed in it; and we will never associate anyone with
 our Lord.
-3. And Exalted is the Grandeur of our Lord—
-He never had a mate, nor a child.
+
+3. And Exalted is the Grandeur of our Lord--He never had a mate, nor a child.
 4. But the fools among us used to say nonsense
 about Allah.
+
 5. And we thought that humans and jinn
 would never utter lies about Allah.
 6. Some individual humans used to seek
@@ -25,13 +35,12 @@ for him.
 10. We do not know whether ill is intended for
 those on earth, or if their Lord intends good-
 ness for them.
-11. Some of us are righteous, but some of us are
-less than that; we follow divergent paths.
-12. We realized that we cannot defeat Allah on
-earth, and that we cannot escape Him by flee-
-ing.
-13. And when we heard the guidance, we be-
-lieved in it. Whoever believes in his Lord
+
+11. Some of us are righteous, but some of us are less than that; we follow divergent paths.
+
+12. We realized that we cannot defeat Allah on earth, and that we cannot escape Him by fleeing.
+
+13. And when we heard the guidance, we believed in it. Whoever believes in his Lord
 fears neither loss, nor burden.
 14. Among us are those who are submitting,
 and among us are the compromisers. As for

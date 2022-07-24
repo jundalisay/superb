@@ -1,4 +1,16 @@
-69. THE REALITY (al-Haqqah)
+---
+title: "THE REALITY (al-Haqqah)"
+heading: "Chapter 69 of the Quran Simplified"
+date: 2021-11-20
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /mohammad/quran/
+linkbtext: "Index"
+linkf: /mohammad/quran/
+linkftext: "Index"
+---
+
+
 
 2. What is the Reality?
 

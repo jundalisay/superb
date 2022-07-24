@@ -1,4 +1,15 @@
-45. KNEELING (al-Jathiyah)
+---
+title: "KNEELING (al-Jathiyah)"
+heading: "Chapter 45 of the Quran Simplified"
+date: 2021-11-20
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /mohammad/quran/
+linkbtext: "Index"
+linkf: /mohammad/quran/
+linkftext: "Index"
+---
+
 
 1. Ha, Meem.
 The revelation of the Book is from Allah,

@@ -1,12 +1,24 @@
-96. CLOT (al-’Alaq)
+---
+title: "CLOT (al-’Alaq)"
+heading: "Chapter 96 of the Quran Simplified"
+date: 2021-11-20
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /mohammad/quran/
+linkbtext: "Index"
+linkf: /mohammad/quran/
+linkftext: "Index"
+---
+
+
 In it descend the angels and the Spirit, by
 the leave of their Lord, with every command.
-4.
 5. Peace
 
 98. CLEAR EVIDENCE (al-Bayyinah)
+
 Read: In the Name of your Lord who created.
-1.
+
 2. Created
 3. Read:
 4. He
