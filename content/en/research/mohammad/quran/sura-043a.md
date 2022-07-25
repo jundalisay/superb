@@ -21,15 +21,15 @@ since you are a transgressing people? -->
 
 6. How many a prophet did We send to the ancients?
 7. No messenger came to them, but they ridiculed him.
-8. We destroyed people more powerful than they, and so the example of the ancients has
-passed away.{{< s v="9" >}}  And if you asked them, “Who created the
-heavens and the earth?” They would say, “The Mighty, the Knower created them.”
+8. We destroyed people more powerful than they, and so the example of the ancients has passed away.
 
-{{< s v="10" >}}  He who made the earth a habitat for you,
-and traced pathways for you on it, that you
-may be guided.{{< s v="11" >}}  He who sends down water from the sky in
-due proportion; and so We revive thereby a
+{{< s v="9" >}}  And if you asked them, “Who created the heavens and the earth?” They would say, “The Mighty, the Knower created them.”
+
+{{< s v="10" >}}  He who made the earth a habitat for you, and traced pathways for you on it, that you may be guided.
+
+{{< s v="11" >}}  He who sends down water from the sky in due proportion; and so We revive thereby a
 dead land. Thus you will be brought out.
+
 12. He Who created all the pairs; and provided
 you with ships, and animals on which you
 ride.
@@ -177,73 +177,48 @@ doubt about it, and follow Me. This is a
 straight way.
 62. And let not Satan divert you. He is an open
 enemy to you.
-63. When Jesus came with the clarifications, he
-said, “I have come to you with wisdom, and
-to clarify for you some of what you differ
-about. So fear Allah, and obey me.
+
+63. When Jesus came with the clarifications, he said, “I have come to you with wisdom, and
+to clarify for you some of what you differ about. So fear Allah, and obey me.
+
 64. Allah is my Lord and your Lord, so wor-
 ship Him—this is a straight path.”
-65. But the factions differed among them-
-selves. So woe to the wrongdoers from the
-suffering of a painful Day.
-66. Are they only waiting for the Hour to come
-upon them suddenly, while they are una-
-ware?
-67. On that Day, friends will be enemies of one
-another, except for the righteous.
-68. O My servants, you have nothing to fear on
-that Day, nor will you grieve.
-69. Those who believed in Our revelations,
-and were submissive.
-70. Enter the Garden, you and your spouses,
-Joyfully.
-18844. SMOKE (ad-Dukhan)
-71. They will be served around with trays of
-gold, and cups. Therein is whatever the souls
-desire and delights the eyes. Therein you will
-stay forever.
-72. Such is the Garden you are made to inherit,
-because of what you used to do.
-73. Therein you will have abundant fruit, from
-which you eat.
-74. As for the sinners, they will be in the tor-
-ment of Hell forever.
-75. It will never be eased for them. In it, they
-will be devastated.
-76. We did them no injustice, but it was they
-who were the unjust.
-77. And they will cry, “O Malek, let your Lord
-finish us off.” He will say, “You are staying.”
-78. We have given you the truth, but most of
-you hate the truth.
-79. Have they contrived some scheme? We too
-are contriving.
-80. Or do they think that We cannot hear their
-secrets and their conspiracies? Yes indeed,
+
+65. But the factions differed among themselves. 
+
+So woe to the wrongdoers from the suffering of a painful Day.
+
+66. Are they only waiting for the Hour to come upon them suddenly, while they are unaware?
+
+67. On that Day, friends will be enemies of one another, except for the righteous.
+68. O My servants, you have nothing to fear on that Day, nor will you grieve.
+69. Those who believed in Our revelations, and were submissive.
+70. Enter the Garden, you and your spouses, Joyfully.
+
+71. They will be served around with trays of gold, and cups. Therein is whatever the souls
+desire and delights the eyes. Therein you will stay forever.
+
+72. Such is the Garden you are made to inherit, because of what you used to do.
+73. Therein you will have abundant fruit, from which you eat.
+
+74. As for the sinners, they will be in the torment of Hell forever.
+
+75. It will never be eased for them. In it, they will be devastated.
+76. We did them no injustice, but it was they who were the unjust.
+77. And they will cry, “O Malek, let your Lord finish us off.” He will say, “You are staying.”
+78. We have given you the truth, but most of you hate the truth.
+79. Have they contrived some scheme? We too are contriving.
+80. Or do they think that We cannot hear their secrets and their conspiracies? Yes indeed,
 Our messengers are by them, writing down.
-81. Say, “If the Most Gracious had a son, I
-would be the first to worship.”
-82. Glorified be the Lord of the heavens and
-the earth, the Lord of the Throne, beyond
-what they describe.
-83. So leave them to blunder and play, until
-they encounter their Day which they are
-promised.
-84. It is He who is Allah in heaven, and Allah
-on earth. He is the Wise, the Knower.
-85. And blessed is He Who has sovereignty
-over the heavens and the earth and what is
-between them. He alone has knowledge of the
-Hour, and to Him you will be returned.
-86. Those they invoke besides Him are incapa-
-ble of intercession; only those who testify to
-the truth and have knowledge.
-87. And if you asked them, “Who created
-them?”, they would say, “Allah.” Why then
-do they deviate?
-88. As
-for his statement: “My Lord, these are a
-people who do not believe.”
-89. Pardon them, and say, “Peace.” They will
-come to know.
+
+81. Say, “If the Most Gracious had a son, I would be the first to worship.”
+82. Glorified be the Lord of the heavens and the earth, the Lord of the Throne, beyond what they describe.
+83. So leave them to blunder and play, until they encounter their Day which they are promised.
+84. It is He who is Allah in heaven, and Allah on earth. He is the Wise, the Knower.
+85. And blessed is He Who has sovereignty over the heavens and the earth and what is between them. He alone has knowledge of the Hour, and to Him you will be returned.
+86. Those they invoke besides Him are incapable of intercession; only those who testify to the truth and have knowledge.
+87. And if you asked them, “Who created them?”, they would say, “Allah.” Why then do they deviate?
+
+88. As for his statement: “My Lord, these are a people who do not believe.”
+89. Pardon them, and say, “Peace.” They will come to know.
 

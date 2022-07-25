@@ -166,33 +166,23 @@ against them with it, a mighty struggle.
 one fresh and sweet, and that one salty and
 bitter; and He placed between them a barrier,
 and an impassable boundary.
-54. And it is He who, from fluid, created the
-human being. Then He made relationships
-through marriage and mating. Your Lord is
-Omnipotent.
-55. And yet, instead of Allah, they serve what
-neither profits them nor harms them. The
-disbeliever has always turned his back on his
-Lord.
-56. We sent you only as a herald of good news
-and a warner.
-57. Say, “I ask of you no payment for this—
-only that whoever wills may take a path to his
-Lord.”
-58. And put your trust in the Living, the One
-who never dies; and celebrate His praise. He
-suffices as the All-Informed Knower of the
-faults of His creatures.
-59. He who created the heavens and the earth
-and everything between them in six days,
-13526. THE POETS (ash-Shu’ara’)
-then settled on the Throne. The Most Merci-
+
+54. And it is He who, from fluid, created the human being. Then He made relationships through marriage and mating.
+
+
+55. And yet, instead of Allah, they serve what neither profits them nor harms them. The disbeliever has always turned his back on his Lord.
+
+56. We sent you only as a herald of good news and a warner.
+
+57. Say, “I ask of you no payment for this—only that whoever wills may take a path to his Lord.”
+58. And put your trust in the Living, the One who never dies; and celebrate His praise. He
+suffices as the All-Informed Knower of the faults of His creatures.
+
+59. He who created the heavens and the earth and everything between them in 6 days, then settled on the Throne. The Most Merci-
 ful. Ask about Him a well-informed.
-60. And when it is said to them, “Bow down to
-the Merciful,” they say, “And what is the
-Merciful? Are we to bow down to whatever
-you command us?” And it increases their
-aversion.
+
+60. And when it is said to them, “Bow down to the Merciful,” they say, “And what is the
+Merciful? Are we to bow down to whatever you command us?” And it increases their aversion.
 61. Blessed is He who placed constellations in
 the sky, and placed in it a lamp, and an illu-
 minating moon.

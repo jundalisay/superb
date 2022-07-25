@@ -52,28 +52,22 @@ give Allah a clear case against you?
 145. The hypocrites will be in the lowest level
 of the Fire, and you will find no helper for
 them.
-146. Except those who repent, and reform, and
-hold fast to Allah, and dedicate their religion
-to Allah alone. These are with the believers;
-and Allah will give the believers a great re-
-ward.
-147. What would Allah accomplish by your
-punishment, if you have given thanks, and
-have believed? Allah is Appreciative and
-Cognizant.
-148. Allah does not like the public uttering of
-bad language, unless someone was wronged.
-Allah is Hearing and Knowing.
+
+146. Except those who repent, and reform, and hold fast to Allah, and dedicate their religion
+to Allah alone. These are with the believers; and Allah will give the believers a great reward.
+
+147. What would Allah accomplish by your punishment, if you have given thanks, and have believed? 
+
+148. Allah does not like the public uttering of bad language, unless someone was wronged.
+
+
 149. If you let a good deed be shown, or conceal
-it, or pardon an offense—Allah is Pardoning
-and Capable.
-150. Those who disbelieve in Allah and His
-messengers, and want to separate between
-Allah and His messengers, and say, “We be-
-lieve in some, and reject some,” and wish to
-take a path in between.
-151. These are the unbelievers, truly. We have
-prepared for the unbelievers a shameful punishment.
+it, or pardon an offense—Allah is Pardoningand Capable.
+
+150. Those who disbelieve in Allah and His messengers, and want to separate between
+Allah and His messengers, and say, “We believe in some, and reject some,” and wish to take a path in between.
+
+151. These are the unbelievers, truly. We have prepared for the unbelievers a shameful punishment.
 
 But if you refuse—to Allah belongs everything in the heavens and everything on earth.
 Allah is in no need, Praiseworthy. 
@@ -106,53 +100,62 @@ Allah has sealed them for their disbelief, so
 they do not believe, except for a few.
 156. And for their faithlessness, and their say-
 ing against Mary a monstrous slander.
-157. And for their saying, “We have killed the
-Messiah, Jesus, the son of Mary, the Messen-
-ger of Allah.” In fact, they did not kill him,
-nor did they crucify him, but it appeared to
-them as if they did. Indeed, those who differ
-about him are in doubt about it. They have
-no knowledge of it, except the following of as-
-sumptions. Certainly, they did not kill him.
+
+
+157. They say: “We have killed the Jesus, the son of Mary, the Messenger of Allah.” 
+
+In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they did.
+
+Those who differ about him are in doubt about it. They have no knowledge of it, except the following of assumptions. 
+
+Certainly, they did not kill him.
+
 158. Rather, Allah raised him up to Himself.
-Allah is Mighty and Wise.
-159. There is none from the People of the
-Scripture but will believe in him before his
-death, and on the Day of Resurrection he will
+
+159. There is none from the People of the Scripture but will believe in him before his death, and on the Day of Resurrection he will
 be a witness against them.
-160. Due to wrongdoing on the part of the Jews, We forbade them good things that used
-to be lawful for them; and for deterring many from Allah’s path.
-161. And for their taking usury, although they were forbidden it; and for their consuming people's wealth dishonestly. We have prepared for the faithless among them a painful torment.
 
-162. But those among them firmly rooted in knowledge, and the believers, believe in what
-was revealed to you, and in what was revealed before you; and the observers of prayers, and
-the givers of charity, and the believers in Allah and the Last Day—upon these We will be-
-stow an immense reward.
+160. We forbade the Jews good things that used to be lawful for them, because of:
+- their wrongdoings
+- deterring many from Allah’s path
+- their taking usury, although they were forbidden it
+- for their consuming people's wealth dishonestly. 
 
-163. We have inspired you, as We had inspired Noah and the prophets after him. And We in-
-spired Abraham, and Ishmael, and Isaac, and Jacob, and the Patriarchs, and Jesus, and Job,
-and Jonah, and Aaron, and Solomon. And We gave David the Psalms.
-164. Some messengers We have already told you about, while some messengers We have
-not told you about. And Allah spoke to Moses directly.
+We have prepared for the faithless among them a painful torment.
+
+162. But those among them firmly rooted in knowledge, and the believers, believe in what was revealed to you, and in what was revealed before you; and the observers of prayers, and the givers of charity, and the believers in Allah and the Last Day—upon these We will bestow an immense reward.
+
+163. We have inspired you, as We had inspired Noah and the prophets after him.
+
+We inspired Abraham, and Ishmael, and Isaac, and Jacob, and the Patriarchs, and Jesus, and Job, and Jonah, and Aaron, and Solomon. And We gave David the Psalms.
+
+164. Some messengers We have already told you about, while some messengers We have not told you about. And Allah spoke to Moses directly.
+
 165. Messengers delivering good news, and bringing warnings; so that people may have
-no excuse before Allah after the coming of the messengers. Allah is Powerful and Wise.
+no excuse before Allah after the coming of the messengers.
+
 166. But Allah bears witness to what He revealed to you. He revealed it with His
 knowledge. And the angels bear witness. Though Allah is a sufficient witness.
-167. Those who disbelieve and repel from Al-
-lah’s path have gone far astray.
-168. Those who disbelieve and transgress; Al-
-lah is not about to forgive them, nor will He
+<!-- 167. Those who disbelieve and repel from Allah’s path have gone far astray. -->
+
+168. Those who disbelieve and transgress; Allah is not about to forgive them, nor will He
 guide them to any path.
-169. Except to the path of Hell, where they will
-dwell forever. And that is easy for Allah.
-170. O people! The Messenger has come to you
-with the truth from your Lord, so believe—
+
+169. Except to the path of Hell, where they will dwell forever. And that is easy for Allah.
+170. O people! The Messenger has come to you with the truth from your Lord, so believe—
 that is best for you. But if you disbelieve, to
 Allah belongs everything in the heavens and
 the earth. Allah is Omniscient and Wise.
 
-171. O People of the Scripture! Do not exaggerate in your religion, and do not say about Al-
-lah except the truth. The Messiah, Jesus, the son of Mary, is the Messenger of Allah, and His Word that He conveyed to Mary, and a Spirit from Him. So believe in Allah and His messengers, and do not say, “Three.” Refrain—it is better for you. Allah is only one God. 
+171. O People of the Scripture! Do not:
+- exaggerate in your religion
+- say about Allah except the truth
+
+Jesus is the Messenger of Allah. 
+- His Word that He conveyed to Mary, and a Spirit from Him. 
+- Believe in Allah and His messengers. 
+- Do not say, “Three.” 
+- Refrain—it is better for you. Allah is only one God. 
 
 <!-- Glory be to Him—that He should have
 a son. To Him belongs everything in the heavens and the earth, and Allah is a sufficient Protector. -->
@@ -165,7 +168,7 @@ and will increase His grace for them. But as for those who disdain and are too p
 will punish them with an agonizing punishment. And they will find for themselves,
 apart from Allah, no lord and no savior.
 
-174. O people! A proof has come to you from your Lord, and We sent down to you a clear light.
+174. A proof has come to you from your Lord, and We sent down to you a clear light.
 
 175. As for those who believe in Allah, and hold fast to Him, He will admit them into mercy
 and grace from Him, and will guide them toHimself in a straight path.
@@ -179,4 +182,3 @@ And he inherits from her if she leaves no children.
 But if there are two sisters, they receive 2/3 of what he leaves. If the siblings are men and women, the male receives the share
 of two females.” Allah makes things clear for you, lest you err. <!-- Allah is Aware of every-
 thing. -->
-

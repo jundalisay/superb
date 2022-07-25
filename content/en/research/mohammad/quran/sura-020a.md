@@ -23,6 +23,7 @@ and the earth, and everything between them,
 and everything beneath the soil.
 7. If you speak aloud—He knows the secret,
 and the most hidden.
+
 8. Allah, there is no god but He, His are the
 Most Beautiful Names.{{< s v="5" >}} {{< s v="9" >}}  Has
 the story of Moses reached you?
@@ -31,10 +32,11 @@ When he saw a fire, he said to his family,
 bring you a torch therefrom, or find some
 guidance by the fire.”{{< s v="11" >}}  Then, when he reached it, he was called, “O
 Moses.
+
 12. I—I am your Lord. Take off your shoes.
 You are in the sacred valley of Tuwa.
-13. I have chosen you, so listen to what is re-
-vealed.
+
+13. I have chosen you, so listen to what is revealed.
 14. I—I am Allah. There is no God but I. So
 serve Me, and practice the prayer for My re-
 membrance.
@@ -58,19 +60,17 @@ We will restore it to its original condition.
 22. And press your hand to your side; it will
 come out white, without a blemish—another
 sign.
+
 20.
-23. That We may show you some of
-est signs.
-Our great-
-24. Go
-to Pharaoh; He has transgressed.”
+23. That We may show you some of Our greatest signs.
+
+24. Go to Pharaoh; He has transgressed.”
 He said, “My Lord, put my heart at peace
 for me.
-25.
+
 26. And ease my task for me.
 27. And untie the knot from my tongue.
-28. So
-they can understand my speech.
+28. So they can understand my  speech.
 appoint an assistant for me, from my
 family.
 29. And
@@ -88,15 +88,9 @@ said, “You are granted your request, O
 Moses.
 36. He
 37. We
-had favored you another time.
-When We inspired your mother with the
-inspiration.
-39. `Put him in the chest; then cast him into
-the river. The river will wash him to shore,
-where an enemy of Mine and an enemy of his
-will pick him up. And I have bestowed upon
-you love from Me, so that you may be reared
-before My eye.
+had favored you another time. When We inspired your mother with the inspiration.
+39. `Put him in the chest; then cast him into the river. The river will wash him to shore, where an enemy of Mine and an enemy of his will pick him up. And I have bestowed upon you love from Me, so that you may be reared before My eye.
+
 40. When your sister walked along, and said,
 ‘Shall I tell you about someone who will take
 care of him?' So We returned you to your
@@ -104,9 +98,9 @@ mother, that she may be comforted, and not
 sorrow. And you killed a person, but We
 saved you from stress; and We tested you
 thoroughly. And you stayed years among the
-people of Median. Then you came back, as
-ordained, O Moses.
+people of Median. Then you came back, as ordained, O Moses.
 38.
+
 41. And
 I made you for Myself.
 Go, you and your brother, with My signs,

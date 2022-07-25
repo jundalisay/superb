@@ -291,27 +291,24 @@ previously; and from his descendants David,
 and Solomon, and Job, and Joseph, and Mo-
 ses, and Aaron. Thus We reward the right-
 eous.
-85. And Zechariah, and John, and Jesus, and
-Elias—every one of them was of the upright.
-86. And Ishmael, and Elijah, and Jonah, and
-Lot—We favored each one of them over all
-other people.
-87. And of their ancestors, and their descend-
-ants, and their siblings—We chose them, and
+
+85. Zechariah, John, Jesus, and Elias were upright.
+
+86. We favored Ishmael, Elijah, Jonah, and Lot over all other people.
+
+87. And of their ancestors, and their descendants, and their siblings—We chose them, and
 guided them to a straight path.
-88. Such is Allah’s guidance. He guides with it
+
+<!-- 88. Such is Allah’s guidance. He guides with it
 whomever He wills of His servants. Had they
 associated, their deeds would have gone in
-vain.
-89. Those are they to whom We gave the Book,
-and wisdom, and prophethood. If these reject
-them, We have entrusted them to others who
-do not reject them.
-The righteous are in no way accountable
-for them; it is only a reminder, that they may
-be careful.
-70. So leave alone those who take their religion
-for play and pastime, and whom the worldly
+vain. -->
+
+89. Those are they to whom We gave the Book, and wisdom, and prophethood. If these reject
+them, We have entrusted them to others who do not reject them.
+The righteous are in no way accountable for them; it is only a reminder, that they may be careful.
+
+70. So leave alone those who take their religion for play and pastime, and whom the worldly
 life has deceived. But remind with it, lest a
 soul becomes damned on account of what it
 has earned. It has no helper or intercessor be-
@@ -321,10 +318,9 @@ ones who are delivered to perdition by their
 actions. They will have a drink of scalding
 water, and a painful punishment, because
 they used to disbelieve.
-71. Say, “Shall we invoke besides Allah some-
-thing that can neither benefit us nor harm us,
-and turn back on our heels after Allah has
-guided us; like someone seduced by the devils
+
+71. Say, “Shall we invoke besides Allah something that can neither benefit us nor harm us,
+and turn back on our heels after Allah has guided us; like someone seduced by the devils
 and confused on earth, who has friends call-
 ing him to guidance: 'Come to us'?” Say, “The
 guidance of Allah is the guidance, and we are
@@ -353,12 +349,13 @@ said, “If my Lord does not guide me, I will be
 one of the erring people.”
 78. Then, when he saw the sun rising, he said,
 “This is my lord, this is bigger.” But when it
-69.
-486. LIVESTOCK (al-An’am)
+
+
 90. Those are they whom Allah has guided, so
 follow their guidance. Say, “I ask of you no
 compensation for it; it is just a reminder for
 all mankind.”
+
 91. They do not value Allah as He should be
 valued, when they say, “Allah did not reveal
 anything to any human being.” Say, “Who re-
@@ -580,48 +577,39 @@ of their idols does not reach Allah, yet the
 
 share of Allah reaches their idols. Evil is their
 judgment.
+
+
 137. Likewise, their idols entice many idolaters
 to kill their children, in order to lead them to
 their ruin, and confuse them in their religion.
 Had Allah willed, they would not have done
 it; so leave them to their fraud.
-138. And they say, “These animals and crops
-are restricted; none may eat them except
-those we permit,” by their claims, and ani-
-mals whose backs are forbidden, and animals
-over which they do not pronounce the name
-of Allah—fabricating lies against Him. He
+
+138. And they say, “These animals and crops are restricted; none may eat them except
+those we permit,” by their claims, and animals whose backs are forbidden, and animals
+over which they do not pronounce the name of Allah—fabricating lies against Him. He
 will repay them for what they used to invent.
-139. And they say, “What lies in the wombs of
-these animals is exclusively for our males,
-and prohibited to our wives.” But if it is still-
-born, they can share in it. He will surely pun-
-ish them for their allegations. He is Wise and
-Knowing.
-140. Lost are those who kill their children fool-
-ishly, with no basis in knowledge, and forbid
-what Allah has provided for them—innova-
-tions about Allah. They have gone astray.
-They are not guided.
-141. It is He who produces gardens, both culti-
-vated and wild, and date-palms, and crops of
-diverse tastes, and olives and pomegranates,
-similar and dissimilar. Eat of its fruit when it
-yields, and give its due on the day of its har-
-vest, and do not waste. He does not love the
+
+139. And they say, “What lies in the wombs of these animals is exclusively for our males,
+and prohibited to our wives.” But if it is still-born, they can share in it. He will surely pun-
+ish them for their allegations.
+
+140. Lost are those who kill their children foolishly, with no basis in knowledge, and forbid
+what Allah has provided for them—innovations about Allah. They have gone astray.
+
+141. It is He who produces gardens, both cultivated and wild, and date-palms, and crops of
+diverse tastes, and olives and pomegranates, similar and dissimilar. Eat of its fruit when it
+yields, and give its due on the day of its harvest, and do not waste. He does not love the
 wasteful.
-142. Among the livestock are some for trans-
-portation, and some for clothing. Eat of what
+
+142. Among the livestock are some for transportation, and some for clothing. Eat of what
 Allah has provided for you, and do not follow
-the footsteps of Satan. He is to you an out-
-right enemy.
-143. Eight pairs: two of the sheep, and two of
-the goats. Say, “Did He forbid the two males,
-or the two females, or what the wombs of the
-two females contain? Inform me with
+the footsteps of Satan. He is to you an outright enemy.
+143. Eight pairs: two of the sheep, and two of the goats. Say, “Did He forbid the two males,
+or the two females, or what the wombs of the two females contain? Inform me with
 knowledge, if you are truthful.”
-144. And two of the camels, and two of the cat-
-tle. Say, “Did He forbid the two males, or the
+
+144. And two of the camels, and two of the cattle. Say, “Did He forbid the two males, or the
 two females, or what the wombs of the two females contain? Were you present when Allah enjoined this upon you?” Who does
 greater wrong than he who invents lies and attributes them to Allah, in order to mislead
 people without knowledge? Allah does not guide the wicked people.
@@ -665,34 +653,36 @@ erty—We provide for you and for them; that you do not come near indecencies, w
 
 outward or inward; and that you do not kill
 the soul which Allah has sanctified—except
-in the course of justice. All this He has en-
-joined upon you, so that you may under-
-stand.”
-152. And do not come near the property of the
-orphan, except with the best intentions, until
-he reaches maturity. And give full weight and
-full measure, equitably. We do not burden
-any soul beyond its capacity. And when you
-speak, be fair, even if it concerns a close rela-
+in the course of justice. All this He has enjoined upon you, so that you may understand.”
+
+152. And do not come near the property of the orphan, except with the best intentions, until
+he reaches maturity. And give full weight and full measure, equitably. We do not burden
+any soul beyond its capacity. 
+
+When you speak, be fair, even if it concerns a close rela-
 tive. And fulfill your covenant with Allah. All
 this He has enjoined upon you, so that you
 may take heed.
+
 153. This is My path, straight, so follow it. And
 do not follow the other paths, lest they divert
 you from His path. All this He has enjoined
 upon you, that you may refrain from wrong-
 doing.
-154. Then We gave Moses the Scripture, per-
-fect for the righteous, and explaining every-
+
+154. Then We gave Moses the Scripture, perfect for the righteous, and explaining every-
 thing clearly, and a beacon, and mercy, that
 they may believe in the encounter with their
 Lord.
+
 155. This too is a blessed Scripture that We re-
 vealed; so follow it, and be righteous, that you
 may receive mercy.
+
 156. Lest you say, “The Scripture was revealed
 to two parties before us, and we were una-
 ware of their teachings.”
+
 157. Or lest you say, “Had the Scripture been
 revealed to us, we would have been better
 guided than they.” Clarification has come to
@@ -703,6 +693,7 @@ turns away from them? We will repay those
 who turn away from Our messages with the
 worst kind of punishment, because of their
 turning away.
+
 158. Are they waiting for anything but for the
 angels to come to them, or for your Lord to
 arrive, or for some of your Lord’s signs to
