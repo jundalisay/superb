@@ -4,9 +4,9 @@ heading: "Chapter 6a of the Quran Simplified"
 date: 2021-11-20
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
-linkb: /mohammad/quran/
+linkb: /research/mohammad/quran/
 linkbtext: "Index"
-linkf: /mohammad/quran/
+linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 

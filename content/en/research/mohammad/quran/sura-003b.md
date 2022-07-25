@@ -4,9 +4,9 @@ heading: "Chapter 3b of the Quran Simplified"
 date: 2022-01-30
 image: "/covers/quran.jpg"
 description: "The Prophet Mohammad tries to connect the historical Imran family to his Islam."
-linkb: /mohammad/quran/
+linkb: /research/mohammad/quran/
 linkbtext: "Index"
-linkf: /mohammad/quran/
+linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 

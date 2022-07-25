@@ -4,9 +4,9 @@ heading: "Chapter 69 of the Quran Simplified"
 date: 2021-11-20
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /mohammad/quran/
+linkb: /research/mohammad/quran/
 linkbtext: "Index"
-linkf: /mohammad/quran/
+linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 
@@ -93,9 +93,6 @@ to Us.
 arm.
 41. And
 
-
-
-70. WAYS OF ASCENT (al-Ma’arij)
 46. Then
 It invites him who once turned his back
 and fled.
@@ -116,178 +113,4 @@ it is the absolute truth.
 52. So glorify the name of your Lord, the Mag-
 nificent.
 
-1. A
-questioner questioned the imminent tor-
-ment.
-the disbelievers; none can repel it.
-Allah, Lord of the Ways of Ascent.
-Him the angels and the Spirit ascend
-on a Day the duration of which is fifty thou-
-sand years.
-4. Unto
-be patient, with sweet patience.
-6. They
-see it distant.
-7. But
-We see it near.
-8. On the Day when the sky will be like molten
-brass.
-9. And
-the mountains will be like tufted wool.
-10. No
-friend will care about his friend.
-will be shown each other. The crimi-
-nal wishes he would be redeemed from the
-punishment of that Day by his children.
-11. They
-12. And
-his spouse, and his brother.
-13. And
-his family that sheltered him.
-And everyone on earth, in order to save
-him.
-14.
-15.
-By no means! It is a Raging Fire.
-16. It
-23. Those
-who are constant at their prayers.
-And those in whose wealth is a rightful
-share.
-24.
-25. For
-the beggar and the deprived.
-And those who affirm the Day of Judg-
-ment.
-27. And those who fear the punishment of
-their Lord.
-28. Their Lord’s punishment is not to be taken
-for granted.
-29. And
-those who guard their chastity.
-Except from their spouses or those living
-under their control, for then they are free of
-blame.
-31. But whoever seeks to go beyond that—
-these are the transgressors.
-32. And those who honor their trusts and their
-pledges.
-30.
-3. From
-5. So
-the prayerful.
-26.
-70. WAYS OF ASCENT
-(al-Ma’arij)
-2. For
-22. Except
-33. And
-34. And
-ers.
-those who stand by their testimonies.
-those who are dedicated to their pray-
-35. These
-will be honored in Gardens.
-is with those who disbelieve, stretch-
-ing their necks towards you.
-37. From the right, and from the left, banding
-together?
-38. Is every one of them aspiring to be admit-
-ted into a Garden of Bliss?
-39. No indeed! We created them from what
-they know.
-40. I swear by the Lord of the Easts and the
-Wests, that We are Able.
-36. What
-strips away the scalps.
-22271. NOAH (Nuh)
-41. To
-replace them with better than they, and
-We are not to be outdone.
-42. So leave them to blunder and play, until
-they meet their Day which they are promised.
-43. The Day when they will emerge from the
-tombs in a rush, as though they were hurry-
-ing towards a target.
-44. Their eyes cast down; overwhelmed by hu-
-miliation. This is the Day which they were
-promised.
-71. NOAH
-(Nuh)
 
-We sent Noah to his people: “Warn your
-people before there comes upon them a pain-
-ful punishment.”
-2. He said, “O my people, I am to you a clear
-warner.
-3. Worship Allah and reverence Him, and
-obey me.
-4. And He will forgive you of your sins, and
-reprieve you until a stated term. Allah’s term
-cannot be deferred once it has arrived, if you
-only knew.”
-5. He said, “My Lord, I have called my people
-night and day.
-6. But
-my call added only to their flight.
-Whenever I called them to Your for-
-giveness, they thrust their fingers into their
-ears, and wrapped themselves in their gar-
-ments, and insisted, and became more and
-more arrogant.
-7.
-I called them openly.
-Then I appealed to them publicly, and I
-spoke to them privately.
-10. I said, ‘Ask your Lord for forgiveness; He is
-Forgiving.
-11. He will let loose the sky upon you in tor-
-rents.
-9.
-14. Although
-He created you in stages.
-you not realize that Allah created seven
-heavens in layers?
-16. And He set the moon in their midst for
-light, and He made the sun a lamp.
-17. And Allah germinated you from the earth
-like plants.
-18. Then He will return you into it, and will
-bring you out again.
-15. Do
-19. And
-1.
-8. Then
-12. And provide you with wealth and children,
-and allot for you gardens, and allot for you
-rivers.
-13. What is the matter with you, that you do
-not appreciate Allah’s Greatness?
-Allah made the earth a spread for you.
-20. That
-you may travel its diverse roads.’”
-said, “My Lord, they have defied me,
-and followed him whose wealth and children
-increase him only in perdition.”
-21. Noah
-22. And
-they schemed outrageous schemes.
-they said, “Do not give up your gods;
-do not give up Wadd, nor Souwa, nor
-Yaghoos, and Yaooq, and Nassr.
-24. They have misled many, so do not increase
-the wrongdoers except in confusion.”
-25. Because of their wrongs, they were
-drowned, and were hurled into a Fire. They
-did not find apart from Allah any helpers.
-26. Noah said, “My Lord, do not leave of the
-unbelievers a single dweller on earth.
-27. If You leave them, they will mislead your
-servants, and will breed only wicked unbe-
-lievers.
-28. My Lord! Forgive me and my parents, and
-anyone who enters my home in faith, and all
-the believing men and believing women; and
-do not increase the wrongdoers except in
-perdition.”
-23. And 

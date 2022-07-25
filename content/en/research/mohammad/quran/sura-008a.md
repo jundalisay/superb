@@ -4,9 +4,9 @@ heading: "Chapter 8a of the Quran Simplified"
 date: 2021-11-20
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /mohammad/quran/
+linkb: /research/mohammad/quran/
 linkbtext: "Index"
-linkf: /mohammad/quran/
+linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 
