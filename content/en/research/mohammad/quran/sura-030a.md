@@ -13,15 +13,11 @@ linkftext: "Index"
 
 
 <!-- 1. Alif, Lam, Meem. -->
-
-2. The Romans have been defeated.
-
-3. In a nearby territory. But following their defeat, they will be victorious.
-
-4. In a few years. The matter is up to Allah, in the past, and in the future. On that day, the
+{{< s v="2" >}}  The Romans have been defeated.
+{{< s v="3" >}}  In a nearby territory. But following their defeat, they will be victorious.
+{{< s v="4" >}}  In a few years. The matter is up to Allah, in the past, and in the future. On that day, the
 believers will rejoice.
-
-5. In Allah’s support. He supports whomever He wills. He is the Almighty, the Merciful.
+{{< s v="5" >}}  In Allah’s support. He supports whomever He wills. He is the Almighty, the Merciful.
 
 6. The promise of Allah—Allah never breaks His promise, but most people do not know.
 
@@ -29,16 +25,13 @@ believers will rejoice.
 8. Do they not reflect within themselves? Allah did not create the heavens and the earth,
 and what is between them, except with reason, and for a specific duration. But most
 people, regarding meeting their Lord, are disbelievers.
-
-9. Have they not travelled the earth and seen how those before them ended up? They were
+{{< s v="9" >}}  Have they not travelled the earth and seen how those before them ended up? They were
 more powerful than them, and they cultivated the land and developed it more than
 they developed it, and their messengers came to them with clear signs. Allah would never
 wrong them, but they used to wrong themselves.
-
-10. Then, evil was the end of those who committed evil. That is because they rejected Al-
+{{< s v="10" >}}  Then, evil was the end of those who committed evil. That is because they rejected Al-
 lah’s revelations, and used to ridicule them.
-
-11. Allah originates creation, and then repeats it. Then to Him you will be returned.
+{{< s v="11" >}}  Allah originates creation, and then repeats it. Then to Him you will be returned.
 12. On the Day when the Hour takes place, the guilty will despair.
 13. They will have no intercessors from among
 their idols, and they will disown their part-
@@ -47,7 +40,7 @@ ners.
 on that Day they will separate.
 15. As for those who believed and did good
 deeds—they will be delighted in meadows.
-16. But as for those who disbelieved, and re-
+{{< s v="16" >}}But as for those who disbelieved, and re-
 jected Our signs and the encounter of the
 Hereafter—those will be hauled into the tor-
 ment.

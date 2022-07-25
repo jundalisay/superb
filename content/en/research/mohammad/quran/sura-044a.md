@@ -1,27 +1,38 @@
-44. SMOKE (ad-Dukhan)
+---
+title: "SMOKE (ad-Dukhan)"
+heading: "Chapter 44a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. Ha, Meem.
-2. By
-the Enlightening Scripture.
-3. We have revealed it on a Blessed Night—
+
+
+<!-- {{< s v="1" >}}  Ha, Meem. -->
+
+{{< s v="2" >}}  By the Enlightening Scripture.{{< s v="3" >}}  We have revealed it on a Blessed Night—
 We have warned.
-4. In
-it is distinguished every wise command.
+
+{{< s v="4" >}}  In it is distinguished every wise command.
 A decree from Us. We have been sending
 messages.
+
 6. As mercy from your Lord. He is the Hearer,
 the Knower.
+
 7. Lord of the heavens and the earth and what
 is between them, if you know for sure.
+
 8. There is no god but He. He gives life and
 causes death—your Lord and Lord of your
-ancestors of old.
-5.
-9. Yet
+ancestors of old.{{< s v="5" >}} {{< s v="9" >}}  Yet
 they play around in doubt.
 out for the Day when the sky pro-
-duces a visible smoke.
-11. Enveloping mankind; this is a painful pun-
+duces a visible smoke.{{< s v="11" >}}  Enveloping mankind; this is a painful pun-
 ishment.
 12. “Our Lord, lift the torment from us, we are
 believers.”
@@ -31,11 +42,10 @@ ening messenger has already come to them.
 “Educated, but crazy!”
 15. We will ease the punishment a little, but
 you will revert.
-16. The Day when We launch the Great As-
+{{< s v="16" >}}The Day when We launch the Great As-
 sault—We will avenge.
 17. Before them We tested the people of Phar-
-aoh; a noble messenger came to them.
-10. So watch
+aoh; a noble messenger came to them.{{< s v="10" >}}  So watch
 
 45. KNEELING (al-Jathiyah)
 18. Saying,

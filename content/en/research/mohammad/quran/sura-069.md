@@ -11,10 +11,8 @@ linkftext: "Index"
 ---
 
 
-
-2. What is the Reality?
-
-4. Thamood and Aad denied the Catastrophe.
+{{< s v="2" >}}  What is the Reality?
+{{< s v="4" >}}  Thamood and Aad denied the Catastrophe.
 
 As for Thamood, they were annihilated by
 the Overwhelming.
@@ -26,18 +24,15 @@ furious, roaring wind.
 the people tossed around, as though they were stumps of hollow palm-trees.
 
 8. Can you see any remnant of them?
-
-9. Then Pharaoh came, and those before him, and the Overturned Cities steeped in sin.
-10. But they disobeyed the messenger of their Lord, so He seized them with an overpowering grip.
-
-11. When the waters overflowed, We carried you in the cruising ship.
+{{< s v="9" >}}  Then Pharaoh came, and those before him, and the Overturned Cities steeped in sin.{{< s v="10" >}}  But they disobeyed the messenger of their Lord, so He seized them with an overpowering grip.
+{{< s v="11" >}}  When the waters overflowed, We carried you in the cruising ship.
 12. To make it a lesson for you—so that retaining ears may retain it.
 13. Then, when the Trumpet is sounded a single time.
 
 14. And the earth and the mountains are lifted up, and crushed, with a single crush.
 15. On that Day, the Event will come to pass.
 
-16. And the heaven will crack; so on that Day it will be frail.
+{{< s v="16" >}}And the heaven will crack; so on that Day it will be frail.
 17. And the angels will be ranged around its borders, while eight will be carrying the
 Throne of your Lord above them that Day. 
 

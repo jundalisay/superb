@@ -1,21 +1,27 @@
-74. THE ENROBED (al-Muddathir)
+---
+title: "THE ENROBED (al-Muddathir)"
+heading: "Chapter 74a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. O
-you Enrobed one.
-2. Arise
-and warn.
-3. And magnify your Lord.
-4. And purify your clothes.
-5. And abandon abominations.
+
+
+{{< s v="1" >}}  O you Enrobed one. {{< s v="2" >}}  Arise and warn {{< s v="3" >}} and magnify your Lord.{{< s v="4" >}}  
+
+Purify your clothes.{{< s v="5" >}}  And abandon abominations.
+
 6. And show no favor seeking gain.
 7. And be constant for your Lord.
-8. When
-9. That
-10. For
+8. When{{< s v="9" >}}  That{{< s v="10" >}}  For
 the Trumpet is blown.
 Day will be a difficult day.
-the disbelievers—not easy.
-11. Leave
+the disbelievers—not easy.{{< s v="11" >}}  Leave
 Me to him whom I created alone.
 12. And gave him vast wealth.
 13. And children as witnesses.

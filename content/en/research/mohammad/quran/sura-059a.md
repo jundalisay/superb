@@ -1,28 +1,30 @@
-59. THE MOBILIZATION (al-Hashr)
+---
+title: "THE MOBILIZATION (al-Hashr)"
+heading: "Chapter 59a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. Glorifying Allah is all that exists in the heav-
-ens and the earth. He is the Almighty, the
-Most Wise.
 
-2. It is He who evicted those who disbelieved among the People of the Book from their
-homes at the first mobilization. You did not think they would leave, and they thought
-their fortresses would protect them from Allah. But Allah came at them from where they
-never expected, and threw terror into their hearts. They wrecked their homes with their
-own hands, and by the hands of the believers.
+<!-- {{< s v="1" >}}  Glorifying Allah is all that exists in the heavens and the earth. -->
+
+
+{{< s v="2" >}}  It is He who evicted those who disbelieved among the People of the Book from their homes at the first mobilization. You did not think they would leave, and they thought their fortresses would protect them from Allah. But Allah came at them from where they never expected, and threw terror into their hearts. They wrecked their homes with their own hands, and by the hands of the believers.
 
 Therefore, take a lesson, O you who have insight.
 
-3. Had Allah not decreed exile for them, He
-would have punished them in this life. But in
-the Hereafter they will have the punishment
-of the Fire.
+{{< s v="3" >}}  Had Allah not decreed exile for them, He would have punished them in this life. But in
+the Hereafter they will have the punishment of the Fire.
 
-4. That is because they opposed Allah and His
-Messenger. Whoever opposes Allah—Allah
+{{< s v="4" >}}  That is because they opposed Allah and His Messenger. Whoever opposes Allah—Allah
 is stern in retribution.
 
-5. Whether you cut down a tree, or leave it
-standing on its trunk, it is by Allah’s will. He
+{{< s v="5" >}}  Whether you cut down a tree, or leave itstanding on its trunk, it is by Allah’s will. He
 will surely disgrace the sinners.
 
 6. Whatever Allah has bestowed upon His
@@ -45,21 +47,18 @@ ment.
 of their homes and their possessions, as they
 sought the favor of Allah and His approval,
 and came to the aid of Allah and His Messen-
-ger. These are the sincere.
-9. And those who, before them, had settled in
+ger. These are the sincere.{{< s v="9" >}}  And those who, before them, had settled in
 the homeland, and had accepted faith. They
 love those who emigrated to them, and find
 no hesitation in their hearts in helping them.
 They give them priority over themselves,
 even if they themselves are needy. Whoever
 is protected from his natural greed—it is they
-who are the successful.
-10. And those who came after them, saying,
+who are the successful.{{< s v="10" >}}  And those who came after them, saying,
 “Our Lord, forgive us, and our brethren who
 preceded us in faith, and leave no malice in
 our hearts towards those who believe. Our
-Lord, You are Clement and Merciful.”
-11. Have you not considered those who act
+Lord, You are Clement and Merciful.”{{< s v="11" >}}  Have you not considered those who act
 hypocritically? They say to their brethren
 who disbelieved among the People of the
 Book, “If you are evicted, we will leave with
@@ -84,7 +83,7 @@ are a people who do not understand.
 15. Like those shortly before them. They experienced the consequences of their decisions.
 For them is a painful punishment.
 
-16. Like the devil, when he says to the human being, “Disbelieve.” But when he has disbe-
+{{< s v="16" >}}Like the devil, when he says to the human being, “Disbelieve.” But when he has disbe-
 lieved, he says, “I am innocent of you; I fear
 Allah, the Lord of the Worlds.”
 

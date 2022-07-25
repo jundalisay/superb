@@ -10,30 +10,25 @@ linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 
-
-1. A chapter that We have revealed, and made obligatory, and revealed in it clear Verses,
+{{< s v="1" >}}  A chapter that We have revealed, and made obligatory, and revealed in it clear Verses,
 that you may take heed.
 
-2. The adulteress and the adulterer—whip each one of them a hundred lashes, and let no
+{{< s v="2" >}}  The adulteress and the adulterer—whip each one of them a hundred lashes, and let no
 pity towards them overcome you regarding Allah’s Law, if you believe in Allah and the
-Last Day. And let a group of believers witness their punishment.
-3. The adulterer shall marry none but an adulteress or an idolatress; and the adulteress
+Last Day. And let a group of believers witness their punishment.{{< s v="3" >}}  The adulterer shall marry none but an adulteress or an idolatress; and the adulteress
 shall marry none but an adulterer or an idolater. That has been prohibited for the believers.
-
-4. Those who accuse chaste women, then cannot bring four witnesses, whip them eighty
+{{< s v="4" >}}  Those who accuse chaste women, then cannot bring four witnesses, whip them eighty
 lashes, and do not ever accept their testimony. For these are the immoral.
-
-5. Except for those who repent afterwards, and reform; for Allah is Forgiving and Merciful.
+{{< s v="5" >}}  Except for those who repent afterwards, and reform; for Allah is Forgiving and Merciful.
 6. As for those who accuse their own spouses, but have no witnesses except themselves, the
 testimony of one of them is equivalent to 4 testimonies, if he swears by Allah that he is truthful.
 
 7. And the fifth time, that Allah’s curse be upon him, if he is a liar.
-8. But punishment shall be averted from her, if she swears four times by Allah, that he is a liar.
-9. And the fifth time, that Allah’s wrath be upon her, if he is truthful.
+
+8. But punishment shall be averted from her, if she swears four times by Allah, that he is a liar.{{< s v="9" >}}  And the fifth time, that Allah’s wrath be upon her, if he is truthful.
 <!-- 10. Were it not for Allah’s grace upon you, and His mercy, and that Allah is Conciliatory and
 Wise. -->
-
-11. Those who perpetrated the slander are a band of you. Do not consider it bad for you,
+{{< s v="11" >}}  Those who perpetrated the slander are a band of you. Do not consider it bad for you,
 but it is good for you. Each person among them bears his share in the sin. As for him
 who played the major role—for him is a terrible punishment.
 12. Why, when you heard about it, the believing men and women did not think well of one
@@ -46,7 +41,7 @@ then in Allah’s sight, they are liars.
 you would have suffered a great punishment for what you have ventured into.
 15. When you rumored it with your tongues, and spoke with your mouths what you had no
 knowledge of, and you considered it trivial; but according to Allah, it is serious.
-16. When you heard it, you should have said, “It is not for us to repeat this. By Your glory, this is a serious slander.”
+{{< s v="16" >}}When you heard it, you should have said, “It is not for us to repeat this. By Your glory, this is a serious slander.”
 
 17. Allah cautions you never to return to the like of it, if you are believers.
 18. Allah explains the Verses to you. Allah is Knowing and Wise.

@@ -1,7 +1,17 @@
-77. THE UNLEASHED
-(al-Mursalat)
+---
+title: "THE UNLEASHED (al-Mursalat)"
+heading: "Chapter 77a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. [The Day of Judgement will be] unleashed in succession. It will:
+
+{{< s v="1" >}}  [The Day of Judgement will be] unleashed in succession. It will:
 - storm turbulently
 - scatter far and wide
 - separate decisively
@@ -17,13 +27,11 @@ It will be deferred until the Day of Decision.
 
 And what will teach you what the Day of
 Decision is?
-14.
-15. Woe
-16. Did
-We not destroy the ancients?
 
-18. This
-is how We deal with the guilty.
+
+{{< s v="16" >}}Did we not destroy the ancients?
+
+18. This is how We deal with the guilty.
 on that Day to the rejecters.
 Did We not create you from an insignifi-
 cant fluid?
@@ -64,16 +72,14 @@ they will not be allowed to apologize.
 decisively. a message. 37. Woe
 what you are promised will happen.
 succeeded them with the others?
-19. Woe
-5. Delivering
+19. Woe{{< s v="5" >}}  Delivering
 or warning.
 on that Day to the liars.
 17. Then
 36. And
 7. Surely
 which day is it deferred?
-13. Until
-4. Separating
+13. Until{{< s v="4" >}}  Separating
 6. Excusing
 the stars are obliterated.
 on that Day to the rejecters.
@@ -107,15 +113,9 @@ do not kneel.
 on that Day to the rejecters.
 50. In what message, beyond this, will they believe?
 
-
-3. About which they disagree.
-4. Surely,
-5. Most
+{{< s v="3" >}}  About which they disagree.{{< s v="4" >}}  Surely,{{< s v="5" >}}  Most
 6. Did
-created you in pairs?
-9. And made your sleep for rest?
-10. And made the night a cover?
-11. And made the day for livelihood?
+created you in pairs?{{< s v="9" >}}  And made your sleep for rest?{{< s v="10" >}}  And made the night a cover?{{< s v="11" >}}  And made the day for livelihood?
 12. And built above you seven strong ones?
 13. And
 15. To
@@ -187,14 +187,13 @@ gateways.
 20. And the mountains are set in motion, and
 become a mirage.
 18.
-29. 
-2. About
+29. {{< s v="2" >}}  About
 luxuriant gardens?
 17. The
 28. And
 
 
-16. And
+{{< s v="16" >}}And
 
 79. THE SNATCHERS (an-Nazi’at)
 what his hands have produced, and the faith-

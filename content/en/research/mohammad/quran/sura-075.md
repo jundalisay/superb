@@ -1,22 +1,29 @@
-75. RESURRECTION (al-Qiyamah)
+---
+title: "RESURRECTION (al-Qiyamah)"
+heading: "Chapter 75a of the Quran Simplified"
+date: 2021-11-20
+image: "/covers/quran.jpg"
+description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
+
 
 I swear by:
 - the Day of Resurrection.
 - the blaming soul.
 
 Does man think that We will not reassemble his bones?
-
-4. Yes, We are Able to reconstruct his fingertips.
-
-5. But man wants to deny what is ahead of him.
+{{< s v="4" >}}  Yes, We are Able to reconstruct his fingertips.
+{{< s v="5" >}}  But man wants to deny what is ahead of him.
 6. He asks, “When is the Day of Resurrection?”
 
 7. When vision is dazzled.
 8. And the moon is eclipsed.
-And the sun and the moon are joined together.
-10. On that Day, man will say, “Where is the
-escape?”
-11. No indeed! There is no refuge.
+And the sun and the moon are joined together.{{< s v="10" >}}  On that Day, man will say, “Where is the
+escape?”{{< s v="11" >}}  No indeed! There is no refuge.
 12. To your
 Lord on that Day is the settlement.
 that Day man will be informed of eve-
@@ -25,7 +32,7 @@ behind.
 13. On
 14. And man will be evidence against himself.
 15. Even as he presents his excuses.
-16. Do not wag your tongue with it, to hurry
+{{< s v="16" >}}Do not wag your tongue with it, to hurry
 on with it.
 17. Upon
 Us is its collection and its recitation.
@@ -74,13 +81,12 @@ and the female?
 
 
 
-
-1. I
+{{< s v="1" >}}  I
 is one of the greatest.
 
 15. Even
 as he presents his excuses.
-16. Do not wag your tongue with it, to hurry
+{{< s v="16" >}}Do not wag your tongue with it, to hurry
 on with it.
 17. Upon
 Us is its collection and its recitation.
@@ -127,6 +133,3 @@ and the female?
 39.
 40. Is
 He not Able to revive the dead?
-
-
-

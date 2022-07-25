@@ -1,70 +1,66 @@
-42. CONSULTATION (ash-Shura)
+---
+title: "CONSULTATION (ash-Shura)"
+heading: "Chapter 42a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
+
 
 <!-- 1. Ha,
-Meem.
-2. Ayn,
+Meem.{{< s v="2" >}}  Ayn,
 Seen, Qaf.
 Thus He inspires you, and those before
 you—Allah the Almighty, the Wise.
-
-4. To him belongs everything in the heavens
+{{< s v="4" >}}  To him belongs everything in the heavens
 and everything on earth. He is the Sublime,
 the Magnificent.
-
-5. The heavens above them almost burst apart,
+{{< s v="5" >}}  The heavens above them almost burst apart,
 while the angels glorify the praises of their
 Lord, and ask forgiveness for those on earth.
 Allah is indeed the Forgiver, the Merciful. -->
 
-6. As for those who take masters other than
-Him: Allah is in charge of them, and you are
+6. As for those who take masters other than Him: Allah is in charge of them, and you are
 not responsible for them.
 
-7. Thus We inspired you with an Arabic
-Quran, that you may warn the Central City
-and whoever is around it, and to warn of the
-Day of Assembly, of which there is no doubt;
-a group in the Garden, and a group in the
-Furnace.
-3.
+7. Thus We inspired you with an Arabic Quran, that you may warn the Central City
+and whoever is around it, and to warn of the Day of Assembly, of which there is no doubt;
+a group in the Garden, and a group in the Furnace.
+
+{{< s v="3" >}} 
 8. Had Allah willed, He could have made them
 one community, but He admits into His
-mercy whomever He wills. As for the wrong-
-doers, they will have no protector and no sav-
-ior.
-9. Or have they adopted protectors besides
-him? But Allah is the Protector, and He gives
-life to the dead, and He has power over all
-things.
-10. Whatever matter you differ about, its judg-
-ment rests with Allah. “Such is Allah, my
-Lord, in Whom I trust, and unto Him I re-
-pent.”
-11. Originator of the heavens and the earth. He
-made for you mates from among yourselves,
-and pairs of animals, by means of which He
-multiplies you. There is nothing like Him. He
-is the Hearing, the Seeing.
-12. To Him belongs absolute control of the
-heavens and the earth. He spreads the boun-
-ties to whomever He wills, or reduces it. He
-is aware of all things.
-13. He prescribed for you the same religion He
-enjoined upon Noah, and what We inspired
-to you, and what We enjoined upon Abra-
-ham, and Moses, and Jesus: “You shall up-
-hold the religion, and be not divided therein.”
-As for the idolaters, what you call them to is
-outrageous to them. Allah chooses to Himself
-whom He wills, and He guides to Himself
-whoever repents.
-14. They became divided only after knowledge
-came to them, out of resentment among
-themselves. Were it not for a predetermined
-decision from your Lord, judgment would
-have been pronounced between them. In-
-deed, those who were made to inherit the
-Book after them are in grave doubt about it.
+mercy whomever He wills. 
+
+As for the wrongdoers, they will have no protector and no savior.
+
+{{< s v="9" >}}  Or have they adopted protectors besides him? But Allah is the Protector, and He gives
+life to the dead, and He has power over all things.
+
+{{< s v="10" >}}  Whatever matter you differ about, its judgment rests with Allah. “Such is Allah, my
+Lord, in Whom I trust, and unto Him I repent.”
+
+{{< s v="11" >}}  Originator of the heavens and the earth. He made for you mates from among yourselves,
+and pairs of animals, by means of which He multiplies you. There is nothing like Him. He
+is the Hearing, the Seeing. 
+
+12. To Him belongs absolute control of the heavens and the earth. He spreads the bounties to whomever He wills, or reduces it. He is aware of all things.
+
+13. He prescribed for you the same religion He enjoined upon Noah, and what We inspired
+to you, and what We enjoined upon Abraham, and Moses, and Jesus: “You shall uphold the religion, and be not divided therein.”
+
+As for the idolaters, what you call them to is outrageous to them. Allah chooses to Himself
+whom He wills, and He guides to Himself whoever repents.
+
+14. They became divided only after knowledge came to them, out of resentment among
+themselves. Were it not for a predetermined decision from your Lord, judgment would
+have been pronounced between them. 
+
+Those who were made to inherit the Book after them are in grave doubt about it.
 15. To this go on inviting, and be upright as
 you were commanded, and do not follow
 their inclinations, and say, “I believe in what-
@@ -75,7 +71,7 @@ deeds, and you have your deeds. Let there be
 no quarrel between us and you. Allah will bring us together, and to Him is the ultimate
 return.”
 
-16. As for those who dispute about Allah after having answered His call, their argument is
+{{< s v="16" >}}As for those who dispute about Allah after having answered His call, their argument is
 invalid with their Lord; and upon them falls
 wrath; and a grievous torment awaits them.
 17. It is Allah who revealed the Book with the truth, and the Balance. And what will make

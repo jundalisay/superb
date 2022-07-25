@@ -1,37 +1,44 @@
-47. MUHAMMAD (Muhammad)
+---
+title: "MUHAMMAD (Muhammad)"
+heading: "Chapter 47a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
+
+
 
 Those who disbelieve and repel from the path of Allah—He nullifies their works.
 
-2. While those who believe, and work righteousness, and believe in what was sent down to Muhammad—and it is the truth from their
-Lord—He remits their sins, and relieves their concerns.
+{{< s v="2" >}}  While those who believe, and work righteousness, and believe in what was sent down to Muhammad—and it is the truth from their Lord—He remits their sins, and relieves their concerns.
 
-3. That is because those who disbelieve follow falsehoods, while those who believe follow
-the truth from their Lord. Allah thus cites for the people their examples.
-4. When you encounter those who disbelieve, strike at their necks. Then, when you have
-routed them, bind them firmly. Then, either release them by grace, or by ransom, until
+{{< s v="3" >}}  That is because those who disbelieve follow falsehoods, while those who believe follow
+the truth from their Lord. Allah thus cites for the people their examples.{{< s v="4" >}}  When you encounter those who disbelieve, strike at their necks. Then, when you have routed them, bind them firmly. Then, either release them by grace, or by ransom, until
 war lays down its burdens. Had Allah willed,
 He could have defeated them Himself, but He
-thus tests some of you by means of others. As
-for those who are killed in the way of Allah,
+thus tests some of you by means of others. As for those who are killed in the way of Allah,
+
 He will not let their deeds go to waste.
 
-5. He will guide them, and will improve their state of mind.
+{{< s v="5" >}}  He will guide them, and will improve their state of mind.
+
 6. And will admit them into Paradise, which He has identified for them.
-7. O you who believe! If you support Allah, He
-will support you, and will strengthen your
-foothold.
+
+7. If you support Allah, He will support you, and will strengthen your foothold.
+
 8. But as for those who disbelieve, for them is
-perdition, and He will waste their deeds.
-9. That is because they hated what Allah re-
-vealed, so He nullified their deeds.
-10. Have they not journeyed through the earth
-and seen the consequences for those before
-them? Allah poured destruction upon them,
-and for the unbelievers is something compa-
-rable.
-11. That is because Allah is the Master of those
+perdition, and He will waste their deeds.{{< s v="9" >}}  That is because they hated what Allah re-
+vealed, so He nullified their deeds.{{< s v="10" >}}  Have they not journeyed through the earth
+and seen the consequences for those before them? Allah poured destruction upon them, and for the unbelievers is something comparable.
+
+{{< s v="11" >}}  That is because Allah is the Master of those
 who believe, while the disbelievers have no
 master.
+
 12. Allah will admit those who believe and do
 good deeds into gardens beneath which riv-
 ers flow. As for those who disbelieve, they en-
@@ -50,7 +57,7 @@ strained honey. And therein they will have of every fruit, and forgiveness from 
 Like one abiding in the Fire forever, and are given to drink boiling water, that cuts-up
 their bowels?
 
-16. Among them are those who listen to you, but when they leave your presence, they say
+{{< s v="16" >}}Among them are those who listen to you, but when they leave your presence, they say
 to those given knowledge, “What did he say just now?” Those are they whose hearts Allah
 has sealed, and they follow their own desires.
 

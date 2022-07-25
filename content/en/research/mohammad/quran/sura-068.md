@@ -1,26 +1,34 @@
-68. THE PEN (al-Qalam)
+---
+title: "THE PEN (al-Qalam)"
+heading: "Chapter 68a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. Noon. By the pen, and by what they in-
-scribe.
-2. By the grace of your Lord, you are not in-
-sane.
-3. In fact, you will have a reward that will
-never end.
-4. And you are of a great moral character.
-5. You will see, and they will see.
-6. Which
-of you is the afflicted.
+
+{{< s v="1" >}}  Noon. By the pen, and by what they inscribe.
+
+{{< s v="2" >}}  By the grace of your Lord, you are not insane.
+
+{{< s v="3" >}}  In fact, you will have a reward that will never end.
+
+{{< s v="4" >}}  And you are of a great moral character.{{< s v="5" >}}  You will see, and they will see.
+
+6. Which of you is the afflicted.
 7. Your Lord knows best who has strayed from
 His path, and He knows best the well-guided.
-8. So
-do not obey the deniers.
-9. They would like you to compromise, so they
-would compromise.
-10. And
+8. So do not obey the deniers.{{< s v="9" >}}  They would like you to compromise, so they
+would compromise.{{< s v="10" >}}  And
 do not obey any vile swearer.
-11. Backbiter,
-219
-spreader of slander.68. THE PEN (al-Qalam)
+
+{{< s v="11" >}}  Backbiter,
+spreader of slander.
+
 12. Preventer
 13. Rude
 36. What
@@ -30,7 +38,7 @@ and fake besides.
 because he has money and children.
 15. When Our Verses are recited to him, he
 says, “Myths of the ancients!”
-16. We
+{{< s v="16" >}}We
 will brand him on the muzzle.
 them, as We tested the owners of
 the garden, when they vowed to harvest it in

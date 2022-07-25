@@ -12,8 +12,7 @@ linkftext: "Index"
 
 
 <!-- 1. Alif, Lam, Meem. -->
-<!-- 2. These
-3. A
+<!-- 2. These{{< s v="3" >}}  A
 are the Verses of the Wise Book.
 guide and a mercy for the righteous.
 who observe the prayer, and pay the
@@ -24,8 +23,7 @@ Hereafter. -->
 
 6. Among the people is he who trades in distracting tales; intending, without knowledge,
 to lead away from Allah’s way, and to make a 
-
-4. Those
+{{< s v="4" >}}  Those
 
 mockery of it. These will have a humiliating
 punishment.
@@ -38,12 +36,10 @@ So inform him of a painful punishment.
 8. As for those who believe and do good
 deeds—for them are the Gardens of Bliss.
 <!-- 9. Dwelling therein forever.  -->
-
-10. He created the heavens without pillars that you can see, and placed stabilizers on earth
+{{< s v="10" >}}  He created the heavens without pillars that you can see, and placed stabilizers on earth
 lest it shifts with you, and scattered throughout it all kinds of creatures. And from the sky
 We sent down water, and caused to grow therein of every noble pair.
-
-11. Such is Allah’s creation. Now show me what those besides Him have created. In fact, the wicked are in obvious error.
+{{< s v="11" >}}  Such is Allah’s creation. Now show me what those besides Him have created. In fact, the wicked are in obvious error.
 12. We endowed Luqman with wisdom: “Give thanks to Allah.” Whoever is appreciative—
 is appreciative for the benefit of his own soul.
 
@@ -59,7 +55,7 @@ and to your parents. To Me is the destination.
 knowledge, do not obey them. But keep them company in this life, in kindness, and follow
 the path of him who turns to Me. Then to Me is your return; and I will inform you of what you used to do.
 
-16. “O my son, even if it were the weight of a mustard-seed, in a rock, or in the heavens, or
+{{< s v="16" >}}“O my son, even if it were the weight of a mustard-seed, in a rock, or in the heavens, or
 on earth, Allah will bring it to light.
 
 O my son, observe the prayer, advocate

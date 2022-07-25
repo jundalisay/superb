@@ -13,18 +13,14 @@ linkftext: "Index"
 
 
 <!-- 1. Glorifying Allah is everything in the heavens and the earth. He is the Almighty, the
-Wise. -->
-2. To Allah belongs the kingdom of the heavens and the earth. He gives life and causes
+Wise. -->{{< s v="2" >}}  To Allah belongs the kingdom of the heavens and the earth. He gives life and causes
 death, and He has power over all things. 
-
-3. He is the First and the Last, and the Outer and the Inner, and He has knowledge of all things.
-
-4. It is He who created the heavens and the earth in six days, then settled over the
+{{< s v="3" >}}  He is the First and the Last, and the Outer and the Inner, and He has knowledge of all things.
+{{< s v="4" >}}  It is He who created the heavens and the earth in six days, then settled over the
 Throne. He knows what penetrates into the earth, and what comes out of it, and what descends from the sky, and what ascends to it.
 
 And He is with you wherever you may be. Allah is Seeing of everything you do.
-
-5. To Him belongs the kingship of the heavens and the earth, and to Allah all matters are referred.
+{{< s v="5" >}}  To Him belongs the kingship of the heavens and the earth, and to Allah all matters are referred.
 
 6. He merges the night into the day, and He merges the day into the night; and He knows
 what the hearts contains.
@@ -33,16 +29,13 @@ what the hearts contains.
 among you who believe and give will have a great reward.
 
 8. What is the matter with you that you do not believe in Allah, when the Messenger calls
-you to believe in your Lord, and He has received a pledge from you, if you are believers?
-9. It is He who sends down upon His servant clear revelations, to bring you out of darkness
+you to believe in your Lord, and He has received a pledge from you, if you are believers?{{< s v="9" >}}  It is He who sends down upon His servant clear revelations, to bring you out of darkness
 into the light. Allah is Gentle towards you, Most Compassionate.
-
-10. And why is it that you do not spend in the cause of Allah, when to Allah belongs the in-
+{{< s v="10" >}}  And why is it that you do not spend in the cause of Allah, when to Allah belongs the in-
 heritance of the heavens and the earth? Not equal among you are those who contributed
 before the conquest, and fought. Those are higher in rank than those who contributed
 afterwards, and fought. But Allah promises both a good reward. <!-- Allah is Well Experi-enced in what you do. -->
-
-11. Who is he who will lend Allah a loan of
+{{< s v="11" >}}  Who is he who will lend Allah a loan of
 goodness, that He may double it for him, and
 will have a generous reward?
 12. On the Day when you see the believing
@@ -68,7 +61,7 @@ deceived you regarding Allah.”
 cepted from you, nor from those who disbe-
 lieved. The Fire is your refuge. It is your com-
 panion—what an evil fate!”
-16. Is it not time for those who believe to sur-
+{{< s v="16" >}}Is it not time for those who believe to sur-
 render their hearts to the remembrance of Al-
 lah, and to the truth that has come down, and
 not be like those who were given the Book

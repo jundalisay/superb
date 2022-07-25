@@ -401,7 +401,7 @@ us; You are the Best of providers.”
 whoever among you disbelieves thereafter, I
 will punish him with a punishment the like of
 which I never punish any other being.”
-116. And Allah will say, “O Jesus son of Mary,
+1{{< s v="16" >}}And Allah will say, “O Jesus son of Mary,
 did you say to the people, `Take me and my
 mother as gods rather than Allah?'“ He will
 say, “Glory be to You! It is not for me to say

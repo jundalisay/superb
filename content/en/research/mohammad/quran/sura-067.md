@@ -1,20 +1,31 @@
-67. SOVEREIGNTY (al-Mulk)
+---
+title: "SOVEREIGNTY (al-Mulk)"
+heading: "Chapter 67a of the Quran Simplified"
+date: 2022-01-30
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-Blessed is He in whose hand is the sover-
-eignty, and Who has power over everything.
-2. He who created death and life—to test
+
+Blessed is He in whose hand is the sovereignty, and Who has power over everything.{{< s v="2" >}}  He who created death and life—to test
 you—as to which of you is better in conduct.
-He is the Almighty, the Forgiving.
-3. He who created seven heavens in layers.
+He is the Almighty, the Forgiving.{{< s v="3" >}}  He who created seven heavens in layers.
 You see no discrepancy in the creation of the
 Compassionate. Look again. Can you see any
 cracks?
-4. Then look again, and again, and your sight
+
+{{< s v="4" >}}  Then look again, and again, and your sight
 will return to you dazzled and exhausted.
-5. We have adorned the lower heaven with
+
+{{< s v="5" >}}  We have adorned the lower heaven with
 lanterns, and made them missiles against the
 devils; and We have prepared for them the
 punishment of the Blaze.
+
 6. For those who reject their Lord, there is the
 torment of Hell. What an evil destination!
 7. When they are thrown into it, they will hear
@@ -22,17 +33,14 @@ it roaring, as it seethes.
 8. It almost bursts with fury. Every time a
 batch is thrown into it, its keepers will ask
 them, “Has no warner come to you?”
-
-9. They will say, “Yes, a warner
+{{< s v="9" >}}  They will say, “Yes, a warner
 did come to us,
 but we disbelieved, and said, ‘Allah did not
 send down anything; you are very much mis-
 taken.’”
-10. And they will say, “Had we listened or rea-
-soned, we would not have been among the in-
-mates of the Blaze.”
-11. So they will acknowledge their sins. So
-away with the inmates of the Blaze.
+
+{{< s v="10" >}} They will say, “Had we listened or reasoned, we would not have been among the inmates of the Blaze.”
+{{< s v="11" >}}  So they will acknowledge their sins. So away with the inmates of the Blaze.
 12. As for those who fear their Lord in secret—
 for them is forgiveness and a great reward.
 13. Whether you keep your words secret, or
@@ -43,7 +51,7 @@ is the Refined, the Expert.
 15. It is He who made the earth manageable for
 you, so travel its regions, and eat of His pro-
 visions. To Him is the Resurgence.
-16. Are you confident that the One in heaven
+{{< s v="16" >}}Are you confident that the One in heaven
 will not cause the earth to collapse beneath
 you as it spins?
 17. Or are you confident that the One in

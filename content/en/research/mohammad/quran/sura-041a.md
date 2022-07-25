@@ -1,76 +1,70 @@
-41. DETAILED (Fussilat)
+---
+title: "DETAILED (Fussilat)"
+heading: "Chapter 41a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
+
 
 <!-- 1. Ha, Meem. A revelation from the Most Gracious, the
-Most Merciful.
-3. A Scripture whose Verses are detailed, a
-Quran in Arabic for people who know. -->
-4. Bringing good news, and giving warnings.
-But most of them turn away, so they do not
-listen.
+Most Merciful.{{< s v="3" >}}  A Scripture whose Verses are detailed, a
+Quran in Arabic for people who know. -->{{< s v="4" >}}  Bringing good news, and giving warnings. But most of them turn away, so they do not listen.
 
-5. And they say, “Our hearts are screened
-from what you call us to, and in our ears is
+{{< s v="5" >}}  And they say, “Our hearts are screened from what you call us to, and in our ears is
 deafness, and between us and you is a barrier.
-So do what you want, and so will we.”
-2.
-18141. DETAILED (Fussilat)
-6. Say, “I am only a human like you; it is in-
-spired in me that your God is One God. So be
-upright towards Him, and seek forgiveness
-from Him.” And woe to the idolaters.
-7. Those who do not pay the alms; and regard-
-ing the Hereafter, they are disbelievers.
-8. As for those who believe and do righteous
-deeds—for them is a reward uninterrupted.
-9. Say, “Do you reject the One who created the
-earth in two days? And you attribute equals
-to Him? That is the Lord of the Universe.”
-10. He placed stabilizers over it; and blessed it;
-and planned its provisions in four days,
-equally to the seekers.
-11. Then He turned to the sky, and it was
-smoke, and said to it and to the earth, “Come,
-willingly or unwillingly.” They said, “We
-come willingly.”
 
-12. So He completed them as seven universes
-in two days, and He assigned to each universe
-its laws. And We decorated the lower uni-
-verse with lamps, and for protection. That is
+So do what you want, and so will we.”
+
+{{< s v="6" >}}  Say, “I am only a human like you; it is inspired in me that your God is One God. So be
+upright towards Him, and seek forgiveness from Him.” And woe to the idolaters.
+
+
+7. Those who do not pay the alms; and regarding the Hereafter, they are disbelievers.
+
+8. As for those who believe and do righteous deeds—for them is a reward uninterrupted.
+
+{{< s v="9" >}}  Say, “Do you reject the One who created the earth in two days? And you attribute equals to Him? That is the Lord of the Universe.”
+
+{{< s v="10" >}}  He placed stabilizers over it; and blessed it; and planned its provisions in four days,
+equally to the seekers.
+
+{{< s v="11" >}}  Then He turned to the sky, and it was smoke, and said to it and to the earth, “Come,
+willingly or unwillingly.” They said, “We come willingly.”
+
+12. So He completed them as seven universes in two days, and He assigned to each universe
+its laws. And We decorated the lower universe with lamps, and for protection. That is
 the design of the Almighty, the All-Knowing.
-13. But if they turn away, say, “I have warned
-you of a thunderbolt, like the thunderbolt of
+
+13. But if they turn away, say, “I have warned you of a thunderbolt, like the thunderbolt of
 Aad and Thamood.”
-14. Their messengers came to them, from be-
-fore them and from behind them, saying, “Do
-not worship anyone but Allah.” They said,
-“Had our Lord willed, He would have sent
-down angels; Therefore, we reject what you
-are sent with.”
-15. As for Aad, they turned arrogant on earth,
-and opposed justice, and said, “Who is more
-powerful than us?” Have they not considered
-that Allah, who created them, is more power-
-ful than they? And they went on denying Our
+
+14. Their messengers came to them, from before them and from behind them, saying, “Do
+not worship anyone but Allah.” They said, “Had our Lord willed, He would have sent
+down angels; Therefore, we reject what you are sent with.”
+15. As for Aad, they turned arrogant on earth, and opposed justice, and said, “Who is more powerful than us?” Have they not considered
+that Allah, who created them, is more powerful than they? And they went on denying Our
 revelations.
-16. So We unleashed upon them a screaming
-wind, for a few miserable days, to make them
+
+{{< s v="16" >}}So We unleashed upon them a screaming wind, for a few miserable days, to make them
 taste the punishment of shame in this life; but
 the punishment of the Hereafter is more
 shameful; and they will not be saved.
 17. And as for Thamood, We guided them, but
-they preferred blindness over guidance. So
-the thunderbolt of the humiliating punish-
-ment seized them, because of what they used
-to earn.
-18. And We saved those who believed and
-were righteous.
-19. The Day when Allah’s enemies are herded
-into the Fire, forcibly.
-20. Until, when they have reached it, their
-hearing, and their sight, and their skins will
-testify against them regarding what they used
-to do.
+they preferred blindness over guidance. 
+
+So the thunderbolt of the humiliating punishment seized them, because of what they used to earn.
+
+18. And We saved those who believed and were righteous.
+
+19. The Day when Allah’s enemies are herded into the Fire, forcibly.
+
+20. Until, when they have reached it, their hearing, and their sight, and their skins will testify against them regarding what they used to do.
+
 21. And they will say to their skins, “Why did
 you testify against us?” They will say, “Allah,
 Who made all things speak, made us speak. It

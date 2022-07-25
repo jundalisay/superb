@@ -1,31 +1,40 @@
-38. SAAD (Saad)
+---
+title: "SAAD (Saad)"
+heading: "Chapter 38a of the Quran Simplified"
+date: 2021-11-20
+image: "/covers/quran.jpg"
+description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. Saad. By the renowned Quran.
-Those who disbelieve are steeped in arro-
-gance and defiance.
-3. How many generations have We destroyed
-before them? They cried out when it was too
-late to escape.
-4. And they marveled that a warner has come
-to them from among them. The disbelievers
-said, “This is a lying magician.”
-5. “Did he turn all the gods into one God? This
-is something strange.”
-6. The notables among them announced: “Go
-on, and hold fast to your gods. This is some-
-thing planned.
+
+{{< s v="1" >}}  Saad. By the renowned Quran.
+
+Those who disbelieve are steeped in arrogance and defiance.
+
+{{< s v="3" >}}  How many generations have We destroyed
+before them? They cried out when it was too late to escape.
+
+{{< s v="4" >}}  And they marveled that a warner has come
+to them from among them. The disbelievers said, “This is a lying magician.”
+
+{{< s v="5" >}}  “Did he turn all the gods into one God? This is something strange.”
+
+6. The notables among them announced: “Go on, and hold fast to your gods. This is something planned.
 7. We never heard of this in the former faith.
+
 This is nothing but a fabrication.
+
 8. Was the message sent down to him, out of
 all of us?” In fact, they are doubtful of My
 warning. In fact, they have not yet tasted My
-punishment.
-9. Or do they possess the treasuries of the
-mercy of your Lord—the Majestic, the Giver?
-10. Or do they possess the sovereignty of the
+punishment.{{< s v="9" >}}  Or do they possess the treasuries of the
+mercy of your Lord—the Majestic, the Giver?{{< s v="10" >}}  Or do they possess the sovereignty of the
 heavens and the earth and what is between
-them? Then let them ascend the ropes.
-11. An army of confederates will be defeated there.
+them? Then let them ascend the ropes.{{< s v="11" >}}  An army of confederates will be defeated there.
 
 12. Before them the people of Noah denied the truth; as did Aad, and Pharaoh of the Stakes.
 13. And Thamood, and the people of Lot, and the dwellers of the Woods—these were the
@@ -33,7 +42,7 @@ confederates.
 
 14. None of them but denied the messengers, so My retribution was deserved.
 15. These can expect only a single scream, from which there is no recovery.
-16. And they say, “Our Lord, hasten Your writ upon us, before the Day of Account.”
+{{< s v="16" >}}And they say, “Our Lord, hasten Your writ upon us, before the Day of Account.”
 17. Be patient in the face of what they say, and mention Our servant David, the resourceful. He was obedient.
 
 18. We committed the mountains to glorify with him, in the evening and at daybreak.
@@ -55,10 +64,8 @@ from his Lord, and fell down to his knees, and repented.
 do not follow desire, lest it diverts you from  Allah’s path. Those who stray from Allah’s
 path will have a painful punishment, for having ignored the Day of Account.”
 27. We did not create the heaven and the earth
-and everything between them in vain. That is
-the assumption of those who disbelieve—so
-woe to those who disbelieve because of the
-Fire.
+and everything between them in vain. That is the assumption of those who disbelieve—so woe to those who disbelieve because of the Fire.
+
 28. Or are We to treat those who believe and
 do righteous deeds like those who make trou-
 ble on earth? Or are We to treat the pious like

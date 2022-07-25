@@ -1,12 +1,28 @@
-83. THE DEFRAUDERS
-(al-Mutaffifin)
+---
+title: "THE DEFRAUDERS (al-Mutaffifin)"
+heading: "Chapter 83a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-Woe to the defrauders. When they take a measure from people, they take in full.
-3. But when they measure or weigh to others, they cheat.
-4. Do these not know that they will be resurrected for a Great Day when mankind will stand before the Lord of the World?
+
+Woe to the defrauders. 
+
+When they take a measure from people, they take in full.
+
+{{< s v="3" >}}  But when they measure or weigh to others, they cheat.{{< s v="4" >}}  Do these not know that they will be resurrected for a Great Day when mankind will stand before the Lord of the World?
+
 7. Not at all. The record of the wicked is in Sijjeen.
+
 8. But how can you know what Sijjeen, a numerical book, is?
+
 When our Our revelations are recited to the sinful aggressor, he says, “Legends of the ancients.”
+
 14. Their hearts have become corroded by what they used to earn.
 15. On that Day, they will be screened from their Lord and will roast in Hell.
 It will be said, “This is what you used to deny.”

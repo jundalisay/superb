@@ -1,17 +1,28 @@
-85. THE CONSTELLATIONS (al-Buruj)
+---
+title: "THE CONSTELLATIONS (al-Buruj)"
+heading: "Chapter 85a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. By the sky with the constellations.
-2. And by the Promised Day.
-3. And by the witness and the witnessed.
-4. The People of the Trench were destroyed
-5. The fire supplied with fuel while they sat around it.
+
+{{< s v="1" >}}  By the sky with the constellations.{{< s v="2" >}}  And by the Promised Day.
+
+{{< s v="3" >}}  And by the witness and the witnessed.
+
+{{< s v="4" >}}  The People of the Trench were destroyed
+
+{{< s v="5" >}}  The fire supplied with fuel while they sat around it.
+
 7. And were witnessing what they did to the believers.
-8. They begrudged them only because they believed in Allah the Almighty, the Praiseworthy.
-9. To Whom belongs the sovereignty of the heavens and the earth. Allah is witness over
-everything.
-10. Those who tempt the believers, men and women, then do not repent; for them is the
-punishment of Hell; for them is the punishment of Burning.
-11. Those who believe and do righteous deeds will have Gardens beneath which rivers flow.
+8. They begrudged them only because they believed in Allah the Almighty, the Praiseworthy.{{< s v="9" >}}  To Whom belongs the sovereignty of the heavens and the earth. Allah is witness over
+everything.{{< s v="10" >}}  Those who tempt the believers, men and women, then do not repent; for them is the
+punishment of Hell; for them is the punishment of Burning.{{< s v="11" >}}  Those who believe and do righteous deeds will have Gardens beneath which rivers flow.
 That is the great triumph.
 12. The onslaught of your Lord is severe.
 13. He begins and repeats.
@@ -19,7 +30,7 @@ That is the great triumph.
 He is the Forgiving, the Loving.
 15. Possessor
 of the Glorious Throne.
-16. Doer
+{{< s v="16" >}}Doer
 of whatever He wills. -->
 17. Have you heard of you the story of the legions Of Pharaoh and Thamood?
 
@@ -40,24 +51,16 @@ Us is their return.
 26. Then
 Scriptures of Abraham and Moses. -->
 
-89. THE DAWN
-(al-Fajr)
+## 89. THE DAWN (al-Fajr)
 
-1. By the daybreak.
-2. And 10 nights
-3. 
+{{< s v="1" >}}  By the daybreak.{{< s v="2" >}}  And 10 nights{{< s v="3" >}}  
+
 
 
 88. THE OVERWHELMING
-(al-Ghashiyah)
-1. Have you heard of the news of the overwhelming?
-2. Faces on that Day will be shamed.
-3. Laboring and exhausted.
-4. Roasting in a scorching Fire.
-5. Given  to drink from a flaming spring.
+(al-Ghashiyah){{< s v="1" >}}  Have you heard of the news of the overwhelming?{{< s v="2" >}}  Faces on that Day will be shamed.{{< s v="3" >}}  Laboring and exhausted.{{< s v="4" >}}  Roasting in a scorching Fire.{{< s v="5" >}}  Given  to drink from a flaming spring.
 6. They will have no food except thorns that neither nourishes, nor satisfies hunger.
-8. Faces on that Day will be joyful, satisfied with their endeavor.
-9. In a lofty Garden, you will hear no nonsense.
+8. Faces on that Day will be joyful, satisfied with their endeavor.{{< s v="9" >}}  In a lofty Garden, you will hear no nonsense.
 12. In it is a flowing spring.
 13. In it are raised beds.
 14. And cups set in place.
@@ -82,34 +85,28 @@ remind. You are only a reminder.
 
 of the pillars.
 The like of which was never created in the
-land.
-9. And Thamood—those who carved the
+land.{{< s v="9" >}}  And Thamood—those who carved the
 rocks in the valley.
 8.
 Pharaoh of the Stakes.
 Those who committed excesses in the
 lands.
 
-7. Erum
-11.
+7. Erum{{< s v="11" >}} 
 17. Do
 19.
-the night as it recedes.
-10. And
-16. And
+the night as it recedes.{{< s v="10" >}}  And
+{{< s v="16" >}}And
 18. And
-the even and the odd.
-4. And
+the even and the odd.{{< s v="4" >}}  And
 a rational person?
 Have you not seen how your Lord dealt
 with Aad?
 
 6.
 
-
-9. Satisfied
-
-5. Is there in this an oath for
+{{< s v="9" >}}  Satisfied
+{{< s v="5" >}}  Is there in this an oath for
 6. They
 
 upon Us rests their reckoning.
@@ -117,7 +114,7 @@ Lord is on the lookout.
 As for man, whenever his Lord tests him,
 and honors him, and prospers him, he says,
 “My Lord has honored me.”
-16. But whenever He tests him, and restricts
+{{< s v="16" >}}But whenever He tests him, and restricts
 his livelihood for him, he says, “My Lord has
 insulted me.”
 17. Not at all. But you do not honor the or-
@@ -142,7 +139,7 @@ will remembrance avail him?
 life.”
 25. On that Day, none will punish as He pun-
 ishes. 15. An orphan near of kin.
-21. 16. Or
+21. {{< s v="16" >}}Or
 26. And
 27. But
 to your Lord, pleased and accepted.
@@ -157,10 +154,7 @@ the day as it reveals it.
 
 
 90. THE LAND
-(al-Balad) 
-1. swear by this land.
-4. And the night as it conceals it.
-5. And the sky and He who built it.
+(al-Balad) {{< s v="1" >}}  swear by this land.{{< s v="4" >}}  And the night as it conceals it.{{< s v="5" >}}  And the sky and He who built it.
  6. And the earth and He who spread it.
 you are a resident of this land.
 by a father and what he fathered.
@@ -168,22 +162,16 @@ by a father and what he fathered.
 the soul and He who proportioned it.
 And inspired it with its wickedness and its
 righteousness.
-8.
-9. Successful
-4. We
-created man in distress.
-5. Does he think that no one has power over
+8.{{< s v="9" >}}  Successful{{< s v="4" >}}  We
+created man in distress.{{< s v="5" >}}  Does he think that no one has power over
 him?
 says, “I have used up so much money.”
 he think that no one sees him?
 We not give him two eyes?
-a tongue, and two lips?
-10. And
-We showed him the two ways?
-10. Failing
+a tongue, and two lips?{{< s v="10" >}}  And
+We showed him the two ways?{{< s v="10" >}}  Failing
 is he who purifies it.
-is he who corrupts it.
-11. Thamood
+is he who corrupts it.{{< s v="11" >}}  Thamood
 denied in its pride.
 12. When
 it followed its most wicked.
@@ -193,22 +181,16 @@ is the she-camel of Allah, so let her drink.”
 her. So their Lord crushed them for their sin,
 and leveled it.
 13. The
-15. And
-11. But
+15. And{{< s v="11" >}}  But
 he did not brave the ascent.
 12. And what will explain to you what the as-
 cent is?
 13. The
 the sun and its radiance.
-the moon as it follows it.
-3. And
-9. And
-1. By
-3. And
+the moon as it follows it.{{< s v="3" >}}  And{{< s v="9" >}}  And{{< s v="1" >}}  By{{< s v="3" >}}  And
 
 7. Does
-them is a padlocked Fire.
-2. And 2. And
+them is a padlocked Fire.{{< s v="2" >}}  And 2. And
 8. Did
 are the people of happiness.
 But as for those who defy Our revela-
@@ -219,8 +201,7 @@ none will shackle as He shackles.
 6. He
 18. These
 as for you, O tranquil soul.
-28. Return
-1. I
+28. Return{{< s v="1" >}}  I
 a destitute in the dust.
 17. Then he becomes of those who believe, and
 advise one another to patience, and advise
@@ -231,61 +212,47 @@ He does not fear its sequel.
 (al-Layl)
 In the name of Allah,
 23693. MORNING LIGHT (adh-Duha)
-the Gracious, the Merciful
-1. By
-the night as it covers.
-2. And
+the Gracious, the Merciful{{< s v="1" >}}  By
+the night as it covers.{{< s v="2" >}}  And
 the day as it reveals.
 And He who created the male and the fe-
-male.
-3.
-4. Your
-5. As
+male.{{< s v="3" >}} {{< s v="4" >}}  Your{{< s v="5" >}}  As
 endeavors are indeed diverse.
 8. And
-found you in need, and enriched you?
-10. Nor
+found you in need, and enriched you?{{< s v="10" >}}  Nor
 confirms goodness.
 7. We
 will ease his way towards ease.
 8. But as for him who is stingy and compla-
-cent.
-9. And
-7. And found you wandering, and guided you?
-9. Therefore,
+cent.{{< s v="9" >}}  And
+7. And found you wandering, and guided you?{{< s v="9" >}}  Therefore,
 for him who gives and is righteous.
 6. And
 And your Lord will give you, and you will
 be satisfied.
 6. Did He not find you orphaned, and shel-
-tered you?
-5.
-11. But
+tered you?{{< s v="5" >}} {{< s v="11" >}}  But
 rebuff the seeker.
 proclaim the blessings of your Lord.
 
 94. THE SOOTHING (ash-Sharh)
 denies goodness.
-
-10. We
-will ease his way towards difficulty.
-11. And his money will not avail him when he
+{{< s v="10" >}}  We
+will ease his way towards difficulty.{{< s v="11" >}}  And his money will not avail him when he
 plummets. 1. Did
 12. It 2. And
 is upon Us to guide.
 13. And
 14. I
 We not soothe your heart?
-lift from you your burden.
-3. Which
-to Us belong the Last and the First.
-4. And
+lift from you your burden.{{< s v="3" >}}  Which
+to Us belong the Last and the First.{{< s v="4" >}}  And
 have warned you of a Fierce Blaze.
 do not mistreat the orphan.
 weighed down your back?
 raised for you your reputation?
 15. None will burn in it except the very wicked. 5. With hardship comes ease.
-16. He 6. With hardship comes ease.
+{{< s v="16" >}}He 6. With hardship comes ease.
 who denies and turns away.
 17. But
 18. He

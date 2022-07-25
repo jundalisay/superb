@@ -1,28 +1,33 @@
-53. THE STAR (an-Najm)
+---
+title: "THE STAR (an-Najm)"
+heading: "Chapter 53 of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. By
-the star as it goes down.
-friend has not gone astray, nor has he
-erred.
-2. Your
-3. Nor
-4. It
-does he speak out of desire.
+
+{{< s v="1" >}}  By the star as it goes down. friend has not gone astray, nor has he erred.
+
+{{< s v="2" >}}  Your{{< s v="3" >}}  Nor{{< s v="4" >}}  It does he speak out of desire.
 is but a revelation revealed.
-5. Taught
+
+{{< s v="5" >}}  Taught
+
 6. The
 to him by the Extremely Powerful.
 one of vigor. He settled.
 7. While
 8. Then
 he was at the highest horizon.
-he came near, and hovered around.
-9. He
+he came near, and hovered around.{{< s v="9" >}}  He
 was within two bows’ length, or closer.
 Then He revealed to His servant what He
-revealed.
-10.
-11. The
+revealed.{{< s v="10" >}} {{< s v="11" >}}  The
 heart did not lie about what it saw.
 Will you dispute with him concerning
 what he saw?
@@ -33,7 +38,7 @@ what he saw?
 which is the Garden of Repose.
 there covered the Lotus Tree what cov-
 ered it.
-16. As
+{{< s v="16" >}}As
 17. The
 202
 sight did not waver, nor did it exceed.53. THE STAR (an-Najm)
@@ -156,7 +161,7 @@ you marvel at this discourse?
 62. So
 And We left it as a sign. Is there anyone
 who would take heed?
-16. So how were My punishment and My
+{{< s v="16" >}}So how were My punishment and My
 warnings?
 17. We made the Quran easy to learn. Is there
 anyone who would learn?

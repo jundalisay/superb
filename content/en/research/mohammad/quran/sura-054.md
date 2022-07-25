@@ -1,28 +1,33 @@
-54. THE MOON (al-Qamar)
+---
+title: "THE MOON (al-Qamar)"
+heading: "Chapter 54a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. The Hour has drawn near, and the moon
-has split.
-2. Yet whenever they see a miracle, they turn
-away, and say, “Continuous magic.”
-3. They lied, and followed their opinions, but
-everything has its time.
-4. And there came to them news containing a
-deterrent.
-5. Profound wisdom—but warnings are of no
-avail.
-6. So turn away from them. On the Day when
-the Caller calls to something terrible.
-7. Their eyes humiliated, they will emerge
-from the graves, as if they were swarming lo-
-custs.
+
+{{< s v="1" >}}  The Hour has drawn near, and the moon has split.
+
+{{< s v="2" >}}  Yet whenever they see a miracle, they turn away, and say, “Continuous magic.”{{< s v="3" >}}  They lied, and followed their opinions, but everything has its time.
+
+{{< s v="4" >}}  And there came to them news containing a deterrent.
+
+{{< s v="5" >}}  Profound wisdom—but warnings are of no avail.
+
+6. So turn away from them. On the Day when the Caller calls to something terrible.
+
+7. Their eyes humiliated, they will emerge from the graves, as if they were swarming locusts.
+
 8. Scrambling towards the Caller, the disbe-
-lievers will say, “This is a difficult Day.”
-9. Before them the people of Noah disbelieved.
+lievers will say, “This is a difficult Day.”{{< s v="9" >}}  Before them the people of Noah disbelieved.
 They rejected Our servant, and said, “Crazy,”
-and he was rebuked.
-10. So he appealed to his Lord, “I am over-
-whelmed, so help me.”
-11. So We opened the floodgates of heaven
+and he was rebuked.{{< s v="10" >}}  So he appealed to his Lord, “I am over-
+whelmed, so help me.”{{< s v="11" >}}  So We opened the floodgates of heaven
 with water pouring down.
 12. And We made the earth burst with springs,
 and the waters met for a purpose already des-

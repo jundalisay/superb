@@ -1,14 +1,21 @@
-71. NOAH (Nuh)
+---
+title: "Noah (Nuh)"
+heading: "Chapter 71a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
+
 
 We sent Noah to his people: “Warn your people before there comes upon them a painful punishment.”
-
-2. He said, “O my people, I am to you a clear warner.
-3. Worship Allah and reverence Him, and obey me.
-4. And He will forgive you of your sins, and
+{{< s v="2" >}}  He said, “O my people, I am to you a clear warner.{{< s v="3" >}}  Worship Allah and reverence Him, and obey me.{{< s v="4" >}}  And He will forgive you of your sins, and
 reprieve you until a stated term. Allah’s term
 cannot be deferred once it has arrived, if you
-only knew.”
-5. He said, “My Lord, I have called my people
+only knew.”{{< s v="5" >}}  He said, “My Lord, I have called my people
 night and day.
 6. But
 my call added only to their flight.
@@ -20,25 +27,21 @@ more arrogant.
 7.
 I called them openly.
 Then I appealed to them publicly, and I
-spoke to them privately.
-10. I said, ‘Ask your Lord for forgiveness; He is
-Forgiving.
-11. He will let loose the sky upon you in tor-
-rents.
-9.
+spoke to them privately.{{< s v="10" >}}  I said, ‘Ask your Lord for forgiveness; He is
+Forgiving.{{< s v="11" >}}  He will let loose the sky upon you in tor-
+rents.{{< s v="9" >}} 
 14. Although
 He created you in stages.
 you not realize that Allah created seven
 heavens in layers?
-16. And He set the moon in their midst for
+{{< s v="16" >}}And He set the moon in their midst for
 light, and He made the sun a lamp.
 17. And Allah germinated you from the earth
 like plants.
 18. Then He will return you into it, and will
 bring you out again.
 15. Do
-19. And
-1.
+19. And{{< s v="1" >}} 
 8. Then
 12. And provide you with wealth and children,
 and allot for you gardens, and allot for you

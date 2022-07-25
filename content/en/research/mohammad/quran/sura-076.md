@@ -1,28 +1,32 @@
-76. MAN (al-Insan)
+---
+title: "MAN (al-Insan)"
+heading: "Chapter 76a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. Has there come upon man a period of time
-when he was nothing to be mentioned?
-2. We created man from a liquid mixture, to
-test him; and We made him hearing and see-
-ing.
-3. We guided him to the way, be he apprecia-
-tive or unappreciative.
-4. We have prepared for the faithless chains,
-and yokes, and a Searing Fire.
-5. But the righteous will drink from a cup
+
+{{< s v="1" >}}  Has there come upon man a period of time when he was nothing to be mentioned?
+
+{{< s v="2" >}}  We created man from a liquid mixture, to test him; and We made him hearing and see-
+ing.{{< s v="3" >}}  We guided him to the way, be he appreciative or unappreciative.{{< s v="4" >}}  We have prepared for the faithless chains,
+and yokes, and a Searing Fire.{{< s v="5" >}}  But the righteous will drink from a cup
 whose mixture is aroma.
+
 6. A spring from which the servants of Allah
 will drink, making it gush abundantly.
 7. They fulfill their vows, and dread a Day
 whose ill is widespread.
 8. And they feed, for the love of Him, the poor,
-and the orphan, and the captive.
-9. “We only feed you for the sake of Allah. We
+and the orphan, and the captive.{{< s v="9" >}}  “We only feed you for the sake of Allah. We
 want from you neither compensation, nor
-gratitude.
-10. We dread from our Lord a frowning grim
-Day.”
-11. So Allah will protect them from the ills of
+gratitude.{{< s v="10" >}}  We dread from our Lord a frowning grim
+Day.”{{< s v="11" >}}  So Allah will protect them from the ills of
 that Day, and will grant them radiance and
 joy.
 12. And will reward them for their patience
@@ -33,7 +37,7 @@ encing therein neither sun, nor frost.
 brought low within reach.
 15. Passing around them are vessels of silver,
 and cups of crystal.
-16. Crystal of silver—they measured them ex-
+{{< s v="16" >}}Crystal of silver—they measured them ex-
 actly.
 17. They will be served therein with a cup
 whose flavor is Zanjabeel.

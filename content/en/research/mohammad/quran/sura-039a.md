@@ -1,4 +1,15 @@
-39. THRONGS (az-Zumar)
+---
+title: "THRONGS (az-Zumar)"
+heading: "Chapter 39 of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
+
 
 <!-- 1. The revelation of the Book is from Allah, the
 Mighty and Wise.
@@ -6,59 +17,46 @@ We sent down to you the Book with the
 truth, so serve Allah, devoting your religion
 to Him. -->
 
-3. Is not to Allah that sincere faith is due? As
-for those who take guardians besides Him,
-“We only worship them that they may bring
-us nearer to Allah.” Allah will judge between
-them regarding their differences. Allah does
-not guide the lying blasphemer.
+{{< s v="3" >}}  Is not to Allah that sincere faith is due? As for those who take guardians besides Him,
+“We only worship them that they may bring us nearer to Allah.” Allah will judge between
+them regarding their differences. 
+Allah does not guide the lying blasphemer.
 
-4. If Allah wanted to have a son, He could have
-selected from His creation at will. Glory be to
+{{< s v="4" >}}  If Allah wanted to have a son, He could have selected from His creation at will. Glory be to
 Him. He is Allah, the One, the Prevailing.
 
-5. He created the heavens and the earth with
-reason. He wraps the night around the day,
-and He wraps the day around the night. And
-He regulates the sun and the moon, each run-
-ning along a specific course. He is indeed the
+{{< s v="5" >}}  He created the heavens and the earth with reason. He wraps the night around the day,
+and He wraps the day around the night. 
+
+And He regulates the sun and the moon, each running along a specific course. He is indeed the
 Almighty, the Forgiver.
-6. He created you from one person, then made
-from it its mate, and brought down livestock
-for you—eight kinds in pairs. He creates you
-in the wombs of your mothers, in successive formations, in a triple darkness. Such is Al-
-lah, your Lord. His is the kingdom. There is
-no god but He. So what made you deviate?
+
+6. He created you from one person, then made from it its mate, and brought down livestock
+for you—eight kinds in pairs. He creates you in the wombs of your mothers, in successive formations, in a triple darkness. Such is Al-
+lah, your Lord. His is the kingdom. There is no god but He. So what made you deviate?
 
 7. If you disbelieve, Allah is Independent of you, yet He does not approve ingratitude on
-the part of His servants. And if you are thank-
-ful, He will approve that in you. No bearer of
-burden can bear the burden of another. Then
-to your Lord is your return; and He will in-
-form you of what you used to do. He is aware
-of what the hearts contain.
+the part of His servants. And if you are thankful, He will approve that in you. No bearer of
+burden can bear the burden of another. Then to your Lord is your return; and He will in-
+form you of what you used to do. He is aware of what the hearts contain.
 
-8. When some adversity touches the human
-being, he prays to his Lord, repenting to Him.
-But then, when He confers on him a grace of
-His, he forgets what he was praying for be-
+8. When some adversity touches the human being, he prays to his Lord, repenting to Him.
+But then, when He confers on him a grace of His, he forgets what he was praying for be-
 fore, and he attributes rivals to Allah, in order
-to lead astray from His way. Say, “Enjoy your
-disbelief for a little while; you will be among
+to lead astray from His way. 
+
+Say, “Enjoy your disbelief for a little while; you will be among
 the inmates of the Fire.”
-9. Is he who worships devoutly during the
-watches of the night, prostrating himself and
-standing up, mindful of the Hereafter, and
-placing his hope in the mercy of his Lord?
-Say, “Are those who know and those who do
-not know equal?” Only those possessed of
+
+{{< s v="9" >}}  Is he who worships devoutly during the watches of the night, prostrating himself and
+standing up, mindful of the Hereafter, and placing his hope in the mercy of his Lord?
+Say, “Are those who know and those who do not know equal?” Only those possessed of
 reason will remember.
-10. Say, “O My devotees who have believed,
-keep your duty to your Lord. For those who
+
+{{< s v="10" >}}  Say, “O My devotees who have believed, keep your duty to your Lord. For those who
 do good in this world, is goodness. And Al-
 lah’s earth is vast. The steadfast will be paid
-their wages in full, without reckoning.”
-11. Say, “I was commanded to serve Allah, de-
+their wages in full, without reckoning.”{{< s v="11" >}}  Say, “I was commanded to serve Allah, de-
 voting my religion exclusively to Him.
 12. And I was commanded to be the first of
 those who submit.”
@@ -71,7 +69,7 @@ besides Him.” Say, “The losers are those who
 lose their souls and their people on the Day
 of Resurrection.” That is indeed the obvious
 loss.
-16. They will have layers of Fire above them,
+{{< s v="16" >}}They will have layers of Fire above them,
 and layers beneath them. That is how Allah
 strikes fear into His servants—“O My serv-
 ants! Beware of Me!”

@@ -10,19 +10,17 @@ linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 
-1. Successful are the believers who:
-- 2. are humble in their prayers.
-- 3. avoid nonsense.
-- 4. who work for charity.
-- 5. who safeguard their chastity. from their spouses, or their dependents—for then they are free from blame.
+{{< s v="1" >}} Successful are the believers who:
+- {{< s v="2" >}} are humble in their prayers.
+- {{< s v="3" >}}avoid nonsense.
+- {{< s v="4" >}} who work for charity.
+- {{< s v="5" >}} who safeguard their chastity. from their spouses, or their dependents—for then they are free from blame.
 
 7. But whoever seeks anything beyond that—these are the transgressors.
 8. Those who are faithful to their trusts and pledges.
-6. Except
-9. Those
+6. Except{{< s v="9" >}}  Those
 who safeguard their prayers.
-
-10. These are the inheritors. Who will inherit Paradise, wherein they will dwell forever.
+{{< s v="10" >}}  These are the inheritors. Who will inherit Paradise, wherein they will dwell forever.
 
 12. We created man from an extract of clay. We made him a seed, in a secure repository.
 
@@ -34,7 +32,7 @@ We produced it into another creature. Most
 Blessed is Allah, the Best of Creators.
 
 15. Then, after that, you will die.
-16. Then, on the Day of Resurrection, you will
+{{< s v="16" >}}Then, on the Day of Resurrection, you will
 be resurrected.
 17. We created above you seven pathways, and
 We are never heedless of the creation.
@@ -264,6 +262,6 @@ durance. They are the ones who are the triumphant.”
 113. They will say, “We remained a day, or part of a day; but ask those who keep count.”
 114. He will say, “You remained only for a little while, if you only knew.
 115. Did you think that We created you in vain, and that to Us you will not be returned?”
-116. So Exalted is Allah, the Ruler, the Real. There is no god except He, the Lord of the Noble Throne.
+1{{< s v="16" >}}So Exalted is Allah, the Ruler, the Real. There is no god except He, the Lord of the Noble Throne.
 117. Whoever invokes another god besides Allah—he has no proof thereof—his reckoning rests with his Lord. The disbelievers will not succeed.
 118. And say, “My Lord, forgive and have mercy, for You are the Best of the merciful.”

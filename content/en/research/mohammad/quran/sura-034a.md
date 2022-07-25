@@ -15,22 +15,18 @@ linkftext: "Index"
 be to Allah, to Whom belongs every-
 thing in the heavens and the earth; and praise
 be to Him in the Hereafter. He is the Wise,
-the Expert.
-2. He knows what penetrates into the earth,
+the Expert.{{< s v="2" >}}  He knows what penetrates into the earth,
 and what comes out of it, and what descends
 from the sky, and what ascends to it. He is the
 Merciful, the Forgiving. -->
-
-3. Those who disbelieve say, “The Hour will not come upon us.” 
+{{< s v="3" >}}  Those who disbelieve say, “The Hour will not come upon us.” 
 
 Say, “Yes indeed, by my Lord, it will come upon you. He is the Knower of the unseen.” Not an atom's weight
 in the heavens and the earth, or anything smaller or larger, escapes His knowledge. All
 are in a Clear Record.
-
-4. That He may recompense those who believe and do good works. Those will have for-
+{{< s v="4" >}}  That He may recompense those who believe and do good works. Those will have for-
 giveness, and a generous provision.
-
-5. As for those who strive against Our revelations, seeking to undermine them—for them
+{{< s v="5" >}}  As for those who strive against Our revelations, seeking to undermine them—for them
 is a punishment of a painful plague. 
 
 6. Those who received knowledge know that what is revealed to you from your Lord is the
@@ -41,15 +37,12 @@ torn into shreds, you will be in a new creation?
 
 8. Did he invent a lie about Allah, or is there madness in him?” Indeed, those who do not
 believe in the Hereafter are in torment, and far astray.
-
-9. Do they not reflect upon what lies before them and behind them, of the heaven and the
+{{< s v="9" >}}  Do they not reflect upon what lies before them and behind them, of the heaven and the
 earth? If We will, We can make the earth cave in beneath them, or make pieces of the sky
 fall down on them. In that is a sign for every devout servant.
-
-10. We bestowed upon David favor from Us: “O mountains, and birds: echo with him.”
+{{< s v="10" >}}  We bestowed upon David favor from Us: “O mountains, and birds: echo with him.”
 And We softened iron for him.
-
-11. “Make coats of armor, and measure the links well; and work righteousness. I am Observant of everything you do.”
+{{< s v="11" >}}  “Make coats of armor, and measure the links well; and work righteousness. I am Observant of everything you do.”
 
 12. And for Solomon the wind—its outward journey was one month, and its return journey was one month. And We made a spring of tar flow for him. And there were sprites
 that worked under him, by the leave of his Lord. But whoever of them swerved from

@@ -13,17 +13,14 @@ linkftext: "Index"
 
 Blessed is He who sent down the Criterion upon His servant, to be a warning to humanity.
 
-2. He to whom belongs the kingdom of the heavens and the earth, who took to Himself
-no son, who never had a partner in His kingship; who created everything and determined
-its measure.
+{{< s v="2" >}}  He to whom belongs the kingdom of the heavens and the earth, who took to Himself
+no son, who never had a partner in His kingship; who created everything and determined its measure.
 
-3. And yet, instead of Him, they produce for themselves gods that create nothing, but are
+{{< s v="3" >}}  And yet, instead of Him, they produce for themselves gods that create nothing, but are
 themselves created; that have no power to harm or benefit themselves; and no power
 over life, death, or resurrection.
-
-4. Those who disbelieve say, “This is nothing but a lie that he made up, and others have
-helped him at it.” They have committed an injustice and a perjury.
-5. And they say, “Tales of the ancients; he
+{{< s v="4" >}}  Those who disbelieve say, “This is nothing but a lie that he made up, and others have
+helped him at it.” They have committed an injustice and a perjury.{{< s v="5" >}}  And they say, “Tales of the ancients; he
 wrote them down; they are dictated to him
 morning and evening.”
 6. Say, “It was revealed by He who knows the
@@ -36,15 +33,12 @@ him, to be alongside him a warner.”
 8. Or, “If only a treasure was dropped on
 him.” Or, “If only he had a garden from
 which he eats.” The evildoers also say, “You
-are following but a man under spell.”
-9. Look how they invent examples for you.
+are following but a man under spell.”{{< s v="9" >}}  Look how they invent examples for you.
 They have gone astray, and cannot find a
-way.
-10. Blessed is He who, if He wills, can provide
+way.{{< s v="10" >}}  Blessed is He who, if He wills, can provide
 you with better than that—gardens beneath
 which rivers flow—and He will give you pal-
-aces.
-11. In fact, they have denied the Hour, and We
+aces.{{< s v="11" >}}  In fact, they have denied the Hour, and We
 have prepared for those who deny the Hour a
 Blaze.
 12. When it sees them from a distant place,
@@ -57,7 +51,7 @@ plead for a great many deaths.”
 15. Say, “Is this better, or the Garden of Eter-
 nity promised to the righteous? It is for them
 a reward and a destination.
-16. They will have therein whatever they de-
+{{< s v="16" >}}They will have therein whatever they de-
 sire, forever. That is upon your Lord a bind-
 ing promise.
 17. On the Day when He gathers them, and

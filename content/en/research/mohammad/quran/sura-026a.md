@@ -12,25 +12,19 @@ linkftext: "Index"
 
 
 
-<!-- 1. Ta, Seen, Meem. -->
-2. These are the Verses of the Clarifying Book.
-
-3. Perhaps you will destroy yourself with grief, because they do not become believers.
-
-4. If We will, We can send down upon them a sign from heaven, at which their necks will
+<!-- 1. Ta, Seen, Meem. -->{{< s v="2" >}}  These are the Verses of the Clarifying Book.
+{{< s v="3" >}}  Perhaps you will destroy yourself with grief, because they do not become believers.
+{{< s v="4" >}}  If We will, We can send down upon them a sign from heaven, at which their necks will
 stay bent in humility.
-
-5. No fresh reminder comes to them from the Most Merciful, but they turn their backs at it.
+{{< s v="5" >}}  No fresh reminder comes to them from the Most Merciful, but they turn their backs at it.
 6. They have denied the truth, but soon will come to them the news of what they ridiculed.
 7. Have they not seen the earth, and how many beautiful pairs We produced therein?
 8. Surely in this is a sign, but most of them are not believers.
 
 <!-- 9. Most surely, your Lord is the Almighty, the Merciful. -->
+{{< s v="10" >}}  Your Lord called to Moses, “Go to the tyrannical people.
 
-10. Your Lord called to Moses, “Go to the tyrannical people.
-
-
-11. The people of Pharaoh. Will they not fear?”
+{{< s v="11" >}}  The people of Pharaoh. Will they not fear?”
 He said, “My Lord, I fear they will rejectme.
 13. And I become stressed, and my tongue is
 not fluent, so send Aaron too.
@@ -38,7 +32,7 @@ not fluent, so send Aaron too.
 they will kill me.”
 15. He said, “No. Go, both of you, with Our
 proofs. We will be with you, listening.
-16. Go to Pharaoh, and say, ‘We are the Messengers of the Lord of the Worlds.
+{{< s v="16" >}}Go to Pharaoh, and say, ‘We are the Messengers of the Lord of the Worlds.
 
 31. He said, “Bring it, if you are being truthful.”
 17. Let So he cast his staff; and it was a serpent,
@@ -244,7 +238,7 @@ and deliver me and the believers who are with
 me.
 119. So We delivered him and those with him
 in the laden Ark.
-116. They
+1{{< s v="16" >}}They
 120. Then
 We drowned the rest.
 that is a sign, but most of them are not
@@ -492,7 +486,7 @@ else you will be of those tormented.
 warn your close relatives.
 And lower your wing to those of the be-
 lievers who follow you.
-216. And if they disobey you, say, “I am inno-
+2{{< s v="16" >}}And if they disobey you, say, “I am inno-
 cent of what you do.”
 217. And put your trust in the Almighty, the
 Merciful.
@@ -500,15 +494,11 @@ Merciful.
 
 
 27. THE ANT (an-Naml)
-
-1. Ta, Seen. These are the Signs of the Quran—a book that makes things clear.
-2. Guidance and good news for the believers.
+{{< s v="1" >}}  Ta, Seen. These are the Signs of the Quran—a book that makes things clear.{{< s v="2" >}}  Guidance and good news for the believers.
 Those who observe the prayers, and give charity regularly, and are certain of the Hereafter.
-
-4. As for those who do not believe in the Hereafter: We made their deeds appear good to
+{{< s v="4" >}}  As for those who do not believe in the Hereafter: We made their deeds appear good to
 them, so they wander aimlessly.
-
-5. It is they who will receive the grievous punishment—and in the Hereafter they will be
+{{< s v="5" >}}  It is they who will receive the grievous punishment—and in the Hereafter they will be
 the greatest losers.
 
 6. You are receiving the Quran from an All-Wise, All-Knowing.
@@ -523,8 +513,7 @@ of the Worlds.
 
 9-10. O Moses Throw down your staff.” But when he saw it quivering, as though it were a demon, he
 turned around not looking back. “O Moses, do not fear; the messengers do not fear in My presence.
-
-11. But whoever has done wrong, and then substituted goodness in place of evil.
+{{< s v="11" >}}  But whoever has done wrong, and then substituted goodness in place of evil.
 
 
 12. Put your hand inside your pocket, and it will come out white, without blemish—among nine miracles to Pharaoh and his people, for they are immoral people.”
@@ -535,7 +524,7 @@ and pride. So see how the outcome was for the mischief-makers.
 15. And We gave David and Solomon knowledge. They said, “Praise Allah, who has
 favored us over many of His believing servants.”
 
-16. Solomon succeeded David and said, “O people, we were taught the language of birds, and we were given from everything. This is indeed a real blessing.”
+{{< s v="16" >}}Solomon succeeded David and said, “O people, we were taught the language of birds, and we were given from everything. This is indeed a real blessing.”
 
 17. To the service of Solomon were mobilized his troops of sprites, and men, and birds—all held in strict order.
 

@@ -1,22 +1,30 @@
-58. THE ARGUMENT (al-Mujadilah)
+---
+title: "THE ARGUMENT (al-Mujadilah)"
+heading: "Chapter 58a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. Allah has heard the statement of she who argued with you concerning her husband, as
-she complained to Allah. Allah heard your conversation. Allah is Hearing and Seeing.
-2. Those of you who estrange their wives by equating them with their mothers—they are
-not their mothers. Their mothers are none else but those who gave birth to them. What
-they say is evil, and a blatant lie. But Allah is
-Pardoning and Forgiving.
 
-3. Those who estrange their wives by equating them with their mothers, then go back on
+{{< s v="1" >}}  Allah has heard the statement of she who argued with you concerning her husband, as
+she complained to Allah. Allah heard your conversation. Allah is Hearing and Seeing.{{< s v="2" >}}  Those of you who estrange their wives by equating them with their mothers—they are not their mothers. Their mothers are none else but those who gave birth to them. What
+they say is evil, and a blatant lie. 
+
+{{< s v="3" >}}  Those who estrange their wives by equating them with their mothers, then go back on
 what they said, must set free a slave before they may touch one another. To this you are
 exhorted, and Allah is well aware of what you do.
 
-4. But whoever cannot find the means must fast for two consecutive months before they
+{{< s v="4" >}}  But whoever cannot find the means must fast for two consecutive months before they
 may touch one another. And if he is unable, then the feeding of sixty needy people. This,
 in order that you affirm your faith in Allah and His Messenger. These are the ordinances of Allah. The unbelievers will have a painful
 punishment.
 
-5. Those who oppose Allah and His Messenger will be subdued, as those before them
+{{< s v="5" >}}  Those who oppose Allah and His Messenger will be subdued, as those before them
 were subdued. We have revealed clear messages. The unbelievers will have a demeaning
 punishment.
 
@@ -35,14 +43,13 @@ fiance of the Messenger. And when they come to you, they greet you with a greeti
 that Allah never greeted you with. 
 
 And they say within themselves, “Why does Allah not punish us for what we say?” Hell is enough for them. They will roast in it. What a miserable destiny!
-
-9. O you who believe! When you converse secretly, do not converse in sin, and aggression, and disobedience of the Messenger; but con-
+{{< s v="9" >}}  O you who believe! When you converse secretly, do not converse in sin, and aggression, and disobedience of the Messenger; but con-
 verse in virtue and piety; And fear Allah, to Whom you will be gathered.
 
-10. Conspiracies are from Satan, that he may dishearten those who believe; but he will not
+{{< s v="10" >}}  Conspiracies are from Satan, that he may dishearten those who believe; but he will not
 harm them in the least, except by leave of Allah. So let the believers put their trust in Allah.
 
-11. O you who believe! When you are told to make room in your gatherings, make room;
+{{< s v="11" >}}  O you who believe! When you are told to make room in your gatherings, make room;
 Allah will make room for you. And when you are told to disperse, disperse. Allah elevates
 those among you who believe, and those given knowledge, many steps. Allah is Aware of what you do.
 
@@ -57,7 +64,7 @@ senger. Allah is Aware of what you do.
 14. Have you considered those who befriended a people with whom Allah has become angry?
 They are not of you, nor of them. And they swear to a lie while they know.
 15. Allah has prepared for them a terrible punishment. Evil is what they used to do.
-16. They took their oaths as a screen, and prevented others from Allah’s path. They will
+{{< s v="16" >}}They took their oaths as a screen, and prevented others from Allah’s path. They will
 have a shameful punishment.
 
 17. Neither their possessions nor their children will avail them anything against Allah.

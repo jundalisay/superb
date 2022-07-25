@@ -11,21 +11,15 @@ linkftext: "Index"
 ---
 
 
+{{< s v="1" >}}  By the spreaders spreading.{{< s v="2" >}}  And those carrying loads.{{< s v="3" >}}  And those moving gently.{{< s v="4" >}}  And those distributing as commanded.
 
-1. By the spreaders spreading.
-2. And those carrying loads.
-3. And those moving gently.
-4. And those distributing as commanded.
-5. What you are promised is true.
+{{< s v="5" >}}  What you are promised is true.
 6. Judgment
 7. By
 will take place.
 the sky that is woven.
-8. You differ in what you say.
-9. Averted
-from it is he who is averted.
-10. Perish the imposters.
-11. Those who are dazed in ignorance.
+8. You differ in what you say.{{< s v="9" >}}  Averted
+from it is he who is averted.{{< s v="10" >}}  Perish the imposters.{{< s v="11" >}}  Those who are dazed in ignorance.
 12. They
 33. “To
 ask, “When is the Day of Judgment?”
@@ -34,7 +28,7 @@ Day they are presented to the Fire.
 to challenge.”
 15. But the pious are amidst gardens and
 springs.
-16. Receiving what their Lord has given them.
+{{< s v="16" >}}Receiving what their Lord has given them.
 They were virtuous before that.
 used to sleep a little at night.
 18. And

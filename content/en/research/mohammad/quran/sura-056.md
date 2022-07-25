@@ -1,18 +1,28 @@
-56. THE INEVITABLE (al-Waqi’ah) 
+---
+title: "THE INEVITABLE (al-Waqi’ah)"
+heading: "Chapter 56a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. When the inevitable occurs, the low will be raised high. 
+
+
+{{< s v="1" >}}  When the inevitable occurs, the low will be raised high. 
 
 The earth will be shaken with a shock. 
 
-the mountains are crushed and crum- 6. And they become scattered dust. 39. A
-4. When
-7. And
-you become three classes.
-8. Those on the Right—what of those on the
-Right?
-9-10. And those on the Left—what of those on the
-Left? The forerunners are the nearest.
-11.
+the mountains are crushed and crum- 6. And they become scattered dust. 39. A{{< s v="4" >}}  When
+
+7. And you become three classes.
+
+8. Those on the Right—what of those on the Right?
+
+9-10. And those on the Left—what of those on the Left? The forerunners are the nearest.{{< s v="11" >}} 
 
 The Gardens of Bliss with luxurious furnishings throng with the ancients and a small band of the latecomers.
 They recline on those furnishings, facing each other. 
@@ -20,7 +30,7 @@ them will be immortalized youth.
 
 them are good and beautiful ones.
 So which of your Lord’s marvels will you
-deny? 16. 
+deny? {{< s v="16" >}}
 
 17. Serving
 18. With
@@ -53,8 +63,7 @@ made them virgins.
 withheld, nor forbidden.
 uplifted mattresses.
 have created them of special creation.
-36. And
-10. And
+36. And{{< s v="10" >}}  And
 cups, pitchers, and sparkling drinks.
 them neither headache, nor intox-
 29. And

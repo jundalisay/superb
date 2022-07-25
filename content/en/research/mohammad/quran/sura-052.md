@@ -1,16 +1,22 @@
+---
+title: "THE MOUNT (at-Tur)"
+heading: "Chapter 52 of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-
-52. THE MOUNT (at-Tur)
 
 1-6. By the Mount and the seething sea, in the frequented House with the elevated roof, in a Book inscribed with a published scroll. 
 
 7-8. The punishment of your Lord is coming.There is nothing to avert it. 
 
-
-9. On the Day when the heaven sways in agitation.
-
-10. And the mountains go into motion.
-11. Woe on that Day to the deniers.
+{{< s v="9" >}}  On the Day when the heaven sways in agitation.
+{{< s v="10" >}}  And the mountains go into motion.{{< s v="11" >}}  Woe on that Day to the deniers.
 
 12. Those who play with speculation.
 13. The Day when they are shoved into the Fire
@@ -42,7 +48,7 @@ meat; such as they desire.
 is neither harm, nor sin.
 24. Serving them will be youths like hidden
 pearls.
-16. Burn
+{{< s v="16" >}}Burn
 20153. THE STAR (an-Najm)
 And they will approach one another, in-
 quiring.

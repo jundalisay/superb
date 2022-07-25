@@ -1,29 +1,34 @@
+---
+title: "PROHIBITION (at-Tahrim)"
+heading: "Chapter 66a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-66. PROHIBITION (at-Tahrim)
 
-1. O prophet! Why do you prohibit what Allah has permitted for you, seeking to please your wives? Allah is Forgiving and Merciful.
+{{< s v="1" >}}  O prophet! Why do you prohibit what Allah has permitted for you, seeking to please your wives? Allah is Forgiving and Merciful.
 
-2. Allah has decreed for you the dissolution of
-your oaths. Allah is your Master. He is the
-All-Knowing, the Most Wise.
+{{< s v="2" >}}  Allah has decreed for you the dissolution of your oaths. <!-- Allah is your Master. He is the
+All-Knowing, the Most Wise. -->
 
-3. The Prophet told something in confidence
-to one of his wives. But when she disclosed it,
-and Allah made it known to him; he commu-
-nicated part of it, and he avoided another
-part. Then, when he informed her of it, she
-said, “Who informed you of this?” He said,
-“The All-Knowing, the All-Informed, in-
-formed me.”
-4. If you repent to Allah, then your hearts have
+{{< s v="3" >}}  The Prophet told something in confidence to one of his wives. But when she disclosed it,
+and Allah made it known to him; he communicated part of it, and he avoided another part. 
+
+Then, when he informed her of it, she said, “Who informed you of this?” He said,
+“The All-Knowing, the All-Informed, informed me.”{{< s v="4" >}}  If you repent to Allah, then your hearts have
 listened. But if you band together against
 him, then Allah is his Ally, as is Gabriel, and
-the righteous believers. In addition, the an-
-gels will assist him.
-5. Perhaps, if he divorces you, his Lord will
-give him in exchange wives better than you:
-submissive, believing, obedient, penitent, de-
-vout, fasting—previously married, or virgins.
+the righteous believers. 
+
+In addition, the angels will assist him.
+
+{{< s v="5" >}}  Perhaps, if he divorces you, his Lord will give him in exchange wives better than you:
+submissive, believing, obedient, penitent, devout, fasting—previously married, or virgins.
 6. O you who believe! Protect yourselves and
 your families from a Fire, whose fuel is people
 and stones. Over it are angels, fierce and pow-
@@ -42,19 +47,16 @@ those who believed with him. Their light
 streaming before them, and to their right,
 they will say, “Our Lord, complete our light
 for us, and forgive us; You are capable of all
-things.”
-9. O prophet! Strive hard against the disbe-
+things.”{{< s v="9" >}}  O prophet! Strive hard against the disbe-
 lievers and the hypocrites, and be stern with
 them. Their abode is Hell. What a miserable
-destination!
-10. Allah illustrates an example of those who
+destination!{{< s v="10" >}}  Allah illustrates an example of those who
 disbelieve: the wife of Noah and the wife of
 Lot. They were under two of Our righteous
 servants, but they betrayed them. They
 availed them nothing against Allah, and it
 was said, “Enter the Fire with those who are
-entering.”
-11. And Allah illustrates an example of those
+entering.”{{< s v="11" >}}  And Allah illustrates an example of those
 who believe: the wife of Pharaoh, when she
 said, “My Lord, build for me, with you, a
 house in Paradise, and save me from Pharaoh

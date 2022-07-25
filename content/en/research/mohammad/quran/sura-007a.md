@@ -1,33 +1,37 @@
+---
+title: "THE ELEVATIONS (al-A’raf)"
+heading: "Chapter 7a of the Quran Simplified"
+date: 2021-11-20
+image: "/covers/quran.jpg"
+description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-7. THE ELEVATIONS (al-A’raf)
 
 <!-- 1. Alif, Lam, Meem, Saad. -->
 
 Scripture was revealed to you, so let there be no anxiety in your heart because of it. You
 are to warn with it—and a reminder for the believers.
-
-3. Follow what is revealed to you from your Lord, and do not follow other masters beside
+{{< s v="3" >}}  Follow what is revealed to you from your Lord, and do not follow other masters beside
 Him. Little you recollect.
 
 
-
-4. How many towns have We destroyed? 
+{{< s v="4" >}}  How many towns have We destroyed? 
 
 Our might came upon them by night, or while they were napping.
-
-5. When Our might came upon them, their only cry was, “We were indeed wrongdoers.”
+{{< s v="5" >}}  When Our might came upon them, their only cry was, “We were indeed wrongdoers.”
 6. We will question those to whom messengers were sent, and We will question the messengers.
 
 7. We will narrate to them with knowledge, for We were never absent.
 
 8. The scales on that Day will be just. Those whose weights are heavy—it is they who are
 the successful.
-
-9. But as for those whose weights are light—it is they who have lost their souls, because they used to mistreat Our revelations.
-
-10. We have established you firmly on earth, and made for you in it livelihood—but rarely do you give thanks.
-
-11. We created you, then We shaped you, then We said to the angels, “Bow down before Adam;” so they bowed down, except for Satan; he was not of those who bowed down.
+{{< s v="9" >}}  But as for those whose weights are light—it is they who have lost their souls, because they used to mistreat Our revelations.
+{{< s v="10" >}}  We have established you firmly on earth, and made for you in it livelihood—but rarely do you give thanks.
+{{< s v="11" >}}  We created you, then We shaped you, then We said to the angels, “Bow down before Adam;” so they bowed down, except for Satan; he was not of those who bowed down.
 
 12. He said, “What prevented you from bowing down when I have commanded you?” He said, “I am better than he; You created me from fire, and You created him from mud.”
 
@@ -877,7 +881,7 @@ Messenger—Allah is severe in retribution.
 
 15. O you who believe! When you meet those who disbelieve on the march, never turn your backs on them.
 
-16. Anyone who turns his back on them on that Day, except while maneuvering for battle, or to join another group, has incurred
+{{< s v="16" >}}Anyone who turns his back on them on that Day, except while maneuvering for battle, or to join another group, has incurred
 wrath from Allah, and his abode is Hell!
 
 17. It was not you who killed them, but it was Allah who killed them. And it was not you

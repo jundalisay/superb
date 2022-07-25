@@ -13,16 +13,13 @@ linkftext: "Index"
 
 
 <!-- 1. Alif, Lam, Meem. -->
-Have the people supposed that they will be left alone to say, “We believe,” without being
-put to the test?
+Have the people supposed that they will be left alone to say, “We believe,” without being put to the test?
 
-3. We have tested those before them. Allah will surely know the truthful, and He will
+{{< s v="3" >}}  We have tested those before them. Allah will surely know the truthful, and He will
 surely know the liars.
-
-4. Or do those who commit sins think they can fool Us? Terrible is their opinion!
+{{< s v="4" >}}  Or do those who commit sins think they can fool Us? Terrible is their opinion!
 looks forward to the meeting with Allah—the appointed time of Allah is coming.
-
-5. Whoever
+{{< s v="5" >}}  Whoever
 
 6. Whoever strives, strives only for himself. 
 
@@ -31,15 +28,12 @@ reward them according to the best of what they used to do.
 8. We have advised the human being to be good to his parents. But if they urge you to
 associate with Me something you have no knowledge of, do not obey them. To Me is
 your return; and I will inform you of what you used to do.
-
-9. Those who believe and do good works—We will admit them into the company of the righteous.
-
-10. Among the people is he who says, “We have believed in Allah.” Yet when he is
+{{< s v="9" >}}  Those who believe and do good works—We will admit them into the company of the righteous.
+{{< s v="10" >}}  Among the people is he who says, “We have believed in Allah.” Yet when he is
 harmed on Allah’s account, he equates the people's persecution with Allah’s retribution.
 And if help comes from your Lord, he says, “We were actually with you.” Is not Allah
 aware of what is inside the hearts of the people?
-
-11. Allah certainly knows those who believe, and He certainly knows the hypocrites.
+{{< s v="11" >}}  Allah certainly knows those who believe, and He certainly knows the hypocrites.
 12. Those who disbelieve say to those who believe, “Follow our way, and we will carry your
 sins.” In no way can they carry any of their sins. They are liars.
 
@@ -52,7 +46,7 @@ years. Then the Deluge swept them; for they were wrongdoers.
 15. But We saved him, together with the company of the Ark, and We made it a sign for all
 peoples.
 
-16. And Abraham, when he said to his people, “Worship Allah, and fear Him. That is better
+{{< s v="16" >}}And Abraham, when he said to his people, “Worship Allah, and fear Him. That is better
 for you, if you only knew.
 
 17. You worship idols besides Allah, and you fabricate falsehoods. Those you worship, in-

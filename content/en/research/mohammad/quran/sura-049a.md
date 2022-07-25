@@ -1,13 +1,20 @@
-49. THE CHAMBERS (al-Hujurat)
+---
+title: "THE CHAMBERS (al-Hujurat)"
+heading: "Chapter 49a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. Do not place your opinions above that of Allah and His Messenger, and fear Allah. 
 
-2. O you who believe! Do not raise your voices above the voice of the Prophet, and do not speak loudly to him, as you speak loudly to one another, lest your works be in vain without you realizing. 
-
-3. Those who lower their voices before Allah’s Messenger—those are they whose hearts Al-
-lah has tested for piety. They will have forgiveness and a great reward.
-4. Those who call you from behind the chambers—most of them do not understand.
-5. Had they remained patient until you came out to them, it would have been better for
+{{< s v="1" >}}  Do not place your opinions above that of Allah and His Messenger, and fear Allah. 
+{{< s v="2" >}}  O you who believe! Do not raise your voices above the voice of the Prophet, and do not speak loudly to him, as you speak loudly to one another, lest your works be in vain without you realizing. 
+{{< s v="3" >}}  Those who lower their voices before Allah’s Messenger—those are they whose hearts Al-
+lah has tested for piety. They will have forgiveness and a great reward.{{< s v="4" >}}  Those who call you from behind the chambers—most of them do not understand.{{< s v="5" >}}  Had they remained patient until you came out to them, it would have been better for
 them. But Allah is Forgiving and Merciful.
 
 6. O you who believe! If a troublemaker brings you any news, investigate, lest you harm peo-
@@ -17,18 +24,15 @@ you would have suffered hardship. But Allah has given you the love of faith, and
 it in your hearts, and made disbelief, mischief, and rebellion hateful to you. These are
 the rightly guided.
 
-8. A Grace and Favor from Allah. Allah is Knowing and Wise.
-9. If two groups of believers fight each other,
+8. A Grace and Favor from Allah. Allah is Knowing and Wise.{{< s v="9" >}}  If two groups of believers fight each other,
 reconcile between them. But if one group ag-
 gresses against the other, fight the aggressing
 group until it complies with Allah’s com-
 mand. Once it has complied, reconcile be-
 tween them with justice, and be equitable. Al-
-lah loves the equitable.
-10. The believers are brothers, so reconcile be-
+lah loves the equitable.{{< s v="10" >}}  The believers are brothers, so reconcile be-
 tween your brothers, and remain conscious
-of Allah, so that you may receive mercy.
-11. O you who believe! No people shall ridicule
+of Allah, so that you may receive mercy.{{< s v="11" >}}  O you who believe! No people shall ridicule
 other people, for they may be better than
 they. Nor shall any women ridicule other
 women, for they may be better than they. Nor
@@ -60,7 +64,7 @@ lah and His Messenger, and then have not
 doubted, and strive for Allah’s cause with
 their wealth and their persons. These are the
 sincere.
-16. Say, “Are you going to teach Allah about
+{{< s v="16" >}}Say, “Are you going to teach Allah about
 your religion, when Allah knows everything
 in the heavens and the earth, and Allah is
 aware of all things?”

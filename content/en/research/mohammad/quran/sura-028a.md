@@ -11,14 +11,11 @@ linkftext: "Index"
 ---
 
 
-<!-- 1. Ta, Seen, Meem. -->
-2. This is the true history of Moses and Pharaoh
-
-4. Pharaoh exalted himself in the land, and divided its people into factions. He persecuted
+<!-- 1. Ta, Seen, Meem. -->{{< s v="2" >}}  This is the true history of Moses and Pharaoh
+{{< s v="4" >}}  Pharaoh exalted himself in the land, and divided its people into factions. He persecuted
 a group of them, slaughtering their sons, while sparing their daughters. He was truly a
 corrupter.
-
-5. But We desired to favor those who were oppressed in the land, and to make them lead-
+{{< s v="5" >}}  But We desired to favor those who were oppressed in the land, and to make them lead-
 ers, and to make them the inheritors.
 
 6. And to establish them in the land; and to show Pharaoh, Hamaan, and their troops, the
@@ -30,14 +27,11 @@ the messengers.”
 
 8. Pharaoh’s household picked him up, to be an opponent and a sorrow for them. Pharaoh,
 Hamaan, and their troops were sinners.
-
-9. Pharaoh’s wife said, “An eye's delight for me and for you. Do not kill him; perhaps he will
+{{< s v="9" >}}  Pharaoh’s wife said, “An eye's delight for me and for you. Do not kill him; perhaps he will
 be useful to us, or we may adopt him as a son.” But they did not foresee.
-
-10. The heart of Moses’ mother became vacant. She was about to disclose him, had We not
+{{< s v="10" >}}  The heart of Moses’ mother became vacant. She was about to disclose him, had We not
 steadied her heart, that she may remain a believer.
-
-11. She said to his sister, “Trail him.” So she watched him from afar, and they were unaware.
+{{< s v="11" >}}  She said to his sister, “Trail him.” So she watched him from afar, and they were unaware.
 
 12. We forbade him breastfeeding at first. So she said, “Shall I tell you about a family that
 can raise him for you, and will look after him?”
@@ -54,7 +48,7 @@ The one of his sect solicited his assistance against the one from his enemies; s
 punched him, and put an end to him. He said, “This is of Satan's doing; he is an enemy that
 openly misleads.”
 
-16. He said, “My Lord, I have wronged myself, so forgive me.” So He forgave him. 
+{{< s v="16" >}}He said, “My Lord, I have wronged myself, so forgive me.” So He forgave him. 
 
 17. He said, “My Lord, in as much as you have favored me, I will never be a supporter of the
 criminals.”

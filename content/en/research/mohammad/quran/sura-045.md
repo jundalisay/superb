@@ -10,28 +10,21 @@ linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 
-
-1. Ha, Meem. The revelation of the Book is from Allah.
-
-3. In the heavens and the earth are proofs for the believers.
-
-4. And in your own creation, and in the creatures He scattered, are signs for people of firm faith.
-
-5. And in the alternation of night and day, and in the sustenance Allah sends down from the sky, with which He revives the earth after its death, and in the circulation of the winds, are marvels for people who reason.
+{{< s v="1" >}}  Ha, Meem. The revelation of the Book is from Allah.
+{{< s v="3" >}}  In the heavens and the earth are proofs for the believers.
+{{< s v="4" >}}  And in your own creation, and in the creatures He scattered, are signs for people of firm faith.
+{{< s v="5" >}}  And in the alternation of night and day, and in the sustenance Allah sends down from the sky, with which He revives the earth after its death, and in the circulation of the winds, are marvels for people who reason.
 
 6. These are Allah’s Verses which We recite to you in truth. In which message, after Allah
 and His revelations, will they believe?
 
 7. Woe to every sinful liar. hears Allah's revelations being recited to him, yet he persists arrogantly, as though he did not hear them. Announce to him a painful punishment.
-
-9. And when he learns something of Our revelations, he takes them in mockery. For such there is a shameful punishment.
-
-10. Beyond them lies Hell. What they have earned will not benefit them at all, nor will
+{{< s v="9" >}}  And when he learns something of Our revelations, he takes them in mockery. For such there is a shameful punishment.
+{{< s v="10" >}}  Beyond them lies Hell. What they have earned will not benefit them at all, nor will
 those they adopted as lords instead of Allah.
 
 They will have a terrible punishment.
-
-11. This is guidance. Those who blaspheme their Lord’s revelations will have a punishment of agonizing pain.
+{{< s v="11" >}}  This is guidance. Those who blaspheme their Lord’s revelations will have a punishment of agonizing pain.
 
 12. It is Allah who placed the sea at your service, so that ships may run through it by His
 command, and that you may seek of His bounty, and that you may give thanks.
@@ -46,7 +39,7 @@ have earned.
 15. Whoever does a good deed, it is for his soul;
 and whoever commits evil, it is against it;
 then to your Lord you will be returned.
-16. We gave the Children of Israel the Book,
+{{< s v="16" >}}We gave the Children of Israel the Book,
 and wisdom, and prophecy; and We pro-
 vided them with the good things; and We
 gave them advantage over all other people.

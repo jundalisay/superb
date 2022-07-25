@@ -1,17 +1,25 @@
-40. FORGIVER (Ghafir)
+---
+title: "FORGIVER (Ghafir)"
+heading: "Chapter 40 of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
+
 
 <!-- 1. Ha, Meem. The sending down of the Scripture is from
-Allah the Almighty, the Omniscient.
-3. Forgiver of sins, Accepter of repentance, Se-
+Allah the Almighty, the Omniscient.{{< s v="3" >}}  Forgiver of sins, Accepter of repentance, Se-
 vere in punishment, Bountiful in bounty.
 There is no god but He. To Him is the ulti-
 mate return.
-
-4. None argues against Allah’s revelations ex-
+{{< s v="4" >}}  None argues against Allah’s revelations ex-
 cept those who disbelieve. So do not be im-
 pressed by their activities in the land. -->
-
-5. Before them the people of Noah rejected the truth, as did the confederates after them.
+{{< s v="5" >}}  Before them the people of Noah rejected the truth, as did the confederates after them.
 Every community plotted against their messenger, to capture him. And they argued with
 falsehood, to defeat with it the truth. But I seized them. What a punishment it was!
 
@@ -29,16 +37,13 @@ agony of the Blaze.
 them, and the righteous among their parents,
 and their spouses, and their offspring. You
 are indeed the Almighty, the Most Wise.
-
-9. And shield them from the evil deeds. Whomever You shield from the evil deeds,
+{{< s v="9" >}}  And shield them from the evil deeds. Whomever You shield from the evil deeds,
 on that Day, You have had mercy on him.
 That is the supreme achievement.”
-
-10. Those who disbelieved will be addressed, “The loathing of Allah is greater than your
+{{< s v="10" >}}  Those who disbelieved will be addressed, “The loathing of Allah is greater than your
 loathing of yourselves—for you were invited
 to the faith, but you refused.”
-
-11. They will say, “Our Lord, you made us die
+{{< s v="11" >}}  They will say, “Our Lord, you made us die
 twice, and twice you gave us life. Now we
 acknowledge our sins. Is there any way out?”
 12. That is because when Allah alone was
@@ -55,7 +60,7 @@ Him, even though the disbelievers resent it.
 conveys the Spirit, by His command, upon
 whomever He wills of His servants, to warn
 of the Day of Encounter.
-16. The Day when they will emerge, nothing
+{{< s v="16" >}}The Day when they will emerge, nothing
 about them will be concealed from Allah. “To
 whom does the sovereignty belong today?”
 “To Allah, the One, the Irresistible.”

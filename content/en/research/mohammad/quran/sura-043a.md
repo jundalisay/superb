@@ -1,32 +1,33 @@
-43. DECORATIONS (az-Zukhruf)
+---
+title: "DECORATIONS (az-Zukhruf)"
+heading: "Chapter 43a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-<!-- 1. Ha,
-2. By
+
+<!-- 1. Ha,{{< s v="2" >}}  By
 Meem.
 the Book that makes things clear.
 We made it an Arabic Quran, so that you
-may understand.
-4. And it is with Us, in the Source Book, sub-
-lime and wise.
-5. Shall We hold back the Reminder from you,
+may understand.{{< s v="4" >}}  And it is with Us, in the Source Book, sub-
+lime and wise.{{< s v="5" >}}  Shall We hold back the Reminder from you,
 since you are a transgressing people? -->
 
-6. How many a prophet did We send to the
-ancients?
-7. No messenger came to them, but they ridi-
-culed him.
-8. We destroyed people more powerful than
-they, and so the example of the ancients has
-passed away.
-9. And if you asked them, “Who created the
-heavens and the earth?” They would say,
-“The Mighty, the Knower created them.”
+6. How many a prophet did We send to the ancients?
+7. No messenger came to them, but they ridiculed him.
+8. We destroyed people more powerful than they, and so the example of the ancients has
+passed away.{{< s v="9" >}}  And if you asked them, “Who created the
+heavens and the earth?” They would say, “The Mighty, the Knower created them.”
 
-
-10. He who made the earth a habitat for you,
+{{< s v="10" >}}  He who made the earth a habitat for you,
 and traced pathways for you on it, that you
-may be guided.
-11. He who sends down water from the sky in
+may be guided.{{< s v="11" >}}  He who sends down water from the sky in
 due proportion; and so We revive thereby a
 dead land. Thus you will be brought out.
 12. He Who created all the pairs; and provided

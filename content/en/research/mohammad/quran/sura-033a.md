@@ -11,20 +11,15 @@ linkftext: "Index"
 ---
 
 
-
-1. O Prophet! Fear Allah, and do not obey the unbelievers and the hypocrites. Allah is
+{{< s v="1" >}}  O Prophet! Fear Allah, and do not obey the unbelievers and the hypocrites. Allah is
 Knowledgeable and Wise.
-
-2. And follow what is revealed to you from your Lord. Allah is fully aware of what you do.
-
-3. And put your trust in Allah. Allah is enough as a trustee.
-
-4. Allah did not place two hearts inside any man's body. Nor did He make your wives
+{{< s v="2" >}}  And follow what is revealed to you from your Lord. Allah is fully aware of what you do.
+{{< s v="3" >}}  And put your trust in Allah. Allah is enough as a trustee.
+{{< s v="4" >}}  Allah did not place two hearts inside any man's body. Nor did He make your wives
 whom you equate with your mothers, your actual mothers. Nor did He make your
 adopted sons, your actual sons. These are your words coming out of your mouths. Al-
 lah speaks the truth, and guides to the path.
-
-5. Call them after their fathers; that is more equitable with Allah. But if you do not know
+{{< s v="5" >}}  Call them after their fathers; that is more equitable with Allah. But if you do not know
 their fathers, then your brethren in faith and your friends. There is no blame on you if you
 err therein, barring what your hearts premeditates. Allah is Forgiving and Merciful.
 6. The Prophet is more caring of the believers than they are of themselves, and his wives are
@@ -38,15 +33,12 @@ We received from them a solemn pledge.
 
 8. That He may ask the sincere about their sincerity. He has prepared for the disbelievers a
 painful punishment.
-
-9. O you who believe! Remember Allah’s blessings upon you, when forces came against
+{{< s v="9" >}}  O you who believe! Remember Allah’s blessings upon you, when forces came against
 you, and We sent against them a wind, and forces you did not see. Allah is Observant of
 what you do.
-
-10. When they came upon you, from above you, and from beneath you; and the eyes be-
+{{< s v="10" >}}  When they came upon you, from above you, and from beneath you; and the eyes be-
 came dazed, and the hearts reached the throats, and you harbored doubts about Allah.
-
-11. There and then the believers were tested,
+{{< s v="11" >}}  There and then the believers were tested,
 and were shaken most severely.
 12. When the hypocrites and those in whose
 hearts is sickness said, “Allah and His Mes-
@@ -63,7 +55,7 @@ done so with little hesitation.
 15. Although they had made a pledged to Al-
 lah, in the past, that they will not turn their
 backs. A pledge to Allah is a responsibility.
-16. Say, “Flight will not benefit you, if you flee
+{{< s v="16" >}}Say, “Flight will not benefit you, if you flee
 from death or killing, even then you will be
 given only brief enjoyment.”
 17. Say, “Who is it who will shield you from

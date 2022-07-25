@@ -1,27 +1,31 @@
-73. THE ENWRAPPED (al-Muzzammil)
+---
+title: "THE ENWRAPPED (al-Muzzammil)"
+heading: "Chapter 73a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. O you Enwrapped one.
-2. Stay
-3. For
-224
+
+{{< s v="1" >}}  O you Enwrapped one.{{< s v="2" >}}  
+
+Stay{{< s v="3" >}}  For
 up during the night, except a little.
-half of it, or reduce it a little.74. THE ENROBED (al-Muddathir)
-4. Or
-add to it; and chant the Quran rhythmi-
-cally.
-5. We
-are about to give you a heavy message.
-vigil of night is more effective, and bet-
-ter suited for recitation.
-7. In the daytime, you have lengthy work to
-do.
-8. So remember the Name of your Lord, and
-devote yourself to Him wholeheartedly.
-9. Lord of the East and the West. There is no
-god but He, so take Him as a Trustee.
-10. And endure patiently what they say, and
-withdraw from them politely.
-11. And leave Me to those who deny the truth,
+half of it, or reduce it a little.
+
+{{< s v="4" >}}  Or add to it; and chant the Quran rhythmically.
+
+{{< s v="5" >}}  We are about to give you a heavy message.
+vigil of night is more effective, and better suited for recitation.
+
+7. In the daytime, you have lengthy work to do.
+8. So remember the Name of your Lord, and devote yourself to Him wholeheartedly.{{< s v="9" >}}  Lord of the East and the West. There is no
+god but He, so take Him as a Trustee.{{< s v="10" >}}  And endure patiently what they say, and
+withdraw from them politely.{{< s v="11" >}}  And leave Me to those who deny the truth,
 those of luxury, and give them a brief respite.
 6. The
 12. With
@@ -33,7 +37,7 @@ tains tremble, and the mountains become
 heaps of sand.
 15. We have sent to you a messenger, a witness
 over you, as We sent to Pharaoh a messenger.
-16. But Pharaoh defied the Messenger, so We
+{{< s v="16" >}}But Pharaoh defied the Messenger, so We
 seized him with a terrible seizing.
 17. So how will you, if you persist in unbelief,
 save yourself from a Day which will turn the

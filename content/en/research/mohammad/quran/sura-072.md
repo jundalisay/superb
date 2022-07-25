@@ -23,12 +23,9 @@ A band of jinn listened in and said ‘We have heard a wondrous Quran.
 7. They thought, as you thought, that Allah would never resurrect anyone.
 
 8. We probed the heaven, and found it filled with stern guards and projectiles.
-
-9. We used to take up positions to listen in; but whoever listens now finds a projectile in wait for him.
-
-10. We do not know whether ill is intended for those on earth, or if their Lord intends goodness for them.
-
-11. Some of us are righteous. But some of us are not. We follow divergent paths.
+{{< s v="9" >}}  We used to take up positions to listen in; but whoever listens now finds a projectile in wait for him.
+{{< s v="10" >}}  We do not know whether ill is intended for those on earth, or if their Lord intends goodness for them.
+{{< s v="11" >}}  Some of us are righteous. But some of us are not. We follow divergent paths.
 
 12. We realized that we cannot defeat Allah on earth, and that we cannot escape Him by fleeing.
 
@@ -39,7 +36,7 @@ those who have submitted—it is they who pursue rectitude.
 
 15. But as for the compromisers—they will be firewood for Hell.’”
 
-16. Had they kept true to the Path, We would have given them plenty water to drink.
+{{< s v="16" >}}Had they kept true to the Path, We would have given them plenty water to drink.
 
 17. To test them with it. Whoever turns away from the remembrance of his Lord, He will direct him to torment ever mounting.
 

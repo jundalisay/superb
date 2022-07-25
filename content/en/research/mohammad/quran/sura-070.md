@@ -1,23 +1,29 @@
-70. WAYS OF ASCENT (al-Ma’arij)
+---
+title: "WAYS OF ASCENT (al-Ma’arij)"
+heading: "Chapter 70a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. Someone asked about the imminent torment. 
+{{< s v="1" >}}  Someone asked about the imminent torment. 
 
 The disbelievers cannot repel it.
 <!-- Allah, Lord of the Ways of Ascent. -->
-Him the angels and the Spirit ascend on a Day the duration of which is 50,000 years.
-4. Unto be patient, with sweet patience.
+Him the angels and the Spirit ascend on a Day the duration of which is 50,000 years.{{< s v="4" >}}  Unto be patient, with sweet patience.
 6. They see it distant.
 7. But We see it near.
 8. On the Day when the sky will be like molten
-brass.
-9. And
-the mountains will be like tufted wool.
-10. No
+brass.{{< s v="9" >}}  And
+the mountains will be like tufted wool.{{< s v="10" >}}  No
 friend will care about his friend.
 will be shown each other. The crimi-
 nal wishes he would be redeemed from the
-punishment of that Day by his children.
-11. They
+punishment of that Day by his children.{{< s v="11" >}}  They
 12. And
 his spouse, and his brother.
 13. And
@@ -27,7 +33,7 @@ him.
 14.
 15.
 By no means! It is a Raging Fire.
-16. It
+{{< s v="16" >}}It
 23. Those
 who are constant at their prayers.
 And those in whose wealth is a rightful
@@ -50,14 +56,11 @@ blame.
 these are the transgressors.
 32. And those who honor their trusts and their
 pledges.
-30.
-3. From
-5. So
+30.{{< s v="3" >}}  From{{< s v="5" >}}  So
 the prayerful.
 26.
 70. WAYS OF ASCENT
-(al-Ma’arij)
-2. For
+(al-Ma’arij){{< s v="2" >}}  For
 22. Except
 33. And
 34. And

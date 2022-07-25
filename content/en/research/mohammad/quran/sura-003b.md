@@ -276,7 +276,7 @@ they recite Allah’s revelations throughout the night, and they prostrate thems
 and are quick to do good deeds. These are among the righteous.
 
 115. Whatever good they do, they will not be denied it. Allah knows the righteous.
-116. As for those who disbelieve, neither their possessions nor their children will avail them
+1{{< s v="16" >}}As for those who disbelieve, neither their possessions nor their children will avail them
 anything against Allah. These are the inhabitants of the Fire, abiding therein forever.
 117. The parable of what they spend in this worldly life is that of a frosty wind that strikes
 the harvest of a people who have wronged

@@ -1,19 +1,26 @@
-55. THE COMPASSIONATE (ar-Rahman)
+---
+title: "THE COMPASSIONATE (ar-Rahman)"
+heading: "Chapter 55a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
 
-1. The Compassionate.
-2. Has taught the Quran.
-3. He
-created man.
-4. And
-taught him clear expression.
+{{< s v="1" >}}  The Compassionate.{{< s v="2" >}}  Has taught the Quran.
+
+{{< s v="3" >}}  He created man.{{< s v="4" >}}  And taught him clear expression.
 The sun and the moon move according to
 plan.
-6. And the stars and the trees prostrate them-
-selves.
-7. And the sky, He raised; and He set up the
-balance.
+
+6. And the stars and the trees prostrate themselves.
+7. And the sky, He raised; and He set up the balance.
 taste My punishment and My warnings.
+
 40. We made the Quran easy to memorize. Is
 there anyone who would memorize?
 41. The warnings also came to the people of
@@ -51,16 +58,12 @@ The righteous will be amidst gardens and
 rivers.
 55. In an assembly of virtue, in the presence of
 an Omnipotent King.
-54.
-5.
+54.{{< s v="5" >}} 
 8. So
 do not transgress in the balance.
 But maintain the weights with justice, and
-do not violate the balance.
-9.
-10. And
-the earth; He set up for the creatures.
-11. In
+do not violate the balance.{{< s v="9" >}} {{< s v="10" >}}  And
+the earth; He set up for the creatures.{{< s v="11" >}}  In
 12.
 created man from hard clay, like bricks.
 15. And

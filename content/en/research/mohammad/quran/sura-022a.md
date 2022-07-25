@@ -68,7 +68,7 @@ him in this life and in the Hereafter—let him
 turn to heaven, then sever, and see if his cun-
 ning eliminates what enrages him.
 
-16. Thus We revealed it as clarifying signs, and
+{{< s v="16" >}}Thus We revealed it as clarifying signs, and
 Allah guides whomever He wills.
 
 
@@ -240,7 +240,8 @@ sail at sea by His command? That He holds
 up the sky lest it falls on earth—except by His
 permission?
 
-12523. THE BELIEVERS (al-Mu’minun)
+
+
 66. And it is He who gives you life, then makes
 you die, then revives you. The human being
 is unappreciative.
@@ -251,9 +252,8 @@ And invite to your Lord; you are upon a
 straight guidance.
 68. But if they dispute with you, say, “Allah is
 fully aware of what you do.”
-69. Allah will judge between you on the Day of
-Resurrection regarding what you disagree
-about.
+69. Allah will judge between you on the Day of Resurrection regarding what you disagree about.
+
 70. Do you not know that Allah knows every-
 thing in the heavens and the earth? This is in
 a book. That is easy for Allah.
@@ -261,40 +261,32 @@ a book. That is easy for Allah.
 which He sent down no warrant, and what
 they have no knowledge of. There is no savior
 for the transgressors.
-72. And when Our Clear Verses are recited to
-them, you will recognize disgust on the faces
-of those who disbelieve. They nearly assault
-those who recite to them Our Verses. Say,
-“Shall I inform you of something worse than
-that? The Fire! Allah has promised it to those
-who disbelieve. And what a wretched out-
-come!”
-73. O people! A parable is presented, so listen
-to it: Those you invoke besides Allah will
-never create a fly, even if they banded to-
-gether for that purpose. And if the fly steals
-anything from them, they cannot recover it
-from it. Weak are the pursuer and the pur-
-sued.
-74. They do not value Allah as He should be
-valued. Allah is Strong and Powerful.
-75. Allah chooses messengers from among the
-angels, and from among the people. Allah is
-Hearing and Seeing.
+
+72. And when Our Clear Verses are recited to them, you will recognize disgust on the faces
+of those who disbelieve. They nearly assault those who recite to them Our Verses. Say,
+“Shall I inform you of something worse than that? The Fire! Allah has promised it to those
+who disbelieve. And what a wretched outcome!”
+
+73. O people! Listen to a parable: Those you invoke besides Allah will never create a fly, even if they banded together for that purpose. And if the fly steals anything from them, they cannot recover it from it. Weak are the pursuer and the pursued.
+
+74. They do not value Allah as He should be valued. 
+
+75. Allah chooses messengers from among:
+- the angels, and
+- the people. 
+
 76. He knows what is before them, and what is
 behind them. To Allah all matters are re-
 ferred.
-O you who believe! Kneel, and prostrate,
+<!-- O you who believe! Kneel, and prostrate,
 and worship your Lord, and do good deeds,
-so that you may succeed.
-78. And strive for Allah, with the striving due
-to Him. He has chosen you, and has not bur-
-dened you in religion—the faith of your fa-
-ther Abraham. It is he who named you Mus-
-lims before, and in this. So that the Messen-
-ger may be a witness over you, and you may
-be witnesses over the people. So pray regu-
-larly, and give regular charity, and cleave to
-Allah. He is your Protector. What an excel-
-lent Protector, and what an excellent Helper.
+so that you may succeed. -->
+
+78. And strive for Allah, with the striving due to Him. He has chosen you, and has not bur-
+dened you in religion—the faith of your father Abraham. It is he who named you Mus-
+lims before, and in this. 
+
+So that the Messenger may be a witness over you, and you may
+be witnesses over the people. So pray regularly, and give regular charity, and cleave to
+Allah. He is your Protector. What an excellent Protector, and what an excellent Helper.
 

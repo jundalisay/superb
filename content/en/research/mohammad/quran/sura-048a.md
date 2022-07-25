@@ -1,70 +1,65 @@
-48. VICTORY (al-Fath)
+---
+title: "VICTORY (al-Fath)"
+heading: "Chapter 48a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. We have granted you a conspicuous victory.
-2. That Allah may forgive you your sin, past
-and to come, and complete His favors upon
-you, and guide you in a straight path.
-3. And
-help you with an unwavering support.
-is He who sent down tranquility into the
-hearts of the believers, to add faith to their
-faith. To Allah belong the forces of the heav-
-ens and the earth. Allah is Knowing and
-Wise.
-5. He will admit the believers, male and fe-
-male, into Gardens beneath which rivers
-flow, to abide therein forever, and He will re-
-mit their sins. That, with Allah, is a great tri-
-umph.
-6. And He will punish the hypocrites, male
-and female, and the idolaters, male and fe-
-male, those who harbor evil thoughts about
-Allah. They are surrounded by evil; and Allah
-is angry with them, and has cursed them, and
-has prepared for them Hell—a miserable des-
-tination.
-7. To Allah belong the troops of the heavens
-and the earth. Allah is Mighty and Wise.
+
+{{< s v="1" >}}  We have granted you a conspicuous victory.{{< s v="2" >}}  That Allah may forgive you your sin, past
+and to come, and complete His favors upon you, and guide you in a straight path.{{< s v="3" >}}  
+
+And help you with an unwavering support.
+
+is He who sent down tranquility into the hearts of the believers, to add faith to their
+faith. To Allah belong the forces of the heavens and the earth. Allah is Knowing and Wise.
+
+{{< s v="5" >}}  He will admit the believers, male and fe-
+male, into Gardens beneath which rivers flow, to abide therein forever, and He will remit their sins. That, with Allah, is a great triumph.
+
+6. And He will punish the hypocrites, male and female, and the idolaters, male and female, those who harbor evil thoughts about
+Allah. They are surrounded by evil; and Allah is angry with them, and has cursed them, and
+has prepared for them Hell—a miserable destination.
+
+7. To Allah belong the troops of the heavens and the earth. Allah is Mighty and Wise.
+
 8. We sent you as a witness, and a bearer of
-good news, and a warner.
-9. That you may believe in Allah and His Mes-
+good news, and a warner.{{< s v="9" >}}  That you may believe in Allah and His Mes-
 senger, and support Him, and honor Him,
 and praise Him morning and evening.
-10. Those who pledge allegiance to you are
-pledging allegiance to Allah. The hand of Al-
-lah is over their hands. Whoever breaks his
-4. It
+
+{{< s v="10" >}}  Those who pledge allegiance to you are pledging allegiance to Allah. The hand of Al-
+lah is over their hands. Whoever breaks his {{< s v="4" >}}  It
 pledge breaks it to his own loss. And whoever
 fulfills his covenant with Allah, He will grant
 him a great reward.
-11. The Desert-Arabs who remained behind
-will say to you, “Our belongings and our fam-
-ilies have preoccupied us, so ask forgiveness
-for us.” They say with their tongues what is
-not in their hearts. Say, “Who can avail you
-anything against Allah, if He desires loss for
-you, or desires gain for you?” In fact, Allah is
-Informed of what you do.
-12. But you thought that the Messenger and
-the believers will never return to their fami-
-lies, and this seemed fine to your hearts; and
-you harbored evil thoughts, and were uncivi-
-lized people.
-13. He who does not believe in Allah and His
-Messenger—We have prepared for the disbe-
-lievers a Blazing Fire.
-14. To Allah belongs the kingdom of the heav-
-ens and the earth. He forgives whomever He
+
+{{< s v="11" >}}  The Desert-Arabs who remained behind will say to you, “Our belongings and our fam-
+ilies have preoccupied us, so ask forgiveness for us.” They say with their tongues what is
+not in their hearts. Say, “Who can avail you anything against Allah, if He desires loss for
+you, or desires gain for you?” 
+
+In fact, Allah is Informed of what you do.
+
+12. But you thought that the Messenger and the believers will never return to their families, and this seemed fine to your hearts; and you harbored evil thoughts, and were uncivilized people.
+
+13. He who does not believe in Allah and His Messenger—We have prepared for the disbelievers a Blazing Fire.
+
+14. To Allah belongs the kingdom of the heavens and the earth. He forgives whomever He
 wills, and He punishes whomever He wills.
-Allah is Forgiving and Merciful.
-15. Those who lagged behind will say when
-you depart to collect the gains, “Let us follow
+
+15. Those who lagged behind will say when you depart to collect the gains, “Let us follow
 you.” They want to change the Word of Al-
 lah. Say, “You will not follow us; Allah has
 said so before.” Then they will say, “But you
 are jealous of us.” In fact, they understand
 only a little.
-16. Say to the Desert-Arabs who lagged be-
+{{< s v="16" >}}Say to the Desert-Arabs who lagged be-
 hind, “You will be called against a people of
 great might; you will fight them, unless they
 submit. If you obey, Allah will give you a fine

@@ -1,18 +1,31 @@
-46. THE DUNES (al-Ahqaf)
+---
+title: "THE DUNES (al-Ahqaf)"
+heading: "Chapter 46a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
+
 
 <!-- 1. Ha,
 Meem. The sending down of the Scripture is from
 Allah, the Honorable, the Wise. -->
-3. We did not create the heavens and the earth and what lies between them except with rea-
+
+{{< s v="3" >}}  We did not create the heavens and the earth and what lies between them except with rea-
 son, and for a finite period. But the blasphemers continue to ignore the warnings they receive.
 
-4. Say, “Have you considered those you worship instead of Allah? Show me which por-
+{{< s v="4" >}}  Say, “Have you considered those you worship instead of Allah? Show me which por-
 tion of the earth they have created. Or do they
 own a share of the heavens? Bring me a scripture prior to this one, or some trace of
 knowledge, if you are truthful.”
 
-5. Who is more wrong than him who invokes, besides Allah, those who will not answer him
+{{< s v="5" >}}  Who is more wrong than him who invokes, besides Allah, those who will not answer him
 until the Day of Resurrection, and are heedless of their prayers?
+
 6. And when humanity is gathered, they will be enemies to them, and will renounce their
 worship of them.
 
@@ -24,15 +37,12 @@ the truth when it has come to them, “This is obviously magic.”
 Say, “If I invented it myself, there is nothing you can do to protect me from Allah. He
 knows well what you are engaged in. He is sufficient witness between me and you. He is
 the Forgiver, the Merciful.”
-
-9. Say, “I am not different from the other messengers; and I do not know what will be done with me, or with you. I only follow what is in-
+{{< s v="9" >}}  Say, “I am not different from the other messengers; and I do not know what will be done with me, or with you. I only follow what is in-
 spired in me, and I am only a clear warner.”
-
-10. Say, “Have you considered? What if it is from Allah and you disbelieve in it? A witness
+{{< s v="10" >}}  Say, “Have you considered? What if it is from Allah and you disbelieve in it? A witness
 from the Children of Israel testified to its like, and has believed, while you turned arrogant.
 <!-- Allah does not guide the unjust people. -->”
-
-11. Those who disbelieve say to those who believe, “If it were anything good, they would
+{{< s v="11" >}}  Those who disbelieve say to those who believe, “If it were anything good, they would
 not have preceded us to it.” And since they
 were not guided by it, they will say, “This is
 an ancient lie.”
@@ -59,7 +69,7 @@ to act with righteousness, pleasing You. And
 improve my children for me. I have sincerely
 repented to You, and I am of those who have
 surrendered.”
-16. Those are they from whom We accept the
+{{< s v="16" >}}Those are they from whom We accept the
 best of their deeds, and We overlook their
 misdeeds, among the dwellers of Paradise—
 the promise of truth which they are prom-

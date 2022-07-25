@@ -1,27 +1,35 @@
-50. QAF (Qaf)
+---
+title: "QAF (Qaf)"
+heading: "Chapter 50a of the Quran Simplified"
+date: 2022-01-31
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
+---
 
-1. Qaf. 
+
+{{< s v="1" >}}  Qaf. 
 
 By the Glorious Quran.
+
 They marveled that a warner has come to
 them from among them. The disbelievers say,
 “This is something strange.
 
-3. When we have died and become dust? This is a farfetched return.”
-4. We know what the earth consumes of them, and with Us is a comprehensive book.
-5. But they denied the truth when it has come to them, so they are in a confused state.
+{{< s v="3" >}}  When we have died and become dust? This is a farfetched return.”{{< s v="4" >}}  We know what the earth consumes of them, and with Us is a comprehensive book.{{< s v="5" >}}  But they denied the truth when it has come to them, so they are in a confused state.
+
 6. Have they not observed the sky above them, how We constructed it, and decorated it, and
 it has no cracks?
 
 7. And the earth, how We spread it out, and set on it mountains, and grew in it all kinds
 of delightful pairs?
 
-8. A lesson and a reminder for every penitent worshiper.
-9. And We brought down from the sky blessed water, and produced with it gardens and
+8. A lesson and a reminder for every penitent worshiper.{{< s v="9" >}}  And We brought down from the sky blessed water, and produced with it gardens and
 grain to harvest.
-
-10. And the soaring palm trees, with clustered dates.
-11. As sustenance for the servants. And We revive thereby a dead town. Likewise is the res-
+{{< s v="10" >}}  And the soaring palm trees, with clustered dates.{{< s v="11" >}}  As sustenance for the servants. And We revive thereby a dead town. Likewise is the res-
 urrection.
 
 12. Before them the people of Noah denied the truth, and so did the dwellers of Russ, and
@@ -30,7 +38,7 @@ Thamood.
 13. And Aad, and Pharaoh, and the brethren of Lot.
 14. And the Dwellers of the Woods, and the people of Tubba. They all rejected the messengers, so My threat came true.
 15. Were We fatigued by the first creation? But they are in doubt of a new creation.
-16. We created the human being, and We know what his soul whispers to him. We are
+{{< s v="16" >}}We created the human being, and We know what his soul whispers to him. We are
 nearer to him than his jugular vein.
 
 17. As the two receivers receive, seated to the right and to the left.

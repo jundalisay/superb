@@ -37,13 +37,10 @@ destroyed them for their sins, and established other civilizations after them.
 those who disbelieve would have said, “This is nothing but plain magic.”
 
 8. And they say, “Why was an angel not sent down to him.” Had We sent down an angel, the matter would have been settled, and they would not have been reprieved.
-
-9. Had We made him an angel, We would have made him a man, and confused them when they are already confused.
-
-10. Messengers before you were ridiculed, but
+{{< s v="9" >}}  Had We made him an angel, We would have made him a man, and confused them when they are already confused.
+{{< s v="10" >}}  Messengers before you were ridiculed, but
 those who mocked them became besieged by what they ridiculed.
-
-11. Say, “Travel the earth and observe the final fate of the deniers.”
+{{< s v="11" >}}  Say, “Travel the earth and observe the final fate of the deniers.”
 
 12. Say, “To whom belongs what is in the heav-
 ens and the earth?” Say, “To Allah.” He has
@@ -60,7 +57,7 @@ Say, “I am instructed to be the first of those who submit.” And do not be am
 15. Say, “I fear, should I defy my Lord, the pun-
 ishment of a tremendous Day.”
 
-16. Whoever is spared on that Day—He had mercy on him. That is the clear victory.
+{{< s v="16" >}}Whoever is spared on that Day—He had mercy on him. That is the clear victory.
 
 17. If Allah touches you with adversity, none can remove it except He. And if He touches
 you with good—He is Capable of everything.
@@ -488,7 +485,7 @@ who doubt.
 pleted, in truth and justice. There is no
 changing to His words. He is the Hearer, the
 Knower.
-116. If you were to obey most of those on earth,
+1{{< s v="16" >}}If you were to obey most of those on earth,
 they would divert you from Allah’s path.
 They follow nothing but assumptions, and
 they only conjecture.

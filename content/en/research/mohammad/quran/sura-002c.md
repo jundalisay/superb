@@ -149,7 +149,7 @@ is a terrible punishment in the Hereafter.
 Whichever way you turn, there is Allah’s
 presence. Allah is Omnipresent and Omnis-
 cient.
-116. And they say, “Allah has begotten a son.”
+1{{< s v="16" >}}And they say, “Allah has begotten a son.”
 Be He glorified. Rather, His is everything in
 the heavens and the earth; all are obedient to
 Him.
@@ -648,7 +648,7 @@ tory?” Indeed, Allah’s victory is near.
 and the relatives, and the orphans, and the
 poor, and the wayfarer. Whatever good you
 do, Allah is aware of it.
-216. Fighting is ordained for you, even though
+2{{< s v="16" >}}Fighting is ordained for you, even though
 you dislike it. But it may be that you dislike
 something while it is good for you, and it may
 be that you like something while it is bad for

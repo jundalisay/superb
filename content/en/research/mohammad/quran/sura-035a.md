@@ -18,13 +18,10 @@ ple. He adds to creation as He wills.  -->
 
 <!-- 2. Whatever mercy Allah unfolds for the people, none can withhold it. And if He with-
 holds it, none can release it thereafter. He is the Exalted in Power, Full of Wisdom. -->
-
-3. O people! Remember Allah’s blessings upon you. Is there a creator other than Allah who provides for you from the heaven and
+{{< s v="3" >}}  O people! Remember Allah’s blessings upon you. Is there a creator other than Allah who provides for you from the heaven and
 the earth? There is no god but He. So how are you misled?
-
-4. If they reject you, messengers before you were also rejected. To Allah all matters are returned.
-
-5. O people! The promise of Allah is true; so let not the lowly life seduce you, and let not the Tempter tempt you away from Allah.
+{{< s v="4" >}}  If they reject you, messengers before you were also rejected. To Allah all matters are returned.
+{{< s v="5" >}}  O people! The promise of Allah is true; so let not the lowly life seduce you, and let not the Tempter tempt you away from Allah.
 
 6. Satan is an enemy to you, so treat him as an enemy. He only invites his gang to be among the inmates of the Inferno.
 
@@ -34,12 +31,9 @@ righteous deeds will have forgiveness and a great reward.
 8. What of him whose evil deed was made attractive to him, and so he regards it as good?
 Allah leads astray whomever He wills, and He guides whomever He wills. Therefore, do not
 waste yourself sorrowing over them. Allah knows exactly what they do.
-
-9. Allah is He who sends the winds, which agitate clouds, which We drive to a dead land, and thereby revive the ground after it had died. Likewise is the Resurrection.
-
-10. Whoever desires honor—all honor belongs to Allah. To Him ascends speech that is pure, and He elevates righteous conduct. As for those who plot evil, a terrible punishment awaits them, and the planning of these will fail.
-
-11. Allah created you from dust, then from a small drop; then He made you pairs. No fe-
+{{< s v="9" >}}  Allah is He who sends the winds, which agitate clouds, which We drive to a dead land, and thereby revive the ground after it had died. Likewise is the Resurrection.
+{{< s v="10" >}}  Whoever desires honor—all honor belongs to Allah. To Him ascends speech that is pure, and He elevates righteous conduct. As for those who plot evil, a terrible punishment awaits them, and the planning of these will fail.
+{{< s v="11" >}}  Allah created you from dust, then from a small drop; then He made you pairs. No fe-
 male conceives, or delivers, except with His knowledge. No living thing advances in years,
 or its life is shortened, except it be in a Record. That is surely easy for Allah.
 
@@ -56,7 +50,7 @@ informs you like an Expert.
 
 15. O people! It is you who are the poor, in need of Allah; while Allah is the Rich, the Praiseworthy.
 
-16. If He wills, He can do away with you, and produce a new creation.
+{{< s v="16" >}}If He wills, He can do away with you, and produce a new creation.
 
 17. And that would not be difficult for Allah. burdened soul can carry the burden of
 another. Even if one weighted down calls for help with its burden, nothing can be lifted
@@ -178,14 +172,10 @@ time has arrived—Allah is Observant of His
 creatures.
 36. YA-SEEN
 (Ya-Seen)
-
-1. Ya,
-2. By
+{{< s v="1" >}}  Ya,{{< s v="2" >}}  By
 165
 Seen.
-the Wise Quran.36. YA-SEEN (Ya-Seen)
-3. You
-4. On
+the Wise Quran.36. YA-SEEN (Ya-Seen){{< s v="3" >}}  You{{< s v="4" >}}  On
 are one of the messengers.
 a straight path.
 The revelation of the Almighty, the Merci-
@@ -195,14 +185,11 @@ warned, and so they are unaware.
 7. The Word was realized against most of
 them, for they do not believe.
 8. We placed shackles around their necks, up
-to their chins, so they are stiff-necked.
-9. And We placed a barrier in front of them,
+to their chins, so they are stiff-necked.{{< s v="9" >}}  And We placed a barrier in front of them,
 and a barrier behind them, and We have en-
-shrouded them, so they cannot see.
-10. It is the same for them, whether you warn
+shrouded them, so they cannot see.{{< s v="10" >}}  It is the same for them, whether you warn
 them, or do not warn them—they will not be-
-lieve.
-11. You warn only him who follows the Mes-
+lieve.{{< s v="11" >}}  You warn only him who follows the Mes-
 sage, and fears the Most Gracious inwardly.
 So give him good news of forgiveness, and a
 generous reward.
@@ -218,12 +205,11 @@ a third. They said, “We are messengers to you.”
 15. They said, “You are nothing but humans like us, and the Gracious did not send down
 anything; you are only lying.”
 
-16. They said, “Our Lord knows that we are messengers to you.
+{{< s v="16" >}}They said, “Our Lord knows that we are messengers to you.
 17. And our only duty is clear communication.”
 18. They said, “We see an evil omen in you; if
 you do not give up, we will stone you, and a
-painful punishment from us will befall you.”
-5.
+painful punishment from us will befall you.”{{< s v="5" >}} 
 19. They said, “Your evil omen is upon you. Is
 it because you were reminded? But you are an
 extravagant people.”
@@ -399,27 +385,19 @@ be returned.
 71.
 37. THE ALIGNERS
 (as-Saffat)
-
-1. By
-the aligners aligning.
-2. And the drivers driving.
-3. And the reciters of the Reminder.
-4. Your
+{{< s v="1" >}}  By
+the aligners aligning.{{< s v="2" >}}  And the drivers driving.{{< s v="3" >}}  And the reciters of the Reminder.{{< s v="4" >}}  Your
 God is indeed One.
 of the heavens and the earth, and eve-
 rything between them; and Lord of the Easts.
 6. We have adorned the lower heaven with the
-beauty of the planets.
-5. Lord
+beauty of the planets.{{< s v="5" >}}  Lord
 7. And
 guarded it against every defiant devil.
 They cannot eavesdrop on the Supernal
-Elite, for they get bombarded from every side.
-9. Repelled—they will have a lingering tor-
-ment.
-10. Except for him who snatches a fragment—
-he gets pursued by a piercing projectile.
-11. Inquire of them, “Are they more difficult to
+Elite, for they get bombarded from every side.{{< s v="9" >}}  Repelled—they will have a lingering tor-
+ment.{{< s v="10" >}}  Except for him who snatches a fragment—
+he gets pursued by a piercing projectile.{{< s v="11" >}}  Inquire of them, “Are they more difficult to
 create, or the others We created?” We created
 them from sticky clay.
 8.
@@ -432,7 +410,7 @@ tion.
 when they see a sign, they ridicule.
 And they say, “This is nothing but plain
 magic.
-16. When we have died and become dust and
+{{< s v="16" >}}When we have died and become dust and
 bones, shall we be resurrected?
 15.
 17. And
@@ -656,7 +634,7 @@ themselves.
 We blessed Moses and Aaron.
 And We delivered them and their people
 from the terrible disaster.
-116. And We supported them, and so they were
+1{{< s v="16" >}}And We supported them, and so they were
 the victors.
 117. And We gave them the Clarifying Scrip-
 ture.
