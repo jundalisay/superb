@@ -95,117 +95,89 @@ without knowledge. But who can guide
 18.
 whom Allah leaves astray? They will have no
 helpers.
-30. So devote yourself to the religion of mono-
-theism—the natural instinct Allah has in-
-stilled in mankind. There is no altering Al-
-lah’s creation. This is the true religion, but
+
+30. So devote yourself to the religion of monotheism—the natural instinct Allah has in-
+stilled in mankind. There is no altering Allah’s creation. This is the true religion, but
 most people do not know.
-31. Turning towards Him—and be conscious
-of Him, and perform the prayer, and do not
+
+31. Turning towards Him—and be conscious of Him, and perform the prayer, and do not
 be of the idolaters.
-32. Of those who divided their religion, and
-became sects; each faction pleased with what
+
+32. Of those who divided their religion, and became sects; each faction pleased with what
 they have.
-33. When affliction touches the people, they
-call on their Lord, turning to Him in repent-
-ance. But then, when He gives them a taste of
-His mercy, some of them attribute partners to
-their Lord.
-34. To show ingratitude for what We have
-given them. Indulge yourselves—you will
-surely know.
-35. Have We sent down to them any authority,
-which speaks in support of their idols?
-36. When We give people a taste of mercy, they
-rejoice in it. But when adversity befalls them,
-because of what their hands have perpetrated,
-they begin to despair.
-37. Do they not see that Allah expands the pro-
-vision for whomever He wills, or restricts it?
-Surely in this are signs for people who be-
-lieve.
-38. So give the relative his rights, and the des-
-titute, and the wayfarer. That is best for those
-who seek Allah’s presence. Those are the
-prosperous.
-39. The usury you practice, seeking thereby to
-multiply people’s wealth, will not multiply
-with Allah. But what you give in charity, de-
-siring Allah’s approval—these are the multi-
-pliers.
-40. Allah is He who created you, then provides
+
+33. When affliction touches the people, they call on their Lord, turning to Him in repentance. But then, when He gives them a taste of His mercy, some of them attribute partners to their Lord.
+
+34. To show ingratitude for what We have given them. Indulge yourselves—you will surely know.
+
+35. Have We sent down to them any authority, which speaks in support of their idols?
+36. When We give people a taste of mercy, they rejoice in it. But when adversity befalls them,
+because of what their hands have perpetrated, they begin to despair.
+
+37. Do they not see that Allah expands the provision for whomever He wills, or restricts it?
+Surely in this are signs for people who believe.
+
+38. So give the relative his rights, and the destitute, and the wayfarer. That is best for those who seek Allah’s presence. Those are the prosperous.
+
+39. You practice usury, seeking to multiply people’s wealth. But it will not multiply with Allah. 
+
+But what you give in charity, desiring Allah’s approval—these are the multipliers.
+
+<!-- 40. Allah is He who created you, then provides
 for you, then makes you die, then brings you
 back to life. Can any of your idols do any of
 that? Glorified is He, and Exalted above what
-they associate.
+they associate. -->
 
-41. Corruption has appeared on land and sea, because of what people’s hands have earned,
-in order to make them taste some of what they have done, so that they might return.
-42. Say, “Roam the earth, and observe the fate
-of those who came before. Most of them were idolaters.”
-43. So devote yourself to the upright religion,
-before there comes from Allah a Day that
-cannot be averted. On that Day, they will be
-shocked.
-44. Whoever disbelieves, upon him falls his
-disbelief. And whoever acts righteously—
-they are preparing for themselves.
-45. So that He may reward those who have be-
-lieved and done the righteous deeds out of
-His bounty. Indeed, He does not love the un-
-grateful.
-46. And of His signs is that He sends the winds
-bearing good news, to give you a taste of His
-mercy, and so that the ships may sail by His
-command, and so that you may seek of His
+41. Corruption has appeared on land and sea because of what people’s hands have earned, in order to make them taste some of what they have done, so that they might return.
+42. Say, “Roam the earth, and observe the fate of those who came before. Most of them were idolaters.”
+43. So devote yourself to the upright religion, before there comes from Allah a Day that cannot be averted. On that Day, they will be shocked.
+44. Whoever disbelieves, upon him falls his disbelief. And whoever acts righteously—they are preparing for themselves.
+45. So that He may reward those who have believed and done the righteous deeds out of His bounty. Indeed, He does not love the ungrateful.
+46. And of His signs is that He sends the winds bearing good news, to give you a taste of His
+mercy, and so that the ships may sail by His command, and so that you may seek of His
 bounty, and so that you may give thanks.
-47. Before you, We sent messengers to their
-people. They came to them with clear proofs.
-Then We took revenge on those who sinned.
+
+47. Before you, We sent messengers to their people. They came to them with clear proofs.
+Then We took revenge on those who sinned. 
+
 It is incumbent on Us to help the believers.
-48. Allah is He who sends the winds. They stir
-up clouds. Then He spreads them in the sky
-as He wills. And He breaks them apart. Then
-you see rain drops issuing from their midst.
-Then, when He makes it fall upon whom He
-wills of His servants, behold, they rejoice.
-49. Although they were before this—before it
-was sent down upon them—in despair.
-50. So observe the effects of Allah’s mercy—
-how He revives the earth after it was dead. In-
-deed, He is the Reviver of the dead. He is Ca-
-pable of everything.
-51. But if We send a wind, and they see it turn-
-ing things yellow, they would continue there-
+
+48. Allah is He who sends the winds. They stir up clouds. Then He spreads them in the sky
+as He wills. And He breaks them apart. Then you see rain drops issuing from their midst.
+Then, when He makes it fall upon whom He wills of His servants, behold, they rejoice.
+
+49. Although they were before this—before it was sent down upon them—in despair.
+50. So observe the effects of Allah’s mercy—how He revives the earth after it was dead. In-
+deed, He is the Reviver of the dead. 
+
+51. But if We send a wind, and they see it turning things yellow, they would continue there-
 after to disbelieve.
-52. You cannot make the dead hear, nor can
-you make the deaf hear the call when they
+
+52. You cannot make the dead hear, nor can you make the deaf hear the call when they
 turn away.
-53. Nor can you guide the blind out of their er-
-ror. You can make hear only those who be-
+
+53. Nor can you guide the blind out of their error. You can make hear only those who be-
 lieve in Our signs, and so have submitted.
-54. Allah is He Who created you weak, then af-
-ter weakness gave you strength, then after
-strength gave you weakness and gray hair. He
-creates whatever He wills. He is the Omnisci-
-ent, the Omnipotent.
-55. On the Day when the Hour takes place, the
-sinners will swear they had stayed but an
+
+54. Allah is He Who created you weak, then after weakness gave you strength, then after
+strength gave you weakness and gray hair.
+
+55. On the Day when the Hour takes place, the sinners will swear they had stayed but an
 hour. Thus they were deluded.
-56. But those endowed with knowledge and
-faith will say, “You remained in Allah’s Book
+
+56. But those endowed with knowledge and faith will say, “You remained in Allah’s Book
 until the Day of Resurrection. This is the Day
 of Resurrection, but you did not know.”
+
 57. On that Day, the sinners’ excuses will not
 benefit them, nor will they be excused.
 58. We have cited in this Quran for the people
 every sort of parable. But even if you bring
 them a miracle, those who disbelieve will say,
 “You are nothing but fakers.”
-59. Allah thus seals the hearts of those who do
-not know.
-60. So be patient. The promise of Allah is true.
-And do not let those who lack certainty belit-
-tle you.
+59. Allah thus seals the hearts of those who do not know.
+
+60. So be patient. The promise of Allah is true. And do not let those who lack certainty belittle you.
 
 
