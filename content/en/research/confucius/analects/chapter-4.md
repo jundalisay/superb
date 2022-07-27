@@ -11,7 +11,7 @@ heading=  "Chapter 4"
 +++
 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 It is social good feeling that gives charm to a neighborhood. And where is the wisdom of those who choose an abode where it does not abide? 
 
 "Those who are without it cannot abide long, either in straitened or in happy circumstances. Those who possess it find contentment in it. Those who are wise go after it as men go after gain. "Only they in whom it exists can have right likings and dislikings for others. "Where the will is set upon it, there will be no room for malpractices. 

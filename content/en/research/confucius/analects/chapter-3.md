@@ -13,7 +13,7 @@ heading=  "Chapter 3"
 Confucius alluded to the head of the Ki family, and the eight lines of posturers before their ancestral hall.
 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 If the Ki can allow himself to go to this extent, to what extent will he not allow himself to go?
 
 The Three Families were in the habit, during the Removal of the sacred vessels after sacrifice, of using the hymn commencing,
@@ -26,7 +26,7 @@ Where a man has not the proper feelings due from one man to another, how will he
 What was the radical idea upon which the Rules of Propriety were based?
 {{< /r >}}
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 Ah! that is a large question. 
 
 As to some rules, where there is likelihood of extravagance, they would rather demand economy; in those which relate to mourning, and where there is likelihood of being easily satisfied, what is wanted is real sorrow.
@@ -37,7 +37,7 @@ Speaking of the disorder of the times he remarked that while the barbarians on t
 Confucius alluded to the matter of the Chief of the Ki family worshipping on Tai-shan= 
 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 Confucius to Yen Yu: Cannot you save him from this?
 {{< /l >}}
 

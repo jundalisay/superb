@@ -11,7 +11,7 @@ heading=  "Chapter 10a"
 +++
 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 The first to make progress in the Proprieties and in Music are plain farmers.
 
 After them, the men of higher standing. If I had to employ any of them, I would choose the farmers.
@@ -33,7 +33,7 @@ Ki K'ang=  which of the disciples were fond of learning?
 </div>
 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 There was one Yen Hwui who was fond of it. But unfortunately he died early. Now his like is not to be found.
 
 When Yen Yuen died, his father, Yen Lu, begged for the Master's carriage in order to get a shell for his coffin.

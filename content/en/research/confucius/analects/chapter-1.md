@@ -34,12 +34,12 @@ Well, are not filial piety and friendly subordination among brothers a root of t
 {{< /r >}}
 
 {{< l a="Confucius" >}}
-Confucius=  Yes, but rarely do we see this right feeling where there is fine speech and studied men.
+Yes, but rarely do we see this right feeling where there is fine speech and studied men.
 {{< /l >}}
 
 
 {{< r a="Scholar-Tsang" >}}
-Scholar Tsang=  On three points I examine myself daily= 
+I examine myself daily on 3 points:
 - whether, in looking after other people's interests, I have not been acting whole-heartedly,
 - whether, I have not been true with friends, and
 - whether, after teaching, I have not myself been practising what I have taught.
@@ -61,7 +61,7 @@ If, in such a walk, there be time or energy left for other things, let them empl
 
 
 {{< r a="Tsz-Hi" >}}
-Disciple Tsz-hi=  The evidence of learning are:
+Disciple Tsz-hi: The evidence of learning are:
 - the appreciation of worth in men of worth,
 - diverting the mind from lascivious desires
 - ministering to parents while one is the most capable of so doing
@@ -87,7 +87,7 @@ The virtue of the people is renewed and enriched when attention is seen to be pa
 {{< /r >}}
 
 {{< r a="Tsz-Kin" >}}
-Tsz-k'in asked his fellow disciple Tsz-kung=  "When our Master comes to this or that State, he learns without fail how it is being governed. Does he investigate matters? or are the facts given him?"
+Tsz-k'in asked his fellow disciple Tsz-kung: "When our Master comes to this or that State, he learns without fail how it is being governed. Does he investigate matters? or are the facts given him?"
 {{< /r >}}
 
 {{< r a="Tsz-kung" >}}
@@ -130,7 +130,7 @@ Such a man can be become a devoted student, especially if he=
 {{< /l >}}
 
 {{< r a="Tsz-kung"  >}}
-Tsz-kung asked=  "What do say of the poor who do not cringe and fawn? What of the rich who are without pride and haughtiness?
+What do say of the poor who do not cringe and fawn? What of the rich who are without pride and haughtiness?
 {{< /r >}}
 
 {{< l ava="Confucius" >}}
@@ -138,11 +138,11 @@ They are passable. Yet they are scarcely in the same category as the poor who ar
 {{< /l >}}
 
 {{< r a="Tsz-kung"  >}}
-Tsz-kung=  In the 'Book of the Odes we read of one Polished, as by the knife and file, The graving-tool, the smoothing-stone.
+In the 'Book of the Odes we read of one Polished, as by the knife and file, The graving-tool, the smoothing-stone.
 {{< /r >}}
 
 {{< l ava="Confucius" >}}
-Confucius=  You may well commence a discussion on the Odes. If one tell you how a thing goes, you know what ought to come.
+You may well commence a discussion on the Odes. If one tell you how a thing goes, you know what ought to come.
 
 It do not mind that men do not know me
 My great concern is, my not knowing them.

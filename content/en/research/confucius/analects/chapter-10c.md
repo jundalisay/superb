@@ -23,7 +23,7 @@ He can become a student afterwards." "Here is the reason for my hatred of glib-t
 
 Tsz-lu, Tsang Sin, Yen Yu, and Kung-si Hwa were sitting near him. He said to them= 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 Though I may be a day older than you, do not (for the moment) regard me as such. While you are living this unoccupied life you are saying, 'We do not become known.' Now suppose some one got to know you, what then?"
 {{< /l >}}
 
@@ -52,7 +52,7 @@ He then asked Tsang Sin who was strumming on his harpsichord, but now the twangi
 Something different from the choice of these three.
 </div>
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 I want each one of you to tell me what his heart is set upon.
 {{< /l >}}
 

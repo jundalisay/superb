@@ -13,7 +13,7 @@ heading =  "Chapter 10b"
 
 The Chief of the Ki family was a wealthier man than the Duke of Chow had been, and yet Yen Yu gathered and hoarded for him, increasing his wealth more and more. 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 "He is no follower of mine. It would serve him right, my children, to sound the drum, and set upon him." 
 
 As for the characteristics of the four disciples=  
@@ -32,35 +32,34 @@ What are some marks of the naturally Good Man?
 {{< /r >}}
 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 He does not walk in others' footprints, yet he does not get beyond the hall into the house."
 {{< /l >}}
 
-<div class="left conf">
+
+{{< l a="Confucius" >}}
 A man's words have something genuine in them, are they necessarily those of a superior man? or words carrying only an outward semblance and show of gravity?" 
+{{< /l >}}
 
-Tsz-lu put a question about the practice of precepts one has heard. 
+Tsz-lu asked about the practice of precepts one has heard. 
 
-<div class="right tsz-lu">
+{{< r a="Tsz-lu" >}}
 In a case where there is a father or elder brother still left with you, how should you practise all you hear?" (Yen Yu also asked him this question to which he replied)
-</div> 
+{{< /r >}} 
 
-
-
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 "Yes, do so." 
 {{< /l >}}
 
 
-
-<div class="right kung-si">
+{{< r a="Kung-si" >}}
 Tsz-lu asked you, sir, about the practice of what one has learnt. You said that There may be a father or elder brother still alive. But when Yen Yu asked the same question, you answered, 'Yes, do so.' I am at a loss to understand you, and venture to ask what you meant." 
-</div>
+{{< /r >}}
 
-<div class="left conf">
+
+{{< l a="Confucius" >}}
 Yen Yu backs out of his duties; therefore I push him on. Tsz-lu has forwardness enough for them both; therefore I hold him back."
-</div>
-
+{{< /l >}}
 
 ---
 
@@ -72,7 +71,7 @@ Are Tsz-lu and Yen Yu "great ministers"?
 </div> 
 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 'Great ministers' are those who serve their prince conscientiously. They retire when they cannot do so. They may be called 'qualified ministers.' 
 {{< /l >}}
 
@@ -81,6 +80,6 @@ Are Tsz-lu and Yen Yu "great ministers"?
 Are they the kind that will follow their leader?
 </div>
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 They would not follow him who should slay his father and his prince!
 {{< /l >}}

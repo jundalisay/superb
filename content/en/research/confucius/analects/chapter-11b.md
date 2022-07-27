@@ -37,7 +37,7 @@ At a sudden thunder-clap, or when the wind grew furious, his look would also inv
 On getting into his car, he would never fail (first) to stand up erect, holding on by the strap. When in the car, he would never look about, nor speak hastily, nor bring one hand to the other. 
 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 Let one but make a movement in his face, And the bird will rise and seek some safer place. Here is a hen-pheasant from Shan Liang�and in season! and in season!" 
 {{< /l >}}
 

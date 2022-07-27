@@ -19,11 +19,11 @@ A man of the village of Tah-hiang exclaimed of him,
 
 The Master heard of this, and mentioning it to his disciples he said:
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 What then shall I take in hand? Shall I become a carriage driver, or an archer? Let me be a driver!
 {{< /l >}}
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 The sacrificial cap should, according to the Rules, be of linen. But these days, it is of pure silk. However, as it is economical, I do as all do. 
 
 The Rule says, 'Make your bow when at the lower end of the hall'; but nowadays the bowing is done at the upper part. This is great freedom. I go in opposition to the crowd, but I bow when at the lower end." 
@@ -38,13 +38,55 @@ The Master barred four words, he would have:
 
 Once, in the town of K'wang fearing that his life was going to be taken, he exclaimed:
 
+{{< l a="Confucius" >}}
 "King Wan is dead and gone; but is not 'wan' [21] with you here? 
 
 If Heaven be about to allow this 'wan' to perish, then they who survive its decease will get no benefit from it. But so long as Heaven does not allow it to perish, what can the men of K'wang do to me?" A high State official, after questioning Tsz-kung, said, "Your Master is a sage, then? How many and what varied abilities must be his!" 
+{{< /l >}}
 
-The disciple replied, "Certainly Heaven is allowing him full opportunities of becoming a sage, in addition to the fact that his abilities are many and varied." When the Master heard of this he remarked, "Does that high official know me? In my early years my position in life was low, and hence my ability in many ways, though exercised in trifling matters. In the gentleman is there indeed such variety of ability? No." From this, the disciple Lau used to say, "'Twas a saying of the Master=  'At a time when I was not called upon to use them, I acquired my proficiency in the polite arts.'" "Am I, indeed," said the Master, "possessed of knowledge? I know nothing. Let a vulgar fellow come to me with a question�a man with an emptyish head�I may thrash out with him the matter from end to end, and exhaust myself in doing it!" "Ah!" exclaimed he once, "the phoenix does not come! and no symbols issue from the river! May I not as well give up?"
 
-Whenever the Master met with a person in mourning, or with one in full-dress cap and kirtle, or with a blind person, although they might be young persons, he would make a point of rising on their appearance, or, if crossing their path, would do so with quickened step! Once Yen Yuen exclaimed with a sigh (with reference to the Master's doctrines), "If I look up to them, they are ever the higher; if I try to penetrate them, they are ever the harder; if I gaze at them as if before my eyes, lo, they are behind me!�Gradually and gently the Master with skill lures men on. By literary lore he gave me breadth; by the Rules of Propriety he narrowed me down. When I desire a respite, I find it impossible; and after I have exhausted my powers, there seems to be something standing straight up in front of me, and though I have the mind to make towards it I make no advance at all." Once when the Master was seriously ill, Tsz-lu induced the other disciples to feign they were high officials acting in his service. During a respite from his malady the Master exclaimed, "Ah! how long has Tsz-lu's conduct been false? Whom should I delude, if I were to pretend to have officials under me, having none? Should I deceive Heaven? Besides, were I to die, I would rather die in the hands of yourselves, my disciples, than in the hands of officials. And though I should fail to have a grand funeral over me, I should hardly be left on my death on the public highway, should I?" Tsz-kung once said to him, "Here is a fine gem. 
+{{< r a="Disciple" >}}
+Certainly Heaven is allowing him full opportunities of becoming a sage, in addition to the fact that his abilities are many and varied.
+{{< /r >}}
+
+
+{{< l a="Confucius" >}}
+Does that high official know me? 
+
+In my early years my position in life was low, and hence my ability in many ways, though exercised in trifling matters. 
+
+In the gentleman is there indeed such variety of ability? No." 
+{{< /l >}}
+
+
+From this, the disciple Lau used to say that the Master said: 
+
+
+{{< l a="Confucius" >}}
+At a time when I was not called upon to use them, I acquired my proficiency in the polite arts.
+{{< /l >}}
+
+
+{{< l a="Confucius" >}}
+Do I really have knowledge? I know nothing. 
+
+Let a vulgar fellow come to me with a question�a man with an emptyish head�I may thrash out with him the matter from end to end, and exhaust myself in doing it!" 
+{{< /l >}}
+
+
+{{< l a="Confucius" >}}
+"Ah! the phoenix does not come! and no symbols issue from the river! May I not as well give up?"
+{{< /l >}}
+
+
+Whenever the Master met with a person in mourning, or with one in full-dress cap and kirtle, or with a blind person, although they might be young persons, he would make a point of rising on their appearance, or, if crossing their path, would do so with quickened step! 
+
+
+Once, Yen Yuen exclaimed with a sigh (with reference to the Master's doctrines), 
+
+"If I look up to them, they are ever the higher; if I try to penetrate them, they are ever the harder; if I gaze at them as if before my eyes, lo, they are behind me! Gradually and gently the Master with skill lures men on. By literary lore he gave me breadth; by the Rules of Propriety he narrowed me down. When I desire a respite, I find it impossible; and after I have exhausted my powers, there seems to be something standing straight up in front of me, and though I have the mind to make towards it I make no advance at all." 
+
+Once when the Master was seriously ill, Tsz-lu induced the other disciples to feign they were high officials acting in his service. During a respite from his malady the Master exclaimed, "Ah! how long has Tsz-lu's conduct been false? Whom should I delude, if I were to pretend to have officials under me, having none? Should I deceive Heaven? Besides, were I to die, I would rather die in the hands of yourselves, my disciples, than in the hands of officials. And though I should fail to have a grand funeral over me, I should hardly be left on my death on the public highway, should I?" Tsz-kung once said to him, "Here is a fine gem. 
 
 Would you guard it carefully in a casket and store it away, or seek a good price for it and sell it?" "Sell it, indeed," said the Master�"that would I; but I should wait for the bidder." The Master protested he would "go and live among the nine wild tribes." "A rude life," said some one;�"how could you put up with it?" "What rudeness would there be," he replied, "if a 'superior man' was living in their midst?" Once he remarked, "After I came back from Wei to Lu the music was put right, and each of the Festal Odes and Hymns was given its appropriate place and use." "Ah! which one of these following," he asked on one occasion, "are to be found exemplified in me�proper service rendered to superiors when abroad; duty to father and elder brother when at home; duty that shrinks from no exertion when dear ones die; and keeping free from the confusing effects of wine?" Standing once on the bank of a mountain stream, he said (musingly), "Like this are those that pass away�no cessation, day or night!" Other sayings= � "Take an illustration from the making of a hill. A simple basketful is wanting to complete it, and the work stops. So I stop short. "Take an illustration from the levelling of the ground. Suppose again just one basketful is left, when the work has so progressed. There I desist! "Ah! it was Hw�i, was it not? who, when I had given him his lesson, was the unflagging one! "Alas for Hw�i! 
 

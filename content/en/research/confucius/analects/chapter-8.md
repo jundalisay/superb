@@ -11,7 +11,7 @@ heading=  "Chapter 8"
 +++ 
 
 
-{{< l a="conf" >}}
+{{< l a="Confucius" >}}
 T'ai-pih might be pronounced a man of the highest moral excellence, for he allowed the empire to pass by him onwards to a third heir.
 {{< /l >}}
 
