@@ -18,38 +18,40 @@ Those who disbelieve and repel from the path of Allah—He nullifies their works
 
 {{< s v="3" >}}  That is because those who disbelieve follow falsehoods, while those who believe follow
 the truth from their Lord. Allah thus cites for the people their examples.{{< s v="4" >}}  When you encounter those who disbelieve, strike at their necks. Then, when you have routed them, bind them firmly. Then, either release them by grace, or by ransom, until
-war lays down its burdens. Had Allah willed,
-He could have defeated them Himself, but He
-thus tests some of you by means of others. As for those who are killed in the way of Allah,
+war lays down its burdens. Had Allah willed, He could have defeated them Himself, but He
+thus tests some of you by means of others. 
 
-He will not let their deeds go to waste.
+As for those who are killed in the way of Allah, He will not let their deeds go to waste.
 
-{{< s v="5" >}}  He will guide them, and will improve their state of mind.
+{{< s v="5-6" >}} He will:
+- guide them
+- improve their state of mind.
+- admit them into Paradise, which He has identified for them.
 
-6. And will admit them into Paradise, which He has identified for them.
 
-7. If you support Allah, He will support you, and will strengthen your foothold.
+{{< s v="7" >}} If you support Allah, He will:
+- support you and
+- strengthen your foothold.
 
-8. But as for those who disbelieve, for them is
-perdition, and He will waste their deeds.{{< s v="9" >}}  That is because they hated what Allah re-
-vealed, so He nullified their deeds.{{< s v="10" >}}  Have they not journeyed through the earth
-and seen the consequences for those before them? Allah poured destruction upon them, and for the unbelievers is something comparable.
+{{< s v="8" >}} But the disbelievers will get perdition. He will waste their deeds.
+
+{{< s v="9" >}} They hated what Allah revealed, so He nullified their deeds.
+
+{{< s v="10" >}}  Have they not journeyed through the earth and seen the consequences for those before them? Allah poured destruction upon them, and for the unbelievers is something comparable.
 
 {{< s v="11" >}}  That is because Allah is the Master of those
 who believe, while the disbelievers have no
 master.
 
-12. Allah will admit those who believe and do
-good deeds into gardens beneath which riv-
-ers flow. As for those who disbelieve, they en-
-joy themselves, and eat as cattle eat, and the
-Fire will be their dwelling.
-13. How many a town was more powerful than
-your town which evicted you? We destroyed
+{{< s v="12" >}} Allah will admit those who believe and do good deeds into gardens beneath which riv-
+ers flow. As for those who disbelieve, they enjoy themselves, and eat as cattle eat, and the Fire will be their dwelling.
+
+{{< s v="13" >}} How many a town was more powerful than your town which evicted you? We destroyed
 them, and there was no helper for them.
-14. Is he who stands upon evidence from his
-Lord, like someone whose evil deed is made to appear good to him? And they follow their
+
+{{< s v="14" >}} Is he who stands upon evidence from his Lord, like someone whose evil deed is made to appear good to him? And they follow their
 own desires?
+
 
 15. The likeness of the Garden promised to the righteous: in it are rivers of pure water, and
 rivers of milk forever fresh, and rivers of wine delightful to the drinkers, and rivers of
@@ -135,6 +137,5 @@ expose your unwillingness.
 withhold; but whoever withholds is withholding against his own soul. Allah is the
 Rich, while you are the needy. 
 
-And if you turn away, He will replace you with another
-people, and they will not be like you.
+And if you turn away, He will replace you with another people, and they will not be like you.
 

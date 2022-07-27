@@ -28,9 +28,10 @@ Nan Yung used to repeat three times over the lines in the Odes about the white s
 
 Confucius caused his own elder brother's daughter to be given in marriage to him.
 
-<div class="right kikang">
-Ki K'ang=  which of the disciples were fond of learning?
-</div>
+
+{{< r a="Ki-Kang" >}}
+Which of the disciples were fond of learning?
+{{< /r >}}
 
 
 {{< l a="Confucius" >}}
@@ -49,63 +50,66 @@ On the death of Yen Yuen the Master exclaimed, "Ah me! Heaven is ruining me, Hea
 
 On the same occasion, his wailing for that disciple becoming excessive, those who were about him said, "Sir, this is too much!" 
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 Confucius=  "Too much? If I am not to do so for him, then for whom else?" 
-</div>
+{{< /l >}}
 
 The disciples then wished for the deceased a grand funeral. The Master could not on his part consent to this. They nevertheless gave him one. 
 
-Upon this he remarked= 
+Upon this he remarked:
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 He used to look upon me as if I were his father. I could never, however, look on him as a son. Twas not my mistake, but yours, my children.
-</div>
+{{< /l >}}
 
-+++
 
-<div class="right tsz-lu">
+---
+
+{{< r a="Tsz-Lu" >}}
 Where there is scarcely the ability to minister to living men, how shall there be ability to minister to the spirits?
-</div>
+{{< /r >}}
 
-<div class="left conf">
-Confucius=  Where there is scarcely any knowledge about life, how shall there be any about death?" 
-</div>
+{{< l a="Confucius" >}}
+Where there is scarcely any knowledge about life, how shall there be any about death?" 
+{{< /l >}}
 
 The disciple Min was by his side, looking affable and bland. Tsz-lu also, looking careless and intrepid; and Yen Yu and Tsz-kung, firm and precise. 
 
 The Master was cheery. 
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 One like Tsz-lu there does not come to a natural end.
-</div>
+{{< /l >}}
 
 Some persons in Lu were taking measures in regard to the Long Treasury House. Min Tsz-k'ien observed, "How if it were repaired on the old lines?" 
 
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 This fellow is not a talker, but when he does speak he is bound to hit the mark!" "There is Yu's harpsichord," "what is it doing at my door?" 
-</div>
+{{< /l >}}
 
 On seeing, however, some disrespect shown to him by the other disciples, he added, 
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 "Yu has got as far as the top of the hall; only he has not yet entered the house." 
-</div>
+{{< /l >}}
+
+
+
 
 <div class="right tsz-kung">
 Who is the worthier? Tsz-chang or Tsz-hi? 
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 Tsz-chang goes beyond the mark. Tsz-hi falls short of it. 
-</div>
+{{< /l >}}
 
 <div class="right tsz-kung">
 So then Tsz-chang is better?
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 To go too far is about the same as to fall short.
-</div>
+{{< /l >}}
 
-+++

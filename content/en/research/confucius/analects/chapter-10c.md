@@ -27,7 +27,7 @@ Tsz-lu, Tsang Sin, Yen Yu, and Kung-si Hwa were sitting near him. He said to the
 Though I may be a day older than you, do not (for the moment) regard me as such. While you are living this unoccupied life you are saying, 'We do not become known.' Now suppose some one got to know you, what then?"
 {{< /l >}}
 
-Tsz-lu was first to speak= 
+Tsz-lu was first to speak:
 
 <div class="right tsz-lu">
 Give me a State of large size and armament, hemmed in and hampered by other larger States, the population augmented by armies and regiments, causing a dearth in it of food of all kinds; give me charge of that State, and in three years' time I should make a brave country of it, and let it know its place.
@@ -73,32 +73,32 @@ The three other disciples having gone out, leaving Tsang Sin behind
 What think you of the answers of those three?" 
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 "Well, each told me what was uppermost in his mind," said the Master;"simply that." 
-</div>
+{{< /l >}}
 
 <div class="right tsang-sin">
 "Why did you smile at Tsz-lu, sir?" 
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 I smiled at him because to have the charge of a State requires due regard to the Rules of Propriety, and his words betrayed a lack of modesty." 
-</div>
+{{< /l >}}
 
 <div class="right tsang-sin">
 "But Yen, then he had a State in view, had he not?" 
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 "I should like to be shown a territory such as he described which does not amount to a State." 
-</div>
+{{< /l >}}
 
 <div class="right tsang-sin">
 "But had not Kung-si also a State in view?" 
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 What are ancestral temples and Grand Receptions, but for the feudal lords to take part in? If Kung-si were to become an unimportant assistant at these functions, who could become an important one?" 
-</div>
+{{< /l >}}
 
 [Footnote 26=  The men of virtuous life were Yen Yuen (Hw�i), Min Tsz-k'ien, Yen Pihniu, and Chung-kung (Yen Yung); the speakers and debaters were Tsai Wo and Tsz-kung; the (capable) government servants were Yen Yu and Tsz-lu; the literary students, Tsz-yu and Tsz-hi�.] 

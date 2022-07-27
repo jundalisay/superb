@@ -12,9 +12,9 @@ heading =  "Chapter 14"
 
 Yuen Sz=  What brings shame?
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 Confucius=  "Pay," said the Master; "pay ever looking to that, whether the country be well or badly governed."
-</div>
+{{< /l >}}
 
 When imperiousness, boastfulness, resentments, and covetousness cease to prevail among the people, may it be considered that mutual good-will has been effected?
 

@@ -10,8 +10,8 @@ linkf: /superphysics/principles/mind
 linkftext: Everything is a mind
 author: Juan
 icon: /icons/sp.png
-tags: ['hume', 'self']
-categories: ['asdf', 'nature']
+tags: ['David Hume', 'Self']
+categories: ['Superphysics']
 alises:
   /articles/superphysics/everything-is-an-idea/
 comments:

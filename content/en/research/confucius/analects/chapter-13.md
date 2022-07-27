@@ -11,19 +11,32 @@ heading =  "Chapter 13"
 
 Tsz-lu was asking about government.
 
-<div class="left conf">
-Confucius=  Lead the way in it, work hard at it, and do not tire of it..
-</div>
+{{< l a="Confucius" >}}
+Lead the way in it, work hard at it, and do not tire of it..
+{{< /l >}}
+
 
 Chung-kung, on being made first minister to the Chief of the Ki family, consulted the Master about government.
 
-Confucius to Chung-kung=  Let the heads of offices be heads. Excuse small faults. Promote men of sagacity and talent.
+Confucius to Chung-kung:
 
-"But," he asked, "how am I to know the sagacious and talented, before promoting them?" "Promote those whom you do know," said the Master. 
+{{< l a="Confucius" >}}
+Let the heads of offices be heads. Excuse small faults. Promote men of sagacity and talent.
+{{< /l >}}
+
+
+"But," he asked, "how am I to know the sagacious and talented, before promoting them?" 
+
+{{< l a="Confucius" >}}
+"Promote those whom you do know"
+{{< /l >}}
+
 
 "As to those of whom you are uncertain, will others omit to notice them?" Tsz-lu said to the Master, "As the prince of Wei, sir, has been waiting for you to act for him in his government, what is it your intention to take in hand first?" 
 
-"One thing of necessity," he answered�"the rectification of terms." "That!" exclaimed Tsz-lu. "How far away you are, sir! Why such rectification?" "What a rustic you are, Tsz-lu!" rejoined the Master. 
+"One thing of necessity," he answered�"the rectification of terms." "That!" exclaimed Tsz-lu. "How far away you are, sir! Why such rectification?" 
+
+"What a rustic you are, Tsz-lu!" rejoined the Master. 
 
 "A gentleman would be a little reserved and reticent in matters which he does not understand. If terms be incorrect, language will be incongruous; and if language be incongruous, deeds will be imperfect. So, again, when deeds are imperfect, propriety and harmony cannot prevail, and when this is the case laws relating to crime will fail in their aim; and if these last so fail, the people will not know where to set hand or foot. 
 

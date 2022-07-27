@@ -6936,7 +6936,7 @@ body {
   background-color: powderblue;
   background-image: url(/avatars/ava4.jpg); }
 
-.kin, .Tsz-Kin {
+.kin, .Tsz-Kin, .Lin-fang {
   background-color: lightgray;
   background-image: url(/avatars/g00.png); }
 
@@ -6944,7 +6944,7 @@ body {
   background-color: bisque;
   background-image: url(/avatars/ava3.jpg); }
 
-.yu, .Scholar-Yu {
+.yu, .Scholar-Yu, .Yen-Yu {
   background-color: lightsteelblue;
   background-image: url(/avatars/ava1.jpg); }
 

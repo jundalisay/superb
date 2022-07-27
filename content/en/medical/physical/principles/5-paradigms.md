@@ -1,12 +1,13 @@
 ---
 heading: "Western Medicine, Naturopathy, Ayurveda, TCM, Homeopathy"
 title: "The 5 Medical Paradigms"
+linkTitle: "Five Paradigms"
 description: "Medical Superphysics uses 5 medical paradigms which are aligned with the 5 layers of Superphysics"
 date: "2020-01-01"
+image: "/photos/balancerock.jpg"
 author: "Juan"
-linkTitle: "Five Paradigms"
-banner: "/photos/balancerock.jpg"
-categories: "Medical Superphysics"
+categories: ["Medical Superphysics"]
+tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 linkb: "/medical/physical/principles/viruses-are-ideas"
 linkbtext: "viruses-are-ideas"
 linkf: "/medical/mental/principles/idea-of-self"
@@ -14,7 +15,7 @@ linkftext: "3 billion yous"
 icon: "/icons/spmed.png"
 aliases:
   /medical/diseases-have-been-cured
-  medical/five-medical-paradigms/
+  /medical/five-medical-paradigms/
 comments:
   - img: "/avatars/huong.jpg"
     content: "Can you suggest a good TCM or Ayurveda practitioner?"

@@ -9,9 +9,9 @@ linkftext=  "Chapter 19"
 heading=  "Chapter 18"
 +++
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 Confucius=  In the reign of the last king of the Yin dynasty, there were three men of philanthropic spirit=  the viscount of Wei, who withdrew from him; the viscount of Ki, who became his bondsman; and Pi-kan, who reproved him and suffered death."
-</div>
+{{< /l >}}
 
 Hwi of Liu-hi was the Chief Criminal Judge and was thrice dismissed. 
 
@@ -19,9 +19,9 @@ A person remarked to him, "Can you not yet bear to withdraw?" He replied, "If I 
 
 Ki Hwan accepted them, and for three days no Court was held. Confucius went away. Tsieh-yu, the madman [33] of Ts'u, was once passing Confucius, singing as he went along. He sang� "Ha, the phoenix! Ha, the phoenix! How is Virtue lying prone! Vain to chide for what is o'er, Plan to meet what's yet in store. 
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 Let alone! Let alone! Risky now to serve a throne." 
-</div>
+{{< /l >}}
 
 Confucius alighted, wishing to enter into conversation with him; but the man hurried along and left him, and he was therefore unable to get a word with him. 
 
@@ -41,13 +41,15 @@ But by the time he got there he was gone. Tsz-lu remarked upon this, "It is not 
 
 Among those who have retired from public life have been Peh-I and Shuh-Ts'i, Yu-chung, I-yih, Chu-chang, Hw�i of Liuhia, and Sh�u-lien. 
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 "Of these, Peh-I and Shuh-Ts'i are men who never declined from their high resolve nor soiled themselves by aught of disgrace.
 
 "Of Hwi of Liu-hi and Shu-lien, if one may say that they did decline from high resolve, and that they did bring disgrace upon themselves, yet their words were consonant with established principles, and their action consonant with men's thoughts and wishes; and this is all that may be said of them. "Of Yu-chung and I-yih, if it be said that when they retired into privacy they let loose their tongues, yet in their aim at personal purity of life they succeeded, and their defection was also successful in its influence. 
 
 "My own rule is different from any adopted by these=  I will take no liberties, I will have no curtailing of my liberty." 
-</div>
+{{< /l >}}
+
+
 
 The chief music-master went off to Ts'i. Kan, the conductor of the music at the second repast, went over to Ts'u. Li�u, conductor at the third repast, went over to Ts'ai. 
 

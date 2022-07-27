@@ -13,19 +13,19 @@ heading =  "Chapter 12"
 Yen Yuen=  What is man's proper regard for his fellow-man?
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 Confucius=  Self-control, and a habit of falling back upon propriety, virtually effect it.
 
 Let these conditions be fulfilled for one day, and every one round will betake himself to the duty. Is it to begin in one's self, or think you, indeed! it is to begin in others?
-</div>
+{{< /l >}}
 
 <div class="right yen-yu">
 Yen Yuen=  Please give me a brief synopsis of it.
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 Without Propriety use not your eyes, ears, tongue, nor any limb of your body.
-</div>
+{{< /l >}}
 
 <div class="right yen-yu">
 I may be lacking in diligence. But with your favor I will endeavor to carry out this advice.
@@ -35,22 +35,42 @@ I may be lacking in diligence. But with your favor I will endeavor to carry out 
 Chung-kung=  How should men regard his fellow-man?
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 When you go forth from your door, be as if you were meeting some guest of importance. When you are making use of the common people (for State purposes), be as if you were taking part in a great religious function. Do not set before others what you do not desire yourself. Let there be no resentful feelings against you when you are away in the country, and none when at home." 
-</div>
+{{< /l >}}
 
 <div class="right sz-maniu">
 Sz-ma Niu=  How can we do this?
 </div>
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 The words of the man who has a proper regard for his fellows are uttered with difficulty." 
 
 <!-- "'His words�uttered with difficulty?'" he echoed, in surprise. "Is that what is meant by proper regard for one's fellow-creatures?"  -->
 
-"Where there is difficulty in doing, will there not be some difficulty in utterance?" The same disciple put a question about the "superior man." "Superior men," he replied, "are free from trouble and apprehension." "'Free from trouble and apprehension!'" said he. 
+"Where there is difficulty in doing, will there not be some difficulty in utterance?" 
+{{< /l >}}
 
-"Does that make them 'superior men'?" The Master added, "Where there is found, upon introspection, to be no chronic disease, how shall there be any trouble? how shall there be any apprehension?" The same disciple, being in trouble, remarked, "I am alone in having no brother, while all else have theirs�younger or elder." Tsz-hi� said to him, "I have heard this=  'Death and life have destined times; wealth and honors rest with Heaven. Let the superior man keep watch over himself without ceasing, showing deference to others, with propriety of manners�and all within the four seas will be his brethren. How should he be distressed for lack of brothers!'" [29] Tsz-chang asked what sort of man might be termed "enlightened." The Master replied, "That man with whom drenching slander and cutting calumny gain no currency may well be called enlightened. Ay, he with whom such things make no way may well be called enlightened in the extreme." Tsz-kung put a question relative to government. In reply the Master mentioned three essentials= �sufficient food, sufficient armament, and the people's confidence. "But," said the disciple, "if you cannot really have all three, and one has to be given up, which would you give up first?" "The armament," he replied. "And if you are obliged to give up one of the remaining two, which would it be?" "The food," said he. "Death has been the portion of all men from of old. Without the people's trust nothing can stand." Kih Tsz-shing once said, "Give me the inborn qualities of a gentleman, and I want no more. How are such to come from book-learning?" Tsz-kung exclaimed, "Ah! sir, I regret to hear such words from you. A gentleman!�But 'a team of four can ne'er o'er-take the tongue!' Literary accomplishments are much the same as inborn qualities, and inborn qualities as literary accomplishments. A tiger's or leopard's skin without the hair might be a dog's or sheep's when so made bare." Duke Ngai was consulting Yu Joh. 
+The same disciple put a question about the "superior man." 
+
+{{< l a="Confucius" >}}
+"Superior men are free from trouble and apprehension." 
+{{< /l >}}
+
+
+"Does that make them 'superior men'?" 
+
+{{< l a="Confucius" >}}
+"Where there is found, upon introspection, to be no chronic disease, how shall there be any trouble? how shall there be any apprehension?" 
+{{< /l  >}}
+
+The same disciple, being in trouble, remarked, "I am alone in having no brother, while all else have theirs�younger or elder." 
+
+Tsz-hi� said to him, "I have heard this=  'Death and life have destined times; wealth and honors rest with Heaven. Let the superior man keep watch over himself without ceasing, showing deference to others, with propriety of manners�and all within the four seas will be his brethren. How should he be distressed for lack of brothers!'" [29] 
+
+Tsz-chang asked what sort of man might be termed "enlightened." The Master replied, "That man with whom drenching slander and cutting calumny gain no currency may well be called enlightened. Ay, he with whom such things make no way may well be called enlightened in the extreme." Tsz-kung put a question relative to government. In reply the Master mentioned three essentials= �sufficient food, sufficient armament, and the people's confidence. "But," said the disciple, "if you cannot really have all three, and one has to be given up, which would you give up first?" "The armament," he replied. "And if you are obliged to give up one of the remaining two, which would it be?" 
+
+"The food," said he. "Death has been the portion of all men from of old. Without the people's trust nothing can stand." Kih Tsz-shing once said, "Give me the inborn qualities of a gentleman, and I want no more. How are such to come from book-learning?" Tsz-kung exclaimed, "Ah! sir, I regret to hear such words from you. A gentleman!�But 'a team of four can ne'er o'er-take the tongue!' Literary accomplishments are much the same as inborn qualities, and inborn qualities as literary accomplishments. A tiger's or leopard's skin without the hair might be a dog's or sheep's when so made bare." Duke Ngai was consulting Yu Joh. 
 
 
 Said he, "It is a year of dearth, and there is an insufficiency for Ways and Means�what am I to do?" "Why not apply the Tithing Statute?" said the minister. "But two tithings would not be enough for my purposes," said the duke; "what would be the good of applying the Statute?" The minister replied, "So long as the people have enough left for themselves, who of them will allow their prince to be without enough? But�when the people have not enough, who will allow their prince all that he wants?" Tsz-chang was asking how the standard of virtue was to be raised, and how to discern what was illusory or misleading. The Master's answer was, "Give a foremost place to honesty and faithfulness, and tread the path of righteousness, and you will raise the standard of virtue. As to discerning what is illusory, here is an example of an illusion= �Whom you love you wish to live; whom you hate you wish to die. To have wished the same person to live and also to be dead�there is an illusion for you." Duke King of Ts'i consulted Confucius about government. His answer was, "Let a prince be a prince, and ministers be ministers; let fathers be fathers, and sons be sons." "Good!" exclaimed the duke; "truly if a prince fail to be a prince, and ministers to be ministers, and if fathers be not fathers, and sons not sons, then, even though I may have my allowance of grain, should I ever be able to relish it?" "The man to decide a cause with half a word," exclaimed the Master, "is Tsz-lu!" Tsz-lu never let a night pass between promise and performance. "In hearing causes, I am like other men," said the Master. "The great point is�to prevent litigation." Tsz-chang having raised some question about government, the Master said to him, "In the settlement of its principles be unwearied; in its administration�see to that loyally." 

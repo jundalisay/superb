@@ -11,17 +11,18 @@ heading =  "Chapter 15"
 
 Duke Ling of Wei was consulting Confucius about army arrangements.
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 Had you asked me about such things as temple requisites, I have learnt that business, but I have not yet studied military matters.
-</div>
+{{< /l >}}
 
 He followed up this reply by leaving on the following day.
 
 After this, during his residence in the State of Ch'in, his followers, owing to a stoppage of food supply, became so weak and ill that not one of them could stand. Tsz-lu, with indignation pictured on his countenance, exclaimed, "And is a gentleman to suffer starvation?" "A gentleman," replied the Master, "will endure it unmoved, but a common person breaks out into excesses under it." Addressing Tsz-kung, the Master said, 
 
-<div class="left conf">
+{{< l a="Confucius" >}}
 "You regard me as one who studies and stores up in his mind a multiplicity of things�do you not?"
-</div>
+{{< /l >}}
+
 
 "I do," he replied; "is it not so?"
 

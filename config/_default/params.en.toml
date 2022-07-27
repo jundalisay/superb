@@ -75,6 +75,9 @@ contact_form =  "https://hub.pantrypoints.com/api/email"
     url = "https://foodrescueph.site"
     img = "/banners/fri.jpg"
 
+[spon.c]
+    url = "https://elivirs.com"
+    img = "/banners/elivirs.jpg"
 
 ########## Design
 

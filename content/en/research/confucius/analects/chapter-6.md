@@ -25,10 +25,9 @@ You are right," said the Master.
 
 The Duke of Ngai asked which of the disciples were devoted to learning, Confucius answered= 
 
-<div class="left conf">
+{{< l a="Confucius" >}}
  "There was one Yen Hwi who loved it a man whose angry feelings towards any particular person he did not suffer to visit upon another; a man who would never fall into the same error twice. Unfortunately his allotted time was short, and he died, and now his like is not to be found; I have never heard of one so devoted to learning." 
-</div>
-
+{{< /l >}}
 
 
 While Tsz-hwa, a disciple, was away on a mission to Ts'i, the disciple Yen Yu, on behalf of his mother, applied for some grain. 
