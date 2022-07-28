@@ -27,18 +27,18 @@ Slowly, the anarchy finds a way into private houses. <!-- It ends by getting amo
 
 The foreigner is equal with the citizen and the citizen with the foreigner. There are several other lesser evils:
 <!-- The stranger is quite as good as either. -->
-<ul>
-  <li>The teacher fears and flatters his students, and the students despise their teachers and tutors.</li>
-  <li>The young man is on a level with the old, and is ready to compete with him in word or deed.</li>
-  <li>Old men condescend to the young. They adopt the manners of the young and become full of pleasantry and gaiety in order to avoid being thought of as morose and authoritative.</li>
-</ul>
+
+- The teacher fears and flatters his students, and the students despise their teachers and tutors.
+- The young man is on a level with the old, and is ready to compete with him in word or deed.
+- Old men condescend to the young. They adopt the manners of the young and become full of pleasantry and gaiety in order to avoid being thought of as morose and authoritative.
+
 
 
 The last extreme of popular liberty is when:
-<ul>
-  <li>the slave is just as free as his or her owner, and</li>
-  <li>there is liberty and equality of male and female.</li>
-</ul>
+
+- the slave is just as free as his or her owner, and
+- there is liberty and equality of male and female.
+
 
 Domesticated animals have the most liberty in a democracy than in any other State. The horses and asses march with all the rights and dignities of freemen.
 They will run at anybody who comes in their way. All things are just ready to burst with liberty.
@@ -82,10 +82,10 @@ Let us imagine democracy being divided into three classes.
 1. The Ruling Drones [poor people]
 
 Freedom creates more drones in the democratic than in the oligarchical State. 
-<ul>
-  <li>In the oligarchical State, they are disqualified and driven from office. They cannot train or gather strength.</li>
-  <li>In a democracy, the drones are almost the entire ruling power. The keener sort speak and act, while the rest keep buzzing about.<!--  the bema and do not say a word onto the other side. Hence in democracies, almost everything is managed by the drones. --></li>
-</ul>
+
+- In the oligarchical State, they are disqualified and driven from office. They cannot train or gather strength.
+- In a democracy, the drones are almost the entire ruling power. The keener sort speak and act, while the rest keep buzzing about.<!--  the bema and do not say a word onto the other side. Hence in democracies, almost everything is managed by the drones. -->
+
 
 
 2. The Wealthy class
@@ -105,10 +105,10 @@ True, but then the multitude is seldom willing to congregate unless they get a l
 <!-- And then, although the wealthy may have no desire of change, the others --> 
 {{< l a="Socrates" >}}
 They do not share. Their leaders deprive the rich of their estates and distribute them among the people and reserve the larger part for themselves. The wealthy are compelled to defend themselves against the people as they best can. Some drones charge them with plotting against the people and being friends of oligarchy. In the end, they are forced to become real oligarchs when:
-<ul>
-  <li>they see the people through ignorance, not of their own accord, and</li>
-  <li>they are deceived by informers, seeking to do them wrong.</li>
-</ul>
+
+- they see the people through ignorance, not of their own accord, and
+- they are deceived by informers, seeking to do them wrong.
+
 
 They do not wish to be oligarchs. But the sting of the drones torments them and breeds revolution in them.
 {{< /l >}}
@@ -161,11 +161,11 @@ Yes, Euripides also praises tyranny as godlike. Many other things of the same ki
 The tragic poets are wise men who will forgive us if we do not receive them into our State, because they are the eulogists of tyranny.
 
 But they will continue to go to other cities to:
-<ul>
-  <li>attract mobs,</li>
-  <li>hire fair, loud, and persuasive voices, and</li>
-  <li>draw the cities over to tyrannies and democracies.</li>
-</ul>
+
+- attract mobs,
+- hire fair, loud, and persuasive voices, and
+- draw the cities over to tyrannies and democracies.
+
 
 Tyrants pay the most for such poets and give them the most honour. Democracies pay them a bit less. But the higher those poets ascend our constitution hill, the more their reputation fails. From shortness of breath, they are unable to proceed further. How will the tyrant maintain his numerous ever-changing army?
 {{< /l >}}

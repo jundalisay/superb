@@ -29,10 +29,10 @@ Shall we let him off, or what shall we do?
 
 {{< r a="Adeimantus" >}}
 Adeimantus (raising his voice)= Certainly not, Socrates should not be let off. We think that you are lazy and mean to cheat us out of a whole chapter which is a very important part of the story. You think that we do not notice your airy way of proceeding, as if it were obvious to all how women and children 'friends have all things in common.' But what is right in this case needs to be explained. There are many kinds of community. So please say what sort of community you mean. We have been long expecting you to tell us about the family life of your citizens.
-<ul>
+
   How they will raise children?
   What is the nature of this community of women and children?
-</ul>
+
 
 We think that the right or wrong management of such matters will have a paramount influence on the State. The question is still unanswered, but you are already changing the topic.<!--  We have resolved not to let you go until you give an account of all this. -->
 {{< /r >}}

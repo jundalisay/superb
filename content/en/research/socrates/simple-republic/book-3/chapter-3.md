@@ -13,6 +13,7 @@ icon= "/icons/soc.png"
 # linkbooktext= Support Superphysics by buying the ebook version
 +++
 
+
 ## Food and Medicine are Connected
 
 {{< r a="Glaucon" >}}
@@ -22,33 +23,33 @@ What about their food?
 
 {{< l a="Socrates" >}}
 The men are training for the great contest of all. I am afraid that their bodily habits are rather perilous to health. These athletes:
-<ul>
-  <li>sleep away their lives, and</li>
-  <li>are liable to the most dangerous illnesses if they depart from their customary regimen.</li>
-</ul>
+- sleep away their lives, and
+- are liable to the most dangerous illnesses if they depart from their customary regimen.
+
 
 A finer sort of training will be required for our warrior athletes, who are:
-<ul>
-  <li>to be like wakeful dogs, and</li>
-  <li>to see and hear with the utmost keenness amid the many changes of water and food, of summer heat and winter cold, which they will have to endure when on a campaign.</li>
-</ul>
+- to be like wakeful dogs, and
+- to see and hear with the utmost keenness amid the many changes of water and food, of summer heat and winter cold, which they will have to endure when on a campaign.
 {{< /l >}}
 
 
+## No to Sugar (Sweets)
 
 {{< l a="Socrates" >}}
-They must not be liable to break down in health. Excellent gymnastic is the twin sister of that simple music which we were just now describing. I am thinking of a military gymnastic which, like our music, is simple and good. Homer feeds his heroes at their feasts on soldiers' fare, when they are campaigning.
+They must not be liable to break down in health. Excellent gymnastic is the twin sister of that simple music which we were just now describing. I am thinking of a military gymnastic which, like our music, is simple and good. 
 
-They have no fish even if they are on the shores of the Hellespont. They are only allowed to roast meats but not boil them. Roasted meat is the most convenient food for soldiers. They only need to light a fire without carrying pots and pans. 
+Homer feeds his heroes at their feasts on soldiers' fare, when they are campaigning.
+- They have no fish even if they are on the shores of the Hellespont. 
+- They are only allowed to roast meats but not boil them. 
+  - Roasted meat is the most convenient food for soldiers. 
+  - They only need to light a fire without carrying pots and pans. 
+- They do not use sweet sauces. 
 
-They do not use sweet sauces. All professional athletes know that men in good condition should take no sweets. I will not approve of:
-<ul>
-  <li>Syracusan dinners,</li>
-  <li>Athenian confectionary,</li>
-  <li>the refinements of Sicilian cookery, or</li>
-  <li>a man having a Corinthian girl as his fair friend.</li>
-</ul>
-
+All professional athletes know that men in good condition should take no sweets. I will not approve of:
+- Syracusan dinners,
+- Athenian confectionary,
+- the refinements of Sicilian cookery, or
+- a man having a Corinthian girl as his fair friend.
 {{< /l >}}
 
 
@@ -58,39 +59,33 @@ All such feeding and living may be rightly compared to melody composed in the pa
 But when intemperance and diseases multiply in a State, halls of justice and medicine are always being opened. The arts of the doctor and the lawyer give themselves airs. They find the interest of the slaves and freemen in them.
 
 The greatest proof of a bad education is when:
-<ul>
-  <li>the artisans and the meaner sort of people need the skill of first-rate physicians and judges, and</li>
-  <li>those physicians and judges have had a liberal education.</li>
-</ul>
-
+- the artisans and the meaner sort of people need the skill of first-rate physicians and judges, and
+- those physicians and judges have had a liberal education.
 {{< /l >}}
-
-
 
 {{< l a="Socrates" >}}
 It is disgraceful and a lack of good-breeding, that:
-<ul>
-  <li>a man should have to go abroad for his law and physic because he has none of his own at home.</li>
-  <li>he must surrender himself into the hands of other men whom he makes lords and judges over him.</li>
-</ul>
+- a man should have to go abroad for his law and physic because he has none of his own at home.
+- he must surrender himself into the hands of other men whom he makes lords and judges over him.
 
-There is a further stage of the evil in which a man is a life-long litigant. He spends all his days in the courts, either as plaintiff or defendant. His bad taste prides himself on his litigiousness. He imagines that he is a master in dishonesty, able to take every crooked turn and wriggle in and out of every hole, bending like a twig and getting out of the way of justice. He does this to gain small points not worth mentioning. <!-- He does not know that it is far higher and nobler to order his life without a napping judge. -->
+There is a further stage of the evil in which a man is a life-long litigant.
+- He spends all his days in the courts, either as plaintiff or defendant.
+- His bad taste prides himself on his litigiousness.
+- He imagines that he is a master in dishonesty, able to take every crooked turn and wriggle in and out of every hole, bending like a twig and getting out of the way of justice. 
+- He does this to gain small points not worth mentioning. <!-- He does not know that it is far higher and nobler to order his life without a napping judge. -->
 
 It is also a disgrace for people to require medicine to cure a disease caused by indolence and bad habits. They compel the ingenious sons of Asclepius to find more names for diseases, such as flatulence and catarrh. 
 {{< /l >}}
 
 
-
 {{< l a="Socrates" >}}
 I do not believe that there were such diseases in the days of Asclepius. I think those diseases came when the hero Eurypylus, after being wounded in Homer, drinks Pramnian wine sprinkled with barley-meal and grated cheese, which are certainly inflammatory. Yet the sons of Asclepius who were at the Trojan war do not:
-<!-- <ul>
-  <li> , not when a wound has to be cured or during an epidemic.</li>
-  <li>fill themselves with waters and winds as if their bodies were a marsh.</li>
-</ul> -->
-<ul>
-  <li>blame the damsel who gives him the drink, nor</li>
-  <li>rebuke Patroclus, who is treating his case.</li>
-</ul>
+<!-- 
+-  , not when a wound has to be cured or during an epidemic.
+- fill themselves with waters and winds as if their bodies were a marsh.
+ -->
+- blame the damsel who gives him the drink, nor
+- rebuke Patroclus, who is treating his case.
 
 Our present system of medicine educates on diseases. Before the time of Herodicus, the guild of Asclepius did not practise our medicine. But Herodicus was a sickly trainer. Through training and doctoring, he found out a way to torture himself first and then the rest of the world.
 {{< /l >}}
@@ -102,7 +97,10 @@ He invented the lingering death. He had a mortal disease which he perpetually te
 <!-- He could do nothing but attend on himself. -->
 
 In well-ordered states, every individual has an occupation. Not having an occupation causes people to be indolent and sick. This sickness then has to be cured by medicine, such as the sickly arts taught by Asclepius.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Laziness applies to artisans. But, ludicrously enough, it does not apply the same rule to rich people.
 
 When a carpenter is ill, he asks the physician for a rough and ready cure. His remedies are an emetic, a purge, a cautery, or the knife. If someone prescribes a diet and tells him that he must swaddle his head, he replies that he has no time to be sick and that he sees no good in a life spent in nursing his disease to the neglect of his employment.
@@ -168,10 +166,8 @@ Those sons of Asclepius were very acute.
 
 {{< l a="Socrates" >}}
 Nevertheless, the tragedians and Pindar disobeyed our behests. They say that Asclepius was:
-<ul>
-  <li>the son of Apollo,</li>
-  <li>bribed into healing a rich man who was at the point of death which was why he was struck by lightning.</li>
-</ul>
+- the son of Apollo,
+- bribed into healing a rich man who was at the point of death which was why he was struck by lightning.
 
 But we will not believe them. If he were the son of a god, then he was not avaricious. If he were avaricious, then he was not the son of a god.
 {{< /l >}}

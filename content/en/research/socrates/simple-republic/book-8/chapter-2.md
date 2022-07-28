@@ -84,11 +84,11 @@ He and all that he has is lost.
 He may have been a general or high official who is brought to -->
 
 The oligarchical youth is avaricious. The oligarchs and the oligarchy resemble each other= <!-- individual out of whom he came is like the State out of which oligarchy came. -->
-<ul>
-  <li>in the value that they set on wealth,</li>
-  <li>in their stingy, laborious character,</li>
-  <li>in only satisfying his necessary appetites.</li>
-</ul>
+
+- in the value that they set on wealth,
+- in their stingy, laborious character,
+- in only satisfying his necessary appetites.
+
 
 He subdues his other desires thinking that they are unprofitable. Money is highly valued by him as well as by the State. He is not a man of cultivation and so he develops the dronelike desires of the pauper and rogue through his general habit.
 

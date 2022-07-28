@@ -19,12 +19,10 @@ The same principle holds in the sciences. The object of science is knowledge. Bu
 The science of house-building is a kind of knowledge different from other kinds. It is therefore called "architecture" because it has a particular quality which no other has. It has this particular quality because it has a particular object. This is true of the other arts and sciences.
 
 Regarding relatives, if one word of a relation is taken alone, then the other is taken alone. If one term is qualified, the other is also qualified. But I do not mean to say:
-<ul>
-  <li>that relatives may not be disparate, or</li>
-  <li>that the science of health is healthy, or</li>
-  <li>that the science of disease is necessarily diseased, or</li>
-  <li>that the sciences of good and evil are therefore good and evil</li>
-</ul>
+- that relatives may not be disparate, or
+- that the science of health is healthy, or
+- that the science of disease is necessarily diseased, or
+- that the sciences of good and evil are therefore good and evil
 {{< /l >}}
 
 
@@ -70,10 +68,10 @@ So in our State, the auxiliaries are the dogs and the rulers are their shepherds
 Passion or spirit appeared initially to be a kind of desire. But now they are quite the contrary.
 
 In the conflict of the soul, spirit is on the side of the rational principle. Does it mean that passion is different from reason? This is consistent with:
-<ul>
-  <li>our State being composed of three classes= traders, auxiliaries, counsellors.</li>
-  <li>being different from desire and reason.</li>
-</ul>
+
+- our State being composed of three classes= traders, auxiliaries, counsellors.
+- being different from desire and reason.
+
 
 Or is passion a kind of reason? In this case, the soul will have two principles, the rational and the lustful, instead of three.
 <!-- This would mean that in a soul, there is not a third element of passion or spirit. -->
@@ -96,10 +94,10 @@ Excellent. Passion is equally seen in animals. Homer writes:
 
 {{< l a="Socrates" >}}
 Homer clearly shows that reason is different from the unreasoning anger which is rebuked by it. And so, we have agreed that:
-<ul>
-  <li>the same virtues which exist in the State exist also in the individual, and</li>
-  <li>that they are three in number= wisdom, courage, temperance.</li>
-</ul>
+
+- the same virtues which exist in the State exist also in the individual, and
+- that they are three in number= wisdom, courage, temperance.
+
 
 We must infer that the individual and State is wise in the same way.
 {{< /l >}}
@@ -117,10 +115,10 @@ The rational principle is wisdom.
 
 {{< l a="Socrates" >}}
 It has the care of the whole soul. It should rule. The passionate or spirited principle is its subject and ally. The united influence of music and gymnastics will bring reason and passion into accord by:
-<ul>
-  <li>nerving and sustaining the reason with noble words and lessons,</li>
-  <li>moderating and soothing and civilizing the wildness of passion by harmony and rhythm.</li>
-</ul>
+
+- nerving and sustaining the reason with noble words and lessons,
+- moderating and soothing and civilizing the wildness of passion by harmony and rhythm.
+
 
 When reason and passion are nurtured, educated, and have truly learned their own functions, will rule over the concupiscent. In each of us, this is the largest part of the soul and by nature most insatiable of gain. 
 
@@ -139,11 +137,11 @@ Is justice dimmer and different in the individual than in the State?
 
 {{< r a="Glaucon" >}}
 A few common instances shows that they are different. A just state:
-<ul>
-  <li>avoids stealing money in the same way that a just man does</li>
-  <li>avoids treachery to other states in the same way that a just citizen avoids it to his friends</li>
-  <li>never breaks faith in oaths or agreements in the same way that a just citizen keeps his oaths.</li>
-</ul>
+
+- avoids stealing money in the same way that a just man does
+- avoids treachery to other states in the same way that a just citizen avoids it to his friends
+- never breaks faith in oaths or agreements in the same way that a just citizen keeps his oaths.
+
 {{< /r >}}
 
 
@@ -152,19 +150,17 @@ Then our dream has been realized. In the beginning, we suspected that some divin
 
 The division of labour which required the carpenter, the shoemaker, and the rest of the citizens to be doing each his own business, and not another's, was a shadow of justice. But in reality, justice was concerned not with the outward man, but with the inward or the true self. [svadharma]
 
-<b>The just man does not permit the several elements within him to interfere with one another, or any of them to do the work of others. He sets his own inner life in order. He masters himself with his own law, to be at peace with himself.</b>
+**The just man does not permit the several elements within him to interfere with one another, or any of them to do the work of others. He sets his own inner life in order. He masters himself with his own law, to be at peace with himself.**
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
 The three principles of animal-desire, passion, and reason may be compared to the higher, lower, and middle notes of the scale and the intermediate intervals. When he has bound together these notes and intervals, they are no longer many. They become one, entirely temperate and perfectly adjusted nature.
 
-He then proceeds to act in law, medicine, politics or private business. He calls= <!-- that which preserves and co-operates with this harmonious condition as= -->
-<ul>
-  <li>"just and good action" if they are from knowledge and wisdom</li>
-  <li>"unjust action" if they impair this knowledge and wisdom</li>
-  <li>"ignorance" the opinion which presides over the unjust action.</li>
-</ul>
+He then proceeds to act in law, medicine, politics or private business. He calls: <!-- that which preserves and co-operates with this harmonious condition as= -->
+- "just and good action" if they are from knowledge and wisdom
+- "unjust action" if they impair this knowledge and wisdom
+- "ignorance" the opinion which presides over the unjust action.
 {{< /l >}}
 
 
@@ -178,26 +174,22 @@ Injustice is a strife between the three principles which leads to the vices of i
 <!-- If the nature of justice and injustice are known, then the meaning of acting unjustly and being unjust will also be perfectly clear. -->
 
 Justice and injustice are like health and disease. These lie in the soul just as health and disease lie in the body.
-<ul>
-  <li>Healthy things cause health.</li>
-  <li>Unhealthy things cause disease.</li>
-  <li>Just actions cause justice.</li>
-  <li>Unjust actions cause injustice.</li>
-  <li>The creation of health is the institution of a natural order of one by another in the parts of the body.</li>
-  <li>The creation of disease is the production of a state of things at variance with this natural order.</li>
-  <li>The creation of justice is the institution of a natural order and government of one by another in the parts of the soul.</li>
-</ul>
+- Healthy things cause health.
+- Unhealthy things cause disease.
+- Just actions cause justice.
+- Unjust actions cause injustice.
+- The creation of health is the institution of a natural order of one by another in the parts of the body.
+- The creation of disease is the production of a state of things at variance with this natural order.
+- The creation of justice is the institution of a natural order and government of one by another in the parts of the soul.
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
 When things go against the natural order of things, injustice [adharma] is created. This means that:
-<ul>
-  <li>virtue is the health, beauty, and well-being of the soul</li>
-  <li>vice is its disease, weakness, and deformity.</li>
-  <li>good practices lead to virtue</li>
-  <li>evil practices lead to vice.</li>
-</ul>
+- virtue is the health, beauty, and well-being of the soul
+- vice is its disease, weakness, and deformity.
+- good practices lead to virtue
+- evil practices lead to vice.
 
 Is it more profitable to act justly whether seen or unseen, or to act unjustly as long as it is unseen and unpunished? 
 {{< /l >}}
@@ -209,8 +201,6 @@ This question is ridiculous. When the body is gone, it does not matter whether t
 
 {{< l a="Socrates" >}}
 From above, we might see that virtue is one, but vices are many and are of four kinds, just as there are five types of the State and five types of the soul. The just state has two names:
-<ul>
-  <li>Monarchy - This is rule exercised by one distinguished man</li>
-  <li>Aristocracy - This is rule exercised by distinguished men.</li>
-</ul>
+- Monarchy - This is rule exercised by one distinguished man
+- Aristocracy - This is rule exercised by distinguished men.
 {{< /l >}}

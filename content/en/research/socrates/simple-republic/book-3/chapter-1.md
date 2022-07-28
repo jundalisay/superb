@@ -43,12 +43,12 @@ We must beg Homer and the other poets not to be angry if we remove passages like
 
 {{< l a="Socrates" >}}
 These have poetical charm but are not for people who are meant to be free from slavery. We must reject the appalling names which describe the world below:
-<ul>
-  <li>Cocytus and Styx,</li>
-  <li>ghosts under the earth,</li>
-  <li>sapless shades,</li>
-  <li>similar words which make anyone shudder upon hearing them.</li>
-</ul>
+
+- Cocytus and Styx,
+- ghosts under the earth,
+- sapless shades,
+- similar words which make anyone shudder upon hearing them.
+
 
 These horrible stories are not useless. But there is a danger that the nerves of our guardians may become too excitable and effeminate by them. A different and nobler strain must be composed and sung by us. We shall get rid of the weepings and wailings of famous men.
 {{< /l >}}
@@ -62,11 +62,11 @@ Our principle is that the good man will not consider the death of his good comra
 Therefore, he will be least likely to lament. He will bear with the greatest equanimity any misfortune of this kind. We will compare the lamentations of famous men to useless women or to men of a baser sort. We will tell our guardians to be the defenders of their country and avoid becoming such men. 
 
 We will ask Homer and the other poets not to:
-<ul>
-  <li>depict Achilles lying on his side, then on his back, and then on his face, then sailing in a frenzy.</li>
-  <li>describe Priam, the kinsman of the gods, as praying and beseeching= 'Rolling in the dirt, calling each man loudly by his name.'</li>
-  <li>introduce the gods lamenting= 'O heavens! I see a dear friend of mine chased round and round in the city, and my heart is sad. Woe is me that I am fated to have Sarpedon, dearest of men to me, subdued at the hands of Patroclus the son of Menoetius.'</li>
-</ul>
+
+- depict Achilles lying on his side, then on his back, and then on his face, then sailing in a frenzy.
+- describe Priam, the kinsman of the gods, as praying and beseeching= 'Rolling in the dirt, calling each man loudly by his name.'
+- introduce the gods lamenting= 'O heavens! I see a dear friend of mine chased round and round in the city, and my heart is sad. Woe is me that I am fated to have Sarpedon, dearest of men to me, subdued at the hands of Patroclus the son of Menoetius.'
+
 
 If our youth seriously believed such unworthy representations of the gods, they would feel that the gods are not dishonoured by such pathetic actions. Instead of having shame or self-control, the youth will always whine on slight occasions. 
 
@@ -92,10 +92,10 @@ We must not allow this.
 Truth should be highly valued. If a lie is useless to the gods and useful only as a medicine to men, then the use of such medicines should be restricted to physicians.
 
 Private individuals have no business with lies. Only the rulers of the State should have the privilege of lying. In their dealings either with enemies or with their own citizens, they may be allowed to lie for the public good. But nobody else should lie. The rulers have this privilege because lying to the rulers is a more heinous fault than for:
-<ul>
-  <li>the patient not to speak the truth about his own illnesses to the physician, or</li>
-  <li>a sailor not to tell the captain what is happening with the ship or his fellow sailors.</li>
-</ul>
+
+- the patient not to speak the truth about his own illnesses to the physician, or
+- a sailor not to tell the captain what is happening with the ship or his fellow sailors.
+
 
 If the ruler catches anybody beside himself lying, 'Any of the craftsmen, whether he be priest or physician or carpenter' will be punished for introducing a practice that is equally subversive and destructive of ship or State.
 {{< /l >}}
@@ -105,10 +105,10 @@ If the ruler catches anybody beside himself lying, 'Any of the craftsmen, whethe
 
 {{< l a="Socrates" >}}
 Our youth must be temperate. The chief elements of temperance are generally:
-<ul>
-  <li>obedience to commanders, and</li>
-  <li>self-control in sensual pleasures.</li>
-</ul>
+
+- obedience to commanders, and
+- self-control in sensual pleasures.
+
 
 Then we shall approve such language as that of Diomede in Homer. 
 
@@ -155,61 +155,61 @@ They should see and hear deeds of endurance done by famous men. For example:
 
 {{< l a="Socrates" >}}
 Next, we must not let the guardians be receivers of gifts or lovers of money. We must not sing to them of 'gifts persuading gods and reverend kings.' Phoenix did not give Achilles, his student, good counsel when he told him to take the gifts of the Greeks and assist them. He should have told Achilles that he should not lay aside his anger without a gift. We cannot believe:
-<ul>
-  <li>that Achilles himself was such a lover of money as to take Agamemnon's gifts, nor</li>
-  <li>that he would only restore Hector's dead body for a payment, and would refuse to do it without one.</li>
-</ul>
+
+- that Achilles himself was such a lover of money as to take Agamemnon's gifts, nor
+- that he would only restore Hector's dead body for a payment, and would refuse to do it without one.
+
 
 I love Homer, so I don't like to say that he is guilty of impiety in attributing these feelings to Achilles. I can believe little of:
-<ul>
-  <li>the narrative of Achilles' insolence to Apollo, where he says= 'You have wronged me, O most abominable of deities. I would get revenge with you if only I had the power.'</li>
-  <li>his insubordination to the river-god, <!-- on whose divinity he is ready to lay hands,  -->or</li>
-  <li>his offering to the dead Patroclus of his own hair which had been previously dedicated to the other river-god Spercheius.,</li>
-  <li>him dragging Hector round the tomb of Patroclus, and</li>
-  <li>slaughtering the captives at the pyre.</li>
-</ul>
+
+- the narrative of Achilles' insolence to Apollo, where he says= 'You have wronged me, O most abominable of deities. I would get revenge with you if only I had the power.'
+- his insubordination to the river-god, <!-- on whose divinity he is ready to lay hands,  -->or
+- his offering to the dead Patroclus of his own hair which had been previously dedicated to the other river-god Spercheius.,
+- him dragging Hector round the tomb of Patroclus, and
+- slaughtering the captives at the pyre.
+
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
 Achilles was the pupil of the wise Cheiron, the son of a goddess and of Peleus who was the gentlest of men and third in descent from Zeus. I cannot believe that Achilles would be so disordered in his wits as to be have been the slave of two inconsistent passions:
-<ul>
-  <li>meanness, not untainted by avarice, and</li>
-  <li>overweening contempt of gods and men.</li>
-</ul>
+
+- meanness, not untainted by avarice, and
+- overweening contempt of gods and men.
+
 
 Let us equally refuse to believe:
-<ul>
-  <li>the tale of Theseus son of Poseidon, or of Peirithous son of Zeus, perpetrating a horrid rape, or</li>
-  <li>the tale of any other hero or son of a god daring to do such dreadful things.
-</li>
+
+- the tale of Theseus son of Poseidon, or of Peirithous son of Zeus, perpetrating a horrid rape, or
+- the tale of any other hero or son of a god daring to do such dreadful things.
+
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
 We will not let them persuade our youth:
-<ul>
-  <li>that the gods are the authors of evil, and</li>
-  <li>that heroes are no better than men.</li>
-</ul>
+
+- that the gods are the authors of evil, and
+- that heroes are no better than men.
+
 
 These feelings are neither pious nor true, for we have already proven that evil cannot come from the gods. They will have a bad effect on those who hear them. Everybody will begin to excuse his own vices when convinced that similar wickednesses are always being perpetrated by 'the kindred of the gods', the relatives of Zeus who have 'the blood of deities in their veins.' Let us put an end to such tales, lest they engender laxity of morals among the young.
 
 We have already laid down how gods, demigods, heroes and the world below should be treated. But what about men?
 
 We cannot answer this question at present because poets and story-tellers are guilty of making the gravest misstatements. They tell us:
-<ul>
-  <li>that wicked men are often happy,</li>
-  <li>that the good miserable,</li>
-  <li>that injustice is profitable when undetected,</li>
-  <li>but that justice is a man's own loss and another's gain.</li>
-</ul>
+
+- that wicked men are often happy,
+- that the good miserable,
+- that injustice is profitable when undetected,
+- but that justice is a man's own loss and another's gain.
+
 
 We shall:
-<ul>
-  <li>forbid them to say these things, and</li>
-  <li>command them to say the opposite.</li>
-</ul>
+
+- forbid them to say these things, and
+- command them to say the opposite.
+
 
 We can discover how men are to be treated after we have discovered what justice is and how naturally advantageous it is to the possessor, whether he seems just or not.
 {{< /l >}}
@@ -250,10 +250,10 @@ If yes, do they imitate as a whole or in part? If in part, then what parts? Or s
 
 This is equally true of imitation. A man cannot imitate many things as well as he would imitate one thing. When two kinds of imitation are nearly allied, the same persons cannot succeed in both. For example, those who write of both tragedy and comedy.
 <!-- Then the same person will:
-<ul>
-  <li>hardly be able to play a serious part in life, and</li>
-  <li>at the same time to be an imitator and imitate many other parts as well.</li>
-</ul> -->
+
+- hardly be able to play a serious part in life, and
+- at the same time to be an imitator and imitate many other parts as well.
+ -->
 {{< /l >}}
 
 
@@ -273,13 +273,13 @@ Human nature seems to have been coined into yet smaller pieces. This makes us in
 Our guardians are to dedicate themselves wholly to maintain freedom in the State. They would make this their craft. They will not engage in any other which does not bring this end. They should not practise or imitate anything else. If they imitate at all, they should only imitate from their youth the characters suitable to their profession= courage, temperance, holiness, freedom, and the like.
 
 They should not depict or be skilful at imitating any kind of illiberality or baseness, lest from imitation they should come to be what they imitate. Imitations in early youth that continue far into life grow into habits and become a second nature affecting body, voice, and mind. We will not allow them to imitate:
-<ul>
-  <li>a woman,</li>
-  <li>slaves, male or female, performing the offices of slaves,</li>
-  <li>bad men.</li>
-  <li>the action or speech of men or women who are mad or bad (Madness, like vice, is to be known but not to be practised or imitated.)</li>
-  <li>smiths or other artificers, or oarsmen, or boatswains, or the like.</li>
-</ul>
+
+- a woman,
+- slaves, male or female, performing the offices of slaves,
+- bad men.
+- the action or speech of men or women who are mad or bad (Madness, like vice, is to be known but not to be practised or imitated.)
+- smiths or other artificers, or oarsmen, or boatswains, or the like.
+
 {{< /l >}}
 
 {{< r a="Adeimantus" >}}
@@ -290,10 +290,10 @@ How can they, when they are not allowed to apply their minds to the callings of 
 They cannot imitate the neighing of horses, the bellowing of bulls, the murmur of rivers, roll of the ocean, and thunder. There is one sort of narrative style which may be employed by a truly good man.  There is another sort which will be used by a man of an opposite character and education. 
 
 Suppose, that a just and good man X comes on some saying or action of another good man Y.
-<ul>
-  <li>Max X will be most ready to impersonate Man Y when Man Y is acting wisely and not ill or ruled by love or drink.</li>
-  <li>Max X will not study a character unworthy of him. He feels that the employment of such an art, unless in jest, to be beneath him.</li>
-</ul>
+
+- Max X will be most ready to impersonate Man Y when Man Y is acting wisely and not ill or ruled by love or drink.
+- Max X will not study a character unworthy of him. He feels that the employment of such an art, unless in jest, to be beneath him.
+
 
 <!-- He will disdain such a person and will assume his likeness for a moment only when he is performing some good action.
 At other times, he will be ashamed to play a part which he has never practise.
@@ -305,12 +305,12 @@ Then he will adopt a mode of narration of Homer. His style will be both imitativ
 <!-- That is the model which such a speaker must necessarily take. -->
 
 But the bad character will narrate and imitate anything. He will:
-<ul>
-  <li>attempt to represent the roll of thunder, the noise of wind and hail, or the creaking of wheels, and pulleys, and the various sounds of flutes, pipes, trumpets, and other instruments.</li>
-  <li>bark like a dog,</li>
-  <li>bleat like a sheep, or</li>
-  <li>crow like a cock.</li>
-</ul>
+
+- attempt to represent the roll of thunder, the noise of wind and hail, or the creaking of wheels, and pulleys, and the various sounds of flutes, pipes, trumpets, and other instruments.
+- bark like a dog,
+- bleat like a sheep, or
+- crow like a cock.
+
 
 <!-- The worse he is, the more unscrupulous he will be.
 Nothing will be too bad for him.
@@ -337,19 +337,19 @@ I only prefer to admit the pure imitator of virtue.
 But the mixed style is also very charming. The pantomimic, which is the opposite of the one chosen by you, is the most popular style with children and the world in general.
 
 It is unsuitable that human nature should make men only have one role in our State, instead of twofold or manifold. This is why in our State, and in our State only, we shall find:
-<ul>
-  <li>a shoemaker to be a pilot also,</li>
-  <li>a husbandman to be a dicast also,</li>
-  <li>a soldier to be a trader also.</li>
-</ul>
+
+- a shoemaker to be a pilot also,
+- a husbandman to be a dicast also,
+- a soldier to be a trader also.
+
 
 These pantomimic gentlemen are so clever that they can imitate anything. When they propose to us to exhibit himself and his poetry, we will fall down and worship him as a holy being. But we must also inform him that in our State, his kind are not permitted to exist. We shall send him away to another city after we have put a garland of wool on his head.
 
 We want to employ, for our souls' health, the rougher and severer poet or story-teller, who will:
-<ul>
-  <li>imitate the style of the virtuous only, and</li>
-  <li>follow those models which we prescribed when we began the education of our soldiers.</li>
-</ul>
+
+- imitate the style of the virtuous only, and
+- follow those models which we prescribed when we began the education of our soldiers.
+
 
 That part of music or literary education which relates to the story or myth may be finished, for the matter and manner have both been discussed. Next will follow melody and song.
 {{< /l >}} 

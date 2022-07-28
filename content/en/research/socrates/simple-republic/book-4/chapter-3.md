@@ -25,12 +25,12 @@ Justice is this principle or a part of it. Justice was doing one's own business,
 
 {{< l a="Socrates" >}}
 If wisdom, courage, and temperance were discovered by us, justice would be the remaining one. It is not easy to answer which of these four virtues contributes most to the excellence of the State:
-<ul>
-  <li>the wisdom and watchfulness in the rulers, [satya, svadhyaya]</li>
-  <li>the temperance in the agreement of rulers and subjects, [asteya, brahmacarya, aparigraha]</li>
-  <li>the courage of the soldiers in preserving the state, [santosa, iisvara</li>
-  <li>the justice between children and women; slave, freeman, and artisan; ruler and subject, and the principle of every one doing his own work. [dharma, svadharma]</li>
-</ul>
+
+- the wisdom and watchfulness in the rulers, [satya, svadhyaya]
+- the temperance in the agreement of rulers and subjects, [asteya, brahmacarya, aparigraha]
+- the courage of the soldiers in preserving the state, [santosa, iisvara
+- the justice between children and women; slave, freeman, and artisan; ruler and subject, and the principle of every one doing his own work. [dharma, svadharma]
+
 
 This last one is the correct answer. This means that the power of each individual in the State to do his own work competes with the other political virtues, wisdom, temperance, courage. The virtue which enters into this competition is justice.
 {{< /l >}}
@@ -44,10 +44,10 @@ Suppose a carpenter is doing the business of a trader and a trader doing that of
 But if the trader's heart is lifted by wealth, strength, the number of his followers, or any like advantage, and he forces his way into the class of warriors, then this meddling of one with another is the ruin of the State.
 
 This also happens when:
-<ul>
-  <li>warriors become legislators and guardians, for which he is unfitted,</li>
-  <li>one man is a trader, legislator, and warrior all in one.</li>
-</ul>
+
+- warriors become legislators and guardians, for which he is unfitted,
+- one man is a trader, legislator, and warrior all in one.
+
 {{< /l >}}
 
 
@@ -64,16 +64,16 @@ Let our definition of justice be now applied to the individual. If they agree, w
 {{< l a="Socrates" >}}
 When a small and a big thing is called by the same name, they become like each other. The just man will be like the just State.
 A State is just when:
-<ul>
-  <li>its three classes did their own business, and</li>
-  <li>were temperate, valiant, and wise.</li>
-</ul>
+
+- its three classes did their own business, and
+- were temperate, valiant, and wise.
+
 
 A man is just when he has the same three virtues in his own soul. Thus, the soul does not have these virtues in the beginning. But we must acknowledge:
-<ul>
-  <li>that in each of us, there are the same virtues and habits that are in the State, and</li>
-  <li>that from the individual they pass into the State.</li>
-</ul>
+
+- that in each of us, there are the same virtues and habits that are in the State, and
+- that from the individual they pass into the State.
+
 {{< /l >}}
 
 <!-- Does the soul have these three virtues?
@@ -88,10 +88,10 @@ The true method is a longer one. -->
 
 {{< l a="Socrates" >}}
 The same may be said of:
-<ul>
-  <li>the love of knowledge (This is the special characteristic of us Greeks.)</li>
-  <li>the love of money (This is the characteristic of the Thracians, Scythians, the northern nations, and the Phoenicians and Egyptians.)</li>
-</ul>
+
+- the love of knowledge (This is the special characteristic of us Greeks.)
+- the love of money (This is the characteristic of the Thracians, Scythians, the northern nations, and the Phoenicians and Egyptians.)
+
 
 But it is not so easy to know whether these principles are three or one. Do we learn through Part 1 of our nature, and get angry through Part 2, and develop natural appetites from Part 3?
 {{< /l >}}
@@ -109,11 +109,11 @@ We should rather say that they have both an axis and a circumference. The axis s
 
 {{< l a="Socrates" >}}
 The following are all opposites:
-<ul>
-  <li>assent and dissent,</li>
-  <li>desire and aversion, and</li>
-  <li>attraction and repulsion.</li>
-</ul>
+
+- assent and dissent,
+- desire and aversion, and
+- attraction and repulsion.
+
 
 It does not matter whether they are active or passive since they oppose regardless.
 
@@ -129,17 +129,12 @@ Yes, the simple desire is in every instance of the simple object. The qualified 
 People will say that no man desires drink only, but good drink, or food only, but good food. Good is the universal object of desire. Thirst is a desire and will necessarily mean thirst for a good drink. The same is true of every other desire.
 
 Nevertheless, I think that relatives will have some quality attached to the original word or the relation between the words. Simple words will have simple correlatives.
-<ul>
-  <li>"Greater" is related to "less".</li>
-  <li>"Sometime greater" is related to "sometime less".</li>
-  <li>"Greater to be" is related to "less that is to be".</li>
-  <li>"More" is related to "less".</li>
-  <li>"Double" is related to "half".</li>
-  <li>"Heavier" is related to "lighter".</li>
-  <li>"Swifter" is related to "slower".</li>
-  <li>"Hot" is related to "cold".</li>
-</ul>
+- "Greater" is related to "less".
+- "Sometime greater" is related to "sometime less".
+- "Greater to be" is related to "less that is to be".
+- "More" is related to "less".
+- "Double" is related to "half".
+- "Heavier" is related to "lighter".
+- "Swifter" is related to "slower".
+- "Hot" is related to "cold".
 {{< /l >}}
-
-
-

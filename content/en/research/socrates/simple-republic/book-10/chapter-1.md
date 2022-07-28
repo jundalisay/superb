@@ -42,11 +42,11 @@ Yes, but they would be appearances only.
 
 {{< l a="Socrates" >}}
 The painter too is an example of a creator of appearances. He paints a bed, but it is not a real bed. The bedmaker makes a real bed, but not the essence or idea of the bed. He does not create true existence, but only some semblance of existence. Philosophers would then say that he is not speaking the truth because his work is an indistinct expression of truth. Let us assume that there are three beds:
-<ul>
-  <li>one existing in nature, which is made by God,</li>
-  <li>one is the work of the carpenter,</li>
-  <li>one is the work of the painter.</li>
-</ul>
+
+- one existing in nature, which is made by God,
+- one is the work of the carpenter,
+- one is the work of the painter.
+
 {{< /l >}}
 
 
@@ -64,11 +64,11 @@ The tragic poet is also an imitator. Like all imitators, he is thrice removed fr
 He can do all things because he lightly touches on a small part of an image, and not the real thing. For example=  -->
 
 A thing can be looked at from different angles and appear differently. A painter can paint a carpenter and may deceive children or simple-minded persons when he shows them his picture of a carpenter from afar. They will fancy that they are looking at a real carpenter. A simple-minded person might then say that the painter knows:
-<ul>
-  <li>all the arts,</li>
-  <li>all things else that anybody knows, and</li>
-  <li>every single thing with a higher degree of accuracy than any other man.</li>
-</ul>
+
+- all the arts,
+- all things else that anybody knows, and
+- every single thing with a higher degree of accuracy than any other man.
+
 {{< /l >}}
 
 
@@ -160,11 +160,11 @@ Such is the sweet influence which melody and rhythm by nature have.
 The tales of poets appear poor when stripped of the colours which music puts on them and recited in simple prose. They are like faces which were never really beautiful, but only blooming. Now the bloom of youth has left them. 
 
 The imitator or maker of the image knows nothing of its true existence. He knows appearances only. The painter will paint a saddle to be made by the leatherworker. But the painter does not know how a saddle should be. Even the leatherworkers do not know. Only the horseman who uses them knows the right form of a saddle. Thus, everything has:
-<ul>
-  <li>one which uses,</li>
-  <li>another which makes,</li>
-  <li>another which imitates them.</li>
-</ul>
+
+- one which uses,
+- another which makes,
+- another which imitates them.
+
 {{< /l >}}
 
 
@@ -177,10 +177,10 @@ The maker will attend to his instructions. The <!-- instrument is the same. But 
 <!-- . This he will gain from him who knows, by talking to him and hearing what he has to say.  -->
 <!-- The flute-player knows and therefore speaks with authority about the goodness and badness of flutes. The flute-maker , confiding in him, will do what he is told by him. --> 
 <!-- He will:
-<ul>
-  <li>not know whether his drawing is correct or beautiful, and</li>
-  <li>not have the right opinion from someone who actually knows and gives him instructions on what he should draw.</li>
-</ul> -->
+
+- not know whether his drawing is correct or beautiful, and
+- not have the right opinion from someone who actually knows and gives him instructions on what he should draw.
+ -->
 
 But the imitator will not have the true knowledge of his imitations. <!-- The imitative artist will not be in a brilliant state of intelligence about his own creations. --> He will go on imitating without knowing what makes a thing good or bad. He will likely imitate only that which appears good to the ignorant multitude.
 

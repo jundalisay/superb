@@ -49,16 +49,16 @@ Similarly, when they are drawn away from pain to the neutral state, they believe
 Hunger, thirst, and the like, are the poverty of the body. Ignorance and folly are the poverty of the soul. Food and wisdom are the satisfactions of body and soul.
 
 The truer satisfaction is the one derived from that which has more existence. Which has more pure existence:
-<ul>
-  <li>food and drink?, or</li>
-  <li>true opinion, knowledge, mind, and the virtues?</li>
-</ul>
+
+- food and drink?, or
+- true opinion, knowledge, mind, and the virtues?
+
 
 Which has a more pure being:
-<ul>
-  <li>that which is concerned with the invariable, immortal, and the true?, or</li>
-  <li>that which is concerned with and found in the variable and mortal, and is itself variable and mortal?</li>
-</ul>
+
+- that which is concerned with the invariable, immortal, and the true?, or
+- that which is concerned with and found in the variable and mortal, and is itself variable and mortal?
+
 {{< /l >}}
 
 
@@ -73,22 +73,22 @@ The essence of the invariable partake of knowledge in the same degree as of esse
 <b>Generally, those things which are in the service of the body have less of truth and essence than those which are in the service of the soul.</b> The body itself has less of truth and essence than the soul.
 A thing that has more real existence has a deeper and truer existence that something that is less real.
 
-<ul>
-  <li>A pleasure that is deeper and according to its nature is really more pleasurable.</li>
-  <li>A pleasure which is shallow will give less satisfaction and will give less real pleasure.</li>
-</ul> 
+
+- A pleasure that is deeper and according to its nature is really more pleasurable.
+- A pleasure which is shallow will give less satisfaction and will give less real pleasure.
+ 
 
 Those who do not know wisdom and virtue are always busy with gluttony and sensuality. 
-<ul>
-  <li>They go down and up again up to the middle point.</li>
-  <li>They move at random throughout life and never find their way into the true upper world.</li>
-  <li>They are not filled with true being.</li>
-  <li>They do not taste pure pleasure.</li>
-  <li>Like cattle, their eyes always look down and their heads stoop to the earth, which is their dining-table. They fatten and feed and breed. In their excessive love of these delights, they kick and butt at one another with horns and hoofs made of iron. They kill one another by reason of their insatiable lust.</li>
-  <li>Their pleasures are mixed with pains, for those are mere shadows of the true.</li>
-  <li>They are coloured by contrast, which exaggerates both light and shade.</li>
-  <li>And so, they implant in the minds of fools insane desires of themselves.</li>
-</ul>
+
+- They go down and up again up to the middle point.
+- They move at random throughout life and never find their way into the true upper world.
+- They are not filled with true being.
+- They do not taste pure pleasure.
+- Like cattle, their eyes always look down and their heads stoop to the earth, which is their dining-table. They fatten and feed and breed. In their excessive love of these delights, they kick and butt at one another with horns and hoofs made of iron. They kill one another by reason of their insatiable lust.
+- Their pleasures are mixed with pains, for those are mere shadows of the true.
+- They are coloured by contrast, which exaggerates both light and shade.
+- And so, they implant in the minds of fools insane desires of themselves.
+
 {{< /l >}}
 
 
@@ -104,18 +104,18 @@ Glaucon= You describe the life of the many like an oracle.
 
 {{< l a="Socrates" >}}
 The Greeks fought for the shadow of Helen at Troy in ignorance of the truth. The same thing happens with the spirited or passionate element of the soul. The passionate man who carries his passion into action will be in the like case, whether he is:
-<ul>
-  <li>envious and ambitious,</li>
-  <li>violent and contentious,</li>
-  <li>angry and discontented,</li>
-  <li>seeking to attain honour and victory and the satisfaction of his anger without reason or sense.</li>
-</ul>
+
+- envious and ambitious,
+- violent and contentious,
+- angry and discontented,
+- seeking to attain honour and victory and the satisfaction of his anger without reason or sense.
+
 
 Then the lovers of money and honour will also have the truest pleasures as long as they follow truth when:
-<ul>
-  <li>they seek their pleasures guided by reason and knowledge, and</li>
-  <li>they pursue and win the pleasures which wisdom shows them.</li>
-</ul>
+
+- they seek their pleasures guided by reason and knowledge, and
+- they pursue and win the pleasures which wisdom shows them.
+
 {{< /l >}}
 
 
@@ -159,29 +159,29 @@ We have determined the power and quality of justice and injustice. Let us now ma
 
 Many models of the soul have two or more different natures combining into one. Our model will be of three creatures:
 <ol>
-  <li>A many-headed monster with a ring of heads of beasts, tame and wild, able to generate and metamorphose at will -- this represeents intemperance</li>
-  <li>A lion which is smaller than the monster -- this represents pride and bad temper</li>
-  <li>a man which is smaller than the lion.
+- A many-headed monster with a ring of heads of beasts, tame and wild, able to generate and metamorphose at will -- this represeents intemperance
+- A lion which is smaller than the monster -- this represents pride and bad temper
+- a man which is smaller than the lion.
 </ol>  
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
 We join these into one creature. The unjust observer will say that:
-<ul>
-  <li>the lion should eat the many-headed monster to strengthen itself,</li>
-  <li>the man should be starved, weakened, and be dragged by the other two,</li>
-  <li>the man must not harmonize the lion and monster to each other and to himself,</li>
-  <li>the man must rather let them fight and devour one another.</li>
-</ul>
+
+- the lion should eat the many-headed monster to strengthen itself,
+- the man should be starved, weakened, and be dragged by the other two,
+- the man must not harmonize the lion and monster to each other and to himself,
+- the man must rather let them fight and devour one another.
+
 
 The just observer, on the contrary, will say that the man must:
-<ul>
-  <li>control the many-headed monster like a good husbandman</li>
-  <li>cultivate the gentle qualities and prevent the wild ones from growing</li>
-  <li>make the lion-heart his ally</li>
-  <li>unite the several creatures with one another and with himself.
-</li>
+
+- control the many-headed monster like a good husbandman
+- cultivate the gentle qualities and prevent the wild ones from growing
+- make the lion-heart his ally
+- unite the several creatures with one another and with himself.
+
 {{< /l >}}
 
 

@@ -48,18 +48,18 @@ He will moderate his sorrow. He is more likely to struggle and hold out against 
 
 {{< l a="Socrates" >}}
 But when a man is drawn in two opposite directions, to and from the same object, it implies two distinct principles in him. One of them is ready to follow the guidance of the law which would say:
-<ul>
-  <li>that it is best to be patient under suffering,</li>
-  <li>that we should not give way to impatience, as there is no knowing whether such things are good or evil, and</li>
-  <li>that nothing is gained by impatience, because no human thing is of serious importance.</li>
-</ul>
+
+- that it is best to be patient under suffering,
+- that we should not give way to impatience, as there is no knowing whether such things are good or evil, and
+- that nothing is gained by impatience, because no human thing is of serious importance.
+
 
 The other principle is grief which stands in the way of taking counsel about what has happened. This counsel is most needed. It says that when the dice has been thrown, we should order our affairs in the way that reason deems best. We should do this not like children who have fallen and waste time in crying. Instead, we should do it always accustoming the soul to:
-<ul>
-  <li>apply a remedy,</li>
-  <li>raise up that which is sickly and fallen, and</li>
-  <li>banish the cry of sorrow by the healing art.</li>
-</ul>
+
+- apply a remedy,
+- raise up that which is sickly and fallen, and
+- banish the cry of sorrow by the healing art.
+
 {{< /l >}}
 
 {{< r a="Glaucon" >}}
@@ -73,20 +73,20 @@ The wise and calm temperament is always nearly equable. It is not easy to imitat
 
 The imitative poet who aims at being popular does not target the rational principle in the soul. Like the painter, he instead will target the passionate temper, the inferior part of the soul, which is easily imitated.
 <!-- We can place him beside the painter, for he is like him in two ways:
-<ul>
-  <li>His creations have an inferior degree of truth.</li>
-  <li>He is also concerned with an .</li>
-</ul> -->
+
+- His creations have an inferior degree of truth.
+- He is also concerned with an .
+ -->
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
 Therefore, we should ban him from a well-ordered State because he awakens and strengthens the feelings and impairs reason. The imitative poet implants an evil constitution in the soul because he:
-<ul>
-  <li>indulges the irrational nature,</li>
-  <li>manufactures images, and</li>
-  <li>is very far removed from the truth.</li>
-</ul>
+
+- indulges the irrational nature,
+- manufactures images, and
+- is very far removed from the truth.
+
 
 This irrational nature has no discernment. It thinks the same thing at one time great and at another small. Our heaviest accusation is that the power of poetry harms even the good (and there are very few who are not harmed).
 {{< /l >}}
@@ -118,11 +118,11 @@ This is also true for laughter. There are jokes which you would be ashamed to ma
 There is a principle in human nature which makes us laugh. This is restrained by reason, because you were afraid of being thought a buffoon. Comedy makes it come out again. It stimulates the humorous faculty. It unconsciously betrays you into playing the comic at home. The same may be said of lust, anger, and all the other affections, pain and pleasure, which are held to be inseparable from every action.
 
 In all of them, poetry feeds the passions instead of drying them up. She lets them rule, even if they should be controlled. Therefore, Glaucon, we should love the excellent eulogists of Homer who say that:
-<ul>
-  <li>he has been the educator of Hellas,</li>
-  <li>he is profitable for education and for the ordering of human things,</li>
-  <li>you should read him again and again to regulate your life according to him.</li>
-</ul>
+
+- he has been the educator of Hellas,
+- he is profitable for education and for the ordering of human things,
+- you should read him again and again to regulate your life according to him.
+
 {{< /l >}}
 
 
@@ -132,12 +132,12 @@ Homer is the greatest of poets and first of tragedy writers. But we must remain 
 <!-- Our current defense shows the reasonableness of that purgation. Back then, reason constrained us from being harsh to bad poetry. -->
 
 We have previously purged bad poetry out of our State. There is an ancient quarrel between philosophy and poetry, as proven by the sayings:
-<ul>
-  <li>'the yelping hound howling at her lord,'</li>
-  <li>'mighty in the vain talk of fools,'</li>
-  <li>'the mob of sages circumventing Zeus,' and</li>
-  <li>'subtle thinkers who are beggars after all'</li>
-</ul>
+
+- 'the yelping hound howling at her lord,'
+- 'mighty in the vain talk of fools,'
+- 'the mob of sages circumventing Zeus,' and
+- 'subtle thinkers who are beggars after all'
+
 {{< /l >}}
 <!-- There are innumerable other signs of ancient enmity between them. If the arts of imitation can prove her title to exist in a well-ordered State, then we shall be delighted to receive her. We are very conscious of her charms. But we may not on that account betray the truth. --> 
 

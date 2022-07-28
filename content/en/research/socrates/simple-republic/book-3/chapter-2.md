@@ -20,9 +20,9 @@ icon= "/icons/soc.png"
 {{< l a="Socrates" >}}
 A song or ode has three parts:
 <ol>
-  <li>the words,</li>
-  <li>the melody, and</li>
-  <li>the rhythm</li>
+- the words,
+- the melody, and
+- the rhythm
 </ol>
 
 There is no difference between words set to music and those not set to music. Both will conform to the same laws. The melody and rhythm will depend on the words. We had no need of lamentation. The harmonies which express sorrow are the mixed or tenor Lydian, and the full-toned or bass Lydian, and those similar. These must be banished. Even to women who have a character to maintain they are of no use, and much less to men.
@@ -33,27 +33,27 @@ There is no difference between words set to music and those not set to music. Bo
 Drunkenness, softness, and indolence are also unbecoming of the character of our guardians. The Ionian, and Lydian are the soft or drinking harmonies and are called 'relaxed.' They do not have any military use.
 
 The Dorian and the Phrygian are the only ones left. I know nothing of these harmonies. But I want to have one warlike, to sound the note or accent which a brave man utters:
-<ul>
-  <li>in the hour of danger and stern resolve, or</li>
-  <li>when his cause is failing, and he is going to wounds or death or is overtaken by some other evil.</li>
-</ul>
+
+- in the hour of danger and stern resolve, or
+- when his cause is failing, and he is going to wounds or death or is overtaken by some other evil.
+
 
 At such crisis, he meets the blows of fortune with a firm step and a determination to endure. I want him to use another harmony in times of peace and freedom:
-<ul>
-  <li>when there is no pressure of necessity, and he is persuading God by prayer, or man by admonition, or</li>
-  <li>when he is willing to yield to the persuasion of others.</li>
-</ul>
+
+- when there is no pressure of necessity, and he is persuading God by prayer, or man by admonition, or
+- when he is willing to yield to the persuasion of others.
+
 {{< /l >}}
 
 
 
 {{< l a="Socrates" >}}
 This represents his prudence in not being carried away by his success, but acting wisely under the circumstances, and acquiescing in the event. These two harmonies, the Dorian and Phrygian, I ask you to leave:
-<ul>
-  <li>the strain of necessity and the strain of freedom,</li>
-  <li>the strain of the unfortunate and the strain of the fortunate,</li>
-  <li>the strain of courage, and the strain of temperance.</li>
-</ul>
+
+- the strain of necessity and the strain of freedom,
+- the strain of the unfortunate and the strain of the fortunate,
+- the strain of courage, and the strain of temperance.
+
 
 If only these are to be used in our songs and melodies, we shall want more notes or a panharmonic scale. Our lyres and stringed instruments will have three corners and complex scales. But what about the flute-makers and flute-players?
 
@@ -76,17 +76,17 @@ It is your duty to teach these rhythms as you have already taught me the harmoni
 
 {{< l a="Socrates" >}}
 But I only know that there are some three principles of rhythm out of which metrical systems are framed, just as in sounds there are four notes (i.e. the four notes of the tetrachord) out of which all the harmonies are composed. But I am unable to say of what sort of lives they imitate. We must ask Damon. He will tell us:
-<ul>
-  <li>what rhythms are expressive of meanness, or insolence, or fury, or other unworthiness, and</li>
-  <li>what are to be reserved for the expression of opposite feelings.</li>
-</ul>
+
+- what rhythms are expressive of meanness, or insolence, or fury, or other unworthiness, and
+- what are to be reserved for the expression of opposite feelings.
+
 
 I remember him mentioning a complex Cretic rhythm, also a dactylic or heroic. He arranged them in a way which I do not understand. He made the rhythms equal in the rise and fall of the foot, long and short alternating. He spoke of an iambic as well as of a trochaic rhythm, and assigned to them short and long quantities. In some cases, he appeared to praise or censure the movement of the foot quite as much as the rhythm, or a combination of the two. We should ask these to Damon himself because this analysis would be difficult.
-<ul>
-  <li>In the first part of the sentence, he speaks of paeonic rhythms which are in the ratio of 3/2.</li>
-  <li>In the second part, of dactylic and anapaestic rhythms, which are in the ratio of 1/1.</li>
-  <li>In the last clause, of iambic and trochaic rhythms, which are in the ratio of 1/2 or 2/1.)</li>
-</ul>
+
+- In the first part of the sentence, he speaks of paeonic rhythms which are in the ratio of 3/2.
+- In the second part, of dactylic and anapaestic rhythms, which are in the ratio of 1/1.
+- In the last clause, of iambic and trochaic rhythms, which are in the ratio of 1/2 or 2/1.)
+
 {{< /l >}}
 
 
@@ -97,19 +97,19 @@ But there is no difficulty in seeing that grace or the absence of grace is an ef
 Everything else depends on the style. Then beauty of style and harmony and grace and good rhythm depend on simplicity. I mean the true simplicity of a rightly and nobly ordered mind and character, not that other simplicity which is only an euphemism for folly. Our youth must make these graces and harmonies their perpetual aim.
 
 The art of the painter and every other creative and constructive art are full of them:
-<ul>
-  <li>weaving</li>
-  <li>embroidery</li>
-  <li>architecture</li>
-  <li>every kind of manufacture</li>
-</ul>
+
+- weaving
+- embroidery
+- architecture
+- every kind of manufacture
+
 
 In all of the following, there is grace or the absence of grace:
-<ul>
-  <li>nature</li>
-  <li>animal</li>
-  <li>vegetable</li>
-</ul>
+
+- nature
+- animal
+- vegetable
+
 {{< /l >}}
 
 
@@ -130,19 +130,19 @@ We should not let our guardians grow up amid images of moral ugliness. They migh
 
 {{< l a="Socrates" >}}
 Therefore, musical training is a more potent instrument than any other, because rhythm and harmony find their way into the inward places of the soul. They will mightily:
-<ul>
-  <li>fasten on these places,</li>
-  <li>impart grace,</li>
-  <li>make the educated soul graceful, or</li>
-  <li>make the uneducated soul ungraceful.</li>
-</ul>
+
+- fasten on these places,
+- impart grace,
+- make the educated soul graceful, or
+- make the uneducated soul ungraceful.
+
 
 He who has received this true education of the inner being will:
-<ul>
-  <li>most shrewdly perceive omissions or faults in art and nature, and</li>
-  <li>with a true taste, he becomes noble and good while he praises and receives into his soul the good</li>
-  <li>will justly blame and hate the bad, now in the days of his youth, even before he knows why</li>
-</ul>
+
+- most shrewdly perceive omissions or faults in art and nature, and
+- with a true taste, he becomes noble and good while he praises and receives into his soul the good
+- will justly blame and hate the bad, now in the days of his youth, even before he knows why
+
 
 {{< /l >}}
 
@@ -156,10 +156,10 @@ When reason comes, he will recognise and salute the friend with whom his educati
 The same art and study giving us the knowledge of both:
 
 Neither we nor our guardians can ever become musical until we and they:
-<ul>
-  <li>know the essential forms of temperance, courage, liberality, magnificence, and their kindred and contrary forms, in all their combinations</li>
-  <li>can recognise them anywhere. <!-- and their images wherever they are found, not slighting them either in small things or great, but believing them all to be within the sphere of one art and study. --></li>
-</ul>
+
+- know the essential forms of temperance, courage, liberality, magnificence, and their kindred and contrary forms, in all their combinations
+- can recognise them anywhere. <!-- and their images wherever they are found, not slighting them either in small things or great, but believing them all to be within the sphere of one art and study. -->
+
 
 A beautiful soul that harmonizes with a beautiful form, and the two are cast in one mould, is the fairest of sights to one who has an eye to see it. The man who has the spirit of harmony will be most in love with the loveliest. But he will not love a person who has an inharmonious soul.
 <!-- The fairest is also the loveliest. -->

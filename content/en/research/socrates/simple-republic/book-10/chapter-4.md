@@ -30,44 +30,44 @@ He said that when his soul left the body, he went on a journey with a great comp
 {{< l a="Socrates" >}}
 In the intermediate space, there were judges seated. After they had given judgment on them and had bound their sentences in front of them:
 
-<ul>
-  <li>the just were to ascend by the heavenly way on the upper right side,</li>
-  <li>the unjust were bidden by them to descend by the lower way on the lower left side.</li>
-</ul>
+
+- the just were to ascend by the heavenly way on the upper right side,
+- the unjust were bidden by them to descend by the lower way on the lower left side.
+
 
 Their sentences also bore the symbols of their deeds, fastened on their backs. They told him to hear and see all that was there and that he was to be the messenger to carry the report of the other world to men.
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
-<ul>
-  <li>On the right side, he saw the souls departing for heaven when sentence had been given on them, or <!-- coming from earth --> going to earth.</li>
-  <li>On the left side, at the two other openings, he saw other souls:
-    <ul>
-      <li>some ascending out of the earth dusty and worn with travel, as if coming from a long journey</li>
-      <li>some descending out of heaven clean and bright. These went forth with gladness into the meadow, where they encamped as at a festival. Those who knew one another embraced and conversed.</li>
-    </ul>
-  </li>
-</ul>
 
-<ul>
-  <li>The souls which came from earth curiously asked about the things above.</li>
-  <li>The souls which came from heaven asked about the things beneath.</li>
-</ul>
+- On the right side, he saw the souls departing for heaven when sentence had been given on them, or <!-- coming from earth --> going to earth.
+- On the left side, at the two other openings, he saw other souls:
+    
+    - some ascending out of the earth dusty and worn with travel, as if coming from a long journey
+    - some descending out of heaven clean and bright. These went forth with gladness into the meadow, where they encamped as at a festival. Those who knew one another embraced and conversed.
+    
+  
 
-<ul>
-  <li>Those from below were weeping at the things which they had endured in their journey beneath the earth which lasted 1,000 years.</li>
-  <li>While those from above were describing heavenly delights and beauty.</li>
-</ul>
+
+
+- The souls which came from earth curiously asked about the things above.
+- The souls which came from heaven asked about the things beneath.
+
+
+
+- Those from below were weeping at the things which they had endured in their journey beneath the earth which lasted 1,000 years.
+- While those from above were describing heavenly delights and beauty.
+
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
 The summary of the long story is that Er said that for every wrong which they had done to anyone, they suffered tenfold* or once in 100 years.
-<ul>
-  <li>100 years was reckoned to be the length of man's life.</li>
-  <li>The penalty being thus paid 10 times in 1,000 years.</li>
-</ul> 
+
+- 100 years was reckoned to be the length of man's life.
+- The penalty being thus paid 10 times in 1,000 years.
+ 
 {{< /l >}}
 
 > *Superphysics Note: This is the concept of karma in Hinduism
@@ -76,11 +76,11 @@ The summary of the long story is that Er said that for every wrong which they ha
 
 {{< l a="Socrates" >}}
 For example, they received punishment 10 times over for each offence such as:
-<ul>
-  <li>being the cause of many deaths,</li>
-  <li>betraying or enslaving cities or armies, or</li>
-  <li>being guilty of any other evil behaviour.</li>
-</ul>
+
+- being the cause of many deaths,
+- betraying or enslaving cities or armies, or
+- being guilty of any other evil behaviour.
+
 
 The rewards of beneficence, justice, and holiness were in the same proportion. He also said about young children dying almost as soon as they were born.
 
@@ -93,10 +93,10 @@ There were other rewards and punishments far greater which he describe for piety
 {{< l a="Socrates" >}}
 Ardiaeus lived 1,000 years before the time of Er. 
 
-<ul>
-  <li>He had been the tyrant of a city of Pamphylia.</li>
-  <li>He had murdered his aged father and his elder brother.</li>
-</ul>
+
+- He had been the tyrant of a city of Pamphylia.
+- He had murdered his aged father and his elder brother.
+
 
 One of the spirits asked another, 'Where is Ardiaeus the Great?' 
 
@@ -135,10 +135,10 @@ From these ends extends the spindle of Necessity, on which all the revolutions t
 The shaft and hook of this spindle are made of steel.
 
 The whorl is made partly of steel and also partly of other materials.
-<ul>
-  <li>It has one large hollow whorl which is scooped out.</li>
-  <li>Into this is fitted another smaller one, and another, and another, and four others, making eight in all, like vessels which fit into one another.</li>
-</ul>
+
+- It has one large hollow whorl which is scooped out.
+- Into this is fitted another smaller one, and another, and another, and four others, making eight in all, like vessels which fit into one another.
+
 
 The whorls show their edges on the upper side. On their lower side, all together form one continuous whorl.
 
@@ -186,11 +186,11 @@ The eight together form one harmony. Round about, at equal intervals, there are 
 
 They wear white robes and have chaplets upon their heads. They accompany with their voices the harmony of the sirens.
 
-<ul>
-  <li>Lachesis sings of the past. Lachesis laying hold of either in turn, first with one hand and then with the other.</li>
-  <li>Clotho sings of the present. Clotho from time to time assists with a touch of her right hand the revolution of the outer circle of the whorl or spindle.</li>
-  <li>Atropos sings the future. Atropos with her left hand touching and guiding the inner ones**.</li>
-</ul>
+
+- Lachesis sings of the past. Lachesis laying hold of either in turn, first with one hand and then with the other.
+- Clotho sings of the present. Clotho from time to time assists with a touch of her right hand the revolution of the outer circle of the whorl or spindle.
+- Atropos sings the future. Atropos with her left hand touching and guiding the inner ones**.
+
 
 {{< /l >}}
 
@@ -219,14 +219,14 @@ He then scattered lots indifferently among them all. Each of them took up the lo
 
 Each took his lot and saw his number. Then, the Interpreter placed on the ground before them the samples of lives.
 
-<ul>
-  <li>There were many more lives than the souls present, and they were of all sorts.</li>
-  <li>There were lives of every animal and of man in every condition.</li>
-  <li>There were tyrannies among them, some lasting out the tyrant's life, others which broke off in the middle and came to an end in poverty and exile and beggary.</li>
-  <li>There were lives of famous men, some who were famous for their beauty, strength, and success in games. Some were famous for their birth and the qualities of their ancestors. Some were infamous, for the opposite qualities.</li>
-  <li>There were also women's lives. But there was no definite character in them, because the soul, when choosing a new life, must of necessity become different.</li>
-  <li>There were other qualities all mingled with one another. Elements of wealth mingled with poverty. Disease mingled with health.</li>
-  <li>There were mean states also.</li>
-</ul>
+
+- There were many more lives than the souls present, and they were of all sorts.
+- There were lives of every animal and of man in every condition.
+- There were tyrannies among them, some lasting out the tyrant's life, others which broke off in the middle and came to an end in poverty and exile and beggary.
+- There were lives of famous men, some who were famous for their beauty, strength, and success in games. Some were famous for their birth and the qualities of their ancestors. Some were infamous, for the opposite qualities.
+- There were also women's lives. But there was no definite character in them, because the soul, when choosing a new life, must of necessity become different.
+- There were other qualities all mingled with one another. Elements of wealth mingled with poverty. Disease mingled with health.
+- There were mean states also.
+
 {{< /l >}}
 

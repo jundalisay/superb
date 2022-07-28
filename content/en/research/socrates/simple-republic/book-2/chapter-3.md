@@ -86,10 +86,10 @@ A young person cannot judge what is allegorical and what is literal. Anything th
 
 {{< l a="Socrates" >}}
 But where are such models to be found? You, I, and Adeimantus are not poets, but founders of a State. The founders of a State should know:
-<ul>
-  <li>the general forms in which poets should cast their tales, and</li>
-  <li>the limits which must be observed by them</li>
-</ul>
+
+- the general forms in which poets should cast their tales, and
+- the limits which must be observed by them
+
 
 But to make the tales is not the business of the founders. 
 {{< /l >}}
@@ -101,17 +101,17 @@ Very true, but what are these forms of theology that you mean?
 
 
 {{< l a="Socrates" >}}The kind wherein God is represented as He truly is. He is not truly good and must not be represented as such. No good thing is hurtful.
-<ul>
-  <li>A thing that is not hurt can do no evil.</li>
-  <li>A thing that does no evil cannot be a cause of evil.</li>
-</ul>
+
+- A thing that is not hurt can do no evil.
+- A thing that does no evil cannot be a cause of evil.
+
 
 The good is advantageous and the cause of well-being. It follows that the good is the cause of the good only, and not the cause of all things. Then God, if He be good, is not the author of all things, as the many assert. Instead, He is the cause of a few things only.
-<ul>
-  <li>The goods of human life are few and the evils are many.</li>
-  <li>The good is to be attributed to God alone.</li>
-  <li>The origin of evil is to be sought elsewhere, and not in God.</li>
-</ul>
+
+- The goods of human life are few and the evils are many.
+- The good is to be attributed to God alone.
+- The origin of evil is to be sought elsewhere, and not in God.
+
 
 Then we must not listen to Homer or to any other poet who is guilty of saying that:
 

@@ -104,11 +104,11 @@ Imagine then a ship with a captain taller and stronger than any of the crew. But
 - his knowledge of navigation is not much better.
 
 The sailors quarrel with each other on the right to steer, though they have never learned the art of navigation.
-<!-- <ul>
+<!-- 
   ,
   cannot tell who taught him or when he learned, and
   will assert that it cannot be taught, and they are ready to kill anyone who says the contrary.
-</ul> -->
+ -->
 {{< /l >}}
 
 
@@ -251,12 +251,10 @@ Sophists are mercenary individuals who teach nothing but the opinion of the many
 
 {{< l a="Socrates" >}}
 He would learn:
-
 - how to approach and handle the beast,
 - when and from what causes he is dangerous or the not dangerous,
 - what is the meaning of his several cries, and
 - what sounds make the best soothed or infuriated.
-
 
 He then:
 - makes such knowledge as his art and teaches it, even if he has no real notion of what he means by its principles

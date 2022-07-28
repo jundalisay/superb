@@ -68,36 +68,36 @@ I have never heard of a satisfactory explanation of the superiority of justice t
 
 {{< r a="Glaucon" >}}
 I shall start with the nature and origin of justice. They say that by nature:
-<ul>
-  <li>doing injustice is good</li>
-  <li>suffering from injustice is evil</li>
-  <li>evil is greater than the good.</li>
-</ul>
+
+- doing injustice is good
+- suffering from injustice is evil
+- evil is greater than the good.
+
 
 <!-- After men have both done injustice and suffered injustice, they are unable to avoid injustice and obtain justice. They think that it is better for them to agree to have neither. Hence, there arise  -->
 
 Laws and mutual covenants arise after men get tired of the injustice that they do to each other. They call whatever is ordained by law as lawful and just. They refer to the law as the origin and nature of justice. 
-<ul>
-  <li>The best is to do injustice but not be punished.</li>
-  <li>The worst is to suffer injustice without the power of retaliation.</li>
-</ul>
+
+- The best is to do injustice but not be punished.
+- The worst is to suffer injustice without the power of retaliation.
+
 {{< /r >}}
 
 
 {{< r a="Glaucon" >}}
 Justice is a compromise or middle point between the best and the worst. It is:
-<ul>
-  <li>not a virtue, but a lesser evil</li>
-  <li>honoured by the inability of men to do injustice because no one will ever submit to such an unjust agreement.</li>
-</ul>
+
+- not a virtue, but a lesser evil
+- honoured by the inability of men to do injustice because no one will ever submit to such an unjust agreement.
+
 
 Those who practise justice do so involuntarily because they do not have the power to be unjust.
 
 If the just and unjust had the power to do what they want, then:
-<ul>
-  <li>the just will do just actions</li>
-  <li>the unjust will do unjust actions</li>
-</ul>
+
+- the just will do just actions
+- the unjust will do unjust actions
+
 
 The just will see his own action as good, just as the unjust sees his own action as good. They are only diverted into just actions by the force of law.
 
@@ -120,11 +120,11 @@ He then applied to be a court messenger. As soon as he arrived, he seduced the q
 Suppose that there were two such magic rings, one for the just man and another for the unjust.
 
 No one would have such an iron nature as to do no wrong. No one would:
-<ul>
-  <li>keep his hands off what was not his own when he could safely take it,</li>
-  <li>not go into houses and sleep with anyone that he likes, or</li>
-  <li>kill or release from prison anyone he wanted.</li>
-</ul>
+
+- keep his hands off what was not his own when he could safely take it,
+- not go into houses and sleep with anyone that he likes, or
+- kill or release from prison anyone he wanted.
+
 {{< /r >}}
 
 
@@ -181,11 +181,11 @@ In the beginning, he is just and is thought just and so he rules the city.
 <!-- He can marry whom he wills. -->
 He can also trade and deal where he likes to his own advantage.<!-- , because he has no misgivings about injustice -->.
 At every contest, he gets the better of his antagonists and gains at their expense and becomes rich. Out of his gains, he can:
-<ul>
-  <li>benefit his friends and harm his enemies</li>
-  <li>offer sacrifices</li>
-  <li>honour the gods in a far better style than the truly just.</li>
-</ul>
+
+- benefit his friends and harm his enemies
+- offer sacrifices
+- honour the gods in a far better style than the truly just.
+
 <!-- Therefore, he is likely to be dearer than the just to the gods. -->
 Thus, Socrates, gods and men unite in making the life of the unjust better than the life of the just.
 {{< /r >}}
@@ -206,10 +206,10 @@ Glaucon's argument also implies that praise and censure is equally needed to bri
 Parents and tutors always tell their sons and students that they should be just not for the sake of justice, but for the sake of character and reputation. They hope to obtain some of those offices, marriages, etc. for those who are reputed to be just.
 
 However, the unjust make more pretensions than the just. They:
-<ul>
-  <li>throw in the good opinion of the gods,</li>
-  <li>ell you of the benefits which the heavens rain on the pious</li>
-</ul>
+
+- throw in the good opinion of the gods,
+- ell you of the benefits which the heavens rain on the pious
+
 
 This matches with the testimony of Hesiod and Homer. Hesiod says that many blessings are provided for the just. Homer has a very similar strain.
 {{< /r >}}
@@ -229,12 +229,12 @@ But for the wicked, there is another strain. While the wicked are living, they a
 Again Socrates, please speak about justice and injustice not like the poets, but like prose writers.
 
 The universal voice of mankind always says that:
-<ul>
-  <li>justice and virtue are honourable, but are grievous and toilsome,</li>
-  <li>the pleasures of vice and injustice are easy to attain, and are only censured by law and opinion.</li>
-  <li>honesty is mostly less profitable than dishonesty, and</li>
-  <li>wicked men are happy.</li>
-</ul>
+
+- justice and virtue are honourable, but are grievous and toilsome,
+- the pleasures of vice and injustice are easy to attain, and are only censured by law and opinion.
+- honesty is mostly less profitable than dishonesty, and
+- wicked men are happy.
+
 
 They honour wicked men when they are rich or influential. They despise and overlook those who may be weak and poor, even if they are better than the others. But most extraordinary is they say that the gods give calamity and misery to many good men, and good and happiness to the wicked.
 
@@ -265,25 +265,25 @@ Hesiod also says:
 
 {{< r a="Adeimantus" >}}
 They produce books written by Musaeus and Orpheus<!-- , who were children of the Moon and the Muses -->. They perform their ritual according to those books. They persuade individuals and whole cities:
-<ul>
-  <li>that expiations and atonements for sin may be made by sacrifices, and</li>
-  <li>that they are equally at the service of the living and the dead</li>
-</ul>
+
+- that expiations and atonements for sin may be made by sacrifices, and
+- that they are equally at the service of the living and the dead
+
 
 They call atonements as "mysteries" which redeem us from the pains of hell.
 <!-- But if we neglect them, no one knows what awaits us. -->
 
 The minds of the young are affected when the young hear:
-<ul>
-  <li>all this said about virtue and vice, and</li>
-  <li>the way how gods and men regard them.</li>
-</ul>
+
+- all this said about virtue and vice, and
+- the way how gods and men regard them.
+
 
 Some young are quick-witted and are like bees on the wing which go to every flower. From what they hear, they draw conclusions as to:
-<ul>
-  <li>what kind of persons they should be, and</li>
-  <li>how they should walk if they would make the best of life.</li>
-</ul>
+
+- what kind of persons they should be, and
+- how they should walk if they would make the best of life.
+
 
 Probably the youth will say to himself in the words of Pindar:
 {{< /r >}}
@@ -296,16 +296,16 @@ Probably the youth will say to himself in the words of Pindar:
 
 {{< r a="Adeimantus" >}}
 People say that:
-<ul>
-  <li>if I am really just then there is no profit and the pain and loss are unmistakeable,</li>
-  <li>but if I am unjust but acquire the reputation of being just, a heavenly life is promised to me.</li>
-</ul>
+
+- if I am really just then there is no profit and the pain and loss are unmistakeable,
+- but if I am unjust but acquire the reputation of being just, a heavenly life is promised to me.
+
 
 This is because, as philosophers prove, appearance:
-<ul>
-  <li>tyrannizes over truth, and</li>
-  <li>is lord of happiness</li>
-</ul>
+
+- tyrannizes over truth, and
+- is lord of happiness
+
 {{< /r >}}
 
 

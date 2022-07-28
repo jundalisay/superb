@@ -34,10 +34,10 @@ On the other hand, the men of business stoop as they walk. They pretend not to s
 
 And so they make drone and pauper to abound in the State. The evil blazes up like a fire.
 The men of business will not extinguish it, either:
-<ul>
-  <li>by restricting a man's use of his own property, nor</li>
-  <li>by letting every one enter into voluntary contracts at his own risk.</li>
-</ul>
+
+- by restricting a man's use of his own property, nor
+- by letting every one enter into voluntary contracts at his own risk.
+
 {{< /l >}}
 
 
@@ -88,18 +88,18 @@ How does the democratical man grow out of the oligarchical?
 
 {{< l a="Socrates" >}}
 The son of the miserly and oligarchical father is trained in the habits of oligarchs.
-<ul>
-  <li>Necessary pleasures are those that we cannot get rid of.</li>
-  <li>Unnecessary pleasures are those that we get rid of.</li>
-  <li>The desire of eating simple food is a necessary pleasure as it is needed for life.</li>
-  <li>The desire of eating more delicate food is hurtful to the body and soul in the pursuit of wisdom and virtue and are unnecessary.</li>
-</ul>
+
+- Necessary pleasures are those that we cannot get rid of.
+- Unnecessary pleasures are those that we get rid of.
+- The desire of eating simple food is a necessary pleasure as it is needed for life.
+- The desire of eating more delicate food is hurtful to the body and soul in the pursuit of wisdom and virtue and are unnecessary.
+
 
 He forcibly keeps down the unnecessary pleasures.
-<ul>
-  <li>The drone was the slave of the unnecessary desires.</li>
-  <li>The miserly and oligarchical only has necessary desires.</li>
-</ul>
+
+- The drone was the slave of the unnecessary desires.
+- The miserly and oligarchical only has necessary desires.
+
 {{< /l >}}
 
 
@@ -126,11 +126,11 @@ False and boastful conceits and phrases mount upwards and take their place. And 
 His real friends send help to the oligarchical part of him, but his vain conceit shuts the gate. His vanity will not allow them to enter. He will not listen to the fatherly counsel of private advisers.
 
 There is a battle and his vain desires will win. They will= 
-<ul>
-  <li>call modesty as silliness and exile it</li>
-  <li>call temperance as unmanliness and trample it</li>
-  <li>persuade men that moderation and orderly expenditure are vulgarity and meanness.</li>
-</ul>
+
+- call modesty as silliness and exile it
+- call temperance as unmanliness and trample it
+- persuade men that moderation and orderly expenditure are vulgarity and meanness.
+
 {{< /l >}}
 
 
@@ -139,12 +139,12 @@ By a rabble of evil appetites, they drive them beyond the border. The young man 
 They empty and sweep clean his soul. 
 They initiate him in great mysteries. 
 They then bring back to their house the following with garlands:
-<ul>
-  <li>insolence, which they call 'breeding',</li>
-  <li>anarchy, which they call 'liberty',</li>
-  <li>waste, which they call 'magnificence',</li>
-  <li>impudence, which they call 'courage',</li>
-</ul>
+
+- insolence, which they call 'breeding',
+- anarchy, which they call 'liberty',
+- waste, which they call 'magnificence',
+- impudence, which they call 'courage',
+
 
 And so the young man passes out of his original nature. From being trained in necessity, he goest into the libertinism of useless and unnecessary pleasures. He spends his money, labour, and time on unnecessary pleasures.
 {{< /l >}}
@@ -164,11 +164,11 @@ He will say that they are all alike, and that one is as good as another.
 
 {{< l a="Socrates" >}}
 He lives from day to day indulging the appetite of the hour. Sometimes he is lapped in drink. <!-- and tries the flute -->
-<ul>
-  <li>Then he becomes a water-drinker, and tries to get thin.</li>
-  <li>Then he tries gymnastics.</li>
-  <li>Then he lives the life of a philosopher.</li>
-</ul>
+
+- Then he becomes a water-drinker, and tries to get thin.
+- Then he tries gymnastics.
+- Then he lives the life of a philosopher.
+
 
 Often he is busy with politics. He starts to his feet and says and does whatever comes into his head. His life has neither law nor order. This distracted existence he calls joy and bliss and freedom.
 <!-- If he is emulous of any one who is a warrior, off he is in that direction, or of men of business, once more in that. -->

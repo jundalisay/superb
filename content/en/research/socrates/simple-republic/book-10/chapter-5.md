@@ -20,29 +20,29 @@ Here, my dear Glaucon, is the supreme peril of our human state. Therefore, the u
 This will help us learn and discern between good and evil. In this way, we can always and everywhere choose the better life.
 
 We should consider the bearing of all these things on virtue. We should know:
-<ul>
-  <li>what the effect of beauty is when combined with poverty or wealth in a particular soul,</li>
-  <li>what are the good and evil consequences of:
-    <ul>
-      <li>noble and humble birth,</li>
-      <li>private and public station,</li>
-      <li>strength and weakness,</li>
-      <li>cleverness and dullness, and</li>
-      <li>all the natural and acquired gifts of the soul, and</li>
-      <li>the operation of them when conjoined.</li>
-    </ul>
-  </li>
-</ul>
+
+- what the effect of beauty is when combined with poverty or wealth in a particular soul,
+- what are the good and evil consequences of:
+    
+    - noble and humble birth,
+    - private and public station,
+    - strength and weakness,
+    - cleverness and dullness, and
+    - all the natural and acquired gifts of the soul, and
+    - the operation of them when conjoined.
+    
+  
+
 {{< /l >}}
 
 
 
 {{< l a="Socrates" >}}
 These will make us look at the nature of the soul and be able to determine which is the better and the worse. We will give the name of:
-<ul>
-  <li>"evil" to the life which will make souls more unjust, and</li>
-  <li>good to the life which will make souls more just.</li>
-</ul>
+
+- "evil" to the life which will make souls more unjust, and
+- good to the life which will make souls more just.
+
 
 All else we will disregard.
 
@@ -61,16 +61,16 @@ Even for the last comer, if he chooses wisely and will live diligently, there is
 {{< /q >}}
 
 The first chooser came forward and chose the greatest tyranny.
-<ul>
-  <li>His mind had been darkened by folly and sensuality.</li>
-  <li>He had not thought out the whole matter before he chose.</li>
-  <li>He did not at first sight perceive that he was fated, among other evils, to devour his own children.</li>
-  <li>But when he had time to reflect and saw what was in the lot, he began to beat his breast and lament over his choice, forgetting the prophet's proclamation.</li>
-  <li>For, instead of throwing the blame of his misfortune on himself, he accused chance and the gods, and everything rather than himself.</li>
-  <li>He was one of those who came from heaven.</li>
-  <li>In a former life, he had dwelt in a well-ordered State.</li>
-  <li>But his virtue was a matter of habit only, and he had no philosophy.</li>
-</ul>
+
+- His mind had been darkened by folly and sensuality.
+- He had not thought out the whole matter before he chose.
+- He did not at first sight perceive that he was fated, among other evils, to devour his own children.
+- But when he had time to reflect and saw what was in the lot, he began to beat his breast and lament over his choice, forgetting the prophet's proclamation.
+- For, instead of throwing the blame of his misfortune on himself, he accused chance and the gods, and everything rather than himself.
+- He was one of those who came from heaven.
+- In a former life, he had dwelt in a well-ordered State.
+- But his virtue was a matter of habit only, and he had no philosophy.
+
 
 This was true of others who were similarly overtaken. Most of them came from heaven and therefore they had never been schooled by trial.
 
@@ -79,10 +79,10 @@ Whereas the pilgrims who came from earth having themselves suffered and seen oth
 Due to this inexperience and also because the lot was a chance, many of the souls exchanged a good destiny for an evil or an evil for a good.
 
 A man might be happy here if, from his arrival in this world, he 
-<ul>
-  <li>had always dedicated himself to sound philosophy and</li>
-  <li>had been moderately fortunate in the number of the lot<!-- , as Er reported, --> .</li>
-</ul>
+
+- had always dedicated himself to sound philosophy and
+- had been moderately fortunate in the number of the lot<!-- , as Er reported, --> .
+
 
 His journey to another life and return to this would be smooth and heavenly, instead of being rough and underground.
 {{< /l >}}
@@ -95,16 +95,16 @@ Most curious was the spectacle—sad, laughable, and strange.
 {{< l a="Socrates" >}}
 The choice of the souls was in most cases based on their experience of a previous life. He saw:
 
-<ul>
-  <li>the soul who had once been Orpheus choosing the life of a swan because of his enmity to women. He hated to be born of a woman because they had been his murderers.</li>
-  <li>the soul of Thamyras choosing the life of a nightingale. Like swan and other musicians, it is a bird that wants to be male.</li>
-  <li>Ajax, the son of Telamon, obtaining the 20th lot and choosing the life of a lion. He remembered the injustice which was done him in the judgment about the arms.</li>
-  <li>Agamemnon taking the life of an eagle because, like Ajax, he hated human nature by reason of his sufferings.</li>
-  <li>Atalanta choosing to the great fame of an athlete and was unable to resist the temptation.</li>
-  <li>the soul of Epeus, the son of Panopeus, choosing the nature of a woman cunning in the arts</li>
-  <li>the soul of the jester Thersites was putting on the form of a monkey</li>
-  <li>lastly, the soul of Odysseus who remembered his former toils which then disenchanted him of ambition. And so he spent a considerable time searching the life of a private man who had no cares. He had some difficulty in finding this, which was lying around neglected by everybody else. When he saw it, he said that he would have done the same had his lot been first instead of last, and that he was delighted to have it.</li>
-</ul>
+
+- the soul who had once been Orpheus choosing the life of a swan because of his enmity to women. He hated to be born of a woman because they had been his murderers.
+- the soul of Thamyras choosing the life of a nightingale. Like swan and other musicians, it is a bird that wants to be male.
+- Ajax, the son of Telamon, obtaining the 20th lot and choosing the life of a lion. He remembered the injustice which was done him in the judgment about the arms.
+- Agamemnon taking the life of an eagle because, like Ajax, he hated human nature by reason of his sufferings.
+- Atalanta choosing to the great fame of an athlete and was unable to resist the temptation.
+- the soul of Epeus, the son of Panopeus, choosing the nature of a woman cunning in the arts
+- the soul of the jester Thersites was putting on the form of a monkey
+- lastly, the soul of Odysseus who remembered his former toils which then disenchanted him of ambition. And so he spent a considerable time searching the life of a private man who had no cares. He had some difficulty in finding this, which was lying around neglected by everybody else. When he saw it, he said that he would have done the same had his lot been first instead of last, and that he was delighted to have it.
+
 {{< /l >}}
 
 
@@ -119,10 +119,10 @@ The good changed into the gentle and the evil into the savage, in all sorts of c
 
 
 They went in the order of their choice to Lachesis [past] who sent with them the genius that they had chosen, to be:
-<ul>
-  <li>the guardian of their lives and</li>
-  <li>the fulfiller of the choice.</li>
-</ul>
+
+- the guardian of their lives and
+- the fulfiller of the choice.
+
 {{< /l >}}
 
 

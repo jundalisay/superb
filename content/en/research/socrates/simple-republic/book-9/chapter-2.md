@@ -14,19 +14,17 @@ icon= "/icons/soc.png"
 
 {{< l a="Socrates" >}}
 The first proof of happiness is the rankings of the States:
-<ul>
-  <li>the royal</li>
-  <li>timocratical</li>
-  <li>oligarchical</li>
-  <li>democratical</li>
-  <li>tyrannical.</li>
-</ul>
+- the royal
+- timocratical
+- oligarchical
+- democratical
+- tyrannical.
 
 This is the order of their virtue as well. The son of Ariston (the best) has decided that:
-<ul>
-  <li>the best and justest is also the happiest. This is he who is the most royal man and king over himself,</li>
-  <li>the worst and most unjust man is also the most miserable. This is he who being the greatest tyrant of himself is also the greatest tyrant of his State.
-</li>
+
+- the best and justest is also the happiest. This is he who is the most royal man and king over himself,
+- the worst and most unjust man is also the most miserable. This is he who being the greatest tyrant of himself is also the greatest tyrant of his State.
+
 {{< /l >}}
 
 
@@ -47,11 +45,11 @@ The second proof is derived from the nature of the soul. We have divided the ind
 One principle prevails in the souls of one class of men, another in others.
 
 Thus there are three classes of men:
-<ul>
-  <li>lovers of wisdom, [6-7 chakra]</li>
-  <li>lovers of honour, and [4-5 chakra]</li>
-  <li>lovers of gain [1-3 chakra].</li>
-</ul>
+
+- lovers of wisdom, [6-7 chakra]
+- lovers of honour, and [4-5 chakra]
+- lovers of gain [1-3 chakra].
+
 
 These three indicate the three kinds of pleasure, which dispute each other. Which of the three classes of men have most pleasant lives? Each will praise his own class and depreciating the others. The money-maker will contrast the vanity of honour or learning if they bring no money. The lover of honour will think that the pleasure of riches is vulgar, while the pleasure of learning are nonsense. The philosopher values most the pleasure of knowing the truth. If he will avoid the other pleasures if he can.
 {{< /l >}}
