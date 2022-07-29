@@ -27,7 +27,7 @@ linkf: articles/superphysics/meaning-of-red-herring-ad-hominem-occams-razor"
 linkftext: "What is a Red Herring?"
  -->
  
-Pantrynomics (Economic Superphysics) aims to solve all economic problems by adding barter as points-based valuation to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether to the idea of "quantum fields". 
+Pantrynomics (Economic Superphysics) aims to solve all economic problems by adding moneyless donations and exchange (barter), as points-based valuation, to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether-idea onto the idea of "quantum fields". 
 
 The points-based valuation represents [the effort theory of value](/social/economics/principles/effort-theory-of-value) which we derived from Adam Smith:
 
@@ -47,9 +47,12 @@ In this system, the price of goods can be determined using the quantity of other
 ![IPhone on rice](https://sorasystem.sirv.com/photos/iphonerice2.jpg)
 
 
-As you can see, our system liberates the economy from being bound only to money, making it a true free trade system by allowing iPhones to be valued in Huawei phones, rice, or whatever. This is similar to how the Big Mac index pegs currencies to the Big Mac, except that we peg Big Macs to rice so that economies can function without money. Instead of equilibrium, this system is based on **ratios**.
+As you can see, our system liberates the economy from being bound only to money, making it a true free trade system by allowing iPhones to be valued in Huawei phones, rice, or whatever. This is similar to how the Big Mac index pegs currencies to the Big Mac, except that we peg Big Macs to rice so that economies can function without money. 
+
+Instead of equilibrium, this system is based on **ratios**.
 
 This is useful for poor people and even for corporations during financial crises where money is tight or unavailable. In addition, it will lower the cost of buying and selling since it will use the already-existing telecoms system, instead of the financial system with its expensive bankers and financiers*.
+
 
 > *In pantrynomics, such people will still be employed to do inspection, "KYC", and credit checks. 
 

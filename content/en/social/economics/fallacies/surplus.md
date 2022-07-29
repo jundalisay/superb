@@ -24,7 +24,7 @@ According to Economics, a market dis-equilibrium creates three inefficiencies:
 
 These are traditionally plotted as the red and blue areas in the chart below. 
 
-![](https://sorasystem.sirv.com/charts/demsup/econsurplus.png)
+![Surplus](/graphics/econ/deadweight.png)
 
 However, no one seems to have a name for the area on the right side of equilibrium. This is because while the demand curve is real, the supply curve is imaginary, merely representing the desire of suppliers. Since the mind only gives names to real experiences, that area cannot get a name because it is not really experienced — an overpriced product that cannot be sold at that price simply is not sold, and is not plotted at all.
 

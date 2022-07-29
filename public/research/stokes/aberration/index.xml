@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Aberration of Light on Superphysics</title>
+    <link>https://superphysics.org/research/stokes/aberration/</link>
+    <description>Recent content in The Aberration of Light on Superphysics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Pantry Peers</copyright><atom:link href="https://superphysics.org/research/stokes/aberration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Part 1</title>
+      <link>https://superphysics.org/research/stokes/aberration/part-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/research/stokes/aberration/part-1/</guid>
+      <description>The explanation of the aberration is so simple.
+It uses the startling hypothesis that the luminiferous æther passes freely through the sides of the telescope and through the earth itself.
+The planets carry a portion of the æther with them so that the æther, close to their surfaces, is at rest relatively on those surfaces. Its velocity changes as we recede ​from the surface, till, at no great distance, it is at rest in space.</description>
+    </item>
+    
+  </channel>
+</rss>

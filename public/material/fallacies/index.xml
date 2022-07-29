@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fallacies of Physics on Superphysics</title>
+    <link>https://superphysics.org/material/fallacies/</link>
+    <description>Recent content in Fallacies of Physics on Superphysics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Pantry Peers</copyright>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://superphysics.org/material/fallacies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix Einstein&#39;s General Relativity</title>
+      <link>https://superphysics.org/material/fallacies/general-relativity/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/material/fallacies/general-relativity/</guid>
+      <description>While collating the works of Socrates in order to unify them with those of David Hume to harmonize Superphysics, I came upon his maxims on astrophysics: The spangled heavens should be used as a pattern and with a view to that higher knowledge. Any geometrician who saw them would never think that there is a true equal, true double, or true proportion in the spangled heavens. Likewise, a true astronomer..will never imagine that the proportions of night and day, the stars to one another are eternal and subject to no deviation.</description>
+    </item>
+    
+  </channel>
+</rss>

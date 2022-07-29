@@ -11,16 +11,18 @@ linkftext: Spatial Layer
 icon: /spmat.png
 aliases:
   /articles/material/aethereal-relativity
-  
 ---
 
-Aethereal Relativity is made up of the principles that dictate aethereal movement. It is the most important of all the relativities since it controls or affects all the layers underneath. It is divided into two planes:
+
+Aethereal Relativity is made up of the principles that dictate aethereal movement. It is the most important of all the relativities since it controls or affects all the layers underneath. 
+
+It is divided into 2 planes:
 
 1. Physical - this dictates the movement of of physical objects between galaxies, multiverses, and timelines. This is Physical Aethereal Relativity 
 2. Metaphysical - this layer dictates the movement of ideas. Aethereal Relativity defaults to this.
 
 
-Aethereal Relativity is concerned with the movement of ideas* as qoas (quantum of aether), such as how the idea of a horse-carriage moved and evolved into an automobile and then into an electric car. 
+Aethereal Relativity is concerned with the movement of ideas* as qoas (quantum of aether), such as how the idea of a horse-carriage moved and evolved into an automobile and then into an electric car, and then into a flying electric car in the future.  
 
 > *From the perspective of the Supreme Entity, all ideas are static and non-moving, and it is the created minds that move from one idea to another. However, our perspective as humans is from the created minds. And so, for the purposes of explanation, we will take the opposite view and see our minds as stationary and ideas as moving.
 

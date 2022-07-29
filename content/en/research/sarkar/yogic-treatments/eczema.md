@@ -2,7 +2,6 @@
 title= "Natural Remedies for Eczema"
 #heading= "Natural Treatments and Herbal Remedies"
 description= "When the chyle, blood, flesh and fat, these four elements, all become disturbed, eczema appears. That is why this disease is worse and more harmful than leucoderma, or white leprosy"
-image= "/photos/med/ecz.jpg"
 linkb= "/research/indian/yogic-treatments/dysmenorrhoea"
 linkbtext= "dysmenorrhoea"
 linkf= "/research/indian/yogic-treatments/elephantiasis"
@@ -20,7 +19,6 @@ icon = "/icons/yoga.jpg"
 - intermittent fever 
 - the eating away of the body down to the bones in extreme cases
 
-![Eczema](/photos/med/ecz.jpg)
 
 ## Causes
 

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book 3 on Superphysics</title>
+    <link>https://superphysics.org/research/newton/principia/book-3/</link>
+    <description>Recent content in Book 3 on Superphysics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Pantry Peers</copyright><atom:link href="https://superphysics.org/research/newton/principia/book-3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1= Rules of Reasoning</title>
+      <link>https://superphysics.org/research/newton/principia/book-3/1-introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/research/newton/principia/book-3/1-introduction/</guid>
+      <description>Book 1 laid down the principles of mathematical philosophy. This will be the basis of our reasonings on philosophical inquiries.
+These mathematical principles are the laws and conditions of certain motions and forces. I use them to build a system of the universe.
+To prevent them from being dry and barren, I have illustrated them here with some philosophical scholiums, such as:
+ the density and the resistance of bodies spaces void of all bodies and the motion of light and sounds.</description>
+    </item>
+    
+    <item>
+      <title>Propositions 18-19</title>
+      <link>https://superphysics.org/research/newton/principia/book-3/prop-18/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/research/newton/principia/book-3/prop-18/</guid>
+      <description>Proposition 18 Theorem 16= The axes of planets The axes of the planets are less than the diameters drawn perpendicularly to the axes.
+The equal gravitation would give a spherical shape to the planets. But the circular motion causes the parts to recede from the axis and go to the equator in a fluid state. This enlarges the diameters there and flatten the poles.
+Thus, Jupiter&amp;rsquo;s diameter is shorter between pole and pole than from east to west.</description>
+    </item>
+    
+    <item>
+      <title>Vortices</title>
+      <link>https://superphysics.org/research/newton/principia/book-3/vortices/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/research/newton/principia/book-3/vortices/</guid>
+      <description>The hypothesis of vortices is problematic.
+It says that each planet by a radius drawn to the sun may describe areas proportional to the times of description, the periodic times of the several parts of the vortices should observe the duplicate proportion of their distances from the sun.
+But that the periodic times of the planets may obtain the sesquiplicate proportion of their distances from the sun the periodic times of the parts of the vortex ought to be in the sesquiplicate proportion of their distances.</description>
+    </item>
+    
+  </channel>
+</rss>

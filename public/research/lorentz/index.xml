@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hendrik Lorentz on Superphysics</title>
+    <link>https://superphysics.org/research/lorentz/</link>
+    <description>Recent content in Hendrik Lorentz on Superphysics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Pantry Peers</copyright>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://superphysics.org/research/lorentz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Relative Motion of the Earth and the Aether</title>
+      <link>https://superphysics.org/research/lorentz/aether/</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/research/lorentz/aether/</guid>
+      <description>To explain the aberration of light, Fresnel assumed that the aether does not share the annual motion of earth. This requires the Earth to be completely permeable to the aether.
+Later, Stokes explained that the aether is dragged by the earth. This made the speed of the aether the same as that of the earth at each point at the earth&amp;rsquo;s surface.
+I have extensively worked on these theories. [1].</description>
+    </item>
+    
+  </channel>
+</rss>

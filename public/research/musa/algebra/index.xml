@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algebra on Superphysics</title>
+    <link>https://superphysics.org/research/musa/algebra/</link>
+    <description>Recent content in Algebra on Superphysics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Pantry Peers</copyright>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://superphysics.org/research/musa/algebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three kinds of numbers in calculations</title>
+      <link>https://superphysics.org/research/musa/algebra/chapter-01/</link>
+      <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/research/musa/algebra/chapter-01/</guid>
+      <description>People always want a number when calculating. Every number is composed of units. Any number can be divided into units.
+Every number, which may be expressed from one to ten, surpasses the preceding by one unit. Afterwards, the ten is doubled or tripled, just as before the units were. Thus arise 20, 30, until 100. The 100 is doubled and tripled in the same way up to 1,000, and so on without limit.</description>
+    </item>
+    
+  </channel>
+</rss>

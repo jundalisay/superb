@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Is the Quantum—Mechanical Reality Complete? on Superphysics</title>
+    <link>https://superphysics.org/research/einstein/epr/</link>
+    <description>Recent content in Is the Quantum—Mechanical Reality Complete? on Superphysics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Pantry Peers</copyright>
+    <lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://superphysics.org/research/einstein/epr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Definition of Complete</title>
+      <link>https://superphysics.org/research/einstein/epr/part-1/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/research/einstein/epr/part-1/</guid>
+      <description>A complete theory must corresponding to each element of reality. It can predict reality with certainty, without disturbing the system.
+In quantum mechanics, in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other.
+This means that either:
+ The description of reality given by the quantum wave function is not complete or These two quantities cannot have simultaneous reality  Quantum mechanics makes predictions in one system based of measurements made on another system that had previously interacted with it.</description>
+    </item>
+    
+    <item>
+      <title>Two Systems</title>
+      <link>https://superphysics.org/research/einstein/epr/part-2/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/research/einstein/epr/part-2/</guid>
+      <description>Two systems, I and II interact from the time t=0 to t=T. Afterwards, they stop interacting. Their states before t=0 were known.
+Schrodinger&amp;rsquo;s equation gets the state of the combined system I+II at any subsequent time. Let us designate the corresponding wave function by ..
+But we cannot calculate the state in which either one of the two systems is left after the interaction.
+This, according to quantum mechanics, can be done only through further measurements, by a process known as &amp;ldquo;the reduction of the wave packet&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Superphysics</title>
+    <link>https://superphysics.org/categories/</link>
+    <description>Recent content in Categories on Superphysics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; Pantry Peers</copyright>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://superphysics.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Material Superphysics</title>
+      <link>https://superphysics.org/categories/material-superphysics/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/categories/material-superphysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Economic Solutions</title>
+      <link>https://superphysics.org/categories/economic-solutions/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/categories/economic-solutions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Superphysics</title>
+      <link>https://superphysics.org/categories/superphysics/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/categories/superphysics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medical Superphysics</title>
+      <link>https://superphysics.org/categories/medical-superphysics/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://superphysics.org/categories/medical-superphysics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

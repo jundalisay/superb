@@ -49,190 +49,45 @@
           {{ .Params.sub }}
         </h3>
 
-        <div class="columns is-mobile is-multiline my-5">  
-          {{ range .Params.tricon1 }}
-            <div class="column is-12-touch is-4-desktop p-4 has-text-centered">
-              <figure class="is-inline-block">      
-                <img src="{{ .icon }}" style="width: 100px;" class="" alt="MetaPhysics" data-sal="slide-up">
-              </figure>
-              <p class="title is-2 has-text-white">{{ .title }}</p>
-              <p class="subtitle is-4 has-text-white">{{ .subtitle }}</p>
-            </div>
-          {{ end }}
-        </div>
+        {{ with .Params.cards }}
+          {{ partial "cards.html" . }}          
+        {{ end }}
 
       </div>
     </div>
   </section>    
 
+  {{ with .Params.tricon1 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
 
-  <section class="hero has-text-centered py-6 section container">
-    <div class="h has-text-white">{{ .Params.mini1 }}</div> 
-    <h2 class="title has-text-white is-2">{{ .Params.heading1 }}</h2>
-    <h3 class="subtitle is-3" style="color: silver">{{ .Params.sub1 }}</h3>
-    <figure class="is-inline-block">
-      <a href="/superphysics">
-        <img src="/icons/sp.png" style="width: 100px;" class="" alt="">
-      </a>
-    </figure>    
-<!--     <figure class="is-inline-block">      
-      <img src="/icons/sp.png" style="width: 100px;" class="" alt="">
-    </figure> -->
-    <div class="columns is-multiline is-mobile">
-      {{ range .Params.triconsup }}      
-        <div class="column is-12-touch is-4-desktop my-5">
-          <a href="{{ .url }}">
-            <div class="card zoom-xs has-background-dark has-text-centered card-equal-height p-4" data-sal="slide-up">
-              {{ .icon |  safeHTML }}                 
-              <p class="title has-text-white is-4 mt-4">{{ .title }}</p>
-              <p class="subtitle is-5" style="color: silver">{{ .subtitle }}</p>
-            </div>
-          </a>
-        </div>
-      {{ end }}
-    </div>
-  </section>
+  {{ with .Params.articles1 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
 
+  {{ with .Params.tricon2 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
 
-  <div class="columns is-multiline is-mobile">
-    {{ range .Params.artsup }}    
-    <div class="column is-6-desktop is-12-touch embed-responsive zoom-xs" data-sal="zoom-in">
-      <a href="{{ .url }}">
-        <img src="{{ .img }}" alt="" >
-        <p class="embed-responsive-item title is-1 p-6 mb-6 has-text-white" >{{ .title }}</p>
-        <p class="subtitle is-3 px-6 has-text-light has-background-black" style="position: absolute; bottom: 1px !important">{{ .subtitle }}</p>
-      </a>
-    </div>
-    {{ end }}
-  </div>
+  {{ with .Params.articles2 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
 
+  {{ with .Params.tricon3 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
 
-  <br>
+  {{ with .Params.articles3 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
 
-  <section class="hero has-text-centered py-6 section container">
-    <div class="h has-text-white">{{ .Params.mini2 }}</div> 
-    <h2 class="title has-text-white is-2">{{ .Params.heading2 }}</h2>
-    <h3 class="subtitle is-3" style="color: silver">{{ .Params.sub2 }}</h3>
+  {{ with .Params.tricon4 }}
+    {{ partial "tricon.html" . }}          
+  {{ end }}
 
-    <a href="/material">
-      <figure class="is-inline-block">      
-        <img src="/icons/spmat.png" style="width: 100px;" class="" alt="">
-      </figure>
-    </a>    
-<!--     <figure class="is-inline-block">      
-      <img src="/icons/sp.png" style="width: 100px;" class="" alt="">
-    </figure> -->
-    <div class="columns is-multiline is-mobile">
-      {{ range .Params.triconmat }}     
-        <div class="column is-12-touch is-4-desktop my-5">
-          <a href="{{ .url }}">
-            <div class="card zoom-xs has-background-dark has-text-centered card-equal-height p-4" data-sal="slide-up">
-              {{ .icon |  safeHTML }}                 
-              <p class="title has-text-white is-4 mt-4">{{ .title }}</p>
-              <p class="subtitle is-5" style="color: silver">{{ .subtitle }}</p>
-            </div>
-          </a>
-        </div>
-      {{ end }}
-    </div>
-  </section>
-
-
-  <div class="columns is-multiline is-mobile">
-    {{ range .Params.artmat }} 
-    <div class="column is-6-desktop is-12-touch embed-responsive zoom-xs" data-sal="zoom-in">
-      <a href="{{ .url }}">
-        <img src="{{ .img }}" alt="">
-        <p class="embed-responsive-item title is-1 p-6 mb-6 has-text-white" >{{ .title }}</p>
-        <p class="subtitle is-3 px-6 has-text-light has-background-black" style="position: absolute; bottom: 1px !important">{{ .subtitle }}</p>
-      </a>
-    </div>
-    {{ end }}
-  </div>
-
-  <br>
-  <section class="hero has-text-centered py-6 section container">
-    <div class="h has-text-white">{{ .Params.mini3 }}</div> 
-    <h2 class="title has-text-white is-2">{{ .Params.heading3 }}</h2>
-    <h3 class="subtitle is-3" style="color: silver">{{ .Params.sub3 }}</h3>
-    <div class="has-text-centered">
-      <a href="/medical">      
-        <figure class="is-inline-block">      
-          <img src="/icons/spmed.png" style="width: 100px;" class="" alt=" .title }}">
-        </figure>
-      </a>
-    </div>
-    <div class="columns is-multiline is-mobile">
-      {{ range .Params.triconmed }}     
-        <div class="column is-12-touch is-4-desktop my-5" data-sal="slide-up">
-          <a href="{{ .url }}">
-            <div class="card zoom-xs has-background-dark has-text-centered card-equal-height p-4">
-              {{ .icon |  safeHTML }}                 
-              <p class="title has-text-white is-4 mt-4">{{ .title }}</p>
-              <p class="subtitle is-5" style="color: silver">{{ .subtitle }}</p>
-            </div>
-          </a>
-        </div>
-      {{ end }}
-      </div>            
-    </div>
-  </section>
-
-  <div class="columns is-multiline is-mobile">
-    {{ range .Params.artmed }}    
-    <div class="column is-6-desktop is-12-touch embed-responsive zoom-xs" data-sal="zoom-in">
-      <a href="{{ .url }}">
-        <img src="{{ .img }}" alt="" >
-        <p class="embed-responsive-item title is-1 p-6 mb-6 has-text-white" >{{ .title }}</p>
-        <p class="subtitle is-3 px-6 has-text-light has-background-black" style="position: absolute; bottom: 1px !important">{{ .subtitle }}</p>
-      </a>
-    </div>
-    {{ end }}
-  </div>
-
-
-
-  <br>
-  <section class="hero has-text-centered py-6 section container">
-    <div class="h has-text-white">{{ .Params.mini4 }}</div> 
-    <h2 class="title has-text-white is-2">{{ .Params.heading4 }}</h2>
-    <h3 class="subtitle is-3" style="color: silver">{{ .Params.sub4 }}</h3>
-  
-    <div class="has-text-centered">
-      <a href="/social">      
-        <figure class="is-inline-block">      
-          <img src="/icons/spsoc.png" style="width: 100px;" class="" alt=" .title }}">
-        </figure>
-      </a>
-    </div>
-    <div class="columns is-multiline is-mobile">
-      {{ range .Params.triconsoc }}     
-        <div class="column is-12-touch is-4-desktop my-5">
-          <a href="{{ .url }}">
-            <div class="card zoom-xs has-background-dark has-text-centered card-equal-height p-4">
-              {{ .icon |  safeHTML }}
-              <p class="title is-4 mt-4 has-text-white">{{ .title }}</p>
-              <p class="subtitle is-5" style="color: silver">{{ .subtitle }}</p>
-            </div>
-          </a>
-        </div>
-      {{ end }}
-
-    </div>            
-  </section>
-    
-  <div class="columns is-multiline is-mobile">
-    {{ range .Params.artsoc }}    
-    <div class="column is-6-desktop is-12-touch embed-responsive zoom-xs">
-      <a href="{{ .url }}">
-        <img src="{{ .img }}" alt="" >
-        <p class="embed-responsive-item title is-1 p-6 mb-6 has-text-white" >{{ .title }}</p>
-        <p class="subtitle is-3 px-6 has-text-light has-background-black" style="position: absolute; bottom: 1px !important">{{ .subtitle }}</p>
-      </a>
-    </div>
-    {{ end }}
-  </div>
-
+  {{ with .Params.articles4 }}
+    {{ partial "articles.html" . }}          
+  {{ end }}
 
 </main>
 {{ end }}
