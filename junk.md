@@ -1,7 +1,9 @@
 March 4, 1918 Kansas - May
 Sept Oct 1918 Phily Boston San Fransisco
 
-
+vanderwalls foreces
+- charge of hair vs material as magnet 
+- 
 
 {{ with .Param "design.colors.light" }}
 $light: {{ . }};

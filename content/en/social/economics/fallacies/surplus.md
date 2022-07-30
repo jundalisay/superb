@@ -11,6 +11,7 @@ heading: Economics vs Pantrynomics
 author: Juan
 icon: /icons/pantry.png
 aliases:
+  /articles/pantrynomics/producers-consumers-surplus-deadweight-loss  
   /articles/taonomics/producers-consumers-surplus-deadweight-loss
   /articles/economics/producers-consumers-surplus-deadweight-loss  
 ---

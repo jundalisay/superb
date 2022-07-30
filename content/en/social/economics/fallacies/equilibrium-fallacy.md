@@ -29,7 +29,9 @@ comments:
 <!-- That’s because Economics was built by businessmen for businessmen. Firms can raise prices at will, but you can’t ask for a raise each time prices rise. In the 17th century, they advocated a system called Mercantilism to enrich themselves. Mercantilism then mutated into neo-classical Economics via the Marginal Revolution of the 1870’s to enrich themselves with the mercantile ideas of the law of supply and demand, profit maximization, and selfish-interest. This new science created the Roaring 20s and, consequently, the Great Depression and World War II. -->
 
 
-The biggest fallacy of Economics is Market Equilibrium which is taught in basic economics or 'Econ101' everywhere as the supply and demand curve forming an 'X' and meeting in a state called 'exact equilibrium'. Smith exposed this as mercantile sophistry in the 18th century, then called the 'balance of trade'. To prove that this idea of 'balance' is the same in essence with the 'equilibrium' of economics, let's compare the philosophy behind both ideas.
+The biggest fallacy of Economics is Market Equilibrium which is taught in basic economics or 'Econ101' everywhere as the supply and demand curve forming an 'X' and meeting in a state called 'exact equilibrium'. 
+
+Adam Smith exposed this as mercantile sophistry in the 18th century, then called the 'balance of trade'. To prove that this idea of 'balance' is the same in essence with the 'equilibrium' of economics, let's compare the philosophy behind both ideas.
 
 ![suppy demand fallacy](https://sorasystem.sirv.com/charts/equilibwrong.png)
 
@@ -90,11 +92,12 @@ Plotting this, we get the same downward sloping demand curve. We thus prove that
 
 {{< box >}}
 <h3>Digression on the 'Law' of Demand: Creating the non-problem 'paradox of value' to justify the fallacy called Profit Maximization</h3>
+
 <small>Feb 2017</small>
 
-Many economists, including Samuelson, cite Smith’s example as a 'paradox of value', where in fact, there was never a paradox to Smith. Anything that is difficult to obtain yet desired by the mind, such as diamonds, simply will naturally have a higher price than that which is easy to obtain, like water. Economists create a paradox in order to justify the creation of the concept of marginal utility to ‘solve’ the paradox. This marginal utility requires the quantification of pleasure or utility, which is then ‘maximized’ as ‘profit maximization’ -- the second key fallacy being perpetrated by Economics.
+<p>Many economists, including Samuelson, cite Smith’s example as a 'paradox of value', where in fact, there was never a paradox to Smith. Anything that is difficult to obtain yet desired by the mind, such as diamonds, simply will naturally have a higher price than that which is easy to obtain, like water. Economists create a paradox in order to justify the creation of the concept of marginal utility to ‘solve’ the paradox. This marginal utility requires the quantification of pleasure or utility, which is then ‘maximized’ as ‘profit maximization’ -- the second key fallacy being perpetrated by Economics.</p>
 
-By destroying the paradox of value, then value is properly kept as subjective instead of being objectified into numerical increments. This will then make profit maximization lose its top importance in the minds of businessmen and people in general. This then will make businessmen, investors, and entrepreneurs shift their focus on the actual non-numerical, non-quantifiable benefits that their businesses create.
+<p>By destroying the paradox of value, then value is properly kept as subjective instead of being objectified into numerical increments. This will then make profit maximization lose its top importance in the minds of businessmen and people in general. This then will make businessmen, investors, and entrepreneurs shift their focus on the actual non-numerical, non-quantifiable benefits that their businesses create.</p>
 <!-- Profit Maximization Fallacy
 Profit maximization teaches businessmen to supply less, even if society needed more -->
 {{< /box >}}

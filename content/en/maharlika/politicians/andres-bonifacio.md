@@ -13,6 +13,7 @@ icon: /favicon.png
 icontext: Maharlikanism icon
 ---
 
+
 Currently, Jose Rizal is the national hero of the Philippines because of his martyrdom. Compared to the other revolutionaries and nationalists, Rizal was rich and highly educated. 
 
 - Unlike Marcelo del Pilar, he did not die of poverty from his activities
@@ -32,6 +33,11 @@ Andres Bonifacio did all of the work required for a revolution.
 - He got the revolution started
 
 Rizal, Luna, Mabini, etc were just support or professional consultants for Bonifacio, just as Duterte relies on professionals in his cabinet because he doesn’t know everything.
+
+Moreover, Bonifacio really wanted a name change for the Philippines:
+
+![KKK](/graphics/mh/boni.jpg)
+
 
 Aguinaldo was an opportunist landlord who used his wealth and influence to steal the leadership for his own interests. He used Bonifacio and Luna to gain victories and then killed them when they became threats.
 

@@ -1,5 +1,5 @@
 ---
-org: "Pantry Work"
+org: "Pantry Peers"
 description: "Maharlika and Maharlikanism are advocacies for a Philippines that is free from colonial policy mistakes inherited from the Arabs, Spanish, and Americans"
 title: "Maharlika -- A New Vision for the Philippines"
 

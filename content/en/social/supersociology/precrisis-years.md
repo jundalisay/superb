@@ -40,22 +40,36 @@ According to Eastern social cycle theory, history repeats itself because humans 
 > *We make this absurd analogy just to associate the eastern idea to something familiar to the reader (who we assume is Christian since this article is in English). We do not need to make this analogy in the Chinese or Vietnamese versions.
 
 
-This interaction between the 2 forces creates a recurring pattern while their existence is in force, just as the 2 forces of the Sun and outer space create a tug-of-war for the Earth manifesting as its orbital pattern. We will use the name *Shiva-Shakti* since its principles are better known, so that a gravitation that pulls the Earth to the sun is a 'Shakti-force', while the vastness of space is a 'Shiva-force'.
+This interaction between the 2 forces creates a recurring pattern while their existence is in force, just as the 2 forces of the Sun and outer space create a tug-of-war for the Earth manifesting as its orbital pattern. 
+
+We will use the name *Shiva-Shakti* since its principles are better known. In this way:
+- the gravitation that pulls the Earth to the sun is a 'Shakti-force'
+- the vastness of space is a 'Shiva-force'
 
 
 ## Social Cycles
 
-David Hume explained that, among human organisms, the concept of the self arises from human experiences which come from human senses which are limited by nature. When you buy a stock, you won't know if its price will rise or fall because you cannot sense all the thoughts of all the other buyers and sellers of that stock. So you buy it based on your own limited sensory experiences. Putting this under the two-forces model, we can say that the rise in stock prices is a manifestation of the Shiva-force, while the decline of prices is from the Shakti-force.
+David Hume explained that, among human organisms, the concept of the self arises from human experiences which come from human senses which are limited by nature. 
+
+For example, when you buy a stock, you won't know if its price will rise or fall. This is because you cannot sense all the thoughts and feelings of all the other buyers and sellers of that stock. So you buy it based on your own limited sensory experiences. 
+
+Putting this under the 2-forces model, we can say that:
+- the rise in stock prices is a manifestation of the Shiva-force
+- the decline of prices is from the Shakti-force
 
 <!-- <img src="https://sorasystem.sirv.com/avatars/hume.png" width="300px">
 <figcaption>David Hume is the big daddy of our Superphysics which [Taonomics](/taonomics) comes from</figcaption> -->
 
 
-The combination of all your individual experiences makes up your metaphysical self-organism, commonly called the 'soul'. A soul can have many selves, but a self can have only one soul.
+The combination of all your individual experiences makes up your metaphysical self-organism, commonly called the ['soul'](/medical/mental/principles/idea-of-self). 
 
-When all the individual experiences of all the people (self-organisms) in your country are combined, the result is a larger metaphysical organism called a society. This has its own soul which can call the 'soul of society'. Each personal-soul has a conscience just as every society-soul has a common interest. 
+A soul can have many selves, but a self can have only one soul.
 
-Each society-organism then expresses its collective experiences as events, just as a personal-soul expresses itself through action.
+When all the individual experiences of all the people (self-organisms) in your country are combined, the result is a larger metaphysical organism called a society. This has its own soul which can call the 'soul of society'. Each personal-soul has a self-interest just as every society-soul has a common-interest.
+
+<!-- conscience (which we call 'the experiencer') -->
+
+Each society-organism then expresses its collective experiences as events, just as a personal-soul expresses itself through individual action.
 - A stock bubble is a manifestation of a society-organism wanting or choosing stocks (as shiva-force)
 - A presidential election is a society-organism choosing a leader (also as shiva)
 - A war is a manifestation of a society-organism wanting a fight (shakti-force) with other society-organisms, and so on
@@ -141,20 +155,20 @@ The end effect depressions and stagflations are conflicts or wars, since they ar
 
 
 {{< box >}}
-  <div class="columns is-mobile">
-    <div class="column is-6-desktop is-12-mobile">    
-      <img src="/countries/us/trump.jpg" alt="Trump with red cap">
-    </div>
-    <div class="column is-6-desktop is-12-mobile">    
-      <h3 class="subtitle is-4 text-white">Update 2018: 2008-2018 as Iteration 1, 2019-2030 as Iteration 2</h3>
-      <p>
-      America is already great, but Trump wants to make it even greater through a trade war and this will actually make America worse off. Trump is proof that the mentality that created the 1929 Crash and the 2008 Financial Crisis is still alive and kicking, due to the lack of an effective moral system to counter it.
-      </p>
-      <p>
-      If the mentality still exists, then it means the crisis patterns must also follow, which our model predicts to be stagflation sparking in 2019, gathering steam towards 2030, climaxing as conflict.
-      </p>
-    </div>
+<div class="columns is-mobile">
+  <div class="column is-6-desktop is-12-mobile">    
+    <img src="/countries/us/trump.jpg" alt="Trump with red cap">
   </div>
+  <div class="column is-6-desktop is-12-mobile">    
+    <h3 class="subtitle is-4 text-white">Update 2018: 2008-2018 as Iteration 1, 2019-2030 as Iteration 2</h3>
+    <p>
+    America is already great, but Trump wants to make it even greater through a trade war and this will actually make America worse off. Trump is proof that the mentality that created the 1929 Crash and the 2008 Financial Crisis is still alive and kicking, due to the lack of an effective moral system to counter it.
+    </p>
+    <p>
+    If the mentality still exists, then it means the crisis patterns must also follow, which our model predicts to be stagflation sparking in 2019, gathering steam towards 2030, climaxing as conflict.
+    </p>
+  </div>
+</div>
 {{< /box >}}
 
 
