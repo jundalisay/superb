@@ -36,7 +36,7 @@ https://sorasystem.sirv.com/graphics/f-cut.jpg -->
 
 A truth is a direct relation and equivalence of a metaphysical idea to a physical reality or manifestation. A fallacy is a non-equivalence. “Unicorns exist” is true if they are perceivable by all and false if not perceivable.
 
-![Sophistry diagram](https://sorasystem.sirv.com/graphics/f-sophistry.jpg)
+![Sophistry diagram](/graphics/logic/sophistry.jpg)
 
 A truthful logic leads to an idea that everyone can perceive or exist in reality. A false logic directly leads to an idea that does not exist or cannot persist (just as some subatomic particles exist only for a few nanoseconds). These are called “formal fallacies”
 

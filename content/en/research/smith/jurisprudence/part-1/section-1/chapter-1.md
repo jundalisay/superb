@@ -11,7 +11,7 @@ linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-2"
 linkftext=  "Chapter 2"
 +++
 
-Two principles induce men to enter into a civil society= 
+Two principles induce men to enter into a civil society:
 - Principle of authority
 - Principle of utility
 

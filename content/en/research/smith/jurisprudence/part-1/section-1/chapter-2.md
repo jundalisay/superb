@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 +++
 title=  "The Nature Of Government And Its Progress In The First Ages Of Society"
 # heading=  "Chapter 2 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"

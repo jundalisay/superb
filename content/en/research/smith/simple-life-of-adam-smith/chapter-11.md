@@ -7,8 +7,9 @@ image=  "/covers/life.jpg"
 linkb=  "/research/smith/simple-life-of-adam-smith/chapter-10"
 linkbtext=  "Chapter 10"
 linkf=  "/research/smith/simple-life-of-adam-smith/chapter-12"
-linkftext=  "Chapter 11"
+linkftext=  "Chapter 12"
 +++
+
 
 Rev. William Ward of Broughton was the chaplain to the Marquis of Rockingham.
 - In 1763, he brought out his Essay on Grammar.

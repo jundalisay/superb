@@ -18,4 +18,4 @@ aliases:
   /solutions/pantrynomics/pointtax  
 ---
 
-We have moved this to [Pantrypoints](https://pantrypoints.com/articles/pointtax)
+We have moved this to [Pantrypoints](https://pantrypoints.com/docs/pantrynomics/pointtax)

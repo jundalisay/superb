@@ -19,4 +19,4 @@ aliases:
   /social/economics/investment-points  
 ---
 
-We have moved this to [Pantrypoints](https://pantrypoints.com/articles/investment-points)
+We have moved this to [Pantrypoints](https://pantrypoints.com/docs/pantrynomics/investment-points)

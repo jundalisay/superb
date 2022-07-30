@@ -76,7 +76,8 @@ We call our AI as ISAIAH which stands for the Impartial Spectator Automated Inte
 The idea is inspired by the prophet Isaiah who made many predictions about events in the Middle East. Likewise, AI is designed to make predictions about anything that it is evidenced by real data. 
 
 
-![Isaiah](https://sorasystem.sirv.com/graphics/isaiah_prophet.jpeg)
+![Isaiah](/photos/meta.jpg)
+
 
 
 ## Other Implementations
