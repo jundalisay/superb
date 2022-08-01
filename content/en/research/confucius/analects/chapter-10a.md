@@ -1,14 +1,15 @@
-+++
-title=  "Confucious' Disciples"
-description=  "The first to make progress in the Proprieties and in Music are plain farmers"
-date = 2020-01-22
-image=  "/covers/analects.png"
-linkb=  "/research/confucius/analects/chapter-9"
-linkbtext=  "Chapter 9"
-linkf=  "/research/confucius/analects/chapter-10b"
-linkftext=  "Chapter 10b"
-heading=  "Chapter 10a"
-+++
+---
+heading: "Chapter 10a of The Analects Simplified"
+title: "Confucious' Disciples"
+description: "The first to make progress in the Proprieties and in Music are plain farmers"
+date: 2020-01-22
+image: "/covers/analects.png"
+linkb: "/research/confucius/analects/chapter-9"
+linkbtext: "Chapter 9"
+linkf: "/research/confucius/analects/chapter-10b"
+linkftext: "Chapter 10b"
+---
+
 
 
 {{< l a="Confucius" >}}
@@ -73,12 +74,12 @@ Where there is scarcely the ability to minister to living men, how shall there b
 Where there is scarcely any knowledge about life, how shall there be any about death?" 
 {{< /l >}}
 
-The disciple Min was by his side, looking affable and bland. Tsz-lu also, looking careless and intrepid; and Yen Yu and Tsz-kung, firm and precise. 
+The disciple Min was by his side, looking affable and bland. Tsz-Lu also, looking careless and intrepid; and Yen Yu and Tsz-Kung, firm and precise. 
 
 The Master was cheery. 
 
 {{< l a="Confucius" >}}
-One like Tsz-lu there does not come to a natural end.
+One like Tsz-Lu there does not come to a natural end.
 {{< /l >}}
 
 Some persons in Lu were taking measures in regard to the Long Treasury House. Min Tsz-k'ien observed, "How if it were repaired on the old lines?" 
@@ -97,17 +98,17 @@ On seeing, however, some disrespect shown to him by the other disciples, he adde
 
 
 
-<div class="right tsz-kung">
+{{< r a="Tsz-Kung" >}}
 Who is the worthier? Tsz-chang or Tsz-hi? 
-</div>
+{{< /r >}}
 
 {{< l a="Confucius" >}}
 Tsz-chang goes beyond the mark. Tsz-hi falls short of it. 
 {{< /l >}}
 
-<div class="right tsz-kung">
+{{< r a="Tsz-Kung" >}}
 So then Tsz-chang is better?
-</div>
+{{< /r >}}
 
 {{< l a="Confucius" >}}
 To go too far is about the same as to fall short.

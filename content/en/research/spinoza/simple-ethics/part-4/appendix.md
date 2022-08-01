@@ -48,6 +48,7 @@ Everyone without exception may, by sovereign right of nature, do whatsoever he t
 
 9. Nothing can be in more harmony with the nature of any given thing than other individuals of the same species.
 Therefore (cf. 7) for man in the preservation of his being and the enjoyment of the rational life there is nothing more useful than his fellow-man who is led by reason.
+
 Further, as we know not anything among individual things which is more excellent than a man led by reason, no man can better display the power of his skill and disposition, than in so training men, that they come at last to live under the dominion of their own reason.
 
 10. In so far as men are influenced by envy or any kind of hatred, one towards another, they are at variance, and are therefore to be feared in proportion, as they are more powerful than their fellows.   

@@ -51,17 +51,18 @@ Modern Economics began with Paul Samuelson's neo-classical synthesis which descr
 <cite>Paul Samuelson, Economics, Chapter 4 Supply and Demand: The Bare Elements, page 61</cite>
 {{< /quote >}}
 
-> *Instead of a demand schedule, pantrynomics uses the modern economic table of the Physiocrats to determine the real price of everything in real-time. If everyone knows the real price of everything, then information asymmetry and profit maximization stop existing. Consequently, economic crises no longer have a chance to form. 
+> *Instead of a demand schedule, pantrynomics uses the modern economic table of the Physiocrats to determine the real price of everything in real-time. If everyone knows the real price of everything, then information asymmetry and profit maximization stop existing. Consequently, economic crises no longer have a chance to form. The maxim 'prevention is better than cure' applies to an economy just as it applies to health,
+
 
 
 ![Downward Demand Curve](https://sorasystem.sirv.com/charts/demsup/eq1.png)
 
-He then goes through a few more paragraphs to prove this. 
+Samuelson then goes through a few more paragraphs to prove this. 
 
 
 ### Smith's Version
 
-Smith uses only four sentences to explain this from the viewpoint of an impartial spectator (not as a buyer nor seller):
+Smith uses only 4 sentences to explain this from the viewpoint of an impartial spectator (not as a buyer nor seller):
 
 {{< quote ava="smith" >}}
 <p>The things which have the greatest value in use have frequently little or no value in exchange. On the contrary, those which have the greatest value in exchange have frequently little or no value in use. Nothing is more useful than water: but it will purchase scarce any thing; scarce any thing can be had in exchange for it. A diamond, on the contrary, has scarce any value in use; but a very great quantity of other goods may frequently be had in exchange for it.</p>
@@ -69,7 +70,9 @@ Smith uses only four sentences to explain this from the viewpoint of an impartia
 {{< /quote >}}
 
 
-Like Smith, Samuelson also gives the example of water. However, Samuelson's version **observes this phenomenon from the viewpoint of business or the supplier first** instead of the buyer or demander. This is important because in reality, the buyers are made up of people in society. This subtle fact might not catch the attention of a casual reader, but it can be seen by a dialectician (a non-shallow philosopher).
+Like Smith, Samuelson also gives the example of water. 
+
+However, Samuelson's version **observes this phenomenon from the viewpoint of business or the supplier first** instead of the buyer or demander. This is important because in reality, the buyers are made up of people in society. This subtle fact might not catch the attention of a casual reader, but it can be seen by a dialectician (a non-shallow philosopher).
 
 {{< quote ava="sam" >}}
 Thus a first reason for the validity of the law of downward-sloping demand comes from the fact that lowering prices brings in new buyers.
@@ -160,8 +163,7 @@ When the price of any commodity is neither more nor less than what is sufficient
 
 ![Real Downward Supply Curve](https://socioecons.files.wordpress.com/2015/08/image002.jpg)
 
-Unlike the producer's or mercantile supply curves which slope upwards, Smith's [pantrynomic](/social/economics/principles/second-law) supply curve slopes downward to represent less effort and energy expense while production increases, in a phenomenon called **economies of scale or division of labour**. 
-
+Unlike the producer's or mercantile supply curves which slope upwards, Smith's [pantrynomic](/social/economics/principles/second-law) supply curve slopes downward to represent less effort and energy expense while production increases. This phenomenon is called **economies of scale or division of labour**. 
 
 
 Why does Samuelson's costs go up with more production, while Smith's costs go down, properly leading to lower prices? This is simply because Smith and Samuelson's costs **are seen from different positions**:
@@ -180,7 +182,9 @@ Often an individual firm’s ability to respond to an increase in price is const
 
 ## The Supply Curve of Economics is Wrong (Unnatural)
 
-**This admission means that the upward sloping supply curve is unnatural.** If a company is unable to supply the needs of its customers, then other companies can enter and address those needs, relieving the original company of the need to produce unnaturally and inefficiently. 
+**This admission means that the upward sloping supply curve is unnatural.** 
+
+If a company is unable to supply the needs of its customers, then other companies can enter and address those needs, relieving the original company of the need to produce unnaturally and inefficiently. 
 
 Therefore, the upward sloping curve can only be true if the company had a monopoly and could charge high prices at higher quantities. This means that both the mercantilist and manufacturer's supply curves exist only in a non-free world, or one that follows a survival-of-the-fittest doctrine, which Smith explains simply:
 
@@ -191,7 +195,9 @@ The price of monopoly is.. the highest.. The natural price, or the price of free
 
 Thus, we see that the supply curve of modern economics, first established in the 1870's in Europe and then globally through Samuelson, unnoticeably establishes the idea of monopoly, war, and trade war as a natural state. 
 
-Update July 2021: This is consistent with history:
+
+{{< me d="July 2021" >}}
+This is consistent with history:
 - World War I on July 1914 and II on Septmber 1, 1939
 - The Cuban Missle Crisis and the Vietnam War in the 1960s
 - The Latin American debt crisis in the 1970s
@@ -199,3 +205,10 @@ Update July 2021: This is consistent with history:
 - The mergers and acquisitions in the 1990s
 - The Financial Crisis in 2007   
 - The War against the Amazon rainforest in 2019 resulting in Covid   
+{{< /me >}}
+
+In reality, the natural supply and demand curves both slope downwards, representing a single human society as shown below. 
+
+![Supply Demand](/charts/econ/supplydemand.png)
+
+The next post will explain the unified supply and demand curves. 

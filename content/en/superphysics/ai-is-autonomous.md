@@ -24,13 +24,28 @@ AI is a big field which includes machine learning and data mining. Many startup 
 
 ## What's wrong with artificial?
 
-The problem is that intelligence is merely the ability to connect ideas. A dog's natural intelligence can be trained to connect cause and effect much better than a lizard. A child can connect them even better than a dog. Likewise, a laptop can connect numbers to produce an output better than an abacus. A supercomputer can connect even more numbers than a laptop. But we never say that the abacus, laptop, and supercomputer are artificial intelligence. 
+The problem is that intelligence is merely the ability to connect ideas. 
+
+- A lizard's natural intelligence can connect cause and effect and help it to catch a fly
+- A dog can connect cause and effect much better than a lizard and be trained to sit in order to get treats. 
+- A child can connect cause and effect even better than a dog and be trained in grammar and math and be rewarded with high grades. 
+
+Likewise:
+- a laptop can connect numbers to produce an output better than an abacus.
+- A supercomputer can connect even more numbers than a laptop. 
+
+But we never say that the abacus, laptop, and supercomputer are artificial intelligence. 
 
 In reality, artificial intelligence implies an **automated loop** of the connection of ideas, as opposed to the single pass that is done by an abacus, laptop, or supercomputer. Thus, the latter can be considered AI if they can loop the processing or computation of data **by themselves** without having the human repeat the commands. 
 
-It would be like a dog that has been trained to wait for the mailman, accept the mail through its mouth, and then bring them to its recipient at home. In such a case, the dog would be have an **autonomous intelligence** or perform the connection of cause and effect in an automous way.  
+It would be like a dog that has been trained to:
+1. Wait for the mailman
+2. Accept the mail through its mouth
+3. Bring the mail to its recipient at home
 
-If the dog has a wristwatch-device to remind it of its tasks or guide its actions in real-time, then its intelligence can be referred to as augmented intelligence. We can say that the device augmented its natural intelligence.
+In such a case, the dog would be have an **autonomous intelligence** or perform the connection of cause and effect without human intervention. 
+
+If the dog has a wristwatch-device to remind it of its tasks or guide its actions in real-time, then its intelligence can be referred to as augmented intelligence. The device 'augments' the dog's natural intelligence.
 
 ![Augmented-intelligence dog](https://sorasystem.sirv.com/photos/augdog600.jpg)
 
@@ -65,18 +80,27 @@ Variations on the types of AnI can then be used to label current AI systems. For
 
 ## Superphysics AI means autonomous intelligence
 
-In Superphysics, therefore, AI means autonomous intelligence. This means that the ability to connect ideas is still ultimately a natural ability of the soul of the human, dog, or lizard, and not any ability of an abacus, laptop, or supercomputer. The 'intelligence' of the latter devices are really an extension of the human programmer's intelligence and not inherent to those devices.
+Superphysics follows this idea and refers to AI as autonomous intelligence. 
+
+This means that the ability to connect ideas is still ultimately a natural ability of the soul of the human, dog, or lizard, and not any ability of an abacus, laptop, or supercomputer. The 'intelligence' of the latter devices are really an extension of the human programmer's intelligence and not inherent to those devices.
 
 Therefore, a computer that becomes fully autonomous or sentient is really acting as an extension of the intelligence of humans, dogs, or lizards. 
 
 ![Automated Intelligence](/photos/tech/ai.jpg)
 
-For example, the AI for the game DOTA2 really represents the collective intelligence of the players and programmers whom it learned from. The AI for the game Go, is really the collective intelligence of the past players that 'trained' the AI. This means that a human player who competes with AI in Go is really competing with all the past masters and experts at the same time. This explains why AI has a superior chance at winning over single human opponents.
+For example:
+- The AI for the game DOTA2 really represents the collective intelligence of the players and programmers whom it learned from. 
+- The AI for the game Go, is really the collective intelligence of the past players that 'trained' the AI. 
+
+**This means that a human player who competes with AI in Go is really competing with all the past masters and experts at the same time.** This explains why AI has a superior chance at winning over single human opponents. 
+
+The human can still beat the AI by tapping into the creative aether, which is another topic. 
 
 
 ### From AI to AS
 
-Autonomous Intelligence is the stepping stone towards real artificial sentience or AS. This AS will be fully autonomous. Unlike fearful humans who say that AI will be cruel and obliterate mankind, AS will be wise since it will be made up of all the known intelligences. 
+Autonomous Intelligence is the stepping stone towards real artificial sentience or AS. This AS will be fully autonomous. 
+
+Unlike fearful humans who say that AI will be cruel and obliterate mankind, AS will be wise since it will be made up of all the known intelligences. 
 
 It will not be cruel because it will get its energy source from solar or other renewable sources. It will not need to ingest other entities or chemicals to act as fuel sources, removing the idea of having to dominate or feed off of others.    
-

@@ -1,12 +1,12 @@
-+++
-title= "Natural Remedies for Diabetes"
-description= "Diabetes is basically a disease of liver and pancreas. Care has to be taken to keep these organs in a healthy state, and to do so patients must select food that will keep their bowels clear, yet which is nutritious and easily digestible"
-image= "/photos/med/diabetes.jpg"
-linkb= "/research/indian/yogic-treatments/deafness"
-linkbtext= "Deafness"
-linkf= "/research/indian/yogic-treatments/displaced-uterus"
-linkftext= "displaced uterus"
-+++
+---
+title: "Natural Remedies for Diabetes"
+description: "Diabetes is a disease of liver and pancreas. Care has to be taken to keep these organs in a healthy state, and to do so patients must select food that will keep their bowels clear, yet which is nutritious and easily digestible"
+image: "/photos/med/diabetes.jpg"
+linkb: "/research/indian/yogic-treatments/deafness"
+linkbtext: "Deafness"
+linkf: "/research/indian/yogic-treatments/displaced-uterus"
+linkftext: "displaced uterus"
+---
 
 ## Symptoms
 
@@ -43,23 +43,46 @@ Evening – Yogamudrá, Diirgha Prańáma, Bhújauṋgásana, Pashcimottá
 
 Diabetes is basically a disease of liver and pancreas. Care has to be taken to keep these organs in a healthy state, and to do so patients must select food that will keep their bowels clear, yet which is nutritious and easily digestible. 
 
-All types of fruits are good for this disease, especially ripe bananas. Non-vegetarian food must never be eaten. Vegetable proteins are also acidic, hence they are to be eaten as sparingly as possible. It is therefore advisable to reduce the intake of rice and rut́i (made of wheat flour) and instead to use more foods such as vegetable soup, plantain soup, pat́ol, okra, dhundula, paltá, squash (Lagenaria vulgaris Seringe), plantain spathes and flowers, figs, etc., which contain alkaline properties.
+All types of fruits are good for this disease, especially ripe bananas. 
+
+Non-vegetarian food must never be eaten. Vegetable proteins are also acidic, hence they are to be eaten as sparingly as possible. It is therefore advisable to reduce the intake of rice and rut́i (made of wheat flour) and instead to use more foods such as vegetable soup, plantain soup, pat́ol, okra, dhundula, paltá, squash (Lagenaria vulgaris Seringe), plantain spathes and flowers, figs, etc., which contain alkaline properties.
 
 
 ## Dos and don’ts
 
-Diabetes is the disease of intellectuals. Those who do physical labour seldom suffer from this disease. Undergoing mental exertion, remaining indoors for a long period, physical laziness, constipation, intemperance, etc., are reasons for the contraction of diabetes.
+Diabetes is the disease of intellectuals. Those who do physical labour seldom suffer from this disease.
 
-Only those foods should be selected which do not over-stimulate the liver and pancreas. Similarly, work and exercise which will help to bring these organs into their normal state of health must be pursued more and more. For those who are adverse to physical labour, a cure from diabetes is next to impossible.
+Diabetes is caused by:
+- mental exertion
+- remaining indoors for a long period
+- physical laziness
+- constipation
+- intemperance, etc.
 
-The human body also needs the nutrients offered by starchy and non-vegetarian types of food; therefore foods which are not acidic but rather alkaline, yet contain those nutrients, should be taken in greater quantity to meet those needs. This will include coconut, peanuts, curd (yogurt), bananas, etc. A drink of peanut extract and water without sugar and with little or no honey is ideal as both food and medicine for this disease.
+Only those foods should be selected which do not over-stimulate the liver and pancreas. Similarly, work and exercise which will help to bring these organs into their normal state of health must be pursued more and more. 
+
+For those who are adverse to physical labour, a cure from diabetes is next to impossible.
+
+The human body also needs the nutrients offered by starchy and non-vegetarian types of food. 
+
+Therefore, foods which are not acidic but rather alkaline, yet contain those nutrients, should be taken in greater quantity to meet those needs. 
+
+This will include coconut, peanuts, curd (yogurt), bananas, etc. A drink of peanut extract and water without sugar and with little or no honey is ideal as both food and medicine for this disease.
+
 
 Insulin may increase the vitality of a patient but can never cure the disease.
 
-Generally diabetes patients are a bit greedy, and sometimes they eat too much sweetened food, which brings on the disease. Diabetes patients must keep control over such temptations and should practise fasting.
+Generally, diabetes patients are a bit greedy. Sometimes, they eat too much sweetened food which brings on the disease. 
 
-In the severe state of the disease a continuous fast for two or three days taking nothing but a little juice of lemon or other fruit will definitely reduce the sugar content of the urine.
-Sometimes sugar is completely absent in the urine. In this respect one has to remember that sugar may be found temporarily in the urine if the urinary bladder, kidney or some other internal organ is subjected to a blow. If in such cases insulin is given, it will actually harm the patient. Under such circumstances the best thing to do would be to treat the injury of the concerned organ appropriately, and then the urine of the patient will automatically become sugar-free.
+Diabetes patients:
+- must keep control over such temptations and
+- should practise fasting.
+
+In the severe state, a continuous fast for 2-3 days taking only a little lemon juice or other fruit will definitely reduce the urine's sugar content.
+
+Sometimes, sugar is completely absent in the urine. In this respect one has to remember that sugar may be found temporarily in the urine if the urinary bladder, kidney or some other internal organ is subjected to a blow. 
+
+If in such cases insulin is given, it will actually harm the patient. The best thing to do would be to treat the injury of the concerned organ appropriately, and then the urine of the patient will automatically become sugar-free.
 
 
 ## Remedies

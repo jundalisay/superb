@@ -2,7 +2,7 @@
 title: "The Mind and the 10 Energies"
 #, Práńendriya and Vrtti
 heading: "Chapter 4 "
-date: 2022-01-31
+date: 2022-01-22
 description: "By division and decimation, solids get metamorphosed into subtler layers. This creates the unit mind."
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-03b"

@@ -14,17 +14,43 @@ icon: /icons/sp.png
 
 
 In the [previous post](/superphysics/principles/god), we explained that there are only two things in Existence:
-- experience
-- experiencer
 
-Experience is split up into ideas and feelings. Feelings then have two categories:
-- the impersonal part of Existence as the Matrix (or Brahma, Tao, Sunya, the Whole)
-- the personal part of Existence as the Supreme Entity (or God, Allah, Yahweh, Kali, Ganesh, etc. which are really created by the positive feelings of the experiencer) 
+1. Experience
+2. Experiencer
 
-The Experiencer has two parts as mind and consciousness. The mind is an arena or container for experiences for consciousness. 
+Experience is Latin for `ex` (outwards) `+ periri` (try or undergo). We split it up into:
 
-- A consciousness with an active mind is a living thing
-- A consciousness with an inactive mind is a non-living thing, due to the confinement of the Negative Force
+1. Ideas
+2. Feelings
+
+Feelings then have 2 categories:
+
+1. The impersonal part of Existence as the Matrix (or Brahma, Tao, Sunya, the Whole)
+2. The personal part of Existence as the Supreme Entity (or God, Allah, Yahweh, Kali, Ganesh, etc. which are really created by the positive feelings of the experiencer) 
+
+The Experiencer has 2 parts:
+
+1. Mind
+2. Consciousness 
+
+"Conscious" is Latin for 'with knowing' from `con + scire`. The problem is that knowing is the last phase of the process of experience, as the closed loop menionted [here](/superphysics/principles/matrix).
+
+Knowledge is experience in its final form. To denote experience in its basic or non-final form, we use the word **'perceiver'** instead of consciousness.
+- Perceive is Latin for 'by the taking' which is similar to 'receive' and 'conceive' (i.e. we receive and conceive of experiences)   
+
+The journey from the conceptualization of an idea to its actual experience is powered by feelings which itself is powered by 2 forces*:
+1. The Positive Force (Yang or Shiva)
+2. The Negative Force (Yin or Shakti) 
+
+<!-- These 2 forces cause anything and everythig to have 3 states:
+1. 
+2. 
+3.  -->
+
+The mind is an arena or container for experiences for the perceiver or consciousness. 
+
+- A perceiver with an active mind is a living thing, due to the energy from the Positive Force
+- A perceiver with an inactive mind is a non-living thing, due to the confinement of the Negative Force
 
 ![Audience](https://sorasystem.sirv.com/photos/audience.jpg)
 
@@ -42,51 +68,77 @@ This processing turns ideas into thoughts and makes the difference* between 'ide
 - The thinking is done by the mind, leading to thought*
 - The experiencer (consciousness) then experiences the thought -->
 
-> *We can say that idea is the cause and thought is the effect
+> *We can say that 'idea' is the cause, while 'thought' is the effect
 
 
 
-## Consciousness is the state of perception
+## The Perceiver or Consciousness is the State of Perception
 
-While mind can be either active or inactive, consciousness can only be 'on' or 'off' just as something can exist or not exist. This means that consciousness is not a thing or substance, but is merely **a state of an identity that determines whether it perceives or not.**
+While mind can be either active or inactive, the perceiver can only be 'on' or 'off' just as something can exist or not exist. 
 
-The dynamics of the two forces implies that **everything is conscious, having the ability to perceive**. It is the inability of some identities to express those perceptions, due to the influence of the Negative Force, that makes things not seem to be aware. But the fact that they react to actions done onto them is proof that they are aware. 
+This means that consciousness is not a thing or substance, but is merely **a state of an identity that determines whether it perceives or not.**
+
+The dynamics of the two forces implies that **everything is conscious, having the ability to perceive**. 
+
+It is the inability of some identities to express those perceptions, due to the influence of the Negative Force, that makes things not seem to be aware or lack any perception-ability. But the fact that they react to actions done onto them is proof that they are aware. 
 
 For example, ice thaws when heated. This reaction is proof that the ice atoms were able to perceive the heat and reacted accordingly. **There is nothing that does not react to actions done on it.**  This is proof that the universe is aware and conscious even if their reactive potential is very limited. 
 
-This removes any mystical connotation on what consciousness is. Instead, the mystery is with the nature of the mind and the infinity of its ideas and feelings. 
+The consciousness in a piece of paper is proven when it is:
+- falls to the ground (reacts to gravity)
+- lifted by the air (reacts to aerodynamics)
+- burns from a flame (reacts to thermodynamics)
+- cut by scissors (reacts to contact forces)
+- and so on
+
+A piece of paper that does not react to gravity, air, scissors, fire, etc has no consciousness. But such a paper has never been observed and therefore does not exist.
+
+This removes any mystical connotation on what consciousness or the perceiver is. Instead, the mystery is with:
+- the nature of the mind that houses it, and
+- what its perceptions are (i.e. how does a piece of paper feel about being cut, burned, or written on?)
 
 
 <!-- This means that consciousness is the effect of existence and cannot possibly exist without the idea of existence. -->
 
-Since consciousness, perception, and existence go hand in hand, does this mean that consciousness is the cause of existence? We experience the existence of a new day after we wake up and regain our consciousness. Therefore, consciousness causes existence, right?
+Since consciousness, perception, and existence go hand in hand, does this mean that consciousness is the cause of existence? 
+
+We experience the existence of a new day after we wake up and regain our consciousness. Therefore, consciousness causes existence, right?
 
 This is not entirely correct because behind the waking up of consciousness is the *desire* to wake up. Thus, **desire is the real cause of existence.** 
 
-For example, if my entity (as my ego*) wants to experience the existence of a pink elephant, then it will direct my mind to create one from my memories of an elephant and the color pink. It will then be experienced by my consciousness, fulfilling my ego's requirement. 
+For example, if my entity (as my ego*) wants to experience the existence of a pink elephant, then it will direct my mind to create one from my memories of an elephant and the color pink. It will then be experienced by my perceiver (my consciousness), fulfilling my ego's requirement.
 
 
 > *Ego is the feeling of the self. 'Feeling' itself is a wave and the base material of 'desire'.
 
 
-In this case, the existence of the pink elephant in my mind needed four ingredients*:
+In this case, the existence of the pink elephant in my mind needed 4 ingredients*:
 
 1. A desire to experience a pink elephant 
 2. A memory of the color pink and an elephant
 3. A mind where those are combined to create the metaphysical pink elephant
-4. A consciousness to perceive it
+4. A consciousness or perceiver to perceive it
 
 > *Most of our volunteers are software developers so it's normal for us to painstakingly catch and list all the steps in any process
 
 
-Thus, existence is the effect. Desire is the cause. The idea-particle that took the form of a pink elephant was caused by the desire-wave for it.  
+Thus:
+- existence is the effect
+- desire is the cause
 
-A lot of metaphysical doctrines and moral philosophies emphasize consciousness and mind, but do not look into the nature of desire and feelings of the mind. 
+Technically, the idea-particle that took the form of a pink elephant was caused by the desire-wave for it.
+
+A lot of metaphysical doctrines and moral philosophies emphasize consciousness and mind, **but do not look into the nature of desire and feelings of the mind**. In fact, we found only 3 authors so far who have explained feelings:
+
+1. Spinoza
+2. David Hume, as moral feelings
+3. Ibn Khaldun, as group feelings
+
 
 These desires are such a powerful principle that it even leads to the invention of concepts such as God*, Allah, Yahweh, Jehovah, Kali, Ganesh, etc. as stated in the previous post. 
 
 
-> *Atheists often bash religions for believing in arbitrary Deities. They do not realize that those Deities are a symptom of the natural mental or metaphysical limitation of most humans. Bashing a religion would be like bashing a disabled person for being disabled. The moral solution is to not bash the disabled, but on the contrary, to give them more assistance than ordinary. This is why Superphysics embraces religions and focuses on their common traits and feelings, instead of dwelling on their differences.
+> *Atheists often bash religions for believing in arbitrary Deities. They do not realize that those Deities are a symptom of the natural mental or metaphysical limitation of most humans. Bashing a religion would be like bashing a disabled person for being disabled. The moral solution is to not bash the disabled, but on the contrary, to give them more assistance than ordinary. This is why Superphysics embraces religions and focuses on their common traits and feelings, instead of dwelling on their differences. However, Superphysics goes against the dogma in each religion.
 
 
 <!-- Religions often talk about the Creator such as God or Allah, but do not explain Their motives for creating the universe. Thus, it is difficult for them to answer questions about the universe. 
@@ -99,6 +151,7 @@ The different versions of the Supreme Entity as God, Yahweh, Allah, Brahma, etc 
 - The Romans desired a Supreme Entity that was imperial but merciful and so they invented God from the Yahweh base-idea 
 - The Prophet Mohammad desired a Supreme Entity that would force the Arabs into submission and so he invented Allah, also from the Yahweh base-idea
 - The Hindus desired a Supreme Entity that explained everything and so they invented Brahma -->
+
 
 ## Mentality Creates Reality
 
@@ -151,13 +204,18 @@ This flip is the same as a rescuer securing himself before securing others. The 
 2. Consciousness
 3. Mind -->
 
-Desire activates or 'turns on' consciousness which then activates or creates mind. 
+Desire activates or 'turns on' consciousness or the perceiver which then activates or creates mind. 
 
-<!-- Nirguna Brahma --> The Supreme Entity (as Pre-existence) wanted to exist and so It became <!-- Saguna Brahma --> the Supreme Entity (Existence). Why It wanted to exist is outside the scope of Superphysics and falls within metaphysics or religion (dogmatic metaphysics). 
+<!-- Nirguna Brahma --> 
 
-Consciousness thus has only one task: to experience existence.  In addition, consciousness is only binary, as either on or off:
-- A consciousness that is off is unconscious and not experiencing. This implies that desire has left it just as electricity has left a light bulb as to turn it off
-- A consciousness that is on is conscious and experiencing. This implies that it has desire in it just as a glowing light bulb means it has electricity in it
+The Absolute Entity (as Pre-existence) wanted to exist and so It became <!-- Saguna Brahma --> the Supreme Entity (Existence). Why It wanted to exist is outside the scope of Superphysics and falls within metaphysics or religion (dogmatic metaphysics). 
+
+
+The perceiver or consciousness thus has only one task: to experience existence.  
+
+In addition, the perceiver is only binary, as either on or off:
+- A perceiver that is off is unconscious and not perceiving. This implies that desire has left it just as electricity has left a light bulb as to turn it off
+- A perceiver that is on is conscious and perceiving. This implies that it has desire in it just as a glowing light bulb means it has electricity in it
 
 ![Automated Intelligence](/photos/physics/ai.jpg)
 
@@ -199,4 +257,6 @@ Superphysics is a bit different in that it views everything as an idea of the Su
 
 Unlike the question "Why do I exist?" which enshrines the ego, this question puts the ego secondary or below that of the Supreme Entity. This will put the ego's desire in line with desire the Creator of Existence. This, in turn, will increase the chances of achieving whatever that existential goal or plan may be.
 
-In our earlier analogy, this prevents 'undercooking' or 'overcooking' of goals. The desire of the Supreme will guide the human desire in real-time in order to get the goal achieved just right. Getting it just right requires a specific sequence or flow of steps. The Taoists call this flow as the Tao, while Hindus call it the dharma.
+In our earlier analogy, this prevents 'undercooking' or 'overcooking' of goals. The desire of the Supreme will guide the human desire in real-time in order to get the goal achieved just right. 
+
+Getting it just right requires a specific sequence or flow of steps. The Taoists call this flow as the Tao, while Hindus call it the dharma.

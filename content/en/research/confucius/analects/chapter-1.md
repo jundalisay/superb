@@ -1,14 +1,14 @@
-+++
-title=  "The Satisfaction from Learning"
-date = 2020-01-31
-description=  "To learn, and then to practise opportunely what one has learned, brings satisfaction"
-image=  "/covers/analects.png"
-linkb=  "/research/confucius/analects"
-linkbtext=  "Index"
-linkf=  "/research/confucius/analects/chapter-2"
-linkftext=  "Chapter 2"
-heading=  "Chapter 1"
-+++
+---
+heading: "Chapter 1"
+title: "The Satisfaction from Learning"
+description: "To learn, and then to practise opportunely what one has learned, brings satisfaction"
+date: 2020-01-31
+image: "/covers/analects.png"
+linkb: "/research/confucius/analects"
+linkbtext: "Index"
+linkf: "/research/confucius/analects/chapter-2"
+linkftext: "Chapter 2"
+---
 
 
 {{< l a="Confucius" >}}
@@ -21,7 +21,8 @@ The superior order of men are those who still remain pleased even if they do not
 {{< /l >}}
 
 
-{{< r ava="Scholar-Yu" >}}
+<!-- r ava="Scholar Yu" -->
+{{< r ava="Yen-Yu" >}}
 True people who are dutiful to their parents and elder brothers rarely turn currishly on their superiors. Such a desire not to commit that offence prevents anarchy or disorder.
 {{< /r >}}
 
@@ -29,7 +30,7 @@ True people who are dutiful to their parents and elder brothers rarely turn curr
 Men of superior mind busy themselves first in getting at the root of things. When they have succeeded in this the right course is open to them.
 {{< /l >}}
 
-{{< r a="Scholar-Yu" >}}
+{{< r ava="Yen-Yu" >}}
 Well, are not filial piety and friendly subordination among brothers a root of that right feeling that men should have for each other?
 {{< /r >}}
 
@@ -38,19 +39,21 @@ Yes, but rarely do we see this right feeling where there is fine speech and stud
 {{< /l >}}
 
 
-{{< r a="Scholar-Tsang" >}}
+<!-- r a="Scholar-Tsang" -->
+{{< r a="Tsang-Sin" >}}
 I examine myself daily on 3 points:
 - whether, in looking after other people's interests, I have not been acting whole-heartedly,
 - whether, I have not been true with friends, and
 - whether, after teaching, I have not myself been practising what I have taught.
 
-You once said that to rule well one of the larger States meant= 
+You once said that to rule well one of the larger States meant:
 - strict attention to its affairs,
 - conscientiousness on the part of the ruler,
 - careful husbanding of its resources,
 - a tender care for the interests of all classes
 - the employing of the masses in the public service at suitable seasons.
 {{< /r >}}
+
 
 {{< l a="Confucius" >}}
 Let young people show filial piety at home, respectfulness towards their elders when away from home.
@@ -61,7 +64,8 @@ If, in such a walk, there be time or energy left for other things, let them empl
 
 
 {{< r a="Tsz-Hi" >}}
-Disciple Tsz-hi: The evidence of learning are:
+<!-- Disciple Tsz-hi:  -->
+The evidence of learning are:
 - the appreciation of worth in men of worth,
 - diverting the mind from lascivious desires
 - ministering to parents while one is the most capable of so doing
@@ -82,28 +86,34 @@ When you have erred, be not afraid to correct yourself.
 {{< /l >}}
 
 
-{{< r a="Scholar-Tsang" >}}
+{{< r ava="Tsang-Sin" >}}
 The virtue of the people is renewed and enriched when attention is seen to be paid to the departed, and the remembrance of distant ancestors kept and cherished.
 {{< /r >}}
 
+---
+
+Tsz-k'in asked his fellow disciple Tsz-Kung:
+
 {{< r a="Tsz-Kin" >}}
-Tsz-k'in asked his fellow disciple Tsz-kung: "When our Master comes to this or that State, he learns without fail how it is being governed. Does he investigate matters? or are the facts given him?"
+When our Master comes to this or that State, he learns without fail how it is being governed. Does he investigate matters? or are the facts given him?
 {{< /r >}}
 
-{{< r a="Tsz-kung" >}}
-Our Master is a man of pleasant manners, and of probity, courteous, moderate, and unassuming=  it is by his being such that he arrives at the facts. Is not his way of arriving at things different from that of others?
+{{< r a="Tsz-Kung" >}}
+Our Master is a man of pleasant manners, and of probity, courteous, moderate, and unassuming. It is by his being such that he arrives at the facts. 
+
+Is not his way of arriving at things different from that of others?
 {{< /r >}}
 
 {{< l a="Confucius" >}}
-He who, after three years' observation of the will of his father when alive, or of his past conduct if dead, does not deviate from that father's ways, is entitled to be called 'a dutiful son.'
+He who, after 3 years' observation of the will of his father when alive, or of his past conduct if dead, does not deviate from that father's ways, is entitled to be called 'a dutiful son.'
 {{< /l >}}
 
 
 ## Confucius is Anti-Natural, The Opposite of Taoism
 
-{{< r a="Scholar-Yu" >}}
+{{< r ava="Yen-Yu" >}}
 For the practice of the Rules of Propriety*, one excellent way is to be natural. This naturalness became a great grace in the practice of kings of former times. Everyone, small or great, should be natural like them.
-{{< /l >}}
+{{< /r >}}
 
 > *An important part of a education. The text-book, "The Li Ki," contains rules for behavior and propriety for the whole life, from the cradle to the grave.
 
@@ -117,10 +127,13 @@ But being natural is not always practicable because it might lead to the neglect
 - When respectfulness and propriety go hand in hand, disgrace and shame are kept away. 
 
 You will be able to resort to your close ties if you do not alienate them.
+{{< /l >}}
+
 
 <!-- Remove all occasion for alienating those to whom you are bound by close ties, and you have them still to resort to. -->
 
-A man who has a greater mind= 
+{{< l a="Confucius" >}}
+A man who has a greater mind: 
 - does not crave to eat to the full when he is eating, and
 - does not crave for the comforts in it.
 
@@ -129,7 +142,7 @@ Such a man can be become a devoted student, especially if he=
 - careful in his words towards men of high principle to maintain his own rectitude.
 {{< /l >}}
 
-{{< r a="Tsz-kung"  >}}
+{{< r a="Tsz-Kung"  >}}
 What do say of the poor who do not cringe and fawn? What of the rich who are without pride and haughtiness?
 {{< /r >}}
 
@@ -137,7 +150,7 @@ What do say of the poor who do not cringe and fawn? What of the rich who are wit
 They are passable. Yet they are scarcely in the same category as the poor who are happy, and the rich who love propriety.
 {{< /l >}}
 
-{{< r a="Tsz-kung"  >}}
+{{< r a="Tsz-Kung"  >}}
 In the 'Book of the Odes we read of one Polished, as by the knife and file, The graving-tool, the smoothing-stone.
 {{< /r >}}
 

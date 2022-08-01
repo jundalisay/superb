@@ -1,8 +1,8 @@
 ---
-title: "Mind, Práńendriya and Vrtti"
+title: "The 5 Stages of the Creation of the Universe"
 heading: "Chapter 4 "
-date: 2022-01-31
-description: ""
+date: 2022-01-13
+description: "Originally 'Mind, Heart Chakra and Propensities (Vrtti)'"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-07b"
 linkbtext: "Chapter 3"

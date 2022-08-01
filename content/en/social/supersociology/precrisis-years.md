@@ -138,7 +138,9 @@ The sudden wealth created inequality and inflation, which oppressed the poor the
 {{< img src="https://sorasystem.sirv.com/photos/shah.jpeg" alt="Shah of Iran" cap="The Shah of Iran is a perfect example of inequality. He held a grand party for the historical anniversary of Persia which became fuel for the Iranian Revolution" >}}
 
 
-The end effect depressions and stagflations are conflicts or wars, since they are the only ways for the human mind to naturally relieve itself of the oppression from poverty and inequality. This in turn is caused by the fact that our species evolved from monkeys and monkeys do not want inequality. The 1930's Depression was relieved by World War 2 and the 1970's Stagflation was relieved by the Arab-Israeli conflict and global Communist insurgency.
+The end effect depressions and stagflations are conflicts or wars, since they are the only ways for the human mind to naturally relieve itself of the oppression from poverty and inequality. This in turn is caused by the fact that our species evolved from monkeys and monkeys do not want inequality. 
+- The 1930's Depression was relieved by World War 2
+- The 1970's Stagflation was relieved by the Arab-Israeli conflict and by the global Communist insurgency.
 
 
 ![Image](https://i.ytimg.com/vi/LZoxXoD-az4/hqdefault.jpg)
@@ -176,11 +178,17 @@ The end effect depressions and stagflations are conflicts or wars, since they ar
 
 If a global stagflation does start from 2019, then it implies that economic activity follows a predictable pattern or cycles which are ultimately under the field of metaphysics -- its laboratory is reality itself. 
 
-Buying and selling is based on desire and the roots of desire lies in the study of metaphysics of the soul and not in study of psychology or the brain. If the brain were the true source of desire, then pharmaceutical companies can simply invent brain-drugs that enhance the desire for intelligence, peace, hardwork, anti-criminality, etc and solve all human problems instantly. But these do not exist.
+Buying and selling is based on desire and the roots of desire lies in the study of metaphysics of the soul and not in study of psychology or the brain. If the brain were the true source of desire, then pharmaceutical companies can simply invent brain-drugs that enhance the desire for intelligence, peace, hardwork, anti-criminality, etc and solve all human problems instantly. 
 
-In the ancient past, Jewish prophets used metaphysics to make predictions about future events using their intuition, which allowed them to tap into their metaphysical society-organism. They would have an intuitional dream about a future event that might or might not happen. The problem of this method is that the dream of the future event exists solely in the metaphysical dimension and might not cross over onto physical reality, leading to some predictions that do not come true.
+But such brain-drugs these do not exist.
 
-Our [prediction system](/social/cycles/predictions) provides a more scientific and realistic way of making predictions by plotting both the **metaphysical behavior** of each society-organism and the **actual physical events** that really happen. It would be like getting a gut-feeling or intuition (non-scientific, arbitrary) that there is an invisible entity in an area, and then spraying powder on it in order to see that entity indirectly with the specks acting as measurable (scientific) proof. With the society-organism, each speck of powder represents an event, while big blobs of powder representing big events like conflict or crises.
+In the ancient past, Jewish prophets used metaphysics to make predictions about future events using their intuition, which allowed them to tap into their metaphysical society-organism. They would have an intuitional dream about a future event that might or might not happen. 
+
+The problem with the ancient method is that the dream of the future event exists solely in the metaphysical dimension. It might not cross over onto the physical dimension (reality), leading to some predictions that do not come true.
+
+Our [prediction system](/social/cycles/predictions) provides a more scientific and realistic way of making predictions by plotting both the **metaphysical behavior** of each society-organism and the **actual physical events** that really happen. 
+
+It would be like getting a gut-feeling or intuition (non-scientific, arbitrary) that there is an invisible entity in an area, and then spraying powder on it in order to see that entity indirectly with the specks acting as measurable (scientific) proof. With the society-organism, each speck of powder represents an event, while big blobs of powder representing big events like conflict or crises.
 
 
 {{< img src="https://sorasystem.sirv.com/photos/outline.png" cap="Events reveal the society-organism just as dust shows the outline of objects" alt="Dust tracing an Outline" >}}
@@ -193,12 +201,13 @@ This process can be automated with machine learning to create a digital prophet,
 
 {{< youtube aBb6eqh5fsU >}}
 
-<br>
+# 
 
 Western economists and policy makers have no idea of metaphysics (karma, dharma, varna, dialectics), so they do not know the root causes of economic crises, wars, and other negative events and therefore are unable to provide real solutions. Proof is that terrorism still exists and economic crises and inequality are still here. North Korea is still nuclear and China is still grabbing land unjustly (just like the Mongols).
 
 By tapping into Western metaphysics of David Hume, Adam Smith, Spinoza and Eastern metaphysics in Hinduism, Buddhism, Sikhism, Taoism, etc., the root causes of any event can be known and the best solutions can be put forward. For the coming crisis, Adam Smith clearly points to the invention of money and commercial paper instruments as the cause, as it allows value to be controlled by a few people which then starves the rest.
 
-The solution therefore is a system that allows both money and [moneyless transactions](/pantrynomics/alternatives-to-money). In time, the system will gravitate towards moneyless because of its lower cost. This is because the moneyless system will piggyback on the existing telecoms system, allowing it to save on the overhead needed by banks.
+The solution therefore is a system that allows both money and [moneyless transactions](/social/economics/alternatives-to-money). In time, the system will gravitate towards moneyless because of its lower cost. This is because the moneyless system will piggyback on the existing telecoms system, allowing it to save on the overhead needed by banks.
 
 The moneyless system is then based on the Four Laws of Value which will be explained next.  With all human problems solved, the only problems that remain will be the problems of physics, and that's where our [Superphysics](/) comes in.
+

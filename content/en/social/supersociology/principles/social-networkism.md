@@ -24,9 +24,17 @@ Overhauled on  to harmonize Socrates with Hume and Smith
 
 Our proposed science of [pantrynomics](/pantrynomics) is based on a new paradigm that sees individual entities as naturally part of a larger group of entities called a society.
 
-Unlike normal definitions of society*, our definition describes a society* as a kind of metaphysical organism or mind that is made up of individual minds that agree to be part of that society. Since materialistic science views minds as coming from the physical brain, then we instead use the word 'soul' to refer to a mind that can exist without a physical brain or neural network. 
+Unlike normal definitions of society*, our definition describes a society* as a kind of metaphysical organism or mind that is made up of individual minds that agree to be part of that society. Since materialistic science views minds as coming from the physical brain, then we instead use the word 'soul' or 'aethereal mind' to refer to a mind that can exist without a physical brain or neural network. 
 
-This makes the soul free from physical limitations and gives it flexible qualities that are similar to sound and music, such as the effortless communication and conveyance of feelings. For example, a tune can change from melodic to rhythmic gradually or immediately, just as a mind can choose to switch from eating American food to Chinese food gradually or immediately.
+English | Superphysics | Sanskrit
+--- | --- | ---
+Soul | Aethereal Mind | Jivatman
+Mind | Physical Mind (Aetherea Mind connected to body) | Jivatman
+Consciousness | Experiencer | Atman
+
+
+
+This makes the soul free from physical limitations and gives it flexible qualities that are similar to sound and music, which is the medium to transmit feeling-information. For example, a tune can change either gradually or immediately from melodic to rhythmic, just as a mind can choose to switch from eating American food to Chinese food gradually or immediately.
 
 ![The soul of society](https://sorasystem.sirv.com/graphics/soulsociety.png)
 
@@ -52,18 +60,18 @@ This flexible quality also lets souls merge and agree, as proven by the phrase "
 Matter and physical objects, on the contrary, cannot occupy the same physical 'page' nor meet at a 'place' without losing their individual identity.
 
 We then call this merging of the minds or souls as a society. For example:
-- A family begins when a man's soul agrees to unite with a woman's soul which then adds another soul as their child
+- A family begins when a man's soul agrees to unite with a woman's soul which then adds another soul as their child. A divorce is a dissociation of the soul the family back into its component souls
 - A company begins when the souls of the incorporators agree to be bound into a business organization
 - A sports team begins when the souls of playes agree to play together
 
 Human society began as families agreeing to work together for mutual benefit, which we call [the common interest](/social/supersociology/principles/common-interest). We can say that the common interest is the conscience of the soul of society, just as a person's own conscience represents his soul's best interest for himself. We refrain from doing a bad thing because our conscience will implant the feeling of guilt in our minds, as a natural warning about the resulting consequence or karma. 
 
-Societies then agree and merge with other societies to form nations, which can merge to form confederations, which can finally form a global human society.
+Societies then agree and merge with other societies to form nations, which can merge to form confederations, which can finally form a global human society. Social Superphysics aims to form such a unified society by explaining the properties of the soul, as explained by Socrates, David Hume, Hinduism, Buddhism, and Taoism. 
 
 
 Lateral Type | Metaphysical Organism | Physical Example | Parts | Explanation
 --- | --- | --- | --- | ---
-Personal | Mind or Soul (Atman) | You or Self (Jiva) | Perception  Your perceptions mold your mind | 
+Personal | Mind or Soul (Jivatman) | You or Self (Jiva) | Perception  Your perceptions mold your mind | 
 Group | Soul of society | A basketball team | Individual minds | Society is molded by the minds inside it (A weak basketbal team is one with weak members) 
 Species | Soul of species | Human species | Individual societies | Species evolve as one in order to live better 
 Planetary | Soul of planet | Earthlings | Each species (cats, dogs, humans, potatoes) | All species evolve according to their planet's conditions | 
@@ -73,7 +81,7 @@ Universal | Soul of universe |  Physical Universe | Individual galaxies | The ga
 Multiversal | Soul of Existence (Paramatman) | Multiverse (Brahma) | Individual Universes and Realities |  The physical and metaphysical parts of the universe form Brahma 
 
 
-The entire human species is therefore one big society made up of all human minds. David Hume and Socrates use the analogy of citizens being the individual souls with their government as the oversoul. Quesnay uses the analogy of cells in a body. In Hinduism, this is similar to the atman making up the paramatman.
+The entire human species is therefore one big society made up of all human minds. David Hume and Socrates use the analogy of citizens being the individual souls with their government as the oversoul. Quesnay uses the analogy of cells in a body. In Hinduism, this is similar to the atman (consciousness) making up the paramatman (universal collective consciousness).
 
 If common interest naturally makes humans unite into societies, why do we see so much inequality, hate, and conflict?
 
@@ -201,7 +209,7 @@ In addition, Facebook has no active regulator to keep its users united or preven
 
 <!-- Because Facebook has no regulator, anyone can add users according to their whim. Therefore, it is really a personal network instead of a real social network since personal interest, and not common interest, dominates. This creates a  -->
 
-> In order to earn more from ads, some social networks focus on user quantity instead of user quality. Our system is different because it does not earn from advertising primarily.
+> In order to earn more from ads, some social networks focus on user quantity instead of user quality. Our system is different because it earns primarily from a tax, as [Pointtax](https://pantrypoints.com/docs/pantrynomics/pointtax), and only secondarily from advertising.
 
 A true social network therefore is one that encourages personal interest as long as it is within the common interest. This necessitates a regulator, just as an early society has a chieftain and a modern society has a President or Prime Minister. The key qualification of this regulator is his understanding of the common interest as to keep the society unified and whole. His whole moral authority depends on this. 
 

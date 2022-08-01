@@ -15,32 +15,36 @@ banner:
   # youtube: "Y8gkzT8SF7Q" pantrynomics
   youtube: PjQjps9DTXw
 
-  sciences:
-    - image : "/icons/sun.png"
+cards:
+  items:
+    - icon : "/icons/sun.png"
       title: Constitutional Virtues
-      text: "A New Moral Foundation"
-    - image : "/icons/stars.png"
-      title: Federalism
-      text: "Democracy with a Focus"
-    - image : "/icons/help.png"
-      title: Bayanihan Economy
-      text: "Economic Growth without Crisis"
+      subtitle : "A New, Systemic Moral Foundation"
+    - icon : "/icons/stars.png"
+      title : Federalism with Bicameral Parliament
+      subtitle : "Democracy with a Focus"
+    - icon : "/icons/help.png"
+      title : "Bayanihan Economy"
+      subtitle : "Economic Growth without Crisis"
 
-
-
-tricon:
-  - title: "What is Maharlika?"
-    url: "/maharlika/history/meanings-maharlika"
-    icon : "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='yellow' height='80px'><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d='M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z'/></svg>"
-    subtile: "A small country where great things come from"
-  - title: "What is Maharlikanism?"
-    url: "/maharlika/advocacy/maharlikanism"
-    icon: "<svg xmlns='http://www.w3.org/2000/svg' fill='yellow' height='80' viewBox='0 0 352 512'><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d='M96.06 454.35c.01 6.29 1.87 12.45 5.36 17.69l17.09 25.69a31.99 31.99 0 0 0 26.64 14.28h61.71a31.99 31.99 0 0 0 26.64-14.28l17.09-25.69a31.989 31.989 0 0 0 5.36-17.69l.04-38.35H96.01l.05 38.35zM0 176c0 44.37 16.45 84.85 43.56 115.78 16.52 18.85 42.36 58.23 52.21 91.45.04.26.07.52.11.78h160.24c.04-.26.07-.51.11-.78 9.85-33.22 35.69-72.6 52.21-91.45C335.55 260.85 352 220.37 352 176 352 78.61 272.91-.3 175.45 0 73.44.31 0 82.97 0 176zm176-80c-44.11 0-80 35.89-80 80 0 8.84-7.16 16-16 16s-16-7.16-16-16c0-61.76 50.24-112 112-112 8.84 0 16 7.16 16 16s-7.16 16-16 16z'/></svg>"
-    subtile: "A plan bring back the country to its true state"
-  - title: "What are Constitutional Virtues?"
-    url: "/social/supersociology/solutions/constitutional-virtues/"
-    icon: "<svg xmlns='http://www.w3.org/2000/svg' fill='yellow' height='80' viewBox='0 0 512 512'><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d='M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z'/></svg>"
-    subtile: "The foundations of civilization"
+tricon1:
+  title : "Natural Morals Instead of Religion"
+  heading : "Virtue instead of Blind Belief"
+  subtitle : "Common interest and fellow feeling instead of Selfish-interest and ego"
+  icon : "/icons/sun.png"
+  items:  
+    - title: "What is Maharlika?"
+      url: "/maharlika/history/meanings-maharlika"
+      icon : "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='yellow' height='80px'><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d='M256 160c-52.9 0-96 43.1-96 96s43.1 96 96 96 96-43.1 96-96-43.1-96-96-96zm246.4 80.5l-94.7-47.3 33.5-100.4c4.5-13.6-8.4-26.5-21.9-21.9l-100.4 33.5-47.4-94.8c-6.4-12.8-24.6-12.8-31 0l-47.3 94.7L92.7 70.8c-13.6-4.5-26.5 8.4-21.9 21.9l33.5 100.4-94.7 47.4c-12.8 6.4-12.8 24.6 0 31l94.7 47.3-33.5 100.5c-4.5 13.6 8.4 26.5 21.9 21.9l100.4-33.5 47.3 94.7c6.4 12.8 24.6 12.8 31 0l47.3-94.7 100.4 33.5c13.6 4.5 26.5-8.4 21.9-21.9l-33.5-100.4 94.7-47.3c13-6.5 13-24.7.2-31.1zm-155.9 106c-49.9 49.9-131.1 49.9-181 0-49.9-49.9-49.9-131.1 0-181 49.9-49.9 131.1-49.9 181 0 49.9 49.9 49.9 131.1 0 181z'/></svg>"
+      subtitle: "A small country where great things come from"
+    - title: "What is Maharlikanism?"
+      url: "/maharlika/advocacy/maharlikanism"
+      icon: "<svg xmlns='http://www.w3.org/2000/svg' fill='yellow' height='80' viewBox='0 0 352 512'><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d='M96.06 454.35c.01 6.29 1.87 12.45 5.36 17.69l17.09 25.69a31.99 31.99 0 0 0 26.64 14.28h61.71a31.99 31.99 0 0 0 26.64-14.28l17.09-25.69a31.989 31.989 0 0 0 5.36-17.69l.04-38.35H96.01l.05 38.35zM0 176c0 44.37 16.45 84.85 43.56 115.78 16.52 18.85 42.36 58.23 52.21 91.45.04.26.07.52.11.78h160.24c.04-.26.07-.51.11-.78 9.85-33.22 35.69-72.6 52.21-91.45C335.55 260.85 352 220.37 352 176 352 78.61 272.91-.3 175.45 0 73.44.31 0 82.97 0 176zm176-80c-44.11 0-80 35.89-80 80 0 8.84-7.16 16-16 16s-16-7.16-16-16c0-61.76 50.24-112 112-112 8.84 0 16 7.16 16 16s-7.16 16-16 16z'/></svg>"
+      subtitle: "A plan bring back the country to its true state"
+    - title: "What are Constitutional Virtues?"
+      url: "/social/supersociology/solutions/constitutional-virtues/"
+      icon: "<svg xmlns='http://www.w3.org/2000/svg' fill='yellow' height='80' viewBox='0 0 512 512'><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d='M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z'/></svg>"
+      subtitle: "The foundations of civilization"
 
 artsup:
   - title : "What is Ma-i?"

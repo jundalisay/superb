@@ -37,7 +37,7 @@ Our violent bodily pleasures are generally of this sort—they are reliefs of pa
 
 <b>Nature has an upper, lower, and middle region.</b> 
 
-If Person A were to go from the lower to the middle region, he would imagine that he is going up. Person B is in the middle region but has never seen the true upper world. He sees Person A coming and imagines he has arrived in the upper region. If Person A goes back down again, Person B would imagine that he was descending. All that would arise out of his ignorance of the true upper, middle, and lower regions.
+If Person A were to go from the lower to the middle region, he would imagine that he is going up. Person B is in the middle region but has never seen the true upper world. He sees Person A coming and imagines that he has arrived in the upper region. If Person A goes back down again, Person B would imagine that he was descending. All that would arise out of his ignorance of the true upper, middle, and lower regions.
 {{< /l >}}
 
 

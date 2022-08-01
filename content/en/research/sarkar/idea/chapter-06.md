@@ -1,7 +1,7 @@
 ---
 title: "Subtlification or Pratisaiṋcara"
 heading: "Chapter 6"
-date: 2022-01-31
+date: 2022-01-18
 description: "In subtlification at the different stages of the unit mind, the Macrocosmic Nucleus"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-05"

@@ -1,8 +1,8 @@
 ---
 title: "Ideology and Personality"
-heading: "Chapter 4 "
-date: 2022-01-31
-description: ""
+heading: "Chapter 9"
+date: 2022-01-13
+description: "Complete development of the integrated personality is essential for perfect spiritual realization of the human being."
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-08b"
 linkbtext: "Chapter 8b"

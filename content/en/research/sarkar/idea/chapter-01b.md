@@ -2,7 +2,7 @@
 title: "The Formation of Identity"
 # title: "Saiṋcara and Práńáh"
 heading: Chapter 1b
-date: 2022-01-31
+date: 2022-01-30
 description: "the Identity-Layer is nothing but the Cosmic “I”. This is the first bondage of Consciousness by His innate sentient Activity"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-01"

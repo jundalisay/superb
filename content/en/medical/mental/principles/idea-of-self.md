@@ -5,7 +5,7 @@ date: "2020-01-01"
 image: "/photos/social/monkey.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
 # keywords: ["David Hume"]
-categories: ["Medical Superphysics"]
+# categories: ["Medical Superphysics"]
 tags: ["David Hume", "Ego"]
 linkb: /medical/physical/principles/5-paradigms
 linkbtext: "5 Paradigms"

@@ -1,7 +1,7 @@
 ---
 title: "The Heart Chakra and Práńáyáma"
 heading: "Chapter 4 "
-date: 2022-01-31
+date: 2022-01-21
 description: "The Heart Chakra is the most vital part of the physical and psycho-physical body"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-04"

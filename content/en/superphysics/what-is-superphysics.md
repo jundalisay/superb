@@ -47,7 +47,9 @@ Science was then called Natural Philosophy which dealt with natural physical phe
 
 But by the 19th century, the Europeans separated Natural Philosophy from Philosophy. It mutated into materialist science which accepted only visible and tangible perceptions, effectively removing metaphysics. 
 
-The problem with this is that the visible part of the universe is very tiny compared to the invisible and causal ones. In addition, metaphysics is totally based on waves of feelings.  By denying metaphysics, the feelings are ejected. This then leaves only the ego* (the feeling of the self) as the judging factor for the perceptions from sight, touch, sound, taste, and smell. 
+The problem with this is that the visible part of the universe is very tiny compared to the invisible and causal ones. In addition, metaphysics is totally based on waves of feelings. 
+
+By denying metaphysics, the feelings are ejected. This then leaves only the ego* (the feeling of the self) as the judging factor for the perceptions from sight, touch, sound, taste, and smell. 
 
 > *This is why the Objectivism of Ayn Rand and Utilitarianism of John Stuart Mill (both Westerners) are egotistic compared to the Asian philosophies
 

@@ -1,14 +1,14 @@
-+++
-title=  "Good Government, Filial Piety, and The Superior Man"
-description=  "Filial piety is in not being perverse. We should always follow the Rules of Propriety with regard to our parents"
-image=  "/covers/analects.png"
-date = 2020-01-30
-linkf=  "/research/Confuciusucius/analects/chapter-1"
-linkftext=  "Chapter 1"
-linkb=  "/research/Confuciusucius/analects/chapter-3"
-linkbtext=  "Chapter 3"
-heading=  "Chapter 2"
-+++ 
+---
+heading: "Chapter 2 of The Analects Simplified"
+title: "Good Government, Filial Piety, and The Superior Man"
+description: "Filial piety is in not being perverse. We should always follow the Rules of Propriety with regard to our parents"
+date: 2020-01-30
+image: "/covers/analects.png"
+linkb: "/research/confucius/analects/chapter-1"
+linkbtext: "Chapter 1"
+linkf: "/research/confucius/analects/chapter-3"
+linkftext: "Chapter 3"
+---
 
 
 {{< l a="Confucius" >}}
@@ -30,6 +30,9 @@ They will develop a sense of shame and know their errors if they are governed by
 - At 60, my ears were attuned to them.
 - At 70, I could follow my heart's desires, without overstepping the lines of rectitude.
 {{< /l >}}
+
+
+## Filial Piety
 
 {{< r a="Mang-i" >}}
 What does filial piety consist in?
@@ -84,7 +87,9 @@ Be versed in ancient lore, and familiarize yourself with the modern; then may yo
 {{< /l >}}
 
 
-Confucius replied to Tsz-kung about respecting the great man:
+## 
+
+Confucius replied to Tsz-Kung about respecting the great man:
 
 {{< l a="Confucius" >}}
 What he first says, as a result of his experience, he afterwards follows up. "The great man is catholic-minded, and not one-sided. The common man is the reverse. "Learning, without thought, is a snare; thought, without learning, is a danger. "Where the mind is set much upon heterodox principles there truly and indeed is harm." 
@@ -93,9 +98,10 @@ What he first says, as a result of his experience, he afterwards follows up. "Th
 ---
 
 
-<div class="right tsz-lu">
+{{< r a="Tsz-Lu" >}}
 What is knowledge? 
-</div>
+{{< /r >}}
+
 
 {{< l a="Confucius" >}}
 Shall I give you a lesson about knowledge? When you know a thing, maintain that you know it. When you do not, acknowledge your ignorance. This is characteristic of knowledge.
@@ -104,9 +110,9 @@ Shall I give you a lesson about knowledge? When you know a thing, maintain that 
 ---
 
 
-<div class="right tsz-chang">
+{{< r a="Tsz-Chang" >}}
 I am studying official incomes
-</div>
+{{< /r >}}
 
 {{< l a="Confucius" >}}
 You will make few mistakes if you speak guardedly and stay away from doubtful things. <!-- Of the many things you hear hold aloof from those that are , and  with reference to the rest; your mistakes will then be few. --> Avoid <!-- lso, of the many courses you see adopted, hold aloof from those that are --> risky courses, and carefully follow the others. <!-- ; you will then seldom have occasion for regret. --> You will be seldom mistaken in your utterances. This will aid you <!-- , and having few occasions for regret in the line you take, you are --> on the high road to your preferment.
@@ -114,9 +120,9 @@ You will make few mistakes if you speak guardedly and stay away from doubtful th
 
 ---
 
-<div class="right ngai">
-Duke Ngai=  What should be done to render the people submissive to authority?
-</div>
+{{< r a="Duke-Ngai" >}}
+What should be done to render the people submissive to authority?
+{{< /r >}}
 
 {{< l a="Confucius" >}}
 Promote the straightforward, and reject those whose courses are crooked, and the thing will be effected. Promote the crooked and reject the straightforward, and the effect will be the reverse." 
@@ -125,9 +131,9 @@ Promote the straightforward, and reject those whose courses are crooked, and the
 
 ---
 
-<div class="right kikang">
-Ki K'ang=  How can the people be induced to show respect, loyalty, and willingness to be led? 
-</div>
+{{< r a="Ki-Kang" >}}
+How can the people be induced to show respect, loyalty, and willingness to be led? 
+{{< /r >}}
 
 
 {{< l a="Confucius" >}}
@@ -137,16 +143,15 @@ He should promote those who have ability and see to the instruction of those who
 {{< /l >}}
 
 
-<div class="right kikang">
-Someone=  Why are you not an administrator of government?
-</div>
+{{< r a="Someone" >}}
+Why are you not an administrator of government?
+{{< /r >}}
 
 
 {{< l a="Confucius" >}}
 The 'Book of the Annals' says about filial duty:
 
-'Make it a point to be dutiful to your parents and amicable with your brethren. These same duties extend to an administrator.' 
-
+'Make it a point to be dutiful to your parents and amicable with your brethren. These same duties extend to an administrator.'
 
 Therefore I am an administrator in my own way.
 <!-- If these, then, also make an administrator, how am I to take your words about being an administrator?"  -->
@@ -154,10 +159,11 @@ Therefore I am an administrator in my own way.
 People whose word has no reliability are good for nothing How should your carriages, large or little, get along without your whipple-trees or swing-trees?
 {{< /l >}}
 
+---
 
-<div class="right tsz-chang">
-Tsz-chang=  Is it possible to forecast the state of the country 10 generations from now?
-</div>
+{{< r a="Tsz-Chang" >}}
+Is it possible to forecast the state of the country 10 generations from now?
+{{< /r >}}
 
 
 {{< l a="Confucius" >}}

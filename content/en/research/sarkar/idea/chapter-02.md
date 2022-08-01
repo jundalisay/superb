@@ -2,7 +2,7 @@
 title: "Subtilification (Pratisaiṋcara)"
 # and Manah
 heading: "Chapter 2 "
-date: 2022-01-31
+date: 2022-01-26
 description: ""
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-01e"

@@ -43,7 +43,7 @@ ALL men by nature desire to know. An indication of this is the delight we take i
 However, the metaphysical domain exists inside our abstract minds and is infinitely larger and richer than physical domain of our senses. We call this domain "aethereal" or made of aether or akasha in Hinduism. 
 
 {{< quote ava="soc" >}}
-Nature has an upper, lower, and middle region. If Person A were to go from the lower to the middle region, he would imagine that he is going up. Person B is in the middle region but has never seen the true upper world.
+If Person A were to go from the lower to the middle region, he would imagine that he is going up. Person B is in the middle region but has never seen the true upper world. He sees Person A coming and imagines that he has arrived in the upper region. If Person A goes back down again, Person B would imagine that he was descending. All that would arise out of his ignorance of the true upper, middle, and lower regions.
 <cite>The Republic by Plato Simplifed, Book 9, Chapter 3</cite>
 {{< /quote >}}
 
@@ -53,11 +53,9 @@ These causes generate an inequality which is always maintained, and is continual
 {{< /quote >}}
 
 
-
-These three regions of metaphysical domain, physical domain, and current perception (as a merger of both) are expressed in our Superphysics icon.
+These 3 regions of metaphysical domain, physical domain, and current perception (as a merger of both) are expressed in our Superphysics icon.
 
 {{< img src="/icons/sp100.png" size="is-48x48" alt="Superphysics icon">}}
-
 
 - The blue upward triangle reprsents the metaphysical domain going upwards
 - The green downward triangle represents the physical domain going 'down to earth'
@@ -67,7 +65,7 @@ The balance of the triangles represents the balance between the abstract and the
 
 Inaction leads to nothing. But haste, on the contrary, also makes waste. 
 
-Human minds are limited and so our focus must be relevant. For example, as a species, it would be better to focus on solutions to global warming than to think of how to predict the stock market, which really just benefits the self.
+Human minds have limited abilities and so our focus must be relevant in order to maximize and concentrate what little we have. For example, as a species, it would be better to focus on solutions to global warming than to think of how to make more money, create a new cryptocurrency, or predict the stock market. The latter ideas are really based on selfish-interest instead of the common-interest.
 
 
 ## Metaphysical Idea versus Physical Matter
@@ -78,7 +76,7 @@ For instance, we sometimes perceive something totally new. When Covid first stru
 
 In this case: 
 - the physical disease started to exist through the senses of the Wuhan doctors
-- the metaphysical idea existed in Nature, but not in human minds. It only existed in the latter after the scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19
+- the metaphysical idea existed in Nature, but not in human minds. It only existed in minds after the scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19
 
 This strengthens the fact that physical things are tangible and perceivable through our five senses, while metaphysical things are perceivable through our intellect and feelings. 
 
@@ -88,6 +86,11 @@ The mug only existed after the maker of mugs had the idea of a mug, as to be abl
 
 {{< me date="December 14, 2021" >}}
 *This is why our proposed solution to end Covid is to end the war against the Amazon rainforest, just as the Spanish flu ended after the peace of World War I. Vaccines are just a workaround that is supposed to buy time to implement that real solution. Unfortunately, science thinks that vaccines are the solution. The error in this is proven by the rise in the recent Covid hospitalizations in Europe despite their high vaccination rates. 
+{{< /me >}}
+
+
+{{< me date="August 1, 2022" >}}
+*Environmental destruction hasn't stopped yet, and so Nature just throws another virus as monkeypox to show who's boss. 
 {{< /me >}}
 
 
@@ -107,11 +110,13 @@ For example, before a novel about a cat is written in a physical form, the idea 
 _ | Philosophy | Science
 --- | --- | --- 
 Emphasis | Spirit and ideas | Sensory proofs and material evidence
-Consciousness is | the metaphysical soul | the physical brain 
+Consciousness is.. | ..the metaphysical soul | ..the physical brain 
 
-Superphysics is in between both abstract philosophy and material science. It is grounded on the metaphysical, but can quickly extend down to sensory evidence and practicality. 
+Superphysics is in between both abstract philosophy and material science.
+- It is grounded on the metaphysical, but can quickly extend down to sensory evidence and practicality. 
+- It sees the physical brain and its hormones as the effect of the metaphysical soul and its feelings. 
 
-It sees the physical brain and its hormones as the effect of the metaphysical soul and its feelings. Unlike science which manipulates the brain and hopes that it changes the soul or mind, Superphysics works directly on the soul in order to resolve its physical issues with the brain. 
+Unlike science which manipulates the brain and hopes that it changes the soul or mind, Superphysics works directly on the soul in order to resolve its physical issues with the brain. 
 
 
 ## Tap into your feelings, the deeper the better
@@ -128,7 +133,7 @@ Or will it be sad and lonely?
 
 ![Flipbook about a cat](/graphics/flipbook.gif)
 
-The reader of that novel will then experience the wave of the author's feelings about the cat through the movement of the characters and events in the novel. The reader will think that those events are single events, and that each character is a single character. In reality, each of those events and characters are made up of many slices of quantum-events and quantum-characters. 
+The reader of that novel will then experience **the wave of the author's feelings** about the cat through the movement of the characters and events in the novel. The reader will think that those events are single events, and that each character is a single character. In reality, each of those events and characters are made up of many slices of quantum-events and quantum-characters. 
 
 For example, a cat character in a novel 100 pages is actually made up of 100-cat entities which are stitched together artificially by the mind into one consistent cat-entity. Likewise, our reality is made up of independent "pages" or planes of reality that flow, or are connected by our minds with other contiguous planes, to create one consistent reality. This is the same mechanism that our minds use to connect the metaphysical domain with physical domain in order to create the current reality*.
 
@@ -188,23 +193,40 @@ On the contrary, people have imagined that our inability to fly was a problem an
 
 ### Desire and Alignment are the keys
 
-In our novel analogy, the novel came to life when the reader's mind started browsing the pages. The act of reading comes from the desire to read. Desire is a kind of feeling which itself is a wave. Thus, desire is important in navigating reality and in making the story that you want.
+In our novel analogy, the novel came to life when the reader's mind started browsing the pages. The act of reading comes from the desire to read. 
 
-However, the reader can only read what the Novelist has written down. Therefore, merely having strong desires in not enough to create a good reality. **What's more important is to align those desires to the desires of the Novelist.** The Hindus call this alignment as Dharma. 
+Desire is a kind of feeling which itself is a wave. Thus, desire is important in navigating reality and in making the story that you want.
 
+In business and entrepreneurship, this desire is called *grit*. Successful businessman are known to have more grit than non-successful ones. 
 
-Nowadays, the advancement of economies and the internet has opened up new problems:
+<!-- Investors invest in entrepreneurs that have the most grit. Superphysics can help the businessman, or any human that has a goal, to experience his goal by explaining the metaphysics of grit and desire.  -->
+
+In our novel analogy, the reader might have a strong desire to read. But he can only read what the Novelist has written down. 
+
+Therefore, merely having strong desires in not enough to create a good reality. **What's more important is to align those desires to the desires of the Novelist.** The Hindus call this alignment as Dharma. 
+
+This alignment is done by the reader by choosing the right cat-novel to read. The proper alignment does not come instantly but happens through instances of trial and error. The more instances, the better. We call this as *learning experiences*.  
+
+The quality of learning experiences would be higher if the scope of learning were expanded. A reader can find a better cat-novel if he searched at a bigger library or bookstore. Superphysics expands the library of science by adding to it the library of metapyhsics. 
+
+Nowadays, the advancement science has led to economic growth, but has also opened up new problems:
 
 - Global warming
   - Disasters like floods, mass extinction
   - Seasons being hotter or cooler than normal
-- Covid
+- Covid (The reduced cost of air travel allowed Covid to spread quickly)
 - Poverty and Inequality 
 - Political instability 
-  - Terrorism
+  - Terrorism (since 9/11, terrorists have used airplane technology)
   - Migrant crises
 
+There is clearly a desire to solve them. But no solution has been found because the learning experiences have been confined away from metaphysics.  
 
-## Have a Nice Existence in the Matrix
 
-Superphysics uses the blending of science (particles) and metaphysics (waves) to find the solutions and implement them faster than ordinary science or philosophy. This will help create a *dharmic* reality that is in line with the Metaphysics of Things inside the Matrix of Existence. Since prevention is better than cure, then AI will be the key to discover the patterns of feelings to make sure we stick to the dharma and avoid giving problems to ourselves.
+## Let's Solve Problems Inside the Matrix
+
+Superphysics uses the blending of science (particles) and metaphysics (waves) to find the solutions and implement them faster than ordinary science or philosophy. This will help create a *dharmic* reality that is in line with the Metaphysics of Things inside the Matrix of Existence. 
+
+Since prevention is better than cure, then AI will be the key to discover the patterns of feelings to make sure we stick to the dharma and avoid giving problems to ourselves.
+
+The concept of a metaphysical domain allows us to explain the properties of metaphysical ideas. This then leads to our Law of Conservation of Idea, which is the base for the Law of Conservation of Matter and Energy.

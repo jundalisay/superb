@@ -1,8 +1,9 @@
 ---
-title: "The Cosmic Brotherhood"
-heading: "Chapter 11 "
-date: 2022-01-31
-description: ""
+title: "Spirituality as the Cosmic Ideal for Humans"
+# title: "The Cosmic Brotherhood"
+heading: "Chapter 11"
+date: 2022-01-10
+description: "Spirituality should lead human beings to the one Cosmic truth from which they have derived their selves,(1) and which is the ultimate destiny"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-10"
 linkbtext: "Chapter 10"

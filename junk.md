@@ -1,3 +1,21 @@
+jiva = self | identity
+atman = consciousness = experiencer
+mind = experiencer + self + aethereal mindstuff
+
+        <div class="columns is-mobile is-multiline my-5">  
+          {{ range .Params.tricon1 }}
+            <div class="column is-12-touch is-4-desktop p-4 has-text-centered">
+              <figure class="is-inline-block">      
+                <img src="{{ .icon }}" style="width: 100px;" class="" alt="MetaPhysics" data-sal="slide-up">
+              </figure>
+              <p class="title is-2 has-text-white">{{ .title }}</p>
+              <p class="subtitle is-4 has-text-white">{{ .subtitle }}</p>
+            </div>
+          {{ end }}
+        </div>
+
+
+
 March 4, 1918 Kansas - May
 Sept Oct 1918 Phily Boston San Fransisco
 

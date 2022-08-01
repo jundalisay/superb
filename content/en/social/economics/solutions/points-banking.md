@@ -8,7 +8,7 @@ linkb: "/social/economics/solutions/bur"
 linkbtext: basic-universal-revenue
 linkf: /social/economics/solutions/swap-donations
 linkftext: swap-donations
-categories: [Economic Solutions]
+# categories: [Economic Solutions]
 tags: [Points Banking]
 author: Juan
 icon: /icons/pantry.png

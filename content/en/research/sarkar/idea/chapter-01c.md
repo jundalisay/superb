@@ -2,7 +2,7 @@
 title: "The Formation of Mind"
 # title: "Saiṋcara and Práńáh"
 heading: Chapter 1c
-date: 2022-01-31
+date: 2022-01-29
 description: "Mind is the collective name of the Identity-Layer, Ego-Layer, and mind-stuff"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-01b"

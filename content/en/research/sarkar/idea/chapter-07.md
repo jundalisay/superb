@@ -1,7 +1,7 @@
 ---
 title: "The Atman or Individual or Unit Consciousness"
 heading: "Chapter 7 "
-date: 2022-01-31
+date: 2022-01-15
 description: "The unit consciousness or átman is the real knower, not the mind. It is the master of functions the witness of these functions being performed, the witness of Identity"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-06c"

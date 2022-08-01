@@ -6,7 +6,7 @@ description: "Medical Superphysics uses 5 medical paradigms which are aligned wi
 date: "2020-01-01"
 image: "/photos/balancerock.jpg"
 author: "Juan"
-categories: ["Medical Superphysics"]
+# categories: ["Medical Superphysics"]
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
 linkb: "/medical/physical/principles/viruses-are-ideas"
 linkbtext: "viruses-are-ideas"

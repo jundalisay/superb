@@ -1,7 +1,7 @@
 ---
 title: "Yama and Niyama"
-heading: "Chapter 10b "
-date: 2022-01-31
+heading: "Chapter 10b"
+date: 2022-01-11
 description: "In the cycle of social evolution, during each age before it is succeeded by another age, one particular class enjoys domination and superiority"
 image: "/covers/ideology.jpg"
 linkb: "/research/indian/idea/chapter-10"
