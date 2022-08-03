@@ -28,7 +28,9 @@ However, [our model](/social/supersociology/precrisis-years)* from 2015 shows th
 > **Update March 2022: This has been proven by the Russia-Ukraine War
 
 
-The proper policy from 2020 would have been to hunker down instead of hoping for a short term recovery from pent-up demand. Massive dole-outs will just lead to a huge debt burden that cannot be paid on time. The debts serve the interest of the financial system which gains employment even during crises situations. 
+The proper policy* from 2020 would have been to hunker down instead of hoping for a short term recovery from pent-up demand. Massive dole-outs will just lead to a huge debt burden that cannot be paid on time. The debts serve the interest of the financial system which gains employment even during crises situations. 
+
+> *To reduce inflation, cryptocurrencies should be banned
 
 <!-- The spread of the Omicron variant is proof that our model is correct, but just early or off by 1 to 1.5 years.  -->
 
@@ -40,7 +42,7 @@ Metaphysically, a country commits suicide when its people revolt and replace a f
 
 ## Two Solutions: Donations in Kind and Swap Donations
 
-Instead of debt and dole-outs, the natural solution to such a dire economic situation is donation*. In Pantrynomics, donation is the fourth revenue kind, as an improvement to Adam Smith's system:
+Instead of debt and dole-outs, the natural solution to such a dire economic situation is donatio*. In Pantrynomics, donation is the fourth revenue kind, as an improvement to Adam Smith's system:
 
 
 <br>
@@ -52,14 +54,14 @@ Wages | Workers, Employees, Shudras | Democrats
 Profits | Merchants, Businessmen | Oligarchs
 Donations | Researchers, Priests, Academics | Aristocrats (Philosophers) 
 
-> *A government's dole-out can be considered a donation if it comes from a foreign government that is not suffering as much. The dole-outs of most countries are sourced from public debt which come from taxes (rent payment to government for citizenship) and not donations.  
+<!-- > *A government's dole-out can be considered a donation if it comes from a foreign government that is not suffering as much. The dole-outs of most countries are sourced from public debt which come from taxes (rent payment to government for citizenship) and not donations.   -->
 
 
 Economics is descended from Mercantilism which bunches up all such revenues as "income". This then leads to the problematic system of income taxes which leads to tax avoidance and evasion. Moreover, it enshrines money, making money the only way to make payments.  
 
 <br>
 
-### 1. Donations in Kind 
+### 1. One-way Donations in Kind 
 
 A money donation only works if there is a functioning financial system in the affected society. In the case of severe natural disasters, even the telecoms and electrical infrastructure can get totally destroyed, making the financial system not operational. 
 
@@ -67,13 +69,15 @@ A money donation only works if there is a functioning financial system in the af
 
 **What use then is a cash donation at the affected site when there are no supplies to be bought in that society?**
 
-Thus, donations in kind are the first and most basic solution to extreme crises. 
+Thus, one-way donations in kind are the first and most basic solution to extreme crises. 
 
 <br>
 
 ### 2. Swap Donations
 
-After a society restores its basic functions through donations-in-kind, the people still might not have enough capital to start their livelihoods or even gain employment. For example, going to the office requires one to be in office clothes and have had breakfast, a bath, and means to get to the office. In this sense, the clothes act as an employee's direct capital and his water supply and transportation are his indirect capital that allows him to get regular wages. 
+After a society restores its basic functions through donations-in-kind, the people still might not have enough capital to start their livelihoods or even gain employment. 
+
+For example, going to the office requires one to be in office clothes and have had breakfast, a bath, and means to get to the office. In this sense, the clothes act as an employee's direct capital and his water supply and transportation are his indirect capital that allows him to get regular wages. 
 
 We cannot expect our office clothes nor our home water lines to be donated. Instead we can get them from swap donations.
 
@@ -100,5 +104,5 @@ However, their values are much below commercial prices. A swap donation with nor
 
 
 {{< mess >}}
-Swap donations are implemented in Pantrynomics as ![Social Points](https://pantrypoints.com/circle)
+Both one-way and swap donations are implemented in Pantrynomics as ![Social Points](https://pantrypoints.com/circle)
 {{< /mess >}}

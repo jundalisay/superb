@@ -1,6 +1,7 @@
+
 SECTION 2: POLICIES ON BORDER CHECKS, ASYLUM AND IMMIGRATION
 
-Article III-265
+Article 3-265
 
 1. The Union shall develop a policy with a view to:
 (a) ensuring the absence of any controls on persons, whatever their nationality, when crossing
@@ -19,7 +20,7 @@ external borders;
 borders.
 3. This Article shall not affect the competence of the Member States concerning the geographical
 demarcation of their borders, in accordance with international law.
-Article III-266
+Article 3-266
 1. The Union shall develop a common policy on asylum, subsidiary protection and temporary
 protection with a view to offering appropriate status to any third‑country national requiring
 international protection and ensuring compliance with the principle of non‑refoulement. This policy
@@ -45,7 +46,7 @@ characterised by a sudden inflow of nationals of third countries, the Council, o
 Commission, may adopt European regulations or decisions comprising provisional measures for the
 benefit of the Member State(s) concerned. It shall act after consulting the European Parliament.
 
-Article III-267
+Article 3-267
 1. The Union shall develop a common immigration policy aimed at ensuring, at all stages, the
 efficient management of migration flows, fair treatment of third‑country nationals residing legally in
 Member States, and the prevention of, and enhanced measures to combat, illegal immigration and
@@ -70,7 +71,7 @@ Member States.
 5. This Article shall not affect the right of Member States to determine volumes of admission of
 third-country nationals coming from third countries to their territory in order to seek work, whether
 employed or self-employed.
-Article III-268
+Article 3-268
 The policies of the Union set out in this Section and their implementation shall be governed by the
 principle of solidarity and fair sharing of responsibility, including its financial implications, between
 the Member States. Whenever necessary, the Union acts adopted pursuant to this Section shall

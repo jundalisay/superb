@@ -1,7 +1,7 @@
 +++
 title=  "The Carrying Trade"
 description=  "The Carrying Trade can be as important as the foreign trade of consumption"
-date=  2020-01-01
+date=  2020-01-04
 image=  "/covers/wn.jpg"
 linkbtext=  "Chapter 4"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-5b"
@@ -37,7 +37,7 @@ For example, the coal trade from Newcastle to London employs more shipping than 
 Forcing more of the country's capital into the carrying trade by extraordinary encouragements above the natural will not always increase that country's shipping.
 
 
-31 The capital employed in the home-trade will generally=  Support more of its productive labour Increase the value of its produce more than an equal capital employed in the foreign trade
+{{< s v="31" >}} The capital employed in the home-trade will generally=  Support more of its productive labour Increase the value of its produce more than an equal capital employed in the foreign trade
 
 The capital in the foreign trade of consumption has a greater advantage over an equal capital in the carrying trade. The riches and power of every country must always be in proportion to the value of its annual produce, the fund from which all taxes must ultimately be paid. But the great object of the political economy of every country is to increase the riches and power of that country.
 
@@ -48,7 +48,7 @@ It should give no preference nor encouragement=
 It should neither force nor tempt into either of those two channels more of a country's capital than what would naturally flow into them.
 
 
-32 When the produce of any country exceeds its own demand, the surplus must be sent abroad. It must be exchanged for something which is in demand at home. 
+{{< s v="32" >}} When the produce of any country exceeds its own demand, the surplus must be sent abroad. It must be exchanged for something which is in demand at home. 
 
 Without such exportation, a part of the productive labour of the country will cease and its resulting value will diminish.
 
@@ -59,7 +59,7 @@ The land and labour of Great Britain produce more grain, woollens, and hardware 
 The sea-coast and the banks of navigable rivers are advantageous for industry only because they facilitate the exchange of such surplus produce.
 
 
-33 When the foreign goods purchased with the surplus domestic produce exceed the demand at home, the surplus must be sent abroad again.
+{{< s v="33" >}} When the foreign goods purchased with the surplus domestic produce exceed the demand at home, the surplus must be sent abroad again.
 
 Around 96,000 hogsheads of tobacco are annually purchased in Virginia and Maryland with surplus British produce.
 - But Great Britain does not require perhaps more than 14,000.
@@ -72,7 +72,8 @@ Around 96,000 hogsheads of tobacco are annually purchased in Virginia and Maryla
 
 <!--  of the country and the value of its produce.
  -->
-34 When a country's capital stock is increased to the point that it cannot be all employed to support its productive labour, the surplus naturally disgorges itself into the carrying trade.
+
+{{< s v="34" >}} When a country's capital stock is increased to the point that it cannot be all employed to support its productive labour, the surplus naturally disgorges itself into the carrying trade.
 
 **The carrying trade is the natural effect and symptom of great national wealth, not the cause.** Those statesmen who encourage it mistake the effect for the cause.
 
@@ -96,7 +97,7 @@ The principal branches of the carrying trade of Great Britain are perhaps made u
 - some of the trade done by British merchants between Indian ports.
 
 
-35 The extent of the home-trade is limited by the value of the surplus produce within the country.
+{{< s v="35" >}} The extent of the home-trade is limited by the value of the surplus produce within the country.
 
 The extent of the foreign trade of consumption is limited by the value of the surplus produce of the whole country.
 
@@ -105,7 +106,7 @@ The extent of the carrying trade is limited by the value of the surplus produce 
 - It can absorb the greatest capitals.
 
 
-36 Private profit is the sole motive of the owner of the capital in agriculture, manufactures, or wholesale or retail trade.
+{{< s v="36" >}} Private profit is the sole motive of the owner of the capital in agriculture, manufactures, or wholesale or retail trade.
 
 He never thinks of= 
 - the productive labour it may mobilize and

@@ -1,25 +1,23 @@
-+++
-title= "Part 7"
-heading= "Part 8 of Metaphysics by Aristotle Simplified"
-author= "Aristotle"
-date= "2015-09-03"
-image= "/covers/meta.jpg"
-description= "Aristotle gives maximum importance to the sight over the other senses"
-linkb= "/research/aristotle/metaphysics/book-1/part-6"
-linkbtext= "Part 6"
-linkf= "/research/aristotle/metaphysics/book-1/part-8"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 7 of Metaphysics by Aristotle Simplified"
+title: "The One as the Cause"
+linkTitle: Part 7
+date: 2015-09-24
+image: "/covers/meta.jpg"
+description: "Aristotle gives maximum importance to the sight over the other senses"
+linkb: /research/aristotle/metaphysics/book-1/part-6
+linkbtext: "Part 6"
+linkf: /research/aristotle/metaphysics/book-1/part-8
+linkftext: "Part 8"
+icon: "/icons/aris.jpg"
+---
 
 
 None of the early philosophers who speak about 'principle' and 'cause' mentioned any principle except those which have been distinguished in our work on nature. 
 
 But all evidently have some inkling of them, though only vaguely. 
 
-For some speak of the first principle as matter, whether they suppose one or more first principles, and whether they suppose this to be a body or to be incorporeal. 
+Some speak of the first principle as matter, whether they suppose one or more first principles, and whether they suppose this to be a body or to be incorporeal. 
 
 For example:
 - Plato spoke of the big and the small
@@ -27,20 +25,38 @@ For example:
 - Empedocles spoke of fire, earth, water, and air
 - Anaxagoras of the infinity of things composed of similar parts. These, then, have all had a notion of this kind of cause, and so have all who speak of air or fire or water, or something denser than fire and rarer than air; for some have said the prime element is of this kind.
 
-These thinkers grasped this cause only; but certain others have mentioned the source of movement, e.g. those who make friendship and strife, or reason, or love, a principle.
+These thinkers grasped this cause only. But others have mentioned the source of movement as a principle, e.g. those who make friendship and strife, or reason, or love.
 
-No one has expressed The essence distinctly. It is hinted at chiefly by those who believe in the Forms; 
+No one has expressed The Essence distinctly. 
+- It is hinted at chiefly by those who believe in the Forms.
 
-for they do not suppose either that the Forms are the matter of sensible things, and the One the matter of the Forms, or that they are the source of movement (for they say these are causes rather of immobility and of being at rest), but they furnish the Forms as the essence of every other thing, and the One as the essence of the Forms.
+The believers in the Forms do not suppose that:
+- the Forms are the matter of sensible things
+- The One is the matter of the Forms
+- the Forms are the source of movement 
+  - They say instead that the Forms are causes rather of immobility and of being at rest. 
 
-That for whose sake actions and changes and movements take place, they assert to be a cause in a way, but not in this way, i.e. not in the way in which it is its nature to be a cause. For those who speak of reason or friendship class these causes as goods; they do not speak, however, as if anything that exists either existed or came into being for the sake of these, but as if movements started from these. 
+Instead, they believe that:
+- the Forms as the essence of every other thing
+- The One is the essence of the Forms.
+ 
 
-In the same way, those who say the One or the existent is the good, say that it is the cause of substance, but not that substance either is or comes to be for the sake of this. 
+They assert that actions, changes, and movements take place for the sake of The One, which causes them in a certain way, not in the way which it is its nature to be a cause.
 
-Therefore it turns out that in a sense they both say and do not say the good is a cause; for they do not call it a cause qua good but only incidentally.
+They classify the causes of reason or friendship as 'goods'.
+- They say that the movements of reason or friendship started from these 'goods'. 
+- They do not assign anything that exists or came into being for the sake of these.
 
-All these thinkers then, as they cannot pitch on another cause, seem to testify that we have determined rightly both how many and of what sort the causes are. Besides this it is plain that when the causes are being looked for, either all four must be sought thus or they must be sought in one of these four ways. 
+The believers of The One say that The One or the existent is 'the good' and that it is the cause of substance. 
+<!-- , but not that substance either is or comes to be for the sake of this.  -->
 
-Let us next discuss the possible difficulties with regard to the way in which each of these thinkers has spoken, and with regard to his situation relatively to the first principles.
+Therefore, they both say and do not say the good is a cause. 
+- For they do not call it a cause qua good but only incidentally.
 
+They cannot pitch on another cause. They seem to testify that we have determined rightly both how many and of what sort the causes are. 
+
+Besides, when the causes are being looked for, either all 4 must be sought or they must be sought in one of these 4 ways. 
+
+<!-- Let us next discuss the possible difficulties with regard to the way in which each of these thinkers has spoken, and with regard to his situation relatively to the first principles.
+ -->
 

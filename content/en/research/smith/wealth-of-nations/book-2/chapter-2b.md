@@ -2,7 +2,7 @@
 title=  "Money as a store of value and a tool for trade"
 heading=  "Book 2, Chapter 1a"
 description=  "Money has wholesale and retail"
-date=  2020-01-01
+date=  2020-01-27
 image=  "/covers/wn.jpg"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2a-ndp"
 linkbtext=  "Chapter 2a"

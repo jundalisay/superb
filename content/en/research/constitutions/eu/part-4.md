@@ -83,7 +83,7 @@ Republic of Poland, the Portuguese Republic, the Republic of Slovenia, the Slova
 Republic of Finland, the Kingdom of Sweden and the United Kingdom of Great Britain and Northern
 Ireland.
 2. This Treaty shall apply to Guadeloupe, French Guiana, Martinique, Réunion, the Azores, Madeira
-and the Canary Islands in accordance with Article III-424.
+and the Canary Islands in accordance with Article 3-424.
 3. The special arrangements for association set out in Title IV of Part III shall apply to the overseas
 countries and territories listed in Annex II.
 This Treaty shall not apply to overseas countries and territories having special relations with the

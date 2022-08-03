@@ -132,13 +132,15 @@ Cycle | Mentality
 5 | Putin
 
 
-This means that Russia is in the 2nd season of its 5th cycle in the age that began with Catherine the Great*.
+This means that **Russia is in the 2nd season of its 5th cycle in the age that began with Catherine the Great**.*
 
 
 > *Our notation for social cycles is similar to the regnal year method of Asia and the European monarchs. For example, Year 1 of Japan's Reiwa era began on May 1, 2019. Reiwa Year 1 (based on Naruhito's ascension) is the equivalent of 2019 (based on Jesus' birth year) 
 
 
-Ukraine's independent history is quite short, starting from 1991. It does not form any known pattern yet. Russia's pattern is from 1263, making it easy to plot. A better alternative would be to plot Ukraine's history from 482 AD when Kyiv was founded. However, there is a lot of missing information between 482 and 2014 (Euromaidan). This would make any pattern a result of guesswork which can never be a foundation of any scientific prediction. 
+Ukraine's independent history is quite short, starting from 1991. It does not form any known pattern yet.
+
+Russia's pattern is from 1263, making it easy to plot. A better alternative would be to plot Ukraine's history from 482 AD when Kyiv was founded. However, there is a lot of missing information between 482 and 2014 (Euromaidan). This would make any pattern a result of guesswork which can never be a foundation of any scientific prediction. 
 
 
 
@@ -195,22 +197,27 @@ The proper way to 'fix' Russia, under this Mongol-trend, is to simply **allow th
 
 This will then relax the feelings of Russia (and China) leading to less tensions. This will then allow both liberalism and  non-liberalism to spread and find the proper balance.
 
-The Mongol system is based on few simple rules that are sacred to simple barbarians. The key is to work within those simple rules. An example is the rule of self-preservation.   
-
-This is very different from the current mode of thinking of the West wherein they see the destruction of non-liberalism as a moral and just cause that is worth pursuing agressively. Their egos seem to be so high that they are unable to sense that such a mentality has caused so many unnecessary conflicts since the 19th century. <!-- , and is still causing, the external post-French Revolution conflicts that began with Napoleon. --> The World Wars and the current Ukraine war are modern examples of the effects of such thinking. Liberalism is like a modern crusade being undertaken by the West which has nothing better to do with its productivity*.
+The Mongol system is based on few simple rules that are sacred to simple barbarians*. **The key is to work within those simple rules.** An example is the rule of self-preservation.
 
 
-> *Ideally, all that productivity should be channeled to the exploration of Mars. The problem is that the West blindly believes in the sophistry of Albert Einstein's [General Relativity](/material/fallacies/general-relativity) which makes such exploration extremely expensive. 
+> *We have worked extensively with dirt-poor communities and have gotten used to how barbaric and even animalistic some humans can become 
 
 
-This highness of ego leads to a disconnect with reality as clearly shown by the US abandoning Afghanistan in 2021. If Biden were consistent in wanting to stamp out nonliberalism from the planet, then the US should've drained its taxpayer money to civilize and "liberalize" the Afghans, which [we estimate to take 80 years](/social/cycles/afghanistan). This would make it morally good, just as a parent can impoverish himself just to give the best education for his child. 
+This is very different from the current mode of thinking of the West wherein they see the destruction of non-liberalism as a moral and just cause that is worth pursuing agressively. Their egos seem to be so high that they are unable to sense that such a mentality has caused so many unnecessary conflicts since the 19th century. <!-- , and is still causing, the external post-French Revolution conflicts that began with Napoleon. -->  The World Wars and the current Ukraine war are modern examples of the effects of such thinking. 
+
+Liberalism is like a modern crusade being undertaken by the West which has nothing better to do with its productivity*.
+
+
+> *Ideally, all that productivity should be channeled to the exploration of Mars. The problem is that the West blindly believes in the sophistry of Albert Einstein's [General Relativity](/material/fallacies/general-relativity) which makes such exploration extremely expensive.
+
+
+This highness of ego leads to a disconnect with reality. This is clearly shown by the US abandoning Afghanistan in 2021. 
+
+If Biden were consistent in wanting to stamp out nonliberalism from the planet, then the US should've drained its taxpayer money to civilize and "liberalize" the Afghans, which [we estimate to take 80 years](/social/cycles/afghanistan). This is similar to how a father can impoverish himself just to give the best education for his child. This would make the actions of the US match its advocacy, and be a clear sign of its truthfulness and high morals. 
 
 
 
-
-
-
-In reality, the West just liberalizes places which have resources to feed its own materialism. This is like a parent who supports only the children who can bring in money or some benefit eventually. 
+In reality, the West just liberalizes places which have resources to feed its own materialism. This is like a shrewd parent who only supports the children who can bring in money or some benefit eventually. 
 
 Therefore, democracy is just a cover for greed to spread its tentacles, just as autocracy is a cover for the spread of simple-mindedness.
 
@@ -219,4 +226,7 @@ Had Ukraine surrendered:
 - its infrastructure would've stayed intact 
 - the animosity between Russia and Ukraine wouldn't become extreme
 
-Russia would change its cycle in 15 years anyway, allowing a relaxation of its nonliberal policies towards Ukraine. By that time, its union with Ukraine could even spur democracy in Russia itself, in a natural, painless way. This is similar to how North Vietnam should've surrendered to South Vietnam and gotten freedom anyway without going through the horrors of war. 
+Russia would change its cycle in 15 years anyway, allowing a relaxation of its nonliberal policies towards Ukraine. By that time, its union with Ukraine could even spur democracy in Russia itself, in a natural, painless way. 
+
+This is similar to how North Vietnam should've surrendered to South Vietnam and gotten freedom anyway without going through the horrors of war. 
+

@@ -42,7 +42,7 @@ signatory, the name of the party or names of the parties against whom the applic
 subject matter of the dispute, the form of order sought and a brief statement of the pleas in law on
 which the application is based.
 The application shall be accompanied, where appropriate, by the measure the annulment of which is
-sought or, in the circumstances referred to in Article III-367 of the Constitution, by documentary
+sought or, in the circumstances referred to in Article 3-367 of the Constitution, by documentary
 evidence of the date on which an institution was, in accordance with that Article, requested to act. If
 the documents are not submitted with the application, the Registrar shall ask the party concerned to
 produce them within a reasonable period, but in that event the rights of the party shall not lapse even
@@ -60,7 +60,7 @@ If the Court annuls the decision of the Arbitration Committee, the matter may be
 appropriate, on the initiative of one of the parties in the case, before the Arbitration Committee. The
 latter shall conform to any decisions on points of law given by the Court.
 Article 23
-In the cases governed by Article III-369 of the Constitution, the decision of the court or tribunal of a
+In the cases governed by Article 3-369 of the Constitution, the decision of the court or tribunal of a
 Member State which suspends its proceedings and refers a case to the Court of Justice shall be
 notified to the Court of Justice by the court or tribunal concerned. The decision shall then be notified
 by the Registrar of the Court of Justice to the parties, to the Member States and to the Commission,
@@ -151,10 +151,10 @@ Treaty establishing a Constitution for Europe
 Article 39
 The President of the Court of Justice may, by way of summary procedure, which may, insofar as
 necessary, differ from some of the rules contained in this Statute and which shall be laid down in the
-Rules of Procedure, adjudicate upon applications to suspend execution, as provided for in Article III-
+Rules of Procedure, adjudicate upon applications to suspend execution, as provided for in Article 3-
 379(1) of the Constitution and Article 157 of the EAEC Treaty, or to prescribe interim measures in
-pursuance of Article III-379(2) of the Constitution, or to suspend enforcement in accordance with
-the fourth paragraph of Article III-401 of the Constitution or the third paragraph of Article 164 of
+pursuance of Article 3-379(2) of the Constitution, or to suspend enforcement in accordance with
+the fourth paragraph of Article 3-401 of the Constitution or the third paragraph of Article 164 of
 the EAEC Treaty.
 Should the President be prevented from attending, his place shall be taken by another Judge under
 conditions laid down in the Rules of Procedure.
@@ -208,7 +208,7 @@ period of five years from the occurrence of the event giving rise thereto. The p
 shall be interrupted if proceedings are instituted before the Court of Justice or if prior to such
 proceedings an application is made by the aggrieved party to the relevant institution of the Union. In
 the latter event the proceedings must be instituted within the period of two months provided for in
-Article III-365 of the Constitution. The second paragraph of Article III-367 of the Constitution shall
+Article 3-365 of the Constitution. The second paragraph of Article 3-367 of the Constitution shall
 apply.
 This Article shall also apply to proceedings against the European Central Bank regarding non-
 contractual liability.

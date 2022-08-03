@@ -5,9 +5,9 @@ heading: "Chapter 5"
 date: 2022-01-19
 description: "Consciousness is the supreme subjectivity and all other, mundane, subjectivities or objectivities are mere blendings of the absolute subjectivity"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-04c"
+linkb: "/research/sarkar/idea/chapter-04c"
 linkbtext: "Chapter 4c"
-linkf: "/research/indian/idea/chapter-06"
+linkf: "/research/sarkar/idea/chapter-06"
 linkftext: "Chapter 6"
 icon: /flags/in.png
 ---

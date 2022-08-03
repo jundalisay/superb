@@ -1,7 +1,7 @@
 +++
 title=  "The Importance of Savings and Prudence"
 description=  "The Importance of Savings and Prudence"
-date=  2020-01-01
+date=  2020-01-12
 image=  "/covers/wn.jpg"
 heading=  "Chapter 3b"
 icon=  "/icons/smith.png"

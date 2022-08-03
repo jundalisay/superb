@@ -25,7 +25,7 @@ Article 4
 Articles I‑30(2), with the exception of the first and last sentences thereof, I‑30(5), III‑177, second
 paragraph, III‑184(1), (9) and (10), III‑185(1) to (5), III‑186, III‑188, III‑189, III‑190, III‑191, III‑196,
 III‑198(3), III‑326 and III‑382 of the Constitution shall not apply to the United Kingdom. The same
-applies to Article III‑179(2) of the Constitution as regards the adoption of the parts of the broad
+applies to Article 3‑179(2) of the Constitution as regards the adoption of the parts of the broad
 economic policy guidelines which concern the euro area generally.
 
 In the provisions referred to in the first paragraph, references to the Union or the Member States shall
@@ -44,11 +44,11 @@ Article 6
 
 The voting rights of the United Kingdom shall be suspended for the adoption by the Council of the
 measures referred to in the Articles listed in Article 4 and in the instances referred to in the first
-subparagraph of Article III‑197(4) of the Constitution. For this purpose the second and third
-subparagraphs of Article III‑197(4) of the Constitution shall apply.
+subparagraph of Article 3‑197(4) of the Constitution. For this purpose the second and third
+subparagraphs of Article 3‑197(4) of the Constitution shall apply.
 The United Kingdom shall also have no right to participate in the appointment of the President, the
 Vice‑President and the other members of the Executive Board of the European Central Bank under
-the second, third and fourth subparagraphs of Article III‑382(2) of the Constitution.
+the second, third and fourth subparagraphs of Article 3‑382(2) of the Constitution.
 
 Article 7
 
@@ -62,7 +62,7 @@ Bank’ shall not include capital subscribed by the Bank of England.
 
 Article 8
 
-Article III‑199 of the Constitution and Articles 43 to 47 of the Statute shall have effect, whether or
+Article 3‑199 of the Constitution and Articles 43 to 47 of the Statute shall have effect, whether or
 not there is any Member State with a derogation, subject to the following amendments:
 (a) References in Article 43 of the Statute to the tasks of the European Central Bank and the
 European Monetary Institute shall include those tasks that still need to be performed after the
@@ -81,19 +81,19 @@ event:
 
 (a) The United Kingdom shall have the right to adopt the euro provided only that it satisfies the
 necessary conditions. The Council, acting at the request of the United Kingdom and under the
-conditions and in accordance with the procedure laid down in Article III‑198(1) and (2) of the
+conditions and in accordance with the procedure laid down in Article 3‑198(1) and (2) of the
 Constitution, shall decide whether it fulfils the necessary conditions.
 (b) The Bank of England shall pay up its subscribed capital, transfer to the European Central Bank
 foreign reserve assets and contribute to its reserves on the same basis as the national central bank
 of a Member State whose derogation has been abrogated.
 (c) The Council, acting under the conditions and in accordance with the procedure laid down in
-Article III‑198(3) of the Constitution, shall take all other necessary decisions to enable the
+Article 3‑198(3) of the Constitution, shall take all other necessary decisions to enable the
 United Kingdom to adopt the euro.
 If the United Kingdom adopts the euro pursuant to the provisions of this Article, Articles 3 to 8 shall
 cease to have effect.
 
 Article 10
-Notwithstanding Article III‑181 of the Constitution and Article 21(1) of the Statute, the Government
+Notwithstanding Article 3‑181 of the Constitution and Article 21(1) of the Statute, the Government
 of the United Kingdom may maintain its ‘ways and means’ facility with the Bank of England if and so
 long as the United Kingdom does not adopt the euro.
 

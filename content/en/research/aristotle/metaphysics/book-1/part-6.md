@@ -2,7 +2,7 @@
 title= "Plato's Philosophy"
 heading= "Part 6 of Metaphysics by Aristotle Simplified"
 author= "Aristotle"
-date= "2015-09-04"
+date= "2015-09-25"
 image= "/covers/meta.jpg"
 description= "Aristotle gives maximum importance to the sight over the other senses"
 linkb= "/research/aristotle/metaphysics/book-1/part-5"

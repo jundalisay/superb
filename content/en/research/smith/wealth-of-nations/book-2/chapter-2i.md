@@ -1,7 +1,7 @@
 +++
 title=  "The Ayr Bank"
 description=  "The Ayr Bank failed because it was too big to fail"
-date=  2020-01-01
+date=  2020-01-20
 image=  "/covers/wn.jpg"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2h"
 linkbtext=  "Chapter 2h"

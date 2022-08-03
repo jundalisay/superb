@@ -91,10 +91,10 @@ financial year and shall be shown in the Union's budget, in accordance with Part
 2.
 The revenue and expenditure shown in the budget shall be in balance.
 3. The expenditure shown in the budget shall be authorised for the annual budgetary period in
-accordance with the European law referred to in Article III-412.
+accordance with the European law referred to in Article 3-412.
 4. The implementation of expenditure shown in the budget shall require the prior adoption of a
 legally binding Union act providing a legal basis for its action and for the implementation of the
-corresponding expenditure in accordance with the European law referred to in Article III-412, except
+corresponding expenditure in accordance with the European law referred to in Article 3-412, except
 in cases for which that law provides.
 5. With a view to maintaining budgetary discipline, the Union shall not adopt any act which is
 likely to have appreciable implications for the budget without providing an assurance that the
@@ -108,7 +108,7 @@ resources and in compliance with the multiannual financial framework referred to
 6. The budget shall be implemented in accordance with the principle of sound financial
 management. Member States shall cooperate with the Union to ensure that the appropriations
 entered in the budget are used in accordance with this principle.
-7. The Union and the Member States, in accordance with Article III-415, shall counter fraud and
+7. The Union and the Member States, in accordance with Article 3-415, shall counter fraud and
 any other illegal activities affecting the financial interests of the Union.
 Article I-54
 The Union's own resources
@@ -128,7 +128,7 @@ Article I-55
 The multiannual financial framework
 1. The multiannual financial framework shall ensure that Union expenditure develops in an orderly
 manner and within the limits of its own resources. It shall determine the amounts of the annual
-ceilings of appropriations for commitments by category of expenditure in accordance with Article III-
+ceilings of appropriations for commitments by category of expenditure in accordance with Article 3-
 402.
 2. A European law of the Council shall lay down the multiannual financial framework. The Council
 shall act unanimously after obtaining the consent of the European Parliament, which shall be given
@@ -144,7 +144,7 @@ Pagina 44
 Part I
 Article I-56
 The Union's budget
-A European law shall establish the Union's annual budget in accordance with Article III-404.
+A European law shall establish the Union's annual budget in accordance with Article 3-404.
 TITLE VIII
 THE UNION AND ITS NEIGHBOURS
 Article I-57
@@ -229,7 +229,7 @@ constitutional requirements.
 the light of the guidelines provided by the European Council, the Union shall negotiate and conclude
 an agreement with that State, setting out the arrangements for its withdrawal, taking account of the
 framework for its future relationship with the Union. That agreement shall be negotiated in
-accordance with Article III-325(3). It shall be concluded by the Council, acting by a qualified
+accordance with Article 3-325(3). It shall be concluded by the Council, acting by a qualified
 majority, after obtaining the consent of the European Parliament.
 3. The Constitution shall cease to apply to the State in question from the date of entry into force of
 the withdrawal agreement or, failing that, two years after the notification referred to in paragraph 2,

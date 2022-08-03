@@ -1,6 +1,6 @@
 +++
 title=  "Bank Notes vs Promissory Notes"
-date=  2020-01-01
+date=  2020-01-15
 image=  "/covers/wn.jpg"
 description=  "The Increase in Bank Notes does not increase inflation"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2m"

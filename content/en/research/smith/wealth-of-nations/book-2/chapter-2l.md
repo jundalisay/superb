@@ -1,6 +1,6 @@
 +++
 title=  "Banks Increase National Wealth by Mobilizing Dead Stock"
-date=  2020-01-01
+date=  2020-01-17
 image=  "/covers/wn.jpg"
 description=  "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2k"

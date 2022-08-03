@@ -19,7 +19,7 @@ provided for in the Constitution and from the approximation of provisions laid d
 regulation or administrative action of the Member States.
 
 Article 3-210
-1. With a view to achieving the objectives of Article III-209, the Union shall support and
+1. With a view to achieving the objectives of Article 3-209, the Union shall support and
 complement the activities of the Member States in the following fields:
 (a) improvement in particular of the working environment to protect workers' health and safety;
 (b) working conditions;
@@ -29,7 +29,7 @@ complement the activities of the Member States in the following fields:
 (f) representation and collective defence of the interests of workers and employers, including co-
 determination, subject to paragraph 6;
 (g) conditions of employment for third-country nationals legally residing in Union territory;
-(h) the integration of persons excluded from the labour market, without prejudice to Article III-283;
+(h) the integration of persons excluded from the labour market, without prejudice to Article 3-283;
 (i) equality between women and men with regard to labour market opportunities and treatment
 at work;
 (j) the combating of social exclusion;
@@ -57,7 +57,7 @@ consulting the European Parliament.
 4. A Member State may entrust management and labour, at their joint request, with the
 implementation of European framework laws adopted pursuant to paragraphs 2 and 3 or, where
 appropriate, with the implementation of European regulations or decisions adopted in accordance
-with Article III-212.
+with Article 3-212.
 In this case, it shall ensure that, no later than the date on which a European framework law must be
 transposed, or a European regulation or decision implemented, management and labour have
 introduced the necessary measures by agreement, the Member State concerned being required to take
@@ -72,7 +72,7 @@ measures compatible with the Constitution.
 6. This Article shall not apply to pay, the right of association, the right to strike or the right to
 impose lockouts.
 
-Article III-211
+Article 3-211
 
 1. The Commission shall promote the consultation of management and labour at Union level and
 shall adopt any relevant measure to facilitate their dialogue by ensuring balanced support for the
@@ -84,21 +84,21 @@ desirable, it shall consult management and labour on the content of the envisage
 Management and labour shall forward to the Commission an opinion or, where appropriate, a
 recommendation.
 4. On the occasion of the consultation referred to in paragraphs 2 and 3, management and labour
-may inform the Commission of their wish to initiate the process provided for in Article III-212(1).
+may inform the Commission of their wish to initiate the process provided for in Article 3-212(1).
 The duration of this process shall not exceed nine months, unless the management and labour
 concerned and the Commission decide jointly to extend it.
-Article III-212
+Article 3-212
 1. Should management and labour so desire, the dialogue between them at Union level may lead to
 contractual relations, including agreements.
 2. Agreements concluded at Union level shall be implemented either in accordance with the
 procedures and practices specific to management and labour and the Member States or, in matters
-covered by Article III-210, at the joint request of the signatory parties, by European regulations or
+covered by Article 3-210, at the joint request of the signatory parties, by European regulations or
 decisions adopted by the Council on a proposal from the Commission. The European Parliament
 shall be informed.
 Where the agreement in question contains one or more provisions relating to one of the areas for
-which unanimity is required pursuant to Article III-210(3), the Council shall act unanimously.
-Article III-213
-With a view to achieving the objectives of Article III-209 and without prejudice to the other
+which unanimity is required pursuant to Article 3-210(3), the Council shall act unanimously.
+Article 3-213
+With a view to achieving the objectives of Article 3-209 and without prejudice to the other
 provisions of the Constitution, the Commission shall encourage cooperation between the
 Member States and facilitate the coordination of their action in all social policy fields under this
 Section, particularly in matters relating to:
@@ -119,7 +119,7 @@ fully informed.
 Before delivering the opinions provided for in this Article, the Commission shall consult the
 Economic and Social Committee.
 
-Article III-214
+Article 3-214
 1. Each Member State shall ensure that the principle of equal pay for female and male workers for
 equal work or work of equal value is applied.
 2. For the purpose of this Article, ‘pay’ means the ordinary basic or minimum wage or salary and
@@ -137,15 +137,15 @@ be adopted after consultation of the Economic and Social Committee.
 principle of equal treatment shall not prevent any Member State from maintaining or adopting
 measures providing for specific advantages in order to make it easier for the under-represented sex to
 pursue a vocational activity, or to prevent or compensate for disadvantages in professional careers.
-Article III-215
+Article 3-215
 Member States shall endeavour to maintain the existing equivalence between paid holiday schemes.
 
-Article III-216
+Article 3-216
 
 The Commission shall draw up a report each year on progress in achieving the objectives of
-Article III-209, including the demographic situation within the Union. It shall forward the report to
+Article 3-209, including the demographic situation within the Union. It shall forward the report to
 the European Parliament, the Council and the Economic and Social Committee.
-Article III-217
+Article 3-217
 The Council shall, by a simple majority, adopt a European decision establishing a Social Protection
 Committee with advisory status to promote cooperation on social protection policies between
 Member States and with the Commission. The Council shall act after consulting the
@@ -155,18 +155,18 @@ The tasks of the Committee shall be:
 States and within the Union;
 (b) to promote exchanges of information, experience and good practice between Member States and
 with the Commission;
-(c) without prejudice to Article III-344, to prepare reports, formulate opinions or undertake other
+(c) without prejudice to Article 3-344, to prepare reports, formulate opinions or undertake other
 work within the scope of its powers, at the request of either the Council or the Commission or on
 its own initiative.
 In fulfilling its mandate, the Committee shall establish appropriate contacts with management and
 labour.
 Each Member State and the Commission shall appoint two members of the Committee.
-Article III-218
+Article 3-218
 The Commission shall include a separate chapter on social developments within the Union in its
 annual report to the European Parliament.
 The European Parliament may invite the Commission to draw up reports on any particular problems
 concerning social conditions.
-Article III-219
+Article 3-219
 1. In order to improve employment opportunities for workers in the internal market and to
 contribute thereby to raising the standard of living, a European Social Fund is hereby established; it
 shall aim to render the employment of workers easier and to increase their geographical and

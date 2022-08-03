@@ -22,18 +22,24 @@ aliases:
 <!-- Economics is largely based on Physics as proven by the extensive use of Calculus and the removal of Moral Philosophy during the 19th century. Prior to that, Economics was called the Political Economy which was largely based on law, morals, and not math which can be dismal. Taonomics uses the Effort Theory of Value instead of Marginal Pricing to give value to the Taonomy (an economy that is in the Tao).
 linkb: /pantrynomics/the-inelastic-supply-curve-sophistry -->
 
-The invisible hand concept by Adam Smith is one of the most important ideas in our proposed economic science, making up [the Second Law of Value](/social/economics/principles/four-laws-of-value) which then leads to [the effort theory of value](/social/economics/principles/effort-theory-of-value) which replaces the arbitrary marginal pricing of Neoclassical Economics. 
+The invisible hand concept by Adam Smith is one of the most important ideas in our proposed economic science, making up [the Second Law of Value](/social/economics/principles/second-law). 
 
-<!-- As it is so fundamental, it has to be thoroughly explained. --> Unfortunately, such a fundamental concept has been thoroughly corrupted by Paul Samuelson in order to advance his selfish "neoclassical synthesis". Since then, it has been unjustly blamed for bad things about the economy and has even been denounced:
+This Second Law leads to [the effort theory of value](/social/economics/principles/effort-theory-of-value) which then replaces marginal utility. Without marginal utility, then the arbitrary marginal pricing and profit maximization of Neoclassical Economics cease to be logical as they necessarily violate the [Fourth Law of Value](/social/economics/principles/fourth-law). 
+
+<!-- As it is so fundamental, it has to be thoroughly explained. --> 
+
+Unfortunately, such a fundamental concept has been thoroughly corrupted by Paul Samuelson in order to advance his selfish "neoclassical synthesis". Since then, it has been unjustly blamed for bad things about the economy and has even been denounced:
 
 {{< youtube 9qjvwQrZmpk >}}
 
-We start with a blank slate and separate the original definition from Smith from the shallow one from Paul Samuelson:
+#
 
-{{< quote >}}
+We bring back the original invisible hand by separating it from corrupted hand from Paul Samuelson:
+
+{{< q a="sam" >}}
 <p>Smith proclaimed the principle of the ‘invisible hand’. It says that every individual, in selfishly pursuing only his or her personal good, is led, as if by an invisible hand, to achieve the best good for all. In this best of all possible worlds, any interference with free competition is certain to be injurious.</p>
 <cite>Economics</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 Of course, that is absolutely false, since Smith pointed to sympathy and benevolence (the direct opposite of selfishness), as the substance that keeps the machine called society running smoothly. Samuelson merely cherry-picked Smith’s views on self-interest, which to Smith was a 'praise-worthy' positive quality, and then corrupted it into selfishness which is a negative quality:
@@ -72,27 +78,27 @@ If a man orders burgers instead of fries, we never say that he is selfish for bu
 
 Now that we have flushed Samuelson's invisible hand down the toilet, we can move to the one described by Smith. 
 
-Its best description is not in The Wealth of Nations, but in The Theory of Moral Sentiments, wherein he describes the **innate human desire for things to work as they were meant to**:
-
 ![Beautiful hand](/photos/objects/hand.jpg)
 
-{{< quote ava="smith" >}}
-<p>A watch that falls behind more than two minutes in a day, is despised by one curious in watches. He sells it perhaps for two guineas and purchases another at 50 which will not lose more than a minute in a fortnight.. What interests him is not so much the attainment of knowing the time, asthe perfection of the machine created to attain it.</p>
-<cite>Simple Theory Of Moral Sentiments, Part 4</cite>
-{{< /quote >}}
+Its best description is not in The Wealth of Nations, but in The Theory of Moral Sentiments, wherein he describes the **innate human desire for things to work as they were meant to**:
+
+{{< q a="smith" >}}
+<p>A watch that falls behind more than two minutes in a day, is despised by one curious in watches. He sells it perhaps for two guineas and purchases another at 50 which will not lose more than a minute in a fortnight.. What interests him is not so much the attainment of knowing the time, as the perfection of the machine created to attain it.</p>
+<cite>Theory Of Moral Sentiments Simplified, Part 4</cite>
+{{< /q >}}
 
 
 Humans have an innate desire for things to work as they were designed. This natural desire applies even to human systems such as resource allocation:
 
 {{< quote ava="smith" >}}
-<p>The proud and unfeeling landlord views his extensive fields, and without a thought for his brethren, he imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires and receives no more than that of the meanest peasant. **The rest of the food he is obliged to distribute** among his servants.. The rich.. divide with the poor the produce of all their improvements despite their natural selfishness and rapacity. They are led by an invisible hand to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally among all its inhabitants.</p> 
+<p>The proud and unfeeling landlord views his extensive fields, and without a thought for his brethren, he imagines to eat its whole harvest.. The capacity of his stomach is far less than the immensity of his desires and receives no more than that of the meanest peasant. <b>The rest of the food he is obliged to distribute among his servants</b>.. The rich.. divide with the poor the produce of all their improvements despite their natural selfishness and rapacity. They are led by an invisible hand to make nearly the same distribution of life’s necessities which would have been made, had the earth been divided equally among all its inhabitants.</p> 
 
 <p>Thus, without intending or knowing it, they advance the interest of the society, and afford the means to multiply the species. When Providence divided the earth among a few lordly masters, it neither forgot nor abandoned those who were left out in the partition. These last too enjoy their share of all that it produces. In the <b>real happiness of human life</b>, they [the poor] are not inferior to those who seem so much above them. In ease of body and <b>peace of mind</b>, all the different ranks of life are nearly on a level. The beggar, who suns himself by the side of the highway, possesses that security which kings are fighting for.</p>
 <cite>Simple Theory Of Moral Sentiments, Part 4 [emphases Added]</cite>
 {{< /quote >}}
 
 
-{{< img src="https://socioecons.files.wordpress.com/2016/02/a57b1eeaaa64397c14baad182f7bf96d-beautiful-pictures-beautiful-people.jpg" alt="Buddhist monk laughing" cap="Buddhist monks also beg and sun themselves on the highway yet have the happiness and security that kings are fighting for. Australian moralist Peter Singer thinks that the beggar mentioned by Smith is the dirty type. This makes him think that Smith was promoting poverty and inequality" >}}
+{{< img src="https://socioecons.files.wordpress.com/2016/02/a57b1eeaaa64397c14baad182f7bf96d-beautiful-pictures-beautiful-people.jpg" alt="Buddhist monk laughing" cap="Buddhist monks also beg and sun themselves on the highway yet have the happiness and security that kings are fighting for. Australian moralist Peter Singer thinks that the beggar mentioned by Smith is the dirty type. This is because Australia has no culture of Buddhist or Hindu monks begging. This makes him think that Smith was promoting poverty and inequality. " >}}
 
 
 ## A ‘Flood-down’ Economy Based on Skill, Not ‘Trickle-down’ Based on Welfare
@@ -101,7 +107,7 @@ Humans have an innate desire for things to work as they were designed. This natu
 
 This perfection of the distribution of resources is thus done by employment. Instead of giving scraps and bits of their wealth as wages to employees, the wealthy give most of it through massive employment, naturally leading to full employment.
 
-However, if the wealthy give away most of their wealth to employ anyone and everyone, then the overall wealth of society will decline very fast. 
+However, if the wealthy give away most of their wealth to employ anyone and everyone, then the overall wealth of society might decline very fast since not everyone works hard to match the pay. 
 
 **To solve this, the natural rule is to employ people based on skill.**
 
@@ -116,9 +122,9 @@ When a school’s basketball team looks for players, it doesn’t base its hirin
 
 Here, Smith clearly states that public benefit from societal productivity does not come from the sympathy for others. 
 
-Liberals jump into this idea in order to justify selfishness. They disregard the fact that the patriot is **public-spirited in the first place** and is focused on a specific goal or feeling, which is not selfishness or the feeling of the self. 
+Libertarians jump into this idea in order to justify selfishness. They disregard the fact that the patriot is **public-spirited in the first place** and is focused on a specific goal or feeling, which is not selfishness or the feeling of the self. 
 
-Similarly, in our basketball team and entrepreneur example, we don't need to mention that the team is passionate about basketball or the entrepreneur is passionate about creating goods and services. An entreprenuer that is passionate with himself is called a miser and not an entrepreneur. 
+Similarly, in our basketball team and entrepreneur example, we don't need to mention that the team is passionate about basketball or the entrepreneur is passionate about creating goods and services. An entrepreneur that is passionate with only himself is really a miser and not an entrepreneur. 
 
 <!-- They corrupt Smith by disregarding the non-selfish parts. The purely selfish version of employment and teamwork is called slavery, where the employees and team members are forced into working. -->
 
@@ -127,9 +133,9 @@ Smith likewise explains that the cause that drives public benefit in a free soci
 > *This is our [second law of value](/social/economics/principles/second-law)
 
 
-If a society was not interested in Jim's product, then that product would not be sold and there would be no public benefit. Jim's original interest in making that useless product would then not fall under the invisible hand. However, he can still strive to make his product meet the interest of the public by improving it through trial and error. He will only know that it matches the public interest after it actually gets sold.
+If a society were not interested in Jim's product, then that product would not be sold and there would be no public benefit. Jim's original interest in making that useless product would then not fall under the invisible hand. However, he can still strive to make his product meet the interest of the public by improving it through trial and error. He will only know that it matches the public interest after it actually gets sold.
 
-Thus, **employment (the sale of services) and sales (the sale of goods)** are two of the many ways how the invisible hand taps the energy from personal interest or passion to diffuse its productivity throughout society to quench the needs of the public interest (called effectual demand)*.
+Thus, **employment (the sale of services) and sales (the sale of goods)** are two of the many ways the invisible hand taps the energy from personal interest or passion, to diffuse its productivity throughout society to quench the needs of the public interest (called effectual demand)*.
 
 
 > *This is our [third law of value](/social/economics/principles/third-law)
@@ -142,7 +148,7 @@ This mixture of public interest with personal interest usually creates confusion
 - People with fellow-feeling (i.e. Socialists) often highlight Smith's emphasis on the public interest. 
 - Skilled but selfish people (i.e. Capitalists), on the other hand, highlight his focus on personal interest. 
 
-From our dialectical analysis, we can see that **personal interest naturally comes first, but is immediately followed by the public interest which is much more important**.
+From our [Socratic dialectical analysis](/superphysics/socratic-dialectics) (an analysis anchored on metaphysical truths), we can see that **personal interest naturally comes first, but is immediately followed by the public interest which is much more important**.
 
 <!-- > *This is easily explained throughthe concept of the mind of society, which is different from the personal mind. -->
 
@@ -160,7 +166,9 @@ A chef can create a new kind of dish for himself. Other people might try it, lik
 
 This proper and natural mixture of private and public interest then creates a pantrynomy which incorporates all the ideas and maxims from Adam Smith, David Hume, Socrates, and Asian philosophy (we'll explain what Pantrynomy means later). Like an economy, which originated from the management of an estate, it starts with personal interest, incentives, and property protection in order to raise productiviy. 
 
-But unlike an economy, it switches to the public interest after the productivity has gone beyond the basics and before it gets maxed out. This latter innovation ensures sustainability by preventing inequality and environmental destruction which both go against the Dharma (also explained later). ``
+But unlike an economy, it switches to the public interest after the productivity has gone beyond the basics and before it gets maxed out. This latter innovation ensures sustainability by preventing* inequality and environmental destruction which both go against the Dharma (also explained later). ``
+
+> *This is our [fourth law of value](/social/economics/principles/fourth-law)
 
 
 Inequality is dangerous as it leads to protests, riots, crime, and revolution, the worst of which was the Communist Revolution which killed so many people around the world. Environmental destruction is dangerous too as it leads to storms, droughts, and diseases, the worst of which is the current Covid pandemic which has also killed many. 
@@ -168,20 +176,20 @@ Inequality is dangerous as it leads to protests, riots, crime, and revolution, t
 
 ## Human Institutions Unify Personal and Social Interest as an Artificial Organizing Principle
 
-So far we have 
+So far we have explained that:
 
 1. Personal Interest comes first
 2. Public Interest comes next, and is larger than the personal interest
 3. The personal interest matches the public interest through sale or employment
 
-These three ingredients create value for the self and society leading to peace and prosperity. Human institutions, in the form of laws and policies, are then created to organize them. 
+These 3 ingredients create value for the self and society leading to peace and prosperity. Human institutions, in the form of laws and policies, are then created to organize them. 
 
 <!-- The proper policies and laws to bring about the pantrynomy are formalized through . The most basic institution is called a family. The next institution became the tribe, glued together by blood relations and common interest. These were followed by nations that were glued together by international laws and treaties which put order to the disparate national and vested interests within. -->
 
-{{< quote ava="smith" >}}
-When a person finds the chairs [disordered in his bedroom], he takes the trouble to set them all in their proper places. The whole propriety of this new situation arises from the superior convenience of having the floor clear. To attain this convenience, he voluntarily puts himself to more trouble than all he could have suffered from its inconvenience. Therefore, he wanted more of the arrangement of things which promotes the convenience, than the convenience itself..<br><br>Those institutions which promote the public welfare are frequently recommended by the same principle, the same love of system, and the same regard to the beauty of order, art, and contrivance.
+{{< q a="smith" >}}
+<p>When a person finds the chairs [disordered in his bedroom], he takes the trouble to set them all in their proper places. The whole propriety of this new situation arises from the superior convenience of having the floor clear. To attain this convenience, he voluntarily puts himself to more trouble than all he could have suffered from its inconvenience. Therefore, he wanted more of the arrangement of things which promotes the convenience, than the convenience itself..<br><br>Those institutions which promote the public welfare are frequently recommended by the same principle, the same love of system, and the same regard to the beauty of order, art, and contrivance.</p>
 <cite>Theory Of Moral Sentiments, Part 4, Chapter 1</cite>
-{{< /quote >}}
+{{< /q >}}
 
 We can say that human institutions are an artificial organizing principle which is a bit different from that of Nature, which Smith calls a 'hand':
 
@@ -190,16 +198,16 @@ We can say that human institutions are an artificial organizing principle which 
 > *Our E = G<sub>l</sub> equation explains this as the "G" that really does prevent planets and stars from flying off. Knowing the G of everything will then help you prevent their movement, whether it be the movement of stars, people, or the prices of assets and commodities. -->
 
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 Hence the origin of Polytheism.. which ascribes all the irregular events of nature to.. gods, demons, witches, genies, and fairies. In all Polytheistic religions.. only the irregular events of nature are ascribed to.. their gods. By.. their own nature: fire burns, water refreshes, heavy bodies descend, lighter substances fly upwards. The invisible hand of Jupiter was never perceived in those matters. But the more irregular events were ascribed to Jupiter’s favour or anger: storms and sunshine, thunder and lightning. Savages only knew the designing power of man. 
 <cite>Simple Essays, Origin Of Philosophy</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
-Early humans only knew the visible hand that made the first human institutions. They could only see the invisible hand of Nature, as their gods, in awesome natural phenomena and not in the ordinary ones. 
+Early humans only knew the visible hand that designed the first human institutions. They could only see the invisible hand of Nature, as their gods, in awesome natural phenomena and not in the ordinary ones. 
 
 Is this hand or organizing principle, whether natural or man-made, universal? 
 
-For it to be a foundation of a science, other civilized cultures around the world must also have descriptions of it. Fortunately, Asian philosophy has the concept of dharma.
+For it to be a foundation of a science, other civilized cultures around the world must also have descriptions of it. Fortunately, Asian philosophy has the concept of dharma, which will be explained in the next post.
 
 <!-- For this organizing principle to be universal, it must have been perceived also by other cultures. Only then can it be a viable foundation for our natural invisible hand and effort theory of value which will replace chance-based marginal pricing.  -->

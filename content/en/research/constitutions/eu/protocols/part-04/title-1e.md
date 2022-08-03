@@ -3,7 +3,7 @@ CHAPTER 7: GENERAL PROVISIONS
 Article 34
 
 Legal acts
-1. In accordance with Article III‑190 of the Constitution, the European Central Bank shall adopt:
+1. In accordance with Article 3‑190 of the Constitution, the European Central Bank shall adopt:
 (a) European regulations to the extent necessary to implement the tasks defined in Article 3(1)(a),
 Article 19(1), Article 22 or Article 25(2) of this Statute and in cases which shall be laid down in
 the European regulations and decisions referred to in Article 41;
@@ -27,7 +27,7 @@ conditions laid down in the Constitution.
 2. Disputes between the European Central Bank, on the one hand, and its creditors, debtors or any
 other person, on the other, shall be decided by the competent national courts, save where jurisdiction
 has been conferred upon the Court of Justice of the European Union.
-3. The European Central Bank shall be subject to the liability regime provided for in Article III-431
+3. The European Central Bank shall be subject to the liability regime provided for in Article 3-431
 of the Constitution. The national central banks shall be liable according to their respective national
 laws.
 4. The Court of Justice of the European Union shall have jurisdiction to give judgment pursuant to

@@ -1,6 +1,6 @@
 +++
 title=  "Kinds of Paper Money"
-date=  2020-01-01
+date=  2020-01-26
 heading=  "Book 2, Chapter 1a"
 image=  "https= //sorasystem.sirv.com/cards/hireme.jpg"
 description=  "Bank notes and cash accounts are the two kinds of paper money"

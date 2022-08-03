@@ -4,9 +4,9 @@ heading: Idea and Ideology Simplified
 date: 2022-01-31
 description: ""
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/"
+linkb: "/research/sarkar/idea/"
 linkbtext: "Index"
-linkf: "/research/indian/idea/"
+linkf: "/research/sarkar/idea/"
 linkftext: "Index"
 icon: "/icons/sarkar.jpg"
 ---

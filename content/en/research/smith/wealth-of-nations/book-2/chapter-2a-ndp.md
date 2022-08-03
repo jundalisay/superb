@@ -2,7 +2,7 @@
 title=  "Money as Part of the General Stock of Society"
 heading=  "Book 2, Chapter 1a NDP"
 description=  "Money has wholesale and retail"
-date=  2020-01-01
+date=  2020-01-28
 image=  "/covers/wn.jpg"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-1c-circulating"
 linkbtext=  "Chapter 1c"

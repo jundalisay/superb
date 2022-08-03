@@ -1,18 +1,16 @@
-+++
-title= "Aristotle explains One"
-heading= "Part 1 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-30"
-image= "/covers/meta.jpg"
-author= "Aristotle"
-description= "Aristotle gives maximum importance to the sight over the other senses"
-linkb= "/research/aristotle/metaphysics/book-9/part-10"
-linkbtext= "Part 10"
-linkf= "/research/aristotle/metaphysics/book-10/part-2"
-linkftext= "Part 2"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 1 of Book 10 Metaphysics by Aristotle Simplified"
+title: "Aristotle explains One"
+date: 2015-09-30
+image: "/covers/meta.jpg"
+description: "Aristotle gives maximum importance to the sight over the other senses"
+linkb: /research/aristotle/metaphysics/book-9/part-10
+linkbtext: "Part 10"
+linkf: /research/aristotle/metaphysics/book-9/part-2
+linkftext: "Part 2"
+icon: "/icons/aris.jpg"
+---
+
 
 'One' has several meanings; the things that are directly and of their own nature and not accidentally called one may be summarized under four heads, though the word is used in more senses. 
 

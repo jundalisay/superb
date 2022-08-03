@@ -47,7 +47,7 @@ Chamber.
 The Court of Justice shall sit in a Grand Chamber when a Member State or an institution of the
 Union that is party to the proceedings so requests.
 The Court of Justice shall sit as a full Court where cases are brought before it pursuant to Article
-III-335(2), the second paragraph of Article III-347, Article III-349 or Article III-385(6) of the
+III-335(2), the second paragraph of Article 3-347, Article 3-349 or Article 3-385(6) of the
 Constitution.
 Moreover, where it considers that a case before it is of exceptional importance, the Court of Justice
 may decide, after hearing the Advocate-General, to refer the case to the full Court.

@@ -33,18 +33,18 @@ court or be constituted by a single Judge.
 The Rules of Procedure may also provide that the General Court may sit in a Grand Chamber in cases
 and under the conditions specified therein.
 Article 51
-By way of derogation from the rule laid down in Article III-358(1) of the Constitution, jurisdiction
+By way of derogation from the rule laid down in Article 3-358(1) of the Constitution, jurisdiction
 shall be reserved to the Court of Justice in the actions referred to in Articles III-365 and III-367 of the
 Constitution when they are brought by a Member State against:
 (a) an act of or failure to act by the European Parliament or the Council, or both those institutions
 acting jointly, except for:
-— European decisions adopted by the Council under the third subparagraph of Article III-168(2)
+— European decisions adopted by the Council under the third subparagraph of Article 3-168(2)
 of the Constitution;
 — acts of the Council adopted pursuant to a Council act concerning measures to protect trade
-within the meaning of Article III-315 of the Constitution;
+within the meaning of Article 3-315 of the Constitution;
 — acts of the Council by which the Council exercises implementing powers in accordance with
 Article I-37(2) of the Constitution
-(b) against an act of or failure to act by the Commission under Article III-420(1) of the Constitution.
+(b) against an act of or failure to act by the Commission under Article 3-420(1) of the Constitution.
 Jurisdiction shall also be reserved to the Court of Justice in the actions referred to in the same Articles
 when they are brought by an institution of the Union against an act of or failure to act by the
 European Parliament or the Council or both of those institutions acting jointly or the Commission,
@@ -79,7 +79,7 @@ jurisdiction.
 Where the Court of Justice and the General Court are seised of cases in which the same relief is
 sought, the same issue of interpretation is raised or the validity of the same act is called in question,
 the General Court may, after hearing the parties, stay the proceedings before it until such time as the
-Court of Justice has delivered judgment, or, where the action is one brought pursuant to Article III-
+Court of Justice has delivered judgment, or, where the action is one brought pursuant to Article 3-
 365 of the Constitution or pursuant to Article 146 of the EAEC Treaty, may decline jurisdiction so as
 to allow the Court of Justice to rule on such actions. In the same circumstances, the Court of Justice
 may also decide to stay the proceedings before it. In that event, the proceedings before the General
@@ -112,7 +112,7 @@ Any person whose application to intervene has been dismissed by the General Cour
 the Court of Justice within two weeks from the notification of the decision dismissing the
 application.
 The parties to the proceedings may appeal to the Court of Justice against any decision of the General
-Court made pursuant to Article III-379(1) or (2) or the fourth paragraph of Article III-401 of the
+Court made pursuant to Article 3-379(1) or (2) or the fourth paragraph of Article 3-401 of the
 Constitution, or Article 157 or the third paragraph of Article 164 of the EAEC Treaty, within two
 months from their notification.
 The appeal referred to in the first two paragraphs shall be heard and determined under the procedure
@@ -132,14 +132,14 @@ dispense with the oral procedure.
 
 Article 60
 
-Without prejudice to Article III-379(1) and (2) of the Constitution or Article 157 of the EAEC Treaty,
+Without prejudice to Article 3-379(1) and (2) of the Constitution or Article 157 of the EAEC Treaty,
 an appeal shall not have suspensory effect.
-By way of derogation from Article III-380 of the Constitution, decisions of the General Court
+By way of derogation from Article 3-380 of the Constitution, decisions of the General Court
 declaring a European law or European regulation binding in its entirety and directly applicable in all
 Member States to be void shall take effect only as from the date of expiry of the period referred to in
 the first paragraph of Article 56 of this Statute or, if an appeal shall have been brought within that
 period, as from the date of dismissal of the appeal, without prejudice, however, to the right of a party
-to apply to the Court of Justice, pursuant to Article III-379(1) and (2) of the Constitution, and
+to apply to the Court of Justice, pursuant to Article 3-379(1) and (2) of the Constitution, and
 Article 157 of the EAEC Treaty for the suspension of the effects of the European law or European
 regulation which has been declared void or for the prescription of any other interim measure.
 
@@ -155,7 +155,7 @@ in the proceedings before the General Court, is well founded, the Court of Justi
 this necessary, state which of the effects of the decision of the General Court which has been quashed
 shall be considered as definitive in respect of the parties to the litigation.
 Article 62
-In the cases provided for in Article III-358(2) and (3) of the Constitution, where the First Advocate-
+In the cases provided for in Article 3-358(2) and (3) of the Constitution, where the First Advocate-
 General considers that there is a serious risk of the unity or consistency of Union law being affected,
 he may propose that the Court of Justice review the decision of the General Court.
 The proposal must be made within one month of delivery of the decision by the General Court.

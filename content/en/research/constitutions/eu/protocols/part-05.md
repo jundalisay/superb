@@ -1,3 +1,4 @@
+
 ---
 title: "Protocol On The Statute Of The European Investment Bank"
 heading: "Part 5"
@@ -13,23 +14,23 @@ icon: /flags/eu.png
 
 
 <!-- THE HIGH CONTRACTING PARTIES,
-DESIRING to lay down the Statute of the European Investment Bank provided for in Article III‑393 of the Constitution,
+DESIRING to lay down the Statute of the European Investment Bank provided for in Article 3‑393 of the Constitution,
 HAVE AGREED upon the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe: -->
 
 Article 1
 
-The European Investment Bank referred to in Article III‑393 of the Constitution (hereinafter called
+The European Investment Bank referred to in Article 3‑393 of the Constitution (hereinafter called
 the ‘Bank’) is hereby constituted; it shall perform its functions and carry on its activities in accordance
 with the provisions of the Constitution and of this Statute.
 
 Article 2
 
-The task of the Bank shall be that defined in Article III‑394 of the Constitution.
+The task of the Bank shall be that defined in Article 3‑394 of the Constitution.
 
 Article 3
 
-In accordance with Article III‑393 of the Constitution, the Bank's members shall be the Member States.
+In accordance with Article 3‑393 of the Constitution, the Bank's members shall be the Member States.
 
 Article 4
 
@@ -233,7 +234,7 @@ At the request of a Member State or of the Commission, or on its own initiative,
 Governors shall, in accordance with the same provisions as governed their adoption, interpret or
 supplement the directives laid down by it under Article 7.
 Article 16
-1. Within the framework of the task set out in Article III‑394 of the Constitution, the Bank shall
+1. Within the framework of the task set out in Article 3‑394 of the Constitution, the Bank shall
 grant finance, in particular in the form of loans and guarantees to its members or to private or public
 undertakings for investments to be carried out in the territories of Member States, to the extent that
 funds are not available from other sources on reasonable terms.
@@ -246,11 +247,11 @@ used.
 make the loan conditional either on a guarantee from the Member State in whose territory the
 investment will be carried out, on adequate guarantees, or on the financial strength of the debtor.
 Furthermore, in accordance with the principles established by the Board of Governors pursuant to
-Article 7(3)(b), and where the implementation of projects provided for in Article III‑394 of the
+Article 7(3)(b), and where the implementation of projects provided for in Article 3‑394 of the
 Constitution so requires, the Board of Directors shall, acting by a qualified majority, lay down the terms and conditions of any financing operation presenting a specific risk profile and thus considered
 to be a special activity.
 4. The Bank may guarantee loans contracted by public or private undertakings or other bodies for
-the purpose of carrying out projects provided for in Article III‑394 of the Constitution.
+the purpose of carrying out projects provided for in Article 3‑394 of the Constitution.
 5. The aggregate amount outstanding at any time of loans and guarantees granted by the Bank shall
 not exceed 250 % of its subscribed capital, reserves, non‑allocated provisions and profit and loss
 account surplus. The latter aggregate amount shall be reduced by an amount equal to the amount
@@ -272,7 +273,7 @@ build up a reserve fund as provided for in Article 22.
 2. The Bank shall not grant any reduction in interest rates. Where a reduction in the interest rate
 appears desirable in view of the nature of the investment to be financed, the Member State concerned
 or some other agency may grant aid towards the payment of interest to the extent that this is
-compatible with Article III‑167 of the Constitution.
+compatible with Article 3‑167 of the Constitution.
 Article 18
 In its financing operations, the Bank shall observe the following principles:
 1.
@@ -288,7 +289,7 @@ general and promotes the establishment or functioning of the internal market.
 management unless this is required to safeguard the rights of the Bank in ensuring recovery of
 funds lent.
 However, in accordance with the principles determined by the Board of Governors pursuant to
-Article 7(3)(b), and where the implementation of operations provided for in Article III‑394 of the
+Article 7(3)(b), and where the implementation of operations provided for in Article 3‑394 of the
 Constitution so requires, the Board of Directors shall, acting by a qualified majority, lay down the
 terms and conditions for taking an equity participation in a commercial undertaking, normally as
 a complement to a loan or a guarantee, insofar as this is required to finance an investment or
@@ -368,7 +369,7 @@ purpose of the fund.
 Article 23
 1. The Bank shall at all times be entitled to transfer its assets into the currency of a Member State
 whose currency is not the euro in order to carry out financial operations corresponding to the task
-set out in Article III‑394 of the Constitution, taking into account the provisions of Article 21 of this
+set out in Article 3‑394 of the Constitution, taking into account the provisions of Article 21 of this
 Statute. The Bank shall, as far as possible, avoid making such transfers if it has cash or liquid assets in
 the currency required.
 2. The Bank may not convert its assets in the currency of a Member State whose currency is not the
@@ -432,7 +433,7 @@ the fiscal provisions of the applicable legislation.
 5. The Court of Justice of the European Union shall, within the limits hereinafter laid down, hear
 disputes concerning measures adopted by organs of a body incorporated under Union law.
 Proceedings against such measures may be instituted by any member of such a body in its capacity as
-such or by Member States under the conditions laid down in Article III‑365 of the Constitution.
+such or by Member States under the conditions laid down in Article 3‑365 of the Constitution.
 6. The Board of Governors may, acting unanimously, decide to admit the staff of bodies
 incorporated under Union law to joint schemes with the Bank, in compliance with the respective
 internal procedures.

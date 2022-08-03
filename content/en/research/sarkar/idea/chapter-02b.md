@@ -4,9 +4,9 @@ heading: "Chapter 2b "
 date: 2022-01-25
 description: "In plant and animal life, mind is underdeveloped and the vital energy and mind are controlled by the Supreme Mind"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-02"
+linkb: "/research/sarkar/idea/chapter-02"
 linkbtext: "Chapter 2"
-linkf: "/research/indian/idea/chapter-03"
+linkf: "/research/sarkar/idea/chapter-03"
 linkftext: "Chapter 3"
 icon: "/icons/sarkar.jpg"
 ---

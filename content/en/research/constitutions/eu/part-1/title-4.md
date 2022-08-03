@@ -172,7 +172,7 @@ prejudice to Article I-28(2), the members of the Commission shall neither seek n
 from any government or other institution, body, office or entity. They shall refrain from any action
 incompatible with their duties or the performance of their tasks.
 8. The Commission, as a body, shall be responsible to the European Parliament. In accordance with
-Article III-340, the European Parliament may vote on a censure motion on the Commission. If such a
+Article 3-340, the European Parliament may vote on a censure motion on the Commission. If such a
 motion is carried, the members of the Commission shall resign as a body and the Union Minister for
 Foreign Affairs shall resign from the duties that he or she carries out in the Commission.954393_TRAITE_EN_1_50
 13-01-2005
@@ -273,7 +273,7 @@ the issue of the euro. It shall be independent in the exercise of its powers and
 its finances. Union institutions, bodies, offices and agencies and the governments of the Member
 States shall respect that independence.
 4. The European Central Bank shall adopt such measures as are necessary to carry out its tasks in
-accordance with Articles III-185 to III-191 and Article III-196, and with the conditions laid down in
+accordance with Articles III-185 to III-191 and Article 3-196, and with the conditions laid down in
 the Statute of the European System of Central Banks and of the European Central Bank. In
 accordance with these same Articles, those Member States whose currency is not the euro, and their
 central banks, shall retain their powers in monetary matters.

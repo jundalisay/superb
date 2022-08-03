@@ -5,9 +5,9 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"
 image: "/covers/farming.jpg"
-linkb: "/research/indian/farming/"
+linkb: "/research/sarkar/farming/"
 linkbtext: "Index"
-linkf: "/research/indian/farming/"
+linkf: "/research/sarkar/farming/"
 linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
@@ -27,11 +27,12 @@ Pulse in Saḿskrta is “dvidal,” and in Hindi and Bengali, “dál.” In U
 
 There are many common pulses which include:
 - green gram (śát́há moog). The varieties include:
-golden gram (soná moog)
-horse gram (ghoŕá moog)
-grassy gram (gheso moog)
-black gram (biri kalái)
-khesári
+  - golden gram (soná moog)
+  - horse gram (ghoŕá moog)
+  - grassy gram (gheso moog)
+  - black gram (biri kalái)
+
+- khesári
 
 - peas (kalái, mat́ar)
   - small black variety (t́hikre mat́ar)

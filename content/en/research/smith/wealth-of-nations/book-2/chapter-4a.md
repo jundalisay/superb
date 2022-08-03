@@ -1,6 +1,6 @@
 +++
 title=  "Stock Lent At Interest"
-date=  2020-01-01
+date=  2020-01-08
 image=  "/covers/wn.jpg"
 description=  "The stock lent at interest is always considered as a capital by its lender."
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-3d"

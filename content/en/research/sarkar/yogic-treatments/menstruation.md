@@ -2,9 +2,9 @@
 title= "Natural Remedies for Abnormal Menstruation"
 description= "In a healthy woman the menstrual discharge is usually about one-fourth seer. If for any reason the quantity is less than normal, it is called hypomenorrhoea"
 image= "/photos/toilet.jpg"
-linkb= "/research/indian/yogic-treatments/leucorrhoea"
+linkb= "/research/sarkar/yogic-treatments/leucorrhoea"
 linkbtext= "leucorrhoea"
-linkf= "/research/indian/yogic-treatments/obesity"
+linkf= "/research/sarkar/yogic-treatments/obesity"
 linkftext= "obesity"
 +++
 

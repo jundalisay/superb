@@ -5,9 +5,9 @@ heading: Chapter 1
 date: 2022-01-31
 description: "Crudification or Saiṋcara is the centrifugal activity of the Nucleus (Puruśottama) of the Macrocosm"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/"
+linkb: "/research/sarkar/idea/"
 linkbtext: "Index"
-linkf: "/research/indian/idea/chapter-01b"
+linkf: "/research/sarkar/idea/chapter-01b"
 linkftext: "Chapter 2"
 icon: "/icons/sarkar.jpg"
 ---

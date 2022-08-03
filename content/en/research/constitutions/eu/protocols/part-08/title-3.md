@@ -7,7 +7,7 @@ on the import of certain goods
 
 Article 21
 
-Article III‑151 of the Constitution shall not prevent the Hellenic Republic from maintaining measures
+Article 3‑151 of the Constitution shall not prevent the Hellenic Republic from maintaining measures
 of exemption granted before 1 January 1979 pursuant to:
 (a) Law No 4171/61 (General measures to aid development of the country's economy),
 (b) Decree Law No 2687/53 (Investment and protection of foreign capital),

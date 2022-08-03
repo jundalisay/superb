@@ -5,9 +5,9 @@ heading: "Chapter 2 "
 date: 2022-01-26
 description: ""
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-01e"
+linkb: "/research/sarkar/idea/chapter-01e"
 linkbtext: "Chapter 1e"
-linkf: "/research/indian/idea/chapter-2b"
+linkf: "/research/sarkar/idea/chapter-2b"
 linkftext: "Chapter 2b"
 icon: "/icons/sarkar.jpg"
 ---

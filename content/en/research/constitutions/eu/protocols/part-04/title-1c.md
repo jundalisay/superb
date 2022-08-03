@@ -45,7 +45,7 @@ methods if they impose obligations on third parties.
 Article 21
 
 Operations with public entities
-1. In accordance with Article III-181 of the Constitution, overdrafts or any other type of credit
+1. In accordance with Article 3-181 of the Constitution, overdrafts or any other type of credit
 facility with the European Central Bank or with the national central banks in favour of Union
 institutions, bodies, offices or agencies, central governments, regional, local or other public
 authorities, other bodies governed by public law, or public undertakings of Member States shall be

@@ -4,7 +4,7 @@ heading: "Democracy, Tyranny, Aristocracy, and Oligarchy"
 # date: 2021-07-21
 # Socio-Political changes are caused by changing wave-cycles of society
 date: 2021-01-01
-image: "/photos/objects/king.jpg"
+image: "/graphics/social/cycles.png"
 description: "The four laws of value of Pantrynomics leads to the four classes of Workers, Warriors, Intellectuals, and Merchants"
 author: Juan
 linkb: "/superphysics/fallacies/is-ought-problem"
@@ -61,6 +61,9 @@ An easy mnemomic is "P-M-P-M" which stands for Populist-Militant-Philosopher-Mer
 - Dictators, Generals, Communists, and Fascists fall under **Militants** or Socratic NeoCons
 - Priests, Technocrats, Researchers, and Nazis fall under **Philosophers** or Socratic Conservatives
 - Big Businesses and Free marketeers fall under **Merchants** or Socratic NeoLiberals
+
+![Social Cycles](/graphics/social/cycles.png)
+
 
 This makes:
 - Populists and Oliarchs <!-- Socratic Liberals and Neoliberals --> as the Socratic Left Wing

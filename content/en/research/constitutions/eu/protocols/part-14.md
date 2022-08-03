@@ -17,7 +17,7 @@ Bank referring to a derogation shall be applicable to Denmark.
 
 Article 2
 
-As for the abrogation of the exemption, the procedure referred to in Article III-198 of the
+As for the abrogation of the exemption, the procedure referred to in Article 3-198 of the
 Constitution shall only be initiated at the request of Denmark.
 
 Article 3

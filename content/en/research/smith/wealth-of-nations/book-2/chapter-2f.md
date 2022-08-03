@@ -1,7 +1,7 @@
 +++
 title=  "The Dangers of Overcirculation"
 description=  "A bank also spends to keep a large amount at all times in its coffers for answering the occasional demands of the holders of its notes."
-date=  2020-01-01
+date=  2020-01-23
 image=  "/covers/wn.jpg"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2e"
 linkbtext=  "Chapter 2e"

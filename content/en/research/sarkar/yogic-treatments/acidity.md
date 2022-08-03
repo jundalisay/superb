@@ -5,13 +5,13 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Undigested food and undigested acids create poisonous gas which cause a burning sensation in the stomach. When they rise up to the chest they cause heartburn. When they rise further they cause dizziness"
 image: "/photos/med/heartburn.jpg"
-linkb: "/research/indian/yogic-treatments"
+linkb: "/research/sarkar/yogic-treatments"
 linkbtext: "yogic-treatments"
-linkf: "/research/indian/yogic-treatments/appendicitis/"
+linkf: "/research/sarkar/yogic-treatments/appendicitis/"
 linkftext: "appendicitis"
 icon: "/flags/in.png"
 aliases:
-  /research/indian/yogic-treatments/acidity
+  /research/sarkar/yogic-treatments/acidity
 ---
 
 

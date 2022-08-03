@@ -1,7 +1,7 @@
 +++
 title=  "How Drawing and Redrawing Works"
 description=  "The limitations set by banks led to traders to do Drawing and Redrawing to increase the paper money circulating"
-date=  2020-01-01
+date=  2020-01-21
 image=  "/covers/wn.jpg"
 # heading=  The Simplified Wealth of Nations by Adam Smith Book 2, Chapter 1a
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2g"

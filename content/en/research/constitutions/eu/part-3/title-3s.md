@@ -1,6 +1,8 @@
+
+
 SECTION 3: JUDICIAL COOPERATION IN CIVIL MATTERS
 
-Article III-269
+Article 3-269
 1. The Union shall develop judicial cooperation in civil matters having cross‑border implications,
 based on the principle of mutual recognition of judgments and decisions in extrajudicial cases. Such
 cooperation may include the adoption of measures for the approximation of the laws and regulations
@@ -28,11 +30,11 @@ European Parliament.
 
 SECTION 4: JUDICIAL COOPERATION IN CRIMINAL MATTERS
 
-Article III-270
+Article 3-270
 
 1. Judicial cooperation in criminal matters in the Union shall be based on the principle of mutual
 recognition of judgments and judicial decisions and shall include the approximation of the laws and
-regulations of the Member States in the areas referred to in paragraph 2 and in Article III-271.
+regulations of the Member States in the areas referred to in paragraph 2 and in Article 3-271.
 European laws or framework laws shall establish measures to:
 (a) lay down rules and procedures for ensuring recognition throughout the Union of all forms of
 judgments and judicial decisions;
@@ -56,10 +58,10 @@ maintaining or introducing a higher level of protection for individuals.
 3. Where a member of the Council considers that a draft European framework law as referred to in
 paragraph 2 would affect fundamental aspects of its criminal justice system, it may request that the
 draft framework law be referred to the European Council. In that case, the procedure referred to in
-Article III-396 shall be suspended. After discussion, the European Council shall, within four months
+Article 3-396 shall be suspended. After discussion, the European Council shall, within four months
 of this suspension, either:
 (a) refer the draft back to the Council, which shall terminate the suspension of the procedure
-referred to in Article III-396, or
+referred to in Article 3-396, or
 (b) request the Commission or the group of Member States from which the draft originates to
 submit a new draft; in that case, the act originally proposed shall be deemed not to have been
 adopted.
@@ -70,7 +72,7 @@ to establish enhanced cooperation on the basis of the draft framework law concer
 notify the European Parliament, the Council and the Commission accordingly.
 In such a case, the authorisation to proceed with enhanced cooperation referred to in Articles I-44(2)
 and III-419(1) shall be deemed to be granted and the provisions on enhanced cooperation shall apply.
-Article III-271
+Article 3-271
 1. European framework laws may establish minimum rules concerning the definition of criminal
 offences and sanctions in the areas of particularly serious crime with a cross-border dimension
 resulting from the nature or impact of such offences or from a special need to combat them on a
@@ -86,14 +88,14 @@ ensure the effective implementation of a Union policy in an area which has been 
 harmonisation measures, European framework laws may establish minimum rules with regard to the
 definition of criminal offences and sanctions in the area concerned. Such framework laws shall be
 adopted by the same procedure as was followed for the adoption of the harmonisation measures in
-question, without prejudice to Article III-264.
+question, without prejudice to Article 3-264.
 3. Where a member of the Council considers that a draft European framework law as referred to in
 paragraph 1 or 2 would affect fundamental aspects of its criminal justice system, it may request that
 the draft framework law be referred to the European Council. In that case, where the procedure
-referred to in Article III-396 is applicable, it shall be suspended. After discussion, the European
+referred to in Article 3-396 is applicable, it shall be suspended. After discussion, the European
 Council shall, within four months of this suspension, either:
 (a) refer the draft back to the Council, which shall terminate the suspension of the procedure
-referred to in Article III-396 where it is applicable, or
+referred to in Article 3-396 where it is applicable, or
 (b) request the Commission or the group of Member States from which the draft originates to
 submit a new draft; in that case, the act originally proposed shall be deemed not to have been
 adopted.
@@ -104,11 +106,11 @@ to establish enhanced cooperation on the basis of the draft framework law concer
 notify the European Parliament, the Council and the Commission accordingly.
 In such a case, the authorisation to proceed with enhanced cooperation referred to in Articles I-44(2)
 and III-419(1) shall be deemed to be granted and the provisions on enhanced cooperation shall apply.
-Article III-272
+Article 3-272
 European laws or framework laws may establish measures to promote and support the action of
 Member States in the field of crime prevention, excluding any harmonisation of the laws and
 regulations of the Member States.
-Article III-273
+Article 3-273
 1. Eurojust's mission shall be to support and strengthen coordination and cooperation between
 national investigating and prosecuting authorities in relation to serious crime affecting two or more
 Member States or requiring a prosecution on common bases, on the basis of operations conducted
@@ -123,9 +125,9 @@ financial interests of the Union;
 by close cooperation with the European Judicial Network.
 European laws shall also determine arrangements for involving the European Parliament and national
 Parliaments in the evaluation of Eurojust's activities.
-2. In the prosecutions referred to in paragraph 1, and without prejudice to Article III-274, formal
+2. In the prosecutions referred to in paragraph 1, and without prejudice to Article 3-274, formal
 acts of judicial procedure shall be carried out by the competent national officials.
-Article III-274
+Article 3-274
 1. In order to combat crimes affecting the financial interests of the Union, a European law of the
 Council may establish a European Public Prosecutor's Office from Eurojust. The Council shall act
 unanimously after obtaining the consent of the European Parliament.

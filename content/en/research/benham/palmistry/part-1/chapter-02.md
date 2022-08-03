@@ -1,13 +1,15 @@
-+++
-title=  "The Human Engine and the Life Current"
-heading=  "Chapter 2 Part 1"
-image=  "/photos/objects/hand.jpg"
-description=  "THE human body is the earthly tenement of the mind or soul. In its construction and operation is very like a mechanical engine"
-linkb=  "/research/benham/palmistry/part-1/chapter-01"
-linkbtext=  "Chapter 1"
-linkf=  "/research/benham/palmistry/part-1/chapter-19-jupiter"
-linkftext=  "Chapter 19"
-+++
+---
+heading: "Chapter 2 Part 1 of The Laws of Scientific Palm Reading Simplified"
+title: "The Human Engine and the Life Current"
+description: "THE human body is the earthly tenement of the mind or soul. In its construction and operation is very like a mechanical engine"
+date: 2020-01-21
+image: "/photos/objects/hand.jpg"
+linkb: "/research/benham/palmistry/part-1/chapter-01"
+linkbtext: "Chapter 9"
+linkf: "/research/benham/palmistry/part-1/chapter-19-jupiter"
+linkftext: "Chapter 10b"
+---
+
 
 {{< quote >}}
 "Mankind are earthen jugs with spirits in them."

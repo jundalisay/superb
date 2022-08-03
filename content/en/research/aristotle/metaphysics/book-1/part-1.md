@@ -1,18 +1,17 @@
-+++
-title= "Wisdom is knowledge of certain principles and causes"
-heading = "Part 1 of Metaphysics by Aristotle Simplified"
-date= "2015-09-30"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Aristotle gives maximum importance to the sight over the other senses"
-linkb= "/research/aristotle/metaphysics/book-1/"
-linkbtext= "Book 1"
-linkf= "/research/aristotle/metaphysics/book-1/part-2"
-linkftext= "Part 2"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Wisdom is knowledge of certain principles and causes"
+heading: "Part 1 of Metaphysics by Aristotle Simplified"
+linkTitle: Part 1
+date: 2015-09-30
+image: "/covers/meta.jpg"
+description: "Aristotle gives maximum importance to the sight over the other senses"
+linkb: /research/aristotle/metaphysics/book-1/
+linkbtext: "Book 1"
+linkf: /research/aristotle/metaphysics/book-1/part-2
+linkftext: "Part 2"
+icon: "/icons/aris.jpg"
+---
+
 
 <!-- Written 350 B.C.E Translated by W. D. Ross -->
 

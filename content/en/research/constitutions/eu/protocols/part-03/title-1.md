@@ -1,7 +1,7 @@
 PROTOCOL ON THE STATUTE OF THE COURT OF JUSTICE OF THE EUROPEAN UNION 
 
 <!-- THE HIGH CONTRACTING PARTIES
-DESIRING to lay down the Statute of the Court of Justice of the European Union provided for in Article III-381 of the
+DESIRING to lay down the Statute of the Court of Justice of the European Union provided for in Article 3-381 of the
 Constitution,
 HAVE AGREED upon the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe and the Treaty establishing the European Atomic Energy Community: -->

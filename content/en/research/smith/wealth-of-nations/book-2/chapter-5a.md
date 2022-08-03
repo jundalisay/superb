@@ -1,7 +1,7 @@
 +++
 title=  "The Four Employment of capitals"
 description=  "Employment of capitals"
-date=  2020-01-01
+date=  2020-01-06
 image=  "/covers/wn.jpg"
 linkbtext=  "Chapter 4b"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-4b"

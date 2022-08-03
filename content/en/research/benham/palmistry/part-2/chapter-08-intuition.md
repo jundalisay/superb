@@ -1,13 +1,15 @@
-+++
-title=  "Line of Intuition, Via Lascivia"
-heading=  "Chapter 8"
-description=  "The Lines of Influence are on the Mount of Venus and inside the Life line. Some of these run parallel to the Life line. Others run across the Mount"
-image=  "/photos/objects/hand.jpg"
-linkb=  "/research/benham/palmistry/part-2/chapter-07-life"
-linkbtext=  "Chapter 7"
-linkf=  "/research/benham/palmistry/part-2/chapter-09-affection"
-linkftext=  "Chapter 9"
-+++
+---
+title: "Line of Intuition, Via Lascivia"
+# heading: "Chapter 10"
+# date: 2021-11-20
+image: "/photos/objects/hand.jpg"
+description: "The Lines of Influence are on the Mount of Venus and inside the Life line. Some of these run parallel to the Life line. Others run across the Mount."
+linkb: "/research/benham/palmistry/part-2/chapter-09-affection"
+linkbtext: "Chapter 9"
+linkf: "/research/benham/palmistry/part-2/chapter-28-girdle"
+linkftext: "Chapter 28"
+---
+
 
 
 The Lines of Influence are on the Mount of Venus and inside the Life line. 
@@ -213,9 +215,11 @@ This marking shows an impediment to the career of the subject, a check to the up
 
 The single indication must not be given this reading, but with this marking and other confirmatory signs it can be so interpreted, viz., if the line cutting the rising branch from the Life line cross the hand and cut a line of union which is forked (292), this reading will be found correct. If the Worry line start from an Influence line, the influence has made the trouble. By itself the marking indicates a check to the upward career. 
 
-If a Worry line start from a star on the end of an Influence line and cut a rising line from the Life line (293), it indicates that the death of a relative caused the trouble. If the Influence line be deep, then thin, and alternates in this way, the influence is strong, then weak, and only exerts its power spasmodically (294). 
+If a Worry line start from a star on the end of an Influence line and cut a rising line from the Life line (293), it indicates that the death of a relative caused the trouble. 
 
-If an Influence line begin away from the Life line and gradually come toward it, growing stronger as it progresses (295), it indicates that the influence of some distant relative is gradually coming nearer to the life of the subject and growing stronger. This line may cut through other Influence lines lying closer to the Life line, showing that it is becoming more powerful than they. 
+If the Influence line is deep, then thin, and alternates in this way, the influence is strong, then weak, and only exerts its power spasmodically (294). 
+
+If an Influence line begin away from the Life line and gradually come toward it, growing stronger as it progresses (295), it indicates that the influence of some distant relative is gradually coming nearer to the life of the subject and growing stronger. This line may cut through other Influence lines lying closer to the Life line, showing that it is becoming more powerful than they.
 
 If a line of Influence break and after a short space start again, and this be repeated, it shows that the influence of the person on the life of the subject vanishes and then begins again, having disappeared and returned several times (296).
 
@@ -248,9 +252,15 @@ If an Influence line deep at the beginning gradually grow thinner and end in a s
 
 If the Life line end on this dot, the subject will not recover ; if it go on, he will regain his strength. 
 
-If an Influence line end in a star, and a Worry line connect this with a dot on the Head line, the death of a relative will bring on a severe illness of the brain (307). If a line of Influence end in a star, and this be connected by a Worry line with an island on the Head line (308), the delicacy and death of a relative produce a weakened mental condition of the subject. In each one of these cases it is understood that you are to try and discover how near a relative has died by the closeness of the Influence line to the Life line. If lines rise from the lines of Influence and run to, but do not cut, the Life line, it shows that relatives will uplift the subject, but if lines droop from the Influence lines to the Life line, the subject will be continually pulled down by his kin (309). 
+If an Influence line end in a star, and a Worry line connect this with a dot on the Head line, the death of a relative will bring on a severe illness of the brain (307). 
 
-If a line of Influence which has been diagnosed as the wife or husband have a line rising from it to the Mount of Jupiter, it indicates that this relative is most ambitious (310). If the Saturn line be more than usually good after this period, it indicates that this ambitious partner has spurred the subject on and increased his success. If a Hue of Influence rising early be supported by one which rises at about the time of marriage, the wife or husband has supplanted the mother completely (311). If the marriage influence be thin and the mother influence deep and strong, the wife is under the domination of the mother, maybe her own, maybe her husband's (312). 
+If a line of Influence end in a star, and this be connected by a Worry line with an island on the Head line (308), the delicacy and death of a relative produce a weakened mental condition of the subject. In each one of these cases it is understood that you are to try and discover how near a relative has died by the closeness of the Influence line to the Life line. If lines rise from the lines of Influence and run to, but do not cut, the Life line, it shows that relatives will uplift the subject, but if lines droop from the Influence lines to the Life line, the subject will be continually pulled down by his kin (309). 
+
+If a line of Influence which has been diagnosed as the wife or husband have a line rising from it to the Mount of Jupiter, it indicates that this relative is most ambitious (310). 
+
+If the Saturn line be more than usually good after this period, it indicates that this ambitious partner has spurred the subject on and increased his success.
+
+If a Hue of Influence rising early be supported by one which rises at about the time of marriage, the wife or husband has supplanted the mother completely (311). If the marriage influence be thin and the mother influence deep and strong, the wife is under the domination of the mother, maybe her own, maybe her husband's (312). 
 
 <!-- Lines Of Influence Part 3 457 No. 306. Lines Of Influence Part 3 458 No. 307. Lines Of Influence Part 3 459 No. 308. Lines Of Influence Part 3 460 No. 309. Lines Of Influence Part 3 461 No. 310.  -->
 

@@ -115,13 +115,13 @@ Nowadays, this is known as 'keeping it real' or 'being true to oneself', which i
 
 <!-- For example, the local manufacturer follows the dharma of local manufacturing in order to create excellent goods for local consumption, not expecting it to be exported. He finds them getting exported anyway and even going viral overseas because of its superior quality and fit for purpose. This is  -->
 
-{{< quote >}}
+{{< q a="lao" >}}
 Knowing others is intelligence;
 knowing yourself is true wisdom.
 Mastering others is strength;
 mastering yourself is true power.
 <cite>Tao Te Ching Verse 33</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 Human dharma would imply knowing the nature of others, while svadharma would be knowing and mastering oneself.

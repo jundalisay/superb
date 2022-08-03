@@ -3,7 +3,7 @@ CHAPTER 8: AMENDMENT OF THE STATUTE AND COMPLEMENTARY RULES
 Article 40
 Simplified amendment procedures
 
-1. In accordance with Article III-187(3) of the Constitution, Articles 5(1), (2) and (3), 17, 18, 19(1),
+1. In accordance with Article 3-187(3) of the Constitution, Articles 5(1), (2) and (3), 17, 18, 19(1),
 22, 23, 24, 26, 32(2), (3), (4) and (6), 33(1)(a) and 36 of this Statute may be amended by European
 laws:
 (a) on a proposal from the Commission and after consulting the European Central Bank, or
@@ -18,7 +18,7 @@ constitutional requirements.
 unanimous decision by the Governing Council.
 Article 41
 Complementary rules
-In accordance with Article III-187(4) of the Constitution, the Council shall adopt European
+In accordance with Article 3-187(4) of the Constitution, the Council shall adopt European
 regulations and decisions establishing the measures referred to in Articles 4, 5(4), 19(2), 20, 28(1), 29
 (2), 30(4) and 34(3) of this Statute. It shall act after consulting the European Parliament either:
 (a) on a proposal from the Commission and after consulting the European Central Bank or
@@ -29,12 +29,12 @@ CHAPTER 9: TRANSITIONAL AND OTHER PROVISIONS FOR THE EUROPEAN SYSTEM OF CENTRAL 
 
 Article 42
 General provisions
-1. A derogation as referred to in Article III-197(1) of the Constitution shall entail that the following
+1. A derogation as referred to in Article 3-197(1) of the Constitution shall entail that the following
 Articles of this Statute shall not confer any rights or impose any obligations on the Member State
 concerned: 3, 6, 9(2), 12(1), 14(3), 16, 18, 19, 20, 22, 23, 26(2), 27, 30, 31, 32, 33, 34 and 50.
-2. The central banks of Member States with a derogation as specified in Article III-197(1) of the
+2. The central banks of Member States with a derogation as specified in Article 3-197(1) of the
 Constitution shall retain their powers in the field of monetary policy according to national law.
-3. In accordance with the second subparagraph of Article III-197(2) of the Constitution, in
+3. In accordance with the second subparagraph of Article 3-197(2) of the Constitution, in
 Articles 3, 11(2) and 19 of this Statute ‘Member States’ shall mean Member States whose currency is
 the euro.
 4. In Articles 9(2), 10(2) and (3), 12(1), 16, 17, 18, 22, 23, 27, 30, 31, 32, 33(2) and 50 of this
@@ -47,15 +47,15 @@ subscribed by the national central banks of Member States whose currency is the 
 Article 43
 Transitional tasks of the European Central Bank
 The European Central Bank shall take over the former functions of the European Monetary Institute
-referred to in Article III-199(2) of the Constitution which, because of the derogations of one or more
+referred to in Article 3-199(2) of the Constitution which, because of the derogations of one or more
 Member States, still have to be performed after the introduction of the euro.
 The European Central Bank shall give advice in the preparations for the abrogation of the derogations
-referred to in Article III-198 of the Constitution.
+referred to in Article 3-198 of the Constitution.
 
 Article 44
 
 The General Council of the European Central Bank
-1. Without prejudice to Article III-187(1) of the Constitution, the General Council shall be
+1. Without prejudice to Article 3-187(1) of the Constitution, the General Council shall be
 constituted as a third decision‑making body of the European Central Bank.
 2. The General Council shall comprise the President and Vice-President of the European Central
 Bank and the Governors of the national central banks. The other members of the Executive Board
@@ -96,7 +96,7 @@ Part IV
 referred to in Article 36.
 3. The General Council shall contribute to the necessary preparations for irrevocably fixing the
 exchange rates of the currencies of Member States with a derogation against the euro as referred to in
-Article III-198(3) of the Constitution.
+Article 3-198(3) of the Constitution.
 4. The General Council shall be informed by the President of the European Central Bank of
 decisions of the Governing Council.
 Article 47
@@ -145,7 +145,7 @@ decrease by at least 12 percentage points in each subsequent financial year.
 stage.
 Article 50
 Exchange of banknotes in Member States' currencies
-Following the irrevocable fixing of exchange rates in accordance with Article III-198(3) of the
+Following the irrevocable fixing of exchange rates in accordance with Article 3-198(3) of the
 Constitution, the Governing Council shall take the necessary measures to ensure that banknotes
 denominated in the currencies of Member States with irrevocably fixed exchange rates are exchanged
 by the national central banks at their respective par values.

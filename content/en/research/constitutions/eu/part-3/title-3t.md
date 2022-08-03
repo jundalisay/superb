@@ -1,6 +1,6 @@
 SECTION 5: POLICE COOPERATION
 
-Article III-275
+Article 3-275
 1. The Union shall establish police cooperation involving all the Member States' competent
 authorities, including police, customs and other specialised law enforcement services in relation to
 the prevention, detection and investigation of criminal offences.
@@ -18,7 +18,7 @@ Part III
 3. A European law or framework law of the Council may establish measures concerning
 operational cooperation between the authorities referred to in this Article. The Council shall act
 unanimously after consulting the European Parliament.
-Article III-276
+Article 3-276
 1. Europol's mission shall be to support and strengthen action by the Member States' police
 authorities and other law enforcement services and their mutual cooperation in preventing and
 combating serious crime affecting two or more Member States, terrorism and forms of crime which
@@ -35,7 +35,7 @@ European Parliament, together with national Parliaments.
 3. Any operational action by Europol must be carried out in liaison and in agreement with the
 authorities of the Member State or States whose territory is concerned. The application of coercive
 measures shall be the exclusive responsibility of the competent national authorities.
-Article III-277
+Article 3-277
 A European law or framework law of the Council shall lay down the conditions and limitations under
 which the competent authorities of the Member States referred to in Articles III-270 and III-275 may
 operate in the territory of another Member State in liaison and in agreement with the authorities of
@@ -51,7 +51,7 @@ TAKE COORDINATING,
 COMPLEMENTARY OR SUPPORTING ACTION
 SECTION 1
 PUBLIC HEALTH
-Article III‑278
+Article 3‑278
 1. A high level of human health protection shall be ensured in the definition and implementation of
 all the Union's policies and activities.
 Action by the Union, which shall complement national policies, shall be directed towards improving
@@ -114,7 +114,7 @@ Treaty establishing a Constitution for Europe
 131
 SECTION 2
 INDUSTRY
-Article III‑279
+Article 3‑279
 1. The Union and the Member States shall ensure that the conditions necessary for the
 competitiveness of the Union's industry exist.
 For that purpose, in accordance with a system of open and competitive markets, their action shall be
@@ -141,7 +141,7 @@ lead to distortion of competition or contains tax provisions or provisions relat
 interests of employed persons.
 SECTION 3
 CULTURE
-Article III‑280
+Article 3‑280
 1. The Union shall contribute to the flowering of the cultures of the Member States, while
 respecting their national and regional diversity and at the same time bringing the common cultural
 heritage to the fore.
@@ -164,7 +164,7 @@ consultation of the Committee of the Regions;
 (b) the Council, on a proposal from the Commission, shall adopt recommendations.
 SECTION 4
 TOURISM
-Article III‑281
+Article 3‑281
 1. The Union shall complement the action of the Member States in the tourism sector, in particular
 by promoting the competitiveness of Union undertakings in that sector.
 To that end, Union action shall be aimed at:
@@ -179,7 +179,7 @@ harmonisation of the laws and regulations of the Member States.
 
 SECTION 5: EDUCATION, YOUTH, SPORT AND VOCATIONAL TRAINING
 
-Article III‑282
+Article 3‑282
 1. The Union shall contribute to the development of quality education by encouraging cooperation
 between Member States and, if necessary, by supporting and complementing their action. It shall
 fully respect the responsibility of the Member States for the content of teaching and the organisation
@@ -211,7 +211,7 @@ harmonisation of the laws and regulations of the Member States. They shall be ad
 consultation of the Committee of the Regions and the Economic and Social Committee;
 (b) the Council, on a proposal from the Commission, shall adopt recommendations.
 
-Article III‑283
+Article 3‑283
 1. The Union shall implement a vocational training policy which shall support and complement the
 action of the Member States, while fully respecting the responsibility of the Member States for the
 content and organisation of vocational training.
@@ -234,7 +234,7 @@ consultation of the Committee of the Regions and the Economic and Social Committ
 
 SECTION 6: CIVIL PROTECTION
 
-Article III‑284
+Article 3‑284
 1. The Union shall encourage cooperation between Member States in order to improve the
 effectiveness of systems for preventing and protecting against natural or man‑made disasters.
 Union action shall aim to:
@@ -250,7 +250,7 @@ Member States.
 
 SECTION 7: ADMINISTRATIVE COOPERATION
 
-Article III‑285
+Article 3‑285
 1. Effective implementation of Union law by the Member States, which is essential for the proper
 functioning of the Union, shall be regarded as a matter of common interest.
 2. The Union may support the efforts of Member States to improve their administrative capacity to

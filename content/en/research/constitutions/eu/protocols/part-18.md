@@ -55,15 +55,15 @@ IN RESPECT OF BORDER CONTROLS, ASYLUM AND IMMIGRATION, JUDICIAL COOPERATION
 IN CIVIL MATTERS AND ON POLICE COOPERATION
 THE HIGH CONTRACTING PARTIES,
 DESIRING to settle certain questions relating to the United Kingdom and Ireland;
-HAVING REGARD to the Protocol on the application of certain aspects of Article III-130 of the Constitution to the
+HAVING REGARD to the Protocol on the application of certain aspects of Article 3-130 of the Constitution to the
 United Kingdom and Ireland,
 HAVE AGREED UPON the following provisions which shall be annexed to the Treaty establishing a Constitution for
 Europe:
 Article 1
 Subject to Article 3, the United Kingdom and Ireland shall not take part in the adoption by the
 Council of proposed measures pursuant to Section 2 or Section 3 of Chapter IV of Title III of Part III
-of the Constitution or to Article III-260 thereof, insofar as that Article relates to the areas covered by
-those Sections, to Article III-263 or to Article III-275(2)(a) of the Constitution. The unanimity of the
+of the Constitution or to Article 3-260 thereof, insofar as that Article relates to the areas covered by
+those Sections, to Article 3-263 or to Article 3-275(2)(a) of the Constitution. The unanimity of the
 members of the Council, with the exception of the representatives of the governments of the United
 Kingdom and Ireland, shall be necessary for acts of the Council which must be adopted unanimously.
 For the purposes of this Article, a qualified majority shall be defined as at least 55 % of the members
@@ -78,9 +78,9 @@ majority shall be defined as at least 72 % of the members of the Council represe
 participating Member States, comprising at least 65 % of the population of these States.
 Article 2
 In consequence of Article 1 and subject to Articles 3, 4 and 6, none of the provisions of Section 2 or
-Section 3 of Chapter IV of Title III of Part III of the Constitution or of Article III-260 of the
+Section 3 of Chapter IV of Title III of Part III of the Constitution or of Article 3-260 of the
 Constitution, insofar as that Article relates to the areas covered by those Sections, or of Article
-III-263 or Article III-275(2)(a) of the Constitution, no measure adopted pursuant to those Sections or
+III-263 or Article 3-275(2)(a) of the Constitution, no measure adopted pursuant to those Sections or
 Articles, no provision of any international agreement concluded by the Union pursuant to those954393_TRAITE_EN_351_400
 13-01-2005
 08:00
@@ -97,7 +97,7 @@ Article 3
 1. The United Kingdom or Ireland may notify the Council in writing, within three months after a
 proposal has been presented to the Council pursuant to Section 2 or Section 3 of Chapter IV of Title
 III of Part III of the Constitution or after a proposal or initiative has been presented to the Council
-pursuant to Article III-263 or to Article III-275(2)(a) of the Constitution, that it wishes to take part in
+pursuant to Article 3-263 or to Article 3-275(2)(a) of the Constitution, that it wishes to take part in
 the adoption and application of any such proposed measure, whereupon that State shall be entitled to
 do so. The unanimity of the members of the Council, with the exception of a member which has not
 made such a notification, shall be necessary for acts of the Council which must be adopted
@@ -121,9 +121,9 @@ the United Kingdom or Ireland taking part, the Council may adopt such measure in
 Article 1 without the participation of the United Kingdom or Ireland. In that case Article 2 applies.
 Article 4
 The United Kingdom or Ireland may, at any time after the adoption of a measure pursuant to Section
-2 or Section 3 of Chapter IV of Title III of Part III of the Constitution or to Article III-263 or to
-Article III-275(2)(a) of the Constitution, notify its intention to the Council and to the Commission
-that it wishes to accept that measure. In that case, the procedure provided for in Article III-420(1) of
+2 or Section 3 of Chapter IV of Title III of Part III of the Constitution or to Article 3-263 or to
+Article 3-275(2)(a) of the Constitution, notify its intention to the Council and to the Commission
+that it wishes to accept that measure. In that case, the procedure provided for in Article 3-420(1) of
 the Constitution shall apply mutatis mutandis.954393_TRAITE_EN_351_400
 13-01-2005
 08:00
@@ -132,15 +132,15 @@ Pagina 362
 Part IV
 Article 5
 A Member State which is not bound by a measure adopted pursuant to Section 2 or Section 3 of
-Chapter IV of Title III of Part III of the Constitution, to Article III-263 or to Article III-275(2)(a) of the
+Chapter IV of Title III of Part III of the Constitution, to Article 3-263 or to Article 3-275(2)(a) of the
 Constitution, shall bear no financial consequences of that measure other than administrative costs
 entailed for the institutions, unless all members of the Council, acting unanimously after consulting
 the European Parliament, decide otherwise.
 Article 6
 Where, in cases referred to in this Protocol, the United Kingdom or Ireland is bound by a measure
 adopted pursuant to Section 2 or Section 3 of Chapter IV of Title III of Part III of the Constitution, to
-Article III-260 of the Constitution, insofar as that Article relates to the areas covered by those
-Sections, to Article III-263 or to Article III-275(2)(a) of the Constitution, the relevant provisions of
+Article 3-260 of the Constitution, insofar as that Article relates to the areas covered by those
+Sections, to Article 3-263 or to Article 3-275(2)(a) of the Constitution, the relevant provisions of
 the Constitution shall apply to that State in relation to that measure.
 Article 7
 Articles 3 and 4 shall be without prejudice to the Protocol on the Schengen acquis integrated into the

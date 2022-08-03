@@ -1,7 +1,7 @@
 +++
 title= "The Sciences"
 heading= "Part 2 of Metaphysics by Aristotle Simplified"
-date= "2015-09-08"
+date= "2015-09-29"
 author= "Aristotle"
 image= "/covers/meta.jpg"
 description= "According to Aristotle, the science which it would be most meet for God to have is a divine science, and so is any science that deals with divine objects"

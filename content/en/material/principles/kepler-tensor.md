@@ -5,7 +5,7 @@ date: 2022-01-03
 image: "/covers/kepler.jpg"
 description: "The Kepler Tensor plot movements in space or no-space according to universal relativity."
 linkTitle: "Kepler Tensor"
-linkb: /material/principles/cartesian-view
+linkb: /material/solutions/cartesian-view
 linkbtext: "cartesian-view"
 linkf: /material/principles/material-relativity
 linkftext: "material-relativity"

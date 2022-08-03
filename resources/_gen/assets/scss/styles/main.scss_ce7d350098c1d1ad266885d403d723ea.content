@@ -6839,7 +6839,7 @@ body {
   background-color: darkcyan !important;
   background-image: url(/icons/schu.png) !important; }
 
-.smith {
+.smith, .Smith {
   background-color: #055 !important;
   background-image: url(/icons/smith.png) !important; }
 
@@ -6851,7 +6851,7 @@ body {
   background-image: url(/icons/msp50.png) !important; }
 
 .pantry, .tao {
-  background-color: #fff;
+  background-color: darkcyan;
   background-image: url(/icons/pantry.png) !important; }
 
 .sp, .Superphysics {

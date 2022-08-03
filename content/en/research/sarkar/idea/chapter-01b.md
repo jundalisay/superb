@@ -5,9 +5,9 @@ heading: Chapter 1b
 date: 2022-01-30
 description: "the Identity-Layer is nothing but the Cosmic “I”. This is the first bondage of Consciousness by His innate sentient Activity"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-01"
+linkb: "/research/sarkar/idea/chapter-01"
 linkbtext: "Chapter 1"
-linkf: "/research/indian/idea/chapter-01c"
+linkf: "/research/sarkar/idea/chapter-01c"
 linkftext: "Chapter 1c"
 icon: "/icons/sarkar.jpg"
 ---

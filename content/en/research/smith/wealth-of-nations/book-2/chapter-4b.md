@@ -1,7 +1,7 @@
 +++
 title=  "Interest Rates"
 heading=  "Book 2 Chapter 4b"
-date=  2020-01-01
+date=  2020-01-07
 image=  "https= //sorasystem.sirv.com/photos/money.jpg"
 description=  "Should interest rates be regulated?"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-4a"

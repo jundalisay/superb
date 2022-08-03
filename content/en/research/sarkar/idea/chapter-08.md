@@ -4,9 +4,9 @@ heading: "Chapter 4 "
 date: 2022-01-13
 description: "Originally 'Mind, Heart Chakra and Propensities (Vrtti)'"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-07b"
+linkb: "/research/sarkar/idea/chapter-07b"
 linkbtext: "Chapter 3"
-linkf: "/research/indian/idea/chapter-09"
+linkf: "/research/sarkar/idea/chapter-09"
 linkftext: "Chapter 5"
 icon: "/icons/sarkar.jpg"
 ---

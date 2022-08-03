@@ -37,7 +37,7 @@ Final act
 15. Protocol on certain tasks of the National Bank of Denmark
 16. Protocol on the Pacific Financial Community franc system
 17. Protocol on the Schengen acquis integrated into the framework of the European Union
-18. Protocol on the application of certain aspects of Article III-130 of the Constitution to the
+18. Protocol on the application of certain aspects of Article 3-130 of the Constitution to the
 United Kingdom and to Ireland
 19. Protocol on the position of the United Kingdom and Ireland on policies in respect of border
 controls, asylum and immigration, judicial cooperation in civil matters and on police
@@ -53,7 +53,7 @@ III-312 of the Constitution
 Netherlands Antilles
 26. Protocol on the acquisition of property in Denmark
 27. Protocol on the system of public broadcasting in the Member States
-28. Protocol concerning Article III-214 of the Constitution
+28. Protocol concerning Article 3-214 of the Constitution
 29. Protocol on economic, social and territorial cohesion
 30. Protocol on special arrangements for Greenland
 31. Protocol on Article 40.3.3 of the Constitution of Ireland
@@ -71,7 +71,7 @@ establishing the European Community and the Treaty on European Union
 Coal and Steel Community and on the Research Fund for Coal and Steel
 36. Protocol amending the Treaty establishing the European Atomic Energy Community
 III. Annexes to the Treaty establishing a Constitution for Europe:
-1. Annex I — List referred to in Article III-226 of the Constitution
+1. Annex I — List referred to in Article 3-226 of the Constitution
 2. Annex II — Overseas countries and territories to which Title IV of Part III of the Constitution
 applies
 The Conference has adopted the following declarations annexed to this Final Act.
@@ -94,22 +94,22 @@ the Presidency of the Council
 Pagina 414
 414
 Final act
-13. Declaration on Article III-116
+13. Declaration on Article 3-116
 14. Declaration on Articles III-136 and III-267
 15. Declaration on Articles III-160 and III-322
-16. Declaration on Article III-167(2)(c)
-17. Declaration on Article III-184
-18. Declaration on Article III-213
-19. Declaration on Article III-220
-20. Declaration on Article III-243
-21. Declaration on Article III-248
-22. Declaration on Article III-256
-23. Declaration on Article III-273(1), second subparagraph
-24. Declaration on Article III-296
-25. Declaration on Article III-325 concerning the negotiation and conclusion of international
+16. Declaration on Article 3-167(2)(c)
+17. Declaration on Article 3-184
+18. Declaration on Article 3-213
+19. Declaration on Article 3-220
+20. Declaration on Article 3-243
+21. Declaration on Article 3-248
+22. Declaration on Article 3-256
+23. Declaration on Article 3-273(1), second subparagraph
+24. Declaration on Article 3-296
+25. Declaration on Article 3-325 concerning the negotiation and conclusion of international
 agreements by Member States relating to the area of freedom, security and justice
-26. Declaration on Article III-402(4)
-27. Declaration on Article III-419
+26. Declaration on Article 3-402(4)
+27. Declaration on Article 3-419
 28. Declaration on Article IV-440(7)
 29. Declaration on Article IV-448(2)
 30. Declaration on the ratification of the Treaty establishing a Constitution for Europe

@@ -1,5 +1,5 @@
 ---
-title: "The Council of Opposition"
+title: "Council of Opposition to Preserve the Balance of Power"
 heading: "David Hume's Court of Competitors or Opposition Bloc"
 date: 2021-09-07
 image: "/photos/objects/regicide.jpg"
@@ -27,7 +27,7 @@ The logic is that, since the senators are chosen from the district representativ
 
 But if the senator wins by a landslide, then it means that most of the representatives back that senator and the opposition is muted.  In such a case, the system gathers the small opposition into a Council of Opposition which will strengthen and organize the force that checks and counteracts the ruling senator and assembly.
 
-It has two main jobs:
+It has 2 main jobs:
 
 1. To audit the public records for anomalies 
 2. Accuse bad senators for mistakes, corruption, etc. This will be tried by the senate. If the accusation is rejected by the senate, the Council can appeal to the 1,100 magistrates who will then choose up to 300 district representatives to try the case. 

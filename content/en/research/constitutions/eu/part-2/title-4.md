@@ -4,9 +4,9 @@ heading: "Title 4"
 date: 2021-11-20
 image: "/flags/eu.png"
 description: "Everyone is equal before the law"
-linkb: /research/constitutions/eu/rights/title-2
+linkb: /research/constitutions/eu/part-2/title-2
 linkbtext: "Title 2"
-linkf: /research/constitutions/eu/rights/title-4
+linkf: /research/constitutions/eu/part-2/title-4
 linkftext: "Title 4"
 icon: /flags/eu.png
 ---

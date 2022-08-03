@@ -4,9 +4,9 @@ heading: "Chapter 3 "
 date: 2022-01-23
 description: "Brahma Cakra is the Cosmic Circle. It is a Cosmic dance in which every created object, under the magic spell of the Cosmos, is moving in proper harmony and rhythm"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-03"
+linkb: "/research/sarkar/idea/chapter-03"
 linkbtext: "Chapter 3"
-linkf: "/research/indian/idea/chapter-04"
+linkf: "/research/sarkar/idea/chapter-04"
 linkftext: "Chapter 4"
 icon: "/icons/sarkar.jpg"
 ---

@@ -2,9 +2,9 @@
 title= "Natural Remedies for Hydrocele"
 description= "During intercourse or a wet dream, spermatozoa are emitted in the semen. If the semen cannot find an outlet, or if its flow is unnaturally obstructed, then the semen decomposes in the storage sacks."
 image= "/photos/med/hydro.jpg"
-linkb= "/research/indian/yogic-treatments/high-blood-pressure"
+linkb= "/research/sarkar/yogic-treatments/high-blood-pressure"
 linkbtext= "blood pressure"
-linkf= "/research/indian/yogic-treatments/infertility-female"
+linkf= "/research/sarkar/yogic-treatments/infertility-female"
 linkftext= "infertility"
 +++
 

@@ -22,7 +22,7 @@ It follows that:
 - If the non-moving `K` is a Galileian co-ordinate system, then every other moving viewpoint `K'` is a Galileian one, when, in relation to a non-moving `K`, it is in a condition of uniform motion of translation. 
 - Relative to a moving `K'` the mechanical laws of Galilei-Newton hold good exactly as they do with respect to a non-moving `K`
 
-Our tenet is thus=  If, relative to a non-moving `K`, a moving `K'` is uniformly moving without rotation, then natural phenomena run their course with respect to a moving `K'` according to exactly the same general laws with respect to non-moving `K`. 
+Our tenet is thus: If, relative to a non-moving `K`, a moving `K'` is uniformly moving without rotation, then natural phenomena run their course with respect to a moving `K'` according to exactly the same general laws with respect to non-moving `K`. 
 
 This is my principle of Relativity (in the restricted sense). It is obvious in classical mechanics. 
 <!-- As long as one was convinced that all natural phenomena were capable of representation with the help of classical mechanics, there was no need to doubt the validity of this principle of relativity. -->
@@ -43,11 +43,11 @@ The principle of Relativity must therefore apply with great accuracy in mechanic
 
 If the principle of Relativity (in the restricted sense) does not hold, then the Galileian coordinate systems `K, K', K''`, etc., which are moving uniformly relative to each other, will not be equivalent for the description of natural phenomena. 
 
-In this case, we should be constrained to believe that natural laws can be formulated in a particularly simple manner, and of course only on condition that, from amongst all possible Galileian co-ordinate systems, we should have chosen one (K0) of a particular state of motion as our body of reference.  
+In this case, we should be constrained to believe that natural laws can be formulated in a particularly simple manner, and of course only on condition that, from amongst all possible Galileian co-ordinate systems, we should have chosen one (`K0`) of a particular state of motion as our body of reference.  
 
 We should then be justified (because of its merits for the description of natural phenomena) in calling this system “absolutely at rest,” and all other Galileian systems `K` “in motion.” 
 
-If our embankment were the system K0 , then our railway carriage would be a system `K`, relative to which less simple laws would hold than with respect to `K0`. 
+If our embankment were the system `K0` , then our railway carriage would be a system `K`, relative to which less simple laws would hold than with respect to `K0`. 
 
 This diminished simplicity would be due to the fact that the carriage `K` would be in motion (i.e. “really”) with respect to `K0`. 
 

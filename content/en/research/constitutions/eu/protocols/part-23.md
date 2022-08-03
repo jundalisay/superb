@@ -1,12 +1,12 @@
 23. PROTOCOL ON PERMANENT STRUCTURED COOPERATION ESTABLISHED BY ARTICLE I-41(6) AND ARTICLE III-312 OF THE CONSTITUTION 
 
 <!-- THE HIGH CONTRACTING PARTIES,
-HAVING REGARD TO Article I‑41(6) and Article III‑312 of the Constitution,
+HAVING REGARD TO Article I‑41(6) and Article 3‑312 of the Constitution,
 RECALLING that the Union is pursuing a common foreign and security policy based on the achievement of growing
 convergence of action by Member States;
 RECALLING that the common security and defence policy is an integral part of the common foreign and security
 policy; that it provides the Union with operational capacity drawing on civil and military assets; that the Union may use
-such assets in the tasks referred to in Article III‑309 of the Constitution outside the Union for peace‑keeping, conflict
+such assets in the tasks referred to in Article 3‑309 of the Constitution outside the Union for peace‑keeping, conflict
 prevention and strengthening international security in accordance with the principles of the United Nations Charter;
 that the performance of these tasks is to be undertaken using capabilities provided by the Member States in accordance
 with the principle of a single set of forces;
@@ -42,7 +42,7 @@ capabilities development, research, acquisition and armaments (European Defence 
 (b) have the capacity to supply by 2007 at the latest, either at national level or as a component of
 multinational force groups, targeted combat units for the missions planned, structured at a
 tactical level as a battle group, with support elements including transport and logistics, capable of
-carrying out the tasks referred to in Article III‑309, within a period of 5 to 30 days, in particular
+carrying out the tasks referred to in Article 3‑309, within a period of 5 to 30 days, in particular
 in response to requests from the United Nations Organisation, and which can be sustained for an
 initial period of 30 days and be extended up to at least 120 days.
 
@@ -73,7 +73,7 @@ The European Defence Agency shall contribute to the regular assessment of partic
 States' contributions with regard to capabilities, in particular contributions made in accordance with
 the criteria to be established, inter alia, on the basis of Article 2, and shall report thereon at least once
 a year. The assessment may serve as a basis for Council recommendations and European decisions
-adopted in accordance with Article III‑312 of the Constitution.
+adopted in accordance with Article 3‑312 of the Constitution.
 
 24. PROTOCOL ON ARTICLE I-41(2) OF THE CONSTITUTION
 

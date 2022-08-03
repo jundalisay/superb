@@ -1,10 +1,17 @@
-+++
-title=  "Austerity Versus Public Spending"
-description=  "Austerity Versus Public Spending"
-date=  2020-01-01
-image=  "/covers/wn.jpg"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 3e"
+title: "Austerity Versus Public Spending"
+linkTitle: "Chapter 3e"
+date: 2020-01-09
+image: "/covers/wn.jpg"
+description: "Austerity Versus Public Spending"
+linkb: "/research/smith/wealth-of-nations/book-2/chapter-3d"
+linkbtext: "chapter-3d"
+linkf: "/research/smith/wealth-of-nations/book-2/chapter-4a"
+linkftext: "chapter-4a"
+author: Adam Smith
+icon: /icons/smith.png
+---
 
 
 {{< s v="37" >}} Frugality increases the public capital and prodigality reduces it.
@@ -41,7 +48,7 @@ The man who spends on unproductive things would not increase his own magnificenc
 - His 10-20 years of profusion would be as completely annihilated.
 
 
-39 This way of spending by an individual is the same as that of a nation.
+{{< s v="39" >}} This way of spending by an individual is the same as that of a nation.
 
 The houses, furniture, and clothing of the rich become useful to the inferior and middling ranks of people. They can buy them when their superiors grow weary of them.
 
@@ -53,11 +60,9 @@ In rich countries, the inferior ranks have good houses and furniture which=
 
 The house of the family of Seymour is now an inn on the Bath road.
 
-The marriage-bed of James I of Great Britain was brought by his queen from Denmark as a gift.
-    A few years ago, it was the ornament of an ale-house at Dunfermline.
+The marriage-bed of James I of Great Britain was brought by his queen from Denmark as a gift. A few years ago, it was the ornament of an ale-house at Dunfermline.
 
-In some ancient cities which have been long stationary or have gone to decay, almost all houses are not occupied by the original inhabitants.
-    Those houses have many excellent antiquated furniture which are still fit for use.
+In some ancient cities which have been long stationary or have gone to decay, almost all houses are not occupied by the original inhabitants. Those houses have many excellent antiquated furniture which are still fit for use.
 
 
 Noble palaces, magnificent villas, great collections of books, statues, pictures, and other curiosities, are frequently an ornament and an honour to the neighbourhood and to its country.
@@ -70,22 +75,24 @@ Italy still continues to be venerated because of its monuments, even though=
 - the genius which planned them has been extinguished, perhaps from not having the same employment.
 
 
-40 The spending for durable commodities maintains more people than the spending for the most profuse hospitality.
+{{< s v="40" >}} The spending for durable commodities maintains more people than the spending for the most profuse hospitality.
 
 Perhaps half of 300 pounds weight of provisions served at a great festival is wasted.
-    It would maintain unproductive hands.
-    It would increase prices or the exchangeable value of the national annual produce.
+- It would maintain unproductive hands.
+- It would increase prices or the exchangeable value of the national annual produce.
+
 If those provisions were employed instead in employing masons, carpenters, upholsterers, mechanics, etc. those provisions would be repaid in pennies and pound weights without losing a single ounce.
-    It would maintain productive hands.
-    It would not increase prices.
+- It would maintain productive hands.
+- It would not increase prices.
 
 
-41 However, this does not mean that spending on durable goods always indicates more generosity than spending on hospitality.
+{{< s v="41" >}} However, this does not mean that spending on durable goods always indicates more generosity than spending on hospitality.
 
 When a rich man spends his revenue chiefly in hospitality, he shares most of it with his friends.
 When he employs it in buying durable commodities, he spends it on his own person.
     He gives nothing to others without an equivalent.
     A person is trifling, base, and selfish when he uses his revenue to buy frivolous objects such as ornaments of dress, furniture, jewels, trinkets, and gewgaws for himself.
+
 All that I mean is, that buying durable commodities= 
     causes some accumulation of valuable commodities, and
     is more favourable to private frugality.

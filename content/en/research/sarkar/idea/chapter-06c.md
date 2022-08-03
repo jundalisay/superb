@@ -4,9 +4,9 @@ heading: "Chapter 6c"
 date: 2022-01-16
 description: "Táraka Brahma is not a figure of philosophy. It is a creation of devotional sentiment."
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-05"
+linkb: "/research/sarkar/idea/chapter-05"
 linkbtext: "Chapter 5"
-linkf: "/research/indian/idea/chapter-07"
+linkf: "/research/sarkar/idea/chapter-07"
 linkftext: "Chapter 7"
 icon: "/icons/sarkar.jpg"
 ---

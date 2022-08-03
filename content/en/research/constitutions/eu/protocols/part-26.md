@@ -34,7 +34,7 @@ Europe: -->
 
 Sole article
 
-For the purposes of Article III‑214 of the Constitution, benefits under occupational social security
+For the purposes of Article 3‑214 of the Constitution, benefits under occupational social security
 schemes shall not be considered as remuneration if and insofar as they are attributable to periods of
 employment prior to 17 May 1990, except in the case of workers or those claiming under them who
 have before that date initiated legal proceedings or introduced an equivalent claim under the
@@ -49,7 +49,7 @@ competence of the Union listed in Article I‑14(2)(c) of the Constitution;
 RECALLING that the provisions of Section 3 of Chapter III of Title III of Part III of the Constitution, on economic, social
 and territorial cohesion as a whole provide the legal basis for consolidating and further developing the Union's action in
 this field, including the creation of a fund;
-RECALLING that Article III‑223 of the Constitution envisages setting up a Cohesion Fund;
+RECALLING that Article 3‑223 of the Constitution envisages setting up a Cohesion Fund;
 NOTING that the European Investment Bank is lending large and increasing amounts for the benefit of the poorer
 regions;
 NOTING the desire for greater flexibility in the arrangements for allocations from the Structural Funds;
@@ -72,7 +72,7 @@ as soon as this is necessary for that purpose.
 4. The Member States agree that the Cohesion Fund shall provide Union financial contributions to
 projects in the fields of environment and trans‑European networks in Member States with a per
 capita GNP of less than 90 % of the Union average which have a programme leading to the fulfilment
-of the conditions of economic convergence as set out in Article III‑184 of the Constitution.
+of the conditions of economic convergence as set out in Article 3‑184 of the Constitution.
 5. The Member States declare their intention of allowing a greater margin of flexibility in allocating
 financing from the Structural Funds to specific needs not covered under the present Structural Funds
 regulations.
@@ -99,7 +99,7 @@ Sole article
 1. The treatment on import into the Union of products subject to the common organisation of the market in fishery products and originating in Greenland shall, while complying with the mechanisms of the common market organisation, involve exemption from customs duties and charges having equivalent effect and the absence of quantitative restrictions or measures having equivalent effect if the possibilities for access to Greenland fishing zones granted to the Union pursuant to an agreement between the Union and the authority responsible for Greenland are satisfactory to the Union.
 
 2. The measures relating to the import arrangements for the products referred to in paragraph 1
-shall be adopted in accordance with the procedures laid down in Article III‑231 of the Constitution.
+shall be adopted in accordance with the procedures laid down in Article 3‑231 of the Constitution.
 
 
 31. PROTOCOL ON ARTICLE 40.3.3 OF THE CONSTITUTION OF IRELAND
@@ -144,7 +144,7 @@ States in accordance with Article 57 thereof.
 
 Article 3
 
-Nothing in the agreement referred to in Article 1 shall affect Article III-375(2) of the Constitution.
+Nothing in the agreement referred to in Article 1 shall affect Article 3-375(2) of the Constitution.
 
 33. PROTOCOL ON THE ACTS AND TREATIES WHICH HAVE SUPPLEMENTED OR AMENDED THE TREATY ESTABLISHING THE EUROPEAN COMMUNITY AND THE TREATY ON EUROPEAN UNION
 
@@ -189,7 +189,7 @@ establishing the European Communities and certain related acts is hereby repeale
 10.3.2001, p. 1).
 
 Article 2
-1. Without prejudice to the application of Article III‑432 of the Constitution and Article 189 of
+1. Without prejudice to the application of Article 3‑432 of the Constitution and Article 189 of
 the Treaty establishing the European Atomic Energy Community, the representatives of the
 Governments of the Member States shall adopt by common accord the necessary provisions for the
 purpose of dealing with certain problems particular to the Grand Duchy of Luxembourg which arise
@@ -227,7 +227,7 @@ respectively.
 the word ‘determine’ shall be replaced by ‘adopt a European decision which shall determine’; and
 the words ‘preceding subparagraph’ shall be replaced by ‘first subparagraph’.
 (n) In Article 11(3), the phrase ‘without prejudice to Article 139 of the Treaty establishing the
-European Community’ shall be replaced by ‘without prejudice to Article III‑336 of the
+European Community’ shall be replaced by ‘without prejudice to Article 3‑336 of the
 Constitution’.
 (o) In Article 14, the term ‘a proposal’ shall be replaced by ‘an initiative’; and the phrase ‘adopt such
 measures’ shall be replaced by ‘adopt the necessary European regulations or decisions’.

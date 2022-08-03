@@ -15,7 +15,7 @@ icon: /flags/eu.png
 Subsection 1
 Customs union
 
-Article III-151
+Article 3-151
 
 1. The Union shall comprise a customs union which shall cover all trade in goods and which shall
 involve the prohibition between Member States of customs duties on imports and exports and of all
@@ -44,27 +44,27 @@ development of production and an expansion of consumption within the Union.
 Subsection 2
 Customs cooperation
 
-Article III-152
+Article 3-152
 Within the scope of application of the Constitution, European laws or framework laws shall establish
 measures in order to strengthen customs cooperation between Member States and between them and
 the Commission.
 Subsection 3
 Prohibition of quantitative restrictions
 
-Article III-153
+Article 3-153
 Quantitative restrictions on imports and exports and all measures having equivalent effect shall be
 prohibited between Member States.
 
-Article III-154
+Article 3-154
 
-Article III-153 shall not preclude prohibitions or restrictions on imports, exports or goods in transit
+Article 3-153 shall not preclude prohibitions or restrictions on imports, exports or goods in transit
 justified on grounds of public morality, public policy or public security; the protection of health and
 life of humans, animals or plants; the protection of national treasures possessing artistic, historic or
 archaeological value; or the protection of industrial and commercial property. Such prohibitions or
 restrictions shall not, however, constitute a means of arbitrary discrimination or a disguised
 restriction on trade between Member States.
 
-Article III-155
+Article 3-155
 1. Member States shall adjust any State monopolies of a commercial character so as to ensure that
 no discrimination regarding the conditions under which goods are procured and marketed exists
 between nationals of Member States.

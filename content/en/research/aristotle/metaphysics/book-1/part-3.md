@@ -2,7 +2,7 @@
 title= "The Early Philosophers"
 heading= "Part 6 of Metaphysics by Aristotle Simplified"
 author= "Aristotle"
-date= "2015-09-07"
+date= "2015-09-28"
 image= "/covers/meta.jpg"
 description= "Aristotle enumerates the principles of the early philosophers"
 linkb= "/research/aristotle/metaphysics/book-1/part-2"

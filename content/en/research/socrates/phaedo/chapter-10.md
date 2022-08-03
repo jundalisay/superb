@@ -1,14 +1,18 @@
-+++
-title= "The Death of Socrates"
-date= 2015-09-09
-image= "/covers/phaedo.jpg"
-description= "Such was the end of our friend Socrates. Of all the men of his time whom I have known, he was the wisest and justest and best."
-linkb= "/research/socrates/phaedo/chapter-9"
-linkbtext= "chapter-9"
-linkf= "/research/socrates/simple-republic"
-linkftext= "Chapter 1"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Death of Socrates"
+linkTitle: "Chapter 10"
+heading: "Chapter 10 of Phaedo Simplified"
+date: 2015-09-09
+image: "/covers/phaedo.jpg"
+description: "Such was the end of our friend Socrates. Of all the men of his time whom I have known, he was the wisest and justest and best."
+linkb: "/research/socrates/phaedo/chapter-9"
+linkbtext: "Chapter 9"
+linkf: "/research/socrates/simple-republic"
+linkftext: "Simple Republic"
+author: Plato
+icon: /icons/soc.png
+---
+
 
 When he had done speaking, Crito said:
 

@@ -31,9 +31,10 @@ In UBI, money is given to poor people without any strings attached. This makes i
 
 ## What's Wrong with Universal Basic Income? 
 
-In general, studies have found two flaws in UBI:
-- It contributes little to alleviate poverty as a whole
-- It is expensive to administer
+In general, studies have found 2 flaws in UBI:
+
+1. It contributes little to alleviate poverty as a whole
+2. It is expensive to administer
 
 Adam Smith, the founder of Economics, would be against UBI because:
 - It can only be measured in nominal value

@@ -12,7 +12,7 @@ icon: /flags/eu.png
 ---
 
 <!-- THE HIGH CONTRACTING PARTIES,
-HAVING REGARD to Article III‑432 of the Constitution,
+HAVING REGARD to Article 3‑432 of the Constitution,
 RECALLING AND CONFIRMING the Decision of 8 April 1965, and without prejudice to the decisions concerning the
 seat of future institutions, bodies, offices, agencies and departments,
 HAVE AGREED UPON the following provisions, which shall be annexed to the Treaty establishing a Constitution for

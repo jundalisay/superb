@@ -1,15 +1,15 @@
-+++
-title= "The Three Rules of Nature of the Aethereal Universe"
-heading= "Chapter 7"
-description= "How could Nature untangle the confusion of the chaos after creation? What are the laws of nature that God has imposed on her?"
-author= "Rene Descartes"
-image= "/covers/world.jpg"
-linkb= "/research/descartes/world/chapter-07"
-linkbtext= "Chapter 7"
-linkf= "/research/descartes/world/chapter-08"
-linkftext= "Chapter 8"
-icon= "/icons/descartes.png"
-+++
+---
+heading: "Chapter 7 of The World by Descrates Simplified"
+title: "The Three Rules of Nature of the Aethereal Universe"
+date: 2020-09-02
+image: "/covers/meta.jpg"
+description: "How could Nature untangle the confusion of the chaos after creation? What are the laws of nature that God has imposed on her?"
+linkb: /research/descartes/world/chapter-06
+linkbtext: "Chapter 6"
+linkf: /research/descartes/world/chapter-08
+linkftext: "Chapter 8"
+icon: "/icons/descartes.jpg"
+---
 
 
 How could Nature untangle the confusion of the chaos after creation? What are the laws of nature that God has imposed on her?
@@ -141,14 +141,15 @@ Of all motions, only the straight motion is entirely simple. Its whole nature is
 - that a body is moving in a certain direction and
 - that that direction happens* <!-- is the case --> in each instant while it is moving<!--  during its the time that it is moving.  -->
 
-> *Superphysics Note= Like Einstein, Descartes splits movements into small observable instants (moments of time). Like Einstein, he unifies the conservation of energy and mass as a single idea. But unlike Einstein who sources this conservation on a spacetime fabric, Descartes asribes it to God through His aether. 
+> *Superphysics Note: Like Einstein, Descartes splits movements into small observable instants (moments of time). Like Einstein, he unifies the conservation of energy and mass as a single idea. But unlike Einstein who sources this conservation on a spacetime fabric, Descartes asribes it to God through His aether. This aether is the material of the mind which is inherent in all objects, though it is most evident in living things. Therefore, the cause of movement is the differences in the inherent nature of each mind. The 'mind' of an ice block moves as water when influenced by heat. An object that has no mind will not react to anything and will never move. Such an object does not exist. 
 
 
 
 ### Curved "Constrained" Motion= Cartesian Relativity 
 
 By contrast, a circular motion or any other motion requires us to at least think of:
-- <!-- two of its instants or  -->two of its [past] parts, and
+<!-- two of its instants or  --> 
+- two of its [past] parts, and
 - the relation between them.[37]
 
 The sophists might say here that <!-- the linear motion occurs instantly --> those parts are linear and not curved. [Thus, curves are still made up of straight lines and therefore every motion is a straight line.]

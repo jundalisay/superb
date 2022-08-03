@@ -53,6 +53,7 @@ It would be like requiring a house-builder to know a house’s entire blueprint 
 
 {{< q a="descartes" >}}
 Modern algebra has so many certain rules and formulas that it is full of confusion and obscurity that embarrasses instead of cultivating the mind.
+<cite>Descartes, Method of Reasoning and seeking Truth in the Sciences Simplified, Part 2</cite>
 {{< /q >}}
 
 

@@ -5,9 +5,9 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Research centres should be developed on all large farming projects and master units"
 image: "/covers/farming.jpg"
-linkb: "/research/indian/farming/"
+linkb: "/research/sarkar/farming/"
 linkbtext: "Index"
-linkf: "/research/indian/farming/"
+linkf: "/research/sarkar/farming/"
 linkftext: "Index"
 icon: "/flags/in.png"
 aliases:

@@ -1,6 +1,6 @@
 CHAPTER 2: ECONOMIC AND MONETARY POLICY
 
-Article III-177
+Article 3-177
 For the purposes set out in Article I-3, the activities of the Member States and the Union shall
 include, as provided in the Constitution, the adoption of an economic policy which is based on the
 close coordination of Member States' economic policies, on the internal market and on the definition
@@ -18,17 +18,17 @@ of payments.
 
 SECTION 1: ECONOMIC POLICY
 
-Article III-178
+Article 3-178
 
 Member States shall conduct their economic policies in order to contribute to the achievement of the
 Union's objectives, as defined in Article I-3, and in the context of the broad guidelines referred to in
-Article III-179(2). The Member States and the Union shall act in accordance with the principle of an
+Article 3-179(2). The Member States and the Union shall act in accordance with the principle of an
 open market economy with free competition, favouring an efficient allocation of resources, and in
-compliance with the principles set out in Article III-177.
+compliance with the principles set out in Article 3-177.
 
-Article III-179
+Article 3-179
 1. Member States shall regard their economic policies as a matter of common concern and shall
-coordinate them within the Council, in accordance with Article III-178.
+coordinate them within the Council, in accordance with Article 3-178.
 2. The Council, on a recommendation from the Commission, shall formulate a draft for the broad
 guidelines of the economic policies of the Member States and of the Union, and shall report its
 findings to the European Council.
@@ -66,7 +66,7 @@ public.
 6. European laws may lay down detailed rules for the multilateral surveillance procedure referred to
 in paragraphs 3 and 4.
 
-Article III-180
+Article 3-180
 1. Without prejudice to any other procedures provided for in the Constitution, the Council, on a
 proposal from the Commission, may adopt a European decision laying down measures appropriate
 to the economic situation, in particular if severe difficulties arise in the supply of certain products.
@@ -76,7 +76,7 @@ the Commission, may adopt a European decision granting, under certain conditions
 assistance to the Member State concerned. The President of the Council shall inform the
 European Parliament of the decision adopted.
 
-Article III-181
+Article 3-181
 1. Overdraft facilities or any other type of credit facility with the European Central Bank or with the
 central banks of the Member States (hereinafter referred to as ‘national central banks’) in favour of
 Union institutions, bodies, offices or agencies, central governments, regional, local or other public
@@ -87,12 +87,12 @@ banks of debt instruments.
 supply of reserves by central banks, shall be given the same treatment by national central banks and
 the European Central Bank as private credit institutions.
 
-Article III-182
+Article 3-182
 Any measure or provision, not based on prudential considerations, establishing privileged access by
 Union institutions, bodies, offices or agencies, central governments, regional, local or other public
 authorities, other bodies governed by public law, or public undertakings of Member States to
 financial institutions shall be prohibited.
-Article III-183
+Article 3-183
 1. The Union shall not be liable for or assume the commitments of central governments, regional,
 local or other public authorities, other bodies governed by public law, or public undertakings of any
 Member State, without prejudice to mutual financial guarantees for the joint execution of a specific
@@ -104,7 +104,7 @@ execution of a specific project.
 specifying definitions for the application of the prohibitions laid down in Articles III-181 and III-182
 and in this Article. It shall act after consulting the European Parliament.
 
-Article III-184
+Article 3-184
 1. Member States shall avoid excessive government deficits.
 2. The Commission shall monitor the development of the budgetary situation and of the stock of
 government debt in the Member States in order to identify gross errors. In particular it shall examine
@@ -124,7 +124,7 @@ government deficit exceeds government investment expenditure and take into accou
 relevant factors, including the medium‑term economic and budgetary position of the Member State.
 The Commission may also prepare a report if, notwithstanding the fulfilment of the requirements
 under the criteria, it is of the opinion that there is a risk of an excessive deficit in a Member State.
-4. The Economic and Financial Committee set up under Article III-192 shall formulate an opinion
+4. The Economic and Financial Committee set up under Article 3-192 shall formulate an opinion
 on the Commission's report.
 5. If the Commission considers that an excessive deficit in a Member State exists or may occur, it
 shall address an opinion to the Member State concerned and shall inform the Council accordingly.

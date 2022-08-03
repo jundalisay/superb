@@ -4,9 +4,9 @@ heading: "Chapter 4 "
 date: 2022-01-14
 description: "The kulakuńd́alinii, the “coiled serpentine”, is the theoretical negative force of the unit body. This is why it is different for each individual."
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-08"
+linkb: "/research/sarkar/idea/chapter-08"
 linkbtext: "Chapter 8"
-linkf: "/research/indian/idea/chapter-09"
+linkf: "/research/sarkar/idea/chapter-09"
 linkftext: "Chapter 9"
 icon: "/icons/sarkar.jpg"
 ---

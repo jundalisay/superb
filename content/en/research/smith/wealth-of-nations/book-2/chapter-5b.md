@@ -1,7 +1,7 @@
 +++
 title=  "Home Trade, Foreign Trade, Carrying Trade"
 description=  "Three types of trade are the Home Trade, Foreign Trade, Carrying Trade"
-date=  2020-01-01
+date=  2020-01-05
 image=  "/covers/wn.jpg"
 linkbtext=  "Chapter 5a"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-5a"

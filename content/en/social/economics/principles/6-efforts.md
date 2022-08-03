@@ -17,7 +17,13 @@ Useful work or effort is one of the foundations of Pantrynomics and is based ent
 
 Since effort is very important, its definition becomes very important. In our theory, we have defined human effort, whether physical or mental, as ultimately rooted in psychological or metaphysical toil and trouble. This is opposite of the labor theory of value from Karl Marx which is based on physical work. 
 
-Next, we will categorize effort according to Smith’s system of productive and unproductive labor, which he seems to have gotten from the Physiocrats. He defines productive labor as that which produces some vendible commodity, while unproductive labor as something that does not produce anything vendible. This definition was later frowned upon by economic writers such as Jean Baptiste Say, who didn’t like the name of ‘unproductive labor’ being applied to statesmen, singers, doctors, and people who render services.
+Next, we will categorize effort according to Smith’s system of productive and unproductive labor, which he seems to have gotten from the Physiocrats. He defines productive labor as that which produces some vendible commodity, while unproductive labor as something that does not produce anything vendible. 
+
+This definition was later frowned upon by economic writers such as Jean Baptiste Say, who didn’t like the name of ‘unproductive labor’ being applied to statesmen, singers, doctors, and people who render services.
+
+{{< me date="August 4, 2022" >}}
+Imagine calling the job of a hardworking Covid nurse as unproductive labor. This is why we have to assign other names for it below. 
+{{< /me >}}
 
 
 ## 1-2. Material and Immaterial Effort
@@ -63,7 +69,7 @@ A wealthy country will be able to support more skilled effort than unskilled one
  -->
 
 
-## 4-6. Value-adding and Value-Maintaining
+## 5-6. Value-adding and Value-Maintaining
 
 Lastly, we use the Fourth Law to classify effort as value-adding or value-maintaing:
 

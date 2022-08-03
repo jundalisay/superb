@@ -6,7 +6,7 @@ Prudential supervision
 Commission and the competent authorities of the Member States on the scope and implementation
 of legally binding acts of the Union relating to the prudential supervision of credit institutions and to
 the stability of the financial system.
-2. In accordance with any European law adopted under Article III-185(6) of the Constitution, the
+2. In accordance with any European law adopted under Article 3-185(6) of the Constitution, the
 European Central Bank may perform specific tasks concerning policies relating to the prudential
 supervision of credit institutions and other financial institutions with the exception of insurance
 undertakings.
@@ -31,7 +31,7 @@ Auditing
 independent external auditors recommended by the Governing Council and approved by the Council.
 The auditors shall have full power to examine all books and accounts of the European Central Bank
 and national central banks and obtain full information about their transactions.
-2. Article III-384 of the Constitution shall only apply to an examination of the operational
+2. Article 3-384 of the Constitution shall only apply to an examination of the operational
 efficiency of the management of the European Central Bank.
 Article 28
 Capital of the European Central Bank

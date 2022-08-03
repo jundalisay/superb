@@ -4,9 +4,9 @@ heading: "Title 9"
 date: 2021-11-20
 image: "/flags/eu.png"
 description: "Everyone has the right to liberty and security of person"
-linkb: /research/constitutions/eu/rights/title-1
+linkb: /research/constitutions/eu/part-2/title-1
 linkbtext: "Title 1"
-linkf: /research/constitutions/eu/rights/title-3
+linkf: /research/constitutions/eu/part-2/title-3
 linkftext: "Title 3"
 icon: /flags/eu.png
 ---

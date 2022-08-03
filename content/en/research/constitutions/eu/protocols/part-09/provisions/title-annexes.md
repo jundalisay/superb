@@ -4,9 +4,9 @@ heading: "Part 3"
 date: 2021-11-20
 image: "/flags/eu.png"
 description: "Everyone has the right to liberty and security of person"
-linkb: /research/constitutions/eu/rights/title-1
+linkb: /research/constitutions/eu/part-2/title-1
 linkbtext: "Title 1"
-linkf: /research/constitutions/eu/rights/title-3
+linkf: /research/constitutions/eu/part-2/title-3
 linkftext: "Title 3"
 icon: /flags/eu.png
 ---
@@ -77,13 +77,13 @@ Part Three, Title I, Chapter 1 Part III, Title III, Chapter I, Section 3 Subsect
 Part Three, Title II Part III, Title III, Chapter III, Section 4
 Part Three, Title III Part III, Title III, Chapter I, Sections 2 and 4
 Part Three, Title VI, Chapter 1 Part III, Title III, Chapter I, Section 5
-Article 31 Article III‑155
-Article 39 Article III‑133
-Article 49 Article III‑144
-Article 58 Article III‑158
-Article 87 Article III‑167
-Article 88 Article III‑168
-Article 226 Article III‑360
+Article 31 Article 3‑155
+Article 39 Article 3‑133
+Article 49 Article 3‑144
+Article 58 Article 3‑158
+Article 87 Article 3‑167
+Article 88 Article 3‑168
+Article 226 Article 3‑360
 Annex I Annex I
 5. Where the Annexes referred to in Article 73 of this Protocol provide that the Council or the
 Commission shall adopt legal acts, those acts shall take the form of European regulations or

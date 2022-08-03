@@ -1,6 +1,6 @@
 +++
 title=  "Monetary Policy"
-date=  2020-01-01
+date=  2020-01-14
 image=  "/covers/wn.jpg"
 description=  "In Yorkshire’s paper currencies, the payment of so small a sum as a sixpence required the note’s holder to bring the change of a guinea to the issuer"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2n"

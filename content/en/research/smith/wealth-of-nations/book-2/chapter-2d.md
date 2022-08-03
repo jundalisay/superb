@@ -1,6 +1,6 @@
 +++
 title=  "Computing the Net Domestic Product"
-date=  2020-01-01
+date=  2020-01-25
 heading=  "Book 2, Chapter 1a"
 image=  "/covers/wn.jpg"
 description=  "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"

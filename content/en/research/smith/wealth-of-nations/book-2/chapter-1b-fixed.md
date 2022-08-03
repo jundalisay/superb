@@ -1,7 +1,7 @@
 ---
 title: "The Stock for Consumption and Fixed Capital"
 heading: "Book 2, Chapter 1b"
-date: 2020-01-01
+date: 2020-01-30
 image: "/covers/wn.jpg"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
 linkb: "/research/smith/wealth-of-nations/book-2/chapter-1a-capitals"

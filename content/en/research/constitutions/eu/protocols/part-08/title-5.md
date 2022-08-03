@@ -65,7 +65,7 @@ Article 50
 In the field of the aids provided for in Articles III‑167 and III‑168 of the Constitution:
 (a) among the aids applied in Austria, Finland and Sweden prior to 1 January 1995, only those
 notified to the Commission by 30 April 1995 will be deemed to be existing aids within the
-meaning of Article III‑168(1) of the Constitution;
+meaning of Article 3‑168(1) of the Constitution;
 (b) existing aids and plans intended to grant or alter aids which were notified to the Commission
 prior to 1 January 1995 shall be deemed to have been notified on that date.
 Article 51
@@ -102,7 +102,7 @@ Sweden under the conditions laid down in that Annex.
 With regard to point IX.2.x of Annex XV referred to in the first paragraph, the reference to the
 provisions of the Treaty establishing the European Community, in particular to Articles 90 and 91
 thereof, must be understood as referring to the provisions of the Constitution, in particular to
-Article III‑170(1) and (2) thereof.
+Article 3‑170(1) and (2) thereof.
 SECTION 4
 Provisions on the applicability of certain acts
 Article 55
@@ -111,12 +111,12 @@ Article 55
 Article 1 of Protocol 25 to that Agreement, whether by the Surveillance Authority of the European
 Free Trade Association (EFTA) or the Commission, and which concern cases which fall under
 Article 81 of the Treaty establishing the European Community as a result of accession shall remain
-valid for the purposes of Article III‑161 of the Constitution until the time limit specified therein
+valid for the purposes of Article 3‑161 of the Constitution until the time limit specified therein
 expires or until the Commission adopts a duly motivated European decision to the contrary, in
 accordance with Union law.
 2. All decisions taken by the EFTA Surveillance Authority before 1 January 1995 pursuant to
 Article 61 of the EEA Agreement and which fall under Article 87 of the Treaty establishing the
-European Community as a result of accession shall remain valid with respect to Article III‑167 of the
+European Community as a result of accession shall remain valid with respect to Article 3‑167 of the
 Constitution unless the Commission adopts a European decision to the contrary pursuant to
 ( 1 )
 OJ C 241, 29.8.1994, p. 322.954393_TRAITE_EN_251_300
@@ -125,7 +125,7 @@ OJ C 241, 29.8.1994, p. 322.954393_TRAITE_EN_251_300
 Pagina 297
 Treaty establishing a Constitution for Europe
 297
-Article III‑168 of the Constitution. This paragraph shall not apply to decisions subject to the
+Article 3‑168 of the Constitution. This paragraph shall not apply to decisions subject to the
 proceedings provided for in Article 64 of the EEA Agreement.
 3. Without prejudice to paragraphs 1 and 2, the decisions taken by the EFTA Surveillance Authority
 remain valid after 1 January 1995 unless the Commission takes a duly motivated decision to the
@@ -229,7 +229,7 @@ Pagina 300
 300
 Part IV
 Article 66
-When establishing the guidelines provided for in Article III‑247 of the Constitution, the Union shall
+When establishing the guidelines provided for in Article 3‑247 of the Constitution, the Union shall
 ensure that the axes defined in Annex 1 ( 1 ) to Protocol 9 to the Act concerning the conditions of
 accession of the Republic of Austria, the Republic of Finland and the Kingdom of Sweden form part
 of the trans‑European networks for rail and combined transport and are furthermore identified as

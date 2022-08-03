@@ -1,15 +1,17 @@
-+++
-title=  "The Economic Development of England was Due to Guarantee of Liberty"
-# description=  the Propensity to Save
-date=  2020-01-01
-image=  "/covers/wn.jpg"
-linkbtext=  "Chapter 3b"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-3b"
-linkftext=  "Chapter 3d"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-3d"
-heading=  "Chapter 3c"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 3d"
+title: "England's Economic Development was Due to Guarantee of Liberty"
+linkTitle: "Chapter 3d"
+date: 2020-01-10
+image: "/covers/wn.jpg"
+description: "England's Economic Development was Due to Guarantee of Liberty"
+linkb: "/research/smith/wealth-of-nations/book-2/chapter-3c"
+linkbtext: "chapter-3c"
+linkf: "/research/smith/wealth-of-nations/book-2/chapter-3e"
+linkftext: "chapter-3e"
+author: Adam Smith
+icon: /icons/smith.png
+---
 
 
 {{< s v="33" >}} England's annual produce is greater now than a century ago at the restoration of Charles 2nd.

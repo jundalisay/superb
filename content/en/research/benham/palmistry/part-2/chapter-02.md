@@ -1,12 +1,15 @@
-+++
-title=  "Main, Minor, And Chance Lines"
-description=  ""
-image=  "/photos/objects/hand.jpg"
-linkb=  "/research/benham/palmistry/part-2/chapter-01"
-linkbtext=  "chapter-01"
-linkf=  "/research/benham/palmistry/part-2/chapter-03-defects"
-linkftext=  "chapter-03"
-+++
+---
+heading: "Chapter 2 Part 2 of The Laws of Scientific Palm Reading Simplified"
+title: "The Electric Current"
+description: "No two hands are exactly alike because no two people are exactly alike in character, temperament, or in any other way"
+date: 2020-01-17
+image: "/photos/objects/hand.jpg"
+linkb: "/research/benham/palmistry/part-2/chapter-01"
+linkbtext: "Chapter 1"
+linkf: "/research/benham/palmistry/part-2/chapter-02b"
+linkftext: "Chapter 2b"
+---
+
 
 <!-- If the hands of a thousand people are examined, in each one will be found a different combination of lines.
 

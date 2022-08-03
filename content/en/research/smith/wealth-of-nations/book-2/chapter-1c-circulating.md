@@ -1,15 +1,17 @@
-+++
-title=  "Circulating Capital"
-heading=  "Book 2, Chapter 1c"
-description=  "Money has wholesale and retail"
-date=  2020-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-1b-fixed"
-linkbtext=  "Chapter 1b"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2a-ndp"
-linkftext=  "Chapter 2a"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Book 2, Chapter 1c"
+title: "Circulating Capital"
+linkTitle: "Chapter 1c"
+date: 2020-01-29
+image: "/covers/wn.jpg"
+description: "Money has wholesale and retail"
+linkb: "/research/smith/wealth-of-nations/book-2/chapter-1b-fixed"
+linkbtext: "chapter 1b"
+linkf: "/research/smith/wealth-of-nations/book-2/chapter-2a-ndp"
+linkftext: "chapter 2a"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="18" >}} The third division is the circulating capital.
@@ -25,35 +27,38 @@ It only affords a revenue by circulating or changing masters. It has four parts=
 {{< s v="22" >}} 4. The finished products that are still with the merchant or manufacturer but not yet disposed of, or distributed to the proper consumers. 
 - Examples are the finished work in the shops of the smith, cabinet-maker, goldsmith, jeweller, china-merchant, etc.
 
-Therefore, the circulating capital consists of= 
+Therefore, the circulating capital consists of:
 - the food, materials, and finished work that are with their respective dealers, and
 - the money for circulating and distributing them to consumers.
 
-23 Of these four parts, the food, materials, and finished work, are regularly withdrawn and placed either= 
+
+{{< s v="23" >}} Of these 4 parts, the food, materials, and finished work, are regularly withdrawn and placed either:
 - in the fixed capital, or
 - in the stock reserved for immediate consumption.
 
-24 Every fixed capital is originally derived, and requires continual support, from a circulating capital.
+{{< s v="24" >}} Every fixed capital is originally derived, and requires continual support, from a circulating capital.
 
 All useful machines and instruments of trade are originally derived from a circulating capital.
-The circulating capital furnishes= 
+The circulating capital furnishes: 
 - the materials which the fixed capital are made from, and
 - the maintenance of the workers who make them.
 
 Fixed capital needs circulating capital to keep them in constant repair.
 
 
-25 Fixed capital can only yield a revenue through a circulating capital.
+{{< s v="25" >}} Fixed capital can only yield a revenue through a circulating capital.
 
 The most useful machines and tools will produce nothing without the circulating capital which provides raw materials and the maintenance of the workers who use them.
+
 Land, however improved, will yield no revenue without a circulating capital to maintain the labourers who work on them.
 
-26 The sole purpose of fixed and circulating capitals is to maintain and increase the stock for immediate consumption.
+{{< s v="26" >}} The sole purpose of fixed and circulating capitals is to maintain and increase the stock for immediate consumption.
 
 This stock feeds, clothes, and lodges the people.
 Their wealth depends on the stock reserved for immediate consumption from those two capitals.
 
-27 Circulating capitals need to be resupplied constantly because so much of it is continually being withdrawn= 
+
+{{< s v="27" >}} Circulating capitals need to be resupplied constantly because so much of it is continually being withdrawn= 
 - to be placed in the fixed capital, or
 - to be used for immediate consumption.
 
@@ -64,7 +69,8 @@ These replace the food, materials, and finished work continually withdrawn from 
 
 Metal money is maintained, increased, and drawn from mines. But it also needs to be resupplied because it can be wasted, worn out, lost, or sent abroad.
 
-28 Land, mines, and fisheries, all require a fixed and a circulating capital to cultivate them. Their produce replaces those capitals to society with a profit.
+
+{{< s v="28" >}} Land, mines, and fisheries, all require a fixed and a circulating capital to cultivate them. Their produce replaces those capitals to society with a profit.
 
 The farmer resupplies the manufacturer with the food which the manufacturer used.
 - The manufacturer resupplies the farmer with the finished work which the farmer wasted or worn out.
@@ -79,11 +85,12 @@ The land even resupplies some of the capitals used in cultivating fisheries and 
 - Fuel from the land helps extract minerals from under the land.
 
 
-29 When their natural fertility is equal, the produce of land, mines, and fisheries is proportional to the capitals employed on them.
+{{< s v="29" >}} When their natural fertility is equal, the produce of land, mines, and fisheries is proportional to the capitals employed on them.
 
 When equal capitals are employed, their produce is proportional to their natural fertility.
 
-30 In all countries where there is tolerable security, every man will try to use his stock in procuring present enjoyment or future profit.
+
+{{< s v="30" >}} In all countries where there is tolerable security, every man will try to use his stock in procuring present enjoyment or future profit.
 
 - If he uses it to get present enjoyment, it is called a stock reserved for immediate consumption.
 - If he uses it to get future profit, it must= 
@@ -95,7 +102,7 @@ When equal capitals are employed, their produce is proportional to their natural
 A man must be crazy to not employ all his stock, whether borrowed or not, in any of those three ways, if there is tolerable security.
 
 
-30 In some unfortunate countries, men are constantly afraid of the violence of their superiors, causing people bury most of their stock in times of disaster.
+{{< s v="31" >}} In some unfortunate countries, men are constantly afraid of the violence of their superiors, causing people bury most of their stock in times of disaster.
 - This is a common practice in Turkey, India, and most other Asian governments.
 - It was a common practice among our ancestors during the violence of the feudal government.
 

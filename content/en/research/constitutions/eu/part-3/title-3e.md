@@ -1,6 +1,6 @@
 SECTION 6: FISCAL PROVISIONS
 
-Article III-170
+Article 3-170
 1. No Member State shall impose, directly or indirectly, on the products of other Member States any
 internal taxation of any kind in excess of that imposed directly or indirectly on similar domestic
 products.
@@ -18,7 +18,7 @@ and countervailing charges in respect of imports from Member States may not be i
 provisions contemplated have been previously approved for a limited period by a European decision
 adopted by the Council on a proposal from the Commission.
 
-Article III-171
+Article 3-171
 A European law or framework law of the Council shall establish measures for the harmonisation of
 legislation concerning turnover taxes, excise duties and other forms of indirect taxation provided that
 such harmonisation is necessary to ensure the establishment and the functioning of the internal
@@ -27,9 +27,9 @@ the European Parliament and the Economic and Social Committee.
 
 SECTION 7: COMMON PROVISIONS
 
-Article III-172
+Article 3-172
 1. Save where otherwise provided in the Constitution, this Article shall apply for the achievement
-of the objectives set out in Article III-130. European laws or framework laws shall establish measures
+of the objectives set out in Article 3-130. European laws or framework laws shall establish measures
 for the approximation of the provisions laid down by law, regulation or administrative action in
 Member States which have as their object the establishment and functioning of the internal market. Such laws shall be adopted after consultation of the Economic and Social Committee.
 
@@ -41,7 +41,7 @@ taking account in particular of any new development based on scientific facts. W
 powers, the European Parliament and the Council shall also seek to achieve this objective.
 4. If, after the adoption of a harmonisation measure by means of a European law or framework law
 or by means of a European regulation of the Commission, a Member State deems it necessary to
-maintain national provisions on grounds of major needs referred to in Article III-154, or relating to
+maintain national provisions on grounds of major needs referred to in Article 3-154, or relating to
 the protection of the environment or the working environment, it shall notify the Commission of
 these provisions as well as the grounds for maintaining them.
 5. Moreover, without prejudice to paragraph 4, if, after the adoption of a harmonisation measure
@@ -72,17 +72,17 @@ European Union if it considers that another Member State is making improper use 
 provided for in this Article.
 10. The harmonisation measures referred to in this Article shall, in appropriate cases, include a
 safeguard clause authorising the Member States to take, for one or more of the non‑economic
-reasons referred to in Article III-154, provisional measures subject to a Union control procedure.
+reasons referred to in Article 3-154, provisional measures subject to a Union control procedure.
 
-Article III-173
+Article 3-173
 
-Without prejudice to Article III-172, a European framework law of the Council shall establish
+Without prejudice to Article 3-172, a European framework law of the Council shall establish
 measures for the approximation of such laws, regulations or administrative provisions of the
 Member States as directly affect the establishment or functioning of the internal market. The Council
 shall act unanimously after consulting the European Parliament and the Economic and Social
 Committee.
 
-Article III-174
+Article 3-174
 Where the Commission finds that a difference between the provisions laid down by law, regulation or
 administrative action in Member States is distorting the conditions of competition in the
 internal market and that the resultant distortion needs to be eliminated, it shall consult the
@@ -92,18 +92,18 @@ If such consultation does not result in agreement, European framework laws shall
 measures necessary to eliminate the distortion in question. Any other appropriate measures provided
 for in the Constitution may be adopted.
 
-Article III-175
+Article 3-175
 1. Where there is reason to fear that the adoption or amendment of a provision laid down by law,
 regulation or administrative action of a Member State may cause distortion within the meaning of
-Article III-174, a Member State desiring to proceed therewith shall consult the Commission. After
+Article 3-174, a Member State desiring to proceed therewith shall consult the Commission. After
 consulting the Member States, the Commission shall address to the Member States concerned a
 recommendation on such measures as may be appropriate to avoid the distortion in question.
 2. If a Member State desiring to introduce or amend its own provisions does not comply with
 the recommendation addressed to it by the Commission, other Member States shall not be required,
-pursuant to Article III-174, to amend their own provisions in order to eliminate such distortion. If the
+pursuant to Article 3-174, to amend their own provisions in order to eliminate such distortion. If the
 Member State which has ignored the recommendation of the Commission causes distortion
-detrimental only to itself, Article III-174 shall not apply.
-Article III-176
+detrimental only to itself, Article 3-174 shall not apply.
+Article 3-176
 In the context of the establishment and functioning of the internal market, European laws or
 framework laws shall establish measures for the creation of European intellectual property rights to
 provide uniform intellectual property rights protection throughout the Union and for the setting up

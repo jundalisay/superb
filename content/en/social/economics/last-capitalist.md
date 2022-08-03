@@ -19,26 +19,38 @@ aliases:
 
 In a [previous post](/social/supersociology/precrisis-years), we mentioned that our model designated 2019 as the start of the crisis years which will be a general economic downturn culminating as a global stagflation. 
 
-This period will be a time for mentality change specifically with thecapitalist system which is really just the perfection of the old mercantile system. Capitalism 'arbitrages' equity while mercantilism 'arbitrages' commodities.
+This period will lead to a change in mentality, specifically with the capitalist system, which is really just the old mercantile system in a perfected form. The main difference is that [Capitalism 'arbitrages' equity while mercantilism 'arbitrages' commodities](/social/economics/capitalism).
+
 
 ## First, Some History..
 
-The mercantile system was created when paper money and paper instruments were invented by the Dutch in the 17th century, who got the idea from the Jews.
+The mercantile system was created when paper money and paper instruments were invented by the Dutch in the 17th century. The Dutch got the idea from the moneylending Jews.
 
 ![Dutch mercantilism](https://sorasystem.sirv.com/graphics/dutch.jpg) 
 
 
-According to Montesquieu, it began when the French kings drove the Jews out of France but kept Jewish wealth inside France in the 14th century, notably in 1394. So, the Jews moved to Milan and invented cheques(letters of exchange) which they gave to foreign businessmen which let those businessmen claim (or ‘encash’) the Jews’ wealth stuck in France to get around French laws and continue their own business. 
+According to Montesquieu, it began in the 14th century, notably in 1394 when the French kings drove the Jews out of France but kept the wealth of the Jews inside of France.
+- The Jews moved to Milan and invented cheques (letters of exchange) which they gave to foreign businessmen
+- Those businessmen then claimed (or ‘encashed’) that Jewish wealth stuck in France in order to get around French laws and continue their own business.
 
 Milan is close to Venice which traded with Asia through Constantinople.
 
-When Constantinople fell in 1453 to the Muslims, the Venetians (and the Jews) moved to Spain and Portugal which were looking for an ocean route to Asia. The Jews were then expelled from Spain and Portugal notably in 1497 and 1540. Some moved to Amsterdam which seemed to be the only major European country that allowed Jews (probably in the same way that nowadays they allow drugs and prostitution which are banned in other European countries).
+When Constantinople fell in 1453 to the Muslims, the Venetians (and the Jews) moved to Spain and Portugal which were looking for an ocean route to Asia. 
+- The Jews were then expelled from Spain and Portugal notably in 1497 and 1540. 
 
-From there, they spread their financial paper inventions, which probably influenced the first stock certificates issued by the Dutch East India Company which created the first commercial corporation in 1602 (In contrast, the British East India company started as a private regulated company).
+Some moved to Amsterdam which seemed to be the only major European country that allowed Jews (probably in the same way that nowadays they allow drugs and prostitution which are banned in other European countries).
+- From Amsterdam, they spread their financial paper inventions.
+- Such inventions probably influenced the first stock certificates issued by the Dutch East India Company which created the first commercial corporation in 1602 (In contrast, the British East India company started as a private regulated company).
 
-Those value-carrying papers now manifest as the fiat dollars of the United States and term sheets and stock certificates of corporations. Capitalists then and now use these papers to control the work of people to execute their grand plans. 
+Those value-carrying papers now manifest as:
+- the fiat dollars of the United States and
+- the term sheets and stock certificates of corporations
 
-In the 17th century, those grand plans were the monopoly of the commodities trade and grabbing land from natives, called colonialism. In the 21st century, it manifests as:
+Capitalists then and now use these papers to control the work of people to execute their grand plans. 
+
+In the 17th century, those grand plans were the monopoly of the commodities trade and grabbing land from natives, called colonialism. 
+
+In the 21st century, it manifests as:
 - the ownership of too-big-to-fail global companies which monopolize the buying and selling of goods and services
 - the privatization of utilities, which force people to pay more for electricity, water, and telecoms while giving a guaranteed profits to investors
 
@@ -47,17 +59,24 @@ In the 17th century, those grand plans were the monopoly of the commodities trad
 
 Masayoshi Son is Japan's richest man and is the founder of the venture capital Vision Fund. 
 
-His fund tries to outdo all other venture capitalists by buying tech companies that can go global and disrupt all the other companies. To do this, he got money from very rich people and used it to buy disruptive companies such as Grab, Uber, WeWork, Flipkart, and NVIDIA.
+His fund tries to outdo all other venture capitalists by buying tech companies that can go global and disrupt all the other companies. To do this, he got money from very rich people, such as the King of Saudi Arabia, and used it to buy disruptive companies such as Grab, Uber, WeWork, Flipkart, and NVIDIA.
 
 ![The Last Capitalist](https://sorasystem.sirv.com/lastcapitalist.jpg)
 
-The whole idea is for those companies to disrupt the old industry leaders and then become corporate monopolies, all through their tech advantage. 
+The whole idea is for those companies to disrupt the old industry-leaders and then become corporate monopolies, all through their tech advantage.
 
 The liquid-money invested in them will then solidify into an asset-treasure as stock prices which will then be cemented by an IPO (initial public offering). That's why the ultimate goal is for those investees to have an IPO. 
 
 This whole notion is ego-based, because it presupposes that a single supplier can address the needs of all humans. It also has some fakeness to it -- the stock price of those investees can be propped up by public relations and marketing. 
 
-These are the same notions that mercantile companies had. The British East India company, for example, created the first too-big-to-fail company to monopolize international trade. 
+These are the same notions that mercantile companies had. The British East India company, for example, created the first too-big-to-fail company to monopolize international trade*.
+
+
+
+{{< me date="August 1, 2022" >}}
+This manifests as Saudi Arabia doing an IPO for Aramco which then profits from the high oil prices from the Ukraine war, making its interest to prolong the war and suffering as it cannibalizes value from the global economy for itself, just as colonial merchants squeezed their colonies in order to gain profits for the colonizing country. 
+{{< /me >}}
+
 
 In addition, such an idea is ignorant of the fact that wealth is based on total human productivity which is limited by nature. Each human:
 - only has 24 hours in a day

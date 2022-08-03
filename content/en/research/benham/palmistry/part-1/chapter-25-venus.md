@@ -1,17 +1,20 @@
-+++
-title=  "The Mount Of Venus"
-heading=  "Chapter 25"
-description=  "The 7th Mount type is the Venusian located by the Mount of Venus at the base of the thumb"
-image=  "/photos/objects/hand.jpg"
-linkb=  "/research/benham/palmistry/part-1/chapter-24-luna"
-linkbtext=  "Chapter 24"
-linkf=  "/research/benham/palmistry/part-1/chapter-26-apollo"
-linkftext=  "Chapter 26"
-+++
+---
+heading: "Chapter 25 Part 1 of The Laws of Scientific Palm Reading Simplified"
+title: "The Mount Of Venus"
+description: "His realm is the world of imagination. He keeps humanity from becoming too material, and enables us to see with the mind's eye"
+date: 2020-01-18
+image: "/photos/objects/hand.jpg"
+linkb: "/research/benham/palmistry/part-1/chapter-24-luna"
+linkbtext: "Chapter 23"
+linkf: "/research/benham/palmistry/part-2/chapter-01"
+linkftext: "Chapter 1"
+---
 
-The seventh type is the Venusian located by the Mount of Venus at the base of the thumb.
 
-This is strengthened by the= 
+
+The Venusian is idenfified by the Mount of Venus at the base of the thumb.
+
+This is strengthened by the: 
 - triangle
 - circle
 - square, or
@@ -21,7 +24,9 @@ The cross, grille, island or dot show defects of the Mount (127).
 
 This Mount rises into the palm, has the largest prominence shown by any of the Mounts, and by its size and markings you must estimate the amount and kind of Venusian qualities possessed by the subject. 
 
-If the Mount is very prominent, highly colored, and deeply grilled with long lines, it is an excessive development, and the Venusian characteristics will be strong in the subject (128). If it is not out of proportion with the rest of the hand, it is a normal Mount, and Venusian characteristics will be present in normal degree. If there is an absence of any development and the Mount has a flat and flabby appearance (129), it is a deficient Mount, and the Venusian qualities are entirely lacking. 
+If the Mount is very prominent, highly colored, and deeply grilled with long lines, it is an excessive development, and the Venusian characteristics will be strong in the subject (128). 
+
+If it is not out of proportion with the rest of the hand, it is a normal Mount, and Venusian characteristics will be present in normal degree. If there is an absence of any development and the Mount has a flat and flabby appearance (129), it is a deficient Mount, and the Venusian qualities are entirely lacking. 
 
 Between these extremes are many degrees of development. The Venusian type is a pleasant one to meet, healthy, happy, joyous, and though it descends the scale of morality at times, it is always agreeable and attractive. It is a type which must be carefully handled, for to estimate it incorrectly is a serious matter. 
 
@@ -47,18 +52,36 @@ If the Mount is full and grilled in a woman's hand, she will be most strongly at
 
 Often a Mount will be seen which is full of grilled lines, and the Mount shows, by the loose skin, that it has been very full. The Mount has the appearance of a sucked orange in its flabbiness, and tells of one who has had strong Venusian desires, which have been indulged freely until vitality is gone and the subject is worn out. It is a pity that human depravity should make it necessary to write of the Mount of Venus anything but the beautiful qualities that properly belong to the Venusian. These same sexual desires that we find debased by the profligate and the libertine were put into human beings so that they might be attracted by each other, and by this constant attraction the marriage state perpetuaed and the human family increased through the continued birth of children. 
 
-Distinguishing marks on the mount of venus No. 127, Distinguishing marks on the mount of venus. LARGE MOUNT OF VENUS No. 128. LARGE MOUNT OF VENUS. FLAT MOUNT OF VENUS NO, 129. FLAT MOUNT OF VENUS. GRILLED MOUNT OF VENUS No. 130. GRILLED MOUNT OF VENUS. The Mount Of Venus. 
+<!-- Distinguishing marks on the mount of venus No. 127, Distinguishing marks on the mount of venus. LARGE MOUNT OF VENUS No. 128. LARGE MOUNT OF VENUS. FLAT MOUNT OF VENUS NO, 129. FLAT MOUNT OF VENUS. GRILLED MOUNT OF VENUS No. 130. GRILLED MOUNT OF VENUS. The Mount Of Venus.  -->
 
 
 ## Part 2 
 
-The attraction to marriage was necessary in order that the pain of child-bearing might not prevent reproduction, and Venusian qualities of love and attraction were intended only for high purposes. 
+The attraction to marriage was necessary in order that the pain of child-bearing might not prevent reproduction. 
 
-That the depravity of man has abused these faculties we all know, and this knowledge may grieve us, but as palmists we are bound to study humanity as we find it, and not as we might wish it. So with the Venusian type we stand in the presence of one of God's greatest creations, which we must examine to see if the functions are being used for the proper purposes, or debased to feed the flames of sensuality. The Venusian type, then, stands for love, sympathy, tenderness, generosity, beauty, melody in music, gayety, joy, health, and passion, an array of forces which place it on the pinnacle of attractiveness, and render it liable to many temptations and dangers. 
+Venusian qualities of love and attraction were intended only for high purposes. 
 
-In appearance the Venusian is attractive and beautiful. He is graceful, shapely, well balanced and easy in his manner, presenting more a type of feminine beauty than masculine. The Apollonian and Jupiterian are types of manly beauty, the male Venusian partakes of the soft voluptuousness of female beauty. These subjects are of medium height, and present graceful curves of form from head to foot. The skin is white, fine in texture, soft and velvety to the touch, transparent in its fineness, through which a delicate pink color glows, showing normal health and blood supply. The face is round or oval in shape, is finely proportioned, with no high cheek bones, thin cheeks, prominent temples, or square jaws to make it angular or mar its beauty. 
+The depravity of man has abused these faculties. <!--  we all know, and this knowledge may grieve us, but  -->
 
-The cheeks are well rounded, and often show dimples when the face breaks into a smile. The forehead is high, well proportioned, gracefully rounding in front, perfect in contour. The skin on the forehead is tightly drawn, and does not wrinkle, nor do crows'-feet appear at the corners of the eyes in young subjects. These come later in life and after Venusian fires have fiercely burned, There is a Venusian mark on the forehead which is seen in young Venusians which con-sists of three vertical wrinkles over the bridge of the nose between the eyes. The hair is and wavy. The Venusian. when so found it is from some unnatural cause. The eyebrows are well marked, abundant, and form graceful curves on the forehead, well pointed at the ends, sharply outlined, and seldom growing over the nose; when they do, it indicates a tendency toward coarsening the type. 
+As palmists we are bound to study humanity as we find it, and not as we might wish it. 
+
+So with the Venusian type we stand in the presence of one of God's greatest creations, which we must examine to see if the functions are being used for the proper purposes, or debased to feed the flames of sensuality. 
+
+The Venusian type stands for love, sympathy, tenderness, generosity, beauty, melody in music, gayety, joy, health, and passion. These:
+- put it on the pinnacle of attractiveness, and
+- render it liable to many temptations and dangers. 
+
+In appearance, the Venusian is attractive and beautiful. 
+
+He is graceful, shapely, well balanced and easy in his manner, presenting more a type of feminine beauty than masculine. 
+
+The Apollonian and Jupiterian are types of manly beauty, the male Venusian partakes of the soft voluptuousness of female beauty. These subjects are of medium height, and present graceful curves of form from head to foot. 
+
+The skin is white, fine in texture, soft and velvety to the touch, transparent in its fineness, through which a delicate pink color glows, showing normal health and blood supply. The face is round or oval in shape, is finely proportioned, with no high cheek bones, thin cheeks, prominent temples, or square jaws to make it angular or mar its beauty. 
+
+The cheeks are well rounded, and often show dimples when the face breaks into a smile. The forehead is high, well proportioned, gracefully rounding in front, perfect in contour. The skin on the forehead is tightly drawn, and does not wrinkle, nor do crows'-feet appear at the corners of the eyes in young subjects. These come later in life and after Venusian fires have fiercely burned, There is a Venusian mark on the forehead which is seen in young Venusians which con-sists of three vertical wrinkles over the bridge of the nose between the eyes. The hair is and wavy.
+
+The Venusian. when so found it is from some unnatural cause. The eyebrows are well marked, abundant, and form graceful curves on the forehead, well pointed at the ends, sharply outlined, and seldom growing over the nose; when they do, it indicates a tendency toward coarsening the type. 
 
 The eyes are round or almond-shaped, brown or dark blue in color, and have a tender expression of human sympathy. When the passions are aroused they have a voluptuous expression which it is impossible to mistake. The Venusian is a fine subject - in his whole physical make-up this fineness of texture shows constantly; his eyelids are smooth in quality, with delicately traced blue veins showing through, and with long silky lashes curling upward on the ends. The nose is shapely, full sized, but with fine curves. The nostrils are broad, and show varying moods by their rapid contraction or expansion when the subject is excited. 
 

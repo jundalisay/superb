@@ -28,25 +28,25 @@ objective, it shall support the general economic policies in the Union in order 
 achievement of the latter's objectives as laid down in Article I‑3 of the Constitution. The European
 System of Central Banks shall act in accordance with the principle of an open market economy with
 free competition, favouring an efficient allocation of resources, and in compliance with the principles
-set out in Article III-177 of the Constitution.
+set out in Article 3-177 of the Constitution.
 
 Article 3 Tasks
-1. In accordance with Article III-185(2) of the Constitution, the basic tasks to be carried out
+1. In accordance with Article 3-185(2) of the Constitution, the basic tasks to be carried out
 through the European System of Central Banks shall be:
 (a) to define and implement the Union's monetary policy;
-(b) to conduct foreign-exchange operations consistent with Article III-326 of the Constitution;
+(b) to conduct foreign-exchange operations consistent with Article 3-326 of the Constitution;
 (c) to hold and manage the official foreign reserves of the Member States;
 (d) to promote the smooth operation of payment systems.
-2. In accordance with Article III-185(3) of the Constitution, paragraph 1(c) of this Article shall be
+2. In accordance with Article 3-185(3) of the Constitution, paragraph 1(c) of this Article shall be
 without prejudice to the holding and management by the governments of Member States of
 foreign‑exchange working balances.
-3. In accordance with Article III-185(5) of the Constitution, the European System of Central Banks
+3. In accordance with Article 3-185(5) of the Constitution, the European System of Central Banks
 shall contribute to the smooth conduct of policies pursued by the competent authorities relating to
 the prudential supervision of credit institutions and the stability of the financial system.
 
 Article 4
 Advisory functions
-In accordance with Article III-185(4) of the Constitution, the European Central Bank shall be
+In accordance with Article 3-185(4) of the Constitution, the European Central Bank shall be
 consulted:
 (a) on any proposed Union act in areas within its powers;
 (b) by national authorities regarding any draft legislative provision in its fields of competence, but
@@ -76,5 +76,5 @@ shall be represented.
 2. The European Central Bank and, subject to its approval, the national central banks may
 participate in international monetary institutions.
 3.
-Paragraphs 1 and 2 shall be without prejudice to Article III-196 of the Constitution.
+Paragraphs 1 and 2 shall be without prejudice to Article 3-196 of the Constitution.
 

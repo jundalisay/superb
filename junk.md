@@ -1,6 +1,15 @@
+matrix : domains, feelings
+idea : positive negative
+feelings: critical feelings over critical intellect
+mind: 2 minds, living non living, dharma, movement, One
+god: Supreme morality
+consciousness: Desire
+
+
 jiva = self | identity
 atman = consciousness = experiencer
 mind = experiencer + self + aethereal mindstuff
+
 
         <div class="columns is-mobile is-multiline my-5">  
           {{ range .Params.tricon1 }}

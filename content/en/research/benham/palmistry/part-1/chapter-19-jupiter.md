@@ -1,30 +1,57 @@
-+++
-title=  "The Mount Of Jupiter"
-heading=  "Chapter 19"
-image=  "/photos/objects/hand.jpg"
-description=  "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
-linkb=  "/research/benham/palmistry/part-1/chapter-02"
-linkbtext=  "Chapter 2"
-linkf=  "/research/benham/palmistry/part-1/chapter-20-saturn"
-linkftext=  "Chapter 20"
-+++
+---
+heading: "Chapter 19 Part 1 of The Laws of Scientific Palm Reading Simplified"
+title: "The Mount Of Jupiter"
+description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
+date: 2020-01-18
+image: "/photos/objects/hand.jpg"
+linkb: "/research/benham/palmistry/part-1/chapter-02"
+linkbtext: "Chapter 2"
+linkf: "/research/benham/palmistry/part-1/chapter-20-saturn"
+linkftext: "Chapter 20"
+---
 
-As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount.
 
-As single signs, or in combination with each other, the grille, cross-bars, cross, island, or dot indicate defects of the Mount either of health or of character, the main lines, chance lines, color, etc., will determine which.
 
-There are a few variations of this rule as applied to some of the Mounts. At the beginning of each chapter on the Mount types will be found an illustration, giving the indications as applied to it. Note these carefully for variations.
+The following strengthen a Mount or line as single signs, or in combination with each other:
+- star
+- triangle
+- circle
+- square
+- single vertical line
+- trident
 
-Entering now upon the consideration of the seven types of humanity, we find the first type is the Jupiterian, identified by a developed Mount and finger of Jupiter.
 
-In a previous chapter I have told how to judge Mounts, in order to determine which one is the strongest, as well as how to proceed when several Mounts seem equally well developed. To understand this is, of course, essential to proficiency.
+The following indicate defects:
+- grille
+- cross-bars
+- cross
+- island
+- dot
+
+
+There are a few variations of this rule as applied to some of the Mounts. 
+
+<!-- At the beginning of each chapter on the Mount types will be found an illustration, giving the indications as applied to it. Note these carefully for variations. -->
+
+The Jupiterian is identified by a developed Mount and finger of Jupiter.
+
+<!-- In a previous chapter I have told how to judge Mounts, in order to determine which one is the strongest, as well as how to proceed when several Mounts seem equally well developed. To understand this is, of course, essential to proficiency. -->
+
 The Jupiterian is ambitious and a leader of men. His commanding presence and the love he has for high positions make him often a politician.
 
 He is found also in the army, for here again is the opportunity to hold commanding position and to lead men.
 In the church he is prominent as well. Religion is one of the strong attributes of Jupiterians, and they will be found holding all shades of opinion, from the most rigidly orthodox to a breadth dangerously near skepticism.
 The tip of the Jupiter finger will indicate which extreme. Ambition, love of command, pride in position, religion, honor, love of nature, are main forces with the Jupiterian, and these mould his manners and actions in every walk in life. There are many Jupherians to be found, and in practice you will have much to do with them. They represent a good type and a strong one.
 
-DISTINGUISHING MARKS ON THE MOUNT OF JUPITER No. 93. DISTINGUISHING MARKS ON THE MOUNT OF JUPITER. When the Mount of Jupiter is found full and strong, apex centrally located, finger long and strong, with color of hand pink or red (94), you have located a Jupiterian. In this generation you will not often find a pure specimen of the type; there is generally an accompanying mixture of other types; but the one I here describe is a pure Jupiterian, the leading qualities of the type being always found present where the large Mount of Jupiter is found, although when other Mounts are also well developed it is accompanied by added qualities belonging to other types. The pure Jupiterian is of medium height. He is not the tallest of the seven types; that distinction belongs to the Saturnian; neither is he the shortest, for this honor belongs to the Mercurian. He is, however, a large man, very strongly built and inclined to be fleshy. His flesh is solid and not mere fat, nor does it partake of the spongy softness of the Lunar type. His bones are large, strong, and well able to support his weight. He has a smooth, clear skin, which inclines to be fine in texture, pink in color, and healthy looking. His eyes are large and expressive, pupils are clear and dilate under the play of the emotions. There is no fierce look in his eyes, - the expression is mild and almost melting, bespeaking honesty and a kindly spirit. JUPITERIAN HAND No. 94. JUPITERIAN HAND. The upper lids of the eyes are thick, looking as if somewhat swollen, and the lashes are long and curl up gracefully at the ends. The eyebrows are arched and the hairs grow evenly, giving the brows a clearly defined outline. 
+<!-- DISTINGUISHING MARKS ON THE MOUNT OF JUPITER No. 93. DISTINGUISHING MARKS ON THE MOUNT OF JUPITER.  -->
+
+When the Mount of Jupiter is found full and strong, apex centrally located, finger long and strong, with color of hand pink or red (94), you have located a Jupiterian. In this generation you will not often find a pure specimen of the type; there is generally an accompanying mixture of other types; but the one I here describe is a pure Jupiterian, the leading qualities of the type being always found present where the large Mount of Jupiter is found, although when other Mounts are also well developed it is accompanied by added qualities belonging to other types. 
+
+The pure Jupiterian is of medium height. He is not the tallest of the seven types; that distinction belongs to the Saturnian; neither is he the shortest, for this honor belongs to the Mercurian. He is, however, a large man, very strongly built and inclined to be fleshy. His flesh is solid and not mere fat, nor does it partake of the spongy softness of the Lunar type. His bones are large, strong, and well able to support his weight. He has a smooth, clear skin, which inclines to be fine in texture, pink in color, and healthy looking. His eyes are large and expressive, pupils are clear and dilate under the play of the emotions. There is no fierce look in his eyes, - the expression is mild and almost melting, bespeaking honesty and a kindly spirit. 
+
+<!-- JUPITERIAN HAND No. 94. JUPITERIAN HAND. --> 
+
+The upper lids of the eyes are thick, looking as if somewhat swollen, and the lashes are long and curl up gracefully at the ends. The eyebrows are arched and the hairs grow evenly, giving the brows a clearly defined outline. 
 
 The nose is straight and well formed, tending to be large in size, and often Roman in shape. The mouth is large, the lips full and red, and owing to the position of the teeth the upper lip is slightly prominent. The teeth are strong and white, but grow long and narrow, the two front teeth being longer than is usual. The cheeks are well rounded, so the cheek bones are not to be seen. The chin is long and firm, with a dimple at the point. The ears are well formed, regular, and set close to the head, which rests on a well-shaped, thick neck of medium length and strong looking. The back and shoulders are fleshy and squarely set. The legs and feet are shapely and of medium size, but strong and firm. The walk is stately and dignified. The hair is brown or running into chestnut; in women of the type, grows long, is abundant and fine in quality, inclining to be curly. The Jupiterian perspires freely, especially on top of the head, from ordinary exertion. This often leads to baldness early in life. As he is of a vigorous constitution he has considerable hair on his body, which, you remember, is a sign of strength. 
 

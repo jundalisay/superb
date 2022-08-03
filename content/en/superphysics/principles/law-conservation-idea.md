@@ -6,7 +6,7 @@ image: "/photos/social/monkey.jpg"
 description: "Why you only have 1 idea at a time"
 linkb: /superphysics/principles/idea
 linkbtext: "Everything-is-an-idea"
-linkf: /superphysics/principls/consciousness
+linkf: /superphysics/principles/consciousness
 linkftext: "consciousness"
 author: Juan
 icon: /icons/sp.png

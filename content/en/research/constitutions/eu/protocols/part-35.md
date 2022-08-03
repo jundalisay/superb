@@ -94,9 +94,9 @@ Article 7
 references to Articles 141 and 142 shall be replaced by references to Articles III-360 and III-361
 respectively of the Constitution.
 2. In Article 171(2) and Article 176(3) of the EAEC Treaty the references to Article 183 shall be
-replaced by references to Article III-412 of the Constitution.
+replaced by references to Article 3-412 of the Constitution.
 3. In Article 172(4) of the EAEC Treaty the reference to Article 177(5) shall be replaced by a
-reference to Article III-404 of the Constitution.
+reference to Article 3-404 of the Constitution.
 4. In Articles 38, 82, 96 and 98 of the EAEC Treaty the term ‘directive’ shall be replaced by the
 term ‘European regulation’.
 5. In the EAEC Treaty the term ‘decision’ shall be replaced by ‘European decision’ save in

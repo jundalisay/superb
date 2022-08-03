@@ -1,3 +1,19 @@
+---
+title: "How the National Clearing Fund Works"
+heading: "National Clearing Fund"
+date: 2021-08-01
+image: /photos/objects/ship.jpg
+description: "The National Clearing Fund resolves trade ibalances"
+linkb: /research/schumacher/pool-clearing/part-2
+linkbtext: Part 2
+linkf: /research/schumacher/pool-clearing/part-4
+linkftext: "Part 4"
+youtube: "H0tUf35JB44"
+author: EF Schumacher
+icon: /avatars/ef.png
+---
+
+
 The maximisation of economic benefits from world trade can be facilitated, but not automatically assured, by any purely technical system, whether bilaterl or multilateral.
 
 How would Pool Clearing increase such benefits? <!-- affect those more fundamental real factors? -->
@@ -34,9 +50,11 @@ After that amount has been reached, exporters would only be paid after the impor
 2. Each country might be given a maximum limit for its Clearing Fund [Demand-side]
 
 <!-- This approaches the problem from the angle of the recipient of the overdraft -->
-After that limit is reached, the Clearing Fund of the importing country <!-- of the world would no longer --> stops processing transactions from the overdrawn Clearing Fund of the exporting country. That overdrawn fund <!--  -- they --> would refuse to<!--  make --> further pay their own exporters.<!--  for goods delivered to that country -->
+After that limit is reached, the Clearing Fund of the importing country <!-- of the world would no longer --> stops processing transactions from the overdrawn Clearing Fund of the exporting country. That overdrawn fund <!--  -- they --> would refuse to<!--  make --> further pay their own exporters*.<!--  for goods delivered to that country -->
 
-These two methods stop (or ration) deliveries to the overdrawn country. But their effect on the rest of the world is different. 
+
+
+These 2 methods stop (or ration) deliveries to the overdrawn country. But their effect on the rest of the world is different. 
 
 Let us assume that 6 countries agree to have 5 of them to have a joint overdraft not exceeding 10x.
 - If all countries, except one, have a trade surplus, the remaining one can go on accumulating deficits up to 50X, which may be grossly excessive.

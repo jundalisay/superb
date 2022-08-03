@@ -1,17 +1,17 @@
-+++
-title= "Questions 1 to 3"
-heading= "Book 3 Part 2 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "Should the sciences investigate all the kinds of causes? "
-linkb= "/research/aristotle/metaphysics/book-3/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-3/part-2b"
-linkftext= "Part 2b"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 2 of Book 3 of Metaphysics by Aristotle Simplified"
+title: "Questions 1 to 3"
+date: 2020-09-01
+image: "/covers/meta.jpg"
+description: "Should the sciences investigate all the kinds of causes?"
+linkb: /research/aristotle/metaphysics/book-3/part-1
+linkbtext: "Part 1"
+linkf: /research/aristotle/metaphysics/book-3/part-2b
+linkftext: "Part 2b"
+icon: "/icons/aris.jpg"
+---
+
+
 
 > 1. Should the sciences investigate all the kinds of causes? 
 
@@ -27,9 +27,13 @@ This is why some of the Sophists like Aristippus used to ridicule mathematics. H
 
 But if there are several sciences of the causes, and a different science for each different principle, which of these sciences should be said to be that which we seek, or which of the people who possess them has the most scientific knowledge of the object in question? 
 
-The same thing may have all the kinds of causes, e.g. the moving cause of a house is the art or the builder, the final cause is the function it fulfils, the matter is earth and stones, and the form is the definition. To judge from our previous discussion of the question which of the sciences should be called Wisdom, there is reason for applying the name to each of them. For inasmuch as it is most architectonic and authoritative and the other sciences, like slavewomen, may not even contradict it, the science of the end and of the good is of the nature of Wisdom (for the other things are for the sake of the end). 
+The same thing may have all the kinds of causes, e.g. the moving cause of a house is the art or the builder, the final cause is the function it fulfils, the matter is earth and stones, and the form is the definition. 
 
-But inasmuch as it was described' as dealing with the first causes and that which is in the highest sense object of knowledge, the science of substance must be of the nature of Wisdom. For since men may know the same thing in many ways, we say that he who recognizes what a thing is by its being so and so knows more fully than he who recognizes it by its not being so and so, and in the former class itself one knows more fully than another, and he knows most fully who knows what a thing is, not he who knows its quantity or quality or what it can by nature do or have done to it.
+To judge from our previous discussion of the question which of the sciences should be called Wisdom, there is reason for applying the name to each of them. For inasmuch as it is most architectonic and authoritative and the other sciences, like slavewomen, may not even contradict it, the science of the end and of the good is of the nature of Wisdom (for the other things are for the sake of the end). 
+
+But inasmuch as it was described' as dealing with the first causes and that which is in the highest sense object of knowledge, the science of substance must be of the nature of Wisdom. 
+
+For since men may know the same thing in many ways, we say that he who recognizes what a thing is by its being so and so knows more fully than he who recognizes it by its not being so and so, and in the former class itself one knows more fully than another, and he knows most fully who knows what a thing is, not he who knows its quantity or quality or what it can by nature do or have done to it.
 
 In all cases, we think that the knowledge of each even of the things of which demonstration is possible is present only when we know what the thing is, e.g. what squaring a rectangle is, viz. that it is the finding of a mean; and similarly in all other cases. And we know about becomings and actions and about every change when we know the source of the movement. 
 

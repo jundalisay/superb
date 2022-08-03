@@ -18,7 +18,7 @@ referred to as the ‘Treaty of Establishment’).
 Article 44
 
 Articles III‑225 to III‑232 of the Constitution, together with the provisions adopted on that basis,
-and the provisions adopted in accordance with Article III‑278(4)(b) of the Constitution shall apply to
+and the provisions adopted in accordance with Article 3‑278(4)(b) of the Constitution shall apply to
 the Sovereign Base Areas.
 Article 45
 

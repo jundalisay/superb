@@ -1,7 +1,7 @@
 
 +++
 title=  "Central Banks - The Bank of England"
-date=  2020-01-01
+date=  2020-01-18
 # heading=  The Simplified Wealth of Nations by Adam Smith Book 2, Chapter 1a
 image=  "/covers/wn.jpg"
 description=  "The Bank of England"

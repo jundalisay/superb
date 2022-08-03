@@ -7,7 +7,7 @@ Europe: -->
 
 Sole article
 
-The provisions on the measures on the crossing of external borders included in Article III‑265(2)(b)
+The provisions on the measures on the crossing of external borders included in Article 3‑265(2)(b)
 of the Constitution shall be without prejudice to the competence of Member States to negotiate or
 conclude agreements with third countries as long as they respect Union law and other relevant
 international agreements.

@@ -13,7 +13,7 @@ icon: /icons/sp.png
 ---
 
 
-In the [previous post](/superphysics/principles/god), we explained that there are only two things in Existence:
+In the [previous post](/superphysics/principles/god), we explained that there are only 2 things in Existence:
 
 1. Experience
 2. Experiencer
@@ -23,10 +23,13 @@ Experience is Latin for `ex` (outwards) `+ periri` (try or undergo). We split it
 1. Ideas
 2. Feelings
 
-Feelings then have 2 categories:
+Feelings are powered by 2 Forces:
 
-1. The impersonal part of Existence as the Matrix (or Brahma, Tao, Sunya, the Whole)
-2. The personal part of Existence as the Supreme Entity (or God, Allah, Yahweh, Kali, Ganesh, etc. which are really created by the positive feelings of the experiencer) 
+1. The Positive Force which focuses on unity, peace, precision, subtleness, and knowledge
+2. The Negative Force which focuses on separation, activity, raw power, crudity, and creation
+
+<!-- 1. The impersonal part of Existence as the Matrix (or Brahma, Tao, Sunya, the Whole)
+2. The personal part of Existence as the Supreme Entity (or God, Allah, Yahweh, Kali, Ganesh, etc. which are really created by the positive feelings of the experiencer)  -->
 
 The Experiencer has 2 parts:
 
@@ -99,6 +102,9 @@ This removes any mystical connotation on what consciousness or the perceiver is.
 
 
 <!-- This means that consciousness is the effect of existence and cannot possibly exist without the idea of existence. -->
+
+
+## Desire Causes Existence
 
 Since consciousness, perception, and existence go hand in hand, does this mean that consciousness is the cause of existence? 
 
@@ -196,8 +202,6 @@ This flip is the same as a rescuer securing himself before securing others. The 
 ![](https://sorasystem.sirv.com/graphics/childmask.jpg) -->
 
 
-## Putting it all together 
-
 <!-- We have so far dissected the Experiencer into three:
 
 1. Desire
@@ -209,7 +213,6 @@ Desire activates or 'turns on' consciousness or the perceiver which then activat
 <!-- Nirguna Brahma --> 
 
 The Absolute Entity (as Pre-existence) wanted to exist and so It became <!-- Saguna Brahma --> the Supreme Entity (Existence). Why It wanted to exist is outside the scope of Superphysics and falls within metaphysics or religion (dogmatic metaphysics). 
-
 
 The perceiver or consciousness thus has only one task: to experience existence.  
 
@@ -253,10 +256,32 @@ Mind would be a lot more difficult to define because it also requires a deep kno
 Superphysics is a bit different in that it views everything as an idea of the Supreme Entity and our existence being inside Its mind. Thus, the proper question is:
 
 
-## Why is the Supreme Entity thinking of me?
+### Why is the Supreme Entity thinking of me?
 
 Unlike the question "Why do I exist?" which enshrines the ego, this question puts the ego secondary or below that of the Supreme Entity. This will put the ego's desire in line with desire the Creator of Existence. This, in turn, will increase the chances of achieving whatever that existential goal or plan may be.
 
 In our earlier analogy, this prevents 'undercooking' or 'overcooking' of goals. The desire of the Supreme will guide the human desire in real-time in order to get the goal achieved just right. 
 
 Getting it just right requires a specific sequence or flow of steps. The Taoists call this flow as the Tao, while Hindus call it the dharma.
+
+
+
+## Putting it all together
+
+We this break down Existence into the following:
+
+- The Absolute (The One, Probability of Existence, without perception)
+- The Supreme or Existence (Actual Existence, with perception)
+  - experiencer
+    - perceiver or consciousness
+    - mind or the Supreme Entity
+      - living mind, nonliving mind
+      - metaphysical mind, physical mind
+  - experience
+    - ideas
+      - Dharma or True Nature
+      - physical and metaphysical things
+    - feelings
+      - Positive Force 
+      - Negative Force
+      - morality

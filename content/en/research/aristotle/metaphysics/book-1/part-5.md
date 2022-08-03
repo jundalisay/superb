@@ -2,7 +2,7 @@
 title= "The Pythagoreans"
 heading= "Part 5 of Metaphysics by Aristotle Simplified"
 author= "Aristotle"
-date= "2015-09-05"
+date= "2015-09-26"
 image= "/covers/meta.jpg"
 description= "Aristotle explains the principles of the Pythagoreans"
 linkb= "/research/aristotle/metaphysics/book-1/part-4"

@@ -1,6 +1,6 @@
 SECTION 5: ENVIRONMENT
 
-Article III-233
+Article 3-233
 
 1. Union policy on the environment shall contribute to the pursuit of the following objectives:
 (a) preserving, protecting and improving the quality of the environment;
@@ -28,11 +28,11 @@ concerned.
 The first subparagraph shall be without prejudice to Member States' competence to negotiate in
 international bodies and to conclude international agreements.
 
-Article III-234
+Article 3-234
 1. European laws or framework laws shall establish what action is to be taken in order to achieve
-the objectives referred to in Article III-233. They shall be adopted after consultation of the
+the objectives referred to in Article 3-233. They shall be adopted after consultation of the
 Committee of the Regions and the Economic and Social Committee.
-2. By way of derogation from paragraph 1 and without prejudice to Article III-172, the Council
+2. By way of derogation from paragraph 1 and without prejudice to Article 3-172, the Council
 shall unanimously adopt European laws or framework laws establishing:
 (a) provisions primarily of a fiscal nature;
 (b) measures affecting:

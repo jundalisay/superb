@@ -2,9 +2,9 @@
 title= "Natural Remedies for Wet Dreams"
 description= "If due to the bad habit of masturbation a large amount of semen is wasted or the semen becomes thin, one will contract this disease"
 image= "/photos/oops.jpg"
-linkb= "/research/indian/yogic-treatments"
+linkb= "/research/sarkar/yogic-treatments"
 linkbtext= "yogic-treatments"
-linkf= "/research/indian/yogic-treatments/appendicitis"
+linkf= "/research/sarkar/yogic-treatments/appendicitis"
 linkftext= "appendicitis"
 +++
 

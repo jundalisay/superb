@@ -1,13 +1,15 @@
-+++
-title=  "The Seven Mount Types"
-heading = "Chapter 1 Part 1"
-image=  "/photos/objects/hand.jpg"
-description=  "THE science of Palmistry is founded on the shape of the hand."
-linkb=  "/research/benham/palmistry/part-1/"
-linkbtext=  "Index"
-linkf=  "/research/benham/palmistry/part-1/chapter-02"
-linkftext=  "Chapter 2"
-+++
+---
+heading: "Chapter 1 Part 1 of The Laws of Scientific Palm Reading Simplified"
+title: "The 7 Mount Types"
+description: "The science of Palmistry is founded on the shape of the hand"
+date: 2020-01-22
+image: "/photos/objects/hand.jpg"
+linkb: "/research/benham/palmistry/part-1/"
+linkbtext: "Chapter 9"
+linkf: "/research/benham/palmistry/part-1/chapter-02"
+linkftext: "Chapter 10b"
+---
+
 
 
 {{< quote >}}
@@ -80,10 +82,10 @@ Knowing these 7 types helps us distinguish them from each other as we meet them.
 - what their type has done through ages past
 - what the outcome of their life is likely to be, judged by those of the same type who have gone before
 
-We can thus know the person's= 
-- past=  we know what ancestors of the same type have always done
-- present=  we know what the typical people always do 
-- the possible future=  we know what the outcome generally is
+We can thus know the person's:
+- past -- we know what ancestors of the same type have always done
+- present -- we know what the typical people always do 
+- the possible future -- we know what the outcome generally is
 
 <!-- If we can feel sure that there are, as I say, seven types of people, each of which has distinctly separate qualities, and if we can know what these qualities are, it must be a fact that, when we learn to  -->
 
@@ -187,7 +189,7 @@ The Martian easily becomes an ardent, intense type, not necessarily bad, but oft
 
 It will be apparent to those who have studied other authorities on Palmistry, that this work, with the Mounts for a basis, opens a rich field for investigation. Many realize how superficial their work has been, and have longed to know why they could go only so far and no farther. Without wishing to be captious, I must say that it is because, so far as I have been able to ascertain, no other work begins upon the proper foundation. 
 
-I have added to palmistry the other elements= 
+I have added to palmistry the other elements:
 - the elementary hand (dulness)
 - the square hand (regularity)
 - the spatulate hand (activity and originality)

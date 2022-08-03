@@ -5,9 +5,9 @@ heading: Chapter 1c
 date: 2022-01-29
 description: "Mind is the collective name of the Identity-Layer, Ego-Layer, and mind-stuff"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-01b"
+linkb: "/research/sarkar/idea/chapter-01b"
 linkbtext: "Chapter 1b"
-linkf: "/research/indian/idea/chapter-01d"
+linkf: "/research/sarkar/idea/chapter-01d"
 linkftext: "Chapter 1d"
 icon: "/icons/sarkar.jpg"
 ---

@@ -1,7 +1,7 @@
 +++
 title=  "Advantages of Bank Prudence"
 description=  "Prudent banks were able to reduce their expenses, judge their debtors' situation, and avoid financial crises"
-date=  2020-01-01
+date=  2020-01-22
 image=  "/covers/wn.jpg"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2f"
 linkbtext=  "Chapter 2f"
@@ -51,24 +51,26 @@ The excessive paper money would immediately have returned upon the bank to be ex
 This second advantage was not perhaps well understood by the Scottish banks as the first advantage.
 
 
-
-64 After traders receive discounted bills and cash accounts, they should not expect any more assistance from banks.
+{{< s v="64" >}} After traders receive discounted bills and cash accounts, they should not expect any more assistance from banks.
 
 In this case, the banks cannot lend more without endangering its own interest and safety.
-A bank cannot lend to a trader the whole or even most of the money with which he trades because, though that money is continually returning to and leaving from him= 
+
+A bank cannot lend to a trader the whole or even most of the money with which he trades because, though that money is continually returning to and leaving from him:
 - the total returns is too distant from the total outgoings, and
 - the sum of his repayments could not equal the sum the lendings in a timely manner.
 
-A bank could still less afford to lend fixed capital to the merchant, examples of which are= 
+A bank could still less afford to lend fixed capital to the merchant, examples of which are: 
 - the capital used by an iron forge owner for his smelting-house, workhouses, warehouses, etc.,
 - the capital employed by a mine owner in sinking his shafts, getting engines to draw out water, making roads, etc., and
 - the capital employed by land improvers in clearing, draining, enclosing, manuring, and ploughing uncultivated fields and in building farm-houses with stables, granaries, etc.
 
 The returns of the fixed capital are much slower than the returns of the circulating capital.
+
 Such expences, even done with the greatest prudence and judgment, return to the entrepreneur only after many years.
-Many years is too far to suit the bank’s conveniency.
+- Many years is too far to suit the bank’s conveniency.
+
 Such entrepreneurs may properly do most of their projects with borrowed money.
-Their capital should be enough to ensure the capital of those creditors.
+- Their capital should be enough to ensure the capital of those creditors.
 
 The entrepreneurs should ensure that those creditors would not incur any loss, even if the project would not be so successful.
 Even with this precaution, the borrowed money which would not be repaid for several years, should not be borrowed from a bank.

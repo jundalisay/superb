@@ -3,7 +3,7 @@ CHAPTER 3: ORGANISATION OF THE EUROPEAN SYSTEM OF CENTRAL BANKS
 Article 7
 Independence
 
-In accordance with Article III-188 of the Constitution, when exercising the powers and carrying out
+In accordance with Article 3-188 of the Constitution, when exercising the powers and carrying out
 the tasks and duties conferred upon them by the Constitution and this Statute, neither the European
 Central Bank, nor a national central bank, nor any member of their decision‑making bodies shall seek
 or take instructions from Union institutions, bodies, offices or agencies, from any government of a
@@ -26,16 +26,16 @@ legal personality, shall enjoy in each of the Member States the most extensive l
 to legal persons under its law. It may, in particular, acquire or dispose of movable and immovable
 property and may be a party to legal proceedings.
 2. The European Central Bank shall ensure that the tasks conferred upon the European System of
-Central Banks under Article III-185(2), (3) and (5) of the Constitution are implemented either by itself
+Central Banks under Article 3-185(2), (3) and (5) of the Constitution are implemented either by itself
 pursuant to this Statute or through the national central banks pursuant to Article 12(1) and
 Article 14.
-3. In accordance with Article III-187(1) of the Constitution, the decision-making bodies of the
+3. In accordance with Article 3-187(1) of the Constitution, the decision-making bodies of the
 European Central Bank shall be the Governing Council and the Executive Board.
 Article 10
 The Governing Council
-1. In accordance with Article III-382(1) of the Constitution, the Governing Council shall comprise
+1. In accordance with Article 3-382(1) of the Constitution, the Governing Council shall comprise
 the members of the Executive Board of the European Central Bank and the Governors of the national
-central banks of the Member States without a derogation as referred to in Article III-197 of the
+central banks of the Member States without a derogation as referred to in Article 3-197 of the
 Constitution.
 2. Each member of the Governing Council shall have one vote. As from the date on which the
 number of members of the Governing Council exceeds 21, each member of the Executive Board shall
@@ -95,12 +95,12 @@ make the outcome of its deliberations public.
 
 Article 11
 The Executive Board
-1. In accordance with the first subparagraph of Article III-382(2) of the Constitution, the Executive
+1. In accordance with the first subparagraph of Article 3-382(2) of the Constitution, the Executive
 Board shall comprise the President, the Vice‑President and four other members.
 The members shall perform their duties on a full-time basis. No member shall engage in any
 occupation, whether gainful or not, unless exemption is exceptionally granted by the Governing
 Council.
-2. In accordance with Article III-382(2) of the Constitution, the President, the Vice-President and
+2. In accordance with Article 3-382(2) of the Constitution, the President, the Vice-President and
 the other members of the Executive Board shall be appointed by the European Council, acting by a
 qualified majority, from among persons of recognised standing and professional experience in
 monetary or banking matters, on a recommendation from the Council and after consulting the
@@ -156,7 +156,7 @@ Executive Board of the European Central Bank.
 Central Bank externally.
 Article 14
 National central banks
-1. In accordance with Article III-189 of the Constitution, each Member State shall ensure that its
+1. In accordance with Article 3-189 of the Constitution, each Member State shall ensure that its
 national legislation, including the statutes of its national central bank, is compatible with the
 Constitution and this Statute.
 2. The statutes of the national central banks shall, in particular, provide that the term of office of a
@@ -182,7 +182,7 @@ Reporting commitments
 System of Central Banks at least quarterly.
 2. A consolidated financial statement of the European System of Central Banks shall be published
 each week.
-3. In accordance with Article III-383(3) of the Constitution, the European Central Bank shall
+3. In accordance with Article 3-383(3) of the Constitution, the European Central Bank shall
 address an annual report on the activities of the European System of Central Banks and on the
 monetary policy of both the previous and the current year to the European Parliament, the European
 Council, the Council and the Commission.
@@ -192,7 +192,7 @@ free of charge.
 Article 16
 
 Banknotes
-In accordance with Article III-186(1) of the Constitution, the Governing Council shall have the
+In accordance with Article 3-186(1) of the Constitution, the Governing Council shall have the
 exclusive right to authorise the issue of euro banknotes within the Union. The European Central Bank
 and the national central banks may issue such notes. The banknotes issued by the European Central
 Bank and the national central banks shall be the only such notes to have the status of legal tender

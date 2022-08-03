@@ -11,13 +11,14 @@ linkftext=  "section-5"
 
 <!-- > *Translator's note=  Einstein gets his 'reference frames' from Galileo, which is also the source of spatial movement of Superphysics. So far so good Einstein! -->
 
-The law of inertia is fundamental to the mechanics of Galilei-Newton. It is stated as= 
+The law of inertia is fundamental to the mechanics of Galilei-Newton. It is stated as:
 
-{{< quote >}}
+{{< q >}}
 An isolated body continues in a state of rest or of uniform motion in a straight line. 
-</div>
+{{< /q >}}
 
-This law says something author = 
+
+This law says something about:
 - the motion of the bodies
 - the reference-bodies or systems of co-ordinates in mechanics
 
@@ -31,4 +32,4 @@ This system were the law of inertia applies is called a
 “Galileian system of coordinates.”  The Classical mechanics of Galilei-Newton are valid only for a Galileian system of coordinates*.
 
 
-> *Superphysics note=  In order to justify the dominance of light, Einstein bases the different kinds of movement onto the different kinds of spacetime. Instead of such sophistry, we assign Classical mechanics to the Material layer and not to Galilean coordinates. We assign Special Relativity to the Electromagnetic layer and not to the Lorentz Transformation or to Minkowski space
+> *Superphysics note:  In order to justify the dominance of light, Einstein bases the different kinds of movement onto the different kinds of spacetime. Instead of such sophistry, we assign Classical mechanics to the Material layer and not to Galilean coordinates. We assign Special Relativity to the Electromagnetic layer and not to the Lorentz Transformation or to Minkowski space

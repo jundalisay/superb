@@ -72,7 +72,7 @@ Proposals and initiatives to build upon the Schengen acquis shall be subject to 
 of the Constitution.
 In this context, where either Ireland or the United Kingdom or both have not notified the President of
 the Council in writing within a reasonable period that they wish to take part, the authorisation
-referred to in Article III‑419(1) of the Constitution shall be deemed to have been granted to the
+referred to in Article 3‑419(1) of the Constitution shall be deemed to have been granted to the
 Member States referred to in Article 1 and to Ireland or the United Kingdom where either of them
 wishes to take part in the areas of cooperation in question.
 Article 6

@@ -1,18 +1,20 @@
-+++
-title=  "The Component Parts of the Price of Commodities"
-# heading=  The Simplified Wealth of Nations by Adam Smith, Book 1 Chapter 6
-date=  2020-01-22
-image=  "/covers/wn.jpg"
-description=  "In the rude state, price has one component--wages"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-5b"
-linkbtext=  "Chapter 5b"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-6b"
-linkftext=  "Chapter 6b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Component Parts of the Price of Commodities"
+heading: "Chapter 6a of The Wealth of Nations by Adam Smith Simplified"
+date: 2020-01-22
+image: /covers/wn.jpg
+description: "In the rude state, price has one component--wages"
+linkb: /research/smith/wealth-of-nations/book-1/chapter-5b
+linkbtext: Chapter 5b
+linkf: /research/smith/wealth-of-nations/book-1/chapter-6b
+linkftext: "Chapter 6b"
+author: Adam Smith
+icon: /icons/smith.png
+---
 
 
-## In the rude state, price has one component=  Wages
+
+## In the rude state, price has one component: Wages
 
 {{< s v="1" >}} In the rude state of society, only the quantity of labour regulates the exchangeable value of commodities.
 
@@ -27,18 +29,18 @@ For example, in a nation of hunters, a beaver is twice as hard to kill than a de
 
 Such skills usually take time and effort to develop. The high price of skilled produce is a reasonable compensation for this time and effort in developing those skills. This compensation manifests as higher wages both in the advanced and rude state.
 
-4 In the rude state, without the accumulation of stock, one's work belongs solely to oneself.
+{{< s v="4" >}} In the rude state, without the accumulation of stock, one's work belongs solely to oneself.
 
 In this case, the quantity of work is the only regulator of exchangeable value.
 
 In the advanced state, price has three components=  wages, profits, rent*
 
-> *Translator's note=  In Pantrynomics, wages are in the rude state because wages are the revenue of the worker or shudra class
+> *Superphysics note: In Pantrynomics, wages are in the rude state because wages are the revenue of the worker or shudra class
 
 
-## The Second Component=  Profits 
+## The Second Component: Profits 
 
-5 In the advanced state, stock is accumulated. 
+{{< s v="5" >}} In the advanced state, stock is accumulated. 
 
 Some people will supply this stock as materials to workers to be worked on. Those workers add value to those materials. The employers then sell their work to make a profit.
 
@@ -53,20 +55,22 @@ The value added by the workers is composed of=
 
 He would only advance his stock, in the form of wages and materials to those workers, if he could get more in return from their work. He would advance big stocks only if his profits were proportional to the size of his stock.
 
-6 **Profits of stock are not the same as the wages of management, although people may mistake them as the same.**
+
+{{< s v="6" >}} **Profits of stock are not the same as the wages of management, although people may mistake them as the same.**
 
 They are regulated by different principles*.
 
-> *Translator's note=  In Pantrynomics, profit is the revenue of the business or vaesya class
 
-**Profits bear no proportion to the quantity or quality of management work.** Profits are= 
+> *Superphysics note: In Pantrynomics, profit is the revenue of the business or vaesya class
+
+**Profits bear no proportion to the quantity or quality of management work.** Profits are:
 - regulated by the value of the stock employed, and
 - proportional to the size of this stock.
 
-> *Translator's note=  In Pantrynomics, management is classified as value-maintaining effort and not value-adding
+> *Superphysics note: In Pantrynomics, management is classified as value-maintaining effort and not value-adding
 
 
-Let us suppose that= 
+Let us suppose that:
 - The profits of manufacturing stock are 10% and there are two factories.
 - Each factory has 20 workers at £15 pounds a year each or £300 a year.
 - The coarse raw materials in Factory A cost only £700.
@@ -85,7 +89,7 @@ In big business, management is committed to an executive manager. His wages=
 
 The owner of this capital still expects that his profit should bear a regular proportion to his capital even if he does almost no work. In the price of commodities, profits are different from wages. They are regulated by different principles.
 
-7 In this state of things, the whole produce of work does not always belong to the worker.
+{{< s v="7" >}} In this state of things, the whole produce of work does not always belong to the worker.
 
 He must share it with the owner of the stock.
 Wages and profits are not the only parts of the price of commodities.
@@ -93,7 +97,7 @@ Wages and profits are not the only parts of the price of commodities.
 
 ## The Third Component=  Rent
 
-8 As soon as land becomes private property, the landlords, like all other men, love to reap where they never sowed.
+{{< s v="8" >}} As soon as land becomes private property, the landlords, like all other men, love to reap where they never sowed.
 
 They demand a rent even for its natural produce.
 When land was not private property, its natural produce only cost the labourer the trouble of gathering them.
@@ -103,7 +107,6 @@ When land becomes private property, he needs to pay=
 
 This share is the rent of land. It is the third component part of price*.
 
-> *Translator's note=  In Pantrynomics, rent is the revenue of the warrior or ksattriya class
-
+> *Superphysics note: In Pantrynomics, rent is the revenue of the warrior or ksattriya class
 
 

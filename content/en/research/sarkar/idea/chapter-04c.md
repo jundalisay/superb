@@ -4,9 +4,9 @@ heading: "Chapter 4c "
 date: 2022-01-20
 description: "To find expression, the mind adopts certain propensities of love, hatred, fear, etc."
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-04b"
+linkb: "/research/sarkar/idea/chapter-04b"
 linkbtext: "Chapter 4b"
-linkf: "/research/indian/idea/chapter-05"
+linkf: "/research/sarkar/idea/chapter-05"
 linkftext: "Chapter 5"
 icon: "/icons/sarkar.jpg"
 ---

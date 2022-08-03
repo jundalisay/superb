@@ -1,6 +1,6 @@
 SECTION 4: AGRICULTURE AND FISHERIES
 
-Article III-225
+Article 3-225
 
 The Union shall define and implement a common agriculture and fisheries policy.
 ‘Agricultural products’ means the products of the soil, of stockfarming and of fisheries and products
@@ -8,7 +8,7 @@ of first-stage processing directly related to these products. References to the 
 policy or to agriculture, and the use of the term ‘agricultural’, shall be understood as also referring to
 fisheries, having regard to the specific characteristics of this sector.
 
-Article III-226
+Article 3-226
 1. The internal market shall extend to agriculture and trade in agricultural products.
 2. Save as otherwise provided in articles III-227 to III-232, the rules laid down for the
 establishment and functioning of the internal market shall apply to agricultural products.
@@ -16,7 +16,7 @@ establishment and functioning of the internal market shall apply to agricultural
 4. The operation and development of the internal market for agricultural products must be
 accompanied by a common agricultural policy.
 
-Article III-227
+Article 3-227
 1. The objectives of the common agricultural policy shall be:
 (a) to increase agricultural productivity by promoting technical progress and by ensuring the rational
 development of agricultural production and the optimum utilisation of the factors of production,
@@ -34,8 +34,8 @@ and from structural and natural disparities between the various agricultural reg
 (c) the fact that in the Member States agriculture constitutes a sector closely linked with the economy
 as a whole.
 
-Article III-228
-1. In order to attain the objectives set out in Article III-227, a common organisation of agricultural
+Article 3-228
+1. In order to attain the objectives set out in Article 3-227, a common organisation of agricultural
 markets shall be established.
 
 This organisation shall take one of the following forms, depending on the product concerned:
@@ -43,48 +43,48 @@ This organisation shall take one of the following forms, depending on the produc
 (b) compulsory coordination of the various national market organisations;
 (c) a European market organisation.
 2. The common organisation established in accordance with paragraph 1 may include all measures
-required to attain the objectives set out in Article III-227, in particular regulation of prices, aids for
+required to attain the objectives set out in Article 3-227, in particular regulation of prices, aids for
 the production and marketing of the various products, storage and carryover arrangements and
 common machinery for stabilising imports or exports.
-The common organisation shall be limited to pursuit of the objectives set out in Article III-227 and
+The common organisation shall be limited to pursuit of the objectives set out in Article 3-227 and
 shall exclude any discrimination between producers or consumers within the Union.
 Any common price policy shall be based on common criteria and uniform methods of calculation.
 3. In order to enable the common organisation referred to in paragraph 1 to attain its objectives,
 one or more agricultural guidance and guarantee funds may be set up.
 
-Article III-229
+Article 3-229
 
-To enable the objectives set out in Article III-227 to be attained, provision may be made within the
+To enable the objectives set out in Article 3-227 to be attained, provision may be made within the
 framework of the common agricultural policy for measures such as:
 (a) an effective coordination of efforts in the spheres of vocational training, of research and of the
 dissemination of agricultural knowledge; this may include joint financing of projects or
 institutions;
 (b) joint measures to promote consumption of certain products.
-Article III-230
+Article 3-230
 1. The Section relating to rules on competition shall apply to production of and trade in
 agricultural products only to the extent determined by European laws or framework laws in
-accordance with Article III-231(2), having regard to the objectives set out in Article III-227.
+accordance with Article 3-231(2), having regard to the objectives set out in Article 3-227.
 2. The Council, on a proposal from the Commission, may adopt a European regulation or decision
 authorising the granting of aid:
 (a) for the protection of enterprises handicapped by structural or natural conditions;
 (b) within the framework of economic development programmes.
-Article III-231
+Article 3-231
 1. The Commission shall submit proposals for working out and implementing the common
 agricultural policy, including the replacement of the national organisations by one of the forms of
-common organisation provided for in Article III-228(1), and for implementing the measures referred
+common organisation provided for in Article 3-228(1), and for implementing the measures referred
 to in this Section.
 
 These proposals shall take account of the interdependence of the agricultural matters referred to in
 this Section.
 2. European laws or framework laws shall establish the common organisation of the market
-provided for in Article III-228(1) and the other provisions necessary for the pursuit of the objectives
+provided for in Article 3-228(1) and the other provisions necessary for the pursuit of the objectives
 of the common agricultural policy and the common fisheries policy. They shall be adopted after
 consultation of the Economic and Social Committee.
 3. The Council, on a proposal from the Commission, shall adopt the European regulations or
 decisions on fixing prices, levies, aid and quantitative limitations and on the fixing and allocation of
 fishing opportunities.
 4. In accordance with paragraph 2, the national market organisations may be replaced by the
-common organisation provided for in Article III-228(1) if:
+common organisation provided for in Article 3-228(1) if:
 (a) the common organisation offers Member States which are opposed to this measure and which
 have an organisation of their own for the production in question equivalent safeguards for the
 employment and standard of living of the producers concerned, account being taken of the
@@ -95,7 +95,7 @@ national market.
 5. If a common organisation for certain raw materials is established before a common organisation
 exists for the corresponding processed products, such raw materials as are used for processed
 products intended for export to third countries may be imported from outside the Union.
-Article III-232
+Article 3-232
 Where in a Member State a product is subject to a national market organisation or to internal rules
 having equivalent effect which affect the competitive position of similar production in another
 Member State, a countervailing charge shall be applied by Member States to imports of this product

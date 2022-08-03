@@ -1,7 +1,7 @@
 7. PROTOCOL ON THE PRIVILEGES AND IMMUNITIES OF THE EUROPEAN UNION
 
 <!-- THE HIGH CONTRACTING PARTIES,
-CONSIDERING that, in accordance with Article III-434 of the Constitution, the Union shall enjoy in the territories of
+CONSIDERING that, in accordance with Article 3-434 of the Constitution, the Union shall enjoy in the territories of
 the Member States such privileges and immunities as are necessary for the performance of its tasks,
 HAVE AGREED upon the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe and to the Treaty establishing the European Atomic Energy Community: -->

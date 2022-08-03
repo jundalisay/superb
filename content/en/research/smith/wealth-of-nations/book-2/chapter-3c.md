@@ -1,26 +1,26 @@
-+++
-title=  "The Propensity to Save"
-description=  "the Propensity to Save"
-date=  2020-01-01
-image=  "/covers/wn.jpg"
-linkbtext=  "Chapter 3b"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-3b"
-linkftext=  "Chapter 3d"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-3d"
-heading=  "Chapter 3c"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 3c"
+title: "The Origin of the Propensity to Save"
+linkTitle: "Chapter 3c"
+date: 2020-01-11
+image: "/covers/wn.jpg"
+description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
+linkb: "/research/smith/wealth-of-nations/book-2/chapter-3b"
+linkbtext: "chapter-3b"
+linkf: "/research/smith/wealth-of-nations/book-2/chapter-3d"
+linkftext: "chapter-3d"
+author: Adam Smith
+icon: /icons/smith.png
+---
 
-
-## The Origin of the Propensity to Save
 
 <!-- regarding profusion misconduct -->
 
-{{< s v="28" >}} Regarding profusion, The passion for present enjoyment is the principle which prompts us to spend. 
+{{< s v="28" >}} Regarding profusion, **the passion for present enjoyment** is the principle which prompts us to spend. 
 - It is sometimes violent and very difficult to restrain, leading to wastefulness. 
 - Generally, it is only momentary and occasional.
 
-The desire of bettering our condition is the principle which prompts to save.
+**The desire of bettering our condition** is the principle which prompts to save.
 - It is a desire which is generally calm and dispassionate.
 - It comes with us from birth and stays with us until we die.
 
@@ -31,8 +31,6 @@ Everyone wants to improve their lives. Most propose to do this through the incre
 The principle of spending prevails in almost all men sometimes and prevails in some men almost all the time.
 - Yet in the lifetime of most men, frugality predominates very greatly.
 
-<!-- Regarding misconduct -->
-
 
 {{< s v="29" >}} Regarding misconduct, there are everywhere much more prudent and successful undertakings than injudicious and unsuccessful ones.
 
@@ -41,9 +39,11 @@ Despite the frequency of bankruptcies, only a few businessmen, perhaps not more 
 - Most men are careful to avoid it.
 - Some do not avoid it, as some do not avoid the gallows.
 
-30 Great nations are never impoverished by private prodigality and misconduct. But they sometimes are impoverished by public prodigality and misconduct.
 
-In most countries, the whole public revenue is employed in maintaining unproductive hands composed of= 
+{{< s v="30" >}} Great nations are never impoverished by *private* prodigality and misconduct.
+- But they sometimes are impoverished by *public* prodigality and misconduct.
+
+In most countries, the whole public revenue is employed in maintaining unproductive hands composed of:
 - splendid courts,
 - great ecclesiastical establishments,
 - great fleets and armies who produce nothing in peacetime and cannot repay their expenses in wartime.
@@ -57,33 +57,33 @@ Those unproductive hands might consume so much of the society's revenue that the
 
 
 
-{{< s v="32" >}} This frugality and good conduct is enough to compensate= 
+{{< s v="32" >}} This frugality and good conduct is enough to compensate: 
 - private prodigality and misconduct
 - government extravagance
 
 <b>Public, national, and private opulence are originally derived from the principle of the uniform, constant, and uninterrupted effort of every man to better his condition.</b>
 
-This principle* is frequently powerful enough to maintain the natural progress of things towards improvement despite= 
+This principle* is frequently powerful enough to maintain the natural progress of things towards improvement despite:
 - the extravagance of government, and
 - the greatest errors of administration.
 
-> *Translator's note: In Hinduism, this principle is known as shakti
+> *Superphyics Note: In Hinduism, this principle is known as shakti
 
 This is similar to the unknown principle of animal life which frequently restores health and vigour in spite of= 
 - the disease, and
 - the doctor’s absurd prescriptions.
 
-> *Translator's note: In Hinduism, this principle is known as prana
+> *Superphyics Note: In Hinduism, this principle is known as prana
 
 
 
 {{< s v="32" >}} A nation's produce can be increased in value only by increasing the quantity of productive workers or the quality of productive powers.
 
-This incease requires the increase of capital in the form of= 
+This incease requires the increase of capital in the form of:
 - additions and improvements to those machines which facilitate labour, and
 - a more proper division and distribution* of employment
 
-> *Translator's note: This is what the Pantry network, with ISAIAH Match, is supposed to do 
+> *Superphyics Note: This is what the Pantry network, with ISAIAH Match, is supposed to do 
 
 
 In either case, an additional capital is almost always needed. **Much more capital is needed to keep each worker constantly employed when labour is greatly divided, than where labour is undivided.**

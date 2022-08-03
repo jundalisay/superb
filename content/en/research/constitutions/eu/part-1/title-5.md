@@ -1,22 +1,29 @@
-TITLE 5: EXERCISE OF UNION COMPETENCE
+---
+title: "Exercise Of Union Competence"
+heading: "Title 5"
+date: 2021-11-20
+image: "/flags/eu.png"
+description: "Everyone is equal before the law"
+linkb: /research/constitutions/eu/part-2/title-2
+linkbtext: "Title 2"
+linkf: /research/constitutions/eu/part-2/title-4
+linkftext: "Title 4"
+icon: /flags/eu.png
+---
 
-CHAPTER 1: COMMON PROVISIONS
+
+## CHAPTER 1: COMMON PROVISIONS
 
 Article I-33
-The legal acts of the Union
-1. To exercise the Union's competences the institutions shall use as legal instruments, in accordance
-with Part III, European laws, European framework laws, European regulations, European decisions,
-recommendations and opinions.
 
-A European law shall be a legislative act of general application. It shall be binding in its entirety and
-directly applicable in all Member States.
-A European framework law shall be a legislative act binding, as to the result to be achieved, upon
-each Member State to which it is addressed, but shall leave to the national authorities the choice of
-form and methods.
-A European regulation shall be a non-legislative act of general application for the implementation of
-legislative acts and of certain provisions of the Constitution. It may either be binding in its entirety
-and directly applicable in all Member States, or be binding, as to the result to be achieved, upon each
-Member State to which it is addressed, but shall leave to the national authorities the choice of form
+The legal acts of the Union
+1. To exercise the Union's competences the institutions shall use as legal instruments, in accordance with Part 3, European laws, European framework laws, European regulations, European decisions, recommendations and opinions.
+
+A European law shall be a legislative act of general application. It shall be binding in its entirety and directly applicable in all Member States.
+
+A European framework law shall be a legislative act binding, as to the result to be achieved, upon each Member State to which it is addressed, but shall leave to the national authorities the choice of form and methods.
+
+A European regulation shall be a non-legislative act of general application for the implementation of legislative acts and of certain provisions of the Constitution. It may either be binding in its entirety and directly applicable in all Member States, or be binding, as to the result to be achieved, upon each Member State to which it is addressed, but shall leave to the national authorities the choice of form
 and methods.
 
 A European decision shall be a non-legislative act, binding in its entirety. A decision which specifies
@@ -29,17 +36,11 @@ from adopting acts not provided for by the relevant legislative procedure in the
 Article I-34
 Legislative acts
 
-1. European laws and framework laws shall be adopted, on the basis of proposals from the
-Commission, jointly by the European Parliament and the Council under the ordinary legislative
-procedure as set out in Article III-396. If the two institutions cannot reach agreement on an act, it
-shall not be adopted.
-2. In the specific cases provided for in the Constitution, European laws and framework laws shall be
-adopted by the European Parliament with the participation of the Council, or by the latter with the
-participation of the European Parliament, in accordance with special legislative procedures.
-3. In the specific cases provided for in the Constitution, European laws and framework laws may be
-adopted at the initiative of a group of Member States or of the European Parliament, on a
-recommendation from the European Central Bank or at the request of the Court of Justice or the
-European Investment Bank.
+1. European laws and framework laws shall be adopted, on the basis of proposals from the Commission, jointly by the European Parliament and the Council under the ordinary legislative procedure as set out in Article 3-396. If the two institutions cannot reach agreement on an act, it shall not be adopted.
+
+2. In the specific cases provided for in the Constitution, European laws and framework laws shall be adopted by the European Parliament with the participation of the Council, or by the latter with the participation of the European Parliament, in accordance with special legislative procedures.
+
+3. In the specific cases provided for in the Constitution, European laws and framework laws may be adopted at the initiative of a group of Member States or of the European Parliament, on a recommendation from the European Central Bank or at the request of the Court of Justice or the European Investment Bank.
 
 Article I-35
 
@@ -184,11 +185,11 @@ Union Minister for Foreign Affairs may propose the use of both national resource
 instruments, together with the Commission where appropriate.
 5. The Council may entrust the execution of a task, within the Union framework, to a group of
 Member States in order to protect the Union's values and serve its interests. The execution of such a
-task shall be governed by Article III-310.
+task shall be governed by Article 3-310.
 6. Those Member States whose military capabilities fulfil higher criteria and which have made more
 binding commitments to one another in this area with a view to the most demanding missions shall
 establish permanent structured cooperation within the Union framework. Such cooperation shall be
-governed by Article III-312. It shall not affect the provisions of Article III-309.
+governed by Article 3-312. It shall not affect the provisions of Article 3-309.
 7. If a Member State is the victim of armed aggression on its territory, the other Member States shall
 have towards it an obligation of aid and assistance by all the means in their power, in accordance with
 Article 51 of the United Nations Charter. This shall not prejudice the specific character of the security
@@ -211,11 +212,11 @@ particular on the basis of mutual recognition of judicial and extrajudicial deci
 the police, customs and other services specialising in the prevention and detection of criminal
 offences.
 2. National Parliaments may, within the framework of the area of freedom, security and justice,
-participate in the evaluation mechanisms provided for in Article III-260. They shall be involved in the
+participate in the evaluation mechanisms provided for in Article 3-260. They shall be involved in the
 political monitoring of Europol and the evaluation of Eurojust's activities in accordance with
 Articles III-276 and III-273.
 3. Member States shall have a right of initiative in the field of police and judicial cooperation in
-criminal matters, in accordance with Article III-264.
+criminal matters, in accordance with Article 3-264.
 Article I-43
 Solidarity clause
 1. The Union and its Member States shall act jointly in a spirit of solidarity if a Member State is the
@@ -229,7 +230,7 @@ terrorist attack;
 (b) assist a Member State in its territory, at the request of its political authorities, in the event of a
 natural or man-made disaster.
 2.
-The detailed arrangements for implementing this Article are set out in Article III-329.
+The detailed arrangements for implementing this Article are set out in Article 3-329.
 
 
 CHAPTER 3: ENHANCED COOPERATION
@@ -242,11 +243,11 @@ those competences by applying the relevant provisions of the Constitution, subje
 in accordance with the procedures laid down in this Article and in Articles III-416 to III-423.
 Enhanced cooperation shall aim to further the objectives of the Union, protect its interests and
 reinforce its integration process. Such cooperation shall be open at any time to all Member States, in
-accordance with Article III-418.
+accordance with Article 3-418.
 2. The European decision authorising enhanced cooperation shall be adopted by the Council as a
 last resort, when it has established that the objectives of such cooperation cannot be attained within a
 reasonable period by the Union as a whole, and provided that at least one third of the Member States
-participate in it. The Council shall act in accordance with the procedure laid down in Article III-419.
+participate in it. The Council shall act in accordance with the procedure laid down in Article 3-419.
 3. All members of the Council may participate in its deliberations, but only members of the
 Council representing the Member States participating in enhanced cooperation shall take part in the
 vote.

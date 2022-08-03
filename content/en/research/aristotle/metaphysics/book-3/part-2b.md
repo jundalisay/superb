@@ -1,17 +1,17 @@
-+++
-title= "Questions 4 to 5"
-heading= "Part 2b of the Simplified Metaphysics by Aristotle"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "Should the sciences investigate all the kinds of causes? "
-linkb= "/research/aristotle/metaphysics/book-3/part-2"
-linkbtext= "Part 2"
-linkf= "/research/aristotle/metaphysics/book-3/part-3"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 2b of Book 3 of Metaphysics by Aristotle Simplified"
+title: "Questions 4 to 5"
+date: 2020-09-01
+image: "/covers/meta.jpg"
+description: "Should the sciences investigate all the kinds of causes?"
+linkb: /research/aristotle/metaphysics/book-3/part-2
+linkbtext: "Part 1"
+linkf: /research/aristotle/metaphysics/book-3/part-3
+linkftext: "Part 3"
+icon: "/icons/aris.jpg"
+---
+
+
 
 > 5. Does our investigation deal with substances alone or also with their attributes? 
 

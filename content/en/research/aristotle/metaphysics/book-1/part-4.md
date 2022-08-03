@@ -2,7 +2,7 @@
 title= "Hesiod Parmenides"
 heading= "Part 4 of Metaphysics by Aristotle Simplified"
 author= "Aristotle"
-date= "2015-09-06"
+date= "2015-09-27"
 image= "/covers/meta.jpg"
 description= "Aristotle explains the basic ideas of Hesiod and Parmenides"
 linkb= "/research/aristotle/metaphysics/book-1/part-3"

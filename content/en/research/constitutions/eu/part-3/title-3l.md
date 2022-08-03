@@ -14,7 +14,7 @@ cross‑border and mountain regions.
 Article 3-221
 
 Member States shall conduct their economic policies and shall coordinate them in such a way as, in
-addition, to attain the objectives set out in Article III-220. The formulation and implementation of
+addition, to attain the objectives set out in Article 3-220. The formulation and implementation of
 the Union's policies and action and the implementation of the internal market shall take into account
 those objectives and shall contribute to their achievement. The Union shall also support the
 achievement of these objectives by the action it takes through the Structural Funds (European
@@ -33,13 +33,13 @@ prejudice to measures adopted within the framework of the Union's other policies
 adopted after consultation of the Committee of the Regions and the Economic and
 Social Committee.
 
-Article III-222
+Article 3-222
 
 The European Regional Development Fund is intended to help to redress the main regional
 imbalances in the Union through participation in the development and structural adjustment of
 regions whose development is lagging behind and in the conversion of declining industrial regions.
 
-Article III-223
+Article 3-223
 1. Without prejudice to article III-224, European laws shall define the tasks, the priority objectives
 and the organisation of the structural funds, which may involve grouping the Funds, the general rules
 applicable to them and the provisions necessary to ensure their effectiveness and the coordination of
@@ -53,7 +53,7 @@ those in force on the date on which the Treaty establishing a Constitution for E
 be established by a European law of the Council. The Council shall act unanimously after obtaining
 the consent of the European Parliament.
 
-Article III-224
+Article 3-224
 
 European laws shall establish implementing measures relating to the European Regional
 Development Fund. Such laws shall be adopted after consultation of the Committee of the Regions

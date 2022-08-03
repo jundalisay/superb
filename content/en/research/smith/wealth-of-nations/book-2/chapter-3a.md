@@ -1,7 +1,7 @@
 
 +++
 title=  "Productive vs Unproductive Labour"
-date=  2020-01-01
+date=  2020-01-13
 image=  "/covers/wn.jpg"
 description=  "Production vs Services"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2o"

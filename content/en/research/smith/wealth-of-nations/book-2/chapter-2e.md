@@ -1,7 +1,7 @@
 +++
 title=  "Cash Accounts and Discounted Bills of Exchange"
 description=  "Cash Accounts and Discounted Bills of Exchange adds to the circulation of value"
-date=  2020-01-01
+date=  2020-01-24
 image=  "/covers/wn.jpg"
 heading=  "Book 2, Chapter 1a"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2d"

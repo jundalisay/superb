@@ -1,14 +1,18 @@
-+++
-title= "My Life"
-heading= "Part 1"
-author= "Rene Descartes"
-image= "/covers/method.jpg"
-description= "Rene Descartes 1635"
-linkb= "/research/descartes/meditations/"
-linkbtext= "Index"
-linkf= "/research/descartes/meditations/part-2"
-linkftext= "Part 2"
-+++
+---
+heading: Part 1
+title: My Life
+limkTitle: Part 1
+date: 2022-01-31
+description: Descartes gives 4 Precepts on Math and Logic
+image: "/covers/method.jpg"
+linkb: "/research/descartes/method/"
+linkbtext: "Index"
+linkf: "/research/descartes/method/part-2/"
+linkftext: "Part 2"
+author: "Rene Descartes"
+icon: /icons/descartes.png
+---
+
 
 <!-- ## Discourse on the Method of Rightly Conducting the Reason, and seeking Truth in the Sciences -->
 
@@ -20,11 +24,15 @@ Transcribed= by Andy Blunden. -->
 If this Discourse appear too long to be read at once, it may be divided into six Parts= and, in the first, will be found various considerations touching the Sciences; in the second, the principal rules of the Method which the Author has discovered, in the third, certain of the rules of Morals which he has deduced from this Method; in the fourth, the reasonings by which he establishes the existence of God and of the Human Soul, which are the foundations of his Metaphysic; in the fifth, the order of the Physical questions which he has investigated, and, in particular, the explication of the motion of the heart and of some other difficulties pertaining to Medicine, as also the difference between the soul of man and that of the brutes; and, in the last, what the Author believes to be required in order to greater advancement in the investigation of Nature than has yet been made, with the reasons that have induced him to write.
  -->
 
-Good sense is the most equally distributed among men. Everyone thinks himself having it. Those who are the most difficult to satisfy in everything else, do not usually desire a larger measure of good sense than they already possess. 
+Good sense is the most equally distributed among men. Everyone thinks himself having it. 
+
+Those who are the most difficult to satisfy in everything else, do not usually desire a larger measure of good sense than they already have. 
 
 Their conviction shows that:
 - the power of judging is by nature equal in all men
-- the diversity of our opinions, consequently, does not arise from some being endowed with a larger share of reason than others, but solely from this, that we conduct our thoughts along different ways, and do not fix our attention on the same objects. 
+- the diversity of our opinions, consequently, does not arise from some being endowed with a larger share of reason than others. Instead, it comes from us:
+  - conducting our thoughts in different ways, and
+  - not fixing our attention to the same objects. 
 
 Having a vigorous mind is not enough. One must apply it. 
 
@@ -42,17 +50,25 @@ Reason or sense is <!-- , inasmuch as it is that alone which constitutes us men,
 
 The errors in reason come from <!-- and on this point to adopt the common opinion of philosophers, who say that the difference of greater and less holds only among --> the accidents, and not from the natures of individuals of the same species.
 
-I was lucky to fall into certain tracks very early in life which have led me to maxims gradually augmented my knowledge, and raised it to the highest point which the mediocrity of my talents<!--  and the brief duration of my life --> will permit me to reach. 
+I was lucky to fall into certain tracks very early in life which have:
+- led me to maxims gradually augmented my knowledge
+- raised my knowledge to the highest point which the mediocrity of my talents<!--  and the brief duration of my life --> will permit me to reach. 
 
-For I have already reaped from it such fruits that, although I have been accustomed to think lowly enough of myself, and although when I look with the eye of a philosopher at the varied courses and pursuits of mankind at large, I find scarcely one which does not appear in vain and useless, I nevertheless derive the highest satisfaction from the progress I conceive myself to have already made in the search after truth, and cannot help entertaining such expectations of the future as to believe that if, among the occupations of men as men, there is any one really excellent and important, it is that which I have chosen.
+It has helped me to get used to thinking lowly enough of myself. I view the varied courses and pursuits of mankind at large, as a philosopher. I find scarcely one which does not appear in vain and useless. 
 
-After all, it is possible I may be mistaken; and it is but a little copper and glass, perhaps, that I take for gold and diamonds. I know how very liable we are to delusion in what relates to ourselves, and also how much the judgments of our friends are to be suspected when given in our favor. 
+I nevertheless have the highest satisfaction from my progress in my search after truth. <!-- , and cannot help entertaining such expectations of the future as to believe that if, among the occupations of men as men, there is any one really excellent and important, it is that which I have chosen. -->
 
-But I shall endeavour in this discourse to describe the paths I have followed, and to delineate my life as in a picture, in order that each one may also be able to judge of them for himself, and that in the general opinion entertained of them, as gathered from current report, I myself may have a new help towards instruction to be added to those I have been in the habit of employing.
+<!-- After all, it is possible I may be mistaken; and it is but a little copper and glass, perhaps, that I take for gold and diamonds. I know how very liable we are to delusion in what relates to ourselves, and also how much the judgments of our friends are to be suspected when given in our favor.  -->
 
-My present design, then, is not to teach the method which each ought to follow for the right conduct of his reason, but solely to describe the way in which I have endeavoured to conduct my own. 
+I shall describe the paths I have followed<!-- , and to delineate my life as in a picture, in order --> so that:
+- each one may also be able to judge of them for himself<!-- . , and that in the general opinion entertained of them, as gathered from current report, --> 
+- I myself may have a new help towards teaching my method<!-- instruction to be added to those I have been in the habit of employing. -->
 
-They who set themselves to give precepts must of course regard themselves as possessed of greater skill than those to whom they prescribe; and if they err in the slightest particular, they subject themselves to censure. But as this tract is put forth merely as a history, or, if you will, as a tale, in which, amid some examples worthy of imitation, there will be found, perhaps, as many more which it were advisable not to follow, I hope it will prove useful to some without being hurtful to any, and that my openness will find some favor with all.
+I do not aim <!-- My present design, then, is not --> to teach the method which each one should follow for the right conduct of his reason. My aim is solely to describe the way how I conduct my own reason. 
+
+They who set themselves to give precepts must of course regard themselves as possessed of greater skill than those to whom they prescribe. 
+
+If they err in the slightest particular, they subject themselves to censure. But as this tract is put forth merely as a history, or, if you will, as a tale, in which, amid some examples worthy of imitation, there will be found, perhaps, as many more which it were advisable not to follow, I hope it will prove useful to some without being hurtful to any, and that my openness will find some favor with all.
 
 From my childhood, I have been familiar with letters. <!-- ; and as I was given to believe that by their help a clear and certain knowledge of all that is useful in life might be acquired, I was ardently desirous of instruction.  -->But as soon as I had finished the entire study, I found myself involved in so many doubts and errors. These convinced me that I was still ignorant. <!--  had advanced no farther in all my attempts at learning, than the discovery at every turn of my own ignorance. --> 
 
@@ -76,50 +92,30 @@ I <!--  knew the judgment which others had formed of me; and I did not find that
 
 But I believed that I had already given sufficient time to languages, and likewise to the reading of the writings of the ancients, to their histories and fables. 
 
-For to hold converse with those of other ages and to travel, are almost the same thing. It is useful to know something of the manners of different nations, that we may be enabled to form a more correct judgment regarding our own, and be prevented from thinking that everything contrary to our customs is ridiculous and irrational, a conclusion usually come to by those whose experience has been limited to their own country. 
+Talking with those of other ages and traveling are almost the same thing. 
 
-On the other hand, when too much time is occupied in travelling, we become strangers to our native country; and the over curious in the customs of the past are generally ignorant of those of the present. 
+It is useful to know the manners of different nations so that:
+- we can form a more correct judgment regarding our own, and
+- avoid thinking that everything contrary to our customs is ridiculous and irrational. 
+  - People whose experience has been limited to their own country think like this. 
 
-Besides, fictitious narratives lead us to imagine the possibility of many events that are impossible; and even the most faithful histories, if they do not wholly misrepresent matters, or exaggerate their importance to render the account of them more worthy of perusal, omit, at least, almost always the meanest and least striking of the attendant circumstances; hence it happens that the remainder does not represent the truth, and that such as regulate their conduct by examples drawn from this source, are apt to fall into the extravagances of the knight-errants of romance, and to entertain projects that exceed their powers.
+On the other hand, when we travel for too long, we become strangers to our native country. The over curious in the customs of the past are generally ignorant of those of the present. 
 
-I esteemed eloquence highly, and was in raptures with poesy; but I thought that both were gifts of nature rather than fruits of study. Those in whom the faculty of reason is predominant, and who most skillfully dispose their thoughts with a view to render them clear and intelligible, are always the best able to persuade others of the truth of what they lay down, though they should speak only in the language of Lower Brittany, and be wholly ignorant of the rules of rhetoric; and those whose minds are stored with the most agreeable fancies, and who can give expression to them with the greatest embellishment and harmony, are still the best poets, though unacquainted with the art of poetry.
+Besides, fictitious narratives lead us to imagine the possibility of many events that are impossible; and even the most faithful histories, if they do not wholly misrepresent matters, or exaggerate their importance to render the account of them more worthy of perusal, omit, at least, almost always the meanest and least striking of the attendant circumstances; 
 
-I was especially delighted with the mathematics, on account of the certitude and evidence of their reasonings; but I had not as yet a precise knowledge of their true use; and thinking that they but contributed to the advancement of the mechanical arts, I was astonished that foundations, so strong and solid, should have had no loftier superstructure reared on them. On the other hand, I compared the disquisitions of the ancient moralists to very towering and magnificent palaces with no better foundation than sand and mud= they laud the virtues very highly, and exhibit them as estimable far above anything on earth; but they give us no adequate criterion of virtue, and frequently that which they designate with so fine a name is but apathy, or pride, or despair, or parricide.
+hence it happens that the remainder does not represent the truth, and that such as regulate their conduct by examples drawn from this source, are apt to fall into the extravagances of the knight-errants of romance, and to entertain projects that exceed their powers.
 
-I revered our theology, and aspired as much as any one to reach heaven= but being given assuredly to understand that the way is not less open to the most ignorant than to the most learned, and that the revealed truths which lead to heaven are above our comprehension, I did not presume to subject them to the impotency of my reason; and I thought that in order competently to undertake their examination, there was need of some special help from heaven, and of being more than man.
+I esteemed eloquence highly, and was in raptures with poesy; but I thought that both were gifts of nature rather than fruits of study. Those in whom the faculty of reason is predominant, and who most skillfully dispose their thoughts with a view to render them clear and intelligible, are always the best able to persuade others of the truth of what they lay down, though they should speak only in the language of Lower Brittany, and be wholly ignorant of the rules of rhetoric; 
+
+Those whose minds are stored with the most agreeable fancies, and who can give expression to them with the greatest embellishment and harmony, are still the best poets, though unacquainted with the art of poetry.
+
+I was especially delighted with the mathematics, on account of the certitude and evidence of their reasonings; but I had not as yet a precise knowledge of their true use; and thinking that they but contributed to the advancement of the mechanical arts, I was astonished that foundations, so strong and solid, should have had no loftier superstructure reared on them. 
+
+On the other hand, I compared the disquisitions of the ancient moralists to very towering and magnificent palaces with no better foundation than sand and mud= they laud the virtues very highly, and exhibit them as estimable far above anything on earth; but they give us no adequate criterion of virtue, and frequently that which they designate with so fine a name is but apathy, or pride, or despair, or parricide.
+
+I revered our theology, and aspired as much as any one to reach heaven= but being given assuredly to understand that the way is not less open to the most ignorant than to the most learned, and that the revealed truths which lead to heaven are above our comprehension, I did not presume to subject them to the impotency of my reason. 
+
+I thought that in order competently to undertake their examination, there was need of some special help from heaven, and of being more than man.
 
 Of philosophy I will say nothing, except that when I saw that it had been cultivated for many ages by the most distinguished men, and that yet there is not a single matter within its sphere which is not still in dispute, and nothing, therefore, which is above doubt, I did not presume to anticipate that my success would be greater in it than that of others; and further, when I considered the number of conflicting opinions touching a single matter that may be upheld by learned men, while there can be but one true, I reckoned as well-nigh false all that was only probable.
 
-As to the other sciences, inasmuch as these borrow their principles from philosophy, I judged that no solid superstructures could be reared on foundations so infirm; and neither the honour nor the gain held out by them was sufficient to determine me to their cultivation: 
-
-Thank God I was not a writer of <!-- for I was not, thank Heaven, in a condition which compelled me to make merchandise of --> science for my livelihood.<!--  the bettering of my fortune.  -->
-
-<!-- ; and though I might not profess to scorn glory as a cynic, I yet made very slight account of that honour which I hoped to acquire only through fictitious titles. -->
-
-
-The false sciences are <!--  I thought I knew the worth sufficiently to escape being deceived by the professions of an --> alchemy, <!-- , the predictions of an --> astrology, <!-- the impostures of a --> and magic. <!-- , or by the artifices and boasting of any of those who profess to know things of which they are ignorant. -->
-
-This is why as soon as I was able to graduate away from my <!-- For these reasons, as soon as my age permitted me to pass from under the control of --> instructors, I entirely:
-- abandoned the study of letters
-- resolved no longer to seek any other science than the knowledge of myself, or of the great book of the world. 
-
-I spent the remainder of my youth:
-- travelling
-- visiting courts and armies
-- meeting with men of different dispositions and ranks
-- collecting varied experience
-- proving myself in the different situations into which fortune threw me
-- above all, in making such reflection on the matter of my experience as to secure my improvement. 
-
-
-**I would find much more truth in the reasonings of each individual with reference to the affairs in which he is personally interested.** 
-
-The issue of which must presently punish him if he has judged amiss, than in those conducted by a man of letters in his study, regarding speculative matters that are of no practical moment, and followed by no consequences to himself, farther, perhaps, than that they foster his vanity the better the more remote they are from common sense; requiring, as they must in this case, the exercise of greater ingenuity and art to render them probable. 
-
-I had a most earnest desire to know how to distinguish the true from the false so that I could clearly to discriminate the right path in life, and proceed in it with confidence.
-
-While busied only in considering the manners of other men, I found here, too, scarce any ground for settled conviction, and remarked hardly less contradiction among them than in the opinions of the philosophers. 
-
-So that the greatest advantage I derived from the study consisted in this, that, observing many things which, however extravagant and ridiculous to our apprehension, are yet by common consent received and approved by other great nations, I learned to entertain too decided a belief in regard to nothing of the truth of which I had been persuaded merely by example and custom; and thus I gradually extricated myself from many errors powerful enough to darken our natural intelligence, and incapacitate us in great measure from listening to reason. 
-
-But after I had been occupied several years in thus studying the book of the world, and in essaying to gather some experience, I at length resolved to make myself an object of study, and to employ all the powers of my mind in choosing the paths I ought to follow, an undertaking which was accompanied with greater success than it would have been had I never quitted my country or my books.

@@ -2,9 +2,9 @@
 title= "Natural Remedies for Dysmenorrhoea (Cramps)"
 description= "Women who are adverse to physical labour, and who generally are from rich or upper middle-class families, are found suffering from this disease"
 image= "/photos/med/dysm.jpg"
-linkb= "/research/indian/yogic-treatments/dysentery"
+linkb= "/research/sarkar/yogic-treatments/dysentery"
 linkbtext= "dysentery"
-linkf= "/research/indian/yogic-treatments/eczema"
+linkf= "/research/sarkar/yogic-treatments/eczema"
 linkftext= "Eczema"
 +++
 

@@ -6,9 +6,9 @@ heading: "Chapter 6b "
 date: 2022-01-17
 description: "'Paramátman' [active collective consciousness] is the collective name for the Macrocosmic Nucleus"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-06"
+linkb: "/research/sarkar/idea/chapter-06"
 linkbtext: "Chapter 6"
-linkf: "/research/indian/idea/chapter-06c"
+linkf: "/research/sarkar/idea/chapter-06c"
 linkftext: "Chapter 6c"
 icon: "/icons/sarkar.jpg"
 ---

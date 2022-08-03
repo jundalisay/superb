@@ -1,17 +1,18 @@
-+++
-title=  "The Mount Of Mars"
-image=  "/photos/objects/hand.jpg"
-description=  ""
-linkb=  "/research/benham/palmistry/part-1/chapter-22-mercury"
-linkbtext=  "Part 22"
-linkf=  "/research/benham/palmistry/part-1/chapter-24-luna"
-linkftext=  "Part 24"
-heading =  "Chapter 23"
-+++
+---
+heading: "Chapter 22 Part 1 of The Laws of Scientific Palm Reading Simplified"
+title: "The Mount Of Mars"
+description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
+date: 2020-01-18
+image: "/photos/objects/hand.jpg"
+linkb: "/research/benham/palmistry/part-1/chapter-22-mercury"
+linkbtext: "Chapter 22"
+linkf: "/research/benham/palmistry/part-1/chapter-24-luna"
+linkftext: "Chapter 24"
+---
 
 
-THE fifth Mount type is the Martian. He is identified by= 
-- the two Mounts of Mars
+THE fifth Mount type is the Martian. He is identified by:
+- the 2 Mounts of Mars
 - the Upper Mount on the percussion and above the Line of Head
 - the Lower Mount under the Line of Life and above the Mount of Venus
 
@@ -74,7 +75,9 @@ White color with this type is abnormal. When found the Martian is much reduced i
 
 With the Martian's rich blood supply and strong heart, if the blood current becomes poisoned with bile it will make him vicious. The nails must be closely examined. The broad nail of a strong constitution is expected, and will be most often found. The narrow nail is not common, and tells of a more delicate person. Short, critical nails will add materially to the fighting qualities, and if very short make the subject pugnacious in the extreme. With a large Lower Mount and very short nails you have a person who fights everybody and all the time. He cannot keep away from strife, and is either in it himself or has everybody around him fighting. Color must be observed in the nails; red, pink, white, yellow, and blue each telling the story of color qualities present. 
 
-The nails must be examined for health to see if fluted or brittle, which formations make the subject a nervous Martian, and pretty hard to get along with. With this type look for the nail showing throat and bronchial delicacy, for these are difficulties which beset the Martian. When these nails are seen on this type it means danger, and must be used to warn the subject against colds and exposure from carelessness. The hair on the hands will be most often red, auburn, or blond. In all of these colors judge the degree of strength added to the type by the depth of color. Red hair will make an inflammable subject, liable to sudden violent temper, and one who will lose control of himself under excitement. If the Lower Mount be strong, red hair will be as bad as short nails, and if both these should be found, then it will be absolutely no use trying to get along with this subject. Auburn color decreases the intensity and makes the subject less likely to "fly off the handle." Blond hair will again reduce the ardor of the type and make it more phlegmatic, calm, and less excitable. Blond hair reduces the intensity of Martian qualities more than any other color, while black shows the vivacity and spontaneity of its qualities, and to a degree lights up the Martian fires in a subject. The hand as a whole will tell you of the mental, practical, or baser worlds which rule the subject. This observation of the whole hand is important with the Martian, for the reason that this is the first Mount type which has not a finger to guide us. 
+The nails must be examined for health to see if fluted or brittle, which formations make the subject a nervous Martian, and pretty hard to get along with. 
+
+With this type look for the nail showing throat and bronchial delicacy, for these are difficulties which beset the Martian. When these nails are seen on this type it means danger, and must be used to warn the subject against colds and exposure from carelessness. The hair on the hands will be most often red, auburn, or blond. In all of these colors judge the degree of strength added to the type by the depth of color. Red hair will make an inflammable subject, liable to sudden violent temper, and one who will lose control of himself under excitement. If the Lower Mount be strong, red hair will be as bad as short nails, and if both these should be found, then it will be absolutely no use trying to get along with this subject. Auburn color decreases the intensity and makes the subject less likely to "fly off the handle." Blond hair will again reduce the ardor of the type and make it more phlegmatic, calm, and less excitable. Blond hair reduces the intensity of Martian qualities more than any other color, while black shows the vivacity and spontaneity of its qualities, and to a degree lights up the Martian fires in a subject. The hand as a whole will tell you of the mental, practical, or baser worlds which rule the subject. This observation of the whole hand is important with the Martian, for the reason that this is the first Mount type which has not a finger to guide us. 
 
 The Head line, together with the length of fingers and the general balance of the hand, must be used in connection with the individual phalanges of all four fingers. If the hand as a whole shows the mental world to rule, you will find that the first phalanx of the four fingers will correspond. Then note the Head line to see whether it is clear, well marked, and colored, and by this combination class your subject as a Martian ruled by the mental world. He will then develop his peculiar traits in the world of mind, and will be good as a lawyer, minister, debater, politician, and in kindred occupations. If the middle portion of the hand is best developed, it will show that the practical world is strong, and the subject will be a Martian business man, full of fight, push, and energy, not subject to discouragement, and consequently not likely to give up when hard pressed. These subjects are most successful in the business world, and more pronouncedly so if they are refined. If the lower third of the hand be best developed, then the animal desires, already strong in the subject, will take their lowest form and he will become vulgar in the extreme. Such an one commits crime to gratify his appetites. He may be successful in business, but he will be low in his tastes. Note the secondary Mounts, and which side of them is best developed, for this will tell what forces are behind the subject to drive his already strong qualities into action. These matters consider from the other Mounts, and the phalanges of the individual fingers. Pointed finger-tips with this type will tell you that idealism will rule, in which case your Martian will be much less practical and reliable, and apt to rush into ill-conceived ventures. Pointed tips are, however, not often found on strong Martians. Conic tips are often found, for the Martian is fond of beauty and of artistic things. 
 

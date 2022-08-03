@@ -5,9 +5,9 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
 image: "/covers/farming.jpg"
-linkb: "/research/indian/farming/"
+linkb: "/research/sarkar/farming/"
 linkbtext: "Index"
-linkf: "/research/indian/farming/"
+linkf: "/research/sarkar/farming/"
 linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
@@ -204,6 +204,10 @@ After that it does not need much care. The plant starts flowering after one mont
 
 Farakka, Rajmahal and Saheb Ganj. Wax gourd grows well if subterranean water is available, otherwise the  fields will have to be irrigated.
 
-Wax gourd is mostly grown along the banks of the Churni river in Ranaghat, but it may be planted along the banks of the rivers in Purulia district. Snakes congregate wherever wax gourd is cultivated extensively. To avoid this iishanmula should be grown because snakes are afraid of its smell. 
+Wax gourd is mostly grown along the banks of the Churni river in Ranaghat. 
+- But it may be planted along the banks of the rivers in Purulia district. 
 
-Serpents are also afraid of any copper salt, so they will not be found wherever there are deposits of this salt, as in Ghatshila and Mohabhandur (near Tata Nagar). Copper sulphate is poisonous for human beings.
+Snakes congregate wherever wax gourd is cultivated extensively. 
+- To avoid this, iishanmula should be grown because snakes are afraid of its smell. 
+- Snakes are also afraid of any copper salt, so they will not be found wherever there are deposits of this salt, as in Ghatshila and Mohabhandur (near Tata Nagar). 
+- Copper sulphate is poisonous for human beings.

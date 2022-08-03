@@ -89,7 +89,7 @@ one vote.
 Where reasoned opinions on a draft European legislative act's non-compliance with the principle of
 subsidiarity represent at least one third of all the votes allocated to the national Parliaments in
 accordance with the second paragraph, the draft must be reviewed. This threshold shall be a quarter
-in the case of a draft European legislative act submitted on the basis of Article III–264 of the
+in the case of a draft European legislative act submitted on the basis of Article 3–264 of the
 Constitution on the area of freedom, security and justice.
 
 After such review, the Commission or, where appropriate, the group of Member States, the European
@@ -99,7 +99,7 @@ draft. Reasons must be given for this decision.
 Article 8
 The Court of Justice of the European Union shall have jurisdiction in actions on grounds of
 infringement of the principle of subsidiarity by a European legislative act, brought in accordance with
-the rules laid down in Article III-365 of the Constitution by Member States, or notified by them in
+the rules laid down in Article 3-365 of the Constitution by Member States, or notified by them in
 accordance with their legal order on behalf of their national Parliament or a chamber of it.
 In accordance with the rules laid down in the said Article, the Committee of the Regions may also
 bring such actions against European legislative acts for the adoption of which the Constitution

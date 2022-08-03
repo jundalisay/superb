@@ -1,5 +1,5 @@
 TITLE 4: ASSOCIATION OF THE OVERSEAS COUNTRIES AND TERRITORIES
-Article III‑286
+Article 3‑286
 1. The non‑European countries and territories which have special relations with Denmark, France,
 the Netherlands and the United Kingdom shall be associated with the Union. These countries and
 territories, hereinafter called the ‘countries and territories’, are listed in Annex II.
@@ -15,7 +15,7 @@ countries and territories and to establish close economic relations between them
 Association shall serve primarily to further the interests and prosperity of the inhabitants of these
 countries and territories in order to lead them to the economic, social and cultural development to
 which they aspire.
-Article III-287
+Article 3-287
 Association shall have the following objectives:
 (a) Member States shall apply to their trade with the countries and territories the same treatment as
 they accord each other pursuant to the Constitution;
@@ -31,13 +31,13 @@ countries and territories;
 of nationals and companies or firms shall be regulated in accordance with the provisions of
 Subsection 2 of Section 2 of Chapter I of Title III relating to the freedom of establishment and
 under the procedures laid down in that Subsection, and on a non‑discriminatory basis, subject to
-any acts adopted pursuant to Article III‑291.
-Article III-288
+any acts adopted pursuant to Article 3‑291.
+Article 3-288
 1. Customs duties on imports into the Member States of goods originating in the countries and
 territories shall be prohibited in conformity with the prohibition of customs duties between
 Member States provided for in the Constitution.
 2. Customs duties on imports into each country or territory from Member States or from the other
-countries or territories shall be prohibited in accordance with Article III‑151(4).
+countries or territories shall be prohibited in accordance with Article 3‑151(4).
 3. The countries and territories may, however, levy customs duties which meet the needs of their
 development and industrialisation or produce revenue for their budgets.
 The duties referred to in the first subparagraph shall not exceed the level of those imposed on
@@ -53,17 +53,17 @@ international obligations by which they are bound, already apply a non‑discrim
 5. The introduction of or any change in customs duties imposed on goods imported into the
 countries and territories shall not, either in law or in fact, give rise to any direct or indirect
 discrimination between imports from the various Member States.
-Article III-289
+Article 3-289
 If the level of the duties applicable to goods from a third country on entry into a country or territory
-is liable, when Article III‑288(1) has been applied, to cause deflections of trade to the detriment of
+is liable, when Article 3‑288(1) has been applied, to cause deflections of trade to the detriment of
 any Member State, the latter may request the Commission to propose to the other Member States that
 they take the necessary measures to remedy the situation.
-Article III-290
+Article 3-290
 Subject to the provisions relating to public health, public security or public policy, freedom of
 movement within Member States for workers from the countries and territories, and within the
 countries and territories for workers from Member States, shall be regulated by acts adopted in
-accordance with Article III‑291.
-Article III-291
+accordance with Article 3‑291.
+Article 3-291
 The Council, on a proposal from the Commission, shall adopt unanimously, on the basis of the
 experience acquired under the association of the countries and territories with the Union, European
 laws, framework laws, regulations and decisions as regards the detailed rules and the procedure for
@@ -73,7 +73,7 @@ TITLE V
 THE UNION'S EXTERNAL ACTION
 CHAPTER I
 PROVISIONS HAVING GENERAL APPLICATION
-Article III-292
+Article 3-292
 1. The Union's action on the international scene shall be guided by the principles which have
 inspired its own creation, development and enlargement, and which it seeks to advance in the wider
 world: democracy, the rule of law, the universality and indivisibility of human rights and fundamental
@@ -113,8 +113,8 @@ this Title and the external aspects of its other policies.
 The Union shall ensure consistency between the different areas of its external action and between
 these and its other policies. The Council and the Commission, assisted by the Union Minister for
 Foreign Affairs, shall ensure that consistency and shall cooperate to that effect.
-Article III-293
-1. On the basis of the principles and objectives set out in Article III-292, the European Council
+Article 3-293
+1. On the basis of the principles and objectives set out in Article 3-292, the European Council
 shall identify the strategic interests and objectives of the Union.954393_TRAITE_EN_101_150
 12-01-2005
 14:22
@@ -135,7 +135,7 @@ CHAPTER II
 COMMON FOREIGN AND SECURITY POLICY
 SECTION 1
 COMMON PROVISIONS
-Article III-294
+Article 3-294
 1. In the context of the principles and objectives of its external action, the Union shall define and
 implement a common foreign and security policy covering all areas of foreign and security policy.
 2. The Member States shall support the common foreign and security policy actively and
@@ -159,7 +159,7 @@ Part III
 (iii) arrangements for the implementation of the European decisions referred to in points (i) and
 (ii);
 (c) strengthening systematic cooperation between Member States in the conduct of policy.
-Article III-295
+Article 3-295
 1. The European Council shall define the general guidelines for the common foreign and security
 policy, including for matters with defence implications.
 If international developments so require, the President of the European Council shall convene an
@@ -168,7 +168,7 @@ policy in the face of such developments.
 2. The Council shall adopt the European decisions necessary for defining and implementing the
 common foreign and security policy on the basis of the general guidelines and strategic lines defined
 by the European Council.
-Article III-296
+Article 3-296
 1. The Union Minister for Foreign Affairs, who shall chair the Foreign Affairs Council, shall
 contribute through his or her proposals towards the preparation of the common foreign and security
 policy and shall ensure implementation of the European decisions adopted by the European Council
@@ -185,7 +185,7 @@ services of the Member States. The organisation and functioning of the European 
 Service shall be established by a European decision of the Council. The Council shall act on a
 proposal from the Union Minister for Foreign Affairs after consulting the European Parliament and
 after obtaining the consent of the Commission.
-Article III-297
+Article 3-297
 1. Where the international situation requires operational action by the Union, the Council shall
 adopt the necessary European decisions. Such decisions shall lay down the objectives, the scope, the
 means to be made available to the Union, if necessary the duration, and the conditions for
@@ -213,18 +213,18 @@ The Member State concerned shall inform the Council immediately of any such meas
 Article, a Member State shall refer them to the Council which shall discuss them and seek appropriate
 solutions. Such solutions shall not run counter to the objectives of the action or impair its
 effectiveness.
-Article III-298
+Article 3-298
 The Council shall adopt European decisions which shall define the approach of the Union to a
 particular matter of a geographical or thematic nature. Member States shall ensure that their national
 policies conform to the positions of the Union.
-Article III-299
+Article 3-299
 1. Any Member State, the Union Minister for Foreign Affairs, or that Minister with the
 Commission's support, may refer any question relating to the common foreign and security policy to
 the Council and may submit to it initiatives or proposals as appropriate.
 2. In cases requiring a rapid decision, the Union Minister for Foreign Affairs, of the Minister's own
 motion or at the request of a Member State, shall convene an extraordinary meeting of the Council
 within forty-eight hours or, in an emergency, within a shorter period.
-Article III-300
+Article 3-300
 1. The European decisions referred to in this Chapter shall be adopted by the Council acting
 unanimously.
 When abstaining in a vote, any member of the Council may qualify its abstention by making a formal
@@ -243,14 +243,14 @@ Part III
 By way of derogation from paragraph 1, the Council shall act by a qualified majority:
 (a) when adopting European decisions defining a Union action or position on the basis of a
 European decision of the European Council relating to the Union's strategic interests and
-objectives, as referred to in Article III-293(1);
+objectives, as referred to in Article 3-293(1);
 (b) when adopting a European decision defining a Union action or position, on a proposal which the
 Union Minister for Foreign Affairs has presented following a specific request to him or her from
 the European Council, made on its own initiative or that of the Minister;
 (c) when adopting a European decision implementing a European decision defining a Union action
 or position;
 (d) when adopting a European decision concerning the appointment of a special representative in
-accordance with Article III-302.
+accordance with Article 3-302.
 If a member of the Council declares that, for vital and stated reasons of national policy, it intends to
 oppose the adoption of a European decision to be adopted by a qualified majority, a vote shall not be
 taken. The Union Minister for Foreign Affairs will, in close consultation with the Member State
@@ -262,14 +262,14 @@ decision stipulating that the Council shall act by a qualified majority in cases
 referred to in paragraph 2 of this Article.
 4.
 Paragraphs 2 and 3 shall not apply to decisions having military or defence implications.
-Article III-301
+Article 3-301
 1. When the European Council or the Council has defined a common approach of the Union
 within the meaning of Article I-40(5), the Union Minister for Foreign Affairs and the Ministers for
 Foreign Affairs of the Member States shall coordinate their activities within the Council.
 2. The diplomatic missions of the Member States and the Union delegations in third countries and
 at international organisations shall cooperate and shall contribute to formulating and implementing
 the common approach referred to in paragraph 1.
-Article III-302
+Article 3-302
 The Council may appoint, on a proposal from the Union Minister for Foreign Affairs, a special
 representative with a mandate in relation to particular policy issues. The special representative shall
 carry out his or her mandate under the Minister's authority.954393_TRAITE_EN_101_150
@@ -278,10 +278,10 @@ carry out his or her mandate under the Minister's authority.954393_TRAITE_EN_101
 Pagina 143
 Treaty establishing a Constitution for Europe
 143
-Article III-303
+Article 3-303
 The Union may conclude agreements with one or more States or international organisations in areas
 covered by this Chapter.
-Article III-304
+Article 3-304
 1. The Union Minister for Foreign Affairs shall consult and inform the European Parliament in
 accordance with Article I-40(8) and Article I-41(8). He or she shall ensure that the views of the
 European Parliament are duly taken into consideration. Special representatives may be involved in
@@ -290,7 +290,7 @@ briefing the European Parliament.
 Foreign Affairs or make recommendations to them. Twice a year it shall hold a debate on progress in
 implementing the common foreign and security policy, including the common security and defence
 policy.
-Article III-305
+Article 3-305
 1. Member States shall coordinate their action in international organisations and at international
 conferences. They shall uphold the Union's positions in such fora. The Union Minister for
 Foreign Affairs shall organise this coordination.
@@ -307,7 +307,7 @@ the United Nations Charter.
 When the Union has defined a position on a subject which is on the United Nations Security Council
 agenda, those Member States which sit on the Security Council shall request that the Union Minister
 for Foreign Affairs be asked to present the Union's position.
-Article III-306
+Article 3-306
 The diplomatic and consular missions of the Member States and the Union delegations in
 third countries and international conferences, and their representations to international organisa-
 tions, shall cooperate in ensuring that the European decisions defining Union positions and actions
@@ -320,9 +320,9 @@ Pagina 144
 Part III
 They shall contribute to the implementation of the right of European citizens to protection in the
 territory of third countries as referred to in Article I-10(2)(c) and the measures adopted pursuant to
-Article III-127.
-Article III-307
-1. Without prejudice to Article III-344, a Political and Security Committee shall monitor the
+Article 3-127.
+Article 3-307
+1. Without prejudice to Article 3-344, a Political and Security Committee shall monitor the
 international situation in the areas covered by the common foreign and security policy and
 contribute to the definition of policies by delivering opinions to the Council at the request of the
 latter, or of the Union Minister for Foreign Affairs, or on its own initiative. It shall also monitor the
@@ -330,11 +330,11 @@ implementation of agreed policies, without prejudice to the powers of the Union 
 Foreign Affairs.
 2. Within the scope of this Chapter, the Political and Security Committee shall exercise, under the
 responsibility of the Council and of the Union Minister for Foreign Affairs, the political control and
-strategic direction of the crisis management operations referred to in Article III-309.
+strategic direction of the crisis management operations referred to in Article 3-309.
 The Council may authorise the Committee, for the purpose and for the duration of a crisis
 management operation, as determined by the Council, to take the relevant measures concerning the
 political control and strategic direction of the operation.
-Article III-308
+Article 3-308
 The implementation of the common foreign and security policy shall not affect the application of the
 procedures and the extent of the powers of the institutions laid down by the Constitution for the
 exercise of the Union competences referred to in Articles I-13 to I-15 and I-17.
@@ -343,7 +343,7 @@ the procedures and the extent of the powers of the institutions laid down by the
 exercise of the Union competences under this Chapter.
 SECTION 2
 THE COMMON SECURITY AND DEFENCE POLICY
-Article III-309
+Article 3-309
 1. The tasks referred to in Article I-41(1), in the course of which the Union may use civilian and
 military means, shall include joint disarmament operations, humanitarian and rescue tasks, military
 advice and assistance tasks, conflict prevention and peace-keeping tasks, tasks of combat forces in
@@ -360,8 +360,8 @@ defining their objectives and scope and the general conditions for their impleme
 Union Minister for Foreign Affairs, acting under the authority of the Council and in close and
 constant contact with the Political and Security Committee, shall ensure coordination of the civilian
 and military aspects of such tasks.
-Article III-310
-1. Within the framework of the European decisions adopted in accordance with Article III-309, the
+Article 3-310
+1. Within the framework of the European decisions adopted in accordance with Article 3-309, the
 Council may entrust the implementation of a task to a group of Member States which are willing and
 have the necessary capability for such a task. Those Member States, in association with the
 Union Minister for Foreign Affairs, shall agree among themselves on the management of the task.
@@ -370,7 +370,7 @@ on their own initiative or at the request of another Member State. Those States 
 Council immediately should the completion of the task entail major consequences or require
 amendment of the objective, scope and conditions determined for the task in the European decisions
 referred to in paragraph 1. In such cases, the Council shall adopt the necessary European decisions.
-Article III-311
+Article 3-311
 1. The Agency in the field of defence capabilities development, research, acquisition and armaments
 (European Defence Agency), established by Article I-41(3) and subject to the authority of the Council,
 shall have as its task to:
@@ -397,7 +397,7 @@ seat and operational rules. That decision should take account of the level of ef
 the Agency's activities. Specific groups shall be set up within the Agency bringing together
 Member States engaged in joint projects. The Agency shall carry out its tasks in liaison with the
 Commission where necessary.
-Article III-312
+Article 3-312
 1. Those Member States which wish to participate in the permanent structured cooperation referred
 to in Article I-41(6), which fulfil the criteria and have made the commitments on military capabilities
 set out in the Protocol on permanent structured cooperation shall notify their intention to the
@@ -444,7 +444,7 @@ adopted by unanimity. For the purposes of this paragraph, unanimity shall be con
 votes of the representatives of the participating Member States only.
 SECTION 3
 FINANCIAL PROVISIONS
-Article III-313
+Article 3-313
 1. Administrative expenditure which the implementation of this Chapter entails for the institutions
 shall be charged to the Union budget.
 2. Operating expenditure to which the implementation of this Chapter gives rise shall also be
@@ -453,14 +453,14 @@ defence implications and cases where the Council decides otherwise.
 In cases where expenditure is not charged to the Union budget it shall be charged to the
 Member States in accordance with the gross national product scale, unless the Council decides
 otherwise. As for expenditure arising from operations having military or defence implications,
-Member States whose representatives in the Council have made a formal declaration under Article III-
+Member States whose representatives in the Council have made a formal declaration under Article 3-
 300(1), second subparagraph, shall not be obliged to contribute to the financing thereof.
 3. The Council shall adopt a European decision establishing the specific procedures for
 guaranteeing rapid access to appropriations in the Union budget for urgent financing of initiatives
 in the framework of the common foreign and security policy, and in particular for preparatory
-activities for the tasks referred to in Article I-41(1) and Article III-309. It shall act after consulting the
+activities for the tasks referred to in Article I-41(1) and Article 3-309. It shall act after consulting the
 European Parliament.
-Preparatory activities for the tasks referred to in Article I-41(1) and Article III-309 which are not
+Preparatory activities for the tasks referred to in Article I-41(1) and Article 3-309 which are not
 charged to the Union budget shall be financed by a start-up fund made up of Member States'
 contributions.
 The Council shall adopt by a qualified majority, on a proposal from the Union Minister for
@@ -474,18 +474,18 @@ to the fund;
 Pagina 148
 148
 Part III
-When the task planned in accordance with Article I-41(1) and Article III-309 cannot be charged to
+When the task planned in accordance with Article I-41(1) and Article 3-309 cannot be charged to
 the Union budget, the Council shall authorise the Union Minister for Foreign Affairs to use the fund.
 The Union Minister for Foreign Affairs shall report to the Council on the implementation of this
 remit.
 CHAPTER III
 COMMON COMMERCIAL POLICY
-Article III-314
-By establishing a customs union in accordance with Article III-151, the Union shall contribute, in the
+Article 3-314
+By establishing a customs union in accordance with Article 3-151, the Union shall contribute, in the
 common interest, to the harmonious development of world trade, the progressive abolition of
 restrictions on international trade and on foreign direct investment, and the lowering of customs and
 other barriers.
-Article III-315
+Article 3-315
 1. The common commercial policy shall be based on uniform principles, particularly with regard to
 changes in tariff rates, the conclusion of tariff and trade agreements relating to trade in goods and
 services, and the commercial aspects of intellectual property, foreign direct investment, the
@@ -495,7 +495,7 @@ be conducted in the context of the principles and objectives of the Union's exte
 2. European laws shall establish the measures defining the framework for implementing the
 common commercial policy.
 3. Where agreements with one or more third countries or international organisations need to be
-negotiated and concluded, Article III-325 shall apply, subject to the special provisions of this Article.
+negotiated and concluded, Article 3-325 shall apply, subject to the special provisions of this Article.
 The Commission shall make recommendations to the Council, which shall authorise it to open the
 necessary negotiations. The Council and the Commission shall be responsible for ensuring that the
 agreements negotiated are compatible with internal Union policies and rules.
@@ -521,7 +521,7 @@ the Union's cultural and linguistic diversity;
 disturbing the national organisation of such services and prejudicing the responsibility of
 Member States to deliver them.
 5. The negotiation and conclusion of international agreements in the field of transport shall be
-subject to Section 7 of Chapter III of Title III and to Article III-325.
+subject to Section 7 of Chapter III of Title III and to Article 3-325.
 6. The exercise of the competences conferred by this Article in the field of the common
 commercial policy shall not affect the delimitation of competences between the Union and the
 Member States, and shall not lead to harmonisation of legislative or regulatory provisions of the
@@ -531,7 +531,7 @@ COOPERATION WITH THIRD COUNTRIES
 AND HUMANITARIAN AID
 SECTION 1
 DEVELOPMENT COOPERATION
-Article III-316
+Article 3-316
 1. Union policy in the field of development cooperation shall be conducted within the framework
 of the principles and objectives of the Union's external action. The Union's development cooperation
 policy and that of the Member States shall complement and reinforce each other.
@@ -541,7 +541,7 @@ cooperation in the policies that it implements which are likely to affect develo
 2. The Union and the Member States shall comply with the commitments and take account of the
 objectives they have approved in the context of the United Nations and other competent
 international organisations.
-Article III-317
+Article 3-317
 1. European laws or framework laws shall establish the measures necessary for the implementation
 of development cooperation policy, which may relate to multiannual cooperation programmes with
 developing countries or programmes with a thematic approach.954393_TRAITE_EN_101_150
@@ -556,7 +556,7 @@ The first subparagraph shall be without prejudice to Member States' competence t
 international bodies and to conclude agreements.
 3. The European Investment Bank shall contribute, under the terms laid down in its Statute, to the
 implementation of the measures referred to in paragraph 1.
-Article III-318
+Article 3-318
 1. In order to promote the complementarity and efficiency of their action, the Union and the
 Member States shall coordinate their policies on development cooperation and shall consult each
 other on their aid programmes, including in international organisations and during international
@@ -569,7 +569,7 @@ with third countries and the competent international organisations.
 SECTION 2
 ECONOMIC, FINANCIAL AND TECHNICAL COOPERATION
 WITH THIRD COUNTRIES
-Article III-319
+Article 3-319
 1. Without prejudice to the other provisions of the Constitution, and in particular Articles III-316
 to III-318, the Union shall carry out economic, financial and technical cooperation measures,
 including assistance, in particular financial assistance, with third countries other than developing
@@ -588,12 +588,12 @@ international bodies and to conclude agreements.954393_TRAITE_EN_151_200
 Pagina 151
 Treaty establishing a Constitution for Europe
 151
-Article III-320
+Article 3-320
 When the situation in a third country requires urgent financial assistance from the Union, the
 Council shall adopt the necessary European decisions on a proposal from the Commission.
 SECTION 3
 HUMANITARIAN AID
-Article III-321
+Article 3-321
 1. The Union's operations in the field of humanitarian aid shall be conducted within the framework
 of the principles and objectives of the external action of the Union. Such operations shall be intended
 to provide ad hoc assistance and relief and protection for people in third countries who are victims of
@@ -605,7 +605,7 @@ international law and with the principles of impartiality, neutrality and non-di
 3. European laws or framework laws shall establish the measures defining the framework within
 which the Union's humanitarian aid operations shall be implemented.
 4. The Union may conclude with third countries and competent international organisations any
-agreement helping to achieve the objectives referred to in paragraph 1 and in Article III-292.
+agreement helping to achieve the objectives referred to in paragraph 1 and in Article 3-292.
 The first subparagraph shall be without prejudice to Member States' competence to negotiate in
 international bodies and to conclude agreements.
 5. In order to establish a framework for joint contributions from young Europeans to the
@@ -624,7 +624,7 @@ Pagina 152
 Part III
 CHAPTER V
 RESTRICTIVE MEASURES
-Article III-322
+Article 3-322
 1. Where a European decision, adopted in accordance with Chapter II, provides for the interruption
 or reduction, in part or completely, of economic and financial relations with one or more third
 countries, the Council, acting by a qualified majority on a joint proposal from the Union Minister for
@@ -637,7 +637,7 @@ persons and groups or non-State entities.
 The acts referred to in this Article shall include necessary provisions on legal safeguards.
 CHAPTER VI
 INTERNATIONAL AGREEMENTS
-Article III-323
+Article 3-323
 1. The Union may conclude an agreement with one or more third countries or international
 organisations where the Constitution so provides or where the conclusion of an agreement is
 necessary in order to achieve, within the framework of the Union's policies, one of the objectives
@@ -645,12 +645,12 @@ referred to in the Constitution, or is provided for in a legally binding Union a
 common rules or alter their scope.
 2. Agreements concluded by the Union are binding on the institutions of the Union and on its
 Member States.
-Article III-324
+Article 3-324
 The Union may conclude an association agreement with one or more third countries or international
 organisations in order to establish an association involving reciprocal rights and obligations,
 common actions and special procedures.
-Article III-325
-1. Without prejudice to the specific provisions laid down in Article III-315, agreements between the
+Article 3-325
+1. Without prejudice to the specific provisions laid down in Article 3-315, agreements between the
 Union and third countries or international organisations shall be negotiated and concluded in
 accordance with the following procedure.
 2. The Council shall authorise the opening of negotiations, adopt negotiating directives, authorise
@@ -700,7 +700,7 @@ Part III
 The Council shall act by a qualified majority throughout the procedure.
 However, it shall act unanimously when the agreement covers a field for which unanimity is required
 for the adoption of a Union act as well as for association agreements and the agreements referred to
-in Article III-319 with the States which are candidates for accession.
+in Article 3-319 with the States which are candidates for accession.
 9. The Council, on a proposal from the Commission or the Union Minister for Foreign Affairs, shall
 adopt a European decision suspending application of an agreement and establishing the positions to
 be adopted on the Union's behalf in a body set up by an agreement, when that body is called upon to
@@ -712,8 +712,8 @@ The European Parliament shall be immediately and fully informed at all stages of
 opinion of the Court of Justice as to whether an agreement envisaged is compatible with the
 Constitution. Where the opinion of the Court of Justice is adverse, the agreement envisaged may not
 enter into force unless it is amended or the Constitution is revised.
-Article III-326
-1. By way of derogation from Article III-325, the Council, either on a recommendation from the
+Article 3-326
+1. By way of derogation from Article 3-325, the Council, either on a recommendation from the
 European Central Bank or on a recommendation from the Commission and after consulting the
 European Central Bank, in an endeavour to reach a consensus consistent with the objective of price
 stability, may conclude formal agreements on an exchange-rate system for the euro in relation to the
@@ -730,7 +730,7 @@ Central Bank or on a recommendation from the Commission and after consulting the
 Central Bank, may formulate general orientations for exchange-rate policy in relation to these
 currencies. These general orientations shall be without prejudice to the primary objective of the
 European System of Central Banks, to maintain price stability.
-3. By way of derogation from Article III-325, where agreements on matters relating to the
+3. By way of derogation from Article 3-325, where agreements on matters relating to the
 monetary or exchange-rate system are to be the subject of negotiations between the Union and one
 or more third States or international organisations, the Council, acting on a recommendation from
 the Commission and after consulting the European Central Bank, shall decide the arrangements for
@@ -746,7 +746,7 @@ monetary union, Member States may negotiate in international bodies and conclude
 CHAPTER VII
 THE UNION'S RELATIONS WITH INTERNATIONAL
 ORGANISATIONS AND THIRD COUNTRIES AND UNION DELEGATIONS
-Article III-327
+Article 3-327
 1. The Union shall establish all appropriate forms of cooperation with the organs of the
 United Nations and its specialised agencies, the Council of Europe, the Organisation for Security and
 Cooperation in Europe and the Organisation for Economic Cooperation and Development.
@@ -754,23 +754,23 @@ The Union shall also maintain such relations as are appropriate with other inter
 organisations.
 2. The Union Minister for Foreign Affairs and the Commission shall be instructed to implement this
 Article.
-Article III-328
+Article 3-328
 1.
 Union delegations in third countries and at international organisations shall represent the Union.
 2. Union delegations shall be placed under the authority of the Union Minister for Foreign Affairs.
 They shall act in close cooperation with Member States' diplomatic and consular missions.
 CHAPTER VIII
 IMPLEMENTATION OF THE SOLIDARITY CLAUSE
-Article III-329
+Article 3-329
 1. Should a Member State be the object of a terrorist attack or the victim of a natural or man-made
 disaster, the other Member States shall assist it at the request of its political authorities. To that end,
 the Member States shall coordinate between themselves in the Council.
 2. The arrangements for the implementation by the Union of the solidarity clause referred to in
 Article I-43 shall be defined by a European decision adopted by the Council acting on a joint
 proposal by the Commission and the Union Minister for Foreign Affairs. The Council shall act in
-accordance with Article III-300(1) where this decision has defence implications. The European
+accordance with Article 3-300(1) where this decision has defence implications. The European
 Parliament shall be informed.
-For the purposes of this paragraph and without prejudice to Article III-344, the Council shall be
+For the purposes of this paragraph and without prejudice to Article 3-344, the Council shall be
 assisted by the Political and Security Committee with the support of the structures developed in the
 context of the common security and defence policy and by the Committee referred to in Article954393_TRAITE_EN_151_200
 12-01-2005
@@ -789,7 +789,7 @@ SECTION 1
 THE INSTITUTIONS
 Subsection 1
 The European Parliament
-Article III-330
+Article 3-330
 1. A European law or framework law of the Council shall establish the necessary measures for the
 election of the Members of the European Parliament by direct universal suffrage in accordance with a
 uniform procedure in all Member States or in accordance with principles common to all Member
@@ -803,7 +803,7 @@ conditions governing the performance of the duties of its Members. The European 
 act on its own initiative after seeking an opinion from the Commission and after obtaining the
 consent of the Council. The Council shall act unanimously on all rules or conditions relating to the
 taxation of Members or former Members.
-Article III-331
+Article 3-331
 European laws shall lay down the regulations governing the political parties at European level
 referred to in Article I-46(4), and in particular the rules regarding their funding.954393_TRAITE_EN_151_200
 12-01-2005
@@ -811,12 +811,12 @@ referred to in Article I-46(4), and in particular the rules regarding their fund
 Pagina 157
 Treaty establishing a Constitution for Europe
 157
-Article III-332
+Article 3-332
 The European Parliament may, by a majority of its component Members, request the Commission to
 submit any appropriate proposal on matters on which it considers that a Union act is required for the
 purpose of implementing the Constitution. If the Commission does not submit a proposal, it shall
 inform the European Parliament of the reasons.
-Article III-333
+Article 3-333
 In the course of its duties, the European Parliament may, at the request of a quarter of its component
 Members, set up a temporary Committee of Inquiry to investigate, without prejudice to the powers
 conferred by the Constitution on other institutions or bodies, alleged contraventions or
@@ -826,12 +826,12 @@ The temporary Committee of Inquiry shall cease to exist on submission of its rep
 A European law of the European Parliament shall lay down the detailed provisions governing the
 exercise of the right of inquiry. The European Parliament shall act on its own initiative after obtaining
 the consent of the Council and of the Commission.
-Article III-334
+Article 3-334
 In accordance with Article I-10(2)(d), any citizen of the Union, and any natural or legal person
 residing or having its registered office in a Member State, shall have the right to address, individually
 or in association with other persons, a petition to the European Parliament on a matter which comes
 within the Union's fields of activity and which affects him, her or it directly.
-Article III-335
+Article 3-335
 1. The European Parliament shall elect a European Ombudsman. In accordance with Articles I-10
 (2)(d) and I-49, he or she shall be empowered to receive complaints from any citizen of the Union or
 any natural or legal person residing or having its registered office in a Member State concerning
@@ -866,12 +866,12 @@ other occupation, whether gainful or not.
 conditions governing the performance of the Ombudsman's duties. The European Parliament shall
 act on its own initiative after seeking an opinion from the Commission and after obtaining the
 consent of the Council.
-Article III-336
+Article 3-336
 The European Parliament shall hold an annual session. It shall meet, without requiring to be
 convened, on the second Tuesday in March.
 The European Parliament may meet in extraordinary part-session at the request of a majority of its
 component members or at the request of the Council or of the Commission.
-Article III-337
+Article 3-337
 1. The European Council and the Council shall be heard by the European Parliament in accordance
 with the conditions laid down in the Rules of Procedure of the European Council and those of the
 Council.
@@ -880,10 +880,10 @@ request, be heard. It shall reply orally or in writing to questions put to it by
 or by its members.
 3. The European Parliament shall discuss in open session the annual general report submitted to it
 by the Commission.
-Article III-338
+Article 3-338
 Save as otherwise provided in the Constitution, the European Parliament shall act by a majority of the
 votes cast. Its Rules of Procedure shall determine the quorum.
-Article III-339
+Article 3-339
 The European Parliament shall adopt its Rules of Procedure, by a majority of its component
 members.
 The proceedings of the European Parliament shall be published in the manner laid down in the
@@ -893,7 +893,7 @@ Constitution and the Rules of Procedure of the European Parliament.954393_TRAITE
 Pagina 159
 Treaty establishing a Constitution for Europe
 159
-Article III-340
+Article 3-340
 If a motion of censure on the activities of the Commission is tabled before it, the
 European Parliament shall not vote thereon until at least three days after the motion has
 been tabled and shall do so only by open vote.
@@ -906,7 +906,7 @@ members of the Commission appointed to replace them shall expire on the date on 
 office of the members of the Commission obliged to resign as a body would have expired.
 Subsection 2
 The European Council
-Article III-341
+Article 3-341
 1. Where a vote is taken, any member of the European Council may also act on behalf of not more
 than one other member.
 Abstentions by members present in person or represented shall not prevent the adoption by the
@@ -919,10 +919,10 @@ adoption of its Rules of Procedure.
 The European Council shall be assisted by the General Secretariat of the Council.
 Subsection 3
 The Council of Ministers
-Article III-342
+Article 3-342
 The Council shall meet when convened by its President on his or her own initiative, or at the request
 of one of its members or of the Commission.
-Article III-343
+Article 3-343
 1. Where a vote is taken, any member of the Council may act on behalf of not more than one other
 member.
 2. Where it is required to act by a simple majority, the Council shall act by a majority of its
@@ -934,7 +934,7 @@ Pagina 160
 Part III
 3. Abstentions by members present in person or represented shall not prevent the adoption by the
 Council of acts which require unanimity.
-Article III-344
+Article 3-344
 1. A committee consisting of the Permanent Representatives of the Governments of the Member
 States shall be responsible for preparing the work of the Council and for carrying out the tasks
 assigned to it by the latter. The Committee may adopt procedural decisions in cases provided for in
@@ -944,17 +944,17 @@ General appointed by the Council .
 The Council shall decide on the organisation of the General Secretariat by a simple majority.
 3. The Council shall act by a simple majority regarding procedural matters and for the adoption of
 its Rules of Procedure.
-Article III-345
+Article 3-345
 The Council, by a simple majority, may request the Commission to undertake any studies the Council
 considers desirable for the attainment of the common objectives, and to submit any appropriate
 proposals to it. If the Commission does not submit a proposal, it shall inform the Council of the
 reasons.
-Article III-346
+Article 3-346
 The Council shall adopt European decisions laying down the rules governing the committees
 provided for in the Constitution. It shall act by a simple majority after consulting the Commission.
 Subsection 4
 The European Commission
-Article III-347
+Article 3-347
 The members of the Commission shall refrain from any action incompatible with their duties.
 Member States shall respect their independence and shall not seek to influence them in the
 performance of their tasks.
@@ -965,14 +965,14 @@ therefrom and in particular their duty to behave with integrity and discretion a
 acceptance, after they have ceased to hold office, of certain appointments or benefits. In the event of
 any breach of these obligations, the Court of Justice may, on application by the Council, acting by a
 simple majority, or the Commission, rule that the person concerned be, according to the
-circumstances, either compulsorily retired in accordance with Article III-349 or deprived of his or her
+circumstances, either compulsorily retired in accordance with Article 3-349 or deprived of his or her
 right to a pension or other benefits in its stead.954393_TRAITE_EN_151_200
 12-01-2005
 14:41
 Pagina 161
 Treaty establishing a Constitution for Europe
 161
-Article III-348
+Article 3-348
 1. Apart from normal replacement, or death, the duties of a member of the Commission shall end
 when he or she resigns or is compulsorily retired.
 2. A vacancy caused by resignation, compulsory retirement or death shall be filled for the
@@ -990,21 +990,21 @@ Affairs shall be replaced, for the remainder of his or her term of office, in ac
 5. In the case of the resignation of all the members of the Commission, they shall remain in office
 and continue to deal with current business until they have been replaced, for the remainder of their
 term of office, in accordance with Articles I-26 and I-27.
-Article III-349
+Article 3-349
 If any member of the Commission no longer fulfils the conditions required for the performance of
 his or her duties or if he or she has been guilty of serious misconduct, the Court of Justice may, on
 application by the Council, acting by a simple majority, or by the Commission, compulsorily retire
 him or her.
-Article III-350
+Article 3-350
 Without prejudice to Article I-28(4), the responsibilities incumbent upon the Commission shall be
 structured and allocated among its members by its President, in accordance with Article I-27(3). The
 President may reshuffle the allocation of those responsibilities during the Commission's term of
 office. The members of the Commission shall carry out the duties devolved upon them by the
 President under his or her authority.
-Article III-351
+Article 3-351
 The Commission shall act by a majority of its members. Its Rules of Procedure shall determine the
 quorum.
-Article III-352
+Article 3-352
 1. The Commission shall adopt its Rules of Procedure so as to ensure both its own operation and
 that of its departments. It shall ensure that these rules are published.954393_TRAITE_EN_151_200
 12-01-2005
@@ -1016,22 +1016,22 @@ Part III
 session of the European Parliament, a general report on the activities of the Union.
 Subsection 5
 The Court of Justice of the European Union
-Article III-353
+Article 3-353
 The Court of Justice shall sit in chambers, as a Grand Chamber or as a full Court, in accordance with
 the Statute of the Court of Justice of the European Union.
-Article III-354
+Article 3-354
 The Court of Justice shall be assisted by eight Advocates-General. Should the Court of Justice so
 request, the Council may, acting unanimously, adopt a European decision to increase the number of
 Advocates-General.
 It shall be the duty of the Advocate-General, acting with complete impartiality and independence, to
 make, in open court, reasoned submissions on cases which, in accordance with the Statute of the
 Court of Justice of the European Union, require his or her involvement.
-Article III-355
+Article 3-355
 The Judges and Advocates-General of the Court of Justice shall be chosen from persons whose
 independence is beyond doubt and who possess the qualifications required for appointment to the
 highest judicial offices in their respective countries or who are jurisconsults of recognised
 competence; they shall be appointed by common accord of the governments of the Member States
-after consultation of the panel provided for in Article III-357.
+after consultation of the panel provided for in Article 3-357.
 Every three years there shall be a partial replacement of the Judges and Advocates-General, in
 accordance with the conditions laid down in the Statute of the Court of Justice of the European
 Union.
@@ -1039,14 +1039,14 @@ The Judges shall elect the President of the Court of Justice from among their nu
 three years. He or she may be re-elected.
 The Court of Justice shall adopt its Rules of Procedure. Those Rules shall require the consent of the
 Council.
-Article III-356
+Article 3-356
 The number of Judges of the General Court shall be determined by the Statute of the Court of Justice
 of the European Union. The Statute may provide for the General Court to be assisted by Advocates-
 General.
 The members of the General Court shall be chosen from persons whose independence is beyond
 doubt and who possess the ability required for appointment to high judicial office. They shall be
 appointed by common accord of the governments of the Member States after consultation of the
-panel provided for in Article III-357.954393_TRAITE_EN_151_200
+panel provided for in Article 3-357.954393_TRAITE_EN_151_200
 12-01-2005
 14:41
 Pagina 163
@@ -1059,7 +1059,7 @@ The General Court shall establish its Rules of Procedure in agreement with the C
 Rules shall be subject to the consent of the Council.
 Unless the Statute provides otherwise, the provisions of the Constitution relating to the Court of
 Justice shall apply to the General Court.
-Article III-357
+Article 3-357
 A panel shall be set up in order to give an opinion on candidates' suitability to perform the duties
 of Judge and Advocate-General of the Court of Justice and the General Court before the governments
 of the Member States make the appointments referred to in Articles III-355 and III-356.
@@ -1068,10 +1068,10 @@ and the General Court, members of national supreme courts and lawyers of recogni
 one of whom shall be proposed by the European Parliament. The Council shall adopt a European
 decision establishing the panel's operating rules and a European decision appointing its members. It
 shall act on the initiative of the President of the Court of Justice.
-Article III-358
+Article 3-358
 1. The General Court shall have jurisdiction to hear and determine at first instance actions or
 proceedings referred to in Articles III-365, III-367, III-370, III-372 and III-374, with the exception of
-those assigned to a specialised court set up under Article III-359 and those reserved in the Statute of
+those assigned to a specialised court set up under Article 3-359 and those reserved in the Statute of
 the Court of Justice of the European Union for the Court of Justice. The Statute may provide for the
 General Court to have jurisdiction for other classes of action or proceeding.
 Decisions given by the General Court under this paragraph may be subject to a right of appeal to the
@@ -1084,7 +1084,7 @@ the Court of Justice, under the conditions and within the limits laid down by th
 of Justice of the European Union, where there is a serious risk of the unity or consistency of Union
 law being affected.
 3. The General Court shall have jurisdiction to hear and determine questions referred for a
-preliminary ruling under Article III-369, in specific areas laid down by the Statute of the Court of
+preliminary ruling under Article 3-369, in specific areas laid down by the Statute of the Court of
 Justice of the European Union.
 Where the General Court considers that the case requires a decision of principle likely to affect the
 unity or consistency of Union law, it may refer the case to the Court of Justice for a ruling.954393_TRAITE_EN_151_200
@@ -1097,7 +1097,7 @@ Decisions given by the General Court on questions referred for a preliminary rul
 exceptionally be subject to review by the Court of Justice, under the conditions and within the limits
 laid down by the Statute, where there is a serious risk of the unity or consistency of Union law being
 affected.
-Article III-359
+Article 3-359
 1. European laws may establish specialised courts attached to the General Court to hear and
 determine at first instance certain classes of action or proceeding brought in specific areas. They shall
 be adopted either on a proposal from the Commission after consultation of the Court of Justice or at
@@ -1116,13 +1116,13 @@ Justice. Those Rules shall require the consent of the Council.
 the Constitution relating to the Court of Justice of the European Union and the provisions of the
 Statute of the Court of Justice of the European Union shall apply to the specialised courts. Title I of
 the Statute and Article 64 thereof shall in any case apply to the specialised courts.
-Article III-360
+Article 3-360
 If the Commission considers that a Member State has failed to fulfil an obligation under the
 Constitution, it shall deliver a reasoned opinion on the matter after giving the State concerned the
 opportunity to submit its observations.
 If the State concerned does not comply with the opinion within the period laid down by the
 Commission, the latter may bring the matter before the Court of Justice of the European Union.
-Article III-361
+Article 3-361
 A Member State which considers that another Member State has failed to fulfil an obligation under
 the Constitution may bring the matter before the Court of Justice of the European Union.
 Before a Member State brings an action against another Member State for an alleged infringement of
@@ -1138,7 +1138,7 @@ in writing.
 If the Commission has not delivered an opinion within three months of the date on which the matter
 was brought before it, the absence of such opinion shall not prevent the matter from being brought
 before the Court.
-Article III-362
+Article 3-362
 1. If the Court of Justice of the European Union finds that a Member State has failed to fulfil an
 obligation under the Constitution, that State shall be required to take the necessary measures to
 comply with the judgment of the Court.
@@ -1149,24 +1149,24 @@ observations. It shall specify the amount of the lump sum or penalty payment to 
 Member State concerned which it considers appropriate in the circumstances.
 If the Court finds that the Member State concerned has not complied with its judgment it may
 impose a lump sum or penalty payment on it.
-This procedure shall be without prejudice to Article III-361.
+This procedure shall be without prejudice to Article 3-361.
 3. When the Commission brings a case before the Court of Justice of the European Union pursuant
-to Article III-360 on the grounds that the Member State concerned has failed to fulfil its obligation to
+to Article 3-360 on the grounds that the Member State concerned has failed to fulfil its obligation to
 notify measures transposing a European framework law, it may, when it deems appropriate, specify
 the amount of the lump sum or penalty payment to be paid by the Member State concerned which it
 considers appropriate in the circumstances.
 If the Court finds that there is an infringement it may impose a lump sum or penalty payment on the
 Member State concerned not exceeding the amount specified by the Commission. The payment
 obligation shall take effect on the date set by the Court in its judgment.
-Article III-363
+Article 3-363
 European laws and regulations of the Council may give the Court of Justice of the European Union
 unlimited jurisdiction with regard to the penalties provided for in them.
-Article III-364
+Article 3-364
 Without prejudice to the other provisions of the Constitution, a European law may confer on the
 Court of Justice of the European Union, to the extent that it shall determine, jurisdiction in disputes
 relating to the application of acts adopted on the basis of the Constitution which create European
 intellectual property rights.
-Article III-365
+Article 3-365
 1. The Court of Justice of the European Union shall review the legality of European laws and
 framework laws, of acts of the Council, of the Commission and of the European Central Bank, other
 than recommendations and opinions, and of acts of the European Parliament and of the European954393_TRAITE_EN_151_200
@@ -1194,12 +1194,12 @@ offices or agencies intended to produce legal effects in relation to them.
 6. The proceedings provided for in this Article shall be instituted within two months of the
 publication of the act, or of its notification to the plaintiff, or, in the absence thereof, of the day on
 which it came to the plaintiff's knowledge, as the case may be.
-Article III-366
+Article 3-366
 If the action is well founded, the Court of Justice of the European Union shall declare the act
 concerned to be void.
 However, the Court shall, if it considers this necessary, state which of the effects of the act which it
 has declared void shall be considered as definitive.
-Article III-367
+Article 3-367
 Should the European Parliament, the European Council, the Council, the Commission or the
 European Central Bank, in infringement of the Constitution, fail to act, the Member States and the
 other institutions of the Union may bring an action before the Court of Justice of the European
@@ -1217,13 +1217,13 @@ Treaty establishing a Constitution for Europe
 Any natural or legal person may, under the conditions laid down in the first and second paragraphs,
 complain to the Court that an institution, body, office or agency of the Union has failed to address to
 that person any act other than a recommendation or an opinion.
-Article III-368
+Article 3-368
 The institution, body, office or agency whose act has been declared void, or whose failure to act has
 been declared contrary to the Constitution, shall be required to take the necessary measures to
 comply with the judgment of the Court of Justice of the European Union.
 This obligation shall not affect any obligation which may result from the application of the second
-paragraph of Article III-431.
-Article III-369
+paragraph of Article 3-431.
+Article 3-369
 The Court of Justice of the European Union shall have jurisdiction to give preliminary rulings
 concerning:
 a) the interpretation of the Constitution;
@@ -1237,10 +1237,10 @@ against whose decisions there is no judicial remedy under national law, that cou
 bring the matter before the Court.
 If such a question is raised in a case pending before a court or tribunal of a Member State with regard
 to a person in custody, the Court shall act with the minimum of delay.
-Article III-370
+Article 3-370
 The Court of Justice of the European Union shall have jurisdiction in disputes relating to
-compensation for damage provided for in the second and third paragraphs of Article III-431.
-Article III-371
+compensation for damage provided for in the second and third paragraphs of Article 3-431.
+Article 3-371
 The Court of Justice shall have jurisdiction to decide on the legality of an act adopted by the European
 Council or by the Council pursuant to Article I-59 solely at the request of the Member State
 concerned by a determination of the European Council or of the Council and in respect solely of the
@@ -1252,35 +1252,35 @@ rule within one month from the date of the request.954393_TRAITE_EN_151_200
 Pagina 168
 168
 Part III
-Article III-372
+Article 3-372
 The Court of Justice of the European Union shall have jurisdiction in any dispute between the Union
 and its servants within the limits and under the conditions laid down in the Staff Regulations of
 Officials and the Conditions of Employment of other servants of the Union.
-Article III-373
+Article 3-373
 The Court of Justice of the European Union shall, within the limits hereinafter laid down, have
 jurisdiction in disputes concerning:
 (a) the fulfilment by Member States of obligations under the Statute of the European Investment
 Bank. In this connection, the Board of Directors of the Bank shall enjoy the powers conferred
-upon the Commission by Article III-360;
+upon the Commission by Article 3-360;
 (b) measures adopted by the Board of Governors of the European Investment Bank. In this
 connection, any Member State, the Commission or the Board of Directors of the Bank may
-institute proceedings under the conditions laid down in Article III-365;
+institute proceedings under the conditions laid down in Article 3-365;
 (c) measures adopted by the Board of Directors of the European Investment Bank. Proceedings
 against such measures may be instituted only by Member States or by the Commission, under the
-conditions laid down in Article III-365, and solely on the grounds of non-compliance with the
+conditions laid down in Article 3-365, and solely on the grounds of non-compliance with the
 procedure provided for in Article 19(2), (5), (6) and (7) of the Statute of the Bank;
 (d) the fulfilment by national central banks of obligations under the Constitution and the Statute of
 the European System of Central Banks and of the European Central Bank. In this connection, the
 powers of the Governing Council of the European Central Bank in respect of national central
 banks shall be the same as those conferred upon the Commission in respect of Member States by
-Article III-360. If the Court of Justice of the European Union finds that a national central bank
+Article 3-360. If the Court of Justice of the European Union finds that a national central bank
 has failed to fulfil an obligation under the Constitution, that bank shall be required to take the
 necessary measures to comply with the judgment of the Court.
-Article III-374
+Article 3-374
 The Court of Justice of the European Union shall have jurisdiction to give judgment pursuant to any
 arbitration clause contained in a contract concluded by or on behalf of the Union, whether that
 contract be governed by public or private law.
-Article III-375
+Article 3-375
 1. Save where jurisdiction is conferred on the Court of Justice of the European Union by the
 Constitution, disputes to which the Union is a party shall not on that ground be excluded from the
 jurisdiction of the courts or tribunals of the Member States.
@@ -1294,36 +1294,36 @@ between the parties.954393_TRAITE_EN_151_200
 Pagina 169
 Treaty establishing a Constitution for Europe
 169
-Article III-376
+Article 3-376
 The Court of Justice of the European Union shall not have jurisdiction with respect to Articles I-40
 and I-41 and the provisions of Chapter II of Title V concerning the common foreign and security
-policy and Article III-293 insofar as it concerns the common foreign and security policy.
-However, the Court shall have jurisdiction to monitor compliance with Article III-308 and to rule on
-proceedings, brought in accordance with the conditions laid down in Article III-365(4), reviewing the
+policy and Article 3-293 insofar as it concerns the common foreign and security policy.
+However, the Court shall have jurisdiction to monitor compliance with Article 3-308 and to rule on
+proceedings, brought in accordance with the conditions laid down in Article 3-365(4), reviewing the
 legality of European decisions providing for restrictive measures against natural or legal persons
 adopted by the Council on the basis of Chapter II of Title V.
-Article III-377
+Article 3-377
 In exercising its powers regarding the provisions of Sections 4 and 5 of Chapter IV of Title III relating
 to the area of freedom, security and justice, the Court of Justice of the European Union shall have no
 jurisdiction to review the validity or proportionality of operations carried out by the police or other
 law-enforcement services of a Member State or the exercise of the responsibilities incumbent upon
 Member States with regard to the maintenance of law and order and the safeguarding of internal
 security.
-Article III-378
-Notwithstanding the expiry of the period laid down in Article III-365(6), any party may, in
+Article 3-378
+Notwithstanding the expiry of the period laid down in Article 3-365(6), any party may, in
 proceedings in which an act of general application adopted by an institution, body, office or agency
-of the Union is at issue, plead the grounds specified in Article III-365(2) in order to invoke before the
+of the Union is at issue, plead the grounds specified in Article 3-365(2) in order to invoke before the
 Court of Justice of the European Union the inapplicability of that act.
-Article III-379
+Article 3-379
 1. Actions brought before the Court of Justice of the European Union shall not have suspensory
 effect. The Court may, however, if it considers that circumstances so require, order that application of
 the contested act be suspended.
 2. The Court of Justice of the European Union may in any cases before it prescribe any necessary
 interim measures.
-Article III-380
+Article 3-380
 The judgments of the Court of Justice of the European Union shall be enforceable under the
-conditions laid down in Article III-401.
-Article III-381
+conditions laid down in Article 3-401.
+Article 3-381
 The Statute of the Court of Justice of the European Union shall be laid down in a Protocol.
 A European law may amend the provisions of the Statute, with the exception of Title I and Article 64.
 It shall be adopted either at the request of the Court of Justice and after consultation of the
@@ -1335,10 +1335,10 @@ Pagina 170
 Part III
 Subsection 6
 The European Central Bank
-Article III-382
+Article 3-382
 1. The Governing Council of the European Central Bank shall comprise the members of the
 Executive Board of the European Central Bank and the Governors of the national central banks of the
-Member States without a derogation as referred to in Article III-197.
+Member States without a derogation as referred to in Article 3-197.
 2.
 The Executive Board shall comprise the President, the Vice-President and four other members.
 The President, the Vice-President and the other members of the Executive Board shall be appointed
@@ -1348,7 +1348,7 @@ and after consulting the European Parliament and the Governing Council of the Eu
 Bank.
 Their term of office shall be eight years and shall not be renewable.
 Only nationals of Member States may be members of the Executive Board.
-Article III-383
+Article 3-383
 1. The President of the Council and a member of the Commission may participate, without having
 the right to vote, in meetings of the Governing Council of the European Central Bank.
 The President of the Council may submit a motion for deliberation to the Governing Council of the
@@ -1371,7 +1371,7 @@ Treaty establishing a Constitution for Europe
 171
 Subsection 7
 The Court of Auditors
-Article III-384
+Article 3-384
 1. The Court of Auditors shall examine the accounts of all revenue and expenditure of the Union. It
 shall also examine the accounts of all revenue and expenditure of any body, office or agency set up by
 the Union insofar as the instrument establishing that body, office or agency does not preclude such
@@ -1422,7 +1422,7 @@ opinions under the conditions laid down by its Rules of Procedure.
 It shall assist the European Parliament and the Council in exercising their powers of control over the
 implementation of the budget.
 It shall adopt its Rules of Procedure. Those rules shall require the consent of the Council .
-Article III-385
+Article 3-385
 1. The members of the Court of Auditors shall be chosen from among persons who belong or have
 belonged in their respective States to external audit bodies or who are especially qualified for this
 office. Their independence must be beyond doubt.
@@ -1459,7 +1459,7 @@ SECTION 2
 THE UNION'S ADVISORY BODIES
 Subsection 1
 The Committee of the Regions
-Article III-386
+Article 3-386
 The number of members of the Committee of the Regions shall not exceed 350. The Council, acting
 unanimously on a proposal from the Commission, shall adopt a European decision determining the
 Committee's composition.
@@ -1471,13 +1471,13 @@ members drawn up in accordance with the proposals made by each Member State.
 When the mandate referred to in Article I-32(2) on the basis of which they were proposed comes to
 an end, the term of office of members of the Committee shall terminate automatically and they shall
 then be replaced for the remainder of the said term of office in accordance with the same procedure.
-Article III-387
+Article 3-387
 The Committee of the Regions shall elect its chairman and officers from among its members for a
 term of two and a half years.
 It shall be convened by its chairman at the request of the European Parliament, of the Council or of
 the Commission. It may also meet on its own initiative.
 It shall adopt its Rules of Procedure.
-Article III-388
+Article 3-388
 The Committee of the Regions shall be consulted by the European Parliament, by the Council or by
 the Commission where the Constitution so provides and in all other cases in which one of these
 institutions considers it appropriate, in particular those which concern cross-border cooperation.954393_TRAITE_EN_151_200
@@ -1498,11 +1498,11 @@ The opinion of the Committee, together with a record of its proceedings, shall b
 European Parliament, to the Council and to the Commission.
 Subsection 2
 The Economic and Social Committee
-Article III-389
+Article 3-389
 The number of members of the Economic and Social Committee shall not exceed 350. The Council,
 acting unanimously on a proposal from the Commission, shall adopt a European decision
 determining the Committee's composition.
-Article III-390
+Article 3-390
 The members of the Economic and Social Committee shall be appointed for five years. Their term of
 office shall be renewable.
 The Council shall adopt the European decision establishing the list of members drawn up in
@@ -1510,7 +1510,7 @@ accordance with the proposals made by each Member State.
 The Council shall act after consulting the Commission. It may obtain the opinion of European bodies
 which are representative of the various economic and social sectors and of civil society to which the
 Union's activities are of concern.
-Article III-391
+Article 3-391
 The Economic and Social Committee shall elect its chairman and officers from among its members
 for a term of two and a half years.
 It shall be convened by its chairman at the request of the European Parliament, of the Council or of
@@ -1521,7 +1521,7 @@ It shall adopt its Rules of Procedure.954393_TRAITE_EN_151_200
 Pagina 175
 Treaty establishing a Constitution for Europe
 175
-Article III-392
+Article 3-392
 The Economic and Social Committee shall be consulted by the European Parliament, by the Council
 or by the Commission where the Constitution so provides. It may be consulted by these institutions
 in all cases in which they consider it appropriate. It may also issue an opinion on its own initiative.
@@ -1533,7 +1533,7 @@ The opinion of the Committee, together with a record of its proceedings, shall b
 European Parliament, to the Council and to the Commission.
 SECTION 3
 THE EUROPEAN INVESTMENT BANK
-Article III-393
+Article 3-393
 The European Investment Bank shall have legal personality.
 Its members shall be the Member States.
 The Statute of the European Investment Bank is laid down in a Protocol.
@@ -1541,7 +1541,7 @@ A European law of the Council may amend the Statute of the European Investment B
 Council shall act unanimously, either at the request of the European Investment Bank and after
 consulting the European Parliament and the Commission, or on a proposal from the Commission
 and after consulting the European Parliament and the European Investment Bank.
-Article III-394
+Article 3-394
 The task of the European Investment Bank shall be to contribute, by having recourse to the capital
 markets and utilising its own resources, to the balanced and steady development of the internal
 market in the Union's interest. For this purpose the European Investment Bank shall, operating on a
@@ -1565,13 +1565,13 @@ instruments.
 SECTION 4
 PROVISIONS COMMON TO UNION INSTITUTIONS,
 BODIES, OFFICES AND AGENCIES
-Article III-395
+Article 3-395
 1. Where, pursuant to the Constitution, the Council acts on a proposal from the Commission,
 it may amend that proposal only by acting unanimously, except in the cases referred to in Articles
 I-55, I-56, III-396(10) and (13), III-404 and III-405(2).
 2. As long as the Council has not acted, the Commission may alter its proposal at any time during
 the procedures leading to the adoption of a Union act.
-Article III-396
+Article 3-396
 1. Where, pursuant to the Constitution, European laws or framework laws are adopted under the
 ordinary legislative procedure, the following provisions shall apply.
 2.
@@ -1645,16 +1645,16 @@ Commission with their positions at first and second readings. The European Parli
 Council may request the opinion of the Commission throughout the procedure, which the
 Commission may also deliver on its own initiative. It may also, if it deems it necessary, take part in
 the Conciliation Committee in accordance with paragraph 11.
-Article III-397
+Article 3-397
 The European Parliament, the Council and the Commission shall consult each other and by common
 agreement make arrangements for their cooperation. To that end, they may, in compliance with the
 Constitution, conclude interinstitutional agreements which may be of a binding nature.
-Article III-398
+Article 3-398
 1. In carrying out their missions, the institutions, bodies, offices and agencies of the Union shall
 have the support of an open, efficient and independent European administration.
 2. In compliance with the Staff Regulations and the Conditions of employment adopted on the
-basis of Article III-427, European laws shall establish provisions to that end.
-Article III-399
+basis of Article 3-427, European laws shall establish provisions to that end.
+Article 3-399
 1. The institutions, bodies, offices and agencies of the Union shall ensure transparency in their
 work and shall, pursuant to Article I-50, determine in their rules of procedure specific provisions for
 public access to their documents. The Court of Justice of the European Union, the European Central
@@ -1663,7 +1663,7 @@ this Article only when exercising their administrative tasks.
 2. The European Parliament and the Council shall ensure publication of the documents relating to
 the legislative procedures under the terms laid down by the European law referred to in Article
 I-50(3).
-Article III-400
+Article 3-400
 1.
 The Council shall adopt European regulations and decisions determining:
 (a) the salaries, allowances and pensions of the President of the European Council, the President of
@@ -1680,7 +1680,7 @@ President and members of the Court of Auditors;
 (c) any payment to be made instead of remuneration to the persons referred to in points (a) and (b).
 2. The Council shall adopt European regulations and decisions determining the allowances of the
 members of the Economic and Social Committee.
-Article III-401
+Article 3-401
 Acts of the Council, of the Commission or of the European Central Bank which impose a pecuniary
 obligation on persons other than Member States shall be enforceable.
 Enforcement shall be governed by the rules of civil procedure in force in the Member State in the
@@ -1698,7 +1698,7 @@ CHAPTER II
 FINANCIAL PROVISIONS
 SECTION 1
 THE MULTIANNUAL FINANCIAL FRAMEWORK
-Article III-402
+Article 3-402
 1. The multiannual financial framework shall be established for a period of at least five years
 in accordance with Article I-55.
 2. The financial framework shall determine the amounts of the annual ceilings on commitment
@@ -1721,9 +1721,9 @@ Parliament, the Council and the Commission shall take any measure necessary to f
 successful completion of the procedure.
 SECTION 2
 THE UNION'S ANNUAL BUDGET
-Article III-403
+Article 3-403
 The financial year shall run from 1 January to 31 December.
-Article III-404
+Article 3-404
 European laws shall establish the Union's annual budget in accordance with the following provisions:
 1. Each institution shall, before 1 July, draw up estimates of its expenditure for the following
 financial year. The Commission shall consolidate these estimates in a draft budget which may contain
@@ -1797,29 +1797,29 @@ resources and the balance between revenue and expenditure.954393_TRAITE_EN_151_2
 Pagina 182
 182
 Part III
-Article III-405
+Article 3-405
 1. If at the beginning of a financial year no European law establishing the budget has been
 definitively adopted, a sum equivalent to not more than one twelfth of the budget appropriations
 entered in the chapter in question of the budget for the preceding financial year may be spent each
-month in respect of any chapter in accordance with the European law referred to in Article III-412;
+month in respect of any chapter in accordance with the European law referred to in Article 3-412;
 that sum shall not, however, exceed one twelfth of the appropriations provided for in the same
 chapter of the draft budget.
 2. The Council, on a proposal by the Commission and in compliance with the other conditions laid
 down in paragraph 1, may adopt a European decision authorising expenditure in excess of
-one twelfth, in accordance with the European law referred to in Article III-412. The Council shall
+one twelfth, in accordance with the European law referred to in Article 3-412. The Council shall
 forward the decision immediately to the European Parliament.
 The European decision shall lay down the necessary measures relating to resources to ensure
 application of this Article, in accordance with the European laws referred to in Article I-54(3) and (4).
 It shall enter into force thirty days following its adoption if the European Parliament, acting by a
 majority of its component members, has not decided to reduce this expenditure within that time-
 limit.
-Article III-406
-In accordance with the conditions laid down by the European law referred to in Article III-412, any
+Article 3-406
+In accordance with the conditions laid down by the European law referred to in Article 3-412, any
 appropriations, other than those relating to staff expenditure, that are unexpended at the end of the
 financial year may be carried forward to the next financial year only.
 Appropriations shall be classified under different chapters grouping items of expenditure according
 to their nature or purpose and subdivided in accordance with the European law referred to in
-Article III-412.
+Article 3-412.
 The expenditure of:
 — the European Parliament,
 — the European Council and the Council,
@@ -1834,33 +1834,33 @@ Treaty establishing a Constitution for Europe
 183
 SECTION 3
 IMPLEMENTATION OF THE BUDGET AND DISCHARGE
-Article III-407
+Article 3-407
 The Commission shall implement the budget in cooperation with the Member States, in accordance
-with the European law referred to in Article III-412, on its own responsibility and within the limits of
+with the European law referred to in Article 3-412, on its own responsibility and within the limits of
 the appropriations allocated, having regard to the principles of sound financial management. Member
 States shall cooperate with the Commission to ensure that the appropriations are used in accordance
 with those principles.
-The European law referred to in Article III-412 shall establish the control and audit obligations of the
+The European law referred to in Article 3-412 shall establish the control and audit obligations of the
 Member States in the implementation of the budget and the resulting responsibilities. It shall
 establish the responsibilities and detailed rules for each institution concerning its part in effecting its
 own expenditure.
 Within the budget the Commission may, subject to the limits and conditions laid down by the
-European law referred to in Article III-412, transfer appropriations from one chapter to another or
+European law referred to in Article 3-412, transfer appropriations from one chapter to another or
 from one subdivision to another.
-Article III-408
+Article 3-408
 The Commission shall submit annually to the European Parliament and to the Council the accounts
 of the preceding financial year relating to the implementation of the budget. The Commission shall
 also forward to them a financial statement of the Union's assets and liabilities.
 The Commission shall also submit to the European Parliament and to the Council an evaluation
 report on the Union's finances based on the results achieved, in particular in relation to the
-indications given by the European Parliament and the Council pursuant to Article III-409.
-Article III-409
+indications given by the European Parliament and the Council pursuant to Article 3-409.
+Article 3-409
 1. The European Parliament, on a recommendation from the Council, shall give a discharge to the
 Commission in respect of the implementation of the budget. To this end, the Council and the
 European Parliament in turn shall examine the accounts, the financial statement and the evaluation
-report referred to in Article III-408, the annual report by the Court of Auditors together with the
+report referred to in Article 3-408, the annual report by the Court of Auditors together with the
 replies of the institutions under audit to the observations of the Court of Auditors, the statement of
-assurance referred to in the second subparagraph of Article III-384(1) and any relevant special
+assurance referred to in the second subparagraph of Article 3-384(1) and any relevant special
 reports by the Court of Auditors.
 2. Before giving a discharge to the Commission, or for any other purpose in connection with the
 exercise of its powers over the implementation of the budget, the European Parliament may ask to
@@ -1882,9 +1882,9 @@ given to the departments which are responsible for the implementation of the bud
 shall also be forwarded to the Court of Auditors.
 SECTION 4
 COMMON PROVISIONS
-Article III-410
+Article 3-410
 The multiannual financial framework and the annual budget shall be drawn up in euro.
-Article III-411
+Article 3-411
 The Commission may, provided it notifies the competent authorities of the Member States
 concerned, transfer into the currency of one of the Member States its holdings in the currency of
 another Member State, to the extent necessary to enable them to be used for purposes which come
@@ -1893,7 +1893,7 @@ transfers if it possesses cash or liquid assets in the currencies which it needs
 The Commission shall deal with each Member State concerned through the authority designated by
 that State. In carrying out financial operations the Commission shall employ the services of the bank
 of issue of the Member State concerned or of any other financial institution approved by that State.
-Article III-412
+Article 3-412
 1.
 European laws shall establish:
 (a) the financial rules which determine in particular the procedure to be adopted for establishing and
@@ -1913,10 +1913,10 @@ Article.954393_TRAITE_EN_151_200
 Pagina 185
 Treaty establishing a Constitution for Europe
 185
-Article III-413
+Article 3-413
 The European Parliament, the Council and the Commission shall ensure that the financial means are
 made available to allow the Union to fulfil its legal obligations in respect of third parties.
-Article III-414
+Article 3-414
 Regular meetings between the Presidents of the European Parliament, the Council and the
 Commission shall be convened, on the initiative of the Commission, under the budgetary procedures
 referred to in this Chapter. The Presidents shall take all the necessary steps to promote consultation
@@ -1924,7 +1924,7 @@ and the reconciliation of the positions of the institutions over which they pres
 the implementation of this Chapter.
 SECTION 5
 COMBATING FRAUD
-Article III-415
+Article 3-415
 1. The Union and the Member States shall counter fraud and any other illegal activities affecting the
 Union's financial interests through measures taken in accordance with this Article. These measures
 shall act as a deterrent and be such as to afford effective protection in the Member States and in all the
@@ -1948,16 +1948,16 @@ Pagina 186
 Part III
 CHAPTER III
 ENHANCED COOPERATION
-Article III-416
+Article 3-416
 Any enhanced cooperation shall comply with the Constitution and the law of the Union.
 Such cooperation shall not undermine the internal market or economic, social and territorial
 cohesion. It shall not constitute a barrier to or discrimination in trade between Member States, nor
 shall it distort competition between them.
-Article III-417
+Article 3-417
 Any enhanced cooperation shall respect the competences, rights and obligations of those Member
 States which do not participate in it. Those Member States shall not impede its implementation by
 the participating Member States.
-Article III-418
+Article 3-418
 1. When enhanced cooperation is being established, it shall be open to all Member States, subject to
 compliance with any conditions of participation laid down by the European authorising decision. It
 shall also be open to them at any other time, subject to compliance with the acts already adopted
@@ -1967,7 +1967,7 @@ promote participation by as many Member States as possible.
 2. The Commission and, where appropriate, the Union Minister for Foreign Affairs shall keep the
 European Parliament and the Council regularly informed regarding developments in enhanced
 cooperation.
-Article III-419
+Article 3-419
 1. Member States which wish to establish enhanced cooperation between themselves in one of the
 areas covered by the Constitution, with the exception of fields of exclusive competence and the
 common foreign and security policy, shall address a request to the Commission, specifying the scope
@@ -1991,9 +1991,9 @@ enhanced cooperation proposed is consistent with other Union policies. It shall 
 the European Parliament for information.
 Authorisation to proceed with enhanced cooperation shall be granted by a European decision of the
 Council acting unanimously.
-Article III-420
+Article 3-420
 1. Any Member State which wishes to participate in enhanced cooperation in progress in one of the
-areas referred to in Article III-419(1) shall notify its intention to the Council and the Commission.
+areas referred to in Article 3-419(1) shall notify its intention to the Council and the Commission.
 The Commission shall, within four months of the date of receipt of the notification, confirm the
 participation of the Member State concerned. It shall note where necessary that the conditions of
 participation have been fulfilled and shall adopt any transitional measures necessary with regard to
@@ -2019,7 +2019,7 @@ adopted to fulfil those conditions and shall set a deadline for re-examining the
 participation.
 For the purposes of this paragraph, the Council shall act unanimously and in accordance with
 Article I-44(3).
-Article III-421
+Article 3-421
 Expenditure resulting from implementation of enhanced cooperation, other than administrative costs
 entailed for the institutions, shall be borne by the participating Member States, unless all members of
 the Council, acting unanimously after consulting the European Parliament, decide otherwise.954393_TRAITE_EN_151_200
@@ -2028,7 +2028,7 @@ the Council, acting unanimously after consulting the European Parliament, decide
 Pagina 188
 188
 Part III
-Article III-422
+Article 3-422
 1. Where a provision of the Constitution which may be applied in the context of enhanced
 cooperation stipulates that the Council shall act unanimously, the Council, acting unanimously in
 accordance with the arrangements laid down in Article I-44(3), may adopt a European decision
@@ -2040,13 +2040,13 @@ down in Article I-44(3), may adopt a European decision stipulating that it will 
 legislative procedure. The Council shall act after consulting the European Parliament.
 3.
 Paragraphs 1 and 2 shall not apply to decisions having military or defence implications.
-Article III-423
+Article 3-423
 The Council and the Commission shall ensure the consistency of activities undertaken in the context
 of enhanced cooperation and the consistency of such activities with the policies of the Union, and
 shall cooperate to that end.
 TITLE VII
 COMMON PROVISIONS
-Article III-424
+Article 3-424
 Taking account of the structural economic and social situation of Guadeloupe, French Guiana,
 Martinique, Réunion, the Azores, Madeira and the Canary Islands, which is compounded by their
 remoteness, insularity, small size, difficult topography and climate, economic dependence on a few
@@ -2067,36 +2067,36 @@ coherence of the Union legal order, including the internal market and common pol
 Pagina 189
 Treaty establishing a Constitution for Europe
 189
-Article III-425
+Article 3-425
 The Constitution shall in no way prejudice the rules in Member States governing the system of
 property ownership.
-Article III-426
+Article 3-426
 In each of the Member States, the Union shall enjoy the most extensive legal capacity accorded to
 legal persons under their laws; it may, in particular, acquire or dispose of movable and immovable
 property and may be a party to legal proceedings. To this end, the Union shall be represented by the
 Commission. However, the Union shall be represented by each of the institutions, by virtue of their
 administrative autonomy, in matters relating to their respective operation.
-Article III-427
+Article 3-427
 The Staff Regulations of officials and the Conditions of employment of other servants of the Union
 shall be laid down by a European law. It shall be adopted after consultation of the institutions
 concerned.
-Article III-428
+Article 3-428
 The Commission may, within the limits and under conditions laid down by a European regulation or
 decision adopted by a simple majority by the Council, collect any information and carry out any
 checks required for the performance of the tasks entrusted to it.
-Article III-429
+Article 3-429
 1. Without prejudice to Article 5 of the Protocol on the Statute of the European System of Central
 Banks and of the European Central Bank, measures for the production of statistics shall be laid down
 by a European law or framework law where necessary for the performance of the Union's activities.
 2. The production of statistics shall conform to impartiality, reliability, objectivity, scientific
 independence, cost-effectiveness and statistical confidentiality. It shall not entail excessive burdens on
 economic operators.
-Article III-430
+Article 3-430
 The members of the Union's institutions, the members of committees, and the officials and other
 servants of the Union shall be required, even after their duties have ceased, not to disclose
 information of the kind covered by the obligation of professional secrecy, in particular information
 about undertakings, their business relations or their cost components.
-Article III-431
+Article 3-431
 The Union's contractual liability shall be governed by the law applicable to the contract in question.
 In the case of non-contractual liability, the Union shall, in accordance with the general principles
 common to the laws of the Member States, make good any damage caused by its institutions or by its
@@ -2107,18 +2107,18 @@ general principles common to the laws of the Member States, make good any damage
 by its servants in the performance of their duties.
 The personal liability of its servants towards the Union shall be governed by the provisions laid down
 in their Staff Regulations or in the Conditions of Employment applicable to them.
-Article III-432
+Article 3-432
 The seat of the Union's institutions shall be determined by common accord of the governments of
 the Member States.
-Article III-433
+Article 3-433
 The Council shall adopt unanimously a European regulation laying down the rules governing the
 languages of the Union's institutions, without prejudice to the Statute of the Court of Justice of the
 European Union.
-Article III-434
+Article 3-434
 The Union shall enjoy in the territories of the Member States such privileges and immunities as are
 necessary for the performance of its tasks, under the conditions laid down in the Protocol on the
 privileges and immunities of the European Union.
-Article III-435
+Article 3-435
 The rights and obligations arising from agreements concluded before 1 January 1958 or, for acceding
 States, before the date of their accession, between one or more Member States on the one hand, and
 one or more third countries on the other, shall not be affected by the Constitution.
@@ -2131,7 +2131,7 @@ the fact that the advantages accorded under the Constitution by each Member Stat
 part of the Union and are thereby inseparably linked with the creation of institutions on which
 powers have been conferred by the Constitution and the granting of identical advantages by all the
 other Member States.
-Article III-436
+Article 3-436
 1.
 The Constitution shall not preclude the application of the following rules:
 (a) no Member State shall be obliged to supply information the disclosure of which it considers

@@ -2,9 +2,9 @@
 title= "Natural Treatment for Female Sterility And Infertility"
 description= "Many people think that infertility can occur due to leucorrhoea or displacement of the uterus. But this impression is not entirely correct"
 image= "/photos/jealous.jpg"
-linkb= "/research/indian/yogic-treatments/hydrocele"
+linkb= "/research/sarkar/yogic-treatments/hydrocele"
 linkbtext= "hydrocele"
-linkf= "/research/indian/yogic-treatments/infertility-male"
+linkf= "/research/sarkar/yogic-treatments/infertility-male"
 linkftext= "Infertility"
 +++
 

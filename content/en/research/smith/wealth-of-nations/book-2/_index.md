@@ -1,11 +1,11 @@
-+++
-title=  "Book 2 The Nature of Stock"
-description=  "Stock is divided into fixed, circulating, and for consumption"
-date=  "2015-09-09"
-image=  "/covers/wn.jpg"
-# image=  "https= //sorasystem.sirv.com/books/wn1.jpg"
-# heading=  View 5 Chapters
-+++
+---
+title: "Book 2 The Nature of Stock"
+linkTitle: Book 2
+description: "Stock is divided into fixed, circulating, and for consumption"
+date: "2015-09-09"
+image:  "/covers/wn.jpg"
+---
+
 
 <!-- Introduction
 

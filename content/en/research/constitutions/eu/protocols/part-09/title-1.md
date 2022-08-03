@@ -86,7 +86,7 @@ present Member States or by the Council, to facilitate practical cooperation bet
 States' institutions and organisations working in the field of justice and home affairs.
 Article 4
 Each of the new Member States shall participate in Economic and Monetary Union from 1 May 2004
-as a Member State with a derogation within the meaning of Article III‑197 of the Constitution.
+as a Member State with a derogation within the meaning of Article 3‑197 of the Constitution.
 Article 5
 1. The new Member States, which have acceded by the Act of Accession of 16 April 2003 to the
 decisions and agreements adopted by the Representatives of the Governments of the Member States,

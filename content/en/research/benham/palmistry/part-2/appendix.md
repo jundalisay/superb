@@ -1,26 +1,32 @@
-+++
-title=  "Showing The Various Judgments Drawn From The Hand"
-heading =  "Chapter 34--Aristotle's system"
-description=  "Here is Aristotle's chapter on Palmistry written around 350 B.C."
-image=  "/photos/objects/hand.jpg"
-linkb=  "/research/benham/palmistry/part-2/chapter-32-intuition"
-linkbtext=  "Chapter 32"
-linkf=  "/research/benham/palmistry/part-2/"
-linkftext=  "Part 2"
-+++
+---
+heading: "Part 2 Chapter 34--Aristotle's system"
+title: "Showing The Various Judgments Drawn From The Hand"
+description: "Here is Aristotle's chapter on Palmistry written around 350 B.C."
+date: 2020-01-22
+image: "/photos/objects/hand.jpg"
+linkb: "/research/benham/palmistry/part-2/chapter-14b-intuition"
+linkbtext: "Chapter 14b"
+linkf: "/research/benham/palmistry/part-2"
+linkftext: "Index"
+---
+
 
 
 Here is Aristotle's chapter on Palmistry written around 350 B.C.<!-- , which, translated into English, was embodied in a copy of Aristotle's Masterpiece, published in 1738 in London. -->
 
-This is the oldest treatise on palmistry. <!-- It will be , and having been written by so celebrated a philosopher as the tutor of Alexander the Great, it will, I am sure, prove interesting to my readers. --> There has been progress since then 
+This is the oldest treatise on palmistry. <!-- It will be , and having been written by so celebrated a philosopher as the tutor of Alexander the Great, it will, I am sure, prove interesting to my readers. --> There has been progress since then.
 
-Being engaged in this third Part to shew what Judgments may be drawn according to Physiognomy, from the several Parts of the Body, and coming in Order to speak of the Hands, it has put me under a Necessity of saying something about Palmistry, which is a Judgment made of the Conditions, Inclinations, and Fortunes of Men and Women, from their various Lines and Characters which Nature has imprinted in the Hands, which are almost as various as the Hands that have 'em. 
+<!-- Being engaged in this third Part to shew what Judgments may be drawn according to Physiognomy, from the several Parts of the Body, and coming in Order to speak of the Hands, it has put me under a Necessity of saying something about Palmistry, which is a Judgment made of the Conditions, Inclinations, and Fortunes of Men and Women, from their various Lines and Characters which Nature has imprinted in the Hands, which are almost as various as the Hands that have 'em.  -->
 
-I will first present the scheme or Figure of a Hand, and explain its various Lines. By this Figure we see that one of the Lines, and which is the Principal, is called the Line of Life ; this Line encloses the Thumb, separating it from the Hallow of the Hand. 
+I will first present the scheme or Figure of a Hand, and explain its various Lines. 
+
+By this Figure we see that one of the Lines, and which is the Principal, is called the Line of Life ; this Line encloses the Thumb, separating it from the Hallow of the Hand. 
 
 The next to it, which is called the Natural Line, takes its beginning from the Turning of the Fore-finger, near the Line of Life, and reaches the Table-Line, and generally makes a Triangle thus; A The Table-Line, commonly called the Line of Fortune, begins under the little Finger and Ends near the middle Finger. 
 
-The Girdle of Venus, which is another Line so called, begins near the Joint of the little Finger, and Ends between the Fore-Finger and the middle Finger. The Line of Death is that which plainly appears in a Counter Line to that of Life ; and is by some called the Sister-Line ending usually as the other Ends=  for when the Line of Life is ended, Death comes, and it can go no further. There are also Lines in the fleshy Parts, as in the Ball of the Thumb, which is called the Mount of Venus; under each of the Fingers are also Mounts, which are each one govern'd by a several Planet ; and the Hallow of the Hand is called the Plane of Mars; Thus, The Thumb we to Dame Venus Rules commit; Jove the fore Finger rules as he thinks fit; Old Saturn does the middle Finger guide, And o'er the Ring Finger Sol does still preside ; The outside Brawn pale Cynthia does direct, And into the Hallow Mars does most inspect=  The little Finger does to Mercery fall, Which is the nimblest Planet of 'ern all. I now proceed to give Judgment from these several Lines =  And in the first place take notice that in Palmestry the left Hand is chiefly to be regarded ; because therein the Lines are most visible, and have the strictest Communication with the Heart and Brains. Now having premised this, in the next place observe the Line of Life, and if it be fair, extended to its full length, and not broken with an intermixture of Cross Lines, it shews long Life and Health; and it is the same if a double Line of Life appears, as there sometimes does. When the Stars appear in this Line it is a Signifi-cator of great Losses and Calamities =  If on it there be the Figure of two O's or a Y, it threatens the Person with Blindness=  If it wraps itself about the Table-line, then does it promise Wealth and Honor to be attained by Prudence and Industry. If the Line be cut or jagged at the upper-End, it denotes much Sickness. If this Line be cut by any Lines coming from the Mount of Venus, it declares the Person to be unfortunate in Love and Business also, and threatens him with sudden Death=  a Cross between the Line of Life and the Table Line, shews the Person to be very liberal and charitable and of a noble Spirit. Let us now see the Significations of the Table-line. 
+The Girdle of Venus, which is another Line so called, begins near the Joint of the little Finger, and Ends between the Fore-Finger and the middle Finger. 
+
+The Line of Death is that which plainly appears in a Counter Line to that of Life ; and is by some called the Sister-Line ending usually as the other Ends=  for when the Line of Life is ended, Death comes, and it can go no further. There are also Lines in the fleshy Parts, as in the Ball of the Thumb, which is called the Mount of Venus; under each of the Fingers are also Mounts, which are each one govern'd by a several Planet ; and the Hallow of the Hand is called the Plane of Mars; Thus, The Thumb we to Dame Venus Rules commit; Jove the fore Finger rules as he thinks fit; Old Saturn does the middle Finger guide, And o'er the Ring Finger Sol does still preside ; The outside Brawn pale Cynthia does direct, And into the Hallow Mars does most inspect=  The little Finger does to Mercery fall, Which is the nimblest Planet of 'ern all. I now proceed to give Judgment from these several Lines =  And in the first place take notice that in Palmestry the left Hand is chiefly to be regarded ; because therein the Lines are most visible, and have the strictest Communication with the Heart and Brains. Now having premised this, in the next place observe the Line of Life, and if it be fair, extended to its full length, and not broken with an intermixture of Cross Lines, it shews long Life and Health; and it is the same if a double Line of Life appears, as there sometimes does. When the Stars appear in this Line it is a Signifi-cator of great Losses and Calamities =  If on it there be the Figure of two O's or a Y, it threatens the Person with Blindness=  If it wraps itself about the Table-line, then does it promise Wealth and Honor to be attained by Prudence and Industry. If the Line be cut or jagged at the upper-End, it denotes much Sickness. If this Line be cut by any Lines coming from the Mount of Venus, it declares the Person to be unfortunate in Love and Business also, and threatens him with sudden Death=  a Cross between the Line of Life and the Table Line, shews the Person to be very liberal and charitable and of a noble Spirit. Let us now see the Significations of the Table-line. 
 
 The Table-line, when broad, and of a lovely Colour shews a healthful Constitution, and a quiet and contented Mind, and of a couragious Spirit; but if it have Crosses towards the little Finger, it threatens the Party with much Affliction by Sickness. If the Line be double, or divided into three Parts in any of the Extremities, it shews the Person to be of a generous Temper, and of a good Fortune to support it=  but if this Line be forked at the End, it threatens the Person shall suffer by Jealousies, and Doubts, and with the Loss of Riches got by Deceit. If three Points such as these . . . are found in it, they denote the Person prudent and liberal, a lover of Learnin, and of a good Temper. If it spreads itself towards the fore and middle Finger, and Ends blunt, it denotes Preferment. Let us now see what is signify'd by The Middle-line. 
 

@@ -5,9 +5,9 @@ description: "Perpetual Unity allows for Non-Human Rights."
 image: /flags/us.png
 author: Juan Dalisay Jr.
 date: 2022-01-29
-linkb: "/research/dalisay/perpetual-unity/part-03"
+linkb: "/research/social/perpetual-unity/part-03"
 linkbtext: "Part 3"
-linkf: "/research/dalisay/perpetual-unity/part-05"
+linkf: "/research/social/perpetual-unity/part-05"
 linkftext: "part 5"
 draft: true 
 ---

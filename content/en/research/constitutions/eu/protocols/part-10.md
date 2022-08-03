@@ -1,20 +1,20 @@
 10. PROTOCOL ON THE EXCESSIVE DEFICIT PROCEDURE
 
 <!-- THE HIGH CONTRACTING PARTIES,
-DESIRING to lay down the details of the excessive deficit procedure referred to in Article III–184 of the Constitution,
+DESIRING to lay down the details of the excessive deficit procedure referred to in Article 3–184 of the Constitution,
 HAVE AGREED upon the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe: -->
 
 Article 1
 
-The reference values referred to in Article III-184(2) of the Constitution are:
+The reference values referred to in Article 3-184(2) of the Constitution are:
 (a) 3 % for the ratio of the planned or actual government deficit to gross domestic product at market
 prices;
 (b) 60 % for the ratio of government debt to gross domestic product at market prices.
 
 Article 2
 
-For the purposes of Article III-184 of the Constitution and of this Protocol:
+For the purposes of Article 3-184 of the Constitution and of this Protocol:
 (a) ‘government’ means general government, that is central government, regional or local
 government and social security funds, to the exclusion of commercial operations, as defined
 in the European System of Integrated Economic Accounts;
@@ -41,31 +41,31 @@ Commission.
 
 <!-- THE HIGH CONTRACTING PARTIES,
 DESIRING to lay down the details of the convergence criteria which shall guide the Union in taking decisions referred to
-in Article III-198 of the Constitution to end the derogations of those Member States with a derogation,
+in Article 3-198 of the Constitution to end the derogations of those Member States with a derogation,
 HAVE AGREED upon the following provisions, which shall be annexed to the Treaty establishing a Constitution for
 Europe: -->
 
 Article 1
-The criterion on price stability referred to in Article III-198(1)(a) of the Constitution shall mean that
+The criterion on price stability referred to in Article 3-198(1)(a) of the Constitution shall mean that
 the Member State concerned has a price performance that is sustainable and an average rate of
 inflation, observed over a period of one year before the examination, that does not exceed by more
 than 1,5 percentage points that of, at most, the three best performing Member States in terms of
 price stability. Inflation shall be measured by means of the consumer price index on a comparable
 basis, taking into account differences in national definitions.
 Article 2
-The criterion on the government budgetary position referred to in Article III-198(1)(b) of the
+The criterion on the government budgetary position referred to in Article 3-198(1)(b) of the
 Constitution shall mean that at the time of the examination the Member State concerned is not the
-subject of a European decision of the Council under Article III-184(6) of the Constitution that an
+subject of a European decision of the Council under Article 3-184(6) of the Constitution that an
 excessive deficit exists.
 Article 3
 The criterion on participation in the exchange-rate mechanism of the European Monetary System
-referred to in Article III-198(1)(c) of the Constitution shall mean that the Member State concerned
+referred to in Article 3-198(1)(c) of the Constitution shall mean that the Member State concerned
 has respected the normal fluctuation margins provided for by the exchange-rate mechanism of the
 European Monetary System without severe tensions for at least the last two years before the
 examination. In particular, the Member State shall not have devalued its currency's bilateral central
 rate against the euro on its own initiative for the same period.
 Article 4
-The criterion on the convergence of interest rates referred to in Article III-198(1)(d) of the
+The criterion on the convergence of interest rates referred to in Article 3-198(1)(d) of the
 Constitution shall mean that, observed over a period of one year before the examination, the Member
 State concerned has had an average nominal long-term interest rate that does not exceed by more
 than 2 percentage points that of, at most, the three best performing Member States in terms of price
@@ -82,8 +82,8 @@ Commission.
 Article 6
 The Council shall, acting unanimously on a proposal from the Commission and after consulting the
 European Parliament, the European Central Bank, and the Economic and Financial Committee
-referred to in Article III-192 of the Constitution, adopt appropriate provisions to lay down the details
-of the convergence criteria referred to in Article III-198 of the Constitution, which shall then replace
+referred to in Article 3-192 of the Constitution, adopt appropriate provisions to lay down the details
+of the convergence criteria referred to in Article 3-198 of the Constitution, which shall then replace
 this Protocol.
 
 

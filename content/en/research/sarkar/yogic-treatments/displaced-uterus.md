@@ -2,9 +2,9 @@
 title= "Symptoms of Displaced Uterus"
 description= "Constipation causes this disease when the stool accumulation swells the colon. This puts pressure on the uterus, causing it to change its position. Excessive sexual activity is the main cause of constipation."
 image= "/photos/med/dysm.jpg"
-linkb= "/research/indian/yogic-treatments/diabetes"
+linkb= "/research/sarkar/yogic-treatments/diabetes"
 linkbtext= "diabetes"
-linkf= "/research/indian/yogic-treatments/dysentery"
+linkf= "/research/sarkar/yogic-treatments/dysentery"
 linkftext= "dysentery"
 
 +++

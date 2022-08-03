@@ -5,9 +5,9 @@ description: "Perpetual Unity is based on feelings."
 image: /flags/us.png
 author: Juan Dalisay Jr.
 date: 2022-01-29
-linkb: "/research/dalisay/perpetual-unity/"
+linkb: "/research/social/perpetual-unity/"
 linkbtext: "Index"
-linkf: "/research/dalisay/perpetual-unity/part-02"
+linkf: "/research/social/perpetual-unity/part-02"
 linkftext: "part 2"
 draft: true 
 ---

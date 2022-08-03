@@ -5,9 +5,9 @@ heading: "Chapter 3 "
 date: 2022-01-24
 description: "The created layers are not any new stuff, but only the crudified forms of Cosmic mindstuff."
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-02b"
+linkb: "/research/sarkar/idea/chapter-02b"
 linkbtext: "Chapter 2b"
-linkf: "/research/indian/idea/chapter-03b"
+linkf: "/research/sarkar/idea/chapter-03b"
 linkftext: "Chapter 3b"
 icon: "/icons/sarkar.jpg"
 ---

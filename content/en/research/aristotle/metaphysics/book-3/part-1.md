@@ -1,17 +1,16 @@
-+++
-title= "The Questions of Metaphysics"
-heading= "Book 3 Part 1 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "Does the investigation of the causes belongs to one or to more sciences?"
-linkb= "/research/aristotle/metaphysics/book-2/part-2"
-linkbtext= "Part 2"
-linkf= "/research/aristotle/metaphysics/book-3/part-1"
-linkftext= "Part 1"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 2 of Book 3 of Metaphysics by Aristotle Simplified"
+title: "The Questions of Metaphysics"
+date: 2020-09-01
+image: "/covers/meta.jpg"
+description: "Does the investigation of the causes belongs to one or to more sciences?"
+linkb: /research/aristotle/metaphysics/book-2/part-2
+linkbtext: "Part 2"
+linkf: /research/aristotle/metaphysics/book-3/part-2
+linkftext: "Part 2"
+icon: "/icons/aris.jpg"
+---
+
 
 <!-- For those who wish to get clear of difficulties it is advantageous to discuss the difficulties well; for the subsequent free play of thought implies the solution of the previous difficulties, and it is not possible to untie a knot of which one does not know. But the difficulty of our thinking points to a 'knot' in the object; for in so far as our thought is in difficulties, it is in like case with those who are bound; for in either case it is impossible to go forward. Hence one should have surveyed all the difficulties beforehand, both for the purposes we have stated and because people who inquire without first stating the difficulties are like those who do not know where they have to go; besides, a man does not otherwise know even whether he has at any given time found what he is looking for or not; for the end is not clear to such a man, while to him who has first discussed the difficulties it is clear. Further, he who has heard all the contending arguments, as if they were the parties to a case, must be in a better position for judging. -->
 

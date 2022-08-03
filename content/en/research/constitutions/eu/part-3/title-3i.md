@@ -1,27 +1,27 @@
 SECTION 5: TRANSITIONAL PROVISIONS
 
-Article III-197
+Article 3-197
 
 1. Member States in respect of which the Council has not decided that they fulfil the necessary
 conditions for the adoption of the euro shall hereinafter be referred to as ‘Member States with a
 derogation’.
 2. The following provisions of the Constitution shall not apply to Member States with a derogation:
 (a) adoption of the parts of the broad economic policy guidelines which concern the euro area
-generally (Article III-179(2));
-(b) coercive means of remedying excessive deficits (Article III-184(9) and (10));
-(c) the objectives and tasks of the European System of Central Banks (Article III-185(1), (2), (3)
+generally (Article 3-179(2));
+(b) coercive means of remedying excessive deficits (Article 3-184(9) and (10));
+(c) the objectives and tasks of the European System of Central Banks (Article 3-185(1), (2), (3)
 and (5));
-(d) issue of the euro (Article III-186);
-(e) acts of the European Central Bank (Article III-190);
-(f) measures governing the use of the euro (Article III-191);
-(g) monetary agreements and other measures relating to exchange-rate policy (Article III-326);
-(h) appointment of members of the Executive Board of the European Central Bank (Article III-382
+(d) issue of the euro (Article 3-186);
+(e) acts of the European Central Bank (Article 3-190);
+(f) measures governing the use of the euro (Article 3-191);
+(g) monetary agreements and other measures relating to exchange-rate policy (Article 3-326);
+(h) appointment of members of the Executive Board of the European Central Bank (Article 3-382
 (2));
 (i) European decisions establishing common positions on issues of particular relevance for
 economic and monetary union within the competent international financial institutions and
-conferences (Article III-196(1));
+conferences (Article 3-196(1));
 (j) measures to ensure unified representation within the international financial institutions and
-conferences (Article III-196(2)).
+conferences (Article 3-196(2)).
 In the Articles referred to in points (a) to (j), ‘Member States’ shall therefore mean Member States
 whose currency is the euro.
 3. Under Chapter IX of the Statute of the European System of Central Banks and of the European
@@ -31,9 +31,9 @@ rights and obligations within the European System of Central Banks.
 be suspended for the adoption by the Council of the measures referred to in the Articles listed in
 paragraph 2, and in the following instances:
 (a) recommendations made to those Member States whose currency is the euro in the framework of
-multilateral surveillance, including on stability programmes and warnings (Article III-179(4));
+multilateral surveillance, including on stability programmes and warnings (Article 3-179(4));
 (b) measures relating to excessive deficits concerning those Member States whose currency is the
-euro (Article III-184(6), (7), (8) and (11)).
+euro (Article 3-184(6), (7), (8) and (11)).
 A qualified majority shall be defined as at least 55 % of the other members of the Council,
 representing Member States comprising at least 65 % of the population of the participating Member
 States.
@@ -41,7 +41,7 @@ A blocking minority must include at least the minimum number of these other Coun
 representing more than 35 % of the population of the participating Member States, plus one
 member, failing which the qualified majority shall be deemed attained.
 
-Article III-198
+Article 3-198
 1. At least once every two years, or at the request of a Member State with a derogation, the
 Commission and the European Central Bank shall report to the Council on the progress made by the
 Member States with a derogation in fulfilling their obligations regarding the achievement of
@@ -55,7 +55,7 @@ fulfilled the following criteria:
 is close to that of, at most, the three best performing Member States in terms of price stability;
 (b) the sustainability of the government financial position; this is apparent from having achieved a
 government budgetary position without a deficit that is excessive as determined in accordance
-with Article III-184(6);
+with Article 3-184(6);
 (c) the observance of the normal fluctuation margins provided for by the exchange-rate mechanism
 of the European monetary system, for at least two years, without devaluing against the euro;
 (d) the durability of convergence achieved by the Member State with a derogation and of its
@@ -86,8 +86,8 @@ Member State concerned, and laying down the other measures necessary for the int
 euro as the single currency in that Member State. The Council shall act with the unanimous
 agreement of the members representing Member States whose currency is the euro and the Member
 State concerned, after consulting the European Central Bank.
-Article III-199
-1. If and as long as there are Member States with a derogation, and without prejudice to Article III-
+Article 3-199
+1. If and as long as there are Member States with a derogation, and without prejudice to Article 3-
 187(1), the General Council of the European Central Bank referred to in Article 45 of the Statute of
 the European System of Central Banks and of the European Central Bank shall be constituted as a
 third decision-making body of the European Central Bank.
@@ -101,11 +101,11 @@ ensuring price stability;
 and affecting the stability of financial institutions and markets;
 (e) carry out the former tasks of the European Monetary Cooperation Fund which had subsequently
 been taken over by the European Monetary Institute.
-Article III-200
+Article 3-200
 Each Member State with a derogation shall treat its exchange-rate policy as a matter of common
 interest. In so doing, it shall take account of the experience acquired in cooperation within the
 framework of the exchange-rate mechanism.
-Article III-201
+Article 3-201
 1. Where a Member State with a derogation is in difficulties or is seriously threatened with
 difficulties as regards its balance of payments either as a result of an overall disequilibrium in its
 balance of payments, or as a result of the type of currency at its disposal, and where such difficulties
@@ -130,15 +130,15 @@ mutual assistance granted and the measures taken are insufficient, the Commissio
 the Member State with a derogation, which is in difficulties, to take protective measures, the
 conditions and details of which the Commission shall determine.
 Such authorisation may be revoked and such conditions and details may be changed by the Council.
-Article III-202
+Article 3-202
 1. Where a sudden crisis in the balance of payments occurs and a European decision as referred to
-in Article III-201(2) is not immediately adopted, a Member State with a derogation may, as a
+in Article 3-201(2) is not immediately adopted, a Member State with a derogation may, as a
 precaution, take the necessary protective measures. Such measures must cause the least possible
 disturbance in the functioning of the internal market and must not be wider in scope than is strictly
 necessary to remedy the sudden difficulties which have arisen.
 2. The Commission and the other Member States shall be informed of the protective measures
 referred to in paragraph 1 not later than when they enter into force. The Commission may
-recommend to the Council the granting of mutual assistance under Article III-201.
+recommend to the Council the granting of mutual assistance under Article 3-201.
 3. The Council, acting on a recommendation from the Commission and after consulting the
 Economic and Financial Committee may adopt a European decision stipulating that the Member State
 concerned shall amend, suspend or abolish the protective measures referred to in paragraph 1.

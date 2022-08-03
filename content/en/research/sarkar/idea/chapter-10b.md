@@ -4,9 +4,9 @@ heading: "Chapter 10b"
 date: 2022-01-11
 description: "In the cycle of social evolution, during each age before it is succeeded by another age, one particular class enjoys domination and superiority"
 image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-10"
+linkb: "/research/sarkar/idea/chapter-10"
 linkbtext: "Chapter 10"
-linkf: "/research/indian/idea/chapter-11"
+linkf: "/research/sarkar/idea/chapter-11"
 linkftext: "Chapter 11"
 icon: "/icons/sarkar.jpg"
 ---

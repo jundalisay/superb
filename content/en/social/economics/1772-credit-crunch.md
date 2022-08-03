@@ -13,6 +13,7 @@ author: Juan
 icon: /icons/pantry.png
 ---
 
+
 In 1772, a credit crisis originating in London hit and spread over Europe and affected the American colonies.
 
 The cause was the creation and over-circulation of bounced checks then known as redrawn bills of exchange. Speculators used these bills to gamble with bank money and the deposits of other people. The end result was a loss of capital, creating a credit crunch, which led to an economic downturn hitting Europe and too-big-to-fail companies. One of them was the East India Company which had to be bailed out with taxpayer money, specifically from the tea trade.

@@ -1,7 +1,7 @@
 +++
 title=  "Two Branches of Circulation=  Wholesale and Retail"
 description=  "Money Supply has two great divisions as wholesale and retail"
-date=  2020-01-01
+date=  2020-01-16
 image=  "/covers/wn.jpg"
 linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2l"
 linkbtext=  "Chapter 2l"

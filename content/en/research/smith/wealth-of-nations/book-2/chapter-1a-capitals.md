@@ -1,15 +1,16 @@
-+++
-title=  "Three Divisions of Stock"
-date=  2020-01-01
-heading=  "Book 2, Chapter 1a"
-image=  "/covers/wn.jpg"
-description=  "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
-linkb=  "/research/smith/wealth-of-nations/book-1"
-linkbtext=  "Book 1"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-1b-fixed"
-linkftext=  "Chapter 1b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Book 2, Chapter 1b"
+title: "Three Divisions of Stock"
+linkTitle: "Chapter 1b"
+date: 2020-01-31
+image: "/covers/wn.jpg"
+description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
+linkb: "/research/smith/wealth-of-nations/book-2/"
+linkbtext: "Book 2"
+linkf: "/research/smith/wealth-of-nations/book-2/chapter-1b-fixed"
+linkftext: "chapter 1b"
+icon: "/icons/smith.png"
+---
 
 
 ## Fixed Capital, Circulating Capital, and Stock for Consumption
@@ -25,11 +26,13 @@ icon=  "/icons/smith.png"
 
 His whole stock is made up of two parts= 
 
-1. His capital=  he expects this part to provide revenue
-2. His stock for immediate consumption=  This consists of
-- the stock that he means to consume,
-- the stock that becomes his revenue, or
-- the stock obtained in previous years which has not yet been consumed, such as clothes, furniture, etc.
+1. His capital
+  - He expects this part to provide revenue
+2. His stock for immediate consumption
+  - This consists of:
+    - the stock that he means to consume,
+    - the stock that becomes his revenue, or
+    - the stock obtained in previous years which has not yet been consumed, such as clothes, furniture, etc.
 
 The stock for immediate consumption can be one or a mix of these three.
 

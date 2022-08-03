@@ -66,7 +66,7 @@ Treaty establishing a Constitution for Europe with regard to the Schengen acquis
 PART II
 
 Article 5
-With regard to measures adopted by the Council pursuant to Article I-41, Article III-295(1) and
+With regard to measures adopted by the Council pursuant to Article I-41, Article 3-295(1) and
 Articles III-309 to III-313 of the Constitution, Denmark does not participate in the elaboration and
 the implementation of decisions and actions of the Union which have defence implications. Therefore
 Denmark shall not participate in their adoption. Denmark will not prevent the other Member States
@@ -159,7 +159,7 @@ Treaty establishing a Constitution for Europe
 Article 4
 Denmark may at any time after the adoption of a measure pursuant to Chapter IV of Title III of
 Part III of the Constitution notify its intention to the Council and the Commission that it wishes to
-accept that measure. In that case, the procedure provided for in Article III-420(1) of the Constitution
+accept that measure. In that case, the procedure provided for in Article 3-420(1) of the Constitution
 shall apply mutatis mutandis.
 Article 5
 1. Notification pursuant to Article 4 shall be submitted no later than six months after the final

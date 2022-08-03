@@ -139,7 +139,7 @@ Pagina 289
 Treaty establishing a Constitution for Europe
 289
 deemed, when released for free circulation in the customs territory of the Union, to be goods
-fulfilling the conditions of paragraphs 1 to 3 of Article III‑151 of the Constitution.
+fulfilling the conditions of paragraphs 1 to 3 of Article 3‑151 of the Constitution.
 2.
 The customs territory of the Union shall not include Ceuta and Melilla.
 3. Except where otherwise provided for in this Subsection, the acts of the institutions regarding

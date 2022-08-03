@@ -104,20 +104,20 @@ The provisions of the following Articles shall take effect on 1 November 2009:
 — Article I‑44(3), third, fourth and fifth subparagraphs, of the Constitution,
 — Article I‑59(5), second and third subparagraphs, of the Constitution,
 — Article I‑60(4), second subparagraph, of the Constitution,
-— Article III‑179(4), third and fourth subparagraphs, of the Constitution,954393_TRAITE_EN_351_400
+— Article 3‑179(4), third and fourth subparagraphs, of the Constitution,954393_TRAITE_EN_351_400
 13-01-2005
 08:01
 Pagina 392
 392
 Part IV
-— Article III‑184(6), third and fourth subparagraphs, of the Constitution,
-— Article III‑184(7), third and fourth subparagraphs, of the Constitution,
-— Article III‑194(2), second and third subparagraphs, of the Constitution,
-— Article III‑196(3), second and third subparagraphs, of the Constitution,
-— Article III‑197(4), second and third subparagraphs, of the Constitution,
-— Article III‑198(2), third subparagraph, of the Constitution,
-— Article III‑312(3), third and fourth subparagraphs, of the Constitution,
-— Article III‑312(4), third and fourth subparagraphs, of the Constitution,
+— Article 3‑184(6), third and fourth subparagraphs, of the Constitution,
+— Article 3‑184(7), third and fourth subparagraphs, of the Constitution,
+— Article 3‑194(2), second and third subparagraphs, of the Constitution,
+— Article 3‑196(3), second and third subparagraphs, of the Constitution,
+— Article 3‑197(4), second and third subparagraphs, of the Constitution,
+— Article 3‑198(2), third subparagraph, of the Constitution,
+— Article 3‑312(3), third and fourth subparagraphs, of the Constitution,
+— Article 3‑312(4), third and fourth subparagraphs, of the Constitution,
 — Article 1, second, third and fourth paragraphs, and Article 3(1), second, third and
 fourth subparagraphs, of the Protocol on the position of the United Kingdom and Ireland on
 policies in respect of border controls, asylum and immigration, judicial cooperation in civil
@@ -155,11 +155,11 @@ Article 5
 The terms of office of the Secretary‑General of the Council, High Representative for the common
 foreign and security policy, and the Deputy Secretary‑General of the Council shall end on the date of
 entry into force of the Treaty establishing a Constitution for Europe. The Council shall appoint a
-Secretary‑General in conformity with Article III‑344(2) of the Constitution.
+Secretary‑General in conformity with Article 3‑344(2) of the Constitution.
 TITLE V
 PROVISIONS CONCERNING ADVISORY BODIES
 Article 6
-Until entry into force of the European decision referred to in Article III‑386 of the Constitution, the
+Until entry into force of the European decision referred to in Article 3‑386 of the Constitution, the
 allocation of members of the Committee of the Regions shall be as follows:
 Belgium 12
 Czech Republic 12
@@ -192,7 +192,7 @@ Finland 9
 Sweden 12
 United Kingdom 24
 Article 7
-Until entry into force of the European decision referred to in Article III‑389 of the Constitution, the
+Until entry into force of the European decision referred to in Article 3‑389 of the Constitution, the
 allocation of members of the Economic and Social Committee shall be as follows:
 Belgium 12
 Czech Republic 12
