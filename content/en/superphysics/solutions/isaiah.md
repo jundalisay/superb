@@ -49,7 +49,10 @@ In this system, the price of goods can be determined using the quantity of other
 
 As you can see, our system liberates the economy from being bound only to money, making it a true free trade system by allowing iPhones to be valued in Huawei phones, rice, or whatever. This is similar to how the Big Mac index pegs currencies to the Big Mac, except that we peg Big Macs to rice so that economies can function without money. 
 
-Instead of equilibrium, this system is based on **ratios**.
+
+## Based on Ratios, Not Equalities
+
+Instead of equilibrium or the equals sign, this system is based on **ratios** or the ratio sign. This is in line with our proposed [Qualimath](/superphysics/solutions/qualimath)
 
 This is useful for poor people and even for corporations during financial crises where money is tight or unavailable. In addition, it will lower the cost of buying and selling since it will use the already-existing telecoms system, instead of the financial system with its expensive bankers and financiers*.
 
@@ -70,7 +73,7 @@ We call our AI as ISAIAH which stands for the Impartial Spectator Automated Inte
 
 - Impartial Spectator (IS-) — the AI must be impartial. In pantrynomics, we achieve this by setting its base valuation to the common grain of the country that it is measuring
 - Automated Intelligence (-AI-) — describes the AI as something that automates the existing thought-processing of whatever the Impartial Spectator's socio-political-economic goal is, whether it be price prediction, capital flows prediction, election prediction, legislation prediction, population demographic prediction, disease prediction, etc.
-- Aggregation Hub (-AH) — describes the centralization of the functions of the AI as a single cohesive unit, manifesting as socio-economic singularity
+- Aggregation Hub (-AH) — describes the centralization of the functionalities of the AI as a single cohesive unit, manifesting as socio-economic singularity. Nowadays, these functionalities are called 'skills' as Alexa Skills or 'actions' as Google Actions. 
 
 
 The idea is inspired by the prophet Isaiah who made many predictions about events in the Middle East. Likewise, AI is designed to make predictions about anything that it is evidenced by real data. 

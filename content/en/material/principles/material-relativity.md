@@ -35,7 +35,10 @@ Here we explain material relativity. -->
 
 According to Newton's Second Law, net force equals mass times acceleration. This is fine for ordinary things like a ball (mass) which is pushed (force) to start rolling (acceleration). 
 
-But what about a 50kg Buddhist monk that floats and accelerates 1 meter/second {{< s v="2" >}} without any force? How can `0 = 50 1m/s^2`?   
+But what about a 50 kilogram Buddhist monk who floats and accelerates 1 meter/second {{< s v="2" >}} without any force? How can `0 = 50 1m/s^2`?   
+
+
+![](/graphics/physics/francis.jpg)
 
 ## Aethereal Effort
 
@@ -62,7 +65,11 @@ E = Gm2 [GP second] - Gm1 [GP second]
 
 #
 
-Thus, it took 1 unit of effort to levitate 1 meter/second^2 with zero physical force.
+Thus, it took 1 unit of effort to levitate 1 meter/second^2 with zero physical force. 
+
+Note that this quantified effort is relevant only to the monk himself and cannot be used for comparison with the effort of other monks. It can only be compared to the past and future effort of that monk, where he compares himself with himself since the effort is metaphysical and bound to his own mind*.
+
+> *His mind is necessarily attached to his body which he moves by this kind of effort, without any force.  
 
 
 ## Physical Force
@@ -101,16 +108,31 @@ The block at time 2 location 2 is different from the same block at time 1 locati
 
 Newton's laws, however, see the object as the same object. This limits it to linear, forced movements.
 
-- From the perspective of planets, the limiter takes the form of Newton's G, which leads to g when two masses are added 
-- From the perspective of light, the limiter takes the form of Einstein's c, which leads to relative space versus time when "reference frames" are added
+- From the perspective of planets, the limiter takes the form of Newton's `G`, which leads to `g` when two masses are added 
+- From the perspective of light, the limiter takes the form of Einstein's `c`, which leads to relative space versus time when "reference frames" are added
 - From the perspective of galaxies, the limiter takes the form of an aethereal "dark matter", which leads to "dark energy" when red shift is added
 
 Thus, the limiter harmonizes the theories of Pythagoras, Newton, Einstein, and Descartes
 
 
-## Newton's G and g
+## Newton's `G` and `g`
 
-The `G` of Newton is the general push-force of the Material Aether* onto material bodies affected by the Strong force. `g` is its specific push-force on the Earth that leads to 9.81 m/s^2. The `g` of earth is different from the `g` of Jupiter. It follows that the `G` of the Milky way can be different from the `G` of other galaxies. This gives the diversity of galaxy colors and forms. 
+The `G` of Newton is the general push-force of the Material Aether* onto material bodies affected by the Strong force. `g` is its specific push-force on the Earth that leads to 9.81 m/s^2. The `g` of earth is different from the `g` of Jupiter. 
+
+It follows that the `G` of the Milky way can be different from the `G` of other galaxies. This gives the diversity of galaxy colors and forms. 
 
 > *The universe has 5 layers and so 5 aethers. We call the material aether occasionally as "Descartes' Earth" or "Stokes Aether" 
 
+
+
+
+## Material Relativity and Action at a Distance
+
+We use the Stokes (Material) Aether to demonstrate action at a distance. 
+
+We take a 1 kilogram object then apply a prolonged emission on it in order to reduce its weight by 1 gram. We then use this as the basis for a levitating object propelled by the aether.   
+
+![](/graphics/physics/aethertech.png)
+
+
+This is where `G`, `g`, and the Kepler tensor will be necessary to change the state of an object in order to move it through spacetime or Descartes' aether without needing contact forces.  

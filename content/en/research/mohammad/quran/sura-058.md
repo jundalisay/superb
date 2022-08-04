@@ -78,24 +78,15 @@ liars.
 caused them to forget the remembrance of
 Allah. These are the partisans of Satan. In-
 deed, it is Satan’s partisans who are the losers.
-20. Those who oppose Allah and His Messen-
-ger are among the lowliest.
+20. Those who oppose Allah and His Messenger are among the lowliest.
 21. Allah has written: “I will certainly prevail, I
-and My messengers.” Allah is Strong and
-Mighty.
-22. You will not find a people who believe in
-Allah and the Last Day, loving those who op-
-pose Allah and His Messenger, even if they
-were their parents, or their children, or their
-siblings, or their close relatives. These—He
+and My messengers.” Allah is Strong and Mighty.
+22. You will not find a people who believe in Allah and the Last Day, loving those who op-
+pose Allah and His Messenger, even if they were their parents, or their children, or their
+siblings, or their close relatives. These—He has inscribed faith in their hearts, and has supported them with a spirit from Him. And
+He will admit them into Gardens beneath which rivers flow, wherein they will dwell
+forever. 
 
-
-has inscribed faith in their hearts, and has
-supported them with a spirit from Him. And
-He will admit them into Gardens beneath
-which rivers flow, wherein they will dwell
-forever. Allah is pleased with them, and they
-are pleased with Him. These are the partisans
-of Allah. Indeed, it is Allah’s partisans who
-are the successful.
+Allah is pleased with them, and they are pleased with Him. These are the partisans
+of Allah. Indeed, it is Allah’s partisans who are the successful.
 

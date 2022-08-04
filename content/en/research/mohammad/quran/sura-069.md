@@ -11,20 +11,19 @@ linkftext: "Index"
 ---
 
 
-{{< s v="2" >}}  What is the Reality?
-{{< s v="4" >}}  Thamood and Aad denied the Catastrophe.
+{{< s v="2" >}}  What is the Inevitable Reality?
+{{< s v="4" >}} The Thamood and Aad denied the Resurrection<!-- Catastrophe -->.
+- {{< s v="5" >}} The Thamood were annihilated by the Overwhelming.
+- {{< s v="6" >}} The Aad were annihilated by a furious, roaring wind.
 
-As for Thamood, they were annihilated by
-the Overwhelming.
-
-6. And as for Aad; they were annihilated by a
-furious, roaring wind.
-
-7. He unleashed it upon them for seven nights and eight days, in succession. You could see
+{{< s v="7" >}} Allah unleashed it on them for 7 nights and 8 days, in succession. You could see
 the people tossed around, as though they were stumps of hollow palm-trees.
 
-8. Can you see any remnant of them?
-{{< s v="9" >}}  Then Pharaoh came, and those before him, and the Overturned Cities steeped in sin.{{< s v="10" >}}  But they disobeyed the messenger of their Lord, so He seized them with an overpowering grip.
+{{< s v="8" >}} Can you see any remnant of them?
+
+{{< s v="9" >}}  Then Pharaoh came, and those before him, and the Overturned Cities steeped in sin. 
+
+{{< s v="10" >}} They disobeyed the messenger of their Lord, so He seized them with an overpowering grip.
 {{< s v="11" >}}  When the waters overflowed, We carried you in the cruising ship.
 12. To make it a lesson for you—so that retaining ears may retain it.
 13. Then, when the Trumpet is sounded a single time.

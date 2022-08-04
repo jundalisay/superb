@@ -1,24 +1,37 @@
-+++
-title= "Matter and Number"
-heading= "Part 3 of the Simplified Metaphysics by Aristotle Book 8"
-image= "/covers/meta.jpg"
-description= "Aristotle explains the generation and destruction of substances"
-linkb= "/research/aristotle/metaphysics/book-8/part-2"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-8/part-4"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# inkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 3 Book 8 of Metaphysics by Aristotle Simplified"
+title: "Matter and Number"
+date: 2020-09-04
+image: "/covers/meta.jpg"
+description: "Aristotle explains the generation and destruction of substances"
+linkb: /research/aristotle/metaphysics/book-8/part-2
+linkbtext: "Part 2"
+linkf: /research/aristotle/metaphysics/book-8/part-4
+linkftext: "Part 4"
+icon: "/icons/aris.jpg"
+---
+
+
 
 A name sometimes means the composite substance, or the actuality or form. 
 
-e.g. whether 'house' is a sign for the composite thing, 'a covering consisting of bricks and stones laid thus and thus', or for the actuality or form, 'a covering', and whether a line is 'twoness in length' or 'twoness', and whether an animal is soul in a body' or 'a soul'; 
+For example, a 'house' can mean:
+- the composite thing, 'a covering consisting of bricks and stones laid thus and thus', or
+- the actual form 'a covering', and whether a line is 'twoness in length' or 'twoness'
 
-for soul is the substance or actuality of some body. 'Animal' might even be applied to both, not as something definable by one formula, but as related to a single thing. But this question, while important for another purpose, is of no importance for the inquiry into sensible substance; for the essence certainly attaches to the form and the actuality. For 'soul' and 'to be soul' are the same, but 'to be man' and 'man' are not the same, unless even the bare soul is to be called man; and thus on one interpretation the thing is the same as its essence, and on another it is not.
+'Animal' can mean either:
+- a soul in a body, or
+- a soul. 
 
-"If we examine we find that the syllable does not consist of the letters + juxtaposition, nor is the house bricks + juxtaposition. And this is right; for the juxtaposition or mixing does not consist of those things of which it is the juxtaposition or mixing. 
+Soul is the substance or actuality of some body. 
+
+'Animal' might even be applied to both, not as something definable by one formula, but as related to a single thing. 
+
+But this question is of no importance for the inquiry into sensible substance. For the essence certainly attaches to the form and the actuality.
+
+'Soul' and 'to be soul' are the same. But 'to be man' and 'man' are not the same, unless even the bare soul is to be called man. Thus, on one interpretation the thing is the same as its essence, and on another it is not.
+
+If we examine we find that the syllable does not consist of the letters + juxtaposition, nor is the house bricks + juxtaposition. And this is right; for the juxtaposition or mixing does not consist of those things of which it is the juxtaposition or mixing. 
 
 The same is true in all other cases; e.g. if the threshold is characterized by its position, the position is not constituted by the threshold, but rather the latter is constituted by the former. Nor is man animal + biped, but there must be something besides these, if these are matter,-something which is neither an element in the whole nor a compound, but is the substance; but this people eliminate, and state only the matter. If, then, this is the cause of the thing's being, and if the cause of its being is its substance, they will not be stating the substance itself.
 

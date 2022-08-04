@@ -1,6 +1,6 @@
 ---
-title: "The End of Capitalism"
-heading: "How Points-banking will put an end to Capitalism"
+title: "The End of Capitalism (and Marxism)"
+heading: "How Points-banking can end stagflation and trade wars for good"
 date: 2022-08-01
 image: "/photos/regicide.jpg"
 description: "Here we explain how Points-banking puts an end to commercial (tradeable) equity and, subsequently, Capitalism"
@@ -45,7 +45,7 @@ Likewise, a familty can eat dinner:
 - without using any money by cooking it themselves and serving it to each other, using family-relatonship bound by family morals, or
 - by using money by going to a restaurant, using customer-seller-relationship bound by commercial morals
 
-The current economic system only uses money and fails without it. Our points-based moneyless system frees up an economy by allowing a second, lower-cost mode, using more of the family-friends-morals instead of buyer-seller-morals.
+The current economic system only uses money, and commercial morals, and fails without it. Our points-based moneyless system frees up an economy by allowing a second, lower-cost mode, using more of the family-friends-morals instead of buyer-seller-morals.
 
 
 ## Points Quantify Effort
@@ -67,14 +67,14 @@ Average | 7.5
 
 The changing points then plot the changing quality or quantity of the meals and serve as a record of actual meal-events. The mother can then fairly demand from her children to excel in their own tasks, such as in their chores or in grades in school, in exchange for the benefits that they get from her.
 
-Since the points are quantification of events, their values do not inflate over time.  The system also requires its members to be tightly-knit, having common interest.  
+Since the points are quantification of past events, their values do not inflate over time.  The system also requires its members to be tightly-knit, having common interest.  
 
 An economic system based on points are therefore inflation-resistant and far less volatile than a money-based system. It also creates a tighter, more integrated, and responsive local economy that is organized into hubs and spokes. In our dinner example, the mother is the hub and the children are her spokes.  
 
 The money system, on the contrary, is arbitrary, disorganized, and fragmented since it relies on selfish-interest instead of the common-interest. These qualities cause prices to rise and fall wildly, with economic damage spreading uncontrollably. This is beneficial for speculators who buy and sell things to take advantage of price movements, following the maxim of 'buy low, sell high'. 
 
 
-## The Balance Sheet in a Capitalist System
+### The Balance Sheet in a Capitalist System
 
 Captialists use this maxim on equity by buying or investing in cheap stocks or startups, and then selling them when they become expensive.<!--  They buy corporate stocks cheap, and then sell them when the corporation does an initial public offering. -->
 
@@ -87,7 +87,7 @@ Cash | Loans Payable
 Property, Plant, Equipment | **Stockholder's Equity**
 
 
-## The Balance Sheet in a Points-based System
+### The Balance Sheet in a Points-based System
 
 Under a points-based system, equity and long-term debt are converted into moneyless points. 
 
@@ -194,6 +194,14 @@ It will also increase global trade since the Pool-countries will act as a single
 
 It also is a better alternative to a single currency like the Euro, which has many regulations, and the US Dollar, which is controlled by one country.  
 
+
+
+## Ends Both Capitalism and Marxism Gradually
+
+Since the points system gradually reduces the importance of equity, then stock-trading and stock-investments, then Capitalism also reduces in importance. 
+
+With Capitalism reduced, then the need for Marxism also declines, since Marx created it to counteract the evils of the capitalist bourgeoisie. This will slowly eliminate the Cold War which currenly manifests as AUKUS-EU vs China-Russia. 
+
 <!-- The CLearing funds circulate imports and exports between countries. This unifies national economies as one. The investor gains from investing in the right funds that focus on specific industry. For example, during a Covid outbreak, the a country can establish a vaccine-importation fund which will invite the money from rich people.    
 
 Each country has a certain industry that it wants to grow and so there is always investment opportunity for Clearing Funds. 
@@ -201,3 +209,7 @@ Each country has a certain industry that it wants to grow and so there is always
 Technically, the Clearing Fund is not public debt and is an supra-national institution by itself, similar to the World Trade Organization.  -->
 
 <!--  as an alternative to the money-based one.   -->
+
+In a future post, we will explain how Pool Clearing could have been used to unify Hongkong, Taiwan, and China peacefully without the needing to go through the current tensions.  
+
+

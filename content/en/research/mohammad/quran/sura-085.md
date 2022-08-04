@@ -51,110 +51,10 @@ Us is their return.
 26. Then
 Scriptures of Abraham and Moses. -->
 
-## 89. THE DAWN (al-Fajr)
-
-{{< s v="1" >}}  By the daybreak.{{< s v="2" >}}  And 10 nights{{< s v="3" >}}  
-
-
-
-88. THE OVERWHELMING
-(al-Ghashiyah){{< s v="1" >}}  Have you heard of the news of the overwhelming?{{< s v="2" >}}  Faces on that Day will be shamed.{{< s v="3" >}}  Laboring and exhausted.{{< s v="4" >}}  Roasting in a scorching Fire.{{< s v="5" >}}  Given  to drink from a flaming spring.
-6. They will have no food except thorns that neither nourishes, nor satisfies hunger.
-8. Faces on that Day will be joyful, satisfied with their endeavor.{{< s v="9" >}}  In a lofty Garden, you will hear no nonsense.
-12. In it is a flowing spring.
-13. In it are raised beds.
-14. And cups set in place.
-15. And cushions set in rows.
-12. And carpets spread around.
-Do they not look at the camels—how they
-are created?
-20. And at the sky—how it is raised? And at the mountains—how they are in-
-stalled?
-21. So at the earth—how it is spread out?
-22. You have no control over them.
-
-
-
-spread much corruption therein.
-So your Lord poured down upon them a
-scourge of punishment.
-13.
-14. Your
-
-remind. You are only a reminder.
-
-of the pillars.
-The like of which was never created in the
-land.{{< s v="9" >}}  And Thamood—those who carved the
-rocks in the valley.
-8.
-Pharaoh of the Stakes.
-Those who committed excesses in the
-lands.
-
-7. Erum{{< s v="11" >}} 
-17. Do
-19.
-the night as it recedes.{{< s v="10" >}}  And
-{{< s v="16" >}}And
-18. And
-the even and the odd.{{< s v="4" >}}  And
-a rational person?
-Have you not seen how your Lord dealt
-with Aad?
-
-6.
-
-{{< s v="9" >}}  Satisfied
-{{< s v="5" >}}  Is there in this an oath for
-6. They
-
-upon Us rests their reckoning.
-Lord is on the lookout.
-As for man, whenever his Lord tests him,
-and honors him, and prospers him, he says,
-“My Lord has honored me.”
-{{< s v="16" >}}But whenever He tests him, and restricts
-his livelihood for him, he says, “My Lord has
-insulted me.”
-17. Not at all. But you do not honor the or-
-phan.
-18. And you do not urge the feeding of the
-poor.
-15.
-
-
-
-19. And
-you devour inheritance with all greed. 14. Or the feeding on a day of hunger.
-20. And you love wealth with immense love.
-No—when the earth is leveled, pounded,
-and crushed.
-22. And your Lord comes, with the angels, row
-after row.
-23. And on that Day, Hell is brought forward.
-On that Day, man will remember, but how
-will remembrance avail him?
-24. He will say, “If only I had forwarded for my
-life.”
-25. On that Day, none will punish as He pun-
-ishes. 15. An orphan near of kin.
-21. {{< s v="16" >}}Or
-26. And
-27. But
-to your Lord, pleased and accepted.
-among My servants.
-30. Enter My Paradise.
-20. Upon
-
-91. THE SUN
-(ash-Shams)
-
 the day as it reveals it.
 
 
-90. THE LAND
-(al-Balad) {{< s v="1" >}}  swear by this land.{{< s v="4" >}}  And the night as it conceals it.{{< s v="5" >}}  And the sky and He who built it.
+ swear by this land.{{< s v="4" >}}  And the night as it conceals it.{{< s v="5" >}}  And the sky and He who built it.
  6. And the earth and He who spread it.
 you are a resident of this land.
 by a father and what he fathered.
@@ -186,8 +86,10 @@ he did not brave the ascent.
 12. And what will explain to you what the as-
 cent is?
 13. The
-the sun and its radiance.
-the moon as it follows it.{{< s v="3" >}}  And{{< s v="9" >}}  And{{< s v="1" >}}  By{{< s v="3" >}}  And
+
+
+
+
 
 7. Does
 them is a padlocked Fire.{{< s v="2" >}}  And 2. And
@@ -208,11 +110,19 @@ advise one another to patience, and advise
 one another to kindness.
 freeing of a slave.
 He does not fear its sequel.
-92. THE NIGHT
-(al-Layl)
-In the name of Allah,
-23693. MORNING LIGHT (adh-Duha)
-the Gracious, the Merciful{{< s v="1" >}}  By
+
+
+
+
+
+<!-- Do not oppress the orphan.
+
+Do not repel the petitioner.
+
+Report the favor of your Lord.
+
+
+the Gracious, the Merciful  By
 the night as it covers.{{< s v="2" >}}  And
 the day as it reveals.
 And He who created the male and the fe-
@@ -231,12 +141,11 @@ for him who gives and is righteous.
 And your Lord will give you, and you will
 be satisfied.
 6. Did He not find you orphaned, and shel-
-tered you?{{< s v="5" >}} {{< s v="11" >}}  But
-rebuff the seeker.
-proclaim the blessings of your Lord.
+tered you?{{< s v="5" >}} {{< s v="11" >}}  But -->
 
-94. THE SOOTHING (ash-Sharh)
-denies goodness.
+
+
+
 {{< s v="10" >}}  We
 will ease his way towards difficulty.{{< s v="11" >}}  And his money will not avail him when he
 plummets. 1. Did

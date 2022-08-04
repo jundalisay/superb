@@ -47,24 +47,27 @@ The Lord of the Worlds.
 
 ## 82. THE SHATTERING (al-Infitar)
 
-{{< s v="1" >}}  When the planets are scattered.{{< s v="3" >}}  When the oceans are exploded.{{< s v="4" >}}  When 
+{{< s v="1" >}} When:
+- the planets are scattered 
+- the oceans are exploded.
+- the tombs are strewn around.
 
-the tombs are strewn around.
-Each soul will know what it has advanced,
-and what it has deferred.
-6. O man! What deluded you concerning your
-Lord, the Most Generous?
-7. He Who created you, and formed you, and
-proportioned you?
+Each soul will know what it has advanced, and what it has deferred.
+
+6. O man! What deluded you concerning your Lord, the Most Generous?
+
+7. He Who created you, and formed you, and proportioned you?
+
 8. In whatever shape He willed, He assembled you.
+
 {{< s v="9" >}}  But you reject the religion.{{< s v="10" >}}  Though over you are watchers and honest recorders that know everything you do.. 
 The virtuous will be in bliss.
+
 14. While the wicked will be in Hell. They will enter it on the Day of Justice. They will not be absent from it.
 
-But what will convey to you what the Day
-of Justice is?
+But what will convey to you what the Day of Justice is?
+
 18. Then again, what will convey to you what
 the Day of Justice is?
-19. The Day when no soul will avail another
-soul anything; and the decision on that Day
-is Allah’s.
+
+19. It is the Day when no soul will avail another soul anything. The decision on that Day is Allah’s.

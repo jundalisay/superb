@@ -1,16 +1,16 @@
-+++
-title= "The unity of definitions and numbers"
-heading= "Part 6"
-image= "/covers/meta.jpg"
-description= "What is the cause of the unity of definitions and numbers?"
-linkb= "/research/aristotle/metaphysics/book-8/part-4"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-9/part-1"
-linkftext= "Part 1"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 6 Book 8 of Metaphysics by Aristotle Simplified"
+title: "The unity of definitions and numbers"
+date: 2020-09-04
+image: "/covers/meta.jpg"
+description: "What is the cause of the unity of definitions and numbers?"
+linkb: /research/aristotle/metaphysics/book-8/part-4
+linkbtext: "Part 4"
+linkf: /research/aristotle/metaphysics/book-9/part-1
+linkftext: "Part 1"
+icon: "/icons/aris.jpg"
+---
+
 
 What is the cause of the unity of definitions and numbers?
 

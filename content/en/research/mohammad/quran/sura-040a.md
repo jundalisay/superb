@@ -46,18 +46,15 @@ to the faith, but you refused.”
 {{< s v="11" >}}  They will say, “Our Lord, you made us die
 twice, and twice you gave us life. Now we
 acknowledge our sins. Is there any way out?”
-12. That is because when Allah alone was
-called upon, you disbelieved; but when others
-were associated with Him, you believed.
-Judgment rests with Allah the Sublime, the
-Majestic.
-13. It is He who shows you His wonders, and
-sends down sustenance from the sky for you.
+
+12. That is because when Allah alone was called upon, you disbelieved; but when others
+were associated with Him, you believed. 
+
+13. It is He who shows you His wonders, and sends down sustenance from the sky for you.
 But none pays heed except the repentant.
-14. So call upon Allah, with sincere devotion to
-Him, even though the disbelievers resent it.
-15. Exalted in rank, Owner of the Throne. He
-conveys the Spirit, by His command, upon
+
+14. So call upon Allah, with sincere devotion to Him, even though the disbelievers resent it.
+15. Exalted in rank, Owner of the Throne. He conveys the Spirit, by His command, upon
 whomever He wills of His servants, to warn
 of the Day of Encounter.
 {{< s v="16" >}}The Day when they will emerge, nothing

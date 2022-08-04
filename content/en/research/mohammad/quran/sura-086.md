@@ -1,52 +1,60 @@
 ---
-title: "THE NIGHTLY VISITOR (at-Tariq)"
+title: "THE NIGHTLY VISITOR and THE MOST HIGH"
 heading: "Chapter 86a of the Quran Simplified"
 date: 2022-01-31
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
 linkbtext: "Index"
-linkf: /research/mohammad/quran/
+linkf: /research/mohammad/quran/sura-091
 linkftext: "Index"
 ---
 
 
 
-{{< s v="1" >}}  By the sky and at-Tariq (Piercing Star).
+{{< s v="1" >}}  By the sky and the nightly visitor which is the star which has a light that pierces through the darkness. 
 
 {{< s v="4" >}}  There is no soul without a Protector over it.
 
 {{< s v="5" >}}  Let man consider what he was created from.
+- {{< s v="6-7" >}} He was created from gushing liquid, coming from between the backbone and the breastbones.
 
-6. He was created from gushing liquid. Coming from between the backbone and the breastbones.
+{{< s v="8" >}} Allah is certainly able to return him to life.
 
-8. He is certainly able to return him.{{< s v="9" >}}  On the Day when the secrets are disclosed.{{< s v="10" >}}  He will have no strength, and no supporter.{{< s v="11" >}}  By the sky that returns.
-12. And
-the earth that cracks open.
-13. It is a Decisive Word.
-14. It is no joke.
-15. They
-plot and scheme.
-{{< s v="16" >}}But
-I plot and scheme.
-Therefore, give the blasphemers respite, a
-brief respite.
+{{< s v="9" >}} On the Day when the secrets are disclosed, {{< s v="10" >}} man will have no strength, and no supporter.
+
+{{< s v="11" >}} By the sky that rains and the earth that cracks open, that Day is decisive and is not a joke. 
+
+{{< s v="15" >}} They are preparing a plan, but I am also preparing a plan. 
+
+{{< s v="17" >}} Therefore, give the blasphemers some time. Do not be in haste for revenge, for you will see what will become of
+them.
 
 
 
-87. THE MOST HIGH (al-A’la)
+## 87. THE MOST HIGH (al-A’la)
+
 {{< s v="2" >}}  Allah creates and regulates.
+
 {{< s v="3" >}}  He who measures and guides.{{< s v="4" >}}  He who produces the pasture.{{< s v="5" >}}  And then turns it into light debris.
+
 6. We will make you read, so do not forget.
+
 7. Except what Allah wills. He knows what is declared, and what is hidden.
-8. We will ease you into the Easy Way.{{< s v="9" >}}  So remind, if reminding helps.{{< s v="10" >}}  The reverent will remember.{{< s v="11" >}}  But the wretched will avoid it.
-12. He who will enter the Gigantic Fire.
-13. Where
-he will neither die, nor live.
-14. Successful is he who purifies himself. And mentions the name of his Lord, and
-prays. 15.
-{{< s v="16" >}}But you prefer the present life.
-Though the Hereafter is better, and more
-lasting.
-18. This is in the former scriptures of Abraham and Moses.
+
+8. We will ease you into the Easy Way.
+
+{{< s v="9" >}}  So remind, if reminding helps. 
+
+{{< s v="10" >}}  The reverent will remember.
+
+{{< s v="11-13" >}}  But the wretched will avoid it.
+- He will enter the Gigantic Fire where he will neither die, nor live.
+
+{{< s v="14-15" >}} Successful is he who:
+- purifies himself
+- mentions the name of his Lord, and
+- prays. 
+
+{{< s v="16-18" >}} But you prefer the worldly life even if the Hereafter is better, and more lasting. This is in the former scriptures of Abraham and Moses.
 

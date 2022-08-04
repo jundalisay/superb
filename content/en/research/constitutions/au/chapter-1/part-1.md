@@ -35,18 +35,25 @@ The salary of a Governor-General shall not be altered during his continuance in 
 
 4. Provisions relating to Governor-General
 
-The provisions of this Constitution relating to the Governor-General extend and apply to the Governor-General for the time being, or such person as the Queen may appoint to administer the Government of the Commonwealth; but no such person shall be entitled to receive any salary from the Commonwealth in respect of any other office during his administration of the Government of the Commonwealth.
+The provisions of this Constitution relating to the Governor-General extend and apply to the Governor-General for the time being, or such person as the Queen may appoint to administer the Government of the Commonwealth. 
+
+But no such person shall be entitled to receive any salary from the Commonwealth in respect of any other office during his administration of the Government of the Commonwealth.
 
 5. Sessions of Parliament, prorogation and dissolution
 
-The Governor-General may appoint such times for holding the sessions of the Parliament as he thinks fit, and may also from time to time, by Proclamation or otherwise, prorogue the Parliament, and may in like manner dissolve the House of Representatives.
+The Governor-General may:
+- appoint such times for holding the sessions of the Parliament as he thinks fit
+- from time to time prorogue the Parliament by Proclamation or otherwise
+- dissolve the House of Representatives.
+
 
 ## Summoning Parliament
 
-After any general election the Parliament shall be summoned to meet not later than thirty days after the day appointed for the return of the writs.
+After any general election the Parliament shall be summoned to meet not later than 30 days after the day appointed for the return of the writs.
 
-First session
+<!-- First session -->
 The Parliament shall be summoned to meet not later than six months after the establishment of the Commonwealth.
 
 6. Yearly session of Parliament
-There shall be a session of the Parliament once at least in every year, so that twelve months shall not intervene between the last sitting of the Parliament in one session and its first sitting in the next session.
+
+A session of the Parliament is held once at least in every year. <!-- , so that twelve months shall not intervene between the last sitting of the Parliament in one session and its first sitting in the next session. -->

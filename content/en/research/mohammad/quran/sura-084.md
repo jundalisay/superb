@@ -11,33 +11,41 @@ linkftext: "Index"
 ---
 
 
-{{< s v="1" >}}  When the sky is ruptured. hearkens to its Lord, as it must.
+{{< s v="1" >}}  When:
+- the sky is ruptured and hearkens to its Lord, as it must.
+- {{< s v="3" >}} the earth is leveled out and casts out what is in it, becomes empty and hearkens to its Lord, as it must.
 
-{{< s v="3" >}}  And when the earth is leveled out.
+O mankind! You are laboring towards your Lord, and you will meet Him.
 
-And casts out what is in it, and becomes empty.
+7. He who is given his book in his right hand, he will be judged with an easy account.
 
-hearkens to its Lord, as it must.
+{{< s v="9" >}}  And will return to his family delighted.
 
-O man! You are laboring towards your Lord, and you will meet Him.
+{{< s v="10-12" >}} But he who is given his book behind his back, he will:
+- cry out for death and
+- enter the Blaze.
 
-7. As for him who is given his book in his right hand.
+He:
+- used to be happy among his family.
+- thought he would never return.
 
-He will have an easy settlement.
+{{< s v="15" >}} In fact, his Lord was watching him. 
 
-{{< s v="9" >}}  And will return to his family delighted.{{< s v="10" >}}  But as for him who is given his book behind{{< s v="11" >}}  He will call for death.
+{{< s v="16-19" >}} I swear:
+- by the twilight
+- by the night
+- by the moon as it grows full.
 
-12. And will enter the Blaze.
-13. He used to be happy among his family.
-14. He thought he would never return.
-15. In fact, his Lord was watching him. I swear by the twilight.
-17. And by the night, and what it covers.
-18. And by the moon, as it grows full.
-19. You will mount stage by stage.
-21. The Quran is read to the disbelievers and they do not bow down. 
-22. In fact, those who disbelieve are in denial.
-23. But Allah knows what they hide inside.
-24. So inform them of a painful punishment.
-25. Except those who believe and do good
-deeds; they will have an undiminished re-
-ward.
+I swear that you will experience this stage after stage. 
+
+20. So why do they not:
+- believe when the QurÕŒn is recited to them and
+- prostrate to Allah?
+
+<!-- 22. The disbelievers deny,
+23. And AllŒh is most knowing of what they keep within themselves. -->
+
+24. So give them tidings of a painful punishment,
+<!-- 25. Except for those who believe and do righteous deeds. For them
+is a reward uninterrupted.
+ -->

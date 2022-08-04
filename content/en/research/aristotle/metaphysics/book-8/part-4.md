@@ -1,16 +1,16 @@
-+++
-title= "The origin of substance"
-heading= "Part 4 of the Simplified Metaphysics by Aristotle Book 8"
-image= "/covers/meta.jpg"
-description= "Aristotle explains the original substance behind matter"
-linkb= "/research/aristotle/metaphysics/book-8/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-8/part-3"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 4 Book 8 of Metaphysics by Aristotle Simplified"
+title: "The Origin of Substance"
+date: 2020-09-04
+image: "/covers/meta.jpg"
+description: "Aristotle explains the original substance behind matter"
+linkb: /research/aristotle/metaphysics/book-8/part-3
+linkbtext: "Part 3"
+linkf: /research/aristotle/metaphysics/book-8/part-6
+linkftext: "Part 6"
+icon: "/icons/aris.jpg"
+---
+
 
 <!-- "Regarding material substance we must not forget that  -->
 

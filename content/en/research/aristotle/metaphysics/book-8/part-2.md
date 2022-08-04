@@ -1,33 +1,54 @@
-+++
-title= "The matter of Democritus"
-heading= "Part 2 of the Simplified Metaphysics by Aristotle Book 8"
-image= "/covers/meta.jpg"
-description= "Matter has many differences"
-linkb= "/research/aristotle/metaphysics/book-8/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-8/part-3"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 2 Book 8 of Metaphysics by Aristotle Simplified"
+title: "The Matter of Democritus"
+date: 2020-09-04
+image: "/covers/meta.jpg"
+description: "Matter has many differences"
+linkb: /research/aristotle/metaphysics/book-8/part-1
+linkbtext: "Part 1"
+linkf: /research/aristotle/metaphysics/book-8/part-3
+linkftext: "Part 3"
+icon: "/icons/aris.jpg"
+---
 
-The substance which exists as underlying and as matter is generally recognized, and this that which exists potentially, it remains for us to say what is the substance, in the sense of actuality, of sensible things. 
 
-Democritus thinks there are three kinds of difference between things:
+We generally recognize the substance which exists:
+- as the underlying substance and
+  - This exists potentially
+- as matter
+
+But what is this substance in the sense of sensible actuality?
+
+Democritus thinks there are 3 kinds of difference between things:
 - their rhythm (shape)
 - their turning (position)
 - their intercontact (order)
 
 The underlying body (matter) is one and the same, but they differ in those three.
 
-But there are many differences. Some things are characterized by the composition of their matter, e.g. the things formed by blending, such as honey-water
+But I think there are many differences, not just three. 
 
-Others by being bound together, e.g. bundle; and others by being glued together, e.g. a book; and others by being nailed together, e.g. a casket; and others in more than one of these ways; and others by position, e.g. threshold and lintel (for these differ by being placed in a certain way); and others by time, e.g. dinner and breakfast; and others by place, e.g. the winds; and others by the affections proper to sensible things, e.g. hardness and softness, density and rarity, dryness and wetness; 
+- Some things are characterized by the composition of their matter, e.g. the things formed by blending, such as honey-water
+- Others are characterized by being bound together, e.g. bundle
+- Others are characterized by being glued together, e.g. a book
+- Others are characterized by being nailed together, e.g. a casket
+- Others are characterized in more than one of these ways
+- Others are characterized by position, e.g. threshold and lintel (for these differ by being placed in a certain way)
+- Others are characterized by time, e.g. dinner and breakfast
+- Others are characterized by place, e.g. the winds
+- Others are characterized by the affections proper to sensible things, e.g. hardness and softness, density and rarity, dryness and wetness 
 
 Some things by some of these qualities, others by them all, and in general some by excess and some by defect. 
 
-Clearly, then, the word 'is' has just as many meanings; a thing is a threshold because it lies in such and such a position, and its being means its lying in that position, while being ice means having been solidified in such and such a way. And the being of some things will be defined by all these qualities, because some parts of them are mixed, others are blended, others are bound together, others are solidified, and others use the other differentiae; e.g. the hand or the foot requires such complex definition. We must grasp, then, the kinds of differentiae (for these will be the principles of the being of things), e.g. the things characterized by the more and the less, or by the dense and the rare, and by other such qualities; for all these are forms of excess and defect.
+Clearly then, the word 'is' has just as many meanings. 
+
+A thing is a threshold because it lies in such and such a position. Its being means its lying in that position, while being ice means having been solidified in such and such a way. 
+
+The being of some things will be defined by all these qualities, because some parts of them are mixed, others are blended, others are bound together, others are solidified, and others use the other differentiae; e.g. the hand or the foot requires such complex definition. 
+
+We must grasp, then, the kinds of differentiae (for these will be the principles of the being of things), e.g. the things characterized by the more and the less, or by the dense and the rare, and by other such qualities; for all these are forms of excess and defect.
+
+
 
 Anything that is characterized by shape or by smoothness and roughness is characterized by the straight and the curved. And for other things their being will mean their being mixed, and their not being will mean the opposite.
 

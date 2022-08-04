@@ -13,41 +13,32 @@ linkftext: "Index"
 
 {{< s v="1" >}}  Noon. By the pen, and by what they inscribe.
 
-{{< s v="2" >}}  By the grace of your Lord, you are not insane.
+{{< s v="2" >}}  Mohammad, you are not insane.
 
 {{< s v="3" >}}  In fact, you will have a reward that will never end.
 
-{{< s v="4" >}}  And you are of a great moral character.{{< s v="5" >}}  You will see, and they will see.
+{{< s v="4" >}}  You are of a great moral character.
+- {{< s v="5-6" >}}  You will see, and they will see which of you is afflicted by the devil.
 
-6. Which of you is the afflicted.
-7. Your Lord knows best who has strayed from
-His path, and He knows best the well-guided.
-8. So do not obey the deniers.{{< s v="9" >}}  They would like you to compromise, so they
-would compromise.{{< s v="10" >}}  And
-do not obey any vile swearer.
+{{< s v="7">}} Your Lord knows best:
+-  who has strayed from His path, and
+- who is the well-guided.
 
-{{< s v="11" >}}  Backbiter,
-spreader of slander.
+{{< s v="8">}} 8. So do not obey the deniers.
+- {{< s v="9" >}}  They would like you to compromise, so that they would compromise too.
 
-12. Preventer
-13. Rude
-36. What
-of good, transgressor, sinner.
-and fake besides.
-14. Just
-because he has money and children.
-15. When Our Verses are recited to him, he
-says, “Myths of the ancients!”
-{{< s v="16" >}}We
-will brand him on the muzzle.
-them, as We tested the owners of
-the garden, when they vowed to harvest it in
-the morning.
-17. We tested
-18. Without
-any reservation.
-But a calamity from your Lord went
-around it while they slept.
+{{< s v="10" >}}  Do not obey:
+- any vile swearer.
+- {{< s v="11" >}} the backbiter, spreader of slander
+- {{< s v="12">}} the cruel, illegitimate pretender
+
+{{< s v="14" >}} Just because he has money and children, he says that Our Verses are “Myths of the ancients!”
+{{< s v="16" >}} We will brand him on his snout. 
+
+{{< s v="17-18" >}} We have tried them as We tried the companions of the garden, when they swore to cut its fruit in the [early] morning without any reservation.
+
+{{< s v="19" >}} This is why a calamity from your Lord came upon the garden while they slept.
+
 19.
 20. And
 in the morning it was as if picked.

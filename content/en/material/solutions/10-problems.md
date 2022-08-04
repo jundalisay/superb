@@ -23,8 +23,9 @@ icon: /icons/spmat.png
 **5-6. Dark Energy and Dark Matter**
 
 - Cause of Problem: General Relativity
-- Solution: Spatial Layer and Quanta of Spacetime
+- Solution: Spatial Layer, Quanta of Spacetime, and Aethereal Vortices
 
+![Aether](/graphics/physics/aethertech.png)
 
 
 ## Particle Problems
@@ -80,3 +81,5 @@ Solution: Use the aether as the measure via qualimath or data science
 Cause of Problem: General Relativity
 
 Solution: The Cartesian View
+
+![Aether](/graphics/physics/aether.jpg)

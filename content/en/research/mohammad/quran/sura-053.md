@@ -13,22 +13,28 @@ linkftext: "Index"
 
 {{< s v="1" >}}  By the star as it goes down. friend has not gone astray, nor has he erred.
 
-{{< s v="2" >}}  Your{{< s v="3" >}}  Nor{{< s v="4" >}}  It does he speak out of desire.
-is but a revelation revealed.
+{{< s v="2" >}}  The Prophet Mohammad:
+- has not strayed nor erred. 
+- {{< s v="3" >}} nor does he speak out of his own inclination.
 
-{{< s v="5" >}}  Taught
+{{< s v="4" >}} He speaks from a revelation revealed, {{< s v="5" >}} taught to him by the extremely powerful Gabriel. 
 
-6. The
-to him by the Extremely Powerful.
-one of vigor. He settled.
-7. While
-8. Then
-he was at the highest horizon.
-he came near, and hovered around.{{< s v="9" >}}  He
-was within two bows’ length, or closer.
-Then He revealed to His servant what He
-revealed.{{< s v="10" >}} {{< s v="11" >}}  The
-heart did not lie about what it saw.
+He rose to his true form while he was in the higher part of the horizon.
+- Then he approached and descended and was at a distance of two bow-lengths or nearer.
+
+- He revealed to His Servant
+
+11. The heart did not lie [about] what it saw.
+12. So will you dispute with him over what he saw?
+13. And he certainly saw him in another descent 1459
+14. At the Lote Tree of the Utmost Boundary –
+15. Near it is the Garden of Refuge [i.e., Paradise] –
+16. When there covered the Lote Tree that which covered [it]. 14
+
+
+
+
+
 Will you dispute with him concerning
 what he saw?
 12.
