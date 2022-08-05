@@ -1,7 +1,7 @@
 ---
 title: "SMOKE (ad-Dukhan)"
 heading: "Chapter 44a of the Quran Simplified"
-date: 2022-01-31
+date: 2021-12-14
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -73,7 +73,7 @@ comforts they used to enjoy.
 people.
 29. Neither heaven nor earth wept over them,
 nor were they reprieved.
-30. And We delivered the Children of Israel
+30. And We delivered the Jews
 from the humiliating persecution.
 31. From Pharaoh. He was a transgressing ty-
 rant.

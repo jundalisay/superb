@@ -1,7 +1,7 @@
 ---
 title: "FORGIVER (Ghafir)"
 heading: "Chapter 40 of the Quran Simplified"
-date: 2022-01-31
+date: 2021-12-18
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -204,7 +204,7 @@ the Day the witnesses arise.
 the wrongdoers, and the curse will be upon
 them, and they will have the Home of Misery.
 53. We gave Moses guidance, and made the
-Children of Israel inherit the Scripture.
+Jews inherit the Scripture.
 54. A guide and a reminder for those endowed
 with reason.
 55. So be patient. The promise of Allah is true.

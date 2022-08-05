@@ -1,7 +1,7 @@
 ---
 title: "Women (an-Nisa’)"
 heading: "Chapter 4a of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-20
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -11,47 +11,37 @@ linkftext: "Index"
 ---
 
 
-{{< s v="135" >}} Stand firmly for justice, as witnesses to Allah, even if against yourselves, or your parents, or your relatives.
+{{< s v="135" >}} Stand firmly for justice, as witnesses to Allah, even if against:
+- yourselves,
+- your parents, or
+- your relatives.
 
-Allah takes care of both rich or poor, 
-
-So do not follow your desires, lest you swerve. 
+Allah takes care of both rich or poor.
+- So do not follow your desires, lest you swerve. 
 <!-- - If you deviate, or turn away—then Allah is Aware of what you do. -->
 
-{{< s v="136" >}} <!-- 136. O you who believe! Believe in Allah and His messenger, and the Book He sent down to His messenger, and the Book He sent down before. --> Whoever rejects Allah, His angels, His Books, His messengers, and the Last Day, has strayed far in error.
+{{< s v="136" >}} <!-- 136. Muslims,  Believe in Allah and His messenger, and the Book He sent down to His messenger, and the Book He sent down before. --> Whoever rejects Allah, His angels, His Books, His messengers, and the Last Day, has strayed far in error.
 
-{{< s v="137" >}} Those who believe, then disbelieve, then believe, then disbelieve, then increase in disbelief, Allah will not forgive them, nor will He guide them to a way.
+{{< s v="137" >}} Allah will not forgive nor guide those who believe, then disbelieve, then believe, then disbelieve, then increase in disbelief.
 
-138. Inform the hypocrites that they will have a
-painful punishment.
-139. Those who ally themselves with the disbe-
-lievers instead of the believers. Do they seek
-glory in them? All glory belongs to Allah.
-140. He has revealed to you in the Book that
-when you hear Allah’s revelations being re-
-jected, or ridiculed, do not sit with them until
-they engage in some other subject. Other-
-wise, you would be like them. Allah will
-gather the hypocrites and the disbelievers,
-into Hell, altogether.
-141. Those who lie in wait for you: if you attain
-victory from Allah, they say, “Were we not
-with you?” But if the disbelievers get a turn,
+<!-- 138. Inform the hypocrites that they will have a painful punishment. -->
 
-142. The hypocrites try to deceive Allah, but He
-is deceiving them. And when they stand for
-prayer, they stand lazily, showing off in front
-of people, and remembering Allah only a lit-
-tle.
-143. Wavering in between, neither with these,
-nor with those. Whomever Allah sends
-astray, you will never find for him a way.
-144. O you who believe! Do not befriend disbe-
-lievers rather than believers. Do you want to
-give Allah a clear case against you?
-145. The hypocrites will be in the lowest level
-of the Fire, and you will find no helper for
-them.
+{{< s v="139" >}} Those who ally themselves with the disbelievers instead of the believers. Do they seek glory in them? 
+
+140. When you hear Allah’s revelations being rejected, or ridiculed, do not sit with them until they engage in some other subject. 
+- Otherwise, you would be like them. <!-- Allah will gather the hypocrites and the disbelievers, into Hell, altogether. -->
+
+141. Those who lie in wait for you: if you attain victory from Allah, they say, “Were we not with you?” But if the disbelievers get a turn,
+
+142. The hypocrites try to deceive Allah, but He is deceiving them. 
+
+When they stand for prayer, they stand lazily. They show off in front of people and remembering Allah only a little.
+
+143. Wavering in between, neither with these, nor with those. <!-- Whomever Allah sends astray, you will never find for him a way. -->
+
+144. Muslims,  Do not befriend disbelievers rather than believers. Do you want to give Allah a clear case against you? 
+
+145. The hypocrites will be in the lowest level of the Fire, and you will find no helper for them.
 
 146. Except those who repent, and reform, and hold fast to Allah, and dedicate their religion
 to Allah alone. These are with the believers; and Allah will give the believers a great reward.
@@ -73,19 +63,14 @@ But if you refuse—to Allah belongs everything in the heavens and everything on
 Allah is in no need, Praiseworthy. 
 
 
-152. As for those who believe in Allah and His
-messengers, and make no distinction be-
-tween any of them—He will give them their
-rewards. Allah is Forgiver and Merciful.
-153. The People of the Scripture challenge you
-to bring down to them a book from the sky.
-They had asked Moses for something even
-greater. They said, “Show us Allah plainly.”
-The thunderbolt struck them for their wick-
-edness. Then they took the calf for worship,
+152. As for those who believe in Allah and His messengers, and make no distinction be-
+tween any of them—He will give them their rewards. Allah is Forgiver and Merciful.
+153. The People of the Scripture challenge you to bring down to them a book from the sky.
+They had asked Moses for something even greater. They said, “Show us Allah plainly.”
+The thunderbolt struck them for their wickedness. Then they took the calf for worship,
 even after the clear proofs had come to them.
-Yet We pardoned that, and We gave Moses a
-clear authority.
+
+Yet We pardoned that, and We gave Moses a clear authority.
 
 154. We raised the Mount above them in accordance with their covenant. 
 

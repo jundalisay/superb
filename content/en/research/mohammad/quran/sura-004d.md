@@ -1,15 +1,14 @@
 ---
-title: "Women (an-Nisa’)"
+title: "Fight for Allah"
 heading: "Chapter 4d of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-22
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-004c
+linkbtext: "sura-004c"
+linkf: /research/mohammad/quran/sura-004e
+linkftext: "sura-004e"
 ---
-
 
 
 {{< s v="69" >}} Whoever obeys Allah and the Messenger are blessed by Allah. 
@@ -39,8 +38,7 @@ Whoever fights in the cause of Allah, and then is killed, or achieves victory, W
 
 {{< s v="75" >}} Why would you not fight in the cause of Allah, and the helpless men, and women, and children, cry out, “Our Lord, deliver us from this town whose people are oppressive, and appoint for us from Your Presence a Protector, and appoint for us from Your Presence a Victor.”
 
-{{< s v="76" >}} Those who believe fight in the cause of Allah, while those who disbelieve fight in the cause of Evil. So fight the allies of the Devil.
-Surely the strategy of the Devil is weak.
+{{< s v="76" >}} Those who believe fight in the cause of Allah, while those who disbelieve fight in the cause of Evil. So fight the allies of the Devil. Surely the strategy of the Devil is weak.
 
 {{< s v="77" >}} Have you not considered those who were told, “Restrain your hands, and perform your prayers, and spend in regular charity”? But when fighting was ordained for them, a faction of them feared the people as Allah is ought to be feared, or even more. 
 
@@ -69,7 +67,10 @@ have found in it much discrepancy.
 
 {{< s v="83" >}}  When some news of security or alarm comes their way, they broadcast it. But had they referred it to the Messenger, and to those in authority among them, those who can draw conclusions from it would have comprehended it. Were it not for Allah’s blessing and mercy upon you, you would have followed the Devil, except for a few.
 
-{{< s v="84" >}}  So fight in the cause of Allah; you are responsible only for yourself. And rouse the believers. Perhaps Allah will restrain the might of those who disbelieve. <!-- Allah is Stronger in
+{{< s v="84" >}}  So fight in the cause of Allah.
+- You are responsible only for yourself.
+- Rouse the believers. 
+- Perhaps Allah will restrain the might of those who disbelieve. <!-- Allah is Stronger in
 Might, and More Punishing. -->
 
 {{< s v="85" >}}  Whoever intercedes for a good cause has a share in it. 

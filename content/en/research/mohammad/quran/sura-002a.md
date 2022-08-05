@@ -6,8 +6,8 @@ image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
 linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkf: /research/mohammad/quran/sura-002b
+linkftext: "sura-002b"
 ---
 
 
@@ -122,6 +122,9 @@ linkftext: "Index"
 
 This is the Book in which there is no doubt, a guide for the righteous.
 
+
+## The Righteous
+
 {{< s v="3">}} The righteous are those who:
 - believe in the unseen
 - perform the prayers
@@ -132,6 +135,8 @@ This is the Book in which there is no doubt, a guide for the righteous.
 
 These are the successful.
 
+
+## The Fake Believers
 
 {{< s v="6" >}} The disbelievers will disbelieve whether you have warned them or not.
 

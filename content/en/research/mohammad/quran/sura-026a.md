@@ -1,7 +1,7 @@
 ---
 title: "THE POETS (ash-Shu’ara’)"
 heading: "Chapter 26 of the Quran Simplified"
-date: 2021-11-20
+date: 2021-12-29
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -42,13 +42,13 @@ plain to see.
 34. He said to the dignitaries around him, “This is a skilled magician.
 35. He intends to drive you out of your land with his magic, so what do you recommend?”
 36. They said, “Delay him and his brother, and send recruiters to the cities.
-18. He 37. To bring the Children of Israel go with us.'“
+18. He 37. To bring the Jews go with us.'“
 said, “Did we not raise you among us as a child, and you stayed among us for many of your years?
 
 19. And you committed that deed you committed, and you were ungrateful.”
 20. He said, “I did it then, when I was of those astray.
 21. And I fled from you when I feared you; but my Lord gave me wisdom, and made me one of the messengers.
-22. Is that the favor you taunt me with, although you have enslaved the Children of Israel?”
+22. Is that the favor you taunt me with, although you have enslaved the Jews?”
 23. Pharaoh said, “And what is the Lord of the Worlds?”
 24. He said, “The Lord of the heavens and the earth, and everything between them, if you are aware.”
 25. He said to those around him, “Do you not hear?”
@@ -416,7 +416,7 @@ a clear Arabic tongue.
 196. And
 it is in the scriptures of the ancients.
 197. Is it not a sign for them that the scholars
-of the Children of Israel recognized it?
+of the Jews recognized it?
 198. Had We revealed it to one of the foreign-
 ers.
 199. And he had recited it to them, they still
@@ -703,7 +703,7 @@ And your Lord knows what their hearts
 conceal, and what they reveal.
 75. There is no mystery in the heaven and the
 earth, but it is in a Clear Book.
-76. This Quran relates to the Children of Israel
+76. This Quran relates to the Jews
 most of what they differ about.
 77. And it is guidance and mercy for the be-
 lievers.

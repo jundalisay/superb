@@ -1,7 +1,7 @@
 ---
 title: "THE CHAMBERS (al-Hujurat)"
 heading: "Chapter 49a of the Quran Simplified"
-date: 2022-01-31
+date: 2021-12-09
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -12,12 +12,12 @@ linkftext: "Index"
 
 
 {{< s v="1" >}}  Do not place your opinions above that of Allah and His Messenger, and fear Allah. 
-{{< s v="2" >}}  O you who believe! Do not raise your voices above the voice of the Prophet, and do not speak loudly to him, as you speak loudly to one another, lest your works be in vain without you realizing. 
+{{< s v="2" >}}  Muslims,  Do not raise your voices above the voice of the Prophet, and do not speak loudly to him, as you speak loudly to one another, lest your works be in vain without you realizing. 
 {{< s v="3" >}}  Those who lower their voices before Allah’s Messenger—those are they whose hearts Al-
 lah has tested for piety. They will have forgiveness and a great reward.{{< s v="4" >}}  Those who call you from behind the chambers—most of them do not understand.{{< s v="5" >}}  Had they remained patient until you came out to them, it would have been better for
 them. But Allah is Forgiving and Merciful.
 
-6. O you who believe! If a troublemaker brings you any news, investigate, lest you harm peo-
+6. Muslims,  If a troublemaker brings you any news, investigate, lest you harm peo-
 ple out of ignorance, and you become regretful for what you have done.
 7. And know that among you is the Messenger of Allah. Had he obeyed you in many things,
 you would have suffered hardship. But Allah has given you the love of faith, and adorned
@@ -32,7 +32,7 @@ mand. Once it has complied, reconcile be-
 tween them with justice, and be equitable. Al-
 lah loves the equitable.{{< s v="10" >}}  The believers are brothers, so reconcile be-
 tween your brothers, and remain conscious
-of Allah, so that you may receive mercy.{{< s v="11" >}}  O you who believe! No people shall ridicule
+of Allah, so that you may receive mercy.{{< s v="11" >}}  Muslims,  No people shall ridicule
 other people, for they may be better than
 they. Nor shall any women ridicule other
 women, for they may be better than they. Nor
@@ -41,7 +41,7 @@ insult one another with names. Evil is the re-
 turn to wickedness after having attained
 faith. Whoever does not repent—these are
 the wrongdoers.
-12. O you who believe! Avoid most suspi-
+12. Muslims,  Avoid most suspi-
 cion—some suspicion is sinful. And do not
 spy on one another, nor backbite one an-
 other. Would any of you like to eat the flesh

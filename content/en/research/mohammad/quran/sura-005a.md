@@ -1,7 +1,7 @@
 ---
 title: "The Table (al-Ma’idah)"
 heading: "Chapter 5a of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-19
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -11,9 +11,9 @@ linkftext: "Index"
 ---
 
 
-{{< s v="1" >}} O you who believe! Fulfill your commitments. 
+{{< s v="1" >}} Muslims, fulfill your commitments. 
 
-Livestock animals are allowedm except those specified. Wild game is not allowed  while you are in pilgrim sanctity.
+Livestock animals are allowed except those specified. Wild game is not allowed  while you are in pilgrim sanctity.
 
 {{< s v="2" >}} Do not violate:
 - Allah’s sacraments
@@ -85,13 +85,21 @@ Remain conscious of Allah, for Allah knows what the hearts contain.
 {{< s v="11" >}}  Remember Allah's blessings upon you; when certain people intended to extend their hands against you, and
 He restrained their hands from you. So reverence Allah, and in Allah let the believers put their trust.
 
-{{< s v="12" >}} Allah received a pledge from the Children of Israel, and We raised among them 12 chiefs. 
+{{< s v="12" >}} Allah received a pledge from the Jews, and We raised among them 12 chiefs. 
 
-Allah said, “I am with you; if you perform the prayer, and pay the alms, and be-
-lieve in My messengers and support them, and lend Allah a loan of righteousness; I will
-remit your sins, and admit you into Gardens beneath which rivers flow. But whoever
-among you disbelieves afterwards has strayed from the right way.”
+Allah said, “I am with you. I will remit your sins, and admit you into Gardens if you:
+- perform the prayer
+- pay the alms
+- believe in My messengers and support them
+- lend Allah a loan of righteousness
 
-{{< s v="13" >}} Because of their breaking their pledge, We cursed them, and made their hearts hard.
+But whoever among you disbelieves afterwards has strayed from the right way.
 
-They twist the words out of their context, and they disregarded some of what they were reminded of. You will always witness deceit from them, except for a few of them. But pardon them, and overlook. Allah loves the doers of good.
+{{< s v="13" >}} They break their pledge so We cursed them and made their hearts hard.
+
+They:
+- twist the words out of their context, and
+- disregarded some of what they were reminded of. 
+
+You will always witness deceit from them, except for a few of them. 
+- But pardon them, and overlook.

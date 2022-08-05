@@ -1,7 +1,7 @@
 ---
 title: "THE PILGRIMAGE (al-Hajj)"
 heading: "Chapter 22 of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-02
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -278,7 +278,7 @@ who disbelieve. And what a wretched outcome!”
 76. He knows what is before them, and what is
 behind them. To Allah all matters are re-
 ferred.
-<!-- O you who believe! Kneel, and prostrate,
+<!-- Muslims,  Kneel, and prostrate,
 and worship your Lord, and do good deeds,
 so that you may succeed. -->
 

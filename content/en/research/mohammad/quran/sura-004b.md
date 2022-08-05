@@ -1,18 +1,18 @@
 ---
-title: "Women (an-Nisa’)"
-heading: "Chapter 4a of the Quran Simplified"
-date: 2021-11-20
+title: "Rules on Marriage"
+heading: "Chapter 4b of the Quran Simplified"
+date: 2022-01-24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-004a
+linkbtext: "Sura 4a"
+linkf: /research/mohammad/quran/sura-004c
+linkftext: "Sura 4c"
 ---
 
 
 
-{{< s v="15" >}} Those of your women who commit lewdness, you must have four witnesses against them, from among you. 
+{{< s v="15" >}} Those of your women who commit lewdness, you must have 4 witnesses against them, from among you. 
 
 If they testify, confine them to the homes until death claims them, or Allah makes a way for them.
 

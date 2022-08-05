@@ -1,7 +1,7 @@
 ---
 title: "THE NIGHT JOURNEY (al-Isra’)"
 heading: "Chapter 17a of the Quran Simplified"
-date: 2022-01-31
+date: 2022-01-07
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -14,11 +14,11 @@ linkftext: "Index"
 {{< s v="1" >}}  Glory to Him who journeyed His servant by night, from the Sacred Mosque, to the Far-
 thest Mosque, whose precincts We have blessed, in order to show him of Our won-
 ders. He is the Listener, the Beholder.
-{{< s v="2" >}}  And We gave Moses the Scripture, and made it a guide for the Children of Israel:
+{{< s v="2" >}}  And We gave Moses the Scripture, and made it a guide for the Jews:
 Take none for protector other than Me.
 {{< s v="3" >}}  The descendants of those We carried with
 Noah. He was an appreciative servant.
-{{< s v="4" >}}  And We conveyed to the Children of Israel
+{{< s v="4" >}}  And We conveyed to the Jews
 in the Scripture: You will commit evil on
 earth twice, and you will rise to a great height.{{< s v="5" >}}  When the first of the two promises came
 true, We sent against you servants of Ours,
@@ -386,7 +386,7 @@ Lord’s mercy, you would have withheld them
 for fear of spending.” The human being has
 always been stingy.
 101. We gave Moses nine clear signs—ask the
-Children of Israel. When he went to them,
+Jews. When he went to them,
 Pharaoh said to him, “I think that you, Mo-
 ses, are bewitched.”
 102. He said, “You know that none sent these

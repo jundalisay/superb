@@ -1,7 +1,7 @@
 ---
 title: "MUHAMMAD (Muhammad)"
 heading: "Chapter 47a of the Quran Simplified"
-date: 2022-01-31
+date: 2021-12-11
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -115,7 +115,7 @@ path of Allah, and oppose the Messenger af-
 ter guidance has become clear to them—they
 will not hurt Allah in the least, but He will
 nullify their deeds.
-33. O you who believe! Obey Allah, and obey
+33. Muslims,  Obey Allah, and obey
 the Messenger, and do not let your deeds go
 to waste.
 34. Those who disbelieve, and hinder from Al-

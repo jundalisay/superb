@@ -1,7 +1,7 @@
 ---
 title: "THE WOMAN TESTED (al-Mumtahina)"
 heading: "Chapter 60 of the Quran Simplified"
-date: 2022-01-31
+date: 2021-11-28
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -42,7 +42,7 @@ Allah loves the equitable.
 those who fought against you over your reli-
 gion, and expelled you from your homes, and
 aided in your expulsion. Whoever takes them for friends—these are the wrongdoers.
-{{< s v="10" >}}  O you who believe! When believing women come to you emigrating, test them.
+{{< s v="10" >}}  Muslims,  When believing women come to you emigrating, test them.
 Allah is Aware of their faith. 
 
 And if you find them to be faithful, do not send them back to
@@ -64,7 +64,7 @@ their children, nor commit perjury as to parenthood, nor disobey you in anything
 righteous, accept their allegiance and ask Allah’s forgiveness for them. Allah is Forgiving
 and Merciful.
 
-13. O you who believe! Do not befriend people with whom Allah has become angry, and
+13. Muslims,  Do not befriend people with whom Allah has become angry, and
 have despaired of the Hereafter, as the faithless have despaired of the occupants of the
 graves.
 

@@ -146,7 +146,7 @@ Yoga is great at the mental layer, but terrible at the material layer.
 {{< r ava="Boomer" >}}
 But I'm a racist, materialist boomer. I don't like anything Asian and abstract like Brahma, Yin-Yang, human unity, circular economy and all that mumbo-jumbo. 
 
-I want profits and wealth for myself. I drink my delicious expensive coffee conveniently with plastic straws, and don't are about the sea animals that will die from ingesting them. Sucks to be them.  
+I want profits and wealth for myself. I drink my delicious expensive coffee conveniently with plastic straws, and don't care about the sea animals that will die from ingesting them. Sucks to be them.  
 
 
 After death, there is nothing and so I say maximize pleasure while alive and don't care about the consequences, even on others! 
@@ -177,7 +177,9 @@ What's samadhi?
 {{< /r >}}
 
 {{< l ava="Superphysics" >}}
-Google it. 
+Google it.
+
+All we can say is "No Samadhi, No Honey" (i.e. no understanding of how the universe is structured and generated in real-time)
 {{< /l >}}
 
 {{< r ava="asker" >}}
@@ -185,7 +187,17 @@ What does the Superphysics symbol mean?
 {{< /r >}}
 
 {{< l ava="Superphysics" >}}
-The blue triangle represents the metapyhsical dimension. The green triangle represents the physical dimension. These go in opposite directions. The yellow center is perception which balances both dimensions. Some people get filthy rich but lose their morals. While others are super spiritual but are dirt poor. Superphysics advocates a balance<!--  just like Buddhism advocates a middle path -->. 
+The blue triangle represents the metapyhsical dimension. The green triangle represents the physical dimension. These go in opposite directions. 
+
+The yellow center is perception which balances both dimensions. 
+
+Some people get filthy rich but lose their morals, while others are super spiritual but are dirt poor. 
+
+For example, Baby-Boomers mindlessly push for GDP or ROI growth even if Nature is hitting them back with global warming caused by that very GDP and ROI from investments. 
+
+Spiritual people, on the other hand, give donations and service, often unsustainably while creating a culture of dependence and poverty. 
+
+Superphysics advocates a balance<!--  just like Buddhism advocates a middle path -->. 
 {{< /l >}}
 
 
@@ -200,9 +212,33 @@ We've already proven Social Superphysics through our correct predictions both in
 
 But we still need to prove that Medical Superphysics and Material Superphysics also works by curing diseases and by realizing fusion, levitation, and teleportation (actions at a distance) via the aether of Maxwell and Fresnell.
 
-Medicine is highly regulated and Material experiments are expensive. We aim to surmount both impediments through our economic system. 
+Medicine is highly regulated and Material experiments are expensive. We aim to surmount both impediments through our economic system.
+
+This is why, until 2030, most of our work is on Social Superphysics as economics and policies. The work on Medical and Material Superphysics will mostly be theoretical for now, though we've done [rudimentary experiments on levitation](/material/levitation).     
 
 <!-- In the past, Material Superphysics was proven by miracles such as Jesus walking on water or Buddhist monks levitating. But this was not replicable. So we use Tesla's spacetime priniples which are opposite those of Einstein's General Relativity.  -->
+{{< /l >}}
+
+
+{{< r ava="asker" >}}
+How can we help?
+{{< /r >}}
+
+
+{{< l ava="Superphysics" >}}
+You can help by:
+- sharing our posts
+- adding links to our posts or books on your website
+  - [https://pantrypoints.com](https://pantrypoints.com)
+  - [https://superphysics.org](https://superphysics.org)  
+- referring organizations, universities, or volunteers who might be interested. At the moment, we have volunteers in the following cities where we have tested our system:
+  - Hanoi
+  - Ho Chi Minh City
+  - Metro Manila
+  - Kuala Lumpur
+- joining our [Facebook group](https://facebook.com/groups/pantrynomics)
+- telling us about broken pages, bugs, typos, confusing articles, or factual errors
+- donating cash or in kind
 {{< /l >}}
 
 <!-- By gettings Its principles. For example, Einstein based his Relativity on Parmenides explanation of how the One is Many and All is relative. We expand this by creating the theory of Universal Relativity for Material Superphysics, as well as the Four Laws of Value for Economic Superphysics (as spnomics)    -->

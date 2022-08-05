@@ -1,7 +1,7 @@
 ---
 title: "THE MOBILIZATION (al-Hashr)"
 heading: "Chapter 59a of the Quran Simplified"
-date: 2022-01-31
+date: 2021-11-29
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -90,7 +90,7 @@ Allah, the Lord of the Worlds.”
 17. The ultimate end for both of them is the Fire, where they will dwell forever. Such is the
 requital for the wrongdoers.
 
-18. O you who believe! Fear Allah, and let every soul consider what it has forwarded for
+18. Muslims,  Fear Allah, and let every soul consider what it has forwarded for
 the morrow, and fear Allah. Allah is Aware of what you do.
 19. And do not be like those who forgot Allah,
 so He made them forget themselves. These

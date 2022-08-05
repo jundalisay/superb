@@ -1,7 +1,7 @@
 ---
 title: "TA-HA (Ta-Ha)"
 heading: "Chapter 20a of the Quran Simplified"
-date: 2022-01-31
+date: 2022-01-04
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -217,7 +217,7 @@ the sea overwhelmed them, and completely
 engulfed them.
 79. Pharaoh misled his people, and did not
 guide them.
-80. O Children of Israel! We have delivered
+80. O Jews! We have delivered
 you from your enemy, and promised you by
 the right side of the Mount, and sent down to
 you manna and quails.
@@ -267,7 +267,7 @@ command?”
 94. He said, “Son of my mother, do not seize
 me by my beard or my head. I feared you
 would say, `You have caused division among
-the Children of Israel, and did not regard my
+the Jews, and did not regard my
 word.'“
 95. He said, “What do you have to say, O Sa-
 marian?”

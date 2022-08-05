@@ -1,7 +1,7 @@
 ---
 title: "IRON (al-Hadid`)"
 heading: "Chapter 57 of the Quran Simplified"
-date: 2021-11-20
+date: 2021-12-01
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -121,7 +121,7 @@ proval. But they did not observe it with its
 due observance. So We gave those of them
 who believed their reward, but many of them
 are sinful.
-28. O you who believe! Fear Allah, and believe
+28. Muslims,  Fear Allah, and believe
 in His Messenger: He will give you a double
 portion of His mercy, and will give you a light
 by which you walk, and will forgive you. Al-

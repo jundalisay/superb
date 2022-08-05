@@ -124,15 +124,3 @@ It follows that the `G` of the Milky way can be different from the `G` of other 
 > *The universe has 5 layers and so 5 aethers. We call the material aether occasionally as "Descartes' Earth" or "Stokes Aether" 
 
 
-
-
-## Material Relativity and Action at a Distance
-
-We use the Stokes (Material) Aether to demonstrate action at a distance. 
-
-We take a 1 kilogram object then apply a prolonged emission on it in order to reduce its weight by 1 gram. We then use this as the basis for a levitating object propelled by the aether.   
-
-![](/graphics/physics/aethertech.png)
-
-
-This is where `G`, `g`, and the Kepler tensor will be necessary to change the state of an object in order to move it through spacetime or Descartes' aether without needing contact forces.  

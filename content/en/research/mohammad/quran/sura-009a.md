@@ -1,7 +1,7 @@
 ---
 title: "REPENTANCE (at-Tawbah)"
 heading: "Chapter 9a of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-14
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -84,7 +84,7 @@ of mercy from Him, and acceptance, and gar-
 dens wherein they will have lasting bliss.
 22. Abiding therein forever. With Allah is a
 great reward.
-23. O you who believe! Do not ally yourselves
+23. Muslims,  Do not ally yourselves
 with your parents and your siblings if they
 prefer disbelief to belief. Whoever of you al-
 lies himself with them—these are the wrong-
@@ -112,7 +112,7 @@ recompense of the disbelievers.
 27. Then, after that, Allah will relent towards
 whomever He wills. Allah is Forgiving and
 Merciful.
-28. O you who believe! The polytheists are pol-
+28. Muslims,  The polytheists are pol-
 luted, so let them not approach the Sacred
 Mosque after this year of theirs. And if you collectively, as they fight you collectively, and
 know that Allah is with the righteous.
@@ -124,7 +124,7 @@ made sacred by Allah, thus permitting what
 Allah has forbidden. The evil of their deeds
 seems good to them. Allah does not guide the
 disbelieving people.
-38. O you who believe! What is the matter with
+38. Muslims,  What is the matter with
 you, when it is said to you, “Mobilize in the
 cause of Allah,” you cling heavily to the
 earth? Do you prefer the present life to the
@@ -190,7 +190,7 @@ lievers dislike it.
 guidance and the religion of truth, in order to
 make it prevail over all religions, even though
 the idolaters dislike it.
-34. O you who believe! Many of the rabbis and
+34. Muslims,  Many of the rabbis and
 priests consume people's wealth illicitly, and
 hinder from Allah’s path. Those who hoard gold and silver, and do not spend them in Allah’s cause, inform them of a painful punishment.
 
@@ -568,7 +568,7 @@ in on them, and they realized that there was
 no refuge from Allah, except in Him, He re-
 deemed them, so that they may repent. Allah
 is the Redeemer, the Merciful.
-119. O you who believe! Be conscious of Allah,
+119. Muslims,  Be conscious of Allah,
 and be with the sincere.
 120. It is not for the inhabitants of Medina and
 the Desert-Arabs around them to stay behind
@@ -591,7 +591,7 @@ marches out, let a group remain behind, to
 gain understanding of the religion, and to no-
 tify their people when they have returned to
 them, that they may beware.
-123. O you who believe! Fight those of the dis-
+123. Muslims,  Fight those of the dis-
 believers who attack you, and let them find
 severity in you, and know that Allah is with
 the righteous.
@@ -961,12 +961,12 @@ ment.”
 89. He said, “Your prayer has been answered,
 so go straight, and do not follow the path of
 those who do not know.”
-90. And We delivered the Children of Israel
+90. And We delivered the Jews
 across the sea. Pharaoh and his troops pur-
 sued them, defiantly and aggressively. Until,
 when he was about to drown, he said, “I be-
 lieve that there is no god except the One the
-Children of Israel believe in, and I am of
+Jews believe in, and I am of
 those who submit.”
 91. Now? When you have rebelled before, and
 been of the mischief-makers?
@@ -974,7 +974,7 @@ been of the mischief-makers?
 you become a sign for those after you. But
 most people are heedless of Our signs. 
 
-93. And We settled the Children of Israel in a
+93. And We settled the Jews in a
 position of honor, and provided them with
 good things. They did not differ until
 knowledge came to them. Your Lord will

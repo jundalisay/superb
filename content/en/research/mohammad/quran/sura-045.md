@@ -1,7 +1,7 @@
 ---
 title: "KNEELING (al-Jathiyah)"
 heading: "Chapter 45 of the Quran Simplified"
-date: 2021-11-20
+date: 2021-12-13
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -10,7 +10,7 @@ linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 
-{{< s v="1" >}}  Ha, Meem. The revelation of the Book is from Allah.
+<!-- {{< s v="1" >}}  Ha, Meem. The revelation of the Book is from Allah. -->
 {{< s v="3" >}}  In the heavens and the earth are proofs for the believers.
 {{< s v="4" >}}  And in your own creation, and in the creatures He scattered, are signs for people of firm faith.
 {{< s v="5" >}}  And in the alternation of night and day, and in the sustenance Allah sends down from the sky, with which He revives the earth after its death, and in the circulation of the winds, are marvels for people who reason.
@@ -33,94 +33,71 @@ command, and that you may seek of His bounty, and that you may give thanks.
 
 14. Tell those who believe to forgive those who do not hope for the Days of Allah. He will
 
-8. Who
+8. Who 
 fully recompense people for whatever they
 have earned.
 15. Whoever does a good deed, it is for his soul;
 and whoever commits evil, it is against it;
 then to your Lord you will be returned.
-{{< s v="16" >}}We gave the Children of Israel the Book,
+{{< s v="16" >}}We gave the Jews the Book,
 and wisdom, and prophecy; and We pro-
 vided them with the good things; and We
 gave them advantage over all other people.
-17. And We gave them precise rulings. They
-fell into dispute only after knowledge came to
-them, out of mutual rivalry. Your Lord will
-judge between them on the Day of Resurrec-
+17. And We gave them precise rulings. They fell into dispute only after knowledge came to
+them, out of mutual rivalry. Your Lord will judge between them on the Day of Resurrec-
 tion regarding the things they differed about.
-18. Then We set you upon a pathway of faith,
-so follow it, and do not follow the inclina-
+
+18. Then We set you upon a pathway of faith, so follow it, and do not follow the inclina-
 tions of those who do not know.
-19. They will not help you against Allah in any
-way. The wrongdoers are allies of one an-
-other, while Allah is the Protector of the
-righteous.
-20. This is an illumination for mankind, and
-guidance, and mercy for people who believe
+
+19. They will not help you against Allah in any way. The wrongdoers are allies of one an-
+other, while Allah is the Protector of the righteous.
+20. This is an illumination for mankind, and guidance, and mercy for people who believe
 with certainty.
-21. Do those who perpetrate the evil deeds as-
-sume that We will regard them as equal to
-those who believe and do righteous deeds,
-whether in their life or their death? Evil is
+
+21. Do those who perpetrate the evil deeds assume that We will regard them as equal to
+those who believe and do righteous deeds, whether in their life or their death? Evil is
 their judgment!
-22. Allah created the heavens and the earth
-with justice, so that every soul will be repaid
-for what it has earned. And they will not be
-wronged.
-23. Have you considered him who has taken
-his desire for his god? Allah has knowingly
-led him astray, and has sealed his hearing and
-his heart, and has placed a veil over his vision.
-Who will guide him after Allah? Will you not
-reflect?
-24. And they say, “There is nothing but this
-our present life; we die and we live, and noth-
-ing destroys us except time.” But they have no
-knowledge of that; they are only guessing.
 
-25. When Our clarifying Verses are recited to
-them, their only argument is to say, “Bring
+22. Allah created the heavens and the earth with justice, so that every soul will be repaid
+for what it has earned. And they will not be wronged.
+23. Have you considered him who has taken his desire for his god? Allah has knowingly
+led him astray, and has sealed his hearing and his heart, and has placed a veil over his vision.
+Who will guide him after Allah? Will you not reflect?
+
+24. And they say, “There is nothing but this our present life; we die and we live, and nothing destroys us except time.” But they have no knowledge of that; they are only guessing.
+
+25. When Our clarifying Verses are recited to them, their only argument is to say, “Bring
 back our ancestors, if you are truthful.”
-26. Say, “Allah gives you life, then He makes
-you die; then He gathers you for the Day of
+
+26. Say, “Allah gives you life, then He makes you die; then He gathers you for the Day of
 Resurrection, about which there is no doubt.
+
 But most people do not know.”
-27. To Allah belongs the kingship of the heav-
-ens and the earth. On the Day when the Hour
+
+27. To Allah belongs the kingship of the heavens and the earth. On the Day when the Hour
 takes place, on that Day the falsifiers will lose.
-28. You will see every community on its knees;
-every community will be called to its Book:
-“Today you are being repaid for what you
-used to do.
-29. This Book of Ours speaks about you in
-truth. We have been transcribing what you
-have been doing.”
-30. As for those who believed and did right-
-eous deeds, their Lord will admit them into
+
+28. You will see every community on its knees; every community will be called to its Book:
+“Today you are being repaid for what you used to do.
+
+29. This Book of Ours speaks about you in truth. We have been transcribing what you have been doing.”
+
+30. As for those who believed and did righteous deeds, their Lord will admit them into
 His mercy. That is the clear triumph.
-31. But as for those who disbelieved: “Were My
-revelations not recited to you? But you
-turned arrogant, and were guilty people.”
-32. And when it was said, “The promise of Al-
-lah is true, and of the Hour there is no doubt,”
-you said, “We do not know what the Hour is;
-we think it is only speculation; we are not
-convinced.”
-33. The evils of what they did will become evi-
-dent to them, and the very thing they ridi-
-culed will haunt them.
-34. And it will be said, “Today We forget you,
-as you forgot the encounter of this Day of
-yours. Your abode is the Fire, and there are
-no saviors for you.
-35. That is because you took Allah’s revela-
-tions for a joke, and the worldly life lured
-you.” So today they will not be brought out of
-it, and they will not be allowed to repent.
-36. Praise belongs to Allah; Lord of the heav-
-ens, Lord of the earth, Lord of humanity.
-37. To Him belongs all supremacy in the heav-
-ens and the earth. He is the Majestic, the
-Wise.
 
+31. But as for those who disbelieved: “Were My revelations not recited to you? But you turned arrogant, and were guilty people.”
 
+32. And when it was said, “The promise of Allah is true, and of the Hour there is no doubt,”
+you said, “We do not know what the Hour is;  we think it is only speculation; we are not convinced.”
+
+33. The evils of what they did will become evident to them, and the very thing they ridiculed will haunt them.
+
+34. And it will be said, “Today We forget you, as you forgot the encounter of this Day of
+yours. Your abode is the Fire, and there are no saviors for you.
+
+35. That is because you took Allah’s revelations for a joke, and the worldly life lured
+you.” So today they will not be brought out of it, and they will not be allowed to repent.
+<!-- 36. Praise belongs to Allah; Lord of the heavens, Lord of the earth, Lord of humanity.
+37. To Him belongs all supremacy in the heavens and the earth. He is the Majestic, the
+Wise. -->

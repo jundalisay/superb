@@ -1,7 +1,7 @@
 ---
 title: "THE CONFEDERATES (al-Ahzab)"
 heading: "Chapter 33 of the Quran Simplified"
-date: 2021-11-20
+date: 2021-12-23
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -33,7 +33,7 @@ We received from them a solemn pledge.
 
 8. That He may ask the sincere about their sincerity. He has prepared for the disbelievers a
 painful punishment.
-{{< s v="9" >}}  O you who believe! Remember Allah’s blessings upon you, when forces came against
+{{< s v="9" >}}  Muslims,  Remember Allah’s blessings upon you, when forces came against
 you, and We sent against them a wind, and forces you did not see. Allah is Observant of
 what you do.
 {{< s v="10" >}}  When they came upon you, from above you, and from beneath you; and the eyes be-
@@ -200,7 +200,7 @@ for them is a great reward.
 48. And do not obey the blasphemers and the
 hypocrites, and ignore their insults, and rely
 on Allah. Allah is a sufficient protector.
-49. O you who believe! When you marry be-
+49. Muslims,  When you marry be-
 lieving women, but then divorce them before
 you have touched them, there is no waiting
 period for you to observe in respect to them;
@@ -236,7 +236,7 @@ your hearts.
 other wives, even if you admire their beauty, except those you already have. Allah is
 Watchful over all things.
 
-53. O you who believe! Do not enter the homes of the Prophet, unless you are given permis-
+53. Muslims,  Do not enter the homes of the Prophet, unless you are given permis-
 sion to come for a meal; and do not wait for its preparation. And when you are invited, go
 in. And when you have eaten, disperse, without lingering for conversation. This irritates
 the Prophet, and he shies away from you, but Allah does not shy away from the truth. And
@@ -285,7 +285,7 @@ our superiors and our dignitaries, but they
 led us away from the way.
 68. Lord, give them double the punishment,
 and curse them with a great curse.”
-69. O you who believe! Do not be like those
+69. Muslims,  Do not be like those
 who abused Moses; but Allah cleared him of
 what they said. He was distinguished with Al-
 lah.

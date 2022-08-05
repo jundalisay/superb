@@ -1,7 +1,7 @@
 ---
 title: "THE LIGHT (an-Nur)"
 heading: "Chapter 24 of the Quran Simplified"
-date: 2021-11-20
+date: 2021-12-31
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -72,7 +72,7 @@ the Evident Reality.
 good men, and good men are for good women. Those are acquitted of what they say.
 There is forgiveness for them, and a generous provision.
 
-27. O you who believe! Do not enter homes other than your own, until you have asked
+27. Muslims,  Do not enter homes other than your own, until you have asked
 permission and greeted their occupants. That is better for you, that you may be aware.
 28. And if you find no one in them, do not enter them until you are given permission. And
 if it is said to you, “Turn back,” then turn back. That is more proper for you.
@@ -180,7 +180,7 @@ whoever disbelieves after that—these are the sinners.
 
 57. Never think that those who disbelieve can escape on earth. Their place is the Fire; a miserable destination.
 
-58. O you who believe! Permission must be requested by your servants and those of you
+58. Muslims,  Permission must be requested by your servants and those of you
 who have not reached puberty. On three occasions: before the Dawn Prayer, and at noon
 when you change your clothes, and after the Evening Prayer. These are three occasions of
 privacy for you. At other times, it is not wrong for you or them to intermingle with

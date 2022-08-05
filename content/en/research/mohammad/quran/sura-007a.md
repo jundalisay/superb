@@ -1,7 +1,7 @@
 ---
 title: "THE ELEVATIONS (al-A’raf)"
 heading: "Chapter 7a of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-16
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
 linkb: /research/mohammad/quran/
@@ -430,7 +430,7 @@ from the Lord of the Worlds.”
 105. “It is only proper that I should not say
 about Allah anything other than the truth. I
 have come to you with clear evidence from
-your Lord, so let the Children of Israel go
+your Lord, so let the Jews go
 with me.”
 106. He said, “If you brought a miracle, then
 present it, if you are truthful.”
@@ -523,7 +523,7 @@ arrogant. They were a sinful people.
 would say, “O Moses, pray to your Lord for
 us, according to the covenant He made with
 you. If you lift the plague from us, we will be-
-lieve in you, and let the Children of Israel go
+lieve in you, and let the Jews go
 with you.”
 135. But when We lifted the plague from them,
 for a term they were to fulfill, they broke their
@@ -534,11 +534,11 @@ jected Our signs, and paid no heed to them.
 137. And We made the oppressed people in-
 herit the eastern and western parts of the
 land, which We had blessed. Thus the fair
-promise of your Lord to the Children of Israel
+promise of your Lord to the Jews
 was fulfilled, because of their endurance. And
 We destroyed what Pharaoh and his people
 had built, and what they had harvested.
-138. And We delivered the Children of Israel
+138. And We delivered the Jews
 across the sea. And when they came upon a
 people who were devoted to some statues of
 theirs, they said, “O Moses, make for us a god,
@@ -879,7 +879,7 @@ Messenger—Allah is severe in retribution.
 
 14. “Here it is; so taste it.” For the disbelievers there is the suffering of the Fire.
 
-15. O you who believe! When you meet those who disbelieve on the march, never turn your backs on them.
+15. Muslims,  When you meet those who disbelieve on the march, never turn your backs on them.
 
 {{< s v="16" >}}Anyone who turns his back on them on that Day, except while maneuvering for battle, or to join another group, has incurred
 wrath from Allah, and his abode is Hell!
@@ -896,7 +896,7 @@ And if you desist, it would be best for
 you. And if you return, We will return; and
 your troops, however numerous, will not
 benefit you. Allah is with the believers.
-<!-- 20. O you who believe! Obey Allah and His Messenger, and do not turn away from him
+<!-- 20. Muslims,  Obey Allah and His Messenger, and do not turn away from him
 when you hear. -->
 21. And be not like those who say, “We hear,” when they do not hear.
 22. The worst of animals to Allah are the deaf and dumb—those who do not reason.

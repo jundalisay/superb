@@ -1,7 +1,7 @@
 ---
 title: "PROHIBITION (at-Tahrim)"
 heading: "Chapter 66a of the Quran Simplified"
-date: 2022-01-31
+date: 2021-11-24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -29,7 +29,7 @@ In addition, the angels will assist him.
 
 {{< s v="5" >}}  Perhaps, if he divorces you, his Lord will give him in exchange wives better than you:
 submissive, believing, obedient, penitent, devout, fasting—previously married, or virgins.
-6. O you who believe! Protect yourselves and
+6. Muslims,  Protect yourselves and
 your families from a Fire, whose fuel is people
 and stones. Over it are angels, fierce and pow-
 erful. They never disobey Allah in anything
@@ -38,7 +38,7 @@ whatever they are commanded.
 7. O you who disbelieved! Make no excuses
 today. You are being repaid for what you
 used to do.
-8. O you who believe! Repent to Allah with
+8. Muslims,  Repent to Allah with
 sincere repentance. Perhaps your Lord will
 remit your sins, and admit you into gardens
 beneath which rivers flow, on the Day when

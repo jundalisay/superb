@@ -1,7 +1,8 @@
+
 ---
 title: "THE DUNES (al-Ahqaf)"
 heading: "Chapter 46a of the Quran Simplified"
-date: 2022-01-31
+date: 2021-12-12
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -40,7 +41,7 @@ the Forgiver, the Merciful.”
 {{< s v="9" >}}  Say, “I am not different from the other messengers; and I do not know what will be done with me, or with you. I only follow what is in-
 spired in me, and I am only a clear warner.”
 {{< s v="10" >}}  Say, “Have you considered? What if it is from Allah and you disbelieve in it? A witness
-from the Children of Israel testified to its like, and has believed, while you turned arrogant.
+from the Jews testified to its like, and has believed, while you turned arrogant.
 <!-- Allah does not guide the unjust people. -->”
 {{< s v="11" >}}  Those who disbelieve say to those who believe, “If it were anything good, they would
 not have preceded us to it.” And since they

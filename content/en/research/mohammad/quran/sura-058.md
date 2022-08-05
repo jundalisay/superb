@@ -1,7 +1,7 @@
 ---
 title: "THE ARGUMENT (al-Mujadilah)"
 heading: "Chapter 58a of the Quran Simplified"
-date: 2022-01-31
+date: 2021-11-30
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -43,17 +43,17 @@ fiance of the Messenger. And when they come to you, they greet you with a greeti
 that Allah never greeted you with. 
 
 And they say within themselves, “Why does Allah not punish us for what we say?” Hell is enough for them. They will roast in it. What a miserable destiny!
-{{< s v="9" >}}  O you who believe! When you converse secretly, do not converse in sin, and aggression, and disobedience of the Messenger; but con-
+{{< s v="9" >}}  Muslims,  When you converse secretly, do not converse in sin, and aggression, and disobedience of the Messenger; but con-
 verse in virtue and piety; And fear Allah, to Whom you will be gathered.
 
 {{< s v="10" >}}  Conspiracies are from Satan, that he may dishearten those who believe; but he will not
 harm them in the least, except by leave of Allah. So let the believers put their trust in Allah.
 
-{{< s v="11" >}}  O you who believe! When you are told to make room in your gatherings, make room;
+{{< s v="11" >}}  Muslims,  When you are told to make room in your gatherings, make room;
 Allah will make room for you. And when you are told to disperse, disperse. Allah elevates
 those among you who believe, and those given knowledge, many steps. Allah is Aware of what you do.
 
-12. O you who believe! When you converse privately with the Messenger, offer something in charity before your conversation.
+12. Muslims,  When you converse privately with the Messenger, offer something in charity before your conversation.
 
 That is better for you, and purer. But if you do not find the means—Allah is Forgiving and Merciful.
 

@@ -1,7 +1,7 @@
 ---
 title: "Victory, Thorns, Monotheism, Daybreak, Mankind"
 heading: "Chapter 2a of the Quran Simplified"
-date: 2022-01-31
+date: 2021-10-28
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -9,7 +9,6 @@ linkbtext: "Index"
 linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
-
 
 
 ## 110. VICTORY (an-Nasr)

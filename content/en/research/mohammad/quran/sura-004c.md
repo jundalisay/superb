@@ -1,7 +1,7 @@
 ---
 title: "Women (an-Nisa’)"
-heading: "Chapter 4a of the Quran Simplified"
-date: 2021-11-20
+heading: "Chapter 4c of the Quran Simplified"
+date: 2022-01-23
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -19,11 +19,10 @@ If you are sick, or traveling, or one of you comes from the toilet, or you have 
 intercourse with women, and cannot find water, find clean sand and wipe your faces and your hands with it.
 
 
-{{< s v="44" >}} Have you not considered those who were given a share of the Book? They buy error,
-and wish you would lose the way.
+{{< s v="44-45" >}} Have you not considered those who were given a share of the Book? They buy error, and wish you would lose the way.
 
-{{< s v="45" >}} But Allah knows your enemies best. Allah is sufficient as a Protector, and Allah is suffi-
-cient as a Supporter.
+<!-- {{< s v="45" >}} But Allah knows your enemies best. Allah is sufficient as a Protector, and Allah is suffi-
+cient as a Supporter. -->
 
 {{< s v="46" >}} Some Jews take words out of context and say:
 - “We hear and disobey”
@@ -35,26 +34,22 @@ It would have been better for them to say "We hear and we obey. Please listen an
 - But Allah has cursed them for their disbelief. They only believe a little.
 
 
-{{< s v="47" >}} O Jews<!-- you who were given the Book -->! Believe in what We sent down before We obliterate faces and turn them inside out, or curse them as We cursed the Sabbath-breakers. 
+{{< s v="47" >}} O Jews<!-- you who were given the Book -->! <!-- Believe in what We sent down before --> We obliterate faces and turn them inside out, or curse them as We cursed the Sabbath-breakers. 
 - The command of Allah is always done.
 <!-- It confirms what you have -->
 
-{{< s v="48" >}} Allah does not forgive association with Him. 
+{{< s v="48" >}} Allah does not forgive any association with Him. 
 - But He forgives anything less than that to whomever He wills. 
 - Whoever associates anything with Allah has devised a monstrous sin.
 
-{{< s v="49" >}} Have you not considered those who claim purity for themselves? 
-- Rather, Allah purifies whom He wills, and they will not be wronged a whit.
-
-{{< s v="50" >}} See how they devise lies against Allah. 
+{{< s v="49-50" >}} Those how claim purity for themselves devise lies against Allah. 
 - That alone is an outright sin.
+<!-- - Rather, Allah purifies whom He wills, and they will not be wronged a whit. -->
 
-{{< s v="51" >}} Have you not considered those who were given a share of the Book? 
 
-They:
+{{< s v="51" >}} Those who were given a share of the Book:
 - believe in superstition and evil powers
 - say of those who disbelieve, “These are better guided on the way than the believers.”
-
 
 {{< s v="52" >}} Allah has cursed them. Whomever Allah curses has no savior.
 
@@ -62,26 +57,25 @@ They:
 
 {{< s v="54" >}} Or do they envy the people for what Allah has given them of His grace? 
 
-We have given the Book and wisdom  to Abraham's family.
+We have given the Book and wisdom to Abraham's family.
 - We have given them a great kingdom.
 
-{{< s v="55" >}} Among them are those who believed in it, and among them are those who held back from it. Hell is a sufficient Inferno.
+{{< s v="55-57" >}} Among them are those who believed in it, and among them are those who held back from it.
 
+<!-- {{< s v="56" >}} We will scorch those who reject Our revelations. 
+- Every time their skins are cooked, We will replace them with other skins, so they will experience the suffering. -->
 
-{{< s v="56" >}} We will scorch those who reject Our revelations. 
-- Every time their skins are cooked, We will replace them with other skins, so they will experience the suffering.
-
-{{< s v="57" >}} Those who believe and do good deeds We will admit into Gardens beneath which rivers flow, abiding therein forever. 
-- They will have purified spouses therein
+<!-- {{< s v="57" >}} Those who believe and do good deeds We will admit into Gardens beneath which rivers flow, abiding therein forever. 
+- They will have purified spouses therein -->
 <!-- and We will admit them into a shady shade. -->
 
 
-{{< s v="50" >}} Allah instructs you to give back things entrusted to you to their owners. 
 
-And when you judge between people, judge with justice. <!-- Al-lah’s instructions to you are excellent.  -->
+{{< s v="58" >}} Allah instructs you to give back things entrusted to you to their owners. 
 
-{{< s v="59" >}} Obey Allah and obey the Messenger and those in authority among you. 
-- If you dispute over anything, refer it to Allah and the Messenger, if you believe in Allah and the Last Day. 
+When you judge between people, judge with justice. <!-- Al-lah’s instructions to you are excellent.  -->
+
+{{< s v="59" >}} <!-- Obey Allah and obey the Messenger and those in authority among you. --> If you dispute over anything, refer it to Allah and the Messenger<!-- if you believe in Allah and the Last Day -->. 
 
 <!-- That is best, and a most excellent determination. -->
 

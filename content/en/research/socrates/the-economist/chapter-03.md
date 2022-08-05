@@ -1,18 +1,22 @@
-+++
-title= "The Management of an Estate"
-date= 2015-09-29
-image= "/covers/economist.jpg"
-description= "Some men make their wives as true helpers to jointly increase of their estate, while others treat them in a way to bring upon themselves wholesale disaster"
-linkb= "/research/socrates/the-economist/chapter-01"
-linkbtext= "Chapter 1"
-linkf= "/research/socrates/the-economist/chapter-04"
-linkftext= "Chapter 4"
-+++
+---
+title: "The Management of an Estate"
+heading: "Chapter 3 of The Economist Simplified"
+date: 2015-09-28
+image: "/covers/economist.jpg"
+description: "Some men make their wives as true helpers to jointly increase of their estate, while others treat them in a way to bring upon themselves wholesale disaster"
+linkb: /research/socrates/the-economist/chapter-02
+linkbtext: "Chapter 2"
+linkf: /research/socrates/the-economist/chapter-04
+linkftext: "Chapter 4"
+icon: "/icons/soc.png"
+---
+
+
 
 <!-- I will not let you go now until you give the proofs which, in the presence of our friends, you undertook just now to give me. -->
 
 {{< l a="Socrates" >}}
-There are two sorts of people:
+There are 2 sorts of people:
 
 1. Those who spend large sums on money in building useless houses
 2. Those who spend far less but furnish it with all they need.

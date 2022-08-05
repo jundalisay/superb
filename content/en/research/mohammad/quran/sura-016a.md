@@ -1,7 +1,7 @@
 ---
 title: "THE BEE (an-Nahl)"
 heading: "Chapter 16a of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-08
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -425,19 +425,20 @@ tion. But then it turned unappreciative of Al-
 lah’s blessings, so Allah made it taste the robe
 of hunger and fear, because of what they used
 to craft.
-113. A messenger from among them had come
-to them, but they denounced him, so the
-punishment seized them in the midst of their
-wrongdoing.
-114. Eat of the lawful and good things Allah has
-provided for you, and be thankful for Allah’s
+
+113. A messenger from among them had come to them, but they denounced him, so the
+punishment seized them in the midst of their wrongdoing.
+
+114. Eat of the lawful and good things Allah has provided for you, and be thankful for Allah’s
 blessings, if it is Him that you serve.
-115. He has forbidden you carrion, and blood,
-and the flesh of swine, and anything conse-
-crated to other than Allah. But if anyone is
-compelled by necessity, without being delib-
-erate or malicious, then Allah is Forgiving
-and Merciful.
+
+115. He has forbidden you carrion, and blood, and the flesh of swine, and anything conse-
+crated to other than Allah. 
+
+But if anyone is compelled by necessity, without being delib-
+erate or malicious, then Allah is Merciful.
+
+
 1{{< s v="16" >}}And do not say of falsehood asserted by
 your tongues, “This is lawful, and this is un-
 lawful,” in order to invent lies and attribute

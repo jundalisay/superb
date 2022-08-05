@@ -1,7 +1,7 @@
 ---
 title: "PROSTRATION (as-Sajdah)"
 heading: "Chapter 32a of the Quran Simplified"
-date: 2022-01-31
+date: 2021-12-24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -59,7 +59,7 @@ No soul knows what eye’s delight awaits them—a reward for what they used to 
 
 22. Who is more wrong than he, who, when reminded of his Lord’s revelations, turns away from them? We will certainly wreak vengeance upon the criminals.
 
-23. We gave Moses the Book; so do not be in doubt regarding His encounter; and We made it a guidance for the Children of Israel.
+23. We gave Moses the Book; so do not be in doubt regarding His encounter; and We made it a guidance for the Jews.
 
 24. And We appointed leaders from among them, guiding by Our command, as long as they persevered and were certain of Our communications.
 

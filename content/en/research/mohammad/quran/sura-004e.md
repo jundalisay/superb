@@ -1,7 +1,7 @@
 ---
-title: "Women (an-Nisa’)"
+title: "Rules on Treating Disbelievers"
 heading: "Chapter 4e of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-21
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -12,11 +12,10 @@ linkftext: "Index"
 
 
 {{< s v="88" >}} You are divided into 2 factions regarding the hypocrites. 
-- But Allah Himself has overwhelmed them on account of what they did. 
+<!-- - But Allah Himself has overwhelmed them on account of what they did. 
 - Do you want to guide those whom Allah has led astray? 
-- You will never find a way for whomever Allah leads astray.
-
-{{< s v="89" >}}  They would love to see you disbelieve, just as they disbelieve, so you would become equal. 
+- You will never find a way for whomever Allah leads astray. -->
+- {{< s v="89" >}}  They would love to see you disbelieve, just as they disbelieve, so you would become equal. 
 - So do not befriend any of them, unless they emigrate in the way of Allah. 
 - If they turn away, seize them and execute them wherever you may find them. 
 - Do not take from among them allies or supporters.
@@ -26,23 +25,31 @@ linkftext: "Index"
 If they withdraw from you, and do not fight you, and offer you peace, then Allah assigns no excuse for you against them.
 
 
-{{< s v="91" >}} You will find others who want security from you, and security from their own people. But whenever they are tempted into civil discord, they plunge into it. 
+{{< s v="91" >}} You will find others who want security from you, and security from their own people. But whenever they are tempted into civil discord, they plunge into it.
 
-So if they do not withdraw from you, nor offer you peace, nor
-restrain their hands, seize them and execute
-them wherever you find them. Against these,
-We have given you clear authorization.
+So seize them and execute them wherever you find them if they do not:
+- withdraw from you
+- offer you peace, nor
+- restrain their hands.
 
-{{< s v="92" >}} Never should a believer kill another believer, unless by error. Anyone who kills a believer by error must set free a believing slave, and pay compensation to the victim’s family, unless they remit it as charity. 
+Against these, We have given you clear authorization.
 
-If the victim belonged to a people who are hostile to you, but is a believer, then the compensation is to
-free a believing slave. If he belonged to a people with whom you have a treaty, then com-
-pensation should be handed over to his family, and a believing slave set free. Anyone who
-lacks the means must fast for two consecutive months, by way of repentance to Allah. 
+{{< s v="92" >}} Never should a believer kill another believer, unless by error.
+- Anyone who kills a believer by error must:
+  - set free a believing slave, and
+  - pay compensation to the victim’s family, unless they remit it as charity. 
 
-{{< s v="93" >}} Whoever kills a believer deliberately, the penalty for him is Hell, where he will remain
-forever. And Allah will be angry with him, and will curse him, and will prepare for him
-a terrible punishment.
+If the victim belonged to a people who are hostile to you, but is a believer, then the compensation is to free a believing slave. 
+
+If he belonged to a people with whom you have a treaty, then:
+- compensation should be handed over to his family, and
+- a believing slave set free. 
+
+Anyone who lacks the means must fast for 2 consecutive months as repentance to Allah. 
+
+{{< s v="93" >}} Whoever kills a believer deliberately, the penalty is Hell forever. 
+
+<!-- And Allah will be angry with him, and will curse him, and will prepare for him a terrible punishment. -->
 
 {{< s v="94" >}}  When you journey in the way of Allah, investigate. 
 - Do not say to him who offers you peace, “You are not a believer,” aspiring for the goods of this world. <!-- With Allah are abundant riches.  -->
@@ -56,12 +63,11 @@ a terrible punishment.
 
 
 
+{{< s v="97" >}}  While the angels are removing the souls of those who have wronged themselves, they will say:
 
-{{< s v="97" >}}  While the angels are removing the souls of those who have wronged themselves, they will say, “What was the matter with you?”
-
-They will say, “We were oppressed in the land. Was Allah’s earth not vast enough for you to emigrate in it?” 
-
-Their refuge is Hell.
+{{< l a="Angels" >}}
+“What was the matter with you? We were oppressed in the land. Was Allah’s earth not vast enough for you to emigrate in it?
+{{< /l >}}
 
 
 {{< s v="98-99" >}} Allah may well pardon the weak men, women, and children who have no means:
@@ -165,21 +171,16 @@ Allah has chosen Abraham for a friend.
 and what is on earth, and Allah encompasses
 everything. -->
 
-{{< s v="127" >}} When they ask you for a ruling about women, say: “Allah gives you a ruling about them, and so does what is stated to you in the Book
-about widowed women from whom you withhold what is decreed for them, yet you desire to marry them, and about helpless children: that you should treat the orphans
-fairly.” <!-- Whatever good you do, Allah knows it. -->
+{{< s v="127" >}} When they ask you for a ruling about women, say: “Allah gives you a ruling about widowed women from whom you withhold what is decreed for them. Yet you want to marry them, and about helpless children: that you should treat the orphans fairly.” <!-- Whatever good you do, Allah knows it. -->
 
 
-{{< s v="128" >}} If a woman fears maltreatment or desertion from her husband, there is no fault in
-them if they reconcile their differences, for reconciliation is best. Souls are prone to ava-
-rice; yet if you do what is good, and practice piety—Allah is Cognizant of what you do.
+{{< s v="128" >}} If a woman fears maltreatment or desertion from her husband, there is no fault in them if they reconcile their differences, for reconciliation is best. Souls are prone to avarice; yet if you do what is good, and practice piety.
 
 {{< s v="129" >}} You will not be able to treat women with equal fairness, no matter how much you desire it. But do not be so biased as to leave another suspended. If you make amends, and act righteously.
 
 {{< s v="130" >}} If they separate, Allah will enrich each from His abundance. <!-- Allah is Bounteous and Wise. -->
 
-{{< s v="131" >}} <!-- 131. To Allah belongs everything in the heavens and everything on earth. We have instructed those who were given the Book before you, and you, to be conscious of Allah. --> They say, “Did we not side with you, and defend you from the believers?” Allah will judge between you on the Day of Resurrection; and
-Allah will give the disbelievers no means of overcoming the believers.
+{{< s v="131" >}} <!-- 131. To Allah belongs everything in the heavens and everything on earth. We have instructed those who were given the Book before you, and you, to be conscious of Allah. --> They say, “Did we not side with you, and defend you from the believers?” Allah will judge between you on the Day of Resurrection; and Allah will give the disbelievers no means of overcoming the believers.
 
 <!-- 
 132. To Allah belongs everything in the heavens and everything on earth. Allah suffices as

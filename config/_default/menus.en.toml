@@ -224,7 +224,7 @@
     weight = 223
     name = "Confucius"
     url = "/research/confucius"
-    pre = "<img src='/icons/conf.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
+    pre = "<img src='/icons/conf.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
 
 [[navbar]]
     parent = "nenl"

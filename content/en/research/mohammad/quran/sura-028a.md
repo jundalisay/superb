@@ -1,7 +1,7 @@
 ---
 title: "HISTORY (al-Qasas)"
 heading: "Chapter 28 of the Quran Simplified"
-date: 2021-11-20
+date: 2021-12-28
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/

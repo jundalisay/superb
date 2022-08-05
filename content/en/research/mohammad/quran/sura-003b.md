@@ -1,7 +1,7 @@
 ---
 title: "The Family of Imran (Ali ‘Imran)"
 heading: "Chapter 3b of the Quran Simplified"
-date: 2022-01-30
+date: 2022-01-26
 image: "/covers/quran.jpg"
 description: "The Prophet Mohammad tries to connect the historical Imran family to his Islam."
 linkb: /research/mohammad/quran/
@@ -67,7 +67,7 @@ the nearest.
 
 48. And He will teach him the Scripture and wisdom, and the Torah and the Gospel.
 
-49. A messenger to the Children of Israel: “I have come to you with a sign from your Lord.
+49. A messenger to the Jews: “I have come to you with a sign from your Lord.
 I make for you out of clay the figure of a bird.
 
 then I breathe into it, and it becomes a bird by Allah’s leave. And I heal the blind and the
@@ -203,7 +203,7 @@ torment, and will have no saviors.
 92. You will not attain virtuous conduct until you give of what you cherish. Whatever you
 give away, Allah is aware of it.
 
-93. All food was permissible to the Children of Israel, except what Israel forbade for itself before the Torah was revealed. Say, “Bring the Torah, and read it, if you are truthful.”
+93. All food was permissible to the Jews, except what Israel forbade for itself before the Torah was revealed. Say, “Bring the Torah, and read it, if you are truthful.”
 
 94. Whoever forges lies about Allah after that—these are the unjust.
 
@@ -224,14 +224,14 @@ worlds.
 - “O People of the Scripture, why do you hinder from Allah’s path those who believe, seeking to distort it, even though you are wit-
 nesses? Allah is not unaware of what you do.”
 
-100. O you who believe! If you obey a party of those who were given the Scripture, they will
+100. Muslims,  If you obey a party of those who were given the Scripture, they will
 turn you, after your belief, into disbelievers.
 
 101. And how could you disbelieve, when Allah’s revelations are being recited to you, and
 among you is His Messenger? Whoever cleaves to Allah has been guided to a straight
 path.
 
-102. O you who believe! Revere Allah with due reverence, and do not die except as Muslims.
+102. Muslims,  Revere Allah with due reverence, and do not die except as Muslims.
 
 103. And hold fast to the rope of Allah, altogether, and do not become divided. And remember Allah’s blessings upon you; how you were enemies, and He reconciled your hearts,
 and by His grace you became brethren. And you were on the brink of a pit of fire, and He
@@ -283,7 +283,7 @@ the harvest of a people who have wronged
 their souls, and destroys it. Allah did not
 wrong them, but they wronged their own
 selves.
-118. O you who believe! Do not befriend out-
+118. Muslims,  Do not befriend out-
 siders who never cease to wish you harm.
 They love to see you suffer. Hatred has al-
 ready appeared from their mouths, but what
@@ -332,7 +332,7 @@ wrongdoers.
 ens and the earth. He forgives whom He wills,
 and He punishes whom He wills. Allah is
 Most Forgiving, Most Merciful.
-130. O you who believe! Do not feed on usury,
+130. Muslims,  Do not feed on usury,
 compounded over and over, and fear Allah,
 so that you may prosper.
 131. And guard yourselves against the Fire that
@@ -403,7 +403,7 @@ us against the disbelieving people.”
 148. So Allah gave them the reward of this
 world, and the excellent reward of the Here-
 after. Allah loves the doers of good.
-149. O you who believe! If you obey those who
+149. Muslims,  If you obey those who
 disbelieve, they will turn you back on your
 heels, and you end up losers.
 150. Allah
@@ -451,7 +451,7 @@ who caused them to backslide, on account of
 some of what they have earned. But Allah has
 forgiven them. Allah is Forgiving and Pru-
 dent.
-156. O you who believe! Do not be like those
+156. Muslims,  Do not be like those
 who disbelieved, and said of their brethren who marched in the land, or went on the of-
 fensive, “Had they stayed with us, they would
 not have died or been killed.” So that Allah

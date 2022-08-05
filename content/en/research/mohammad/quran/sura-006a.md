@@ -1,7 +1,7 @@
 ---
 title: "LIVESTOCK (al-An’am)"
 heading: "Chapter 6a of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-17
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
 linkb: /research/mohammad/quran/
@@ -139,43 +139,42 @@ Then to their Lord they will be gathered.
 lah wills, He leaves astray; and whomever He
 wills, He sets on a straight path.
 
-40. Say, “Have you considered? if Allah's pun-
+<!-- 40. Say, “Have you considered? if Allah's pun-
 ishment came upon you, or the Hour over-
 took you, would you call upon any other than
-Allah, if you are sincere?”
+Allah, if you are sincere?” -->
 
-41. In fact, it is Him you will call upon; and if
+<!-- 41. In fact, it is Him you will call upon; and if
 He wills, he will remove what you called Him
 for, and you will forget what you idolized.
+
 42. We sent messengers to communities be-
 fore you, and We afflicted them with suffer-
 ing and hardship, that they may humble
 themselves.
+
 43. If only, when Our calamity came upon
 them, they humbled themselves. But their
 hearts hardened, and Satan made their deeds
 appear good to them.
+
 44. Then, when they disregarded what they
 were reminded of, We opened for them the
 gates of all things. Until, when they delighted
 in what they were given, We seized them sud-
 denly; and at once, they were in despair.
+
 45. Thus the last remnant of the people who
 did wrong was cut off. And praise be to Allah,
-Lord of the Worlds.
-46. Say, “Have you considered? If Allah took
-away your hearing and your sight, and set a
-seal on your hearts, what god other than Al-
-lah would restore them to you?” Note how
-We explain the revelations in various ways,
-yet they still turn away.
-47. Say, “Have you considered? if Allah's pun-
-ishment descended on you suddenly or grad-
-ually, would any be destroyed except the
-wrongdoing people?”
-48. We sent the messengers only as bearers of
-good news and as warners. Those who believe and reform have nothing to fear, nor shall
-they grieve.
+Lord of the Worlds. -->
+
+46. Say, “Have you considered? If Allah took away your hearing and your sight, and set a
+seal on your hearts, what god other than Allah would restore them to you?” Note how
+We explain the revelations in various ways, yet they still turn away.
+
+47. Say, “Have you considered? if Allah's punishment descended on you suddenly or gradually, would any be destroyed except the wrongdoing people?”
+
+48. We sent the messengers only as bearers of good news and as warners. Those who believe and reform have nothing to fear, nor shall they grieve.
 
 49. But as for those who reject Our revelations, torment will afflict them because of their defiance.
 
@@ -196,23 +195,24 @@ If you drive them away, you would be one of the unjust.
 53. Thus We try some of them by means of others, that they may say, “Are these the ones
 whom Allah has favored from among us?” Is Allah not aware of the appreciative?
 
-54. When those who believe in Our revelations
-come to you, say, “Peace be upon you, your
-Lord has prescribed mercy for Himself.
-Whoever among you does wrong out of igno-
-rance, and then repents afterwards and re-
-forms—He is Forgiving and Merciful.”
-55. Thus We explain the revelations, and ex-
-pose the path of the unrighteous.
-56. Say, “I am forbidden from worshiping
-those you pray to besides Allah.” Say, “I will
+54. When those who believe in Our revelations come to you, say, “Peace be upon you, your
+Lord has prescribed mercy for Himself. 
+
+Whoever among you does wrong out of ignorance, and then repents afterwards and re-
+forms.
+
+<!-- 55. Thus We explain the revelations, and expose the path of the unrighteous.
+
+56. Say, “I am forbidden from worshiping those you pray to besides Allah.” Say, “I will
 not follow your desires; else I would be lost
-and not be of those guided.”
+and not be of those guided.” -->
+<!-- 
 57. Say, “I stand on clear evidence from my
 Lord, and you have rejected Him. I do not
 possess what you seek me to hasten; the deci-
 sion belongs solely to Allah. He states the
 truth, and He is the Best of Judges.”
+
 58. Say, “If I possessed what you seek me to
 hasten, the matter between you and me
 would have been settled. Allah is well aware
@@ -220,14 +220,13 @@ of the unjust.”
 
 59. With Him are the keys of the unseen; none knows them except He. And He knows eve-
 rything on land and in the sea. Not a leaf falls
-but He knows it; and there is not a single
-grain in the darkness of earth, nor is there an-
-ything wet or dry, but is in a clear record.
+but He knows it; and there is not a single grain in the darkness of earth, nor is there anything wet or dry, but is in a clear record.
+
 60. It is He Who takes you by night, and He
 knows what you earn by day. Then He raises
 you up in it, until a fixed term is fulfilled.
-Then to Him is your return, then He will in-
-form you of what you used to do.
+Then to Him is your return, then He will inform you of what you used to do.
+
 61. He is the Conqueror over His servants, and
 He sends guardians over you, until, when
 death overtakes one of you, Our envoys take
@@ -252,7 +251,9 @@ they may understand.”
 66. But your people rejected it, though it is the
 truth. Say, “I am not responsible for you.”
 67. For every happening is a finality, and you
-will surely know.
+will surely know. -->
+
+
 68. When you encounter those who gossip
 about Our revelations, turn away from them,
 until they engage in another topic. But should
@@ -261,22 +262,19 @@ recollection with the wicked people.
 
 
 
-
 set, he said, “O my people, I am innocent of
 your idolatry.
-79. I have directed my attention towards Him
-Who created the heavens and the earth—a
-monotheist—and I am not of the idolaters.”
-80. And his people argued with him. He said,
-“Do you argue with me about Allah, when He
-has guided me? I do not fear what you asso-
-ciate with Him, unless my Lord wills it. My
+
+79. I have directed my attention towards Him Who created the heavens and the earth—a
+monotheist—and I am not of the idolaters.” 
+80. And his people argued with him. He said, “Do you argue with me about Allah, when He
+has guided me? I do not fear what you associate with Him, unless my Lord wills it. My
 Lord comprehends all things in knowledge.
+
 Will you not reconsider?
-81. And why should I fear those you associate
-with Him, and you do not fear associating
-others with Allah for which He sent down to
-you no authority? Which side is more enti-
+
+81. And why should I fear those you associate with Him, and you do not fear associating
+others with Allah for which He sent down to you no authority? Which side is more enti-
 tled to security, if you are aware?”
 82. Those who believe, and do not obscure
 their faith with wrongdoing—those will have
@@ -311,12 +309,9 @@ The righteous are in no way accountable for them; it is only a reminder, that th
 70. So leave alone those who take their religion for play and pastime, and whom the worldly
 life has deceived. But remind with it, lest a
 soul becomes damned on account of what it
-has earned. It has no helper or intercessor be-
-sides Allah. Even if it offers every equivalent,
-none will be accepted from it. These are the
-ones who are delivered to perdition by their
-actions. They will have a drink of scalding
-water, and a painful punishment, because
+has earned. It has no helper or intercessor besides Allah. Even if it offers every equivalent,
+none will be accepted from it. These are the ones who are delivered to perdition by their
+actions. They will have a drink of scalding water, and a painful punishment, because
 they used to disbelieve.
 
 71. Say, “Shall we invoke besides Allah something that can neither benefit us nor harm us,
@@ -324,8 +319,8 @@ and turn back on our heels after Allah has guided us; like someone seduced by th
 and confused on earth, who has friends call-
 ing him to guidance: 'Come to us'?” Say, “The
 guidance of Allah is the guidance, and we are
-commanded to surrender to the Lord of the
-Universe.”
+commanded to surrender to the Lord of the Universe.”
+
 72. “And to perform the prayers, and to revere
 Him; it is to Him that you will be gathered.”
 73. It is He who created the heavens and the
@@ -486,42 +481,33 @@ Knower.
 they would divert you from Allah’s path.
 They follow nothing but assumptions, and
 they only conjecture.
-117. Your Lord knows best who strays from His
-path, and He knows best the guided ones.
-eat of that over which the Name of Al-
-lah was pronounced, if you indeed believe in
+
+117. Your Lord knows best who strays from His path, and He knows best the guided ones.
+eat of that over which the Name of Allah was pronounced, if you indeed believe in
 His revelations.
-119. And why should you not eat of that over
-which the Name of Allah is pronounced,
-when He has detailed for you what is prohib-
-ited for you, unless you are compelled by ne-
-cessity? Many lead astray with their opinions,
-through lack of knowledge. Your Lord knows
+
+119. And why should you not eat of that over which the Name of Allah is pronounced,
+when He has detailed for you what is prohibited for you, unless you are compelled by necessity? Many lead astray with their opinions, through lack of knowledge. Your Lord knows
 best the transgressors.
-120. So abandon sin, outward and inward.
-Those who commit sins will be repaid for
-what they used to perpetrate.
-121. And do not eat from that over which the
-Name of Allah was not pronounced, for it is
-abomination. The devils inspire their follow-
-ers to argue with you; but if you obey them,
+
+120. So abandon sin, outward and inward. Those who commit sins will be repaid for what they used to perpetrate.
+
+121. And do not eat from that over which the Name of Allah was not pronounced, for it is
+abomination. The devils inspire their followers to argue with you; but if you obey them,
 you would be polytheists.
-122. Is he who was dead, then We gave him life,
-and made for him a light by which he walks
-among the people, like he who is in total
-darkness, and cannot get out of it? Thus the
-doings of disbelievers are made to appear
-good to them.
-123. And thus We set up in every city its lead-
-ing wicked sinners, to conspire in it, but they
-conspire only against themselves, and they do
-not realize it.
-124. When a sign comes to them, they say, “We
-will not believe unless we are given the like of
-what was given to Allah’s messengers.” Allah
-knows best where to place His message. Hu-
+
+122. Is he who was dead, then We gave him life, and made for him a light by which he walks
+among the people, like he who is in total darkness, and cannot get out of it? Thus the
+doings of disbelievers are made to appear good to them.
+
+123. And thus We set up in every city its leading wicked sinners, to conspire in it, but they
+conspire only against themselves, and they do not realize it.
+
+124. When a sign comes to them, they say, “We will not believe unless we are given the like of
+what was given to Allah’s messengers.” <!-- Allah knows best where to place His message. Hu-
 miliation from Allah and severe torment will
-afflict the criminals for their scheming.
+afflict the criminals for their scheming. -->
+
 125. Whomever Allah desires to guide, He
 spreads open his heart to Islam; and whom-
 ever He desires to misguide, He makes his
@@ -558,36 +544,28 @@ ants are unaware.
 132. They all have ranks according to what they
 did; and your Lord is not unaware of what
 they do.
-133. Your Lord is the Rich Beyond Need, the
-Possessor of Mercy. If He wills, He can do
+
+<!-- 133. Your Lord is the Rich Beyond Need, the Possessor of Mercy. If He wills, He can do
 away with you, and substitute whomever He
 wills in your place, just as He produced you
 from the descendants of another people.
+
 134. What you are promised is coming, and
-you cannot thwart it.
-135. Say, “O my people! Work according to
-your ability, and so will I.” You will come to
+you cannot thwart it. -->
+
+135. Say, “O my people! Work according to your ability, and so will I.” You will come to
 know to whom will belong the sequel of the
 abode.” The wrongdoers will not prevail.
-136. And they set aside for Allah a share of the
-crops and the livestock He created, and they
-say, “This is for Allah,” according to their
-claim, “and this is for our idols.” But the share
-of their idols does not reach Allah, yet the
 
-share of Allah reaches their idols. Evil is their
-judgment.
+136. And they set aside for Allah a share of the crops and the livestock He created, and they say, “This is for Allah,” according to their claim, “and this is for our idols.” But the share of their idols does not reach Allah, yet the  share of Allah reaches their idols. Evil is their judgment.
 
 
-137. Likewise, their idols entice many idolaters
-to kill their children, in order to lead them to
-their ruin, and confuse them in their religion.
-Had Allah willed, they would not have done
-it; so leave them to their fraud.
+137. Likewise, their idols entice many idolaters to kill their children, in order to lead them to
+their ruin, and confuse them in their religion. 
 
-138. And they say, “These animals and crops are restricted; none may eat them except
-those we permit,” by their claims, and animals whose backs are forbidden, and animals
-over which they do not pronounce the name of Allah—fabricating lies against Him. He
+Had Allah willed, they would not have done it; so leave them to their fraud.
+
+138. They say, “These animals and crops are restricted; none may eat them except those we permit,” by their claims, and animals whose backs are forbidden, and animals over which they do not pronounce the name of Allah—fabricating lies against Him. He
 will repay them for what they used to invent.
 
 139. And they say, “What lies in the wombs of these animals is exclusively for our males,
@@ -683,28 +661,17 @@ may receive mercy.
 to two parties before us, and we were una-
 ware of their teachings.”
 
-157. Or lest you say, “Had the Scripture been
-revealed to us, we would have been better
-guided than they.” Clarification has come to
-you from your Lord, and guidance, and
-mercy. Who then does greater wrong than he
-who gives the lie to Allah's messages, and
-turns away from them? We will repay those
-who turn away from Our messages with the
-worst kind of punishment, because of their
-turning away.
+157. Or lest you say, “Had the Scripture been revealed to us, we would have been better
+guided than they.” Clarification has come to you from your Lord, and guidance, and
+mercy. Who then does greater wrong than he who gives the lie to Allah's messages, and
+turns away from them? We will repay those who turn away from Our messages with the
+worst kind of punishment, because of their turning away.
 
-158. Are they waiting for anything but for the
-angels to come to them, or for your Lord to
-arrive, or for some of your Lord’s signs to
-come? On the Day when some of your Lord’s
-signs come, no soul will benefit from its faith
-unless it had believed previously, or had
+158. Are they waiting for anything but for the angels to come to them, or for your Lord to
+arrive, or for some of your Lord’s signs to come? 
 
-
-
-
-earned goodness through its faith. Say, “Wait,
+On the Day when some of your Lord’s signs come, no soul will benefit from its faith
+unless it had believed previously, or had earned goodness through its faith. Say, “Wait,
 we too are waiting.”
 
 159. As for those who divided their religion and became sects—you have nothing to do
@@ -721,4 +688,3 @@ with an evil deed will be repaid only with its equivalent—they will not be wro
 
 165. It is He who made you successors on the earth, and raised some of you in ranks over
 others, in order to test you through what He has given you.
-

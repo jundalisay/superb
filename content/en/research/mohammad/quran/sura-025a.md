@@ -1,7 +1,7 @@
 ---
 title: "THE CRITERION (al-Furqan)"
 heading: "Chapter 25 of the Quran Simplified"
-date: 2021-11-20
+date: 2021-12-30
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/

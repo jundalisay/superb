@@ -1,7 +1,7 @@
 ---
 title: "THE SPOILS (al-Anfal)"
 heading: "Chapter 8a of the Quran Simplified"
-date: 2021-11-20
+date: 2022-01-15
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -99,7 +99,7 @@ while you know.
 28. And know that your possessions and your children are a test, and that Allah possesses
 an immense reward.
 
-29. O you who believe! If you remain conscious of Allah, He will give you a criterion,
+29. Muslims,  If you remain conscious of Allah, He will give you a criterion,
 and will remit from you your sins, and will
 forgive you. Allah is possessor of infinite
 grace.
@@ -130,7 +130,7 @@ few in your eyes, and made you appear fewer
 in their eyes, so that Allah may conclude a
 predetermined matter. To Allah all matters
 revert.
-45. O you who believe! When you meet a force,
+45. Muslims,  When you meet a force,
 stand firm, and remember Allah much, so
 that you may prevail.
 46. And obey Allah and His Messenger, and do

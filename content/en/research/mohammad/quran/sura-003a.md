@@ -1,7 +1,7 @@
 ---
 title: "The Family of Imran (Ali ‘Imran)"
 heading: "Chapter 3a of the Quran Simplified"
-date: 2022-01-30
+date: 2022-01-27
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
