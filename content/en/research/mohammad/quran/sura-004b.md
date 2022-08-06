@@ -1,7 +1,7 @@
 ---
 title: "Rules on Marriage"
 heading: "Sura 4b of the Quran Simplified"
-date: 2022-01-16
+date: 2022-01-13
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/sura-004a

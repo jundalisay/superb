@@ -25,8 +25,7 @@ linkftext: "Index"
 {{< s v="9" >}} But he does not know when the contents of the graves are scattered around and the contents of the hearts are obtained.
 
 
-
-Their Lord, on that Day, is fully informed
+<!-- Their Lord, on that Day, is fully informed
 of them.
 you will know.
 you knew with knowledge of certainty.
@@ -35,7 +34,7 @@ would see the Inferno.
 
 Then, on that Day, you will be questioned
 about the Bliss.
-
+ -->
 
 ## 101. THE SHOCKER (al-Qari’ah)
 

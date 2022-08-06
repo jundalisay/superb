@@ -4,10 +4,10 @@ heading: "Sura 86a of the Quran Simplified"
 date: 2021-09-25
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/sura-091
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-085
+linkbtext: "sura-085"
+linkf: /research/mohammad/quran/sura-088
+linkftext: "sura-088"
 ---
 
 

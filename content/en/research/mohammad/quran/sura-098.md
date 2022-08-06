@@ -42,4 +42,14 @@ whoever has feared his Lord.
 
 ## 99. THE QUAKE (az-Zalzalah)
 
+When the earth is shaken with its final earthquake
+- and the earth discharges its burdens 1832
 
+man says, 1833 "What is [wrong] with it?" –
+
+On that Day:
+- it will report its news because your Lord has inspired [i.e., commanded] it.
+- the people will depart separated [into categories] to be shown [the result of] their deeds.
+
+Whoever does an atom's weight of good will see it,
+- whoever does an atom's weight of evil will see it.

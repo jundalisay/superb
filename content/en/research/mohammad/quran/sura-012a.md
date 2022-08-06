@@ -1,7 +1,7 @@
 ---
 title: "JOSEPH (Yusuf)"
 heading: "Sura 12a of the Quran Simplified"
-date: 2022-01-12
+date: 2021-11-24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -14,408 +14,120 @@ linkftext: "Index"
 <!-- {{< s v="1" >}}  Alif, Lam, Ra. These are the Verses of the Clear Book. -->
 
 {{< s v="2" >}}  We have revealed it an Arabic Quran, so that you may understand.
+- {{< s v="3" >}}  We narrate to you the most accurate history, by revealing to you this Quran. 
+- Although, prior to it, you were of the unaware.
 
-{{< s v="3" >}}  We narrate to you the most accurate history, by revealing to you this Quran. 
+{{< s v="4-6" >}}  Joseph said to his father: 
 
-Although, prior to it, you were of the unaware.
+{{< l a="Joseph" >}}
+I saw 11 planets, the sun, and the moon bowing down to me.
+{{< /l >}}
 
-{{< s v="4" >}}  When Joseph said to his father, “O my father, I saw eleven planets, and the sun, and
-the moon; I saw them bowing down to me.”{{< s v="5" >}}  He said, “O my son, do not relate your vision to your brothers, lest they plot and
-scheme against you. Satan is man's sworn enemy.
+{{< r a="Father" >}}
+My son, do not share your vision to your brothers, lest they plot and scheme against you. Satan is man's sworn enemy.
 
-6. And thus your Lord will choose you, and will teach you the interpretation of events, and will complete His blessing upon you and upon the family of Jacob, as He has completed it before upon your forefathers Abraham and Isaac.
+Your Lord will:
+- choose you
+- teach you the interpretation of events
+- complete His blessing on you and the family of Jacob, as He has completed it before on your forefathers Abraham and Isaac.
+{{< /r >}}
 
 7. In Joseph and his brothers are lessons for the seekers.
 
-8. When they said, “Joseph and his brother are dearer to our father than we are, although we
-are a whole group. Our father is obviously in the wrong.{{< s v="9" >}}  “Kill Joseph, or throw him somewhere in
-the land, and your father‘s attention will be yours. Afterwards, you will be decent people.”
+{{< s v="8" >}} They said:
 
-{{< s v="10" >}}  One of them said, “Do not kill Joseph, but throw him into the bottom of the well; some
-caravan may pick him up—if you must do something.”{{< s v="11" >}}  They said, “Father, why do you not trust us
-with Joseph, although we care for him?”
+{{< l a="Clan" >}}
+Joseph and his brother Benjamin are dearer to our father than we are, although we are a whole group.  Our father is obviously wrong. 
 
-12. “Send him with us tomorrow, that he may roam and play; we will take care of him.”
+Kill Joseph, or throw him somewhere so that your father‘s attention will be yours. Afterwards, you will be decent people.
+{{< /l >}}
 
-13. He said, “It worries me that you would take him away. And I fear the wolf may eat him
-while you are careless of him.”
+{{< s v="10" >}}  
 
-14. They said, “If the wolf ate him, and we are many, we would be good for nothing.”
+One of them said:
 
-15. So they went away with him, and agreed to put him at the bottom of the well. And We inspired him, “You will inform them of this
-deed of theirs when they are unaware.” 
+{{< l a="Someone" >}}
+Do not kill Joseph, but throw him into the bottom of the well; some caravan may pick him up.”
 
-{{< s v="16" >}}And they came to their father in the evening weeping.
+{{< s v="11-16" >}} 
 
-17. They said, “O father, we went off racing one another, and left Joseph by our belongings; and the wolf ate him. But you will not believe us, even though we are being truthful.”
+{{< l a="Clan" >}}
+Father, why do you not trust us with Joseph, although we care for him?
 
-18. And they brought his shirt, with fake blood on it. He said, “Your souls enticed you to do
-something. But patience is beautiful, and Allah is my Help against what you describe.”
+Send him with us tomorrow, that he may roam and play. We will take care of him.
+{{< /l >}}
 
-A caravan passed by, and they sent their water-carrier. He lowered his bucket, and
-said, “Good news. Here is a boy.” And they hid him as merchandise. But Allah was aware
-of what they did.
+{{< r a="Father" >}}
+I worry that you would take him away. I fear the wolf may eat him while you are careless of him.
+{{< /r >}}
 
-20. And they sold him for a cheap price—a few coins—they considered him to be of little
-value.
+{{< l a="Clan" >}}
+If the wolf ate him, and we are many, we would be good for nothing.
+{{< /l >}}
 
-21. The Egyptian who bought him said to his wife, “Take good care of him; he may be useful to us, or we may adopt him as a son.” We thus established Joseph in the land, to teach him the interpretation of events. 
+15. So they went away with him, and agreed to put him at the bottom of the well. 
+
+And We inspired him, “You will inform them of this deed of theirs when they are unaware.” 
+
+{{< s v="16-17" >}} They came to their father in the evening weeping;
+
+{{< l a="Clan" >}}
+Father, we went off racing one another, and left Joseph by our belongings. The wolf ate him. But you will not believe us.
+{{< /l >}}
+
+18. They brought his shirt, with fake blood on it. 
+
+{{< r a="Father" >}}
+Your souls enticed you to do something. But patience is beautiful, and Allah is my Help against what you describe.
+{{< /r >}}
+
+
+A caravan passed by, and they sent their water-carrier. 
+- He lowered his bucket, and said, “Good news. Here is a boy.” 
+- They hid him as merchandise. 
+
+
+20. They sold him for a cheap price—a few coins.
+
+21. The Egyptian Minister of Supplies bought him and said to his wife: “Take good care of him. He might be useful or we may adopt him as a son.”
+
+We thus established Joseph in the land, to teach him the interpretation of events. 
 
 Allah has control over His affairs, but most people do not know.
 
 22. When he reached his maturity, We gave him wisdom and knowledge. We thus reward the righteous.
 
-23. She in whose house he was living tried to seduce him. She shut the doors, and said, “I am yours.” He said, “Allah forbid! He is my Lord. He has given me a good home. Sinners never succeed.”
+23. The governor's wife tried to seduce him in the house that he was living in. She shut the doors and said: “I am yours.” 
 
-24. She desired him, and he desired her, had he not seen the proof of his Lord. It was thus that
-We diverted evil and indecency away from him. He was one of Our loyal servants.
+He said, “Allah forbid! He is my Lord. He has given me a good home. Sinners never succeed.”
 
-25. As they raced towards the door, she tore his shirt from behind. At the door, they ran into
-her husband. She said, “What is the penalty for him who desired to dishonor your wife,
-except imprisonment or a painful punishment?”
+24. She wanted him and he wanted her. But he saw the proof of his Lord. That was how We diverted evil and indecency away from him. He was one of Our loyal servants.
 
-26. He said, “It was she who tried to seduce me.” A witness from her household sug-
-gested: “If his shirt is torn from the front: then she has told the truth, and he is the liar.
+25. As they raced towards the door, she tore his shirt from behind. At the door, they ran into her husband. She said, “What is the penalty for him who desired to dishonor your wife, except imprisonment or a painful punishment?”
+
+26. He said, “It was she who tried to seduce me.” 
+
+A witness from her household suggested: “If his shirt is torn from the front: then she has told the truth, and he is the liar.
 
 27. But if his shirt is torn from the back: then she has lied, and he is the truthful.”
 
-28. And when he saw that his shirt was torn from the back, he said, “This is a woman's
-scheme. Your scheming is serious indeed.”
+28. And when he saw that his shirt was torn from the back, he said, “This is a woman's scheme. Your scheming is serious indeed.”
 
-29. “Joseph, turn away from this. And you, woman, ask forgiveness for your sin; you are
-indeed in the wrong.”
+29. “Joseph, turn away from this. And you, woman, ask forgiveness for your sin.”
 
-Some ladies in the city said, “The governor's wife is trying to seduce her servant. She
-is deeply in love with him. We see she has gone astray.”
+Some ladies in the city said, “The governor's wife is trying to seduce her slave. She is deeply in love with him. We see she has gone astray.”
 
-31. And when she heard of their gossip, she invited them, and prepared for them a banquet,
-and she gave each one of them a knife. She said, “Come out before them.” And when they saw him, they marveled at him, and cut
-their hands. They said, “Good Allah, this is not a human, this must be a precious angel.”
+31. When she heard of their gossip, she invited them, and prepared for them a banquet, and she gave each one of them a knife. She said, “Joseph, come out to them.” 
 
-32. She said, “Here he is, the one you blamed me for. I did try to seduce him, but he re-
-sisted. But if he does not do what I tell him to do, he will be imprisoned, and will be one of
-the despised.”
+When they saw him, they marveled at him, and accidentally cut their hands. 
 
-33. He said, “My Lord, prison is more desirable to me than what they call me to. Unless
-You turn their scheming away from me, I may yield to them, and become one of the ignorant.”
+They said, “Good Allah, this is not a human, this must be a precious angel.”
 
-34. Thereupon his Lord answered him, and diverted their scheming away from him. He is
-the Hearer, the Knower.
+32. She said, “He is the one you blamed me for. I did try to seduce him, but he resisted. But if he does not do what I tell him to do, he will be imprisoned, and will be one of the despised.”
 
-35. Then it occurred to them, after they had seen the signs, to imprison him for a while.
+33. He said, “My Lord, prison is more desirable to me than what they call me to. Unless You turn their scheming away from me, I may yield to them, and become one of the ignorant.”
 
-36. Two youth entered the prison with him.
+<!-- 34. Thereupon his Lord answered him, and diverted their scheming away from him. 
 
-One of them said, “I see myself pressing wine.” The other said, “I see myself carrying
-bread on my head, from which the birds are eating. Tell us their interpretation—we see
-that you are one of the righteous.”
-
-37. He said, “No food is served to you, but I have informed you about it before you have
-received it. That is some of what my Lord has taught me. I have forsaken the tradition of
-people who do not believe in Allah; and regarding the Hereafter, they are deniers.”
-
-38. “And I have followed the faith of my forefathers, Abraham, and Isaac, and Jacob. It is
-not for us to associate anything with Allah. 
-
-This is by virtue of Allah’s grace upon us and upon the people, but most people do not give thanks.
-
-39. “O My fellow inmates, are diverse lords
-better, or Allah, the One, the Supreme?”
-19.
-30.
-8512. JOSEPH (Yusuf)
-40. “You do not worship, besides Him, except
-names you have named, you and your ances-
-tors, for which Allah has sent down no au-
-thority. Judgment belongs to none but Allah.
-He has commanded that you worship none
-but Him. This is the right religion, but most
-people do not know.
-41. “O my fellow inmates! One of you will
-serve his master wine; while the other will be
-crucified, and the birds will eat from his head.
-Thus the matter you are inquiring about is
-settled.”
-42. And he said to the one he thought would
-be released, “Mention me to your master.”
-But Satan caused him to forget mentioning
-him to his master, so he remained in prison
-for several years.
-43. The king said, “I see seven fat cows being
-eaten by seven lean ones, and seven green
-spikes, and others dried up. O elders, explain
-to me my vision, if you are able to interpret
-visions.”
-44. They said, “Jumbles of dreams, and we
-know nothing of the interpretation of
-dreams.”
-45. The one who was released said, having re-
-membered after a time, “I will inform you of
-its interpretation, so send me out.”
-46. “Joseph, O man of truth, inform us con-
-cerning seven fat cows being eaten by seven
-lean ones, and seven green spikes, and others
-dried up, so that I may return to the people,
-so that they may know.”
-47. He said, “You will farm for seven consecu-
-tive years. But whatever you harvest, leave it
-in its spikes, except for the little that you eat.”
-48. Then after that will come seven difficult
-ones, which will consume what you have
-stored for them, except for the little that you
-have preserved.
-49. Then after that will come a year that brings
-relief to the people, and during which they
-will press.
-50. The king said, “Bring him to me.” And
-when the envoy came to him, he said, “Go
-back to your master, and ask him about the
-intentions of the women who cut their hands;
-my Lord is well aware of their schemes.”
-51. He said, “What was the matter with you,
-women, when you tried to seduce Joseph?”
-They said, “Allah forbid! We knew of no evil
-committed by him.” The governor’s wife then
-said, “Now the truth is out. It was I who tried
-to seduce him, and he is telling the truth.”
-52. “This is that he may know that I did not
-betray him in secret, and that Allah does not
-guide the scheming of the betrayers.”
-53. “Yet I do not claim to be innocent. The soul
-commands evil, except those on whom my
-Lord has mercy. Truly my Lord is Forgiving
-and Merciful.”
-54. The king said, “Bring him to me, and I will
-reserve him for myself.” And when he spoke
-to him, he said, “This day you are with us es-
-tablished and secure.”
-55. He said, “Put me in charge of the store-
-houses of the land; I am honest and knowl-
-edgeable.”
-56. And thus We established Joseph in the
-land, to live therein wherever he wished. We
-touch with Our mercy whomever We will,
-and We never waste the reward of the right-
-eous.
-57. But the reward of the Hereafter is better for
-those who believe and observed piety.
-58. And Joseph's brothers came, and entered
-into his presence. He recognized them, but
-they did not recognize him.
-59. When he provided them with their provi-
-sions, he said, “Bring me a brother of yours
-from your father. Do you not see that I fill up
-the measure, and I am the best of hosts?”
-60. “But if you do not bring him to me, you will
-have no measure from me, and you will not
-come near me.”
-61. They said, “We will solicit him from his fa-
-ther. We will surely do.”
-62. He said to his servants, “Put their goods in
-their saddlebags; perhaps they will recognize
-8612. JOSEPH (Yusuf)
-them when they return to their families, and
-maybe they will come back.”
-63. When they returned to their father, they
-said, “O father, we were denied measure, but
-send our brother with us, and we will obtain
-measure. We will take care of him.”
-64. He said, “Shall I trust you with him, as I
-trusted you with his brother before? Allah is
-the Best Guardian, and He is the Most Mer-
-ciful of the merciful.”
-65. And when they opened their baggage, they
-found that their goods were returned to
-them. They said, “Father, what more do we
-want? Here are our goods, returned to us. We
-will provide for our family, and protect our
-brother, and have an additional camel-load.
-This is easy commerce.”
-66. He said, “I will not send him with you, un-
-less you give me a pledge before Allah that
-you will bring him back to me, unless you get
-trapped.” And when they gave him their
-pledge, he said, “Allah is witness to what we
-say.”
-67. And he said, “O my sons, do not enter by
-one gate, but enter by different gates. I cannot
-avail you anything against Allah. The deci-
-sion rests only with Allah. On Him I rely, and
-on Him let the reliant rely.”
-68. And when they entered as their father had
-instructed them, it did not avail them any-
-thing against Allah; it was just a need in the
-soul of Jacob, which he carried out. He was a
-person of knowledge inasmuch as We had
-taught him, but most people do not know.
-69. And when they entered into the presence
-of Joseph, he embraced his brother, and said,
-“I am your brother; do not be saddened by
-what they used to do.”
-70. Then, when he provided them with their
-provisions, he placed the drinking-cup in his
-brother’s saddlebag. Then an announcer
-called out, “O people of the caravan, you are
-thieves.”
-71. They said, as they came towards them,
-“What are you missing?”
-72. They said, “We are missing the king’s gob-
-let. Whoever brings it will have a camel-load;
-and I personally guarantee it.”
-73. They said, “By Allah, you know we did not
-come to cause trouble in the land, and we are
-not thieves.”
-74. They said, “What shall be his punishment,
-if you are lying?”
-75. They said, “His punishment, if it is found
-in his bag: he will belong to you. Thus we pe-
-nalize the guilty.”
-76. So he began with their bags, before his
-brother's bag. Then he pulled it out of his
-brother’s bag. Thus We devised a plan for Jo-
-seph; he could not have detained his brother
-under the king’s law, unless Allah so willed.
-We elevate by degrees whomever We will;
-and above every person of knowledge, there
-is one more learned.
-77. They said, “If he has stolen, a brother of his
-has stolen before.” But Joseph kept it to him-
-self, and did not reveal it to them. He said,
-“You are in a worse situation, and Allah is
-Aware of what you allege.”
-78. They said, “O noble prince, he has a father,
-a very old man, so take one of us in his place.
-We see that you are a good person.”
-79. He said, “Allah forbid that we should arrest
-anyone except him in whose possession we
-found our property; for then we would be un-
-just.”
-80. And when they despaired of him, they con-
-ferred privately. Their eldest said, “Don’t you
-know that your father received a pledge from
-you before Allah, and in the past you failed
-with regard to Joseph? I will not leave this
-land until my father permits me, or Allah de-
-cides for me; for He is the Best of Deciders.”
-81. “Go back to your father, and say, ‘Our fa-
-ther, your son has stolen. We testify only to
-what we know, and we could not have pre-
-vented the unforeseen.’”
-82. “Ask the town where we were, and the car-
-avan in which we came. We are being truth-
-ful.”
-8712. JOSEPH (Yusuf)
-83. He said, “Rather, your souls have contrived
-something for you. Patience is a virtue. Per-
-haps Allah will bring them all back to me. He
-is the Knowing, the Wise.”
-84. Then he turned away from them, and said,
-“O my bitterness for Joseph.” And his eyes
-turned white from sorrow, and he became
-depressed.
-85. They said, “By Allah, you will not stop re-
-membering Joseph, until you have ruined
-your health, or you have passed away.”
-86. He said, “I only complain of my grief and
-sorrow to Allah, and I know from Allah what
-you do not know.”
-87. “O my sons, go and inquire about Joseph
-and his brother, and do not despair of Allah's
-comfort. None despairs of Allah's comfort
-except the disbelieving people.”
-88. Then, when they entered into his presence,
-they said, “Mighty governor, adversity has
-befallen us, and our family. We have brought
-scant merchandise. But give us full measure,
-and be charitable towards us—Allah rewards
-the charitable.”
-89. He said, “Do you realize what you did with
-Joseph and his brother, in your ignorance?”
-90. They said, “Is that you, Joseph?” He said, “I
-am Joseph, and this is my brother. Allah has
-been gracious to us. He who practices piety
-and patience—Allah never fails to reward the
-righteous.”
-91. They said, “By Allah, Allah has preferred
-you over us. We were definitely in the
-wrong.”
-92. He said, “There is no blame upon you to-
-day. Allah will forgive you. He is the Most
-Merciful of the merciful.”
-93. “Take this shirt of mine, and lay it over my
-father’s face, and he will recover his sight.
-And bring your whole family to me.”
-94. As the caravan set out, their father said, “I
-sense the presence of Joseph, though you may
-think I am senile.”
-95. They said, “By Allah, you are still in your
-old confusion.”
-Then, when the bearer of good news ar-
-rived, he laid it over his face, and he regained
-his sight. He said, “Did I not say to you that I
-know from Allah what you do not know?”
-97. They said, “Father, pray for the forgiveness
-of our sins; we were indeed at fault.”
-98. He said, “I will ask my Lord to forgive you.
-He is the Forgiver, the Most Merciful.”
-99. Then, when they entered into the presence
-of Joseph, he embraced his parents, and said,
-“Enter Egypt, Allah willing, safe and secure.”
-100. And he elevated his parents on the throne,
-and they fell prostrate before him. He said,
-“Father, this is the fulfillment of my vision of
-long ago. My Lord has made it come true. He
-has blessed me, when he released me from
-prison, and brought you out of the wilder-
-ness, after the devil had sown conflict be-
-tween me and my brothers. My Lord is Most
-Kind towards whomever He wills. He is the
-All-knowing, the Most Wise.”
-101. “My Lord, You have given me some au-
-thority, and taught me some interpretation of
-events. Initiator of the heavens and the earth;
-You are my Protector in this life and in the
-Hereafter. Receive my soul in submission,
-and unite me with the righteous.”
-102. This is news from the past that We reveal
-to you. You were not present with them when
-they plotted and agreed on a plan.
-103. But most people, for all your eagerness, are
-not believers.
-104. You ask them no wage for it. It is only a
-reminder for all mankind.
-105. How many a sign in the heavens and the
-earth do they pass by, paying no attention to
-them?
-106. And most of them do not believe in Allah
-unless they associate others.
-107. Do they feel secure that a covering of Al-
-lah’s punishment will not come upon them,
-or that the Hour will not come upon them
-suddenly, while they are unaware?
-108. Say, “This is my way; I invite to Allah,
-based on clear knowledge—I and whoever
-96.
-
-
-
-follows me. Glory be to Allah; and I am not
-of the polytheists.”
-109. We did not send before you except men,
-whom We inspired, from the people of the
-towns. Have they not roamed the earth and
-seen the consequences for those before them?
-The Home of the Hereafter is better for those
-who are righteous. Do you not understand?
-110. Until, when the messengers have des-
-paired, and thought that they were rejected,
-Our help came to them. We save whomever
-We will, and Our severity is not averted from
-the guilty people.
-111. In their stories is a lesson for those who
-possess intelligence. This is not a fabricated
-tale, but a confirmation of what came before
-it, and a detailed explanation of all things,
-and guidance, and mercy for people who believe.
-
+35. Then it occurred to them, after they had seen the signs, to imprison him for a while. -->
 

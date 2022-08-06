@@ -1,7 +1,7 @@
 ---
 title: "ABRAHAM (Ibrahim)"
 heading: "Sura 14a of the Quran Simplified"
-date: 2022-01-10
+date: 2021-11-21
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -39,8 +39,7 @@ you are ungrateful, My punishment is severe.”
 Thamood—and those after them? None knows them except Allah. 
 
 Their messengers came to them with the clear proofs, but they
-tried to silence them, and said, “We reject
-what you are sent with, and we are in serious
+tried to silence them, and said, “We reject what you are sent with, and we are in serious
 doubt regarding what you are calling us to.”
 
 {{< s v="10" >}}  Their messengers said, “Is there any doubt about Allah, Maker of the heavens and the earth? He calls you to forgive you your sins, and to defer you until a stated term.” 
@@ -52,44 +51,39 @@ shiped; so bring us a clear proof.”
 
 We cannot possibly show you any proof, except by leave of Allah. In Allah let the faithful put their trust.”
 
-12. “And why should we not trust in Allah,
-when He has guided us in our ways? We will
+12. “And why should we not trust in Allah, when He has guided us in our ways? We will
 persevere in the face of your persecution.
+
 And upon Allah the reliant should rely.”
-13. Those who disbelieved said to their mes-
-sengers, “We will expel you from our land,
-unless you return to our religion.” And their
-Lord inspired them: “We will destroy the
+
+13. Those who disbelieved said to their messengers, “We will expel you from our land,
+unless you return to our religion.” And their Lord inspired them: “We will destroy the
 wrongdoers.”
+
 14. “And We will settle you in the land after
-them. That is for him who fears My Majesty,
-and fears My threats.”
-15. And they prayed for victory, and every
-stubborn tyrant came to disappointment.
+them. That is for him who fears My Majesty, and fears My threats.”
+
+15. And they prayed for victory, and every stubborn tyrant came to disappointment.
+
 {{< s v="16" >}}Beyond him lies Hell, and he will be given
 to drink putrid water.
-17. He will guzzle it, but he will not swallow it.
-Death will come at him from every direction,
-but he will not die. And beyond this is relent-
-less suffering.
-18. The likeness of those who disbelieve in
-their Lord: their works are like ashes, in a
-fierce wind, on a stormy day. They have no
-control over anything they have earned. That
+
+17. He will guzzle it, but he will not swallow it. Death will come at him from every direction,
+but he will not die. And beyond this is relentless suffering.
+
+18. The likeness of those who disbelieve in their Lord: their works are like ashes, in a
+fierce wind, on a stormy day. They have no control over anything they have earned. That
 is the utmost misguidance.
-19. Do you not see that Allah created the heav-
-ens and the earth with truth? If He wills, He
-can do away with you, and bring a new crea-
-tion.
-20. And that is not difficult for Allah.
-They will emerge before Allah, altogether.
-The weak will say to those who were proud,
-“We were your followers, can you protect us
-at all against Allah’s punishment?” They will
-say, “Had Allah guided us, we would have
-guided you. It is the same for us; whether we
-mourn, or are patient; there is no asylum for
-us.”
+
+19. Do you not see that Allah created the heavens and the earth with truth? If He wills, He can do away with you, and bring a new creation.
+
+20. And that is not difficult for Allah. They will emerge before Allah, altogether.
+The weak will say to those who were proud, “We were your followers, can you protect us
+at all against Allah’s punishment?” 
+
+They will say, “Had Allah guided us, we would have guided you. 
+
+It is the same for us; whether we mourn, or are patient; there is no asylum for us.”
 
 22. Satan will say, when the issue is settled, “Allah has promised you the promise of
 truth, and I promised you, but I failed you. I
@@ -105,58 +99,42 @@ will be admitted into gardens beneath which
 rivers flow, to remain therein forever, by
 leave of their Lord. Their greeting therein will
 be: “Peace.”
-24. Do you not see how Allah presents a para-
-ble? A good word is like a good tree—its root
+
+24. Do you not see how Allah presents a parable? A good word is like a good tree—its root
 is firm, and its branches are in the sky.
-25. It yields its fruits every season by the will of
-its Lord. Allah presents the parables to the
+
+25. It yields its fruits every season by the will of its Lord. Allah presents the parables to the
 people, so that they may reflect.
-26. And the parable of a bad word is that of a
-bad tree—it is uprooted from the ground; it
-has no stability.
+
+26. And the parable of a bad word is that of a bad tree—it is uprooted from the ground; it has no stability.
 
 
-27. Allah gives firmness to those who believe,
+<!-- 27. Allah gives firmness to those who believe,
 with the firm word, in this life, and in the
 Hereafter. And Allah leads the wicked astray.
 Allah does whatever He wills.
+
 28. Have you not seen those who exchanged
 the blessing of Allah with blasphemy, and
-landed their people into the house of perdi-
-tion?
-29. Hell—they will roast in it. What a misera-
-ble settlement.
-30. And they set up rivals to Allah, in order to
-lead away from His path. Say, “Enjoy your-
-selves; your destination is the Fire.”
-31. Tell My servants who have believed to per-
-form the prayers, and to give from what We
-have given them, secretly and publicly, before
-a Day comes in which there is neither trading
-nor friendship.
-32. Allah is He Who created the heavens and
-the earth, and sends down water from the
-sky, and with it produces fruits for your sus-
-tenance. And He committed the ships to your
-service, sailing through the sea by His com-
-mand, and He committed the rivers to your
-service.
-33. And He committed the sun and the moon
-to your service, both continuously pursuing
-their courses, and He committed the night
-and the day to your service.
-34. And He has given you something of all
-what you asked. And if you were to count Al-
-lah’s blessings, you would not be able to enu-
-merate them. The human being is unfair and
-ungrateful.
-35. Recall that Abraham said, “O my Lord,
-make this land peaceful, and keep me and my
-sons from worshiping idols.”
-36. “My Lord, they have led many people
-astray. Whoever follows me belongs with me;
-and whoever disobeys me—You are Forgiv-
-ing and Merciful.
+landed their people into the house of perdition?
+
+29. Hell—they will roast in it. What a miserable settlement. -->
+
+30. And they set up rivals to Allah, in order to lead away from His path. Say, “Enjoy yourselves; your destination is the Fire.”
+
+31. Tell My servants who have believed to perform the prayers, and to give from what We have given them, secretly and publicly, before a Day comes in which there is neither trading nor friendship.
+
+32. Allah is He Who created the heavens and the earth, and sends down water from the sky, and with it produces fruits for your sustenance. And He committed the ships to your service, sailing through the sea by His command, and He committed the rivers to your service.
+
+33. And He committed the sun and the moon to your service, both continuously pursuing their courses, and He committed the night and the day to your service.
+
+34. And He has given you something of all what you asked. And if you were to count Allah’s blessings, you would not be able to enumerate them. The human being is unfair and ungrateful.
+
+35. Recall that Abraham said, “O my Lord, make this land peaceful, and keep me and my sons from worshiping idols.”
+
+36. “My Lord, they have led many people astray. Whoever follows me belongs with me;
+and whoever disobeys me—You are Forgiving and Merciful.
+
 37. “Our Lord, I have settled some of my off-
 spring in a valley of no vegetation, by Your
 Sacred House, our Lord, so that they may
@@ -176,39 +154,28 @@ takes place.”
 42. Do not ever think that Allah is unaware of
 what the wrongdoers do. He only defers them
 until a Day when the sights stare.
-43. Their necks outstretched, their heads up-
-raised, their gaze unblinking, their hearts
-void.
-44. And warn mankind of the Day when the
-punishment will come upon them, and the
-wicked will say, “Our Lord, defer us for a little
-while, and we will answer Your call and fol-
-low the messengers.” Did you not swear be-
-fore that there will be no passing away for
-you?
-45. And you inhabited the homes of those who
-wronged themselves, and it became clear to
-you how We dealt with them, and We cited
-for you the examples.
-46. They planned their plans, but their plans
-are known to Allah, even if their plans can
+
+43. Their necks outstretched, their heads upraised, their gaze unblinking, their hearts void.
+
+44. And warn mankind of the Day when the punishment will come upon them, and the wicked will say, “Our Lord, defer us for a little while, and we will answer Your call and follow the messengers.” Did you not swear before that there will be no passing away for you?
+
+45. And you inhabited the homes of those who wronged themselves, and it became clear to
+you how We dealt with them, and We cited for you the examples.
+
+46. They planned their plans, but their plans are known to Allah, even if their plans can
 eliminate mountains.
-47. Do not ever think that Allah will break His
-promise to His messengers. Allah is Strong,
-Able to Avenge.
-48. On the Day when the earth is changed into
-another earth, and the heavens, and they will
-emerge before Allah, the One, the Irresistible.
-49. On that Day, you will see the sinners bound
-together in chains.
-50. Their garments made of tar, and the Fire
-covering their faces.
-51. That Allah may repay each soul according
-to what it has earned. Allah is Quick in reck-
-oning.
-52. This is a proclamation for mankind, that
-they may be warned thereby, and know that
-He is One God, and that people of under-
-standing may remember.
+
+47. Do not ever think that Allah will break His promise to His messengers. Allah is Strong, Able to Avenge.
+
+48. On the Day when the earth is changed into another earth, and the heavens, and they will emerge before Allah, the One, the Irresistible.
+
+49. On that Day, you will see the sinners bound together in chains.
+
+50. Their garments made of tar, and the Fire covering their faces.
+
+51. That Allah may repay each soul according to what it has earned. Allah is Quick in reckoning.
+
+52. This is a proclamation for mankind, that they may be warned thereby, and know that
+He is One God, and that people of understanding may remember.
 
 

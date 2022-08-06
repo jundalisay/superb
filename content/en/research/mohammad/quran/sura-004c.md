@@ -1,7 +1,7 @@
 ---
 title: "Women (an-Nisa’)"
 heading: "Sura 4c of the Quran Simplified"
-date: 2022-01-15
+date: 2022-01-12
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/

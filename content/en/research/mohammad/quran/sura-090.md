@@ -10,6 +10,7 @@ linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 
+
 ## 90. The City (al-Balad) 
 
 {{< s v="1" >}} I swear by this city of Makkah
@@ -34,18 +35,8 @@ difficult pass?
 17. And then being among those who believed and advised one
 another to patience and advised one another to compassion.
 18. Those are the companions of the right.
-
-Said to be Adam (upon him be peace).
-1795Of good and evil.
-1796i.e., the steep incline or obstacle. In other words, he has not spent in the
-cause of AllŒh but only boasts of spending in front of others.
-1797Or "the companions of good fortune," i.e., those who receive their
-records in their right hands and proceed to Paradise.
-635S´rah 90 – al-Balad
-JuzÕ 30
-19. But they who disbelieved in Our signs – those are the companions
-of the left. 1798
-20. Over them will be fire closed in. 1799
+19. But they who disbelieved in Our signs – those are the companions of the left.
+20. Over them will be fire closed in.
 
 
 

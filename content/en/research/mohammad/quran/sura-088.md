@@ -4,10 +4,10 @@ heading: "Sura 88-89 of the Quran Simplified"
 date: 2021-09-24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-086
+linkbtext: "sura-086"
+linkf: /research/mohammad/quran/sura-090
+linkftext: "sura-090"
 ---
 
 

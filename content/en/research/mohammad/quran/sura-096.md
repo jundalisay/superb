@@ -11,11 +11,33 @@ linkftext: "Index"
 ---
 
 
+Your Lord created man from a clinging substance.
+
+<!-- 3. Recite, and your Lord is the most Generous –
+4. Who taught by the pen –
+5. Taught man that which he knew not. -->
+
+6. Man transgresses because he sees himself self-sufficient.
+
+8. Indeed, to your Lord is the return.
+9. Have you seen the one who forbids
+10. A servant when he prays?
+11. Have you seen if he is upon guidance
+12. Or enjoins righteousness?
+13. Have you seen if he denies and turns away –
+14. Does he not know that AllŒh sees?
+15. No! If he does not desist, We will surely drag him by the
+forelock 
+16. A lying, sinning forelock.
+
+17. Then let him call his associates;
+18. We will call the angels of Hell. 1823
+19. No! Do not obey him. But prostrate and draw near [to AllŒh].
+
+<!-- 
 In it descend the angels and the Spirit, by
 the leave of their Lord, with every command.{{< s v="5" >}}  Peace
 
-
-Read: In the Name of your Lord who created.
 {{< s v="2" >}}  Created{{< s v="3" >}}  Read:{{< s v="4" >}}  He
 And your Lord is the Most Generous.{{< s v="5" >}}  Taught
 6. In
@@ -24,6 +46,7 @@ he considers himself exempt.
 to your Lord is the return.{{< s v="9" >}}  Have{{< s v="10" >}}  A
 man what he never knew.
 fact, man oversteps all bounds.
+
 7. When
 you seen him who prevents?
 you think he is upon guidance?
@@ -72,7 +95,7 @@ him call on his gang.
 will call the Guards.
 do not obey him; but kneel down, and
 come near.
-19. No,
+19. No, -->
 
 
 ## 97. DECREE (al-Qadr)

@@ -386,6 +386,10 @@ body {
 
 
 
+.Jesus {
+  background-color: #ccd6fc;
+  background-image: url(/icons/jesus.png);    
+}
 
 
 .Someone {
@@ -413,14 +417,19 @@ body {
   background-image: url(/icons/g02.png) !important;
 }
 
-.cle, .Cleitophon, .Simmias, .Duke-Ngai {
+.cle, .Cleitophon, .Simmias, .Duke-Ngai, .Abraham {
   background-color: #ffd3ac; 
   background-image: url(/icons/g03.png);  
 }
 
-.thra, .Thrasymachus, .angry, .Boomer, .Duke-Ting {
+.thra, .Thrasymachus, .angry, .Boomer, .Duke-Ting, .Father-of-Abraham {
   background-color: #ffc8d5;
   background-image: url(/icons/g04.png);  
+}
+
+.Allah {
+  background-color: white;
+  background-image: url(/icons/yellow.png);  
 }
 
 .zeno, .Tsai-Wo {
@@ -428,7 +437,7 @@ body {
   background-image: url(/icons/g04.png);  
 }
 
-.pole, .Polemarchus, .Cebes, .Critias, .Judge {
+.pole, .Polemarchus, .Cebes, .Critias, .Judge, .Man {
   background-color: #dec7ff;
   background-image: url(/icons/g05.png);
 /*  background-image: url(/avatars/g9.jpg);*/
@@ -445,7 +454,7 @@ body {
   background-image: url(/icons/g07.png);    
 }
 
-.ceph, .Cephalus, .Tsz-Kung {
+.ceph, .Cephalus, .Tsz-Kung, .Zechariah {
   background-color: #b7ffc9;
   background-image: url(/icons/g08.png);  
 }
@@ -453,6 +462,11 @@ body {
 .Tsz-Lu, .Yuen-Sz, .Chung-Kung {
   background-color: powderblue;  
   background-image: url(/icons/g09.png);  
+}
+
+.Mary {
+  background-color: mistyrose;  
+  background-image: url(/icons/g10.png);  
 }
 
 .tsang, .Tsang-Sin, .Szma-Niu {

@@ -1,12 +1,12 @@
 ---
-title: "The Heifer (Al-Baqarah)"
-heading: "Sura 2a of the Quran Simplified"
+title: "The Night and Morning Light"
+heading: "Sura 92 of the Quran Simplified"
 date: 2021-09-22
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
+linkb: /research/mohammad/quran/sura-090
 linkbtext: "Index"
-linkf: /research/mohammad/quran/
+linkf: /research/mohammad/quran/sura-095
 linkftext: "Index"
 ---
 

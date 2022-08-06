@@ -1,13 +1,13 @@
 ---
 title: "THE CONSTELLATIONS (al-Buruj)"
-heading: "Sura 85a of the Quran Simplified"
+heading: "Sura 85 of the Quran Simplified"
 date: 2021-09-26
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-084
+linkbtext: "sura-084"
+linkf: /research/mohammad/quran/sura-086
+linkftext: "sura-086"
 ---
 
 
@@ -20,12 +20,18 @@ linkftext: "Index"
 {{< s v="5" >}}  The fire supplied with fuel while they sat around it.
 
 7. And were witnessing what they did to the believers.
-8. They begrudged them only because they believed in Allah the Almighty, the Praiseworthy.{{< s v="9" >}}  To Whom belongs the sovereignty of the heavens and the earth. Allah is witness over
-everything.{{< s v="10" >}}  Those who tempt the believers, men and women, then do not repent; for them is the
+
+8. They begrudged them only because they believed in Allah the Almighty, the Praiseworthy.{{< s v="9" >}}  To Whom belongs the sovereignty of the heavens and the earth. Allah is witness over everything.
+
+{{< s v="10" >}}  Those who tempt the believers, men and women, then do not repent; for them is the
 punishment of Hell; for them is the punishment of Burning.{{< s v="11" >}}  Those who believe and do righteous deeds will have Gardens beneath which rivers flow.
+
 That is the great triumph.
+
 12. The onslaught of your Lord is severe.
+
 13. He begins and repeats.
+
 <!-- 14. And
 He is the Forgiving, the Loving.
 15. Possessor
@@ -51,10 +57,7 @@ Us is their return.
 26. Then
 Scriptures of Abraham and Moses. -->
 
-the day as it reveals it.
-
-
- swear by this land.{{< s v="4" >}}  And the night as it conceals it.{{< s v="5" >}}  And the sky and He who built it.
+<!--  swear by this land.{{< s v="4" >}}  And the night as it conceals it.{{< s v="5" >}}  And the sky and He who built it.
  6. And the earth and He who spread it.
 you are a resident of this land.
 by a father and what he fathered.
@@ -110,7 +113,7 @@ advise one another to patience, and advise
 one another to kindness.
 freeing of a slave.
 He does not fear its sequel.
-
+ -->
 
 
 
@@ -145,7 +148,7 @@ tered you?{{< s v="5" >}} {{< s v="11" >}}  But -->
 
 
 
-
+<!-- 
 {{< s v="10" >}}  We
 will ease his way towards difficulty.{{< s v="11" >}}  And his money will not avail him when he
 plummets. 1. Did
@@ -175,3 +178,4 @@ no favor in return.
 Only seeking the acceptance of his Lord,
 the Most High.
 
+ -->

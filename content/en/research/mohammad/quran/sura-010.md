@@ -1,7 +1,7 @@
 ---
 title: "JONAH (Yunus)"
 heading: "Sura 10 of the Quran Simplified"
-date: 2022-01-05
+date: 2021-11-28
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -38,29 +38,33 @@ drink of boiling water, and agonizing torment, on account of their disbelief.
 
 <!-- 6. In the alternation of night and day, and in what Allah created in the heavens and the earth, are signs for people who are aware. -->
 
-7. Those who do not hope to meet Us, and are content with the worldly life, and are at ease in it, and those who pay no heed to Our signs.
+{{< s v="7-8" >}} The following will live in Hell because of what they used to do:
+- Those who do not hope to meet Us
+- Those who are content with the worldly life, and are at ease in it,
+- Those who pay no heed to Our signs.
 
-8. These—their dwelling is the Fire—on account of what they used to do.
 
-{{< s v="9" >}}  As for those who believe and do good deeds, their Lord guides them in their faith. Rivers
-will flow beneath them in the Gardens of Bliss.
+{{< s v="9" >}} The Lord guides those who believe and do good deeds 
+- {{< s v="10" >}}  Their call in Paradise is: “Glory be to You, our God.” 
+- Their greeting therein is, “Peace.”
+- The last of their call is, “Praise be to Allah, Lord of the Worlds.”
 
-{{< s v="10" >}}  Their call therein is, “Glory be to You, our God.” And their greeting therein is, “Peace.”
-And the last of their call is, “Praise be to Allah, Lord of the Worlds.”
+{{< s v="11" >}}  If Allah were to accelerate the ill for the people, as they wish to accelerate the good, their term would have been fulfilled. 
 
-{{< s v="11" >}}  If Allah were to accelerate the ill for the people, as they wish to accelerate the good,
-their term would have been fulfilled. But We leave those who do not expect Our encounter to blunder in their excesses.
+But We leave those who do not expect Our encounter to blunder in their excesses.
 
 
 12. Whenever adversity touches the human being, he prays to Us—reclining on his side, or sitting, or standing. 
+- But when We have relieved his adversity from him, he goes away, as though he had never called on Us for trouble that had afflicted him.
+- Thus the deeds of the transgressors appear good to them.
 
-But when We have relieved his adversity from him, he goes away, as though he had never called on Us for trouble that had afflicted him. Thus the deeds of the transgressors appear good to them.
-
-13. We destroyed generations before you when they did wrong. Their messengers came to them with clear signs, but they would not believe. Thus We requite the sinful people.
+13. We destroyed generations before you when they did wrong.
+- Their messengers came to them with clear signs, but they would not believe. Thus We requite the sinful people.
 
 14. Then We made you successors on earth after them, to see how you would behave.
+- 15. And when Our clear revelations are recited to them, those who do not hope to meet Us say, “Bring a Quran other than this, or change it.” 
 
-15. And when Our clear revelations are recited to them, those who do not hope to meet Us say, “Bring a Quran other than this, or change it.” Say, “It is not for me to change it of my own accord. I only follow what is revealed to me. I fear, if I disobeyed my Lord, the torment of a terrible Day.”
+Say, “It is not for me to change it of my own accord. I only follow what is revealed to me. I fear, if I disobeyed my Lord, the torment of a terrible Day.”
 
 {{< s v="16" >}} Say, “Had Allah willed, I would not have recited it to you, and He would not have
 made it known to you. I have lived among you for a lifetime before it.
@@ -149,39 +153,30 @@ the truth. Allah is fully aware of what they do.
 
 47. Every community has a messenger. When their messenger has come, judgment will be passed between them with fairness, and they will not be wronged.
 
-48. And they say, “When will this promise be fulfilled, if you are truthful?”
+48. They say: “When will this promise be fulfilled, if you are truthful?”
 
 49. Say, “I have no power to harm or benefit myself, except as Allah wills. To every nation is an appointed time. Then, when their time
 arrives, they can neither postpone it by one hour, nor advance it.
 
-50. Say, “Have you considered? If His punishment overtakes you by night or by day, what
-part of it will the guilty seek to hasten?”
+50. Say, “Have you considered? If His punishment overtakes you by night or by day, what part of it will the guilty seek to hasten?”
 
 51. “Then, when it falls, will you believe in it? Now? When before you tried to hasten it?”
 
-52. Then it will be said to those who did wrong, “Taste the torment of eternity. Will you be re-
-warded except for what you used to do?” 
+52. Then it will be said to those who did wrong, “Taste the torment of eternity. Will you be rewarded except for what you used to do?” 
 
-53. And they inquire of you, “Is it true?” Say, “Yes, by my Lord, it is true, and you cannot
-evade it.”
+53. And they inquire of you, “Is it true?” Say, “Yes, by my Lord, it is true, and you cannot evade it.”
 
-54. Had every soul which had done wrong possessed everything on earth, it would offer it as
-a ransom. They will hide the remorse when they witness the suffering, and it will be
-judged between them equitably, and they will not be wronged.
+54. Had every soul which had done wrong possessed everything on earth, it would offer it as a ransom. They will hide the remorse when they witness the suffering, and it will be judged between them equitably, and they will not be wronged.
 
-55. Assuredly, to Allah belongs everything in the heavens and the earth. Assuredly, the
-promise of Allah is true. But most of them do not know.
+55. Assuredly, to Allah belongs everything in the heavens and the earth. Assuredly, the promise of Allah is true. 
 
 56. He gives life and causes death, and to Him you will be returned.
 
-57. O people! There has come to you advice from your Lord, and healing for what is in the
-hearts, and guidance and mercy for the believers.
+57. O people! There has come to you advice from your Lord, and healing for what is in the hearts, and guidance and mercy for the believers.
 
 Say, “In Allah’s grace and mercy let them rejoice. That is better than what they hoard.”
 
-59. Say, “Have you considered the sustenance Allah has sent down for you, some of which
-you made unlawful, and some lawful?” Say, “Did Allah give you permission, or do you
-fabricate lies and attribute them to Allah?”
+59. Say, “Have you considered the sustenance Allah has sent down for you, some of which you made unlawful, and some lawful?” Say, “Did Allah give you permission, or do you fabricate lies and attribute them to Allah?”
 
 60. What will they think—those who fabricate lies and attribute them to Allah—on the Day of Resurrection? Allah is bountiful towards the people, but most of them do not give thanks.
 

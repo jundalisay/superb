@@ -1,7 +1,7 @@
 ---
 title: "The Story of Noah and Moses"
 heading: "Sura 10b of the Quran Simplified"
-date: 2022-01-04
+date: 2021-11-27
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/sura-010
@@ -129,6 +129,3 @@ guided for his own soul; and whoever strays only strays to its detriment. I am n
 
 109. And follow what is revealed to you, and be patient until Allah issues His judgment, for
 He is the Best of judges.
-
-
-
