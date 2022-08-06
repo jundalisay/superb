@@ -1,7 +1,7 @@
 ---
 title: "Rules on Food, Fasting, Gambling, and Revenge"
-heading: "Chapter 2e of the Quran Simplified"
-date: 2022-01-29
+heading: "Sura 2e of the Quran Simplified"
+date: 2022-01-25
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -11,90 +11,109 @@ linkftext: "Index"
 ---
 
 
-190. Fight in the cause of Allah those who fight you. 
-- But do not commit aggression.
-- Allah does not love the aggressors.
+{{< s v="168" >}} Eat of what is lawful and good on earth. 
 
-191. Kill them wherever you overtake them
-- Expel them from where they had expelled you. 
+Do not follow the footsteps of Satan, an open enemy. {{< s v="169" >}} He commands you to:
+- do evil and vice
+- say about Allah what you do not know.
 
-Oppression is more serious than murder. 
-- But do not fight them at the Kabbah unless they fight you there. 
+Satan's followers will say:  {{< s v="168" >}} <!-- And when it is said to them, “Follow what Allah has revealed,” they say, --> “We follow what we found our ancestors following.” 
 
-If they fight you, then kill them. <!-- Such is the retribution of the disbelievers. -->
+This is even if their ancestors understood nothing, and were not guided. 
 
-192. But if they cease, then Allah is Forgiving and Merciful.
+{{< s v="171" >}} The parable of those who disbelieve is that of someone who calls upon someone who hears nothing except screaming and yelling.
 
-193. Fight them until there is no oppression, and worship becomes devoted to Allah alone. 
+Deaf, dumb, and blind—they do not understand.
 
-But if they cease, then let there be no hostility except against the oppressors.
+172-173. Muslims, <!--  Eat of the good things We have provided for you, and give thanks to
+Allah, if it is Him that you serve. --> Allah has forbidden you carrion, and blood, and the flesh of swine, and what was dedicated to other than Allah. But if anyone is compelled, without desiring or exceeding, he commits no sin.
 
-194. The sacred month for the sacred month;
+174. Those who conceal what Allah revealed in the Book, and exchange it for a small price—
+those swallow nothing but fire into their bellies. And Allah will not speak to them on the
+Day of Resurrection, nor will He purify them,
+and they will have a painful punishment.
 
-Sacrilege calls for retaliation. 
+175. It is they who exchange guidance for error, and forgiveness for punishment. But why do
+they insist on the Fire?
 
-Whoever commits aggression against you, retaliate against him in the same measure as he has committed against you. 
+176. That is because Allah has revealed the Book in truth; and those who differ about the
+Book are in deep discord.
 
-<!-- Bbe conscious of
-Allah, and know that Allah is with the right-
-eous.
- -->
-195. Spend in the cause of Allah. 
-- Do not throw yourselves with your own hands into ruin
-- Be charitable.
+177. Righteousness does not consist of turning your faces towards the East and the West. 
 
-196. Carry out the Hajj and the Umrah for Allah. 
+But righteous is he who believes in Allah, and the Last Day, and the angels, and the Scripture, and the prophets. 
 
-But if you are prevented, then whatever is feasible of offerings.
+The sincere and pious are those who:
+- give money, though dear, to near relatives, orphans, the needy, homeless, beggars, and for the freeing of slaves
+- perform the prayers
+- pay the obligatory charity
+- fulfill their promise when they promise
+- patiently persevere in the face of persecution, hardship, and conflict. 
 
-Do not shave your heads until the offering has reached its destination. 
+178. Muslims,  Retaliation for the murdered is ordained upon you. 
 
-Whoever of you is sick, or has an injury of the head, then redemption of fasting, or charity, or worship. When you are se-
-cure: whoever continues the Umrah until the Hajj, then whatever is feasible of offering. 
+The free for the free, the slave for the slave, the female for the female. 
 
-But if he lacks the means, then fasting for 3 days during the Hajj and 7 when you have returned, making 10 in all. 
+But if he is forgiven by his kin, then grant any reasonable demand, and pay with good will. 
 
-This is for he whose household is not present at the Kabbah. 
+This is a concession from your Lord, and a mercy. 
 
-197. The Hajj is during specific months. 
+But whoever commits aggression after that, a painful torment awaits him.
 
-Whoever decides to perform the Hajj—there shall be no sexual relations, nor misconduct, nor quarrelling during the Hajj. 
+179. There is life for you in retaliation, O people of understanding, so that you may refrain.
 
-Take provisions. The best provision is righteousness.
+180. It is decreed for you: when death approaches one of you, and he leaves wealth, to
+make a testament in favor of the parents and the relatives, fairly and correctly—a duty upon the righteous.
 
-Be mindful of Me.
+181. But whoever changes it after he has heard it, the guilt is upon those who change it.
 
+182. Should someone suspect bias or injustice on the part of a testator, and then reconciles
+between them, he commits no sin. 
 
-198. You commit no error by seeking bounty from your Lord. 
+183. Muslims,  Fasting is prescribed for you, as it was prescribed for those before you, so that you may become righteous.
 
-When you disperse from Arafat, remember Allah at the Sacred Landmark. And remember Him as He has guided
-you. Although, before that, you were of those astray.
+184. For a specified number of days. 
 
-199. Then disperse from where the people disperse, and ask Allah for forgiveness.
+But whoever among you is sick, or on a journey, then a number of other days. 
 
-200. When you have completed your rites, remember Allah as you remember your parents, or even more. 
+For those who are able: a ransom of feeding a needy person. 
 
-Among the people is he who says, “Our Lord, give us in this world,”
-yet he has no share in the Hereafter.
+But whoever volunteers goodness, it is better for him. But to fast is best for you.
 
-201. And among them is he who says, “Our Lord, give us goodness in this world, and
-goodness in the Hereafter, and protect us from the torment of the Fire.”
+185. Ramadan is the month in which the Quran was revealed. 
 
-202. These will have a share of what they have earned. Allah is swift in reckoning.
+Guidance for humanity, and clear portents of guidance, and the Criterion. 
 
-203. Remember Allah during the designated days. But whoever hurries on in 2 days commits no wrong, and whoever stays
-on commits no wrong—provided he maintains righteousness. And obey Allah, and
-know that to Him you will be gathered.
+Whoever of you witnesses the month, shall fast it. But whoever is sick, or on a journey,
+then a number of other days. Allah desires ease for you, and does not desire hardship for you, that you may complete the number, and celebrate Allah for having guided you, so that you may be thankful.
 
-204. Among the people is he whose speech about the worldly life impresses you, and he
-calls Allah to witness what is in his heart, while he is the most hostile of adversaries.
+186. When My servants ask you about Me, I Am near; I answer the call of the caller when he calls on Me. So let them answer Me, and have faith in Me, that they may be rightly guided.
 
-205. When he gains power, he strives to spread corruption on earth, destroying properties and lives. Allah does not like corruption.
+187. Sex with your wives on the night of the fast is allowed. 
 
-206. And when he is told, “Beware of Allah,” his pride leads him to more sin. Hell is
-enough for him—a dreadful abode. 
+They are a garment for you, and you are a garment for them. 
 
-207. And among the people is he who sells himself seeking Allah’s approval. Allah is
-kind towards the servants.
+Allah knows that you used to betray yourselves, but He turned to you and pardoned you. 
+
+So approach them now, and seek what Allah has ordained for you, and eat and
+drink until the white streak of dawn can be
+distinguished from the black streak. 
+
+Then complete the fast until nightfall. 
+
+But do not approach them while you are in retreat at the mosques. 
+
+These are the limits of Allah, so do not come near them. Allah thus clarifies His
+revelations to the people, that they may attain piety.
+
+188. Do not consume one another’s wealth by unjust means, nor offer it as bribes to the officials in order to consume part of other
+people’s wealth illicitly, while you know. 
+
+189. They ask you about the crescents. Say, “They are timetables for people, and for the
+Hajj.” It is not virtuous that you approach homes from their backs, but virtue is to be pi-
+ous. 
+
+So approach homes from their doors, and observe Allah, that you may succeed.
+
 
 

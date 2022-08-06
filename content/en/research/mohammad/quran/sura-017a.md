@@ -1,6 +1,6 @@
 ---
 title: "THE NIGHT JOURNEY (al-Isra’)"
-heading: "Chapter 17a of the Quran Simplified"
+heading: "Sura 17a of the Quran Simplified"
 date: 2022-01-07
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

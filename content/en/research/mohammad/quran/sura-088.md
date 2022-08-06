@@ -1,7 +1,7 @@
 ---
 title: "The Overwhelming, The Dawn"
-heading: "Chapter 88-89 of the Quran Simplified"
-date: 2021-11-06
+heading: "Sura 88-89 of the Quran Simplified"
+date: 2021-09-24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -10,8 +10,6 @@ linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 
-
-## 88. The Overwhelming (al-Ghashiyah)
 
 {{< s v="1" >}} Have you heard of the news of the overwhelming?
 

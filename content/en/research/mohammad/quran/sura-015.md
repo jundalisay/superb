@@ -1,6 +1,6 @@
 ---
 title: "THE ROCK (al-Hijr)"
-heading: "Chapter 15a of the Quran Simplified"
+heading: "Sura 15a of the Quran Simplified"
 date: 2022-01-09
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

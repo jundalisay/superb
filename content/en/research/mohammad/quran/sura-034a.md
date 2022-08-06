@@ -1,6 +1,6 @@
 ---
 title: "SHEBA (Saba’)"
-heading: "Chapter 34 of the Quran Simplified"
+heading: "Sura 34 of the Quran Simplified"
 date: 2021-12-22
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

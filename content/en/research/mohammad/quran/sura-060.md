@@ -1,6 +1,6 @@
 ---
 title: "THE WOMAN TESTED (al-Mumtahina)"
-heading: "Chapter 60 of the Quran Simplified"
+heading: "Sura 60 of the Quran Simplified"
 date: 2021-11-28
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

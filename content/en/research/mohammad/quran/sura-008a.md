@@ -1,7 +1,7 @@
 ---
 title: "THE SPOILS (al-Anfal)"
-heading: "Chapter 8a of the Quran Simplified"
-date: 2022-01-15
+heading: "Sura 8a of the Quran Simplified"
+date: 2022-01-07
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -10,31 +10,37 @@ linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
 
-{{< s v="1" >}}  They ask you about the bounties. Say, “The bounties are for Allah and the Messenger.” So
-be mindful of Allah, and settle your differences, and obey Allah and His Messenger, if
-you are believers.
-{{< s v="2" >}}  The believers are those whose hearts tremble when Allah is mentioned, and when His
-revelations are recited to them, they strengthen them in faith, and upon their Lord
-they rely.
-{{< s v="3" >}}  Those who perform the prayer; and from 
+{{< s v="1" >}}  They ask you about the bounties. Reply: “The bounties are for Allah and the Messenger.” 
 
-Our provisions to them, they spend.
-{{< s v="4" >}}  These are the true believers. They have high standing with their Lord, and forgiveness, and a generous provision.{{< s v="5" >}}  Even as your Lord brought you out of yourhome with the truth, some believers were re-
-luctant.
+- So be mindful of Allah
+- settle your differences
+- obey Allah and His Messenger
 
-6. Arguing with you about the truth after it was made clear, as if they were being driven
-to death as they looked on.
+{{< s v="2" >}}  The believers are those:
+- whose hearts tremble when Allah is mentioned
+- who strengthen in faith when His revelations are recited to them
+- {{< s v="3" >}} who perform the prayer
+- spend from Our provisions to them.
 
-7. Allah has promised you one of the two
-groups—that it would be yours—but you
-wanted the unarmed group to be yours. Allah
-intends to prove the truth with His words,
-and to uproot the disbelievers.
-8. In order to confirm the truth and nullify
-falsehood, even though the guilty dislike it.{{< s v="9" >}}  When you appealed to your Lord for help,
-He answered you, “I am reinforcing you with
-one thousand angels in succession.”{{< s v="10" >}}  Allah only made it a message of hope, and
-to set your hearts at rest. Victory comes only
+{{< s v="4" >}}  These are the true believers. They have:
+- high standing with their Lord
+- forgiveness
+- a generous provision.
+
+{{< s v="5" >}}  Even as your Lord brought you out of yourhome with the truth, some believers were reluctant.
+
+6. Arguing with you about the truth after it was made clear, as if they were being driven to death as they looked on.
+
+7. Allah has promised you one of the 2 groups—that it would be yours—
+
+But you wanted the unarmed group to be yours. 
+
+<!-- Allah intends to prove the truth with His words,
+and to uproot the disbelievers. -->
+
+8. In order to confirm the truth and nullify falsehood, even though the guilty dislike it. {{< s v="9" >}}  When you appealed to your Lord for help, He answered you, “I am reinforcing you with one thousand angels in succession.”{{< s v="10" >}}  Allah only made it a message of hope, and to set your hearts at rest. 
+
+Victory comes only
 from Allah. Allah is Mighty and Wise.{{< s v="11" >}}  He made drowsiness overcome you, as a se-
 curity from Him. And He sent down upon
 

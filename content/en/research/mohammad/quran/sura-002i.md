@@ -1,120 +1,103 @@
 ---
-title: "Rules on Divorce and Widows"
-heading: "Chapter 2b of the Quran Simplified"
-date: 2022-01-28
+title: "Rules on Intoxicants, Menstruation, and Sex"
+heading: "Sura 2e of the Quran Simplified"
+date: 2022-01-23
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002h
-linkbtext: "sura-002h"
-linkf: /research/mohammad/quran/sura-002j
-linkftext: "sura-002j"
+linkb: /research/mohammad/quran/
+linkbtext: "Index"
+linkf: /research/mohammad/quran/
+linkftext: "Index"
 ---
 
 
-{{< s v="228">}} Divorced women shall wait by themselves for 3 periods. 
+208. Muslims, enter into submission wholeheartedly. 
 
-- It is unlawful for Muslim to conceal what Allah has created in their wombs. <!-- , if they believe in Allah and the Last Day. --> 
-- Their husbands have the better right to take them back, if they desire reconciliation. 
+Do not follow the footsteps of Satan.
 
-Wmen have rights similar to their obligations, according to what is fair.
-- But men have a degree over them. 
+209. But if you slip after the proofs have come to you, know that Allah is Powerful and Wise.
 
-{{< s v="229">}} Divorce is allowed twice. 
+210. Are they waiting for Allah Himself to come to them in the shadows of the clouds, together with the angels, and thus the matter is settled? 
 
-Then, either honorable retention, or setting free kindly. 
+211. Ask the Jews how many clear signs We have given them. Whoever alters the blessing of Allah after it has come to
+him—Allah is severe in retribution.
 
-It is not lawful for you to take back anything
-you have given them, unless they fear that
-they cannot maintain Allah's limits. If you
-fear that they cannot maintain Allah’s limits,
-then there is no blame on them if she sacri-
-fices something for her release. These are Allah’s limits, so do not transgress them. Those
-who transgress Allah’s limits are the unjust.
+212. Beautified is the life of this world for those who disbelieve, and they ridicule those who believe. But the righteous will be above them on the Day of Resurrection. Allah provides to whomever He wills without measure.
 
-{{< s v="230" >}} If he divorces her, she shall not be lawful for him again until she has married another
-husband. If the latter divorces her, then there is no blame on them for reuniting, provided
-they think they can maintain Allah's limits.
+213. Humanity used to be one community. 
+- Then Allah sent the prophets, the Scripture and the truth, bringing good news and giving warnings to judge between people regarding their differences. 
 
-<!-- These are Allah’s limits; He makes them clear
-to people who know. -->
+But none differed over it except those who were given it—after the proofs had come to them—out of mutual envy between them. 
 
-{{< s v="231">}} When you divorce women, and they have reached their term, either retain them amica-
-bly, or release them amicably. But do not retain them to hurt them and commit aggres-
-sion. Whoever does that has wronged himself. 
+Then Allah guided those who believed to the truth they had disputed, in accordance with His will. Allah guides whom He wills to a straight path.
 
-<!-- And do not take Allah’s revelations for a joke. 
-And remember Allah's favor to you, and that He revealed to you the Scripture and
-Wisdom to teach you. fear Allah, and
-know that Allah is aware of everything. -->
+214. Or do you expect to enter Paradise before the example of those who came before you had reached you? Adversity and hardship
+had afflicted them, and they were so shaken up, that the Messenger and those who believed with him said, “When is Allah’s victory?” Indeed, Allah’s victory is near.
 
-{{< s v="232">}} When you divorce women, and they have reached their term, do not prevent them from marrying their husbands, provided they agree on fair terms. Thereby is advised whoever among you believes in Allah and the Last
-Day. That is better and more decent for you.
+215. They ask you what they should give. Say, “Whatever charity you give is for the parents, and the relatives, and the orphans, and the
+poor, and the wayfarer. Whatever good you do, Allah is aware of it.
 
-{{< s v="233">}} Mothers may nurse their infants for two whole years, for those who desire to complete
-the nursing-period. It is the duty of the father
-to provide for them and clothe them in a
-proper manner. 
+{{< s v="216" >}} Fighting is ordained for you, even though you dislike it. 
+- You might dislike something while it is good for you.
+- You might like something while it is bad for you.
 
-No soul shall be burdenedbeyond its capacity. No mother shall be
-harmed on account of her child, and no father shall be harmed on account of his child.
-The same duty rests upon the heir. If the cou-
-ple desire weaning, by mutual consent and
-consultation, they commit no error by doing
-so. You commit no error by hiring nursing-
-mothers, as long as you pay them fairly. And
-be wary of Allah, and know that Allah is See-
-ing of what you do.
+217. They ask you about fighting during the Holy Month. Say, “Fighting during it is deplorable; but to bar others from Allah’s path,
+and to disbelieve in Him, and to prevent access to the Holy Mosque, and to expel its peo-
+ple from it, are more deplorable with Allah.
 
+Persecution is more serious than killing.
 
-{{< s v="234">}} As for those among you who die and leave widows behind, their widows shall wait by
-themselves for four months and ten days. 
+They will not cease to fight you until they turn you back from your religion, if they can.
+Whoever among you turns back from his religion, and dies a disbeliever—those are they whose works will come to nothing, in this life,
+and in the Hereafter. 
 
-When they have reached their term, there is no blame on you regarding what they might
-honorably do with themselves. Allah is fully acquainted with what you do.
+Those are the inmates of the Fire, abiding in it forever.
 
-{{< s v="235">}} You commit no error by announcing your engagement to women, or by keeping it to
-yourselves. Allah knows that you will be thinking about them. But do not meet them
-secretly, unless you have something proper to say. 
+218. Those who believed, and those who migrated and fought for the sake of Allah--those look forward to Allah’s mercy.
 
-Do not confirm the marriage tie until the writing is fulfilled. 
+## Intoxicants and gambling
 
-<!-- And know that Al-
-lah knows what is in your souls, so beware of Him. And know that Allah is Forgiving and
-Forbearing. -->
+219. Intoxicants and gambling creates:
+- gross sin
+- some benefits for people
+
+But their sinfulness outweighs their benefit.
+
+People should give the surplus.
 
 
-{{< s v="236" >}} It is alright to divorce women before having touched them, or before having set the dowry for them.
+220. About this world and the next. And they
+ask you about orphans. Say, “Improvement
+for them is best. And if you intermix with
+them, then they are your brethren.” 
 
-Compensate them—the wealthy according to his means, and the poor according to his means—with a
-fair compensation, a duty upon the doers of good.
+<!-- Allah knows the dishonest from the honest. Had
+Allah willed, He could have overburdened
+you. Allah is Mighty and Wise. -->
 
-{{< s v="237">}} If you divorce them before you have touched them, but after you had set the
-dowry for them, give them half of what you specified—unless they forego the right, or the
-one in whose hand is the marriage contract foregoes it. But to forego is nearer to piety.
+221. Do not marry idolatresses, unless they have believed. 
 
-Do not forget generosity between one another. <!-- Allah is seeing of everything you do. -->
+A believing maid is better than an idolatress, even if you like her. And do not
+marry idolaters, unless they have believed. 
 
-{{< s v="238" >}} Guard your prayers, and the middle prayer, and stand before Allah in devotion.
+A believing servant is better than an idolater, even if you like him. These call to the Fire, but
+Allah calls to the Garden and to forgiveness, by His leave. 
 
-239. But if you are in fear, then on foot, or riding. 
+He makes clear His communications to the people, that they may be mindful.
 
-And when you are safe, remember Allah, as He taught you what you did not know.
+222. Menstruation is harmful, so keep away from women during menstruation.
+- Do not approach them until they have become pure. 
+- Once they have become pure, approach them in the way Allah has directed you.
 
-240. Those of you who die and leave wives behind—a will shall provide their wives with
-support for a year, provided they do not leave. If they leave, you are not to blame for
-what they do with themselves, provided it is reasonable. 
+223. Your women are cultivation for you. 
+- So approach your cultivation whenever you like, and send ahead for yourselves. <!-- And fear Allah, and know that you will meet Him. And
+give good news to the believers. -->
 
-241. Divorced women shall be provided for, equitably—a duty upon the righteous.
-<!-- 242. Allah thus explains His revelations to you,
-so that you may understand.
- -->
-243. Have you not considered those who fled their homes, by the thousands, fearful of
-death? Allah said to them, “Die.” Then He revived them. Allah is Gracious towards the
-people, but most people are not appreciative.
+224. And do not allow your oaths in Allah's name to hinder you from virtue, and righteousness, and making peace between people.
 
+225. Allah does not hold you responsible for your unintentional oaths, but He holds you responsible for your intentions. Allah is Forgiving and Forbearing.
 
-<!-- 245. Who is he who will offer Allah a generous
-loan, so He will multiply it for him manifold?
-Allah receives and amplifies, and to Him you
-will be returned.
- -->
+226. Those who vow abstinence from their wives must wait for four months. But if they
+reconcile—Allah is Forgiving and Merciful.
+
+<!-- 227. And if they resolve to divorce—Allah is Hearing and Knowing. -->

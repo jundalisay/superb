@@ -1,11 +1,11 @@
 ---
 title: "Victory, Thorns, Monotheism, Daybreak, Mankind"
-heading: "Chapter 2a of the Quran Simplified"
-date: 2021-10-28
+heading: "Sura 2a of the Quran Simplified"
+date: 2021-09-16
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
+linkb: /research/mohammad/quran/sura-105
+linkbtext: "sura-105"
 linkf: /research/mohammad/quran/
 linkftext: "Index"
 ---
@@ -13,7 +13,7 @@ linkftext: "Index"
 
 ## 110. VICTORY (an-Nasr)
 
-{{< s v="1-3" >}} When the victory of AllŒh has come <!-- and the conquest -->, and you see the people entering into the religion of AllŒh in multitudes, then exalt Him with praise and ask forgiveness of Him. 
+{{< s v="1-3" >}} When the victory of Allah has come <!-- and the conquest -->, and you see the people entering into the religion of AllŒh in multitudes, then exalt Him with praise and ask forgiveness of Him. 
 
 <!-- Let
 them worship the Lord of this House.{{< s v="4" >}}  Who has fed them against hunger, and has

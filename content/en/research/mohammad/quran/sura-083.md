@@ -1,40 +1,43 @@
 ---
 title: "THE DEFRAUDERS (al-Mutaffifin)"
-heading: "Chapter 83a of the Quran Simplified"
-date: 2021-11-10
+heading: "Sura 83a of the Quran Simplified"
+date: 2021-09-28
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
+linkb: /research/mohammad/quran/sura-081
 linkbtext: "Index"
-linkf: /research/mohammad/quran/
+linkf: /research/mohammad/quran/sura-084
 linkftext: "Index"
 ---
 
 
-Woe to the defrauders. 
+{{< s v="1-3" >}}
+The defrauders are those who take a full measure from people. 
+- But when they measure or weigh to others, they cheat.
+- Woe to them!
 
-When they take a measure from people, they take in full.
-
-{{< s v="3" >}}  But when they measure or weigh to others, they cheat.{{< s v="4" >}}  Do these not know that they will be resurrected for a Great Day when mankind will stand before the Lord of the World?
-
-7. Not at all. The record of the wicked is in Sijjeen.
-
-8. But how can you know what Sijjeen, a numerical book, is?
+{{< s v="7" >}} The record of the wicked is in Sijjeen, a numerical book.
 
 When our Our revelations are recited to the sinful aggressor, he says, “Legends of the ancients.”
+- Their hearts have become corroded by what they used to earn.
 
-14. Their hearts have become corroded by what they used to earn.
-15. On that Day, they will be screened from their Lord and will roast in Hell.
-It will be said, “This is what you used to deny.”
-18. The record of the righteous is in Elliyyeen.
-19. But how can you know what Elliyyoon, a numerical book, is?
+{{< s v="15" >}} On that Day:
+- they will roast in Hell.
+- It will be said, “This is what you used to deny.”
+
+{{< s v="18" >}} The record of the righteous is in Elliyyeen, a numerical book.
+
+
 21. Witnessed by those brought near. the righteous will be amid bliss.
 23. On thrones, looking on.
+
 24. You will recognize on their faces the radiance of bliss.
 25. They will be given to drink a sealed wine.
 seal is musk—this is what compet-
 itors should compete for.
+
 27. Its mixture is of Tasneem.
+
 28. A spring from which those brought near drink.
 29. Those who committed crimes used to
 laugh at those who believed.

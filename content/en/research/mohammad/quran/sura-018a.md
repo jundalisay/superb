@@ -1,6 +1,6 @@
 ---
 title: "THE CAVE (al-Kahf)"
-heading: "Chapter 18a of the Quran Simplified"
+heading: "Sura 18a of the Quran Simplified"
 date: 2022-01-06
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

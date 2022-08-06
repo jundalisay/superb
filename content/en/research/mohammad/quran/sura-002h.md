@@ -1,7 +1,7 @@
 ---
-title: "Rules on Intoxicants, Menstruation, and Sex"
-heading: "Chapter 2e of the Quran Simplified"
-date: 2022-01-29
+title: "Rules on Food, Fasting, Gambling, and Revenge"
+heading: "Sura 2e of the Quran Simplified"
+date: 2022-01-24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -11,93 +11,90 @@ linkftext: "Index"
 ---
 
 
-208. Muslims, enter into submission wholeheartedly. 
+190. Fight in the cause of Allah those who fight you. 
+- But do not commit aggression.
+- Allah does not love the aggressors.
 
-Do not follow the footsteps of Satan.
+191. Kill them wherever you overtake them
+- Expel them from where they had expelled you. 
 
-209. But if you slip after the proofs have come to you, know that Allah is Powerful and Wise.
+Oppression is more serious than murder. 
+- But do not fight them at the Kabbah unless they fight you there. 
 
-210. Are they waiting for Allah Himself to come to them in the shadows of the clouds, together with the angels, and thus the matter is settled? 
+If they fight you, then kill them. <!-- Such is the retribution of the disbelievers. -->
 
-211. Ask the Jews how many clear signs We have given them. Whoever alters the blessing of Allah after it has come to
-him—Allah is severe in retribution.
+192. But if they cease, then Allah is Forgiving and Merciful.
 
-212. Beautified is the life of this world for those who disbelieve, and they ridicule those who believe. But the righteous will be above them on the Day of Resurrection. Allah provides to whomever He wills without measure.
+193. Fight them until there is no oppression, and worship becomes devoted to Allah alone. 
 
-213. Humanity used to be one community. 
-- Then Allah sent the prophets, the Scripture and the truth, bringing good news and giving warnings to judge between people regarding their differences. 
+But if they cease, then let there be no hostility except against the oppressors.
 
-But none differed over it except those who were given it—after the proofs had come to them—out of mutual envy between them. 
+194. The sacred month for the sacred month;
 
-Then Allah guided those who believed to the truth they had disputed, in accordance with His will. Allah guides whom He wills to a straight path.
+Sacrilege calls for retaliation. 
 
-214. Or do you expect to enter Paradise before the example of those who came before you had reached you? Adversity and hardship
-had afflicted them, and they were so shaken up, that the Messenger and those who believed with him said, “When is Allah’s victory?” Indeed, Allah’s victory is near.
+Whoever commits aggression against you, retaliate against him in the same measure as he has committed against you. 
 
-215. They ask you what they should give. Say, “Whatever charity you give is for the parents, and the relatives, and the orphans, and the
-poor, and the wayfarer. Whatever good you do, Allah is aware of it.
+<!-- Bbe conscious of
+Allah, and know that Allah is with the right-
+eous.
+ -->
+195. Spend in the cause of Allah. 
+- Do not throw yourselves with your own hands into ruin
+- Be charitable.
 
-{{< s v="216" >}} Fighting is ordained for you, even though you dislike it. 
-- You might dislike something while it is good for you.
-- You might like something while it is bad for you.
+196. Carry out the Hajj and the Umrah for Allah. 
 
-217. They ask you about fighting during the Holy Month. Say, “Fighting during it is deplorable; but to bar others from Allah’s path,
-and to disbelieve in Him, and to prevent access to the Holy Mosque, and to expel its peo-
-ple from it, are more deplorable with Allah.
+But if you are prevented, then whatever is feasible of offerings.
 
-Persecution is more serious than killing.
+Do not shave your heads until the offering has reached its destination. 
 
-They will not cease to fight you until they turn you back from your religion, if they can.
-Whoever among you turns back from his religion, and dies a disbeliever—those are they whose works will come to nothing, in this life,
-and in the Hereafter. 
+Whoever of you is sick, or has an injury of the head, then redemption of fasting, or charity, or worship. When you are se-
+cure: whoever continues the Umrah until the Hajj, then whatever is feasible of offering. 
 
-Those are the inmates of the Fire, abiding in it forever.
+But if he lacks the means, then fasting for 3 days during the Hajj and 7 when you have returned, making 10 in all. 
 
-218. Those who believed, and those who migrated and fought for the sake of Allah--those look forward to Allah’s mercy.
+This is for he whose household is not present at the Kabbah. 
 
-## Intoxicants and gambling
+197. The Hajj is during specific months. 
 
-219. Intoxicants and gambling creates:
-- gross sin
-- some benefits for people
+Whoever decides to perform the Hajj—there shall be no sexual relations, nor misconduct, nor quarrelling during the Hajj. 
 
-But their sinfulness outweighs their benefit.
+Take provisions. The best provision is righteousness.
 
-People should give the surplus.
+Be mindful of Me.
 
 
-220. About this world and the next. And they
-ask you about orphans. Say, “Improvement
-for them is best. And if you intermix with
-them, then they are your brethren.” 
+198. You commit no error by seeking bounty from your Lord. 
 
-<!-- Allah knows the dishonest from the honest. Had
-Allah willed, He could have overburdened
-you. Allah is Mighty and Wise. -->
+When you disperse from Arafat, remember Allah at the Sacred Landmark. And remember Him as He has guided
+you. Although, before that, you were of those astray.
 
-221. Do not marry idolatresses, unless they have believed. 
+199. Then disperse from where the people disperse, and ask Allah for forgiveness.
 
-A believing maid is better than an idolatress, even if you like her. And do not
-marry idolaters, unless they have believed. 
+200. When you have completed your rites, remember Allah as you remember your parents, or even more. 
 
-A believing servant is better than an idolater, even if you like him. These call to the Fire, but
-Allah calls to the Garden and to forgiveness, by His leave. 
+Among the people is he who says, “Our Lord, give us in this world,”
+yet he has no share in the Hereafter.
 
-He makes clear His communications to the people, that they may be mindful.
+201. And among them is he who says, “Our Lord, give us goodness in this world, and
+goodness in the Hereafter, and protect us from the torment of the Fire.”
 
-222. Menstruation is harmful, so keep away from women during menstruation.
-- Do not approach them until they have become pure. 
-- Once they have become pure, approach them in the way Allah has directed you.
+202. These will have a share of what they have earned. Allah is swift in reckoning.
 
-223. Your women are cultivation for you. 
-- So approach your cultivation whenever you like, and send ahead for yourselves. <!-- And fear Allah, and know that you will meet Him. And
-give good news to the believers. -->
+203. Remember Allah during the designated days. But whoever hurries on in 2 days commits no wrong, and whoever stays
+on commits no wrong—provided he maintains righteousness. And obey Allah, and
+know that to Him you will be gathered.
 
-224. And do not allow your oaths in Allah's name to hinder you from virtue, and righteousness, and making peace between people.
+204. Among the people is he whose speech about the worldly life impresses you, and he
+calls Allah to witness what is in his heart, while he is the most hostile of adversaries.
 
-225. Allah does not hold you responsible for your unintentional oaths, but He holds you responsible for your intentions. Allah is Forgiving and Forbearing.
+205. When he gains power, he strives to spread corruption on earth, destroying properties and lives. Allah does not like corruption.
 
-226. Those who vow abstinence from their wives must wait for four months. But if they
-reconcile—Allah is Forgiving and Merciful.
+206. And when he is told, “Beware of Allah,” his pride leads him to more sin. Hell is
+enough for him—a dreadful abode. 
 
-<!-- 227. And if they resolve to divorce—Allah is Hearing and Knowing. -->
+207. And among the people is he who sells himself seeking Allah’s approval. Allah is
+kind towards the servants.
+
+

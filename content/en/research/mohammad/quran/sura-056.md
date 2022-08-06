@@ -1,6 +1,6 @@
 ---
 title: "THE INEVITABLE (al-Waqi’ah)"
-heading: "Chapter 56a of the Quran Simplified"
+heading: "Sura 56a of the Quran Simplified"
 date: 2021-12-02
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

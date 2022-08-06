@@ -1,7 +1,7 @@
 ---
-title: "Rules on Food, Fasting, Gambling, and Revenge"
-heading: "Chapter 2e of the Quran Simplified"
-date: 2022-01-29
+title: "Rules for the Direction of Prayer (Qiblah)"
+heading: "Sura 2e of the Quran Simplified"
+date: 2022-01-26
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/
@@ -11,109 +11,98 @@ linkftext: "Index"
 ---
 
 
-168. O people! Eat of what is lawful and good on earth. Do not follow the footsteps of Satan, an open enemy. 169. He commands you to:
-- do evil and vice
-- say about Allah what you do not know.
+{{< s v="142">}} The ignorant will say, “What has turned them away from the direction of prayer [qiblah] they once followed?” 
 
-Satan's followers will say:  
-170. <!-- And when it is said to them, “Follow what Allah has revealed,” they say, --> “We follow what we found our ancestors following.” 
+<!-- Say, “To Allah belong the East and the West. He guides whom He wills to a straight path.” -->
 
-This is even if their ancestors understood nothing, and were not guided. 
+{{< s v="143">}} We made you a moderate community, so that:
+- you may be witnesses to humanity, and
+- the Messenger may be a witness to you. 
 
-171. The parable of those who disbelieve is that of someone who calls upon someone who
-hears nothing except screaming and yelling.
+We only established the direction of prayer, which you once followed so that We may distinguish those who follow the Messenger from those who turn on their heels. 
 
-Deaf, dumb, and blind—they do not understand.
+It is indeed difficult, except for those whom Allah has guided. But Allah would never let you lose your faith. 
 
-172-173. Muslims, <!--  Eat of the good things We have provided for you, and give thanks to
-Allah, if it is Him that you serve. --> Allah has forbidden you carrion, and blood, and the flesh of swine, and what was dedicated to other than Allah. But if anyone is compelled, without desiring or exceeding, he commits no sin.
+{{< s v="144" >}} Muhammad, We have seen your face turned towards the heaven. 
+- So We will turn you towards a direction that will satisfy you. 
+- So face towards the Kabah wherever you may be.
 
-174. Those who conceal what Allah revealed in the Book, and exchange it for a small price—
-those swallow nothing but fire into their bellies. And Allah will not speak to them on the
-Day of Resurrection, nor will He purify them,
-and they will have a painful punishment.
+145. The Jews and the Christians will not follow your prayer direction. 
+- Nor are you to follow their direction. 
+- Nor do they follow the direction of one another. 
 
-175. It is they who exchange guidance for error, and forgiveness for punishment. But why do
-they insist on the Fire?
+If you were to follow their desires, after knowing what you now know, you would be one of the wrongdoers.
 
-176. That is because Allah has revealed the Book in truth; and those who differ about the
-Book are in deep discord.
+<!-- 146. Those to whom We have given the Book recognize it as they recognize their own children. But some of them conceal the truth
+while they know. -->
 
-177. Righteousness does not consist of turning your faces towards the East and the West. 
+<!-- 147. The truth is from your Lord, so do not be a skeptic. -->
 
-But righteous is he who believes in Allah, and the Last Day, and the angels, and the Scripture, and the prophets. 
+148. Each religion has a prayer-direction which it turns towards. 
+- Therefore, race towards goodness. 
+- Wherever you may be, Allah will bring you all together.
 
-The sincere and pious are those who:
-- give money, though dear, to near relatives, orphans, the needy, homeless, beggars, and for the freeing of slaves
-- perform the prayers
-- pay the obligatory charity
-- fulfill their promise when they promise
-- patiently persevere in the face of persecution, hardship, and conflict. 
 
-178. Muslims,  Retaliation for the murdered is ordained upon you. 
+149-150. Wherever you come from, face towards the Kabbah:
+- when you go out to prayer. 
+- so that the people may not have any argument against you—except those who do wrong among them. 
 
-The free for the free, the slave for the slave, the female for the female. 
+So do not fear them, but fear Me, that I may complete My blessings on you and guide you.
 
-But if he is forgiven by his kin, then grant any reasonable demand, and pay with good will. 
+151. We sent to you a messenger from among you, who:
+- recites Our revelations to you
+- purifies you
+- teaches you the Book and wisdom. 
 
-This is a concession from your Lord, and a mercy. 
+152. So remember Me, and I will remember you. And thank Me, and do not be ungrateful.
 
-But whoever commits aggression after that, a painful torment awaits him.
+153. Seek help through patience and prayers.
 
-179. There is life for you in retaliation, O people of understanding, so that you may refrain.
+154. Do not call those who are killed in the cause of Allah as “Dead”.  They are alive, but are not perceiveable.
 
-180. It is decreed for you: when death approaches one of you, and he leaves wealth, to
-make a testament in favor of the parents and the relatives, fairly and correctly—a duty upon the righteous.
+155. We will certainly test you with:
+- some fear and hunger
+- some loss of possessions, lives, and crops. 
 
-181. But whoever changes it after he has heard it, the guilt is upon those who change it.
+But give good news to the steadfast.
 
-182. Should someone suspect bias or injustice on the part of a testator, and then reconciles
-between them, he commits no sin. 
 
-183. Muslims,  Fasting is prescribed for you, as it was prescribed for those before you, so that you may become righteous.
+156-157. The people who will receive blessings and mercy from their Lord are those who say durng a calamity: “To Allah we belong, and to Him we will return”.
 
-184. For a specified number of days. 
+158. Safa and Marwa are among the places designated for the rites of úajj and Ôumrah by Allah.
 
-But whoever among you is sick, or on a journey, then a number of other days. 
+Whoever makes the Pilgrimage to the House, or performs the Umrah, commits no error by circulating between them. 
 
-For those who are able: a ransom of feeding a needy person. 
+<!-- Whoever volunteers good—Allah is Appreciative and
+Cognizant. -->
 
-But whoever volunteers goodness, it is better for him. But to fast is best for you.
+159. Allah curses those who suppress the proofs and the guidance that We have revealed. 
 
-185. Ramadan is the month in which the Quran was revealed. 
+<!-- 160. Except those who repent, and reform, and proclaim. Those—I will accept their repentance.  -->
 
-Guidance for humanity, and clear portents of guidance, and the Criterion. 
+<!-- 161. But as for those who reject faith, and die rejecting—those—upon them is the curse of
+Allah, and of the angels, and of all humanity.
 
-Whoever of you witnesses the month, shall fast it. But whoever is sick, or on a journey,
-then a number of other days. Allah desires ease for you, and does not desire hardship for you, that you may complete the number, and celebrate Allah for having guided you, so that you may be thankful.
+162. They will remain under it forever, and the torment will not be lightened for them, and
+they will not be reprieved. -->
 
-186. When My servants ask you about Me, I Am near; I answer the call of the caller when he calls on Me. So let them answer Me, and have faith in Me, that they may be rightly guided.
+<!-- 163. Your God is one God. There is no god but
+He, the Benevolent, the Compassionate. -->
 
-187. Sex with your wives on the night of the fast is allowed. 
+164. For people who understand, there are signs in: 
+- the creation of the heavens and the earth
+- the alternation of night and day
+- the ships that sail the oceans for the benefit of mankind
+- the water that Allah sends down from the sky and revives the earth with it after it had died, and scatters in it all kinds of creatures
+- the changing of the winds
+- the clouds disposed between the sky and the earth.
 
-They are a garment for you, and you are a garment for them. 
+165. Some people have humans equal to Allah. 
+- They love them as they love Allah. 
+- But those who believe have greater love for Allah.
 
-Allah knows that you used to betray yourselves, but He turned to you and pardoned you. 
+Those wrongdoers would realize that all power is Allah’s 
 
-So approach them now, and seek what Allah has ordained for you, and eat and
-drink until the white streak of dawn can be
-distinguished from the black streak. 
-
-Then complete the fast until nightfall. 
-
-But do not approach them while you are in retreat at the mosques. 
-
-These are the limits of Allah, so do not come near them. Allah thus clarifies His
-revelations to the people, that they may attain piety.
-
-188. Do not consume one another’s wealth by unjust means, nor offer it as bribes to the officials in order to consume part of other
-people’s wealth illicitly, while you know. 
-
-189. They ask you about the crescents. Say, “They are timetables for people, and for the
-Hajj.” It is not virtuous that you approach homes from their backs, but virtue is to be pi-
-ous. 
-
-So approach homes from their doors, and observe Allah, that you may succeed.
-
+166. They will then disown their followers who will say: “If only we can have another chance, we will disown them, as they disowned us.” 
 
 

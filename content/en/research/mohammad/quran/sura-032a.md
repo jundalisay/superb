@@ -1,6 +1,6 @@
 ---
 title: "PROSTRATION (as-Sajdah)"
-heading: "Chapter 32a of the Quran Simplified"
+heading: "Sura 32a of the Quran Simplified"
 date: 2021-12-24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

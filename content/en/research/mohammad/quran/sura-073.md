@@ -1,6 +1,6 @@
 ---
 title: "THE ENWRAPPED (al-Muzzammil)"
-heading: "Chapter 73a of the Quran Simplified"
+heading: "Sura 73a of the Quran Simplified"
 date: 2021-11-17
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

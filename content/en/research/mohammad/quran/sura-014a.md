@@ -1,6 +1,6 @@
 ---
 title: "ABRAHAM (Ibrahim)"
-heading: "Chapter 14a of the Quran Simplified"
+heading: "Sura 14a of the Quran Simplified"
 date: 2022-01-10
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

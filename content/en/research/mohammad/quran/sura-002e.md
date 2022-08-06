@@ -1,108 +1,107 @@
 ---
-title: "Rules for the Direction of Prayer"
-heading: "Chapter 2e of the Quran Simplified"
-date: 2022-01-29
+title: "Abraham's Submission to the Lord"
+heading: "Sura 2d of the Quran Simplified"
+date: 2022-01-27
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-002d
+linkbtext: "Sura 2d"
+linkf: /research/mohammad/quran/sura-002f
+linkftext: "Sura 2f"
 ---
 
 
-{{< s v="142">}} The ignorant will say, “What has turned them away from the direction of prayer [qiblah] they once followed?” 
+{{< s v="124-12" >}} After the Lord tested Abraham, He said:
 
-<!-- Say, “To Allah belong the East and the West. He guides whom He wills to a straight path.” -->
+{{< l a="Allah" >}}
+I am making you a leader of humanity.
+{{< /l >}}
 
-{{< s v="143">}} We made you a moderate community, so that:
-- you may be witnesses to humanity, and
-- the Messenger may be a witness to you. 
+{{< r a="Abraham" >}}
+What about my descendants?
+{{< /r >}}
 
-We only established the direction of prayer, which you once followed so that We may distinguish those who follow the Messenger from those who turn on their heels. 
+{{< l a="Allah" >}}
+My pledge does not include the wrongdoers.
 
-It is indeed difficult, except for those whom Allah has guided. But Allah would never let you lose your faith. 
+We made the Kabah a focal point and sanctuary for the people. Use the shrine of Abraham as a place of prayer.
 
-{{< s v="144" >}} Muhammad, We have seen your face turned towards the heaven. 
-- So We will turn you towards a direction that will satisfy you. 
-- So face towards the Kabah wherever you may be.
+We commissioned Abraham and Ishmael to sanctify My House for those who:
+- circle around it
+- seclude themselves in it, and
+- kneel and prostrate.”
+{{< /l >}}
 
-145. The Jews and the Christians will not follow your prayer direction. 
-- Nor are you to follow their direction. 
-- Nor do they follow the direction of one another. 
+<!-- 126 -->
+{{< r a="Abraham" >}}
+O My Lord, make this a peaceful land, and provide its people with fruits—whoever of them believes in Allah and the Last Day.” 
+{{< /r >}}
 
-If you were to follow their desires, after knowing what you now know, you would be one of the wrongdoers.
+{{< l a="Allah" >}}
+Whoever disbelieves, I will give him a little enjoyment, then I will consign him to the the Fire
+{{< /l >}}
 
-<!-- 146. Those to whom We have given the Book recognize it as they recognize their own children. But some of them conceal the truth
-while they know. -->
+{{< s v="127" >}} Abraham raised the foundations of the House, together with Ishmael.
 
-<!-- 147. The truth is from your Lord, so do not be a skeptic. -->
+{{< r a="Abraham" >}}
+Lord, accept it from us.
+- Make us submissive to You.
+- Fom our descendants, make a [Muslim] nation submissive to You.
+- Show us our rites
+- Accept our repentance. 
+- 129 Raise up among them a messenger who will:
+  - recite to them Your revelations
+  - teach them the Book and wisdom
+  - purify them. 
+{{< /r >}}
 
-148. Each religion has a prayer-direction which it turns towards. 
-- Therefore, race towards goodness. 
-- Wherever you may be, Allah will bring you all together.
+{{< s v="130-131" >}} Only fools would forsake the religion of Abraham. We chose him in this world, and in the Hereafter he will be among the righteous.
 
+{{< l a="Allah" >}}
+Abraham, Submit!
+{{< /l >}}
 
-149-150. Wherever you come from, face towards the Kabbah:
-- when you go out to prayer. 
-- so that the people may not have any argument against you—except those who do wrong among them. 
+{{< r a="Abraham" >}}
+I have submitted to the Lord of the Worlds. O my sons, <!-- and to Jacob --> Allah has chosen this religion for you, so do not die unless you have submitted.
+{{< /r >}}
 
-So do not fear them, but fear Me, that I may complete My blessings on you and guide you.
+{{< s v="133" >}} When death approached Jacob, he said to his sons:
 
-151. We sent to you a messenger from among you, who:
-- recites Our revelations to you
-- purifies you
-- teaches you the Book and wisdom. 
+{{< l a="Jacob" >}}
+What will you worship after Me?
+{{< /l >}}
 
-152. So remember Me, and I will remember you. And thank Me, and do not be ungrateful.
+{{< r a="Sons" >}}
+We will worship your God, and the God of your fathers, Abraham, Ishmael, and Isaac; One God; and to Him we submit.
+{{< /r >}}
 
-153. Seek help through patience and prayers.
+{{< s v="134" >}} That was how the nation was formed. They have earned what they have earned, just as you will earn what you will earn. You will not be
+questioned about what they used to do.
 
-154. Do not call those who are killed in the cause of Allah as “Dead”.  They are alive, but are not perceiveable.
+{{< s v="135" >}} The Jews and Christians say: “Be Jews or Christians, and you will be guided.” 
 
-155. We will certainly test you with:
-- some fear and hunger
-- some loss of possessions, lives, and crops. 
+Reply: 
+- We follow the religion of Abraham, the Monotheist. He was not an idolater.
+- {{< s v="136" >}} We believe in:
+  - Allah and in what was revealed to us and to Abraham, Ishmael, Isaac, Jacob, and the Patriarchs
+  - what was given to Moses and Jesus
+  - what was given to the prophets—from their Lord. 
+- We make no distinction between any of them, and to Him we surrender.
 
-But give good news to the steadfast.
+{{< s v="137-138" >}} If they believe in the same as you have believed in, then they have been guided. 
+- But if they turn away, then they are in schism. 
+- Allah will protect you against them.
 
+<!-- 138. Allah’s coloring. And who gives better coloring than Allah? “And we are devoted to Him.” -->
 
-156-157. The people who will receive blessings and mercy from their Lord are those who say durng a calamity: “To Allah we belong, and to Him we will return”.
+{{< s v="139" >}} Reply to them:
+- Do you argue with us about Allah? 
+- Or do you say that Abraham, Ishmael, Isaac, Jacob, and the Patriarchs were Jews or Christians?
+<!-- , when He is our Lord and your Lord, and We
+have our works, and you have your works, and we are sincere to Him?” -->
+- Do you know better than Allah?
+- Anyone who conceals a testimony from Allah does more wrong.
 
-158. Safa and Marwa are among the places designated for the rites of úajj and Ôumrah by Allah.
-
-Whoever makes the Pilgrimage to the House, or performs the Umrah, commits no error by circulating between them. 
-
-<!-- Whoever volunteers good—Allah is Appreciative and
-Cognizant. -->
-
-159. Allah curses those who suppress the proofs and the guidance that We have revealed. 
-
-<!-- 160. Except those who repent, and reform, and proclaim. Those—I will accept their repentance.  -->
-
-<!-- 161. But as for those who reject faith, and die rejecting—those—upon them is the curse of
-Allah, and of the angels, and of all humanity.
-
-162. They will remain under it forever, and the torment will not be lightened for them, and
-they will not be reprieved. -->
-
-<!-- 163. Your God is one God. There is no god but
-He, the Benevolent, the Compassionate. -->
-
-164. For people who understand, there are signs in: 
-- the creation of the heavens and the earth
-- the alternation of night and day
-- the ships that sail the oceans for the benefit of mankind
-- the water that Allah sends down from the sky and revives the earth with it after it had died, and scatters in it all kinds of creatures
-- the changing of the winds
-- the clouds disposed between the sky and the earth.
-
-165. Some people have humans equal to Allah. 
-- They love them as they love Allah. 
-- But those who believe have greater love for Allah.
-
-Those wrongdoers would realize that all power is Allah’s 
-
-166. They will then disown their followers who will say: “If only we can have another chance, we will disown them, as they disowned us.” 
-
-
+<!-- 141. That was a community that has passed. To them is what they have earned, and to you is
+what you have earned. And you will not be questioned about what they used to do.
+ -->

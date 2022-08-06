@@ -1,6 +1,6 @@
 ---
 title: "THE REALITY (al-Haqqah)"
-heading: "Chapter 69 of the Quran Simplified"
+heading: "Sura 69 of the Quran Simplified"
 date: 2021-11-21
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
@@ -24,87 +24,62 @@ the people tossed around, as though they were stumps of hollow palm-trees.
 {{< s v="9" >}}  Then Pharaoh came, and those before him, and the Overturned Cities steeped in sin. 
 
 {{< s v="10" >}} They disobeyed the messenger of their Lord, so He seized them with an overpowering grip.
-{{< s v="11" >}}  When the waters overflowed, We carried you in the cruising ship.
-12. To make it a lesson for you—so that retaining ears may retain it.
-13. Then, when the Trumpet is sounded a single time.
+{{< s v="11-12" >}}  When the waters overflowed, We carried you in the cruising ship to remind you and make you remember it.
 
-14. And the earth and the mountains are lifted up, and crushed, with a single crush.
-15. On that Day, the Event will come to pass.
+{{< s v="13-17" >}}
+The Event will happen when:
+- the Trumpet is sounded a single time.
+- the earth and the mountains are lifted up, and crushed with a single crush.
+- the heaven will crack so on that Day it will be frail.
+- the angels will be ranged around its borders, while 8 will be carrying the Throne of your Lord above them that Day. 
 
-{{< s v="16" >}}And the heaven will crack; so on that Day it will be frail.
-17. And the angels will be ranged around its borders, while eight will be carrying the
-Throne of your Lord above them that Day. 
+{{< s v="18-20" >}} On that Day you will be exposed, and no secret of yours will remain hidden. 
+- Those who believe will be given his record in their right hand and say: "Here, read my record! I was certain that I would be meeting my account."
+  - {{< s v="21-24" >}} They will be in a pleasant life in an elevated garden, with low-hanging fruits. 
+  - They will be told: Eat and drink in satisfaction for what you put done in the past.
 
-18. On that Day you will be exposed, and no secret of yours will remain hidden. knew I would be held accountable.”
+{{< s v="25-" >}} But as for him who is given his book in his left hand, he will say:
 
-21. So he will be in pleasant living.
-22. In a lofty Garden.
-23. Its pickings are within reach. and drink merrily for what you did in
-the days gone by.”
+{{< r a="Sinner" >}}
+I wish I was never given my book. And never knew what my account was.
 
-25. But as for him who is given his book in his left hand, he will say, “I wish I was never
-given my book.
+I wish that there were no eternity. 
 
-24. “Eat
-26. And
-27. If
-never knew what my account was.
-only it was the end.
-28. My money cannot avail me.
-29. My power has vanished from me.”
-30. “Take
-him and shackle him.
-31. Then
-scorch him in the Blaze.
-in a chain which length is seventy cu-
-bits tie him up.
-33. For he would not believe in Allah the
-Great.
-34. Nor would he advocate the feeding of the
-destitute.
-32. Then
-35. So
-he has no friend here today.
-36. And
-no food except scum.
-37. Which
-only the sinners eat.”
-38. Indeed,
-39. And
-40. It
-I swear by what you see.
-by what you do not see.
-is the speech of a noble messenger.
-it is not the speech of a poet—little do
-you believe.
-42. Nor is it the speech of a soothsayer—little
-do you take heed.
-43. It is a revelation from the Lord of the
-Worlds.
-44. Had he falsely attributed some statements
-to Us.
-45. We would have seized him by the right
-arm.
-41. And
+My money and worldly power are gone. 
+{{< /r >}}
 
-46. Then
-It invites him who once turned his back
+{{< l a="Allah" >}}
+Take him and shackle him. Then burn him in the Blaze. Then tie him up in a chain 70 cubits long. 
+{{< /l >}}
+
+He did not:
+- believe in Allah.
+- feed the poor.
+
+He does not have any friend here today.
+- His food is the pus from his wounds. This is the food for sinners. 
+
+
+{{< s v="40-52" >}} The Quran is the speech of a noble messenger, not of a poet or a soothsayer. 
+- It is a revelation from the Lord of the Worlds.
+- If the Prophet Muhammad had made up some false statements about Us, We would have cut his from the aorta causing immediate death. 
+- The Quran is a reminder for the righteous.  
+
+<!-- It invites him who once turned his back
 and fled.
 slashed his lifeline.
-47. And none of you could have restrained Us
-from him. 17. 18. And accumulated and hoarded.
+47. And none of you could have restrained Us from him. 17. 18. And accumulated and hoarded.
 48. Surely, 19. Man was created restless.
 49. And 20. Touched by adversity, he is fretful.
 21. Touched by good, he is ungenerous.
 it is a message for the righteous.
 We know that some of you will reject
 it.
-50. And
-it is surely a source of grief for the un-
-believers.
-51. Yet
+50. And it is surely a source of grief for the un-
+believers. -->
+<!-- 51. Yet
 it is the absolute truth.
 52. So glorify the name of your Lord, the Mag-
 nificent.
-
+ -->
 

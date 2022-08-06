@@ -1,6 +1,6 @@
 ---
 title: "THE PROPHETS (al-Anbiya)"
-heading: "Chapter 21a of the Quran Simplified"
+heading: "Sura 21a of the Quran Simplified"
 date: 2022-01-03
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

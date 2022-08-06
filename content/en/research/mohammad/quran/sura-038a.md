@@ -1,6 +1,6 @@
 ---
 title: "SAAD (Saad)"
-heading: "Chapter 38a of the Quran Simplified"
+heading: "Sura 38a of the Quran Simplified"
 date: 2021-12-20
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."

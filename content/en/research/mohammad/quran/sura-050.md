@@ -1,6 +1,6 @@
 ---
 title: "QAF (Qaf)"
-heading: "Chapter 50a of the Quran Simplified"
+heading: "Sura 50a of the Quran Simplified"
 date: 2021-12-08
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
@@ -11,12 +11,7 @@ linkftext: "Index"
 ---
 
 
-{{< s v="1" >}}  Qaf. 
-
-By the Glorious Quran.
-
-They marveled that a warner has come to
-them from among them. The disbelievers say,
+{{< s v="1" >}} They marveled that a warner has come to them from among them. The disbelievers say,
 “This is something strange.
 
 {{< s v="3" >}}  When we have died and become dust? This is a farfetched return.”{{< s v="4" >}}  We know what the earth consumes of them, and with Us is a comprehensive book.{{< s v="5" >}}  But they denied the truth when it has come to them, so they are in a confused state.

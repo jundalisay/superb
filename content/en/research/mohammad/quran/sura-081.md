@@ -1,7 +1,7 @@
 ---
 title: "THE ROLLING (at-Takwir)"
-heading: "Chapter 81a of the Quran Simplified"
-date: 2021-11-11
+heading: "Sura 81a of the Quran Simplified"
+date: 2021-09-29
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/

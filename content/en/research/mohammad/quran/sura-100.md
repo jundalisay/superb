@@ -1,7 +1,7 @@
 ---
 title: "The Racers, Shocker"
-heading: "Chapter 2a of the Quran Simplified"
-date: 2021-10-30
+heading: "Sura 2a of the Quran Simplified"
+date: 2021-09-18
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 linkb: /research/mohammad/quran/

@@ -1,6 +1,6 @@
 ---
 title: "THE BEE (an-Nahl)"
-heading: "Chapter 16a of the Quran Simplified"
+heading: "Sura 16a of the Quran Simplified"
 date: 2022-01-08
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

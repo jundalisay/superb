@@ -1,6 +1,6 @@
 ---
 title: "TA-HA (Ta-Ha)"
-heading: "Chapter 20a of the Quran Simplified"
+heading: "Sura 20a of the Quran Simplified"
 date: 2022-01-04
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

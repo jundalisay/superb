@@ -1,6 +1,6 @@
 ---
 title: "DECORATIONS (az-Zukhruf)"
-heading: "Chapter 43a of the Quran Simplified"
+heading: "Sura 43a of the Quran Simplified"
 date: 2021-12-15
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

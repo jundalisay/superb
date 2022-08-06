@@ -1,6 +1,6 @@
 ---
 title: "THE BELIEVERS (al-Mu’minun)"
-heading: "Chapter 23 of the Quran Simplified"
+heading: "Sura 23 of the Quran Simplified"
 date: 2022-01-01
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

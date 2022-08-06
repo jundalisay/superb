@@ -1,6 +1,6 @@
 ---
 title: "THE PILGRIMAGE (al-Hajj)"
-heading: "Chapter 22 of the Quran Simplified"
+heading: "Sura 22 of the Quran Simplified"
 date: 2022-01-02
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."

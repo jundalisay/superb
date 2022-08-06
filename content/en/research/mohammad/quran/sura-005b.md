@@ -1,7 +1,7 @@
 ---
 title: "The Christians"
-heading: "Chapter 5b of the Quran Simplified"
-date: 2022-01-18
+heading: "Sura 5b of the Quran Simplified"
+date: 2022-01-10
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
 linkb: /research/mohammad/quran/

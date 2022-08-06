@@ -1,6 +1,6 @@
 ---
 title: "THE SNATCHERS (an-Nazi’at)"
-heading: "Chapter 79 of the Quran Simplified"
+heading: "Sura 79 of the Quran Simplified"
 date: 2021-11-12
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
@@ -11,14 +11,18 @@ linkftext: "Index"
 ---
 
 
-{{< s v="1-">}} By:
+{{< s v="1-">}} On the Day, the blast of the Horn will convulse creation
+
+
+By:
 - those [angels] who extract with violence
 - 
 2. And [by] those who remove with ease 1706
 3. And [by] those who glide [as if] swimming 1707
 4. And those who race each other in a race 1708
 5. And those who arrange [each] matter, 1709
-6. On the Day the blast [of the Horn] will convulse [creation],
+
+6. ,
 7. There will follow it the subsequent [one].
 8. Hearts, 1710 that Day, will tremble,
 9. Their eyes 1711 humbled.
@@ -30,6 +34,7 @@ linkftext: "Index"
 14. And suddenly they will be [alert] upon the earth's surface.
 15. Has there reached you the story of Moses? –
 16. When his Lord called to him in the sacred valley of $uwŒ,
+
 1704 An-NŒziÔŒt: The Extractors.
 1705i.e., those who tear out the souls of those destined for Hell.
 1706i.e., those angels who ease out the souls of those destined for Paradise.
@@ -71,19 +76,19 @@ AllŒh] constructed it.
 of the people and denial of Moses.
 1717i.e., created the day from within the surrounding darkness.
 1718i.e., the Day of Resurrection.
-615S´rah 79 – an-NŒziÔŒt
-JuzÕ 30
-37. So as for he who transgressed
-38. And preferred the life of the world,
-39. Then indeed, Hellfire will be [his] refuge.
+
+
+37. Those who transgressed and preferred the life of the world, Hellfire will be his refuge.
+
 40. But as for he who feared the position of his Lord 1719 and
 prevented the soul from [unlawful] inclination,
 41. Then indeed, Paradise will be [his] refuge.
-42. They ask you, [O Muúammad], about the Hour: when is its
-arrival? 1720
-43. In what [position] are you that you should mention it? 1721
-44. To your Lord is its finality. 1722
-45. You are only a warner for those who fear it.
-46. It will be, on the Day they see it, 1723 as though they had not
+
+42. They ask you: "O Muúammad when is the Hour of its arrival?" 
+
+You do not know it because only Allah knows. 
+- You are only a warner for those who fear it.
+
+<!-- 46. It will be, on the Day they see it, 1723 as though they had not
 remained [in the world] except for an afternoon or a morning
-thereof.
+thereof. -->
