@@ -86,15 +86,21 @@ The world’s resources of non-renewable fuels—coal, oil, and natural gas are:
 Their exploitation at an ever-increasing rate is an act of violence against nature which must almost inevitably lead to violence between men.
 
 
-Buddhist Economics Should be Implemented Instead of Modern Economics
+## Buddhist Economics Should be Implemented Instead of Modern Economics
 
-This fact alone might give food for thought even to those people in Buddhist countries who care nothing for the religious and spiritual values of their heritage and ardently desire to embrace the materialism of modern economics at the fastest possible speed.
+This fact alone might give food for thought even to those people in Buddhist countries who:
+- care nothing for the religious and spiritual values of their heritage
+- ardently desire to embrace the materialism of modern economics most quickly
 
 Before they dismiss Buddhist economics as nothing better than a nostalgic dream, they might wish to consider whether the path of economic development outlined by modern economics will lead them to places where they really want to be.
 
-Towards the end of his courageous bookThe Challenge of Man’s Future, Professor Harrison Brown of the California Institute of Technology gives the following appraisal. Industrial society is fundamentally unstable and subject to reversion to agrarian existence.
+Towards the end of his courageous book *The Challenge of Man’s Future*, Professor Harrison Brown of the California Institute of Technology concludes that Industrial society is:
+- fundamentally unstable
+- subject to reversion to agrarian existence
 
-So within it, the conditions which offer individual freedom cannot avoid the conditions which impose rigid organization and totalitarian control. When we examine all the difficulties which threaten the survival of industrial civilization, it is difficult to see how the achievement of stability and the maintenance of individual liberty can be made compatible.
+So within it, the conditions which offer individual freedom cannot avoid the conditions which impose rigid organization and totalitarian control. 
+
+When we examine all the difficulties which threaten the survival of industrial civilization, it is difficult to see how the achievement of stability and the maintenance of individual liberty can be made compatible.
 
 Even if this were dismissed as a long-term view, there is the immediate question of whether “modernization,” as currently practiced without regard to religious and spiritual values, is actually producing agreeable results.
 

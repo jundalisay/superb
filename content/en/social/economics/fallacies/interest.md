@@ -120,7 +120,7 @@ Rather than bash speculation and profit maximization, Keynes overthrows Classica
 - universal basic income and conditional cash transfers like Bolsa Familia which do not translate to economic growth 
 
 
-{{< img src="/ocost.jpg" alt="Cost" cap="Japan spent a lot for its 2020 Olympics to the satisfaction of its banks and corporations, and the oppression of its people who have to pay for it with higher sales taxes" >}}
+{{< img src="/graphics/econ/ocost.jpg" alt="Cost" cap="Japan spent a lot for its 2020 Olympics to the satisfaction of its banks and corporations, and the oppression of its people who have to pay for it with higher sales taxes" >}}
 
 <!-- Rather, the important thing was prices, which then led to the revenue as rent, wages, and profits*. 
 

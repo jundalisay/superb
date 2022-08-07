@@ -15,7 +15,8 @@ linkftext: "Sura 3a"
 - Each spike has 100 grains. 
 - Allah multiplies for whom He wills.
 
-{{< s v="262">}} Those who spend their wealth without following up what they spent with reminders of their generosity or with insults, will have their reward with their Lord. They have nothing to fear, nor shall they grieve.
+{{< s v="262">}} Those who spend their wealth without following up what they spent with reminders of their generosity or with insults, will have their reward with their Lord. 
+<!-- - They have nothing to fear, nor shall they grieve. -->
 
 {{< s v="263">}} Kind words and forgiveness are better than charity followed by insults. 
 
@@ -46,21 +47,23 @@ Do not pick the inferior things to give away, when you yourselves would not acce
 
 Allah:
 - promises you forgiveness from Himself, and grace. 
-- 269. gives wisdom to whomever He wills. 
-
+<!-- - 269. gives wisdom to whomever He wills.  -->
 <!-- Whoever is given wisdom has been given much good. But none pays heed except those with insight. -->
+- {{< s v="270" >}} knows whatever charity you give, or a pledge you fulfill. The wrongdoers have no helpers.
 
-270. Allah knows whatever charity you give, or a pledge you fulfill. The wrongdoers have no helpers.
 
-271. If you give charity openly, that is good. 
+{{< s v="271" >}} It is good to give charity openly.
+- But it is better if you give it to the needy in private, keeping it secret. 
+  - It will atone for some of your misdeeds.
 
-But if you keep it secret, and give it to the needy in private, that is better for you. 
+{{< s v="272" >}} The guidance of the poor is not your responsibility, because Allah guides whom He wills. 
 
-It will atone for some of your misdeeds.
+Any charity you give is:
+- for the sake of Allah
+  - for your own good
 
-272. Their guidance is not your responsibility, because Allah guides whom He wills. 
+Any charity you give will be repaid to you in full, and you will not be wronged.
 
-Any charity you give is for your own good. Any charity you give shall be for the sake of Allah. Any charity you give will be repaid to you in full, and you will not be wronged.
 
 273. It is for the poor; those who are restrained in the way of Allah, and unable to travel in
 the land. The unaware would think them rich, due to their dignity. You will recognize
@@ -74,7 +77,7 @@ them by their features. They do not ask from people insistently.
 That is because they say, “Commerce is like usury.” But Allah has permitted commerce, and has forbidden usury. Whoever, on receiving advice from his Lord, refrains, may keep his past earnings, and his case rests with Allah. But whoever resumes—these are the dwellers of the Fire, wherein they will abide
 forever.
 
-276. Allah condemns usury, and He blesses charities. Allah does not love any sinful ingrate.
+276. Allah condemns usury and blesses charities. <!-- Allah does not love any sinful ingrate. -->
 
 277. Those who believe, and do good deeds, and pray regularly, and give charity—they
 will have their reward with their Lord; they will have no fear, nor shall they grieve.

@@ -71,11 +71,6 @@
 
 
 
-
-
-
-
-
 {{ template "_internal/twitter_cards.html" $page }}
 <!-- social cards end -->
 
@@ -181,6 +176,46 @@
 {{ end }}
 <!--    check config error end -->
 
+
+    {{ if .Params.Image }}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "author": "{{ .Params.author }}",
+        "headline": "{{ .Title }}",
+        "description": "{{ .Description }}",
+        "datePublished": "{{ .Date }}",
+        "image": {{ .Params.Image | absURL }}       
+      }
+    </script>
+
+    {{ else }}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "NGO",
+        "email": "maharlikanism(at)gmail.com",
+        "name": "Maharlikanism",
+        "url": "https://maharlika.one",
+        "logo": "https://maharlika.one/sunmahar.png",
+        "foundingDate": "2018",
+        "founders": [
+           {
+           "@type": "Person",
+           "name": "Juan"
+           },
+           {
+           "@type": "Person",
+           "name": "Lam"
+           } 
+        ]
+      }
+    </script>
+
+    {{ end }}   
+
+    
 <script>
   document.addEventListener('DOMContentLoaded', () => {
     const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);

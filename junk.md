@@ -6,6 +6,63 @@ god: Supreme morality
 consciousness: Desire
 
 
+
+The failure of Prout to be established from the 1990s to the 2010s manifests as the world having no solution to the current stagflation.
+
+Its principles decree "maximum utilization", "rational distribution", and "proper adjustment", but do not explain how they will actually be done in reality. 
+
+This is because its founder thought like a deity who could materialize things by will. Yes, the principles are sound, but those are only true at the end phase where everything has been perfected. 
+
+It would be like an 17th century inventor having a vision for a motorcycle and then starting work immediately a motorcycle when the combustion engine hasn't even been invented yet. The project would be guaranteed to fail.  
+
+The correct way is to start with a bicycle and then to perfect it step by step until it becomes a perfected motorcycle. 
+
+This is how Soichiro Honda started with making metal-spoked wheels in 1928 to replace wooden spokes. He then made bicycles, and then bicycle motors, which then evolved to become motorcycles. 
+
+Similarly, the principles of Prout require a barter system which starts off as an exchange platform that will let people get services. 
+
+This will then evolve into an employment system that matches the Buddhist system of 'right livelihood' that is in line with one's dharma. This matches Prout Principle 3.
+
+This will then lead to Buddhist Economics which prioritizes the well-being of all entities, matching the principle of minimum requirements and Prout Principle 2.
+
+This will lead to reduced consumption, less waste, and less energy use, matching Prout Principles 4 and 5
+
+These will then lead to less exploitation whether of humans or plants and animals, matching Prout Principle 1
+
+The base or starting point of Prout is therefore the barter system, just as the starting point of Honda's motorcycles were metal-spoked wheels. 
+
+Ask any Proutist how they will implement and scale a barter system globally, they will reply with a blank stare. This is why Prout is currently nowhere.  
+
+We solve this through a scalable barter system that can work online or offline and package it as non-dogmatic Buddhist Economics. 
+
+https://superphysics.org/research/schumacher/buddhist-economics/part-2
+
+
+
+The flaw of Prout is that it starts off with the end goal or intended result. 
+
+
+1. No individual can accumulate any physical wealth without the clear approval of the collective body.
+2. There should be maximum utilization and rational distribution of all mundane, supramundane and spiritual potentialities of the universe.
+3. There should be maximum utilization of physical, metaphysical and spiritual potentialities of unit and collective bodies of human society.
+4. There should be a proper adjustment amongst these physical, metaphysical, mundane, supramundane and spiritual utilizations.
+5. The method of utilization should vary in accordance with changes in time, space and person, and the utilization should be of progressive nature.
+
+This      
+
+are the end effect. 
+
+
+
+ of all mundane, supramundane and spiritual potentialities of the universe.
+3. There should be maximum utilization of physical, metaphysical and spiritual potentialities of unit and collective bodies of human society.
+4. There should be a 
+
+
+
+Instead of starting off with 4 principles of 
+
+
 jiva = self | identity
 atman = consciousness = experiencer
 mind = experiencer + self + aethereal mindstuff

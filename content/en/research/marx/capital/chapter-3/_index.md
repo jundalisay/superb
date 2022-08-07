@@ -1,6 +1,3 @@
-
-
-
 +++
 title=  "Money"
 heading=  "Chapter 3"
