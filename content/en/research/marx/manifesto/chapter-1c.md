@@ -4,14 +4,13 @@ title: "Class Struggle Between Proletariat and Bourgeoisie"
 date: 2022-04-13
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto
-linkbtext: "Index"
-linkf: /research/marx/manifesto
-linkftext: "Index"
+linkb: /research/marx/manifesto/chapter-1b
+linkbtext: "Chapter 1b"
+linkf: /research/marx/manifesto/chapter-2
+linkftext: "Chapter 2"
 author: Karl Marx
 icon: /icons/marx.png
 ---
-
 
 
 

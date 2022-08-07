@@ -4,10 +4,10 @@ title: "Abolition of the Family and Nations"
 date: 2022-04-13
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto
-linkbtext: "Index"
-linkf: /research/marx/manifesto
-linkftext: "Index"
+linkb: /research/marx/manifesto/chapter-2
+linkbtext: "Chapter 2"
+linkf: /research/marx/manifesto/chapter-3
+linkftext: "Chapter 3"
 author: Karl Marx
 icon: /icons/marx.png
 ---

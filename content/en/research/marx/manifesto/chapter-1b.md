@@ -4,10 +4,10 @@ title: "Modern Industry"
 date: 2022-04-13
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto
-linkbtext: "Index"
-linkf: /research/marx/manifesto
-linkftext: "Index"
+linkb: /research/marx/manifesto/chapter-1
+linkbtext: "Chapter 1"
+linkf: /research/marx/manifesto/chapter-1c
+linkftext: "Chapter 1c"
 author: Karl Marx
 icon: /icons/marx.png
 ---
