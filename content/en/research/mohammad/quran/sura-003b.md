@@ -4,10 +4,10 @@ heading: "Sura 3b of the Quran Simplified"
 date: 2022-01-18
 image: "/covers/quran.jpg"
 description: "The Prophet Mohammad tries to connect the historical Imran family to his Islam."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-003a
+linkbtext: "sura-003a"
+linkf: /research/mohammad/quran/sura-003c
+linkftext: "sura-003c"
 ---
 
 

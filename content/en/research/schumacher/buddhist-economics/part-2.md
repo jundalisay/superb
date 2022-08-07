@@ -19,8 +19,11 @@ Buddhist economics tries to maximise human satisfactions by **the optimal patter
 
 Modern economics tries to maximise consumption through **the optimal pattern of production**.
 
-A life which aims for the optimal consumption will need less effort than a life which aims for maximum consumption.
+**A life which aims for the optimal consumption will need less effort than a life which aims for maximum consumption.** *
 - Therefore, it is not surprising that the pressure and strain of living is very much less in Burma than in the US, despite the US having so much more labour-saving machinery.
+
+> *Superphysics Note: This matches our [Effort Theory of Value](/social/economics/principles/effort-theory-of-value) which aims for minimizing toil and trouble, while maximizing happiness
+
 
 Simplicity and non-violence are obviously closely related.
 - The optimal pattern of consumption produces a high degree of human satisfaction through a relatively low rate of consumption.

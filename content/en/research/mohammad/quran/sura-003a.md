@@ -4,10 +4,10 @@ heading: "Sura 3a of the Quran Simplified"
 date: 2022-01-19
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-002l
+linkbtext: "sura-002l"
+linkf: /research/mohammad/quran/sura-003b
+linkftext: "sura-003b"
 ---
 
 

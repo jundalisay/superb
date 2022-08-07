@@ -179,7 +179,7 @@ What's samadhi?
 {{< l ava="Superphysics" >}}
 Google it.
 
-All we can say is "No Samadhi, No Honey" (i.e. no understanding of how the universe is structured and generated in real-time)
+All we can say is "No Samadhi, No Honey" (i.e. Without samadhi, you won't get a solid understanding of how the universe is structured and generated in real-time)
 {{< /l >}}
 
 {{< r ava="asker" >}}

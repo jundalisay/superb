@@ -19,11 +19,19 @@ A lot of people confuse socialism, left wing, democracy, and communism with each
 
 ![Phone and a Smartphone](https://cdn-images-1.medium.com/max/800/1*Ni2rC5pbSjMiBLyOVEOIxQ.jpeg)
 
-A modern day example is the mobile phone and smartphone. A mobile phone means mobile telephone. When computer-abilities were added to it, it became a ‘smartphone’. However, this name is wrong because the computer-ability outweighs the telephone-ability. 
+A modern day example is the mobile phone and smartphone. 
 
-People use their ‘smartphones’ more for watching movies, playing games, or text-chatting, instead of talking via voice as what a telephone would do. Nowadays, smartphones are more properly called mobile devices.
+A mobile phone means mobile telephone. When computer-abilities were added to it, it became a ‘smartphone’, with 'smart' representing the computer-abilities. However, this name is wrong because the computer-ability outweighs the telephone-ability, which really is just voice calls. 
 
-David Hume explained that such naming mistakes are caused by the mind always choosing the mental processes that expend the least energy — it tries to connect ideas and form new ones without thinking. Thus, the phone became smart and so it was called a smartphone.
+People use their ‘smartphones’ more for:
+- watching movies
+- playing games
+- text-chatting
+- live-streaming
+
+These have much more weight than doing the simple voice calls allowed by telephones. Nowadays, smartphones are more properly called mobile devices.
+
+David Hume explained that such naming mistakes are caused by the mind always choosing the mental processes that expend the least energy — it tries to connect ideas and form new ones without thinking. The phone became smart and so it was called a smartphone.
 
 > Update Dec 2020: The recent term 'social distancing' is another example of wrong naming. It's used to imply keeping a physical distance from each other in order to prevent virus transmission. However, society is abstract in essence. Therefore, social distancing would mean being aloof, or not thinking about others at all. Two busy employees might physically bump into each other and not even mind nor remember the incident. Such a case would really be social distancing in the proper sense. The correct term for avoiding the virus is 'physical distancing'. The prevalence of 'social distancing' (and the fact that no one is denouncing it in favor of 'physical distancing') is proof that the essential science of Metaphysics or Dialectics is dead.
 
@@ -36,25 +44,30 @@ Democracy first appeared in ancient Greece and was defined by Socrates* as a sys
 
 > *Another problem is the word 'oligarchy'. Socrates originally used it to mean rule through money. However, modern dictionaries wrongly define oligarchy as 'rule of the few'. But tyranny, timocracy, and aristocracy are all ruled by a few people, and so the dictionary defintion is useless. What the dictionary staff probably did was simply to use the literal meaning of oligarchy as ὀλίγος or 'the few', not knowing that Socrates only used it to differentiate it from 'demos' or 'the many'.
 
-**Socialism** first appeared in the 19th century from the French economists Henri de Saint-Simon as an alternative to the unregulated freedom after the French Revolution destroyed the power of the monarchy and the church:
+**Socialism** first appeared in the 19th century from the French economists Henri de Saint-Simon. It was as an alternative to the unregulated freedom after the French Revolution destroyed the controlling power of the monarchy and the church:
 
 - The freed peasants made up the first estate
 - The monarchs and the church made up the second estate
 - The merchants* and manufacturers made up the third estate
 
-> *After the French Revolution, the aristocrats were lumped into a term called 'capitalists' because of the industrial revolution. Our [other post](/social/economics/capitalism) explains why even the modern word 'capitalist' is wrong because it originally meant profit-earners, which include farmers and peddlers. The classical term for modern capitalism is "stock-jobbing" which emphasizes the growth of paper stock price. Thus, Neo-classical Economics should be more accurately named as 'Paper Mercantilism' and Capitalism as 'Stock-Paper Mercantilism' as its subset.
+> *After the French Revolution, the aristocrats were lumped into a term called 'capitalists' because of the industrial revolution. Our [other post](/social/economics/capitalism) explains why even the modern word 'capitalist' is wrong because it originally meant profit-earners, which include farmers and peddlers. Adam Smith never used the word 'capitalist'. The classical term for modern capitalism was "stock-jobbing" which emphasizes the growth of paper stock-price. Thus, Neo-classical Economics should be more accurately named as 'Paper Mercantilism' and Capitalism as 'Stock-Paper Mercantilism' as its subset.
 
+
+
+Socialism meant the third estate unifying their interests with the first estate in order to keep factories running and industry humming. This led to the concept of employee wages and benefits for the first class coming from the third class. This is so common nowadays.  
 
 Thus, the peasants were split into two:
 
-- The not-so-free socialized peasants who had private property
-- The free and unsocialized ones who also had private property
+1. The not-so-free socialized peasants who could get private property
+  - These are the modern liberals
+2. The free and unsocialized ones who also could get private property (i.e. working for themselves, not working in industry)
+  - These are the modern libertarians
 
-The problem then began when Marx and Engels hijacked the socialism concept and diverted it into Communism -- a class-less utopia where there is no freedom (rather, freedom is sacrificed in order to attain utopia). This led to the three branches:
+The problem then began when Marx and Engels hijacked the socialism concept and diverted it into Communism -- a class-less utopia where there is no freedom (rather, freedom is sacrificed in order to attain utopia). This led to the 3 branches:
 
-- The extremely-not-free socialists as Communists **who had no private property**
-- The not-so-free socialists who had private property
-- The free unsocialized peasants as anarchists who also had private property 
+1. The extremely-non-free socialists as Communists **who were not permitted to have private property**
+2. The not-so-free socialists who could get private property
+3. The free unsocialized peasants as anarchists who also could get private property, as the *petit bourgeoisie*
 
 {{< quote >}}
 D’autres auteurs, à la suite de Marx et Engels notamment, ont également qualifié Saint-Simon de socialiste. Le recours à la centralisation est la raison la plus souvent invoquée pour justifier le socialisme de Saint-Simon.<br><br>Si l’on définit le socialisme par trois critères (propriété collective des moyens de production ; absence de concurrence ; planification rationnelle des activités économiques), alors Saint-Simon n’est pas socialiste car il respecte, formellement, la propriété privée et les droits privés qui y sont associés : les profits. Pour lui, l’égalité industrielle [consiste] (…) en ce que chacun retire de la société des bénéfices exactement proportionnés à sa mise sociale, c’est-à-dire à sa capacité positive, à l’emploi utile qu’il fait de ses moyens, parmi lesquels il faut comprendre, bien entendu, ses capitaux
@@ -73,13 +86,23 @@ The USSR should've been the USCR.
 
 ![Socialism](https://cdn-images-1.medium.com/max/800/1*Fg8t-4HacALpwTF7Kq050w.jpeg)
 
-Because of Marx and Engels, socialism has since been defined to be the same as communism, very different from the socialism of the French Revolution.
+Because of Marx and Engels, socialism has since been defined to be the same as communism, very different from the socialism of the French Revolution. In reality the original socialism just means:
+- wages and benefits
+- coming to work on time
+- having job titles and specializations
+- etc.
 
-But the Cold war is more recent than the French Revolution, so it would be naive to hope that everyone can go back to the original French definition
+
+
+But the Cold war is more recent than the French Revolution, so it would be naive to hope that everyone can go back to the original French definition.
+
+
+## The Features of a Social Republic
 
 As a workaround, we've created a new term called [social networkism](/social/social-networkism) to bring back the original French idea (social) <!-- with the addition of the new concept of the soul of society (dialectical) --> which can manifest as a social network (networkism). It distances itself from anarchism or laissez-faire liberalism by espousing the unity of society over the unity of the self*. 
 
 > *Recall that, in our system, <a href="/medical/idea-of-self">a person has 3 billion selves</a>.
+
 
 When systematized as a government, it becomes a 'social network republic' which we shorten to 'social republic' so that countries will be named 'The Social Republic of Wakanda' for example. This idea remains true to Socrates' Republic and the French Revolution which defined socialism to be in-between anarchism and monarchy, while clearly having private property.
 
@@ -93,12 +116,23 @@ Thus, a social republic unifies left and right wing into a single harmony* that 
 > *Western universities shallowly interpret Socrates' musical advocacy as referring to audible music. In reality, his music refers to the symphony of feelings, whether of humans, animals, or the universe itself. This makes him consistent with the Asian philosophers who pushed for harmony with the Tao or dharma. 
 
 
+The main features of a social republic are:
+
+- Constitutional Virtues to unite the different political and economic ideologies
+- A combination of money-economy and moneyless-economy
+- The Fourth Branch of government as the Resources Branch
+- Bicameral Federal Parliament 
+
 
 ## The Ideology Matrix = Social Cycles + Spacetime
 
 While this solves such a problem for this generation, future generations might hijack and usurp these repaired ideas and render them messed up as usual. To prevent this, we created an Ideology Matrix which classifies every socio-economic-political idea that can be possibly generated by the human mind.
 
-It combines David Hume's work which explained the dynamics of the mind, with Socrates' cycles of democracy, tyranny, aristocracy, and oligarchy that matches the four castes of Eastern shudras, ksatriyas, brahmins, and vaeshyas. By doing so, we unify eastern and western metaphysics and show that both had the same core observations of human society and the human species, but using different terminologies.
+It combines David Hume's work which explained the dynamics of the mind, with Socrates' cycles* of democracy, tyranny, aristocracy, and oligarchy that matches the four castes of Eastern shudras, ksatriyas, brahmins, and vaeshyas. By doing so, we unify eastern and western metaphysics and show that both had the same core observations of human society and the human species, but using different terminologies.
+
+{{< me="December 2021" >}}
+We have now systematized this as the [Four Laws of Value](/social/economics/principles/four-laws-of-value)
+{{< /me >}}
 
 ![Varna dharma](https://sorasystem.sirv.com/graphics/varna.jpg)
 
@@ -145,7 +179,7 @@ In America, this can be seen in:
  
 The most sustainable political philosophies and economic systems are those that are near the center, which balance non-selfishness and objective-ness, while adapting to changes in the social cycles. 
 
-In Buddhism, this is called the Middle Way and is essential to sustainable happiness. 
+In [Buddhism](/research/schumacher/buddhist-economics/part-1), this is called the Middle Way and is essential to sustainable happiness. 
 
 
 In economics, this would be Capitalist systems having a bit of Socialism (as what the Nordic countries are doing), or Socialist systems having a bit of Capitalism (as what China is doing, though they seem to take the state capitalism side too far).
@@ -194,8 +228,6 @@ Social contract (1763) is from translations of Rousseau. Social Darwinism attest
 word-forming element making nouns implying a practice, system, doctrine, etc., from French -isme or directly from Latin -isma, -ismus (source also of Italian, Spanish -ismo, Dutch, German -ismus), from Greek -ismos, noun ending signifying the practice or teaching of a thing, from the stem of verbs in -izein, a verb-forming element denoting the doing of the noun or adjective to which it is attached. For distinction of use, see -ity. The related Greek suffix -isma(t)- affects some forms.
 
  -->
-
-
 
 ## Essential to Social Superphysics
 

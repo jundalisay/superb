@@ -3,35 +3,34 @@ title: "Jews and Christians Versus the Muslims"
 heading: "Sura 3c of the Quran Simplified"
 date: 2022-01-17
 image: "/covers/quran.jpg"
-description: "The Prophet Mohammad tries to connect the historical Imran family to his Islam."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+description: "The Prophet Mohammad describes the differences of his beliefs with those of Jews and Christians"
+linkb: /research/mohammad/quran/sura-003b
+linkbtext: "sura-003b"
+linkf: /research/mohammad/quran/sura-003d
+linkftext: "sura-003d"
 ---
 
 
-59. The likeness of Jesus in Allah’s sight is that of Adam: He created him from dust, then
-said to him, “Be,” and he was. 
+59. The likeness of Jesus in Allah’s sight is that of Adam. 
+
+Allah created Jesus from dust, then said to him, “Be,” and he was. 
 
 <!-- 60. The truth is from your Lord, so do not be of those who doubt. -->
 
-61. And if anyone disputes with you about him, after the knowledge that has come to you, say, “Come, let us call our children and your children, and our women and your women, and ourselves and yourselves, and let us invoke Allah’s curse on the liars.”
+61. If anyone disputes with you about him, <!-- after the knowledge that has come to you, --> say: “Come, let us call our children and your children, and our women and your women, and ourselves and yourselves, and let us invoke Allah’s curse on the liars.”
 
 
 <!-- 62. This is the narrative of truth: there is no god but Allah. Allah is the Mighty, the Wise.
 
 63. But if they turn away—Allah knows the corrupt. -->
 
-64. Say to the Jews and Christians: 
-
-“Come to terms common between us and you. We worship only Allah. We associate nothing with Him.” 
+64. Say to the Jews and Christians: “Come to terms common between us and you. We worship only Allah. We associate nothing with Him.” 
 
 <!-- And if they turn away, say, “Bear witness that we have submitted.” -->
 
-<!-- 65. O People of the Book! Why do you argue about Abraham, when the Torah and the Gospel were not revealed until after him? 
+65. O People of the Book! Why do you argue about Abraham, when the Torah and the Gospel were not revealed until after him? 
 
-Will you not reason? -->
+<!-- Will you not reason? -->
 
 66. Here you are—you argue about things you know, but why do you argue about things you do not know?
 
@@ -84,17 +83,11 @@ Whoever turns away after that—these are the deceitful.
 
 83. Do they desire other than the religion of Allah, when to Him has submitted everything in the heavens and the earth, willingly or unwillingly, and to Him they will be returned?
 
-84. Say, “We believe in Allah, and in what was revealed to us; and in what was revealed to
-Abraham, and Ishmael, and Isaac, and Jacob, and the Patriarchs; and in what was given to
-Moses, and Jesus, and the prophets from their Lord. We make no distinction between
-any of them, and to Him we submit.”
+84. Say, “We believe in Allah, and in what was revealed to us; and in what was revealed to Abraham, and Ishmael, and Isaac, and Jacob, and the Patriarchs; and in what was given to Moses, and Jesus, and the prophets from their Lord. We make no distinction between any of them, and to Him we submit.”
 
-85. Whoever seeks other than Islam as a religion, it will not be accepted from him, and in
-the Hereafter he will be among the losers.
+85. Whoever seeks other than Islam as a religion, it will not be accepted from him, and in the Hereafter he will be among the losers.
 
-86. How will Allah guide a people who disbelieved after having believed, and had wit-
-nessed that the Messenger is true, and the clear proofs had come to them? Allah does
-not guide the unjust people.
+<!-- 86. How will Allah guide a people who disbelieved after having believed, and had witnessed that the Messenger is true, and the clear proofs had come to them? Allah does not guide the unjust people.
 
 87. Those—their penalty is that upon them falls the curse of Allah, and of the angels, and of all mankind.
 
@@ -111,20 +104,21 @@ be accepted from any of them, were he to offer it for ransom. These will have a 
 torment, and will have no saviors.
 
 92. You will not attain virtuous conduct until you give of what you cherish. Whatever you
-give away, Allah is aware of it.
+give away, Allah is aware of it. -->
 
-93. All food was permissible to the Jews, except what Israel forbade for itself before the Torah was revealed. Say, “Bring the Torah, and read it, if you are truthful.”
+93. All food was permissible to the Jews, except what Israel forbade for itself before the Torah was revealed. 
+
+Say to them: “Bring the Torah, and read it, if you are truthful.”
 
 94. Whoever forges lies about Allah after that—these are the unjust.
 
 95. Say, “Allah has spoken the truth, so follow the religion of Abraham the Monotheist; he was not a Pagan.”
 
-96. The first house established for mankind is the one at Bekka; blessed, and guidance for all
-people.
+96. The first house established for mankind is the one at Bekka; blessed, and guidance for all people.
 
-97. In it are evident signs; the Station of Abraham. Whoever enters it attains security. Pil-
-grimage to the House is a duty to Allah for all who can make the journey. But as for those
-who refuse—Allah is Independent of the worlds.
+97. In it are evident signs; the Station of Abraham. 
+
+Whoever enters it attains security. Pilgrimage to the House is a duty to Allah for all who can make the journey. <!-- But as for those who refuse—Allah is Independent of the worlds. -->
 
 98. Say to the Jews and Christians:
 - "Why do you reject the Revelations of Allah, when Allah witnesses what you do?”
