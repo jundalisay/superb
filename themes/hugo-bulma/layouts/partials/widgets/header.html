@@ -81,9 +81,10 @@
                               {{ $item := . }}
                               {{ $isActive := $page.HasMenuCurrent "navbar" $item }}
                               {{ $pre := $item.Pre | safeHTML | emojify }}
+                              
                               <a class="navbar-item {{ if $isActive }} is-active{{ end }}" href="{{ $item.URL | relLangURL }}">
                                 <div class="control has-icons-left">
-                                  <span class="ml-6">{{ $item.Name }}</span>
+                                  <small class="ml-6">{{ $item.Name }}</small>
                                   <span class="icon is-left">{{ $pre }}</span>
                                 </div>
                               </a>

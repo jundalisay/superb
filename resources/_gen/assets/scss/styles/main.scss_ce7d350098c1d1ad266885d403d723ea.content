@@ -3315,7 +3315,7 @@ button.dropdown-item {
 .navbar-link {
   color: #4a4a4a;
   display: block;
-  line-height: 1.5;
+  line-height: 1.1;
   padding: 0.5rem 0.75rem;
   position: relative; }
   .navbar-item .icon:only-child,
