@@ -1,11 +1,11 @@
-+++
-title= "The Measure Of Values"
-heading=  "Section 1 of Das Kapital"
-author=  "Karl Marx"
-image=  "/covers/daskapital.jpg"
-description=  "Circulation of values"
-date=  "2020-01-31"
-+++ 
+---
+title: "The Measure Of Values"
+heading: "Section 1 of Das Kapital"
+author: "Karl Marx"
+image: "/covers/daskapital.jpg"
+description: "Circulation of values"
+date: "2020-01-31"
+---
 
 
 The first chief function of money is to express the comparative value of commodities as the universal measure of value. 
@@ -152,7 +152,7 @@ Though a commodity may, side by side with its actual form (iron, for instance), 
 
 “Assai bene è trascorsa d’esta moneta già la lega e ’l peso, ma dimmi se tu l’hai ne la tua borsa.”
 
-A price therefore implies= 
+A price therefore implies:
 - that a commodity is exchangeable for money
 - that it must be so exchanged. 
 
@@ -162,7 +162,15 @@ On the other hand, gold serves as an ideal measure of value, only because it has
 
 <!-- Footnotes
 
-1. The question — Why does not money directly represent labour-time, so that a piece of paper may represent, for instance, x hours’ labour, is at bottom the same as the question why, given the production of commodities, must products take the form of commodities? This is evident, since their taking the form of commodities implies their differentiation into commodities and money. Or, why cannot private labour — labour for the account of private individuals — be treated as its opposite, immediate social labour? I have elsewhere examined thoroughly the Utopian idea of “labour-money” in a society founded on the production of commodities (l. c., p. 61, seq.). On this point I will only say further, that Owen’s “labour-money,” for instance, is no more “money” than a ticket for the theatre. Owen pre-supposes directly associated labour, a form of production that is entirely inconsistent with the production of commodities. The certificate of labour is merely evidence of the part taken by the individual in the common labour, and of his right to a certain portion of the common produce destined for consumption. But it never enters into Owen’s head to pre-suppose the production of commodities, and at the same time, by juggling with money, to try to evade the necessary conditions of that production.
+1. The question — Why does not money directly represent labour-time, so that a piece of paper may represent, for instance, x hours’ labour, is at bottom the same as the question why, given the production of commodities, must products take the form of commodities? This is evident, since their taking the form of commodities implies their differentiation into commodities and money. Or, why cannot private labour — labour for the account of private individuals — be treated as its opposite, immediate social labour?
+
+I have elsewhere examined thoroughly the Utopian idea of “labour-money” in a society founded on the production of commodities (l. c., p. 61, seq.). 
+
+Owen’s “labour-money” is just a ticket for the theatre. 
+
+Owen pre-supposes directly associated labour, a form of production that is entirely inconsistent with the production of commodities. The certificate of labour is merely evidence of the part taken by the individual in the common labour, and of his right to a certain portion of the common produce destined for consumption. 
+
+But it never enters into Owen’s head to pre-suppose the production of commodities, and at the same time, by juggling with money, to try to evade the necessary conditions of that production.
 
 2. Savages and half-civilised races use the tongue differently. Captain Parry says of the inhabitants on the west coast of Baffin’s Bay=  “In this case (he refers to barter) they licked it (the thing represented to them) twice to their tongues, after which they seemed to consider the bargain satisfactorily concluded.” In the same way, the Eastern Esquimaux licked the articles they received in exchange. If the tongue is thus used in the North as the organ of appropriation, no wonder that, in the South, the stomach serves as the organ of accumulated property, and that a Kaffir estimates the wealth of a man by the size of his belly. That the Kaffirs know what they are about is shown by the following=  at the same time that the official British Health Report of 1864 disclosed the deficiency of fat-forming food among a large part of the working-class, a certain Dr. Harvey (not, however, the celebrated discoverer of the circulation of the blood), made a good thing by advertising recipes for reducing the superfluous fat of the bourgeoisie and aristocracy.
 

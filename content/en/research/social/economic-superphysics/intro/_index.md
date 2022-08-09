@@ -1,6 +1,6 @@
 ---
-title: Economic Superphysics
+title: "The Metaphysics Of Value and Society"
 description: Textbook of Economic Superphysics
 image: /covers/econsp.jpg
-date: 2022-06-12
+date: 2022-08-10
 ---

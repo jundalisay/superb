@@ -6838,6 +6838,11 @@ body {
   background-color: darkred;
   background-image: url(/icons/sam.png); }
 
+.Sarkar {
+  background-color: orangered !important;
+  color: white;
+  background-image: url(/icons/sarkar.png) !important; }
+
 .schu, .EF-Schumacher {
   background-color: darkcyan !important;
   background-image: url(/icons/schu.png) !important; }
@@ -6889,7 +6894,7 @@ body {
   background-color: #d9fefd;
   background-image: url(/icons/g01.png); }
 
-.asker {
+.asker, .Asker {
   background-color: gainsboro;
   background-image: url(/icons/g01.png) !important; }
 

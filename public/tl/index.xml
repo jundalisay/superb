@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Superphysics</title>
-        <link>https://superphysics.org/tl/</link>
-            <atom:link href="https://superphysics.org/tl/index.xml" rel="self" type="application/rss+xml" />
-        <description>Superphysics</description><language>tl</language><copyright>© Pantry Peers</copyright>
-    </channel>
-</rss>

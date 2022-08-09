@@ -23,6 +23,12 @@ comments:
 ---
 
 
+{{< q a="Sarkar" >}}
+A quinquelemental science should be applied to cure certain ailments associated with the physical body
+<cite>P R Sarkar, The Rule of Rationality</cite>
+{{< /q >}}
+
+
 Superphysics follows the five-layer model of the universe as described by the ancient Greeks, Hindus, and Chinese 
 
 

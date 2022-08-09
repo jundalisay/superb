@@ -5,6 +5,7 @@ mind: 2 minds, living non living, dharma, movement, One
 god: Supreme morality
 consciousness: Desire
 
+Prout 9 12 13 15 18 10 Bangladesh 
 
 
 The failure of Prout to be established from the 1990s to the 2010s manifests as the world having no solution to the current stagflation.

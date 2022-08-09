@@ -1,96 +1,114 @@
-+++
-title= "The Physiocrats"
-date= 2022-03-27
-# heading= Chapter 1b
-image= "/covers/sismondi.jpg"
-description= "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
-linkb= "/research/sismondi/economy/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/sismondi/economy/chapter-2"
-linkftext= "Chapter 2"
-icon = "/icons/sis.jpg"
-+++
-
-After the mid-18th century, Quesnay opposed to it his Tableau Economique. It was afterwards:
-- expounded by Mirabeau and the Abbe de Riviere
-- enlarged by Dupont de Nemours
-- adopted by the Economists of France which spread to Italy
-
-<!-- In Italy,  too this sect gained some distinguished partisans. Its followers have written more about the science than those of any other sect; yet  -->
-
-<!-- They have admitted Quesnay's principles with such blind confidence, and maintained them with such implicit fidelity, that one is at a loss to discover any difference of principle, or any progress of ideas in their several productions. -->
-
-Quesnay's was the second system in political economy called the "territorial system" or "the system of the economists". 
-
-He asserts that:
-- gold and silver <!-- , the signs of wealth, the means of exchange, the price of all commodities, --> do not themselves constitute the wealth of states 
-- no judgment can be formed concerning the prosperity of a nation, from the abundance of its precious metals. 
-
-He next defines the <!-- proceeds to survey the different --> classes of men, all of whom:
-- try to gain money and
-- cause wealth to circulate
-
-<!-- , even when acquiring it for themselves, are not, according to him, occupied with any thing besides exchange.  -->
-
-He separates <!-- endeavours to distinguish --> the classes possessed of a creative power. He says that <!-- ; it is amongst them that --> 
-- wealth originates with them
-- all commercial transactions are merely transmissions of that wealth from hand to hand.
-
-The merchant moves goods from one country to another merely transfers wealth and does not create wealth. 
-
-<!--  who carries the productions of both hemispheres from one continent to the other, and on returning to the ports of his own country, obtains, at the sale of his cargo, a sum double of that with which he began his voyage, does not, after all, appear, in the eyes of Quesnay, to have performed any thing but an exchange.  -->
-
-The merchant sells European manufactures into the colonies at a higher price because they are worth more there. 
-
-<!-- than they cost him, the reason is, they were in fact worth more. Together with their prime cost, he must also be reimbursed for the value of his time, his cares, his subsistence, and that of his sailors and agents during the voyage.  -->
-
-He has a like reimbursement to claim on the cotton or sugar he brings back to Europe. If, at the end of his voyage, any profit remains, it is the fruit of his economy and good management. The wages allowed him by consumers, for the trouble he has undergone, are greater than the sum he had expended. 
-
-It is the nature of wages, however, to be entirely expended by him who earns them; and had this merchant done so, he would have added nothing to the national wealth, by the labour of his whole life; because the produce which he brings back does nothing more than exactly replace the valuE of the produce given for it, added to his own wages, and the wages of all that were engaged with him in the business.
-
-Quesnay called the transport trade as "economical trade" which does not provide for the nation's wants. Instead, it merely serves the convenience of two foreign nations. 
-
-The carrying nation acquires from it no other profit than wages, and cannot grow rich except by the saving which economy enables it to make on them.
-
-Quesnay considers manufactures as an exchange, just the same as commerce. But instead of having in view two present values, their primitive contract is an exchange of the present against the future. 
-
-The merchandise produced by the labour of the artisan is but the equivalent of his accumulated wages. During his labour, he had consumed the fruits of the earth, and the work produced by him is nothing but their value.
-
-Agricultural labour to Quesnay is in the same condition as the merchant and the artisan. Like the latter, he makes with the earth an exchange of the present against the future. The crops produced by him represent the accumulated value of his labour; they pay his hire, to which he has the same right as the artisan to his wages, or the merchant to his profit. But when this hire has been deducted, there remains a net revenue, which was not be found in manufactures and commerce; it is what the labourer pays the proprietor for the use of his land. 
-
-Quesnay thinks that this revenue is of a nature quite different from any other. 
-
-It is not wages; it is not the result of an exchange; it is the price of the earth's spontaneous labour, the fruit of nature's beneficence; and since it does not represent pre-existent wealth, it alone must be the source of every kind of wealth. 
-
-Tracing the value of all other commodities, under all its transformations, Quesnay still discovers its first origin in the fruits of the earth. The labours of the husbandman, of the artisan, of the merchant, consume those fruits in the shape of wages and produce them under new forms. 
-
-The proprietor alone receives them at their source from the hands of nature herself, and by means of them is enabled to pay the wages of all his countrymen, who labour only for him.
+---
+heading: "Chapter 1b of Economy by Sismondi Simplified"
+title: "The Rise of Absolute Monarchs"
+date: 2022-03-27
+image: /covers/sismondi.jpg
+description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
+linkb: /research/sismondi/economy
+linkbtext: Index
+linkf: /research/sismondi/economy/chapter-1b
+linkftext: "Chapter 1b"
+author: Sismondi
+---
 
 
-This ingenious system totally supplanted the mercantile system. The economists denied the existence of that commercial balance to which their antagonists attached so much importance. They asserted the impossibility of that accumulation of gold and silver which the others expected from it. 
 
-Throughout the nation, they could see only proprietors of land, the sole dispensers of the national fortune; productive workmen, or labourers producing the revenue of the former. and a hired class, in which they ranked merchants also denying to them, as to the artisans, the faculty of producing any thing.
+In the 16th century, political power shifted to a few sovereigns who:
+- overturned public liberty
+- oppressed the smaller states
+- destroyed the privileges of the towns and provinces
+- controlled the national fortunes
+- were absolutely ignorant of the industry that created and preserved wealth
+ 
+Before the reign of Charles 5th, half of Europe was under the feudal system. It had:
+- no liberty
+- no knowledge
+- no finance. 
 
-<!-- The plans, which these two sects recommended to governments, differed not less than their principles. While  -->
+The other half had already reached a high degree of prosperity through its increasing agricultural riches, factories, and trade. 
+- It was governed by men who studied economy in private life when they were acquiring their own property
+  - They had learned what is suitable in that of states
+  - They governed free communities according to the interest of all.
 
-The mercantilists wished authority to interfere in everything. 
+Until the 15th century, wealth and credit were nowhere in:
+- the republics of Italy
+- the Hanseatic league
+- the imperial towns of Germany
+- the free towns of Belgium and Spain
+- some towns in France and England
 
-The economists incessantly repeated *laissez faire et laissez passer* (let every man do as he pleases, and every thing take its course). This is because the public interest consists in the union of all individual interests. Individual interest will guide each man more surely to the public interest than any government can do.
+These instead enjoyed great municipal privileges. 
 
-The system of the economists excited an excessive ferment in France. Their government allowed the people to talk about public affairs, but not to understand them. 
+The Magistrates of all those towns were men constantly brought up in business. 
+- They had no knowledge of political economy as a science
+- Yet they had the feeling and experience of what would serve or injure the interests of their fellow-citizens.
 
-The discussion, of Quesnay's theory was sufficiently unshackled; but none of the facts or documents in the hands of the administration, were presented to the public eye. 
+The 19th century wars:
+- overturned the balance of Europe
+- transferred a nearly absolute monarchy to 4 all-powerful monarchs
 
-In the system of the French economists, it is easy to discern the effects produced by this mixture of ingenious theory and involuntary ignorance. It seduced the people, because they were now for the first time occupied with their own public affairs. 
+Charles 5th united all the industrious and wealthy counties after having ruined them:
+- Spain, nearly all Italy, Flanders, and Germany
 
-But, during these discussions, a free nation, possessed of the right to examine its own public affairs, was producing a system not less ingenious, and much better supported by fact and observation; a system which, after a short struggle, at length cast its predecessors into the shade; for truth always triumphs in the end, over dreams, however brilliant.
+He suppressed all their privileges and prevented the recovery of former opulence. 
 
+<!-- The most absolute kings can no more govern by themselves, than kings whose authority is limited by laws.  -->
 
-Adam Smith was author of this third system which represents labour as the sole origin of wealth, and economy as the sole means of accumulating it. He carried the science of political economy to perfection in one step. 
+<!-- The former transmit their power to ministers whom they themselves select, in place of taking such as would be nominated by the popular confidence. But they find them among a class of persons different from that in which free governments find them. In the eyes of an absolute king, the first quality of a statesman is his being in possession of a rank so high that he may have lived in noble indolence, or at least in absolute ignorance of domestic economy.  -->
 
-<!-- Experience, no doubt, has disclosed new truths to us; the experience of late years, in particular, has forced us to make sad discoveries= but in completing the system of Smith, that experience has also confirmed it. Of the various succeeding authors, no one has sought any other theory. --> 
+The ministers of Charles 5th: <!-- , whatever talents they show for negotiation and intrigue, --> 
+- were all equally ignorant of pecuniary affairs
+- ruined the public finances, agriculture, trade, and every kind of industry, from one end of Europe to the other
+<!-- ; they made the people feel the difference, which might indeed have been anticipated, between their ignorance and the practical knowledge of republican magistrates. -->
 
-<!-- Some have applied what he advanced to the administration of different counties; others have confirmed it by new experiments and new observations; some have expanded it by developments, which flow from the principles laid down by him; some have even here and there detected errors in his work; 
+The following monarchs wished to hold the balance between them:
+- Charles 5th,
+- his rival Francis 1st,
+- Henry 8th
 
-but it has been by following out the truths which he taught and rectifying them by light borrowed from its author. Never did philosopher effect a more complete revolution in any science= for those even who dissent from his doctrine acknowledge his authority; sometimes they attack, solely because they do not understand him; most commonly, they flatter themselves with the belief of still following, even while they contradict him. We shall devote the rest of this article to explain the science which he taught us, though in an order different from his. We shall arrange it under the six following heads= Formation and Progress of Wealth= Territorial Wealth; Commercial Wealth; Money; Taxes; and Population.
- -->
+They spend more than they earned. 
+
+<!--  the ambition nf their successors, and the obstinacy of the house of Austria, which continued to maintain a destructive system of warfare during more than a hundred years, caused those expenses, in spite of the public poverty, to go on increasing.  -->
+
+As the suffering became more general, the humane people defended the poor. Thus, the science of political economy sprung from that of finance. 
+
+<!--  f humanity felt more deeply the obligation laid on them to undertake the defence of the poor. By an order of sequence opposite to the natural progress of ideas,  -->
+
+Philosophers:
+- wished to shield the people from the speculations of absolute power
+- felt that, to obtain a hearing from kings, they must speak to them of royal interests, not of justice or duty 
+- investigated the nature and causes of national wealth, to show governments how it might be shared without being destroyed
+
+Europe had too little liberty to allow those early <!--  who first occupied themselves with --> political economists to present their speculations
+
+Finance were then enveloped in deep secrecy to know how it worked.  <!-- to admit of men, not engaged in public business, knowing facts enough to form the basis of general rules.  -->
+
+This is why the study of political economy began with ministers who were interested in:
+- finance and 
+- the public interest 
+
+<!-- when once it had fortunately happened that kings put men at the head of their finances, who combined talents with justice and love of the public weal.  -->
+
+The 2 great French ministers were:
+- Sully under Henry 4th
+- Colbert under Louis 14th
+
+They were the first who threw any light on the political economy which was then regarded as a secret of state. <!-- , in which mystery had engendered and concealed the greatest absurdities. --> 
+
+Yet, in spite of all their genius and authority, they could not bring it any order, precision, or uniformity. 
+
+<!--  into this branch of government. Both of them, however, not only repressed the frightful spoliations of the revenue farmers, and by their protection communicated some degree of security to private fortunes; but likewise dimly perceived the true sources of national prosperity, and busied themselves with efforts to make them flow more abundantly.  -->
+
+Sully's policy was to protect agriculture. 
+
+<!-- He used to say that pasturage and husbandry wee the two beasts of the state. --> 
+
+Colbert's policy was to protect the merchants. 
+- He descended from a family engaged in the cloth trade
+- He studied to encourage manufactures and commerce.
+- He asked the advice of merchants on all emergencies. 
+
+Both statesmen:
+- opened roads and canals to facilitate trade
+- protected the spirit of enterprise
+- honoured the industrious activity which diffused plenty over their country.

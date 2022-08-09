@@ -9,11 +9,36 @@ linkf= "/research/sismondi/economy/chapter-2"
 linkftext= "Chapter 2"
 +++
 
-The primary object of political economy is the development of national wealth; but the object of all governments, since they began to bestow any attention on this subject, has been to participate in this wealth, and to acquire the disposal of a greater share of the nation's annual revenue. The ever increasing necessities of governments, and the excessive expense of wars, have forced princes to load their people with the weightiest possible yoke. Taxation, of itself always an object of repugnance to the subject, has become a nearly intolerable burden; the question is no longer how to make it easy; it is not to do good, but to the least possible evil, that all the efforts of governments in this respect are limited.
 
-Quesnay's sect of economists, who discovered in the net revenue of land the solitary source of wealth, might also believe in the advantage of a solitary species of taxation. They rightly observe, that government, in justice, ought to apply to him who is destined to pay the tax in the long run; because, if this tax is paid by one citizen, reimbursed by a second, who again is reimbursed by a third, not only will there be three persons instead of one incommoded by this payment, but the third will be so much the more incommoded, as it will be necessary for him to indemnify the preceding two for their advances of money. Upon the same principle, the economists called the tax which weighs on the revenue of land a direct tax; to all others they gave the name of indirect, because those taxes arrive indirectly at the person who pays them at last. Their system has fallen, their definitions are no longer admitted, but their denominations have remained in general use.
+<!-- The primary object of political economy is the development of national wealth; but  -->
 
-We have recognised but a single source of wealth, which is labour; yet we have not recognised but a single class of citizens, to whom the revenues produced by labour belong. These are distributed among all the classes of the nation; they assume all manner of forms, and, therefore, it is just that taxation should follow them into all their ramifications. Taxation ought to be considered by the citizens of a state as a recompense for the protection, which government grants to their = persons and properties. It is just that all support this, in proportion to the advantages secured them by society, and to the expenses it incurs for them. The greater part of the charge arising from social establishments, is destined to defend the rich against the poor; because, if left to their respective strength, the former would very speedily be stripped. It is hence just that the rich man contribute not only in proportion to his fortune, but even beyond it, to support a system which is so advantageous to him; in the same way as it is equitable to take from his superfluity rather than from the other's necessaries. Most public labours, most charges for defence and for the administration of justice, have territorial rather than movable property in view; it is hence farther just, that the landed proprietor be taxed in proportion higher than others.
+The object of all governments has been to:
+- participate in the national wealth, and
+- acquire the disposal of a greater share of the nation's annual revenue. 
+
+Princes loaded their people with the heavy taxes because of:
+- the ever increasing necessities of governments and
+- the excessive expense of wars
+
+Taxation has become a nearly intolerable burden. 
+
+The question is no longer how to make it easy, but to do the least possible evil. All the efforts of governments in this respect are limited.
+
+Quesnay's economists discovered in the net revenue of land the solitary source of wealth, might also believe in the advantage of a solitary species of taxation. 
+
+They rightly observe, that government should apply to him who is destined to pay the tax in the long run; because, if this tax is paid by one citizen, reimbursed by a second, who again is reimbursed by a third, not only will there be three persons instead of one incommoded by this payment, but the third will be so much the more incommoded, as it will be necessary for him to indemnify the preceding two for their advances of money. 
+
+Upon the same principle, the economists called the tax which weighs on the revenue of land a direct tax; to all others they gave the name of indirect, because those taxes arrive indirectly at the person who pays them at last. Their system has fallen, their definitions are no longer admitted, but their denominations have remained in general use.
+
+I assign the source of all wealth to human labor. But I do not assign this labor to a single class citizens because labor is distributed among all the classes of the nation in various forms.
+
+Therefore, taxation should follow them into all their ramifications. 
+
+Taxation ought to be considered by the citizens of a state as a recompense for the protection, which government grants to their = persons and properties. 
+
+It is just that all support this, in proportion to the advantages secured them by society, and to the expenses it incurs for them. The greater part of the charge arising from social establishments, is destined to defend the rich against the poor; because, if left to their respective strength, the former would very speedily be stripped. 
+
+It is hence just that the rich man contribute not only in proportion to his fortune, but even beyond it, to support a system which is so advantageous to him; in the same way as it is equitable to take from his superfluity rather than from the other's necessaries. Most public labours, most charges for defence and for the administration of justice, have territorial rather than movable property in view; it is hence farther just, that the landed proprietor be taxed in proportion higher than others.
 
 After the sources of income have become various, it cannot be supposed that a single tax will reach them all, unless it assume as a basis this income itself, the valuation of which, in any form, would give room to the most arbitrary and vexatious inquisitions. The tax, though single, would in that case lose all the advantages of simplicity. It was better then, for contributors, as well as government, to multiply taxes, that each by itself might be lighter, and the whole might better reach every class of persons. Governments have therefore multiplied partial taxes. They have taken wherever they have found any thing to take; and though flattering themselves with having thus reached all their subjects, it would be impossible for them to appreciate how much is asked of each class, and consequently to maintain the proportional equality which justice would have required. On the other hand, contributors like better to submit to this heavy inconvenience, than to the obligations of exhibiting an account of their incomes, which, often they do not know themselves, and to a division on arbitrary grounds, which most frequently would be intolerable.
 

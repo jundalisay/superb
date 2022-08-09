@@ -1,13 +1,12 @@
+---
+title: "The Medium Of Circulation"
+heading: "Section 2 of Das Kapital by Karl Marx"
+author: "Karl Marx"
+image: "/covers/daskapital.jpg"
+description: "Circulation of values"
+date: "2020-01-31"
+---
 
-
-+++
-title=  "The Medium Of Circulation"
-heading=  "Section 2"
-author=  "Karl Marx"
-image=  "/covers/daskapital.jpg"
-description=  "Circulation of values"
-date=  2020-01-30
-+++
 
 ## A. The Metamorphosis of Commodities
 
