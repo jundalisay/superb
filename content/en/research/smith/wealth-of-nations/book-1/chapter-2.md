@@ -50,10 +50,9 @@ In this way, we get most of what we need. **It is not from the benevolence of th
 We address, not their humanity but their self-love. We never talk to them of our own necessities but of their advantages.
 
 Only a beggar chooses to depend chiefly on the benevolence of others.
-But even a beggar does not depend on it entirely.
+- But even a beggar does not depend on it entirely.
 
-Donors supply him with his subsistence, but not always when he wants it.
-Most of his wants are supplied in the same way as those of other people, by treaty, by barter, and by purchase.
+Donors supply him with his subsistence, but not always when he wants it. Most of his wants are supplied in the same way as those of other people, by treaty, by barter, and by purchase.
 
 He uses the donated money to buy food. He exchanges the old clothes donated to him for the following items that he might need= 
 - other kinds of clothes,

@@ -1,1 +1,0 @@
-_  | Liberal vs Austere

@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 20"
+heading: "Chapter 9 "
 title: "Cost curves"
 date: 2022-03-27
 image: /covers/econsp.jpg
@@ -11,4 +11,9 @@ linkftext: "Index"
 author: Dalisay
 draft: true
 ---
+
+##  Variable cost
+
+
+## Total cost
 

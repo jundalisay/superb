@@ -75,4 +75,5 @@ The patient must also be sure to do sufficient physical labour, because gall-sto
 
 1. Boil a myrobalan seed in cow’s milk, then throw the seed away and drink the milk; or
 2. Take equal quantities of myrobalan, muthá, lodhá and banyan fruits, mix them together and extract their juice. Take two tolas of the juice regularly.
+
 These remedies will bring good results. The latter remedy can be used for diabetes also. The above medicines should be taken on an empty stomach early in the morning.

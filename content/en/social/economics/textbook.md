@@ -41,6 +41,8 @@ _ | Useful Value and Nominal Exchangeable Value
 _ | The Demand model (Effective, Absolute) 
 _ | Consumption Motive
 _ | Demand inflation, Demand deflation 
+
+
 Second Law of Value | 
 _ | Real Price
 _ | The Invisible Hand of the Tao
@@ -90,4 +92,20 @@ _ | Communism for workers
 Divisions of Precrisis Economics | Micro, macro, behavioral, welfare, development, etc
 Future | Artificial intelligence and Extraplanetary pantrynomics -- how to autoamte value-creation and spread it throughout the universe 
 
+
+
+The patterns are:
+
+Topic | Law 1 | Law 2 | Law 3 | Law 4
+--- | --- | --- | --- | --- 
+Name | Nominal | Real (Effort Theory) | Market | Natural 
+Energy Manifestation | Stores of Value | Fixed Capital | Circulating Capital | Taxes
+Energy Origin | Consumption Motive | Force of Capital | Tools of Trade | GDP and Purchasing Power
+Energy Movement | Absolute Demand Effectie Demand | Primary Arbitrage | Secondary Arbitrage | Types of Effort
+Energy Institution | Minimum Requirements | Business Organizations | Banking, Barter system | Government Institutions (Resources Department, Education) 
+Energy Model | Demand Model | Supply Model | Demand-Supply | Targetted Development
+Energy Flow | Demand Inflation Deflation | Core Competency | 4 Revenues | DCTI
+Energy Index | Grain Index | Cost Curves | Economic Table | Ratios GDP
+Energy Scope | Rural | Urban | Regional Trade (ASEAN EU) | UN 
+Philosophies | Socialism | Classical Economics Buddhist Economics | Neoclassical Economics | Communism Shariah Inca System 
 

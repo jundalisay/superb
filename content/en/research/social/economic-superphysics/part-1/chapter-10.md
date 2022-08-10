@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 20"
-title: "Cost curves"
+heading: "Chapter 10"
+title: "The Populist Class"
 date: 2022-03-27
 image: /covers/econsp.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
@@ -9,6 +9,5 @@ linkbtext: Index
 linkf: /research/social/economic-superphysics
 linkftext: "Index"
 author: Dalisay
-draft: true
 ---
 

@@ -5,6 +5,6 @@
     {{ partial "functions/error.html" (dict "context" $shortcode "message" $message) }}
 {{ else }}
     <div class="box">
-        {{ $shortcode.Inner }}
+        {{ $shortcode.Inner | markdownify }}
     </div>
 {{ end }}
