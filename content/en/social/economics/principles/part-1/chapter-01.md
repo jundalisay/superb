@@ -13,6 +13,7 @@ author: Dalisay
 # draft: true
 aliases:
   /social/economics/principles/first-law/
+  /pantrynomics/first-law
 ---
 
 

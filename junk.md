@@ -7,6 +7,22 @@ consciousness: Desire
 
 Prout 9 12 13 15 18 10 Bangladesh 
 
+Topic | Law 1 | Law 2 | Law 3 | Law 4
+---- | --- | --- | --- | --- 
+-Name | Nominal | Real (Effort Theory) | Market | Natural 
+-Energy Manifestation | Stores of Value | Fixed Capital | Circulating Capital | Taxes
+-Energy Origin | Consumption Motive | Force of Capital | Tools of Trade | GDP and Purchasing Power
+-Energy Movement | Absolute Demand Effectie Demand | Primary Arbitrage | Secondary Arbitrage | Types of Effort
+-Energy Institution | Minimum Requirements | Business Organizations | Banking, Barter system | Government Institutions (Resources Department, Education) 
+-Energy Model | Demand Model | Supply Model | Demand-Supply | Targetted Development
+-Energy Flow | Demand Inflation Deflation | Core Competency | 4 Revenues | DCTI
+-Energy Index | Grain Index | Cost Curves | Economic Table | Ratios GDP
+-Energy Scope | Rural | Urban | Regional Trade (ASEAN EU) | UN 
+-Energy Class | Laborer
+-Philosophies | Socialism | Classical Economics Buddhist Economics | Neoclassical Economics | Communism Shariah Inca System 
+
+
+
 
 The failure of Prout to be established from the 1990s to the 2010s manifests as the world having no solution to the current stagflation.
 

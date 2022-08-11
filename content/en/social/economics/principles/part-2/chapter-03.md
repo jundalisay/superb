@@ -1,17 +1,18 @@
 ---
 heading: "Chapter 3"
 title: "The Force of Capital and Business Organizations"
-date: 2022-03-27
-image: /covers/econsp.jpg
+date: 2018-06-03
+image: /photos/objects/money.jpg
 description: ""
-linkb: /social/economics/principles/part-2
-linkbtext: "Part 2"
-linkf: /social/economics/principles/part-2
-linkftext: "Part 2"
+linkb: /social/economics/principles/part-2/chapter-02
+linkbtext: "chapter-02"
+linkf: /social/economics/principles/part-2/chapter-04
+linkftext: "chapter-04"
 author: Dalisay
 ---
 
-
+<!-- heading: "Opportunity Cost to Economics"
+image: / -->
 
 ## Economic Karma
 
@@ -19,10 +20,12 @@ Smith was one of the few Western intellectuals to hint at the concept of dharma,
 
 Instead of the word dharma, however, he named his concept the invisible hand. This had economic applications in The Wealth of Nations and moral applications in The Theory of Moral Sentiments.
 
-Weaponizing the Invisible Hand
+### Weaponizing the Invisible Hand
+
 The main difference between Smith’s invisible hand and Eastern dharma is that the former has moral, spiritual, and practical uses, while the latter emphasizes only its moral and spiritual use.
 
 Buddhism
+
 Eastern philosophers did not dare teach the practical use of dharma because they knew that it would merely lead to corruption and evil.
 
 For example, the Chinese discovered the principles of gunpowder which the Europeans took and weaponized in order to enslave Africa, South America, and Asia and even take Hongkong. Similarly, Western physicists discovered the nuclear fission and weaponized it to drop atom bombs on Japan.

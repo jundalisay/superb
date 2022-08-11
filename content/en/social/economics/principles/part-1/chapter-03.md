@@ -1,13 +1,13 @@
 ---
 heading: "Chapter 3 "
 title: "Consumption Motive"
-date: 2022-03-27
-image: /covers/econsp.jpg
-description: ""
-linkb: /social/economics/principles/part-1
-linkbtext: "Part 1"
-linkf: /social/economics/principles/part-1
-linkftext: "Part 1"
+date: 2020-04-07
+image: /photos/social/fam.jpg
+description: "The Consumption Motive is the opposite of the Production Motive advocated by Capitalism and Mercantilism"
+linkb: /social/economics/principles/part-1/chapter-02
+linkbtext: "Chapter 2"
+linkf: /social/economics/principles/part-1/chapter-04
+linkftext: "Chapter 4"
 author: Dalisay
 aliases:
   /articles/pantrynomics/what-is-the-consumption-motive/	
