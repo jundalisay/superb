@@ -1,19 +1,23 @@
-+++
-title=  "Basics"
-image=  "/photos/physics/quasar.jpg"
-description=  "Basic info about the Essassani"
-linkbtext=  "Index"
-linkb=  "/research/other/alien/essassani"
-linkf=  "/research/other/alien/essassani/excitement"
-linkftext=  "Excitement"
-+++
+---
+title: "Basic Beliefs of the Essassani"
+# heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
+date: 2020-01-01
+image: "/photos/physics/quasar.jpg"
+description: "The Metaphysics followed by the Essassani"
+linkb: "/research/other/alien/essassani"
+linkbtext: "Index"
+linkf: "/research/other/alien/essassani"
+linkftext: "Index"
+---
+
+
 
 The Essassani are a 5th dimensional civilization which is based on unconditional love, ecstasy, fun, following your excitement, being totally non-judgmental, and giving validity and equality to the uniqueness of each individual in their society*.
 
 <!-- Even the Pleiadians look up to the Essassani civilization as being exceptionally spiritually-advanced*. -->
 
 
-> *Superphysics note=  Superhysics is based on David Hume's maxim that mentality creates reality. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. However, no one seems to be keen enough to notice that their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans.<br><br>Unlike the Essassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us.<br><br>We can think of the Essassani as high end quad-core gaming laptops capable of exciting games like multiplayer Call of Duty and DOTA2, while humans being low end Pentium I capable of only Space Invaders.<br><br>Humans who totally follow Essassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Pentium I will not be able to play Call of Duty.<br><br>Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to ideal excitement. It would be like upgrading a Pentium I to play a superior version of Space Invaders, or a Pentium I version of Call of Duty (like Wolfenstein 3D or Doom).<br><br>The key ingredient that makes the Essassani principles fail in the human frame is the ego that is in all humans. Their solution to this is 'so what?' and 'let it go' and 'relax your definitions'. Humans can upgrade themselves to Essassani by evolving genetically with each generation by following such general principles
+> *Superphysics note: Superhysics is based on David Hume's maxim that mentality creates reality. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. However, no one seems to be keen enough to notice that their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans.<br><br>Unlike the Essassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us.<br><br>We can think of the Essassani as high end quad-core gaming laptops capable of exciting games like multiplayer Call of Duty and DOTA2, while humans being low end Pentium I capable of only Space Invaders.<br><br>Humans who totally follow Essassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Pentium I will not be able to play Call of Duty.<br><br>Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to ideal excitement. It would be like upgrading a Pentium I to play a superior version of Space Invaders, or a Pentium I version of Call of Duty (like Wolfenstein 3D or Doom).<br><br>The key ingredient that makes the Essassani principles fail in the human frame is the ego that is in all humans. Their solution to this is 'so what?' and 'let it go' and 'relax your definitions'. Humans can upgrade themselves to Essassani by evolving genetically with each generation by following such general principles
 
 <br>
 
@@ -27,15 +31,13 @@ All "things" are the same one thing vibrating at different rates
 
 Just as water and steam and ice are all the same thing vibrating at different frequencies, likewise, matter and energy are the same substance vibrating at different frequencies.
 
-<br>
 
 Frequency | Type | Analogy
-+++ | +++ | +++
+---| --- |---
 Highest | Consciousness | Steam
 Medium | Spirit | Water
 Lowest | Matter | Ice
 
-<br>
 
 ### Frequencies
 

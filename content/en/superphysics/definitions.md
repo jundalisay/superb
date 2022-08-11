@@ -3,37 +3,37 @@ title: "Superphysics Defintions"
 date: 2021-12-13
 image: "/covers/hume.jpg"
 description : "Superphysics relies on precise defintions which can be eventually followed by future artificially-intelligent systems"
-linkb: /articles/superphysics/
+linkb: /superphysics/
 linkbtext: "superphysics"
-linkf: /articles/pantrynomics/barter-disadvantages-addressed
-linkftext: "Barter disadvantages addressed"
-btext: What are they?
+linkf: /superphysics
+linkftext: "superphysics"
 author: Juan
-icon: /icons/pantry.png
-icontext: pantrynomics icon
 ---
 
-### Superphysics
+
+## Superphysics
 
 Word | Meaning
 --- | ---
 Adharmic | not being in line with one's dharma or the nature of things. This replaces the concept of 'bad' or 'evil' which are based on the limited ego. 
-Dharmic | being in line with one's dharma or the nature of things. This replaces the concept of 'good' which is based on the limited ego.
+Belief | a set of ideas that the ego attaches itself to
 Consciousness | the experiencer of experiences 
-Ego | the feeling of the self 
-Mind | the arena for experiences
-Soul | the mind when viewed independently of the body
 Critical Feeling | the expansion of one's feelings onto other entities other than the self 
-Omnitheism | a paradigm that views all Supreme Entities as different versions of one Supreme Entity 
 Dharma | the inherent, metaphysical nature of any discrete identity with reference to the creator of that identity 
+Dharmic | being in line with one's dharma or the nature of things. This replaces the concept of 'good' which is based on the limited ego.
 Eagle | the equation for everything, according to Superphysics
-Tao | the natural flow of the evolution or mechanics of a discrete identity
-Positive Force | the force or flow of the Tao that leads to unification
-Negative Force | the force or flow of the Tao that leads to separation and isolation
-Positive feelings | feelings that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature
-Negative feelings | feelings that naturally make us feel heavy, such as sadness, greed, hatred, and stress. These are the result of being adharmic or outside of one's true nature
+Ego | the feeling of the self 
+Idea | An original metaphysical object created by the Supreme
 Immoral | the qualities of actions that will lead to negative feelings in the largest spacetime conceivable
+Mind | the arena for experiences
 Moral | the qualities of actions that will lead to positive feelings in the largest spacetime conceivable
+Negative feelings | feelings that naturally make us feel heavy, such as sadness, greed, hatred, and stress. These are the result of being adharmic or outside of one's true nature
+Negative Force | the force or flow of the Tao that leads to separation and isolation
+Omnitheism | a paradigm that views all Supreme Entities as different versions of one Supreme Entity 
+Positive feelings | feelings that naturally make us feel lighter, such as happiness, contentment, love, peace. These are the result of being dharmic or being within one's true nature
+Positive Force | the force or flow of the Tao that leads to unification
+Soul | the mind when viewed independently of the body
+Tao | the natural flow of the evolution or mechanics of a discrete identity
 
 ## Supersociology
 

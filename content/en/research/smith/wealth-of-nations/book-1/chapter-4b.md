@@ -1,15 +1,16 @@
-+++
-title=  "The Origin of Coinage"
-heading=  "Chapter 2a Book 1 of The Wealth of Nations Simplified"
-date=  2020-01-25
-image=  "/covers/wn.jpg"
-description=  "The difficulty of weighing metals led to coinage"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-4a"
-linkbtext=  "Chapter 4a"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-5a"
-linkftext=  "Chapter 5a"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 2a of Book 1 of the Wealth of Nations Simplified"
+title: "The Origin of Coinage"
+date: 2020-01-29
+image: "/covers/wn.jpg"
+description: "The difficulty of weighing metals led to coinage"
+linkb: /research/smith/wealth-of-nations/book-1/chapter-4a
+linkbtext: "Chapter 4a"
+linkf: /research/smith/wealth-of-nations/book-1/chapter-5a
+linkftext: "Chapter 5a"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="9" >}} The inconvenience and difficulty of weighing those metals precisely gave rise to to the institution of coins.
@@ -34,6 +35,7 @@ In Charlemagne's time, the French livre had a Troyes weight pound of silver.
 Back then, the fair of Troyes in Champaign was frequented by all European nations.
 Its weights and measures were generally known and esteemed.
 From the time of Alexander 1st [in 1107] to that of Robert Bruce [in 1329], the Scots money pound had a pound of silver of the same weight and fineness as the English pound sterling.
+
 English, French, and Scots pennies also originally had a real pennyweight of silver, 1/20 of an ounce, and the 1/240 of a pound.
 The shilling too originally stood for a weight.
 
@@ -78,15 +80,15 @@ It intervenes to exchange goods for one another.
 
 These rules determine the 'relative' or 'exchangeable' value of goods.
 
-{{< s v="13" >}} 'Value' has two different meanings.
+{{< s v="13" >}} 'Value' has 2 different meanings.
 
 > 1. It sometimes expresses utility
 
-This is called value in use
+This is called value in use.
 
 > 2. It sometimes expresses the power of purchasing other goods that object conveys.
 
-This is called value in exchange
+This is called value in exchange,
 
 The things which have the greatest value in use have frequently little or no value in exchange.
 
@@ -96,20 +98,23 @@ Nothing is more useful than water:
 - scarce anything can be exchanged for it.
 
 On the contrary, a diamond, has scarce any value in use.
+
 But a many goods may frequently be had for it.
 
-14 To investigate the principles which regulate the exchangeable value of commodities, I shall try to show= 
+
+{{< s v="14" >}} To investigate the principles which regulate the exchangeable value of commodities, I shall try to show= 
 
 - {{< s v="15" >}} The real measure of this exchangeable value, or what is the basis of the real price of all commodities.
 - {{< s v="16" >}} The parts that make up this real price.
-- {{< s v="17" >}} The circumstances which= 
+- {{< s v="17" >}} The circumstances which:
   - sometimes raise some or all of these parts of price above, and
   - sometimes sink them below their natural or ordinary rate,
 - What are the causes which sometimes hinder the market price from coinciding exactly with their 'natural price'.
 
 The market price is the actual price of commodities.
 
-{{< s v="18" >}} I shall try to explain those three subjects in the three following chapters.
+
+{{< s v="18" >}} I shall try to explain those 3 subjects in the three following chapters.
 
 I very earnestly entreat the reader's patience and attention. 
 - Patience is needed to examine a detail which might appear unnecessarily tedious

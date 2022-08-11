@@ -13,84 +13,137 @@ icon: "/icons/sarkar.jpg"
 
 <!-- Psycho-Spiritual Parallelism -->
 
-The Cosmic Consciousness acts as the witnessing entity with the help of His Citishakti. 
+The Cosmic Consciousness acts as the witnessing entity with the help of His Mindpower<!-- Citishakti -->. 
+- The wavelength of this Mindpower is infinite.
+- So we say that it flows in a straight line. 
 
-The wavelength of this Citishakti is infinite. So we say that it flows in a straight line. 
+The átman is the witnessing entity of the unit mind.
+- When the mind <!-- or manah --> takes the atman as its object, the mental waves will get straightened gradually.
+  - This is done by complete surrender. 
+  - There is no other way because the mind is the object of the átman. 
+- In the end, that mind's wavelength will become infinite. 
+  - Those waves will also flow in a straight line.
+  - The mind will then get transformed into the átman. 
+  - This state is called samádhi. 
 
-When the mind or manah takes the átman – the witnessing entity of the unit mind – as its so-called object (this is to be done by complete surrender – there is no other way because actually the mind is the object of the átman), the mental waves will get straightened gradually.
-
-In the end, when its wavelength will, as well, become infinite, and those waves will also flow in a straight line, the mind will get transformed into the átman. This state is called samádhi. 
-
-Here the psychic waves have attained a parallelism with the spiritual waves of the átman. This psycho-spiritual parallelism is known as “idea”, or bháva. When this bháva or idea is conceived on the psychic level, it is “ideology”.
+Thus, the psychic waves attain a parallelism with the spiritual waves of the átman.
+- This psycho-spiritual parallelism is known as “idea” or bháva. 
+- When this idea is conceived on the psychic level, it is “ideology”.
 
 Ideology, therefore, is merely the conception of idea.
+- “Ideology” involves in it a spiritual sense. 
+- It is an inspiration which has a parallelism with the Spiritual Entity.
 
-Hence when we call some materialistic or political principles of a person, party, nation or federation an “ideology”, it is a wrong use of the term. 
+Hence, it is wrong to call some materialistic or political principles of a person, party, nation or federation as an “ideology”. 
 
-“Ideology” involves in it a spiritual sense. It is an inspiration which has a parallelism with the Spiritual Entity.
 
-Shabda or sound is in its initial stage a psychic wave. 
+<!-- ## Sound and Meaning -->
 
-Let us see what artha, or meaning, is.
+## Mental-physical Parallelism 
+
+Sound <!-- Shabda or --> is in its initial stage a psychic wave.   
+
+<!-- Let us see what artha, or meaning, is. -->
 
 We hear a sound, but the concept of the word uttered is not clear till the mental waves are brought in contact with the physical concept involved. 
 
-A child hears the word “cat”. He sees a cat and the mother says, “See, my son! That is the cat which drank your milk yesterday.” The boy associates the word “cat” with the cat seen.
+A child hears the word “cat”. 
+- He sees a cat and the mother says, “See, my son, that is a cat.”
+- The boy associates the word “cat” with the actual cat.
 
 That means he establishes a parallelism between:
-- the mental waves created by uttering the word “cat” and
+- the mental waves created by the sound “cat” and
 - the physical wave coming from the physical form of the cat. 
 
-Hence, psycho-physical parallelism is the meaning of a word which itself (the word) is a psychic wave. 
+Hence:
+- a word or sound is a <!-- psychic --> mental wave which represents a physical thing.
+- a meaning is therefore a parallelism between mind and matter, as <!-- psycho-physical --> mental-physical parallelism 
+  - this parallelism can be either direct or indirect.
 
-So psycho-spiritual parallelism is idea and psycho-physical parallelism is artha, or meaning.
+<!-- is the meaning of a word which itself (the word) is .  -->
 
-This psycho-physical parallelism can be either direct or indirect.
+<!-- So psycho-spiritual parallelism is idea and psycho-physical parallelism is artha, or meaning. -->
 
-Indirect parallelism will be the case when the object expressed in the word (psychic wave) is not perceived directly and thus physical parallelism cannot be made directly, but the physical parallelism has been made with the help of some internal saḿskára already formed or through some description made by some other source.
+Indirect parallelism is when the physical object expressed in the mental word<!--  (psychic wave) --> is not perceived directly. 
+- The physical parallelism cannot be made directly
+- Instead, it is made with the help of:
+  - some internal saḿskára already formed or
+  - some description made by some other source.
 
-Psycho-physical parallelism always tends to make the psychic waves cruder. If the mental wave gets cruder, human beings will be transformed into cruder beings. They take the path of negative pratisaiṋcara. <!-- and spiritual elevation will remain a dream. --> 
+Mental-physical parallelism always tends to make the <!-- psychic --> mental waves cruder. 
+- If the mental wave gets cruder, human beings will be transformed into cruder beings*. 
+- They take the path of reverse subtilification. <!-- negative pratisaiṋcara --> <!-- and spiritual elevation will remain a dream. --> 
 
-But in daily life, we must establish psycho-physical parallelism. But this does not mean that human destiny sealed for ever. 
+> *Superphysics Note: This is why scientists naturally become non-spiritual <!-- and why memorization tends to stifle spiritual growth -->
 
-**We can have a supreme position of the spiritual wave over the physical wave and perceive the latter as one of the manifestations of the spiritual infinite one.**
 
-This is what we mean by Brahmacarya -- it is the assimilation of the psychic wave of the unit mind into the eternal waves of the Macrocosm. 
+
+But in daily life, we must establish mental-physical parallelism. 
+- But this does not mean that human destiny sealed forever. 
+
+**We can impose <!-- have a supreme position of the --> the spiritual wave over the physical wave**
+- **We do this by perceiving the physical wave as one of the manifestations of the spiritual infinite One.**
+- This is what we mean by Brahmacarya.
+  - It is the assimilation of the unit mind's mental wave into the eternal waves of the Macrocosm. 
 
 We give a <!-- Ananda Marga lays down for the spiritual aspirant a --> practical method for this spiritual imposition to prevent the mental waves from becoming cruder. 
+- We have a practice of spiritual auto-suggestion (bháva sádhaná) at the time of action. <!-- Ananda Marga -->
+- This makes the mind tend towards Brahmacarya and thereby towards mental-spiritual parallelism, the only way to ultimate liberation. 
 
-Rather by spiritual practice of auto-suggestion (bháva sádhaná) at the time of action laid down by Ananda Marga, the mind will tend towards Brahmacarya and thereby towards psycho-spiritual parallelism, the only way to ultimate liberation. 
-
-To attain mental liberation, the psychic waves must be made subtler. This is only possible by:
+To attain mental liberation, the mental waves must be made subtler. This is only possible by:
 - entertaining only subtler mental waves or
 - an inspiring spiritual force that makes the mental waves parallel with spiritual ones.
-
-Complete development of the integrated personality is essential for perfect spiritual realization of the human being. 
 
 
 ## Personality
 
-Personality includes all three:
+Complete development of the integrated personality is essential for perfect spiritual realization of the human being. 
+
+Personality is a collaborated composition of 3 bodies:
 
 1. The physical body or jad́ádhára
 2. The mental body or bhávádhára
 3. The spiritual or supramental body, or cetanádhára. 
 
-Personality is a collaborated composition of physical, metaphysical and spiritual bodies. So the proper development of each is essential.
+<!-- Personality is  physical, metaphysical and spiritual bodies. So  -->
 
-For the physical, there must be proper nourishment (for this, see Ananda Marga Caryácarya Part 3, where food habits for spiritual aspirants and others have been dealt with). 
 
-Struggle in the physical field or physical labour helps in purifying the physical structure. The mental or metaphysical body needs physical and mental struggle and also mental food. 
+### Food and Struggle
 
-Mental struggle results from aggressive adoption of newer and progressive thoughts rather than blind clinging to faiths devoid of any rationality, simply because they prevailed in ancient days and were supported by our forefathers. Mental food can be had from ideas (ideas meaning psycho-spiritual parallelism). 
+The proper development of each body is essential. This is done by:
+- proper food
+  - This nourishes the body
+- proper struggle
+  - This purifies the body
 
-The spiritual body is the higher mind, subtler taste or higher taste. When the microcosm keeps itself absorbed in the Macrocosm, the meaner and cruder thoughts wave away. The spiritual body gets strengthened by longing for the Great – an intense desire to be for Him. This is the real bhakti or devotion. 
 
-This is the ultimate and only way to final liberation or final union.
+#### Physical Food and Struggle
+
+Spiritual aspirants must be careful about their food.
+- Physical labour is the struggle in the physical field. <!--  or  helps in purifying the physical structure.  -->
+
+#### Mental or Metaphysical Food and Struggle
+
+<!-- The  body needs:
+- physical and mental struggle
+- mental food.  -->
+
+Mental food is sourced from ideas that represent mental-spiritual parallelism. 
+
+Faiths devoid of any rationality prevailed in ancient days and were supported by our forefathers.
+- Mental struggle results from aggressive adoption of newer and progressive thoughts instead of blindly clinging to such faiths. 
+
+#### Spiritual Food and Struggle
+
+The spiritual body is the higher mind.
+- It is a subtler taste or higher taste. 
+
+When the microcosm keeps itself absorbed in the Macrocosm:
+- the meaner and cruder thoughts wave away. 
+- the spiritual body gets strengthened by longing for the Great – an intense desire to be for Him. 
+  - This is the real bhakti or devotion. 
+  - This is the ultimate and only way to final liberation or final union.
 
 Shrii Shrii Shankaracharya has declared bhakti as the best way to mokśa.<!--  – the ultimate liberation: Mokśakárańa samagryáḿ bhaktireva gariiyasii. -->
 
 <!-- 4 June 1959 -->
-
-
-
