@@ -1,12 +1,12 @@
 ---
-heading: "Chapter 3"
+heading: "Chapter 3 of the Introductory Chapter"
 title: "The Metaphysics of Value"
 linkTitle: Chapter 3
 heading: Nominal, Real, Natural, Market Prices
 date: 2022-01-05
 dateorig: Originally written in 2016
-image: /covers/econsp.jpg
-# image: /photos/econ/bake.jpg
+# image: /covers/econsp.jpg
+image: /photos/econ/bake.jpg
 description: "To prevent economic disorder, we correct the mistakes of Economics by introducing he Four Laws of Value derived from Adam Smith. In line with Superphysics, Pantrynomics sees value as a wave and price as a particle"
 type: "featured"
 # linkb: "/social/economics/principles/"

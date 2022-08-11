@@ -84,7 +84,7 @@ The income tax in this case is progressive--the rate increases with the increase
 
 **Result: Pass Somewhat**
 
-<br>
+
 
 ### Test 2: Is it certain and not arbitrary?
 
@@ -92,7 +92,6 @@ Since the amount to be paid can be arrived at clearly by using the table, this t
 
 **Result: Pass**
 
-<br>
 
 ### Test 3: Is it convenient?
 
@@ -100,7 +99,7 @@ The convenience of the tax in this case is not so perfect since, just from the i
 
 **Result: Fail**
 
-<br>
+
 
 ### Test 4: Is it cost-efficient?
 

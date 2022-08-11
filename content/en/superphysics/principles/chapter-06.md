@@ -10,6 +10,8 @@ linkf: /superphysics/principles/god
 linkftext: God-is-existence
 author: Juan
 icon: /icons/sp.png
+aliases:
+  /superphysics/principles/mind
 ---
 
 

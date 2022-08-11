@@ -1,76 +1,30 @@
 ---
-title: "We're in a Matrix!"
-heading: "The Nature of Reality"
-date: 2019-01-01
-image: /photos/tech/mac.jpg
-description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
-linkb: "/"
-linkbtext: "Home"
-linkf: /superphysics/principles/idea
-linkftext: "Everything-is-an-idea"
+title: "Everything is an Idea"
+#, Propelled by Feelings
+heading: "Chapter 2"
+# heading: "Inside the Matrix or the Mind of the Brahma"
+# date: 2020-01-02
+date: 2020-12-30
+image: /photos/idea.jpg
+description: "Everything is an idea of the Creator of that existence"
+linkb: /superphysics/principles/matrix
+linkbtext: "we're-in-a-matrix"
+linkf: /superphysics/principles/feelings
+linkftext: The Nature of Feelings
 author: Juan
 icon: /icons/sp.png
-aliases:
-  /articles/superphysics/we-are-in-a-matrix/
+tags: ['Lao Tzu', 'Yin Yang']
+# categories: ['Superphysics']
+alises:
+  /articles/superphysics/everything-is-an-idea/
 comments:
   - img: "/avatars/huong.jpg"
-    content: "What's the real solution to Covid?"
-    commentdate: 2022-04-01
+    content: "Why can't they end Covid-19?"
+    commentdate: 2022-04-01   
 ---
 
-We know the existence of thing through our perceptions of it. Each perception has two aspects:
-- physical
-- metaphysical
 
-For example, when we see a mug, we have both the physical perception of a mug and a metaphysical idea of a mug nearly at the same time. 
-
-{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics">}}
-
-
-## The Two Domains
-
-This means that the mug exists in two domains of reality:
-- the physical mug exists in the physical domain, which we see and touch. This mug is made of glass. 
-- the metaphysical mug exists in the metaphysical domain, as our idea of what a mug is. This mug-idea is made of aether.
-
-Hence, the physical domain exists only because of our senses, most commonly by our sight and touch which are really 'electromagnetic' types of perception. 
-
-{{< quote ava="aris" >}}
-ALL men by nature desire to know. An indication of this is the delight we take in our senses which are useful and loved for themselves. The most important is the sense of sight. We prefer seeing over the other senses.  
-<cite>The Metaphysics by Aristotle Simplifed, Book 1, Chapter 1</cite>
-{{< /quote >}}
-
-However, the metaphysical domain exists inside our abstract minds and is infinitely larger and richer than physical domain of our senses. We call this domain "aethereal" or made of aether or akasha in Hinduism. 
-
-{{< quote ava="soc" >}}
-If Person A were to go from the lower to the middle region, he would imagine that he is going up. Person B is in the middle region but has never seen the true upper world. He sees Person A coming and imagines that he has arrived in the upper region. If Person A goes back down again, Person B would imagine that he was descending. All that would arise out of his ignorance of the true upper, middle, and lower regions.
-<cite>The Republic by Plato Simplifed, Book 9, Chapter 3</cite>
-{{< /quote >}}
-
-{{< quote >}}
-These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements... The brightest part is called the aether. The most turbid sort is mist and darkness.
-<cite>Timaeus Simplifed</cite>
-{{< /quote >}}
-
-
-These 3 regions of metaphysical domain, physical domain, and current perception (as a merger of both) are expressed in our Superphysics icon.
-
-{{< img src="/icons/sp100.png" size="is-48x48" alt="Superphysics icon">}}
-
-- The blue upward triangle reprsents the metaphysical domain going upwards
-- The green downward triangle represents the physical domain going 'down to earth'
-- The yellow circle represents the focus of the mind as the here and now, as a combination of both. 
-
-The balance of the triangles represents the balance between the abstract and the concrete. We can't focus on useless theory all the time. Nor can we go around doing physical actions without thinking of their causes and effects. 
-
-Inaction leads to nothing. But haste, on the contrary, also makes waste. 
-
-Human minds have limited abilities and so our focus must be relevant in order to maximize and concentrate what little we have. For example, as a species, it would be better to focus on solutions to global warming than to think of how to make more money, create a new cryptocurrency, or predict the stock market. The latter ideas are really based on selfish-interest instead of the common-interest.
-
-
-## Metaphysical Idea versus Physical Matter
-
-This concept of dividing reality into two domains has practical uses. 
+In the previous chapter, we divided reality into 2 domains. This has practical uses. 
 
 For instance, we sometimes perceive something totally new. When Covid first struck in December 2019 in Wuhan, doctors had **no metaphysical idea of it**, even if they could see the physical disease. 
 
@@ -78,10 +32,14 @@ In this case:
 - the physical disease started to exist through the senses of the Wuhan doctors
 - the metaphysical idea existed in Nature, but not in human minds. It only existed in minds after the scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19
 
-This strengthens the fact that physical things are tangible and perceivable through our five senses, while metaphysical things are perceivable through our intellect and feelings. 
+
+## Metaphysical Idea versus Physical Matter
+
+This strengthens the fact that physical things are tangible and perceivable through our five senses, while metaphysical things are perceivable through our intellect and feelings.
+
+{{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics">}}
 
 The mug only existed after the maker of mugs had the idea of a mug, as to be able to create a physical mug. It follows that Covid-19 existed after Nature had the idea for it, and that its solution already exists in Nature*.
-
 
 
 {{< me date="December 14, 2021" >}}
@@ -94,9 +52,13 @@ The mug only existed after the maker of mugs had the idea of a mug, as to be abl
 {{< /me >}}
 
 
-Thus, every physical thing or perception has a corresponding metaphysical idea or feeling, and that the latter exists before the former does.
+Thus:
+- every physical thing or perception has a corresponding metaphysical idea or feeling
+- every idea or feeling exists before its physical version does.
 
-For example, before a novel about a cat is written in a physical form, the idea for the novel must exist first. All philosophical debates on ultimate causes can thus be categorized as 'chicken-vs-egg' as:
+For example, before a novel about a cat is written in a physical form, the idea for the novel must exist first. 
+
+All philosophical debates on ultimate causes can thus be categorized as 'chicken-vs-egg' as:
 - pro-metaphysicality as ideas, spirit, and Plato's forms (this is the chicken)
   - In Hindu philosophy this manifests as Vedanta and Buddhism
   - In Chinese philosophy, this manifests as Taoism 
@@ -116,10 +78,12 @@ Superphysics is in between both abstract philosophy and material science.
 - It is grounded on the metaphysical, but can quickly extend down to sensory evidence and practicality. 
 - It sees the physical brain and its hormones as the effect of the metaphysical soul and its feelings. 
 
-Unlike science which manipulates the brain and hopes that it changes the soul or mind, Superphysics works directly on the soul in order to resolve its physical issues with the brain. 
+Unlike science which manipulates the brain and hopes that it changes the soul or mind, Superphysics works directly on the soul in order to resolve its physical issues with the brain.
 
 
-## Tap into your feelings, the deeper the better
+<!-- ## Tap into your feelings, the deeper the better -->
+
+## All Ideas are Static, All Feelings are Dynamic
 
 The author of the novel about a cat starts to write it down by tapping into his feelings and ideas. These keep on changing dynamically as a flow which allow the cat's story to take a metaphysical shape. 
 
@@ -147,7 +111,7 @@ For example, a cat character in a novel 100 pages is actually made up of 100-cat
 
 <!-- a website must be coded first before it actually exists as a physical website, deployed by its developer. But before the web developer codes the website, he must first have the idea for it. The flow of his changing ideas and feelings about the website then influence the changes to the code which then changes the actual website.  -->
 
-We can then make an analogy that the Creator of the universe began writing Its ideas onto the physical domain as the 'Big Bang'* as the first page of the novel of reality. The changes in the universe then arose from Its changing ideas and feelings about it, just as the novel changes through time.
+We can then make an analogy that the Creator of the universe began writing Its ideas onto the physical domain as the 'Big Bang'* as the first page of the novel of reality. The changes in the universe then arose from the Creator's changing ideas and feelings, just as the novel changes through time.
 
 Unlike Physics that only has physical time, Superphysics has both physical and metaphysical time:
 
@@ -162,8 +126,8 @@ The Creator rejoiced when He saw his creation moving and living..The nature of t
 
 These ideas and feelings, thus, flow onto the physical domain in order to create reality in real-time:
 
-- ideas are particles
-- feelings are waves
+- We define ideas as metaphysical particles
+- We define feelings as metaphysical waves
 
 This is similar to:
 

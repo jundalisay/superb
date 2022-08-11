@@ -1,27 +1,30 @@
 ---
-title: "Everything is an Idea"
+title: "Desire and the Two Forces"
+# title: "Everything is an Idea"
 #, Propelled by Feelings
-heading: "Inside the Matrix or the Mind of the Brahma"
+heading: "Chapter 2"
+# heading: "Inside the Matrix or the Mind of the Brahma"
 date: 2020-01-02
-image: /photos/idea.jpg
-description: "Everything in existence is an idea of the Creator of that existence"
+image: /photos/yinyang.jpg
+description: "Everything in existence is created by the two forces"
+# an idea of the Creator of that existence
 linkb: /superphysics/principles/matrix
 linkbtext: "we're-in-a-matrix"
 linkf: /superphysics/principles/feelings
 linkftext: The Nature of Feelings
 author: Juan
 icon: /icons/sp.png
-tags: ['David Hume', 'Self']
+tags: ['Lao Tzu', 'Yin Yang']
 # categories: ['Superphysics']
-alises:
-  /articles/superphysics/everything-is-an-idea/
 comments:
   - img: "/avatars/huong.jpg"
     content: "Appreciate the deep insights!"
     commentdate: 2022-04-01  	
 ---
 
-The [previous post](/superphysics/principles/matrix/) explained that the Creator of the universe created the universe from Its Own metaphysical ideas and feelings, just as a novelist writes a novel from a stream of ideas and feelings coming from his metaphysical mind. 
+
+
+The previous chapter explained that the Creator of the universe created the universe from Its Own metaphysical ideas and feelings, just as a novelist writes a novel from a stream of ideas and feelings coming from his metaphysical mind. 
 
 The purpose of ideas is to create experience. 
 
@@ -103,5 +106,3 @@ The Creator had an idea of tastiness among Its infinite ideas. So It created the
  -->
 
 The timespan from the Big Bang to the actual riding of the car might take billions of years from our perspective. But since time is a product of the Creator, then It is not bound by that time. To It, the closing of the loop from the idea of the car to the experience of the car is instantaneous.  
-
-The next post will explain the nature of ideas. 

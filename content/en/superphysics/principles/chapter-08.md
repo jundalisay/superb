@@ -10,10 +10,12 @@ linkf: /superphysics/what-is-superphysics
 linkftext: "what-is-superphysics?"
 author: Juan
 icon: /icons/sp.png
+aliases:
+  /superphysics/principles/consciousness
 ---
 
 
-In the [previous post](/superphysics/principles/god), we explained that there are only 2 things in Existence:
+In the [previous chapter](/superphysics/principles/god), we explained that there are only 2 things in Existence:
 
 1. Experience
 2. Experiencer

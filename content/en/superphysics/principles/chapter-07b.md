@@ -1,6 +1,7 @@
 ---
+heading: "Chapter 6b"
 title: "What is the Impartial Spectator?"
-heading: "The moral sense in all humans"
+# heading: "The moral sense in all humans"
 date: 2017-09-21
 image: /photos/meta/buddhism.jpg
 description: "The Impartial Spectator of Adam Smith is the moral sense in all humans"
@@ -14,6 +15,7 @@ aliases:
   /articles/social/what-is-the-impartial-spectator
   /social/supersociology/what-is-the-impartial-spectator
   /social/supersociology/impartial-spectator/
+  /superphysics/principles/impartial-spectator
 ---
 
 

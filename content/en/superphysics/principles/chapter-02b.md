@@ -11,6 +11,7 @@ linkftext: "consciousness"
 author: Juan
 icon: /icons/sp.png
 icontext: Superphysics icon
+# draft: true
 ---
 
 The law of conservation of mass and energy is:

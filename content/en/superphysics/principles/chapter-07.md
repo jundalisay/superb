@@ -1,5 +1,5 @@
 ---
-title: "'God' and Existence"
+title: "'God and Morality"
 heading: "Omnitheism Explained"
 date: 2015-09-09
 # 2020-01-04
@@ -11,7 +11,10 @@ linkf: /superphysics/principles/consciousness
 linkftext: "What-is-consciousness?"
 author: Juan
 icon: /icons/sp.png
+aliases:
+  /superphysics/principles/god
 ---
+
 
 The question 'Does God exist?' can be answered by 'Can you perceive Existence?'. 
 
