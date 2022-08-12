@@ -11,3 +11,12 @@ linkftext: "Part 1"
 author: Dalisay
 ---
 
+
+## Healthcare
+
+## Housing
+
+## Food Security 
+
+## Education 
+

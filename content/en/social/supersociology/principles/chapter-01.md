@@ -1,6 +1,8 @@
 ---
-title: "What is the Society Organism and Social Networkism?"
-heading: "The System to Harmonize Minds Into a Society"
+title: "The Society Organism"
+heading: "Chapter 1"
+# title: "What is the Society Organism and Social Networkism?"
+# heading: "The System to Harmonize Minds Into a Society"
 image: "/photos/social/protests.jpg"
 date: 2021-07-01
 description : "A society is three or more entities working towards a common interest or goal"
@@ -13,28 +15,47 @@ icon: /icons/spsoc.png
 aliases:
   /articles/supersociology/what-is-social-networkism
   /social/social-networkism/
+  /social/supersociology/social-networkism/
 ---
 
 <!-- A society needs 3 entties. The third entity becomes the arbiter. Without the third entity, then the relationship is a partnership which is arbitrary.  -->
 
 
-{{< me date="July 1, 2021" >}}
+<!-- {{< me date="July 1, 2021" >}}
 Overhauled on  to harmonize Socrates with Hume and Smith
 {{< /me >}}
 
-Our proposed science of [pantrynomics](/pantrynomics) is based on a new paradigm that sees individual entities as naturally part of a larger group of entities called a society.
+Our proposed science of [pantrynomics](/pantrynomics) is based on a new paradigm that sees individual entities as naturally part of a larger group of entities called a society. -->
 
-Unlike normal definitions of society*, our definition describes a society* as a kind of metaphysical organism or mind that is made up of individual minds that agree to be part of that society. Since materialistic science views minds as coming from the physical brain, then we instead use the word 'soul' or 'aethereal mind' to refer to a mind that can exist without a physical brain or neural network. 
+Modern Sociology defines a society as "a group of people who live in a defined geographic area, who interact with one another, and who
+share a common culture."
+
+Our definition looks at society from a metaphysics-first perspective. We define a society as a kind of metaphysical organism or mind that is made up of individual minds that agree to be part of that society either implicitly or explicitly.
+
+- Implicit agreement is by convenience. 
+- Explicit agreement is by choice. 
+
+Since science views minds as coming from the physical brain, we instead use the word 'soul' or 'aethereal mind' to refer to a society. In this way, a society can refer to:
+- the soul of society, or
+  - This the source of its culture in the abstract
+- the physical society
+  - This the source of its culture in the physical sense
+
 
 English | Superphysics | Sanskrit
 --- | --- | ---
 Soul | Aethereal Mind | Jivatman
-Mind | Physical Mind (Aetherea Mind connected to body) | Jivatman
+Mind | Physical Mind (Aethereal Mind connected to body) | Jivatman
 Consciousness | Experiencer | Atman
 
 
 
-This makes the soul free from physical limitations and gives it flexible qualities that are similar to sound and music, which is the medium to transmit feeling-information. For example, a tune can change either gradually or immediately from melodic to rhythmic, just as a mind can choose to switch from eating American food to Chinese food gradually or immediately.
+By referring to a society as a soul, we:
+- free it from physical limitations
+- give it flexible qualities that are similar to sound and music
+  - These flexible qualities resemble waves, which is the medium to transmit feeling-information. 
+
+For example, a tune can change either gradually or immediately from melodic to rhythmic, just as a mind can choose to switch from eating American food to Chinese food gradually or immediately.
 
 ![The soul of society](https://sorasystem.sirv.com/graphics/soulsociety.png)
 

@@ -21,6 +21,7 @@ aliases:
   /pantrynomics/basic-universal-revenue
   /social/economics/bur
   /economics/basic-universal-revenue  
+  # /social/economics/solutions/bur
 ---
 
 
@@ -53,8 +54,6 @@ Adam Smith, the founder of Economics, would be against UBI because:
 Neoliberals want UBI because it will give money to the poor who will then use it to buy goods and services of businesses. It increases sales and therefore profits, even if there is no assurance whether those poor people will spend it wisely. More importantly, it is guaranteed revenue for 
  -->
 
-<!-- who lend the free money which otherwise would find no use in the bank's vaults. -->
-
 Development banks want UBI for them to find use for their idle money which is of no value when not circulating. 
 
 **Therefore, UBI is an easy sign that the profits in lending are very low, that banks have to find radically new business models.** 
@@ -67,6 +66,7 @@ Governments of democratic countries like Brazil and the Philippines want it beca
 
 <!-- Canada and Finland, which are experimenting with UBI, are coincidentally the 4th and 5th largest gambling nations according to CNBC. Ontario, where UBI will be tested in Canada, also has the largest 2008 gambling revenue  of all the Canadian provinces. -->
 
+
 ## Microfinance is Better
 
 Smith would rather be in favor of microfinance which are small loans, usually given to poor people to start a micro-business or cooperative. 
@@ -74,6 +74,7 @@ Smith would rather be in favor of microfinance which are small loans, usually gi
 - The wages would then be used to pay for the education of children
 
 Loans are supposed to serve as one's capital, and thus, are not supposed to be spent recklessly as an expense. A capital pays for itself, but an expense does not.
+
 
 ### Problems with Microfinance
 
@@ -88,17 +89,12 @@ This solution would not work if there are many regulations against self-made goo
 
 ### Pros and Cons
 
-<!-- Solving Microfinance, UBI, CCT through -->
-
 Microfinance, UBI, CCT also have pros and cons:
 
 _ | UBI | CCT | Microfinance
 --- | --- | --- | ---
 Pros | It mobilizes productivity liberally by feeding it cash | It prevents this mobilization from being unproductive by imposing conditions | Its conditions are simpler -- the debtor just needs to repay regularly
 Cons | It has no control to prevent this moblization from being unproductive | Its conditions require administration which requires a big expense | Few people are eligible
-
-
-<!--   can do this in the short term and so few people can experience its benefits -->
 
 
 ## Pointization Solution
@@ -171,14 +167,6 @@ A donor can jumpstart the economy by giving food to the poor in exchange for poi
 
 In this way, BUR creates full employment witout being a debt-trap like microfinance nor encouraging gambling as what happens with UBI. It would also be cheaper to administer if it were done online.
 
-<!-- **The question then becomes: If UBI doesn't work, then how can we solve poverty and inequality?**
-
-Adam Smith points to the [effort theory of value](/articles/pantrynomics/the-effort-theory-of-value) as the secret sauce of his poverty-and-inequality-free system.
- -->
-
-
-<!-- <img src="https://sorasystem.sirv.com/photos/mars.jpg" width="300px"> -->
-
 <!-- It might not make sense to make food as the foundation of an economic system, now that food is plentiful. But it will make more sense when global warming and overpopulation starts making food less easy to come by. It will make the most sense in future human colonies in other planets where food is not guaranteed. -->
 <!-- 
 > *The problem is that humans creatures are often lazy in mind and body and so wealthy societies often abandon work (cause) and just focus on wealth (effect). They start outsourcing their work to poorer countries and gamble with existing wealth in an effort to multiply it with zero effort. In time, the gambling creates financial crises, while poorer countries start to become wealthier and outsell the wealthy countries who have long lost the desire for hard work and merely want everything to come easy. This happened with the Roman Empire and Song dynasty outsourcing their military work to German and Mongol barbarians respectively, only to find themselves being ruled by those "uncivilized" people later on. The fact that the Great Britain outsourced their work to the American colonies and that the modern Americans outsourced their work to Communist China proves that this human propensity is still in force, and thus, is a principle observable in the human species throughout time and space. The dynamics of this principle will be explained further in Social Superphysics.
@@ -203,10 +191,6 @@ Instead of exchange, the general actions are either deposit or withdraw. This ma
 <!-- The store of value will be implemented as a resource credit system for deposting the value of work, while the tool of trade will be implemented as the claiming system that will convert the points into real goods or services. The resource credits then manifest as points that represent food. -->
 
 <!-- In both depositing and claiming, the place of transaction, called a hub, will determine the point-value of the goods or services rendered. The competition between hubs ensures that the points will not be unfair, while the non-transferability of the points ensures that they cannot be amassed by any single person. Thus this points system, that is ultimately represented by grains, cannot be called a money or currency. Instead, we call this **Basic Universal Revenue** or BUR. -->
-
-
-<!-- {{< img src="https://sorasystem.sirv.com/graphics/rewards.jpg" cap="Point-rewards systems are commonly used to incentivize humans to do specific things" alt="Points" >}} -->
-
 
 
 Type | Universal Basic Income (UBI) | Basic Universal Revenue (BUR)
@@ -291,8 +275,6 @@ For example, the bakery owner closes his business in `P` to move to `R`.
 
 
 <!-- In 2015, my model predicted a 10+ year crisis period sparking in 2019, divided into three waves. The first wave turned out to be Covid. The second wave is supposed to be a global money crisis, and the third one will be some kind of conflict. While BUR is designed forthe current Covid recession, Pool is designed for that future money crisis. Had BUR been in place in 2019, then the Covid pandemic wouldn't have caused huge budget deficits as points could've been given out instead of cash. But in hindsight, had there been no Covid relief bill in many countries, then there would be no future monetary crisis. Without that second crisis, there would be no way to prove that a Pool clearing system would be more beneficial than the current commercial system. -->
-
-
 
 <!-- 1. The first tool is money-payment which stores the value in fiat
 2. The second tool is barter contracts which will usually manifest as job contracts, storing value as skill or labor 

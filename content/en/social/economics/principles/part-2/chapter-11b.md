@@ -3,16 +3,20 @@ title: "Neoclassical Economics vs Classical Economics"
 heading: "Marginalism vs Pantrynomics"
 date: 2020-01-16
 image: "/covers/keynes.jpg"
-description : We bring back the models of Classical economics to replace those created by modern economics of the Industrial Revolution. The models above come from actual economic data and are not merely theoretical. When combined with data science, these new models gain a predictive ability that is lacking in Economics. In 2015, our model correctly predicted a long crisis sparking in 2019 which turned out to be Covid
-linkb: /pantrynomics/four-laws-of-value
-linkbtext: "four laws of value"
-linkf: /pantrynomics/alternatives-to-money
-linkftext: alternatives-to-money
+description : 
+linkb: /social/economics/principles/part-2/chapter-11
+linkbtext: "Classical Economics"
+linkf: /social/economics/principles/part-3/chapter-01
+linkftext: "Third Law"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
+aliases:
+  "/social/economics/neoclassical-classical"
 ---
 
+
+<!-- We bring back the models of Classical economics to replace those created by modern economics of the Industrial Revolution. The models above come from actual economic data and are not merely theoretical. When combined with data science, these new models gain a predictive ability that is lacking in Economics. In 2015, our model correctly predicted a long crisis sparking in 2019 which turned out to be Covid -->
 
 <!-- linkb: articles/pantrynomics/nash-equilibrium-fallacy"
 linkbtext: "nash-equilibrium-fallacy"

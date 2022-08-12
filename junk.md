@@ -1,3 +1,82 @@
+title: "Site Overhauled"
+date: 2021-07-07
+
+We overhauled our site with a faster theme, organized under 3 headings:
+- Constitutional virtues (morals)
+- Bayanihan economy (economics)
+- Federalism (politics)
+
+
+MEDICAL SUPERPHYSICS
+- varna dharma
+- aging
+- sexuality
+
+
+LAW, POLITICS, SOCIETY
+
+Commmon interest
+Group feeling
+
+crime sin
+
+culture
+
+4 classes
+Law of social cycles 
+  Democrat republican 
+  Forms of govt
+
+Religions
+    Islam 
+    Buddhism 
+    Judaism
+    Sikhism
+    Liberalism 
+
+Marriage     
+
+social stratification 
+
+technology viral videos
+
+Male 
+Legal systems
+Executive 
+  soft power hard power 
+
+female
+justice
+resources
+
+
+society-nation-state
+
+Constitution
+UN 
+NATO 
+
+social topographic behavior 
+
+1 
+    race gender
+2
+    arts
+3 
+4
+   
+5
+    Business
+6
+7
+    religion 
+
+Ideology 
+
+
+
+
+
 matrix : domains, feelings
 idea : positive negative
 feelings: critical feelings over critical intellect

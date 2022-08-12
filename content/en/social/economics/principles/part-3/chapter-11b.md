@@ -1,7 +1,8 @@
 ---
 heading: "Chapter 11b"
 title: "What Defines Capitalism?"
-date: 2015-07-24
+# date: 2015-07-24
+date: 2021-12-16
 image: /photos/econ/crash.jpg
 description: "Pantrynomics defines capitalism as an economic system that uses outside ownership to amass private profits"
 linkb: /social/economics/principles
@@ -12,6 +13,8 @@ author: Dalisay
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
+aliases:
+  /social/economics/capitalism
 ---
 
 
@@ -237,3 +240,4 @@ By defining capitalism, we can better filter out the economic policies that ensl
 Added Mill's definition of capitalism as the origin of modern capitalism<
 11/2015: Added Marx' attack on Mill
 {{< /me >}}
+

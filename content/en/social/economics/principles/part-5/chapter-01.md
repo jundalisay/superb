@@ -13,7 +13,9 @@ author: Juan
 icon: /icons/pantry.png
 aliases:
   /articles/taonomics/timeline-of-economic-thought
+  /social/economics/timeline
 ---
+
 
 
 The differences in the economic philosophies of different time periods can be attributed to the main ideas or mentalities prevalent during those times, as the effect of new experiences or 'impressions' on the mind. We chronologically list the main events that may have caused people to have those new experiences from which they developed new ideas.

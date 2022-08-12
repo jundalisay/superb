@@ -1,7 +1,8 @@
 ---
 heading: "Chapter 1"
 title: "The Third Law of Value"
-date: 2022-01-03
+date: 2021-12-31
+# date: 2022-01-03
 dateorig: Originally written in 2016
 image: /graphics/econ/law3.jpg
 description: "The Third Law of Value states that value is circulated through the economy through fair exchanges."

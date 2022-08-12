@@ -2,7 +2,8 @@
 title: "What is Consciousness?"
 # heading: "Consciousness is Binary as the Other Side of Existence"
 heading: "Chapter 9"
-date: "2019-07-21"
+# date: "2019-07-21"
+date: 2020-12-22
 image: /photos/physics/ai.jpg
 description: "Consciousness is the perception of ideas and feelings"
 linkb: /superphysics/principles/god

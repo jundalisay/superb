@@ -1,7 +1,8 @@
 ---
-title: "What is the Common Interest?"
-heading: "The Conscience of Society"
-date: 2019-12-17
+heading: "Chapter 3"
+title: "The Common Interest as The Conscience of Society"
+# date: 2019-12-17
+date: 2021-06-29
 image: "/photos/team.jpg"
 description: "The Common Interest is the conscience of society and is part of bhagavad dharma (human dharma)"
 linkb: /social/supersociology/principles/law-social-cycles
@@ -15,6 +16,7 @@ aliases:
   /articles/supersociology/what-is-common-interest
   /supersociology/common-interest/
 ---
+
 
 A soul manifests in the physical dimension through a physical body which can be thought of as its vehicle. To maintain itself, the soul develops two things: 
 

@@ -1,7 +1,9 @@
 ---
+heading: "Chapter 7"
 title: "Everything is a Mind"
-heading: "Inside the Mind of the Brahma"
-date: 2020-01-01
+# heading: "Inside the Mind of the Brahma"
+# date: 2020-01-01
+date: 2020-12-25
 image: /photos/physics/ai.jpg
 description: "Everything in existence is an idea of the Creator of that existence"
 linkb: /superphysics/principles/chapter-06

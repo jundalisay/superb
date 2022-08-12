@@ -1,7 +1,9 @@
 ---
-heading: "The Necessary Effect of the 2 Forces"
+heading: "Chapter 6"
+# heading: "The Necessary Effect of the 2 Forces"
 title: "The Nature of Feelings"
-date: "2022-08-01"
+#date: "2022-08-01"
+date: 2020-12-26
 image: /photos/psych/freedom.jpg
 description: "Active sensing is the foundation of critical thinking (as intellect), as well as critical feeling (as kindness and fellow-feeling)"
 linkb: /superphysics/principles/chapter-05

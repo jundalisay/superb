@@ -1,7 +1,8 @@
 ---
+heading: "Chapter 4"
 title: "Karma and Cause and Effect"
-heading: "Karma explained"
-date: 2020-04-12
+# date: 2020-04-12
+date: 2020-12-28
 image: /photos/meta/buddhism.jpg
 description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
 linkb: /superphysics/principles/chapter-03

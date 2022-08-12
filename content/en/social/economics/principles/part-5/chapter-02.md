@@ -1,6 +1,7 @@
 ---
-title: "Economic Systems for Mars"
-heading: "How Pantrynomics Can Make a Readily-deployable system for Mars"
+heading: "Chapter 2"
+title: "The Future of Economic Superphysics"
+# heading: "How Pantrynomics Can Make a Readily-deployable system for Mars"
 date: 2019-10-17
 image: /photos/physics/mars.jpg
 description: "Pantrynomics can be used to create economic systems for Mars and other planets"
@@ -14,6 +15,7 @@ icon: /icons/pantry.png
 aliases:
   /social/economics/economic-system-for-mars
 ---
+
 
 Jeff Bezos recently announced his vision of moving polluting industries to the moon in order to save the Earth, using his reusable rockets. His logic is that the gravity in the moon is 1/6 of that of the Earth and so moon-based industries will require less energy. 
 

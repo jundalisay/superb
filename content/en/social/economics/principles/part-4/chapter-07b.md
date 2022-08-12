@@ -1,5 +1,5 @@
 ---
-title: "Two DCTI Scenarios from Pantrynomics"
+title: "Two DCTI Scenarios"
 date: 2021-06-28
 image: "/photos/medieval/cave.jpg"
 description : "Here are two Scenarios viewed according to the DCTI model"

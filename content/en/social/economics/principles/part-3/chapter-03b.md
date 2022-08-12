@@ -1,7 +1,8 @@
 ---
 title: The 3 Problems with Money
 heading: "Mo' Money, Mo' Problem"
-date: 2020-04-18
+# date: 2020-04-18
+date: 2021-12-28
 image: "/photos/objects/money.jpg"
 description: Money conquered the world after the Spanish discovered silver mines in South America. This gave fuel for colonization and the oppression of the world.
 linkb: /social/economics/last-capitalist
@@ -11,7 +12,10 @@ linkftext: alternatives-to-money
 youtube: "OV1JHTiDdkQ"
 author: Juan
 icon: /icons/pantry.png
+aliases:
+  /social/economics/problems-with-money
 ---
+
 
 <!-- Real value manifests as the ratio of goods and services relative to each other and not to money. This allows the taonomy to work with or without money -- perfect for financial crises
 
