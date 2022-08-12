@@ -1,181 +1,98 @@
 ---
-title: "Everything is a Mind"
-heading: "Inside the Mind of the Brahma"
-date: 2020-01-01
-image: /photos/physics/ai.jpg
-description: "Everything in existence is an idea of the Creator of that existence"
-linkb: /superphysics/principles/idea
-linkbtext: Everything is an idea
-linkf: /superphysics/principles/god
-linkftext: God-is-existence
+heading: "The Necessary Effect of the 2 Forces"
+title: "The Nature of Feelings"
+date: "2022-08-01"
+image: /photos/psych/freedom.jpg
+description: "Active sensing is the foundation of critical thinking (as intellect), as well as critical feeling (as kindness and fellow-feeling)"
+linkb: /superphysics/principles/chapter-05
+linkbtext: "Desire"
+linkf: /superphysics/principles/chapter-07
+linkftext: "Mind"
 author: Juan
 icon: /icons/sp.png
-aliases:
-  /superphysics/principles/mind
 ---
 
 
-{{< q >}}
-"Then," you ask, "do you mean to tell us that THE ALL is LIFE and MIND?" 
-<br/>
-Yes! and No! is our answer.
+## Feelings are Superior to Intellect
 
-<cite>The Kybalion</cite>
+The perception of idea and experience are both done by the intellect. 
+
+However, the movement from idea to experience are powered by desire. Without desire, idea and experience would never meet and loops will never close. This would be like being ignorant or staring at blankness forever. 
+
+Desire is a fundamental kind of feeling which we sense through our hearts. We can say that:
+- the intellect is our built-in sensor for ideas 
+- the heart is our built-in sensor for feelings 
+
+Ideas can be represented by accurately physical objects. For example, the idea of Covid is universally represented by the physical SARS-COV2 virus. 
+
+However, feelings cannot be universally represented by objects. For example, the feeling of freedom has been represented by a flying bird, broken chains, or a person with open arms. 
+
+![Freedom](/photos/psych/freedom.jpg)
+
+We can say that feelings are primarily metaphysical. Thus:
+- the intellect is our built-in sensor for the physical domain 
+- the heart is our built-in sensor for the metaphysical domain
+
+The previous chapter explained that the metapyhsical domain is superior to the physical domain. 
+
+Therefore the heart is superior to the brain. 
+- This is proven by successful people having more (metaphysical) grit than people who had high grades in school. 
+- World leaders, such as Donald Trump and Kim Jong Un, are known for grit but not for intellect. 
+
+
+
+## Superphysics Closes the Gap Between Intellect and Feelings
+
+<!-- Augmenting Human Hearts -->
+
+Our hearts leads us to errors because the Western educational system has focused on brain development and not on heart development.  This leads to:
+- physicists using their intellect to create nuclear weapons
+- the recommendations of intelligent climate scientists being ignored
+- mathematicians using their intellect to game the stock market
+
+<!-- The odd quirk in the human species is that our brain and heart are far apart. This creates a distance or lag that makes ideas  appear totally different from feelings. This then makes human action lack feelings for others, as seen in terrorism, nuclear weapons, deforestation, etc.  -->
+
+To push for heart development, and the increase in common-interest and fellow-feeling, Superphysics proposes to close the distance between the brain and the heart by visualizing* feelings through AI. 
+
+> *Since sight is the main sensor of the brain.
+
+
+{{< img src="/graphics/cartesian.png" cap="Physics visualizes physical movement, Superphysics visualizes metaphysical (aethereal) movement" alt="Visualization of the feelings" >}}
+
+Humans already do this through TV, movies, powerpoint presentations, branding, packaging, advertising and other bright and shiny things that appeal to the senses located near the brain as the eyes, ears, nose, and tongue.   
+
+This visualization of ideas and feelings will then prove our proposed Law of Conservation of Idea which is the metaphysical foundation of the physical Law of Conservation of Matter and Energy. 
+
+
+
+## Critical Thinking and Critical Feeling
+
+In order to maximize our experience of existence, it would best to have both sensors running at 100%, as much as possible. This means they should not just be passively sensing, but also **actively sensing**. 
+
+This active sensing is the foundation of critical thinking (as intellect), as well as [critical feeling](/superphysics/critical-feeling) (as kindness and fellow-feeling). 
+
+Currently, the educational system in most countries mostly focuses on intellect and is very deficient in fellow-feeling. This is proven by the prevalence of racism, terrorism, poverty & inequality, materialism, environmental destruction, etc. 
+
+The glaring proof is the existence of mass shootings by young people in the West. It shows that their educational or cultural systems nurtured hate and division instead of fellow-feeling and unity. This problem does not exist so much in Asian* education or culture.   
+
+> *Instead of personal divisions, Asia has religious divisions that create religious conflict such as that between Hindus and Muslims in India, Buddhists and Muslims in Myanmar, and Falun Gong versus the Chinese Communist Party. In Africa, the divisions are even more basic as being based on tribal lines.  
+
+
+Globally, this lack of fellow-feeling hurts even the intellectual sciences. For example, scientists have long had the data to prove that global warming causes disasters. Yet the feelings of the human species are extremely disunited as to render them unable to actually implement them.
+
+The mere visualization or even 'audification' of feelings will not be enough to increase fellow-feeling. To deal with such large-scale non-feeling, Superphysics proposes many new concepts such as:
+- quali-math
+- constitutional virtues
+- five layers of medicine
+- five relativities
+- four laws of value
+- four social cycles
+- etc.  
+
+
+These unify the feelings of each person so that each one will discover his role in the greater plan of the universe, and appreciate the hidden value in the existence of each. 
+
+{{< q a="descartes" >}}
+A skilled craftsman makes a perfect creation as a whole, even if its parts taken individually seem imperfect.
+<cite>Descartes, Meditations Simplified, Part 4</cite>
 {{< /q >}}
-
-
-
-The [previous post](/superphysics/principles/idea) talked about ideas and feelings, as subdivisions of experience:
-
-- experiencer
-- experience
-  - feelings 
-  - ideas
-
-The Negative Force leads to experiences, while the Positive leads to the understanding of those experiences.  
-
-But what about the experiencer or the mind that experiences those ideas and feelings? 
-
-<!-- So far, the matrix of existence has two aspects:
-- metaphysical
-- physical
-
-The contents of this matrix are only:
-- experiencer
-- experience (as ideas and feelings) -->
-
-For the experiencer to actually experience the infinite combination of ideas and feelings, it needs a container for them. This metaphysical container or arena is called a mind which is designed to hold and process Its Own ideas and feelings, which are collectively called 'perceptions'.
-
-Thus, an experiencer has 2 parts:
-- mind as the container for experiences
-- consciousness as the perceiver of that container
-
-![Audience](https://sorasystem.sirv.com/photos/audience.jpg)
-
-
-## A Metaphysical Mind, Physical Mind, Living Mind, Non-Living Mind
-
-Recall that we split reality into a metaphysical reality and a physical one. This leads to every mind having 2 parts in terms of structure:
-
-1. A metaphysical mind
-
-This is the mind that occupies the metaphysical domain. This is called the soul. Philosophers call this the higher mind, spiritual mind, or subjective mind
-
-2. A physical mind 
-
-This is the mind that occupies the physical domain. This is what scientists believe in. Philosophers call this the lower mind, crude mind, or objective mind. 
-
-
-{{< q a="Benham" >}}
-Recent experiments by scientists have demonstrated that the human being is possessed of a double consciousness or mind. One part operates in our material existence.. The other part operates on the plane of our spiritual existence
-<cite>William Benham</cite>
-{{< /q >}}
-
-
-In terms of activity, physical minds are then classified into two:
-
-- A physical mind that can do its own actions or expressions is called a 'living thing' by humans
-- A physical mind that cannot express nor act is called a 'non-living thing'
-
-{{< img src="/graphics/meta/mind.png" alt="Living and non-living mind" cap="A living thing has a mind that can accept external feelings and ideas and likewise express them. A non-living thing cannot, due to the confinement by the Negative Force" >}}
-
-
-'Life' therefore is an expressive mind that inhabits a physical body. <!-- A 'soul', then, is such a mind that exists independent of a body.  -->
-
-A 'virus' is in-between a non-living idea and a living or expressive mind, that manifests as DNA or RNA. It has to use living things to spread itself as its means of expression or action.
-
-From the viewpoint of the Creator:
-- the DNA of viruses and bacteria are simple ideas
-- the souls of humans and cats are complex ideas.
-
-But from the viewpoint of viruses and bacteria, they themselves are minds, just as cats and dogs are see themselves as minds (cause) and not as ideas (effect). 
-
-Likewise, we see ourselves as the cause of our own actions instead of being the effect of the Creator (working through us).
-
-
-## Dharma, Tao, or The True Nature
-
-The independence of the minds of bacteria, cats, dogs, and humans from each other then implies that they have their own innate and unique expressions and experiences different from those of others. Otherwise, they would just be one entity and not separate entities. 
-
-{{< quote ava="aris" >}}
-Of which individual then will this be the substance?  Either of all or of none. But it cannot be the substance of all. If it is to be the substance of one, this one will be the others also.
-<cite>The Metaphysics by Aristotle Simplifed, Book 7, Part 13</cite>
-{{< /quote >}}
-
-
-This innate uniqeness to experience and express Existence is an identity's dharma or tao. Socrates calls this <!-- innate need and design --> as a thing's 'True Nature'*. 
-
-
-> *The English word 'Nature' is ambiguous and so we use 'Dharma' instead to specify the True Nature passively, and Tao to specify It actively  
-
-
-{{< q a="soc" >}}
-Absolute greatness, health, strength, and the true nature of everything. These cannot be perceived by our bodily organs. The closest we can get to knowing their several natures is through our intellectual vision. This will give us the most exact conception of the  essence of each thing.
-<cite>Phaedo by Plato Simplified, Chapter 2</cite>
-{{< /q >}}
-
-Lao Tzu calls acting within one's True Nature as being with the Tao. 
-
-
-
-
-
-### The Law of Conservation of Idea as the Origin of Movement
-
-Since each mind is unique, and since everything is a mind, with each mind being an idea from the viewpoint of the Creator, then we establish this principle of uniqueness as **The Law of Conservation of Idea**.
-- The need to be unique causes the separation between minds and objects.
-- This creation of separation then creates change and movement.   
-
-Under this paradigm, movement is originally caused by internal differences and not by external forces. Even the external forces from heat really come from the internal nature of hotness that easily affects or moves objects that are internally predisposed to be affected by heat. 
-
-Movement arises from the differences in internal natures. This explains why:
-- some objects are easily moveable, while others are difficult to move
-- some people are easy to convince, others are very difficult to convince
-- some animals are easy to train, others are not easy to train
-- some societies advance rapidly, others stay backward
-
-Is there anything in Existence that is not moveable or changeable?
-
-
-## The One is Not Affected
-
-The only entity that does not move is the entity that created the ideas, minds, and feelings in the Universe.
-- The Ancient Greeks call it The One
-- Hindus call it Nirguna Brahma
-- Buddhists call it Sunya or Void
-
-{{< q a="aris" >}}
-The believers of The One [The Pythagoreans] say that The One is the cause of substance. 
-<cite>The Metaphysics by Aristotle Simplifed, Book 1, Part 8</cite>
-{{< /q >}}
-
-
-In the next post, we will explain the difference between The One, as The Absolute, and The Creator, as The Supreme Entity.
-<!--  Morality is Always Relative -->
-
-<!-- Good and evil then is how this need is protected or destroyed. Thus, morality, or the perception of good and bad, depends on two things:
-
-- the nature of object
-- the nature of the experiencers of the object 
-
-This is why morality is always relative and changing. One society might feel that it is moral to be liberal, while another will feel that liberality is immoral and that conservatism is moral.  -->
-
-
-
-
-<!-- In Tantra Yoga, the Supreme Entity merely exists alone, without space nor time. Since a thing exists only if it is perceived, then as an absolute entity, the Supreme Entity technically did not exist and did not have value because It was alone.
-
-To solve this problem, It made perceivers of Itself from Itself (since there was nothing else). In other words, It split Itself into infinite entities, both conscious and unconscious.
-
-The original substance of these entities is called Shiva and the force that splits it up is called Shakti. The original form is called Nirguna Brahma and the resultant form is called Saguna Brahma or the entire observable universe and multiverses.
-
-Since existence was created for the Creator and not the ‘createes’ then by default all existing entities feel an urge to know the Creator. The deepest and most lasting happiness is achieved when it is related to the Creator. This is generally called spirituality. The process for achieving this happiness is called yoga, which aims to unify the createe (soul) with the Creator (pure consciousness). The exact state of union is called samadhi. -->
-
-<!-- Since everything in existence is from the ideas of the Creator of existence, then dharma and morals can be properly attributed to It. -->
-
-
-<!-- Ideas are static metaphysical objects carved out of the infinity of possible objects. Instead of mass, ideas use probability and all ideas have an equal probability. Even consciousness is an idea. It is its starting point in the physical dimension that makes the difference. For example, if Covid started in Antartica then it would be an insignificant idea. If a galaxy started in an energy-less part of the universe, then it would be insignificant as well. So the idea that supports Covid is its RNA, just as the idea supporting a galaxy is its supermassive black hole and there is no need for dark matter and that's why they will never find it no matter how many MIT or Berkley geniuses they throw at it. -->
-
-
-<!-- Our solution to differences in moral standards is to get as many feelings as possible and then get the lowest-common-denominator-feeling that can serve as the base of a universal moral system. 
- -->

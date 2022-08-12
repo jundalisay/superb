@@ -5,10 +5,10 @@ title: "What is the Impartial Spectator?"
 date: 2017-09-21
 image: /photos/meta/buddhism.jpg
 description: "The Impartial Spectator of Adam Smith is the moral sense in all humans"
-linkb: /superphysics/principles/what-is-morality
-linkbtext: "what-is-morality"
-linkf: /superphysics/ai-is-autonomous
-linkftext: "AI is autonomous"
+linkb: /superphysics/principles/chapter-08
+linkbtext: "Chapter 8"
+linkf: /superphysics/principles/chapter-09
+linkftext: "Chapter 9"
 author: Juan
 icon: /icons/spsoc.png
 aliases:

@@ -7,7 +7,13 @@ consciousness: Desire
 
 Prout 9 12 13 15 18 10 Bangladesh 
 
+Kuya, nasaan CR 'nyo?
 
+Bai, asa inyong CR? 
+
+Bai, asa toilet 'nyo?
+
+Kamarmandi dimana?
 
 More like Jackass 
 

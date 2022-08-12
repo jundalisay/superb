@@ -12,6 +12,7 @@ author: Juan
 icon: /icons/sp.png
 aliases:
   /articles/superphysics/what-is-socratic-dialectics
+  /superphysics/socratic-dialectics  
 ---
 
 

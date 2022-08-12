@@ -12,6 +12,7 @@ author: Juan
 icon: /icons/sp.png
 aliases:
   /articles/superphysics/what-is-superphysics/
+  /superphysics/what-is-superphysics/  
 comments:
   - img: "/avatars/lam.jpg"
     content: "Are we in the dark ages?"

@@ -1,99 +1,153 @@
 ---
-heading: "The Necessary Effect of the 2 Forces"
-title: "The Nature of Feelings"
-date: "2022-08-01"
-image: /photos/psych/freedom.jpg
-description: "Active sensing is the foundation of critical thinking (as intellect), as well as critical feeling (as kindness and fellow-feeling)"
-linkb: /superphysics/principles/idea
-linkbtext: "Ideas"
-linkf: /superphysics/principles/god
-linkftext: "God"
+title: "Desire and the Two Forces"
+# title: "Everything is an Idea"
+#, Propelled by Feelings
+heading: "Chapter 5"
+# heading: "Inside the Matrix or the Mind of the Brahma"
+date: 2020-01-02
+image: /photos/meta/yinyang.jpg
+description: "Everything in existence is created by the two forces"
+# an idea of the Creator of that existence
+linkb: /superphysics/principles/chapter-04
+linkbtext: "Karma"
+linkf: /superphysics/principles/chapter-06
+linkftext: "Feelings"
 author: Juan
 icon: /icons/sp.png
+tags: ['Lao Tzu', 'Yin Yang']
+# categories: ['Superphysics']
+comments:
+  - img: "/avatars/huong.jpg"
+    content: "Appreciate the deep insights!"
+    commentdate: 2022-04-01  	
 ---
 
 
 
-## Feelings are Superior to Intellect
+The previous chapter explained that the Creator of the universe created the universe from Its Own metaphysical ideas and feelings, just as a novelist writes a novel from a stream of ideas and feelings coming from his metaphysical mind. 
 
-The perception of idea and experience are both done by the intellect. 
+The purpose of ideas is to create experience. 
 
-However, the movement from idea to experience are powered by desire. Without desire, idea and experience would never meet and loops will never close. This would be like being ignorant or staring at blankness forever. 
+However, experience can only exist if there is an experiencer. Thus, there are only two things in this 'matrix' of Existence: 
+- the experiencer
+- the experience of ideas and feelings
 
-Desire is a fundamental kind of feeling which we sense through our hearts. We can say that:
-- the intellect is our built-in sensor for ideas 
-- the heart is our built-in sensor for feelings 
 
-Ideas can be represented by accurately physical objects. For example, the idea of Covid is universally represented by the physical SARS-COV2 virus. 
+## The Positive and Negative Forces
 
-However, feelings cannot be universally represented by objects. For example, the feeling of freedom has been represented by a flying bird, broken chains, or a person with open arms. 
+Before existence began, the Absolute Creator had nothing to create those experiencers and experiences. And so It created those from Itself, using 2 forces*:
+- the positive (this is known as Shiva in Hinduism or Yang in Chinese)
+- the negative (this is known as Shakti in Hinduism or Yin in Chinese)
 
-![Freedom](/photos/psych/freedom.jpg)
-
-We can say that feelings are primarily metaphysical. Thus:
-- the intellect is our built-in sensor for the physical domain 
-- the heart is our built-in sensor for the metaphysical domain
-
-The previous chapter explained that the metapyhsical domain is superior to the physical domain. 
-
-Therefore the heart is superior to the brain. 
-- This is proven by successful people having more (metaphysical) grit than people who had high grades in school. 
-- World leaders, such as Donald Trump and Kim Jong Un, are known for grit but not for intellect. 
+{{< img src="/icons/tao.png" size="" alt="The Tao">}}
 
 
 
-## Superphysics Closes the Gap Between Intellect and Feelings
-
-<!-- Augmenting Human Hearts -->
-
-Our hearts leads us to errors because the Western educational system has focused on brain development and not on heart development.  This leads to:
-- physicists using their intellect to create nuclear weapons
-- the recommendations of intelligent climate scientists being ignored
-- mathematicians using their intellect to game the stock market
-
-<!-- The odd quirk in the human species is that our brain and heart are far apart. This creates a distance or lag that makes ideas  appear totally different from feelings. This then makes human action lack feelings for others, as seen in terrorism, nuclear weapons, deforestation, etc.  -->
-
-To push for heart development, and the increase in common-interest and fellow-feeling, Superphysics proposes to close the distance between the brain and the heart by visualizing* feelings through AI. 
-
-> *Since sight is the main sensor of the brain.
+> Some Taoist schools say that it does not matter whether the Yin-Yang symbol is shown in a clockwise or counter-clockwise direction. We say that it *does* matter. The symbol should always be in a counterclockwise direction, as shown in the ba-gua. Moreover, Yang should always be on top as implied by the Tao-te-Ching. <p> This is because, from the Metaphyics of Things, ideas have a shape which implies a proper orientation (right-side up). An idea can be learned or a problem can be solved faster by approaching the idea or problem <b>at the right angle that matches its orientation</b>. This is similar to a spaceshuttle re-entering earth at a proper angle to avoid burning up*. Without the knowledge of this shape, the only alternative is to approach it from all possible angles, leading to a waste of time and effort. Some problems are so complex that the proper angle is hard to achieve with the hit-or-miss approach. This is why Superphysics will be able to solve problems, even the complex ones, faster*** than Science that has no concept of the geometry of ideas**</p>
 
 
-{{< img src="/graphics/cartesian.png" cap="Physics visualizes physical movement, Superphysics visualizes metaphysical (aethereal) movement" alt="Visualization of the feelings" >}}
+> *This angle and shape is a consequence of the Negative force which surrounds each idea or identity as to separate it from other identities
 
-Humans already do this through TV, movies, powerpoint presentations, branding, packaging, advertising and other bright and shiny things that appeal to the senses located near the brain as the eyes, ears, nose, and tongue.   
 
-This visualization of ideas and feelings will then prove our proposed Law of Conservation of Idea which is the metaphysical foundation of the physical Law of Conservation of Matter and Energy. 
+> **Plato alludes to this through the five Platonic shapes. Superphysics visualizes these through the Aethereal Cartesian plane which will be done by machine learning, since it's too complicated for a human 
+
+> ***We actually use this technique to come up with solutions to economic crises and social crises faster than Economists or Sociologists. The problem is in implementing those solutions in the physical real world because of the static 'aether-drag' in human minds   
 
 
 
-## Critical Thinking and Critical Feeling
+### Duality from the Two Forces
 
-In order to maximize our experience of existence, it would best to have both sensors running at 100%, as much as possible. This means they should not just be passively sensing, but also **actively sensing**. 
-
-This active sensing is the foundation of critical thinking (as intellect), as well as [critical feeling](/superphysics/critical-feeling) (as kindness and fellow-feeling). 
-
-Currently, the educational system in most countries mostly focuses on intellect and is very deficient in fellow-feeling. This is proven by the prevalence of racism, terrorism, poverty & inequality, materialism, environmental destruction, etc. 
-
-The glaring proof is the existence of mass shootings by young people in the West. It shows that their educational or cultural systems nurtured hate and division instead of fellow-feeling and unity. This problem does not exist so much in Asian* education or culture.   
-
-> *Instead of personal divisions, Asia has religious divisions that create religious conflict such as that between Hindus and Muslims in India, Buddhists and Muslims in Myanmar, and Falun Gong versus the Chinese Communist Party. In Africa, the divisions are even more basic as being based on tribal lines.  
+The Negative force splits the Absolute into a dualistic Creator, as the Supreme, which makes imperfections of Itself, as Its dualistic ideas and feelings:
+- The creation of the idea of beauty also leads to the creation of ugliness. 
+- The creation of order also leads to the creation of disorder. 
+- The creation of tastiness also leads to the creation of blandness.
 
 
-Globally, this lack of fellow-feeling hurts even the intellectual sciences. For example, scientists have long had the data to prove that global warming causes disasters. Yet the feelings of the human species are extremely disunited as to render them unable to actually implement them.
-
-The mere visualization or even 'audification' of feelings will not be enough to increase fellow-feeling. To deal with such large-scale non-feeling, Superphysics proposes many new concepts such as:
-- quali-math
-- constitutional virtues
-- five layers of medicine
-- five relativities
-- four laws of value
-- four social cycles
-- etc.  
-
-
-These unify the feelings of each person so that each one will discover his role in the greater plan of the universe, and appreciate the hidden value in the existence of each. 
-
-{{< q a="descartes" >}}
-A skilled craftsman makes a perfect creation as a whole, even if its parts taken individually seem imperfect.
-<cite>Descartes, Meditations Simplified, Part 4</cite>
+{{< q a="" >}}
+Since the One exists, then the Whole has the One and Existence as Its parts. Each of these parts have both the One and Existence as its parts and is at the least made up of two parts. The same principle goes on forever. Every part always has these two parts because existence always involves one, and one involves being, so that one is always disappearing, and becoming two. This makes the One infinite in multiplicity. The One has Existence and therefore exists, leading it to become many.<cite>Simplified Parmenides by Plato</cite>
 {{< /q >}}
+
+
+These ideas and feelings are then experienced in the physical domain, as physicalized versions, by The Supreme as the Experiencer through the Positive Force.
+
+This closes the loop between Experiencer and Experience and justifies Existence. 
+
+{{< img src="/graphics/meta/flow.png" cap="The loop from ideas to experience" >}}
+
+Thus:
+- The Negative Force separates and creates ignorance
+- The Positive Force unites and creates knowledge
+
+
+
+
+{{< q a="lao">}} 
+The Great passes on in constant flow. Passing on, it becomes remote.  Having become remote, it returns.
+<cite>Part 6, The Tao Te Ching Simplified</cite>
+{{< /q >}} 
+
+
+The physicalized versions of metaphysical ideas are the physical expression of those ideas. <!-- Since ideas and feelings exist before their physical counterparts, we can say that the latter are expressions of such ideas.  --> For example, a tasty dish is an expression or manifestation of the idea of tastiness. 
+- The cook had a metaphysical idea for a tasty dish and so he created a tasty dish in reality.
+- This tastiness is proven after he tastes it and is experiened by his mind.
+- This **closes the loop** from his mind creating an idea of a tasty dish to his mind actually experiencing a tasty dish.
+- The match of idea and experience then forms his truth: "Yum! It really, truthfully was a tasty dish."
+
+![Yum](/photos/psych/eat.jpg) 
+
+
+In the same way, the universe exists because the Creator had an idea to create it. Our experiences of the universe is part of the loop-closings that verify or give truth to Creator's ideas. This loop began with the creation of the universe and is closed with our experiences of it. 
+
+The Creator might have had an idea of a car. So It creates a Big Bang, then planets, then minerals, then humans, then inventors, then  manufacturers to finally have a physical car to be validated by a conscious being such as a human to close the loop. 
+
+<!-- Everything that we perceive in the universe therefore is an expression of the latent ideas of the Creator that It makes from Itself. 
+
+The Creator had an idea of tastiness among Its infinite ideas. So It created the universe, via a 'Big Bang' to create stars that created matter that led to life that led to humans who could cook a delicious dish which was completed when it was actually tasted by someone who validated the idea by saying "Yum!". 
+ -->
+
+The timespan from the Big Bang to the actual riding of the car might take billions of years from our perspective. But since time is a product of the Creator, then It is not bound by that time. To It, the closing of the loop from the idea of the car to the experience of the car is instantaneous.  
+
+
+
+
+### Desire and Alignment are the keys
+
+In our novel analogy, the novel came to life when the reader's mind started browsing the pages. The act of reading comes from the desire to read. 
+
+Desire is a kind of feeling which itself is a wave. Thus, desire is important in navigating reality and in making the story that you want.
+
+In business and entrepreneurship, this desire is called *grit*. Successful businessman are known to have more grit than non-successful ones. 
+
+<!-- Investors invest in entrepreneurs that have the most grit. Superphysics can help the businessman, or any human that has a goal, to experience his goal by explaining the metaphysics of grit and desire.  -->
+
+In our novel analogy, the reader might have a strong desire to read. But he can only read what the Novelist has written down. 
+
+Therefore, merely having strong desires in not enough to create a good reality. **What's more important is to align those desires to the desires of the Novelist.** The Hindus call this alignment as Dharma. 
+
+This alignment is done by the reader by choosing the right cat-novel to read. The proper alignment does not come instantly but happens through instances of trial and error. The more instances, the better. We call this as *learning experiences*.  
+
+The quality of learning experiences would be higher if the scope of learning were expanded. A reader can find a better cat-novel if he searched at a bigger library or bookstore. Superphysics expands the library of science by adding to it the library of metapyhsics. 
+
+Nowadays, the advancement science has led to economic growth, but has also opened up new problems:
+
+- Global warming
+  - Disasters like floods, mass extinction
+  - Seasons being hotter or cooler than normal
+- Covid (The reduced cost of air travel allowed Covid to spread quickly)
+- Poverty and Inequality 
+- Political instability 
+  - Terrorism (since 9/11, terrorists have used airplane technology)
+  - Migrant crises
+
+There is clearly a desire to solve them. But no solution has been found because the learning experiences have been confined away from metaphysics.  
+
+
+## Let's Solve Problems Inside the Matrix
+
+Superphysics uses the blending of science (particles) and metaphysics (waves) to find the solutions and implement them faster than ordinary science or philosophy. This will help create a *dharmic* reality that is in line with the Metaphysics of Things inside the Matrix of Existence. 
+
+Since prevention is better than cure, then AI will be the key to discover the patterns of feelings to make sure we stick to the dharma and avoid giving problems to ourselves.
+
+The concept of a metaphysical domain allows us to explain the properties of metaphysical ideas. This then leads to our Law of Conservation of Idea, which is the base for the Law of Conservation of Matter and Energy.
+
+

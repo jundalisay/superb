@@ -33,7 +33,7 @@ In this case:
 - the metaphysical idea existed in Nature, but not in human minds. It only existed in minds after the scientists established it as a new idea called Novel Coronavirus Disease, later renamed as Covid-19
 
 
-## Metaphysical Idea versus Physical Matter
+## The Superiority of the Metaphysical Over the Physical
 
 This strengthens the fact that physical things are tangible and perceivable through our five senses, while metaphysical things are perceivable through our intellect and feelings.
 
@@ -154,43 +154,3 @@ For example, no one has ever imagined that humans should have three or four legs
 
 On the contrary, people have imagined that our inability to fly was a problem and so the solution manifested itself as powered flight. The metaphysical solution often arrives much faster than the actual physical solution, though in rare cases they can come together by coincidence.
 
-
-### Desire and Alignment are the keys
-
-In our novel analogy, the novel came to life when the reader's mind started browsing the pages. The act of reading comes from the desire to read. 
-
-Desire is a kind of feeling which itself is a wave. Thus, desire is important in navigating reality and in making the story that you want.
-
-In business and entrepreneurship, this desire is called *grit*. Successful businessman are known to have more grit than non-successful ones. 
-
-<!-- Investors invest in entrepreneurs that have the most grit. Superphysics can help the businessman, or any human that has a goal, to experience his goal by explaining the metaphysics of grit and desire.  -->
-
-In our novel analogy, the reader might have a strong desire to read. But he can only read what the Novelist has written down. 
-
-Therefore, merely having strong desires in not enough to create a good reality. **What's more important is to align those desires to the desires of the Novelist.** The Hindus call this alignment as Dharma. 
-
-This alignment is done by the reader by choosing the right cat-novel to read. The proper alignment does not come instantly but happens through instances of trial and error. The more instances, the better. We call this as *learning experiences*.  
-
-The quality of learning experiences would be higher if the scope of learning were expanded. A reader can find a better cat-novel if he searched at a bigger library or bookstore. Superphysics expands the library of science by adding to it the library of metapyhsics. 
-
-Nowadays, the advancement science has led to economic growth, but has also opened up new problems:
-
-- Global warming
-  - Disasters like floods, mass extinction
-  - Seasons being hotter or cooler than normal
-- Covid (The reduced cost of air travel allowed Covid to spread quickly)
-- Poverty and Inequality 
-- Political instability 
-  - Terrorism (since 9/11, terrorists have used airplane technology)
-  - Migrant crises
-
-There is clearly a desire to solve them. But no solution has been found because the learning experiences have been confined away from metaphysics.  
-
-
-## Let's Solve Problems Inside the Matrix
-
-Superphysics uses the blending of science (particles) and metaphysics (waves) to find the solutions and implement them faster than ordinary science or philosophy. This will help create a *dharmic* reality that is in line with the Metaphysics of Things inside the Matrix of Existence. 
-
-Since prevention is better than cure, then AI will be the key to discover the patterns of feelings to make sure we stick to the dharma and avoid giving problems to ourselves.
-
-The concept of a metaphysical domain allows us to explain the properties of metaphysical ideas. This then leads to our Law of Conservation of Idea, which is the base for the Law of Conservation of Matter and Energy.

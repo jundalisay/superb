@@ -1,217 +1,179 @@
 ---
-title: "'God and Morality"
-heading: "Omnitheism Explained"
-date: 2015-09-09
-# 2020-01-04
-image: /photos/psych/freedom.jpg
-description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
-linkb: /superphysics/principles/idea
-linkbtext: "Everything-is-an-idea"
-linkf: /superphysics/principles/consciousness
-linkftext: "What-is-consciousness?"
+title: "Everything is a Mind"
+heading: "Inside the Mind of the Brahma"
+date: 2020-01-01
+image: /photos/physics/ai.jpg
+description: "Everything in existence is an idea of the Creator of that existence"
+linkb: /superphysics/principles/chapter-06
+linkbtext: Feelings
+linkf: /superphysics/principles/chapter-08
+linkftext: God
 author: Juan
 icon: /icons/sp.png
 aliases:
-  /superphysics/principles/god
+  /superphysics/principles/mind
 ---
 
 
-The question 'Does God exist?' can be answered by 'Can you perceive Existence?'. 
+{{< q >}}
+"Then," you ask, "do you mean to tell us that THE ALL is LIFE and MIND?" 
+<br/>
+Yes! and No! is our answer.
 
-![Outer space](https://sorasystem.sirv.com/photos/space.jpg)
+<cite>The Kybalion</cite>
+{{< /q >}}
 
-Earlier, we said that:
-- every physical perception has a metaphysical idea-equivalent
-- all ideas come from The One by Its Desire
-- these ideas manifest in a gigantic Mind which houses all Its ideas, one of which is the idea of our current universe and everything inside it
-<!-- produces an opposite idea: beauty has ugliness, health has disease -->
-- these ideas exist inside the mind for them to be experienced, closing the loop between idea and experience
-- the journey from idea to experience is powered by feelings, of which desire is the main feeling  
-- all movement is based on the differences of the dharma or true nature of all ideas of The One
 
-Superphysics aims to solve problems, by moving from chronic problem into lasting solution, from suffering and doubt into happiness and knowledge. 
 
-To make this movement easier and have a better success rate, we have to explain the nature of the gigantic Mind or arena where Existence and all movement takes place. 
+The [previous post](/superphysics/principles/idea) talked about ideas and feelings, as subdivisions of experience:
 
-We call such a Mind as the Supreme Entity, and The One where it comes from, as the Absolute Entity. 
+- experiencer
+- experience
+  - feelings 
+  - ideas
 
-    
-Paradigm | Pre-Existence (Probability) | Existence (Matrix or Mind)
---- | --- | ---
-Superphysics | Absolute Entity | Supreme Entity
-Ancient Greek | The One | The Whole or The Other
-Hindus | Nirguna Brahma | Saguna Brahma
-Buddhists | Sunya | Brahma 
-Taoism | Tao | tao 
+The Negative Force leads to experiences, while the Positive leads to the understanding of those experiences.  
 
+But what about the experiencer or the mind that experiences those ideas and feelings? 
 
-<!-- - all our minds are inside a larger mind which we call the Matrix and is roughly equivalent to the Brahma by the Hindus, the Tao by the Taoists, Sunya by the Buddhists, and the Whole by Parmenides -->
+<!-- So far, the matrix of existence has two aspects:
+- metaphysical
+- physical
 
-Notice how our classification is existence-based, being divided into:
+The contents of this matrix are only:
+- experiencer
+- experience (as ideas and feelings) -->
 
-1. The Probability of Existence
-2. Actual Existence 
+For the experiencer to actually experience the infinite combination of ideas and feelings, it needs a container for them. This metaphysical container or arena is called a mind which is designed to hold and process Its Own ideas and feelings, which are collectively called 'perceptions'.
 
-<!--  and  the Matrix, Brahma, Tao, and the Whole are impersonal.  -->
+Thus, an experiencer has 2 parts:
+- mind as the container for experiences
+- consciousness as the perceiver of that container
 
-This is very different from the Judeo-Christian God, Yahweh, Allah, and even the Polythesist Tara, Quan Yin, Kali, Ganesh, etc who are classified according to the feelings of the people who invented them:
+![Audience](https://sorasystem.sirv.com/photos/audience.jpg)
 
-- The Jewish Yahweh is very cruel. This mirrors the cruel environment experienced by the Jews during their journey through the desert
-- The Christian God is very forgiving and generous. This mirrors the feelings of Jews under the wealthy Romans 
-- The Islamic Allah is very commanding. This mirrors the feelings of Arabs rallying the tribes against the Byzantines and Persians.
 
-This is because it is the feelings that propels the mind from idea to idea. To get a true view of the Supreme, we follow the 'critical feeling' techniques of Buddhism and Hinduism of catching and isolating our feelings so that we can see Existence in Its true form, without the bias of feeling.  
+## A Metaphysical Mind, Physical Mind, Living Mind, Non-Living Mind
 
+Recall that we split reality into a metaphysical reality and a physical one. This leads to every mind having 2 parts in terms of structure:
 
-## The Positive and Negative Leads to Morality and Immorality 
+1. A metaphysical mind
 
-The rivalry between the Positive and Negative Forces as they generate Existence leads to duality, opposites, and good and bad. 
+This is the mind that occupies the metaphysical domain. This is called the soul. Philosophers call this the higher mind, spiritual mind, or subjective mind
 
-This includes our feelings which have natural opposites:
-- love versus hate
-- fear versus bravery
-- peace versus agitation
-- etc
+2. A physical mind 
 
-This extends to economics, politics, and philosophy:
-- economic booms versus busts
-- democracy versus autocracy
-- conservative versus liberal
-- religion versus atheism
-- traditional versus modern
-- etc 
+This is the mind that occupies the physical domain. This is what scientists believe in. Philosophers call this the lower mind, crude mind, or objective mind. 
 
-In a previous post, we said that the Negative Force creates these differences and dualities in order to express the infiniteness of the Supreme. However, this also leads to infinite conflicts and problems which divert each entity away from its true nature, which then leads to its suffering. 
 
-How can we counteract the tendency of Existence for chaos and division? 
+{{< q a="Benham" >}}
+Recent experiments by scientists have demonstrated that the human being is possessed of a double consciousness or mind. One part operates in our material existence.. The other part operates on the plane of our spiritual existence
+<cite>William Benham</cite>
+{{< /q >}}
 
 
-### A Moral System that Focuses on the Positive
+In terms of activity, physical minds are then classified into two:
 
-The Supreme has the Positive Force to naturally counteract the Negative. 
+- A physical mind that can do its own actions or expressions is called a 'living thing' by humans
+- A physical mind that cannot express nor act is called a 'non-living thing'
 
-This Positive Force has an inherent tendency to unite and dwell in the abstract or metaphysical domain where it excels in knowledge. This is different from the Negative Force which dwells in the physical domain where it separates things to facilitate new creations* as well as maintain ignorance. 
+{{< img src="/graphics/meta/mind.png" alt="Living and non-living mind" cap="A living thing has a mind that can accept external feelings and ideas and likewise express them. A non-living thing cannot, due to the confinement by the Negative Force" >}}
 
 
-> *This is why 'Shakti' or the Negative is a force for creativity and power
+'Life' therefore is an expressive mind that inhabits a physical body. <!-- A 'soul', then, is such a mind that exists independent of a body.  -->
 
+A 'virus' is in-between a non-living idea and a living or expressive mind, that manifests as DNA or RNA. It has to use living things to spread itself as its means of expression or action.
 
-Since the metaphysical is superior to the physical, we are absolutely confident that the Positive will conquer the Negative in the long run. This manifests as the maxim: "The pen is mightier than the sword."
+From the viewpoint of the Creator:
+- the DNA of viruses and bacteria are simple ideas
+- the souls of humans and cats are complex ideas.
 
-Moreover, since the Supreme dwells in the metaphysical, becoming Positive will make one more like the Supreme. This manifests as actions being closer to one's true nature or divine will. 
+But from the viewpoint of viruses and bacteria, they themselves are minds, just as cats and dogs are see themselves as minds (cause) and not as ideas (effect). 
 
-{{< img src="/graphics/ignorance.png" alt="Ignorance" cap="The more humans become positive, united, and knowledgeable of Existence (as the Mind of the Supreme), the more they assume the attributes of the Supreme. For example, a caveman would think that only magicians could communicate with other people on the other side of the world -- something that we can do now thanks to our knowledge of the principles of electromagnetism" >}}
+Likewise, we see ourselves as the cause of our own actions instead of being the effect of the Creator (working through us).
 
 
-A better knowledge of how Existence is generated and structured will then let us find the true nature of things as ultimate causes, This means that we can find the ultimate causes of things that give us pain and suffering such as poverty, inequality, natural disasters, terrorism, etc. 
+## Dharma, Tao, or The True Nature
 
-We can then work on the root causes so that the things that give us pain and suffering will change, so that we can experience peace and happiness instead. This will then make us realize that the Supreme never intended for the universe to give us suffering. Rather it was created to give us experiences of joy and value. 
+The independence of the minds of bacteria, cats, dogs, and humans from each other then implies that they have their own innate and unique expressions and experiences different from those of others. Otherwise, they would just be one entity and not separate entities. 
 
+{{< quote ava="aris" >}}
+Of which individual then will this be the substance?  Either of all or of none. But it cannot be the substance of all. If it is to be the substance of one, this one will be the others also.
+<cite>The Metaphysics by Aristotle Simplifed, Book 7, Part 13</cite>
+{{< /quote >}}
 
-This emphasis on positivity, dharma, unity, knowledge, and fellow-feeling makes up the core of the moral philosophy imbued in Medical and Social Superphysics. 
 
+This innate uniqeness to experience and express Existence is an identity's dharma or tao. Socrates calls this <!-- innate need and design --> as a thing's 'True Nature'*. 
 
-<!-- into something that we enjoy and is worth existing in. This is similar to how we go to a theater to experience enjoyment, and not to feel more disturbed or depressed.
- -->
 
-<!-- ## God Created Existence for Happiness, Not Suffering -->
+> *The English word 'Nature' is ambiguous and so we use 'Dharma' instead to specify the True Nature passively, and Tao to specify It actively  
 
-## The 19th Century Introduced So Many Mistakes
 
-The formalization of Western science, economics, and medicine in the 19th century led to unnatural systems that are now causing so many problems such as global warming, pandemic, war, and stagflation that have destroyed many life forms on Earth, and are still destroying many as we speak.
+{{< q a="soc" >}}
+Absolute greatness, health, strength, and the true nature of everything. These cannot be perceived by our bodily organs. The closest we can get to knowing their several natures is through our intellectual vision. This will give us the most exact conception of the  essence of each thing.
+<cite>Phaedo by Plato Simplified, Chapter 2</cite>
+{{< /q >}}
 
-Despite having the intellect to warn about global warming and pandemics, science lacks the knowledge of the critical feeling that is needed to actually implement the 'scientific' solutions to them.  
+Lao Tzu calls acting within one's True Nature as being with the Tao. 
 
-Superphysics focuses on the Positive, while using the Negative force, in order to correct the mistakes of the 19th century by adding metaphysics and feelings to science. In this way, science can be more complete and be more able to conclusively solve problems and create a better Existence for all.
 
 
-<!-- 
-The key thing that separates a reality of suffering and a reality of joy, is then knowing how feelings lead to mentality and how mentality creates reality. To understand this latter part, we need to define consciousness. This would help us break out of the limitations created by science which is based primarily on the five senses, ignoring the sixth sense of feelings and intuition.
- -->
+### The Law of Conservation of Idea as the Origin of Movement
 
+Since each mind is unique, and since everything is a mind, with each mind being an idea from the viewpoint of the Creator, then we establish this principle of uniqueness as **The Law of Conservation of Idea**.
+- The need to be unique causes the separation between minds and objects.
+- This creation of separation then creates change and movement.   
 
+Under this paradigm, movement is originally caused by internal differences and not by external forces. Even the external forces from heat really come from the internal nature of hotness that easily affects or moves objects that are internally predisposed to be affected by heat. 
 
-<!-- One just has to look at the night sky to imagine the chaos that exists, as moon getting hit by countless meteorites, and the sun burning planets  -->
+Movement arises from the differences in internal natures. This explains why:
+- some objects are easily moveable, while others are difficult to move
+- some people are easy to convince, others are very difficult to convince
+- some animals are easy to train, others are not easy to train
+- some societies advance rapidly, others stay backward
 
+Is there anything in Existence that is not moveable or changeable?
 
 
+## The One is Not Affected
 
-<!-- From realizing Its true form as The One, we can then work downwards into The Supreme Entity and explain how Existence is generated.  
+The only entity that does not move is the entity that created the ideas, minds, and feelings in the Universe.
+- The Ancient Greeks call it The One
+- Hindus call it Nirguna Brahma
+- Buddhists call it Sunya or Void
 
-Our best analogy for Existence is the internet which creates an online reality.  -->
+{{< q a="aris" >}}
+The believers of The One [The Pythagoreans] say that The One is the cause of substance. 
+<cite>The Metaphysics by Aristotle Simplifed, Book 1, Part 8</cite>
+{{< /q >}}
 
 
-<!-- 
-all possess human-like qualities as to be angry, benevolent, merciful, etc. 
+In the next post, we will explain the difference between The One, as The Absolute, and The Creator, as The Supreme Entity.
+<!--  Morality is Always Relative -->
 
-So where does our idea of a personal God, Yahweh, Tara, or Ganesh come from?
- -->
+<!-- Good and evil then is how this need is protected or destroyed. Thus, morality, or the perception of good and bad, depends on two things:
 
-<!-- ## An Effect of the Positive Force
+- the nature of object
+- the nature of the experiencers of the object 
 
-The human mind naturally creates the idea of God to have an extremely positive counterweight to extremely negative perceptions* such as pain, suffering, typhoons, earthquakes,  death, poverty, evil, etc. 
+This is why morality is always relative and changing. One society might feel that it is moral to be liberal, while another will feel that liberality is immoral and that conservatism is moral.  -->
 
-> *We say "Oh my God!" more during bad and suprising experiences than in regular and ordinary ones. We rarely say "Oh my God, I'm eating breakfast" or "Oh my God, I'm breathing and reading a blog post"
 
 
-The proof is that all human societies see God as a positive entity Who loves the good and punishes the bad, and never the other way around. 
-- Polytheism is having many god-ideas to counterbalance many isolated negative perceptions
-- Monotheism is having a single God-idea for all negative perceptions
-- Atheism is in treating all perceptions as they are -- as Existence, neither positive nor negative
-- Agnosticism is in not bothering to think about the specifics at all
 
-In our internet analogy:
-- Positivity is information, Negativity is lack of information
-- Atheism is the 'internet'
-- Monotheism is 'AWS, Google Cloud, Azure'
-- Polytheism is 'local webservers and VPN'
-- Agnosticism is using the internet without caring how it works
+<!-- In Tantra Yoga, the Supreme Entity merely exists alone, without space nor time. Since a thing exists only if it is perceived, then as an absolute entity, the Supreme Entity technically did not exist and did not have value because It was alone.
 
-In our novel analogy, where the novel stands for Existence:
-- Positivity is a story, Negativity is not having a story
-- Atheism is a novel having an unknown author
-- Polytheism is having many authors
-- Monotheism is having one author
-- Agnosticism is enjoying the novel without caring who the author is
+To solve this problem, It made perceivers of Itself from Itself (since there was nothing else). In other words, It split Itself into infinite entities, both conscious and unconscious.
 
+The original substance of these entities is called Shiva and the force that splits it up is called Shakti. The original form is called Nirguna Brahma and the resultant form is called Saguna Brahma or the entire observable universe and multiverses.
 
-## Omnitheism to Unify All the Feelings
+Since existence was created for the Creator and not the ‘createes’ then by default all existing entities feel an urge to know the Creator. The deepest and most lasting happiness is achieved when it is related to the Creator. This is generally called spirituality. The process for achieving this happiness is called yoga, which aims to unify the createe (soul) with the Creator (pure consciousness). The exact state of union is called samadhi. -->
 
-Here we introduce the concept of **omnitheism** which is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions, each of which pushes their own idea of the Creator to the detriment of others. They ignore the fact that different societies have different negative experiences which lead to them requiring a different of God-idea.
+<!-- Since everything in existence is from the ideas of the Creator of existence, then dharma and morals can be properly attributed to It. -->
 
-For example:
-- The Jews were surrounded by strong enemies such as the Assyrians, Babylonians, and Egyptians. And so they felt* the need to create a Yahweh that was strong
-- The Romans were imperial so they felt the need to invent their God to be superior to all other gods
-- The Arabs were tribal and unruly, often causing raids and disorders. And so the Prophet Mohammad felt the need to craft Allah to make them submit to a single God
-- The Hindus were multicultural and so they felt the need to invent different gods for their different cultures
-- The Buddha saw the problems with Hinduism and so he created Buddhism as to have no personal God, and instead rely on the impersonal Sunya or Zen -->
- 
-<!-- Thus, for monotheism and polytheism, the idea of God is the positive counterweight to negative things in Existence, while for Atheism and Omnitheism, God is that Existence itself. 
 
-The definition of the former focuses on the negative aspect of Existence, such as Apocalypse, the Devil, and the End of Days, while the latter does not. Since mentality creates reality, we go with the latter definition. In this way, we build a system that is naturally free from conflict and negativity, very different from the other systems that have naturally-perpetual conflict .
- -->
+<!-- Ideas are static metaphysical objects carved out of the infinity of possible objects. Instead of mass, ideas use probability and all ideas have an equal probability. Even consciousness is an idea. It is its starting point in the physical dimension that makes the difference. For example, if Covid started in Antartica then it would be an insignificant idea. If a galaxy started in an energy-less part of the universe, then it would be insignificant as well. So the idea that supports Covid is its RNA, just as the idea supporting a galaxy is its supermassive black hole and there is no need for dark matter and that's why they will never find it no matter how many MIT or Berkley geniuses they throw at it. -->
 
-<!-- > *We emphasize 'felt the need' in order to be consistent with [our moral solution](/superphysics/principles/idea) of getting all the feelings of diifferent human societies so that we can find the lowest-common-denominator-feeling. 
 
-
-If all the inventions of God, Yahweh, Allah, etc are all caused by our positive feelings in their effort to counteract negative feelings, then finding a common positive feeling can lead to a framework to unify all those Supreme Deities for the sake of peace and unity instead of division and conflict. 
-
-Omnitheism proposes to do this by having only two things:
-
-1. Existence - this is the impersonal Whole
-2. A Supreme Entity - this is the personal Deity
-
-Existence has infinite (or arbitrary) attributes, whereas the Supreme Entity only has two attributes:
-
-1. It is Supreme
-2. It is an Entity
-
-Thus, the impersonal Matrix, Sunya, Brahma, Tao represents Existence, while the personal God, Allah, Yahweh, Kali, Ganesh, represent the personal solutions to the negativity in Existence. 
-
-The more negativity the mind experiences, the more deities it needs to create as a counterweight. But since negativity arises from ignorance, then the more knowledge humans get, the less the need for having so many deities with so many attributes. 
-
-For example, in the ancient past, humans didn't know the principles behind volcanic eruptions and so they assigned it to a volcano-god. After geology was known, then the volcano-god no longer needs to exist. 
-
-We can extend this pattern and say that as humans learn and master the principles of Existence, then the less their need for numerous deities or for a Supreme Deity to have so many attributes. Instead, those attributes transfer over onto those existential principles. This is why our Supreme Entity concept only has two attributes, and Existence has infinite ones.
-
+<!-- Our solution to differences in moral standards is to get as many feelings as possible and then get the lowest-common-denominator-feeling that can serve as the base of a universal moral system. 
  -->
