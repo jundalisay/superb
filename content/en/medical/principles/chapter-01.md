@@ -1,6 +1,8 @@
 ---
-title: "David Hume's Idea of the Self"
-heading: "There are 3 billion yous"
+heading: "Chapter 1"
+title: "The Self"
+# title: "David Hume's Idea of the Self"
+# heading: "There are 3 billion yous"
 date: "2020-01-01"
 image: "/photos/social/monkey.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
@@ -15,10 +17,12 @@ author: "Juan"
 icon: /icons/spmed.png
 aliases:
   /medical/idea-of-self
+  /medical/mental/principles/idea-of-self  
   /articles/medical/idea-of-self/
   /articles/medical/david-hume-idea-of-self
   /articles/social/david-hume-idea-of-self
 ---
+
 
 In Book 1 of *A Treatise of Human Nature*, David Hume laid out his principle of the self.
 

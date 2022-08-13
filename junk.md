@@ -13,6 +13,17 @@ MEDICAL SUPERPHYSICS
 - sexuality
 
 
+Oxford, China, Cuba, and Russia didn't need any free market prize system. They had a need, found some capable researchers, and funded them. Simple. No need for AMC for development. They then found friendly countries to export those vaccines to. No need for AMC for mass production. 
+
+The failure of the AMC model is proven by the shortcomings of COVAX -- because the prize-givers wanted the prize for themselves and there is no higher authority (i.e. world government) to police the prize givers. 
+
+Did Gan's advocate for a world government to regulate AMCs? No he did not. 
+
+https://www.nytimes.com/2021/08/02/world/europe/covax-covid-vaccine-problems-africa.html
+
+
+
+
 LAW, POLITICS, SOCIETY
 
 Commmon interest

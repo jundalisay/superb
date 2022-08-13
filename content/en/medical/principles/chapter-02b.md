@@ -12,7 +12,9 @@ author: Juan
 icon: /icons/spmed.png
 aliases:
   /medical/viruses-are-ideas/
+  /medical/physical/principles/viruses-are-ideas
 ---
+
 
 Viruses are not living organisms, but are merely bad idea-waves, manifesting as RNA-particles or code, which infect the code or DNA of actual living organisms. <!-- This means that your soul is ultimately also an idea that 'infects' your body. -->
 

@@ -27,14 +27,16 @@ Yes! and No! is our answer.
 
 
 
-The [previous post](/superphysics/principles/idea) talked about ideas and feelings, as subdivisions of experience:
+We said that ideas and feelings are subdivisions of experience:
 
 - experiencer
 - experience
   - feelings 
   - ideas
 
-The Negative Force leads to experiences, while the Positive leads to the understanding of those experiences.  
+Experiences are powered by 2 Forces:
+- The Negative Force leads to experiences
+- The Positive leads to the understanding of those experiences
 
 But what about the experiencer or the mind that experiences those ideas and feelings? 
 

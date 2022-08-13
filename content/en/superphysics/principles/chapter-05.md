@@ -5,7 +5,7 @@ title: "Desire and the Two Forces"
 heading: "Chapter 5"
 # heading: "Inside the Matrix or the Mind of the Brahma"
 # date: 2020-01-02
-date: 2020-12-27
+date: 2020-12-26
 image: /photos/meta/yinyang.jpg
 description: "Everything in existence is created by the two forces"
 # an idea of the Creator of that existence
@@ -19,8 +19,8 @@ tags: ['Lao Tzu', 'Yin Yang']
 # categories: ['Superphysics']
 comments:
   - img: "/avatars/huong.jpg"
-    content: "Appreciate the deep insights!"
-    commentdate: 2022-04-01  	
+    content: "How can we control our desires?"
+    commentdate: 2022-04-01
 ---
 
 

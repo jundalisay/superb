@@ -6,10 +6,10 @@ title: "What is Superphysics?"
 date: 2020-12-21
 image: /covers/spblack.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
-linkb: /superphysics/principles/consciousness
-linkbtext: "What is consciousness?"
-linkf: /superphysics/socratic-dialectics
-linkftext: "What is Socratic dialectics?"
+linkb: /superphysics/principles/chapter-09
+linkbtext: "Consciousness"
+linkf: /superphysics/principles/chapter-11
+linkftext: "Socratic dialectics"
 author: Juan
 icon: /icons/sp.png
 aliases:
@@ -22,7 +22,7 @@ comments:
 ---
 
 
-## The Englightenment
+## The Enlightenment
 
 From the time of Plato and Aristotle up to Kant, philosophy dominated the study of human knowledge in the West. It included metaphysics and was only countered, or offset, by religion:
 

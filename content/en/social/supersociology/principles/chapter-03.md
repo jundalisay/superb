@@ -38,11 +38,13 @@ Like any sense, it has to be trained and practiced in order for it to be more ef
 
 Without such morals, each soul will act arbitrarily according to its own selfish-interest. This usually infringes on the happiness of other souls leading to unsocial and unjust behavior such as discord and crime. If kept uncorrected, these lead to disorder, or even revolution.
 
-<br>
+
 
 ## Justice to the Rescue 
 
-To reduce the pain and unhappiness from such disorders, humans developed the concept of justice which is really the dharma of society, just as good health is the dharma of a human body. We this, we can make an analogy that injustice is the disease of society, just as revolution is its death. Rebels and terrorists are cancers and viruses, while social events are exercise and good education is proper food. The lawmakers are the doctors, while courts are the therapists.
+To reduce the pain and unhappiness from such disorders, humans developed the concept of justice which is really the dharma of society, just as good health is the dharma of a human body. We this, we can make an analogy that injustice is the disease of society, just as revolution is its death. 
+
+Rebels and terrorists are cancers and viruses, while social events are exercise and good education is proper food. The lawmakers are the doctors, while courts are the therapists.
 
 ![Common interest](https://sorasystem.sirv.com/graphics/common.png)
 

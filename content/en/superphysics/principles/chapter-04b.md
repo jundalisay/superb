@@ -1,8 +1,9 @@
 ---
+# heading: "Math for Qualities and Ratios" 
+heading: "Chapter 4b"
 title: "What is Qualimath?"
-heading: "Math for Qualities and Ratios" 
 # more than Quantities and Equalities"
-date: 2020-07-07
+date: 2020-12-27
 image: "/graphics/physics/math.jpg"
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
 linkb: /superphysics/solutions/isaiah
@@ -13,7 +14,8 @@ author: Juan
 icon: /icons/sp.png
 math: true
 aliases:
-  "/articles/superphysics/what-is-qualimath/"
+  /articles/superphysics/what-is-qualimath/
+  /superphysics/solutions/qualimath/
 comments:
   - img: "/avatars/lam.jpg"
     content: "Can I use it to solve my math homework?"

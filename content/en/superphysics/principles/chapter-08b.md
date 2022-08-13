@@ -67,7 +67,7 @@ Theory of Moral Sentiments, Part 4
 {{< /quote >}}
 
 
-## How Religions Implment the Moral Feelings
+## How Religions Implement the Moral Feelings
 
 Religions have developed different strategies to quell the ego and develop the impartial spectator or encourage the moral sense:
 - Hinduism prevents the ego from being fed by **renouncing the world**

@@ -13,7 +13,9 @@ icon: /icons/spmed.png
 aliases:
   /articles/medical/covid-flu-star/
   /medical/physical/covid-flu-star/
+  /medical/physical/solutions/covid-flu-star/
 ---
+
 
 
 {{< message title="Note" >}}

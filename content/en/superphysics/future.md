@@ -8,6 +8,7 @@ linkftext: "What is ISAIAH?"
 linkb: /superphysics/solutions/ideology-matrix
 linkbtext: "Ideology matrix"
 author: Juan
+draft: true
 icon: /icons/sp.png
 icontext: Superphysics icon
 ---

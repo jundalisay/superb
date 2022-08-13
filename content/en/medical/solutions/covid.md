@@ -13,7 +13,9 @@ icon: /icons/spmed.png
 aliases:
   /solutions/medical/how-to-stop-covid/
   /medical/how-to-stop-covid/
+  /medical/physical/solutions/how-to-stop-covid/
 ---
+
 
 
 > *This post emphasizes workarounds like Chinese medicine, Ayurveda, Ivermectin, etc because it was written when vaccines were unavailable. Vaccination is the best workaround as it 'schools' the immune system on how to deal with viruses and since the policy of Medical and Social Superphysics is 'prevention is better and cheaper than cure'. 
@@ -40,7 +42,6 @@ The reason why Western Medicine cannot solve viruses quickly and easily is becau
 
 Western Medicine has no scope to believe in anything that is beyond the five senses, making it a kind of reverse dogma which limits its capabilities. A blind belief in spirits and unseen things is bad, but blindly believing that there is nothing beyond the five senses also has bad consequences, especially if it is enshrined into health policy.
 
-<br>
 
 ## Socrates' Dialectics to the Rescue
 

@@ -11,8 +11,10 @@ heading: He was Vegetarian
 author: Juan
 icon: /icons/spmed.png
 aliases:
-   "/articles/medical/adam-smith-on-vegetarian-diets"
+   /articles/medical/adam-smith-on-vegetarian-diets
+   /medical/physical/smith-veg
 ---
+
 
 The recent trend in extreme weather, as seen in El Nino, in the drought in California, and in supertyphoons, has proven that climate change is here and that it can get worse if nothing is done.
 

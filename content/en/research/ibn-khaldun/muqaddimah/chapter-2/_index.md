@@ -1,7 +1,7 @@
-+++
-title= "The Bedouins"
-description= "The Bedouins and savage nations"
-image= "/covers/muq.jpg"
-date= "2022-01-29"
-# image= "/photos/medieval/camels.jpg"
-+++
+---
+heading: "Chapter 2"
+title: "The Bedouins"
+description: "The Bedouins and savage nations"
+date: 2022-01-29
+image: "/covers/muq.jpg"
+---

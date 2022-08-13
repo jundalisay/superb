@@ -6,10 +6,10 @@ heading: "Chapter 9"
 date: 2020-12-22
 image: /photos/physics/ai.jpg
 description: "Consciousness is the perception of ideas and feelings"
-linkb: /superphysics/principles/god
-linkbtext: "God is existence"
-linkf: /superphysics/what-is-superphysics
-linkftext: "what-is-superphysics?"
+linkb: /superphysics/principles/chapter-08b
+linkbtext: "God"
+linkf: /superphysics/principles/chapter-10
+linkftext: "Superphysics"
 author: Juan
 icon: /icons/sp.png
 aliases:
@@ -282,10 +282,10 @@ We this break down Existence into the following:
       - living mind, nonliving mind
       - metaphysical mind, physical mind
   - experience
-    - ideas
-      - Dharma or True Nature
-      - physical and metaphysical things
     - feelings
       - Positive Force 
       - Negative Force
       - morality
+    - ideas
+      - Dharma or True Nature
+      - physical and metaphysical things

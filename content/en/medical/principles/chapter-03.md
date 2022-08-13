@@ -16,6 +16,7 @@ icon: "/icons/spmed.png"
 aliases:
   /medical/diseases-have-been-cured
   /medical/five-medical-paradigms/
+  /medical/physical/principles/5-paradigms
 comments:
   - img: "/avatars/huong.jpg"
     content: "Can you suggest a good TCM or Ayurveda practitioner?"

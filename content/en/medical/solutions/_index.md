@@ -1,6 +1,7 @@
 ---
-title: "Unified Health"
-image: "/photos/med/alzh.jpg"
+title: "Solutions (Unified Health Paradigm)"
+image: "/covers/solutions.png"
+# image: "/photos/med/alzh.jpg"
 description: "Coming Soon!"
 heading: "Coming Soon!"
 type: "featured"

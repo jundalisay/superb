@@ -10,6 +10,7 @@ linkb: /superphysics/principles/god
 linkbtext: "God is existence"
 author: Juan
 icon: /icons/sp.png
+draft: true
 ---
 
 Coming soon!

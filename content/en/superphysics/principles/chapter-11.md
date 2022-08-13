@@ -7,9 +7,9 @@ date: 2020-12-20
 image: "/covers/socrates.jpg"
 description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
 linkb: "/superphysics/principles/chapter-10"
-linkbtext: "What-is-superphysics?"
-linkf: "/superphysics/solutions/ideology-matrix"
-linkftext: "Ideology-matrix"
+linkbtext: "Superphysics"
+linkf: "/superphysics/principles"
+linkftext: "Principles"
 author: Juan
 icon: /icons/sp.png
 aliases:
