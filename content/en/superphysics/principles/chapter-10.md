@@ -212,7 +212,9 @@ For example, one of the end goals of Pantrynomics is economic singularity wherei
 With these, we can define Superphysics as a paradigm that merges the known and proven perceptions of the physical and metaphysical dimension in order to find patterns and principles for the sake of solving problems.
 
 Those principles are then gathered as The Metaphysics of Things
+
 The process for coming up with those principles is called Socratic Dialectics
+
 Those principles are then implemented in the real world through technology and practical techniques
 
  

@@ -20,9 +20,18 @@ aliases:
 
 ## The Original Dialectics, Based on the Nature of Things
 
-The Dialectics of Socrates, or David Hume's science of man, is a system of analysis based on the invisible metaphysical True Nature or Dharma or Tao* of anything that exists in reality. 
+The Dialectics of Socrates, or David Hume's science of man, is a system of analysis based on the invisible metaphysical True Nature or Dharma or Tao* of anything that exists in reality.
 
-Its goal is to solve real, visible problems in order to keep up with that invisible nature, dharma, or tao. Or rather, problems crop up when one goes against that dharma or tao. For example, loading a pickup truck with 2 tons of load when it was only designed for 1 ton will cause problems. 
+Problems begin when something does not keep in line with its nature. For example:
+- loading a pickup truck with 2 tons when it was only designed for 1 ton will cause problems
+- eating too much too fast will lead to stomach problems
+- installing an app that requires 2GB RAM on a device with only 1GB RAM will lead to errors
+
+Superphysics aims to solve real-world problems by:
+- finding the true nature, dharma, or tao of the elemens of the problem
+- tracing the events or circumstances that caused those elements to veer off of its nature  
+- suggest ways to get back to that 'natural' or proper state
+
 
 ![Socrates' profile](/covers/socrates.jpg)
 
@@ -30,7 +39,9 @@ Its goal is to solve real, visible problems in order to keep up with that invisi
 
 
 
-Socrates calls this Dharma or Tao as the first principle or True Nature of anything that exists in the physical domain (observable by the five senses). This Dharma, Tao, or True Nature itself resides in the invisible metaphysical domain of ideas and feelings. You cannot see your ideas and feelings. Instead, you can make them 'real' in the physical domain by expressing them physically:
+Socrates calls this Dharma or Tao as the first principle or True Nature of anything that exists in the physical domain (observable by the five senses). This Dharma, Tao, or True Nature itself resides in the invisible metaphysical domain of ideas and feelings. 
+
+You cannot see your ideas and feelings. Instead, you can make them 'real' in the physical domain by expressing them physically:
 - speaking
 - drawing
 - acting out 
@@ -75,6 +86,7 @@ The problem here is that **all causes are metaphysical in nature, since all caus
 - Covid is caused by the idea of coronaviruses which are felt as symptoms of coughing, fever, loss of taste, etc. Before science, epidemics were thought to be caused by evil spirits of unknown cause. Both science and non-science are ignorant* of the root cause of such viruses and evil spirits. 
 
 > *Superphysics places the root cause of such viruses or spirits as [coming from stars](/articles/medical/covid-flu-star), just like all matter comes from supernovae (star explosion)
+
 
 Math, on the other hand, is confined to physical perceptions. The best that math and science can do is to speculate on the causes of problems based on the pattern of effects. It's like a blind man groping in the dark to discover where he is or what's around him. 
 

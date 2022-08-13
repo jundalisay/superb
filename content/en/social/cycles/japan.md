@@ -88,7 +88,9 @@ The dominance of the daimyos over the shogun leads to a solution that does not w
 
 After a modern Tokugawa quells his daimyos, the question then becomes: what policies should be implemented? 
 
-From the failure of Abenomics it's obvious that the policy should not be Keynesian. From the prioritization of the arrows, you can see the dominance of money in making up the first two goals. The dominance of money is also present in Keynes' General Theory. In fact, the three arrows of Abenomics looks as though someone copy-pasted Keynes onto an economic policy plan:
+From the failure of Abenomics it's obvious that the policy should not be Keynesian. From the prioritization of the arrows, you can see the dominance of money in making up the first two goals. The dominance of money is also present in Keynes' General Theory. 
+
+In fact, the 3 arrows of Abenomics looks as though someone copy-pasted Keynes onto an economic policy plan:
 
 - Arrow 1 is [Book 4: The Inducement to Invest](/research/keynes/general-theory/chapter-15). This has the liquidity-preference and monetary expansion
 - Arrow 2 is [Book 3: The Propensity to Consume](/research/keynes/general-theory/chapter-08). This has government spending and the multiplier effect

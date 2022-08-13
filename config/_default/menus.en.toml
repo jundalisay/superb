@@ -169,7 +169,7 @@
     weight = 165
     name = "Sarkar"
     url = "/research/sarkar"
-    pre = "<img src='/icons/sarkar.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+    pre = "<img src='/icons/sarkar.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
     parent = "enl"

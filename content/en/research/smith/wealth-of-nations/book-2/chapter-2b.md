@@ -1,15 +1,17 @@
-+++
-title=  "Money as a store of value and a tool for trade"
-heading=  "Book 2, Chapter 1a"
-description=  "Money has wholesale and retail"
-date=  2020-01-27
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2a-ndp"
-linkbtext=  "Chapter 2a"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2c"
-linkftext=  "Chapter 2c"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Money as a store of value and a tool for trade"
+heading: "Chapter 1a of Book 2 of the Wealth of Nations Simplified"
+date: 2020-01-27
+image: "/covers/wn.jpg"
+description: "Money has wholesale and retail"
+linkb: /research/smith/wealth-of-nations/book-2/chapter-2a-ndp
+linkbtext: "Chapter 2a"
+linkf: /research/smith/wealth-of-nations/book-2/chapter-2c
+linkftext: "Chapter 2c"
+icon: "/icons/smith.png"
+---
+
+
 
 
 {{< s v="14" >}} The machines and tools which make up the fixed capital of an individual or a society are not included in their gross or net revenue.
@@ -49,20 +51,18 @@ But the wealth or revenue is equal only to the purchasing power of money. It is 
 - His weekly revenue is equal to the guinea's worth, not to the actual guinea.
 
 
-19 If his pension were paid in a paper bill representing 1 guinea, his revenue would depend on what he could get for that paper and not the paper itself. The bill will then be considered by all businesses as worth 1 guinea of necessaries and conveniences.
+{{< s v="19" >}} If his pension were paid in a paper bill representing 1 guinea, his revenue would depend on what he could get for that paper and not the paper itself. The bill will then be considered by all businesses as worth 1 guinea of necessaries and conveniences.
 
 The person's revenue would not consist in paper guinea or gold guinea, but in what he can get for it. If it could be exchanged for nothing, the paper bill would be like a bill upon a bankrupt and be worthless.
 
-20 The revenue of all a country's inhabitants is paid in money.
 
-**But their real riches is always proportional to the amount of consumable goods which they can buy with this money. Their entire revenue taken together is not equal to both the money and the consumable goods.**
+{{< s v="20" >}}  The revenue of all a country's inhabitants is paid in money.
+- **But their real riches is always proportional to the amount of consumable goods which they can buy with this money. Their entire revenue taken together is not equal to both the money and the consumable goods.**
+- **It is only equal to the consumable goods.**
 
-**It is only equal to the consumable goods.**
+{{< s v="21" >}} We frequently express a person's revenue by the money paid to him because the amount of those pieces regulates the value of the goods that he can buy. But we still consider his revenue as consisting in this power of purchasing or consuming, and not in the pieces which convey it.
 
-
-21 We frequently express a person's revenue by the money paid to him because the amount of those pieces regulates the value of the goods that he can buy. But we still consider his revenue as consisting in this power of purchasing or consuming, and not in the pieces which convey it.
-
-22 An individual's purchasing power is similar to the society's purchasing power.
+{{< s v="22" >}} An individual's purchasing power is similar to the society's purchasing power.
 
 The amount of money paid to an individual, is often precisely equal to his revenue. It is thus the shortest and best expression of its value.
 
@@ -75,16 +75,17 @@ For example, a single 1 guinea coin may pay the pension of=
 
 Their combined purchasing power or combined revenue is 3 guineas, whereas the actual money circulating was only 1 guinea. Their combined revenue therefore cannot consist in the amount of money circulating, which is of much smaller value than their revenue or purchasing power.
 
-23 Physical money is the great wheel of circulation and the great instrument of commerce.
+
+{{< s v="23" >}} Physical money is the great wheel of circulation and the great instrument of commerce.
 
 Like all instruments of trade, it makes no part of the revenue of its society.
 Physical money makes no part of the revenue, even though it distributes to every man the revenue which belongs to him.
 
-24 Every reduction in the cost of collecting and supporting the circulating capital called money is an improvement exactly of the same kind as every saving and cost-reduction in the building and supporting of fixed capital like machines and tools, as long as the savings do not reduce productivity.
+{{< s v="24" >}} Every reduction in the cost of collecting and supporting the circulating capital called money is an improvement exactly of the same kind as every saving and cost-reduction in the building and supporting of fixed capital like machines and tools, as long as the savings do not reduce productivity.
 
 Both savings are an improvement of the society's net revenue.
 
-25 Reducing the cost of supporting the fixed capital improves the society's net revenue.
+{{< s v="25" >}} Reducing the cost of supporting the fixed capital improves the society's net revenue.
 
 The owner’s capital is divided between his fixed and circulating capital.
 The smaller the one part, the greater must be the other.
@@ -93,7 +94,7 @@ The circulating capital furnishes the materials and wages of labour and puts ind
 
 Every reduction in the cost of maintaining the fixed capital, which does not reduce productivity, must increase the fund which mobilizes industry. The reduction in the cost increases the society's real revenue.
 
-26 The substitution of gold and silver money with paper, replaces a very expensive instrument of commerce with one much less costly. It is sometimes equally convenient.
+
+{{< s v="26" >}} The substitution of gold and silver money with paper, replaces a very expensive instrument of commerce with one much less costly. It is sometimes equally convenient.
 
 Circulation is carried on by a new wheel. This new wheel costs less to build and maintain. But it is not obvious how this new wheel increases the gross or net revenue of society.
-

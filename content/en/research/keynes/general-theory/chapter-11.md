@@ -2,16 +2,14 @@
 title= "The Marginal Efficiency of Capital"
 description= "the prospective yield of the investment"
 image= "/covers/general.jpg"
-# image= "https://sorasystem.sirv.com/hero/trend.jpg"
 date= 2020-01-19
 linkb= "/research/keynes/general-theory/chapter-10"
 linkbtext= "chapter-10"
 linkf= "/research/keynes/general-theory/chapter-12"
 linkftext= "chapter-12"
 icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
 +++
+
 
 When a man makes an investment, he buys the right to prospective returns.
 

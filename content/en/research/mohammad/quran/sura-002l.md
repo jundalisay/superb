@@ -62,78 +62,86 @@ Any charity you give is:
 - for the sake of Allah
   - for your own good
 
-Any charity you give will be repaid to you in full, and you will not be wronged.
+Any charity you give will be repaid to you in full, and you will not be wronged. 
 
+{{< s v="273" >}} Charity is for:
+- the poor
+- those who are restrained in the way of Allah, unable to travel
 
-273. It is for the poor; those who are restrained in the way of Allah, and unable to travel in
-the land. The unaware would think them rich, due to their dignity. You will recognize
-them by their features. They do not ask from people insistently.
+You will recognize them by their features.
+- They do not ask from people insistently.
+- The unaware would think them rich, due to their dignity.
 
+{{< s v="274" >}} Those who spend their wealth by night and day, privately and publicly, will receive their reward from their Lord. <!-- They have nothing to fear, nor shall they grieve. -->
 
-274. Those who spend their wealth by night and day, privately and publicly, will receive their reward from their Lord. They have nothing to fear, nor shall they grieve.
+{{< s v="275" >}} Those who swallow usury will not rise, except as someone driven mad by Satan's touch. That is because they say, “Commerce is like usury.” 
 
-275. Those who swallow usury will not rise, except as someone driven mad by Satan's touch.
+But Allah has:
+- permitted commerce, and
+- forbidden usury. 
 
-That is because they say, “Commerce is like usury.” But Allah has permitted commerce, and has forbidden usury. Whoever, on receiving advice from his Lord, refrains, may keep his past earnings, and his case rests with Allah. But whoever resumes—these are the dwellers of the Fire, wherein they will abide
-forever.
+Whoever <!-- on receiving advice from his Lord, --> refrains from usury may keep his past earnings. <!-- , and his case rests with Allah. -->
+- But whoever resumes usury, these will burn in Hell. <!-- are the dwellers of the Fire. -->
 
-276. Allah condemns usury and blesses charities. <!-- Allah does not love any sinful ingrate. -->
+{{< s v="276" >}} Allah condemns usury and blesses charities. <!-- Allah does not love any sinful ingrate. -->
 
-277. Those who believe, and do good deeds, and pray regularly, and give charity—they
-will have their reward with their Lord; they will have no fear, nor shall they grieve.
+<!-- 277. Those who believe, and do good deeds, and pray regularly, and give charity—they
+will have their reward with their Lord; they will have no fear, nor shall they grieve. -->
 
-278. Muslims,  Fear Allah, and forgo what remains of usury, if you are believers.
+{{< s v="278" >}} Muslims, forgo what remains of usury.
+- {{< s v="279" >}} If you do not, then take notice of a war by Allah and His Messenger. 
+- But if you repent, you may keep your capital, neither wronging nor being wronged.
 
-279. If you do not, then take notice of a war by Allah and His Messenger. But if you repent,
-you may keep your capital, neither wronging, nor being wronged.
-
-280. But if he is in hardship, then deferment until a time of ease. But to remit it as charity
-is better for you, if you only knew.
+{{< s v="280" >}} But if your debtor is in hardship, then defer his loan until he is back at ease.
+- But it is better to give it as a charity to him.
+<!-- is better for you, if you only knew. -->
 
 <!-- 281. And guard yourselves against a Day when you will be returned to Allah; then each soul
 will be rewarded fully for what it has earned, and they will not be wronged. -->
 
-282. Muslims, when you incur debt among yourselves for a certain period of time, write it down.
-
-Have a scribe write in your presence, in all fairness. 
-
-And let no scribe refuse to write, as Allah has taught him. 
-
-So let him write, and let the debtor dictate.<!--  And let him fear Allah, his Lord, and diminish nothing from it. --> 
-
-But if the debtor is mentally deficient, or weak, or unable to dictate, then let his guardian dictate with honesty.
-
-Call to witness 2 men from among you. If 2 men are not available, then one man and 2 women whose testimony is acceptable to all—if one of them fails to remember, the other would remind her. 
+{{< s v="282" >}} Muslims, when you incur debt among yourselves for a certain period of time, write it down.
+- Have a scribe write in your presence, in all fairness. 
+<!-- - And let no scribe refuse to write, as Allah has taught him.  -->
+- Let the debtor dictate.<!-- So let him write, and -->  <!--  And let him fear Allah, his Lord, and diminish nothing from it. --> 
+- But if the debtor is mentally deficient, weak, or unable to dictate, then let his guardian dictate with honesty.
+- Call to witness 2 men from among you.
+- If 2 men are not available, then 1 man and 2 women whose testimony is acceptable to all
+  - If one of them fails to remember, the other would remind her. 
 
 Witnesses must not refuse when called upon.
+- Do not think it too trivial to write down, whether small or large, including the time of repayment. 
 
-Do not think it too trivial to write down, whether small or large, including the time of repayment. 
+That is:
+- more equitable with Allah
+- stronger as evidence, and
+- more likely to prevent doubt
+  - This is except in the case of a spot transaction between you. Then there is no blame on you if you do not write it down. 
 
-That is more equitable with Allah, and stronger as evidence, and more likely to prevent doubt—except in the case of a spot
-transaction between you—then there is no blame on you if you do not write it down. 
+Let there be witnesses whenever you conclude a contract.
+- Let no harm be done to either scribe or witness. 
+- If you do that, it is corruption on your part. 
 
-Let there be witnesses whenever you conclude a contract. Let no harm be done to either scribe or witness. If you do that, it is corruption on your part. 
-
-{{< s v="283">}} If you are on a journey, and cannot find a scribe, then a security deposit should be handed over. 
-
-But if you trust one another, let the trustee fulfill his trust. <!-- , and let him fear Allah, his Lord. -->Do not conceal testimony. 
+{{< s v="283">}} If you are on a journey and cannot find a scribe, then a security deposit should be handed over. 
+- But if you trust one another, let the trustee fulfill his trust. <!-- , and let him fear Allah, his Lord. -->
+- Do not conceal testimony. 
 
 <!-- Whoever conceals it is sinner at heart. Allah is aware of what you do. -->
 
 <!-- {{< s v="284">}} To Allah belongs everything in the heavens and the earth. Whether you reveal what is
 within yourselves, or conceal it, Allah will call you to account for it.  -->
 
-
+<!-- 
 285. The Messenger has believed in what was revealed to him from his Lord, as did the believers. 
 
 They all have believed in Allah, and His angels, and His scriptures, and His messengers: “We make no distinction between any of His messengers.” 
 
-And they say, “We hear and we obey. Your forgiveness, our Lord. To you is the destiny.”
+And they say, “We hear and we obey. Your forgiveness, our Lord. To you is the destiny.” -->
 
-286. Allah does not burden any soul beyond its capacity. 
+{{< s v="286">}} Allah does not burden any soul beyond its capacity. 
+- To its credit is what it earns, and against it is what it commits. 
 
-To its credit is what it earns, and against it is what it commits. 
-
-“Our Lord, do not condemn us if we forget or make a mistake. Our Lord, do not burden us as You have burdened those before us. 
-
-Our Lord, do not burden us with more than we have strength to bear; and pardon us, and forgive us, and have mercy on us. You are our Lord and Master, so help us against the disbelieving people.”
+Say: “Our Lord, do not:
+- condemn us if we forget or make a mistake
+- burden us as You have burdened those before us
+- burden us with more than we have strength to bear
+<!-- and pardon us, and forgive us, and have mercy on us. You are our Lord and Master, so help us against the disbelieving people. -->”

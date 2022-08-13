@@ -1,27 +1,30 @@
-+++
-title= "The Choice of Units"
-description= "Keynes overturns Classical Economics and imposes two measures= hourly-common-labour and hourly-common-wage"
-image= "/covers/general.jpg"
-date= 2020-01-27
-linkb= "/research/keynes/general-theory/chapter-03"
-linkbtext= "chapter-3"
-linkf= "/research/keynes/general-theory/chapter-05"
-linkftext= "chapter-5"
-icon= "/icons/keynes.png"
-+++ 
+---
+title: "The Choice of Units"
+heading: "Chapter 4"
+description: "Keynes overturns Classical Economics and imposes two measures= hourly-common-labour and hourly-common-wage"
+image: "/covers/general.jpg"
+date: 2020-01-13
+linkb: "/research/keynes/general-theory/chapter-03"
+linkbtext: "chapter-3"
+linkf: "/research/keynes/general-theory/chapter-05"
+linkftext: "chapter-5"
+icon: "/icons/keynes.png"
+---
+
 
 
 Chapters 4 to 7 are a digression on three perplexities:
 
 1. The choice of the units of quantity for an economic system as a whole
-
 2. The part played by expectation in economic analysis
-
 3. The definition of income
 
-The units of Economics are unsatisfactory. This is proven by the National Dividend which is the stock of real capital and the general price-level:
+The units of Economics are unsatisfactory becuase of 3 things:
 
-> 1. The National Dividend
+<!-- . This is proven by the National Dividend which is the stock of real capital and the general price-level: -->
+
+
+## 1. The National Dividend
 
 This was defined by Marshall and Professor Pigou. It measures the **volume** of current output (real income) and not the **value** of output or money-income. 
 
@@ -31,17 +34,19 @@ Furthermore, it depends on **net output** which is the net addition to the resou
 
 This net output is from the economic activities and sacrifices of the current period, after allowing for the wastage of  real capital at the start of the period. They did this to try to create a quantitative science. 
 
-<b>But I seriously object to this because the society's output of goods and services is a non-homogeneous complex which cannot be measured*.</b>
+**But I seriously object to this because the society's output of goods and services is a non-homogeneous complex which cannot be measured** *.
 
 
-> *Superphysics Note= This is the same essence as Ricardo's objection to Adam Smith using grains as the measure of value.
+> *Superphysics Note: This is the same essence as Ricardo's objection to Adam Smith using grains as the measure of value.
 
 
 
 It can be measured only in special cases. For example, when all the items of one output are included in the same proportions in another output.
 
 
-2. The net output is ever harder to calculate when we try to measure the net addition to capital equipment. 
+## 2. The Net Output
+
+This is ever harder to calculate when we try to measure the net addition to capital equipment
 
 In this, we must find some basis for a quantitative comparison between the new equipment and the old ones that perished by wastage.
 
@@ -58,7 +63,7 @@ Without a common unit, there is no solution to the problem of:
 - calculating net output by setting off new items of equipment against the wastage of old items
 
 
-3. The concept of general price-level is vague
+## 3. The concept of general price-level is vague
 
 <!-- This makes it very unsatisfactory for causal analysis, which ought to be exact. Nevertheless these difficulties are rightly regarded as --> This is a “purely theoretical” conundrum that they never perplexes business decisions. These are irrelevant to causal economic events which are clear-cut and determinate despite the quantitative indeterminacy of this concept.
 
@@ -110,11 +115,11 @@ In this way, 1 hour of special labour paid at 2x ordinary labor at 1 hour will c
 - "wage-unit" is the money-wage of a labour-unit*.[5] 
 
 
-> *Superphysics note= We rename labour unint into hourly-common-labour and wage unit as hourly-common-wage
+> *Superphysics note: We rename labour unit into "hourly-common-labour" and wage unit as "hourly-common-wage"
 
 <!-- We shall call the unit in which the quantity of employment is measured the . -->
 
-Thus, `E = NW` 
+Thus, `E = NW`
 
 - `E` is wages
 - `W` is the hourly-common-wage

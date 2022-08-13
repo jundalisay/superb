@@ -78,7 +78,9 @@ Through time, these desires and experiences form a pattern which manifest as soc
 
 Our social cycle model applies on all events, but is easiest applied on presidential elections and economic events since they have very granular and detailed data as votes and prices, respectively. It can even be applied on sporting events* because a team is also a society-organism made up of its team members and the score is the objective data that can be modeled, with the two forces being the desire of each team.
 
-> *According to this principle, between two equally matched teams, the date and time of the sporting event decides the winner. This negates home-court advantage and explains why teams can win away from home.
+> *According to this principle, between two equally matched teams, the date and time of the sporting event decides the winner. 
+
+<!-- This negates home-court advantage and explains why teams can win away from home. -->
 
 
 
@@ -104,7 +106,11 @@ In the simplest terms:
 
 The Great Depression began as the "Roaring Twenties" which degraded into a long recession which had to be relieved by a World War as a reboot of the Western society-organism.
 
-The ultimate cause of the depression was that the rich people from the Roaring Twenties wanted to be even richer, so they invented stock speculation (borrowing on margin) and imposed tariffs on imported goods. But Adam Smith said that societies have a natural level of productivity. If you exceed this level, you will be getting nothing back, and this nothingness (no revenue to match the investment) manifests as a crash. And that's exactly what happened inthe Great Crash of 1929.
+The ultimate cause of the depression was that the rich people from the Roaring Twenties wanted to be even richer, so they invented stock speculation (borrowing on margin) and imposed tariffs on imported goods. 
+
+But Adam Smith said that societies have a natural level of productivity*. If you exceed this level, you will be getting nothing back, and this nothingness (no revenue to match the investment) manifests as a crash. And that's exactly what happened inthe Great Crash of 1929.
+
+> *This leads to our concept of economic balance, an idea that does not exist in Neoclassical Economics 
 
 {{< quote ava="smith" >}}
 <p>In businesses which can only be transacted with money, that money can always be found. If they do not find it, their failure is caused by their unnecessary and excessive enterprise, not of their poverty. It is not because they are poor that their payments are irregular and uncertain, but because they aretoo eager to become excessively rich.</p>
@@ -117,7 +123,7 @@ Suddenly, the US economy became nothing after 1929 and the US society-organism b
 This led to a metaphysical clash of ideas which sparked a physical world war*.
 
 
-> *David Hume wrote that mentality creates reality. This means if your society BELIEVES in an apocalypse or a war to end all wars, then such a war will eventually HAPPEN because the soul of society created it as a probability in the metaphysical dimension, waiting for deployment in physical reality. This is currently the case in the Middle East where Jews and Muslims believe in an 'end of days'. Such end of days actually happen during airstrikes (by the West) or suicide attacks (by the Islamists)  
+> *David Hume wrote that mentality creates reality. This means if your society BELIEVES in an apocalypse or a war to end all wars, then such a war will eventually HAPPEN because the soul of society created it as a probability in the metaphysical dimension, waiting for deployment in physical reality. This is currently the case in the Middle East where Jews and Muslims believe in an 'end of days'. Such end of days actually happen during airstrikes (by the West) or suicide attacks (by the Islamists). The simplest solution is to drop such a belief.  
 
 
 By applying Adam Smith's economic metaphysics, we can say that the 2008 Financial Crisis had similar dynamics as the 1929 Great Crash and secular stagnation is the current version of the Great Depression. Investment banks were already rich, but they wanted to be even richer so they invented speculative derivatives which would return no revenue*.
@@ -157,20 +163,16 @@ The end effect depressions and stagflations are conflicts or wars, since they ar
 
 
 {{< box >}}
-<div class="columns is-mobile">
-  <div class="column is-6-desktop is-12-mobile">    
-    <img src="/countries/us/trump.jpg" alt="Trump with red cap">
-  </div>
-  <div class="column is-6-desktop is-12-mobile">    
-    <h3 class="subtitle is-4 text-white">Update 2018: 2008-2018 as Iteration 1, 2019-2030 as Iteration 2</h3>
-    <p>
-    America is already great, but Trump wants to make it even greater through a trade war and this will actually make America worse off. Trump is proof that the mentality that created the 1929 Crash and the 2008 Financial Crisis is still alive and kicking, due to the lack of an effective moral system to counter it.
-    </p>
-    <p>
-    If the mentality still exists, then it means the crisis patterns must also follow, which our model predicts to be stagflation sparking in 2019, gathering steam towards 2030, climaxing as conflict.
-    </p>
-  </div>
-</div>
+<!-- ![](/countries/us/trump.jpg) -->
+
+### Update 2018: 2008-2018 as Iteration 1, 2019-2030 as Iteration 2</h3>
+
+America is already great, but Trump wants to make it even greater through a trade war and this will actually make America worse off. 
+
+Trump is proof that the mentality that created the 1929 Crash and the 2008 Financial Crisis is still alive and kicking, due to the lack of an effective moral system to counter it.
+
+If the mentality still exists, then it means the crisis patterns must also follow, which our model predicts to be stagflation sparking in 2019, gathering steam towards 2030, climaxing as conflict.
+
 {{< /box >}}
 
 
@@ -205,7 +207,12 @@ This process can be automated with machine learning to create a digital prophet,
 
 Western economists and policy makers have no idea of metaphysics (karma, dharma, varna, dialectics), so they do not know the root causes of economic crises, wars, and other negative events and therefore are unable to provide real solutions. Proof is that terrorism still exists and economic crises and inequality are still here. North Korea is still nuclear and China is still grabbing land unjustly (just like the Mongols).
 
-By tapping into Western metaphysics of David Hume, Adam Smith, Spinoza and Eastern metaphysics in Hinduism, Buddhism, Sikhism, Taoism, etc., the root causes of any event can be known and the best solutions can be put forward. For the coming crisis, Adam Smith clearly points to the invention of money and commercial paper instruments as the cause, as it allows value to be controlled by a few people which then starves the rest.
+By tapping into Western metaphysics of David Hume, Adam Smith, Spinoza and Eastern metaphysics in Hinduism, Buddhism, Sikhism, Taoism, etc., the root causes of any event can be known and the best solutions can be put forward.
+
+
+## The Moneyless Solution (Update 2019)
+
+For the coming crisis, Adam Smith clearly points to the invention of money and commercial paper instruments as the cause, as it allows value to be controlled by a few people which then starves the rest.
 
 The solution therefore is a system that allows both money and [moneyless transactions](/social/economics/alternatives-to-money). In time, the system will gravitate towards moneyless because of its lower cost. This is because the moneyless system will piggyback on the existing telecoms system, allowing it to save on the overhead needed by banks.
 
