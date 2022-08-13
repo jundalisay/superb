@@ -59,11 +59,19 @@ This domain exists only because of our intellect, as our innate ability to have 
 - We are able to conceive an idea, or think of a thought, **if it bounces back in our minds onto our consciousness**.
 - We are unable to have an idea or though if it does not bounce back to our consciousness.
 
-An example of a metaphysical object that doesn't bounce back is when we forget a thought, such as the password to an email account. We know that it was in our minds in the past, but our consciousness couldn't 'find' it because the effort that the mind exerts in remembering it doesn't bounce back with the actual password.
+An example of a metaphysical object that doesn't bounce back is when we forget a thought, such as the password to an email account. We know that it was in our minds in the past, but our consciousness couldn't 'find' it because the effort that the mind exerts in remembering it doesn't bounce back with the actual password. It would be like querying a database without the query returning anything. 
 
-Another example is a problem that we have no solution for, such as how to increase sales that are declining, or how to make a device work. We think about the solution by brainstorming, but still it might not reflect to our consciousness. 
+Another example is a problem that we have no solution for, such as:
+- how to increase sales that are declining, or
+- how to make a device work. 
 
-The solution finally reflects to our consciousness after we ask our customers directly, or read the device's user manual. At that moment, our minds feel a relief. 
+In such cases, we think about the solution by:
+- brainstorming, or
+- tinkering with the device
+
+Even then, the solution might still not reflect to our consciousness. 
+
+The solution might finally reflect after we ask our customers directly, or read the device's user manual. At that moment, our minds feel a relief since its effort can end. 
 
 
 
@@ -77,7 +85,7 @@ The metaphysical domain exists inside our abstract minds and is infinitely large
 
 <!-- This matches the common opinion that the physical universe is much larger than what we can currently perceive. We can say that the unknown parts are part of the metaphysical domain until they are actually perceived physically.  -->
 
-We call this domain "aethereal" or made of aether or *akasha* in Hinduism. 
+We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Layer Model. 
 
 
 {{< quote ava="soc" >}}
@@ -86,6 +94,7 @@ If Person A were to go from the lower to the middle region, he would imagine tha
 If Person A goes back down again, Person B would imagine that he was descending. All that would arise out of his ignorance of the true upper, middle, and lower regions.
 <cite>The Republic by Plato Simplifed, Book 9, Chapter 3</cite>
 {{< /quote >}}
+
 
 {{< quote >}}
 These causes generate an inequality which is always maintained, and is continually creating a perpetual motion of the elements... The brightest part is called the aether. The most turbid sort is mist and darkness.
@@ -106,5 +115,3 @@ The balance of the triangles represents the balance between the abstract and the
 Inaction leads to nothing. But haste, on the contrary, also makes waste. 
 
 Human minds have limited abilities and so our focus must be relevant in order to maximize and concentrate what little we have. For example, as a species, it would be better to focus on solutions to global warming than to think of how to make more money, create a new cryptocurrency, or predict the stock market. The latter ideas are really based on selfish-interest instead of the common-interest.
-
-

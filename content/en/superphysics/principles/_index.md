@@ -1,4 +1,5 @@
 ---
+heading: "These make up our Metaphysics of Things Book"
 title: "Superphysics Principles"
 linkTitle: "Principles"
 # heading:Just because people can write doesn't mean they should
