@@ -1,46 +1,97 @@
-+++
-title= "The Meaning of Saving and Investment Further Considered"
-description= "The actual economic system are also coloured by certain special characteristics of the propensity to consume, the schedule of the marginal efficiency of capital and the rate of interest, about which we can safely generalise from experience, but which are not logically necessary"
-image= "/covers/general.jpg"
-date= 2020-01-09
-linkb= "/research/keynes/general-theory/chapter-18a"
-linkbtext= "chapter-18a"
-linkf= "/research/keynes/general-theory/chapter-19"
-linkftext= "chapter-19"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
-
-The actual economic system are also coloured by certain special characteristics of the propensity to consume, the schedule of the marginal efficiency of capital and the rate of interest, about which we can safely generalise from experience, but which are not logically necessary. 
-
-In particular, it is an outstanding characteristic of the economic system in which we live that, whilst it is subject to severe fluctuations in respect of output and employment, it is not violently unstable. 
-
-It seems capable of remaining in a chronic condition of sub-normal activity for a considerable period without any  tendency towards recovery or towards complete collapse. 
-
-Moreover, full employment has proven to be a rare and short-lived occurrence. 
-
-Fluctuations may start briskly but seem to wear themselves out before they have proceeded to great extremes, and an intermediate situation which is neither desperate nor satisfactory is our normal lot. 
-
-This is why fluctuations tend to wear themselves out before proceeding to extremes and eventually to reverse themselves, that the theory of business cycles having a regular phase has been founded. 
-
-The same thing is true of prices, which, in response to an initiating cause of disturbance, seem to be able to find a level at which they can remain, for the time being, moderately stable. Now, since these facts of experience do not follow of logical necessity, one must suppose that the environment and the psychological propensities of the modern world must be of such a character as to produce these results. 
-
-It is, therefore, useful to consider what hypothetical psychological propensities would lead to a stable system; and, then, whether these propensities can be plausibly ascribed, on our general knowledge of contemporary human nature, to the world in which we live. The conditions of stability which the foregoing analysis suggests to us as capable of explaining the observed results are the following= 
-
-1. The marginal propensity to consume is such that, when the output of a given community increases (or decreases) because more (or less) employment is being applied to its capital equipment, the multiplier relating the two is greater than unity but not very large. 
-
-2. When there is a change in the prospective yield of capital or in the rate of interest, the schedule of the marginal efficiency of capital will be such that the change in new investment will not be in great disproportion to the change in the former ; i.e. moderate changes in the prospective yield of capital or in the rate of interest will not be associated with very great changes in the rate of investment. 
-
-3. When there is a change in employment, money-wages tend to change in the same direction as, but not in great disproportion to, the change in employment; i.e. moderate changes in employment are not associated with very great chances in money-wages. This is a condition of the stability of prices rather than of employment. 
-
-4. We may add a fourth condition, which provides not so much for the stability of the system as for the tendency of a fluctuation in one direction to reverse itself in due course; namely, that a rate of investment, higher (or lower) than prevailed formerly, begins to react unfavourably (or favourably) on the marginal efficiency of capital if it is continued for a period which, measured in years, is not very large. 
+---
+title: "The Meaning of Saving and Investment Further Considered"
+description: "The actual economic system are also coloured by certain special characteristics of the propensity to consume, the schedule of the marginal efficiency of capital and the rate of interest, about which we can safely generalise from experience, but which are not logically necessary"
+image: "/covers/general.jpg"
+date: 2020-01-09
+linkb: "/research/keynes/general-theory/chapter-18a"
+linkbtext: "chapter-18a"
+linkf: "/research/keynes/general-theory/chapter-19"
+linkftext: "chapter-19"
+---
 
 
-(i) Our first condition of stability, namely, that the multiplier, whilst greater than unity, is not very great, is highly plausible as a psychological characteristic of human nature. As real income increases, both the pressure of present needs diminishes and the margin over the established standard of life is increased; and as real income diminishes the opposite is true. 
+The actual economic system is also coloured by:
+- the propensity to consume
+- the marginal efficiency of capital curve
+- the interest rate
 
-Thus it is natural — at any rate on the average of the community — that current consumption should be expanded when employment increases) but by less than the full increment of real income; and that it should be diminished when employment diminishes, but by less than the full decrement of real income. Moreover, what is true of the average of individuals is likely to be also true of governments especially in an age when a progressive increase of unemployment will usually force the State to provide relief out of borrowed funds. But whether or not this psychological law strikes the reader as plausible a priori, it is certain that experience would be extremely different from what it is if the law did not hold. For in that case an increase of investment, however small, would set moving a cumulative increase of effective demand until a position of full employment had been reached; while a decrease of investment would set moving a cumulative decrease of effective demand until no one at all was employed. Yet experience shows that we are generally in an intermediate position. 
+<!-- about which we can safely generalise from experience, but which are not logically necessary.  -->
 
-There might be a range within which instability does in fact prevail. But, if so, it is probably a narrow one, outside of which in either direction our psychological law must unquestionably hold good. Furthermore, it is also evident that the multiplier, though exceeding unity, is not, in normal circumstances, enormously large. For, if it were, a given change in the rate of investment would involve a great change (limited only by full or zero employment) in the rate of consumption. (ii) Whilst our first condition provides that a moderate change in the rate of investment will not involve an indefinitely great change in the demand for consumption-goods our second condition provides that a moderate change in the prospective yield of capital-assets or in the rate of interest will not involve an indefinitely great change in the rate of investment. 
+<!-- In particular, it is an outstanding characteristic of the economic system in which we live that, whilst it is subject to severe fluctuations in respect of output and employment, it is not violently unstable. 
+
+It seems capable of remaining in a chronic condition of sub-normal activity for a considerable period without any  tendency towards recovery or towards complete collapse.  -->
+
+Full employment has proven to be a rare and short-lived occurrence. 
+- Fluctuations may start briskly but seem to wear themselves out before they have proceeded to great extremes
+- An intermediate situation which is neither desperate nor satisfactory is normal. 
+
+This is why fluctuations:
+- tend to wear themselves out before proceeding to extremes
+- eventually reverse themselves
+
+This is foundation of the theory of business cycles having a regular phase. 
+
+The same thing is true of prices, which, in response to an initiating cause of disturbance, seem to be able to find a level at which they can remain, for the time being, moderately stable. 
+
+These facts do not follow of logical necessity. 
+- It means that the environment and the psychology of the modern world produces these results. 
+
+It is, therefore, useful to consider:
+- what hypothetical psychological propensities would lead to a stable system
+- whether these propensities can be plausibly ascribed to human nature
+
+The conditions of stability are: <!-- which the foregoing analysis suggests to us as capable of explaining the observed results are the following=  -->
+
+1. The marginal propensity to consume is such that, 
+
+When the output of a given community increases<!--  (or decreases) --> because more <!-- (or less) --> employment is being applied to its capital equipment, the multiplier relating the two is greater than unity, but not very large. 
+
+(i) The multiplier, while greater than unity, is not very great. 
+
+As real income increases:
+- the pressure of present needs declines
+- the margin over the established standard of life is increased
+
+As real income declines, the opposite is true. 
+
+Thus, current consumption naturally:
+- expands when employment increases.
+  - But it expands less than the full increment of real income
+- declines when employment declines
+  - but by less than the full decline of real income
+
+The average of individuals is likely to be also true of governments especially in an age when a progressive increase of unemployment will usually force the State to provide relief out of borrowed funds. 
+
+But whether or not this psychological law strikes the reader as plausible a priori, it is certain that experience would be extremely different from what it is if the law did not hold. 
+
+For in that case an increase of investment, however small, would set moving a cumulative increase of effective demand until a position of full employment had been reached; while a decrease of investment would set moving a cumulative decrease of effective demand until no one at all was employed. Yet experience shows that we are generally in an intermediate position. 
+
+There might be a range within which instability does prevail.
+- But, if so, it is probably a narrow one, outside of which in either direction our psychological law must unquestionably hold good. 
+
+The multiplier, though exceeding unity, is not normally enormously large. 
+- If it were, a change in the rate of investment would create a great change <!-- (limited only by full or zero employment) --> in the rate of consumption.
+
+
+2. When there is a change in the prospective yield of capital or in the interest rate, the change in new investment will not be in great disproportion to the change in the former <!-- the marginal efficiency of capital curve  -->
+
+It means that moderate changes in the prospective yield of capital or in the interest rate will not be associated with very great changes in the rate of investment. 
+
+
+3. When there is a change in employment, money-wages tend to change in the same direction as, but not in great disproportion to, the change in employment.
+
+It means that moderate changes in employment are not associated with very great chances in money-wages. This is a condition of the stability of prices rather than of employment. 
+
+
+4. A higher rate of investment begins to react unfavourably on the marginal efficiency of capital if it is continued for just a few years. <!-- for a period which, measured in years, is not very large.  --> This causes a fluctuation in one direction to reverse itself in due course, giving a sort of stability. 
+
+<!-- We may add a fourth condition, which provides not so much for the stability of the system as for the tendency of  -->
+
+
+
+
+
+(ii) Whilst our first condition provides that a moderate change in the rate of investment will not involve an indefinitely great change in the demand for consumption-goods our second condition provides that a moderate change in the prospective yield of capital-assets or in the rate of interest will not involve an indefinitely great change in the rate of investment. 
 
 This is likely to be the case owing to the increasing cost of producing a greatly enlarged output from the existing equipment. If, indeed, we start from a position where there are very large surplus resources for the production of capital-assets, there may be considerable instability within a certain range; but this will cease to hold good as soon as the surplus is being largely utilised. Moreover, this condition sets a limit to the instability resulting from rapid changes in the prospective yield of capital-assets due to sharp fluctuations in business psychology or to epoch-making inventions — though more, perhaps, in the upward than in the downward direction. 
 

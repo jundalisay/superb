@@ -1,230 +1,228 @@
-+++
-title= "Silvio Gesell"
-description= "Silvio Gesell (1862-1930) is an unduly neglected prophet. His work has flashes of deep insight. He only just failed to reach down to the essence of the matter."
-image= "/covers/general.jpg"
-date= 2020-01-03
-linkb= "/research/keynes/general-theory/chapter-23"
-linkbtext= "chapter-22"
-linkf= "/research/keynes/general-theory/chapter-24"
-linkftext= "chapter-24"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+III 
 
-Silvio Gesell (1862-1930) is an unduly neglected prophet. His work has flashes of deep insight. He only just failed to reach down to the essence of the matter. 
+<!-- The early pioneers of economic thinking may have hit upon their maxims of practical wisdom without having had much cognisance of the underlying theoretical grounds. Let us, therefore, examine briefly the reasons they gave as well as what they recommended. This is made easy by reference to  -->
 
-In the post-war years, his devotees bombarded me with copies of his works. <!-- Yet, owing to certain palpable defects in the argument, I entirely failed to discover their merit.  -->
+Professor Heckscher has a great work on Mercantilism which had 4 conclusions. <!-- , in which the essential characteristics of economic thought over a period of two centuries are made available for the first time to the general economic reader. The quotations which follow are mainly taken from his pages.[6] --> 
 
-As is often the case with imperfectly analysed intuitions, their significance only became apparent after I had reached my own conclusions in my own way. 
+## 1 Mercantilist thought never supposed that there was a self-adjusting tendency for the interest rate to be at an appropriate level. 
 
-Meanwhile, like other academic economists, I treated his profoundly original strivings as being no better than those of a crank. Since few of the readers of this book are likely to be well acquainted with the significance of Gesell, I will give to him what would be otherwise a disproportionate space. 
+On the contrary, they were emphatic that an unduly high interest rate was the main obstacle to the growth of wealth.
 
-Gesell was a successful German[26] merchant in Buenos Aires who was led to the study of monetary problems by the crisis of the late ’eighties, which was especially violent in the Argentine. 
+They were even aware that the interest rate depended on:
+- the love of money and
+- the quantity of money. 
 
-His first work, *Die Reformation im Münzwesen als Brücke zum socialen Staat* was published in Buenos Aires in 1891. 
+They were concerned both with:
+- diminishing liquidity-preference and
+- increasing the quantity of money
 
-His fundamental ideas on money were published in Buenos Aires in the same year under the title Nervus rerum, and many books and pamphlets followed until he retired to Switzerland in 1906 as a man of some means, able to devote the last decades of his life to the two most delightful occupations open to those who do not have to earn their living, authorship and experimental farming. 
+Their preoccupation with increasing the quantity of money was due to their desire to reduce interest rates. 
 
-The first section of his standard work was published in 1906 at Les Hauts Geneveys, Switzerland, under the title Die Verwirklichung des Rechtes auf dem vollen Arbeitsertrag, and the second section in 1911 at Berlin under the title Die neue Lehre vom Zins. The two together were published in Berlin and in Switzerland during the war (1916) and reached a sixth edition during his lifetime under the title Die natürliche Wirtschaftsordnung durch Freiland und Freigeld, the English version (translated by Mr. Philip Pye) being called The Natural Economic Order. 
+Money was:
+- a factor of production, just as land is. 
+- an “artificial” wealth as distinct from the “natural” wealth
 
-In April 1919, Gesell joined the short-lived Soviet cabinet of Bavaria as their Minister of Finance, being subsequently tried by court-martial. 
+Interest on capital was the payment for the renting of money similar to rent for land. 
 
-The last decade of his life was spent in Berlin and Switzerland and devoted to propaganda. Gesell, drawing to himself the semi-religious fervour which had formerly centred round Henry George, became the revered prophet of a cult with many thousand disciples throughout the world. The first international convention of the Swiss and German Freiland-Freigeld Bund and similar organisations from many countries was held in Basle in 1923. 
+<!-- In so far as mercantilists sought to discover objective reasons for the height of the rate of interest — and they did so more and more during this period — they found such reasons in the total quantity of money.  -->
 
-Since his death in 1930 much of the peculiar type of fervour which doctrines such as his are capable of exciting has been diverted to other (in my opinion less eminent) prophets. Dr. Büchi is the leader of the movement in England, but its literature seems to be distributed from San Antonio, Texas, its main strength lying to-day in the United States, where Professor Irving Fisher, alone amongst academic economists, has recognised its significance. 
+From the abundant material available, only the most typical examples will be selected, so as to demonstrate first and foremost how lasting this notion was, how deep-rooted and independent of practical considerations. 
 
-In spite of the prophetic trappings with which his devotees have decorated him, Gesell’s main book is written in cool, scientific language; though it is suffused throughout by a more passionate, a more emotional devotion to social justice than some think decent in a scientist. 
+Both of the protagonists in the struggle over monetary policy and the East India trade in the early 1620’s in England were in entire agreement on this point. 
 
-The part which derives from Henry George,[27] though doubtless an important source of the movement’s strength, is of altogether secondary interest. 
+Gerard Malynes stated, giving detailed reason for his assertion, that “Plenty of money decreaseth usury in price or rate” (Lex Mercatoria and Maintenance of Free Trade, 1622). 
 
-My book's purpose is to establishm an anti-Marxian socialism. It is a reaction against laissez-faire built on theoretical foundations totally unlike those of Marx. His is based on:
-- a repudiation of the classical hypotheses, and
-- an unfettering of competition instead of its abolition
+His truculent and rather unscrupulous adversary, Edward Misselden, replied that “The remedy for Usury may be plenty of money” (Free Trade or the Meanes to make Trade Florish, same year). 
 
-The future will learn more from the spirit of Gesell than from that of Marx. 
+Josiah Child was the omnipotent leader of the East India Company and its most skilful advocate. 
 
-The preface to The Natural Economic Order shows the moral quality of Gesell. It is the answer to Marxism. 
-Gesell’s specific contribution to the theory of money and interest is as follows. 
+He discussed in 1668 how far the legal maximum interest rate<!-- , which he emphatically demanded, --> would result in drawing “the money” of the Dutch away from England. 
 
-In the first place, he distinguishes clearly between the interest rate and the marginal efficiency of capital. He argues that it is the rate of interest which sets a limit to the rate of growth of real capital. 
+He remedied this by making it easier to transfer bills of debt, as if these were currency. It would, to him, solve the defect of at least half of all the ready money we have in use in the nation. 
 
-Next, he points out that the rate of interest is a purely monetary phenomenon and that the peculiarity of money, from which flows the significance of the money rate of interest, lies in the fact that its ownership as a means of storing wealth involves the holder in negligible carrying charges, and that forms of wealth, such as stocks of commodities which do involve carrying charges, in fact yield a return because of the standard set by money. 
+Petty agreed that the remedy for a country with too much “Coin” (Quantulumcunque concerning Money, 1682) was a “natural” fall in the interest rate from 10-6%. This would be done by:
+- the increase in the amount of money (Political Arithmetick, 1676), and
+- the propriety of lending at interest
 
-He cites the comparative stability of the rate of interest throughout the ages as evidence that it cannot depend on purely physical characters, inasmuch as the variation of the latter from one epoch to another must have been incalculably greater than the observed changes in the rate of interest; i.e. (in my terminology) the rate of interest, which depends on constant psychological characters, has remained stable, whilst the widely fluctuating characters, which primarily determine the schedule of the marginal efficiency of capital, have determined not the rate of interest but the rate at which the (more or less) given rate of interest allows the stock of real capital to grow. 
+In 1701 and 1706, French merchants and statesmen complained of the prevailing scarcity of coin as the cause of the high interest rates. They wanted to lower usury by increasing the circulation of money.[7] 
 
-Gesell's theory's great defect is that he shows how it is only the money interest rate which allows a yield to be obtained from lending out stocks of commodities. 
+John Locke was, perhaps, the first to express the abstract relationship between the interest rate and the quantity of money in his controversy with Petty.[8] 
 
-His dialogue between Robinson Crusoe and a stranger[28] is a most excellent economic parable — as good as anything of the kind that has been written — to demonstrate this point. But, having given the reason why the money-rate of interest unlike most commodity rates of interest cannot be negative, he altogether overlooks the need of an explanation why the money-rate of interest is positive, and he fails to explain why the money-rate of interest is not governed (as the classical school maintains) by the standard set by the yield on productive capital. 
+He was opposing Petty’s proposal of a maximum interest rate on the ground that it was as impracticable as to fix a maximum rent for land. This was because “Interest Income depends on the whole quantity of Money of the Kingdom passing, in proportion to its whole Trade”.[9] 
 
-This is because the notion of liquidity-preference had escaped him. He has constructed only half a theory of the rate of interest. The incompleteness of his theory is doubtless the explanation of his work having suffered neglect at the hands of the academic world. Nevertheless he had carried his theory far enough to lead him to a practical recommendation, which may carry with it the essence of what is needed, though it is not feasible in the form in which he proposed it. 
+Locke explains that Money has 2 values:
 
-He argues that the growth of real capital is held back by the money-rate of interest, and that if this brake were removed the growth of real capital would be, in the modern world, so rapid that a zero money-rate of interest would probably be justified, not indeed forthwith, but within a comparatively short period of time. Thus the prime necessity is to reduce the money-rate of interest, and this, he pointed out, can be effected by causing money to incur carrying-costs just like other stocks of barren goods. This led him to the famous prescription of “stamped” money, with which his name is chiefly associated and which has received the blessing of Professor Irving Fisher. 
+1. Its value in use
 
-According to this proposal currency notes (though it would clearly need to apply as well to some forms at least of bank-money) would only retain their value by being stamped each month, like an insurance card, with stamps purchased at a post office. The cost of the stamps could, of course, be fixed at any appropriate figure. According to my theory it should be roughly equal to the excess of the money-rate of interest (apart from the stamps) over the marginal efficiency of capital corresponding to a rate of new investment compatible with full employment. The actual charge suggested by Gesell was 1 per mil. per month, equivalent to 5.4% per annum. 
+- This is given by interest rate
+- This has the same nature as the rent of land [10]
 
-This would be too high in existing conditions, but the correct figure, which would have to be changed from time to time, could only be reached by trial and error. The idea behind stamped money is sound. It is, indeed, possible that means might be found to apply it in practice on a modest scale. But there are many difficulties which Gesell did not face. 
+2. Its value in exchange
 
-He was unaware that money was not unique in having a liquidity-premium attached to it, but differed only in degree from many other articles, deriving its importance from having a greater liquidity-premium than any other article. 
+- This has the Nature of a Commodity
+- This depends only on the Plenty or Scarcity of Money in proportion to the Plenty or Scarcity of those things and not on what Interest shall be
 
-Thus if currency notes were to be deprived of their liquidity-premium by the stamping system, a long series of substitutes would step into their shoes — bank-money, debts at call, foreign money, jewellery and the precious metals generally, and so forth. As I have mentioned above, there have been times when it was probably the craving for the ownership of land, independently of its yield, which served to keep up the rate of interest; — though under Gesell’s system this possibility would have been eliminated by land nationalisation. 
+Thus, Locke was the parent of twin quantity theories. He held that:
 
-VII 
+1. The interest rate depended on the proportion of the quantity of money (allowing for the velocity of circulation) to the total value of trade.
+2. The value of money in exchange depended on the proportion of the quantity of money to the total volume of goods in the market.
 
-The theories which we have examined above are directed, in substance, to the constituent of effective demand which depends on the sufficiency of the inducement to invest. It is no new thing, however, to ascribe the evils of unemployment to the insufficiency of the other constituent, namely, the insufficiency of the propensity to consume. 
+He stood:
+- with one foot in the mercantilist world and
+- with one foot in the classical world[11]
 
-But this alternative explanation of the economic evils of the day — equally unpopular with the classical economists — played a much smaller part in sixteenth- and seventeenth-century thinking and has only gathered force in comparatively recent times. 
+He was confused on the relation between these 2 proportions. He overlooked altogether the possibility of fluctuations in <!-- liquidity-preference --> the love for future money.
 
-Complaints of under-consumption were a very subsidiary aspect of mercantilist thought. Heckscher quotes a number of examples of what he calls “the deep-rooted belief in the utility of luxury and the evil of thrift. 
+He explained that a reduction in interest rates has no direct effect on the price-level. 
+- It affects prices “only as the Change of Interest in Trade conduces to the bringing in or carrying out Money or Commodity, and so in time varying their Proportion here in England from what it was before”, i.e. if the reduction in the rate of interest leads to the export of cash or an increase in output. 
 
-Thrift was regarded as the cause of unemployment, and for two reasons= 
+But he never proceeds to a genuine synthesis.[12] 
 
-1. Because real income was believed to diminish by the amount of money which did not enter into exchange, 
-2. Because saving was believed to withdraw money from circulation."[29] 
+The mercantilist easily distinguished between the interest rate and the marginal efficiency of capital as proven below:
 
-In 1598, Laffemas (Les Trésors et richesses pour mettre l'Estat en Splendeur) denounced the objectors to the use of French silks on the ground that all purchasers of French luxury goods created a livelihood for the poor, whereas the miser caused them to die in distress.[30] 
+<!--  is illustrated by a passage (printed in 1621) which Locke quotes from A Letter to a Friend concerning Usury= “High Interest decays Trade.  -->
 
-In 1662, Petty justified “entertainments, magnificent shews, triumphal arches, etc.”, on the ground that their costs flowed back into the pockets of brewers, bakers, tailors, shoemakers and so forth. Fortrey justified “excess of apparel”. Von Schrötter (1686) deprecated sumptuary regulations and declared that he would wish that display in clothing and the like were even greater. 
+{{< q >}}
+The advantage from Interest is greater than the Profit from Trade, which makes the rich Merchants give over, and put out their Stock to Interest, and the lesser Merchants Break.
+{{< /q >}}
 
-Barbon (1690) wrote that “Prodigality is a vice that is prejudicial to the Man, but not to trade. ... Covetousness is a Vice, prejudicial both to Man and Trade.” [31] In 1695 Cary argued that if everybody spent more, all would obtain larger incomes “and might then live more plentifully”.[32] But it was by Bernard Mandeville’s Fable of the Bees that Barbon’s opinion was mainly popularised, a book convicted as a nuisance by the grand jury of Middlesex in 1723, which stands out in the history of the moral sciences for its scandalous reputation. Only one man is recorded as having spoken a good word for it, namely Dr. Johnson, who declared that it did not puzzle him, but “opened his eyes into real life very much”. 
+Fortrey (England’s Interest and Improvement, 1663) affords another example of the stress laid on a low rate of interest as a means of increasing wealth. 
 
+The mercantilists did not overlook the point that, if an excessive liquidity-preference were to withdraw the influx of precious metals into hoards, the advantage to the rate of interest would be lost. 
 
-### Mandeville
+In some cases (e.g. Mun) the object of enhancing the power of the State led them, nevertheless, to advocate the accumulation of state treasure. But others frankly opposed this policy= Schrötter, for instance, employed the usual mercantilist arguments in drawing a lurid picture of how the circulation in the country would be robbed of all its money through a greatly increasing state treasury 
 
-The nature of the book’s wickedness can be best conveyed by Leslie Stephen’s summary in the Dictionary of National Biography= Mandeville gave great offence by this book, in which a cynical system of morality was made attractive by ingenious paradoxes.
+he, too, drew a perfectly logical parallel between the accumulation of treasure by the monasteries and the export surplus of precious metals, which, to him, was indeed the worst possible thing which he could think of. Davenant explained the extreme poverty of many Eastern nations — who were believed to have more gold and silver than any other countries in the world — by the fact that treasure “is suffered to stagnate in the Princes’ Coffers”. 
 
-His doctrine that prosperity was increased by expenditure rather than by saving fell in with many current economic fallacies not yet extinct.[33] Assuming with the ascetics that human desires were essentially evil and therefore produced “private vices” and assuming with the common view that wealth was a “public benefit”, he easily showed that all civilisation implied the development of vicious propensities.
+If hoarding by the state was considered, at best, a doubtful boon, and often a great danger, it goes without saying that private hoarding was to be shunned like the pest. It was one of the tendencies against which innumerable mercantilist writers thundered, and I do not think it would be possible to find a single dissentient voice.[13] 
 
-The text of the Fable of the Bees is an allegorical poem — “The Grumbling Hive, or Knaves turned honest”, in which is set forth the appalling plight of a prosperous community in which all the citizens suddenly take it into their heads to abandon luxurious living, and the State to cut down armaments, in the interests of Saving= No Honour now could be content, To live and owe for what was spent, Liv’ries in Broker’s shops are hung; 
 
-They part with Coaches for a song; Sell stately Horses by whole sets; And Country-Houses to pay debts. Vain cost is shunn’d as moral Fraud; They have no Forces kept Abroad; Laugh at th’ Esteem of Foreigners, And empty Glory got by Wars; They fight, but for their Country’s sake, When Right or Liberty’s at Stake. The haughty Chloe Contracts th’ expensive Bill of Fare, And wears her strong Suit a whole Year. And what is the result? — Now mind the glorious Hive, and see How Honesty and Trade agree= The Shew is gone, it thins apace; And looks with quite another Face, For ’twas not only they that went, By whom vast sums were yearly spent; 
+## 2 The Mercantilists knew of the fallacy of cheapness and the danger of excessive competition of trade against a country. 
 
-But Multitudes that lived on them, Were daily forc’d to do the same. In vain to other Trades they’d fly; All were o’er-stocked accordingly. The price of Land and Houses falls; Mirac’lous Palaces whose Walls, Like those of Thebes, were rais’d by Play, Are to be let ... The Building Trade is quite destroy’d, Artificers are not employ’d; No limner for his Art is fam’d, Stone-cutters, Carvers are not nam’d. So “The Moral” is= are Virtue can’t make Nations live In Splendour. They that would revive A Golden Age, must be as free, For Acorns as for Honesty. Two extracts from the commentary which follows the allegory will show that the above was not without a theoretical basis= 
+Thus Malynes wrote in his Lex Mereatoria (1622)= “Strive not to undersell others to the hurt of the Commonwealth, under colour to increase trade= for trade doth not increase when commodities are good cheap, because the cheapness proceedeth of the small request and scarcity of money, which maketh things cheap= so that the contrary augmenteth trade, when there is plenty of money, and commodities become dearer being in request”.[14] 
 
-As this prudent economy, which some people call Saving, is in private families the most certain method to increase an estate, so some imagine that, whether a country be barren or fruitful, the same method if generally pursued (which they think practicable) will have the same effect upon a whole nation, and that, for example, the English might be much richer than they are, if they would be as frugal as some of their neighbours. 
+Heckscher sums up mercantilist thought= 
 
-This, I think, is an error.[34] 
+In the course of a century and a half the standpoint was formulated again and again in this way, that a country with relatively less money than other countries must “sell cheap and buy dear...” 
 
-On the contrary, Mandeville concludes= The great art to make a nation happy, and what we call flourishing, consists in giving everybody an opportunity of being employed; which to compass, let a Government’s first care be to promote as great a variety of Manufactures, Arts and Handicrafts as human wit can invent; and the second to encourage Agriculture and Fishery in all their branches, that the whole Earth may be forced to exert itself as well as Man. It is from this Policy and not from the trifling regulations of Lavishness and Frugality that the greatness and felicity of Nations must be expected; for let the value of Gold and Silver rise or fall, the enjoyment of all Societies will ever depend upon the Fruits of the Earth and the Labour of the People; both which joined together are a more certain, a more inexhaustible and a more real Treasure than the Gold of Brazil or the Silver of Potosi. 
+Even in the original edition of the Discourse of the Common Weal, that is in the middle of the 16th century, this attitude was already manifested. Hales said, in fact, “And yet if strangers should be content to take but our wares for theirs, what should let them to advance the price of other things (meaning= among others, such as we buy from them), though ours were good cheap unto them? And then shall we be still losers, and they at the winning hand with us, while they sell dear and yet buy ours good cheap, and consequently enrich themselves and impoverish us. 
 
-No wonder that such wicked sentiments called down the opprobrium of two centuries of moralists and economists who felt much more virtuous in possession of their austere doctrine that no sound remedy was discoverable except in the utmost of thrift and economy both by the individual and by the state. Petty’s “entertainments, magnificent shews, triumphal arches, etc.” gave place to the penny-wisdom of Gladstonian finance and to a state system which “could not afford” hospitals, open spaces, noble buildings, even the preservation of its ancient monuments, far less the splendours of music and the drama, all of which were consigned to the private charity or magnanimity of improvident individuals. The doctrine did not reappear in respectable circles for another century, until in the later phase of Malthus the notion of the insufficiency of effective demand takes a definite place as a scientific explanation of unemployment. Since I have already dealt with this somewhat fully in my essay on Malthus,[35] it will be sufficient if I repeat here one or two characteristic passages which I have already quoted in my essay= We see in almost every part of the world vast powers of production which are not put into action, and I explain this phenomenon by saying that from the want of a proper distribution of the actual produce adequate motives are not furnished to continued production. 
+Yet had I rather advance our wares in price, as they advance theirs, as we now do; though some be losers thereby, and yet not so many as should be the other way.” On this point he had the Unqualified approval of his editor several decades later (1581). 
 
-I distinctly maintain that an attempt to accumulate very rapidly, which necessarily implies a considerable diminution of unproductive consumption, by greatly impairing the usual motives to production must prematurely check the progress of wealth. ... But if it be true that an attempt to accumulate very rapidly will occasion such a division between labour and profits as almost to destroy both the motive and the power of future accumulation and consequently the power of maintaining and employing an increasing population, must it not be acknowledged that such an attempt to accumulate, or that saving too much, may be really prejudicial to a country? [36] 
+In the 17th century, this attitude recurred again without any fundamental change in significance. Thus, Malynes believed this unfortunate position to be the result of what he dreaded above all things, i.e. a foreign under-valuation of the English exchange.
 
-The question is whether this stagnation of capital, and subsequent stagnation in the demand for labour arising from increased production without an adequate proportion of unproductive consumption on the part of the landlords and capitalists, could take place without prejudice to the country, without occasioning a less degree both of happiness and wealth than would have occurred if the unproductive consumption of the landlords and capitalists had been so proportioned to the natural surplus of the society as to have continued uninterrupted the motives to production, and prevented first an unnatural demand for labour and then a necessary and sudden diminution of such demand. 
+The same conception then recurred continually. In his Verbum Sapienti (written 1665, published 1691), Petty believed that the violent efforts to increase the quantity of money could only cease “when we have certainly more money than any of our Neighbour States (though never so little), both in Arithmetical and Geometrical proportion”. 
 
-But if this be so, how can it be said with truth that parsimony, though it may be prejudicial to the producers, cannot be prejudicial to the state; or that an increase of unproductive consumption among landlords and capitalists may not sometimes be the proper remedy for a state of things in which the motives to production fails?[37] 
+During the period between the writing and the publication of this work, Coke declared, “If our Treasure were more than our Neighbouring Nations, I did not care whether we had one fifth part of the Treasure we now have” (1675).[15] 
 
-Adam Smith has stated that capitals are increased by parsimony, that every frugal man is a public benefactor, and that the increase of wealth depends upon the balance of produce above consumption. That these propositions are true to a great extent is perfectly unquestionable. ... But it is quite obvious that they are not true to an indefinite extent, and that the principles of saving, pushed to excess, would destroy the motive to production. If every person were satisfied with the simplest food, the poorest clothing and the meanest houses, it is certain that no other sort of food, clothing, and lodging would be in existence. ... The two extremes are obvious; and it follows that there must be some intermediate point, though the resources of political economy may not be able to ascertain it, where, taking into consideration both the power to produce and the will to consume, the encouragement to the increase of wealth is the greatest.[38] Of all the opinions advanced by able and ingenious men, which I have ever met with, the opinion of M. Say, which states that= un product consommé ou détruit est un débouché fermé (I. i. ch. 15), appears to me to be the most directly opposed to just theory, and the most uniformly contradicted by experience. 
 
-Yet it directly follows from the new doctrine, that commodities are to be considered only in their relation to each other, — not to the consumers. What, I would ask, would become of the demand for commodities, if all consumption except bread and water were suspended for the next half-year? What an accumulation of commodities! Quels débouchés! What a prodigious market would this event occasion![39] Ricardo, however, was stone-deaf to what Malthus was saying. 
+## 3 The mercantilists were the originals of “the fear of goods” and the scarcity of money as causes of unemployment 
 
+The Classicals denounced these 2 centuries later as an absurdity. This is because the Classicals applied the Unemployment argument as a reason to ban imports.
 
-### Mill
+<!-- is to be found in Florence in the year 1426.... The English legislation on the matter goes back to at least 1455
 
-The last echo of the controversy is to be found in John Stuart Mill’s discussion of his Wages-Fund Theory, [40] which in his own mind played a vital part in his rejection of the later phase of Malthus, amidst the discussions of which he had, of course, been brought up. Mill’s successors rejected his Wages-Fund Theory but overlooked the fact that Mill’s refutation of Malthus depended on it. Their method was to dismiss the problem from the corpus of Economics not by solving it but by not mentioning it. It altogether disappeared from controversy. Mr. Cairncross, searching recently for traces of it amongst the minor Victorians, [41] has found even less, perhaps, than might have been expected. [42] Theories of under-consumption hibernated until the appearance in 1889 of The Physiology of Industry, by J. A. Hobson and A. F. Mummery, the first and most significant of many volumes in which for nearly fifty years Mr. Hobson has flung himself with unflagging, but almost unavailing, ardour and courage against the ranks of orthodoxy. Though it is so completely forgotten to-day, the publication of this book marks, in a sense, an epoch in economic thought.[43] 
+An almost contemporary French decree of 1466, forming the basis of the silk industry of Lyons, later to become so famous, was less interesting in so far as it was not actually directed against foreign goods. But it, too, mentioned the possibility of giving work to tens of thousands of unemployed men and women.  -->
 
-The Physiology of Industry was written in collaboration with A. F. Mummery. Mr. Hobson has told how the book came to be written as follows= [44] It was not until the middle ’eighties that my economic heterodoxy began to take shape. Though the Henry George campaign against land values and the early agitation of various socialist groups against the visible oppression of the working classes, coupled with the revelations of the two Booths regarding the poverty of London, made a deep impression on my feelings, they did not destroy my faith in Political Economy. 
+<!-- It is seen how very much this argument was in the air at the time. -->
 
-That came from what may be called an accidental contact. While teaching at a school in Exeter I came into personal relations with a business man named Mummery, known then and afterwards as a great mountaineer who had discovered another way up the Matterhorn and who, in 1895, was killed in an attempt to climb the famous Himalayan mountain Nanga Parbat. My intercourse with him, I need hardly say did not lie on this physical plane. 
+The first great discussion of this matter, as of nearly all social and economic problems, occurred in England in the middle of the 16th century or rather earlier, during the reigns of Henry VIII and Edward VI. In this connection we cannot but mention a series of writings, written apparently at the latest in the 1530’s, two of which at any rate are believed to have been by Clement Armstrong.... 
 
-But he was a mental climber as well, with a natural eye for a path of his own finding and a sublime disregard of intellectual authority. This man entangled me in a controversy about excessive saving, which he regarded as responsible for the under-employment of capital and labour in periods of bad trade. For a long time I sought to counter his arguments by the use of the orthodox economic weapons. But at length he convinced me and I went in with him to elaborate the over-saving argument in a book entitled The Physiology of Industry, which was published in 1889. 
+He formulates it, for example, in the following terms= “By reason of great abundance of strange merchandises and wares brought yearly into England hath not only caused scarcity of money, but hath destroyed all handicrafts, whereby great number of common people should have works to get money to pay for their meat and drink, which of very necessity must live idly and beg and steal” The best instance to my knowledge of a typically mercantilist discussion of a state of affairs of this kind is the debates in the English House of Commons concerning the scarcity of money, which occurred in 1621, when a serious depression had set in, particularly in the cloth export. The conditions were described very clearly by one of the most influential members of parliament, Sir Edwin Sandys. He stated that the farmer and the artificer had to suffer almost everywhere; that looms were standing idle for want of money in the country, and that peasants were forced to repudiate their contracts, “not (thanks be to God) for want of fruits of the earth, but for want of money”. 
 
-This was the first open step in my heretical career, and I did not in the least realise its momentous consequences. For just at that time I had given up my scholastic post and was opening a new line of work as University Extension Lecturer in Economics and Literature. The first shock came in a refusal of the London Extension Board to allow me to offer courses of Political Economy. This was due, I learned, to the intervention of an Economic Professor who had read my book and considered it as equivalent in rationality to an attempt to prove the flatness of the earth. 
+The situation led to detailed enquiries into where the money could have got to, the want of which was felt so bitterly. Numerous attacks were directed against all persons who were supposed to have contributed either to an export (export surplus) of precious metals, or to their disappearance on account of corresponding activities within the country.[17] 
 
-How could there be any limit to the amount of useful saving when every item of saving went to increase the capital structure and the fund for paying wages? Sound economists could not fail to view with horror an argument which sought to check the source of all industrial progress.[45] 
+Mercantilists were conscious that their policy killed 2 birds with 1 stone. 
 
-Another interesting personal experience helped to bring home to me the sense of my iniquity. Though prevented from lecturing on economics in London, I had been allowed by the greater liberality of the Oxford University Extension Movement to address audiences in the Provinces, confining myself to practical issues relating to working-class life. Now it happened at this time that the Charity Organisation Society was planning a lecture campaign upon economic subjects and invited me to prepare a course. 
+On the one hand the country was rid of an unwelcome surplus of goods, which was believed to result in unemployment, while on the other the total stock of money in the country was increased.[18] with the resulting advantages of a fall in the rate of interest. 
 
-I had expressed a willingness to undertake this new lecture work, when suddenly, without explanation, the invitation was withdrawn. Even then I hardly realised that in appearing to question the virtue of unlimited thrift I had committed the unpardonable sin. In this early work Mr. Hobson with his collaborator expressed himself with more direct reference to the classical economics (in which he had been brought up) than in his later writings; and for this reason, as well as because it is the first expression of his theory, I will quote from it to show how significant and well-founded were the authors’ criticisms and intuitions. They point out in their preface as follows the nature of the conclusions which they attack= Saving enriches and spending impoverishes the community along with the individual, and it may be generally defined as an assertion that the effective love of money is the root of all economic good. Not merely does it enrich the thrifty individual himself, but it raises wages, gives work to the unemployed, and scatters blessings on every side.
+It is impossible to study the notions to which the mercantilists were led by their actual experiences, without perceiving that there has been a chronic tendency throughout human history for the propensity to save to be stronger than the inducement to invest. The weakness of the inducement to invest has been at all times the key to the economic problem. To-day the explanation of the weakness of this inducement may chiefly lie in the extent of existing accumulations; whereas, formerly, risks and hazards of all kinds may have played a larger part. But the result is the same. The desire of the individual to augment his personal wealth by abstaining from consumption has usually been stronger than the inducement to the entrepreneur to augment the national wealth by employing labour on the construction of durable assets. 
 
- From the daily papers to the latest economic treatise, from the pulpit to the House of Commons, this conclusion is reiterated and re-stated till it appears positively impious to question it. Yet the educated world, supported by the majority of economic thinkers, up to the publication of Ricardo’s work strenuously denied this doctrine, and its ultimate acceptance was exclusively due to their inability to meet the now exploded wages-fund doctrine. That the conclusion should have survived the argument on which it logically stood, can be explained on no other hypothesis than the commanding authority of the great men who asserted it. Economic critics have ventured to attack the theory in detail, but they have shrunk appalled from touching its main conclusions. Our purpose is to show that these conclusions are not tenable, that an undue exercise of the habit of saving is possible, and that such undue exercise impoverishes the Community, throws labourers out of work, drives down wages, and spreads that gloom and prostration through the commercial world which is known as Depression in Trade. 
 
+## 4 The mercantilists knew that the nationalistic character of their policies and their tendency to promote war. 
 
+It was national advantage and relative strength at which they were admittedly aiming.[19] 
 
-The object of production is to provide “utilities and conveniences” for consumers, and the process is a continuous one from the first handling of the raw material to the moment when it is finally consumed as a utility or a convenience. The only use of Capital being to aid the production of these utilities and conveniences, the total used will necessarily vary with the total of utilities and conveniences daily or weekly consumed. Now saving, while it increases the existing aggregate of Capital, simultaneously reduces the quantity of utilities and conveniences consumed; any undue exercise of this habit must, therefore, cause an accumulation of Capital in excess of that which is required for use, and this excess will exist in the form of general over-production.[46] 
+We may criticise them for the apparent indifference with which they accepted this inevitable consequence of an international monetary system. 
 
-In the last sentence of this passage there appears the root of Hobson’s mistake, namely, his supposing that it is a case of excessive saving causing the actual accumulation of capital in excess of what is required, which is, in fact, a secondary evil which only occurs through mistakes of foresight; whereas the primary evil is a propensity to save in conditions of full employment more than the equivalent of the capital which is required, thus preventing full employment except when there is a mistake of foresight. 
+But intellectually their realism is much preferable to the confused thinking of contemporary advocates of an international fixed gold standard and laissez-faire in international lending, who believe that it is precisely these policies which will best promote peace. 
 
-A page or two later, however, he puts one half of the matter, as it seems to me, with absolute precision, though still overlooking the possible role of changes in the rate of interest and in the state of business confidence, factors which he presumably takes as given= We are thus brought to the conclusion that the basis on which all economic teaching since Adam Smith has stood, viz. that the quantity annually produced is determined by the aggregates of Natural Agents, Capital, and Labour available, is erroneous, and that, on the contrary, the quantity produced, while it can never exceed the limits imposed by these aggregates, may be, and actually is, reduced far below this maximum by the check that undue saving and the consequent accumulation of over-supply exerts on production; i.e. that in the normal state of modern industrial Communities, consumption limits production and not production consumption.[47] 
+For in an economy subject to money contracts and customs more or less fixed over an appreciable period of time, where the quantity of the domestic circulation and the domestic rate of interest are primarily determined by the balance of payments, as they were in Great Britain before the war, there is no orthodox means open to the authorities for countering unemployment at home except by struggling for an export surplus and an import of the monetary metal at the expense of their neighbours. Never in history was there a method devised of such efficacy for setting each country’s advantage at variance with its neighbours’ as the international gold (or, formerly, silver) standard. For it made domestic prosperity directly dependent on a competitive pursuit of markets and a competitive appetite for the precious metals. 
 
-Finally he notices the bearing of his theory on the validity of the orthodox Free Trade arguments= We also note that the charge of commercial imbecility, so freely launched by orthodox economists against our American cousins and other Protectionist Communities, can no longer be maintained by any of the Free Trade arguments hitherto adduced, since all these are based on the assumption that over-supply is impossible.[48] The subsequent argument is, admittedly, incomplete. But it is the first explicit statement of the fact that capital is brought into existence not by the propensity to save but in response to the demand resulting from actual and prospective consumption. 
+When by happy accident the new supplies of gold and silver were comparatively abundant, the struggle might be somewhat abated. But with the growth of wealth and the diminishing marginal propensity to consume, it has tended to become increasingly internecine. 
 
-The following portmanteau quotation indicates the line of thought= It should be clear that the capital of a community cannot be advantageously increased without a subsequent increase in consumption of commodities. ... Every increase in saving and in capital requires, in order to be effectual, a corresponding increase in immediately future consumption.[49] 
+The part played by orthodox economists, whose common sense has been insufficient to check their faulty logic, has been disastrous to the latest act. For when in their blind struggle for an escape, some countries have thrown off the obligations which had previously rendered impossible an autonomous rate of interest, these economists have taught that a restoration of the former shackles is a necessary first step to a general recovery. In truth the opposite holds good. 
 
-When we say future consumption, we do not refer to a future of ten, twenty, or fifty years hence, but to a future that is but little removed he present.
+It is the policy of an autonomous rate of interest, unimpeded by international preoccupations, and of a national investment programme directed to an optimum level of domestic employment which is twice blessed in the sense that it helps ourselves and our neighbours at the same time. And it is the simultaneous pursuit of these policies by all countries together which is capable of restoring economic health and strength internationally, whether we measure it by the level of domestic employment or by the volume of international trade.[20] 
 
-If increased thrift or caution induces people to save more in the present, they must consent to consume more in the future.[50] ... No more capital can economically exist at any point in the productive process than is required to furnish commodities for the current rate of consumption.[51] ... It is clear that my thrift in no wise affects the total economic thrift of the community, but only determines whether a particular portion of the total thrift shall have been exercised by myself or by somebody else. We shall show how the thrift of one part of the community has power to force another part to live beyond their income.[52] ... Most modern economists deny that consumption could by any possibility be insufficient. 
+IV 
 
-Can we find any economic force at work which might incite a community to this excess, and if there be any such forces are there not efficient checks provided by the mechanism of commerce? It will be shown, firstly, that in every highly organised industrial society there is constantly at work a force which naturally operates to induce excess of thrift; secondly, that the checks alleged to be provided by the mechanism of commerce are either wholly inoperative or are inadequate to prevent grave commercial evil.[53]
+<!-- The mercantilists perceived the existence of the problem without being able to push their analysis to the point of solving it. But  -->
 
-The brief answer which Ricardo gave to the contentions of Malthus and Chalmers seems to have been accepted as sufficient by most later economists. “Productions are always bought by productions or by services; money is only the medium by which the exchange is effected. Hence the increased production being always accompanied by a correspondingly increased ability to get and consume, there is no possibility of Overproduction” (Ricardo, Prin. of Pol. Econ. p. 362).[54] Hobson and Mummery were aware that interest was nothing whatever except payment for the use of money.[55] 
+The Classical school ignored the problem because they introduced premises which involved the non-existence of the problem. This led to a disconnect between:
+- the conclusions of economic theory and
+- the conclusions of common sense. 
 
-They also knew well enough that their opponents would claim that there would be “such a fall in the rate of interest (or profit) as will act as a check upon Saving, and restore the proper relation between production and consumption”.[56] They point out in reply that “if a fall of Profit is to induce people to save less, it must operate in one of two ways, either by inducing them to spend more or by inducing them to produce less”.[57] 
+<!-- The extraordinary achievement of the classical theory was to overcome the beliefs of the “natural man” and, at the same time, to be wrong. As Professor Heckscher expresses it= If, then, the underlying attitude towards money and the material from which money was created did not alter in the period between the Crusades and the 18th century, it follows that we are dealing with deep-rooted notions. Perhaps the same notions have persisted even beyond the 500 years included in that period, even though not nearly to the same degree as the “fear of goods”. ... With the exception of the period of laissez-faire, no age has been free from these ideas. It was only the unique intellectual tenacity of laissez-faire that for a time overcame the beliefs of the “natural man” on this point.[21]  -->
 
-As regards the former they argue that when profits fall the aggregate income of the community is reduced, and “we cannot suppose that when the average rate of incomes is falling, individuals will be induced to increase their rate of consumption by the fact that the premium upon thrift is correspondingly diminished”; whilst as for the second alternative, “it is so far from being our intention to deny that a fall of profit, due to over-supply, will check production, that the admission of the operation of this check forms the very centre of our argument”.[58] 
+<!-- It required the unqualified faith of doctrinaire laissez-faire to wipe out the “fear of goods” ... [which] is the most natural attitude of the “natural man” in a money economy. 
 
-Nevertheless, their theory failed of completeness, essentially on account of their having no independent theory of the rate of interest; with the result that Mr. Hobson laid too much emphasis (especially in his later books) on under-consumption leading to over-investment, in the sense of unprofitable investment, instead of explaining that a relatively weak propensity to consume helps to cause unemployment by requiring and not receiving the accompaniment of a compensating volume of new investment, which, even if it may sometimes occur temporarily through errors of optimism, is in general prevented from happening at all by the prospective profit falling below the standard set by the rate of interest. 
+Free Trade denied the existence of factors which appeared to be obvious, and was doomed to be discredited in the eyes of the man in the street as soon as laissez-faire could no longer hold the minds of men enchained in its ideology.[22] 
 
-Since the war there has been a spate of heretical theories of under-consumption, of which those of Major Douglas are the most famous. The strength of Major Douglas’s advocacy has, of course, largely depended on orthodoxy having no valid reply to much of his destructive criticism. 
+I remember Bonar Law’s mingled rage and perplexity in face of the economists, because they were denying what was obvious. He was deeply troubled for an explanation. One recurs to the analogy between the sway of the classical school of economic theory and that of certain religions. 
 
-On the other hand, the detail of his diagnosis, in particular the so-called A + B theorem, includes much mere mystification. If Major Douglas had limited his B-items to the financial provisions made by entrepreneurs to which no current expenditure on replacements and renewals corresponds, he would be nearer the truth. But even in that case it is necessary to allow for the possibility of these provisions being offset by new investment in other directions as well as by increased expenditure on consumption. 
+For it is a far greater exercise of the potency of an idea to exorcise the obvious than to introduce into men’s common notions the recondite and the remote. 
 
-Major Douglas is entitled to claim, as against some of his orthodox adversaries, that he at least has not been wholly oblivious of the outstanding problem of our economic system. Yet he has scarcely established an equal claim to rank — a private, perhaps, but not a major in the brave army of heretics — with Mandeville, Malthus, Gesell and Hobson, who, following their intuitions, have preferred to see the truth obscurely and imperfectly rather than to maintain error, reached indeed with clearness and consistency and by easy logic, but on hypotheses inappropriate to the facts. 
+V -->
 
+<!-- There remains an allied, but distinct, matter where for centuries, indeed for several millenniums, enlightened opinion held for certain and obvious a doctrine which  -->
 
-### Author’s Footnotes 
+I believe that the interest rate is not self-adjusting at a level best suited to the social advantage. Instead, it constantly tends to rise too high. 
 
-<!-- 1. Vide his Industry and Trade, Appendix D; Money, Credit and Commerce, p. 130; and Principles of Economics, Appendix I.  -->
+The Classical school has repudiated the above doctrine as childish. But I believe it deserves rehabilitation and honour.
 
-<!-- 2. His view of them is well summed up in a footnote to the first edition of his Principles, p. 51= “Much study has been given both in England and Germany to medieval opinions as to the relation of money to national wealth. On the whole they are to be regarded as confused through want of a clear understanding of the functions of money, rather than as wrong in consequence of a deliberate assumption that the increase in the net wealth of a nation can be effected only by an increase of the stores of the precious metals in her.” 
+A wise Government then curbs it by statute and custom and even by invoking morality. Provisions against usury are amongst the most ancient economic practices. 
 
-3. The Nation and the Athenaeum, November 24, 1923. 
+The destruction of the inducement to invest by an excessive love for money <!-- liquidity-preference --> was the outstanding evil. 
+- It was the prime impediment to the growth of wealth in the ancient and medieval worlds. 
 
-4. The remedy of an elastic wage-unit, so that a depression is met by a reduction of wages, is liable, for the same reason, to be a means of benefiting ourselves at the expense of our neighbours. 
+<!-- And naturally so, since certain of the risks and hazards of economic life diminish the marginal efficiency of capital whilst others serve to increase the preference for liquidity.  -->
 
-5. Experience since the age of Solon at least, and probably, if we had the statistics, for many centuries before that, indicates what a knowledge of human nature would lead us to expect, namely, that there is a steady tendency for the wage-unit to rise over long periods of time and that it can be reduced only amidst the decay and dissolution of economic society. Thus, apart altogether from progress and increasing population, a gradually increasing stock of money has proved imperative. 
+In a world, therefore, which no one reckoned to be safe, it was almost inevitable that the rate of interest, unless it was curbed by every instrument at the disposal of society, would rise too high to permit of an adequate inducement to invest. 
 
-6. They are the more suitable for my purpose because Prof. Heckscher is himself an adherent, on the whole, of the classical theory and much less sympathetic to the mercantilist theories than I am. Thus there is no risk that his choice of quotations has been biased in any way by a desire to illustrate their wisdom. 
+I was brought up to believe that:
+- the Medieval Church's view on interest rates was inherently absurd
+- the subtle discussions distinguishing the return on money-loans from the return to active investment were merely Jesuitical attempts to find a practical escape from a foolish theory. 
 
-7. Heckscher, Mercantilism, vol. ii. pp. 200, 201, very slightly abridged. 8. Some Considerations of the Consequences of the Lowering of Interest and Raising the Value of Money, 1692, but written some years previously. 9. He adds= “not barely on the quantity of money but the quickness of its circulation”. 
+But I now read them in an honest intellectual effort to keep separate what the classical theory has inextricably confused together:
+- interest rate*
+- the marginal efficiency of capital
 
-10. “Use” being, of course, old-fashioned English for “interest”. 11. Hume a little later had a foot and a half in the classical world. For Hume began the practice amongst economists of stressing the importance of the equilibrium position as compared with the ever-shifting transition towards it, though he was still enough of a mercantilist not to overlook the fact that it is in the transition that we actually have our being= “It is only in this interval or intermediate situation, between the acquisition of money and a rise of prices, that the increasing quantity of gold and silver is favourable to industry. ... It is of no manner of consequence, with regard to the domestic happiness of a state, whether money be in a greater or less quantity. The good policy of the magistrate consists only in keeping it, if possible, still increasing; because by that means he keeps alive a spirit of industry in the nation, and increases the state of labour in which consists all real power and riches. A nation, whose money decreases, is actually, at that time, weaker and more miserable than another nation, which possesses no more money but is on the increasing trend.” (Essay On Money, 1752). 
+> *Superphysics Note= Interest rate is the profits in lending capital. Return on capital is the profits in using capital yourself
 
-12. It illustrates the completeness with which the mercantilist view, that interest means interest on money (the view which is, as it now seems to me, indubitably correct), has dropt out, that Prof. Heckscher, as a good classical economist, sums up his account of Locke’s theory with the comment — “Locke’s argument would be irrefutable ... if interest really were synonymous with the price for the loan of money; as this is not so, it is entirely irrelevant” (op. cit. vol. ii. p. 204). 13. Heckscher, op. cit. vol. ii. pp. 210, 21I. 14. Heckscher, op. cit. vol. ii. p. 228. 15. Heckscher, op. cit. vol. ii. p. 235. 16. Heckscher, op. cit. vol. ii. p. 122. 17. Heckscher, op. cit. vol. ii. P. 223. 18. Heckscher, op. cit. vol. ii. p. 178. 
 
-19. “Within the state, mercantilism pursued thoroughgoing dynamic ends. But the important thing is that this was bound up with a static conception of the total economic resources in the world; for this it was that created that fundamental disharmony which sustained the endless commercial wars.... This was the tragedy of mercantilism. Both the Middle Ages with their universal static ideal and laissez-faire with its universal dynamic ideal avoided this consequence” (Heckscher, op. cit. vol. ii. pp. 25, 26). 
 
-20. The consistent appreciation of this truth by the International Labour Office, first under Albert Thomas and subsequently under Mr. H. B. Butler, has stood out conspicuously amongst the pronouncements of the numerous post-war international bodies. 21. Heckscher, op. cit. vol. ii. pp. 176-7. 22. Op. cit. vol. ii. p. 335. 
+The schoolmen's disquisitions were directed towards a formula allowing the schedule of the marginal efficiency of capital to be high, while using rule, custom, and the moral law to keep down interest rates. 
 
-23. In his Letter to Adam Smith appended to his Defence of Usury. 
 
-24. Wealth of Nations, Book II, chap. 4. 25. Having started to quote Bentham in this context, I must remind the reader of his finest passage= “The career of art, the great road which receives the footsteps of projectors, may be considered as a vast, and perhaps un-bounded, plain, bestrewed with gulphs, such as Curtius was swallowed up in. Each requires a human victim to fall into it ere it can close, but when it once closes, it closes to open no more, and so much of the path is safe to those who follow.” 
+Even Adam Smith was extremely moderate in his attitude to the usury laws. For he was aware that:
+- individual savings may be absorbed either by investment or by debts
+- there is no security that savings will be lent
+<!-- they will find an outlet in the form -->
 
-26. Born near the Luxembourg frontier of a German father and a French mother. 27. Gesell differed from George in recommending the payment of compensation when the land is nationalised. 28. The Natural Economic Order, pp. 297 et seq. 29. Heckscher, op. cit. vol. ii. p. 208. 30. Op. cit. vol. ii. p. 290. 31. Op. cit. vol. ii. p. 209. 32. Op. cit. vol. ii. p. 291. 
+He favoured low interest rates so that <!--  as increasing the chance of --> savings would be invested instead of being lent. <!--  finding their outlet in new investment rather than in debts.  -->
 
-33. In his History of English Thought in the Eighteenth Century Stephen wrote (p. 297) in speaking of “the fallacy made celebrated by Mandeville” that ..the complete confutation of it lies in the doctrine — so rarely understood that its complete apprehension is, perhaps, the best test of an economist — that demand for commodities is not demand for labour”. 
 
-34. Compare Adam Smith, the forerunner of the classical school, who wrote, “What is prudence in the conduct of every private family can scarce be folly in that of a great Kingdom” — probably with reference to the above passage from Mandeville. 35. Essays in Biography, pp. 139-47. 
+### Bentham 
 
-36. A letter from Malthus to Ricardo, dated July 7, 1821. 
+This is why he defended a moderate application of the usury laws in a passage for which he was severely taken to task by Bentham.[23][24] 
 
-37. A letter from Malthus to Ricardo, dated July 16, 1822. 
+Bentham criticized:
+- Adam Smith’s Scotch caution as too severe on “projectors”
+- that a maximum interest rate would leave too little margin for the reward of legitimate and socially advisable risks. 
 
-38. Preface to Malthus’s Principles of Political Economy, pp. 8, 9. 
+Bentham defined "projectors" as people who pursue wealth by invention or improvement, needing wealth in the process. <!-- , or even of any other object, endeavour, by the assistance of wealth, to strike into any channel of invention ... upon all such persons as, in the line of any of their pursuits, aim at anything that can be called improvement. ... It falls, in short, upon every application of the human powers, in which ingenuity stands in need of wealth for its assistance.” --> Of course Bentham is right in protesting the laws which stand in the way of taking legitimate risks. He says= “A prudent man will not pick out the good projects from the bad, for he will not meddle with projects at all.”[25] 
 
-39. Malthus’s Principles of Political Economy, p. 363, footnote. 40. J. S. Mill, Political Economy, Book I. chapter v. Them is a most important and penetrating discussion of this aspect of Mill’s theory in Mummery and Hobson’s Physiology of Industry? pp. 38 et seq., and, in particular, of his doctrine (which Marshall, in his very unsatisfactory discussion of the Wages-Fund Theory, endeavoured to explain away) that “a demand for commodities is not a demand for labour”. 
+It may be doubted, perhaps, whether the above is just what Adam Smith intended by his term. Or is it that we are hearing in Bentham (though writing in March 1787 from “Crichoff in White Russia”) the voice of nineteenth-century England speaking to the eighteenth? For nothing short of the exuberance of the greatest age of the inducement to investment could have made it possible to lose sight of the theoretical possibility of its insufficiency. 
 
-41. “The Victorians and Investment”, Economic History, 1936. 
 
-42. Fullarton’s tract On the Regulation of Currencies (1844) is the most interesting of his references. 
-
-43. J. M. Robertson’s The Fallacy of Saving, published in 1892, supported the heresy of Mummery and Hobson. But it is not a book of much value or significance, being entirety lacking in the penetrating intuitions of The Physiology of Industry. 
-
-44. In an address called “Confessions of an Economic Heretic”, delivered before the London Ethical Society at Conway Hall on Sunday, July 14, 1935. I reproduce it here by Mr. Hobson’s permission. 
-
-45. Hobson had written disrespectfully in The Physiology of Industry, p. 26= “Thrift is the source of national wealth, and the more thrifty a nation is the more wealthy it becomes. Such is the common teaching of almost all economists; many of them assume a tone of ethical dignity as they plead the infinite value of thrift; this note alone in all their dreary song has caught the favour of the public ear.” 
-
-46. Hobson and Mummery, Physiology of Industry, pp. iii-v. 
-
-
-47. Hobson and Mummery, Physiology of Industry, p. vi. 48. Op. cit. p. ix. 49. Op. cit. p. 27 50. Op. cit. pp. 50, 51 51. Op. cit. p. 69 52. Op. cit. p. 113 53. Op. cit. p. 100 54. Op. cit. p. 101 55. Op. cit. p. 79 56. Op. cit. p. 117. 57. Op. cit. P. 130. 58. Hobson and Mummery, Physiology of Industry, p. 131. -->

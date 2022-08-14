@@ -1,16 +1,14 @@
-+++
-title= "The Social Philosophy towards which the General Theory might Lead"
-description= "The outstanding faults of the economy are its failure to provide for full employment and its inequality"
-image= "/covers/general.jpg"
-date= 2020-01-02
-linkb= "/research/keynes/general-theory/chapter-23"
-linkbtext= "chapter-23"
-linkf= "/research/keynes/general-theory/"
-linkftext= "Index"
-icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "The Social Philosophy Arising From the General Theory"
+description: "The outstanding faults of the economy are its failure to provide for full employment and its inequality"
+image: "/covers/general.jpg"
+date: 2020-01-02
+linkb: "/research/keynes/general-theory/chapter-23"
+linkbtext: "chapter-23"
+linkf: "/research/keynes/general-theory"
+linkftext: "Index"
+---
+
 
 
 THE outstanding faults of the economy are:

@@ -1,16 +1,16 @@
-+++
-title= "Money Wages versus Real Wages"
-description= "Keynes continues his corruption of Classical theory by arguing for the dominance of money wages over real wages"
-image= "/covers/general.jpg"
-date= 2020-01-30
-linkb= "/research/keynes/general-theory/chapter-02"
-linkbtext= "chapter-2"
-linkf= "/research/keynes/general-theory/chapter-02c"
-linkftext= "chapter-2c"
-icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+heading: "Chapter 2b"
+title: "Money Wages versus Real Wages"
+description: "Keynes continues his corruption of Classical theory by arguing for the dominance of money wages over real wages"
+image: "/covers/general.jpg"
+date: 2020-01-31
+linkb: "/research/keynes/general-theory/chapter-02"
+linkbtext: "Chapter 2"
+linkf: "/research/keynes/general-theory/chapter-02c"
+linkftext: "chapter-2c"
+icon: "/icons/keynes.png"
+---
+
 
 
 What is the actual statistical relationship between:
@@ -124,7 +124,7 @@ The classical conclusions:
 
 Thus if money-wages change, prices would change in almost the same proportion. It would leave the real wage and unemployment the same as before. Any small gain or loss to labour being at the expense or profit of other elements of marginal cost which have been left unaltered.[6]
 
-> *Superphysics Note= The money-wages in the Classical theory are representations of real wages and do not represent themselves. They are always relative to consumer goods and never independent of them. A change in money-wages will not automatically mean a change in real prices because money-wages are an effect and not a cause. 
+> *Superphysics Note: The money-wages in the Classical theory are representations of real wages and do not represent themselves. They are always relative to consumer goods and never independent of them. A change in money-wages will not automatically mean a change in real prices because money-wages are an effect and not a cause. 
 
 
 
@@ -144,10 +144,9 @@ I assert that a fall in real wages due to inflation, with money-wages unaltered,
 If it does, then all those who are now unemployed at the current reduced real wage will stop working because of just a small inflation*. <!-- withdraw the offer of their labour in the event of even a small rise in the cost of living. --> Yet this strange supposition is what Pigou’s Theory of Unemployment says[7].  <!-- and it is what all members of the orthodox school are tacitly assuming. -->
 
 
-> *Superphysics Note= The current workers ask for a wage increase instead of quitting work
+> *Superphysics Note: The current workers ask for a wage increase instead of quitting work
 
 
-<br>
 
 > 2. **The wage bargain directly determines the general level of real wages** 
 
@@ -159,5 +158,5 @@ I argue that <!-- This will be our contention. We shall endeavour to show that p
 
 <!-- The attempt to elucidate this problem will be one of our main themes. We shall argue that there has been a fundamental misunderstanding of how in this respect the economy in which we live actually works. -->
 
-> *Superphysics Note= Here, Keynes strangely ignores the workers' ability to negotiate wages and salaries 
+> *Superphysics Note: Here, Keynes strangely ignores the workers' ability to negotiate wages and salaries 
 

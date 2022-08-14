@@ -115,7 +115,7 @@ In this way, 1 hour of special labour paid at 2x ordinary labor at 1 hour will c
 - "wage-unit" is the money-wage of a labour-unit*.[5] 
 
 
-> *Superphysics note: We rename labour unit into "hourly-common-labour" and wage unit as "hourly-common-wage"
+> *Superphysics note: We rename labour unit into "hourly-common-labour" and wage unit as "hourly-common-wage". Keynes' use of wage-unit as the measure of value in an economy is the reason why minimum wage is established in countries
 
 <!-- We shall call the unit in which the quantity of employment is measured the . -->
 

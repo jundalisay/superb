@@ -12,3 +12,7 @@ author: Dalisay
 ---
 
 
+## Aggregate Demand of Economics
+
+Total demand of goods in a society
+

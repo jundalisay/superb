@@ -18,3 +18,16 @@ draft: true
 
 ## Capitalism
 
+### Keynes' General Theory
+
+In British economist John Maynard Keynes published The General Theory. 
+
+It overturned Classical Economics which was not able to solve the Great Depression. 
+
+His work introduced many concepts and policies that continue to be implemented today: 
+
+- multipier effect
+- deficit spending
+
+
+He also emphasized interest rates. 

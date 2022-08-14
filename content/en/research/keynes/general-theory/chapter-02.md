@@ -1,17 +1,15 @@
-+++
-title= "The Postulates of Classical Economics"
-heading= "Chapter 2"
-description= "Here, we expose the sophistry of Keynes who enshrined money-wages over real wages in order to create socialism for the financial system"
-image= "/covers/general.jpg"
-date= 2020-01-31
-linkb= "/research/keynes/general-theory/"
-linkbtext= "Index"
-linkf= "/research/keynes/general-theory/chapter-02b"
-linkftext= "chapter-2b"
-icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "The Postulates of Classical Economics"
+heading: "Chapter 2"
+description: "Here, we expose the sophistry of Keynes who enshrined money-wages over real wages in order to create socialism for the financial system"
+image: "/covers/general.jpg"
+date: 2020-01-31
+linkb: "/research/keynes/general-theory/"
+linkbtext: "Index"
+linkf: "/research/keynes/general-theory/chapter-02b"
+linkftext: "chapter-2b"
+icon: "/icons/keynes.png"
+---
 
 
 Most theories of value and production focus on the distribution of a given volume of employed resources between different uses. These uses <!--  and with the conditions which, assuming the employment of this quantity of resources, --> determine their relative rewards and the relative values of their products.
@@ -85,7 +83,7 @@ It follows that there are only four ways to increase employment:
 This is Pigou’s Theory of Unemployment, which is the only detailed account of the classical theory of employment*.
 <!-- [3] -->
 
-> Superphysics Note= Adam Smith has a more compete version in the Wealth of Nations Book 1, Chapters 6-9. But no one seems to bother to check it 
+> Superphysics Note: Adam Smith has a more complete version in the Wealth of Nations Book 1, Chapters 6-9. But no one seems to bother to check it 
 
 
 
@@ -99,7 +97,7 @@ The classical school reconciles this with their second postulate. They argue tha
 
 However, this situation is due to an agreement amongst workers not to work for less. If all workers agree to lower nominal wages* <!-- money-wages -->, then more employment would come. In this case, such unemployment is apparently involuntary. But it should be included under the ‘voluntary’ unemployment due to the effects of collective bargaining, etc.
 
-> *Superphysics Note= Here, Keynes corrupts the Classical Theory by replacing real wages with nominal wages
+> *Superphysics Note: Here, Keynes corrupts the Classical Theory by replacing real wages with nominal wages
 
 <!-- This calls for two observations, the first of which relates to the actual attitude of workers towards real wages and money-wages respectively and is not theoretically fundamental, but the second of which is fundamental. -->
 
@@ -129,19 +127,19 @@ The classical school has assumed that this would involve no significant change i
 <!-- [5] -->
 
 
-> *Superphysics note= Keynes here purposely corrupts the Classical theory which is based on real wages and does not care about nominal or money-wages. Real wages always has consumer prices (wage-goods) as their reference. But Keynes is all for nominal money-wages which he imposes on the Classical theory. He then blames the Classical theory for its mistake when Keynes is the one making the mistake.  The Classical theory has been in force since the time of the ancient Greeks up to the 18th century. How could the collective billions of people from that timespan be wrong, and only Keynes be correct? 
+> *Superphysics note: Keynes here purposely corrupts the Classical theory which is based on real wages and does not care about nominal or money-wages. Real wages always has consumer prices (wage-goods) as their reference. But Keynes is all for nominal money-wages which he imposes on the Classical theory. He then blames the Classical theory for its mistake when Keynes is the one making the mistake.  The Classical theory has been in force since the time of the ancient Greeks up to the 18th century. How could the collective billions of people from that timespan be wrong, and only Keynes be correct? 
 
 
 
 They did not realise that, unless the supply of labour is a function of real wages alone*, their supply curve for labour will shift bodily with every movement of prices. 
 
 
-> *Superphysics note= Yes, the Classical economists knew that. That's why they ignore nominal wages. But Keynes imposes nominal wages which is not what the Classical theory is about.
+> *Superphysics note: Yes, the Classical economists knew that. That's why they ignore nominal wages. But Keynes imposes nominal wages which is not what the Classical theory is about.
 
 
 Thus their method is tied up with their very special assumptions*. It cannot be adapted to deal with the more general case.
 
-> *Superphysics note= Yes, the Classical postulates require the ignoring of nominal values which is opposite of what Keynes is doing and imposing as a general case
+> *Superphysics note: Yes, the Classical postulates require the ignoring of nominal values which is opposite of what Keynes is doing and imposing as a general case
 
 
 
@@ -153,7 +151,7 @@ Thus their method is tied up with their very special assumptions*. It cannot be 
 ![wtf]()
 
 
-> *Superphysics Note= Workers actually go on strike during inflation which is a temporary withdrawal of labour. 
+> *Superphysics Note: Workers actually go on strike during inflation which is a temporary withdrawal of labour. 
 
 
 <!-- It would be illogical for workers to resist a reduction of money-wages but not a reduction of real wages. For reasons given below (section III), this might not be so illogical as it appears at first; and, as we shall see later, fortunately so. But, whether logical or illogical, experience shows that this is how labour in fact behaves. -->

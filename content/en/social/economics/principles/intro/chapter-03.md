@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 3 of the Introductory Chapter"
+heading: "Chapter 3 of the Introductory Part"
 title: "The Metaphysics of Value"
 linkTitle: Chapter 3
 heading: Nominal, Real, Natural, Market Prices

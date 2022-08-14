@@ -12,3 +12,12 @@ author: Dalisay
 # draft: true
 ---
 
+Employment 
+
+Type | Description
+--- | --- | --- 
+Cyclical | Associated with the business cycle
+Structural | Caused by changes in the economy, such as in technological and natural resources 
+Seasonal | Caused by seasons and weather
+Frictional | Temporary unemployment 
+

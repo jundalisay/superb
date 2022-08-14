@@ -14,3 +14,9 @@ author: Dalisay
 ---
 
 
+## Inflation
+
+Demand-pull money-price Inflation - prices rise because of excessive demand
+
+Cost-push money-price Inflation - prices rise because of increased costs
+

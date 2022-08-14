@@ -1,17 +1,15 @@
-+++
-title= "Involuntary Employment"
-heading= "Chapter 2c"
-description= "The struggle over money-wages is often believed to determine the general level of real wages"
-image= "/covers/general.jpg"
-date= 2020-01-29
-linkb= "/research/keynes/general-theory/chapter-02b"
-linkbtext= "chapter-2"
-linkf= "/research/keynes/general-theory/chapter-03"
-linkftext= "chapter-3"
-icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+heading: "Chapter 2c"
+title: "Involuntary Employment"
+description: "The struggle over money-wages is often believed to determine the general level of real wages"
+image: "/covers/general.jpg"
+date: 2020-01-31
+linkb: "/research/keynes/general-theory/chapter-02b"
+linkbtext: "Chapter 2b"
+linkf: "/research/keynes/general-theory/chapter-03"
+linkftext: "chapter-3"
+icon: "/icons/keynes.png"
+---
 
 
 The struggle over money-wages is often believed to determine the general level of real wages. 
@@ -39,10 +37,9 @@ do not resist reductions of real wages, which are associated with increases in a
 Every trade union will resist a cut in money-wages. But no trade union would go on strike for every rise in the cost of living*. They thus do not create an obstacle to any increase in aggregate employment which is attributed to them by the classical school.
 
 
-> *Superphysics Note= This is actually the weakness of working class that is subtly exploited by the profit and rent earning class
+> *Superphysics Note: This is actually the weakness of working class that is subtly exploited by the profit and rent earning class
 
 
-+++ 
 
 ‘Involuntary’ unemployment does not mean the mere existence of an unexhausted capacity to work. ‘Frictional’ unemployment is not ‘involuntary’ unemployment. 
 
@@ -71,7 +68,7 @@ Therefore, apparent unemployment is the result of temporary loss of:
 
 Thus Classical economists <!--  writers in the classical tradition, overlooking the special assumption underlying their theory, have been driven inevitably to the conclusion, perfectly logical on their assumption, --> concluded that apparent unemployment is caused by a refusal by the unemployed to accept a reward* which corresponds to their marginal productivity. 
 
-> *Superphysics Note= In a depression, real wages become slave wages due to the reduced total economic activity. 
+> *Superphysics Note: In a depression, real wages become slave wages due to the reduced total economic activity. 
 
 
 A classical economist may sympathise with workers refusing to accept lower money-wages. But such a condition is temporary. <!-- , and he will admit that it may not be wise to make it to meet conditions which are temporary; but --> Scientific integrity forces him to declare that this refusal is the cause of the problem.
@@ -86,7 +83,7 @@ The classical theorists resemble Euclidean geometers in a non-Euclidean world. T
 Something similar is required today in economics. We need to throw over the second postulate of the classical doctrine and to work out a system where involuntary unemployment is possible.
 
 
-+++
+
 
 We keep <!-- In emphasising our point of departure from the classical system, we must not overlook an important point of agreement. For we shall maintain --> the first Classical postulate<!--  as heretofore, subject only to the same qualifications as in the classical theory; and we must pause, for a moment, to consider what this involves. -->
 
@@ -116,17 +113,24 @@ From the time of Say and Ricardo, the classical economists have taught that supp
 
 J. S. Mill’s Principles of Political Economy explains this doctrine:
 
+{{< q a="mill" >}}
 The means of payment for commodities is simply commodities. Each person pays for the productions of other people with his own. All sellers are inevitably buyers. 
 
-If we could suddenly double the country's productivity, we would double the supply of commodities in every market. We would also double the purchasing power. Everybody would bring a double demand as well as supply. Everybody would be able to buy twice as much, because every one would have twice as much to offer in exchange. [Principles of Political Economy, Book III, Chap. 14]
+If we could suddenly double the country's productivity, we would double the supply of commodities in every market. We would also double the purchasing power. Everybody would bring a double demand as well as supply. Everybody would be able to buy twice as much, because every one would have twice as much to offer in exchange. 
+<cite>Principles of Political Economy, Book 3, Chapter 14</cite>
+{{< /q >}}
+
 
 Any individual act of abstaining from consumption causes the labour and commodities to be diverted from supplying consumption into the investment in the production of capital wealth. 
 
 Marshall’s Pure Theory of Domestic Values[9] illustrates the traditional approach:
 
+{{< q a="marshall" >}}
 The whole of a man’s income is expended in the purchase of services and of commodities. A man spends some portion of his income and saves another. 
 
 But it is a familiar economic axiom that a man purchases labour and commodities with that portion of his income which he saves just as much as he does with that he is said to spend. He spends when he seeks to obtain present enjoyment from the services and commodities which he purchases. He saves when he causes the labour and the commodities which he purchases to be devoted to the production of wealth from which he expects to derive the means of enjoyment in the future.
+{{< /q >}}
+
 
 It is not easy to compare Marshall’s later work[10] with Edgeworth or Pigou. 
 
@@ -141,7 +145,7 @@ Pigou believes:
 Contemporary thought is still deeply steeped in the notion that if people do not spend their money in one way they will spend it in another.[11] Post-war economists seldom succeed in maintaining this standpoint consistently*.
 
 
-> *Superphysics Note= This is due to growth in the doctrine of profit maximization which did not exist during the time of Mill or Ricardo 
+> *Superphysics Note: This is due to growth in the doctrine of profit maximization which did not exist during the time of Mill or Ricardo 
 
 <!-- Their thought today is too much permeated with the contrary tendency and with facts of experience too obviously inconsistent with their former view.[12] But they have not drawn sufficiently far-reaching consequences; and have not revised their fundamental theory. -->
 
