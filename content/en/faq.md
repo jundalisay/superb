@@ -77,7 +77,7 @@ So what have you found?
 {{< /r >}}
 
 {{< l a="Superphysics" >}}
-That there is a Supreme Entity, called as God, Allah, Jehovah, Yahweh, Brahma, Amaterasu, etc. and that we are inside It. Parmenides calls It The One, and the Chinese call It The Tao. 
+That there is a Supreme Entity, called as God, Allah, Jehovah, Yahweh, Brahma, Amaterasu, etc. and that we are inside It. Parmenides calls It The One, and the Chinese call It The Tao.
 
 This is similar to the idea that Descartes had, despite him using non-Asian techniques. This One then generates everything in real-time. Again this is very different from the Roman or Jewish belief that the universe was pre-created, usually in 7 days.
 {{< /l >}}
@@ -99,7 +99,13 @@ So how can that knowledge solve problems? Are you just going to be like the Hind
 {{< l ava="Superphysics" >}}
 No. Superphysics aims to solve problems by striking at the root cause, which is the 'True Nature' or Dharma or Tao in every thing that leads to its discrete identity, as described by Socrates. 
 
-Most science just deals with effect and not cause because science is ignorant of metaphysics which is the real cause of anything in physics. So the first step is to find the metaphysical nature of the problem.
+A problem begins when something goes away from its True Nature, Dharma, or Tao.
+
+Most science just deals with effect and not cause because science is ignorant of metaphysics which is the real cause of anything in physics. The education system is supposed to help children discover their True Nature, Dharma, or Tao so that they can direct their lives towards it. But instead, it just molds them to be industrial workers (the dharma of of business and industry). 
+
+Ask anyone what the goal or purpose of the life is, and they will look at you with a blank stare. 
+
+So the first step is to find the metaphysical true nature.
 {{< /l >}}
 
 {{< r ava="asker" >}}
@@ -110,7 +116,7 @@ Can you give an example? How would Superphysics solve a headache?
 ## Medical Superphysics
 
 {{< l ava="Medical-Superphysics" >}}
-By knowing the root cause of the headache. The cause could be diet, stress, congenital problem, bacteria, etc. 
+By knowing the root cause of the headache. The cause could be diet, stress, congenital problem, bacteria, etc. The person might be doing something that is too stressful for his brain. 
 
 Medical science deals with the headache by masking its pain (usually via Paracetamol) and not really dealing with what is causing the pain. This is to process patients faster since the body has its own natural healing mechanism. However, this also means that the headache can come back. Moreover, the doctor can only work with the data that the patient gives. 
 
@@ -157,9 +163,9 @@ So what if there's global warming? In the long-run, we're all dead! At least I'v
 {{< l ava="Superphysics" >}}
 Ok boomer, so Superphysics isn't for you.
 
-That's actually one of the attractions of Superphysics -- it rejects selfishness, vice, and the lack of virtue. You should stay in Quantum Physics, Economics, or some dogmatic religion that sees itself superior than others. Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantiative easing that either bloats the debt and shuts down governments or causes stagflation.
+That's actually one of the attractions of Superphysics -- it rejects selfishness, vice, and the lack of virtue. You should stay in Quantum Physics, Economics, or some dogmatic religion that sees itself superior than others, or is limited to the 5 senses. Go ahead and exhaust your brain theorizing wormholes and dark matter that will never exist, or quantiative easing that either bloats the debt and shuts down governments or causes stagflation.
 
-People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. 
+People who ascribe to Superphysics are open-minded and lovers of philosophy, nature, and the Supreme Entity, as explained by Socrates. These allow and develop the 6th sense of intuition and fellow-feeling, on top of the usual math and 5-sense cognitive abilities usually in IQ tests. 
 
 We are targetting young people for this because they are the ones stuck with warmed-world destroyed by the previous generation. Notice how we use graphics and the chat format to appeal to young people. <!-- , who took all the land, wealth, and capital and left none for the next generation. -->
 {{< /l >}}
@@ -229,8 +235,9 @@ How can we help?
 You can help by:
 - sharing our posts
 - adding links to our posts or books on your website
-  - [https://pantrypoints.com](https://pantrypoints.com)
-  - [https://superphysics.org](https://superphysics.org)  
+  - [https://pantrypoints.com](https://pantrypoints.com). This is the practical aspect
+  - [https://superphysics.org](https://superphysics.org). This is the theoretical aspect
+- going to [pantrypoints.com](https://pantrypoints.com) and submitting a contact form under 'Join the Change'
 - referring organizations, universities, or volunteers who might be interested. At the moment, we have volunteers in the following cities where we have tested our system:
   - Hanoi
   - Ho Chi Minh City
@@ -239,6 +246,7 @@ You can help by:
 - joining our [Facebook group](https://facebook.com/groups/pantrynomics)
 - telling us about broken pages, bugs, typos, confusing articles, or factual errors
 - donating cash or in kind
+  - translating content into your language
 {{< /l >}}
 
 <!-- By gettings Its principles. For example, Einstein based his Relativity on Parmenides explanation of how the One is Many and All is relative. We expand this by creating the theory of Universal Relativity for Material Superphysics, as well as the Four Laws of Value for Economic Superphysics (as spnomics)    -->
