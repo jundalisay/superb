@@ -1,26 +1,34 @@
 ---
-title: "What is Economic Karma?"
+heading: "Chapter 1b"
+title: "Economic Karma"
 description : "Economic Karma is the cause and effect of economic actions"
 date: 2016-01-01
-image: /photos/meta/buddhism.jpg
-linkb: /social/economics/principles/dharma
-linkbtext: "Dharma"
-linkf: /social/economics/principles/tao-life-purpose
-linkftext: "Tao as Life Purpose"
-heading: What Goes Around Comes Around
-author: Juan
-icon: /icons/pantry.png
+image: /covers/econsp.jpg
+description: "Instead of the word dharma, however, he named his concept the invisible hand. This had economic applications in The Wealth of Nations and moral applications in The Theory of Moral Sentiments"
+linkb: /social/economics/principles/part-4/chapter-01
+linkbtext: "chapter-01"
+linkf: /social/economics/principles/part-4/chapter-02
+linkftext: "chapter-02"
+author: Dalisay
+aliases:
+  /economics/social/principles/economic-karma
 ---
 
-
-The previous post pointed out that Smith was one of the few Western intellectuals to hint at the concept of dharma, or the natural and sustainable activities of humans, and apply it both for moral and economic purporses. 
-
-Instead of the word dharma, however, he named his concept **the invisible hand**. This had economic applications in The Wealth of Nations and moral applications in The Theory of Moral Sentiments.
+<!-- heading: "Opportunity Cost to Economics"
+image: / -->
 
 
-## Weaponizing the Invisible Hand
+## Economic Karma
 
-The main difference between Smith's invisible hand and Eastern dharma is that the former has moral, spiritual, and practical uses, while the latter emphasizes only its moral and spiritual use. 
+Smith was one of the few Western intellectuals to hint at the concept of dharma, or the natural and sustainable activities of humans, and apply it both for moral and economic purporses.
+
+Instead of the word dharma, however, he named his concept the invisible hand. This had economic applications in The Wealth of Nations and moral applications in The Theory of Moral Sentiments.
+
+
+
+### Weaponizing the Invisible Hand
+
+The main difference between Smith’s invisible hand and Eastern dharma is that the former has moral, spiritual, and practical uses, while the latter emphasizes only its moral and spiritual use.
 
 
 {{< img src="/photos/meta/buddhism.jpg" alt="Buddhism" >}}

@@ -1,28 +1,48 @@
-+++
-title= "Money"
-date= 2022-03-27
-image= "/covers/sismondi.jpg"
-description= "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
-linkb= "/research/sismondi/economy/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/sismondi/economy/chapter-2"
-linkftext= "Chapter 2"
-+++
+---
+title: "Money"
+date: 2022-03-27
+image: "/covers/sismondi.jpg"
+description: "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
+linkb: "/research/sismondi/economy/chapter-1"
+linkbtext: "Chapter 1"
+linkf: "/research/sismondi/economy/chapter-2"
+linkftext: "Chapter 2"
+---
 
 
 Wealth incessantly circulates from producers to consumers through money. 
 
-All kinds of exchange are accomplished under this form, whether the means of producing wealth are transmitted from one proprietor to another, or when land or movable capital changes its owner, or when labour is sold, or when the object destined to be consumed reaches the hands that are to use it. 
+All kinds of exchange are done through money. <!-- accomplished under this form, whether the means of producing wealth are transmitted from one proprietor to another, or when land or movable capital changes its owner, or when labour is sold, or when the object destined to be consumed reaches the hands that are to use it.  -->
 
-Money facilitates all these exchanges. It occurs among the different contractors as a thing which all desire, and by means of which every one may find what he immediately requires; as a thing, moreover, submitted to invariable calculation, and by means of which all other values may be appreciated, this alone being their scale.
+<!-- Money facilitates all these exchanges.  -->
 
-Money performs several functions at once. It is the sign of all other values; it is their pledge and also their measure. 
+Money is a thing which all contractors desire. It lets them find what they immediately require. 
 
-As a sign, money represents every other kind of wealth; by transmitting it from hand to hand we transmit a right to all other values. It is not money itself which the day-labourer requires; but food, clothing, lodging, of which it is the sign. It is not for money that the manufacturer wishes to exchange his produce, but for raw materials, that he may again begin to work; and for objects of consumption, that he may begin to enjoy. It is not money which the capitalist lends the merchant to profit by; it is all that the merchant will purchase with this money immediately afterwards; for so long as the merchant keeps it in the original shape, he can draw no advantage from it, and his capital will not begin its course of production till the money is out of his hands. 
+<!-- ; as a thing, moreover, submitted to invariable calculation, and by means of which all other values may be appreciated, this alone being their scale. -->
 
-By an abuse of language, which has caused much error and confusion, the words money and capital have become almost synonymous= money indeed represents all other capital, but it is itself the capital of no man; it is always barren by nature, and wealth does not begin to increase, till after money has left the hands of its possessor.
+Money performs several functions at once. It is the sign of all other values. It is their pledge and also their measure. 
 
-Money is not only the sign of wealth, it is also the pledge of it. It not only represents wealth, it contains the worth of it. Like wealth, it has been produced by a labour which it wholly compensates. In work and advances of all sorts employed in extracting it from the mine, it has cost a value equal to what it passes for in the world. It furnishes to trade a commodity which is expensive; because purchased like every other, it is the sole kind of wealth which is not increased by circulation, or dissipated by enjoyment. It issues, still without alteration from the hands of him who employs it usefully, and of him who squanders it upon his pleasures. But the high price at which society acquires money, though at first view it appears an inconvenience, is precisely what gives it the merit of being an imperishable pledge for its possessors. As its value was not given by arbitrary convention, arbitrary convention cannot take its value away. It may be more or less sought after according as it occurs more or less abundantly in the market; but its price can never deviate very far from what would be required to extract an equal quantity from the mine.
+Money as a sign represents every other kind of wealth. 
+
+by transmitting it from hand to hand we transmit a right to all other values. It is not money itself which the day-labourer requires; 
+
+but food, clothing, lodging, of which it is the sign. 
+
+It is not for money that the manufacturer wishes to exchange his produce, but for raw materials, that he may again begin to work; and for objects of consumption, that he may begin to enjoy.
+
+It is not money which the capitalist lends the merchant to profit by; it is all that the merchant will purchase with this money immediately afterwards; for so long as the merchant keeps it in the original shape, he can draw no advantage from it, and his capital will not begin its course of production till the money is out of his hands. 
+
+By an abuse of language, the words 'money' and 'capital' have become almost synonymous. 
+- This has caused much error and confusion
+- Money represents all other capital. 
+  - But it is itself the capital of no man
+  - It is always barren by nature
+
+Wealth only increases after money has left the hands of its possessor.
+
+Money is also the pledge of wealth, as its worth. 
+
+Like wealth, it has been produced by a labour which it wholly compensates. In work and advances of all sorts employed in extracting it from the mine, it has cost a value equal to what it passes for in the world. It furnishes to trade a commodity which is expensive; because purchased like every other, it is the sole kind of wealth which is not increased by circulation, or dissipated by enjoyment. It issues, still without alteration from the hands of him who employs it usefully, and of him who squanders it upon his pleasures. But the high price at which society acquires money, though at first view it appears an inconvenience, is precisely what gives it the merit of being an imperishable pledge for its possessors. As its value was not given by arbitrary convention, arbitrary convention cannot take its value away. It may be more or less sought after according as it occurs more or less abundantly in the market; but its price can never deviate very far from what would be required to extract an equal quantity from the mine.
 
 Money, in the last place, is a common measure of values. 
 
@@ -50,9 +70,15 @@ Since no labour can be accomplished without a capital to set it in motion; since
 
 Hence, whenever an odious sense has been attached to the word usury, meaning by it any kind of interest paid for the use of a sum of money, under pretext that as money produced no fruit, there could be no lawful share of profit where there was no profit; in this case, an absurd distinction has been formed. There was just as much reason to prohibit the renting of land, or the wages of labour, because without a capital to put land and labour in exercise, both would remain unfruitful.
 
-Theologians, however, were right in saying that gold and silver were barren by nature= they are barren so long as kept in their own shape; they cease to be barren, the instant they become the sign of another kind of wealth, which is emphatically productive. Theologians, if they determined to abide by the single principle on which their prohibition was founded, should have been contented with declaring usury criminal, every time the lender obliged the borrower to keep the deposit in its primary form, locked up in a strong box, from the moment of borrowing to that of payment. For it is quite certain that money, whilst locked up, produces no fruit; and neither borrower, nor lender can get good of it except by parting with it.
+Theologians were right to say that gold and silver are barren by nature. 
 
-But, if money is of itself barren; it produces no fruit but in so far as it is the sign of other values, then it is evident that no good can be done by multiplying the sign and not the thing. It is true, if you multiply the sign in a single country, you give this country the means of commanding the thing, provided that thing be found in any, country. but when you multiply the sign in all countries at once, you do nothing for any. At present, there exists such a proportion between the sign and the thing, that a pound sterling is worth a bag of corn; but if, by the stroke of a magic rod, you should instantly double all the money in the world, since every thing to be obtained in exchange would continue the same, two pounds in place of one would be required to represent a bag of corn. The quantity of corn consumed by a workman, in food, would not be altered, consequently his wage must be doubled. With twice as many guineas, exactly the same work would be done, and nothing would be changed but names and numbers.
+They are barren so long as kept in their own shape; they cease to be barren, the instant they become the sign of another kind of wealth, which is emphatically productive. 
+
+Theologians, if they determined to abide by the single principle on which their prohibition was founded, should have been contented with declaring usury criminal, every time the lender obliged the borrower to keep the deposit in its primary form, locked up in a strong box, from the moment of borrowing to that of payment. For it is quite certain that money, whilst locked up, produces no fruit; and neither borrower, nor lender can get good of it except by parting with it.
+
+But, if money is of itself barren; it produces no fruit but in so far as it is the sign of other values, then it is evident that no good can be done by multiplying the sign and not the thing. It is true, if you multiply the sign in a single country, you give this country the means of commanding the thing, provided that thing be found in any, country. but when you multiply the sign in all countries at once, you do nothing for any. At present, there exists such a proportion between the sign and the thing, that a pound sterling is worth a bag of corn; 
+
+but if, by the stroke of a magic rod, you should instantly double all the money in the world, since every thing to be obtained in exchange would continue the same, two pounds in place of one would be required to represent a bag of corn. The quantity of corn consumed by a workman, in food, would not be altered, consequently his wage must be doubled. With twice as many guineas, exactly the same work would be done, and nothing would be changed but names and numbers.
 
 Capitalists require their capital to be employed, that it may gain a revenue; and hence they offer it for a certain price, to such as wish to cause labour; workmen, on the other hand, and those who employ workmen, have need of capital for their labour; and, after reckoning up the profit expected from it, they offer a certain share of their advantage to capitalists. The necessities of money-lenders and of money-borrowers, come thus to a state of equilibrium in all markets; those classes of men agree upon a medium rate. 
 
@@ -62,11 +88,17 @@ Nearly all the circulating capital of each manufacturer and trader is successive
 
 In this way, he has money when he pleases, without being richer; the money, far from adding to his capital, is purchased with it. If such operations are performed at one time by several merchants in the same town, that town purchases money from its neighbours; if by a great number of French, English, or German merchants, we say that France, England, or Germany purchases money. There will, in reality, be found much more in the markets to make payments with; guineas will be much more abundant; but there will be neither more nor fewer deposits offered to lend, and the rate of interest will not be any way affected by the change. Such as are acquainted with the movements of trading places, know well that guineas may abound in them while capitals are scarce, or guineas be scarce while capitals abound.
 
-It is a gross error, then, to believe, that, in all cases, a considerable importation of the circulating medium will make the rate of interest fall, or an exportation make it rise. Money is a kind of wealth; and like any other kind of wealth, it forms part of the circulating capital. If the money imported is a gift, or a tribute; if it costs nothing to the nation, it will certainly augment its circulating capital, and must certainly contribute to lower the rate of interest on the spot; but the same sums paid to the nation in goods would equally contribute to that end. If, on the other hand, this money has been purchased with any other portion of the capital, in that case the sum total of the latter will remain the same, and the rate of interest will not be affected.
+It is a gross error, then, to believe, that, in all cases, a considerable importation of the circulating medium will make the rate of interest fall, or an exportation make it rise. Money is a kind of wealth; and like any other kind of wealth, it forms part of the circulating capital.
 
-Upon these principles, it is easy to see how mines of silver and gold do not enrich a nation more than any other kind of industry. The precious metals drawn from the mine are goods purchased, like all other goods, at the price of labour and capital. The opening of the mine, the construction of its galleries, the establishment of refining furnaces, require large advances, independently of the labour by which the ore is drawn from the bowels of the earth. This labour, and its fruits, may be exactly paid by the metal produced, and the state will gain by the operation, as by any other manufacture. But, in general, the profits of mines are irregular. As the head prize in a lottery seduces gamesters, an unlooked for advantage encourages miners to continue their exertions, although the usual returns be inferior to those obtained by any other kind of industry; and nearly all of them are ruined, just like gamesters, because they were at first successful.
+If the money imported is a gift, or a tribute; if it costs nothing to the nation, it will certainly augment its circulating capital, and must certainly contribute to lower the rate of interest on the spot; but the same sums paid to the nation in goods would equally contribute to that end. If, on the other hand, this money has been purchased with any other portion of the capital, in that case the sum total of the latter will remain the same, and the rate of interest will not be affected.
 
-From these principles, we may also conclude, that the blame so frequently imputed to Frederic II and the Canton of Berne for having hoarded up and withdrawn from the country a large portion of the natural circulating medium, is without foundation. By saving a part of their expenses, they, of course, in some degree, diminished consumption and re-production; by preserving some millions in their coffers, they in some degree diminished the circulating capital= but the money locked up by them was soon replaced by other moneys which the country purchased; and, besides, the whole circulating medium of a nation is so small, compared with its whole circulating capital, that such a void can never be considered as a national misfortune, or counterbalance the immense advantage of possessing a fund ready, without new sacrifices, at the moment of want.
+Upon these principles, it is easy to see how mines of silver and gold do not enrich a nation more than any other kind of industry. 
+
+The precious metals drawn from the mine are goods purchased, like all other goods, at the price of labour and capital. The opening of the mine, the construction of its galleries, the establishment of refining furnaces, require large advances, independently of the labour by which the ore is drawn from the bowels of the earth. This labour, and its fruits, may be exactly paid by the metal produced, and the state will gain by the operation, as by any other manufacture. But, in general, the profits of mines are irregular. As the head prize in a lottery seduces gamesters, an unlooked for advantage encourages miners to continue their exertions, although the usual returns be inferior to those obtained by any other kind of industry; and nearly all of them are ruined, just like gamesters, because they were at first successful.
+
+From these principles, we may also conclude, that the blame so frequently imputed to Frederic II and the Canton of Berne for having hoarded up and withdrawn from the country a large portion of the natural circulating medium, is without foundation.
+
+By saving a part of their expenses, they, of course, in some degree, diminished consumption and re-production; by preserving some millions in their coffers, they in some degree diminished the circulating capital= but the money locked up by them was soon replaced by other moneys which the country purchased; and, besides, the whole circulating medium of a nation is so small, compared with its whole circulating capital, that such a void can never be considered as a national misfortune, or counterbalance the immense advantage of possessing a fund ready, without new sacrifices, at the moment of want.
 
 From confounding money with capital, has arisen the general mistake of attempting to increase the national capital by a fictitious capital, which, not having been created by an expensive labour, is not, like gold or silver, a pledge of the values it represents; and which, after having delighted nations with the illusions of wealth, has so frequently left them in ruin.
 
@@ -76,7 +108,11 @@ Each, at the same period, had much to receive and much to pay. But, on the days 
 
 But all mutual debts are not equal, and bankruptcies occasion difficulties, and sometimes errors in the assignments. The invention of banks has supplied this deficiency. The Bank of Amsterdam is a kind of open bar, where assignments may constantly be made. Every trader pays or receives, by a line which is written down in the bank's books, on the debtor or creditor side of his account, without any money being disbursed. Among merchants, who have all an open credit with the bank, the operation of the book-keeper supplies with the utmost ease that of cashier; and no difference of amount, or day of payment, prevents sums from being reciprocally balanced.
 
-A bank like that of Amsterdam, however, is of use only to such as have a current account in it. Many traders may have no account; and few or none who are not traders ever have any, though called, as well as others, to pay and to receive. To extend the advantage of assignments also to the business of such persons, those note-banks were invented which have since become so common in all parts of Europe. Their notes are assignments on the bank, payable to the bearer on demand. Each, by combining several notes, may make his odd payments himself; and hence it is generally most convenient for him to transmit them to others, as he received them, without having drawn any money; and even though each may require payment at his pleasure, no one thinks of it, just because each feeling that he may do it any time, feels always that it will be soon enough afterwards.
+A bank like that of Amsterdam, however, is of use only to such as have a current account in it. 
+
+Many traders may have no account. A few or none who are not traders ever have any, though called, as well as others, to pay and to receive. 
+
+To extend the advantage of assignments also to the business of such persons, those note-banks were invented which have since become so common in all parts of Europe. Their notes are assignments on the bank, payable to the bearer on demand. Each, by combining several notes, may make his odd payments himself; and hence it is generally most convenient for him to transmit them to others, as he received them, without having drawn any money; and even though each may require payment at his pleasure, no one thinks of it, just because each feeling that he may do it any time, feels always that it will be soon enough afterwards.
 
 Up to that period, banks had done nothing but simplify payments, and save the employment of money, and render circulation easy with a smaller sum than would otherwise have been required. But some one must profit by this saving. In arranging the assignments at Lyons, each profited according to his share in trade; each needed to have money in his coffers only four times yearly, for three days. He, of course, gained interest for the remaining 353 days; and as those assignments simplified all his operations, a smaller sum performed for him the office of a greater. When banks were established, it was they that profited by this saving of money. They received interest, not for the money really given by them, but for the money, which every bearer of notes had it in his power to demand from them, at a moment's notice. This interest of notes, reckoned equal to gold, was a pure advantage for bankers; since the money promised, far from being drawn, had not even remained at the bank, where it would have been barren. Bankers, reckoning on the confidence of the public, had caused it to labour, and recalled it for their payments only as they needed it.
 

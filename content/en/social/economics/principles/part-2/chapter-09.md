@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 9 "
-title: "The Urban Economy"
+title: "Urban Planning"
 date: 2022-03-27
 image: /covers/econsp.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
@@ -11,3 +11,12 @@ linkftext: "Part 2"
 author: Dalisay
 ---
 
+
+## Environment and Public Spaces
+
+
+
+## Waste Management
+
+
+## Public Transportation 

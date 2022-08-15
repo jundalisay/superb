@@ -50,9 +50,13 @@ Let:
 
 For every N, the expected proceeds are greater than the aggregate supply price, i.e. if `D` is greater than `Z`, there will be an incentive to entrepreneurs to increase employment beyond N and, if necessary, to raise costs by competing with one another for the factors of production, up to the value of N for which Z has become equal to D. 
 
-Thus the volume of employment is given by the point of intersection between the aggregate demand function and the aggregate supply function; for it is at this point that the entrepreneurs’ expectation of profits will be maximised. The value of D at the point of the aggregate demand function, where it is intersected by the aggregate supply function, will be called the effective demand.
+Thus, the volume of employment is where the aggregate demand function intersects with the aggregate supply function. At this point, the entrepreneurs’ expectation of profits will be maximised. 
 
-This is the substance of the General Theory of Employment. The succeeding chapters will examine the various factors on which these two functions depend. 
+The effective demand is the value of `D` at this point. 
+
+This is the substance of the General Theory of Employment. 
+
+The succeeding chapters will examine the various factors on which these two functions depend. 
 
 
 ## The Classical Doctrine 

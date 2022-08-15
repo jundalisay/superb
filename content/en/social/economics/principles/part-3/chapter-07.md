@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 6"
+heading: "Chapter 7"
 title: "The Four Revenues: Rent, Wages, Profits, Donations"
 # date: 2016-01-01
 date: 2021-12-23

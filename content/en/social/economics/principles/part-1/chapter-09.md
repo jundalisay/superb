@@ -10,3 +10,5 @@ linkf: /social/economics/principles
 linkftext: "Index"
 author: Dalisay
 ---
+
+

@@ -12,11 +12,28 @@ author: Dalisay
 ---
 
 
-## Healthcare
+## Military
+
+
+## Law Enforcement
+
+
+## Public Utilities
+
+
+## Justice System
+
+## Agriculture Policy 
+
+
+## Healthcare 
+
+
 
 ## Housing
 
-## Food Security 
+
 
 ## Education 
+
 

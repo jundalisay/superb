@@ -9,6 +9,7 @@ linkbtext: "Part 1"
 linkf: /social/economics/principles/part-1
 linkftext: "Part 1"
 author: Dalisay
+draft: true
 ---
 
 
@@ -16,3 +17,6 @@ author: Dalisay
 
 Total demand of goods in a society
 
+
+
+Effective Demand is based on population size

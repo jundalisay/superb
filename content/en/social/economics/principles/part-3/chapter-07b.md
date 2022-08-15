@@ -15,6 +15,7 @@ aliases:
   /social/economics/principles/five-factors  
 ---
 
+
 <!-- Are you looking for a career that gives a high salary or deciding what kind of business to establish?  -->
 
 There are <!-- Adam Smith enumerated five --> 5 factors that affect wages and profits:

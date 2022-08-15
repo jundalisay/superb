@@ -10,3 +10,6 @@ linkf: /social/economics/principles/part-1
 linkftext: "Part 1"
 author: Dalisay
 ---
+
+
+Demand is based on Population size 

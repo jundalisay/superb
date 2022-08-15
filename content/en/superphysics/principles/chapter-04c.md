@@ -3,14 +3,17 @@ title: "The Eagle: Our Equation for Everything"
 date: 2021-06-23
 image: "/graphics/econ/eagle.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
-linkb: /material/fallacies/general-relativity
-linkbtext: "Fixing Relativity"
-linkf: /social/economics/solutions/modern-economic-table
-linkftext: "The Modern Economic Table"
+linkb: /superphysics/principles/chapter-04b
+linkbtext: "Qualimath"
+linkf: /superphysics/principles/chapter-05
+linkftext: "Desire"
 btext: "The universal equation"
 author: Juan
 icon: /icons/pantry.png
+aliases:
+  /social/economics/principles/eagle
 ---
+
 
 A [previous post](/material/fallacies/general-relativity) explained how the error in Einstien's E = mc^2 led to the universal equation of Superphysics. 
 

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 5"
-title: "Core Competency"
+title: "Business and Industry"
 date: 2022-03-27
 image: /covers/econsp.jpg
 description: ""
@@ -10,4 +10,22 @@ linkf: /social/economics/principles/part-2
 linkftext: "Part 2"
 author: Dalisay
 ---
+
+## Common Business Processes
+
+Enterprise Resource Planning
+
+
+
+### Human Resources
+
+### Sales and CRM
+
+### Inventory
+
+### Logistics
+
+## Business Cycles
+
+
 

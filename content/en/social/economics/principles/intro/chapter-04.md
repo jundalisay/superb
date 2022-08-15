@@ -7,8 +7,8 @@ description: "Political economy is an important division of the science of gover
 type: featured
 linkb: /social/economics/principles/intro/chapter-03
 linkbtext: "Chapter 3"
-linkf: /social/economics/principles/part-1
-linkftext: "Index"
+linkf: /social/economics/principles/part-1/chapter-01
+linkftext: "First Law"
 author: Dalisay
 ---
 
@@ -167,9 +167,9 @@ In a society, the following exchanges occur:
 **Exchangeable value** which has 4 types depending on perspective:
 
 Price | Perspective | Scope
---- | --- | --
-1. Nominal Price | Buyer | Personal
-2. Real Price | Seller | Personal
-3. Market Price | Seller | Social
-4. Natural Price | Seller | Social
+--- | --- | ---
+1 Nominal Price | Buyer | Personal
+2 Real Price | Seller | Personal
+3 Market Price | Seller | Social
+4 Natural Price | Seller | Social
 

@@ -17,6 +17,7 @@ aliases:
   /taonomics/invisible-hand-of-tao/  
   /articles/taonomics/the-invisible-hand-of-the-tao/
   /pantrynomics/invisible-hand-of-tao
+  /social/economics/principles/invisible-hand
 ---
 
 <!-- Economics is largely based on Physics as proven by the extensive use of Calculus and the removal of Moral Philosophy during the 19th century. Prior to that, Economics was called the Political Economy which was largely based on law, morals, and not math which can be dismal. Taonomics uses the Effort Theory of Value instead of Marginal Pricing to give value to the Taonomy (an economy that is in the Tao).

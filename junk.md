@@ -7,6 +7,33 @@ We overhauled our site with a faster theme, organized under 3 headings:
 - Federalism (politics)
 
 
+
+1 energy law
+2 energy manifestation
+3 energy force motive? 
+4 energy revenue
+5 energy institution
+6 energy development?
+7 energy movements
+8 energy movements
+9 energy models
+10 energy class
+11 energy philo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 MEDICAL SUPERPHYSICS
 - varna dharma
 - aging

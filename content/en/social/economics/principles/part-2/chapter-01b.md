@@ -1,6 +1,7 @@
 ---
+heading: "Chapter 1b"
 title: "The Effort Theory of Value"
-heading: "The Alternative to Arbitrary Narginal Pricing"
+# heading: "The Alternative to Arbitrary Narginal Pricing"
 # date: 2020-04-18
 date: 2015-10-30
 image: "/graphics/jfk.jpg"
@@ -14,7 +15,8 @@ aliases:
   /articles/taonomics/the-effort-theory-of-value/
   /articles/pantrynomics/the-effort-theory-of-value/
   /social/economics/principles/the-effort-theory-of-value/
-  /social/economics/the-effort-theory-of-value/  
+  /social/economics/principles/effort-theory-of-value/  
+  /social/economics/the-effort-theory-of-value/
 ---
 
 
@@ -35,7 +37,6 @@ You can exactly ration gasoline and electricity to your cars and iPhones, but it
 
 People confuse Smith's labour theory with that of Marx simply because both use the word 'labour'. To separate those two ideas, we have to look into how differently Smith sees human labour.
 
-<br>
 
 ## A Deeper Look Into Smith's Theory
 

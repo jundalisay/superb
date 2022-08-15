@@ -12,7 +12,6 @@ author: Sismondi
 ---
 
 
-
 Colbert came later than Sully. 
 - He was the first to treat political economy as a science
 - He reduced it to a body of doctrines as a uniform system of national wealth, probably suggested by merchants
@@ -63,32 +62,34 @@ The following rapacious inventors of so many monopolies had no other notion of p
 - Fernando de Gonnzago
 - the Duke of Alva, viceroys of Charles V and his descendants
 
-But when it was attempted to reduce this methodical robbery of consumers into a system; when deliberative assemblies were occupied with it; 
 
-when Colbert consulted corporations; when the people at last began to perceive the true state of the case, it became necessary to find out a more honourable basis for such transactions; 
+A more honourable basis for such transactions were called for when:
+- this methodical robbery of consumers was needed to be systematized
+- Colbert consulted corporations
+- the people finally perceived what was happening
 
-it became necessary not only to study the advantage of financiers and merchants, but also that of the nation= for the calculations of self-interest cannot show themselves in open day, and the first benefit of publicity is to impose silence on base sentiments.
+It became necessary to study the advantage of financiers and merchants and the nation. 
 
-Under these circumstances the mercantile system was moulded into a plausible form; 
+The calculations of self-interest cannot show themselves in open day. The first benefit of publicity is to impose silence on base sentiments.
 
-doubtless it must have been plausible, since, even till our own times, it continued to seduce the greater part of practical men employed in trade and finance. 
+Under these circumstances, the mercantile system was moulded into a plausible form.
 
+<!-- doubtless it must have been plausible, since, even till our own times, it continued to seduce the greater part of practical men employed in trade and finance.  -->
 
 Those earliest economists said that wealth is money. 
+- 'Wealth' and 'money' were used so universally as to be almost entirely synonymous. 
 
-'Wealth' and 'money' were used so universally as to be almost entirely synonymous. 
+<!-- No one dreamed of questioning the identity of money and wealth.  -->
 
-No one dreamed of questioning the identity of money and wealth. 
+<!-- Money, they said, disposes of men's labour and of all its fruits. It is money which produces those fruits; it is by means of money that industry continues in a nation; to its influence each individual owes his subsistence and the continuation of his life.  -->
 
-Money, they said, disposes of men's labour and of all its fruits. It is money which produces those fruits; it is by means of money that industry continues in a nation; to its influence each individual owes his subsistence and the continuation of his life. 
+<!-- Money is especially necessary in the relation of one state to another.  -->
 
-Money is especially necessary in the relation of one state to another. 
+<!-- It supports war and forms the strength of armies. The state which has it, rules over that which has it not. The whole science of political economy ought, therefore, to have for its object the increase of money in a nation. But the money possessed by a nation cannot be augmented in quantity, except by the working of mines, if the nation has any; or by foreign trade, if it has none. All the exchanges carried on within a country, all the purchases and sales which take place among Englishmen, for instance, do not increase the specie contained within the shores of England by a single penny. 
 
-It supports war and forms the strength of armies. The state which has it, rules over that which has it not. The whole science of political economy ought, therefore, to have for its object the increase of money in a nation. But the money possessed by a nation cannot be augmented in quantity, except by the working of mines, if the nation has any; or by foreign trade, if it has none. All the exchanges carried on within a country, all the purchases and sales which take place among Englishmen, for instance, do not increase the specie contained within the shores of England by a single penny. 
+Hence it is necessary to And means of importing money from other countries; and trade alone can do this by selling much to foreigners and buying little from them.  -->
 
-Hence it is necessary to And means of importing money from other countries; and trade alone can do this by selling much to foreigners and buying little from them. 
-
-For in the same way as each merchant in settling with his correspondent, sees at the year's end whether he has sold more than he has bought, and Ands himself accordingly creditor or debtor by a balance account which must be paid in money; so likewise a nation, by summing up all its purchases and all its sales with each nation, or with all together, would find itself every year creditor or debtor by a commercial balance which must be paid in money. If the country pay this balance, it will constantly grow poorer; if it receive the balance, it will constantly grow richer.
+<!-- For in the same way as each merchant in settling with his correspondent, sees at the year's end whether he has sold more than he has bought, and Ands himself accordingly creditor or debtor by a balance account which must be paid in money; so likewise a nation, by summing up all its purchases and all its sales with each nation, or with all together, would find itself every year creditor or debtor by a commercial balance which must be paid in money. If the country pay this balance, it will constantly grow poorer; if it receive the balance, it will constantly grow richer. -->
 
 For a century, the mercantile system was universally:
 - adopted by cabinets

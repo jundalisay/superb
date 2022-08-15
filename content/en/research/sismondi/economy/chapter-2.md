@@ -46,7 +46,7 @@ The measure of his wealth is not be the price for exchanging them.
 
 His island is destitute of value so long as no labour has been bestowed on it. 
 
-But if, instead of consuming its fruits the moment they come to his hand, he reserves them for future want; if he commits them again to the earth, again to be multiplied; if he tills his fields to augment their productive power, or defends them by inclosures from wild beasts; if he plants them with trees, the fruit of which he does not look for till many years have elapsed; he is then creating the value, not only of annual produce raised by his labour from the ground, but also of the ground itself, which he had tamed, as he tamed the wild beasts, and rendered fit to second his exertions. In that case he is rich, and the more so the longer he can suspend his labours without suffering new wants.
+<!-- But if, instead of consuming its fruits the moment they come to his hand, he reserves them for future want; if he commits them again to the earth, again to be multiplied; if he tills his fields to augment their productive power, or defends them by inclosures from wild beasts; if he plants them with trees, the fruit of which he does not look for till many years have elapsed; he is then creating the value, not only of annual produce raised by his labour from the ground, but also of the ground itself, which he had tamed, as he tamed the wild beasts, and rendered fit to second his exertions. In that case he is rich, and the more so the longer he can suspend his labours without suffering new wants.
 
 The man is now free from hunger. He may now work to provide lodging and clothes, or to improve those already provided. 
 
@@ -54,7 +54,7 @@ He will build himself a hut, and fit it out with such furniture as his unaided l
 
 he will change the skin and fleeces of his sheep into shoes or coats; and the more convenient his dwelling shall be rendered, the better his storehouse shall be filled with provision for his future food and clothing, the more rich may he call himself.
 
-The history of this man is the history of the human race. 
+The history of this man is the history of the human race.  -->
 
 Labour alone has created all kinds of wealth. 
 
@@ -89,17 +89,27 @@ The wage paid to the workmen in either case must not mislead us; it puts the pay
 
 The man who defends his master or society against bears or hostile enterprises; who takes charge of the health or the persons of others; who provides the enjoyment of music, or dramatic exhibition, or dancing, performs, just like the Solitary, a work which is useful because it is agreeable, which is lucrative to him because he receives a hire for his labour, whilst he abandons the enjoyment of it to his employers; but which is unproductive notwithstanding, because it cannot be the object of saving and accumulation. He who paid the wage, no longer has either the wage itself in his possession, or the thing for which he gave it.
 
-Thus labour and economy - the true sources of wealth - exist for the Solitary as well as for the social man, and produce the same kind of advantage to both. The formation of society, however, and with it the introduction of commerce and exchange, were necessary both to augment the productive power of labour, by dividing it, and to afford a more precise aim to economy, by multiplying the enjoyments which wealth procures. Thus men, combined in society, produced more than if each had laboured separately; and they preserve better what they have produced, because they feel the value of it better.
+Thus, labour and economy are the true sources of wealth. These exist for the Solitary as well as for the social man, and produce the same kind of advantage to both.
 
-Exchange first arose from superabundance= "Give me that article, which is of no service to you, and would be useful to me,,, said one of the contacting parties, "and I will give you this in return, which is of no service to me, and would be useful to you." 
+The formation of society, however, and with it the introduction of commerce and exchange, were necessary both to augment the productive power of labour, by dividing it, and to afford a more precise aim to economy, by multiplying the enjoyments which wealth procures. 
 
-Present utility was not, however, the sole measure of things exchanged. Each estimated for himself the selling price, or the trouble and time bestowed in the production of his own commodity, and compared it with the buying price, or the trouble and time necessary for procuring the required commodity by his own efforts; and no exchange could take place till the two contacting parties, on calculating the matter, had each discovered that it was better thus to procure the commodity wanted than to make it for himself. 
+Thus men, combined in society, produced more than if each had laboured separately; and they preserve better what they have produced, because they feel the value of it better.
+
+Exchange first arose from superabundance: "Give me that item which is useless to you but useful to me. I will give you this in return, which is useless to me, but useful to you." 
+
+Present utility was not, however, the sole measure of things exchanged. 
+
+Each estimated for himself the selling price, or the trouble and time bestowed in the production of his own commodity, and compared it with the buying price, or the trouble and time necessary for procuring the required commodity by his own efforts; and no exchange could take place till the two contacting parties, on calculating the matter, had each discovered that it was better thus to procure the commodity wanted than to make it for himself. 
 
 This accidental advantage soon pointed out to both a constant source of advantage in trading, whenever the one offered an article which he excelled in making, for an article which the other excelled in making; for each excelled in what he made often, each was unskillful and slow at what he made but seldom. Now, the more exclusively they devoted themselves to one kind of work, the more dexterity did they acquire in it, the more effectually did they succeed in rendering it easy and expeditious. 
 
-This observation produced the division of trades; the husbandman quickly perceived, that he could not make as many agricultural tools by himself, in a month, as the blacksmith would make for him in a day.
+This produced the division of trades. The husbandman quickly perceived, that he could not make as many agricultural tools by himself, in a month, as the blacksmith would make for him in a day.
 
-The same principle which at first separated the trades of the husbandman, shepherd, smith, and weaver, continued to separate those trades into an indefinite number of departments. Each felt that, by simplifying the operation committed to him, he would perform it in a manner still more speedy and perfect. The weaver renounced the business of spinning and dyeing; the spinning of hemp, cotton, wool, and silk, became each separate employment; weavers were still farther subdivided, according to the fabric and the destination of their stuffs; and at every subdivision, each workman, directing his attention to a single object, experienced an increase in his productive powers. In the interior of each manufactory, this division was again repeated, and still with the same success. Twenty workmen all laboured at the same thing, but each made it undergo a different operation= and the twenty workmen found that they had accomplished twenty times as much work as when each had laboured separately.
+The same principle which at first separated the trades of the husbandman, shepherd, smith, and weaver, continued to separate those trades into an indefinite number of departments.
+
+Each felt that, by simplifying the operation committed to him, he would perform it in a manner still more speedy and perfect. The weaver renounced the business of spinning and dyeing; the spinning of hemp, cotton, wool, and silk, became each separate employment; weavers were still farther subdivided, according to the fabric and the destination of their stuffs; and at every subdivision, each workman, directing his attention to a single object, experienced an increase in his productive powers. 
+
+In the interior of each manufactory, this division was again repeated, and still with the same success. Twenty workmen all laboured at the same thing, but each made it undergo a different operation= and the twenty workmen found that they had accomplished twenty times as much work as when each had laboured separately.
 
 Much more work was executed in the world by the division of labour; but, at the same time, much more was required to supply the consumption. The wants and the enjoyments of the Solitary, who laboured for himself, were both very limited. Food, clothing, and lodging, he indeed required; but he did not so much as think of the delicacies, by which the satisfaction of those wants might be converted into pleasure; and still less of the artificial desires, induced by society, which in their gratification become new sources of enjoyment. 
 
@@ -145,7 +155,9 @@ We have designedly carried on our history of the formation and progress of wealt
 
 The precious metals are one of the numerous values produced by the labour of man, and applicable to his use. It was soon discovered that they, more than any other species of riches, possessed the property of being preserved without alteration for any length of time, and the no less valuable one of uniting easily into a single whole, after being divided almost infinitely. The two halves of a piece of cloth, of a fleece, and still less of an ox, - though these are supposed to have once been employed as money, - were not worth the whole; but the two halves, the four quarters of a pound of gold are always, and will be, a pound of gold, however long they may be kept. As the first exchange of which men feel the need, is that which enables them to preserve the fruit of their labour for a future season, every one became eager to get precious metals in exchange for his commodity, whatever it might be; not because he at all intended to use those metals himself; but because he was sure of being able to exchange them at any time afterwards, in the same manner, and for the same reason, against whatever article he might then need. From that time the precious metals began to he sought after, not that they might be employed in the use of man, as ornaments or utensils, but that they might be accumulated, at first, as representing every species of wealth, and then that they might be used in commerce, as the means of facilitating all kinds of exchange.
 
-Gold dust, in its primitive state, continues, even now, to be the medium of exchange among the African nations. But when once the value of gold comes to be universally admitted, there remains but a single step, much easier and far less important, till it be converted into coin, which warrants, by a legal stamp, the weight and the fineness of every particle of the precious metals employed in circulation.
+Gold dust, in its primitive state, continues, even now, to be the medium of exchange among the African nations. 
+
+But when once the value of gold comes to be universally admitted, there remains but a single step, much easier and far less important, till it be converted into coin, which warrants, by a legal stamp, the weight and the fineness of every particle of the precious metals employed in circulation.
 
 The invention of money gave quite a new activity to exchange. Whoever happened to possess any superfluity had no longer occasion to seek the article likely to be needed in time to come. He no longer delayed selling his corn till he should meet the oil-merchant or the wool-dealer to offer them the thing they wanted; he reckoned it enough to find money, being certain that for this he could always obtain any required commodity. The buyer, too, on his side, needed not to study what would suit the seller= money was always sure to satisfy all his demands. Before the invention of a circulating medium, a fortunate concurrence of conveniences was requisite for an exchange= whereas after this invention, there could scarcely be a buyer that did not find a seller, or a seller who did not find a buyer.
 

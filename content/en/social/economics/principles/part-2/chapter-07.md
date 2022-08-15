@@ -1,6 +1,6 @@
 ---
-heading: "Chapter 6"
-title: "Minimum Requirements"
+heading: "Chapter 7"
+title: ""
 date: 2022-03-27
 image: /covers/econsp.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"

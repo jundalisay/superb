@@ -10,6 +10,8 @@ linkf: /social/economics/principles/6-efforts
 linkftext: 6 types of effort
 author: Juan
 icon: /icons/pantry.png
+aliases:
+  /social/economics/principles/tao-life-purpose
 ---
 
 

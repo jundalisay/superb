@@ -5,12 +5,14 @@ heading: "The Invisible Hand of Dharma"
 date: 2021-09-09
 image: /photos/objects/hand.jpg
 description: A crisis-proof economic system isn't based on static equilibrium or marginal pricing. Instead, it's based on the true nature of reality, which Socrates calls true nature, the Chinese call the Tao, and the Hindus call dharma."
-linkbtext: /social/economics/principles/invisibl-hand
-linkbtext: "Invisible Hand"
-linkf: /social/economics/principles/economic-karma
-linkftext: "economic-karma"
+linkb: /social/economics/principles/part-3/chapter-01
+linkbtext: "Third Law"
+linkf: /social/economics/principles/part-3/chapter-02
+linkftext: "Circulating Capital"
 author: Juan
 icon: /icons/pantry.png
+aliases:
+  /social/economics/principles/dharma
 ---
 
 

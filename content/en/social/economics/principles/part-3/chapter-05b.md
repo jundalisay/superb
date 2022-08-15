@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 5b"
-title: "Government Bonds"
+title: "Government Bonds and Bond yields"
 date: 2021-12-25
 # date: 2019-04-17
 image: /graphics/econ/yield.jpg
@@ -12,6 +12,8 @@ linkftext: "Barter disadvantages addressed"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
+aliases:
+  /social/economics/inverted-yield-curve
 ---
 
 
@@ -71,3 +73,4 @@ People can have money to pay in cash because their local purchases can be transa
 
 <!-- replaces bonds with  My research is into what is the basket of key indicators that can best predict such crises, building on the data that Adam Smith established (his data set starts in the 13th century, which I continued). It has predicted a future crisis year since all these indicators come from factors or causes that are cyclical in nature. The economic crisis periods in human history are when all these cycles coincide to create a perfect storm.
  -->
+ 

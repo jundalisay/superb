@@ -1,14 +1,15 @@
-+++
-title= "Territorial Wealth"
-date= 2022-03-27
-# heading= Chapter 3
-image= "/covers/sismondi.jpg"
-description= "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
-linkb= "/research/sismondi/economy/chapter-2"
-linkbtext= "Chapter 2"
-linkf= "/research/sismondi/economy/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+heading: "Chapter 2 of New Principles of Political Economy by Sismondi Simplified"
+title: "Territorial Wealth"
+date: 2022-03-27
+image: /covers/sismondi.jpg
+description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
+linkb: /research/sismondi/economy/chapter-2
+linkbtext: "Chapter 2"
+linkf: /research/sismondi/economy/chapter-4
+linkftext: "Chapter 4"
+author: Sismondi
+---
 
 
 

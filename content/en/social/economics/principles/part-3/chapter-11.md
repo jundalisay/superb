@@ -16,7 +16,9 @@ draft: true
 
 ## Mercantilism 
 
+
 ## Capitalism
+
 
 ### Keynes' General Theory
 
