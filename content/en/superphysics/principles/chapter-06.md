@@ -35,11 +35,11 @@ We can say that feelings are primarily metaphysical. Thus:
 - the intellect is our built-in sensor for the physical domain 
 - the heart is our built-in sensor for the metaphysical domain
 
-The previous chapter explained that the metapyhsical domain is superior to the physical domain. 
-
-Therefore the heart is superior to the brain. 
+Chapter 2 explained that the metapyhsical domain is superior to the physical domain. Therefore the heart is superior to the brain. 
 - This is proven by successful people having more (metaphysical) grit than people who had high grades in school. 
 - World leaders, such as Donald Trump and Kim Jong Un, are known for grit but not for intellect. 
+
+The intellect is just the connection of ideas. But it is the feelings that powers the desire, not only to connect ideas, but to expand the scope fo the intellect.  
 
 
 
@@ -54,7 +54,7 @@ Our hearts leads us to errors because the Western educational system has focused
 
 <!-- The odd quirk in the human species is that our brain and heart are far apart. This creates a distance or lag that makes ideas  appear totally different from feelings. This then makes human action lack feelings for others, as seen in terrorism, nuclear weapons, deforestation, etc.  -->
 
-To push for heart development, and the increase in common-interest and fellow-feeling, Superphysics proposes to close the distance between the brain and the heart by visualizing* feelings through AI. 
+To push for heart development, and the increase in common-interest and fellow-feeling, Superphysics proposes to close the distance between the brain and the heart by visualizing* feelings. 
 
 > *Since sight is the main sensor of the brain.
 
@@ -63,8 +63,7 @@ To push for heart development, and the increase in common-interest and fellow-fe
 
 Humans already do this through TV, movies, powerpoint presentations, branding, packaging, advertising and other bright and shiny things that appeal to the senses located near the brain as the eyes, ears, nose, and tongue.   
 
-This visualization of ideas and feelings will then prove our proposed Law of Conservation of Idea which is the metaphysical foundation of the physical Law of Conservation of Matter and Energy. 
-
+This visualization of ideas and feelings will then prove our proposed Law of Conservation of Idea which is the metaphysical foundation of the concept of dharma. <!-- physical Law of Conservation of Matter and Energy.  -->
 
 
 ## Critical Thinking and Critical Feeling
@@ -73,23 +72,24 @@ In order to maximize our experience of existence, it would best to have both sen
 
 This active sensing is the foundation of critical thinking (as intellect), as well as [critical feeling](/superphysics/critical-feeling) (as kindness and fellow-feeling). 
 
-Currently, the educational system in most countries mostly focuses on intellect and is very deficient in fellow-feeling. This is proven by the prevalence of racism, terrorism, poverty & inequality, materialism, environmental destruction, etc. 
+Currently, the educational systems in most countries mostly focus on intellect and is very deficient in fellow-feeling. This is proven by the prevalence of racism, terrorism, poverty & inequality, materialism, environmental destruction, etc. 
 
 The glaring proof is the existence of mass shootings by young people in the West. It shows that their educational or cultural systems nurtured hate and division instead of fellow-feeling and unity. This problem does not exist so much in Asian* education or culture.   
 
 > *Instead of personal divisions, Asia has religious divisions that create religious conflict such as that between Hindus and Muslims in India, Buddhists and Muslims in Myanmar, and Falun Gong versus the Chinese Communist Party. In Africa, the divisions are even more basic as being based on tribal lines.  
 
 
-Globally, this lack of fellow-feeling hurts even the intellectual sciences. For example, scientists have long had the data to prove that global warming causes disasters. Yet the feelings of the human species are extremely disunited as to render them unable to actually implement them.
+Globally, this lack of fellow-feeling hurts even the intellectual sciences. For example, scientists have long had the data to prove that global warming causes disasters. Yet the feelings of the human species are extremely disunited, unable to drive collective action. 
 
 The mere visualization or even 'audification' of feelings will not be enough to increase fellow-feeling. To deal with such large-scale non-feeling, Superphysics proposes many new concepts such as:
 - quali-math
 - constitutional virtues
-- five layers of medicine
 - five relativities
+- five layers of medicine
 - four laws of value
 - four social cycles
-- etc.  
+- points-based economy
+- etc.
 
 
 These unify the feelings of each person so that each one will discover his role in the greater plan of the universe, and appreciate the hidden value in the existence of each. 
@@ -98,3 +98,7 @@ These unify the feelings of each person so that each one will discover his role 
 A skilled craftsman makes a perfect creation as a whole, even if its parts taken individually seem imperfect.
 <cite>Descartes, Meditations Simplified, Part 4</cite>
 {{< /q >}}
+
+Is the plan of the universe in line with what we feel? 
+
+The next chapter explain the 

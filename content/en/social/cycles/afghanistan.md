@@ -114,6 +114,11 @@ We then convert the phases to their root characteristics
 
 We then plotted [each phase of modern societies](/social/cycles/) to be under 20 years. Thus, we multiply 20 by four phases to come up with 80 years as a general rule. Europe and small countries seem to have 60 years. 
 
+Successful assimilation, such as what happened during the colonial period, took over 80 years. For example:
+- Cambodia was a French Protectorate for 90 years
+- Algeria was under French rule for 130 years
+- The Philippines was colonized for 300 years  
+
 
 
 ### Mistake 3: Democracy in a Desert

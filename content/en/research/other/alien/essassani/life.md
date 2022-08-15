@@ -141,16 +141,19 @@ Consciousness is the only reality.
 
 ### Personality
 
-Just as a prism diffracts the unified white light into its component colors, the personality also functions as a prism, separating the holistic energy of the Soul into the 3 components of
+A prism splits up unified white light into its component colors. 
 
-Beliefs,  Emotions,   &  Thought Patterns & Actions.  
+Likewise, the personality also functions as a prism, separating the holistic energy of the Soul into the 3 components of:
+- beliefs
+- emotions
+- thought Patterns & actions
 
 Soul ====> prism of Personality ====> Beliefs ====> Emotions ====> Thought Patterns & Actions 
 
 
 . | Beliefs | Emotions | Thought Patterns & Actions
-+++ | +++ | +++ | +++ 
-Definitions | Blueprint | Responses & reactions to something you  already believe to be true | Your thoughts & your physical actions.   What you do.
+--- | --- | --- | ---  
+Definitions | Blueprint | Responses & reactions to something you  already believe to be true | Your thoughts & your physical actions.   What you do
 Analogy | Blueprint | The builders | The building materials for building a house
 Conclusions from analogy |	Start with clear beliefs for what you clearly prefer | 	Get excited & enthused about what you are creating! Do it with passion! | Select the best materials=  Select the thoughts & actions that are most aligned with your goal. 
 
@@ -174,5 +177,8 @@ The recommended way to use Visualization, to get some preferred reality, is=
 4. Your Higher Self then tunes into your EXCITED STATE and your desire,
      and then begins working on getting for you a WAY BETTER outcome than anything you could have ever imagined.
 
-By hanging on to your Visualization and insisting that the outcome be in that form, you are LIMITING the optimum outcome, and preventing your Higher Self from bringing you an outcome that is FAR SUPERIOR to anything that you could have ever imagined or thought of.  And it can bring it to you in an easier and faster way, than the particular outcome you were insisting on.
+By hanging on to your Visualization and insisting that the outcome be in that form, you are:
+- LIMITING the optimum outcome
+- preventing your Higher Self from bringing you an outcome that is FAR SUPERIOR to anything that you could have ever imagined
 
+Your higher mind can bring it to you in an easier and faster way, than the particular outcome you were insisting on.

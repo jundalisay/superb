@@ -20,15 +20,29 @@ Literature is the portrait of real life:
 
 In order to preserve its sanctity and prestige, literature must maintain its rhythm in pace with the dynamic currents of society.
 
-The word Sáhitya can be interpreted in another way as well: sa + hita = hitena saha; “that which co-exists with hita or ‘welfare.’” Where there is no inner spirit of welfare, we cannot use the term Sáhitya. The creations or compositions of those who proclaim that “Art is for art’s sake,” cannot be treated as Sáhitya. 
+`sa + hita = hitena saha`
 
-That welfare which pertains to the mundane world is relative; its definition also may change according to the changes in time, place and person. But that aspect of the term hita which leads human beings to the absolute truth is one and the same for all ages and all countries.
+This means “that which co-exists with hita or ‘welfare.’” 
+
+Something that has no inner spirit of welfare is not Sáhitya. “Art is for art’s sake” is not Sáhitya. 
+
+That welfare which pertains to the mundane world is relative. 
+- Its definition also may change according to the changes in time, place and person.
+
+But the "hita" which leads human beings to the absolute truth is one and the same for all ages and all countries.
 
 In order to communicate with people at different states of development, and of different ideas, the same concept of welfare has to be expressed through different branches of knowledge. 
 
-The grand, benevolent flow of ideas, with the common people on one side, and the state of Supreme Bliss on the other – this is called literature; for in every particle, in every rhythmic expression of this very benevolent thought process, the Supreme Bliss is lying dormant.
 
-Thus “literature” is that which moves together with the society, which leads society towards true fulfilment and welfare by providing the inspiration for service. The statement “Art for art’s sake” is not acceptable; rather it is better to say, “Art for service and blessedness.”
+Literature is the grand, benevolent flow of ideas. It has:
+- the common people on one side
+- the state of Supreme Bliss on the other
+
+This is because the Supreme Bliss is lying dormant in every particle, in every rhythmic expression of this very benevolent thought.
+
+Thus “literature” is that which moves together with the society. It leads society towards true fulfilment and welfare by providing the inspiration for service.
+
+It is far better to say: “Art for service and blessedness”.
 
 
 ## The Responsibility of a Litterateur
@@ -41,21 +55,76 @@ The creator of art cannot remain idle or inert.
 
 Yet human beings on their journey through life may sometimes stop short in fear or apprehension. Sometimes their knees give way and they sit down fatigued and frustrated. 
 
-At such times the responsibility of the gifted litterateur becomes all the more significant. And when the litterateurs sing their songs of forward movement, they have to be very cautious about one more thing: after every artistic creation they must look back carefully to determine whether those for whom they have sung their marching songs are capable of moving forward with them – whether their thought-waves are touching the cores of the people’s hearts – whether their service is really doing good to them. In the literary world, the garland of glory goes only to those who are ever-aware of their responsibilities as litterateurs.
+At such times the responsibility of the gifted litterateur becomes all the more significant. 
 
-Real litterateurs are not only the beacons of the present, they are also the minstrels of the past and the messengers of the future. They are capable of providing proper leadership for the future only after grasping the relational flow between the past and the present. 
+When the litterateurs sing their songs of forward movement, they must look back carefully to determine whether:
+- their target listeners are capable of moving forward with them.
+- their thought-waves are touching the cores of the people’s hearts
+- their service is really doing good to them.
 
-Past, present and future must become beautifully interwoven in their compositions: only dreaming of a bright future will not suffice. One must remember that all the potentialities of the future lie embedded as seeds in the womb of the present, just as the blossoms of the present were sown in the past. So artists should not only give a flawless portrayal of the present with their creative talent, but they should also continue to explore the possibilities of the future with a benevolent mind.
+Real litterateurs are not only the beacons of the present, they are also the minstrels of the past and the messengers of the future.
 
-Whatever the possibilities the litterateurs present to the world from time to time, they should be exhibited as the healthy outcome of the present. In presenting these possibilities, their natural consequences should also be explained perfectly and flawlessly. The relation between the present and the future must be properly portrayed by presenting every stage of cause and effect. The natural resultant of any cause (Kárańa) is known as its effect (Kárya) at a particular time or place or to a particular person. This should never be lost sight of even for a moment, because it is the intermediate link between these two, cause and effect, that leads people to intimate and cordial contact with the purpose of the writer. In the absence of this cordial affinity, in the absence of this dynamic unity, readers cannot accept any literary composition as their own. Whatever we may call the writers of such compositions which have no relationship with the collective psychology, we certainly cannot call them litterateurs. At best we may call their writings compositions, but certainly not Sáhitya or literature.
+They are capable of providing proper leadership for the future only after grasping the relational flow between the past and the present. 
+
+Past, present and future must become beautifully interwoven in their compositions. Only dreaming of a bright future will not suffice. 
+
+All the potentialities of the future lie embedded as seeds in the womb of the present, just as the blossoms of the present were sown in the past. 
+
+So artists should:
+- give a flawless creative portrayal of the present
+- continue to explore the possibilities of the future with a benevolent mind.
+
+The possibilities should be exhibited as the healthy outcome of the present.
+
+In presenting these possibilities, their natural consequences should also be explained perfectly and flawlessly.
+
+The relation between the present and the future must be properly portrayed by presenting every stage of cause and effect.
+
+The natural resultant of any cause (Kárańa) is known as its effect (Kárya) at a particular time or place or to a particular person. 
+
+This should never be lost sight of even for a moment, because it is the intermediate link between these two, cause and effect, that leads people to intimate and cordial contact with the purpose of the writer.
+
+In the absence of this cordial affinity, in the absence of this dynamic unity, readers cannot accept any literary composition as their own. 
+
+Whatever we may call the writers of such compositions which have no relationship with the collective psychology, we certainly cannot call them litterateurs.
+
+At best, we may call their writings compositions, but certainly not Sáhitya or literature.
+
 
 ## Epochal Literature and Coastal Literature
 
-As already mentioned, marching together with the thought of benevolence is termed Sáhitya. That literature which cherishes the thought of benevolence but, without having snapped its relationship with us completely, is moving so far ahead in its march that it is no longer together with us, is called Tat́astha Sáhitya or Coastal Literature, not Yuga Sáhitya or Epochal Literature. Although it is not directly with us, it is never far. As this category of literature is ahead of its time, it is longer-lasting than Epochal Literature, but it is less significant in fulfilling the needs of a particular era. The outstanding characteristic of Epochal Literature is that it expresses in clear terms the demands of a particular era – it moves hand in hand with the collective psychology. It conveys in the language of the time every large or small, important or unimportant matter of the human mind, afflicted with the problems of that age. 
+Sáhitya is marching together with the thought of benevolence.
 
-If this Epochal Literature, which is created expressly to fulfil the needs of the era, becomes more dynamic than the people of the age, despite its sincere and benevolent intent, then it loses its characteristic of moving together – and in fact it loses all its value. Such literature cannot earn its reputation like the Coastal Literature, and thus all the dreams of the litterateur end in frustration and failure. Good literature, in order to fulfil the demands of the time, must move in unison with society, keeping control over its speed. The litterateurs may move a step or two ahead, for they are the guides of society; but they should not move too far forward, and, of course, moving backwards is out of the question.
+Tat́astha Sáhitya or Coastal Literature is that benevolent literature which moves so far ahead that it is no longer together with us but is still in a relationship with us. 
+- It is not Yuga Sáhitya or Epochal Literature. 
+- Although it is not directly with us, it is never far.
+- This category of literature is ahead of its time, making it longer-lasting than Epochal Literature.
+- But it is less significant in fulfilling the needs of a particular era.
 
-Movement is the characteristic of life, and so everything must move. Those who have lost their inherent dynamism are indeed dead. The right of preserving, building and rebuilding society is the duty only of those who are moving, not of those who are motionless, who are dead. Litterateurs cannot fling humanity into the stagnancy of death, for in this there is no thought of benevolence. So moving together with the people they will continue to sing their marching songs – they will go on filling the human mind with the sweet nectar of eternal life.
+Epochal Literature expresses clearly the demands of a particular era.
+- It moves hand in hand with the collective psychology.
+- It conveys in the language of the time, every large or small, important or unimportant matter of the human mind, afflicted with the problems of that age. 
+
+If this Epochal Literature becomes more dynamic than the people of the age then it loses its characteristic of moving together despite its sincere and benevolent intent.
+- It then loses all its value.
+
+Such literature cannot earn its reputation like the Coastal Literature.
+
+Thus all the dreams of the litterateur end in frustration and failure. 
+
+Good literature, in order to fulfil the demands of the time, must move in unison with society, keeping control over its speed.
+
+The litterateurs may move a step or two ahead, for they are the guides of society; but they should not move too far forward, and, of course, moving backwards is out of the question.
+
+Movement is the characteristic of life, and so everything must move. 
+
+Those who have lost their inherent dynamism are dead.
+
+The right of preserving, building and rebuilding society is the duty only of those who are moving, not of those who are motionless, who are dead.
+
+Litterateurs cannot fling humanity into the stagnancy of death, for in this there is no thought of benevolence. So moving together with the people they will continue to sing their marching songs – they will go on filling the human mind with the sweet nectar of eternal life.
+
+
 
 ## The Litterateur as the Seer of Truth
 
@@ -499,87 +568,21 @@ There are some critics who become extremely upset when litterateurs attach thems
 
 ## Acquiring Proper Knowledge
 
-The greatest obstacle in the collective progress of the human race is the ignorance of the individual mind. Knowledge is for all – it should be open and free like the light and air of the sky. It is undeniable that the most powerful medium for the dissemination of knowledge is a good book. That the value of an object is assessed in the field of application is undoubtedly true. And so the greatest means of assessing the value of knowledge is its successful application in the practical field. We cannot accept sterile knowledge as true knowledge – either it is self-delirium or luxury. Even recognized knowledge loses its value, if after being acquired it is stowed away like packed sacks in the corner of the mind. Of course, if anyone lacks the language to express their feelings or the knowledge that they have acquired through study, then I have no complaint against them. Yet I would say that an artist should try to convey whatever they know to the hearts of the people in an easily understandable manner. Anyone who does not do this is, in my opinion, not properly conscious of his or her social responsibility. Of course, it is quite a different matter if a person suffers some sort of inconvenience or disadvantage in this regard. Those who prove their sense of social duty by placing their feelings properly before people are indeed artists, are truly distinguished litterateurs.
+The greatest obstacle in the collective progress of the human race is the ignorance of the individual mind. 
 
-The sole cause of the internal weakness of human society is its ignorance. The superlative intuition (Sambodhi) that removes this ignorance is nothing but the thought of the Cosmic Mind (Bhúmámánasa). Art or literature is one of those sources from which common people get the opportunity to become established in the Cosmic Mind. If the mind of one fails to know the minds of others, if the minds of many are not comprehended by the mind of one, then how is the establishment of unity possible? The endeavour (sádhaná) of the artist or the litterateur has been continuing through the ages, and its aim is to see One among many, and to lead the many to the path of One. In this effort there is no imposition, no injunction of the Law, nor the imperious pressure of any administration, only a sweet and cooperative relation. Though separated by many countries, many states, many religions, many communities and many languages, the human race is an indivisible entity. Every human mind is but the diversified individual manifestation of that same indivisible Cosmic Mind. Today we look forward to the advent of that artist, that litterateur who will convey this truth to the hearts of humanity in a still sweeter language, still more strongly and deeply.
+Knowledge is for all – it should be open and free like the light and air of the sky.
+
+It is undeniable that the most powerful medium for the dissemination of knowledge is a good book. That the value of an object is assessed in the field of application is undoubtedly true. And so the greatest means of assessing the value of knowledge is its successful application in the practical field. We cannot accept sterile knowledge as true knowledge – either it is self-delirium or luxury. 
+
+Even recognized knowledge loses its value, if after being acquired it is stowed away like packed sacks in the corner of the mind. Of course, if anyone lacks the language to express their feelings or the knowledge that they have acquired through study, then I have no complaint against them. Yet I would say that an artist should try to convey whatever they know to the hearts of the people in an easily understandable manner. 
+
+Anyone who does not do this is, in my opinion, not properly conscious of his or her social responsibility. Of course, it is quite a different matter if a person suffers some sort of inconvenience or disadvantage in this regard. Those who prove their sense of social duty by placing their feelings properly before people are indeed artists, are truly distinguished litterateurs.
+
+The sole cause of the internal weakness of human society is its ignorance.
+
+The superlative intuition (Sambodhi) that removes this ignorance is nothing but the thought of the Cosmic Mind (Bhúmámánasa). Art or literature is one of those sources from which common people get the opportunity to become established in the Cosmic Mind. If the mind of one fails to know the minds of others, if the minds of many are not comprehended by the mind of one, then how is the establishment of unity possible? The endeavour (sádhaná) of the artist or the litterateur has been continuing through the ages, and its aim is to see One among many, and to lead the many to the path of One. In this effort there is no imposition, no injunction of the Law, nor the imperious pressure of any administration, only a sweet and cooperative relation. Though separated by many countries, many states, many religions, many communities and many languages, the human race is an indivisible entity. Every human mind is but the diversified individual manifestation of that same indivisible Cosmic Mind. Today we look forward to the advent of that artist, that litterateur who will convey this truth to the hearts of humanity in a still sweeter language, still more strongly and deeply.
 
 The human race is moving at an irresistible speed. Today, humanity wants to forget those who have written their works centring around various kinds of fissiparous discriminations. Human beings want to channelize their whole range of vision towards the bright future – a future which will transcend all individual or group interests, all territorial limits of countries and states, and transform the fates of many people into one destiny. Human beings no longer want to rely on so-called providential favour.
 
-Individual heroism is about to lose its vibrant spirit. Nowadays people have learned that if the thrill of victory is due to anyone, it certainly belongs to humanity. About seven hundred years ago the Asian poet Cańd́iidása, from an obscure corner of Bengal, sang about the same great possibility:
-
-Shuńa he mánuś bhái
-Sabár upare mánuś satya
-Táhár upare nái.
-[Oh human beings, my brothers and sisters,
-Humanity is the highest truth,
-There is nothing beyond it.]
-Today not even the Pacific Ocean between Asia and America is difficult to cross. The people of Asia and America are touching each other’s minds and have learned to accept each other sympathetically as their own. Europe, Africa, Australia, Mercury, Jupiter, the stars, the comets, the constellations – none of them is alien to the other, none is distant from another. Gradually everyone has begun to realize the vibration of the One Integral Mind. It is my firm conviction that the future of humanity is not dark. Every human beings will attain that inextinguishable flame that is forever alight beyond the veil of the darkness of the present – and attain it they must. Those who will carry the message of that effulgent light will be forever revered by all humanity. I see the potentiality of those memorable and venerable people in the litterateurs and artists, and that is why I hold them in great regard. The American poet, Carl Sandburg, has said,
-There is only one man in the world
-and his name is All Men.
-There is only one woman in the world
-and her name is All Women.
-There is only one child in the world
-and the child’s name is All Children.(5)
-In exactly the same strain, perhaps with a sweeter language, the same idea has been expressed by the Asian poet Satyendranath:
-Jagat juŕiyá ek játi ache
-Se játir nám mánuśjáti
-Eki prthiviir stanye pálita
-Eki ravi-shashii moder sáthii.
-Shiitátapa kśudha-trśńár jvála
-Sabái ámra saman bujhi
-Kachi-káncha guli d́áto kare tuli
-Bánchibár taŕe samán yujhi.
-Dosar khuṋji o básar báṋdhi go
-Jale d́ubi, bánci páile d́áuṋá.
-Kálo ár dhalo báhire keval
-Bhitare sabái samán ráuṋá
-Bahirer chop áncaŕe se lop
-Bhitarer raun palake phot́e.
-Bámum-shudra brhat kśudra
-Krtrim bhed dhúlay lote
-Ráge anuráge nidrita jáge
-Ásal ḿánuś prakat́ hay
-Varńe varńe náhika visheś
-Nikhil bhuvan branamaya.
-[There is only one race in the world,
-And that is the human race,
-Nourished with the milk of the same Mother Earth,
-Dwelling within the same compass of the sun and the moon
-The same heat and cold, the hunger and thirst,
-We all equally feel,
-Together we raise the tender green plants and make them strong
-We all struggle to preserve our lives,
-We seek friends and comrades, and build happy homes,
-We all drown in water, we all thrive on land.
-Black and white are merely external hues –
-Internally the blood of all is red
-By penetrating below the surface,
-The true inner nature is instantly revealed.
-The Brahmin and the outcaste, the great and the small,
-Are all artificial distinctions that ultimately crumble to dust.
-When love awakens in sleeping souls,
-Then true human beings will emerge.
-There is no difference between one colour, one race and another -
-For the entire universe is pervaded by One Infinite
-Consciousness.]
-Human beings of today, in chorus with Cańd́idása, Sandburg, and Satyendranath, will move together shoulder to shoulder towards an exalted humanity, towards the highest fulfillment of their individual lives.
-Niviŕ aekye jáy mishe jáy
-Sakal bhágya sav hrday
-Mánuśe mánuśe Náiko prabhed
-Nikhil mánav brahmamay.
-[In inseparable unity all faiths and hearts will merge,
-For there is no distinction among human beings – the whole humanity is an expression of the Supreme One.]
-1966
-Footnotes
-
-(1) A collection of poems in praise of deities. –Trans.
-
-(2) The poet who composed the ancient epic Rámáyána. –Trans.
-
-(3) A vegetable dish, not meant to be very hot or spicy. –Trans.
-
-(4) A sour sauce-like dish which never contains ghee or clarified butter. –Trans.
-
-(5) “Timesweep”, in Honey and Salt, 1963. –Trans.
-
+Individual heroism is about to lose its vibrant spirit. Nowadays people have learned that if the thrill of victory is due to anyone, it certainly belongs to humanity. 
 

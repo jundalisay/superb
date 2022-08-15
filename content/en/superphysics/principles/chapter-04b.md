@@ -6,10 +6,10 @@ title: "What is Qualimath?"
 date: 2020-12-27
 image: "/graphics/physics/math.jpg"
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
-linkb: /superphysics/solutions/isaiah
-linkbtext: "what-is-isaiah"
-linkf: /superphysics/socratic-dialectics
-linkftext: "Socratic dialectics"
+linkb: /superphysics/principles/chapter-04
+linkbtext: "Karma"
+linkf: /superphysics/principles/chapter-05
+linkftext: "Desire"
 author: Juan
 icon: /icons/sp.png
 math: true
@@ -22,6 +22,8 @@ comments:
     commentdate: 2022-05-01
 ---
 
+
+The previous chapter explained that reality is made up of long chains of cause and effects, as karma-samskara-karma. A long series of chains gains the dynamics of a wave. 
 
 Superphysics is based on waves which need linear algebra to notate and compute. Moverover, no wave exists alone - all waves and even parts of the same wave are analogous or relative to another. This is different from particles which are discrete and can exist all alone. 
 
@@ -123,7 +125,11 @@ We can think of the double colon as a rigid equals sign, while the single colon 
 
 
 {{< me date="March 10, 2022" >}}
-An example of the "hardness" of this dimension is the hardness of will of Russia in invading Ukraine and in Ukraine stubbornly not giving up, not caring about the chain-reaction that it causes to other nations and the planet. In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO will "soften" their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
+An example of the "hardness" of this dimension is the hardness of will of Russia in invading Ukraine and in Ukraine stubbornly not giving up, not caring about the chain-reaction that it causes to other nations and the planet. 
+
+In a better universe (with qualimath as the norm), Russia, Ukraine, and NATO will "soften" their minds and egos (less strong force, more gravitational force) as to harmonize with each other, being more sensible how their actions affect the planet.
+
+In this universe, such a softening can be encouraged by emphasizing the abstract, flexible aether, over rigid and hard solid matter.
 {{< /me >}}
 
 
@@ -185,11 +191,11 @@ gravity-between :: (material-layer-limiter (matter-amount-in-identity1 / distanc
 The above decontstructed equation gives us two benefits:
 
 1. Practical: It helps us *code* the equation more easily into procedures and algorithms
-2. Moral: It makes us think of Mass1 and Mass2 independently, and separate from its limiter
+2. Moral: It makes us think of `Mass1` and `Mass2` independently, and separate from its limiter
 
 Quali-math is inspired by **Al-Khwarizmi** who invented algebra from his work on "Calculation by Completion and Balancing". 
 
-The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*. This is important because [automated intelligence](/articles/superphysics/ai-is-autonomous) is one of the goals of Superphysics.
+The practical purpose leads to algorithms, the invention of which has likewise been attributed to Al-Khwarizmi*. This is important because [automated intelligence](/superphysics/ai-is-autonomous) is one of the goals of Superphysics.
 
 
 {{< img cap="Automated intelligence is best used in space-time-ships, just as it is best applied currently in Tesla's self-driving cars" src="/photos/physics/phoenix.jpg" >}}

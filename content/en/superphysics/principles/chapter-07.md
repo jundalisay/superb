@@ -8,8 +8,8 @@ image: /photos/physics/ai.jpg
 description: "Everything in existence is an idea of the Creator of that existence"
 linkb: /superphysics/principles/chapter-06
 linkbtext: Feelings
-linkf: /superphysics/principles/chapter-08
-linkftext: God
+linkf: /superphysics/principles/chapter-07b
+linkftext: "The Perceiver"
 author: Juan
 icon: /icons/sp.png
 aliases:
@@ -48,26 +48,28 @@ The contents of this matrix are only:
 - experiencer
 - experience (as ideas and feelings) -->
 
-For the experiencer to actually experience the infinite combination of ideas and feelings, it needs a container for them. This metaphysical container or arena is called a mind which is designed to hold and process Its Own ideas and feelings, which are collectively called 'perceptions'.
+For the experiencer to actually experience the infinite combination of ideas and feelings, it needs a container for them. This metaphysical container or arena is called a mind which is designed to hold and process its own ideas and feelings, which are collectively called 'perceptions'.
 
 Thus, an experiencer has 2 parts:
 - mind as the container for experiences
 - consciousness as the perceiver of that container
 
+<!-- Instead of using conscio -->
+
 ![Audience](https://sorasystem.sirv.com/photos/audience.jpg)
 
 
-## A Metaphysical Mind, Physical Mind, Living Mind, Non-Living Mind
+## Metaphysical Mind, Physical Mind
 
-Recall that we split reality into a metaphysical reality and a physical one. This leads to every mind having 2 parts in terms of structure:
+Our system splits reality into a metaphysical domain and a physical domain. This leads to every mind having 2 parts in terms of structure:
 
 1. A metaphysical mind
 
-This is the mind that occupies the metaphysical domain. This is called the soul. Philosophers call this the higher mind, spiritual mind, or subjective mind
+This is the mind that occupies the metaphysical domain, and is called the soul. Philosophers call this the higher mind, spiritual mind, or subjective mind.
 
 2. A physical mind 
 
-This is the mind that occupies the physical domain. This is what scientists believe in. Philosophers call this the lower mind, crude mind, or objective mind. 
+This is the mind that occupies the physical domain. This is what scientists believe in. Philosophers call this the lower mind, crude mind, or objective mind.
 
 
 {{< q a="Benham" >}}
@@ -75,6 +77,9 @@ Recent experiments by scientists have demonstrated that the human being is posse
 <cite>William Benham</cite>
 {{< /q >}}
 
+
+
+## Living Mind, Non-Living Mind
 
 In terms of activity, physical minds are then classified into two:
 
@@ -107,8 +112,7 @@ Of which individual then will this be the substance?  Either of all or of none. 
 {{< /quote >}}
 
 
-This innate uniqeness to experience and express Existence is an identity's dharma or tao. Socrates calls this <!-- innate need and design --> as a thing's 'True Nature'*. 
-
+This innate uniqeness to experience and express Existence is an identity's dharma or tao. Socrates calls this <!-- innate need and design --> as a thing's 'True Nature'* and has been explained in our Law of Conservation of Idea. 
 
 > *The English word 'Nature' is ambiguous and so we use 'Dharma' instead to specify the True Nature passively, and Tao to specify It actively  
 
@@ -122,13 +126,13 @@ Lao Tzu calls acting within one's True Nature as being with the Tao.
 
 
 
-### The Law of Conservation of Idea as the Origin of Movement
+## A Dynamic Existence
 
-Since each mind is unique, and since everything is a mind, with each mind being an idea from the viewpoint of the Creator, then we establish this principle of uniqueness as **The Law of Conservation of Idea**.
+Since each mind is unique, and since everything is a mind, then all minds must move to keep its uniqueness and separation from others. <!-- with each mind being an idea from the viewpoint of the Creator, then we establish this principle of uniqueness as **The Law of Conservation of Idea**.
 - The need to be unique causes the separation between minds and objects.
-- This creation of separation then creates change and movement.   
+- This creation of separation then creates change and movement.    --> **Under this paradigm, movement is originally caused by internal differences and not by external forces.** 
 
-Under this paradigm, movement is originally caused by internal differences and not by external forces. Even the external forces from heat really come from the internal nature of hotness that easily affects or moves objects that are internally predisposed to be affected by heat. 
+Even the external forces from heat really come from the internal nature of hotness that easily affects or moves objects that are internally predisposed to be affected by heat. 
 
 Movement arises from the differences in internal natures. This explains why:
 - some objects are easily moveable, while others are difficult to move
@@ -152,7 +156,11 @@ The believers of The One [The Pythagoreans] say that The One is the cause of sub
 {{< /q >}}
 
 
-In the next post, we will explain the difference between The One, as The Absolute, and The Creator, as The Supreme Entity.
+Having explained the nature of the mind, we next explain the nature of consciouness which is 'inside' the mind. 
+
+<!-- In the next post, we will explain the difference between The One, as The Absolute, and The Creator, as The Supreme Entity. -->
+
+
 <!--  Morality is Always Relative -->
 
 <!-- Good and evil then is how this need is protected or destroyed. Thus, morality, or the perception of good and bad, depends on two things:

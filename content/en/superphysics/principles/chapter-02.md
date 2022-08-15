@@ -83,7 +83,7 @@ Unlike science which manipulates the brain and hopes that it changes the soul or
 
 <!-- ## Tap into your feelings, the deeper the better -->
 
-## All Ideas are Static, All Feelings are Dynamic
+## Ideas are Static, Feelings are Dynamic
 
 The author of the novel about a cat starts to write it down by tapping into his feelings and ideas. These keep on changing dynamically as a flow which allow the cat's story to take a metaphysical shape. 
 
@@ -97,12 +97,15 @@ Or will it be sad and lonely?
 
 ![Flipbook about a cat](/graphics/flipbook.gif)
 
-The reader of that novel will then experience **the wave of the author's feelings** about the cat through the movement of the characters and events in the novel. The reader will think that those events are single events, and that each character is a single character. In reality, each of those events and characters are made up of many slices of quantum-events and quantum-characters. 
+The reader of that novel will then experience **the wave of the author's feelings** about the cat through the movement of the characters and events in the novel. The reader will think that those events are single events, and that each character is a single character. In reality, each of those events and characters are made up of many slices of quantized-events and quantized-characters*.
+
+> *Here we use the word 'quantize' instead of 'quantum' to emphasize the action of the mind that isolates the smallest perception that it can make.
+
 
 For example, a cat character in a novel 100 pages is actually made up of 100-cat entities which are stitched together artificially by the mind into one consistent cat-entity. Likewise, our reality is made up of independent "pages" or planes of reality that flow, or are connected by our minds with other contiguous planes, to create one consistent reality. This is the same mechanism that our minds use to connect the metaphysical domain with physical domain in order to create the current reality*.
 
 
-> *Science and quantum mechanics can never reach into this because they do not allow a metaphysical domain
+> *Science and quantum mechanics can never reach into this because they do not allow a metaphysical domain.
 
 
 
@@ -116,13 +119,18 @@ We can then make an analogy that the Creator of the universe began writing Its i
 Unlike Physics that only has physical time, Superphysics has both physical and metaphysical time:
 
 {{< quote >}}
-The Creator rejoiced when He saw his creation moving and living..The nature of the creation's Idea-being was everlasting. But it is impossible to make creation everlasting. So He resolved to have a moving image of eternity. When He set the order of the heaven, He made this image eternal but moving according to number, while eternity itself rests in unity. This image we call time.
+The Creator rejoiced when He saw his creation moving and living..The nature of the creation's Idea-being was everlasting. But it is impossible to make creation everlasting. So He resolved to have a moving image of eternity. When He set the order of the heaven, He made this image eternal but moving according to number, while eternity itself rests in unity. 
+<br><br>
+This image is what we call time.
 <cite>Timaeus Simplified, Chapter 4</cite>
 {{< /quote >}}
 
 
 > *Our version is a metaphysical Big Bootup. Going to the beginning of space and time will merely extend or push the beginning of space and time. This is like chasing the wind or running in circles. 
 
+
+
+## Ideas are Particles, Feelings are Waves
 
 These ideas and feelings, thus, flow onto the physical domain in order to create reality in real-time:
 

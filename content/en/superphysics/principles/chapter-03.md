@@ -21,13 +21,23 @@ The previous chapter explained how everything in Existence begins as either an i
 
 Everything in the physical domain has a metaphysical counterpart as its origin. We can say that the physical is the effect of the metaphysical. This is also why the metaphysical is superior to the physical. 
 
-All of Physics is dominated by the Law of Conservation of Mass and the Law of Conservation of Energy. This states that mass and energy cannot be created nor destroyed, and that all processes are transformations of mass and energy.  
+All of Physics is dominated by the Law of Conservation of Mass and the Law of Conservation of Energy. This states that:
+- mass and energy cannot be created nor destroyed, and
+- all processes are transformations of mass and energy.  
 
 <!-- Antoine Lavoisier 1789.  -->
 
-Likewise, all of Superphysics is dominated by what we call the Law of Conservation of Idea. This states that all ideas already pre-exist, cannot be created nor destroyed, and are unique.
+Likewise, all of Superphysics is dominated by what we call **The Law of Conservation of Idea**. This states that all ideas:
+- already pre-exist
+- cannot be created nor destroyed, and
+- are unique.
 
-This uniqueness means that each idea has its own properties as imbued by its Creator. These inherent properties are called its *dharma* or true nature. <!-- Unlike nature which si -->
+This uniqueness means that **each idea has its own properties** as imbued by its Creator.
+- These inherent properties are called its *dharma* or true nature. <!-- Unlike nature which si -->
+- The inherent property of a unique idea or object is called **svadharma**
+
+
+## Uniqueness Leads to All Movement in Existence
 
 This property of uniqueness creates all of the dynamism in both physical and metaphysical domains. This dynamism is what we call change, movement, and evolution.
 
@@ -35,7 +45,11 @@ For example, suppose you have a tray that can only hold 10 apples.
 
 ![Apples](/photos/objects/apples.jpg)
 
-If you add more apples it will either make those additional apples fall off if the tray is strong, or make the apples in the tray burst out if the tray is weak. Either way, the mere addition of apples causes movement, as a reaction to those new additions.
+Adding more apples will either:
+- make those additional apples fall off if the tray is strong, or
+- make the apples in the tray burst out if the tray is weak. 
+
+Either way, the mere addition of apples causes movement, as a reaction to those new additions.
 
 The tray represents the mind of the universe which holds its ideas. The addition of new ideas creates reactions from other ideas leading to dynamism that is far more energetic than the original addition-action.  
 
@@ -47,11 +61,9 @@ From here it follows that:
 
 This is the foundation of our **Theory of Universal Relativity**. 
 
-This theory aims to know the causes and effects of all mpvements, whether physical or metaphysical. This is to harness such movement and dynamism in order to reach our goals, such as to solve problems that are unsolved by Physics and Science.  
+This theory aims to know the causes and effects of all movements, whether physical or metaphysical. This is to harness such movement and dynamism in order to reach our goals, such as to solve problems that are unsolved by Physics and Science.  
 
-In the metaphysical domain, these movements take the form of reflection (as the 'bouncing back' mentioned in the previous chapter),  deflection, dissipation, merging, etc. These are are dynamics of waves. 
-
-Thus, we say that the metapyhsical domain has a wave-like nature.   
+In the metaphysical domain, these movements take the form of reflection (as the 'bouncing back' mentioned in the previous chapter),  deflection, dissipation, merging, etc. **These are the dynamics of waves.** Thus, we say that **the metapyhsical domain has a wave-like nature**.   
 
 
 ## All Ideas are Static, All Movement Comes from Minds
@@ -64,15 +76,19 @@ Since Existence is only made up of ideas and feelings, then it follows that the 
 
 This means that all possible ideas have already been created (time is finished) and that the dynamism has already worn-off, since there is no more addition-action. To the Creator, all ideas have settled into perfection and are therefore static. 
 
-However, this is opposite of our assertion that the Universe is dynamic, as we can plainly see. Even our ideas change so how can ideas be static? 
+However, this is opposite of our assertion that the Universe is dynamic, as we can plainly see. Even our ideas change, so how can ideas be static? 
 
 This is because the staticity of ideas are from the viewpoint of the Absolute, before or after it takes the role of a Creator. This Absolute is in its own domain which we call 'Pre-Existence'.
 
 ![gunas](/graphics/meta/gunas.png)
 
-As it this domain is above Existence, it does not exist. Rather it is entirely probabilistic or theoretical. It is a concept created to explain how Existence is generated arbitrarily or probabilistically by desire. This is why the control of desire is one of the central tenets of Hinduism and Buddhism, and an important part of Islam.  
+As it this domain is above Existence, it does not exist. Rather it is entirely probabilistic or theoretical. 
 
-Since ideas are static, it follows that it is the mind and its consciousness that moves from idea to idea in order to create compound ideas and experiences.
+It is a concept created to explain how Existence is generated arbitrarily or probabilistically by desire. This is why **the control of desire** is:
+- one of the central tenets of Hinduism and Buddhism, and
+- an important part of Islam which is imposed through fasting, charity, and modesty.  
+
+Since ideas are static, it follows that it is the mind and its consciousness that moves from idea to idea in order to create compound ideas and experiences. This is explained in the next chapter.
 
 
 

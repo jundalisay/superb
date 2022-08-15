@@ -25,11 +25,16 @@ comments:
 
 
 
-The previous chapter explained that the Creator of the universe created the universe from Its Own metaphysical ideas and feelings, just as a novelist writes a novel from a stream of ideas and feelings coming from his metaphysical mind. 
+Chapter 2 explained that the Creator of the universe created the universe from Its Own metaphysical ideas and feelings. This is similar to a novelist who writes a novel from a stream of ideas and feelings coming from his metaphysical mind. 
 
-The purpose of ideas is to create experience. 
+The purpose of ideas is to create experience. These experiences then create ideas. This leads to an unending loop of:
+- idea-experience
+- cause-effect
+- action-reaction
+- karma-samskara-karma 
 
-However, experience can only exist if there is an experiencer. Thus, there are only two things in this 'matrix' of Existence: 
+
+Experience can only exist if there is an experiencer. Thus, there are only 2 things in this looping 'matrix' of Existence: 
 - the experiencer
 - the experience of ideas and feelings
 
@@ -121,15 +126,17 @@ In business and entrepreneurship, this desire is called *grit*. Successful busin
 
 <!-- Investors invest in entrepreneurs that have the most grit. Superphysics can help the businessman, or any human that has a goal, to experience his goal by explaining the metaphysics of grit and desire.  -->
 
-In our novel analogy, the reader might have a strong desire to read. But he can only read what the Novelist has written down. 
+Back in our novel analogy, the reader might have a strong desire to read. But he can only read what the Novelist has written down. 
 
-Therefore, merely having strong desires in not enough to create a good reality. **What's more important is to align those desires to the desires of the Novelist.** The Hindus call this alignment as Dharma. 
+Therefore, merely having strong desires in not enough to create a good reality. **What's more important is to align those desires to the desires of the Novelist.** The Hindus call this alignment as Dharma. This dharma comes from The Law of Conservation of Idea explained in Chapter 3. 
 
 This alignment is done by the reader by choosing the right cat-novel to read. The proper alignment does not come instantly but happens through instances of trial and error. The more instances, the better. We call this as *learning experiences*.  
 
 The quality of learning experiences would be higher if the scope of learning were expanded. A reader can find a better cat-novel if he searched at a bigger library or bookstore. Superphysics expands the library of science by adding to it the library of metapyhsics. 
 
-Nowadays, the advancement science has led to economic growth, but has also opened up new problems:
+Since desire is a feeling, we should know the nature of feelings just as we should know the nature of ideas. The nature of feelings is explained next.  
+
+<!-- Nowadays, the advancement science has led to economic growth, but has also opened up new problems:
 
 - Global warming
   - Disasters like floods, mass extinction
@@ -151,4 +158,4 @@ Since prevention is better than cure, then AI will be the key to discover the pa
 
 The concept of a metaphysical domain allows us to explain the properties of metaphysical ideas. This then leads to our Law of Conservation of Idea, which is the base for the Law of Conservation of Matter and Energy.
 
-
+ -->
