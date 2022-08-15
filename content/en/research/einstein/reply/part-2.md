@@ -120,7 +120,7 @@ This path is often fruitful, but it is always open to doubt, because the specifi
 
 He then recognises that there exists no logical path from the empirically given to that conceptual world. His attitude becomes then more nearly rationalistic, because he recognises the logical independence of the system. The danger in this attitude lies in the fact that in the search for the system one can lose every contact with the world of experience. A wavering between these extremes appears to me unavoidable.
 
-I did not grow up in the Kantian tradition, but I found what is truly valuable in Kant's doctrine=  "The real is not given to us, but put to us (aufgegeben) (by way of a riddle)."
+I did not grow up in the Kantian tradition, but I found what is truly valuable in Kant's doctrine: "The real is not given to us, but put to us (aufgegeben) (by way of a riddle)."
 
 It means that we have a conceptual construction for grasping the inter-personal. The authority of this construction is purely in its validation.  This conceptual construction refers precisely to the “real” (by definition). **Every further question on the “nature of the real” appears empty.**
 

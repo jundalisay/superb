@@ -9,7 +9,9 @@ linkbtext: "kant-apriori-fallacy"
 linkf: "/social/supersociology"
 linkftext: "What is Supersociology?"
 icon: /icons/sp.png
+draft: true
 ---
+
 
 In the paper "Space, Time, and Contigency", Dr. Rudolph quotes Indian philosopher PR Sarkar:
 

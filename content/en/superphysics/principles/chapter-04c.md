@@ -1,4 +1,5 @@
 ---
+heading: "Chapter 4c"
 title: "The Eagle: Our Equation for Everything"
 date: 2021-06-23
 image: "/graphics/econ/eagle.jpg"
@@ -7,7 +8,6 @@ linkb: /superphysics/principles/chapter-04b
 linkbtext: "Qualimath"
 linkf: /superphysics/principles/chapter-05
 linkftext: "Desire"
-btext: "The universal equation"
 author: Juan
 icon: /icons/pantry.png
 aliases:

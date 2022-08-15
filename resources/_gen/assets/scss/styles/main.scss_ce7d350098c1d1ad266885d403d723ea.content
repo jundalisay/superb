@@ -6763,7 +6763,7 @@ body {
 
 .hume {
   background-color: #000f3a;
-  background-image: url(/avatars/hume.png); }
+  background-image: url(/icons/hume.png); }
 
 .ibn, .Ibn-Khaldun {
   background-color: darkgreen;
@@ -6779,7 +6779,7 @@ body {
 
 .kant {
   background-color: #3a0000;
-  background-image: url(/avatars/kant.png); }
+  background-image: url(/icons/kant.png); }
 
 .kepler {
   background-color: Navy;

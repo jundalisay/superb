@@ -36,7 +36,10 @@ The structure of private education is that it relies on contributions from wealt
 
 Who would be bold enough to intellectually challenge the prestige of Cambridge and Princeton in a time when there was no internet and publishing required a lot of time and money?
 
-The current game changer is the empowerment given by the internet in both allowing a person to get and give information. No longer does society need to be fed information only from books, pamphlets, or teachings from experts from prestigious schools.
+
+## The Internet Changes Everything
+
+The current game changer is the empowerment given by **the internet** in both allowing a person to get and give information. No longer does society need to be fed information only from books, pamphlets, or teachings from experts from prestigious schools.
 
 Nowadays, people can throw information up on the web and let others decide which is good and bad, thanks to search engines and social networks. It is now possible to learn technical skills from Youtube at the fraction of the cost and time as in a technical school. 
 

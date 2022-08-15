@@ -33,7 +33,14 @@ Unlike Socratic knowledge which aimed for a practical or moral purpose, Kant's k
  had been abandoned after the Enlightenment even if was very useful in solving problems. I find that
  -->
 
-Destroying Kant's a priori is essential if we are to destroy its child ideas called *Transcendental Analytic, Transcendental Dialectic,* and *Transcendental Idealism* which are totally abstract and useless in the real world. Those ideas led to Epistemology which is supposed to parse fact from fiction, but is actually equally useless. This is because this was already done by the [study of Logic](/superphysics/fallacies/red-herring). Epistemology effectively killed off enlightened philosophy, which explains why junk philosophies sprang up during the 19th century:
+Destroying Kant's a priori is essential if we are to destroy its child ideas called:
+- Transcendental Analytic
+- Transcendental Dialectic
+- Transcendental Idealism
+
+These are totally abstract and useless in the real world. These led to Epistemology which is supposed to parse fact from fiction, but is actually equally useless. This is because this was already done by the [study of Logic](/superphysics/fallacies/red-herring). 
+
+Epistemology effectively killed off enlightened philosophy, which explains why junk philosophies sprang up during the 19th century:
 
 - Nazism led to the Holocaust which destroyed many people
 - Marxism led to the violent Communist Revolution
@@ -44,18 +51,23 @@ This philosopher class is where the authors of the greatest good or evil come fr
 <cite>Simplified Republic by Plato, Book 6 Chapter 1</cite>
 {{< /q >}}
 
-With Epistemology (and its religious version Ontology) wiped out from the face of the Earth, we can bring back Logic, Moral Philosophy, and Dialectics to release philosophy from its current shackles. Once freed, it can be used to solve the growing number of modern problems such as pandemics, terrorism, inequality, global warming, overpopulation, etc, all created by the evil philosophies of 19th century.
+With Epistemology (and its religious version Ontology) wiped out from the face of the Earth, we can bring back the original Logic, Moral Philosophy, and Dialectics to release philosophy from its current shackles. Once freed, it can be used to solve the growing number of modern problems such as pandemics, terrorism, inequality, global warming, overpopulation, etc, all created by the evil philosophies of 19th century.
+
+{{< quote ava="ibn" >}}
+The occupation with the auxiliary sciences [logic] constitutes a waste of one's life, occupation with something that is of no concern.
+<cite>Muqaddimah, Chapter 6, Part 37</cite>
+{{< /quote >}}
 
 
 ## Kant's Definition
 
-Like most philosophers, Kant divides all knowledge as experiential or a posteriori, and non-experiential or a priori. Traditionally:
+Like most philosophers, Kant divides all knowledge as experiential (a posteriori), and non-experiential (a priori). Traditionally:
 - a priori means 'before experience'
   - Omniscience, prediction, prophecy, and intuition all fall under this, because you know something in advance before it actually happens
 - a posteriori  means 'after experience'
   - This is how we normally know things -- by experiencing them, either directly (as in seeing things) or indirectly (as in education or someone else telling you what they saw or know)
 
-However, he makes a very subtle but corrupting addition that a priori knowledge is that not experienced by onself, but may be experienced by others.
+However, he makes a very subtle but corrupting addition that **a priori knowledge is that not experienced by onself, but may be experienced by others.**
 
 {{< q a="kant" >}}
 Is there knowledge and sensory impressions that exist without being experienced? This knowledge is called a priori. This is in contrast to experiential or a posteriori knowledge based on experience. But a priori is not as yet definite enough. Experiential knowledge might be known a priori, because we do not derive this knowledge immediately from experience,but from a general rule which we have borrowed from experience [OF OTHER PEOPLE].
@@ -63,7 +75,9 @@ Is there knowledge and sensory impressions that exist without being experienced?
 {{< /q >}}
 
 
-So Kant's a priori knowledge is really a-posteriori-knowledge-from-others. It would be calling a man who has decided to become a female as a 'woman' just because that's how he wants to be seen. But the word 'woman' does not really match the man's nature and is false or a sophistry.
+So Kant's "a priori knowledge" is really "a-posteriori-knowledge-from-others". 
+
+It would be calling a man who has decided to become a female as a 'woman' just because that's how he wants to be seen. But the word 'woman' does not really match the man's nature and is false or a sophistry.
 
 ![Shemale](https://sorasystem.sirv.com/photos/shemale.jpg)
 
@@ -77,15 +91,18 @@ A priori knowledge is either pure or impure. Pure a priori knowledge has no empi
 This makes something non-empirical as somewhat empirical. Refering to our man-woman example, this is like calling the man as an 'impure woman' instead of calling him as a man.
 
 
-## So What's the Big Deal?
+### So What's the Big Deal?
 
-The problem is that it corrupts the definition of knowledge and facts which are demonstrative and real, by mixing it like mixed fruit, with opinions and beliefs which may or may not be real.
+The problem is that it **corrupts the definition of knowledge and facts** by mixing it, like mixed fruit, with opinions and beliefs:
+- knowledge and facts are demonstrative and real
+- opinions and beliefs may or may not be real
 
 ![Mixed fruits](https://sorasystem.sirv.com/photos/mixed.jpg)
 
-<br>
 
 To solve this non-problem, academics had to create epistemology which is supposed to re-separate fact from opinion. This then adds unnecessary effort when the whole problem could have been avoided by not mixing up fact and opinion in the first place.
+
+Academics and intellectuals would then create courses on useless epistemology to give employment to themselves.  
 
 The original tool to split fact from opinion is called dialectics and already was doing its job just fine, simply by accepting arguments that can offer proofs. Nowadays, this is seen in peer-reviews. Notice how Kant even tries to destroy the intellectually-democratic tool of dialectics:
 
@@ -107,9 +124,15 @@ When a person reviews your research paper, it is true that that person is showin
 
 Normally, what Kant calls impure a priori knowledge is called a posteriori knowledge **from memory**.
 
-But this memory would destroy transendence, and so he instead disregards memory and instead places the fact or idea within the metaphysical soul itself. If each soul were a laptop, then Kant's system would force all laptops to save everything to a cloud server, as the Transcendental Memory, instead of to its own local memory.
+But this memory would destroy his idea of transendence. And so, he disregards memory and instead places the fact or idea within the metaphysical soul itself. 
 
-In such a case, the laptop is a ‘thin-client’ and is a mere extension of the cloud server **and not an independent computer**. Its new data comes a posteriori  from its keyboard and mic, while its old data comes a priori from the cloud server itself (which matches Kant's definition). Instead of the laptop doing the normal logic and processing of its old data and ideas, it would be done by the Transcendent cloud server and merely fed down to the laptop. The powerful server would then have more resources to do its own kind of Transcendent Analysis and Transcendent Logic that is superior to the logic of the tiny laptop.
+If each soul were a laptop, then Kant's system would force all laptops to save everything to a cloud server, as the Transcendental Memory, instead of to its own local memory.
+
+In such a case, the laptop is a ‘thin-client’ and is a mere extension of the cloud server **and not an independent computer**. 
+- Its new data comes a posteriori from its keyboard and mic
+- Its old data comes a priori from the cloud server itself (which matches Kant's definition). 
+
+Instead of the laptop doing the normal logic and processing of its old data and ideas, it would be done by the Transcendent cloud server and merely fed down to the laptop. The powerful server would then have more resources to do its own kind of Transcendent Analysis and Transcendent Logic that is superior to the logic of the tiny laptop.
 
 **But this is what Theology and organized religions do.**
 
@@ -135,11 +158,15 @@ Both theolgians and epistemologists gain revenue by selling books and a fee or t
 
 ![Flip](https://sorasystem.sirv.com/graphics/flip300.jpg)
 
-In contrast, in the moral philosophy of the Enlightenment, the good is defined as the common interest which can only be known by getting all the a posteriori perceptions of pleasure and pain of all entities throughout space and time. To know what is good or evil, the enlightened system gets the opinions of everyone, even criminals and terrorists, so that the flow or the *Tao* of all feelings and perceptions can be known. A compromise can then be created to bring back harmony as *dharma*. 
+In contrast, in the moral philosophy of the Enlightenment, the good is defined as the common interest. This common interest can only be known by getting all the a posteriori perceptions of pleasure and pain of all entities throughout space and time. 
+
+To know what is good or evil, the enlightened system gets the opinions of everyone, even criminals and terrorists, so that the flow or the *Tao* of all feelings and perceptions can be known. A compromise can then be created to bring back harmony as *dharma*. 
 
 <!--  which is then sourced from thea priori definitions  from the Generator of Existence which the West calls Providence and the East calls Brahma. -->
 
-Kant bypasses the perceptions of entities and goes directly to Providence, leading to arbitrariness. He would support the willpower of a good country invading a bad country to impose its version of goodness, as proven in his essay called Groundwork and Perpetual Peace. Together with Nietzsche, it helps explain why Germany kept on invading countries in WWI and WWII under the idea of spreading its Nazi-goodness through sheer will to inferior races.
+Kant bypasses the perceptions of entities and goes directly to Providence, leading to arbitrariness. He would support the willpower of a good country invading a bad country to impose its version of goodness, as proven in his essay called *Groundwork and Perpetual Peace*. 
+
+Together with Nietzsche, it helps explain why Germany kept on invading countries in WWI and WWII under the idea of spreading its Nazi-goodness to inferior races, by sheer willpower.
 
 ![War](https://sorasystem.sirv.com/photos/war.jpg)
 
@@ -210,7 +237,7 @@ Much easier, huh?
 With geometry, you can think of whatever shapes inside your mind and it would be fine. But you can't do the same with geology or chemistry. But why did Kant end up having to create so many weird new concepts anyway?
 
 
-## A Natural Consequence of Denying Experience, Feeling, and Reality
+### A Natural Consequence of Denying Experience, Feeling, and Reality
 
 ![Ayn Rand vs Kant](https://sorasystem.sirv.com/graphics/randkant.jpg)
 
@@ -226,23 +253,27 @@ Effort | Conception (active) | Intuition (passive)
 Scope or Location | a posteriori (outside the mind) | a priori (within the mind)
 
 
-It's similar to Islam banning interest on loans, which causes it to be transferred as rent as a workaround or roundabout solution, and then creating processes to regulate that, as a bloated complex idea called Shariah banking. Kant bans reality and so he has to recreate everything himself. This is why Kant must have the highest regard for his own mind (since it's the one that powers everything in his Kant-only-reality):
+It's similar to Islam banning interest on loans, which causes it to be transferred as rent as a workaround or roundabout solution, and then creating processes to regulate that, as a bloated complex idea called Shariah banking. 
+
+Kant bans reality and so he has to recreate everything himself. This is why Kant must have the highest regard for his own mind (since it's the one that powers everything in his Kant-only-reality):
 <!-- Transcendental Analytic, Transcendental Dialectic, and Transcendental Idealism -->
 
 {{< quote ava="kant" >}}
 The reality of the object of our internal sense (that is, myself and my internal state) is clear immediately through consciousness.External objects in space might be a mere delusion. But the object of my internal perception is undeniably real.
 {{< /quote >}}
 
-<br>
 
+### Probably a German Thing
 
-## Probably a German Thing
+Instead of basing the judgement on strong or weak feelings or sensations and their location or distance from the self, **Kant adds strength or weakness and distance on the thinking action itself**. This is why he has to painstakingly specify whether each thought process <!-- that led to a conclusion --> was:
+- high energy (active thinking)
+- low energy (passive thinking)
+- was confined (a priori)
+- not confined (a posteriori)
 
-Instead of basing the judgement on strong or weak feelings or sensations and their location or distance from the self, Kant adds strength or weakness and distance on the thinking action itself. This is why he has to painstakingly specify whether a thought process <!-- that led to a conclusion --> was high energy (active thinking) or low energy (passive thinking) or was confined (a priori) or not confined (a posteriori) each time.
+Mechanically, it would be like totally denying the relation of gasoline consumption to engine power, or electrical consumption to CPU speed with the belief that the engine power and cpu speed can run by themselves, or that the mind exists for or by itself (as "I think"). These then leads to obvious fallacies in his explanation of the nature of time, existence, and, more importantly, of morals<!-- , which I can explain in future posts -->.
 
-Mechanically, it would be like totally denying the relation of gasoline consumption to engine power, or electrical consumption to CPU speed with the belief that the engine power and cpu speed can run by themselves, or that the mind exists for or by itself (as "I think"). These then leads to obvious fallacies in his explanation of the nature of time, existence, and, more importantly, of morals, which I can explain in future posts.
-
-I could only think of Hegel and Marx as similarly-complicated-writers who write so much but have relatively little meat or valuable thought. All of this makes me pity philosophy students who try to understand Kant. 
+Hegel and Marx as similarly-complicated-writers who write so much but have relatively little meat or valuable thought. All of this makes me pity philosophy students who try to understand Kant. 
 
 {{< quote ava="kant" >}}
 The Germans are the only people who at present use this word to indicate what others call the critique of taste.
@@ -251,11 +282,60 @@ The Germans are the only people who at present use this word to indicate what ot
 
 ![Germans overengineering everything](https://sorasystem.sirv.com/graphics/over-engineering.jpg)
 
-### Avoid! 
 
-This is why Kant (and epistemology in general) should be avoided. 
+## The Useless Theory of General Relativity
 
-{{< quote ava="ibn" >}}
-The occupation with the auxiliary sciences [logic] constitutes a waste of one's life, occupation with something that is of no concern.
-<cite>Muqaddimah, Chapter 6, Part 37</cite>
-{{< /quote >}}
+<!--  Disastrous Einstein Connection -->
+
+The most disastrous product of this strange German mentality is Albert Einstein who used Kant-style thinking to create the Theory of Relativity, which is totally arbitrary. 
+
+{{< q a="einblah" >}}
+This only requirement for this "way of thinking" is for it to be useful. The objective factor is our perceptions. 
+
+Physical thinking justifies itself by its ability to grasp experiences intellectually, giving us “knowledge of the real.”
+
+This “real” in physics is to be taken as a type of program, to which we are, however, not forced to cling a priori. 
+
+The theoretical attitude that I advocate here <b><i>is distinct from that of Kant only in the sense that this way of thinking is not unalterable. Rather it is based on free conventions.</i></b> 
+{{< /q >}}
+
+
+{{< img src="/graphics/physics/general.jpg" alt="fallacy" cap="The fallacies of the Kantian way of thinking is now seen in General Relativity which allows any physicist to create his own spacetime and Big Bang theory" >}}
+
+Like Kant, Einstein used his own mind to assign reality to spacetime by turning it into a fabric that dictates how the universe moves, expands, is warped, etc. This then allows physicists to create their own spacetimes according to their own imagination:
+
+- Walker created a universe with Robertson-Walker spacetime
+- De Sitter created a De Sitter spacetime
+- Godel created <!-- Kurt --> a Godel universe
+- Taub led to a universe with Taub-NUT spacetime 
+- Pensrose created a cyclical universe as Conformal Cyclic Cosmology 
+
+<!-- - Miknowski created a Miknowski spacetime -->
+
+
+### Useless Kant, Useless Einstein, Useless Physics
+
+Some of those physicists then get Nobel prizes for theories that have no reality. This is similar to:
+- academics who peddle useless courses or degrees that students pay for with real money
+- crypto startups which peddle gradiose ideas powered by useless cryptocurrency or NFTs 
+
+This useless Einsteinian physics is totally opposite of ancient physics (from the ancient Greeks to Descartes) which already concluded that spacetime is an illusion and has no reality.
+
+Newton's physics created so many technologies that we still use today. But Einstein physics only claims global positioning satellites (GPS) as its product. Einstein's supporters ignore the fact that engineers would have perceived the time-differences in their satellites and made the adjustments themselves without needing the idea of a spacetime fabric*.
+
+
+> *Instead of a fabric, we assign the cause of time dilation to the aether, as explained by the ancients. 
+
+
+
+We pity the physicists wasting their time trying to solve General Relativity and finding out the structure of the universe all from the sophistical Theory of Relativity, just it is sad to see:
+- students spending real money studying Epistemology instead of something useful like data science or programming. 
+- people 'investing' in cryptocurrencies or NFTs instead of investing in real businesses
+
+{{< img src="/graphics/tokamak.jpg" alt="Tokamak" cap="According to our Theory of Universal Relativity, artificial gravity is essential for fusion. But this is not achieved because physicists have adopted Einstein's Relativity which is useless in creating artificial gravity. As a result, the proper alternative to fossil fuels does not exist. This then leads to global warming and real death and destruction." >}}
+
+In a free society, it is alright to allow sophistical theories. But it is totally wrong to decree that such wrong theories are correct, and that the wrong way is the right way. Doing so would be like to guiding people onto a cliff, as is happening to the current world which has no solution to global warming, overpopulation, stagflation, war, or mass extinction. 
+
+
+<!-- This is why Kant (and epistemology in general) should be avoided. 
+ -->
