@@ -106,11 +106,19 @@ But, apart from short-period changes in the level of income, it is also obvious 
 
 These reasons will lead, as a rule, to a greater proportion of income being saved as real income increases. But whether or not a greater proportion is saved, we take it as a fundamental psychological rule of any modern community that, when its real income is increased, it will not increase its consumption by an equal absolute amount, so that a greater absolute amount must be saved, unless a large and unusual change is occurring at the same time in other factors. 
 
-As we shall show subsequently,[3] the stability of the economic system essentially depends on this rule prevailing in practice. 
+<!-- As we shall show subsequently,[3] -->
 
-This means that, if employment and hence aggregate income increase, not all the additional employment will be required to satisfy the needs of additional consumption. On the other hand, a decline in income due to a decline in the level of employment, if it goes far, may even cause consumption to exceed income not only by some individuals and institutions using up the financial reserves which they have accumulated in better times, but also by the Government, which will be liable, willingly or unwillingly, to run into a budgetary deficit or will provide unemployment relief, for example, out of borrowed money. 
+The stability of the economic system essentially depends on this rule prevailing in practice. 
 
-Thus, when employment falls to a low level, aggregate consumption will decline by a smaller amount than that by which real income has declined, by reason both of the habitual behaviour of individuals and also of the probable policy of governments; which is the explanation why a new position of equilibrium can usually be reached within a modest range of fluctuation. Otherwise a fall in employment and income, once started, might proceed to extreme lengths. 
+If employment increases, then aggregate income increases. 
+
+Not all the additional employment will be required to satisfy the needs of additional consumption. 
+
+On the other hand, a big decline in income due to a decline in the level of employment may even cause consumption to exceed income by:
+- individuals and institutions by using up savings
+- the Government by running into a budgetary deficit by providing unemployment relief by borrowing money
+
+Thus, when employment falls to a low level, aggregate consumption will decline by a smaller amount than that by which real income has declined. This is because both of the habitual behaviour of individuals and also of the probable policy of governments; which is the explanation why a new position of equilibrium can usually be reached within a modest range of fluctuation. Otherwise a fall in employment and income, once started, might proceed to extreme lengths. 
 
 This simple principle leads, it will be seen, to the same conclusion as before, namely, that employment can only increase pari passu with an increase in investment; unless, indeed, there is a change in the propensity to consume. 
 

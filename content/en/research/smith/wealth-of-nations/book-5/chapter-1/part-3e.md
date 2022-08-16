@@ -13,6 +13,8 @@ icon: /avatars/smith.png
 ---
 
 
+<!-- Private regulated companies are individuals who join a guild-like organization --> 
+
 
 {{< s v="95" >}} Private regulated companies are companies which:
 - do not <!-- trade --> do business on a joint stock of capital,

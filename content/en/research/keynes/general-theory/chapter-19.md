@@ -191,7 +191,7 @@ It follows that wage reductions, as a method of securing full employment, are al
 
 Just as a moderate increase in the quantity of money may exert an inadequate influence over the long-term rate of interest, whilst an immoderate increase may offset its other advantages by its disturbing effect on confidence; so a moderate reduction in money-wages may prove inadequate, whilst an immoderate reduction might shatter confidence even if it were practicable. 
 
-There is, therefore, no ground for the belief that a flexible wage policy is capable of maintaining a state of continuous full employment; — any more than for the belief than an open-market monetary policy is capable, unaided, of achieving this result. 
+It is false to believe that a flexible wage policy can maintain continuous full employment. This is similar to the fallacy that an open-market monetary policy is can, unaided, achieve the same result.
 
 The economic system cannot be made self-adjusting along these lines. 
 

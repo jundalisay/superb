@@ -1,15 +1,15 @@
-+++
-title       = "Advertisement"
-description = "Section 1 of An Enquiry Concerning the Principles of Morals Simplified"
-date        = "2020-06-16"
-image = "/covers/morals.jpg"
-author      = "David Hume"
-linkTitle   = "Section 1"
-linkb = "/research/hume/morals/"
-linkbtext = "Index"
-linkf = "/research/hume/morals/section-2"
-linkftext = "Section 2"
-+++
+---
+title: "The General Principles Of Morals"
+heading: "Section 1 of An Enquiry Concerning the Principles of Morals Simplified"
+description: Dr. Tillotson argues against the real presence of miracles. His argument is the most concise, elegant, and strong against miracles
+image: /covers/morals.jpg
+# image: "https://sorasystem.sirv.com/photos/medieval/cicero.jpg"
+date: 2020-01-22
+linkb: "/research/hume/morals"
+linkbtext: Index
+linkf: "/research/hume/morals"
+linkftext: Index
+---
 
 
 <!-- A 1912 Reprint Of The Edition Of 1777 -->
@@ -46,22 +46,34 @@ I thus divided the work into the following smaller works which corrects his defi
       IX.   Conclusion
  -->
 
-## Section 1=  The General Principles Of Morals
+## Section 1
 
-DISPUTES with men, pertinaciously obstinate in their principles, are, of all others, the most irksome; except, perhaps, those with persons, entirely disingenuous, who really do not believe the opinions they defend, but engage in the controversy, from affectation, from a spirit of opposition, or from a desire of showing wit and ingenuity, superior to the rest of mankind. 
+<!-- DISPUTES with men, pertinaciously obstinate in their principles, are, of all others, the most irksome; except, perhaps, those with persons, entirely disingenuous, who really do not believe the opinions they defend, but engage in the controversy, from affectation, from a spirit of opposition, or from a desire of showing wit and ingenuity, superior to the rest of mankind. 
 
-The same blind adherence to their own arguments is to be expected in both; the same contempt of their antagonists; and the same passionate vehemence, in inforcing sophistry and falsehood. And as reasoning is not the source, whence either disputant derives his tenets; it is in vain to expect, that any logic, which speaks not to the affections, will ever engage him to embrace sounder principles.
+The same blind adherence to their own arguments is to be expected in both; the same contempt of their antagonists; and the same passionate vehemence, in inforcing sophistry and falsehood. And as reasoning is not the source, whence either disputant derives his tenets; it is in vain to expect, that any logic, which speaks not to the affections, will ever engage him to embrace sounder principles. -->
 
-Those who have denied the reality of moral distinctions, may be ranked among the disingenuous disputants. 
+Some people have denied the reality of moral distinctions. 
+- Such people can be called disingenuous disputants. 
 
-nor is it conceivable, that any human creature could ever seriously believe, that all characters and actions were alike entitled to the affection and regard of everyone. 
+No human <!-- nor is it conceivable, that any human creature --> could ever seriously believe that all characters and actions were entitled to the affection and regard of everyone.
 
-The difference, which nature has placed between one man and another, is so wide, and this difference is still so much farther widened, by education, example, and habit, that, where the opposite extremes come at once under our apprehension, there is no scepticism so scrupulous, and scarce any assurance so determined, as absolutely to deny all distinction between them. 
+Nature made each person so different. 
 
-Let a man's insensibility be ever so great, he must often be touched with the images of Right and Wrong; and let his prejudices be ever so obstinate, he must observe, that others are susceptible of like impressions. 
+This difference is still so much farther widened by:
+- education
+- example
+- habit
 
+<!-- , that, where the opposite extremes come at once under our apprehension, there is no scepticism so scrupulous, and scarce any assurance so determined, as absolutely to deny all distinction between them.  -->
 
-The only way to convert such an antagonist is to leave him to himself. He will find that nobody cares what he thinks. This will eventually make him weary and <!--  keeps up the controversy with him, it is probable he will, at last, of himself, from mere weariness, --> come over to the side of common sense and reason.
+Let a man's insensibility be ever so great, he must often be touched with the images of Right and Wrong; 
+
+let his prejudices be ever so obstinate, he must observe, that others are susceptible of like impressions. 
+
+The only way to convert such an antagonist is to leave him to himself. 
+- He will find that nobody cares what he thinks. 
+
+This will eventually make him weary and <!--  keeps up the controversy with him, it is probable he will, at last, of himself, from mere weariness, --> come over to the side of common sense and reason.
 
 Are <!-- There has been a controversy started of late, much better worth examination, concerning the general foundation of  --> morals derived from Reason or from Sentiment?
 

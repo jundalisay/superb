@@ -1,49 +1,74 @@
-+++
-title       = "Property"
-description = "The good of mankind is the only object of all the laws of justice. Men's possessions should be separated for the peace and interest of society"
-date        = "2020-06-16"
-image = "/covers/morals.jpg"
-author      = "David Hume"
-heading   = "Section 2 Part-2"
-linkTitle   = "Section 2 Part-2"
-linkb = "/research/hume/morals/section-2"
-linkbtext = "Section 2"
-linkf = "/research/hume/morals/section-3"
-linkftext = "Section 3"
-+++
+---
+heading: "Section 2b of An Enquiry Concerning the Principles of Morals Simplified"
+title: "Property"
+description: "The good of mankind is the only object of all the laws of justice. Men's possessions should be separated for the peace and interest of society"
+image: /covers/morals.jpg
+# image: "https://sorasystem.sirv.com/photos/medieval/cicero.jpg"
+date: 2020-01-22
+linkb: "/research/hume/morals"
+linkbtext: Index
+linkf: "/research/hume/morals"
+linkftext: Index
+---
 
 
-A man's property is anything which it is lawful for him, and for him alone, to use. but what rule have we, by which we can distinguish these objects? 
 
-Here we must have recourse to statutes, customs, precedents, analogies, and a hundred other circumstances; some of which are constant and inflexible, some variable and arbitrary. 
+A man's property is anything which it is lawful for him, and for him alone, to use.
 
-**But their ultimate goal is the interest and happiness of human society.** 
+But rule do we use to distinguish these objects? 
 
-Where this enters not into consideration, nothing can appear more whimsical, unnatural, and even superstitious, than all or most of the laws of justice and of property.
+<!-- The Here we must have recourse to statutes, customs, precedents, analogies, and a hundred other circumstances; some of which are constant and inflexible, some variable and arbitrary.  -->
 
-Those who ridicule vulgar superstitions, and expose the folly of particular regards to meats, days, places, postures, apparel, have an easy task; while they consider all the qualities and relations of the objects, and discover no adequate cause for that affection or antipathy, veneration or horror, which have so mighty an influence over a considerable part of mankind. 
+**But their ultimate goal of statutes, customs, precedents, etc is the interest and happiness of human society.** 
 
-A Syrian would have starved rather than taste pigeon; an Egyptian would not have approached bacon=  But if these species of food be examined by the senses of sight, smell, or taste, or scrutinized by the sciences of chemistry, medicine, or physics, no difference is ever found between them and any other species, nor can that precise circumstance be pitched on, which may afford a just foundation for the religious passion. 
+<!-- Where this enters not into consideration, nothing can appear more whimsical, unnatural, and even superstitious, than all or most of the laws of justice and of property. -->
 
-A fowl on Thursday is lawful food; on Friday abominable=  
+Superstition might also aim for the interest and happiness of human society. 
 
-Eggs in this house and in this diocese, are permitted during Lent; a hundred paces farther, to eat them is a damnable sin. This earth or building, yesterday was profane; to-day, by the muttering of certain words, it has become holy and sacred. Such reflections as these, in the mouth of a philosopher, one may safely say, are too obvious to have any influence; because they must always, to every man, occur at first sight; and where they prevail not, of themselves, they are surely obstructed by education, prejudice, and passion, not by ignorance or mistake.
+<!-- Those who ridicule vulgar superstitions, and expose the folly of particular regards to meats, days, places, postures, apparel, have an easy task; while they consider all the qualities and relations of the objects, and discover no adequate cause for that affection or antipathy, veneration or horror, which have so mighty an influence over a considerable part of mankind. 
+
+- A Syrian would rather starve than taste pigeon. 
+- An Egyptian Muslim would not approach bacon. 
+
+But such food have no difference with other kinds of food when scrutinized by the sciences of chemistry, medicine, or physics.
+- We are unable to say what is the foundation for such religious feelings.  -->
+
+<!-- be examined by the senses of sight, smell, or taste, or , no difference is ever found between them and any other species, nor can that precise circumstance be pitched on, which may afford a just foundation for the religious passion.  -->
+
+<!-- A fowl on Thursday is lawful food; on Friday abominable=  
+
+Eggs in this house and in this diocese, are permitted during Lent; a hundred paces farther, to eat them is a damnable sin. 
+
+This earth or building, yesterday was profane; to-day, by the muttering of certain words, it has become holy and sacred. 
+
+Such reflections as these, in the mouth of a philosopher, one may safely say, are too obvious to have any influence; because they must always, to every man, occur at first sight; and where they prevail not, of themselves, they are surely obstructed by education, prejudice, and passion, not by ignorance or mistake.
+
 
 It may appear to a careless view, or rather a too abstracted reflection, that there enters a like superstition into all the sentiments of justice; and that, if a man expose its object, or what we call property, to the same scrutiny of sense and science, he will not, by the most accurate enquiry, find any foundation for the difference made by moral sentiment. I may lawfully nourish myself from this tree; but the fruit of another of the same species, ten paces off, it is criminal for me to touch. 
 
-Had I worn this apparel an hour ago, I had merited the severest punishment; but a man, by pronouncing a few magical syllables, has now rendered it fit for my use and service. Were this house placed in the neighbouring territory, it had been immoral for me to dwell in it; but being built on this side the river, it is subject to a different municipal law, and by its becoming mine I incur no blame or censure. The same species of reasoning it may be thought, which so successfully exposes superstition, is also applicable to justice; nor is it possible, in the one case more than in the other, to point out, in the object, that precise quality or circumstance, which is the foundation of the sentiment.
+Had I worn this apparel an hour ago, I had merited the severest punishment; but a man, by pronouncing a few magical syllables, has now rendered it fit for my use and service. 
 
-But there is this material difference between SUPERSTITION and JUSTICE, that the former is frivolous, useless, and burdensome; the latter is absolutely requisite to the well-being of mankind and existence of society. When we abstract from this circumstance (for it is too apparent ever to be overlooked) it must be confessed, that all regards to right and property, seem entirely without foundation, as much as the grossest and most vulgar superstition. 
+Were this house placed in the neighbouring territory, it had been immoral for me to dwell in it; but being built on this side the river, it is subject to a different municipal law, and by its becoming mine I incur no blame or censure. 
+
+The same species of reasoning it may be thought, which so successfully exposes superstition, is also applicable to justice; nor is it possible, in the one case more than in the other, to point out, in the object, that precise quality or circumstance, which is the foundation of the sentiment. -->
+
+But the material difference between SUPERSTITION and JUSTICE is that:
+- superstition is frivolous, useless, and burdensome.
+- justice is absolutely needed to the well-being of mankind and existence of society.
+
+When we abstract from this circumstance (for it is too apparent ever to be overlooked) it must be confessed, that all regards to right and property, seem entirely without foundation, as much as the grossest and most vulgar superstition. 
 
 Were the interests of society nowise concerned, it is as unintelligible why another's articulating certain sounds implying consent, should change the nature of my actions with regard to a particular object, as why the reciting of a liturgy by a priest, in a certain habit and posture, should dedicate a heap of brick and timber, and render it, thenceforth and for ever, sacred.
 
 
 {{ < box > }}
-[Footnote:  The will or consent alone never transfers property, nor causes the obligation of a promise (for the same reasoning extends to both), but the will must be expressed by words or signs, in order to impose a tie upon any man. 
+The will or consent alone never transfers property, nor causes the obligation of a promise (for the same reasoning extends to both), but the will must be expressed by words or signs, in order to impose a tie upon any man. 
 
 The expression being once brought in as subservient to the will, soon becomes the principal part of the promise; nor will a man be less bound by his word, though he secretly give a different direction to his intention, and withhold the assent of his mind. But though the expression makes, on most occasions, the whole of the promise, yet it does not always so. 
 
-One who should make use of any expression, of which he knows not the meaning, and which he uses without any sense of the consequences, would not certainly be bound by it. Nay, though he know its meaning, yet if he use it in jest only, and with such signs as evidently show, that he has no serious intention of binding himself, he would not lie under any obligation of performance; but it is necessary, that the words be a perfect expression of the will, without any contrary signs. 
+One who should make use of any expression, of which he knows not the meaning, and which he uses without any sense of the consequences, would not certainly be bound by it.
+
+Nay, though he know its meaning, yet if he use it in jest only, and with such signs as evidently show, that he has no serious intention of binding himself, he would not lie under any obligation of performance; but it is necessary, that the words be a perfect expression of the will, without any contrary signs. 
 
 Nay, even this we must not carry so far as to imagine, that one, whom, by our quickness of understanding, we conjecture, from certain signs, to have an intention of deceiving us, is not bound by his expression or verbal promise, if we accept of it; but must limit this conclusion to those cases where the signs are of a different nature from those of deceit. 
 
@@ -76,15 +101,45 @@ But farther, though it seems a very simple proposition to say, that nature, by a
 
 These words too, inheritance and contract, stand for ideas infinitely complicated; and to define them exactly, a hundred volumes of laws, and a thousand volumes of commentators, have not been found sufficient. Does nature, whose instincts in men are all simple, embrace such complicated and artificial objects, and create a rational creature, without trusting anything to the operation of his reason?
 
-But even though all this were admitted, it would not be satisfactory. Positive laws can certainly transfer property. It is by another original instinct, that we recognize the authority of kings and senates, and mark all the boundaries of their jurisdiction? Judges too, even though their sentence be erroneous and illegal, must be allowed, for the sake of peace and order, to have decisive authority, and ultimately to determine property. Have we original innate ideas of praetors and chancellors and juries? Who sees not, that all these institutions arise merely from the necessities of human society?
+But even though all this were admitted, it would not be satisfactory. 
 
-All birds of the same species in every age and country, built their nests alike=  In this we see the force of instinct. Men, in different times and places, frame their houses differently=  Here we perceive the influence of reason and custom. A like inference may be drawn from comparing the instinct of generation and the institution of property.
+Positive laws can transfer property.
 
-How great soever the variety of municipal laws, it must be confessed, that their chief outlines pretty regularly concur; because the purposes, to which they tend, are everywhere exactly similar. In like manner, all houses have a roof and walls, windows and chimneys; though diversified in their shape, figure, and materials. The purposes of the latter, directed to the conveniencies of human life, discover not more plainly their origin from reason and reflection, than do those of the former, which point all to a like end.
+It is by another original instinct, that we recognize the authority of kings and senates, and mark all the boundaries of their jurisdiction? 
 
-I need not mention the variations, which all the rules of property receive from the finer turns and connexions of the imagination, and from the subtilties and abstractions of law-topics and reasonings. There is no possibility of reconciling this observation to the notion of original instincts.
+Judges too, even though their sentence be erroneous and illegal, must be allowed, for the sake of peace and order, to have decisive authority, and ultimately to determine property. Have we original innate ideas of praetors and chancellors and juries? Who sees not, that all these institutions arise merely from the necessities of human society?
 
-What alone will beget a doubt concerning the theory, on which I insist, is the influence of education and acquired habits, by which we are so accustomed to blame injustice, that we are not, in every instance, conscious of any immediate reflection on the pernicious consequences of it. The views the most familiar to us are apt, for that very reason, to escape us; and what we have very frequently performed from certain motives, we are apt likewise to continue mechanically, without recalling, on every occasion, the reflections, which first determined us. The convenience, or rather necessity, which leads to justice is so universal, and everywhere points so much to the same rules, that the habit takes place in all societies; and it is not without some scrutiny, that we are able to ascertain its true origin. The matter, however, is not so obscure, but that even in common life we have every moment recourse to the principle of public utility, and ask, WHAT MUST BECOME OF THE WORLD, IF SUCH PRACTICES PREVAIL? HOW COULD SOCIETY SUBSIST UNDER SUCH DISORDERS? Were the distinction or separation of possessions entirely useless, can any one conceive, that it ever should have obtained in society?
+All birds of the same species in every age and country built their nests alike through the force of instinct.
+
+Men, in different times and places, frame their houses differently. Here we see the influence of reason and custom.
+
+A like inference may be drawn from comparing the instinct of generation and the institution of property.
+
+How great soever the variety , it must be confessed, that 
+
+The chief outlines of municipal laws regularly concur. This is because their purposes are everywhere exactly similar. 
+
+Similarly, all houses have a roof, walls, windows and chimneys. 
+- But their shape, figure, and materials are diversified. 
+
+The purposes of the latter, directed to the conveniencies of human life, discover not more plainly their origin from reason and reflection, than do those of the former, which point all to a like end.
+
+I need not mention the variations, which all the rules of property receive from the finer turns and connexions of the imagination, and from the subtilties and abstractions of law-topics and reasonings.
+
+There is no possibility of reconciling this observation to the notion of original instincts.
+
+What alone will beget a doubt concerning the theory, on which I insist, is the influence of education and acquired habits, by which we are so accustomed to blame injustice, that we are not, in every instance, conscious of any immediate reflection on the pernicious consequences of it. 
+
+This is why the views the most familiar to us tend to escape us. what we have very frequently performed from certain motives, we are apt likewise to continue mechanically, without recalling, on every occasion, the reflections, which first determined us. 
+
+The convenience or necessity which leads to justice is so universal. 
+- It everywhere points so much to the same rules, that the habit takes place in all societies
+
+ and it is not without some scrutiny, that we are able to ascertain its true origin. 
+
+The matter, however, is not so obscure, but that even in common life we have every moment recourse to the principle of public utility, and ask, WHAT MUST BECOME OF THE WORLD, IF SUCH PRACTICES PREVAIL? HOW COULD SOCIETY SUBSIST UNDER SUCH DISORDERS? 
+
+Were the distinction or separation of possessions entirely useless, can any one conceive, that it ever should have obtained in society?
 
 Thus we seem, upon the whole, to have attained a knowledge of the force of that principle here insisted on, and can determine what degree of esteem or moral approbation may result from reflections on public interest and utility. 
 

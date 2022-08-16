@@ -14,6 +14,8 @@ linkf = "/research/hume/morals/appendix-2"
 linkftext = "Appendix 2"
 +++
 
+
+
 ## The General Principles of Morals
 
 What are the general principles of morals? How far do REASON or SENTIMENT enter into moral judgments?

@@ -1,13 +1,13 @@
 ---
 heading: "Chapter 8"
 title: "Grain Index"
-date: 2022-03-27
+date: 2022-03-01
 image: /covers/econsp.jpg
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-linkb: /social/economics/principles/part-1
-linkbtext: "Part 1"
-linkf: /social/economics/principles/part-1
-linkftext: "Part 1"
+description: ""
+linkb: /social/economics/principles/part-1/chapter-07
+linkbtext: "Chapter 7"
+linkf: /social/economics/principles/part-1/chapter-09
+linkftext: "Chapter 9"
 author: Dalisay
 ---
 

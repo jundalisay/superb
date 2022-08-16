@@ -1,7 +1,7 @@
 ---
-heading: "Chapter 2"
+heading: "Chapter 2b"
 title: "Stores of Value"
-date: 2022-03-27
+date: 2022-03-28
 image: /covers/econsp.jpg
 description: ""
 linkb: /social/economics/principles/part-1

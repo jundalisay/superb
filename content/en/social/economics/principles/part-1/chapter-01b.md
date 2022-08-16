@@ -1,13 +1,15 @@
 ---
+heading: "Chapter 1b"
+# heading: "Replacing the utility motive with life purpose"
 title: "The Tao as One's Life Purpose"
-heading: "Replacing the utility motive with life purpose"
-date: 2015-08-20
+# date: 2015-08-20
+date: 2022-03-30
 image: /photos/meta/buddhism.jpg
 description : "Economics enshrines Utility as the foundation of value, while Pantrynomics emphasizes Dharma or the Tao or one's life purpose."
-linkb: /social/economics/principles/economic-karma
-linkbtext: "Economic Karma"
-linkf: /social/economics/principles/6-efforts
-linkftext: 6 types of effort
+linkb: /social/economics/principles/part-1/chapter-01
+linkbtext: "Chapter 1"
+linkf: /social/economics/principles/part-1/chapter-02
+linkftext: "Chapter 2"
 author: Juan
 icon: /icons/pantry.png
 aliases:

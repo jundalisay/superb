@@ -3,11 +3,11 @@ heading: "Chapter 11"
 title: "Classical Economics Buddhist Economics"
 date: 2022-03-27
 image: /covers/econsp.jpg
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-linkb: /social/economics/principles/part-2
-linkbtext: "Part 2"
-linkf: /social/economics/principles/part-2
-linkftext: "Part 2"
+description: ""
+linkb: /social/economics/principles/part-2/chapter-10
+linkbtext: "Chapter 10"
+linkf: /social/economics/principles/part-2/chapter-11b
+linkftext: "Chapter 11b"
 author: Dalisay
 ---
 

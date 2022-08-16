@@ -12,7 +12,6 @@ icon: "/icons/keynes.png"
 ---
 
 
-
 Chapters 4 to 7 are a digression on three perplexities:
 
 1. The choice of the units of quantity for an economic system as a whole

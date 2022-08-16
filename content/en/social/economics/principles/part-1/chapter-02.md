@@ -1,13 +1,13 @@
 ---
 heading: "Chapter 2"
-title: "Consummable Goods"
-date: 2022-03-27
+title: "Consumable Goods"
+date: 2022-03-29
 image: /covers/econsp.jpg
 description: ""
-linkb: /social/economics/principles/part-1
-linkbtext: "Part 1"
-linkf: /social/economics/principles/part-1
-linkftext: "Part 1"
+linkb: /social/economics/principles/part-1/chapter-01b
+linkbtext: "Chapter 1b"
+linkf: /social/economics/principles/part-1/chapter-02b
+linkftext: "Chapter 2b"
 author: Dalisay
 draft: true
 ---

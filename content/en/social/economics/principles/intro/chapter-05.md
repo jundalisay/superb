@@ -2,9 +2,9 @@
 heading: "Chapter 5"
 title: "The Socio-Economy"
 date: 2022-03-27
-image: /covers/econsp.jpg
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-type: featured
+image: /photos/buy.jpg
+description: "Economic Superphysics is concerned with the material well-being of society."
+# type: featured
 linkb: /social/economics/principles/intro/chapter-03
 linkbtext: "Chapter 3"
 linkf: /social/economics/principles/part-1/chapter-01
@@ -12,7 +12,9 @@ linkftext: "First Law"
 author: Dalisay
 ---
 
-Economic Superphysics is concerned with the material well-being of society. Unlike Neoclassical Economics which only focuses on money, revenue, and business, Economic Superphysics deals with both private wealth generation and public policy. This is in line with Classical  Economics which was previously called the Political Economy. 
+Economic Superphysics is concerned with the material well-being of society. 
+
+Unlike Neoclassical Economics which only focuses on money, revenue, and business, Economic Superphysics deals with both private wealth generation and public policy. This is in line with Classical  Economics which was previously called the Political Economy. 
 
 As such, we divide this book into four parts, with each part representing a law of exchangeable value. 
 

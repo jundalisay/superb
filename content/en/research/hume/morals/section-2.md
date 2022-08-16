@@ -1,15 +1,16 @@
-+++
-title       = "Benevolence"
-description = "In men of more ordinary talents and capacity, the social virtues become more needed."
-date        = "2020-06-16"
-image = "/covers/morals.jpg"
-author      = "David Hume"
-linkTitle   = "Section 2"
-linkb = "/research/hume/morals/section-1"
-linkbtext = "Section 1"
-linkf = "/research/hume/morals/section-2p2"
-linkftext = "Section 2 Part 2"
-+++
+---
+title: "Benevolence"
+heading: "Section 2 of An Enquiry Concerning the Principles of Morals Simplified"
+description: "In men of more ordinary talents and capacity, the social virtues become more needed."
+image: /covers/morals.jpg
+# image: "https://sorasystem.sirv.com/photos/medieval/cicero.jpg"
+date: 2020-01-22
+linkb: "/research/hume/morals"
+linkbtext: Index
+linkf: "/research/hume/morals"
+linkftext: Index
+---
+
 
 
 ## Part 1: Sympathy

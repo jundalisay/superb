@@ -12,6 +12,7 @@ icon: "/icons/keynes.png"
 ---
 
 
+
 Most theories of value and production focus on the distribution of a given volume of employed resources between different uses. These uses <!--  and with the conditions which, assuming the employment of this quantity of resources, --> determine their relative rewards and the relative values of their products.
 <!-- [1] -->
 

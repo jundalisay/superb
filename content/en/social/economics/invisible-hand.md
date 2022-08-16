@@ -5,7 +5,7 @@ heading: "How Life-Purpose Can Replace the Utility-Motive"
 date: 2021-09-09
 image: /photos/objects/hand.jpg
 description: A crisis-proof economic system isn't based on static equilibrium or marginal pricing. Instead, it's based on the true nature of reality, which Socrates calls true nature, the Chinese call the Tao, and the Hindus call dharma."
-type: "featured"
+# type: "featured"
 linkbtext: /social/economics/principles/arbitrage
 linkbtext: "Arbitrage"
 linkf: /social/economics/principles/dharma

@@ -1,25 +1,28 @@
-+++
-title= "The Definition of Income, Saving and Investment"
-description= "The income of the current period is obtained by deducting from A + G - A1 a certain sum, to represent that part of its value which has been contributed by the equipment inherited from the previous period"
-image= "/covers/general.jpg"
-date= 2020-01-25
-linkb= "/research/keynes/general-theory/chapter-05"
-linkbtext= "chapter-5"
-linkf= "/research/keynes/general-theory/chapter-07"
-linkftext= "chapter-7"
-icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "The Definition of Income, Saving and Investment"
+heading: "Chapter 6"
+description: "The income of the current period is obtained by deducting from A + G - A1 a certain sum, to represent that part of its value which has been contributed by the equipment inherited from the previous period"
+image: "/covers/general.jpg"
+date: 2020-01-31
+linkb: "/research/keynes/general-theory/chapter-05"
+linkbtext: "Chapter 5"
+linkf: "/research/keynes/general-theory/chapter-07"
+linkftext: "chapter 7"
+icon: "/icons/keynes.png"
+---
 
-Let:
 
-- `A` be an entrepreneur's income from a sale of a product
-- `A1` is his expense in buying that product from his supplier 
-- `G` is his expense for capital equipment
+In this example:
+
+- `Gross Sales` <!-- `A` --> is an entrepreneur's income from a sale of a product
+- `Purchases` <!-- `A1` --> is his expense in buying that product from his supplier 
+- `Assets` <!-- `G` --> is his expense for capital equipment
   - This includes his unfinished goods (working capital) and finished goods
 
-Some part, however, of `A + G - A1` will be attributable<!-- , not to the activities of the period in question, but --> to the capital equipment which he had at the start. 
+
+`Gross Sales + Assets - Purchases`
+
+Some part, however, of `Gross Sales`<!-- `A + G - A1` --> will be attributable<!-- , not to the activities of the period in question, but --> to the capital equipment which he had at the start. 
 
 The income of the current period is obtained by deducting from `A + G - A1` a certain sum, to represent that part of its value which has been contributed by the equipment inherited from the previous period.
 
@@ -35,15 +38,38 @@ There are two possible principles for calculating it:
 - maintaining it 
 - depreciating it
 
-If he had decided not to use it to produce output, there is, nevertheless, a certain optimum sum which it would have paid him to spend on maintaining and improving it. In this case, he would have spent B' on its maintenance and improvement It would then be worth G' at the end of the period. 
+If he had decided not to use it to produce output, there is an optimum sum which it would have paid him to spend on maintaining and improving it. In this case, he would have spent `Maintenance` <!-- 'B' --> on its maintenance and improvement It would then be worth G' at the end of the period. 
 
-`G' - B'` is the maximum net value which might have been conserved from the previous period, if it had not been used to produce `A` 
+`Assets - Maintenance` 
+<!-- `G' - B'` --> is the maximum net value which might have been conserved from the previous period, if it had not been used to produce `A` 
 
-The excess of this potential value of the equipment over `G - A1` is the measure of what has been sacrificed (one way or another) to produce A. Let us call this quantity, namely (G' - B') - (G - A1), which measures the sacrifice of value involved in the production of A, the user cost of A. User cost will be written U.[1] 
+The excess of this potential value of the equipment over `G - A1` is the measure of what has been sacrificed (one way or another) to produce A.
 
-The amount paid out by the entrepreneur to the other factors of production in return for their services, which from their point of view is their income, we will call the factor cost of A. 
+Let us call this quantity, namely 
 
-The sum of the factor cost F and the user cost U we shall call the prime cost of the output A. We can then define the income[2] of the entrepreneur as being the excess of the value of his finished output sold during the period over his prime cost. The entrepreneur’s income, that is to say, is taken as being equal to the quantity, depending on his scale of production, which he endeavours to maximise, i.e., to his gross profit in the ordinary sense of this term;— which agrees with common sense. Hence, since the income of the rest of the community is equal to the entrepreneur’s factor cost, aggregate income is equal to A - U. Income, thus defined, is a completely unambiguous quantity. Moreover, since it is the entrepreneur’s expectation of the excess of this quantity over his out-goings to the other factors of production which he endeavours to maximise when he decides how much employment to give to the other factors of production, it is the quantity which is causally significant for employment. 
+The user cost of A is `(G' - B') - (G - A1)`
+- This measures the sacrifice of value involved in the production of A
+- This User cost will be written `U`.[1] 
+
+<!--   in return for their services, which from their point of view is their income, we will call  -->
+
+The factor cost of A is the amount paid out by the entrepreneur to the other factors of production.. 
+
+
+The prime cost of the output A is the sum of the factor cost F and the user cost U. 
+
+**The income[2] of the entrepreneur** is the excess of the value of his finished output sold <!-- during the period --> over his prime cost.
+- This depends on his scale of production which he wants to maximise, i.e., to his gross profit in the ordinary sense of this term;— which agrees with common sense. 
+
+The income of the rest of the community is equal to the entrepreneur’s factor cost. 
+
+Aggregate income is equal to A - U. 
+
+Income therefore is a completely unambiguous quantity. 
+
+The entrepreneur expects profits.
+- He <!-- the excess of this quantity over his out-goings to the other factors of production --> endeavours to maximise those profits. 
+- From this, he decides how much employment to give<!--  to the other factors of production, it is the quantity which is causally significant for employment. -->
 
 `G - A1` may exceed `G' - B'` so that user cost will be negative. 
 
@@ -69,22 +95,60 @@ The aggregate demand function relates various hypothetical quantities of employm
 
 This set of definitions also has the advantage that we can equate the marginal proceeds (or income) to the marginal factor cost; and thus arrive at the same sort of propositions relating marginal proceeds thus defined to marginal factor costs as have been stated by those economists who, by ignoring user cost or assuming it to be zero, have equated supply price[3] to marginal factor cost.[4] 
 
-(ii) We turn, next, to the second of the principles referred to above. We have dealt so far with that part of the change in the value of the capital equipment at the end of the period as compared with its value at the beginning which is due to the voluntary decisions of the entrepreneur in seeking to maximise his profit. 
+2. Second Principle 
+(ii) We turn, next, to the second of the principles referred to above. We have dealt so far with that part of 
 
-But there may, in addition, be an involuntary loss (or gain) in the value of his capital equipment, occurring for reasons beyond his control and irrespective of his current decisions, on account of (e.g.) a change in market values, wastage by obsolescence or the mere passage of time, or destruction by catastrophe such as war or earthquake. Now some part of these involuntary losses, whilst they are unavoidable, are — broadly speaking — not unexpected; such as losses through the lapse of time irrespective of use, and also “normal” obsolescence which, as Professor Pigou expresses it, “is sufficiently regular to be foreseen, if not in detail, at least in the large”, including, we may add, those losses to the community as a whole which are sufficiently regular to be commonly regarded as “insurable risks”. 
+the change in the value of the capital equipment at the end of the period as compared with its value at the beginning which is due to the voluntary decisions of the entrepreneur in seeking to maximise his profit. 
 
-Let us ignore that the amount of the expected loss depends on when the expectation is assumed to be framed, and let us call the depreciation of the equipment, which is involuntary but not unexpected, i.e. the excess of the expected depreciation over the user cost, the supplementary cost, which will be written V. It is, perhaps, hardly necessary to point out that this definition is not the same as Marshall’s definition of supplementary cost, though the underlying idea, namely, of dealing with that part of the expected depreciation which does not enter into prime cost, is similar. In reckoning, therefore, the net income and the net profit of the entrepreneur it is usual to deduct the estimated amount of the supplementary cost from his income and gross profit as defined above. 
+There might be an involuntary change in the value of his capital equipment beyond his control or expectation such as:
+- a change in market values
+- obsolescence 
+- the mere passage of time
+- destruction by war or earthquake. 
 
-For the psychological effect on the entrepreneur, when he is considering what he is free to spend and to save, of the supplementary cost is virtually the same as though it came off his gross profit. In his capacity as a producer deciding whether or not to use the equipment, prime cost and gross profit, as defined above, are the significant concepts. 
+<!-- Now some part of these involuntary losses, whilst they are unavoidable, are — broadly speaking — not unexpected; such as losses through the lapse of time irrespective of use, and also “normal” obsolescence which, as Professor Pigou expresses it, “is sufficiently regular to be foreseen, if not in detail, at least in the large”, including, we may add, those losses to the community as a whole which are sufficiently regular to be commonly regarded as “insurable risks”. 
 
-But in his capacity as a consumer the amount of the supplementary cost works on his mind in the same way as if it were a part of the prime cost. Hence we shall not only come nearest to common usage but will also arrive at a concept which is relevant to the amount of consumption, if, in defining aggregate net income, we deduct the supplementary cost as well as the user cost, so that aggregate net income is equal to A - U - V. 
+Let us ignore that the amount of the expected loss depends on when the expectation is assumed to be framed, and  -->
 
-There remains the change in the value of the equipment, due to unforeseen changes in market values, exceptional obsolescence or destruction by catastrophe, which is both involuntary and — in a broad sense — unforeseen. The actual loss under this head, which we disregard even in reckoning net income and charge to capital account, may be called the windfall loss. The causal significance of net income lies in the psychological influence of the magnitude of V on the amount of current consumption, since net income is what we suppose the ordinary man to reckon his available income to be when he is deciding how much to spend on current consumption. This is not, of course, the only factor of which he takes account when he is deciding how much to spend. It makes a considerable difference, for example, how much windfall gain or loss he is making on capital account. 
+Let us only take the foreseeable losses such as the depreciation of the equipment.
 
-But there is a difference between the supplementary cost and a windfall loss in that changes in the former are apt to affect him in just the same way as changes in his gross profit. It is the excess of the proceeds of the current output over the sum of the prime cost and the supplementary cost which is relevant to the entrepreneur’s consumption; whereas, although the windfall loss (or gain) enters into his decisions, it does not enter into them on the same scale — a given windfall loss does not have the same effect as an equal supplementary cost. We must now recur, however, to the point that the line between supplementary costs and windfall losses, i.e. between those unavoidable losses which we think it proper to debit to income account and those which it is reasonable to reckon as a windfall loss (or gain) on capital account, is partly a conventional or psychological one, depending on what are the commonly accepted criteria for estimating the former. For no unique principle can be established for the estimation of supplementary cost, and its amount will depend on our choice of an accounting method. 
+ <!-- , which is involuntary but not unexpected, i.e. the excess of the expected depreciation over the user cost, the supplementary cost, which will be written V.  -->
+
+This is similar to Marshall’s supplementary cost as the expected depreciation which does not enter into prime cost.
+- But my definition is different. 
+
+ <!-- from , though the underlying idea, namely, of dealing with that part of , is similar.  -->
+
+When we compute the entrpreneur's net income and net profit we usually deduct the estimated amount of the supplementary cost from his income and gross profit as defined above. 
+
+For the psychological effect on the entrepreneur, when he is considering what he is free to spend and to save, of the supplementary cost is virtually the same as though it came off his gross profit. 
+
+In his capacity as a producer deciding whether or not to use the equipment, prime cost and gross profit, as defined above, are the significant concepts. 
+
+But in his capacity as a consumer, the supplementary cost is the same as a part of the prime cost. 
+
+Hence, we shall not only come nearest to common usage.
+
+But will also arrive at a concept which is relevant to the amount of consumption, if, in defining aggregate net income, we deduct the supplementary cost as well as the user cost, so that aggregate net income is equal to A - U - V. 
+
+There remains the change in the value of the equipment, due to unforeseen changes in market values, exceptional obsolescence or destruction by catastrophe, which is both involuntary and — in a broad sense — unforeseen.
+
+The actual loss under this head, which we disregard even in reckoning net income and charge to capital account, may be called the windfall loss. The causal significance of net income lies in the psychological influence of the magnitude of V on the amount of current consumption, since net income is what we suppose the ordinary man to reckon his available income to be when he is deciding how much to spend on current consumption. 
+
+This is not the only factor of which he takes account when he is deciding how much to spend.
+
+It makes a considerable difference, for example, how much windfall gain or loss he is making on capital account. 
+
+But there is a difference between the supplementary cost and a windfall loss in that changes in the former are apt to affect him in just the same way as changes in his gross profit.
+
+It is the excess of the proceeds of the current output over the sum of the prime cost and the supplementary cost which is relevant to the entrepreneur’s consumption; whereas, although the windfall loss (or gain) enters into his decisions, it does not enter into them on the same scale — a given windfall loss does not have the same effect as an equal supplementary cost. 
+
+We must now recur, however, to the point that the line between supplementary costs and windfall losses, i.e. between those unavoidable losses which we think it proper to debit to income account and those which it is reasonable to reckon as a windfall loss (or gain) on capital account, is partly a conventional or psychological one, depending on what are the commonly accepted criteria for estimating the former. For no unique principle can be established for the estimation of supplementary cost, and its amount will depend on our choice of an accounting method. 
 
 
-The expected value of the supplementary cost, when the equipment was originally produced, is a definite quantity. But if it is re-estimated subsequently, its amount over the remainder of the life of the equipment may have changed as a result of a change in the meantime in our expectations. 
+The expected value of the supplementary cost, when the equipment was originally produced, is a definite quantity.
+
+But if it is re-estimated subsequently, its amount over the remainder of the life of the equipment may have changed as a result of a change in the meantime in our expectations. 
 
 The windfall capital loss being the discounted value of the difference between the former and the revised expectation of the prospective series of U + V. It is a widely approved principle of business accounting, endorsed by the Inland Revenue authorities, to establish a figure for the sum of the supplementary cost and the user cost when the equipment is acquired and to maintain this unaltered during the life of the equipment, irrespective of subsequent changes in expectation. In this case the supplementary cost over any period must be taken as the excess of this predetermined figure over the actual user cost. 
 
@@ -106,13 +170,33 @@ It also corresponds to the money value of Professor Pigou’s most recent defini
 
 Net income is based on an equivocal criterion which different authorities might interpret differently, is not perfectly clear-cut. 
 
-Professor Hayek has suggested that an individual owner of capital goods might aim at keeping the income he derives from his possession constant, so that he would not feel himself free to spend his income on consumption until he had set aside sufficient to offset any tendency of his investment-income to decline for whatever reason.[6] 
+Professor Hayek thinks that an individual owner of capital goods might set aside savings to offset any decline of his investment-income. In this way, his income from capital goods remains constant <!-- not feel himself free to spend his income on consumption until he had set aside sufficient --> .[6] 
 
-I doubt if such an individual exists; but, obviously, no theoretical objection can be raised against this deduction as providing a possible psychological criterion of net income. But when Professor Hayek infers that the concepts of saving and investment suffer from a corresponding vagueness, he is only right if he means net saving and net investment. The saving and the investment, which are relevant to the theory of employment, are clear of this defect, and are capable of objective definition, as we have shown above. Thus it is a mistake to put all the emphasis on net income, which is only relevant to decisions concerning consumption, and is, moreover, only separated from various other factors affecting consumption by a narrow line; and to overlook (as has been usual) the concept of income proper, which is the concept relevant to decisions concerning current production and is quite unambiguous. The above definitions of income and of net income are intended to conform as closely as possible to common usage. 
+I doubt if such an individual exists. 
 
-My previous definition of income in my Treatise on Money is special. It was in relation to that part of aggregate income which accrues to the entrepreneurs. This is because I took neither the profit (whether gross or net) actually realised from their current operations nor the profit which they expected when they decided to undertake their current operations, but in some sense (not, as I now think, sufficiently defined if we allow for the possibility of changes in the scale of output) a normal or equilibrium profit; with the result that on this definition saving exceeded investment by the amount of the excess of normal profit over the actual profit. 
+<!-- ; but, obviously, no theoretical objection can be raised against this deduction as providing a possible psychological criterion of net income.  -->
 
-This use of terms has caused considerable confusion, especially in the case of the correlative use of saving. This is because conclusions (relating to the excess of saving over investment), which were only valid if the terms employed were interpreted in my special sense, have been frequently adopted in popular discussion as though the terms were being employed in their more familiar sense. 
+Professor Hayek concepts of saving and investment are vague. He is only right if he means net saving and net investment. 
+
+The saving and the investment for the theory of employment are clearly defined. 
+
+Thus it is wrong to put all the emphasis on net income. 
+- It is only relevant to decisions concerning consumption. 
+- It is only separated from various other factors affecting consumption by a narrow line. 
+
+People usually overlook the concept of income properly. <!-- , which is the concept relevant to decisions concerning current production and is quite unambiguous. The above definitions of income and of net income are intended to conform as closely as possible to common usage.  -->
+
+My previous definition of income in my Treatise on Money is refers to the part of aggregate income which accrues to entrepreneurs. 
+- This is because that definition did not take actual or expected gross or net profit from business operatios. 
+- Instead, it refers to a normal or equilibrium profit
+- It meants that saving exceeded investment by the excess of normal profit over the actual profit. 
+<!-- nor the profit which they expected when they decided to undertake their current operations, but in some sense (not, as I now think, sufficiently defined if we allow for the possibility of changes in the scale of output) ; with the result that -->
+
+This use of terms has caused considerable confusion, especially in the case of savings.
+
+<!-- This is because conclusions (relating to the excess of saving over investment), which were only valid if the terms employed were interpreted in my special sense.
+
+, have been frequently adopted in popular discussion as though the terms were being employed in their more familiar sense.  -->
 
 I thus discard my previous definitions with regret for the confusion which they have caused. 
 
@@ -124,9 +208,11 @@ Saving is the excess of income over expenditure on consumption. <!-- Thus any do
 
 Income we have defined above. 
 
-Expenditure on consumption is the value of goods sold to consumers during that period. This throws us back to what does  consumer-purchaser mean? 
+Expenditure on consumption is the value of goods sold to consumers during that period. 
 
-Any reasonable definition of the line between consumer-purchasers and investor-purchasers will serve us equally well, provided that it is consistently applied.
+What does consumer-purchaser mean? 
+
+<!-- Any reasonable definition of the line between consumer-purchasers and investor-purchasers will serve us equally well, provided that it is consistently applied. -->
 
 Should we regard the purchase of a car as a consumer-purchase, and that of a house as an investor-purchase?
 

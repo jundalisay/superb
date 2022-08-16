@@ -4,10 +4,10 @@ title: "Business and Industry"
 date: 2022-03-27
 image: /covers/econsp.jpg
 description: ""
-linkb: /social/economics/principles/part-2
-linkbtext: "Part 2"
-linkf: /social/economics/principles/part-2
-linkftext: "Part 2"
+linkb: /social/economics/principles/part-2/chapter-05
+linkbtext: "Chapter 5"
+linkf: /social/economics/principles/part-2/chapter-07
+linkftext: "Chapter 7"
 author: Dalisay
 ---
 

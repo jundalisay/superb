@@ -3,8 +3,8 @@ heading: "Chapter 4"
 title: "The Four Laws of Exchangeable Value"
 date: 2022-03-27
 image: /covers/econsp.jpg
+image: /graphics/econ/law1.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-type: featured
 linkb: /social/economics/principles/intro/chapter-03
 linkbtext: "Chapter 3"
 linkf: /social/economics/principles/part-1/chapter-01

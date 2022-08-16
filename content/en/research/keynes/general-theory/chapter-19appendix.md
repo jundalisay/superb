@@ -109,11 +109,27 @@ A scientific theory cannot require the facts to conform to its own assumptions.
 
 When Professor Pigou comes to deal expressly with the effect of a reduction of money-wages, he again introduces too few data to permit of any definite answer being obtainable. 
 
-He begins by rejecting the argument (op. cit. p. 101) that, if marginal prime cost is equal to marginal wage-cost, non-wage-earners’ incomes will be altered, when money-wages are reduced, in the same proportion as wage-earners’, on the ground that this is only valid, if the quantity of employment remains unaltered — which is the very point under discussion. 
 
-But he proceeds on the next page (op. cit. p. 102) to make the same mistake himself by taking as his assumption that “at the outset nothing has happened to non-wage-earners’ money-income”, which, as he has just shown, is only valid if the quantity of employment does not remain unaltered — which is the very point under discussion. In fact, no answer is possible, unless other factors are included in our data. 
+Money-wages are reduced if marginal prime cost is equal to marginal wage-cost.
+- This changes the non-wage-earners’ incomes in the same proportion as wage-earners’ income if the quantity of employment remains unchanged.
+- Pigou rejects this whole argument (op. cit. p. 101). 
 
-The manner in which the admission, that labour in fact stipulates for a given money-wage and not for a given real wage (provided that the real wage does not fall below a certain minimum), affects the analysis, can also be shown by pointing out that in this case the assumption that more labour is not available except at a greater real wage, which is fundamental to most of the argument, breaks down. For example, Professor Pigou rejects (Op. cit. p. 75) the theory of the multiplier by assuming that the rate of real wages is given, i.e. that, there being already full employment, no additional labour is forthcoming at a lower real wage. Subject to this assumption, the argument is, of course, correct. 
+<!-- -  — which is the very point under discussion.  -->
+
+But he proceeds on the next page (op. cit. p. 102) to 
+
+But he makes the same mistake by taking as his assumption that “at the outset nothing has happened to non-wage-earners’ money-income”, which, as he has just shown, is only valid if the quantity of employment changes. <!-- does not remain unaltered — which is the very point under discussion. --> 
+
+In fact, no answer is possible, unless other factors are included in our data. 
+
+He admits that <!-- The manner in which the admission, that --> labour in fact stipulates for a given money-wage and not for a given real wage (provided that the real wage does not fall below a certain minimum), affects the analysis. 
+
+<!-- , can also be shown by pointing out that --> 
+In this case, the assumption that more labour is not available except at a greater real wage, which is fundamental to most of the argument, breaks down.
+
+For example, Professor Pigou rejects (Op. cit. p. 75) the theory of the multiplier by assuming that the rate of real wages is given, i.e. that, there being already full employment, no additional labour is forthcoming at a lower real wage. 
+
+Subject to this assumption, the argument is, of course, correct. 
 
 But in this passage he is criticising a proposal relating to practical policy. 
 
@@ -123,7 +139,9 @@ His book assumes that any rise in the cost of living, however moderate, relative
 
 Moreover, Professor Pigou does not notice in this passage (Op. cit. p. 75) that the argument, which he advances against “secondary” employment as a result of public works, is, on the same assumptions, equally fatal to increased “primary” employment from the same policy. 
 
-For if the real rate of wages ruling in the wage-goods industries is given, no increased employment whatever is possible except, indeed, as a result of non-wage-earners reducing their consumption of wage-goods. For those newly engaged in the primary employment will presumably increase their consumption of wage-goods which will reduce the real wage and hence (on his assumptions) lead to a withdrawal of labour previously employed elsewhere. 
+For if the real rate of wages ruling in the wage-goods industries is given, no increased employment whatever is possible except, indeed, as a result of non-wage-earners reducing their consumption of wage-goods. 
+
+For those newly engaged in the primary employment will presumably increase their consumption of wage-goods which will reduce the real wage and hence (on his assumptions) lead to a withdrawal of labour previously employed elsewhere. 
 
 
 Yet he accepts the possibility of increased primary employment. 
