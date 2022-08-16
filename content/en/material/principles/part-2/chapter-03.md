@@ -7,15 +7,16 @@ date: 2021-12-30
 image: /covers/kepler.jpg
 description: "The Source of All Movement is Internal, Not External"
 linkTitle: "Gravitational Relativity"
-linkb: /articles/material/aethereal-relativity
-linkbtext: aethereal-relativity
-linkf: /articles/material/cartesian-view
-linkftext: Cartesian View
+linkb: /articles/material/part-2/chapter-02
+linkbtext: Qost
+linkf: /articles/material/part-3/chapter-01
+linkftext: Radiant Layer
 icon: /icons/spmat.png
 aliases:
   /articles/material/gravitational-relativity
   /material/principles/gravitational-relativity
 ---
+
 
 
 The previous post, explained aethereal relativity which deals with the movement of quanta of aether (qoas) as ideas, feelings, minds, and societies. 

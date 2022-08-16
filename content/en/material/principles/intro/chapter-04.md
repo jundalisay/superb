@@ -6,10 +6,10 @@ date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "We replace Einstein's Relativity with Universal Relativity as a template for all the movements in the universe, whether physical or metaphysical"
 linkTitle: "Kepler Tensor"
-linkb: /material/solutions/cartesian-view
-linkbtext: "cartesian-view"
-linkf: /material/principles/material-relativity
-linkftext: "material-relativity"
+linkb: /material/principles/intro/chapter-03
+linkbtext: "Rules of Movement"
+linkf: /material/principles/intro/chapter-05
+linkftext: "Kepler Tensor"
 author: Juan
 icon: /icons/spmat.png
 aliases:
@@ -25,8 +25,6 @@ Unlike Physics which says movement is sourced externally, Superphysics asserts t
 
 Space-time depends totally on perception. Rather than say that it is infinite, it is more correct to call it as totally abitrary. A particle, when imposed on (since its 'spin' reflects reality), can therefore arbitrarily change its location and 'defy' gravity and locality.
  -->
-
-
 
 
 In Superphysics, physical existence is made when the aether arbitrarily creates **q**uanta **o**f **s**pace**t**ime or [qost](/material/principles/qost)*, which are 1-dimensional points, within itself. Each point is a discrete and unique identity filled with an arbitrary amount of qualities as potentiality. 

@@ -6,13 +6,14 @@ date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "Rene Descartes gave 3 Rules of Movement in The World"
 linkTitle: "Kepler Tensor"
-linkb: /material/solutions/cartesian-view
-linkbtext: "cartesian-view"
-linkf: /material/principles/material-relativity
-linkftext: "material-relativity"
+linkb: /material/principles/intro/chapter-02
+linkbtext: "Gravitational Signatures"
+linkf: /material/principles/intro/chapter-04
+linkftext: "Universal Relativity"
 author: Juan
 icon: /icons/spmat.png
 ---
+
 
 
 ![rule 1](/covers/rule1.jpg)

@@ -6,15 +6,16 @@ date: 2020-01-31
 # image: /photos/meta/buddhism.jpg
 image: "/covers/spblack.jpg"
 description: "Aethereal Relativity explains the Principles for Movement in the Aethereal Layer which is above the Spatial Layer"
-linkb: /material/principles/aethereal
-linkbtext: Aethereal layer
-linkf: /material/principles/spatial
+linkb: /material/principles/part-1/chapter-02
+linkbtext: Qoa
+linkf: /material/principles/part-2/chapter-01
 linkftext: Spatial Layer
 icon: /spmat.png
 aliases:
   /articles/material/aethereal-relativity
   /material/principles/aethereal-relativity  
 ---
+
 
 
 Aethereal Relativity is made up of the principles that dictate aethereal movement. It is the most important of all the relativities since it controls or affects all the layers underneath. 

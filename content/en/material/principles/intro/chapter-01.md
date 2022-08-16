@@ -1,13 +1,13 @@
 ---
-# heading: "Chapter 4c"
+heading: "Chapter 1"
 title: "The Five Layers of Superphysics"
 date: 2020-01-01
 image: "/covers/spblack.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
-linkb: /superphysics/principles/chapter-04b
-linkbtext: "Qualimath"
-linkf: /superphysics/principles/chapter-05
-linkftext: "Desire"
+linkb: /superphysics/principles/
+linkbtext: "Principles"
+linkf: /superphysics/principles/intro/chapter-02
+linkftext: "Gravitational Signatures"
 author: Juan
 icon: /icons/pantry.png
 aliases:

@@ -1,6 +1,6 @@
 ---
 title: "Introductory Part"
-# linkTitle: "Principles"
+linkTitle: "Introductory"
 description: "We introduce the principles of Superphysics"
 # heading: From Socrates to Poincare
 image: "/covers/spblack.jpg"

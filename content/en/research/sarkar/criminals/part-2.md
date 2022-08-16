@@ -60,9 +60,16 @@ This type of criminal nature is often formed as an indirect result of people bei
 
 For example, some parents do not impart moral education to their children, and do not help them to acquire strength of mind or teach them how to lead a virtuous life; instead, they beat their children with or without justification. It is the children of such parents who later take part in antisocial activities.
 
-If parents fail to educate their daughters out of fear that they will go astray, fail to provide them with a moral education, fail to help them acquire strength of mind by holding up high ideals before them, and try to forcibly keep their unmarried or widowed daughters confined behind the purdah, naturally the secret desire will awaken in them to leave home and experience the world. 
+Daughters will naturally have the secret desire <!-- will awaken in them --> to leave home and experience the world if:
+- parents fail to educate their daughters out of fear that they will go astray
+- fail to provide them with a moral education
+- fail to help them acquire strength of mind by holding up high ideals before them
+- parents try to forcibly keep their unmarried or widowed daughters confined behind the purdah
 
-As a result, they will put on a show of purity in public while indulging in sinful conduct in private. Often they will even break away from the constraints imposed on them and openly engage in antisocial activities.
+
+As a result, they will put on a show of purity in public while indulging in sinful conduct in private. 
+
+Often they will even break away from the constraints imposed on them and openly engage in antisocial activities.
 
 Although it is extremely difficult to convince habitual criminals to follow the path of spirituality, it may be possible through psychological means.
 

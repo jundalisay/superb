@@ -1,20 +1,21 @@
 ---
+heading: "Chapter 5"
 title: "The Kepler Tensor and Removing the Metric Tensor"
-heading: "Bye bye Einstein!"
+# heading: "Bye bye Einstein!"
 date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "The Kepler Tensor plot movements in space or no-space according to universal relativity."
 linkTitle: "Kepler Tensor"
-linkb: /material/solutions/cartesian-view
-linkbtext: "cartesian-view"
-linkf: /material/principles/material-relativity
-linkftext: "material-relativity"
-btext: "What is it?"
+linkb: /material/principles/intro/chapter-04
+linkbtext: "Universal Relativity"
+linkf: /material/principles/part-1/chapter-01
+linkftext: "Aethereal Layer"
 author: Juan
 icon: /icons/spmat.png
 aliases:
   /principles/material/principles/kepler-tensor
 ---
+
 
 
 ## The Two Domains

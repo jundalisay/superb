@@ -48,15 +48,22 @@ This help is also essential for crude manifestation in the physical stratum and 
 - It requires cruder sub-stations under its control.
 
 
-Waves have to be developed for other manifestation of the internal reactive-momenta <!-- saḿskáras -->. **These waves have to be created in the nerves and in the blood.**
+Waves have to be developed for other manifestation of the internal reactive-momenta <!-- saḿskáras -->. 
+- **These waves have to be created in the nerves and in the blood.**
 
-According to the sanguinary flow and strength of the nerves, sub-stations of the mind go on transmitting the waves.
+The sub-stations of the mind go on transmitting the waves depending on:
+- the sanguinary flow and 
+- the strength of the nerves
+
 
 **The seed of every propensity is in the brain.** 
-- But the first expression occurs in the sub-station. 
+- **But the first expression occurs in the sub-station of the mind, as the glands of the body**. 
 
-Waves, after being created by the glands or sub-stations of the mind, are expressed outside through efferent nerves. 
-- The motor organs work with the help of efferent nerves, but the secret of the working lies with these mental sub-stations or glands.
+ 
+The glands or sub-stations of the mind create the waves. 
+- These waves are then expressed outwardly through efferent nerves. 
+- The motor organs work with the help of efferent nerves.
+- **But the secret of the working lies with these mental sub-stations or glands.**
 
 **The number of propensities varies according to the complexity of the physical structure.** 
 - The more complex the structure, the greater the number of propensities. 
