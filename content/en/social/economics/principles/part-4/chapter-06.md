@@ -3,11 +3,11 @@ heading: "Chapter 6"
 title: "Targetted Development"
 date: 2022-03-27
 image: /covers/econsp.jpg
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-linkb: /social/economics/principles/part-4
-linkbtext: "Part 4"
-linkf: /social/economics/principles/part-4
-linkftext: "Part 4"
+description: ""
+linkb: /social/economics/principles/part-4/chapter-05
+linkbtext: "Chapter 5"
+linkf: /social/economics/principles/part-4/chapter-07
+linkftext: "Chapter 7"
 author: Dalisay
 aliases:
   /social/economics/principles/development/    
@@ -40,7 +40,7 @@ This post was made in 2015 because the model predicted a huge crisis starting in
 {{< /me >}} -->
 
 
-The main advantage of Pantrynomics over Economics is that it is based on the dynamics of the human mind as explained by David Hume which was later applied by Adam Smith into his Theory of Moral Sentiments and The Wealth of Nations.
+The main advantage of Economic Superphysics over Neoclassical Economics is that it is based on the dynamics of the human mind as explained by David Hume which was later applied by Adam Smith into his Theory of Moral Sentiments and The Wealth of Nations.
 
 To David Hume and Eastern philosophy, the mind is a metaphysical thing, different from the physical brain. Metaphysical things are less bound by space and time compared to physical things, and so the mind's dynamics can remain the same throughout space and time. 
 
@@ -53,6 +53,7 @@ Thus, the same maxims given by Smith on economic development which he observed f
 ## Key Ideas That Are Missing
 
 Currently, the only maxim of Smith on development accepted by economists is comparative advantage. His other maxims (mostly in Book 3) have been conveniently disregarded because it goes against the commercial system:
+
 
 ### Natural Sequence of Development
 

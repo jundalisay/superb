@@ -1,8 +1,10 @@
 ---
+heading: "Chapter 3"
 title: "Aethereal Relativity -- Action at a Distance"
-heading: The 2D Kepler Tensor on the Aethereal Cartesian Plane 
+# heading: The 2D Kepler Tensor on the Aethereal Cartesian Plane 
 date: 2020-01-31
-image: /photos/meta/buddhism.jpg
+# image: /photos/meta/buddhism.jpg
+image: "/covers/spblack.jpg"
 description: "Aethereal Relativity explains the Principles for Movement in the Aethereal Layer which is above the Spatial Layer"
 linkb: /material/principles/aethereal
 linkbtext: Aethereal layer
@@ -11,6 +13,7 @@ linkftext: Spatial Layer
 icon: /spmat.png
 aliases:
   /articles/material/aethereal-relativity
+  /material/principles/aethereal-relativity  
 ---
 
 

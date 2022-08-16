@@ -12,7 +12,10 @@ linkftext: "Material Relativity"
 heading: The mind of the universe
 author: Juan
 icon: /icons/spmat.png
+aliases:
+  /material/principles/material
 ---
+
 
 The material layer is the lowest layer in the universe and manifests as physical objects. A unit example is a rock.<!-- It solid holds crosses existence and covers up pre-existence. You can think of it as the mind of Brahma or the RAM of a computer that generates its own virtual reality. -->
 

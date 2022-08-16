@@ -2,7 +2,7 @@
 title: "The Kepler Tensor and Removing the Metric Tensor"
 heading: "Bye bye Einstein!"
 date: 2022-01-03
-image: "/covers/kepler.jpg"
+image: "/covers/spblack.jpg"
 description: "The Kepler Tensor plot movements in space or no-space according to universal relativity."
 linkTitle: "Kepler Tensor"
 linkb: /material/solutions/cartesian-view
@@ -12,7 +12,10 @@ linkftext: "material-relativity"
 btext: "What is it?"
 author: Juan
 icon: /icons/spmat.png
+aliases:
+  /principles/material/principles/kepler-tensor
 ---
+
 
 ## The Two Domains
 
@@ -46,7 +49,6 @@ Radiant | Magnetism |  Radiant (Special Relativity) | Mi | Dependent on Viewpoin
 Radioactive | Radioactivity (Weak force) | Feynman Diagrams | Re | 
 Material | Atomic bond (Strong force) | Material | Do | Totally Absolute or Independent of Viewpoint
 
-<br>
 
 In the metaphysical plane, this leads to five groups of motions for layers which roughly follow Maslow's Hierarchy of Needs
 

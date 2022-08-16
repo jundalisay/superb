@@ -10,7 +10,10 @@ linkf: /social/economics/principles/eagle
 linkftext: The Eagle
 heading: Feynman Diagrams
 icon: /icons/spmat.png
+aliases:
+  /material/principles/radioactive-relativity
 ---
+
 
 
 Radioactive Relativity explains the principles for the Radioactive (Weak) Layer. In Physics, this is done by the Feynman diagrams. 

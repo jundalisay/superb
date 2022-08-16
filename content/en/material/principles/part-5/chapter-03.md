@@ -10,7 +10,10 @@ linkbtext: Kepler Tensor
 linkf: /material/principles/qoa
 linkftext: Quantum of Aether
 icon: /icons/spmat.png
+aliases:
+  /material/principles/material-relativity
 ---
+
 
 <!-- Spatial Relativity is the Superphysics alternative to General Relativity. It is the ratio between the inherent quality of each qost or center of gravity.
 

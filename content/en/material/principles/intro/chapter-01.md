@@ -1,23 +1,21 @@
-+++
-heading   = "Earth, Water, Fire, Wind, Aether"
-title       = "The Five Layers of Superphysics"
-description = "The common conclusion of the ancient Greeks, Hindus, and Chinese"
-date        = "2020-01-01"
-author      = "Juan"
-linkTitle   = "Five Layers"
-image      = "/photos/balancerock.jpg"
-categories  = ["Material Superphysics"]
-linkb = "/material/"
-linkbtext = "Index"
-linkf = "/material/"
-linkftext = "Index"
-icon = "/icons/spmat.png"
-updates = []
-aliases = [
-  "/articles/material/what-are-the-five-layers-of-superphysics",
-  "/material/five-layers-of-superphysics"
-]
-+++
+---
+# heading: "Chapter 4c"
+title: "The Five Layers of Superphysics"
+date: 2020-01-01
+image: "/covers/spblack.jpg"
+description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
+linkb: /superphysics/principles/chapter-04b
+linkbtext: "Qualimath"
+linkf: /superphysics/principles/chapter-05
+linkftext: "Desire"
+author: Juan
+icon: /icons/pantry.png
+aliases:
+  /articles/material/what-are-the-five-layers-of-superphysics
+  /material/five-layers-of-superphysics
+  /material/principles/five-layers
+---
+
 
 Our Five Layers are derived from the Five Elements of the Greeks, Hindus, and Chinese. Such a concept is absent in science because science came from the Western civilization which is really just the Roman Empire. 
 

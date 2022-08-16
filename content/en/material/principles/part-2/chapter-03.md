@@ -1,6 +1,7 @@
 ---
+heading: "Chapter 3"
 title: "Gravitational Relativity -- Action at a Distance"
-heading: The Kinship of Things
+# heading: The Kinship of Things
 # date: 2020-01-31
 date: 2021-12-30
 image: /covers/kepler.jpg
@@ -13,7 +14,7 @@ linkftext: Cartesian View
 icon: /icons/spmat.png
 aliases:
   /articles/material/gravitational-relativity
-  /material/principles/gravitational-relativity/
+  /material/principles/gravitational-relativity
 ---
 
 

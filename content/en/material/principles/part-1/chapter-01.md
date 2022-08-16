@@ -1,8 +1,10 @@
 ---
-title: "The Aethereal Layer of Superphysics"
-heading: The mind of the universe
+heading: "Chapter 1"
+title: "The Aethereal Layer"
+# heading: The mind of the universe
 date: 2020-01-31
-image: /photos/meta/buddhism.jpg
+image: "/covers/spblack.jpg"
+# image: /photos/meta/buddhism.jpg
 description: "The aethereal layer is the higgs field in Physics and is the highest physical layer"
 linkb: /material/principles/universal-relativity
 linkbtext: universal-relativity
@@ -13,7 +15,9 @@ icon: /icons/spmat.png
 aliases:
   /articles/material/aethereal
   /material/aethereal/
+  /material/principles/aethereal/
 ---
+
 
 The aethereal is the highest layer in the universe, and is underneath only the metaphysical layer, which itself is bounded by pre-existence.
 

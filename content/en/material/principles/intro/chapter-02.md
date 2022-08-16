@@ -1,21 +1,22 @@
-+++
-heading     = "The Solution to General Relativity and All Movement"
-title       = "Gravitational Signatures"
-date        = "2020-01-01"
-author      = "Juan"
-banner      = "/graphics/physics/general.jpg"
-description = "In Superphysics, electrons have a positive or masculine charge, while protons have a negative or feminine charge. This is consistent with the male Yang or Shiva, and the female Yin or Shakti"
-categories  = ["Material Superphysics"]
-linkTitle = "Gravitational Signatures"
-linkb = "/material/fallacies/general-relativity"
-linkbtext = "general-relativity"
-linkf = "/material/principles/universal-relativity"
-linkftext = "universal-relativity"
-icon = "/icons/spmat.png"
-aliases = [
-  "/material/gravsigs"
-]
-+++
+---
+title: "Gravitational Signatures"
+heading: "Bye bye Einstein!"
+date: 2022-01-03
+image: "/covers/spblack.jpg"
+description: "In Superphysics, electrons have a positive or masculine charge, while protons have a negative or feminine charge. This is consistent with the male Yang or Shiva, and the female Yin or Shakti"
+linkTitle: "Kepler Tensor"
+linkb: /material/solutions/cartesian-view
+linkbtext: "cartesian-view"
+linkf: /material/principles/material-relativity
+linkftext: "material-relativity"
+btext: "What is it?"
+author: Juan
+icon: /icons/spmat.png
+aliases:
+  /material/principles/gravsigs
+  /material/gravsigs
+---
+
 
 
 In the previous post, we fixed relativity* by adhering to the rules** which Socrates*** mentioned earlier:

@@ -1,18 +1,20 @@
-+++
-heading = "The seed for a universe"
-title       = "What is a Quantum of Aether or Qoa?"
-description = "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence or the Mind of Brahma"
-linkTitle = "Qoa"
-date        = "2020-01-01"
-author      = "Juan"
-banner      = "/photos/idea.jpg"
-categories  = ["Material Superphysics"]
-linkb = "/material/principles/material-relativity"
-linkbtext = "material-relativity"
-linkf = "/material/principles/qost"
-linkftext = "qost"
-icon = "/icons/spmat.png"
-+++
+---
+heading: "Chapter 2"
+title: "The Quantum of Aether or Qoa"
+date: 2020-01-31
+# image: /photos/meta/buddhism.jpg
+image: "/covers/spblack.jpg"
+description: "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence or the Mind of Brahma"
+linkb: /material/principles/part-1/chapter-01
+linkbtext: "Chapter 1"
+linkf: /material/principles/part-1/
+linkftext: "Chapter 3"
+author: Juan
+icon: /icons/spmat.png
+aliases:
+  /articles/material/qoa
+---
+
 
 
 We all know that physical reality exists inside space and time, and that space and time are the properties of the universe. But how were space and time and the universe created?

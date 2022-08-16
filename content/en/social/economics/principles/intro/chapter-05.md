@@ -29,3 +29,4 @@ Energy Index 		 | Grain Index | Cost Curves | Economic Table | Ratios GDP
 Energy Scope 		 | Rural | Urban | Regional Trade (ASEAN EU) | UN 
 Energy Class 		 | Laborer
 Philosophies 		 | Socialism | Classical Economics Buddhist Economics | Neoclassical Economics | Communism Shariah Inca System 
+

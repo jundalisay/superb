@@ -10,6 +10,8 @@ linkf: /material/principles/spin
 linkftext: Spin
 author: Juan
 icon: /icons/spmat.png
+aliases:
+  /material/principles/radiant  
 ---
 
 

@@ -1,24 +1,25 @@
-+++
-heading = "The seed or starting point for galaxies and stars"
-title       = "What is a Quantum of Spacetime or Qost?"
-description = "The common conclusion of the ancient Greeks, Hindus, and Chinese"
-date        = "2020-01-01"
-author      = "Juan"
-# keywords    = ["configuration", "config", "documentation", "docs"]
-linkTitle   = "Qosts"
-banner      = "/photos/physics/galaxy.jpg"
-categories  = ["Material Superphysics"]
-linkb       = "/material/principles/qoa"
-linkbtext   = "Quantum of aether"
-linkf       = "/material/solutions/fusion"
-linkftext   = "fusion"
-icon = "/icons/spmat.png"
-aliases = [
-  "/articles/material/what-is-a-qost",
-  "/articles/material/qost",
-  "/material/qost/"
-]
-+++
+---
+heading: "Chapter 2"
+title: "The Quantum of Spacetime or Qost"
+# heading: Spacetime and Gravitation
+date: 2020-01-31
+linkTitle: "Qost"
+# image: /photos/physics/galaxy.jpg
+image: "/covers/spblack.jpg"
+description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
+linkb: /material/principles/aethereal-relativity
+linkbtext: Aethereal Relativity
+linkf: /material/principles/radiant
+linkftext: Radiant Layer
+author: Juan
+icon: /icons/spmat.png
+aliases:
+  /articles/material/what-is-a-qost
+  /articles/material/qost
+  /material/principles/qost
+  /material/qost/
+---
+
 
 
 ## The Five Layers of Superphysics

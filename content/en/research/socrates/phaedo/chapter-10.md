@@ -103,7 +103,11 @@ I sent away the women mainly in order that they might not misbehave in this way,
 Be quiet, then, and have patience. 
 {{< /l >}}
 
-When we heard his words we were ashamed, and refrained our tears. He walked about until his legs began to fail. Then he lay on his back, according to the directions. The man who gave him the poison now and then looked at his feet and legs. After a while, he pressed his foot hard, and asked him if he could feel. He said, No; and then his leg, and so upwards and upwards, and showed us that he was cold and stiff.
+When we heard his words we were ashamed, and refrained our tears. He walked about until his legs began to fail. Then he lay on his back, according to the directions. 
+
+The man who gave him the poison looked at his feet and legs now and then. After a while, he pressed Socrates' foot hard, and asked him if he could feel. Socrates said, No. 
+
+He repeated this with his leg, and so upwards and upwards. Socrates showed us that he was cold and stiff.
 
 He felt them himself, and said:
 

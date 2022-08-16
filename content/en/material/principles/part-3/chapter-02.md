@@ -1,22 +1,21 @@
-+++
-heading     = "Quantum of Electricity"
-title       = "Electrons are Positive, Protons are Negative"
-date        = "2020-01-01"
-author      = "Juan"
-description = "In Superphysics, electrons have a positive or masculine charge while protons have a negative or feminine charge. This is in line with the male Yang and the female Yin"
-linkTitle   = "Electron are Positive"
-image      = "/photos/physics/light.jpg"
-categories  = ["Material Superphysics"]
-linkb = "/material/solutions/fusion"
-linkbtext = "Fusion"
-linkf = "/material/solutions/light-based-computing"
-linkftext = "light-based-computing"
-icon = "/icons/spmat.png"
-aliases = [
-  "articles/material/electrons-are-positive",
-  "/material/electrons-are-positive"
-]
-+++
+---
+heading: "Chapter 3"
+title: "Quantum of Electricity"
+# heading: Electromagnetism in Physics, Spreading through space
+date: 2020-01-29
+image: /photos/physics/light.jpg
+description: "In Superphysics, electrons have a positive or masculine charge while protons have a negative or feminine charge. This is in line with the male Yang and the female Yin"
+linkb: /material/principles/spatial
+linkbtext: Spacetime
+linkf: /material/principles/spin
+linkftext: Spin
+author: Juan
+icon: /icons/spmat.png
+aliases:
+  /articles/material/electrons-are-positive
+  /material/electrons-are-positive
+  /material/principles/radiant  
+---
 
 
 Have you wondered why negative ions make us feel positive, and positive ions make us feel negative? 

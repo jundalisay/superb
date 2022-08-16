@@ -3,7 +3,8 @@ title: "The Spatial Layer of Superphysics"
 heading: Spacetime and Gravitation
 date: 2020-01-31
 linkTitle: "Spatial Layer"
-image: /photos/physics/galaxy.jpg
+# image: /photos/physics/galaxy.jpg
+image: "/covers/spblack.jpg"
 description: "The spatial layer is the spacetime in Physics"
 linkb: /material/principles/aethereal-relativity
 linkbtext: Aethereal Relativity
@@ -12,6 +13,8 @@ linkftext: Radiant Layer
 author: Juan
 icon: /icons/spmat.png
 ---
+
+
 
 The spatial layer is below the aethereal. It leads to spacetime and sets the speed of light. 
 

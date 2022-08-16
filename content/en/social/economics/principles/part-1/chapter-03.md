@@ -2,7 +2,7 @@
 heading: "Chapter 3 "
 title: "Consumption Motive"
 date: 2020-04-07
-image: /photos/social/fam.jpg
+image: /photos/social/family.jpg
 description: "The Consumption Motive is the opposite of the Production Motive advocated by Capitalism and Mercantilism"
 linkb: /social/economics/principles/part-1/chapter-02
 linkbtext: "Chapter 2"
@@ -18,13 +18,13 @@ aliases:
 
 ## The Consumer is King
 
-The consumption or demand motive is one of the most important maxims of Adam Smith's economic system, aside from the [Effort Theory of Value](/social/economics/principles/effort-theory-of-value/). This maxim states that all economic activity is rooted in the people or the demanders in society and not in the producers or suppliers. 
+The consumption or demand motive is one of the most important maxims of Adam Smith's economic system, aside from the [Effort Theory of Value](/social/economics/principles/part-2/chapter-01b). This maxim states that all economic activity is rooted in the people or the demanders in society and not in the producers or suppliers. 
 
 This is easily seen in the concept of the human family which is the smallest and most common type of society. We see parents work to provide or produce food for their children who are their consumers. Humans do this by instinct because this is how our species has evolved to be so advanced over animals.
 
 <!-- > *This uses the dialectic defintion of society as a metaphysical organism. -->
 
-{{< img src="https://sorasystem.sirv.com/photos/family.jpg" alt="Happy Family" cap="The human species continues its lineage through the children" >}}
+{{< img src="/photos/social/family.jpg" alt="Happy Family" cap="The human species continues its lineage through the children" >}}
 
 
 This means that there were proto-humans that did not have the same mentality to provide for their children and so naturally became extinct. For example, they might have done the opposite and have eaten their children as a food source just like some animals species.

@@ -14,30 +14,40 @@ icon: /icons/pantry.png
 ---
 
 
-In 2017, we predicted that Masayoshi Son would be [the last capitalist](/social/economics/last-capitalist) because our model predicted a global economic crisis sparking in 2018, which would then create [a global stagflation by 2019](/social/supersociology/precrisis-years). 
+In 2017, we predicted that Masayoshi Son would be [the last capitalist](/social/economics/last-capitalist). This is because our model predicted a global economic crisis sparking in 2018, which would then create [a global stagflation by 2019](/social/supersociology/precrisis-years). 
 
 The crisis turned out to be Covid and the Russia-Ukraine war which caused the current global stagflation in 2022. 
 
-Though the stagflation is a few years late, it nevertheless gives us a chance to deploy our solution step by step, starting in 2022. The solution manifests as a moneyless Points-based system that is specifically built to counteract severe inflation and stagnation. 
+Though the stagflation is a few years late, it nevertheless gives us a chance to deploy our solution step by step, starting in 2022. The solution manifests as a **moneyless Points-based system** that is specifically built for severe inflation and stagnation. 
 
 
 ## Money is the Root of All Evil
 
 Moral philosophies from all countries unanimously agree that money is the root of all evil. However, none of them are able to explain why.
 
-We explain that this is because money is a finite, exact, number or quantity, but value is naturally infinite, non-exact and is more of a quality. Money is close-ended, but life itself is open-ended. 
+We explain that this is because money is a finite, exact, number or quantity. Value, however, is naturally infinite, non-exact, and is more of a quality. 
+- Money is close-ended
+- Life itself is open-ended
 
-A system that focuses on money will close out the infinite, subjective nature of existence. This leads to a system that **goes against nature**, manifesting as suffering via crashes, poverty, inequality, recessions, stagflation, etc. 
+A system that focuses on money will close out the infinite, subjective nature of life. This leads to a system that **goes against nature**, manifesting as suffering via crashes, poverty, inequality, recessions, stagflation, etc. 
 
-> *Our definition of bad or evil is anything that goes against its dharma or true nature as intended by its creator. A car that does not run is a bad car because its creator intended it to run. 
-
+<!-- > *Our definition of bad or evil is anything that goes against its dharma or true nature as intended by its creator. A car that does not run is a bad car because its creator intended it to run.  -->
 
 
 Imagine a mother charging a money-price to her children for every dinner that she cooks for them, putting them under a precise money-debt which gathers interest the longer they do not repay her. Such a mother would be regarded as cruel. 
 
+![Family](/photos/social/family.jpg)
+
 In reality, her cooking was sourced from her love for them, just as they are expected to love her back in non-exact or non-quantifiable ways. The imposition of an objective money-payment naturally kills that subjective feeling of love. 
 
-More commonly, this is similar to attending a live concert and watching it through your smartphone that you use to record the concert. The smartphone objectifies the event into a video file that you can watch later. Yet it also limits you from experiencing the concert in full. The natural way is to either watch the concert:
+
+More commonly, this is similar to attending a live concert and watching it through your smartphone that you use to record the concert. The smartphone objectifies the event into a video file that you can watch later. Yet it also limits you from experiencing the concert in full.
+
+
+{{< img src="/photos/social/audience.jpg" alt="Audience" cap="People can choose to watch a concert with their eyes or through their phones">}}
+
+
+The natural way is to either watch the concert:
 - at the venue without the smartphone, or
 - outside of the venue via a smartphone or video streaming.
 
@@ -67,9 +77,9 @@ Average | 7.5
 
 The changing points then plot the changing quality or quantity of the meals and serve as a record of actual meal-events. The mother can then fairly demand from her children to excel in their own tasks, such as in their chores or in grades in school, in exchange for the benefits that they get from her.
 
-Since the points are quantification of past events, their values do not inflate over time.  The system also requires its members to be tightly-knit, having common interest.  
+Since the points are quantification of past events, **their values do not inflate over time**.  The system also requires its members to be tightly-knit, having common interest.  
 
-An economic system based on points are therefore inflation-resistant and far less volatile than a money-based system. It also creates a tighter, more integrated, and responsive local economy that is organized into hubs and spokes. In our dinner example, the mother is the hub and the children are her spokes.  
+An economic system based on points is therefore **inflation-resistant and far less volatile than a money-based system**. It also creates a **tighter, more integrated, and responsive local economy** that is organized into hubs and spokes. In our dinner example, the mother is the hub and the children are her spokes.  
 
 The money system, on the contrary, is arbitrary, disorganized, and fragmented since it relies on selfish-interest instead of the common-interest. These qualities cause prices to rise and fall wildly, with economic damage spreading uncontrollably. This is beneficial for speculators who buy and sell things to take advantage of price movements, following the maxim of 'buy low, sell high'. 
 
@@ -117,7 +127,7 @@ The Points system thus builds fellow-feeling, Adam Smith's requirements in the T
 
 
 The use of debt and elimination of equity is evident in:
-- The Wealth of Nations where Adam Smith bashes the equity system and advocates the use of loans to serve as capital to build a factory<!--  can be sourced from loans from rich men who can live off of the interest of that money. -->
+- *The Wealth of Nations* where Adam Smith bashes the equity system and advocates the use of loans to serve as capital to build a factory<!--  can be sourced from loans from rich men who can live off of the interest of that money. -->
 - Socrates being in debt even up to his last breath
 
 {{< q a="smith" >}}
@@ -129,7 +139,9 @@ Such entrepreneurs may properly do most of their projects with money borrowed up
 
 
 {{< q a="Socrates" >}}
-Crito, I owe a cock to Asclepius. Will you remember to pay the debt? 
+[The man who gave him the poison looked at his feet and legs now and then. After a while, he pressed Socrates' foot hard, and asked him if he could feel. Socrates said, No. He repeated this with his leg, and so upwards and upwards. Socrates showed us that he was cold and stiff. He felt them himself, and said:]
+
+<p>When the poison reaches the heart, that will be the end. Crito, I owe a cock to Asclepius. Will you remember to pay the debt?</p>
 <cite>Phaedo Simplified, Chapter 10</cite>
 {{< /q >}}
 
@@ -186,7 +198,7 @@ Each country's Clearing Fund will be subdivided into different industries, with 
 
 Investors, such as the Arab sheik, can then park his money in a fund that he likes, in a country that he likes. If a country can define 1 million industries, then each can have its own fund. The sheik can then have 1 million investment options. 
 
-There is still a gaming element since not all funds will succeed equally, yet not all funds will fail unless the country is totally mismanaged. 
+There is still **a gaming element** since not all funds will succeed equally, yet not all funds will fail unless the country is totally mismanaged. 
 
 This will allow capital to spread over many industries in many countries and not just into a few blue-chip companies, as is common in the current system.  
 

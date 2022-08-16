@@ -10,7 +10,10 @@ linkbtext: Spin
 linkf: /material/principles/material
 linkftext: Material Layer
 author: Juan
+aliases:
+  /material/principles/radioactive
 ---
+
 
 
 The radioactive layer is the fourth layer in the universe. It downgrades the radiant energies and particles into material ones. 
