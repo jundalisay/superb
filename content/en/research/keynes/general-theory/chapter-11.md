@@ -1,14 +1,16 @@
-+++
-title= "The Marginal Efficiency of Capital"
-description= "the prospective yield of the investment"
-image= "/covers/general.jpg"
-date= 2020-01-19
-linkb= "/research/keynes/general-theory/chapter-10"
-linkbtext= "chapter-10"
-linkf= "/research/keynes/general-theory/chapter-12"
-linkftext= "chapter-12"
-icon= "/icons/keynes.png"
-+++
+---
+title: "The Marginal Efficiency of Capital"
+heading: "Chapter 11"
+image: "/covers/general.jpg"
+description: "The prospective yield of the investment"
+date: 2020-01-10
+linkb: "/research/keynes/general-theory/chapter-10c"
+linkbtext: "chapter-10c"
+linkf: "/research/keynes/general-theory/chapter-12"
+linkftext: "chapter-12"
+icon: "/icons/keynes.png"
+---
+
 
 
 When a man makes an investment, he buys the right to prospective returns.

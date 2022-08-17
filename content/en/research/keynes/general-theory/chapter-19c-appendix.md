@@ -2,7 +2,7 @@
 title: "Pigou’s Theory of Unemployment"
 description: "Pigou makes the volume of employment to depend on two factors--real wages and the demand for labor"
 image: "/covers/general.jpg"
-date: 2020-01-07
+date: 2019-12-26
 linkb: "/research/keynes/general-theory/chapter-19"
 linkbtext: "chapter-19"
 linkf: "/research/keynes/general-theory/chapter-20"
@@ -198,10 +198,12 @@ He has altogether omitted from his analysis the unstable factor, namely fluctuat
 
 ### Author’s Footnotes 
 
-1. The source of the fallacious practice of equating marginal wage-cost to marginal prime cost may, perhaps, be found in an ambiguity in the meaning of marginal wage-cost. 
+1. The source of the fallacious practice of equating marginal wage-cost to marginal prime cost can be found in an ambiguity in the meaning of marginal wage-cost.
 
 We might mean by it the cost of an additional unit except additional wage-cost; or we might mean the additional wage-cost involved in producing an additional unit of output in the most economical way with the help of the existing equipment and other unemployed factors. 
 
 In the former case we are precluded from combining with the additional labour any additional entrepreneurship or working capital or anything else other than labour which would add to the cost; and we are even precluded from allowing the additional labour to wear out the equipment any faster than the smaller labour force would have done. 
 
-Since in the former case we have forbidden any element of cost other than labour cost to enter into marginal prime-cost, it does, of course, follow that marginal wage-cost and marginal prime-cost are equal. But the results of an analysis conducted on this premiss have almost no application, since the assumption on which it is based is very seldom realised in practice. For we are not so foolish in practice as to refuse to associate with additional labour appropriate additions of other factors, in so far as they are available, and the assumption will, therefore, only apply if we assume that all the factors, other than labour, are already being employed to the utmost. 2. Op. Cit. p. 252. 3. There is no hint or suggestion that this comes about through reactions on the rate of interest. 
+Since in the former case we have forbidden any element of cost other than labour cost to enter into marginal prime-cost, it does, of course, follow that marginal wage-cost and marginal prime-cost are equal.
+
+But the results of an analysis conducted on this premiss have almost no application, since the assumption on which it is based is very seldom realised in practice. For we are not so foolish in practice as to refuse to associate with additional labour appropriate additions of other factors, in so far as they are available, and the assumption will, therefore, only apply if we assume that all the factors, other than labour, are already being employed to the utmost. 2. Op. Cit. p. 252. 3. There is no hint or suggestion that this comes about through reactions on the rate of interest. 

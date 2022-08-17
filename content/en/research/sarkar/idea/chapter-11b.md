@@ -59,6 +59,7 @@ The Prout principles are:
 
 5 June 1959, Jamalpur
 
+
 <!-- ## Footnotes
 
 (1) Unit selves, or jiivátmans, are derived from the Cosmic Self. See “Pratisaiṋcara and Manah” for a discussion of the reunion of the two. –Eds.

@@ -3,7 +3,7 @@ title: "Expectation Determines Output and Employment"
 heading: "Chapter 5"
 description: "Keynes explains Expectation as Determining Output and Employment"
 image: "/covers/general.jpg"
-date: 2020-01-31
+date: 2020-01-23
 linkb: "/research/keynes/general-theory/chapter-04"
 linkbtext: "Chapter 4"
 linkf: "/research/keynes/general-theory/chapter-06"

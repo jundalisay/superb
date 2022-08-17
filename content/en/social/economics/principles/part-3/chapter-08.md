@@ -15,6 +15,14 @@ aliases:
   /social/economics/principles/interest
 ---
 
+In the earlier chapters, we explained that the flaws in money:
+- it becomes a single point of failure when money stops circulating
+- it only shows quantitative information and has no qualitative information 
+
+We solved the shortcomings of money by introducing moneyless points which allow trade or donations in kind without needing immediate bilateral exchange. 
+
+The Modern Economic Table is 
+
 
 
 ## Interest Rates and the GR Model

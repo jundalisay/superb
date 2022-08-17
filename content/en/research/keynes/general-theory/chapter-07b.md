@@ -3,7 +3,7 @@ heading: "Chapter 7b"
 title: "Forced Saving"
 description: "My Treatise on Money suggested that they bore some affinity to the difference between investment and “saving” in the sense in which I there used the latter term"
 image: "/covers/general.jpg"
-date: 2020-01-31
+date: 2020-01-18
 linkb: "/research/keynes/general-theory/chapter-05"
 linkbtext: "Chapter 7appendix"
 linkf: "/research/keynes/general-theory/chapter-07"

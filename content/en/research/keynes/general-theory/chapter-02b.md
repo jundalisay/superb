@@ -3,7 +3,7 @@ heading: "Chapter 2b"
 title: "Money Wages versus Real Wages"
 description: "Keynes continues his corruption of Classical theory by arguing for the dominance of money wages over real wages"
 image: "/covers/general.jpg"
-date: 2020-01-31
+date: 2020-01-30
 linkb: "/research/keynes/general-theory/chapter-02"
 linkbtext: "Chapter 2"
 linkf: "/research/keynes/general-theory/chapter-02c"

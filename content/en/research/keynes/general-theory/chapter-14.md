@@ -1,18 +1,16 @@
-+++
-title= "The Classical Rate of Interest"
-description= "Keynes counters the classical interest rate"
-image= "/covers/general.jpg"
-date= 2020-01-15
-linkb= "/research/keynes/general-theory/chapter-13"
-linkbtext= "chapter-13"
-linkf= "/research/keynes/general-theory/chapter-14appendix"
-linkftext= "chapter-14 appendix"
-icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "The Classical Rate of Interest"
+heading: "Chapter 14"
+image: "/covers/general.jpg"
+description: "Keynes counters the classical interest rate"
+date: 2020-01-10
+linkb: "/research/keynes/general-theory/chapter-13b"
+linkbtext: "chapter-13b"
+linkf: "/research/keynes/general-theory/chapter-14appendix"
+linkftext: "chapter-14 appendix"
+icon: "/icons/keynes.png"
+---
 
-## 1
 
 Investment is the use of assets (circulating or fixed) to earn profits.
 - Interest is the revenue from lending those circulating assets to someone else for them to earn a profit from.
@@ -129,19 +127,90 @@ The mistake originates from regarding interest as the reward for waiting as such
 
 In the first place, it has been agreed, at any rate since the publication of Professor Cassel’s Nature and Necessity of Interest, that it is not certain that the sum saved out of a given income necessarily increases when the rate of interest is increased; whereas no one doubts that the investment demand-schedule falls with a rising rate of interest. But if the Y-curves and the X-curves both fall as the rate of interest rises, there is no guarantee that a given Y-curve will intersect a given X-curve anywhere at all. This suggests that it cannot be the Y-curve and the X-curve alone which determine the rate of interest. In the second place, it has been usual to suppose that an increase in the quantity of money has a tendency to reduce the rate of interest, at any rate in the first instance and in the short period. Yet no reason has been given why a change in the quantity of money should affect either the investment demand-schedule or the readiness to save out of a given income. 
 
-Thus the classical school have had quite a different theory of the rate of interest in Volume I. dealing with the theory of value from what they have had in Volume 2 dealing with the theory of money. They have seemed undisturbed by the conflict and have made no attempt, so far as I know, to build a bridge between the two theories. The classical school proper, that is to say; since it is the attempt to build a bridge on the part of the neo-classical school which has led to the worst muddles of all. For the latter have inferred that there must be two sources of supply to meet the investment demand-schedule; namely, savings proper, which are the savings dealt with by the classical school, plus the sum made available by any increase in the quantity of money (this being balanced by some species of levy on the public, called “forced saving” or the like). 
+Thus, the classical school had a different theory of interest rate in Volume 1
+- They dealt with the theory of value from what they have had in Volume 2 dealing with the theory of money.
 
-This leads on to the idea that there is a “natural” or “neutral”[6] or “equilibrium” rate of interest, namely, that rate of interest which equates investment to classical savings proper without any addition from “forced savings”; and finally to what, assuming they are on the right track at the start, is the most obvious solution of all, namely, that, if the quantity of money could only be kept constant in all circumstances, none of these complications would arise, since the evils supposed to result from the supposed excess of investment over savings proper would cease to be possible. But at this point we are in deep water. 
+They have seemed undisturbed by the conflict and have made no attempt to build a bridge between the two theories. 
 
-“The wild duck has dived down to the bottom — as deep as she can get — and bitten fast hold of the weed and tangle and all the rubbish that is down there, and it would need an extraordinarily clever dog to dive after and fish her up again.” Thus the traditional analysis is faulty because it has failed to isolate correctly the independent variables of the system. Saving and Investment are the determinates of the system, not the determinants. They are the twin results of the system’s determinants, namely, the propensity to consume, the schedule of the marginal efficiency of capital and the rate of interest. These determinants are, indeed, themselves complex and each is capable of being affected by prospective changes in the others. 
+The classical school proper, that is to say; since it is the attempt to build a bridge on the part of the neo-classical school which has led to the worst muddles of all. 
 
-But they remain independent in the sense that their values cannot be inferred from one another. The traditional analysis has been aware that saving depends on income but it has overlooked the fact that income depends on investment, in such fashion that, when investment changes, income must necessarily change in just that degree which is necessary to make the change in saving equal to the change in investment. Nor are those theories more successful which attempt to make the rate of interest depend on “the marginal efficiency of capital”. 
+The latter inferred that there are 2 sources of supply to meet the investment demand curve:
+- savings proper, which are the savings dealt with by the classical school, 
+- plus the sum made available by any increase in the quantity of money (this being balanced by some species of levy on the public, called “forced saving” or the like). 
+
+This leads on to the idea that there is a “natural” or “neutral”[6] or “equilibrium”  interest rate. 
+- The interest rate which equates investment to classical savings proper without any addition from “forced savings”
+
+ and finally to what, assuming they are on the right track at the start, is the most obvious solution of all, namely, that, if the quantity of money could only be kept constant in all circumstances, none of these complications would arise, since the evils supposed to result from the supposed excess of investment over savings proper would cease to be possible. <!-- But at this point we are in deep water. --> 
+
+<!-- “The wild duck has dived down to the bottom — as deep as she can get — and bitten fast hold of the weed and tangle and all the rubbish that is down there, and it would need an extraordinarily clever dog to dive after and fish her up again.”  -->
+
+The traditional analysis is faulty because it has failed to isolate correctly the independent variables of the system. 
 
 
-It is true that in equilibrium the rate of interest will be equal to the marginal efficiency of capital, since it will be profitable to increase (or decrease) the current scale of investment until the point of equality has been reached. But to make this into a theory of the rate of interest or to derive the rate of interest from it involves a circular argument, as Marshall discovered after he had got half-way into giving an account of the rate of interest along these lines.[8] For the “marginal efficiency of capital” partly depends on the scale of current investment, and we must already know the rate of interest before we can calculate what this scale will be. The significant conclusion is that the output of new investment will be pushed to the point at which the marginal efficiency of capital becomes equal to the rate of interest; and what the schedule of the marginal efficiency of capital tells us, is, not what the rate of interest is, but the point to which the output of new investment will be pushed, given the rate of interest. 
+The determinates of the economic system are:
+- Saving 
+- Investment
+
+<!-- They are not the determinants.  --> They are the effects of the determinants: 
+- the propensity to consume
+- the marginal efficiency of capital curve
+- the interest rate. 
+
+These determinants are themselves complex. Each is affected by prospective changes in the others. 
+
+But they remain independent in the sense that their values cannot be inferred from one another. 
+
+The traditional analysis has been aware that saving depends on income. 
+- But it has overlooked the fact that income depends on investment. 
+
+When investment changes, income must necessarily change in a degree necessary to make the change in saving equal to the change in investment.
+
+Those [classical] theories are not successful in making the interest rate depend on “the marginal efficiency of capital”. 
+
+In equilibrium, the interest rate will be equal to the marginal efficiency of capital. 
+- This is because it will be profitable to increase (or decrease) the current scale of investment until the point of equality has been reached. 
+
+But to make this into a theory of interest rates or to derive the interest rate from it involves a circular argument, as Marshall discovered. 
+
+ <!-- after he had got half-way into giving an account of the rate of interest along these lines.[8]  -->
+
+This is because the “marginal efficiency of capital” partly depends on the scale of current investment. 
+
+We must already know the interest rate before we can calculate what this scale will be. 
+
+The <!-- significant conclusion --> means that the output of new investment will be pushed to the point at which the marginal efficiency of capital becomes equal to the interest rate. 
+
+The marginal efficiency of capital curve tells us the point where the output of new investment will be pushed, given the interest rate.
+- It does not tell us what the interest rate is
 
 This has the most fundamental theoretical and practical significance. 
 
-For the economic principle, on which the practical advice of economists has been almost invariably based, has assumed, in effect, that, cet. par., a decrease in spending will tend to lower the rate of interest and an increase in investment to raise it. 
+Previously, <!-- For the economic principle, on which the practical advice of economists has been almost invariably based, --> economists assumed that: <!-- , in effect, that, cet. par., --> 
+- a decrease in spending will lower the interest rate 
+- an increase in investment to raise it. 
 
-But if what these two quantities determine is, not the rate of interest, but the aggregate volume of employment, then our outlook on the mechanism of the economic system will be profoundly changed. A decreased readiness to spend will be looked on in quite a different light if, instead of being regarded as a factor which will, cet. par., increase investment, it is seen as a factor which will, cet. par., diminish employment. Author’s Footnotes 1. See the Appendix to this Chapter for an abstract of what I have been able to find. 2. Cf. Appendix p. 186 below for a further discussion of this passage. 3. Prof. Carver’s discussion of Interest is difficult to follow (1) through his inconsistency as to whether he means by “marginal productivity of capital” quantity of marginal product or value of marginal product, and (2) through his making no attempt to define quantity of capital. 4. In a very recent discussion of these problems (“Capital, Time and the Interest Rate”, by Prof. F. H. Knight, Economica, August 1932), a discussion which contains many interesting and profound observations on the nature of capital, and confirms the soundness of the Marshallian tradition as to the uselessness of the Böhm-Bawerkian analysis, the theory of interest is given precisely in the traditional, classical mould. Equilibrium in the field of capital production means, according to Prof. Knight, “such a rate of interest that savings flow into the market at precisely the same time-rate or speed as they flow into investment producing the same net rate of return as that which is paid savers for their use”. 5. This diagram was suggested to me by Mr. R. F. Harrod. Cf. also a partly similar schematism by Mr. D. H. Robertson, Economic Journal, December 1934, p. 652. 6. Cf. Chapter 17 below. 7. The “neutral” rate of interest of contemporary economists is different both from the “natural” rate of Böhm-Bawerk and from the “natural” rate of Wicksell. 8. See the Appendix to this Chapter. Contents | Appendex to Chapter 14 | Keynes Archive 
+But these 2 quantities determine the aggregate volume of employment, not the interest rate.  
+- This changes our outlook on the mechanism of the economic system
+
+A decreased readiness to spend will be looked on in quite a different light if, instead of being regarded as a factor which will, cet. par., increase investment, it is seen as a factor which will, cet. par., diminish employment. 
+
+
+
+## Author’s Footnotes 
+
+1. See the Appendix to this Chapter for an abstract of what I have been able to find. 
+
+2. Cf. Appendix p. 186 below for a further discussion of this passage. 
+
+3. Prof. Carver’s discussion of Interest is difficult to follow (1) through his inconsistency as to whether he means by “marginal productivity of capital” quantity of marginal product or value of marginal product, and (2) through his making no attempt to define quantity of capital.
+
+4. In a very recent discussion of these problems (“Capital, Time and the Interest Rate”, by Prof. F. H. Knight, Economica, August 1932), a discussion which contains many interesting and profound observations on the nature of capital, and confirms the soundness of the Marshallian tradition as to the uselessness of the Böhm-Bawerkian analysis, the theory of interest is given precisely in the traditional, classical mould. 
+
+Equilibrium in the field of capital production means, according to Prof. Knight, “such a rate of interest that savings flow into the market at precisely the same time-rate or speed as they flow into investment producing the same net rate of return as that which is paid savers for their use”. 
+
+5. This diagram was suggested to me by Mr. R. F. Harrod. Cf. also a partly similar schematism by Mr. D. H. Robertson, Economic Journal, December 1934, p. 652. 6. Cf. Chapter 17 below. 
+
+7. The “neutral” rate of interest of contemporary economists is different both from the “natural” rate of Böhm-Bawerk and from the “natural” rate of Wicksell. 
+
+8. See the Appendix to this Chapter

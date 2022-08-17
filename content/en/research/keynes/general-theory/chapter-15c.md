@@ -3,7 +3,7 @@ heading: "Chapter 15c"
 title: "The Control of Interest Rates"
 description: "In any given state of expectation, a fall in `r` will be associated with an increase in `M2`"
 image: "/covers/general.jpg"
-date: 2020-01-31
+date: 2020-01-01
 linkb: "/research/keynes/general-theory/chapter-02c"
 linkbtext: "Chapter 2c"
 linkf: "/research/keynes/general-theory/chapter-04"
@@ -168,7 +168,7 @@ For in this case, O being constant and M2 being zero, it follows, if we can take
 
 --- 
 
-Author’s Footnotes
+## Author’s Footnotes
 
 1. We must postpone to Book V. the question of what will determine the character of the new equilibrium.
 

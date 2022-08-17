@@ -1,19 +1,20 @@
-+++
-title= "The Liquidity Preference"
-description= "Liquidity preference is divided into the need for cash, the need to be secure with cash, and the speculation for more cash" 
-image= "/covers/general.jpg"
-date= 2020-01-16
-linkb= "/research/keynes/general-theory/chapter-13"
-linkbtext= "chapter-13"
-linkf= "/research/keynes/general-theory/chapter-14"
-linkftext= "chapter-14"
-icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "The Liquidity Preference"
+heading: "Chapter 13b"
+image: "/covers/general.jpg"
+description: "Liquidity preference is divided into the need for cash, the need to be secure with cash, and the speculation for more cash"
+date: 2020-01-10
+linkb: "/research/keynes/general-theory/chapter-13"
+linkbtext: "chapter-13"
+linkf: "/research/keynes/general-theory/chapter-14"
+linkftext: "chapter-14"
+icon: "/icons/keynes.png"
+---
 
 
-The three divisions of the love for future cash <!-- liquidity-preference --> depend on:
+
+
+The 3 divisions of the love for future cash <!-- liquidity-preference --> depend on:
 - the transactions-motive, i.e. the need of cash
 - the precautionary-motive as the desire for security as to the future cash equivalent
 - the speculative-motive, i.e. the object of securing profit from knowing better than the market what will the future be

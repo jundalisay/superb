@@ -2,7 +2,7 @@
 title: "The Six Objective Factors of the Propensity to Consume"
 heading: "Chapter 8b"
 image: "/covers/general.jpg"
-date: 2020-01-13
+date: 2020-01-15
 linkb: "/research/keynes/general-theory/chapter-07appendix"
 linkbtext: "chapter-7 appendix"
 linkf: "/research/keynes/general-theory/chapter-09"

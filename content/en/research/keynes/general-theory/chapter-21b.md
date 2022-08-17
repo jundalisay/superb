@@ -1,122 +1,105 @@
-+++
-title= "The Theory of Prices"
-description= "The Theory of Value has traditionally been based on supply and demand, particularly in changes in marginal cost and the elasticity of short-period supply"
-image= "/covers/general.jpg"
-date= 2020-01-05
-author= "John Maynard Keynes"
-linkb= "/research/keynes/general-theory/chapter-21"
-linkbtext= "chapter-21"
-linkf= "/research/keynes/general-theory/chapter-22"
-linkftext= "chapter-22"
-icon= "/avatars/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "Changes in the Quantity of Money"
+heading: "Chapter 21b"
+description: ""
+image: "/covers/general.jpg"
+date: 2020-01-31
+linkb: "/research/keynes/general-theory/chapter-21"
+linkbtext: "chapter-21"
+linkf: "/research/keynes/general-theory/chapter-21c"
+linkftext: "chapter-21c"
+icon: "/icons/keynes.png"
+---
 
 
-## Section 5
+(i) Changes in the quantity of money primarily affect effective demand through its influence on the interest rate.
+  
+If this were the only reaction, the quantitative effect could be derived from the 3 elements:
 
-True inflation happens when a further increase in effective demand produces no increase in output. Instead the demand raises the cost-unit proportional to the increase in effective demand.
+1. The liquidity-preference curve
 
-Up to this point, the effect of monetary expansion is entirely a question of degree, and there is no previous point at which we can draw a definite line and declare that conditions of inflation have set in. 
+This tells us by how much the interest rate will have to fall in order that the new money may be absorbed by willing holders
 
-Every previous increase in the quantity of money is likely, in so far as it increases effective demand, to spend itself partly in increasing the cost-unit and partly in increasing output.
+2. The marginal efficiencies curve
 
-Thus, we have an asymmetry on the two sides of the critical level above which true inflation sets in. For a contraction of effective demand below the critical level will reduce its amount measured in cost-units; whereas an expansion of effective demand beyond this level will not, in general, have the effect of increasing its amount in terms of cost-units. 
+This tells us by how much a given fall in the interest rate will increase investment
 
-This result follows from the assumption that the factors of production, and in particular the workers, are disposed to resist a reduction in their money-rewards, and that there is no corresponding motive to resist an increase. 
+3. The investment multiplier 
 
-This assumption is, however, obviously well founded in the facts, due to the circumstance that a change, which is not an all-round change, is beneficial to the special factors affected when it is upward and harmful when it is downward.
+This tells us by how much a given increase in investment will increase effective demand as a whole.
 
-If, on the contrary, money-wages were to fall without limit whenever there was a tendency for less than full employment, the asymmetry would, indeed, disappear. But in that case there would be no resting-place below full employment until either the rate of interest was incapable of falling further or wages were zero. In fact we must have some factor, the value of which in terms of money is, if not fixed, at least sticky, to give us any stability of values in a monetary system.
+Those 3 elements are themselves partly dependent on the following complicating factors:
 
-The view that any increase in the quantity of money is inflationary (unless we mean by inflationary merely that prices are rising) is bound up with the underlying assumption of the classical theory that we are always in a condition where a reduction in the real rewards of the factors of production will lead to a curtailment in their supply.
+2. Since resources are not homogeneous, there will be diminishing, and not constant, returns as employment gradually increases.
+3. Since resources are not interchangeable, some commodities will reach a condition of inelastic supply whilst there are still unemployed resources available for the production of other commodities.
+4. The wage-unit will tend to rise, before full employment has been reached.
+5. The remunerations of the factors entering into marginal cost will not all change in the same proportion.
 
+<!--  (2), (3), (4) and (5). -->
 
-## Section 6
+The liquidity-preference curve depends on how much of the new money is absorbed into the income and industrial circulations.
 
-With the aid of the notation introduced in Chapter 20 we can, if we wish, express the substance of the above in symbolic form.
+This depends in turn on how much effective demand increases and how the increase is divided between 
+- the rise of prices, 
+- the rise of wages, and
+- the volume of output and employment. 
 
-Assuming `MV = D`
+The marginal efficiencies curve will partly depend on the effect which the circumstances attendant on the increase in the quantity of money have on expectations of the future monetary prospects. 
 
-- M is the quantity of money
-- V is its income-velocity (this definition differing in the minor respects indicated above from the usual definition) 
-- D the effective demand
+The multiplier will be influenced by the way in which the new income resulting from the increased effective demand is distributed between different classes of consumers.
 
-If, then, V is constant, prices will change in the same proportion as the quantity of money provided that ep ( = Ddp/pdD), is unity. This condition is satisfied (see Chapter 20 §I above) if eo = 0 or if ew = 1. 
+Nor, of course, is this list of possible interactions complete. Nevertheless, if we have all the facts before us, we shall have enough simultaneous equations to give us a determinate result. There will be a determinate amount of increase in the quantity of effective demand which, after taking everything into account, will correspond to, and be in equilibrium with, the increase in the quantity of money. 
 
-The condition `ew = 1` means that the wage-unit in terms of money rises in the same proportion as the effective demand, since `ew = DdW/WdD` and the condition eo = 0 means that output no longer shows any response to a further increase in effective demand, since eo = DdO/OdD. Output in either case will be unaltered.
+Moreover, it is only in highly exceptional circumstances that an increase in the quantity of money will be associated with a decrease in the quantity of effective demand.
 
-Next, we can deal with the case where income-velocity is not constant, by introducing yet a further elasticity, namely the elasticity, of effective demand in response to changes in the quantity of money,
+The ratio between the quantity of effective demand and the quantity of money closely corresponds to what is often called the “income-velocity of money”; — except that effective demand corresponds to the income the expectation of which has set production moving, not to the actually realised income, and to gross, not net, income. 
 
-`ed = MdD/DdM`
+But the “income-velocity of money” is, in itself, merely a name which explains nothing. There is no reason to expect that it will be constant. For it depends, as the foregoing discussion has shown, on many complex and variable factors. The use of this term obscures, I think, the real character of the causation, and has led to nothing but confusion.
 
-This gives us:
+2. Chapter 4 showed the distinction between diminishing and constant returns partly depends on whether workers are remunerated in strict proportion to their efficiency. 
 
-`Mdp/pdM = ep.ed where ep = 1 - ee.eo (1 - ew)`
+If so, we shall have constant labour-costs (in terms of the wage-unit) when employment increases. But if the wage of a given grade of labourers is uniform irrespective of the efficiency of the individuals, we shall have rising labour-costs, irrespective of the efficiency of the equipment. Moreover, if equipment is non-homogeneous and some part of it involves a greater prime cost per unit of output, we shall have increasing marginal prime costs over and above any increase due to increasing labour-costs.
 
-so that:
+Hence, in general, supply price will increase as output from a given equipment is increased. Thus increasing output will be associated with rising prices, apart from any change in the wage-unit.
 
-```elixir
-e = ed - (1 - ew)ed . ee.eo
+3. Under (2) we have been contemplating the possibility of supply being imperfectly elastic. If there is a perfect balance in the respective quantities of specialised unemployed resources, the point of full employment will be reached for all of them simultaneously. 
 
-= ed (1 - ee. eo + ee.eo.ew)
-```
+But, in general, the demand for some services and commodities will reach a level beyond which their supply is, for the time being, perfectly inelastic, whilst in other directions there is still a substantial surplus of resources without employment. Thus as output increases, a series of “bottlenecks” will be successively reached, where the supply of particular commodities ceases to be elastic and their prices have to rise to whatever level is necessary to divert demand into other directions.
 
-where e without suffix ( = Mdp/pdM) stands for the apex of this pyramid and measures the response of money-prices to changes in the quantity of money.
+It is probable that the general level of prices will not rise very much as output increases, so long as there are available efficient unemployed resources of every type. But as soon as output has increased sufficiently to begin to reach the “bottlenecks”, there is likely to be a sharp rise in the prices of certain commodities.
 
-Since this last expression gives us the proportionate change in prices in response to a change in the quantity of money, it can be regarded as a generalised statement of the Quantity Theory of Money. I do not myself attach much value to manipulations of this kind
+Under this heading, however, as also under heading (2), the elasticity of supply partly depends on the elapse of time. If we assume a sufficient interval for the quantity of equipment itself to change, the elasticities of supply will be decidedly greater eventually. 
 
-I warn again that they involve just as much tacit assumption as to what variables are taken as independent (partial differentials being ignored throughout) as does ordinary discourse, whilst I doubt if they carry us any further than ordinary discourse can. Perhaps the best purpose served by writing them down is to exhibit the extreme complexity of the relationship between prices and the quantity of money, when we attempt to express it in a formal manner. 
-
-Of the four terms ed, ew, ee and eo upon which the effect on prices of changes in the quantity of money depends, 
-
-`ed` is the liquidity factors which determine the demand for money in each situation
-`ew` is the labour factors (or, more strictly, the factors entering into prime-cost) which determine the extent to which money-wages are raised as employment increases
-`ee` and `eo` are the physical factors which determine the rate of decreasing returns as more employment is applied to the existing equipment.
-
-If the public hold a constant proportion of their income in money, ed = 1; if money-wages are fixed, ew = 0; if there are constant returns throughout so that marginal return equals average return, eeeo = 1; and if there is full employment either of labour or of equipment, eeeo = 0.
-
-Now `e = 1`, if `ed = 1` and `ew = 1`; or if `ed = 1`, `ew = 0` and `ee.eo = 1`; or if `ed = 1` and `eo = 0`. 
-
-There is a variety of other special cases in which `e = 1`. But in general e is not unity; and it is, perhaps, safe to make the generalisation that on plausible assumptions relating to the real world, and excluding the case of a “flight from the currency” in which ed and ew become large, e is, as a rule, less than unity.
+Thus, a moderate change in effective demand caused by widespread unemployment may spend itself very little in raising prices and mainly in increasing employment; whilst a larger change, which, being unforeseen, causes some temporary “bottle-necks” to be reached, will spend itself in raising prices, as distinct from employment, to a greater extent at first than subsequently.
 
 
-### Section 7
+4. The wage-unit may tend to rise before full employment has been reached, requires little comment or explanation. Since each group of workers will gain, cet. par., by a rise in its own wages, there is naturally for all groups a pressure in this direction, which entrepreneurs will be more ready to meet when they are doing better business. 
 
-In the long run is there not some simpler relationship?
+For this reason a proportion of any increase in effective demand is likely to be absorbed in satisfying the upward tendency of the wage-unit.
 
-If there is some tendency to a measure of long-run uniformity in the state of liquidity-preference, there may well be some sort of rough relationship between the national income and the quantity of money required to satisfy liquidity-preference, taken as a mean over periods of pessimism and optimism together. 
+At full employment, money-wages have to rise due to an increasing effective demand in terms of money. This is proportional to inflation. Thus, we have a succession of earlier semi-critical points where an increasing effective demand raises money-wages though not fully proportional to inflation. This is the same in the case of a decreasing effective demand. 
 
-There may be, for example, some fairly stable proportion of the national income more than which People will not readily keep in the shape of idle balances or long periods together, provided the rate of interest exceeds a certain psychological minimum; so that if the quantity of money beyond what is required in the active circulation is in excess of this proportion of the national income, there will be a tendency sooner or later for the rate of interest to fall to the neighbourhood of this minimum. 
+Actually, the wage-unit changes non-continuously in terms of money in response to every small change in effective demand. These points of discontinuity are determined by:
+- the psychology of the workers and
+- the policies of employers and trade unions.
+    
+In an open system, where they mean a change relatively to wage-costs elsewhere, and in a trade cycle, where even in a closed system they may mean a change relatively to expected wage-costs in the future, they can be of considerable practical significance. 
 
-The falling rate of interest will then, cet. par., increase effective demand, and the increasing effective demand will reach one or more of the semi-critical points at which the wage-unit will tend to show a discontinuous rise, with a corresponding effect on prices. The opposite tendencies will set in if the quantity of surplus money is an abnormally low proportion of the national income. Thus the net effect of fluctuations over a period of time will be to establish a mean figure in conformity with the stable proportion between the national income and the quantity of money to which the psychology of the public tends sooner or later to revert.
+These points, where a further increase in effective demand in terms of money is liable to cause a discontinuous rise in the wage-unit, might be deemed, from a certain point of view, to be positions of semi-inflation, having some analogy (though a very imperfect one) to the absolute inflation (cf. Section V below) which ensues on an increase in effective demand in circumstances of full employment. They have, moreover, a good deal of historical importance. 
 
-These tendencies will probably work with less friction in the upward than in the downward direction. But if the quantity of money remains very deficient for a long time, the escape will be normally found in changing the monetary standard or the monetary system so as to raise the quantity of money, rather than in forcing down the wage-unit and thereby increasing the burden of debt. Thus the very long-run course of prices has almost always been upward. For when money is relatively abundant, the wage-unit rises; and when money is relatively scarce, some means is found to increase the effective quantity of money.
-
-During the nineteenth century, the growth of population and of invention, the opening-up of new lands, the state of confidence and the frequency of war over the average of (say) each decade seem to have been sufficient, taken in conjunction with the propensity to consume, to establish a schedule of the marginal efficiency of capital which allowed a reasonably satisfactory average level of employment to be compatible with a rate of interest high enough to be psychologically acceptable to wealth-owners. 
-
-There is evidence that for a period of almost one hundred and fifty years the long-run typical rate of interest in the leading financial centres was about 5 pet cent., and the gilt-edged rate between 3 and 3.5% and that these rates of interest were modest enough to encourage a rate of investment consistent with an average of employment which was not intolerably low. 
-
-Sometimes the wage-unit, but more often the monetary standard or the monetary system (in particular through the development of bank-money), would be adjusted so as to ensure that the quantity of money in terms of wage-units was sufficient to satisfy normal liquidity-preference at rates of interest which were seldom much below the standard rates indicated above. 
-
-The tendency of the wage-unit was, as usual, steadily upwards on the whole, but the efficiency of labour was also increasing. Thus the balance of forces was such as to allow a fair measure of stability of prices; — the highest quinquennial average for Sauerbeck’s index number between 1820 and 1914 was only 50 per cent. above the lowest. This was not accidental. 
-
-It is rightly described as due to a balance of forces in an age when individual groups of employers were strong enough to prevent the wage-unit from rising much faster than the efficiency of production, and when monetary systems were at the same time sufficiently fluid and sufficiently conservative to provide an average supply of money in terms of wage-units which allowed to prevail the lowest average rate of interest readily acceptable by wealth-owners under the influence of their liquidity-preferences. The average level of employment was, of course, substantially below full employment, but not so intolerably below it as to provoke revolutionary changes.
-
-To-day and presumably for the future the schedule of the marginal efficiency of capital is, for a variety of reasons, much lower than it was in the nineteenth century. The acuteness and the peculiarity of our contemporary problem arises, therefore, out of the possibility that the average rate of interest which will allow a reasonable average level of employment is one so unacceptable to wealth-owners that it cannot be readily established merely by manipulating the quantity of money. So long as a tolerable level of employment could be attained on the average of one or two or three decades merely by assuring an adequate supply of money in terms of wage-units, even the nineteenth century could find a way. If this was our only problem now — if a sufficient degree of devaluation is all we need — we, to-day, would certainly find a way.
-
-But the most stable, and the least easily shifted, element in our contemporary economy has been hitherto, and may prove to be in future, the minimum rate of interest acceptable to the generality of wealth-owners.[2] If a tolerable level of employment requires a rate of interest much below the average rates which ruled in the nineteenth century, it is most doubtful whether it can be achieved merely by manipulating the quantity of money. From the percentage gain, which the schedule of marginal efficiency of capital allows the borrower to expect to earn, there has to be deducted 
-
-1. The cost of bringing borrowers and lenders together, 
-
-2. Income and surtaxes and (3) the allowance which the lender requires to cover his risk and uncertainty, before we arrive at the net yield available to tempt the wealth-owner to sacrifice his liquidity. If, in conditions of tolerable average employment, this net yield turns out to be infinitesimal, time-honoured methods may prove unavailing.
-
-To return to our immediate subject, the long-run relationship between the national income and the quantity of money will depend on liquidity-preferences. And the long-run stability or instability of prices will depend on the strength of the upward trend or the wage-unit (or, more precisely, of the cost-unit) compared with the rate of increase in the efficiency of the productive system.
+But they do not readily lend themselves to theoretical generalisations.
 
 
-### Author’s Footnotes
+5. Our first simplification consisted in assuming that the remunerations of the various factors entering into marginal cost all change in the same proportion. 
 
-1. Cf. Chapter 17 above.
+But in fact the rates of remuneration of different factors in terms of money will show varying degrees of rigidity and they may also have different elasticities of supply in response to changes in the money-rewards offered. If it were not for this, we could say that the price-level is compounded of two factors, the wage-unit and the quantity of employment.
 
-2. Cf. the nineteenth-century saying, quoted by Bagehot, that “John Bull can stand many things, but he cannot stand 2 per cent.”
+Perhaps the most important element in marginal cost which is likely to change in a different proportion from the wage-unit, and also to fluctuate within much wider limits, is marginal user cost. 
+
+For marginal user cost may increase sharply when employment begins to improve, if (as will probably be the case) the increasing effective demand brings a rapid change in the prevailing expectation as to the date when the replacement of equipment will be necessary.
+
+Whilst it is for many purposes a very useful first approximation to assume that the rewards of all the factors entering into marginal prime-cost change in the same proportion as the wage-unit, it might be better, perhaps, to take a weighted average of the rewards of the factors entering into marginal prime-cost, and call this the cost-unit. 
+
+The cost-unit, or, subject to the above approximation, the wage-unit, can thus be regarded as the essential standard of value; and the price-level, given the state of technique and equipment, will depend partly on the cost-unit and partly on the scale of output, increasing, where output increases, more than in proportion to any increase in the cost-unit, in accordance with the principle of diminishing returns in the short period. 
+
+We have full employment when output has risen to a level at which the marginal return from a representative unit of the factors of production has fallen to the minimum figure at which a quantity of the factors sufficient to produce this output is available.

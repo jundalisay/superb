@@ -1,3 +1,14 @@
+---
+title: "Mercantilism, Usury Laws, Stamped Money, Under-Consumption Theories"
+description: "For 200 years, people saw a national advantage in a favourable balance of trade, and grave danger in an unfavourable balance, particularly if it results in an efflux of the precious metals"
+image: "/covers/general.jpg"
+date: 2019-12-15
+linkb: "/research/keynes/general-theory/chapter-22"
+linkbtext: "chapter-22"
+linkf: "/research/keynes/general-theory/chapter-24"
+linkftext: "chapter-24"
+---
+
 III 
 
 <!-- The early pioneers of economic thinking may have hit upon their maxims of practical wisdom without having had much cognisance of the underlying theoretical grounds. Let us, therefore, examine briefly the reasons they gave as well as what they recommended. This is made easy by reference to  -->

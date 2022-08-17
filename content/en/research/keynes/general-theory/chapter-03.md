@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "The Principle of Effective Demand"
 description: "Output minus factor cost equals profit or entrepreneur's income"
 image: "/covers/general.jpg"
-date: 2020-01-31
+date: 2020-01-28
 linkb: "/research/keynes/general-theory/chapter-02c"
 linkbtext: "Chapter 2c"
 linkf: "/research/keynes/general-theory/chapter-04"
@@ -12,78 +12,124 @@ icon: "/icons/keynes.png"
 ---
 
 
-Based on resources and costs, the employment of a given volume of labour by an entrepreneur involves him in two kinds of expense:
+An entrepreneur has 2 kinds of expenses based on employment: 
+<!-- Based on resources and costs, the employment of a given volume of labour by an entrepreneur involves him in two kinds of expense: -->
 
-1. His payments for the factors of production (exclusive of other entrepreneurs) for their current services, which we shall call the factor cost of the employment in question
+1. The Factor Cost
 
-2. His payments to other entrepreneurs for purchases
+These are his payments for the factors of production, exclusive of other entrepreneurs. 
+
+This is the income of his workers.
+
+2. His payments to suppliers <!-- other entrepreneurs for purchases -->
 
 <!-- what he has to purchase from them together with the sacrifice which he incurs by employing the equipment instead of leaving it idle, which we shall call  -->
+
 The "user cost" is the cost of using his own equipment.
 
 `Output - factor cost = profit or entrepreneur's income`
 
-The factor cost is the income of the factors of production. Thus:
 
-`total income = factor cost + profit`
 
-The total income is the result of the employment given by the entrepreneur. 
 
-The entrepreneur’s profit is the quantity which he endeavours to maximise when he is deciding what amount, of employment to offer. 
+<!-- `total income = factor cost + profit` -->
+
+<!-- The total income is the result of the employment given by the entrepreneur.  -->
+
+<!-- The entrepreneur’s profit is the quantity which he endeavours to maximise when he is deciding what amount, of employment to offer.  -->
 
 <!-- It is sometimes convenient, when we are looking at it from the entrepreneur’s standpoint, to call the --> 
 
-Aggregate income (i.e. factor cost plus profit) is the proceeds from a given amount of employment. 
+Gross Income = Factor Cost + Profit
 
-On the other hand, the aggregate supply price of the output of a given amount of employment is the expectation of proceeds which will just make it worth the while of the entrepreneurs to give that employment.[3] 
+Gross <!-- Aggregate --> income is the revenue from a sale. <!-- ) is the proceeds from a given amount of employment.  -->
 
-It follows that resources and factor cost per unit of employment, the amount of employment, both in each individual firm and industry and in the aggregate, depends on the amount of the proceeds which the entrepreneurs expect to receive from the corresponding output.
+The aggregate supply price of the output of a given amount of employment is the expectation of proceeds which will just make it worth the while of the entrepreneurs to give that employment.[3] 
 
-Entrepreneurs will endeavour to fix the amount of employment at the level which they expect to maximise the excess of the proceeds over the factor cost. 
+<!-- It follows that resources and , , both in each individual firm and industry and in the aggregate, depends on  -->
 
-Let:
+The income* which the entrepreneurs expect to receive from the sale determines:
+- the factor cost per unit of employment
+- the amount of employment
 
-- `Z` is the aggregate supply price of the output from employing `N` men
-- the relationship between `Z` and `N`  is `Z = φ(N)` which is the Aggregate Supply Function.[5] 
-- `D`  is the proceeds which entrepreneurs expect from the employment of `N` men
-- the relationship between `D` and `N` being written as `D = f(N)`. This is the Aggregate Demand Function
+> *Superphysics note: This is opposite of what is natural, which says the cost determines the income. 
 
-For every N, the expected proceeds are greater than the aggregate supply price, i.e. if `D` is greater than `Z`, there will be an incentive to entrepreneurs to increase employment beyond N and, if necessary, to raise costs by competing with one another for the factors of production, up to the value of N for which Z has become equal to D. 
 
-Thus, the volume of employment is where the aggregate demand function intersects with the aggregate supply function. At this point, the entrepreneurs’ expectation of profits will be maximised. 
+Entrepreneurs will try to adjust the amount of employment to maximise profits. <!--  the excess of the proceeds over the factor cost.  -->
 
-The effective demand is the value of `D` at this point. 
+> *Superphysics note: In reality, the adjustments are based on the volume of sale. 
+
+
+
+
+The Aggregate Supply Curve is:
+
+```bash
+Aggregate_Supply_Price = φ(Number_of_Workers)	
+```
+
+- `Aggregate_Supply_Price` <!-- `Z` -->  is the aggregate supply price of a product from employing `N` men
+<!-- `Z = φ(N)`  -->
+ 
+`Gross Income` <!-- `D` -->  is the proceeds which entrepreneurs expect from the employment of `N` men
+
+
+The Aggregate Demand Curve is:
+
+```bash
+Gross_Income = f(Number_of_Workers)	
+```
+
+
+For every number of workers, the expected income is greater than the aggregate supply price. 
+- If `Gross_Income` <!-- `D` --> is greater than `Aggregate_Supply_Price` <!-- `Z` -->, the entrepreneurs will:
+  - increase employment beyond the current number
+  - raise costs by competing with one another for those workers up to where the number of workers which the Aggregate Selling Price <!-- Z --> has become equal to Gross Income <!-- D -->. 
+
+Thus, the volume of employment is where the aggregate demand function intersects with the aggregate supply function. 
+- At this point, the entrepreneurs’ expectation of profits will be maximised. 
+
+The effective demand is the value of `Gross Income`<!-- `D` --> at this point. 
 
 This is the substance of the General Theory of Employment. 
 
-The succeeding chapters will examine the various factors on which these two functions depend. 
+<!-- The succeeding chapters will examine the various factors on which these two functions depend.  -->
 
 
 ## The Classical Doctrine 
 
-The classical doctrine used to be expressed as “Supply creates its own Demand.” It continues to underlie all orthodox economic theory, involves a special assumption as to the relationship between these two functions. 
+The classical doctrine is “Supply creates its own Demand” <!-- It continues to underlie all orthodox economic theory, involves a special assumption as to the relationship between these two functions. --> 
 
-“Supply creates its own Demand” means that:
-- `f(N)` and `φ(N)` are equal for all values of N, i.e. for all levels of output and employment; and
-- when there is an increase in `Z( = f(N))` corresponding to an increase in `N, D( =f(N))` necessarily increases by the same amount as Z.
+- `f(Number of Workers)` and `φ(Number of Workers)` are equal for all values of Number of Workers, i.e. for all levels of output and employment
+- when there is an increase in `Aggregate Selling Price( = f(Number of Workers))` <!-- `Z( = f(N))` --> corresponding to an increase in `Number of workers, Gross Income ( =f(Number of workers))` <!-- ( =f(N))  -->necessarily increases by the same amount as the Aggregate Selling Price<!--  Z -->.
 
-The classical theory assumes that the aggregate demand price (or proceeds) always accommodates itself to the aggregate supply price. In this way, whatever the value of `N` may be, the proceeds `D` assume a value equal to the aggregate supply price Z which corresponds to `N`.
+The Classical theory assumes that the aggregate demand price always accommodates itself to the aggregate supply price.* 
+
+> *Superphysics note: Yes, because the supply price is the cost in grains and everyone needs to eat. 
+
+
+In this way, no matter how many workers are employed, the gross income is equal to the aggregate supply price <!-- Z --> which corresponds to that number of workers.
 
 It means that:
-- **effective demand, instead of having a unique equilibrium value, is an infinite range of values all equally admissible.**
-- the amount of employment is indeterminate except in so far as the marginal disutility of labour sets an upper limit. 
+- **effective demand, instead of having a unique equilibrium value, is an infinite range of values all equally admissible.** *
+- the amount of employment is indeterminate except until it hits the level of slave-wagges. <!-- in so far as the marginal disutility of labour sets an upper limit.  -->
 
-This means that competition between entrepreneurs would always lead to an expansion of employment up to the point at which the supply of output as a whole ceases to be elastic, i.e. where a further increase in the value of the effective demand will no longer be accompanied by any increase in output. 
+> *Superphysics note: Yes, the demand is always in flux. Instead of equilibrium, it has a predictable range. 
 
-This would be full employment. 
 
-Chapter 2 gave a definition of full employment in terms of the behaviour of labour. 
+This means that competition between entrepreneurs would always increase employment up where there is full employment and the supply of output as a whole becomes inelastic [because there there are no more additional workers]. At this point, a further increase in effective demand will no longer lead to any increase in output. 
 
-An alternative, though equivalent, criterion is that at which we have now arrived, namely a situation, in which aggregate employment is inelastic in response to an increase in the effective demand for its output. 
+<!-- Chapter 2 gave a definition of full employment in terms of the behaviour of labour.  -->
 
-Thus Say’s law, that the aggregate demand price of output as a whole is equal to its aggregate supply price for all volumes of output, is equivalent to the proposition that there is no obstacle to full employment. 
+An alternative, equivalent, criterion is a situation where aggregate employment is inelastic per increase in the effective demand<!--  for its output -->. 
 
-If, however, this is not the true law relating the aggregate demand and supply functions, there is a vitally important chapter of economic theory which remains to be written and without which all discussions concerning the volume of aggregate employment are futile. 
+Say’s law says that the aggregate demand price of output as a whole is equal to its aggregate supply price for all volumes of output. 
+- It means that there is no obstacle to full employment*.
+
+> *Superphysics Note: Barter removes such obstacles. 
+
+
+<!-- If, however, this is not the true law relating the aggregate demand and supply functions, there is a vitally important chapter of economic theory which remains to be written and without which all discussions concerning the volume of aggregate employment are futile.  -->
 
 
 <!-- A brief summary of the theory of employment to be worked out in the course of the following chapters may, perhaps, help the reader at this stage, even though it may not be fully intelligible. The terms involved will be more carefully defined in due course. In this summary  -->
@@ -121,7 +167,8 @@ This level cannot be greater than full employment, i.e. the real wage cannot be 
 
 ### Exception 
 
-The effective demand associated with full employment is a special case. It is only realised when the propensity to consume and the inducement to invest stand in a particular relationship to one another. This particular relationship corresponds to classical assumptions. It is in a sense an optimum relationship. 
+The effective demand associated with full employment is a special case.
+- It is only realised when the propensity to consume and the inducement to invest stand in a particular relationship to one another. This particular relationship corresponds to classical assumptions. It is in a sense an optimum relationship. 
 
 But it can only exist when, by accident or design, current investment provides an amount of demand just equal to the excess of the aggregate supply price of the output resulting from full employment over what the community will choose to spend on consumption when it is fully employed. 
 

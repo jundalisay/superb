@@ -3,7 +3,7 @@ title: "Open Market Operations"
 heading: "Chapter 15b"
 description: "Keynes explains Open Market Operations"
 image: "/covers/general.jpg"
-date: 2020-01-13
+date: 2020-01-02
 linkb: "/research/keynes/general-theory/chapter-14appendix"
 linkbtext: "chapter-14 appendix"
 linkf: "/research/keynes/general-theory/chapter-16"
@@ -45,66 +45,77 @@ Changes in the liquidity function itself, due to a change in the news which caus
 - It will therefore, give rise to a corresponding discontinuity of change in the rate of interest.
 - Only in so far as the change in the news is differently interpreted by different individuals or affects individual interests differently will there be room for any increased activity of dealing in the bond market.
 
-If the change in the news affects the judgment and the requirements of everyone in precisely the same way, the rate of interest (as indicated by the prices of bonds and debts) will be adjusted forthwith to the new situation without any market transactions being necessary.
+If the change in the news affects everyone's judgment precisely in the same way, the interest rate <!-- (as indicated by the prices of bonds and debts) --> will be adjusted <!-- forthwith --> to the new situation without any market transactions being necessary.
 
-Thus, in the simplest case a change in circumstances or expectations cannot cause any displacement of money.
-It will simply change the rate of interest in whatever degree is necessary to offset the desire of each individual, felt at the previous rate, to change his holding of cash in response to the new circumstances or expectations.
+Thus, in the simplest case, a change in expectations cannot cause any displacement of money.
+- It will simply change the interest rate to offset the desire of each individual, felt at the previous rate, to change his holding of cash in response to the new expectations.
 
-Since everyone will change his ideas as to the rate which would induce him to alter his holdings of cash in the same degree, no transactions will result.
+No transactions will result. This is because everyone will change his ideas as to the rate which would induce him to alter his holdings of cash in the same degree.
 
-To each set of circumstances and expectations there will correspond an appropriate rate of interest. There will never be any question of anyone changing his usual holdings of cash.
+Each set of expectations has an appropriate interest rate. There will never be any question of anyone changing his usual holdings of cash.
 
-In general, however, a change in circumstances or expectations will cause some realignment in individual holdings of money
-since a change will influence the ideas of different individuals differently by reason partly of differences in environment and the reason for which money is held and partly of differences in knowledge and interpretation of the new situation.
+A change in expectations will influence people differently. 
+- This will cause some realignment in individual holdings of money.
 
-Thus, the new equilibrium rate of interest will be associated with a redistribution of money-holdings.
+<!--  different individuals differently by reason partly of differences in environment and the reason for which money is held and partly of differences in knowledge and interpretation of the new situation. -->
 
-Nevertheless it is the change in the rate of interest, rather than the redistribution of cash, which deserves our main attention.
-The latter is incidental to individual differences, whereas the essential phenomenon is that which occurs in the simplest case.
+Thus, the new equilibrium interest rate will be associated with a redistribution of money-holdings.
 
-Moreover, even in the general case, the shift in the rate of interest is usually the most prominent part of the reaction to a change in the news.
+We will focus on the change in the interest rate, rather than the redistribution of cash. 
+- The redistribution is incidental to individual differences
+<!--  whereas the essential phenomenon is that which occurs in the simplest case. -->
 
-The movement in bond-prices is, as the newspapers are accustomed to say, “out of all proportion to the activity of dealing”.
-; — which is as it should be, in view of individuals being much more similar than they are dissimilar in their reaction to news.
+The shift in the interest rate is usually the most prominent in the news.
 
-The amount of cash that a person holds for the need for cash and security is not entirely independent of the cash he sets for speculation.
+The newspapers say that the movement in bond-prices is “out of all proportion to the activity of dealing”.
 
-It is safe to regard the amounts of these two cash-holdings as largely independent of one another.
+<!-- ; — which is as it should be, in view of individuals being much more similar than they are dissimilar in their reaction to news. -->
 
-`M1` is the cash for spending and security
+The amount of cash that we hold for need and security is `Necessary Cash`.
+- This is not entirely independent of our cash for speculation or `Gambling Cash`.
+- These 2 are largely independent of each other.
 
-`M2` is the cash for speculation
+<!-- `M1` --> 
+ <!-- Ca is the cash for spending and security -->
 
-This creates two liquidity functions `L1` and `L2`.
-- `L1` mainly depends on the level of income.
-- `L2` mainly depends on the relation between the current rate of interest and expectation.
+<!-- `M2` --> <!-- is the cash for speculation -->
+
+This creates 2 liquidity functions: <!--  `L1` and `L2`. -->
+- `Income Level`
+  - `Income` <!-- `Y` --> determines `Necessary Cash` <!-- `M1` --> 
+- `Interest Expectation`
+  -`Interest Rate` determines `Gambling Cash`
+
+<!-- - `L1` mainly depends on the level of income.
+- `L2` mainly depends on the relation between the current rate of interest and expectation. -->
 
 ```bash
-M = M1 + M2 = L1(Y) + L2(r) 
+Money = Necessary Cash + Gambling Cash = Income Level(Y) + Interest Expectation(Interest Rate)
 ```
+<!-- M = M1 + M2 = L1(Y) + L2(r)  -->
 
-`L1` is the liquidity function corresponding to an income `Y`, which determines `M1`
+<!-- `L1` is the liquidity function corresponding to an  -->
 
-`L2` is the liquidity function of the interest rate `r`, which determines `M2`. 
+<!-- `L2` is the liquidity function of the interest rate `r`, which determines `M2`.  -->
 
 It follows that there are 3 matters to investigate:
 
 <!-- 1. the relation of changes in M to Y and r, (ii) what determines the shape of L1, (iii) what determines the shape of L2. -->
 
-1. The relation of changes in M to Y and r
+1. The relation of changes in `Money` to `Income` <!-- Y --> and `Interst Rate` <!-- r -->
 
-This depends, in the first instance, on the way in which changes in `M` come about.
+This depends, in the first instance, on the way in which changes in `Money` come about.
 
 Suppose that:
-- `M` consists of gold coins
-- changes in `M` can only result from increased returns to the activities of gold-miners who belong to the economic system under examination.
+- `Money` consists of gold coins
+- changes in `Money` can only result from increased returns to the activities of gold-miners
 
-In this case, changes in `M` are, in the first instance, directly associated with changes in `Y`, since the new gold accrues as someone’s income.
+In this case, changes in `Money` are, in the first instance, directly associated with changes in `Income` <!-- `Y` -->, since the new gold accrues as someone’s income.
 
-Exactly the same conditions hold if changes in M are due to the Government printing money wherewith to meet its current expenditure.
+Exactly the same conditions hold if changes in `Money` are due to the Government printing money wherewith to meet its current expenditure.
 
-In this case also the new money accrues as someone’s income.
-The new level of income, however, will not continue sufficiently high for the requirements of M, to absorb the whole of the increase in M.
+In this case also, the new money accrues as someone’s income.
+- The new level of income, however, will not continue sufficiently high for the requirements of <!-- M -->`Money`, to absorb the whole of the increase in `Money`<!-- M -->.
 
 Some portion of the money will seek an outlet in buying securities or other assets until r has fallen so as to bring about an increase in the magnitude of M, and at the same time to stimulate a rise in Y to such an extent that the new money is absorbed either in M2 or in the M1 which corresponds to the rise in Y caused by the fall in r.
 

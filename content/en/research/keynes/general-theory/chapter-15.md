@@ -3,7 +3,7 @@ title: "The Psychological and Business Incentives To Liquidity"
 heading: "Chapter 15"
 description: "Keynes explains the Incentives To Liquidity"
 image: "/covers/general.jpg"
-date: 2020-01-13
+date: 2020-01-03
 linkb: "/research/keynes/general-theory/chapter-14appendix"
 linkbtext: "chapter-14 appendix"
 linkf: "/research/keynes/general-theory/chapter-16"

@@ -1,16 +1,17 @@
-+++
-title= "The State of Long-Term Expectation"
-description= "Keynes talks about Expectations"
-image= "/covers/general.jpg"
-date= 2020-01-18
-linkb= "/research/keynes/general-theory/chapter-11"
-linkbtext= "chapter-11"
-linkf= "/research/keynes/general-theory/chapter-13"
-linkftext= "chapter-13"
-icon= "/icons/keynes.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "The State of Long-Term Expectation"
+heading: "Chapter 12"
+image: "/covers/general.jpg"
+description: "Keynes talks about Expectations"
+date: 2020-01-10
+linkb: "/research/keynes/general-theory/chapter-11"
+linkbtext: "chapter-11"
+linkf: "/research/keynes/general-theory/chapter-13"
+linkftext: "chapter-13"
+icon: "/icons/keynes.png"
+---
+
+
 
 Chapter 11 explained that the scale of investment depends on the relation between:
 - the interest rate and
