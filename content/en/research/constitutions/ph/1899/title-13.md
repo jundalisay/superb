@@ -1,7 +1,7 @@
 ---
 title: Amendment Of The Constitution
 heading: "Titles 13-14 of the Malolos Constitution Simplified"
-date: 2022-01-31
+date: 2022-01-26
 # date: 1899-01-19
 description: "Amendment of the Malolos Constitution"
 image: "/graphics/1899.jpg"
@@ -11,6 +11,7 @@ linkf: "/research/constitutions/ph/1899"
 linkftext: "Index"
 icon: /favicon.png
 ---
+
 
 **Article 89**
 
@@ -47,14 +48,22 @@ The use of languages spoken in the Philippines shall be optional. Their use cann
 
 **Article 94**
 
-Meanwhile and without prejudice to the provisions of Article 48 and to the acts of the commissions designated by the Assembly to translate and submit to the same the organic laws in the development and application of the rights granted to Filipino citizens and for the government of public powers therein mentioned, the laws of the Republic shall be considered those found existing in these islands before the emancipation of the same.
+The laws of the Republic are those found existing in these islands before the liberation. This is without prejudice to:
+- the provisions of Article 48
+- the acts of the commissions designated by the Assembly to translate and submit to the same the organic laws in the development and application of the rights granted to Filipino citizens and for the government of public powers therein mentioned, 
 
-The provisions of the Civil Code relating to marriage and civil registry, suspended by the Governor General of these islands; the Instructions of April 26, 1888 to carry into effect Articles 77, 78, 79, and 82 of said Code; the law on civil registry of June 17, 1870 which refers to Article 332 of the same, and the Regulation of December 13 following for the enforcement of this law, without prejudice to the Chiefs of towns continuing to be in charge of inscriptions in the civil registry and intervening in the celebration of marriage between Catholics, shall also be deemed in force and effect.
+The following are in force and in effect:
+- the provisions of the Civil Code relating to marriage and civil registry which were suspended by the Governor General 
+- the Instructions of April 26, 1888 to carry into effect Articles 77, 78, 79, and 82 of the Civil Code
+- the law on civil registry of June 17, 1870 which refers to Article 332 of the Civil Code
+- the Regulation of December 13 enforcing this law, without prejudice to the Chiefs of towns continuing to be in charge of:
+  - inscriptions in the civil registry 
+  - intervening in the celebration of marriage between Catholics
 
 
 **Article 95**
 
-In the meantime that the laws referred to in the preceding Article have not been approved or enforced, the Spanish laws which said article allows to be enforced provisionally may be amended by special law.
+Until the laws in Article 94 have not been approved or enforced, the Spanish laws enforced provisionally may be amended by special law.
 
 
 **Article 96**
@@ -64,18 +73,21 @@ Once the laws approved by the Assembly have been promulgated in accordance with 
 
 **Article 97**
 
-The present President of the Revolutionary Government shall assume later the title of President of the Republic and shall discharge the duties of this office until the Assembly when convoked proceeds to the election of one who shall definitely exercise the duties of the office.
+The present President of the Revolutionary Government shall:
+- be the President of the Republic. 
+- discharge the duties of this office until the Assembly when convoked proceeds to the election of one who shall definitely exercise the duties of the office.
 
 
 **Article 98**
 
-The present Congress, composed of members by suffrage or by decree, shall last for four years, or for the duration of the present legislative term commencing on the 15th of April of next year.
+The present Congress, composed of members by suffrage or by decree, shall last for 4 years, or for the duration of the present legislative term commencing on the 15th of April of next year.
 
 
 **Article 99**
 
-Notwithstanding the general rule established in part 2 of Article 4, in the meantime that the country is fighting for its independence, the Government is empowered to resolve during the closure of the Congress all questions and difficulties not provided for in the laws, which give rise to unforeseen events, of which the Permanent Commission shall be duly apprised as well as the Assembly when it meets in accordance with this Constitution.
+Notwithstanding the general rule established in part 2 of Article 4 while the country is fighting for its independence, the Government is empowered to resolve during the closure of the Congress all questions and difficulties not provided for in the laws. 
 
+<!-- , which give rise to unforeseen events, of which the Permanent Commission shall be duly apprised as well as the Assembly when it meets in accordance with this Constitution. -->
 
 **Article 100**
 
@@ -84,7 +96,12 @@ The execution of Article 5, Title III shall be suspended until the constituent A
 
 **Article 101**
 
-Notwithstanding the provisions of Articles 62 and 63, bills returned by the President of the Republic to the Congress may not be repassed except in the legislature of the following year, this suspension being under the responsibility of the President and his Council of Government. When these conditions have been fulfilled, the promulgation of said laws shall be obligatory within ten days, without prejudice to the President making of record his non-conformity. If the reapproval is made in subsequent legislative terms, it shall be deemed law approved for the first time.
+Notwithstanding the provisions of Articles 62 and 63, bills returned by the President of the Republic to the Congress may not be repassed except in the legislature of the following year, this suspension being under the responsibility of the President and his Council of Government. 
+
+When these conditions have been fulfilled, the promulgation of said laws shall be obligatory within ten days, without prejudice to the President making of record his non-conformity. 
+
+If the reapproval is made in subsequent legislative terms, it shall be deemed law approved for the first time.
+
 
 
 ## Additional Article

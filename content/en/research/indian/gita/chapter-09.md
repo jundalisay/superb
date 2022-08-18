@@ -1,5 +1,5 @@
 ---
-title: "Who is Loved?"
+title: "Cosmology"
 heading: "Chapter 9 of The Bhagavad-Gita Simplified"
 date: 2022-01-31
 author: "Vyasa"
@@ -14,9 +14,9 @@ icon: "/flags/in.png"
 
 
 
-Krishna.
+Krishna said:
 
-Now I will teach you <!--  I open unto you--whose heart Rejects not--that  --> thelast lore, deepest-concealed. 
+Now I will teach you <!--  I open unto you--whose heart Rejects not--that  --> the last lore, deepest-concealed. 
 
 <!--  That farthest secret of My Heavens and Earths,
 Which but to know shall set thee free from ills,-- -->
@@ -28,34 +28,39 @@ They that receive not this, failing in faith
 To grasp the greater wisdom, reach not Me,
 Destroyer of thy foes!
 
-They sink anew into the realm of Flesh, where all things change!
+They sink anew into the realm of Flesh, where all things change.
 
-By Me the whole vast Universe of things is spread abroad;--by Me, the Unmanifest!
-In Me are all existences contained; Not I in them!
+By Me the whole vast Universe of things is spread abroad;--by Me, the Unmanifest.
+
+In Me are all existences contained; Not I in them.
 
 Yet they are not contained,
-Those visible things! Receive and strive to embrace
-The mystery majestical! My Being--
+Those visible things! 
+
+Receive and strive to embrace the mystery majestical.
+
+ My Being--
 Creating all, sustaining all--still dwells
 Outside of all!
-See! as the shoreless airs
-Move in the measureless space, but are not space,
-[And space were space without the moving airs];
-So all things are in Me, but are not I.
-At closing of each Kalpa, Indian Prince!
-All things which be back to My Being come:
-At the beginning of each Kalpa, all
-Issue new-born from Me.
-By Energy
-And help of Prakriti my outer Self,
-Again, and yet again, I make go forth
-The realms of visible things--without their will--
-All of them--by the power of Prakriti.
-Yet these great makings, Prince! involve Me not
-Enchain Me not! I sit apart from them,
-Other, and Higher, and Free; nowise attached!
 
-Thus doth the stuff of worlds, moulded by Me, bring forth all that which is, moving or still,
+See! as the shoreless airs move in the measureless space, but are not space,
+[And space were space without the moving airs];
+
+So all things are in Me, but are not I.
+
+At closing of each Kalpa, all things which be back to My Being come:
+
+At the beginning of each Kalpa, all issue new-born from Me.
+
+By Energy and help of Prakriti my outer Self, again, and again, I make the realms of visible things go forth--without their will--
+All of them--by the power of Prakriti.
+
+Yet these great makings, Prince! involve Me not
+Enchain Me not! 
+
+I sit apart from them, Other, and Higher, and Free unattached.
+
+Thus the stuff of worlds are moulded by Me, bring forth all that which is, moving or still,
 Living or lifeless! Thus the worlds go on!
 
 The minds untaught mistake Me, veiled in form;--

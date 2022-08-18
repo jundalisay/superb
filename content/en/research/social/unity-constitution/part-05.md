@@ -2,7 +2,7 @@
 title: Articles 1-12
 heading: "Part 3: Non-Human Rights"
 description: "Perpetual Unity allows for Non-Human Rights."
-# image: /flags/us.png
+image: "/covers/unity.jpg"
 author: Juan Dalisay Jr.
 date: 2022-01-29
 linkb: "/research/social/perpetual-unity/part-04"
@@ -11,12 +11,13 @@ linkf: "/research/social/perpetual-unity/"
 linkftext: "part 2"
 ---
 
-Article: Eligibility
+
+**Article: Eligibility**
 
 Non-human living beings are entitled to non-human rights. 
 
 
-Article : Conditional Right to Exist
+**Article : Conditional Right to Exist**
 
 Natural life is the commonly-perceived lifespan and behavior of a living entity. 
 

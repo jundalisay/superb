@@ -2,14 +2,13 @@
 title: Part 2
 heading: "Part 2: Human Rights"
 description: "Perpetual Unity is based on feelings."
-image: /flags/us.png
+image: "/covers/unity.jpg"
 author: Juan Dalisay Jr.
 date: 2022-01-29
 linkb: "/research/social/perpetual-unity/part-01"
 linkbtext: "Part 1"
 linkf: "/research/social/perpetual-unity/part-03"
 linkftext: "part 3"
-draft: true 
 ---
 
 

@@ -2,19 +2,21 @@
 title: Articles 1-4
 heading: "Part 1"
 description: "Perpetual Unity is based on feelings."
-image: /flags/us.png
+image: "/covers/unity.jpg"
 author: Juan Dalisay Jr.
 date: 2022-01-29
 linkb: "/research/social/perpetual-unity/"
 linkbtext: "Index"
 linkf: "/research/social/perpetual-unity/part-02"
 linkftext: "part 2"
-draft: true 
 ---
+
 
 **Article 1: The Feelings**
 
 All actions come from feelings. 
+
+
 
 
 **Article 2: Virtues** 

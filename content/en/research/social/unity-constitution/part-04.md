@@ -2,19 +2,18 @@
 title: Articles 1-12
 heading: "Part 4: Non-Fundamental Social Human Rights"
 description: "Perpetual Unity allows for Non-Human Rights."
-image: /flags/us.png
+image: "/covers/unity.jpg"
 author: Juan Dalisay Jr.
 date: 2022-01-29
 linkb: "/research/social/perpetual-unity/part-03"
 linkbtext: "Part 3"
 linkf: "/research/social/perpetual-unity/part-05"
 linkftext: "part 5"
-draft: true 
 ---
 
 
 
-Article 13
+**Article 13**
 
 Everyone has the right to:
 - freedom of movement and residence within the borders of each state.

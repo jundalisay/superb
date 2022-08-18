@@ -1,6 +1,10 @@
 ---
 title: Mao Zedong
-description: Quotations from Mao
-image: "/covers/quotations.jpg"
-date: 2022-03-10
+heading: Unenlightened
+description: Mao was a Chinese Leader
+image: "/covers/mao.jpg"
+date: 2022-06-10
+# date: 2022-03-10
 ---
+
+

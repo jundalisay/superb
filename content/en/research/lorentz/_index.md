@@ -1,6 +1,10 @@
-+++
-title= "Hendrik Lorentz"
-date= "2021-09-28"
-image= "/covers/lor.jpg"
-description= "Hendrik Lorentz was a Dutch Physicist who shared the 1902 Nobel Prize for the Zeeman effect"
-+++
+---
+title: Hendrik Lorentz
+heading: Semi-enlightened
+description: Hendrik Lorentz was a Dutch Physicist who shared the 1902 Nobel Prize for the Zeeman effect
+image: "/covers/lor.jpg"
+date: 2022-06-20
+# date: 2022-03-10
+aliases:
+  /research/machiavelli/the-prince
+---

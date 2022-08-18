@@ -30,10 +30,6 @@ We overhauled our site with a faster theme, organized under 3 headings:
 
 
 
-
-
-
-
 MEDICAL SUPERPHYSICS
 - varna dharma
 - aging

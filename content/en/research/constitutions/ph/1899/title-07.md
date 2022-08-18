@@ -1,7 +1,7 @@
 ---
 title: The Executive Power
 heading: Title 7-8 of the Malolos Constitution Simplified
-date: 2022-01-31
+date: 2022-01-28
 # date: 1899-01-19
 description: "The Executive Power according to the Malolos Constitution"
 image: "/graphics/1899.jpg"
@@ -12,6 +12,7 @@ linkftext: "title-09"
 icon: /favicon.png
 icontext: Maharlikanism icon
 ---
+
 
 ## Title 7: Executive
 
@@ -90,38 +91,32 @@ The President of the Republic, in addition to his duty to execute the laws, shal
 Article 68
 
 The President may be authorized by special law:
-
 - To alienate, transfer or exchange any portion of Philippine territory
-
 - To incorporate any other territory to the Philippine territory
-
 - To admit the stationing of foreign troops in Philippine territory
-
 - To ratify of alliance, defensive as well as offensive, special treaties of commerce, those which stipulate to grant subsidies to a foreign power, and those which may compel Filipinos to render personal service.
-
 - Secret treaties in no case may prevail over the provisions of open treaties or treaties made publicly
-
 - To grant general amnesties and pardons
-
 - To coin money
 
 
 
-Article 69
+**Article 69**
 
-To the President belongs the power to issue regulations for the compliance and application of the laws in accordance with the requisites prescribed in said laws.
-
-
-Article 70
-
-The President, with the prior approval by majority vote of the Representatives, may dissolve the Assembly before the expiration of its legislation term. In this case, new elections shall be called within three months.
+The President can issue regulations for the compliance and application of the laws in accordance with the requisites prescribed by those laws.
 
 
-Article 71
+**Article 70**
+
+The President, with the prior approval by majority vote of the Representatives, may dissolve the Assembly before the expiration of its legislation term. 
+- In this case, new elections shall be called within 3 months.
+
+
+**Article 71**
 
 The President of the Republic may be held liable only for cases of high treason.
 
 
-Article 72
+**Article 72**
 
 The President's salary shall be fixed by special law which can only be changed after the presidential term has expired.

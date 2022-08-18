@@ -1,6 +1,6 @@
 ---
 title: The Secretaries Of Government
-date: 2022-01-31
+date: 2022-01-27
 heading: Title 9 of the Malolos Constitution Simplified
 # date: 1899-01-19
 description: "The Secretaries of Government according to the Malolos Constitution"

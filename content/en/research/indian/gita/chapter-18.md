@@ -1,5 +1,5 @@
 ---
-title: "The Bhagavad-Gita"
+title: "The Threeforld Kinds"
 heading: "Chapter 18 of The Bhagavad-Gita Simplified"
 date: 2022-01-31
 author: "Vyasa"
@@ -13,119 +13,150 @@ icon: "/flags/in.png"
 ---
 
 
-Arjuna.
+{{< r a="Arjuna" >}}
+The very truth is abstention or Sannyas, and renunciation or Tyaga. What is the difference between the two?
+{{< /r >}}
 
 
-The very truth is Abstention; and enunciation.
+{{< l a="Krishna" >}}
+Sannyas is the foregoing of all acts which spring out of desire. Tyaga is renouncing of the fruit of one's acts.
 
-Tyaga; and what separates these twain!
+Some saints say that all action to be sinful, and have renounced action. 
 
+Some say "Nom, the goodly acts--worship, penance, alms--must be performed"
 
-Krishna.
+Renunciation is of threefold form:
+- Worship
+- Penance
+- Alms
 
-The poets rightly teach that Sannyas is the foregoing of all acts which spring out of desire; and their wisest say
-Tyaga is renouncing fruit of acts.
+They should be gladly done. All those three are purifying waters for true souls.
 
-There be among the saints some who have held
+Yet it is higher to give up attachment, and all the fruit produced by works.
 
-All action sinful, and to be renounced;
-
-And some who answer, "Nay! the goodly acts--
-
-As worship, penance, alms--must be performed!"
-
-Hear now My sentence, Best of Bharatas!
-'Tis well set forth, O Chaser of thy Foes!
-Renunciation is of threefold form,
-And Worship, Penance, Alms, not to be stayed;
-Nay, to be gladly done; for all those three
-Are purifying waters for true souls!
-Yet must be practised even those high works
-In yielding up attachment, and all fruit
-Produced by works. This is My judgment, Prince!
-
-This My insuperable and fixed decree!
+This My insuperable and fixed decree.
 
 Abstaining from a work by right prescribed
-Never is meet! So to abstain doth spring
-From "Darkness," and Delusion teacheth it.
+Never is meet! 
+
+So to abstain doth spring from "Darkness," and Delusion teacheth it.
+
 Abstaining from a work grievous to flesh,
 When one saith "'Tis unpleasing!" this is null!
 
-Such an one acts from "passion;" nought of gain
-Wins his Renunciation! But, Arjun!
+Such a person acts from "passion", not nough of gain
+Wins his Renunciation!
+
 Abstaining from attachment to the work,
 Abstaining from rewardment in the work,
+
 While yet one doeth it full faithfully,
 Saying, "Tis right to do!" that is "true " act
+
 And abstinence! Who doeth duties so,
 Unvexed if his work fail, if it succeed
 Unflattered, in his own heart justified,
 Quit of debates and doubts, his is "true" act:
-For, being in the body, none may stand
-Wholly aloof from act; yet, who abstains
-From profit of his acts is abstinent.
-The fruit of labours, in the lives to come,
-Is threefold for all men,--Desirable,
-And Undesirable, and mixed of both;
-But no fruit is at all where no work was.
 
-Hear from me, Long-armed Lord! the makings five
-Which go to every act, in Sankhya taught
-As necessary. First the force; and then
-The agent; next, the various instruments;
-Fourth, the especial effort; fifth, the God.
-What work soever any mortal doth
-Of body, mind, or speech, evil or good,
-By these five doth he that. Which being thus,
-Whoso, for lack of knowledge, seeth himself
-As the sole actor, knoweth nought at all
-And seeth nought. Therefore, I say, if one--
-Holding aloof from self--with unstained mind
-Should slay all yonder host, being bid to slay,
+For, being in the body, none may stand wholly aloof from act; yet, who abstains from profit of his acts is abstinent.
+
+The fruit of labours is threefold ti all men:
+- desirable
+- undesirable
+- a mix of both
+
+<!-- But no fruit is at all where no work was. -->
+
+Hear from me, Long-armed Lord! 
+
+the makings five Which go to every act, in Sankhya taught as necessary.
+
+1. The force
+2. The agent
+3. The various instruments
+4. The especial effort
+5. The God.
+
+These 5 are in every work that any mortal does of body, mind, or speech, whether good or bad. 
+
+The ignorant sees himself as the sole actor. He does not know at all about the five.
+
+You should:
+- hold aloof from self, with unstained mind 
+- slay all yonder host, being bid to slay,
 He doth not slay; he is not bound thereby!
+
 Knowledge, the thing known, and the mind which knows,
-These make the threefold starting-ground of act.
-The act, the actor, and the instrument,
-These make the threefold total of the deed.
-But knowledge, agent, act, are differenced
-By three dividing qualities. Hear now
-Which be the qualities dividing them.
-There is "true" Knowledge. Learn thou it is this:
-To see one changeless Life in all the Lives,
 
-And in the Separate, One Inseparable.
+These make the threefold 
 
-There is imperfect Knowledge: that which sees
-The separate existences apart,
-And, being separated, holds them real.
-There is false Knowledge: that which blindly clings
-To one as if 'twere all, seeking no Cause,
-Deprived of light, narrow, and dull, and "dark."
-There is "right" Action: that which being enjoined--
-Is wrought without attachment, passionlessly,
-For duty, not for love, nor hate, nor gain.
-There is "vain" Action: that which men pursue
-Aching to satisfy desires, impelled
-By sense of self, with all-absorbing stress:
+The starting-ground of action is made up of three:
+
+1. The act
+2. The actor
+3. The instrument
+
+<!-- These make the threefold total of the deed. -->
+
+But knowledge, agent, act, are differenced by 3 dividing qualities. 
+
+1. "True" Knowledge
+
+This is when you learn something as it is, as one changeless Life in all the Lives, as the One Inseparable in the Separate.
+
+2. Imperfect Knowledge
+
+This sees the separate existences apart, thinking that those separations are real. 
+
+3. False Knowledge
+
+This blindly clings to one as if it were all. It seeks no Cause, deprived of light, narrow, and dull, and dark.
+
+
+These 3 types of knowledge lead to 3 types of action:
+
+1. "Right" Action
+
+This is done without attachment, passionlessly, for duty, not for love, nor hate, nor gain.
+
+2. "Vain" action
+
+This is what men pursue when they are:
+- aching to satisfy desires
+- impelled by the sense of self, with all-absorbing stress
+
 This is of Rajas--passionate and vain.
-There is "dark" Action: when one doth a thing
-Heedless of issues, heedless of the hurt
-Or wrong for others, heedless if he harm
-His own soul--'tis of Tamas, black and bad!
-There is the "rightful"doer. He who acts
-Free from self-seeking, humble, resolute,
-Steadfast, in good or evil hap the same,
-Content to do aright-he "truly" acts.
-There is th' "impassioned" doer. He that works
-From impulse, seeking profit, rude and bold
-To overcome, unchastened; slave by turns
-Of sorrow and of joy: of Rajas he!
-And there be evil doers; loose of heart,
-Low-minded, stubborn, fraudulent, remiss,
-Dull, slow, despondent--children of the "dark."
+
+3. "Dark" Action
+
+This is when one does a thing heedless:
+- of issues
+- of the hurt or wrong for others
+- of harming his own soul
+
+This is of Tamas, black and bad!
+
+These lead to 3 kinds of doers.
+
+1. The "rightful"doer
+
+This person acts free from self-seeking, humble, resolute, steadfast, in good or evil hap the same, content to do aright-he "truly" acts.
+
+2. The "impassioned" doer
+
+This person works from impulse, seeking profit, rude and bold to overcome, unchastened; slave by turns of sorrow and of joy:
+
+He is of Rajas. 
+
+3. The "dark" doer
+
+This person is does evil. He is loose of heart, Low-minded, stubborn, fraudulent, remiss, dull, slow, despondent
+
+<!-- children of the  -->
+
 Hear, too, of Intellect and Steadfastness
 The threefold separation, Conqueror-Prince!
+
 How these are set apart by Qualities.
 Good is the Intellect which comprehends
 The coming forth and going back of life,
@@ -156,12 +187,15 @@ Cleaves to his sloth, his sorrow, and his fears,
 His folly and despair. This--Pritha's Son!--
 Is born of Tamas, "dark" and miserable!
 Hear further, Chief of Bharatas! from Me
+
 The threefold kinds of Pleasure which there be.
 Good Pleasure is the pleasure that endures,
 Banishing pain for aye; bitter at first
 As poison to the soul, but afterward
 Sweet as the taste of Amrit. Drink of that!
+
 It springeth in the Spirit's deep content.
+
 And painful Pleasure springeth from the bond
 Between the senses and the sense-world. Sweet
 As Amrit is its first taste, but its last
@@ -170,6 +204,7 @@ And foul and "dark" the Pleasure is which springs
 From sloth and sin and foolishness; at first
 And at the last, and all the way of life
 The soul bewildering. 'Tis of Tamas, Prince!
+
 For nothing lives on earth, nor 'midst the gods
 In utmost heaven, but hath its being bound
 With these three Qualities, by Nature framed.
