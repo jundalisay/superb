@@ -5,16 +5,15 @@ date: 2022-01-31
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/"
-linkbtext: "Index"
-linkf: "/research/indian/gita/"
-linkftext: "Index"
+linkb: "/research/indian/gita/chapter-02"
+linkbtext: "Chapter 2"
+linkf: "/research/indian/gita/chapter-04"
+linkftext: "Chapter 4"
 icon: "/flags/in.png"
 ---
 
 
-Arjuna.
-
+{{< r a="Arjuna" >}}
 Thou whom all mortals praise, Janardana!
 
 If meditation be a nobler thing than action, wherefore, then, great Kesava!
@@ -22,19 +21,23 @@ Dost thou impel me to this dreadful fight?
 Now am I by thy doubtful speech disturbed!
 Tell me one thing, and tell me certainly;
 By what road shall I find the better end?
+{{< /r >}}
 
 
-Krishna.
-
+{{< l a="Krishna" >}}
 There are 2 paths, 2 schools of wisdom.
 
-1. The Sankhya's, which doth save in way of works
-Prescribed[FN#4] by reason
+1. The Sankhya's
 
-2. The Yog, which bids
-Attain by meditation, spiritually:
+This saves through the way of works or action or karma prescribed[FN#4] by reason
 
-Yet these are one. No one can escape karma by shunning action. No one can attain perfection by mere renouncements .
+2. The Yoga
+
+This is attained by meditation and spirituality.
+
+These are one.
+- No one can escape karma by shunning action.
+- No one can attain perfection by mere renouncements .
 
 <!-- Nay, and no jot of time, at any time,
 Rests any actionless; his  -->

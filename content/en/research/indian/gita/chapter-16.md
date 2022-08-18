@@ -1,13 +1,26 @@
-CHAPTER 16
+---
+title: "The Bhagavad-Gita"
+heading: "Chapter 16 of The Bhagavad-Gita Simplified"
+date: 2022-01-31
+author: "Vyasa"
+description: ""
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita/chapter-15"
+linkbtext: "Chapter 15"
+linkf: "/research/indian/gita/chapter-17"
+linkftext: "Chapter 17"
+icon: "/flags/in.png"
+---
+
+
 
 Krishna.
-Fearlessness, singleness of soul, the will
-Always to strive for wisdom; opened hand
-And governed appetites; and piety,
-And love of lonely study; humbleness,
-Uprightness, heed to injure nought which lives,
-Truthfulness, slowness unto wrath, a mind
-That lightly letteth go what others prize;
+
+Fearlessness, singleness of soul, the will always to strive for wisdom; opened hand
+And governed appetites; and piety, And love of lonely study; humbleness,
+Uprightness, heed to injure nought which lives, truthfulness, slowness unto wrath, a mind
+That lightly letteth go what others prize; 
+
 And equanimity, and charity
 Which spieth no man's faults; and tenderness
 Towards all that suffer; a contented heart,

@@ -1,14 +1,14 @@
 ---
-title: "The Bhagavad-Gita"
+title: "Renunciation"
 heading: "Chapter 5 of The Bhagavad-Gita Simplified"
 date: 2022-01-31
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/"
-linkbtext: "Index"
-linkf: "/research/indian/gita/"
-linkftext: "Index"
+linkb: "/research/indian/gita/chapter-04"
+linkbtext: "Chapter 4"
+linkf: "/research/indian/gita/chapter-06"
+linkftext: "Chapter 6"
 icon: "/flags/in.png"
 ---
 
@@ -18,8 +18,11 @@ Yet, Krishna! at the one time thou dost laud
 Surcease of works, and, at another time,
 Service through work. Of these twain plainly tell
 Which is the better way?
+
 Krishna.
+
 To cease from works
+
 Is well, and to do works in holiness
 Is well; and both conduct to bliss supreme;
 But of these twain the better way is his

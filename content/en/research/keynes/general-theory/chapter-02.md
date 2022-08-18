@@ -106,10 +106,9 @@ Let us assume that:
 - workers do not want to work for a lower nominal wage <!-- money-wage -->
 - a reduction of nominal wages <!-- money-wages --> would lead to unemployment through strikes<!--  or otherwise, to a withdrawal from the labour market of labour which is now employed.  -->
 
-{{< c c="red" >}}This does not mean that the existing real wages accurately measures the marginal disutility of labour* [workers refusing to work for slave wages]{{< /c >}}
+{{< c v="red" >}}This does not mean that the existing real wages accurately measures the marginal disutility of labour* [workers refusing to work for slave wages]{{< /c >}}
 
-> *Superphysics Note= Keynes' wrong assumption of making nominal wages more important than real wages leads to this wrong statement. He wrongly assumes that humans work for money (dollar bills, coins) and not for the food, essentials, and luxuries that that money provides
-
+> *Superphysics Note: Keynes' wrong assumption of making nominal wages more important than real wages leads to this wrong statement. He wrongly assumes that humans work for money (dollar bills, coins) and not for the food, essentials, and luxuries that that money provides
 
 
 
@@ -118,10 +117,9 @@ A reduction in the existing nominal-wage <!-- money-wage --> would lead to work 
 <!-- In other words, it may be the case that --> 
 
 
-{{< c c="red" >}}Within a certain range, the demand of labour is for a minimum nominal-wage <!-- money-wage --> and not for a minimum real wage.{{< /c >}}
+{{< c v="red" >}}Within a certain range, the demand of labour is for a minimum nominal-wage <!-- money-wage --> and not for a minimum real wage.{{< /c >}}
 
 {{< img src="/photos/wtf.jpg" cap="WTF?!? Humans work for paper bills and coins??" >}}
-![wtf]()
 
 
 The classical school has assumed that this would involve no significant change in their theory*. But this is not so. If the supply of labour is not a function of real wages as its sole variable, their argument breaks down entirely. It leaves the question of what the actual employment will be quite indeterminate.
@@ -144,12 +142,11 @@ Thus their method is tied up with their very special assumptions*. It cannot be 
 
 
 
-{{< c c="red">}}Workers normally want a <!-- labour stipulates (within limits) for --> a nominal-wage <!-- money-wage --> rather than a real wage.{{< /c >}} <!-- , so far from being a mere possibility, is the normal case.  --> Workers will usually resist a reduction of money-wages. {{< c c="red">}}But they do not withdraw their labour whenever inflation hits*.{{< /c >}}<!--  there is a rise in the price of wage-goods. --> 
+{{< c v="red">}}Workers normally want a <!-- labour stipulates (within limits) for --> a nominal-wage <!-- money-wage --> rather than a real wage.{{< /c >}} <!-- , so far from being a mere possibility, is the normal case.  --> This is because workers will usually resist a reduction of money-wages. {{< c v="red">}}But they do not withdraw their labour whenever inflation hits*.{{< /c >}}<!--  there is a rise in the price of wage-goods. --> 
 
 
 
-{{< img src="/photos/psych/facepalm.jpg" cap="WTF?!? Governments actually followed this assumption?" >}}
-![wtf]()
+{{< img src="/photos/psych/facepalm.jpg" cap="WTF?!? The reason why workers resist reduction in money-wages is because such a reduction is large and happens in one time. Inflation, on the other hand, is slow and happens in small amounts. Eventually when those small amounts add up to a large amount, workers will resist inflation too, just as they resisted an instant reduction in money wages." >}}
 
 
 > *Superphysics Note: Workers actually go on strike during inflation which is a temporary withdrawal of labour. 

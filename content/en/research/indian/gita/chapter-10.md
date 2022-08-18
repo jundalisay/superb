@@ -1,18 +1,30 @@
-CHAPTER X
+---
+title: "Who is Loved?"
+heading: "Chapter 10 of The Bhagavad-Gita Simplified"
+date: 2022-01-31
+author: "Vyasa"
+description: ""
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita/chapter-09"
+linkbtext: "Chapter 9"
+linkf: "/research/indian/gita/chapter-11"
+linkftext: "Chapter 11"
+icon: "/flags/in.png"
+---
+
 Krishna.[FN#l6]
-Hear farther yet, thou Long-Armed Lord! these latest words I say--
-Uttered to bring thee bliss and peace, who lovest Me alway--
+
+I say these words to bring you bliss and peace, who lovest Me alway--
 Not the great company of gods nor kingly Rishis know
 My Nature, Who have made the gods and Rishis long ago;
-He only knoweth-only he is free of sin, and wise,
-Who seeth Me, Lord of the Worlds, with faith-enlightened eyes,
-Unborn, undying, unbegun. Whatever Natures be
-To mortal men distributed, those natures spring from Me!
+
+He only knoweth-only he is free of sin, and wise, who seeth Me, Lord of the Worlds, with faith-enlightened eyes,
+Unborn, undying, unbegun. Whatever Natures be To mortal men distributed, those natures spring from Me!
 Intellect, skill, enlightenment, endurance, self-control,
 Truthfulness, equability, and grief or joy of soul,
 And birth and death, and fearfulness, and fearlessness, and shame,
-And honour, and sweet harmlessness,[FN#17] and peace which is the
-same
+And honour, and sweet harmlessness,[FN#17] and peace which is the same
+
 Whate'er befalls, and mirth, and tears, and piety, and thrift,
 And wish to give, and will to help,--all cometh of My gift!
 The Seven Chief Saints, the Elders Four, the Lordly Manus set--
@@ -29,38 +41,46 @@ And unto these--thus serving well, thus loving ceaselessly--
 I give a mind of perfect mood, whereby they draw to Me;
 And, all for love of them, within their darkened souls I dwell,
 And, with bright rays of wisdom's lamp, their ignorance dispel.
+
 Arjuna.
-Yes! Thou art Parabrahm! The High Abode!
-The Great Purification! Thou art God
-Eternal, All-creating, Holy, First,
-Without beginning! Lord of Lords and Gods!
+
+<!-- You art God Eternal, All-creating, Holy, First,
+Without beginning! Lord of Lords and Gods! -->
+
 Declared by all the Saints--by Narada,
 Vyasa Asita, and Devalas;
 And here Thyself declaring unto me!
-What Thou hast said now know I to be truth,
-O Kesava! that neither gods nor men
+
+What you have said now I know to be truth. 
+
+<!--  that neither gods nor men
 Nor demons comprehend Thy mystery
 Made manifest, Divinest! Thou Thyself
 Thyself alone dost know, Maker Supreme!
 Master of all the living! Lord of Gods!
 King of the Universe! To Thee alone
 Belongs to tell the heavenly excellence
-Of those perfections wherewith Thou dost fill
-These worlds of Thine; Pervading, Immanent!
-How shall I learn, Supremest Mystery!
-To know Thee, though I muse continually?
-Under what form of Thine unnumbered forms
-Mayst Thou be grasped? Ah! yet again recount,
-Clear and complete, Thy great appearances,
+Of those perfections wherewith Thou dost fill these worlds of Thine; Pervading, Immanent!
+How shall I learn, Supremest Mystery! -->
+
+To know You, must I muse continually?
+
+Under what form of Thine unnumbered forms can You be grasped? Ah! yet again recount, Clear and complete, Thy great appearances,
 The secrets of Thy Majesty and Might,
 Thou High Delight of Men! Never enough
 Can mine ears drink the Amrit[FN#18] of such words!
+
+
 Krishna.
-Hanta! So be it! Kuru Prince! I will to thee unfold
-Some portions of My Majesty, whose powers are manifold!
+
+I will unfold some portions of My Majesty to you. 
+
 I am the Spirit seated deep in every creature's heart;
+
 From Me they come; by Me they live; at My word they depart!
+
 Vishnu of the Adityas I am, those Lords of Light;
+
 Maritchi of the Maruts, the Kings of Storm and Blight;
 By day I gleam, the golden Sun of burning cloudless Noon;
 By Night, amid the asterisms I glide, the dappled Moon!
@@ -73,7 +93,8 @@ Know Me 'mid planetary Powers; 'mid Warriors heavenly
 Skanda; of all the water-floods the Sea which drinketh each,
 And Bhrigu of the holy Saints, and OM of sacred speech;
 Of prayers the prayer ye whisper;[FN#19] of hills Himala's snow,
-And Aswattha, the fig-tree, of all the trees that grow;
+
+of The Banyan tree <!-- Aswattha, the fig-tree, of all the trees that grow; -->
 Of the Devarshis, Narada; and Chitrarath of them
 That sing in Heaven, and Kapila of Munis, and the gem
 Of flying steeds, Uchchaisravas, from Amrit-wave which burst;
@@ -102,10 +123,12 @@ Of Vedic hymns the Vrihatsam, of metres Gayatri,
 Of months the Margasirsha, of all the seasons three
 The flower-wreathed Spring; in dicer's-play the conquering
 Double-Eight;
+
 The splendour of the splendid, and the greatness of the great,
 Victory I am, and Action! and the goodness of the good,
 And Vasudev of Vrishni's race, and of this Pandu brood
 Thyself!--Yea, my Arjuna! thyself; for thou art Mine!
+
 Of poets Usana, of saints Vyasa, sage divine;
 The policy of conquerors, the potency of kings,
 The great unbroken silence in learning's secret things;

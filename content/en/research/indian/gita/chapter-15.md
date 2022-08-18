@@ -1,14 +1,30 @@
-CHAPTER XV
+---
+title: "The Banyan Tree"
+heading: "Chapter 15 of The Bhagavad-Gita Simplified"
+date: 2022-01-31
+author: "Vyasa"
+description: ""
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita/chapter-14"
+linkbtext: "Chapter 14"
+linkf: "/research/indian/gita/chapter-16"
+linkftext: "Chapter 16"
+icon: "/flags/in.png"
+---
+
+
 
 Krishna.
-Men call the Aswattha,--the Banyan-tree,--
-Which hath its boughs beneath, its roots above,--
-The ever-holy tree. Yea! for its leaves
-Are green and waving hymns which whisper Truth!
-Who knows the Aswattha, knows Veds, and all.
+
+The Aswattha (Banyan-tree) has its boughs beneath, its roots above.
+
+It is an ever-holy tree. Its leaves are green and waving hymns which whisper Truth!
+
+Whoever knows the Aswattha, knows the Vedas, and all.
+
 Its branches shoot to heaven and sink to earth,[FN#30]
-Even as the deeds of men, which take their birth
-From qualities: its silver sprays and blooms,
+
+Even as the deeds of men, which take their birth from qualities: its silver sprays and blooms,
 And all the eager verdure of its girth,
 Leap to quick life at kiss of sun and air,
 As men's lives quicken to the temptings fair
@@ -50,8 +66,7 @@ And Touch and Taste, and Smelling, these it takes,--
 Yea, and a sentient mind;--linking itself
 To sense-things so.
 
-The unenlightened ones
-Mark not that Spirit when he goes or comes,
+The unenlightened ones mark not that Spirit when he goes or comes,
 Nor when he takes his pleasure in the form,
 Conjoined with qualities; but those see plain
 Who have the eyes to see. Holy souls see
@@ -59,6 +74,7 @@ Which strive thereto. Enlightened, they perceive
 That Spirit in themselves; but foolish ones,
 Even though they strive, discern not, having hearts
 Unkindled, ill-informed!
+
 Know, too, from Me
 Shineth the gathered glory of the suns
 Which lighten all the world: from Me the moons

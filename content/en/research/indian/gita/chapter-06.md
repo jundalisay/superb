@@ -5,10 +5,10 @@ date: 2022-01-31
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/"
-linkbtext: "Index"
-linkf: "/research/indian/gita/"
-linkftext: "Index"
+linkb: "/research/indian/gita/chapter-05"
+linkbtext: "Chapter 5"
+linkf: "/research/indian/gita/chapter-07"
+linkftext: "Chapter 7"
 icon: "/flags/in.png"
 ---
 
@@ -151,21 +151,24 @@ From holiness, missing the perfect rule?
 Is he not lost, straying from Brahma's light,
 Like the vain cloud, which floats 'twixt earth and heaven
 When lightning splits it, and it vanisheth?
+
 Fain would I hear thee answer me herein,
 Since, Krishna! none save thou can clear the doubt.
+
 Krishna.
-He is not lost, thou Son of Pritha! No!
-Nor earth, nor heaven is forfeit, even for him,
+
+He is not lost. Nor earth, nor heaven is forfeit, even for him,
 Because no heart that holds one right desire
 Treadeth the road of loss! He who should fail,
 Desiring righteousness, cometh at death
 Unto the Region of the Just; dwells there
 Measureless years, and being born anew,
 Beginneth life again in some fair home
-Amid the mild and happy. It may chance
-He doth descend into a Yogin house
-On Virtue's breast; but that is rare! Such birth
+Amid the mild and happy. 
+
+It may chance he descend into a Yogin house on Virtue's breast; but that is rare! Such birth
 Is hard to be obtained on this earth, Chief!
+
 So hath he back again what heights of heart
 He did achieve, and so he strives anew
 To perfectness, with better hope, dear Prince!

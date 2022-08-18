@@ -90,7 +90,9 @@ By a somewhat drastic simplification, the marginal efficiency of capital is take
 
 `the supply price of new consumers’ goods = the supply price of new producers’ goods`
 
-This ratio is then identified with the interest rate. This makes a fall in interest rate favourable to investment. Therefore, a fall in the ratio of the price of consumers’ goods to the price of producers’ goods is favourable to investment. 
+This ratio is then identified with the interest rate.
+- This makes a fall in interest rate favourable to investment.
+- Therefore, a fall in the ratio of the price of consumers’ goods to the price of producers’ goods is favourable to investment. 
 
 Through this, a link is established between:
 - increased saving by an individual and
@@ -100,26 +102,31 @@ Increased individual saving will:
 - reduce the price of consumers’ goods, and
 - a lesser fall in the price of producers’ goods
 
-This means that a reduction in interest rate will stimulate investment. 
+This means that a reduction in interest rate will stimulate investment.
 
 A lowering of the marginal efficiency of capital has the opposite effect to what the argument assumes because investment is stimulated either by:
 - raising the schedule of the marginal efficiency or 
 - lowering the interest rate 
 
-Professor von Mises confuses the marginal efficiency of capital with the rate of interest, causing their conclusions to be exactly the wrong way round. 
+Professor von Mises confuses the marginal efficiency of capital with the interest rate. 
+- It causes their conclusions to be exactly the wrong way round. 
 
-Professor Alvin Hansen writes:
 
+{{< q >}}
 “Mises has suggested that the net effect of reduced spending will be a lower price of consumers’ goods. This would minimize the stimulus to invest in fixed capital.
+<cite>Professor Alvin Hansen</cite>
+{{< /q >}}
 
-This is incorrect. It is based on a confusion of the effect on capital formation of 
 
-(1) higher or lower prices of consumers’ goods, and 
-(2) a change in the rate of interest. 
+This is incorrect. It is based on a confusion of the effect on capital formation of:
 
-Decreased spending and increased saving reduces consumer goods prices relative to that of producers’ goods. 
+1. higher or lower prices of consumers’ goods, and 
+2. a change in the rate of interest. 
 
-But this, in effect, means a lower rate of interest, and a lower rate of interest stimulates an expansion of capital investment in fields which at higher rates would be unprofitable.” 
+Decreased spending and increased saving reduces consumer goods prices, relative to that of producers’ goods. 
+
+But this, in effect, means a lower interest rate. A lower interest rate stimulates an expansion of capital investment in fields which at higher rates would be unprofitable.
+
 
 
 ## Author’s Footnotes 

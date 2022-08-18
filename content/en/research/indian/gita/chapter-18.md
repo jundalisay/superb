@@ -1,19 +1,39 @@
-CHAPTER 18
+---
+title: "The Bhagavad-Gita"
+heading: "Chapter 18 of The Bhagavad-Gita Simplified"
+date: 2022-01-31
+author: "Vyasa"
+description: ""
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita/chapter-17"
+linkbtext: "Chapter 17"
+linkf: "/research/indian/gita/"
+linkftext: "Index"
+icon: "/flags/in.png"
+---
+
 
 Arjuna.
-Fain would I better know, Thou Glorious One!
-The very truth--Heart's Lord!--of Sannyas,
-Abstention; and enunciation, Lord!
+
+
+The very truth is Abstention; and enunciation.
+
 Tyaga; and what separates these twain!
+
+
 Krishna.
-The poets rightly teach that Sannyas
-Is the foregoing of all acts which spring
-Out of desire; and their wisest say
+
+The poets rightly teach that Sannyas is the foregoing of all acts which spring out of desire; and their wisest say
 Tyaga is renouncing fruit of acts.
+
 There be among the saints some who have held
+
 All action sinful, and to be renounced;
+
 And some who answer, "Nay! the goodly acts--
+
 As worship, penance, alms--must be performed!"
+
 Hear now My sentence, Best of Bharatas!
 'Tis well set forth, O Chaser of thy Foes!
 Renunciation is of threefold form,
@@ -23,12 +43,15 @@ Are purifying waters for true souls!
 Yet must be practised even those high works
 In yielding up attachment, and all fruit
 Produced by works. This is My judgment, Prince!
+
 This My insuperable and fixed decree!
+
 Abstaining from a work by right prescribed
 Never is meet! So to abstain doth spring
 From "Darkness," and Delusion teacheth it.
 Abstaining from a work grievous to flesh,
 When one saith "'Tis unpleasing!" this is null!
+
 Such an one acts from "passion;" nought of gain
 Wins his Renunciation! But, Arjun!
 Abstaining from attachment to the work,
@@ -46,6 +69,7 @@ The fruit of labours, in the lives to come,
 Is threefold for all men,--Desirable,
 And Undesirable, and mixed of both;
 But no fruit is at all where no work was.
+
 Hear from me, Long-armed Lord! the makings five
 Which go to every act, in Sankhya taught
 As necessary. First the force; and then
@@ -69,7 +93,9 @@ By three dividing qualities. Hear now
 Which be the qualities dividing them.
 There is "true" Knowledge. Learn thou it is this:
 To see one changeless Life in all the Lives,
+
 And in the Separate, One Inseparable.
+
 There is imperfect Knowledge: that which sees
 The separate existences apart,
 And, being separated, holds them real.
@@ -151,25 +177,43 @@ The work of Brahmans, Kshatriyas, Vaisyas,
 And Sudras, O thou Slayer of thy Foes!
 Is fixed by reason of the Qualities
 Planted in each:
-A Brahman's virtues, Prince!
-Born of his nature, are serenity,
-Self-mastery, religion, purity,
-Patience, uprightness, learning, and to know
-The truth of things which be. A Kshatriya's pride,
-Born of his nature, lives in valour, fire,
-Constancy, skilfulness, spirit in fight,
-And open-handedness and noble mien,
-As of a lord of men. A Vaisya's task,
-Born with his nature, is to till the ground,
-Tend cattle, venture trade. A Sudra's state,
-Suiting his nature, is to minister.
-Whoso performeth--diligent, content--
-The work allotted him, whate'er it be,
+
+A Brahman's inherent virtues are:
+- serenity,
+- Self-mastery
+- religion
+- purity,
+- Patience
+- uprightness
+- learning, and
+- know the truth of things. 
+
+A Kshatriya's inherent virtues are:
+- pride,
+- valour,
+- fire,
+- constancy,
+- skilfulness,
+- fighting spirit,
+- open-handedness
+- noble mien as of a lord of men.
+
+A Vaisya's inherent virtues are:
+- to till the ground
+- tend cattle
+- venture trade. 
+
+A Sudra's inherent virtues are: 
+- to minister diligently and contently the work allotted him, whatever it be
+
 Lays hold of perfectness! Hear how a man
 Findeth perfection, being so content:
+
 He findeth it through worship--wrought by work--
 Of Him that is the Source of all which lives,
+
 Of HIM by Whom the universe was stretched.
+
 Better thine own work is, though done with fault,
 Than doing others' work, ev'n excellently.
 He shall not fall in sin who fronts the task
@@ -178,7 +222,9 @@ His natural duty, Prince! though it bear blame!
 For every work hath blame, as every flame
 Is wrapped in smoke! Only that man attains
 Perfect surcease of work whose work was wrought
+
 With mind unfettered, soul wholly subdued,
+
 Desires for ever dead, results renounced.
 Learn from me, Son of Kunti! also this,
 How one, attaining perfect peace, attains

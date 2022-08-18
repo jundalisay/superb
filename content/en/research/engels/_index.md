@@ -1,7 +1,8 @@
 ---
 title: "Frederick Engels"
-date: 2022-02-01
+heading: Very Unenlightened
+date: 2022-07-23
 description: Frederick Engels was a friend of Karl Marx
 author: "Frederick Engels"
-icon: /icons/engels.png
+image: /avatars/engels800.jpg
 ---

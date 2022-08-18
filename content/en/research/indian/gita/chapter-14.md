@@ -1,11 +1,31 @@
-CHAPTER XIV
+---
+title: "The Kalpas"
+heading: "Chapter 15 of The Bhagavad-Gita Simplified"
+date: 2022-01-31
+author: "Vyasa"
+description: ""
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita/chapter-13"
+linkbtext: "Chapter 13"
+linkf: "/research/indian/gita/chapter-15"
+linkftext: "Chapter 15"
+icon: "/flags/in.png"
+---
+
+
+
 Krishna.
+
 Yet farther will I open unto thee
 This wisdom of all wisdoms, uttermost,
 The which possessing, all My saints have passed
-To perfectness. On such high verities
+To perfectness. 
+
+On such high verities
+
 Reliant, rising into fellowship
 With Me, they are not born again at birth
+
 Of Kalpas, nor at Pralyas suffer change!
 This Universe the womb is where I plant
 Seed of all lives! Thence, Prince of India, comes
@@ -22,6 +42,7 @@ The sinless Soul to happiness and truth;
 And Passion, being kin to appetite,
 And breeding impulse and propensity,
 Binds the embodied Soul, O Kunti's Son!
+
 By tie of works. But Ignorance, begot
 Of Darkness, blinding mortal men, binds down
 Their souls to stupor, sloth, and drowsiness.
@@ -67,14 +88,17 @@ Thus passing forth from the Three Qualities--
 Whereby arise all bodies--overcomes
 Birth, Death, Sorrow, and Age; and drinketh deep
 The undying wine of Amrit.
+
 Arjuna.
-Oh, my Lord!
-Which be the signs to know him that hath gone
-Past the Three Modes? How liveth he? What way
-Leadeth him safe beyond the threefold Modes?
+
+How do I know if a person has gone past the 3 Modes? 
+
+<!-- How liveth he? What way
+Leadeth him safe beyond the threefold Modes? -->
+
 Krishna.
-He who with equanimity surveys
-Lustre of goodness, strife of passion, sloth
+
+He who with equanimity surveys Lustre of goodness, strife of passion, sloth
 Of ignorance, not angry if they are,
 Not wishful when they are not: he who sits
 A sojourner and stranger in their midst
@@ -88,13 +112,13 @@ For lovely and unlovely things, firm-set,
 Well-pleased in praise and dispraise; satisfied
 With honour or dishonour; unto friends
 And unto foes alike in tolerance;
-Detached from undertakings,--he is named
-Surmounter of the Qualities!
-And such--
-With single, fervent faith adoring Me,
+Detached from undertakings,--he is named Surmounter of the Qualities!
+
+And such--With single, fervent faith adoring Me,
 Passing beyond the Qualities, conforms
+
 To Brahma, and attains Me!
-For I am
-That whereof Brahma is the likeness! Mine
+
+For I am That whereof Brahma is the likeness! Mine
 The Amrit is; and Immortality
 Is mine; and mine perfect Felicity!

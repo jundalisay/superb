@@ -1,14 +1,14 @@
 ---
-title: "The Bhagavad-Gita"
+title: "Krishna and Arjuna"
 heading: "Chapter 1 of The Bhagavad-Gita Simplified"
 date: 2022-01-31
 author: "Vyasa"
 description: ""
-# image: "/covers/yoga.jpg"
-linkb: "/research/indian/gita/"
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita"
 linkbtext: "Index"
-linkf: "/research/indian/gita/"
-linkftext: "Index"
+linkf: "/research/indian/gita/chapter-02"
+linkftext: "Chapter 2"
 icon: "/flags/in.png"
 ---
 
@@ -16,30 +16,18 @@ icon: "/flags/in.png"
 <!-- The Song Celestial. or  -->
 
 
-
-(From the Mahabharata)
+<!-- (From the Mahabharata)
 
 Being a Discourse Between Arjuna, Prince of India, and the Supreme Being
 Under the Form of Krishna
 
 Translated from the Sanskrit Text by Sir Edwin Arnold, New York 1900
 
-
-Dedication
-
-TO INDIA
-
-So have I read this wonderful and spirit-thrilling speech,
-By Krishna and Prince Arjun held, discoursing each with each;
-So have I writ its wisdom here,--its hidden mystery,
-For England; O our India! as dear to me as She!
-
-EDWIN ARNOLD
+ -->
 
 
 
-
-
+<!-- 
 PREFACE
 
 This famous and marvellous Sanskrit poem occurs as an episode of the Mahabharata, in the sixth--or "Bhishma"--Parva of the great Hindoo epic. It enjoys immense popularity and authority in India, where it is reckoned as one of the ``Five Jewels,"--pancharatnani--of Devanagiri literature. In plain but noble language it unfolds a philosophical system which remains to this day the prevailing Brahmanic belief, blending as it does the doctrines of Kapila, Patanjali, and the Vedas. So lofty are many of its declarations, so sublime its aspirations, so pure and tender its piety, that Schlegel, after his study of the poem, breaks forth into this outburst of delight and praise towards its unknown author: "Magistrorum reverentia a Brachmanis inter sanctissima pietatis officia refertur. Ergo te primum, Vates sanctissime, Numinisque hypopheta! quisquis tandem inter mortales dictus tu fueris, carminis bujus auctor,, cujus oraculis mens ad excelsa quaeque,quaeque,, aeterna atque divina, cum inenarraoih quddam delectatione rapitur-te primum, inquam, salvere jubeo, et vestigia tua semper adore." Lassen re-echoes this splendid tribute; and indeed, so striking are some of the moralities here inculcated, and so close the parallelism--ofttimes actually verbal-- between its teachings and those of the New Testament, that a controversy has arisen between Pandits and Missionaries on the point whether the author borrowed from Christian sources, or the Evangelists and Apostles from him.
@@ -53,14 +41,10 @@ The poem has been turned into French by Burnouf, into Latin by Lassen, into Ital
 There is little else to say which the "Song Celestial" does not explain for itself. The Sanskrit original is written in the Anushtubh metre, which cannot be successfully reproduced for Western ears. I have therefore cast it into our flexible blank verse, changing into lyrical measures where the text itself similarly breaks. For the most part, I believe the sense to be faithfully preserved in the following pages; but Schlegel himself had to say: "In reconditioribus me semper poetafoster mentem recte divinasse affirmare non ausim." Those who would read more upon the philosophy of the poem may find an admirable introduction in the volume of Mr Davies, printed by Messrs Trubner & Co.
 
 EDWIN ARNOLD, C.S.I.
+ -->
 
 
-
-
-
-CONTENTS
-
-I. THE DISTRESS OF ARJUNA
+<!-- I. THE DISTRESS OF ARJUNA
 II. THE BOOK OF DOCTRINES
 III. VIRTUE IN WORK
 IV. THE RELIGION OF KNOWLEDGE
@@ -77,47 +61,55 @@ XIV. RELIGION BY SEPARATION FROM THE QUALITIES
 XV. RELIGION BY ATTAINING THE SUPREME
 XVI. THE SEPARATENESS OF THE DIVINE AND UNDIVINE
 XVII. RELIGION BY THE THREEFOLD FAITH
-XVIII. RELIGION BY DELIVERANCE AND RENUNCIATION
+XVIII. RELIGION BY DELIVERANCE AND RENUNCIATION -->
 
-
-
-
-CHAPTER I
 
 {{< l a="Dhritirashtra" >}}
-Ranged thus for battle on the sacred plain--
-On Kurukshetra--say, Sanjaya! say 
-What wrought my people, and the Pandavas?
+We are here for battle on the sacred plain on Kurukshetra. 
+
+Sanjaya, what happened between my people and the Pandavas?
 {{< /l >}}
 
+The host of Pandavas, Raja Duryodhana<!--  to Drona drew -->, said: 
+
+{{< r a="Sanjaya" >}}
+Ah, Guru! The Pandu fighting-men are many. They were embattled by the son of Drupada, your scholar in the war! 
+
+They have chiefs like:
+- Arjuna, like to Bhima chiefs
+- Benders of bows; Virata, Yuyudhan, Drupada, eminent upon his car, Dhrishtaket, Chekitan, Kasi's stout lord,
+Purujit, Kuntibhoj, and 
+- Saivya, With Yudhamanyu, and Uttamauj Subhadra's child; and Drupadi's;-all famed!
+
+They are all mounted on their shining chariots.
+{{< /r >}}
+
+{{< r a="Sanjaya" >}}
+Our side has excellent chiefs:
+- You
+- Bhishma
+- Karna
+- Kripa fierce in fight
+- Vikarna
+- Aswatthaman
+
+Then:
+- Strong Saumadatti, with full many more Valiant and tried, ready this day to die for me, each with his weapon grasped,
+Each skilful in the field. 
+
+<!-- Weakest-meseems- -->
+{{< /r >}}
 
 
 {{< r a="Sanjaya" >}}
-The host of Pandavas, Raja Duryodhana<!--  to Drona drew -->, said: 
-
-"Ah, Guru! How vast it is of Pandu fighting-men,
-Embattled by the son of Drupada,
-Thy scholar in the war! Therein stand ranked
-Chiefs like Arjuna, like to Bhima chiefs,
-Benders of bows; Virata, Yuyudhan,
-Drupada, eminent upon his car, Dhrishtaket, Chekitan, Kasi's stout lord,
-Purujit, Kuntibhoj, and Saivya, With Yudhamanyu, and Uttamauj
-Subhadra's child; and Drupadi's;-all famed!
-All mounted on their shining chariots!
-On our side, too,--thou best of Brahmans! see
-Excellent chiefs, commanders of my line,
-Whose names I joy to count: thyself the first,
-Then Bhishma, Karna, Kripa fierce in fight,
-Vikarna, Aswatthaman; next to these
-Strong Saumadatti, with full many more
-Valiant and tried, ready this day to die
-For me their king, each with his weapon grasped,
-Each skilful in the field. Weakest-meseems-
 Our battle shows where Bhishma holds command,
-And Bhima, fronting him, something too strong!
+
+Bhima, fronting him, something too strong!
 
 Have care our captains nigh to Bhishma's ranks
+
 Prepare what help they may! Now, blow my shell!"
+
 Then, at the signal of the aged king,
 With blare to wake the blood, rolling around
 Like to a lion's roar, the trumpeter
@@ -125,6 +117,8 @@ Blew the great Conch; and, at the noise of it,
 Trumpets and drums, cymbals and gongs and horns
 Burst into sudden clamour; as the blasts
 Of loosened tempest, such the tumult seemed!
+{{< /r >}}
+
 
 Then might be seen, upon their car of gold
 Yoked with white steeds, blowing their battle-shells,
@@ -175,16 +169,20 @@ Some that side ranged: and, seeing those opposed,
 Such kith grown enemies-Arjuna's heart
 Melted with pity, while he uttered this:
 
+
 Arjuna.
 
 Krishna! as I behold, come here to shed
 Their common blood, yon concourse of our kin,
+
 My members fail, my tongue dries in my mouth,
 A shudder thrills my body, and my hair
 Bristles with horror; from my weak hand slips
 Gandiv, the goodly bow; a fever burns
 My skin to parching; hardly may I stand;
+
 The life within me seems to swim and faint;
+
 Nothing do I foresee save woe and wail!
 It is not good, O Keshav! nought of good
 Can spring from mutual slaughter! Lo, I hate
@@ -223,11 +221,13 @@ Its women grow unwomaned, whence there spring
 Mad passions, and the mingling-up of castes,
 Sending a Hell-ward road that family,
 And whoso wrought its doom by wicked wrath.
+
 Nay, and the souls of honoured ancestors
 Fall from their place of peace, being bereft
 Of funeral-cakes and the wan death-water.[FN#1]
 So teach our holy hymns. Thus, if we slay
 Kinsfolk and friends for love of earthly power,
+
 Ahovat! what an evil fault it were!
 Better I deem it, if my kinsmen strike,
 To face them weaponless, and bare my breast

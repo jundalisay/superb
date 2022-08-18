@@ -1,22 +1,41 @@
-CHAPTER 11
+---
+title: "Who is Loved?"
+heading: "Chapter 11 of The Bhagavad-Gita Simplified"
+date: 2022-01-31
+author: "Vyasa"
+description: ""
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita/chapter-10"
+linkbtext: "Chapter 10"
+linkf: "/research/indian/gita/chapter-12"
+linkftext: "Chapter 12"
+icon: "/flags/in.png"
+---
+
 
 Arjuna.
-This, for my soul's peace, have I heard from Thee,
-The unfolding of the Mystery Supreme
-Named Adhyatman; comprehending which,
-My darkness is dispelled; for now I know--
-O Lotus-eyed![FN#21]--whence is the birth of men,
+
+The unfolding of the Mystery Supreme called Adhyatman. 
+
+It dispells my darkness is dispelled. Now I know--
+<!-- O Lotus-eyed![FN#21]-- -->
+whence is the birth of men,
 And whence their death, and what the majesties
-Of Thine immortal rule. Fain would I see,
-As thou Thyself declar'st it, Sovereign Lord!
+Of Thine immortal rule. 
+
+Fain would I see, as thou Thyself declar'st it, Sovereign Lord!
 The likeness of that glory of Thy Form
 Wholly revealed. O Thou Divinest One!
 If this can be, if I may bear the sight,
 Make Thyself visible, Lord of all prayers!
 Show me Thy very self, the Eternal God!
+
+
+
 Krishna.
-Gaze, then, thou Son of Pritha! I manifest for thee
-Those hundred thousand thousand shapes that clothe my Mystery:
+
+I manifest for you those hundred thousand thousand shapes that clothe my Mystery. 
+
 I show thee all my semblances, infinite, rich, divine,
 My changeful hues, my countless forms. See! in this face of mine,
 Adityas, Vasus, Rudras, Aswins, and Maruts; see
@@ -27,7 +46,9 @@ On GOD ETERNAL, VERY GOD! See Me! see what thou prayest!
 Thou canst not!--nor, with human eyes, Arjuna! ever mayest!
 Therefore I give thee sense divine. Have other eyes, new light!
 And, look! This is My glory, unveiled to mortal sight!
+
 Sanjaya.
+
 Then, O King! the God, so saying,
 Stood, to Pritha's Son displaying
 All the splendour, wonder, dread
@@ -58,29 +79,31 @@ All its huge diversity
 Into one vast shape, and be
 Visible, and viewed, and blended
 In one Body--subtle, splendid,
-Nameless--th' All-comprehending
-God of Gods, the Never-Ending
-Deity!
+Nameless--th' All-comprehending God of Gods, the Never-Ending Deity!
+
 But, sore amazed,
-Thrilled, o'erfilled, dazzled, and dazed,
-Arjuna knelt; and bowed his head,
+
+Thrilled, o'erfilled, dazzled, and dazed, Arjuna knelt; and bowed his head,
+
 And clasped his palms; and cried, and said:
+
 Arjuna.
-Yea! I have seen! I see!
-Lord! all is wrapped in Thee!
-The gods are in Thy glorious frame! the creatures
-Of earth, and heaven, and hell
-In Thy Divine form dwell,
-And in Thy countenance shine all the features
+
+I have seen that all is wrapped in You!
+
+The gods are in Thy glorious frame! the creatures of earth, and heaven, and hell
+In Thy Divine form dwell, And in Thy countenance shine all the features
 Of Brahma, sitting lone
 Upon His lotus-throne;
+
 Of saints and sages, and the serpent races
 Ananta, Vasuki;
-Yea! mightiest Lord! I see
-Thy thousand thousand arms, and breasts, and faces,
+
+I see your thousand thousand arms, and breasts, and faces,
 And eyes,--on every side
 Perfect, diversified;
-And nowhere end of Thee, nowhere beginning,
+
+nowhere end of Thee, nowhere beginning,
 Nowhere a centre! Shifts--
 Wherever soul's gaze lifts--
 Thy central Self, all-wielding, and all-winning!
@@ -92,15 +115,17 @@ Lighting earth, heaven, and hell
 With brilliance blazing, glowing, flashing; turning
 Darkness to dazzling day,
 Look I whichever way;
-Ah, Lord! I worship Thee, the Undivided,
-The Uttermost of thought,
+
+I worship Thee, the Undivided, The Uttermost of thought,
 The Treasure-Palace wrought
 To hold the wealth of the worlds; the Shield provided
 To shelter Virtue's laws;
 The Fount whence Life's stream draws
 All waters of all rivers of all being:
 The One Unborn, Unending:
+
 Unchanging and Unblending!
+
 With might and majesty, past thought, past seeing!
 Silver of moon and gold
 Of sun are glories rolled
@@ -204,44 +229,51 @@ Namostu Te, Devavara! Prasid![FN#23]
 O Mightiest Lord! rehearse
 Why hast Thou face so fierce?
 Whence doth this aspect horrible proceed?
+
 Krishna.
-Thou seest Me as Time who kills,
-Time who brings all to doom,
-The Slayer Time, Ancient of Days, come hither to consume;
+
+You see Me as Time who kills, Time who brings all to doom, The Slayer Time, Ancient of Days, come hither to consume;
 Excepting thee, of all these hosts of hostile chiefs arrayed,
 There stands not one shall leave alive the battlefield! Dismayed
 No longer be! Arise! obtain renown! destroy thy foes!
+
 Fight for the kingdom waiting thee when thou hast vanquished those.
 By Me they fall--not thee! the stroke of death is dealt them now,
 Even as they show thus gallantly; My instrument art thou!
 Strike, strong-armed Prince, at Drona! at Bhishma strike! deal death
 On Karna, Jyadratha; stay all their warlike breath!
+
 'Tis I who bid them perish! Thou wilt but slay the slain;
 Fight! they must fall, and thou must live, victor upon this plain!
+
+
 Sanjaya.
-Hearing mighty Keshav's word,
-Tremblingly that helmed Lord
+
+Hearing mighty Keshav's word, Tremblingly that helmed Lord
 Clasped his lifted palms, and--praying
 Grace of Krishna--stood there, saying,
 With bowed brow and accents broken,
 These words, timorously spoken:
+
 Arjuna.
-Worthily, Lord of Might!
-The whole world hath delight
-In Thy surpassing power, obeying Thee;
-The Rakshasas, in dread
-At sight of Thee, are sped
-To all four quarters; and the company
-Of Siddhas sound Thy name.
-How should they not proclaim
-Thy Majesties, Divinest, Mightiest?
+
+
+The whole world hath delight In Thy surpassing power, obeying Thee;
+The Rakshasas, in dread At sight of Thee, are sped
+To all four quarters; and the company of Siddhas sound Thy name.
+
+How should they not proclaim Thy Majesties, Divinest, Mightiest?
 Thou Brahm, than Brahma greater!
+
 Thou Infinite Creator!
+
 Thou God of gods, Life's Dwelling-place and Rest!
 Thou, of all souls the Soul!
 The Comprehending Whole!
+
 Of being formed, and formless being the Framer;
 O Utmost One! O Lord!
+
 Older than eld, Who stored
 The worlds with wealth of life! O Treasure-Claimer,
 Who wottest all, and art
@@ -252,29 +284,26 @@ The aspects are of Thee!
 Vayu[FN#24] Thou art, and He who keeps the prison
 Of Narak, Yama dark;
 And Agni's shining spark;
-Varuna's waves are Thy waves. Moon and starlight
-Are Thine! Prajapati
-Art Thou, and 'tis to Thee
+Varuna's waves are Thy waves. Moon and starlight are Thine! 
+
+Prajapati Art Thou, and 'tis to Thee
 They knelt in worshipping the old world's far light,
 The first of mortal men.
-Again, Thou God! again
-A thousand thousand times be magnified!
+Again, Thou God! again a thousand thousand times be magnified!
 Honour and worship be--
 Glory and praise,--to Thee
 Namo, Namaste, cried on every side;
+
 Cried here, above, below,
 Uttered when Thou dost go,
 Uttered where Thou dost come! Namo! we call;
-Namostu! God adored!
-Namostu! Nameless Lord!
-Hail to Thee! Praise to Thee! Thou One in all;
-For Thou art All! Yea, Thou!
-Ah! if in anger now
+
+if in anger now
 Thou shouldst remember I did think Thee Friend,
 Speaking with easy speech,
 As men use each to each;
-Did call Thee "Krishna," "Prince," nor comprehend
-Thy hidden majesty,
+
+Did call Thee "Krishna," "Prince," nor comprehend your hidden majesty,
 The might, the awe of Thee;
 Did, in my heedlessness, or in my love,
 On journey, or in jest,
@@ -316,9 +345,10 @@ Thou of the thousand arms and countless eyes!
 This frightened heart is fain
 To see restored again
 My Charioteer, in Krishna's kind disguise.
+
 Krishna.
-Yea! thou hast seen, Arjuna! because I loved thee well,
-The secret countenance of Me, revealed by mystic spell,
+
+You have seen because I loved you well. The secret countenance of Me, revealed by mystic spell,
 Shining, and wonderful, and vast, majestic, manifold,
 Which none save thou in all the years had favour to behold;
 For not by Vedas cometh this, nor sacrifice, nor alms,
@@ -333,29 +363,29 @@ Once more I am thy Krishna, the form thou knew'st of old!
 
 Sanjaya.
 
-These words to Arjuna spake
-Vasudev, and straight did take
-Back again the semblance dear
-Of the well-loved charioteer;
-Peace and joy it did restore
-When the Prince beheld once more
-Mighty BRAHMA's form and face
-Clothed in Krishna's gentle grace.
+These words to Arjuna spake Vasudev, and straight did take
+Back again the semblance dear Of the well-loved charioteer;
+Peace and joy it did restore When the Prince beheld once more
+Mighty BRAHMA's form and face Clothed in Krishna's gentle grace.
+
 Arjuna.
+
 Now that I see come back, Janardana!
+
 This friendly human frame, my mind can think
 Calm thoughts once more; my heart beats still again!
+
+
 Krishna.
-Yea! it was wonderful and terrible
-To view me as thou didst, dear Prince! The gods
-Dread and desire continually to view!
-Yet not by Vedas, nor from sacrifice,
-Nor penance, nor gift-giving, nor with prayer
+
+It was wonderful and terrible to see me as you did.  The gods dread and desire continually to view!
+
+Yet not by Vedas, nor from sacrifice, Nor penance, nor gift-giving, nor with prayer
 Shall any so behold, as thou hast seen!
-Only by fullest service, perfect faith,
-And uttermost surrender am I known
+
+Only by fullest service, perfect faith, and uttermost surrender am I known
 And seen, and entered into, Indian Prince!
-Who doeth all for Me; who findeth Me
-In all; adoreth always; loveth all
+
+Who doeth all for Me; who findeth Me In all; adoreth always; loveth all
 Which I have made, and Me, for Love's sole end
 That man, Arjuna! unto Me doth wend.

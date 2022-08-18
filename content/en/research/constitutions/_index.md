@@ -1,5 +1,6 @@
 ---
-title: "Constitutions"
+title: "Constitutions of the World"
+heading: "Unenlightened"
+date: 2022-08-01
 image: "/flags/eu.png"
-date: 2020-10-31
 ---

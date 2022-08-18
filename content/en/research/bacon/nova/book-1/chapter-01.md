@@ -1,5 +1,5 @@
 ---
-title: "THE INTERPRETATION OF NATURE"
+title: "The Interpretation Of Nature"
 heading: Chapter 1 Book 1 of Nova Organum
 date: 2022-01-31
 description: ""
@@ -63,9 +63,11 @@ The specious meditations, speculations, and theories of mankind are but a kind o
 
 ## Logic
 
-{{< s v="11" >}} The present sciences are useless for the discovery of effects. Likewise, the present system of logic is useless for the discovery of the sciences.
+{{< s v="11" >}} The present sciences are useless for the discovery of effects.
+- Likewise, the present system of logic is useless for the discovery of the sciences.
 
-{{< s v="12" >}} The present system of logic rather assists in confirming and rendering inveterate the errors founded on vulgar notions than in searching after truth. It is therefore more hurtful than useful.
+{{< s v="12" >}} The present system of logic rather assists in confirming and rendering inveterate the errors founded on vulgar notions than in searching after truth. 
+- It is therefore more hurtful than useful.
 
 {{< s v="13" >}} The syllogism is:
 - not applied to the principles of the sciences
@@ -101,27 +103,63 @@ The one hurries on rapidly from the senses and particulars to the most general a
 
 This is the way now in use. The other constructs its axioms from the senses and particulars, by ascending continually and gradually, till it finally arrives at the most general axioms, which is the true but unattempted way.
 
-{{< s v="20" >}} The understanding when left to itself proceeds by the same way as that which it would have adopted under the guidance of logic, namely, the first; for the mind is fond of starting off to generalities, that it may avoid labor, and[16] after dwelling a little on a subject is fatigued by experiment. 
+{{< s v="20" >}} When left to itself, the understanding follows the flow of logic:
 
-But those evils are augmented by logic, for the sake of the ostentation of dispute.
+1. The mind starts off to generalities so that it may avoid labor[16], then after dwelling a little on a subject is fatigued by experiment.
 
-{{< s v="21" >}} The understanding, when left to itself in a man of a steady, patient, and reflecting disposition (especially when unimpeded by received doctrines), makes some attempt in the right way, but with little effect, since the understanding, undirected and unassisted, is unequal to and unfit for the task of vanquishing the obscurity of things.
+<!-- proceeds by the same way as that which it would have adopted under the guidance of logic, namely, the first; for --> 
+<!-- But those evils are augmented by logic, for the sake of the ostentation of dispute. -->
 
-{{< s v="22" >}} Each of these two ways begins from the senses and particulars, and ends in the greatest generalities. But they are immeasurably different; for the one merely touches cursorily the limits of experiment and particulars, while the other runs duly and regularly through them—the one from the very outset lays down some abstract and useless generalities, the other gradually rises to those principles which are really the most common in nature.[6]
+2. {{< s v="21" >}} Then the mind tries to go in the right way. 
 
-{{< s v="23" >}} There is no small difference between the idols of the human mind and the ideas of the Divine mind—that is to say, between certain idle dogmas and the real stamp and impression of created objects, as they are found in nature.
+This is true for people with a steady, patient, and reflecting disposition (especially when unimpeded by received doctrines), 
 
-{{< s v="24" >}} Axioms determined upon in argument can never assist in the discovery of new effects; for the subtilty of nature is vastly superior to that of argument. But axioms properly and regularly abstracted from particulars easily[17] point out and define new particulars, and therefore impart activity to the sciences.
+But the mind fails to vanquish the obscurity of things.
+<!-- but with little effect, since the understanding, undirected and unassisted, is unequal to and unfit for the task of  -->
 
-{{< s v="25" >}} The axioms now in use are derived from a scanty handful, as it were, of experience, and a few particulars of frequent occurrence, whence they are of much the same dimensions or extent as their origin. And if any neglected or unknown instance occurs, the axiom is saved by some frivolous distinction, when it would be more consistent with truth to amend it.
+{{< s v="22" >}} Each of these 2 ways:
+- begins from the senses and particulars
+- ends in the greatest generalities.
 
-{{< s v="26" >}} We are wont, for the sake of distinction, to call that human reasoning which we apply to nature the anticipation of nature (as being rash and premature), and that which is properly deduced from things the interpretation of nature.
+But they are immeasurably different. 
 
-{{< s v="27" >}} Anticipations are sufficiently powerful in producing unanimity, for if men were all to become even uniformly mad, they might agree tolerably well with each other.
+The one merely touches cursorily the limits of experiment and particulars
+- The other runs duly and regularly through them
 
-{{< s v="28" >}} Anticipations again, will be assented to much more readily than interpretations, because being deduced from a few instances, and these principally of familiar occurrence, they immediately hit the understanding and satisfy the imagination. 
+The one from the very outset lays down some abstract and useless generalities
+- The other gradually rises to those principles which are really the most common in nature.[6]
 
-On the contrary, interpretations, being deduced from various subjects, and these widely dispersed, cannot suddenly strike the understanding, so that in common estimation they must appear difficult and discordant, and almost like the mysteries of faith.
+{{< s v="23" >}} There is no small difference between:
+- the idols of the human mind and
+  - These are idle dogmas and the real stamp and impression of created objects as found in nature.
+- the ideas of the Divine mind
+
+
+{{< s v="24" >}} Axioms determined upon in argument can never assist in the discovery of new effects. 
+- This is because the subtilty of nature is vastly superior to that of argument.
+
+But axioms properly and regularly abstracted from particulars easily[17] point out and define new particulars, and therefore impart activity to the sciences.
+
+{{< s v="25" >}} The axioms now in use are derived from a scanty handful experience, and a few particulars of frequent occurrence, whence they are of much the same dimensions or extent as their origin. 
+
+If any neglected or unknown instance occurs, the axiom is saved by some frivolous distinction, when it would be more consistent with truth to amend it.
+
+
+## Anticipations Versus Interpretations
+
+{{< s v="26" >}} We say that:
+- "the anticipation of nature" is that rash and premature human reasoning which we apply to nature. 
+- "the interpretation of nature" is that which is properly deduced from things.
+
+{{< s v="27" >}} Anticipations:
+- are powerful in producing unanimity. 
+  - If men were all to become even uniformly mad, they might agree tolerably well with each other.
+- {{< s v="28" >}} will be assented to much more readily than interpretations
+  - This is because they are deduced from a few familiar instances which lets them hit the understanding and satisfy the imagination. 
+
+On the contrary, interpretations are deduced from various subjects which are widely dispersed. 
+- They cannot suddenly strike the understanding. 
+- In common estimation, they must appear difficult and discordant, and almost like the mysteries of faith.
 
 {{< s v="29" >}} In sciences founded on opinions and dogmas, it is right to make use of anticipations and logic if you wish to force assent rather than things.
 
@@ -147,8 +185,11 @@ Likewise, we want our philosophy to make its way quietly into those minds that a
 - They must renounce their notions for a while, and begin to get acquainted with things.
 
 
-{{< s v="37" >}} Our method intitially match that of the skeptics. But we are very different and opposite in our <!--  most widely, and are completely opposed to each other in their --> conclusion. 
+{{< s v="37" >}} Our method intitially matches that of the skeptics.
+- But we are very different and opposite in our <!--  most widely, and are completely opposed to each other in their --> conclusion. 
 
-They assert that nothing can be known. But we say that a small part of nature can be known by the present method. 
+They assert that nothing can be known.
+- But we say that a small part of nature can be known by the present method. 
 
-Their next step, however, is to destroy the authority of the senses and understanding, while we invent and supply them with assistance.
+Their next step, however, is to destroy the authority of the senses and understanding.
+- But we invent and supply them with assistance.

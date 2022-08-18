@@ -1,22 +1,39 @@
-CHAPTER 13
+---
+title: "The Soul"
+heading: "Chapter 13 of The Bhagavad-Gita Simplified"
+date: 2022-01-31
+author: "Vyasa"
+description: ""
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita/chapter-12"
+linkbtext: "Chapter 12"
+linkf: "/research/indian/gita/chapter-14"
+linkftext: "Chapter 14"
+icon: "/flags/in.png"
+---
 
-Arjuna.
-Now would I hear, O gracious Kesava![FN#26]
-Of Life which seems, and Soul beyond, which sees,
-And what it is we know-or think to know.
-Krishna.
-Yea! Son of Kunti! for this flesh ye see
-Is Kshetra, is the field where Life disports;
-And that which views and knows it is the Soul,
-Kshetrajna. In all "fields," thou Indian prince!
-I am Kshetrajna. I am what surveys!
-Only that knowledge knows which knows the known
-By the knower![FN#27] What it is, that "field" of life,
+
+<!-- {{< l a="Arjuna" >}} -->
+<!-- Now would I hear, O gracious Kesava![FN#26] -->
+Arjuna asks: What is life, the soul, and knowledge?
+
+Krishna replies:
+
+The body that you see is Kshetra.
+- It is the field where Life disports.
+
+The Soul is Kshetrajna. It view and knokws the body. 
+
+In all "fields" I am Kshetrajna. I am what surveys.
+
+Only that knowledge knows which knows the known.
+
+<!-- By the knower![FN#27] --> What it is, that "field" of life,
 What qualities it hath, and whence it is,
 And why it changeth, and the faculty
 That wotteth it, the mightiness of this,
-And how it wotteth-hear these things from Me!
-. . . . . . . . . . . .[FN#28]
+And how it wotteth-hear these things from Me!. . . . . . . . . . . .[FN#28]
+
 The elements, the conscious life, the mind,
 The unseen vital force, the nine strange gates
 Of the body, and the five domains of sense;
@@ -29,10 +46,9 @@ Purity, constancy, control of self,
 Contempt of sense-delights, self-sacrifice,
 Perception of the certitude of ill
 In birth, death, age, disease, suffering, and sin;
-Detachment, lightly holding unto home,
-Children, and wife, and all that bindeth men;
-An ever-tranquil heart in fortunes good
-And fortunes evil, with a will set firm
+
+Detachment, lightly holding unto home, children, and wife, and all that bindeth men;
+An ever-tranquil heart in fortunes good And fortunes evil, with a will set firm
 To worship Me--Me only! ceasing not;
 Loving all solitudes, and shunning noise
 Of foolish crowds; endeavours resolute
@@ -66,9 +82,8 @@ The Light of Lights He is, in the heart of the Dark
 Shining eternally. Wisdom He is
 And Wisdom's way, and Guide of all the wise,
 Planted in every heart.
-So have I told
-Of Life's stuff, and the moulding, and the lore
-To comprehend. Whoso, adoring Me,
+
+So have I told of Life's stuff, and the moulding, and the lore to comprehend. Whoso, adoring Me,
 Perceiveth this, shall surely come to Me!
 Know thou that Nature and the Spirit both
 Have no beginning! Know that qualities
@@ -80,8 +95,8 @@ To moulded matter, entereth into bond
 With qualities by Nature framed, and, thus
 Married to matter, breeds the birth again
 In good or evil yonis.[FN#29]
-Yet is this
-Yea! in its bodily prison!--Spirit pure,
+
+Yet is this in its bodily prison!--Spirit pure,
 Spirit supreme; surveying, governing,
 Guarding, possessing; Lord and Master still
 PURUSHA, Ultimate, One Soul with Me.
@@ -97,6 +112,7 @@ Some, never so attaining, hear of light
 From other lips, and seize, and cleave to it
 Worshipping; yea! and those--to teaching true--
 Overpass Death!
+
 Wherever, Indian Prince!
 Life is--of moving things, or things unmoved,
 Plant or still seed--know, what is there hath grown
@@ -114,9 +130,9 @@ Acting, yet not the agent; sees the mass
 Of separate living things--each of its kind--
 Issue from One, and blend again to One:
 Then hath he BRAHMA, he attains!
-O Prince!
-That Ultimate, High Spirit, Uncreate,
-Unqualified, even when it entereth flesh
+
+
+That Ultimate, High Spirit, Uncreate, Unqualified, even when it entereth flesh
 Taketh no stain of acts, worketh in nought!
 Like to the ethereal air, pervading all,
 Which, for sheer subtlety, avoideth taint,

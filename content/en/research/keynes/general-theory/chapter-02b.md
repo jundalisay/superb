@@ -51,7 +51,7 @@ But there is a more fundamental objection.
 
 The second postulate flows from the idea that the real wages of workers depend on the wage bargains which workers make with the entrepreneurs. The bargains are actually made in terms of money. But the real wages acceptable to labour depend on the money-wage.
 
-**{{< c c="red">}}Nevertheless, it is the money-wage that determines the real wage*.{{< /c >}}**
+**{{< c v="red">}}Nevertheless, it is the money-wage that determines the real wage*.{{< /c >}}**
 
 
 {{< img src="/photos/wtf.jpg" alt="WTF" cap="WTF" >}}
@@ -62,7 +62,7 @@ The second postulate flows from the idea that the real wages of workers depend o
 
 
 
-**{{< c c="red">}}Thus, the classical theory assumes that workers can always reduce their real wage by accepting a reduction in money-wages*.{{< /c >}}**
+**{{< c v="red">}}Thus, the classical theory assumes that workers can always reduce their real wage by accepting a reduction in money-wages*.{{< /c >}}**
 
 
 
@@ -92,7 +92,7 @@ The classical conclusions:
   - the effects of a reduction of money-wages in a single country on its foreign trade.
 - are not based on indirect effects due to a lower wages-bill in terms of money having certain reactions on the banking system and the state of credit<!-- , effects which we shall examine in detail in Chapter 19 -->. 
 
-**{{< c c="red">}}Classical conclusions are based on the belief that in a closed system a reduction in money-wages will be accompanied by a reduction in real wages*{{< /c >}}** 
+**{{< c v="red">}}Classical conclusions are based on the belief that in a closed system a reduction in money-wages will be accompanied by a reduction in real wages*{{< /c >}}** 
 
 
 <!-- the general level of --> <!-- , at any rate in the short period and subject only to minor qualifications, by some, though not always a proportionate, reduction in real wages -->
@@ -106,7 +106,7 @@ The classical conclusions:
 
 
 
-**{{< c c="red">}}The general level of real wages depends on the money-wage bargains between the employers and the workers is obviously not true*.{{< /c >}}**
+**{{< c v="red">}}The general level of real wages depends on the money-wage bargains between the employers and the workers is obviously not true*.{{< /c >}}**
 
 <!-- Indeed it is strange that so little attempt should have been made to prove or to refute it.  -->
 

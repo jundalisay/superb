@@ -12,15 +12,39 @@ icon: /favicon.png
 ---
 
 
-{{< s v="92" >}} By far the greatest obstacle to the advancement of the sciences, and the undertaking of any new attempt or department, is in men’s despair and the idea of impossibility. 
+{{< s v="92" >}} Men’s despair and the idea of impossibility are by far:
+- the greatest obstacle to the advancement of the sciences, and 
+-the undertaking of any new attempt
 
-Men of a prudent and exact turn of thought are altogether diffident in matters of this nature, considering the obscurity of nature, the shortness of life, the deception of the senses, and weakness of the judgment. 
 
-They think, therefore, that in the revolutions of ages and of the world there are certain floods and ebbs of the sciences, and that they grow and flourish at one time, and wither and fall off at another, that when they have attained a certain degree and condition they can proceed no further.
+Men of a prudent and exact turn of thought are diffident in matters of this nature because of:
+- the obscurity of nature
+- the shortness of life
+- the deception of the senses, and 
+- weakness of the judgment. 
 
-If, therefore, any one believe or promise greater things, they impute it to an uncurbed and immature mind, and imagine that such efforts begin pleasantly, then become[74] laborious, and end in confusion. And since such thoughts easily enter the minds of men of dignity and excellent judgment, we must really take heed lest we should be captivated by our affection for an excellent and most beautiful object, and relax or diminish the severity of our judgment; and we must diligently examine what gleam of hope shines upon us, and in what direction it manifests itself, so that, banishing her lighter dreams, we may discuss and weigh whatever appears of more sound importance. 
+They think that:
+- in the revolutions of ages and of the world there are certain floods and ebbs of the sciences
+- these grow and flourish at one time, and wither and fall off at another
+- when they have attained a certain degree and condition they can proceed no further.
 
-We must consult the prudence of ordinary life, too, which is diffident upon principle, and in all human matters augurs the worst. Let us, then, speak of hope, especially as we are not vain promisers, nor are willing to enforce or insnare men’s judgment, but would rather lead them willingly forward. And although we shall employ the most cogent means of enforcing hope when we bring them to particulars, and especially those which are digested and arranged in our Tables of Invention (the subject partly of the second, but principally of the fourth part of the Instauration), which are, indeed, rather the very object of our hopes than hope itself; yet to proceed more leniently we must treat of the preparation of men’s minds, of which the manifestation of hope forms no slight part; for without it all that we have said tends rather to produce a gloom than to encourage activity or quicken the industry of experiment, by causing them to have a worse and more contemptuous opinion of things as they are than they now entertain, and to perceive and feel more thoroughly their unfortunate condition. We must, therefore, disclose and prefix our reasons for not thinking the hope of success improbable, as Columbus, before his wonderful voyage over the Atlantic, gave the reasons of his conviction that new lands and continents might be discovered besides those[75] already known; and these reasons, though at first rejected, were yet proved by subsequent experience, and were the causes and beginnings of the greatest events.
+If anyone believes or promises greater things, they:
+- impute it to an uncurbed and immature mind
+- imagine that such efforts begin pleasantly, then become[74] laborious, and end in confusion. 
+
+That is how <!--  such thoughts easily enter the minds of --> men of dignity and excellent judgment think. 
+
+We must:
+- be careful <!-- , we must really take heed --> lest we should be captivated by our affection for an excellent and most beautiful object, and relax or diminish the severity of our judgment.
+- diligently examine what gleam of hope shines upon us, and in what direction it manifests itself, so that, banishing her lighter dreams, we may discuss and weigh whatever appears of more sound importance. 
+- consult the prudence of ordinary life, too, which is diffident upon principle, and in all human matters augurs the worst. 
+
+Let us speak of hope, especially as we are not vain promisers, nor are willing to enforce or insnare men’s judgment, but would rather lead them willingly forward. 
+
+Although we shall employ the most cogent means of enforcing hope when we bring them to particulars, and especially those which are digested and arranged in our Tables of Invention <!-- (the subject partly of the second, but principally of the fourth part of the Instauration) -->, which are, indeed, rather the very object of our hopes than hope itself.
+ yet to proceed more leniently we must treat of the preparation of men’s minds, of which the manifestation of hope forms no slight part; 
+
+for without it all that we have said tends rather to produce a gloom than to encourage activity or quicken the industry of experiment, by causing them to have a worse and more contemptuous opinion of things as they are than they now entertain, and to perceive and feel more thoroughly their unfortunate condition. We must, therefore, disclose and prefix our reasons for not thinking the hope of success improbable, as Columbus, before his wonderful voyage over the Atlantic, gave the reasons of his conviction that new lands and continents might be discovered besides those[75] already known; and these reasons, though at first rejected, were yet proved by subsequent experience, and were the causes and beginnings of the greatest events.
 
 
 {{< s v="83" >}} Let us begin from God, and show that our pursuit from its exceeding goodness clearly proceeds from him, the author of good and father of light.

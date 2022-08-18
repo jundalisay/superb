@@ -52,6 +52,17 @@ This domain exists only because of our physical senses, most commonly by our sig
   - An example is the air which lets light pass through and offer no resistance to our hands.  
 
 
+{{< q a="Bacon">}}
+Humans should learn the difference between:
+- the idols of the human mind and
+- the ideas of the divine mind. 
+
+The former are mere arbitrary abstractions. The latter are the true marks of the Creator on his creatures, as they are imprinted on, and defined in matter, by true and exquisite touches. 
+
+Truth and utility, therefore, are here perfectly identical. The effects are more valueable as pledges of truth rather than as practical benefits
+
+
+
 ### The Metaphysical Domain
 
 This domain exists only because of our intellect, as our innate ability to have ideas and thoughts.

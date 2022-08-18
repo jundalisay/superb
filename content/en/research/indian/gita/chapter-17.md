@@ -1,12 +1,28 @@
-CHAPTER XVII
+---
+title: "The Bhagavad-Gita"
+heading: "Chapter 17 of The Bhagavad-Gita Simplified"
+date: 2022-01-31
+author: "Vyasa"
+description: ""
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita/chapter-16"
+linkbtext: "Chapter 16"
+linkf: "/research/indian/gita/chapter-18"
+linkftext: "Chapter 18"
+icon: "/flags/in.png"
+---
+
 
 Arjuna.
 
-If men forsake the holy ordinance,
-Heedless of Shastras, yet keep faith at heart
+
+If men forsake the holy ordinance, heedless of Shastras, yet keep faith at heart
 And worship, what shall be the state of those,
 Great Krishna! Sattwan, Rajas, Tamas? Say!
+
+
 Krishna.
+
 Threefold the faith is of mankind and springs
 From those three qualities,--becoming "true,"
 Or "passion-stained," or "dark," as thou shalt hear!
@@ -42,6 +58,7 @@ Savourless, filthy, which the foul will eat,
 A feast of rottenness, meet for the lips
 Of such as love the "Darkness."
 Thus with rites;--
+
 A sacrifice not for rewardment made,
 Offered in rightful wise, when he who vows
 Sayeth, with heart devout, "This I should do!"
@@ -55,6 +72,7 @@ Of hallowed hymn, nor largesse to the priests,
 In faithless celebration, call it vile,
 The deed of "Darkness!"--lost!
 Worship of gods
+
 Meriting worship; lowly reverence
 Of Twice-borns, Teachers, Elders; Purity,
 Rectitude, and the Brahmacharya's vow,

@@ -5,10 +5,10 @@ date: 2022-01-31
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/"
-linkbtext: "Index"
-linkf: "/research/indian/gita/"
-linkftext: "Index"
+linkb: "/research/indian/gita/chapter-01"
+linkbtext: "Chapter 1"
+linkf: "/research/indian/gita/chapter-03"
+linkftext: "Chapter 3"
 icon: "/flags/in.png"
 ---
 
@@ -191,7 +191,9 @@ Thy piety, casting all self aside,
 Contemning gain and merit; equable
 In good or evil: equability
 Is Yog, is piety!
+
 Yet, the right act
+
 Is less, far less, than the right-thinking mind.
 Seek refuge in thy soul; have there thy heaven!
 Scorn them that follow virtue for her gifts!

@@ -1,6 +1,7 @@
-+++
-title= "England"
-image= "/flags/gb.png"
-author= "King John"
-date= "2022-01-31"
-+++ 
+---
+title: "England"
+heading: "Unenlightened"
+date: 2022-07-21
+# date: 2022-08-08
+image: "/flags/gb.png"
+---

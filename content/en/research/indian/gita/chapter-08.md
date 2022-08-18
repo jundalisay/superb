@@ -1,35 +1,59 @@
-CHAPTER VIII
+---
+title: "What is Brahma and Karma?"
+heading: "Chapter 9 of The Bhagavad-Gita Simplified"
+date: 2022-01-31
+author: "Vyasa"
+description: ""
+image: "/covers/gita.jpg"
+linkb: "/research/indian/gita/chapter-07"
+linkbtext: "Chapter 7"
+linkf: "/research/indian/gita/chapter-09"
+linkftext: "Chapter 9"
+icon: "/flags/in.png"
+---
+
+
 
 Arjuna.
-Who is that BRAHMA? What that Soul of Souls,
-The ADHYATMAN? What, Thou Best of All!
-Thy work, the KARMA? Tell me what it is
-Thou namest ADHIBHUTA? What again
-Means ADHIDAIVA? Yea, and how it comes
-Thou canst be ADHIYAJNA in thy flesh?
-Slayer of Madhu! Further, make me know
-How good men find thee in the hour of death?
+
+Who is that BRAHMA? 
+
+What that Soul of Souls, the ADHYATMAN? 
+
+What is work, the KARMA? 
+
+What is what you call the ADHIBHUTA? 
+
+What is ADHIDAIVA?
+
+How can ADHIYAJNA be in your flesh?
+
+How can good men find you in the hour of death?
+
+
 Krishna.
-I BRAHMA am! the One Eternal GOD,
-And ADHYATMAN is My Being's name,
-The Soul of Souls! What goeth forth from Me,
-Causing all life to live, is KARMA called:
-And, Manifested in divided forms,
-I am the ADHIBHUTA, Lord of Lives;
-And ADHIDAIVA, Lord of all the Gods,
-Because I am PURUSHA, who begets.
-And ADHIYAJNA, Lord of Sacrifice,
-I--speaking with thee in this body here--
-Am, thou embodied one! (for all the shrines
-Flame unto Me!) And, at the hour of death,
-He that hath meditated Me alone,
-In putting off his flesh, comes forth to Me,
-Enters into My Being--doubt thou not!
-But, if he meditated otherwise
-At hour of death, in putting off the flesh,
-He goes to what he looked for, Kunti's Son!
-Because the Soul is fashioned to its like.
-Have Me, then, in thy heart always! and fight!
+
+I am BRAHMA, the One Eternal GOD.
+
+ADHYATMAN is My Being's name, the Soul of Souls.
+
+What goes forth from Me is called KARMA. It causes all life to live
+
+I am the ADHIBHUTA, Lord of Lives, manifested in divided forms.
+
+I am ADHIDAIVA, Lord of all the Gods, because I am PURUSHA, who begets.
+
+I am ADHIYAJNA, Lord of Sacrifice--speaking with thee in this body here--Am, thou embodied one! (for all the shrines
+Flame unto Me!) 
+
+At the hour of death, he who has meditated on Me alone and put off his flesh, comes forth to Me and enters into My Being. Do not doubt!
+
+But, if he meditated otherwise at hour of death, in putting off the flesh, he goes to what he looked for.
+
+This is because the Soul is fashioned to its like.
+
+So have Me in your heart always, and fight!
+
 Thou too, when heart and mind are fixed on Me,
 Shalt surely come to Me! All come who cleave
 With never-wavering will of firmest faith,
