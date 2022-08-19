@@ -98,16 +98,6 @@ This state has two kinds:
 1. On or Perceiving
 2. Off or Not Perceiving
 
-Included in the state of perceiving is the state of remembering. 
-- Memory is a quality of the mind
-- Remembering is a state of consciousness
-
-The separation of memory from remembering is useful in:
-- Medical Superphysics for memory problems, dementia, and
-- Material Superphysics for the creation of artificial sentience.
-
-For example, the interplay of desire, mind-memory, and consciousness explains why social interaction is essential to avoid Alzheimer's.     
-
 
 ### All Things Can Perceive
 

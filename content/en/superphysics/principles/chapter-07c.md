@@ -1,19 +1,17 @@
 ---
-title: "The Operations of the Mind"
+heading: "Chapter 7c"
+title: "The Two Operations of Mind"
 # date: 2020-05-26
 date: 2022-12-06
 image: /photos/econ/writer.jpg
-# image: "https://sorasystem.sirv.com/graphics/datascience.png"
 description: "We list down the operations of the mind"
-linkf: /articles/superphysics/what-is-isaiah
-linkftext: "What is ISAIAH?"
-linkb: /articles/superphysics/ideology-matrix
-linkbtext: "Ideology matrix"
-btext: Why not?
+linkb: /superphysics/principles/chapter-07b
+linkbtext: "Consciousness"
+linkf: /superphysics/principles/chapter-08
+linkftext: "God"
 author: Juan
 icon: /icons/sp.png
 icontext: Superphysics icon
-# draft: true
 ---
 
 
@@ -41,13 +39,13 @@ Therefore the active mind has 2 kinds of operations:
 - Combination
 - Separation
 
-Memory is a 
+Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is. 
 
 
 
 ## The Operations of the Intellect
 
-Adding is the integration or combination of one identity to another to create a new third identity. This is an effect of the Positive Force (Yang or Shiva)
+Adding or combination is the integration or combination of one identity to another to create a new third identity. This is an effect of the Positive Force (Yang or Shiva)
 
 For example, we:
 - add `1 + 1` to make `2` 
@@ -55,7 +53,7 @@ For example, we:
 - step in an empty bus so it can get passengers and start its journey
 
 
-Subtracting is the removal or separation of one part of an identity in order to create a new identity. This is an effect of the Negative Force (Yin or Shakti or Prakrti)
+Subtracting or separation is the removal or separation of one part of an identity in order to create a new identity. This is an effect of the Negative Force (Yin or Shakti or Prakrti)
 
 For example, we:
 - subtract `3 - 1` to make `2`
@@ -63,24 +61,68 @@ For example, we:
 - step out of an overloaded bus so that it can run safely
 
 
-Related operations spring from these two broad operations:
-
-Addition Category 
+Related operations of the mind spring from these 2 broad operations:
 
 
 
-combination
+Combination Category:
+- Multiplication
+- Exponents
+- Memory or Remembering
+- Buying
+- Arriving
 
-Love
+Separation Category:
+- Division and Fractions
+- Square roots
+- Ignorance or Forgetting
+<!-- - Factorials and Multiples -->
+- Selling
+- Leaving
 
-  has on
 
-The C
+## The Operations of the Heart
+
+Attraction is the tendency to move towards an object. 
+
+Its related oprations are:
+- Love
+- Friendship
+- Cooperation
+- Society
 
 
-attraction
-repulsion
+Repulsion is the tendency to move away an object. 
 
+- Hate
+- Animosity
+- War
+- Isolation
+
+
+
+### Usefulness of Combinative and Separative
+
+All the operations of the mind, through the intellect and feelings, thus fall into those two categories. This categorization is very useful for understanding the root cause of mental problems. 
+
+For example, Modern psychology detaches the intellect from the heart when dealing with memory problems such as dementia or Alzheimer's. This makes its cause unknown. 
+
+However, with our combined model, we point out that intellectual memory loss is separative action of the mind, as forgetting. The solution is to counteract this intellectual separative action with a combinative feeling action (since feelings are superior to intellect).
+
+This manifests as people having better social bonds. This is why positive social interaction is essential to avoid Alzheimer's and other mental diseases.     
+This categorization system also works for Physics as artificial intelligence or AI. 
+
+For example, Physicists are unable to create real AI because they neglect the feeling aspect. We solve this by adding social interaction data as part of the training data for our proposed Artificial Sentience system called ISAIAH.
+
+<!-- The separation of memory from remembering is useful in:
+- Medical Superphysics for memory problems, dementia, and
+- Material Superphysics for the creation of artificial sentience. -->
+
+<!-- For example, the interplay of desire, mind-memory, and consciousness explains why  -->
+
+
+
+## Maya or the Illusion in Existence 
 
 
 Idea and feelings seem separate because the physical brain and heart, as the 'sensors' of ideas and feelings are located in different areas of the body. 
@@ -125,10 +167,7 @@ Our main sources to list down the dynamics of feelings are Hinduism*, Taoism, Sp
 > *Buddhism is thinking, Hinduism is for feeling. Buddhism checks the tendency of Hinduism to fall into blind-belief or dogma, just as reason prevents us from falling in blindly in love 
 
 
-
-
-
-## Putting it all together
+<!-- ## Putting it all together
 
 We this break down Existence into the following:
 
@@ -155,3 +194,4 @@ These desires are such a powerful principle that it even leads to the invention 
 
 
 > *Atheists often bash religions for believing in arbitrary Deities. They do not realize that those Deities are a symptom of the natural mental or metaphysical limitation of most humans. Bashing a religion would be like bashing a disabled person for being disabled. The moral solution is to not bash the disabled, but on the contrary, to give them more assistance than ordinary. This is why Superphysics embraces religions and focuses on their common traits and feelings, instead of dwelling on their differences. However, Superphysics goes against the dogma in each religion.
+ -->
