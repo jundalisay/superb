@@ -1,5 +1,5 @@
 ---
-title: "What is Consciousness?"
+title: "The Nature of Consciousness"
 # heading: "Consciousness is Binary as the Other Side of Existence"
 heading: "Chapter 7b"
 # date: "2019-07-21"
@@ -15,6 +15,7 @@ icon: /icons/sp.png
 aliases:
   /superphysics/principles/consciousness
 ---
+
 
 
 The previous chapter explained that The Experiencer has 2 parts:

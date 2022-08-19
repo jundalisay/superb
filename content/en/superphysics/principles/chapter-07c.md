@@ -1,17 +1,16 @@
 ---
 heading: "Chapter 7c"
-title: "The Two Operations of Mind"
-# date: 2020-05-26
-date: 2022-12-06
+title: "The Two Operations of Thinking and Feeling"
+date: 2020-12-06
 image: /photos/econ/writer.jpg
-description: "We list down the operations of the mind"
+# date: 2020-12-10
+description: "Everything in existence is an idea of the Creator of that existence"
 linkb: /superphysics/principles/chapter-07b
-linkbtext: "Consciousness"
+linkbtext: Consciousness
 linkf: /superphysics/principles/chapter-08
-linkftext: "God"
+linkftext: "The 5 layers"
 author: Juan
 icon: /icons/sp.png
-icontext: Superphysics icon
 ---
 
 
@@ -23,29 +22,57 @@ The previous chapters explained that:
   - Ideas are sensed by the mind's intellect 
   - Feelings are sensed by the mind's heart 
 
-From here, we can say that all of the activities or operations of the mind's intellect can be broadly categorized into two:
+
+We also said that the mind is like an arena or theater where ideas and feelings are perceived. With this analogy, we can group the different abilities or operations of the mind into 4: 
+
+1. Thinking: This is similar to the manipulating the actors and props
+
+2. Remembering: This is similar to props being stored and retrieved backstage 
+
+3. Learning: This is similar to the improvement of the theater in the way it manipulates (thinks) and stores and retrieves its props (remembers) 
+
+4. Expanding or Contracting: This is similar to the expansion of a theater in order to have better shows
+
+
+
+## Thinking
+
+The main job of the intellectual mind is to think about its ideas.
+- The act of thinking is the perception and connection of ideas  
+
+The main job of the emotional mind is to discern its feelings.
+- The act of feeling is the perception and immersion of feelings
+
+We then group this thinking operation into 2 categories:
+
+<!-- From here, we can say that all of the activities or operations of the mind's intellect can be broadly categorized into two: -->
 
 1. Adding or Combinative
 2. Subtracting or Separative
 
-The activities or operations mind's heart can also be broadly categorized into two:
+We also group this feeling operation into 2 categories:
+<!-- The activities or operations mind's heart can also be broadly categorized into two: -->
 
 1. Attraction
 2. Repulsion
 
 Attraction has a combinative net effect just as repulsion has a separative one. 
 
-Therefore the active mind has 2 kinds of operations:
+Therefore the active mind, which thinks and feels, has 2 kinds of operations:
 - Combination
+  - This comes from the Positive Force
 - Separation
+  - This comes from the Negative Force
 
-Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is. 
+<!-- Note that memory is a quality of the mind, and not an operation. Remembering is part of the operations of consciousness, just as perception is.  -->
+
+![](/photos/meta/yinyang.jpg)
 
 
+## The Operations of Thinking 
+<!-- the Intellect -->
 
-## The Operations of the Intellect
-
-Adding or combination is the integration or combination of one identity to another to create a new third identity. This is an effect of the Positive Force (Yang or Shiva)
+"Adding" or "combination" is the integration of one identity to another to create a new third identity. This is an effect of the Positive Force (Yang or Shiva)
 
 For example, we:
 - add `1 + 1` to make `2` 
@@ -53,7 +80,7 @@ For example, we:
 - step in an empty bus so it can get passengers and start its journey
 
 
-Subtracting or separation is the removal or separation of one part of an identity in order to create a new identity. This is an effect of the Negative Force (Yin or Shakti or Prakrti)
+"Subtracting" or "separation" is the removal of one part of an identity in order to create a new identity. This is an effect of the Negative Force (Yin or Shakti or Prakrti)
 
 For example, we:
 - subtract `3 - 1` to make `2`
@@ -61,27 +88,25 @@ For example, we:
 - step out of an overloaded bus so that it can run safely
 
 
-Related operations of the mind spring from these 2 broad operations:
-
-
+Related operations of thinking spring from these 2 broad operations:
 
 Combination Category:
 - Multiplication
 - Exponents
 - Memory or Remembering
-- Buying
-- Arriving
+- etc
 
 Separation Category:
 - Division and Fractions
 - Square roots
 - Ignorance or Forgetting
+- etc
 <!-- - Factorials and Multiples -->
-- Selling
-- Leaving
 
 
-## The Operations of the Heart
+
+## The Operations of Feeling
+<!-- the Heart -->
 
 Attraction is the tendency to move towards an object. 
 
@@ -90,6 +115,10 @@ Its related oprations are:
 - Friendship
 - Cooperation
 - Society
+- Buying
+- Arriving
+- Marriage or Being a couple
+- etc
 
 
 Repulsion is the tendency to move away an object. 
@@ -98,18 +127,22 @@ Repulsion is the tendency to move away an object.
 - Animosity
 - War
 - Isolation
-
+- Selling
+- Leaving
+- Divorce or Breaking up
+- etc
 
 
 ### Usefulness of Combinative and Separative
 
-All the operations of the mind, through the intellect and feelings, thus fall into those two categories. This categorization is very useful for understanding the root cause of mental problems. 
+All the operations of thinking and feeling<!-- mind, through the intellect and feelings, --> thus fall into those 2 categories. This categorization is very useful for understanding the root cause of mental problems. 
 
 For example, Modern psychology detaches the intellect from the heart when dealing with memory problems such as dementia or Alzheimer's. This makes its cause unknown. 
 
 However, with our combined model, we point out that intellectual memory loss is separative action of the mind, as forgetting. The solution is to counteract this intellectual separative action with a combinative feeling action (since feelings are superior to intellect).
 
 This manifests as people having better social bonds. This is why positive social interaction is essential to avoid Alzheimer's and other mental diseases.     
+
 This categorization system also works for Physics as artificial intelligence or AI. 
 
 For example, Physicists are unable to create real AI because they neglect the feeling aspect. We solve this by adding social interaction data as part of the training data for our proposed Artificial Sentience system called ISAIAH.
@@ -121,77 +154,8 @@ For example, Physicists are unable to create real AI because they neglect the fe
 <!-- For example, the interplay of desire, mind-memory, and consciousness explains why  -->
 
 
+## Remembering, Learning, and Expanding
 
-## Maya or the Illusion in Existence 
+The other abilities of the mind can be explained in Medical Superphysics. 
 
-
-Idea and feelings seem separate because the physical brain and heart, as the 'sensors' of ideas and feelings are located in different areas of the body. 
-
-Our Metaphysics of Things state that ideas and feelings are merely two forms of the same thing. 
-- A feeling is information in a wave-form, with the wave being powered by energy or desire of the Supreme Entity or Mind 
-- An idea is encapsulated information, as a wave-form that is cut-off from other wave-forms.
-
-The mechanism of separation is called Maya or the Illusion, which is a product of the Negative Force. It follows that the opposite mechanism for unity is called Truth as the Positive Force.   
-
-The main operation of the mind is to connect ideas as to go back to the original total unity of ideas before existence began*. This connection gradually dispels the Maya and is known as knowledge which comes from learning and thinking. 
-
-
-> *We call this state as pre-existence
-
-
-Thinking is the operation of the mind to grab perceptions and connect them with each other. This is similar to how we assemble jigsaw puzzles. 
-
-Learning is the operation of the mind that realizes the patterns from the unity of perceptions. When we connect ideas, we realize that some ideas are easier to connect with each other, producing less stress on the mind. On the other hand, some ideas are impossible to connect (are absurd like faeries) or have a connection that is stressful to maintain (such as sophistrical ideas like flat earth theory).
-
-Feeling is the ability to sense non-thought information which is all of the universe. This is why Taoism and Hinduism belittle intellectuality, which is the opposite of Western science which enshrines intellectuality and denounces feelings.  
-
-<!--  This is similar to us finding a technique to connect jigsaw puzzles for efficiently.  
- -->
-
-Thus, the operations of the mind or the soul can be divided into thinking and feeling. 
-
-### Thinking
-
-Thinking is the effect-part of existence. This works on thought-objects. 
-
-Our main sources to list down the dynamics of thinking is from Socrates (instead of Aristotle), David Hume, and Ibn Khaldun. We also use Buddhism. 
-
-
-### Feeling 
-
-Feeling is the causal part of existence. This operation comes first before thinking and has accordingly been discussed by the ancients much more than the thinking part.  
-
-Our main sources to list down the dynamics of feelings are Hinduism*, Taoism, Spinoza, and the Pythagoreans. 
-
-
-> *Buddhism is thinking, Hinduism is for feeling. Buddhism checks the tendency of Hinduism to fall into blind-belief or dogma, just as reason prevents us from falling in blindly in love 
-
-
-<!-- ## Putting it all together
-
-We this break down Existence into the following:
-
-- The Absolute (The One, Probability of Existence, without perception)
-- The Supreme or Existence (Actual Existence, with perception)
-  - experiencer
-    - perceiver or consciousness
-    - mind or the Supreme Entity
-      - living mind, nonliving mind
-      - metaphysical mind, physical mind
-  - experience
-    - feelings
-      - Positive Force 
-      - Negative Force
-      - morality
-    - ideas
-      - Dharma or True Nature
-      - physical and metaphysical things
-chapter 
-
-
-
-These desires are such a powerful principle that it even leads to the invention of concepts such as God*, Allah, Yahweh, Jehovah, Kali, Ganesh, etc. as stated in the previous post. 
-
-
-> *Atheists often bash religions for believing in arbitrary Deities. They do not realize that those Deities are a symptom of the natural mental or metaphysical limitation of most humans. Bashing a religion would be like bashing a disabled person for being disabled. The moral solution is to not bash the disabled, but on the contrary, to give them more assistance than ordinary. This is why Superphysics embraces religions and focuses on their common traits and feelings, instead of dwelling on their differences. However, Superphysics goes against the dogma in each religion.
- -->
+The next chapter will explain the layers of the mind, as the layers of the universe. 

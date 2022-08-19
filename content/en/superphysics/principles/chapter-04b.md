@@ -1,7 +1,7 @@
 ---
 # heading: "Math for Qualities and Ratios" 
 heading: "Chapter 4b"
-title: "What is Qualimath?"
+title: "Qualimath: The Math for Superphysics"
 # more than Quantities and Equalities"
 date: 2020-12-27
 image: "/graphics/physics/math.jpg"

@@ -13,8 +13,7 @@ icon: /icons/poincare.jpg
 ---
 
 
-I have dwelt upon the consequences of Ampère’s theory and on his method of explain-
-ing the action of open currents. It is difficult to disregard the paradoxical and artificial character of the propositions to which we are thus led. We feel bound to think “it
+I have dwelt upon the consequences of Ampère’s theory and on his method of explaining the action of open currents. It is difficult to disregard the paradoxical and artificial character of the propositions to which we are thus led. We feel bound to think “it
 cannot be so.” 
 
 Helmholtz has been led to look for something else. He rejects the fundamental hypothesis of Ampère— the mutual electro-dynamics.
@@ -253,16 +252,12 @@ in its broad lines, definitively constructed. Everything
 was presented under the most satisfactory aspect. The
 theories of Ampère and Helmholtz, which were made for
 the open currents that no longer existed, seem to have
-no more than purely historic interest, and the inextrica-
-ble complications to which these theories led have been
-almost forgotten. This quiescence has been recently dis-
-turbed by the experiments of M. Crémieu, which have
-contradicted, or at least have seemed to contradict, the
-results formerly obtained by Rowland. Numerous investi-
-gators have endeavoured to solve the question, and fresh
-experiments have been undertaken. What result will they
-give? I shall take care not to risk a prophecy which might
-be falsified between the day this book is ready for the
+no more than purely historic interest, and the inextricable complications to which these theories led have been
+almost forgotten. This quiescence has been recently disturbed by the experiments of M. Crémieu, which have contradicted, or at least have seemed to contradict, the results formerly obtained by Rowland. 
+
+Numerous investigators have endeavoured to solve the question, and fresh
+experiments have been undertaken. What result will they give? 
+
+I shall take care not to risk a prophecy which might be falsified between the day this book is ready for the
 press and the day on which it is placed before the public.
 
-THE END

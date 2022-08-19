@@ -17,6 +17,7 @@ tags: ['Lao Tzu', 'Yin Yang']
 # categories: ['Superphysics']
 alises:
   /articles/superphysics/everything-is-an-idea/
+  /superphysics/principles/idea
 comments:
   - img: "/avatars/huong.jpg"
     content: "Why can't they end Covid-19?"
@@ -24,7 +25,11 @@ comments:
 ---
 
 
-In the previous chapter, we divided reality into 2 domains. This has practical uses. 
+In the previous chapter, we divided Existence into 2 domains:
+- Metaphysical: This creates metaphysical reality
+- Physical: This creates physical reality
+
+This has practical uses. 
 
 For instance, we sometimes perceive something totally new. When Covid first struck in December 2019 in Wuhan, doctors had **no metaphysical idea of it**, even if they could see the physical disease. 
 
@@ -35,7 +40,9 @@ In this case:
 
 ## The Superiority of the Metaphysical Over the Physical
 
-This strengthens the fact that physical things are tangible and perceivable through our five senses, while metaphysical things are perceivable through our intellect and feelings.
+This strengthens the fact that:
+- physical things are tangible and perceivable through our five senses
+- metaphysical things are perceivable through our intellect and feelings.
 
 {{< img src="/photos/objects/mugecon.jpg" alt="Mug Economics">}}
 
@@ -58,7 +65,7 @@ Thus:
 
 For example, before a novel about a cat is written in a physical form, the idea for the novel must exist first. 
 
-All philosophical debates on ultimate causes can thus be categorized as 'chicken-vs-egg' as:
+All philosophical debates on ultimate causes can thus be categorized as 'chicken-versus-egg' as:
 - pro-metaphysicality as ideas, spirit, and Plato's forms (this is the chicken)
   - In Hindu philosophy this manifests as Vedanta and Buddhism
   - In Chinese philosophy, this manifests as Taoism 
@@ -114,6 +121,9 @@ For example, a cat character in a novel 100 pages is actually made up of 100-cat
 
 <!-- a website must be coded first before it actually exists as a physical website, deployed by its developer. But before the web developer codes the website, he must first have the idea for it. The flow of his changing ideas and feelings about the website then influence the changes to the code which then changes the actual website.  -->
 
+
+### We are Inside the Mind of the Creator
+
 We can then make an analogy that the Creator of the universe began writing Its ideas onto the physical domain as the 'Big Bang'* as the first page of the novel of reality. The changes in the universe then arose from the Creator's changing ideas and feelings, just as the novel changes through time.
 
 Unlike Physics that only has physical time, Superphysics has both physical and metaphysical time:
@@ -130,9 +140,9 @@ This image is what we call time.
 
 
 
-## Ideas are Particles, Feelings are Waves
+### Ideas are Particles, Feelings are Waves
 
-These ideas and feelings, thus, flow onto the physical domain in order to create reality in real-time:
+These ideas and feelings from the Creator, thus, flow onto the physical domain in order to create reality in real-time:
 
 - We define ideas as metaphysical particles
 - We define feelings as metaphysical waves

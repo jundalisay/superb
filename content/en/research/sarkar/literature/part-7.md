@@ -1,6 +1,26 @@
-## The Critics and Patrons
+---
+title: "The Critics and Patrons"
+# heading: "Chapter 7 of Australia's Constitution Simplified"
+date: 2021-11-20
+image: "/covers/discourses.jpg"
+description: "Popular Language"
+linkb: /research/sarkar/
+linkbtext: "Index"
+linkf: /research/sarkar/
+linkftext: "Index"
+icon: "/icons/sarkar.jpg"
+---
 
-All have the right to criticize artists or their art: the artists who do not like criticism have no future. But it is also appropriate to say a word or two about the critics. First, their criticisms should help the artists, not discourage them or belittle them. Secondly, those who criticize others should also be thoroughly well-versed in art and literature. 
+
+
+All have the right to criticize artists or their art. 
+
+The artists who do not like criticism have no future. 
+
+But it is also appropriate to say a word or two about the critics.
+
+1. Their criticisms should help the artists, not discourage them or belittle them. 
+2. Those who criticize others should also be thoroughly well-versed in art and literature. 
 
 To pass opinion without having studied or written anything oneself, after merely going through a few books of criticism, is nothing but officious meddling and interference. Such critics who lack adequate knowledge indulge in literary gasconades based on their superficial views, and think that they can get away with it. Yet such a sham and hollow intellect is to no avail, for it will ultimately be exposed. Those sincere and discriminating artists who are truly willing to reform themselves, if they are deluded by such critics, will only become disturbed.
 
@@ -32,7 +52,10 @@ If a government sincerely wishes to give encouragement to good and honest litter
 
 By liberally awarding Doctorate degrees to ministers and their deputies, regardless of whether they are deserving or not, the impartiality of the universities is being gradually eroded.
 
-There are some critics who become extremely upset when litterateurs attach themselves to a particular literary group: they say that since literature is for all, why should a litterateur be attached to any particular group? I, however, hold a different view. The ideal of literature is to promote the welfare of all but the process of this endeavour for collective welfare cannot necessarily be the same for all. What is there to grumble about if those litterateurs whose mode of service is similar, chose to move together in a unified group? Those who object to the formation of literary groups and societies under the name of “Anti-so-and-so” lack tolerance as well as civic sense. Litterateurs may also form “Pro-so-and-so” groups, and no one should object to it.
+There are some critics who become extremely upset when litterateurs attach themselves to a particular literary group: they say that since literature is for all, why should a litterateur be attached to any particular group? I, however, hold a different view. The ideal of literature is to promote the welfare of all but the process of this endeavour for collective welfare cannot necessarily be the same for all. 
+
+What is there to grumble about if those litterateurs whose mode of service is similar, chose to move together in a unified group? Those who object to the formation of literary groups and societies under the name of “Anti-so-and-so” lack tolerance as well as civic sense. Litterateurs may also form “Pro-so-and-so” groups, and no one should object to it.
+
 
 ## Acquiring Proper Knowledge
 
@@ -48,9 +71,13 @@ Anyone who does not do this is, in my opinion, not properly conscious of his or 
 
 The sole cause of the internal weakness of human society is its ignorance.
 
-The superlative intuition (Sambodhi) that removes this ignorance is nothing but the thought of the Cosmic Mind (Bhúmámánasa). Art or literature is one of those sources from which common people get the opportunity to become established in the Cosmic Mind. If the mind of one fails to know the minds of others, if the minds of many are not comprehended by the mind of one, then how is the establishment of unity possible? The endeavour (sádhaná) of the artist or the litterateur has been continuing through the ages, and its aim is to see One among many, and to lead the many to the path of One. In this effort there is no imposition, no injunction of the Law, nor the imperious pressure of any administration, only a sweet and cooperative relation. Though separated by many countries, many states, many religions, many communities and many languages, the human race is an indivisible entity. Every human mind is but the diversified individual manifestation of that same indivisible Cosmic Mind. Today we look forward to the advent of that artist, that litterateur who will convey this truth to the hearts of humanity in a still sweeter language, still more strongly and deeply.
+The superlative intuition (Sambodhi) that removes this ignorance is nothing but the thought of the Cosmic Mind (Bhúmámánasa). Art or literature is one of those sources from which common people get the opportunity to become established in the Cosmic Mind. If the mind of one fails to know the minds of others, if the minds of many are not comprehended by the mind of one, then how is the establishment of unity possible? 
+
+The endeavour (sádhaná) of the artist or the litterateur has been continuing through the ages, and its aim is to see One among many, and to lead the many to the path of One. In this effort there is no imposition, no injunction of the Law, nor the imperious pressure of any administration, only a sweet and cooperative relation. 
+
+Though separated by many countries, many states, many religions, many communities and many languages, the human race is an indivisible entity. Every human mind is but the diversified individual manifestation of that same indivisible Cosmic Mind. Today we look forward to the advent of that artist, that litterateur who will convey this truth to the hearts of humanity in a still sweeter language, still more strongly and deeply.
 
 The human race is moving at an irresistible speed. Today, humanity wants to forget those who have written their works centring around various kinds of fissiparous discriminations. Human beings want to channelize their whole range of vision towards the bright future – a future which will transcend all individual or group interests, all territorial limits of countries and states, and transform the fates of many people into one destiny. Human beings no longer want to rely on so-called providential favour.
 
-Individual heroism is about to lose its vibrant spirit. Nowadays people have learned that if the thrill of victory is due to anyone, it certainly belongs to humanity. 
-
+Individual heroism is about to lose its vibrant spirit.
+- Nowadays people have learned that if the thrill of victory is due to anyone, it certainly belongs to humanity. 

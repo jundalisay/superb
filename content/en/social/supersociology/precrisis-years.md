@@ -10,6 +10,7 @@ linkbtext: skyscraper-curse
 linkf: "/social/economics/principles/four-laws-of-value"
 linkftext: 4 laws-of-value
 aliases:
+  /social/economics/precrisis-years/
   /social/precrisis-years/
   /articles/taonomics/the-precrisis-years
 ---

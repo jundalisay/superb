@@ -1,6 +1,6 @@
-+++
-title=  "Sun Tzu"
-heading=  ""
-description=  ""
-image= "/covers/war.jpg"
-+++
+---
+# heading: "Enlightened"
+title: "Sun Tzu"
+image: "/covers/war.jpg"
+date: 2022-04-10
+---

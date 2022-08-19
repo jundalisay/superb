@@ -1,13 +1,10 @@
-+++
-title=  "Part 1"
-image=  "/covers/war.jpg"
-description=  "The explanation of the aberration is so simple."
-linkb=  "/research/sun-tzu/art-of-war/"
-linkbtext=  "Index"
-linkf=  "/research/sun-tzu/art-of-war/chapter-02"
-linkftext=  "Chapter 2"
-heading=  "Chapter 1 of Sun Tzu's Art of War"
-+++
+---
+title: "The Aberration of Light"
+description: "The Aberration of Light by Stokes"
+image: "/covers/aber.jpg"
+date: 2022-04-15
+---
+
 
 <!-- By G. G. Stokes, M.A., Fellow of Pembroke College, Cambridge [1] . -->
 

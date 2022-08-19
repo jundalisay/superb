@@ -1,7 +1,7 @@
 ---
+heading: "Enlightened"
 title: "EF Schumacher"
 image: /covers/schu.jpg
-date: 2020-10-31
+date: 2022-04-30
 ---
 
-<!-- The path towards Maharlika  -->
