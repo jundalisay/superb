@@ -1,5 +1,5 @@
 ---
-title: "William Benham"
+title: "Benham, William"
 linkTitle: "Benham"
 heading: "Enlightened"
 date: 2020-08-09

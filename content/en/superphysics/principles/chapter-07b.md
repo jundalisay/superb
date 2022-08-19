@@ -3,13 +3,13 @@ title: "What is Consciousness?"
 # heading: "Consciousness is Binary as the Other Side of Existence"
 heading: "Chapter 7b"
 # date: "2019-07-21"
-date: 2020-12-22
-image: /photos/physics/ai.jpg
+date: 2020-12-08
+image: /photos/city.jpg
 description: "Consciousness is the perception of ideas and feelings"
-linkb: /superphysics/principles/chapter-08b
-linkbtext: "God"
-linkf: /superphysics/principles/chapter-10
-linkftext: "Superphysics"
+linkb: /superphysics/principles/chapter-07
+linkbtext: "Mind"
+linkf: /superphysics/principles/chapter-07c
+linkftext: "Operations of the Mind"
 author: Juan
 icon: /icons/sp.png
 aliases:
@@ -94,6 +94,23 @@ While mind can be either active or inactive, the perceiver can only be 'on' or '
 
 This means that consciousness is not a thing or substance, but is merely **a state of an identity that determines whether it perceives or not.**
 
+This state has two kinds:
+1. On or Perceiving
+2. Off or Not Perceiving
+
+Included in the state of perceiving is the state of remembering. 
+- Memory is a quality of the mind
+- Remembering is a state of consciousness
+
+The separation of memory from remembering is useful in:
+- Medical Superphysics for memory problems, dementia, and
+- Material Superphysics for the creation of artificial sentience.
+
+For example, the interplay of desire, mind-memory, and consciousness explains why social interaction is essential to avoid Alzheimer's.     
+
+
+### All Things Can Perceive
+
 The dynamics of the 2 forces implies that **everything is conscious, having the ability to perceive**. 
 
 It is the **inability** of some identities to express those perceptions, due to the influence of the Negative Force, that makes things not seem to have any perception-ability (not be aware). But the fact that they can **react to actions** done onto them is proof that they are aware or can perceive.
@@ -148,6 +165,8 @@ In this case, the existence of the pink elephant in my mind needed 4 ingredients
 Thus:
 - existence is the effect
 - desire is the cause
+
+In Hinduism, the Original Desire that created Existence, as Brahma, is called *Parashakti, Mahashakti,* or *Cittishakti*.
 
 Technically, the idea-particle that took the form of a pink elephant was caused by the desire-wave for it.
 
@@ -264,35 +283,6 @@ In our earlier analogy, this prevents 'undercooking' or 'overcooking' of goals. 
 
 Getting it just right requires a specific sequence or flow of steps. The Taoists call this flow as the Tao, while Hindus call it the dharma.
 
-
-
-## Putting it all together
-
-We this break down Existence into the following:
-
-- The Absolute (The One, Probability of Existence, without perception)
-- The Supreme or Existence (Actual Existence, with perception)
-  - experiencer
-    - perceiver or consciousness
-    - mind or the Supreme Entity
-      - living mind, nonliving mind
-      - metaphysical mind, physical mind
-  - experience
-    - feelings
-      - Positive Force 
-      - Negative Force
-      - morality
-    - ideas
-      - Dharma or True Nature
-      - physical and metaphysical things
-chapter 
-
-
-
-These desires are such a powerful principle that it even leads to the invention of concepts such as God*, Allah, Yahweh, Jehovah, Kali, Ganesh, etc. as stated in the previous post. 
-
-
-> *Atheists often bash religions for believing in arbitrary Deities. They do not realize that those Deities are a symptom of the natural mental or metaphysical limitation of most humans. Bashing a religion would be like bashing a disabled person for being disabled. The moral solution is to not bash the disabled, but on the contrary, to give them more assistance than ordinary. This is why Superphysics embraces religions and focuses on their common traits and feelings, instead of dwelling on their differences. However, Superphysics goes against the dogma in each religion.
 
 
 <!-- Religions often talk about the Creator such as God or Allah, but do not explain Their motives for creating the universe. Thus, it is difficult for them to answer questions about the universe. 

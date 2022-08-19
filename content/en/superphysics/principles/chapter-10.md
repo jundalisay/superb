@@ -3,7 +3,7 @@ heading: "Chapter 10"
 title: "What is Superphysics?"
 # heading: "An upgrade of science to include feelings and metaphysics"
 # date: 2021-07-19
-date: 2020-12-21
+date: 2020-11-20
 image: /covers/spblack.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
 linkb: /superphysics/principles/chapter-09

@@ -1,6 +1,6 @@
 ---
 heading: "Extremely Unenlightened"
-title: "Karl Marx"
+title: "Marx, Karl"
 linkTitle: "Marx"
 date: 2022-06-09
 description: "The worst philosopher and writer of them all -- responsible for a materialist philosophy that led to so much death and suffering around the world"

@@ -1,5 +1,5 @@
 +++
-title=  "Adam Smith"
+title= "Smith, Adam"
 heading=  "built on David Hume's sympathy-based moral system and labor-based economic system"
 date=  "2022-01-29"
 description=  "Smith built on the principles established by David Hume and laid the blueprint for an enlightened social system made up of three parts"

@@ -16,6 +16,7 @@ aliases:
   /articles/infrastructure/edsa-traffic/
 ---
 
+
 EDSA traffic can never be solved just as Bangkok’s traffic can never be solved — because its design does not match its current use.
 
 ![EDSA traffic](https://sorasystem.sirv.com/photos/mh/edsa600.jpg)
@@ -68,15 +69,40 @@ In contrast, China just grabs private land and builds roads very fast because it
 
 The government's solution seems to be New Clark City, which is located far in the North. The only problem is that it is located **near an active volcano!**
 
-The long term solution is to:
-- reduce population growth in order to slow down the congestion in cities
-- spread development to the smaller cities by improving internet connection and roads going to and from them
-- promote less democracy so that the government can take private land and build the roads and trains more cheaply for the benefit of the public
+We can divide the solutions into the following:
+
+<!-- - promote less democracy so that the government can take private land and build the roads and trains more cheaply for the benefit of the public -->
+
+<!-- Others would like  (like Japan) while some would advocate buses since they supply buses (like the World Bank BRT). --> 
+
+### Specific Policy Solutions
+
+- Nationalize public transport. This is similar to:
+  - the Love Bus of Ferdinand Marcos 
+  - the public bus companies of other countries
+- Nationalize food logistics. This is similar to:
+  - Food Terminal Inc of Ferdinand Marcos
+  - Vinafood of Vietnam and Sinograin of China
+- Spread development to the smaller cities by improving internet connection and roads going to and from them
+- Raise property taxes in congested urban areas to drive away people
+- Lower property taxes in sparsely populated areas to attract people
+
+
+### General Policy Solutions
+
+- Population control to reduce population growth
+- Adopt a leasehold policy to make right of way issues easier to resolve
+- Focus on rail infrastructure instead of roads
 - teach Filipinos about math and logic so that Filipinos can plan their own cities instead of relying on foreigners who will suggest solutions that favor their own countries. 
   - Some foreign consultants like the World bank would advocate highways since their investor-countries have a lot of car and bus makers (such as those making the Bus Rapid Transit).
   - Some consultants like JICA advocate railways since Japan exports trains. They get profits from the sales of those cars, buses, and trains while the recipient country is saddled with debt without a real solution.
   - A local consultant might suggested other policies such as cable-cars or river boats
-<!-- Others would like  (like Japan) while some would advocate buses since they supply buses (like the World Bank BRT). --> 
+
+
+### General Solution
+
+- Counteract liberalism and libertarianism that prompts people to purchase whatever land they want and develop it however they want
+
 
 {{< youtube gab6P1FYtR8 >}}
 

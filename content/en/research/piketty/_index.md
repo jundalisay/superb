@@ -1,8 +1,8 @@
-+++
-title=  "Piketty"
-description=  ""
-image=  "/covers/cap21.jpg"
-date=  "2022-01-29"
-+++
+---
+title: "Piketty, Thomas"
+linkTitle: "Piketty"
+description: "Modern Marxism"
+image: "/covers/other.jpg"
+date: 2022-05-15
+---
 
-<!-- (c.570 – c.495 BC) -->

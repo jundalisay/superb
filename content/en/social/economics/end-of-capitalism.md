@@ -2,7 +2,7 @@
 title: "The End of Capitalism (and Marxism)"
 heading: "How Points-banking can end stagflation and trade wars for good"
 date: 2022-08-01
-image: "/photos/regicide.jpg"
+image: "/photos/objects/regicide.jpg"
 description: "Here we explain how Points-banking puts an end to commercial (tradeable) equity and, subsequently, Capitalism"
 linkb: "/articles/pantrynomics/the-effort-theory-of-value"
 linkbtext: "Effort Theory of Value"

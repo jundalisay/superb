@@ -1,5 +1,5 @@
 ---
-title: Mao Zedong
+title: "Mao Zedong"
 heading: Unenlightened
 description: Mao was a Chinese Leader
 image: "/covers/mao.jpg"

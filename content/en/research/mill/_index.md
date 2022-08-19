@@ -1,6 +1,6 @@
 ---
 heading: "Very Unenlightened"
-title: "John Stuart Mill"
+title: "Mill, John Stuart"
 linkTitle: "Mill"
 date: 2022-06-05
 description: "John Stuart Mill was part of the British East India Company who advocated free trade"

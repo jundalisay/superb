@@ -1,5 +1,5 @@
 ---
-title: "Rene Descartes"
+title: "Descartes, Rene"
 heading: "Enlightened"
 date: 2022-07-29
 # date: 2022-08-08

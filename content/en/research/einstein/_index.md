@@ -1,5 +1,5 @@
 ---
-title: "Albert Einstein"
+title: "Einstein, Albert"
 linkTitle: "Einstein"
 heading: "Very Unenlightened"
 date: 2022-07-26
