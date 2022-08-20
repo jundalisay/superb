@@ -1,5 +1,5 @@
 ---
-title: MATHEMATICAL MAGNITUDE AND EXPERIMENT
+title: Mathematical Magnitude And Experiment
 date: 2022-02-01
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
@@ -12,36 +12,35 @@ icon: /icons/poincare.jpg
 ---
 
 
-Continuum cannot be explained by geometry. The geometer always seeks to represent shapes. But these  are only instruments to him. He uses space in his geometry just as he uses chalk.
+Continuum cannot be explained by geometry.
 
-Too much importance must not be attached to accidents which are often nothing more than the whiteness of the chalk.
+The geometer always seeks to represent shapes.
+- But these are only instruments to him.
+- He uses space in his geometry just as he uses chalk.
 
-The pure analyst has not to dread this pitfall. He has disengaged mathematics from all extraneous elements, and he is in a position to answer our question:—“Tell
-me exactly what this continuum is, about which mathematicians reason.” 
+Too much importance must not be attached to accidents which are often just the whiteness of the chalk.
 
-Many analysts who reflect on their art have already done so—M. Tannery, for instance, in his Introduction à la théorie des Fonctions d’une variable.
+The pure analyst does not need to dread this pitfall.
+- He has disengaged mathematics from all extraneous elements.
+- He is in a position to answer our question:—“What is this continuum that mathematicians reason about.” 
 
-Let us start with the integers. Between any two consecutive sets, intercalate one or more intermediary sets, and then between these sets others again, and so on indefinitely. 
+M. Tannery in his *Introduction à la théorie des Fonctions d’une variable* has answered this.
 
-We thus get an unlimited number of terms,
+Between any 2 consecutive sets of integers, intercalate one or more intermediary sets.
+- Then between these sets others again, and so on indefinitely. 
+- This gives us an unlimited number of terms
+- These will be the numbers which we call fractional, rational, or commensurable.
 
-and these will be the numbers which we call fractional,
-rational, or commensurable. But this is not yet all; be-mathematical magnitude.
-
-tween these terms, which, be it marked, are already in-
-finite in number, other terms are intercalated, and these
+But this is not yet all; between these terms, which, be it marked, are already infinite in number, other terms are intercalated, and these
 are called irrational or incommensurable.
 
-Before going any further, let me make a preliminary remark. The continuum thus conceived is no longer a collection of individuals arranged in a certain order, infinite in number, it is true, but external the one to the other.
+The continuum thus conceived is no longer a collection of individuals arranged in a certain order. They are infinite in number, but external the one to the other.
 
 This is not the ordinary conception in which it is supposed that between the elements of the continuum exists an intimate connection making of it one whole, in which the point has no existence previous to the line, but the line does exist previous to the point. 
 
 Multiplicity alone subsists, unity has disappeared—“the continuum is unity in multiplicity,” according to the celebrated formula. 
 
-The analysts have even less reason to define their continuum as they do, since it is always on this that they reason when they are particularly proud of their rigour. It is
-enough to warn the reader that the real mathematical
-continuum is quite different from that of the physicists
-and from that of the metaphysicians.
+The analysts have even less reason to define their continuum as they do, since it is always on this that they reason when they are particularly proud of their rigour. It is enough to warn the reader that the real mathematical continuum is quite different from that of the physicists and from that of the metaphysicians.
 
 The mathematicians who are contented with this definition are the dupes of words, that the nature of each of these sets should be precisely indicated, that it should be explained how theyscience and hypothesis are to be intercalated, and that it should be shown how it
 is possible to do it.
@@ -51,10 +50,10 @@ is that of preceding or succeeding these or those other sets; this alone should 
 
 So we need not concern ourselves with the manner in which the sets are intercalated, and no one will doubt the possibility of the operation if he only remembers that “possible” in the language of geometers simply means exempt from contradiction. But our definition is not yet complete, and we come back to it after this rather long digression.
 
-Definition of Incommensurables
 
-The mathematicians of the Berlin school, and Kronecker in particular, have devoted themselves to constructing this continuous scale of irrational and fractional numbers without using
-any other materials than the integer. 
+## Definition of Incommensurables
+
+The mathematicians of the Berlin school, and Kronecker in particular, have devoted themselves to constructing this continuous scale of irrational and fractional numbers without using any other materials than the integer. 
 
 The mathematical continuum from this point of view would be a pure creation of the mind in which experiment would have no part.
 
@@ -66,17 +65,15 @@ observation that will allay the astonishment which this
 will not fail to provoke in readers who are but little fa-
 miliar with the habits of geometers.
 
-Mathematicians do not study objects, but the relations between objects; to them it is a matter of indifference if these objects are replaced by others, provided
-that the relations do not change. Matter does not engage
+Mathematicians do not study objects, but the relations between objects; to them it is a matter of indifference if these objects are replaced by others, provided that the relations do not change. Matter does not engage
 their attention, they are interested by form alone.
-If we did not remember it, we could hardly under-
-stand that Kronecker gives the name of incommensurable
-number to a simple symbol—that is to say, something
-very different from the idea we think we ought to have
-of a quantity which should be measurable and almost
-tangible.
 
-### Kronecker’s definition. 
+If we did not remember it, we could hardly understand that Kronecker gives the name of incommensurable
+number to a simple symbol—that is to say, something very different from the idea we think we ought to have
+of a quantity which should be measurable and almost tangible.
+
+
+### Kronecker’s definition
 
 Commensurable numbers may be divided into classes in an infinite number of ways, subject to the condition that any number whatever of the first class is greater than any number of the second. 
 
