@@ -18,7 +18,7 @@ In 2017, we predicted that Masayoshi Son would be [the last capitalist](/social/
 
 The crisis turned out to be Covid and the Russia-Ukraine war which caused the current global stagflation in 2022. 
 
-Though the stagflation is a few years late, it nevertheless gives us a chance to deploy our solution step by step, starting in 2022. The solution manifests as a **moneyless Points-based system** that is specifically built for severe inflation and stagnation. 
+Though the stagflation is a few years late, it nevertheless gives us a chance to deploy our solution step by step, starting in 2022. The solution manifests as a **[moneyless Points-based system](https://pantrypoints.com)** that is specifically built for severe inflation and stagnation.
 
 
 ## Money is the Root of All Evil
@@ -60,9 +60,11 @@ The current economic system only uses money, and commercial morals, and fails wi
 
 ## Points Quantify Effort
 
-Unlike money which quantifies utility, our points system quantifies [the effort](/social/economics/principles/effort-theory-of-value) put by the producer, according to the viewpoint of both the producer and the buyer. 
+Unlike money which quantifies **utility**, our points system quantifies [**the effort**](/social/economics/principles/effort-theory-of-value) put by the producer, according to the viewpoint of both the producer and the buyer. 
 - Utility is the effect
 - Effort is the cause
+
+Our science thus focuses on the cause. This is different from Modern Economics which focuses on the effect. 
 
 In our family-dinner example, the points can be assigned by the children as follows:
 
@@ -210,9 +212,9 @@ It also is a better alternative to a single currency like the Euro, which has ma
 
 ## Ends Both Capitalism and Marxism Gradually
 
-Since the points system gradually reduces the importance of equity, then stock-trading and stock-investments, then Capitalism also reduces in importance. 
+The points system gradually reduces the importance of equity. This will cause stock-trading and stock-investments to likewise lose importance, dragging Capitalism with it. 
 
-With Capitalism reduced, then the need for Marxism also declines, since Marx created it to counteract the evils of the capitalist bourgeoisie. This will slowly eliminate the Cold War which currenly manifests as AUKUS-EU vs China-Russia. 
+With Capitalism reduced, then the need for Marxism also declines, since Marx created it to counteract the evils of capitalists. This will slowly eliminate the Cold War animosity which currenly manifests as AUKUS-EU vs China-Russia. 
 
 <!-- The CLearing funds circulate imports and exports between countries. This unifies national economies as one. The investor gains from investing in the right funds that focus on specific industry. For example, during a Covid outbreak, the a country can establish a vaccine-importation fund which will invite the money from rich people.    
 
@@ -223,5 +225,3 @@ Technically, the Clearing Fund is not public debt and is an supra-national insti
 <!--  as an alternative to the money-based one.   -->
 
 In a future post, we will explain how Pool Clearing could have been used to unify Hongkong, Taiwan, and China peacefully without the needing to go through the current tensions.  
-
-

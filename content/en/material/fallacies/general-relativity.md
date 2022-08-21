@@ -106,7 +106,11 @@ Since Einstein removed the aether, then gravity was no longer a force. Instead, 
 > *It's bullet-proof because Lorentz-Maxwell, its base, was already bullet-proof. Those theories had the aether as their base. 
 
 
-For example, worm holes and dark matter have not been proven. In fact, the photo of an actual black hole (Messier 87) shows light being ejected as a flare instead of being emitted gently as Hawking radiation. 
+For example, worm holes and dark matter have not been proven. In fact, the photo of an actual black hole (Messier 87) shows light being ejected as a flare-helix instead of being emitted gently as Hawking radiation. 
+
+Physicists try to defend by saying that the flare obeys General Relativity. 
+
+We say: "Sure, but what mechanism causes the flares to happen in the first place? General Relativity has nothing on helix behavior in empty space. But we explain it clearly as **aethereal vortices**." 
 
 <!-- This led to the ideas of [gravitational waves](https://www.nationalgeographic.com/news/2017/10/what-are-gravitational-waves-ligo-astronomy-science/), worm holes, and [dark matter*](https://dailygalaxy.com/2021/04/emergent-gravity-dark-matter-is-a-mythical-beast-a-figment-of-our-ignorance-watch-todays-galaxy-stre) 
 
@@ -115,7 +119,7 @@ For example, worm holes and dark matter have not been proven. In fact, the photo
 <!-- Many physicists have been wasting real money building dark matter detectors, money that could've been used for space travel or even better Covid vaccines.  -->
 
 
-{{< img src="/photos/physics/messier87.jpg" alt="Black Hole" cap="A quasar-black hole behaves differently from what General Relativity predicts" >}}
+{{< img src="/photos/physics/messier87.jpg" alt="Black Hole" cap="A quasar-black hole behaves differently from what General Relativity predicts. " >}}
 
 
 

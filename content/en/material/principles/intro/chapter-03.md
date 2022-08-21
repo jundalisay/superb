@@ -14,7 +14,7 @@ author: Juan
 icon: /icons/spmat.png
 ---
 
-
+Superhysics uses the 3 Rules of Movement from Descartes instead of the Law of Motion from Isaac Newton. This is because Newton's laws are already included in the Rules of Descartes.  
 
 ![rule 1](/covers/rule1.jpg)
 

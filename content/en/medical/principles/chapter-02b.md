@@ -1,7 +1,9 @@
 ---
 title: "Viruses are in-between Life and Ideas"
-heading: "Manifesting as RNA or DNA"
-date: 2020-09-09
+heading: Chapter 2b
+# heading: "Manifesting as RNA or DNA"
+# date: 2020-09-09
+date: 2020-01-27
 image: /photos/med/dengue.jpg
 description: "Viruses are merely bad idea-waves manifesting as RNA-particles"
 linkb: /medical

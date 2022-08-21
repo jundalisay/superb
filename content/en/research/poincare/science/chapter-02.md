@@ -53,7 +53,7 @@ So we need not concern ourselves with the manner in which the sets are intercala
 
 ## Definition of Incommensurables
 
-The mathematicians of the Berlin school, and Kronecker in particular, have devoted themselves to constructing this continuous scale of irrational and fractional numbers without using any other materials than the integer. 
+The mathematicians of the Berlin school, and Kronecker in particular, have devoted themselves to constructing this continuous scale of irrational and fractional numbers using only the integer.
 
 The mathematical continuum from this point of view would be a pure creation of the mind in which experiment would have no part.
 
