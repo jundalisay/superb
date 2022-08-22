@@ -1,13 +1,9 @@
 ---
 title: "Proximate Instances wanting the Nature of Heat"
-heading: Chapter 1 Book 2 of Nova Organum
+heading: Chapter 4
 date: 2022-01-31
 description: ""
 image: "/covers/nova.jpg"
-linkb: "/research/bacon/nova/book-2/"
-linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
-linkftext: "Chapter 2"
 icon: /favicon.png
 ---
 

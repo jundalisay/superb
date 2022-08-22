@@ -1,18 +1,18 @@
-+++
-title= "The Sciences"
-heading= "Part 2 of Metaphysics by Aristotle Simplified"
-date= "2015-09-29"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "According to Aristotle, the science which it would be most meet for God to have is a divine science, and so is any science that deals with divine objects"
-linkb= "/research/aristotle/metaphysics/book-1/part-1"
-linkbtext= "Part 9"
-linkf= "/research/aristotle/metaphysics/book-1/part-3"
-linkftext= "Part 10"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Sciences"
+heading: "Part 2"
+date: 2015-09-29
+image: "/covers/meta.jpg"
+description: "According to Aristotle, the science which it would be most meet for God to have is a divine science, and so is any science that deals with divine objects"
+linkb: /research/aristotle/metaphysics/book-1/part-1
+linkbtext: "Part 1"
+linkf: /research/aristotle/metaphysics/book-1/part-3
+linkftext: "Part 3"
+icon: "/icons/aris.jpg"
+author: Aristotle
+---
+
+
 
 What is wisdom?<!--  kind are the causes and the principles, the knowledge of which is Wisdom.  -->
 

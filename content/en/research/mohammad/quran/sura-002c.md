@@ -48,11 +48,11 @@ We:
 Moses said: 
 
 {{< l a="Moses" >}}
-O my people, you have done wrong to yourselves by worshiping the calf. So repent to your Maker and kill your egos.
+My people, you have done wrong to yourselves by worshiping the calf. So repent to your Maker and kill your egos.
 {{< /l >}}
 
 {{< r a="Jews" >}}
-O Moses, we will not believe in you unless we see Allah plainly.
+Moses, we will not believe in you unless we see Allah plainly.
 {{< /r >}}
 
 <!-- So He turned to you in repentance. He is the Accepter of Repentance, the Merciful. -->
@@ -81,10 +81,17 @@ Moses, we cannot just eat one kind of food. So call to your Lord to produce for 
 {{< /r >}}
 
 {{< l a="Moses" >}}
-<!-- He said, “Would you substitute worse for better?  -->Go back to Egypt where you will have such food. 
+<!-- He said, “Would you substitute worse for better?  -->
+Go back to Egypt where you will have such food. 
 {{< /l >}}
 
-The Jews were struck with humiliation and poverty, and incurred wrath from Allah because they rejected Allah’s revelations and wrongfully killed the prophets. 
+
+The Jews:
+- were struck with humiliation and poverty
+- incurred wrath from Allah 
+
+This is because they rejected Allah’s revelations and wrongfully killed the prophets. 
+
 
 {{< s v="62" >}} The following will have their reward with their Lord:
 - The Muslims
@@ -93,17 +100,17 @@ The Jews were struck with humiliation and poverty, and incurred wrath from Allah
 - The Sabeans 
 - those who act righteously and believe in Allah and the Last Day
 
-{{< s v="63" >}} We received a pledge from you, and raised the Mount above you:
-“Take what We have given you earnestly, and remember what is in it, that you may attain righteousness.”
+{{< s v="63" >}} We received a pledge from you, and raised the Mount above you: “Take what We have given you earnestly, and remember what is in it, that you may attain righteousness.”
 
-64. But after that you turned away. Were it not for Allah’s grace and mercy towards you, you would have been among the losers.
+{{< s v="64" >}} 64. But after that you turned away. Were it not for Allah’s grace and mercy towards you, you would have been among the losers.
 
-65. And you surely knew those of you who violated the Sabbath. We said to them, “Be despicable apes!”
+{{< s v="65" >}} We said to those of you who violated the Sabbath: “Be despicable apes!”
 
-66. Thus We made it a deterrent for their generation, and for subsequent generations, and
-a lesson for the righteous.
+{{< s v="66" >}} Thus, We made it:
+- a deterrent for their generation and subsequent generations, and
+- a lesson for the righteous.
 
-- {{< s v="67-71" >}} recall when Moses said to his people:
+{{< s v="67-71" >}} Recall when Moses said to his people:
 
 {{< l a="Moses" >}}
 Allah commands you to sacrifice a heifer
@@ -137,7 +144,12 @@ So they slew her, though they almost did not.
 
 - {{< s v="72-73" >}} recall when you killed a person, and disputed in the matter. But Allah was to expose what you were hiding. We said, “Strike him with part of it.” Thus Allah brings the dead to life; and He shows you His signs, that you may understand.
 
-74. Then after that your hearts hardened. They were as rocks, or even harder. For there are some rocks from which rivers gush out, and others that splinter and water comes out from them, and others that sink in awe of Allah. Allah is not unaware of what you do.
+{{< s v="74" >}} After that your hearts hardened.
+- They were as rocks, or even harder.
+- There are:
+  - some rocks from which rivers gush out
+  - other rocks that splinter and water comes out from them
+  - other rocks that sink in awe of Allah.
 
 75. Do you hope that they will believe in you, when some of them used to hear the Word of Allah, and then deliberately distort it, even after understanding it?
 

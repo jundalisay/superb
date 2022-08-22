@@ -1,5 +1,5 @@
 ---
-title: "The Reign of Man NATURE"
+title: "The Reign of Man"
 heading: Chapter 1 Book 2 of Nova Organum
 date: 2022-01-31
 description: ""
@@ -100,5 +100,20 @@ For instance, we must examine what spirit is in every[118] body,[79] what tangib
 
 VIII. This method will not bring us to atoms,[80] which takes for granted the vacuum, and immutability of matter (neither of which hypotheses is correct), but to the real particles such as we discover them to be. Nor is there any[119] ground for alarm at this refinement as if it were inexplicable, for, on the contrary, the more inquiry is directed to simple natures, the more will everything be placed in a plain and perspicuous light, since we transfer our attention from the complicated to the simple, from the incommensurable to the commensurable, from surds to rational quantities, from the indefinite and vague to the definite and certain; as when we arrive at the elements of letters, and the simple tones of concords. The investigation of nature is best conducted when mathematics are applied to physics. Again, let none be alarmed at vast numbers and fractions, for in calculation it is as easy to set down or to reflect upon a thousand as a unit, or the thousandth part of an integer as an integer itself.
 
-IX.[81] From the two kinds of axioms above specified, arise the two divisions of philosophy and the sciences, and we will use the commonly adopted terms which approach the nearest to our meaning, in our own sense. Let the investigation of forms, which (in reasoning at least, and after their own laws), are eternal and immutable, constitute metaphysics,[82] and let the investigation of the efficient cause of[120] matter, latent process, and latent conformation (which all relate merely to the ordinary course of nature, and not to her fundamental and eternal laws), constitute physics. Parallel to these, let there be two practical divisions; to physics that of mechanics, and to metaphysics that of magic, in the purest sense of the term, as applied to its ample means, and its command over nature.
+
+{{< s v="9" >}} [81] From the 2 kinds of axioms above specified, arise the 2 divisions of philosophy and the sciences.
+
+1. Metaphysics
+
+This includes the investigation of forms which are eternal and immutable. <!-- 82] --> 
+
+2. Physics 
+
+This includes the investigation of the efficient cause of <!-- [120] --> matter, latent process, and latent conformation which all relate  to the ordinary course of nature, and not to her fundamental and eternal laws. 
+
+
+
+<!-- Let the investigation of forms, which (in reasoning at least, and after their own laws), are eternal and immutable, constitute ,[82] and let the investigation of the efficient cause of[120] matter, latent process, and latent conformation (which all relate merely to the ordinary course of nature, and not to her fundamental and eternal laws), constitute physics.  -->
+
+Parallel to these, let there be two practical divisions; to physics that of mechanics, and to metaphysics that of magic, in the purest sense of the term, as applied to its ample means, and its command over nature.
 

@@ -1,13 +1,10 @@
 ---
 heading: "Chapter 11"
 title: "Communism, Shariah, Inca System"
-date: 2022-03-27
+# date: 2022-03-27
+date: 2022-12-18
 image: /covers/econsp.jpg
 description: ""
-linkb: /social/economics/principles/part-4
-linkbtext: "Part 4"
-linkf: /social/economics/principles/part-4
-linkftext: "Part 4"
 author: Dalisay
 ---
 

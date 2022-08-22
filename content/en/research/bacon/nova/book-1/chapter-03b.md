@@ -1,13 +1,9 @@
 ---
 title: "The Goal of Science"
-heading: Chapter 3b Book 2 of Nova Organum
-date: 2022-01-31
+heading: Chapter 3b
+date: 2022-01-15
 description: ""
 image: "/covers/nova.jpg"
-linkb: "/research/bacon/nova/book-2/"
-linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
-linkftext: "Chapter 2"
 icon: /favicon.png
 ---
 

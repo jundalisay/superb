@@ -1,7 +1,8 @@
 ---
 heading: "Chapter 6"
 title: "Targetted Development"
-date: 2022-03-27
+# date: 2022-03-27
+date: 2022-01-03
 image: /covers/econsp.jpg
 description: ""
 linkb: /social/economics/principles/part-4/chapter-05

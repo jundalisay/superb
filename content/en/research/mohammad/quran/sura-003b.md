@@ -48,7 +48,8 @@ I have named her Mary, and have commended her and her descendants to Your protec
 {{< /l >}}
 
 
-37. Her Lord accepted her with a gracious reception, and brought her a beautiful upbringing, and entrusted her to the care of Zechariah.
+
+{{< s v="37" >}} Her Lord accepted her with a gracious reception, and brought her a beautiful upbringing, and entrusted her to the care of Zechariah.
 
 Whenever Zechariah entered upon her in the sanctuary, he found her with provisions.
 
@@ -61,13 +62,15 @@ It is from Allah. He provides to whom He wills without reckoning.
 {{< /r >}}
 
 
-38. Thereupon, Zechariah prayed to his Lord:
+
+{{< s v="38" >}} Thereupon, Zechariah prayed to his Lord:
 
 {{< l a="Zechariah" >}}
-My Lord, bestow on me good offspring.”
+My Lord, bestow on me good offspring.
 {{< /l >}}
 
-39. Then the angels called out to him, as he stood praying in the sanctuary: 
+
+{{< s v="39" >}} Then the angels called out to him, as he stood praying in the sanctuary: 
 
 {{< r a="Angels" >}}
 John is an honorable, moral prophet.  Allah gives you good news confirming a Word from Allah from John.”
@@ -87,10 +90,13 @@ O Mary, Allah has chosen you, and has purified you. He has chosen you over all t
 
 <!-- 44. These are accounts from the Unseen, which We reveal to you. You were not with them when they cast their lots as to which of them would take charge of Mary; nor were you with them as they quarreled. -->
 
+{{< s v="46" >}}
 {{< r a="Angels" >}}
-O Mary, Allah gives you good news of a Word from Him. His name is the Messiah, Jesus, son of Mary, well-esteemed in this world and the next, and one of the nearest. 
+Mary, Allah gives you good news of a Word from Him. His name is the Messiah, Jesus, well-esteemed in this world and the next, and one of the nearest.
 
-46. He will speak to the people from the crib, and in adulthood, and will be one of the righteous.”
+He will:
+- speak to the people from the crib and in adulthood, and
+- be one of the righteous.”
 {{< /r >}}
 
 {{< l a="Mary" >}}
@@ -104,20 +110,23 @@ Allah creates whatever He wills. To have anything done, He only says to it, ‘B
 
 Jesus was born and was taught by Allah the Scripture, wisdom, the Torah, and the Gospel.
 
-Jesus said to the Jews: 
+{{< s v="50-51" >}} Jesus said to the Jews: 
 
 {{< l a="Jesus" >}}
 I have come to you with a sign from your Lord. 
 
-I make for you out of clay the figure of a bird.then I breathe into it, and it becomes a bird by Allah’s leave. And I heal the blind and the leprous, and I revive the dead, by Allah’s leave. And I inform you concerning what you eat, and what you store in your homes. In that is a sign for you, if you are believers.
+I make for you a clay bird then I breathe into it. It becomes a bird by Allah’s leave.
 
-50. “And verifying what lies before me of the Torah, and to make lawful for you some of what was forbidden to you. I have come to you with a sign from your Lord; so fear Allah, and obey me.”
+I heal the blind and the leprous. I revive the dead, by Allah’s leave.
 
-51. “Allah is my Lord and your Lord, so worship Him. That is a straight path.”
+I tell you what you eat and what you store in your homes. In that is a sign for you, if you are believers.
+
+I verify what lies before me of the Torah. I make lawful for you some of what was forbidden to you. I have come to you with a sign from your Lord; so fear Allah and obey me.
+<!-- 51. “Allah is my Lord and your Lord, so worship Him. That is a straight path.” -->
 {{< /l >}}
 
-Jesus sensed their disbelief:
-52-53
+
+{{< s v="52-53" >}} Jesus sensed their disbelief:
 
 {{< l a="Jesus" >}}
 Who are my allies towards Allah?
@@ -129,24 +138,24 @@ We are. We believe in Allah and submit.
 We believe what You have revealed through the Messenger, so count us among the witnesses.
 {{< /r >}}
 
-54. They planned, and Allah planned; but Allah is the Best of planners.
-
-55. Allah said, “
+{{< s v="54-57" >}} They planned, and Allah planned; but Allah is the Best of planners.
 
 {{< l a="Allah" >}}
-O Jesus, I am terminating your life, and raising you to Me, and clearing you of those who disbelieve. 
+Jesus, I am:
+- ending your life
+- raising you to Me, and
+- clearing you of those who disbelieve. 
 
 I will make those who follow you superior to those who disbelieve, until the Day of Resurrection.
 
 Then to Me is your return; then I will judge between you regarding what you were disputing.
 
-56. As for those who disbelieve, I will punish them with a severe punishment, in this world
-and the next, and they will have no helpers. 
+<!-- As for those who disbelieve, I will punish them with a severe punishment, in this world
+and the next, and they will have no helpers.  -->
 
-57. And as for those who believe and do good works, He will give them their rewards in full.
-Allah does not love the unjust.”
+<!-- 57. And as for those who believe and do good works, He will give them their rewards in full.
+Allah does not love the unjust.” -->
 {{< /l >}}
 
 
-58. This is what We recite to you of the Verses and the Wise Reminder.
-
+<!-- 58. This is what We recite to you of the Verses and the Wise Reminder. -->

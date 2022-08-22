@@ -3,14 +3,9 @@ title: "Free Competition"
 description: "Free Competition is an essential part of our third and fourth law of value. Competition is the third law. Freedom is the fourth law"
 image: /photos/psych/freedom.jpg
 # image: "https://res.cloudinary.com/nara/image/upload/v1632386432/photos/beauty600.jpg"
-linkb: /articles/pantrynomics/five-factors-affecting-wages-profits
-linkbtext: "5 factors-affecting-wages-profits"
-linkf: /articles/pantrynomics/how-to-be-a-wealthy-country
-linkftext: "how-to-be-a-wealthy-country"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
-draft: true
 ---
 
 <!-- 
@@ -24,7 +19,7 @@ Answered April 6, 2016
 To rephrase the question: "Where does Smith say that poverty will be minimum and welfare, maximum, when competitors are equal?"
  -->
 
-Pantrynomics is based on the four laws of value. Free competition is a necessary idea under the third law or the law of fair exchange, and the fourth law or the law of balance. 
+Free competition is a necessary idea under the Third Law or the law of fair exchange, and is always checked by the Fourth Law or the law of balance. 
 
 Value is spread throughout society via exchange after passionate creators make their products and services. Their mutual exchange naturally creates a sort of competition on who can satisfy the demand of society better, faster, and cheaper. 
 
@@ -52,10 +47,12 @@ For example, Apple has become a huge company that bans others from copying its t
 
 Proof of this contradiction is in Marshall's Principles of Economics (the textbook that came before Samuelson's Economics)
 
-<div class="squote marshall" data-sal="slide-right">
-It is commonly said that the tendency of competition is to equalize the earnings of people engaged in the same trade<!-- or in trades of equal difficulty -->; but this statement requires to be interpreted carefully. For competition tends to make the earnings got by two individuals of unequal efficiency in any given time, say, a day or a year, not equal, but unequal; and, in like manner, it tends not to equalize, but to render unequal the average weekly wages in two districts in which the average standards of efficiency are unequal.
+{{< q a="marshall">}}
+It is commonly said that the tendency of competition is to equalize the earnings of people engaged in the same trade<!-- or in trades of equal difficulty -->; but this statement requires to be interpreted carefully. 
+
+For competition tends to make the earnings got by two individuals of unequal efficiency in any given time, say, a day or a year, not equal, but unequal; and, in like manner, it tends not to equalize, but to render unequal the average weekly wages in two districts in which the average standards of efficiency are unequal.
 <cite>Principles of Economics</cite>
-</div>
+{{< /q >}}
 
 
 <!-- Adam Smith said that 
@@ -64,40 +61,39 @@ But if your question is about free competition (with justice integrated) instead
 
 Then the quotes are mostly found in Book 5
 
-<br> 
 
 ### Free Competition Lowers Taxes or Prices But Raises Revenue
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 A big capital or credit is needed to collect taxes. These would alone restrain the competition for such an undertaking to very few people. The competition is further reduced by the knowledge or experience needed. Those few with all of these would find it for their interest to combine and be co-partners.
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 2</cite>
-</div>
+{{< /q >}}
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 A tax on the profits from any trade can never fall finally on the dealers. They must ordinarily have their reasonable profit. If the competition is free, he can seldom have more than that profit.
 <cite>The Wealth of Nations Simplified, Book 5, Chapter 2, Article 2</cite>
-</div>
+{{< /q >}}
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 The usual corporation spirit, wherever the law does not restrain it, prevails in all regulated companies. When they have been allowed to act according to their natural genius, they have always, in order to confine the competition to as small a number of persons as possible, endeavoured to subject the trade to many burdensome regulations.
-</div>
+{{< /q >}}
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 In almost all countries, the revenue of the sovereign is drawn from the revenue of the people. The greater the revenue of the people, the greater their annual produce, the more they can give to the sovereign. It is his interest to increase as much as possible that annual produce. 
-</div>
+{{< /q >}}
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 It is especially the interest of one whose revenue arises chiefly from a land-rent, like that of the sovereign of Bengal. That rent must necessarily be in proportion to the quantity and value of the produce. The rent and the value of the produce must depend on the extent of the market. The quantity will always be suited exactly to the consumption of those who can pay for it. The price they pay will always be in proportion to the eagerness of their competition.
-</div>
+{{< /q >}}
 
-<br> 
+
 
 ### Free Competition Increases Innovation
 
-{{< quote ava="smith" >}}
-The increase of demand though in the beginning it may sometimes raise the price of goods, never fails to lower it in the run." It encourages production and increases the competition of the producers. Those producers turn to new divisions of labour and improvements never thought of in order to undersell one another.
-</div>
+{{< q a="smith" >}}
+The increase of demand though in the beginning it may sometimes raise the price of goods, never fails to lower it in the run. It encourages production and increases the competition of the producers. Those producers turn to new divisions of labour and improvements never thought of in order to undersell one another.
+{{< /q >}}
 
-{{< quote ava="smith" >}}
+{{< q a="smith" >}}
 The words regulation and deregulation are ambigous. Regulating a criminal away from owning a gun is a good rule. But regulating the army to avoid guns is absurd. Therefore, regulation and deregulation are always relative to the common interest.
-</div>
+{{< /q >}}

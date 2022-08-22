@@ -2,14 +2,11 @@
 heading: "Chapter 4"
 title: "The Six Types of Effort"
 # heading: "Material, Immaterial, Skilled, Unskilled, Value-adding, Value-maintaining"
-date: 2018-06-03
+# date: 2018-06-03
+date: 2022-01-10
 # image: /photos/econ/singer.jpg
 description : "The Six Types of Effort in Pantrynomics are Material, Immaterial, Skilled, Unskilled, Value-adding, Value-maintaining"
 image: /covers/econsp.jpg
-linkb: /social/economics/principles/part-4
-linkbtext: "Part 4"
-linkf: /social/economics/principles/part-4
-linkftext: "Part 4"
 author: Dalisay
 aliases:
   /social/economics/principles/6-efforts

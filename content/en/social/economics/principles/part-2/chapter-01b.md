@@ -3,13 +3,10 @@ heading: "Chapter 1b"
 title: "The Effort Theory of Value"
 # heading: "The Alternative to Arbitrary Narginal Pricing"
 # date: 2020-04-18
-date: 2015-10-30
+# date: 2015-10-30
+date: 2022-01-30
 image: "/graphics/jfk.jpg"
 description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
-linkb: /social/economics/why-business-is-immoral
-linkbtext: "why-business-is-immoral"
-linkf: "/social/economics/1772-credit-crunch"
-linkftext: "1772 credit crunch"
 icon: /icons/pantry.png
 aliases:
   /articles/taonomics/the-effort-theory-of-value/

@@ -1,12 +1,9 @@
 ---
 title: "The Idols of the Theater"
-heading: Chapter 2d Book 1 of Nova Organum
-date: 2022-01-31
+heading: Chapter 2e
+date: 2022-01-23
+image: "/covers/nova.jpg"
 description: ""
-linkb: "/research/bacon/nova/book-2/"
-linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
-linkftext: "Chapter 2"
 icon: /favicon.png
 ---
 

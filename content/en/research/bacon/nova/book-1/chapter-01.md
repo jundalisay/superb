@@ -1,8 +1,8 @@
 ---
 title: "The Interpretation Of Nature"
-heading: Chapter 1 Book 1 of Nova Organum
-date: 2022-01-31
+heading: Chapter 1
 description: ""
+date: 2022-01-31
 image: "/covers/nova.jpg"
 linkb: "/research/bacon/nova/book-1/"
 linkbtext: "Index"

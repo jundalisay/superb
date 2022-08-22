@@ -135,7 +135,9 @@ The use of debt and elimination of equity is evident in:
 {{< q a="smith" >}}
 A bank could still less afford to lend the fixed capital needed by an iron forge owner for his smelting-house, workhouses, warehouses, etc..
 
-Such entrepreneurs may properly do most of their projects with money borrowed upon bond of private people who can live on the interest of their money without taking the trouble to employ the capital themselves. The borrowed money which would not be repaid for several years, should not be borrowed from a bank.
+Such entrepreneurs may properly do most of their projects with money borrowed upon bond of private people who can live on the interest of their money without taking the trouble to employ the capital themselves. 
+
+The borrowed money, which would not be repaid for several years, should not be borrowed from a bank.
 <cite>The Wealth of Nations Simplified, Book 2, Chapter 2</cite>
 {{< /q >}}
 
@@ -200,13 +202,17 @@ Each country's Clearing Fund will be subdivided into different industries, with 
 
 Investors, such as the Arab sheik, can then park his money in a fund that he likes, in a country that he likes. If a country can define 1 million industries, then each can have its own fund. The sheik can then have 1 million investment options. 
 
-There is still **a gaming element** since not all funds will succeed equally, yet not all funds will fail unless the country is totally mismanaged. 
+There is still **a gaming element** since not all funds will succeed equally, yet not all funds will fail unless the country is totally mismanaged. This will allow people to enjoy such a childish pleasure*.
 
-This will allow capital to spread over many industries in many countries and not just into a few blue-chip companies, as is common in the current system.  
+
+> *Not all investors are rich. Some just use their savings in the hopes of striking it rich quickly.
+
+
+This will allow capital to spread over many industries in many countries and not just into a few blue-chip companies, as is common in the current system.
 
 It will also increase global trade since the Pool-countries will act as a single economic country. The Pool works on common-interest since all members can help each other export their way out of crisis and provide employment via exports and tourism. This makes trade wars and protectionism illogical.  
 
-It also is a better alternative to a single currency like the Euro, which has many regulations, and the US Dollar, which is controlled by one country.  
+Lastly, it serves as a better alternative to a single currency like the Euro, which has many regulations, and the US Dollar, which is controlled by one country.  
 
 
 

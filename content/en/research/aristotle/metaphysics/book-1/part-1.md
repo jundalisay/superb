@@ -1,6 +1,6 @@
 ---
 title: "Wisdom is knowledge of certain principles and causes"
-heading: "Part 1 of Metaphysics by Aristotle Simplified"
+heading: "Part 1"
 linkTitle: Part 1
 date: 2015-09-30
 image: "/covers/meta.jpg"

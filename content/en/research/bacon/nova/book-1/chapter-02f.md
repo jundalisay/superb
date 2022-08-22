@@ -1,12 +1,9 @@
 ---
 title: "What subjects must we study?"
-heading: Chapter 2f Book 1 of Nova Organum
-date: 2022-01-31
+heading: Chapter 2f
+date: 2022-01-20
+image: "/covers/nova.jpg"
 description: ""
-linkb: "/research/bacon/nova/book-2/"
-linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
-linkftext: "Chapter 2"
 icon: /favicon.png
 ---
 

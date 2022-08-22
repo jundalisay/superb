@@ -1,13 +1,9 @@
 ---
 title: "The Development of Science"
-heading: Chapter 3c Book 2 of Nova Organum
-date: 2022-01-31
+heading: Chapter 3c
+date: 2022-01-13
 description: ""
 image: "/covers/nova.jpg"
-linkb: "/research/bacon/nova/book-2/"
-linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
-linkftext: "Chapter 2"
 icon: /favicon.png
 ---
 

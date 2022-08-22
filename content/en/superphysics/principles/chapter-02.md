@@ -7,10 +7,6 @@ heading: "Chapter 2"
 date: 2020-12-30
 image: /photos/idea.jpg
 description: "Everything is an idea of the Creator of that existence"
-linkb: /superphysics/principles/chapter-01
-linkbtext: "Matrix"
-linkf: /superphysics/principles/chapter-03
-linkftext: "Law of Conservation of Idea"
 author: Juan
 icon: /icons/sp.png
 tags: ['Lao Tzu', 'Yin Yang']

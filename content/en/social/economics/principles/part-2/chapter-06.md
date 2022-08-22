@@ -1,7 +1,8 @@
 ---
 heading: "Chapter 5"
 title: "Business and Industry"
-date: 2022-03-27
+# date: 2022-03-27
+date: 2022-01-22
 image: /covers/econsp.jpg
 description: ""
 linkb: /social/economics/principles/part-2/chapter-05
@@ -9,7 +10,9 @@ linkbtext: "Chapter 5"
 linkf: /social/economics/principles/part-2/chapter-07
 linkftext: "Chapter 7"
 author: Dalisay
+draft: true
 ---
+
 
 ## Common Business Processes
 

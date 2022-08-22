@@ -6,14 +6,9 @@ date: 2020-12-29
 # date: "2022-0-01"
 image: "/photos/basket.jpg"
 description: "Why you only have 1 idea at a time"
-linkb: /superphysics/principles/chapter-02
-linkbtext: "Everything-is-an-idea"
-linkf: /superphysics/principles/chapter-04
-linkftext: "Karma"
 author: Juan
 icon: /icons/sp.png
 icontext: Superphysics icon
-# draft: true
 ---
 
 

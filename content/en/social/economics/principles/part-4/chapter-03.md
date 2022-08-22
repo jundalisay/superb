@@ -1,17 +1,11 @@
 ---
 heading: "Chapter 3"
 title: "GDP and National Purchasing Power"
-date: 2022-03-27
+date: 2022-01-15
 image: /covers/econsp.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-linkb: /social/economics/principles/part-4
-linkbtext: "Part 4"
-linkf: /social/economics/principles/part-4
-linkftext: "Part 4"
 author: Dalisay
 ---
-
-
 
 
 While building Adam Smith's resource allocation system, I've often been asked:"What measure of value does it use?"

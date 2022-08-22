@@ -31,7 +31,7 @@ According to Eastern social cycle theory, history repeats itself because humans 
 
 
 
-{{< img src="/icons/tao.png" cap="There are only two forces in the universe. All perceivable forces, such as gravrity, electromagnetism, love & hatred, are versions or 'modes' of those two" alt="Yin Yang symbol" >}}
+{{< img src="/icons/tao.png" cap="There are only two forces in the universe. All perceivable forces, such as gravity, electromagnetism, love & hatred, are versions or 'modes' of those two" alt="Yin Yang symbol" >}}
 
 
 - In Taoism, this duality is called Yin and Yang
@@ -127,10 +127,14 @@ This led to a metaphysical clash of ideas which sparked a physical world war*.
 > *David Hume wrote that mentality creates reality. This means if your society BELIEVES in an apocalypse or a war to end all wars, then such a war will eventually HAPPEN because the soul of society created it as a probability in the metaphysical dimension, waiting for deployment in physical reality. This is currently the case in the Middle East where Jews and Muslims believe in an 'end of days'. Such end of days actually happen during airstrikes (by the West) or suicide attacks (by the Islamists). The simplest solution is to drop such a belief.  
 
 
-By applying Adam Smith's economic metaphysics, we can say that the 2008 Financial Crisis had similar dynamics as the 1929 Great Crash and secular stagnation is the current version of the Great Depression. Investment banks were already rich, but they wanted to be even richer so they invented speculative derivatives which would return no revenue*.
+By applying Adam Smith's economic metaphysics, we can say that:
+- the 2008 Financial Crisis had similar dynamics as the 1929 Great Crash 
+- the secular stagnation is the current version of the Great Depression
+
+Investment banks were already rich, but they wanted to be even richer so they invented speculative derivatives which would return no revenue*.
 
 
-> *The resulting crash puts all profits to zero which then re-allows the possibility of high profits. When things are at the bottom, then there is no way but up. 
+> *This is because Modern Economics has no concept of [Economic Balance](/social/economics/principles/part-4/chapter-01). The resulting crash or imbalance puts all profits to zero which then re-allows the possibility of high profits. When things are at the bottom, then there is no way but up. 
 
 
 ## Stagflation, Revolutions, and Conflict All Come From the Monkey Nature

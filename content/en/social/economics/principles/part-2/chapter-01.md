@@ -1,14 +1,10 @@
 ---
-heading: "Chapter 1 of Part 2"
+heading: "Chapter 1"
 title: "The Second Law of Value"
-date: 2022-01-03
-# dateorig: Originally written in 2016
+# date: 2022-01-03
+date: 2022-01-31
 image: "/graphics/econ/law2.jpg"
 description: "The Second Law states that real value emerges from nominal value and is maximized by following one's true interests or true nature or dharma. Unlike Economics which imposes the interests of others, Pantrynomics encourages everyone to know true interest or purpose of their lives that has value to society"
-linkb: /social/economics/principles/part-2
-linkbtext: "Part 2"
-linkf: /social/economics/principles/part-2
-linkftext: "Part 2"
 author: Dalisay
 aliases:
   /pantrynomics/second-law

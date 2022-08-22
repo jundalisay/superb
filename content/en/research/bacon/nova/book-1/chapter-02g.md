@@ -1,12 +1,9 @@
 ---
 title: "Demonstrations"
-heading: Chapter 2g Book 1 of Nova Organum
-date: 2022-01-31
+heading: Chapter 2g
+date: 2022-01-17
+image: "/covers/nova.jpg"
 description: ""
-linkb: "/research/bacon/nova/book-2/"
-linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
-linkftext: "Chapter 2"
 icon: /favicon.png
 ---
 

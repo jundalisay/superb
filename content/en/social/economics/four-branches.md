@@ -11,6 +11,7 @@ linkftext: "Social Superphysics"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
+draft: true
 aliases:
   /articles/pantrynomics/four-branches/
 ---

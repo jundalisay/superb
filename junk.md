@@ -23,9 +23,13 @@ We overhauled our site with a faster theme, organized under 3 headings:
 
 
 
+.Params.linkbtext
+{{ .Params.linkb | relURL }}
 
 
-
+<div class="panel">
+<small>* Truth is the equivalence of a metaphysical idea with its physical reality or perception. Both the idea of unicorns and of God, as a giant man in the sky, have no equivalent physical existence. Yet most religions believe in such a giant floating God because such an idea serves to <i>awe</i> humans and <b>puts their relatively small ego in check</b>. This then fulfills the goal of private morality as mentioned in the previous chapter, something that a belief in unicorns cannot achieve. Instead of using truth as what the Indians did, or of using the idea of an all-powerful Allah as what the Prophet Mohammad did, Confucius chose to check human ego through rigid rituals and by saving face.</small>
+</div>
 
 
 

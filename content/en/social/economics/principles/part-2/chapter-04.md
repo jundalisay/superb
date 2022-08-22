@@ -1,14 +1,11 @@
 ---
 heading: "Chapter 4"
 title: "Primary Arbitrage"
-date: 2020-04-17
+# date: 2020-04-17
+date: 2022-01-25
 # date: 2017-04-26
 image: "/photos/buy.jpg"
 description: "Primary and Secondary Arbitrage are incentives to value creation and circulation in Pantrynomics"
-linkb: /social/economics/principles/part-2/chapter-03
-linkbtext: "Part 2"
-linkf: /social/economics/principles/part-2/chapter-05
-linkftext: "Part 2"
 author: Dalisay
 ---
 

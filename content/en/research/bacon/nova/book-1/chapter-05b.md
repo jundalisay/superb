@@ -1,13 +1,9 @@
 ---
 title: "The Scope of Our New Philosophy"
-heading: Chapter 1 Book 2 of Nova Organum
-date: 2022-01-31
+heading: Chapter 5b
+date: 2022-01-03
 description: ""
 image: "/covers/nova.jpg"
-linkb: "/research/bacon/nova/book-1/chapter-04"
-linkbtext: "Chapter 4"
-linkf: "/research/bacon/nova/book-2/chapter-01"
-linkftext: "Book 2"
 icon: /favicon.png
 ---
 

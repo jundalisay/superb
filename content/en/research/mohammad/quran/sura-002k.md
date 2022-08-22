@@ -4,10 +4,10 @@ heading: "Sura 2b of the Quran Simplified"
 date: 2022-01-21
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-002j
+linkbtext: "2j"
+linkf: /research/mohammad/quran/sura-002l
+linkftext: "2l"
 ---
 
 
@@ -78,30 +78,52 @@ into darkness—these are the inmates of the Fire, in which they will abide fore
 
 258. Have you not considered him who argued with Abraham about his Lord, because Allah had given him sovereignty? 
 
-Abraham said, “My Lord is He who gives life and causes death.” 
 
-He said, “I give life and cause death.”
+{{< r a="Abraham" >}}
+My Lord is He who gives life and causes death.
+{{< /r >}}
 
-Abraham said, “Allah brings the sun from the East, so bring it from the West”. The blasphemer was confounded. 
+{{< l a="Allah" >}}
+I give life and cause death.
+{{< /l >}}
 
-Or like him who passed by a town collapsed on its foundations. He said, “How can Allah revive this after its demise?” Thereupon
-Allah caused him to die for a hundred years, and then resurrected him. 
+{{< r a="Abraham" >}}
+Allah brings the sun from the East, so bring it from the West
+{{< /r >}}
 
-He said, “For how long have you tarried?” 
+The blasphemer was confounded.  Or like him who passed by a town collapsed on its foundations. 
 
-He said, “I have tarried for a day, or part of a day.” 
+He said, “How can Allah revive this after its demise?” 
 
-He said, “No. You have tarried for 100 years. 
+Thereupon Allah caused him to die for 100 years, and then resurrected him. 
 
-Now look at your food and your drink—it has not spoiled—and look at your donkey. We will make you a wonder for mankind. 
+{{< l a="Allah" >}}
+How long have you tarried?” 
+{{< /l >}}
+
+{{< r a="Abraham" >}}
+I have tarried for a day, or part of a day.
+{{< /r >}}
+
+
+{{< l a="Allah" >}}
+No. You have tarried for 100 years.  Now look at your food and your drink—it has not spoiled—and look at your donkey. We will make you a wonder for mankind. 
 
 Look at the bones, how We arrange them, and then clothe them with flesh.” So when it became clear to him, he said, “I know that Allah has power over all things.”
+{{< /l >}}
 
-260. Abraham said, “My Lord, show me how You give life to the dead.” 
+
+260. 
+
+{{< r a="Abraham" >}}
+My Lord, show me how You give life to the dead.
+{{< /r >}}
 
 <!-- He said, “Have you not believed?” 
 He said, “Yes, but to put my heart at ease.”  -->
 
-He said, “Take 4 birds, and incline them to yourself, then place a part on each hill, then call to them; and they will come rushing to you. 
 
+{{< l a="Allah" >}}
+Take 4 birds, and incline them to yourself, then place a part on each hill, then call to them; and they will come rushing to you. 
+{{< /l >}}
 

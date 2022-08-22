@@ -4,19 +4,20 @@ heading: "Sura 3a of the Quran Simplified"
 date: 2022-01-15
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
+linkb: /research/mohammad/quran/sura-003d
+linkbtext: "sura-003d"
+linkf: /research/mohammad/quran/sura-004a
+linkftext: "sura-004a"
 ---
 
 
-156. The disbelievers said of their brethren who went on the offensive: “Had they stayed with us, they would not have died or been killed.” <!-- So that Allah
+{{< s v="156" >}} The disbelievers said of their brethren who went on the offensive: “Had they stayed with us, they would not have died or been killed. <!-- So that Allah
 may make it a cause of regret in their hearts. -->
 
 Muslims, do not be like the disbelievers. 
 
-157. If you are killed in the cause of Allah, to Allah you will be gathered up. <!-- —forgiveness and mercy from Allah are better than what they hoard. -->
+
+{{< s v="157" >}} If you are killed in the cause of Allah, to Allah you will be gathered up. <!-- —forgiveness and mercy from Allah are better than what they hoard. -->
 
 159. It is by of grace from Allah that you were gentle with them. Had you been harsh, hard-hearted, they would have dispersed from around you. So pardon them, and ask forgiveness for them, and consult them in the conduct of affairs. 
 

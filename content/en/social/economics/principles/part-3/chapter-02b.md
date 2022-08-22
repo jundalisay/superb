@@ -21,6 +21,7 @@ This inequality manifests as:
 - lack of career growth
 - bullshit jobs  
 
+
 ## How Neoclassical Economics Causes Inequality
 
 The Marginal Revolution enshrined profit maximizatin in the 1870s. This doctrine favors the Merchant class over the Populist, Militant, and Philosopher. As a result, the Merchant class gets a bigger share of its society's productivity. This starves the rest:

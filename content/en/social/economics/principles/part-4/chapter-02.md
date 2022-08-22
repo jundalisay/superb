@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
-title: "Taxes"
-date: 2015-01-01
+title: "Taxes and Taxation systems"
+date: 2015-01-25
 image: "/og/pointtax.jpg"
 description : "Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been largely forgotten today. We bring them back to help solve tax evasion and budget deficits"
 linkb: /social/economics/principles/part-4
@@ -9,110 +9,111 @@ linkbtext: "Part 4"
 linkf: /social/economics/principles/part-4
 linkftext: "Part 4"
 author: Dalisay
-aliases:
-  /articles/taonomics/adam-smith-taxation-maxims/
-  /articles/pantrynomics/adam-smith-taxation-maxims/
-  /social/economics/adam-smith-taxation-maxims/
-  /social/economics/taxation-maxims
-  /social/economics/principles/taxation-maxims
 ---
 
+(Under construction)
 
-## Four Taxation Maxims
+There are 2 ways for governments to fund themselves:
 
-Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been largely forgotten today. Taxes should be fair, non-arbitrary, cost-effective and convenient.
+1. Tax Revenue
 
-![Adam Smith's Tax Maxims](/images/infotaxmaxims.jpg)
+2. Non-Tax Revenue
 
+This includes:
+- revenue from assets, like a fund that earns interest
+- government land that earns rent
+- revenue from state owned enterprises
 
-### Maxim 1
+<!-- Because governments form a much smaller part of any society, the revenue from taxation is naturally higher. Here, we organize Smith's chapters on taxation for easier understanding. -->
 
-**People should contribute towards supporting their government in proportion to their respective abilities**
+Taxes can be classified into the following:
 
-The rich or those who have the ability topay more should pay more than those who are less able to. Smith's pro-poor taxation policies are found in Book 5, Chapter 2, and are as clear as day:
+1. Fees
+2. Taxes on Revenue
 
-{{< quote ava="smith" >}}
-The high price of necessities for the poor must be compensated by an increase in their wages.. It must always be remembered, that it is the luxurious and not the necessary expence of the lower class that should be taxed.
-{{< /quote >}}
+The taxes on revenue are applied on the 4 kinds of revenue:
 
+## Taxes on Rent
 
-### Maxim 2
+## Taxes on Profit
 
-**The tax which each person pays must be certain and not arbitrary**
+Capital Gains and Inheritance taxes
 
-This maxim applies to the valuation of certain taxes, such as land taxes.
+Profit (revenue from stock and freelance or one-off labour
+- Sales Taxes
+- Excise Taxes
+- Value-added taxes
 
-{{< quote ava="smith" >}}
-A land-tax assessed according to a general survey and valuation, however equal it may be at first, must become unequal after some time..The tax is regulated by the discretion of the intendant of Montauban and is arbitrary.
-{{< /quote >}}
+## Taxes on Wages
 
-
-
-### Maxim 3
-
-**Every tax should be levied at the time and manner most convenient for the taxpayer**
-
-Smith gives an example of this in the excise and customs duties:
-
-{{< quote ava="smith" >}}
-The importers are always subject to the custom-house officer’s visit and examination, andobliged to justify by proper certificates the payment of the duty on the goodsin their shops or warehouses. The excise-duties on imported rum are presently levied this way.The same system of administration might be extended to all duties on imported goods, provided that those duties were like the excise duties.
-{{< /quote >}}
-
-
-### Maxim 4
-
-**Taxes should take out as little as possible from the people over and above what it brings into the public treasury**
-
-For this, Smith mentions the inefficient collection method of certain taxes:
-
-{{< quote ava="smith" >}}
-The gabelles, aides, traites, domaine, and tobacco taxes are collectedin most of the provinces.These are much more wasteful and expensive to administer.
-{{< /quote >}}
+Income Taxes (revenue from labour)
 
 
 
+<!-- Taxes that vary based on revenue: Article 1-3: Land, Rent, and revenue 
 
-## Applying the Maxims
+from land value or the produce of the land ( -->
 
-We use these maxims on current taxes to see if they pass. This will then determine whether the tax is just or if it needs to be revised. In this example, we will apply it to income taxes which are assessed according to 'tax brackets' and exemptions, by running four tests.
+<!-- Taxes that do not vary: Article 4: Capitation Taxes (Poll Taxes) and  -->
 
+<!-- Sales Taxes (necessities vs luxuries) -->
 
+Sales taxes were created to tax income via the people's expenses because:
+- It was hard to know each person's income
+- It was unfair to tax everyone an equal amount
 
-### Test 1: Is it proportional to the ability of the person to pay?
+"A tax on necessities operates the same way as a direct tax on wages."
+Luxuries should be taxed.
 
-The income tax in this case is progressive--the rate increases with the increase in the base taxable income. So it somewhat passes the first test by allowing the less-able-to-pay pay less. However, it is uncertain whether such a tax rate would be really fair because there is no information on the socio-economic conditions of the people being taxed.
+The middle and upper classes, if they understand their own interest, should always oppose all taxes on necessities and direct taxes on the wages of labour. The final payment of such taxes all fall on themselves, with a big overcharge.
 
-**Result: Pass Somewhat**
+Taxes on necessities, such as energy, creates an easy form of revenue for governments and may be continued.
 
+There are 2 ways to charge sales taxes:
 
+1. By an annual payment for expensive, durable items
+Instead of a big tax payment, the charge is spread over many years
 
-### Test 2: Is it certain and not arbitrary?
+2. By charging the seller just before the item is sold to the consumer (customs and excise duties)
 
-Since the amount to be paid can be arrived at clearly by using the table, this tax passes the second test.
+High import duties create smuggling and fraud
 
-**Result: Pass**
+High taxes give less revenue than small taxes
 
+Sir Walpole suggested a taxation system for wine and tobacco similar to Smith's suggestions
 
-### Test 3: Is it convenient?
-
-The convenience of the tax in this case is not so perfect since, just from the information given, it is evident that computations must be done and that the filing requirementsmight cause added burdens to the taxpayer.
-
-**Result: Fail**
-
-
-
-### Test 4: Is it cost-efficient?
-
-Since there is no information on the costs on collecting this kind of tax, we cannot run this test objectively. However, the advances in technology generally allow taxes to be administered via the internet and be paid via electronic bank transfers, reducing the cost in manual labour in the long run.
-
-**Result: Pass**
-
-
-## Tax Conclusion: Revise the Tax
-
-The tax in this example needs to be revised to meet Maxim 3
+Liquor taxes (taxing malt vs taxing beer)
+Other Taxes that do not vary:
+Tolls and fees
+Taxes on luxuries
 
 
-{{< me date="Sept 2016" >}}
-This idea of putting taxes and economic policies through a standardized test is inspired by unit testing insoftware development, wherein code is tested to see if it meets certain criteria. Using this system, various tax policies can be put through the test to seepass orfail more easily.
-{{< /me >}}
+
+
+## French Taxation
+
+Taille (collected directly by the government)
+Capitation (collected directly by the government)
+Two vingtiemes (collected directly by the government)
+Gabelles (outsourced to tax collectors)
+Aides (outsourced to tax collectors)
+Traites (outsourced to tax collectors)
+Domaine (outsourced to tax collectors)
+The farm of tobacco (outsourced to tax collectors)
+
+
+## Dutch Taxation
+
+
+<!-- How we apply Smith's system
+
+We implement Smith's forgotten system through our internet-based resource allocation (SORA) system by charging sales taxes directly on each party in a transaction and by categorizing all taxes as either income taxes or sales taxes. The income taxes are direct taxes which include all revenue from land, labor, and stock, while sales taxes are also direct taxes on items that circulate in the economy.
+ -->
+
+
+Income taxes - Property tax, Estate tax, Capital Gains tax, Income taxes, Profit taxes.
+
+
+Sales taxes - Sales tax, VAT, Sin taxes, Customs and Excise Duties
+
+In the current economic system, a 10% sales tax is passed on the buyer to be given and paid by the seller to the government. In our proposed system, taxes are divided equally between the parties in the trade. This makes the taxation on countertrade easier and more transparent. Here, the 10% taxes is divided into 5% and applied on both parties.

@@ -1,29 +1,28 @@
 ---
-title: "THE INTERPRETATION OF NATURE"
-heading: Chapter 1 Book 2 of Nova Organum
-date: 2022-01-31
+title: "Bacon's System"
+heading: Chapter 5
+date: 2022-01-05
 description: ""
 image: "/covers/nova.jpg"
-linkb: "/research/bacon/nova/book-1/chapter-04"
-linkbtext: "Chapter 4"
-linkf: "/research/bacon/nova/book-2/chapter-01"
-linkftext: "Book 2"
 icon: /favicon.png
 ---
 
-{{< s v="122" >}} People might object that we are being singular and harsh for trying to banish all authorities and sciences with one stroke and assault by our own efforts without the help of the ancients.
+{{< s v="122" >}} People might object that we <!-- are being singular and harsh for trying to --> banishing all authorities and sciences with one stroke <!-- and assault by our own efforts --> without the help of the ancients.
 
-Now we are aware, that had we been ready to act otherwise than sincerely, it was not difficult to refer our present method to remote ages, prior to those of the Greeks (since the sciences in all probability flourished more in their natural state, though silently, than when they were paraded with the fifes and trumpets of the Greeks); or even (in parts, at least) to some of the Greeks themselves, and to derive authority and honor from thence; as men of no family labor to raise and form nobility for themselves in some ancient line, by the help of genealogies. 
-
+<!-- Now we are aware, that had we been ready to act otherwise than sincerely, it was not difficult to refer our present method to remote ages, prior to those of the Greeks (since the sciences in all probability flourished more in their natural state, though silently, than when they were paraded with the fifes and trumpets of the Greeks); or even (in parts, at least) to some of the Greeks themselves, and to derive authority and honor from thence; as men of no family labor to raise and form nobility for themselves in some ancient line, by the help of genealogies.  -->
 
 However, we trust the evidence of facts. 
 
-So we reject every kind of fiction and imposture. We think it of no more consequence to our subject, whether future discoveries were known to the ancients, and set or rose according to the vicissitudes of events and[98] lapse of ages, than it would be of importance to mankind to know whether the new world be the island of Atlantis,[66] and known to the ancients, or be now discovered for the first time.
+So we reject every kind of fiction and imposture. 
+
+We think it of no more consequence to our subject, whether future discoveries were known to the ancients, and set or rose according to the vicissitudes of events and[98] lapse of ages, than it would be of importance to mankind to know whether the new world be the island of Atlantis,[66] and known to the ancients, or be now discovered for the first time.
 
 
 <!-- With regard to the  -->Our universal censure <!-- we have bestowed, it is quite clear, to any one who properly considers the matter, that it --> is both more probable and more modest than any partial one could have been. 
 
-For if the errors had not been rooted in the primary notions, some well conducted discoveries must have corrected others that were deficient. But since the errors were fundamental, and of such a nature, that men may be said rather to have neglected or passed over things, than to have formed a wrong or false judgment of them, it is little to be wondered at, that they did not obtain what they never aimed at, nor arrive at a goal which they had not determined, nor perform a course which they had neither entered upon nor adhered to.
+For if the errors had not been rooted in the primary notions, some well conducted discoveries must have corrected others that were deficient. 
+
+But since the errors were fundamental, and of such a nature, that men may be said rather to have neglected or passed over things, than to have formed a wrong or false judgment of them, it is little to be wondered at, that they did not obtain what they never aimed at, nor arrive at a goal which they had not determined, nor perform a course which they had neither entered upon nor adhered to.
 
 With regard to our presumption, we allow that if we were to assume a power of drawing a more perfect straight line or circle than any one else, by superior steadiness of hand or acuteness of eye, it would lead to a comparison of talent; but if one merely assert that he can draw a more perfect line or circle with a ruler or compasses, than another can by his unassisted hand or eye, he surely cannot be said to boast of much. 
 

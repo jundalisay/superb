@@ -1,21 +1,15 @@
 ---
 title: "Novum Organum"
 heading: Preface
-date: 2022-01-31
+date: 2022-02-01
 description: ""
 author: "Lord Bacon"
-image: "/covers/ideology.jpg"
-linkb: "/research/indian/idea/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/indian/idea/chapter-02"
-linkftext: "Chapter 2"
+image: "/covers/nova.jpg"
 icon: /favicon.png
 ---
 
 
 <!-- EDITED BY JOSEPH DEVEY, M.A. -->
-
-
 <!-- TRUE SUGGESTIONS FOR THE INTERPRETATION OF NATURE -->
 
 
@@ -45,24 +39,40 @@ Yet they <!-- themselves, by only employing the power of the understanding, --> 
   - a continual exercise and perpetual agitation of the mind.
 
 Our method is difficult, but easily explained. 
-- It consists in determining the degrees of certainty, while we, as it were, restore the senses to their former rank, but generally reject that operation of the mind which follows close upon the senses, and open and establish a new and certain course for the mind from the first actual perceptions of the senses themselves. 
+- It consists in determining the degrees of certainty, while we restore the senses to their former rank. 
+- We reject that operation of the mind which follows near the senses. 
+- We open and establish a new course for the mind from the first actual perceptions of the senses themselves. 
 
-This was the view of those who have assigned so much to logic
-- They showed clearly thereby that they sought some support for the mind, and suspected its natural and spontaneous mode of action. 
+This was the view of those who have assigned so much to logic.
+- They sought some support for the mind
+- They suspected its natural and spontaneous mode of action. 
 
-But this is now employed too late as a remedy, when all is clearly lost, and after the mind, by the daily habit and intercourse of life, has come prepossessed with corrupted doctrines, and filled with the vainest idols. The art of logic therefore being (as we have mentioned), too late a precaution,[1] and in no way remedying[7] the matter, has tended more to confirm errors, than to disclose truth. Our only remaining hope and salvation is to begin the whole labor of the mind again; not leaving it to itself, but directing it perpetually from the very first, and attaining our end as it were by mechanical aid. 
+The mind has come prepossessed with corrupted doctrines in daily life filled with the vainest idols.
+- Such a technique of logic can no longer be used, as it came too late. 
+<!-- But this is now employed too late as a remedy, when all is clearly lost, and after the mind, by the daily habit and intercourse of life, ha -->
 
-If men, for instance, had attempted mechanical labors with their hands alone, and without the power and aid of instruments, as they have not hesitated to carry on the labors of their understanding with the unaided efforts of their mind, they would have been able to move and overcome but little, though they had exerted their utmost and united powers.
+The art of logic therefore does not remedy [7] the matter. 
+- It has really just confirmed errors instead of  disclosing the truth.
 
-And just to pause awhile on this comparison, and look into it as a mirror; let us ask, if any obelisk of a remarkable size were perchance required to be moved, for the purpose of gracing a triumph or any similar pageant, and men were to attempt it with their bare hands, would not any sober spectator avow it to be an act of the greatest madness? And if they should increase the number of workmen, and imagine that they could thus succeed, would he not think so still more? But if they chose to make a selection, and to remove the weak, and only employ the strong and vigorous, thinking by this means, at any rate, to achieve their object, would he not say that they were more fondly deranged? 
+Our only remaining hope is to begin the whole labor of the mind again. 
+- We should not leave it to itself.
+- Instead, we direct it perpetually from the very first, and attain our end like by mechanical aid. 
 
-Nay, if not content with this, they were to determine on consulting the athletic art, and were to give orders for all to appear with their hands, arms, and muscles regularly oiled and prepared, would he not exclaim that they were taking pains to rave by method and design? 
+If men had attempted mechanical labors with their hands alone, without the aid of instruments, they would not be able to do much even if they used all their strength. 
+
+<!-- as they have not hesitated to carry on the labors of their understanding with the unaided efforts of their mind, they would have been able to move and overcome but little, though they had exerted their utmost and united powers. -->
+
+And just to pause awhile on this comparison, and look into it as a mirror; let us ask, if any obelisk of a remarkable size were perchance required to be moved, for the purpose of gracing a triumph or any similar pageant, and men were to attempt it with their bare hands, would not any sober spectator avow it to be an act of the greatest madness?
+
+If they should increase the number of workmen, and imagine that they could thus succeed, would he not think so still more? But if they chose to make a selection, and to remove the weak, and only employ the strong and vigorous, thinking by this means, at any rate, to achieve their object, would he not say that they were more fondly deranged? 
+
+If  they were to determine on consulting the athletic art, and were to give orders for all to appear with their hands, arms, and muscles regularly oiled and prepared, would he not exclaim that they were taking pains to rave by method and design? 
 
 Yet men are hurried on with the same senseless energy and useless combination in intellectual matters, as long as they expect great results either from the number and agreement, or the excellence and acuteness of their wits; or even[8] strengthen their minds with logic, which may be considered as an athletic preparation, but yet do not desist (if we rightly consider the matter) from applying their own understandings merely with all this zeal and effort. While nothing is more clear, than that in every great work executed by the hand of man without machines or implements, it is impossible for the strength of individuals to be increased, or for that of the multitude to combine.
 
 Having premised so much, we lay down two points on which we would admonish mankind, lest they should fail to see or to observe them. The first of these is, that it is our good fortune (as we consider it), for the sake of extinguishing and removing contradiction and irritation of mind, to leave the honor and reverence due to the ancients untouched and undiminished, so that we can perform our intended work, and yet enjoy the benefit of our respectful moderation. 
 
-For if we should profess to offer something better than the ancients, and yet should pursue the same course as they have done, we could never, by any artifice, contrive to avoid the imputation of having engaged in a contest or rivalry as to our respective wits, excellences, or talents; which, though neither inadmissible nor new (for why should we not blame and point out anything that is imperfectly discovered or laid down by them, of our own right, a right common to all?), yet however just and allowable, would perhaps be scarcely an equal match, on account of the disproportion of our strength. 
+If we should profess to offer something better than the ancients, and yet should pursue the same course as they have done, we could never, by any artifice, contrive to avoid the imputation of having engaged in a contest or rivalry as to our respective wits, excellences, or talents; which, though neither inadmissible nor new (for why should we not blame and point out anything that is imperfectly discovered or laid down by them, of our own right, a right common to all?), yet however just and allowable, would perhaps be scarcely an equal match, on account of the disproportion of our strength. 
 
 But since our present plan leads up to open an entirely different course to the understanding, and one unattempted and unknown to them, the case is altered. There is an end to party zeal, and we only take upon ourselves the character of a guide, which requires a moderate share of authority and good fortune,[9] rather than talents and excellence. The first admonition relates to persons, the next to things.
 

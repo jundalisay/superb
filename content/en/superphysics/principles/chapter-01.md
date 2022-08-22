@@ -43,6 +43,18 @@ This means that the mug exists in two domains of reality:
   - Unlike the physical mug which we can see and touch, this aethereal mug-idea can only be perceived by our thoughts.
 
 
+{{< q a="Bacon" >}}
+Let the investigation of forms, which are eternal and immutable, constitute metaphysics. 
+
+Let the investigation of the efficient cause of matter, constitute physics. 
+<cite>Francis Bacon, Nova Organum, Book 2</cite>
+{{< /q >}}
+
+
+<!-- Parallel to these, let there be 2 practical divisions; to physics that of mechanics, and to metaphysics that of magic, in the purest sense of the term, as applied to its ample means, and its command over nature. -->
+
+
+
 ### The Physical Domain
 
 This domain exists only because of our physical senses, most commonly by our sight and touch which are really 'electromagnetic' types of perception. 
@@ -83,10 +95,10 @@ The solution might finally reflect after we ask our customers directly, or read 
 
 
 
-{{< quote ava="aris" >}}
+{{< q a="aris" >}}
 ALL men by nature desire to know. An indication of this is the delight we take in our senses which are useful and loved for themselves. The most important is the sense of sight. We prefer seeing over the other senses.  
 <cite>The Metaphysics by Aristotle Simplifed, Book 1, Chapter 1</cite>
-{{< /quote >}}
+{{< /q >}}
 
 
 The metaphysical domain exists inside our abstract minds and is infinitely larger and richer than physical domain of our senses. 

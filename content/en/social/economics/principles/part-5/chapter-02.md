@@ -3,13 +3,10 @@ heading: "Chapter 2"
 title: "The Future of Economic Superphysics"
 # heading: "How Pantrynomics Can Make a Readily-deployable system for Mars"
 # date: 2019-10-17
-date: 2015-04-12
+# date: 2015-04-12
+date: 2022-01-28
 image: /photos/physics/mars.jpg
 description: "Pantrynomics can be used to create economic systems for Mars and other planets"
-linkb: /social/economics
-linkbtext: "Pantrynomics Articles"
-linkf: /social/economics/solutions/gold-standard
-linkftext: "how-to-restore-the-gold-standard"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

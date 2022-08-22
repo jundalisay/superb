@@ -1,13 +1,10 @@
 ---
 heading: "Chapter 8"
 title: "The Economic Ratios"
-date: 2022-03-27
+# date: 2022-03-27
+date: 2022-12-26
 image: /covers/econsp.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-linkb: /social/economics/principles/part-4
-linkbtext: "Part 4"
-linkf: /social/economics/principles/part-4
-linkftext: "Part 4"
 author: Dalisay
 ---``
 

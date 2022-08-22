@@ -1,17 +1,17 @@
 ---
+heading: "Chapter 1b"
 title: "The 4 Main Schools of Post-Smith Economics"
-heading: "The Good, Bad, the Ugly"
-date: 2015-01-01
+# heading: "The Good, Bad, the Ugly"
+# date: 2015-01-01
+date: 2022-01-30
 image: /avatars/smithstatue.jpg
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
-linkb: /articles/pantrynomics/
-linkbtext: "Pantrynomics Articles"
-linkf: /articles/pantrynomics/barter-disadvantages-addressed
-linkftext: "Barter disadvantages addressed"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
 ---
+
+
 
 The science of resource allocation began with Xenophon's The Economist which narrates how Socrates was taught about proper estate management.  
 

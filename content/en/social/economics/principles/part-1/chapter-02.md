@@ -4,12 +4,7 @@ title: "Consumable Goods"
 date: 2022-03-29
 image: /covers/econsp.jpg
 description: ""
-linkb: /social/economics/principles/part-1/chapter-01b
-linkbtext: "Chapter 1b"
-linkf: /social/economics/principles/part-1/chapter-02b
-linkftext: "Chapter 2b"
 author: Dalisay
-draft: true
 ---
 
 
@@ -21,7 +16,7 @@ All imports and exports are classified under a system.
 
 The HS Code is administered by the World Customs Organization (WCO) and is updated every 5 years. 
 
- Harmonized System (HS) Codes, also known as the Harmonized Commodity Description and Coding System, or simply the Harmonized System, are a standardized international system to classify globally traded products. They are commonly used throughout the export process for goods.
+Harmonized System (HS) Codes, also known as the Harmonized Commodity Description and Coding System, or simply the Harmonized System, are a standardized international system to classify globally traded products. They are commonly used throughout the export process for goods.
 
 The Harmonized System is a standardized numerical method of classifying traded products. It is used by customs authorities around the world to identify products when assessing duties and taxes and for gathering statistics.
 

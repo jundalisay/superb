@@ -109,5 +109,6 @@ Class | Method | Examples
 4 Merchant | Mercantilism, Profit Maximization Doctrine
 
 
-As the most pressing and obvious disruption was caused by Neoclassical Economics, we shall explain it in the next section. 
+As the most pressing and obvious disruption was caused by Neoclassical Economics, we shall explain it in Part 4. 
+
 

@@ -1,15 +1,17 @@
-+++
-title=  "The Effects of Monopoly -- Spain and Portugal"
-heading=  "Chapter 7h of Book 4 "
-description=  "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-7g"
-linkbtext=  "Chapter 7g"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-7i"
-linkftext=  "Chapter 7i"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 7h"
+title: "The Effects of Monopoly -- Spain and Portugal"
+linkTitle: "Chapter 7h"
+date: 2020-03-23
+image: "/covers/wn.jpg"
+description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
+linkb: "/research/smith/wealth-of-nations/book-2/"
+linkbtext: "Book 2"
+linkf: "/research/smith/wealth-of-nations/book-2/chapter-1b-fixed"
+linkftext: "chapter 1b"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="127" >}} The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade. It forced it from supporting British industry towards supporting the industry of the colonies and other countries.

@@ -1,17 +1,14 @@
 ---
 title: "The Idols of the Tribe"
-heading: Chapter 2b Book 1 of Nova Organum
-date: 2022-01-31
+heading: Chapter 2b
+date: 2022-01-29
+image: "/covers/nova.jpg"
 description: ""
-linkb: "/research/bacon/nova/book-2/"
-linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
-linkftext: "Chapter 2"
 icon: /favicon.png
 ---
 
 
-## The Idols of the Tribe
+<!-- ## The Idols of the Tribe -->
 
 {{< s v="45" >}} The nature of human understanding easily supposes a greater degree of order and equality in things than it really finds. 
 

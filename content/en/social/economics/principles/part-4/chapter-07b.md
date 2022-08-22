@@ -1,13 +1,10 @@
 ---
+heading: "Chapter 7b"
 title: "Two DCTI Scenarios"
-date: 2021-06-28
+# date: 2021-06-28
+date: 2021-12-31
 image: "/photos/medieval/cave.jpg"
 description : "Here are two Scenarios viewed according to the DCTI model"
-linkb: /social/economics/principles/tao-life-purpose
-linkbtext: "the-tao-as-life-purpose"
-linkf: /social/economics/timeline
-linkftext: "the timeline-of-economic-thought"
-heading: "Hunter and Society"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

@@ -1,5 +1,6 @@
 ---
 heading: "Part 2"
+linkTitle: "Second Law"
 title: The Second Law of Value
 description: Textbook of Economic Superphysics
 image: /graphics/econ/law2.jpg

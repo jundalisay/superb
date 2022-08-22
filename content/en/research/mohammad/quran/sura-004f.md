@@ -28,7 +28,7 @@ Allah takes care of both rich or poor.
 
 {{< s v="139" >}} Those who ally themselves with the disbelievers instead of the believers. Do they seek glory in them? 
 
-140. When you hear Allah’s revelations being rejected, or ridiculed, do not sit with them until they engage in some other subject. 
+{{< s v="140" >}} When you hear Allah’s revelations being rejected, or ridiculed, do not sit with them until they engage in some other subject. 
 - Otherwise, you would be like them. <!-- Allah will gather the hypocrites and the disbelievers, into Hell, altogether. -->
 
 141. Those who lie in wait for you: if you attain victory from Allah, they say, “Were we not with you?” But if the disbelievers get a turn,
@@ -63,12 +63,14 @@ But if you refuse—to Allah belongs everything in the heavens and everything on
 Allah is in no need, Praiseworthy. 
 
 
-152. As for those who believe in Allah and His messengers, and make no distinction be-
-tween any of them—He will give them their rewards. Allah is Forgiver and Merciful.
-153. The People of the Scripture challenge you to bring down to them a book from the sky.
-They had asked Moses for something even greater. They said, “Show us Allah plainly.”
-The thunderbolt struck them for their wickedness. Then they took the calf for worship,
-even after the clear proofs had come to them.
+<!-- 152. As for those who believe in Allah and His messengers, and make no distinction be-
+tween any of them—He will give them their rewards. Allah is Forgiver and Merciful. -->
+
+153. The Jews challenge you to bring down to them a book from the sky.
+
+They had asked Moses for something even greater by asking to show them Allah plainly.
+
+The thunderbolt struck them for their wickedness. Then they took the calf for worship, even after the clear proofs had come to them.
 
 Yet We pardoned that, and We gave Moses a clear authority.
 
@@ -80,27 +82,25 @@ We received from them a solemn pledge.
 
 155. But for their violation of their covenant, and their denial of Allah’s revelations, and
 their killing of the prophets unjustly, and
-their saying, “Our minds are closed.” In fact,
+their saying, “Our minds are closed.” 
+
+<!-- In fact,
 Allah has sealed them for their disbelief, so
-they do not believe, except for a few.
-156. And for their faithlessness, and their say-
-ing against Mary a monstrous slander.
+they do not believe, except for a few. -->
 
+156. For their faithlessness, and their saying against Mary a monstrous slander.
 
-157. They say: “We have killed the Jesus, the son of Mary, the Messenger of Allah.” 
+{{< s v="157" >}} The Jews say that they killed the Jesus. 
+- In fact, they did not crucify nor kill him.
+-  It just appeared to them as if they did.
+- Those who differ about him are in doubt about it.
+- They have no knowledge of it, except the following of assumptions. 
+- Certainly, they did not kill him.
+- {{< s v="158" >}} Rather, Allah raised him up to Himself.
 
-In fact, they did not kill him, nor did they crucify him, but it appeared to them as if they did.
+{{< s v="159" >}} None of the Jews believe in Jesus before his death. On the Day of Resurrection he will be a witness against them.
 
-Those who differ about him are in doubt about it. They have no knowledge of it, except the following of assumptions. 
-
-Certainly, they did not kill him.
-
-158. Rather, Allah raised him up to Himself.
-
-159. There is none from the People of the Scripture but will believe in him before his death, and on the Day of Resurrection he will
-be a witness against them.
-
-160. We forbade the Jews good things that used to be lawful for them, because of:
+{{< s v="160" >}} We forbade the Jews good things that used to be lawful for them, because of:
 - their wrongdoings
 - deterring many from Allah’s path
 - their taking usury, although they were forbidden it
@@ -112,25 +112,36 @@ We have prepared for the faithless among them a painful torment.
 
 163. We have inspired you, as We had inspired Noah and the prophets after him.
 
-We inspired Abraham, and Ishmael, and Isaac, and Jacob, and the Patriarchs, and Jesus, and Job, and Jonah, and Aaron, and Solomon. And We gave David the Psalms.
+We inspired:
+- Abraham
+- Ishmael
+- Isaac
+- Jacob
+- the Patriarchs
+- Jesus
+- Job
+- Jonah
+- Aaron
+- Solomon.
 
-164. Some messengers We have already told you about, while some messengers We have not told you about. And Allah spoke to Moses directly.
+We gave David the Psalms.
+
+<!-- 164. Some messengers We have already told you about, while some messengers We have not told you about. And Allah spoke to Moses directly.
 
 165. Messengers delivering good news, and bringing warnings; so that people may have
 no excuse before Allah after the coming of the messengers.
 
 166. But Allah bears witness to what He revealed to you. He revealed it with His
-knowledge. And the angels bear witness. Though Allah is a sufficient witness.
+knowledge. And the angels bear witness. Though Allah is a sufficient witness. -->
 <!-- 167. Those who disbelieve and repel from Allah’s path have gone far astray. -->
 
-168. Those who disbelieve and transgress; Allah is not about to forgive them, nor will He
+<!-- 168. Those who disbelieve and transgress; Allah is not about to forgive them, nor will He
 guide them to any path.
 
 169. Except to the path of Hell, where they will dwell forever. And that is easy for Allah.
-170. O people! The Messenger has come to you with the truth from your Lord, so believe—
-that is best for you. But if you disbelieve, to
-Allah belongs everything in the heavens and
-the earth. Allah is Omniscient and Wise.
+
+170. O people! The Messenger has come to you with the truth from your Lord, so believe— that is best for you. But if you disbelieve, to
+Allah belongs everything in the heavens and the earth. Allah is Omniscient and Wise. -->
 
 171. O People of the Scripture! Do not:
 - exaggerate in your religion

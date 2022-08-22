@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 7b"
 title: "How Profit Maximization Disrupted The Natural Balance of Economies"
-# date: 2022-03-27
-date: 2022-03-03
+date: 2022-12-30
+# date: 2022-03-06
 image: /photos/buy.jpg
 description: ""
-linkb: /social/economics/principles/part-1/chapter-07
-linkbtext: "Chapter 7"
-linkf: /social/economics/principles/part-1/chapter-08
-linkftext: "chapter 8"
 author: Dalisay
 ---
 
@@ -17,7 +13,7 @@ author: Dalisay
 
 The industrial revolution in Europe in the 19th century allowed mass production which then allowed huge profits for those who invested in them. 
 
-This prevalence of profits then led to concept of profit maximization taught in universities under the Marginal Revolution of the 1870's.  Previously, the teachings of Classical Economics, then called the Political Economy, warned against the doctrine of profit maximization which was closely associated with Mercantilism.   
+This prevalence of profits then led to concept of profit maximization taught in universities under the Marginal Revolution of the 1870's.  Previously, the teachings of Classical Economics, then called the Political Economy, warned against the doctrine of profit maximization which was closely associated with Mercantilism.
 
 The Marginal Revolution, however, enshrined proit maximization. This caused the Political Economy to mutate into Neoclassical Economics, with the former being called Classical. 
 

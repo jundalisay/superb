@@ -2,7 +2,8 @@
 heading: "Chapter 1b"
 title: "Economic Karma"
 description : "Economic Karma is the cause and effect of economic actions"
-date: 2016-01-01
+date: 2022-01-30
+# date: 2016-01-01
 image: /covers/econsp.jpg
 description: "Instead of the word dharma, however, he named his concept the invisible hand. This had economic applications in The Wealth of Nations and moral applications in The Theory of Moral Sentiments"
 linkb: /social/economics/principles/part-4/chapter-01
