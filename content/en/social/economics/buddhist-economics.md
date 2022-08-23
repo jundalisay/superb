@@ -4,10 +4,6 @@ heading: "Simplified Version"
 date: 2022-08-07
 image: "/photos/meta/buddhism.jpg"
 description : "Buddhist Economics focuses on optimal consumption, Economics focuses on optimal production"
-linkb: /social/economics/principles
-linkbtext: "Index"
-linkf: /social/economics/principles/four-laws-of-value
-linkftext: "four-laws-of-value"
 author: EF Schumacher
 icon: /avatars/ef.png
 ---

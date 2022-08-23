@@ -6,40 +6,44 @@ date: 2021-09-02
 ---
 
 
-SEC. 5. Organization. – The electric power industry shall be divided into four (4) sectors, namely:
-generation, transmission, distribution and supply.SEC. 6. Generation Sector. – Generation of electric power, a business affected with public
-interest, shall be competitive and open.
-Upon the effectivity of this Act, any new generation company shall, before it operates, secure from
-the Energy Regulatory Commission (ERC) a certificate of compliance pursuant to the standards set forth in
-this Act, as well as health, safety and environmental clearances from the appropriate government agencies
-under existing laws.
+SEC. 5. Organization. – The electric power industry shall be divided into 4 sectors:
 
-Any law to the contrary notwithstanding, power generation shall not be considered a public utility
-operation. For this purpose, any person or entity engaged or which shall engage in power generation and
-supply of electricity shall not be required to secure a national franchise.
-Upon implementation of retail competition and open access, the prices charged by a generation
-company for the supply of electricity shall not be subject to regulation by the ERC except as otherwise
-provided in this Act.
+- generation
+- transmission
+- distribution
+- supply
+
+
+SEC. 6. Generation Sector
+
+Generation of electric power, a business affected with public interest, shall be competitive and open.
+
+Any new generation company must secure:
+- from the ERC a certificate of compliance. 
+- health, safety and environmental clearances from the appropriate government agencies under existing laws.
+
+Any law to the contrary notwithstanding, power generation shall not be considered a public utility operation. 
+
+For this purpose, any person or entity engaged or which shall engage in power generation and supply of electricity shall not be required to secure a national franchise.
+
+Upon implementation of retail competition and open access, the prices charged by a generation company for the supply of electricity shall not be subject to regulation by the ERC except as otherwise provided in this Act.
 
 Pursuant to the objective of lowering electricity rates to end-users, sales of generated power by
 generation companies shall be value added tax zero-rated.
-The ERC shall, in determining the existence of market power abuse or anti-competitive behavior,
-require from generation companies the submission of their financial statements.
 
-SEC. 7 Transmission Sector.- The transmission of electric power shall be regulated common
-electricity carries business, subject to the ratemaking powers of the ERC.
-The ERC shall set the standards of the voltage transmission that shall distinguish the transmission
-from the subtransmission assets. Pending the issuance of such new standards, the distinction between the
-transmission and subtransmission assets shall be as follows: 230 kilovolts and above in the Luzon grid, 69
-kilovolts and above in the Visayas and in the isolated distribution systems, and 138 kilovolts and above in
-the Mindanao Grid: Provided, That for the Visayas and the isolated distribution system, should the 69
-kilovolt line not form part of the main transmission grid and be directly connected to the substation of the
-distribution utility, it shall form part of the subtransmission system.
+The ERC shall, in determining the existence of market power abuse or anti-competitive behavior, require from generation companies the submission of their financial statements.
 
-SEC. 8. Creation of the National Transmission Company.- There is hereby created a National
-Transmission Corporation, hereinafter referred to as TRANSCO, which shall assume the electrical
-transmission function of the National Power Corporation (NPC), and have the powers and functions
-hereinafter granted. The TRANSCO shall assume the authority and responsibility of NPC for the planning,
+
+SEC. 7 Transmission Sector.- The transmission of electric power shall be regulated common electricity carries business, subject to the ratemaking powers of the ERC.
+
+The ERC shall set the standards of the voltage transmission that shall distinguish the transmission from the subtransmission assets. Pending the issuance of such new standards, the distinction between the transmission and subtransmission assets shall be as follows: 230 kilovolts and above in the Luzon grid, 69 kilovolts and above in the Visayas and in the isolated distribution systems, and 138 kilovolts and above in the Mindanao Grid: Provided, That for the Visayas and the isolated distribution system, should the 69 kilovolt line not form part of the main transmission grid and be directly connected to the substation of the distribution utility, it shall form part of the subtransmission system.
+
+
+SEC. 8. Creation of the National Transmission Company
+
+TRANSCO is created to assume the electrical transmission function of the National Power Corporation (NPC). 
+
+It shall assume the authority and responsibility of NPC for the planning,
 construction and centralized operation and maintenance of its high voltage transmission facilities, including
 grid interconnections and ancillary services.
 Within six (6) months from the effectivity of this Act, the transmission and subtransmission

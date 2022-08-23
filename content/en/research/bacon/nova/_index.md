@@ -1,6 +1,6 @@
 ---
 title: "Novum Organum"
-subtitle: "Coming Soon!"
+# subtitle: "Coming Soon!"
 description: ""
 image: "/covers/nova.jpg"
 ---
