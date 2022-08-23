@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 2d"
-title: "Involuntary Employment"
+title: "Mill's Assumptions"
 description: "The struggle over money-wages is often believed to determine the general level of real wages"
 image: "/covers/general.jpg"
 date: 2020-01-29

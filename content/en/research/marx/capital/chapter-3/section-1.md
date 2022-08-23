@@ -45,7 +45,7 @@ If, therefore, two different commodities, such as gold and silver, are simultane
 
 <!-- Commodities with definite prices present themselves under the form=  a commodity A = x gold; b commodity B = z gold; c commodity C = y gold, &c., where a, b, c, represent definite quantities of the commodities A, B, C and x, z, y, definite quantities of gold. The values of these commodities are, therefore, changed in imagination into so many different quantities of gold. Hence, in spite of the confusing variety of the commodities themselves, their values become magnitudes of the same denomination, gold-magnitudes. They are now capable of being compared with each other and measured, and the want becomes technically felt of comparing them with some fixed quantity of gold as a unit measure. This unit, by subsequent division into aliquot parts, becomes itself the standard or scale. Before they become money, gold, silver, and copper already possess such standard measures in their standards of weight, so that, for example, a pound weight, while serving as the unit, is, on the one hand, divisible into ounces, and, on the other, may be combined to make up hundredweights. [5] It is owing to this that, in all metallic currencies, the names given to the standards of money or of price were originally taken from the pre-existing names of the standards of weight. -->
 
-As measure of Value money has two distinct functions= 
+As measure of Value money has two distinct functions:
 
 1. It is the socially recognised incarnation of human labour as the standard of price
 

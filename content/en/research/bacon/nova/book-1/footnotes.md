@@ -8,7 +8,7 @@ linkb: "/research/bacon/nova/book-2/"
 linkbtext: "Index"
 linkf: "/research/bacon/nova/book-2/"
 linkftext: "Chapter 2"
-icon: /favicon.png
+icon: /icons/bacon.png
 ---
 
 

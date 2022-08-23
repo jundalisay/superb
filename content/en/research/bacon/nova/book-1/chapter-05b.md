@@ -4,7 +4,7 @@ heading: Chapter 5b
 date: 2022-01-03
 description: ""
 image: "/covers/nova.jpg"
-icon: /favicon.png
+icon: /icons/bacon.png
 ---
 
 

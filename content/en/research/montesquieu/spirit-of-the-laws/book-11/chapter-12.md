@@ -1,15 +1,14 @@
-+++
-title= "The Government of the Kings of Rome"
-heading= "Chapter 12"
-date= 2015-09-27
-image= "/covers/spirit.jpg"
-description= "How the three Powers were there distributed in Rome"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-11/chapter-7"
-linkbtext= "Chapter 7"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-11/chapter-14"
-linkftext= "Chapter 14"
-icon = "/icons/mont.png"
-+++
+---
+title: "The Government of the Kings of Rome"
+heading: "Chapter 12"
+date: 2015-09-27
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "How the three Powers were there distributed in Rome"
+icon: "/icons/mont.png"
+---
+
+
 
 THE government of the kings of Rome had some relation to that of the heroic Greek kings. It was generally good, but had a defect 
 

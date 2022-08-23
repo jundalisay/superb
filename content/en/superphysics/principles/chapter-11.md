@@ -6,10 +6,6 @@ title: "What is Socratic Dialectics?"
 date: 2020-11-10
 image: "/covers/socrates.jpg"
 description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
-linkb: "/superphysics/principles/chapter-10"
-linkbtext: "Superphysics"
-linkf: "/superphysics/principles"
-linkftext: "Principles"
 author: Juan
 icon: /icons/sp.png
 aliases:
@@ -257,3 +253,35 @@ We use the Socratic dialectical approach and the scientific approach to solve Co
 
 Notice how the Socratic dialectical approach is more laborious and lengthy than the scientific approach. This is evident in Socratic dialogues which are made very long by the dialectician expounding on every minor topic in order to reveal its true nature, which will in turn reveal the true nature of the bigger picture.
 
+
+This laborious method produces a huge dataset that is similar to the "table of existence and presence" described by Francis Bacon:
+
+{{< q a="Bacon" >}}
+The investigation of forms proceeds thus from a given nature, we first present to the understanding all the known instances which agree in the same nature, even if the subject matter is considerably diversified. This collection must be made as a mere history, without any premature reflection.
+<br><br>
+For instance, take the investigation of the form of heat. Instances agreeing in the Form of Heat:
+<br>
+1. The rays of the sun, particularly in summer, and at noon.
+<br>
+2. The same reflected and condensed, as between mountains, or along walls, and particularly in burning mirrors.
+<br>
+3. Ignited meteors.
+<br>
+4. Burning lightning.
+<br>
+5. Eruptions of flames from the cavities of mountains, etc.
+<br>
+6. Flame of every kind.
+<br>
+...
+<br>
+28. Other instances.
+<br>
+This is a **table of existence and presence**.
+{{< /q >}}
+
+From this table we can apply machine learning algorithms in order to extract new ideas which will then lead into a new table. That new table will then lead to new ideas which will form a new table and so on. 
+
+This collection of tables, when constantly compared with new perceptions, will lead to a dynamic thinking process which we call **Artificial Sentience**. This is different from Aritifical Intelligence which is limited to a closed set of data. 
+
+To explain artificial sentience, we must explain artificial intelligence first. This will be done in the next chapter.

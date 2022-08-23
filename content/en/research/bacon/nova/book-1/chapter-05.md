@@ -4,7 +4,7 @@ heading: Chapter 5
 date: 2022-01-05
 description: ""
 image: "/covers/nova.jpg"
-icon: /favicon.png
+icon: /icons/bacon.png
 ---
 
 {{< s v="122" >}} People might object that we <!-- are being singular and harsh for trying to --> banishing all authorities and sciences with one stroke <!-- and assault by our own efforts --> without the help of the ancients.

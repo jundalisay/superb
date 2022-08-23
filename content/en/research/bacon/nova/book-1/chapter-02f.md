@@ -4,7 +4,7 @@ heading: Chapter 2f
 date: 2022-01-20
 image: "/covers/nova.jpg"
 description: ""
-icon: /favicon.png
+icon: /icons/bacon.png
 ---
 
 

@@ -6,10 +6,6 @@ title: "What is Superphysics?"
 date: 2020-11-20
 image: /covers/spblack.jpg
 description: "Superphysics unifies Physics and Metaphysics to solve the problems unsolved by science"
-linkb: /superphysics/principles/chapter-09
-linkbtext: "Consciousness"
-linkf: /superphysics/principles/chapter-11
-linkftext: "Socratic dialectics"
 author: Juan
 icon: /icons/sp.png
 aliases:

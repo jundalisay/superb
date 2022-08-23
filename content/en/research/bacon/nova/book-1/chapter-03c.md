@@ -4,7 +4,7 @@ heading: Chapter 3c
 date: 2022-01-13
 description: ""
 image: "/covers/nova.jpg"
-icon: /favicon.png
+icon: /icons/bacon.png
 ---
 
 

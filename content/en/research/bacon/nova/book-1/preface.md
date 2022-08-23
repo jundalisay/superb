@@ -5,7 +5,7 @@ date: 2022-02-01
 description: ""
 author: "Lord Bacon"
 image: "/covers/nova.jpg"
-icon: /favicon.png
+icon: /icons/bacon.png
 ---
 
 

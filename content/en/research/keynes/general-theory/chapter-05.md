@@ -4,12 +4,9 @@ heading: "Chapter 5"
 description: "Keynes explains Expectation as Determining Output and Employment"
 image: "/covers/general.jpg"
 date: 2020-01-23
-linkb: "/research/keynes/general-theory/chapter-04"
-linkbtext: "Chapter 4"
-linkf: "/research/keynes/general-theory/chapter-06"
-linkftext: "chapter 6"
 icon: "/icons/keynes.png"
 ---
+
 
 
 The goal of aLL production is to satisfy a consumer.

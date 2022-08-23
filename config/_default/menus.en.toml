@@ -79,7 +79,7 @@
     parent = "enl"
     weight = 119
     name = "Bacon"
-    url = "/research/bacon/nova/book-1"
+    url = "/research/bacon/nova/"
     pre = "<img src='/icons/bacon.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]

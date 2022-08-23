@@ -1,15 +1,12 @@
-+++
-title= "Ideal [Nominal] Money"
-heading= "Chapter 3"
-description= "Civilized nations generally only use ideal money, because they have converted their real money into ideal"
-image= "/covers/spirit.jpg"
-# image= "https://sorasystem.sirv.com/photos/medieval/sest.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+title: "Ideal [Nominal] Money"
+heading: "Chapter 3"
+description: "Civilized nations generally only use ideal money, because they have converted their real money into ideal"
+image: "/covers/spirit.jpg"
+date: "2020-03-10"
+---
+
+
 
 THERE is both real and ideal money.
 
@@ -41,7 +38,7 @@ Nothing should so exempt from variation, as that which is the common measure of 
 Trade is in its own nature extremely uncertain.
 It is a great evil to add a new uncertainty to that which is founded on the nature of the thing.
 
-<br>
+
 
 ## Chapter 4-5
 

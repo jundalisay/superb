@@ -4,10 +4,6 @@ heading: "Chapter 2"
 description: "Here, we expose the sophistry of Keynes who enshrined money-wages over real wages in order to create socialism for the financial system"
 image: "/covers/general.jpg"
 date: 2020-01-31
-linkb: "/research/keynes/general-theory/"
-linkbtext: "Index"
-linkf: "/research/keynes/general-theory/chapter-02b"
-linkftext: "chapter-2b"
 icon: "/icons/keynes.png"
 ---
 

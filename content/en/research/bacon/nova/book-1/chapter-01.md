@@ -8,7 +8,7 @@ linkb: "/research/bacon/nova/book-1/"
 linkbtext: "Index"
 linkf: "/research/bacon/nova/book-1/chapter-02"
 linkftext: "Chapter 2"
-icon: /favicon.png
+icon: /icons/bacon.png
 ---
 
 {{< s v="1" >}} Man is the minister and interpreter of nature. 

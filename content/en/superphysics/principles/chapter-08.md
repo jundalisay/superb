@@ -6,10 +6,6 @@ date: 2020-12-03
 # 2020-01-04
 image: /photos/psych/freedom.jpg
 description: ""
-linkb: /superphysics/principles/chapter-07c
-linkbtext: "Chapter 7"
-linkf: /superphysics/principles/chapter-09
-linkftext: "Chapter 9"
 author: Juan
 icon: /icons/sp.png
 ---

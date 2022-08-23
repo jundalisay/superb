@@ -1,10 +1,10 @@
 ---
 title: "Constitutive or Collective Instances"
 heading: Chapter 5
-date: 2022-01-31
+date: 2022-01-12
 description: ""
 image: "/covers/nova.jpg"
-icon: /favicon.png
+icon: /icons/bacon.png
 ---
 
 
@@ -29,8 +29,6 @@ Again, for example’s sake, let the required nature be taste or the power of ta
 
 Again, as another example, let the required nature be the communication of quality, without intermixture of substance. The instance of light will afford or constitute one species of communication, heat and the magnet another. For the communication of light is momentary and immediately arrested upon the removal of the original light. But heat, and the magnetic force, when once transmitted to or excited in another body, remain fixed for a considerable time after the removal of the source.
 
-In fine, the prerogative of constitutive instances is considerable, for they materially assist the definitions (especially in detail) and the divisions or partitions of natures, concerning which Plato has well said, “He who can properly define and divide is to be considered a god.”[117]
-
-[173]
+The prerogative of constitutive instances is considerable, for they materially assist the definitions (especially in detail) and the divisions or partitions of natures, concerning which Plato has well said, “He who can properly define and divide is to be considered a god.”[117]
 
 

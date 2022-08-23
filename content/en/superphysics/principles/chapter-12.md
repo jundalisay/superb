@@ -1,16 +1,15 @@
 ---
-title: "AI is Autonomous Intelligence, Not Artificial"
-date: 2020-05-26
+title: "Artificial Intelligence as Autonomous Intelligence"
+# I is Autonomous Intelligence, Not Artificial
+# date: 2020-05-26
+date: 2020-11-05
 image: /photos/tech/ai.jpg
 description: "AI is autonomous and not artificial because it is derived from natural intelligence"
-linkb: /superphysics/solutions/ideology-matrix
-linkbtext: "ideology-matrix"
-linkf: "/superphysics/solutions/isaiah"
-linkftext: "ISAIAH"
 author: Juan
 icon: /icons/sp.png
 aliases:
   /articles/superphysics/ai-is-autonomous/
+  /superphysics/ai-is-autonomous/  
 ---
 
 

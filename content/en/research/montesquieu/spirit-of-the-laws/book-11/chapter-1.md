@@ -1,21 +1,19 @@
-+++
-title= "Liberty"
-heading= "Chapter 1-5"
-date= 2015-09-30
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-description= "The laws that establish political liberty, as it relates to the constitution, and those by which it is established, as it relates to the citizen."
-linkb= "/research/montesquieu/spirit-of-the-laws/book-10/chapter-15"
-linkbtext= "Book 10"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-11/chapter-6"
-linkftext= "Chapter 6"
-icon = "/icons/mont.png"
-+++
+---
+title: "Liberty"
+heading: "Chapter 1-5"
+date: 2015-09-30
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+description: "The laws that establish political liberty, as it relates to the constitution, and those by which it is established, as it relates to the citizen."
+icon: "/icons/mont.png"
+---
+
 
 
 The laws that establish political liberty, as it relates to the constitution, and those by which it is established, as it relates to the citizen. The former shall be the subject of this book; the latter I shall examine in the next.
 
-## Chapter 2= Different Meanings of Liberty
+
+## Chapter 2: Different Meanings of Liberty
 
 Liberty is the word that has the most meanings and has made the most impressions on the human mind. Some have taken it as:
 - a facility of deposing a person on whom they had conferred a tyrannical authority= 
@@ -30,9 +28,9 @@ Those who liked a monarchical state gave it to monarchy. Thus they have all appl
 
 In fine, as in democr acies the people seem to act almost as they please, this sort of government has been deemed the most free, and the power of the people has been confou nded with their liberty.
 
-<br>
 
-## Chapter 3= In what Liberty consists
+
+## Chapter 3: In what Liberty consists
 
 In democracies, the people seem to act as they please. But political liberty does not consist in an unlimited freedom. 
 
