@@ -224,7 +224,7 @@ The result is that their theories are not universal and will fall apart once new
 
 Einstein's general relativity only holds because the simultaniety of time is rooted in the perception action. This action is based on the generation of the idea (or feeling) to start perceiving. 
 
-The speed of the generation or perception of ideas (or feelings) holds a ratio to the speed of the generation or perception of gravitational signatures or the speed of creating discrete things within the universe (since [everything is an idea](/superphysics/principles/idea/). **The speed limit of the universe, whether it be on photons or gravitational waves, is totally dependent on the speed of this generation or perception.** This perception is dictated by the aether, which is the material of the mind and the medium of spacetime. 
+The speed of the generation or perception of ideas (or feelings) holds a ratio to the speed of the generation or perception of gravitational signatures or the speed of creating discrete things within the universe (since [everything is an idea](/superphysics/principles/intro/chapter-02/). **The speed limit of the universe, whether it be on photons or gravitational waves, is totally dependent on the speed of this generation or perception.** This perception is dictated by the aether, which is the material of the mind and the medium of spacetime. 
 
 From here we can assert, in line with Socrates, that the speed of light is not constant. Rather it is slowly increasing, proportional to the accelerated expansion of spacetime, the more the universe interacts with itself and creates discrete new entities as a result of the interactions. 
 
@@ -271,7 +271,7 @@ This is why we can make a conjecture that Einstein actually stifled science by l
 Instead of using expensive detectors, we use Socrates to solve the problems with General Relativity:
 - The expansion of space is caused by gravitational signatures of galaxies repelling each other, not by [dark energy](https://www.futurity.org/dark-energy-dark-matter-universe-expansion-2543202-2/)
 - Gravitational lensing is caused by the gravitational signature of the intervening galaxy
-- Galaxies are held together by the gravitational signature in their center as [supermassive galactic qosts](/material/principles/qost), not by dark matter. This implies that there is more than one kind of gravity*, each with two subtypes, a superior and a junior. 
+- Galaxies are held together by the gravitational signature in their center as [supermassive galactic qosts](/material/principles/part-02/chapter-02), not by dark matter. This implies that there is more than one kind of gravity*, each with two subtypes, a superior and a junior. 
 
 
 > *Material Superphysics asserts that there are five kinds of gravity, four of which have been discovered by Physics as the four fundamental forces

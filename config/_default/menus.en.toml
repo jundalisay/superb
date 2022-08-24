@@ -365,12 +365,12 @@
     url = "/research/newton"
     pre = "<img src='/icons/newton.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
 
-[[navbar]]
-    parent = "non2"
-    weight = 625
-    name = "Ricardo"
-    url = "/research/ricardo"
-    pre = "<img src='/icons/ric.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+# [[navbar]]
+#     parent = "non2"
+#     weight = 625
+#     name = "Ricardo"
+#     url = "/research/ricardo"
+#     pre = "<img src='/icons/ric.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
     parent = "non2"

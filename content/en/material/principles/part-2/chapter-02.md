@@ -24,7 +24,7 @@ aliases:
 
 ## The Five Layers of Superphysics
 
-In a [previous post](/material/principles/qoa), we explained that a universe begins as a "Big Bootup" or "Wakeup" when ideas flow from the metaphysical plane onto the physical plane. These ideas flow down onto the five layers or elements of the Greeks, Hindus, and Chinese in five phases:
+In a [previous post](/material/principles/part-1/chapter-02), we explained that a universe begins as a "Big Bootup" or "Wakeup" when ideas flow from the metaphysical plane onto the physical plane. These ideas flow down onto the five layers or elements of the Greeks, Hindus, and Chinese in five phases:
 
 
 Phase | Layer | Physics Name | Sequence  
