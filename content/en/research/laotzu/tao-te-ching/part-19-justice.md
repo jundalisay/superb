@@ -4,10 +4,6 @@ heading= "Chapters 70-74"
 description= "Karma will eventually catch the unjust"
 date= 2021-09-10
 image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-18-war"
-linkbtext= "War"
-linkf= "/research/montesquieu"
-linkftext= "Spirit of the Laws"
 icon = "/icons/tao.png"
 +++
 

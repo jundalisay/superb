@@ -1,4 +1,3 @@
-
 +++
 title= "Part 3: Perfection"
 heading= "Chapter 7-9"
