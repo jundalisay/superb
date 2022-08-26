@@ -26,6 +26,21 @@ contact_form =  "https://hub.pantrypoints.com/api/email"
 
 
 
+[simps]
+    [simps.a]
+        title = "Nova Organum by Francis Bacon"
+        url = "/research/bacon/nova/book-1/chapter-01"
+        img = "/covers/nova.jpg"
+    [simps.b]
+        title = "The Analects by Confucius"
+        url = "/research/confucius/analects/chapter-1"
+        img = "/covers/analects.png"
+    [simps.c]
+        title = "The Quran by The Prophet Mohammad"
+        url = "/research/mohammad/quran/sura-002a"
+        img = "/covers/quran.jpg"
+
+
 [books.a]
     url = ""
     img = "/books/spmat.jpg"

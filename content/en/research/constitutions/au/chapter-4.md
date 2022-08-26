@@ -4,10 +4,6 @@ heading: "Chapter 4 of Australia's Constitution Simplified"
 date: 2021-11-20
 image: "/flags/au.png"
 description: "All revenues or moneys raised or received by the Executive Government of the Commonwealth shall form one Consolidated Revenue Fund"
-linkb: /research/constitutions/au/
-linkbtext: "Index"
-linkf: /research/constitutions/au/
-linkftext: "Index"
 icon: "/flags/au.png"
 ---
 
@@ -33,9 +29,9 @@ department transferred to the Commonwealth and for the holding of the first elec
 
 When any department of the public service of a State becomes transferred to the Commonwealth, all officers of
 the department shall become subject to the control of the Executive Government of the Commonwealth.
-Any such officer who is not retained in the service of the Commonwealth shall, unless he is appointed to some
-other office of equal emolument in the public service of the State, be entitled to receive from the State any
-pension, gratuity, or other compensation, payable under the law of the State on the abolition of his office.
+
+Any such officer who is not retained in the service of the Commonwealth shall, unless he is appointed to some other office of equal emolument in the public service of the State, be entitled to receive from the State any pension, gratuity, or other compensation, payable under the law of the State on the abolition of his office.
+
 Any such officer who is retained in the service of the Commonwealth shall preserve all his existing and accruing rights, and shall be entitled to retire from office at the time, and on the pension or retiring allowance, whichwould be permitted by the law of the State if his service with the Commonwealth were a continuation of his service with the State.
 
 Such pension or retiring allowance shall be paid to him by the Commonwealth; but the State shall pay to the Commonwealth a part thereof, to be calculated on the proportion which his term of service
@@ -45,6 +41,7 @@ Any officer who is, at the establishment of the Commonwealth, in the public serv
 by consent of the Governor of the State with the advice of the Executive Council thereof, transferred to the
 public service of the Commonwealth, shall have the same rights as if he had been an officer of a department
 transferred to the Commonwealth and were retained in the service of the Commonwealth.
+
 
 85. Transfer of property of State
 

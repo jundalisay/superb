@@ -69,17 +69,21 @@ Bringing thee heat and cold, sorrows and joys, -->
 
 Bear with it, Arjuna, as the wise bear. The soul which is not moved, with a strong and constant calm, takes sorrow and joy indifferently. Such a soul never dies.
 
-Lives in the life undying! That which is
-Can never cease to be; that which is not
-Will not exist. To see this truth of both
-Is theirs who part essence from accident,
-Substance from shadow. Indestructible,
-Learn thou! the Life is, spreading life through all;
-It cannot anywhere, by any means,
-Be anywise diminished, stayed, or changed.
-But for these fleeting frames which it informs
-With spirit deathless, endless, infinite,
-They perish. Let them perish, Prince! and fight!
+<!-- Lives in the life undying! --> That which is, can never cease to be; that which is not, will not exist. 
+
+To see this truth of both is theirs who part essence from accident,
+Substance from shadow. 
+
+Indestructible,
+Learn thou! 
+
+The Life is, spreading life through all;
+
+It cannot anywhere, by any means, be anywise diminished, stayed, or changed.
+
+But for these fleeting frames which it informs with spirit deathless, endless, infinite,
+They perish. <!-- Let them perish, Prince! and fight! -->
+
 He who shall say, "Lo! I have slain a man!"
 He who shall think, "Lo! I am slain!" those both
 Know naught! Life cannot slay. Life is not slain!
@@ -98,13 +102,12 @@ So putteth by the spirit
 Lightly its garb of flesh,
 And passeth to inherit
 A residence afresh.
+
 I say to thee weapons reach not the Life;
-Flame burns it not, waters cannot o'erwhelm,
-Nor dry winds wither it. Impenetrable,
-Unentered, unassailed, unharmed, untouched,
-Immortal, all-arriving, stable, sure,
-Invisible, ineffable, by word
-And thought uncompassed, ever all itself,
+
+Flame burns it not, waters cannot o'erwhelm, nor dry winds wither it. Impenetrable,
+Unentered, unassailed, unharmed, untouched, Immortal, all-arriving, stable, sure,
+Invisible, ineffable, by word And thought uncompassed, ever all itself,
 Thus is the Soul declared! How wilt thou, then,--
 Knowing it so,--grieve when thou shouldst not grieve?
 How, if thou hearest that the man new-dead

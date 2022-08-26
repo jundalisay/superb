@@ -61,6 +61,25 @@
   {{ end }}
 
 
+  <h4 class="title is-6 mt-6 mb-4">Latest Simplifications</h4>
+
+  {{ range .Site.Params.simps }}    
+    <a href="{{ .Url }}">
+      <div class="field has-addons mb-4">
+        <div class="has-addons-left">
+          <figure class="image zoom-xs">
+            <img src="{{ .Img }}" alt="{{ .Title }}" style="width: 100px !important; height: 50px !important">
+          </figure>
+        </div>
+        <div class="">
+          <h5 class="title is-6 ml-4">
+            {{ .Title }}
+          </h5>
+        </div>        
+      </div>
+    </a>
+  {{ end }}
+
 
 <!--           <article class="media">
             <div class="media-left">

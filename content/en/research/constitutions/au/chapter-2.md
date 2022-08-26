@@ -4,10 +4,6 @@ heading: "Chapter 2 of Australia's Constitution Simplified"
 date: 2021-11-20
 image: "/flags/au.png"
 description: "The executive power of the Commonwealth is vested in the Queen and is exercisable by the Governor-General as the Queen’s representative"
-linkb: /research/constitutions/au/
-linkbtext: "Index"
-linkf: /research/constitutions/au/
-linkftext: "Index"
 icon: "/flags/au.png"
 ---
 
@@ -18,8 +14,7 @@ The executive power of the Commonwealth is vested in the Queen and is exercisabl
 
 62. Federal Executive Council
 
-There shall be a Federal Executive Council to advise the Governor-General in the government of the
-Commonwealth, and the members of the Council shall be chosen and summoned by the Governor-General and sworn as Executive Councillors, and shall hold office during his pleasure.
+This advises the Governor-General in the government of the Commonwealth. Its members shall be chosen and summoned by the Governor-General and sworn as Executive Councillors, and shall hold office during his pleasure.
 
 63. Provisions referring to Governor-General
 

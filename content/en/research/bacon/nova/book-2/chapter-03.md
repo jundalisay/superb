@@ -19,11 +19,19 @@ This has 3 divisions:
 
 2. The deriving of new experiments from axioms
 
-We must first prepare as a foundation for the whole, a complete and accurate natural and experimental history. We must not imagine or invent, but discover the acts and properties of nature.
+<!-- We must first prepare as a foundation for the whole,  -->
 
-But natural and experimental history is so varied and diffuse, that it confounds and distracts the understanding unless it be fixed and exhibited in due order. We must, therefore, form tables and co-ordinations of instances, upon[121] such a plan, and in such order that the understanding may be enabled to act upon them.
+A complete and accurate natural and experimental history is first needed. We must<!--  not imagine or invent, but --> discover the acts and properties of nature.
 
-Even when this is done, the understanding, left to itself and to its own operation, is incompetent and unfit to construct its axioms without direction and support. Our third ministration, therefore, must be true and legitimate induction, the very key of interpretation. We must begin, however, at the end, and go back again to the others.
+But natural and experimental history is so varied and diffuse.
+- It confounds and distracts the understanding unless it is fixed and exhibited in due order.
+
+We must, therefore, form tables and co-ordinations of instances.<!-- , upon[121] such a plan, and in such order that the understanding may be enabled to act upon them. -->
+
+<!-- Even when this is done, the understanding, left to itself and to its own operation, is incompetent and unfit to construct its axioms without direction and support. Our third ministration, therefore, -->
+
+To support this, we must have true and legitimate induction, the very key of interpretation.
+- We must begin, however, at the end, and go back again to the others.
 
 
 {{< s v="11" >}} The investigation of forms proceeds thus:
@@ -31,7 +39,7 @@ Even when this is done, the understanding, left to itself and to its own operati
 - from a given nature, we first present to the understanding all the known instances which agree in the same nature, even if the subject matter is considerably diversified.
 - this collection must be made as a mere history, without any premature reflection, or too great degree of refinement.
 
-For instance; take the investigation of the form of heat.
+An example is the investigation of the form of heat.
 
 Instances agreeing in the Form of Heat:
 
@@ -67,7 +75,14 @@ Instances agreeing in the Form of Heat:
 
 This is a **table of existence and presence**.
 
-{{< s v="12" >}} We must next present to the understanding instances which do not admit of the given nature, for form (as we have observed) ought no less to be absent where the given nature is absent, than to be present where it is present. If, however, we were to examine every instance, our labor would be infinite.
+{{< s v="12" >}} We then list instances which do not admit of the given nature. This is because form should:
+- <!-- not --> be absent where the given nature is absent
+- be present where it is present.
 
-Negatives, therefore, must be classed under the affirmatives, and the want of the given nature must be inquired into more particularly in objects which have a very close connection with those others in which it is present and manifest. And this we are wont to term a table of deviation or of absence in proximity.
+If, however, we were to examine every instance, our labor would be infinite.
 
+Negatives, therefore, must be classed under the affirmatives.
+
+The lack of the given nature must be inquired into more particularly in objects which have a very close connection with those others in which it is present and manifest.
+
+This we call a "table of deviation" or of absence in proximity.

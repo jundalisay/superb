@@ -1,3 +1,137 @@
+1. attitude
+2. behavior
+
+- search 
+- identify
+- predict 
+- decide
+- execute
+
+- concentration
+- plans 
+
+- speed
+- brakes
+- steering
+- gears 
+- easy grip
+- emergency vehicles 
+  - slow down stop
+  - don't follow
+- motorcycles
+  - don't bully
+- trucks buses
+  - don't overtake
+
+tailgating
+cutting off 
+unecessary horns
+parking space
+
+road crash not accident
+
+reactive maintenance
+proactive maintenance
+
+manifold leak:
+- sputtering
+- noisy engine 
+
+overheating causes:
+- oil water mix causing white exhaust
+- clogged 
+- insufficient oil
+- clogged air filter
+- water leak clogged radiator
+- sticking brake
+- low gear on uphill
+- belts 
+- aircon use 
+
+oil leak causes:
+- substandard oil leaks
+- prolonged idling 
+- too high rpm
+
+stikcing brake;
+- car moving to side when braking
+- noisy when braking
+
+abs
+- blinking abs when braking
+
+flat tires
+- 
+
+floods
+- dont brake
+
+loss of brakes
+- pump brakes, use parking brake
+- don't off engine 
+- downshift
+
+engine fire
+- get out of vehicle
+- do not open the hood
+
+skidding
+- stop braking to regain traction 
+
+poor visibility
+- low beam
+- stop at safe place
+
+pnp 117
+red cross 143
+
+
+road incidents
+- get evidence
+
+srs
+- supplement restrain system 
+
+check engine 
+- 
+
+accident:
+1. dont run away
+2. put cones
+3. first aid: don't move patient
+4.  
+
+
+RA 4136
+
+
+b - battery limit short rides, dont use acc when engine is off
+  - brush + baking soda on battery terminal 
+l - lights no high beam
+o - oil avoid rpm
+w - water
+b - break line break pads 
+a - accessories  
+  - horn
+  - wipers
+  - parking break
+  - windshield 
+g - gas
+  - avoid short trips and heavy traffic 
+  - accelerate smoothyl
+e - electrical
+t - tire inflation
+s - self 
+
+RA 10913 anti distracted driving act bans mobile while driving 
+- 4 inches rule on dashboard
+
+blind curve recklessness
+
+- turn off aircon when going uphill 
+
+
+
 title: "Site Overhauled"
 date: 2021-07-07
 

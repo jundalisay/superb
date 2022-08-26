@@ -1,7 +1,13 @@
+---
+heading: "Chapter 18"
+title: "SOME CONDENSED WORDS"
+date: 2022-01-31
+author: "PR Sarkar"
+description: ""
+image: "/covers/grammar.png"
+icon: "/icons/sarkar.png"
+---
 
-CHAPTER 18
-
-SOME CONDENSED WORDS1
 
 unitary/unitarian	concerning one
 collective/cumulative	concerning more than one/concerning a collection

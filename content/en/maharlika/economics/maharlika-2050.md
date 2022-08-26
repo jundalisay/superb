@@ -108,14 +108,14 @@ To convert a nation of slaves and employees into a respectable one of productive
 
 The very first step is to establish a moral system based on [constitutional virtues](/social/supersociology/solutions/constitutional-virtues) chosen by the people. We suggest 8 virtues:
 
-1. Truth
-2. Heart
-3. Self-control
-4. Respect
-5. Cooperation (Bayanihan)
-6. Intellect
-7. Hard work
-8. Environmentalism 
+1. Katotohanan (Truth)
+2. Puso (Heart)
+3. Pagtitimpi (Self-control)
+4. Paggalang (Respect)
+5. Talino at Kakayahan (Intellect and Skill)
+6. Sipag at Pagkukusa (Hard work and Initiative)
+7. Bayanihan (Cooperation)
+8. Paggalang sa Kalikasan (Environmentalism)
 
 
 These define what a Maharlikan is. These are not hard-coded, but can be changed every few years. 

@@ -8,19 +8,35 @@ icon: /icons/bacon.png
 ---
 
 
-The rays of the moon, stars, and comets, are not found to be warm to the touch, nay, the severest cold has been observed to take place at the full of the moon. Yet the larger fixed stars are supposed to increase and render more intense the heat of the sun, as he approaches them, when the sun is in the sign of the Lion, for instance, and in the dog-days.[84]
+The rays of the moon, stars, and comets, are not warm to the touch. 
+
+The severest cold has been observed to take place at the full of the moon. 
+
+Yet the larger fixed stars are supposed to increase and render more intense the heat of the sun, as he approaches them, when the sun is in the sign of the Lion, for instance, and in the dog-days.[84]
 
 The rays of the sun in what is called the middle region of the air give no heat, to account for which the commonly assigned reason is satisfactory; namely, that that region is neither sufficiently near to the body of the sun whence the rays emanate, nor to the earth whence they are reflected. 
 
-The fact is manifested by snow being perpetual on the tops of mountains, unless extremely lofty. But it is observed, on the other hand, by some, that at the Peak of Teneriffe, and also among the Andes of Peru, the tops of the mountains are free from snow, which only lies in the lower part as you ascend.
+The fact is manifested by snow being perpetual on the tops of mountains, unless extremely lofty. 
 
-Besides, the air on the summit of these mountains is found to be by no means cold, but only thin and sharp; so much so, that in the Andes it pricks and hurts the eyes from its extreme sharpness, and even excites the orifice of the stomach and produces vomiting.
+On the other hand, the tops of the mountains are free from snow at:
+- the Peak of Teneriffe
+- the Andes of Peru
 
-The ancients also observed, that the rarity of the air on the summit[125] of Olympus was such, that those who ascended it were obliged to carry sponges moistened with vinegar and water, and to apply them now and then to their nostrils, as the air was not dense enough for their respiration; on the summit of which mountain it is also related, there reigned so great a serenity and calm, free from rain, snow, or wind, that the letters traced upon the ashes of the sacrifices on the altar of Jupiter, by the fingers of those who had offered them, would remain undisturbed till the next year.
+<!-- , which only lies in the lower part as you ascend. -->
+
+Besides, the air on the summit of these mountains is not cold, but only thin and sharp. In the Andes, it pricks and hurts the eyes from its extreme sharpness, and even excites the orifice of the stomach and produces vomiting.
+
+The ancients also observed that the rarity of the air on the summit[125] of Olympus was such, that those who ascended it were obliged to carry sponges moistened with vinegar and water, and to apply them now and then to their nostrils, as the air was not dense enough for their respiration.
+
+ on the summit of which mountain it is also related, there reigned so great a serenity and calm, free from rain, snow, or wind, that the letters traced upon the ashes of the sacrifices on the altar of Jupiter, by the fingers of those who had offered them, would remain undisturbed till the next year.
 
 Those even, who at this day go to the top of the Peak of Teneriffe, walk by night and not in the daytime, and are advised and pressed by their guides, as soon as the sun rises, to make haste in their descent, on account of the danger (apparently arising from the rarity of the atmosphere), lest their breathing should be relaxed and suffocated.[85]
 
-The reflection of the solar rays in the polar regions is found to be weak and inefficient in producing heat, so that the Dutch, who wintered in Nova Zembla, and expected that their vessel would be freed about the beginning of July from the obstruction of the mass of ice which had blocked it up, were disappointed and obliged to embark in their boat. Hence the direct rays of the sun appear to have but little power even on the plain, and when reflected, unless they are multiplied and condensed, which takes place when the sun tends more to the perpendicular; for, then, the incidence of the rays occurs at more acute angles, so that the reflected rays are nearer to each other, while, on the contrary, when the sun is in a very oblique position,[126] the angles of incidence are very obtuse, and the reflected rays at a greater distance. In the meantime it must be observed, that there may be many operations of the solar rays, relating, too, to the nature of heat, which are not proportioned to our touch, so that, with regard to us, they do not tend to produce warmth, but, with regard to some other bodies, have their due effect in producing it.
+The reflection of the solar rays in the polar regions is found to be weak and inefficient in producing heat, so that the Dutch, who wintered in Nova Zembla, and expected that their vessel would be freed about the beginning of July from the obstruction of the mass of ice which had blocked it up, were disappointed and obliged to embark in their boat. 
+
+Hence the direct rays of the sun appear to have but little power even on the plain, and when reflected, unless they are multiplied and condensed, which takes place when the sun tends more to the perpendicular; for, then, the incidence of the rays occurs at more acute angles, so that the reflected rays are nearer to each other, while, on the contrary, when the sun is in a very oblique position,[126] the angles of incidence are very obtuse, and the reflected rays at a greater distance. 
+
+There may be many operations of the solar rays, relating, too, to the nature of heat, which are not proportioned to our touch, so that, with regard to us, they do not tend to produce warmth, but, with regard to some other bodies, have their due effect in producing it.
 
 Let the following experiment be made. Take a lens the reverse of a burning-glass, and place it between the hand and the solar rays, and observe whether it diminish the heat of the sun as a burning-glass increases it. For it is clear, with regard to the visual rays, that in proportion as the lens is made of unequal thickness in the middle and at its sides, the images appear either more diffused or contracted. It should be seen, therefore, if the same be true with regard to heat.
 
@@ -60,15 +76,27 @@ We have here no exactly negative instance, for we are not acquainted with any bo
 
 No negative is here subjoined, except the remark that sparks are not kindled by flint and steel, or any other hard substance, unless some small particles of the stone or metal are struck off, and that the air never forms them by friction, as is commonly supposed; besides, the sparks from the weight of the ignited substance have a tendency to descend rather than to rise, and when extinguished become a sort of dark ash.
 
-We are of opinion that here again there is no negative; for we are not acquainted with any tangible body which does not become decidedly warm by friction, so that the ancients feigned that the gods had no other means or power of creating heat than the friction of air, by rapid and violent rotation. On this point, however, further inquiry must be made, whether bodies projected by machines (as balls from cannon) do not derive some degree of heat from meeting the air, which renders them somewhat warm when they fall. The air in motion rather cools than heats, as in the winds, the bellows, or breath when the mouth is contracted. The motion, however, in such instances is not sufficiently rapid to excite heat, and is applied to a body of air, and not to its component parts, so that it is not surprising that heat should not be generated.
+Here again there is no negative. We are not acquainted with any tangible body which does not become decidedly warm by friction, so that the ancients feigned that the gods had no other means or power of creating heat than the friction of air, by rapid and violent rotation. 
 
-We must make a more diligent inquiry into this instance; for herbs and green and moist vegetables appear to possess a latent heat, so small, however, as not to be perceived by the touch in single specimens, but when they are united and confined, so that their spirit cannot exhale into the air, and they rather warm each other, their heat is at once manifested, and even flame occasionally in suitable substances.
+Here we must ask whether bodies projected by machines (as balls from cannon) do not derive some degree of heat from meeting the air, which renders them somewhat warm when they fall. 
 
-Here, too, we must make a more diligent inquiry; for[133] quicklime, when sprinkled with water, appears to conceive heat, either from its being collected into one point (as we observed of herbs when confined), or from the irritation and exasperation of the fiery spirit by water, which occasions a conflict and struggle. The true reason will more readily be shown if oil be used instead of water, for oil will equally tend to collect the confined spirit, but not to irritate. The experiment may be made more general, both by using the ashes and calcined products of different bodies and by pouring different liquids upon them.
+The air in motion rather cools than heats, as in the winds, the bellows, or breath when the mouth is contracted. The motion, however, in such instances is not sufficiently rapid to excite heat, and is applied to a body of air, and not to its component parts, so that it is not surprising that heat should not be generated.
 
-A negative instance may be subjoined of other metals which are more soft and soluble; for leaf gold dissolved by aqua regia, or lead by aqua fortis, are not warm to the touch while dissolving, no more is quicksilver (as far as I remember), but silver excites a slight heat, and so does copper, and tin yet more plainly, and most of all iron and steel, which excite not only a powerful heat, but a violent bubbling. The heat, therefore, appears to be occasioned by the struggle which takes place when these strong dissolvents penetrate, dig into, and tear asunder the parts of those substances, while the substances themselves resist. When, however, the substances yield more easily, scarcely any heat is excited.
+We must make a more diligent inquiry into this instance. 
 
-There is no negative instance with regard to the heat of animals, except in insects (as has been observed), owing to their small size; for in fishes, as compared with land animals, a lower degree rather than a deprivation of heat is observable. In plants and vegetables, both as to their exudations and pith when freshly exposed, there is no sensible degree of heat. But in animals there is a great difference in the degree, both in particular parts (for the heat varies near the heart, the brain, and the extremities) and in[134] the circumstances in which they are placed, such as violent exercise and fevers.
+Herbs and green and moist vegetables appear to possess a latent heat, so small, however, as not to be perceived by the touch in single specimens, but when they are united and confined, so that their spirit cannot exhale into the air, and they rather warm each other, their heat is at once manifested, and even flame occasionally in suitable substances.
+
+Here, too, we must make a more diligent inquiry; for[133] quicklime, when sprinkled with water, appears to conceive heat, either from its being collected into one point (as we observed of herbs when confined), or from the irritation and exasperation of the fiery spirit by water, which occasions a conflict and struggle. 
+
+The true reason will more readily be shown if oil be used instead of water, for oil will equally tend to collect the confined spirit, but not to irritate. The experiment may be made more general, both by using the ashes and calcined products of different bodies and by pouring different liquids upon them.
+
+A negative instance may be subjoined of other metals which are more soft and soluble; for leaf gold dissolved by aqua regia, or lead by aqua fortis, are not warm to the touch while dissolving, no more is quicksilver (as far as I remember), but silver excites a slight heat, and so does copper, and tin yet more plainly, and most of all iron and steel, which excite not only a powerful heat, but a violent bubbling. 
+
+The heat, therefore, appears to be occasioned by the struggle which takes place when these strong dissolvents penetrate, dig into, and tear asunder the parts of those substances, while the substances themselves resist. When, however, the substances yield more easily, scarcely any heat is excited.
+
+There is no negative instance with regard to the heat of animals, except in insects (as has been observed), owing to their small size; for in fishes, as compared with land animals, a lower degree rather than a deprivation of heat is observable. 
+
+In plants and vegetables, both as to their exudations and pith when freshly exposed, there is no sensible degree of heat. But in animals there is a great difference in the degree, both in particular parts (for the heat varies near the heart, the brain, and the extremities) and in[134] the circumstances in which they are placed, such as violent exercise and fevers.
 
 Here, again, there is scarcely a negative instance. I might add that the excrements of animals, even when they are no longer fresh, possess evidently some effective heat, as is shown by their enriching the soil.
 
@@ -80,7 +108,6 @@ Spices and acrid herbs are sensibly warm to the palate, and still more so when t
 
 There is an acrid effect and a degree of penetration in cold liquids, such as vinegar and oil of vitriol, as well as in warm, such as oil of marjoram and the like; they have, therefore, an equal effect in causing animated substances to smart, and separating and consuming inanimate parts. There is not any negative instance as to this, nor does there exist any animal pain unaccompanied by the sensation of heat.
 
-There are many effects common to cold and heat, however different in their process; for snowballs appear to burn boys’ hands after a little time, and cold no less than fire preserves bodies from putrefaction—besides both heat and cold contract bodies. But it is better to refer these instances and the like to the investigation of cold.
+There are many effects common to cold and heat, however different in their process. Snowballs appear to burn boys’ hands after a little time. Cold preserves bodies from putrefaction. Both heat and cold contract bodies. 
 
-
-
+But it is better to refer these instances and the like to the investigation of cold.

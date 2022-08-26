@@ -46,7 +46,7 @@ We use outcomes of events to reveal the soul of the society, just as dust reveal
 
 Today marks an important moment in Philippine history because its Congress finally ended the franchise of ABS-CBN, run by a known oligarch family. According to our model, this proves that the country is undeniably no longer in an oligarch cycle.
 
-This then gives us two clear data points -- an oligarch and a warrior phase -- which we can connect to two other known data points of the warrior phase in 1972 and the intellectual phase of 1986 to create a full "year" in the life of Maharlika, which lasts 48 Earth-years:
+This then gives us 2 clear data points -- an oligarch and a warrior phase -- which we can connect to two other known data points of the warrior phase in 1972 and the intellectual phase of 1986 to create a full "year" in the life of Maharlika, which lasts around 48 Earth-years, with each season being 12 years:
 
 | Year | Marker Event | Cycle |
 | --- | --- | --- |
@@ -82,7 +82,10 @@ We then plot this backwards to get the lifespan of the society
 | --- | --- | --- |
 | 1860-1907 | US Occupation | 1 |
 | 1908-1956 | Roxas | 2 |
-
+| 1957-2003 | Republic | 3 |
+| 2004-2052 | Liberalism and Neo-liberalism | 4 |
+| 2053-2100 |  | 5 |
+| 2101-2148 |  | 6 |
 
 We see that the Philippines is 3.5 social-years old as of 2016.
 

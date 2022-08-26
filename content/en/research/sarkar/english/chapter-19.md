@@ -1,13 +1,28 @@
-CHAPTER 19
+---
+heading: "Chapter 19"
+title: "STRUCTURAL FORMULA: SUFFIX AND PREFIX"
+date: 2022-01-31
+author: "PR Sarkar"
+description: ""
+image: "/covers/grammar.png"
+icon: "/icons/sarkar.png"
+---
 
-STRUCTURAL FORMULA:
-SUFFIX AND PREFIX
 
-There are certain ideas which activize verbs, and there are also certain faculties which modify verbs. The first one is called the activating idea, and the second one is called the activated faculty. In the case of the first, the verb remains separate ( the verb is separate from the activating idea), and in the case of the second the verb is joined (the activated faculty is joined to the verb).1 Now the activating idea is called the prefix ("that which is fixed before" – pre means "before"), and the activated faculty is called the suffix ("that which is fixed afterwards").
+"Activating ideas" activize verbs. 
+- Here, the verb remains separate ( the verb is separate from the activating idea)
 
-In all the classical and organized languages of the world there is a universal system of creating new words with the help of prefix, root verb and suffix, sometimes with only the root verb and the suffix.
+The "activated faculty" modifies verbs.
+- Here, the verb is joined (the activated faculty is joined to the verb).1 
 
-Suffix
+The activating idea is called the prefix ("that which is fixed before" – pre means "before").
+
+The activated faculty is called the suffix ("that which is fixed afterwards").
+
+In all the classical and organized languages of the world, there is a universal system of creating new words with the help of prefix, root verb and suffix, sometimes with only the root verb and the suffix.
+
+
+## Suffix
 
 The word suffix is derived sub + fix. Sub means "below" or "following" or "under":
 
@@ -15,6 +30,7 @@ inspector	sub-inspector
 judge	sub-judge
 terranean	subterranean
 marine	submarine
+
 Suffix means "that which comes after" – after the root verb. For instance, -ion, -al, -ty, etc.
 
 donation, option, reception 
@@ -26,6 +42,7 @@ In Sanskrit a suffix is called pratyaya (প্রত্যয়), which [literall
 A list of noun-words thus formed is given below:
 
 ROOT VERB + SUFFIX	WORD FORMED
+
 act + ion	= action
 opt + ion	= option
 except + ion	= exception
@@ -60,9 +77,22 @@ In Sanskrit, sic or siṋc (সিচ্ or সিঞ্চ্) means to water, 
 
 Ni (নি) – sic + kta = niśikta (নিষিক্ত), nisikta (নিসিক্ত). (This means "infused".) Upa (উপ) – sic + lyut́ = upasecana (উপসেচন). This has two meanings: "sprinkling" and "clarified butter". Pari (পরি) – sic + kta = parisikta (পরিসিক্ত). This means "well-irrigated".
 
-Every object in this creation has vibration, form and colour. Now a particular colour, say, white, emanating from an object produces a kind of vibration in the mind somewhat like dhav-dhav-dhav, and thus the Sanskrit verb dhav (ধব) is created. Now with the addition of suffixes, we get new words: dhav + ac (অচ্) + lá (লা) + d́a (ড) = dhavala ("white"). Similarly, the red colour produces in the mind a kind of vibration somewhat like t́ak-t́ak-t́ak (টক-টক-টক), and thus we get the word t́akt́ake lál (টকটকে লাল). The verbal perception becomes a word.
 
-The moon creates a soothing feeling in the mind, and its verbal perception is called cand (চন্দ), and the verbal form concerned is candati (চন্দতি – "soothing"). Similarly, the verbal perception [associated with] moving at higher altitudes is called ind (ইন্দ্) and the verbal form concerned is indati (ইন্দতি), indatah (ইন্দতঃ), indanti (ইন্দন্তি).3 Thus we get the words candra (cand + rak, রক), indra (ind + rak). Indra means "lofty", indra means "great", indra means "very tall and high", and hence it also means the shal tree, indra also means a chief or a king. That is why in mythology, the king of the gods is called "Devara'ja Indra". Ind + un (উন) = Indu; Indu means the moon, "the one that moves at higher altitudes".
+Every object in this creation has vibration, form and colour. 
+
+A particular colour, say, white, emanating from an object produces a kind of vibration in the mind somewhat like dhav-dhav-dhav. 
+
+Thus, the Sanskrit verb dhav (ধব) is created. 
+
+The addition of suffixes leads to new words: dhav + ac (অচ্) + lá (লা) + d́a (ড) = dhavala ("white"). 
+
+Similarly, the red colour produces in the mind a kind of vibration somewhat like t́ak-t́ak-t́ak (টক-টক-টক). 
+
+Thus, we get the word t́akt́ake lál (টকটকে লাল). The verbal perception becomes a word.
+
+The moon creates a soothing feeling in the mind. Its verbal perception is called cand (চন্দ). The verbal form concerned is candati (চন্দতি – "soothing"). 
+
+Similarly, the verbal perception [associated with] moving at higher altitudes is called ind (ইন্দ্) and the verbal form concerned is indati (ইন্দতি), indatah (ইন্দতঃ), indanti (ইন্দন্তি).3 Thus we get the words candra (cand + rak, রক), indra (ind + rak). Indra means "lofty", indra means "great", indra means "very tall and high", and hence it also means the shal tree, indra also means a chief or a king. That is why in mythology, the king of the gods is called "Devara'ja Indra". Ind + un (উন) = Indu; Indu means the moon, "the one that moves at higher altitudes".
 
 Prefix The word prefix is derived pre + fix. Pre means "before". Prefix means "the idea which comes before the root [word]". In Sanskrit a prefix is called an upasarga (উপসর্গ).4 In Sanskrit there is a fixed number of twenty prefixes: pra, pará, apa, sam, anu, ava, nir, dur, abhi, vi, adhi, su, ut, ati, ni, prati, pari, upa, áun. English also has a good number of prefixes.
 

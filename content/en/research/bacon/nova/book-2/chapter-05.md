@@ -7,11 +7,22 @@ image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
 
+## 3. 
+
+{{< s v="13" >}} <!-- In the third place we must exhibit to the understanding  -->
+
+the instances in which that nature, which is the object of our inquiries, is present in a greater or less degree, either by comparing its increase and decrease in the same object, or its degree in different objects;
+
+The form of a thing is its very essence. 
+
+The thing only differs from its form as the apparent from the actual object, or the exterior from the interior, or that which is considered with relation to man from that which is considered with relation to the universe; 
+
+It follows that no nature can be considered a real form which does not uniformly diminish and increase with the given nature. 
+
+This is our "Table of Degrees" or Comparative Instances.
 
 
-{{< s v="13" >}} In the third place we must exhibit to the understanding the instances in which that nature, which is the object of our inquiries, is present in a greater or less degree, either by comparing its increase and decrease in the same object, or its degree in different objects; for since the form of a thing is its very essence, and the thing only differs from its form as the apparent from the actual object, or the exterior from the interior, or that which is considered with relation to man from that which is considered with relation to the universe; it necessarily follows that no nature can be considered a real form which does not uniformly diminish and increase with the given nature. We are wont to call this our Table of Degrees, or Comparative Instances.
-
-Table of the Degrees or Comparative Instances of Heat
+### Table of the Degrees or Comparative Instances of Heat
 
 We will first speak of those bodies which exhibit no degree of heat sensible to the touch, but appear rather to possess a potential heat, or disposition and preparation for it. We will then go on to others, which are actually warm to the touch, and observe the strength and degree of it.
 
@@ -65,15 +76,50 @@ Before the first glass be inserted in the other, its upper part (the belly) shou
 {{< s v="14" >}} Anyone can see how poor we are in history, since in the above tables, besides occasionally inserting traditions and report instead of approved history and authentic instances (always, however, adding some note if their credit or authority be doubtful), we are often forced to subjoin, “Let the experiment be tried—Let further inquiry be made.”
 
 
-{{< s v="15" >}} We are wont to term the office and use of these three tables the presenting a review of instances to the understanding; and when this has been done, induction itself is to be brought into action. For on an individual review of all the instances a nature is to be found, such as always to be present and absent with the given nature, to increase and decrease with it, and, as we have said, to form a more common limit of the nature. If the mind attempt this affirmatively from the first (which it always will when left to itself), there will spring up phantoms, mere theories and ill-defined notions, with axioms requiring daily correction. These will, doubtless, be better or worse, according to the power and strength of the understanding which creates them. But it is only for God (the bestower and[147] creator of forms), and perhaps for angels and intelligences, at once to recognize forms affirmatively at the first glance of contemplation: man, at lest, is unable to do so, and is only allowed to proceed first by negatives, and then to conclude with affirmatives, after every species of exclusion.
+{{< s v="15" >}} We call the use of these 3 tables the "presenting a review of instances to the understanding".
+
+When this has been done, induction itself is to be brought into action.
+
+For on an individual review of all the instances a nature is to be found, such as always to be present and absent with the given nature, to increase and decrease with it, and, as we have said, to form a more common limit of the nature.
+
+If the mind attempt this affirmatively from the first (which it always will when left to itself), there will spring up phantoms, mere theories and ill-defined notions, with axioms requiring daily correction.
+
+These will be better or worse, according to the power and strength of the understanding which creates them. But it is only for God (the bestower and[147] creator of forms), and perhaps for angels and intelligences, at once to recognize forms affirmatively at the first glance of contemplation: man, at lest, is unable to do so, and is only allowed to proceed first by negatives, and then to conclude with affirmatives, after every species of exclusion.
 
 
-{{< s v="16" >}} We must, therefore, effect a complete solution and separation of nature; not by fire, but by the mind, that divine fire. The first work of legitimate induction, in the discovery of forms, is rejection, or the exclusive instances of individual natures, which are not found in some one instance where the given nature is present, or are found in any one instance where it is absent, or are found to increase in any one instance where the given nature decreases, or the reverse. After an exclusion correctly effected, an affirmative form will remain as the residuum, solid, true, and well defined, while all volatile opinions go off in smoke. This is readily said; but we must arrive at it by a circuitous route. We shall perhaps, however, omit nothing that can facilitate our progress.
+{{< s v="16" >}} We must, therefore, effect a complete solution and separation of nature; not by fire, but by the mind, that divine fire. 
 
-{{< s v="17" >}} The first and almost perpetual precaution and warning which we consider necessary is this; that none should suppose from the great part assigned by us to forms, that we mean such forms as the meditations and thoughts of men have hitherto been accustomed to. In the first place, we do not at present mean the concrete forms, which (as we have observed) are in the common course of things compounded of simple natures, as those of a lion, an eagle, a rose, gold, or the like. The moment for discussing these will arrive when we come to treat of the latent process and latent conformation, and the discovery of them as they exist in what are called substances, or concrete natures.
+The first work of legitimate induction, in the discovery of forms, is rejection, or the exclusive instances of individual natures, which are not found in some one instance where the given nature is present, or are found in any one instance where it is absent, or are found to increase in any one instance where the given nature decreases, or the reverse.
+
+After an exclusion correctly effected, an affirmative form will remain as the residuum, solid, true, and well defined, while all volatile opinions go off in smoke. 
+
+This is readily said; but we must arrive at it by a circuitous route. We shall perhaps, however, omit nothing that can facilitate our progress.
+
+{{< s v="17" >}} The first and almost perpetual precaution and warning which we consider necessary is that none should suppose from the great part assigned by us to forms, that we mean such forms as the meditations and thoughts of men have hitherto been accustomed to. 
+
+In the first place, we do not at present mean the concrete forms, which (as we have observed) are in the common course of things compounded of simple natures, as those of a lion, an eagle, a rose, gold, or the like. The moment for discussing these will arrive when we come to treat of the latent process and latent conformation, and the discovery of them as they exist in what are called substances, or concrete natures.
 
 
-Nor again, would we be thought to mean (even when treating of simple natures) any abstract forms or ideas, either undefined or badly defined in matter. For when we speak of forms, we mean nothing else than those laws and regulations of simple action which arrange and constitute any simple nature, such as heat, light, weight, in every species of matter, and in a susceptible subject. The form of heat or form of light, therefore, means no more than the law of heat or the law of light. Nor do we ever abstract or withdraw ourselves from things, and the operative branch of philosophy. When, therefore, we say (for instance) in our investigation of the form of heat, Reject rarity, or, Rarity is not of the form of heat, it is the same as if we were to say, Man can superinduce heat on a dense body, or the reverse, Man can abstract or ward off heat from a rare body.
+Nor again, would we be thought to mean (even when treating of simple natures) any abstract forms or ideas, either undefined or badly defined in matter. For when we speak of forms, we mean nothing else than those laws and regulations of simple action which arrange and constitute any simple nature, such as heat, light, weight, in every species of matter, and in a susceptible subject. 
 
-But if our forms appear to any one to be somewhat abstracted, from their mingling and uniting heterogeneous objects (the heat, for instance, of the heavenly bodies appears to be very different from that of fire; the fixed red of the rose and the like, from that which is apparent in the rainbow, or the radiation of opal or the diamond;[101] death by drowning, from that by burning, the sword, apoplexy, or consumption; and yet they all agree in the common natures of heat, redness, and death), let him be assured that his understanding is inthralled by habit, by general appearances and hypotheses. For it is most certain that, however heterogeneous and distinct, they agree in the form or law which regulates heat, redness, or death; and that human power cannot be emancipated and freed from the common[149] course of nature, and expanded and exalted to new efficients and new modes of operation, except by the revelation and invention of forms of this nature. But after this[102] union of nature, which is the principal point, we will afterward, in its proper place, treat of the divisions and ramifications of nature, whether ordinary or internal and more real.
+The form of heat or form of light, therefore, means no more than the law of heat or the law of light. 
+
+Nor do we ever abstract or withdraw ourselves from things, and the operative branch of philosophy. When, therefore, we say (for instance) in our investigation of the form of heat, Reject rarity, or, Rarity is not of the form of heat, it is the same as if we were to say, Man can superinduce heat on a dense body, or the reverse, Man can abstract or ward off heat from a rare body.
+
+
+
+The heat of the heavenly bodies appears to be very different from that of fire. 
+The fixed red of the rose is different from the red in the rainbow<!-- , or the radiation of opal or the diamond; -->[101].
+Death by drowning is different from death by burning. 
+Yet they all agree in the common natures as forms of heat, redness, and death 
+
+Our forms appear to be somewhat abstracted from their mingling and uniting heterogeneous objects.
+
+let him be assured that his understanding is inthralled by habit, by general appearances and hypotheses. 
+
+However heterogeneous and distinct, they agree in the form or law which regulates heat, redness, or death. 
+
+Human power cannot be emancipated and freed from the common[149] course of nature, and expanded and exalted to new efficients and new modes of operation, except by the revelation and invention of forms of this nature. 
+
+But after this[102] union of nature, which is the principal point, we will afterward, in its proper place, treat of the divisions and ramifications of nature, whether ordinary or internal and more real.
 

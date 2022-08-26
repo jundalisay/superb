@@ -145,6 +145,15 @@ This sound or wave system is the only way to judge and measure the aethereal lay
 
 For example, Galileo demonstrated that two objects with different weights *visually* fall to the ground at the same time, at the same speed. However, those two objects *make different sounds*. The difference of their resulting sounds then will indicate the differences in the nature of their qost, Schwarzchild radius, or graviton. 
 
+Layer | Transition
+--- | ---
+Aethereal | Idea into Aethereal Wave
+Spacetime | Aethereal Wave into Physical Wave
+Radiant (Electromagnetism) | Physical Wave into Emitted Particles
+Radioactive | Emitted Particles into Matter
+Material | Matter into Identity
+
+
 The next post will apply the five layers to fix Einstein's Theory of General Relativity so that space travel can free itself of the shackles of light and allow both teleportation and fusion
 
 <!-- leave ex  explain universal relativity which applies relativistic movement on the five layers. It explains how everything in the universe is interconnected.  

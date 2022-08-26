@@ -9,7 +9,9 @@ icon: /icons/bacon.png
 
 ## 10. Instances of power, or the fasces (to borrow a term from the insignia of empire) or the wit or hands of man
 
-{{< s v="31" >}} These are such works as are most noble and perfect, and, as it were, the masterpieces in every art. For since our principal object is to make nature subservient to the state and wants of man, it becomes us well to note and enumerate the works, which have long since been in the power of man, especially those which are most polished and perfect: because the passage from these to new and hitherto undiscovered works, is more easy and feasible. 
+{{< s v="31" >}} These are such works as are most noble and perfect, the masterpieces in every art. 
+
+For since our principal object is to make nature subservient to the state and wants of man, it becomes us well to note and enumerate the works, which have long since been in the power of man, especially those which are most polished and perfect: because the passage from these to new and hitherto undiscovered works, is more easy and feasible. 
 
 For if any one, after an attentive contemplation of such works as are extant, be willing to push forward in his design with alacrity and vigor, he will undoubtedly either advance them, or turn them to something within their immediate reach, or even apply and transfer them to some more noble purpose.
 
@@ -17,9 +19,9 @@ Nor is this all: for as the understanding is elevated and raised by rare and unu
 
 For there is some danger, lest the understanding should be astonished and chained down, and as it were bewitched, by such works of art, as appear to be the very summit and[183] pinnacle of human industry, so as not to become familiar with them, but rather to suppose that nothing of the kind can be accomplished, unless the same means be employed, with perhaps a little more diligence, and more accurate preparation.
 
-Now, on the contrary, it may be stated as a fact, that the ways and means hitherto discovered and observed, of effecting any matter or work, are for the most part of little value, and that all really efficient power depends, and is really to be deduced from the sources of forms, none of which have yet been discovered.
+On the contrary, the ways and means hitherto discovered and observed, of effecting any matter or work, are for the most part of little value, and that all really efficient power depends, and is really to be deduced from the sources of forms, none of which have yet been discovered.
 
-Thus (as we have before observed), had any one meditated on ballistic machines, and battering rams, as they were used by the ancients, whatever application he might have exerted, and though he might have consumed a whole life in the pursuit, yet would he never have hit upon the invention of flaming engines, acting by means of gunpowder; nor would any person, who had made woollen manufactories and cotton the subject of his observation and reflection, have ever discovered thereby the nature of the silkworm or of silk.
+Thus had any one meditated on ballistic machines, and battering rams, as they were used by the ancients, whatever application he might have exerted, and though he might have consumed a whole life in the pursuit, yet would he never have hit upon the invention of flaming engines, acting by means of gunpowder; nor would any person, who had made woollen manufactories and cotton the subject of his observation and reflection, have ever discovered thereby the nature of the silkworm or of silk.
 
 Hence all the most noble discoveries have (if you observe) come to light, not by any gradual improvement and extension of the arts, but merely by chance; while nothing imitates or anticipates chance (which is wont to act at intervals of ages) but the invention of forms.
 
@@ -35,24 +37,34 @@ Again, in these instances which we term the wit and hands of man, charms and con
 
 Lastly, superstition and magic (in its common acceptation) are not to be entirely omitted; for although they be overwhelmed by a mass of lies and fables, yet some investigation should be made, to see if there be really any latent natural operation in them; as in fascination, and the fortifying of the imagination, the sympathy of distant objects, the transmission of impressions from spirit to spirit no less than from body to body, and the like.
 
-XXXII. From the foregoing remarks, it is clear that the last five species of instances (the similar, singular, deviating and bordering instances, and those of power) should not be reserved for the investigation of any given nature, as the preceding and many of the succeeding instances must, but a collection of them should be made at once, in the style of a particular history, so that they may arrange the matter which enters the understanding, and correct its depraved habit, for it is necessarily imbued, corrupted, perverted and distorted by daily and habitual impressions.
+
+{{< s v="32" >}} The last 5 species of instances (the similar, singular, deviating and bordering instances, and those of power) should not be reserved for the investigation of any given nature. 
+
+This is just as the preceding and many of the succeeding instances must, but a collection of them should be made at once, in the style of a particular history, so that they may arrange the matter which enters the understanding, and correct its depraved habit, for it is necessarily imbued, corrupted, perverted and distorted by daily and habitual impressions.
 
 They are to be used, therefore, as a preparative, for the purpose of rectifying and purifying the understanding; for whatever withdraws it from habit, levels and planes down its surface for the reception of the dry and pure light of true notions.
 
 These instances, moreover, level and prepare the way[186] for the operative branch, as we will mention in its proper place when speaking of the practical deductions.
 
 
+## The accompanying and hostile instances
 
-XXXIII. In the eleventh rank of prerogative instances we will place accompanying and hostile instances. These are such as exhibit any body or concrete, where the required nature is constantly found, as an inseparable companion, or, on the contrary, where the required nature is constantly avoided, and excluded from attendance, as an enemy. From these instances may be formed certain and universal propositions, either affirmative or negative; the subject of which will be the concrete body, and the predicate the required nature. For particular propositions are by no means fixed, when the required nature is found to fluctuate and change in the concrete, either approaching and acquired, or receding and laid aside. Hence particular propositions have no great prerogative, except in the case of migration, of which we have spoken above. Yet such particular propositions are of great use, when compared with the universal, as will be mentioned in its proper place. Nor do we require absolute affirmation or negation, even in universal propositions, for if the exceptions be singular or rare, it is sufficient for our purpose.
+{{< s v="33" >}} These exhibit any body or concrete, where the required nature is constantly found, as an inseparable companion, or, on the contrary, where the required nature is constantly avoided, and excluded from attendance, as an enemy.
+
+From these instances may be formed certain and universal propositions, either affirmative or negative; the subject of which will be the concrete body, and the predicate the required nature. For particular propositions are by no means fixed, when the required nature is found to fluctuate and change in the concrete, either approaching and acquired, or receding and laid aside. Hence particular propositions have no great prerogative, except in the case of migration, of which we have spoken above. Yet such particular propositions are of great use, when compared with the universal, as will be mentioned in its proper place. Nor do we require absolute affirmation or negation, even in universal propositions, for if the exceptions be singular or rare, it is sufficient for our purpose.
 
 The use of accompanying instances is to narrow the affirmative of form; for as it is narrowed by the migrating instances, where the form must necessarily be something communicated or destroyed by the act of migration, so it is narrowed by accompanying instances, where the form must necessarily be something which enters into the concretion of the body, or, on the contrary, is repugnant to it; and one who is well acquainted with the constitution or formation of the body, will not be far from bringing to light the form of the required nature.
-
-[187]
 
 For example: let the required nature be heat. Flame is an accompanying instance; for in water, air, stone, metal, and many other substances, heat is variable, and can approach or retire; but all flame is hot, so that heat always accompanies the concretion of flame. We have no hostile instance of heat; for the senses are unacquainted with the interior of the earth, and there is no concretion of any known body which is not susceptible of heat.
 
 Again, let solidity be the required nature. Air is a hostile instance; for metals may be liquid or solid, so may glass; even water may become solid by congelation, but air cannot become solid or lose its fluidity.
 
-With regard to these instances of fixed propositions, there are two points to be observed, which are of importance. First, that if there be no universal affirmative or negative, it be carefully noted as not existing. Thus, in heat, we have observed that there exists no universal negative, in such substances, at least, as have come to our knowledge. Again, if the required nature be eternity or incorruptibility, we have no universal affirmative within our sphere, for these qualities cannot be predicated of any bodies below the heavens, or above the interior of the earth. Secondly, to our general propositions as to any concrete, whether affirmative or negative, we should subjoin the concretes which appear to approach nearest to the non-existing substances; such as the most gentle or least-burning flames in heat, or gold in incorruptibility, since it approaches nearest to it. For they all serve to show the limit of existence and non-existence, and circumscribe forms, so that they cannot wander beyond the conditions of matter.
+With regard to these instances of fixed propositions, there are 2 important points:
 
+1. If there be no universal affirmative or negative, it be carefully noted as not existing. 
 
+Thus, in heat, we have observed that there exists no universal negative, in such substances, at least, as have come to our knowledge. Again, if the required nature be eternity or incorruptibility, we have no universal affirmative within our sphere, for these qualities cannot be predicated of any bodies below the heavens, or above the interior of the earth. 
+
+2. To our general propositions as to any concrete, whether affirmative or negative, we should subjoin the concretes which appear to approach nearest to the non-existing substances; 
+
+Examples are the most gentle or least-burning flames in heat, or gold in incorruptibility, since it approaches nearest to it. For they all serve to show the limit of existence and non-existence, and circumscribe forms, so that they cannot wander beyond the conditions of matter.

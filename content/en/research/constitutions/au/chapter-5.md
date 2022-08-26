@@ -4,10 +4,6 @@ heading: "Chapter 5 of Australia's Constitution Simplified"
 date: 2021-11-20
 image: "/flags/au.png"
 description: "The Constitution of each State of the Commonwealth shall, subject to this Constitution, continue as at the establishment of the Commonwealth"
-linkb: /research/constitutions/au/
-linkbtext: "Index"
-linkf: /research/constitutions/au/
-linkftext: "Index"
 icon: "/flags/au.png"
 ---
 
