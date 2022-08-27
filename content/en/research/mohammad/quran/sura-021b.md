@@ -1,13 +1,9 @@
 ---
-title: "THE PROPHETS"
+title: "The Prophets"
 heading: "Sura 21b of the Quran Simplified"
-date: 2022-01-03
+date: 2021-10-10
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-021a
-linkbtext: "sura 21a"
-linkf: /research/mohammad/quran/sura-022a
-linkftext: "sura 22a"
 ---
 
 

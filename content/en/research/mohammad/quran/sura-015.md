@@ -1,13 +1,9 @@
 ---
-title: "THE ROCK (al-Hijr)"
+title: "The Rock (al-Hijr)"
 heading: "Sura 15a of the Quran Simplified"
-date: 2021-11-20
+date: 2021-11-30
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 

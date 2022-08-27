@@ -1,14 +1,11 @@
 ---
 title: "Victory, Thorns, Monotheism, Daybreak, Mankind"
-heading: "Sura 2a of the Quran Simplified"
-date: 2021-09-16
+heading: "Sura 110-113 of the Quran Simplified"
+date: 2021-04-16
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-105
-linkbtext: "sura-105"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
+
 
 
 ## 110. VICTORY (an-Nasr)

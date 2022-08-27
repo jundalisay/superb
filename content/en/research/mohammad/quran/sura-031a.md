@@ -1,13 +1,9 @@
 ---
-title: "LUQMAN (Luqman)"
+title: "Luqman"
 heading: "Sura 31 of the Quran Simplified"
-date: 2021-12-25
+date: 2021-09-01
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 

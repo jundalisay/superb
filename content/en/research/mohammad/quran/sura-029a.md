@@ -1,13 +1,9 @@
 ---
-title: "THE SPIDER (al-’Ankabut)"
+title: "The Spider (al-’Ankabut)"
 heading: "Sura 29 of the Quran Simplified"
-date: 2021-12-27
+date: 2021-09-08
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
@@ -28,11 +24,14 @@ reward them according to the best of what they used to do.
 8. We have advised the human being to be good to his parents. But if they urge you to
 associate with Me something you have no knowledge of, do not obey them. To Me is
 your return; and I will inform you of what you used to do.
+
 {{< s v="9" >}}  Those who believe and do good works—We will admit them into the company of the righteous.
+
 {{< s v="10" >}}  Among the people is he who says, “We have believed in Allah.” Yet when he is
 harmed on Allah’s account, he equates the people's persecution with Allah’s retribution.
 And if help comes from your Lord, he says, “We were actually with you.” Is not Allah
 aware of what is inside the hearts of the people?
+
 {{< s v="11" >}}  Allah certainly knows those who believe, and He certainly knows the hypocrites.
 12. Those who disbelieve say to those who believe, “Follow our way, and we will carry your
 sins.” In no way can they carry any of their sins. They are liars.

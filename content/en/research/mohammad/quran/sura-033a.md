@@ -1,18 +1,15 @@
 ---
-title: "THE CONFEDERATES (al-Ahzab)"
+title: "The Confederates (al-Ahzab)"
 heading: "Sura 33 of the Quran Simplified"
-date: 2021-12-23
+date: 2021-08-28
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
 {{< s v="1" >}}  O Prophet! Fear Allah, and do not obey the unbelievers and the hypocrites. Allah is
 Knowledgeable and Wise.
+
 {{< s v="2" >}}  And follow what is revealed to you from your Lord. Allah is fully aware of what you do.
 {{< s v="3" >}}  And put your trust in Allah. Allah is enough as a trustee.
 {{< s v="4" >}}  Allah did not place two hearts inside any man's body. Nor did He make your wives
@@ -22,9 +19,8 @@ lah speaks the truth, and guides to the path.
 {{< s v="5" >}}  Call them after their fathers; that is more equitable with Allah. But if you do not know
 their fathers, then your brethren in faith and your friends. There is no blame on you if you
 err therein, barring what your hearts premeditates. Allah is Forgiving and Merciful.
-6. The Prophet is more caring of the believers than they are of themselves, and his wives are
-mothers to them. And blood-relatives are closer to one another in Allah’s Book than the
-believers or the emigrants, though you should do good to your friends. That is inscribed in the Book.
+
+6. The Prophet is more caring of the believers than they are of themselves, and his wives are mothers to them. And blood-relatives are closer to one another in Allah’s Book than the believers or the emigrants, though you should do good to your friends. That is inscribed in the Book.
 
 7. Recall that We received a pledge from the prophets, and from you, and from Noah, and
 Abraham, and Moses, and Jesus son of Mary. 
@@ -33,13 +29,13 @@ We received from them a solemn pledge.
 
 8. That He may ask the sincere about their sincerity. He has prepared for the disbelievers a
 painful punishment.
-{{< s v="9" >}}  Muslims,  Remember Allah’s blessings upon you, when forces came against
-you, and We sent against them a wind, and forces you did not see. Allah is Observant of
-what you do.
-{{< s v="10" >}}  When they came upon you, from above you, and from beneath you; and the eyes be-
-came dazed, and the hearts reached the throats, and you harbored doubts about Allah.
-{{< s v="11" >}}  There and then the believers were tested,
-and were shaken most severely.
+
+{{< s v="9" >}}  Muslims,  Remember Allah’s blessings upon you, when forces came against you, and We sent against them a wind, and forces you did not see. Allah is Observant of what you do.
+
+{{< s v="10" >}}  When they came upon you, from above you, and from beneath you; and the eyes became dazed, and the hearts reached the throats, and you harbored doubts about Allah.
+
+{{< s v="11" >}}  There and then the believers were tested, and were shaken most severely.
+
 12. When the hypocrites and those in whose
 hearts is sickness said, “Allah and His Mes-
 senger promised us nothing but illusion.”
@@ -116,40 +112,30 @@ compensate you, and release you kindly.
 the Home of the Hereafter, then Allah has
 prepared for the righteous among you a mag-
 nificent compensation.”
-30. O wives of the Prophet! Whoever of you
-commits a proven indecency, the punish-
-ment for her will be doubled. And that would
+
+30. O wives of the Prophet! Whoever of you commits a proven indecency, the punishment for her will be doubled. And that would
 be easy for Allah.
-15833. THE CONFEDERATES (al-Ahzab)
-But whoever of you remains obedient to
-Allah and His Messenger, and acts right-
-eously, We will give her a double reward; and
-We have prepared for her a generous provi-
-sion.
+
+But whoever of you remains obedient to Allah and His Messenger, and acts righteously, We will give her a double reward; and
+We have prepared for her a generous provision.
+
+
+<!-- 31.
+has ended. The command of Allah was fulfilled. -->
+
 32. O wives of the Prophet! You are not like
 any other women, if you observe piety. So do
 not speak too softly, lest the sick at heart lusts
-after you, but speak in an appropriate man-
-ner.
-33. And settle in your homes; and do not dis-
-play yourselves, as in the former days of igno-
-rance. And perform the prayer, and give reg-
-ular charity, and obey Allah and His Messen-
-ger. Allah desires to remove all impurity from
-you, O People of the Household, and to pu-
-rify you thoroughly.
+after you, but speak in an appropriate manner.
 
-34. And remember what is recited in your
-homes of Allah's revelations and wisdom. 
+33. And settle in your homes; and do not display yourselves, as in the former days of ignorance. And perform the prayer, and give regular charity, and obey Allah and His Messenger. Allah desires to remove all impurity from
+you, O People of the Household, and to purify you thoroughly.
 
-35. Muslim men and Muslim women, believing men and believing women, obedient men
-and obedient women, truthful men and truthful women, patient men and patient
-women, humble men and humble women, charitable men and charitable women, fast-
-ing men and fasting women, men who guard
-their chastity and women who guard, men
-who remember Allah frequently and women
-who remember—Allah has prepared for
-them a pardon, and an immense reward.
+34. And remember what is recited in your homes of Allah's revelations and wisdom. 
+
+35. Muslim men and Muslim women, believing men and believing women, obedient men and obedient women, truthful men and truthful women, patient men and patient women, humble men and humble women, charitable men and charitable women, fasting men and fasting women, men who guard
+their chastity and women who guard, men who remember Allah frequently and women
+who remember—Allah has prepared for them a pardon, and an immense reward.
 
 36. It is not for any believer, man or woman, when Allah and His Messenger have decided
 a matter, to have liberty of choice in their decision. 
@@ -162,9 +148,6 @@ you feared the people, but it was Allah you were supposed to fear. Then, when Za
 ended his relationship with her, We gave her to you in marriage, that there may be no re-
 striction for believers regarding the wives of their adopted sons, when their relationship
 
-31.
-has ended. The command of Allah was ful-
-filled.
 
 38. There is no blame on the Prophet regard-
 ing what Allah has ordained for him. Such is
@@ -273,18 +256,20 @@ change in Allah’s system.
 
 63. The people ask you about the Hour. Say, “The knowledge thereof rests with Allah. But
 what do you know? Perhaps the hour is near.”
-64. Allah has cursed the disbelievers, and has
-prepared for them a Blaze.
+64. Allah has cursed the disbelievers, and has prepared for them a Blaze.
+
 65. Dwelling therein forever, not finding a
 protector or a savior.
+
 66. The Day when their faces are flipped into
 the Fire, they will say, “If only we had obeyed
 Allah and obeyed the Messenger.”
-67. And they will say, “Lord, we have obeyed
-our superiors and our dignitaries, but they
+
+67. And they will say, “Lord, we have obeyed our superiors and our dignitaries, but they
 led us away from the way.
-68. Lord, give them double the punishment,
-and curse them with a great curse.”
+
+68. Lord, give them double the punishment, and curse them with a great curse.”
+
 69. Muslims,  Do not be like those
 who abused Moses; but Allah cleared him of
 what they said. He was distinguished with Al-
@@ -292,7 +277,7 @@ lah.
 
 70. Speak in a straightforward manner.
 
-71. He will rectify your conduct for you, and will forgive you your sins. Whoever obeys Al-
+<!-- 71. He will rectify your conduct for you, and will forgive you your sins. Whoever obeys Al-
 lah and His Messenger has won a great victory.
 
 72. We offered the Trust to the heavens, and the earth, and the mountains; but they re-
@@ -303,5 +288,5 @@ fair and ignorant.
 women, and the idolaters, men and women.
 And Allah will redeem the believers, men and
 women. Allah is Ever-Forgiving, Most Mer-
-ciful.
+ciful. -->
 

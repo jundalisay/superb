@@ -1,13 +1,9 @@
 ---
-title: "THUNDER (ar-Ra’d)"
+title: "Thunder (ar-Ra’d)"
 heading: "Sura 13a of the Quran Simplified"
-date: 2021-11-22
+date: 2021-12-05
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
@@ -25,6 +21,7 @@ placed in it mountains and rivers. And He
 placed in it two kinds of every fruit. He causes
 the night to overlap the day. In that are signs
 for people who reflect. -->
+
 
 {{< s v="4" >}}  On earth are adjacent terrains, and gardens of vines, and crops, and date-palms, from the
 same root or from distinct roots, irrigated with the same water. 

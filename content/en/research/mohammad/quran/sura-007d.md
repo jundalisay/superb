@@ -1,17 +1,13 @@
 ---
 title: "The 12 Tribes of Israel"
-heading: "Sura 7e of the Quran Simplified"
+heading: "Sura 7d of the Quran Simplified"
 date: 2021-12-29
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/sura-002b
-linkftext: "sura-002b"
 ---
 
 
-159. Among the people of Moses is a community that guides by truth, and thereby does justice.
+{{< s v="159" >}} Among the people of Moses is a community that guides by truth, and thereby does justice.
 
 160. We divided them into 12 tribes. The people asked Moses for something to drink and so We told him to strike the rock with your staff.
 

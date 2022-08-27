@@ -1,13 +1,9 @@
 ---
-title: "JONAH (Yunus)"
+title: "Jonah (Yunus)"
 heading: "Sura 10 of the Quran Simplified"
-date: 2021-11-28
+date: 2021-12-20
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/sura-002b
-linkftext: "sura-002b"
 ---
 
 

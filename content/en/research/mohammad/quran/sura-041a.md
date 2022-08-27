@@ -1,13 +1,9 @@
 ---
-title: "DETAILED (Fussilat)"
+title: "Detailed (Fussilat)"
 heading: "Sura 41a of the Quran Simplified"
-date: 2021-12-17
+date: 2021-08-09
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 

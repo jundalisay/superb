@@ -1,14 +1,12 @@
 ---
-title: "THE SPOILS (al-Anfal)"
+title: "The Spoils (al-Anfal)"
 heading: "Sura 8a of the Quran Simplified"
 date: 2021-12-28
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
+
+
 
 {{< s v="1" >}}  They ask you about the bounties. Reply: “The bounties are for Allah and the Messenger.” 
 
@@ -22,7 +20,7 @@ linkftext: "Index"
 - {{< s v="3" >}} who perform the prayer
 - spend from Our provisions to them.
 
-{{< s v="4" >}}  These are the true believers. They have:
+{{< s v="4" >}} These are the true believers. They have:
 - high standing with their Lord
 - forgiveness
 - a generous provision.

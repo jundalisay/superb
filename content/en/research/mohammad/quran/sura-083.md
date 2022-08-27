@@ -1,14 +1,11 @@
 ---
-title: "THE DEFRAUDERS (al-Mutaffifin)"
+title: "The Defrauders (al-Mutaffifin)"
 heading: "Sura 83a of the Quran Simplified"
-date: 2021-09-28
+date: 2021-04-30
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-081
-linkbtext: "Index"
-linkf: /research/mohammad/quran/sura-084
-linkftext: "Index"
 ---
+
 
 
 {{< s v="1-3" >}}

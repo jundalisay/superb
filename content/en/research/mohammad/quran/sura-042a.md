@@ -1,13 +1,9 @@
 ---
-title: "CONSULTATION (ash-Shura)"
+title: "Consultation (ash-Shura)"
 heading: "Sura 42a of the Quran Simplified"
-date: 2021-12-16
+date: 2021-08-05
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 

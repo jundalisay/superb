@@ -1,14 +1,11 @@
 ---
 title: "Judgment Day"
 heading: "Sura 20c of the Quran Simplified"
-date: 2022-01-04
+date: 2021-10-18
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-020b
-linkbtext: "sura-020b"
-linkf: /research/mohammad/quran/sura-021a
-linkftext: "sura-021a"
 ---
+
 
 <!-- 100. Whoever turns away from it will carry on the Day of Resurrection a burden.
 101. Abiding therein forever. And wretched is

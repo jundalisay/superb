@@ -1,13 +1,9 @@
 ---
 title: "Moses and Zul-Qarnain"
 heading: "Sura 18b of the Quran Simplified"
-date: 2022-01-29
+date: 2021-11-05
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-018b
-linkbtext: "sura-018b"
-linkf: /research/mohammad/quran/sura-019
-linkftext: "sura-019"
 ---
 
 

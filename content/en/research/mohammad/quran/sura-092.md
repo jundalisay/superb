@@ -1,17 +1,13 @@
 ---
 title: "The Night and Morning Light"
 heading: "Sura 92 of the Quran Simplified"
-date: 2021-09-22
+date: 2021-04-22
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-090
-linkbtext: "Index"
-linkf: /research/mohammad/quran/sura-095
-linkftext: "Index"
 ---
 
 
-## 92. THE NIGHT (al-Layl)
+## 92. The Night (al-layl)
 
 
 {{< s v="1-3" >}}

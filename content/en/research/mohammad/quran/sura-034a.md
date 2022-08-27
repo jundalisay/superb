@@ -1,13 +1,9 @@
 ---
-title: "SHEBA (Saba’)"
+title: "Sheba (Saba’)"
 heading: "Sura 34 of the Quran Simplified"
-date: 2021-12-22
+date: 2021-08-25
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 

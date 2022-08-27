@@ -1,13 +1,9 @@
 ---
-title: "JOSEPH (Yusuf)"
+title: "Joseph (Yusuf)"
 heading: "Sura 12a of the Quran Simplified"
-date: 2021-11-24
+date: 2021-12-11
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 

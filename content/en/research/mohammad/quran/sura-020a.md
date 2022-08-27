@@ -1,13 +1,9 @@
 ---
 title: "Moses (Ta-Ha)"
 heading: "Sura 20a of the Quran Simplified"
-date: 2022-01-04
+date: 2021-10-25
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-019b
-linkbtext: "sura-019b"
-linkf: /research/mohammad/quran/sura-020b
-linkftext: "sura-020b"
 ---
 
 

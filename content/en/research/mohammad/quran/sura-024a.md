@@ -1,14 +1,11 @@
 ---
-title: "THE LIGHT (an-Nur)"
+title: "The Light (an-Nur)"
 heading: "Sura 24 of the Quran Simplified"
-date: 2021-12-31
+date: 2021-09-25
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
+
 
 {{< s v="1" >}}  A chapter that We have revealed, and made obligatory, and revealed in it clear Verses,
 that you may take heed.

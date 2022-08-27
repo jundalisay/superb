@@ -1,13 +1,9 @@
 ---
-title: "THE NIGHTLY VISITOR and THE MOST HIGH"
+title: "The Nightly Visitor and The Most High"
 heading: "Sura 86a of the Quran Simplified"
-date: 2021-09-25
+date: 2021-04-25
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-085
-linkbtext: "sura-085"
-linkf: /research/mohammad/quran/sura-088
-linkftext: "sura-088"
 ---
 
 
@@ -32,7 +28,7 @@ them.
 
 
 
-## 87. THE MOST HIGH (al-A’la)
+## 87. The Most High (al-a’la)
 
 {{< s v="2" >}}  Allah creates and regulates.
 

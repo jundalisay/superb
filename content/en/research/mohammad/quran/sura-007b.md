@@ -1,13 +1,9 @@
 ---
-title: "THE ELEVATIONS (al-A’raf)"
-heading: "Sura 7a of the Quran Simplified"
+title: "The Elevations (al-A’raf)"
+heading: "Sura 7b of the Quran Simplified"
 date: 2021-12-31
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
@@ -44,17 +40,13 @@ lah, Lord of all beings. -->
 
 56. Do not corrupt on earth after its reformation, and pray to Him with fear and hope.
 
-57. It is He who sends the wind ahead of His mercy. Then, when they have gathered up
-heavy clouds, We drive them to a dead land, where We make water come down, and with
-it We bring out all kinds of fruits. 
+57. It is He who sends the wind ahead of His mercy. Then, when they have gathered up heavy clouds, We drive them to a dead land, where We make water come down, and with it We bring out all kinds of fruits. 
 
 Thus We bring out the dead—perhaps you will reflect.
 
 58. The good land yields its produce by the leave of its Lord. 
 
-But as for the bad, it produces nothing but hardship and misery.
-Thus We explain the revelations in various
-ways for people who are thankful.
+But as for the bad, it produces nothing but hardship and misery. Thus We explain the revelations in various ways for people who are thankful.
 
 59. We sent Noah to his people. He said, 
 

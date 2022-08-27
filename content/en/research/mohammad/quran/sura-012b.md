@@ -1,14 +1,11 @@
 ---
 title: "Joseph in Prison"
-heading: "Sura 2e of the Quran Simplified"
-date: 2021-11-23
+heading: "Sura 12b of the Quran Simplified"
+date: 2021-12-08
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
+
 
 
 36. Two youths entered the prison with Joseph.

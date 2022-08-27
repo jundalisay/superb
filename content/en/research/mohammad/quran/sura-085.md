@@ -1,13 +1,9 @@
 ---
-title: "THE CONSTELLATIONS (al-Buruj)"
+title: "The Constellations (al-Buruj)"
 heading: "Sura 85 of the Quran Simplified"
-date: 2021-09-26
+date: 2021-04-26
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-084
-linkbtext: "sura-084"
-linkf: /research/mohammad/quran/sura-086
-linkftext: "sura-086"
 ---
 
 

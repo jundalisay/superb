@@ -1,14 +1,11 @@
 ---
 title: "Mohammad Frowned (Abasa)"
 heading: "Sura 80 of the Quran Simplified"
-date: 2021-09-30
+date: 2021-05-03
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-079
-linkbtext: "Sura 79"
-linkf: /research/mohammad/quran/sura-081
-linkftext: "sura-081"
 ---
+
 
 
 [The Prophet Mohammad was trying to spread Islam to an influential member of the Quraysh]

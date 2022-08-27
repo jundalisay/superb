@@ -16,59 +16,73 @@ aliases:
 ---
 
 
-A [previous post](/material/fallacies/general-relativity) explained how the error in Einstien's E = mc^2 led to the universal equation of Superphysics. 
+
+The Law of Conservation of Idea explained that:
+- all ideas are unique
+- all movement comes from the idea repelling or attracting others due to its inherent dharma or true nature
+
+We notate this inherent dharma as `G` which stands for a **gravitational signature**. This signature causes a thing to "gravitate" towards or away from another thing. 
+
+This means that everything in existence has a `G`, whether it be a rock, a car, a virus, an opinion, a soul, a belief, a civilization, etc.  This `G` dictates its movement, as kinetic energy, and its pre-movement, as potential energy. 
+- We call the kinetic energy as `F` force or `O` effort
+- We call the potential energy as `E` of energy
+
+Superphysics divides reality into 5 layers `l` where all gravitational signatures exist in. This means that all `G` takes place in a layer or `l`. 
+
+<!-- A [previous post](/material/fallacies/general-relativity) explained how the error in Einstien's E = mc^2 led to the universal equation of Superphysics. 
 
 By fixing Einstein's error, the speed of light no longer becomes a constant. Without this constant, the principles of motion no longer gets a sequential or linear speed limit. They can now extend onto the metaphysical dimension where motion manifests as the movement of minds and feelings which are never constant nor strictly linear by nature. 
 
-At this minute, you might feel happy. But in the next minute, you might remember something that would suddenly make you sad, or teleport your mind nonlinearly into a state of sadness. 
+At this minute, you might feel happy. But in the next minute, you might remember something that would suddenly make you sad, or teleport your mind nonlinearly into a state of sadness.  -->
 
 
-## Based on G
+<!-- ## Based on G
 
-This potential linear or nonlinear movement is responsible for the shifting of public opinion, market prices, policy changes, health and disease, the rise and fall of civilizations, etc. and can be simplified as E = G{{< sub v="l" >}}.
+This potential linear or nonlinear movement is responsible for the shifting of public opinion, market prices, policy changes, health and disease, the rise and fall of civilizations, etc. and can be simplified as --> We notate this as E = G{{< sub v="l" >}}.
 
 ![E = Gl](/graphics/eglrest.png)
 
-- E is inherent energy and represents potentiality
-- G is the dharma of the thing (as gravitational signature). This represents Shiva or Yang
-- {{< sub v="l" >}} is [the physical layer](/material/principles/five-layers) where the thing lies or occurs. This represents the confinement by Shakti-Yin on Shiva-Yang
+- `E` is inherent energy and represents potentiality
+- `G` is the dharma of the thing (as gravitational signature). This represents Shiva or Yang
+- {{< sub v="l" >}} is the physical layer where the thing lies or occurs. This represents the confinement by Shakti-Yin on Shiva-Yang
 
-We can call this equation as "eagle" as it is written with the letters E G l. 
+We can call this equation as "eagle" as it is written with the letters `E G l`. 
 
-It predicts the movement of anything by knowing its G or [dharma or true nature](/social/economics/principles/invisible-hand) relative to other G's within the same layer and/or the immediate layer above it. 
+It predicts the movement of anything by knowing its `G` or [dharma or true nature](/social/economics/principles/invisible-hand) relative to other `G`'s within the same layer and/or the immediate layer above it. 
 
 
 ![The Eagle](/graphics/econ/eagle.jpg)
 
 {{< box >}}
-<h3>The Eagle Standard</h3>
-<img src="/photos/objects/aquila.jpg" alt="Aquila on a staff">
+### The Eagle Standard
 
-<p>The idea for the eagle came from the eagle standard of the Roman legions.</p>
+![Aquila on a staff](/photos/objects/aquila.jpg)
 
-<p>Historians wrote how the legions would rally around their eagle symbol and protect it with all their might. Our E = G{{< sub v="l" >}} equation is centered on G which represents Socrates' true nature or dharma, which is a central belief in Buddhism, Hinduism, and Taoism.</p>
+The idea for the eagle came from the eagle standard of the Roman legions.
 
-<p>Buddhists are urged to keep the wheel of dharma turning at all costs, just as Socrates' guardians are supposed to keep up their mastery of true philosophy. This is because if dharma or true philosophy stops, then society would likely degrade into selfish animal behavior and the love for matter (materialism) filled with vices, gambling, destruction, wars, crises, etc. instead of love for the Aether (the material of mind of God)</p> 
+Historians wrote how the legions would rally around their eagle symbol and protect it with all their might. Our eagle equation is centered on G which represents Socrates' true nature or dharma, which is a central belief in Buddhism, Hinduism, and Taoism.
 
-<p>This is why Superphysics is totally against the German Albert Einstein who not only reduced the aether to nothing, but also pushed for nuclear weapons which could lead to nuclear war. We place his intellectual evil on the same rank as the political evil of the other German, Adolf Hilter. (Our definition of evil is based on the strength of the ego)</p>
+Buddhists are urged to keep the wheel of dharma turning at all costs, just as Socrates' guardians are supposed to keep up their mastery of true philosophy. This is because if dharma or true philosophy stops, then society would likely degrade into selfish animal behavior and the love for matter (materialism) filled with vices, gambling, destruction, wars, crises, etc. instead of love for the Aether (the material of mind of God)
 
-<p>If the dharma of societies stop, then they go to war and destroy each other. If the dharma of your car stops, then it breaks down, leaving you in the middle of nowhere. If the dharma of your body stops, then you get sick unable to do anything useful.</p>
+This is why Superphysics is totally against the German Albert Einstein who not only reduced the aether to nothing, but also pushed for nuclear weapons which could lead to nuclear war. We place his intellectual evil on the same rank as the political evil of the other German, Adolf Hilter. (Our definition of evil is based on the strength of the ego)
 
-<p>Rallying around the dharma and making an effort to keep it up would be similar to how the legions worked hard to secure their eagle from their barbarian enemies. In machines, this would be preventive maintenance. In health, it would be a healthy lifestyle, as 'prevention is better than cure'.</p> 
+If the dharma of societies stop, then they go to war and destroy each other. If the dharma of your car stops, then it breaks down, leaving you in the middle of nowhere. If the dharma of your body stops, then you get sick unable to do anything useful.
 
-<p>Dharma then leads to related concepts like sustainability, harmony, long happy lives, and making the idea of wars and crisis obsolete (just as typewriters are obsolete and are in museums   than offices).</p>
+Rallying around the dharma and making an effort to keep it up would be similar to how the legions worked hard to secure their eagle from their barbarian enemies. In machines, this would be preventive maintenance. In health, it would be a healthy lifestyle, as 'prevention is better than cure'.
+
+Dharma then leads to related concepts like sustainability, harmony, long happy lives, and making the idea of wars and crisis obsolete (just as typewriters are obsolete and are in museums   than offices).
 {{< /box >}}
 
 <!-- <br><br>If G is neglected in the metaphysical dimension, then selfish-interest will slowly creep in, manifesting as blind belief, oligrachy, liberalism (or libertarianism), and then tyranny.<br> If G is neglected in the physical dimension, then inferior theories and technologies will dominate. An example is rocketry which dangerous, expensive, and is unable to allow travel to other galaxies.  -->
 
 
-The job of knowing or discovering this G and predicting its movement-results is done by specific sciences:
+The job of knowing or discovering this `G` and predicting its movement-results is done by specific sciences:
 
-- E = G{{< sub v="l" >}} in the material layer manifests as w = mg and is discovered by high school and university-level Physics
-  - w (weight) is inherent E (energy)
-  - m (mass) is G 
-  - g is the domain of Earth's gravity where the object lies 
-- E = G{{< sub v="l" >}} in the electromagnetic layer manifests as E = mc{{< s v="2" >}} and is discovered by graduate-level Physics. G becomes m, and {{< sub v="l" >}} becomes c{{< s v="2" >}} which represents the speed limit of Minkowski's four-dimensional space 
+- `E = G{{< sub v="l" >}}` in the material layer manifests as `w = mg` and is discovered by high school and university-level Physics
+  - `w` (weight) is inherent `E` (energy)
+  - `m` (mass) is `G` 
+  - `g` is the domain of Earth's gravity where the object lies 
+- `E = G{{< sub v="l" >}}`` in the electromagnetic layer manifests as `E = mc{{< s v="2" >}}`` and is discovered by graduate-level Physics. G becomes m, and {{< sub v="l" >}} becomes c{{< s v="2" >}} which represents the speed limit of Minkowski's four-dimensional space 
 - E = G{{< sub v="l" >}} in the gravitational layer manifests as E = G{{< sub v="AB">}} and will be discovered by research institutions, where B and A are locational properties within spacetime of the same G
 
 ![The five layers](https://sorasystem.sirv.com/graphics/layersegl.png)

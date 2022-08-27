@@ -1,14 +1,11 @@
 ---
-title: "THE BELIEVERS (al-Mu’minun)"
+title: "The Believers (al-Mu’minun)"
 heading: "Sura 23 of the Quran Simplified"
-date: 2022-01-01
+date: 2021-09-30
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
+
 
 {{< s v="1" >}} Successful are the believers who:
 - {{< s v="2" >}} are humble in their prayers.

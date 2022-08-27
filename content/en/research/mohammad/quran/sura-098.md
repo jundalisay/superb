@@ -1,17 +1,12 @@
 ---
-title: "CLEAR EVIDENCE"
-heading: "Sura 3b of the Quran Simplified"
-date: 2021-09-19
+title: "Clear Evidence (al-bayyinah) And The Quake (az-Zalzalah)"
+heading: "Sura 98 of the Quran Simplified"
+date: 2021-04-19
 image: "/covers/quran.jpg"
 description: "The Prophet Mohammad tries to connect the historical Imran family to his Islam."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
-##  98. CLEAR EVIDENCE (al-Bayyinah)
 
 Those who disbelieved among the People of the Scripture and the polytheists were not to be parted [from misbelief] 1828 until
 there came to them clear evidence –

@@ -1,13 +1,9 @@
 ---
-title: "THE DUNES (al-Ahqaf)"
+title: "The Dunes (al-Ahqaf)"
 heading: "Sura 46a of the Quran Simplified"
-date: 2021-12-12
+date: 2021-07-22
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-045
-linkbtext: "sura-045"
-linkf: /research/mohammad/quran/sura-048
-linkftext: "sura-048"
 ---
 
 

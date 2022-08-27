@@ -1,13 +1,9 @@
 ---
 heading: "Sura 11b of the Quran Simplified"
 title: "Shuaib's Dialogue"
-date: 2021-11-25
+date: 2021-12-13
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-011a
-linkbtext: "Sura 11a"
-linkf: /research/mohammad/quran/sura-012a
-linkftext: "Sura 12a"
 ---
 
 

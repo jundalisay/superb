@@ -4,10 +4,6 @@ heading: "Sura 17a of the Quran Simplified"
 date: 2021-11-17
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-016b
-linkbtext: "Sura 16b"
-linkf: /research/mohammad/quran/sura-017b
-linkftext: "Syra 17b"
 ---
 
 

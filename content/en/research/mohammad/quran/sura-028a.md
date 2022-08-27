@@ -1,13 +1,9 @@
 ---
-title: "HISTORY (al-Qasas)"
+title: "History (al-Qasas)"
 heading: "Sura 28 of the Quran Simplified"
-date: 2021-12-28
+date: 2021-09-10
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
@@ -15,6 +11,7 @@ linkftext: "Index"
 {{< s v="4" >}}  Pharaoh exalted himself in the land, and divided its people into factions. He persecuted
 a group of them, slaughtering their sons, while sparing their daughters. He was truly a
 corrupter.
+
 {{< s v="5" >}}  But We desired to favor those who were oppressed in the land, and to make them lead-
 ers, and to make them the inheritors.
 
@@ -27,10 +24,13 @@ the messengers.”
 
 8. Pharaoh’s household picked him up, to be an opponent and a sorrow for them. Pharaoh,
 Hamaan, and their troops were sinners.
+
 {{< s v="9" >}}  Pharaoh’s wife said, “An eye's delight for me and for you. Do not kill him; perhaps he will
 be useful to us, or we may adopt him as a son.” But they did not foresee.
+
 {{< s v="10" >}}  The heart of Moses’ mother became vacant. She was about to disclose him, had We not
 steadied her heart, that she may remain a believer.
+
 {{< s v="11" >}}  She said to his sister, “Trail him.” So she watched him from afar, and they were unaware.
 
 12. We forbade him breastfeeding at first. So she said, “Shall I tell you about a family that
@@ -74,67 +74,40 @@ very old man.”
 24. So he drew water for them, and then withdrew to the shade, and said, “My Lord, I am
 in dire need of whatever good you might send down to me.”
 
-25. Then, one of the two women approached him, walking bashfully. She said, “My father
-is calling you, to reward you for drawing water for us.” And when he came to him, and
-told him the story, he said, “Do not fear, you have escaped from the wrongdoing people.”
+25. Then, one of the two women approached him, walking bashfully. She said, “My father is calling you, to reward you for drawing water for us.” And when he came to him, and told him the story, he said, “Do not fear, you have escaped from the wrongdoing people.”
 
 26. One of the two women said, “Father, hire him; the best employee for you is the strong
 and trustworthy.”
 
-27. He said, “I want to marry you to one of these two daughters of mine, provided you
-work for me for eight years. But if you complete ten, that is up to you. I do not intend to
-impose any hardship on you. You will find me, Allah willing, one of the righteous.”
+27. He said, “I want to marry you to one of these two daughters of mine, provided you work for me for eight years. But if you complete ten, that is up to you. I do not intend to impose any hardship on you. You will find me, Allah willing, one of the righteous.”
 
-28. He said, “Let this be an agreement between you and me. Whichever of the two terms I
-fulfill, there shall be no reprisal against me; "
+28. He said, “Let this be an agreement between you and me. Whichever of the 2 terms I fulfill, there shall be no reprisal against me; "
 
-29. When Moses had completed the term, and
-departed with his family, he noticed a fire by
-the side of the Mount. He said to his family,
-“Stay here, I have glimpsed a fire. Perhaps I
-can bring you some information from there,
-or an ember from the fire, that you may warm
-yourselves.”
+29. When Moses had completed the term, and departed with his family, he noticed a fire by the side of the Mount. He said to his family, “Stay here, I have glimpsed a fire. Perhaps I can bring you some information from there, or an ember from the fire, that you may warm yourselves.”
 
-30. When he reached it, he was called from the
-right side of the valley, at the Blessed Spot,
-from the bush: “O Moses, it is I, Allah, the
-Lord of the Worlds.
+30. When he reached it, he was called from the right side of the valley, at the Blessed Spot,
+from the bush: “O Moses, it is I, Allah, the Lord of the Worlds.
 
-31. Throw down your staff.” And when he saw it wiggling, as if it were possessed, he turned
-his back to flee, and did not look back. “O Moses, come forward, and do not fear, you
-are perfectly safe.
+31. Throw down your staff.” And when he saw it wiggling, as if it were possessed, he turned his back to flee, and did not look back. “O Moses, come forward, and do not fear, you are perfectly safe.
 
-32. Put your hand inside your pocket, and it will come out white, without blemish. And
-press your arm to your side, against fear.
+32. Put your hand inside your pocket, and it will come out white, without blemish. And press your arm to your side, against fear.
 
-These are two proofs from your Lord, to
-Pharaoh and his dignitaries. They are truly
-sinful people.”
+These are two proofs from your Lord, to Pharaoh and his dignitaries. They are truly sinful people.”
 
-33. He said, “My Lord, I have killed one of
-them, and I fear they will kill me.
+33. He said, “My Lord, I have killed one of them, and I fear they will kill me.
 
-34. And my brother Aaron, he is more elo-
-quent than me, so send him with me, to help
-me, and to confirm my words, for I fear they
-will reject me.”
+34. And my brother Aaron, he is more eloquent than me, so send him with me, to help
+me, and to confirm my words, for I fear they will reject me.”
 
-35. He said, “We will strengthen your arm with
-your brother, and We will give you authority,
-so they will not touch you. By virtue of Our
-signs, you and those who follow you will be
+35. He said, “We will strengthen your arm with your brother, and We will give you authority,
+so they will not touch you. By virtue of Our signs, you and those who follow you will be
 the triumphant.”
 
-36. But when Moses came to them with Our
-signs, clear and manifest, they said, “This is
-nothing but fabricated magic, and We never
-heard of this from our ancestors of old.”
+36. But when Moses came to them with Our signs, clear and manifest, they said, “This is
+nothing but fabricated magic, and We never heard of this from our ancestors of old.”
 
-37. Moses said, “My Lord is well aware of him
-who brings guidance from Him, and him
-who will have the sequel of the abode. The
-wrongdoers will not succeed.”
+37. Moses said, “My Lord is well aware of him who brings guidance from Him, and him
+who will have the sequel of the abode. The wrongdoers will not succeed.”
 
 38. Pharaoh said, “O nobles, I know of no god for you other than me. So fire-up the bricks
 for me O Hamaan, and build me a tower, that I may ascend to the God of Moses, though I
@@ -200,49 +173,37 @@ your deeds; peace be upon you; we do not desire the ignorant.”
 Did We not establish for them a Safe Sanctuary, to which are brought all kinds of fruits,
 as provision from Ourselves? But most of them do not know.
 
-58. And how many a city did We destroy for turning unappreciative of its livelihood? Here
-are their homes, uninhabited after them, except for a few. And We became the Inheritors.
+58. And how many a city did We destroy for turning unappreciative of its livelihood? Here are their homes, uninhabited after them, except for a few. And We became the Inheritors.
 
 59. Your Lord never destroys cities without first sending a messenger in their midst, re-
 citing to them Our revelations. And We never destroy the cities, unless their people
 are wrongdoers.
 
-Whatever thing you are given is but the
-material of this world, and its glitter. But
-what is with Allah is better, and longer last-
-ing. Do you not comprehend?
+Whatever thing you are given is but the material of this world, and its glitter. But
+what is with Allah is better, and longer lasting. Do you not comprehend?
 
-61. Can someone to whom We have made a fine promise—which he will attain—be equal
-to someone to whom We have given enjoyments in this world, but who will be, on Res-
-urrection Day, among the arraigned?
+61. Can someone to whom We have made a fine promise—which he will attain—be equal to someone to whom We have given enjoyments in this world, but who will be, on Resurrection Day, among the arraigned?
 
 62. On the Day when He will call to them, and say, “Where are My associates whom you used to claim?”
 
-63. Those against whom the sentence is justified will say, “Our Lord, these are they whom
-we misled. We misled them, as we were mis-
-led. We beg Your forgiveness; it was not us
-they used to worship.”
+63. Those against whom the sentence is justified will say, “Our Lord, these are they whom we misled. We misled them, as we were misled. We beg Your forgiveness; it was not us they used to worship.”
+
 64. And it will be said, “Call on your partners.”
-And they will call on them, but they will not
-respond to them. And they will see the suffer-
-ing. If only they were guided.
-65. On the Day when He will call to them, and
-say, “What did you answer the Messengers?”
-66. They will be blinded by the facts on that
-Day, and they will not question each other.
-67. But he who repents, and believes, and does
-righteous deeds, may well be among the win-
-ners.
-68. Your Lord creates whatever He wills, and
-He chooses. The choice is not theirs. Glory be
-to Allah, and exalted be He above the associ-
-ations they make.
-69. And your Lord knows what their hearts
-conceal, and what they reveal.
-70. And He is Allah. There is no god but He.
-To Him belongs all praise in this life, and in
-the next. And His is the decision, and to Him
-you will be returned.
+And they will call on them, but they will not respond to them. And they will see the suffering. If only they were guided.
+
+65. On the Day when He will call to them, and say, “What did you answer the Messengers?”
+
+66. They will be blinded by the facts on that Day, and they will not question each other.
+
+67. But he who repents, and believes, and does righteous deeds, may well be among the winners.
+
+68. Your Lord creates whatever He wills, and He chooses. The choice is not theirs. Glory be
+to Allah, and exalted be He above the associations they make.
+
+69. And your Lord knows what their hearts conceal, and what they reveal.
+
+70. And He is Allah. There is no god but He. To Him belongs all praise in this life, and in
+the next. And His is the decision, and to Him you will be returned.
 
 71. Say, “Have you considered? Had Allah made the night perpetual over you until the
 Day of Resurrection, which god other than Allah will bring you illumination? Do you
@@ -256,38 +217,34 @@ and seek some of His bounty; and that you may give thanks.
 
 74. On the Day when He will call to them, and
 say, “Where are My associates whom you used to claim?”
-75. And We will draw out from every commu-
-nity a witness, and say, “Produce your evi-
-dence.” Then they will realize that the truth is
-Allah’s, and those they used to invent have
+
+75. And We will draw out from every community a witness, and say, “Produce your evi-
+dence.” Then they will realize that the truth is Allah’s, and those they used to invent have
 forsaken them.
-76. Quaroon belonged to the clan of Moses,
-but he oppressed them. We had given him
-treasures, the keys of which would weigh
-down a group of strong men. His people said
-to him, “Do not exult; Allah does not love the
-exultant.
-77. But seek, with what Allah has given you,
-the Home of the Hereafter, and do not ne-
-glect your share of this world. And be chari-
-table, as Allah has been charitable to you.
+
+76. Quaroon belonged to the clan of Moses, but he oppressed them. We had given him
+treasures, the keys of which would weigh down a group of strong men. His people said
+to him, “Do not exult; Allah does not love the exultant.
+
+77. But seek, with what Allah has given you, the Home of the Hereafter, and do not ne-
+glect your share of this world. And be charitable, as Allah has been charitable to you.
 And do not seek corruption in the land. Allah
 does not like the seekers of corruption.”
-78. He said, “I was given all this on account of
-knowledge I possess.” Did he not know that
-Allah destroyed many generations before
-him, who were stronger than he, and pos-
-sessed greater riches? But the guilty will not
+
+78. He said, “I was given all this on account of knowledge I possess.” Did he not know that
+Allah destroyed many generations before him, who were stronger than he, and possessed greater riches? But the guilty will not
 be asked about their sins.
+
 79. And he went out before his people in his
 splendor. Those who desired the worldly life
 said, “If only we possessed the likes of what
-Quaroon was given. He is indeed very fortu-
-nate.”
+Quaroon was given. He is indeed very fortunate.”
+
 80. But those who were given knowledge said,
 “Woe to you! The reward of Allah is better for
 those who believe and do righteous deeds.”
 Yet none attains it except the steadfast.
+
 81. So We caused the earth to cave in on him
 and his mansion. He had no company to save
 him from Allah, and he could not defend
@@ -300,29 +257,35 @@ He wills of His servants, and restricts it. Had
 Allah not been gracious to us, He would have
 caved in on us. No wonder the ungrateful
 never prosper.”
+
 83. That Home of the Hereafter—We assign it
 for those who seek no superiority on earth,
 nor corruption. And the outcome is for the
 cautious.
+
 84. Whoever brings a virtue will receive better
 than it. But whoever brings evil—the evildo-
 ers will be rewarded only according to what
 they used to do.
-85. He Who ordained the Quran for you will
+
+<!-- 85. He Who ordained the Quran for you will
 return you Home. Say, “My Lord knows best
 who comes with guidance, and who is in
 manifest error.”
+
 86. You did not expect the Scripture to be
 transmitted to you, except as mercy from
 your Lord. Therefore, do not be a supporter
 of the disbelievers.
+
 87. And do not let them divert you from Al-
 lah’s revelations after they have been revealed
 to you. And pray to your Lord, and never be
 of the polytheists.
+
+
 88. And do not invoke with Allah any other
 god. There is no god but He. All things per-
 ish, except His presence. His is the judgment,
 and to Him you will be returned.
-
-
+ -->

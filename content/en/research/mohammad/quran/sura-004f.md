@@ -1,13 +1,9 @@
 ---
-title: "Women (an-Nisa’)"
-heading: "Sura 4a of the Quran Simplified"
+title: "Islamic Justice"
+heading: "Sura 4f of the Quran Simplified"
 date: 2022-01-09
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 

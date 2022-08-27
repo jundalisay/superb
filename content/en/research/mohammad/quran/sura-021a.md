@@ -1,13 +1,9 @@
 ---
-title: "THE PROPHETS (al-Anbiya)"
+title: "The Prophets (al-Anbiya)"
 heading: "Sura 21a of the Quran Simplified"
-date: 2022-01-03
+date: 2021-10-15
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-020c
-linkbtext: "sura 20c"
-linkf: /research/mohammad/quran/sura-021b
-linkftext: "sura 21b"
 ---
 
 

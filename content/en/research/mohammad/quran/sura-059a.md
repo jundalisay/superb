@@ -1,13 +1,9 @@
 ---
-title: "THE MOBILIZATION (al-Hashr)"
+title: "The Mobilization (al-Hashr)"
 heading: "Sura 59a of the Quran Simplified"
-date: 2021-11-29
+date: 2021-06-20
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 

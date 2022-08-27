@@ -1,13 +1,9 @@
 ---
-title: "THE CHAMBERS (al-Hujurat)"
+title: "The Chambers (al-Hujurat)"
 heading: "Sura 49 of the Quran Simplified"
-date: 2021-12-09
+date: 2021-07-15
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-048
-linkbtext: "Sura-048"
-linkf: /research/mohammad/quran/sura-050
-linkftext: "sura-050"
 ---
 
 

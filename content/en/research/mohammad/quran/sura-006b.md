@@ -1,13 +1,9 @@
 ---
-title: "LIVESTOCK (al-An’am)"
-heading: "Sura 6a of the Quran Simplified"
+title: "Azar"
+heading: "Sura 6b of the Quran Simplified"
 date: 2022-01-03
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
@@ -33,8 +29,7 @@ commanded to surrender to the Lord of the Universe.”
 72. “And to perform the prayers, and to revere
 Him; it is to Him that you will be gathered.”
 
-73. It is He who created the heavens and the
-earth in truth. On the Day when He says:
+73. It is He who created the heavens and the earth in truth. On the Day when He says:
 “Be,” it will be. His saying is the truth, and
 His is the sovereignty on the Day when the
 trumpet is blown. The Knower of secrets and

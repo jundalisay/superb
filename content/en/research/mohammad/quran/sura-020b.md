@@ -1,13 +1,9 @@
 ---
 title: "Pharaoh"
 heading: "Sura 20b of the Quran Simplified"
-date: 2022-01-04
+date: 2021-10-20
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-020a
-linkbtext: "sura-020a"
-linkf: /research/mohammad/quran/sura-020c
-linkftext: "sura-020c"
 ---
 
 

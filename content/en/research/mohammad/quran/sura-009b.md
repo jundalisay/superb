@@ -1,23 +1,19 @@
 ---
 title: "Abraham's Submission to the Lord"
-heading: "Sura 2d of the Quran Simplified"
+heading: "Sura 9b of the Quran Simplified"
 date: 2021-12-26
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002d
-linkbtext: "Sura 2d"
-linkf: /research/mohammad/quran/sura-002f
-linkftext: "Sura 2f"
 ---
 
 
-45. Only those who do not believe in Allah and the Last Day ask you for exemption.
+{{< s v="45" >}} Only those who do not believe in Allah and the Last Day ask you for exemption.
 - Their hearts are full of doubts.
 
-46. Had they wanted to mobilize, they would have made preparations for it. 
+{{< s v="46" >}} Had they wanted to mobilize, they would have made preparations for it. 
 - But Allah disliked their participation, so he held them back, and it was said, “Stay behind with those who stay behind.”
 
-47. Had they mobilized with you, they would have added only to your difficulties, and they would have spread rumors in your midst, trying to sow discord among you. Some of you are avid listeners to them. 
+{{< s v="47" >}} Had they mobilized with you, they would have added only to your difficulties, and they would have spread rumors in your midst, trying to sow discord among you. Some of you are avid listeners to them. 
 
 48. They tried to cause conflict before, and they hatched plots against you, until the truth prevailed, and the command of Allah became evident—in spite of their dislike.
 

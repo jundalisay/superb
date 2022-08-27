@@ -1,21 +1,17 @@
 ---
-title: "Rules on Food, Fasting, Gambling, and Revenge"
-heading: "Sura 2e of the Quran Simplified"
+title: "Fight for Allah"
+heading: "Sura 2h of the Quran Simplified"
 date: 2022-01-24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002g
-linkbtext: "2g"
-linkf: /research/mohammad/quran/sura-002i
-linkftext: "2i"
 ---
 
 
-190. Fight in the cause of Allah those who fight you. 
+{{< s v="190" >}} Fight in the cause of Allah those who fight you. 
 - But do not commit aggression.
 - Allah does not love the aggressors.
 
-191. Kill them wherever you overtake them
+{{< s v="191" >}} Kill them wherever you overtake them
 - Expel them from where they had expelled you. 
 
 Oppression is more serious than murder. 
@@ -23,7 +19,7 @@ Oppression is more serious than murder.
 
 If they fight you, then kill them. <!-- Such is the retribution of the disbelievers. -->
 
-192. But if they cease, then Allah is Forgiving and Merciful.
+{{< s v="192" >}} But if they cease, then Allah is Forgiving and Merciful.
 
 193. Fight them until there is no oppression, and worship becomes devoted to Allah alone. 
 

@@ -1,13 +1,9 @@
 ---
 title: "Noah (Nuh)"
 heading: "Sura 71a of the Quran Simplified"
-date: 2021-11-19
+date: 2021-05-22
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-070
-linkbtext: "sura-070"
-linkf: /research/mohammad/quran/sura-072
-linkftext: "sura-072"
 ---
 
 

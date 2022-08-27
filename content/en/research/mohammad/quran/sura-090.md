@@ -1,13 +1,9 @@
 ---
 title: "The City, The Sun"
 heading: "Sura 91 of the Quran Simplified"
-date: 2021-09-23
+date: 2021-04-23
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 

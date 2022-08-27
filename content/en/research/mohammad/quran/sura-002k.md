@@ -1,13 +1,9 @@
 ---
-title: "Rules on Divorce and Widows"
-heading: "Sura 2b of the Quran Simplified"
+title: "Goliath"
+heading: "Sura 2k of the Quran Simplified"
 date: 2022-01-21
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002j
-linkbtext: "2j"
-linkf: /research/mohammad/quran/sura-002l
-linkftext: "2l"
 ---
 
 

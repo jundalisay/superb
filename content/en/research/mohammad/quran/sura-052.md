@@ -1,14 +1,11 @@
 ---
 title: "THE MOUNT (at-Tur)"
 heading: "Sura 52 of the Quran Simplified"
-date: 2021-12-06
+date: 2021-07-05
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
+
 
 
 1-6. By the Mount and the seething sea, in the frequented House with the elevated roof, in a Book inscribed with a published scroll. 

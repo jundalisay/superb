@@ -1,13 +1,9 @@
 ---
 title: "The Prophets of Allah"
 heading: "Sura 19b of the Quran Simplified"
-date: 2022-01-29
+date: 2021-10-30
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-019
-linkbtext: "sura-019"
-linkf: /research/mohammad/quran/sura-020a
-linkftext: "sura-020a"
 ---
 
 

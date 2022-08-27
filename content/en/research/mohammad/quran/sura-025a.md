@@ -1,63 +1,63 @@
 ---
-title: "THE CRITERION (al-Furqan)"
+title: "The Criterion (al-Furqan)"
 heading: "Sura 25 of the Quran Simplified"
-date: 2021-12-30
+date: 2021-09-20
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
-Blessed is He who sent down the Criterion upon His servant, to be a warning to humanity.
+<!-- Blessed is He who sent down the Criterion upon His servant, to be a warning to humanity. -->
 
-{{< s v="2" >}}  He to whom belongs the kingdom of the heavens and the earth, who took to Himself
-no son, who never had a partner in His kingship; who created everything and determined its measure.
+{{< s v="2" >}}  Allah:
+- rules over <!-- He to whom belongs --> the kingdom of the heavens and the earth
+- had no <!-- who took to Himself no --> son
+- never had a partner in His kingship
+- created everything and determined its measure.
 
-{{< s v="3" >}}  And yet, instead of Him, they produce for themselves gods that create nothing, but are
-themselves created; that have no power to harm or benefit themselves; and no power
-over life, death, or resurrection.
-{{< s v="4" >}}  Those who disbelieve say, “This is nothing but a lie that he made up, and others have
-helped him at it.” They have committed an injustice and a perjury.{{< s v="5" >}}  And they say, “Tales of the ancients; he
-wrote them down; they are dictated to him
-morning and evening.”
-6. Say, “It was revealed by He who knows the
-Secret in the heavens and the earth. He is al-
-ways Forgiving and Merciful.”
-7. And they say, “What sort of messenger is
-this, who eats food, and walks in the market-
-places? If only an angel was sent down with
-him, to be alongside him a warner.”
-8. Or, “If only a treasure was dropped on
-him.” Or, “If only he had a garden from
-which he eats.” The evildoers also say, “You
-are following but a man under spell.”{{< s v="9" >}}  Look how they invent examples for you.
-They have gone astray, and cannot find a
+
+{{< s v="3" >}}  Yet, the disbeliever produce for themselves gods that:
+- create nothing
+<!-- , but are themselves created; that -->
+- have no power to harm or benefit themselves;
+- have no power over life, death, or resurrection.
+
+
+{{< s v="4" >}}  They say: “This is nothing but a lie that he made up, and others have helped him at it.” 
+
+They have committed an injustice and a perjury. 
+
+{{< s v="5" >}}  And they say, “Tales of the ancients; he wrote them down; they are dictated to him
+morning and evening.” 
+
+{{< s v="6" >}} Say, “It was revealed by He who knows the Secret in the heavens and the earth. He is al- ways Forgiving and Merciful.” 
+
+7. And they say, “What sort of messenger is this, who eats food, and walks in the market-
+places? If only an angel was sent down with him, to be alongside him a warner.”
+
+8. Or, “If only a treasure was dropped on him.” Or, “If only he had a garden from
+which he eats.” The evildoers also say, “You are following but a man under spell.”
+
+{{< s v="9" >}}  Look how they invent examples for you. They have gone astray, and cannot find a
 way.{{< s v="10" >}}  Blessed is He who, if He wills, can provide
-you with better than that—gardens beneath
-which rivers flow—and He will give you pal-
-aces.{{< s v="11" >}}  In fact, they have denied the Hour, and We
-have prepared for those who deny the Hour a
+you with better than that—gardens beneath which rivers flow—and He will give you palaces.
+
+{{< s v="11" >}}  In fact, they have denied the Hour, and We have prepared for those who deny the Hour a
 Blaze.
-12. When it sees them from a distant place,
-they will hear it raging and roaring.
-13. And when they are thrown into it, into a
-tight place, shackled, they will plead there for
-death.
-14. “Do not plead for one death today, but
-plead for a great many deaths.”
-15. Say, “Is this better, or the Garden of Eter-
-nity promised to the righteous? It is for them
+
+{{< s v="12" >}} When it sees them from a distant place, they will hear it raging and roaring.
+
+{{< s v="13" >}} When they are thrown into it, into a tight place, shackled, they will plead there for death.
+
+14. “Do not plead for one death today, but plead for a great many deaths.”
+
+15. Say, “Is this better, or the Garden of Eternity promised to the righteous? It is for them
 a reward and a destination.
-{{< s v="16" >}}They will have therein whatever they de-
-sire, forever. That is upon your Lord a bind-
-ing promise.
-17. On the Day when He gathers them, and
-what they worshiped besides Allah, He will
-say, “Was it you who misled these servants of
-Mine, or was it they who lost the way?”
+
+{{< s v="16" >}}They will have therein whatever they desire, forever. That is upon your Lord a binding promise.
+
+17. On the Day when He gathers them, and what they worshiped besides Allah, He will say, “Was it you who misled these servants of Mine, or was it they who lost the way?”
+
 18. They will say, “Glory be to You. It was not
 for us to take any lords besides You. But you
 gave them enjoyments, and their ancestors,
@@ -222,7 +222,8 @@ their bad deeds with good deeds.
 74. And those who say, “Our Lord, grant us delight in our spouses and our children, and
 make us a good example for the righteous.”
 
-75. Those will be awarded the Chamber for their patience, and will be greeted therein with greetings and peace.
+{{< s v="75" >}} Those will be awarded the Chamber for their patience, and will be greeted therein with greetings and peace.
 
-76. Abiding therein forever—it is an excellent residence and destination.
-77. Say, “What are you to my Lord without your prayers? You have denied the truth, and the inevitable will happen.”
+{{< s v="76" >}} Abiding therein forever—it is an excellent residence and destination.
+
+{{< s v="77" >}} Say, “What are you to my Lord without your prayers? You have denied the truth, and the inevitable will happen.”

@@ -1,14 +1,11 @@
 ---
-title: "KNEELING (al-Jathiyah)"
+title: "Kneeling (al-Jathiyah)"
 heading: "Sura 45 of the Quran Simplified"
-date: 2021-12-13
+date: 2021-07-25
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
+
 
 <!-- {{< s v="1" >}}  Ha, Meem. The revelation of the Book is from Allah. -->
 {{< s v="3" >}}  In the heavens and the earth are proofs for the believers.

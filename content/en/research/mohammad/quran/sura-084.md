@@ -1,13 +1,9 @@
 ---
-title: "THE RUPTURE (al-Inshiqaq)"
+title: "The Rupture (al-Inshiqaq)"
 heading: "Sura 84a of the Quran Simplified"
-date: 2021-09-27
+date: 2021-04-27
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-083
-linkbtext: "sura-083"
-linkf: /research/mohammad/quran/sura-085
-linkftext: "sura-085"
 ---
 
 

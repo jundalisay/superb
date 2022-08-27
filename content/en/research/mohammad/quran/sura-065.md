@@ -1,15 +1,10 @@
 ---
-title: "DIVORCE (at-Talaq)"
+title: "Divorce (at-Talaq)"
 heading: "Sura 65a of the Quran Simplified"
-date: 2021-11-25
+date: 2021-06-08
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
-
 
 
 {{< s v="1" >}}  O Prophet! If any of you divorce women, divorce them during their period of purity, and calculate their term.

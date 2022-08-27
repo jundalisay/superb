@@ -1,13 +1,9 @@
 ---
-title: "THE POETS (ash-Shu’ara’)"
+title: "The Poets (ash-Shu’ara’)"
 heading: "Sura 26 of the Quran Simplified"
-date: 2021-12-29
+date: 2021-09-15
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
@@ -16,7 +12,9 @@ linkftext: "Index"
 {{< s v="3" >}}  Perhaps you will destroy yourself with grief, because they do not become believers.
 {{< s v="4" >}}  If We will, We can send down upon them a sign from heaven, at which their necks will
 stay bent in humility.
+
 {{< s v="5" >}}  No fresh reminder comes to them from the Most Merciful, but they turn their backs at it.
+
 6. They have denied the truth, but soon will come to them the news of what they ridiculed.
 7. Have they not seen the earth, and how many beautiful pairs We produced therein?
 8. Surely in this is a sign, but most of them are not believers.

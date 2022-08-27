@@ -1,13 +1,9 @@
 ---
-title: "SAAD (Saad)"
+title: "Saad"
 heading: "Sura 38a of the Quran Simplified"
-date: 2021-12-20
+date: 2021-08-16
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
@@ -209,12 +205,8 @@ clay.”
 outcast!
 78. And My curse will be upon you until the
 Day of Judgment.”
-79. He said, “Lord, defer me until the Day they
-are resurrected.”
-74.
-80. He
-said, “You are one of those deferred.
-81. Until
-the Day of the Time Appointed.”
+79. He said, “Lord, defer me until the Day they are resurrected.”
+
+80. He said, “You are one of those deferred. Until the Day of the Time Appointed.”
 
 
