@@ -37,7 +37,7 @@ The chiefs are fond of white umbrellas. This is why the traders offer them as gi
 The Maharlikan traders assemble in crowds and carry the goods away with them in baskets. Even if the foreign merchants do not know the Maharlikan traders and cannot distinguish them, there will be no loss.   <!--  if one initially does not know them, and can but slowly distinguish the men who
 there will yet be no loss. --> 
 - The native traders will bring those goods to other islands for barter. It will take 8-9 months for them to return.
-- They then repay the foreign merchants with what they had obtained for the goods. 
+- They then repay the foreign merchants with what they had obtained for the goods.
 - Some, however, do not return within the proper time*. This delay is why vessels trading with Maharlika are the last to return home.
 
 > *Superphysics note: Here, Filipino time is consistent with Maharlikan time. This is why "truth" (katotohanan) is the first constitutional virtue suggested

@@ -202,6 +202,6 @@ This split up the world's trading system into innumerable uncoordinated bilatera
 It aimed at the formation of regional economic blocs with some eventual form of multilateral clearing
 
 
-Economic regionalism might be considered superior to the anarchy of rigid Bilateralism. But it surely cannot be the last word in post-war economic organisation. The above attempts to show just one way of driving a wedge into the solid block of resistance against economic planning on a world-scale. 
+Economic regionalism might be considered superior to the anarchy of rigid Bilateralism. But it surely cannot be the last word in post-war economic organisation. The above attempts to show just one way of driving a wedge into the solid block of resistance against economic planning on a world-scale.
 
 Other ways exist. They should be fully described and discussed. Some world-embracing scheme, conceived with realism and daring, must be developed to meet the challenge of Bilateralism and Economic Regionalism. Such a scheme should above all have an inherent tendency towards expansion.

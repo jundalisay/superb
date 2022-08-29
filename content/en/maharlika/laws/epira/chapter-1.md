@@ -2,7 +2,8 @@
 heading: "Chapter 1"
 title: "Definition of Policy"
 description: "EPIRA Republic Act 9136"
-date: 2021-09-02
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
 ---
 
 

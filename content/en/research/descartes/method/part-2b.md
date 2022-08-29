@@ -1,13 +1,9 @@
 ---
 title: The 4 Precepts of Descartes
 heading: Part 2b
-date: 2022-01-29
+date: 2022-01-23
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.jpg"
-linkb: "/research/descartes/method/part-2/"
-linkbtext: "Part 2"
-linkf: "/research/descartes/method/part-3/"
-linkftext: "Part 3"
 author: "Rene Descartes"
 icon: /icons/descartes.png
 ---

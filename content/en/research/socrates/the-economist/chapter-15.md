@@ -4,10 +4,6 @@ heading= "Chapter 15 of the Economist"
 date= 2015-09-18
 image= "/covers/economist.jpg"
 description= "Agriculture makes the wise and skilled possessor of it wealthy, whilst the unskilled, in spite of all the pains he takes, must live in indigence"
-linkb= "/research/socrates/the-economist/chapter-14"
-linkbtext= "Chapter 14"
-linkf= "/research/socrates/the-economist/chapter-15"
-linkftext= "Chapter 15"
 icon = "/icons/soc.png"
 +++
 

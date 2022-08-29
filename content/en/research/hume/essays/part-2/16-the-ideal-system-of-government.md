@@ -104,7 +104,7 @@ By an intricate ballot, such as that of Venice or Malta, they choose the followi
 Each council has:
 - five persons
 - six commissioners of the treasury
-- a first commissioner. 
+- a first commissioner.
     
 All of these must be senators.
     

@@ -1,13 +1,15 @@
-+++
-title= "Part 6"
-author= "Rene Descartes"
-image= "/covers/method.jpg"
-description= "Rene Descartes 1635"
-linkb= "/research/descartes/method/part-5"
-linkbtext= "Part 5"
-linkf= "/research/descartes/method/"
-linkftext= "Index"
-+++
+---
+heading: Part 6
+title: Cartesian Method
+limkTitle: Part 6
+date: 2022-01-12
+description: Rene Descartes 1635
+image: "/covers/method.jpg"
+author: "Rene Descartes"
+icon: /icons/descartes.png
+---
+
+
 
 Three years have now elapsed since I finished the treatise on all these matters. 
 
@@ -36,9 +38,15 @@ Medical science has a few useful things. <!--  whose utility is very remarkable=
 But since I designed to employ my whole life in the search after so necessary a science, and since I had fallen in with a path which seems to me such, that if anyone follow it he must inevitably reach the end desired, unless he be hindered either by the shortness of life or the want of experiments, I judged that there could be no more effectual provision against these two impediments than if I were faithfully to communicate to the public all the little I might myself have found, and incite men of superior genius to strive to proceed farther, by contributing, each according to his inclination and ability, to the experiments which it would be necessary to make, and also by informing the public of all they might discover, so that, by the last beginning where those before them had left off, and thus connecting the lives and labours of many, we might collectively proceed much farther than each by himself could do.
 
 
-Experiments become always more necessary the more one is advanced in knowledge. In the beginning, it is better to make use only of what is spontaneously presented to our senses. 
+Experiments become always more necessary the more one is advanced in knowledge. 
 
-and of which we cannot remain ignorant, provided we bestow on it any reflection, however slight, than to concern ourselves about more uncommon and recondite phenomena= the reason of which is, that the more uncommon often only mislead us so long as the causes of the more ordinary are still unknown; and the circumstances upon which they depend are almost always so special and minute as to be highly difficult to detect. 
+In the beginning, it is better to use only what is spontaneously presented to our senses. 
+
+and of which we cannot remain ignorant, provided we bestow on it any reflection, however slight, than to concern ourselves about more uncommon and recondite phenomena= 
+
+This is because the more uncommon often only misleads us so long as the causes of the more ordinary are still unknown. 
+
+The circumstances upon which they depend are almost always so special and minute as to be highly difficult to detect. 
 
 But in this I have adopted the following order:
 

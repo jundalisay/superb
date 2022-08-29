@@ -1,14 +1,12 @@
 ---
 title: "Fiscal Autonomy"
-heading: "Article 12 of the Bangsamoro Basic Law Simplified"
+heading: "Article 12"
 description: "The Bangsamoro shall enjoy fiscal autonomy with the end in view of attaining the highest form of economic self-sufficiency and genuine development"
-date: 2021-09-02
+date: 2021-09-05
 image: "/covers/bbl.jpg"
-linkf: "/maharlika/laws/bbl/article-13"
-linkftext: "article-13"
-linkb: "/maharlika/laws/bbl/article-11"
-linkbtext: "article-11"
 ---
+
+
 
 Section 1. Fiscal Autonomy
 

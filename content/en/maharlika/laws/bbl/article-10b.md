@@ -1,13 +1,9 @@
 ---
 title: "Shari’ah and Tribal Justice"
-heading: "Article 10 of the Bangsamoro Basic Law Simplified"
+heading: "Article 10b"
 description: "For Muslims, the justice system in the Bangsamoro shall give primary consideration to Shari’ah, and customary rights and traditions of the indigenous peoples in the Bangsamoro."
-date: 2021-09-02
+date: 2021-09-12
 image: "/covers/bbl.jpg"
-linkf: "/maharlika/laws/bbl/article-11"
-linkftext: "article-11"
-linkb: "/maharlika/laws/bbl/article-09"
-linkbtext: "article 9"
 ---
 
 

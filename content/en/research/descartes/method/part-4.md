@@ -1,25 +1,31 @@
-+++
-title= "I Think Therefore I Am"
-heading= "Part 4"
-author= "Rene Descartes"
-image= "/covers/method.jpg"
-description= "Rene Descartes 1635"
-linkb= "/research/descartes/method/part-3"
-linkbtext= "Part 3"
-linkf= "/research/descartes/method/part-5"
-linkftext= "Part 5"
-+++
+---
+heading: Part 4
+title: I Think Therefore I Am
+limkTitle: Part 4
+date: 2022-01-17
+description: Rene Descartes 1635
+image: "/covers/method.jpg"
+author: "Rene Descartes"
+icon: /icons/descartes.png
+---
 
 
-I am in doubt as to the propriety of making my first meditations in the place above mentioned matter of discourse; for these are so metaphysical, and so uncommon, as not, perhaps, to be acceptable to every one. 
+
+My first meditations are so metaphysical and so uncommon. They might not be acceptable to everyone. 
 
 The foundations that I have laid are secure. 
 
 Our opinions are <!-- , I find myself in a measure constrained to advert to them. I had long before remarked that, in relation to practice, it is sometimes necessary to adopt, as if above doubt, opinions which we discern to be --> highly uncertain. We should <!-- but as I then desired to give my attention solely to the search after truth, I thought that a procedure exactly the opposite was called for, and that I ought to --> reject as absolutely false all opinions which could be doubted. This is so that we can have solid truths. <!-- in regard to which I could suppose the least ground for doubt, in order to ascertain whether after that there remained aught in my belief that was wholly indubitable.  -->
 
-Accordingly, seeing that our senses sometimes deceive us, I was willing to suppose that there existed nothing really such as they presented to us;
+I saw that our senses sometimes deceive us. That is why I supposed that there existed nothing really such as they presented to us. 
 
-because some men err in reasoning, and fall into paralogisms, even on the simplest matters of geometry, I, convinced that I was as open to error as any other, rejected as false all the reasonings I had hitherto taken for demonstrations; and finally, when I considered that the very same thoughts (presentations) which we experience when awake may also be experienced when we are asleep, while there is at that time not one of them true, I supposed that all the objects (presentations) that had ever entered into my mind when awake, had in them no more truth than the illusions of my dreams. 
+This is because some men:
+- err in reasoning, and 
+- fall into paralogisms, even on the simplest matters of geometry
+
+I was convinced that I was as open to error as any other. So I rejected as false all the reasonings I had hitherto taken for demonstrations.
+
+Finally, when I considered that the very same thoughts (presentations) which we experience when awake may also be experienced when we are asleep, while there is at that time not one of them true, I supposed that all the objects (presentations) that had ever entered into my mind when awake, had in them no more truth than the illusions of my dreams. 
 
 But immediately upon this I observed that, whilst I thus wished to think that all was false, it was absolutely necessary that I, who thus thought, should be somewhat; 
 

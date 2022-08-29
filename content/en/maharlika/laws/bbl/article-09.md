@@ -1,13 +1,9 @@
 ---
 title: "Basic Rights"
-heading: "Article 9 of the Bangramoro Basic Law Simplified"
+heading: "Article 9"
 description: "All laws and policies, including customary laws, shall conform to international human rights and humanitarian standards"
-date: 2021-09-02
+date: 2021-09-17
 image: "/covers/bbl.jpg"
-linkf: "/maharlika/laws/bbl/article-10"
-linkftext: "article-10"
-linkb: "/maharlika/laws/bbl/article-07"
-linkbtext: "article-7"
 ---
 
 

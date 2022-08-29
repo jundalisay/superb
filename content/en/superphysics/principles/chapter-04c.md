@@ -82,27 +82,36 @@ The job of knowing or discovering this `G` and predicting its movement-results i
   - `w` (weight) is inherent `E` (energy)
   - `m` (mass) is `G` 
   - `g` is the domain of Earth's gravity where the object lies 
-- `E = G{{< sub v="l" >}}`` in the electromagnetic layer manifests as `E = mc{{< s v="2" >}}`` and is discovered by graduate-level Physics. G becomes m, and {{< sub v="l" >}} becomes c{{< s v="2" >}} which represents the speed limit of Minkowski's four-dimensional space 
-- E = G{{< sub v="l" >}} in the gravitational layer manifests as E = G{{< sub v="AB">}} and will be discovered by research institutions, where B and A are locational properties within spacetime of the same G
+- `E = G{{< sub v="l" >}}` in the electromagnetic layer manifests as `E = mc{{< s v="2" >}}` and is discovered by graduate-level Physics. `G` becomes `m`, and `{{< sub v="l" >}}` becomes `c{{< s v="2" >}}` which represents the speed limit of Minkowski's four-dimensional space 
+- `E = G{{< sub v="l" >}}` in the gravitational layer manifests as `E = G{{< sub v="AB">}}` and will be discovered by research institutions, where `B` and `A` are locational properties within spacetime of the same `G`
 
 ![The five layers](https://sorasystem.sirv.com/graphics/layersegl.png)
 
 
 The eagle also extends into metaphysical movement, such as the movement of minds:
 
-- E = G{{< sub v="l" >}} in the social layer manifests as the potential shifts in public opinion according to social cycles by Socrates (aristocrat, oligarch, democrat, tyrant) which then leads to changes in policies, ruling parties, cultural norms, morals, and religious beliefs. This is to be discovered by [Social Superphysics](/social)
-- E = G{{< sub v="l" >}} in the economic layer manifests as the potential movement of prices according to [the labor theory of value](/social/economics/principles/effort-theory-of-value) instead of marginal pricing. This is how we predicted the current crisis and why we predict it to be a long one. Its goal is to know the real price of everything, in order to prevent inflation, bubbles, recessions, and economic crises. This is to be discovered by [Pantrynomics](/social/economics) which is a subset of Social Superphysics
-- E = G{{< sub v="l" >}} in the medical layer manifests as the potential movement or risk of a person from health to disease and is discovered by applying data science to the five medical sciences of Western medicine, ayurveda, chinese medicine, homeopathy, and naturopathy, as Medical Superphysics. As none of our team has a medical background, and since medicine is highly regulated and fiercly protected by doctors and medical interests*, this would likely be developed last.
+- `E = G{{< sub v="l" >}}` in the social layer manifests as the potential shifts in public opinion according to social cycles by Socrates (aristocrat, oligarch, democrat, tyrant) which then leads to changes in policies, ruling parties, cultural norms, morals, and religious beliefs. This is to be discovered by [Social Superphysics](/social)
+- `E = G{{< sub v="l" >}}` in the economic layer manifests as the potential movement of prices according to [the labor theory of value](/social/economics/principles/effort-theory-of-value) instead of marginal pricing. This is how we predicted the current crisis and why we predict it to be a long one. Its goal is to know the real price of everything, in order to prevent inflation, bubbles, recessions, and economic crises. This is to be discovered by [Pantrynomics](/social/economics) which is a subset of Social Superphysics
+- `E = G{{< sub v="l" >}}` in the medical layer manifests as the potential movement or risk of a person from health to disease and is discovered by applying data science to the five medical sciences of Western medicine, ayurveda, chinese medicine, homeopathy, and naturopathy, as Medical Superphysics. As none of our team has a medical background, and since medicine is highly regulated and fiercly protected by doctors and medical interests*, this would likely be developed last.
 
 
 > *The worst thing that can happen by denouncing Einstein and Samuelson by advancing alternative theories is to bashed as either as an idiot or as an arrogant know-it-all by dogmatic physicists and economists. But to advance alternative theories for medicine is to be fined, sued for endangering public health, and even to go to jail!
 
-Socrates said that the discovery of the G or true nature of everything is extremely laborious. This is why we start in the economic layer so that a success here can give us the resources to help us extend our searches to all the other layers and fiels of metaphysics and physics. David Hume, who is our other reference, will agree to this as he is also an economist aside from being a metaphysician: 
 
+Socrates said that the discovery of the `G` or true nature of everything is extremely laborious. This is why we start in the economic layer so that a success here can give us the resources to help us extend our searches to all the other layers and fiels of metaphysics and physics. 
+
+David Hume, who is our other reference, will agree to this as he is also an economist aside from being a metaphysician: 
 
 {{< q a="hume" >}}
 Here, the only expedient for success in our philosophical researches is to.. march up directly to the capital or center of these sciences, to human nature itself. Once we master human nature, we may hope for an easy victory everywhere else. From here, we may extend our conquests over all those sciences.. We may hope to establish… a science which will not be inferior in certainty, and will be much superior in utility. The science of man is the only solid foundation for the other sciences. 
 <cite>Advertisement, Treatise of Human Nature</cite>
+{{< /q >}}
+
+This is supported by Francis Bacon who refers to `G` as the "true form":
+
+{{< q a="Bacon" >}}
+Our genuine and perfect rule of practice is that <b>it should be certain, free and preparatory, or having relation to practice</b>. This is the same thing as the discovery of a true form. For the form of any nature is such, that when it is assigned, the particular nature infallibly follows. Form, therefore is always present when that nature is present, universally attests such presence, and, is inherent in the whole of it.
+<cite>Nova Organum</cite>
 {{< /q >}}
 
 
@@ -110,16 +119,16 @@ The Eagle in the dimension of resource allocation manifests as supply and demand
 
 ![Supply and Demand Equation](https://sorasystem.sirv.com/graphics/pspdD.png)
 
-The G manifests as the effectual demand or d of the people, while the layer limit {{< sub v="l" >}} manifests as their absolute demand or D (a concept that does not exist in Economics). This D works in the same way as c works in E = mc{{< s v="2" >}}, where c acts as the speed limit of the physical universe. <!-- In the Material layer, this manifests as g or the gravity of the Earth. -->
+The `G` manifests as the effectual demand or d of the people, while the layer limit {{< sub v="l" >}} manifests as their absolute demand or `D` (a concept that does not exist in Economics). This `D` works in the same way as `c` works in `E = mc{{< s v="2" >}}`, where `c` acts as the speed limit of the physical universe. <!-- In the Material layer, this manifests as g or the gravity of the Earth. -->
 
 
 
-## Why Economics Can Never Arrive at G
+## Why Neoclassical Economics Can Never Arrive at `G`
 
 <!-- The focus on population and absolute demand are the two main features of the Pantrynomic supply and demand formula that make it different from that of Economics. 
  -->
 
-Economics and the commercial system are unable to arrive at the real price of everything because they use money which actually wipes out information with every exchange.
+Neoclassical Economics and the commercial system are unable to arrive at the real price of everything because they use money which actually wipes out information with every exchange.
 
 - If you barter 1 bread with 1 potato, then the real price of bread is 1 bread : 1 potato
 - If potato can be bartered for 2 lemons, then the real value of 1 bread is 2 lemons or 1 potato
@@ -131,7 +140,7 @@ This prevents the pantrynomic system from crashing because [the relativity of pr
 
 <!-- Price movements are relativistic because they represent value which is really a wave, just as special relativity works for photons which are waves, but not for rocks which are material.  -->
 
-We can restore this relativity in Economics by pulling down money from the supreme pedestal where it currently stands on, just as we by fixed Einstein's General Relativity by destroying the constant speed of light c, and instead making it variable.
+We can restore this relativity in Economics by pulling down money from the supreme pedestal where it currently stands on, just as we by fixed Einstein's General Relativity by destroying the constant speed of light `c`, and instead making it variable.
 
 Thus, in order to know a bread's pantrynomic G or real value, we need to know what that bread was exchanged with, and not its money price. This chain of exchanges can then be backpropagated in order to know its relativistic value to other goods or services. Once the relative value-motions of goods and services are known, then we can predict the demand for them and so arrange the supply ahead of time in order to address all the demand and achieve constant zero-inflation.
 

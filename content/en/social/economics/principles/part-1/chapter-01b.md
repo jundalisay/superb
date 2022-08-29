@@ -6,10 +6,6 @@ title: "The Tao as One's Life Purpose"
 date: 2022-03-30
 image: /photos/meta/buddhism.jpg
 description : "Economics enshrines Utility as the foundation of value, while Pantrynomics emphasizes Dharma or the Tao or one's life purpose."
-linkb: /social/economics/principles/part-1/chapter-01
-linkbtext: "Chapter 1"
-linkf: /social/economics/principles/part-1/chapter-02
-linkftext: "Chapter 2"
 author: Juan
 icon: /icons/pantry.png
 aliases:

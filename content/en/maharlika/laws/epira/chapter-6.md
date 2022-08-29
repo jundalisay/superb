@@ -1,28 +1,28 @@
 ---
 heading: "Chapter 6"
-title: "POWER SECTOR ASSETS AND LIABILITIES MANAGEMENT"
+title: "Power Sector Assets And Liabilities Management"
 description: "EPIRA Republic Act 9136"
-date: 2021-09-02
+image: "/photos/physics/light.jpg"
+date: 2021-09-17
 ---
 
 
 
-SEC. 49. Creation of Power Sector Assets and Liabilities Management Corporation. – There is
-hereby created a government-owned and -controlled corporation to be known as the “Power Sector Assets
-and Liabilities Management Corporation”, hereinafter referred to as the “PSALM Corp.”, which shall take
-ownership of all existing NPC generation assets, liabilities, IPP contracts, real estate and all other
-disposable assets. All outstanding obligations of the NPC arising from loans, issuances of bonds, securities
-and other instruments of indebtedness shall be transferred to and assumed by the PSALM Corp. within one
-hundred eighty (180) days from the approval of this Act.
+SEC. 49. Creation of Power Sector Assets and Liabilities Management Corporation or PSALM
+
+This is a government-owned and -controlled corporation which shall own all existing NPC generation assets, liabilities, IPP contracts, real estate and all other disposable assets. 
+
+All outstanding obligations of the NPC arising from loans, issuances of bonds, securities and other instruments of indebtedness shall be transferred to and assumed by the PSALM Corp. within one hundred eighty (180) days from the approval of this Act.
+
 
 SEC. 50. Purpose and Objective, Domicile and Term of Existence. – The principal purpose of the PSALM Corp. is to manage the orderly sale, disposition, and privatization of NPC generation assets, real estate and other disposable assets, and IPP contracts with the objective of liquidating all NPC financial obligations and stranded contract costs in an optimal manner.
+
 The PSALM Corp. shall have its principal office and place of business within Metro Manila.
-The PSALM Corp. shall exist for a period of twenty five (25) years from the effectivity of this
-Act, unless otherwise provided by law, and all assets held by it, all moneys and properties belonging to it,
-and all its liabilities outstanding upon the expiration of its term of existence shall revert to and be assumed
-by the National Government.
-SEC. 51. Powers. – The Corporation shall, in the performance of its functions and for the
-attainment of its objective, have the following powers:
+
+The PSALM Corp. shall exist for a period of twenty five (25) years from the effectivity of this Act, unless otherwise provided by law, and all assets held by it, all moneys and properties belonging to it, and all its liabilities outstanding upon the expiration of its term of existence shall revert to and be assumed by the National Government.
+
+SEC. 51. Powers. – The Corporation shall, in the performance of its functions and for the attainment of its objective, have the following powers:
+
 (a) To formulate and implement a program for the sale and privatization of the NPC assets and
 IPP contracts and the liquidation of NPC debts and stranded contract costs, such liquidation to
 be completed within the term of existence of the PSALM Corp.;
@@ -49,25 +49,16 @@ other evidences of indebtedness utilizing its assets as collateral and/or throug
 of the National Government: Provided, however, That all such debts or borrowings shall have
 been paid off before the end of its corporate life;
 (k) To restructure existing loans of NPC;
-(l) To collect, administer, and apply NPC’s portion of the universal charge; and
-(m) To restructure the sale, privatization or disposition of NPC assets and IPP contracts and/or
-their energy output based on such terms and conditions which shall optimize the value and
-sale prices of said assets.
-SEC. 52. Power Sector Assets and Liabilities Management Corporation, Meetings, Quorum and
-Voting. – The Corporation shall be administered, and its powers and functions exercised, by a Board of
-Directors which shall be composed of the Secretary of Finance as the Chairman, the Secretary of Budget
-and Management, the Secretary of the Department of Energy, the Director-General of the National
-Economic and Development Authority, the Secretary of the Department of Justice, the Secretary of the
-Department of Trade and Industry and the President of the PSALM Corp. as ex officio members thereof.
-The Board of Directors shall meet regularly and as frequently as may be necessary to enable it to
-discharge its functions and responsibilities. The presence at a meeting of four (4) members shall constitute
-a quorum, and the decision of the majority of three (3) members present at a meeting where there is quorum
-shall be the decision of the Board of Directors.
-SEC. 53. Powers of the President of PSALM Corp. – The President of PSALM Corp. shall be
-appointed by the President of the Philippines. In the absence of the Chairman, the President shall preside
-over Board meetings.
-The PSALM Corp. President shall be the Chief Executive Officer of PSALM Corp. and shall have
-the following powers and duties:
+(l) To collect, administer, and apply NPC’s portion of the universal charge; and (m) To restructure the sale, privatization or disposition of NPC assets and IPP contracts and/or their energy output based on such terms and conditions which shall optimize the value and sale prices of said assets.
+
+SEC. 52. Power Sector Assets and Liabilities Management Corporation, Meetings, Quorum and Voting. – The Corporation shall be administered, and its powers and functions exercised, by a Board of Directors which shall be composed of the Secretary of Finance as the Chairman, the Secretary of Budget and Management, the Secretary of the Department of Energy, the Director-General of the National Economic and Development Authority, the Secretary of the Department of Justice, the Secretary of the Department of Trade and Industry and the President of the PSALM Corp. as ex officio members thereof. 
+
+The Board of Directors shall meet regularly and as frequently as may be necessary to enable it to discharge its functions and responsibilities. The presence at a meeting of four (4) members shall constitute a quorum, and the decision of the majority of three (3) members present at a meeting where there is quorum shall be the decision of the Board of Directors.
+
+SEC. 53. Powers of the President of PSALM Corp. – The President of PSALM Corp. shall be appointed by the President of the Philippines. In the absence of the Chairman, the President shall preside over Board meetings.
+
+The PSALM Corp. President shall be the Chief Executive Officer of PSALM Corp. and shall have the following powers and duties:
+
 (a) To execute and administer the policies and measures approved by the Board, and take
 responsibility for the efficient discharge of management functions;
 (b) To oversee the preparation of the budget of PSALM Corp.;

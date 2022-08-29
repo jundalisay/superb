@@ -1,12 +1,12 @@
-+++
-title= "Natural Remedies for Wet Dreams"
-description= "If due to the bad habit of masturbation a large amount of semen is wasted or the semen becomes thin, one will contract this disease"
-image= "/photos/oops.jpg"
-linkb= "/research/sarkar/yogic-treatments"
-linkbtext= "yogic-treatments"
-linkf= "/research/sarkar/yogic-treatments/appendicitis"
-linkftext= "appendicitis"
-+++
+---
+title: "Natural Remedies for Wet Dreams"
+description: "If due to the bad habit of masturbation a large amount of semen is wasted or the semen becomes thin, one will contract this disease"
+image: "/photos/oops.jpg"
+icon: "/icons/yoga.jpg"
+---
+
+
+
 
 ## Symptoms
 
@@ -15,6 +15,7 @@ Occurrence of nocturnal emission more than four times a month; weakness on awake
 ![Woman shocked](/photos/oops.jpg)
 
 Generally a portion of the semen produced in the body is surplus. In single men, this surplus semen is expelled with the urine or during three or four nocturnal emissions per month. In married men it is discharged during intercourse. This discharge is harmful neither physically nor mentally. But if the discharge becomes greater than this, or if one does not enjoy any nervous pleasure during the discharge or if the semen becomes watery, or if one does not wake up after a wet dream, then it must be taken as a serious disease.
+
 
 ## Causes
 

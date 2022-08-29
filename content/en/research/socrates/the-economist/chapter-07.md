@@ -1,33 +1,37 @@
-+++
-title= "Ischomachus' Trains His Wife"
-heading= "Chapter 7 of The Economist"
-date= 2015-09-25
-image= "/covers/economist.jpg"
-description= "I do not spend my days indoors because my wife is capable of managing our domestic affairs without my aid."
-linkb= "/research/socrates/the-economist/chapter-06/"
-linkbtext= "Chapter 6"
-linkf= "/research/socrates/the-economist/chapter-08/"
-linkftext= "Chapter 8"
-icons = "/icons/soc.png"
-+++
+---
+title: "Ischomachus' Trains His Wife"
+heading: "Chapter 7"
+date: 2015-09-25
+image: "/covers/economist.jpg"
+description: "I do not spend my days indoors because my wife is capable of managing our domestic affairs without my aid."
+icons: "/icons/soc.png"
+---
 
 {{< l a="Socrates" >}}
-I saw him seated in the portico of Zeus Eleutherios, (1) and as he appeared to be at leisure, I went up to him and, sitting down by his side, accosted him
+I saw him seated in the portico of Zeus Eleutherios. He appeared to be at leisure, so I went up to him and sat by his side.
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
-How is this, Ischomachus? you seated here, you who are so little wont to be at leisure? 
+How is it that you have free time, Ischomachus? <!-- you seated here, you who are so little wont to be at leisure? --> 
+
+Usually when I see you, you are doing something and not sitting idle in the marketplace. 
 {{< /l >}}
 
 
-As a rule, when I see you, you are doing something, or at any rate not sitting idle in the market-place. 
 
-Nor would you see me now so sitting, Socrates (he answered), but that I promised to meet some strangers, friends of mine, (2) at this place. (2) "Foreign friends." And when you have no such business on hand (I said) where in heaven's name do you spend your time and how do you employ yourself? I will not conceal from you how anxious I am to learn from your lips by what conduct you have earned for yourself the title "beautiful and good." (3) It is not by spending your days indoors at home, I am sure; the whole habit of your body bears witness to a different sort of life. 
+{{< r a="Ischomachus" >}}
+I usually don't have time to sit at leisure. But I promised to meet some foreign friends of mine here. 
+{{< /r >}}
+
+{{< l a="Socrates" >}}
+When you are not busy, where do you spend your time? What do you do?
+
+<!-- I will not conceal from you how anxious I am to learn from your lips by what conduct you have earned for yourself the title "beautiful and good." (3) It is not by spending your days indoors at home, I am sure; the whole habit of your body bears witness to a different sort of life.  -->
 
 
 
-Ischomachus smiled at my question of what he had done to earn the title "beautiful and good"
+Ischomachus smiled at my question <!-- of what he had done to earn the title "beautiful and good" -->
 
 {{< r a="Ischomachus" >}}
 When they challenge me to exchange properties or perform some service to the state instead of them, the fitting out of a trireme, or the training of a chorus, nobody thinks of asking for the beautiful and good gentleman, but it is plain Ischomachus, the son of So-and-so, (5) on whom the summons is served. 

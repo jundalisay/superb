@@ -1,14 +1,11 @@
 ---
 title: "The Bangsamoro Government"
-heading: "Article 7 of the Bangsamoro Basic Law Simplified"
+heading: "Article 7"
 description: "The powers of government shall be vested in the Bangsamoro Parliament, which shall exercise those powers and functions expressly granted to it in this Basic Law"
-date: 2021-09-02
+date: 2021-09-20
 image: "/covers/bbl.jpg"
-linkf: "/maharlika/laws/bbl/article-09"
-linkftext: "article-09"
-linkb: "/maharlika/laws/bbl/article-06"
-linkbtext: "article-6"
 ---
+
 
 Section 1. Powers of Government
 

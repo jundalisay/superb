@@ -1,14 +1,10 @@
 ---
 title: "Cause and Effect"
-heading: Part 3b of the Meditations Simplified
-date: 2022-01-31
+heading: Part 3b
+date: 2022-01-22
 description: "The natural light shows that the total cause of something must contain at least as much reality as does the effect."
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"
-linkb: "/research/descartes/meditations/part-3"
-linkbtext: "Part 3"
-linkf: "/research/descartes/meditations/part-3c"
-linkftext: "Part 3c"
 icon: "/icons/descartes.png"
 ---
 

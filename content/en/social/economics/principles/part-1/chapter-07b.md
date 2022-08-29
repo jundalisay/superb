@@ -5,10 +5,6 @@ title: "How Profit Maximization Disrupted The Natural Balance of Economies"
 date: 2022-03-03
 image: /photos/buy.jpg
 description: ""
-linkb: /social/economics/principles/part-1/chapter-07
-linkbtext: "Chapter 7"
-linkf: /social/economics/principles/part-1/chapter-08
-linkftext: "chapter 8"
 author: Dalisay
 ---
 

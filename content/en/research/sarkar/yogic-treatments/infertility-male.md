@@ -1,14 +1,11 @@
-+++
-title= "Natural Remedies for Impotency and Infertility"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "Constipation due to the defective functioning of the liver is the main cause of piles, but generally no serious ailment can develop for one reason only"
-image= "/photos/consult.jpg"
-linkb= "/research/sarkar/yogic-treatments/infertility-female"
-linkbtext= "Infertility"
-linkf= "/research/sarkar/yogic-treatments/kidney-stones"
-linkftext= "Kidney-Stones"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies for Impotency and Infertility"
+description: "Constipation due to the defective functioning of the liver is the main cause of piles, but generally no serious ailment can develop for one reason only"
+image: "/photos/consult.jpg"
+icon: "/icons/yoga.jpg"
+---
+
+
 
 
 ## Symptoms
@@ -17,6 +14,7 @@ icon = "/icons/yoga.jpg"
 - Absence of any pleasurable nervous sensation
 - Loss of reproductive capacity
 - Fathering stillborn or short-lived children, etc.
+
 
 ## Causes
 
@@ -37,6 +35,7 @@ Females who lack sexual self-restraint may also suffer from infertility (analogo
 
 Over-indulgence in sexual intercourse may also bring frigidity to women. Such frigid women do not have any particular nervous sensation during sexual intercourse.
 
+
 ## Treatment
 
 <!-- Morning – Utkśepa Mudrá, Bandhatraya Yoga Mudrá, Mayurásana, Karmásana and Ámbhasii Mudrá or Ámbhasii Práńáyáma.
@@ -45,11 +44,13 @@ Evening – Sarváuṋgásana, Matsyamudrá, Padahastásana, Matsyendrásan
 
 In the cases where impotency or infertility is just the result of some other disease, proper treatment of the original disease should be undertaken and the impotency or infertility will also disappear when the original disease is cured.
 
+
 ## Diet
 
 Depending upon the capacity of the liver, all kinds of nutritious foods should be taken. The patient should daily drink a sufficient quantity (four to five seers) of water. Fasting should also be observed on Ekádashii, Púrńima and Amávasyá days as prescribed.
 
 Sufficient butter or ghee should be taken along with rice or rut́i. If the liver is healthy, the patient should drink one seer of milk every day. With this disease, squash (Lagenaria vulgaris Seringe), green (unripe) pumpkin (Benincasa cerifera Savi) and kalamii shák can be considered excellent food.
+
 
 ## Dos and don’ts
 

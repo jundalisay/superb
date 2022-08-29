@@ -1,14 +1,10 @@
-+++
-title= "Natural Remedies for Leucoderma (White Leprosy)"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "Leucoderma, though identified as a disease of the leprosy group, is not as fatal as leprosy, nor are secretions of fluid present; and that is why leucoderma is not a contagious disease"
-image= "/photos/med/leucoderma.jpg"
-linkb= "/research/sarkar/yogic-treatments/leprosy"
-linkbtext= "leprosy"
-linkf= "/research/sarkar/yogic-treatments/leucorrhoea"
-linkftext= "leucorrhoea"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies for Leucoderma (White Leprosy)"
+description: "Leucoderma, though identified as a disease of the leprosy group, is not as fatal as leprosy, nor are secretions of fluid present; and that is why leucoderma is not a contagious disease"
+image: "/photos/med/leucoderma.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 
 ## Symptoms

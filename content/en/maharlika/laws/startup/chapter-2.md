@@ -1,13 +1,11 @@
 ---
-heading: "Chapter 2 of Republic Act 11337 Simplified"
+heading: "Chapter 2"
 title: "Program Benefits And Incentives"
-description: "Foreign Investment Act Republic Act 11647"
-date: 2021-09-02
-linkf: "/maharlika/laws/startup"
-linkftext: "Index"
-linkb: "/maharlika/laws/startup"
-linkbtext: "Chapter 2"
+description: "Foreign Investment Act Republic Act 11337"
+image: "/photos/team.jpg"
+date: 2020-10-28
 ---
+
 
 
 

@@ -1,8 +1,9 @@
 ---
 heading: "Chapter 3"
-title: "ROLE OF THE DEPARTMENT OF ENERGY"
+title: "Role Of The Department Of Energy"
 description: "EPIRA Republic Act 9136"
-date: 2021-09-02
+image: "/photos/physics/light.jpg"
+date: 2021-09-25
 ---
 
 
@@ -11,25 +12,23 @@ SEC. 37. Powers and Functions of the DOE.- The DOE will supervise the restructur
 
 This amends Section 5 of RA 7638 “The Department of Energy Act of 1992”:
 
-(a) Formulate policies for the planning and implementation of a comprehensive program for the
-efficient supply and economical use of energy consistent with the approved national economic
-plan and with the policies on environmental protection and conservation and maintenance of
-ecological balance, and provide a mechanism for the integration, rationalization, and
-coordination of the various energy programs of the Government;
-(b) Develop and update annually the existing Philippine Energy Plan, hereinafter referred to as
-‘The Plan’, which shall provide for an integrated and comprehensive exploration,
-development, utilization, distribution, and conservation of energy resources, with preferential
-bias for environment-friendly, indigenous, and low-cost sources of energy. The plan shall
-include a policy direction towards the privatization of government agencies related to energy,
-deregulation of the power and energy industry, and reduction of dependency on oil-fired
-plants. Said Plan shall be submitted to Congress not later than the fifteenth day of September
-and every year thereafter;
-(c) Prepare and update annually a Power Development Program (PDP) and integrate the same
-into the Philippine Energy Plan. The PDP shall consider and integrate the individual or joint
-development plans of the transmission, generation, and distribution sectors of the electric
-power industry, which are submitted to the Department: Provide, however, That the ERC
-shall have exclusive authority covering the Grid Code and the pertinent rules and regulations
-it may issue;
+- a) Formulate policies for a comprehensive program for the efficient supply and economical use of energy.
+
+This program must:
+-  be consistent with:
+  - the approved national economic plan
+  - the policies on environmental protection and conservation and maintenance of ecological balance
+- provide a mechanism for the integration, rationalization, and coordination of the various energy programs of the Government
+
+- b) Develop and update annually the existing Philippine Energy Plan as ‘The Plan’. This PLan will:
+  -  provide for an integrated and comprehensive exploration, development, utilization, distribution, and conservation of energy resources, with preferential bias for environment-friendly, indigenous, and low-cost sources of energy.
+  - include a policy direction towards the privatization of government agencies related to energy, deregulation of the power and energy industry, and reduction of dependency on oil-fired plants. 
+  - shall be submitted to Congress not later than September 15 and every year thereafter
+
+- c) Prepare and update annually a Power Development Program (PDP) and integrate the same into the Philippine Energy Plan. 
+
+The PDP shall consider and integrate the individual or joint development plans of the transmission, generation, and distribution sectors of the electric power industry, which are submitted to the Department: Provide, however, That the ERC shall have exclusive authority covering the Grid Code and the pertinent rules and regulations it may issue
+
 (d) Ensure the reliability, quality and security of supply of electric power;
 (e) Following the restructuring of the electricity sector, the DOE shall, among others:
 (i) Encourage private sector investments in the electricity sector and promote

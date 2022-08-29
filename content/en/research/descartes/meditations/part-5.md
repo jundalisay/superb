@@ -1,14 +1,10 @@
 ---
 title: "The Essence Of Material Things"
-heading: Part 5 of the Meditations Simplified
-date: 2022-01-31
+heading: Part 5
+date: 2022-01-13
 description: "Before enquiring into whether there are any such things, I should consider the ideas of them in my thought, in order to see which of those ideas are distinct and which confused."
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"
-linkb: "/research/descartes/meditations/part-4"
-linkbtext: "Part 4"
-linkf: "/research/descartes/meditations/part-6"
-linkftext: "Part 6"
 icon: "/icons/descartes.png"
 ---
 

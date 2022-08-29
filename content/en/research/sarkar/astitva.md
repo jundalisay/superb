@@ -1,14 +1,13 @@
-+++
-title= "Existence and the Idea of Existence"
-heading= "Astitva and Shivatva"
-description= "Karma or action is a form of Brahma or the totaliity of existence"
-linkb= "/research/indian/"
-linkbtext= "Indian"
-linkf= "/research/indian/"
-linkftext= "Indian"
-icon = "/icons/yoga.jpg"
-draft= "true"
-+++
+---
+heading: "Astitva and Shivatva"
+title: "Existence and the Idea of Existence"
+# date: 2021-11-20
+date: 2021-11-26
+image: "/covers/discourses.jpg"
+description: "Karma or action is a form of Brahma or the totaliity of existence"
+icon: "/icons/sarkar.jpg"
+---
+
 
 
 In this cosmic cycle (Brahma Cakra) everyone has his Abhoga, mental food which they run towards. Those who have got several pabula, run after all of them and get exhausted and in the long run they get none. Those who have got only one pabulum get the same very easily. 

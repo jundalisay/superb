@@ -1,13 +1,12 @@
 ---
 title: "Review of Strategic Industries"
-heading: "Section 10-17 of Republic Act 11647 Simplified"
+heading: "Section 10-17"
 description: "Foreign Investment Act Republic Act 11647"
-date: 2021-09-02
-linkf: "/maharlika/laws/foreign-investment-act/section-6"
-linkftext: "section-6"
-linkb: "/maharlika/laws/foreign-investment-act"
-linkbtext: "index"
+image: "/photos/handshake.jpg"
+date: 2022-03-18
 ---
+
+
 
 ## Review of Strategic Industries
 

@@ -5,10 +5,6 @@ title: "Consumption Motive"
 date: 2022-03-20
 image: /photos/social/family.jpg
 description: "The Consumption Motive is the opposite of the Production Motive advocated by Capitalism and Mercantilism"
-linkb: /social/economics/principles/part-1/chapter-02
-linkbtext: "Chapter 2"
-linkf: /social/economics/principles/part-1/chapter-04
-linkftext: "Chapter 4"
 author: Dalisay
 aliases:
   /articles/pantrynomics/what-is-the-consumption-motive/	

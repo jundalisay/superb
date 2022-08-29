@@ -1,14 +1,10 @@
 ---
 title: "Substance"
-heading: Part 3c of the Meditations Simplified
-date: 2022-01-31
+heading: Part 3c
+date: 2022-01-20
 description: "These external ideas and causes are made of substance. For example, I think that a stone is a substance, or is a thing capable of existing independently"
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"
-linkb: "/research/descartes/meditations/part-3b"
-linkbtext: "Part 3b"
-linkf: "/research/descartes/meditations/part-4"
-linkftext: "Part 4"
 icon: "/icons/descartes.png"
 ---
 

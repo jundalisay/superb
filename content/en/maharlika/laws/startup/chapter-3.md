@@ -1,23 +1,20 @@
 ---
-heading: "Chapter 2 of Republic Act 11337 Simplified"
+heading: "Chapter 3"
 title: "Startup Visas"
-description: "Foreign Investment Act Republic Act 11647"
-date: 2021-09-02
-linkf: "/maharlika/laws/startup"
-linkftext: "Index"
-linkb: "/maharlika/laws/startup"
-linkbtext: "Chapter 2"
+description: "Foreign Investment Act Republic Act 11337"
+image: "/photos/team.jpg"
+date: 2021-10-20
 ---
 
 
 
-Section 13. Startup Visas.— The Department of Foreign Affairs (DFA) shall create the following startup visas:
+Section 13. Startup Visas
 
-(a) Startup owner visa – for prospective or current foreign owner of startup or startup enabler registered in the Philippines;
+The DFA shall create the following startup visas:
 
-(b) Startup employee visa – for foreign employee of a startup or startup enabler registered in the Philippines; and
-
-(c) Startup investor visa – for prospective or current foreign investor of a startup or startup enabler registered in the Philippines.
+- a) Startup owner visa – for prospective or current foreign owner of startup or startup enabler registered in the Philippines;
+- b) Startup employee visa – for foreign employee of a startup or startup enabler registered in the Philippines; and
+- c) Startup investor visa – for prospective or current foreign investor of a startup or startup enabler registered in the Philippines.
 
 The application for the aforementioned startup visas shall require an endorsement from a host agency, on top of visa application requirements to be stipulated by the DFA. These startup visas shall have an initial five (5)-year validity and may be renewed or extended with a three (3)-year validity.
 
@@ -34,7 +31,8 @@ The BI shall promulgate the immigration and admission rules and regulations cons
 Section 14. APEC Business Travel Card (ABTC). -Bona fide Filipino executives of qualified startups shall be eligible to apply for an ABTC, in accordance with rules and regulations to be promulgated by the DFA.
 
 
-CHAPTER 4: FINAL PROVISIONS
+
+## CHAPTER 4: FINAL PROVISIONS
 
 Section 15. Startup Philippines Website
 

@@ -4,12 +4,9 @@ title: "Views of Other Faiths"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
-linkftext: "Index"
 icon: "/icons/sarkar.jpg"
 ---
+
 
 
 The important philosophies and religions or faiths prevalent in the world at the present time are:
@@ -83,12 +80,12 @@ According to Cárváka, Caetanya or Conscious came into existence by the combi
 
 Púrva Mimáḿsá school of philosophy also does not admit the existence of Paramátman. Kapila, the propounder of the Sámkhya philosophy, accepted Átman and the Vedas, but he did not believe in Paramátman. The Śad́adarshana or the six major school of theistic Indian Philosophy believe in the Vedas. The following are the six schools of philosophy.
 
-(1) Kapila Sáḿkhya which accepts the existence of Prakrti and the Vedas but does not accept Paramátman.
-(2) Pátaiṋjala Sáḿkhya which believes in innumerable Puruśas and one Prakrti. The creator of the universe according to this school cannot be a Mukta Puruśa or a liberated being.
-(3) Gaotama Nyáya philosophy.
-(4) Kańáda’s Nyáya philosophy or Vaesheśika.
-(5) Jaemini’s Púrva Miimámsá or early Miimámsá philosophy which believes in Kriyákanda or the doctrine of action. Those who believe in this school accept the existence of heaven and hell.
-(6) Uttára Miimámsá or later Miimámsá philosophy propounded by Vádráyaná Vyása believes in Brahma and the vedas but does not believe in Átman and Jagat or the world. This philosophy is commonly known as Vedanta philosophy.
+1. Kapila Sáḿkhya which accepts the existence of Prakrti and the Vedas but does not accept Paramátman.
+2. Pátaiṋjala Sáḿkhya which believes in innumerable Puruśas and one Prakrti. The creator of the universe according to this school cannot be a Mukta Puruśa or a liberated being.
+3. Gaotama Nyáya philosophy.
+4. Kańáda’s Nyáya philosophy or Vaesheśika.
+5. Jaemini’s Púrva Miimámsá or early Miimámsá philosophy which believes in Kriyákanda or the doctrine of action. Those who believe in this school accept the existence of heaven and hell.
+6. Uttára Miimámsá or later Miimámsá philosophy propounded by Vádráyaná Vyása believes in Brahma and the vedas but does not believe in Átman and Jagat or the world. This philosophy is commonly known as Vedanta philosophy.
 
 - The Buddhist philosophy believes in all the 5 bhútas or fundamental factors
 - Cárváka believes in Caturbhúta or 4 fundamental factors. 

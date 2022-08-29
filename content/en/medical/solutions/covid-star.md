@@ -64,13 +64,15 @@ From here, we can suggest the following policies:
 
 
 {{< box >}}
-<h2>The Spanish Flu was the Covid Star</h2>
-<p>The Spanish Flu emerged in Kansas in the US on March 4, 1918. It spread to France and then throughout Europe by May and then declined.</p>
+## The Spanish Flu was the Covid Star
 
-<p>In the US, it reappeared as a second wave from September to November 2018 notably in Philadelphia, Boston, and San Fransisco.</p>
+The Spanish Flu emerged in Kansas in the US on March 4, 1918. It spread to France and then throughout Europe by May and then declined.
 
-<p>The fact that the second wave around Q4 was worse than the first wave of Q1 forms a pattern consistent with the Covid Star. The Spanish Flu naturally died out after World War 1 ended and this forms our advocacy to end the war against the Amazon to end the Covid pandemic.</p>
+In the US, it reappeared as a second wave from September to November 2018 notably in Philadelphia, Boston, and San Fransisco.
+
+The fact that the second wave around Q4 was worse than the first wave of Q1 forms a pattern consistent with the Covid Star. The Spanish Flu naturally died out after World War 1 ended and this forms our advocacy to end the war against the Amazon to end the Covid pandemic.
 {{< /box >}}
+
 
 
 ## How we cracked Covid via Regular Patterns
@@ -95,3 +97,13 @@ By applying the orbital theories of Johannes Kepler, we guesstimated that the Co
 
 
 The Flu star, on the other hand, was either on top or below of the sun. This caused it to affect influenza on Earth evenly throughout the year.  <!-- but nearly perpendicular to the Earth's axis.    --> These stars are then within our own Milky Way since flu has been happening in Southern China for hundreds of years. 
+
+
+## Solves Monarch Butterflies Too
+
+The idea of stars guiding life on earth is also seen in the migration routes of monarch butterflies. These are born at the end of August in Mexico and fly into into the southern US in the spring, living for 7-8 months. The make their offspring in the US which last only 3-5 weeks. These short-lived versions then fly back to Mexico.
+
+Science explains that the monarchs have some kind of magnetic guidance system. This is wrong because it does not explain how the latter generations can find their way back to Mexico. Where do the younger butterflies get the memory to fly back from the US to Mexico?
+
+We explain that the butterflies are guided by starlight from a specific star or group of stars.  This is similar to us being guided to go West or East based on the position of the sun relative to the Earth without any magnetic tool or sense. This also does not require any memory of past locations.  
+

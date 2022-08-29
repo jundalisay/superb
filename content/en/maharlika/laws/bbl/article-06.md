@@ -1,14 +1,11 @@
 ---
 title: "General Principles And Policies"
-heading: "Articles 6 of the Bangramoro Basic Law Simplified"
+heading: "Articles 6"
 description: "The relationship between the Central Government and the Bangsamoro Government shall be asymmetric. This is reflective of the recognition of their Bangsamoro identity, and their aspiration for self-governance."
-date: 2021-09-02
+date: 2021-09-22
 image: "/covers/bbl.jpg"
-linkf: "/maharlika/laws/bbl/article-07"
-linkftext: "article-07"
-linkb: "/maharlika/laws/bbl/article-05"
-linkbtext: "article-05"
 ---
+
 
 
 ## Article 6: Intergovernmental Relations

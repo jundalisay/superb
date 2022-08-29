@@ -1,9 +1,9 @@
 ---
 heading: RA 9136
-title: "An Act Ordaining Reforms In The Electric Power Industry"
-image: "/photos/objects/gavel.jpg"
+title: "EPIRA"
+image: "/photos/physics/light.jpg"
 date: 2022-03-30
-description: "Amending For The Purpose Certain Laws And For Other Purposes"
+description: "An Act Ordaining Reforms In The Electric Power Industry, Amending For The Purpose Certain Laws And For Other Purposes"
 ---
 
 

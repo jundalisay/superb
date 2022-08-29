@@ -1,19 +1,15 @@
-+++
-title= "Natural Remedies for Kidney Stones"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "If the acid content of the blood becomes excessive or if the blood suffers from other poisonous contaminations, this upsets the heart, liver and kidneys. The harm may be so great that the heart becomes incapable even of exerting sufficient pressure to keep the blood circulating unobstructed through the blood vessels"
-image= "/photos/med/kidney.jpg"
-linkb= "/research/sarkar/yogic-treatments/infertility-male"
-linkbtext= "infertility-male"
-linkf= "/research/sarkar/yogic-treatments/leprosy"
-linkftext= "leprosy"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies for Kidney Stones"
+description: "If the acid content of the blood becomes excessive or if the blood suffers from other poisonous contaminations, this upsets the heart, liver and kidneys. The harm may be so great that the heart becomes incapable even of exerting sufficient pressure to keep the blood circulating unobstructed through the blood vessels"
+image: "/photos/med/kidney.jpg"
+icon: "/icons/yoga.jpg"
+---
 
 
 ## Symptoms
 
 Difficulty in urinating, passing of urine drop by drop instead of in a flow, stoppage of urine, blood in urine, etc., are symptoms of kidney-stones.
+
 
 ## Causes
 

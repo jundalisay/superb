@@ -1,13 +1,9 @@
 ---
 title: "Bangsamoro Transition Authority"
-heading: "Article 16 of the Bangsamoro Basic Law Simplified"
+heading: "Article 16"
 description: "The Bangsamoro Government’s economic policies and programs shall be based on the principle of social justice"
-date: 2021-09-02
+date: 2021-08-25
 image: "/covers/bbl.jpg"
-linkb: "/maharlika/laws/bbl/article-14"
-linkbtext: "Article 14"
-linkf: "/maharlika/laws/bbl/"
-linkftext: "Index"
 ---
 
 
@@ -25,12 +21,13 @@ The period of transition herein defined shall be without prejudice to the initia
 
 Section 2. Bangsamoro Transition Authority (BTA)
 
-The BTA
+The BTA:
 - is the interim government during the transition period. The MILF is the principal party to the Comprehensive Agreement on the Bangsamoro and shall lead the BTA, in its leadership and membership.
 - will have 50 members appointed by the President; Provided that, non-Moro indigenous communities, women, settler
 communities and other sectors shall have representatives in the BTA. Nominations may be submitted to the office of the President for this purpose. 
 
 The Council of Leaders as provided in Section 5, Article VI shall also be organized during the transition period.93
+
 
 Section 3. Powers and Authorities
 

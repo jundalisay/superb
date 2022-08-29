@@ -1,14 +1,10 @@
 ---
 title: "Material things and the real distinction between mind and body"
-heading: Part 6 of the Meditations Simplified
-date: 2022-01-31
+heading: Part 6
+date: 2022-01-10
 description: "I perceive them clearly and distinctly as the subject matter of pure mathematics. So I at least know that they could exist, because anything that I perceive in that way could be created by God"
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"
-linkb: "/research/descartes/meditations/part-5"
-linkbtext: "Part 5"
-linkf: "/research/descartes/meditations/part-6"
-linkftext: "Part 6"
 icon: "/icons/descartes.png"
 ---
 

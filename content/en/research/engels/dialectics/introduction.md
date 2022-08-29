@@ -1,13 +1,11 @@
 ---
-title: Introduction
-heading: Dialectics of Nature
+title: THe History of European Science 
+# Introduction
+# heading: 
+# Dialectics of Nature
 date: 2022-02-01
+image: "/covers/nature.jpg"
 description: Dialectics of Nature
-
-linkb: "/research/engels/dialectics/"
-linkbtext: "Index"
-linkf: "/research/engels/dialectics/"
-linkftext: "Index"
 author: "Frederick Engels"
 icon: /icons/engels.png
 ---
@@ -16,11 +14,36 @@ icon: /icons/engels.png
 (1883)
 
 
-MODERN natural science, which alone has achieved an all-round systematic and scientific development, as contrasted with the brilliant natural-philosophical intuitions of antiquity and the extremely important but sporadic discoveries of the Arabs, which for the most part vanished without results – this modern natural science dates, like all more recent history, from that mighty epoch which we Germans term the Reformation, from the national misfortune that overtook us at that time, and which the French term the Renaissance and the Italians the Cinquecento, although it is not fully expressed by any of these names. It is the epoch which had its rise in the last half of the fifteenth century. 
+MODERN natural science alone has achieved an all-round systematic and scientific development. It began from that mighty epoch which:
+- we Germans call the Reformation
+- the French call the Renaissance
+- the Italians the Cinquecento
 
-Royalty, with the support of the burghers of the towns, broke the power of the feudal nobility and established the great monarchies, based essentially on nationality, within which the modern European nations and modern bourgeois society came to development. And while the burghers and nobles were still fighting one another, the peasant war in Germany pointed prophetically to future class struggles, not only by bringing on to the stage the peasants in revolt – that was no longer anything new – but behind them the beginnings of the modern proletariat, with the red flag in their hands and the demand for common ownership of goods on their lips. In the manuscripts saved from the fall of Byzantium, in the antique statues dug out of the ruins of Rome, a new world was revealed to the astonished West, that of ancient Greece: the ghosts of the Middle Ages vanished before its shining forms; Italy rose to an undreamt-of flowering of art, which seemed like a reflection of classical antiquity and was never attained again. 
+This epoch began in the last half of the 15th century.
 
-In Italy, France, and Germany a new literature arose, the first, modern literature; shortly afterwards came the classical epochs of English and Spanish literature. The bounds of the old orbis terrarum were pierced. Only now for the first time was the world really discovered and the basis laid for subsequent world trade and the transition from handicraft to manufacture, which in its turn formed the starting-point for modern large scale industry. 
+It contrasted with:
+- the brilliant natural-philosophical intuitions of antiquity and 
+- the extremely important but sporadic discoveries of the Arabs
+<!--  , which for the most part vanished without results –  -->
+
+ 
+The Royalty were supported by the town burghers. They:
+- broke the power of the feudal nobility
+- established the great monarchies, based on nationality
+
+This led to:
+- the modern European nations and
+- modern bourgeois society
+
+The burghers and nobles were still fighting each other. 
+
+the peasant war in Germany pointed prophetically to future class struggles, not only by bringing on to the stage the peasants in revolt – that was no longer anything new – but behind them the beginnings of the modern proletariat, with the red flag in their hands and the demand for common ownership of goods on their lips.
+
+In the manuscripts saved from the fall of Byzantium, in the antique statues dug out of the ruins of Rome, a new world was revealed to the astonished West, that of ancient Greece: the ghosts of the Middle Ages vanished before its shining forms; Italy rose to an undreamt-of flowering of art, which seemed like a reflection of classical antiquity and was never attained again. 
+
+In Italy, France, and Germany a new literature arose, the first, modern literature; 
+
+shortly afterwards came the classical epochs of English and Spanish literature. The bounds of the old orbis terrarum were pierced. Only now for the first time was the world really discovered and the basis laid for subsequent world trade and the transition from handicraft to manufacture, which in its turn formed the starting-point for modern large scale industry. 
 
 The dictatorship of the Church over men's minds was shattered; it was directly cast off by the majority of the Germanic peoples, who adopted Protestantism, while among the Latins a cheerful spirit of free thought, taken over from the Arabs and nourished by the newly-discovered Greek philosophy, took root more and more and prepared the way for the materialism of the eighteenth century.
 

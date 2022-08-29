@@ -1,3 +1,18 @@
+P 3,000 build 
+
+130 elivirs
+pandamart 4 social
+
+125 savilas
+food rescue ph 125
+capri 125
+
+505 trade points
+4 social points
+
+
+
+
 1. attitude
 2. behavior
 

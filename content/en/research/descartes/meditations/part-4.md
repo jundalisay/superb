@@ -1,14 +1,10 @@
 ---
 title: "Truth and falsehood"
-heading: Part 4 of the Meditations Simplified
-date: 2022-01-31
+heading: Part 4
+date: 2022-01-15
 description: "None of my ideas of corporeal things is as distinct as my idea of the human mind, considered purely as a thinking thing with no size or shape or other bodily characteristics."
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"
-linkb: "/research/descartes/meditations/part-3b"
-linkbtext: "Part 3b"
-linkf: "/research/descartes/meditations/part-5"
-linkftext: "Part 5"
 icon: "/icons/descartes.png"
 ---
 

@@ -1,13 +1,11 @@
 ---
-heading: "Sections 2-3 of Republic Act 11647 Simplified"
+heading: "Sections 2-3"
 title: "Definitions and Inter-Agency Investment Promotion Coordination Committee IIPCC"
 description: "Foreign Investment Act Republic Act 11647"
-date: 2021-09-02
-linkf: "/maharlika/laws/foreign-investment-act"
-linkftext: "Index"
-linkb: "/maharlika/laws/foreign-investment-act/section-4"
-linkbtext: "Section 4"
+image: "/photos/handshake.jpg"
+date: 2022-03-28
 ---
+
 
 
 <!-- Section 1. Section 2 of Republic Act No. 7042 (R.A. No. 7042), as amended by RepublicAct No. 8179, 

@@ -1,20 +1,18 @@
 ---
 title: William Crookes
-heading: Dialectics of Nature
+# heading: Dialectics of Nature
 date: 2022-02-01
 description: The second eminent adept among English natural scientists is Mr. William Crookes. He discovered the chemical element thallium and the radiometer
 image: "/covers/nature.jpg"
 linkb: "/research/engels/dialectics/"
-linkbtext: "Index"
-linkf: "/research/engels/dialectics/"
-linkftext: "Index"
-author: "Frederick Engels"
 icon: /icons/engels.png
 ---
 
-The second eminent adept among English natural scientists is Mr. William Crookes. He discovered the chemical element thallium and the radiometer. 
 
-Mr. Crookes began to investigate spiritualistic manifestations about 1871. For this, he used physical and mechanical appliances, spring balances, electric batteries, etc. 
+The second eminent adept among English natural scientists is Mr. William Crookes.
+- He discovered the chemical element thallium and the radiometer. 
+- He began to investigate spiritualistic manifestations about 1871. 
+  - For this, he used physical and mechanical appliances, spring balances, electric batteries, etc. 
 
 <!-- Whether he brought to his task the main apparatus required, a sceptically critical mind, or whether he remained to the end in a fit state for working, we shall see. At any rate, within a not very long period,  -->
 

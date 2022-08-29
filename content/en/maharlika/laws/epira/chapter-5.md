@@ -2,18 +2,19 @@
 heading: "Chapter 5"
 title: "PRIVATIZATION OF THE ASSETS OF THE NATIONAL POWER CORPORATION"
 description: "EPIRA Republic Act 9136"
-date: 2021-09-02
+image: "/photos/physics/light.jpg"
+date: 2021-09-18
 ---
 
 
-SEC. 47. NPC Privatization. – Except for the assets of SPUG, the generation assets, real estate, and other disposable assets as well as IPP contracts of NPC shall be privatized in accordance with this Act. 
+SEC. 47. NPC Privatization
 
-Within six (6) months from the effectivity of this Act, the PSALM Corp shall submit a plan for the endorsement by the Joint Congressional Power Commission and the approval of the President of the Philippines, on the total privatization of the generation assets, real estate, other disposable assets as well as existing IPP contracts of NPC and thereafter, implement the same, in accordance with the following guidelines, except as provided for in Paragraph (f) herein:
+Except for the assets of SPUG, the generation assets, real estate, and other disposable assets as well as IPP contracts of NPC shall be privatized in accordance with this Act. 
 
-(a) The privatization value to the National Government of the NPC generation assets, real estate,
-other disposable assets as well as IPP contracts shall be optimized;
-(b) The participation by Filipino citizens and corporations in the purchase of NPC assets shall be
-encouraged:
+Within 6 months from the effectivity of this Act, the PSALM Corp shall submit a plan for the endorsement by the Joint Congressional Power Commission and the approval of the President of the Philippines, on the total privatization of the generation assets, real estate, other disposable assets as well as existing IPP contracts of NPC and thereafter, implement the same, in accordance with the following guidelines, except as provided for in Paragraph (f) herein:
+
+- a) The privatization value to the National Government of the NPC generation assets, real estate, other disposable assets as well as IPP contracts shall be optimized;
+- b) The participation by Filipino citizens and corporations in the purchase of NPC assets shall be encouraged:
 In the case of foreign investors, at least seventy-five percent (75%) of the funds used to acquire
 NPC-generation assets and IPP contracts shall be inwardly remitted and registered with the Bangko Sentral
 ng Pilipinas.

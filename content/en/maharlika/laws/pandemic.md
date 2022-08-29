@@ -2,11 +2,7 @@
 title: "Pandemic and All-Hazards Preparedness Act"
 description: "Miriam Defensor Santiago wrote the Pandemic Bill way before the pandemic struck the Philippines"
 date: 2020-07-10
-image: https://sorasystem.sirv.com/photos/sick.jpg
-linkb: "/maharlika/laws"
-linkbtext: "Index"
-linkf: "/maharlika/laws"
-linkftext: "Index"
+image: /photos/med/covid.jpg
 aliases:
   "/maharlika/governance/pandemic-bill"
 ---

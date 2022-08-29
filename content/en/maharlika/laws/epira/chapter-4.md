@@ -1,14 +1,16 @@
 ---
 heading: "Chapter 4"
-title: "REGULATION OF THE ELECTRIC POWER INDUSTRY"
+title: "Regulation Of The Electric Power Industry"
 description: "EPIRA Republic Act 9136"
-date: 2021-09-02
+image: "/photos/physics/light.jpg"
+date: 2021-09-21
 ---
 
 
 
-SEC. 38. Creation of the Energy Regulatory Commission. There is hereby created an
-independent, quasi-judicial regulatory body to be named the Energy Regulatory Commissions (ERC). For
+SEC. 38. Creation of the Energy Regulatory Commission.
+
+There is hereby created an independent, quasi-judicial regulatory body to be named the Energy Regulatory Commissions (ERC). For
 this purpose, the existing Energy Regulatory Board (ERB) created under Executive Order No. 172, as
 amended, is hereby abolished.
 

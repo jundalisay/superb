@@ -1,12 +1,9 @@
 ---
 title: Dialectics
 heading: Part 2
-date: 2022-02-01
+date: 2022-01-30
+image: "/covers/nature.jpg"
 description: Dialectics of Nature
-linkb: "/research/engels/dialectics/"
-linkbtext: "Index"
-linkf: "/research/engels/dialectics/"
-linkftext: "Index"
 author: "Frederick Engels"
 icon: /icons/engels.png
 ---

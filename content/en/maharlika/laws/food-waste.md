@@ -3,10 +3,7 @@ heading: "Senate Bill 423"
 title: "Food Waste Reduction Act"
 description: "Food Waste Reduction Act"
 date: 2015-07-19
-# linkf: "/maharlika/laws/foreign-investment-act"
-# linkftext: "Index"
-# linkb: "/maharlika/laws/foreign-investment-act/section-4"
-# linkbtext: "Section 4"
+image: /photos/objects/apples.jpg
 ---
 
 

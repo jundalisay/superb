@@ -1,13 +1,9 @@
 ---
 title: "Loans"
-heading: "Article 12b of the Bangsamoro Basic Law Simplified"
+heading: "Article 12b"
 description: "The contracting of loans, credits, and other forms of indebtedness by the Bangsamoro Government shall be for Bangsamoro's development and the people's welfare"
-date: 2021-09-02
+date: 2021-09-01
 image: "/covers/bbl.jpg"
-linkb: "/maharlika/laws/bbl/article-12"
-linkbtext: "article-12"
-linkf: "/maharlika/laws/bbl/article-13"
-linkftext: "article-13"
 ---
 
 

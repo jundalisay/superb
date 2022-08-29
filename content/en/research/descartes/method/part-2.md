@@ -1,15 +1,14 @@
-+++
-title= "Single Founders"
-heading= "Part 2"
-author= "Rene Descartes"
-image= "/covers/method.jpg"
-description= "Rene Descartes 1635"
-linkb= "/research/descartes/meditations/part-1"
-linkbtext= "Part 1"
-linkf= "/research/descartes/meditations/part-3"
-linkftext= "Part 3"
-icon= "/icons/descartes.png"
-+++
+---
+heading: Part 2
+title: Single Founders
+limkTitle: Part 2
+date: 2022-01-25
+description: Rene Descartes 1635
+image: "/covers/method.jpg"
+author: "Rene Descartes"
+icon: /icons/descartes.png
+---
+
 
 
 I went to Germany, attracted by its wars. 

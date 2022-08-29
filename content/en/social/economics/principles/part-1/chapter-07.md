@@ -5,10 +5,6 @@ title: "Demand Inflation Deflation"
 date: 2022-03-06
 image: /photos/buy.jpg
 description: ""
-linkb: /social/economics/principles/part-1/chapter-06
-linkbtext: "Chapter 6"
-linkf: /social/economics/principles/part-1/chapter-07b
-linkftext: "chapter-07b"
 author: Dalisay
 aliases:
   /social/economics/inflation-deflation

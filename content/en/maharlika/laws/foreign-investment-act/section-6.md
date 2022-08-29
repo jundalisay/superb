@@ -1,13 +1,9 @@
 ---
 title: "Registration of Investments"
-heading: "Section 6 of Republic Act 11647 Simplified"
+heading: "Section 6"
 description: "Foreign Investment Act Republic Act 11647"
-date: 2021-09-02
-# image: /photos/objects/sun.jpg
-linkf: "/maharlika/laws/foreign-investment-act/section-4"
-linkftext: "section 4"
-linkb: "/maharlika/laws/foreign-investment-act/section-9"
-linkbtext: "Sec 9"
+image: "/photos/handshake.jpg"
+date: 2022-03-20
 ---
 
 ## Section 6 

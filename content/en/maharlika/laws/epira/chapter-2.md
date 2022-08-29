@@ -2,11 +2,14 @@
 heading: "Chapter 2"
 title: "Organization And Operation Of The Electric Power Industry"
 description: "EPIRA Republic Act 9136"
-date: 2021-09-02
+image: "/photos/physics/light.jpg"
+date: 2021-09-27
 ---
 
 
-SEC. 5. Organization. – The electric power industry shall be divided into 4 sectors:
+SEC. 5. Organization
+
+The electric power industry shall be divided into 4 sectors:
 
 - generation
 - transmission

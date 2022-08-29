@@ -1,14 +1,11 @@
 ---
 title: "Economy And Patrimony"
-heading: "Article 13 of the Bangsamoro Basic Law Simplified"
+heading: "Article 13"
 description: "The Bangsamoro Government’s economic policies and programs shall be based on the principle of social justice"
-date: 2021-09-02
+date: 2021-08-30
 image: "/covers/bbl.jpg"
-linkb: "/maharlika/laws/bbl/article-12b"
-linkbtext: "Article 12b"
-linkf: "/maharlika/laws/bbl/article-13b"
-linkftext: "Article 13b"
 ---
+
 
 
 Section 1. Bangsamoro Economy and Social Justice

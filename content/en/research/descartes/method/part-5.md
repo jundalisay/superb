@@ -1,14 +1,14 @@
-+++
-title= "Cartesian Cosmology"
-heading= "Part 5"
-author= "Rene Descartes"
-image= "/covers/method.jpg"
-description= "Rene Descartes 1635"
-linkb= "/research/descartes/method/part-4"
-linkbtext= "Part 4"
-linkf= "/research/descartes/method/part-5b"
-linkftext= "Part 5b"
-+++
+---
+heading: Part 5
+title: Cartesian Cosmology
+limkTitle: Part 5
+date: 2022-01-15
+description: Rene Descartes 1635
+image: "/covers/method.jpg"
+author: "Rene Descartes"
+icon: /icons/descartes.png
+---
+
 
 
 The whole whole chain of truths which I discovered would have gotten me into trouble. 

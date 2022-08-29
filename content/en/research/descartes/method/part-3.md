@@ -1,14 +1,15 @@
-+++
-title= "The 3 Maxims"
-heading= "Part 3"
-author= "Rene Descartes"
-image= "/covers/method.jpg"
-description= "Rene Descartes 1635"
-linkb= "/research/descartes/method/part-2"
-linkbtext= "Part 2"
-linkf= "/research/descartes/method/part-4"
-linkftext= "Part 4"
-+++
+---
+heading: Part 3
+title: The 3 Maxims
+limkTitle: Part 3
+date: 2022-01-20
+description: Rene Descartes 1635
+image: "/covers/method.jpg"
+author: "Rene Descartes"
+icon: /icons/descartes.png
+---
+
+
 
 <!-- Before rebuilding the house in which we live, 
 that it be pulled down

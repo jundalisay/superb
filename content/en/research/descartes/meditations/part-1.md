@@ -1,16 +1,14 @@
 ---
 title: The Difference Between Our Sensations and the Things That Produce Them
-heading: First of the Meditations Simplified
+heading: Part 1
+# First Meditation
 date: 2022-01-31
 description: "Rene Descartes starts to doubt all of his beliefs"
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"
-linkb: "/research/descartes/meditations/"
-linkbtext: "Index"
-linkf: "/research/descartes/meditations/part-2"
-linkftext: "Part 2"
 icon: "/icons/descartes.png"
 ---
+
 
 
 Rene Descartes 1639

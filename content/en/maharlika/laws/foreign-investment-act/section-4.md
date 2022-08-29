@@ -1,14 +1,11 @@
 ---
-heading: "Section 4-5 of Republic Act 11647"
+heading: "Section 4-5"
 title: "IIPCC Powers and Foreign Inuestments Promotion ond Marketing Plan"
 description: "Foreign Investment Act Republic Act 11647"
-date: 2021-09-02
-# image: /photos/objects/sun.jpg
-linkf: "/maharlika/laws/foreign-investment-act/section-1"
-linkftext: "Section 1"
-linkb: "/maharlika/laws/foreign-investment-act/section-6"
-linkbtext: "Section 6"
+image: "/photos/handshake.jpg"
+date: 2022-03-25
 ---
+
 
 ## Section 4: IIPCC Powers
 

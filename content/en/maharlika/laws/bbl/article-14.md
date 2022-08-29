@@ -1,13 +1,9 @@
 ---
 title: "Rehabilitation And Development"
-heading: "Article 14 of the Bangsamoro Basic Law Simplified"
+heading: "Article 14"
 description: "The Bangsamoro Government, with funding from the Central Government, shall rehabilitate, reconstruct and development the Bangsamoro as part of the normalization process"
-date: 2021-09-02
+date: 2021-08-25
 image: "/covers/bbl.jpg"
-linkb: "/maharlika/laws/bbl/article-13b"
-linkbtext: "Article 13"
-linkf: "/maharlika/laws/bbl/article-16"
-linkftext: "Article 16"
 ---
 
 

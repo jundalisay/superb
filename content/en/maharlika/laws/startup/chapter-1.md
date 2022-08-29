@@ -1,12 +1,9 @@
 ---
-heading: "Chapter 1 of Republic Act 11337 Simplified"
+heading: "Chapter 1"
 title: "General Provisions"
 description: "Innovative Startup Act Republic Act 11337"
-date: 2021-09-02
-linkf: "/maharlika/laws/startup"
-linkftext: "Index"
-linkb: "/maharlika/laws/startup"
-linkbtext: "Chapter 2"
+image: "/photos/team.jpg"
+date: 2020-10-31
 ---
 
 

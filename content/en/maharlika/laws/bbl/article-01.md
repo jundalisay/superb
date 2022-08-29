@@ -1,13 +1,9 @@
 ---
+heading: "Articles 1-4"
 title: "Identity and Purpose"
-heading: "Articles 1-4 of the Bangramoro Basic Law Simplified"
 description: "The Bangsamoro are natives of Mindanao, the Sulu archipelago and its adjacent islands including Palawan, and their descendants, whether of mixed or3 of full blood at the time of conquest and colonization."
-date: 2021-09-02
+date: 2021-09-30
 image: "/covers/bbl.jpg"
-linkf: "/maharlika/laws/bbl"
-linkftext: "Index"
-linkb: "/maharlika/laws/bbl/article-05"
-linkbtext: "article-05"
 ---
 
 

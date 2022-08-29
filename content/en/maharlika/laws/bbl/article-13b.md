@@ -1,13 +1,9 @@
 ---
 title: "Zones of Joint Cooperation"
-heading: "Article 13 of the Bangsamoro Basic Law Simplified"
+heading: "Article 13b"
 description: "The Bangsamoro Government’s economic policies and programs shall be based on the principle of social justice"
-date: 2021-09-02
+date: 2021-08-27
 image: "/covers/bbl.jpg"
-linkb: "/maharlika/laws/bbl/article-13"
-linkbtext: "Article 13"
-linkf: "/maharlika/laws/bbl/article-14"
-linkftext: "Article 14"
 ---
 
 

@@ -1,14 +1,11 @@
 ---
 title: "Powers Of Government"
-heading: "Article 5 of the Bangsamoro Basic Law Simplified"
+heading: "Article 5"
 description: "Reserved powers are matters over which authority and jurisdiction are retained by the Central Government"
-date: 2021-09-02
+date: 2021-09-26
 image: "/covers/bbl.jpg"
-linkb: "/maharlika/laws/bbl/article-01"
-linkbtext: "article-01"
-linkf: "/maharlika/laws/bbl/article-06"
-linkftext: "article-06"
 ---
+
 
 Section 1. Reserved Powers
 

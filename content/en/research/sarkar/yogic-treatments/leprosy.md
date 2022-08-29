@@ -1,14 +1,9 @@
-+++
-title= "Natural Remedies for Leprosy"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "Femoral hernia happens if the intenstine pushes out through the hole in the canal of nerve fibres and the muscular network controlling the legs"
-image= "/photos/med/leprosy.jpg"
-linkb= "/research/sarkar/yogic-treatments/haemorrhoids"
-linkbtext= "Haemorrhoids"
-linkf= "/research/sarkar/yogic-treatments/rheumatism"
-linkftext= "rheumatism"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies for Leprosy"
+description: "Femoral hernia happens if the intenstine pushes out through the hole in the canal of nerve fibres and the muscular network controlling the legs"
+image: "/photos/med/leprosy.jpg"
+icon: "/icons/yoga.jpg"
+---
 
 
 ## Symptoms

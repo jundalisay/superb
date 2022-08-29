@@ -1,12 +1,12 @@
-+++
-title= "Natural Remedies for Rheumatism"
-description= "Rheumatism patients should drink a sufficient quantity of water (say four to five seers a day, but not much at a time), and should also observe the bathing and sun-bathing procedures"
-image= "/photos/med/rheuma.jpg"
-linkb= "/research/sarkar/yogic-treatments/premature-ejaculation"
-linkbtext= "premature-ejaculation"
-linkf= "/research/sarkar/yogic-treatments/syphilis"
-linkftext= "syphilis"
-+++
+---
+title: "Natural Remedies for Rheumatism"
+description: "Rheumatism patients should drink a sufficient quantity of water (say four to five seers a day, but not much at a time), and should also observe the bathing and sun-bathing procedures"
+image: "/photos/med/rheuma.jpg"
+icon: "/icons/yoga.jpg"
+---
+
+
+
 
 ## Symptoms
 
