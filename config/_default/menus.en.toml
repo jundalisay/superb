@@ -227,7 +227,7 @@
 [[navbar]]
     identifier = "non1"
     weight = 5
-    name = "Non-enlightened A-J"
+    name = "Non-enlightened"
     url = ""
     pre = "<svg  fill='silver' class='p-1 icon' viewBox='0 0 512 512'><path d='M183.9 370.1c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zm96 0c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zm-192 0c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zm384 0c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zm-96 0c-7.6-4.4-17.4-1.8-21.8 6l-64 112c-4.4 7.7-1.7 17.5 6 21.8 2.5 1.4 5.2 2.1 7.9 2.1 5.5 0 10.9-2.9 13.9-8.1l64-112c4.4-7.6 1.7-17.4-6-21.8zM416 128c-.6 0-1.1.2-1.6.2 1.1-5.2 1.6-10.6 1.6-16.2 0-44.2-35.8-80-80-80-24.6 0-46.3 11.3-61 28.8C256.4 24.8 219.3 0 176 0 114.2 0 64 50.1 64 112c0 7.3.8 14.3 2.1 21.2C27.8 145.8 0 181.5 0 224c0 53 43 96 96 96h320c53 0 96-43 96-96s-43-96-96-96z'/></svg>"
     # pre = "<svg  fill='silver' class='p-1 icon' viewBox='0 0 576 512'><path d='M542.22 32.05c-54.8 3.11-163.72 14.43-230.96 55.59-4.64 2.84-7.27 7.89-7.27 13.17v363.87c0 11.55 12.63 18.85 23.28 13.49 69.18-34.82 169.23-44.32 218.7-46.92 16.89-.89 30.02-14.43 30.02-30.66V62.75c.01-17.71-15.35-31.74-33.77-30.7zM264.73 87.64C197.5 46.48 88.58 35.17 33.78 32.05 15.36 31.01 0 45.04 0 62.75V400.6c0 16.24 13.13 29.78 30.02 30.66 49.49 2.6 149.59 12.11 218.77 46.95 10.62 5.35 23.21-1.94 23.21-13.46V100.63c0-5.29-2.62-10.14-7.27-12.99z'/></svg>"
@@ -241,24 +241,10 @@
 
 [[navbar]]
     parent = "non1"
-    weight = 501
-    name = "Chau-Ju-Kua"
-    url = "/research/chau-ju-kua"
-    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
-
-[[navbar]]
-    parent = "non1"
-    weight = 509
-    name = "Confucius"
+    weight = 510
+    name = "CConfucius"
     url = "/research/confucius"
-    pre = "<img src='/icons/conf.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
-
-[[navbar]]
-    parent = "non1"
-    weight = 511
-    name = "Constitutions"
-    url = "/research/constitutions"
-    pre = "<svg  fill='silver' class='p-1 icon' viewBox='0 0 496 512'><path d='M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z'/></svg>"
+    # pre = "<img src='/icons/conf.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
 
 [[navbar]]
     parent = "non1"
@@ -276,13 +262,6 @@
 
 [[navbar]]
     parent = "non1"
-    weight = 525
-    name = "England"
-    url = "/research/england"
-    pre = "<img src='/flags/gb.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
-
-[[navbar]]
-    parent = "non1"
     weight = 530
     name = "George"
     url = "/research/george"
@@ -296,96 +275,120 @@
     url = "/research/hermes"
 
 
-
-
-
-
-
-
-
 [[navbar]]
-    identifier = "non2"
-    weight = 6
-    name = "Non-Enlightened K-Z"
-    pre = "<svg  fill='silver' class='p-1 icon' viewBox='0 0 352 512'><path d='M96.06 454.35c.01 6.29 1.87 12.45 5.36 17.69l17.09 25.69a31.99 31.99 0 0 0 26.64 14.28h61.71a31.99 31.99 0 0 0 26.64-14.28l17.09-25.69a31.989 31.989 0 0 0 5.36-17.69l.04-38.35H96.01l.05 38.35zM0 176c0 44.37 16.45 84.85 43.56 115.78 16.52 18.85 42.36 58.23 52.21 91.45.04.26.07.52.11.78h160.24c.04-.26.07-.51.11-.78 9.85-33.22 35.69-72.6 52.21-91.45C335.55 260.85 352 220.37 352 176 352 78.61 272.91-.3 175.45 0 73.44.31 0 82.97 0 176zm176-80c-44.11 0-80 35.89-80 80 0 8.84-7.16 16-16 16s-16-7.16-16-16c0-61.76 50.24-112 112-112 8.84 0 16 7.16 16 16s-7.16 16-16 16z'/></svg>"
-
-[[navbar]]
-    parent = "non2"
+    parent = "non1"
     weight = 600
     name = "Keynes"
     url = "/research/keynes"
     pre = "<img src='/icons/keynes.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
-    parent = "non2"
+    parent = "non1"
     weight = 601
     name = "Machiavelli"
     url = "/research/machiavelli"
     pre = "<img src='/icons/mach.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
-    parent = "non2"
+    parent = "non1"
     weight = 602
-    name = "Marx"
-    url = "/research/marx"
-    pre = "<img src='/icons/marx.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
-
-[[navbar]]
-    parent = "non2"
-    weight = 604
-    name = "Mao"
+    name = "Mao Zedong"
     url = "/research/mao"
     pre = "<img src='/icons/mao.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
 
 [[navbar]]
-    parent = "non2"
-    weight = 605
-    name = "Mill"
+    parent = "non1"
+    weight = 603
+    name = "Marx, Karl"
+    url = "/research/marx"
+    pre = "<img src='/icons/marx.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
+
+[[navbar]]
+    parent = "non1"
+    weight = 604
+    name = "Mill, JS"
     url = "/research/mill"
     pre = "<img src='/icons/mill.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
-    parent = "non2"
-    weight = 610
-    name = "Modern"
-    url = "/research/modern"
-    pre = "<svg fill='silver' class='p-1 icon' viewBox='0 0 496 512'><path d='M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z'/></svg>"
-
-[[navbar]]
-    parent = "non2"
+    parent = "non1"
     weight = 611
     name = "Mun"
     url = "/research/mun"
     pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
-    parent = "non2"
+    parent = "non1"
     weight = 618
     name = "Newton"
     url = "/research/newton"
     pre = "<img src='/icons/newton.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
 
 # [[navbar]]
-#     parent = "non2"
+#     parent = "non1"
 #     weight = 625
 #     name = "Ricardo"
 #     url = "/research/ricardo"
 #     pre = "<img src='/icons/ric.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
-    parent = "non2"
+    parent = "non1"
     weight = 630
     name = "Say"
     url = "/research/say"
     pre = "<img src='/icons/say.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
 
+
+
+
 [[navbar]]
-    parent = "non2"
+    identifier = "other"
+    weight = 6
+    name = "Others"
+    pre = "<svg fill='silver' class='p-1 icon' viewBox='0 0 192 512'><!-- Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) --><path d='M96 184c39.8 0 72 32.2 72 72s-32.2 72-72 72-72-32.2-72-72 32.2-72 72-72zM24 80c0 39.8 32.2 72 72 72s72-32.2 72-72S135.8 8 96 8 24 40.2 24 80zm0 352c0 39.8 32.2 72 72 72s72-32.2 72-72-32.2-72-72-72-72 32.2-72 72z'/></svg>"
+
+[[navbar]]
+    parent = "other"
+    weight = 641
+    name = "Chau-Ju-Kua"
+    url = "/research/chau-ju-kua"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 645
+    name = "Constitutions"
+    url = "/research/constitutions"
+    pre = "<svg  fill='silver' class='p-1 icon' viewBox='0 0 496 512'><path d='M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z'/></svg>"
+
+[[navbar]]
+    parent = "other"
+    weight = 646
+    name = "England"
+    url = "/research/england"
+    pre = "<img src='/flags/gb.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "other"
+    weight = 647
+    name = "Jagor"
+    url = "/research/jagor"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "other"
+    weight = 648
+    name = "Modern"
+    url = "/research/modern"
+    pre = "<svg fill='silver' class='p-1 icon' viewBox='0 0 496 512'><path d='M336.5 160C322 70.7 287.8 8 248 8s-74 62.7-88.5 152h177zM152 256c0 22.2 1.2 43.5 3.3 64h185.3c2.1-20.5 3.3-41.8 3.3-64s-1.2-43.5-3.3-64H155.3c-2.1 20.5-3.3 41.8-3.3 64zm324.7-96c-28.6-67.9-86.5-120.4-158-141.6 24.4 33.8 41.2 84.7 50 141.6h108zM177.2 18.4C105.8 39.6 47.8 92.1 19.3 160h108c8.7-56.9 25.5-107.8 49.9-141.6zM487.4 192H372.7c2.1 21 3.3 42.5 3.3 64s-1.2 43-3.3 64h114.6c5.5-20.5 8.6-41.8 8.6-64s-3.1-43.5-8.5-64zM120 256c0-21.5 1.2-43 3.3-64H8.6C3.2 212.5 0 233.8 0 256s3.2 43.5 8.6 64h114.6c-2-21-3.2-42.5-3.2-64zm39.5 96c14.5 89.3 48.7 152 88.5 152s74-62.7 88.5-152h-177zm159.3 141.6c71.4-21.2 129.4-73.7 158-141.6h-108c-8.8 56.9-25.6 107.8-50 141.6zM19.3 352c28.6 67.9 86.5 120.4 158 141.6-24.4-33.8-41.2-84.7-50-141.6h-108z'/></svg>"
+
+[[navbar]]
+    parent = "other"
     weight = 650
     name = "Sun-Tzu"
     url = "/research/sun-tzu"
     pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
-
 
 
 

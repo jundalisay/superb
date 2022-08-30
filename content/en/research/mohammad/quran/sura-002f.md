@@ -4,10 +4,6 @@ heading: "Sura 2e of the Quran Simplified"
 date: 2022-01-26
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002e
-linkbtext: "2e"
-linkf: /research/mohammad/quran/sura-002g
-linkftext: "2g"
 ---
 
 

@@ -1,20 +1,57 @@
 ---
-title: "How Civilizations Collapse"
-heading: "When their morals and fellow-feeling decline"
-date: 2015-09-09
+title: "The Essentials of a Civilization"
+heading: "Chapter 1b"
+# heading: "The System to Harmonize Minds Into a Society"
+# image: "/photos/social/protests.jpg"
 image: "/photos/medieval/slave.jpg"
-description: "Since morals are the basis for the creation of societies, then the decline of morals are the cause of a society's voluntary dissolution, whether a rock band or a civilization"
-linkb: "/social/supersociology"
-linkbtext: "Supersociology"
-linkf: "/medical/mental/principles/idea-of-self"
-linkftext: "Why there are 3 billion yous"
-youtube: "rVP73TV2X0s"
+# date: 2021-07-01
+date: 2022-01-30
+description : "A society is three or more entities working towards a common interest or goal"
 author: Juan
-icon: /icons/ss.png
+icon: /icons/spsoc.png
 aliases: 
   /articles/social/how-civilizations-collapse
 ---
 
+
+
+1. A Spiritual Goal or Ideology
+
+Much of your energy is misused due to the ignorance of your own self and the destination towards which you are moving. This misuse of energy is bound to cause destruction.
+
+2. Spiritual or Religious Practices 
+
+<!-- Everyone has a physical structure. The problem with every individual is to produce more and more ectoplasmic stuff by the body and then to convert it into consciousness. 
+
+There should be a proper process for this conversion. Spiritual cult consists of the conversion of the five rudimental factors into ectoplasmic stuff and then into consciousness through a special scientific process. 
+
+This is a process of metamorphosis. Spiritual cult therefore, is indispensable. But only spiritual ideology and spiritual philosophy will not do. -->
+
+3. A blending of existence and progress <!-- Asti and Bhati is --> as a socio-economic theory. 
+
+There should be a priori knowledge regarding the social structure, the distribution of wealth and its growth. For want of this knowledge there can’t be a solid ground for the construction of the social edifice.
+
+4. Social outlook
+
+All living creatures in this manifest universe are the children of the same Cosmic Entity. They are the progeny of the same Supreme Progenitor. Naturally they are bound in a thread of fraternal relations. This is the central spirit. A socio-economic theory is of no use but for this fraternal feeling. The implementation of this theory is an impossibility without Sádhaná.
+
+5. Its own scripture
+
+There is a need for the company of elevated persons (satsauṋga) in all spheres of life.
+
+The authority whose contact means satsauṋga for you is the shástra. That which elevates society by dint of sháśana is called [[shástra]]. We should have a shástra of our own. 
+
+6. Its own preceptor.
+
+
+
+## The Collapse of Civilizations
+
+<!-- heading: "When their morals and fellow-feeling decline"
+date: 2015-09-09 -->
+
+<!-- description: "Since morals are the basis for the creation of societies, then the decline of morals are the cause of a society's voluntary dissolution, whether a rock band or a civilization"
+ -->
 
 <!-- Add Ibn Khaldun -->
 
@@ -57,4 +94,3 @@ Some people wrongly attribute the collapse of empires to decadence or its citize
 Roman morals https://en.wikipedia.org/wiki/Mos_maiorum
 
  -->
- 

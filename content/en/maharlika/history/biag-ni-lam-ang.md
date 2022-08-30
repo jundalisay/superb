@@ -3,12 +3,9 @@ title: Biag ni Lam-ang
 description: "A couple named Don Juan and Namongan lived in a faraway barrio of Nalbuan.  One day, Don Juan left his pregnant wife and went to the mountain to punish a group of Igorots."
 date: 2020-07-10
 image: /covers/biag.jpg
-linkb: "/maharlika/history/was-lapu-lapu-tausug"
-linkbtext: "Was-lapu-lapu-tausug?"
-linkf: "/maharlika/governance/principal-orders-kkk"
-linkftext: "Demands of the KKK"
 icon: /icons/sun.png
 ---
+
 
 A couple named Don Juan and Namongan lived in a faraway barrio of Nalbuan.  One day, Don Juan left his pregnant wife and went to the mountain to punish a group of Igorots.  
 

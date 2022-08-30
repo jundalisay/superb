@@ -4,10 +4,6 @@ heading: "Why The Venus Project Will Never Be Realized"
 date: 2020-09-01
 image: "/images/venus.jpg"
 description: "The Resource Based Economy is similar to Marxism and will fail just the same"
-linkb: "/social/economics/fallacies/steady-state-economy"
-linkbtext: steady-state-economy-fallacy
-linkf: "/social/economics/fallacies/marx-smith"
-linkftext: marx-vs-smith
 author: Juan
 icon: /icons/pantry.png
 aliases:
@@ -17,11 +13,9 @@ aliases:
 
 Another flawed economic paradigm, aside from [the Steady State Economy](/fallacies/economics/steady-state-economy-fallacy) is the [Resource Based Economy](https://www.resourcebasedeconomy.org/about/global-resource-based-economy/) (RBE) by [Jacque Fresco](https://en.m.wikipedia.org/wiki/Jacque_Fresco). It is implemented as [The Venus Project](https://www.thevenusproject.com) which is a tech-urban master plan. This is a necessary consequence of Mr. Fresco being a designer by trade, as opposed to being a practicing scientist or civil engineer.  
 
-<br>
 
 {{< youtube PIMy0QBSQWo >}}
 
-<br>
 
 Its most striking feature is that it aims to distribute goods and services without using:
 - debt
@@ -51,7 +45,8 @@ Resource allocation in an RBE is done through rationing done by artificial intel
 
 ![Venus Project](/images/venus.jpg)
 
-<br>
+
+
 
 ## The fundemanetal flaw of RBE: No Metaphysics
 

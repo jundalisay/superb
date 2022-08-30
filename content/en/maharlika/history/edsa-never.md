@@ -3,15 +3,11 @@ title: "What if EDSA never happened?"
 description: "If EDSA never happened, then The Marcos vs Aquino rivalry would be replaced by Dutertes vs Lopezes (Poe, Aquino)"
 date: 2021-10-01
 image: "/photos/coryv.jpg"
-linkb: "/maharlika/governance/fourth-branch-government"
-linkbtext: "COA as Exchequer"
-linkf: "/maharlika/history/edsa-never"
-linkftext: "What if EDSA never happened?"
 author: Juan
 icon: /favicon.png
 icontext: Maharlikanism icon    
 aliases:
-    /articles/history/edsa-never/
+  /articles/history/edsa-never/
 ---
 
 <!-- linkb: "articles/infrastructure/edsa-traffic"

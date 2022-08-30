@@ -3,10 +3,6 @@ title: "Created Beings"
 date: 2022-01-28
 image: "/covers/timaeus.jpg"
 description: "The Simplified Timaeus by Plato"
-linkb: "/research/socrates/timaeus/chapter-04"
-linkbtext: "Chapter 4"
-linkf: "/research/socrates/timaeus/chapter-05"
-linkftext: "Chapter 5"
 ---
 
 

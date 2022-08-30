@@ -1,14 +1,10 @@
-+++
-title= "Notes"
-date= 2015-09-30
-image= "/covers/economy.jpg"
-description= ""
-linkb= "/research/say/treatise"
-linkbtext= "Index"
-linkf= "/research/say/treatise"
-linkftext= "Index"
-heading= "Notes"
-+++
+---
+title: "Notes"
+date: 2015-09-30
+image: "/covers/economy.jpg"
+description: ""
+heading: "Notes"
+---
 
 
 1. My brother, Louis Say of Nantes, has attacked this position in a short tract "Principales Causes de la
@@ -22,8 +18,7 @@ time and, place, at the mercy of individual caprice.
 
 The positive nature of value was to be established, before political economy could pretend to the character of a science, whose province it is to investigate its origin, and the consequences of its existence.
 
-2. In the earlier editions of this work, I had described the measure of value to be the value of the other product, that was the point of comparison, which was incorrect. The Nor will capital alone suffice to set in motion the mass of industry and the productive energy necessary to the formation and aggrandizement of a city, unless it present also the
-advantages of locality and of beneficent public institutions.
+2. In the earlier editions of this work, I had described the measure of value to be the value of the other product, that was the point of comparison, which was incorrect. The Nor will capital alone suffice to set in motion the mass of industry and the productive energy necessary to the formation and aggrandizement of a city, unless it present also the advantages of locality and of beneficent public institutions.
 
 quantity and not the value of that other product, is the
 measure of value in the object of valuation. This mistake
@@ -166,6 +161,7 @@ same; but society derives less benefit; for a yard of bro-
 cade makes fewer dresses than four yards of sarsenet. It is
 the grand curse of luxury, that it ever presents meanness in
 company with magnificence.
+
 16. Dupont de Nemours (Physiocratie. p. 117.) says, that “it
 must not be supposed, that the cheapness of commodities
 is advantageous to the lower classes; for the reduction of

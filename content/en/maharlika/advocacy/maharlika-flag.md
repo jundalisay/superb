@@ -1,18 +1,15 @@
-+++
-title= "Our Proposed Flag of the Republic of Maharlika"
-heading= "The Maharlikan Blue"
-description= "We propose a flag for Maharlika made up of 1 sun with 8 rays and 3 stars on a blue background"
-image= "/graphics/flag.png"
-date= 2021-07-07
-linkb= "/maharlika/advocacy"
-linkbtext= "advocacy"
-linkf= "/maharlika/advocacy/maharlikanism"
-linkftext= "Maharlikanism"
-author= "Juan"
-icon= "/favicon.png"
-fb = "https://facebook.com/maharlikanism"
-fbname = "Maharlikanism"
-+++
+---
+heading: "The Maharlikan Blue"
+title: "Our Proposed Flag of the Republic of Maharlika"
+description: "We propose a flag for Maharlika made up of 1 sun with 8 rays and 3 stars on a blue background."
+# date: 2019-09-14
+date: 2021-07-07
+# date: 2022-04-19
+image: "/graphics/flag.png"
+author: Juan
+icon: /icon/sun.png
+---
+
 
 
 The current flag of the Philippines came from the group of Emilio Aguinaldo who divided it into three main colors=

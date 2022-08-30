@@ -4,10 +4,6 @@ heading: "The Failure of the Vision Fund"
 date: 2017-01-15
 image: "/photos/econ/masa.jpg"
 description: "We predict a failure of Softbank's Vision Fund as it is based on Mercantile ideas"
-linkb: /social/economics/principles/6-efforts
-linkbtext: "6 types of effort"
-linkf: /social/economics/problems-with-money
-linkftext: "problems-with-money"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
@@ -15,6 +11,7 @@ aliases:
   /articles/taonomics/the-last-capitalist/
   /articles/pantrynomics/the-last-capitalist/  
 ---
+
 
 
 In a [previous post](/social/supersociology/precrisis-years), we mentioned that our model designated 2019 as the start of the crisis years which will be a general economic downturn culminating as a global stagflation. 

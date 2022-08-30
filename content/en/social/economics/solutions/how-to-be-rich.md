@@ -3,10 +3,6 @@ title: "5 Tips on How to be Rich according to Adam Smith"
 date: 2019-10-17
 image: /photos/objects/money.jpg
 description: "Adam Smith gave 5 tips on how to be wealthy that can be applicable even today"
-linkb: "/social/economics/solutions/how-to-solve-inequality"
-linkbtext: "how-to-solve-inequality"
-linkf: "/social/economics/solutions/how-to-be-a-wealthy-country"
-linkftext: "how-to-be-a-wealthy-country"
 author: Juan
 icon: /icons/pantry.png
 aliases:

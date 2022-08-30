@@ -5,10 +5,6 @@ description: "Those institutions which promote the public welfare are frequently
 date: 2022-01-31
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-linkb: "/research/smith/theory-moral-sentiments/part-4/chapter-1"
-linkbtext: "Chapter 1"
-linkf: "/research/smith/theory-moral-sentiments/part-4/chapter-2"
-linkftext: "Chapter 2"
 icon: /icons/smith.png
 ---
 

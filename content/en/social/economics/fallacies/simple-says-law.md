@@ -4,15 +4,12 @@ heading: "Why the Production Motive is bad"
 date: 2015-05-18
 image: /covers/say.jpg
 description : "Say's Law depends on barter which still happened in the 19th century. This is why it is not applicable to the modern economic system"
-linkb: "/social/economics/principles/consumption-motive"
-linkbtext: "Consumption Motive"
-linkf: "/social/economics/timeline"
-linkftext: timeline of Economics
 author: Juan
 icon: /icons/pantry.png
 aliases:
   /articles/taonomics/simple-says-law/
 ---
+
 
 To prove the sophistry of capitalism, we must trace the roots of its core ideas. Among its core ideas is the production motive, or the sophistical belief that what is good for the producers or sellers, or those who live by profits, is good for the nation. 
 
@@ -146,7 +143,7 @@ But this advantage is from real production alone and not from a forced circulati
 
 
 
-16 Each individual is interested in the general prosperity of all. The success of one business promotes all others. In fact, whatever profession or business a man may devote himself to, he is the better paid and the more readily finds employment, in proportion as he sees others thriving equally around him.
+{{< s v="16">}} Each individual is interested in the general prosperity of all. The success of one business promotes all others. In fact, whatever profession or business a man may devote himself to, he is the better paid and the more readily finds employment, in proportion as he sees others thriving equally around him.
 
 A talented man would find 1,000 ways to get employed in a thriving community and reward his ability. A merchant in a rich and populous town, sells to a much larger amount than one who sets up in a poor district. The former merchant is surrounded with people who:
 - produce largely in an infinity of ways
@@ -156,33 +153,33 @@ A talented man would find 1,000 ways to get employed in a thriving community and
 
 
 
-17 High production is the true source of the gains made by townseople over the country people. The division of nations into agricultural, manufacturing, and commercial, is idle enough. The success of people in agriculture is a stimulus to its manufacturing and commercial prosperity. Its flourishing manufactures and commerce gives a benefit on its agriculture also.
+{{< s v="17">}} High production is the true source of the gains made by townseople over the country people. The division of nations into agricultural, manufacturing, and commercial, is idle enough. The success of people in agriculture is a stimulus to its manufacturing and commercial prosperity. Its flourishing manufactures and commerce gives a benefit on its agriculture also.
 
 
 
-18 The position of a nation with its neighbours, is analogous to the relation of one of its provinces to the others. It has an interest in their prosperity, being sure to profit by their opulence. The US government acted most wisely in 1802 to civilize the Creek Indians. They introduced the habits of industry amongst them and make them producers capable of barter. It is useful and honourable to mankind, that one nation should have liberal principles.
+{{< s v="18">}} The position of a nation with its neighbours, is analogous to the relation of one of its provinces to the others. It has an interest in their prosperity, being sure to profit by their opulence. The US government acted most wisely in 1802 to civilize the Creek Indians. They introduced the habits of industry amongst them and make them producers capable of barter. It is useful and honourable to mankind, that one nation should have liberal principles.
 
 
 
-19 It does not hurt the national industry to import commodities from abroad.
+{{< s v="19">}} It does not hurt the national industry to import commodities from abroad.
 
 
 
-20 The encouragement of mere consumption is no benefit to commerce because the difficulty is in supplying the means, not in stimulating the desire of consumption. Production alone furnishes those means. Thus, good governments stimulate production, bad governments encourage consumption.
+{{< s v="20">}} The encouragement of mere consumption is no benefit to commerce because the difficulty is in supplying the means, not in stimulating the desire of consumption. Production alone furnishes those means. Thus, good governments stimulate production, bad governments encourage consumption.
 
 > Our comment: Say's position shows how undeveloped the world was during his time. Nowadays, there has been so much capital expenditure that the promotion of consumption is the focus, as seen in advertising and online marketing. Thus, we can say that his advocacies cannot be a universal principle.
 
 
 
-21 Since the creation of a new product is the opening of a new market for other products, to consume or destroy a product is to stop selling those other products. This is not bad if it was consumed to satisfy some human want. A rich nation's gross national re-production exceeds the gross consumption. This consumption, however, has opened no new market, but has closed the current market.
+{{< s v="21">}} Since the creation of a new product is the opening of a new market for other products, to consume or destroy a product is to stop selling those other products. This is not bad if it was consumed to satisfy some human want. A rich nation's gross national re-production exceeds the gross consumption. This consumption, however, has opened no new market, but has closed the current market.
 
 
 
-22 The general demand for products is proportionally brisk to production. The products create various degrees of demand, according to the wants, manners, capital, industry, and natural resources of each country. The most demanded products yields the best interest of money to the capitalist, the largest profits to the adventurer, and the best wages to the labourer.
+{{< s v="22">}} The general demand for products is proportionally brisk to production. The products create various degrees of demand, according to the wants, manners, capital, industry, and natural resources of each country. The most demanded products yields the best interest of money to the capitalist, the largest profits to the adventurer, and the best wages to the labourer.
 
 
 
-23 A nation that produces abundantly yields handsome profits because:
+{{< s v="23">}} A nation that produces abundantly yields handsome profits because:
 - the demand is great
 - there are always many products in the market, ready to bid for new productive services
 
@@ -196,7 +193,8 @@ Wherever production is stationary or lags behind consumption the demand graduall
 
 
 
-24 Such are the concomitants of declining production, which are only to be remedied by frugality, intelligence, activity, and freedom.
+
+{{< s v="24">}} Such are the concomitants of declining production, which are only to be remedied by frugality, intelligence, activity, and freedom.
 
 > Our comment: Here, Say strangely says that recessions are caused by the producers producing less because of wastefulness, stupidity, laziness, or limitation by governments. All of these then causes demand to fall. Of these, only the last one is realistic, as seen in the Soviet Union, Cuba, Venezuela and North Korea.
 

@@ -1,13 +1,11 @@
-+++
-title=  "Variation in Tactics"
-image=  "/covers/war.jpg"
-description=  "We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys"
-linkb=  "/research/sun-tzu/art-of-war/chapter-08"
-linkbtext=  "Chapter 8"
-linkf=  "/research/sun-tzu/art-of-war/chapter-10"
-linkftext=  "Chapter 10"
-heading=  "Chapter 9 of Sun Tzu's Art of War"
-+++
+---
+title: "Moving the Army"
+image: "/covers/war.jpg"
+description: "We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys"
+heading: "Chapter 9"
+---
+
+
 
 When encamping the army, the signs of the enemy should be observed. 
 - Pass quickly over mountains

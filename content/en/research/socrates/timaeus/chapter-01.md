@@ -1,20 +1,14 @@
-+++
-title= "The Republic Reviewed"
-date= 2022-01-31
-heading= "Chapter 1"
-image= "/covers/timaeus.jpg"
-description= "Socrates reviews Timaeus on the key ideas of the Republic"
-linkb= "/research/socrates/timaeus/"
-linkbtext= "Index"
-linkf= "/research/socrates/timaeus/chapter-02"
-linkftext= "chapter-02"
+---
+heading: "Chapter 1"
+title: "The Republic Reviewed"
+date: 2022-01-31
+image: "/covers/timaeus.jpg"
+description: "Socrates reviews Timaeus on the key ideas of the Republic"
 icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
 
 
-PERSONS OF THE DIALOGUE= Socrates, Critias, Timaeus, Hermocrates.
+Persons Of The Dialogue: Socrates, Critias, Timaeus, Hermocrates.
 
 <!-- SOCRATES= One, two, three; but where, my dear Timaeus, is the fourth of those who were yesterday my guests and are to be my entertainers to-day?
 

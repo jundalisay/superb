@@ -1,13 +1,11 @@
-+++
-title=  "Energy"
-image=  "/covers/war.jpg"
-description=  "Controlling a large force is the same as the controlling a few men. It is merely a question of dividing up their numbers"
-linkb=  "/research/sun-tzu/art-of-war/chapter-04"
-linkbtext=  "Chapter 4"
-linkf=  "/research/sun-tzu/art-of-war/chapter-06"
-linkftext=  "Chapter 6"
-heading=  "Chapter 5 of Sun Tzu's Art of War"
-+++
+---
+title: "Energy"
+image: "/covers/war.jpg"
+description: "Controlling a large force is the same as the controlling a few men. It is merely a question of dividing up their numbers"
+heading: "Chapter 5"
+---
+
+
 
 Controlling a large force is the same as the controlling a few men. It is merely a question of dividing up their numbers.
 

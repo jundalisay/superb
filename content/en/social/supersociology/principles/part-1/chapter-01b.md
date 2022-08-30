@@ -1,50 +1,38 @@
 ---
-title: "The Essentials of a Civilization"
-heading: "Chapter 1b"
-# title: "What is the Society Organism and Social Networkism?"
-# heading: "The System to Harmonize Minds Into a Society"
-image: "/photos/social/protests.jpg"
-# date: 2021-07-01
-date: 2022-01-30
-description : "A society is three or more entities working towards a common interest or goal"
-linkb: /social/supersociology/principles/collective-wave-of-desire
-linkbtext: "Collective-wave-of-desire"
-linkf: /social/supersociology/principles/social-topographic-behavior
-linkftext: "Social-topographic-behavior"
+title: "What is a Society, Nation, and State?"
+date: 2015-08-15
+image: "/photos/egypt.jpg"
+description: "A society is abtract, Nation refers to physical birth or race, State refers to a formalized society"
+youtube: "J6F2_PF2wbo"
 author: Juan
 icon: /icons/spsoc.png
-aliases:
-  /articles/supersociology/what-is-social-networkism
-  /social/social-networkism/
-  /social/supersociology/social-networkism/
 ---
 
 
 
-1. A Spiritual Goal or Ideology
+## Society
 
-Much of your energy is misused due to the ignorance of your own self and the destination towards which you are moving. This misuse of energy is bound to cause destruction.
+'Society' comes from the Latin socius which means companion which is an abstract term. 
 
-2. Spiritual or Religious Practices 
 
-<!-- Everyone has a physical structure. The problem with every individual is to produce more and more ectoplasmic stuff by the body and then to convert it into consciousness. 
+## Nation
 
-There should be a proper process for this conversion. Spiritual cult consists of the conversion of the five rudimental factors into ectoplasmic stuff and then into consciousness through a special scientific process. 
+'Nation' comes from the Latin natus which refers to birth. Thus, a nation can have two meaning:
 
-This is a process of metamorphosis. Spiritual cult therefore, is indispensable. But only spiritual ideology and spiritual philosophy will not do. -->
+1. The place where a person was born -- this leads to nationality 
+2. The ethnicity of the person at birth -- this leads to 'Cherokee nation' if one's parents are both Cherokee
+ 
 
-3. A blending of existence and progress <!-- Asti and Bhati is --> as a socio-economic theory. 
+## State
 
-There should be a priori knowledge regarding the social structure, the distribution of wealth and its growth. For want of this knowledge there can’t be a solid ground for the construction of the social edifice.
+A state is a formalized society that is non-arbitrary. 
 
-4. Social outlook
+Its opposites are kingdoms, tribes, and nations, which are arbitrary. 
 
-All living creatures in this manifest universe are the children of the same Cosmic Entity. They are the progeny of the same Supreme Progenitor. Naturally they are bound in a thread of fraternal relations. This is the central spirit. A socio-economic theory is of no use but for this fraternal feeling. The implementation of this theory is an impossibility without Sádhaná.
+Unlike a nation that has physical attributes such as a place of birth and race of parents, a state is an abstract idea. 
 
-5. Its own scripture
+A state has derivative ideas:
+- A nation-state is a collection of tribes that has evolved to govern itself. 
+- A city-state is a city that has defined its society. 
 
-There is a need for the company of elevated persons (satsauṋga) in all spheres of life.
-
-The authority whose contact means satsauṋga for you is the shástra. That which elevates society by dint of sháśana is called [[shástra]]. We should have a shástra of our own. 
-
-6. Its own preceptor.
+A state can merge with other states and become a United States or European Union, or split up like former Soviet states. The next evolution is the global state. 

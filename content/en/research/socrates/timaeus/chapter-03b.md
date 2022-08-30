@@ -1,13 +1,9 @@
 ---
 title: "The Soul"
-heading: "Chapter 3b of Timeaeus Simplified"
-date: 2021-11-20
+heading: "Chapter 3b"
+date: 2022-01-27
 image: "/covers/timaeus.jpg"
 description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
-linkb: /research/socrates/timaeus/chapter-03
-linkbtext: "Chapter 3"
-linkf: /research/socrates/timaeus/chapter-04
-linkftext: "Chapter 4"
 icon: "/icons/socrates.png"
 ---
 

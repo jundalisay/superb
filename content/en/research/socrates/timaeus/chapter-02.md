@@ -1,13 +1,9 @@
-+++
-title= "Ancient Egypt and Atlantis"
-date= 2022-01-30
-image= "/covers/timaeus.jpg"
-description= "Critias tells the story of ancient Egypt and Atlantis"
-linkb= "/research/socrates/timaeus/chapter-01"
-linkbtext= "chapter-01"
-linkf= "/research/socrates/timaeus/chapter-03"
-linkftext= "chapter-03"
-+++
+---
+title: "Ancient Egypt and Atlantis"
+date: 2022-01-30
+image: "/covers/timaeus.jpg"
+description: "Critias tells the story of ancient Egypt and Atlantis"
+---
 
 
 {{< r a="Critias" >}}
@@ -73,13 +69,27 @@ This is why the sea in those parts is impassable because there is a shoal of mud
 
 
 
+I have told you, Socrates, what the aged Critias heard from Solon and told to us.
 
+When you were speaking yesterday about your city and citizens, the tale which I have just been repeating to you came into my mind. 
 
+I was astonished at how, by some mysterious coincidence, you agreed in almost every particular with the narrative of Solon. 
 
-I have told you briefly, Socrates, what the aged Critias heard from Solon and related to us. And when you were speaking yesterday about your city and citizens, the tale which I have just been repeating to you came into my mind, and I remarked with astonishment how, by some mysterious coincidence, you agreed in almost every particular with the narrative of Solon; but I did not like to speak at the moment. For a long time had elapsed, and I had forgotten too much; I thought that I must first of all run over the narrative in my own mind, and then I would speak. And so I readily assented to your request yesterday, considering that in all such cases the chief difficulty is to find a tale suitable to our purpose, and that with such a tale we should be fairly well provided.
+<!-- But I did not like to speak at the moment. For a long time had elapsed, and I had forgotten too much; I thought that I must first of all run over the narrative in my own mind, and then I would speak. And so I readily assented to your request yesterday, considering that in all such cases the chief difficulty is to find a tale suitable to our purpose, and that with such a tale we should be fairly well provided. -->
 
-And therefore, as Hermocrates has told you, on my way home yesterday I at once communicated the tale to my companions as I remembered it; and after I left them, during the night by thinking I recovered nearly the whole of it. Truly, as is often said, the lessons of our childhood make a wonderful impression on our memories; for I am not sure that I could remember all the discourse of yesterday, but I should be much surprised if I forgot any of these things which I have heard very long ago. I listened at the time with childlike interest to the old man’s narrative; he was very ready to teach me, and I asked him again and again to repeat his words, so that like an indelible picture they were branded into my mind. As soon as the day broke, I rehearsed them as he spoke them to my companions, that they, as well as myself, might have something to say. And now, Socrates, to make an end of my preface, I am ready to tell you the whole tale. I will give you not only the general heads, but the particulars, as they were told to me. The city and citizens, which you yesterday described to us in fiction, we will now transfer to the world of reality. It shall be the ancient city of Athens, and we will suppose that the citizens whom you imagined, were our veritable ancestors, of whom the priest spoke; they will perfectly harmonize, and there will be no inconsistency in saying that the citizens of your republic are these ancient Athenians. Let us divide the subject among us, and all endeavour according to our ability gracefully to execute the task which you have imposed upon us. Consider then, Socrates, if this narrative is suited to the purpose, or whether we should seek for some other instead.
+<!-- And therefore, as Hermocrates has told you, on my way home yesterday I at once communicated the tale to my companions as I remembered it; and after I left them, during the night by thinking I recovered nearly the whole of it. Truly, as is often said,  -->
 
+The lessons of our childhood make a wonderful impression on our memories. <!-- I am not sure that I could remember all the discourse of yesterday, but I should be much surprised if I forgot any of these things which I have heard very long ago. -->
+
+<!-- I listened at the time with childlike interest to the old man’s narrative; he was very ready to teach me, and I asked him again and again to repeat his words, so that like an indelible picture they were branded into my mind. 
+
+As soon as the day broke, I rehearsed them as he spoke them to my companions, that they, as well as myself, might have something to say. And now, Socrates, to make an end of my preface,  -->
+
+I am now ready to tell you the whole tale<!-- . I will give you not only the general heads, but the particulars, as they were told to me -->.
+
+<!-- The city and citizens, which you yesterday described to us in fiction, we will now transfer to the world of reality. It shall be the ancient city of Athens, and we will suppose that the citizens whom you imagined, were our veritable ancestors, of whom the priest spoke. 
+
+They will perfectly harmonize, and there will be no inconsistency in saying that the citizens of your republic are these ancient Athenians. Let us divide the subject among us, and all endeavour according to our ability gracefully to execute the task which you have imposed upon us. Consider then, Socrates, if this narrative is suited to the purpose, or whether we should seek for some other instead. -->
 
 
 {{< l a="Socrates" >}}

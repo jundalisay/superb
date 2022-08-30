@@ -4,15 +4,12 @@ heading: "How Pantrynomics Can Aid Struggling Musicians"
 date: 2019-10-17
 image: /photos/econ/singer.jpg
 description : "The fellow-feeling advocated by Pantrynomics can help artists survive in the music industry"
-linkb: "/social/economics/solutions/points-banking"
-linkbtext: "Points Banking"
-linkf: "/social/economics/solutions/how-to-solve-inequality"
-linkftext: "How to solve inequality"
 youtube: "rVP73TV2X0s"
 icon: /icons/pantry.png
 aliases:
   /solutions/pantrynomics/how-to-survive-in-the-music-industry
 ---
+
 
 
 Taylor Swift's op-ed in The Wall Street Journal shows her continued optimism in the music industry despite its continued downturn caused by the popularity of digital music. She defends her optimism by viewing music as valueable art which can still sell, especially if the buyer falls in love with an artist.
@@ -59,7 +56,8 @@ Nature seems to have so happily adjusted our sentiments of approbation and disap
 <cite>Theory of Moral Sentiments Part 1, Section 3, Paragraph 5</cite>
 {{< /quote >}}
 
-<br> 
+
+
 
 Since the enjoyment of music is the end goal of music piracy, the pirate's pleasure combines with his self-love and lack of fellow-feeling with the musician. This becomes powerful enough to disregard the pirate's guilt at the musician's revenue loss*. 
 

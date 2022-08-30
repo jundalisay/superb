@@ -5,10 +5,6 @@ title: "Targetted Development"
 date: 2022-01-03
 image: /covers/econsp.jpg
 description: ""
-linkb: /social/economics/principles/part-4/chapter-05
-linkbtext: "Chapter 5"
-linkf: /social/economics/principles/part-4/chapter-07
-linkftext: "Chapter 7"
 author: Dalisay
 aliases:
   /social/economics/principles/development/    

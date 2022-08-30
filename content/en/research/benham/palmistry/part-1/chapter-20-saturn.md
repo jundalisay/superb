@@ -1,13 +1,10 @@
 ---
-heading: "Chapter 20 Part 1 of The Laws of Scientific Palm Reading Simplified"
+heading: "Chapter 20 Part 1"
+# of The Laws of Scientific Palm Reading Simplified
 title: "The Mount Of Saturn"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 date: 2020-01-18
 image: "/photos/objects/hand.jpg"
-linkb: "/research/benham/palmistry/part-1/chapter-19-jupiter"
-linkbtext: "Chapter 19"
-linkf: "/research/benham/palmistry/part-1/chapter-21-apollo"
-linkftext: "Chapter 21"
 ---
 
 
@@ -25,15 +22,21 @@ As single signs or in combination, the triangle, circle, trident, single vertica
 The cross-bar, grille, cross, or island indicate defects of the Mount, either of health or character; nails, color, etc. will determine which The largest number of Saturnians will be known from the fact that the apex of the Mount of Saturn is central, and the apices of the other Mounts all lean toward it. 
 
 A more pronounced identification of the type, and also a very common one, is to find the finger of Saturn standing upright, with the other fingers drawn toward it.
+
 I have chosen such an illustration to accompany this chapter because it is quite typical and much more common than the high Mount. Illustration No. 39 is also a Saturnian subject, identified by apices leaning toward Saturn, Head line deflected toward Saturn, this finger being also highest set.
 
 The Saturuian is a peculiar person, and, while we need a goodly degree of his sober qualities, it is a blessing that the world is not peopled entirely with this type, or it would be, in reality, " a vale of tears." I consider the finger of Saturn as the balance-wheel to the character, and, as an indicator, of great accuracy concerning the power possessed by the subject to hold undue enthusiasm in check. The Saturuian type keeps the Jnpiterian. the Apollonian, the Martian, and the Venusiau from going too fast and from being carried away by their excessive spirit. These brighter types, while adding gayety to the world, need the Saturnian to restrain and hold them back. 
 
 The Saturnian is a prudent, wise, sober necessity, greatly needed among the seven types, but not the one to be chosen if in any excessive degree of development. The Saturnian is the (See also No. 39.) represser, who lays his hand on the shoulder of enthusiasm and bids it take a view of the dark side before leaping. 
 
-Other types are so endowed with health and ardor that there seems to be no cautious side to their natures, and they become reckless and careless of results and the cost. The Saturnian's point of view is the gloomy one, consequently it is he who brings that forward, and causes the spontaneous types to pause and think. He is the man who can show you "how the other half lives," and thus makes you appreciate your own blessings. Socially, he lacks the ability to enter into the spirit of the occasion, and, therefore, he is often called a "wet blanket" I consider him the balance-wheel, a necessary evil, if you choose, but a type the world could not do without. The Saturnian type, to bring out its better side, should be only slightly developed. It is a bad type, as will appear later, if found in excessive degree, and not the happiest type for the possesser, even when present only in normal quantity. DISTINGUISHING MARKS ON THE MOUNT OF SATURN No. 98. DISTINGUISHING MARKS ON THE MOUNT OF SATURN. 
+Other types are so endowed with health and ardor that there seems to be no cautious side to their natures, and they become reckless and careless of results and the cost. The Saturnian's point of view is the gloomy one, consequently it is he who brings that forward, and causes the spontaneous types to pause and think. He is the man who can show you "how the other half lives," and thus makes you appreciate your own blessings. Socially, he lacks the ability to enter into the spirit of the occasion, and, therefore, he is often called a "wet blanket" I consider him the balance-wheel, a necessary evil, if you choose, but a type the world could not do without. The Saturnian type, to bring out its better side, should be only slightly developed. It is a bad type, as will appear later, if found in excessive degree, and not the happiest type for the possesser, even when present only in normal quantity. 
 
-A SATURNIAN HAND No. 99. A SATURNIAN HAND. The typical Saturnian is the tallest of the seven types and his finger is the longest on the hand. He is gaunt, thin, and pale, his skin is yellow, rough, dry, and wrinkled, hanging in flabby folds, or else drawn tightly over the bones. He is the purely bilious type, and yellow is his distinctive color. His hair is thick and dark, often black, straight and harsh. He loses it when quite young, adding baldness to his otherwise unprepossessing appearance. His face is long, commonly called " hatchet-shaped " from its thinness, his cheek bones are high and prominent, with the saffron-hued skin drawn tightly over them. The cheeks are sunken, with skin flabby and wrinkled. The eyebrows are thick and stiff", growing together over the nose and turning up at the outer ends. The eyes are deep set and extremely black, with a sad, subdued expression which changes only when flashes of anger, suspicion, or eagerness stir his mind. Being bilious, the whites of his eyes show yellow color. His ears are large, and stand out from his head, often seeming to be actually heavy. 
+<!-- DISTINGUISHING MARKS ON THE MOUNT OF SATURN No. 98. DISTINGUISHING MARKS ON THE MOUNT OF SATURN. 
+ -->
+
+<!-- A SATURNIAN HAND No. 99. A SATURNIAN HAND.  -->
+
+The typical Saturnian is the tallest of the seven types and his finger is the longest on the hand. He is gaunt, thin, and pale, his skin is yellow, rough, dry, and wrinkled, hanging in flabby folds, or else drawn tightly over the bones. He is the purely bilious type, and yellow is his distinctive color. His hair is thick and dark, often black, straight and harsh. He loses it when quite young, adding baldness to his otherwise unprepossessing appearance. His face is long, commonly called " hatchet-shaped " from its thinness, his cheek bones are high and prominent, with the saffron-hued skin drawn tightly over them. The cheeks are sunken, with skin flabby and wrinkled. The eyebrows are thick and stiff", growing together over the nose and turning up at the outer ends. The eyes are deep set and extremely black, with a sad, subdued expression which changes only when flashes of anger, suspicion, or eagerness stir his mind. Being bilious, the whites of his eyes show yellow color. His ears are large, and stand out from his head, often seeming to be actually heavy. 
 
 His nose is long, straight, and thin, coming to a sharp point at the end. The nostrils do not dilate as he breathes, but are rigid and stiff. His mouth is large, the lips thin and pale, the lower jaw and lower lip quite prominent and firm. He has good teeth in his youth, but they are soft in texture and decay early. Neither are the gums healthy, having a pale, sickly, bloodless look. If the Saturnian has a beard it is dark, stiff, and straight, growing thickly on the chin and lip, but very sparse on the cheeks. The chin is prominent and large, the neck lean and long, with muscles showing prominently like cords, and the blue veins standing out under the shrunken and flabby skin. His Adam's apple is plainly in evidence. His chest is thin, the lungs seem cramped, as if operating in narrow, contracted quarters, and his voice as it comes through the thin lips is harsh and unpleasant. The shoulders are high and have a decided stoop, and the arms are long and hang in a lifeless manner at his sides. 
 

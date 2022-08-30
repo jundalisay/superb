@@ -1,12 +1,8 @@
 ---
-title: "Kant versus Hume -- A Showdown"
+title: "Differences Between Kant and Hume"
 date: 2020-05-26
 image: /covers/kant.jpg
 description: "David Hume's philosophy is the opposite of that of Kant. Hume already said that there was no such thing as a priori knowledge, but Kant refuted this"
-linkb: /superphysics/principles/impartial-spectator
-linkbtext: Impartial Spectator
-linkf: /superphysics/principles/idea
-linkftext: "Everything is an idea"
 author: Juan
 icon: /icons/sp.png
 ---

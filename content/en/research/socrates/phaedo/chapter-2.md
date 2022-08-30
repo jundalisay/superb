@@ -1,16 +1,11 @@
-+++
-title= "The True Philosopher"
-date= 2015-09-29
-image= "/covers/phaedo.jpg"
-description= "The true philosopher is known specially for his courage and temperance. The latter is the control and regulation of the passions. It is a virtue belonging to those only who despise the body, and who pass their lives in philosophy"
-linkb= "/research/socrates/phaedo/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/socrates/phaedo/chapter-3"
-linkftext= "Chapter 3"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The True Philosopher"
+date: 2015-09-29
+image: "/covers/phaedo.jpg"
+description: "The true philosopher is known specially for his courage and temperance. The latter is the control and regulation of the passions. It is a virtue belonging to those only who despise the body, and who pass their lives in philosophy"
+icon: "/icons/soc.png"
+---
+
 
 {{< l a="Socrates" >}}
 The real philosopher has reason to be of good cheer when he is about to die. After death he may hope to obtain the greatest good in the other world. The true devotee of philosophy is always pursuing death. He has had the desire of death all his life long.
@@ -42,7 +37,7 @@ We should get rid of our eyes, ears, the whole body as these are the distracting
 
 And when real philosophers consider all these things, will they not be led to make a reflection which they will express in words something like the following? 
 
-'Have we not found,' they will say, 'a path of thought which seems to bring us and our argument to the conclusion, that while we are in the body, and while the soul is infected with the evils of the body, our desire will not be satisfied? and our desire is of the truth. 
+They will say: 'Have we not found a path of thought which seems to bring us and our argument to the conclusion, that while we are in the body, and while the soul is infected with the evils of the body, our desire will not be satisfied? and our desire is of the truth. 
 
 For the body is a source of endless trouble to us by reason of the mere requirement of food; and is liable also to diseases which overtake and impede us in the search after true being= it fills us full of loves, and lusts, and fears, and fancies of all kinds, and endless foolery, and in fact, as men say, takes away from us the power of thinking at all. Whence come wars, and fightings, and factions? 
 

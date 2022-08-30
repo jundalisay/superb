@@ -1,15 +1,11 @@
-+++
-title= "The Importance of Agriculture"
-heading= "Chapter 6 of The Economist"
-date= 2015-09-26
-image= "/covers/economist.jpg"
-description= ""
-linkb= "/research/socrates/the-economist/chapter-05/"
-linkbtext= "Chapter 5"
-linkf= "/research/socrates/the-economist/chapter-07/"
-linkftext= "Chapter 7"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Importance of Agriculture"
+heading: "Chapter 6"
+date: 2015-09-26
+image: "/covers/economist.jpg"
+description: ""
+icon: "/icons/soc.png"
+---
 
 
 {{< r a="Critobulus" >}}

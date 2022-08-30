@@ -1,13 +1,12 @@
-+++
-title=  "Attack by Stratagem"
-image=  "/covers/war.jpg"
-description=  "In the practical art of war, the best thing of all is to take the enemy's country whole and intact"
-linkb=  "/research/sun-tzu/art-of-war/chapter-02"
-linkbtext=  "Chapter 2"
-linkf=  "/research/sun-tzu/art-of-war/chapter-04"
-linkftext=  "Chapter 4"
-heading=  "Chapter 3 of Sun Tzu's Art of War"
-+++
+---
+title: "Attack by Stratagem"
+image: "/covers/war.jpg"
+description: "In the practical art of war, the best thing of all is to take the enemy's country whole and intact"
+heading: "Chapter 3"
+---
+
+
+
 
 In the practical art of war, the best thing of all is to take the enemy's country whole and intact. 
 - Shattering and destroying it is not so good.
@@ -60,7 +59,7 @@ Thus, there are five essentials for victory=
 4. Being prepared, waiting to take the enemy unprepared.
 5. Having military capacity that is not interfered with by the sovereign.
 
-Hence the saying=  
+Hence the saying:
 
 - If you know the enemy and know yourself, you need not fear the result of a hundred battles.
 - If you know yourself but not the enemy, for every victory gained you will also suffer a defeat. 

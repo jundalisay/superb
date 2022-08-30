@@ -4,10 +4,6 @@ heading: "Is self-requlation (with the future, past self, or with others) possib
 date: 2021-07-21
 image: /photos/objects/king.jpg
 description: "The Self-Regulation espoused by Adam Smith and David Hume requires fellow-feeling"
-linkb: /social/supersociology/principles/social-topographic-behavior
-linkbtext: social-topographic-behavior
-linkf: /social/supersociology/solutions/constitutional-virtues
-linkftext: constitutional-virtues
 youtube: "J6F2_PF2wbo"
 author: Juan
 icon: /icons/ss.png

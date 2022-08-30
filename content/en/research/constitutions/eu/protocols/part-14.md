@@ -1,4 +1,12 @@
-14. PROTOCOL ON CERTAIN PROVISIONS RELATING TO DENMARK AS REGARDS ECONOMIC AND MONETARY UNION
+---
+title: "PROTOCOL ON DENMARK AS REGARDS ECONOMIC AND MONETARY UNION"
+heading: "Part 14"
+date: 2021-11-20
+image: "/flags/eu.png"
+description: ""
+icon: /flags/eu.png
+---
+
 
 <!-- THE HIGH CONTRACTING PARTIES, TAKING INTO ACCOUNT that the Danish Constitution contains provisions which may imply a referendum in 
 Denmark prior to Denmark renouncing its exemption;
@@ -25,7 +33,8 @@ Article 3
 In the event of abrogation of the exemption status, the provisions of this Protocol shall cease to
 apply.
 
-15. PROTOCOL ON CERTAIN TASKS OF THE NATIONAL BANK OF DENMARK
+
+## 15. PROTOCOL ON CERTAIN TASKS OF THE NATIONAL BANK OF DENMARK
 
 <!-- THE HIGH CONTRACTING PARTIES,
 DESIRING to settle certain particular problems relating to Denmark;

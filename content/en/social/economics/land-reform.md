@@ -4,10 +4,6 @@ heading: "Security of Tenure and share of the profits"
 date: 2016-02-07
 description: "According to Adam Smith, Land Reform should focus on the productivity of the land"
 image: /photos/objects/egypt.jpg
-linkb: /social/economics/solutions/gold-standard
-linkbtext: "The Gold standard"
-linkf: "/social/economics/fallacies/supply-demand"
-linkftext: "Supply and Demand fallacy"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

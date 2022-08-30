@@ -62,11 +62,26 @@ Note whether any one line is deeper or shallower, is more defective, or has a di
 
 Look for proportion constantly, and anything which disturbs it must be used for or against the chances of the subject. 
 
-If the lines in the hand are broad and shallow, instead of deep and clear, there is an imperfect channel for the Current to pass through, and instead of being a deep stream full of strength and power, it is a shallow brook, and the Current spreads over too wide a surface to make it strong. This broad and shallow line is a feeble and weak one, and is generally full of defects and obstructions. 
+If the lines in the hand are broad and shallow, instead of deep and clear, there is an imperfect channel for the Current to pass through.
+- Instead of being a deep stream full of strength and power, it is a shallow brook. 
+- The Current spreads over too wide a surface to make it strong. 
+- This broad and shallow line is:
+  - a feeble and weak one, and
+  - generally full of defects and obstructions. 
 
-When you see that lines are clearly cut, deep, well colored, uncrossed, or unspoiled by other defects, these lines show vigor and strength in the operation of their several qualities, steadiness of purpose, evenness of temper, and these are the subjects who, while they may have many difficulties to encounter, overcome them. 
+Lines that are clearly cut, deep, well-colored, uncrossed, or unspoiled by other defects show:
+- vigor and strength in the operation of their several qualities
+- steadiness of purpose
+- evenness of temper
 
-Broad, shallow, poorly colored lines show weakness, vacillation, and discouragement, and generally these subjects achieve few results, and those are gained only after great effort and with strong outside influences to spur them. All of the changes, obstructions, and defects that occur in the lines themselves have special names, and these we will consider separately. 
+These are the subjects who overcome the many difficulties that they encouter. 
+
+Broad, shallow, poorly colored lines show weakness, vacillation, and discouragement. 
+
+These subjects achieve few results, and those are gained only after great effort and with strong outside influences to spur them. 
+
+All of the changes, obstructions, and defects that occur in the lines themselves have special names, and these we will consider separately. 
+
 
 
 ## The Uneven Line
@@ -114,9 +129,13 @@ If this is true, the new line will continue to grow in length and pull the Curre
 
 If split lines run only a short distance and stop, and the Main line continues strong, these split lines will show that the attempts to change the natural course of the life have failed, and while they show by the splits the attempts to change, they also show by their shortness that they did not succeed. 
 
-The closer these splits lie to the Main line the less likely they are to divert much of the Current. The wider they open away from the line and the deeper and clearer they are, the more importance must be placed upon them, and the more likely they are to produce a change in the course of the life. If a split line pulls away from a line and runs clear and strong to a Mount, it shows no. 2 the great attraction that Mount has for the subject, and such subjects will either strongly partake of the qualities of that Mount or will seek the companionship of subjects of that type. 
+The closer these splits lie to the Main line the less likely they are to divert much of the Current. The wider they open away from the line and the deeper and clearer they are, the more importance must be placed upon them, and the more likely they are to produce a change in the course of the life. 
 
-This is why older palmists read such lines breaking away from the Heart line as showing that the subject would marry some one of the type represented by the Mount to which this line ran. Character Of The Lines Defects And Repair Individu 159 When the seven types were less often combined than they are now, and pure specimens of the types were plentiful, it was often easy to describe the color of hair, eyes, etc., of the person a subject would likely marry. 
+If a split line pulls away from a line and runs clear and strong to a Mount, it shows no. 2 the great attraction that Mount has for the subject, and such subjects will either strongly partake of the qualities of that Mount or will seek the companionship of subjects of that type. 
+
+This is why older palmists read such lines breaking away from the Heart line as showing that the subject would marry some one of the type represented by the Mount to which this line ran.
+
+When the 7 types were less often combined than they are now, and pure specimens of the types were plentiful, it was often easy to describe the color of hair, eyes, etc., of the person a subject would likely marry. 
 
 This was possible by following the description of the appearance of the types indicated by the Mount to which the split line ran. Such feats are still possible when the split lines are strong and the types pure specimens, and while in my own readings I have never said that any subject would marry someone of a particular appearance, I have often described in this way the appearance of the person who would be most attractive to the subject as one who would be his ideal, and whom he would prefer to any other for a life partner. 
 

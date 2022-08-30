@@ -4,10 +4,6 @@ heading: "Positive Militant"
 date: 2021-07-27
 image: "/flags/ph.png"
 description : "The social cycles of Philippines last 12 years"
-linkf: "/social/cycles/russia"
-linkftext: "Russia"
-linkb: "/social/cycles/palestine"
-linkbtext: "Palestine"
 author: Juan
 icon: "/flags/ph.png"
 ---

@@ -1,13 +1,11 @@
-+++
-title=  "Attack by Fire"
-image=  "/covers/war.jpg"
-description=  "Attack by Strategem"
-linkb=  "/research/sun-tzu/art-of-war/"
-linkbtext=  "Index"
-linkf=  "/research/sun-tzu/art-of-war/"
-linkftext=  "Index"
-heading=  "Chapter 12"
-+++
+---
+title: "Attack by Fire"
+image: "/covers/war.jpg"
+description: "Attack by Strategem"
+heading: "Chapter 12"
+---
+
+
 
 There are five ways of attacking with fire. 
 

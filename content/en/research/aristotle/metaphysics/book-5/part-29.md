@@ -1,17 +1,12 @@
-+++
-title= "Defining False and Accident"
-heading= "Part 29 of Book 5"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Aristotle defines False and Accident"
-linkb= "/research/aristotle/metaphysics/book-5/part-25"
-linkbtext= "Part 29"
-linkf= "/research/aristotle/metaphysics/book-6/part-1"
-linkftext= "Part 1"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Defining False and Accident"
+heading: "Part 29 of Book 5"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "Aristotle defines False and Accident"
+icon: "/icons/aris.jpg"
+---
+
 
 "'The false' means 
 
@@ -19,9 +14,11 @@ icon= "/icons/aris.jpg"
 - because it is not put together or cannot be put together, e.g. 'that the diagonal of a square is commensurate with the side' or 'that you are sitting'; for one of these is false always, and the other sometimes; it is in these two senses that they are non-existent. 
 - There are things which exist, but whose nature it is to appear either not to be such as they are or to be things that do not exist, e.g. a sketch or a dream; for these are something, but are not the things the appearance of which they produce in us. We call things false in this way, then,-either because they themselves do not exist, or because the appearance which results from them is that of something that does not exist.
 
-2. A false account is the account of non-existent objects, in so far as it is false. Hence every account is false when applied to something other than that of which it is true; e.g. the account of a circle is false when applied to a triangle. In a sense there is one account of each thing, i.e. the account of its essence, but in a sense there are many, since the thing itself and the thing itself with an attribute are in a sense the same, e.g. Socrates and musical Socrates (a false account is not the account of anything, except in a qualified sense). 
+2. A false account is the account of non-existent objects, in so far as it is false. 
 
-Hence Antisthenes was too simple-minded when he claimed that nothing could be described except by the account proper to it,-one predicate to one subject; from which the conclusion used to be drawn that there could be no contradiction, and almost that there could be no error. But it is possible to describe each thing not only by the account of itself, but also by that of something else. This may be done altogether falsely indeed, but there is also a way in which it may be done truly; e.g. eight may be described as a double number by the use of the definition of two. "
+Hence every account is false when applied to something other than that of which it is true; e.g. the account of a circle is false when applied to a triangle. In a sense there is one account of each thing, i.e. the account of its essence, but in a sense there are many, since the thing itself and the thing itself with an attribute are in a sense the same, e.g. Socrates and musical Socrates (a false account is not the account of anything, except in a qualified sense). 
+
+Hence Antisthenes was too simple-minded when he claimed that nothing could be described except by the account proper to it,-one predicate to one subject. From this, the conclusion used to be drawn that there could be no contradiction, and almost that there could be no error. But it is possible to describe each thing not only by the account of itself, but also by that of something else. This may be done altogether falsely indeed, but there is also a way in which it may be done truly; e.g. eight may be described as a double number by the use of the definition of two. "
 
 "These things, then, are called false in these senses, but 
 

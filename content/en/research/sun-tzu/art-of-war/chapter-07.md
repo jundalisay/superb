@@ -1,13 +1,10 @@
-+++
-title=  "Maneuvering"
-image=  "/covers/war.jpg"
-description=  "Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp."
-linkb=  "/research/sun-tzu/art-of-war/chapter-06"
-linkbtext=  "Chapter 6"
-linkf=  "/research/sun-tzu/art-of-war/chapter-08"
-linkftext=  "Chapter 8"
-heading=  "Chapter 7 of Sun Tzu's Art of War"
-+++
+---
+title: "Maneuvering"
+image: "/covers/war.jpg"
+description: "Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp"
+heading: "Chapter 7"
+---
+
 
 In war, the general receives his commands from the sovereign.
 

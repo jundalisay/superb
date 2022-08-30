@@ -3,11 +3,7 @@ title: "The Meaning of Red Herring, Ad hominem, and Other Fallacies"
 date: 2020-09-29
 image: /photos/wtf.jpg
 description: "We explain the meaning of common fallacies by removing the jargon"
-linkb: /superphysics/principles/god
-linkbtext: "God is existence"
-linkf: /superphysics/fallacies/kant-apriori-fallacy
-linkftext: "The a priori fallacy of Kant"
-heading: So much jargon!
+heading: Chapter 11b
 author: Juan
 icon: /icons/sp.png
 aliases:

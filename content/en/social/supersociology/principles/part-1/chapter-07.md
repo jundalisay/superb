@@ -1,19 +1,16 @@
 ---
-title: "How Sophistry Got Established"
+title: "How Modern Education Corrups Knowledge with Shallow Reasoning"
 heading: "Caused by the For-Profit School System"
 date: 2019-06-29
 dateorig: 2013-10-21
 image: "/photos/psych/bore.jpg"
 description: "The Enlightened philosophers wrote against sophistry by the merchants and by fake scientists. Here, we lay the blame on the for-profit educational system for the current flaws in science"
-linkb: "/superphysics/fallacies/kant-apriori-fallacy"
-linkbtext: "kant-apriori-fallacy"
-linkf: "/social/supersociology"
-linkftext: "What is Supersociology?"
 author: Juan
 icon: /icons/sp.png
 aliases:
   /articles/superphysics/who-created-the-is-ought-problem
 ---
+
 
 In course of creating the new economic science, I’ve always wondered how false beliefs of the Marginal Revolution were able to formalize themselves into a science called Economics. 
 

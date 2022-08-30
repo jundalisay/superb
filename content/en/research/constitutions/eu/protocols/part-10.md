@@ -1,4 +1,12 @@
-10. PROTOCOL ON THE EXCESSIVE DEFICIT PROCEDURE
+---
+title: "Protocol On The EXCESSIVE DEFICIT PROCEDURE"
+heading: "Part 10-12"
+date: 2021-11-20
+image: "/flags/eu.png"
+description: ""
+icon: /flags/eu.png
+---
+
 
 <!-- THE HIGH CONTRACTING PARTIES,
 DESIRING to lay down the details of the excessive deficit procedure referred to in Article 3–184 of the Constitution,
@@ -37,7 +45,8 @@ Article 4
 The statistical data to be used for the application of this Protocol shall be provided by the
 Commission.
 
-11. PROTOCOL ON THE CONVERGENCE CRITERIA
+
+## 11. PROTOCOL ON THE CONVERGENCE CRITERIA
 
 <!-- THE HIGH CONTRACTING PARTIES,
 DESIRING to lay down the details of the convergence criteria which shall guide the Union in taking decisions referred to
@@ -46,6 +55,7 @@ HAVE AGREED upon the following provisions, which shall be annexed to the Treaty 
 Europe: -->
 
 Article 1
+
 The criterion on price stability referred to in Article 3-198(1)(a) of the Constitution shall mean that
 the Member State concerned has a price performance that is sustainable and an average rate of
 inflation, observed over a period of one year before the examination, that does not exceed by more
@@ -70,24 +80,20 @@ Constitution shall mean that, observed over a period of one year before the exam
 State concerned has had an average nominal long-term interest rate that does not exceed by more
 than 2 percentage points that of, at most, the three best performing Member States in terms of price
 stability. Interest rates shall be measured on the basis of long-term government bonds or comparable
-securities, taking into account differences in national definitions.954393_TRAITE_EN_301_350
-12-01-2005
-15:57
-Pagina 347
-Treaty establishing a Constitution for Europe
-347
+securities, taking into account differences in national definitions.
+
 Article 5
 The statistical data to be used for the application of this Protocol shall be provided by the
 Commission.
+
 Article 6
-The Council shall, acting unanimously on a proposal from the Commission and after consulting the
-European Parliament, the European Central Bank, and the Economic and Financial Committee
-referred to in Article 3-192 of the Constitution, adopt appropriate provisions to lay down the details
+
+The Council shall, acting unanimously on a proposal from the Commission and after consulting the European Parliament, the European Central Bank, and the Economic and Financial Committee referred to in Article 3-192 of the Constitution, adopt appropriate provisions to lay down the details
 of the convergence criteria referred to in Article 3-198 of the Constitution, which shall then replace
 this Protocol.
 
 
-12. PROTOCOL ON THE EURO GROUP
+## 12 PROTOCOL ON THE EURO GROUP
 
 <!-- THE HIGH CONTRACTING PARTIES,
 DESIRING to promote conditions for stronger economic growth in the European Union and, to that end, to develop

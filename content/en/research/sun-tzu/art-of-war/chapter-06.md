@@ -1,31 +1,45 @@
-+++
-title=  "Strong and Weak Points"
-image=  "/covers/war.jpg"
-description=  "Controlling a large force is the same as the controlling a few men. It is merely a question of dividing up their numbers"
-linkb=  "/research/sun-tzu/art-of-war/chapter-05"
-linkbtext=  "Chapter 5"
-linkf=  "/research/sun-tzu/art-of-war/chapter-07"
-linkftext=  "Chapter 7"
-heading= "Chapter 5 of Sun Tzu's Art of War"
-+++
+---
+title: "Strong and Weak Points"
+image: "/covers/war.jpg"
+description: "Controlling a large force is the same as the controlling a few men. It is merely a question of dividing up their numbers"
+heading: "Chapter 6"
+---
 
-Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted.
+
+Whoever is:
+- first in the field and awaits the coming of the enemy, will be fresh for the fight. 
+- second in the field and has to hasten to battle will arrive exhausted.
 
 Therefore, the clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him.
 
-By holding out advantages to him, he can cause the enemy to approach of his own accord; or, by inflicting damage, he can make it impossible for the enemy to draw near.
+By holding out advantages to him, he can cause the enemy to approach of his own accord. 
+- Or, by inflicting damage, he can make it impossible for the enemy to draw near.
 
-4. If the enemy is taking his ease, he can harass him; if well supplied with food, he can starve him out; if quietly encamped, he can force him to move.
+<!-- 4.  -->
 
-5. Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected.
+If the enemy is taking his ease, he can harass him. 
+- If well supplied with food, he can starve him out.
+- If quietly encamped, he can force him to move.
+
+<!-- 5.  -->
+
+Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected.
 
 6. An army may march great distances without distress, if it marches through country where the enemy is not.
 
-7. You can be sure of succeeding in your attacks if you only attack places which are undefended.You can ensure the safety of your defense if you only hold positions that cannot be attacked.
+7. You can be sure of succeeding in your attacks if you only attack places which are undefended.
 
-8. Hence that general is skillful in attack whose opponent does not know what to defend; and he is skillful in defense whose opponent does not know what to attack.
+You can ensure the safety of your defense if you only hold positions that cannot be attacked.
 
-9. O divine art of subtlety and secrecy! Through you we learn to be invisible, through you inaudible; and hence we can hold the enemy's fate in our hands.
+<!-- 8.  -->
+
+Hence, a general is skillful in:
+- attack if his opponent does not know what to defend. 
+- defense if his opponent does not know what to attack.
+
+<!-- 9.  -->
+
+Through subtlety and secrecy, we learn to be invisible, inaudible, allowing us to hold the enemy's fate in our hands.
 
 10. You may advance and be absolutely irresistible, if you make for the enemy's weak points; you may retire and be safe from pursuit if your movements are more rapid than those of the enemy.
 

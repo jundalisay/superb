@@ -1,5 +1,11 @@
-18. PROTOCOL ON THE APPLICATION OF CERTAIN ASPECTS OF ARTICLE III-130
-OF THE CONSTITUTION TO THE UNITED KINGDOM AND TO IRELAND
+---
+title: "PROTOCOL ON THE APPLICATION OF CERTAIN ASPECTS OF ARTICLE III-130 OF THE CONSTITUTION TO THE UNITED KINGDOM AND TO IRELAND"
+heading: "Part 18"
+date: 2021-11-20
+image: "/flags/eu.png"
+description: ""
+icon: /flags/eu.png
+---
 
 <!-- THE HIGH CONTRACTING PARTIES,
 DESIRING to settle certain questions relating to the United Kingdom and Ireland;
@@ -23,42 +29,44 @@ Nothing in Articles III-130 and III-265 of the Constitution or in any other prov
 Constitution or in any measure adopted under it shall prejudice the right of the United Kingdom to
 adopt or exercise any such controls. References to the United Kingdom in this Article shall include
 territories for whose external relations the United Kingdom is responsible.
+
 Article 2
+
 The United Kingdom and Ireland may continue to make arrangements between themselves relating
 to the movement of persons between their territories («the Common Travel Area»), while fully
 respecting the rights of persons referred to in Article 1, first paragraph, point (a), of this Protocol.
 Accordingly, as long as they maintain such arrangements, the provisions of Article 1 of this Protocol
 shall apply to Ireland under the same terms and conditions as for the United Kingdom. Nothing in
 Articles III-130 and III-265 of the Constitution, in any other provision of the Constitution or in any
-measure adopted under it shall affect any such arrangements.954393_TRAITE_EN_351_400
-13-01-2005
-08:00
-Pagina 359
-Treaty establishing a Constitution for Europe
-359
+measure adopted under it shall affect any such arrangements.
+
 Article 3
+
 The other Member States shall be entitled to exercise at their frontiers or at any point of entry into
 their territory such controls on persons seeking to enter their territory from the United Kingdom or
 any territories whose external relations are under its responsibility for the same purposes stated in
 Article 1 of this Protocol, or from Ireland as long as the provisions of Article 1 of this Protocol apply
 to Ireland.
+
 Nothing in Articles III-130 and III-265 of the Constitution or in any other provision of the
 Constitution or in any measure adopted under it shall prejudice the right of the other Member States
 to adopt or exercise any such controls.
+
 Article 4
+
 This Protocol shall also apply to acts which remain in force by virtue of Article IV-438 of the
 Constitution.
 
 
-19. PROTOCOL ON THE POSITION OF THE UNITED KINGDOM AND IRELAND ON POLICIES
-IN RESPECT OF BORDER CONTROLS, ASYLUM AND IMMIGRATION, JUDICIAL COOPERATION
-IN CIVIL MATTERS AND ON POLICE COOPERATION
-THE HIGH CONTRACTING PARTIES,
+## 19. Protocol On The Position Of The United Kingdom And Ireland On Policies In Respect Of Border Controls, Asylum And Immigration, Judicial Ooperation In Civil Matters And On Police Cooperation
+
+<!-- THE HIGH CONTRACTING PARTIES,
 DESIRING to settle certain questions relating to the United Kingdom and Ireland;
 HAVING REGARD to the Protocol on the application of certain aspects of Article 3-130 of the Constitution to the
 United Kingdom and Ireland,
 HAVE AGREED UPON the following provisions which shall be annexed to the Treaty establishing a Constitution for
-Europe:
+Europe: -->
+
 Article 1
 Subject to Article 3, the United Kingdom and Ireland shall not take part in the adoption by the
 Council of proposed measures pursuant to Section 2 or Section 3 of Chapter IV of Title III of Part III
@@ -81,19 +89,14 @@ In consequence of Article 1 and subject to Articles 3, 4 and 6, none of the prov
 Section 3 of Chapter IV of Title III of Part III of the Constitution or of Article 3-260 of the
 Constitution, insofar as that Article relates to the areas covered by those Sections, or of Article
 III-263 or Article 3-275(2)(a) of the Constitution, no measure adopted pursuant to those Sections or
-Articles, no provision of any international agreement concluded by the Union pursuant to those954393_TRAITE_EN_351_400
-13-01-2005
-08:00
-Pagina 361
-Treaty establishing a Constitution for Europe
-361
-Sections or Articles, and no decision of the Court of Justice of the European Union interpreting any
-such provision or measure shall be binding upon or applicable in the United Kingdom or Ireland; and
+Articles, no provision of any international agreement concluded by the Union pursuant to those Sections or Articles, and no decision of the Court of Justice of the European Union interpreting any such provision or measure shall be binding upon or applicable in the United Kingdom or Ireland; and
 no such provision, measure or decision shall in any way affect the competences, rights and
 obligations of those States; and no such provision, measure or decision shall in any way affect the
 Community or Union acquis nor form part of Union law as they apply to the United Kingdom or
 Ireland.
+
 Article 3
+
 1. The United Kingdom or Ireland may notify the Council in writing, within three months after a
 proposal has been presented to the Council pursuant to Section 2 or Section 3 of Chapter IV of Title
 III of Part III of the Constitution or after a proposal or initiative has been presented to the Council
@@ -109,6 +112,7 @@ Title III of Part III of the Constitution.
 For the purposes of this Article, a qualified majority shall be defined as at least 55 % of the members
 of the Council representing the participating Member States, comprising at least 65 % of the
 population of these States.
+
 A blocking minority must include at least the minimum number of Council members representing
 more than 35 % of the population of the participating Member States, plus one member, failing
 which the qualified majority shall be deemed attained.
@@ -124,31 +128,30 @@ The United Kingdom or Ireland may, at any time after the adoption of a measure p
 2 or Section 3 of Chapter IV of Title III of Part III of the Constitution or to Article 3-263 or to
 Article 3-275(2)(a) of the Constitution, notify its intention to the Council and to the Commission
 that it wishes to accept that measure. In that case, the procedure provided for in Article 3-420(1) of
-the Constitution shall apply mutatis mutandis.954393_TRAITE_EN_351_400
-13-01-2005
-08:00
-Pagina 362
-362
-Part IV
+the Constitution shall apply mutatis mutandis.
+
 Article 5
+
 A Member State which is not bound by a measure adopted pursuant to Section 2 or Section 3 of
 Chapter IV of Title III of Part III of the Constitution, to Article 3-263 or to Article 3-275(2)(a) of the
 Constitution, shall bear no financial consequences of that measure other than administrative costs
 entailed for the institutions, unless all members of the Council, acting unanimously after consulting
 the European Parliament, decide otherwise.
+
 Article 6
+
 Where, in cases referred to in this Protocol, the United Kingdom or Ireland is bound by a measure
 adopted pursuant to Section 2 or Section 3 of Chapter IV of Title III of Part III of the Constitution, to
 Article 3-260 of the Constitution, insofar as that Article relates to the areas covered by those
 Sections, to Article 3-263 or to Article 3-275(2)(a) of the Constitution, the relevant provisions of
 the Constitution shall apply to that State in relation to that measure.
+
 Article 7
+
 Articles 3 and 4 shall be without prejudice to the Protocol on the Schengen acquis integrated into the
 framework of the European Union.
+
 Article 8
+
 Ireland may notify the Council in writing that it no longer wishes to be covered by the terms of this
-Protocol. In that case, this Protocol shall no longer apply to Ireland.954393_TRAITE_EN_351_400
-13-01-2005
-08:00
-Pagina 363
-Treaty establishing a Constitution for Europe
+Protocol. In that case, this Protocol shall no longer apply to Ireland.

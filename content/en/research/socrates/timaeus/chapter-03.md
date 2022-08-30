@@ -1,13 +1,11 @@
-+++
-title= "Timaeus' Lecture"
-date= 2022-01-29
-image= "/covers/timaeus.jpg"
-description= "The Simplified Timaeus by Plato"
-linkb= "/research/socrates/timaeus/chapter-02"
-linkbtext= "Chapter 2"
-linkf= "/research/socrates/timaeus/"
-linkftext= "Index"
-+++
+---
+title: "Timaeus' Lecture"
+date: 2022-01-29
+image: "/covers/timaeus.jpg"
+description: "Timaeus is the most of an astronomer amongst us. He has made the nature of the universe his special study"
+---
+
+
 
 {{< q a="Critias" >}}
 Timaeus is the most of an astronomer amongst us. He has made the nature of the universe his special study. <!-- , should speak first, beginning with the generation of the world and going down to the creation of man; next, I am to receive the men whom he has created, and of whom some will have profited by the excellent education which you have given them; and then, in accordance with the tale of Solon, and equally with his law, we will bring them into court and make them citizens, as if they were those very Athenians whom the sacred Egyptian record has recovered from oblivion, and thenceforward we will speak of them as Athenians and fellow-citizens. -->

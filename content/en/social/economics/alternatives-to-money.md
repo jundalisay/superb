@@ -4,10 +4,6 @@ heading: "Grain-based Valuation"
 date: 2019-10-17
 image: "/photos/objects/money.jpg"
 description : "Economics uses money both as a store of value and tool of trade. Pantrynomics uses three tools--money, points, and barter--in order to have more avenues of wealth creation and less chance of circulation blockage. This then makes financial crises and debt slavery obsolete"
-linkb: /social/economics/problems-with-money
-linkbtext: problems-with-money
-linkf: /social/economics/solutions/bur
-linkftext: basic-universal-revenue
 youtube: "OV1JHTiDdkQ"
 author: Juan
 icon: /icons/pantry.png
@@ -18,6 +14,7 @@ aliases:
 
 <!-- Pantrynomics uses economic social contracts as the tool of trade in order to circulate value to solve the following problems with the current 
  -->
+
 
 Both Economics and Mercantilism use money as their store of value and tool of trade. Mercantilism was also called the Commercial system and now takes the form of E-commerce. 
 

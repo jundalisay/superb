@@ -118,7 +118,7 @@ For example, a cat character in a novel 100 pages is actually made up of 100-cat
 <!-- a website must be coded first before it actually exists as a physical website, deployed by its developer. But before the web developer codes the website, he must first have the idea for it. The flow of his changing ideas and feelings about the website then influence the changes to the code which then changes the actual website.  -->
 
 
-### We are Inside the Mind of the Creator
+### We are Inside the Mind of the Creator, Everything is Its Idea
 
 We can then make an analogy that the Creator of the universe began writing Its ideas onto the physical domain as the 'Big Bang'* as the first page of the novel of reality. The changes in the universe then arose from the Creator's changing ideas and feelings, just as the novel changes through time.
 

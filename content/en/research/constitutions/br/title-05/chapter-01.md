@@ -4,35 +4,35 @@ heading: "Title 5 Chapter 1"
 date: 2021-11-20
 image: "/flags/br.png"
 description: "The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, decree a state of defense"
-linkb: /research/constitutions/br
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 
 
 ## Section 1: The State of Defense
 
-Article 136.  The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, decree a state of defense to preserve or to promptly re-establish, in specific and restricted locations, the public order or the social peace threatened by serious and imminent institutional instability or affected by major natural calamities.
+Article 136.  The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, decree a state of defense to preserve or to promptly re-establish, in specific and restricted locations, the public order threatened by serious instability or natural calamities.
 
 Paragraph 1. The decree instituting the state of defense shall determine the period of its duration, shall specify the areas to be encompassed and shall indicate, within the terms and limitations of the law, the coercive measures to be in force from among the following:
+
 1. restrictions to the rights of:
-a) assembly, even if held within associations;
-b) secrecy of correspondence;
-c) secrecy of telegraph and telephone communication;
-2.  in the event of a public calamity, occupation and temporary use of public
-property and services, the Union being liable for the resulting damages and costs.
+a) assembly, even if held within associations
+b) secrecy of correspondence
+c) secrecy of telegraph and telephone communication
+
+2.  in the event of a public calamity, occupation and temporary use of public property and services, the Union being liable for the resulting damages and costs.
+
 Paragraph 2. The state of defense shall not exceed thirty days and it may be
 extended once for an identical period if the reasons that justified its decreeing persist.
+
 Paragraph 3. During the period in which the state of defense is in force:
+
 1. arrest for a crime against the State, determined by the party executing
 the measure, shall be immediately communicated by such party to the competent
 judge, who shall remit it if it is illegal, it being the arrested person’s choice to request
 examination of corpus delicti from the police authority;
 2.  the communication shall be accompanied by a statement by the authority
 as to the physical and mental state of the arrested person at the time of the filing of
-the charges;
+the charges
 3.   the imprisonment or detention of any person shall not exceed ten days,
 unless authorized by the Judicial Power;
 4. incommunicability of the arrested person is forbidden.

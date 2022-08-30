@@ -11,6 +11,8 @@ linkf= "/research/montesquieu/spirit-of-the-laws/book-10/chapter-14"
 linkftext= "Chapter 14"
 +++
 
+
+
 IF a monarchy can survive before it is weakened by its increase, it will become formidable. Its strength will remain entire while pent up by the neighbouring monarchies.
 
 Thus, a monarchy should not conquer beyond the natural limits of its government. <!-- So soon as it has passed  these limits it is prudence to stop. -->

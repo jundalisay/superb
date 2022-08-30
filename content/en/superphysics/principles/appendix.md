@@ -3,12 +3,9 @@ title: "Superphysics Defintions"
 date: 2021-12-13
 image: "/covers/hume.jpg"
 description : "Superphysics relies on precise defintions which can be eventually followed by future artificially-intelligent systems"
-linkb: /superphysics/
-linkbtext: "superphysics"
-linkf: /superphysics
-linkftext: "superphysics"
 author: Juan
 ---
+
 
 
 ## Superphysics
@@ -34,6 +31,7 @@ Positive feelings | feelings that naturally make us feel lighter, such as happin
 Positive Force | the force or flow of the Tao that leads to unification
 Soul | the mind when viewed independently of the body
 Tao | the natural flow of the evolution or mechanics of a discrete identity
+
 
 ## Supersociology
 

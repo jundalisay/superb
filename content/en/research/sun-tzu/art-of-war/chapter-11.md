@@ -1,13 +1,11 @@
-+++
-title=  "The Nine Situations"
-image=  "/covers/war.jpg"
-description=  "The art of war recognizes nine kinds of ground"
-linkb=  "/research/sun-tzu/art-of-war/chapter-10"
-linkbtext=  "Chapter 10"
-linkf=  "/research/sun-tzu/art-of-war/chapter-12"
-linkftext=  "Chapter 12"
-heading=  "Chapter 11"
-+++
+---
+title: "The Nine Situations"
+image: "/covers/war.jpg"
+description: "The art of war recognizes nine kinds of ground"
+heading: "Chapter 11"
+---
+
+
 
 The art of war recognizes nine kinds of ground= 
 
@@ -26,15 +24,15 @@ Desperate ground | Ground on which we can only be saved from destruction by figh
 
 Those who were called skillful leaders of old knew how to drive a wedge between the enemy's front and rear; to prevent co-operation between his large and small divisions; to hinder the good troops from rescuing the bad, the officers from rallying their men.
 
-16. When the enemy's men were united, they managed to keep them in disorder.
+{{< s v="16" >}} When the enemy's men were united, they managed to keep them in disorder.
 
-17. When it was to their advantage, they made a forward move; when otherwise, they stopped still.
+{{< s v="17" >}} When it was to their advantage, they made a forward move; when otherwise, they stopped still.
 
-18. If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, I should say=  "Begin by seizing something which your opponent holds dear; then he will be amenable to your will."
+{{< s v="18" >}} If asked how to cope with a great host of the enemy in orderly array and on the point of marching to the attack, I should say=  "Begin by seizing something which your opponent holds dear; then he will be amenable to your will."
 
-19. Rapidity is the essence of war=  take advantage of the enemy's unreadiness, make your way by unexpected routes, and attack unguarded spots.
+{{< s v="19" >}} Rapidity is the essence of war=  take advantage of the enemy's unreadiness, make your way by unexpected routes, and attack unguarded spots.
 
-20. The following are the principles to be observed by an invading force=  The further you penetrate into a country, the greater will be the solidarity of your troops, and thus the defenders will not prevail against you.
+{{< s v="20" >}} The following are the principles to be observed by an invading force=  The further you penetrate into a country, the greater will be the solidarity of your troops, and thus the defenders will not prevail against you.
 
 21. Make forays in fertile country in order to supply your army with food.
 

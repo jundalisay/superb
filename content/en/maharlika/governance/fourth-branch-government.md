@@ -5,11 +5,6 @@ description: "Procurement problems can be minimized by merging audit, procuremen
 # date: 2019-09-14
 date: 2021-09-19
 image: "/photos/psych/fail.jpg"
-heading: "The Resources Branch"
-linkb: "/maharlika/history/problems-philippines"
-linkbtext: "Maharlika vs Philippines"
-linkf: "/maharlika/infrastructure/edsa-traffic"
-linkftext: "EDSA Traffic"
 author: Juan
 icon: /icons/sun.png
 ---

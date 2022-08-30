@@ -1,13 +1,9 @@
 ---
-title: "Maharlikan Federalism -- Growth with Stability"
+title: "Maharlikan Federalism"
 description: "An alternative to a confederation is a federation which has a central ruler and legal system, making it stronger. Examples are the Dutch Republic (United Provinces) and the United States."
 # date: 2019-09-14
 date: 2022-04-19
 image: "/photos/medieval/lapu.jpg"
-linkb: "/maharlika/history/problems-philippines"
-linkbtext: "Maharlika vs Philippines"
-linkf: "/maharlika/infrastructure/edsa-traffic"
-linkftext: "EDSA Traffic"
 author: Juan
 icon: /icon/sun.png
 ---
@@ -44,6 +40,7 @@ Unknown to many, the Katipunan founders had a thirst for enlightenment ideas whi
 
 
 Other countries will have their own implementations. For example, our suggestion for [the overhaul of Afghanistan](https://superphysics.org/social/cycles/afghanistan/) is an Islamic federation that emphasizes the opposition to be female-led in order to counterbalance the male-dominated ruling party, and to implement Afghan constitutional virtues.
+
 
 ## The 27 Federal States
 

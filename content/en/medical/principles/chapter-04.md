@@ -1,15 +1,14 @@
 ---
+heading: Chapter 4
 title: Feelings vs Sentiments vs Emotions vs Sensations
 date: 2020-05-26
 image: /photos/sad.jpg
 description: "Feelings, Sentiments, Emotions, Sensations are similary yet different"
-linkb: /superphysics/solutions
-linkbtext: "solutions"
-linkftext: "What is ISAIAH?"
-linkf: /superphysics/solutions/isaiah
 author: Juan
 icon: /icons/sp.png
 ---
+
+
 
 While simplifying Adam Smith's Theory of Moral Sentiments, I had to think a lot whether to change 'sentiments' into 'feelings' especially since the latter is nowadays more commonly used than the former.
 

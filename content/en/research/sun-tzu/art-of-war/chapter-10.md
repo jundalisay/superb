@@ -1,15 +1,12 @@
-+++
-title=  "Terrain"
-image=  "/covers/war.jpg"
-description=  "We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys"
-linkb=  "/research/sun-tzu/art-of-war/chapter-09"
-linkbtext=  "Chapter 9"
-linkf=  "/research/sun-tzu/art-of-war/chapter-11"
-linkftext=  "Chapter 11"
-heading=  "Chapter 10 of Sun Tzu's Art of War"
-+++
+---
+title: "Terrain"
+image: "/covers/war.jpg"
+description: "We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys"
+heading: "Chapter 10"
+---
 
-There are six kinds of terrain
+
+There are 6 kinds of terrain
 
 
 Name | Description | Strategy
@@ -22,7 +19,7 @@ Precipitous heights | | occupy the raised and sunny spots and wait for him to co
 Positions very far from the enemy | | If an equally-sized enemy is far, it will be disadvantageous to go there to fight
 
 
-These six are the principles connected with Earth. The general who has attained a responsible post must be careful to study them.
+These 6 are the principles connected with Earth. The general who has attained a responsible post must be careful to study them.
 
 An army is exposed to six several calamities, not arising from natural causes, but from faults for which the general is responsible
 

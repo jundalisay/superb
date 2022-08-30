@@ -1,4 +1,12 @@
-23. PROTOCOL ON PERMANENT STRUCTURED COOPERATION ESTABLISHED BY ARTICLE I-41(6) AND ARTICLE III-312 OF THE CONSTITUTION 
+---
+title: "PROTOCOL ON PERMANENT STRUCTURED COOPERATION ESTABLISHED BY ARTICLE I-41(6) AND ARTICLE III-312 OF THE CONSTITUTION "
+heading: "Part 23"
+date: 2021-11-20
+image: "/flags/eu.png"
+description: ""
+icon: /flags/eu.png
+---
+
 
 <!-- THE HIGH CONTRACTING PARTIES,
 HAVING REGARD TO Article I‑41(6) and Article 3‑312 of the Constitution,
@@ -47,8 +55,10 @@ in response to requests from the United Nations Organisation, and which can be s
 initial period of 30 days and be extended up to at least 120 days.
 
 Article 2
+
 To achieve the objectives laid down in Article 1, Member States participating in permanent structured
 cooperation shall undertake to:
+
 (a) cooperate, as from the entry into force of the Treaty establishing a Constitution for Europe, with a
 view to achieving approved objectives concerning the level of investment expenditure on defence
 equipment, and regularly review these objectives, in the light of the security environment and of
@@ -75,7 +85,8 @@ the criteria to be established, inter alia, on the basis of Article 2, and shall
 a year. The assessment may serve as a basis for Council recommendations and European decisions
 adopted in accordance with Article 3‑312 of the Constitution.
 
-24. PROTOCOL ON ARTICLE I-41(2) OF THE CONSTITUTION
+
+## 24. PROTOCOL ON ARTICLE I-41(2) OF THE CONSTITUTION
 
 <!-- THE HIGH CONTRACTING PARTIES,
 BEARING IN MIND the need to implement fully the provisions of Article I-41(2) of the Constitution;

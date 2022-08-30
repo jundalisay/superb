@@ -1,4 +1,14 @@
-21. PROTOCOL ON EXTERNAL RELATIONS OF THE MEMBER STATES WITH REGARD TO THE CROSSING OF EXTERNAL BORDERS
+---
+title: "PROTOCOL ON EXTERNAL RELATIONS OF THE MEMBER STATES WITH REGARD TO THE CROSSING OF EXTERNAL BORDERS"
+heading: "Part 21-22"
+date: 2021-11-20
+image: "/flags/eu.png"
+description: ""
+icon: /flags/eu.png
+---
+
+
+
 
 <!-- THE HIGH CONTRACTING PARTIES, TAKING INTO ACCOUNT the need of the Member States to ensure effective controls at their external borders, in
 cooperation with third countries where appropriate,
@@ -12,7 +22,8 @@ of the Constitution shall be without prejudice to the competence of Member State
 conclude agreements with third countries as long as they respect Union law and other relevant
 international agreements.
 
-22. PROTOCOL ON ASYLUM FOR NATIONALS OF MEMBER STATES 
+
+## 22. PROTOCOL ON ASYLUM FOR NATIONALS OF MEMBER STATES 
 
 <!-- THE HIGH CONTRACTING PARTIES,
 WHEREAS, in accordance with Article I-9(1) of the Constitution, the Union recognises the rights, freedoms and
@@ -40,9 +51,8 @@ Europe: -->
 Sole article
 
 Given the level of protection of fundamental rights and freedoms by the Member States of the European Union, Member States shall be regarded as constituting safe countries of origin in respect of each other for all legal and practical purposes in relation to asylum matters. Accordingly, any application for asylum made by a national of a Member State may be taken into consideration or declared admissible for processing by another Member State only in the following cases:
-(a) if the Member State of which the applicant is a national proceeds, availing itself of the provisions
-of Article 15 of the European Convention for the Protection of Human Rights and Fundamental
-Freedoms, to take measures derogating in its territory from its obligations under that Convention
+
+(a) if the Member State of which the applicant is a national proceeds, availing itself of the provisions of Article 15 of the European Convention for the Protection of Human Rights and Fundamental Freedoms, to take measures derogating in its territory from its obligations under that Convention
 (b) if the procedure referred to in Article I‑59(1) or (2) of the Constitution has been initiated and
 until the Council, or, where appropriate, the European Council, adopts a European decision in
 respect thereof with regard to the Member State of which the applicant is a national;

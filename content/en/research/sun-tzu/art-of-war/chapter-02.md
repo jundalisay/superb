@@ -1,13 +1,10 @@
-+++
-title=  "Waging War"
-image=  "/covers/war.jpg"
-description=  "The cost of raising an army of 100,000 men is 1,000 ounces of silver per day"
-linkb=  "/research/sun-tzu/art-of-war/chapter-01"
-linkbtext=  "Chapter 1"
-linkf=  "/research/sun-tzu/art-of-war/chapter-02"
-linkftext=  "Chapter 3"
-heading=  "Chapter 2 of Sun Tzu's Art of War"
-+++
+---
+title: "Waging War"
+image: "/covers/war.jpg"
+description: "The cost of raising an army of 100,000 men is 1,000 ounces of silver per day"
+heading: "Chapter 2"
+---
+
 
 
 The cost of raising an army of 100,000 men is 1,000 ounces of silver per day.

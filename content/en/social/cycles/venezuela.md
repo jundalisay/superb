@@ -4,16 +4,13 @@ heading: "How to Restore its Fixed Capital and End the Inflation"
 date: 2014-11-02
 image: "/flags/ve.png"
 description: "We suggest the reversal of controls to restore Venezuela's fixed capital"
-linkb: "/social/cycles/united-states"
-linkbtext: "US"
-linkf: "/social/cycles/afghanistan"
-linkftext: "how-to-fix-afghanistan"
 author: Juan
 icon: "/flags/ve.png"
 aliases:
   /social/cycles/how-to-fix-venezuela
   /analysis/social-cycles/how-to-fix-venezuela/
 ---
+
 
 
 The DCTI tool can diagnose the economic health of societies according the maxims of Adam Smith. 

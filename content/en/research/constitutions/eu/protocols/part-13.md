@@ -1,4 +1,12 @@
-13. PROTOCOL ON CERTAIN PROVISIONS RELATING TO THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AS REGARDS ECONOMIC AND MONETARY UNION
+---
+title: "PROTOCOL ON THE UK AS REGARDS ECONOMIC AND MONETARY UNION"
+heading: "Part 13"
+date: 2021-11-20
+image: "/flags/eu.png"
+description: ""
+icon: /flags/eu.png
+---
+
 
 <!-- THE HIGH CONTRACTING PARTIES,
 RECOGNISING that the United Kingdom shall not be obliged or committed to adopt the euro without a separate

@@ -1,13 +1,10 @@
-+++
-title=  "Tactical Dispositions"
-image=  "/covers/war.jpg"
-description=  "The good fighters of the past first put themselves beyond the possibility of defeat. Then, they waited for an opportunity of defeating the enemy"
-linkb=  "/research/sun-tzu/art-of-war/chapter-03"
-linkbtext=  "Chapter 3"
-linkf=  "/research/sun-tzu/art-of-war/chapter-05"
-linkftext=  "Chapter 5"
-heading=  "Chapter 4 of Sun Tzu's Art of War"
-+++
+---
+title: "Tactical Dispositions"
+image: "/covers/war.jpg"
+description: "The good fighters of the past first put themselves beyond the possibility of defeat. Then, they waited for an opportunity of defeating the enemy"
+heading: "Chapter 3"
+---
+
 
 
 The good fighters of the past first put themselves beyond the possibility of defeat. Then, they waited for an opportunity of defeating the enemy.

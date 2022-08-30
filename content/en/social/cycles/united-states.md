@@ -4,10 +4,6 @@ heading: "Negative Militant"
 date: 2021-07-27
 image: "/flags/us.png"
 description : "The social cycles of the US last 17 years"
-linkb: "/social/cycles/russia"
-linkbtext: "Russia"
-linkf: "/social/cycles/venezuela"
-linkftext: "venezuela"
 author: Juan
 icon: /flags/us.png
 ---

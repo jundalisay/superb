@@ -1,14 +1,11 @@
 ---
 title: "Time and Space"
 heading: "Chapter 4"
+date: 2022-01-25
 # date= 2015-09-09
-date: 2022-01-28
 image: "/covers/timaeus.jpg"
-description: "The Simplified Timaeus by Plato"
-linkb: "/research/socrates/timaeus/chapter-03b"
-linkbtext: "Chapter 3b"
-linkf: "/research/socrates/timaeus/chapter-04b"
-linkftext: "Chapter 4b"
+description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
+icon: "/icons/socrates.png"
 ---
 
 

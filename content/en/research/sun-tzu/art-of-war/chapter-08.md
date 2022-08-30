@@ -1,25 +1,18 @@
-+++
-title=  "Variation in Tactics"
-image=  "/covers/war.jpg"
-description=  "In war, the general receives his commands from the sovereign, collects his army and concentrates his forces."
-linkb=  "/research/sun-tzu/art-of-war/chapter-07"
-linkbtext=  "Chapter 7"
-linkf=  "/research/sun-tzu/art-of-war/chapter-09"
-linkftext=  "Chapter 9"
-heading=  "Chapter 7 of Sun Tzu's Art of War"
-+++
+---
+title: "Variation in Tactics"
+image: "/covers/war.jpg"
+description: "In war, the general receives his commands from the sovereign, collects his army and concentrates his forces"
+heading: "Chapter 8"
+---
 
-In war, the general receives his commands from the sovereign, collects his army and concentrates his forces.
 
-When in difficult country, do not encamp. 
+In war, the general receives his commands from the sovereign. He then collects his army and concentrates his forces.
 
-In country where high roads intersect, join hands with your allies. 
-
-Do not linger in dangerously isolated positions. 
-
-In hemmed-in situations, you must resort to stratagem. 
-
-In desperate position, you must fight.
+- When in difficult country, do not encamp. 
+- In country where high roads intersect, join hands with your allies. 
+- Do not linger in dangerously isolated positions. 
+- In hemmed-in situations, you must resort to stratagem. 
+- In desperate position, you must fight.
 
 There are:
 - roads which must not be followed
@@ -28,9 +21,8 @@ There are:
 - positions which must not be contested
 - commands of the sovereign which must not be obeyed.
 
-The general who thoroughly understands the advantages that accompany variation of tactics knows how to handle his troops.
-
-The general who does not understand these, may be well acquainted with the configuration of the country, yet he will not be able to turn his knowledge to practical account.
+A general will know how to handle his troops if he thoroughly understands the advantages of changing tactics.
+- A general who does not change his tactics will not be able to use his knowledge practically even if he knows the configuration of the country
 
 So, the student of war who is unversed in the art of war of varying his plans, even though he be acquainted with the Five Advantages, will fail to make the best use of his men.
 
@@ -59,4 +51,3 @@ Five dangerous faults may affect a general:
 <!-- These are the five besetting sins of a general, ruinous to the conduct of war. -->
 
 When an army is overthrown and its leader slain, the cause will surely be found among these five dangerous faults. Let them be a subject of meditation.
-
