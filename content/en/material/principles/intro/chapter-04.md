@@ -5,11 +5,6 @@ title: "Universal Relativity"
 date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "We replace Einstein's Relativity with Universal Relativity as a template for all the movements in the universe, whether physical or metaphysical"
-linkTitle: "Kepler Tensor"
-linkb: /material/principles/intro/chapter-03
-linkbtext: "Rules of Movement"
-linkf: /material/principles/intro/chapter-05
-linkftext: "Kepler Tensor"
 author: Juan
 icon: /icons/spmat.png
 aliases:

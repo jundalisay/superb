@@ -1,21 +1,16 @@
-
-+++
-title=  "Productive vs Unproductive Labour"
-date=  2020-01-13
-image=  "/covers/wn.jpg"
-description=  "Production vs Services"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2o"
-linkbtext=  "Chapter 2o"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-3b"
-linkftext=  "Chapter 3b"
-heading=  "Chapter 3a"
-icon=  "/icons/smith.png"
-+++
+---
+heading:  "Chapter 3a"
+title:  "Productive vs Unproductive Labour"
+date: 2020-01-13
+image:  "/covers/wn.jpg"
+description:  "Production vs Services"
+icon:  "/icons/smith.png"
+---
 
 
 ## Production vs Services
 
-{{< s v="1" >}} Productive labour adds value while unproductive labour does not. The labour of a manufacturer adds to= 
+{{< s v="1" >}} Productive labour adds value while unproductive labour does not. The labour of a manufacturer adds to:
 - the value of the materials which he works on,
 - the value of his own maintenance, and
 - the value of his master's profit.
@@ -149,7 +144,7 @@ The rich merchant only maintains industrious people with his capital. But he com
 This proportion is very different in rich countries from that in poor countries.
 
 
-### Feudalism Creates Poverty by Reducing Productivity 
+## Feudalism Creates Poverty by Reducing Productivity 
 
 9 In opulent European countries, the largest portion of the produce of the land resupplied the capital of the rich and independent farmer. The other portion paid for= 
 - his profits and
@@ -169,7 +164,7 @@ Those who were not bondmen were tenants-at-will.
 
 
 
-### Rent Increases in Value, But Decreases Its Share in the Economy as a Nation Develops 
+## Rent Increases in Value, But Decreases Its Share in the Economy as a Nation Develops 
 
 Presently in Europe, the landlord's share sometimes does not exceed 25% of the produce of the land.
 - The rent of land in all the improved parts of the country has quadrupled since those ancient times.
@@ -211,14 +206,15 @@ In contrast, in commercial and manufacturing towns, the <!-- inferior ranks of p
     
 Our ancestors were idle for the lack of encouragement to industry. The proverb says=  
 
-{{< quote >}}
+{{< q >}}
 “It is better to play for nothing, than to work for nothing."
-</div>
+{{< /q >}}
+
 
 We are more industrious than our forefathers because the funds presently maintaining industry are much greater than the funds maintaining idleness, compared with the funds 200-300 years ago*.
 
 
-> *Superphysics Note=  This is why Economic Superphysics seeks to repeal both the minimum wage and contractualization
+> *Superphysics Note:  This is why Economic Superphysics seeks to repeal both the minimum wage and contractualization
 
 
 

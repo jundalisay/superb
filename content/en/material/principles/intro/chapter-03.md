@@ -1,23 +1,34 @@
 ---
 heading: "Chapter 3"
-title: "Three Rules of Movement"
+title: "The Three Rules of Movement"
 # heading: "Bye bye Einstein!"
 date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "Rene Descartes gave 3 Rules of Movement in The World"
-linkTitle: "Kepler Tensor"
-linkb: /material/principles/intro/chapter-02
-linkbtext: "Gravitational Signatures"
-linkf: /material/principles/intro/chapter-04
-linkftext: "Universal Relativity"
+linkTitle: "3 Rules"
 author: Juan
 icon: /icons/spmat.png
 ---
 
-Superhysics uses the 3 Rules of Movement from Descartes instead of the Law of Motion from Isaac Newton. This is because Newton's laws are already included in the Rules of Descartes.  
+
+To solve the mysteries in Physics, such as gravitation, dark matter, and dark energy, we replace Newton's Three Laws with the Three Rules of Descartes.
+
+Rule 1 absorbs Newton's First and Second Laws.
 
 ![rule 1](/covers/rule1.jpg)
 
+Rule 2 matches Newton's Third Law.
+
 ![rule 2](/covers/rule2.jpg)
 
+Rule 3 leads to angular momentum and the path integrals of Quantum Mechanics.
+
 ![rule 3](/covers/rule3.jpg)
+
+Newton was unable to think of probabilistic paths because he ascribed the cause of movement to matter. This led him to believe that gravity was a pulling force which did not necessitate different paths.
+
+In reality, gravity is pushing force from the invisible aether that directs things towards mass. <!-- This manifests as the -->
+
+Rule 3 is important because it has relativity baked in, leading to gravitational lensing and wave-particle duality. This removes the need for Einstein's fabric, tensors, and c. It restores gravity as a force and demotes spacetime as an illusory effect of gravitation instead of being its cause.
+
+<!-- Superhysics uses the 3 Rules of Movement from Descartes instead of the Law of Motion from Isaac Newton. This is because Newton's laws are already included in the Rules of Descartes.   -->

@@ -6,10 +6,6 @@ date: 2020-01-31
 image: "/covers/spblack.jpg"
 # image: /photos/meta/buddhism.jpg
 description: "The aethereal layer is the higgs field in Physics and is the highest physical layer"
-linkb: /material/principles/intro/chapter-05
-linkbtext: "Kepler Tensor"
-linkf: /material/principles/part-1/chapter-02
-linkftext: Qoa
 author: Juan
 icon: /icons/spmat.png
 aliases:

@@ -5,10 +5,6 @@ date: 2020-01-31
 # image: /photos/meta/buddhism.jpg
 image: "/covers/spblack.jpg"
 description: "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence or the Mind of Brahma"
-linkb: /material/principles/part-1/chapter-01
-linkbtext: "Aethereal Layer"
-linkf: /material/principles/part-1/chapter-03
-linkftext: "Aethereal Relativity"
 author: Juan
 icon: /icons/spmat.png
 aliases:

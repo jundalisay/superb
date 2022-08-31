@@ -6,10 +6,6 @@ linkTitle: "Spatial Layer"
 # image: /photos/physics/galaxy.jpg
 image: "/covers/spblack.jpg"
 description: "The spatial layer is the spacetime in Physics"
-linkb: /material/principles/part-1/chapter-03
-linkbtext: Aethereal Relativity
-linkf: /material/principles/part-2/chapter-02
-linkftext: Qost
 author: Juan
 icon: /icons/spmat.png
 ---

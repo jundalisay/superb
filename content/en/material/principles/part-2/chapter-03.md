@@ -7,10 +7,6 @@ date: 2021-12-30
 image: /covers/kepler.jpg
 description: "The Source of All Movement is Internal, Not External"
 linkTitle: "Gravitational Relativity"
-linkb: /articles/material/part-2/chapter-02
-linkbtext: Qost
-linkf: /articles/material/part-3/chapter-01
-linkftext: Radiant Layer
 icon: /icons/spmat.png
 aliases:
   /articles/material/gravitational-relativity

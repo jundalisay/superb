@@ -7,10 +7,6 @@ linkTitle: "Qost"
 # image: /photos/physics/galaxy.jpg
 image: "/covers/spblack.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
-linkb: /material/principles/part-2/chapter-01
-linkbtext: Spatial Layer
-linkf: /material/principles/part-2/chapter-03
-linkftext: Gravitational Relativity
 author: Juan
 icon: /icons/spmat.png
 aliases:

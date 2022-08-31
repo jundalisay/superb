@@ -29,14 +29,13 @@ This results in changes in the atmosphere and the environment, causing climatic 
 
 3. The organic processes in the soil are halted. 
 
-The micro-organisms die, and so do the worms, while the organic matter breaks down and ceases to retain water. Hence, the soil making process is stopped.
+Without the trees, micro-organisms die. This causes the worms to die. This causes the organic matter to break down and cease to retain water. Hence, the soil-making process is stopped.
 
-Central Ráŕh was full of lush flora, wildlife and large rivers three thousand years ago. Even 30 years ago there were many trees and dense forests in the region. Now there are hardly any trees, few wild animals, and the rivers have almost dried up. For eight months of the year, the region is dry. 
+Central Ráŕh was full of lush flora, wildlife and large rivers three thousand years ago. Even 30 years ago there were many trees and dense forests in the region. Now there are hardly any trees, few wild animals, and the rivers have almost dried up. For 8 months of the year, the region is dry. 
 
-The soil is hard and barren, contains few worms or micro-organisms and little organic material, which acts like a sponge to retain the rainwater. The annual rains wash away much of the topsoil that still exists, hence the remaining soil has become coarse and sandy. As a result, the whole region is subjected to flash floods and severe soil erosion.
+The soil is hard and barren, contains few worms or micro-organisms and little organic material, which acts like a sponge to retain the rainwater. 
 
-
-
+The annual rains wash away much of the topsoil that still exists, hence the remaining soil has become coarse and sandy. As a result, the whole region is subjected to flash floods and severe soil erosion.
 
 
 

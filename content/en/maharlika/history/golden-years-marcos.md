@@ -3,10 +3,6 @@ title: "The Golden Years of the Marcos Era"
 date: 2021-09-02
 description: "Were there really golden years during the Marcos Era? Could it have been continued after 1986?"
 image: "/photos/marcos2.jpg"
-# linkb: "/maharlika/metaphysics/democracy-is-bad"
-# linkbtext: "Democracy-is-bad"
-# linkf: "/maharlika/politicians/gloria-arroyo"
-# linkftext: "Gloria Arroyo: Evil Genius"
 author: Juan
 icon: /icons/sun.png
 aliases:
