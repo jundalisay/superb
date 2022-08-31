@@ -1,15 +1,14 @@
-+++
-title=  "Stock Lent At Interest"
-date=  2020-01-08
-image=  "/covers/wn.jpg"
-description=  "The stock lent at interest is always considered as a capital by its lender."
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-3d"
-linkbtext=  "Chapter 3d"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-4b"
-linkftext=  "Chapter 4b"
-heading=  "Chapter 4a"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 4a"
+title: "Stock Lent At Interest"
+linkTitle: "Chapter 3e"
+date: 2020-01-09
+image: "/covers/wn.jpg"
+description: "The stock lent at interest is always considered as a capital by its lender"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 {{< s v="1" >}} The stock lent at interest is always considered as a capital by its lender.
@@ -48,7 +47,8 @@ The capital borrowed replaces the capitals of those shopkeepers and traders.
 Those capitals could not have been replaced with the rents of the estates of the country gentlemen.
 It is borrowed not to be spent, but to replace a capital which was spent before.
 
-4 Almost all loans at interest are made in paper or metal money.
+
+{{< s v="4" >}} Almost all loans at interest are made in paper or metal money.
 
 The borrower really wants and the lender really supplies him, not with money, but with the money's worth or the goods that it can purchase.
 Only those goods can be used by the borrower as his stock for immediate consumption or as his capital.
@@ -91,7 +91,8 @@ The goods purchased by those different debtors will bring back money with a prof
 The same pieces of money can thus serve as the instrument of different loans to three or to 30 times their value.
 They may likewise successively serve as the instrument of repayment.
 
-6 In this way, the lender assigns a certain portion of the produce to the borrower through the capital which he lends, provided that the borrower shall assign to the lender a smaller portion, called the interest.
+
+{{< s v="6" >}} In this way, the lender assigns a certain portion of the produce to the borrower through the capital which he lends, provided that the borrower shall assign to the lender a smaller portion, called the interest.
 
 At the end of the loan, a considerable portion of that produce is assigned to the lender, called the repayment.
 

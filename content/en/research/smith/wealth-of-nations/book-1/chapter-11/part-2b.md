@@ -1,18 +1,13 @@
-+++
-title=  "The Raw Produce Which Not Always Affords Rent"
-date=  2020-01-28
-image=  "/covers/wn.jpg"
-description=  "The value of Coal Mines is relative to the value of other fuel sources"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-2a"
-linkbtext=  "Chapter 10 Part 2a"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-2c"
-linkftext=  "Chapter 10 Part 2c"
-heading=  "Chapter 11 Part 2b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Coal"
+heading: "Part 2b of Chapter 11 of Book 1"
+date: 2015-09-26
+image: "/covers/wn.jpg"
+description: "The value of Coal Mines is relative to the value of other fuel sources"
+icon: "/icons/smith.png"
+---
 
 
-## Coal
 
 {{< s v="61" >}} The non-food produce of land which afford rent, do not afford it always.
 
@@ -62,12 +57,14 @@ If coals can be obtained for fuel in the coast of a well-improved country, it ma
 
 The new town of Edinburgh was built within these few years. It has no timber.
 
-69 If the cost of a coal-fire is equal to the cost of a wood fire, the price of coals must be at its highest.
+
+{{< s v="69" >}} If the cost of a coal-fire is equal to the cost of a wood fire, the price of coals must be at its highest.
 
 This is true in Oxfordshire where people mix coals and wood.
 The difference in the cost of coals and wood cannot be very great.
 
-70 Coals in the coal countries are much below this highest price.
+
+{{< s v="70" >}} Coals in the coal countries are much below this highest price.
 
 If they were not, they could not bear the cost of a distant transportation.
 Only a few could be sold.
@@ -81,27 +78,31 @@ This reduces their rent and profit.
 Some works are abandoned (from lack of profits and rent).
 Some are wrought only by the proprietor (from lack of profits).
 
-71 The lowest price of coals is, like that of all other commodities, the price which is barely sufficient to replace the stock employed for it, with ordinary profits.
+
+{{< s v="71" >}} The lowest price of coals is, like that of all other commodities, the price which is barely sufficient to replace the stock employed for it, with ordinary profits.
 
 The price of coals must be at its lowest in a coal mine run by the landlord which affords no rent.
 
-72 The rent of coal mines forms a smaller part of the price than the rent of the rude produce of land.
+
+{{< s v="72" >}} The rent of coal mines forms a smaller part of the price than the rent of the rude produce of land.
 
 The rent of an estate above ground commonly amounts to 1/3 of the gross produce.
+
 It is generally a rent certain and independent of the occasional variations in the crop.
 In coal-mines, 1/5 of the gross produce is a very great rent.
 The common rent is 1/10 of the gross produce.
+
 It depends on the occasional variations in the produce which are so great.
 In a country where 30 years purchase is a moderate price for the property of a landed estate, 10 years purchase is a good price for the purchase of a coal-mine.
 
-73 The value of a coal-mine to the proprietor frequently depends as much on its situation as on its fertility.
+
+{{< s v="73" >}} The value of a coal-mine to the proprietor frequently depends as much on its situation as on its fertility.
 
 A metallic mine depends more on its fertility and less on its situation.
 Metals are so valuable when separated from ore.
+
 They can bear the expence of a very distant sea carriage.
 Their market extends to the whole world.
 The copper of Japan makes an article of commerce in Europe.
 The iron of Spain is an article of commerce in Chile and Peru.
 The silver of Peru finds its way to Europe and China.
-
-

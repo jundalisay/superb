@@ -5,10 +5,6 @@ linkTitle: "Chapter 3c"
 date: 2020-01-11
 image: "/covers/wn.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
-linkb: "/research/smith/wealth-of-nations/book-2/chapter-3b"
-linkbtext: "chapter-3b"
-linkf: "/research/smith/wealth-of-nations/book-2/chapter-3d"
-linkftext: "chapter-3d"
 author: Adam Smith
 icon: /icons/smith.png
 ---
@@ -61,7 +57,7 @@ Those unproductive hands might consume so much of the society's revenue that the
 - private prodigality and misconduct
 - government extravagance
 
-<b>Public, national, and private opulence are originally derived from the principle of the uniform, constant, and uninterrupted effort of every man to better his condition.</b>
+**Public, national, and private opulence are originally derived from the principle of the uniform, constant, and uninterrupted effort of every man to better his condition.**
 
 This principle* is frequently powerful enough to maintain the natural progress of things towards improvement despite:
 - the extravagance of government, and

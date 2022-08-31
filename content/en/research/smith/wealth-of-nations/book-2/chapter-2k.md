@@ -1,16 +1,12 @@
+---
+title: "Central Banks - The Bank of England"
+heading: "Chapter 2j of Book 2"
+date: 2020-01-18
+image: "/covers/wn.jpg"
+description: "The Bank of England"
+icon: "/icons/smith.png"
+---
 
-+++
-title=  "Central Banks - The Bank of England"
-date=  2020-01-18
-# heading=  The Simplified Wealth of Nations by Adam Smith Book 2, Chapter 1a
-image=  "/covers/wn.jpg"
-description=  "The Bank of England"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2j"
-linkbtext=  "Chapter 2j"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2l"
-linkftext=  "Chapter 2l"
-icon=  "/icons/smith.png"
-+++
 
 
 {{< s v="79" >}} The Bank of England is the biggest bank of circulation in Europe.

@@ -5,13 +5,10 @@ linkTitle: "Chapter 3d"
 date: 2020-01-10
 image: "/covers/wn.jpg"
 description: "England's Economic Development was Due to Guarantee of Liberty"
-linkb: "/research/smith/wealth-of-nations/book-2/chapter-3c"
-linkbtext: "chapter-3c"
-linkf: "/research/smith/wealth-of-nations/book-2/chapter-3e"
-linkftext: "chapter-3e"
 author: Adam Smith
 icon: /icons/smith.png
 ---
+
 
 
 {{< s v="33" >}} England's annual produce is greater now than a century ago at the restoration of Charles 2nd.

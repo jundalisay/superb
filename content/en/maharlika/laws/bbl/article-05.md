@@ -7,80 +7,77 @@ image: "/covers/bbl.jpg"
 ---
 
 
-Section 1. Reserved Powers
+Section 1. Reserved Powers of the Central Government
 
-Reserved powers are matters over which authority and jurisdiction are retained by the Central Government. The Central Government shall exercise the following reserved powers:
+<!-- Reserved powers are matters over which authority and jurisdiction are retained by . The Central Government shall exercise the following reserved powers: -->
 
-1. Defense and external security;
-2. Foreign policy;
-3. Coinage and monetary policy;
-4. Postal service;
-5. Citizenship and naturalization;7
-6. Immigration;
-7. Customs and tariff as qualified by Section 2(10), Article V of this Basic Law;
-8. Common market and global trade, provided that the power to enter into economic agreements given to the ARMM under R.A. 9054 is hereby transferred to the Bangsamoro Government as provided in Article 12, Section 25 of this Basic Law;
+1. Defense and external security
+2. Foreign policy
+3. Coinage and monetary policy
+4. Postal service
+5. Citizenship and naturalization7
+6. Immigration
+7. Customs and tariff as qualified by Section 2(10), Article 5 of this Basic Law;
+8. Common market and global trade, provided that the power to enter into economic agreements given to the ARMM under R.A. 9054 is hereby transferred to the Bangsamoro Government as provided in Article 12, Section 25 of this Basic Law
 9. Intellectual property rights
+
 
 Section 2. Concurrent Powers
 
-Concurrent powers shall refer to the powers shared between the Central Government and the Bangsamoro Government within the Bangsamoro, as provided in this Basic Law.
+These are shared between the Central Government and the Bangsamoro Government.<!--  within the Bangsamoro, as provided in this Basic Law. -->
 
-The Central Government and the Bangsamoro Government shall exercise shared powers within the Bangsamoro on the following matters:
+<!-- The Central Government and the Bangsamoro Government shall exercise shared powers within the Bangsamoro on the following matters: -->
 
-1. Social security and pensions. – The Bangsamoro Government may organize its own social security and pension systems alongside the existing Central Government social security and pension systems.
+1. Social security and pensions
+
+The Bangsamoro Government may organize its own social security and pension systems alongside that of the Central Government.
 
 The Bangsamoro Government and the Central Government through the intergovernmental relations mechanism, and other consultative processes shall, among others, ensure that the investment of the contributions from the members from the Bangsamoro in the Central Government social security and pensions is responsive to their cultural and religious sensitivities.
 
 The future relationship of the Central Government system with the Bangsamoro Government system with respect to new government employees and other qualified individuals in the Bangsamoro shall be further provided for in law duly enacted for the purpose.8
 
-2. Quarantine. – There is hereby created an office for quarantine services in the Bangsamoro. It shall cooperate and coordinate with its counterpart offices in the Central Government.
+2. Quarantine
 
-3. Land Registration. – The Bangsamoro Government, in accordance with the land registration system of the Central Government, shall administer land registration in the Bangsamoro territory through an office it shall create for this purpose. 
+This creates an office for quarantine services in the Bangsamoro. It shall cooperate and coordinate with its counterpart offices in the Central Government.
 
-The Bangsamoro Government shall furnish copies of the titles, deeds and other instruments to the relevant Central Government agencies. The Bangsamoro Government can act on consultas.
+3. Land Registration
 
-The Bangsamoro Government may institute processes to promote more efficient
-registration of lands within the Bangsamoro.
+The Bangsamoro Government shall
+- in accordance with the Central Government's land registration system, administer land registration in the Bangsamoro territory through an office it shall create for this purpose. 
+- furnish copies of the titles, deeds and other instruments to the relevant Central Government agencies. 
 
-4. Pollution control -The Central Government and the Bangsamoro Government agencies shall cooperate and coordinate through the intergovernmental relations mechanism on pollution control matters.
+The Bangsamoro Government can:
+- act on consultas.
+- institute processes to promote more efficient registration of lands within the Bangsamoro.
+
+
+4. Pollution control
+
+The Central Government and the Bangsamoro Government agencies shall cooperate and coordinate through the intergovernmental relations mechanism on pollution control matters.
 
 5. Human rights and humanitarian protection and promotion
 
-The Bangsamoro Government may organize its own bodies for human rights and humanitarian
-protection and promotion that will work cooperatively with relevant national
-institutions.
+The Bangsamoro Government may organize its own bodies for human rights and humanitarian protection and promotion that will work cooperatively with relevant national institutions.
+
 
 6. Penology and penitentiary
 
-The Central Government and the Bangsamoro Government institutions shall cooperate
-and coordinate through the intergovernmental relations mechanism on the matter of granting parole and
-recommending to the President the grant of executive clemency. The Bangsamoro
-Government shall create an office that shall administer the parole system and
-recommend the grant of executive clemency to the Office of the President.
+The Central Government and the Bangsamoro Government institutions shall cooperate and coordinate through the intergovernmental relations mechanism on the matter of granting parole and recommending to the President the grant of executive clemency. The Bangsamoro Government shall create an office that shall administer the parole system and recommend the grant of executive clemency to the Office of the President.
 
-The Bangsamoro Government may create and manage jails, penal colonies, and
-other facilities. It shall ensure the compatibility of these facilities with the national9
-jail management and penitentiary system, through the intergovernmental
-relations mechanism. These facilities are understood to be part of the country’s
-administration of justice.
+The Bangsamoro Government may create and manage jails, penal colonies, and other facilities. It shall ensure the compatibility of these facilities with the national9 jail management and penitentiary system, through the intergovernmental relations mechanism. These facilities are understood to be part of the country’s administration of justice.
 
 7. Auditing
 
-The Bangsamoro auditing body shall have auditing responsibility over
-public funds utilized by the Bangsamoro, without prejudice to the power,
-authority and duty of the national Commission on Audit (COA). The Bangsamoro
-Government shall ensure transparency mechanisms consistent with open government practices.
+The Bangsamoro auditing body shall have auditing responsibility over public funds utilized by the Bangsamoro, without prejudice to the power,
+authority and duty of the national Commission on Audit (COA). The Bangsamoro Government shall ensure transparency mechanisms consistent with open government practices.
 
 8. Civil Service
 
-The Bangsamoro Government shall develop and administer a professional civil service corps, to include the powers and privileges on civil service matters provided in R.A. No. 9054, and without prejudice to the power,
-authority, and duty of the national Civil Service Commission.
+The Bangsamoro Government shall develop and administer a professional civil service corps, to include the powers and privileges on civil service matters provided in R.A. No. 9054, and without prejudice to the power, authority, and duty of the national Civil Service Commission.
 
-There is hereby created a Bangsamoro Civil Service office that shall develop and administer a professional civil service corps, without prejudice to the power, authority and duty of the national Civil Service Commission. The Bangsamoro
-Government shall enact a civil service law for this purpose. 
+There is hereby created a Bangsamoro Civil Service office that shall develop and administer a professional civil service corps, without prejudice to the power, authority and duty of the national Civil Service Commission. The Bangsamoro Government shall enact a civil service law for this purpose. 
 
-This law shall govern the conduct of civil servants, the qualification for non-elective positions, adopt the
-merit and fitness system, and protect civil service eligibles in various government positions, including government-owned and/or controlled corporations with original charters, in the Bangsamoro. 
+This law shall govern the conduct of civil servants, the qualification for non-elective positions, adopt the merit and fitness system, and protect civil service eligibles in various government positions, including government-owned and/or controlled corporations with original charters, in the Bangsamoro. 
 
 The Bangsamoro Government shall have primary disciplinary authority over its own officials and employees.
 
@@ -90,76 +87,63 @@ The Central Government shall have primary responsibility over coastguard matters
 
 10. Customs and Tariff
 
-The Bangsamoro Government and the Central Government shall cooperate and coordinate through the intergovernmental relations
-mechanism with regard to the enforcement of customs and tariff laws and10
-regulations to ensure the effective exercise of its powers on barter trade and
-countertrade with ASEAN countries as well as the regulation of the entry of haram
-goods in the Bangsamoro territorial jurisdiction.
+The Bangsamoro Government and the Central Government shall cooperate and coordinate through the intergovernmental relations mechanism with regard to the enforcement of customs and tariff laws and10 regulations to ensure the effective exercise of its powers on barter trade and countertrade with ASEAN countries as well as the regulation of the entry of haram goods in the Bangsamoro territorial jurisdiction.
 
 11. Administration of justice
 
-Administration of justice shall be in accordance with the relevant provisions of this Basic Law and with due regard to the powers of the Supreme Court and the competence of the Bangsamoro Government over Shari’ah
-courts and the Shari’ah justice system in the Bangsamoro. The supremacy of
-Shari’ah and its application shall only be to Muslims.
-12. Funding for the maintenance of national roads, bridges, and irrigation systems. –
-The Central Government shall be responsible for the funding, construction and
-maintenance of national roads, bridges and irrigation systems in the Bangsamoro
-and shall include in the National Road Network Information System all national
-roads and bridges in the Bangsamoro. 
+Administration of justice shall be in accordance with the relevant provisions of this Basic Law and with due regard to the powers of the Supreme Court and the competence of the Bangsamoro Government over Shari’ah courts and the Shari’ah justice system in the Bangsamoro. The supremacy of
+Shari’ah and its application shall only be to Muslims. 
 
-There shall be coordination through the intergovernmental relations mechanism between the relevant Central Government and Bangsamoro Government agencies on the Central Government on the matter of national roads, bridges, and irrigation systems within the Bangsamoro.
+12. Funding for the maintenance of national roads, bridges, and irrigation systems.
 
-The Bangsamoro Government shall submit proposals to the appropriate national
-government agency for the inclusion of the cost of such maintenance in the latter’s
-budget that shall be submitted to Congress for inclusion in the General
-Appropriations Act. Funding for national roads, bridges, and irrigation systems
-shall be regularly released to the relevant department of the Central
-Government.
+In the Bangsamoro, the Central Government shall:
+- fund, build, and maintain national roads, bridges and irrigation systems. 
+- include all Bangsamoro national roads and bridges in the National Road Network Information System. 
 
-13. Disaster risk reduction and management. – The Bangsamoro Government shall
-have primary responsibility over disaster risk reduction and management within
-the Bangsamoro. There shall be cooperation and coordination among relevant
-Central Government and Bangsamoro Government agencies on disaster risk
-reduction and management. There is hereby created a Bangsamoro Disaster Risk
-Reduction and Management Council (BDRRMC), with powers and functions that11
-shall be defined by the Bangsamoro Parliament in a law on disaster preparedness
-and response. The BDRRMC shall formulate the Bangsamoro Disaster Risk
-Reduction and Management Plan, which shall complement the National Disaster
+The Central Government and Bangsamoro Government shall coordinate through agencies on the matter of Bangsamoro national roads, bridges, and irrigation systems.
+
+The Bangsamoro Government shall submit proposals to the appropriate national government agency for the inclusion of the cost of such maintenance in the latter’s budget that shall be submitted to Congress for inclusion in the General Appropriations Act. 
+
+<!-- Funding for national roads, bridges, and irrigation systems shall be regularly released to the relevant department of the Central Government. -->
+
+13. Disaster risk reduction and management
+
+The Bangsamoro Government shall have primary responsibility over disaster risk reduction and management within the Bangsamoro. 
+
+There shall be cooperation and coordination among relevant Central Government and Bangsamoro Government agencies on disaster risk
+reduction and management. 
+
+This creates a Bangsamoro Disaster Risk Reduction and Management Council (BDRRMC). Its powers shall be defined by the Bangsamoro Parliament in a law on disaster preparedness and response. 
+
+The BDRRMC shall formulate the Bangsamoro Disaster Risk Reduction and Management Plan, which shall complement the National Disaster
 Risk Reduction and Management Framework and Plan of the Central Government.
-Additionally, the BDRRMC, through its Chair, the Chief Minister, may recommend
-to the President the mobilization of resources of national defense in times of
+
+The BDRRMC, through its Chair, the Chief Minister, may recommend to the President the mobilization of resources of national defense in times of
 disasters in the Bangsamoro.
 
-14. Public order and safety. – The Bangsamoro Government shall have primary
-responsibility over public order and safety within the Bangsamoro. It shall have
-powers over public order and safety including those related to jail management,
-fire prevention, and trainings on public safety. The Central Government and the Bangsamoro
-Government shall cooperate and coordinate
-through the intergovernmental relations mechanism.
+14. Public order and safety
+
+The Bangsamoro Government shall have primary responsibility over public order and safety within the Bangsamoro. It shall have powers over public order and safety including those related to jail management, fire prevention, and trainings on public safety. The Central Government and the Bangsamoro
+Government shall cooperate and coordinate through the intergovernmental relations mechanism.
 
 
 Section 3. Exclusive Powers
 
 Exclusive powers are matters over which authority and jurisdiction shall pertain to the Bangsamoro Government.
-The Bangsamoro Government shall exercise these powers over the following matters within the
-Bangsamoro:
+
+The Bangsamoro Government shall exercise these powers over the following matters within the Bangsamoro:
 
 1. Agriculture, livestock and food security;
 2. Economic and cultural exchange;
-3. Contract loans, credits, and other forms of indebtedness with any government or
-private bank and other lending institutions, except those requiring sovereign
-guaranty, which require Central Government approval;
-4. Trade, industry, investment, enterprises and regulation of businesses taking into
-consideration relevant laws;
+3. Contract loans, credits, and other forms of indebtedness with any government or private bank and other lending institutions, except those requiring sovereign guaranty, which require Central Government approval
+4. Trade, industry, investment, enterprises and regulation of businesses taking into consideration relevant laws
 5. Labor, employment, and occupation;12
-6. Registration of business names, with the Bangsamoro Government listing these in
-the Philippine Business Registry for business names;
-7. Barter trade and countertrade with ASEAN countries;
-8. Economic zones and industrial centers;
+6. Registration of business names, with the Bangsamoro Government listing these in the Philippine Business Registry for business names
+7. Barter trade and countertrade with ASEAN countries
+8. Economic zones and industrial centers
 9. Free ports
 
-The Bangsamoro Government may establish free ports in the Bangsamoro. The Bangsamoro Government shall cooperate with the Central Government through the intergovernmental relations mechanism on customs, immigration, quarantine service, and international commitments. Business and other enterprises operating within the Bangsamoro free ports shall be entitled to
-the fiscal incentives and other benefits provided by the Central Government to special economic zones. Bangsamoro free ports shall be contiguous/adjacent to seaport or airport within the Bangsamoro;
+The Bangsamoro Government may establish free ports in the Bangsamoro. The Bangsamoro Government shall cooperate with the Central Government through the intergovernmental relations mechanism on customs, immigration, quarantine service, and international commitments. Business and other enterprises operating within the Bangsamoro free ports shall be entitled to the fiscal incentives and other benefits provided by the Central Government to special economic zones. Bangsamoro free ports shall be contiguous/adjacent to seaport or airport within the Bangsamoro;
 
 10. Tourism
 11. Creation of sources of revenue
@@ -171,10 +155,7 @@ Bangsamoro Government, the BSP, the Department of Finance (DOF), and the Nationa
 
 14. Establishment of government-owned and/or controlled corporations (GOCCS) and financial institutions
 
-The Bangsamoro Government shall legislate and implement the creation of its own GOCCs in the pursuit of the common good, and
-subject to economic viability. The GOCCs shall be registered with the Securities13
-and Exchange Commission or shall be established under legislative charter by the
-Bangsamoro Government
+The Bangsamoro Government shall legislate and implement the creation of its own GOCCs in the pursuit of the common good, and subject to economic viability. The GOCCs shall be registered with the Securities13 and Exchange Commission or shall be established under legislative charter by the Bangsamoro Government
 
 15. The Bangsamoro Government shall have authority to regulate power generation, transmission, and distribution operating exclusively in the Bangsamoro and not connected to the national transmission grid. 
 
@@ -209,18 +190,15 @@ The Bangsamoro Goverment shall have primary jurisdiction over Hajj and Umrah mat
 27. Customary laws
 28. Declaration of Bangsamoro holidays
 29. Ancestral domain and natural resources
-30. Protection of the rights of the indigenous people in the Bangsmoro in accordance with the United Nations Declaration on the Rights of Indigenous Peoples, and taking into account in addition to economic and geographical criteria, their15
-individual and communal property rights, cultural integrity, customary beliefs, historical and community traditions. The Bangsamoro Parliament shall create an appropriate office or ministry for the Indigenous Peoples, which shall be part of the Bangsamoro Cabinet to develop and implement the Bangsamoro programs for the indigenous peoples in accordance with a law passed by the Parliament
+30. Protection of the rights of the indigenous people in the Bangsmoro in accordance with the United Nations Declaration on the Rights of Indigenous Peoples, and taking into account in addition to economic and geographical criteria, their15 individual and communal property rights, cultural integrity, customary beliefs, historical and community traditions. The Bangsamoro Parliament shall create an appropriate office or ministry for the Indigenous Peoples, which shall be part of the Bangsamoro Cabinet to develop and implement the Bangsamoro programs for the indigenous peoples in accordance with a law passed by the Parliament
+
 31. Land management, land distribution, and agricultural land use reclassification.
 
-The classification of public lands into alienable and disposable lands shall be
-initiated and recommended by the Bangsamoro Government to the President for
-the timely implementation of Bangsamoro development plans and targets;
+The classification of public lands into alienable and disposable lands shall be initiated and recommended by the Bangsamoro Government to the President for the timely implementation of Bangsamoro development plans and targets;
 
 32. Cadastral land survey
 
-The Bangsamoro Government shall have the authority to conduct cadastral surveys, lot surveys, and isolated and special surveys in the Bangsamoro. The Bangsamoro Government shall furnish the results of these
-surveys to, and coordinate with, relevant Central Government agencies to effect
+The Bangsamoro Government shall have the authority to conduct cadastral surveys, lot surveys, and isolated and special surveys in the Bangsamoro. The Bangsamoro Government shall furnish the results of these surveys to, and coordinate with, relevant Central Government agencies to effect
 inclusion into national cadastral survey
 
 33. Expropriation and eminent domain;
@@ -237,17 +215,15 @@ resources within the Bangsamoro territorial jurisdiction;
 39. Customary justice
 40. Shari’ah courts and Shari’ah justice system;
 41. Public administration and bureaucracy for the Bangsamoro;
-42. Health, provided that the Central Government and the Bangsamoro Government
-shall cooperate with and assist each other in the prevention and control of
-epidemic and other communicable diseases;
-43. Social services, social welfare and charities;
-44. Waste Management;
+42. Health, provided that the Central Government and the Bangsamoro Government shall cooperate with and assist each other in the prevention and control of epidemic and other communicable diseases
+43. Social services, social welfare and charities
+44. Waste Management
 45. Establishment and supervision of humanitarian services and institutions;
 46. Identification, generation and mobilization of international human resources for
 capacity building and other activities involving the same within the Bangsamoro.
-The Central Government shall cooperate with and assist the Bangsamoro
-Government towards ensuring access to such relevant human resources through
-the intergovernmental relations mechanism;
+
+The Central Government shall cooperate with and assist the Bangsamoro Government towards ensuring access to such relevant human resources through the intergovernmental relations mechanism;
+
 47. Establishment of Awqaf (endowment) and charitable trusts;
 48. Hisbah office for accountability as part of the Shari’ah justice system;
 49. Registration of births, marriages, and deaths, copies of which shall be forwarded
@@ -269,10 +245,8 @@ The Bangsamoro Parliament may create, divide, merge, abolish or substantially al
 
 Subject to the criteria provided in said law, the Bangsamoro Parliament may likewise create appropriate local government units in the areas inhabited predominantly by indigenous peoples
 
-However, when such acts require the creation of a congressional district, the
-Bangsamoro Government shall cooperate and coordinate with Central
-Government through the Philippine Congress – Bangsamoro Parliament Forum to
-prioritize the deliberations on the creation of the congressional district; and18
+However, when such acts require the creation of a congressional district, the Bangsamoro Government shall cooperate and coordinate with Central
+Government through the Philippine Congress – Bangsamoro Parliament Forum to prioritize the deliberations on the creation of the congressional district; and18
 
 58. Establishment or creation of other institutions, policies and laws for the general
 welfare of the people in the Bangsamoro.

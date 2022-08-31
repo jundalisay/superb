@@ -1,15 +1,11 @@
-+++
-title=  "The Real and Nominal Price of Commodities"
-heading=  "Chapter 5a of Book 1 of the Wealth of Nations Simplified"
-date=  2020-01-24
-image=  "/covers/wn.jpg"
-description=  "Labor or effort is the foundation of value and subsequently wealth in a society. Money represents the command of labor, and is not a representation of goods or services"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-4b"
-linkbtext=  "Chapter 4b"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-5b"
-linkftext=  "Chapter 5b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Real and Nominal Price of Commodities"
+heading: "Chapter 5a of Book 1 "
+date: 2020-01-24
+image: "/covers/wn.jpg"
+description: "Labor or effort is the foundation of value and subsequently wealth in a society. Money represents the command of labor, and is not a representation of goods or services"
+icon: "/icons/smith.png"
+---
 
 
 > Superphysics note:  The core of the misunderstanding of Smith's Labour Theory of Value is the ambiguity of the word 'labour'. Here, we replace it with 'toil and trouble' to equate it more to psychology, emotions, and subjectiveness, instead of physical force or objectiveness. Toil and trouble is more related to suffering and non-suffering. A link to the original translation with the word 'labour' will be posted in the bottom.

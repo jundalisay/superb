@@ -1,14 +1,11 @@
-+++
-title=  "Grains versus Silver in terms of the temporal aspect of value"
-date=  2020-01-23
-image=  "/covers/wn.jpg"
-description=  "At distant times, equal amounts of labour will be bought more nearly with equal amounts of wheat, the worker's subsistence, than with perhaps any other commodity"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-5a"
-linkbtext=  "Chapter 5a"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-6a"
-linkftext=  "Chapter 6a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Grains versus Silver in terms of the temporal aspect of value"
+date: 2020-01-23
+image: "/covers/wn.jpg"
+description: "At distant times, equal amounts of labour will be bought more nearly with equal amounts of wheat, the worker's subsistence, than with perhaps any other commodity"
+icon: "/icons/smith.png"
+---
+
 
 {{< s v="15" >}} At distant times, equal amounts of labour will be bought more nearly with equal amounts of wheat, the worker's subsistence, than with perhaps any other commodity.
 
@@ -31,7 +28,9 @@ The money price of labour, however, fluctuates according to the price of ordinar
 The ordinary price of this subsistence is regulated by the value of silver, which is then regulated by the price of wheat.
 The real value of silver is more stable year to year, than from century to century.
 The ordinary price of subsistence can be the same from century to century if the society remains in the same condition.
+
 When the ordinary price of subsistence naturally doubles in a year, then its real value must double with it, and therefore, wages must also double.
+
 In other words, although the nominal prices have increased, the ratio of the real prices of labour to the real price of wheat is the same.
 
 
@@ -103,11 +102,14 @@ In all modern European nations, all value is generally measured in silver (pound
 {{< s v="28" >}} If the law changes, then the difference becomes more than nominal again.
 If a guinea was changed to be equal to 20 or 22 shillings, then debts in silver will require different amounts of guinea.
 Silver appeared to be the measure of value of gold because of the custom of keeping accounts in silver.
+
 On the contrary, promissory notes are recorded in gold.
+
 Through notes, gold appeared as the measure of the value of silver.
 If the custom of using notes in gold instead of silver becomes general, then gold will be the standard measure of value.
 
 {{< s v="29" >}} In reality, the value of the most precious metal regulates the value of all coins.
+
 12 copper pence contain half a pound, avoirdupois, of copper, seldom worth sevenpence in silver
 But by regulation, 12 copper pence equals a shilling
 The regulation makes worn coins of equal value to good coins of the same kind

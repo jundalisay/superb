@@ -1,15 +1,12 @@
-+++
-title=  "Computing the Net Domestic Product"
-date=  2020-01-25
-heading=  "Book 2, Chapter 1a"
-image=  "/covers/wn.jpg"
-description=  "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2c"
-linkbtext=  "Chapter 2c"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2e"
-linkftext=  "Chapter 2e"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Computing the Net Domestic Product"
+heading: "Chapter 2d of Book 2 "
+date: 2020-01-25
+image: "/covers/wn.jpg"
+description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="37" >}} When we compute the amount of industry which a society's circulating capital can employ, we must account only the provisions, materials, and finished work.

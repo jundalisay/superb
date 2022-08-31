@@ -1,15 +1,11 @@
-+++
-title=  "Digression on the Variations in the Value of Silver During the Last Four Centuries"
-date=  2020-01-25
-image=  "/covers/wn.jpg"
-description=  "Prices were unstable from 1262 to 1570"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3a"
-linkbtext=  "Chapter 11 Part 3a"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a2"
-linkftext=  "Digression 1a2"
-heading=  "Part 3 Digression 1a1"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Digression on the Variations in the Value of Silver During the Last Four Centuries"
+heading: "Part 3b of Chapter 11 of Book 1"
+date: 2015-09-23
+image: "/covers/wn.jpg"
+description: "Prices were unstable from 1262 to 1570"
+icon: "/icons/smith.png"
+---
 
 
 ## First Period 1262-1570

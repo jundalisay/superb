@@ -4,10 +4,6 @@ heading: "Chapter 6a of The Wealth of Nations by Adam Smith Simplified"
 date: 2020-01-22
 image: /covers/wn.jpg
 description: "In the rude state, price has one component--wages"
-linkb: /research/smith/wealth-of-nations/book-1/chapter-5b
-linkbtext: Chapter 5b
-linkf: /research/smith/wealth-of-nations/book-1/chapter-6b
-linkftext: "Chapter 6b"
 author: Adam Smith
 icon: /icons/smith.png
 ---

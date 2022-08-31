@@ -1,15 +1,12 @@
-+++
-title=  "The Effect of Demand on Changes in Silver Prices"
-# heading=  "Part 3 of Book 1 the Simplified Wealth of Nations"
-date=  2020-01-20
-image=  "/covers/wn.jpg"
-description=  "Since the discovery of America, the market for its silver mines has been growing more extensive for three reasons"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1c"
-linkbtext=  "Part 3bd1c"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d2b"
-linkftext=  "Part 3bd2b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Effect of Demand on Changes in Silver Prices"
+heading: "Part 3b of Digression 2a"
+date: 2015-09-07
+image: "/covers/wn.jpg"
+description: "Since the discovery of America, the market for its silver mines has been growing more extensive for three reasons"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="163" >}} Since the discovery of America, the market for its silver mines has been growing more extensive for three reasons.
@@ -39,7 +36,8 @@ The increasing number of wealthy people required the like increase in the amount
 
 ## Reason 2: America itself is a new market for its own silver.
 
-165 The advances of its agriculture, industry, and population are much more rapid than those of the most thriving European countries. Its demand must increase much more rapidly.
+
+{{< s v="165" >}} The advances of its agriculture, industry, and population are much more rapid than those of the most thriving European countries. Its demand must increase much more rapidly.
 
 The English colonies are a new market which requires a continual increase in silver supply for plate and coin, which it never needed before.
 Most of the Spanish and Portuguese colonies are new markets.
@@ -81,9 +79,10 @@ America is a new market for its own silver. Silver demand in America must increa
 
 ## Reason 3: The East Indies is another market for American silver
 
-166 Since the discovery of the American mines, the East Indies has continually been taking more silver.
+{{< s v="166" >}} Since the discovery of the American mines, the East Indies has continually been taking more silver.
 Since that time, the direct trade between America and the East Indies via Acapulco ships has been continually increasing.
 The indirect trade via Europe increased in a still greater proportion.
+
 During the 16th century, the Portuguese were the only Europeans to regularly trade to the East Indies.
 In the last years of the 16th century, the Dutch began to encroach on this monopoly.
 
@@ -108,37 +107,46 @@ The consumption of Chinese porcelain, Moluccas spices, Bengal piece goods, etc. 
 
 The tonnage of all the Europe-East India shipping during the last century, was not much greater than that of the English East India Company before the recent reduction of their shipping.
 
-167 When Europeans first began to trade to China and India until today, the value of the precious metals in those countries was much higher than in Europe.
+
+{{< s v="167" >}} When Europeans first began to trade to China and India until today, the value of the precious metals in those countries was much higher than in Europe.
 
 Rice countries grow more food than wheat countries because rice yields two or three crops in the year with each crop being more plentiful than wheat.
 Rice countries are much more populous.
+
 Their rich have a super-abundance of food and can command much more labour.
 The retinue of a grandee in China or India is much more numerous and splendid than those of Europe.
 Their super-abundance of food enables them to give more food for all those precious metals and stones, which are the great objects of the competition of the rich.
 
-168 If the mines which supplied India was as abundant as the mines which supplied Europe, precious metals and stones would naturally exchange for more food in India than in Europe.
+
+{{< s v="168" >}} If the mines which supplied India was as abundant as the mines which supplied Europe, precious metals and stones would naturally exchange for more food in India than in Europe.
 
 But the gold and silver mines which supplied India were less abundant and the precious stone mines which supplied India were much more abundant than those which supplied Europe.
+
 Precious metals in India, therefore, would naturally exchange for more precious stones and food than in Europe.
 The metal-money price of diamonds would be lower in India.
 The metal-money price of food, the first of all necessaries, would also be much lower.
 Chinese and Indian manufactures are not much inferior to European manufactures.
+
 But in countries of equal art and industry, the money price of most manufactures will be proportional to the money price of labour.
 The money price of labour is lower in China and India on a double account= 
 on account of the few food it will purchase, and
 on account of the low price of that food.
+
 The money price of food is much lower in India than in Europe.
 Labourer's wages in India will buy less food.
+
 But the real price of labour is lower in the great Chinese and Indian markets than most of Europe.
 The money price of most manufactures, will naturally be much lower in China and India than in Europe.
 Through most of Europe, land transportation costs very much increase the real and nominal price of manufactures.
 It costs more labour, and therefore more money, to bring raw materials than finished products to market.
 In China and India, the extent and variety of inland navigations reduce the transportation costs.
 It further reduces the real and nominal price of their manufactures.
+
 On all these accounts, the precious metals are extremely advantageous to carry from Europe to India.
 Only silver brings a better price in India or China.
 It will command more labour and commodities in India than in Europe.
 It is more advantageous to carry silver to China and India than gold.
+
 Because in China and most of India, 10-12 fine silver is worth one fine gold.
 But in Europe, it is 14-15 silver to one gold.
 

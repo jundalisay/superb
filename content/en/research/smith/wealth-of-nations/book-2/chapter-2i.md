@@ -1,15 +1,12 @@
-+++
-title=  "The Ayr Bank"
-description=  "The Ayr Bank failed because it was too big to fail"
-date=  2020-01-20
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2h"
-linkbtext=  "Chapter 2h"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2j"
-linkftext=  "Chapter 2j"
-heading=  "Chapter 2i"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Ayr Bank"
+heading: "Chapter 2i of Book 2"
+date: 2020-01-24
+image: "/covers/wn.jpg"
+description: "The Ayr Bank failed because it was too big to fail"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="73" >}} In the midst of this clamour and distress, a new bank was established in Scotland to relieve the country's distress.
@@ -106,13 +103,14 @@ They would have lost from the cost of:
 Replenishing their coffers in this way may be compared to a man who employed people to go continually with buckets to a well to replenish a pond that was always losing water through a stream that was continually running out of it.
 
 
-### Too Big To Fail
+## Too Big To Fail
 
 {{< s v="77" >}} The country derived no benefit from this operation even if it was practicable and profitable to the bank as a mercantile company.
 
 On the contrary, the country suffered a very considerable loss by it.
 This operation could not augment the amount of money to be lent.
 This bank became a sort of general loan office for the whole country.
+
 Those who wanted to borrow applied to this bank, instead of applying to private persons.
 But a bank which lends money to 500 people is not likely to be more judicious than a private person who lends to a few people whom he knows.
 

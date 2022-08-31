@@ -1,16 +1,11 @@
 ---
-heading: "Chapter 2a of Book 1 of the Wealth of Nations Simplified"
+heading: "Chapter 2a of Book 1 "
 title: "The Origin of Coinage"
 date: 2020-01-29
 image: "/covers/wn.jpg"
 description: "The difficulty of weighing metals led to coinage"
-linkb: /research/smith/wealth-of-nations/book-1/chapter-4a
-linkbtext: "Chapter 4a"
-linkf: /research/smith/wealth-of-nations/book-1/chapter-5a
-linkftext: "Chapter 5a"
 icon: "/icons/smith.png"
 ---
-
 
 
 {{< s v="9" >}} The inconvenience and difficulty of weighing those metals precisely gave rise to to the institution of coins.

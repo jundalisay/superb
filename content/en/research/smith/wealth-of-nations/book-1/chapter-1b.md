@@ -1,15 +1,12 @@
 ---
 title: "Specialization"
-heading: "Chapter 1b of Book 1 of the Wealth of Nations Simplified"
+heading: "Chapter 1b of Book 1 "
 date: 2020-01-30
 image: "/covers/wn.jpg"
 description: "It is impossible for one man to be constantly employed in any agricultural work because they are seasonal"
-linkb: /research/smith/wealth-of-nations/book-1/chapter-1-division
-linkbtext: "Chapter 1"
-linkf: /research/smith/wealth-of-nations/book-1/chapter-1b-causes
-linkftext: "Chapter 1b"
 icon: "/icons/smith.png"
 ---
+
 
 Generally, the work of one man in a rude state of society is the work of several men in an improved one. In every improved society:
 - the farmer is generally just a farmer, and

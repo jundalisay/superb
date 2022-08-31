@@ -4,10 +4,6 @@ heading: "Chapter 9b of Book 1"
 date: 2020-01-14
 image: "/covers/wn.jpg"
 description: "In our North American and West Indian colonies, both wages and interest, and consequently profits, are higher than in England."
-linkb: "/research/smith/wealth-of-nations/book-1/chapter-9a"
-linkbtext: "chapter-9a"
-linkf: "/research/smith/wealth-of-nations/book-1/chapter-9c"
-linkftext: "Chapter 9c"
 icon: "/icons/smith.png"
 ---
 
@@ -46,6 +42,7 @@ A great stock with small profits generally increases faster than a small stock w
 "Money makes money," says the proverb.
 When you have the seed money, it is often easy to get more.
 The great difficulty is to get that seed money.
+
 In Book 2, Chapter 3, I shall explain the connection between the increase of stock and the increase of the demand for labour, with regard to the accumulation of stock.
 
 

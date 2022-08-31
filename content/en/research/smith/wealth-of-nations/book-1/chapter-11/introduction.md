@@ -1,17 +1,12 @@
-+++
-title=  "Introduction on Rent"
-date=  2020-01-31
-image=  "/covers/wn.jpg"
-description=  "Adam Smith introduces the concept of Rent"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-10/part-2c2"
-linkbtext=  "Chapter 10 Part 2c2"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-1a"
-linkftext=  "Chapter 11 Part 1a"
-heading=  "Chapter 11 Introduction"
-icon=  "/icons/smith.png"
+---
+title: "Introduction on Rent"
+heading: "Introduction of Chapter 11 of Book 1"
+date: 2015-09-30
+image: "/covers/wn.jpg"
+description: "Adam Smith introduces the concept of Rent"
+icon: "/icons/smith.png"
+---
 
-
-+++
 
 ## Rent is a monopoly price
 
@@ -46,40 +41,42 @@ It grows on rocks within the high water mark, which are covered by the sea twice
 Those rocks could not be improved by human industry.
 However, the landlord demands rent for kelp shore as much as for his wheat fields.
 
-4 The sea around the islands of Shetland is abundant in fish.
+{{< s v="4" >}} The sea around the islands of Shetland is abundant in fish.
 
 To profit from this fish, the locals must have a house on the neighbouring land.
 Their rent is in proportion to what they can make by the land and water.
 It is partly paid in fish.
 It is one of very few instances where rent makes a part of the price of fish.
 
-5The rent of land is naturally a monopoly price.
+{{< s v="5" >}} The rent of land is naturally a monopoly price.
 
 It is not proportional to what the landlord can afford to take, but to what the farmer can afford to give.
 
-6 The ordinary selling price of the produce of land must include= 
+{{< s v="6" >}} The ordinary selling price of the produce of land must include:
+- the price needed to replace the stock used, plus
+- an ordinary profit
 
-the price needed to replace the stock used, plus
-an ordinary profit
 Any price above the ordinary selling price will naturally go to rent.
 
 If commodity is sold at the ordinary selling price, then no rent is afforded to the landlord.
 The demand dictates the ordinary selling price.
 
-7 There are some parts of the produce of land for which the demand allows a higher selling price.
+
+{{< s v="7" >}} There are some parts of the produce of land for which the demand allows a higher selling price.
 
 There are others for which it may or may not be such as to afford this greater price.
 The higher selling price always affords a rent to the landlord.
 The ordinary selling price may or may not.
 
-8 Rent makes up the price of commodities in a different way from wages and profit.
+
+{{< s v="8" >}} Rent makes up the price of commodities in a different way from wages and profit.
 
 High or low wages and profit are the causes of high or low selling price.
 A commodity's selling price is high or low because high or low wages and profit must be paid.
 High or low rent is the effect of high or low selling prices.
 A commodity affords a high, low, or zero rent because its selling price is high or low.
 
-9 The following explains= 
+{{< s v="9" >}} The following explains: 
 - The kinds of raw produce which always afford some rent
 - The kinds of raw produce which may not afford rent
 - The variations which naturally occur in the different periods of improvement which changes the value of those produce relative= 

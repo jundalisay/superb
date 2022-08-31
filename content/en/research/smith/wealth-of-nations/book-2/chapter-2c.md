@@ -1,15 +1,13 @@
-+++
-title=  "Kinds of Paper Money"
-date=  2020-01-26
-heading=  "Book 2, Chapter 1a"
-image=  "https= //sorasystem.sirv.com/cards/hireme.jpg"
-description=  "Bank notes and cash accounts are the two kinds of paper money"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2b"
-linkbtext=  "Chapter 2b"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2d"
-linkftext=  "Chapter 2b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Kinds of Paper Money"
+heading: "Chapter 2c of Book 2 "
+date: 2020-01-26
+image: "/covers/wn.jpg"
+description: "Bank notes and cash accounts are the two kinds of paper money"
+icon: "/icons/smith.png"
+---
+
+
 
 ## Bank Notes
 
@@ -21,6 +19,7 @@ The circulating notes of banks are the best known and best adapted as paper mone
 
 Those notes become equal to gold and silver money from the confidence that money can be received for the notes at any time.
 promissory
+
 
 {{< s v="29" >}} A banker lends his own promissory notes worth £100,000 to his debtors.
 
@@ -64,36 +63,36 @@ But the paper cannot go abroad because=
 
 The channel of home circulation will remain filled with 1 million of paper instead of the 1 million of metals which filled it before.
 
-* [ Translator's Note=  Bretton Woods made the US paper currency acceptable in foreign countries, creating instability in the entire financial system ]
+> *Superphysics Note: Bretton Woods made the US paper currency acceptable in foreign countries, creating instability in the entire financial system
 
-31 The gold and silver sent abroad will be exchanged for foreign goods for the home country or another foreign country.
 
-32 If they use it to buy goods from one foreign country to sell to another, it is called the carrying trade.
+{{< s v="31" >}} The gold and silver sent abroad will be exchanged for foreign goods for the home country or another foreign country.
+
+{{< s v="32" >}} If they use it to buy goods from one foreign country to sell to another, it is called the carrying trade.
 
 The profit from this will add to their own country's net revenue. It is like a new fund for a new trade. 
 
 Since paper already circulates all domestic business, the gold and silver can be converted to a fund to circulate this new trade.
 
-33 If they employ it in buying foreign goods for home consumption, they may either= 
+{{< s v="33" >}} If they employ it in buying foreign goods for home consumption, they may either= 
 
 1. buy goods such as foreign wines, silks, etc., likely to be consumed by idle people who produce nothing, or
 2. buy more materials, tools, and provisions to maintain and employ a more industrious people, who reproduce the value of their consumption, with a profit.
 
-34 The first method= 
+{{< s v="34" >}} The first method: 
 - promotes prodigality,
 - increases expence and consumption without increasing production,
 - does not establish any permanent fund for supporting that expence, and
 - is hurtful to the society in every respect.
 
-35 The second method= 
+{{< s v="35" >}} The second method: 
 - promotes industry,
 - increases the society's consumption,
 - provides a permanent fund for supporting that consumption because the people who consume can reproduce the value that they consumed, with a profit,
 - increases the society's gross revenue by increasing the whole value added by the labour to those materials,
 - increases their net revenue by deducting the cost of supporting the tools and instruments of their trade.
 
-
-36 Most of the precious metals forced abroad by banking and used to buy foreign goods for home consumption is used to buy this second kind of goods.
+{{< s v="36" >}} Most of the precious metals forced abroad by banking and used to buy foreign goods for home consumption is used to buy this second kind of goods.
 
 Some people might increase their cost very much without increasing their revenue.
 
@@ -102,4 +101,3 @@ But the revenue of idle people cannot be increased by banking.
 Only the expense of a few among them may be increased by banking.
 A very small part of the money forced abroad will be used to buy foreign goods to be consumed by idle people because the demand of the idle will not change much.
 Most of the money will be used in industry and not in maintaining idleness.
-

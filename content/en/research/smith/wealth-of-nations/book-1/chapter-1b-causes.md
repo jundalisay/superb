@@ -1,13 +1,9 @@
 ---
 title: "What Causes the Increase in Productivity?"
-heading: "Chapter 1b of Book 1 of the Wealth of Nations Simplified"
+heading: "Chapter 1b of Book 1"
 date: 2020-01-29
 image: "/covers/wn.jpg"
 description: "Division of Labor raises productivity by increasing skill, time savings, and by the invention of technology"
-linkb: /research/smith/wealth-of-nations/book-1/chapter-1b
-linkbtext: "Chapter 1"
-linkf: /research/smith/wealth-of-nations/book-1/chapter-1c-productivity
-linkftext: "Chapter 1c"
 icon: "/icons/smith.png"
 ---
 
@@ -50,7 +46,7 @@ The making of a pin or a metal button has much simpler divisions of labour.
 The speed of some of those manufacturing operations is beyond what ordinary human hands can do.
 
 
-7 2. The time lost in passing from one sort of work to another is much greater than we think.
+{{< s v="7" >}} 2. The time lost in passing from one sort of work to another is much greater than we think.
 
 It is impossible to pass quickly from one work to another that is done= 
 - in a different place, and
@@ -68,14 +64,14 @@ Every country worker naturally acquires the habit of relaxed and careless applic
 - changes his work and tools every half hour, and
 - works in 20 different ways every day.
 
-It makes him= 
+It makes him:
 - slothful and lazy, and
 - incapable of any vigorous application.
 
 Independent of his dexterity, this cause alone always considerably reduces the amount of work which he can do.
 
 
-8 3. Proper machinery facilitates and abridges labour.
+{{< s v="8" >}} 3. Proper machinery facilitates and abridges labour.
 
 It is unnecessary to give any example.
 The invention of all those machines was caused by the division of labour.
@@ -94,11 +90,13 @@ One of those boys loved to play with his companions.
 He observed that by tying a string from the handle of the valve which opened this communication, to another part of the machine, the valve would open and shut automatically, allowing him to be with his play-fellows.
 One of the greatest improvements on this early machine was from that boy who wanted to save his own labour.
 
-9 However, not all the improvements in machinery were invented by those who used them.
+
+{{< s v="9" >}} However, not all the improvements in machinery were invented by those who used them.
 
 Many improvements were from the ingenuity of the makers of the machines, when making them became their business.
 Some were made by philosophers or men of speculation.
 Their job is to do nothing except observe everything.
+
 They often can combine the powers of the most distant and dissimilar objects.
 In the progress of society, philosophy or speculation becomes, like every other employment, the principal trade and occupation of a particular class of citizens.
 
@@ -107,6 +105,7 @@ Each branch affords occupation to a peculiar class of philosophers.
 This subdivision improves dexterity and saves time.
 Each individual becomes more expert in his own branch
 More work is done on the whole.
+
 The amount of science is increased by it.
 
 

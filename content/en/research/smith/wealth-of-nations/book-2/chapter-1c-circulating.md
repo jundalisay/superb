@@ -5,10 +5,6 @@ linkTitle: "Chapter 1c"
 date: 2020-01-29
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
-linkb: "/research/smith/wealth-of-nations/book-2/chapter-1b-fixed"
-linkbtext: "chapter 1b"
-linkf: "/research/smith/wealth-of-nations/book-2/chapter-2a-ndp"
-linkftext: "chapter 2a"
 icon: "/icons/smith.png"
 ---
 

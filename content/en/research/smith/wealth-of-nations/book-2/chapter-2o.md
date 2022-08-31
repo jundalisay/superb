@@ -1,21 +1,19 @@
-+++
-title=  "Monetary Policy"
-date=  2020-01-14
-image=  "/covers/wn.jpg"
-description=  "In Yorkshire’s paper currencies, the payment of so small a sum as a sixpence required the note’s holder to bring the change of a guinea to the issuer"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2n"
-linkbtext=  "Chapter 2n"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-3a"
-linkftext=  "Chapter 3a"
-heading=  "Chapter 2o"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Monetary Policy"
+heading: "Chapter 2o of Book 2"
+date: 2020-01-15
+image: "/covers/wn.jpg"
+description: "In Yorkshire’s paper currencies, the payment of so small a sum as a sixpence required the note’s holder to bring the change of a guinea to the issuer"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="99" >}} In Yorkshire’s paper currencies, the payment of so small a sum as a sixpence required the note’s holder to bring the change of a guinea to the issuer.
 
 This was very difficult for the holders of such notes.
 It must have degraded this currency below the value of gold and silver money.
+
 An Act of Parliament declared all such clauses unlawful.
 It suppressed, as in Scotland, all promissory notes payable to the bearer under 20 shillings value.
 
@@ -25,6 +23,7 @@ It suppressed, as in Scotland, all promissory notes payable to the bearer under 
 The payment was due several years after it was issued.
 The colony governments declared it a legal tender.
 They paid no interest to the holders of this paper.
+
 If the colony were perfectly secure, £100 payable in 15 years at 6% interest, is worth around £40 ready money today. [100 * 1/(1.06 ^ 15)]
 
 To oblige a creditor to accept £40 payment for a debt of £100 was such violent injustice perhaps never attempted by any other free government.

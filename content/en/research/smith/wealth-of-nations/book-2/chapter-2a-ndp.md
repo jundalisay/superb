@@ -1,15 +1,13 @@
-+++
-title=  "Money as Part of the General Stock of Society"
-heading=  "Book 2, Chapter 1a NDP"
-description=  "Money has wholesale and retail"
-date=  2020-01-28
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-1c-circulating"
-linkbtext=  "Chapter 1c"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2b"
-linkftext=  "Chapter 2b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Book 2, Chapter 2a"
+title: "Money as Part of the General Stock of Society"
+linkTitle: "Chapter 2a"
+date: 2020-01-28
+image: "/covers/wn.jpg"
+description: "Money has wholesale and retail"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="1" >}} Book 1 showed that the price of commodities is made up of rent, wages, and profit.
@@ -23,7 +21,7 @@ The price of every commodity resolves itself into some one, or other, or all of 
 - wages, or 
 - profits.
 
-{{< s v="3" >}} The total annual produce of a country is divided as a revenue to its inhabitants. The total revenue of all its inhabitants can be divided into= 
+{{< s v="3" >}} The total annual produce of a country is divided as a revenue to its inhabitants. The total revenue of all its inhabitants can be divided into: 
 - a gross revenue, and
 - a net revenue.
 

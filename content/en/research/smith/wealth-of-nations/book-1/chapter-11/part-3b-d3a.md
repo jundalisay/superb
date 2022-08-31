@@ -1,15 +1,12 @@
-+++
-title=  "Digression: The effect of improvement on real value of rude produce"
-heading=  "Digression, Part 3, Digression of the Simplified Wealth of Nations"
-date=  2020-01-18
-image=  "/covers/wn.jpg"
-description=  "Rude produce may be divided into three"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d2b"
-linkbtext=  "Chapter 11 Digression d2b"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3b1"
-linkftext=  "Chapter 11 Digression d3b1"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Digression: The effect of improvement on real value of rude produce"
+heading: "Part 3b of Digression 3a"
+date: 2015-09-03
+image: "/covers/wn.jpg"
+description: "Rude produce may be divided into three"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="193" >}} Rude produce may be divided into three:

@@ -1,15 +1,11 @@
-+++
-title=  "Third Kind"
-heading=  "Fish and Precious Metals"
-date=  2020-01-14
-image=  "/covers/wn.jpg"
-description=  "The multiplication fish is both limited and uncertain"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3c1"
-linkbtext=  "Digression 3c1"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d4"
-linkftext=  "Digresssion d4"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Fish and Precious Metals"
+heading: "Part 3b of Digression 3c1"
+date: 2015-08-25
+image: "/covers/wn.jpg"
+description: "The multiplication fish is both limited and uncertain"
+icon: "/icons/smith.png"
+---
 
 
 ## Fish

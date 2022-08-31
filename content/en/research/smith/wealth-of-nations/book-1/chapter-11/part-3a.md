@@ -1,15 +1,12 @@
-+++
-title=  "The variations of the ratos between the Values the of Food and Non-Food Rude Produce"
-heading=  "Chapter 11 Part 3b"
-date=  2020-01-26
-image=  "/covers/wn.jpg"
-description=  "The value of non-food produce should constantly rise relative to food produce"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-2c"
-linkbtext=  "Chapter 11 Part 2c"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a1"
-linkftext=  "Chapter 11 Part 3b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The variations of the ratos between the Values the of Food and Non-Food Rude Produce"
+heading: "Part 3a of Chapter 11 of Book 1"
+date: 2015-09-24
+image: "/covers/wn.jpg"
+description: "The value of non-food produce should constantly rise relative to food produce"
+icon: "/icons/smith.png"
+---
+
 
 
 <!-- Of the variations in the Proportion between the respective Values of that sort of Produce which always affords Rent, and of that which sometimes does, and sometimes does not, afford Rent -->

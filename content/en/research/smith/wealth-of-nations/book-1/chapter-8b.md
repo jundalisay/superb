@@ -1,16 +1,13 @@
-+++
-title=  "Advancing, Stagnating, Reversing Movement"
-heading=  "Book 1 Chapter 8b of The Wealth of Nations Simplified"
-date=  2020-01-18
-image=  "/covers/wn.jpg"
-description=  "High prices are caused by monopolies"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-8a"
-linkbtext=  "Chapter 8a"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-8c"
-linkftext=  "Chapter 8c"
-icon=  "/icons/smith.png"
-author= "Adam Smith"
-+++
+---
+title: "Advancing, Stagnating, Reversing Movement"
+heading: Chapter 8b of Book 1
+date: 2020-01-18
+image: "/covers/wn.jpg"
+description: "High prices are caused by monopolies"
+author: "Adam Smith"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="22" >}} **Wages rise from the continual increase of the national wealth, not from its actual greatness.** 

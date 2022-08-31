@@ -5,10 +5,6 @@ linkTitle: "Chapter 3e"
 date: 2020-01-09
 image: "/covers/wn.jpg"
 description: "Austerity Versus Public Spending"
-linkb: "/research/smith/wealth-of-nations/book-2/chapter-3d"
-linkbtext: "chapter-3d"
-linkf: "/research/smith/wealth-of-nations/book-2/chapter-4a"
-linkftext: "chapter-4a"
 author: Adam Smith
 icon: /icons/smith.png
 ---
@@ -33,7 +29,7 @@ For example, a rich man may spend his revenue either in=
   - useful or ornamental buildings,
   - useful or ornamental furniture,
   - collecting books, statues, pictures; or
-- more frivolous things like= 
+- more frivolous things like:
   - jewels, baubles, ingenious trinkets, or
   - in amassing a great wardrobe of fine clothes.
     - This is most trifling of all.
@@ -88,13 +84,14 @@ If those provisions were employed instead in employing masons, carpenters, uphol
 
 {{< s v="41" >}} However, this does not mean that spending on durable goods always indicates more generosity than spending on hospitality.
 
-When a rich man spends his revenue chiefly in hospitality, he shares most of it with his friends.
-When he employs it in buying durable commodities, he spends it on his own person.
-    He gives nothing to others without an equivalent.
-    A person is trifling, base, and selfish when he uses his revenue to buy frivolous objects such as ornaments of dress, furniture, jewels, trinkets, and gewgaws for himself.
+- When a rich man spends for <!-- his revenue chiefly in --> hospitality, he shares it <!-- most of it --> with his friends.
+- When he spends to buy durable commodities, he spends it on his own person.
+  - He gives nothing to others without an equivalent.
+  - A person is trifling, base, and selfish when he uses his revenue to buy frivolous objects such as ornaments of dress, furniture, jewels, trinkets, and gewgaws for himself.
 
-All that I mean is, that buying durable commodities= 
-    causes some accumulation of valuable commodities, and
-    is more favourable to private frugality.
+All that I mean is, that buying durable commodities:
+- causes some accumulation of valuable commodities, and
+- is more favourable to private frugality.
+
 Private frugality increases the public capital.
-    The public capital maintains productive hands which leads to the growth of public opulence.
+- The public capital maintains productive hands which leads to the growth of public opulence.

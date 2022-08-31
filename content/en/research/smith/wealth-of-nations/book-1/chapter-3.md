@@ -1,15 +1,12 @@
-+++
-title=  "Division of Labour is Limited by the Size of the Market"
-heading=  "Chapter 3 of Book 1 of the Wealth of Nations Simplified"
-date=  2020-01-27
-image=  "/covers/wn.jpg"
-description=  "Market Size is the Most Important Factor that Leads to the Division of Labour in Society"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-4a"
-linkftext=  "Chapter 4a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Division of Labour is Limited by the Size of the Market"
+heading: "Chapter 3 of Book 1 "
+date: 2020-01-27
+image: "/covers/wn.jpg"
+description: "Market Size is the Most Important Factor that Leads to the Division of Labour in Society"
+icon: "/icons/smith.png"
+---
+
 
 
 ## Market Size is The Most Important Factor that Leads to the Division of Labour in Society
@@ -22,6 +19,7 @@ A porter can find only find work in a big town.
 In very small villages with scattered houses in the Highlands of Scotland, every farmer must be butcher, baker and brewer for his own family.
 There are rarely smiths, carpenters, or masons within less than 20 miles.
 There are scattered families that live 8-10 miles apart.
+
 They must learn those works themselves, which in more populous countries, they would simply call in the assistance of those workers.
 Almost everywhere, rural workers often do all the kinds of jobs that use the same materials.
 
@@ -32,7 +30,7 @@ It is impossible to find a nailer in the remote parts of the Highlands of Scotla
 Such a nailer, producing 1,000 nails a day for 300 working days in a year, can make 300,000 nails in the year.
 But it would be impossible for him to dispose of 1,000 nails in a year.
 
-3 Transportation by water opens up industry to more markets than transportation by land.
+{{< s v="3" >}} Transportation by water opens up industry to more markets than transportation by land.
 
 Industries along the sea coast and rivers naturally subdivide and improve itself faster than the inland parts of the countryside.
 A broad-wheeled wagon run by two men with eight horses can carry 4 tons between London and Edinburgh in six weeks.
@@ -43,49 +41,63 @@ Those 200 tons of goods carried by the cheapest land transportation must pay for
 - 100 men, and
 - 50 wagons.
 
-Whereas, those 200 tons carried by ship pays only for= 
-the maintenance of the six men and the ship, and
-the superior risk or the difference between the insurance cost of water transportation and land transportation.
-If only land transportation were possible between two places= 
-the cost of the transporation of goods would be too high, relative to their weight, and
-It would reduce their commerce and consequently their mutual encouragement to each other’s industry.
-there could be little or no commerce between the distant parts of the world.
+Whereas, those 200 tons carried by ship pays only for:
+- the maintenance of the six men and the ship, and
+- the superior risk or the difference between the insurance cost of water transportation and land transportation.
+
+If only land transportation were possible between two places:
+- the cost of the transporation of goods would be too high, relative to their weight, and
+  - It would reduce their commerce and consequently their mutual encouragement to each other’s industry.
+- there could be little or no commerce between the distant parts of the world.
+
 What goods could bear the cost of land transportation between London and Calcutta?
+
 How safely could they be transported through so many barbarous territories?
+
 Those two cities currently have a very considerable trade with each other and encourage each other's industry.
 
-4 The advantages of water transportation led to the faster and earlier development of the areas near the water compared to those of the more inland parts of the countryside.
+{{< s v="4" >}} The advantages of water transportation led to the faster and earlier development of the areas near the water compared to those of the more inland parts of the countryside.
 
 The main market of the inland parts of the countryside is the limited area around them.
 That small market gets a lesser proportion of the riches and populousness of the whole country.
 Consequently, its development must always be posterior to the development of the country.
+
 In our North American colonies, the plantations have followed the sea-coast or navigable riverbanks and have rarely extended far from them.
 
-5 The first civilized nations in written history were those around the Mediterranean coast.
 
-That sea was very favorable to early navigation because it= 
-had lot of islands and shores,
-had a smooth surface,
-had no tides nor waves other than those created by the wind.
-Back then, men were= 
-afraid to go far from the coast because they did not have the compass, amd
-afraid of the ocean waves because of the imperfect art of ship-building.
+{{< s v="5" >}} The first civilized nations in written history were those around the Mediterranean coast.
+
+That sea was very favorable to early navigation because it:
+- had lot of islands and shores,
+- had a smooth surface,
+- had no tides nor waves other than those created by the wind.
+
+Back then, men were:
+- afraid to go far from the coast because they did not have the compass, amd
+- afraid of the ocean waves because of the imperfect art of ship-building.
+
 To sail out of the Straits of Gibraltar was considered very dangerous in ancient times.
+
 Only the Phoenicians and Carthaginians, the most skilful navigators and shipbuilders of those times, attempted it.
 
-6 Egypt was the first of the countries on the Mediterranean coast to develop agriculture or manufactures.
 
-Its Nile river breaks itself into many different canals which allowed water transportation between their big towns and farm houses.
-This is similar to how the Rhine and the Meuse allows transportation in Holland.
-The extent and easiness of this inland navigation was probably one of the principal causes of Egypt's early improvement.
+{{< s v="6" >}} Egypt was the first of the countries on the Mediterranean coast to develop agriculture or manufactures.
 
-7 Bengal, Southeast Asia, and Eastern China also had early improvements in agriculture and manufactures.
+Its Nile river breaks itself into many different canals.
+- This allowed water transportation between their big towns and farm houses.
+- This is similar to how the Rhine and the Meuse allows transportation in Holland.
+- The extent and easiness of this inland navigation was probably one of the principal causes of Egypt's early improvement.
+
+
+{{< s v="7" >}} Bengal, Southeast Asia, and Eastern China also had early improvements in agriculture and manufactures.
 
 The Ganges and other great rivers in Bengal form many navigable canals, in the same way as the Nile does in Egypt.
+
 Eastern China also has several great rivers which allow an inland navigation much more extensive than the Nile or the Ganges put together.
 The ancient Egyptians, Indians, and Chinese derived their wealth from inland commerce and did not encourage foreign commerce.
 
-8 The following areas have been barbarous then and now= 
+
+{{< s v="8" >}} The following areas have been barbarous then and now: 
 - all the inland parts of Africa,
 - Northern part of Asia north of the Black and Caspian seas,
 - Kazakhstan,

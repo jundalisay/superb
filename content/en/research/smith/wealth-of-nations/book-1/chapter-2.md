@@ -1,13 +1,9 @@
 ---
 title: "The Cause of the Division of Labour"
-heading: "Chapter 2 of Book 1 of the Wealth of Nations Simplified"
+heading: "Chapter 2 of Book 1 "
 date: 2020-01-28
 image: "/covers/wn.jpg"
 description: "The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour"
-linkb: /research/smith/wealth-of-nations/book-1/chapter-1c-productivity
-linkbtext: "Chapter 1b"
-linkf: /research/smith/wealth-of-nations/book-1/chapter-3
-linkftext: "Chapter 3"
 icon: "/icons/smith.png"
 ---
 

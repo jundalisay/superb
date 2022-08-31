@@ -1,15 +1,13 @@
-+++
-title=  "Sticky Wages From the Inverse Relationship Between Labour and Stock"
-heading=  "Book 1 Chapter 8e of The Wealth of Nations Simplified"
-date=  2020-01-15
-image=  "/covers/wn.jpg"
-description=  "High prices are caused by monopolies"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-8d"
-linkbtext=  "Chapter 8d"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-9a"
-linkftext=  "Chapter 9a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Sticky Wages From the Inverse Relationship Between Labour and Stock"
+heading: Chapter 8e of Book 1
+date: 2020-01-15
+image: "/covers/wn.jpg"
+description: "High prices are caused by monopolies"
+author: "Adam Smith"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="44" >}} Some pretend that:
@@ -82,16 +80,17 @@ All three were stationary manufactures, or which their production was neither go
 
 Their production is increasing in quantity and value.
 However, its variations are not connected with the dearness or cheapness of the seasons.
-1740 was a year of great scarcity.
-Both manufactures declined very much then.
-1756 was another year of great scarcity.
-The Scotch manufacture made above average advances.
-But the Yorkshire manufacture declined.
-Its produce did not rise to what it had been in 1755 to 1766, after the repeal of the American stamp act.
 
-In 1766 and 1767, it greatly exceeded its past produce.
-It has continued to advance ever since.
-50The produce of all great manufactures for distant sale does not depend so much on the dearness or cheapness of the seasons.
+- 1740 was a year of great scarcity.
+  - Both manufactures declined very much then.
+- 1756 was another year of great scarcity.
+  - The Scotch manufacture made above average advances.
+  - But the Yorkshire manufacture declined.
+  - Its produce did not rise to what it had been in 1755 to 1766, after the repeal of the American stamp act.
+- In 1766 and 1767, it greatly exceeded its past produce.
+  - It has continued to advance ever since.
+
+50 The produce of all great manufactures for distant sale does not depend so much on the dearness or cheapness of the seasons.
 
 It depends more on:
 - the demand of the consuming countries,

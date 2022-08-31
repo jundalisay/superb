@@ -1,15 +1,13 @@
-+++
-title=  "Two Branches of Circulation=  Wholesale and Retail"
-description=  "Money Supply has two great divisions as wholesale and retail"
-date=  2020-01-16
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2l"
-linkbtext=  "Chapter 2l"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2n"
-linkftext=  "Chapter 2n"
-heading=  "Chapter 2m"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Two Branches of Circulation: Wholesale and Retail"
+heading: "Chapter 2m of Book 2"
+date: 2020-01-16
+image: "/covers/wn.jpg"
+description: "Money Supply has two great divisions as wholesale and retail"
+icon: "/icons/smith.png"
+---
+
+
 
 
 {{< s v="88" >}} The circulation of every country is divided into two branches:

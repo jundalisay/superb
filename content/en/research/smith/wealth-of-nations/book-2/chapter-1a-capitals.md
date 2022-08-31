@@ -5,10 +5,6 @@ linkTitle: "Chapter 1b"
 date: 2020-01-31
 image: "/covers/wn.jpg"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
-linkb: "/research/smith/wealth-of-nations/book-2/"
-linkbtext: "Book 2"
-linkf: "/research/smith/wealth-of-nations/book-2/chapter-1b-fixed"
-linkftext: "chapter 1b"
 icon: "/icons/smith.png"
 ---
 

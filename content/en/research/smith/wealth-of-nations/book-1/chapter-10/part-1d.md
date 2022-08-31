@@ -1,15 +1,35 @@
-+++
-title=  "Inequalities in Wholesale and Retail Trade"
-heading=  "Chapter 10, Part 1d=  Profit and wage inequality in different Occupations and Businesses"
-date=  2020-01-01
-image=  "/covers/wn.jpg"
-description=  "The chance of loss is frequently under-valued and rarely valued more than it is worth"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-10/part-1c"
-linkbtext=  "Chapter 10 Part 1c"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-10/part-1e"
-linkftext=  "Chapter 10 Part 1e"
-# heading=  Chapter 10 Part 1d
-+++
+---
+title: "Inequalities in Wholesale and Retail Trade"
+heading: "Part 1d of Chapter 10 of Book 1"
+date: 2020-01-25
+image: "/covers/wn.jpg"
+description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
+icon: "/icons/smith.png"
+---
+
+<!-- # heading=  "Chapter 10, Part 1d=  Profit and wage inequality in different Occupations and Businesses" -->
+
+
+
+## Wages in the Pharmaceutical Industry [Apothecaries]
+
+{{< s v="38" >}} 'Pharmaceutical profit' denotes something uncommonly extravagant.
+- This great apparent profit, however, is frequently no more than reasonable wages.
+
+The skill of an pharmacist is a much nicer and more delicate than that of any artificer.
+- The trust reposed in him is of much more importance.
+- He is:
+  - the physician of the poor in all cases.
+  - the physician of the rich when the distress is not very great.
+- His reward
+  - should be suitable to his skill and trust.
+  - reward is in the price of his drugs.
+
+All the drugs the best pharmacy will sell in a large town may not perhaps cost above 30-40 pounds a year.
+If he sells them for 300-400 pounds, or at 1,000% profit, this may be the reasonable wages for his labour charged on the price of his drugs.
+Most of his profit is actually wages.
+
+
 
 ## Groceries and Retail
 
@@ -32,7 +52,7 @@ Deduct this from his great profits and little above ordinary profits remain.
 A majority of his apparent profit is real wages.
 
 
-40 There is less difference between the apparent profits in retail and wholesale in big cities than small towns.
+{{< s v="40" >}} There is less difference between the apparent profits in retail and wholesale in big cities than small towns.
 If a grocery owner employs £10,000, his wages must add very little to the real profits his great stock.
 In a big city therefore, a wealthy retailer's apparent profits are more on a level with the wholesale merchant's profits.
 
@@ -47,7 +67,8 @@ Even if the prime cost of retail bread and meat is higher in big cities than rur
 The prime cost of wholesale goods, such as corn and cattle, is bigger in big cities than rural villages as they must be brought from farther away.
 This is probably why the price of bread and meat are nearly the same in parts of Great Britain while the prices of corn and cattle are different.
 
-41 Profits in both wholesale and retail trade are generally less in big than in small towns
+
+{{< s v="41" >}} Profits in both wholesale and retail trade are generally less in big than in small towns
 
 But great fortunes are frequently gained from small beginnings in big cities and rarely in small towns.
 Small towns and rural villages have a small market

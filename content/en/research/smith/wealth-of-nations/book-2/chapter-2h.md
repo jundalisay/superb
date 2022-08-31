@@ -1,15 +1,12 @@
-+++
-title=  "How Drawing and Redrawing Works"
-description=  "The limitations set by banks led to traders to do Drawing and Redrawing to increase the paper money circulating"
-date=  2020-01-21
-image=  "/covers/wn.jpg"
-# heading=  The Simplified Wealth of Nations by Adam Smith Book 2, Chapter 1a
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2g"
-linkbtext=  "Chapter 2g"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2i"
-linkftext=  "Chapter 2i"
-icon=  "/icons/smith.png"
-+++
+---
+title: "How Drawing and Redrawing Works"
+heading: "Chapter 2g of Book 2"
+date: 2020-01-24
+image: "/covers/wn.jpg"
+description: "The limitations set by banks led to traders to do Drawing and Redrawing to increase the paper money circulating"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="65" >}} More than 25 years have passed since the paper money issued by the Scottish banks was more than fully equal to what the national circulation could easily absorb and employ.
@@ -51,19 +48,18 @@ From England, it was brought into Scotland, where it was done on a much greater 
 During the last two centuries, the customs of merchants have been adopted into the laws of all European nations.
 
 {{< box >}}
-<h2>Drawing and Redrawing a Cheque</h2>
+## Drawing and Redrawing a Cheque
 
 An example of a bill of exchange is a cheque 
-<ul>
-<li>Buyer “B” owes $100 to Seller “S” for some goods which B bought.</li>
-<li>B writes a check or bill of exchange for $100 to S, payable in 2 months.</li>
-<li>But S also owes $100 to Friend “F” so he endorses the bill to F so that B will pay F.</li>
-<li>F owes money to Cousin “C” so he endorses it to C, too</li>
-<li>B is the drawee or acceptor or payer</li>
-<li>S, F, and C are the drawers or payees</li>
-<li>S and F are endorsers</li>
-<li>An unpaid bill is called a draft</li>
-</ul>
+
+- Buyer “B” owes $100 to Seller “S” for some goods which B bought.
+- B writes a check or bill of exchange for $100 to S, payable in 2 months.
+- But S also owes $100 to Friend “F” so he endorses the bill to F so that B will pay F.
+- F owes money to Cousin “C” so he endorses it to C, too
+- B is the drawee or acceptor or payer
+- S, F, and C are the drawers or payees
+- S and F are endorsers
+- An unpaid bill is called a draft
 {{< /box >}}
 
 
@@ -84,11 +80,11 @@ The drawer, acceptor, and endorsers of the bill can all be persons of doubtful c
 - The shortness of the due date gives some security to the bill’s owner.
 
 
-All of them may become bankrupts, but there is little chance that they will all become bankrupt in so short a time. A weary traveler says to himself= 
+All of them may become bankrupts, but there is little chance that they will all become bankrupt in so short a time. A weary traveler says to himself:
 
-<div clas="squote other" data-sal="slide-right">
+{{< q >}}
 “This house is crazy and will not stand very long. But there is little chance that it will fall tonight, so I will sleep in it tonight.”
-</div>
+{{< /q >}}
 
 
 {{< s v="68" >}} The interest on bills was 5% in the year. The commission was never less than 0.5% on each draft.
@@ -133,7 +129,7 @@ Because before each bill became due, a new bill was always drawn to a greater am
 - Thus, those entrepreneurs very artfully used it to draw gold and silver from those banks, without the bank's consent or knowledge that they had really advanced it.
 
 
-{{< s v="72" >}} Two people who continually draw and redraw on one another and discount their bills with the same banker are really trading <!-- . , the banker must immediately discover that they are trading --> with the capital that the banker advances to them and not with their own capital. This is difficult to spot when= 
+{{< s v="72" >}} Two people who continually draw and redraw on one another and discount their bills with the same banker are really trading <!-- . , the banker must immediately discover that they are trading --> with the capital that the banker advances to them and not with their own capital. This is difficult to spot when:
 - they discount their bills with other banks, and
 - the same two persons draw from a great circle of entrepreneurs.
 
@@ -143,7 +139,7 @@ The entrepreneurs find it for their interest to assist each other. They make it 
   - has no real creditor but the discounting bank,
   - has no real debtor but the entrepreneur who used the money.
 
-Even if a banker discovers this, he might be too late. Those bills might have already been discounted so much that, by refusing to discount any more, he would= 
+Even if a banker discovers this, he might be too late. Those bills might have already been discounted so much that, by refusing to discount any more, he would:
 - bankrupt them all, and
 - ruin himself by ruining them.
 

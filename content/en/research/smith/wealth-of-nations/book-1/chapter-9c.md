@@ -1,16 +1,11 @@
 ---
 title: "The Effect of Maximum Population and Maximum Stocks"
 heading: "Chapter 9b of Book 1"
-date: 2020-01-01
+date: 2020-01-13
 image: "/covers/wn.jpg"
 description: "A country at maximum population would have so much competition for employment. Wages would be reduced to bare sufficiency, preventing the population from increasing."
-linkb: "/research/smith/wealth-of-nations/book-1/chapter-9b"
-linkbtext: "chapter-9a"
-linkf: "/research/smith/wealth-of-nations/book-1/chapter-10/part-1a"
-linkftext: "Part 1a"
 icon: "/icons/smith.png"
 ---
-
 
 
 {{< s v="14" >}} Wages and profits would be very low in a country:
@@ -45,6 +40,7 @@ In trade, the oppression of the poor must establish the monopoly of the rich who
 
 When contracts are not enforced, all borrowers are treated in the same way bankrupts or people of doubtful credit.
 The uncertainty of recovering his money makes the lender demand the same high interest usually required from bankrupts.
+
 Contracts in barbarous nations was left for many ages to the faith of the contracting parties.
 They were seldom dealt with by the courts.
 This caused high interest rates during ancient times.
@@ -116,6 +112,7 @@ The wage part of the price of the linen would only rise arithmetically in propor
 But if the profits of all the raw materials for linen were raised to 5%, the profit part of the price of the linen would rise geometrically in proportion to this rise of profit.
 The employer of the flax-dressers would increase the selling price of his flax by 5%.
 The employer of the spinners would also increase prices by 5%.
+
 This includes the higher price of the flax and the wages of the spinners.
 The employer of the weavers would also increase prices by 5% for the same reason.
 Raising wages raises the price of commodities in the same way as simple interest raises the price of loans.

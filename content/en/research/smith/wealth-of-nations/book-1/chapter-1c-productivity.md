@@ -1,13 +1,9 @@
 ---
 title: "Productivity from the Division of Labor"
-heading: "Chapter 1c of Book 1 of the Wealth of Nations Simplified"
+heading: "Chapter 1c of Book 1"
 date: 2020-01-28
 image: "/covers/wn.jpg"
 description: "The division of labour greatly increases productivity"
-linkb: /research/smith/wealth-of-nations/book-1/chapter-1b-causes
-linkbtext: "Chapter 1b"
-linkf: /research/smith/wealth-of-nations/book-1/chapter-2
-linkftext: "Chapter 2"
 icon: "/icons/smith.png"
 ---
 

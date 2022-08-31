@@ -1,15 +1,13 @@
-+++
-title=  "Bank Notes vs Promissory Notes"
-date=  2020-01-15
-image=  "/covers/wn.jpg"
-description=  "The Increase in Bank Notes does not increase inflation"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2m"
-linkbtext=  "Chapter 2m"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2o"
-linkftext=  "Chapter 2o"
-heading=  "Chapter 2n"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Bank Notes vs Promissory Notes"
+heading: "Chapter 2n of Book 2"
+date: 2020-01-15
+image: "/covers/wn.jpg"
+description: "The Increase in Bank Notes does not increase inflation"
+icon: "/icons/smith.png"
+---
+
+
 
 
 ## The Increase in Bank Notes does not increase inflation
@@ -41,7 +39,7 @@ It was not from the multiplication of paper money.
 
 ## The Increase in Personal Debt increases inflation 
 
-97 It would be otherwise with a paper money consisting in promissory notes, of which the immediate payment= 
+{{< s v="97" >}} It would be otherwise with a paper money consisting in promissory notes, of which the immediate payment= 
 - depended on the goodwill of its issuers,
 - depended on a condition which the holder of the notes might not always be able to fulfill, and
 - could only be made after a certain number of years and bore no interest in the meantime.
@@ -51,7 +49,7 @@ Paper money in promissory notes would fall below the value of gold and silver ac
 - the length of time at which payment could be made.
 
 
-98 Some years ago, the Scottish banks inserted an optional clause into their bank notes. They promised payment to the bearer= 
+{{< s v="98" >}} Some years ago, the Scottish banks inserted an optional clause into their bank notes. They promised payment to the bearer= 
 - as soon as the note should be presented, or
 - six months after such presentment, with 6-month interest.
 

@@ -1,15 +1,12 @@
-+++
-title=  "Cash Accounts and Discounted Bills of Exchange"
-description=  "Cash Accounts and Discounted Bills of Exchange adds to the circulation of value"
-date=  2020-01-24
-image=  "/covers/wn.jpg"
-heading=  "Book 2, Chapter 1a"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2d"
-linkbtext=  "Chapter 2d"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2f"
-linkftext=  "Chapter 2f"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Cash Accounts and Discounted Bills of Exchange"
+heading: "Chapter 2e of Book 2"
+date: 2020-01-24
+image: "/covers/wn.jpg"
+description: "Cash Accounts and Discounted Bills of Exchange adds to the circulation of value"
+icon: "/icons/smith.png"
+---
+
 
 
 ## Cash Accounts
@@ -41,7 +38,8 @@ The landlords pay these to the merchants for goods.
 The merchants return these to the banks to balance their cash accounts or to replace what they borrowed.
 Thus, almost the whole money business of the country is transacted by promissory notes, creating the great trade of those banks.
 
-46 Through those cash accounts, every merchant can carry on a greater trade.
+
+{{< s v="46" >}} Through those cash accounts, every merchant can carry on a greater trade.
 
 Let us say that there is one merchant in London and another in Edinburgh, both employing equal stocks in the business.
 - The Edinburgh merchant uses cash accounts.
@@ -64,11 +62,11 @@ He makes a bigger profit and provides more employment.
 Hence the great benefit which Scotland has derived from this trade.
 
 
-47 Discounting bills of exchange gives the English merchants a convenience equivalent to the cash accounts of the Scotch merchants.
+{{< s v="47" >}} Discounting bills of exchange gives the English merchants a convenience equivalent to the cash accounts of the Scotch merchants.
 
 But the Scotch merchants can also have discounted bills of exchange as easily as the English merchants, in additional to their cash accounts.
 
-48 All kinds of paper money which can easily circulate in any country can never exceed the value of the gold and silver it substitutes.
+{{< s v="48" >}} All kinds of paper money which can easily circulate in any country can never exceed the value of the gold and silver it substitutes.
 
 If 20 shilling notes are the lowest paper money in Scotland, all the paper money which can easily circulate there cannot exceed the amount of gold and silver needed for transactions worth 20 shillings or more.
 

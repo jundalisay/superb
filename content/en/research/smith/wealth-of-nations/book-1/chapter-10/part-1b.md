@@ -1,15 +1,12 @@
-+++
-title=  "Inequality from Constancy"
-heading=  "Chapter 10b, Part 1"
-# =  Profit and wage inequality in different Occupations and Businesses"
-date=  2020-01-30
-image=  "/covers/wn.jpg"
-description=  "Wages vary with the constancy or inconstancy of employment"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-10/part-1a"
-linkbtext=  "Chapter 10 Part 1a"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-10/part-1c"
-linkftext=  "Chapter 10 Part 1c"
-+++
+---
+title: "Inequality from Constancy"
+heading: "Part 1b of Chapter 10 of Book 1"
+date: 2020-01-30
+image: "/covers/wn.jpg"
+description: "Wages vary with the constancy or inconstancy of employment"
+icon: "/icons/smith.png"
+---
+
 
 {{< s v="14" >}} Wages vary with the constancy or inconstancy of employment.
 
@@ -38,7 +35,8 @@ Chairmen in London are sometimes employed as bricklayers during summer.
 - His employment also depends on the occasional calls of his customers.
   - It is not interruptible by the weather.
 
-17 When the trades which usually afford constant employment do not bring constant employment, the wages in those trades are always higher than the wages of common labour.
+
+{{< s v="17" >}} When the trades which usually afford constant employment do not bring constant employment, the wages in those trades are always higher than the wages of common labour.
 
 In London, almost all journeymen artificers can be hired and dismissed by their masters daily and weekly in the same way as day-labourers.
 The lowest order of artificers in London are journeymen tailors.
@@ -46,12 +44,16 @@ They earn half a crown a day, though 18 pence are the wages of common labour.
 In small towns, the wages of journeymen tailors are rarely equal those of common labour.
 But in London, they are often unemployed for many weeks, particularly during summer.
 
-18 When the inconstancy of employment is combined with the hardship, disagreeableness, and dirtiness of the work, it sometimes raises the wages of  common labour above the wages of the most skilful artificers.
+
+{{< s v="18" >}} When the inconstancy of employment is combined with the hardship, disagreeableness, and dirtiness of the work, it sometimes raises the wages of  common labour above the wages of the most skilful artificers.
+
 A coal miner working by the piece at Newcastle earns double the wages of common labour.
 
 In Scotland, he earns three times.
+
 His high wages arise from the hardship, disagreeableness, and dirtiness of his work.
 His employment is constant.
+
 The coal-heavers in London experience hardship, dirtiness, and disagreeableness, almost equal that of coal miners.
 The employment of coal-heavers is inconstant because of the irregularity in the arrivals of coal-ships.
 If coal miners earn double and triple the wages of common labour, it is reasonable that coal-heavers should earn four and five times those wages.
@@ -60,7 +62,9 @@ Six shillings are about four times the wages of common labour in London
 The lowest common earnings may always be considered as the earnings of the majority.
 If wages were higher than necessary, competition for those wages would soon increase.
 This competition would quickly be reduce wages in trades which have no exclusive privilege.
-19The constancy or inconstancy of employment cannot affect ordinary profits of any business.
+
+
+{{< s v="19" >}} The constancy or inconstancy of employment cannot affect ordinary profits of any business.
 
 Whether the stock is employed or not depends on the businessman and not on the business.
 

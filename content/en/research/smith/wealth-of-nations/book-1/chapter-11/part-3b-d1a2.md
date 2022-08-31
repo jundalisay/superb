@@ -1,15 +1,11 @@
-+++
-title=  "Mistakes in Judging Wheat and Silver Prices"
-date=  2020-01-24
-image=  "/covers/wn.jpg"
-description=  "Historians made mistakes in Judging Wheat and Silver Prices because they were lazy and because rents were paid in kind"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a1"
-linkbtext=  "Chapter 11 Part 3a"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a3"
-linkftext=  "Digression 1a3"
-heading=  "Part 3b Digression 1a2"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Mistakes in Judging Wheat and Silver Prices"
+heading: "Part 3b of Chapter 11 of Book 1"
+date: 2015-09-22
+image: "/covers/wn.jpg"
+description: "Historians made mistakes in Judging Wheat and Silver Prices because they were lazy and because rents were paid in kind"
+icon: "/icons/smith.png"
+---
 
 
 {{< s v="110" >}} Many authors on prices thought that from the time of Julius Cæsar's invasion to the discovery of American mines, silver value was continually decreasing.

@@ -1,17 +1,11 @@
 ---
 title: "Money as a store of value and a tool for trade"
-heading: "Chapter 1a of Book 2 of the Wealth of Nations Simplified"
+heading: "Chapter 1a of Book 2 "
 date: 2020-01-27
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
-linkb: /research/smith/wealth-of-nations/book-2/chapter-2a-ndp
-linkbtext: "Chapter 2a"
-linkf: /research/smith/wealth-of-nations/book-2/chapter-2c
-linkftext: "Chapter 2c"
 icon: "/icons/smith.png"
 ---
-
-
 
 
 {{< s v="14" >}} The machines and tools which make up the fixed capital of an individual or a society are not included in their gross or net revenue.

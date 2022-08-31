@@ -1,13 +1,9 @@
 ---
 title: "The Natural and Market Price of Commodities"
-# heading=  The Simplified Wealth of Nations by Adam Smith, Book 1 Chapter 6b
+heading: Chapter 7a of Book 1
 date: 2020-01-21
 image: "/covers/wn.jpg"
 description: "In the rude state, price has one component--wages"
-linkb: "/research/smith/wealth-of-nations/book-1/chapter-6b"
-linkbtext: "Chapter 7a"
-linkf: "/research/smith/wealth-of-nations/book-1/chapter-7b"
-linkftext: "Chapter 7b"
 icon: "/icons/smith.png"
 ---
 

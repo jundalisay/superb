@@ -1,15 +1,14 @@
-+++
-title=  "Interest Rates"
-heading=  "Book 2 Chapter 4b"
-date=  2020-01-07
-image=  "https= //sorasystem.sirv.com/photos/money.jpg"
-description=  "Should interest rates be regulated?"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-4a"
-linkbtext=  "Chapter 4a"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-5a"
-linkftext=  "Chapter 5a"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 4b"
+title: "Interest Rates"
+linkTitle: "Chapter 4b"
+date: 2020-01-09
+image: "/covers/wn.jpg"
+description: "Should interest rates be regulated?"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 {{< s v="7" >}} The monied interest naturally increases with the increase in the circulating capital in a country. <!-- the produce destined for replacing the capital in any country. -->
@@ -40,7 +39,7 @@ This sinking of profits likewise reduces interest.
 
 {{< s v="9" >}} John Locke, John Law, Montesquieu, and many other writers imagined that the increase of the quantity of gold and silver led to the decrease in interest rates in Europe.
 
-They said that= 
+They said that:
 - those metals became less valueable themselves.
 - their use became less valueable too, and consequently the price paid for it.
 
@@ -52,6 +51,7 @@ The following argument explains the fallacy of those writers.
 
 It has since sunk to 6%-3% in different countries.
 Let us suppose that in every country, the value of silver sunk precisely with the interest rate and interest rates have been reduced from 10% to 5%.
+
 The same quantity of silver can now purchase half of what it purchased before.
 This is a false supposition.
 But we will examine it because other writers suppose this.
@@ -65,7 +65,8 @@ By altering the rate, on the contrary, the proportion between those two values i
 If 100 pounds now are equal to 50 pounds then, 5 pounds now must be equal to 2 pounds 10 shillings then.
 By reducing the interest rate from 10% to 5%, the interest rate in using capital which is reduced to half of its value, is reduced to 1/4 of its former value of 2.5 pounds.
 
-{{< s v="" >}}11 Any increase in the quantity of silver, while the commodities circulated by it remained the same, only diminishes the value of silver.
+{{< s v="11" >}} Any increase in the quantity of silver, while the commodities circulated by it remained the same, only diminishes the value of silver.
+
 The nominal value of all goods would be greater.
 But their real value would be precisely the same.
 They would be exchanged for more silver.
@@ -81,6 +82,7 @@ Its wages would be nominally greater but would have the same real value.
 Wages are commonly computed by the quantity of silver paid to the labourer.
 They would be paid in more pieces of silver.
 Wages would appear to increase.
+
 But those pieces would buy the same quantity of goods as before.
 Profits would be the same nominally and really.
 But profits are not computed by the number of pieces of silver they are paid with.
@@ -91,30 +93,36 @@ The common proportion between capital and profit, would be the same
 The common interest of money would be the same
 What is given for the use of money is regulated by what can it be used for.
 
-12 On the contrary, any increase in the quantity of commodities circulated in the country, while the quantity of its money remained the same, would raise the value of the money and produce many important effects.
+{{< s v="12" >}} On the contrary, any increase in the quantity of commodities circulated in the country, while the quantity of its money remained the same, would raise the value of the money and produce many important effects.
+
 The capital of the country would really be increased, though it might nominally be the same.
 The quantity of productive labour it could maintain and employ would be increased, and consequently the demand for that labour.
 Its wages would naturally rise with the demand, and yet might appear to sink.
 They might be paid with less money, but that smaller quantity might purchase more goods.
 Profits would be diminished both really and nominally.
+
 The competition between the different capitals would naturally be increased with the increase in national capital.
 Their owners would be obliged to content themselves with a smaller proportion of the produce of that labour their capitals employed.
 The interest of money, keeping pace always with profits, might be greatly diminished, though the value of money, or the quantity of goods it could purchase, was greatly increased.
 
-13 In some countries, the interest of money is prohibited by law.
+{{< s v="13" >}} In some countries, the interest of money is prohibited by law.
 But as money is useful everywhere, something should by be paid everywhere for the use of it.
 The prohibition on interest actually increases the evil of usury, instead of preventing it.
-The debtor must pay for= 
-the use of the money
-the creditor's risk in accepting payment for that use
+
+The debtor must pay for:
+- the use of the money
+- the creditor's risk in accepting payment for that use
+
 The debtor must insure his creditor from the penalties of usury.
 
-14 In countries where interest is allowed, the law fixes the highest rate to prevent usury.
+
+{{< s v="14" >}} In countries where interest is allowed, the law fixes the highest rate to prevent usury.
 This rate should always be above the lowest market price.
 The market price of interest is the price commonly paid for the use of money by the most secure debtors.
 If this legal rate were fixed below the lowest market rate, it would have the same effect as the total prohibition of interest.
 The creditor will not lend his money for less than the use of it is worth.
 The debtor must pay him for the creditor's risk in accepting the full value of that use.
+
 If it is fixed at the lowest market price, it ruins honest people who respect the laws of their country.
 It ruins all those who cannot give the best security.
 It obliges them to deal with exorbitant usurers.
@@ -122,37 +130,45 @@ In Great Britain, money is lent to government at 3%.
 Money is lent to private people with good security at 4.0-4.5%
 The present legal rate of 5% is perhaps as proper as any.
 
-15 The legal rate should not be much above the lowest market rate.
+
+{{< s v="15" >}} The legal rate should not be much above the lowest market rate.
 If the legal interest rate in Great Britain was fixed at 8-10%, most of the money would be lent to prodigals and projectors.
 Only they would be willing to give this high interest.
 Sober people will not give for the use of money more than what is useful.
 They would not venture into the competition.
+
 Most of the national capital would thus be thrown into people most likely to waste and destroy it.
 It would be kept out of those most likely to make a profitable and advantageous use of it.
 If the legal interest rate is fixed a very little above the lowest market rate, sober people will be preferred as borrowers over prodigals and projectors.
+
 The person who lends money gets nearly as much interest from sober people than from prodigals
 His money is much safer with sober people than prodigals.
 A great part of the national capital is thus lent to those most likely to employ it advantageously.
 
-16 "No law can reduce the common rate of interest below the lowest ordinary market rate at the time when that law is made."
+
+{{< s v="16" >}} "No law can reduce the common rate of interest below the lowest ordinary market rate at the time when that law is made."
 
 The French king attempted to reduce the rate of interest from 5% to 4% with the edict of 1766.
 Money continued to be lent in France at 5%.
 The law was evaded in several ways.
 
-17 "The ordinary market price of land depends everywhere on the ordinary market rate of interest."
+
+{{< s v="17" >}} "The ordinary market price of land depends everywhere on the ordinary market rate of interest."
 
 The person who has a capital which he does not want to employ it himself will choose between buying land or lending it at interest.
 The superior security of land and its other advantages, will generally make him content with a smaller revenue from land than the revenue from lending out his money at interest.
+
 These advantages are sufficient to compensate a difference of revenue.
 But they will compensate a certain difference only.
 If the rent of land should fall short of the interest of money by a greater difference, nobody would buy land.
 Its ordinary price would soon be reduced.
 On the contrary, if the advantages should much more than compensate the difference, everybody would buy land.
 This would soon raise its ordinary price.
+
 When interest was at 10%, land was sold for 10-12 years purchase.
 When interest sunk to 6%, 5%, and 4%, the price of land rose to 20, 25, and 30 years purchase.
 The market interest rate is higher in France than in England.
+
 The common price of land is lower in France than England.
 In England it commonly sells at 30 years purchase.
 In France it sells at 20 years.

@@ -1,14 +1,11 @@
-+++
-title=  "Monopolies Through Secrets in Trade and Manufactures"
-date=  2020-01-20
-image=  "/covers/wn.jpg"
-description=  "High prices are caused by monopolies"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-7a"
-linkbtext=  "Chapter 7a"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-8a"
-linkftext=  "Chapter 8a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Monopolies Through Secrets in Trade and Manufactures"
+heading: Chapter 7b of Book 1
+date: 2020-01-20
+image: "/covers/wn.jpg"
+description: "High prices are caused by monopolies"
+icon: "/icons/smith.png"
+---
 
 
 ## Keeping Up the Market Price Above the Natural Price through Secrets of Trade and Manufactures
@@ -28,28 +25,33 @@ If the market is far from the suppliers, they may be able to=
 
 However, these secrets of trade can seldom be long kept.
 
-22 Secrets in manufactures can be kept longer than secrets in trade.
+
+{{< s v="22" >}} Secrets in manufactures can be kept longer than secrets in trade.
 
 A dyer who can reduce his costs to half can enjoy the cost-savings which is normally treated as extraordinary profits.
 
-23 Both kinds of secrets may last for many years.
 
-24 Some natural productions might need a very specific type of soil and location that all the land would not be enough to supply the effective demand.
+{{< s v="23" >}}  Both kinds of secrets may last for many years.
+
+{{< s v="24" >}}  Some natural productions might need a very specific type of soil and location that all the land would not be enough to supply the effective demand.
 
 This causes its price and its rent component to stay high for centuries.
 Such high rent bears no regular proportion to the rent of other equally fertile land nearby.
+
 But the wages of the labour and profits of the stock employed in bringing them to market are usually proportional to wages and profits nearby.
 An example is the French vineyards.
 
-25 Such enhancements are the effect of natural causes and may continue forever.
+{{< s v="25" >}} Such enhancements are the effect of natural causes and may continue forever.
+
 
 ## Monopolies Increase Prices
 
-26 A monopoly granted to an individual or trading company has the same effect as a secret in trade or manufactures.
+{{< s v="26" >}} A monopoly granted to an individual or trading company has the same effect as a secret in trade or manufactures.
 
 The monopolists keep the market constantly under-stocked to unnaturally raise the market prices of their commodities.
 
-27 The price of monopoly is the highest, while the natural price, or the price of free competition, is the lowest which can be taken in the long term.
+
+{{< s v="27" >}}  The price of monopoly is the highest, while the natural price, or the price of free competition, is the lowest which can be taken in the long term.
 
 The monopoly price is the highest which can be squeezed out of the buyers.
 The natural price is the lowest which the sellers can commonly afford to continue their business.
@@ -83,18 +85,19 @@ This is seen in ancient India and Egypt where every man was bound by religion to
 The causes of those variations in natural price will be explained next.
 
 
-34-35 I shall explain= 
+{{< s v="34-35" >}} I shall explain: 
 - the circumstances which naturally determine the rate of wages and profits, and
 - how wages and profits are affected by society's= 
   - riches or poverty, and
   - advancing, stationary or declining state.
 
-36 There is a proportion between the monetary wages in all the different employments of labour and the monetary profits in all the different employments of stock.
+{{< s v="36" >}} There is a proportion between the monetary wages in all the different employments of labour and the monetary profits in all the different employments of stock.
 
-This proportion depends on= 
+This proportion depends on: 
 the nature of the different employments, and
 the laws and policies in place.
 This proportion remains the same in the advancing, stationary, or declining condition of the society.
+
 I shall explain the different circumstances which regulate this proportion.
 
-37 Lastly, I shall explain the circumstances which regulate rent which affects the real price of the produce of land.
+{{< s v="37" >}} Lastly, I shall explain the circumstances which regulate rent which affects the real price of the produce of land.

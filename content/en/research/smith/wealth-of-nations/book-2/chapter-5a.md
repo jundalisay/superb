@@ -1,24 +1,26 @@
-+++
-title=  "The Four Employment of capitals"
-description=  "Employment of capitals"
-date=  2020-01-06
-image=  "/covers/wn.jpg"
-linkbtext=  "Chapter 4b"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-4b"
-linkftext=  "Chapter 5b"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-5b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 5a"
+title: "The Four Employment of capitals"
+linkTitle: "Chapter 5a"
+date: 2020-01-09
+image: "/covers/wn.jpg"
+description: "The destiny of all capitals is to maintain productive labour"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
+
+
 
 
 {{< s v="1" >}} The destiny of all capitals is to maintain productive labour.
 
-But the amount of that labour varies extremely according to= 
+But the amount of that labour varies extremely according to:
 - the diversity of their employment and
 - the value it adds to the national annual produce.
 
 
-{{< s v="2" >}} A capital may be employed in four ways= 
+{{< s v="2" >}} A capital may be employed in 4 ways:
 
 1. In procuring the rude produce required for society's use and consumption
 - Examples are the capitals used in improving or cultivating lands, mines, or fisheries
@@ -35,7 +37,7 @@ But the amount of that labour varies extremely according to=
 It is difficult to conceive any other way that a capital can be employed other than those four.
 
 
-{{< s v="3" >}} Each of these four methods is needed by the other three, or to the conveniency of society.
+{{< s v="3" >}} Each of these 4 methods is needed by the other three, or to the conveniency of society.
 
 
 {{< s v="4" >}} Unless capital was employed to multiply rude produce, neither manufactures nor trade could exist.
@@ -51,7 +53,7 @@ The merchant's capital exchanges the surplus produce of one place for that of an
 It encourages industry and increases the enjoyments of both places.
 
 
-7 Unless capital were used to divide those produce into small parcels, everyone would need to buy more than needed.
+{{< s v="7" >}} Unless capital were used to divide those produce into small parcels, everyone would need to buy more than needed.
 
 If there were no butchers, every man would need to buy a whole ox or sheep at a time.
 - This would be inconvenient to the rich and more inconvenient to the poor.

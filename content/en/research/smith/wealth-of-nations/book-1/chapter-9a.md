@@ -4,10 +4,6 @@ heading: "Chapter 9a of Book 1"
 date: 2020-01-14
 image: "/covers/wn.jpg"
 description: "Interest is the Best Indicator of Profits"
-linkb: "/research/smith/wealth-of-nations/book-1/chapter-8e"
-linkbtext: "chapter-8e"
-linkf: "/research/smith/wealth-of-nations/book-1/chapter-9b"
-linkftext: "Part 1a"
 icon: "/icons/smith.png"
 ---
 

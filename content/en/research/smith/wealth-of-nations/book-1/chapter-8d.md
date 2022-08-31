@@ -1,15 +1,13 @@
-+++
-title= "Wages in Great Britain"
-heading=  "Book 1 Chapter 8d of The Wealth of Nations Simplified"
-date=  2020-01-16
-image=  "/covers/wn.jpg"
-description=  "Wages in Great Britain"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-8c"
-linkbtext=  "Chapter 8c"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-8e"
-linkftext=  "Chapter 8e"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Poverty"
+heading: Chapter 8d of Book 1
+date: 2020-01-16
+image: "/covers/wn.jpg"
+description: "Wages in Great Britain"
+author: "Adam Smith"
+icon: "/icons/smith.png"
+---
+
 
 
 ## Poverty and the Importance of High Wages in Increasing the Industry of the Poor

@@ -1,19 +1,17 @@
-+++
-title=  "Advantages of Bank Prudence"
-description=  "Prudent banks were able to reduce their expenses, judge their debtors' situation, and avoid financial crises"
-date=  2020-01-22
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2f"
-linkbtext=  "Chapter 2f"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2h"
-linkftext=  "Chapter 2h"
-heading=  "Chapter 2g"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Advantages of Bank Prudence"
+heading: "Chapter 2g of Book 2"
+date: 2020-01-24
+image: "/covers/wn.jpg"
+description: "Prudent banks were able to reduce their expenses, judge their debtors' situation, and avoid financial crises"
+icon: "/icons/smith.png"
+---
+
+
 
 {{< s v="61" >}} For a long time, Scottish banks were very careful to require frequent and regular repayments from all their customers They did not deal with any person of any fortune or credit who did not make frequent and regular operations with them.
 
-By this attention= 
+By this attention:
 - they saved the extraordinary cost of replenishing their coffers
 - they also gained two other very considerable advantages= 
 
@@ -77,7 +75,9 @@ Even with this precaution, the borrowed money which would not be repaid for seve
 It should be borrowed upon bond or mortgage of private people who can live on the interest of their money without taking the trouble to employ the capital themselves.
 
 Such private people should be willing to lend that capital to creditable entrepreneurs who will keep it for several years.
-A bank that does the following would be a very convenient creditor to such traders= 
-lends money without the expence of stamped paper or attorneys' fees for drawing bonds and mortgages, and
-accepts the easy repayment terms of Scotish banks.
+
+A bank that does the following would be a very convenient creditor to such traders:
+- lends money without the expence of stamped paper or attorneys' fees for drawing bonds and mortgages, and
+- accepts the easy repayment terms of Scotish banks.
+
 But such traders would be the most inconvenient debtors to such a bank.

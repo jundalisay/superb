@@ -1,13 +1,9 @@
 ---
 title: "The Division of Labour"
-heading: "Chapter 1a of Book 1 of the Wealth of Nations Simplified"
+heading: "Chapter 1a of Book 1"
 date: 2020-01-31
 image: "/covers/wn.jpg"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
-linkb: /research/smith/wealth-of-nations/book-1
-linkbtext: "Chapter 1"
-linkf: /research/smith/wealth-of-nations/book-1/chapter-1b-causes
-linkftext: "Chapter 1b"
 icon: "/icons/smith.png"
 ---
 

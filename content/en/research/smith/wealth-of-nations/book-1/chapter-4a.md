@@ -1,15 +1,11 @@
-+++
-title=  "The Origin and Use of Money"
-heading=  "Chapter 4a of Book 1 of the Wealth of Nations Simplified"
-date=  2020-01-26
-image=  "/covers/wn.jpg"
-description=  "Money was invented to facilitate trade"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-4b"
-linkftext=  "Chapter 4b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Origin and Use of Money"
+heading: "Chapter 4a of Book 1 "
+date: 2020-01-26
+image: "/covers/wn.jpg"
+description: "Money was invented to facilitate trade"
+icon: "/icons/smith.png"
+---
 
 
 ## Money was invented to facilitate trade
@@ -96,8 +92,9 @@ Yet it would be very troublesome, if a poor man had to weigh a farthing each tim
 > 2. The trouble of assaying them
 
 Assaying is still more difficult and tedious.
-Unless a part of the metal is fairly melted in the crucible, with proper dissolvents, any conclusion that can be drawn from it, is extremely uncertain.
-Unless they went through assaying, people before coined money was instituted were always liable to the grossest frauds and impositions.
+- Unless a part of the metal is fairly melted in the crucible, with proper dissolvents, any conclusion that can be drawn from it, is extremely uncertain.
+- Unless they went through assaying, people before coined money was instituted were always liable to the grossest frauds and impositions.
+
 Instead of a pound weight of pure silver or copper, they might receive an adulterated composition of the coarsest and cheapest materials which resembled those metals.
 
 Improved countries found it necessary to affix a public stamp on particular metals for buying goods in order to= 
@@ -110,20 +107,24 @@ This is how coined money and public offices called mints began.
 Mints are institutions exactly of the same nature as the aulnagers and stampmasters of woollen and linen cloth.
 Through a public stamp, they ascertain the amount and uniform goodness of those commodities when brought to market.
 
-8 The first public stamps affixed to precious metals were intended to ascertain the goodness or fineness of the metal.
+{{< s v="8" >}} The first public stamps affixed to precious metals were intended to ascertain the goodness or fineness of the metal.
 
 Their goodness and fineness was most difficult and most important to ascertain.
 
-The stamps resembled= 
+The stamps resembled: 
 - the sterling mark currently affixed to silver plates and bars, or
 - the Spanish mark sometimes affixed to gold ingots.
 
 It is only struck on one side
-It does not cover the whole surface.
-It ascertains the fineness, but not the metal's weight.
+- It does not cover the whole surface.
+- It ascertains the fineness, but not the metal's weight.
+
 Abraham weighed the 400 shekels of silver which he had agreed to pay to Ephron for the field of Machpelah.
-However, they were said to be the current money of the merchant.
+- However, they were said to be the current money of the merchant.
+
 Yet they are received by weight and not by tale, in the same way as gold ingots and silver bars currently are.
 The revenues of the ancient Saxon kings of England were paid, not in money but in kind, as victuals and provisions of all sorts.
+
 William the Conqueror introduced the custom of paying them in money.
+
 However, this money was received at the exchequer, by weight and not by tale for a long time.

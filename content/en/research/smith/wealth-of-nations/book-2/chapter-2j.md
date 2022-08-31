@@ -1,15 +1,12 @@
-+++
-title=  "The Mississippi Scheme"
-date=  2020-01-19
-heading=  "Chapter 2j"
-image=  "/covers/wn.jpg"
-description=  "John Law thought that Scotland's industry languished for the lack of money to employ it. He proposed to remedy this lack by establishing a bank which would issue paper based on the whole value of all the lands in the country"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-2i"
-linkbtext=  "Chapter 2i"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-2k"
-linkftext=  "Chapter 2k"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Mississippi Scheme"
+heading: "Chapter 2j of Book 2"
+date: 2020-01-24
+image: "/covers/wn.jpg"
+description: "John Law thought that Scotland's industry languished for the lack of money to employ it. He proposed to remedy this lack by establishing a bank which would issue paper based on the whole value of all the lands in the country"
+icon: "/icons/smith.png"
+---
+
 
 <!-- ### Quantitative Easing=   -->
 

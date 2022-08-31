@@ -1,15 +1,12 @@
-+++
-title=  "Wages"
-# heading=  The Simplified Wealth of Nations by Adam Smith, Book 1 Chapter 8a
-date=  2020-01-19
-image=  "/covers/wn.jpg"
-description=  "High prices are caused by monopolies"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-7b"
-linkbtext=  "Chapter 7b"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-8b"
-linkftext=  "Chapter 8b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Wages"
+heading: Chapter 8a of Book 1
+date: 2020-01-19
+image: "/covers/wn.jpg"
+description: "High prices are caused by monopolies"
+icon: "/icons/smith.png"
+---
+
 
 
 ## Wages are Determined by Employers. Independent workers earn by the profit of their own work

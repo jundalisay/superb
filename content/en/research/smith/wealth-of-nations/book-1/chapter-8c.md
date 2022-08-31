@@ -1,15 +1,13 @@
-+++
-title=  "Wages in Great Britain"
-heading=  "Book 1 Chapter 8c of The Wealth of Nations Simplified"
-date=  2020-01-17
-image=  "/covers/wn.jpg"
-description=  "Wages in Great Britain"
-linkb=  "/research/smith/wealth-of-nations/book-1"
-linkbtext=  "Book 1"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-1b-causes"
-linkftext=  "Chapter 1b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Wages in Great Britain"
+heading: Chapter 8c of Book 1
+date: 2020-01-17
+image: "/covers/wn.jpg"
+description: "Wages in Great Britain"
+author: "Adam Smith"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="27" >}} In Great Britain, wages are in excess of what is needed to bring up a family.

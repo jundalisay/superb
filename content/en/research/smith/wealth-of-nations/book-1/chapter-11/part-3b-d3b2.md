@@ -1,14 +1,12 @@
-+++
-title=  "Second Kind: Poultry and Pork"
-date=  2020-01-16
-image=  "/covers/wn.jpg"
-description=  "In every farm, the offals of the barn and stables will maintain Poultry, Pork, and Dairy"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3b1"
-linkbtext=  "part-3b-d3b1"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d3c1"
-linkftext=  "part-3b-d3c1"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Second Kind: Poultry and Pork"
+heading: "Part 3b of Digression 3b2"
+date: 2015-08-30
+image: "/covers/wn.jpg"
+description: "In every farm, the offals of the barn and stables will maintain Poultry, Pork, and Dairy"
+icon: "/icons/smith.png"
+---
+
 
 
 ## Poultry

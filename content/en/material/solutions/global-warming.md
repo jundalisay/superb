@@ -4,14 +4,10 @@ subtitle: "Plant A LOT of trees"
 date: 2021-06-14
 image: "/photos/objects/tree.jpg"
 description: "We explain David Hume's solution to global warming based on his observations of climate patterns in ancient Europe"
-linkb: "/material/solutions/"
-linkbtext: "index"
-linkf: /social/economics/principles/eagle
-linkftext: "The Eagle"
 author: Juan
 icon: /icons/spmat.png
-
 ---
+
 
 The lashing of Hurricane Ida, the floods in China, and forest fires in Siberia and Europe has made the impact of global warming obvious to all. Unfortunately, policymakers seem to have no other solution to it other than:
 
@@ -28,7 +24,6 @@ However, despite lobbying by various parties and governments, such solutions sti
 
 ![Amazon rainforest destruction](https://sorasystem.sirv.com/photos/amazon.jpg)
 
-<br>
 
 ## The Solution
 

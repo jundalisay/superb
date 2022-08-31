@@ -1,15 +1,12 @@
-+++
-title=  "The Raw Produce Which Not Always Affords Rent"
-date=  2020-01-29
-image=  "/covers/wn.jpg"
-description=  "Animal Skin and Timber"
-linkb=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-1a"
-linkbtext=  "Chapter 11 Part 1a"
-linkf=  "/research/smith/wealth-of-nations/book-1/chapter-11/part-2b"
-linkftext=  "Chapter 11 Part 2a"
-heading=  "Chapter 11 Part 2a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Raw Produce Which Not Always Affords Rent"
+heading: "Part 2a of Chapter 11 of Book 1"
+date: 2015-09-27
+image: "/covers/wn.jpg"
+description: "Animal Skin and Timber"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="53" >}} Human food is the only produce of land which always affords some rent to the landlord.
@@ -24,6 +21,7 @@ In the rude state, most raw materials are of so little value that they are throw
 Since there is very little value, no rent is left to the landlord.
 In the improved state, materials for clothing and lodging are all used.
 There is frequently a demand for more, so their price starts to afford rent
+
 
 ## Animal Skin
 
@@ -41,6 +39,7 @@ When highland cattle were consumed, the exportation of their hides made the high
 It added to the rent of the highland estates.
 In the old times, English wool found a market in Belgium and afforded rent.
 Belgium was wealthier and more industrious then.
+
 
 ## Timber
 
@@ -60,20 +59,23 @@ It affords to no rent.
 The demand of wealthier nations sometimes enables a rent for it.
 The paving of London streets gave rent to the owners of rocks on the coast of Scotland where there was no rent before.
 The woods of Norway and the Baltic find a market in Great Britain afforded some rent to their proprietors.
-58 Countries are populous according to how many can be fed, not according to how many can be clothed or lodged.
+
+{{< s v="58" >}} Countries are populous according to how many can be fed, not according to how many can be clothed or lodged.
 
 It is easy to find clothing and lodging when food is provided.
 In some parts of the British dominions, a house may be built by a day's labour of one man.
 Skins of animals require more labour to prepare.
 Among savage nations, 1% of their annual labour will be sufficient to provide them with clothing and lodging for most of their people.
 The 99% provide them with food.
-59 When a family can provide food for two families by the improvement of land, half the labour of society becomes sufficient to provide food for the whole.
+
+{{< s v="59" >}} When a family can provide food for two families by the improvement of land, half the labour of society becomes sufficient to provide food for the whole.
 
 The other half can be employed in satisfying the other wants and fancies of mankind.
 Clothing, lodging, furniture, and equipage are the principal objects of those wants and fancies.
 The rich man consumes no more food than his poor neighbour.
 In quality, the food of the rich may require more labour and art to prepare.
 But in quantity, it is nearly the same.
+
 Compare the spacious palace and great wardrobe of the rich with the hovel and rags of the poor.
 There is a big difference in the quantity and quality of their clothing, lodging, and furniture.
 The desire of food is limited in every man by the narrow capacity of the human stomach.
