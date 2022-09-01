@@ -31,18 +31,15 @@ own consumption, or for any other purpose, than as an object of a second exchang
 uct sold is exchanged for the product bought with the price.
 
 When a bushel of wheat has been sold for dollar, and 7 lbs. of coffee bought with that dollar, the wheat has actu-
-ally been bartered for the coffee, and the money that has
-intervened has withdrawn itself as completely, as if it had
-never appeared at all in the transaction. Wherefore it is
-quite correct to say, that relative value is determined by
-the relation of commodities one to another, and not solely
+ally been bartered for the coffee, and the money that has intervened has withdrawn itself as completely, as if it had
+never appeared at all in the transaction. 
+
+Wherefore it is quite correct to say, that relative value is determined by the relation of commodities one to another, and not solely
 by that of each commodity to money.
-4. It must not be inferred from this passage, that I mean to
-say, that the productive agency exerted in raising a prod-
-uct, whose charges of production have amounted to a dol-
-lar, although it is saleable for 75 cents only, is therefore
-worth but 75 cents. My position merely implies, that this
-amount of productive service has, in such case, raised a
+
+4. It must not be inferred from this passage, that I mean to say, that the productive agency exerted in raising a prod-
+uct, whose charges of production have amounted to a dollar, although it is saleable for 75 cents only, is therefore
+worth but 75 cents. My position merely implies, that this amount of productive service has, in such case, raised a
 value of 75 cents only, though it might have raised a value
 of a dollar.
 
@@ -60,26 +57,17 @@ way of comparing the wealth of one nation with that of
 another, is, by a moral estimate of the individual welfare
 in each respectively.
 
-8. And will be so for the most part, though not entirely, wher-
-ever the members of the community have no other hope of
-subsistence, than from the product of their own produc-
-tive means; for the whole surplus of revenue thus created,
-is sure to go, in the end, to the appropriators of the natural
-sources of production; leaving those, whose productive
-means are merely personal, to employ them upon some
-other object, or upon an enlarged production of the same
-object. And this is a complete answer to the position of
-Sismondi and Malthus, that economy of human produc-
-tive exertion makes the multiplication of unproductive
-consumers, not only probable, but necessary. But where a
-poor-law or monastic establishment provides for the sub-
-sistence of the human agency thus rendered superfluous,
-there will probably be no increase of national revenue con-
-sequent upon a saving of productive agency; for the sur-
-plus labour is thereby released from the necessity of exer-
-tion in some other channel. With such institutions, the en-
-largement of productive power by machinery or otherwise
-may be very great, without any enlargement of national
+8.  Wherever the members of the community have no other hope of subsistence, than from the product of their own produc-
+tive means; for the whole surplus of revenue thus created, is sure to go, in the end, to the appropriators of the natural
+sources of production; leaving those, whose productive means are merely personal, to employ them upon some
+other object, or upon an enlarged production of the same object. And this is a complete answer to the position of
+Sismondi and Malthus, that economy of human productive exertion makes the multiplication of unproductive
+consumers, not only probable, but necessary. 
+
+But where a poor-law or monastic establishment provides for the subsistence of the human agency thus rendered superfluous,
+there will probably be no increase of national revenue consequent upon a saving of productive agency; for the sur-
+plus labour is thereby released from the necessity of exertion in some other channel. With such institutions, the en-
+largement of productive power by machinery or otherwise may be very great, without any enlargement of national
 production, revenue, or wealth. Tr.
 
 9. Vide Wealth of Nations, book i. c. 5.
@@ -223,31 +211,25 @@ to the further extension of productive power, and the state,
 like an individual, is powerful and wealthy in proportion
 to the extent of the productive sources in its possession,
 and to the fertility of those sources. Tr.]
-18. The vast means at the disposal of Napoleon might have
-been successfully directed to this grand object, and then
-he would have left the reputation of having contributed to
-civilize, enrich, and people the world; and not of having
-been its scourge and devastator. When the Barbary shore
-shall be lined with peaceful, industrious, and polished in-
-habitants, the Mediterranean will be an immense lake, fur-
-rowed by the commerce of the wealthy nations, peopling
+
+18. The vast means at the disposal of Napoleon might have been successfully directed to this grand object, and then
+he would have left the reputation of having contributed to civilize, enrich, and people the world; and not of having
+been its scourge and devastator. When the Barbary shore shall be lined with peaceful, industrious, and polished in-
+habitants, the Mediterranean will be an immense lake, furrowed by the commerce of the wealthy nations, peopling
 its shores on every side.
+
 19. Traité Historique, Leblanc= and, Essai sur les Monnaies,
 by Dupre de Saint Maur.
+
 20. Supra, book i. chap. 21. sect. 7.
-21. The increased intensity of the demand for silver com-
-pared with its supply, consequent upon the discovery of
-America, is stated at 2, to 1, because, but for this increase
-of demand, the tenfold supply would have reduced its value
-to one-tenth of what it had been previously to that event,
-and given to 100 oz. the value of 10 oz. only. But 100 oz.
-were only reduced to one-fourth of their former value, i.e.,
-to the value of 25 oz.; which bears to 10 oz. the ratio of 22
-to 1. This could not have been the case, unless the demand
-for silver, compared with the supply, had advanced in that
-202Book II= On Distribution
-proportion. But the supply having increased tenfold in the
-same interval, if we would find the ratio of the actual in-
+
+21. The increased intensity of the demand for silver compared with its supply, consequent upon the discovery of
+America, is stated at 2, to 1, because, but for this increase of demand, the tenfold supply would have reduced its value
+to one-tenth of what it had been previously to that event, and given to 100 oz. the value of 10 oz. only. But 100 oz.
+were only reduced to one-fourth of their former value, i.e., to the value of 25 oz.; which bears to 10 oz. the ratio of 22
+to 1. 
+
+This could not have been the case, unless the demand for silver, compared with the supply, had advanced in that proportion. But the supply having increased tenfold in the same interval, if we would find the ratio of the actual in-
 crease of the demand for silver, whether for the purposes
 of circulation, of luxury, or of manufacture, since the first
 discovery of the American mines, we must multiply 2½
@@ -278,45 +260,30 @@ difficult. Savings are slow and gradual, and are seldom
 turned to profitable account, until after a lapse of many
 years; so that a great deal of money is always lying by in a
 state of inaction.
-25. Ricardo, whom I look upon as the individual in Europe
-the best acquainted with the subject of money, both in
-theory and in practice, has shown, in his Proposal for an
-economical and secure Currency, that, when the good
-government of the state may be safely reckoned upon, paper
-may be substituted for the whole of a metallic money; and
-a material possessed of no intrinsic value by skilful man-
-agement, be made to supplant a dear and cumbrous one,
-whose metallic properties are never called into play by the
+
+25. I think Ricardo is the European best acquainted with the subject of money, both in theory and in practice. He has shown, in his Proposal for an economical and secure Currency, that, when the good government of the state may be safely reckoned upon, paper
+may be substituted for the whole of a metallic money; and a material possessed of no intrinsic value by skilful man-
+agement, be made to supplant a dear and cumbrous one, whose metallic properties are never called into play by the
 functions of money.
-26. Humboldt. Essai Pol. sur la Nouvelle Espagne, 8vo. tom.
-iv. p. 222.
-27. Wealth of Nations, book i. c. 11. The manufacturing con-
-sumption of Birmingham and other towns has greatly in-
-creased since the date of that work. [Mr. Jacobs, in his
-work on the precious metals, to which we have already
-had occasion to refer, has shed much light on the con-
-sumption, as well as on the production, of gold and silver,
-both before and since the discovery of the American con-
-tinent. His twenty-sixth chapter is devoted to an inquiry
-into the consumption of the precious metals from 1810 to
-1830. This chapter abounds with highly instructive and
-curious details, which it would be here impossible to
-present, but which furnish the grounds of the following
-statements, also taken from the same chapter, and which
-fully demonstrate the great increase in the consumption of
-gold and silver, in what our author, in this note, calls “the
-manufacturing consumption,” since the date of Dr. Adam
-Smith’s work on the Wealth of Nations, to which he re-
-fers.
-According, then, to Mr. Jacobs, the annual consump-
-tion of the precious metals, from 1810 to 1830, in their
-application to ornamental and luxurious purposes, he esti-
-mates as follows:
-In Great Britain,
-France
-Switzerland,
-The rest of Europe,
-America
+
+26. Humboldt. Essai Pol. sur la Nouvelle Espagne, 8vo. tom. iv. p. 222.
+
+27. Wealth of Nations, book i. c. 11. The manufacturing consumption of Birmingham and other towns has greatly in-
+creased since the date of that work. [Mr. Jacobs, in his work on the precious metals, to which we have already
+had occasion to refer, has shed much light on the consumption, as well as on the production, of gold and silver,
+both before and since the discovery of the American continent. 
+
+His twenty-sixth chapter is devoted to an inquiry into the consumption of the precious metals from 1810 to
+1830. This chapter abounds with highly instructive and curious details, which it would be here impossible to
+present, but which furnish the grounds of the following statements, also taken from the same chapter, and which
+fully demonstrate the great increase in the consumption of gold and silver, in what our author, in this note, calls “the
+manufacturing consumption,” since the date of Dr. Adam Smith’s work on the Wealth of Nations, to which he refers.
+
+According, then, to Mr. Jacobs, the annual consumption of the precious metals, from 1810 to 1830, in their
+application to ornamental and luxurious purposes, he estimates as follows:
+
+In Great Britain, France Switzerland,
+The rest of Europe, America
 Making the whole amount,
 equal to
 £2,457,221
@@ -327,33 +294,22 @@ equal to
 £5,893,341
 28,288,036 dollars.
 American Editor.]
-28. We are assured by Humboldt, that the produce of the mines
-of Mexico has, in the last 100 years, been increased in the
-ratio of 110 to 25; also, that such is the abundance of sil-
-ver ore, in the chain of the Andes, that, reckoning the num-
-ber of veins either worked superficially, or not worked at
-all, one would be led to imagine, that Europe has hitherto
-had a mere sample of their incalculable stores. Essai Pol.
-sur la N. Espagne, 8vo. tom. iv. p. 149.
-The very slight and gradual depreciation of gold and
-silver, effected by their immense and increasing annual
-supply, is one amongst many proofs of the rapid and gen-
-eral advance of human wealth, whereby the demand is made
-to keep pace with the supply. Yet I am inclined to think,
-that their value, after remaining nearly stationary for a cen-
-tury, has within the last thirty years begun again to de-
-cline. The setier of wheat, Paris measure, which was for a
-long time, on an average, sold for 4 oz. of silver, has now
-risen to 4½ oz., and rents are raised upon every renewal of
-lease. All other things seem to be rising in the like propor-
-tion= which indicates, that silver is undergoing a deprecia-
+
+28. We are assured by Humboldt, that the produce of the mines of Mexico has, in the last 100 years, been increased in the
+ratio of 110 to 25; also, that such is the abundance of silver ore, in the chain of the Andes, that, reckoning the num-
+ber of veins either worked superficially, or not worked at all, one would be led to imagine, that Europe has hitherto
+had a mere sample of their incalculable stores. Essai Pol. sur la N. Espagne, 8vo. tom. iv. p. 149.
+The very slight and gradual depreciation of gold and silver, effected by their immense and increasing annual
+supply, is one amongst many proofs of the rapid and general advance of human wealth, whereby the demand is made
+to keep pace with the supply. Yet I am inclined to think, that their value, after remaining nearly stationary for a cen-
+tury, has within the last thirty years begun again to decline. The setier of wheat, Paris measure, which was for a
+long time, on an average, sold for 4 oz. of silver, has now risen to 4½ oz., and rents are raised upon every renewal of
+lease. All other things seem to be rising in the like proportion= which indicates, that silver is undergoing a deprecia-
 tion of relative value.
-[In a former note we referred to the great decline,
-since the year 1809, in the productiveness of the whole
-mines, both in this and in the eastern continent, on the
-authorities which Mr. Jacobs has given, in his learned work
-on the precious metals. From the same work, we here ex-
-tract his concluding observations of the twenty-sixth chap-
+
+[In a former note we referred to the great decline, since the year 1809, in the productiveness of the whole
+mines, both in this and in the eastern continent, on the authorities which Mr. Jacobs has given, in his learned work
+on the precious metals. From the same work, we here extract his concluding observations of the twenty-sixth chap-
 ter, in relation to the stock of coin now in existence, by
 which it will appear, that during the twenty years from
 1810 to 1830, the diminution of gold and silver coin
@@ -392,24 +348,20 @@ the productive quality of the capitalist to whom it belongs.
 Mere verbal criticism is of little moment, when once the
 meaning is explained; it is the correctness of the idea, and
 not of the expression, that is material.
-34. The term national revenue, has been sometimes incor-
-rectly applied to the financial receipts of the state. Indi-
-viduals, indeed, pay their taxes out of their respective rev-
-enues; but the sum levied by taxation is not revenue, but
-rather a tax upon revenue, and sometimes unhappily upon
-capital too.
-35. Their profit arises from increase of value effected by the
-transport upon both the export and the import, by the time
-they have reached their destination respectively.
-36. I speak here of the adventurers, masters, or tradesmen;
-the mere labourer or journeyman benefits only, as it were,
-by re-action. The farmer, who is an adventurer in agricul-
-ture, employed in raising products for human sustenance,
-lies under disadvantages, that very much curtail his prof-
-its. His concerns are too much at the mercy of his land-
+
+34. The term national revenue, has been sometimes incorrectly applied to the financial receipts of the state. Indi-
+viduals, indeed, pay their taxes out of their respective revenues; but the sum levied by taxation is not revenue, but
+rather a tax upon revenue, and sometimes unhappily upon capital too.
+
+35. Their profit arises from increase of value effected by the transport upon both the export and the import, by the time
+they have reached their destination respectively. 
+
+36. I speak here of the adventurers, masters, or tradesmen; the mere labourer or journeyman benefits only, as it were,
+by re-action. The farmer, who is an adventurer in agriculture, employed in raising products for human sustenance,
+lies under disadvantages, that very much curtail his profits. His concerns are too much at the mercy of his land-
 lord, and of the financial exactions of public authority, to
-say nothing of the vicissitudes of seasons, to be very gain-
-ful on the average.
+say nothing of the vicissitudes of seasons, to be very gainful on the average.
+
 37. The reasoning of this whole chapter is superfluous and
 inconclusive. Where value is left to find its natural level,
 one class of productive agency will, in the long run, be

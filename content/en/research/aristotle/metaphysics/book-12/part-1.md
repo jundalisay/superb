@@ -1,18 +1,12 @@
-+++
-title= "What is Substance?"
-heading= "Book 12 Parts 1 and 2 of The Metaphysics by Aristotle Simplified"
-date= "2015-09-30"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Substance is the principle and cause and first part of the universe, if the universe is a whole"
-linkb= "/research/aristotle/metaphysics/book-12/"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-12/part-3"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 8"
+title: "What is Substance?"
+date: 2015-09-30
+image: "/covers/meta.jpg"
+description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
+icon: "/icons/aris.jpg"
+---
+
 
 
 Substance is the principle and cause and first part of the universe, if the universe is a whole. 

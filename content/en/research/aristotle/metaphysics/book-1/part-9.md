@@ -1,14 +1,9 @@
 ---
-heading: "Part 9 of Metaphysics by Aristotle Simplified"
+heading: "Part 9"
 title: "The Forms are not Real"
-linkTitle: Part 9
-date: 2015-09-22
+date: 2015-09-15
 image: "/covers/meta.jpg"
 description: "Aristotle denounces Plato's Forms"
-linkb: /research/aristotle/metaphysics/book-1/part-8
-linkbtext: "Part 8"
-linkf: /research/aristotle/metaphysics/book-1/part-9b
-linkftext: "Part 9b"
 icon: "/icons/aris.jpg"
 ---
 

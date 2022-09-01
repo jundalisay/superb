@@ -1,16 +1,14 @@
-+++
-title= "Part 5"
-heading= "Part 5 of the Simplified Metaphysics by Aristotle Book 3"
-image= "/covers/meta.jpg"
-description= "Are numbers, bodies, planes, and points substances?"
-linkb= "/research/aristotle/metaphysics/book-3/part-4"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-3/part-6"
-linkftext= "Part 6"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 5 of Book 3"
+title: "Do forms exist?"
+date: 2015-09-15
+image: "/covers/meta.jpg"
+description: "Are numbers, bodies, planes, and points substances?"
+icon: "/icons/aris.jpg"
+---
+
+
+
 
 14. Are numbers, bodies, planes, and points substances? 
 

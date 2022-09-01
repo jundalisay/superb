@@ -1,17 +1,13 @@
-+++
-title= "Numbers are not Ideas"
-date= "2015-09-01"
-heading = "Book 13 Part 7 of The Metaphysics by Aristotle Simplified"
-image= "/covers/meta.jpg"
-description= "Ideas are not numbers. The units are different, if there are to be Ideas. This is because the Form is unique"
-linkb= "/research/aristotle/metaphysics/book-13/part-5"
-linkbtext= "Part 5"
-linkf= "/research/aristotle/metaphysics/book-13/part-8"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 7"
+title: "Numbers are not Ideas"
+date: 2015-09-22
+image: "/covers/meta.jpg"
+description: "Ideas are not numbers. The units are different, if there are to be Ideas. This is because the Form is unique"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Are the units associable or inassociable? 
 

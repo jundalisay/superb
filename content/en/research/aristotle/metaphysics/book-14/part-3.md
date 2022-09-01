@@ -1,16 +1,13 @@
-+++
-title= "The Pythagorean Numbers"
-heading= "Book 13 Part 3 of The Metaphysics by Aristotle Simplified"
-image= "/covers/meta.jpg"
-description= "The Pythagoreans saw many attributes of numbers belonging to sensible bodies. They supposed real things to be numbers themselves."
-linkb= "/research/aristotle/metaphysics/book-14/part-1"
-linkbtext= "Part 2"
-linkf= "/research/aristotle/metaphysics/book-14/part-3"
-linkftext= "Part 5"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 3 of Book 14"
+title: "The Pythagorean Numbers"
+date: 2015-09-15
+image: "/covers/meta.jpg"
+description: "The Pythagoreans saw many attributes of numbers belonging to sensible bodies. They supposed real things to be numbers themselves"
+icon: "/icons/aris.jpg"
+---
+
+
 
 
 Some people believe that the Ideas exist as numbers. They do this by setting out each term apart from its instances. Out of the unity of each general term, they try to explain why number must exist. 

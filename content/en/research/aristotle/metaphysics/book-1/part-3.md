@@ -1,20 +1,16 @@
-+++
-title= "The Early Philosophers"
-heading= "Part 6 of Metaphysics by Aristotle Simplified"
-author= "Aristotle"
-date= "2015-09-28"
-image= "/covers/meta.jpg"
-description= "Aristotle enumerates the principles of the early philosophers"
-linkb= "/research/aristotle/metaphysics/book-1/part-2"
-linkbtext= "Part 2"
-linkf= "/research/aristotle/metaphysics/book-1/part-4"
-linkftext= "Part 4"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Early Philosophers"
+heading: "Part 3"
+date: 2015-09-27
+image: "/covers/meta.jpg"
+description: "Aristotle enumerates the principles of the early philosophers"
+icon: "/icons/aris.jpg"
+author: Aristotle
+---
 
-We have to acquire knowledge of the original causes (for we say we know each thing only when we think we recognize its first cause), and causes are spoken of in four senses. 
+
+
+We have to acquire knowledge of the original causes (for we say we know each thing only when we think we recognize its first cause), and causes are spoken of in 4 senses. 
 
 In one of these we mean the substance, i.e. the essence (for the 'why' is reducible finally to the definition, and the ultimate 'why' is a cause and principle)
 

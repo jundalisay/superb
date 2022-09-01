@@ -1,36 +1,45 @@
 ---
 title: Hermetic Axioms
-description: The Hermetic Teachings where always kept securely locked in the minds of its believers. But they were never intended to be stored away and kept secret.
+description: To destroy an undesirable rate of mental vibration, use the principle of Polarity and concentrate on the opposite pole to that which you desire to suppress.
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-16
-linkb: "/research/hermes/kybalion/chapter-14"
-linkbtext: "Chapter 14"
-linkf: "/research/hermes/kybalion/"
-linkftext: "Index"
 heading: "Chapter 15"
 ---
 
 
 {{< q >}}
-"The possession of Knowledge, unless accompanied by a manifestation and expression in Action, is like the hoarding of precious metals-a vain and foolish thing. Knowledge, like wealth, is intended for Use. The Law of Use is Universal, and he who violates it suffers by reason of his conflict with natural forces."—The Kybalion.
+The possession of Knowledge, unless accompanied by a manifestation and expression in Action, is like the hoarding of precious metals. It is a vain and foolish thing. 
+
+Knowledge, like wealth, is intended for Use. 
+
+The Law of Use is Universal. He who violates it suffers by reason of his conflict with natural forces.
+<cite>The Kybalion</cite>
 {{< /q >}}
 
 
-The Hermetic Teachings where always kept securely locked in the minds of its believers. But they were never intended to be stored away and kept secret.
+The Hermetic Teachings were always kept securely locked in the minds of its believers.
+- But they were never intended to be stored away and kept secret.
 
-The Law of Use is dwelt upon in the Teachings, as you may see by reference to the above quotation from The Kybalion, which states it forcibly. 
+<!--  is dwelt upon in the Teachings, as you may see by reference to  -->
 
-Knowledge without Use and Expression is a vain thing, bringing no good to its possessor, or to the race. Beware of Mental Miserliness, and express into Action that which you have learned. Study the Axioms and Aphorisms, but practice them also.
+The above quotation from The Kybalion states The Law of Use quite forcibly.
+
+Knowledge without Use and Expression <!-- is a vain thing, --> brings no good to its possessor, or to the human race. 
+- Beware of Mental Miserliness, and express into Action that which you have learned. 
+- Study the Axioms and Aphorisms, but practice them also.
 
 Below are some of the more important Hermetic Axioms from The Kybalion:<!-- , with a few comments added to each. Make these your own, and practice and use them, for they are not really your own until you have Used them. -->
 
+
+## To Change One's Mood, Fix on a Better State of Mind
+
 {{< q >}}
-To change your mood or mental state—change your vibration."—The Kybalion.
+To change your mood or mental state, change your vibration.
 {{< /q >}}
 
 
-One may change his mental vibrations by an effort of Will, in the direction of deliberately fixing the Attention upon a more desirable state. 
+One may change his mental vibrations by an effort of Will, by deliberately fixing the Attention on a more desirable state. 
 - Will directs the Attention
 - Attention changes the Vibration
 
@@ -38,17 +47,19 @@ Cultivate the Art of Attention, by means of the Will, and you have solved the se
 
 
 {{< q >}}
-"To destroy an undesirable rate of mental vibration, use the principle of Polarity and concentrate on the opposite pole to that which you desire to suppress. 
+To destroy an undesirable rate of mental vibration, use the principle of Polarity and concentrate on the opposite pole to that which you desire to suppress.
 
-Kill out the undesirable by changing its polarity."—The Kybalion.
+Kill out the undesirable by changing its polarity.
 {{< /q >}}
 
 
 This is one of the most important of the Hermetic Formulas. 
+- It is based upon true scientific principles. 
 
-It is based upon true scientific principles. We have shown you that a mental state and its opposite were merely the two poles of one thing, and that by Mental Transmutation the polarity might be reversed. 
+A mental state and its opposite were merely the 2 poles of one thing.  
+- The polarity might be reversed by Mental Transmutation. 
 
-This Principle is known to modern psychologists, who apply it to the breaking up of undesirable habits by bidding their students concentrate upon the opposite quality. 
+This Principle is known to modern psychologists who apply it to the breaking up of undesirable habits by bidding their students concentrate on the opposite quality. 
 
 If you have Fear, do not waste time trying to "kill out" Fear. Instead cultivate Courage and the Fear will disappear.
 
@@ -73,11 +84,13 @@ Much of the Mental Mastery of the advanced Hermetics is due to this application 
 The mastery of Polarization is the mastery of the fundamental principles of Mental Transmutation or Mental Alchemy, for unless one acquires the art of changing his own polarity, he will be unable to affect his environment. An understanding of this principle will enable one to change his own Polarity, as well as that of others, if he will but devote the time, care, study and practice necessary to master the art. The principle is true, but the results obtained depend upon the persistent patience and practice of the student.
 
 {{< q >}}
-"Rhythm may be neutralized by an application of the Art of Polarization."—The Kybalion.
+Rhythm may be neutralized by an application of the Art of Polarization.
 {{< /q >}}
 
 
-The Principle of Rhythm manifests on the Mental Plane and the Physical Plane. The bewildering succession of moods, feelings, emotions, and other mental states, are due to the backward and forward swing of the mental pendulum, which carries us from one extreme of feeling to the other. The Law of Neutralization enables one to overcome the operation of Rhythm in consciousness. 
+The Principle of Rhythm manifests on the Mental Plane and the Physical Plane. 
+
+The bewildering succession of moods, feelings, emotions, and other mental states, are due to the backward and forward swing of the mental pendulum, which carries us from one extreme of feeling to the other. The Law of Neutralization enables one to overcome the operation of Rhythm in consciousness. 
 
 
 The Master rises mentally to the Higher Plane of Consciousness from the Lower Plane. This makes the swing of the mental pendulum to manifest on the Lower Plane. Since he is on his Higher Plane, he escapes the consciousness of the swing backward. 
@@ -97,7 +110,7 @@ You simply overcome one law by counter-balancing it with another and thus mainta
 The laws of balance and counter-balance are in operation on the mental as well as on the physical planes, and an understanding of these laws enables one to seem to overthrow laws, whereas he is merely exerting a counterbalance.
 
 {{< q >}}
-"Nothing escapes the Principle of Cause and Effect, but there are many Planes of Causation, and one may use the laws of the higher to overcome the laws of the lower."—The Kybalion.
+Nothing escapes the Principle of Cause and Effect, but there are many Planes of Causation, and one may use the laws of the higher to overcome the laws of the lower.
 {{< /q >}}
 
 

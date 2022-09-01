@@ -1,16 +1,13 @@
-+++
-title= "What are the attributes of being?"
-heading= "Part 3 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-28"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Philosophy treats of being qua being universally and not in respect of a part of it, and 'being' has many senses and is not used in one only"
-linkb= "/research/aristotle/metaphysics/book-11/part-2"
-linkbtext= "Part 2"
-linkf= "/research/aristotle/metaphysics/book-11/part-4"
-linkftext= "Part 4"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Part 3"
+title: "What are the attributes of being?"
+date: 2015-09-26
+image: "/covers/meta.jpg"
+description: "Philosophy treats of being qua being universally and not in respect of a part of it, and 'being' has many senses and is not used in one only"
+icon: "/icons/aris.jpg"
+---
+
+
 
 
 Philosophy treats of being qua being universally and not in respect of a part of it, and 'being' has many senses and is not used in one only, it follows that if the word is used equivocally and in virtue of nothing common to its various uses, being does not fall under one science (for the meanings of an equivocal term do not form one genus); but if the word is used in virtue of something common, being will fall under one science. 

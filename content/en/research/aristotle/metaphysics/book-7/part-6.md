@@ -1,21 +1,19 @@
-+++
-title= "Part 6"
-heading= "Part 6 of Book 7"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "What kind of a thing is substance?"
-linkb= "/research/aristotle/metaphysics/book-7/part-4"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-7/part-7"
-linkftext= "Part 7"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Is Essence the Same?"
+heading: "Part 6 of Book 7"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "Is each thing and its essence are the same or different?"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Is each thing and its essence are the same or different? 
 
-This is of some use for the inquiry concerning substance; for each thing is thought to be not different from its substance, and the essence is said to be the substance of each thing.
+This is a bit useful for the inquiry on substance because:
+- each thing is thought to be not different from its substance
+- the essence is said to be the substance of each thing.
 
 In the case of accidental unities the two would be generally thought to be different, e.g. white man would be thought to be different from the essence of white man. For if they are the same, the essence of man and that of white man are also the same; for a man and a white man are the same thing, as people say, so that the essence of white man and that of man would be also the same. 
 
@@ -34,7 +32,9 @@ If the posterior substances and the prior are severed from each other
 
 (By 'severed' I mean, if the good-itself has not the essence of good, and the latter has not the property of being good.) For (a) there is knowledge of each thing only when we know its essence. 
 
-And (b) the case is the same for other things as for the good; so that if the essence of good is not good, neither is the essence of reality real, nor the essence of unity one. And all essences alike exist or none of them does; so that if the essence of reality is not real, neither is any of the others. Again, that to which the essence of good does not belong is not good.-The good, then, must be one with the essence of good, and the beautiful with the essence of beauty, and so with all things which do not depend on something else but are self-subsistent and primary. For it is enough if they are this, even if they are not Forms; or rather, perhaps, even if they are Forms. (At the same time it is clear that if there are Ideas such as some people say there are, it will not be substratum that is substance; for these must be substances, but not predicable of a substratum; for if they were they would exist only by being participated in.)
+- b. the case is the same for other things as for the good; so that if the essence of good is not good, neither is the essence of reality real, nor the essence of unity one. And all essences alike exist or none of them does; so that if the essence of reality is not real, neither is any of the others. Again, that to which the essence of good does not belong is not good.
+
+The good, then, must be one with the essence of good, and the beautiful with the essence of beauty, and so with all things which do not depend on something else but are self-subsistent and primary. For it is enough if they are this, even if they are not Forms; or rather, perhaps, even if they are Forms. (At the same time it is clear that if there are Ideas such as some people say there are, it will not be substratum that is substance; for these must be substances, but not predicable of a substratum; for if they were they would exist only by being participated in.)
 
 "Each thing itself, then, and its essence are one and the same in no merely accidental way, as is evident both from the preceding arguments and because to know each thing, at least, is just to know its essence, so that even by the exhibition of instances it becomes clear that both must be one.
 

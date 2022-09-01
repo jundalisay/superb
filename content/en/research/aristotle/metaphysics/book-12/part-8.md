@@ -1,17 +1,13 @@
-+++
-title= "The Spheres of Eudoxus and Callippus"
-heading= "Book 12 Part 8 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-26"
-image= "/covers/meta.jpg"
-description= "Eudoxus supposed that the motion of the sun or the moon involves 3 spheres."
-linkb= "/research/aristotle/metaphysics/book-12/part-7"
-linkbtext= "Part 7"
-linkf= "/research/aristotle/metaphysics/book-12/part-9"
-linkftext= "Part 9"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 7"
+title: "The Spheres of Eudoxus and Callippus"
+date: 2015-09-18
+image: "/covers/meta.jpg"
+description: "Eudoxus supposed that the motion of the sun or the moon involves 3 spheres"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Is this Substance just one? Or is there more than one of It? 
 

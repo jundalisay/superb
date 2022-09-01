@@ -1,17 +1,13 @@
-+++
-title= "The Theory of Ideas and Forms"
-heading= "Book 13 Part 4 of The Metaphysics by Aristotle Simplified"
-date= "2015-09-28"
-image= "/covers/meta.jpg"
-description= "I am not convinced of the existence of Forms. From some, no inference necessarily follows. From some, arise Forms even of things of which they think there are no Forms"
-linkb= "/research/aristotle/metaphysics/book-13/part-3"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/book-13/part-5"
-linkftext= "Part 5"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 4"
+title: "The Theory of Ideas and Forms"
+date: 2015-09-26
+image: "/covers/meta.jpg"
+description: "I am not convinced of the existence of Forms. From some, no inference necessarily follows. From some, arise Forms even of things of which they think there are no Forms"
+icon: "/icons/aris.jpg"
+---
+
+
 
 <!-- So much then for the objects of mathematics; we have said that they exist and in what sense they exist, and in what sense they are prior and in what sense not prior.  -->
 

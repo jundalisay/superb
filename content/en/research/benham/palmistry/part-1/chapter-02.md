@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 2 Part 1 of The Laws of Scientific Palm Reading Simplified"
+heading: "Chapter 2 Part 1 "
 title: "The Human Engine and the Life Current"
 description: "THE human body is the earthly tenement of the mind or soul. In its construction and operation is very like a mechanical engine"
-date: 2020-01-21
+date: 2020-01-28
 image: "/photos/objects/hand.jpg"
-linkb: "/research/benham/palmistry/part-1/chapter-01"
-linkbtext: "Chapter 9"
-linkf: "/research/benham/palmistry/part-1/chapter-19-jupiter"
-linkftext: "Chapter 10b"
 ---
 
 

@@ -27,7 +27,8 @@ Hence Antisthenes was too simple-minded when he claimed that nothing could be de
 For it assumes that he is false who can deceive (i.e. the man who knows and is wise); and further that he who is willingly bad is better. This is a false result of induction-for a man who limps willingly is better than one who does so unwillingly-by 'limping' Plato means 'mimicking a limp', for if the man were lame willingly, he would presumably be worse in this case as in the corresponding case of moral character.
 
 
-## Part 30
+
+## Part 30: Accident
 
 "'Accident' means 
 

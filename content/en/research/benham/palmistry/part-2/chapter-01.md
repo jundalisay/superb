@@ -1,13 +1,10 @@
 ---
-heading: "Chapter 1 Part 2 of The Laws of Scientific Palm Reading Simplified"
+heading: "Chapter 1 Part 2 "
 title: "The Life Map"
 description: "The soul contains in itself the event that shall presently befall it. The event is only the actualizing of its thought"
-date: 2020-01-18
+date: 2020-01-31
+# date: 2020-01-18
 image: "/photos/objects/hand.jpg"
-linkb: "/research/benham/palmistry/part-2"
-linkbtext: "Chapter 23"
-linkf: "/research/benham/palmistry/part-2/chapter-02"
-linkftext: "Chapter 25"
 ---
 
 

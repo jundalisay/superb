@@ -1,13 +1,9 @@
 ---
-heading: "Part 2 of Book 3 of Metaphysics by Aristotle Simplified"
+heading: "Part 2 of Book 3 "
 title: "The Questions of Metaphysics"
 date: 2020-09-01
 image: "/covers/meta.jpg"
 description: "Does the investigation of the causes belongs to one or to more sciences?"
-linkb: /research/aristotle/metaphysics/book-2/part-2
-linkbtext: "Part 2"
-linkf: /research/aristotle/metaphysics/book-3/part-2
-linkftext: "Part 2"
 icon: "/icons/aris.jpg"
 ---
 

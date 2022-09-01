@@ -1,16 +1,13 @@
-+++
-title= "Principles of Science"
-heading= "Part 7"
-date= "2015-09-25"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Every science seeks certain principles and causes for each of its objects-e.g. medicine and gymnastics and each of the other sciences, whether productive or mathematical"
-linkb= "/research/aristotle/metaphysics/book-11/part-6"
-linkbtext= "Part 6"
-linkf= "/research/aristotle/metaphysics/book-11/part-8"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Part 7"
+title: "Principles of Science"
+date: 2015-09-20
+image: "/covers/meta.jpg"
+description: "Every science seeks certain principles and causes for each of its objects-e.g. medicine and gymnastics and each of the other sciences, whether productive or mathematical"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Every science seeks certain principles and causes for each of its objects-e.g. medicine and gymnastics and each of the other sciences, whether productive or mathematical. 
 

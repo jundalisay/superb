@@ -1,17 +1,12 @@
-+++
-title= "The One Science"
-heading= "Part 1 and 2 of Book 4 of the Metaphysics by Aristotle Simplified"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "To investigate the essence of these is the work of a science which is generically one"
-linkb= "/research/aristotle/metaphysics/book-3/part-6"
-linkbtext= "Part 6"
-linkf= "/research/aristotle/metaphysics/book-4/part-3"
-linkftext= "Part 2"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 1 of Book 4"
+title: "The One Science"
+date: 2020-09-30
+image: "/covers/meta.jpg"
+description: "To investigate the essence of these is the work of a science which is generically one"
+icon: "/icons/aris.jpg"
+---
+
 
 The one Science investigates:
 - being as being and
@@ -115,9 +110,20 @@ For sophistic and dialectic turn on the same class of things as philosophy, but 
 
 In the list of contraries, one of the two columns is privative. All contraries are reducible to being and non-being, and to unity and plurality, as for instance rest belongs to unity and movement to plurality. 
 
-And nearly all thinkers agree that being and substance are composed of contraries; at least all name contraries as their first principles-some name odd and even, some hot and cold, some limit and the unlimited, some love and strife. And all the others as well are evidently reducible to unity and plurality (this reduction we must take for granted), and the principles stated by other thinkers fall entirely under these as their genera. It is obvious then from these considerations too that it belongs to one science to examine being qua being. For all things are either contraries or composed of contraries, and unity and plurality are the starting-points of all contraries. And these belong to one science, whether they have or have not one single meaning. 
+And nearly all thinkers agree that being and substance are composed of contraries; at least all name contraries as their first principles-some name odd and even, some hot and cold, some limit and the unlimited, some love and strife. And all the others as well are evidently reducible to unity and plurality (this reduction we must take for granted), and the principles stated by other thinkers fall entirely under these as their genera. 
 
-Probably the truth is that they have not; yet even if 'one' has several meanings, the other meanings will be related to the primary meaning (and similarly in the case of the contraries), even if being or unity is not a universal and the same in every instance or is not separable from the particular instances (as in fact it probably is not; the unity is in some cases that of common reference, in some cases that of serial succession). 
+One science can examine being qua being. 
+
+This is because:
+- all things are either contraries or composed of contraries
+- unity and plurality are the starting-points of all contraries. 
+
+These belong to one science, whether they have one single meaning or not. 
+- Probably they have not
+
+Yet even if 'one' has several meanings. 
+
+The other meanings will be related to the primary meaning (and similarly in the case of the contraries), even if being or unity is not a universal and the same in every instance or is not separable from the particular instances (as in fact it probably is not; the unity is in some cases that of common reference, in some cases that of serial succession). 
 
 This is why it does not belong to the geometer to inquire what is contrariety or completeness or unity or being or the same or the other, but only to presuppose these concepts and reason from this starting-point.--Obviously then it is the work of one science to examine being qua being, and the attributes which belong to it qua being, and the same science will examine not only substances but also their attributes, both those above named and the concepts 'prior' and 'posterior', 'genus' and 'species', 'whole' and 'part', and the others of this sort.
 

@@ -1,13 +1,9 @@
 ---
-heading: "Part 1 of Book 10 Metaphysics by Aristotle Simplified"
+heading: "Part 1"
 title: "Aristotle explains One"
 date: 2015-09-30
 image: "/covers/meta.jpg"
 description: "Aristotle gives maximum importance to the sight over the other senses"
-linkb: /research/aristotle/metaphysics/book-9/part-10
-linkbtext: "Part 10"
-linkf: /research/aristotle/metaphysics/book-9/part-2
-linkftext: "Part 2"
 icon: "/icons/aris.jpg"
 ---
 

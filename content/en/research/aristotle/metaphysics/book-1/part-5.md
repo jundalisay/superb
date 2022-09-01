@@ -1,18 +1,14 @@
-+++
-title= "The Pythagoreans"
-heading= "Part 5 of Metaphysics by Aristotle Simplified"
-author= "Aristotle"
-date= "2015-09-26"
-image= "/covers/meta.jpg"
-description= "Aristotle explains the principles of the Pythagoreans"
-linkb= "/research/aristotle/metaphysics/book-1/part-4"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-1/part-6"
-linkftext= "Part 6"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Pythagoreans"
+heading: "Part 5"
+date: 2015-09-23
+image: "/covers/meta.jpg"
+description: "Aristotle explains the principles of the Pythagoreans"
+icon: "/icons/aris.jpg"
+author: Aristotle
+---
+
+
 
 Contemporaneously and before these philosophers were the Pythagoreans. 
 
@@ -20,7 +16,7 @@ They were the first to take up mathematics. They advanced it and made it the pri
 
 In these principles, numbers are by nature the first. 
 
-In numbers they seemed to see many resemblances to the things that exist and come into being-more than in fire and earth and water (such and such a modification of numbers being justice, another being soul and reason, another being opportunity-and similarly almost all other things being numerically expressible); 
+In numbers they seemed to see many resemblances to the things that exist and come into being-more than in fire and earth and water (such and such a modification of numbers being justice, another being soul and reason, another being opportunity-and similarly almost all other things being numerically expressible).
 
 Since, again, they saw that the modifications and the ratios of the musical scales were expressible in numbers;-since, then, all other things seemed in their whole nature to be modelled on numbers, and numbers seemed to be the first things in the whole of nature, they supposed the elements of numbers to be the elements of all things, and the whole heaven to be a musical scale and a number. 
 

@@ -1,15 +1,13 @@
-+++
-title= "Defining Prior and Posterior"
-heading= "Part 11 of Book 5"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Aristotle defines prior and posterior"
-linkb= "/research/aristotle/metaphysics/book-5/part-08"
-linkbtext= "Part 8"
-linkf= "/research/aristotle/metaphysics/book-5/part-12"
-linkftext= "Part 12"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Parts 11 of Book 5"
+title: "Defining Prior and Posterior"
+date: 2020-09-28
+image: "/covers/meta.jpg"
+description: "Aristotle defines prior and posterior"
+icon: "/icons/aris.jpg"
+---
+
+
 
 'Prior' and 'posterior' are applied:
 
@@ -25,9 +23,13 @@ e.g. in the chorus the second man is prior to the third, and in the lyre the sec
 
 "These, then, are called prior in this sense, but
 
-2. in another sense that which is prior for knowledge is treated as also absolutely prior; of these, the things that are prior in definition do not coincide with those that are prior in relation to perception. For in definition universals are prior, in relation to perception individuals. And in definition also the accident is prior to the whole, e.g. 'musical' to 'musical man', for the definition cannot exist as a whole without the part; yet musicalness cannot exist unless there is some one who is musical.
+2. in another sense that which is prior for knowledge is treated as also absolutely prior; of these, the things that are prior in definition do not coincide with those that are prior in relation to perception. 
+
+For in definition universals are prior, in relation to perception individuals. And in definition also the accident is prior to the whole, e.g. 'musical' to 'musical man', for the definition cannot exist as a whole without the part; yet musicalness cannot exist unless there is some one who is musical.
 
 3. The attributes of prior things are called prior, e.g. straightness is prior to smoothness; for one is an attribute of a line as such, and the other of a surface.
 
-"Some things then are called prior and posterior in this sense, others (4) in respect of nature and substance, i.e. those which can be without other things, while the others cannot be without them,-a distinction which Plato used. (If we consider the various senses of 'being', firstly the subject is prior, so that substance is prior; secondly, according as potency or complete reality is taken into account, different things are prior, for some things are prior in respect of potency, others in respect of complete reality, e.g. in potency the half line is prior to the whole line, and the part to the whole, and the matter to the concrete substance, but in complete reality these are posterior; for it is only when the whole has been dissolved that they will exist in complete reality.) In a sense, therefore, all things that are called prior and posterior are so called with reference to this fourth sense; for some things can exist without others in respect of generation, e.g. the whole without the parts, and others in respect of dissolution, e.g. the part without the whole. And the same is true in all other cases.
+Some things then are called prior and posterior in this sense, others (4) in respect of nature and substance, i.e. those which can be without other things, while the others cannot be without them,-a distinction which Plato used. (If we consider the various senses of 'being', firstly the subject is prior, so that substance is prior; secondly, according as potency or complete reality is taken into account, different things are prior, for some things are prior in respect of potency, others in respect of complete reality, e.g. in potency the half line is prior to the whole line, and the part to the whole, and the matter to the concrete substance, but in complete reality these are posterior; for it is only when the whole has been dissolved that they will exist in complete reality.) 
+
+In a sense, therefore, all things that are called prior and posterior are so called with reference to this fourth sense; for some things can exist without others in respect of generation, e.g. the whole without the parts, and others in respect of dissolution, e.g. the part without the whole. And the same is true in all other cases.
 

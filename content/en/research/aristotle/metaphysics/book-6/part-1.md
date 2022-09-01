@@ -1,17 +1,12 @@
-+++
-title= "The Causes of Being"
-heading= "Part 1 of Book 6"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "What are the principles and causes of the things that are of being?"
-linkb= "/research/aristotle/metaphysics/book-5/part-29"
-linkbtext= "Part 29"
-linkf= "/research/aristotle/metaphysics/book-6/part-2"
-linkftext= "Part 2"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Causes of Being"
+heading: "Part 1 of Book 6"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "Aristotle defines The Causes of Being"
+icon: "/icons/aris.jpg"
+---
+
 
 What are the principles and causes of the things that are of being? 
 

@@ -1,16 +1,13 @@
-+++
-title= "Should science focus on the elemental or the universal?"
-heading= "Part 1 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-30"
-author= "Aristotle"
-banner= "/covers/meta.jpg"
-description= "Aristotle asks whether science should focus on the elemental or the universal"
-linkb= "/research/aristotle/metaphysics/book-11"
-linkbtext= "Index"
-linkf= "/research/aristotle/metaphysics/book-11/part-2"
-linkftext= "Part 2"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Part 1"
+title: "Should science focus on the elemental or the universal?"
+date: 2015-09-30
+image: "/covers/meta.jpg"
+description: "Aristotle asks whether science should focus on the elemental or the universal"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Wisdom is a science of first principles is evident from the introductory chapters, in which we have raised objections to the statements of others about the first principles; but one might ask the question whether Wisdom is to be conceived as one science or as several. 
 

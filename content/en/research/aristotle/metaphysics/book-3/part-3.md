@@ -1,17 +1,12 @@
-+++
-title= "Part 3"
-heading= "Part 3 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
-linkb= "/research/aristotle/metaphysics/book-3/part-2"
-linkbtext= "Part 2"
-linkf= "/research/aristotle/metaphysics/book-3/part-4"
-linkftext= "Part 4"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 3 of Book 3"
+title: "Question 6: Is the Genera the basis of principles?"
+date: 2015-09-10
+image: "/covers/meta.jpg"
+description: "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
+icon: "/icons/aris.jpg"
+---
+
 
 
 > 6. Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?
@@ -39,5 +34,7 @@ Besides this, the differentiae are principles even more than the genera; and if 
 
 If the genera of these things do not exist apart from the species, the genera of other things will scarcely do so; for genera of these things are thought to exist if any do). But among the individuals one is not prior and another posterior. 
 
-Further, where one thing is better and another worse, the better is always prior; so that of these also no genus can exist. From these considerations, then, the species predicated of individuals seem to be principles rather than the genera. But again, it is not easy to say in what sense these are to be taken as principles. For the principle or cause must exist alongside of the things of which it is the principle, and must be capable of existing in separation from them; but for what reason should we suppose any such thing to exist alongside of the individual, except that it is predicated universally and of all? But if this is the reason, the things that are more universal must be supposed to be more of the nature of principles; so that the highest genera would be the principles.
+Further, where one thing is better and another worse, the better is always prior; so that of these also no genus can exist. From these considerations, then, the species predicated of individuals seem to be principles rather than the genera. But again, it is not easy to say in what sense these are to be taken as principles.
+
+For the principle or cause must exist alongside of the things of which it is the principle, and must be capable of existing in separation from them; but for what reason should we suppose any such thing to exist alongside of the individual, except that it is predicated universally and of all? But if this is the reason, the things that are more universal must be supposed to be more of the nature of principles; so that the highest genera would be the principles.
 

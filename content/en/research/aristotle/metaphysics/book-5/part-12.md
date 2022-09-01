@@ -1,3 +1,4 @@
+
 +++
 title= "Defining Potency"
 heading= "Part 12 of Book 5"

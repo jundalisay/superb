@@ -1,28 +1,26 @@
-+++
-title= "Protogoras"
-heading= "Part 5 of the Simplified Metaphysics by Aristotle Book 4"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "the doctrine of Protagoras"
-linkb= "/research/aristotle/metaphysics/book-4/part-4"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-4/part-6"
-linkftext= "Part 6"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 4 of Book 4"
+title: "The doctrine of Protagoras"
+date: 2020-09-27
+image: "/covers/meta.jpg"
+description: "Those who really feel the difficulties have been led to this opinion by observation of the sensible world."
+icon: "/icons/aris.jpg"
+---
 
 
 From the same opinion proceeds the doctrine of Protagoras. 
 
 Both doctrines must be alike true or alike untrue. If all opinions and appearances are true, all statements must be at the same time true and false. 
 
-For many men hold beliefs in which they conflict with one another, and think those mistaken who have not the same opinions as themselves; so that the same thing must both be and not be. And on the other hand, if this is so, all opinions must be true; for those who are mistaken and those who are right are opposed to one another in their opinions; if, then, reality is such as the view in question supposes, all will be right in their beliefs.
+Many men hold beliefs in which they conflict with one another. 
+
+They think those mistaken who have not the same opinions as themselves; so that the same thing must both be and not be. And on the other hand, if this is so, all opinions must be true; for those who are mistaken and those who are right are opposed to one another in their opinions; if, then, reality is such as the view in question supposes, all will be right in their beliefs.
 
 Both doctrines proceed from the same way of thinking. But the same method of discussion must not be used with all opponents; for some need persuasion, and others compulsion. Those who have been driven to this position by difficulties in their thinking can easily be cured of their ignorance; for it is not their expressed argument but their thought that one has to meet. But those who argue for the sake of argument can be cured only by refuting the argument as expressed in speech and in words.
 
-"Those who really feel the difficulties have been led to this opinion by observation of the sensible world. (1) They think that contradictories or contraries are true at the same time, because they see contraries coming into existence out of the same thing. If, then, that which is not cannot come to be, the thing must have existed before as both contraries alike, as Anaxagoras says all is mixed in all, and Democritus too; for he says the void and the full exist alike in every part, and yet one of these is being, and the other non-being. To those, then, whose belief rests on these grounds, we shall say that in a sense they speak rightly and in a sense they err. For 'that which is' has two meanings, so that in some sense a thing can come to be out of that which is not, while in some sense it cannot, and the same thing can at the same time be in being and not in being-but not in the same respect. For the same thing can be potentially at the same time two contraries, but it cannot actually. And again we shall ask them to believe that among existing things there is also another kind of substance to which neither movement nor destruction nor generation at all belongs.
+Those who really feel the difficulties have been led to this opinion by observation of the sensible world.
+
+ (1) They think that contradictories or contraries are true at the same time, because they see contraries coming into existence out of the same thing. If, then, that which is not cannot come to be, the thing must have existed before as both contraries alike, as Anaxagoras says all is mixed in all, and Democritus too; for he says the void and the full exist alike in every part, and yet one of these is being, and the other non-being. To those, then, whose belief rests on these grounds, we shall say that in a sense they speak rightly and in a sense they err. For 'that which is' has two meanings, so that in some sense a thing can come to be out of that which is not, while in some sense it cannot, and the same thing can at the same time be in being and not in being-but not in the same respect. For the same thing can be potentially at the same time two contraries, but it cannot actually. And again we shall ask them to believe that among existing things there is also another kind of substance to which neither movement nor destruction nor generation at all belongs.
 
 "And (2) similarly some have inferred from observation of the sensible world the truth of appearances. For they think that the truth should not be determined by the large or small number of those who hold a belief, and that the same thing is thought sweet by some when they taste it, and bitter by others, so that if all were ill or all were mad, and only two or three were well or sane, these would be thought ill and mad, and not the others.
 

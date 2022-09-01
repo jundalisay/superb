@@ -1,16 +1,13 @@
-+++
-title= "Being and Not Being"
-heading= "Part 6 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-26"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Protagoras said that man is the measure of all things. It means that that which seems to each man also assuredly is."
-linkb= "/research/aristotle/metaphysics/book-11/part-4"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-11/part-7"
-linkftext= "Part 7"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Part 6"
+title: "Being and Not Being"
+date: 2015-09-22
+image: "/covers/meta.jpg"
+description: "Protagoras said that man is the measure of all things. It means that that which seems to each man also assuredly is."
+icon: "/icons/aris.jpg"
+---
+
+
 
 Protagoras said that man is the measure of all things. It means:
 - that which seems to each man is also is.

@@ -1,25 +1,35 @@
-+++
-title= "The propositions of mathematics"
-heading= "Book 13 Part 3 of The Metaphysics by Aristotle Simplified"
-date= "2015-09-29"
-image= "/covers/meta.jpg"
-description= "The universal propositions of mathematics do not deal with objects which exist separately, apart from extended magnitudes and from numbers"
-linkb= "/research/aristotle/metaphysics/book-13/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-13/part-4"
-linkftext= "Part 4"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 3 of Book 13"
+title: "The propositions of mathematics"
+date: 2015-09-28
+image: "/covers/meta.jpg"
+description: "The universal propositions of mathematics do not deal with objects which exist separately, apart from extended magnitudes and from numbers"
+icon: "/icons/aris.jpg"
+---
+
+
 
 The universal propositions of mathematics do not deal with objects which exist separately, apart from extended magnitudes and from numbers. 
 
 but with magnitudes and numbers, not however qua such as to have magnitude or to be divisible, clearly it is possible that there should also be both propositions and demonstrations about sensible magnitudes, not however qua sensible but qua possessed of certain definite qualities. 
 
-For as there are many propositions about things merely considered as in motion, apart from what each such thing is and from their accidents, and as it is not therefore necessary that there should be either a mobile separate from sensibles, or a distinct mobile entity in the sensibles, so too in the case of mobiles there will be propositions and sciences, which treat them however not qua mobile but only qua bodies, or again only qua planes, or only qua lines, or qua divisibles, or qua indivisibles having position, or only qua indivisibles. Thus since it is true to say without qualification that not only things which are separable but also things which are inseparable exist (for instance, that mobiles exist), it is true also to say without qualification that the objects of mathematics exist, and with the character ascribed to them by mathematicians. 
+For as there are many propositions about things merely considered as in motion, apart from what each such thing is and from their accidents, 
 
-And as it is true to say of the other sciences too, without qualification, that they deal with such and such a subject-not with what is accidental to it (e.g. not with the pale, if the healthy thing is pale, and the science has the healthy as its subject), but with that which is the subject of each science-with the healthy if it treats its object qua healthy, with man if qua man:-so too is it with geometry; if its subjects happen to be sensible, though it does not treat them qua sensible, the mathematical sciences will not for that reason be sciences of sensibles-nor, on the other hand, of other things separate from sensibles. Many properties attach to things in virtue of their own nature as possessed of each such character; e.g. there are attributes peculiar to the animal qua female or qua male (yet there is no 'female' nor 'male' separate from animals); so that there are also attributes which belong to things merely as lengths or as planes. And in proportion as we are dealing with things which are prior in definition and simpler, our knowledge has more accuracy, i.e. simplicity. Therefore a science which abstracts from spatial magnitude is more precise than one which takes it into account; and a science is most precise if it abstracts from movement, but if it takes account of movement, it is most precise if it deals with the primary movement, for this is the simplest; and of this again uniform movement is the simplest form.
+It is not necessary that there should be either a mobile separate from sensibles, or a distinct mobile entity in the sensibles
+
+so too in the case of mobiles there will be propositions and sciences, which treat them however not qua mobile but only qua bodies, or again only qua planes, or only qua lines, or qua divisibles, or qua indivisibles having position, or only qua indivisibles. 
+
+<!-- Thus, since it is true to say without qualification that not only things which are  -->
+
+Both separable and inseparable things exist.  
+
+For instance, mobiles exist. 
+
+It follows that the objects of mathematics exist, and with the character ascribed to them by mathematicians. 
+
+The other sciences too deal with such and such a subject that are not accidental to it, <!-- (e.g. not with the pale, if the healthy thing is pale, and the science has the healthy as its subject), --> but with that which is the subject of each science-with the healthy if it treats its object qua healthy, with man if qua man:-so too is it with geometry; 
+
+if its subjects happen to be sensible, though it does not treat them qua sensible, the mathematical sciences will not for that reason be sciences of sensibles-nor, on the other hand, of other things separate from sensibles. Many properties attach to things in virtue of their own nature as possessed of each such character; e.g. there are attributes peculiar to the animal qua female or qua male (yet there is no 'female' nor 'male' separate from animals); so that there are also attributes which belong to things merely as lengths or as planes. And in proportion as we are dealing with things which are prior in definition and simpler, our knowledge has more accuracy, i.e. simplicity. Therefore a science which abstracts from spatial magnitude is more precise than one which takes it into account; and a science is most precise if it abstracts from movement, but if it takes account of movement, it is most precise if it deals with the primary movement, for this is the simplest; and of this again uniform movement is the simplest form.
 
 "The same account may be given of harmonics and optics; for neither considers its objects qua sight or qua voice, but qua lines and numbers; but the latter are attributes proper to the former. And mechanics too proceeds in the same way. Therefore if we suppose attributes separated from their fellow attributes and make any inquiry concerning them as such, we shall not for this reason be in error, any more than when one draws a line on the ground and calls it a foot long when it is not; for the error is not included in the premisses.
 

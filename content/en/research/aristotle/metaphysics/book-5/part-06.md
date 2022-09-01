@@ -1,15 +1,13 @@
-+++
-title= "Defining One and Many"
-heading= "Part 6 of Book 5"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Aristotle defines one and many"
-linkb= "/research/aristotle/metaphysics/book-5/part-05"
-linkbtext= "Part 5"
-linkf= "/research/aristotle/metaphysics/book-5/part-07"
-linkftext= "Part 7"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Parts 6 of Book 5"
+title: "Defining One and Many"
+date: 2020-09-28
+image: "/covers/meta.jpg"
+description: "Aristotle defines one and many"
+icon: "/icons/aris.jpg"
+---
+
+
 
 "'One' means 
 
@@ -19,11 +17,36 @@ icon= "/icons/aris.jpg"
 
 1.  Accidental ones are 'Coriscus and what is musical', and 'musical Coriscus' 
 
-(for it is the same thing to say 'Coriscus and what is musical', and 'musical Coriscus'), and 'what is musical and what is just', and 'musical Coriscus and just Coriscus'. For all of these are called one by virtue of an accident, 'what is just and what is musical' because they are accidents of one substance, 'what is musical and Coriscus' because the one is an accident of the other; and similarly in a sense 'musical Coriscus' is one with 'Coriscus' because one of the parts of the phrase is an accident of the other, i.e. 'musical' is an accident of Coriscus; and 'musical Coriscus' is one with 'just Coriscus' because one part of each is an accident of one and the same subject. The case is similar if the accident is predicated of a genus or of any universal name, e.g. if one says that man is the same as 'musical man'; for this is either because 'musical' is an accident of man, which is one substance, or because both are accidents of some individual, e.g. Coriscus. Both, however, do not belong to him in the same way, but one presumably as genus and included in his substance, the other as a state or affection of the substance.
+'Coriscus and what is musical' is the same as 'musical Coriscus'. 
+- This is because:
+  - the one is an accident of the other
+  - one of the parts of the phrase is an accident of the other, i.e. 'musical' is an accident of Coriscus; and 'musical Coriscus' is one with 'just Coriscus' because one part of each is an accident of one and the same subject.
+
+'What is musical' is the same as 'what is just'
+- This is because both are accidents of one substance
+
+'Musical Coriscus' is the same as 'just Coriscus'. 
+
+All of these are called one, by virtue of an accident.
+
+<!--  'what is just and what is musical' because
+
+ , 'what is musical and Coriscus'  -->
+
+
+Similarly in a sense 'musical Coriscus' is one with 'Coriscus'  
+
+The case is similar if the accident is predicated of a genus or of any universal name, e.g. if one says that man is the same as 'musical man'; for this is either because 'musical' is an accident of man, which is one substance, or because both are accidents of some individual, e.g. Coriscus. Both, however, do not belong to him in the same way, but one presumably as genus and included in his substance, the other as a state or affection of the substance.
 
 The things that are called 'one in virtue of an accident', are called so in this way. 
 
-2. Of things that are called one in virtue of their own nature some (a) are so called because they are continuous, e.g. a bundle is made one by a band, and pieces of wood are made one by glue; and a line, even if it is bent, is called one if it is continuous, as each part of the body is, e.g. the leg or the arm. Of these themselves, the continuous by nature are more one than the continuous by art. A thing is called continuous which has by its own nature one movement and cannot have any other; and the movement is one when it is indivisible, and it is indivisible in respect of time. Those things are continuous by their own nature which are one not merely by contact; for if you put pieces of wood touching one another, you will not say these are one piece of wood or one body or one continuum of any other sort. Things, then, that are continuous in any way called one, even if they admit of being bent, and still more those which cannot be bent; e.g. the shin or the thigh is more one than the leg, because the movement of the leg need not be one. And the straight line is more one than the bent; but that which is bent and has an angle we call both one and not one, because its movement may be either simultaneous or not simultaneous; but that of the straight line is always simultaneous, and no part of it which has magnitude rests while another moves, as in the bent line.
+2. Of things that are called one in virtue of their own nature some (a) are so called because they are continuous, e.g. a bundle is made one by a band, and pieces of wood are made one by glue
+
+A line, even if it is bent, is called one if it is continuous, as each part of the body is, e.g. the leg or the arm. Of these themselves, the continuous by nature are more one than the continuous by art. A thing is called continuous which has by its own nature one movement and cannot have any other; and the movement is one when it is indivisible, and it is indivisible in respect of time. 
+
+Those things are continuous by their own nature which are one not merely by contact; for if you put pieces of wood touching one another, you will not say these are one piece of wood or one body or one continuum of any other sort. 
+
+Things, then, that are continuous in any way called one, even if they admit of being bent, and still more those which cannot be bent; e.g. the shin or the thigh is more one than the leg, because the movement of the leg need not be one. And the straight line is more one than the bent; but that which is bent and has an angle we call both one and not one, because its movement may be either simultaneous or not simultaneous; but that of the straight line is always simultaneous, and no part of it which has magnitude rests while another moves, as in the bent line.
 
 "(b)(i) Things are called one in another sense because their substratum does not differ in kind; it does not differ in the case of things whose kind is indivisible to sense. The substratum meant is either the nearest to, or the farthest from, the final state. For, one the one hand, wine is said to be one and water is said to be one, qua indivisible in kind; and, on the other hand, all juices, e.g. oil and wine, are said to be one, and so are all things that can be melted, because the ultimate substratum of all is the same; for all of these are water or air.
 
@@ -33,7 +56,11 @@ The things that are called 'one in virtue of an accident', are called so in this
 
 "While in a sense we call anything one if it is a quantity and continuous, in a sense we do not unless it is a whole, i.e. unless it has unity of form; e.g. if we saw the parts of a shoe put together anyhow we should not call them one all the same (unless because of their continuity); we do this only if they are put together so as to be a shoe and to have already a certain single form. This is why the circle is of all lines most truly one, because it is whole and complete.
 
-"(3) The essence of what is one is to be some kind of beginning of number; for the first measure is the beginning, since that by which we first know each class is the first measure of the class; the one, then, is the beginning of the knowable regarding each class. But the one is not the same in all classes. For here it is a quarter-tone, and there it is the vowel or the consonant; and there is another unit of weight and another of movement. But everywhere the one is indivisible either in quantity or in kind. Now that which is indivisible in quantity is called a unit if it is not divisible in any dimension and is without position, a point if it is not divisible in any dimension and has position, a line if it is divisible in one dimension, a plane if in two, a body if divisible in quantity in all--i.e. in three--dimensions. And, reversing the order, that which is divisible in two dimensions is a plane, that which is divisible in one a line, that which is in no way divisible in quantity is a point or a unit,-that which has not position a unit, that which has position a point.
+3. The essence of what is one is to be some kind of beginning of number
+
+This is because the first measure is the beginning, since that by which we first know each class is the first measure of the class; the one, then, is the beginning of the knowable regarding each class. 
+
+But the one is not the same in all classes. For here it is a quarter-tone, and there it is the vowel or the consonant; and there is another unit of weight and another of movement. But everywhere the one is indivisible either in quantity or in kind. Now that which is indivisible in quantity is called a unit if it is not divisible in any dimension and is without position, a point if it is not divisible in any dimension and has position, a line if it is divisible in one dimension, a plane if in two, a body if divisible in quantity in all--i.e. in three--dimensions. And, reversing the order, that which is divisible in two dimensions is a plane, that which is divisible in one a line, that which is in no way divisible in quantity is a point or a unit,-that which has not position a unit, that which has position a point.
 
 "Again, some things are one in number, others in species, others in genus, others by analogy; in number those whose matter is one, in species those whose definition is one, in genus those to which the same figure of predication applies, by analogy those which are related as a third thing is to a fourth. The latter kinds of unity are always found when the former are; e.g. things that are one in number are also one in species, while things that are one in species are not all one in number; but things that are one in species are all one in genus, while things that are so in genus are not all one in species but are all one by analogy; while things that are one by analogy are not all one in genus.
 

@@ -1,17 +1,12 @@
-+++
-title= "Motion is Existed Before Creation"
-heading = "Book 12 Part 1 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-28"
-image= "/covers/meta.jpg"
-description= "If there is something which is capable of moving things or acting on them, but is not actually doing so, there will not necessarily be movement."
-linkb= "/research/aristotle/metaphysics/book-12/part-3"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/book-12/part-7"
-linkftext= "Part 7"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 5"
+title: "Motion is Existed Before Creation"
+date: 2015-09-23
+image: "/covers/meta.jpg"
+description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
+icon: "/icons/aris.jpg"
+---
+
 
 
 Some things can exist apart and some cannot. Substances can exist apart.

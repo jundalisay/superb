@@ -1,15 +1,12 @@
-+++
-title= "Aristotle explains Whether and Plurality"
-heading= "Part 5 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-27"
-image= "/covers/meta.jpg"
-description= "One thing has one contrary. How is one opposed to the many? How is equal opposed to the big and the small?"
-linkb= "/research/aristotle/metaphysics/book-10/part-4"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-10/part-7"
-linkftext= "Part 7"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Part 5"
+title: "Aristotle explains Whether and Plurality"
+date: 2015-09-24
+image: "/covers/meta.jpg"
+description: "One thing has one contrary. How is one opposed to the many? How is equal opposed to the big and the small?"
+icon: "/icons/aris.jpg"
+---
+
 
 
 One thing has one contrary. How is one opposed to the many? How is equal opposed to the big and the small?

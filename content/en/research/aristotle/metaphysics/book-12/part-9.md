@@ -1,17 +1,12 @@
-+++
-title= "Divine Thought"
-heading= "Book 12 Part 9 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-25"
-image= "/covers/meta.jpg"
-description= "Is the object of divine thought composite? If it were, then thought would change in passing from part to part of the whole"
-linkb= "/research/aristotle/metaphysics/book-12/part-8"
-linkbtext= "Part 8"
-linkf= "/research/aristotle/metaphysics/book-12/part-10"
-linkftext= "Part 10"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 9"
+title: "Divine Thought"
+date: 2015-09-15
+image: "/covers/meta.jpg"
+description: "Is the object of divine thought composite? If it were, then thought would change in passing from part to part of the whole"
+icon: "/icons/aris.jpg"
+---
+
 
 The nature of the divine thought involves certain problems. 
 
@@ -27,9 +22,11 @@ Further, whether its substance is the faculty of thought or the act of thinking,
 
 Either of itself or of something else; and if of something else, either of the same thing always or of something different. Does it matter, then, or not, whether it thinks of the good or of any chance thing? Are there not some things about which it is incredible that it should think? Evidently, then, it thinks of that which is most divine and precious, and it does not change; for change would be change for the worse, and this would be already a movement. 
 
-1. First, then, if 'thought' is not the act of thinking but a potency, it would be reasonable to suppose that the continuity of its thinking is wearisome to it. 
+1. 'Thought' is not the act of thinking but a potency.
 
-2. Secondly, there would evidently be something else more precious than thought, viz. that which is thought of. For both thinking and the act of thought will belong even to one who thinks of the worst thing in the world, so that if this ought to be avoided (and it ought, for there are even some things which it is better not to see than to see), the act of thinking cannot be the best of things. Therefore it must be of itself that the divine thought thinks (since it is the most excellent of things), and its thinking is a thinking on thinking.
+It would be reasonable to suppose that the continuity of its thinking is wearisome to it. 
+
+2. There would evidently be something else more precious than thought, viz. that which is thought of. For both thinking and the act of thought will belong even to one who thinks of the worst thing in the world, so that if this should be avoided (and it ought, for there are even some things which it is better not to see than to see), the act of thinking cannot be the best of things. Therefore it must be of itself that the divine thought thinks (since it is the most excellent of things), and its thinking is a thinking on thinking.
 
 But knowledge, perception, opinion, and understanding have always something else as their object. 
 

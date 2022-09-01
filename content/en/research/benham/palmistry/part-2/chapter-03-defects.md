@@ -1,14 +1,12 @@
 ---
 title: "Main, Minor, Chance Lines, Proportion, Two Hands"
 heading: "Defects and Repair"
-date: 2021-11-20
+# date: 2021-11-20
+date: 2020-01-23
 image: "/photos/objects/hand.jpg"
 description: "There is another Minor line, called the Via Lascivia, and supposed to be a sister line to the Mercury line. But I consider it as a chance line, and so it does not have  fixed place among the Minor lines"
-linkb: "/research/benham/palmistry/part-2/chapter-02"
-linkbtext: "Chapter 2"
-linkf: "/research/benham/palmistry/part-2/chapter-04-age"
-linkftext: "Chapter 4"
 ---
+
 
 
 The first thing to examine in the lines is their character, as their:

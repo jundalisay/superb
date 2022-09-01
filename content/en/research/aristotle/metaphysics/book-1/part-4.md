@@ -1,18 +1,14 @@
-+++
-title= "Hesiod Parmenides"
-heading= "Part 4 of Metaphysics by Aristotle Simplified"
-author= "Aristotle"
-date= "2015-09-27"
-image= "/covers/meta.jpg"
-description= "Aristotle explains the basic ideas of Hesiod and Parmenides"
-linkb= "/research/aristotle/metaphysics/book-1/part-3"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/book-1/part-5"
-linkftext= "Part 5"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Hesiod Parmenides"
+heading: "Part 4"
+date: 2015-09-25
+image: "/covers/meta.jpg"
+description: "Aristotle explains the basic ideas of Hesiod and Parmenides"
+icon: "/icons/aris.jpg"
+author: Aristotle
+---
+
+
 
 One might suspect that Hesiod was the first to look for such a thing-or some one else who put love or desire among existing things as a principle. Parmenides also does this. for he, in constructing the genesis of the universe, says:- "
 

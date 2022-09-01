@@ -1,5 +1,5 @@
 ---
-heading: "Part 2 of Book 3 of Metaphysics by Aristotle Simplified"
+heading: "Part 2 of Book 3 "
 title: "Questions 1 to 3"
 date: 2020-09-01
 image: "/covers/meta.jpg"

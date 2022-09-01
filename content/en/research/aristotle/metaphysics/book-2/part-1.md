@@ -1,18 +1,14 @@
 ---
-heading: "Part 1 Book 2 of Metaphysics by Aristotle Simplified"
+heading: "Part 1 Book 2 "
 title: "Philosophy and The Truth"
 date: 2020-09-04
 image: "/covers/meta.jpg"
 description: "Aristotle denounces Plato's Forms"
-linkb: /research/aristotle/metaphysics/book-1/part-9b
-linkbtext: "Part 9b"
-linkf: /research/aristotle/metaphysics/book-1/part-2
-linkftext: "Part 2"
 icon: "/icons/aris.jpg"
 ---
 
 
-THE investigation of the truth is in one way hard, in another easy. 
+The investigation of the truth is in one way hard, in another easy. 
 
 - No one is able to attain the truth adequately.
 - On the other hand, we do not collectively fail -- everyone says something true about the nature of things. 

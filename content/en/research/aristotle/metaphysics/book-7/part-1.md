@@ -1,17 +1,14 @@
-+++
-title= "To Be"
-heading= "Part 1 of Book 7"
-image= "/covers/meta.jpg"
-author= "Aristotle"
-description= "In one sense the 'being' meant is 'what a thing is' or a 'this'. In another sense it means a quality or quantity or one of the other things that are predicated as these are"
-linkb= "/research/aristotle/metaphysics/book-6/part-3"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/book-7/part-3"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "To Be"
+heading: "Part 1 of Book 7"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "In one sense the 'being' meant is 'what a thing is' or a 'this'. In another sense it means a quality or quantity or one of the other things that are predicated as these are"
+icon: "/icons/aris.jpg"
+---
+
+
+
 
 THERE are several senses in which a thing may be said to 'be'
 
@@ -40,7 +37,7 @@ What is being? What is substance?
 For it is this that some assert to be one, others more than one, and that some assert to be limited in number, others unlimited. And so we also must consider chiefly and primarily and almost exclusively what that is which is in this sense.
 
 
-## Part 2
+## Part 2: What are Substances?
 
 Substance is thought to belong most obviously to bodies. 
 
@@ -51,14 +48,27 @@ The following are substances:
 
 Are these alone substances?
 
-Some think the limits of body, i.e. surface, line, point, and unit, are substances, and more so than body or the solid.
+- Some think that the limits of body, i.e. surface, line, point, and unit, are substances, and more so than body or the solid.
+- Some do not think there is anything substantial besides sensible things. 
+- Others think there are eternal substances which are more in number and more real
+  - For example, Plato posited 2 kinds of substance, with a third minor one:
+    - The Forms
+    - The objects of mathematics
+    - The substance of sensible bodies. 
 
-Some do not think there is anything substantial besides sensible things, but others think there are eternal substances which are more in number and more real; 
-
-e.g. Plato posited two kinds of substance-the Forms and objects of mathematics-as well as a third kind, viz. the substance of sensible bodies. 
-
-Speusippus made still more kinds of substance, beginning with the One, and assuming principles for each kind of substance, one for numbers, another for spatial magnitudes, and then another for the soul; and by going on in this way he multiplies the kinds of substance. 
+Speusippus made still more kinds of substance. 
+- He began with the One. 
+- He assumed principles for each kind of substance:
+  - one for numbers
+  - another for spatial magnitudes
+  - another for the soul
+- By going on in this way, he multiplies the kinds of substance. 
 
 Some say Forms and numbers have the same nature, and the other things come after them-lines and planes-until we come to the substance of the material universe and to sensible bodies.
 
-Regarding these matters, then, we must inquire which of the common statements are right and which are not right, and what substances there are, and whether there are or are not any besides sensible substances, and how sensible substances exist, and whether there is a substance capable of separate existence (and if so why and how) or no such substance, apart from sensible substances; and we must first sketch the nature of substance.
+We must inquire:
+- which of the common statements are correct
+- what substances there are
+- whether there are or are not any besides sensible substances,
+- how sensible substances exist
+- whether there is a substance capable of separate existence (and if so why and how) or no such substance, apart from sensible substances; and we must first sketch the nature of substance.

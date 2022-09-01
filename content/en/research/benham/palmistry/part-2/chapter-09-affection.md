@@ -1,12 +1,9 @@
 ---
 title: "Affection Lines"
-date: 2021-11-20
+# date: 2021-11-20
+date: 2019-12-27
 image: "/photos/objects/hand.jpg"
 description: "The lines of Affection or Marriage, as they are commonly called, lie on the Mount of Mercury, and run from the percussion toward the inside of the palm"
-linkb: "/research/benham/palmistry/part-2/chapter-08-intuition"
-linkbtext: "Intuition"
-linkf: /research/benham/palmistry/part-2/chapter-09b
-linkftext: "Chapter 9b"
 ---
 
 

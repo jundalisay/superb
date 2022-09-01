@@ -1,14 +1,10 @@
 ---
-heading: "Part 9b of Metaphysics by Aristotle Simplified"
+heading: "Part 9b"
 title: "The One as a Number"
 linkTitle: Part 9b
-date: 2015-09-23
+date: 2015-09-13
 image: "/covers/meta.jpg"
 description: "Aristotle denounces Plato's Forms"
-linkb: /research/aristotle/metaphysics/book-1/part-9
-linkbtext: "Part 9"
-linkf: /research/aristotle/metaphysics/book-2/part-1
-linkftext: "Part 1"
 icon: "/icons/aris.jpg"
 ---
 

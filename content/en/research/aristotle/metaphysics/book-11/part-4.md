@@ -1,31 +1,34 @@
-+++
-title= "Part 4"
-heading= "Part 4 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-27"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Aristotle gives maximum importance to the sight over the other senses"
-linkb= "/research/aristotle/metaphysics/book-11/part-3"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-11/part-6"
-linkftext= "Part 6"
-+++
+---
+heading: "Part 4-5"
+title: "Mathematics"
+date: 2015-09-24
+image: "/covers/meta.jpg"
+description: "First philosophy should also examine the principles of mathematics"
+icon: "/icons/aris.jpg"
+---
+
+
 
 
 Even the mathematician uses the common axioms only in a special application.
 
 This is why first philosophy should also examine the principles of mathematics. 
 
-That when equals are taken from equals the remainders are equal, is common to all quantities, but mathematics studies a part of its proper matter which it has detached, e.g. lines or angles or numbers or some other kind of quantity-not, however, qua being but in so far as each of them is continuous in one or two or three dimensions; 
+When equals are taken from equals, the remainders are equal. This is common to all quantities.
+- Mathematics studies a part of its proper matter which it has detached, e.g. lines or angles or numbers or some other kind of quantity-not, however, qua being but in so far as each of them is continuous in one or two or three dimensions; 
 
 but philosophy does not inquire about particular subjects in so far as each of them has some attribute or other, but speculates about being, in so far as each particular thing is.
 
-Physics is in the same position as mathematics; for physics studies the attributes and the principles of the things that are, qua moving and not qua being (whereas the primary science, we have said, deals with these, only in so far as the underlying subjects are existent, and not in virtue of any other character); and so both physics and mathematics must be classed as parts of Wisdom.
+Physics is in the same position as mathematics. 
+- Physics studies the attributes and the principles of the things that are, qua moving and not qua being (whereas the primary science, we have said, deals with these, only in so far as the underlying subjects are existent, and not in virtue of any other character); and so both physics and mathematics must be classed as parts of Wisdom.
 
 
 ## Part 5
 
-"There is a principle in things, about which we cannot be deceived, but must always, on the contrary recognize the truth,-viz. that the same thing cannot at one and the same time be and not be, or admit any other similar pair of opposites. About such matters there is no proof in the full sense, though there is proof ad hominem. For it is not possible to infer this truth itself from a more certain principle, yet this is necessary if there is to be completed proof of it in the full sense. 
+
+There is a principle in things, about which we cannot be deceived, but must always, on the contrary recognize the truth,-viz. that the same thing cannot at one and the same time be and not be, or admit any other similar pair of opposites. 
+
+About such matters there is no proof in the full sense, though there is proof ad hominem. For it is not possible to infer this truth itself from a more certain principle, yet this is necessary if there is to be completed proof of it in the full sense. 
 
 But he who wants to prove to the asserter of opposites that he is wrong must get from him an admission which shall be identical with the principle that the same thing cannot be and not be at one and the same time, but shall not seem to be identical; for thus alone can his thesis be demonstrated to the man who asserts that opposite statements can be truly made about the same subject. 
 

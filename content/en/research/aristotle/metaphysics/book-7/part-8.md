@@ -1,16 +1,13 @@
-+++
-title= "How Aristotle Misunderstands Forms"
-heading= "Part 8 of the Simplified Metaphysics by Aristotle Book 7"
-image= "/covers/meta.jpg"
-description= "In some cases, the maker is of the same kind or form as the product. For example, a human makes a human. We do not need to set up Form as a pattern."
-linkb= "/research/aristotle/metaphysics/book-7/part-6"
-linkbtext= "Part 6"
-linkf= "/research/aristotle/metaphysics/book-7/part-8"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "How Aristotle Misunderstands Forms"
+heading: "Part 8 of Book 7"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "In some cases, the maker is of the same kind or form as the product. For example, a human makes a human. We do not need to set up Form as a pattern"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Anything which is produced is produced by something (the starting-point of the production). 
 

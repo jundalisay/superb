@@ -1,17 +1,12 @@
-+++
-title= "The Individual and the Unieversal"
-heading= "Book 13 Part 9 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "If substances are not separate, and in the way in which individual things are said to be separate, we shall destroy substance in the sense in which we understand 'substance'"
-linkb= "/research/aristotle/metaphysics/book-13/part-5"
-linkbtext= "Part 5"
-linkf= "/research/aristotle/metaphysics/book-13/part-8"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 10 of Book 13"
+title: "The Individual and the Universal"
+date: 2015-09-10
+image: "/covers/meta.jpg"
+description: "If substances are not separate, and in the way in which individual things are said to be separate, we shall destroy substance in the sense in which we understand 'substance'"
+icon: "/icons/aris.jpg"
+---
+
 
 <!-- "Let us now mention a point which presents a certain difficulty both to those who believe in the Ideas and to those who do not, and which was stated before, at the beginning, among the problems.  -->
 

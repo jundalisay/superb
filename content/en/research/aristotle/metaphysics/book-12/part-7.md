@@ -1,17 +1,13 @@
-+++
-title= "Thought is Prior to Desire"
-heading = "Book 12 Part 7 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-27"
-image= "/covers/meta.jpg"
-description= "Desire depends on opinion. Opinion does not depend on desire. This is thinking is the starting-point"
-linkb= "/research/aristotle/metaphysics/book-12/part-8"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/book-12/part-8"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 7"
+title: "Thought is Prior to Desire"
+date: 2015-09-20
+image: "/covers/meta.jpg"
+description: "Desire depends on opinion. Opinion does not depend on desire. This is thinking is the starting-point"
+icon: "/icons/aris.jpg"
+---
+
+
 
 This is a possible account of the matter.
 

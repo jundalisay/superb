@@ -1,26 +1,30 @@
-+++
-title= "Part 2"
-heading= "Book 12 Part 2 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-29"
-image= "/covers/meta.jpg"
-description= "Aristotle gives maximum importance to the sight over the other senses"
-linkb= "/research/aristotle/metaphysics/book-12/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-12/part-5"
-linkftext= "Part 5"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 3"
+title: "What is Substance?"
+date: 2015-09-26
+image: "/covers/meta.jpg"
+description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
+icon: "/icons/aris.jpg"
+---
 
 
-Neither the matter nor the form comes to be-and I mean the last matter and form. For everything that changes is something and is changed by something and into something. 
+Neither the last matter nor the last form comes to be. This is because everything that changes is something and is changed by something and into something.
 
-That by which it is changed is the immediate mover; that which is changed, the matter; that into which it is changed, the form. The process, then, will go on to infinity, if not only the bronze comes to be round but also the round or the bronze comes to be; therefore there must be a stop.
+- The immediate mover is the thing that changes the matter.  
+- Matter is the thing changed.
+- Form is to what the matter is changed into. 
 
-"Note, next, that each substance comes into being out of something that shares its name. (Natural objects and other things both rank as substances.) For things come into being either by art or by nature or by luck or by spontaneity. Now art is a principle of movement in something other than the thing moved, nature is a principle in the thing itself (for man begets man), and the other causes are privations of these two.
+This process will go on to infinity. 
+- The bronze becomes round. 
+- The round or the bronze comes to be. 
 
-There are three kinds of substance:
+Therefore there must be a stop.
+
+Note, next, that each substance comes into being out of something that shares its name. 
+
+(Natural objects and other things both rank as substances.) For things come into being either by art or by nature or by luck or by spontaneity. Now art is a principle of movement in something other than the thing moved, nature is a principle in the thing itself (for man begets man), and the other causes are privations of these two.
+
+There are 3 kinds of substance:
 
 1. Matter (This is the Callias)
   - This manifests as it is <!-- , which is a 'this' in appearance (for all things that are characterized by contact and not, by organic unity are matter and substratum, e.g. fire, flesh, head; for these are all matter, and the last matter is the matter of that which is in the full sense substance); --> 
@@ -42,7 +46,7 @@ In some cases there is nothing to prevent this; e.g. the soul may be of this sor
 
 ## Part 4
 
-"The causes and the principles of different things are in a sense different, but in a sense, if one speaks universally and analogically, they are the same for all. For one might raise the question whether the principles and elements are different or the same for substances and for relative terms, and similarly in the case of each of the categories. But it would be paradoxical if they were the same for all. For then from the same elements will proceed relative terms and substances. What then will this common element be? 
+The causes and the principles of different things are in a sense different, but in a sense, if one speaks universally and analogically, they are the same for all. For one might raise the question whether the principles and elements are different or the same for substances and for relative terms, and similarly in the case of each of the categories. But it would be paradoxical if they were the same for all. For then from the same elements will proceed relative terms and substances. What then will this common element be? 
 
 For (1) (a) there is nothing common to and distinct from substance and the other categories, viz. those which are predicated; but an element is prior to the things of which it is an element. 
 

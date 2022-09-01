@@ -1,5 +1,5 @@
 ---
-heading: "Part 4 Book 8 of Metaphysics by Aristotle Simplified"
+heading: "Part 4 Book 8 "
 title: "The Origin of Substance"
 date: 2020-09-04
 image: "/covers/meta.jpg"

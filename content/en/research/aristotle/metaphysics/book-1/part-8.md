@@ -1,16 +1,13 @@
 ---
-heading: "Part 8 of Metaphysics by Aristotle Simplified"
 title: "Errors of the Platonists and Pythagoreans"
-linkTitle: Part 8
-date: 2015-09-23
+heading: "Part 8"
+date: 2015-09-18
 image: "/covers/meta.jpg"
 description: "Aristotle gives his theory of substance"
-linkb: /research/aristotle/metaphysics/book-1/part-7
-linkbtext: "Part 7"
-linkf: /research/aristotle/metaphysics/book-1/part-9
-linkftext: "Part 9"
 icon: "/icons/aris.jpg"
+author: Aristotle
 ---
+
 
 
 

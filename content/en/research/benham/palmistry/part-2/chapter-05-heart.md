@@ -1,13 +1,9 @@
 ---
 title: "The Heart Line"
-# heading: "Chapter 10"
-# date: 2021-11-20
+heading: "Chapter 15 of Part 2"
+date: 2020-01-15
 image: "/photos/objects/hand.jpg"
 description: "The line of Heart rises from some point under or near the finger of Jupiter, and traces its way across the hand under the Mounts, ending on the percussion."
-linkb: "/research/benham/palmistry/part-2/chapter-09-affection"
-linkbtext: "Chapter 9"
-linkf: "/research/benham/palmistry/part-2/chapter-28-girdle"
-linkftext: "Chapter 28"
 ---
 
 

@@ -1,28 +1,31 @@
-+++
-title= "Defining Part and Whole"
-heading= "Part 25 of Book 5"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Aristotle defines whole and part"
-linkb= "/research/aristotle/metaphysics/book-5/part-16"
-linkbtext= "Part 16"
-linkf= "/research/aristotle/metaphysics/book-5/part-29"
-linkftext= "Part 29"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Defining Part and Whole"
+heading: "Part 25 of Book 5"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "Aristotle defines Part and Whole"
+icon: "/icons/aris.jpg"
+---
+
+
 
 "'Part' means 
 
-1. (a) that into which a quantum can in any way be divided; for that which is taken from a quantum qua quantum is always called a part of it, e.g. two is called in a sense a part of three. 
+1. 
+
+a. that into which a quantum can in any way be divided; for that which is taken from a quantum qua quantum is always called a part of it, e.g. two is called in a sense a part of three. 
 
 b. of the parts in the first sense, only those which measure the whole; this is why two, though in one sense it is, in another is not, called a part of three.
 
-2. The elements into which a kind might be divided apart from the quantity are also called parts of it; for which reason we say the species are parts of the genus.-(3) The elements into which a whole is divided, or of which it consists-the 'whole' meaning either the form or that which has the form; e.g. of the bronze sphere or of the bronze cube both the bronze-i.e. the matter in which the form is-and the characteristic angle are parts.-(4) The elements in the definition which explains a thing are also parts of the whole; this is why the genus is called a part of the species, though in another sense the species is part of the genus.
+2. The elements into which a kind might be divided apart from the quantity are also called parts of it
+
+This is why we say the species are parts of the genus.
+
+3. The elements into which a whole is divided, or of which it consists-the 'whole' meaning either the form or that which has the form; e.g. of the bronze sphere or of the bronze cube both the bronze-i.e. the matter in which the form is-and the characteristic angle are parts.-(4) The elements in the definition which explains a thing are also parts of the whole; this is why the genus is called a part of the species, though in another sense the species is part of the genus.
 
 
-## Part 26= Whole
+
+## Part 26: Whole
 
 "'A whole' means 
 
@@ -31,7 +34,7 @@ b. of the parts in the first sense, only those which measure the whole; this is 
 "Again (3) of quanta that have a beginning and a middle and an end, those to which the position does not make a difference are called totals, and those to which it does, wholes. Those which admit of both descriptions are both wholes and totals. These are the things whose nature remains the same after transposition, but whose form does not, e.g. wax or a coat; they are called both wholes and totals; for they have both characteristics. Water and all liquids and number are called totals, but 'the whole number' or 'the whole water' one does not speak of, except by an extension of meaning. To things, to which qua one the term 'total' is applied, the term 'all' is applied when they are treated as separate; 'this total number,' 'all these units.'
 
 
-## Part 27
+## Part 27: Mutilated
 
 It is not any chance quantitative thing that can be said to be 'mutilated'; it must be a whole as well as divisible. For not only is two not 'mutilated' if one of the two ones is taken away (for the part removed by mutilation is never equal to the remainder), but in general no number is thus mutilated; for it is also necessary that the essence remain; if a cup is mutilated, it must still be a cup; 
 
@@ -40,7 +43,7 @@ but the number is no longer the same. Further, even if things consist of unlike 
 Again, they must be continuous; for a musical scale consists of unlike parts and has position, but cannot become mutilated. Besides, not even the things that are wholes are mutilated by the privation of any part. For the parts removed must be neither those which determine the essence nor any chance parts, irrespective of their position; e.g. a cup is not mutilated if it is bored through, but only if the handle or a projecting part is removed, and a man is mutilated not if the flesh or the spleen is removed, but if an extremity is, and that not every extremity but one which when completely removed cannot grow again. Therefore baldness is not a mutilation.
 
 
-## Part 28
+## Part 28: Genus
 
 "The term 'race' or 'genus' is used 
 

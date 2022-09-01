@@ -1,22 +1,19 @@
-+++
-title= "The Theory of Forms and Numbers"
-heading= "Book 13 Part 5 of The Metaphysics by Aristotle Simplified"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "How do the Forms contribute to sensible things, either eternal or non-eternal?"
-linkb= "/research/aristotle/metaphysics/book-13/part-4"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/book-13/part-7"
-linkftext= "Part 5"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 5"
+title: "The Theory of Forms and Numbers"
+date: 2015-09-24
+image: "/covers/meta.jpg"
+description: "How do the Forms contribute to sensible things, either eternal or non-eternal?"
+icon: "/icons/aris.jpg"
+---
+
 
 
 How do the Forms contribute to sensible things, either eternal or non-eternal? 
 
-The Forms cause neither movement nor any change in those things. But again they help in no wise either towards the knowledge of other things (for they are not even the substance of these, else they would have been in them), or towards their being, if they are not in the individuals which share in them; though if they were, they might be thought to be causes, as white causes whiteness in a white object by entering into its composition. 
+The Forms cause neither movement nor any change in those things. But again they help in no wise either towards the knowledge of other things (for they are not even the substance of these, else they would have been in them), or towards their being, if they are not in the individuals which share in them. 
+
+Though if they were, they might be thought to be causes, as white causes whiteness in a white object by entering into its composition. 
 
 This argument was used first by Anaxagoras and later by Eudoxus in his discussion of difficulties. This is very easily upset; for it is easy to collect many and insuperable objections to such a view.
 
@@ -37,7 +34,7 @@ Even the things of which they say there are Ideas can both be and come into bein
 But regarding the Ideas it is possible, both in this way and by more abstract and accurate arguments, to collect many objections like those we have considered.
 
 
-## Part 6= The Pythagoreans
+## Part 6: The Pythagoreans
 
 Some say that numbers are separable substances and the first causes of things. 
 

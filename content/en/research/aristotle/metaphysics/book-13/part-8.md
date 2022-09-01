@@ -1,17 +1,13 @@
-+++
-title= "Number and Unit"
-date= "2015-09-01"
-heading = "Book 13 Part 8 of The Metaphysics by Aristotle Simplified"
-image= "/covers/meta.jpg"
-description= "What is the differentia of a number and of a unit if it has a differentia?"
-linkb= "/research/aristotle/metaphysics/book-13/part-5"
-linkbtext= "Part 5"
-linkf= "/research/aristotle/metaphysics/book-13/part-8"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 8"
+title: "Number and Unit"
+date: 2015-09-20
+image: "/covers/meta.jpg"
+description: "What is the differentia of a number and of a unit if it has a differentia?"
+icon: "/icons/aris.jpg"
+---
+
+
 
 What is the differentia of a number and of a unit if it has a differentia?
 
@@ -23,7 +19,9 @@ Are the first units greater or smaller, and do the later ones increase or dimini
 
 For no attribute can attach to them; for even to numbers quality is said to belong after quantity. Again, quality could not come to them either from the 1 or the dyad; for the former has no quality, and the latter gives quantity; for this entity is what makes things to be many. If the facts are really otherwise, they should state this quite at the beginning and determine if possible, regarding the differentia of the unit, why it must exist, and, failing this, what differentia they mean.
 
-"Evidently then, if the Ideas are numbers, the units cannot all be associable, nor can they be inassociable in either of the two ways. But neither is the way in which some others speak about numbers correct. These are those who do not think there are Ideas, either without qualification or as identified with certain numbers, but think the objects of mathematics exist and the numbers are the first of existing things, and the 1-itself is the starting-point of them. It is paradoxical that there should be a 1 which is first of 1's, as they say, but not a 2 which is first of 2's, nor a 3 of 3's; for the same reasoning applies to all. 
+If the Ideas are numbers, the units cannot all be associable, nor can they be inassociable in either of the two ways. But neither is the way in which some others speak about numbers correct. 
+
+These are those who do not think there are Ideas, either without qualification or as identified with certain numbers, but think the objects of mathematics exist and the numbers are the first of existing things, and the 1-itself is the starting-point of them. It is paradoxical that there should be a 1 which is first of 1's, as they say, but not a 2 which is first of 2's, nor a 3 of 3's; for the same reasoning applies to all. 
 
 If, then, the facts with regard to number are so, and one supposes mathematical number alone to exist, the 1 is not the starting-point (for this sort of 1 must differ from the-other units; and if this is so, there must also be a 2 which is first of 2's, and similarly with the other successive numbers). But if the 1 is the starting-point, the truth about the numbers must rather be what Plato used to say, and there must be a first 2 and 3 and numbers must not be associable with one another. But if on the other hand one supposes this, many impossible results, as we have said, follow. But either this or the other must be the case, so that if neither is, number cannot exist separately.
 

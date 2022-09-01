@@ -1,13 +1,9 @@
 ---
 title: "How to Read the Heart Line"
-# heading: "Chapter 2 of Australia's Constitution Simplified"
-date: 2021-11-20
+heading: "Chapter 5 of Part 2"
+date: 2020-01-13
 image: "/photos/objects/hand.jpg"
 description: "Classifying the subject's type is the first step."
-linkb: /research/benham/palmistry/part-2/chapter-05-heart
-linkbtext: "Heart Line"
-linkf: /research/benham/palmistry/part-2/chapter-06-head
-linkftext: "Head Line"
 icon: "/avatars/blank.png"
 ---
 

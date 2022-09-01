@@ -1,21 +1,19 @@
-+++
-title= "Numbers are not the causal principle"
-heading= "Book 13 Part 5 of The Metaphysics by Aristotle Simplified"
-image= "/covers/meta.jpg"
-description= "The numbers are not the essence nor the causes of the form, for the ratio is the essence, while the number the causes of the form"
-linkb= "/research/aristotle/metaphysics/book-14/part-3"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/"
-linkftext= "Index"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 5 of Book 14"
+title: "Numbers are not the causal principle"
+date: 2015-09-15
+image: "/covers/meta.jpg"
+description: "The numbers are not the essence nor the causes of the form, for the ratio is the essence, while the number the causes of the form"
+icon: "/icons/aris.jpg"
+---
+
 
 
 If it is equally impossible not to put the good among the first principles and to put it among them in this way, then the principles are not being correctly described, nor are the first substances. 
 
-Nor does any one conceive the matter correctly if he compares the principles of the universe to that of animals and plants, on the ground that the more complete always comes from the indefinite and incomplete-which is what leads this thinker to say that this is also true of the first principles of reality, so that the One itself is not even an existing thing. This is incorrect, for even in this world of animals and plants the principles from which these come are complete; for it is a man that produces a man, and the seed is not first.
+Nor does any one conceive the matter correctly if he compares the principles of the universe to that of animals and plants, on the ground that the more complete always comes from the indefinite and incomplete-which is what leads this thinker to say that this is also true of the first principles of reality, so that the One itself is not even an existing thing. 
+
+This is incorrect, for even in this world of animals and plants the principles from which these come are complete; for it is a man that produces a man, and the seed is not first.
 
 It is out of place, also, to generate place simultaneously with the mathematical solids (for place is peculiar to the individual things, and hence they are separate in place; but mathematical objects are nowhere), and to say that they must be somewhere, but not say what kind of thing their place is.
 
@@ -62,7 +60,9 @@ Therefore if the same number had belonged to certain things, these would have be
 
 Is it then because the number is the kind of number it is, that the champions were seven or the Pleiad consists of seven stars? Surely the champions were seven because there were seven gates or for some other reason, and the Pleiad we count as seven, as we count the Bear as twelve, while other peoples count more stars in both.
 
-Nay they even say that X, Ps and Z are concords and that because there are three concords, the double consonants also are three. They quite neglect the fact that there might be a thousand such letters; for one symbol might be assigned to GP. But if they say that each of these three is equal to two of the other letters, and no other is so, and if the cause is that there are three parts of the mouth and one letter is in each applied to sigma, it is for this reason that there are only three, not because the concords are three; since as a matter of fact the concords are more than three, but of double consonants there cannot be more.
+Nay they even say that X, Ps and Z are concords and that because there are three concords, the double consonants also are three. 
+
+They quite neglect the fact that there might be a thousand such letters; for one symbol might be assigned to GP. But if they say that each of these three is equal to two of the other letters, and no other is so, and if the cause is that there are three parts of the mouth and one letter is in each applied to sigma, it is for this reason that there are only three, not because the concords are three; since as a matter of fact the concords are more than three, but of double consonants there cannot be more.
 
 These people are like the old-fashioned Homeric scholars. They see small resemblances but neglect great ones. 
 

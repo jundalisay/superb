@@ -1,17 +1,12 @@
-+++
-title= "The Substamce as Matter"
-heading= "Book 13 Part 1 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-30"
-image= "/covers/meta.jpg"
-description= "The substance of sensible things is matter"
-linkb= "/research/aristotle/metaphysics/book-13"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-13/part-3"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 1"
+title: "The Substamce as Matter"
+date: 2015-09-30
+image: "/covers/meta.jpg"
+description: "The substance of sensible things is matter"
+icon: "/icons/aris.jpg"
+---
+
 
 
 The substance of sensible things is matter. <!-- and , dealing in the treatise on physics with matter, and later with the substance which has actual existence.  -->
@@ -46,11 +41,23 @@ What difference, then, does it make whether sensible things are such indivisible
 
 It is impossible that such entities should exist separately. 
 
-For if besides the sensible solids there are to be other solids which are separate from them and prior to the sensible solids, it is plain that besides the planes also there must be other and separate planes and points and lines; for consistency requires this. But if these exist, again besides the planes and lines and points of the mathematical solid there must be others which are separate. (For incomposites are prior to compounds; and if there are, prior to the sensible bodies, bodies which are not sensible, by the same argument the planes which exist by themselves must be prior to those which are in the motionless solids. 
+For if besides the sensible solids there are to be other solids which are separate from them and prior to the sensible solids, it is plain that besides the planes also there must be other and separate planes and points and lines; for consistency requires this. But if these exist, again besides the planes and lines and points of the mathematical solid there must be others which are separate.
+
+(For incomposites are prior to compounds; and if there are, prior to the sensible bodies, bodies which are not sensible, by the same argument the planes which exist by themselves must be prior to those which are in the motionless solids. 
 
 Therefore these will be planes and lines other than those that exist along with the mathematical solids to which these thinkers assign separate existence; for the latter exist along with the mathematical solids, while the others are prior to the mathematical solids.) 
 
-Again, therefore, there will be, belonging to these planes, lines, and prior to them there will have to be, by the same argument, other lines and points; and prior to these points in the prior lines there will have to be other points, though there will be no others prior to these. Now (1) the accumulation becomes absurd; for we find ourselves with one set of solids apart from the sensible solids; three sets of planes apart from the sensible planes-those which exist apart from the sensible planes, and those in the mathematical solids, and those which exist apart from those in the mathematical solids; four sets of lines, and five sets of points. With which of these, then, will the mathematical sciences deal? 
+Therefore, there will be lines belonging to these planes. 
+
+Prior to them, there will have to be other lines and points. 
+
+Prior to these points in the prior lines there will have to be other points, though there will be no others prior to these. 
+
+The accumulation then becomes absurd.
+
+This is because we find ourselves with one set of solids apart from the sensible solids. 
+
+Three sets of planes apart from the sensible planes-those which exist apart from the sensible planes, and those in the mathematical solids, and those which exist apart from those in the mathematical solids; four sets of lines, and five sets of points. With which of these, then, will the mathematical sciences deal? 
 
 Certainly not with the planes and lines and points in the motionless solid; for science always deals with what is prior. And (the same account will apply also to numbers; for there will be a different set of units apart from each set of points, and also apart from each set of realities, from the objects of sense and again from those of thought; so that there will be various classes of mathematical numbers.
 

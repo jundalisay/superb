@@ -1,13 +1,9 @@
 ---
 title: "The Saturn Line"
-heading: "Chapter 10"
+heading: "Chapter 10 of Part 2"
 date: 2021-11-20
 image: "/photos/objects/hand.jpg"
 description: "The Saturn line is frequently called the line of Fate."
-linkb: "/research/benham/palmistry/part-2/chapter-09-affection"
-linkbtext: "Chapter 9"
-linkf: "/research/benham/palmistry/part-2/chapter-28-girdle"
-linkftext: "Chapter 28"
 icon: /flags/eu.png
 ---
 

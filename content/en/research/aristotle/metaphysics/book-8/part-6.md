@@ -1,5 +1,5 @@
 ---
-heading: "Part 6 Book 8 of Metaphysics by Aristotle Simplified"
+heading: "Part 6 Book 8 "
 title: "The unity of definitions and numbers"
 date: 2020-09-04
 image: "/covers/meta.jpg"

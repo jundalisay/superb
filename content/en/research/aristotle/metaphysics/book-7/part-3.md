@@ -1,17 +1,14 @@
-+++
-title= "What is Substance?"
-heading= "Part 3 of Book 7"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "What is Substance?"
-linkb= "/research/aristotle/metaphysics/book-7/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-7/part-4"
-linkftext= "Part 4"
-icon= "/icons/aris.jpg"
-+++
+---
+title: "What is Substance?"
+heading: "Part 3 of Book 7"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "The word 'substance' is applied in 4 ways"
+icon: "/icons/aris.jpg"
+---
 
-"The word 'substance' is applied in 4 ways:
+
+The word 'substance' is applied in 4 ways:
 1. the essence
 2. the universal
 3. the genus, These are thought to be the substance of each thing,

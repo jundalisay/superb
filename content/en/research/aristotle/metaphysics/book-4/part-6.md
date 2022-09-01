@@ -1,23 +1,23 @@
-+++
-title= "Part 6"
-heading= "Part 6 of the Simplified Metaphysics by Aristotle Book 4"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "those who seek merely compulsion in argument seek what is impossible"
-linkb= "/research/aristotle/metaphysics/book-4/part-5"
-linkbtext= "Part 5"
-linkf= "/research/aristotle/metaphysics/book-4/part-7"
-linkftext= "Part 7"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 6 of Book 4"
+title: "Who is to be the judge of things?"
+date: 2020-09-27
+image: "/covers/meta.jpg"
+description: "Those who seek merely compulsion in argument seek what is impossible"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Who is to be the judge of things? <!-- the healthy man? -->
 
 <!-- , and in general who is likely to judge rightly on each class of questions. But such inquiries are like puzzling over the question whether we are now asleep or awake.  -->
 
-All such questions have the same meaning. These people demand that a reason shall be given for everything; for they seek a starting-point, and they seek to get this by demonstration, while it is obvious from their actions that they have no conviction. But their mistake is what we have stated it to be; they seek a reason for things for which no reason can be given; for the starting-point of demonstration is not demonstration.
+All such questions have the same meaning. 
+
+These people demand that a reason shall be given for everything; for they seek a starting-point, and they seek to get this by demonstration, while it is obvious from their actions that they have no conviction. 
+
+But their mistake is what we have stated it to be; they seek a reason for things for which no reason can be given; for the starting-point of demonstration is not demonstration.
 
 These, then, might be easily persuaded of this truth, for it is not difficult to grasp. 
 

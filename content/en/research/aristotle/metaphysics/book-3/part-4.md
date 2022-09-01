@@ -1,16 +1,12 @@
-+++
-title= "Part 4"
-heading= "Part 4 of the Simplified Metaphysics by Aristotle"
-image= "/covers/meta.jpg"
-description= "If there is nothing apart from individual things, and the individuals are infinitely many, how can we know the infinite individuals?"
-linkb= "/research/aristotle/metaphysics/book-3/part-3"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/book-3/part-5"
-linkftext= "Part 5"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 4 of Book 3"
+title: "Question 8: How Can We Know The Infinite Individuals?"
+date: 2015-09-15
+image: "/covers/meta.jpg"
+description: "If there is nothing apart from individual things, and the individuals are infinitely many, how can we know the infinite individuals?"
+icon: "/icons/aris.jpg"
+---
+
 
 > 8. If there is nothing apart from individual things, and the individuals are infinitely many, how can we know the infinite individuals? 
 

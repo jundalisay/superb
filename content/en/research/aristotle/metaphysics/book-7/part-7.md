@@ -1,20 +1,17 @@
-+++
-title= "Natural Comings to Be"
-heading= "Part 1 of Book 7"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Natural comings to be are the comings to be of those things which come to be by nature."
-linkb= "/research/aristotle/metaphysics/book-7/part-6"
-linkbtext= "Part 6"
-linkf= "/research/aristotle/metaphysics/book-7/part-8"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Natural Comings to Be"
+heading: "Part 7 of Book 7"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "Natural comings to be are the comings to be of those things which come to be by nature"
+icon: "/icons/aris.jpg"
+---
 
 
-Of things that come to be, some come to be by nature, some by art, some spontaneously. Now everything that comes to be comes to be by the agency of something and from something and comes to be something. And the something which I say it comes to be may be found in any category; it may come to be either a 'this' or of some size or of some quality or somewhere.
+
+Of things that come to be, some come to be by nature, some by art, some spontaneously. Now everything that comes to be comes to be by the agency of something and from something and comes to be something.
+
+The something which I say it comes to be may be found in any category; it may come to be either a 'this' or of some size or of some quality or somewhere.
 
 Natural comings to be are the comings to be of those things which come to be by nature. 
 

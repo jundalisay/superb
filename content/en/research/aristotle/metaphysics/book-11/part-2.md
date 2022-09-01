@@ -1,16 +1,13 @@
-+++
-title= "What is the Nature of Number?"
-# heading= "Part 4 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-29"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Must we suppose something apart from individual things, or is it these that the science we are seeking treats of?"
-linkb= "/research/aristotle/metaphysics/book-11/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-11/part-3"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Part 2"
+title: "What is the Nature of Number?"
+date: 2015-09-28
+image: "/covers/meta.jpg"
+description: "Must we suppose something apart from individual things, or is it these that the science we are seeking treats of?"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Must we suppose something apart from individual things, or is it these that the science we are seeking treats of? 
 
@@ -30,9 +27,13 @@ This is paradoxical.
 
 But if there is one principle of perishable and another of eternal things, we shall be in a like difficulty if the principle of perishable things, as well as that of eternal, is eternal; for why, if the principle is eternal, are not the things that fall under the principle also eternal? But if it is perishable another principle is involved to account for it, and another to account for that, and this will go on to infinity.
 
-"If on the other hand we are to set up what are thought to be the most unchangeable principles, being and unity, firstly, if each of these does not indicate a 'this' or substance, how will they be separable and independent? Yet we expect the eternal and primary principles to be so. But if each of them does signify a 'this' or substance, all things that are are substances; for being is predicated of all things (and unity also of some); but that all things that are are substance is false. Further, how can they be right who say that the first principle is unity and this is substance, and generate number as the first product from unity and from matter, assert that number is substance? How are we to think of 'two', and each of the other numbers composed of units, as one? 
+If on the other hand we are to set up what are thought to be the most unchangeable principles, being and unity, firstly, if each of these does not indicate a 'this' or substance, how will they be separable and independent? 
 
-On this point neither do they say anything nor is it easy to say anything. But if we are to suppose lines or what comes after these (I mean the primary surfaces) to be principles, these at least are not separable substances, but sections and divisions-the former of surfaces, the latter of bodies (while points are sections and divisions of lines); and further they are limits of these same things; and all these are in other things and none is separable. Further, how are we to suppose that there is a substance of unity and the point? Every substance comes into being by a gradual process, but a point does not; for the point is a division.
+Yet we expect the eternal and primary principles to be so. But if each of them does signify a 'this' or substance, all things that are are substances; for being is predicated of all things (and unity also of some); but that all things that are are substance is false. Further, how can they be right who say that the first principle is unity and this is substance, and generate number as the first product from unity and from matter, assert that number is substance? How are we to think of 'two', and each of the other numbers composed of units, as one? 
+
+On this point neither do they say anything nor is it easy to say anything. But if we are to suppose lines or what comes after these (I mean the primary surfaces) to be principles, these at least are not separable substances, but sections and divisions-the former of surfaces, the latter of bodies (while points are sections and divisions of lines). 
+
+Further they are limits of these same things; and all these are in other things and none is separable. Further, how are we to suppose that there is a substance of unity and the point? Every substance comes into being by a gradual process, but a point does not; for the point is a division.
 
 All knowledge is of universals and of the 'such', but substance is not a universal, but is rather a 'this'-a separable thing, so that if there is knowledge about the first principles, the question arises, how are we to suppose the first principle to be substance?
 

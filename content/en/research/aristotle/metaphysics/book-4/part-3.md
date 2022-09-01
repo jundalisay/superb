@@ -1,18 +1,12 @@
-+++
-title= "What Should Science Do?"
-heading= "Part 3 of Book 4"
-date= "2015-09-29"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Should the sciences inquire into the truths which are in mathematics called axioms, and into substance?"
-linkb= "/research/aristotle/metaphysics/book-4/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-4/part-4"
-linkftext= "Part 4"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 3 of Book 4"
+title: "What Should Science Do?"
+date: 2020-09-27
+image: "/covers/meta.jpg"
+description: "Should the sciences inquire into the truths which are in mathematics called axioms, and into substance?"
+icon: "/icons/aris.jpg"
+---
+
 
 
 Should the sciences inquire into the truths which are in mathematics called axioms, and into substance?
@@ -33,7 +27,11 @@ But he who knows best about each genus must be able to state the most certain pr
 
 This is the philosopher, and the most certain principle of all is that regarding which it is impossible to be mistaken; for such a principle must be both the best known (for all men may be mistaken about things which they do not know), and non-hypothetical. For a principle which every one must have who understands anything that is, is not a hypothesis; and that which every one must know who knows anything, he must already have when he comes to a special study. 
 
-Such a principle is the most certain of all; which principle this is, let us proceed to say. It is, that the same attribute cannot at the same time belong and not belong to the same subject and in the same respect; we must presuppose, to guard against dialectical objections, any further qualifications which might be added. This, then, is the most certain of all principles, since it answers to the definition given above. For it is impossible for any one to believe the same thing to be and not to be, as some think Heraclitus says. 
+Such a principle is the most certain of all; which principle this is, let us proceed to say. It is, that the same attribute cannot at the same time belong and not belong to the same subject and in the same respect; we must presuppose, to guard against dialectical objections, any further qualifications which might be added. 
 
-For what a man says, he does not necessarily believe; and if it is impossible that contrary attributes should belong at the same time to the same subject (the usual qualifications must be presupposed in this premiss too), and if an opinion which contradicts another is contrary to it, obviously it is impossible for the same man at the same time to believe the same thing to be and not to be; for if a man were mistaken on this point he would have contrary opinions at the same time. It is for this reason that all who are carrying out a demonstration reduce it to this as an ultimate belief; for this is naturally the starting-point even for all the other axioms.
+This, then, is the most certain of all principles, since it answers to the definition given above. For it is impossible for any one to believe the same thing to be and not to be, as some think Heraclitus says. 
+
+For what a man says, he does not necessarily believe; and if it is impossible that contrary attributes should belong at the same time to the same subject (the usual qualifications must be presupposed in this premiss too), and if an opinion which contradicts another is contrary to it, obviously it is impossible for the same man at the same time to believe the same thing to be and not to be; for if a man were mistaken on this point he would have contrary opinions at the same time
+
+It is for this reason that all who are carrying out a demonstration reduce it to this as an ultimate belief; for this is naturally the starting-point even for all the other axioms.
 

@@ -1,13 +1,9 @@
 ---
-heading: "Part 2 Book 8 of Metaphysics by Aristotle Simplified"
+heading: "Part 2 Book 8 "
 title: "The Matter of Democritus"
 date: 2020-09-04
 image: "/covers/meta.jpg"
 description: "Matter has many differences"
-linkb: /research/aristotle/metaphysics/book-8/part-1
-linkbtext: "Part 1"
-linkf: /research/aristotle/metaphysics/book-8/part-3
-linkftext: "Part 3"
 icon: "/icons/aris.jpg"
 ---
 
@@ -49,14 +45,23 @@ The being of some things will be defined by all these qualities, because some pa
 We must grasp, then, the kinds of differentiae (for these will be the principles of the being of things), e.g. the things characterized by the more and the less, or by the dense and the rare, and by other such qualities; for all these are forms of excess and defect.
 
 
-
 Anything that is characterized by shape or by smoothness and roughness is characterized by the straight and the curved. And for other things their being will mean their being mixed, and their not being will mean the opposite.
 
-Since its substance is the cause of each thing's being, we must seek in these differentiae what is the cause of the being of each of these things. Now none of these differentiae is substance, even when coupled with matter, yet it is what is analogous to substance in each case; and as in substances that which is predicated of the matter is the actuality itself, in all other definitions also it is what most resembles full actuality. E.g. if we had to define a threshold, we should say 'wood or stone in such and such a position', and a house we should define as 'bricks and timbers in such and such a position',(or a purpose may exist as well in some cases), and if we had to define ice we should say 'water frozen or solidified in such and such a way', and harmony is 'such and such a blending of high and low'; and similarly in all other cases.
+Since its substance is the cause of each thing's being, we must seek in these differentiae what is the cause of the being of each of these things. Now none of these differentiae is substance, even when coupled with matter, yet it is what is analogous to substance in each case; and as in substances that which is predicated of the matter is the actuality itself, in all other definitions also it is what most resembles full actuality. 
+
+For example, if we had to define a threshold, we should say 'wood or stone in such and such a position', and a house we should define as 'bricks and timbers in such and such a position',(or a purpose may exist as well in some cases), and if we had to define ice we should say 'water frozen or solidified in such and such a way', and harmony is 'such and such a blending of high and low'; and similarly in all other cases.
 
 The actuality or the formula is different when the matter is different; for in some cases it is the composition, in others the mixing, and in others some other of the attributes we have named. And so, of the people who go in for defining, those who define a house as stones, bricks, and timbers are speaking of the potential house, for these are the matter; 
 
 but those who propose 'a receptacle to shelter chattels and living beings', or something of the sort, speak of the actuality. Those who combine both of these speak of the third kind of substance, which is composed of matter and form (for the formula that gives the differentiae seems to be an account of the form or actuality, while that which gives the components is rather an account of the matter); and the same is true of the kind of definitions which Archytas used to accept; they are accounts of the combined form and matter. 
 
-E.g. what is still weather? Absence of motion in a large expanse of air; air is the matter, and absence of motion is the actuality and substance. What is a calm? Smoothness of sea; the material substratum is the sea, and the actuality or shape is smoothness. It is obvious then, from what has been said, what sensible substance is and how it exists-one kind of it as matter, another as form or actuality, while the third kind is that which is composed of these two.
+What is still weather? 
+
+Absence of motion in a large expanse of air; air is the matter, and absence of motion is the actuality and substance. 
+
+What is a calm? 
+
+Smoothness of sea; the material substratum is the sea, and the actuality or shape is smoothness. 
+
+Thus, sensible substance is and how it exists-one kind of it as matter, another as form or actuality, are obvious. The third kind is that which is composed of these two.
 

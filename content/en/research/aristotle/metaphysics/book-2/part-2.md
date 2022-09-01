@@ -1,13 +1,9 @@
 ---
-heading: "Part 2 and 3 of Book 2 of Metaphysics by Aristotle Simplified"
+heading: "Part 2 and 3 of Book 2 "
 title: "Everything is Finite and Not Infinite"
 date: 2020-09-01
 image: "/covers/meta.jpg"
 description: "There is a first principle. The causes of things are neither an infinite series nor infinitely various in kind."
-linkb: /research/aristotle/metaphysics/book-2/part-1
-linkbtext: "Part 1"
-linkf: /research/aristotle/metaphysics/book-3/part-1
-linkftext: "Part 1"
 icon: "/icons/aris.jpg"
 ---
 

@@ -3,10 +3,6 @@ title: "How to Read the Affection Lines"
 date: 2021-11-20
 image: "/photos/objects/hand.jpg"
 description: "There are 2 ways to read the age on lines of Affection"
-linkb: "/research/benham/palmistry/part-2/chapter-09-affection"
-linkbtext: "Affection"
-linkf: /research/benham/palmistry/part-2/chapter-10
-linkftext: "Chapter 10"
 ---
 
 

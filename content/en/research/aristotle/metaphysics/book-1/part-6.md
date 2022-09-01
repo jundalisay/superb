@@ -1,18 +1,14 @@
-+++
-title= "Plato's Philosophy"
-heading= "Part 6 of Metaphysics by Aristotle Simplified"
-author= "Aristotle"
-date= "2015-09-25"
-image= "/covers/meta.jpg"
-description= "Aristotle gives maximum importance to the sight over the other senses"
-linkb= "/research/aristotle/metaphysics/book-1/part-5"
-linkbtext= "Part 5"
-linkf= "/research/aristotle/metaphysics/book-1/part-7"
-linkftext= "Part 7"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Plato's Philosophy"
+heading: "Part 6"
+date: 2015-09-21
+image: "/covers/meta.jpg"
+description: "Aristotle explains the principles of the Plato"
+icon: "/icons/aris.jpg"
+author: Aristotle
+---
+
+
 
 
 Plato followed the Pythagoreans. But it had pecullarities that distinguished it from the philosophy of the Italians. 

@@ -1,29 +1,28 @@
-+++
-title= "What is Essence?"
-heading= "Part 4 and 5 of Book 7"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "The essence of each thing is what is to be propter se."
-linkb= "/research/aristotle/metaphysics/book-7/part-3"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/book-7/part-6"
-linkftext= "Part 6"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "What is Essence?"
+heading: "Part 4 of Book 7"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "The essence of each thing is what is to be propter se"
+icon: "/icons/aris.jpg"
+---
+
 
 What is essence?
 
 The essence of each thing is what is to be propter se. For being you is not being musical, since you are not by your very nature musical. What, then, you are by your very nature is your essence.
 
-"Nor yet is the whole of this the essence of a thing; not that which is propter se as white is to a surface, because being a surface is not identical with being white. But again the combination of both-'being a white surface'-is not the essence of surface, because 'surface' itself is added. The formula, therefore, in which the term itself is not present but its meaning is expressed, this is the formula of the essence of each thing. Therefore if to be a white surface is to be a smooth surface, to be white and to be smooth are one and the same.
+"Nor yet is the whole of this the essence of a thing; not that which is propter se as white is to a surface, because being a surface is not identical with being white. But again the combination of both-'being a white surface'-is not the essence of surface, because 'surface' itself is added. 
+
+The formula, therefore, in which the term itself is not present but its meaning is expressed, this is the formula of the essence of each thing. Therefore if to be a white surface is to be a smooth surface, to be white and to be smooth are one and the same.
 
 "But since there are also compounds answering to the other categories (for there is a substratum for each category, e.g. for quality, quantity, time, place, and motion), we must inquire whether there is a formula of the essence of each of them, i.e. whether to these compounds also there belongs an essence, e.g. 'white man'. Let the compound be denoted by 'cloak'. What is the essence of cloak? 
 
 But this also is not a propter se expression. 
 
-We reply that there are just two ways in which a predicate may fail to be true of a subject propter se, and one of these results from the addition, and the other from the omission, of a determinant. One kind of predicate is not propter se because the term that is being defined is combined with another determinant, e.g. if in defining the essence of white one were to state the formula of white man; the other because in the subject another determinant is combined with that which is expressed in the formula, e.g. if 'cloak' meant 'white man', and one were to define cloak as white; white man is white indeed, but its essence is not to be white.
+We reply that there are just two ways in which a predicate may fail to be true of a subject propter se, and one of these results from the addition, and the other from the omission, of a determinant. 
+
+One kind of predicate is not propter se because the term that is being defined is combined with another determinant, e.g. if in defining the essence of white one were to state the formula of white man; the other because in the subject another determinant is combined with that which is expressed in the formula, e.g. if 'cloak' meant 'white man', and one were to define cloak as white; white man is white indeed, but its essence is not to be white.
 
 "But is being-a-cloak an essence at all? Probably not. For the essence is precisely what something is; but when an attribute is asserted of a subject other than itself, the complex is not precisely what some 'this' is, e.g. white man is not precisely what some 'this' is, since thisness belongs only to substances. Therefore there is an essence only of those things whose formula is a definition. 
 
@@ -31,7 +30,9 @@ But we have a definition not where we have a word and a formula identical in mea
 
 Nothing which is not a species of a genus will have an essence-only species will have it, for these are thought to imply not merely that the subject participates in the attribute and has it as an affection, or has it by accident; but for ever thing else as well, if it has a name, there be a formula of its meaning-viz. that this attribute belongs to this subject; or instead of a simple formula we shall be able to give a more accurate one; but there will be no definition nor essence.
 
-"Or has 'definition', like 'what a thing is', several meanings? 'What a thing is' in one sense means substance and the 'this', in another one or other of the predicates, quantity, quality, and the like. For as 'is' belongs to all things, not however in the same sense, but to one sort of thing primarily and to others in a secondary way, so too 'what a thing is' belongs in the simple sense to substance, but in a limited sense to the other categories. For even of a quality we might ask what it is, so that quality also is a 'what a thing is',-not in the simple sense, however, but just as, in the case of that which is not, some say, emphasizing the linguistic form, that that is which is not is-not is simply, but is non-existent; so too with quality.
+"Or has 'definition', like 'what a thing is', several meanings? 'What a thing is' in one sense means substance and the 'this', in another one or other of the predicates, quantity, quality, and the like. 
+
+For as 'is' belongs to all things, not however in the same sense, but to one sort of thing primarily and to others in a secondary way, so too 'what a thing is' belongs in the simple sense to substance, but in a limited sense to the other categories. For even of a quality we might ask what it is, so that quality also is a 'what a thing is',-not in the simple sense, however, but just as, in the case of that which is not, some say, emphasizing the linguistic form, that that is which is not is-not is simply, but is non-existent; so too with quality.
 
 "We must no doubt inquire how we should express ourselves on each point, but certainly not more than how the facts actually stand. And so now also, since it is evident what language we use, essence will belong, just as 'what a thing is' does, primarily and in the simple sense to substance, and in a secondary way to the other categories also,-not essence in the simple sense, but the essence of a quality or of a quantity. 
 

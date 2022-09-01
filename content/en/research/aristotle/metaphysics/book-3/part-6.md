@@ -1,17 +1,12 @@
-+++
-title= "Part 6"
-heading= "Part 6 of the Simplified Metaphysics by Aristotle Book 3"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "Do forms exist?"
-linkb= "/research/aristotle/metaphysics/book-3/part-5"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-3/part-6"
-linkftext= "Part 6"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 6 of Book 3"
+title: "Do forms exist?"
+date: 2015-09-15
+image: "/covers/meta.jpg"
+description: "Besides perceptible things and the intermediates, we have to look for another class of things -- the Forms which we posit. "
+icon: "/icons/aris.jpg"
+---
+
 
 Besides perceptible things and the intermediates, we have to look for another class of things -- the Forms which we posit. 
 

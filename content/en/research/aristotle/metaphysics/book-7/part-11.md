@@ -1,16 +1,13 @@
-+++
-title= "Part 11"
-heading= "Part 11 of the Simplified Metaphysics by Aristotle"
-image= "/covers/meta.jpg"
-description= "What sort of parts belong to the Form and what sort not to the form, but to the concrete thing?"
-linkb= "/research/aristotle/metaphysics/book-7/part-11"
-linkbtext= "Part 11"
-linkf= "/research/aristotle/metaphysics/book-7/part-14"
-linkftext= "Part 14"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The formula for things"
+heading: "Part 11 of Book 7"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "What sort of parts belong to the Form and what sort not to the form, but to the concrete thing?"
+icon: "/icons/aris.jpg"
+---
+
+
 
 What sort of parts belong to the Form and what sort not to the form, but to the concrete thing?
 

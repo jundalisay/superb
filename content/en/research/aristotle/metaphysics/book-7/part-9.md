@@ -1,22 +1,18 @@
-+++
-title= "Part 9"
-heading= "Part 9 of the Simplified Metaphysics by Aristotle Book 7"
-image= "/covers/meta.jpg"
-description= "Why are some things are produced spontaneously as well as by art?"
-linkb= "/research/aristotle/metaphysics/book-7/part-8"
-linkbtext= "Part 8"
-linkf= "/research/aristotle/metaphysics/book-7/part-10"
-linkftext= "Part 10"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Why Are Some Things Produced Spontaneously?"
+heading: "Part 9 of Book 7"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "Why are some things are produced spontaneously as well as by art?"
+icon: "/icons/aris.jpg"
+---
+
 
 Why are some things are produced spontaneously as well as by art?
 
 e.g. health, while others are not, e.g. a house. 
 
-The reason is that in some cases the matter which governs the production in the making and producing of any work of art, and in which a part of the product is present,-some matter is such as to be set in motion by itself and some is not of this nature, and of the former kind some can move itself in the particular way required, while other matter is incapable of this; for many things can be set in motion by themselves but not in some particular way, e.g. that of dancing. 
+This is because in some cases, the matter which governs the production in the making and producing of any work of art, and in which a part of the product is present,-some matter is such as to be set in motion by itself and some is not of this nature, and of the former kind some can move itself in the particular way required, while other matter is incapable of this; for many things can be set in motion by themselves but not in some particular way, e.g. that of dancing. 
 
 The things, then, whose matter is of this sort, e.g. stones, cannot be moved in the particular way required, except by something else, but in another way they can move themselves-and so it is with fire. Therefore some things will not exist apart from some one who has the art of making them, while others will; for motion will be started by these things which have not the art but can themselves be moved by other things which have not the art or with a motion starting from a part of the product.
 

@@ -1,17 +1,12 @@
-+++
-title= "Question 11= Are being and unity the substances of things?"
-heading= "Part 3 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
-linkb= "/research/aristotle/metaphysics/book-3/part-4"
-linkbtext= "Part 4"
-linkf= "/research/aristotle/metaphysics/book-3/part-5"
-linkftext= "Part 5"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 4b of Book 3"
+title: "Question 11: Are being and unity the substances of things?"
+date: 2015-09-15
+image: "/covers/meta.jpg"
+description: "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
+icon: "/icons/aris.jpg"
+---
+
 
 
 > 11. The hardest and most necessary inquiry for knowledge of the truth is whether being and unity are the substances of things.
@@ -26,11 +21,17 @@ But the natural philosophers take a different line; e.g. Empedocles-as though re
 
 Others say this unity and being, of which things consist and have been made, is fire, and others say it is air. A similar view is expressed by those who make the elements more than one; for these also must say that unity and being are precisely all the things which they say are principles.
 
-"(A) If we do not suppose unity and being to be substances, it follows that none of the other universals is a substance; for these are most universal of all, and if there is no unity itself or being-itself, there will scarcely be in any other case anything apart from what are called the individuals. Further, if unity is not a substance, evidently number also will not exist as an entity separate from the individual things; for number is units, and the unit is precisely a certain kind of one.
+- a. If we do not suppose unity and being to be substances, it follows that none of the other universals is a substance
 
-"But (B) if there is a unity-itself and a being itself, unity and being must be their substance; for it is not something else that is predicated universally of the things that are and are one, but just unity and being. But if there is to be a being-itself and a unity-itself, there is much difficulty in seeing how there will be anything else besides these,-I mean, how things will be more than one in number. For what is different from being does not exist, so that it necessarily follows, according to the argument of Parmenides, that all things that are are one and this is being.
+for these are most universal of all, and if there is no unity itself or being-itself, there will scarcely be in any other case anything apart from what are called the individuals. Further, if unity is not a substance, evidently number also will not exist as an entity separate from the individual things; for number is units, and the unit is precisely a certain kind of one.
 
-"There are objections to both views. For whether unity is not a substance or there is a unity-itself, number cannot be a substance. We have already said why this result follows if unity is not a substance; and if it is, the same difficulty arises as arose with regard to being. For whence is there to be another one besides unity-itself? It must be not-one; but all things are either one or many, and of the many each is one.
+- b. If there is a unity-itself and a being itself, unity and being must be their substance
+
+for it is not something else that is predicated universally of the things that are and are one, but just unity and being. But if there is to be a being-itself and a unity-itself, there is much difficulty in seeing how there will be anything else besides these,-I mean, how things will be more than one in number. For what is different from being does not exist, so that it necessarily follows, according to the argument of Parmenides, that all things that are are one and this is being.
+
+There are objections to both views.
+
+For whether unity is not a substance or there is a unity-itself, number cannot be a substance. We have already said why this result follows if unity is not a substance; and if it is, the same difficulty arises as arose with regard to being. For whence is there to be another one besides unity-itself? It must be not-one; but all things are either one or many, and of the many each is one.
 
 If unity is indivisible, according to Zeno's postulate, it will be nothing. For that which neither when added makes a thing greater nor when subtracted makes it less, he asserts to have no being, evidently assuming that whatever has being is a spatial magnitude. And if it is a magnitude, it is corporeal; for the corporeal has being in every dimension, while the other objects of mathematics, e.g. a plane or a line, added in one way will increase what they are added to, but in another way will not do so, and a point or a unit does so in no way. 
 

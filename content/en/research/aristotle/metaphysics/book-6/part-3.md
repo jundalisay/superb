@@ -1,17 +1,12 @@
-+++
-title= "Accidental Being"
-heading= "Part 3 of Book 6"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "There are principles and causes which are generable and destructible without ever being in course of being generated or destroyed."
-linkb= "/research/aristotle/metaphysics/book-6/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-6/part-2"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Accidental Being"
+heading: "Part 3 of Book 6"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "There are principles and causes which are generable and destructible without ever being in course of being generated or destroyed"
+icon: "/icons/aris.jpg"
+---
+
 
 There are principles and causes which are generable and destructible without ever being in course of being generated or destroyed. 
 

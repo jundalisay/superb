@@ -1,20 +1,28 @@
-+++
-title= "What is movement?"
-# heading= "Part 1 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-30"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "It is hard to grasp what movement is, for it must be classed either under privation or under potency or under absolute actuality"
-linkb= "/research/aristotle/metaphysics/book-11/part-8"
-linkbtext= "Part 8"
-linkf= "/research/aristotle/metaphysics/book-11/part-10"
-linkftext= "Part 10"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Part 3"
+title: "What is Movement?"
+date: 2015-09-15
+image: "/covers/meta.jpg"
+description: "Philosophy treats of being qua being universally and not in respect of a part of it, and 'being' has many senses and is not used in one only"
+icon: "/icons/aris.jpg"
+---
 
-"Some things are only actually, some potentially, some potentially and actually, what they are, viz. in one case a particular reality, in another, characterized by a particular quantity, or the like. There is no movement apart from things; for change is always according to the categories of being, and there is nothing common to these and in no one category. 
 
-But each of the categories belongs to all its subjects in either of two ways (e.g. 'this-ness'-for one kind of it is 'positive form', and the other is 'privation'; and as regards quality one kind is 'white' and the other 'black', and as regards quantity one kind is 'complete' and the other 'incomplete', and as regards spatial movement one is 'upwards' and the other 'downwards', or one thing is 'light' and another 'heavy'); so that there are as many kinds of movement and change as of being. 
+Some things are only actually what they are. 
+
+Some are only potentially what they are. 
+
+Some are potentially and actually what they are. 
+- In one case, it is a particular reality.
+- In another, it is characterized by a particular quantity, or the like. 
+
+There is no movement apart from things. This is because:
+- change is always according to the categories of being, and
+- there is nothing common to these and in no one category. 
+
+But each of the categories belongs to all its subjects in either of 2 ways (e.g. 'this-ness'-for one kind of it is 'positive form', and the other is 'privation'
+
+As regards quality one kind is 'white' and the other 'black', and as regards quantity one kind is 'complete' and the other 'incomplete', and as regards spatial movement one is 'upwards' and the other 'downwards', or one thing is 'light' and another 'heavy'); so that there are as many kinds of movement and change as of being. 
 
 There being a distinction in each class of things between the potential and the completely real, I call the actuality of the potential as such, movement. That what we say is true, is plain from the following facts. 
 

@@ -1,16 +1,13 @@
 ---
-heading: "Part 7 of Metaphysics by Aristotle Simplified"
-title: "The One as the Cause"
-linkTitle: Part 7
-date: 2015-09-24
+title: "Plato's Philosophy"
+heading: "Part 7"
+date: 2015-09-18
 image: "/covers/meta.jpg"
 description: "Aristotle gives maximum importance to the sight over the other senses"
-linkb: /research/aristotle/metaphysics/book-1/part-6
-linkbtext: "Part 6"
-linkf: /research/aristotle/metaphysics/book-1/part-8
-linkftext: "Part 8"
 icon: "/icons/aris.jpg"
+author: Aristotle
 ---
+
 
 
 None of the early philosophers who speak about 'principle' and 'cause' mentioned any principle except those which have been distinguished in our work on nature. 

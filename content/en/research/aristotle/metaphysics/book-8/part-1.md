@@ -1,5 +1,5 @@
 ---
-heading: "Part 1 Book 8 of Metaphysics by Aristotle Simplified"
+heading: "Part 1 Book 8 "
 title: "What is inside matter?"
 date: 2020-09-04
 image: "/covers/meta.jpg"

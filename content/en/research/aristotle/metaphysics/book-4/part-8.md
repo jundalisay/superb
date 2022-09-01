@@ -1,17 +1,13 @@
-+++
-title= "The contradictions of Heraclitus"
-heading= "Part 8 of the Simplified Metaphysics by Aristotle"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "The one-sided theories which some people express about all things cannot be valid."
-linkb= "/research/aristotle/metaphysics/book-4/part-7"
-linkbtext= "Part 7"
-linkf= "/research/aristotle/metaphysics/book-5/part-01"
-linkftext= "Part 1"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 8 of Book 4"
+title: "The Contradictions of Heraclitus"
+date: 2020-09-27
+image: "/covers/meta.jpg"
+description: "The one-sided theories which some people express about all things cannot be valid."
+icon: "/icons/aris.jpg"
+---
+
+
 
 The one-sided theories which some people express about all things cannot be valid.
 

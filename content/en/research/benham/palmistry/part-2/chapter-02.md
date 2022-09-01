@@ -1,13 +1,10 @@
 ---
-heading: "Chapter 2 Part 2 of The Laws of Scientific Palm Reading Simplified"
+heading: "Chapter 2 Part 2 "
 title: "The Electric Current"
 description: "No two hands are exactly alike because no two people are exactly alike in character, temperament, or in any other way"
-date: 2020-01-17
+# date: 2020-01-17
+date: 2020-01-28
 image: "/photos/objects/hand.jpg"
-linkb: "/research/benham/palmistry/part-2/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/benham/palmistry/part-2/chapter-02b"
-linkftext: "Chapter 2b"
 ---
 
 

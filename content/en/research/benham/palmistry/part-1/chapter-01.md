@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 1 Part 1 of The Laws of Scientific Palm Reading Simplified"
+heading: "Chapter 1 Part 1"
 title: "The 7 Mount Types"
 description: "The science of Palmistry is founded on the shape of the hand"
-date: 2020-01-22
+date: 2020-01-30
 image: "/photos/objects/hand.jpg"
-linkb: "/research/benham/palmistry/part-1/"
-linkbtext: "Chapter 9"
-linkf: "/research/benham/palmistry/part-1/chapter-02"
-linkftext: "Chapter 10b"
 ---
 
 
