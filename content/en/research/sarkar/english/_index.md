@@ -1,5 +1,5 @@
 ---
 title: "English"
-image: "/covers/discoursesw.jpg"
+image: "/covers/discourses.jpg"
 date: 2020-10-31
 ---

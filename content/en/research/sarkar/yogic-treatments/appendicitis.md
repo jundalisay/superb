@@ -1,14 +1,10 @@
 ---
 title: "Natural Remedies for Appendicitis"
-heading: "Yogic Treatments and Natural Remedies"
-date: 2022-01-31
+# heading: "Yogic Treatments and Natural Remedies"
+date: 2022-01-26
 author: "PR Sarkar"
 description: "Swelling of the appendix and simultaneous unbearable pain in the abdominal region; fear of eating in spite of appetite or desire for food"
 image: "/photos/med/appendix.jpg"
-linkb: "/research/sarkar/yogic-treatments/acidity"
-linkbtext: "yogic-treatments"
-linkf: "/research/sarkar/yogic-treatments/asthma"
-linkftext: "asthma"
 icon: "/flags/in.png"
 aliases:
   /research/sarkar/yogic-treatments/appendicitis

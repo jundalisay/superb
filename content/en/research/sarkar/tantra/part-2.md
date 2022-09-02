@@ -1,16 +1,11 @@
 ---
 title: "The Vedas"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
+heading: "Part 2"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "The original Rgvedic civilization belonged, in spirit and language, to the non-Indian Aryans. "
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
-linkftext: "Index"
 icon: "/icons/sarkar.jpg"
 ---
-
 
 
 ## Rgveda 

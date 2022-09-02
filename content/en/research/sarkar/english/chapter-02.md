@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 2"
 title: "Articles"
-date: 2022-01-31
+date: 2022-01-27
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 

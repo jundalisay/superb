@@ -1,14 +1,12 @@
-+++
-title= "Causes of Deafness"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "Deafness is not a disease by itself, unless it is congenital. It is an after-effect or reaction to some other ailment. Therefore one may find innumerable reasons behind deafness."
-image= "/photos/econ/singer.jpg"
-linkb= "/research/sarkar/yogic-treatments/cancer"
-linkbtext= "cancer"
-linkf= "/research/sarkar/yogic-treatments/diabetes"
-linkftext= "Diabetes"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "The Causes of Deafness"
+date: 2022-01-18
+author: "PR Sarkar"
+description: "Deafness is not a disease by itself, unless it is congenital. It is an after-effect or reaction to some other ailment. Therefore one may find innumerable reasons behind deafness"
+image: "/photos/med/cancer.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 
 ## Symptoms
@@ -31,3 +29,4 @@ Deafness is not a disease by itself, unless it is congenital. It is an after-eff
 7. A disturbance in the váyu or kapha obstructs the normal functioning of the auditory nerve-fibres and creates deafness.
 8. Swelling of the inner ear or accumulation of pus inside the ear may cause deafness.
 Treatment, diet, and dos and don’ts= By treating the disease that the deafness originates from gradually, the deafness will be cured.
+

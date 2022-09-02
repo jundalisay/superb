@@ -1,14 +1,12 @@
-+++
-title= "Natural Remedies for Gonorrhoea"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "This disease is spread by a bacteria called 'gonococcus'. It originates with people who are habitually unrestrained and unclean. Those who come in physical contact with such people also contract the disease."
-image= "/photos/med/syph.jpg"
-linkb= "/research/sarkar/yogic-treatments/goiter"
-linkbtext= "Goiter"
-linkf= "/research/sarkar/yogic-treatments/haemorrhoids"
-linkftext= "haemorrhoids"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies for Gonorrhoea"
+date: 2022-12-30
+author: "PR Sarkar"
+description: "This disease is spread by a bacteria called 'gonococcus'. It originates with people who are habitually unrestrained and unclean. Those who come in physical contact with such people also contract the disease."
+image: "/photos/med/syph.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 
 This disease has no name in ancient Sanskrit. Because of its many similarities with urethritis (meha), this disease has been called “prameha” in Bengali. 

@@ -7,6 +7,8 @@ date: 2022-01-25
 image: "/photos/buy.jpg"
 description: "Primary and Secondary Arbitrage are incentives to value creation and circulation in Pantrynomics"
 author: Dalisay
+aliases:
+  /social/economics/principles/arbitrage
 ---
 
 

@@ -1,12 +1,12 @@
-+++
-title= "Natural Remedies for Elephantiasis"
-description= "This is the swelling of the legs, sometimes it attacks the arms too. The legs will grow to resemble those of elephants"
-image= "/photos/med/elephantiasis.jpg"
-linkb= "/research/sarkar/yogic-treatments/eczema"
-linkbtext= "Eczema"
-linkf= "/research/sarkar/yogic-treatments/emaciation"
-linkftext= "Emaciation"
-+++
+---
+title: "Natural Remedies for Elephantiasis"
+date: 2022-01-06
+author: "PR Sarkar"
+description: "This is the swelling of the legs, sometimes it attacks the arms too. The legs will grow to resemble those of elephants"
+image: "/photos/med/elephantiasis.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 ## Symptoms
 

@@ -1,14 +1,12 @@
-+++
-title= "Natural Remedies for Leucorrhoea"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "If a woman suffers from anaemia for whatever reason, the organs of the body become incapable of supplying an adequate amount of blood to the uterus"
-image= "/photos/med/leucorrhea.jpg"
-linkb= "/research/sarkar/yogic-treatments/leucoderma"
-linkbtext= "leucoderma"
-linkf= "/research/sarkar/yogic-treatments/menstruation"
-linkftext= "menstruation"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Diet for Leucorrhoea"
+date: 2022-01-31
+author: "PR Sarkar"
+description: "If a woman suffers from anaemia for whatever reason, the organs of the body become incapable of supplying an adequate amount of blood to the uterus"
+image: "/photos/med/leucorrhea.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 
 ## Symptoms

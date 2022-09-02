@@ -1,14 +1,12 @@
-+++
-title= "Natural Remedies and Diet for Heart Disease"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "Heart diesease is caused by the weakening of the heart from an increased acidity of the blood or increased fat in the body"
-image= "/photos/med/heartattack.jpg"
-linkb= "/research/sarkar/yogic-treatments/haemorrhoids"
-linkbtext= "Haemorrhoids"
-linkf= "/research/sarkar/yogic-treatments/hernia"
-linkftext= "hernia"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies and Diet for Heart Disease"
+date: 2022-12-26
+author: "PR Sarkar"
+description: "Heart diesease is caused by the weakening of the heart from an increased acidity of the blood or increased fat in the body"
+image: "/photos/med/heartattack.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 
 ## Symptoms

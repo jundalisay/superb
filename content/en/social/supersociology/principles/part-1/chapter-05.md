@@ -15,6 +15,7 @@ author: Juan
 icon: /icons/ss.png
 aliases:
   /social/law-social-cycles/
+  /social/supersociology/principles/law-social-cycles/
 ---
 
 

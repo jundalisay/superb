@@ -1,14 +1,10 @@
 ---
 title: "Subtilification (Pratisaiṋcara)"
 # and Manah
-heading: "Chapter 2 "
+heading: "Chapter 2"
 date: 2022-01-26
-description: ""
+description: "The essence of all physical and metaphysical diversities is the Supreme One – the noumenal cause of this phenomenal world."
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/chapter-01e"
-linkbtext: "Chapter 1e"
-linkf: "/research/sarkar/idea/chapter-2b"
-linkftext: "Chapter 2b"
 icon: "/icons/sarkar.jpg"
 ---
 

@@ -1,14 +1,13 @@
-+++
-title= "Gall Stones"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "If the impurities are too great in proportion to the chyle and the blood, especially if the acids are too great, these things are carried with the bile into the gallbladder in very large quantity"
-image= "/photos/med/kidney.jpg"
-linkb= "/research/sarkar/yogic-treatments/emaciation"
-linkbtext= "emaciation"
-linkf= "/research/sarkar/yogic-treatments/goiter"
-linkftext= "goiter"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies for Gall Stones"
+date: 2022-01-02
+author: "PR Sarkar"
+description: "If the impurities are too great in proportion to the chyle and the blood, especially if the acids are too great, these things are carried with the bile into the gallbladder in very large quantity"
+image: "/photos/med/kidney.jpg"
+icon: "/icons/yoga.jpg"
+---
+
+
 
 
 ## Symptoms

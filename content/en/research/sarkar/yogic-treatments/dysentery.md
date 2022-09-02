@@ -1,12 +1,13 @@
-+++
-title= "Natural Remedies for Dysentery"
-description= "Dysentery happens when undigested half-cooked or uncooked food fails to get digested and come out as loose movement."
-image= "/photos/med/dys.jpg"
-linkb= "/research/sarkar/yogic-treatments/displaced-uterus"
-linkbtext= "yogic-treatments"
-linkf= "/research/sarkar/yogic-treatments/dysmenorrhoea"
-linkftext= "dysmenorrhoea"
-+++
+---
+title: "Natural Remedies for Dysentery"
+date: 2022-01-12
+author: "PR Sarkar"
+description: "Dysentery happens when undigested half-cooked or uncooked food fails to get digested and come out as loose movement"
+image: "/photos/med/dysm.jpg"
+icon: "/icons/yoga.jpg"
+---
+
+
 
 ## Symptoms
 

@@ -1,17 +1,12 @@
 ---
 heading: "Chapter 1"
 title: "Parts Of Speech"
-date: 2022-01-31
+date: 2022-01-29
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
-
 
 
 Usually, English grammar has eight parts of speech:
@@ -115,7 +110,9 @@ Here running is a verbal adjective, qualifying the noun panorama. [The equivalen
 
 The word syntax(2) denotes the particular style of composition according to grammatical rules. That is, syntax means how and where the different parts of speech (noun, pronoun, adjective, verb, adverb, preposition, conjunction, interjection) are to be used in a sentence.
 
-(1) The above sections on Verbal Noun and Verbal Adjective are taken from the section on "Kriyá" ("Verb") in the author's Shabda Cayaniká ("A Collection of Words") Part 10, 1987. Accompanying them is the following definition of gerund (which departs from conventional definitions): "When a verb qualifies another verb, or a noun, or a noun-equivalent, and has a special idea behind it, it is called a gerund. But [the equivalent form] is treated as an adjective in Bengali, and has the suffix -d́a (ড). Example of gerund: 'Listen to the gurgling sound of the swift-flowing river.'" –Eds.
+(1) The above sections on Verbal Noun and Verbal Adjective are taken from the section on "Kriyá" ("Verb") in the author's Shabda Cayaniká ("A Collection of Words") Part 10, 1987. Accompanying them is the following definition of gerund (which departs from conventional definitions): 
+
+"When a verb qualifies another verb, or a noun, or a noun-equivalent, and has a special idea behind it, it is called a gerund. But [the equivalent form] is treated as an adjective in Bengali, and has the suffix -d́a (ড). Example of gerund: 'Listen to the gurgling sound of the swift-flowing river.'" –Eds.
 
 (2) There is great confusion among scholars about the origin of the word syntax. Some say that the word is of Latin origin, others are of the opinion that it is of Greek origin, some maintain that it is of Ottoman Turkish origin, while, according to others, it is of mixed Semitic and Greek origin.
 

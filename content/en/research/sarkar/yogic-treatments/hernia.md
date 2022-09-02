@@ -1,14 +1,12 @@
-+++
-title= "Healing Diet for Hernia"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "Femoral hernia happens if the intenstine pushes out through the hole in the canal of nerve fibres and the muscular network controlling the legs"
-image= "/covers/yogic.jpg"
-linkb= "/research/sarkar/yogic-treatments/heart-disease"
-linkbtext= "Heart Disease"
-linkf= "/research/sarkar/yogic-treatments/high-blood-pressure"
-linkftext= "high blood"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Healing Diet for Hernia"
+date: 2022-12-24
+author: "PR Sarkar"
+description: "Femoral hernia happens if the intenstine pushes out through the hole in the canal of nerve fibres and the muscular network controlling the legs"
+image: "/covers/yogic.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 
 ## Symptoms

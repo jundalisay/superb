@@ -1,12 +1,11 @@
 ---
 title: "Natural Remedies for Diabetes"
+date: 2022-01-16
+author: "PR Sarkar"
 description: "Diabetes is a disease of liver and pancreas. Care has to be taken to keep these organs in a healthy state, and to do so patients must select food that will keep their bowels clear, yet which is nutritious and easily digestible"
 image: "/photos/med/diabetes.jpg"
-linkb: "/research/sarkar/yogic-treatments/deafness"
-linkbtext: "Deafness"
-linkf: "/research/sarkar/yogic-treatments/displaced-uterus"
-linkftext: "displaced uterus"
 ---
+
 
 ## Symptoms
 

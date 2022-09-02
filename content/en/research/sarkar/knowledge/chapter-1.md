@@ -1,13 +1,9 @@
 ---
 title: "The Faculty of Knowledge"
-heading: "Chapter 1 of Yoga Psychology Simplified"
-date: 2021-11-20
+heading: "Chapter 1"
+date: 2021-11-30
 image: "/covers/discourses.jpg"
-description: ""
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
-linkftext: "Index"
+description: "In the mechanical sphere, knowing occurs with the perception of special types of reflections and refractions."
 icon: "/icons/sarkar.jpg"
 ---
 

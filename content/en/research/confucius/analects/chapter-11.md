@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 11b of The Analects Simplified"
+heading: "Chapter 11b"
 title: "Confucius in Private and Official Life"
 description: "In his home life, he was not formal. Whenever he met with a person in mourning, even though it were a familiar acquaintance, he would be certain to change his manner"
 date: 2020-01-19
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-10c"
-linkbtext: "Chapter 10c"
-linkf: "/research/confucius/analects/chapter-12"
-linkftext: "Chapter 12"
 ---
 
 

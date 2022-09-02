@@ -1,12 +1,14 @@
-+++
-title= "Natural Remedies for Syphilis"
-description= "When the disease erupts in a body which has already been suffering from vitiation of the pitta, it is called 'pitta syphilis'. Its sores are yellowish in colour, very ugly and dirty in appearance, and usually generate a sharp burning sensation."
-image= "/photos/med/syph.jpg"
-linkb= "/research/sarkar/yogic-treatments/rheumatism"
-linkbtext= "rheumatism"
-linkf= "/research/sarkar/yogic-treatments/tuberculosis"
-linkftext= "Tuberculosis"
-+++
+---
+title: "Natural Remedies for Syphilis"
+date: 2022-01-31
+author: "PR Sarkar"
+description: "When the disease erupts in a body which has already been suffering from vitiation of the pitta, it is called 'pitta syphilis'. Its sores are yellowish in colour, very ugly and dirty in appearance, and usually generate a sharp burning sensation"
+image: "/photos/med/syph.jpg"
+icon: "/icons/yoga.jpg"
+---
+
+
+
 
 This disease entered India a few centuries ago it from Europe. Many think that it first originated in dogs, and through contact with them the human body got infected.
 

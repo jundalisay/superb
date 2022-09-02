@@ -1,12 +1,13 @@
-+++
-title= "Natural Treatment for Emaciation"
-description= "When due to poverty parents are unable to provide enough milk for their children and consequently they are fed rice and pulse or plain barley from their early childhood, their digestive organs and livers in particular become very weak, and such children normally turn out emaciated"
-image= "/photos/social/poverty.jpg" 
-linkb= "/research/sarkar/yogic-treatments/elephantiasis"
-linkbtext= "Elephantiasis"
-linkf= "/research/sarkar/yogic-treatments/gall-stones"
-linkftext= "gall stones"
-+++
+---
+title: "Natural Remedies for Emaciation"
+date: 2022-01-04
+author: "PR Sarkar"
+description: "When due to poverty parents are unable to provide enough milk for their children and consequently they are fed rice and pulse or plain barley from their early childhood, their digestive organs and livers in particular become very weak, and such children normally turn out emaciated"
+image: "/photos/med/elephantiasis.jpg"
+icon: "/icons/yoga.jpg"
+---
+
+
 
 ## Causes
 

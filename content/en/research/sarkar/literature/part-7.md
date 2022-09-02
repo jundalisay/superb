@@ -1,13 +1,9 @@
 ---
 title: "The Critics and Patrons"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
-date: 2021-11-20
+heading: "Part 7"
+date: 2021-11-14
 image: "/covers/discourses.jpg"
 description: "Popular Language"
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
-linkftext: "Index"
 icon: "/icons/sarkar.jpg"
 ---
 
@@ -42,7 +38,9 @@ It is to avoid this situation that today’s writers have started knocking at th
 
 Taking advantages of their indigence, powerful persons have exploited the litterateurs in various ways and this has taken place from very ancient times. In those days even the kings and emperors’ nurtured court poets, giving them gifts of tax free properties, and in exchange they bought their souls. The talented litterateurs or artists frequently had to do uncongenial jobs under circumstantial pressure for the amusement of their patrons. To satisfy the whims of their licentious patrons they had to compose obscene poems and model obscene statues and images.
 
-To make their patrons’ enemies look contemptible, they had to besmirch their names with scandals and calumnies. To extol the dress, colour, family, caste, class, and ancestry of their patrons they had to resort to lies and fraud, and cite the relevations of the gods in support. The same condition has continued even today. With a very few exceptions, most of the litterateurs belong to the lower stratum of society. In spite of their desire to work independently, most of them have pawned themselves, from the grey matters of their brains to the very tips of their fingers – to particular people and organizations. Even those who appear from their writings to be bold and spirited, have under circumstantial pressure become the play-things of the political parties.
+To make their patrons’ enemies look contemptible, they had to besmirch their names with scandals and calumnies. To extol the dress, colour, family, caste, class, and ancestry of their patrons they had to resort to lies and fraud, and cite the relevations of the gods in support. The same condition has continued even today. With a very few exceptions, most of the litterateurs belong to the lower stratum of society.
+
+In spite of their desire to work independently, most of them have pawned themselves, from the grey matters of their brains to the very tips of their fingers – to particular people and organizations. Even those who appear from their writings to be bold and spirited, have under circumstantial pressure become the play-things of the political parties.
 
 In contrast with the olden days, the different states of the world have allotted quite a lot of awards for the litterateurs these days. But that is where the danger lies. Any government – whether monarchical, republican or autocratic – is run according to a particular ideology, and so there is little chance for the government to suddenly become impartial while bestowing awards on the litterateurs. Naturally it will judge the merits and demerits of the litterateurs through the bias of its own party, and consequently the litterateurs will be compelled to sacrifice their ideals to serve their bellies. 
 

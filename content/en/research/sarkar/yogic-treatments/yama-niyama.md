@@ -1,11 +1,12 @@
-+++
-title= "Yama and Niyama"
-heading= "Hindu Morals"
-description= "Hindu Morals is rooted in Yama and Niyama"
-type= "featured"
-image= "/photos/meta/buddhism.jpg"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Yama and Niyama"
+date: 2022-01-31
+author: "PR Sarkar"
+type: featured
+description: "Hindu Morals are rooted in Yama and Niyama"
+image: "/photos/meta/buddhism.jpg"
+icon: "/icons/yoga.jpg"
+---
 
 
 ## Yama

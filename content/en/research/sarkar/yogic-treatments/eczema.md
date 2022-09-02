@@ -1,13 +1,12 @@
-+++
-title= "Natural Remedies for Eczema"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "When the chyle, blood, flesh and fat, these four elements, all become disturbed, eczema appears. That is why this disease is worse and more harmful than leucoderma, or white leprosy"
-linkb= "/research/sarkar/yogic-treatments/dysmenorrhoea"
-linkbtext= "dysmenorrhoea"
-linkf= "/research/sarkar/yogic-treatments/elephantiasis"
-linkftext= "Elephantiasis"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies for Eczema"
+date: 2022-01-08
+author: "PR Sarkar"
+description: "When the chyle, blood, flesh and fat, these four elements, all become disturbed, eczema appears. That is why this disease is worse and more harmful than leucoderma, or white leprosy"
+image: "/photos/med/ecz.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 
 ## Symptoms

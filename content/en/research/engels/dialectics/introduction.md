@@ -1,8 +1,5 @@
 ---
 title: THe History of European Science 
-# Introduction
-# heading: 
-# Dialectics of Nature
 date: 2022-02-01
 image: "/covers/nature.jpg"
 description: Dialectics of Nature

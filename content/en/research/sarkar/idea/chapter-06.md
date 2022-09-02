@@ -4,10 +4,6 @@ heading: "Chapter 6"
 date: 2022-01-18
 description: "In subtlification at the different stages of the unit mind, the Macrocosmic Nucleus"
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/chapter-05"
-linkbtext: "Chapter 5"
-linkf: "/research/sarkar/idea/chapter-06b"
-linkftext: "Chapter 6b"
 icon: "/icons/sarkar.jpg"
 ---
 

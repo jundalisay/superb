@@ -5,10 +5,6 @@ date: 2022-01-09
 author: "PR Sarkar"
 description: "The availability of the minimum essentialities of life plays a vital part not only in achieving world brotherhood, but also in the development of human personality"
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/chapter-11"
-linkbtext: "Chapter 11"
-linkf: "/research/sarkar/idea/"
-linkftext: "Index"
 icon: "/icons/sarkar.jpg"
 ---
 

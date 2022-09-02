@@ -1,13 +1,9 @@
 ---
 title: "Buddhist and Hindu Tantra"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
-date: 2021-11-20
+heading: "Part 4"
+date: 2021-11-07
 image: "/covers/discourses.jpg"
 description: "It is absolutely wrong to make a distinction between Hindu Tantra and Buddhist Tantra."
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
-linkftext: "Index"
 icon: "/icons/sarkar.jpg"
 ---
 

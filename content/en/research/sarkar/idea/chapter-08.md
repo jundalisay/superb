@@ -4,12 +4,11 @@ heading: "Chapter 4 "
 date: 2022-01-13
 description: "Originally 'Mind, Heart Chakra and Propensities (Vrtti)'"
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/chapter-07b"
-linkbtext: "Chapter 3"
-linkf: "/research/sarkar/idea/chapter-09"
-linkftext: "Chapter 5"
 icon: "/icons/sarkar.jpg"
+aliases:
+  /research/indian/idea/chapter-08b
 ---
+
 
 
 ## The Creation of the Universe

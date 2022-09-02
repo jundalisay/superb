@@ -1,14 +1,11 @@
-+++
-title= "Natural Remedies for Asthma"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "The Weakness of the Heart Chakra causes certain glands to weaken. These leads to the weakening of the fine bronchial tubes in the lungs be full of phlegm or mucus. This then obstructs the air."
-image= "/photos/med/asthma.jpg"
-linkb= "/research/sarkar/yogic-treatments/acidity"
-linkbtext= "Acidity"
-linkf= "/research/sarkar/yogic-treatments/dysentery"
-linkftext= "dysentery"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies for Asthma"
+date: 2022-01-24
+author: "PR Sarkar"
+description: "The Weakness of the Heart Chakra causes certain glands to weaken. These leads to the weakening of the fine bronchial tubes in the lungs be full of phlegm or mucus. This then obstructs the air"
+image: "/photos/med/appendix.jpg"
+icon: "/icons/yoga.jpg"
+---
 
 
 ## Symptoms

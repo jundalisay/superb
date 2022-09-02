@@ -4,10 +4,6 @@ heading: "Chapter 4 "
 date: 2022-01-21
 description: "The Heart Chakra is the most vital part of the physical and psycho-physical body"
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/chapter-04"
-linkbtext: "Chapter 4"
-linkf: "/research/sarkar/idea/chapter-04c"
-linkftext: "Chapter 4c"
 icon: "/icons/sarkar.jpg"
 ---
 

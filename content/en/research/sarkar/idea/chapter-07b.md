@@ -4,10 +4,6 @@ heading: "Chapter 7b "
 date: 2022-01-14
 description: "Saḿskára is the effect of action in the past stages. It gives momentum to the unit mind"
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/chapter-07"
-linkbtext: "Chapter 7"
-linkf: "/research/sarkar/idea/chapter-07c"
-linkftext: "Chapter 7c"
 icon: "/icons/sarkar.jpg"
 ---
 

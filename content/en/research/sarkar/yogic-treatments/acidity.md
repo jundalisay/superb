@@ -1,14 +1,10 @@
 ---
 title: "Natural Remedies for Acidity"
 heading: "Yogic Treatments and Natural Remedies"
-date: 2022-01-31
+date: 2022-01-28
 author: "PR Sarkar"
 description: "Undigested food and undigested acids create poisonous gas which cause a burning sensation in the stomach. When they rise up to the chest they cause heartburn. When they rise further they cause dizziness"
 image: "/photos/med/heartburn.jpg"
-linkb: "/research/sarkar/yogic-treatments"
-linkbtext: "yogic-treatments"
-linkf: "/research/sarkar/yogic-treatments/appendicitis/"
-linkftext: "appendicitis"
 icon: "/flags/in.png"
 aliases:
   /research/sarkar/yogic-treatments/acidity

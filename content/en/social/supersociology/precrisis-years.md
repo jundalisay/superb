@@ -5,10 +5,6 @@ description: "Our models predict a Great Stagflation beginning in 2020, to be sp
 date: 2016-01-01
 image: "/photos/econ/crash.jpg"
 author: Juan
-linkb: "/social/economics/skyscraper-curse"
-linkbtext: skyscraper-curse
-linkf: "/social/economics/principles/four-laws-of-value"
-linkftext: 4 laws-of-value
 aliases:
   /social/economics/precrisis-years/
   /social/precrisis-years/

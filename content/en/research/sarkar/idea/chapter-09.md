@@ -4,12 +4,9 @@ heading: "Chapter 9"
 date: 2022-01-13
 description: "Complete development of the integrated personality is essential for perfect spiritual realization of the human being."
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/chapter-08b"
-linkbtext: "Chapter 8b"
-linkf: "/research/sarkar/idea/chapter-10"
-linkftext: "Chapter 10"
 icon: "/icons/sarkar.jpg"
 ---
+
 
 <!-- Psycho-Spiritual Parallelism -->
 

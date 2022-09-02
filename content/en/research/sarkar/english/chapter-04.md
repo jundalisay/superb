@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 4"
 title: "Plural Forms Of Nouns"
-date: 2022-01-31
+date: 2022-01-24
 author: "PR Sarkar"
-description: ""
+description: "When a word denotes only one object, it is singular in number. When it denotes more than one object, it is plural in number."
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 

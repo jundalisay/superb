@@ -4,10 +4,6 @@ heading: Chapter 1e
 date: 2022-01-27
 description: "In Sanskrit, vital energy is always plural because it is a collection of 10 important forces (váyus) with 5 working internally, and 5 working externally of the physical structure"
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/chapter-01d"
-linkbtext: "Chapter 1d"
-linkf: "/research/sarkar/idea/chapter-02"
-linkftext: "Chapter 2"
 icon: "/icons/sarkar.jpg"
 ---
 

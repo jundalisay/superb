@@ -1,13 +1,9 @@
 ---
 title: "Popular Language"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
-date: 2021-11-20
+heading: "Part 4"
+date: 2021-11-23
 image: "/covers/discourses.jpg"
 description: "Popular Language"
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
-linkftext: "Index"
 icon: "/icons/sarkar.jpg"
 ---
 

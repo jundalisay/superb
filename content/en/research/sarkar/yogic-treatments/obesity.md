@@ -1,14 +1,12 @@
-+++
-title= "Natural Diet for Obesity Patients"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "When fat abnormally accumulates beyond the ordinary requirement of the body, it causes all the organs of the body to become incapacitated"
-image= "/photos/med/obesity.jpg"
-linkb= "/research/sarkar/yogic-treatments/menstruation"
-linkbtext= "menstruation"
-linkf= "/research/sarkar/yogic-treatments/paralysis"
-linkftext= "paralysis"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Diet for Obesity Patients"
+date: 2022-01-31
+author: "PR Sarkar"
+description: "When fat abnormally accumulates beyond the ordinary requirement of the body, it causes all the organs of the body to become incapacitated"
+image: "/photos/med/obesity.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 
 ## Symptoms

@@ -1,11 +1,13 @@
 ---
-title: Dialectics
+title: The General Nature of Dialectics
 heading: Part 2
 date: 2022-01-30
 image: "/covers/nature.jpg"
 description: Dialectics of Nature
 author: "Frederick Engels"
 icon: /icons/engels.png
+aliases:
+  /research/engels/dialectics/2
 ---
 
 
@@ -32,29 +34,73 @@ This is his Doctrine of Essence and is the most important part of his Logic
 This is the fundamental law for the construction of the whole system
 
 
-His mistake lies in the fact that these laws are foisted on nature and history as laws of thought, and not deduced from them. This is the source of the whole forced and often outrageous treatment; the universe, willy-nilly, is made out to be arranged in accordance with a system of thought which itself is only the product of a definite stage of evolution of human thought. 
+Hegel's mistake lies in the fact that these laws are foisted on nature and history as laws of thought, and not deduced from them. 
+
+This is the source of the whole forced and often outrageous treatment. The universe, willy-nilly, is made out to be arranged in accordance with a system of thought which itself is only the product of a definite stage of evolution of human thought. 
 
 If we turn the thing round, then everything becomes simple, and the dialectical laws that look so extremely mysterious in idealist philosophy at once become simple and clear as noonday.
 
 Moreover, anyone who is even only slightly acquainted with his Hegel will be aware that in hundreds of passages Hegel is capable of giving the most striking individual illustrations from nature and history of the dialectical laws.
 
-We are not concerned here with writing a handbook of dialectics, but only with showing that the dialectical laws are really laws of development of nature, and therefore are valid also for theoretical natural science. Hence we cannot go into the inner interconnection of these laws with one another.
+My aim is not to write a handbook of dialectics, but to show that <!-- We are not concerned here with  but only with showing that --> the dialectical laws are really laws of development of nature. Thus, they are valid also for theoretical natural science. 
 
-1. The law of the transformation of quantity into quality and vice versa. For our purpose, we could express this by saying that in nature, in a manner exactly fixed for each individual case, qualitative changes can only occur by the quantitative addition or subtraction of matter or motion (so-called energy).
+Hence we cannot go into the inner interconnection of these laws with one another.
 
-All qualitative differences in nature rest on differences of chemical composition or on different quantities or forms of motion (energy) or, as is almost always the case, on both. Hence it is impossible to alter the quality of a body without addition or subtraction of matter or motion, i.e. without quantitative alteration of the body concerned. In this form, therefore, Hegel's mysterious principle appears not only quite rational but even rather obvious.
+1. The law of the transformation of quantity into quality and vice versa. 
 
-It is surely hardly necessary to point out that the various allotropic and aggregational states of bodies, because they depend on various groupings of the molecules, depend on greater or lesser quantities of motion communicated to the bodies.
+In nature, in a manner exactly fixed for each individual case, qualitative changes can only occur by the quantitative change of matter or motion (so-called energy).
 
-But what is the position in regard to change of form of motion, or so-called energy? If we change heat into mechanical motion or vice versa, is not the quality altered while the quantity remains the same? Quite correct. But it is with change of form of motion as with Heine's vices; anyone can be virtuous by himself, for vices two are always necessary. Change of form of motion is always a process that takes place between at least two bodies, of which one loses a definite quantity of motion of one quality (e.g. heat), while the other gains a corresponding quantity of motion of another quality (mechanical motion, electricity, chemical decomposition). Here, therefore, quantity and quality mutually correspond to each other. So far it has not been found possible to convert motion from one form to another inside a single isolated body.
+All qualitative differences in nature rest on:
+- the differences of chemical composition or
+- on the different quantities or forms of motion (energy) or
+- both <!-- , as is almost always the case, on both -->. 
 
-We are concerned here in the first place with nonliving bodies; the same law holds for living bodies, but it operates under very complex conditions and at present quantitative measurement is still often impossible for us.
+Hence, it is impossible to alter the quality of a body without changing matter or motion, i.e. without quantitative alteration of the body concerned. 
 
-If we imagine any non-living body cut up into smaller and smaller portions, at first no qualitative change occurs. But this has a limit: if we succeed, as by evaporation, in obtaining the separate molecules in the free state, then it is true that we can usually divide these still further, yet only with a complete change of quality. The molecule is decomposed into its separate atoms, which have quite different properties from those of the molecule. In the case of molecules composed of various chemical elements, atoms or molecules of these elements themselves make their appearance in the place of the compound molecule; in the case of molecules of elements, the free atoms appear, which exert quite distinct qualitative effects: the free atoms of nascent oxygen are easily able to effect what the atoms of atmospheric oxygen, bound together in the molecule, can never achieve.
+In this way, Hegel's mysterious principle is quite rational and even obvious.
 
-But the molecule is also qualitatively different from the mass of the body to which it belongs. It can carry out movements independently of this mass and while the latter remains apparently at rest, e.g. heat oscillations; by means of a change of position and of connection with neighbouring molecules it can change the body into an allotrope or a different state of aggregation.
+We do not need to point out the various allotropic and aggregational states of bodies. This is because they depend on:
+- various groupings of the molecules
+- greater or lesser quantities of motion communicated to the bodies.
 
-Thus we see that the purely quantitative operation of division has a limit at which it becomes transformed into a qualitative difference: the mass consists solely of molecules, but it is something essentially different from the molecule, just as the latter is different from the atom. It is this difference that is the basis for the separation of mechanics, as the science of heavenly and terrestrial masses, from physics, as the mechanics of the molecule, and from chemistry, as the physics of the atom.
+But what is the position in regard to change of form of motion, or so-called energy?
+
+If we change heat into mechanical motion or vice versa, the quality is altered while the quantity remains the same. 
+
+But it is with change of form of motion as with Heine's vices; anyone can be virtuous by himself, for vices two are always necessary. 
+
+Change of form of motion is always a process that takes place between at least 2 bodies, of which one loses a definite quantity of motion of one quality (e.g. heat), while the other gains a corresponding quantity of motion of another quality (mechanical motion, electricity, chemical decomposition). 
+
+Here, therefore, quantity and quality mutually correspond to each other. 
+
+So far, it is impossible to convert motion from one form to another inside a single isolated nonliving body.
+
+The same law holds for living bodies, but it operates under very complex conditions that cannot be quantitatively measured.
+
+If we imagine any non-living body cut up into smaller portions, at first no qualitative change occurs. 
+
+But this has a limit. 
+
+We can usually divide a body still further, but only with a complete change of quality. 
+
+An example is the evaporation of water where we obtain the separate molecules in the free state. 
+
+The molecule is decomposed into its separate atoms. 
+- These have different properties from those of the molecule. 
+
+In the case of molecules composed of various chemical elements, atoms or molecules of these elements themselves make their appearance in the place of the compound molecule.
+
+The molecules of elements are made up of free atoms which exert distinct qualitative effects. The free atoms of nascent oxygen can do what the atoms of atmospheric oxygen, bound together in the molecule, can never achieve.
+
+But the molecule is also qualitatively different from the mass of the body to which it belongs. 
+- It can carry out movements independently of this mass and while the latter remains apparently at rest, e.g. heat oscillations. 
+
+Through a change of position and of connection with neighbouring molecules, it can change the body into an allotrope or a different state of aggregation.
+
+Thus, the purely *quantitative* operation of division has a limit. 
+- Upon reaching that limit, it becomes transformed into a *qualitative* difference. 
+
+The mass consists solely of molecules, but it is something essentially different from the molecule, just as the latter is different from the atom. It is this difference that is the basis for the separation of mechanics, as the science of heavenly and terrestrial masses, from physics, as the mechanics of the molecule, and from chemistry, as the physics of the atom.
 
 In mechanics, no qualities occur; at most, states such as equilibrium, motion, potential energy, which all depend on measurable transference of motion and are themselves capable of quantitative expression. Hence, in so far as qualitative change takes place here, it is determined by a corresponding quantitative change.
 

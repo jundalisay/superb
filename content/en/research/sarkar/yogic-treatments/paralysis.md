@@ -1,14 +1,12 @@
-+++
-title= "Natural Diet for Paralysis Patients"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "If due to high blood pressure or some other cause any portion of the brain’s nervous system becomes damaged, the part of the body controlled by that portion of the nervous system also becomes inoperative. This inoperativeness of a particular part of the body is called paralysis or palsy"
-image= "/photos/med/rheuma2.jpg"
-linkb= "/research/sarkar/yogic-treatments/obesity"
-linkbtext= "obesity"
-linkf= "/research/sarkar/yogic-treatments/premature-ejaculation"
-linkftext= "Premature Ejaculation"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Natural Remedies for Paralysis Patients"
+date: 2022-01-31
+author: "PR Sarkar"
+description: "If due to high blood pressure or some other cause any portion of the brain’s nervous system becomes damaged, the part of the body controlled by that portion of the nervous system also becomes inoperative. This inoperativeness of a particular part of the body is called paralysis or palsy"
+image: "/photos/med/rheuma2.jpg"
+icon: "/icons/yoga.jpg"
+---
+
 
 
 The brain is the apparent controller of the body and its organs. With the help of afferent and efferent nerves, the brain receives impulses from and transmits them to all parts of the body. 

@@ -5,10 +5,6 @@ heading: "Chapter 4 "
 date: 2022-01-22
 description: "By division and decimation, solids get metamorphosed into subtler layers. This creates the unit mind."
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/chapter-03b"
-linkbtext: "Chapter 3b"
-linkf: "/research/sarkar/idea/chapter-04b"
-linkftext: "Chapter 4b"
 icon: "/icons/sarkar.jpg"
 ---
 

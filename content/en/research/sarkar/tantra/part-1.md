@@ -1,13 +1,9 @@
 ---
 title: "Tantra's Influence on Indo-Aryan Civilization"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
-date: 2021-11-20
+heading: "Part 1"
+date: 2021-11-30
 image: "/covers/discourses.jpg"
 description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
-linkftext: "Index"
 icon: "/icons/sarkar.jpg"
 ---
 

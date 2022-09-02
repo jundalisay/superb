@@ -1,13 +1,9 @@
 ---
 title: "Tantra in Bengal"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
-date: 2021-11-20
+heading: "Part 3"
+date: 2021-11-10
 image: "/covers/discourses.jpg"
 description: "Tantra flourished in Bengal due to the pervasive intermixture of Dravidian and Mongolian blood."
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
-linkftext: "Index"
 icon: "/icons/sarkar.jpg"
 ---
 

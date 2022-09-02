@@ -1,13 +1,9 @@
 ---
 title: "Art and Literature"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
-date: 2021-11-20
+heading: "Part 2"
+date: 2021-11-28
 image: "/covers/discourses.jpg"
-description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
-linkftext: "Index"
+description: "Most of Sáhitya today is mere composition, not literature"
 icon: "/icons/sarkar.jpg"
 ---
 

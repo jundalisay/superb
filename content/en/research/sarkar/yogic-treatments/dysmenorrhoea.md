@@ -1,12 +1,13 @@
-+++
-title= "Natural Remedies for Dysmenorrhoea (Cramps)"
-description= "Women who are adverse to physical labour, and who generally are from rich or upper middle-class families, are found suffering from this disease"
-image= "/photos/med/dysm.jpg"
-linkb= "/research/sarkar/yogic-treatments/dysentery"
-linkbtext= "dysentery"
-linkf= "/research/sarkar/yogic-treatments/eczema"
-linkftext= "Eczema"
-+++
+---
+title: "Natural Remedies for Dysmenorrhoea (Cramps)"
+date: 2022-01-10
+author: "PR Sarkar"
+description: "Women who are adverse to physical labour, and who generally are from rich or upper middle-class families, are found suffering from this disease"
+image: "/photos/med/dysm.jpg"
+icon: "/icons/yoga.jpg"
+---
+
+
 
 ## Symptoms
 

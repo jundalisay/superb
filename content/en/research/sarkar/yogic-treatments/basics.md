@@ -1,15 +1,11 @@
-+++
-title= "Basics"
-#heading= "Natural Treatments and Herbal Remedies"
-description= "Proper health needs proper water drinking, sexual restraint, use of mud packs, sunbathing, fresh air, fasting, and mental purity"
-image= "/photos/med/sunbathe.jpg"
-type= "featured"
-linkb= "/research/sarkar/yogic-treatments/"
-linkbtext= "Index"
-linkf= "/research/sarkar/yogic-treatments/acidity"
-linkftext= "Acidity"
-icon = "/icons/yoga.jpg"
-+++
+---
+title: "Basic Health Practices"
+date: 2022-01-31
+author: "PR Sarkar"
+description: "Proper health needs proper water drinking, sexual restraint, use of mud packs, sunbathing, fresh air, fasting, and mental purity"
+image: "/photos/med/appendix.jpg"
+icon: "/icons/yoga.jpg"
+---
 
 
 Proper health needs proper water drinking, sexual restraint, use of mud packs, sunbathing, fresh air, fasting, and mental purity
