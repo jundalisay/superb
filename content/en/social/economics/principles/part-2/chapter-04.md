@@ -5,7 +5,7 @@ title: "Primary Arbitrage"
 date: 2022-01-25
 # date: 2017-04-26
 image: "/photos/buy.jpg"
-description: "Primary and Secondary Arbitrage are incentives to value creation and circulation in Pantrynomics"
+description: "Primary and Secondary Arbitrage are incentives to value creation and circulation in Superphysics"
 author: Dalisay
 aliases:
   /social/economics/principles/arbitrage
@@ -33,7 +33,7 @@ The invention of money sped up the exchange but shifted the power to market valu
 
 Economics uses only secondary arbitrage which enriches only the retailers: speculators, brokers, stock markets, job agencies, outsourcers, and the financial system. 
 
-Pantrynomics, on the other hand, uses both primary and secondary arbitrage to enrich both the retailers and the artists, producers, farmers, workers, and freelancers themselves. Pantrynomics tries to discover the hidden value of everyone in order to increase their primary arbitrage and increase the real productivity and value in society.
+Superphysics, on the other hand, uses both primary and secondary arbitrage to enrich both the retailers and the artists, producers, farmers, workers, and freelancers themselves. Superphysics tries to discover the hidden value of everyone in order to increase their primary arbitrage and increase the real productivity and value in society.
 
 This is done by having two ways of exchange:
 1. Points-based: this emphasizes primary arbitrage

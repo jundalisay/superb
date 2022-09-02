@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 10"
-title: "The Governing or Militant Class"
+title: "The Governing or Warrior Class"
 # date: 2022-03-27
 date: 2022-12-20
 image: /covers/econsp.jpg

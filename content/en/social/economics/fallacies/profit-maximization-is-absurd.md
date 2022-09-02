@@ -5,10 +5,6 @@ date: 2015-07-09
 image: /graphics/econ/profit.jpg
 type: "featured"
 description: "Profit Maximization is Absurd just as Wage Maximization and Tax Maximization are"
-linkb: "/social/economics/why-qe-failed"
-linkbtext: Why QE failed
-linkf: "/social/economics/principles/consumption-motive"
-linkftext: consumption-motive
 author: Juan
 icon: /icons/pantry.png
 aliases: 
@@ -130,7 +126,7 @@ In the current context, this equates to breaking up big corporations, banning me
 
 To truly solve current economic problems, an alternative science to Economics must be created. Without it, any 'economic reform' will merely be a workaround that cannot produce real, lasting solutions. 
 
-Pantrynomics is a complete economic science derived entirely from Smith's Political Economy which is ultimately based on Hume's Metaphysics or Science of Man. Included in this science is the clear definition of perfect liberty* as <b>dharmic or taoic liberty</b> which puts emphasis on society and real happiness or lasting peace, instead of giving too much focus on the self (ego) and its temporary pleasures. 
+Superphysics is a complete economic science derived entirely from Smith's Political Economy which is ultimately based on Hume's Metaphysics or Science of Man. Included in this science is the clear definition of perfect liberty* as <b>dharmic or taoic liberty</b> which puts emphasis on society and real happiness or lasting peace, instead of giving too much focus on the self (ego) and its temporary pleasures. 
 
 This science is then used to create a pantrynomic system tasked to implement this liberty and prevent the problems of the old one.
 
@@ -156,6 +152,6 @@ Such are the unfortunate effects of all the regulations of the mercantile system
 
 
 {{< mess >}}
-2/2017 added reference to Pantrynomics
+2/2017 added reference to Superphysics
 6/2021 replaced social liberty with dharmic or taoic liberty
 {{< /mess >}}

@@ -4,10 +4,6 @@ heading: How Keynes Messed-up Things
 date: 2021-01-15
 image: /covers/keynes.jpg
 description: We explain the different notions of interest of Ricardo, Marshall, Pigou, Von Mises, and Keynes
-linkb: /social/economics/fallacies/iron-law
-linkbtext: iron law
-linkf: /social/economics/fallacies/circular-flow
-linkftext: circular-flow of value
 author: Juan
 icon: /icons/pantry.png
 ---
@@ -51,7 +47,7 @@ From here, we can explain the affinities and oppositions of different beliefs an
 - Classical economics is the polar opposite of Marginalism which enshrines math and science. Xenophon and Smith have no equations at all, which makes them unacceptable as the basis of Economic 'science'* which currently has econometrics, derivative equations, and stochastic calculus
 - Keynesian economics** and Marxism are the opposite of the Austrian economics of Von Mises, Hayek, and Lbertarianism
 
-> *Pantrynomics understands all these definitions, but is based on Classical ones since it views the society as a [metaphysical organism](/social/social-networkism). The mathematical analyses will be done by machine learning. Economist will predictably say that Smith's invisible hand is pseudo-science, and so we put Pantrynomics in its own field as Dialectics, which is above Science but under Metaphysics or Philosophy
+> *Superphysics understands all these definitions, but is based on Classical ones since it views the society as a [metaphysical organism](/social/supersociology/principles/part-1/chapter-01). The mathematical analyses will be done by machine learning. Economist will predictably say that Smith's invisible hand is pseudo-science, and so we put Superphysics in its own field as Dialectics, which is above Science but under Metaphysics or Philosophy
 
 
 > **Update Nov 2021: Japan's Liberal Democratic party is similar to the Chinese Communist Party in the sense that they both have a single-party rule. It's no wonder that Japan implemented Keynes' plan fully

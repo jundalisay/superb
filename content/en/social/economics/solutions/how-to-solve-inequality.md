@@ -4,10 +4,6 @@ heading: "Taxation and Structural Reform to Protect the Lower Class from the Wea
 date: 2018-12-30
 image: /photos/social/poverty.jpg
 description : "We explain Socrates' solution to inequality"
-linkf: "/social/economics/solutions/how-to-prevent-stagnation"
-linkftext: "how-to-prevent-stagnation"
-linkb: "/social/economics/solutions/bur"
-linkbtext: "Basic Universal Revenue"
 icon: /icons/pantry.png
 aliases:
   /solutions/pantrynomics/how-to-solve-inequality    

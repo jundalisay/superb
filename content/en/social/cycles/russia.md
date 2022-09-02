@@ -1,14 +1,10 @@
 ---
 title: "How to Fix Russia (and Ukraine)"
-heading: "Negative Militant"
+heading: "Negative Warrior"
 # date: 2021-07-27
 date: 2022-03-05
 image: "/flags/ru.png"
 description: "The social cycles of Russia last 15 years"
-linkb: "/social/cycles/philippines"
-linkbtext: "Philippines"
-linkf: "/social/cycles/united-states"
-linkftext: "USA"
 author: Juan
 icon: "/flags/ru.png"
 aliases:
@@ -24,7 +20,7 @@ comments:
 
 Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
-Negative Militant | 15 | 5
+Negative Warrior | 15 | 5
 
 
 

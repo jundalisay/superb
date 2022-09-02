@@ -4,10 +4,6 @@ heading: "Trusting the Merchants too much"
 date: 2015-01-01
 image: /avatars/smithstatue.jpg
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
-linkb: /social/economics/
-linkbtext: "Pantrynomics Articles"
-linkf: /social/economics/
-linkftext: "Index"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

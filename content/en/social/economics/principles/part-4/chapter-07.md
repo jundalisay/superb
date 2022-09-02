@@ -6,10 +6,6 @@ date: 2022-01-01
 image: "/graphics/econ/dcti.jpg"
 description: "The Demand Capital Trade Industry Tool is for Troubleshooting Economies according to the Fourth Law of Value"
 type: "featured"
-linkb: /social/economics/principles/part-4
-linkbtext: "Part 4"
-linkf: /social/economics/principles/part-4
-linkftext: "Part 4"
 author: Dalisay
 icon: /icons/pantry.png
 aliases:
@@ -34,7 +30,7 @@ According to Adam Smith, a crisis begins when a country's industry does not matc
 {{< /q >}}
 
 
-Pantrynomics has three tools* to check the health of an economy:
+Superphysics has three tools* to check the health of an economy:
 
 1. [Purchasing Power or NDP](/social/economics/solutions/gdp) - this checks the First and Second Laws of Value
 2. [Economic Table](/social/economics/solutions/modern-economic-table) - this checks the Third and Fourth Laws of Value
@@ -59,7 +55,7 @@ The DCTI Tool can prevent crises by checking a society's Demand, Capital, Trade,
 ![DCTI Tool](/graphics/econ/dcti.jpg)
 <!-- ![](https://sorasystem.sirv.com/charts/dcti/val.png) -->
 
-It will go with Pool Clearing to filter out currency attacks. It can prevent capital flight by establishing a gold standard after the industries of all member countries are known.  Unlike Basic Universal Revenue and the Economic Table which can only be used with Pantrynomics, the DCTI (as well as the Grain Index and Purchasing Power) can be used by Economics.
+It will go with Pool Clearing to filter out currency attacks. It can prevent capital flight by establishing a gold standard after the industries of all member countries are known.  Unlike Basic Universal Revenue and the Economic Table which can only be used with Superphysics, the DCTI (as well as the Grain Index and Purchasing Power) can be used by Economics.
 
 It will go with Indicators to check whether the economy is going with [the Eagle](/social/economics/principles/eagle). Is a society growing sustainably as it moves forward, giving revenue to wage-earners, profit-earners, rent-tax-earners, and donation earners? Or is most of the revenue going to banks, government agencies, and tech companies while starving the rest?
 

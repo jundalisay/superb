@@ -1,13 +1,9 @@
-+++
-title= "Appendix A"
-date= 2015-09-30
-image= "/covers/lectures.jpg"
-description= "Governments are based on Utility and Authority. The social contract theory is a fallacy invented in Britain"
-linkb= "/research/say/treatise"
-linkbtext= "Index"
-linkf= "/research/say/treatise"
-linkftext= "Index"
-+++
+---
+title: "Appendix A"
+date: 2015-09-30
+image: "/covers/economy.jpg"
+description: "Governments are based on Utility and Authority. The social contract theory is a fallacy invented in Britain"
+---
 
 A Table, Showing the Result of Value Lent to the State.
 
@@ -28,10 +24,8 @@ I. yielding revenue consumable by the proprietor himself
 
 II. yielding nothing; being lend to, and consumed by the state revenue
 
-III. yielding revenue transferred to, and consumed by, the lend-
-ers of Portion II
-These three portions yield but two of revenue; portion II be-
-ing absolutely extinct.
+III. yielding revenue transferred to, and consumed by, the lenders of Portion II
+These three portions yield but two of revenue; portion II being absolutely extinct.
 IV. yielding revenue applicable to any purpose.
 On the other hand, if she persevere in borrowing to pay the
 interest of the former loans, that interest and with it taxation
@@ -53,6 +47,7 @@ France
 Britain and
 Ireland. 24,304,000
 United States 13,200,000
+
 A treasure does not always contribute to the political security
 of its possessors. It rather invites attack, and very seldom is
 faithfully applied to the purpose for which it was destined.
@@ -1774,6 +1769,7 @@ Debt on 5th January, 1832,
 Equal to
 3,756,802,723 dollars.
 American Editor
+
 111. On the National Debt of Great Britain. 8vo., Edinburgh,
 1813.
 112. In England and the United States they are not nearly so
@@ -1786,6 +1782,7 @@ tinuance of peace enable her to square her income with
 her annual expenditure, inclusive of the interest of her debt,
 it would still afford no relief out merely arrest the further
 progress of the evil.
+
 114. Economy in the national expenditure is the only thing
 that can mitigate the pressure of taxation upon the British
 nation; yet were economy enforced, how is that system of

@@ -4,12 +4,8 @@ title: "Producer's & Consumer's Surplus and Deadweight Loss"
 # date: 2019-06-17
 date: 2022-01-23
 image: "/charts/econ/prod.png"
-description : "The Producer’s & Consumer’s Surplus and Deadweight Loss in Economics is very different from the ones of Pantrynomics"
-linkb: /social/economics/fallacies/inelastic-supply-curve
-linkbtext: inelastic-supply-sophistry
-linkf: "/social/economics/fallacies/steady-state-economy"
-linkftext: steady-state-fallacy
-heading: Economics vs Pantrynomics
+description : "The Producer’s & Consumer’s Surplus and Deadweight Loss in Economics is very different from the ones of Superphysics"
+heading: Economics vs Superphysics
 author: Juan
 icon: /icons/pantry.png
 aliases:
@@ -19,7 +15,7 @@ aliases:
   /articles/economics/producers-consumers-surplus-deadweight-loss  
 ---
 
-<!-- Update March 2020: Since 2016, our new science has been warning of a global economic crisis to occur in 2019. This is how we predicted it. The crisis is now here, so we will pause Pantrynomics, as it has already done its part and we have already built the new economic system called Tao to solve it (whether people will use it is another question that is beyond us). We will shift focus on a solution for Covid via its sister science which we call Medical Superphysics to disrupt Western Medicine and create Medical Singularity just as Pantrynomics aims to disrupt Economics with Economic Singularity. -->
+<!-- Update March 2020: Since 2016, our new science has been warning of a global economic crisis to occur in 2019. This is how we predicted it. The crisis is now here, so we will pause Superphysics, as it has already done its part and we have already built the new economic system called Tao to solve it (whether people will use it is another question that is beyond us). We will shift focus on a solution for Covid via its sister science which we call Medical Superphysics to disrupt Western Medicine and create Medical Singularity just as Superphysics aims to disrupt Economics with Economic Singularity. -->
 
 According to Economics, a market dis-equilibrium creates three inefficiencies:
 - [Producer’s Surplus](https://www.investopedia.com/terms/p/producer_surplus.asp) — defined as “the difference between how much of a good the producer is willing to supply versus how much he receives,” or the gain the producer receives
@@ -37,7 +33,7 @@ However, no one seems to have a name for the area on the right side of equilibri
 
 To eliminate this unreal area, we will show how these ‘surpluses’ naturally manifest in our pantrynomic supply and demand curves below:
 
-![Supply and Demand of Pantrynomics](/charts/econ/prod.png)
+![Supply and Demand of Superphysics](/charts/econ/prod.png)
 
 
 This shows the following:
@@ -50,7 +46,7 @@ This shows the following:
 
 - A man-made environmental limit* checks overconsumption just as a man-made price ceiling discourages underconsumption. Such a limit might raise prices by preventing economies of scale. But such prices can be later reduced by technological advancement. From this view, <b>we can say that an environmental limit is a win-win: it preserves nature, while advancing technology</b>.
 
-> *Update Sept 2021: The man-made environmental limit is one of the key features of Pantrynomic systems that sets it apart from economic systems. The latter does not put a check on profits, consumption and the subsequent exploitation. This makes the people lazy in finding solutions to scarcity. They keep on pushing for growth and will only look for solutions when the karma of their activities are in their face as global warming disasters such as supertyphoons, droughts, floods, and zoonotic viruses like Covid. In contrast, Pantrynomics pre-empts those problems by constraining profits and exploitation artificially beforehand. This forces minds to think of solutions and technologies to improve life despite those limits. 
+> *Update Sept 2021: The man-made environmental limit is one of the key features of Pantrynomic systems that sets it apart from economic systems. The latter does not put a check on profits, consumption and the subsequent exploitation. This makes the people lazy in finding solutions to scarcity. They keep on pushing for growth and will only look for solutions when the karma of their activities are in their face as global warming disasters such as supertyphoons, droughts, floods, and zoonotic viruses like Covid. In contrast, Superphysics pre-empts those problems by constraining profits and exploitation artificially beforehand. This forces minds to think of solutions and technologies to improve life despite those limits. 
 
 
 From this new curve, we can get more realistic information:
@@ -67,7 +63,7 @@ When an overpriced product cannot be sold, its price is slashed, creating a barg
 
 <!-- Perfect competition with new technologies creates a permanent drop in prices as a permanent consumer surplus as seen in Android, while new technologies in a monopoly creates a producer surplus as seen in Apple -->
 
-Our curves also show slight moral similarities and differences with those of Economics. Whereas Economics sees producer’s and consumer’s surplus as bad, Pantrynomics sees consumer’s surplus as initially good since it is never bad to supply goods and services to all.
+Our curves also show slight moral similarities and differences with those of Economics. Whereas Economics sees producer’s and consumer’s surplus as bad, Superphysics sees consumer’s surplus as initially good since it is never bad to supply goods and services to all.
 
 {{< quote ava="smith" >}}
 Consumption is the sole end and purpose of all production.. the interest of the producer ought to be attended to only so far as it may be necessary for promoting that of the consumer. The maxim is so perfectly self-evident that it would be absurd to attempt to prove it. But in the mercantile system the interest of the consumer is almost constantly sacrificed to that of the producer; it seems to consider production, and not consumption, as the ultimate end and object of all industry and commerce. 
@@ -75,7 +71,7 @@ Consumption is the sole end and purpose of all production.. the interest of the 
 {{< /quote >}}
 
 
-However, oversupply hurts the environment in the long run, and so we also see excessive consumer surplus and consumerism as bad. Therefore, while the goal of both Pantrynomics and Economics is balance, Pantrynomics ensures that supplies are delivered to everyone as they are needed, and not in excess, since it factors in the environment in its models through environmental limits* (unlike Economics). This real-time delivery and regulation system is then implemented by [ISAIAH](/superphysics/solutions/isaiah), which is our implementation of Socrates’ Guardians.
+However, oversupply hurts the environment in the long run, and so we also see excessive consumer surplus and consumerism as bad. Therefore, while the goal of both Superphysics and Economics is balance, Superphysics ensures that supplies are delivered to everyone as they are needed, and not in excess, since it factors in the environment in its models through environmental limits* (unlike Economics). This real-time delivery and regulation system is then implemented by [ISAIAH](/superphysics/solutions/isaiah), which is our implementation of Socrates’ Guardians.
 
 > ![Poor Orangutan on a tree](https://sorasystem.sirv.com/photos/orang.jpg) *Plants and animals are also users of natural resources and so their natural habitat must be generally off limits to humans to preserve their lifestyle, just as we do not allow lions and tigers into our habitat. (Update March 2020: [The destruction of natural habitats unleashes viruses](https://www.scientificamerican.com/article/destroyed-habitat-creates-the-perfect-conditions-for-coronavirus-to-emerge/) that destroy humans, so this Pantrynomic policy would help ensure the existence of the human species, something that is beyond the scope of Economics)
 
@@ -119,7 +115,7 @@ A single father (supplier) with two children (demanders) normally supplies his f
 - After a month, the lockdown is eased and the father is able to buy a vehicle (material progress) to be able to bring more food with less effort, which then leads to spoiled kids. 
 - Poor families have limited space as tiny houses (environmental limits) preventing the accumulation of food, which reduces the probability of having spoiled kids.
 
-Pantrynomics uses its own [Effort theory of value](/social/economics/principles/effort-theory-of-value) instead of Marginal pricing theory of Economics Through this tool, the policymakers of a society, whether a father of a house, or a prime minister of a country, can choose the right policy from their arsenal in order to create a desired outcome. Do they increase limits to prevent externalities? Or do they subsidize technology and reduce limits to create progress and growth?
+Superphysics uses its own [Effort theory of value](/social/economics/principles/effort-theory-of-value) instead of Marginal pricing theory of Economics Through this tool, the policymakers of a society, whether a father of a house, or a prime minister of a country, can choose the right policy from their arsenal in order to create a desired outcome. Do they increase limits to prevent externalities? Or do they subsidize technology and reduce limits to create progress and growth?
 
 
 ## Singularized Demand and Supply, with Deadweight loss and Material gain

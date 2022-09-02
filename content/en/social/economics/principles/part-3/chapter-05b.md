@@ -5,10 +5,6 @@ date: 2021-12-25
 # date: 2019-04-17
 image: /graphics/econ/yield.jpg
 description : "People think that an inverted yield curve is the sole indicator of a coming crisis. In reality there are many."
-linkb: /social/economics/import-substitution-vs-export-promotion
-linkbtext: "Pantrynomics Articles"
-linkf: /social/economics/barter-disadvantages-addressed
-linkftext: "Barter disadvantages addressed"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
@@ -66,7 +62,7 @@ The new thing is the rise of the [3-month yield](https://www.cnbc.com/quotes/?sy
 
 The problem is that people think that an inverted yield curve is the sole indicator. In reality there are many. 
 
-Pantrynomics proposes [clearing funds](/research/schumacher/pool-clearing/part-1) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
+Superphysics proposes [clearing funds](/research/schumacher/pool-clearing/part-1) as an alternative to bonds. These funnel money into to financing exports and imports as the main enabler of Adam Smith's proposed free trade system. In this way, foreign commerce will no longer need letters of credit nor trade financing because all purchases are paid cash in advance. 
 
 People can have money to pay in cash because their local purchases can be transacted by points (as [basic universal revenue](/social/economics/solutions/bur)) or barter.
 

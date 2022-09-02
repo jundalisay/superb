@@ -6,10 +6,6 @@ title: "The Economic Table"
 date: 2018-06-03
 image: /covers/econsp.jpg
 description: "Quantitative easing failed because of 2 mistakes of the banking system. Those mistakes are caused by the profit maximization doctrine of Neoclassical economics"
-linkb: /social/economics/principles/part-3/chapter-07c
-linkbtext: "Chapter 7c"
-linkf: /social/economics/principles/part-3/chapter-09
-linkftext: "Chapter 9"
 author: Dalisay
 aliases: 
   /social/economics/principles/interest
@@ -21,8 +17,7 @@ In the earlier chapters, we explained that the flaws in money:
 
 We solved the shortcomings of money by introducing moneyless points which allow trade or donations in kind without needing immediate bilateral exchange. 
 
-The Modern Economic Table is 
-
+<!-- The Modern Economic Table is  -->
 
 
 ## Interest Rates and the GR Model
@@ -250,7 +245,7 @@ This inequality manifests as:
 
 ## The Solutions
 
-Because Marginalism created two problems, one for wholesale money and another for retail money, Pantrynomics as Classical Economics also has two solutions:
+Because Marginalism created two problems, one for wholesale money and another for retail money, Superphysics as Classical Economics also has two solutions:
 
 1. A modified version of [Pool Clearing from EF Schumacher](/research/schumacher/pool-clearing) which uses Clearing Funds to replace the finance-moneybag. The money in Clearing Funds go directly to manufacturers, producers, and service providers. Its interest rates are determined by the GR model
 

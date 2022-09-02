@@ -3,10 +3,6 @@ title: "Law of Supply and Demand Fallacy"
 date: 2019-04-07
 image: /graphics/econ/eq.jpg
 description : "We expose the fallacy of the law of supply and demand of Microeconomics by applying Socratic Dialectics"
-linkb: "/social/economics/fallacies/equilibrium-fallacy-2"
-linkbtext: "equilibrium-fallacy"
-linkf: "/social/economics/fallacies/inelastic-supply-curve"
-linkftext: inelastic-supply-curve-sophistry
 heading: "Mankiw is wrong"
 author: Juan
 icon: /icons/pantry.png
@@ -14,6 +10,7 @@ aliases:
     /articles/taonomics/law-of-supply-demand-microeconomics-fallacy
     /fallacies/economics/law-supply-demand-fallacy
 ---
+
 
 {{< me date="April 2021" >}}
 [The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics
@@ -40,7 +37,7 @@ This re-phrased question does not impose 'equilibrium,' since it is a mercantile
 _ | Economist | Pantrynomist
 --- | --- | ---
 Chart | The supply for coffee mugs was "perfectly inelastic" | The price of the coffee mugs during the previous month was an introductory price. The price afterwards is the natural price (a concept that is not present in economics)
-Short Answer | ![Economics Supply](https://sorasystem.sirv.com/charts/demsup/mug.png) | ![Pantrynomics Supply](https://sorasystem.sirv.com/charts/demsup/intro.png)
+Short Answer | ![Economics Supply](https://sorasystem.sirv.com/charts/demsup/mug.png) | ![Superphysics Supply](https://sorasystem.sirv.com/charts/demsup/intro.png)
 Long Answer | There is a single supplier of coffee mugs in the whole society. People have no choice but to buy from it at whatever price it wants, so the demand curve shifted to the right. Demand increased but supply was totally inelastic. | There are many suppliers of coffee mugs. A certain kind of mug, made from a limited material, proved to be a hit among consumers, so the supply curve for it shifted upwards.*  Based on the only information in the question, and assuming it is a realistic scenario (why would students be taught unrealistic scenarios?), we can deduce that the previous price for the special coffee mug was an introductory price (lower than usual) in order to entice buyers (four mugs were sold at $3 each). The price was raised the next month as demand rose and the mug-makers had to compete for the limited material. Thus, four new mugs could be sold at $6 each, with a $3 rise in cost. Production was not increased because the raw material was limited.
 
 

@@ -3,7 +3,7 @@ title: "Alternatives to Money as Store of Value"
 heading: "Grain-based Valuation"
 date: 2019-10-17
 image: "/photos/objects/money.jpg"
-description : "Economics uses money both as a store of value and tool of trade. Pantrynomics uses three tools--money, points, and barter--in order to have more avenues of wealth creation and less chance of circulation blockage. This then makes financial crises and debt slavery obsolete"
+description : "Economics uses money both as a store of value and tool of trade. Superphysics uses three tools--money, points, and barter--in order to have more avenues of wealth creation and less chance of circulation blockage. This then makes financial crises and debt slavery obsolete"
 youtube: "OV1JHTiDdkQ"
 author: Juan
 icon: /icons/pantry.png
@@ -12,7 +12,7 @@ aliases:
   /pantrynomics/alternatives-to-money
 ---
 
-<!-- Pantrynomics uses economic social contracts as the tool of trade in order to circulate value to solve the following problems with the current 
+<!-- Superphysics uses economic social contracts as the tool of trade in order to circulate value to solve the following problems with the current 
  -->
 
 
@@ -56,7 +56,7 @@ To solve these problems, Adam Smith suggested grains and precious metals as the 
 
 ![Wheat in a farm](https://res.cloudinary.com/nara/image/upload/q_auto/wheatfarm_bsqhxr.jpg)
 
-This is why Pantrynomics will use points and bank gold to replace fiat currency*. 
+This is why Superphysics will use points and bank gold to replace fiat currency*. 
 - Points are pegged to grains and are used for local transactions. For example, in China, the points will be pegged to rice. In the US, it will be pegged to wheat. 
 - Central bank gold will be used to transfer investments from one country to another. This makes the International Monetary Fund unnecessary. This gold is a fixed ratio to the actual fiat that is circulating and is different from market gold. This then leads to a gold-backed currency that makes the arbitrary printing of money illegal.
 
@@ -75,7 +75,7 @@ Kind | Manifestation | Speed | Reach | Remarks
 Grains | Local Points| Moderate | For local transactions of basic value
 Gold | Bank Gold and gold-backed local currencies | Slow | For foreign investments and circulation of non-basic value (wholesale money)  
 
-{{< img src="/graphics/econ/storesvalue.png" alt="Bank Gold, Points" cap="In Pantrynomics, the two stores of value work together to maintain and grow the economy sustainably" >}}
+{{< img src="/graphics/econ/storesvalue.png" alt="Bank Gold, Points" cap="In Superphysics, the two stores of value work together to maintain and grow the economy sustainably" >}}
 
   
 Bank gold will only be used to circulate investments between countries and have nothing to do directly with commercial activity since bank gold is not legal tender (you can think of it as legal tender only between states). However, it will be the basis for gold-backed currencies which then will be used to circulate value. 
@@ -102,7 +102,7 @@ This solves Problems 1-3:
 3. Letting the points be served through the internet allows real-time responsiveness
 
 
-In Economics, you can buy bread or get a haircut only if you have money. But in Pantrynomics, you can do both by using money OR points. 
+In Economics, you can buy bread or get a haircut only if you have money. But in Superphysics, you can do both by using money OR points. 
 
 This will allow the pantrynomy to keep on moving even during a financial crisis. During such an event, the pantrynomy can switch to points for its essential transactions*. Thus, we can say that points are for basics, while gold-backed currencies are for non-basics.
 
@@ -159,7 +159,7 @@ Now that we have a new tool of trade as agreements and a new measure or store of
 
 ## Moneyless Points are the Next Evolution After Cashless Economies
 
-Trade began with barter between tribes. It evolved into using coins, which later became paper cash notes. Nowadays, cash is being replaced by cashless systems. Pantrynomics begins the next evolutionary step by starting moneyless points-banking as the future of cashless systems. 
+Trade began with barter between tribes. It evolved into using coins, which later became paper cash notes. Nowadays, cash is being replaced by cashless systems. Superphysics begins the next evolutionary step by starting moneyless points-banking as the future of cashless systems. 
 
 This new system creates a whole new set of measures, transaction methods, and investment vehicles that fund productive labour directly and eliminate both inequality and employment:
 

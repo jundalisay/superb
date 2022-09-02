@@ -3,11 +3,7 @@ title: "Socio-economic Suggestions for the Tasmanian Economy"
 # heading: "Grain-based Valuation"
 date: 2014-07-23
 image: "/photos/objects/money.jpg"
-description : "Economics uses money both as a store of value and tool of trade. Pantrynomics uses three tools--money, points, and barter--in order to have more avenues of wealth creation and less chance of circulation blockage. This then makes financial crises and debt slavery obsolete"
-linkb: /social/economics/problems-with-money
-linkbtext: problems-with-money
-linkf: /social/economics/solutions/bur
-linkftext: basic-universal-revenue
+description : "Economics uses money both as a store of value and tool of trade. Superphysics uses three tools--money, points, and barter--in order to have more avenues of wealth creation and less chance of circulation blockage. This then makes financial crises and debt slavery obsolete"
 youtube: "OV1JHTiDdkQ"
 author: Juan
 icon: /icons/pantry.png

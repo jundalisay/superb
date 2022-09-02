@@ -93,14 +93,14 @@ Balance is essential to make systems last long. This applies to material bodies,
 
 ## How Balance Is Disrupted
 
-According to the Four Social Cycles, the Populist, Militant, Philosopher, and Merchant have to work together to move their society forward. Most often, one of them gains a natural dominance depending on the current cycle. 
+According to the Four Social Cycles, the Worker, Warrior, Philosopher, and Merchant have to work together to move their society forward. Most often, one of them gains a natural dominance depending on the current cycle. 
 
 However, sometimes the dominant class wants to stay in power. In the economy, this is done in the following ways:
 
 Class | Method | Examples
 --- | --- | --- 
-1 Populist | Communism, Populism
-2 Militant | Tyranny, Dictatorship
+1 Worker | Communism, Populism
+2 Warrior | Tyranny, Dictatorship
 3 Philosopher | Tithes, Dogma
 4 Merchant | Mercantilism, Profit Maximization Doctrine
 

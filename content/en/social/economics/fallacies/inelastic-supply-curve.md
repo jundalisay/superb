@@ -4,10 +4,6 @@ heading: How Vaccine Prices Expose it
 date: 2021-01-15
 image: /graphics/econ/eq.jpg
 description: "The prices of vaccines expose the fallacy of the inelastic supply curve of Economics"
-linkb: /social/economics/fallacies/supply-demand
-linkbtext: supply-demand fallacy
-linkf: /social/economics/fallacies/surplus
-linkftext: producers-consumers-surplus
 type: "featured"
 author: Juan
 icon: /icons/pantry.png
@@ -56,13 +52,13 @@ The Covid outbreak gives us an excellent opportunity to see the sophistry of the
 
 ![Vaccine doses](https://sorasystem.sirv.com/charts/vac/doses.jpg)
 
-First, let's create a scatterplot for the prices and quantity supplied for Britain and get the trend. This creates a downward-sloping supply curve, consistent with Pantrynomics:
+First, let's create a scatterplot for the prices and quantity supplied for Britain and get the trend. This creates a downward-sloping supply curve, consistent with Superphysics:
 
 ![Covid supply Britain](https://sorasystem.sirv.com/charts/vac/covidsupply-britain.png)
 
 However, it also shows that there are three makers selling 60,000 doses at varying prices. These three, representing around 50% of the supply, match the 'perfectly inelastic supply curve' of Economics. Thus, we can say that in this natural, real-world example:
 - The perfectly inelastic supply curve of Economics is true for only around 50% of the supply
-- The downward-sloping supply curve of Pantrynomics is true 100% when all suppliers are taken together
+- The downward-sloping supply curve of Superphysics is true 100% when all suppliers are taken together
 
 This 50% truth of Economics is what Adam Smith says of the Commercial or Mercantile system --the businessmen and merchants take half-truths and then impose that as the truth onto everyone.
 
@@ -81,19 +77,19 @@ We see the same pattern of a downward-sloping supply curve, as well as an 'inela
 
 ## What About the Actual Supply?
 
-The supply curves above show what happened when demand was infused with it. To know the supply curve in the pure form, we need to know the actual production capacity of Astra Zenca, Moderna, etc. According to Economics, the pure supply curve should slope upwards. According to Pantrynomics, it should slope downwards.
+The supply curves above show what happened when demand was infused with it. To know the supply curve in the pure form, we need to know the actual production capacity of Astra Zenca, Moderna, etc. According to Economics, the pure supply curve should slope upwards. According to Superphysics, it should slope downwards.
 
 ![Vaccine Production](https://sorasystem.sirv.com/charts/vac/vacprod.png)
 
 We see below that it slopes downward, with Astra Zeneca, the cheapest vaccine, being produced the most. Moderna, the most expensive, is among those produced the least. The biggest productions are those of AstraZeneca and Novavax, both made by the Serum Institute of India which is the world's largest vaccine-maker which focuses on low cost. 
 
-Thus, the pure supply curve in reality matches Pantrynomics and not Economics. Less than 40% of the supply matches the perfectly inelastic supply curve of Economics, making it less than a half-truth. Shall we say it's a 40%-truth?
+Thus, the pure supply curve in reality matches Superphysics and not Economics. Less than 40% of the supply matches the perfectly inelastic supply curve of Economics, making it less than a half-truth. Shall we say it's a 40%-truth?
 
 ![Vaccine Production Chart](https://sorasystem.sirv.com/charts/vac/vacprodchart.png)
 
-<!-- The red line of Economics and the blue line of Pantrynomics -->
+<!-- The red line of Economics and the blue line of Superphysics -->
 
-Combining the actual supply with the actual demand by Britain and Belgium as representatives, we can come up with a real-life supply and demand curve which matches that of Pantrynomics:
+Combining the actual supply with the actual demand by Britain and Belgium as representatives, we can come up with a real-life supply and demand curve which matches that of Superphysics:
 
 ![Vaccine shortage](https://sorasystem.sirv.com/charts/vac/vacshort.png)
 
@@ -162,6 +158,6 @@ Without these, prices would have been kept secret and there would be no data to 
 
 However, the upward-sloping supply curve of Economics is only prevented by the existence of the cheap Astra Zeneca vaccines from Britain and India. The rest of the suppliers are still working under selfish-interest. This clearly means that the greed virus is still out there working behind the scenes to create the current crisis, as well as ensure future ones. This sureness is actually how we were able to [predict the current crisis](/social/supersociology/precrisis-years).
 
-We have workarounds, such as our proposed [Moneyless Banking](https://pantrypoints.com/banking), [Pantry World Trade](https://pantrypoints.com/world), and [Points-based Taxation](https://pantrypoints.com/pointtax). However, the most lasting solution or antidote is to teach and practice fellow-feeling, as espoused by Adam Smith. This is actually imbued in [Pantrynomics](/social/economics), most fundamentally in our downward-sloping supply curve.
+We have workarounds, such as our proposed [Moneyless Banking](https://pantrypoints.com/banking), [Pantry World Trade](https://pantrypoints.com/world), and [Points-based Taxation](https://pantrypoints.com/pointtax). However, the most lasting solution or antidote is to teach and practice fellow-feeling, as espoused by Adam Smith. This is actually imbued in [Superphysics](/social/economics), most fundamentally in our downward-sloping supply curve.
 
 In the next post, we shall see another sophistry created by economists as the producer's and consumer's surplus

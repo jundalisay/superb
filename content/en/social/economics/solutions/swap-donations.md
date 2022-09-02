@@ -4,11 +4,6 @@ heading: "A New Transaction Type"
 date: 2022-01-12
 image: "/photos/social/pantry.jpg"
 description : "Swap Donations are in between Profits and Donations, following the four revenues of rent, wages, profits, and donations"
-# type: "featured"
-linkb: /social/economics/solutions/points-banking
-linkbtext: "points-banking"
-linkf: /social/economics/solutions
-linkfext: "Pantrynomics Articles"
 author: Juan
 icon: /icons/pantry.png
 ---
@@ -42,7 +37,7 @@ Metaphysically, a country commits suicide when its people revolt and replace a f
 
 ## Two Solutions: Donations in Kind and Swap Donations
 
-Instead of debt and dole-outs, the natural solution to such a dire economic situation is donatio*. In Pantrynomics, donation is the fourth revenue kind, as an improvement to Adam Smith's system:
+Instead of debt and dole-outs, the natural solution to such a dire economic situation is donatio*. In Superphysics, donation is the fourth revenue kind, as an improvement to Adam Smith's system:
 
 
 <br>
@@ -104,5 +99,5 @@ However, their values are much below commercial prices. A swap donation with nor
 
 
 {{< mess >}}
-Both one-way and swap donations are implemented in Pantrynomics as ![Social Points](https://pantrypoints.com/circle)
+Both one-way and swap donations are implemented in Superphysics as ![Social Points](https://pantrypoints.com/circle)
 {{< /mess >}}

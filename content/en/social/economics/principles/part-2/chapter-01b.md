@@ -2,7 +2,6 @@
 heading: "Chapter 1b"
 title: "The Effort Theory of Value"
 # heading: "The Alternative to Arbitrary Narginal Pricing"
-# date: 2020-04-18
 dateorig: 2015-10-30
 date: 2022-01-30
 image: "/graphics/jfk.jpg"
@@ -18,7 +17,7 @@ aliases:
 
 
 
-<!-- > Summary: The effort theory of value is the foundation of Pantrynomics. It is derived entirely from Adam Smith's wheat-based valuation in <a href="/research/smith/wealth-of-nations/book-1/chapter-5a">the Wealth of Nations Book 1 Chapter 5</a>. Instead of pegging value to metal coins, it pegs it to the abstract difficulty, stress, or hardship of a task to produce a product or service. This is then relativistically pegged to food through a points-ledger which the Physiocrats referred to as "The Economic Table" -->
+<!-- > Summary: The effort theory of value is the foundation of Superphysics. It is derived entirely from Adam Smith's wheat-based valuation in <a href="/research/smith/wealth-of-nations/book-1/chapter-5a">the Wealth of Nations Book 1 Chapter 5</a>. Instead of pegging value to metal coins, it pegs it to the abstract difficulty, stress, or hardship of a task to produce a product or service. This is then relativistically pegged to food through a points-ledger which the Physiocrats referred to as "The Economic Table" -->
 
 
 While building Adam Smith's resource allocation system, I've often been asked:"What measure of value does it use?"

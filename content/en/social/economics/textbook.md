@@ -1,13 +1,9 @@
 ---
-title: "Pantrynomics Textbook"
+title: "Superphysics Textbook"
 heading: "A Rough Outline"
 date: 2021-06-28
 image: /graphics/econ/pantrynomicsbook.jpg
-description : "Here is the outline of our proposed textbook on Pantrynomics. Unlike Economics which is messily organized under micro, macro, behavioral, welfare, econometrics, etc., Pantrynomics is organized under the Four Laws of Value"
-linkb: /social/economics/principles/tao-life-purpose
-linkbtext: "the-tao-as-life-purpose"
-linkf: /social/economics/timeline
-linkftext: "Timeline-of-economic-thought"
+description : "Here is the outline of our proposed textbook on Superphysics. Unlike Economics which is messily organized under micro, macro, behavioral, welfare, econometrics, etc., Superphysics is organized under the Four Laws of Value"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
@@ -20,7 +16,7 @@ We've started the long process of building a textbook, which actually is suppose
  -->
 
 
-After we discovered the four laws of value, it became irresistable how we could organize all of Pantrynomics elegantly under them. Every concept in economics, from econometrics, open market operations, supply and demand, taxation, etc, can be put under four huge headings! Those four headings can then be put under our [universal equation](/social/economics/principles/eagle) `E = Gl` 
+After we discovered the four laws of value, it became irresistable how we could organize all of Superphysics elegantly under them. Every concept in economics, from econometrics, open market operations, supply and demand, taxation, etc, can be put under four huge headings! Those four headings can then be put under our [universal equation](/social/economics/principles/eagle) `E = Gl` 
 
 Here is the suggested outline:
 

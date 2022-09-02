@@ -1,6 +1,7 @@
 ---
 title: "Basic Universal Revenue"
-heading: "Alternative to Universal Basic Income"
+heading: "Chapter 3b"
+# Alternative to Universal Basic Income"
 # BUR is our New Store of Value and a
 date: 2020-04-17
 # date: 2017-04-26

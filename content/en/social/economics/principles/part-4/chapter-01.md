@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 1 of Part 4"
+heading: "Chapter 1"
 title: "Fourth Law of Value: Natural Price"
 date: 2022-01-31
 # dateorig: Originally written in 2016
@@ -57,7 +57,7 @@ The market price..is regulated by the proportion between the quantity..actually 
 ![Fourth law definition](/graphics/law4.png)
 <!-- ![4](https://sorasystem.sirv.com/graphics/4.png) -->
 
-In Pantrynomics, the balance between market and natural prices is checked through a grain index which compares the prices of commodities relative to the common grain eaten by the people. 
+In Superphysics, the balance between market and natural prices is checked through a grain index which compares the prices of commodities relative to the common grain eaten by the people. 
 
 Even without a grain index, people will naturally feel the imbalance in the economy and start to protest if the increase in market prices no longer keep their ratio to the natural prices. Such an unnatural increase would occur if there were:
 

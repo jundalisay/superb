@@ -46,7 +46,7 @@ We need to find out the specific policy changes in that time period that led to 
 
 1. Price controls from 2003
 
-> These were enacted from 2003 and have gradually drained production. In Pantrynomics, price controls are a short-term emergency measure during shortages such as famine, wars, and disasters which hamper [the natural price](/pantrynomics/four-laws-of-value). Long-term price controls are dangerous because they hinder the natural price from coming back.
+> These were enacted from 2003 and have gradually drained production. In Superphysics, price controls are a short-term emergency measure during shortages such as famine, wars, and disasters which hamper [the natural price](/pantrynomics/four-laws-of-value). Long-term price controls are dangerous because they hinder the natural price from coming back.
 
 <!-- can mask the real supply situation, since uncontrolled prices indicate the actual supply available. Instead of letting prices rise, the government shuts down or nationalized companies, leading to even lesser production.
  -->

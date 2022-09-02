@@ -5,7 +5,7 @@ title: "The Six Types of Effort"
 # date: 2018-06-03
 date: 2022-01-10
 # image: /photos/econ/singer.jpg
-description : "The Six Types of Effort in Pantrynomics are Material, Immaterial, Skilled, Unskilled, Value-adding, Value-maintaining"
+description : "The Six Types of Effort in Superphysics are Material, Immaterial, Skilled, Unskilled, Value-adding, Value-maintaining"
 image: /covers/econsp.jpg
 author: Dalisay
 aliases:
@@ -14,12 +14,12 @@ aliases:
 
 
 
-<!-- > Summary: The effort theory of value is the foundation of Pantrynomics. It is derived entirely from Adam Smith's wheat-based valuation in <a href="/research/smith/wealth-of-nations/book-1/chapter-5a">the Wealth of Nations Book 1 Chapter 5</a>. Instead of pegging value to metal coins, it pegs it to the abstract difficulty, stress, or hardship of a task to produce a product or service. This is then relativistically pegged to food through a points-ledger which the Physiocrats referred to as "The Economic Table" -->
+<!-- > Summary: The effort theory of value is the foundation of Superphysics. It is derived entirely from Adam Smith's wheat-based valuation in <a href="/research/smith/wealth-of-nations/book-1/chapter-5a">the Wealth of Nations Book 1 Chapter 5</a>. Instead of pegging value to metal coins, it pegs it to the abstract difficulty, stress, or hardship of a task to produce a product or service. This is then relativistically pegged to food through a points-ledger which the Physiocrats referred to as "The Economic Table" -->
 
 
 Part 2 explained the effort theory of value which says that useful work or effort is the foundations of exchangeable value in a socio-economy. 
 
-<!--  one of the foundations of Pantrynomics and is based entirely on Adam Smith’s [Effort Theory of Value](/social/economics/principles/effort-theory-of-value).  -->
+<!--  one of the foundations of Superphysics and is based entirely on Adam Smith’s [Effort Theory of Value](/social/economics/principles/effort-theory-of-value).  -->
 
  This is totally different from Economics and Mercantilism which uses money as the basis, through marginal pricing theory.
 

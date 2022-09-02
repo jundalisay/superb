@@ -1,13 +1,9 @@
 ---
-title: "The 4 Branches of Pantrynomics"
+title: "The 4 Branches of Superphysics"
 heading: "From the 4 Laws of Value"
 date: 2019-08-02
 image: "/photos/happysuccess.jpg"
-description : "The 4 branches of Pantrynomics are Personal, Social, Micro, Macro, These based on the 4 laws of value"
-linkb: /social/economics/
-linkbtext: "Pantrynomics Articles"
-linkf: /social/
-linkftext: "Social Superphysics"
+description : "The 4 branches of Superphysics are Personal, Social, Micro, Macro, These based on the 4 laws of value"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
@@ -26,7 +22,7 @@ Currently, Economics has messy divisions arising from the lack of understanding 
 - Behavioral Economics
 - Political Economy
 
-[The Four Laws of Value](/social/economics/principles/four-laws-of-value) of Pantrynomics streamlines this into four branches:
+[The Four Laws of Value](/social/economics/principles/four-laws-of-value) of Superphysics streamlines this into four branches:
 
 > 1. Personal Economy 
 

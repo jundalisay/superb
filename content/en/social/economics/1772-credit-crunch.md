@@ -4,10 +4,6 @@ heading: "How it is Similar to the 2008 Financial Crisis"
 date: 2020-07-02
 image: "/photos/econ/crash.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
-linkb: "/articles/pantrynomics/the-effort-theory-of-value"
-linkbtext: "Effort Theory of Value"
-linkf: "/articles/pantrynomics/why-quantitative-easing-failed"
-linkftext: "why QE failed"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

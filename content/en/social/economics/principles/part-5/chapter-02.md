@@ -1,12 +1,12 @@
 ---
 heading: "Chapter 2"
 title: "The Future of Economic Superphysics"
-# heading: "How Pantrynomics Can Make a Readily-deployable system for Mars"
+# heading: "How Superphysics Can Make a Readily-deployable system for Mars"
 # date: 2019-10-17
 # date: 2015-04-12
 date: 2022-01-28
 image: /photos/physics/mars.jpg
-description: "Pantrynomics can be used to create economic systems for Mars and other planets"
+description: "Superphysics can be used to create economic systems for Mars and other planets"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
@@ -35,11 +35,11 @@ Three-dimensional solid geometry should have naturally followed two-dimensional 
 
 ![Gravity](https://sorasystem.sirv.com/graphics/grav.jpg)
 
-After gravity-based propulsion is discovered, Pantrynomics, as a subset of [Social Superphysics](/social), can then deploy the proper economic system for Mars.
+After gravity-based propulsion is discovered, Superphysics, as a subset of [Social Superphysics](/social), can then deploy the proper economic system for Mars.
 
 
 ## Extending Nodes to Other Planets 
 
-Pantrynomics is implemented through independent nodes, as servers, for each population center. This is derived entirely from Socrates' city-states mentioned in The Republic. Each node runs a server which delivers an Economy-as-a-Service or EaaS for the town or city. External nodes are connected via Pool Clearing from EF Schumacher. The system can be run by artificial intelligence or AI following the maxims of David Hume, Spinoza, Montesquieu, and Socrates. 
+Superphysics is implemented through independent nodes, as servers, for each population center. This is derived entirely from Socrates' city-states mentioned in The Republic. Each node runs a server which delivers an Economy-as-a-Service or EaaS for the town or city. External nodes are connected via Pool Clearing from EF Schumacher. The system can be run by artificial intelligence or AI following the maxims of David Hume, Spinoza, Montesquieu, and Socrates. 
 
 Earth-nodes can be connected to Martian nodes by simply extending Pool Clearing. This would then require an interplanetary organization, built according to the principles of Supersociology, to administer the resource allocation or pantrynomics between different planets. Medical Superphysics would deal with the potential diseases and health issues in those new places while Material Superphysics would deal with meeting the energy needs.  

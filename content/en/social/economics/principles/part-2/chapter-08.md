@@ -39,7 +39,7 @@ According to Adam Smith, extractive and processing are the better foundations of
 
 ---
 
-For even greater efficiency, Pantrynomics will aim for unifying Processing, Wholesale, and Retail, just as ecommerce unified Wholesale and Retail
+For even greater efficiency, Superphysics will aim for unifying Processing, Wholesale, and Retail, just as ecommerce unified Wholesale and Retail
 
 
 <!-- 

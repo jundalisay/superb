@@ -4,10 +4,6 @@ heading: "Buy low sell high"
 date: 2015-01-01
 image: /avatars/smithstatue.jpg
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
-linkb: /articles/pantrynomics/
-linkbtext: "Pantrynomics Articles"
-linkf: /articles/pantrynomics/barter-disadvantages-addressed
-linkftext: "Barter disadvantages addressed"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

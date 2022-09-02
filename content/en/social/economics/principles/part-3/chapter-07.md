@@ -5,10 +5,6 @@ title: "The Four Revenues: Rent, Wages, Profits, Donations"
 date: 2021-12-23
 image: /photos/econ/bake.jpg
 description : "Rent, Wages, Profit, and Donations are the four revenue types of Classical Economics which matches the four classes of people"
-linkb: /social/economics/principles/part-3
-linkbtext: "Part 3"
-linkf: /social/economics/principles/part-3
-linkftext: "Part 3"
 author: Dalisay
 icon: /icons/pantry.png
 aliases:
@@ -16,7 +12,7 @@ aliases:
 ---
 
 
-An important feature of Smith's Political Economy (and the science of Pantrynomics which we created from it) is the classification ofall revenue into either rent, wages, and profit.
+An important feature of Smith's Political Economy (and the science of Superphysics which we created from it) is the classification ofall revenue into either rent, wages, and profit.
 
 Such classification is not so important to Economics which focuses on the quantity or dollar value of revenue instead of its quality. This classification is difficult nowadays when other kinds of revenue have been introduced, such as interest income, different kinds of taxes, royalties, revenue from membership fees, etc. 
 

@@ -3,10 +3,6 @@ title: "The Modern Economic Table"
 date: 2021-06-26
 image: "/graphics/econ/table.jpg"
 description: "The Modern Economic Table is our main tool to determine the real price of things"
-linkb: /social/economics/principles/eagle
-linkbtext: "The Eagle"
-linkf: /social/economics/principles/dcti
-linkftext: "DCTI"
 author: Juan
 icon: /icons/pantry.png
 aliases:
@@ -74,7 +70,7 @@ In this way, the ledger can show the **real price** of products, commodities, an
 
 Modern Economics has no concept of real or natural price because it is grounded on money, which wipes out the relativity of real prices in order to create arbitrage and profit maximization. This then explains why economic systems are unstable and have systemic risk.
 
-Pantrynomics uses the ledger-based comparison of subjective market price (effect) to its objective natural price (cause) to achieve 2 goals:
+Superphysics uses the ledger-based comparison of subjective market price (effect) to its objective natural price (cause) to achieve 2 goals:
 
 1. A points-based taxation system which can check inflation and inequality at its root. 
 
@@ -90,4 +86,4 @@ This would make taxation much more convenient since it is imposed automatically.
 This then would allow an Investment <!-- Clearing --> Fund to adjust its rate of return in order to pump up underinvestments and reduce overinvestment.
 
 
-As you can see, Pantrynomics has a lot of tools to grow an economy while preventing monopoly, inequality, and poverty that is simply unthinkable in Economics. The next post will explain the last tool, which is the DCTI.
+As you can see, Superphysics has a lot of tools to grow an economy while preventing monopoly, inequality, and poverty that is simply unthinkable in Economics. The next post will explain the last tool, which is the DCTI.

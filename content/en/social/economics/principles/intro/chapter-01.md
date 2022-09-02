@@ -1,14 +1,12 @@
 ---
 title: "The Collective Wave of Human Desire"
-heading: "Ideas are Particles, Feelings are Waves"
-date: 2015-09-09
+heading: Chapter 1
+# heading: "Ideas are Particles, Feelings are Waves"
+date: 2022-03-30
+# date: 2015-09-09
 image: "/photos/social/pageant.jpg"
 description: "The Collective Wave of Human Desire explains how cycles maninfest in Economics"
 author: Juan
-linkb: /medical/physical/covid-variants
-linkbtext: "covid-variants"
-linkf: "/social/supersociology/principles/social-networkism"
-linkftext: "social-networkism"
 aliases:
   /articles/social/collective-wave-of-desire
   /social/collective-wave-of-desire/
@@ -19,7 +17,7 @@ Buying and selling are rooted in waves of desires, which manifest objectively as
 
 ![beauty contest](/photos/social/pageant.jpg)
 
-The ideas of GDP, Inflation, and Wealth then all extend from prices. [Pantrynomics](/social/economics/) is the branch of Social Superphysics that deals with the changing waves of demand in order to match supply to it as quickly as possible by using social contracts and pool clearing.
+The ideas of GDP, Inflation, and Wealth then all extend from prices. [Superphysics](/social/economics/) is the branch of Social Superphysics that deals with the changing waves of demand in order to match supply to it as quickly as possible by using social contracts and pool clearing.
 
 
 ## Ideas are Particles, Feelings are Waves
@@ -140,7 +138,7 @@ Unfortunately for the world, Smith and Hume (and even Marx in a way) said that p
 
 ## So how do we get rid of the bad ideas from Economics?
 
-Since waves are continuous, they cannot be removed, but only 'toned down'. Ideas on the other hand can be dislodged. Since particles are dislodged by other particles, then the bad ideas of profit maximization and outside equity can be dislodged by more sustainable ideas that are in Pantrynomics such as:
+Since waves are continuous, they cannot be removed, but only 'toned down'. Ideas on the other hand can be dislodged. Since particles are dislodged by other particles, then the bad ideas of profit maximization and outside equity can be dislodged by more sustainable ideas that are in Superphysics such as:
 
 - [A model of supply and demand](/social/economics/fallacies/supply-demand) to replace the law of supply and demand
 - [Dharma](/social/economics/principles/invisible-hand) and [the effort theory of value ](/social/economics/principles/effort-theory-of-value) instead of Utility, marginal utility, and profit maximization

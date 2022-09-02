@@ -1,18 +1,17 @@
 ---
-heading: "Chapter 4"
+heading: "Chapter 4b"
 title: "Four Laws Table"
-# date: 2022-03-27
-date: 2022-03-06
-image: /photos/buy.jpg
-description: ""
+date: 2022-03-24
+image: "/photos/buy.jpg"
+description: "Here is a table for the four classifications of Exchangeable value in pantrynomics, using 'price' as its snapshot"
 author: Dalisay
 ---
 
 
-Here is a table for the four classifications of Exchangeable value in pantrynomics, using "price" as its snapshot:
+Here is a table for the four classifications of Exchangeable value in Superphysics, using "price" as its snapshot:
 
 
-Pantrynomics | Personal | Society
+Superphysics | Personal | Society
 --- | --- | ---
 Subjective and Variable (Buyer's perspective) | Nominal Price (value in currency) | Market Price (value to the buyer)
 Objective and Natural or Invariable (Seller's perspective) | Real Price (value in grain or labour) | Natural Price (value to the seller)
@@ -39,12 +38,12 @@ Law | Price | Purpose
   
 
 In addition, we can see how the four laws of value are the reverse of the laws of thermodynamics. For example:
-- the Zeroth law or the balancing of temperature is the first in Physics, but is the last in Pantrynomics as economic balance of the Fourth law
+- the Zeroth law or the balancing of temperature is the first in Physics, but is the last in Superphysics as economic balance of the Fourth law
 - the Third law, as absolute zero, is the last in Physics, but is the first in pantrynomics as its First law, as everything having a value.
 
 This is because Physics believes that the universe began as an energetic Big Bang where energy began first, whereas humans start from birth or low-energy sleep where lack begins first
 
-Pantrynomics law | Thermodynamics law counterpart
+Superphysics law | Thermodynamics law counterpart
 --- | ---
 1st | 3rd 
 2nd | 2nd
@@ -74,6 +73,6 @@ We find that these four laws match the four factors of our [DCIT model](/posts-p
 
 7/2021: overhauled to base everything on the four laws
 
-2/2022: Added the four classes (Populist, Militant, Philosopher, Merchant) onto the four laws
+2/2022: Added the four classes (Worker, Warrior, Philosopher, Merchant) onto the four laws
 {{< /mess >}}  
  -->

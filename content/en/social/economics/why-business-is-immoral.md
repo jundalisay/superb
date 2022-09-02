@@ -3,11 +3,7 @@ title: "Why is Business Usually Seen as Immoral?"
 heading: "Economic Social Contracts as a Tool for Trade"
 date: 2020-09-24
 image: /photos/objects/money.jpg
-description: "Pantrynomics uses Economic Social Contracts to spread value in a society. This makes it resilient to financial and currency crises"
-linkb: /articles/pantrynomics/inflation-deflation
-linkbtext: inflation-deflation
-linkf: /articles/pantrynomics/the-effort-theory-of-value
-linkftext: Effort Theory of Value
+description: "Superphysics uses Economic Social Contracts to spread value in a society. This makes it resilient to financial and currency crises"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

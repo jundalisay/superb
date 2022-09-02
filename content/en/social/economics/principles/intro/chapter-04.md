@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 4"
 title: "The Four Laws of Exchangeable Value"
-date: 2022-03-27
+date: 2022-03-26
 image: /covers/econsp.jpg
 image: /graphics/econ/law1.jpg
-description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-linkb: /social/economics/principles/intro/chapter-03
-linkbtext: "Chapter 3"
-linkf: /social/economics/principles/part-1/chapter-01
-linkftext: "First Law"
+description: "Unlike Economics, Superphysics takes into account cultural value and sentimental value. There are other values like environmental value, historical value, moral value, etc. which will be explained in future editions."
 author: Dalisay
 ---
 
@@ -18,6 +14,11 @@ author: Dalisay
 
 
 Suppose Barry and Adam are walking at a commercial street. They see a cake at a bakery, and an iguana at the pet store next to it. 
+
+
+{{< img src="/photos/objects/cake.jpg" alt="Cake slice">}}
+
+  
 - Barry might not see value in the cake, but Adam might, as he might want it for his wife's birthday tomorrow. 
 - The value of the cake to Adam comes from:
   - the inherent nature of their culture* to impose gift-giving during birthdays, and
@@ -77,7 +78,7 @@ This error manifests as investors denying investments to sectors, industries, or
 
 Instead of marginal utility, Superphysics uses **minimum requirements**, explained in Chapter 5, and **the grain index**, explained in Chapter 8.  These concepts will let people spend and invest for the essential sectors or industries of the economy, whether it is profitable or not. In this way, those sectors will remain capitalized and functioning. This will then prevent price shocks or externalities that grow into crises which harm the sustainability of the socio-economy.
 
-<!-- This value is called **use-value** or  in Economics. Pantrynomics allows sentimental value, but since the mechanism to objectively compare sentiments is not yet established*, we shall stick to use-value. 
+<!-- This value is called **use-value** or  in Economics. Superphysics allows sentimental value, but since the mechanism to objectively compare sentiments is not yet established*, we shall stick to use-value. 
 
 
 > *We're working on that too -->
@@ -123,7 +124,7 @@ Marginal utility says that the frequent consumption of an item, such as water, r
 
 This then leads to its child concept called **utility or profit maximization** that would urge us to sell this scarce water to get more nominal revenue and riches for ourselves. We should find a sweet spot via maximization wherein we can cut the supply of water to give us higher revenues, but not too much that it would kill our market (by dying from thirst, for example).
 
-All of this is morally absurd, yet this is what Economic Calculus teaches. This can be seen most commonly in the prices of oil, utilities, medical services, and real estate which everyone needs. To Adam Smith and Pantrynomics, use-value should not be compared to exchangeable value just as apples should not be compared to oranges. This is because use-value is personal while exchangeable value is social. Without the comparison, no paradox is created and no profit maximization, artificial scarcity, and social suffering is created for personal gain.
+All of this is morally absurd, yet this is what Economic Calculus teaches. This can be seen most commonly in the prices of oil, utilities, medical services, and real estate which everyone needs. To Adam Smith and Superphysics, use-value should not be compared to exchangeable value just as apples should not be compared to oranges. This is because use-value is personal while exchangeable value is social. Without the comparison, no paradox is created and no profit maximization, artificial scarcity, and social suffering is created for personal gain.
 {{< /box >}}
 <!--   use-value is determined by the wife's need or want to receive a cake on her birthday. The subjective use-value is therefore the most critical part of the value of the cake. -->
 

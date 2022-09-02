@@ -1,16 +1,12 @@
 ---
 title: "The Law of Social Cycles by Socrates"
-heading: "Democracy, Tyranny, Aristocracy, and Oligarchy"
+heading: Chapter 5
+# heading: "Democracy, Tyranny, Aristocracy, and Oligarchy"
 # date: 2021-07-21
 # Socio-Political changes are caused by changing wave-cycles of society
 date: 2021-01-01
 image: "/graphics/social/cycles.png"
-description: "The four laws of value of Pantrynomics leads to the four classes of Workers, Warriors, Intellectuals, and Merchants"
-author: Juan
-linkb: "/superphysics/fallacies/is-ought-problem"
-linkbtext: "Is-Ought Problem"
-linkf: "/social/supersociology/principles/common-interest"
-linkftext: "The Common Interest"
+description: "The four laws of value of Superphysics leads to the four classes of Workers, Warriors, Thinkers, and Traders"
 author: Juan
 icon: /icons/ss.png
 aliases:
@@ -44,37 +40,37 @@ We then match them roughly to the modern classification:
 
 Class Name | Adjective | Political Class | Hindu | Socrates
 --- | --- | --- | --- | ---
-Populists | Popular | Socratic* Liberals | Shudras | Democrats
-Militants | Militaristic | Socratic Neoconservatives | Ksattriyas | Tyrants
-Philosophers | Philosophical | Socratic Conservatives | Brahmins | Aristocrat-Philosophers
-Merchants | Mercantile | Socratic Neoliberals | Vaesyas | Oligarchs
+Workers | Working | Socratic* Liberals | Shudras | Democrats
+Warriors | Warrior | Socratic Neoconservatives | Ksattriyas | Tyrants
+Thinkers | Thinking | Socratic Conservatives | Brahmins | Aristocrat-Philosophers
+Traders | Trading | Socratic Neoliberals | Vaesyas | Oligarchs
 
 
 > *We add 'Socratic' to separate them a bit from the modern classification, while having some resemblance 
 
 
 
-## P-M-P-M
+## W-W-T-T
 
-An easy mnemomic is "P-M-P-M" which stands for Populist-Militant-Philosopher-Merchant. In this way:
+An easy mnemomic is "W-W-T-T" which stands for Worker-Warrior-Thinker-Trader. In this way:
 
-- Socialists, Liberals, and American libertarians fall under **Populists** or Socratic Liberals
-- Dictators, Generals, Communists, and Fascists fall under **Militants** or Socratic NeoCons
-- Priests, Technocrats, Researchers, and Nazis fall under **Philosophers** or Socratic Conservatives
-- Big Businesses and Free marketeers fall under **Merchants** or Socratic NeoLiberals
+- Socialists, Liberals, and American libertarians fall under **Workers** or Socratic Liberals
+- Dictators, Generals, Communists, and Fascists fall under **Warriors** or Socratic NeoCons
+- Priests, Technocrats, Researchers, and Nazis fall under **Thinkers** or Socratic Conservatives
+- Big Businesses and Free marketeers fall under **Traders** or Socratic NeoLiberals
 
 ![Social Cycles](/graphics/social/cycles.png)
 
 
 This makes:
-- Populists and Oliarchs <!-- Socratic Liberals and Neoliberals --> as the Socratic Left Wing
-- Militants and Philosophers <!-- Socratic Conservatives and NeoConservatives --> as Socratic Right Wing. 
+- Workers and Traders <!-- Socratic Liberals and Neoliberals --> as the Socratic Left Wing
+- Warriors and Thinkers <!-- Socratic Conservatives and NeoConservatives --> as Socratic Right Wing. 
 
 Here, Left Wing represents matter (such as money), while Right Wing represents the immaterial (such as the soul).
 
 We use this model to expose the current cycle of any society, based on the outcome of events. For example:
-- a successful popular protest that topples a government indicates that the country is in a <!-- democractic --> populist phase
-- a successful military crackdown of that protest, on the contrary, will indicate that the society is in a militant phase
+- a successful popular protest that topples a government indicates that the country is in a <!-- democractic --> worker phase
+- a successful military crackdown of that protest, on the contrary, will indicate that the society is in a warrior phase
 
 We use outcomes of changing events* to reveal the soul of the society, just as dust reveals an invisible object by establishing that object's outline.
 
@@ -108,21 +104,44 @@ Political changes, from conservative & authoritarian, to liberal & democratic, a
 
 
 {{< box >}}
-<h3>The Story of Survivor Island</h3><br><br>
-The social cycles can be explained in a short story:<br><br>One afternoon, a small plane crashed on a deserted island leaving four people stranded – Mei a female construction worker, Sergeant Arthur an army officer, Albert a scientist, and Meg an ex-CEO.<br><br>“We must first make a safe shelter because I heard there’s a big tiger on this island,” says Arthur. “I’ll go out to gather food. The rest should follow Mei in building a shelter.”<br><br>The group agrees and after a month, the shelter is finished.<br><br>“Good, now we must hunt the tiger to ensure our safety,” says Arthur and takes the lead in hunting and killing the tiger, which takes a whole month.<br><br>“Now that we’re safe, we can think of ways to get out of this island. Any suggestions?” asks Mei.<br><br>“It’s been two months since we crashed,” replies Albert. “The search has surely been called off. We must find ways to settle here permanently. I can share my ideas if you let me take the lead.”<br><br>The group agrees and soon they change from Arthur’s tactic of hunting animals for food into a longer term strategy of domesticating them and establishing small fish pens. Without threats and with fewer burdens, the group starts to feel closer to each other and be more relaxed. By the next month, Mei has fallen for Arthur’s bravery, while Meg, for Albert’s intellect.<br><br>“I’m pregnant!” Mei shouts. “I’m happy, but our supplies are just enough for the four of us.”<br><br>“I’m pregnant too!” Meg responds. “We have to find ways to get more supplies. Since the island is limited, we have to maximize the little resources we have. You should let me take the lead. I want Arthur to chop more wood, Mei to build bigger animal cages and fish pens, and Albert to get the animals to make more milk, eggs, and reproduce faster.”<br><br>Within a month, food production is increased dramatically and everyone notices Meg getting fatter.<br><br>“You’ve been ordering us around while doing the least work,” exclaims Mei. “Even if you’re smart, you should work like the rest of us!”<br><br>The group agrees to put Meg to work like the rest, with Mei taking the lead. In the past five months, the group’s territory has expanded from the first shelter into deeper areas of the water where a big shark lives.<br><br>“We must hunt down the shark for our own safety! You must let me lead again,” Arthur exclaims.<br><br>And so, the group embarks on the new endeavor as they struggle to fully establish themselves on the island.
+### The Story of Survivor Island
+
+The social cycles can be explained in a short story:
+
+One afternoon, a small plane crashed on a deserted island leaving four people stranded – Mei a female construction worker, Sergeant Arthur an army officer, Albert a scientist, and Meg an ex-CEO.
+
+"We must first make a safe shelter because I heard there’s a big tiger on this island,” says Arthur. “I’ll go out to gather food. The rest should follow Mei in building a shelter.”
+
+The group agrees and after a month, the shelter is finished. “Good, now we must hunt the tiger to ensure our safety,” says Arthur and takes the lead in hunting and killing the tiger, which takes a whole month.
+
+“Now that we’re safe, we can think of ways to get out of this island. Any suggestions?” asks Mei.“It’s been two months since we crashed,” replies Albert. 
+
+“The search has surely been called off. We must find ways to settle here permanently. I can share my ideas if you let me take the lead.
+
+”The group agrees and soon they change from Arthur’s tactic of hunting animals for food into a longer term strategy of domesticating them and establishing small fish pens. Without threats and with fewer burdens, the group starts to feel closer to each other and be more relaxed. By the next month, Mei has fallen for Arthur’s bravery, while Meg, for Albert’s intellect.
+
+“I’m pregnant!” Mei shouts. “I’m happy, but our supplies are just enough for the four of us.”
+
+“I’m pregnant too!” Meg responds. “We have to find ways to get more supplies. Since the island is limited, we have to maximize the little resources we have. You should let me take the lead. I want Arthur to chop more wood, Mei to build bigger animal cages and fish pens, and Albert to get the animals to make more milk, eggs, and reproduce faster.”Within a month, food production is increased dramatically and everyone notices Meg getting fatter.
+
+“You’ve been ordering us around while doing the least work,” exclaims Mei. 
+
+“Even if you’re smart, you should work like the rest of us!”The group agrees to put Meg to work like the rest, with Mei taking the lead. In the past five months, the group’s territory has expanded from the first shelter into deeper areas of the water where a big shark lives.
+
+“We must hunt down the shark for our own safety! You must let me lead again,” Arthur exclaims.And so, the group embarks on the new endeavor as they struggle to fully establish themselves on the island.
 {{< /box >}}
 
 
 ## Why are there four cycles?
 
-Pantrynomics, the subset of Social Superphysics, explains that the cycles are based on the 4 laws of value which mirror the 4 laws of thermodynamics:
+Economic Superphysics, the subset of Social Superphysics, explains that the cycles are based on the 4 laws of value which mirror the 4 laws of thermodynamics:
 
-1. The Popular or Shudra class comes from [the First law of Value](/social/economics/principles/first-law)
-2. The Philosophical or Brahmin class comes from [the Second law of Value](/social/economics/principles/second-law)
-3. The Merchant or Vaeshya class comes from the [the Third law of Value](/social/economics/principles/third-law)
-4. The Militant or Ksattriya class comes from [the Fourth law of Value](/social/economics/principles/fourth-law)
+1. The Working or Shudra class comes from [the First law of Value](/social/economics/principles/first-law)
+2. The Thinking or Brahmin class comes from [the Second law of Value](/social/economics/principles/second-law)
+3. The Business or Vaeshya class comes from the [the Third law of Value](/social/economics/principles/third-law)
+4. The Warrior or Ksattriya class comes from [the Fourth law of Value](/social/economics/principles/fourth-law)
 
-The intellectual class is the closest to the metaphysical dimension while the worker class is the closest to physical dimenion. 
+The thinking class is the closest to the metaphysical dimension while the worker class is the closest to physical dimenion. 
 
 ![Social cycles](/graphics/social/4.png)
 

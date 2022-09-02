@@ -1,21 +1,16 @@
 ---
-title: "Adam Smith's World Government"
-heading: "How it is Similar to the 2008 Financial Crisis"
+title: "The Earth Government"
+# heading: "How it is Similar to the 2008 Financial Crisis"
 date: 2020-07-02
-image: "/photos/econ/crash.jpg"
+image: "/photos/objects/gavel.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
-linkb: "/articles/pantrynomics/the-effort-theory-of-value"
-linkbtext: "Effort Theory of Value"
-linkf: "/articles/pantrynomics/why-quantitative-easing-failed"
-linkftext: "why QE failed"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
-draft: true
 ---
 
 
-Few people know that Adam Smith was making a free trade system as part of a world government which we call an Earth Government (EG). 
+Adam Smith's free trade system was supposed to be part of a world government which we call an Earth Government (EG). 
 
 This EG would begin as a free trade system which in time will need a tax to support it. 
 
@@ -25,9 +20,9 @@ a more equal land-tax,
 a more equal tax on house rents, and
 changes in the current customs and excise system, as those mentioned in (Chapter 2n)
 It would distribute the burden more equally on all.
-{{< /q >}}
 
 This increase would not totally liberate the public revenue or even totally compensate the further accumulation of the public debt in the next war.
+
 69 A much bigger revenue increase might be expected by extending the British tax system to all the empire's provinces inhabited by people of British or European descent.
 
 This perhaps could only be done by admitting a fair and equal representation of all those different provinces into the British Parliament, consistent with the principles of the British constitution.
@@ -49,3 +44,4 @@ Land-tax
 Stamp-duties
 Customs duties
 Excise duties
+{{< /q >}}

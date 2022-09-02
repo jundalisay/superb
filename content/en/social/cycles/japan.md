@@ -4,10 +4,6 @@ heading: "The Way of Structural Reform"
 date: 2020-09-23
 image: "/flags/jp.png"
 description : "The failure of Abenomics is due to Keynesian Economics which is flawed to begin with"
-linkb: "/social/cycles/israel"
-linkbtext: "Israel"
-linkf: "/social/cycles/myanmar"
-linkftext: "myanmar"
 author: Juan
 icon: /flags/jp.png
 aliases:
@@ -16,6 +12,7 @@ aliases:
   /analysis/social-cycles/how-to-fix-japan/
   /solutions/social/how-to-fix-japan/
 ---
+
 
 Japan has been suffering from chronic deflation since 1991 after the bursting of their asset price bubble. This is similar in pattern to the secular stagnation in the US after the 2008 Financial Crisis. Both problems persist because they have been given the wrong solutions in the form of "quantitative easing" (QE) in the US, and "Abenomics" in Japan.
 
@@ -102,7 +99,7 @@ In fact, the 3 arrows of Abenomics looks as though someone copy-pasted Keynes on
 
 A deflation is caused by a population that is ageing or declining. No matter how much money you throw at an old man, his productivity and consumption will never improve to be like that of a young man. The best solution* is to [get more young men into the economy](https://www.japantimes.co.jp/news/2014/05/18/national/success-abenomics-hinges-immigration-policy/).
 
-> *Some Japanese have pointed out that Japanese cities like Tokyo are already overpopulated and cannot handle any more humans. They do not realize that the overcrowding is the natural result of commercialization wherein humans compete for the money from profit-earners, concentrated in one place. Pantrynomics advocates balanced [urban-rural development](/social/economics/principles/development) through the effort theory of value 
+> *Some Japanese have pointed out that Japanese cities like Tokyo are already overpopulated and cannot handle any more humans. They do not realize that the overcrowding is the natural result of commercialization wherein humans compete for the money from profit-earners, concentrated in one place. Superphysics advocates balanced [urban-rural development](/social/economics/principles/development) through the effort theory of value 
 
 <!-- That is why  fail to point out that the historical solution was free movement, such as the Japanese to emigrating to Brazil in the 19th century.   -->
 
@@ -124,7 +121,7 @@ An East Asia union would solve:
 
 <!-- by putting them as equals, all with one policy. --> 
 
-Pantrynomics proposes a [multilateral clearing system](/research/schumacher/pool-clearing) to go with this free trade zone to further unify the participating countries.
+Superphysics proposes a [multilateral clearing system](/research/schumacher/pool-clearing) to go with this free trade zone to further unify the participating countries.
 
 Generally, Smith's policies would be somewhere between Singapore and China where the government has strong control in specific areas, but allows freedom in the rest. It is based on morality, specifically as fellow-feeling.  
 

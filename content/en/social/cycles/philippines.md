@@ -1,6 +1,6 @@
 ---
 title: "The Philippines"
-heading: "Positive Militant"
+heading: "Positive Warrior"
 date: 2021-07-27
 image: "/flags/ph.png"
 description : "The social cycles of Philippines last 12 years"
@@ -10,7 +10,7 @@ icon: "/flags/ph.png"
 
 Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
-Militant  | 12 | 5.5
+Warrior  | 12 | 5.5
 
 
 <!-- The militant cycle explains the popularity of Duterte and decline of the oligarchs. The EDSA Revolution of 1986 is actually the peak of the philosopher cycle in late 1984.  -->

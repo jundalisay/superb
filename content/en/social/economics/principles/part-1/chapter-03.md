@@ -50,7 +50,7 @@ By such maxims as these, nations have been taught that their interest consisted 
 These differing paradigms can lead to different supply curves and business behaviour:
 
 
-_ | Economics Of Marshall, Keynes, Samuelson, Jevons | Pantrynomics Of Smith, Hume, Socrates, Lao Tzu
+_ | Economics Of Marshall, Keynes, Samuelson, Jevons | Superphysics Of Smith, Hume, Socrates, Lao Tzu
 --- | --- | ---
 Competition |  Either cut-throat competition or monopoly | Friendly competition with natural moral limits
 _ | ![Auction](https://socioecons.files.wordpress.com/2015/04/auction-bid.jpg) | ![Market](https://socioecons.files.wordpress.com/2015/04/flea-market.jpg)
@@ -84,7 +84,7 @@ The men of business stoop as they walk. They pretend not to see those whom they 
 {{< me date="July 2020" >}}
 We can thus say that the Economics is best for animalistic humans or those who love to prey on others -- a player who wins big in the stock market does not care that his winnings directly come from the losses and suffering of the losing players. He feels that it's alright to prey on others because he himself is fair game for those players if he loses.
 
-Pantrynomics, on the other hand, focuses on loans and real goods and services instead of equity and money (the favorite tools of the gambler).
+Superphysics, on the other hand, focuses on loans and real goods and services instead of equity and money (the favorite tools of the gambler).
 
 It would be extremely difficult to convince a gambler not to gamble, or a wolf not to be a wolf, especially if his society has moral systems that promote gambling or even wolf-like behavior. 
 

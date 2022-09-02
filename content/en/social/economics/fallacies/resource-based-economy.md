@@ -59,10 +59,10 @@ RBE relies on technology to fix the faults of Marxism. This creates a chicken-or
 
 ## Learning from the Mistakes of RBE
 
-Unlike RBE, Pantrynomics is based on metaphysics. It has its own theory of value called [the Effort Theory of Value](/articles/pantrynomics/the-effort-theory-of-value) which is implemented through [Basic Universal Revenue](/pantrynomics/basic-universal-revenue). 
+Unlike RBE, Superphysics is based on metaphysics. It has its own theory of value called [the Effort Theory of Value](/social/economics/principles/part-2/chapter-01b) which is implemented through [Basic Universal Revenue](/social/economics/principles/part-1/chapter-03b). 
 
 Like RBE, it relies much on technology to scale itself. However, unlike RBE, it can work with old tech such as pen and paper as the tool to build economic agreements between humans. 
 
-Unlike the AI of RBE, [the AI of Pantrynomics](/pantrynomics/isaiah), does not impose on the people. Rather, it learns what people need and then suggests the appropriate transactions. 
+Unlike the AI of RBE, [the AI of Superphysics](/superphysics/solutions/isaiah), does not impose on the people. Rather, it learns what people need and then suggests the appropriate transactions. 
 
 RBE suffers from the same flaws as Marxism which is a sign of the confused feelings of its founder. In the next post, we shall compare the feelings of Adam Smith with Karl Marx to see what constitutes 'solid' or dharmic feelings.

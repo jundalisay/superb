@@ -4,7 +4,7 @@ title: "The Second Law of Value"
 # date: 2022-01-03
 date: 2022-01-31
 image: "/graphics/econ/law2.jpg"
-description: "The Second Law states that real value emerges from nominal value and is maximized by following one's true interests or true nature or dharma. Unlike Economics which imposes the interests of others, Pantrynomics encourages everyone to know true interest or purpose of their lives that has value to society"
+description: "The Second Law states that real value emerges from nominal value and is maximized by following one's true interests or true nature or dharma. Unlike Economics which imposes the interests of others, Superphysics encourages everyone to know true interest or purpose of their lives that has value to society"
 author: Dalisay
 aliases:
   /pantrynomics/second-law
@@ -13,7 +13,7 @@ aliases:
 
 <!-- ### The Second Law of Value: The Invisible Hand of Dharma as Real Prices -->
 
-[The First Law of Value](/pantrynomics/first-law) introduced Exchangeable Value which is seen as Nominal Price to the Buyer. The Second Law of Value introduces **Real Price** which is the Exchangeable Value to the Seller. 
+[The First Law of Value](/social/economics/principles/part-1/chapter-01) introduced Exchangeable Value which is seen as Nominal Price to the Buyer. The Second Law of Value introduces **Real Price** which is the Exchangeable Value to the Seller. 
 - Real value is the value of the effort, trouble, hardship, and sentimentalism that is put into the Item by its owner or seller. This leads to [the Effort theory of value](/articles/pantrynomics/the-effort-theory-of-value) that we derived from Adam Smith, which is opposite of the Labor theory of value of Karl Marx
 - Nominal value is the value of the Item to its buyer/s who may or may not have idea of its real value to its owner
 

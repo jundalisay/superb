@@ -4,12 +4,8 @@ heading: "Based on Adam Smith's Digression on Silver"
 date: 2020-12-14
 image: /photos/grains.jpg
 # image: "https://socioecons.files.wordpress.com/2015/04/consumption.jpg"
-description : "Pantrynomics uses two measures combined to replace GDP as a measure of a country's wealth: Purchasing Power and the Grain Index"
+description : "Superphysics uses two measures combined to replace GDP as a measure of a country's wealth: Purchasing Power and the Grain Index"
 # type: "featured"
-linkb: /social/economics/why-business-is-immoral
-linkbtext: why-business-is-immoral
-linkf: /social/economics/principles/dcti
-linkftext: dcti tool
 author: Juan
 icon: /icons/pantry.png
 aliases:
@@ -17,7 +13,7 @@ aliases:
 ---
 
 
-Pantrynomics will use Purchasing Power as its alternative to GDP, as explained in [The Digression on the Value of Silver](/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a1) of the Wealth of Nations. 
+Superphysics will use Purchasing Power as its alternative to GDP, as explained in [The Digression on the Value of Silver](/research/smith/wealth-of-nations/book-1/chapter-11/part-3b-d1a1) of the Wealth of Nations. 
 
 In that Digression, Adam Smith proved that money supply, as the prices of gold and silver, are not correlated with a society's wealth or poverty. Instead, it is the money price of some rude produce relative to the main food grain (such as wheat), which is the clearest indicator of a society's wealth or poverty.
 
@@ -94,13 +90,13 @@ There are 2 ways to get the NDP, just as there are 2 ways to get the GDP:
 
 ## Top-Down
 
-<!-- Purchasing power is the net revenue from GDP or gross revenue of a society. It is made up of the net profits that go to the wallets or vaults of business owners, and wages that goes to the wallets or bags of employees. Unlike the GDP of Economics which is only measured in currency, the purchasing power of Pantrynomics is measured in both money and non-money as grains. -->
+<!-- Purchasing power is the net revenue from GDP or gross revenue of a society. It is made up of the net profits that go to the wallets or vaults of business owners, and wages that goes to the wallets or bags of employees. Unlike the GDP of Economics which is only measured in currency, the purchasing power of Superphysics is measured in both money and non-money as grains. -->
 
 This approach deducts the effort of society in maintaing the money-system that circulates the real value between people. Currently, this effort manifests as the banking, financial, and insurance systems. 
 
 <!-- In the past, it was the imperial system of the Romans and ancient Chinese made up of a rent-seeking class* of tax collectors and eunuchs. 
 
-> *Pantrynomic systems aim to reduce corruption by reducing the rent-seeking and profit-seeking classes through automation. Unlike the fallacious systems of Communism and the Resource-based Economy where technology is used to <i>create</i> value, in Pantrynomics, technology and artificial intelligence are used to <i>maintain</i> value.  -->
+> *Pantrynomic systems aim to reduce corruption by reducing the rent-seeking and profit-seeking classes through automation. Unlike the fallacious systems of Communism and the Resource-based Economy where technology is used to <i>create</i> value, in Superphysics, technology and artificial intelligence are used to <i>maintain</i> value.  -->
 
 
 The expenses for finance charges, insurance premiums, interest payments, credit card annual fees, etc. all go as into the gross revenue of banks, fintech, and financial institutions.  These do not affect the real economy in the sense that it does not matter whether the street bakery that you brought the bread from:
@@ -118,7 +114,7 @@ For example, the GDP or gross revenue of Singapore is nominally $323.9b. Its pur
 
 <!-- tax payments to government and the cost of money used up in producing that GDP . This cost of money is the expense in using the money and financial system for circulating the real value in any economy. -->
 
-<!-- In order to buy bread, I have to work for money and then use the money to buy bread. If my work could be bartered directly for bread, then money would not be needed and all the spending for bankers, financiers, ATMs, bank branches, dollar bills, coins, etc could be freed up and made to do other things useful for society. This multi-exchange ability of Pantrynomics lets it work with money or run moneyless, something that Economics cannot do.   -->
+<!-- In order to buy bread, I have to work for money and then use the money to buy bread. If my work could be bartered directly for bread, then money would not be needed and all the spending for bankers, financiers, ATMs, bank branches, dollar bills, coins, etc could be freed up and made to do other things useful for society. This multi-exchange ability of Superphysics lets it work with money or run moneyless, something that Economics cannot do.   -->
 
 
 
@@ -189,7 +185,7 @@ Toyota Alphard Luxury Van in rice | 206,000 kg rice (2nd place or 2.25x Philippi
 
 
 
-Both Economics and Pantrynomics will conclude that Singapore is the most prosperous country and Vietnam the least prosperous of the three, from the supply side. But from the demand side, pantrynomics can reveal much more info:
+Both Economics and Superphysics will conclude that Singapore is the most prosperous country and Vietnam the least prosperous of the three, from the supply side. But from the demand side, pantrynomics can reveal much more info:
 
 - The poor of Vietnam are 'wealthier' than the poor of the Philippines (which is really the poorest)
 - The middle class of Vietnam is the poorest of the three
@@ -248,7 +244,7 @@ Ease or Difficulty | Difficult, needs to get accounting of all output, and vario
 
 
 {{< me date="Jul 2021" >}}
-## So What's the Use of GDP in Pantrynomics?
+## So What's the Use of GDP in Superphysics?
 
 Since GDP will no longer be the measure of wealth, it becomes a measure of **the velocity of an economy** or how fast the economy is going, or whether it is going forward of backward. It is an important part of [the DCTI tool](/articles/pantrynomics/the-demand-capital-trade-industry-tool) in the absence of a direct way to get the Purchasing power of everyone.
 {{< /me >}}

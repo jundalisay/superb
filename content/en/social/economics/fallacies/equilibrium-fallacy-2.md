@@ -1,15 +1,11 @@
 ---
+heading: "How Economics Leads to Crises"
 title: "The Market Equilibrium Fallacy Part 2"
 description: We combine both curves to come up with a Supply and Demand model. Samuelson justifies the unnatural supply curve with buying and selling through an auctioneer scenario
 # date: 2015-08-21
 # date: 2021-10-14
 date: 2022-01-06
 image: "/photos/grains.jpg"
-heading: "How Economics Leads to Crises"
-linkb: "/social/economics/fallacies/equilibrium-fallacy"
-linkbtext: "Equilibrium-fallacy"
-linkf: "/social/economics/fallacies/supply-demand"
-linkftext: "Supply Demand Fallacy"
 author: Juan
 icon: /icons/pantry.png
 ---
@@ -168,7 +164,7 @@ By exposing the sophistical ideas such as equilibrium and profit maximization, w
 
 Rather than reform a system with a corrupt base, it would be better to take its data and findings, and transplant them onto a new and proper one that is in line with the interests of society and human life.
 
-For this reason, we introduce alternatives to every major economic concept as the foundation of Pantrynomics:
+For this reason, we introduce alternatives to every major economic concept as the foundation of Superphysics:
 
 - [Natural Price Theory](/social/economics/principles/four-laws-of-value) replaces Equilibrium Theory of Microeconomics
 - [The Effort Theory of Value](/social/economics/principles/effort-theory-of-value) replaces Profit Maximization

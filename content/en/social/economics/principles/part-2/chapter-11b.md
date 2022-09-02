@@ -1,7 +1,6 @@
 ---
 heading: Chapter 11b
 title: "Neoclassical Economics vs Classical Economics"
-# heading: "Marginalism vs Pantrynomics"
 # date: 2020-01-16
 date: 2022-01-05
 image: "/covers/keynes.jpg"
@@ -22,14 +21,14 @@ linkbtext: "nash-equilibrium-fallacy"
 linkf: articles/pantrynomics/economic-development-from-zero"
 linkftext: "economic-development-from-zero"
  -->
-Pantrynomics is our revival of Classical Economics, backed up by actual data which is visualized through data science and analytics. This data spans 2,500 years, from Xenophon's The Economist up to the latest GDP data. 
+Superphysics is our revival of Classical Economics, backed up by actual data which is visualized through data science and analytics. This data spans 2,500 years, from Xenophon's The Economist up to the latest GDP data. 
 
 In contrast, Modern Economics only began from the Marginal Revolution of the 1870's. This makes it a toy idea that crashed quickly after 50 years as the Great Crash and Depression. Nowadays, this toy idea manifests as gaming via game theory, the stock market, and cryptocurrencies, all coming from the mercantile game of buying low and selling high. 
 
 ![Wrong Supply and Demand Chart](https://sorasystem.sirv.com/charts/demsup/wrong.png)
 
 
-Idea | Economics | Pantrynomics
+Idea | Economics | Superphysics
 --- | --- | ---
 Material Goal | Private Wealth separate from government and morality {{< q a="say" >}}To me, these two very distinct inquiries have been..separated, the term political economy being now confined to the science..of wealth,<br> and that of politics, ..the relations.. between a government and its people"<cite>Jean Baptiste Say</cite>{{< /q >}} | Wealth of Society integrated with government & morality {{< q a="smith" >}} Political œconomy..proposes to enrich both the peopleand the sovereign."<cite>The Wealth Of Nations</cite>{{< /q >}}
 Moral Basis | Uncertain morality {{< q a="say" >}} progress has..(questioned) whether it is.. impossible that all should start in the world with a fair chance.. The question cannot be fully answered by economic science. For the answer depends.. on the moral and political capabilities of human nature (which) the economist has no.. special.. information"<cite>Alfred Marshall</cite>{{< /q >}} | Fellow-feeling (Theory of Moral Sentiments) {{< q a="smith" >}} In every civilized society..there were always two..systems of morality.." <cite>The Wealth Of Nations Book 5</cite>{{< /q >}}
@@ -47,11 +46,11 @@ Task For Economists | Economic Growth | Economic Balance
 
 ## The Huge Knowledge Gap in Economics
 
-Economics creates crises because of the huge gaps in knowledge about the nature of society and the self, since it only had 150 years of data on human behavior. An easy proof of the limitation of Economics is the Law of Supply is Demand is taught, but not [the Four Laws of Value](/pantrynomics/four-laws-of-value) that lead to that Law of Supply and Demand
+Economics creates crises because of the huge gaps in knowledge about the nature of society and the self, since it only had 150 years of data on human behavior. An easy proof of the limitation of Economics is the Law of Supply is Demand is taught, but not [the Four Laws of Value](/social/economics/principles/intro/chapter-03/) that lead to that Law of Supply and Demand
 
 ![Economic Superphysics Knowledge](https://sorasystem.sirv.com/charts/knowecon.png) 
 
-In contrast, Pantrynomics has over 2,500 years of knowledge from principles and data collected by philosophers before they were converted into scientists or researchers
+In contrast, Superphysics has over 2,500 years of knowledge from principles and data collected by philosophers before they were converted into scientists or researchers
 
 
-{{< img src="https://sorasystem.sirv.com/charts/knowtao.png" alt="Economic Superphysics Knowledge vs Economics" cap="The areas in black indicate the known concepts in both Economics and Pantrynomics" >}}
+{{< img src="https://sorasystem.sirv.com/charts/knowtao.png" alt="Economic Superphysics Knowledge vs Economics" cap="The areas in black indicate the known concepts in both Economics and Superphysics" >}}

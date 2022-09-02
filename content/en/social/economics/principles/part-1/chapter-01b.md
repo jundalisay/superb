@@ -5,7 +5,7 @@ title: "The Tao as One's Life Purpose"
 # date: 2015-08-20
 date: 2022-03-30
 image: /photos/meta/buddhism.jpg
-description : "Economics enshrines Utility as the foundation of value, while Pantrynomics emphasizes Dharma or the Tao or one's life purpose."
+description : "Economics enshrines Utility as the foundation of value, while Superphysics emphasizes Dharma or the Tao or one's life purpose."
 author: Juan
 icon: /icons/pantry.png
 aliases:
@@ -69,7 +69,7 @@ But the word 'enlightened' is also unclear. Is stealing $1 more enlightened than
 
 To get rid of this ambiguity, we change the word 'interest' into 'purpose' in order to focus on the end goal. If the end is agreeable, then the means must be agreeable too (Hume, Book 3). Thus, a banker's purpose in life is to do banking. But it wouldn't be so easy to say that a bank robber's life-purpose is to rob banks since everyone feels that robbing is wrong and therefore cannot be a life goal. Who would ever honestly say that his soul exists on Earth to rob banks? Stealing might be a life goal of other animal species, but it would result in a them having a totally different hierarchy of needs.
 
-In this way, the entity is not made subservient to the lower material layer. This helps it keep its stability amidst the onslaught of material perceptions. If Bitcoin price is rising fast, then under Economics, you should buy it or be left out. But in Pantrynomics, only the crypto-trader should buy it because his life purpose is to trade crypto. In this way, a Bitcoin crash will only affect the universe of crypto-traders and not everyone.
+In this way, the entity is not made subservient to the lower material layer. This helps it keep its stability amidst the onslaught of material perceptions. If Bitcoin price is rising fast, then under Economics, you should buy it or be left out. But in Superphysics, only the crypto-trader should buy it because his life purpose is to trade crypto. In this way, a Bitcoin crash will only affect the universe of crypto-traders and not everyone.
 
 
 {{< youtube ovpsuyRanw8 >}}
@@ -80,13 +80,13 @@ Monkeys (from where the human species came) are curious about objects and have b
 {{< /cap >}}
 
 
-## Pantrynomics is based on Existential Purpose
+## Superphysics is based on Existential Purpose
 
 The word 'purpose' has more in common with the word'dharma'than 'interest'. In our view as existence being a huge mind or Matrix which the Hindus call the Brahma, a thing would only exist or be thought of if its Thinker had a purpose for it. 
 
 Thus, we can say that everything that you perceive has a purpose. Those that didn't have a purpose never existed or never was perceived by you. The specific purpose of every discrete thing or entity is then called *The Tao* or *svadharma* meaning 'own dharma' or own purpose in existence.
 
-The study of this Tao in economics can then be called Pantrynomics. In this way, a baker bakes because hefeels that his life purpose is to bake and that he could happily spend his whole life baking. His passion in baking naturally allows him to make excellent bread which society wants and which they would pay more for, and this manifests as the baker earning more money. This focus on the Tao then makes up the Effort Theory of Value of Pantrynomics.
+The study of this Tao in economics can then be called Superphysics. In this way, a baker bakes because hefeels that his life purpose is to bake and that he could happily spend his whole life baking. His passion in baking naturally allows him to make excellent bread which society wants and which they would pay more for, and this manifests as the baker earning more money. This focus on the Tao then makes up the Effort Theory of Value of Superphysics.
 
 In contrast, in Economics, a baker bakes because he is supposed to be chasing the profits in the form of money from bread sales. To get more money, he logically must adulterate his goods, drive his costs down, automate instead of using manual labor, and raise his sales through marketing.
 
@@ -105,11 +105,11 @@ Eastern philosophy tells us that dharma is the proper way out of this trap calle
 
 > *The actual exit of existence is called samadhi, but that's another story. 
 
-By following one's path and purpose in life, then humans can better understand how their dualistic world works. So, by replacing utility with self-purpose, Pantrynomics not only can help people generate and distribute value among each other, but also increase their chances of understanding the reason for their existence so that they can exist in harmony with everything else that exists. 
+By following one's path and purpose in life, then humans can better understand how their dualistic world works. So, by replacing utility with self-purpose, Superphysics not only can help people generate and distribute value among each other, but also increase their chances of understanding the reason for their existence so that they can exist in harmony with everything else that exists. 
 
 A key characteristic of a pantrynomic implementation or a *pantrynomy* therefore is that it gives lower stress in exchange and acquisition of goods or services than that in economic, capitalist, or communist systems.
 
-The Principles of Pantrynomics* makes its way into the other sciences
+The Principles of Superphysics* makes its way into the other sciences
 The use of the Tao as the center of the sciences makes it useful in solving the problems in those sciences. 
 
 > *This is neatly packaged into the Four Laws of Value
@@ -120,5 +120,5 @@ This will then be the job of Medical Superphysics. We can even use it to solve p
 
 
 {{< me date="July 5, 2021" >}}
-Harmonized with the Invisible Hand as Pantrynomics
+Harmonized with the Invisible Hand as Superphysics
 {{< /me >}}

@@ -5,10 +5,6 @@ heading: "Mo' Money, Mo' Problem"
 date: 2021-12-28
 image: "/photos/objects/money.jpg"
 description: Money conquered the world after the Spanish discovered silver mines in South America. This gave fuel for colonization and the oppression of the world.
-linkb: /social/economics/last-capitalist
-linkbtext: The Last Capitalist
-linkf: /social/economics/alternatives-to-money
-linkftext: alternatives-to-money
 youtube: "OV1JHTiDdkQ"
 author: Juan
 icon: /icons/pantry.png
@@ -67,7 +63,7 @@ Money doesn't work for things that have a not-so-obvious-value (wave-value) such
 - the health benefits of eating a vegetable
 - the inventions that will only have impact after long and costly research
 
-Economics has no way to accurately put a price on the future effects of such things, but Pantrynomics has, through relativistic effort-valuation and resource credits.
+Economics has no way to accurately put a price on the future effects of such things, but Superphysics has, through relativistic effort-valuation and resource credits.
 
 {{< quote ava="hume" >}}
 Deprive a man of all business and serious occupation, he runs restless from one amusement to another. He feels such a great weight and oppression from idleness and forgets the future ruin of his immoderate expences.

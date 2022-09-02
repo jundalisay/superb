@@ -4,10 +4,6 @@ heading: Due to the lack of fellow-feeling
 date: 2015-01-01
 image: /photos/objects/money.jpg
 description : Humans need money because of naturally limited cognition of the human mind
-linkb: /social/economics/
-linkbtext: "Pantrynomics Articles"
-linkf: /social/economics/barter-disadvantages-addressed
-linkftext: "Barter disadvantages addressed"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

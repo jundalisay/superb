@@ -5,10 +5,6 @@ heading: "Install Islamic Feudal Lords"
 date: 2021-09-18
 image: "/flags/af.png"
 description : "The most sustainable way to create peace and progress in Afghanistan is by installing Islamic feudalism offset by an civilized Protector"
-linkf: "/social/cycles/egypt"
-linkftext: "Egypt"
-linkb: "/social/cycles/venezuela"
-linkbtext: "how-to-fix-venezuela"
 author: Juan
 icon: "/flags/af.png"
 aliases:
@@ -110,7 +106,7 @@ We then convert the phases to their root characteristics
 1. Philosophical
 2. Mercantile
 3. Popular
-4. Militant
+4. Warrior
 
 We then plotted [each phase of modern societies](/social/cycles/) to be under 20 years. Thus, we multiply 20 by four phases to come up with 80 years as a general rule. Europe and small countries seem to have 60 years. 
 

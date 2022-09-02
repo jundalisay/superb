@@ -5,10 +5,6 @@ title: "The Fallacy of Liquidity Preference"
 date: 2021-12-30
 image: /covers/econsp.jpg
 description: ""
-linkb: /social/economics/principles/part-3
-linkbtext: "Part 3"
-linkf: /social/economics/principles/part-3
-linkftext: "Part 3"
 author: Dalisay
 # draft: true
 ---
@@ -24,11 +20,11 @@ This inequality manifests as:
 
 ## How Neoclassical Economics Causes Inequality
 
-The Marginal Revolution enshrined profit maximizatin in the 1870s. This doctrine favors the Merchant class over the Populist, Militant, and Philosopher. As a result, the Merchant class gets a bigger share of its society's productivity. This starves the rest:
+The Marginal Revolution enshrined profit maximizatin in the 1870s. This doctrine favors the Business class over the Worker, Warrior, and Thinker. As a result, the Business class gets a bigger share of its society's productivity. This starves the rest:
 
-- Workers (Populist class) find it harder to find good-paying jobs
-- Governments (Militant class) find themselves getting deeper into debt
-- Researchers (Philosopher class) find it more difficult to get research funding
+- Workers (Worker class) find it harder to find good-paying jobs
+- Governments (Warrior class) find themselves getting deeper into debt
+- Researchers (Thinker class) find it more difficult to get research funding
 
 This economic starvation finally manifested itself as the Great Depression of the 1930's, when many people did become unemployed and subsequently went hungry. The British Economist John Maynard Keynes had a chance to fix things by reversing the doctrine of profit maximization. However, instead of getting rid of profit maximization, he permanently cemented it through the doctrine of **liquidity preference** which we call the love of money*!
 

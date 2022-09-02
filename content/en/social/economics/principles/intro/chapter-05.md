@@ -1,14 +1,9 @@
 ---
 heading: "Chapter 5"
 title: "The Socio-Economy"
-date: 2022-03-27
-image: /photos/buy.jpg
+date: 2022-03-20
+image: /photos/grains.jpg
 description: "Economic Superphysics is concerned with the material well-being of society."
-# type: featured
-linkb: /social/economics/principles/intro/chapter-03
-linkbtext: "Chapter 3"
-linkf: /social/economics/principles/part-1/chapter-01
-linkftext: "First Law"
 author: Dalisay
 ---
 

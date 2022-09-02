@@ -4,12 +4,7 @@ title: "What Defines Capitalism?"
 # date: 2015-07-24
 date: 2021-12-16
 image: /photos/econ/crash.jpg
-description: "Pantrynomics defines capitalism as an economic system that uses outside ownership to amass private profits"
-linkb: /social/economics/principles
-linkbtext: Index
-linkf: /social/economics/principles
-linkftext: "Index"
-author: Dalisay
+description: "Superphysics defines capitalism as an economic system that uses outside ownership to amass private profits"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

@@ -8,7 +8,7 @@ image: "/covers/principles.png"
 ---
 
 
-Topic | Populist | Militant | Philosopher | Merchant
+Topic | Worker | Warrior | Thinker | Trader
 --- | --- | --- | --- | ---
 Qualities | Culture | Hierarchies | Religion | 
 Dept | Legislature | Executive | Judiciary | Resources

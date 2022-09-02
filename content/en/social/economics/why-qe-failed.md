@@ -4,10 +4,6 @@ heading: "Keynes Liquidity Preference Mistake and Our Alternative GR Model"
 date: 2020-09-24
 image: /covers/keynes.jpg
 description: "QE failed because profit maximization prevents money from going to not-so-profitable activities and employment even if it would energize the economy"
-linkb: /social/economics/1772-credit-crunch
-linkbtext: "1772-credit-crunch"
-linkf: /social/economics/principles/interest
-linkftext: "Interest"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
@@ -68,7 +64,7 @@ The main difference was that the doctrine of profit maximization did not exist b
 
 It was only formalized in the 1870's* through the marginal revolution or Marginalism and subsequently taught by Alfred Marshall, a British economist. His work was then carried by Keynes, another British economist, who cites Marshall's work heavily. We can say that Keynes was a Marginalist too, aside from being anti-classical.
 
-> *This is proven by Henry George's <i>Progress and Poverty</i> which talks about [the recession of 1879](https://www.henrygeorge.org/pchp22.htm) which was caused by land speculation. <br>This caused him to absurdly advocate a single land tax to prevent such a recession. This is similar to Piketty advocating a wealth tax. <br>Both of them fail to see that taxes are decided by accountants and accountants can get creative in order to bypass such fiscal policies. <br>Pantrynomics advocates structural reform and overhaul that goes beyond the scope of accounting.
+> *This is proven by Henry George's <i>Progress and Poverty</i> which talks about [the recession of 1879](https://www.henrygeorge.org/pchp22.htm) which was caused by land speculation. <br>This caused him to absurdly advocate a single land tax to prevent such a recession. This is similar to Piketty advocating a wealth tax. <br>Both of them fail to see that taxes are decided by accountants and accountants can get creative in order to bypass such fiscal policies. <br>Superphysics advocates structural reform and overhaul that goes beyond the scope of accounting.
 
 
 The main difference between Keynes and Marshall was, while Marshall valued real productivity as the cause of wealth, Keynes valued money as 'liquidity preference':

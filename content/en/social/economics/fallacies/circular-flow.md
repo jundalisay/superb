@@ -1,13 +1,9 @@
 ---
-title: "The Circular Flow of Economics vs Pantrynomics"
+title: "The Circular Flow of Economics vs Superphysics"
 heading: "Profits vs Balance"
 date: 2019-10-17
 image: /graphics/econ/circular.png
-description : "The Circular Flow of Economics emphasizes Businesses. That of Pantrynomics emphasizes balance and the natural price"
-linkb: "/social/economics/fallacies/interest"
-linkbtext: "Interest"
-linkf: "/social/economics/fallacies"
-linkftext: "Index"
+description : "The Circular Flow of Economics emphasizes Businesses. That of Superphysics emphasizes balance and the natural price"
 author: Juan
 icon: /icons/pantry.png
 aliases:
@@ -29,9 +25,9 @@ In time, these become very good at accumulating capital and starving others of i
 
 ![Circular FLow in Economics](https://socioecons.files.wordpress.com/2015/04/02-circular-flow-mixed-economy.png)
 
-<br>
 
-The Circular Flow of Pantrynomics, on the other hand, ensures the proper balance of capital by checking the two types of arbitrage through five tools:
+
+The Circular Flow of Superphysics, on the other hand, ensures the proper balance of capital by checking the two types of arbitrage through five tools:
 - Basic Universal Revenue will check primary arbitrage in the local level
 - Pool Clearing will check primary arbitrage in the international level
 - The Economic Table of the Physiocrats will check the secondary arbitrage internally
@@ -41,10 +37,10 @@ The Circular Flow of Pantrynomics, on the other hand, ensures the proper balance
 <!--  ![Circular flow of value](https://sorasystem.sirv.com/graphics/soranomiccycle.png) -->
 
 
-{{< img src="/graphics/econ/circular.png" alt="Circular flow in Pantrynomics" cap="In the circular flow of Pantrynomics, the features of Points-based taxation, Basic Universal Revenue, Pool Clearing, Economic Table, and Value-Trade Theory help achieve and maintain zero inflation. This makes it more robust than Economics, which only uses commercial or money-taxation." >}}
+{{< img src="/graphics/econ/circular.png" alt="Circular flow in Superphysics" cap="In the circular flow of Superphysics, the features of Points-based taxation, Basic Universal Revenue, Pool Clearing, Economic Table, and Value-Trade Theory help achieve and maintain zero inflation. This makes it more robust than Economics, which only uses commercial or money-taxation." >}}
 
 
-## The High Market Prices of Economics vs the Low Market Prices of Pantrynomics
+## The High Market Prices of Economics vs the Low Market Prices of Superphysics
 
 The dominance of business, arbitrage, and profit maximization in Economics leads to one common observable thing in all Economic systems:high market prices. After money is invented, it is pooled into corporations which is used to:
 - create economies of scale, and
@@ -81,13 +77,13 @@ The natural price is the lowest..he is likely to sell them for any considerable 
 {{< /quote >}}
 
 
-## The Goal of Pantrynomics: Zero Inflation
+## The Goal of Superphysics: Zero Inflation
 
-All of these then lead us to create one of the main goals of Pantrynomics which is zero inflation. This is different from the goal of Economics which is an inflation of 2-4%. To explain why a 2% inflation target is bad, we first have to define inflation and deflation [in Part 2](/social/economics/inflation-deflation) and show why the 2% inflation target of Economics naturally leads to inequality by favoring the business class, at the expense of the working class. 
+All of these then lead us to create one of the main goals of Superphysics which is zero inflation. This is different from the goal of Economics which is an inflation of 2-4%. To explain why a 2% inflation target is bad, we first have to define inflation and deflation [in Part 2](/social/economics/inflation-deflation) and show why the 2% inflation target of Economics naturally leads to inequality by favoring the business class, at the expense of the working class. 
 
 These then explain why economic crises, poverty, and inequality still persist despite over 100 years of Economics --because its principles actually create crises, poverty, and inequality.
 
 
 {{< me date="6/2021" >}}
-Overhauled to Pantrynomics and added Basic Universal revenue, Pool clearing, fairtax, etc
+Overhauled to Superphysics and added Basic Universal revenue, Pool clearing, fairtax, etc
 {{< /me >}}

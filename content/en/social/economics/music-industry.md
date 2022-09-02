@@ -1,9 +1,9 @@
 ---
 title: "How to Survive in the Music Industry"
-heading: "How Pantrynomics Can Aid Struggling Musicians"
+heading: "How Superphysics Can Aid Struggling Musicians"
 date: 2019-10-17
 image: /photos/econ/singer.jpg
-description : "The fellow-feeling advocated by Pantrynomics can help artists survive in the music industry"
+description : "The fellow-feeling advocated by Superphysics can help artists survive in the music industry"
 youtube: "rVP73TV2X0s"
 icon: /icons/pantry.png
 aliases:
@@ -15,7 +15,7 @@ aliases:
 Taylor Swift's op-ed in The Wall Street Journal shows her continued optimism in the music industry despite its continued downturn caused by the popularity of digital music. She defends her optimism by viewing music as valueable art which can still sell, especially if the buyer falls in love with an artist.
 
 
-## The Pantrynomics of Music
+## The Superphysics of Music
 
 While many musicians are alarmed at the decline of the price of their valuable art, Adam Smith assures us that its decline is actually natural:
 
@@ -101,7 +101,7 @@ Taylor Swift's optimism for the music industry is justified, not in the vendible
 But such activities require a lot of money which only famous and bankable musicians like Taylor Swift have. How will indie and less famous artists build a fan base to get the economic support that they need?
 
 
-## How Pantrynomics Can Help Struggling Musicians
+## How Superphysics Can Help Struggling Musicians
 
 <!-- July 2021 --> 
 

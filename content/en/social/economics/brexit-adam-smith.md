@@ -4,10 +4,6 @@ heading: "Deregulation is as bad as over-regulation"
 date: 2015-01-01
 image: "https://sorasystem.sirv.com/photos/brexit.jpg"
 description : "Adam Smith would be against Brexit because it reduces the market for British goods and services"
-linkb: /social/economics/
-linkbtext: "Pantrynomics Articles"
-linkf: /social/economics/
-linkftext: "Index"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
