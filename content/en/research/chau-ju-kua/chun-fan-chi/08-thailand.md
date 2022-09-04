@@ -1,15 +1,11 @@
-+++
-title= "Chaiya Thailand (Under Sumatra)"
-heading= "Chapter 8"
-description= "Chaiya (Tanmaling) is under a ruler called Siangkung."
-author= "Chau Ju Kua"
-image= "/flags/th.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/07-sumatra"
-linkbtext= "Sumatra"
-linkf= "/research/chau-ju-kua/chun-fan-chi/09-malaysia"
-linkftext= "Malaysia"
-date = "2022-01-27"
-+++
+---
+title: "Chaiya Thailand (Under Sumatra)"
+heading: "Chapter 8"
+description: "Chaiya (Tanmaling) is under a ruler called Siangkung."
+image: "/flags/th.png"
+date: 2022-01-22
+---
+
 
 ## Chaiya
 
@@ -33,16 +29,16 @@ The native products are:
 - the su (variety of gharu-wood) incense, ebony, camphor, elephants' tusks, and rhinoceros horns.
 
 The foreign traders barter them for:
-- silk parasols,
-- kittysols,
+- silk parasols
+- kittysols
 - silks
 - samshu
 - rice
 - salt
 - sugar
-- porcelain basins,
+- porcelain basins
 - heavy articles
-- bowls made of gold and silver.
+- bowls made of gold and silver
 
 Similar to Chaiya are:
 - Jiloting

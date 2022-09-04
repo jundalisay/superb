@@ -1,48 +1,33 @@
-+++
-title= "Myanmar (under Cambodia) -- Chau Ju Kua's Works Simplified"
-heading= "Chapter 5-6"
-author= "Chau Ju Kua"
-image= "/flags/mm.png"
-description= "Tongliumei is west of Cambodia. Its ruler wears flowers in his hair, which is done up in a knot"
-linkb= "/research/chau-ju-kua/chun-fan-chi/04-cambodia"
-linkbtext= "Cambodia"
-linkf= "/research/chau-ju-kua/chun-fan-chi/07-sumatra"
-linkftext= "Sumatra"
-date = "2022-01-29"
-+++
+---
+title: "Chiang Mai"
+# (Tongliumei under Cambodia)
+heading: "Chapter 5"
+description: "Chiang Mai is west of Cambodia. Its ruler wears flowers in his hair, which is done up in a knot"
+image: "/flags/mm.png"
+date: 2022-01-26
+---
 
-## 5. Tongliumei
+
+
+<!-- ## 5. Tongliumei -->
 
 
 Activity | Method 
 --- | ---
 Trade | Barter
 
+Myanmar <!-- Tongliumei --> is west of Cambodia. Its ruler wears flowers in his hair, which is done up in a knot.
 
-Tongliumei is west of Cambodia. Its ruler wears flowers in his hair, which is done up in a knot.
+On his shoulders, he wears a red garment covered over with white. 
 
-on his shoulders (he wears)
-a red (garment) covered over with white
-On audience days he ascends an open platform, for they have altogether
-no palace buildings of any kind.
-Palm-leaves are used as dishes in eating and drinking; neither spoons
-25 nor chopsticks are used in eating; fingers serve the purpose.
-There
-a mountain called
-Wu-nung
+On audience days he ascends an open platform, for they have no palace buildings of any kind at all.
 
-Sakya-muni Buddha after his) nie-2>an
-(^ being commemorated by a
-"iti)')
-place)
-30
-is
-*^® event
+Palm-leaves are used as dishes in eating and drinking. 
+- They eat with their fingers without any spoons nor chopsticks.
 
-(where) Shi-kia
-nirvana) manifested himself
-bronze elephant
-(at this
+There is a mountain called Wu-nung where Sakya-muni Buddha, after his nirvana, manifested himself. 
+- That event is commemorated by a bronze elephant. 
+
 
 Its products are:
 - varieties of gharu-wood
@@ -114,29 +99,20 @@ XI'=. -->
 ## 6. Bagan, Burma (Pukan)
 
 Activity | Method 
-+++ | +++
+--- | ---
 Trade | Barter
 
 The Burmese tie their hair into a knot on the forehead, binding it with a piece of coloured silk. Their king wears a high golden cap. 
 
-Burma has many horses. The people ride them
-without saddles.
+Burma has many horses. The people ride them without saddles.
 
-They are very devout Buddhists. All the priests
-wear yellow robes. 
+They are very devout Buddhists. All the priests wear yellow robes. 
 
-The lord of the country holds his court in the early morning,
-when
-the
-each carry a flower which they present to him, while the priests
-Indian
-repeat words praying for his long life. The flowers are fixed officials
-on the king's head; those which are
-offered to the Buddha. 
-There is In the first
-a mission (to
-left over are taken to the temples and so
-It has a temple dedicated to the 
+The lord of the country holds his court in the early morning, each of the officials carry a flower which they present to him, while the priests repeat Indian words praying for his long life.
+
+The flowers are fixed on the king's head. Those which are left over are taken to the temples and to be offered to the Buddha.
+
+Bagan has a temple dedicated to the Marquis Chu-ko Wu. 
 
 In 1004, they sent to China a tribute, together with Palembang Sumatra and the Arabs, when they had an opportunity of witnessing the Feast of Lanterns. 
 

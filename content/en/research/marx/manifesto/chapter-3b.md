@@ -1,13 +1,9 @@
 ---
 heading: "Chapter 3b of The Communist Manifest Simplified"
 title: "German or 'True' Socialism"
-date: 2022-04-13
+date: 2022-04-16
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto/chapter-3
-linkbtext: "Chapter 3"
-linkf: /research/marx/manifesto/chapter-3c
-linkftext: "Chapter 3c"
 author: Karl Marx
 icon: /icons/marx.png
 ---

@@ -1,15 +1,12 @@
-+++
-title= "Palembang Sumatra (San Fotsi)"
-heading = "Chapter 7"
-description= "Sumatra is between Cambodia and Java. Its territory is over 15 provinces."
-author= "Chau Ju Kua"
-image= "/flags/id.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/05-myanmar"
-linkbtext= "Myanmar"
-linkf= "/research/chau-ju-kua/chun-fan-chi/08-thailand"
-linkftext= "Thailand"
-date = "2022-01-28"
-+++
+---
+title: "Palembang Sumatra (San Fotsi)"
+heading: "Chapter 7"
+description: "Sumatra is between Cambodia and Java. Its territory is over 15 provinces."
+image: "/flags/id.png"
+date: 2022-01-24
+---
+
+
 
 Activity | Method 
 --- | ---
@@ -31,144 +28,100 @@ The people either live scattered about outside the city, or on the water of boar
 They are skilled at fighting on land or water.
 
 When they are about to make war on another state, they assemble and send forth such a force as the occasion demands. They (then) appoint chiefs and leaders, and all provide their own military equipment and the necessary provisions.
-enemy and braving death they have not
 
+In facing the enemy and braving death, they do not have any equals in other nations. 
 
 They use chopped-of lumps of silver in their business transactions instead of stringed copper cash. 
 
+During most of the year the climate is hot. There is but little cold weather. 
 
-their equal
-weather. 
-
-Their domestic animals are very
-They have wine
-silver 25
-all
-is hot,
-much
-and there
-is
-but
-little
-cold
-like those of China.
-of flowers,
-^.
-In writing documents on
-and the king's signet
-characters,
-lumps of
-wine of cocoanuts, and wine of areca nuts
-fermented, though without yeast of any kind, but they are
-intoxicating to drink
-acters^,
-nations.
-in their business transactions.
-During most of the year the climate
-and honey,
+Their domestic animals are very much like those of China.
 
 
-In facing the
-among other
-cash, but use chopped off
-20
-which they use
-official
-is
-affairs
-used as a
-they use foreign
-seal.
-They
-also
-(^)
-char-
-know Chinese
-in sending memorials to (our) court.
+
+They have wine of coconuts, and wine of areca nuts and honey, all fermented and intoxicating, though without yeast. 
+
+
+In writing official documents, they use foreign characters, and the king's signet is used as a seal. 
+- They also know Chinese characters which they use in sending memorials to (our) court.
 
 
 The laws of Sumatra are very severe. Adultery exposes man and woman to death. 
 
-When the king dies, the common people mourn by shaving their heads. His personal followers  choose voluntary death by leaping into the blazing pyre; this is called diving
-and dying together.
+When the king dies, the common people mourn by shaving their heads. His personal followers  choose voluntary death by leaping into the blazing pyre. This is called diving and dying together.
 
-They have a kind of image called Hill of Gold and Silver and it is cast in gold. Each succeeding king before ascending the throne has cast a golden image to represent Ms
-person lo, and they are most particular to make offerings,
-of golden vessels
-ao to these images, and the golden images and golden
-vessels all bear inscriptions to caution future generations not to melt
+They have a kind of image called Hill of Gold and Silver, cast in gold. 
+
+Each succeeding king before ascending the throne has cast a golden image to represent his person. They are most particular to make offerings of golden vessels to these images. 
+- The golden images and golden vessels all bear inscriptions to caution future generations not to melt them down. 
 
 When anyone is dangerously ill, the king distributes his weight in silver among the poor. This is thought to delay death. 
 
-They call their king Lungtsing. He cannot eat grain, but is fed on shahu. Should he do otherwise, the year would be a dry one and grain dear. 
+They call their king Lungtsing. 
+- He cannot eat grain, but is fed on shahu.
+- Should he do otherwise, the year would be a dry one and grain dear. 
 
-He also bathes in rose-water; should
-nary water, there would be a great
-he use ordi-
-flood.
+He also bathes in rose-water. 
+- If he uses ordinary water, there would be a great flood.
 
-The king has a high hat of gold, set with hundreds of jewels and very heavy. At great court ceremonies no one but the king is able to
-wear
-it;
-other people are unable.
-all
-When
-the throne becomes vacant
-the king's sons are assembled, the cap is handed them and he
-(to
-bear
-its
-There
-25
-who
-is
-all
-able
-weight) succeeds to the throne.
-is
-an old tradition that the ground in
-this country once suddenly
-gaped open and out of the cavern came many myriads of cattle, which rushed
-off in herds into the mountains, though the people
-food. Afterwards the crevice got stopped up with bamboo and trees and
-all tried to
-get them for
-disappeared ".
+The king has a high hat of gold, set with hundreds of jewels and very heavy. 
+
+At great court ceremonies, only the king is able to wear it.
 
 
-Exclusive of the native products, which include tortoise-shell, camphor,
-so the chon, su
-and chan
-(varieties of gharu-wood), a coarse
-sMu (§^)
-(variety
-of gharu-wood), laka-wood, cloves, sandal-wood and cardamoms, there are also
-pearls, frankincense, rose-water, gardenia flowers, wu-na-tsH{'>), myrrh, aloes,
-asa-foetida, putchuk, liquid
-amber, foreign cotton stuffs
-35 of the
-Arab
-The
-storax,
-and sword blades. All these
-(^ ^
-{^ ^) who
-(Ta-shi) foreigners
-foreign traders
-in exchange gold,
-silver,
-elephants' tusks, coral-trees, cat's-eyes,
-^ ^)
-(latter) are
-products
-".
-gather together in this country give
-porcelain-ware, silk brocades, skeins of
-silk,
-gauzes, sugar, iron, samshu, rice, dried galangal, rhubarb and camphor.
-silk
+When the throne becomes vacant, the king's sons are assembled. 
+- The cap is handed them
+- he who can bear its weight succeeds to the throne.
 
-Malaysia is in the ocean controlling the straits through which the foreigners' sea and land traffic in either direction must pass. Anciently, they used an iron chain as a barrier to keep the pirates of other countries in check. 
+This country has an old tradition that the ground in once suddenly gaped open and out of the cavern came many myriads of cattle, which rushed off in herds into the mountains, though the people tried to catch them for food.
+
+Afterwards, the crevice got stopped up with bamboo and trees and disappeared.
+
+Their native products are:
+- tortoise-shell
+- camphor
+- the chon, su, and chan (varieties of gharu-wood)
+- a coarse
+- laka-wood
+- cloves
+- sandal-wood
+- cardamoms
+
+They sell Arab products: 
+- pearls
+- frankincense
+- rose-water
+- gardenia flowers
+- wu-na-tsi
+- myrrh
+- aloes
+- asofoetida
+- putchuk
+- elephants' tusks
+- coral-trees
+- cat's-eyes
+- liquid amber
+- foreign cotton stuffs
+- sword blades
+- liquid storax
+
+For these, the foreign traders exchange:
+- gold
+- silver
+- porcelain-ware
+- silk brocades
+- skeins of silk
+- silk gauzes
+- sugar
+- iron
+- samshu
+- rice
+- dried galangal
+- rhubarb
+- camphor
+
+Sumatra is in the ocean controlling the straits through which the foreigners' sea and land traffic in either direction must pass. 
+- Anciently, they used an iron chain as a barrier to keep the pirates of other countries in check. 
 
 It could be raised or lowered by a cunning device. 
 
@@ -176,19 +129,9 @@ If a merchant ship arrived, it was lowered. After many years of peace, there was
 
 The natives revere it like a god. Vessels coming there sacrifice to it. When rubbed with oil, it shines like new.
 
-If a
-After a
-it,
-sacrifice to it.
-has
-it
-When rubbed with
-it
-oil
-
 If a merchant ship passes by without entering, their boats go forth to make a combined suicidal attack. This is why it is a great shipping centre
 
-Its dependencies are= 
+Its dependencies are:
 
 - Thailand:
   - Tanmaling  
@@ -196,7 +139,6 @@ Its dependencies are=
   - Tsienmai 
   - Pata
   - Kialohi
-
   - Palinfong
 
 - Malaysia:
@@ -205,7 +147,6 @@ Its dependencies are=
   - Pahang (Pongfong)   
   - Trengganu (Tongyanong)
   - Kelantan
-
 
 - Sunda
 - Kienpi

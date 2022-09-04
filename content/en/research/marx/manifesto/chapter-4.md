@@ -4,14 +4,9 @@ title: "The Communists and Various Opposition Parties"
 date: 2022-04-13
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto
-linkbtext: "Index"
-linkf: /research/marx/manifesto
-linkftext: "Index"
 author: Karl Marx
 icon: /icons/marx.png
 ---
-
 
 
 <!-- Section II has made clear the relations of the Communists to the existing working-class parties, such as the Chartists in England and the Agrarian Reformers in America. -->

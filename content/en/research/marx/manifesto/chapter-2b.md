@@ -1,13 +1,9 @@
 ---
 heading: "Chapter 2b of The Communist Manifest Simplified"
 title: "Abolition of the Family and Nations"
-date: 2022-04-13
+date: 2022-04-23
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto/chapter-2
-linkbtext: "Chapter 2"
-linkf: /research/marx/manifesto/chapter-3
-linkftext: "Chapter 3"
 author: Karl Marx
 icon: /icons/marx.png
 ---

@@ -1,15 +1,11 @@
-+++
-title= "Cambodia (Chonla) -- Chau Ju Kua's Works Simplified"
-heading= "Chapter 4"
-description= "Cambodia is south of South Vietnam"
-author= "Chau Ju Kua"
-image= "/flags/kh.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/01-vietnam"
-linkbtext= "Vietnam"
-linkf= "/research/chau-ju-kua/chun-fan-chi/05-myanmar"
-linkftext= "Myanmar"
-date = "2022-01-30"
-+++
+---
+title: "Cambodia (Chonla)"
+heading: "Chapter 4"
+description: "Cambodia is south of South Vietnam"
+image: "/flags/kh.png"
+date: 2022-01-29
+---
+
 
 
 Activity | Method 
@@ -30,132 +26,86 @@ This can be reached from Guanzhou by ship in a month on a good wind.
 
 The king's clothing is similar to that of South Vietnam. But the ceremonial at his court is more elaborate. His carriage is drawn by horses or oxen. 
 
-The people live in houses with sides of bamboo matting and thatched with reeds. Only the king resides in a palace of hewn stone. 
 
-It has a granite lotus some three hundred odd
-richly ornamented *.
+The people live in houses with sides of bamboo matting and thatched with reeds.
+- Only the king resides in a palace of hewn stone. 
+
+It has a granite lotus some 300 odd. 
+
+The palace buildings are solidly built and richly ornamented.
+
+The king's throne is 
+
 pond of extraordinary beauty with golden bridges,
 feet long*.
 
-The palace buildings are
-The throne on which the king
-and the seven precious substances; the dais
-is sits is
-When
-full
-all
-made of gharu-wood
-jewelled, with supports
-veined wood (ebony?); the screen (behind the throne)
-is of
 
-of
-ivory.
+The throne on which the king is made of gharu-wood and the seven precious substances. The dais is jewelled, with supports of veined wood (ebony?). The screen (behind the throne) is of ivory.
 
-the ministers of state have audience, they
-prostrations at the foot of the throne
-30
-solidly buLlta,nd
-first
-make
-three 35
-they then kneel and remain thus, with hands crossed on their breasts, in a circle round the king, and discuss
-When
-the affairs of state.
-and
-make another
-they have finished, they
-In the south-west corner (of the capital) there
-5
-prostration
-retire.
-a bronze tower (^),
-is
-on which are 24 bronze pagodas guarded by 8 bronze elephants,
+When all the ministers of state have audience, they make 3 full prostrations at the foot of the throne. They then kneel with hands crossed on their breasts, in a circle round the king, and discuss state affaris. 
 
-each weighing 4,000 catties,
-There are some 200,000 war elephants and many horses, though of small size.
+When they have finished, they make another prostration and retire.
 
-The people are devout Buddhists. There are, some 300 foreign women= they dance and
-They are
-As
-called
-a-nan
-serving
-offer food to the
-or slave dancing-girls
-Buddha.
+In the south-west corner (of the capital) there is a bronze tower, on which are 24 bronze pagodas guarded by 8 bronze elephants, each weighing 4,000 catties.
+
+There are some 200,000 war elephants and many small horses.
+
+The people are devout Buddhists. There are, some 300 foreign women, called a-nan or slave dancing-girls, who dance and offer food to the Buddha. 
 
 
-a hand and a foot and by branding on the chest.
+Lewdness is not considered criminal. Theft is punished by:
+- cutting off a hand and a foot and 
+- branding on the chest
 
 The incantations of their Buddhist and Taoist priests have magical powers.
-
-The Buddhists with yellow robes can marry. Those in red robes lead ascetic lives in temples.
+- The Buddhists with yellow robes can marry. 
+- Those in red robes lead ascetic lives in temples.
 
 The Taoists clothe themselves with leaves and have a deity called Potoli which they worship with great devotion.
 
- unclean,
-so
-country) hold the right hand
-when they wish
-mix
-to
 
-The people of this
-may
-to be clean, the left
-their rice with any kind of
-meat broth,
-they use the right hand to do so and also to eat with.
-The
-as
-much
-soil is
-as
-Each one takes
-rich and loamy; the fields have no bounds.
-he can
-cultivate.
-for every tael of
-Rice and cereals are cheap;
-lead one can buy two bushels of rice.
+The people keep their;
+- right hand clean  
+- left hand unclean
 
-The native products comprise
-elephants' tusks, the cJian and su varieties of gharu-wood
-has
-great
-yellow wax, kingfisher's feathers (Note= Of which this country
-ties of
-store, gharu-wood),
-dammar
-fine
-and coarse
-resin and gourd
-sJiou
-dammar, foreign
-oils,
-«gold coloured incense» {Mn-yen-himg), sapan-wood,
-fabrics
-The foreign
-ginger peel
-raw
-silk
-and cotton
-traders offer
-in exchange for these gold,
-silver, porcelain-
-ware, satinets, kittysols, skin (covered) drums, samshu, sugar, preserves and
-vinegar.
-The following foreign
-35 of this
-^H-
-to their customs, 
+They use the right hand to mix their rice with any kind of meat broth. 
 
-Lewdness is not considered criminal. Theft is punished
-by cutting 
 
-The following foreign countries are all dependencies of Cambodia= 
+The soil is rich and loamy. 
+- The fields have no bounds.
+
+Each one takes as much as he can cultivate.
+
+Rice and cereals are cheap: for every tael of lead, one can buy 2 bushels of rice.
+
+The native products are:
+- elephants' tusks
+- the chan and su varieties of gharu-wood
+- yellow wax
+- kingfisher's feathers, which are most plentiful in this country
+- dammar resin and gourd dammar
+- foreign oils
+- ginger peel
+- gold coloured incense
+- sapan-wood
+- raw silk
+- cotton fabrics
+
+For these, foreign traders offer:
+- gold
+- silver
+- porcelain-ware
+- satinets
+- kittysols
+- skin (covered) drums
+- samshu
+- sugar
+- preserves
+- vinegar.
+
+
+
+The following foreign countries are all dependencies of Cambodia:
 - Tongliumei
 - Possilan
 - Lohu
@@ -179,7 +129,7 @@ In 1199, Cambodia invaded South Vietnam and has to this day become a dependency 
 
 From 618-627, Cambodia had initial relations with China. It sent its first tribute in 1120. 
 
-To the South, Cambodia is bordered by Thailand (Kialohi), a dependency of Malaysia (Sanfotsi). 
+<!-- To the South, Cambodia is bordered by Thailand (Kialohi), a dependency of Malaysia (Sanfotsi). 
 
 invaded South Vietnam with a powerful army, made the sovereign prisoner,
 put to death his ministers, and nearly exterminated the people, after which it
@@ -198,7 +148,7 @@ second year of the suan-ho period (1120)
 (to the reigning dynasty).
 it
 (first)
-sent a tribute mission
+sent a tribute mission -->
 
 Cambodia is bounded on the south by Thailand (Kialohi), a dependency of Palembang Sumatra.
 

@@ -1,15 +1,12 @@
-+++
-title= "Java (Shopo) Indonesia "
-heading= "Chapter 14"
-description= "The kingdom of Java is also called Pukialung"
-author= "Chau Ju Kua"
-image= "/flags/id.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/13-sri-lanka"
-linkbtext= "Sri Lanka"
-linkf= "/research/chau-ju-kua/chun-fan-chi/16-west-india"
-linkftext= "West India"
-date = "2022-01-23"
-+++
+---
+title: "Java (Shopo) Indonesia"
+heading: "Chapter 14"
+date: 2022-01-14
+description: "The kingdom of Java"
+image: "/flags/id.png"
+author: "Chau Ju Kua"
+---
+
 
 
 Activity | Method 
@@ -21,99 +18,51 @@ The kingdom of Java is also called Pukialung. It is southeast of Canton and can 
 
 East of Java is the sea where the waters flow downward and there is the kingdom of women.
 
-West of Java half a month away is Kunlun. Five days away westward is Arabia
-
 Still farther east is the Weilu, the end of the habitable world. 
 
-East of Java 
-
-month (to the west from ShO-p'o?)one comes (Jg)
-country. To the south (from the port or chief city
-
-Kunlun is west of Java, sailing for half a month. 
-
-reached in three days' journey (0 ^).
-
-5 days journey from Kunlun is a country of the Arabs. 45 days Westward.
-
-Westward one comes to the sea in forty-five days' journey.
-Northward one comes
-5
-to the sea in four days' journey (from the chief city?).
+West of Java half a month away is Kunlun. Five days away westward is Arabia.
 
 
-Sailing north-west from Java in 15 days leads to Brunei. Malaysia is 10 days from Brunei. Kulo is another 7 days. Another 7 days is Chailiting then Hai Phong Vietnam (Kianchi) and then Canton. 
+
+
+<!-- month (to the west from ShO-p'o?)one comes (Jg)
+country. To the south (from the port or chief city -->
+
+<!-- reached in 3 days' journey (0 ^). -->
+
+<!-- 5 days journey from Kunlun is a country of the Arabs.  -->
+
+<!-- 45 days Westward. -->
+
+<!-- Westward one comes to the sea in forty-five days' journey.
+
+Northward one comes to the sea in four days' journey (from the chief city?). -->
+
+
+Sailing north-west from Java in 15 days leads to Brunei.
+- Malaysia is 10 days from Brunei.
+- Kulo is another 7 days.
+- Another 7 days is Chailiting then Hai Phong Vietnam (Kianchi) and then Canton. 
 
 
 Java has 2 religions:
 - Buddhism
 - shoshon
 
-one
-is
-the other that of the usho-sMniy
-is
-a
-hill
-on which
+There is a hill called Parrot Hill where parrots live. 
 
+The king wears his hair in a knot. On his head is a golden bell. 
 
-The king wears
+He wears a silken robe and leather shoes. His throne is a square seat. His officers at their daily audience bow 3 times when withdrawing. 
 
-live parrots
-and
-called «Parrot Hill»
-it is
-on
-his hair in a tuft (or knot),
-officers at their daily
-"When he goes forth he
-rides
-his
-head
-audience
-bow
-three times
-an elephant, or
-is
-is
-a golden
-a square
-is
-(^
-armed
-:
-seat,
-when withdrawing.
-carried in a chair*
-followed by a company of from 500-700
-When
-Buddha»
-beU; he wears a silken robe and leather shoes ^. His throne
-and his
-(^) Kuaug-
-There are two kinds of monasteries
-There
-more
-to the
-kingdom
-in the
-^^^ reaches Hai Phong Vietnam and then to Canton
-kingdom
-you come in ten days
-soldiers.
-'
-any one of the people sees the king, he squats down until he has
-passed by.
-Three sons of the king are made Fu-wang
-Of
-3E Royal
-Deputies),
-they have Ssi-ma-Me (and) Lo-U-lien (^) J^ -^
-conjointly manage the affairs of Government as the Tsai-siang
-officials
-who
-Ministers of State) do in China ^
+He rides an elephant, or is carried in a chair, followed by 500-700 armed soldiers. 
+ 
+The people squat down when they see the King  until he has passed by.
+
+Three sons of the king are made Royal Deputies. 
+
+For officials, they have Ssi-ma-kie and Lo-ki-lien. They conjointly manage the affairs of Government as our Ministers of State do in China. 
+
 **They have no monthly salaries. But at intervals, they are given a liberal supply of native produce.**
 
 They have 300 or more civil officials who divide among themselves the government of the cities, granaries, and the treasury.

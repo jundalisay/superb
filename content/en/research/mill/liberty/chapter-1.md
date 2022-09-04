@@ -1,20 +1,15 @@
-+++
-title= "Introduction"
-heading= "Chapter 1"
-image= "/covers/liberty.jpg"
-date= 2022-01-31
-author= "John Stuart Mill"
-description= "Liberty is non-harm and should not be applied to backward societies where despotism is best"
-linkb= "/research/mill/liberty"
-linkbtext= "Index"
-linkf= "/research/mill/liberty/chapter-2"
-linkftext= "Chapter 2"
-icon = "/icons/mill.png"
-youtube = "UpwdTIAcLVY"
-aliases = [
-  "/research/mill/liberty/chapter-01"
-]
-+++
+---
+title: "Introduction"
+heading: "Chapter 1"
+image: "/covers/liberty.jpg"
+date: 2022-01-31
+author: "John Stuart Mill"
+description: "Liberty is non-harm and should not be applied to backward societies where despotism is best"
+icon: "/icons/mill.png"
+youtube: "UpwdTIAcLVY"
+aliases:
+  /research/mill/liberty/chapter-01
+---
 
 
 > Superphysics Note: Mill's system of liberty only prevents the violence of despotism. It does not prevent the slavery and oppression from the strong classes that prey on the weak. This manifess nowdays as the oppression from inequality and inflation 

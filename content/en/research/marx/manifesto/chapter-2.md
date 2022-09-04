@@ -1,13 +1,9 @@
 ---
 heading: "Chapter 2 of The Communist Manifest Simplified"
 title: "Proletarians and Communists"
-date: 2022-04-13
+date: 2022-04-24
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto/chapter-1c
-linkbtext: "chapter-1c"
-linkf: /research/marx/manifesto/chapter-2b
-linkftext: "Chapter 2b"
 author: Karl Marx
 icon: /icons/marx.png
 ---

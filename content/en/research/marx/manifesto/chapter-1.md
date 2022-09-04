@@ -1,13 +1,9 @@
 ---
 heading: "Chapter 1 of The Communist Manifest Simplified"
 title: "Bourgeois and Proletarians"
-date: 2022-04-13
+date: 2022-04-29
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto
-linkbtext: "Index"
-linkf: /research/marx/manifesto
-linkftext: "Index"
 author: Karl Marx
 icon: /icons/marx.png
 ---

@@ -1,15 +1,11 @@
-+++
-title= "Sunda (Western Java)"
-heading = "Chapter 11"
-description= "The kingdom of Sunda (Sinto) has a harbor with a depth of 60 feet." 
-author= "Chau Ju Kua"
-image= "/flags/id.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/09-malaysia"
-linkbtext= "Malaysia"
-linkf= "/research/chau-ju-kua/chun-fan-chi/13-sri-lanka"
-linkftext= "Sri Lanka"
-date = "2022-01-25"
-+++
+---
+title: "Sunda (Western Java)"
+heading: "Chapter 11"
+date: 2022-01-18
+description: "The kingdom of Sunda (Sinto) has a harbor with a depth of 60 feet"
+image: "/flags/id.png"
+author: "Chau Ju Kua"
+---
 
 
 Activity | Method 
@@ -19,15 +15,9 @@ Trade | Barter
 
 The kingdom of Sunda (Sinto) has a harbor with a depth of 60 feet. 
 
-People live along the shores wit houses made of poles stuck in the ground, roofed over with the bark of the coir-palm. The partitions are made with wooden boards tied with rattan. 
+The people are given to agriculture. They live along the shores wit houses made of poles stuck in the ground, roofed over with the bark of the coir-palm. The partitions are made with wooden boards tied with rattan. 
 
-Both men and women wrap round their
-
-cutting their hair they only leave
-loins a piece of cotton,
-and in
-half an inch long.
-(of this country) is 
+Both men and women wrap round their loins a piece of cotton. They cut their hair, leaving it only half an inch long.
 
 The country produces:
 - pepper
@@ -38,7 +28,7 @@ The country produces:
 
 Its pepper are small-grained, but heavy and superior to that of Tapan (Eastern Java). 
 
-It has no regular government. This causes people to be criminals which then drives away foreign traders.
+It has no regular government. This causes people to be criminals. This is why foreign traders rarely go there.
 
 <!-- Notes.
 1)
@@ -103,7 +93,7 @@ a native art
 
 
 
-## 12. Lamuri Sumatra
+## 12. Lamuri Eastern Sumatra
 
 Lamuri (Kienpi) is at the the mouth of the road and is resorted to by trading ships as an anchorage. It can be reached from Palembang in half a month's sailing. 
 

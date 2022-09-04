@@ -1,17 +1,13 @@
-+++
-title= "The Liberty Of Thought And Discussion"
-heading= "Chapter 2"
-image= "/covers/liberty.jpg"
-date= 2022-01-30
-author= "John Stuart Mill"
-description= "Utility is the foundation of morality"
-youtube = "UpwdTIAcLVY"
-linkb= "/research/mill/liberty/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/mill/liberty/chapter-3"
-linkftext= "Chapter 3"
-icon = "/icons/mill.png"
-+++
+---
+title: "The Liberty Of Thought And Discussion"
+heading: "Chapter 2"
+image: "/covers/liberty.jpg"
+date: 2022-01-28
+author: "John Stuart Mill"
+description: "Utility is the foundation of morality"
+icon: "/icons/mill.png"
+youtube: "UpwdTIAcLVY"
+---
 
 
 The liberty of the press is one of the securities against corrupt or tyrannical government.

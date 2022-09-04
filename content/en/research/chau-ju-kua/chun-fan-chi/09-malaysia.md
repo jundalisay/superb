@@ -1,15 +1,12 @@
-+++
-title= "Malaysia (Under Sumatra)"
-heading= "Chapter 8"
-description= "Kedah can be reached from Chaiya by sailing six days. There is also an overland road between the two countries."
-author= "Chau Ju Kua"
-image= "/flags/my.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/08-thailand"
-linkbtext= "Thailand"
-linkf= "/research/chau-ju-kua/chun-fan-chi/11-indonesia"
-linkftext= "Indonesia"
-date = "2022-01-26"
-+++
+---
+title: "Malaysia (Under Sumatra)"
+heading: "Chapter 9"
+date: 2022-01-20
+description: "Kedah can be reached from Chaiya by sailing six days. There is also an overland road between the two countries"
+image: "/flags/my.png"
+author: "Chau Ju Kua"
+---
+
 
 
 ## 9. Kedah, Langkasuka (Lingyassikia)
@@ -89,7 +86,7 @@ Marsden -->
 ## 10. Patalung (Foloan) Malaysia  
 
 Activity | Method 
-+++ | +++
+--- | ---
 Trade | Bullion
 
 

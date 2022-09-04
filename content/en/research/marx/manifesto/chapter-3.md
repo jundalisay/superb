@@ -1,13 +1,9 @@
 ---
 heading: "Chapter 3 of The Communist Manifest Simplified"
 title: "Socialist and Communist Literature"
-date: 2022-04-13
+date: 2022-04-19
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto
-linkbtext: "Index"
-linkf: /research/marx/manifesto
-linkftext: "Index"
 author: Karl Marx
 icon: /icons/marx.png
 ---

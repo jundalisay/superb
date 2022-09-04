@@ -1,13 +1,9 @@
 ---
 heading: "Chapter 1b of The Communist Manifest Simplified"
 title: "Modern Industry"
-date: 2022-04-13
+date: 2022-04-28
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto/chapter-1
-linkbtext: "Chapter 1"
-linkf: /research/marx/manifesto/chapter-1c
-linkftext: "Chapter 1c"
 author: Karl Marx
 icon: /icons/marx.png
 ---

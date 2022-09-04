@@ -1,15 +1,12 @@
-+++
-title= "Ceylon (Lanwuli under Sumatra)"
-heading = "Chapter 13"
-description= "With a north wind one comes within 20 days of Ceylon which under the Chalukya (Nanpi)."
-author= "Chau Ju Kua"
-image= "/flags/lk.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/11-indonesia"
-linkbtext= "Indonesia"
-linkf= "/research/chau-ju-kua/chun-fan-chi/14-java"
-linkftext= "Java"
-date = "2022-01-24"
-+++
+---
+title: "Ceylon (Lanwuli under Sumatra)"
+heading: "Chapter 13"
+date: 2022-01-16
+description: "With a north wind one comes within 20 days of Ceylon which under the Chalukya (Nanpi)"
+image: "/flags/lk.png"
+author: "Chau Ju Kua"
+---
+
 
 
 Activity | Method 
@@ -29,113 +26,68 @@ With a north wind one comes within 20 days of Ceylon which under the Chalukya (N
 Sailing from Ceylon, one arrives at Silan by seeing a continual flashing of lightning.
 
 The King of Ceylon is black. His hair is unkempt and head uncovered. 
+- He only wears a cotton cloth of different colours wrapped around him
+- He wears sandals of red leather, tied with golden strings.
+- He rides an elephant or is carried in a litter
 
-He only wears a cotton cloth of different colours wrapped 
+All day, he chews a paste of betel nut and pearl ashes.
 
-him; on his feet he wears sandals of red leather, tied with golden strings.
-When
-he goes forth he rides an elephant or
-is
-carried in a litter
-(^
-^).
-All day he chews a paste of betel nut and pearl ashes.
-His palace
-cornelians
-There
-is
-is
-ornamented with cat's-eyes, blue and red precious stones, so
-and other jewels; the very
-floor
+His palace is ornamented with cat's-eyes, blue and red precious stones, cornelians, and other jewels. 
+
+The very floor
 he walks upon
 is
-an eastern and western palace, and at each there
-the trunk and branches
-all
-of gold, the flowers, frdt
-blue and red precious stones and such like jewels.
-so ornamented.
-is
-a golden tree,
-and leaves of
-At
-cat's-eyes,
-the foot of these trees
-are golden thrones with opaque glass (3^ J^) screens.
-When
-the king holds court he uses the eastern palace in
-the forenoon and the western in the
-afternoon. When (the king) is seated,
-the jewels flashing in the sunshine,
-the glass (screens) and the jewel-tree
-shining on each other, make it like the
-glory of the rising sun.
 
-Two attendants are always present holding a
-golden dish to receive the
-remains of the betel nut (paste) chewed by
-the king. The king's attendants
-pay a monthly. fee of one of gold into the government treasury for
-the privilege of getting the betel nut (paste)
-remains, for
-flower
-camphor « and
-The king holds
+There is an eastern and western palace
+- Each has a golden tree, the trunk and branches are made of gold. 
+- The flowers, fruit, and leaves are cat's-eyes, blue and red precious stones and such like jewels.
+- At the foot of these trees are golden thrones with opaque glass screens.
 
-be burnt by
-fire,
-all
-in his
-hand a jewel
-and which shines in
-The king rubs his face with it
-would retain his youthful looks.
 
-it
-contains «plum
-kinds of precious substances.
-daily,
-five inches in diameter,
-which cannot
-(the darkness of) night like a torch
-^
-and though he were passed 90 he
+When the king holds court, his court uses the eastern palace in the forenoon and the western in the afternoon. 
 
-Its people are very dark-skinned. They wrap a sarong around their bodies. They go bare-headed and barefooted. 
+When (the king) is seated, the jewels flashing in the sunshine, the glass (screens) and the jewel-tree shining on each other, make it like the glory of the rising sun.
 
-They use their hands in eating food. Their household utensils are of copper.
+Two attendants are always present holding a golden dish to receive the remains of the betel nut (paste) chewed by the king. 
 
-Ceylon has a mountain called Siluntie. On the top, there is a huge imprint of a man's foot, over 7 feet long, and a like imprint is visible in the water (of the sea)
-within
-is (in this
- a distance of over
-little
-and
-big, all
-300 U from
-The products
-J^), camphor,
-the mountain. The forest trees on the mountain,
-bend towards
-it
-(as if reverencing
+The king's attendants pay a monthly fee of 20 taels of gold into the government treasury for the privilege of getting the betel nut (paste)
+remains, for it contains plum flower, camphor, and other precious substances. 
 
+The king holds in his hand a jewel of five inches in diameter, which cannot be burnt by fire. 
+- It shines at night like a torch
+- The king rubs his face with it daily
+- He still retains his youthful looks even if he is past 90 years old
+
+
+The people are very dark-skinned.
+- They wrap a sarong around their bodies.
+- They go bare-headed and barefooted. 
+- They use their hands in eating food.
+- Their household utensils are of copper.
+
+Ceylon has a mountain called Siluntie. On the top, there is a huge imprint of a man's foot, over 7 feet long, and a like imprint is visible in the water (of the sea) within over 300 li from the mountain. All the forest trees on the mountain, bend towards it (as if reverencing it).
 
 It exports include:
 - cat's-eyes
 - red transparent glass
-blue and red precious stones. The products of the
-(S^
-soil
-are
-^
-25
-cardamoms, mit-lan bark (:^
-J^) and both coarse and fine perfumes \
-Foreign traders exchange for them sandal-wood, cloves, camphor, gold, silver,
-porcelain- ware, horses, elephants and silk
-stuffs.
+- camphor
+- blue and red precious stones. 
+
+Its crops are 
+- cardamoms
+- mulan bark
+- coarse and fine perfumes
+
+Foreign traders exchange for them:
+- sandal-wood
+- cloves
+- camphor
+- gold
+- silver
+- porcelain- ware
+- horses
+- elephants
+- silk stuffs.
 
 This country sends a yearly tribute to Sumatra.
 

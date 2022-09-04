@@ -1,13 +1,9 @@
 ---
 heading: ""
 title: "Preface of the Comunist Manifesto Simplified"
-date: 2022-04-13
+date: 2022-04-30
 image: /covers/manifesto.png
 description: ""
-linkb: /research/marx/manifesto
-linkbtext: "Index"
-linkf: /research/marx/manifesto
-linkftext: "Index"
 author: Karl Marx
 icon: /icons/marx.png
 ---

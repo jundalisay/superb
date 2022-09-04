@@ -1,14 +1,10 @@
-+++
-title= "Vietnam"
-heading= "Chapters 1-3 of Chun Fan Chi"
-description= "Kiau-chi, the ancient Kiau-chou, to the east and the south reaches to the sea and borders on South Vietnam."
-image= "/flags/vn.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi"
-linkbtext= "Index"
-linkf= "/research/chau-ju-kua/chun-fan-chi/04-cambodia"
-linkftext= "cambodia"
-date = "2022-01-31"
-+++ 
+---
+title: "North, South, and Champa Vietnam"
+heading: "Chapters 1-3"
+description: "North Vietnam, the ancient Kiau-chou, to the east and the south reaches to the sea and borders on South Vietnam."
+image: "/flags/vn.png"
+date: 2022-01-31
+---
 
 
 Activity | Method 
@@ -27,13 +23,11 @@ FRIEDRICH HIRTH  W^. ROCKHILL. -->
 
 Kiau-chi, the ancient Kiau-chou, to the east and the south reaches to the sea and borders on South Vietnam. 
 
-To the west it communicates with the Pai-i
-to K'in-chou to the north it
-comes down
+- To the west is <!--  communicates with --> the Pai-i Man. 
+- To the north is K'in-chou,
 
-The Chinese dynasties kept troops continually stationed in Kiau-chi, although the revenues derived from it were extremely small, while military occupation was extremely expensive. 
-
-Because of this, our current dynasty advised to remove our troops from this pestilential climate. 
+The Chinese dynasties kept troops continually stationed in North Vietnam<!-- Kiau-chi -->, although the revenues derived from it were extremely small, while military occupation was extremely expensive.
+- Because of this, our current dynasty advised to remove our troops from this pestilential climate. 
 
 <!-- In view of
 10 the military
@@ -48,21 +42,22 @@ such an unprofitable territory, and in consequence the territory was held
 15
 merely for the collection of tribute. -->
 
-The king of Kiau-chi has a Chinese surname. 
-
-The clothing and food of the people are practically the same as those in China, with the exception that people  go barefooted.
+The king of North Vietnam <!-- Kiau-chi --> has a Chinese surname. 
+- The clothing and food of the people are practically the same as those in China, with the exception that people  go barefooted.
 
 Every year, on the 4th day of the first moon, they kill oxen to have a feast with their kinsfolk. The great annual feast-day is on the 15th of the 7th moon. 
 - All families exchange civilities and give entertainments.
-- Officials present their superiors with live animals
-- Those superiors then give a feast in return on the 16th
+- Officials present their superiors with live animals.
+- Those superiors then give a feast in return on the 16th.
 
 
 On New Year's day, they pray to the Buddha, but they do not make presents to their ancestors (as we do in China). 
 
 When they are ill, they do not use medicines. During the night they do not keep lamps burning.
 
-Their best musical instruments are those covered with  boa-constrictor's skin. They do not know how to manufacture paper and writing brushes, so those from our provinces are in demand. 
+Their best musical instruments are those covered with boa-constrictor's skin. 
+
+They do not know how to manufacture paper and writing brushes, so those from our provinces are in demand. 
 
 Their products are:
 - ch'on-Uang (gharu wood)
@@ -81,7 +76,7 @@ Their products are:
 - salt
 - shells
 
-Tribute is sent annually to the Court of China. It does not have foreign trade with China, but trades with neighbouring Chan-ch'ong which is 10 days sailing away. 
+Tribute is sent annually to the Court of China. **It does not have foreign trade with China**, but trades with neighbouring South Vietnam <!-- Chan-ch'ong --> which is 10 days sailing away. 
 
 <!-- Notes.
 1) Down to the beginning of tlie Han dynasty (B. C. 206) Kiau-chi was a portion of Nan-
@@ -181,15 +176,26 @@ AXKAM.
 
 ## South Vietnam (Chan-chong)
 
-The sea route east of South Vietnam leads to Canton. To the west, it borders on Yunnan. To the south it reaches Chonla India. To the north it is confined by North Vietnam, whence it communicates with Yung-chou. 
+Activity | Method 
+--- | ---
+Trade | Barter using rice, wine, and other food
+
+
+The sea route east of South Vietnam leads to Canton. 
+
+To the west, it borders on Yunnan. To the south it reaches Chonla India. 
+
+To the north it is confined by North Vietnam, whence it communicates with Yung-chou. 
 
 From Guangzhou, South Vietnam can be reached in 20 days sailing with a favourable wind.
 
 The country extends from east to west 700 li, from north to south 3000 li. 
 
-The capital is called Sinchou. They use the designations of district city and market town. 
+The capital is called Sinchou. 
+- They use the designations of district city and market town. 
+- Its city walls are of brick and are flanked with stone towers. 
 
-Its city walls are of brick and are flanked with stone towers. When the king shows himself in public, he is seated on an elephant or is carried in a cotton hammock by four men.
+When the king shows himself in public, he is seated on an elephant or is carried in a cotton hammock by four men.
 
 He wears a golden cap and his body is ornamented with strings of pearls. 
 
@@ -201,15 +207,18 @@ When the business has been concluded, they again prostrate and retire. The forms
 
 In cases of adultery both the man and woman are put to death. Theft is is punished by cutting off the fingers and the toes. 
 
-In battle, they bind five men together in one file. If one runs, the file is put to death. If a Chinese is left behind by a native while lying dangerously wounded, the
-latter is treated as a murderer and put to death.
+In battle, they bind 5 men together in one file. If one runs, the file is put to death. 
 
-South Vietnamese are fond of cleanliness. They bathe from 3-5 times daily. They rub themselves with a paste made of camphor and their clothes with fumes of various scented woods.
+If a Chinese is left behind by a native while lying dangerously wounded, the latter is treated as a murderer and put to death.
 
-The
+South Vietnamese are fond of cleanliness. 
+- They bathe from 3-5 times daily.
+- They rub themselves with a paste made of camphor and their clothes with fumes of various scented woods.
+
+<!-- The
 30
 musk and perfume
-from three
+from three -->
 
 The climate is agreeably warm year-round, neither extremely cold nor hot.
 
@@ -217,67 +226,48 @@ Every year on New Year's day they lead a chained elephant through the city, afte
 
 In the fourth moon, they play at boat-sailing, when they have a procession of fishing boats and look at them.
 
-The full-moon day of the 11th moon is kept as the winter solstice. 
-
-that time cities and towns all bring the king the products of the soil and
+The full-moon day of the 11th moon is kept as the winter solstice. At that time, cities and towns all bring the king the products of the soil and
 of their industry.
 
 The people usually plough their fields with 2 buffaloes.
-the hemp and
-make fer
-cocoanuts. As to
-various kinds of cereals they have no wheat; but they have millet,
-They do not
-beans.
-mented
-fruits,
-liquors.
-cultivate tea, neither do they
-They only drink the juice
-know how
-(or «wine») of
-to
-they have the lotus, sugar-cane, bananas and cocoanuts.
-The country
-(varieties of gharu
-wood), yellow wax, ebony, white rattans, M-pei cotton, figured cotton stuffs,
-also produces elephants' tusks, the tsien, ch'on
-damasked cotton gauzes
-silk,
-and su
-white muslins (or
-po
-lo
-bamboo matting, peacocks, rhinoceros horns and parrots*.
 
+They have no wheat. But they have millet, hemp, and beans.
 
-The cutting of scented wood in the mountains is conducted under government control. The tax paid to the government is called the scented wood poll-tax. 
+They do not:
+- cultivate tea.
+- know how to make fermented liquors
 
-Once the full amount due has been paid, the may trade in it on their own account. 
+They only drink the coconut juice.
 
-Money is not used in trade. They barter with wine, rice, and other food substances; with these they settle their accounts yearly.
+For fruits, they have the lotus, sugar-cane, bananas and coconuts.
 
+They also produce:
+- elephants' tusks
+- the tsien
+- ch'on and su (varieties of gharu wood)
+- yellow wax
+- ebony
+- white rattans
+- ki-pei cotton
+- figured cotton stuffs
+- damasked cotton gauzes
+- silk
+- white muslins (or po tie)
+- fine bamboo matting
+- peacocks
+- rhinoceros horns
+- parrots*
 
-, just like the Chinese «salt poll-tax)\
-due has been paid, the people 
-Money
-it
-Once the
-full
-amount
-on their private account'.
-not used in trade; they barter with wine, rice 
+The cutting of scented wood in the mountains is conducted under government control. 
+- The tax paid to the government is called the scented wood poll-tax, just like the Chinese«salt poll-tax
+- Once the full amount due has been paid, the may trade in it on their own account. 
 
-When
-it
-and has been
-codile,
-20
+Money is not used in trade. 
+- They barter with wine, rice, and other food substances; with these they settle their accounts yearly.
 
 When a person is killed by a tiger in the mountains or by a crocodile, the relatives submit the case to the king. The king then orders the high-priest to invoke the gods and recite incantations and to write out charms, which are scattered about at the place where the person was killed. Then the tiger or crocodile comes out. An order must be secured to kill it. 
 
-If the complaint is fake, the officials order the complainants to pass through a crocodile pool. If they lied then the crocodiles will come out and eat them. If 
-they have been truthful, they may go through it ten times and the crocodiles will flee. 
+If the complaint is fake, the officials order the complainants to pass through a crocodile pool. If they lied then the crocodiles will come out and eat them. If  they have been truthful, they may go through it ten times and the crocodiles will flee. 
 
 They buy people as slaves. A boy is 3 taels of gold or the equivalent in scented wood. 
 
@@ -307,11 +297,10 @@ South Vietnam had only infrequent relations with former Chinese dynasties. Durin
 During the kien-lung and kien-lo periods of the present dynasty (960-967), it sent native products as tribute.
 
 In <!-- the sixth year of the t'ai-pHng-liing-kuo period --> 981, Li Huan of North Vietnam Kiau-chi returned 93 Chinese prisoners of war to Beijing.
+- The Emperor Taitsung ordered them to stop at Canton to be fed. 
 
- informed the Emperor that he wished to return 93 Chinese prisoners of war to the Imperial Capital. The Emperor Taitsung ordered them to stop at Canton to be fed. 
-
-
-From that time, South Vietnam has constantly presented tribute. The presents so freely bestowed by the Imperial bounty to it had allowed it to express its admiration for Chinese civilization.
+From that time, South Vietnam has constantly presented tribute. 
+- The presents so freely bestowed by the Imperial bounty to it had allowed it to express its admiration for Chinese civilization.
 
 Cambodia is a journey of 5-7 days from South Vietnam
 
