@@ -1,14 +1,11 @@
-+++
-title= "Camphor"
-heading= "Part 1"
-description = ""
-author= "Chau Ju Kua"
-image= "/covers/chun.jpg"
-linkb= "/research/chau-ju-kua/chun-fan-chi"
-linkbtext= "Index"
-linkf= "/research/chau-ju-kua/chun-fan-chi"
-linkftext= "Index"
-+++
+---
+title: "Camphor"
+heading: "Part 1"
+date: 2021-10-31
+description: "When the Emperor Wu-ti (BC 140-86) 86) had made the conquest of Southern Yue, he sent a mission from Suwon across the sea to reconnoitre Hainan"
+image: "/covers/chun.jpg"
+author: "Chau Ju Kua"
+---
 
 
 ## 1. CAMPHOR

@@ -3,7 +3,7 @@ title: "Taiwan (Liukiu)"
 heading: "Chapter 42"
 date: 2021-11-28
 description: "Northern Taiwan (Liukiu) is 5-6 days sail east of Canton"
-image: "/flags/tw.png"
+image: "/flags/cn.png"
 author: "Chau Ju Kua"
 ---
 
