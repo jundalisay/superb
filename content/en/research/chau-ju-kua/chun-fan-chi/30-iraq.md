@@ -1,14 +1,12 @@
-+++
-title= "Ctesophon Parthia (Paita)"
-heading = "Chapter 30"
-description= "Ctesophon is the greatest metropolis of the Arabs." 
-image= "/photos/medieval/ctesophon.jpg"
-linkb= "/research/chau-ju-kua/chun-fan-chi/28-oman"
-linkbtext= "Oman"
-linkf= "/research/chau-ju-kua/chun-fan-chi/32-afghanistan"
-linkftext= "Afghanistan"
-date = "2022-01-14"
-+++ 
+---
+title: "Ctesophon Parthia (Paita)"
+heading: "Chapter 30"
+date: 2021-12-26
+description: "Ctesophon is the greatest metropolis of the Arabs"
+image: "/flags/ir.png"
+author: "Chau Ju Kua"
+---
+
 
 Ctesophon is the greatest metropolis of the Arabs. 
 

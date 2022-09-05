@@ -1,15 +1,12 @@
-+++
-title= "South India (Chola)"
-heading= "Chapter 19"
-description= "Chola is in southern India (Yintu) of the west."
-author= "Chau Ju Kua"
-image= "/flags/in.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/17-north-india"
-linkbtext= "Northern India"
-linkf= "/research/chau-ju-kua/chun-fan-chi/20-baghdad"
-linkftext= "Baghdad"
-date = "2022-01-20"
-+++
+---
+title: "South India (Chola)"
+heading: "Chapter 19"
+date: 2022-01-09
+description: "Chola is in southern India (Yintu) of the west"
+image: "/flags/in.png"
+author: "Chau Ju Kua"
+---
+
 
 
 Activity | Method 
@@ -17,23 +14,18 @@ Activity | Method
 Trade | Barter
 
 
-Chola is in southern India (Yintu) of the west. The Kingdom of Chu-lien is the 
+Chola is in southern India (Yintu) of the west. 
 
-To the east
-(its capital)
-comes to Western India
-the Southern Yin-tu is five li distant
+<!-- The Kingdom of Chu-lien is the  -->
 
-(after)
- of the west»i from the sea; to the
-1500 to the
-li;
-west one
-south one94
+<!-- To the east -->
+Its capital is 5 li away from the sea. 
+- Western India is 1,500 li west
+- Lolan is 2,500 li south 
+- Tun-tien is 3,000 li norht
 
-comes to Lo-lan 
-iM 3000 
-U; to the north one comes to Tun-t'ien
+<!-- comes to Western India
+the Southern Yin-tu is  distant -->
 
 This country had not from olden times carried on trade with China. Its distance to Canton by water is around 411,400 li. 
 

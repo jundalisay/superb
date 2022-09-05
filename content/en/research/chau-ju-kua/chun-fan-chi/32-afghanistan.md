@@ -1,14 +1,12 @@
-+++
-title= "Afghanistan"
-heading= "Chapter 32-33"
-description= "Ghazni is reached from Malopa in 120 stages. It is in the northwest and is exceptionally cold. The winter's snow does not melt until the spring."
-image= "/countries/af/ghaznavid.jpg"
-linkb= "/research/chau-ju-kua/chun-fan-chi/30-iraq"
-linkbtext= "Iraq"
-linkf= "/research/chau-ju-kua/chun-fan-chi/34-syria"
-linkftext= "Syria"
-date = "2022-01-13"
-+++ 
+---
+title: "Afghanistan"
+heading: "Chapter 32-33"
+date: 2021-12-24
+description: "Ghazni is reached from Malopa in 120 stages. It is in the northwest and is exceptionally cold. The winter's snow does not melt until the spring."
+image: "/flags/af.png"
+author: "Chau Ju Kua"
+---
+
 
 
 ## 32. Ghazni (Kitzini)

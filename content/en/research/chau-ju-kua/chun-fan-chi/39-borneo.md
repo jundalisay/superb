@@ -1,15 +1,11 @@
-+++
-title= "Brunei -- Chau Ju Kua's Works Simplified"
-heading= "Chapter 39"
-description= "Brunei has over 10,000 inhabitants and controls 14 districts. Its walls are made of wooden boards."
-author= "Chau Ju Kua"
-image= "/flags/bn.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/38-islands"
-linkbtext= "Islands"
-linkf= "/research/chau-ju-kua/chun-fan-chi/40-maharlika"
-linkftext= "Maharlika"
-date = "2022-01-11"
-+++
+---
+title: "Brunei"
+heading: "Chapter 39"
+date: 2021-12-14
+description: "Brunei has over 10,000 inhabitants and controls 14 districts. Its walls are made of wooden boards"
+image: "/flags/bn.png"
+author: "Chau Ju Kua"
+---
 
 
 Activity | Method 

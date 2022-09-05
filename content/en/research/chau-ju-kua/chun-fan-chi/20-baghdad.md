@@ -1,15 +1,12 @@
-+++
-title= "Baghdad (Tatsin) -- Chau Ju Kua's Works Simplified"
-heading = "Chapter 20"
-description= "Baghdad is also called Likien. It is the general mart of Muslims and the place where the foreign merchants of the Arabs assemble."
-author= "Chau Ju Kua"
-image= "/flags/iq.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/19-south-india"
-linkbtext= "South India"
-linkf= "/research/chau-ju-kua/chun-fan-chi/21-iran"
-linkftext= "Iran"
-date = "2022-01-19"
-+++
+---
+title: "Baghdad (Tatsin)"
+heading: "Chapter 20"
+date: 2022-01-06
+description: "Baghdad is also called Likien. It is the general mart of Muslims and the place where the foreign merchants of the Arabs assemble"
+image: "/flags/iq.png"
+author: "Chau Ju Kua"
+---
+
 
 <!-- Baghdad? 762 -->
 

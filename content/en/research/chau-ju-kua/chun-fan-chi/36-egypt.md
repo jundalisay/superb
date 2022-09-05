@@ -1,15 +1,11 @@
-+++
-title= "Egypt (Wussili) -- Chau Ju Kua's Works Simplified"
-heading= "Chapter 35-37"
-description= "Cario is west of Arabia which is separated by the Red Sea which has many countries."
-author= "Chau Ju Kua"
-image= "/flags/eg.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/34-syria"
-linkbtext= "Syria"
-linkf= "/research/chau-ju-kua/chun-fan-chi/38-islands"
-linkftext= "Islands"
-date = "2022-01-13"
-+++
+---
+title: "Egypt (Wussili)"
+heading: "Chapter 35-37"
+date: 2021-12-19
+description: "Cairo is west of Arabia which is separated by the Red Sea which has many countries"
+image: "/flags/eg.png"
+author: "Chau Ju Kua"
+---
 
 
 Activity | Method 

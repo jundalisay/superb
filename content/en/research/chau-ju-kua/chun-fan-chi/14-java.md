@@ -71,16 +71,13 @@ Their generals receive an annual salary of 20 taels of gold. Its army has 30,000
 
 Marriage do not employ go-betweens. Instead, they make presents of gold to the woman's family in order to marry her. 
 
-They do not inflict corporal punishment or  imprisonment. Instead, they are fined in gold 
-according to the gravity of their crime. 
+They do not inflict corporal punishment or  imprisonment. Instead, they are fined in gold  according to the gravity of their crime. 
 
 Robbers or thieves are put to death.
 
-Every June, they make pleasure trips in boats. 
+Every 5th moon, they make pleasure trips in boats. 
 
- visit the
-either riding hill ponies ([Ij
-hills,
+In the 10th moon, they visit the hills, either riding hill ponies or being carried in a litter.
 
 Of musical instruments they have:
 - the flute
@@ -89,48 +86,25 @@ Of musical instruments they have:
 
 They are skilled in pantomimes.
 
-
 The hills are full of monkeys. They are not afraid of men, but if one calls siau-siau they come out. If one throws fruit before them, a  big monkey, called a monkey king, comes forward to eat. The and the crowd of smaller monkeys eat what is left of his meal.
 
 There are bamboo gardens where they have pig-fighting and cock-fighting.
 
 
-fruit before
-or carried in a litter
-
-The
-moon
-pleasure trips in boats; in the tenth
+The dwellings are of imposing appearance and painted in greenish tints. Traders going there stay in visitors' lodges, where they are fed with plentiful and good food and drink. 
 
 
-The dwellings are of imposing appearance and painted
+The natives dress their hair and wear clothes which are girt around their chest and reach down to the knees.
 
-Traders
-
-going there are put up in
-in greenish tints
-visitors' lodges,
-where
-food and drink both plentiful and good (are supplied them).
-The
-natives dress their hair and wear clothes which are girt around
-and reach down to the knees ".
-20 their chest
 When they are sick, they take no medicines, but simply pray to their local gods or to the Buddha.
 
-The people have personal names but no surnames. 
+The people have personal names but no surnames. They are quick-tempered and pugnacious. When they have a feud with Palembang Sumatra, both parties seek to do battle.
 
-They are quick-tempered and of a pugnacious
-disposition, and when they have a feud with
-both parties seek to joiu in battle.
-
-In 435 AD, it entered into communication with China. But it was broken off until 992 when it 
-again sent tribute to our Court.
+In 435 AD, it entered into communication with China. But it was broken off until 992 when it again sent tribute to our Court.
 
 It is a broad and level country, well suited to agriculture. It produces hemp, millet, beans, but no wheat. 
 
 Ploughing is done by buffaloes. The people pay a tithe-rent. They make salt by boiling seawater. 
-
 
 It is rich in fish, turtles, fowls, ducks, goats. They kill horses and buffaloes for food.
 
@@ -155,103 +129,54 @@ They have:
 - cardamoms
 - cubebs
 - pepper
-- betel
+- betel nuts
+- saffron
+- sulphur
 - sapan-wood
 - parrots. 
 
-They also pay
-silk; they have
-attention to the raising of silkworms and the weaving of
-cotton (± ^), and damasked cotton
-various coloured brocaded silks (|f
-nuts,
-saffron
-sulphur,
-gauzes (or damasks and cotton cloth
 
+They also pay attention to the raising of silkworms and the weaving of silk. 
 
-They make no tea
+They have various coloured brocaded silks, cotton, and damasked cotton gauzes (or damasks and cotton cloth).
 
-from the cocoanut
-raised in this country. 
+They do not grow tea. 
 
-Their wine is derived
+They get their clear and well-flavored wine from:
+- the coconut 
+- the inner part of the hia-nau-tan tree, unknown to the Chinese
+- fermenting the fruits of the sago palm and areca palm
 
-and from the inner part of the Ua-nm-tan
-not been seen by the Chinese, or else
-the kmng-lang
-^
-and well-flavored" (7ff
-«As to cane sugar, it is brown and white
-(liquors) are clear
-and very sweet to the
-^^ fY)
-made by fermenting
-it is
-(the fruits) of
-all
-of these
-'^ #).
-brownish white
-(or
-?) in
-colour
-i6
-taste.
+Their cane sugar is brown and white in color and very sweet. 
 
 They cast coins in an alloy of copper, silver, white copper and tin. 
+- 60 of these coins are equal to 1 tael of gold. 
+- 32 are equal to half a tael of gold. 
 
-60 of these coins are equal to 1 tael of gold. 
-32 are equal to half a tael of gold. 
+For trading, foreign merchants use:
+- gold and silver of various degrees of fineness
+- vessels of gold and silver
+- silk stuffs
+- black damasks
+- ssi-chuann-kung
+- orris-root
+- cinnabar
+- copperas
+- alum
+- borax
+- arsenic
+- lacquer-ware
+- iron tripods 
+- green (or blue) white porcelain-ware.
+
+There is a vast store of pepper here. 
+
+The merchant ships smuggle copper cash out of China for bartering purposes to gain huge profits.
+- This is why our Court has repeatedly forbidden all trade with Java. 
+- This is why the foreign merchants changed the name of Java to Surabaya (Sukitan) in order to deceive the Chinese government. 
 
 
-which tree has
-sago palm) and of the areca palm;
-
-tree,
-two are equal
-to half a tael of gold» "-
-
-Foreign merchants use in trading gold and silver of various degrees of
-H :^ ^),
-(^
-fineness
-damasks
-{% ^),
-made
-vessels
-(ssi)-ch'mn-kung^^
-of gold and silver, silk stuffs, black
-
-orris-root, cinnabar, copperas,
-alum, borax, arsenic, lacquer-ware, iron tripods and green (or blue
-white porcelain-ware.
-
-There
-merchant
-is
-^) and
-
-a vast store of pepper in
-ships, in
-view of the
-profit
-this foreign
-country
-
-they derive from that trade, are in the
-habit of smuggling (out of China) copper cash for bartering purposes.
-Court has repeatedly forbidden
-tl-aders, for
-referred to
-all
-as Su-ki-tan.
-
-Our trade (with this country), but the foreign
-the purpose of deceiving (the government), changed its name to Sukitan. 
-
-Java is adjacent to the following countries,
-dependencies of Java:
+The following are dependencies of Java:
 
 - Paihuayuan
 - Bandung (Matung)
@@ -271,6 +196,8 @@ dependencies of Java:
 - Iwu
 - Nuku
 
+
+Yoyakarta Prambanan is adjacent to those countries.
 
 
 <!-- 
@@ -793,38 +720,38 @@ It has a very tall mountain called Paulauan [Semuru].
 
 Their king wears a turban of cotton cloth of variegated colours and goes barefooted.
 
-When walking, he is shaded by a black or white umbrella. More than 500 attendants follow him, bearing every sort of weapon and wearing hats of various shapes. 
+When walking, he is shaded by a black or white umbrella. More than 500 attendants follow him, bearing every sort of weapon and wearing hats of various shapes. Some hats are like:
+- a deer's
+- the head of an ox
+- a sheep
+- a fowl
+- an elephant
+- a lion or
+- a monkey
 
-Some are like a deer's, others like the head of an ox, of a sheep, a fowl, an elephant, a lion or a monkey.
+Little flags of coloured silk are stuck in the side of the hats.
 
-Little flags of coloured silk are stuck
-tiger's head,
-some
-like
-in the side (of the hats).
-Among
-coiffure;
-they
-the natives,
-all
-wrap
-the
-men
-cut their hair, but the
-women wear
-their bodies in cloth, but go barefooted and wear a loin-cloth.
+The male natives cut their hair, but the women wear a coiffure. 
 
+They all wrap their bodies in cloth, but go barefooted and wear a loin-cloth.
 
-They use Java money whch is alloyed silver cut like dice with the seal of Fankuan stamped on it. 6 of these are worth 1 tael of trade gold. Each one can be exchanged for 30-100 pecks of rice.
+They use Java money whch is alloyed silver cut like dice with the seal of Fankuan stamped on it.
+- 6 of these are worth 1 tael of trade gold. 
+- Each one can be exchanged for 30-100 pecks of rice.
 
-Houses are the same as in Sunda. They have a lot of rice. Very wealthy families keep as much as 10,000 piculs in their granaries.
+Houses are the same as in Sunda. 
+
+They have a lot of rice. Very wealthy families keep as much as 10,000 piculs in their granaries.
 
 They have a tree called jackfruit which has a fruit like a pumpkin and skin like the chestnut, the pulp like mandarin orange. 
+- It is extremely sweet and well-flavoured. 
 
-It is extremely sweet and well-flavoured. here are also bananas and sugar-cane, in all respects the with this difference, however, that the complaint; that the bananas
-grow a lichee, when foot long, same as those of China, sun-dried, will cure bowel and sugar-cane to the height of 10 feet.
+They also have bananas and sugar-cane, like those of China except that:
+- sun-dried lichees will cure bowel complaints. 
+- the bananas grow 1 foot long
+- sugar-cane are 10 feet tall
 
-The juice of the latter, with the addition of a drug, liquor superior to (that derived from) the coconut
+A drug is added to the sugar-cane juice to create liquor superior to coconut liquor.
 
 Their agricultural products are the same as Java. There is a lot of pepper. 
 
@@ -832,63 +759,41 @@ brewed
 into a
 
 of the soil are, on the whole, not different from those of
-a great abundance of pepper. At the right season and in
-good years, 25 taels of 20 packages
-is trade money»
+a great abundance of pepper. 
 
-of pepper, each package holding
-will
-50 
-buy from ten
-to
-pecks (shong). In
-years of dearth, or in times of disturbance, the same sum will buy only half
-20 that
-amount.
+At the right season and in good years, 25 taels of trade money will buy from 10-20 packages of pepper, each package holding 50 pecks (shong). 
 
+In years of dearth, or in times of disturbance, the same sum will buy only half of that amount.
 
-The pepper-gatherers
-inhale,
-and are commonly
-suffer greatly
-afflicted
-from the acrid fumes they have to
-with headaclie (malaria) which yields to
-doses of (ssl)-ch^uan-kung.
+The pepper-gatherers suffer greatly from the acrid fumes they have to inhale, and are commonly afflicted with headaclie (malaria) which yields to
+doses of (ssi)-chuan-kung.
 
-As cinnabar is much used
-women and also for dyeing the
+The Barbarian women use Cinnabar in cosmetics for dyeing the finger nails and silk clothing. Foreign traders use these 2 articles as staples of trade. 
 
-in cosmetics (:J^
-finger nails
-and
-by the Barbarian
-clothing of
-silk
-foreign traders look upon these two articles as staples of trade
-women,
-
-Traders are treated generously. They are not charged expenses for either
-harborage or board.
+Traders are treated generously. They are not charged expenses for either harborage or board.
 
 
-### Tapan [Mojokerto-Surabaya]
 
-Tapan is east of Great Java and is also called Jungyalu (also Chungkialu)
+
+
+### Mojokerto-Surabaya (Tapan)
+
+
+Activity | Method
+--- | ---
+Trade | Sago Money
+
+Surabaya <!-- Tapan --> is east of Great Java and is also called Jungyalu (also Chungkialu)
 
 Its houses are like those of China. The land is a level plain and is intersected by an anchorage. There is trade by land and sea. 
 
 Its native products are bay-salt sheep and parrots.
 
-Their fighters are brave and fierce. They take wives from the pirate states of the eastern borders. The people of those states
-under pretext
-latter,
-of visiting relatives (married to the Fan-kuan and on board
-were frequently plundered way). 
+The Arab slave traders are brave and fierce. They take wives from the pirate states of the eastern borders, such as <!-- Tapan -->Surabaya. The Surabaya<!--  latter people --> have relatives married to the Fan-kuan on board their ships and frequently plundered foreign ships by pretending to visit those relatives. 
 
 Matters went so far that captives were considered a most valuable commodity, each one being worth 2-3 taels of gold. 
 
-This is why trade with Tapan was broken off.
+This is why trade with Surabaya<!-- Tapan --> was broken off.
 
 The pirate states are:
 - Tanchung pulo
@@ -896,94 +801,57 @@ The pirate states are:
 - Sunta
 - Kulun
 
-
-The countries of Ta-kang, Huang-ma-chu, Bali, Tan-jung-wu-lo, Ti-(wu), Ping-ya, I-wu and Nu-ku are situated on islands. 
+The following are island countries:
+- Ta-kang
+- Huang-ma-chu
+- Bali
+- Tan-jung-wu-lo
+- Ti-wu
+- Ping-ya
+- I-wu
+- Nu-ku
 
 Each has its own chief and have vessels plying between them. 
 
-There is little agriculture. But there are many old trees. The inner parts produce sago which looks like wheat flour. Water is mixed with it and are turned into pellets the size of peas. After being sun-dried, it is packed and stored like grain.
+There is little agriculture. But there are many old trees. 
 
-They also mix are fond
-porridge.
-each of them has
-islands;
-between them. There
-old trees, the inner parts of
-which looks like wheat
-sJia-hi (sago),
-it,
-vessels plying
-also
-of sugar-cane
-and by adding a certain substance
-made They have
-into wine.
+The inner parts produce sago which looks like wheat flour. 
+- Water is mixed with it and are turned into pellets the size of peas. 
+- After being sun-dried, it is packed and stored like grain.
 
-mix
-it
-with
-fish
-or
-drug)
-is
-also the wei-pa^°
-packed
-is
-crushed
-caused to ferment and
-tree,
-(j^ g,)
-is
-whose pith
-being taken out and the juice extracted yields wine.
-The
-bodies.
-25
-natives (of these countries) are strong fellows, but savage
-a dark bronze
-colour.
-They cut
-They wrap
-their hair
-and of
-(a cloth round) their limbs
-and tattoo their
-and go barefooted. They use no vessels in eating
-or drinking; in their stead they bind leaves together, which are thrown
-when
-the meal
-As
-20
-meat and make a
-and bananas. The former
-(lit.,
-15
-away
+They also mix it with fish or meat to make porridge.
 
-is finished.
+They are fond of sugar-cane and bananas. 
 
-The standard of exchange is only pecks and pints of sago. They do not know how to write or how to count.
+A substance is added to crushed sugar cane to cause it to ferment and make liquor. 
 
-They erect 
+They have the wei-pa tree.
+- Its pith is removed an the juice is extracted from it, yielding wine.
 
-wooden poles stuck in the ground and reaching
-twenty feet or more; on the top they build houses with walls
-erect stages with
-to a height of
-and roofs of the same type
-as those
-made by the
-The native products include sandal-wood,
-mats, foreign cotton cloth
-Among
 
-by the Sinto. 
+The natives are physically strong, but savage and of a dark bronze colour.
 
-Their exports are:
+They wrap (a cloth round) their limbs and tattoo their bodies. 
+
+They cut their hair and go barefooted. 
+
+They use leaves instead of plates for eating or drinking. These are thrown away after the meal. 
+
+
+
+The standard of exchange is only pecks and pints of sago.
+- They do not know how to write or how to count.
+
+They erect stages with wooden poles stuck in the ground and reaching 29 feet or more. On the top, they build houses with walls and roofs of the same type as those made by the Sundanese. <!-- Western Java people (Sinto).  -->
+
+The native products are:
+- sandal-wood
 - cloves
 - cardamoms
 - fancy mats
+- foreign cotton cloth
 - iron swords and other weapons
+
 
 
 ### Mali 

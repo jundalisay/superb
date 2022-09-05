@@ -1,15 +1,13 @@
-+++
-title= "Japan"
-heading= "Chapter 45"
-description= "The country of Wo is northeast of Canton. It is currently called Ji-pon, meaning a country near where the sun rises."
-author= "Chau Ju Kua"
-image= "/flags/jp.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/44-korea"
-linkbtext= "Korea"
-linkf= "/research/chau-ju-kua/chun-fan-chi/46-hainan"
-linkftext= "Hainan"
-date = "2022-01-07"
-+++
+---
+title: "Japan (Wo)"
+heading: "Chapter 45"
+date: 2021-11-18
+description: "The country of Wo is northeast of Canton. It is currently called Ji-pon, meaning a country near where the sun rises."
+image: "/flags/jp.png"
+author: "Chau Ju Kua"
+---
+
+
 
 
 Activity | Method 
@@ -27,179 +25,77 @@ The country is divided into 5 ki and 7 tau, 3 islands, 3772 communes, and 414 po
 
 It is full of hills and forests without good arable lands, and therefore the Japanese like seafood. 
 
+Many tattoo their bodies and call themselves Tai Po. Since ancient times, they have sent envoys, called "Tafu" to China. 
 
-king's surname
-change for the
-and, just as in
-Hia dynasty were
-they cut their hair and tattooed
-the harmful attacks of dragon-monsters, so
-away the
-dive under water for fishing purposes.
-a calculation of the
-The climate resembles that
-The
-off
-from remote antiquity they have
+In the olden times in China, the descendants of Shau-kang of the Hia dynasty cut their hair and tattooed their bodies to ward off the harmful attacks of dragon-monsters.
+- Similarly, the Japanese tattoo their bodies to drive away the beasts of the sea when they dive underwater to fish. 
 
+Japan is east of Kiu-ki. Their climate resembles that of China.
 
-Many tattoo their bodies and call themselves Tai Po. Since ancient times, they have sent envoys to China
+The king's surname is Wang. This has continued for at least 70 generations. Civil and military officers are hereditary. 
 
+Men dress in strips of cloth worn crosswise, tied, not sewn, together. 
 
-, in order to drive
-when they
-lo
-themselves descendants
-the descendants of Shau-k'ang of the
-their bodies in order to
-From
-call
-styled themselves Tafu invested with the rule of Kuiki 
-beasts of the sea
-and they
-It is also said^ that
-who
-*.
-of hills and forests and without good arable
-tattoo their bodies,
-sent envoys to China
-is
-three islands
-lands, the inhabitants have a liking for the various kinds of sea food
-Many
-5
-way
-thither,
-(Wo)
-due east from Kui-ki.
-lies
-of China 
+Women's dresses are like bed sheets, with an opening to run the head through. A whole consists of 2-3 pieces of cloth.
 
+Both sexes wear their hair unbraided and go barefoot.
 
-Wang and
-this
-last 70 generations at least. Civil
-has been so without
-and military
-offices are
-hereditary.
-
-Men's dresses
-together.
-
-Women's
-consist of strips of cloth
-crosswise, tied, not sewn,
-dresses are like bed sheets, with an opening to run the 30
-head through, a whole
-cloth.
-worn
-suit consisting
-as a rule of
-two or three pieces
-of
-Both sexes wear their hair unbraided and go barefooted'.
-They have the Chinese standard works, such as the Five Classics and
-by Pal Lotien, all of which
-the Collection of poetry
-are obtained from China.
-
+They have the Chinese standard works, such as the Five Classics and the Collection of poetry by Pai-Lotien, all of which are obtained from China.
 
 Japan has all kinds of cereals, but little wheat.
 
-They use copper cash with the inscription Kien-yuan-ta-pau. They have water-buffalo, donkeys, sheep, but no rhinoceros, elephants. 
+They use copper cash with the inscription Kien-yuan-ta-pau. 
+
+They have:
+- water-buffalo
+- donkeys
+- sheep
+
+But they have no:
+- rhinoceros
+- elephants. 
 
 They have gold and silver, fine silks and fancy cotton cloth.
 
 
-They produces cryptomeria and lo trees, reaching to heights of upwards of fourteen or fifteen chang,
-fully four feet in diameter.
+They produce cryptomeria and lo trees, reaching over 14-15 chang, 4 feet in diameter.
 
-The natives
-split
-them
-sale.
 
-Cantonese rarely go to Japan.
+The natives split them into planks which they transport in large junks to our port of <!-- Guangzhou --> Canton for sale.
 
-They have swords,
-shields, bows,
-The people
+The <!-- Guangzhou --> Cantonese rarely go to Japan.
 
-As regards music, they have the Chinese and the Korean
-which
-into planks,
-they transport in large junks to our port of Ts'iian-chou for
-notation
-and arrows which have iron
-(^).
-points,
-but they cannot shoot far with thek= bows, the reason being that in this
-country the people are not accustomed to fighting ^*.
-In their houses separate rooms are used as bed-rooms by father and
-15
-mother and by the
-different brothers ".
-When taking their meals, they use dish-stands and dishes (^
-When contracting marriage, they do not make presents of money ^^.
-For the dead they have
-coffins
-S.)^^-
-but no coffin-cases {^). Their
-(>Ji^),
-tombs consist of simple earthen tumuli. At the beginning of their time of
-20
-mourning they lament and wail and
-the whole family takes a bath to
-Whenever important
-in order to foretell
-whether they
-no meat, but when the burial
-wash away
-affairs are to
-They do not know the
-25
-e.at
-ill-luck
-is
-over,
-from their bodies^'.
-be entered upon, they scorch bones
-will turn out luckily or otherwise
-^«.
-division of the year with its four seasons, but
-reckon the year from harvest to harvest ^». The people attain to great age,
-frequently to about eighty or ninety years
-Women
-2".
-are neither licentious nor jealous. There
-when some one
-is
-no
-litigation,
-but
-found guilty of a crime, serious cases are punished by the
-extirpation of the culprit's family, light offenses
-30 wife
-is
-by the enslaving (j^)
-of his
-and children ^^
-Gold and
-silver are
-used in paying taxes to the government; these
-metals are found in Yu6-ch6u
-(^
-f\\)
-in the east of this country,
-and
-in
-another island ^^
-later Han dynasty
+They use Chinese and Korean musical notes. 
+
+They have swords, shields, bows, and arrows which have iron points. But they cannot shoot far with their bows, because the Japanese are not used  to fighting. 
+
+Their houses have separate bedrooms used by father, mother, and by the different brothers.
+
+When taking their meals, they use dish-stands and dishes. 
+
+When contracting marriage, they do not make presents of money.
+
+For the dead, they have coffins but no coffin-cases. Their tombs consist of simple earthen tumuli. 
+
+At the beginning of their time of mourning, they lament, wail, and eat no meat. 
+
+But when the burial is over, the whole family takes a bath to wash away the bad luck from their bodies.
+
+Whenever important affairs are entered upon, they scorch bones in order to foretell whether they will be lucky or not. 
+
+They do not know the division of the year with its 4 seasons. Instead, they reckon the year from harvest to harvest. 
+
+The people live long, frequently to about 80-90 years. 
+
+Women are neither licentious nor jealous.
+
+There is no litigation. But when someone is found guilty of a crime, serious cases are punished by the extirpation of the culprit's family. Light offenses are punished by the enslaving of his wife and children. 
+
+Gold and silver are used in paying taxes to the government. These metals are found in Yue-chou in Eastern Japan in another island. 
 
 Japan has had relations with China since the later Han dynasty (25-221).
 
-In 984, a Japanese named Tiaujan went to China with 5 or 6 
+In 984, a Japanese bonze named Tiaujan went to China with 5 or 6 of his disciples and offered presents of more than 10 pieces of copper (bronze) ware of most delicate workmanship. 
 
 <!-- with tribute to our Court during
 35 (A. D. 25—221), and it has sent envoys
@@ -210,50 +106,26 @@ ymg^
 present dynasty (A. D. 984) a Japanese bonze, by
 '
 came across the sea -->
-to
-China with
-five
-name Tiau-jan(^^)2S
-or six 
-
-of his disciples and offered presents of more than 10 pieces of copper (bronze) ware of most delicate
-workmanship. 
-
-The Emperor T'ai-tsung gave orders that he should have an audience and that he should be lodged at the T'ai-p'ing-hing-kuo temple. 
-
-He bestowed on him a purple
-
-with great kindness.
-(^ ^)
-same family name, and that the high
-of the
-and Li Fang
-and they have a
-ians,
-all
-were hereditary, the Emperor sighed, and
-in the country
-Sung K'i
-hearing from him that their kings formed an uninterrupted line of rulers, line of monarchs
-
-offices
-said to his ministers
-
-These are merely island barbar-
-and even their
-for such a long time,
-form an uninterrupted hereditary succession; this
-officials
-(^
-and treated him
-priest's robe
-is
-indeed the "Way lo
-of the Ancients»!
 
 
-Thus, the barbarians of a single island caused the Emperor Taitsung to sigh. Cannot these customs be a survival of the spirit inherited from the Tai Po who used the the doctrines of China to change barbarians?
+The Emperor Tai-tsung ordered that he should:
+- have an audience and
+- be lodged at the Tai-p'ing-hing-kuo temple. 
 
+He bestowed on him a purple priest's robe and treated him with great kindness.
+
+Tiaujan said that Japan:
+- had an an uninterrupted line of rulers, all of the same family name
+- had hereditary high offices 
+
+The Emperor sighed and said to his ministers, Sung Ki and Li Fang:
+
+{{< q >}}
+These are merely island barbarians. Yet they have a line of monarchs for so long. Even their officials form an uninterrupted hereditary succession. This indeed is the "Way of the Ancients!"
+{{< /q >}}
+
+
+Thus, the barbarians of a single island caused the Emperor Taitsung to sigh. The Tai-Po used the the spirit of survival embodied in the doctrines of China to change barbarians. Were these doctrines inherited by the Japanese?
 
 
 

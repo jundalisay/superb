@@ -1,16 +1,12 @@
+---
+title: "Iran (Tienchu)"
+heading: "Chapter 21"
+date: 2022-01-04
+description: "Iran (Tienchu) is under Iraq. All its rulers are selected by Iraqis"
+image: "/flags/ir.png"
+author: "Chau Ju Kua"
+---
 
-+++
-title= "Iran (Tienchu)"
-heading= "Chapter 21"
-description= "Iran (Tienchu) is under Iraq. All its rulers are selected by Iraqis."
-author= "Chau Ju Kua"
-image= "/flags/ir.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/20-baghdad"
-linkbtext= "Baghdad"
-linkf= "/research/chau-ju-kua/chun-fan-chi/22-arabs"
-linkftext= "Arabs"
-date = "2022-01-18"
-+++
 
 
 Iran (Tienchu) is under Iraq. All its rulers are selected by Iraqis.

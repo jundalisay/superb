@@ -1,15 +1,11 @@
-+++
-title= "Chalukya India (Nanpi)"
-heading= "Chapter 16"
-image= "/flags/in.png"
-description= "Chalukya India is in the extreme southwest of Canton. It can be reached from Palembang in a little more than a month."
-author= "Chau Ju Kua"
-linkb= "/research/chau-ju-kua/chun-fan-chi/14-java"
-linkbtext= "Java"
-linkf= "/research/chau-ju-kua/chun-fan-chi/17-north-india"
-linkftext= "North India"
-date = "2022-01-22"
-+++
+---
+title: "Chalukya India (Nanpi)"
+heading: "Chapter 16"
+date: 2022-01-12
+description: "Chalukya India is in the extreme southwest of Canton. It can be reached from Palembang in a little more than a month"
+image: "/flags/in.png"
+author: "Chau Ju Kua"
+---
 
 
 Activity | Method 
@@ -24,112 +20,82 @@ Its capital is Mieamo which has the same meaning as the Chinese expression li-ss
 Its king has his body draped but goes barefoot. 
 
 He wears a turban and loin-cloth of white cotton. 
+- Sometimes he wears a white cotton shirt with narrow sleeves.
+- He rides an elephant and wears a golden hat ornamented with pearls and gems. 
 
-wears a white cotton shirt with narrow
-elephant,
-arm
-sleev^es.
-When
-cloth.
-Among
-is
-He
-Sometimes he
-going out he rides an
-and wears a golden hat ornamented with pearls and gems. On
-fastened a band of gold, and around his leg
-is
-^
+His arm has a band of gold. Around his leg is a golden chain.
+
+
 ruler of the country has his body draped, but goes barefooted.
 wears a turban and a
 
 
 his
-a golden chain.
-his regalia is a standard of peacock feathers on a staff of ver-
-men guard it round. He is attended by a guard of
-some five hundred picked foreign women (^ j^), chosen for their fine phy-
-sique.- Those in front lead the way with dancing, their bodies draped, bare-
+
+His regalia includes a standard of peacock feathers on a staff of vermillion color, guarded around by 20 men.
+
+He is attended by a guard of 500 picked foreign women chosen for their fine physique.
+
+Those in front lead the way with dancing, their bodies draped, bare-footed with a loin-cloth.
+
+
 milion colour; over 20
 and with a cotton
-footed
-have a
-loin-cloth.
+
 their hair
 is
-Those behind ride horses bareback; they
-done up and they wear necklaces of pearls
-and anklets of gold, their bodies are perfumed with camphor and
-musk and
-other drugs, and umbrellas of peacock feathers shield them from the sun ^
-In front of the dancing- women are carried the
-so train,
-seated in litters
-called pu-tai-kiau
-silver
 
-of the king's
-bag) of white foreign cotton, and which are
-and are borne on poles plated with gold and
+Those behind ride horses bareback, wearing loin cloth. Their hair is done up and they wear necklaces of pearls and anklets of gold. 
 
-Chalukya has has much sandy soil, so, when the king goes forth, they first send an officer with an hundred soldiers and more to sprinkle the ground so that the gusts of wind may not whirl up the dust.
+Their bodies are perfumed with camphor, musk, and other drugs. 
 
+Umbrellas of peacock feathers shield them from the sun. 	
+
+The king's officers are seated in litters of white foreign cotton, called pu-tai-kiau, carried in front of the dancing-women. 
+- These are borne on poles plated with gold and silver.
+
+Chalukya has has much sandy soil, so, when the king goes forth, they first send an officer with 100 soldiers or more to sprinkle the ground so that the gusts of wind may not whirl up the dust.
 
 The people are very dainty in their diet. They have a hundred ways of cooking their food, which varies every day.
 
-There is an officer called called Han-lin who lays viands and drinks before the king, and sees
-so that he food he eats, regulating his diet
-how much
-not exceed the proper measure. Should the king
-may
-through excess of eating, then
-him according
-lays the viands and who
-them sweet or
-as he finds
-bitter.
+There is an officer called called Han-lin who:
+- lays viands and drinks before the king
+- sees how much food he eats, regulating his diet
+- must taste the king's feces if the king gets sick from excessive eating
+  - He treats him as he finds them sweet or bitter.
 
-of this country are of a dark
-The people
-of their ears reach
-down
-5
-and treat
-taste his faeces
-must
-(this officer)
-sick
-fall
-brown complexion, the
-They are
-to their shoulders.
-lobes
-skilled in archery
-and
-dextrous with the sword and lance. They love fighting and ride elephants in lo
-when they
-battle,
-wear turbans
-also
-of coloured silks.
-They are extremely devout Buddhists^.
-The climate
-warm; there
-is
-is
-no cold season. Rice, hemp, beans, wheat,
-millet, tubers and green vegetables supply their food; they are
-They cut an alloyed
-The people use these
-seal.
-(i.
-There
-in trading.
-in this country
-is
-(a.
-pearls, foreign cotton stuff of all colours
-river called the) Tan-shui kiang
+The Chalukya people are dark-brown. The lobes of their ears reach down to their shoulders.
+
+
+They are skilled in archery and dextrous with the sword and lance. 
+
+They love fighting and ride elephants in battle, wearing coloured silk turbans. 
+
+They are extremely devout Buddhists.
+
+The climate is warm, without a cold season. 
+
+Their food are:
+- rice
+- hemp
+- beans
+- wheat
+- millet
+- tubers
+- green vegetables
+
+These are plentiful and cheap. 
+
+They cut an alloyed silver into coins, stamped with the official seal. 
+
+Their native products are:
+- pearls
+- foreign cotton stuff of all colours
+- cotton cloth
+
+There is is a river called the Tan-shui kiang which becomes very broad where the channels meet. 	
+
+
 which, at a certain point where
 At
 broad.
@@ -149,15 +115,9 @@ official 15
 coloured chintzes) and tou-lo mien (cotton cloth)*.
 e.,
 stars)
-on these they stamp an
-silver into coins;
 
 
-The native products include:
-- 
 
-abundant and cheap.
-(^
 They
 translucid.
 lie
@@ -173,7 +133,7 @@ some day they
 send
 men
 in little 25
-boats to pick them up. They are prized by the natives''.
+boats to pick them up. They are prized by the natives.
 
 
 Its dependencies are:
@@ -213,8 +173,7 @@ and the following goods are exchanged in bartering for them:
 
 ### Kulin 
 
-Kulin may be reached in five days with the
-monsoon from Chakulaya India.
+Kulin may be reached in five days with the monsoon from Chakulaya India.
 
 It takes a Guangzhou ship over 40 days to reach Sri Lanka to anchor for the winter. The following year, a further voyage of a month will take it to Kulin.
 

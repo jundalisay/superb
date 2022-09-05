@@ -1,15 +1,13 @@
-+++
-title= "Korea"
-heading= "Chapter 44 of Chau Ju Kua's Works Simplified"
-description= "The Koreans (Sinlo) descend from the Pien-han."
-author= "Chau Ju Kua"
-image= "/flags/kr.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/42-taiwan"
-linkbtext= "Taiwan"
-linkf= "/research/chau-ju-kua/chun-fan-chi/45-japan"
-linkftext= "Japan"
-date = "2022-01-08"
-+++
+---
+title: "Korea (Sinlo)"
+heading: "Chapter 22"
+date: 2021-11-20
+description: "The Koreans (Sinlo) descend from the Pien-han."
+image: "/flags/kr.png"
+author: "Chau Ju Kua"
+---
+
+
 
 Activity | Method 
 --- | ---

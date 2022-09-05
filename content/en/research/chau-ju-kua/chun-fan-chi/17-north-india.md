@@ -1,15 +1,12 @@
-+++
-title= "Northern India "
-heading= "Chapter 17"
-description= "Gujarat's capital has a four-fold wall and rules over 100 cities.Its people are white and clean looking. Both men and women wear double rings hanging down from holes in their ears"
-author= "Chau Ju Kua"
-image= "/flags/in.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/16-west-india"
-linkbtext= "West India"
-linkf= "/research/chau-ju-kua/chun-fan-chi/19-south-india"
-linkftext= "South India"
-date = "2022-01-21"
-+++
+---
+title: "Northern India"
+heading: "Chapter 17"
+date: 2022-01-10
+description: "Gujarat's capital has a four-fold wall and rules over 100 cities.Its people are white and clean looking. Both men and women wear double rings hanging down from holes in their ears"
+image: "/flags/in.png"
+author: "Chau Ju Kua"
+---
+
 
 
 Activity | Method 

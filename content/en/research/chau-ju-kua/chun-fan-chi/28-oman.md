@@ -1,14 +1,12 @@
-+++
-title= "Oman -- Chau Ju Kua's Works Simplified"
-heading= "Chapter 28"
-description= "Oman (Yung-man) resembles Wupa in terms of its people and soil." 
-image= "/flags/om.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/27-ethiopia"
-linkbtext= "Ethiopia"
-linkf= "/research/chau-ju-kua/chun-fan-chi/30-iraq"
-linkftext= "Iraq"
-date = "2022-01-15"
-+++ 
+---
+title: "Oman"
+heading: "Chapter 28"
+date: 2021-12-29
+description: "Oman (Yung-man) resembles Wupa in terms of its people and soil"
+image: "/flags/om.png"
+author: "Chau Ju Kua"
+---
+
 
 
 Oman (Yung-man) resembles Wupa in terms of its people and soil. 

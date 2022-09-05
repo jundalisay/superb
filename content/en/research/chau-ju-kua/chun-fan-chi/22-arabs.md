@@ -1,15 +1,12 @@
-+++
-title= "Arabia (Tashi) -- Chau Ju Kua's Works Simplified"
-heading= "Chapter 22"
-description= "The Arabs are to the very far northwest of Guangzhou. This makes it hard for foreign ships to trade to it directly." 
-author= "Chau Ju Kua"
-image= "/flags/sa.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/21-iran"
-linkbtext= "Iran"
-linkf= "/research/chau-ju-kua/chun-fan-chi/27-ethiopia"
-linkftext= "Africa"
-date = "2022-01-17"
-+++
+---
+title: "Arabia (Tashi)"
+heading: "Chapter 22"
+date: 2022-01-01
+description: "The Arabs are to the very far northwest of Guangzhou. This makes it hard for foreign ships to trade to it directly."
+image: "/flags/sa.png"
+author: "Chau Ju Kua"
+---
+
 
 
 Activity | Method 

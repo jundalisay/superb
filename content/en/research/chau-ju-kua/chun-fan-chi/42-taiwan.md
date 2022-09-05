@@ -1,15 +1,12 @@
-+++
-title= "Taiwan -- Chau Ju Kua's Works Simplified"
-heading = "Chapter 42-43"
-description= "Northern Taiwan (Liukiu) is 5-6 days sail east of Canton"
-author= "Chau Ju Kua"
-image= "/flags/tw.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/40-maharlika"
-linkbtext= "Maharlika"
-linkf= "/research/chau-ju-kua/chun-fan-chi/44-korea"
-linkftext= "Korea"
-date = "2022-01-09"
-+++
+---
+title: "Taiwan (Liukiu)"
+heading: "Chapter 42"
+date: 2021-11-28
+description: "Northern Taiwan (Liukiu) is 5-6 days sail east of Canton"
+image: "/flags/tw.png"
+author: "Chau Ju Kua"
+---
+
 
 Activity | Method 
 --- | ---
@@ -22,8 +19,7 @@ Northern Taiwan (Liukiu) is 5-6 days sail east of Canton.
 
 The king's family name is Huan-ssi. But the natives call him Kolau. 
 
-His lives in Polotantung. It has a threefold mound and a palisade surrounded by running water and protected by thorn hedges, and the eaves of the palace building
-have many figures of birds and beasts carved upon them.
+His lives in Polotantung. It has a threefold mound and a palisade surrounded by running water and protected by thorn hedges, and the eaves of the palace building have many figures of birds and beasts carved upon them.
 
 
 Both sexes bind their hair with white hempen cord and coil it up in a knot at the back of the head. 

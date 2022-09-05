@@ -1,15 +1,11 @@
-+++
-title= "Island Nations -- Chau Ju Kua's Works Simplified"
-heading = "Chapter 38"
-description= "When sailing from Lan-wu-li to silan, ships might be driven to Andaman if the wind is not fair. It is made up of 2 islands-- one large which is 70 li around, one small and uninhabited"
-author= "Chau Ju Kua"
-image= "/flags/mw.png"
-linkb= "/research/chau-ju-kua/chun-fan-chi/36-egypt"
-linkbtext= "Egypt"
-linkf= "/research/chau-ju-kua/chun-fan-chi/39-borneo"
-linkftext= "Borneo"
-date = "2022-01-12"
-+++
+---
+title: "Island Nations"
+heading: "Chapter 38"
+date: 2021-12-16
+description: "When sailing from Lan-wu-li to silan, ships might be driven to Andaman if the wind is not fair. It is made up of 2 islands-- one large which is 70 li around, one small and uninhabited"
+image: "/flags/mv.png"
+author: "Chau Ju Kua"
+---
 
 
 ### Andaman (Yentoman)
@@ -163,12 +159,10 @@ paragraph from an other
 source than that used in the second paragraph; the asacred relics being here called by a diffe-
 rent name. -->
 
-ISLANDS OF PEMBAAKD MADAGASCAR.
+## ISLANDS OF PEMBAAKD MADAGASCAR.
 
 
-Islands of
-2.
-Pemba and Madag-asear
+Islands of Pemba and Madag-asear
 K'lin-lun-ts'dng-k'i
 country
 ((This

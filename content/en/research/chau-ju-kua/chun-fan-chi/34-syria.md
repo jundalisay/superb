@@ -1,15 +1,12 @@
-+++
-title= "Syria -- Chau Ju Kua's Works Simplified"
-heading= "Chapter 34"
-description= "Lumei, also called Meiluku, is 300 stages west by land from Aden (Malopa)."
-author= "Chau Ju Kua"
-image= "/covers/chun.jpg"
-linkb= "/research/chau-ju-kua/chun-fan-chi/32-afghanistan"
-linkbtext= "Afghanistan"
-linkf= "/research/chau-ju-kua/chun-fan-chi/36-egypt"
-linkftext= "Egypt"
-date = "2022-01-12"
-+++
+---
+title: "Syria"
+heading: "Chapter 34"
+date: 2021-12-22
+description: "Lumei, also called Meiluku, is 300 stages west by land from Aden (Malopa)"
+image: "/flags/sy.png"
+author: "Chau Ju Kua"
+---
+
 
 
 ## 34. Damascus
@@ -23,8 +20,7 @@ Farming |
 
 Lumei, also called Meiluku, is 300 stages west by land from Aden (Malopa). 
 
-The city wall is crooked, seven-fold, and built of large smooth flat black stones. Each wall
-(^) is distant (from the adjoining one) a
+The city wall is crooked, seven-fold, and built of large smooth flat black stones. Each wall is distant (from the adjoining one) a
 ^
 thousand paces». «There are over three hundred foreign towers
 15 rets),
