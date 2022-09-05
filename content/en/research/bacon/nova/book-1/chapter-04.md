@@ -79,24 +79,30 @@ The true labor of philosophy resembles hers, for it neither relies entirely or p
 
 {{< s v="96" >}} Natural philosophy is not yet to be found unadulterated, but is impure and corrupted—by logic in the school of Aristotle, by natural theology in that of Plato,[58] by mathematics in the second school of Plato (that of Proclus and others)[59] which ought rather to terminate natural philosophy than to generate or create it. We may, therefore, hope for better results from pure and unmixed natural philosophy.
 
-{{< s v="97" >}} No one has yet had the firmness and severity to resolve upon and undertake the task of entirely abolishing common theories and notions, and applying the mind afresh, when thus cleared and levelled, to particular researches; 
+{{< s v="97" >}} No one has yet had the firmness and severity to:
+- entirely abolish common theories and notions, and
+- applying the mind afresh to particular research.
 
-hence our human reasoning is a mere farrago and crude mass made up of a great deal of credulity and accident, and the puerile notions it originally contracted.
+Hence, our human reasoning is a mere farrago and crude mass made up of a lot of credulity and accident. <!-- , and the puerile notions it originally contracted. -->
 
-But if a man of mature age, unprejudiced senses, and clear mind, would betake himself anew to experience and particulars, we might hope much more from such a one; in which respect we promise ourselves the fortune of Alexander the Great, and let none accuse us of vanity till they have heard the tale, which is intended to check vanity.
+But if a man of mature age, unprejudiced senses, and clear mind, would betake himself anew to experience and particulars, we might hope much more from such a one. In this respect, we promise ourselves the fortune of Alexander the Great. <!--  and let none accuse us of vanity till they have heard the tale, which is intended to check vanity. -->
 
-For Aeschines spoke thus of Alexander and his exploits: 
+Aeschines spoke thus of Alexander and his exploits: 
 
-“We live not the life of mortals, but are born at such a period that posterity will relate and declare our prodigies”
+{{< q >}}
+We live not the life of mortals, but are born at such a period that posterity will relate and declare our prodigies.
+{{< /q >}}
 
-As if he considered the exploits of Alexander to be miraculous.
+He considered Alexander's exploits to be miraculous.
 
-But in succeeding ages[60], Livy took a better view of the fact, and has made some such observation as this upon Alexander: “That he did no more than dare to despise insignificance.” 
+But in succeeding ages[60], Livy took a better view and observed that Alexander did no more than dare to despise insignificance.
 
-So in our opinion posterity will judge of us, that we have achieved no great matters, but only set less account upon what is considered important; for the meantime (as we have before observed) our only hope is in the regeneration of the sciences, by regularly raising them on the foundation of experience and building them anew, which I think none can venture to affirm to have been already done or even thought of.
+So in our opinion, posterity will judge of us, that we have achieved no great matters, but only set less account upon what is considered important. 
+
+For the meantime, our only hope is in the regeneration of the sciences, by regularly raising them on the foundation of experience and building them anew, which I think none can venture to affirm to have been already done or even thought of.
 
 
-{{< s v="98" >}} The foundations of experience (our sole resource) have hitherto failed completely or have been very weak; nor has a store and collection of particular facts, capable of informing the mind or in any way satisfactory, been either sought after or amassed. 
+{{< s v="98" >}} The foundations of experience (our sole resource) have hitherto failed completely or have been very weak. nor has a store and collection of particular facts, capable of informing the mind or in any way satisfactory, been either sought after or amassed. 
 
 On the contrary, learned, but idle and indolent, men have received some[79] mere reports of experience, traditions as it were of dreams, as establishing or confirming their philosophy, and have not hesitated to allow them the weight of legitimate evidence. 
 
