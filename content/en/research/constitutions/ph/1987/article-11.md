@@ -1,14 +1,10 @@
 ---
 title: Accountability of Public Officers
-heading: Article 11 of the 1987 Constitution Simplified
+heading: Article 11
 date: 2022-01-24
 description: "Public office is a public trust. Public officers and employees must at all times be accountable to the people, serve them with utmost responsibility, integrity, loyalty, and efficiency, act with patriotism and justice, and lead modest lives."
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1987"
-linkftext: "Index"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

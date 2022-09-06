@@ -6,10 +6,6 @@ title: "Qualimath: The Math for Superphysics"
 date: 2020-12-27
 image: "/graphics/physics/math.jpg"
 description: "Qualimath is Math for operating on Qualities instead of Quantities"
-linkb: /superphysics/principles/chapter-04
-linkbtext: "Karma"
-linkf: /superphysics/principles/chapter-05
-linkftext: "Desire"
 author: Juan
 icon: /icons/sp.png
 math: true
@@ -155,7 +151,7 @@ M :: (L : r)
 when deconstructed:
 
 ```elixir
-money-supply :: (liquidity-preference : interest-rate)
+money_supply :: (liquidity_preference : interest-rate)
 ```
 #
 
@@ -182,7 +178,7 @@ We then deconstruct it further:
 <!-- material-layer-gravitational-signature -->
 
 ```elixir
-gravity-between :: (material-layer-limiter (matter-amount-in-identity1 / distance-between^2 : matter-amount-in-identity2 / distance-between^2)
+gravity_between :: (material_layer_limiter (matter_amount_in_identity1 / distance_between^2 : matter_amount_in_identity2 / distance_between^2)
 ```
 
 ## Math with a Practical and Moral Purpose Inspired by Al-Khwarizmi and Descartes

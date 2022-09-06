@@ -1,21 +1,15 @@
 ---
-title: BATASANG PAMBANSA
-date: 2022-01-31
-heading: Article 9 of the 1973 Constitution Simplified
+title: Batasang Pambansa
+date: 2022-01-22
+heading: Article 9
 # date: 1899-01-19
 description: "The Legislative power shall be vested in a Batasang Pambansa."
 image: "/graphics/1973.jpg"
-linkb: "/research/constitutions/ph/1973/article-08"
-linkbtext: "article-08"
-linkf: "/research/constitutions/ph/1973/article-11"
-linkftext: "article-11"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 
-Article IX
-
-THE PRIME MINISTER, THE CABINET AND THE EXECUTIVE COMMITTEE
+## Article 9: The Prime Minister, The Cabinet And The Executive Committee
 
 Section 1 There shall be a Cabinet which shall be composed of Ministers with or without portfolio appointed by the President. At least a majority of the Members of the Cabinet who are heads of ministries shall come from the Regional Representatives of the Batasang Pambansa.
 
@@ -46,9 +40,7 @@ SEC. 9. The Prime Minister, Deputy Prime Minister, any Member of the Cabinet or 
 SEC. 10. The Prime Minister shall have supervision of all ministries.
 
 
-Article X
-
-THE JUDICIARY
+## Article 10: THE JUDICIARY
 
 Section 1. The Judicial power shall be vested in one Supreme Court and in such inferior courts as may be established by law. The Batasang Pambansa shall have the power to define, prescribe, and apportion the jurisdiction of the various courts, but may not deprive the Supreme Court of its jurisdiction over cases enumerated in Section five hereof.
 

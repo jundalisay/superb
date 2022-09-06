@@ -1,15 +1,11 @@
 ---
 title: "The President"
-date: 2022-01-31
-heading: Article 7 of the 1973 Constitution Simplified
+date: 2022-01-26
+heading: Article 7
 # date: 1899-01-19
 description: ""
 image: "/graphics/1973.jpg"
-linkb: "/research/constitutions/ph/1973/article-04"
-linkbtext: "article-04"
-linkf: "/research/constitutions/ph/1973/article-08"
-linkftext: "article-08"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 

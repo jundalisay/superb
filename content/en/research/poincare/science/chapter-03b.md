@@ -1,137 +1,130 @@
----
-title: The Fourth Geometry
-heading: Chapter 3b
-date: 2022-02-01
-description: Science and Hypothesis
-image: "/covers/hyp.jpg"
-linkb: "/research/poincare/science/chapter-03"
-linkbtext: "chapter-03"
-linkf: "/research/poincare/science/chapter-04"
-linkftext: "Chapter 4"
-author: "H. Poincare"
-icon: /icons/poincare.jpg
----
+Interpretation of Non-Euclidean Geometries.—Thusnon-euclidean geometries.
+
+vanishes the objection so far as two-dimensional geome-
+tries are concerned. It would be easy to extend Beltrami’s reasoning to three-dimensional geometries, and minds which do not recoil before space of four dimen-
+sions will see no difficulty in it; but such minds are few
+in number. 
+
+I prefer, then, to proceed otherwise. Let us consider a certain plane, which I shall call the fundamental plane, and let us construct a kind of dictionary by
+making a double series of terms written in two columns,
+and corresponding each to each, just as in ordinary dic-
+tionaries the words in two languages which have the same
+signification correspond to one another:—
+
+Space .............. The portion of space situated
+above the fundamental plane.
+Plane .............. Sphere cutting orthogonally
+the fundamental plane.
+Line ...............
+Circle cutting orthogonally the
+fundamental plane.
+Sphere ............. Sphere.
+Circle .............. Circle.
+Angle .............. Angle.science and hypothesis
+Distance between two
+points . . . . . . . . . .
+
+Logarithm of the anharmonic ratio of these two points
+and of the intersection of the fundamental plane with
+the circle passing through
+these two points and cut-
+ting it orthogonally.
+Etc. . . . . . . . . . . . . . . . . Etc.
 
 
-Among these explicit axioms there is one which seems to me to deserve some attention,
-because when we abandon it we can construct a fourth geometry as coherent as those of Euclid, Lobatschewsky, and Riemann. 
+Let us now take Lobatschewsky’s theorems and translate them by the aid of this dictionary, as we would translate a German text with the aid of a German-French dictionary. 
 
-To prove that we can always draw a perpendicular at a point A to a straight line AB, we consider
-a straight line AC movable about the point A, and initially identical with the fixed straight line AB. We then can make it turn about the point A until it lies in AB produced. 
+We shall then obtain the theorems of ordinary geometry. For instance, Lobatschewsky’s theorem: “The
+sum of the angles of a triangle is less than two right angles,” may be translated thus: “If a curvilinear triangle has for its sides arcs of circles which if produced would cut orthogonally the fundamental plane, the sum of the angles of this curvilinear triangle will be less than
+two right angles.” 
 
-Thus we assume two propositions—first, that such a rotation is possible, and then that it may continuenon-euclidean geometries.
+Thus, however far the consequences of Lobatschewsky’s hypotheses are carried, they will never
+lead to a contradiction; in fact, if two of Lobatschewsky’s
+theorems were contradictory, the translations of these
+two theorems made by the aid of our dictionary would be
+contradictory also. 
 
-until the two lines lie the one in the other produced. If
-the first point is conceded and the second rejected, we
-are led to a series of theorems even stranger than those
-of Lobatschewsky and Riemann, but equally free from
-contradiction. I shall give only one of these theorems,
-and I shall not choose the least remarkable of them. A
-real straight line may be perpendicular to itself.
+But these translations are theoremsnon-euclidean geometries.
 
-## Lie’s Theorem
+of ordinary geometry, and no one doubts that ordinary
+geometry is exempt from contradiction. Whence is the
+certainty derived, and how far is it justified? That is a
+question upon which I cannot enter here, but it is a very
+interesting question, and I think not insoluble. Nothing,
+therefore, is left of the objection I formulated above. But
+this is not all. Lobatschewsky’s geometry being suscep-
+tible of a concrete interpretation, ceases to be a useless
+logical exercise, and may be applied. I have no time
+here to deal with these applications, nor with what Herr
+Klein and myself have done by using them in the inte-
+gration of linear equations. Further, this interpretation is
+not unique, and several dictionaries may be constructed
+analogous to that above, which will enable us by a simple
+translation to convert Lobatschewsky’s theorems into the
+theorems of ordinary geometry.
 
-The number of axioms implicitly introduced into classical proofs is greater than necessary,
-and it would be interesting to reduce them to a mini-
-mum. It may be asked, in the first place, if this reduction
-is possible—if the number of necessary axioms and that
-of imaginable geometries is not infinite? 
+## Implicit Axioms
 
-A theorem due to Sophus Lie is of weighty importance in this discussion.
-It may be enunciated in the following manner:—Suppose
-the following premisses are admitted: (1) space has n di-
-mensions; (2) the movement of an invariable figure is
-possible; (3) p conditions are necessary to determine the
-position of this figure in space.
-The number of geometries compatible with these pre-
-misses will be limited. I may even add that if n is given, a
-superior limit can be assigned to p. If, therefore, the pos-
-sibility of the movement is granted, we can only invent
-a finite and even a rather restricted number of three-science and hypothesis
+Are the axioms implicitly enunciated in our text-books the only foundation of geometry?
 
-dimensional geometries.
+We may be assured of the contrary when we see that,
+when they are abandoned one after another, there are
+still left standing some propositions which are common to
+the geometries of Euclid, Lobatschewsky, and Riemann.
+These propositions must be based on premisses that ge-
+ometers admit without enunciation. It is interesting toscience and hypothesis
 
-## Riemann’s Geometrie
+try and extract them from the classical proofs.
 
-—However, this result seems
-contradicted by Riemann, for that scientist constructs
-an infinite number of geometries, and that to which his
-name is usually attached is only a particular case of them.
-All depends, he says, on the manner in which the length
-of a curve is defined. Now, there is an infinite number of
-ways of defining this length, and each of them may be the
-starting-point of a new geometry. 
+John Stuart Mill asserted 1 that every definition contains an axiom, because by defining we implicitly affirm the existence of the object defined. That is going rather
+too far. 
 
-That is perfectly true. But most of these definitions are incompatible with the movement of a variable figure <!-- such as we assume to be possible --> in Lie’s theorem. These geometries of Riemann, can never be purely analytical. They would not lend themselves to
-proofs analogous to those of Euclid.
+It is but rarely in mathematics that a definition is given without following it up by the proof of the existence of the object defined, and when this is not done it
+is generally because the reader can easily supply it; and
+it must not be forgotten that the word “existence” has
+not the same meaning when it refers to a mathematical
+entity as when it refers to a material object.
 
-On the Nature of Axioms
+A mathematical entity exists provided there is no contradiction implied in its definition, either in itself, or with the propositions previously admitted. But if the observa-
+tion of John Stuart Mill cannot be applied to all definitions, it is none the less true for some of them. A plane is sometimes defined in the following manner:—The plane
+is a surface such that the line which joins any two points
+upon it lies wholly on that surface. 
 
-Most mathematicians re- gard Lobatschewsky’s geometry as a mere logical curiosity. Some of them have, however, gone further. If several geometries are possible, they say, is it certain that
-our geometry is the one that is true? 
+There is obviously a new axiom concealed in this definition. It is true
+we might change it, and that would be preferable, but
+then we should have to enunciate the axiom explicitly.
+Other definitions may give rise to no less important re-
+1
+Logic, c. viii., cf. Definitions, §5–6.—[Tr.]non-euclidean geometries.
+53
+flections, such as, for example, that of the equality of two
+figures. Two figures are equal when they can be super-
+posed. To superpose them, one of them must be displaced
+until it coincides with the other. But how must it be dis-
+placed? If we asked that question, no doubt we should
+be told that it ought to be done without deforming it,
+and as an invariable solid is displaced. The vicious circle
+would then be evident. As a matter of fact, this defini-
+tion defines nothing. It has no meaning to a being living
+in a world in which there are only fluids. If it seems clear
+to us, it is because we are accustomed to the properties
+of natural solids which do not much differ from those of
+the ideal solids, all of whose dimensions are invariable.
+However, imperfect as it may be, this definition implies
+an axiom. 
 
-Experiment no doubt teaches us that the sum of the angles of a triangle is equal to two right angles, but this is because the triangles we deal with are too small. According to Lo-
-batschewsky, the difference is proportional to the area ofnon-euclidean geometries.
+The possibility of the motion of an invariable figure is not a self-evident truth. At least it is only so in the application to Euclid’s postulate, and not as an an-
+alytical à priori intuition would be. Moreover, when we
+study the definitions and the proofs of geometry, we see
+that we are compelled to admit without proof not only
+the possibility of this motion, but also some of its prop-
+erties. 
 
-the triangle, and will not this become sensible when we
-operate on much larger triangles, and when our measure-
-ments become more accurate? 
+This first arises in the definition of the straight line. Many defective definitions have been given, but the
+true one is that which is understood in all the proofs inscience and hypothesis
 
-Euclid’s geometry would thus be a provisory geometry. Now, to discuss this view
-we must first of all ask ourselves, what is the nature of
-geometrical axioms? 
+which the straight line intervenes. “It may happen that the motion of an invariable figure may be such that all the points of a line belonging to the figure are motionless, while all the points situate outside that line are in motion. 
 
-Are they synthetic à priori intuitions, as Kant affirmed? They would then be imposed upon us with such a force that we could not conceive of the contrary proposition, nor could we build upon it a
-theoretical edifice. 
+Such a line would be called a straight line.” We have deliberately in this enunciation separated the definition from the axiom which it implies. Many proofs such as those of the cases of the equality of triangles, of the possibility of drawing a perpendicular from a point to a straight line, assume propositions the enunciations of which are dispensed with, for they necessarily imply that it is possible to move a figure in space in a certain way.
 
-There would be no non-Euclidean geometry. To convince ourselves of this, let us take a true
-synthetic à priori intuition—the following, for instance,
-which played an important part in the first chapter:
 
-If a theorem is true for the number 1, and if it has been proved that it is true of n + 1, provided it is true of n, it will be true for all positive integers. Let us next try to
-get rid of this, and while rejecting this proposition let us construct a false arithmetic analogous to non-Euclidean geometry. 
-
-We shall not be able to do it. We shall be even tempted at the outset to look upon these intuitions as analytical. 
-
-Besides, to take up again our fiction of animals without thickness, we can scarcely admit that
-these beings, if their minds are like ours, would adopt the Euclidean geometry, which would be contradicted byscience and hypothesis all their experience. Ought we, then, to conclude that the axioms of geometry are experimental truths? 
-
-But we do not make experiments on ideal lines or ideal circles; we can only make them on material objects. On what, therefore, would experiments serving as a foundation for geometry be based? 
-
-The answer is easy. We have seen above that we constantly reason as if the geometrical
-figures behaved like solids. 
-
-What geometry would borrow from experiment would be therefore the properties of these bodies. 
-
-The properties of light and its propagation in a straight line have also given rise to some of
-the propositions of geometry, and in particular to those of projective geometry, so that from that point of view one would be tempted to say that metrical geometry is the study of solids, and projective geometry that of light. 
-
-But a difficulty remains, and is unsurmountable.
-
-If geometry were an experimental science, it would not be an exact science. It would be subjected to continual revision. 
-
-Nay, it would from that day forth be proved to be erroneous, for we know that no rigorously invariable solid exists. 
-
-The geometrical axioms are therefore neither synthetic à priori intuitions nor experimental facts. They are conventions. Our choice among all possible conventions is guided by experimental facts; but it remains free,non-euclidean geometries.
-
-and is only limited by the necessity of avoiding every
-contradiction, and thus it is that postulates may remain
-rigorously true even when the experimental laws which
-have determined their adoption are only approximate.
-In other words, the axioms of geometry (I do not speak
-of those of arithmetic) are only definitions in disguise.
-What, then, are we to think of the question: Is Euclidean
-geometry true? It has no meaning. We might as well ask
-if the metric system is true, and if the old weights and
-measures are false; if Cartesian co-ordinates are true and
-polar co-ordinates false. One geometry cannot be more
-true than another; it can only be more convenient. Now,
-Euclidean geometry is, and will remain, the most con-
-venient: 1st, because it is the simplest, and it is not so
-only because of our mental habits or because of the kind
-of direct intuition that we have of Euclidean space; it is
-the simplest in itself, just as a polynomial of the first de-
-gree is simpler than a polynomial of the second degree;
-2nd, because it sufficiently agrees with the properties of
-natural solids, those bodies which we can compare and
-measure by means of our senses.

@@ -1,15 +1,11 @@
 ---
-title: BATASANG PAMBANSA
-date: 2022-01-31
-heading: Article 8 of the 1973 Constitution Simplified
+title: Batasang Pambansa
+date: 2022-01-24
+heading: Article 8
 # date: 1899-01-19
 description: "The Legislative power shall be vested in a Batasang Pambansa."
 image: "/graphics/1973.jpg"
-linkb: "/research/constitutions/ph/1973/article-07"
-linkbtext: "article-07"
-linkf: "/research/constitutions/ph/1973/article-09"
-linkftext: "article-09"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 

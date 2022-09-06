@@ -1,13 +1,9 @@
 ---
-title: RELATIVE AND ABSOLUTE MOTION
+title: Relative And Absolute Motion
 heading: Chapter 7
-date: 2022-02-01
+date: 2022-01-22
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
-linkb: "/research/poincare/science/chapter-05"
-linkbtext: "Chapter 5"
-linkf: "/research/poincare/science/chapter-07"
-linkftext: "Chapter 7"
 author: "H. Poincare"
 icon: /icons/poincare.jpg
 ---
@@ -15,32 +11,25 @@ icon: /icons/poincare.jpg
 
 ## The Principle of Relative Motion
 
-Sometimes endeavours have been made to connect the law of acceleration
-with a more general principle. The movement of any sys-
-tem whatever ought to obey the same laws, whether it
-is referred to fixed axes or to the movable axes which
-are implied in uniform motion in a straight line. This
-is the principle of relative motion; it is imposed upon us
-for two reasons: the commonest experiment confirms it;
-the consideration of the contrary hypothesis is singularly
-repugnant to the mind.
-Let us admit it then, and consider a body under the
-action of a force. The relative motion of this body with
-respect to an observer moving with a uniform velocity
-equal to the initial velocity of the body, should be iden-
+Sometimes endeavours have been made to connect the law of acceleration with a more general principle. The movement of any sys-
+tem whatever ought to obey the same laws, whether it is referred to fixed axes or to the movable axes which
+are implied in uniform motion in a straight line. 
+
+This is the principle of relative motion; it is imposed upon us for 2 reasons: the commonest experiment confirms it;
+the consideration of the contrary hypothesis is singularly repugnant to the mind.
+
+Let us admit it then, and consider a body under the action of a force. The relative motion of this body with
+respect to an observer moving with a uniform velocity equal to the initial velocity of the body, should be iden-
 tical with what would be its absolute motion if it started
-from rest. We conclude that its acceleration must not
-depend upon its absolute velocity, and from that we at-
+from rest. We conclude that its acceleration must not depend upon its absolute velocity, and from that we at-
 tempt to deduce the complete law of acceleration.
-For a long time there have been traces of this proof
-in the regulations for the degree of B. ès Sc. It is clear
-that the attempt has failed. The obstacle which pre-science and hypothesis
-126
-vented us from proving the law of acceleration is that
-we have no definition of force. This obstacle subsists in
-its entirety, since the principle invoked has not furnished
-us with the missing definition. The principle of relative
-motion is none the less very interesting, and deserves to
+
+For a long time there have been traces of this proof in the regulations for the degree of B. ès Sc. It is clear
+that the attempt has failed. The obstacle which prevented us from proving the law of acceleration is that
+we have no definition of force. This obstacle subsists in its entirety, since the principle invoked has not furnished
+us with the missing definition. 
+
+The principle of relative motion is none the less very interesting, and deserves to
 be considered for its own sake. Let us try to enunciate
 it in an accurate manner. We have said above that the
 accelerations of the different bodies which form part of
@@ -51,73 +40,73 @@ to which the relative motion is referred move uniformly
 in a straight line; or, if it is preferred, their accelerations
 depend only on the differences of their velocities and the
 differences of their co-ordinates, and not on the abso-
-lute values of these velocities and co-ordinates. If this
-principle is true for relative accelerations, or rather for
-differences of acceleration, by combining it with the law
-of reaction we shall deduce that it is true for absolute ac-
-celerations. It remains to be seen how we can prove that
-differences of acceleration depend only on differences of
-velocities and co-ordinates; or, to speak in mathematical
-language, that these differences of co-ordinates satisfy
-differential equations of the second order. Can this proofrelative and absolute motion.
-127
-be deduced from experiment or from à priori conditions?
-Remembering what we have said before, the reader will
-give his own answer. Thus enunciated, in fact, the prin-
-ciple of relative motion curiously resembles what I called
-above the generalised principle of inertia; it is not quite
-the same thing, since it is a question of differences of co-
-ordinates, and not of the co-ordinates themselves. The
-new principle teaches us something more than the old,
-but the same discussion applies to it, and would lead to
+lute values of these velocities and co-ordinates. 
+
+If this principle is true for relative accelerations, or rather for differences of acceleration, by combining it with the law
+of reaction we shall deduce that it is true for absolute accelerations. It remains to be seen how we can prove that
+differences of acceleration depend only on differences of velocities and co-ordinates; or, to speak in mathematical
+language, that these differences of co-ordinates satisfy differential equations of the second order. 
+
+Can this proof be deduced from experiment or from à priori conditions?
+
+The principle of relative motion curiously resembles what I called above the generalised principle of inertia; it is not quite
+the same thing, since it is a question of differences of coordinates, and not of the co-ordinates themselves. 
+
+The new principle teaches us something more than the old, but the same discussion applies to it, and would lead to
 the same conclusions. We need not recur to it.
-Newton’s Argument.—Here we find a very important
-and even slightly disturbing question. I have said that
-the principle of relative motion was not for us simply a
-result of experiment; and that à priori every contrary
-hypothesis would be repugnant to the mind. But, then,
-why is the principle only true if the motion of the movable
+
+## Newton’s Argument
+
+The principle of relative motion was not just a result of experiment. à priori every contrary
+hypothesis would be repugnant to the mind. 
+
+But, then, why is the principle only true if the motion of the movable
 axes is uniform and in a straight line? It seems that it
 should be imposed upon us with the same force if the
 motion is accelerated, or at any rate if it reduces to a
-uniform rotation. In these two cases, in fact, the principle
+uniform rotation. 
+
+In these 2 cases, in fact, the principle
 is not true. I need not dwell on the case in which the
 motion of the axes is in a straight line and not uniform.
-The paradox does not bear a moment’s examination. If I
-am in a railway carriage, and if the train, striking againstscience and hypothesis
-128
-any obstacle whatever, is suddenly stopped, I shall be
-projected on to the opposite side, although I have not
-been directly acted upon by any force. There is nothing
-mysterious in that, and if I have not been subject to the
+The paradox does not bear a moment’s examination. 
+
+If I am in a railway carriage, and if the train, striking against any obstacle whatever, is suddenly stopped, I shall be projected on to the opposite side, although I have not been directly acted upon by any force. 
+
+There is nothing mysterious in that, and if I have not been subject to the
 action of any external force, the train has experienced
 an external impact. There can be nothing paradoxical in
 the relative motion of two bodies being disturbed when
 the motion of one or the other is modified by an external
-cause. Nor need I dwell on the case of relative motion
-referring to axes which rotate uniformly. If the sky were
+cause. 
+
+Nor need I dwell on the case of relative motion referring to axes which rotate uniformly. If the sky were
 for ever covered with clouds, and if we had no means of
 observing the stars, we might, nevertheless, conclude that
-the earth turns round. We should be warned of this fact
-by the flattening at the poles, or by the experiment of
+the earth turns round. 
+
+We should be warned of this fact by the flattening at the poles, or by the experiment of
 Foucault’s pendulum. And yet, would there in this case
 be any meaning in saying that the earth turns round?
+
 If there is no absolute space, can a thing turn without
 turning with respect to something; and, on the other
 hand, how can we admit Newton’s conclusion and believe
-in absolute space? But it is not sufficient to state that all
-possible solutions are equally unpleasant to us. We must
-analyse in each case the reason of our dislike, in order to
+in absolute space? 
+
+But it is not sufficient to state that all possible solutions are equally unpleasant to us. 
+
+We must analyse in each case the reason of our dislike, in order to
 make our choice with the knowledge of the cause. The
-long discussion which follows must, therefore, be excused.relative and absolute motion.
-129
-Let us resume our imaginary story. Thick clouds hide
-the stars from men who cannot observe them, and even
+long discussion which follows must, therefore, be excused.
+
+Let us resume our imaginary story. Thick clouds hide the stars from men who cannot observe them, and even
 are ignorant of their existence. How will those men know
 that the earth turns round? No doubt, for a longer period
 than did our ancestors, they will regard the soil on which
-they stand as fixed and immovable! They will wait a
-much longer time than we did for the coming of a Coper-
+they stand as fixed and immovable! 
+
+They will wait a much longer time than we did for the coming of a Coper-
 nicus; but this Copernicus will come at last. How will he
 come? In the first place, the mechanical school of this
 world would not run their heads against an absolute con-
@@ -155,13 +144,11 @@ sons of symmetry they should turn indifferently in any
 direction. If our scientists were able by dint of much
 hard work to make their universe perfectly symmetrical,
 this symmetry would not subsist, although there is no
-apparent reason why it should be disturbed in one di-
-rection more than in another. They would extract this
-from the situation no doubt—they would invent some-
-thing which would not be more extraordinary than the
-glass spheres of Ptolemy, and would thus go on accumu-relative and absolute motion.
-131
-lating complications until the long-expected Copernicus
+apparent reason why it should be disturbed in one direction more than in another. 
+
+They would extract this
+from the situation no doubt—they would invent something which would not be more extraordinary than the
+glass spheres of Ptolemy, and would thus go on accumulating complications until the long-expected Copernicus
 would sweep them all away with a single blow, saying it
 is much more simple to admit that the earth turns round.
 Just as our Copernicus said to us: “It is more convenient
@@ -170,7 +157,9 @@ of astronomy are thus expressed in a more simple lan-
 guage,” so he would say to them: “It is more convenient
 to suppose that the earth turns round, because the laws
 of mechanics are thus expressed in much more simple
-language.” That does not prevent absolute space—that
+language.” 
+
+That does not prevent absolute space—that
 is to say, the point to which we must refer the earth to
 know if it really does turn round—from having no ob-
 jective existence. And hence this affirmation: “the earth
@@ -184,14 +173,12 @@ suppose that the earth turns round,” have one and the
 same meaning. There is nothing more in one than in the
 other. Perhaps they will not be content with this, and
 may find it surprising that among all the hypotheses,
-or rather all the conventions, that can be made on thisscience and hypothesis
-132
-subject there is one which is more convenient than the
-rest? But if we have admitted it without difficulty when
-it is a question of the laws of astronomy, why should we
-object when it is a question of the laws of mechanics?
-We have seen that the co-ordinates of bodies are deter-
-mined by differential equations of the second order, and
+or rather all the conventions, that can be made on this subject there is one which is more convenient than the
+rest? 
+
+But if we have admitted it without difficulty when it is a question of the laws of astronomy, why should we object when it is a question of the laws of mechanics? 
+
+We have seen that the co-ordinates of bodies are determined by differential equations of the second order, and
 that so are the differences of these co-ordinates. This is
 what we have called the generalised principle of inertia,
 and the principle of relative motion. If the distances of
@@ -206,16 +193,14 @@ that astronomers can only observe the mutual distances
 of planets and the sun, and not the absolute longitudes
 of the planets. If we deduce directly from Newton’s law
 the differential equations which define the variation of
-these distances, these equations will not be of the second
-order. I mean that if, outside Newton’s law, we knew the
-initial values of these distances and of their derivatives
-with respect to time—that would not be sufficient to de-relative and absolute motion.
-133
-termine the values of these same distances at an ulterior
-moment. A datum would be still lacking, and this datum
-might be, for example, what astronomers call the area-
-constant. But here we may look at it from two different
-points of view. We may consider two kinds of constants.
+these distances, these equations will not be of the second order. 
+ 
+If outside Newton’s law, we knew the initial values of these distances and of their derivatives
+with respect to time—that would not be sufficient to determine the values of these same distances at an ulterior
+moment. 
+
+A datum would be still lacking, and this datum might be, for example, what astronomers call the area-
+constant. But here we may look at it from two different points of view. We may consider two kinds of constants.
 In the eyes of the physicist the world reduces to a series of
 phenomena depending, on the one hand, solely on initial
 phenomena, and, on the other hand, on the laws con-
@@ -246,53 +231,54 @@ it is certain at least that in proportion as Nature has se-
 crets, she will be strictly arbitrary and always uncertain
 in their application. As far as the area-constant is con-
 cerned, we are accustomed to look upon it as accidental.
-Is it certain that our imaginary astronomers would do the
-same? If they were able to compare two different solar
-systems, they would get the idea that this constant may
-assume several different values. But I supposed at the
-outset, as I was entitled to do, that their system would
+
+Is it certain that our imaginary astronomers would do the same? 
+
+If they were able to compare two different solar systems, they would get the idea that this constant may
+assume several different values. 
+
+But I supposed at the outset, as I was entitled to do, that their system would
 appear isolated, and that they would see no star which
-was foreign to their system. Under these conditions they
-could only detect a single constant, which would have an
+was foreign to their system. 
+
+Under these conditions they could only detect a single constant, which would have an
 absolutely invariable, unique value. They would be led
 no doubt to look upon it as an essential constant.
-One word in passing to forestall an objection. The in-
-habitants of this imaginary world could neither observe
-nor define the area-constant as we do, because absolute
-longitudes escape their notice; but that would not pre-relative and absolute motion.
 
+<!-- One word in passing to forestall an objection.  -->
 
-vent them from being rapidly led to remark a certain
+The inhabitants of this imaginary world could neither observe nor define the area-constant as we do, because absolute
+longitudes escape their notice; but that would not prevent them from being rapidly led to remark a certain
 constant which would be naturally introduced into their
 equations, and which would be nothing but what we call
-the area-constant. But then what would happen? If the
-area-constant is regarded as essential, as dependent upon
+the area-constant. 
+
+But then what would happen? 
+
+If the area-constant is regarded as essential, as dependent upon
 a law of nature, then in order to calculate the distances
 of the planets at any given moment it would be sufficient
 to know the initial values of these distances and those of
-their first derivatives. From this new point of view, dis-
-tances will be determined by differential equations of the
+their first derivatives. 
+
+From this new point of view, distances will be determined by differential equations of the
 second order. Would this completely satisfy the minds of
-these astronomers? I think not. In the first place, they
-would very soon see that in differentiating their equations
+these astronomers? I think not. 
+
+In the first place, they would very soon see that in differentiating their equations
 so as to raise them to a higher order, these equations
-would become much more simple, and they would be es-
-pecially struck by the difficulty which arises from symme-
-try. They would have to admit different laws, according
-as the aggregate of the planets presented the figure of
+would become much more simple, and they would be especially struck by the difficulty which arises from symmetry. They would have to admit different laws, according as the aggregate of the planets presented the figure of
 a certain polyhedron or rather of a regular polyhedron,
 and these consequences can only be escaped by regarding
-the area-constant as accidental. I have taken this partic-
-ular example, because I have imagined astronomers who
-would not be in the least concerned with terrestrial me-
-chanics and whose vision would be bounded by the solarscience and hypothesis
-136
-system. But our conclusions apply in all cases. Our uni-
-verse is more extended than theirs, since we have fixed
+the area-constant as accidental. 
+
+I have taken this particular example, because I have imagined astronomers who
+would not be in the least concerned with terrestrial mechanics and whose vision would be bounded by the solar system. But our conclusions apply in all cases. Our universe is more extended than theirs, since we have fixed
 stars; but it, too, is very limited, so we might reason on
 the whole of our universe just as these astronomers do on
-their solar system. We thus see that we should be defini-
-tively led to conclude that the equations which define
+their solar system. 
+
+We thus see that we should be definitively led to conclude that the equations which define
 distances are of an order higher than the second. 
 
 
@@ -302,14 +288,13 @@ It can only be because of mental habits created in us by the constant study of t
 
 The values of the distances at any given moment depend upon their initial values, on that of their first derivatives, and something else. 
 
-What is that something else? If we
-do not want it to be merely one of the second deriva-
-tives, we have only the choice of hypotheses. Suppose, as
-is usually done, that this something else is the absolute
-orientation of the universe in space, or the rapidity with
-which this orientation varies; this may be, it certainly is,
-the most convenient solution for the geometer. But it
-is not the most satisfactory for the philosopher, becauserelative and absolute motion.
+What is that something else? 
+
+If we do not want it to be merely one of the second derivatives, we have only the choice of hypotheses. Suppose, as
+is usually done, that this something else is the absolute orientation of the universe in space, or the rapidity with
+which this orientation varies; this may be, it certainly is, the most convenient solution for the geometer. 
+
+But it is not the most satisfactory for the philosopher, becauserelative and absolute motion.
 
 this orientation does not exist. We may assume that this
 something else is the position or the velocity of some invisible body, and this is what is done by certain persons, who have even called the body Alpha, although we are destined to never know anything about this body except its name. 
@@ -318,5 +303,3 @@ This is an artifice entirely analogous to that of which I spoke at the end of th
 my reflections on the principle of inertia. But as a matter of fact the difficulty is artificial. 
 
 Provided that the future indications of our instruments can only depend on the indications which they have given us, or that they might have formerly given us, such is all we want, and with these conditions we may rest satisfied.
-
-

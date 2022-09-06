@@ -4,11 +4,7 @@ heading: Article 3 of the 1987 Constitution Simplified
 date: 2022-01-30
 description: "No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws"
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987/article-01"
-linkbtext: "article-01"
-linkf: "/research/constitutions/ph/1987/article-05"
-linkftext: "article-05"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

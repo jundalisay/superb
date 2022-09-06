@@ -1,15 +1,11 @@
 ---
-title: LOCAL GOVERNMENT
-date: 2022-01-31
-heading: Article 11 of the 1973 Constitution Simplified
+title: Local Government
+date: 2022-01-21
+heading: Article 11
 # date: 1899-01-19
 description: "The Legislative power shall be vested in a Batasang Pambansa."
 image: "/graphics/1973.jpg"
-linkb: "/research/constitutions/ph/1973/article-09"
-linkbtext: "article-09"
-linkf: "/research/constitutions/ph/1973/article-13"
-linkftext: "article-13"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 
@@ -44,7 +40,7 @@ SEC. 3. No Member of a Constitutional Commission shall, during his tenure in off
 
 SEC. 4. The Constitutional Commissions shall appoint their officials and employees in accordance with the Civil Service Law.
 
-B. THE CIVIL SERVICE COMMISSION
+### B. THE CIVIL SERVICE COMMISSION
 
 Section 1. (1) The Civil Service embraces every branch, agency, subdivision, and instrumentality of the Government, including every government-owned or controlled corporation. It shall be administered by an independent Civil, Service Commission composed of a Chairman and two Commissioners, who shall be natural-born citizens of the Philippines, and, at the time of their appointment, are at least thirty-five years of age and holders of a college degree, and must not have been candidates for any elective position in the election immediately preceding their appointment. The Chairman and the Commissioners shall be appointed by the President for a term of seven years without reappointment. Of the Commissioners first appointed, one shall hold office for seven years, another for five years, and the third for three years. Appointment to any vacancy shall be only for the unexpired portion of the term of the predecessor.
 
@@ -64,7 +60,7 @@ SEC. 6. The Batasang Pambansa shall provide for the standardization of compensat
 
 
 
-## C. THE COMMISSION ON ELECTIONS
+### C. THE COMMISSION ON ELECTIONS
 
 Section 1. (1) There shall be an independent Commission on Elections composed of a Chairman and eight Commissioners, who shall be natural-born citizens of the Philippines, and, at the time of their appointment, at least thirty-five years of age and holders of a college degree. However, a majority thereof, including the Chairman, shall be members of the Philippine Bar who have been engaged in the practice of law for at least ten years.
 
@@ -112,15 +108,28 @@ SEC. 10. No elective public officer may change his political affiliation during 
 
 SEC. 11. Any decision, order, or ruling of the Commission may be brought to the Supreme Court on certiorari by the aggrieved party within thirty days from his, receipt of a copy thereof.
 
-D. COMMISION ON AUDIT
 
-Section 1. (1) There shall be an independent Commission on Audit composed of a Chairman and two Commissioners, who shall be natural-born citizens of the Philippines and, at the time of their appointment, at least forty years of age and certified public accountants or members of the Philippine Bar for at least ten years.
+### D. COMMISION ON AUDIT (COA)
 
-(2) The Chairman and the Commissioners shall be appointed by the President for a term of seven years without reappointment. Of the Commissioners first. appointed, one shall hold office for seven years, another for five years, and the third for three years. Appointment to any vacancy shall be only for the unexpired portion of the term of the predecessor.
+Section 1. 
 
-SEC. 2. The Commission on Audit shall have the following powers and functions:
+1. The COA has:
+- 1 Chairman
+- 2 Commissioners
 
-(1) Examine, audit, and settle, in accordance with law and regulations, all accounts pertaining to the revenues and receipts of, and expenditures or uses of funds and property, owned or held in trust by, or pertaining to, the Government, or any of its subdivisions, agencies, or instrumentalities, including government-owned or controlled corporations; keep the general accounts of the Government and, for such period as may be provided by law, preserve the vouchers pertaining thereto; and promulgate accounting and auditing rules and regulations including those for the prevention of irregular, unnecessary, excessive; or extravagant expenditures or uses of funds and property.
+These must be natural-born citizens of the Philippines and, at the time of their appointment, at least 40 years of age and certified public accountants or members of the Philippine Bar for at least 10 years.
+
+2. They shall be appointed by the President for a 7 year term without reappointment. 
+
+Of the Commissioners first. appointed, one shall hold office for seven years, another for five years, and the third for three years. 
+
+Appointment to any vacancy shall be only for the unexpired portion of the term of the predecessor.
+
+Section 2. The Commission on Audit shall:
+
+1. Examine, audit, and settle, in accordance with law and regulations, all accounts pertaining to the revenues and receipts of, and expenditures or uses of funds and property, owned or held in trust by, or pertaining to, the Government, or any of its subdivisions, agencies, or instrumentalities, including government-owned or controlled corporations;
+
+- keep the general accounts of the Government and, for such period as may be provided by law, preserve the vouchers pertaining thereto; and promulgate accounting and auditing rules and regulations including those for the prevention of irregular, unnecessary, excessive; or extravagant expenditures or uses of funds and property.
 
 (2) Decide any case brought before it within sixty days from the date of its submission for resolution. Unless otherwise provided by law, any decision, order, or ruling of the Commission may be brought to the Supreme Court on certiorari by the aggrieved party within thirty days from his receipt of a copy thereof.
 

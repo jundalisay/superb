@@ -4,11 +4,7 @@ heading: Article 7 of the 1987 Constitution Simplified
 date: 2022-01-28
 description: "The executive power shall be vested in the President of the Philippines"
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987/article-05"
-linkbtext: "article-05"
-linkf: "/research/constitutions/ph/1987/article-08"
-linkftext: "article-08"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 

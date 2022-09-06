@@ -4,10 +4,6 @@ heading: Article 15 of the 1987 Constitution Simplified
 date: 2022-01-31
 description: "The State recognizes the Filipino family as the foundation of the nation. Accordingly, it shall strengthen its solidarity and actively promote its total development"
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987/article-14"
-linkbtext: "article-14"
-linkf: "/research/constitutions/ph/1987/article-18"
-linkftext: "article-18"
 icon: /icons/sun.png
 ---
 

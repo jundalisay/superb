@@ -4,11 +4,7 @@ heading: Article 6 of the 1987 Constitution Simplified
 date: 2022-01-29
 description: ""
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987/article-03"
-linkbtext: "article-03"
-linkf: "/research/constitutions/ph/1987/article-07"
-linkftext: "article-07"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 

@@ -4,10 +4,6 @@ heading: Article 18 of the 1987 Constitution Simplified
 date: 2022-01-31
 description: "The first elections of Members of the Congress under this Constitution shall be held on the second Monday of May, 1987"
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987/article-15"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1987/"
-linkftext: "Index"
 icon: /icons/sun.png
 ---
 

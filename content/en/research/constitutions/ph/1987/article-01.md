@@ -4,11 +4,7 @@ heading: Articles 1-2 of the 1987 Constitution Simplified
 date: 2022-01-31
 description: ""
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1987/article-03"
-linkftext: "article-03"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 <!-- ## PREAMBLE
