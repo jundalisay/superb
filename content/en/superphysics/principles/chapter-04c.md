@@ -5,10 +5,6 @@ date: 2020-12-26
 # date: 2021-06-23
 image: "/graphics/econ/eagle.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"
-linkb: /superphysics/principles/chapter-04b
-linkbtext: "Qualimath"
-linkf: /superphysics/principles/chapter-05
-linkftext: "Desire"
 author: Juan
 icon: /icons/pantry.png
 aliases:

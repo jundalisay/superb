@@ -1,13 +1,9 @@
 ---
-title: "Articles 1"
-heading: "Japanese Constitution"
-date: 2021-11-20
+title: "The Emperor"
+heading: "Article 1"
+date: 2021-11-30
 image: "/flags/jp.png"
-description: ""
-linkb: /research/constitutions/jp
-linkbtext: "constitutions"
-linkf: /research/constitutions/jp/chapter-2
-linkftext: "constitutions"
+description: "The Emperor shall be the symbol of the State and of the unity of the People"
 icon: "/flags/jp.png"
 ---
 
@@ -18,7 +14,8 @@ icon: "/flags/jp.png"
 
 ## CHAPTER 1: The Emperor 
 
-Article 1. The Emperor shall be the symbol of the State and of the unity of the People, deriving his position from the will of the people with whom resides sovereign power. 
+Article 1. The Emperor shall be the symbol of the State and of the unity of the People.
+- He derives his position from the will of the people with whom resides sovereign power. 
 
 Article 2. The Imperial Throne shall be dynastic and succeeded to in accordance with the Imperial House Law passed by the Diet. 
 

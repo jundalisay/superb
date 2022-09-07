@@ -1,20 +1,33 @@
-## The Present State of Physics
+---
+title: The Present State of Physics
+heading: Chapter 10c
+date: 2022-01-06
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
+
+
 
 Two opposite tendencies may be distinguished in the history of the develop-
-ment of physics. On the one hand, new relations are con-
-tinually being discovered between objects which seemed
+ment of physics. 
+
+On the one hand, new relations are continually being discovered between objects which seemed
 destined to remain for ever unconnected; scattered facts
 cease to be strangers to each other and tend to be mar-
 shalled into an imposing synthesis. The march of science
 is towards unity and simplicity.
-On the other hand, new phenomena are continually
-being revealed; it will be long before they can be assigned
+
+On the other hand, new phenomena are continually being revealed; it will be long before they can be assigned
 their place—sometimes it may happen that to find them
-a place a corner of the edifice must be demolished. In the
-same way, we are continually perceiving details ever more
+a place a corner of the edifice must be demolished. 
+
+In the same way, we are continually perceiving details ever more
 varied in the phenomena we know, where our crude senses
-used to be unable to detect any lack of unity. What we
-thought to be simple becomes complex, and the march of
+used to be unable to detect any lack of unity. 
+
+What we thought to be simple becomes complex, and the march of
 science seems to be towards diversity and complication.
 Here, then, are two opposing tendencies, each of
 which seems to triumph in turn. Which will win? 
@@ -261,12 +274,11 @@ lines; it is now necessary to connect these lines by more
 or less complicated curves. On the other hand, unity is
 gained. Separate categories quieted but did not satisfy
 the mind.
+
 Finally, a new domain, that of chemistry, has been
 invaded by the method of physics, and we see the birth of
 physical chemistry. It is still quite young, but already it
-has enabled us to connect such phenomena as electrolysis,the theories of modern physics.
-
-osmosis, and the movements of ions.
+has enabled us to connect such phenomena as electrolysis, osmosis, and the movements of ions.
 
 From this cursory exposition what can we conclude?
 Taking all things into account, we have approached the

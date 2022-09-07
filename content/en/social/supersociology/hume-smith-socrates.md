@@ -4,13 +4,10 @@ heading: "Updated Jan 2021 to add Socrates"
 date: 2015-08-15
 image: "/covers/smith.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
-linkb: /social/supersociology/principles/collective-wave-of-desire
-linkbtext: "Collective-wave-of-desire"
-linkf: /social/supersociology/principles/law-social-cycles
-linkftext: "Law-of-social-cycles"
 author: Juan
 icon: /icons/spsoc.png
 ---
+
 
 People's confusion regarding Smith's works, such as his stand on capitalism, arises because he did not define nor explain self-interest, private ownership, and why a person should have the profits of one's own work.
 

@@ -5,10 +5,6 @@ date: 2020-01-28
 linkTitle: "Radioactive Layer"
 image: /photos/physics/elec.jpg
 description: "The Radioactive Layer deals with fusion and the conversion of particles into different material types"
-linkb: /material/principles/spin
-linkbtext: Spin
-linkf: /material/principles/material
-linkftext: Material Layer
 author: Juan
 aliases:
   /material/principles/radioactive

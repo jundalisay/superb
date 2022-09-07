@@ -87,6 +87,21 @@ Since ideas are static, it follows that it is the mind and its consciousness tha
 
 
 
+
+
+<!-- The Greeks of 500 BC got their ideas from the Hindus which had those ideas since 2000 BC. 
+
+Timaeus got his four elements from the five elements of the Hindus, just as Socrates got his reincarnation and whorls from the reincarnation and chakras of the Hindus, just as Parmenides got his The One from Brahma idea. 
+
+Even Stoicism from Zeno of 300 BC came from Buddhism of 500 BC. 
+
+The difference is that those original ideas were in Sanskrit and not English. Rather the English version came from the Greek version which came from the Sanskrit version. But your mind is biased and so it stops at the Greek version and does not stretch to the original Indian version because that would mean that Indians were once intellectuallly superior to the warlike Europeans. 
+
+https://buddhism.stackexchange.com/questions/2801/is-there-evidence-of-a-buddhist-influence-on-greek-stoicism
+ -->
+
+
+
 <!--  are static and non-moving, and it is the created minds that move from one idea to another. However, our perspective as humans is from the created minds. And so, for the purposes of explanation, we will take the opposite view and see our minds as stationary and ideas as moving. -->
 
 

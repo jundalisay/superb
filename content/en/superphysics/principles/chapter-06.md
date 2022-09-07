@@ -6,13 +6,10 @@ title: "The Nature of Feelings"
 date: 2020-12-15
 image: /photos/psych/freedom.jpg
 description: "Active sensing is the foundation of critical thinking (as intellect), as well as critical feeling (as kindness and fellow-feeling)"
-linkb: /superphysics/principles/chapter-05
-linkbtext: "Desire"
-linkf: /superphysics/principles/chapter-07
-linkftext: "Mind"
 author: Juan
 icon: /icons/sp.png
 ---
+
 
 
 ## Feelings are Superior to Intellect

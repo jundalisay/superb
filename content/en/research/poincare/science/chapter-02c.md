@@ -1,38 +1,40 @@
+---
+title: Mathematical Magnitude And Experiment
+date: 2022-02-18
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
+
+
+
 ## Second Stage
 
-We have only taken our first step. We have explained the origin of continuums of the first order;
-we must now see why this is not sufficient, and why the
-incommensurable numbers had to be invented.
+We have only taken our first step. We have explained the origin of continuums of the first order; we must now see why this is not sufficient, and why the incommensurable numbers had to be invented.
 
 If we try to imagine a line, it must have the characters of the physical continuum—that is to say, our representation must have a certain breadth. Two lines will therefore appear to us under the form of two narrow bands, and if we are content with this rough image, it is clear that
 where two lines cross they must have some common part.
 
-But the pure geometer makes one further effort; without entirely renouncing the aid of his senses, he tries to imagine a line without breadth and a point without size. This
-he can do only by imagining a line as the limit towards
-which tends a band that is growing thinner and thinner,
-and the point as the limit towards which is tending an
-area that is growing smaller and smaller. Our two bands,
-however narrow they may be, will always have a common
-area; the smaller they are the smaller it will be, and its
-limit is what the geometer calls a point. This is why it is
-said that the two lines which cross must have a commonscience and hypothesis
+But the pure geometer makes one further effort; without entirely renouncing the aid of his senses, he tries to imagine a line without breadth and a point without size. 
 
-point, and this truth seems intuitive.
-But a contradiction would be implied if we conceived
-of lines as continuums of the first order—i.e., the lines
+This he can do only by imagining a line as the limit towards which tends a band that is growing thinner and thinner,
+and the point as the limit towards which is tending an area that is growing smaller and smaller. Our two bands,
+however narrow they may be, will always have a common area; the smaller they are the smaller it will be, and its
+limit is what the geometer calls a point. 
+
+This is why it is said that the two lines which cross must have a common point, and this truth seems intuitive.
+But a contradiction would be implied if we conceived of lines as continuums of the first order—i.e., the lines
 traced by the geometer should only give us points, the
-co-ordinates of which are rational numbers. The con-
-tradiction would be manifest if we were, for instance, to
-assert the existence of lines and circles. It is clear, in fact,
-that if the points whose co-ordinates are commensurable
-were alone regarded as real, the in-circle of a square and
-the diagonal of the square would not intersect, since the
-co-ordinates of the point of intersection are incommensurable.
+co-ordinates of which are rational numbers. 
 
-Even then we should have only certain incommensu-
-rable numbers, and not all these numbers.
-But let us imagine a line divided into two half-rays
-(demi-droites). Each of these half-rays will appear to
+The contradiction would be manifest if we were, for instance, to assert the existence of lines and circles. It is clear, in fact,
+that if the points whose co-ordinates are commensurable were alone regarded as real, the in-circle of a square and
+the diagonal of the square would not intersect, since the co-ordinates of the point of intersection are incommensurable.
+
+Even then we should have only certain incommensurable numbers, and not all these numbers.
+
+But let us imagine a line divided into two half-rays (demi-droites). Each of these half-rays will appear to
 our minds as a band of a certain breadth; these bands
 will fit close together, because there must be no interval
 between them. The common part will appear to us to be
@@ -46,26 +48,25 @@ incommensurable number was regarded as the common
 frontier of two classes of rational numbers. Such is the
 origin of the continuum of the second order, which is the
 mathematical continuum properly so called.
-Summary.—To sum up, the mind has the faculty of
-creating symbols, and it is thus that it has constructed
-the mathematical continuum, which is only a particular
-system of symbols. The only limit to its power is the
-necessity of avoiding all contradiction; but the mind only
-makes use of it when experiment gives a reason for it.
-In the case with which we are concerned, the reason
-is given by the idea of the physical continuum, drawn
-from the rough data of the senses. But this idea leads
-to a series of contradictions from each of which in turn
-we must be freed. In this way we are forced to imagine
-a more and more complicated system of symbols. That
-on which we shall dwell is not merely exempt from in-
-ternal contradiction,—it was so already at all the steps
-we have taken,—but it is no longer in contradiction with
-the various propositions which are called intuitive, and
-which are derived from more or less elaborate empirical
-notions.
-Measurable Magnitude.—So far we have not spoken
-of the measure of magnitudes; we can tell if any one ofscience and hypothesis
+
+###  Summary
+
+The mind has the faculty of creating symbols. This leads to a particular system of symbols which becomes the mathematical continuum. 
+
+The only limit to its power is the necessity of avoiding all contradiction; but the mind only makes use of it when experiment gives a reason for it.
+
+In the case with which we are concerned, the reason is given by the idea of the physical continuum, drawn
+from the rough data of the senses. But this idea leads to a series of contradictions from each of which in turn
+we must be freed. In this way we are forced to imagine a more and more complicated system of symbols. 
+
+That on which we shall dwell is not merely exempt from internal contradiction,—it was so already at all the steps
+we have taken,—but it is no longer in contradiction with the various propositions which are called intuitive, and
+which are derived from more or less elaborate empirical notions.
+
+
+## Measurable Magnitude
+
+So far we have not spoken of the measure of magnitudes; we can tell if any one ofscience and hypothesis
 
 them is greater than any other, but we cannot say that
 it is two or three times as large.
@@ -75,10 +76,10 @@ So far, I have only considered the order in which the terms are arranged; but th
 We must learn how to compare the interval which separates any two terms. On this condition alone
 will the continuum become measurable, and the operations of arithmetic be applicable. This can only be done by the aid of a new and special convention; and this convention is, that in such a case the interval between the terms A and B is equal to the interval which separates
 C and D. For instance, we started with the integers, and
-between two consecutive sets we intercalated n interme-
-diary sets; by convention we now assume these new sets
-to be equidistant. This is one of the ways of defining the
-addition of two magnitudes; for if the interval AB is by
+between two consecutive sets we intercalated n intermediary sets; by convention we now assume these new sets
+to be equidistant. 
+
+This is one of the ways of defining the addition of two magnitudes; for if the interval AB is by
 definition equal to the interval CD, the interval AD will
 by definition be the sum of the intervals AB and AC.
 This definition is very largely, but not altogether, arbi-
@@ -129,9 +130,7 @@ Suppose now that the breadth of the bands diminishes indefinitely: the common pa
 The geometer who reasons in this way is only doing what we have done when we proved that two lines which intersect have a common point, and his intuition might also seem to be quite legitimate. 
 
 But this is not the case. We can show that there are curves which have no tangent, if we
-define such a curve as an analytical continuum of the sec-mathematical magnitude.
-
-ond order. 
+define such a curve as an analytical continuum of the second order. 
 
 No doubt some artifice analogous to those we have discussed above would enable us to get rid of this
 contradiction, but as the latter is only met with in very

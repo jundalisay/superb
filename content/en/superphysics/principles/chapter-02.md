@@ -2,7 +2,6 @@
 title: "Everything is an Idea"
 #, Propelled by Feelings
 heading: "Chapter 2"
-# heading: "Inside the Matrix or the Mind of the Brahma"
 # date: 2020-01-02
 date: 2020-12-30
 image: /photos/idea.jpg

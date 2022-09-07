@@ -1,14 +1,10 @@
 ---
 title: Social Justice and Human Rights
 heading: Article 13 of the 1987 Constitution Simplified
-date: 2022-01-31
+date: 2022-01-21
 description: ""
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1987"
-linkftext: "Index"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

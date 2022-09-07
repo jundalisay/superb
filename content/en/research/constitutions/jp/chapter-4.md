@@ -1,13 +1,9 @@
 ---
 title: "The Diet"
-heading: "Chapter 4 of the Japanese Constitution Simplified"
-date: 2021-11-20
+heading: "Chapter 4"
+date: 2021-11-26
 image: "/flags/jp.png"
 description: ""
-linkb: /research/constitutions/jp/chapter-2
-linkbtext: "Chapter 2"
-linkf: /research/constitutions/jp/chapter-5
-linkftext: "Chapter 5"
 icon: "/flags/jp.png"
 ---
 

@@ -5,10 +5,6 @@ date: 2020-09-21
 image: /photos/econ/writer.jpg
 # image: "https://sorasystem.sirv.com/photos/type.jpg"
 description : "We propose Bullet-style Writing style for writing content that is better for the internet and SEO"
-linkb: "/social/supersociology/solutions"
-linkbtext: "Social solutions"
-linkf: "/superphysics/solutions/qualimath"
-linkftext: "Qualimath"
 author: Juan
 icon: /icons/sp.png
 ---

@@ -1,12 +1,8 @@
 ---
 title: Mathematical Magnitude And Experiment
-date: 2022-02-01
+date: 2022-02-20
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
-linkb: "/research/poincare/science/"
-linkbtext: "Science"
-linkf: "/research/poincare/science/chapter-02"
-linkftext: "Chapter 2"
 author: "H. Poincare"
 icon: /icons/poincare.jpg
 ---

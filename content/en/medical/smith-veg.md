@@ -1,13 +1,9 @@
 ---
+heading: He was Vegetarian
 title: "Adam Smith on Vegetarian Diets"
 date: 2016-06-20
 image: /photos/psych/eat.jpg
 description: "Adam Smith was a Vegetarian who favored potatoes"
-linkb: /medical/physical/covid-variants
-linkbtext: "covid-variants"
-linkf: /medical/
-linkftext: "Index"
-heading: He was Vegetarian
 author: Juan
 icon: /icons/spmed.png
 aliases:

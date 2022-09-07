@@ -1,14 +1,10 @@
 ---
 title: The Powers of the National Assembly
-heading: Title 5b of the Malolos Constitution Simplified
-date: 2022-01-29
+heading: Title 5b
+date: 2022-01-24
 description: "The Legislative Power according to the malolos consitution"
 image: "/graphics/1899.jpg"
-linkb: "/research/constitutions/ph/1899/title-01"
-linkbtext: "title-01"
-linkf: "/research/constitutions/ph/1899/title-07"
-linkftext: "title-07"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

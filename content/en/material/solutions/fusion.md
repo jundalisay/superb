@@ -1,14 +1,9 @@
 ---
-title: How Qosts Can Make Fusion a Reality
 heading: Anti-gravity Principles
+title: How Qosts Can Make Fusion a Reality
 date: 2020-01-31
 image: /graphics/physics/michelson.png
-# image: /photos/physics/star.jpg
 description: "Fusion can be realized by artificial gravity just as stars use gravity for their fusion"
-linkb: /material/principles/qost
-linkbtext: "Qosts"
-linkf: /material/principles/qoe
-linkftext: "Qoe"
 author: Juan
 icon: /icons/spmat.png
 aliases:

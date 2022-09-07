@@ -1,13 +1,9 @@
 ---
 title: "The Cabinet"
-heading: "Chapter 5: Japanese Constitution"
-date: 2021-11-20
+heading: "Chapter 5"
+date: 2021-11-24
 image: "/flags/jp.png"
 description: "The Cabinet shall consist of the Prime Minister, who shall be its head, and other Ministers of State"
-linkb: /research/constitutions/jp/chapter-4
-linkbtext: "chapter-4"
-linkf: /research/constitutions/jp/chapter-6
-linkftext: "Chapter 6"
 icon: "/flags/jp.png"
 ---
 

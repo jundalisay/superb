@@ -1,15 +1,19 @@
-Interpretation of Non-Euclidean Geometries.—Thusnon-euclidean geometries.
+---
+title: Interpretation of Non-Euclidean Geometries
+date: 2022-02-12
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
 
-vanishes the objection so far as two-dimensional geome-
-tries are concerned. It would be easy to extend Beltrami’s reasoning to three-dimensional geometries, and minds which do not recoil before space of four dimen-
-sions will see no difficulty in it; but such minds are few
-in number. 
 
-I prefer, then, to proceed otherwise. Let us consider a certain plane, which I shall call the fundamental plane, and let us construct a kind of dictionary by
-making a double series of terms written in two columns,
-and corresponding each to each, just as in ordinary dic-
-tionaries the words in two languages which have the same
-signification correspond to one another:—
+
+## Thusnon-euclidean geometries.
+
+vanishes the objection so far as two-dimensional geometries are concerned. It would be easy to extend Beltrami’s reasoning to three-dimensional geometries, and minds which do not recoil before space of 4 dimensions will see no difficulty in it; but such minds are few in number. 
+
+I prefer, then, to proceed otherwise. Let us consider a certain plane, which I shall call the fundamental plane, and let us construct a kind of dictionary by making a double series of terms written in two columns, and corresponding each to each, just as in ordinary dictionaries the words in 2 languages which have the same signification correspond to one another:
 
 Space .............. The portion of space situated
 above the fundamental plane.

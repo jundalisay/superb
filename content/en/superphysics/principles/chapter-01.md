@@ -7,10 +7,6 @@ heading: "Chapter 1"
 date: 2020-12-31
 image: /photos/tech/mac.jpg
 description: "All that we perceive is in the universe which is a matrix of the ideas of the Creator of existence"
-linkb: "/"
-linkbtext: "Home"
-linkf: /superphysics/principles/chapter-02
-linkftext: "Idea"
 author: Juan
 icon: /icons/sp.png
 aliases:

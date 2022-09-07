@@ -1,15 +1,11 @@
 ---
 title: National Territory
 date: 2022-01-31
-heading: Article 1 of the 1935 Constitution Simplified
+heading: Article 1
 # date: 1899-01-19
 description: ""
 image: "/graphics/1935.jpg"
-linkb: "/research/constitutions/ph/1935"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1935/article-06"
-linkftext: "Article 6"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 <!-- ## Preamble

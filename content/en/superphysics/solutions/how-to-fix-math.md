@@ -5,10 +5,6 @@ date: 2020-09-21
 image: /photos/psych/bore.jpg
 # image: "https://sorasystem.sirv.com/graphics/equation.jpg"
 description : "We propose Decon Notation to make math easier to understand"
-linkb: "/superphysics/solutions/bullet-style-writing"
-linkbtext: "bullet-style-writing"
-linkf: "/supersociology/solutions"
-linkftext: "Supersociology Solutions"
 author: Juan
 icon: /icons/sp.png
 draft: true

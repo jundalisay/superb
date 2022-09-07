@@ -5,10 +5,6 @@ date: 2020-12-06
 image: /photos/econ/writer.jpg
 # date: 2020-12-10
 description: "Everything in existence is an idea of the Creator of that existence"
-linkb: /superphysics/principles/chapter-07b
-linkbtext: Consciousness
-linkf: /superphysics/principles/chapter-07d
-linkftext: "Feeling"
 author: Juan
 icon: /icons/sp.png
 draft: true

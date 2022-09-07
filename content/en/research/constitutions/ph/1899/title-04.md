@@ -1,15 +1,11 @@
 ---
 title: National And Individual Rights
-heading: Title 4 of the Malolos Constitution Simplified
+heading: Title 4
 date: 2022-01-30
 # date: 1899-01-19
 description: "All persons born in the Philippine territory. A vessel of Philippine registry is considered, for this purpose, as part of Philippine territory."
 image: "/graphics/1899.jpg"
-linkb: "/research/constitutions/ph/1899/title-01"
-linkbtext: "Title 01"
-linkf: "/research/constitutions/ph/1899/title-04b"
-linkftext: "Title 4b"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

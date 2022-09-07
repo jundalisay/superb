@@ -1,15 +1,11 @@
 ---
 title: The Legislative Department
-heading: "Article 6 of The 1935 Constitution Simplified"
-date: 2022-01-31
+heading: "Article 6"
+date: 2022-01-30
 # date: 1899-01-19
 description: "The Congress shall have Legislative power. It will consist of a Senate and a House of Representatives"
 image: "/graphics/1935.jpg"
-linkb: "/research/constitutions/ph/1935/article-01"
-linkbtext: "article-01"
-linkf: "/research/constitutions/ph/1935/article-07"
-linkftext: "article-07"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 Section 1

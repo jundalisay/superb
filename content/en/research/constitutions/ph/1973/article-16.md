@@ -1,34 +1,34 @@
 ---
 title: AMENDMENTS
-date: 2022-01-31
+date: 2022-01-12
 heading: Article 16 of the 1973 Constitution Simplified
 # date: 1899-01-19
 description: "The Legislative power shall be vested in a Batasang Pambansa."
 image: "/graphics/1973.jpg"
-linkb: "/research/constitutions/ph/1973/article-15"
-linkbtext: "article-15"
-linkf: "/research/constitutions/ph/1973/"
-linkftext: "Index"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 
 Section 1. 
 
-(1) Any amendment to, or revision of. this Constitution may be proposed by the Batasang Pambansa upon a vote of three-fourths of all its Members, or by a constitutional convention.
+1. Any amendment to, or revision of this Constitution may be proposed:
+- by the Batasang Pambansa upon a 3/4 vote of all its Members, or 
+- by a constitutional convention.
 
-(2) The Batasang Pambansa may, by a vote of two-thirds of all its Members, call a constitutional convention or, by a majority vote of all its Members, submit the question of calling such a convention to the electorate in an election.
+(2) The Batasang Pambansa may, by a vote of 2/3 of all its Members, call a constitutional convention or, by a majority vote of all its Members, submit the question of calling such a convention to the electorate in an election.
 
-SEC. 2. Any amendment to, or revision of, this Constitution shall be valid when ratified by a majority of the votes cast in a plebiscite which shall be held not later than three months after the approval of such amendment or revision.
+SEC. 2. Any amendment to, or revision of, this Constitution shall be valid when ratified by a majority of the votes cast in a plebiscite which shall be held not later than 3 months after the approval of such amendment or revision.
 
 
-## Article 17
+## Article 17: TRANSITORY PROVISIONS
 
-TRANSITORY PROVISIONS
+Section 1. An interim National Assembly shall exist immediately upon the ratification of this Constitution. 
 
-Section 1. There shall be an interim National Assembly which shall exist immediately upon the ratification of this Constitution and shall continue until the Members of the regular National Assembly shall have been elected and shall have assumed office following an election called for the purpose by the interim National Assembly. Except as otherwise provided in this Constitution, the interim National Assembly shall have the same powers and its Members shall have the same functions, responsibilities, rights and privileges, and disqualifications as the regular. National Assembly and the Members thereof.
+It shall continue until the Members of the regular National Assembly shall have been elected and shall have assumed office following an election called for the purpose by the interim National Assembly. 
 
-SEC. 2. The Members of the interim National Assembly shall be the incumbent President and Vice-President of the Philippines, those who served as President of the nineteen hundred and seventy-one Constitutional Convention, those Members of the Senate and the House of Representatives who shall express in writing to the Commission on Elections within thirty days after the ratification of this Constitution their option to serve therein, and those Delegates to the nineteen hundred and seventy-one Constitutional Convention who have opted to serve therein by voting affirmatively for this Article. They may take their oath of office before any officer authorized to administer oath and qualify thereto, after the ratification of this Constitution.
+Except as otherwise provided in this Constitution, the interim National Assembly shall have the same powers and its Members shall have the same functions, responsibilities, rights and privileges, and disqualifications as the regular. National Assembly and the Members thereof.
+
+SEC. 2. The Members of the interim National Assembly shall be the incumbent President and Vice-President of the Philippines, those who served as President of the 1971 Constitutional Convention, those Members of the Senate and the House of Representatives who shall express in writing to the Commission on Elections within thirty days after the ratification of this Constitution their option to serve therein, and those Delegates to the nineteen hundred and seventy-one Constitutional Convention who have opted to serve therein by voting affirmatively for this Article. They may take their oath of office before any officer authorized to administer oath and qualify thereto, after the ratification of this Constitution.
 
 SEC. 3. (1) The incumbent President of the Philippines shall initially convene the interim National Assembly and shall preside over its sessions until the interim Speaker shall have been elected. He shall continue to exercise his powers and prerogatives under the nineteen hundred and thirty-five Constitution and the powers vested in the President and the Prime Minister under this Constitution until he calls upon the interim National Assembly to elect the interim President and the interim Prime Minister, who shall then exercise their respective powers vested by this Constitution.
 
@@ -67,7 +67,7 @@ SEC. 16. This Constitution shall take effect immediately upon its ratification b
 
 The foregoing Constitution was approved by the Filipino people in a referendum held between January 10, 1973 and January 15, 1973, the result of which was announced under Proclamation Numbered One Thousand One Hundred Two, dated January 17, 1973, by His Excellency, President Ferdinand E. Marcos. By virtue whereof, the Constitution came into full force and effect as of noon of January 17, 1973 In addition to the 1976 amendments reproduced in the following pages, the Filipino people in two plebiscites respectively held on January 30, 1980 and April 7, 1981 approved the amendments herein incorporated, the results being announced in Proclamation No. 1959 and Proclamation No. 2077.
 
-1976 AMENDMENTS
+## 1976 AMENDMENTS
 
 1. There shall be, in lieu of the interim National Assembly, an interim Batasang Pambansa. Members of the interim Batasang Pambansa which shall not be more than 120, unless otherwise provided by law, shall include the incumbent President of the Philippines, representatives elected from the different regions of the nation, those who shall not be less than eighteen years of age elected by their respective sectors, and those chosen by the incumbent President from the Members of the Cabinet. Regional representatives shall be apportioned among the regions in accordance with the number of their respective inhabitants and on the basis of a uniform and progressive ratio, while the sector shall be determined by law. The number of representatives from each region or sector and the manner of their election shall be prescribed and regulated by law.
 

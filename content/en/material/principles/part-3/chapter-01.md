@@ -4,10 +4,6 @@ heading: Electromagnetism in Physics, Spreading through space
 date: 2020-01-29
 image: /photos/physics/light.jpg
 description: "The radiant layer of Superphysics is equivalent to the electromagentic field in Physics"
-linkb: /material/principles/part-2/chapter-03
-linkbtext: Gravitational Relativity
-linkf: /material/principles/part-3/chapter-02
-linkftext: Qoe
 author: Juan
 icon: /icons/spmat.png
 aliases: 

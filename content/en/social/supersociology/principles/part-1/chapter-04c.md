@@ -5,11 +5,7 @@ title: "'God and Morality"
 date: 2020-11-30
 # 2020-01-04
 image: /photos/psych/freedom.jpg
-description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions
-linkb: /superphysics/principles/chapter-07
-linkbtext: "Chapter 7"
-linkf: /superphysics/principles/chapter-08b
-linkftext: "Chapter 8b"
+description: Omnitheism is the knowledge of how different types of people view the Creator of Existence. Its goal is to bring harmony to the different religions"
 author: Juan
 icon: /icons/sp.png
 aliases:

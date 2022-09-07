@@ -1,15 +1,11 @@
 ---
 title: National Territory
 date: 2022-01-31
-heading: Article 1 of the 1973 Constitution Simplified
+heading: Article 1
 # date: 1899-01-19
 description: "The national territory comprises the Philippine archipelago, with all the islands and waters embraced therein"
 image: "/graphics/1973.jpg"
-linkb: "/research/constitutions/ph/1973/"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1973/article-04"
-linkftext: "article-04"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 <!-- PREAMBLE

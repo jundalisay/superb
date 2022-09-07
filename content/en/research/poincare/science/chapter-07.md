@@ -146,8 +146,7 @@ hard work to make their universe perfectly symmetrical,
 this symmetry would not subsist, although there is no
 apparent reason why it should be disturbed in one direction more than in another. 
 
-They would extract this
-from the situation no doubt—they would invent something which would not be more extraordinary than the
+They would extract this from the situation no doubt—they would invent something which would not be more extraordinary than the
 glass spheres of Ptolemy, and would thus go on accumulating complications until the long-expected Copernicus
 would sweep them all away with a single blow, saying it
 is much more simple to admit that the earth turns round.
@@ -159,22 +158,18 @@ to suppose that the earth turns round, because the laws
 of mechanics are thus expressed in much more simple
 language.” 
 
-That does not prevent absolute space—that
-is to say, the point to which we must refer the earth to
-know if it really does turn round—from having no ob-
-jective existence. And hence this affirmation: “the earth
-turns round,” has no meaning, since it cannot be veri-
+That does not prevent absolute space. The point to which we must refer the earth to
+know if it really does turn round—from having no objective existence. 
+
+And hence this affirmation: “the earth turns round,” has no meaning, since it cannot be veri-
 fied by experiment; since such an experiment not only
-cannot be realised or even dreamed of by the most dar-
-ing Jules Verne, but cannot even be conceived of without
+cannot be realised or even dreamed of by the most daring Jules Verne, but cannot even be conceived of without
 contradiction; or, in other words, these two propositions,
 “the earth turns round,” and, “it is more convenient to
 suppose that the earth turns round,” have one and the
 same meaning. There is nothing more in one than in the
 other. Perhaps they will not be content with this, and
-may find it surprising that among all the hypotheses,
-or rather all the conventions, that can be made on this subject there is one which is more convenient than the
-rest? 
+may find it surprising that among all the hypotheses, or rather all the conventions, that can be made on this subject there is one which is more convenient than the rest? 
 
 But if we have admitted it without difficulty when it is a question of the laws of astronomy, why should we object when it is a question of the laws of mechanics? 
 
@@ -219,18 +214,17 @@ stant. For example, in virtue of the laws of Newton the
 duration of the revolution of the earth must be constant.
 But if it is 366 and something sidereal days, and not
 300 or 400, it is because of some initial chance or other.
-It is an accidental constant. If, on the other hand, the ex-science and hypothesis
-134
-ponent of the distance which figures in the expression of
-the attractive force is equal to −2 and not to −3, it is not
-by chance, but because it is required by Newton’s law.
-It is an essential constant. I do not know if this manner
-of giving to chance its share is legitimate in itself, and if
-there is not some artificiality about this distinction; but
-it is certain at least that in proportion as Nature has se-
+
+It is an accidental constant. If, on the other hand, the exponent of the distance which figures in the expression of
+the attractive force is equal to −2 and not to −3, it is not by chance, but because it is required by Newton’s law.
+It is an essential constant. I do not know if this manner of giving to chance its share is legitimate in itself, and if
+there is not some artificiality about this distinction; 
+
+but it is certain at least that in proportion as Nature has se-
 crets, she will be strictly arbitrary and always uncertain
-in their application. As far as the area-constant is con-
-cerned, we are accustomed to look upon it as accidental.
+in their application. 
+
+As far as the area-constant is concerned, we are accustomed to look upon it as accidental.
 
 Is it certain that our imaginary astronomers would do the same? 
 

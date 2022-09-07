@@ -1,15 +1,11 @@
 ---
+heading: The mind of the universe
 title: "The Material Layer of Superphysics"
 date: 2020-01-27
 image: /photos/objects/engine.jpg
 # image: https://sorasystem.sirv.com/photos/egg.jpg
 description: "The material layer is the final layer in the journey of dynamic energy and entropy towards stasis"
 linkTitle: "Material Layer"
-linkb: /material/principles/radioactive
-linkbtext: radioactive layer
-linkf: /material/principles/material-relativity
-linkftext: "Material Relativity"
-heading: The mind of the universe
 author: Juan
 icon: /icons/spmat.png
 aliases:

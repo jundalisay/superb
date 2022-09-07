@@ -1,14 +1,10 @@
 ---
 title: Local Government
-heading: Article 10 of the 1987 Constitution Simplified
+heading: Article 10
 date: 2022-01-25
 description: ""
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1987"
-linkftext: "Index"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

@@ -6,10 +6,6 @@ heading: "Chapter 7b"
 date: 2020-12-08
 image: /photos/city.jpg
 description: "Consciousness is the perception of ideas and feelings"
-linkb: /superphysics/principles/chapter-07
-linkbtext: "Mind"
-linkf: /superphysics/principles/chapter-07c
-linkftext: "Operations of the Mind"
 author: Juan
 icon: /icons/sp.png
 aliases:

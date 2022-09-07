@@ -1,26 +1,29 @@
-Rôle of Hypothesis
+---
+title: The Rôle of Hypothesis
+heading: Chapter 9c
+date: 2022-01-12
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
 
-Every generalisation is a hypothesis. Hypothesis therefore plays a necessary rôle,
-which no one has ever contested. Only, it should al-
+
+Every generalisation is a hypothesis. Hypothesis therefore plays a necessary rôle, which no one has ever contested. Only, it should al-
 ways be as soon as possible submitted to verification.
-It goes without saying that, if it cannot stand this test,
-it must be abandoned without any hesitation. This is,
-indeed, what is generally done; but sometimes with a
-certain impatience. Ah well! this impatience is not justified. The physicist who has just given up one of his
-hypotheses should, on the contrary, rejoice, for he found
-an unexpected opportunity of discovery. His hypothesis had not been lightly adopted, It took into
-account all the known factors which seem capable of intervention in the phenomenon. If it is not verified,
-it is because there is something unexpected and extraordinary about it, because we are on the point of finding
-something unknown and new. Has the hypothesis thus rejected been sterile? Far from it. It may be even said
-that it has rendered more service than a true hypothesis.
-Not only has it been the occasion of a decisive experi-
-ment, but if this experiment had been made by chance,
-without the hypothesis, no conclusion could have been
-drawn; nothing extraordinary would have been seen;
-and only one fact the more would have been catalogued,
-without deducing from it the remotest consequence.
-Now, under what conditions is the use of hypothesis
-without danger? The proposal to submit all to experi-
+
+It goes without saying that, if it cannot stand this test, it must be abandoned without any hesitation. This is,
+indeed, what is generally done; but sometimes with a certain impatience. Ah well! this impatience is not justified. The physicist who has just given up one of his hypotheses should, on the contrary, rejoice, for he found
+an unexpected opportunity of discovery. 
+
+His hypothesis had not been lightly adopted, It took into account all the known factors which seem capable of intervention in the phenomenon. If it is not verified, it is because there is something unexpected and extraordinary about it, because we are on the point of finding
+something unknown and new. 
+
+Has the hypothesis thus rejected been sterile? Far from it. It may be even said that it has rendered more service than a true hypothesis.
+Not only has it been the occasion of a decisive experiment, but if this experiment had been made by chance,
+without the hypothesis, no conclusion could have been drawn; nothing extraordinary would have been seen;
+and only one fact the more would have been catalogued, without deducing from it the remotest consequence.
+Now, under what conditions is the use of hypothesis without danger? The proposal to submit all to experi-
 ment is not sufficient. Some hypotheses are dangerous,—
 first and foremost those which are tacit and unconscious.
 And since we make them without knowing them, we can-
@@ -191,9 +194,7 @@ should eventually obtain the properties of a rigorously
 monochromatic light. That would not be accurate. I
 assume that two rays emanate from the same source,
 that they are first polarised in planes at right angles,
-that they are then brought back again to the same planescience and hypothesis
-176
-of polarisation, and that we try to obtain interference. If
+that they are then brought back again to the same plane of polarisation, and that we try to obtain interference. If
 the light were rigorously monochromatic, there would be
 interference; but with our nearly monochromatic lights,
 there will be no interference, and that, however narrow

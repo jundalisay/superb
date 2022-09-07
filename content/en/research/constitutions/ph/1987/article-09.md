@@ -5,11 +5,7 @@ heading: Article 9
 date: 2022-01-26
 description: ""
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987/article-08"
-linkbtext: "article-08"
-linkf: "/research/constitutions/ph/1987/article-10"
-linkftext: "article-10"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 

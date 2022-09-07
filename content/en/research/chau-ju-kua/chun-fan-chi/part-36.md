@@ -1,13 +1,9 @@
-+++
-title= "Ivory -- Chau Ju Kua's Works Simplified"
-heading= "Part 36"
-image= "/covers/chun.jpg"
-description= "Siang-ya, or ivory, comes from several Arab countries and the two countries of Chonla India and South Vietnam"
-linkb= "/research/chau-ju-kua/chun-fan-chi/part-32"
-linkbtext= "Glass"
-linkf= "/research/chau-ju-kua/chun-fan-chi/part-41"
-linkftext= "Ambergris"
-+++
+---
+title: "Ivory, Rhinoceros Horns, Castoreum, Civet, Parrots"
+heading: "Part 36"
+image: "/covers/chun.jpg"
+description: "Siang-ya, or ivory, comes from several Arab countries and the two countries of Chonla India and South Vietnam"
+---
 
 
 ## 36. IVORY
@@ -31,7 +27,7 @@ The produce of Cambodia and Southern Vietnam are small tusks  of a reddish tint,
 The tips of tusks are made into scent holders. 
 
 
-weighing only from ten to
+<!-- weighing only from ten to
 people say that elephants are caught
 presume that the tame elephant
 is
@@ -39,7 +35,7 @@ is
 which can only be made into
 by decoys,
 used for this purpose.
-
+ -->
 <!-- Note.
 Besides the countries here mentioned, our author states elsewhere that ivory was procured 25
 from various countries in the Malay Peninsula, from Sumatra, Java, and Coromandel. The prin-
@@ -77,7 +73,7 @@ the south-west of the present Jambi town in Sumatra. Conf. supra, pp. 62, 67.I-f
  -->
 
 
-## 37. RHINOCEROS HORNS
+## 37. Rhinoceros Horns
 
 The si or rhinoceros resembles the domestic cattle with one horn. 
 
@@ -91,34 +87,10 @@ He rips up a man with his horn.
 
 Hunters shoot him with a stiff arrow from afar. 
 
-its
-Its food consists solely of
-man with
-stiff
-temper, this animal runs so quickly that
-his horn,
-(?g) arrow from a good distance,
-they remove the horn, which in this state
-10
-whereas,
-if
-bamboo and other
-none dare come near him, but
-is
-which
-after
-(^
-called a afresh horn»
--^),
-the animal has died a natural death the horn obtained from
-called a «dropped-in-the-hills horn.)
-bubbles; the horns which are
-('^J jjj
-;^). The horn bears marks
-more white than black are the
-it is
-like
-best.
+- A fresh horn comes from a hunted rhinoceros. 
+- A dropped-in-the-hills horn comes from those which died from a natural death
+
+The horn bears marks  like bubbles. The horns which are more white than black are the best.
 
 
 <!-- Note.
@@ -227,7 +199,7 @@ but ,with the tongue only; for11,38
 CASTOKEUM, CIVET.
 234= -->
 
-## 38. CASTOREUM, CIVET
+## 38. Castoreum, Civet
 
 The wunatsi drug  comes from Kieliki of the Arabs. The civet's legs are as long as those of a dog. Its colour is either red or black. It moves as if it were flying. 
 
@@ -516,7 +488,7 @@ close to this city is formed by the two branches 'Left River' and 'Right River' 
 Hirth, China Review, III, 47—48. -->
 
 
-## 40. PARROTS
+## 40. Parrots
 
 Yingwu are procured in South Vietnam where they are found of all colours.
 

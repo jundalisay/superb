@@ -1,13 +1,9 @@
 ---
 title: "Civil Rights"
-heading: "Chapter 2 of the Japanese Constitution Simplified"
-date: 2021-11-20
+heading: "Chapter 2"
+date: 2021-11-28
 image: "/flags/jp.png"
 description: ""
-linkb: /research/constitutions/jp/chapter-1
-linkbtext: "Chapter 1"
-linkf: /research/constitutions/jp/chapter-4
-linkftext: "Chapter 4"
 icon: "/flags/jp.png"
 ---
 

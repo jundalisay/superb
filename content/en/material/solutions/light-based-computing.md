@@ -1,22 +1,16 @@
-+++
-heading   = "Using the advantages of light for computing"
-title       = "Light-based Computing"
-description = "Sequential Light based Computing is one of the technologies that can be developed from Material Superphysics. It aims to complement non-linear quantum computing"
-date        = "2020-01-01"
-author      = "Juan"
-linkTitle   = "Light Based Computing"
-banner      = "/photos/physics/elec.jpg"
-categories  = ["Material Superphysics"]
-linkb = "/material/electrons-are-positive"
-linkbtext = "electrons-are-positive"
-linkf = "/material/solutions/10-problems"
-linkftext = "10 Problems in Physics"
-icon = "/icons/spmat.png"
-aliases = [
-  "/articles/material/light-based-computing",
-  "/material/light-based-computing/"
-]
-+++
+---
+heading: "Using the advantages of light for computing"
+title: "Light-based Computing"
+description: "Sequential Light based Computing is one of the technologies that can be developed from Material Superphysics. It aims to complement non-linear quantum computing"
+date: "2020-01-01"
+author: "Juan"
+linkTitle: "Light Based Computing"
+icon: "/icons/spmat.png"
+aliases: 
+  /articles/material/light-based-computing
+  /material/light-based-computing/
+---
+
 
 
 Light, as analog waves, carry more data as "R-O-Y-G-B-I-V" than electrons that can only carry digital binary data as "ON-OFF" at a time. This analog light data can then [be absorbed by glass or semiconductor crystals](https://www.networkworld.com/article/3338081/light-based-computers-to-be-5000-times-faster.html) to be processed by normal computer logic. 

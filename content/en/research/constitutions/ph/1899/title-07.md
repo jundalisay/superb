@@ -1,16 +1,11 @@
 ---
 title: The Executive Power
-heading: Title 7-8 of the Malolos Constitution Simplified
-date: 2022-01-28
+heading: Title 7-8
+date: 2022-01-20
 # date: 1899-01-19
 description: "The Executive Power according to the Malolos Constitution"
 image: "/graphics/1899.jpg"
-linkb: "/research/constitutions/ph/1899/title-05"
-linkbtext: "title 5"
-linkf: "/research/constitutions/ph/1899/title-09"
-linkftext: "title-09"
-icon: /favicon.png
-icontext: Maharlikanism icon
+icon: /flags/ph.png
 ---
 
 

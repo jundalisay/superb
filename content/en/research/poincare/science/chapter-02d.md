@@ -1,4 +1,13 @@
-##  The Physical Continuum of several Dimensions
+---
+title: The Physical Continuum of several Dimensions
+date: 2022-02-16
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
+
+
 
 We have discussed above the physical continuum as it is derived from the immediate evidence of our senses—or, if the reader prefers, from the rough results of Fechner’s experiments; I have shown that these results are summed up in the contradictory formulæ
 

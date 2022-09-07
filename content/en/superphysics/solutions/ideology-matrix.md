@@ -4,10 +4,6 @@ date: 2019-02-21
 image: /photos/physics/light.jpg
 keywords: ["Marxism", "Social Cycles", "David Hume", "Socrates", "Varnas"]
 description: "Supersociology classifies all beliefs and ideologies into a matrix that can help policymakers and the general public compare them with each other"
-linkb: /superphysics/socratic-dialectics
-linkbtext: "Socratic-dialectics"
-linkf: /superphysics/ai-is-autonomous
-linkftext: "What's automated intelligence?"
 heading: A Tool to Classify Human Ideologies
 author: Juan
 icon: /icons/sp.png

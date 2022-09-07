@@ -1,20 +1,15 @@
 ---
-title: ACCOUNTABILITY OF PUBLIC OFFICERS
-date: 2022-01-31
-heading: Article 13 of the 1973 Constitution Simplified
+title: Accountability Of Public Officers
+date: 2022-01-20
+heading: Article 13
 # date: 1899-01-19
 description: "The Legislative power shall be vested in a Batasang Pambansa."
 image: "/graphics/1973.jpg"
-linkb: "/research/constitutions/ph/1973/article-11"
-linkbtext: "article-11"
-linkf: "/research/constitutions/ph/1973/article-15"
-linkftext: "article-15"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 
-Article 13: ACCOUNTABILITY OF PUBLIC OFFICERS
-
+## Article 13: Accountability Of Public Officers
 
 Section 1. Public office is a public trust. Public officers and employees shall serve with the highest degree of responsibility, integrity, loyalty, and efficiency, and shall remain accountable to the people.
 

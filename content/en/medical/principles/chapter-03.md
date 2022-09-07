@@ -10,10 +10,6 @@ image: "/photos/balancerock.jpg"
 author: "Juan"
 # categories: ["Medical Superphysics"]
 tags: ["Western Medicine", "Chinese Medicine", "Ayurveda", "Naturopathy", "Homeopathy"]
-linkb: "/medical/physical/principles/viruses-are-ideas"
-linkbtext: "viruses-are-ideas"
-linkf: "/medical/mental/principles/idea-of-self"
-linkftext: "3 billion yous"
 icon: "/icons/spmed.png"
 aliases:
   /medical/diseases-have-been-cured

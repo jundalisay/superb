@@ -3,10 +3,6 @@ title: "10 Solutions to the Biggest Problems in Physics"
 date: 2022-05-12
 image: /graphics/physics/box.jpg
 description: "We use Superphysics to solve the biggest problems in Physics "
-linkb: /material/solutions/light-based-computing
-linkbtext: "light-based-computing"
-linkf: /material/
-linkftext: "Index"
 author: Juan
 icon: /icons/spmat.png
 ---

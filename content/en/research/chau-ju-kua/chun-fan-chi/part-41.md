@@ -1,16 +1,13 @@
-+++
-title= "Ambergris -- Chau Ju Kua's Works Simplified"
-heading= "Part 41"
-image= "/covers/chun.jpg"
-description= "Fresh ambergris is white. It turns red when slightly stale, and black when it is old. It is not fragrant nor bad-smelling. It is like pumice-stone but lighter"
-linkb= "/research/chau-ju-kua/chun-fan-chi/part-36"
-linkbtext= "Ivory"
-linkf= "/research/chau-ju-kua/chun-fan-chi"
-linkftext= "Index"
-+++
+---
+title: "Ambergris, Tortoise-shell"
+heading: "Part 41-43"
+image: "/covers/chun.jpg"
+description: "Fresh ambergris is white. It turns red when slightly stale, and black when it is old. It is not fragrant nor bad-smelling. It is like pumice-stone but lighter"
+---
 
 
-## 41 AMBERGRIS
+
+## 41: Ambergris
 
 In the Arabian Sea, there are many dragons. When a dragon sleeps, his spittle floats on the water, collects and hardens. 
 
@@ -176,39 +173,21 @@ connection
 40 exhaled cloud-borne bnUdings. See Pei-wbn-yun-fu, -->
 
 
-## 42. TORTOISE-SHELL
+## 42. Tortoise-shell
 
 The tai-mei resembles kui-yuan. Its back is covered with 13 plates regularly marked with black and white spots and their edges with four jagged like a saw.
 
-It has four fins instead of feet
-without
-which
-feet, in lieu of
-it is
-provided
-5
-the front fins being longer than the hind ones, serving as
-fins,
-when moving about
-paddles
-It is
-lines,
-in the water.
-These
-fins,
-as well as the head, are
-marked like the plates. The plates of old animals are thick and show the
-black and white parts of the pattern quite
-clearlj-,
-whereas young specimens
-have thinner plates with an indistinct pattern. There
-is
-no foundation for the
-10
-story that these patterns are produced by the animals being lashed to fury so
-They are caught on moon-light nights during the
-as to stir up the blood.
-autumn. Their flesh is edible.
+It has four fins instead of feet. Its front fins are longer than the hind ones, serving as paddles for moving in the water.
+
+These fins, as well as the head, are marked like the plates. 
+
+The plates of old animals are thick and show the black and white parts of the pattern quite clearly.
+
+Young specimens have thinner plates with an indistinct pattern. 
+
+<!-- There is no foundation for the story that these patterns are produced by the animals being lashed to fury so as to stir up the blood. -->
+
+They are caught on moon-light nights during the autumn. Their flesh is edible.
 
 They come from:
 - Brunei
@@ -279,10 +258,9 @@ and Marcel Devic,
 
 
 
-## 43. BEES-WAX
+## 43. Bees-wax
 
-Huang-la or yellow wax comes from Visayas, Maharlika, Chonla India, Sumatra, and such
-depths of hills like countries.
+Huang-la or yellow wax comes from Visayas, Maharlika, Chonla India, Sumatra, and such depths of hills like countries.
 
 The habitat of the bee that produces it is in the deep hills and the remotest valleys of the interior where it builds nests
 - in old trees

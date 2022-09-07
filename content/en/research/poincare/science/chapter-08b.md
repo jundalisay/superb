@@ -1,26 +1,32 @@
-Thermo-dynamics
+---
+title: Thermo-dynamics
+heading: Chapter 8b
+date: 2022-01-18
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
 
-The rôle of the two fundamental
-principles of thermo-dynamics becomes daily more im-
-portant in all branches of natural philosophy. Abandon-
-ing the ambitious theories of forty years ago, encumbered
-as they were with molecular hypotheses, we now try to
-rest on thermo-dynamics alone the entire edifice of math-
-ematical physics. Will the two principles of Mayer and
-of Clausius assure to it foundations solid enough to last
-for some time? We all feel it, but whence does our con-
-fidence arise? An eminent physicist said to me one day,energy and thermo-dynamics.
 
-àpropos of the law of errors:—every one stoutly believes
+The rôle of the two fundamental principles of thermo-dynamics becomes daily more important in all branches of natural philosophy. Abandon-
+ing the ambitious theories of forty years ago, encumbered as they were with molecular hypotheses, we now try to
+rest on thermo-dynamics alone the entire edifice of mathematical physics. Will the two principles of Mayer and
+of Clausius assure to it foundations solid enough to last for some time? We all feel it, but whence does our confidence arise? 
+
+An eminent physicist said to me one day, àpropos of the law of errors:—every one stoutly believes
 it, because mathematicians imagine that it is an effect
 of observation, and observers imagine that it is a math-
 ematical theorem. And this was for a long time the case
 with the principle of the conservation of energy. It is no
 longer the same now. There is no one who does not know
-that it is an experimental fact. But then who gives us the
-right of attributing to the principle itself more generality
+that it is an experimental fact. 
+
+But then who gives us the right of attributing to the principle itself more generality
 and more precision than to the experiments which have
-served to demonstrate it? This is asking, if it is legiti-
+served to demonstrate it? 
+
+This is asking, if it is legiti-
 mate to generalise, as we do every day, empiric data, and
 I shall not be so foolhardy as to discuss this question,
 after so many philosophers have vainly tried to solve it.
@@ -109,19 +115,14 @@ all our integrals is that which should retain the name of
 energy. Besides, it is not in this sense that Mayer’s prin-
 ciple is understood when it is applied to a limited system.
 We admit, then, that p of our n parameters vary inde-
-pendently so that we have only n − p relations, generallyenergy and thermo-dynamics.
-
-linear, between our n parameters and their derivatives.
-Suppose, for the sake of simplicity, that the sum of the
-work done by the external forces is zero, as well as that
+pendently so that we have only n − p relations, generally linear, between our n parameters and their derivatives.
+Suppose, for the sake of simplicity, that the sum of the work done by the external forces is zero, as well as that
 of all the quantities of heat given off from the interior:
-what will then be the meaning of our principle? There is
-a combination of these n − p relations, of which the first
-member is an exact differential ; and then this differential
-vanishing in virtue of our n − p relations, its integral is a
-constant, and it is this integral which we call energy. But
-how can it be that there are several parameters whose
-variations are independent? That can only take place in
+what will then be the meaning of our principle? 
+
+There is a combination of these n − p relations, of which the first member is an exact differential ; and then this differential
+vanishing in virtue of our n − p relations, its integral is a constant, and it is this integral which we call energy. But
+how can it be that there are several parameters whose variations are independent? That can only take place in
 the case of external forces (although we have supposed,
 for the sake of simplicity, that the algebraical sum of all
 the work done by these forces has vanished). If, in fact,

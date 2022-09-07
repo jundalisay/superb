@@ -1,16 +1,13 @@
 ---
 title: The Republic
-heading: Title 1 of the Malolos Constitution Simplified
+heading: Title 1
 date: 2022-01-31
 # date: 1899-01-19
 description: ""
 image: "/graphics/1899.jpg"
-linkb: "/research/constitutions/ph/1899"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1899/title-04"
-linkftext: "title 4"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
+
 
 The President of the Council, Apolinario Mabini
 

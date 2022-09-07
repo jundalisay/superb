@@ -1,7 +1,7 @@
 ---
 title: The Family
-heading: Article 15 of the 1987 Constitution Simplified
-date: 2022-01-31
+heading: Article 15
+date: 2022-01-16
 description: "The State recognizes the Filipino family as the foundation of the nation. Accordingly, it shall strengthen its solidarity and actively promote its total development"
 image: "/graphics/1987.jpg"
 icon: /icons/sun.png

@@ -1,13 +1,9 @@
-+++
-title= "Opaque Glass"
-heading= "Part 32"
-image= "/covers/chun.jpg"
-description= ""
-linkb= "/research/chau-ju-kua/chun-fan-chi"
-linkbtext= "Index"
-linkf= "/research/chau-ju-kua/chun-fan-chi"
-linkftext= "Index"
-+++
+---
+title: "Opaque Glass, Pearls"
+heading: "Part 32-35"
+image: "/covers/chun.jpg"
+description: ""
+---
 
 
 Liuli comes from several Arab countries. 
@@ -314,21 +310,19 @@ the only of glass in 40
 -->
 
 
-## 33. CAT'S-EYES
+## 33. Cat's-eyes
 
-Mauirtsing are of the size of the end of the thumb, that they are but small stones. They are brilliant, smooth, and transparent like the eyes of cat,
-for 
-which reason they are called «cat's-eyes». 
+"Mauirtsing" are small stones, of the size of the end of the thumb.  They are brilliant, smooth, and transparent like the eyes of cat,
+<!--  for 
+which reason they are called «cat's-eyes».  -->
 
 They come from Western India which has a river Tanshuikiang where several streams unite into one. 
 
 There, in the depths of the hills, pebbles are washed down by the heavy rains collect there.
 
-
 The officials go there in small boats and dredge them out of the water. Round and brilliant specimens are called cat's-eyes. 
 
-Some people say that they are the reflection of stars shining on the surface of the earth and hardened there by magic
-influence.
+Some people say that they are the reflection of stars shining on the surface of the earth and hardened there by magic influence.
 
 <!-- Note.
 one of the jewels of which the Singhalese are especially proud, from a
@@ -369,83 +363,33 @@ any other stones. -->
 
 ## 34. PEARLS
 
-The chonchu or real pearls that come from Arabian islands are the best. They also come from the two countries of Sinan
-and Kien-pi. 
+The chonchu or real pearls that come from Arabian islands are the best. 
+
+They also come from the two countries of Sinan and Kien-pi. 
 
 Pearls are even found in Kuang-si and Hu-pei, but less brilliant than those of the Arabs and Kien-pi. 
 
-30-40 boats are used to fish pearls, with each both with seveeral dozens of men in each boat. 
+30-40 boats are used to fish pearls, with each both with several dozens of men in each boat. 
 
-30 their bodies, their ears
-the water about
-200
-When a man makes
-is
-or
-fit
-with ropes fastened around
-and noses stopped with yellow wax, are
-300
-let
-feet or more, the ropes being fastened
-a sign by shaking the rope, he
-is
-order to throw over the diver
-with a
-use ofthirty or forty boats, with
-(to each). Pearl-fishers,
-done, however, a soft quilt
-35 seized
-make
-is
-They may
-fall
-on board.
-pulled up. Before this
-made as hot as possible in
-the moment he comes out,
-of ague and die.
-down into
-boiling water, in
-lest
-in with
-he should be
-huge
-fishes,
-stomachs ripped open or a
-dragons, and other sea monsters and have their
-When the people on board
-limb broken by collision with their dorsal fins".
-on the surface of the water, this is a
-notice even as much as a drop of blood230
-11,34
-PEAKLS.
-sign to them that the diver has been swallowed by a
-which the pearl-fisher makes a
-on board
-Cases occur in
-and the man holding
-signal with his rope
-not able to pull him up; then the whole crew pull with
-is
-him up with
-strength, and bring
-What
-fish.
-who keep
-foreign officials,
-their
-his feet bitten off by a monster.
-the pearl-fishers call «pearl's-mother»
-trol of the
-all
-it
-(^ ^)Ms under the con-
-5
-a register in which the finds of shells
+Pearl-fishers:
+- tie ropes around their bodies
+- have their noses and ears plugged with yellow wax
+- descend 200-300 feet or more
+- are pulled up by shaking the rope
+
+The moment he comes out, a soft quilt made as hot as possible in boiling water and thrown at him to prevent him from getting a fit of ague and dying.
+
+The divers can be hurt by huge fishes, dragons, and other sea monsters and have their stomachs ripped open or their limbs broken by collision with their dorsal fins.
+
+When the people on the ship notice even as much as a drop of blood on the surface of the water, this is a sign that the diver has been swallowed by a fish. 
+
+There have been cases where the pearl-fisher has been brought up with his feet bitten off by a monster. 
+
+The pearl's-mother is controlled by foreign officials. 
+
+<!-- a register in which the finds of shells
 are entered under the names of the fishermen, in the order in which they
 occur.
-The
 are then placed in a pit. After rather more than a
 shells
 when the
@@ -453,28 +397,11 @@ the shell will be found to have decayed,
 pearls
 month
 may be removed,
-lo
-cleaned, and divided between (the government and) the pearl-fishers.
-As a general
-the test for
-rule a pearl
-is
-considered valuable
-absolute roundness
-its
-day when put on a
-is,
-that
-it will
-if it is
-perfectly round;
-not cease rolling about
-all
-Foreign traders (coming into China) are in the
-plate.
-habit of concealing pearls in the lining of their clothes and in the handles of
-their umbrellas, thus evading the duties leviable upon them.
-15
+cleaned, and divided between (the government and) the pearl-fishers. -->
+
+As a general rule, a pearl is valuable if it is perfectly round. The test for absolute roundness is for it to be put on a plate without it stopping from rolling. 
+
+Foreign traders entering China frequently conceal pearls in the lining of their clothes and in the handles of their umbrellas to evade the duties leviable on them.
 
 
 <!-- Notes.
@@ -574,50 +501,16 @@ at least at the present day. -->
 
 ## 35. Choku 
 
-The Choku comes from Kianchi. It looks like a large cockle shell. The people grind the shell. Due to its scolloped surface, the cups they make are called lotus-leaf cups
+The Choku comes from North Vietnam. It looks like a large cockle shell. The people on the coast grind the shell, creating "lotus-leaf cups" due to its scolloped surface. 
 
+Its surface is smooth and clean, like that of a cowrie shell. 
 
-Its surface
-of the coast grind the shell and,
+The lower part of the calyx of the largest specimens is turned into cups of up to 3 inches in thickness. The remnants and chips can be used for making rings, trinkets, and other trifles.
 
+According to the Buddhist books this substance was a very valuable jewel. 
 
-smooth and
-is
-The lower part of the calyx
+Nowadays it is only an ordinary sea delicacy. We do not know if it is identical to the ancient Choku.
 
-clean, like that of a cowrie shell
-of the largest specimens is
-worked
-making
-and other
-rings, trinkets
-
-into cups of
-up to three inches in thickness, and the remnants and chips are
-for
-owing to
-still
-useful
-trifles.
-According to the Buddhist books this substance was considered as a very
-
-valuable jewel; nowadays
-sea delicacy ('/^
-with the ancient
-it (i. e.,
-^). We
-what
-know
-do not
-c¥6-¥u)
-is called
-for certain
-is
-only an ordinary
-whether
-it is
-identical
-ch'S-lc^u.
 
 <!-- Note.
 Ku-kin-chu (fourth century, A. D.) says (5*)= «The Emperor Wu-ti of the Wei made

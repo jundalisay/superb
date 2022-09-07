@@ -4,10 +4,6 @@ heading: "The engines for Covid and influenza viruses"
 date: 2022-01-08
 image: /photos/physics/star.jpg
 description: "We explain the nature of Covid and influenza as waves coming from their respective stars"
-linkb: /medical/physical/solutions/how-to-stop-covid
-linkbtext: "How to stop Covid"
-linkf: /medical/physical/covid-variants
-linkftext: "Covid variants"
 author: Juan
 icon: /icons/spmed.png
 aliases:

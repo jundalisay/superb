@@ -1,5 +1,5 @@
 ---
-title: "Camphor"
+title: "Camphor, Frankincense, Myrrh, Sweet Benzoin"
 heading: "Part 1"
 date: 2021-10-31
 description: "When the Emperor Wu-ti (BC 140-86) 86) had made the conquest of Southern Yue, he sent a mission from Suwon across the sea to reconnoitre Hainan"
@@ -10,125 +10,40 @@ author: "Chau Ju Kua"
 
 ## 1. CAMPHOR
 
-Nau-tzi, or camphor, comes from Brunei, called according to some Fo-ni
+Nau-tzi, or camphor, comes from Brunei <!-- called according to some Fo-ni --> and Pin-su.
 
-it also comes from the country of Pin-su
-The common report that
+It is wrongly said to come from Palembang, Sumatra because that place is a hub for foreign trade. 
 
-fact is
-merely this
-roughfare for the
+The camphor-tree is like the pine-tree, growing in the remotest hills and valleys.
 
-also found in Palembang, Sumatra is
-owing
-that,
-traffic
-it is
-to this country being
-an error; the
-an important tho-
-of all foreign nations, the produce
-of all other
-countries is intercepted and kept in store there for the trade of foreign ships.
-The camphor-tree
-10 the hills
-is like
-and the remotest
-the pine-tree (;|0);
-valleys.
-unhurt, the tree will contain the
-it
-grows in the depths of
-So long as branches and trunk continue
-gum
-even for hundreds and thousands of
-years; otherwise it will evaporate.
-When
-the natives go into the hills in order to gather the camphor,
-they go in troops of several tens of men; they are provided with clothes made
-bark
-13 of tree
-They go
-they
-fell
-(or fibre)
-and with supplies of
-sJia-Jiu
+As long as the branches and trunk continue unhurt, the tree will contain the gum even for hundreds and thousands of years. 
 
-sago) for food.
-
-in different directions, and whenever they find any camphor-trees,
-them with
-many as ten or more; they
-them among themselves equally, after
-their hatchets, and
-then cut these into lengths and divide
-mark
-as
-which each one cuts his share into boards; these again they notch along the
-and cross-wise
-20 sides
-these
-is
-so as to produce chinks,
-got out by forcing a wedge into them ^
-The camphor which forms
-(il&
-25
-:^
-and the camphor collecting in
-|g), because
-it
-crystals is called
-resembles the plum
-«plum flower camphor»
-flower; an inferior quality is
-^
-called «gold foot camphor» {-^
-|^); broken bits are called «rice camphor»
-with splinters, it is called «grey camphor»
-jg^); when these are mixed up
-(^
-(^
-camphor has been removed from the wood, it is called
-Is); after all the
-((Camphor chips)> (JJ^ :J^[j). Nowadays people break these chips into small
-bits
-and mix them with sawdust, which mixture they place in a vessel of
-porcelain, covered
-30
-when baked
-by another
-vessel, the
-in hot ashes, the
-openings being hermetically closed;
-vapour formed by the mixture condenses and
-13194
-ir,l
-CAMPHOR.
-forms lumps, which are called «collected camphor»
-women's head ornaments and the
-oily sort of
-camphor
-pungent aroma;
-it
-called
-like purposes*.
-«camphor
-oil»
-(Jgg y^),
-JJ^);
-There is furthermore an
-which is of a strong and
-it is
-answers for moistening incense, or mixing with
-
-used for
-oil
+Otherwise, it will evaporate.
 
 
+The natives go in teams of several tens of men when they gather camphor from the hills. They are provided with clothes made of tree bark and and with supplies of sago for food.
 
-Notes.
+They go in different directions. Whenever they find any camphor-trees, they fell them with hatchets, as many as ten or more.
+
+They cut these lengthwise. Each one then cut these into boards. They notch these along the sides and cross-wise to produce chinks. A wedge is forced into them to colect the camphor. 
+
+The camphor which forms crystals is called plum flower camphor because it resembles the plum flower. 
+
+An inferior quality is called gold foot camphor. 
+
+Broken bits are called rice camphor. With splinters, it is called grey camphor.
+
+After all the camphor has been removed from the wood, it is called camphor chips. 
+
+
+Nowadays people break these chips into small bits and mix them with sawdust. They put it in a porcelain vessel, hermetically sealed by another
+vessel. When baked in hot ashes, the vapour formed by the mixture condenses and forms lumps called collected camphor.
+It is used for women's head ornaments.
+
+Camphor oil is an oily kind of camphor with a pungent aroma. It is used to moisten incense, or mixing with oil. 
+
+
+<!-- Notes.
 5
 Fo-ni and P'o-ni, both pronounced in Cantonese Fat-ni and Put-ni, transcribe respectively
 1)
@@ -283,135 +198,38 @@ It is rather a liquid and volatile resin, distilling from one
 species of the camphire tree, without any oleaginous quality».
 15
 Our author states (supra, p. 67) that camphor was also a product of Tan-ma-ling, of Java
-(p. 77), and of Ling-ya-ssi-kia (p. 68) Chou K'ii-fei adds Chu-lien. See supra, p, 100, n. 
-FRANKINCENSE
-Ju-Mang
-(^ #).
-(«milk incense))), or Mn-lu-hiang {"^
-20 the three Ta-shi countries of Ma-lo-pa, Shi-ho,
-P^
-^)S comes from
-(|j[j)
-and Nu-fa, from the depths of the
-remotest mountain Valleys. The tree which yields this drug may, on the whole,
-be compared to the sung (;^
-which the resin flows
-out,
-pine). Its
-coast);
-the Ta-shi load
-goods in San-fo-ts'i; and
-is
-notched with a hatchet, upon
-and when hardened, turns
-gathered and made into lumps. It
-25 (on the
-trunk
-it
-it
-is
-into incense,
-which
-is
-transported on elephants to the Ta-shi
-upon their ships
-is for this
-for barter against other
-reason that the incense
-is
-commonly
-collected at San-fo-ts'i*.
-When
-authorities,
-the foreign merchants come to that place to trade, the Customs
-according to the relative strength of
-30 thirteen classes of incense.
-or «picked incense»:
-^),
-it is
-commonly
-called ti-ju
-Of
-its
-fragrance, distinguish
-these, the very best is called
-it is
-Uen-Uang {1^
-round and of the size of the end of a finger;
-(^fL)
-or «dripping milk»^
-The second quaUty
-milk», and its colour is inferior to
-fi) or «potted
-fing-himg
-that of the «picked incense». The next quality is csMq^
-being prized so much
-or «potted incense», so called, they say, owing to its
-is
-called
-pHng-ju
-(^
-{^ ^)
-35
-at the time of gathering, that
-Uang
-and
-it is
-placed in pots {pHng
-^).
-In this pHng-
-superior, medium,
-(variety of frankincense) there are three grades,
-or «bag incenso);
-next quality is called tai-Mang
-inferior.
-The
-(^ ^)
-13*196
-11,2
-FEANKIKCENSE.
-thus called, they say, because at the time of gathering,
-bags;
-it is
-merely put into
-divided into three qualities, like the p'ing-Mang.
-it is also
-The next kind
-the ju-fa
-is
-(^
-'^);
-consists of incense
-it
-mixed
-with gravel.
-{^ :^), because its colour is black. The
-shui-sM-Jm-t'a (^ '^ ^ i^), because it consists of
-The next kind
-next land
-the
-is
-the
-is
-Jiei-t'a
-5
-aroma turned, and the colour
-incense which has been «water-damaged», the
-spoiled while on board ship.
-Mixed
-incense of various qualities and consisting of broken pieces
-(^
-called cho-siau
-when passed through a sieve and made
-ch'an-mo (|§
-«powder»). The above are the various
-^\\ «cut-up»);
-into dust, it is called
-is
-lo
-^
-varieties of frankincense.
-Notes.
+(p. 77), and of Ling-ya-ssi-kia (p. 68) Chou K'ii-fei adds Chu-lien. See supra, p, 100, n. -->
+
+
+## 2. FRANKINCENSE
+
+Ju-hiang (milk incense), or hun-lu-hiang comes from the from the depths of the remotest mountain Valleys of 3 Arab countries:
+- Ma-lo-pa
+- Shi-ho
+- Nu-fa, 
+
+The tree which yields this drug may be compared to the sung or pine tree. 
+
+Its trunk is notched with a hatchet, upon which the resin flows out. 
+
+It hardens into incense and gathered and made into lumps. It is transported on elephants towards the Arab coast and are bartered in Sumatra. This is why it is commonly collected in Sumatra.
+
+The Customs authorities in Sumatra classify it into 13, based on the strength of its fragrance. 
+
+1. Kien-hiang or picked incense is the very best kind. It is round and of the size of the end of a finger. It is commonly called ti-ju or dripping milk
+2. Ping-ju or potted milk is the second quality. Its colour is inferior to that of the picked incense. It is placed in pots. 
+3-5. The ping-hiang variety has 3 grades:
+  - superior
+  - medium
+  - inferior
+6-8. Tai-hiang or bag incense is put in bags and has 3 grades too
+9. The ju-ta kind is mixed with gravel
+10. Hei-ta is black. 
+11. Shu-shi hei-ta is water-damaged incense with its aroma turned, and colour spoiled while on board the ship.
+12. Cho-siau is mixed incense of various qualities and consisting of broken pieces. 
+13. Chan-mo powder is cho-siau passed through a sieve and made into dust.
+
+<!-- Notes.
 1)
 Ju-Mang
 China, was given
@@ -546,11 +364,13 @@ Also called ju-fou-hiang
 Bretschn eider,
 (^ |^ ^)
 Botanicon Sinicum,
-III, 460.
-3.
-MYRRH
+III, 460. -->
+
+
+## 3. MYRRH
+
 Mo-yau comes from
-10
+
 The
 ii^
 ^).
@@ -639,9 +459,9 @@ is
 made
 of
 called «imitation
-5
-;6g).
-Note.
+
+
+<!-- Note.
 In his description of Chung-li,
 author says (supra,
 from
@@ -727,43 +547,24 @@ s. v.,
 draco).
 furnished by the Pterocarpus draco.
 Bretschneider, 25
-See also Encyclop. Britann. VII, 389.
-5.
-SWEET BENZOIN
-Kin-yen-Mang comes,
-the Ta-shi kind
-in its best
-is of inferior quality.
-found in San-fo-ts'i must be understood
-(^
-M #)•
-and standard quality, from Chon-la;
-The statement that
-as
-meaning that
-it is
-this incense is 30
-imported thither
-from the Ta-shi and merely transshipped at that place by merchants for
-importation to China.
-This incense
-is
-the juice of a tree; there
-and another of a black
-snow-white colour,
-quality. Its
-aroma
-is
-other perfumes. It
-is
-colour.
-a pale yellow coloured kind,
-the best; that which contains gravel
-so strong that it
-is
-is
-That which, on being broken open, shows a
-may be
+See also Encyclop. Britann. VII, 389. -->
+
+
+## 5. SWEET BENZOIN
+
+The best kin-yen-hiang comes from Cambodia. 
+
+The Arab kind is of inferior quality.
+
+People think that this comes from Sumatra <!-- San-fo-ts'i --> when it is really imported from there from Arabia and then into China. 
+
+This incense is the juice of a tree. It has different kinds:
+- a black one
+- a pale yellow one
+- a snow-white one, on being broken open, which is the best
+- one with gravel, as the inferior kind
+
+Its aroma is so strong that it may be
 largely used for mixing
 is
 35
@@ -774,12 +575,10 @@ by those who wear sachets of
 ambergris and other perfumes of delicate aroma. Foreigners also prepare from
 it,
 with (other) perfumes, a mixture with which they rub their bodies.
-40''
-°
-'''
-DAMMAR.
-igg
-Note.
+40'
+
+
+<!-- Note.
 Ein.yen hiang or agolden coloured
 5
 From the
@@ -883,709 +682,4 @@ varieties of benzoin mentioned
 —
 j^
 J^), which
-in turn quotes textually our text.
-6.
-DAMMAR
-(:^
-^
-f:).
-Tu-nau-hiang comes from the country of Chon-la:
-it is
-the exudation of
-a tree -which resembles the pin? {i^) and juniper (|^) family in shape; but
-55 the gum (^) lies concealed in the bark. "When the tree is old, it runs out
-spontaneously, as a white and vitreous resin, for which reason
-melt, though the
-If,
-in the
-summer heat may be at its
-summer months, the trunk
-kept burning around
--40
-again;
-it
-may be
-variety of incense
-it is
-called
-«7^e^
-it,
-height; this
-of the tree
-liquid in the
-(or black) tu-naun.
-does not
-called tu-nau.
-scorched by a
-fire
-cause the fluid resin to flow out freely
-this will
-gathered during the winter, when
-is
-is
-is
-it
-it
-hardens; for this
-summer, and hardens during the winter;
-The natives
-fill
-gourds
-(^ pHau) with
-it,200
-11,6-7
-LIQUID STORAX.
-and the shippers afterwards
-The
-transfer it into porcelain vessels.
-ilavour of
-and lasting; the black variety easily melts and leaks
-this incense is pure
-through the gourd; but by breaking the gourd and exposing
-may obtain something similar to the original
-article now called tu-nau-'fiau or agourd dammar».
-one
-it
-substance.
-to the fire,
-This
-is
-the
-5
-Note.
-The Chinese word tu-nau
-transcribes the
-fifteenth century Ying-yai-
-Malay damar. In the
-0|). Crawfurd, Hist. Indian Archipelago, I,
-(:^
-455, says= «In almost every country of the Indian islands there are trees which afford damar.
-Bumphius enumerates four varieties. These produce different sorts of the rosin, which take 10
-sheng-Ian the form ta-ma-'ir occurs
-their
-names
-^^
-One
-in commercial language from their colour or consistency.
-Damar
-Damar-putch, or white rosin
-is
-used for
-all
-is
-called
-Damar-batu
-and another in common use
-the purposes to which we apply pitch,
-means the stony
-in Malay, or Bamar-selo in Javanese, which
-rosin,
-but chiefly in paying the bottoms of ships and vesselso.
-Marsden,
-dammar
-Hist, of Sumatra, 128, says that white
-Lampoon called cruyen, the wood
-dammar tattoo, in being soft and
-yielded by a tree growing in
-from the common sort, or
-somewhat the appearance of putty.» See
-also
-of which
-a species of turpentine, 15
-is
-is
-white and porous. It differs
-whitish, having the consistence, and
-Yule and Burnell,
-Glossary, 228.
-7.
-LIQUID STORAX (^
--^
-#
-20
-yft).
-Su-ho-Jiiang-yu comes from the countries of the Ta-shi. Its
-taste are,
-aroma and
-on the whole, similar to those of tu-nau (dammar). Richness and
-freedom from sediment are the
-Foreigners commonly use
-Fu-kien use
-it
-first requisites in
-it
-when
-in like fashion
-mixed with jum-Uang
-(^
-^
-a good sample.
-to rub their bodies with,
-and the natives of
-with paralysis (;^ ^)., It is 25
-or cdncenses of delicate aroma»), and may be
-afflicted
-used in medicine.
-Note.
-The present day su-ho-Uang-yu or «sweet oil of storax», or su-ho-yu nstorax oil», which
-occurs in commerce in China, is a product of the Liquidambar orientalis, L., of Asia Minor. The
-storax of the ancients, which became known to the Chinese in the early part of the Christian
-era as
-a product of Ta-ts'in, and the name of which OTupa?, they may have mutilated into su-ho, was
-a
-solid
-gum, and appears
-to
-have been a product of the Styrax
-officinalis,
-Syria. Sui-shu, 83,i6* mentions su^lio as a product of Po-ssi (Persia).
-which
-is still
-common
-in
-Apparently the storax sent to
-China in those early days was very largely adulterated, for Liang-shu, 54,i7», (covering
-the first half
-of the sixth century), says that in Western Asia (Ta-ts'in) astorax (su-ho) is
-made by mixing and
-boiling the juice of various fragrant trees
-and that it is not a natural product. It is further said that
-the inhabitants of Ta-ts'in gatherjhe su-Jio (plant, or parts of it), squeeze out its
-juice, and thus
-make a balm or ointment
-they then sell this drug to the traders of other 'countries;
-[^
-^);
-30'
-35-11,7-8
-it
-20
-BEXZOIN.
-many hands hefore reaching China, and when
-Hirth, China and Koman Orient, 41, 47, 263—266.
-thus goes through
-fragrant.)) See
-D.
-China
-is
-arriving here,
-it is
-not so very
-Hanbury, Science Papers, 143, has conclusively shown that the drug now used in
-imported into Bombay from Aden, the Persian Gulf and the Red Sea, being probably
-5 brought thither from Alexandria.
-He has
-by comparison
-also established
-its identity
-with the
-known as Liquid Storax, obtained from the Liquidambar orientalis, L., in Asia Minor.
-Bretschneider, Botanicon Sinicum, III, 465.
-The Hiang-p'u, a Treatise on perfumes of the eleventh century, makes the remark that su-
-ho-yu is akind oitu-nau-hiang or dammar. Bretschneider, op. cit., 464. The Su-ch'bn-liang-fang
-substance
-10
-{Wk
-VJnj ^J ~/j)i ^^®° "^ ^^^ eleventh century, says (Ijis')= «The su-ho-hiang of the present
-day is like hard wood, of a dark red colour. There is also su-ho-yu which is like birdlime.o This
-su-ho-hiang may well have been the classical or solid storax.
-Our author, in the first part of his work, mentions liquid storax as a product of Baghdad,
-Rum) and
-Asia Minor (Lu-mei,
-of Ki-tz'i-ni (Ghazni).
-The
-Huan-yii-chii
-(-^ ^^ ^^
-of the
-15 tenth century) says that su-ho-yu was produced in An-nan and San-fo-ts'i. Bretschneider,
-Bot. Sinic, III, 464. It
-called in
-is
-likely that this
-Malay rasamala.
-(HiH *^ ^^ '^)>
-See supra, p. 190, n.
-""'^ich,
-name
-altingiana, Bl. of Java,
-of su-ho-yu as twushlca
-according to Monier Williams, Sansk. Engl. Diet.,
-is
-Indian olibanum-
-1.
-The expression ta-fong
-20
-was the resin of the Liquidambar
-P6n-ts,'au, 34,54, gives the Sanskrit
-is
-actually used in the province of Fu-ki6n as a term for paralysis
-of either the body or limbs.
-8.
-BENZOIN (^
-J, #).
-San-fo-ts'i; it is the resin of
-An-si-Mang comes from the country of
-It resembles the edible part of a
-25 tree.
-not
-there
-bum as incense;
-to
-fit
-a demand for
-is
-however,
-it for
-it
-walnut in shape and
-colour,
-but
-a
-it is
-brings out other scents, for which reason
-mixing purposes.
-The T'ung-tien (jg ^), speaking
-of the
-Western Barbarians, says
-that the country of An-si has sent tribute to China during the periods fien-lio
-30 of the
-Chou (A. D. 566—572) and
-617). It
-may
-and that the
-ta-ye of the Sui dynasty (A. D.
-be conjectured that the name
-article
-was imported by way
-is
-605—
-derived from this (country)
-of San-fo-ts'i.
-Note.
-Our author's doubts about the country of origin of this incense and his failure to explain its
-Ancient Chinese and Arabs,
-35 name, are common to other Chinese writers. See Bretschneider,
-third centuries of our era,
-and
-second
-the
-in
-which,
-19, note 2. Bot. Sinic, III, 465—467. An-si,
-of the Arsacides, to
-overthrow
-after
-the
-transferred,
-was
-Parthia,
-was the Chinese designation of
-Orient, 198. During
-Roman
-China
-and
-Hirth,
-dynasty.
-Sassanide
-the
-of
-kingdom
-the new Persian
-therefore be held to be identical with
-the Ch6u and Sui dynasties (A. D. 557-618) An-si may
-which was the same as theKi-pin
-says that «the kingdom of Ts'au
-40 Persia. Sui-shu,
-(j^),
-83,i6
-countries
-dynasty, had (whether as a product or brought there from other
-(Hi
-aromatic
-sub-
-other
-and
-mu-hiang)
-our author's
-is not clear) an-si-hiang, ts'ing-mu (putchuck,
-Turkestan),
-in
-Chinese
-Kuchar
-K'iu-tz'i
-the section on
-W)
-stances.))
-°^ ^^^
-^^^
-The same work,
-in
-(^
-^202
-mentions an-si-hiang among
-83,ii'',
-China by way or
-K'iu-tz'i'. It is
-Yu-yang-tsa-tsu,
-is
-ISjV''
-is
-has no
-it
-When
-fruit.
-it
-only
-means that an-si-hiang reached
-«TLe an-si-hiang
-says:
-tree
-comes from Po-ssi
-or ((destroying evil tree»).
-yellowish black.
-In the second moon
-products. I fancy
-its
-evident none reached China in Chan's time.
-(Jg^ ^|^ j^
-The leaves have four angles
-called the pi-sie tree
-bark
-11,8-9
-GARDENIA ILOWERS.
-blossoms; the flower
-the bark of the tree
-an-si-hiang. In the sixth and seventh
-(^);
-(Persia).
-In Po-ssi
-it
-thirty feet high; the
-It is
-they do not shrivel up in winter. 5
-yellowish, the heart of the flower is greenish. It
-is
-is cut, its
-moons
-it
-gum
-(^) is like
-hardens,
-when
-syrup ('^p);
-it
-is
-called
-can be burned, propitiating
-it
-the gods and dispelling all evils.
-The
-as quoted in Tung-si-yang-k'au,
-I-t'ung-chi (of the Ming),
-which produces an-si-hiang
-is
-like the k'u-Uen
-the leaves are like those of the yang-t'au (:¥l
-supplies the incense
-is
-now An-nan,
-Persia, but
-Marsdon,
-(^
-^»^
-says that the tree 10
-1,11,
-Melia azedarach, L.)but straighter;
-Jd^ Carambola
-tree)
-but broader. The sap which
-in the heart of the tree. Pon-ts'au, 34,53*, says ((formerly
-San-fo-ts'i
-and
-foreign countries have
-all
-aBenjamin or benzoin (caminyan)
-Hist, of Sumatra, 123, says:
-it
-came from
-it.»
-.... is
-produced 15
-by a tree which grows in great abundance in the northern parts of the island (of Sumatra),
-particularly in the Batta country, and met with, though rarely, to the southward of the line.»
-remarks that «Borneo and Sumatra are the
-and the territory of Borneo proper in the one,
-and that of the Battas in the other, the only portions of them .... It has but one name, or at 20
-least only one which is current. This is a native term, and is at full length Kaminyan, or abbre-
-Crawfurd,
-Hist. Indian Archipelago,
-only countries which produce
-viated Minyani).
-i|j]
-^
-^S
-it
-(i.
-e.,
-The Pon-ts'au-kang-mu,
-Tcu-pei-lo,
-which seems
-I,
-518,
-benzoin),
-to
-34,52,
-gives
-as the
-name
-«foreign»
-of an-si-hiang
-be a corrupt transcription either of Sanskrit khadira
-or of kundura, catechu or Indian frankincense. See supra, p. 196, n.
-1.
-Linschoten (11,96— 98) distinguish two varieties 25
-of benzoin, one which does not smell except when in the fire, and the other with a strong scent.
-Barbosa adds that it is with this latter variety that othe good and genuine storaxis made in the
-Levant, before extracting from it the oil, which in the Levant is extracted from iti>. Linschoten
-BothDuarteBarbosa(op.
-calls the scented variety ((benioin
-the other variety
-is
-cit.,
-185) and
-de boninasa or benzoin of the flowers;
-of white benzoin, like pieces of almonds
-he adds,
-is
-it is
-«benioin amendoado» or abenzoin of almonds», because
-among
-the black.
-of blackish colour;
-mixed with pieces 30
-aThe benzoin from Sumatra and Java,
-it is
-not as good as that from Siam and by Malacca.))
-9.
-GARDENIA FLOW^ERS
-The
-^)
-cTil-tsi-hua
-trating
-place
-and
-it
-lasting.
-is
-^
-:?5).
-comes from the two countries of Ya-pa-hien (i^
-and Lo-shi-mei of the Ta-shi.
-appearance, but
-(|ji
-of a light
-^
-It resembles the safflower (^j^ 1^) in
-brown (or purple) colour. Its scent is pene-
-The natives gather the
-flowers, dry
-them
-in the sun,
-and
-them in bottles of opaque glass. Flowers of carnation colour are rare.
-What in Buddhist books is called tan-ipo
-(
-^
--'gj) is
-35
-the same as this.
-4011,9-10
-KOSE-WATER.
-203
-Note.
-On the Gardenia florida or becho-nuts, see Hanbury, Science Papers, 241 et seqq., and
-Bretschneider, Bot. Sinic, III, 500—503. Although our author only refers to its use as a per-
-fume,
-was, however, largely used as a dye. Ya-pa-hien (or as it is written supra, p. 116 Ya-ssi-
-is Isfahan, and Lo-shl-mei probably stands for Khwarizm. Supra,
-p. 134, our author
-refers to the trade in gardenia flowers from the Persian coast through the island of Kish. He also
-says (supra, p. 141) that it was a product of Asia Minor (Lu-meii).
-it
-5 pau-hien)
-Ling-wai-tai-ta, 7,s-4 says:
-of the Arabs. It is
-10
-^)
-dry
-what
-«The
-foreign gardenia
-(^
-jjfj^
-called in the Buddhist books tan-po
-is
-^)
-comes from the land
-(1^ ^). The
-Sea foreigners
-At the present day when one wants to be scented as if
-(y^
-with ambergris, one uses foreign gardenia, which is even more penetrating. There is a white
-it
-like dyer's safflower.
-flower just like the gardenia but five-petaled. People say that (the chi-tzi) brought from Si-chu
-^t
-possibly an error for
-that this
-15
-is
-not correct.))
-^^ ^
-aWestern India»)
-is (real)
-(
-^
-tan-po, but I apprehend
-Yu-yang-tsa-tsu, 18,s^ says of this product= vChi-tzi flowers with six petals are rare, but,
-according to T'au Chbn-po
-A.D. 451— 536,
-([^ ^^ {^ or Tan Hung-king |^
-the author of an important work on materia medica; see Giles, Biograph. Dictionary, 718— 719),
-^i ;^
-only six-petaled chi-tzi flowers can properly be called by that name. If one cuts off
-flower and is
-slits
-open the calyx in seven places, the perfume
-is
-very powerful. It
-20 the chan-po of the Western Kegions.)) The text has fe yen, which stands
-change of radicals being frequent
-cham-pak or chan-po-Tcia
-Champaca.
-in old texts.
-(B^ 3^ ^P),
-Hirth,
-J.
-A. 0.
-S.,
-XXX,
-it is
-tan or dian, the
-27. Chan-po, in Cantonese
-Sanskrit champaka, the
-is
-for ps.
-a six-petaled
-said that
-champac
-tree,
-Michelia
-
-10.
-ROSE-WATER
-25
-TsHang-wei-shui
-is
-the
-dew
-{^ ff
-f^
-:^).
-907—960)
-the foreign envoy P'u-
-Abu-1-Hassan?), brought as tribute fifteen bottles, after
-which time importation became
-30
-#
-of flowers in the country of the Ta-shi. In
-the time of the Five Dynasties (A. D.
-ko-san
-(§
-rare.
-Nowadays a common
-manufactured by gathering the flowers, which are steeped
-substitute
-in
-is
-water and
-steamed, in order to extract the essence.
-Rose-water is much counterfeited and adulterated;
--
-the substance should be placed in glass bottles and shaken about for a while,
-then, if
-35
-to test its genuineness,
-it is
-full
-of bubbles moving
-The flower (from which
-it
-is
-up and down, the substance
-made)
-is
-is
-genuine.
-not identical with the Chinese rose
-Note.
-ts iang-wet-lu or «rose-dew». In a preceding passage
-the island of Kish in rose-water. The adjacent province
-through
-1 34) Chau refers to the trade
-Eose-water
-(supra, p.
-is also
-known
-in
-China as
-all parts of
-40 of Fars was celebrated for its rose-water, which, says Ibn Haukal, was exported to
-to Muk add asi, ten different
-the world. The city of Shapur and its valley produced, according'204
-11,10-11
-GHARU-WOOD.
-oils, which were exported far and wide over the Eastern world. Le Strange,
-Lands of the Eastern^Caliphate, 293. Edrisi, op. cit, I, 394, speaks of the rose-water of Djur in
-Fars as being particularly pure. In another passage (supra, p. 141) our author mentions rose-
-water among the products of Asia Minor (Lu-mei).
-kinds of perfumed
-Rose-water, gulab in Persian,
-Persian, our attar of roses, which
-an
-chief seat for the manufacture of which
-the rose-water
-is
-made, by setting
-not to be confounded with the «essence of roses» 'atr in
-is
-is
-is
-essential oil obtained
-at
-Ghazipur on the Ganges. «The attar
-out during the night and
-it
-till
-is
-obtained after
-sunrise in the morning in
-large open vessels exposed to the air, and then skimming off the essential
-Yule and Burnell,
-'5
-from the petals of the flower, the
-oil
-which
-floats at
-the
-The acommon substitute)) of which our author speaks 10
-seems to have been prepared in much the same way as the attar. We are told, however, that the
-Arabs and Persians did not know of attar of roses, it was a discovery of Princess Nurdjihan, wife
-of Jehangir. L. Langles, Recherches sur la dficouverte de I'essence de rose, 1804.
-The Chinese rose is the Rosa indica. Lour. According to the Pon-ts'au the people in
-southern China prepared a fragrant water from the petals of the fe'ta»(ir-z»« flowers. Bret- 15
-Schneider, Bot. Sinic, III, 303. See also Duarte Barbosa, op. cit., 188.
-top».
-Glossary, 494.
-,
-
+in turn quotes textually our text. -->

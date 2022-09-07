@@ -1,6 +1,6 @@
 ---
 title: Declaration of Principles and State Policies
-heading: Articles 1-2 of the 1987 Constitution Simplified
+heading: Articles 1-2
 date: 2022-01-31
 description: ""
 image: "/graphics/1987.jpg"

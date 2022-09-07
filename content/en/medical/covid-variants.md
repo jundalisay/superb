@@ -4,10 +4,6 @@ heading: plotting their landing zones
 date: 2022-01-06
 image: /photos/med/covid.jpg
 description: "We list down the Covid variants to establish patterns"
-linkb: "/medical/physical/solutions/covid-flu-star"
-linkbtext: "Covid star"
-linkf: /medical/physical/smith-veg
-linkftext: "smith-vegetarian"
 author: Juan
 icon: /icons/spmed.png
 # aliases:
@@ -15,9 +11,8 @@ icon: /icons/spmed.png
 #  "/medical/how-to-stop-covid"
 ---
 
-Following our theory that Covid is powered by [a Covid star](/articles/medical/covid-flu-star), we list down the attributes of known variants emphasizing the date and place where they were first reported. This is to plot their "landing zones" which, according to our theory, forms a line that circles the world.
 
-<br>
+Following our theory that Covid is powered by [a Covid star](/articles/medical/covid-flu-star), we list down the attributes of known variants emphasizing the date and place where they were first reported. This is to plot their "landing zones" which, according to our theory, forms a line that circles the world.
 
 Name | Date First Encountred | Place | Transmissibility | Severity | Technical Name 
 --- | --- | --- | --- | --- | ---

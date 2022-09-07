@@ -1,13 +1,9 @@
 ---
 title: "Finance"
-heading: "Chapter 7 of the Japanese Constitution Simplified"
+heading: "Chapter 7"
 date: 2021-11-20
 image: "/flags/jp.png"
-description: ""
-linkb: /research/constitutions/jp/chapter-6
-linkbtext: "Chapter 6"
-linkf: /research/constitutions/jp/chapter-9
-linkftext: "chapter-9"
+description: "The power to administer national finances shall be exercised as the Diet shall determine"
 icon: "/flags/jp.png"
 ---
 

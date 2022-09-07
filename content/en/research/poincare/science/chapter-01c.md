@@ -1,12 +1,8 @@
 ---
 title: Proof By Recurrence
-date: 2022-02-01
+date: 2022-02-25
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
-linkb: "/research/poincare/science/"
-linkbtext: "Science"
-linkf: "/research/poincare/science/chapter-01b"
-linkftext: "Chapter 1b"
 author: "H. Poincare"
 icon: /icons/poincare.jpg
 ---

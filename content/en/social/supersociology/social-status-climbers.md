@@ -1,13 +1,9 @@
 ---
 title: "Social Status and Social Climbers"
+heading: How to avoid them?
 date: 2019-12-17
 image: "https://sorasystem.sirv.com/photos/prices.jpg"
 description: "According to Adam Smith, vanity is the cause of the desire for social status"
-linkb: /articles/social/david-hume-idea-of-self
-linkbtext: "david-hume-idea-of-self"
-linkf: /articles/social/what-is-the-impartial-spectator
-linkftext: "What-is-the-impartial-spectator?"
-heading: How to avoid them?
 author: Juan
 icon: /icons/spsoc.png
 draft: true

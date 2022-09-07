@@ -1,35 +1,27 @@
-+++
-title= "Laka Wood"
-heading = "Part 15"
-image= "/covers/chun.jpg"
-description= ""
-linkb= "/research/chau-ju-kua/chun-fan-chi"
-linkbtext= "Index"
-linkf= "/research/chau-ju-kua/chun-fan-chi"
-linkftext= "Index"
-+++
+---
+title: "Laka Wood"
+heading: "Part 15"
+image: "/covers/chun.jpg"
+description: "Kiang-chon-hiang comes from Sumatra, Java, and  P'ong-fong, the districts of Kuang-tung and Kuang-si"
+---
 
 
-## 15. LAKA-^WOOD
+
+## 15. LAKA-WOOD
 
 Kiang-chon-hiang comes from Sumatra, Java, and  P'ong-fong, the districts of Kuang-tung and Kuang-si. Its aroma is also found in all
 strong and penetrating;
 it
 counteracts bad smells. 
 
-All Cantonese burn this incense at
-the end of the year, as
+All Cantonese burn this incense at the end of the year, as
 
-Its price is
-25
-if
+Its price is if
 (they were making) a Sacrifice to
 very cheap. The product of San-fo-ts'i
 on account of the purity and strength of
 called
 td-fong-Mang
-(^
-^ #)
 its
 is
 Heaven ^
@@ -39,7 +31,8 @@ fragrance. This
 is also
 .3
 or «red vine incense»'
-Notes.
+
+<!-- Notes.
 work
 Pahang, on the east coast of the Malay Peninsula. 
 
@@ -92,19 +85,15 @@ In another passage (supra, p. 198) our
 dragon's-blood».
 (.imitation
 40 was used to make an
-3)
+3) -->
 
 
-14*212
-MUSK- WOOD.
-— JACK-FKUIT.
-II, 16-17
-16.
-#
-MUSK-W^OOD (0
-Sho-hiang-mu comes from Chan-ch'ong and
-from age
-As
+
+
+## 16. MUSK-WOOD
+
+Sho-hiang-mu comes from Chan-ch'ong and from age
+
 best variety.
 wood
 down and
@@ -166,6 +155,7 @@ When
 5
 wood
 of rose-wood
+
 Note.
 We
 •
@@ -346,16 +336,14 @@ Populus alba,
 30 possible that
 2k
 po-lo
-L.).
+
 mentions that in the twenty-first year of the chong-Tcuan period
-22lA,i7'',
+
 from Magadha (Central India) which came
-('/ij^
-Po-lo
-is,
+
+Po-lo is,
 this particular
-viffi)
-^'^^^-
+viffi
 This tree,
 it is said,
 to the
@@ -372,13 +360,14 @@ a po-lo-mi or jack-fruit tree,
 if
 it
 not a pine-apple.
-18.
-ARBCA-NUTS (^
-The pin-lang comes from
-districts of
-35
+
+
+## 18. ARBCA-NUTS 
+
+The pin-lang comes from districts of
+
 coir-palm
-«The
+The
 Hai-nan;
 it is
 several foreign countries, also from the four
@@ -409,24 +398,13 @@ mi-jpin-lang
 (^
 (;^J
 gathered in
-{^
-^ ^214
-or
-11,18-19
-COCOANDT.
+
 areca-nuts»). Preserved in salt
 ccrice
 called yen-pin-lang
 it is
 (^ /^ |^
 or «salted areca-nuts»). Small and pointed nuts are called M-sin-pm-lcmg
-(^
-(^
-^
-^^J
--^ or
-^Ij?
-^
 or «chicken heart areca-nuts»), large and flat ones ta-fu-td
 «big bellies»).»^
 "When chewed, these nuts have the
@@ -462,7 +440,6 @@ author mentions betel-nuts in the first
 and of the Philippine islands He
 named
 says that
-S,!*
 (Ma-i).
 it
 name
@@ -615,13 +592,9 @@ come from Wu-ssi-li
 tree resembles the camphor-tree,
 similar to the Chinese acorn
 p'u-lu (>j^
-25 called
-^),
+25 called	
 ma-ch^a
-(^
-and which
-(^
-^),
+and which 
 is
 which
 {^MW- Mosul) in the Ta-sM country.
@@ -692,9 +665,8 @@ and
 Mut,
 Persian names of the oak,
 represent the Persian »!«««, the word for oak-galls.
-sM-tsi, mo-sM-m, mo-tso and ma-ch'a, all216
-11,20-21
-EBOKY.
+sM-tsi, mo-sM-m, mo-tso and ma-ch'a, all
+
 Thos. Watters, Essays on the Chinese language,
 and Sui-shu, 83,16* mention
 Duarte Barbosa,
@@ -746,8 +718,8 @@ wood
 generally considered a precious
 (^
 ;;fc).
-Note.
-(^ ^)
+
+<!-- Note.
 Ku-kin-chu, 3,i, says= «I-mu
 Tongking (Kiau-chou). Its colour is black, and
 "'"(iIto
@@ -841,18 +813,15 @@ species of trees of the genus Diospyros and the natural order Ebenacete.
 the passage quoted above, shows that the Chinese are aware of this fact.
 the wood of various
 The Nan-yue-pi-ki, ia
-is
-'11,22-23
-SAP AN-WOOD.
-'
-— COTTON.
-217
-22.
-SAPAN-WOOD
-Su-mu comes from
-the country of Chon-la.
+is -->
+
+
+## 22. SAPAN-WOOD
+
+Su-mu comes from Cambodia. 
+
 and juniper. The leaves are
-6 habitat is in
+habitat is in
 larly known
 is
 The
@@ -878,8 +847,9 @@ may be
 used in dying purple. It
 is
 in the
-popu-
-TJiC).
+popu
+
+<!-- 
 Note.
 The wood
 10
@@ -925,3 +895,4 @@ mentioned by our author (supra,
 p. 54) as a
 dependency of Chon-Ia.
 
+ -->

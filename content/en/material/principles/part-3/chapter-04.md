@@ -5,10 +5,6 @@ title: "Spin is the Reflective Ability of Particles"
 date: 2020-01-29
 image: /photos/physics/light.jpg
 description: "New-Agers say that the universe is a reflection of one's own consicousness. This is half-true, because it is really based on one's feelings and volition. Here, we explain how reality reflects our feelings through the Physics concept of particle-spin"
-linkb: /material/principles/part-3/chapter-02
-linkbtext: Qoe
-linkf: /material/principles/part-4/chapter-01
-linkftext: Radioactive Layer
 author: Juan
 icon: /icons/spmat.png
 aliases:

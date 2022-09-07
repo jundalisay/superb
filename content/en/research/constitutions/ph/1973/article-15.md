@@ -1,15 +1,11 @@
 ---
-title: GENERAL PROVISIONS
-date: 2022-01-31
+title: General Provisions
+date: 2022-01-18
 heading: Article 15 of the 1973 Constitution Simplified
 # date: 1899-01-19
 description: "The Legislative power shall be vested in a Batasang Pambansa."
 image: "/graphics/1973.jpg"
-linkb: "/research/constitutions/ph/1973/article-13"
-linkbtext: "article-13"
-linkf: "/research/constitutions/ph/1973/article-16"
-linkftext: "article-16"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 

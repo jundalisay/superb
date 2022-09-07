@@ -1,15 +1,11 @@
 ---
 title: Amendment Of The Constitution
-heading: "Titles 13-14 of the Malolos Constitution Simplified"
-date: 2022-01-26
+heading: "Titles 13-14"
+date: 2022-01-18
 # date: 1899-01-19
 description: "Amendment of the Malolos Constitution"
 image: "/graphics/1899.jpg"
-linkb: "/research/constitutions/ph/1899/title-09"
-linkbtext: "Title 9"
-linkf: "/research/constitutions/ph/1899"
-linkftext: "Index"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

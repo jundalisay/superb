@@ -1,13 +1,9 @@
-+++
-title= "Cubebs -- Chau Ju Kua's Works Simplified"
-heading = "Part 28"
-image= "/covers/chun.jpg"
-description= "Pitongkie come from a plant of creeping habits, which blossoms in the spring and bears fruit in the summer, resembling the kienniutzi. It has a white flower and black seeds, which are packed up after being dried in the sun."
-linkb= "/research/chau-ju-kua/chun-fan-chi/part-23"
-linkbtext= "Cotton"
-linkf= "/research/chau-ju-kua/chun-fan-chi/part-32"
-linkftext= "Glass"
-+++
+---
+title: "Cubebs, Asofatida, Aloes, Coral-tree "
+heading: "Part 28-31"
+image: "/covers/chun.jpg"
+description: "Pitongkie come from a plant of creeping habits, which blossoms in the spring and bears fruit in the summer, resembling the kienniutzi. It has a white flower and black seeds, which are packed up after being dried in the sun"
+---
 
 
 ## 28. CUBEBS
@@ -255,37 +251,9 @@ When the root has been detached, the rope is made fast to the boat and the tree 
 
 They are not always sure to get the whole tree, though probably they will get a branch. 
 
-At first 
+At first, it is covered with a slimy coating. But it dries up and hardens when exposed to the air and then assumes a dull carnation colour.
 
-and hardens when exposed
-The higher the
-missed,
-tree, the
-first
-to the air,
-
-
-is
-hauled on board by means
-to get the (whole) tree,
-though pro-
-covered with a slimy coating,
-it
-dries
-up
-20
-and then assumes a dull carnation colour.
-
-sea.
-boat and the tree
-bably they will get a branch. At
-of a grappling-iron of five is
-kept under water by leaden sinkers, the
-whole apparatus being thrown into the
-the rope
-make use
-
-more valuable it is.
+The higher the tree, the more valuable it is. 
 
 If the proper time for fishing is missed, it will be destroyed by worms.
 

@@ -4,11 +4,7 @@ heading: Article 8 of the 1987 Constitution Simplified
 date: 2022-01-27
 description: "The judicial power shall be vested in one Supreme Court and in such lower courts as may be established by law."
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987/article-07"
-linkbtext: "article-07"
-linkf: "/research/constitutions/ph/1987/article-09"
-linkftext: "article-09"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
 

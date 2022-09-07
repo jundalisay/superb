@@ -1,16 +1,11 @@
 ---
 title: "The Society Organism"
 heading: "Chapter 1"
-# title: "What is the Society Organism and Social Networkism?"
-# heading: "The System to Harmonize Minds Into a Society"
+# title: "What is the Society Organism and Social Networkism?" # heading: "The System to Harmonize Minds Into a Society"
 image: "/photos/team.jpg"
 # date: 2021-07-01
 date: 2022-01-31
 description : "A society is three or more entities working towards a common interest or goal"
-linkb: /social/supersociology/principles/collective-wave-of-desire
-linkbtext: "Collective-wave-of-desire"
-linkf: /social/supersociology/principles/social-topographic-behavior
-linkftext: "Social-topographic-behavior"
 author: Juan
 icon: /icons/spsoc.png
 aliases:

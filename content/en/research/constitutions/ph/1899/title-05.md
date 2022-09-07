@@ -1,14 +1,10 @@
 ---
 title: The Legislative Power
 heading: Title 5 of the Malolos Constitution Simplified
-date: 2022-01-29
+date: 2022-01-26
 description: "The Legislative Power according to the malolos consitution"
 image: "/graphics/1899.jpg"
-linkb: "/research/constitutions/ph/1899/title-01"
-linkbtext: "title-01"
-linkf: "/research/constitutions/ph/1899/title-07"
-linkftext: "title-07"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

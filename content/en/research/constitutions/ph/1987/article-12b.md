@@ -1,14 +1,10 @@
 ---
 title: Labor
 heading: Article 12b of the 1987 Constitution Simplified
-date: 2022-01-31
+date: 2022-01-22
 description: "The State shall promote the preferential use of Filipino labor, domestic materials and locally produced goods, and make them competitive."
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1987"
-linkftext: "Index"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

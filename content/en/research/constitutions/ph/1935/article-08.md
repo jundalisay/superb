@@ -1,15 +1,11 @@
 ---
-heading: Articles 8-13 of The 1935 Constitution Simplified
+heading: Articles 8-13
 title: "Judicial Department"
-date: 2022-01-31
+date: 2022-01-21
 # date: 1899-01-19
 description: "The judicial power shall be vested in one Supreme Court and in such inferior courts as may be established by law"
 image: "/graphics/1935.jpg"
-linkb: "/research/constitutions/ph/1935/article-07"
-linkbtext: "article-07"
-linkf: "/research/constitutions/ph/1935/article-14"
-linkftext: "article-14"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

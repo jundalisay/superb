@@ -49,13 +49,31 @@ In all games he is proficient, and he plays with his head as well as his hands, 
 
 With his keenness and the power of expressing himself well, he is very tactful and adroit, thus making many friends by saying the right thing at the right time. As an after-dinner speaker he is a success, and in a battle of words or badinage is an opponent hard to overcome. One of the chief elements of the Mercurian's success, is his ability to judge human nature and character. He mentally estimates everyone whom he meets, and uses his quick mind and tactful way to make a friend and accomplish what he wishes. He is adroit, crafty, and a constant schemer, using all his powers of shrewdness, intuition, and oratory to get himself through the world. 
 
-He is a dangerous person, you say. Verily he is, for not one of all the other types is for a moment his equal in diplomacy, craftiness, tact, persuasiveness shrewdness, or adroit methods of approach. This power makes him influential and if he is bad, much to be feared. He is a clever manager and well knows how to keep in the background and push forward some puppet to do his bidding. His power over men comes largely from the shrewdness with which he lays his plans, and the clever way in which he gets someone else to carry them out if necessary. He understands humanity thoroughly, and uses this knowledge to his own advantage. He is not lazy; one of his prime elements is industry, consequently he loses no opportunities through napping but turns every hour to account. 
+He is a dangerous person, you say. Verily he is, for not one of all the other types is for a moment his equal in diplomacy, craftiness, tact, persuasiveness shrewdness, or adroit methods of approach. This power makes him influential and if he is bad, much to be feared. He is a clever manager and well knows how to keep in the background and push forward some puppet to do his bidding. His power over men comes largely from the shrewdness with which he lays his plans, and the clever way in which he gets someone else to carry them out if necessary. 
 
-Part 2 He has a love for study, especially along lines of scientific investigation. He is a born mathematician, and no problem is so intricate that he cannot solve it. He is, of all the types, the most successful as a physician, and in my observation of the medical profession, the men who have succeeded in attaining fame, and with it a lucrative practice, are Mercurian in their leading type, with the Jupiterian type second.'
+He understands humanity thoroughly, and uses this knowledge to his own advantage. He is not lazy; one of his prime elements is industry, consequently he loses no opportunities through napping but turns every hour to account. 
 
-There-verse is also a good combination, provided the Mercurian qualities are very strong. Numerous small vertical lines on the Mount of Mercury, with the Mercury finger longer than normal, or with the second phalanx long, will be a strong indication of talent for medical studies. This marking is to be found on the hands of prominent and successful doctors - It is called the "Medical Stigmata" (107). 
+## Part 2
 
-On the hand of a woman it shows great ability as a nurse. Energy, studiousness, scientific aptitude, combined with keenness in judging human nature, make the Mercurian an excellent diagnostician and practitioner. He is also talented as an occult scientist, being able, with his shrewdness and keenness of perception, to master all the intricacies of the intangible sciences. Thus the Mercurian is well adapted to these occult studies, but, as he is fond of money-making, and bad Mercurians are conscienceless, we find the humbug clairvoyants and fortune-tellers all belonging to this type. 
+He has a love for study, especially scientific investigation. 
+
+He is a born mathematician. No problem is so intricate that he cannot solve it. 
+
+He is, of all the types, the most successful as a physician. 
+
+The rank of men who have succeeded with a lucrative practice are:
+1. Mercurian 
+2. Jupiterian
+
+There-verse is also a good combination, provided the Mercurian qualities are very strong. 
+
+Numerous small vertical lines on the Mount of Mercury, with the Mercury finger longer than normal, or with the second phalanx long, will be a strong indication of talent for medical studies. This marking is to be found on the hands of prominent and successful doctors - It is called the "Medical Stigmata" (107). 
+
+On the hand of a woman it shows great ability as a nurse. 
+
+Energy, studiousness, scientific aptitude, combined with keenness in judging human nature, make the Mercurian an excellent diagnostician and practitioner. He is also talented as an occult scientist, being able, with his shrewdness and keenness of perception, to master all the intricacies of the intangible sciences. 
+
+Thus, the Mercurian is well adapted to these occult studies, but, as he is fond of money-making, and bad Mercurians are conscienceless, we find the humbug clairvoyants and fortune-tellers all belonging to this type. 
 
 Having met a number of alleged palmists who claim to tell your name from the hand, and the names of friends, I have found them all specimens of the bad Mercurian type, and they have often admitted to me that they knew little about Palmistry, but resorted to sleight-of- hand tricks, together with their ability to judge human nature, in order to fool the public and get money from them. 
 

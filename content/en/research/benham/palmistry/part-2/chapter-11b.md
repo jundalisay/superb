@@ -9,8 +9,13 @@ description: "If the line be alternating deep and thin (439) the subject will ha
 
 <!-- Defects in the line which form special signs, or which destroy its continuity, will impede its best operation. --> 
 
-If the line be alternating deep and thin (439) the subject will have a series of successes and failures, but there will be no even, steady operation of a strong line. These subjects make some efforts which bring money and reputation, and then relapse into a state of inaction, which is periodically replaced by other series of efforts followed by stagnation. Such subjects are brilliant "spurters," but cannot be relied upon for continuous action and achievement. If this line be strong when it terminates on the Mount, it is a much more favorable indication of final success and reputation, as the last period of the life will be one of its better efforts. If the line be wavy (440) it indicates that the subject will have a vacillating career. He will be clever and able to do much in his particular world of effort, but will be erratic, unstable, unreliable, and bohemian. These people are versatile, but go off at a tangent, and waste their brilliancy and talents in "chasing butterflies" instead of pushing forward steadily in one direction. The outcome of such a line is uncertain. 
+If the line be alternating deep and thin (439) the subject will have a series of successes and failures, but there will be no even, steady operation of a strong line. 
 
+These subjects make some efforts which bring money and reputation, and then relapse into a state of inaction, which is periodically replaced by other series of efforts followed by stagnation. 
+
+Such subjects are brilliant "spurters," but cannot be relied upon for continuous action and achievement. If this line be strong when it terminates on the Mount, it is a much more favorable indication of final success and reputation, as the last period of the life will be one of its better efforts. 
+
+If the line be wavy (440) it indicates that the subject will have a vacillating career. He will be clever and able to do much in his particular world of effort, but will be erratic, unstable, unreliable, and bohemian. These people are versatile, but go off at a tangent, and waste their brilliancy and talents in "chasing butterflies" instead of pushing forward steadily in one direction. The outcome of such a line is uncertain. 
 
 
 The subject may do something wonderful, or may pass everything by and accomplish nothing. 

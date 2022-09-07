@@ -1,4 +1,14 @@
-## Anthropomorphic Mechanics
+---
+title: Anthropomorphic Mechanics
+heading: Chapter 6b
+date: 2022-01-24
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
+
+
 
 Kirchoff has only followed the general tendency of mathematicians towards nominalism; from this his skill as a physicist has not saved him. 
 

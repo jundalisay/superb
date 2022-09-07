@@ -1,16 +1,25 @@
-6. Experiments only teach us the relations of bodies to one another. They do not and cannot give us the
-relations of bodies and space, nor the mutual relations
-of the different parts of space. “Yes!” you reply, “a single experiment is not enough, because it only gives us
+---
+title: Experiments only teach us the relations of bodies
+date: 2022-01-31
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
+
+
+6. Experiments only teach us the relations of bodies to one another. 
+
+They do not and cannot give us the relations of bodies and space, nor the mutual relations of the different parts of space. 
+
+“Yes!” you reply, “a single experiment is not enough, because it only gives us
 one equation with several unknowns; but when I have made enough experiments I shall have enough equations
 to calculate all my unknowns.” If I know the height of the
 main-mast, that is not sufficient to enable me to calculate
 the age of the captain. When you have measured every
 fragment of wood in a ship you will have many equations, but you will be no nearer knowing the captain’s
-age. All your measurements bearing on your fragmentsscience and hypothesis
-92
-of wood can tell you only what concerns those fragments;
-and similarly, your experiments, however numerous they
-may be, referring only to the relations of bodies with one
+age. All your measurements bearing on your fragments of wood can tell you only what concerns those fragments;
+and similarly, your experiments, however numerous they may be, referring only to the relations of bodies with one
 another, will tell you nothing about the mutual relations
 of the different parts of space.
 

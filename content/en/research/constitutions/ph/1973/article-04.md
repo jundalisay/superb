@@ -1,18 +1,15 @@
 ---
-title: BILL OF RIGHTS
-date: 2022-01-31
-heading: Article 4 of the 1973 Constitution Simplified
+title: Bill Of Rights
+date: 2022-01-28
+heading: Article 4
 # date: 1899-01-19
 description: "No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws"
 image: "/graphics/1973.jpg"
-linkb: "/research/constitutions/ph/1973/article-01"
-linkbtext: "article-01"
-linkf: "/research/constitutions/ph/1973/article-07"
-linkftext: "article-07"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
 
-Article 4: BILL OF RIGHTS
+
+## Article 4: BILL OF RIGHTS
 
 Section 1. No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws.
 

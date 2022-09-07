@@ -1,25 +1,26 @@
 ---
 title: "Amendments"
-heading: "Chapter 9 of the Japanese Constitution Simplified"
+heading: "Chapter 9"
 date: 2021-11-20
 image: "/flags/jp.png"
 description: ""
-linkb: /research/constitutions/jp/chapter-7
-linkbtext: "chapter-7"
-linkf: /research/constitutions/jp
-linkftext: "Index"
 icon: "/flags/jp.png"
 ---
 
 
-Article 96. Amendments to this Constitution shall be initiated by the Diet, through a concurring vote of 2/3 or more of all the members of each House and shall thereupon be submitted to the people for ratification, which shall require the affirmative vote of a majority of all votes cast thereon, at a special referendum or at such election as the Diet shall specify. 
+Article 96. Amendments to this Constitution shall be initiated by the Diet, through a concurring vote of 2/3 or more of all the members of each House. 
+
+It shall then be submitted to the people for ratification. This requires the affirmative vote of a majority of all votes cast at a special referendum or at such election as the Diet shall specify. 
 
 Amendments when so ratified shall immediately be promulgated by the Emperor in the name of the people, as an integral part of this Constitution. 
 
 
-## CHAPTER X SUPREME LAW 
+## CHAPTER 10: SUPREME LAW 
 
-Article 97. The fundamental human rights by this Constitution guaranteed to the people of Japan are fruits of the age-old struggle of man to be free; they have survived the many exacting tests for durability and are conferred upon this and future generations in trust, to be held for all time inviolate. 
+Article 97. The fundamental human rights by this Constitution guaranteed to the people of Japan are fruits of the age-old struggle of man to be free. 
+
+They have survived the many exacting tests for durability and are conferred upon this and future generations in trust, to be held for all time inviolate. 
+
 
 Article 98. This Constitution shall be the supreme law of the nation and no law, ordinance, imperial rescript or other act of government, or part thereof, contrary to the provisions hereof, shall have legal force or validity. The treaties concluded by Japan and established laws of nations shall be faithfully observed. 
 

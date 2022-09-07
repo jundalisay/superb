@@ -1,13 +1,10 @@
-+++
-title= "Cotton"
-heading = "Part 23"
-image= "/covers/chun.jpg"
-description= ""
-linkb= "/research/chau-ju-kua/chun-fan-chi"
-linkbtext= "Index"
-linkf= "/research/chau-ju-kua/chun-fan-chi"
-linkftext= "Index"
-+++
+---
+title: "Cotton"
+heading: "Part 23"
+image: "/covers/chun.jpg"
+description: "The ki-pei tree resembles a small  mulberry-tree, with a hibiscus-like  furnishing a floss half an inch and more in length, very much like goose-down, and containing some dozens of seeds"
+---
+
 
 
 ## 23. COTTON
@@ -603,25 +600,17 @@ It would seem, therefore, that the name mu-hiang was at first applied by the Chi
 product, probably because it was 'wood perfume'. In Chinese Buddhist books it -is called Jcii-so-t'o
 Sanskrit ftwsTii/sa. Bretschneider, loc.cit.,112. See also Yule, Marco Polo, 11,387.
 (^ ^/^),
-26.
-CARDAMOMS Q S
-35
-(
-_
-Pai-t6u-¥dti come from Chon-la, Sho-p'o and other foreign countries;
-but Chon-la produces them in the largest quantity. The plant resembles the
-it is a creeping plant fond of deep
-ssi-km
-JR), and the seed a grape;
-valleys ([Jj ^). It blossoms in the spring and ripens in the summer. The
-(^
-40 people are allowed to
-gather
-it
-without hindrance.222
-11,26-27
-PEPPEK.
-Note.
+
+
+## 26. CARDAMOMS 
+
+Pai-tou-kou come from Cambodia, Java, <!--  Chon-la, Sho-p'o --> and other foreign countries.
+
+Cambodia produces them in the largest quantity. 
+
+The plant resembles the ssi-kua and the seed of a grape. It is a creeping plant fond of deep valleys. It blossoms in the spring and ripens in the summer. The people are allowed to gather it freely.
+
+<!-- Note.
 The pai-tou-k'm
 is
 Amomum cardamomum,
@@ -711,55 +700,33 @@ really possessed the properties attributed to them. Tung-si-yang-k'au, 3,5^ ment
 pai-tou-k'ou
 among the products
 (^r)
-of Hia-kiang in Java.
-27.
-PEPPER
-(1^ #1).
-30
-Hu-tsiau conies from the following places in Sho-p'o= Su-ki-tan, Ta-pan,
-Pai-hua-yiian, Ma-tung, and Jung-ya-lu; but the pepper coming from Sin-t'o
-iMx
-^)
-'s
-the best; the Ta-pan variety takes the second place.
-Pepper grows in the uncultivated wilds, and the villages in the country
-the Chinese grape.
-or other
-wood
-The
-natives
-grow
-it
-on frames made of bamboo
-the flower opens, and in the fourth
-moon
-35
-the fruit
-forms\
-The flower resembles a fong-wei
-(^
-^
-or a «phoemx-tail»), and
-is
-blue (and) red in colour. The grains are gathered in the fifth moon, dried
-in
-the
-sun,
-and stored in godowns, whence they are withdrawn in the
-4011,27
-223
-PEPPER,
-drawn by oxen being used
-following year, carts
-to transport
-them
-to the
-market. The grain cannot stand the sun, but stands rain; therefore crops are
-but poor after dry weather, whereas heavy rainfalls
-may
-double the ordinary
-yield of the harvest.
-(Note.
+of Hia-kiang in Java. -->
+
+
+## 27. PEPPER
+
+Hu-tsiau comes from the following places in Java:
+- Sukitan
+- Ta-pan
+- Pai-hua-yiian
+- Ma-tung
+- Jung-ya-lu
+
+But the pepper coming from Sunda Indonesia<!-- Sinto --> is the best. The Ta-pan variety takes the second place.
+
+Pepper grows in the uncultivated wilds, and the villages in the countryside. 
+<!-- the Chinese grape. -->
+
+
+The natives grow it on frames made of bamboo. The flower opens, and in the fourth moon the fruit forms. 
+
+The flower resembles a fong-wei or a phoemx-tail and is blue and red in colour. 
+
+The grains are gathered in the fifth moon, dried in the sun, and stored in godowns, whence they are withdrawn in the following year, carts drawn by oxen being used to transport them to the market. 
+
+The grain cannot stand the sun, but stands rain. Therefore, crops are but poor after dry weather, whereas heavy rainfalls may double the ordinary yield of the harvest.
+
+<!-- (Note.
 6
 Some say
 ^
@@ -900,6 +867,6 @@ equal to 223 lbs.» And in another passage (II, 217) he says «And I assure you 
 shipload of pepper that goes to Alexandria or elsewhere, destined for Christendom, there come a
 hundred such, aye and more too, to this haven of Zaytun». Duarte Barbosa, op. cit, 206,
 mentions also the great quantity of pepper used in China. See on the pepper trade in the Middle
-Ages, Heyd, Hist, du Commerce,
+Ages, Heyd, Hist, du Commerce, -->
 
 

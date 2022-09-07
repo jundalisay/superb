@@ -1,14 +1,10 @@
 ---
 title: "General Provisions"
 heading: Articles 14-18 of The 1935 Constitution Simplified
-date: 2022-01-31
+date: 2022-01-15
 description: "The Congress in joint session assembled, by a vote of three-fourths of all the Members of the Senate and of the House of Representatives voting separately, may propose amendments to this Constitution or call a convention for that purpose"
 image: "/graphics/1935.jpg"
-linkb: "/research/constitutions/ph/1935/article-08"
-linkbtext: "article-08"
-linkf: "/research/constitutions/ph/1935/"
-linkftext: "Index"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

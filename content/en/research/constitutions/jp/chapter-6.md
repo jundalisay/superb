@@ -1,13 +1,9 @@
 ---
 title: "The Judiciary"
-heading: "Chapter 6: Japanese Constitution Simplified"
+heading: "Chapter 6"
 date: 2021-11-20
 image: "/flags/jp.png"
 description: "The judicial power is vested in a Supreme Court and inferior courts"
-linkb: /research/constitutions/jp/chapter-5
-linkbtext: "chapter-5"
-linkf: /research/constitutions/jp/chapter-7
-linkftext: "chapter-7"
 icon: "/flags/jp.png"
 ---
 

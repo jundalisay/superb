@@ -1,20 +1,16 @@
-+++
-title=  "Two Difficulties Regarding Time"
-heading=  "Part 1 of The Measure of Time"
-date=  2021-09-28
-image=  "/covers/time.jpg"
-description=  "As long as we do not go outside the domain of consciousness, the notion of time is relatively clear."
-linkb=  "/research/poincare/time"
-linkbtext=  "Index"
-linkf=  "/research/poincare/time/part-6"
-linkftext=  "Part 6"
-aliases= [
-  "/research/poincare/part-1"
-]
+---
+title: Two Difficulties Regarding Time
+heading: Part 1
+date: 2021-09-28
+description: As long as we do not go outside the domain of consciousness, the notion of time is relatively clear
+image: "/covers/time.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+aliases:
+  /research/poincare/part-1
+---
 
-+++
 
-I
 
 As long as we do not go outside the domain of consciousness, the notion of time is relatively clear. 
 
@@ -37,7 +33,7 @@ Whence comes the feeling that between any two instants there are others?
 
 We arrange our recollections in time, but we know that there remain empty compartments. How could that be, if time were not a form pre-existent in our minds? How could we know there were empty compartments, if these compartments were revealed to us only by their content?
 
-II
+<!-- II -->
 
 Into this form, we wish to put not only the phenomena of our own consciousness, but those of which other consciousnesses are the theater. 
 
@@ -61,7 +57,7 @@ Therefore, two difficulties:
 2. Can we reduce to one and the same measure facts which transpire in different worlds?
 
 
-III
+<!-- III -->
 
 We have not a direct intuition of the equality of two intervals of time. The persons who believe they possess this intuition are dupes of an illusion. What do I mean when I say, from 12 noon to 1 pm, the same time passes as from 2 pm to 3 pm?
 
@@ -94,7 +90,7 @@ However, the astronomers are still not content with this definition. Many of the
 Thus would be explained the apparent acceleration of the motion of the moon, which would seem to be going more rapidly than theory permits because our watch, which is the earth, is going slow.
 
 
-IV
+<!-- IV -->
 
 One will say that all this is unimportant. Our instruments of measurement are imperfect. But it suffices that we can conceive a perfect instrument. 
 
@@ -121,27 +117,47 @@ If experience made us witness such a sight, our postulate would be contradicted.
 Now can we affirm that the hypotheses I have just made are absurd? They are in no wise contrary to the principle of contradiction. Doubtless they could not happen without the principle of sufficient reason seeming violated. But to justify a definition so fundamental I should prefer some other guarantee.
 
 
-V
+<!-- V But that is not all. --> 
 
-But that is not all. In physical reality one cause does not produce a given effect, but a multitude of distinct causes contribute to produce it, without our having any means of discriminating the part of each of them.
+In physical reality, one cause does not produce a given effect, but a multitude of distinct causes contribute to produce it, without our having any means of discriminating the part of each of them.
 
-Physicists seek to make this distinction; but they make it only approximately, and, however they progress, they never will make it except approximately. It is approximately true that the motion of the pendulum is due solely to the earth's attraction; but in all rigor every attraction, even of Sirius, acts on the pendulum.
+Physicists seek to make this distinction. But they make it only approximately, and, however they progress, they never will make it except approximately. 
 
-Under these conditions, it is clear that the causes which have produced a certain effect will never be reproduced except approximately. Then we should modify our postulate and our definition. Instead of saying=  'The same causes take the same time to produce the same effects,' we should say =  'Causes almost identical take almost the same time to produce almost the same effects.'
+It is approximately true that the motion of the pendulum is due solely to the earth's attraction; but in all rigor every attraction, even of Sirius, acts on the pendulum.
 
-Our definition therefore is no longer anything but approximate. Besides, as M. Calinon very justly remarks in a recent memoir= [1]
+The causes which have produced a certain effect will only be reproduced approximately. 
+- It follows that  we should modify our postulate and our definition. 
 
+Instead of saying: 'The same causes take the same time to produce the same effects,' we should say: 'Causes almost identical take almost the same time to produce almost the same effects.'
+
+Our definition therefore is no longer anything but approximate. 
+
+Besides, as M. Calinon very justly remarks in a recent memoir:[1]
+
+{{< q >}}
 One of the circumstances of any phenomenon is the velocity of the earth's rotation; if this velocity of rotation varies, it constitutes in the reproduction of this phenomenon a circumstance which no longer remains the same. But to suppose this velocity of rotation constant is to suppose that we know how to measure time.
+{{< /q >}}
 
-
-Our definition is therefore not yet satisfactory; it is certainly not that which the astronomers of whom I spoke above implicitly adopt, when they affirm that the terrestrial rotation is slowing down.
+Our definition is therefore not yet satisfactory. It is certainly not that which the astronomers of whom I spoke above implicitly adopt, when they affirm that the terrestrial rotation is slowing down.
 
 What meaning according to them has this affirmation? We can only understand it by analyzing the proofs they give of their proposition. They say first that the friction of the tides producing heat must destroy vis viva. They invoke therefore the principle of vis viva, or of the conservation of energy.
 
-They say next that the secular acceleration of the moon, calculated according to Newton's law, would be less than that deduced from observations unless the correction relative to the slowing down of the terrestrial rotation were made. They invoke therefore Newton's law. In other words, they define duration in the following way=  time should be so defined that Newton's law and that of vis viva may be verified. Newton's law is an experimental truth; as such it is only approximate, which shows that we still have only a definition by approximation.
+They say next that the secular acceleration of the moon, calculated according to Newton's law, would be less than that deduced from observations unless the correction relative to the slowing down of the terrestrial rotation were made. They invoke therefore Newton's law. 
 
-If now it be supposed that another way of measuring time is adopted, the experiments on which Newton's law is founded would none the less have the same meaning. Only the enunciation of the law would be different, because it would be translated into another language; it would evidently be much less simple. So that the definition implicitly adopted by the astronomers may be summed up thus=  Time should be so defined that the equations of mechanics may be as simple as possible. In other words, there is not one way of measuring time more true than another; that which is generally adopted is only more convenient. Of two watches, we have no right to say that the one goes true, the other wrong; we can only say that it is advantageous to conform to the indications of the first.
+In other words, they say that time should be defined in a way that Newton's law and that of vis viva may be verified. 
 
-The difficulty which has just occupied us has been, as I have said, often pointed out; among the most recent works in which it is considered, I may mention, besides M. Calinon's little book, the treatise on mechanics of Andrade.
+Newton's law is an experimental truth; as such it is only approximate, which shows that we still have only a definition by approximation.
+
+If another way of measuring time is adopted, the experiments on which Newton's law is founded would nonetheless have the same meaning. 
+- Only the enunciation of the law would be different, because it would be translated into another language.
+- It would be much less simple. 
+
+So that the definition implicitly adopted by the astronomers may be summed up thus: "Time should be so defined that the equations of mechanics may be as simple as possible." 
+
+In other words, there is not one way of measuring time more true than another; that which is generally adopted is only more convenient. 
+
+Of 2 watches, we have no right to say that the one goes true, the other wrong; we can only say that it is advantageous to conform to the indications of the first.
+
+<!-- The difficulty which has just occupied us has been, as I have said, often pointed out; among the most recent works in which it is considered, I may mention, besides M. Calinon's little book, the treatise on mechanics of Andrade. -->
 
 

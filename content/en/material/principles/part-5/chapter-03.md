@@ -5,10 +5,6 @@ date: 2020-01-31
 image: /photos/physics/baseball.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
 linkTitle: "Material Relativity"
-linkb: /material/principles/kepler-tensor
-linkbtext: Kepler Tensor
-linkf: /material/principles/qoa
-linkftext: Quantum of Aether
 icon: /icons/spmat.png
 aliases:
   /material/principles/material-relativity

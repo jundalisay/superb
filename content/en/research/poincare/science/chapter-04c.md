@@ -1,39 +1,40 @@
+---
+title: Changes of State and Changes of Position
+date: 2022-02-04
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
+
+
 ## Law of Homogeneity
 
-The first of these laws is the law of homogeneity. Suppose that by an external change
-we pass from the aggregate of impressions A to the ag-
-gregate B, and that then this change α is corrected by a
-correlative voluntary movement β, so that we are brought
-back to the aggregate A. Suppose now that another ex-
-ternal change α 0 brings us again from the aggregate A
-to the aggregate B. Experiment then shows us that this
-change α 0 , like the change α, may be corrected by a volun-
-tary correlative movement β 0 , and that this movement β 0
-corresponds to the same muscular sensations as the move-
+The first of these laws is the law of homogeneity. Suppose that by an external change we pass from the aggregate of impressions A to the ag-
+gregate B, and that then this change α is corrected by a correlative voluntary movement β, so that we are brought
+back to the aggregate A. Suppose now that another external change α 0 brings us again from the aggregate A
+to the aggregate B. Experiment then shows us that this change α 0 , like the change α, may be corrected by a volun-
+tary correlative movement β 0 , and that this movement β 0 corresponds to the same muscular sensations as the move-
 ment β which corrected α.
+
 
 This fact is usually enunciated as follows:
 
-Space is homogeneous and isotropic. We may also say that a
-movement which is once produced may be repeated a
-second and a third time, and so on, without any varia-
-tion of its properties. In the first chapter, in which we
-discussed the nature of mathematical reasoning, we saw
-the importance that should be attached to the possibility
-of repeating the same operation indefinitely. The virtue
-of mathematical reasoning is due to this repetition; by
-means of the law of homogeneity geometrical facts are
-apprehended. To be complete, to the law of homogeneity
-must be added a multitude of other laws, into the detailsspace and geometry.
+Space is homogeneous and isotropic. We may also say that a movement which is once produced may be repeated a
+second and a third time, and so on, without any variation of its properties. In the first chapter, in which we
+discussed the nature of mathematical reasoning, we saw the importance that should be attached to the possibility
+of repeating the same operation indefinitely. 
+
+The virtue of mathematical reasoning is due to this repetition; by means of the law of homogeneity geometrical facts are apprehended. To be complete, to the law of homogeneity must be added a multitude of other laws, into the detailsspace and geometry.
 
 of which I do not propose to enter, but which mathemati-
 cians sum up by saying that these displacements form a
 “group.”
 
-The Non-Euclidean World.—If geometrical space were a framework imposed on each of our representa-
-tions considered individually, it would be impossible to
-represent to ourselves an image without this framework,
-and we should be quite unable to change our geometry.
+## The Non-Euclidean World
+
+If geometrical space were a framework imposed on each of our representations considered individually, it would be impossible to
+represent to ourselves an image without this framework, and we should be quite unable to change our geometry.
 
 But this is not the case; geometry is only the summary of the laws by which these images succeed each other. 
 
@@ -45,49 +46,40 @@ accustomed. We may thus conceive that beings whose
 education has taken place in a medium in which those
 laws would be so different, might have a very different
 geometry from ours.
-Suppose, for example, a world enclosed in a large
-sphere and subject to the following laws:—The temper-
+
+Suppose, for example, a world enclosed in a large sphere and subject to the following laws:—The temper-
 ature is not uniform; it is greatest at the centre, and
-gradually decreases as we move towards the circumfer-
-ence of the sphere, where it is absolute zero. The law of
+gradually decreases as we move towards the circumference of the sphere, where it is absolute zero. The law of
 this temperature is as follows:—If R be the radius of thescience and hypothesis
 
 sphere, and r the distance of the point considered from
 the centre, the absolute temperature will be proportional
 to R 2 − r 2 . Further, I shall suppose that in this world
 all bodies have the same co-efficient of dilatation, so that
-the linear dilatation of any body is proportional to its ab-
-solute temperature. Finally, I shall assume that a body
-transported from one point to another of different tem-
-perature is instantaneously in thermal equilibrium with
-its new environment. There is nothing in these hypothe-
-ses either contradictory or unimaginable. A moving ob-
-ject will become smaller and smaller as it approaches the
-circumference of the sphere. Let us observe, in the first
-place, that although from the point of view of our or-
-dinary geometry this world is finite, to its inhabitants
-it will appear infinite. As they approach the surface of
-the sphere they become colder, and at the same time
-smaller and smaller. The steps they take are therefore
-also smaller and smaller, so that they can never reach
+the linear dilatation of any body is proportional to its absolute temperature. Finally, I shall assume that a body
+transported from one point to another of different temperature is instantaneously in thermal equilibrium with
+its new environment. 
+
+There is nothing in these hypotheses either contradictory or unimaginable. A moving object will become smaller and smaller as it approaches the
+circumference of the sphere. Let us observe, in the first place, that although from the point of view of our or-
+dinary geometry this world is finite, to its inhabitants it will appear infinite. As they approach the surface of
+the sphere they become colder, and at the same time smaller and smaller. 
+
+The steps they take are therefore also smaller and smaller, so that they can never reach
 the boundary of the sphere. If to us geometry is only
 the study of the laws according to which invariable solids
 move, to these imaginary beings it will be the study of
 the laws of motion of solids deformed by the differences
 of temperature alluded to.
-No doubt, in our world, natural solids also experiencespace and geometry.
-77
-variations of form and volume due to differences of tem-
-perature. But in laying the foundations of geometry we
-neglect these variations; for besides being but small they
-are irregular, and consequently appear to us to be acci-
-dental. In our hypothetical world this will no longer be
-the case, the variations will obey very simple and regu-
-lar laws. On the other hand, the different solid parts of
+
+No doubt, in our world, natural solids also experience variations of form and volume due to differences of tem-
+perature. But in laying the foundations of geometry we neglect these variations; for besides being but small they
+are irregular, and consequently appear to us to be accidental. In our hypothetical world this will no longer be
+the case, the variations will obey very simple and regular laws. On the other hand, the different solid parts of
 which the bodies of these inhabitants are composed will
 undergo the same variations of form and volume.
-Let me make another hypothesis: suppose that light
-passes through media of different refractive indices, such
+
+Let me make another hypothesis: suppose that light passes through media of different refractive indices, such
 that the index of refraction is inversely proportional
 to R 2 − r 2 . Under these conditions it is clear that the
 rays of light will no longer be rectilinear but circular. To

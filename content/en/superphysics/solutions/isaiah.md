@@ -6,10 +6,6 @@ date: 2015-09-09
 image: /photos/objects/rubik.jpg
 description: "The money and moneyless transactions are visualized by artificial intelligence (AI) in order to guide policymakers and the public on the real-price trends."
 # AI also administers the Clearing Funds which are the proposed investment system that complements bonds.
-linkb: "/superphysics/ai-is-autonomous"
-linkbtext: "ai-is-autonomous"
-linkf: /social/supersociology
-linkftext: supersociology
 author: Juan
 icon: /icons/pantry.png
 aliases:

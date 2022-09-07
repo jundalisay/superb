@@ -4,10 +4,6 @@ heading: "A Brave New Year"
 date: 2021-12-06
 image: "/graphics/greet/bravenewyear.jpg"
 description: "As we go through the first parts of the crisis years, we wish everyone a strong Christmas and a Brave New Year ahead!"
-linkb: /medical/mental/principles/idea-of-self
-linkbtext: "idea-of-self"
-linkf: /medical/physical/solutions/covid-flu-star
-linkftext: "covid-flu-star"
 youtube: "J6F2_PF2wbo"
 author: Juan
 icon: /icons/xmastree.png

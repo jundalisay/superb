@@ -6,10 +6,6 @@ title: "The Fourth Branch of Government"
 date: 2022-01-31
 image: "/photos/objects/gavel.jpg"
 description: "We propose a Fourth Branch of Government called the Resources branch to make procurement and audit more systematic"
-linkb: "/medical/physical/solutions/how-to-stop-covid"
-linkbtext: "how-to-stop-covid"
-linkf: "/social/economics/solutions/pointtax"
-linkftext: "Pointtax"
 author: Juan
 icon: /icons/ss.png
 aliases:

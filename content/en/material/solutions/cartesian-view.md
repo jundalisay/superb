@@ -4,10 +4,6 @@ heading: "The Physical and Aethereal Planes"
 date: 2022-01-02
 image: /covers/descartes.jpg
 description: "The Cartesian View adds the causal aethereal visualization which creates physical movements."
-linkb: /material/principles/gravitational-relativity
-linkbtext: "gravitational-relativity"
-linkf: /material/principles/kepler-tensor
-linkftext: "Kepler Tensor"
 author: Juan
 icon: /icons/spmat.png
 aliases:

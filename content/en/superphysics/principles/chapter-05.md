@@ -8,11 +8,6 @@ heading: "Chapter 5"
 date: 2020-12-20
 image: /photos/meta/yinyang.jpg
 description: "Everything in existence is created by the two forces"
-# an idea of the Creator of that existence
-linkb: /superphysics/principles/chapter-04
-linkbtext: "Karma"
-linkf: /superphysics/principles/chapter-06
-linkftext: "Feelings"
 author: Juan
 icon: /icons/sp.png
 tags: ['Lao Tzu', 'Yin Yang']

@@ -3,7 +3,7 @@ title: "The Purpose of Conflicts"
 heading: "Chapter 1"
 # date: 2015-08-15
 image: "https://sorasystem.sirv.com/graphics/selftrump2.jpg"
-description: ""
+description: "Conflicts are a sign of injustice and no conflict on Earth is longer or more complicated than the Israeli-Palestinian conflict which has been said to originate from ancient times"
 author: Juan
 draft: true
 icon: /icons/spsoc.png
@@ -18,6 +18,7 @@ Fortunately, David Hume's Treatise (Book 3) deals exactly with justice in an in
 
 
 Sep 6 2016
+
 The origins of the Libyan Civil war was connected to Arab Spring which began in Tunisia and spread to Egypt.
 
 The biggest mistake was Qaddafi going on air and saying that he will basically kill all his enemies, including women and children. This threat made Obama act up and launch airstrikes against Qadaffi. Big mistake.

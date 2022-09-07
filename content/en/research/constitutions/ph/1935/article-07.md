@@ -1,15 +1,11 @@
 ---
 title: "The Executive Department"
-heading: Article 7 of The 1935 Constitution Simplified
-date: 2022-01-31
+heading: Article 7
+date: 2022-01-28
 # date: 1899-01-19
 description: "The executive power shall be vested in a President of the Philippines"
 image: "/graphics/1935.jpg"
-linkb: "/research/constitutions/ph/1935/article-06"
-linkbtext: "article-06"
-linkf: "/research/constitutions/ph/1935/article-08"
-linkftext: "article-08"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
 
 

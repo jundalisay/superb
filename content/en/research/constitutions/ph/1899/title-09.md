@@ -1,16 +1,13 @@
 ---
 title: The Secretaries Of Government
 date: 2022-01-27
-heading: Title 9 of the Malolos Constitution Simplified
+heading: Title 9
 # date: 1899-01-19
 description: "The Secretaries of Government according to the Malolos Constitution"
 image: "/graphics/1899.jpg"
-linkb: "/research/constitutions/ph/1899/title-07"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1899/title-13"
-linkftext: "Index"
-icon: /icons/sun.png
+icon: /flags/ph.png
 ---
+
 
 **Article 73**
 

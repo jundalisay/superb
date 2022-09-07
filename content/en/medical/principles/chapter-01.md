@@ -1,18 +1,13 @@
 ---
 heading: "Chapter 1"
 title: "The Self"
-# title: "David Hume's Idea of the Self"
-# heading: "There are 3 billion yous"
+# title: "David Hume's Idea of the Self" # heading: "There are 3 billion yous"
 date: 2020-01-31
 image: "/photos/social/monkey.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
 # keywords: ["David Hume"]
 # categories: ["Medical Superphysics"]
 tags: ["David Hume", "Ego"]
-linkb: /medical/physical/principles/5-paradigms
-linkbtext: "5 Paradigms"
-linkf: /medical/physical/solutions/how-to-stop-covid
-linkftext: "How to stop Covid"
 author: "Juan"
 icon: /icons/spmed.png
 aliases:

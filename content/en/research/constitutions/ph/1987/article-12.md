@@ -1,15 +1,13 @@
 ---
 title: National Economy and Patrimony
-heading: Article 12 of the 1987 Constitution Simplified
-date: 2022-01-31
+heading: Article 12
+date: 2022-01-23
 description: "The goals of the national economy are a more equitable distribution of opportunities, income, and wealth; a sustained increase in the amount of goods and services produced by the nation for the benefit of the people"
 image: "/graphics/1987.jpg"
-linkb: "/research/constitutions/ph/1987"
-linkbtext: "Index"
-linkf: "/research/constitutions/ph/1987"
-linkftext: "Index"
-icon: /favicon.png
+icon: /flags/ph.png
 ---
+
+
 
 ## Article 12
 	

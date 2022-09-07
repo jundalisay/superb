@@ -1,13 +1,9 @@
 ---
 title: The Fourth Geometry
 heading: Chapter 3b
-date: 2022-02-01
+date: 2022-02-10
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
-linkb: "/research/poincare/science/chapter-03"
-linkbtext: "chapter-03"
-linkf: "/research/poincare/science/chapter-04"
-linkftext: "Chapter 4"
 author: "H. Poincare"
 icon: /icons/poincare.jpg
 ---
