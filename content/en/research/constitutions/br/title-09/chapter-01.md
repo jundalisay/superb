@@ -4,37 +4,34 @@ heading: "Chapter 7"
 date: 2021-11-20
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br/title-05
-linkbtext: "Title 5"
-linkf: /research/constitutions/br/title-05
-linkftext: "Title 5"
 icon: "/flags/br.png"
 ---
 
 
-Article 234.  It is forbidden for the Union to assume, directly or indirectly, as a result of the creation of a state, burdens related to expenses with inactive personnel and with charges and repayments of internal or foreign debt of the public administration, including those of the indirect administration.
+Article 234.  The Union cannot  assume, directly or indirectly, as a result of the creation of a state, burdens related to expenses with:
+- inactive personnel 
+- charges and repayments of internal or foreign debt of the public administration, including those of the indirect administration.
 
-Article 235. During the first ten years after the creation of a state the following
-basic rules shall be observed:
 
-1. the Legislative Assembly shall be composed of seventeen Deputies if the
-population of the state is less than six hundred thousand inhabitants, and of twenty-
-four Deputies if it is equal to or greater than this number, up to one million and five
-hundred thousand inhabitants;
-2.  the Government shall have at most ten Secretariats;
-3.   the Audit Court shall have three members, appointed by the elected
-Governor, among Brazilians of proven good repute and notable knowledge;
-4. the Court of Justice shall have seven Judges;
+Article 235. During the first 10 years after the creation of a state, the following basic rules shall be observed:
+
+1. the Legislative Assembly shall have:
+  - 17 Deputies if the population of the state is less than 600,000 inhabitants
+  - 24 Deputies if it is equal to or greater than this number, up to 1.5m population
+2. the Government shall have at most 10 Secretariats
+3. the Audit Court shall have three members, appointed by the elected Governor, among Brazilians of proven good repute and notable knowledge;
+4. the Court of Justice shall have seven Judges
 5. the first Judges shall be appointed by the elected Governor, chosen in the
 following manner:
+
 a) five of them from among judges with more than thirty-five years of age, in
 exercise within the area of the new state or of the original one;
 b) two of them from among public prosecutors, under the same conditions, and
 from among attorneys of proven good repute and legal knowledge, with at
 least ten years of professional practice, complying with the procedures set
 forth in this Constitution;
-6.  in the case of a state which originated from a federal territory, the first
-five Judges may be chosen from among judges from any part of the country;
+
+6.  in the case of a state which originated from a federal territory, the first 5 Judges may be chosen from among judges from any part of the country
 7.   in each judicial district the first Judge, the first Public Prosecutor and the
 first Public Defender shall be appointed by the elected Governor after a public entrance
 examination of tests and presentation of academic and professional credentials;
@@ -56,8 +53,8 @@ in this article, shall be regulated by the state Constitution;
 11.  the budgetary personnel expenses shall not exceed fifty percent of the
 revenues of the state.
 
-Article 236.  Notary and registration services shall be exercised by private entities
-by Government delegation.
+Article 236.  Notary and registration services shall be exercised by private entities by Government delegation.
+
 Paragraph 1. The law shall regulate the activities, discipline the civil and criminal
 liability of notaries, registrars and their officials and define the supervision of their
 acts by the Judicial Power.
@@ -89,28 +86,30 @@ the criteria for withdrawal in the situations provided for in specific laws, wit
 exception of withdrawal by reason of marriage, it being forbidden the distribution
 of the revenues referred to in the head paragraph of this article, for deposit in the
 personnal accounts of the participants.
+
 Paragraph 3. Employees who receive monthly remuneration of up to two minimum
-wages from employers who contribute to the Social Integration Programme and to the
-156
-  Civil Servants Asset Development Programme shall be ensured the annual payment
-of one minimum wage, in which value the income of the individual accounts shall be
+wages from employers who contribute to the Social Integration Programme and to the Civil Servants Asset Development Programme shall be ensured the annual payment of one minimum wage, in which value the income of the individual accounts shall be
 computed, in the case of those who already participated in such programmes before
 the date of the promulgation of this Constitution.
 Paragraph 4. Funding of the unemployment insurance programme shall receive
 an additional contribution from companies in which employee turnover exceeds the
 average turnover rate of the sector, in the manner established by law.
-Article 240.  The present compulsory contributions calculated on the payroll, made
-by employers, intended for private social service and professional training entities
-linked to the labour union system, are excluded from the provisions of article 195.
-Article 241.  The Union, the States, the Federal District, and the Municipalities shall
-issue legislation to regulate public syndicates and cooperation agreements between
-members of the Federation, authorizing the joint management of public services, as
+
+Article 240
+
+The present compulsory contributions calculated on the payroll, made by employers, intended for private social service and professional training entities linked to the labour union system, are excluded from the provisions of article 195.
+
+Article 241
+
+The Union, the States, the Federal District, and the Municipalities shall issue legislation to regulate public syndicates and cooperation agreements between members of the Federation, authorizing the joint management of public services, as
 well as the transfer, in whole or in part, of charges, services, personnel, and goods
 essential to the continued rendering of the services transferred. (CA No. 19, 1998)
-Article 242. The principle of article 206, IV, shall not apply to the official educational
-institutions created by state or municipal law and in existence on the date of the
-promulgation of this Constitution, which are not totally or predominantly maintained
+
+Article 242
+
+The principle of article 206, IV, shall not apply to the official educational institutions created by state or municipal law and in existence on the date of the promulgation of this Constitution, which are not totally or predominantly maintained
 with public funds.
+
 Paragraph 1. The teaching of Brazilian History shall take into account the
 contribution of the different cultures and ethnic groups to the formation of the
 Brazilian people.

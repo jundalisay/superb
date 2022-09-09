@@ -1,18 +1,14 @@
 ---
 title: "The Council of the Republic and the National Defense Council"
 heading: "Title 4 Chapter 4 Section 5"
-date: 2021-11-20
+date: 2021-11-16
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br/
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 
 
-SUBSection I: The Council of the Republic
+Sub-Section 1: The Council of the Republic
 
 Article 89. The Council of the Republic is a higher body for consultation by the President of the Republic. 
 

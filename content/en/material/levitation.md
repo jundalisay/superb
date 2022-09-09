@@ -3,10 +3,6 @@ title: "Material Relativity: Action at a Distance"
 date: 2022-08-04
 image: /graphics/physics/aethertech.png
 description: "The aether drag has always been in the measurements done by physicists on light"
-linkb: /material/
-linkbtext: "Index"
-linkf: /material/
-linkftext: "Index"
 author: Juan
 icon: /icons/spmat.png
 ---

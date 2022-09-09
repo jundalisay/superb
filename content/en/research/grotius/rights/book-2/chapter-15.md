@@ -1,10 +1,27 @@
-CHAPTER XV  Treaties and on Engagements made by Delegates, Exceeding their Power.
+---
+title: Treaties and on Engagements made by Delegates, Exceeding their Power
+heading: Chapter 15
+date: 2022-07-06
+image: /covers/warpeace.jpg
+description: ""
+author: "Hugo Grotius"
+---
 
-    Public Conventions—Divided into treaties, engagements, and other compacts—Difference between treaties and the engagements made by delegates exceeding their powers—Treaties founded on the law of nature—Their origin—Treaties founded on still more extensive principles—Treaties with those, who are strangers to the true religion, prohibited neither by the Jewish nor Christian law—Cautions respecting such treaties—Christians bound to unite against the enemies of the Christian religion—Among a number of Allies in war, which of them have the first pretensions to assistance—Tacit renewal of treaties—The effect of perfidy in one of the contracting parties considered—How far the unauthorized engagements of delegates are binding, when the sovereigns refuse to ratify them—The Caudian Convention considered—Whether the knowledge and silence of the Sovereign makes those unauthorized conventions binding—The Convention of Luctatius considered.
 
-I. Ulpian has divided conventions into two kinds, public and private, and he has not explained a public convention upon the usual principles, but has confined it to a treaty of peace, which he alleges as his first example, and he has made use of the engagements entered into by the generals of two contending powers, as an instance of private conventions. By public conventions therefore he means those, which cannot be made but by the authority and in the name of the sovereign power, thus distinguishing them not only from the private contracts of individuals, but ALSO from the PERSONAL contracts of sovereigns themselves. And indeed private injuries and contracts, no less than public treaties frequently prove the origin of wars. And as private contracts have been already so amply discussed, the higher order of contracts, which come under the denomination of treaties, will necessarily form the leading part in our farther inquiries.
+Public Conventions—Divided into treaties, engagements, and other compacts—Difference between treaties and the engagements made by delegates exceeding their powers—
 
-167 II. and III. Now public conventions may be divided into treaties, engagements, and other compacts.
+Treaties founded on the law of nature—Their origin—Treaties founded on still more extensive principles—Treaties with those, who are strangers to the true religion, prohibited neither by the Jewish nor Christian law—Cautions respecting such treaties—Christians bound to unite against the enemies of the Christian religion—Among a number of Allies in war, which of them have the first pretensions to assistance—Tacit renewal of treaties—The effect of perfidy in one of the contracting parties considered—How far the unauthorized engagements of delegates are binding, when the sovereigns refuse to ratify them—The Caudian Convention considered—Whether the knowledge and silence of the Sovereign makes those unauthorized conventions binding—The Convention of Luctatius considered.
+
+
+## Part 1: 
+
+Ulpian has divided conventions into two kinds, public and private, and he has not explained a public convention upon the usual principles, but has confined it to a treaty of peace, which he alleges as his first example, and he has made use of the engagements entered into by the generals of two contending powers, as an instance of private conventions. By public conventions therefore he means those, which cannot be made but by the authority and in the name of the sovereign power, thus distinguishing them not only from the private contracts of individuals, but ALSO from the PERSONAL contracts of sovereigns themselves. And indeed private injuries and contracts, no less than public treaties frequently prove the origin of wars. And as private contracts have been already so amply discussed, the higher order of contracts, which come under the denomination of treaties, will necessarily form the leading part in our farther inquiries.
+
+167 
+
+## Parts 2 and 3
+
+Public conventions may be divided into treaties, engagements, and other compacts.
 
 The ninth book of Livy may be consulted on the distinction between treaties and engagements, where the historian informs us, that treaties are those contracts, which are made by the express authority of the sovereign power, and in which the people invoke the divine vengeance on their heads, if they violate their engagements. Among the Romans the persons employed in declaring war and making peace, were in the conclusion of these solemn treaties, always accompanied by the principal herald, who took the oath in the name of the whole people. A sponsio, or ENGAGEMENT, is what was made by persons, who had no express commission for that purpose from the sovereign power, and whose acts consequently required a further ratification from the sovereign himself.40
 

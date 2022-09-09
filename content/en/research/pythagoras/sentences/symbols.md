@@ -1,14 +1,13 @@
-+++
-title= "Pythagoric Sentences= The Symbols"
-date= 2015-09-09
-image= "/covers/sentences.jpg"
-description= "From The Protreptics Of Iamblichus"
-author= "Iamblichus"
-linkb= "/research/pythagoras/sentences/strobeus"
-linkbtext= "Strobeus"
-linkf= "/research/pythagoras/sentences/tetractys"
-linkftext= "Tetractys"
-+++
+---
+title: "Pythagoric Sentences: The Symbols"
+date: 2022-04-10
+# date: 2022-04-13
+image: /covers/sentences.jpg
+description: "The Protreptics Of Iamblichus"
+author: Iamblichus
+# icon: /icons/spmat.png
+---
+
 
 As we live through soul, it must be said that by the virtue of this we live well; just as because we see through the eyes, we see well through the virtue of these.
 

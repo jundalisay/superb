@@ -1,15 +1,12 @@
 ---
 title: "The Legislative Power"
 heading: "Chapter 1 Sections 1-3"
-date: 2021-11-20
+date: 2021-11-30
 image: "/flags/br.png"
 description: "The Legislative Power is exercised by the National Congress, composed of the Chamber of Deputies the Federal Senate"
-linkb: /research/constitutions/br/title-04
-linkbtext: "title-04"
-linkf: /research/constitutions/br/title-04/chapter-01b
-linkftext: "Chapter 1b"
 icon: "/flags/br.png"
 ---
+
 
 
 ## Section I The National Congress

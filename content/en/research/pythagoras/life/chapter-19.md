@@ -1,16 +1,13 @@
-+++
-title= "Abaris"
-date= 2015-09-19
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-18"
-linkbtext= "Chapter 18"
-linkf= "/research/pythagoras/life/chapter-20"
-linkftext= "chapter-20"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Abaris"
+heading: "Chapter 19"
+date: 2015-09-12
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Universally, Pythagoras discovered many paths of learning."
+icon: "/icons/py.png"
+---
+
 
 
 Universally, Pythagoras discovered many paths of learning. 

@@ -1,8 +1,23 @@
-CHAPTER XIII. On Oaths.
+---
+title: Oaths
+heading: Chapter 13
+date: 2022-07-06
+image: /covers/warpeace.jpg
+description: ""
+author: "Hugo Grotius"
+---
 
-    Efficacy of oaths among Pagans—Deliberation requisite in oaths—The sense, in which oaths are understood to be taken, to be adhered to—To be taken according to the usual meaning of the words—The subject of them to be lawful—Not to counteract moral obligations—In what sense oaths are an appeal to God—The purport of oaths—To be faithfully observed in all cases—The controul of sovereigns over the oaths of subjects—Observations on our Saviour's prohibition of oaths—Forms substituted for oaths.
 
-I. The sanctity of an oath with regard to promises, agreements, and contracts, has always been held in the greatest esteem, in every age and among every people. For as Sophocles has said in his Hippodamia, "The soul is bound to greater caution by the addition of an oath. For it guards us against two things, most to be avoided, the reproach of friends, and the wrath of heaven." In addition to which the authority of Cicero may be quoted, who says, our forefathers intended that an oath should be the best security for sincerity of affirmation, and the observance of good faith. "For, as he observes in another place, there can be no stronger tie, to the fulfilment of our word and promise, than an oath, which is a solemn appeal to the testimony of God."
+The efficacy of oaths among Pagans—
+
+Deliberation requisite in oaths—The sense, in which oaths are understood to be taken, to be adhered to—To be taken according to the usual meaning of the words—
+
+The subject of them to be lawful—Not to counteract moral obligations—In what sense oaths are an appeal to God—The purport of oaths—To be faithfully observed in all cases—The controul of sovereigns over the oaths of subjects—Observations on our Saviour's prohibition of oaths—Forms substituted for oaths.
+
+
+## Part 1: The sanctity of an oath
+
+The sanctity of an oath with regard to promises, agreements, and contracts, has always been held in the greatest esteem, in every age and among every people. For as Sophocles has said in his Hippodamia, "The soul is bound to greater caution by the addition of an oath. For it guards us against two things, most to be avoided, the reproach of friends, and the wrath of heaven." In addition to which the authority of Cicero may be quoted, who says, our forefathers intended that an oath should be the best security for sincerity of affirmation, and the observance of good faith. "For, as he observes in another place, there can be no stronger tie, to the fulfilment of our word and promise, than an oath, which is a solemn appeal to the testimony of God."
 
 II. The next point, to be considered, is the original force and extent of oaths.
 

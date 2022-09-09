@@ -1,12 +1,25 @@
-PART XII FINANCE, PROPERTY, CONTRACTS AND SUITS
+---
+title: "Finance, Property, Contracts And Suits"
+heading: "Part 12"
+date: 2021-10-22
+image: "/flags/in.png"
+description: ""
+icon: /flags/in.png
+---
 
-CHAPTER I.—F INANCE
 
-1
-[264. Interpretation.—In this Part, “Finance Commission” means a Finance Commission constituted
-under article 280.]
+## Part 12: Finance, Property, Contracts And Suits
+
+CHAPTER 1: FINANCE
+
+
+264. Interpretation.
+
+In this Part, “Finance Commission” means a Finance Commission constituted under article 280.
+
 265. Taxes not to be imposed save by authority of law.—No tax shall be levied or collected except
 by authority of law.
+
 266. Consolidated Funds and public accounts of India and of the States.—(1) Subject to the
 provisions of article 267 and to the provisions of this Chapter with respect to the assignment of the whole
 or part of the net proceeds of certain taxes and duties to States, all revenues received by the Government of
@@ -22,7 +35,10 @@ be.
 (3) No moneys out of the Consolidated Fund of India or the Consolidated Fund of a State shall be
 appropriated except in accordance with law and for the purposes and in the manner provided in this
 Constitution.
-267. Contingency Fund.—(1) Parliament may by law establish a Contingency Fund in the nature of
+
+267. Contingency Fund
+
+1) Parliament may by law establish a Contingency Fund in the nature of
 an imprest to be entitled “the Contingency Fund of India” into which shall be paid from time to time such
 sums as may be determined by such law, and the said Fund shall be placed at the disposal of the President
 1. Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
@@ -34,7 +50,9 @@ determined by such law, and the said Fund shall be placed at the disposal of the
 to enable advances to be made by him out of such Fund for the purposes of meeting unforeseen
 expenditure pending authorisation of such expenditure by the Legislature of the State by law under article 205
 or article 206.
-Distribution of Revenues between the Union and the States
+
+##  Distribution of Revenues between the Union and the States
+
 268. Duties levied by the Union but collected and appropriated by the States.—(1) Such stamp
 duties 2*** as are mentioned in the Union List shall be levied by the Government of India but shall be
 collected—
@@ -44,8 +62,10 @@ India, and
 (2) The proceeds in any financial year of any such duty leviable within any State shall not form part of
 the Consolidated Fund of India, but shall be assigned to that State.
 4
+
 268A. [Service tax levied by Union and collected and appropriated by the Union and the State.].—
 Omitted by the constitution (One Hundred and First Amendment) Act, 2016, s. 7 (w.e.f. 16-9-2016).
+
 269. Taxes levied and collected by the Union but assigned to the States.— 5 [(1) Taxes on the sale
 or purchase of goods and taxes on the consignment of goods 6 [except as provided in article 269A] shall be
 levied and collected by the Government of India but shall be assigned and shall be deemed to have been
@@ -61,13 +81,12 @@ consignment takes place in the course of inter-State trade or commerce.
 proceeds attributable to Union territories, shall not form part of the Consolidated Fund of India, but shall
 be assigned to the States within which that tax is leviable in that year, and shall be distributed among those
 States in accordance with such principles of distribution as may be formulated by Parliament by law.]
-7
 [(3) Parliament may by law formulate principles for determining when a 8 [sale or purchase of, or
 consignment of, goods] takes place in the course of inter-State trade or commerce.]
-9
+
 [269A. Levy and collection of goods and services tax in course of inter-State trade or
 commerce.— (1) Goods and services tax on supplies in the course of inter-State trade or commerce shall
-1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
+<!-- 1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 2. The words “and such duties of excise on medicinal and toilet preparations” omitted by the Constitution (One Hundred and First
 Amendment) Act, 2016, s. 6 (w.e.f. 16-9-2016).
 3. Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for “State specified in Part C of the First Schedule”
@@ -78,13 +97,14 @@ Amendment) Act, 2016, s. 6 (w.e.f. 16-9-2016).
 6. Ins. by the Constitution (One Hundred and First Amendment) Act, 2016 s. 8 (w.e.f. 16-9-2016).
 7. Ins. by the Constitution (Sixth Amendment) Act, 1956, s. 3 (w.e.f. 11-9-1956).
 8. Subs. by the Constitution (Forty-sixth Amendment) Act, 1982, s. 2, for “sale or purchase of good” (w.e.f. 2-2-1983).
-9. Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 9 (w.e.f. 16-9-2016).
-116be levied and collected by the Government of India and such tax shall be apportioned between the Union
+9. Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 9 (w.e.f. 16-9-2016). -->
+
+be levied and collected by the Government of India and such tax shall be apportioned between the Union
 and the States in the manner as may be provided by Parliament by law on the recommendations of the
 Goods and Services Tax Council.
-Explanation.—For the purposes of this clause, supply of goods, or of services, or both in the course
+<!-- Explanation.—For the purposes of this clause, supply of goods, or of services, or both in the course
 of import into the territory of India shall be deemed to be supply of goods, or of services, or both in the
-course of inter-State trade or commerce.
+course of inter-State trade or commerce. -->
 (2) The amount apportioned to a State under clause (1) shall not form part of the Consolidated Fund
 of India.
 (3) Where an amount collected as tax levied under clause (1) has been used for payment of the tax
@@ -118,17 +138,19 @@ considering the recommendations of the Finance Commission.]
 in articles 269 and 270, Parliament may at any time increase any of the duties or taxes referred to in those
 articles 4 [except the goods and services tax under article 246A,] by a surcharge for purposes of the Union
 and the whole proceeds of any such surcharge shall form part of the Consolidated Fund of India.
-272. [Taxes which are levied and collected by the Union and may be distributed between the Union and
-the States.].–Omitted by the Constitution (Eightieth Amendment) Act, 2000, s. 4 (w.e.f. 9-6-2000).
+<!-- 272. [Taxes which are levied and collected by the Union and may be distributed between the Union and
+the States.].
+–Omitted by the Constitution (Eightieth Amendment) Act, 2000, s. 4 (w.e.f. 9-6-2000).
 1. Subs. by the Constitution (Eightieth Amendment) Act, 2000, s. 3 (w.e.f. 9-6-2000).
 2. The words and figures in 268 and 269 substituted as “268, 268A and 269” by the Constitution (Eighty-eighth Amendment) Act,
 2003, s. 3. For the text of that Act, see Appendix-III (not enforced) and further substituted by the Constitution (One Hundred
 and First Amendment) Act, 2016, s. 10 (w.e.f. 16-9-2016).
 3. Ins. by ibid.
-4. Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 11 (w.e.f. 16-9-2016).
-117273. Grants in lieu of export duty on jute and jute products.—(1) There shall be charged on the
+4. Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 11 (w.e.f. 16-9-2016). -->
+
+273. Grants in lieu of export duty on jute and jute products.—(1) There shall be charged on the
 Consolidated Fund of India in each year as grants-in-aid of the revenues of the States of Assam, Bihar,
-1
+
 [Odisha] and West Bengal, in lieu of assignment of any share of the net proceeds in each year of export
 duty on jute and jute products to those States, such sums as may be prescribed.
 (2) The sums so prescribed shall continue to be charged on the Consolidated Fund of India so long as
@@ -191,21 +213,19 @@ be invalid on the ground that it relates to a tax on income.
 (2) The total amount payable in respect of any one person to the State or to any one municipality, district
 board, local board or other local authority in the State by way of taxes on professions, trades, callings and
 employments shall not exceed 1 [two thousand and five hundred rupees] per annum.
-2
-*
-*
-*
-*
-*
 (3) The power of the Legislature of a State to make laws as aforesaid with respect to taxes on
 professions, trades, callings and employments shall not be construed as limiting in any way the power of
 Parliament to make laws with respect to taxes on income accruing from or arising out of professions, trades,
 callings and employments.
-277. Savings.—Any taxes, duties, cesses or fees which, immediately before the commencement of this
+
+277. Savings
+
+Any taxes, duties, cesses or fees which, immediately before the commencement of this
 Constitution, were being lawfully levied by the Government of any State or by any municipality or other
 local authority or body for the purposes of the State, municipality, district or other local area may,
 notwithstanding that those taxes, duties, cesses or fees are mentioned in the Union List, continue to be
 levied and to be applied to the same purposes until provision to the contrary is made by Parliament by law.
+
 278. [Agreement with States in Part B of the First Schedule with regard to certain financial matters.]-
 Omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch.(w.e.f. 1-11-1956).
 279. Calculation of “net proceeds”, etc.—(1) In the foregoing provisions of this Chapter, “net
@@ -218,18 +238,19 @@ or an order of the President may, in any case where under this Part the proceeds
 may be, assigned to any State, provide for the manner in which the proceeds are to be calculated, for the
 time from or at which and the manner in which any payments are to be made, for the making of adjustments
 between one financial year and another, and for any other incidental or ancillary matters.
-3
+
 [279A. Goods and Services Tax Council.—(1) The President shall, within sixty days from the date
 of commencement of the Constitution (One Hundred and First Amendment) Act, 2016, by order, constitute
 a Council to be called the Goods and Services Tax Council.
 (2) The Goods and Services Tax Council shall consist of the following members, namely:—
 (a) the Union Finance Minister—Chairperson;
 (b) the Union Minister of State in charge of Revenue or Finance—Member ;
-1. Subs. by the Constitution (Sixtieth Amendment) Act, 1988, s. 2, for “two hundred and fifty rupees”. (w.e.f. 20-12-1988).
+<!-- 1. Subs. by the Constitution (Sixtieth Amendment) Act, 1988, s. 2, for “two hundred and fifty rupees”. (w.e.f. 20-12-1988).
 2. Proviso omitted by ibid.
-3. Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 12 (w.e.f. 12-9-2016).
+3. Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 12 (w.e.f. 12-9-2016). -->
 119(c) the Minister in charge of Finance or Taxation or any other Minister nominated by each State
 Government—Members.
+
 (3) The Members of the Goods and Services Tax Council referred to in sub-clause (c) of clause (2)
 shall, as soon as may be, choose one amongst themselves to be the Vice-Chairperson of the Council for
 such period as they may decide.
@@ -307,11 +328,14 @@ Miscellaneous Financial Provisions
 282. Expenditure defrayable by the Union or a State out of its revenues.—The Union or a State
 may make any grants for any public purpose, notwithstanding that the purpose is not one with respect to
 which Parliament or the Legislature of the State, as the case may be, may make laws.
-1. Ins. by the Constitution (Seventy-third Amendment) Act, 1992, s. 3 (w.e.f. 24-4-1993).
+<!-- 1. Ins. by the Constitution (Seventy-third Amendment) Act, 1992, s. 3 (w.e.f. 24-4-1993).
 2. Ins. by the Constitution (Seventy-fourth Amendment) Act, 1992, s. 3 (w.e.f. 1-6-1993).
-3. Sub-clause (c) re-lettered as sub-clause (d) by ibid.
-121283. Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the public
-accounts.—(1) The custody of the Consolidated Fund of India and the Contingency Fund of India, the
+3. Sub-clause (c) re-lettered as sub-clause (d) by ibid. -->
+
+283. Custody, etc., of Consolidated Funds, Contingency Funds and moneys credited to the public
+accounts
+
+1) The custody of the Consolidated Fund of India and the Contingency Fund of India, the
 payment of moneys into such Funds, the withdrawal of moneys therefrom, the custody of public moneys
 other than those credited to such Funds received by or on behalf of the Government of India, their payment
 into the public account of India and the withdrawal of moneys from such account and all other matters
@@ -324,8 +348,10 @@ the public account of the State and the withdrawal of moneys from such account a
 connected with or ancillary to matters aforesaid shall be regulated by law made by the Legislature of the
 State, and, until provision in that behalf is so made, shall be regulated by rules made by the Governor 1 ***
 of the State.
+
 284. Custody of suitors’ deposits and other moneys received by public servants and courts.—All
-moneys received by or deposited with—
+moneys received by or deposited with:
+
 (a) any officer employed in connection with the affairs of the Union or of a State in his capacity as
 such, other than revenues or public moneys raised or received by the Government of India or the
 Government of the State, as the case may be, or
@@ -344,31 +370,21 @@ such supply takes place]—
 (a) outside the State; or
 (b) in the course of the import of the 3 [goods or services or both] into, or export of the 3 [goods or
 services or both]out of, the territory of India.
-4
-*
-*
-*
-*
-*
-5
+
 [(2) Parliament may by law formulate principles for determining when a 6 [supply of goods or of services
 or both] in any of the ways mentioned in clause (1).]
-1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
+<!-- 1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 2. Subs. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 13(i)(A), for the words "the sale or purchase of
 goods where such sale or purchase takes place" (w.e.f. 16-9-2016).
 3. Subs. by s. 13(i)(B), ibid., for the words “goods”.
 4. Explanation to cl. (1) omitted by the Constitution (Sixth Amendment) Act, 1956, s. 4 (w.e.f. 11-9-1956).
 5. Subs. by ibid. for cls. (2) and (3).
 6. Subs. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 13(ii), for the words “sale or purchase of goods
-takes place” (w.e.f. 16-9-2016).
-1221
-*
-*
-*
-*
-*
-287. Exemption from taxes on electricity.—Save in so far as Parliament may by law otherwise
-provide, no law of a State shall impose, or authorise the imposition of, a tax on the consumption or sale of
+takes place” (w.e.f. 16-9-2016). -->
+
+**Article 287. Exemption from taxes on electricity**
+
+Save in so far as Parliament may by law otherwise provide, no law of a State shall impose, or authorise the imposition of, a tax on the consumption or sale of
 electricity (whether produced by a Government or other persons) which is—
 (a) consumed by the Government of India, or sold to the Government of India for consumption by
 that Government; or
@@ -380,23 +396,27 @@ the price of electricity sold to the Government of India for consumption by that
 railway company as aforesaid for consumption in the construction, maintenance or operation of any railway,
 shall be less by the amount of the tax than the price charged to other consumers of a substantial quantity of
 electricity.
-288. Exemption from taxation by States in respect of water or electricity in certain cases.—
-(1)Save in so far as the President may by order otherwise provide, no law of a State in force immediately
+
+Article 288. Exemption from taxation by States in respect of water or electricity in certain cases.—
+
+(1) Save in so far as the President may by order otherwise provide, no law of a State in force immediately
 before the commencement of this Constitution shall impose, or authorise the imposition of, a tax in respect
 of any water or electricity stored, generated, consumed, distributed or sold by any authority established by
 any existing law or any law made by Parliament for regulating or developing any inter-State river or river-
 valley.
-Explanation.—The expression “law of a State in force” in this clause shall include a law of a State
+<!-- Explanation.—The expression “law of a State in force” in this clause shall include a law of a State
 passed or made before the commencement of this Constitution and not previously repealed, notwithstanding
-that it or parts of it may not be then in operation either at all or in particular areas.
+that it or parts of it may not be then in operation either at all or in particular areas. -->
 (2) The Legislature of a State may by law impose, or authorise the imposition of, any such tax as is
 mentioned in clause (1), but no such law shall have any effect unless it has, after having been reserved for
 the consideration of the President, received his assent; and if any such law provides for the fixation of the
 rates and other incidents of such tax by means of rules or orders to be made under the law by any authority,
 the law shall provide for the previous consent of the President being obtained to the making of any such
 rule or order.
-289. Exemption of property and income of a State from Union taxation.—(1) The property and
-income of a State shall be exempt from Union taxation.
+
+**Article 289. Exemption of property and income of a State from Union taxation**
+
+1) The property and income of a State shall be exempt from Union taxation.
 (2) Nothing in clause (1) shall prevent the Union from imposing, or authorising the imposition of, any
 tax to such extent, if any, as Parliament may by law provide in respect of a trade or business of any kind
 carried on by, or on behalf of, the Government of a State, or any operations connected therewith, or any
@@ -404,12 +424,15 @@ property used or occupied for the purposes of such trade or business, or any inc
 connection therewith.
 (3) Nothing in clause (2) shall apply to any trade or business, or to any class of trade or business, which
 Parliament may by law declare to be incidental to the ordinary functions of Government.
-290. Adjustment in respect of certain expenses and pensions.—Where under the provisions of this
-Constitution the expenses of any court or Commission, or the pension payable to or in respect of a person
+
+
+**Article 290. Adjustment in respect of certain expenses and pensions**
+
+Where under the provisions of this Constitution the expenses of any court or Commission, or the pension payable to or in respect of a person
 who has served before the commencement of this Constitution under the Crown in India or after such
 commencement in connection with the affairs of the Union or of a State, are charged on the Consolidated
 Fund of India or the Consolidated Fund of a State, then, if—
-1. Cl. (3) omitted by the Constitution (One Hundred and First Amendment) Act, 2016, s. 13(iii) (w.e.f. 16-9-2016).
+<!-- 1. Cl. (3) omitted by the Constitution (One Hundred and First Amendment) Act, 2016, s. 13(iii) (w.e.f. 16-9-2016). -->
 123(a) in the case of a charge on the Consolidated Fund of India, the court or Commission serves any
 of the separate needs of a State, or the person has served wholly or in part in connection with the affairs
 of a State; or
@@ -420,7 +443,7 @@ there shall be charged on and paid out of the Consolidated Fund of the State or,
 Consolidated Fund of India or the Consolidated Fund of the other State, such contribution in respect of the
 expenses or pension as may be agreed, or as may in default of agreement be determined by an arbitrator to
 be appointed by the Chief Justice of India.
-1
+
 [290A. Annual payment to certain Devaswom Funds.—A sum of forty-six lakhs and fifty thousand
 rupees shall be charged on, and paid out of, the Consolidated Fund of the State of Kerala every year to the
 Travancore Devaswom Fund; and a sum of thirteen lakhs and fifty thousand rupees shall be charged on,
@@ -429,121 +452,4 @@ established in that State for the maintenance of Hindu temples and shrines in th
 that State on the 1st day of November, 1956, from the State of Travancore-Cochin.]
 291. [Privy purse sums of Rulers.].–Omitted by the Constitution (Twenty-sixth Amendment) Act, 1971,
 s. 2 (w.e.f. 28-12-1971).
-C HAPTER II.—B ORROWING
-292. Borrowing by the Government of India.—The executive power of the Union extends to
-borrowing upon the security of the Consolidated Fund of India within such limits, if any, as may from time
-to time be fixed by Parliament by law and to the giving of guarantees within such limits, if any, as may be
-so fixed.
-293. Borrowing by States.—(1) Subject to the provisions of this article, the executive power of a State
-extends to borrowing within the territory of India upon the security of the Consolidated Fund of the State
-within such limits, if any, as may from time to time be fixed by the Legislature of such State by law and to
-the giving of guarantees within such limits, if any, as may be so fixed.
-(2) The Government of India may, subject to such conditions as may be laid down by or under any law
-made by Parliament, make loans to any State or, so long as any limits fixed under article 292 are not
-exceeded, give guarantees in respect of loans raised by any State, and any sums required for the purpose of
-making such loans shall be charged on the Consolidated Fund of India.
-(3) A State may not without the consent of the Government of India raise any loan if there is still
-outstanding any part of a loan which has been made to the State by the Government of India or by its
-predecessor Government, or in respect of which a guarantee has been given by the Government of India or
-by its predecessor Government.
-(4) A consent under clause (3) may be granted subject to such conditions, if any, as the Government of
-India may think fit to impose.
-C HAPTER III.—P ROPERTY , C ONTRACTS , R IGHTS , L IABILITIES ,
-O BLIGATIONS AND S UITS
-294. Succession to property, assets, rights, liabilities and obligations in certain cases.—As from
-the commencement of this Constitution—
-1. Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 19 (w.e.f. 1-11-1956).
-2. Subs. by the Madras State (Alteration of Name) Act, 1968 (53 of 1968), s. 4, for “Madras” (w.e.f. 14-1-1969).
-124(a) all property and assets which immediately before such commencement were vested in His
-Majesty for the purposes of the Government of the Dominion of India and all property and assets which
-immediately before such commencement were vested in His Majesty for the purposes of the
-Government of each Governor’s Province shall vest respectively in the Union and the corresponding
-State, and
-(b) all rights, liabilities and obligations of the Government of the Dominion of India and of the
-Government of each Governor's Province, whether arising out of any contract or otherwise, shall be the
-rights, liabilities and obligations respectively of the Government of India and the Government of each
-corresponding State,
-subject to any adjustment made or to be made by reason of the creation before the commencement of this
-Constitution of the Dominion of Pakistan or of the Provinces of West Bengal, East Bengal, West Punjab
-and East Punjab.
-295. Succession to property, assets, rights, liabilities and obligations in other cases.—(1) As from
-the commencement of this Constitution—
-(a) all property and assets which immediately before such commencement were vested in any
-Indian State corresponding to a State specified in Part B of the First Schedule shall vest in the Union,
-if the purposes for which such property and assets were held immediately before such commencement
-will thereafter be purposes of the Union relating to any of the matters enumerated in the Union List,
-and
-(b) all rights, liabilities and obligations of the Government of any Indian State corresponding to a State
-specified in Part B of the First Schedule, whether arising out of any contract or otherwise, shall be the rights,
-liabilities and obligations of the Government of India, if the purposes for which such rights were acquired
-or liabilities or obligations were incurred before such commencement will thereafter be purposes of the
-Government of India relating to any of the matters enumerated in the Union List,
-subject to any agreement entered into in that behalf by the Government of India with the Government of
-that State.
-(2) Subject as aforesaid, the Government of each State specified in Part B of the First Schedule shall, as
-from the commencement of this Constitution, be the successor of the Government of the corresponding Indian
-State as regards all property and assets and all rights, liabilities and obligations, whether arising out of any
-contract or otherwise, other than those referred to in clause (1).
-296. Property accruing by escheat or lapse or as bona vacantia.—Subject as hereinafter provided, any
-property in the territory of India which, if this Constitution had not come into operation, would have accrued
-to His Majesty or, as the case may be, to the Ruler of an Indian State by escheat or lapse, or as bona vacantia
-for want of a rightful owner, shall, if it is property situate in a State, vest in such State, and shall, in any other
-case, vest in the Union:
-Provided that any property which at the date when it would have so accrued to His Majesty or to the
-Ruler of an Indian State was in the possession or under the control of the Government of India or the
-Government of a State shall, according as the purposes for which it was then used or held were purposes of
-the Union or of a State, vest in the Union or in that State.
-Explanation.—In this article, the expressions “Ruler” and “Indian State” have the same meanings as in
-article 363.
-1
-[297. Things of value within territorial waters or continental shelf and resources of the exclusive
-economic zone to vest in the Union.—(1) All lands, minerals and other things of value underlying the
-ocean within the territorial waters, or the continental shelf, or the exclusive economic zone, of India shall
-vest in the Union and be held for the purposes of the Union.
-1. Subs. by the Constitution (Fortieth Amendment) Act, 1976, s. 2 (w.e.f. 27-5-1976).
-125(2) All other resources of the exclusive economic zone of India shall also vest in the Union and be held
-for the purposes of the Union.
-(3) The limits of the territorial waters, the continental shelf, the exclusive economic zone, and other
-maritime zones, of India shall be such as may be specified, from time to time, by or under any law made
-by Parliament.]
-1
-[298. Power to carry on trade, etc.— The executive power of the Union and of each State shall
-extend to the carrying on of any trade or business and to the acquisition, holding and disposal of property
-and the making of contracts for any purpose:
-Provided that—
-(a) the said executive power of the Union shall, in so far as such trade or business or such purpose
-is not one with respect to which Parliament may make laws, be subject in each State to legislation by
-the State; and
-(b) the said executive power of each State shall, in so far as such trade or business or such purpose
-is not one with respect to which the State Legislature may make laws, be subject to legislation by
-Parliament.]
-299. Contracts.—(1) All contracts made in the exercise of the executive power of the Union or of a
-State shall be expressed to be made by the President, or by the Governor 2 *** of the State, as the case may
-be, and all such contracts and all assurances of property made in the exercise of that power shall be executed
-on behalf of the President or the Governor 1 *** by such persons and in such manner as he may direct or
-authorise.
-(2) Neither the President nor the Governor 3 *** shall be personally liable in respect of any contract or
-assurance made or executed for the purposes of this Constitution, or for the purposes of any enactment
-relating to the Government of India heretofore in force, nor shall any person making or executing any such
-contract or assurance on behalf of any of them be personally liable in respect thereof.
-300. Suits and proceedings.—(1) The Government of India may sue or be sued by the name of the
-Union of India and the Government of a State may sue or be sued by the name of the State and may, subject
-to any provisions which may be made by Act of Parliament or of the Legislature of such State enacted by
-virtue of powers conferred by this Constitution, sue or be sued in relation to their respective affairs in the
-like cases as the Dominion of India and the corresponding Provinces or the corresponding Indian States
-might have sued or been sued if this Constitution had not been enacted.
-(2) If at the commencement of this Constitution—
-(a) any legal proceedings are pending to which the Dominion of India is a party, the Union of India
-shall be deemed to be substituted for the Dominion in those proceedings; and
-(b) any legal proceedings are pending to which a Province or an Indian State is a party, the
-corresponding State shall be deemed to be substituted for the Province or the Indian State in those
-proceedings.
-4
-[C HAPTER IV.—R IGHT TO P ROPERTY
-300A. Persons not to be deprived of property save by authority of law.—No person shall be
-deprived of his property save by authority of law.]
-1. Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 20 (w.e.f. 1-11-1956).
-2. The words “or the Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s.29 and Sch., (w.e.f. 1-11-1956).
-3. The words “nor the Rajpramukh” omitted by ibid.
-4. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 34 (w.e.f. 20-6-1979).
 

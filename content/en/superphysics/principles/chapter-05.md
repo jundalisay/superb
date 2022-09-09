@@ -56,6 +56,17 @@ Before existence began, the Absolute Creator had nothing to create those experie
 
 
 
+{{< q="Propery" >}}
+According to Pythagoras, the world was divided into opposite powers:
+<ul>
+<li>the "one" was a better monad, light, right, equal, stable and straight</li>
+<li>the "other" was an inferior duad, darkness, left, unequal, unstable and movable</li>
+</ul>
+<cite>The Life of Pythagoras by Propery</cite>
+{{< /q >}}
+
+
+
 ### Duality from the Two Forces
 
 The Negative force splits the Absolute into a dualistic Creator, as the Supreme, which makes imperfections of Itself, as Its dualistic ideas and feelings:

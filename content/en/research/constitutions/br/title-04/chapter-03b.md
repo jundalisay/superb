@@ -1,15 +1,12 @@
 ---
 title: "The Supreme Federal Court"
 heading: "Title 4 Section 2"
-date: 2021-11-20
+date: 2021-11-12
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
+
 
 Article 101.  The Supreme Federal Court is composed of eleven Justices, chosen from among citizens over 35 and under sixty-five years of age, of notable juridical learning and spotless reputation. 
 

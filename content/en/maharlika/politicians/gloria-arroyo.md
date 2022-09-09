@@ -4,10 +4,6 @@ heading: "Neoliberalism in the flesh"
 date: 2021-09-21
 description: "Gloria Macapagal-Arroyo or GMA is a neoliberal politician who is so skilled at finding ways to sell the country"
 image: "https://res.cloudinary.com/nara/image/upload/v1632384188/photos/gma800.jpg"
-linkb: "/maharlika/history/golden-years-marcos"
-linkbtext: "Golden Age Marcos"
-linkf: "/maharlika/metaphysics/marcos-aquino-rivalry"
-linkftext: "marcos-aquino-rivalry"
 author: Juan
 icon: /favicon.png
 aliases:
@@ -15,6 +11,7 @@ aliases:
   /articles/gloria-arroyo/
   /articles/politicians/gloria-arroyo/
 ---
+
 
 In a previous post, we pinpointed the guaranteed collapse of the Philippines to the neoliberal policies of the corrupt Diosdado Macapagal in the early 1960's. He devalued the peso on January 22, 1962 for the sake of easy economic growth. This made borrowing attractive since the currency could be devalued to make debt payments easier at the cost of inflation.
 

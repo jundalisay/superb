@@ -1,10 +1,23 @@
-CHAPTER XXIV.
+---
+title: Precautions Against Rashly Engaging in War, Even Upon Just Grounds
+heading: Chapter 24
+date: 2022-06-11
+image: /covers/warpeace.jpg
+description: ""
+author: "Hugo Grotius"
+---
 
-Precautions Against Rashly Engaging in War, Even Upon Just Grounds.
 
-    Relaxation of right in order to avoid war—particularly penalties—Self-preservation motive for forbearing hostilities—Prudential rules in the choice of advantages—Peace preferable to the extermination of hostile powers—Forbearance prudent in inferior powers—War not to be undertaken, but from necessity.
+Relaxation of right in order to avoid war—particularly penalties—Self-preservation motive for forbearing hostilities—Prudential rules in the choice of advantages—Peace preferable to the extermination of hostile powers—Forbearance prudent in inferior powers—War not to be undertaken, but from necessity.
 
-I. Although it seems not to fall within the immediate province of a treatise, entitled the RIGHTS OF WAR, to enter into an investigation of other moral duties, which the relations of war and peace prescribe, yet it may not be improper slightly to touch upon certain errors, which it is necessary to obviate, in order to prevent any one from supposing, that, after establishing the right of war, he is authorized, INSTANTLY or at ALL TIMES, to carry his principles into action, and to reduce his theory to practice. So far from this, it frequently happens that it is an act of greater piety and rectitude to yield a right than to enforce it.
+
+## Part 1: moral duties leading to war and peace
+
+<!-- enter into an investigation of other  prescribe, yet it may not be improper slightly to touch upon certain errors, which it is necessary to obviate, in order to prevent any one from supposing, that,  -->
+
+After establishing the right of war, people are authorized, INSTANTLY or at ALL TIMES, to implement these principles. 
+
+Frequently, piety and rectitude makes people yield the right than to enforce it.
 
 It was before shewn, in its proper place how honourable it is to be regardless of our own lives, where we can preserve the lives, and promote the lasting welfare of others. A duty that should operate with greater force upon Christians, who have before their eyes continually the example of him, who died to save us, while we were enemies and ungodly. An example which calls upon us, in the most affecting manner, not to insist upon the rigorous prosecution of our justest rights, where it cannot be done but by the calamities, which war occasions. If arguments and motives like these wanted authorities, abundance of authorities might be adduced for their support.
 
@@ -12,11 +25,27 @@ II. Many reasons might be brought to dissuade us from urging the full infliction
 
 281 Sometimes indeed men are so circumstanced, that to relinquish a right becomes not only a laudable act, but a debt of respect to that law, which commands us to love our enemies: a law to be respected and obeyed not only for its intrinsic value, but as being a precept of the gospel. By the same law, and for the same reasons, we are commanded to pray for and to promote the welfare and safety of Christian Princes and Kings, because their welfare and safety are so essential to the order, peace, and happiness of society.
 
-III. With respect to the pardon of offences committed against ourselves, little need be said, as it is known to be a leading clause in the code of a Christian's duty, to which he readily and freely submits, knowing that God for Christ's sake has forgiven him. Thus revealed law adds a sanction to what was known by heathens to be an amiable precept. Cicero has drawn a fine character of Caesar, in which he commends the excellence of his memory that could recollect every thing but injuries. We find many noble examples of this excellent virtue in the writings of Moses and in various other parts of scripture. These, and these motives ALONE, when they can safely be complied with are sufficient to keep the sword within its scabbard. For the debt of love and forbearance to our enemies is an obligation, which it is honourable to discharge.
 
-IV. It is often a duty, which we owe to our country and ourselves, to forbear having recourse to arms. After the college of heralds had pronounced a war to be just we are informed by Plutarch in the life of Numa, that the Senate further deliberated, whether it was expedient to undertake it. According to our Saviour's beautiful and instructive parable, a king, when he is obliged to go to war with another king, should first sit down, an expression implying an act of deliberation, and consider within himself, whether, with ten thousand men he is able to encounter one who is coming against him with twenty times that number: and if he finds himself unequal to the contest, before the enemy has entered his territories he will send an embassy to him offering terms of peace.
 
-V. In all cases of deliberation, not only the ultimate but the intermediate objects leading to the principal ends are to be considered. The final object is always some good, or at least the evasion of some evil, which282 amounts to the same. The means are never to be considered by THEMSELVES, but only as they have a tendency to the proposed end. Wherefore in all cases of deliberation, the proportion, which the means and the end bear to each other, is to be duly weighed, by comparing them together: a mode of comparison, in which there are three rules necessary to be observed.
+## Part 3
+
+With respect to the pardon of offences committed against ourselves, little need be said, as it is known to be a leading clause in the code of a Christian's duty, to which he readily and freely submits, knowing that God for Christ's sake has forgiven him. Thus revealed law adds a sanction to what was known by heathens to be an amiable precept. Cicero has drawn a fine character of Caesar, in which he commends the excellence of his memory that could recollect every thing but injuries. We find many noble examples of this excellent virtue in the writings of Moses and in various other parts of scripture. These, and these motives ALONE, when they can safely be complied with are sufficient to keep the sword within its scabbard. For the debt of love and forbearance to our enemies is an obligation, which it is honourable to discharge.
+
+
+## Part 4
+
+It is our duty to our country and ourselves to forbear having recourse to arms. 
+
+After the college of heralds had pronounced a war to be just we are informed by Plutarch in the life of Numa, that the Senate further deliberated, whether it was expedient to undertake it. 
+
+According to our Saviour's beautiful and instructive parable, a king, when he is obliged to go to war with another king, should first sit down, an expression implying an act of deliberation, and consider within himself, whether, with ten thousand men he is able to encounter one who is coming against him with twenty times that number: 
+
+if he finds himself unequal to the contest, before the enemy has entered his territories he will send an embassy to him offering terms of peace.
+
+
+## Part 5
+
+In all cases of deliberation, not only the ultimate but the intermediate objects leading to the principal ends are to be considered. The final object is always some good, or at least the evasion of some evil, which282 amounts to the same. The means are never to be considered by THEMSELVES, but only as they have a tendency to the proposed end. Wherefore in all cases of deliberation, the proportion, which the means and the end bear to each other, is to be duly weighed, by comparing them together: a mode of comparison, in which there are three rules necessary to be observed.
 
 The first thing, in a moral point of view, to be considered is, what tendency the desired object has to produce good or evil; and, if the former has the preponderancy, we are then at liberty to chuse it.—In the second place, if it appears difficult to decide, whether the good or the evil predominates, we may chuse the object, if, in the choice and use of our means, we can give a turn to affairs, that may throw the preponderance into the scale of advantage—or lastly if the good and the evil bear no proportion to each other, nor the means, AT THE FIRST VIEW, appear adequate to the end, if, in pursuing an object, the tendency to good, compared with the tendency to evil be greater than the evil itself when compared with the good; or if the good, in comparison of the evil, be greater than the tendency to evil, in comparison of the tendency to good,57 we may decide in favour of it.
 

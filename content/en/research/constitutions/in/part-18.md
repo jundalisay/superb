@@ -1,15 +1,25 @@
-PART XVIII
-EMERGENCY PROVISIONS
-352. Proclamation of Emergency.—(1) If the President is satisfied that a grave emergency exists
-whereby the security of India or of any part of the territory thereof is threatened, whether by war or external
-aggression or 1 [armed rebellion], he may, by Proclamation, make a declaration to that effect 2 [in respect of
+---
+title: "Emergency Provisions"
+heading: "Part 16"
+date: 2021-10-04
+image: "/flags/in.png"
+description: ""
+icon: /flags/in.png
+---
+
+
+## PART 18: EMERGENCY PROVISIONS
+
+352. Proclamation of Emergency
+
+1) If the President is satisfied that a grave emergency exists whereby the security of India or of any part of the territory thereof is threatened, whether by war or external aggression or 1 [armed rebellion], he may, by Proclamation, make a declaration to that effect 2 [in respect of
 the whole of India or of such part of the territory thereof as may be specified in the Proclamation].
-3
-[Explanation.—A Proclamation of Emergency declaring that the security of India or any part of the
+
+<!-- [Explanation.—A Proclamation of Emergency declaring that the security of India or any part of the
 territory thereof is threatened by war or by external aggression or by armed rebellion may be made before
 the actual occurrence of war or of any such aggression or rebellion, if the President is satisfied that there is
-imminent danger thereof.]
-4
+imminent danger thereof.] -->
+
 [(2) A Proclamation issued under clause (1) may be varied or revoked by a subsequent Proclamation.
 (3) The President shall not issue a Proclamation under clause (1) or a Proclamation varying such
 Proclamation unless the decision of the Union Cabinet (that is to say, the Council consisting of the Prime
@@ -83,6 +93,7 @@ India,—
 shall also extend to any State other than a State in which or in any part of which the Proclamation of Emergency
 is in operation if and in so far as the security of India or any part of the territory thereof is threatened by activities
 in or in relation to the part of the territory of India in which the Proclamation of Emergency is in operation.]
+
 354. Application of provisions relating to distribution of revenues while a Proclamation of Emergency
 is in operation.—(1) The President may, while a Proclamation of Emergency is in operation, by order direct
 that all or any of the provisions of articles 268 to 279 shall for such period, not extending in any case beyond the
@@ -90,9 +101,11 @@ expiration of the financial year in which such Proclamation ceases to operate, a
 have effect subject to such exceptions or modifications as he thinks fit.
 (2) Every order made under clause (1) shall, as soon as may be after it is made, be laid before each House
 of Parliament.
+
 355. Duty of the Union to protect States against external aggression and internal disturbance.—It shall
 be the duty of the Union to protect every State against external aggression and internal disturbance and to ensure
 that the Government of every State is carried on in accordance with the provisions of this Constitution.
+
 356. Provisions in case of failure of constitutional machinery in States.—(1) If the President, on receipt
 of a report from the Governor 1 *** of a State or otherwise, is satisfied that a situation has arisen in which the
 Government of the State cannot be carried on in accordance with the provisions of this Constitution, the
@@ -120,10 +133,11 @@ by the House of the People before the expiration of that period, the Proclamatio
 expiration of thirty days from the date on which the House of the People first sits after its reconstitution unless
 before the expiration of the said period of thirty days a resolution approving the Proclamation has been also
 passed by the House of the People.
-1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
+<!-- 1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 2. The words “or Rajpramukh, as the case may be” omitted by ibid.
 150(4) A Proclamation so approved shall, unless revoked, cease to operate on the expiration of a period of 1 [six
-months from the date of issue of the Proclamation:]
+months from the date of issue of the Proclamation:] -->
+
 Provided that if and so often as a resolution approving the continuance in force of such a Proclamation is
 passed by both Houses of Parliament, the Proclamation shall, unless revoked, continue in force for a further
 period of 2 [six months] from the date on which under this clause it would otherwise have ceased to operate, but
@@ -220,8 +234,8 @@ to or in any State or Union territory in which or in any part of which the Procl
 in operation, if and in so far as the security of India or any part of the territory thereof is threatened by
 activities in or in relation to the part of the territory of India in which the Proclamation of Emergency is in
 operation.]
-9
-[(1B) Nothing in clause (1A) shall apply—
+
+<!-- [(1B) Nothing in clause (1A) shall apply—
 1. Art. 358 re-numbered as cl. (1) thereof by the Constitution (Forty-fourth Amendment) Act, 1978, s. 39 (w.e.f. 20-6-1979).
 2. Subs. by ibid., for “while a Proclamation of Emergency is in operation”.
 3. Ins.by the Constitution (Forty-second Amendment) Act, 1976, s. 52 (w.e.f. 3-1-1977).
@@ -231,7 +245,8 @@ operation.]
 6. Subs. by ibid., s. 40, for “the rights conferred by Part III” (w.e.f. 20-6-1979).
 7. Ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 7 (retrospectively).
 8. Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 53 (w.e.f. 3-1-1977).
-9. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 40 (w.e.f. 20-6-1979).
+9. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 40 (w.e.f. 20-6-1979). -->
+
 152(a) to any law which does not contain a recital to the effect that such law is in relation to the
 Proclamation of Emergency in operation when it is made; or
 (b) to any executive action taken otherwise than under a law containing such a recital.]
@@ -245,7 +260,7 @@ considers such extension to be necessary.]
 (3) Every order made under clause (1) shall, as soon as may be after it is made, be laid before each
 House of Parliament.
 
-359A. [Application of this Part to the State of Punjab.].–Omitted by the Constitution (Sixty-third
+Article 359A. [Application of this Part to the State of Punjab.].–Omitted by the Constitution (Sixty-third
 Amendment) Act, 1989, s. 3 (w.e.f. 6-1-1990).
 360. Provisions as to financial emergency.—(1) If the President is satisfied that a situation has arisen
 whereby the financial stability or credit of India or of any part of the territory thereof is threatened, he may

@@ -1,18 +1,12 @@
-+++
-title= "The End of the Pythagoreans"
-heading = "Chapter 35"
-date= 2015-09-04
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-34"
-linkbtext= "Chapter 34"
-linkf= "/research/pythagoras/life/chapter-36"
-linkftext= "chapter-36"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The End of the Pythagoreans"
+heading: "Chapter 35"
+date: 2015-09-04
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "There were persons hostile to the Pythagoreans and rose against them"
+icon: "/icons/py.png"
+---
 
 
 There were persons hostile to the Pythagoreans and rose against them. 

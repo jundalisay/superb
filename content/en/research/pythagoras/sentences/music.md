@@ -1,17 +1,18 @@
-+++
-title= "Music According to Pythagoras"
-date= 2015-09-09
-image= "/covers/sentences.jpg"
-description= "Music was discovered by Pythagoras"
-linkb= "/research/pythagoras/sentences/math"
-linkbtext= "Math"
-linkf= "/research/pythagoras/sentences/sextus"
-linkftext= "Sextus"
-+++
+---
+title: "Music According to Pythagoras"
+date: 2022-04-11
+# date: 2022-04-13
+image: /covers/sentences.jpg
+description: "Western Music was discovered by Pythagoras"
+# author: Juan
+# icon: /icons/spmat.png
+---
 
-P. 88. In this way, music was discovered by Pythagoras.
 
-The principles of music are explained below:
+
+<!-- P. 88.  -->
+
+Music was discovered by Pythagoras. Its principles are below.
 
 Take two brazen chords, such as are used in harps. The chords made from sheep intestines are false or obnoxious to the change of the air.
 

@@ -1,18 +1,14 @@
 ---
-title: "THE UNION AND ITS TERRITORY"
-heading: "Part 1"
-date: 2021-11-20
+title: "Miscellaneous"
+heading: "Part 18"
+date: 2021-10-02
 image: "/flags/in.png"
 description: ""
-linkb: /research/constitutions/in
-linkbtext: "constitutions"
-linkf: /research/constitutions/in
-linkftext: "Part 2"
 icon: /flags/in.png
 ---
 
 
-PART 19: MISCELLANEOUS
+PART 19: Miscellaneous
 
 361. Protection of President and Governors and Rajpramukhs.—(1) The President, or the Governor
 or Rajpramukh of a State, shall not be answerable to any court for the exercise and performance of the powers and duties of his office or for any act done or purporting to be done by him in the exercise and performance of those powers and duties:
@@ -44,10 +40,11 @@ proved to have been made with malice:
 Provided that nothing in this clause shall apply to the publication of any report of the proceedings of a
 secret sitting of either House of Parliament or the Legislative Assembly, or, as the case may be, either
 House of the Legislature, of a State.
-1. Cl. (5) was ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 8 (retrospectively) and omitted by the Constitution
+<!-- 1. Cl. (5) was ins. by the Constitution (Thirty-eighth Amendment) Act, 1975, s. 8 (retrospectively) and omitted by the Constitution
 (Forty-fourth Amendment) Act, 1978, s. 41 (w.e.f. 20-6-1979).
 2. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
-3. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 42 (w.e.f. 20-6-1979).
+3. Ins. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 42 (w.e.f. 20-6-1979). -->
+
 154(2) Clause (1) shall apply in relation to reports or matters broadcast by means of wireless telegraphy as
 part of any programme or service provided by means of a broadcasting station as it applies in relation to
 reports or matters published in a newspaper.
@@ -71,17 +68,14 @@ Government of the State, as the case may be; or
 Government of India or the Government of State, and the salary or remuneration for such office is
 paid by such body,
 except where such salary or remuneration paid is compensatory in nature.]
-362. [Rights and privileges of Rulers of Indian States.] Omitted by the Constitution (Twenty-sixth
+
+Article 362. [Rights and privileges of Rulers of Indian States.] Omitted by the Constitution (Twenty-sixth
 Amendment)Act, 1971, s. 2 (w.e.f. 28-12-1971).
-363. Bar to interference by courts in disputes arising out of certain treaties, agreements, etc.—(1)
-Notwithstanding anything in this Constitution but subject to the provisions of article 143, neither the
-Supreme Court nor any other court shall have jurisdiction in any dispute arising out of any provision of a
-treaty, agreement, covenant, engagement, sanad or other similar instrument which was entered into or
-executed before the commencement of this Constitution by any Ruler of an Indian State and to which the
-Government of the Dominion of India or any of its predecessor Governments was a party and which has or
-has been continued in operation after such commencement, or in any dispute in respect of any right accruing
-under or any liability or obligation arising out of any of the provisions of this Constitution relating to any
-such treaty, agreement, covenant, engagement, sanad or other similar instrument.
+
+
+**Article 363. Bar to interference by courts in disputes arising out of certain treaties, agreements, etc**
+
+1) Notwithstanding anything in this Constitution but subject to the provisions of article 143, neither the Supreme Court nor any other court shall have jurisdiction in any dispute arising out of any provision of a treaty, agreement, covenant, engagement, sanad or other similar instrument which was entered into or executed before the commencement of this Constitution by any Ruler of an Indian State and to which the Government of the Dominion of India or any of its predecessor Governments was a party and which has or has been continued in operation after such commencement, or in any dispute in respect of any right accruing under or any liability or obligation arising out of any of the provisions of this Constitution relating to any such treaty, agreement, covenant, engagement, sanad or other similar instrument.
 (2) In this article—
 (a) “Indian State” means any territory recognised before the commencement of this Constitution
 by His Majesty or the Government of the Dominion of India as being such a State; and
@@ -101,9 +95,12 @@ or the successor of such Ruler;
 privy purse is abolished and all rights, liabilities and obligations in respect of privy purse are
 extinguished and accordingly the Ruler or, as the case may be, the successor of such Ruler, referred to
 in clause (a) or any other person shall not be paid any sum as privy purse.]
-364. Special provisions as to major ports and aerodromes.—(1) Notwithstanding anything in this
+
+**Article 364. Special provisions as to major ports and aerodromes**
+
+1) Notwithstanding anything in this
 Constitution, the President may by public notification direct that as from such date as may be specified in
-the notification—
+the notification:
 (a) any law made by Parliament or by the Legislature of a State shall not apply to any major port
 or aerodrome or shall apply thereto subject to such exceptions or modifications as may be specified in
 the notification, or
@@ -116,13 +113,17 @@ notification.
 or any existing law and includes all areas for the time being included within the limits of such port;
 (b) “aerodrome” means aerodrome as defined for the purposes of the enactments relating to
 airways, aircraft and air navigation.
-365. Effect of failure to comply with, or to give effect to, directions given by the Union.—Where any
-State has failed to comply with, or to give effect to, any directions given in the exercise of the executive power
+
+**Article 365. Effect of failure to comply with, or to give effect to, directions given by the Union**
+
+Where any State has failed to comply with, or to give effect to, any directions given in the exercise of the executive power
 of the Union under any of the provisions of this Constitution, it shall be lawful for the President to hold that a
 situation has arisen in which the Government of the State cannot be carried on in accordance with the
 provisions of this Constitution.
-366. Definitions.—In this Constitution, unless the context otherwise requires, the following
-expressions have the meanings hereby respectively assigned to them, that is to say—
+
+**Article 366. Definitions**
+
+In this Constitution, unless the context otherwise requires, the following expressions have the meanings hereby respectively assigned to them, that is to say
 (1) “agricultural income” means agricultural income as defined for the purposes of the enactments
 relating to Indian income-tax;
 (2) “an Anglo-Indian” means a person whose father or any of whose other male progenitors in the
@@ -131,13 +132,7 @@ born within such territory of parents habitually resident therein and not establ
 purposes only;
 (3) “article” means an article of this Constitution;
 (4) “borrow” includes the raising of money by the grant of annuities, and “loan” shall be construed
-accordingly;
-1
-*
-*
-*
-*
-*
+accordingly
 (5) “clause” means a clause of the article in which the expression occurs;
 1. Cl. (4A) was ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 54 (w.e.f. 1-2-1977) and omitted by the
 Constitution (Forty-third Amendment) Act, 1977, s. 11 (w.e.f. 13-4-1978).
@@ -181,7 +176,7 @@ as such a State;
 (17) “pension” means a pension, whether contributory or not, of any kind whatsoever payable to or
 in respect of any person, and includes retired pay so payable; a gratuity so payable and any sum or sums
 so payable by way of the return, with or without interest thereon or any other addition thereto, of
-subscriptions to a provident fund;
+subscriptions to a provident fund
 1. Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 14(i) (w.e.f. 16-9-2016).
 157(18) “Proclamation of Emergency” means a Proclamation issued under clause (1) of article 352;
 (19) “public notification” means a notification in the Gazette of India, or, as the case may be, the
@@ -205,13 +200,7 @@ Constitution;
 tribes or tribal communities as are deemed under article 342 to be Scheduled Tribes for the purposes of
 this Constitution;
 (26) “securities” includes stock;
-3
-*
-*
-*
-*
-*
-4
+
 [(26A) “Services” means anything other than goods;
 (26B) “State” with reference to articles 246A, 268, 269, 269A and article 279A includes a Union
 territory with Legislature;]
@@ -222,7 +211,7 @@ deemed under article 342A for the purposes of this Constitution;]
 (28) “taxation” includes the imposition of any tax or impost, whether general or local or special,
 and “tax” shall be construed accordingly;
 (29) “tax on income” includes a tax in the nature of an excess profits tax;
-6
+
 [(29A) “tax on the sale or purchase of goods” includes—
 (a) a tax on the transfer, otherwise than in pursuance of a contract, of property in any goods for
 cash, deferred payment or other valuable consideration;
@@ -233,24 +222,24 @@ in the execution of a works contract;
 specified period) for cash, deferred payment or other valuable consideration;
 (e) a tax on the supply of goods by any unincorporated association or body of persons to a
 member thereof for cash, deferred payment or other valuable consideration;
-1. Cl. (21) omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
+<!-- 1. Cl. (21) omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 2. Subs. by the Constitution (Twenty-sixth Amendment) Act, 1971, s. 4, for cl. (22) (w.e.f. 28-12-1971).
 3.Cl. (26A) was ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 54 (w.e.f. 1-2-1977) and omitted by the
 Constitution (Forty-third Amendment) Act, 1977, s. 11 (w.e.f. 13-4-1978).
 4. Ins. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 14(ii) (w.e.f. 16-9-2016).
 5. Ins. by the Constitution (One Hundred and Second Amendment) Act, 2018, s. 5 (w.e.f. 11-8-2018).
-6. Ins. by the Constitution (Forty-sixth Amendment) Act, 1982, s. 4 (w.e.f. 2-2-1983).
-158(f) a tax on the supply, by way of or as part of any service or in any other manner whatsoever,
-of goods, being food or any other article for human consumption or any drink (whether or not
-intoxicating), where such supply or service, is for cash, deferred payment or other valuable
-consideration,
-and such transfer, delivery or supply of any goods shall be deemed to be a sale of those goods by the
+6. Ins. by the Constitution (Forty-sixth Amendment) Act, 1982, s. 4 (w.e.f. 2-2-1983). -->
+
+Article 158(f) a tax on the supply, by way of or as part of any service or in any other manner whatsoever, of goods, being food or any other article for human consumption or any drink (whether or not intoxicating), where such supply or service, is for cash, deferred payment or other valuable
+consideration, and such transfer, delivery or supply of any goods shall be deemed to be a sale of those goods by the
 person making the transfer, delivery or supply and a purchase of those goods by the person to whom such
 transfer, delivery or supply is made;]
 [(30) “Union territory” means any Union territory specified in the First Schedule and includes any
 other territory comprised within the territory of India but not specified in that Schedule.]
-1
-367. Interpretation.—(1) Unless the context otherwise requires, the General Clauses Act, 1897, shall,
+
+Article 367. Interpretation
+
+1) Unless the context otherwise requires, the General Clauses Act, 1897, shall,
 subject to any adaptations and modifications that may be made therein under article 372, apply for the
 interpretation of this Constitution as it applies for the interpretation of an Act of the Legislature of the
 Dominion of India.

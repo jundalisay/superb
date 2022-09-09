@@ -1,6 +1,14 @@
-CHAPTER XX.
+---
+title: On the Public Faith, by which War is Concluded
+heading: Chapter 20
+date: 2022-07-29
+image: /covers/warpeace.jpg
+description: 
+author: "Hugo Grotius"
+---
 
-On the Public Faith, by which War is Concluded; Comprising Treaties of Peace, and the Nature of Arbitration, Surrender Hostages, Pledges.
+ 
+On the Public Faith, by which War is Concluded Comprising Treaties of Peace, and the Nature of Arbitration, Surrender Hostages, Pledges.
 
     In monarchies the power of making peace a royal prerogative—In aristocracies and democracies, this right belongs to a greater number of persons—In what manner the public dominions or any part of them may be alienated—How far a peace concluded by the king binds the state, or his successors—Property of individuals ceded for the benefit of the state at the time of making peace—Indemnity to those individuals—Losses sustained in war—No distinction between things acquired according to the law of nations and the civil law—Transactions of the sovereign with foreign nations deemed valid from motives of public utility—General rule of interpreting the terms of peace—In doubtful cases the former state of things supposed to be continued by a treaty of peace—Things restored to the state they were in before the war—Independent states, voluntarily joining one of the belligerent powers cannot claim indemnity of the other—General amnesty—Private debts subsisting before the war not included therein—Restoration of captures—Rules respecting such restorations—Dubious points to be interpreted to the prejudice of the party dictating the terms—Distinction between new causes of war, and the breach of a peace—Rupture by any act contrary to the terms of peace in general—Infraction of a treaty by allies or subjects—Violation of a particular treaty—Heads of treaties—Penalties annexed—Unavoidable impediments to the fulfilment of a treaty—Peace continued at the option of the injured party—Relations of amity—How far receiving subjects and exiles may be considered as a breach thereof—Victory—War concluded by arbitration—Arbitrators bound by rules of strict justice—Absolute, and conditional surrender—Hostages can be detained for no other than the express cause for which they were given—Released by the death of the party for whom they were given—Obligation of pledges—Right of redeeming them lost.
 

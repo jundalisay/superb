@@ -3,14 +3,10 @@ title: Filipinas Dentro De Cien Años
 description: Siguiendo nuestra costumbre de abordar de frente las más árduas y delicadas cuestiones que se relacionan con Filipinas
 date: 2022-02-10
 image: /covers/dentro.jpg
-# image: https://qph.fs.quoracdn.net/main-qimg-a53c2a32fd3cf1accd44a91a0ae1a149-mzj
-linkb: "/maharlika/history/was-lapu-lapu-tausug"
-linkbtext: "Was-lapu-lapu-tausug?"
-linkf: "/maharlika/writers/rizal/dentro/part-3"
-linkftext: "Part 3"
 author: Jose Rizal
 icon: /icons/sun.png
 ---
+
 
 Filipinas Dentro De Cien Años (Estudio Politico-Social), by José Rizal 
 

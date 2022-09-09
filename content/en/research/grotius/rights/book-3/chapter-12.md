@@ -1,7 +1,14 @@
-CHAPTER XII.
-On Moderation in Despoiling An Enemy's Country.
+---
+title: Moderation in Despoiling An Enemy's Country
+heading: Chapter 12
+date: 2022-07-29
+image: /covers/warpeace.jpg
+description: 
+author: "Hugo Grotius"
+---
 
-    Lawfulness of despoiling an enemy's country—Forbearance of using this right, where things may be useful to ourselves, and out of an enemy's power—Forbearance in the hopes of speedy conquest, or where things are not immediately necessary to support an enemy, and aid him in maintaining the war—Buildings for the purposes of religion not to be wantonly destroyed—Advantages of this moderation.
+
+Lawfulness of despoiling an enemy's country—Forbearance of using this right, where things may be useful to ourselves, and out of an enemy's power—Forbearance in the hopes of speedy conquest, or where things are not immediately necessary to support an enemy, and aid him in maintaining the war—Buildings for the purposes of religion not to be wantonly destroyed—Advantages of this moderation.
 
 I. One of the three following cases is requisite to justify any one in destroying what BELONGS to another: there must be either such a necessity, as at the original institution of property might be supposed to form an exception, as if for instance any one should throw the sword of another into a river, to prevent a madman from using it to his destruction: still according to the true principles maintained in a former part of this work he will be bound to repair the loss:67 or there must be some debt, arising from the non-performance of an engagement, where the waste committed is considered as a satisfaction for that debt: or there must have been some aggressions, for which such destruction is only an adequate punishment.
 

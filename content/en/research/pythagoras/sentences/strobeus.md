@@ -1,14 +1,14 @@
-+++
-title= "Pythagoric Ethical Sentences From Stobæus"
-date= 2015-09-09
-image= "/covers/sentences.jpg"
-description= "Do not even think of doing what should not be done. Choose rather to be strong in soul than in body"
-author= "Strobeus"
-linkb= "/research/pythagoras/sentences/sextus"
-linkbtext= "sextus"
-linkf= "/research/pythagoras/sentences/symbols"
-linkftext= "Symbols"
-+++
+---
+title: "Select Sentences Of Sextus The Pythagorean"
+date: 2022-04-10
+# date: 2022-04-13
+image: /covers/sentences.jpg
+description: "Do not even think of doing what should not be done. Choose rather to be strong in soul than in body"
+author: Stobaeus
+# icon: /icons/spmat.png
+---
+
+
 
 These have been omitted in the Opuscula Mythologica, etc. of Gale.
 
@@ -63,7 +63,11 @@ Those alone are dear to divinity, who are hostile to injustice.[83]
 
 Those things which the body necessarily requires, are easily to be procured by all men, without labor and molestation; but those things to the attainment of which labor and molestation are requisite, are objects of desire, not to the body, but to depraved opinion. Aristoxenus Pythag. Stob. p. 132.
 
-Of desire also, he [i. e. Pythagoras] said as follows= This passion is various, laborious, and very multiform. Of desires however, some are acquired and adventitious, but others are connascent. But he defined desire itself to be a certain tendency and impulse of the soul, and an appetite of a plenitude or presence of sense, or of an emptiness and absence of it, and of non-perception. He also said, that there are three most known species of erroneous and depraved desire, viz. the indecorous, the incommensurate, and the unseasonable. For desire is either immediately indecorous, troublesome, and illiberal; or it is not absolutely so, but is more vehement and lasting than is fit. Or in the third place, it is impelled when it is not proper; and to objects to which it ought not to tend. Ex Aristoxeni Pythag. Sententiis. Stob. p. 132.
+Of desire also, he [i. e. Pythagoras] said as follows= This passion is various, laborious, and very multiform. Of desires however, some are acquired and adventitious, but others are connascent. But he defined desire itself to be a certain tendency and impulse of the soul, and an appetite of a plenitude or presence of sense, or of an emptiness and absence of it, and of non-perception.
+
+He also said, that there are three most known species of erroneous and depraved desire, viz. the indecorous, the incommensurate, and the unseasonable. 
+
+For desire is either immediately indecorous, troublesome, and illiberal; or it is not absolutely so, but is more vehement and lasting than is fit. Or in the third place, it is impelled when it is not proper; and to objects to which it ought not to tend. <!-- Ex Aristoxeni Pythag. Sententiis. Stob. p. 132 -->.
 
 
 Endeavour not to conceal your errors by words, but to remedy them by reproofs. Pythagoras. Stob. p. 146.

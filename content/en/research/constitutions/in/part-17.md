@@ -1,20 +1,16 @@
 ---
-title: "OFFICIAL LANGUAGE"
+title: "Official Language"
 heading: "Part 17"
-date: 2021-11-20
+date: 2021-10-06
 image: "/flags/in.png"
 description: ""
-linkb: /research/constitutions/in
-linkbtext: "constitutions"
-linkf: /research/constitutions/in
-linkftext: "Part 2"
 icon: /flags/in.png
 ---
 
 
-CHAPTER I. LANGUAGE OF THE U NION
+Chapter I. Language Of The Union
 
-343. Official language of the Union
+**Article 343. Official language of the Union**
 
 (1) The official language of the Union shall be Hindi in Devanagari script.
 
@@ -32,9 +28,12 @@ international form of Indian numerals for any of the official purposes of the Un
 (b) the Devanagari form of numerals,
 for such purposes as may be specified in the law.
 
-344. Commission and Committee of Parliament on official language.—(1) The President shall, at
-the expiration of five years from the commencement of this Constitution and thereafter at the expiration of
-1. The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment)
+
+**Article 344. Commission and Committee of Parliament on official language**
+
+1) The President shall, at the expiration of five years from the commencement of this Constitution and thereafter at the expiration of 
+
+<!-- 1. The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment)
 Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 2. The words “or Rajpramukh” omitted by s. 29 and Sch., ibid.
 3. See the Constitution (Scheduled Tribes) Order, 1950 (C.O. 22), the Constitution (Scheduled Tribes) (Union Territories) Order,
@@ -43,7 +42,8 @@ Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 Order, 1967 (C.O. 78), the Constitution (Goa, Daman and Diu) Scheduled Tribes Order, 1968 (C.O. 82), the Constitution
 (Nagaland) Scheduled Tribes Order, 1970, (C.O 88) and the Constitution (Sikkim) Scheduled Tribes Order, 1978 (C.O. 111).
 4. Ins. by the Constitution (One Hundred and Second Amendment) Act, 2018, s. 4 (w.e.f. 11-8-2018).
-5. See C.O. 41.
+5. See C.O. 41. -->
+
 145ten years from such commencement, by order constitute a Commission which shall consist of a Chairman
 and such other members representing the different languages specified in the Eighth Schedule as the
 President may appoint, and the order shall define the procedure to be followed by the Commission.
@@ -87,9 +87,10 @@ population of a State desire the use of any language spoken by them to be recogn
 that such language shall also be officially recognised throughout that State or any part thereof for such
 purpose as he may specify.
 
+
 CHAPTER 3. LANGUAGE OF THE SUPREME COURT HIGH COURTS, ETC.
 
-348. Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc.—
+348. Language to be used in the Supreme Court and in the High Courts and for Acts, Bills, etc—
 (1) Notwithstanding anything in the foregoing provisions of this Part, until Parliament by law otherwise
 provides—
 (a) all proceedings in the Supreme Court and in every High Court,
@@ -112,37 +113,36 @@ Legislature of the State or in Ordinances promulgated by the Governor 1 *** of t
 regulation or bye-law referred to in paragraph (iii) of that sub-clause, a translation of the same in the English
 language published under the authority of the Governor 1 *** of the State in the Official Gazette of that State
 shall be deemed to be the authoritative text thereof in the English language under this article.
-349. Special procedure for enactment of certain laws relating to language.—During the period of
-fifteen years from the commencement of this Constitution, no Bill or amendment making provision for the
-language to be used for any of the purposes mentioned in clause (1) of article 348 shall be introduced or
-moved in either House of Parliament without the previous sanction of the President, and the President shall
-not give his sanction to the introduction of any such Bill or the moving of any such amendment except after
-he has taken into consideration the recommendations of the Commission constituted under clause (1) of
-article 344 and the report of the Committee constituted under clause (4) of that article.
 
-CHAPTER IV.—S PECIAL D IRECTIVES
+349. Special procedure for enactment of certain laws relating to language.—During the period of 15 years from the commencement of this Constitution, no Bill or amendment making provision for the language to be used for any of the purposes mentioned in clause (1) of article 348 shall be introduced or moved in either House of Parliament without the previous sanction of the President, and the President shall not give his sanction to the introduction of any such Bill or the moving of any such amendment except after he has taken into consideration the recommendations of the Commission constituted under clause (1) of article 344 and the report of the Committee constituted under clause (4) of that article.
 
-350. Language to be used in representations for redress of grievances.—Every person shall be
-entitled to submit a representation for the redress of any grievance to any officer or authority of the Union
+
+## CHAPTER 4.—SPECIAL DIRECTIVES
+
+350. Language to be used in representations for redress of grievances
+
+Every person shall be entitled to submit a representation for the redress of any grievance to any officer or authority of the Union
 or a State in any of the languages used in the Union or in the State, as the case may be.
-2
+
 [350A. Facilities for instruction in mother-tongue at primary stage.—It shall be the endeavour of
 every State and of every local authority within the State to provide adequate facilities for instruction in the
 mother-tongue at the primary stage of education to children belonging to linguistic minority groups; and
 the President may issue such directions to any State as he considers necessary or proper for securing the
 provision of such facilities.
+
 350B. Special Officer for linguistic minorities.—(1) There shall be a Special Officer for linguistic
 minorities to be appointed by the President.
-1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s.29 and Sch. (w.e.f. 1-11-1956).
-2. Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 21 (w.e.f. 1-11-1956).
+<!-- 1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s.29 and Sch. (w.e.f. 1-11-1956).
+2. Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 21 (w.e.f. 1-11-1956). -->
+
 147(2) It shall be the duty of the Special Officer to investigate all matters relating to the safeguards provided for
 linguistic minorities under this Constitution and report to the President upon those matters at such intervals as
 the President may direct, and the President shall cause all such reports to be laid before each House of Parliament,
 and sent to the Governments of the States concerned.]
+
 351. Directive for development of the Hindi language.—It shall be the duty of the Union to promote
 the spread of the Hindi language, to develop it so that it may serve as a medium of expression for all the
 elements of the composite culture of India and to secure its enrichment by assimilating without interfering
 with its genius, the forms, style and expressions used in Hindustani and in the other languages of India
 specified in the Eighth Schedule, and by drawing, wherever necessary or desirable, for its vocabulary,
 primarily on Sanskrit and secondarily on other languages.
-

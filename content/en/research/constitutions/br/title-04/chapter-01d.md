@@ -1,13 +1,9 @@
 ---
 title: "Legislative Process"
 heading: "Chapter 1 Section 8"
-date: 2021-11-20
+date: 2021-11-24
 image: "/flags/br.png"
 description: "A supplementary law shall provide for the preparation, drafting, amendment and consolidation of laws"
-linkb: /research/constitutions/br/title-04/chapter-01c
-linkbtext: "Chapter 1c"
-linkf: /research/constitutions/br/title-04/chapter-01e
-linkftext: "Chapter 1e"
 icon: "/flags/br.png"
 ---
 

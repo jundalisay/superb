@@ -1,4 +1,13 @@
-CHAPTER XXI.
+---
+title: On Faith During the Continuance of War
+heading: Chapter 21
+date: 2022-07-29
+image: /covers/warpeace.jpg
+description: 
+author: "Hugo Grotius"
+---
+
+
 On Faith During the Continuance of War, on Truces, Safe-Conducts, and the Redemption of Prisoners.
 
     Truces of an intermediate denomination between peace and war—Origin of the word—New declaration of war not necessary after a truce—Time from whence a truce and all its correspondent obligations and privileges commence—A retreat may be made, or fortifications repaired during a truce—Distinction respecting the occupying of places—The case of a person prevented from making his retreat, and taken in the enemy's territories at the expiration of a truce, considered—Express terms and consequences of a truce—Breach of a truce by one party justifies a renewal of war by the other—Penalty annexed—Truce broken by the acts of individuals—Rights belonging to safe-conducts without a truce—Persons in a military capacity how far allowed the benefit of a safe-conduct—Privileges of goods arising from thence—Attendants of the person protected by a safe-conduct—Safe-conduct does not expire upon the death of the grantor—Safe-conduct given to continue during the pleasure of the grantor—Protection thereof extending beyond his own territory—Redemption of prisoners favoured, and not to be prohibited by law.

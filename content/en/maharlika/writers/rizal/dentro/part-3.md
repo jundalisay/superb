@@ -4,10 +4,6 @@ description: Las Filipinas, si han de continuar bajo el dominio de España, tien
 date: 2022-02-10
 image: /covers/dentro.jpg
 # image: https://qph.fs.quoracdn.net/main-qimg-a53c2a32fd3cf1accd44a91a0ae1a149-mzj
-linkb: "/maharlika/writers/rizal/dentro/part-1"
-linkbtext: "Part 1"
-linkf: "/maharlika/writers/rizal/dentro/"
-linkftext: "Index"
 author: Jose Rizal
 icon: /icons/sun.png
 ---

@@ -4,10 +4,6 @@ heading: "Chapter 1"
 date: 2021-11-20
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br/title-05
-linkbtext: "Title 5"
-linkf: /research/constitutions/br/title-05
-linkftext: "Title 5"
 icon: "/flags/br.png"
 ---
 
@@ -15,9 +11,10 @@ icon: "/flags/br.png"
 ## Section 1: General Principles
 
 Article 145.  The Union, the states, the Federal District and the municipalities may institute the following tributes:
-1. taxes;
+1. taxes
 2.  fees, by virtue of the exercise of police power or for the effective or potential use of specific and divisible public services, rendered to the taxpayer or made available to him;
 3.   benefit charges, resulting from public works.
+
 
 Paragraph 1. Whenever possible, taxes shall have an individual character and shall be graded according to the economic capacity of the taxpayer, and the tax administration may, especially to confer effectiveness upon such objectives, with due respect to individual rights and under the terms of the law, identify the property, the incomes and the economic activities of the taxpayer.
 

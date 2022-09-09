@@ -1,30 +1,33 @@
 ---
-title: "DIRECTIVE PRINCIPLES OF STATE POLICY"
-heading: "Part 4"
-date: 2021-11-20
+title: "Directive Principles Of State Policy"
+heading: "Articles 36-"
+date: 2021-11-23
 image: "/flags/in.png"
-description: ""
-linkb: /research/constitutions/in
-linkbtext: "constitutions"
-linkf: /research/constitutions/in
-linkftext: "Part 2"
+description: "The Indian citizen is every person who has his domicile in the territory of India"
 icon: /flags/in.png
 ---
 
 
-36. Definition.—In this Part, unless the context otherwise requires, “the State” has the same meaning
-as in Part 3.
 
-37. Application of the principles contained in this Part.—The provisions contained in this Part shall
-not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.
+**Article 36. Definition**
 
-38. State to secure a social order for the promotion of welfare of the people.— 1 [(1)] The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life.
+In this Part, unless the context otherwise requires, “the State” has the same meaning as in Part 3.
+
+
+**Article 37. Application of the principles contained in this Part**
+
+The provisions contained in this Part shall not be enforceable by any court, but the principles therein laid down are nevertheless fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws.
+
+
+**Article 38. State to secure a social order for the promotion of welfare of the people**
+
+(1) The State shall strive to promote the welfare of the people by securing and protecting as effectively as it may a social order in which justice, social, economic and political, shall inform all the institutions of the national life.
 
 [(2) The State shall, in particular, strive to minimise the inequalities in income, and endeavour to
 eliminate inequalities in status, facilities and opportunities, not only amongst individuals but also amongst
 groups of people residing in different areas or engaged in different vocations.]
 39. Certain principles of policy to be followed by the State.—The State shall, in particular, direct its
-policy towards securing—
+policy towards securing:
 (a) that the citizens, men and women equally, have the right to an adequate means of livelihood;
 (b) that the ownership and control of the material resources of the community are so distributed as
 best to subserve the common good;
@@ -33,7 +36,6 @@ means of production to the common detriment;
 (d) that there is equal pay for equal work for both men and women;
 (e) that the health and strength of workers, men and women, and the tender age of children are not
 abused and that citizens are not forced by economic necessity to enter avocations unsuited to their age or strength;
-
 [(f) that children are given opportunities and facilities to develop in a healthy manner and in
 conditions of freedom and dignity and that childhood and youth are protected against exploitation and
 against moral and material abandonment.]
@@ -108,8 +110,8 @@ with one another; and
 (d) encourage settlement of international disputes by arbitration.
 
 
-[PART IVA
-FUNDAMENTAL DUTIES
+## PART 4a FUNDAMENTAL DUTIES
+
 51A. Fundamental duties.—It shall be the duty of every citizen of India—
 (a) to abide by the Constitution and respect its ideals and institutions, the National Flag and the
 National Anthem;
@@ -129,7 +131,6 @@ to have compassion for living creatures;
 36(i) to safeguard public property and to abjure violence;
 (j) to strive towards excellence in all spheres of individual and collective activity so that the nation
 constantly rises to higher levels of endeavour and achievement;
-1
-[(k) who is a parent or guardian to provide opportunities for education to his child or, as the case
-may be, ward between the age of six and fourteen years.]
+(k) who is a parent or guardian to provide opportunities for education to his child or, as the case
+may be, ward between the age of 6-14.
 

@@ -3,10 +3,6 @@ title: "Temporary Constitutional Provisions Act"
 date: 2021-11-20
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br/title-05
-linkbtext: "Title 5"
-linkf: /research/constitutions/br/title-05
-linkftext: "Title 5"
 icon: "/flags/br.png"
 ---
 

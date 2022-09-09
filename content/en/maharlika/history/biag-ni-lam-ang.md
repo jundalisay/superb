@@ -7,7 +7,9 @@ icon: /icons/sun.png
 ---
 
 
-A couple named Don Juan and Namongan lived in a faraway barrio of Nalbuan.  One day, Don Juan left his pregnant wife and went to the mountain to punish a group of Igorots.  
+A couple named Don Juan and Namongan lived in a faraway barrio of Nalbuan.  
+
+One day, Don Juan left his pregnant wife and went to the mountain to punish a group of Igorots.  
 
 While he was in the mountain, Namongan gave birth to a baby boy.  The baby was different from other babies because upon birth he could already speak.  He wanted his name to be Lam-ang.  And he was the one who chosed his godfather when he was baptized.
 
@@ -35,4 +37,8 @@ Ines' challenge to him did not dampen Lam-ang's spirit.  He went home at once an
 
 Years passed and came Lam-ang's turn to catch a fish known as rarang.  It was an obligation of every married man in the community to catch a rarang.  Lam-ang, however, felt that he would be killed by a berkahan (a kind of fish that belonged to the shark family) once he set out to catch a "rarang".  But he had to do his duty and one night, he sailed out to the sea.  He was killed by a berkahan as he had foreseen.
 
-Ines wept in sorrow.  Lam-ang's white rooster thought of a way to bring Lam-ang back to life again.  Ines Kannoyan paid a deep-sea diver to locate all the bones of Lam-ang under the sea.  The diver found all the bones very easily and Ines put them together.  Then, together with Lam-ang's white rooster and favorite dog, she held prayer vigils every night, until one day, Lam-ang came back to life.  And they lived happily ever after.
+Ines wept in sorrow.  Lam-ang's white rooster thought of a way to bring Lam-ang back to life again.  Ines Kannoyan paid a deep-sea diver to locate all the bones of Lam-ang under the sea.  The diver found all the bones very easily and Ines put them together.  
+
+Then, together with Lam-ang's white rooster and favorite dog, she held prayer vigils every night, until one day, Lam-ang came back to life.
+
+They lived happily ever after.

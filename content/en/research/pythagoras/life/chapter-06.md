@@ -1,28 +1,26 @@
-+++
-title= "The Pythagoreans"
-date= 2015-09-27
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
-linkb= "/research/pythagoras/life/chapter-05"
-linkbtext= "Chapter 5"
-linkf= "/research/pythagoras/life/chapter-08"
-linkftext= "Chapter 8"
-heading= "Chapter 6"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Pythagoreans"
+heading: "Chapter 6"
+date: 2015-09-25
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "On his first arrival in Italy, according to Nicomachus, being captivated by one popular oration alone, they exceeded 2,000 in number."
+icon: "/icons/py.png"
+---
 
-Most of his disciples were auditors whom they call Acusmatici. 
 
-On his first arrival in Italy, according to Nicomachus, being captivated by one popular oration alone, they exceeded two thousand in number. 
 
-These, with their wives and children, being collected into one very large and common auditory, called Homacoïon, and which for its magnitude resembled a city, founded a place which was universally called Magna Græcia. 
+Most of Pythagoras' disciples were auditors whom they call *Acusmatici*. 
 
-This many people received laws and mandates from Pythagoras as so many divine precepts, and without which they engaged in no occupation, dwelt together with the greatest general concord, celebrated and ranked by their neighbours among the number of the blessed. 
+According to Nicomachus, on his first arrival in Italy, his disciples exceeded 2,000 in number, after being captivated by one popular oration alone. 
 
-They shared their possessions in common. Such also was their reverence for Pythagoras, that they numbered him with the Gods, as a certain beneficent and most philanthropic dæmon. 
+They were collected into a very large <!-- and common --> auditorium, called *Homacoïon* with their wives and children. Because of their numbers, they resembled a city. They founded a place which was universally called *Magna Græcia*. 
+
+They received laws and mandates from Pythagoras as so many divine precepts, and without which they engaged in no occupation, dwelt together with the greatest general concord, celebrated and ranked by their neighbours among the number of the blessed. 
+
+They shared their possessions in common. 
+
+Such also was their reverence for Pythagoras, that they ranked him with the Gods, as a certain beneficent and most philanthropic dæmon. 
 
 Some celebrated him as the Pythian, but others as the Hyperborean Apollo. 
 
@@ -32,7 +30,9 @@ Others celebrated him as one of the Olympian Gods, who, in order to benefit and 
 
 A greater good never came, nor ever will come to mankind, than that 20 which was imparted by the Gods through this Pythagoras. 
 
-Hence, even now the proverb of the long-haired Samian, is applied to the most venerable man. But Aristotle relates, in his Treatise On the Pythagoric Philosophy, that such a division as the following was preserved by the Pythagoreans among their principal arcana; viz. that of rational animals one kind is a God, another man, and another such as Pythagoras. 
+Hence, even now the proverb of the long-haired Samian, is applied to the most venerable man. 
+
+But Aristotle relates, in his Treatise On the Pythagoric Philosophy, that such a division as the following was preserved by the Pythagoreans among their principal arcana; viz. that of rational animals one kind is a God, another man, and another such as Pythagoras. 
 
 They very reasonably apprehended him to be a being of this kind, through whom a right conception and conformable to things themselves was introduced of Gods, heroes, and dæmons; of the world, the all-various motion of the spheres and stars, their oppositions, eclipses, and inequalities, their eccentricities and epicycles; of all the natures contained in the heavens and the earth, together with those that have an intermediate subsistence, whether apparent or occult. Nor was there anything (in all this variety of information) at all contrary to the phenomena, or the conceptions of intellect. 
 
@@ -42,7 +42,7 @@ But besides all this, the best polity, popular concord, community of possessions
 
 <!-- On all these accounts, therefore, as I have just now said, he was (every where) so transcendently admired. -->
 
-## Chapter 7= Pythagoras in Italy and Sicily
+## Chapter 7: Pythagoras in Italy and Sicily
 
 <!-- It remains therefore after this, that we should relate how he travelled, what places he first visited, what discourses he made, on what subjects, and to whom they were addressed; for thus we shall easily apprehend the nature of his association with the men of that time. It is said then, that  -->
 

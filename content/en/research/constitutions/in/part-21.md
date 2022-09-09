@@ -1,20 +1,17 @@
 ---
-title: "TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS"
+title: "Temporary, Transitional And Special Provisions"
 heading: "Part 21"
-date: 2021-11-20
+date: 2021-09-20
 image: "/flags/in.png"
 description: ""
-linkb: /research/constitutions/in
-linkbtext: "constitutions"
-linkf: /research/constitutions/in
-linkftext: "Part 2"
 icon: /flags/in.png
 ---
 
 
-369. Temporary power to Parliament to make laws with respect to certain matters in the State
-List as if they were matters in the Concurrent List.—Notwithstanding anything in this Constitution,
-Parliament shall, during a period of five years from the commencement of this Constitution, have power to make laws with respect to the following matters as if they were enumerated in the Concurrent List, namely:—
+369. Temporary power to Parliament to make laws with respect to certain matters in the State List as if they were matters in the Concurrent List
+
+Notwithstanding anything in this Constitution, Parliament shall, during a period of five years from the commencement of this Constitution, have power to make laws with respect to the following matters as if they were enumerated in the Concurrent List, namely:
+
 (a) trade and commerce within a State in, and the production, supply and distribution of, cotton and
 woollen textiles, raw cotton (including ginned cotton and unginned cotton or kapas), cotton seed, paper (including newsprint), food-stuffs (including edible oilseeds and oil), cattle fodder (including oil-cakes and other concentrates), coal (including coke and derivatives of coal), iron, steel and mica;
 (b) offences against laws with respect to any of the matters mentioned in clause (a), jurisdiction
@@ -36,8 +33,8 @@ the matters with respect to which the Dominion Legislature may make laws for tha
 State, the President may by order specify.
 
 Explanation.—For the purposes of this article, the Government of the State means the person for the
-time being recognised by the President as the Maharaja of Jammu and Kashmir acting on the advice of the Council of Ministers for the time being in office under the Maharaja’s Proclamation dated the fifth day of
-March, 1948;
+time being recognised by the President as the Maharaja of Jammu and Kashmir acting on the advice of the Council of Ministers for the time being in office under the Maharaja’s Proclamation dated March 5, 1948;
+
 (c) the provisions of article 1 and of this article shall apply in relation to that State;
 (d) such of the other provisions of this Constitution shall apply in relation to that State subject to
 such exceptions and modifications as the President may by order specify:
@@ -63,7 +60,8 @@ otherwise.”.
 1. In exercise of the powers conferred by this article the President, on the recommendation of the Constituent Assembly of the State
 of Jammu and Kashmir, declared that, as from the 17th day of November, 1952, the said art. 370 shall be operative with the
 modification that for the Explanation in cl. (1) thereof, the following Explanation is substituted, namely:–
-“Explanation.– For the purposes of this article, the Government of the State means the person for the time being recognised
+
+<!-- “Explanation.– For the purposes of this article, the Government of the State means the person for the time being recognised
 by the President on the recommendation of the Legislative Assembly of the State as the *Sadar-I Riyasat of Jammu and Kashmir,
 acting on the advice of the Council of Ministers of the State for the time being in office.”.
 (Ministry of Law Order No. C.O. 44 dated the 15th November, 1952). *Now “Governor”.
@@ -71,12 +69,12 @@ acting on the advice of the Council of Ministers of the State for the time being
 notification, declare that this article shall cease to be operative or shall be operative only with such
 exceptions and modifications and from such date as he may specify:
 Provided that the recommendation of the Constituent Assembly of the State referred to in clause (2)
-shall be necessary before the President issues such a notification.]
-1
+shall be necessary before the President issues such a notification.] -->
+
 [371. Special provision with respect to the States of 2 *** Maharashtra and Gujarat.— 3 (1)***
 (2) Notwithstanding anything in this Constitution, the President may by order made with respect to
 [the State of Maharashtra or Gujarat], provide for any special responsibility of the Governor for—
-4
+
 (a) the establishment of separate development boards for Vidarbha, Marathwada, 5 [and the rest of
 Maharashtra or, as the case may be], Saurashtra, Kutch and the rest of Gujarat with the provision that
 a report on the working of each of these boards will be placed each year before the State Legislative
@@ -109,12 +107,13 @@ not be called in question on the ground that he ought or ought not to have acted
 individual judgment:
 Provided further that if the President on receipt of a report from the Governor or otherwise is
 satisfied that it is no longer necessary for the Governor to have special responsibility with respect to
-1. Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 22 (w.e.f. 1-11-1956).
+<!-- 1. Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 22 (w.e.f. 1-11-1956).
 2. The words “Andhra Pradesh”, omitted by Constitution (Thirty-second Amendment) Act, 1973, s. 2 (w.e.f. 1-7-1974).
 3. Cl. (1) omitted by ibid.
 4. Subs. by the Bombay Reorganisation Act, 1960 (11 of 1960), s. 85, for “the State of Bombay” (w.e.f. 1-5-1960).
 5. Subs. by ibid, for “the rest of Maharashtra” (w.e.f. 1-5-1960).
-6. Ins. by the Constitution (Thirteenth Amendment) Act, 1962, s. 2 (w.e.f. 1-12-1963).
+6. Ins. by the Constitution (Thirteenth Amendment) Act, 1962, s. 2 (w.e.f. 1-12-1963). -->
+
 162law and order in the State of Nagaland, he may by order direct that the Governor shall cease to have
 such responsibility with effect from such date as may be specified in the order;
 (c) in making his recommendation with respect to any demand for a grant, the Governor of
@@ -367,10 +366,10 @@ or other matter arising out of any treaty, agreement, engagement or other simila
 Sikkim which was entered into or executed before the appointed day and to which the Government of
 India or any of its predecessor Governments was a party, but nothing in this clause shall be construed
 to derogate from the provisions of article 143;
-1. Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 43, for “six years” (w.e.f. 6-9-1979). The words “six years”
+<!-- 1. Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 43, for “six years” (w.e.f. 6-9-1979). The words “six years”
 were subs. for the original words “five years” by the Constitution (Forty-second Amendment) Act, 1976, s. 56 (w.e.f. 3-1-1977).
 2. Subs. by the Constitution (Forty-fourth Amendment) Act, 1978, s. 43, for “five years” (w.e.f. 6-9-1979). The words “five years”
-were subs. for the original words “four years” by the Constitution (Forty-second Amendment) Act, 1976 by ibid.
+were subs. for the original words “four years” by the Constitution (Forty-second Amendment) Act, 1976 by ibid. -->
 168(n) the President may, by public notification, extend with such restrictions or modifications as he thinks
 fit to the State of Sikkim any enactment which is in force in a State in India at the date of the notification;
 (o) if any difficulty arises in giving effect to any of the foregoing provisions of this article, the
@@ -397,7 +396,8 @@ so decides:
 Provided that nothing in this clause shall apply to any Central Act in force in the Union territory of
 Mizoram immediately before the commencement of the Constitution (Fifty-third Amendment) Act, 1986;
 (b) the Legislative Assembly of the State of Mizoram shall consist of not less than forty members.]
-3
+
+
 [371H. Special provision with respect to the State of Arunachal Pradesh.—Notwithstanding
 anything in this Constitution,—
 (a) the Governor of Arunachal Pradesh shall have special responsibility with respect to law and
@@ -413,9 +413,9 @@ Provided further that if the President on receipt of a report from the Governor 
 satisfied that it is no longer necessary for the Governor to have special responsibility with respect to
 law and order in the State of Arunachal Pradesh, he may by order direct that the Governor shall cease
 to have such responsibility with effect from such date as may be specified in the order;
-1. See the Constitution (Removal of Difficulties) Order No. XI (C.O. 99).
+<!-- 1. See the Constitution (Removal of Difficulties) Order No. XI (C.O. 99).
 2. Ins. by the Constitution (Fifty-third Amendment) Act, 1986, s. 2 (w.e.f. 20-2-1987).
-3. Ins. by the Constitution (Fifty-fifth Amendment) Act, 1986, s. 2 (w.e.f. 20-2-1987).
+3. Ins. by the Constitution (Fifty-fifth Amendment) Act, 1986, s. 2 (w.e.f. 20-2-1987). -->
 169(b) the Legislative Assembly of the State of Arunachal Pradesh shall consist of not less than thirty
 members.]
 1
@@ -457,7 +457,7 @@ of 4 [three years] from the commencement of this Constitution; or
 (b) to prevent any competent Legislature or other competent authority from repealing or amending
 any law adapted or modified by the President under the said clause.
 Explanation I.—The expression “law in force” in this article shall include a law passed or made by
-1. Ins. by the Constitution (Fifty-sixth Amendment) Act, 1987, s. 2 (w.e.f. 30-5-1987).
+<!-- 1. Ins. by the Constitution (Fifty-sixth Amendment) Act, 1987, s. 2 (w.e.f. 30-5-1987).
 2. Ins. by the Constitution (Ninety-eighth Amendment) Act, 2012, s. 2 (w.e.f. 1-10-2013).
 3. See the Adaptation of Laws Order, 1950 dated the 26 th January, 1950, Gazette of India, Extraordinary, p. 449, as amended by
 notification No. S.R.O. 115, dated the 5 th June, 1950, Gazette of India, Extraordinary, Part II, Section 3, p. 51, notification No.
@@ -465,7 +465,8 @@ S.R.O. 870, dated the 4 th November, 1950, Gazette of India, Extraordinary, Part
 508, dated 4 th April, 1951, Gazette of India, Extraordinary, Part II, Section 3, p. 287, notification No. S.R.O. 1140B, dated the
 2 nd July, 1952, Gazette of India, Extraordinary, Part II, Section 3, p. 616/1, and the Adaptation of the Travancore-Cochin Land
 Acquisition Laws Order, 1952, dated the 20 th November, 1952, Gazette of India, Extraordinary, Part II, Section 3, p. 923.
-4. Subs. by the Constitution (First Amendment) Act, 1951, s. 12, for “two years” (w.e.f. 18-6-1951).
+4. Subs. by the Constitution (First Amendment) Act, 1951, s. 12, for “two years” (w.e.f. 18-6-1951). -->
+
 170a Legislature or other competent authority in the territory of India before the commencement of this
 Constitution and not previously repealed, notwithstanding that it or parts of it may not be then in
 operation either at all or in particular areas.
@@ -493,16 +494,16 @@ adaptations and modifications so made, and any such adaptation or modification s
 any court of law.
 (2) Nothing in clause (1) shall be deemed to prevent a competent Legislature or other competent
 authority from repealing or amending any law adapted or modified by the President under the said clause.]
-373. Power of President to make order in respect of persons under preventive detention in certain
-cases.—Until provision is made by Parliament under clause (7) of article 22, or until the expiration of one
-year from the commencement of this Constitution, whichever is earlier, the said article shall have effect
-as if for any reference to Parliament in clauses (4) and (7) thereof there were substituted a reference to the
+
+Article 373. Power of President to make order in respect of persons under preventive detention in certain cases
+
+Until provision is made by Parliament under clause (7) of article 22, or until the expiration of one year from the commencement of this Constitution, whichever is earlier, the said article shall have effect as if for any reference to Parliament in clauses (4) and (7) thereof there were substituted a reference to the
 President and for any reference to any law made by Parliament in those clauses there were substituted a
 reference to an order made by the President.
-374. Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court
-or before His Majesty in Council.—(1) The Judges of the Federal Court holding office immediately before
-the commencement of this Constitution shall, unless they have elected otherwise, become on such
-commencement the Judges of the Supreme Court and shall thereupon be entitled to such salaries and
+
+374. Provisions as to Judges of the Federal Court and proceedings pending in the Federal Court or before His Majesty in Council
+
+1) The Judges of the Federal Court holding office immediately before the commencement of this Constitution shall, unless they have elected otherwise, become on such commencement the Judges of the Supreme Court and shall thereupon be entitled to such salaries and
 allowances and to such rights in respect of leave of absence and pension as are provided for under article
 125 in respect of the Judges of the Supreme Court.
 (2) All suits, appeals and proceedings, civil or criminal, pending in the Federal Court at the
@@ -513,8 +514,8 @@ been delivered or made by the Supreme Court.
 (3) Nothing in this Constitution shall operate to invalidate the exercise of jurisdiction by His Majesty
 in Council to dispose of appeals and petitions from, or in respect of, any judgment, decree or order of any
 court within the territory of India in so far as the exercise of such jurisdiction is authorised by law, and any
-1. Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 23 (w.e.f. 1-11-1956).
-2. See the Adaptation of Laws Order of 1956 and 1957.
+<!-- 1. Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 23 (w.e.f. 1-11-1956).
+2. See the Adaptation of Laws Order of 1956 and 1957. -->
 171order of His Majesty in Council made on any such appeal or petition after the commencement of this
 Constitution shall for all purposes have effect as if it were an order or decree made by the Supreme Court
 in the exercise of the jurisdiction conferred on such Court by this Constitution.
@@ -524,8 +525,10 @@ petitions from or in respect of any judgment, decree or order of any court withi
 appeals and other proceedings pending before the said authority at such commencement shall be transferred
 to, and disposed of by, the Supreme Court.
 (5) Further provision may be made by Parliament by law to give effect to the provisions of this article.
-375. Courts, authorities and officers to continue to function subject to the provisions of the
-Constitution.—All courts of civil, criminal and revenue jurisdiction, all authorities and all officers,
+
+**Article 375. Courts, authorities and officers to continue to function subject to the provisions of the Constitution**
+
+All courts of civil, criminal and revenue jurisdiction, all authorities and all officers,
 judicial, executive and ministerial, throughout the territory of India, shall continue to exercise their
 respective functions subject to the provisions of this Constitution.
 376. Provisions as to Judges of High Courts.—(1) Notwithstanding anything in clause (2) of article
@@ -543,15 +546,19 @@ specified and shall, notwithstanding anything in clauses (1) and (2) of article 
 to clause (1) of that article, continue to hold office until the expiration of such period as the President may by
 order determine.
 (3) In this article, the expression “Judge” does not include an acting Judge or an additional Judge.
-377. Provisions as to Comptroller and Auditor-General of India.—The Auditor-General of India
-holding office immediately before the commencement of this Constitution shall, unless he has elected otherwise,
+
+Article 377. Provisions as to Comptroller and Auditor-General of India
+
+The Auditor-General of India holding office immediately before the commencement of this Constitution shall, unless he has elected otherwise,
 become on such commencement the Comptroller and Auditor-General of India and shall thereupon be entitled
 to such salaries and to such rights in respect of leave of absence and pension as are provided for under clause (3)
 of article 148 in respect of the Comptroller and Auditor-General of India and be entitled to continue to hold
 office until the expiration of his term of office as determined under the provisions which were applicable to him
 immediately before such commencement.
-378. Provisions as to Public Service Commissions.—(1) The members of the Public Service
-Commission for the Dominion of India holding office immediately before the commencement of this
+
+Article 378. Provisions as to Public Service Commissions
+
+1) The members of the Public Service Commission for the Dominion of India holding office immediately before the commencement of this
 Constitution shall, unless they have elected otherwise, become on such commencement the members of the
 Public Service Commission for the Union and shall, notwithstanding anything in clauses (1) and (2) of article
 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration of their
@@ -566,7 +573,7 @@ Commission for the corresponding State or the members of the Joint State Public 
 (2) of article 316 but subject to the proviso to clause (2) of that article, continue to hold office until the expiration
 of their term of office as determined under the rules which were applicable immediately before such
 commencement to such members.
-1
+
 [378A. Special provision as to duration of Andhra Pradesh Legislative Assembly.—
 Notwithstanding anything contained in article 172, the Legislative Assembly of the State of Andhra Pradesh
 as constituted under the provisions of sections 28 and 29 of the States Reorganisation Act, 1956, shall, unless
@@ -574,8 +581,10 @@ sooner dissolved, continue for a period of five years from the date referred to 
 longer and the expiration of the said period shall operate as a dissolution of that Legislative Assembly.]
 379.—391. Omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-
 1956).
-392. Power of the President to remove difficulties.—(1) The President may, for the purpose of
-removing any difficulties, particularly in relation to the transition from the provisions of the Government
+
+**Article 392. Power of the President to remove difficulties**
+
+1) The President may, for the purpose of removing any difficulties, particularly in relation to the transition from the provisions of the Government
 of India Act, 1935, to the provisions of this Constitution, by order direct that this Constitution shall, during
 such period as may be specified in the order, have effect subject to such adaptations, whether by way of
 modification, addition or omission, as he may deem to be necessary or expedient:

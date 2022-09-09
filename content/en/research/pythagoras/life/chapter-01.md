@@ -1,18 +1,15 @@
-+++
-title= "The Early Life of Pythagoras"
-date= 2015-09-30
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Pythagoras' soul was sent to mankind from the empire of Apollo, either as an attendant on the God, of co-arranged with him in some other more familiar way"
-linkb= "/research/pythagoras/life"
-linkbtext= "Index"
-linkf= "/research/pythagoras/life/chapter-03"
-linkftext= "Chapter 3"
-heading= "Chapter 1-2"
-icon = "/icons/py.png"
-# inkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Early Life of Pythagoras"
+heading: "Chapter 1-2"
+date: 2015-09-30
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Pythagoras' soul was sent to mankind from the empire of Apollo, either as an attendant on the God, of co-arranged with him in some other more familiar way"
+icon: "/icons/py.png"
+---
+
+
+
 
 All men of sound understandings call on divinity when entering any philosophic discussion. 
 
@@ -29,7 +26,7 @@ On all these accounts, therefore, having invoked the Gods as our leaders, and co
 The will of the Gods is sufficient for us, in conjunction with which it is possible to sustain things still more arduous than these. But after the Gods, we shall unite ourselves as to a leader, to the prince and father of this divine philosophy; of whose origin and country we must rise a little higher in our investigation. -->
 
 
-## Chapter 2= The Early Days
+## Chapter 2: The Early Days
 
 Ancæus dwelt in Samos in Cephallenia and was begot by Jupiter, whether he derived the fame of such an honorable descent through virtue, or through a certain greatness of soul. 
 

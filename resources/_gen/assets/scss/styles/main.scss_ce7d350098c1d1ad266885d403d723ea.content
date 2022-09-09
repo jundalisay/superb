@@ -6882,6 +6882,10 @@ body {
   background-color: #3a000e;
   background-image: url(/avatars/mill.png); }
 
+.Pythagoras {
+  background-color: #3a000e;
+  background-image: url(/avatars/pyth.jpg); }
+
 .Jesus {
   background-color: #ccd6fc;
   background-image: url(/icons/jesus.png); }

@@ -1,17 +1,14 @@
-+++
-title= "Pythagoras was a Philosopher"
-date= 2015-09-23
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
-linkb= "/research/pythagoras/life/chapter-10"
-linkbtext= "Chapter 10"
-linkf= "/research/pythagoras/life/chapter-15"
-linkftext= "chapter-15"
-# btext= Chapter 12
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagoras was a Philosopher"
+heading: "Chapter 12"
+date: 2015-09-18
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Pythagoras was the first who called himself a philosopher"
+icon: "/icons/py.png"
+---
+
+
 
 Pythagoras was the first who called himself a philosopher.
 

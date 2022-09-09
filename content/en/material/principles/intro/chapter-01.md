@@ -4,10 +4,6 @@ title: "The Five Layers of Superphysics"
 date: 2020-01-01
 image: "/covers/spblack.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
-linkb: /superphysics/principles/
-linkbtext: "Principles"
-linkf: /superphysics/principles/intro/chapter-02
-linkftext: "Gravitational Signatures"
 author: Juan
 icon: /icons/pantry.png
 aliases:
@@ -15,6 +11,7 @@ aliases:
   /material/five-layers-of-superphysics
   /material/principles/five-layers
 ---
+
 
 
 Our Five Layers are derived from the Five Elements of the Greeks, Hindus, and Chinese. Such a concept is absent in science because science came from the Western civilization which is really just the Roman Empire. 

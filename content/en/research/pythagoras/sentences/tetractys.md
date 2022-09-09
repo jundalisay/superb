@@ -1,14 +1,13 @@
-+++
-title= "The Tetractys"
-date= 2015-09-09
-image= "/covers/sentences.jpg"
-description= "The Tetractys involved the monad"
-author= "Iamblichus"
-linkb= "/research/pythagoras/sentences/symbols"
-linkbtext= "Symbols"
-linkf= "/research/pythagoras/sentences/virtue"
-linkftext= "Virtue"
-+++
+---
+title: "The Tetractys"
+date: 2022-04-09
+image: /covers/sentences.jpg
+description: "The Tetractys involved the monad"
+author: Juan
+icon: /icons/spmat.png
+---
+
+
 
 The tetrad was called by the Pythagoreans every number, because it comprehends in itself all the numbers as far as to the decad, and the decad itself. The sum of 1, 2, 3, and 4, is 10. 
 

@@ -4,10 +4,6 @@ heading: "He did all of the work required for a revolution"
 description: "Currently, Jose Rizal is the national hero. But morally, it would be better for Andres Bonifacio to be the hero."
 date: 2020-04-06
 image: /covers/boni.jpg
-linkb: "/maharlika/economics/natural-industries"
-linkbtext: "Natural industries"
-linkf: "/maharlika/metaphysics/maharlika-social-cycles"
-linkftext: "Maharlika-social-cycles"
 author: Juan
 icon: /favicon.png
 icontext: Maharlikanism icon
@@ -21,7 +17,6 @@ Currently, Jose Rizal is the national hero of the Philippines because of his mar
 
 However, the main problem with Rizal was that he did not believe that the Philippines should be fully independent from Spain. Instead, he advocated for the Spanish to reform their colonial policy. This is naive and would be similar to Benjamin Franklin asking Britain to reduce the taxes on the American colonies instead of asking for independence.   
 
-<br>
 
 ## Bonifacio Did Most of the Work
 
@@ -48,7 +43,6 @@ The disunity in revolutionary struggles is actually common:
 - The Vietnam war split Vietnam into North and South
 
 
-<br>
 
 ## Rizal is the Hero of Felipe-nos, Bonifacio is the Hero of Maharlikans
 

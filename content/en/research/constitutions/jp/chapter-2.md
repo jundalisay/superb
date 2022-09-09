@@ -8,14 +8,14 @@ icon: "/flags/jp.png"
 ---
 
 
-## CHAPTER 2: RENUNCIATION OF WAR 
+## Chapter 2: Renunciation Of War 
 
 Article 9. Aspiring sincerely to an international peace based on justice and order, the Japanese people forever renounce war as a sovereign right of the nation and the threat or use of force as means of settling international disputes. 
 
 In order to accomplish the aim of the preceding paragraph, land, sea, and air forces, as well as other war potential, will never be maintained. The right of belligerency of the state will not be recognized. 
 
 
-## CHAPTER 3: RIGHTS AND DUTIES OF THE PEOPLE 
+## Chapter 3: Rights And Duties Of The People 
 
 Article 10. The conditions necessary for being a Japanese national shall be determined by law. 
 

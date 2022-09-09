@@ -1,14 +1,15 @@
-+++
-title= "Select Sentences Of Sextus The Pythagorean"
-date= 2015-09-09
-author= "Sextus"
-image= "/covers/sentences.jpg"
-description= "To neglect things of the smallest consequence, is not the least thing in human life."
-linkb= "/research/pythagoras/sentences/music"
-linkbtext= "Music"
-linkf= "/research/pythagoras/sentences/strobeus"
-linkftext= "Strobeus"
-+++
+---
+title: "Select Sentences Of Sextus The Pythagorean"
+date: 2022-04-10
+# date: 2022-04-13
+image: /covers/sentences.jpg
+description: "To neglect things of the smallest consequence, is not the least thing in human life"
+author: Sextus
+# icon: /icons/spmat.png
+---
+
+
+
 
 To neglect things of the smallest consequence, is not the least thing in human life.
 

@@ -1,15 +1,13 @@
-+++
-title= "Pythagoras Sails for Egypt"
-date= 2015-09-29
-author= "Iamblichus"
-image= "/photos/egypt.jpg"
-description= "Pythagoras thus learned the mysteries of the Phoenicians which were derived from the sacred rites in Egypt like a colony and a progeny"
-linkb= "/research/pythagoras/life/chapter-01"
-linkbtext= "Chapter 1"
-linkf= "/research/pythagoras/life/chapter-05"
-linkftext= "Chapter 5"
-heading= "Chapter 3-4"
-+++
+---
+title: "Pythagoras Sails for Egypt"
+heading: "Chapter 3-4"
+date: 2015-09-29
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Pythagoras thus learned the mysteries of the Phoenicians which were derived from the sacred rites in Egypt like a colony and a progeny"
+icon: "/icons/py.png"
+---
+
 
 
 Pythagoras was thus benefited by and learned from Thales. For this, he entirely abstained from wine, animal food, and  voracity. He confined himself to such essential nutrition which was easy to digest. 

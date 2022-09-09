@@ -4,20 +4,13 @@ heading: "Section 6"
 date: 2021-11-20
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br/title-05
-linkbtext: "Title 5"
-linkf: /research/constitutions/br/title-05
-linkftext: "Title 5"
 icon: "/flags/br.png"
 ---
 
 
 Article 157.  The following shall be assigned to the states and to the Federal District:
-1. the proceeds from the collection of the federal tax on income and earnings
-of any nature, levied at source on income paid on any account by them, by their
-autonomous government entities and by the foundations they institute and maintain;
-2.  twenty per cent of the proceeds from the collection of the tax that the Union
-may institute in the exercise of the powers conferred on it by article 154, I.
+1. the proceeds from the collection of the federal tax on income and earnings of any nature, levied at source on income paid on any account by them, by their autonomous government entities and by the foundations they institute and maintain;
+2.  20% of the proceeds from the collection of the tax that the Union may institute in the exercise of the powers conferred on it by article 154, I.
 
 Article 158. The following shall be assigned to the municipalities:
 1. the proceeds from the collection of the federal tax on income and earnings of any nature, levied at source on income paid on any account by them, by their autonomous government entities and by the foundations they institute and maintain;
@@ -61,7 +54,7 @@ Paragraph 3. The states shall remit twenty-five per cent of the funds they may
 receive as provided by item II to the respective municipalities, observing the criteria
 established in article 158, sole paragraph, I and II.
 
-Paragraph 4. Twenty-five per cent of the amount of monies referred to in item
+Paragraph 4. 25% of the amount of monies referred to in item
 III and allocated to each State shall be assigned to its Municipalities, in accordance
 with the law referred to in said item.
 Article 160. It is forbidden to withhold or to make any restriction to the remittance

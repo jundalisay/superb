@@ -1,17 +1,13 @@
-+++
-title= "The Policies for Boys"
-date= 2015-09-24
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-09"
-linkbtext= "Chapter 9"
-linkf= "/research/pythagoras/life/chapter-12"
-linkftext= "Chapter 12"
-# btext= Chapter 10
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Policies for Boys"
+heading: "Chapter 10"
+date: 2015-09-20
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: ""
+icon: "/icons/py.png"
+---
+
 
 Pythagoras advised the boys to <!-- , therefore, complying with their wish, is said to have given the boys the following advice= That they should --> neither revile any one, nor take vengeance on those that reviled. 
 
@@ -32,7 +28,8 @@ He added, that they should exercise themselves in hearing, in order that they ma
 For thus hereafter, they will justly think it right that neither should they be injured by their juniors. On account of these exhortations, it must be confessed that he deserved not to be called by his own name, but that all men should denominate him divine.
 
 
-## Chapter 11= Policies for Women
+
+## Chapter 11: Policies for Women
 
 But to the women he is said to have discoursed concerning sacrifices as follows= 
 

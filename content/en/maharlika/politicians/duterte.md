@@ -4,10 +4,6 @@ heading: "though his policies were hijacked by neoliberalism"
 description: "Duterte is a benevolent dictator who cares for the people. Unfortunately, he seems helpless against the neoliberals in government."
 date: 2021-09-30
 image: https://sorasystem.sirv.com/photos/duterte.jpg
-linkb: "/maharlika/economics/natural-industries"
-linkbtext: "Natural industries"
-linkf: "/maharlika/economics/dutertenomics"
-linkftext: "dutertenomics"
 author: Juan
 icon: /favicon.png
 aliases:

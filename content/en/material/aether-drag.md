@@ -3,10 +3,6 @@ title: "How We Found the Aether Drag"
 date: 2022-04-13
 image: /graphics/physics/aether.jpg
 description: "The aether drag has always been in the measurements done by physicists on light"
-linkb: /material/
-linkbtext: "Index"
-linkf: /material/
-linkftext: "Index"
 author: Juan
 icon: /icons/spmat.png
 ---

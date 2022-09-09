@@ -1,8 +1,20 @@
-CHAPTER XVIII The Right of Embassies.
+---
+title: The Right of Embassies
+heading: Chapter 18
+date: 2022-06-30
+image: /covers/warpeace.jpg
+description: ""
+author: "Hugo Grotius"
+---
 
-    Right of Embassies, an obligation arising out of the law of nations—Where it obtains—Whether Embassies are always to be admitted—Dismissal or punishment of ambassadors engaging in plots not to be considered as a harsh measure, but an act of self-defence—A power to whom no ambassador has been sent, not bound to respect the rights of embassy—An enemy to whom an ambassador is sent bound to respect his rights—The law of retaliation no plea for ill treatment of an ambassador—This right of protection extends to an ambassador's suite, if he thinks proper to claim it—To his moveable property—Examples of obligation without the right of compulsion—Importance of the sacred character of ambassadors.
 
-I. Hitherto the pursuit of our inquiries has led us to examine those rights to which we are entitled by the law of nature, occasionally touching upon those points where its authority is farther confirmed by the voluntary law of nations. And that voluntary law as it is called, gives rise to certain obligations, which now remain for our discussion, and in which the rights of ambassadors form a leading feature. Almost every page of history offers some remark on the inviolable rights of ambassadors, and the security of their persons, a security sanctioned by every clause and precept of human and revealed law. Nor is it surprising that the persons of those should be deemed inviolable, who form the principal link in that chain, by which sovereigns and independent states maintain their intercourse with each other. To offer violence to them is not only an act of INJUSTICE, but, as Philip in his letter to the Athenians says, is acknowledged by all to be an act of IMPIETY.
+Right of Embassies, an obligation arising out of the law of nations—Where it obtains—Whether Embassies are always to be admitted—Dismissal or punishment of ambassadors engaging in plots not to be considered as a harsh measure, but an act of self-defence—A power to whom no ambassador has been sent, not bound to respect the rights of embassy—An enemy to whom an ambassador is sent bound to respect his rights—The law of retaliation no plea for ill treatment of an ambassador—
+
+This right of protection extends to an ambassador's suite, if he thinks proper to claim it—To his moveable property—Examples of obligation without the right of compulsion—Importance of the sacred character of ambassadors.
+
+## Part 1
+
+Hitherto the pursuit of our inquiries has led us to examine those rights to which we are entitled by the law of nature, occasionally touching upon those points where its authority is farther confirmed by the voluntary law of nations. And that voluntary law as it is called, gives rise to certain obligations, which now remain for our discussion, and in which the rights of ambassadors form a leading feature. Almost every page of history offers some remark on the inviolable rights of ambassadors, and the security of their persons, a security sanctioned by every clause and precept of human and revealed law. Nor is it surprising that the persons of those should be deemed inviolable, who form the principal link in that chain, by which sovereigns and independent states maintain their intercourse with each other. To offer violence to them is not only an act of INJUSTICE, but, as Philip in his letter to the Athenians says, is acknowledged by all to be an act of IMPIETY.
 
 II. But whatever rights the law of nations may confer upon ambassadors, it is necessary in the first place to observe, that none are entitled to them, but those, who are sent by the sovereigns of independent countries to each other. For the privileges of provincial, or municipal deputies sent to the states general of any country are regulated by the particular laws of that country and not by the law of nations.52
 
@@ -26,9 +38,15 @@ In the third place, there may be sufficient grounds for refusing to admit an amb
 
 There may often be the best reasons for a sovereign's refusing to allow of a RESIDENT minister at his court; a practice, so general in the present day, but totally unknown to the ages of antiquity.
 
-IV. As to the personal exemption of ambassadors from arrest, constraint, or violence of any kind, it is a subject of some difficulty to determine, owing to the varieties of opinion entertained by the most celebrated writers on the question. In the consideration of this matter, our attention is directed in the first place to the personal privileges and exemptions of ambassadors themselves, and next to those of their attendants, and their goods. With respect to their persons, some writers are of opinion, that it is ONLY from UNJUST VIOLENCE, and ILLEGAL CONSTRAINT, that the law of nations protects ambassadors. For they imagine that their privileges are to be explained according to the common principles of the law of nature. Others again suppose that ambassadors are not amenable to punishment for ALL offences, but only for such as amount to a transgression of the law of NATIONS, the principles of which are of such general extent, as to include the law of nature: consequently there can be no offences for which an ambassador is not punishable, except for those actions that are made such by the positive rules of MUNICIPAL or CIVIL LAW.
+## Part 4 
 
-206 Others again consider these public representatives of states and crowned heads, as only liable to punishment for offences affecting the dignity or governments of the sovereigns to whom they are sent. While, on the other hand, there are some writers who maintain that for any state to punish an ambassador for ANY CRIME WHATEVER is highly dangerous to the independence of foreign powers; but that all offenders of that description ought to be left to the laws of their respective countries, to be punished or not according to their deserts, upon due complaint being made to the sovereigns by whom they were sent.
+The personal exemption of ambassadors from arrest, constraint, or violence is difficult to determine owing to the varieties of opinion.<!--  entertained by the most celebrated writers on the question.  -->
+
+In the consideration of this matter, our attention is directed in the first place to the personal privileges and exemptions of ambassadors themselves, and next to those of their attendants, and their goods. With respect to their persons, some writers are of opinion, that it is ONLY from UNJUST VIOLENCE, and ILLEGAL CONSTRAINT, that the law of nations protects ambassadors. For they imagine that their privileges are to be explained according to the common principles of the law of nature. 
+
+Others again suppose that ambassadors are not amenable to punishment for ALL offences, but only for such as amount to a transgression of the law of NATIONS, the principles of which are of such general extent, as to include the law of nature: consequently there can be no offences for which an ambassador is not punishable, except for those actions that are made such by the positive rules of MUNICIPAL or CIVIL LAW.
+
+Others consider these public representatives of states and crowned heads, as only liable to punishment for offences affecting the dignity or governments of the sovereigns to whom they are sent. While, on the other hand, there are some writers who maintain that for any state to punish an ambassador for ANY CRIME WHATEVER is highly dangerous to the independence of foreign powers; but that all offenders of that description ought to be left to the laws of their respective countries, to be punished or not according to their deserts, upon due complaint being made to the sovereigns by whom they were sent.
 
 Some few writers, indeed, in laying down the rule to be observed in such cases, have decided that an appeal should be made to other independent and disinterested powers, which may be considered rather as a matter of DISCRETION, than of ABSOLUTE RIGHT. But the advocates of all these various systems have come to no definite conclusion in support of their favourite opinions. For this is a right which cannot, like the law of nature, be established upon unchangeable rules, but derives all its efficacy from the will of nations. Nations if they had thought proper, certainly might have laid down ABSOLUTE rules of security for ambassadors, or coupled them with certain exceptions. The argument is supported on one side by the urgent necessity of heinous crimes being punished, and on the other, the utmost latitude of exemption is favoured on account of the utility of embassies, the facility of sending which ought to be encouraged by every possible privilege, and security. To settle the point therefore, we must consider how far nations have agreed among themselves upon these principles; the proofs of which can only be found in the evidence of history.
 
@@ -52,22 +70,51 @@ VI. But if an embassy, admitted by an ENEMY is entitled to all the privileges of
 
 Cicero, in his first speech against Verres, asks, if ambassadors ought not to be safe in the midst of an enemy's country, or even in his camp? Innumerable other instances of this kind might be produced from the highest authorities both ancient and modern. And it is with reason that such privileges are revered, for in the midst of war many circumstances arise, which cannot be decided but through ambassadors, and it is the only channel through which proposals of peace can be made, and confirmed.
 
-VII. It is frequently made a subject of inquiry, whether the ambassador of a sovereign, who has exercised any act of cruelty or rigour, will be subject to the law of retaliation. History furnishes many instances, in which punishment has been inflicted in such a manner. But history is sometimes nothing more than a catalogue of actions marked with injustice, and ungovernable fury. Whereas the law of nations, by its privileges, designs to secure the dignity not only of sovereigns themselves, but also that of the ambassadors whom they employ. Consequently there is a tacit agreement understood to be made with the latter, that HE shall be exempt, not only from any ill treatment, that may affect the principal, but from such likewise, as may affect himself. So that it was a magnanimous answer, conformable to the law of nations, which Scipio made, when the Roman ambassadors had been211 ill-treated by the Carthaginians, and the Carthaginian ambassadors were brought before him, upon his being asked, in what manner they should be treated, he replied, not as the Roman ambassadors had been by the Carthaginians. Livy adds, that he said, he would do nothing unbecoming the character and laws of the Roman people. Valerius Maximus assigns the same language to the Consuls, on an occasion similar, but prior to this. In addressing Hanno, they said, "the pledge of faith, which our state has given, releases you from any such fear." For even at that time, Cornelius Asina, in violation of his public character, had been arrested and thrown into prison by the Carthaginians.
+## Part 7:
 
-VIII. The train too of an ambassador, and all the plate belonging to him are entitled to a peculiar kind of protection. Which gave rise to the passage in the ancient song of the Heralds, "O Sovereign, do you make me a royal messenger from the Roman citizens? and do you confer the same privileges on my train and every thing, which belongs to me?" And by the Julian law, an injury affecting not only ambassadors, but even their attendants, is pronounced to be a violation of public right.
+Can the ambassador of a sovereign, who has exercised any act of cruelty or rigour, will be subject to the law of retaliation. 
 
-But these privileges of attendants are only granted so far as an ambassador himself may think proper: so that if any of them has committed an offence, he must be required to deliver up the offender to punishment. He must be REQUIRED to give him up. Because no violence, in taking an offender of that description must be used. When the Achaeans had arrested some Lacedaemonians who were along with the Roman ambassadors, the Romans raised a great outcry against the act, as a violation of the law of nations. Sallust's opinion in the case of Bomilcar has already been referred to.
+History furnishes many instances, in which punishment has been inflicted in such a manner. 
+
+But history is sometimes nothing more than a catalogue of actions marked with injustice, and ungovernable fury. 
+
+Whereas the law of nations, by its privileges, designs to secure the dignity not only of sovereigns themselves, but also that of the ambassadors whom they employ. Consequently there is a tacit agreement understood to be made with the latter, that HE shall be exempt, not only from any ill treatment, that may affect the principal, but from such likewise, as may affect himself. 
+
+So that it was a magnanimous answer, conformable to the law of nations, which Scipio made, when the Roman ambassadors had been211 ill-treated by the Carthaginians, and the Carthaginian ambassadors were brought before him, upon his being asked, in what manner they should be treated, he replied, not as the Roman ambassadors had been by the Carthaginians. Livy adds, that he said, he would do nothing unbecoming the character and laws of the Roman people. Valerius Maximus assigns the same language to the Consuls, on an occasion similar, but prior to this. 
+
+In addressing Hanno, they said, "the pledge of faith, which our state has given, releases you from any such fear." For even at that time, Cornelius Asina, in violation of his public character, had been arrested and thrown into prison by the Carthaginians.
+
+## Part 8. 
+
+The train too of an ambassador, and all the plate belonging to him are entitled to a peculiar kind of protection. 
+
+This led to the passage in the ancient song of the Heralds:
+
+"O Sovereign, do you make me a royal messenger from the Roman citizens? and do you confer the same privileges on my train and every thing, which belongs to me?" 
+
+By the Julian law, an injury affecting not only ambassadors, but even their attendants, is pronounced to be a violation of public right.
+
+But these privileges of attendants are only granted so far as an ambassador himself may think proper: so that if any of them has committed an offence, he must be required to deliver up the offender to punishment. 
+
+He must be REQUIRED to give him up. Because no violence, in taking an offender of that description must be used. When the Achaeans had arrested some Lacedaemonians who were along with the Roman ambassadors, the Romans raised a great outcry against the act, as a violation of the law of nations. Sallust's opinion in the case of Bomilcar has already been referred to.
 
 But should the ambassador refuse to give up such offender, redress must be sought in the same manner, as would be done with respect to the ambassador himself. As to his authority over his household, and the asylum, which he may afford in his house to fugitives, these depend upon the agreement made with the power, to whom he is sent, and do not come within the decision of the law of nations.
 
-IX. Neither can the moveable property of an ambassador, nor any thing, which is reckoned a personal appendage, be seized for the discharge of a debt, either by process of law, or even by royal authority. For, to212 give him full security, not only his person but every thing belonging to him must be protected from all compulsion. If an ambassador then has contracted a debt, and, as is usual, has no possession in the country, where he resides: first of all, courteous application must be made to himself, and, in case of his refusal, to his sovereign. But if both these methods of redress fail, recourse must be had to those means of recovery, which are used against debtors residing out of the jurisdiction of the country.
 
-X. Nor is there, as some think, any reason to fear, that if such extensive privileges were established, no one would be found willing to enter into any contract with an ambassador, or to furnish him with necessary articles. For the same rule will hold good in the case of ambassadors, as in that of Kings. As sovereigns, who for the best of reasons, are placed above the reach of legal compulsion, find no difficulty in obtaining credit.
+## Part 9.
 
-XI. The importance of such exemptions may be easily inferred from the innumerable instances, in which both sacred and profane history abound, of wars undertaken on account of the ill-treatment of ambassadors. The war which David made against the Ammonites, on that account, affords us a memorable instance from holy writ; and as a profane writer, Cicero may be cited, who deemed it the most justifiable ground of the Mithridatic war.
+Neither can the moveable property of an ambassador, nor any thing, which is reckoned a personal appendage, be seized for the discharge of a debt, either by process of law, or even by royal authority. For, to212 give him full security, not only his person but every thing belonging to him must be protected from all compulsion. 
 
-PEACE
+If an ambassador then has contracted a debt, and, as is usual, has no possession in the country, where he resides: first of all, courteous application must be made to himself, and, in case of his refusal, to his sovereign. But if both these methods of redress fail, recourse must be had to those means of recovery, which are used against debtors residing out of the jurisdiction of the country.
 
-By Gari Melchers—From a panel painting in Library of Congress.
+
+## Part 10.
+
+Nor is there, as some think, any reason to fear, that if such extensive privileges were established, no one would be found willing to enter into any contract with an ambassador, or to furnish him with necessary articles. For the same rule will hold good in the case of ambassadors, as in that of Kings. As sovereigns, who for the best of reasons, are placed above the reach of legal compulsion, find no difficulty in obtaining credit.
+
+
+## Part 11.
+
+The importance of such exemptions may be easily inferred from the innumerable instances, in which both sacred and profane history abound, of wars undertaken on account of the ill-treatment of ambassadors. The war which David made against the Ammonites, on that account, affords us a memorable instance from holy writ; and as a profane writer, Cicero may be cited, who deemed it the most justifiable ground of the Mithridatic war.
 
 

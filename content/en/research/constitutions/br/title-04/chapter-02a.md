@@ -4,20 +4,17 @@ heading: "Chapter 2 Sections 1"
 date: 2021-11-20
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 
+
 Article 76.  The Executive Power is exercised by the President of the Republic, assisted by the Ministers of State
 
-Article 77. The election of the President and Vice-President of the Republic shall take place simultaneously, on the first Sunday of October, in the first round, and on the last Sunday of October, in the second round, as the case may be, of the year preceding the one in which the current presidential term of office ends. 
+Article 77. The election of the President and Vice-President shall take place simultaneously, on the first Sunday of October, in the first round, and on the last Sunday of October, in the second round, as the case may be, of the year preceding the one in which the current presidential term of office ends. 
 
-Paragraph 1. The election of the President of the Republic shall imply the election of the Vice-President registered with him.
+The election of the President of the Republic shall imply the election of the Vice-President registered with him.
 
-Paragraph 2. The candidate who, being registered by a political party, obtains an absolute majority of votes, not counting blank or void votes, shall be considered elected President.
+The candidate who, being registered by a political party, obtains an absolute majority of votes, not counting blank or void votes, shall be considered elected President.
 
 Paragraph 3. If no candidate attains an absolute majority in the first voting, another election shall be held within twenty days from the announcement of the results, the competition being between the two candidates with the highest number of votes, and being considered elected the candidate with the majority of valid votes.
 

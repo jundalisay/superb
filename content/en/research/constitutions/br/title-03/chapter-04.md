@@ -1,13 +1,9 @@
 ---
 title: "The Municipalities"
 heading: "Title 3 Chapter 4"
-date: 2021-11-20
+date: 2021-11-14
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 

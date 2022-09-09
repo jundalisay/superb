@@ -1,7 +1,14 @@
-CHAPTER XXII.
-On the Faith on Those Invested with Subordinate Powers in War.
+---
+title: On the Faith on Those Invested with Subordinate Powers in War
+heading: Chapter 22
+date: 2022-07-29
+image: /covers/warpeace.jpg
+description: 
+author: "Hugo Grotius"
+---
 
-    Commanders—Extent of their engagements in binding the sovereign—Exceeding their commission—The opposite party bound by such engagements—Power of commanders in war, or of magistrates with respect to those under their authority—Generals cannot make peace, but may conclude a truce—Extent of their authority in granting protection to persons and property—Such engagements to be strictly interpreted—Interpretation of capitulations accepted by generals—Precautions necessary till the pleasure of the sovereign be known—Promise to surrender a town.
+
+Commanders—Extent of their engagements in binding the sovereign—Exceeding their commission—The opposite party bound by such engagements—Power of commanders in war, or of magistrates with respect to those under their authority—Generals cannot make peace, but may conclude a truce—Extent of their authority in granting protection to persons and property—Such engagements to be strictly interpreted—Interpretation of capitulations accepted by generals—Precautions necessary till the pleasure of the sovereign be known—Promise to surrender a town.
 
 I. Ulpian reckons the agreements, entered into between the generals of opposite armies during the course of a war, among public conventions. So that after explaining the nature of the faith pledged by sovereign powers to each other, it will be proper to make a short inquiry into the nature of engagements made by subordinate authorities; whether those authorities bear a near approach to supreme power, as commanders in chief, or are removed to a greater distance from it. Caesar makes the following distinction between them, observing that the offices of commander and deputy are very different; the latter being obliged to act according to prescribed rules, and the former having unqualified discretion in matters of the highest importance.
 

@@ -1,13 +1,9 @@
 ---
 title: "The Functions Essential to Justice"
 heading: "Title 4 Chapter 4"
-date: 2021-11-20
+date: 2021-11-04
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 

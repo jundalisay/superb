@@ -1,13 +1,9 @@
 ---
-title: "AMENDMENT OF THE CONSTITUTION"
+title: "Amendment Of The Constitution"
 heading: "Part 20"
-date: 2021-11-20
+date: 2021-09-30
 image: "/flags/in.png"
 description: ""
-linkb: /research/constitutions/in
-linkbtext: "constitutions"
-linkf: /research/constitutions/in
-linkftext: "Part 2"
 icon: /flags/in.png
 ---
 
@@ -23,7 +19,7 @@ the Constitution shall stand amended in accordance with the terms of the Bill:
 Provided that if such amendment seeks to make any change in—
 (a) article 54, article 55, article 73, 9 [article 162, article241 or article 279A] or
 
-1. Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for cl. (30) (w.e.f. 1-11-1956).
+<!-- 1. Subs. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch., for cl. (30) (w.e.f. 1-11-1956).
 2.The words and letters “specified in Part A or Part B of the First Schedule ” omitted by ibid.
 3. The words “or Rajpramukh” omitted by ibid.
 4. See the Constitution (Declaration as to Foreign States) Order, 1950 (C.O. 2).
@@ -33,7 +29,8 @@ Provided that if such amendment seeks to make any change in—
 7. Art. 368 renumbered as cl. (2) thereof by ibid.
 8. Subs. by ibid., for “it shall be presented to the President for his assent and upon such assent being given to the Bill,”.
 9. Subs. by the Constitution (One Hundred and First Amendment) Act, 2016, s. 15, for the words and figures “article 162 or article
-241” (w.e.f. 16-9-2016).
+241” (w.e.f. 16-9-2016). -->
+
 159(b) Chapter IV of Part V, Chapter V of Part VI, or Chapter I of Part XI, or
 (c) any of the Lists in the Seventh Schedule, or
 (d) the representation of States in Parliament, or

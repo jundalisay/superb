@@ -1,17 +1,14 @@
-+++
-title= "Policies for the Senators"
-date= 2015-09-25
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
-linkb= "/research/pythagoras/life/chapter-08"
-linkbtext= "Chapter 8"
-linkf= "/research/pythagoras/life/chapter-10"
-linkftext= "chapter-10"
-# btext= Chapter 9
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Policies for the Senators"
+heading: "Chapter 9"
+date: 2015-09-25
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: ""
+icon: "/icons/py.png"
+---
+
+
 
 Afterwards, a thousand men having called Pythagoras into the senate-house, and praised him for what he had said to their sons. They wanted him, if he had any thing advantageous to say to the Crotonians, to unfold it to those who were the leaders of the administration. 
 

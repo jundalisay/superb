@@ -1,13 +1,9 @@
 ---
 title: "Accounting, Financial and Budgetary Control"
 heading: "Title 4 Section 9"
-date: 2021-11-20
+date: 2021-11-22
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 

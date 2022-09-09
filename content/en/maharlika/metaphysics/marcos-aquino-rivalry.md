@@ -4,11 +4,6 @@ heading: "Caused by the Economic Freedom by Laurel-Langley"
 date: 2021-10-11
 description: "The Marcos-Aquino Rivalry is just the liberal vs conservative version of politics"
 image: /photos/coryv.jpg
-heading: Liberal vs Conservative
-linkb: "/maharlika/politicians/gloria-arroyo"
-linkbtext: "Gloria Arroyo: Evil Genius"
-linkf: "/maharlika/economics/natural-industries"
-linkftext: "Natural Industries"
 author: Juan
 icon: /favicon.png
 aliases:

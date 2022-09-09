@@ -1,9 +1,20 @@
-PART XVI SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES
+---
+title: "Special Provisions Relating To Certain Classes"
+heading: "Part 16"
+date: 2021-10-08
+image: "/flags/in.png"
+description: ""
+icon: /flags/in.png
+---
 
-330. Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People.—
+
+## PART 16 SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES
+
+Article 330. Reservation of seats for Scheduled Castes and Scheduled Tribes in the House of the People
+
 (1) Seats shall be reserved in the House of the People for —
 (a) the Scheduled Castes;
-2
+
 [(b) the Scheduled Tribes except the Scheduled Tribes in the autonomous districts of Assam; and]
 (c) the Scheduled Tribes in the autonomous districts of Assam.
 (2) The number of seats reserved in any State 3 [or Union territory] for the Scheduled Castes or the
@@ -29,9 +40,9 @@ community is not adequately represented in the House of the People, nominate not
 of that community to the House of the People.
 332. Reservation of seats for Scheduled Castes and Scheduled Tribes in the Legislative
 Assemblies of the States.—(1) Seats shall be reserved for the Scheduled Castes and the Scheduled Tribes,
-8
+
 [except the Scheduled Tribes in the autonomous districts of Assam], in the Legislative Assembly of every
-1. Ins. by the Constitution (Thirty-ninth Amendment) Act, 1975, s. 4 and Rep. by the Constitution (Forty-fourth Amendment) Act,
+<!-- 1. Ins. by the Constitution (Thirty-ninth Amendment) Act, 1975, s. 4 and Rep. by the Constitution (Forty-fourth Amendment) Act,
 1978, s. 36 (w.e.f. 20-6-1979).
 2. Subs. by the Constitution (Fifty-first Amendment) Act, 1984, s. 2, for sub-clause (b) (w.e.f. 16-6-1986).
 3. Ins. by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
@@ -39,7 +50,7 @@ Assemblies of the States.—(1) Seats shall be reserved for the Scheduled Castes
 5. Ins. by the Constitution (Forty-second Amendment) Act, 1976, s. 47 (w.e.f. 3-1-1977).
 6. Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 6, for “2000” (w.e.f. 21-2-2001).
 7. Subs. by the Constitution (Eighty-seventh Amendment) Act, 2003, s. 5 for “1991” (w.e.f. 22-6-2003).
-8. Subs. by the Constitution (Fifty-first Amendment) Act, 1984, s. 3, for certain words (w.e.f.16-6-1986).
+8. Subs. by the Constitution (Fifty-first Amendment) Act, 1984, s. 3, for certain words (w.e.f.16-6-1986). -->
 137State 1 ***.
 (2) Seats shall be reserved also for the autonomous districts in the Legislative Assembly of the State of
 Assam.
@@ -59,7 +70,8 @@ the existing Assembly) are held by members of the Scheduled Tribes, all the seat
 (b) in any other case, such number of seats as bears to the total number of seats, a proportion not
 less than the number (as on the said date) of members belonging to the Scheduled Tribes in the existing
 Assembly bears to the total number of seats in the existing Assembly.]
-4
+
+
 [(3B) Notwithstanding anything contained in clause (3), until the re-adjustment, under article 170,
 takes effect on the basis of the first census after the year 5 [2026], of the number of seats in the Legislative
 Assembly of the State of Tripura, the seats which shall be reserved for the Scheduled Tribes in the
@@ -75,23 +87,27 @@ any area outside that district 6 ***.
 (6) No person who is not a member of a Scheduled Tribe of any autonomous district of the State of
 Assam shall be eligible for election to the Legislative Assembly of the State from any constituency of that
 district 5 ***:
-7
+
+
 [Provided that for elections to the Legislative Assembly of the State of Assam, the representation of
 the Scheduled Tribes and non-Scheduled Tribes in the constituencies included in the Bodoland Territorial
 Areas District, so notified, and existing prior to the constitution of Bodoland Territorial Areas District, shall
 be maintained.]
-1. The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment)
+<!-- 1. The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment)
 Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 2. Ins. by the Constitution (Fifty-seventh Amendment) Act, 1987, s. 2 (w.e.f. 21-9-1987)
 3. Subs. by the Constitution (Eighty-fourth Amendment) Act, 2001, s. 7, for “2000” (w.e.f. 21-2-2002).
 4. Ins. by the Constitution (Seventy-second Amendment) Act, 1992, s. 2 (w.e.f. 5-12-1992).
 5. Subs. by the Constitution (Eighty- fourth Amendment) Act, 2001, s. 7 for “2000” (w.e.f. 21-2-2002).
 6. Certain words omitted by the North-Eastern Areas (Reorganisation) Act, 1971 (81 of 1971), s. 71 (w.e.f. 21-1-1972).
-7. Ins. by the Constitution (Ninetieth Amendment) Act, 2003, s. 2 (w.e.f. 28-9-2003).
-138333. Representation of the Anglo-Indian community in the Legislative Assemblies of the States.—
+7. Ins. by the Constitution (Ninetieth Amendment) Act, 2003, s. 2 (w.e.f. 28-9-2003). -->
+
+**Article 333. Representation of the Anglo-Indian community in the Legislative Assemblies of the States**
+
 Notwithstanding anything in article 170, the Governor 1 *** of a State may, if he is of opinion that the
 Anglo-Indian community needs representation in the Legislative Assembly of the State and is not
 adequately represented therein, 2 [nominate one member of that community to the Assembly].
+
 334. 3 [Reservation of seats and special representation to cease after certain period].—
 Notwithstanding anything in the foregoing provisions of this Part, the provisions of this Constitution
 relating to—
@@ -104,11 +120,12 @@ years in respect of clause (b)] from the commencement of this Constitution:
 Provided that nothing in this article shall affect any representation in the House of the People or in the
 Legislative Assembly of a State until the dissolution of the then existing House or Assembly, as the case
 may be.
+
 335. Claims of Scheduled Castes and Scheduled Tribes to services and posts.—The claims of the
 members of the Scheduled Castes and the Scheduled Tribes shall be taken into consideration, consistently
 with the maintenance of efficiency of administration, in the making of appointments to services and posts
 in connection with the affairs of the Union or of a State:
-5
+
 [Provided that nothing in this article shall prevent in making of any provision in favour of the members of
 the Scheduled Castes and the Scheduled Tribes for relaxation in qualifying marks in any examination or lowering
 the standards of evaluation, for reservation in matters or promotion to any class or classes of services or posts in
@@ -122,10 +139,11 @@ community in the said services shall, as nearly as possible, be less by ten per 
 reserved during the immediately preceding period of two years:
 Provided that at the end of ten years from the commencement of this Constitution all such reservations
 shall cease.
+
 (2) Nothing in clause (1) shall bar the appointment of members of the Anglo-Indian community to posts
 other than, or in addition to, those reserved for the community under that clause if such members are found
 qualified for appointment on merit as compared with the members of other communities.
-1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
+<!-- 1. The words “or Rajpramukh” omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 2. Subs. by the Constitution (Twenty-third Amendment) Act,1969, s. 4 for “nominated such number of members of the community
 to the Assembly as he considers appropriate”. (w.e.f. 23-1-1970).
 3. Subs. by the Constitution (One Hundred and Fourth Amendment) Act, 2019, s. 2 (w.e.f. 25-1-2020).
@@ -135,12 +153,10 @@ Amendment) Act, 2009, s. 2. (w.e.f. 25-1-2010). The words “sixty years” were
 Constitution (Seventy-ninth Amendment) Act, 1999, s. 2. (w.e.f. 25-1-2000). The words “fifty years” were subs. for the words
 “forty years” by the Constitution (Sixty-second Amendment) Act, 1989, s. 2. The words “forty years” were subs. for the original
 words “thirty years” by the Constitution (Forty-fifth Amendment) Act, 1980, s. 2.
-5. Ins. by the Constitution (Eighty-second Amendment) Act, 2000, s. 2 (w.e.f. 6-9-2000).
-139337. Special provision with respect to educational grants for the benefit of Anglo-Indian
-community.—During the first three financial years after the commencement of this Constitution, the same
-grants, if any, shall be made by the Union and by each State 1 *** for the benefit of the Anglo-Indian
-community in respect of education as were made in the financial year ending on the thirty-first day of
-March, 1948.
+5. Ins. by the Constitution (Eighty-second Amendment) Act, 2000, s. 2 (w.e.f. 6-9-2000). -->
+
+337. Special provision with respect to educational grants for the benefit of Anglo-Indian community.—During the first three financial years after the commencement of this Constitution, the same grants, if any, shall be made by the Union and by each State 1 *** for the benefit of the Anglo-Indian community in respect of education as were made in the financial year ending on March 31, 1948.
+
 During every succeeding period of three years the grants may be less by ten per cent. than those for the
 immediately preceding period of three years:
 Provided that at the end of ten years from the commencement of this Constitution such grants, to the
@@ -148,6 +164,7 @@ extent to which they are a special concession to the Anglo-Indian community, sha
 Provided further that no educational institution shall be entitled to receive any grant under this article
 unless at least forty per cent. of the annual admissions therein are made available to members of
 communities other than the Anglo-Indian community.
+
 338. 2 [National Commission for Scheduled Castes].— 3 [ 4 [(1) There shall be a Commission for the
 Scheduled Castes to be known as the National Commission for the Scheduled Castes.
 (2) Subject to the provisions of any law made in this behalf by Parliament, the Commission shall consist
@@ -173,13 +190,13 @@ and socio-economic development of the Scheduled Castes 4 ***; and
 (f) to discharge such other functions in relation to the protection, welfare and development and
 advancement of the Scheduled Castes as the President may, subject to the provisions of any law made
 by Parliament, by rule specify.
-1. The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment)
+<!-- 1. The words and letters “specified in Part A or Part B of the First Schedule” omitted by the Constitution (Seventh Amendment)
 Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 2. Subs. by the Constitution (Eighty-ninth Amendment) Act, 2003, s. 2, for the marginal heading (w.e.f. 19-2-2004).
 3. Subs. by the Constitution (Sixty-fifth Amendment) Act, 1990, for cls. (1) and (2), cls. (1) to (9) was substituted (w.e.f. 12-3-
 1992).
 4. Subs. by the Constitution (Eighty-ninth Amendment) Act, 2003, s. 2, for cls. (1) and (2) (w.e.f. 19-2-2004).
-5. The words “and Scheduled Tribes” omitted by ibid.
+5. The words “and Scheduled Tribes” omitted by ibid. -->
 140(6) The President shall cause all such reports to be laid before each House of Parliament along with a
 memorandum explaining the action taken or proposed to be taken on the recommendations relating to the
 Union and the reasons for the non-acceptance, if any, of any of such recommendations.
@@ -204,8 +221,11 @@ affecting Scheduled Castes 1 ***.]
 [(10)] In this article, references to the Scheduled Castes 3 *** shall be construed as including references
 3
 *** to the Anglo-Indian community.
-4
-[338A. National Commission for Scheduled Tribes.—(1) There shall be a Commission for the
+
+
+Article 338A. National Commission for Scheduled Tribes
+
+1) There shall be a Commission for the
 Scheduled Tribes to be known as the National Commission for the Scheduled Tribes.
 (2) Subject to the provisions of any law made in this behalf by Parliament, the Commission shall consist
 of a Chairperson, Vice-Chairperson and three other Members and the conditions of service and tenure of
@@ -256,8 +276,10 @@ him on oath;
 (f) any other matter which the President may, by rule, determine.
 (9) The Union and every State Government shall consult the Commission on all major policy matters
 affecting Scheduled Tribes.]
-1
-[338B. National Commission for Backward Classes.— (1) There shall be a Commission for the
+
+**Article 338B. National Commission for Backward Classes**
+
+1) There shall be a Commission for the
 socially and educationally backward classes to be known as the National Commission for Backward
 Classes.
 (2) Subject to the provisions of any law made in this behalf by Parliament, the Commission shall consist
@@ -337,7 +359,11 @@ may be.]
 notification issued under clause (1) any caste, race or tribe or part of or group within any caste, race or tribe,
 but save as aforesaid a notification issued under the said clause shall not be varied by any subsequent
 notification.
-342. Scheduled Tribes.—(1) The President 9 [may with respect to any State or Union territory, and
+
+
+**Article 342. Scheduled Tribes**
+
+1) The President 9 [may with respect to any State or Union territory, and
 1. The words and letters “specified in Part A and Part B of the First Schedule” omitted by the Constitution (Seventh Amendment)
 Act, 1956, s. 29 and Sch. (w.e.f. 1-11-1956).
 2. Subs. by ibid., for “any such state”.
@@ -362,7 +388,7 @@ as the case may be.
 notification issued under clause (1) any tribe or tribal community or part of or group within any tribe or
 tribal community, but save as aforesaid a notification issued under the said clause shall not be varied by
 any subsequent notification.
-4
+
 [342A. Socially and educationally backward classes.— (1) The President may with respect to any
 State or Union territory, and where it is a State, after consultation with the Governor thereof, by public
 notification, specify the socially and educationally backward classes which shall for the purposes of this

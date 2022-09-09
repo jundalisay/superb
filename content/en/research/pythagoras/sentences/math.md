@@ -1,15 +1,17 @@
-+++
-title= "The eternal essence of number"
-date= 2015-09-09
-image= "/covers/sentences.jpg"
-description= "Forms and numbers are things which are the first separated from impartible union"
-linkb= "/research/pythagoras/sentences/eurytus"
-linkbtext= "Eurytus"
-linkf= "/research/pythagoras/sentences/music"
-linkftext= "Music"
-+++
+---
+title: "The Eternal Essence of Number"
+date: 2022-04-12
+# date: 2022-04-13
+image: /covers/sentences.jpg
+description: "Forms and numbers are things which are the first separated from impartible union"
+author: Juan
+icon: /icons/spmat.png
+---
 
-P. 106. The eternal essence of number is the most providential principle of the universe, etc.
+
+
+<!-- P. 106. --> 
+The eternal essence of number is the most providential principle of the universe, etc.
 
 The great Syrianus noted down how the Pythagoreans philosophized about numbers, which I wrote in my Theoretic Arithmetic.
 

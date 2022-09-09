@@ -1,17 +1,14 @@
 ---
+heading: "Low Morals"
 title: "Why is the Philippines Poor?"
 description: "The Philippines is Poor because of the decline in morals from the 16th century"
 image: "https://sorasystem.sirv.com/photos/riot.jpg"
-btext: "Low Morals"
-linkb: "/maharlika/metaphysics/democracy-is-bad"
-linkbtext: "democracy-is-bad"
-linkf: "/maharlika/metaphysics/marcos-aquino-rivalry"
-linkftext: "marcos-aquino-rivalry"
 author: Juan
 icon: /favicon.png
 icontext: Maharlikanism icon
 date: 2021-09-02
 ---
+
 
 According to Adam Smith, there are three basic factors needed to be a major economic power:
 

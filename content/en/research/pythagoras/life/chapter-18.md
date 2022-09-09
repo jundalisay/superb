@@ -1,23 +1,21 @@
-+++
-title= "The Pythagorean Monks and Pythagorist Civilians"
-date= 2015-09-20
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-17"
-linkbtext= "Chapter 17"
-linkf= "/research/pythagoras/life/chapter-19"
-linkftext= "chapter-19"
-# btext= Chapter 18
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Pythagorean Monks and Pythagorist Civilians"
+heading: "Chapter 18"
+date: 2015-09-12
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Pythagoras grouped his disciples according to their respective merits."
+icon: "/icons/py.png"
+---
 
-He grouped his disciples according to their respective merits. 
 
-<!-- For it was not fit that all of them should equally participate of the same things, as they were naturally dissimilar; nor was it indeed right that some should participate of all the most honorable auditions, but others of none, or should not at all partake of them.  -->
+Pythagoras grouped his disciples according to their respective merits. 
 
-For this would be uncommunicative and unjust. While therefore he imparted a convenient portion of his discourses to each, he benefited as much as possible all of them, and preserved the proportion of justice, by making each a partaker of the auditions according to his desert. 
+They were naturally dissimilar and so it was not fit for them to equally participate of the same things. 
+
+It was neither right for some to participate in the most honorable auditions, while others did not. <!--  but others of none, or should not at all partake of them.  --> For this would be uncommunicative and unjust. 
+
+While he imparted a convenient portion of his discourses to each, he benefited as much as possible all of them, and preserved the proportion of justice, by making each a partaker of the auditions according to his desert. 
 
 Hence, he called some of them Pythagoreans, but others Pythagorists just as we denominate some men Attics, but others Atticists. 
 

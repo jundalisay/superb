@@ -1,18 +1,14 @@
-+++
-title= "Filial Piety"
-date= 2015-09-26
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "He then observed that it was just to love those above all others, and never to give them pain, who first benefited us, and in the greatest degree"
-linkb= "/research/pythagoras/life/chapter-06"
-linkbtext= "Chapter 6"
-linkf= "/research/pythagoras/life/chapter-09"
-linkftext= "Chapter 9"
-heading= "Chapter 8"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Republic Simplified
-+++
+---
+title: "Filial Piety"
+heading: "Chapter 8"
+date: 2015-09-25
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "He then observed that it was just to love those above all others, and never to give them pain, who first benefited us, and in the greatest degree"
+icon: "/icons/py.png"
+---
+
+
 
 When he was traveling from Sybaris to Crotona, he met some fishermen who were then drawing their nets heavily laden with fish. He told them that he knew the exact number of the fish they had caught. 
 
@@ -37,17 +33,25 @@ He observed that:
 - heroes were more honorable than men. 
 - the parents are more honorable than their children. 
 
-He said these things to prove by induction, that children should very much esteem their parents, to whom he asserted they owed as many thanks as a dead man would owe to him who should be able to bring him back again into light. 
+He <!-- said these things to  -->proved, by induction, that children should:
+- very much esteem their parents whom they owed as many thanks as a dead man should owe anyone who would bring him back into life. 
+- love their parents, who benefitted them, above all others
+- never to give their parents pain
+<!-- , who first benefited us, and in the greatest degree. -->
 
-He then observed that it was just to love those above all others, and never to give them pain, who first benefited us, and in the greatest degree. But parents alone benefit their children prior to their birth, and are the causes to their offspring of all their upright conduct; and that when children show themselves to be in no respect inferior to their parents in beneficence towards them, it is not possible for them in this respect to err. 
+But parents alone benefit their children prior to their birth, and are the causes to their offspring of all their upright conduct; and that when children show themselves to be in no respect inferior to their parents in beneficence towards them, it is not possible for them in this respect to err. 
 
-The Gods will reasonably pardon those who honor their parent in no less a degree than the divinities themselves; since we learnt from our parents to honor divinity. 
+The Gods will reasonably pardon those who honor their parents like they pardon <!--  in no less a degree than --> the divinities themselves, since we learnt to honor divinity from our parents. 
 
-Hence, Homer also added the same name to the king of the Gods; for he denominates him the father of Gods and mortals. Many other mythologists also have delivered to us, that the kings of the Gods have been ambitious to vindicate to themselves that excessive love which subsists through marriage, in children towards their parents.
+Hence, Homer also added the same name to the king of the Gods. He calls him the father of Gods and mortals. 
 
-And that on this account, they have at the same time introduced the hypothesis of father and mother among the Gods,[12] the former indeed generating Minerva, but the latter Vulcan, who are of a nature contrary to each other, in order that what is most remote may participate of friendship.
+Many other mythologists also said that the kings of the Gods have been ambitious to vindicate to themselves that excessive love which subsists through marriage, in children towards their parents.
 
-All his auditors likewise having granted that the judgment of the immortals is most valid, he said he would demonstrate to the Crotonians, by the example of Hercules the founder of the colony brought to Crotona, that it is necessary to be voluntarily obedient to the mandates of parents, as they knew from tradition that the God himself had undertaken such great labors in consequence of obeying 26 the commands of one older than himself, and being victorious in what he had undertaken to accomplish, had instituted in honor of his father the Olympic games. 
+This is why they introduced the hypothesis of father and mother among the Gods[12]. Father <!--   the former indeed generating --> generated Minerva. Mother generated Vulcan who had a nature contrary to Minerva. In this way, what is most remote may participate of friendship.
+
+All his auditors believed that the judgment of the immortals is most valid. 
+
+he said he would demonstrate to the Crotonians, by the example of Hercules the founder of the colony brought to Crotona, that it is necessary to be voluntarily obedient to the mandates of parents, as they knew from tradition that the God himself had undertaken such great labors in consequence of obeying 26 the commands of one older than himself, and being victorious in what he had undertaken to accomplish, had instituted in honor of his father the Olympic games. 
 
 He also showed them that they should associate with each other in such a manner, as never to be in a state of hostility to their friends, but to become most rapidly friends to their enemies; and that they should exhibit in modesty of behaviour to their elders, the benevolent disposition of children towards their parents; but in their philanthropy to others, fraternal love and regard.
 
@@ -61,14 +65,18 @@ For when the Barbarians and Greeks warred on each other about Troy, each of them
 
 Divinity ordained that the punishment of injustice alone should endure for a thousand and ten years, predicting by an oracle the capture of Troy, and ordering that virgins should be annually sent by the Locrians into the temple of Trojan Minerva. 
 
-Pythagoras also exhorted young men to the cultivation of learning, calling on them to observe how absurd it would be that they should judge the reasoning power to be the most laudable of all things, and should consult about other things through this, and yet bestow no time nor labour in the exercise of it; though the attention which is paid to the body, resembles depraved friends, and rapidly fails; but erudition, like worthy and good men, endures till death, and for some persons procures immortal renown after death. These and other observations of the like kind, were made by Pythagoras, partly from history, and partly from [philosophic] dogmas, in which he showed that erudition is a natural excellence of disposition common to those in each genus, who rank in the first class of human nature. For the discoveries of these, become erudition to others. 
+Pythagoras also exhorted young men to cultivate learning. He called on them to observe how absurd it would be that they should judge the reasoning power to be the most laudable of all things, and should consult about other things through this, and yet bestow no time nor effort to exercise it.
+
+though the attention which is paid to the body, resembles depraved friends, and rapidly fails; but erudition, like worthy and good men, endures till death, and for some persons procures immortal renown after death. 
+
+Pythagoras made these observations partly from history, and partly from philosophic dogmas, in which he showed that erudition is a natural excellence of disposition common to those in each genus, who rank in the first class of human nature. For the discoveries of these, become erudition to others. 
 
 But this is naturally so worthy of pursuit, that with respect to other laudable objects of attainment, it is not possible to partake of some of them through another person, such as strength, beauty, health, and fortitude; and others are no longer possessed by him who imparts them to another, such as wealth, dominion, and many other things which we shall omit to mention. 
 
-It is possible, however, for erudition 28 to be received by another, without in the least diminishing that which the giver possesses. In a similar manner also, some goods cannot be possessed by men; but we are capable of being instructed, according to our own proper and deliberate choice. And in the next place, he who being thus instructed, engages in the administration of the affairs of his country, does not do this from impudence, but from erudition. For by education nearly men differ from wild beasts, the Greeks from the Barbarians, those that are free from slaves, and philosophers from the vulgar.
+It is possible, however, for erudition 28 to be received by another, without in the least diminishing that which the giver possesses. In a similar manner also, some goods cannot be possessed by men; 
+
+but we are capable of being instructed, according to our own proper and deliberate choice. And in the next place, he who being thus instructed, engages in the administration of the affairs of his country, does not do this from impudence, but from erudition. For by education nearly men differ from wild beasts, the Greeks from the Barbarians, those that are free from slaves, and philosophers from the vulgar.
 
 In short, those that have erudition possess such a transcendency with respect to those that have not, that seven men have been found from one city, and in one Olympiad, that were swifter than others in the course; and in the whole of the habitable part of the globe, those that excelled in wisdom were also seven in number. 
 
 But in the following times in which Pythagoras lived, he alone surpassed all others in philosophy. For he called himself by this name [viz. a philosopher], instead of a wise man.
-
-

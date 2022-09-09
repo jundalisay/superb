@@ -1,13 +1,15 @@
-+++
-title= "Eurytus"
-date= 2015-09-09
-image= "/covers/sentences.jpg"
-description= "The Pythagorean Eurytus and his followers beheld the images of things themselves in numbers"
-linkb= "/research/pythagoras/sentences"
-linkbtext= "Index"
-linkf= "/research/pythagoras/sentences/math"
-linkftext= "Math"
-+++
+---
+title: "Eurytus"
+date: 2022-04-13
+# date: 2022-04-13
+image: /covers/sentences.jpg
+description: "The Pythagorean Eurytus and his followers beheld the images of things themselves in numbers"
+author: Juan
+icon: /icons/spmat.png
+---
+
+
+
 
 The Pythagorean Eurytus and his followers beheld the images of things themselves in numbers. They rightly attributed certain numbers to certain things, according to their peculiarity. 
 

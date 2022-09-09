@@ -1,22 +1,18 @@
 ---
 title: "THE UNION TERRITORIES"
 heading: "Part 8"
-date: 2021-11-20
+date: 2021-11-04
 image: "/flags/in.png"
 description: ""
-linkb: /research/constitutions/in
-linkbtext: "constitutions"
-linkf: /research/constitutions/in
-linkftext: "Part 2"
 icon: /flags/in.png
 ---
 
 
 
-[239. Administration of Union territories.—(1) Save as otherwise provided by Parliament by law,
-every Union territory shall be administered by the President acting, to such extent as he thinks fit, through
-an administrator to be appointed by him with such designation as he may specify.
-(2) Notwithstanding anything contained in Part VI, the President may appoint the Governor of a State
+239. Administration of Union territories
+
+1. Save as otherwise provided by Parliament by law, every Union territory shall be administered by the President acting, to such extent as he thinks fit, through an administrator to be appointed by him with such designation as he may specify.
+2. Notwithstanding anything contained in Part VI, the President may appoint the Governor of a State
 as the administrator of an adjoining Union territory, and where a Governor is so appointed, he shall exercise
 his functions as such administrator independently of his Council of Ministers.]
 
@@ -139,7 +135,7 @@ behalf contained in any such law as is referred to in clause (1) of article 239A
 240. Power of President to make regulations for certain Union territories.—(1) The President may
 make regulations for the peace, progress and good government of the Union territory of—
 (a) the Andaman and Nicobar Islands;
-1. Subs. by the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 4, for “Pondicherry” (w.e.f. 1-10-2006).
+<!-- 1. Subs. by the Pondicherry (Alteration of Name) Act, 2006 (44 of 2006), s. 4, for “Pondicherry” (w.e.f. 1-10-2006).
 2. Ins. by the Constitution (Twenty-seventh Amendment) Act, 1971, s. 3 (w.e.f. 30-12-1971).
 3. Subs. by the Goa, Daman and Diu Reorganisation Act, 1987 (18 of 1987) s. 63, for “for any of the Union territory referred to in
 clause (1) article 239A” (w.e.f. 30-5-1987).
@@ -158,7 +154,8 @@ clause (1) article 239A” (w.e.f. 30-5-1987).
 (f) ***
 7
 (g) ***
-8
+8 -->
+
 [Provided that when any body is created under article 239A to function as a Legislature for the
 [Union territory of 10 [Puducherry]], the President shall not make any regulation for the peace, progress
 and good government of that Union territory with effect from the date appointed for the first meeting
@@ -184,7 +181,7 @@ or exceptions as Parliament may by law provide.
 [(3) Subject to the provisions of this Constitution and to the provisions of any law of the appropriate
 Legislature made by virtue of powers conferred on that Legislature by or under this Constitution, every
 High Court exercising jurisdiction immediately before the commencement of the Constitution (Seventh
-1. Subs. by the Laccadive, Minicoy and Amindivi Islands (Alteration of Name) Act, 1973 (34 of 1973), s. 4, for entry (b) (w.e.f.
+<!-- 1. Subs. by the Laccadive, Minicoy and Amindivi Islands (Alteration of Name) Act, 1973 (34 of 1973), s. 4, for entry (b) (w.e.f.
 1-11-1973).
 2. Subs by the Dadra and Nagar Haveli and Daman and Diu (Merger of Union Territories) Act, 2019 (44 of 2019), (w.e.f. 19-12-
 2019). Entry (C) was ins. by the (Tenth Amendment) Act, 1961, s. 3 (w.e.f. 11-8-1961).
@@ -211,5 +208,5 @@ relation to that territory after such commencement.
 (4) Nothing in this article derogates from the power of Parliament to extend or exclude the jurisdiction
 of a High Court for a State to, or from, any Union territory or part thereof.]
 242. [Coorg.].–Omitted by the Constitution (Seventh Amendment) Act, 1956, s. 29 and Sch. (w.e.f. 1-
-11-1956).
+11-1956). -->
 

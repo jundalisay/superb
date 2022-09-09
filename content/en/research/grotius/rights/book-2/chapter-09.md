@@ -1,10 +1,34 @@
-CHAPTER IX. In What Cases Jurisdiction and Property Cease.
+---
+title: When Jurisdiction and Property Cease
+heading: Chapter 9
+date: 2022-07-18
+image: /covers/warpeace.jpg
+description: 
+author: "Hugo Grotius"
+---
 
-    Jurisdiction and property cease, when the family of the owner has become extinct—In what manner the rights of a people may become extinct—A people becomes extinct when its essential parts are destroyed—A people does not become extinct by emigration—The existence of separate states not destroyed by a federal union.
 
-I. and II. After the preceding inquiries into the manner in which private property as well as sovereign power may be acquired and transferred, the manner, in which they cease, naturally comes next under consideration. It has been shewn before that the right to property may be lost by neglect; for property can continue no longer than while the will of ownership continues. There is also another manner in which property may cease to exist, without any express or implied alienation: and that is where the family either of a sovereign, or an owner, becomes extinct, a contingency for which provision must be made somewhat similar to a succession to the property of one who dies intestate. Wherefore if any one die, without any declaration of his will, and have no relations by blood, all the right, which he had, becomes extinct, and reverts, if a sovereign, to the hands of the nation, except where express provisions of law have been made to the contrary.
+Jurisdiction and property cease, when the family of the owner has become extinct. 
 
-III. The same mode of reasoning applies to a nation. Isocrates, and after him the Emperor Julian, has said that states are immortal, or may be so. For a people is one of that kind of bodies which are formed of distinct parts, following each other in regular succession, and supplying the place of the deceased. This body goes under one name, forming, as Plutarch says, one constitution;118 or, in the language of Paulus the Lawyer, one spirit. Now the spirit or constitution in a people is the full and perfect harmony of civil life, from which emanates the sovereign power, the very soul of all government, and, as Seneca says, the vital breath which so many thousands draw.
+A people becomes extinct when its essential parts are destroyed
+
+A people does not become extinct by emigration
+
+The existence of separate states not destroyed by a federal union.
+
+## Parts 1 and 2
+
+How does property cease? 
+
+The right to property may be lost by neglect. 
+
+Property can continue no longer than while the will of ownership continues. There is also another manner in which property may cease to exist, without any express or implied alienation: and that is where the family either of a sovereign, or an owner, becomes extinct, a contingency for which provision must be made somewhat similar to a succession to the property of one who dies intestate. Wherefore if any one die, without any declaration of his will, and have no relations by blood, all the right, which he had, becomes extinct, and reverts, if a sovereign, to the hands of the nation, except where express provisions of law have been made to the contrary.
+
+## Part 3 
+
+The same mode of reasoning applies to a nation. Isocrates, and after him the Emperor Julian, has said that states are immortal, or may be so. For a people is one of that kind of bodies which are formed of distinct parts, following each other in regular succession, and supplying the place of the deceased. 
+
+This body goes under one name, forming, as Plutarch says, one constitution;118 or, in the language of Paulus the Lawyer, one spirit. Now the spirit or constitution in a people is the full and perfect harmony of civil life, from which emanates the sovereign power, the very soul of all government, and, as Seneca says, the vital breath which so many thousands draw.
 
 These artificial bodies bear a close resemblance to the natural body, which, notwithstanding the alteration of its component particles, loses not its identity, so long as the general form remains. And therefore in the passage of Seneca, where he says, that no one is the same in his old age that he was in his youth, he means only as to natural substance. In the same manner Heraclitus, as cited by Plato in Cratylus, and Seneca in the place already quoted, has said, that we cannot descend TWICE into the same river. But Seneca afterwards corrects himself, adding, that the river retains its name, though the watery particles of which it is composed are perpetually changing. So Aristotle, too, in comparing nations to rivers, has said that the rivers are always called by the same name, though their several parts are fluctuating every moment. Nor is it the name alone which continues, but that principle also which Conon calls the constitutional system of the body, and Philo the spirit, that holds it together. So that a people, as Alphenus and Plutarch, in speaking of the late, but unerring approach of divine vengeance, maintain, though not one of its members of a former period be now living, is the same at present that it was a hundred years ago, as long as the spirit, which first framed and afterwards kept the body together, preserves its identity.
 

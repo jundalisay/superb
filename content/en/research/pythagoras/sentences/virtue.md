@@ -1,27 +1,36 @@
-+++
-title= "Virtues"
-date= 2015-09-09
-image= "/covers/sentences.jpg"
-heading= "From The Protreptics Of Iamblichus"
-description= "The virtues"
-author= "Iamblichus"
-linkb= "/research/pythagoras/sentences/tetractys"
-linkbtext= "Tetractys"
-linkf= "/research/pythagoras/sentences/"
-linkftext= "Index"
-icon = "/icons/py.png"
-+++
+---
+title: "Virtues"
+date: 2022-04-01
+image: /covers/sentences.jpg
+description: "From The Protreptics Of Iamblichus"
+author: Iamblichus
+# icon: /icons/spmat.png
+---
 
 
-P. 134. Not to step above the beam of the balance.
+<!-- P. 134.  -->
+
+Not to step above the beam of the balance.
 
 The 14th Symbol is explaind by Iamblichus:
 
-“This symbol exhorts us to the exercise of justice, to the honoring equality and moderation in an admirable degree, and to the knowledge of justice as the most perfect virtue, to which the other virtues give completion, and without which none of the rest are of any advantage. 
+{{< q >}}
+This symbol exhorts us to:
+- the exercise of justice
+- the honoring equality and moderation
+- the knowledge of justice as the most perfect virtue
 
-It also admonishes us, that it is proper to know this virtue not in a careless manner, but through theorems and scientific demonstrations. But this knowledge is the business of no other art and science than the Pythagoric philosophy alone, which in a transcendent degree honors disciplines before every thing else.”
+Justice completes the other virtues. Without justice, none of the other virtues are of any advantage. 
 
-<!-- The following extract also from my Theoretic Arithmetic, (p. 194.), will in a still greater degree elucidate this symbol. --> The information contained in it is derived from the anonymous author of a very valuable work entitled Θεολογουμενα Αριθμητικης Theologumena Arithmeticae, and which has lately been reprinted at Leipsic, “The Pythagoreans called the pentad providence and justice, because it equalizes things unequal, justice being a medium between excess and defect, just as 5 is the middle of all the numbers that are equally distant from it on both sides as far as to the decad, some of which it surpasses, and by others is surpassed, as may be seen in the following arrangement:
+It also admonishes us, that it is proper to know this virtue not in a careless manner, but through theorems and scientific demonstrations. 
+
+But this knowledge is the business of no other art and science than the Pythagoric philosophy alone, which in a transcendent degree honors disciplines before every thing else.
+{{< /q >}}
+
+
+<!-- The following extract also from my Theoretic Arithmetic, (p. 194.), will in a still greater degree elucidate this symbol. --> The information contained in it is derived from the anonymous author of a very valuable work entitled Θεολογουμενα Αριθμητικης Theologumena Arithmeticae, and which has lately been reprinted at Leipsic, 
+
+“The Pythagoreans called the pentad providence and justice, because it equalizes things unequal, justice being a medium between excess and defect, just as 5 is the middle of all the numbers that are equally distant from it on both sides as far as to the decad, some of which it surpasses, and by others is surpassed, as may be seen in the following arrangement:
 
 1. 4. 7.
 2. 5. 8.
@@ -36,7 +45,9 @@ If the numbers on each side of 5 represent the beam of a balance, 5 being the to
 Hence it is worse to do than to suffer an injury. The authors of the injury verge downward as it were to the infernal regions; but the injured tend upward as it were to the Gods, imploring the divine assistance. 
 
 
-The Pythagoric symbol means “Pass not above the beam of the balance.” Since injustice pertains to inequality, in order to correct this, equalization is requisite, that the beam of the balance may remain on both sides without obliquity. 
+The Pythagoric symbol means “Pass not above the beam of the balance.” 
+
+Since injustice pertains to inequality, in order to correct this, equalization is requisite, that the beam of the balance may remain on both sides without obliquity. 
 
 But equalization is effected by addition and subtraction. Thus, if 4 is added to 5, and 4 is also taken from 5, the number 9 will be produced on one side, and 1 on the other, each of which is equally distant from 5. 
 
@@ -47,24 +58,36 @@ If 2 is added to 5, and likewise taken from it, 7 and 3 will be produced. And by
 
 ## The 9th Symbol
 
-P. 161. Such as dig not fire with a sword.
+<!-- P. 161. --> 
 
-Iamblichus explains that this symbol exhorts to prudence. It excites in us an appropriate conception with respect to the propriety of not opposing sharp words to a man full of fire and wrath, nor contending with him. For frequently by words you will agitate and disturb an ignorant man, and will yourself suffer things dreadful and unpleasant.
+Such as dig not fire with a sword.
+
+Iamblichus explains that this symbol exhorts to prudence. 
+
+It excites in us an appropriate conception with respect to the propriety of not opposing sharp words to a man full of fire and wrath, nor contending with him. For frequently by words you will agitate and disturb an ignorant man, and will yourself suffer things dreadful and unpleasant.
 
 Heraclitus agrees and says “It is difficult to fight with anger. Whatever is necessary to be done redeems the soul.”
 
-For many, by gratifying anger, have changed the condition of their soul, and have made death preferable to life. But by governing the tongue, and being quiet, friendship is produced from strife, the fire of anger being extinguished; and you yourself will not appear to be destitute of intellect.”
+For many, by gratifying anger, have changed the condition of their soul, and have made death preferable to life. 
 
-P. 200. But this follows from the whole being naturally prior to the part, and not the part to the whole.
+But by governing the tongue, and being quiet, friendship is produced from strife, the fire of anger being extinguished; and you yourself will not appear to be destitute of intellect.”
+
+<!-- P. 200. --> 
+
+But this follows from the whole being naturally prior to the part, and not the part to the whole.
 
 For whole co-subverts, but is not co-subverted by part= since if whole is taken away, part also is taken away; but the contrary does not follow.
 
-P. 231. Such therefore as hope the intellective and gnostic part of virtue, are denominated skilful and intelligent; but such as have the ethical and pre-elective part of it, are denominated useful and equitable.
+<!-- P. 231. --> 
+
+Such therefore as hope the intellective and gnostic part of virtue, are denominated skilful and intelligent; but such as have the ethical and pre-elective part of it, are denominated useful and equitable.
 
 
 The Phaedo of Plato explains that the first virtues are the physical, which are common to brutes, being mingled with the temperaments, and for the most part contrary to each other; or rather pertaining to the animal. 
 
-Or it may be said that they are illuminations from reason, when not impeded by a certain bad temperament= or that they are the result of energies in a former life. Of these Plato speaks in the Politicus and the Laws. 
+Or it may be said that they are illuminations from reason, when not impeded by a certain bad temperament= or that they are the result of energies in a former life. 
+
+Of these Plato speaks in the Politicus and the Laws. 
 
 The ethical virtues are above these and are ingenerated by custom and a certain right opinion. These are the virtues of children when well educated. 
 
@@ -98,11 +121,21 @@ All the virtues likewise exhibit their proper characters, these being every wher
 
 For many Gods, says he, are adorned with their appellations; and all goodness originates from the Gods. Likewise, prior, to things which sometimes participate the virtues, as 344 is our case, it is necessary there should be natures which always participate them. In what order, therefore, do the virtues appear? Shall we say in the psychical? For virtue is the perfection of the soul; and election and pre-election are the energies and projections of the soul. Hence the Chaldæan oracles conjoin fontal virtue with fontal soul, or in other words, with soul subsisting according to cause. 
 
-But may it not also be said, that the virtues naturally wish to give an orderly arrangement to that which is disordered? If this be admitted, they will originate from the demiurgic order. How then will they be cathartic there? May we not say, Olympiodorus adds, that through the cathartic virtues considered according to their causal subsistence in Jupiter the demiurgus, he is enabled to abide in his accustomed mode, as Plato says in the Timæus? And farther still, according to ancient theologists, he ascends to the tower of Saturn, who is a pure intellect.
+But may it not also be said, that the virtues naturally wish to give an orderly arrangement to that which is disordered? If this be admitted, they will originate from the demiurgic order. How then will they be cathartic there? 
+
+May we not say, Olympiodorus adds, that through the cathartic virtues considered according to their causal subsistence in Jupiter the demiurgus, he is enabled to abide in his accustomed mode, as Plato says in the Timæus? 
+
+According to ancient theologists, he ascends to the tower of Saturn, who is a pure intellect.
 
 This distribution of the virtues is presently no less novel than important. I add the following discussion of them from the Αφορμαι προς τα νοητα, or Auxiliaries to Intelligibles, of Porphyry:
 
-“There is one kind of virtues pertaining to the political character, and another to the man who tends to contemplation, and on this account is 345 called theoretic, and is now a beholder. And there are also other virtues pertaining to intellect, so far as it is intellect, and separate from soul. The virtues indeed of the political character, and which consist in the moderation of the passions, are characterised by following and being obedient to the reasoning about that which is becoming in actions. Hence, looking to an innoxious converse with neighbours, they are denominated, from the aggregation of fellowship, political. And prudence indeed subsists about the reasoning part; fortitude about the irascible part; temperance, in the consent and symphony of the epithymetic with the reasoning part; and justice in each of these performing its proper employment with respect to governing and being governed. 
+“There is one kind of virtues pertaining to the political character, and another to the man who tends to contemplation, and on this account is 345 called theoretic, and is now a beholder. 
+
+There are also other virtues pertaining to intellect, so far as it is intellect, and separate from soul. The virtues indeed of the political character, and which consist in the moderation of the passions, are characterised by following and being obedient to the reasoning about that which is becoming in actions. 
+
+Hence, looking to an innoxious converse with neighbours, they are denominated, from the aggregation of fellowship, political. 
+
+Prudence subsists about the reasoning part. Fortitude about the irascible part; temperance, in the consent and symphony of the epithymetic with the reasoning part; and justice in each of these performing its proper employment with respect to governing and being governed. 
 
 But the virtues of him who proceeds to the contemplative life, consist in a departure from terrestrial concerns. 
 
@@ -140,7 +173,13 @@ The scope also of the virtues, is, as we have said, generically different in the
 
 The scope of the rest subsists analogously to what has been before said. Hence, he who energizes according to the practical virtues, is a worthy man= but he who energizes according to the cathartic virtues, is a dæmoniacal man, or is also a good dæmon. He who energizes according to the intellectual virtues alone, is a God. 
 
-But he who energizes according to the paradigmatic virtues, is the father of the Gods. We, therefore, ought especially to pay attention to the cathartic virtues, since we may obtain these in the present life. But through these, the ascent is to the more honorable virtues. Hence it is requisite to survey to what degree purification may be extended. For it is a separation from body, and from the passive motion of the irrational part. 350 But how this may so effected, and to what extent, must now be said.
+But he who energizes according to the paradigmatic virtues, is the father of the Gods. 
+
+We, therefore, should especially pay attention to the cathartic virtues, since we may obtain these in the present life. 
+
+But through these, the ascent is to the more honorable virtues. Hence it is requisite to survey to what degree purification may be extended. For it is a separation from body, and from the passive motion of the irrational part.
+
+But how this may so effected, and to what extent, must now be said.
 
 He who intends to acquire this purification, should, as the foundation and basis of it:
 - first know himself to be a soul bound in a foreign thing, and in a different essence. 
@@ -152,19 +191,28 @@ But we are addicted to the pleasures or pains of sensibles, in conjunction with 
 
 Pain also must be taken away. But if this is not possible, it must be mildly diminished. It will be diminished, if the soul is not co-passive with it. 
 
-Anger, likewise, must as much as possible be taken away and must by no means be premeditated. But if it cannot be entirely removed, deliberate choice must not be mingled with it, but the unpremeditated motion must be the impulse of the irrational part. That however which is unpremeditated is imbecile and small. 
+Anger, likewise, must as much as possible be taken away and must by no means be premeditated. 
+
+But if it cannot be entirely removed, deliberate choice must not be mingled with it, but the unpremeditated motion must be the impulse of the irrational part. That however which is unpremeditated is imbecile and small. 
 
 All fear, likewise, must be expelled. He who acquires this purification, will fear nothing. Here, however, if it should take place, it will be unpremeditated. 
 
 Anger therefore and fear must be used for the purpose of admonition. But the desire of every thing base must be exterminated. Such a one also, so far as he is a cathartic philosopher, will not desire meats and drinks. Neither must there be the unpremeditated in natural venereal connexions; but if this should take place, it must only be as far as to that precipitate imagination which energizes in sleep. 
 
-In short, the intellectual soul itself of the purified man, must be liberated from all these corporeal propensities.
+
+In short, the intellectual soul itself of the purified man must be liberated from all these corporeal propensities.
 
 He must likewise endeavour that what is moved to the irrational nature of corporeal passions, may be moved without sympathy, and without animadversion; so that the motions themselves may be immediately dissolved, through their vicinity to the reasoning power. 
 
-This, however, will not take place while the purification is proceeding to its perfection; 352 but will happen to those in whom reason rules without opposition. Hence in these, the inferior part will so venerate reason, that it will be indignant if it is at all moved, in consequence of not being quiet when its master is present, and will reprove itself for its imbecility. 
+This, however, will not take place while the purification is proceeding to its perfection. 
 
-These, however, are yet only moderations of the passions, but at length terminate in apathy, for when co-passivity is entirely exterminated, then apathy is present with him who is purified from it. For passion becomes moved, when reason imparts excitation, through verging [to the irrational nature.]”
+It will happen to those in whom reason rules without opposition. 
+
+Hence in these, the inferior part will so venerate reason, that it will be indignant if it is at all moved, in consequence of not being quiet when its master is present, and will reprove itself for its imbecility. 
+
+These, however, are yet only moderations of the passions, but at length terminate in apathy. When co-passivity is entirely exterminated, then apathy is present with him who is purified from it. 
+
+For passion becomes moved, when reason imparts excitation, through verging [to the irrational nature.]”
 
 <!-- P. 279. The theorems of philosophy are to be enjoyed, as much as possible, as if they were ambrosia and nectar, &c. &c.
 

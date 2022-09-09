@@ -1,20 +1,18 @@
 ---
-title: "SHORT TITLE, COMMENCEMENT AND REPEALS"
+title: "Short Title, Commencement And Repeals"
 heading: "Part 22"
-date: 2021-11-20
+date: 2021-09-10
 image: "/flags/in.png"
 description: ""
-linkb: /research/constitutions/in/part-21
-linkbtext: "constitutions"
-linkf: /research/constitutions/in
-linkftext: "Part 2"
 icon: /flags/in.png
 ---
 
 
 <!-- 393. Short title.—This Constitution may be called the Constitution of India.
  -->
-394. Commencement.—This article and articles 5, 6, 7, 8, 9, 60, 324, 366, 367, 379, 380, 388, 391,
+Article 394. Commencement
+
+This article and articles 5, 6, 7, 8, 9, 60, 324, 366, 367, 379, 380, 388, 391,
 392 and 393 shall come into force at once, and the remaining provisions of this Constitution shall come into force on the twenty-sixth day of January, 1950, which day is referred to in this Constitution as the commencement of this Constitution.
 
 [394A. Authoritative text in the Hindi language.—(1) The President shall cause to be published
