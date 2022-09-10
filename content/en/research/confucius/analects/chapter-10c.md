@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 10c of The Analects Simplified"
+heading: "Chapter 10c"
 title: "Confucius' Favorite Disciple"
 description: "Comparative Worth of His Disciples"
-date: 2020-01-22
+date: 2020-01-10
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-10b"
-linkbtext: "Chapter 10b"
-linkf: "/research/confucius/analects/chapter-11a"
-linkftext: "Chapter 11a"
 ---
 
 
@@ -69,7 +65,7 @@ I want each one of you to tell me what his heart is set upon.
 Well then, give me in the latter part of spring dressed in full spring-tide attire�in company with five or six young fellows of 20*, or six or seven lads under that age, to do the ablutions in the I stream, enjoy a breeze in the rain-dance**,  and finish up with songs on the road home.
 {{< /r >}}
 
-> *Lit., capped ones. At twenty they underwent the ceremony of capping, and were considered men.
+> *Lit., capped ones. At 20 they underwent the ceremony of capping, and were considered men.
 
 > **I.e., before the altars, where offerings were placed with prayer for rain. A religious dance.] 
 

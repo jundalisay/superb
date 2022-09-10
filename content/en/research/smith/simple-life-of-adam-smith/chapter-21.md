@@ -1,18 +1,13 @@
+---
+title: "Edinburgh 1778"
+linkTitle: "Chapter 21"
+description: "On settling in Edinburgh, Smith took a house in the Canongate—Panmure House"
+date: 2015-08-16
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
 
-
-
-+++
-title=  "Edinburgh 1778"
-heading=  "Chapter 21"
-description=  "On settling in Edinburgh, Smith took a house in the Canongate—Panmure House"
-date=  2015-09-10
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-20"
-linkbtext=  "Chapter 20"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-22"
-linkftext=  "Chapter 22"
-+++
 
 On settling in Edinburgh, Smith took a house in the Canongate—Panmure House.
 It was at the foot of Panmure Close, one of the steep and narrow wynds that descend from the north side of the Canongate towards the base of the Calton Hill.
@@ -30,11 +25,13 @@ Panmure House itself had been the residence of the Panmure family before Smith o
 It became the residence of the Countess of Aberdeen after his death.
 Most of his own more particular friends too—the better aristocracy of letters and science—lived about him here.
 If it was to Edinburgh that “taste and philosophy seemed to have retired from the smoke and hurry of London,” it was in Canongate’s ancient smoke and leisure that they found their sanctuary. (Gibbon)
+
 Robertson flitted out to the Grange House;
 Black—Smith’s special [Pg 326]crony in this Edinburgh period—to the present Blind Asylum in Nicolson Street, then a country villa;
 Adam Ferguson to a place at the Sciennes.
 It was only two miles from the Cross
 But it was thought so remote by the people of the compact little Edinburgh of those days, that his friends always called it Kamtschatka, as if it lay in the ends of the earth.
+
 But Kames and Hailes still lived in New Street
 Sir John Dalrymple and Monboddo and many other notabilities in St. John Street
 Cullen in the Mint

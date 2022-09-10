@@ -1,19 +1,13 @@
+---
+title: "Revision of The Theory of Moral Sentiments"
+linkTitle: "Chapter 31"
+description: "Smith published The Theory of Moral Sentiments"
+date: 2015-07-26
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
 
-
-
-
-+++
-title=  "Revision of The Theory of Moral Sentiments"
-heading=  "Chapter 31"
-description=  "Smith published The Theory of Moral Sentiments"
-date=  2015-09-07
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-30"
-linkbtext=  "Chapter 30"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-32"
-linkftext=  "Chapter 32"
-+++
 
 Smith had long contemplated revising the Theory of Moral Sentiments which had been around for 30 years with five editions.
 

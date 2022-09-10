@@ -1,14 +1,12 @@
-+++
-title=  "Last Year In Glasgow"
-heading=  "Chapter 11"
-description=  "Smith wrote the following letter to Mr. Baird"
-date=  2015-09-20
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-10"
-linkbtext=  "Chapter 10"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-12"
-linkftext=  "Chapter 12"
-+++
+---
+title: "Last Year In Glasgow"
+linkTitle: "Chapter 11"
+description: "Smith wrote the following letter to Mr. Baird"
+date: 2015-09-06
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
 
 
 Rev. William Ward of Broughton was the chaplain to the Marquis of Rockingham.

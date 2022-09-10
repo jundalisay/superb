@@ -2,7 +2,7 @@
 heading: "Chapter 8"
 title: "Sayings of Tsang"
 description: "The Scholar Tsang was once unwell. He called his pupils to him he said to them, 'Disclose to view my feet and my hands"
-date: 2020-01-24
+date: 2020-01-18
 image: "/covers/analects.png"
 ---
 

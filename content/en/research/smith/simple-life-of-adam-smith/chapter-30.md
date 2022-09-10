@@ -1,18 +1,12 @@
+---
+title: "Visit to Samuel Rodgers"
+linkTitle: "Chapter 30"
+description: "Visit of Samuel Rodgers to Adam Smith"
+date: 2015-07-28
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
-
-
-
-+++
-title=  "Visit of Samuel Rodgers"
-heading=  "1789 Chapter 30"
-description=  "Visit of Samuel Rodgers to Adam Smith"
-date=  2015-09-08
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-29"
-linkbtext=  "Chapter 29"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-31"
-linkftext=  "Chapter 31"
-+++
 
 Samuel Rogers was the author of the Pleasures of Memory. He went to Scotland to make its ‘home tour’.
 It was then much in vogue.
@@ -20,13 +14,17 @@ It was then much in vogue.
 He brought with him letters of introduction to Smith from Dr. Price and Dr. Kippis.
 Dr. Kippis was the editor of the Biographia Britannica.
 Rogers, a poet, was then 23.
+
 He had only published his Ode to Superstition.
 His father’s old Unitarian friends were his only chief acquaintances in the world of letters.
 Smith makes a disparaging allusion to them in his previous letter to Price.
-They won for Rogers= 
-the kindest possible reception, and
-even a continuous succession of civilities.
+
+They won for Rogers:
+- the kindest possible reception, and
+- even a continuous succession of civilities.
+
 He has left a grateful record of them in his tour’s journal.
+
 This journal has been published in Mr. Clayden’s Early Tears of Samuel Rogers
 A few additional particulars omitted in it are found in Dyce’s published and Mitford’s unpublished recollections of Rogers’s table-talk.
  
@@ -36,12 +34,15 @@ Though no information had reached Edinburgh before he left the city on the 21st.
 On the morning of the 15th, he walked down Panmure Close and first visited Smith.
 He found Smith sitting at breakfast alone, with a dish of strawberries before him.
 He has preserved some [Pg 417]scraps of the conversation, none of them remarkable.
-Smith said= 
-that fruit was his favourite diet at that season of the year, and
-that Scotland produced excellent strawberries.
-For the strawberry= 
-was a northern fruit, and
-was at its best in Orkney or Sweden.
+
+Smith said:
+- that fruit was his favourite diet at that season of the year, and
+- that Scotland produced excellent strawberries.
+
+For the strawberry:
+- was a northern fruit, and
+- was at its best in Orkney or Sweden.
+
 Passing to the subject of Rogers’s tour, he said= 
 that Edinburgh deserved little notice,
 that the old town had given Scotland a bad name presumably, for its filth and

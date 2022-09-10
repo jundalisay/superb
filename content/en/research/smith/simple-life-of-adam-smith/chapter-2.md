@@ -1,14 +1,13 @@
-+++
-title=  "Student at Glasgow College"
-heading=  "Chapter 2"
-description=  "Adam Smith was a Student of Francis Hutcheson at Glasgow College"
-date=  2015-09-29
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-3"
-linkftext=  "Chapter 3"
-+++
+---
+heading: "Chapter 2"
+title: "Student at Glasgow College"
+date: 2015-09-28
+image: /covers/life.jpg
+description: "Adam Smith was a Student of Francis Hutcheson at Glasgow College"
+author: Rae
+---
+
+
 
 ## 1737-1740
 

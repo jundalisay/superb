@@ -1,21 +1,12 @@
+---
+title: "The Wealth Of Nations"
+linkTitle: "Chapter 18"
+description: "The Wealth of Nations was published on March 9, 1776"
+date: 2015-08-22
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
-
-
-
-
-
-
-+++
-title=  "THE WEALTH OF NATIONS"
-heading=  "Chapter 18"
-description=  "The Wealth of Nations was published on March 9, 1776"
-date=  2015-09-13
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-17"
-linkbtext=  "Chapter 17"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-19"
-linkftext=  "Chapter 19"
-+++
 
 <!-- 1776. Aet. 52 -->
 

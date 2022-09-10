@@ -1,6 +1,6 @@
 ---
 title: "Miscellaneous"
-heading: "Chapter 7 of Australia's Constitution Simplified"
+heading: "Chapter 7 "
 date: 2021-11-20
 image: "/flags/au.png"
 description: "The Constitution of each State of the Commonwealth shall, subject to this Constitution, continue as at the establishment of the Commonwealth"

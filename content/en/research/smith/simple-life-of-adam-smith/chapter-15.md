@@ -1,16 +1,12 @@
+---
+title: "Smith Back in London"
+linkTitle: "Chapter 15"
+description: "Smith arrived in London early in November and remained there for the next six months"
+date: 2015-08-28
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
-
-+++
-title=  "Smith back in London"
-heading=  "Chapter 15"
-description=  "Smith arrived in London early in November and remained there for the next six months"
-date=  2015-09-16
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-14"
-linkbtext=  "Chapter 14"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-16"
-linkftext=  "Chapter 16"
-+++
 
 
 Smith arrived in London early in November and remained there for the next six months. The body of his unfortunate pupil, which he brought over with him, was ultimately buried in the family vault at Dalkeith, (Dr. Norman Macleod and Mr. Steel)

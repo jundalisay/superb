@@ -1,15 +1,12 @@
+---
+title: "Smith Back in Kirkcaldy"
+linkTitle: "Chapter 16"
+description: "When Smith left Glasgow, his mother and cousin went back again to Kirkcaldy"
+date: 2015-08-26
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
-+++
-title=  "Smith back at Kirkcaldy"
-heading=  "Chapter 16"
-description=  "When Smith left Glasgow, his mother and cousin went back again to Kirkcaldy"
-date=  2015-09-15
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-15"
-linkbtext=  "Chapter 15"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-17"
-linkftext=  "Chapter 17"
-+++
 
 When Smith left Glasgow, his mother and cousin went back again to Kirkcaldy. He remained with them there for the next 11 years.
 

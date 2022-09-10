@@ -2,7 +2,7 @@
 heading: "Chapter 8"
 title: "His Favorite Disciple's Opinion of Him"
 description: "The Master rarely spoke on Advantage, Destiny, and Duty of man to man"
-date: 2020-01-23
+date: 2020-01-16
 image: "/covers/analects.png"
 ---
 

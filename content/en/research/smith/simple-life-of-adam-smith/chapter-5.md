@@ -1,16 +1,13 @@
+---
+heading: "Chapter 5"
+title: "Glasgow Professor"
+date: 2015-09-18
+image: /covers/life.jpg
+description: "In 1750, Smith was appointed as Professor of Logic in Glasgow College. He began 13 years of active academic work"
+author: Rae
+---
 
 
-+++
-title=  "Glasgow Professor"
-heading=  "Chapter 5"
-description=  "In 1750, Smith was appointed as Professor of Logic in Glasgow College. He began 13 years of active academic work"
-date=  2015-09-26
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-6"
-linkftext=  "Chapter 6"
-+++
 
 The Edinburgh lectures soon bore fruit.
 

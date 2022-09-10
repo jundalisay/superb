@@ -4,10 +4,6 @@ title: "The Satisfaction from Learning"
 description: "To learn, and then to practise opportunely what one has learned, brings satisfaction"
 date: 2020-01-31
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects"
-linkbtext: "Index"
-linkf: "/research/confucius/analects/chapter-2"
-linkftext: "Chapter 2"
 ---
 
 

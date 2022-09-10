@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 10a of The Analects Simplified"
+heading: "Chapter 10a"
 title: "Confucious' Disciples"
 description: "The first to make progress in the Proprieties and in Music are plain farmers"
-date: 2020-01-22
+date: 2020-01-14
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-9"
-linkbtext: "Chapter 9"
-linkf: "/research/confucius/analects/chapter-10b"
-linkftext: "Chapter 10b"
 ---
 
 

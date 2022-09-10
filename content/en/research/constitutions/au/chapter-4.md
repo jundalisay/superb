@@ -1,6 +1,6 @@
 ---
 title: "Finance and Trade"
-heading: "Chapter 4 of Australia's Constitution Simplified"
+heading: "Chapter 4 "
 date: 2021-11-20
 image: "/flags/au.png"
 description: "All revenues or moneys raised or received by the Executive Government of the Commonwealth shall form one Consolidated Revenue Fund"

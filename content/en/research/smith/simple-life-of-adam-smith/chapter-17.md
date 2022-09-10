@@ -1,14 +1,12 @@
-+++
-title=  "Smith in London to Publish"
-heading=  "Chapter 17"
-description=  "In the spring of 1773, Smith virtually completed the Wealth of Nations. He thought of going to London to publish it"
-date=  2015-09-14
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-16"
-linkbtext=  "Chapter 16"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-18"
-linkftext=  "Chapter 18"
-+++
+---
+title: "Smith in London to Publish"
+linkTitle: "Chapter 17"
+description: "In the spring of 1773, Smith virtually completed the Wealth of Nations. He thought of going to London to publish it"
+date: 2015-08-24
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
 
 1773-1776. Aet. 50-53
 

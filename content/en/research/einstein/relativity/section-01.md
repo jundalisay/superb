@@ -1,14 +1,14 @@
-+++
-title=  "Physical Meaning Of Geometrical Propositions"
-heading=  "Section 1"
-description=  "Our perceptions of geometrical shapes are Relative and Dynamic and Not Absolute and Static"
-image=  "/covers/rel.jpg"
-date=  2020-01-31
-linkb=  "/research/einstein/relativity/"
-linkbtext=  "Index"
-linkf=  "/research/einstein/relativity/section-02"
-linkftext=  "section-2"
-+++
+---
+title: "Physical Meaning Of Geometrical Propositions"
+heading: "Section 1"
+date: 2022-04-12
+linkTitle: "EPR Paradox"
+# date: 2022-08-08
+description: "Our perceptions of geometrical shapes are Relative and Dynamic and Not Absolute and Static"
+image: "/covers/rel.jpg"
+---
+
+
 
 I adhered scrupulously to the precept of that brilliant theoretical physicist, L. Boltzmann. 
 

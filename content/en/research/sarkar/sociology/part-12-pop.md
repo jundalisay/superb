@@ -1,6 +1,6 @@
 ---
 title: "Population Growth and Control"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
+# heading: "Chapter 7 "
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "The population problem is based on the availability of food and space."

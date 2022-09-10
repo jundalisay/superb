@@ -1,13 +1,9 @@
 ---
 title: "The Judicature"
-heading: "Chapter 3 of Australia's Constitution Simplified"
+heading: "Chapter 3"
 date: 2021-11-20
 image: "/flags/au.png"
 description: "The judicial power of the Commonwealth shall be vested in a Federal Supreme Court, called the High Court of Australia"
-linkb: /research/constitutions/au/
-linkbtext: "Index"
-linkf: /research/constitutions/au/
-linkftext: "Index"
 icon: "/flags/au.png"
 ---
 

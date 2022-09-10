@@ -2,7 +2,7 @@
 heading: "Chapter 5"
 title: "The Disciples of Confucius"
 description: "Confucius pronounced Kung-ye Ch'ang, a disciple, to be a marriageable person; for although lying bound in criminal fetters he had committed no crime"
-date: 2020-01-27
+date: 2020-01-24
 image: "/covers/analects.png"
 ---
 

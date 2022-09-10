@@ -1,15 +1,13 @@
-+++
-title=  "Burke in Scotland"
-heading=  "Chapter 27"
-description=  "Burke in Scotland"
-date=  2015-09-04
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-26"
-linkbtext=  "Chapter 26"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-28"
-linkftext=  "Chapter 28"
-# btext=  "Chapter 27"
-+++
+---
+title: "Burke in Scotland"
+linkTitle: "Chapter 27"
+description: "Burke in Scotland"
+date: 2015-08-04
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
+
 
 Burke had been elected Lord Rector of the University of Glasgow in November 1783 in succession to Dundas. He came to Scotland to be installed in the following April. He spent 8 or 10 days in Smith’s company.
 

@@ -1,19 +1,13 @@
+---
+title: "Smith in Paris"
+linkTitle: "Chapter 13"
+description: "Smith left Geneva in December for Paris and arrived around Christmas 1765"
+date: 2015-08-30
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
 
-
-
-
-+++
-title=  "Smith in Paris"
-heading=  "Chapter 14"
-description=  "Smith left Geneva in December for Paris and arrived around Christmas 1765"
-date=  2015-09-17
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-13"
-linkbtext=  "Chapter 13"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-15"
-linkftext=  "Chapter 15"
-+++
 
 Smith left Geneva in December for Paris and arrived around Christmas 1765 (Dugald Stewart).
 
@@ -71,7 +65,8 @@ initiate him into those literary and fashionable circles in which he had moved l
 The philosophe was then king in Paris.
 Hume was king of the philosophes.
 Everything that was great in court or salon fell down and did him obeisance.
-Hume tells Robertson= 
+Hume tells Robertson:
+
 “Here, I= 
 feed on ambrosia,
 drink nothing but nectar,

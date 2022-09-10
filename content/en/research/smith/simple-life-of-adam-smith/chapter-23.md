@@ -1,14 +1,13 @@
-+++
-title=  "Free Trade for Ireland"
-heading=  "Chapter 23"
-description=  "Adam Smith's stance for Free Trade for Ireland"
-date=  2015-09-08
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-22"
-linkbtext=  "Chapter 22"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-24"
-linkftext=  "Chapter 23"
-+++
+---
+title: "Free Trade for Ireland"
+linkTitle: "Chapter 23"
+description: "Adam Smith's stance for Free Trade for Ireland"
+date: 2015-08-12
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
+
 
 In 1779, Smith was consulted by the Government on the probable effects of the contemplated concession of free trade to Ireland.
 

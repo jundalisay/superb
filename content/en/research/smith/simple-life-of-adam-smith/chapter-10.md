@@ -1,29 +1,36 @@
 ---
 title: "First Visit to London"
 linkTitle: "Chapter 10"
-heading: "The Life of Adam Smith Simplified"
-date: "2015-09-30"
-author: "Ray"
+description: "The Life of Adam Smith Simplified"
+date: 2015-09-08
+author: "Rae"
 image: "/covers/life.jpg"
 ---
+
 
 Smith visited London for the first time in September 1761, when Hume and his other Scotch friends were already there.
 He had not visited London in the seven years' he was at Oxford.
 He never left Oxford during that time. (The Balliol Buttery Books)
 He had not visited London in the first 10 years he spent in Glasgow, otherwise the University would have had some record of it. (Mr. Rogers)
 Glasgow University had much business to transact in London then.
+
 It would have commissioned Smith if he was known to be going there.
 It only did so on 1761.
+
 But on June 16, 1761, the Senate learned of Smith's purpose of going to London.
+
 They authorised him:
-to get the accounts of the College's ordinary revenue and the subdeanery for crops 1755, 1756, 1757, and 1758 cleared with the Treasury.
+- to get the accounts of the College's ordinary revenue and the subdeanery for crops 1755, 1756, 1757, and 1758 cleared with the Treasury.
+
 The Treasury was then always in deep arrears.
-to meet with Mr. Joshua Sharpe and settle his accounts with the lands given to the College by Dr. Williams, such as the Dr. Williams of Williams's Library.
-to inquire into:
-the state of the division of Snell's estate as to Coleburn farm, and
-the affair of the Prebends of Lincoln; and
-to get all particulars about the[Pg 153] £500 costs in the Snell lawsuit with Balliol, which had to be paid to the University.
+- to meet with Mr. Joshua Sharpe and settle his accounts with the lands given to the College by Dr. Williams, such as the Dr. Williams of Williams's Library.
+- to inquire into:
+  - the state of the division of Snell's estate as to Coleburn farm, and
+  - the affair of the Prebends of Lincoln; and
+- to get all particulars about the[Pg 153] £500 costs in the Snell lawsuit with Balliol, which had to be paid to the University.
+
 Those documents were delivered on August 27 to Smith in præsentia.
+
 On October 15, after his return, he reported what he had done.
 He produced a certificate.
 It was signed by the Secretary to the Treasury, finding that the University had in those four years and the years preceding spent £2631:6:5-11/12 above their revenue .
@@ -31,8 +38,6 @@ During Smith's residence in Glasgow, the University had various important and di
 They would be always glad to get one of their own to attend to personally on the spot.
 Smith was never asked to transact any of this business for them except in 1761.
 We can infer that he was never in London on any other occasion during his connection with that University.
-
-
 
 
 This journey to London in 1761 is memorable because it constituted the economic "road to Damascus" for a future Prime Minister of England.

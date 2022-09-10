@@ -1,14 +1,12 @@
-+++
-title=  "Early Days at Kirkcaldy"
-heading=  "Chapter 1"
-description=  "Adam Smith was born at Kirkcaldy, in the county of Fife, Scotland, on June 5, 1723"
-date=  2015-09-30
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-2"
-linkftext=  "Chapter 2"
-+++
+---
+heading: "Chapter 1"
+title: "Early Days at Kirkcaldy"
+date: 2015-09-30
+image: /covers/life.jpg
+description: "Adam Smith was born at Kirkcaldy, in the county of Fife, Scotland, on June 5, 1723"
+author: Rae
+---
+
 
 
 ## 1723-1737

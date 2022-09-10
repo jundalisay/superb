@@ -1,13 +1,9 @@
 ---
 title: "General"
-heading: "Part 1 of Australia's Constitution Simplified"
-date: 2021-11-20
+heading: "Part 1"
+date: 2021-11-30
 image: "/flags/au.png"
 description: ""
-linkb: /research/constitutions/au/
-linkbtext: "Index"
-linkf: /research/constitutions/au/
-linkftext: "Index"
 icon: "/flags/au.png"
 ---
 

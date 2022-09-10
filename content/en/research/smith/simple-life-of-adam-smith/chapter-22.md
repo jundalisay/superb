@@ -1,15 +1,13 @@
-+++
-title=  "1778 Letters"
-heading=  "Chapter 22"
-description=  "Soon after Smith settled in Edinburgh"
-date=  2015-09-09
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-21"
-linkbtext=  "Chapter 21"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-23"
-linkftext=  "Chapter 23"
-# btext=  Chapter 22
-+++
+---
+title: "1778 Letters"
+linkTitle: "Chapter 22"
+description: "Soon after Smith settled in Edinburgh"
+date: 2015-08-14
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
+
 
 Soon after Smith settled in Edinburgh, he received a presentation copy of a new edition of Maximes from his old French friends= 
 - the Duchesse d’Enville and

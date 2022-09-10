@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 14 of The Analects Simplified"
+heading: "Chapter 14"
 title: "Good and Bad Government"
 description: "Good and Bad Government"
-date: 2020-01-19
+date: 2020-01-12
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-13"
-linkbtext: "Chapter 13"
-linkf: "/research/confucius/analects/chapter-15"
-linkftext: "Chapter 15"
 ---
 
 

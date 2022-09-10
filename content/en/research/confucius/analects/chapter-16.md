@@ -1,14 +1,11 @@
 ---
-heading: "Chapter 16 of The Analects Simplified"
+heading: "Chapter 16"
 title: "Good and Bad Friendships"
 description: "Good and Bad Friendships"
-date: 2020-01-19
+date: 2020-01-08
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-15"
-linkbtext: "Chapter 15"
-linkf: "/research/confucius/analects/chapter-17"
-linkftext: "Chapter 17"
 ---
+
 
 
 Yen Yu and Tsz-Lu alerted Confucius that the Chief of the Ki family was about to attack the Chuen-yu domain.

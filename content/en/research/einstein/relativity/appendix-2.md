@@ -1,15 +1,13 @@
+---
+title: "Minkowski’s Four — Dimensional Space (world)"
+heading: "Appendix 2"
+date: 2022-04-12
+linkTitle: "EPR Paradox"
+# date: 2022-08-08
+description: "Einstein explains the Lorentz Transformation"
+image: "/covers/rel.jpg"
+---
 
-+++
-title=  "Minkowski’s Four — Dimensional Space (“world”)"
-heading=  "Appendix 2"
-description=  "Einstein explains Minkowski’s Four — Dimensional Space"
-image=  "/covers/rel.jpg"
-date=  "2020-01-01"
-linkb=  "/research/einstein/relativity/appendix-1"
-linkbtext=  "appendix-1"
-linkf=  "/research/einstein/relativity/appendix-3"
-linkftext=  "appendix-3"
-+++
 
 We can characterise the Lorentz transformation still more simply if we introduce the imaginary −1 ⋅ ct in place of t, as time-variable. If, in accordance with this, we insert
 

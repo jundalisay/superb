@@ -1,21 +1,18 @@
+---
+title: "Smith Interviewed"
+linkTitle: "Chapter 25"
+description: "In his letter to Cadell, Smith reproaches himself with his idleness during his first few years in Edinburgh"
+date: 2015-08-08
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
 
-+++
-title=  "Smith Interviewed"
-heading=  "Chapter 25"
-description=  "In his letter to Cadell, Smith reproaches himself with his idleness during his first few years in Edinburgh"
-date=  2015-09-06
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-24"
-linkbtext=  "Chapter 24"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-26"
-linkftext=  "Chapter 26"
-+++
 
 In his letter to Cadell, Smith reproaches himself with his idleness during his first few years in Edinburgh.
 He had bought a good many new books in London, or new editions of old ones,
 
-He says that= 
+He says that:
 
 “My amusement in reading and diverting myself with them debauched me from my proper business of preparing a new edition of the Wealth of Nations.”
 
@@ -23,6 +20,7 @@ While he was engaged miscellaneous reading, a young interviewer from Glasgow eli
 The interviewer happened to be much in his company in connection with business in 1780.
 He gave his notes to the public after Smith’s death in the Bee for 1791.
 Dr. James Anderson was the editor of the Bee
+
 He was the author of Ricardo’s rent theory.
 He says that even if they had not been sent to him with the strongest assurances of authenticity, he could entertain no doubt on that point after their perusal from the coincidence of the opinions reported in them with those he himself had heard Smith express.
 The writer’s name was Amicus.
@@ -30,11 +28,14 @@ He describes himself as “young, inquisitive, and full of respect” for Smith.
 He says that= 
 their conversation always took a literary turn.
 Smith was “extremely communicative, and delivered himself with a freedom and even boldness quite opposite to the apparent reserve of his appearance.”
-[Pg 366]
+
 
 The first author Amicus mentions is Dr. Johnson.
+
 Smith had a “very contemptuous opinion”of him.
-Smith says= 
+
+Smith says:
+
 “I have seen that creature bolt up in a mixed company.
 Without any previous notice, he= 
 fell on his knees behind a chair,

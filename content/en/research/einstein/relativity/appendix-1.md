@@ -1,13 +1,14 @@
-+++
-title=  "Appendix 1 Simple Derivation Of The Lorentz Transformation"
-description=  "Einstein explains the Lorentz Transformation"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-32"
-linkbtext=  "section-32"
-linkf=  "/research/einstein/relativity/appendix-2"
-linkftext=  "appendix-2"
-heading=  "Appendix 1"
-+++
+---
+title: "Simple Derivation Of The Lorentz Transformation"
+heading: "Appendix 1 "
+date: 2022-04-12
+linkTitle: "EPR Paradox"
+# date: 2022-08-08
+description: "Einstein explains the Lorentz Transformation"
+image: "/covers/rel.jpg"
+---
+
+
 
 FOR the relative orientation of the coordinate systems `K` and `K'` below, the x-axes of both systems permanently coincide. 
 

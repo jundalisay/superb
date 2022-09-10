@@ -1,23 +1,24 @@
+---
+title: "Wealth of Nations Abroad and Home"
+linkTitle: "Chapter 24"
+description: "The reception of the Wealth of Nations Abroad and Home"
+date: 2015-08-10
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
 
-+++
-title=  "Wealth of Nations Abroad and Home"
-heading=  "Chapter 24"
-description=  "The reception of the Wealth of Nations Abroad and Home"
-date=  2015-09-07
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-23"
-linkbtext=  "Chapter 23"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-25"
-linkftext=  "Chapter 25"
-+++
+
 
 These communications with leading statesmen were showing the impression that the Wealth of Nations had made in this country.
 Smith was receiving equally satisfactory proofs of its recognition abroad.
 The book had been translated into Danish in two volumes by F. Dräbye in 1779-80.
 Apparently, he contemplated publishing a second edition.
+
 Through a Danish friend, he asked Smith what changes he proposed in his second edition.
-Smith then wrote Strahan the following letter, asking him to send a copy of the second edition to Dräbye= —
+Smith then wrote Strahan the following letter, asking him to send a copy of the second edition to Dräbye:
+
+
 Dear Sir—
 
 I think it is predestined that I shall never write to you except to ask some favour of you or to put you to some trouble.

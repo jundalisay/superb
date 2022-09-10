@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 12 of The Analects Simplified"
+heading: "Chapter 12"
 title: "Art of Governing amd Consistency"
 description: "Art of Governing amd Consistency"
-date: 2020-01-19
+date: 2020-01-04
 image: "/covers/analects.png"
 ---
 

@@ -1,22 +1,14 @@
+---
+title: "Smith in Geneva"
+linkTitle: "Chapter 13"
+description: "In the end of August, Smith and his pupils left Toulouse and made an extensive tour in the South of France"
+date: 2015-09-02
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
 
 
-
-
-
-
-
-+++
-title=  "Smith in Geneva"
-heading=  "Chapter 13"
-description=  "In the end of August, Smith and his pupils left Toulouse and made an extensive tour in the South of France"
-date=  2015-09-18
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-12"
-linkbtext=  "Chapter 12"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-14"
-linkftext=  "Chapter 14"
-+++
 
 In the end of August, Smith and his pupils left Toulouse and made an extensive tour in the South of France. (Stewart) No other record remains of this tour.
 
@@ -25,17 +17,21 @@ She mentions that when they were at Marseilles they visited the porcelain factor
 The Duke bought two of the largest services ever sold there, for which he paid more than £150 sterling.
 They seem to have arrived in Geneva some time in October.
 They stayed about two months there.
+
 Smith had long been a fervent admirer of Geneva.
+
 In making traveling to Geneva, he was influenced as a political philosopher by the desire to see something of the practical working of those republican institutions.
 He speculatively regarded them with so much favour.
 to observe how the common problems of government worked themselves out on the narrow field of a commonwealth with only 24,000 inhabitants.
 which yet contrived to keep its place among the nations, to sit sometimes as arbiter between them, and
 to surpass them all in the art of making its people prosperous.
 He had the luck to observe it at an interesting moment.
+
 It was in a constitutional crisis.
 The republic’s government had been vested in the hands of 200 privileged families.
 The rest of the citizens were now pressing their right to a share in it, with Voltaire’s active assistance.
 This important struggle [Pg 189]for the conversion of the aristocratic into the democratic republic continued all through the period of Smith’s visit.
+
 Geneva in its usual state was as “a tedious convent with some sensible people in it.” (Voltaire)
 It was then the animated scene of the successive daily acts of that political drama.
  

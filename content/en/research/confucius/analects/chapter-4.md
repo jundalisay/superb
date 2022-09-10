@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 4 of The Analects Simplified"
+heading: "Chapter 4"
 title: "Social Virtue--Superior and Inferior Man"
 description: "To be slow to speak, but prompt to act, is the desire of the 'superior man.'"
-date: 2020-01-28
+date: 2020-01-26
 image: "/covers/analects.png"
 ---
 

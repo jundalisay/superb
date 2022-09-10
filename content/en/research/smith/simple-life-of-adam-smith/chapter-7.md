@@ -1,15 +1,12 @@
+---
+heading: "Chapter 7"
+title: "Among Glasgow Folk"
+date: 2015-09-14
+image: /covers/life.jpg
+description: "In Glasgow, Smith was a teacher and a learner. The conditions of time and place were most favourable for his instruction"
+author: Rae
+---
 
-+++
-title=  "Among Glasgow Folk"
-heading=  "Chapter 7"
-description=  "In Glasgow, Smith was a teacher and a learner. The conditions of time and place were most favourable for his instruction"
-date=  2015-09-24
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-6"
-linkbtext=  "Chapter 6"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-8"
-linkftext=  "Chapter 8"
-+++
 
 In Glasgow, Smith was a teacher and a learner. The conditions of time and place were most favourable for his instruction.
 

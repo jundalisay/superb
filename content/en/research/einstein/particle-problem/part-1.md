@@ -1,4 +1,3 @@
-
 +++
 title=  "The Wormhole Singularity"
 heading=  "introduced the sophistry of General Relativity"
@@ -6,6 +5,7 @@ description=  "We investigate the possibility of an atomistic theory of matter a
 author=  "Einstein and Rosen"
 image=  "/covers/pproblem.jpg"
 +++
+
 
 JULY     1,1935
 

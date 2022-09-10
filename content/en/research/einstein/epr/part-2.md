@@ -1,14 +1,13 @@
-+++
-title=  "Two Systems"
-description=  "Einstein Ether is a impotent something"
-image=  "/covers/epr.jpg"
-date=  "2022-04-12"
-author=  "einstien podolsky rosen"
-linkb=  "/research/einstein/epr/part-1"
-linkbtext=  "Part 1"
-linkf=  "/research/einstein/particle-problem"
-linkftext=  "Particle Problem"
-+++
+---
+title: "Two Systems"
+heading: "EPR Paradox"
+date: 2022-04-10
+linkTitle: "EPR Paradox"
+# date: 2022-08-08
+description: "Einstein Ether is a impotent something"
+image: "/covers/epr.jpg"
+---
+
 
 Two systems, `I` and `II` interact from the time `t=0` to `t=T`. Afterwards, they stop interacting. Their states before `t=0` were known.
 

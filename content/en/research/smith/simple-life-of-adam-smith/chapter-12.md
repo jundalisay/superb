@@ -1,18 +1,12 @@
+---
+title: "Smith in Toulouse"
+linkTitle: "Chapter 12"
+description: "Smith joined his pupil in London in the end of January 1764"
+date: 2015-09-04
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
-
-
-
-+++
-title=  "Smith in Toulouse"
-heading=  "Chapter 12"
-description=  "Smith joined his pupil in London in the end of January 1764"
-date=  2015-09-19
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-11"
-linkbtext=  "Chapter 11"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-13"
-linkftext=  "Chapter 13"
-+++
 
 
 Smith joined his pupil in London in the end of January 1764. They set out for France in the start of February.
@@ -26,15 +20,18 @@ They remained abroad 2.5 years=
 
 Smith kept no journal and wrote as few letters as possible.
 But from various sources, we can fill in some of the outlines of their travel.
+
 At Dover, they were joined by Sir James Macdonald of Sleat.
 He was a young baronet who had been at Eton College with the Duke of Buccleugh.
 He had been living in France almost since the re-establishment of peace.
 Sir James was heir of the old Lords of the Isles.
+
 He was son of the lady who, with her factor Kingsburgh, harboured Prince Charlie and Flora Macdonald in Skye;
-He was then filling the world of letters in Paris and London with astonishment at= 
-the extent of his knowledge and
-the variety of his intellectual gifts.
- When he grew older, he would choose to know less. (Walpole)
+He was then filling the world of letters in Paris and London with astonishment at:
+- the extent of his knowledge and
+- the variety of his intellectual gifts.
+
+When he grew older, he would choose to know less. (Walpole)
 Sir James seemed as marvelous as Hume. (Grimm)
 He accompanied Smith and the Duke to Paris when they arrived on February 13. (Smith’s letter to Glasgow University’s Rector) .
 They stayed not more than 10 days in Paris [Pg 175]
@@ -45,14 +42,14 @@ He never mentions any of them in his letters to Hume from Toulouse.
 Though he occasionally mentions the Englishmen he first met at that time.
 He probably could not as yet speak French.
 For even to the last he could only speak it very imperfectly.
-Most of their time in Paris seems to have been spent with
-Hume
+Most of their time in Paris seems to have been spent with Hume
+
 Sir James Macdonald and
-Lord Beauchamp, who was= 
-Hume’s pupil and
-Sir James’s chief friend.
-Paris was merely a halting-place for them.
-Their immediate destination was Toulouse
+Lord Beauchamp, who was:
+- Hume’s pupil and
+- Sir James’s chief friend.
+
+Paris was merely a halting-place for them. Their immediate destination was Toulouse
 It was then a favourite resort of the English.
 It was the second city of France.
 It still wore much of the style of an ancient capital.

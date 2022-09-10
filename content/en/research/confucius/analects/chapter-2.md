@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 2 of The Analects Simplified"
+heading: "Chapter 2"
 title: "Good Government, Filial Piety, and The Superior Man"
 description: "Filial piety is in not being perverse. We should always follow the Rules of Propriety with regard to our parents"
 date: 2020-01-30
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-1"
-linkbtext: "Chapter 1"
-linkf: "/research/confucius/analects/chapter-3"
-linkftext: "Chapter 3"
 ---
 
 

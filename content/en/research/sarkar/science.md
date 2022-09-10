@@ -1,6 +1,6 @@
 ---
 title: "Civilization, Science and Spiritual Progress"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
+# heading: "Chapter 7 "
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"

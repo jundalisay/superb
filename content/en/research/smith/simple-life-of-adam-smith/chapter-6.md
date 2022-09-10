@@ -1,14 +1,13 @@
-+++
-title=  "College Administrator"
-heading=  "Chapter 6"
-description=  "A common misconception was that Smith was helpless in business"
-date=  2015-09-25
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-7"
-linkftext=  "Chapter 7"
-+++
+---
+heading: "Chapter 6"
+title: "College Administrator"
+date: 2015-09-16
+image: /covers/life.jpg
+description: "A common misconception was that Smith was helpless in business"
+author: Rae
+---
+
+
 
 A common misconception was that Smith was helpless in business.
 

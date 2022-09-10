@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 3 of The Analects Simplified"
+heading: "Chapter 3"
 title: "Abuse of Proprieties in Ceremonies and Music"
 description: "Abuse of Proprieties in Ceremonies and Music"
-date: 2020-01-29
+date: 2020-01-28
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-2"
-linkbtext: "Chapter 2"
-linkf: "/research/confucius/analects/chapter-4"
-linkftext: "Chapter 4"
 ---
 
 

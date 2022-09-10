@@ -1,20 +1,21 @@
-+++
-title=  "Theory of Moral Sentiments"
-heading=  "Chapter 9"
-description=  "Adam Smith as Glasgow Professor"
-date=  2015-09-22
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-8"
-linkbtext=  "Chapter 8"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-11"
-linkftext=  "Chapter 11"
-+++
+---
+heading: "Chapter 9"
+title: "Theory of Moral Sentiments"
+date: 2015-09-10
+image: /covers/life.jpg
+description: "Adam Smith as Glasgow Professor"
+author: Rae
+---
+
 
 Smith enjoyed a very high Scotch reputation long before his name was known to the public by any literary contribution.
+
 But in 1759 he gave his Theory of Moral Sentiments to the press.
+
 He then took his place in the first rank of contemporary writers, by almost immediate and universal recognition.
 
 The book is an essay supporting and illustrating the doctrine that moral approbation and disapprobation are in the last analysis expressions of sympathy with the feelings of an imaginary and impartial spectator.
+
 Its substance had already been given yearly in his ordinary lectures to his students.
 Though after the publication, he thought it no longer necessary to dwell at the same length on this course, giving more time to jurisprudence and political economy.
 

@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 17 of The Analects Simplified"
+heading: "Chapter 17"
 title: "Nature and Habit"
 description: "Nature and Habit"
-date: 2020-01-19
+date: 2020-01-06
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-16"
-linkbtext: "Chapter 16"
-linkf: "/research/confucius/analects/chapter-18"
-linkftext: "Chapter 18"
 ---
 
 

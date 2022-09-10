@@ -1,17 +1,13 @@
+---
+title: "The Death of Hume"
+linkTitle: "Chapter 19"
+description: "After the publication of his book in the beginning of March, Smith still dallied in London, without going to see Hume in Edinburgh"
+date: 2015-08-20
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
 
-
-+++
-title=  "The Death of Hume"
-heading=  "Chapter 19"
-description=  "After the publication of his book in the beginning of March, Smith still dallied in London, without going to see Hume in Edinburgh"
-date=  2015-09-12
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-18"
-linkbtext=  "Chapter 18"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-20"
-linkftext=  "Chapter 20"
-+++
   
 <!-- ### 1776 -->
 
@@ -23,10 +19,11 @@ But some hope seems to have been entertained of Hume coming up even without Smit
 Bishop John Home thought so. He was in London and was in correspondence with Hume. But Hume wrote no, in a letter on April 12.
 Then Smith and Home together immediately went to Edinburgh.
 
-    But when the coach stopped at Morpeth, they saw Colin, their friend's servant, standing in the door.
-    Hume went to London after all, to consult Sir John Pringle.
+But when the coach stopped at Morpeth, they saw Colin, their friend's servant, standing in the door.
+Hume went to London after all, to consult Sir John Pringle.
 
-    He was now so far on his way.
+He was now so far on his way.
+
 
 John Home then accompanied Hume back to London. 
 

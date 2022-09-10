@@ -1,13 +1,9 @@
 ---
 title: "The House of Representatives"
-heading: "Part 3 of Australia's Constitution Simplified"
-date: 2021-11-20
+heading: "Part 3"
+date: 2021-11-26
 image: "/flags/au.png"
 description: "The House of Representatives is composed of members directly chosen by the people. The number of such members shall be twice the number of the senators."
-linkb: /research/constitutions/au/
-linkbtext: "Index"
-linkf: /research/constitutions/au/
-linkftext: "Index"
 icon: "/flags/au.png"
 ---
 

@@ -1,14 +1,13 @@
-+++
-title=  "London 1777—Appointed Commissioner Of Customs"
-heading=  "Chapter 20"
-description=  "Smith remained at Kirkcaldy from May to December 1776, except for occasional visits to Edinburgh or Dalkeith"
-date=  2015-09-11
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-19"
-linkbtext=  "Chapter 19"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-21"
-linkftext=  "Chapter 20"
-+++
+---
+title: "London 1777—Appointed Commissioner Of Customs"
+linkTitle: "Chapter 20"
+description: "Smith remained at Kirkcaldy from May to December 1776, except for occasional visits to Edinburgh or Dalkeith"
+date: 2015-08-18
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
+
 
 Smith remained at Kirkcaldy from May to December 1776, except for occasional visits to Edinburgh or Dalkeith.
 

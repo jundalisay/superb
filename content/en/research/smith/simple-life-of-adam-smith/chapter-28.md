@@ -1,14 +1,13 @@
-+++
-title=  "The Population Question"
-heading=  "Chapter 28"
-description=  "Adam Smith answers the Population Question"
-date=  2015-09-03
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-27"
-linkbtext=  "Chapter 27"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-29"
-linkftext=  "Chapter 29"
-+++
+---
+title: "The Population Question"
+linkTitle: "Chapter 28"
+description: "Adam Smith answers the Population Question"
+date: 2015-08-02
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
+
 
 Dr. Richard Price had recently stirred a sensation by his attempt to prove that England’s population= 
 - was declining, and

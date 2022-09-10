@@ -1,14 +1,13 @@
-+++
-title=  "Last Days"
-heading=  "Chapter 32"
-description=  "Smith died from a long and painful illness"
-date=  2015-09-06
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-31"
-linkbtext=  "Chapter 31"
-linkf=  "/research/smith/simple-life-of-adam-smith/"
-linkftext=  "Index"
-+++
+---
+title: "Smith's Last Days"
+linkTitle: "Chapter 32"
+description: "Smith died from a long and painful illness"
+date: 2015-07-24
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
+
 
 The new edition of the Theory was Smith’s last published work. A French newspaper, the Moniteur Universelle of Paris, announced on March 11, 1790 that Smith would do a critical examination of Montesquieu’s Esprit des Lois.
 

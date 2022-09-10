@@ -1,21 +1,14 @@
+---
+title: "The American Question"
+linkTitle: "Chapter 26"
+description: "The American Question"
+date: 2015-08-06
+author: "Rae"
+image: "/covers/life.jpg"
+---
 
 
-
-
-+++
-title=  "The American Question"
-heading=  "Chapter 26"
-description=  "The American Question"
-date=  2015-09-05
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-25"
-linkbtext=  "Chapter 25"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-27"
-linkftext=  "Chapter 27"
-# btext=  "Chapter 26"
-+++
-
-Smith continued to be a= 
+Smith continued to be a:
 - warm political supporter of the Rockingham Whigs and
 - a warm opponent of the North ministry.
 

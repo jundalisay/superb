@@ -1,16 +1,13 @@
-+++
-title=  "The System Of Co–ordinates"
-heading =  "Section 2"
-description=  "To solve the relativity of our perceptions, we use a quantum as our measuring rod which we add to itself in increments as we build our whole perception "
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-01"
-linkbtext=  "section-1"
-linkf=  "/research/einstein/relativity/section-03"
-linkftext=  "section-3"
-aliases= [
-  "/research/einstein/section-02"
-]
-+++ 
+---
+title: "The System Of Co–ordinates"
+heading: "Section 2"
+date: 2022-04-12
+linkTitle: "EPR Paradox"
+# date: 2022-08-08
+description: "To solve the relativity of our perceptions, we use a quantum as our measuring rod which we add to itself in increments as we build our whole perception"
+image: "/covers/rel.jpg"
+---
+
 
 
 ## Standard Measuring Rod

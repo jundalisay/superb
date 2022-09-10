@@ -1,6 +1,6 @@
 ---
 title: "Various Occupations"
-# heading: "Chapter 7 of Australia's Constitution Simplified"
+# heading: "Chapter 7 "
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "The popular allegation that lawyers earn their living by deceiving others and by encouraging litigation is, according to my understanding, not totally correct"

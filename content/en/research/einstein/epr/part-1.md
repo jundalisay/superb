@@ -1,15 +1,13 @@
-+++
-title=  "Definition of Complete"
-heading = "EPR Paradox"
-description=  "In quantum mechanics, in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other."
-image=  "/covers/epr.jpg"
-date=  "2022-04-12"
-author=  "einstien podolsky rosen"
-linkb=  "/research/einstein/epr/"
-linkbtext=  "Index"
-linkf=  "/research/einstein/epr/part-2"
-linkftext=  "Part 2"
-+++
+---
+title: "Definition of Complete"
+heading: "EPR Paradox"
+date: 2022-04-12
+linkTitle: "EPR Paradox"
+# date: 2022-08-08
+description: "In quantum mechanics, in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other"
+image: "/covers/epr.jpg"
+---
+
 
 <!--               A. EINSTEIN, B. PODOLSKY AND N. ROSEN, Institute for Advanced Study, Princeton, New Jersey
                                                   (Received March 25, 1935) -->

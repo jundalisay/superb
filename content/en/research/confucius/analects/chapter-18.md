@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 18 of The Analects Simplified"
+heading: "Chapter 18"
 title: "Good Men in Seclusion"
 description: "My own rule is different from any adopted by these=  I will take no liberties, I will have no curtailing of my liberty"
-date: 2020-01-19
+date: 2020-01-04
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-17"
-linkbtext: "Chapter 17"
-linkf: "/research/confucius/analects/chapter-19"
-linkftext: "Chapter 19"
 ---
 
 

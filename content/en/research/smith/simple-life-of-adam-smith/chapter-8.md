@@ -1,15 +1,12 @@
+---
+heading: "Chapter 8"
+title: "Edinburgh Activities"
+date: 2015-09-12
+image: /covers/life.jpg
+description: "Adam Smith's Activities in Edinburgh"
+author: Rae
+---
 
-+++
-title=  "Edinburgh Activities"
-heading=  "Chapter 8"
-description=  "Adam Smith's Activities in Edinburgh"
-date=  2015-09-23
-image=  "/covers/life.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-9"
-linkbtext=  "Chapter 9"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-7"
-linkftext=  "Chapter 7"
-+++
 
 
 During his stay in Glasgow, Smith maintained intimate relations with his old friends in Edinburgh. 

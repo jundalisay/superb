@@ -1,20 +1,17 @@
-+++
-title=  "Visit to London"
-heading=  "1787. Aet. 64 Chapter 29 of the Life of Adam Smith by Rae"
-description=  "Adam Smith visiting London"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/simple-life-of-adam-smith/chapter-28"
-linkbtext=  "Chapter 28"
-linkf=  "/research/smith/simple-life-of-adam-smith/chapter-30"
-linkftext=  "Chapter 30"
-# btext=  "Chapter 29"
-+++
+---
+title: "Visit to London"
+linkTitle: "Chapter 29"
+description: "Adam Smith Visits London"
+date: 2015-07-30
+author: "Rae"
+image: "/covers/life.jpg"
+---
+
 
 In April, he had improved enough to travel to London to consult Hunter.
 But he was wasted to a skeleton.
 
-William Playfair= 
+William Playfair:
 - was brother of his friend the Professor of Mathematics
 - was one of the early editors of the Wealth of Nations
 - met Smith soon after his arrival in London
