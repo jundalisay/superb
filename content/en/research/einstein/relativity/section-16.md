@@ -1,13 +1,11 @@
-+++
-title=  "Experience of Special Relativity"
-heading=  "Section 16"
-description=  "Special Relativity is proven by Starlight, Electrons, and the lack of Aether drift"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-15"
-linkbtext=  "section-15"
-linkf=  "/research/einstein/relativity/section-17"
-linkftext=  "section-17"
-+++
+---
+title: "Experience of Special Relativity"
+heading: "Section 16"
+date: 2022-04-02
+description: "Special Relativity is proven by Starlight, Electrons, and the lack of Aether drift"
+image: "/covers/rel.jpg"
+---
+
 
 Is special relativity supported by experience? 
 

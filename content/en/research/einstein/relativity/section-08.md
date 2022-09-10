@@ -1,14 +1,11 @@
+---
+title: "The Idea Of Time In Physics"
+heading: "Section 8"
+date: 2022-04-16
+description: "To keep both the constancy of light and relativity, Einstein applies the changes onto spacetime itself, as an out-of-the-box thinking that uses light as the judge"
+image: "/covers/rel.jpg"
+---
 
-+++
-title=  "The Idea Of Time In Physics"
-heading=  "Section 8"
-description=  "To keep both the constancy of light and relativity, Einstein applies the changes onto spacetime itself, as an out-of-the-box thinking that uses light as the judge"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-07"
-linkbtext=  "section-07"
-linkf=  "/research/einstein/relativity/section-09"
-linkftext=  "section-09"
-+++ 
 
 
 Lightning has struck the rails on our railway embankment simultaneously at two places `A` and `B` far distant from each other. 

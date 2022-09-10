@@ -1,17 +1,11 @@
+---
+title: "The Relativity Of The Idea Of Distance"
+heading: "Section 10"
+date: 2022-04-12
+description: "Since time is not absolute, then distance is also not absolute, but varies depending on viewpoint. This will allow length contraction via the Lorentz Transformation in Section 12"
+image: "/covers/rel.jpg"
+---
 
-
-
-+++
-title=  "The Relativity Of The Idea Of Distance"
-heading=  "Section 10"
-description=  "Since time is not absolute, then distance is also not absolute, but varies depending on viewpoint. This will allow length contraction via the Lorentz Transformation in Section 12"
-image=  "/covers/rel.jpg"
-date=  2020-01-24
-linkb=  "/research/einstein/relativity/section-09"
-linkbtext=  "section-09"
-linkf=  "/research/einstein/relativity/section-11"
-linkftext=  "section-11"
-+++ 
 
 What is the distance between the points `A` and `B` in the train in Section 9?
 

@@ -1,13 +1,11 @@
-+++
-title=  "The Galileian System Of Co–ordinates"
-heading=  "Section 4"
-description=  "The Classical movements of Galilei-Newton are valid only for a Galileian system of coordinates (material layer)"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-03"
-linkbtext=  "section-3"
-linkf=  "/research/einstein/relativity/section-05"
-linkftext=  "section-5"
-+++
+---
+title: "The Galileian System Of Co–ordinates"
+heading: "Section 4"
+date: 2022-04-24
+description: "The Classical movements of Galilei-Newton are valid only for a Galileian system of coordinates (material layer)"
+image: "/covers/rel.jpg"
+---
+
 
 <!-- > *Translator's note=  Einstein gets his 'reference frames' from Galileo, which is also the source of spatial movement of Superphysics. So far so good Einstein! -->
 

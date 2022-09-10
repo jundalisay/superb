@@ -1,15 +1,12 @@
+---
+title: "Minkowski’s Four–dimensional Space"
+heading: "Section 17"
+date: 2022-03-31
+description: "Minkowski space has the element of time which is essential to create Einstein's spacetime fabric for General Relativity"
+image: "/covers/rel.jpg"
+---
 
 
-+++
-title=  "Minkowski’s Four–dimensional Space"
-heading=  "Section 17"
-description=  "Minkowski space has the element of time which is essential to create Einstein's spacetime fabric for General Relativity"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-16"
-linkbtext=  "section-16"
-linkf=  "/research/einstein/relativity/section-18"
-linkftext=  "section-18"
-+++
 <!-- 
 THE non-mathematician is seized by a mysterious shuddering when he hears of “fourdimensional” things, by a feeling not unlike that awakened by thoughts of the occult. 
  -->

@@ -8,54 +8,52 @@ date: 2021-09-17
 
 
 
-SEC. 49. Creation of Power Sector Assets and Liabilities Management Corporation or PSALM
+## SEC. 49. Creation of Power Sector Assets and Liabilities Management Corporation or PSALM
 
-This is a government-owned and -controlled corporation which shall own all existing NPC generation assets, liabilities, IPP contracts, real estate and all other disposable assets. 
+This is a government-owned and -controlled corporation which shall own all existing NPC generation assets, liabilities, IPP contracts, real estate and all other disposable assets.
 
 All outstanding obligations of the NPC arising from loans, issuances of bonds, securities and other instruments of indebtedness shall be transferred to and assumed by the PSALM Corp. within one hundred eighty (180) days from the approval of this Act.
 
 
-SEC. 50. Purpose and Objective, Domicile and Term of Existence. – The principal purpose of the PSALM Corp. is to manage the orderly sale, disposition, and privatization of NPC generation assets, real estate and other disposable assets, and IPP contracts with the objective of liquidating all NPC financial obligations and stranded contract costs in an optimal manner.
+## SEC. 50. Purpose and Objective, Domicile and Term of Existence
+
+The principal purpose of the PSALM Corp. is to manage the orderly sale, disposition, and privatization of NPC generation assets, real estate and other disposable assets, and IPP contracts with the objective of liquidating all NPC financial obligations and stranded contract costs in an optimal manner.
 
 The PSALM Corp. shall have its principal office and place of business within Metro Manila.
 
 The PSALM Corp. shall exist for a period of twenty five (25) years from the effectivity of this Act, unless otherwise provided by law, and all assets held by it, all moneys and properties belonging to it, and all its liabilities outstanding upon the expiration of its term of existence shall revert to and be assumed by the National Government.
 
-SEC. 51. Powers. – The Corporation shall, in the performance of its functions and for the attainment of its objective, have the following powers:
 
-(a) To formulate and implement a program for the sale and privatization of the NPC assets and
-IPP contracts and the liquidation of NPC debts and stranded contract costs, such liquidation to
-be completed within the term of existence of the PSALM Corp.;
-(b) To take title to and possession of, administer and conserve the assets transferred to it; to sell
-or dispose of the same at such price and under such terms and conditions as it may deem
-necessary or proper, subject to applicable laws, rules and regulations;
-(c) To take title to and possession of the NPC IPP contracts and to appoint, after public bidding in
-transparent and open manner, qualified independent entities who shall act as the IPP
-Administrators in accordance with this Act;
+## SEC. 51. Powers
+
+The Corporation shall, in the performance of its functions and for the attainment of its objective, have the following powers:
+
+(a) To formulate and implement a program for the sale and privatization of the NPC assets and IPP contracts and the liquidation of NPC debts and stranded contract costs, such liquidation to be completed within the term of existence of the PSALM
+(b) To take title to and possession of, administer and conserve the assets transferred to it; to sell or dispose of the same at such price and under such terms and conditions as it may deem necessary or proper, subject to applicable laws, rules and regulations
+(c) To take title to and possession of the NPC IPP contracts and to appoint, after public bidding in transparent and open manner, qualified independent entities who shall act as the IPP Administrators in accordance with this Act;
 (d) To calculate the amount of the stranded debts and stranded contract costs of NPC which shall
-form the basis for ERC in the determination of the universal charge;
+form the basis for ERC in the determination of the universal charge
 (e) To liquidate the NPC stranded contract costs utilizing proceeds from sales and other property
-contributed to it, including the proceeds from the universal charge;
-(f) To adopt rules and regulations as may be necessary or proper for the orderly conduct of its
-business or operations;
-(g) To sue and be sued in its name;
-(h) To appoint or hire, transfer, remove and fix the compensation of its personnel: Provided,
-however, That the Corporation shall hire its own personnel only if absolutely necessary, and
-as far as practicable, shall avail itself of the services of personnel detailed from other
-government agencies;(i) To own, hold, acquire, or lease real and personal properties as may be necessary or required in
-the discharge of its functions;
-(j) To borrow money and incur such liabilities, including the issuance of bonds, securities or
-other evidences of indebtedness utilizing its assets as collateral and/or through the guarantees
-of the National Government: Provided, however, That all such debts or borrowings shall have
-been paid off before the end of its corporate life;
+contributed to it, including the proceeds from the universal charge
+(f) To adopt rules and regulations as may be necessary or proper for the orderly conduct of its business or operations
+(g) To sue and be sued in its name
+(h) To appoint or hire, transfer, remove and fix the compensation of its personnel: Provided, however, That the Corporation shall hire its own personnel only if absolutely necessary, and as far as practicable, shall avail itself of the services of personnel detailed from other government agencies;(i) To own, hold, acquire, or lease real and personal properties as may be necessary or required in the discharge of its functions
+(j) To borrow money and incur such liabilities, including the issuance of bonds, securities or other evidences of indebtedness utilizing its assets as collateral and/or through the guarantees of the National Government: Provided, however, That all such debts or borrowings shall have been paid off before the end of its corporate life
 (k) To restructure existing loans of NPC;
 (l) To collect, administer, and apply NPC’s portion of the universal charge; and (m) To restructure the sale, privatization or disposition of NPC assets and IPP contracts and/or their energy output based on such terms and conditions which shall optimize the value and sale prices of said assets.
 
-SEC. 52. Power Sector Assets and Liabilities Management Corporation, Meetings, Quorum and Voting. – The Corporation shall be administered, and its powers and functions exercised, by a Board of Directors which shall be composed of the Secretary of Finance as the Chairman, the Secretary of Budget and Management, the Secretary of the Department of Energy, the Director-General of the National Economic and Development Authority, the Secretary of the Department of Justice, the Secretary of the Department of Trade and Industry and the President of the PSALM Corp. as ex officio members thereof. 
+
+## SEC. 52. Power Sector Assets and Liabilities Management Corporation, Meetings, Quorum and Voting
+
+The Corporation shall be administered, and its powers and functions exercised, by a Board of Directors which shall be composed of the Secretary of Finance as the Chairman, the Secretary of Budget and Management, the Secretary of the Department of Energy, the Director-General of the National Economic and Development Authority, the Secretary of the Department of Justice, the Secretary of the Department of Trade and Industry and the President of the PSALM Corp. as ex officio members thereof. 
 
 The Board of Directors shall meet regularly and as frequently as may be necessary to enable it to discharge its functions and responsibilities. The presence at a meeting of four (4) members shall constitute a quorum, and the decision of the majority of three (3) members present at a meeting where there is quorum shall be the decision of the Board of Directors.
 
-SEC. 53. Powers of the President of PSALM Corp. – The President of PSALM Corp. shall be appointed by the President of the Philippines. In the absence of the Chairman, the President shall preside over Board meetings.
+## SEC. 53. Powers of the President of PSALM Corp
+
+The President of PSALM Corp. shall be appointed by the President. 
+
+In the absence of the Chairman, the President shall preside over Board meetings.
 
 The PSALM Corp. President shall be the Chief Executive Officer of PSALM Corp. and shall have the following powers and duties:
 
@@ -93,8 +91,11 @@ debts of NPC;
 (g) Official assistance, grants, and donations from external sources; and
 (h) Other sources of funds as may be determined by PSALM Corp. necessary for the above-
 mentioned purposes.
-SEC. 56. Claims Against the PSALM Corp. – The following shall constitute the claims against the
-PSALM Corp.:
+
+## SEC. 56. Claims Against the PSALM Corp
+
+The following shall constitute the claims against the PSALM:
+
 (a) NPC liabilities transferred to the PSALM Corp.;
 (b) Transfers from the national government;
 (c) New loans; and

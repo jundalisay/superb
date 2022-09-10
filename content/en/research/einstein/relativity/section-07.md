@@ -1,14 +1,12 @@
+---
+title: "The Apparent Incompatibility Of The Law Of Propagation Of Light with Relativity"
+heading: "Section 7"
+date: 2022-04-18
+description: "The constancy of the speed of light makes classical mechanics not universal"
+image: "/covers/rel.jpg"
+---
 
-+++
-title=  "The Apparent Incompatibility Of The Law Of Propagation Of Light with Relativity"
-heading=  "Section 7"
-description=  "The constancy of the speed of light makes classical mechanics not universal"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-05"
-linkbtext=  "section-05"
-linkf=  "/research/einstein/relativity/section-08"
-linkftext=  "section-08"
-+++
+
 
 The simplest law in physics is the one that says how light travels in empty space in straight lines with a velocity of 300,000 km/sec. 
 

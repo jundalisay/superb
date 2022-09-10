@@ -1,14 +1,12 @@
-+++
-title=  "The Behaviour Of Measuring–rods And Clocks In Motion"
-heading=  "Section 12"
-description=  "Einstein uses the Lorentz Transformation to show time dilation and length contraction"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-11"
-linkbtext=  "section-11"
-linkf=  "/research/einstein/relativity/section-13"
-linkftext=  "section-13"
+---
+title: "The Behaviour Of Measuring–rods And Clocks In Motion"
+heading: "Section 12"
+date: 2022-04-08
+description: "Einstein uses the Lorentz Transformation to show time dilation and length contraction"
+image: "/covers/rel.jpg"
+---
 
-+++
+
 
 I place a metre-rod in the x'-axis of moving `K'` in a way that its beginning coincides with the point `x' = 0` while its end  coincides with the point `x' = 1`. 
 

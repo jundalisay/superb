@@ -5,10 +5,6 @@ title=  "Behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
 heading=  "Section 23"
 description=  "Einstein explains the behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
 image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-22"
-linkbtext=  "section-22"
-linkf=  "/research/einstein/relativity/section-24"
-linkftext=  "section-24"
 +++ 
 
 I have purposely refrained from speaking about the physical interpretation of space- and time-data in General Relativity (GR) because it would be very complicated to explain. 

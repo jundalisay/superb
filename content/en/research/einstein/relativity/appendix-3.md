@@ -1,13 +1,13 @@
-+++
-title=  "The Experimental Confirmation Of General Relativity"
-heading=  "Appendix 3"
-description=  "Einstein explains the Confirmations of General Relativity"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/appendix-2"
-linkbtext=  "appendix-2"
-linkf=  "/research/einstein/relativity/"
-linkftext=  "index"
-+++
+---
+title: "The Experimental Confirmation Of General Relativity"
+heading: "Appendix 3"
+date: 2022-04-12
+# date: 2022-08-08
+description: "Einstein explains the Confirmations of General Relativity"
+image: "/covers/rel.jpg"
+---
+
+
 
 FROM a systematic theoretical point of view, we may imagine the process of evolution of an empirical science to be a continuous process of induction. 
 

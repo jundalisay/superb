@@ -7,105 +7,65 @@ date: 2021-09-30
 ---
 
 
-SECTION 1. Short Title. – This Act shall be known as the “Electric Power Industry Reform Act of 2001”. 
+<!-- SECTION 1. Short Title. – This Act shall be known as the “Electric Power Industry Reform Act of 2001”.  -->
 
 
-SECTION 2. Declaration of Policy. – It is hereby declared the policy of the State:
-(a) To ensure and accelerate the total electrification of the country;
-(b) To ensure the quality, reliability, security and affordability of the supply of electric
-power;
-(c) To ensure transparent and reasonable prices of electricity in a regime of free and fair
-competition and full public accountability to achieve greater operational and
-economic efficiency and enhance the competitiveness of Philippine products in the
-global market;
-(d) To enhance the inflow of private capital and broaden the ownership base of the
-power generation, transmission and distribution sectors;
-(e) To ensure fair and non-discriminatory treatment of public and private sector entities
-in the process of restructuring the electric power industry;
-(f) To protect the public interest as it is affected by the rates and services of electric
-utilities and other providers of electric power;
-(g) To assure socially and environmentally compatible energy sources and
-infrastructure;
-(h) To promote the utilization of indigenous and new and renewable energy resources in
-power generation in order to reduce dependence on imported energy;
-(i) To provide for an orderly and transparent privatization of the assets and liabilities of
-the National Power Corporation (NPC);
-(j) To establish a strong and purely independent regulatory body and system to ensure
-consumer protection and enhance the competitive operation of the electricity market;
-and
-(k) To encourage the efficient use of energy and other modalities of demand side
-management.
+SECTION 2. Declaration of Policy. 
 
-SEC. 3. Scope. – This Act shall provide a framework for the restructuring of the electric power
-industry, including the privatization of the assets of NPC, the transition to the desired competitive structure,
-and the definition of the responsibilities of the various government agencies and private entities.
+The State shall:
+
+- a) ensure and accelerate the total electrification of the country
+- b) ensure the quality, reliability, security and affordability of the supply of electric power
+- c) ensure transparent and reasonable prices of electricity in a regime of free and fair competition and full public accountability to achieve greater efficiency and enhance the competitiveness of Philippine products in the global market
+- d) enhance the inflow of private capital and broaden the ownership base of the power generation, transmission and distribution sectors
+- e) ensure fair and non-discriminatory treatment of public and private sector entities in the process of restructuring the electric power industry
+- f) protect the public interest as it is affected by the rates and services of electric utilities and other providers of electric power
+- g) assure socially and environmentally compatible energy sources and infrastructure
+- h) promote the utilization of indigenous and new and renewable energy resources in power generation in order to reduce dependence on imported energy
+- i) provide for an orderly and transparent privatization of the assets and liabilities of the NAPOCOR
+- j) establish a strong and purely independent regulatory body and system to ensure consumer protection and enhance the competitive operation of the electricity market
+- k) To encourage the efficient use of energy and other modalities of demand side management.
+
+Section 3. Scope
+
+This Act restructures the electric power industry, including:
+- the privatization of the assets of NAPOCOR
+- the transition to a competitive structure,
+- the definition of the responsibilities of the various government agencies and private entities.
 
 
-SEC. 4. Definition of Terms. –
-(a) “Aggregator” refers to a person or entity, engaged in consolidating electric power demand of
-end-users in the contestable market, for the purpose of purchasing and reselling electricity on
-a group basis;
-(b) “Ancillary Services” refer to those services that are necessary to support the transmission of
-capacity and energy from resources to loads while maintaining reliable operation of the
-transmission system in accordance with good utility practice and the Grid code to be adopted
-in accordance with this Act;
-(c) “Captive Market” refers to electricity end-users who do not have the choice of a supplier of
-electricity, as may be determined by the Energy Regulatory Commission (ERC) in accordance
-with this Act;
-(d) “Central Dispatch” refers to the process of issuing direct instructions to electric power
-industry participants by the grid operator to achieve the economic operation and maintenance
-of quality, stability, reliability and security of the transmission system;
-(e) “Co-Generation Facility” refers to a facility which produces electrical an/or mechanical
-energy and forms of useful thermal energy such as heat or steam which are used for industrial
-commercial heating or cooling purposes through the sequential use of energy;
-(f) “Commission” refers to the decision-making body of the ERC composed of a Chairman and
-four (4) members as provided under Section 38 hereof;
-(g) “Concession Contract” refers to the award by the government to a qualified private entity of
-the responsibility for financing, operating, expanding, maintaining and managing specific
-Government-owned assets;
-(h) “Contestable Market” refers to the electricity end-users who have a choice of a supplier of
-electricity, as may be determined by the ERC in accordance with this Act;
-(i) “Customer Service Charge” refers to the component in the retail rate intended for the cost
-recovery of customer-related services including, but not limited to, meter reading, billing
-administration and collection;
-(j) “Demand Side Management” refers to measures undertaken by distribution utilities to
-encourage end-users in the proper management of their load to achieve efficiency in the
-utilization of fixed infrastructures in the system;
-(k) “Department of Energy” or “DOE” refers to the government agency created pursuant to
-Republic Act No. 7638 whose expanded functions are provided herein;
+SEC. 4. Definitions
+
+- a) “Aggregator” is a person or entity that consolidates electric power demand of end-users in the contestable market, for  purchasing and reselling electricity on a group basis
+- b) “Ancillary Services” support the transmission of energy from resources to loads while maintaining reliable operation of the transmission system in accordance with good utility practice and the Grid code
+- c) “Captive Market” are the end-users who do not have the choice of electricity supplier, as determined by the ERC
+- d) “Central Dispatch” is the direct instruction to electric power industry participants by the grid operator to achieve the economic operation and maintenance of the transmission system
+- e) “Co-Generation Facility” produces energy for industrial commercial heating or cooling
+- f) “Commission” refers to the ERC
+- g) “Concession Contract” is the award by the government to a qualified private entity of the responsibility for financing, operating, expanding, maintaining and managing specific Government-owned assets
+- h) “Contestable Market” is the electricity end-users who have a choice of a supplier of electricity, as determined by the ERC
+- i) “Customer Service Charge” is the fee for meter reading, billing administration and collection;
+- j) “Demand Side Management” are done by the DU to encourage end-users to properly manage their load
+<!-- - k) “Department of Energy” or “DOE” refers to the government agency created pursuant to Republic Act No. 7638 whose expanded functions are provided herein;
 (l) “Department of Finance” or “DOF” refers to the government agency created pursuant to
-Executive Order No. 127;
-(m) “Distribution Code” refers to a compilation of rules and regulations governing electric utilities
-in the operation and maintenance of their distribution systems which includes, among others,
-the standards for service and performance, and defines and establishes the relationship of the
+Executive Order No. 127; -->
+- m) “Distribution Code” are the rules governing electric utilities in the operation and maintenance of their distribution systems which includes:
+  - the standards for service and performance, and defines and establishes the relationship of the
 distribution systems with the facilities or installations of the parties connected thereto;(n) “Distribution of Electricity” refers to the conveyance of electric power by a distribution utility
-through its distribution system pursuant to the provisions of this Act;
-(o) “Distribution System” refers to the system of wires and associated facilities belonging to a
-franchised distribution utility extending between the delivery points on the transmission or
-subtransmission system or generator connection and the point of connection to the premises of
-the end-user;
-(p) “Distribution Wheeling Charge” refers to the cost or charge regulated by the ERC for the use
-of a distribution system and/or the availment of related services;
-(q) “Distribution Utility” refers to any electric cooperative, private corporation, government-
-owned utility or existing local government unit which has an exclusive franchise to operate a
-distribution system in accordance with this Act;
-(r) “Electric cooperative” refers to a distribution utility organized pursuant to Presidential Decree
-No. 269, as amended, or as otherwise provided in this Act;
-(s) “Electric Power Industry Participant” refers to any person or entity engaged in the generation,
-transmission, distribution or supply of electricity;
-(t) “End-user” refers to any person or entity requiring the supply and delivery of electricity for its
-own use;
-(u) “Energy Regulatory Board” or “ERB” refers to the independent, quasi-judicial regulatory
-body created under Executive Order No. 172, as amended;
-(v) “Energy Regulatory Commission” or “ERC” refers to the regulatory agency created herein;
-(w) “Franchise Area” refers to a geographical area exclusively assigned or granted to a
-distribution utility for distribution of electricity;
-(x) “Generation Company” refers to any person or entity authorized by the ERC to operate
-facilities used in the generation of electricity;
-(y) “Generation of Electricity” refers to the production of electricity by a generation company or
-a co-generation facility pursuant to the provisions of this Act;
-(z) “Grid” refers to the high voltage backbone system of interconnected transmission lines,
-substations and related facilities;
+through its distribution system
+- o) “Distribution System” refers to the system of wires and associated facilities belonging to a franchised distribution utility extending between the delivery points on the transmission or subtransmission system or generator connection and the point of connection to the premises of the end-user
+- p) “Distribution Wheeling Charge” refers to the cost or charge regulated by the ERC for the use of a distribution system and/or the availment of related services
+- q) “Distribution Utility” DU is any electric cooperative, private corporation, government-owned utility or existing local government unit which has an exclusive franchise to operate a distribution system
+- r) “Electric cooperative” refers to a distribution utility organized pursuant to Presidential Decree No. 269, as amended, or as otherwise provided in this Act
+- s) “Electric Power Industry Participant” refers to any person or entity engaged in the generation, transmission, distribution or supply of electricity
+- t) “End-user” refers to any person or entity requiring the supply and delivery of electricity for its own use
+- u) “Energy Regulatory Board” or “ERB” refers to the independent, quasi-judicial regulatory body created under Executive Order No. 172, as amended
+- v) “Energy Regulatory Commission” or “ERC” refers to the regulatory agency created herein
+- w) “Franchise Area” refers to a geographical area exclusively assigned or granted to a distribution utility for distribution of electricity
+- x) “Generation Company” refers to any person or entity authorized by the ERC to operate facilities used in the generation of electricity
+- y) “Generation of Electricity” refers to the production of electricity by a generation company or a co-generation facility pursuant to the provisions of this Act
+- z) “Grid” refers to the high voltage backbone system of interconnected transmission lines, substations and related facilities
+
 (aa) “Grid Code” refers to the set of rules and regulations governing the safe and reliable
 operation, maintenance and development of the high voltage backbone transmission system
 and its related facilities;

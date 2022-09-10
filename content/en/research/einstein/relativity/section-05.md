@@ -1,13 +1,12 @@
-+++
-title=  "Relativity and the Addition Of Velocities In Classical Mechanics"
-heading=  "Section 5"
-description=  "The principle of relativity must therefore apply with great accuracy in mechanics since a broad, general principle that holds with exactness in one domain of phenomena should also be valid for another"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-04"
-linkbtext=  "section-04"
-linkf=  "/research/einstein/relativity/section-06"
-linkftext=  "section-06"
-+++ 
+---
+title: "Relativity and the Addition Of Velocities In Classical Mechanics"
+heading: "Section 5"
+date: 2022-04-22
+description: "The principle of relativity must therefore apply with great accuracy in mechanics since a broad, general principle that holds with exactness in one domain of phenomena should also be valid for another"
+image: "/covers/rel.jpg"
+---
+
+
 
 Assume a railway carriage travelling uniformly, as a 'uniform translation':
 

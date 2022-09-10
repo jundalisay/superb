@@ -1,13 +1,12 @@
-+++
-title=  "The Experiment Of Fizeau"
-heading=  "Section 13"
-description=  "To Einstein, the Fizeau Experiment proves that the speed of light is constant"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-12"
-linkbtext=  "section-12"
-linkf=  "/research/einstein/relativity/section-14"
-linkftext=  "section-14"
-+++
+---
+title: "The Experiment Of Fizeau"
+heading: "Section 13"
+date: 2022-04-06
+description: "To Einstein, the Fizeau Experiment proves that the speed of light is constant"
+image: "/covers/rel.jpg"
+---
+
+
 
 We can move clocks and measuring-rods only with velocities that are small compared with the velocity of light. Hence, we shall hardly be able to compare the results of the previous section directly with the reality. 
 

@@ -1,14 +1,12 @@
-+++
-title=  "General Results Of The Theory=  E = mc2"
-heading=  "Section 15"
-description=  "Eistein's Relativity leads to mass-energy also being constrained by c, leading to E = mc2"
-image=  "/covers/rel.jpg"
-date=  2020-01-19
-linkb=  "/research/einstein/relativity/section-14"
-linkbtext=  "section-14"
-linkf=  "/research/einstein/relativity/section-16"
-linkftext=  "section-16"
-+++
+---
+title: "General Results Of The Theory: E=mc2"
+heading: "Section 15"
+date: 2022-04-02
+description: "Eistein's Relativity leads to mass-energy also being constrained by c, leading to E = mc2"
+image: "/covers/rel.jpg"
+---
+
+
 
 Special Relativity grew out of electrodynamics and optics. It has considerably simplified the theoretical structure*. It has= 
 - simplified the derivation of laws

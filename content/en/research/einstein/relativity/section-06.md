@@ -1,13 +1,11 @@
-+++
-title=  "Addition Of Velocities Employed In Classical Mechanics"
-heading=  "Section 6"
-description=  "Classical Mechanics allows the adding of Velocities to make a total Velocity. But special relativity does not, because its base is light which has a constant speed"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-05"
-linkbtext=  "section 5"
-linkf=  "/research/einstein/relativity/section-07"
-linkftext=  "section-7"
-+++
+---
+title: "Addition Of Velocities Employed In Classical Mechanics"
+heading: "Section 6"
+date: 2022-04-20
+description: "Classical Mechanics allows the adding of Velocities to make a total Velocity. But special relativity does not, because its base is light which has a constant speed"
+image: "/covers/rel.jpg"
+---
+
 
 
 The train is travelling with a constant velocity `v`. A man walks from the back of the train movig forward in the direction of travel with a velocity `w`.

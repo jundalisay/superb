@@ -113,7 +113,3 @@ The doors of the room were closed, and although Mrs. Guppy was one of the stoute
 
 If anyone still does not believe in the genuineness of spirit photography, there’s no helping him.
 
-
-
-
-

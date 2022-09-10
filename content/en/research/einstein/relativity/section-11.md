@@ -1,13 +1,10 @@
-+++
-title=  "The Lorentz Transformation"
-heading=  "Section 11"
-description=  "Einstein implements his c constant, relativity of time and space and moving viewpoints together as the Lorentz Transformation"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-10"
-linkbtext=  "section-10"
-linkf=  "/research/einstein/relativity/section-12"
-linkftext=  "section-12"
-+++
+---
+title: "The Lorentz Transformation"
+heading: "Section 11"
+date: 2022-04-10
+description: "Einstein implements his c constant, relativity of time and space and moving viewpoints together as the Lorentz Transformation"
+image: "/covers/rel.jpg"
+---
 
 
 Sections 8-10 show that the apparent incompatibility of the law of propagation of light with the principle of relativity (Section 7) arises from two unjustifiable hypotheses from classical mechanics= 

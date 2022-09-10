@@ -1,9 +1,8 @@
 ---
 title: "The System Of Co–ordinates"
 heading: "Section 2"
-date: 2022-04-12
+date: 2022-04-28
 linkTitle: "EPR Paradox"
-# date: 2022-08-08
 description: "To solve the relativity of our perceptions, we use a quantum as our measuring rod which we add to itself in increments as we build our whole perception"
 image: "/covers/rel.jpg"
 ---

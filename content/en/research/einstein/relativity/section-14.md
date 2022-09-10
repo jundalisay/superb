@@ -1,14 +1,12 @@
+---
+title: "The Heuristic Value Of The Theory Of Relativity"
+heading: "Section 14"
+date: 2022-04-04
+description: "Einstein defines his theory of Relativity as frames of reference glued together by the constant speed of light"
+image: "/covers/rel.jpg"
+---
 
-+++
-title=  "The Heuristic Value Of The Theory Of Relativity"
-heading=  "Section 14"
-description=  "Einstein defines his theory of Relativity as frames of reference glued together by the constant speed of light"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-13"
-linkbtext=  "section-13"
-linkf=  "/research/einstein/relativity/section-15"
-linkftext=  "section-15"
-+++
+
 
 Our experience shows that= 
 - the principle of relativity holds true, and

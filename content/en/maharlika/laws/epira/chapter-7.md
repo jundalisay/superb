@@ -7,12 +7,12 @@ date: 2021-09-15
 ---
 
 
-SEC. 57. Conversion of Electric Cooperatives
+## SEC. 57. Conversion of Electric Cooperatives
 
 Electric cooperatives are hereby given the option to convert into either stock cooperative under the Cooperatives Development Act or stock corporation under the Corporation Code. Nothing contained in this Act shall deprive electric cooperatives of any privilege or right granted to them under Presidential Decree No. 269, as amended, and other existing laws.
 
 
-SEC. 58. Additional Mandate of the National Electrification Administration (NEA)
+## SEC. 58. Additional Mandate of the National Electrification Administration (NEA)
 
 NEA shall develop and implement programs:
 

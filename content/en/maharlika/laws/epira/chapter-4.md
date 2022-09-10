@@ -8,23 +8,18 @@ date: 2021-09-21
 
 
 
-SEC. 38. Creation of the Energy Regulatory Commission.
+## SEC. 38. Creation of the ERC
 
-There is hereby created an independent, quasi-judicial regulatory body to be named the Energy Regulatory Commissions (ERC). For
-this purpose, the existing Energy Regulatory Board (ERB) created under Executive Order No. 172, as
-amended, is hereby abolished.
+An independent, quasi-judicial regulatory body called the Energy Regulatory Commissions (ERC) is created.
 
-The Commission shall be composed of a Chairman and four (4) members to be appointed by the
-President of the Philippines. The Chairman and the members of the Commission shall be natural-born
-citizens and residents of the Philippines, persons of good moral character, at least thirty-five (35) years of
-age, and of recognized competence in any of the following fields: energy, law, economics, finance,
-commerce, or engineering, with at least three (3) years actual and distinguished experience in theirrespective fields of expertise: Provided, That out of the four (4) members of the Commission, at least one
-(1) shall be a member of the Philippine Bar with at least ten (10) years experience in the active practice of
-law, and one (1) shall be a certified public accountant with at least ten (10) years experience in active
-practice.
-Within three (3) months from the creation of the ERC, the Chairman shall submit for the approval
-by the President of the Philippines the new organizational structure and plantilla positions necessary to
-carry out the powers and functions of the ERC.
+It is composed of:
+- 1 Chairman
+- 4 members to be appointed by the President
+
+They shall be natural-born citizens and residents of the Philippines, persons of good moral character, at least 35 years old of recognized competence in any of the following fields: energy, law, economics, finance, commerce, or engineering, with at least 3 years actual and distinguished experience in their respective fields of expertise: Provided, That out of the four (4) members of the Commission, at least one (1) shall be a member of the Philippine Bar with at least ten (10) years experience in the active practice of law, and one (1) shall be a certified public accountant with at least ten (10) years experience in active practice.
+
+Within 3 months from the creation of the ERC, the Chairman shall submit for the approval by the President the new organizational structure and plantilla positions necessary to carry out the powers and functions of the ERC.
+
 The Chairman of the Commission, who shall be a member of the Philippine Bar, shall act as the
 Chief Executive Officer of the Commission.
 All members of the Commission shall have a term of seven (7) years: Provided, That for the first
@@ -53,31 +48,38 @@ adoption of any rule, ruling, order, resolution, decision, or other act of the C
 quasi-judicial functions: Provided, That in fixing rates and tariffs, an affirmative vote of three (3) members
 shall be required.
 
-SEC. 39. Compensation and Other Emoluments for ERC Personnel. – The compensation and
-other emoluments for the Chairman and members of the Commission and the ERC personnel shall be
+## SEC. 39. Compensation and Other Emoluments for ERC Personnel
+
+The compensation and other emoluments for the Chairman and members of the Commission and the ERC personnel shall be
 exempted from the coverage of Republic Act No. 6758, otherwise known as the “Salary Standardization
 Act”. For this purpose, the schedule of compensation of the ERC personnel, except for the initial salaries
 and compensation of the Chairman and members of the Commission, shall be submitted for approval by the
-President of the Philippines. The new schedule of compensation shall be implemented within six (6)
-months from the effectivity of this Act and may be upgraded by the President of the Philippines as the need
-arises: Provided, That in no case shall the rate be upgraded more than once a year.
-The Chairman and members of the Commission shall initially be entitled to the same salaries,
-allowances and benefits as those of the Presiding Justice and Associate Justices of the Supreme Court,
-respectively. The Chairman and the members of the Commission shall, upon completion of their term orupon becoming eligible for retirement under existing laws, be entitled to the same retirement benefits and
-the privileges provided for the Presiding Justice and Associate Justices of the Supreme Court, respectively.
+President of the Philippines. 
 
-SEC. 40. Enhancement of Technical Competence. – The ERC shall establish rigorous training
-programs for its staff for the purpose of enhancing the technical competence of the ERC in the following
-areas: evaluation of technical performance and monitoring of compliance with service and performance
+The new schedule of compensation shall be implemented within 6 months from the effectivity of this Act and may be upgraded by the President of the Philippines as the need arises: Provided, That in no case shall the rate be upgraded more than once a year. 
+
+The Chairman and members of the Commission shall initially be entitled to the same salaries, allowances and benefits as those of the Presiding Justice and Associate Justices of the Supreme Court, respectively. The Chairman and the members of the Commission shall, upon completion of their term orupon becoming eligible for retirement under existing laws, be entitled to the same retirement benefits and the privileges provided for the Presiding Justice and Associate Justices of the Supreme Court, respectively.
+
+## SEC. 40. Enhancement of Technical Competence
+
+The ERC shall establish rigorous training programs for its staff for the purpose of enhancing the technical competence of the ERC in the following areas: evaluation of technical performance and monitoring of compliance with service and performance
 standards, performance-based rate-setting reform, environmental standards and such other areas as will
 enable the ERC to adequately perform its duties and functions.
-SEC. 41. Promotion of Consumer Interests. – The ERC shall handle consumer complaints and
-ensure the adequate promotion of consumer interests.
-SEC. 42. Budget of the ERC. – The amount of One hundred fifty million pesos (P150,000,000.00)
-is hereby allocated from the existing budget of the ERB for the initial operation of the ERC. Any balance
-shall initially be sourced from the Office of the President of the Philippines. Thereafter, the annual budget
+
+## SEC. 41. Promotion of Consumer Interests
+
+The ERC shall handle consumer complaints and ensure the adequate promotion of consumer interests.
+
+## SEC. 42. Budget of the ERC
+
+150m pesos is the intial budget of the ERC. 
+
+Any balance shall initially be sourced from the Office of the President of the Philippines. Thereafter, the annual budget
 of the ERC shall be included in the regular or special appropriations.
-SEC. 43. Functions of the ERC. –The ERC shall promote competition, encourage market
+
+## SEC. 43. Functions of the ERC
+
+The ERC shall promote competition, encourage market
 development, ensure customer choice and penalize abuse of market power in the restructured electricity
 industry. In appropriate cases, the ERC is authorized to issue cease and desist order after due notice and
 hearing. Towards this end, it shall be responsible for the following key functions in the restuctured
@@ -200,102 +202,4 @@ at least twice for two successive weeks in two (2) newspapers of nationwide circ
 Board not inconsistent with the provisions of this Act are hereby transferred to the ERC. The foregoing
 transfer of powers and functions shall include all applicable funds and appropriations, records, equipment,
 property and personnel as may be necessary.
-
-SEC. 45. Cross Ownership, Market Power Abuse and Anti-Competitive Behavior. – No participant
-in the electricity industry or any other person may engage in any anti-competitive behavior including, but
-not limited to, cross-subsidization, price or market manipulation, or other unfair trade practices detrimental
-to the encouragement and protection of contestable markets.
-No generation company, distribution utility, or its respective subsidiary or affiliate or stockholder
-or official of a generation company or distribution utility, or other entity engaged in generating and
-supplying electricity specified by ERC within the fourth civil degree of consanguinity or affinity, shall be
-allowed to hold any interest, directly or indirectly, in TRANSCO or its concessionaire. Likewise, the
-TRANSCO, or its concessionaire or any of its stockholders or officials or any of their relatives within the
-fourth civil degree of consanguinity or affinity, shall not hold any interest, whether directly or indirectly, in
-any generation company or distribution utility. Except for ex officio government-appointed representatives,
-no person who is an officer or director of the TRANSCO or its concessionaire shall be an officer or director
-of any generation company, distribution utility or supplier.
-An “affiliate” means any person which, alone or together with any other person, directly or
-indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with
-another person. As used herein, “control” shall mean the power to direct or cause the direction of the
-management policies of a person by contract, agency or otherwise.
-To promote true market competition and prevent harmful monopoly and market power abuse, the
-ERC shall enforce the following safeguards:
-(a) No company or related group can own, operate or control more than thirty percent (30%) of
-the installed generating capacity of a grid and/or twenty-five percent (25%) of the national
-installed generating capacity. “Related group” includes a person’s business interests,
-including its subsidiaries, affiliates, directors or officers or any of their relatives by
-consanguinity or affinity, legitimate or common law, within the fourth civil degree;
-(b) Distribution utilities may enter into bilateral power supply contracts subject to review by the
-ERC: Provided, That such review shall only be required for distribution utilities whose
-markets have not reached household demand level. For the purpose of preventing market
-power abuse between associated firms engaged in generation and distribution, no distribution
-utility shall be allowed to source from bilateral power supply contracts more than fifty percent
-(50%) of its total demand from an associated firm engaged in generation but such limitation,
-however, shall not prejudice contracts entered into prior to the effectivity of this Act. An
-associated firm with respect to another entity refers to any person which, alone or together
-with any other person, directly or indirectly, through one or more intermediaries, controls, is
-controlled by, or is under common control with, such entity; and
-(c) For the first five (5) years from the establishment of the wholesale electricity spot market, no
-distribution utility shall source more than ninety percent (90%) of its total demand from
-bilateral power supply contracts.
-For purposes of this Section, the grid basis shall consist of three (3) separate grids, namely Luzon,
-Visayas and Mindanao. The ERC shall have the authority to modify or amend this definition of a grid when
-two or more of the three separate grids become sufficiently interconnected to constitute a single grid or as
-conditions may otherwise permit.Exceptions from these limitations shall be allowed for isolated grids that are not connected to the
-high voltage transmission system. Except as otherwise provided for in this Section, any restriction on
-ownership and/or control between or within sectors of the electricity industry may be imposed by ERC only
-insofar as the enforcement of the provisions of this Section is concerned.
-The ERC shall, within one (1) year from the effectivity of this Act., promulgate rules and
-regulations to ensure and promote competition, encourage market development and customer choice and
-discourage/penalize abuse of market power, cartelization and any anti-competitive or discriminatory
-behavior, in order to further the intent of this Act and protect the public interest. Such rules and regulations
-shall define the following:
-(a) the relevant markets for purposes of establishing abuse or misuse of monopoly or market
-position;
-(b) areas of isolated grids; and
-(c) the periodic reportorial requirements of electric power industry participants as may be
-necessary to enforce the provisions of this Section.
-The ERC shall, motu proprio, monitor and penalize any market power abuse or anti-competitive
-or discriminatory act or behavior by any participant in the electric power industry. Upon finding that a
-market participant has engaged in such act or behavior, the ERC shall stop and redress the same. Such
-remedies shall, without limitation, include the imposition of price controls, issuance of injunctions,
-requirement of divestment or disgorgement of excess profits and imposition of fines and penalties pursuant
-to this Act.
-The ERC shall, within one (1) year from the effectivity of this Act, promulgate rules and
-regulations providing for a complaint procedure that, without limitation, provides the accused party with
-notice and an opportunity to be heard.
-SEC. 46. Fines and Penalties. – The fines and penalties that shall be imposed by the ERC for any
-violation of or non-compliance with this Act or the IRR shall range from a minimum of fifty thousand
-pesos (P50,000.00) to a maximum of Fifty million pesos (P50,000,000.00).
-Any person who is found guilty of any of the prohibited acts pursuant to Section 45 hereof shall
-suffer the penalty of prision mayor and fine ranging from Ten thousand pesos (P10,000.00) to Ten million
-pesos (P10,000,000.00), or both, at the discretion of the court.
-The members of the Board of Directors of the juridical companies participating in or covered in
-the generation companies, the distribution utilities, the TRANSCO or its concessionaire or supplier who
-violate the provisions of this Act may be fined by an amount not exceeding double the amount of damages
-caused by the offender or by imprisonment of one (1) year or two (2) years or both at the discretion of the
-court. This rule shall apply to the members of the Board who knowingly or by neglect allows the
-commission or omission under the law.
-If the offender is a government official or employee, he shall, in addition, be dismissed from the
-government service with prejudice to reinstatement and with perpetual or temporary disqualification from
-holding any elective or appointive office.
-If the offender is an alien, he may, in addition to the penalties prescribed, be deported without
-further proceedings after service of sentence.
-Any case which involves question of fact shall be appealable to the Court of Appeals and those
-which involve question of law shall be directly appealable to the Supreme Court.The administrative sanction that may be imposed by the ERC shall be without prejudice to the
-filing of a criminal action, if warranted.
-To ensure compliance with this Act, the penalty of prision correccional or a fine ranging from
-Five thousand pesos (P5,000.00) to Five million pesos (P5,000,000.00), or both, at the discretion of the
-court, shall be imposed on any person, including but not limited to the president, member of the Board,
-Chief Executive Officer or Chief Operating Officer of the corporation, partnership, or any other entity
-involved, found guilty of violating or refusing to comply with any provision of this Act or its IRR, other
-than those provided herein.
-Any party to an administrative proceeding may, at any time, make an offer to the ERC,
-conditionally or otherwise, for a consented decree, voluntary compliance or desistance and other settlement
-of the case. The offer and any or all of the ultimate facts upon which the offer is based shall be considered
-for settlement purposes only and shall not be used as evidence against any party for any other purpose and
-shall not constitute an admission by the party making the offer of any violation of the laws, rules,
-regulations, orders and resolutions of the ERC, nor as a waiver to file any warranted criminal actions.
-In addition, Congress may, upon recommendation of the DOE and/or ERC, revoke such franchise
-or privilege granted to the party who violated the provisions of this Act.
 

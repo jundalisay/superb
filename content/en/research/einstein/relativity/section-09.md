@@ -1,14 +1,12 @@
-+++
-title=  "The Relativity Of Simultaneity"
-heading=  "Section 9"
-description=  "Since the speed of light is a constant and since light is the judge, then time becomes relative to the viewpoint. This will allow time dilation via the Lorentz Transformation in Section 12"
-image=  "/covers/rel.jpg"
-date=  2020-01-25
-linkb=  "/research/einstein/relativity/section-08"
-linkbtext=  "section-08"
-linkf=  "/research/einstein/relativity/section-10"
-linkftext=  "section-10"
-+++ 
+---
+title: "The Relativity Of Simultaneity"
+heading: "Section 9"
+date: 2022-04-14
+description: "Since the speed of light is a constant and since light is the judge, then time becomes relative to the viewpoint. This will allow time dilation via the Lorentz Transformation in Section 12"
+image: "/covers/rel.jpg"
+---
+
+
 
 <!-- UP to now our considerations have been referred to a particular body of reference, which we have styled a “railway embankment.” -->
 

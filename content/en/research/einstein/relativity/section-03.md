@@ -1,15 +1,12 @@
+---
+title: "Space And Time In Classical Mechanics"
+heading: "Section 3"
+date: 2022-04-26
+linkTitle: "EPR Paradox"
+description: "All trajectories or movements depend on a viewpoint"
+image: "/covers/rel.jpg"
+---
 
-+++
-title=  "Space And Time In Classical Mechanics"
-heading=  "Section 3 and 4"
-description=  "All trajectories or movements depend on a viewpoint"
-image=  "/covers/rel.jpg"
-date=  2020-01-29
-linkb=  "/research/einstein/relativity/section-02"
-linkbtext=  "section-2"
-linkf=  "/research/einstein/relativity/section-04"
-linkftext=  "section-4"
-+++
 
 The purpose of mechanics is to describe how bodies change their position in space with time. 
 

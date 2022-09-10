@@ -3,18 +3,28 @@ title: "Summary of 12th century Countries"
 date: 2021-11-20
 image: "/covers/chun.jpg"
 description: "Summary of 12th century Countries"
-# linkb: /research/constitutions/br
-# linkbtext: "Index"
-# linkf: /research/constitutions/br/title-02/chapter-01
-# linkftext: "Title 2"
-# icon: "/flags/br.png"
 ---
 
 
 Country | Trade System
 --- | ---
+Arabia | Money as Bullion
+Brunei | Barter
+Cambodia | Barter
 China | Money
-Philippines | Barter
+India North | Barter
+India South | Barter
+India West | Barter
 Indonesia Java | Money
-Arabia | ?
+Iraq | Money
+Japan | Money
+Korea | Barter using Rice
+Myanmar | Barter
+North Vietnam | Barter using Rice
+Philippines | Barter
+South Vietnam | Barter 
+Sri Lanka | Barter
+Sumatra, Malaysia | Money
+Taiwan | Barter
 Yemen | Barter + Money
+
