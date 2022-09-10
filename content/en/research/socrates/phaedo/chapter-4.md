@@ -1,38 +1,45 @@
-+++
-title= "Absolute ideas and the Soul"
-# heading= "The Simple Phaedo by Plato"
-date= 2015-09-27
-image= "/covers/phaedo.jpg"
-description= "There are two sorts of existences—one seen, the other unseen. The seen is the changing, and the unseen is the unchanging."
-linkb= "/research/socrates/phaedo/chapter-3"
-linkbtext= "Chapter 3"
-linkf= "/research/socrates/phaedo/chapter-5"
-linkftext= "Chapter 5"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Absolute ideas and the Soul"
+heading: "Chapter 4"
+date: 2015-09-25
+image: "/covers/phaedo.jpg"
+description: "There are two sorts of existences—one seen, the other unseen. The seen is the changing, and the unseen is the unchanging"
+icon: "/icons/socrates.png"
+---
+
 
 
 {{< l a="Socrates" >}}
 There is an absolute beauty, and goodness, and an absolute essence of all things. 
 
-If to this, which is now discovered to have existed in our former state, we refer all our sensations, and with this compare them, finding these ideas to be pre-existent and our inborn possession—then our souls must have had a prior existence, but if not, there would be no force in the argument? There is the same proof that these ideas must have existed before we were born, as that our souls existed before we were born; and if not the ideas, then not the souls.
+If to this, which is now discovered to have existed in our former state, we refer all our sensations, and with this compare them, finding these ideas to be pre-existent and our inborn possession—then our souls must have had a prior existence, but if not, there would be no force in the argument? 
+
+There is the same proof that these ideas must have existed before we were born, as that our souls existed before we were born; and if not the ideas, then not the souls.
 {{< /l >}}
 
 
 {{< r a="Simmias" >}}
-Yes, Socrates; I am convinced that there is precisely the same necessity for the one as for the other. The argument retreats successfully to the position that the existence of the soul before birth cannot be separated from the existence of the essence of which you speak. For there is nothing which to my mind is so patent as that beauty, goodness, and the other notions of which you were just now speaking, have a most real and absolute existence; and I am satisfied with the proof.
+Yes, Socrates. 
+
+I am convinced that there is precisely the same necessity for the one as for the other. The argument retreats successfully to the position that the existence of the soul before birth cannot be separated from the existence of the essence of which you speak. 
+
+For there is nothing which to my mind is so patent as that beauty, goodness, and the other notions of which you were just now speaking, have a most real and absolute existence; and I am satisfied with the proof.
 {{< /r >}}
 
 Well, but is Cebes equally satisfied? for I must convince him too.
 
 {{< r a="Simmias" >}}
-I think that Cebes is satisfied= although he is the most incredulous of mortals, yet I believe that he is sufficiently convinced of the existence of the soul before birth. But that after death the soul will continue to exist is not yet proven even to my own satisfaction. I cannot get rid of the feeling of the many to which Cebes was referring—the feeling that when the man dies the soul will be dispersed, and that this may be the extinction of her. For admitting that she may have been born elsewhere, and framed out of other elements, and was in existence before entering the human body, why after having entered in and gone out again may she not herself be destroyed and come to an end?
+I think that Cebes is satisfied= although he is the most incredulous of mortals, yet I believe that he is sufficiently convinced of the existence of the soul before birth. 
+
+But that after death the soul will continue to exist is not yet proven even to my own satisfaction. I cannot get rid of the feeling of the many to which Cebes was referring—the feeling that when the man dies the soul will be dispersed, and that this may be the extinction of her. 
+
+For admitting that she may have been born elsewhere, and framed out of other elements, and was in existence before entering the human body, why after having entered in and gone out again may she not herself be destroyed and come to an end?
 {{< /r >}}
 
 {{< right ava="Cebes" >}}
-Very true, Simmias. About half of what was required has been proven; to wit, that our souls existed before we were born:—that the soul will exist after death as well as before birth is the other half of which the proof is still wanting, and has to be supplied; when that is given the demonstration will be complete.
+Very true, Simmias. 
+
+About half of what was required has been proven; to wit, that our souls existed before we were born:—that the soul will exist after death as well as before birth is the other half of which the proof is still wanting, and has to be supplied; when that is given the demonstration will be complete.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
@@ -60,6 +67,7 @@ We must ask ourselves what that is which, as we imagine, is liable to be scatter
 {{< /l >}}
 
 
+{{< l a="Socrates" >}}
 And then we may proceed further to enquire whether that which suffers dispersion is or is not of the nature of soul—our hopes and fears as to our own souls will turn upon the answers to these questions.
 
 Now the compound or composite may be supposed to be naturally capable, as of being compounded, so also of being dissolved; but that which is uncompounded, and that only, must be, if anything is, indissoluble.
@@ -80,13 +88,19 @@ One  of us is part body, another is part soul.  The body is the seen and the sou
 
 The soul uses the body as an instrument of perception. It uses sight or hearing. Perceiving through the body is perceiving through the senses. The soul too is then dragged by the body into the region of the changeable. It wanders and is confused. The world spins round her, and she is like a drunkard, when she touches change. 
 
-But when returning into herself she reflects, then she passes into the other world, the region of purity, and eternity, and immortality, and unchangeableness, which are her kindred, and with them she ever lives, when she is by herself and is not let or hindered; then she ceases from her erring ways, and being in communion with the unchanging is unchanging. And this state of the soul is called wisdom?
+But when returning into herself she reflects, then she passes into the other world, the region of purity, and eternity, and immortality, and unchangeableness, which are her kindred, and with them she ever lives, when she is by herself and is not let or hindered. 
 
-That is well and truly said, Socrates, he replied.
+Then she ceases from her erring ways, and being in communion with the unchanging is unchanging. 
+
+This state of the soul is called wisdom.
 
 And to which class is the soul more nearly alike and akin, as far as may be inferred from this argument, as well as from the preceding one?
+{{< /l  >}}
 
+{{< r a="Cebes" >}}
 I think, Socrates, that, in the opinion of every one who follows the argument, the soul will be infinitely more like the unchangeable—even the most stupid person will not deny that.
+{{< /r >}}
+
 
 The body is more like the changing. 
 
@@ -102,7 +116,13 @@ After a man dies, the body is called a corpse. It would naturally be dissolved, 
 
 The invisible soul passes to the place of the true Hades which is also invisible. The pure and noble soul goes to the good and wise God. If God wills it my soul is also soon to go. The soul, I repeat, if this be her nature and origin, will be blown away and destroyed immediately on quitting the body, as the many say? 
 
-That can never be, my dear Simmias and Cebes. The truth rather is, that the soul which is pure at departing and draws after her no bodily taint, having never voluntarily during life had connection with the body, which she is ever avoiding, herself gathered into herself;—and making such abstraction her perpetual study—which means that she has been a true disciple of philosophy; and therefore has in fact been always engaged in the practice of dying? For is not philosophy the practice of death?
+That can never be, my dear Simmias and Cebes. 
+
+The truth rather is, that the soul which is pure at departing and draws after her no bodily taint, having never voluntarily during life had connection with the body, which she is ever avoiding, herself gathered into herself. 
+
+Making such abstraction her perpetual study—which means that she has been a true disciple of philosophy; and therefore has in fact been always engaged in the practice of dying? 
+
+For is not philosophy the practice of death?
 
 That soul, I say, herself invisible, departs to the invisible world—to the divine and immortal and rational= thither arriving, she is secure of bliss and is released from the error and folly of men, their fears and wild passions and all other human ills, and for ever dwells, as they say of the initiated, in company with the gods (compare Apol.).
 
@@ -131,6 +151,6 @@ And this corporeal element, my friend, is heavy and weighty and earthy, and is t
      To a degenerate and degraded state.')
  -->
 
-That is very likely, Socrates
-
+<!-- That is very likely, Socrates
+ -->
 

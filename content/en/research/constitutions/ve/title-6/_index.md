@@ -1,5 +1,6 @@
 ---
-title: "Title 3: Duties, Human Rights And Guarantees"
+heading: Title 6
+title: "Duties, Human Rights And Guarantees"
 # with Amendments through 2009
 linkTitle: "Venezuela"
 image: "/flags/ve.png"

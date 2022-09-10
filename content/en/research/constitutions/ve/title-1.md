@@ -1,13 +1,9 @@
 ---
 title: "Fundamental Principles"
-heading: "Chapter 1 of the Venezuelan Constitution Simplified"
+heading: "Chapter 1"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "The Bolivarian Republic of Venezuela is irrevocably free and independent, basing its moral property and values of freedom, equality, justice and international peace on the doctrine of Simon Bolivar, the Liberator"
-linkb: /research/constitutions/ve
-linkbtext: "Index"
-linkf: /research/constitutions/ve/title-2/chapter-1
-linkftext: "Title 2"
 icon: /flags/ve.png
 ---
 
@@ -36,25 +32,19 @@ ordain the following:  -->
 
 Article 1
 
-The Bolivarian Republic of Venezuela is irrevocably free and independent, basing its moral property and values of freedom, equality, justice and international peace on the doctrine of Simon Bolivar, the Liberator.
-Independence, liberty, sovereignty, immunity, territorial integrity and national self-
-determination are unrenounceable rights of the Nation.
+The Bolivarian Republic of Venezuela is irrevocably free and independent. It bases its moral values of freedom, equality, justice and international peace on the doctrine of Simon Bolivar, the Liberator.
+
+Independence, liberty, sovereignty, immunity, territorial integrity and national self-determination are unrenounceable rights of the Nation.
 
 Article 2
 
-Venezuela constitutes itself as a Democratic and Social State of Law and Justice, which
-holds as superior values of its legal order and actions those of life, liberty, justice,
-equality, solidarity, democracy, social responsibility and, in general, the preeminence of
-human rights, ethics and political pluralism.
+Venezuela constitutes itself as a Democratic and Social State of Law and Justice, which holds as superior values of its legal order and actions those of life, liberty, justice, equality, solidarity, democracy, social responsibility and, in general, the preeminence of human rights, ethics and political pluralism.
 
 
 Article 3
 
-The essential purposes of the State are the protection and development of the individual
-and respect for the dignity of the individual, the democratic exercise of the will of the
-people, the building of a just and peace loving society, the furtherance of the prosperity
-and welfare of the people and the guaranteeing of the Fulfillment of the principles, rights
-and duties established in this Constitution.
+The essential purposes of the State are the protection and development of the individual and respect for the dignity of the individual, the democratic exercise of the will of the people, the building of a just and peace loving society, the furtherance of the prosperity and welfare of the people and the guaranteeing of the Fulfillment of the principles, rights and duties established in this Constitution.
+
 Education and work are the fundamental processes for guaranteeing these purposes.
 
 
@@ -64,37 +54,28 @@ The Bolivarian Republic of Venezuela is a decentralized Federal State on the ter
 
 Article 5
 
-Sovereignty resides untransferable in the people, who exercise it directly in the manner provided for in this Constitution and in the law, and indirectly, by suffrage, through the
-organs exercising Public Power.
+Sovereignty resides untransferable in the people, who exercise it directly in the manner provided for in this Constitution and in the law, and indirectly, by suffrage, through the organs exercising Public Power.
 
 The organs of the State emanate from and are subject to the sovereignty of the people.
-Type of government envisioned
+
 
 Article 6
 
-The government of the Bolivarian Republic of Venezuela and of the political organs
-comprising the same, is and shall always be democratic, participatory, elective,
-decentralized, alternative, responsible and pluralist, with revocable mandates.
-Duty to obey the constitution
+The government of the Bolivarian Republic of Venezuela and of the political organs comprising the same, is and shall always be democratic, participatory, elective, decentralized, alternative, responsible and pluralist, with revocable mandates. Duty to obey the constitution
+
 
 Article 7
 
-The Constitution is the supreme law and foundation of the legal order. All persons and
-organs exercising Public Power are subject to this Constitution.
+The Constitution is the supreme law and foundation of the legal order. All persons and organs exercising Public Power are subject to this Constitution.
 
 
 Article 8
 
-The national flag with its yellow, blue and red stripes, the National Anthem “Gloria al
-bravo pueblo” (Glory to the Brave People), and the coat of arms of the Republic are the
-symbols of the native land.
-Law shall regulate their characteristics, meaning and use.
-Official or national languages
-Protection of language use
+The national flag with its yellow, blue and red stripes, the National Anthem “Gloria al bravo pueblo” (Glory to the Brave People), and the coat of arms of the Republic are the symbols of the native land.
 
 
 Article 9
 
-Spanish is the official language. The use of native languages also has official status for
-native peoples, and must be respected throughout the territory of the Republic, as
-constituting part of the cultural heritage of the Nation and humanity.
+Spanish is the official language. 
+
+The use of native languages also has official status for native peoples, and must be respected throughout the territory of the Republic, as constituting part of the cultural heritage of the Nation and humanity.

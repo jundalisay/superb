@@ -1,15 +1,11 @@
-+++
-title= "The Motion of the One"
-heading= "Chapter 3"
-date= 2021-12-29
-image= "/covers/parmenides.jpg"
-description= "The One is the One when viewed by Itself as an Immovable and Timeless Singularity"
-linkb= "/research/socrates/parmenides/chapter-2"
-linkbtext= "Chapter 2"
-linkf= "/research/socrates/parmenides/chapter-4"
-linkftext= "Chapter 4"
-icon = "/icons/soc.png"
-+++
+---
+title: "The Motion of the One"
+heading: "Chapter 3"
+date: 2015-09-26
+image: "/covers/parmenides.jpg"
+description: "The One is the One when viewed by Itself as an Immovable and Timeless Singularity"
+icon: "/icons/soc.png"
+---
 
 
 

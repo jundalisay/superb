@@ -1,17 +1,11 @@
-+++
-title= "Socrates in Prison"
+---
+title: "Socrates in Prison"
 # heading= "The Simple Phaedo by Plato"
-date= 2015-09-30
-image= "/covers/phaedo.jpg"
-description= "'If one of your own possessions, such as an ox killed itself without your permission then you would be angry with him. You would punish him if you could. And so a man should wait, and not take his own life until God summons him, as he is now summoning me.'"
-linkb= "/research/socrates/phaedo"
-linkbtext= "Phaedo Index"
-linkf= "/research/socrates/phaedo/chapter-2/"
-linkftext= "Chapter 1"
-icon= "/icons/socrates.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+date: 2015-09-30
+image: "/covers/phaedo.jpg"
+description: "'If one of your own possessions, such as an ox killed itself without your permission then you would be angry with him. You would punish him if you could. And so a man should wait, and not take his own life until God summons him, as he is now summoning me.'"
+icon: "/icons/socrates.png"
+---
 
 
 Persons Of The Dialogue:

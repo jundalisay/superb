@@ -1,6 +1,6 @@
 ---
 title: "Judicial Power and Justice System"
-heading: "Chapter 4 of the Venezuelan Constitution Simplified"
+heading: "Chapter 4"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "Electoral Power is exercised by the National Electoral Council as governing body, and by the latter’s subordinate organs"

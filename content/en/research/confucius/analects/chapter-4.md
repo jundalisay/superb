@@ -4,10 +4,6 @@ title: "Social Virtue--Superior and Inferior Man"
 description: "To be slow to speak, but prompt to act, is the desire of the 'superior man.'"
 date: 2020-01-28
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-3"
-linkbtext: "Chapter 3"
-linkf: "/research/confucius/analects/chapter-5"
-linkftext: "Chapter 5"
 ---
 
 
@@ -32,6 +28,18 @@ Men dislike poverty and low estate.
 But if they arrive at such a condition by improper ways, they should not refuse it.
 
 If the 'superior man' make nought of social good feeling, how shall he fully bear that name? 
+{{< /l >}}
+
+
+{{< r a="Tsz-Lu" >}}
+What makes a "superior man?"
+{{< /r >}}
+
+
+{{< l a="Confucius" >}}
+Self-culture, with a view to becoming seriously-minded. Self-culture with a view to the greater satisfaction of others. 
+
+Self-culture with a view to the greater satisfaction of all the clans and classes. Self-culture for the sake of all, the type that would almost put Yau and Shun into the shade!
 {{< /l >}}
 
 

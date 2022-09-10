@@ -1,7 +1,7 @@
 ---
 title: "The Soul"
 heading: "Chapter 3b"
-date: 2022-01-27
+date: 2022-01-24
 image: "/covers/timaeus.jpg"
 description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
 icon: "/icons/socrates.png"
@@ -58,13 +58,14 @@ When he had mingled them with the Essence and out of three made one, he again di
 After this, he filled up the double intervals (i.e. between 1, 2, 4, 8) and the triple (i.e. between 1, 3, 9, 27) cutting off yet other portions from the mixture and placing them in the intervals, so that in each interval there were 2 kinds of means:
 - the one exceeding and exceeded by equal parts of its extremes (as for example 1, 4/3, 2, in which the mean 4/3 is 1/3 of 1 more than 1, and one-third of 2 less than 2)
 - the other being that kind of mean which exceeds and is exceeded by an equal number (e.g.
-
-  - over 1, 4/3, 3/2, - over 2, 8/3, 3, - over 4, 16/3, 6,  - over 8= and
+  - over 1, 4/3, 3/2, - over 2, 8/3, 3, - over 4, 16/3, 6,  - over 8 
   - over 1, 3/2, 2,   - over 3, 9/2, 6, - over 9, 27/2, 18, - over 27.
 
-Where there were intervals of 3/2 and of 4/3 and of 9/8, made by the connecting terms in the former intervals, he filled up all the intervals of 4/3 with the interval of 9/8, leaving a fraction over; and the interval which this fraction expressed was in the ratio of 256 to 243 (e.g.
+Where there were intervals of 3/2 and of 4/3 and of 9/8, made by the connecting terms in the former intervals, he filled up all the intervals of 4/3 with the interval of 9/8, leaving a fraction over; and the interval which this fraction expressed was in the ratio of 256 to 243:
 
- 243:256::81/64:4/3::243/128:2::81/32:8/3::243/64:4::81/16:16/3::242/32:8.
+```
+243:256::81/64:4/3::243/128:2::81/32:8/3::243/64:4::81/16:16/3::242/32:8.
+```
 
 
 Thus, the whole mixture out of which he cut these portions was all exhausted by Him. 
@@ -85,9 +86,11 @@ But the inner motion he divided in 6 places and made 7 unequal circles [chakras]
 
 He bade the orbits proceed in a direction opposite to one another, 3 <!-- (Sun, Mercury, Venus) --> he made to move with equal swiftness*.
 
+
 > *Superphysics note: These are the top 3 chakras 
 
 The remaining four <!-- (Moon, Saturn, Mars, Jupiter) -->  move with unequal swiftness to the 3 and to 1 another, but in due proportion.*
+
 
 > *Superphysics note: These are the lower 4 chakras
 

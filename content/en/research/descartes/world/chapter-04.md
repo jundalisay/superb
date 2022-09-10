@@ -1,15 +1,13 @@
-+++
-title= "The Void-- Why are we not Aware of Certain Bodies?"
-heading= "Chapter 4"
-author= "Rene Descartes"
-image= "/covers/world.jpg"
-description= "All bodies, both hard and liquid, are made from the same matter"
-linkb= "/research/descartes/world/chapter-03"
-linkbtext= "Chapter 3"
-linkf= "/research/descartes/world/chapter-05"
-linkftext= "Chapter 5"
-icon= "/icons/descartes.png"
-+++
+---
+title: "The Void--Why are we not Aware of Certain Bodies?"
+heading: "Chapter 4"
+date: 2020-09-24
+author: "Rene Descartes"
+image: "/covers/world.jpg"
+description: "All bodies, both hard and liquid, are made from the same matter"
+icon: "/icons/descartes.png"
+---
+
 
 
 Why can't we sense the aether? <!-- air compared to other bodies?  -->

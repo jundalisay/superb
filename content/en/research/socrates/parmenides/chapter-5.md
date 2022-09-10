@@ -1,16 +1,13 @@
-+++
-title= "Relativity of Motion"
-heading= "Chapter 5"
-date= 2021-12-27
-image= "/covers/parmenides.jpg"
-# date= 2015-09-01
-description= "The One is at rest as the Whole, and in motion as the dualistic Others"
-linkb= "/research/socrates/parmenides/chapter-4"
-linkbtext= "Chapter 4"
-linkf= "/research/socrates/parmenides/chapter-6"
-linkftext= "Chapter 6"
-icon = "/icons/soc.png"
-+++
+---
+title: "Relativity of Motion"
+heading: "Chapter 5"
+date: 2015-09-22
+image: "/covers/parmenides.jpg"
+description: "The One is at rest as the Whole, and in motion as the dualistic Others"
+icon: "/icons/soc.png"
+---
+
+
 
 The One then is necessarily both at rest and in motion.
 

@@ -1,15 +1,12 @@
-+++
-title= "The Exercise on Logic"
-heading= "Chapter 2"
-date= 2021-12-30
-image= "/covers/parmenides.jpg"
-description= "Parmenides says that logic should consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis."
-linkb= "/research/socrates/parmenides/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/socrates/parmenides/chapter-3"
-linkftext= "Chapter 3"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Exercise on Logic"
+heading: "Chapter 2"
+date: 2015-09-28
+image: "/covers/parmenides.jpg"
+description: "Parmenides says that logic should consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis"
+icon: "/icons/soc.png"
+---
+
 
 
 {{< r a="Parmenides" >}}

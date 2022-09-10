@@ -1,17 +1,11 @@
-+++
-title= "Relativity of Time"
-heading= "Chapter 8"
-date= 2021-12-24
-image= "/covers/parmenides.jpg"
-# date= 2015-09-01
-description= "The One is affected by time"
-linkb= "/research/socrates/parmenides/chapter-7"
-linkbtext= "Chapter 7"
-linkf= "/research/socrates/parmenides/chapter-9"
-linkftext= "Chapter 9"
-icon = "/icons/soc.png"
-+++
-
+---
+title: "Relativity of Time"
+heading: "Chapter 16"
+date: 2015-09-16
+image: "/covers/parmenides.jpg"
+description: "The One is affected by time"
+icon: "/icons/soc.png"
+---
 
 <!-- And that which differs in age from some other less than formerly, from being older will become younger in relation to that other than which it was older.
 

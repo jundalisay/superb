@@ -1,13 +1,9 @@
 ---
-title: "Articles 5"
-heading: "US Constitution Simplified"
-date: 2021-11-20
+title: "Article 5"
+# heading: "US Constitution Simplified"
+date: 2021-11-22
 image: "/flags/us.png"
 description: "The Congress, whenever 2/3 of both Houses shall deem it necessary, shall propose Amendments to this Constitution. "
-linkb: /research/constitutions/us/article-2
-linkbtext: "article-2"
-linkf: /research/constitutions/us
-linkftext: "US constitution"
 icon: /flags/us.png
 ---
 

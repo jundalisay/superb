@@ -1,16 +1,12 @@
-+++
-title= "The Will to Change"
-heading= "Chapter 9"
-date= 2021-12-23
-image= "/covers/parmenides.jpg"
-# date= 2015-09-01
-description= "The One changes Itself into multiplicity from Its Will to Change which occurs in timeless Moments"
-linkb= "/research/socrates/parmenides/chapter-8"
-linkbtext= "Chapter 8"
-linkf= "/research/socrates/parmenides/chapter-10"
-linkftext= "Chapter 10"
-icon = "/icons/soc.png"
-+++
+---
+title: "The Will to Change"
+heading: "Chapter 9"
+date: 2015-09-14
+image: "/covers/parmenides.jpg"
+description: "The One changes Itself into multiplicity from Its Will to Change which occurs in timeless Moments"
+icon: "/icons/soc.png"
+---
+
 
 3. For the third time, let us consider: If the One is both one and many and is neither one nor many and experiences time, then it must exist when it is the Real One, but not exist when it is the Illusory One.
 

@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 7 of The Analects Simplified"
+heading: "Chapter 7"
 title: "Characteristics of Confucius--An Incident"
 description: "Confucius is a transmitter and not an originator. He believes in and loves the ancients."
 date: 2020-01-25
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-6"
-linkbtext: "Chapter 6"
-linkf: "/research/confucius/analects/chapter-8"
-linkftext: "Chapter 8"
 ---
 
 

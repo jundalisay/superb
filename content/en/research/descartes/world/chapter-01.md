@@ -1,15 +1,14 @@
-+++
-title= "The Difference Between Our Sensations and the Things That Produce Them"
-heading= "Chapter 1 of the World, Simplified"
-author= "Rene Descartes"
-image= "/covers/world.jpg"
-description= "There is a difference between our sensation of light and what is in the objects that produces that sensation"
-linkb= "/research/descartes/world/"
-linkbtext= "Index"
-linkf= "/research/descartes/world/chapter-02"
-linkftext= "Chapter 2"
-icon= "/icons/descartes.png"
-+++
+---
+title: "The Difference Between Our Sensations and the Things That Produce Them"
+heading: "Chapter 1"
+date: 2020-09-30
+author: "Rene Descartes"
+image: "/covers/world.jpg"
+description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
+icon: "/icons/descartes.png"
+---
+
+
 
 
 There is a difference between our sensation of light and the objects that we see.<!--  what is in the objects that produces that sensation -->

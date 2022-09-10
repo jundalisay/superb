@@ -4,10 +4,6 @@ heading: "Chapter 7d"
 date: "2022-01-01"
 image: "/covers/timaeus.jpg"
 description: "There are 3 kinds of soul within us, having each of them motions"
-linkb: /research/socrates/timaeus/chapter-07
-linkbtext: "Chapter 7"
-linkf: /research/socrates/timaeus/
-linkftext: "Index"
 author: "Juan"
 icon: /icons/socrates.png
 ---

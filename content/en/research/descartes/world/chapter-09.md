@@ -1,15 +1,12 @@
-+++
-title= "The Origin and the Course of the Planets and Comets"
-description= "The parts of the matter are very diverse"
-image= "/covers/world.jpg"
-author= "Rene Descartes"
-linkb= "/research/descartes/world/chapter-08"
-linkbtext= "Chapter 8"
-linkf= "/research/descartes/world/chapter-10"
-linkftext= "Chapter 10"	
-heading= "Chapter 9"
-icon= "/icons/spmat.png"
-+++
+---
+heading: "Chapter 9"
+title: "The Origin and the Course of the Planets and Comets"
+date: 2020-09-12
+image: "/covers/world.jpg"
+description: "The parts of the matter are very diverse"
+icon: "/icons/descartes.jpg"
+---
+
 
 
 The parts of the matter are very diverse. Most of them take the form of the aethereal fire or the aethereal air from breaking and dividing by collision with one another.

@@ -1,15 +1,11 @@
-+++
-title= "Cyrus the Great"
-heading= "Chapter 4 of The Economist"
-date= 2015-09-28
-image= "/covers/economist.jpg"
-description= "Socrates talks about excellent Persian policies and Cyrus the Great"
-linkb= "/research/socrates/the-economist/chapter-03"
-linkbtext= "Chapter 3"
-linkf= "/research/socrates/the-economist/chapter-05"
-linkftext= "Chapter 5"
-icon = "/icons/soc.png"
-+++
+---
+title: "Cyrus the Great"
+heading: "Chapter 4"
+date: 2015-09-26
+image: "/covers/economist.jpg"
+description: "Socrates talks about excellent Persian policies and Cyrus the Great"
+icon: "/icons/soc.png"
+---
 
 
 ## Boring Office and Routine Jobs are not Recomended

@@ -1,13 +1,9 @@
 ---
-title: "Articles 3-"
-heading: "US Constitution Simplified"
-date: 2021-11-20
+title: "Articles 3-4"
+# heading: "US Constitution Simplified"
+date: 2021-11-24
 image: "/flags/us.png"
 description: "The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. "
-linkb: /research/constitutions/us/article-2
-linkbtext: "article-2"
-linkf: /research/constitutions/us
-linkftext: "US constitution"
 icon: /flags/us.png
 ---
 

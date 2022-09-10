@@ -7,8 +7,7 @@ image: "/photos/objects/hand.jpg"
 ---
 
 
-
-The Mount Of The Moon. Part 6 
+<!-- The Mount Of The Moon. Part 6  -->
 
 These qualities added to coldness and selfishness, which are always present with yellow color, form a combination that leads the subject easily to become bad and vicious. He has distorted (yellow) views of life, people, and things, and, with a brain affected by poisoned blood, and being already highly imaginative, he sees everything from a bad standpoint, and easily becomes insane. 
 
@@ -30,9 +29,13 @@ From this formation we get linguists, professors of language, literature, and mu
 
 <!-- DEVELOPMENT OF LOWER THIRD OF MOUNT No. 126. DEVELOPMENT OF LOWER THIRD OF MOUNT. -->
 
-The finger-tips must be applied to whichever world of the Mount is in the lead. Pointed tips make the subject a prey to great idealism, religious exaltation, and he is utterly unpractical. Superstition, mysticism, and etherialism will make the life of this subject miserable and useless. He yearns continually for the impossible and unrealizable. Conic tips are normal to the type, and add their intuitive qualities, tinging the subject with romance and fancy. These subjects hate to work and belong to the lazy class. Square tips make the subject more practical. They pull down the idealism to a common-sense plane, make the subject more regular in habit and thought, and we get the best results of the type. Historians, composers, musicians who regard all the rules of metre and rhythm, are found with such combinations. Here we find a healthy imagination, which, coupled with practical ideas and common-sense, produces successful Lunarians. Spatulate tips add activity to an already restless person, especially if the Mount is grilled and cross-lined. They are original in ideas, entirely unconventional, and their danger is that they may constantly chase some will-o'-the-wisp of the fancy, until they become rovers indeed. The Mount Of The Moon. 
+The finger-tips must be applied to whichever world of the Mount is in the lead. Pointed tips make the subject a prey to great idealism, religious exaltation, and he is utterly unpractical. Superstition, mysticism, and etherialism will make the life of this subject miserable and useless. He yearns continually for the impossible and unrealizable. Conic tips are normal to the type, and add their intuitive qualities, tinging the subject with romance and fancy. 
 
-Part 7 
+These subjects hate to work and belong to the lazy class. 
+
+Square tips make the subject more practical. They pull down the idealism to a common-sense plane, make the subject more regular in habit and thought, and we get the best results of the type. Historians, composers, musicians who regard all the rules of metre and rhythm, are found with such combinations. Here we find a healthy imagination, which, coupled with practical ideas and common-sense, produces successful Lunarians. Spatulate tips add activity to an already restless person, especially if the Mount is grilled and cross-lined. They are original in ideas, entirely unconventional, and their danger is that they may constantly chase some will-o'-the-wisp of the fancy, until they become rovers.
+
+<!-- Part 7  -->
 
 If they have a smooth Mount, good Head line, and some square formation of the sides of the fingers, they become brilliant essayists, deep students or musicians, in which lines they excel as executionists. Knotty fingers reduce the fanciful condition to a marked degree, as they make a subject reason. They are in fact one of the greatest reducing factors for a Lunarian, and these subjects produce practical writers, teachers, and deep thinkers. 
 
@@ -48,4 +51,14 @@ A large thumb will show strong will and reason, which materially strengthen the 
 
 Then note the Head line. If it goes straight across the hand it makes the ideas more practical; if it droops to the Mount of the Moon it tinges them with imagination. If it is clear, well marked, and of good color, you have a strong mind, self-control, and healthy imagination. This gives all the benefits of the type without its dangers. 
 
-If the Head line is broken, wavy, islanded, chained, poorly marked, or badly colored, containing perhaps in its course a star, you must ascribe poor faculty of mental concentration, lack of firmness, a weakened brain, and vivid imagination; and from such subjects come those who are continually changing their mind, are restless, never satisfied, and vacillating, and, if actual insanity is escaped, are continually verging on an unbalanced condition of mind. Thus the Lunarian ranges from a highly gifted subject to one who is insane, all indicated by the size, character, and markings of the Mount. Wherever no Mount is found, you find dense materialism; when you find too much Mount, there is too much imagination, which may mean insanity. So, again, we seek to find the happy medium which will show the healthy operation of the mind. Do not expect to find many typical Lunarians, but do expect to find with nearly every subject, imagination in some degree developed. You need have no trouble whatever in grading its extent, the plane on which it operates, nor the combinations that accompany it if you have thoughtfully digested this chapter and what precedes it.
+If the Head line is broken, wavy, islanded, chained, poorly marked, or badly colored, containing perhaps in its course a star, you must ascribe poor faculty of mental concentration, lack of firmness, a weakened brain, and vivid imagination; and from such subjects come those who are continually changing their mind, are restless, never satisfied, and vacillating, and, if actual insanity is escaped, are continually verging on an unbalanced condition of mind. 
+
+Thus the Lunarian ranges from a highly gifted subject to one who is insane, all indicated by the size, character, and markings of the Mount. 
+
+Wherever no Mount is found, you find dense materialism. 
+
+When you find too much Mount, there is too much imagination, which may mean insanity. 
+
+So, again, we seek to find the happy medium which will show the healthy operation of the mind. Do not expect to find many typical Lunarians, but do expect to find with nearly every subject, imagination in some degree developed. 
+
+You need have no trouble whatever in grading its extent, the plane on which it operates, nor the combinations that accompany it if you have thoughtfully digested this chapter and what precedes it.

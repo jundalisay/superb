@@ -1,13 +1,9 @@
 ---
 title: "Procedures"
-heading: "Section 5 of Chapter 1 of the Venezuelan Constitution Simplified"
+heading: "Section 5 of Chapter 1"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "Laws that contain a systematic set of norms regulating a particular field may also be referred to as codes"
-linkb: /research/constitutions/ve/title-5/chapter-1b
-linkbtext: "Chapter 1b"
-linkf: /research/constitutions/ve/title-5/chapter-2
-linkftext: "Chapter 2"
 icon: /flags/ve.png
 ---
 

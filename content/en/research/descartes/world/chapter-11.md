@@ -1,15 +1,13 @@
-+++
-title= "What gives objects their Weight?"
-description= "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things that depend on that motion"
-image= "/covers/world.jpg"
-author= "Rene Descartes"
-linkb= "/research/descartes/world/chapter-10"
-linkbtext= "Chapter 10"
-linkf= "/research/descartes/world/chapter-12"
-linkftext= "Chapter 12"
-heading= "Chapter 11"
-icon= "/icons/spmat.png"
-+++
+---
+heading: "Chapter 11"
+title: "What gives objects their Weight?"
+date: 2020-09-08
+image: "/covers/world.jpg"
+description: "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things that depend on that motion"
+icon: "/icons/descartes.jpg"
+---
+
+
 
 What is the weight of this earth? 
 

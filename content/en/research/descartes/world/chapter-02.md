@@ -1,15 +1,12 @@
-+++
-title= "The Nature of Heat and Light"
-heading= "Chapter 2"
-author= "Rene Descartes"
-image= "/covers/world.jpg"
-description= "There is a difference between our sensation of light and what is in the objects that produces that sensation"
-linkb= "/research/descartes/world/chapter-01"
-linkbtext= "Chapter 1"
-linkf= "/research/descartes/world/chapter-03"
-linkftext= "Chapter 3"
-icon= "/icons/descartes.png"
-+++
+---
+title: "The Nature of Heat and Light"
+heading: "Chapter 2"
+date: 2020-09-28
+author: "Rene Descartes"
+image: "/covers/world.jpg"
+description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
+icon: "/icons/descartes.png"
+---
 
 
 Light naturally exists in the stars and flame, or fire.
@@ -36,7 +33,7 @@ Body `A` cannot move Body `B` unless Body `A` itself were also moving [7].
 It means that the flame's body that acts against the wood is composed of small parts*. These move independently of one another with a very fast and violent motion.
 
 
-> *Superphysics note= Unlike Newton who viewed motion from a large viewpoint, as from the perspective of 'Lord God', Descartes views movement from the quanta or small parts
+> *Superphysics note: Unlike Newton who viewed motion from a large viewpoint, as from the perspective of 'Lord God', Descartes views movement from the quanta or small parts
 
 
 

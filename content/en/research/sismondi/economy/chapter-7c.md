@@ -1,13 +1,11 @@
-+++
-title= "Invention"
-date= 2022-03-27
-image= "/covers/sismondi.jpg"
-description= "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
-linkb= "/research/sismondi/economy/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/sismondi/economy/chapter-2"
-linkftext= "Chapter 2"
-+++
+---
+heading: "Chapter 7c"
+title: "Invention"
+date: 2022-03-12
+image: "/covers/sismondi.jpg"
+description: "The invention of the stocking frame allowed 1 man to do as much work as 100 men before"
+---
+
 
 The invention of the stocking frame allowed 1 man to do as much work as 100 men before. <!-- , was a benefit for humanity, only because, at the same time, the progress of civilization, of population, and of wealth, increased the number of consumers. -->
 

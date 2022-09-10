@@ -1,7 +1,7 @@
 ---
 title: "Ischomachus' Trains His Wife"
 heading: "Chapter 7"
-date: 2015-09-25
+date: 2015-09-20
 image: "/covers/economist.jpg"
 description: "I do not spend my days indoors because my wife is capable of managing our domestic affairs without my aid."
 icons: "/icons/soc.png"

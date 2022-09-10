@@ -1,19 +1,16 @@
-+++
-title= "The Importance of Husbandry"
-heading= "Chapter 5"
-date= 2015-09-27
-image= "/covers/economist.jpg"
-description= "high and mighty people find it hard to hold aloof from agriculture. Devotion to it seems to be thrice blest"
-linkb= "/research/socrates/the-economist/chapter-04/"
-linkbtext= "Chapter 4"
-linkf= "/research/socrates/the-economist/chapter-06/"
-linkftext= "Chapter 6"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Importance of Husbandry"
+heading: "Chapter 5"
+date: 2015-09-24
+image: "/covers/economist.jpg"
+description: "High and mighty people find it hard to hold aloof from agriculture. Devotion to it seems to be thrice blest"
+icon: "/icons/soc.png"
+---
+
 
 
 {{< l a="Socrates" >}}
-Socrates= This shows that high and mighty people find it hard to hold aloof from agriculture. Devotion to it seems to be thrice blest.
+This shows that high and mighty people find it hard to hold aloof from agriculture. Devotion to it seems to be thrice blest.
 
 Agriculture combines a certain sense of luxury with the satisfaction of an improved estate. 
 - It trains the body. 
@@ -25,12 +22,15 @@ We owe to the Earth our many delicacies of meat and vegetables. Agriculture is c
 
 She pours out her blessings upon us in abundance, yet she suffers not her gifts to be received effeminately, but inures her pensioners to suffer glady summer's heat and winter's cold. 
 
-Those that labour with their hands, the actual delvers of the soil, she trains in a wrestling school of her own, adding strength to strength; 
+Those who labour with their hands, the actual delvers of the soil, she trains in a wrestling school of her own, adding strength to strength. 
 
-whilst those others whose devotion is confined to the overseeing eye and to studious thought, she makes more manly, rousing them with cock-crow, and compelling them to be up and doing in many a long day's march. 
+Those whose devotion is confined to management and study, she makes more manly, rousing them with cock-crow, and compelling them to be up and doing in many a long day's march.
 
 Since, whether in city or a field, with the shifting seasons, each necessary labour has its hour of performance. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 <!-- Or to turn to another side. --> Suppose we wanted to make our city wealthier. Why not combine husbandry with agriculture?
 
 <!-- Or would your citizen serve on foot?  -->
@@ -44,7 +44,10 @@ If horses and dogs derive benefit from this art of husbandry, they in turn requi
 The horse carries his best of friends, the careful master, betimes to the scene of labour and devotion, and enables him to leave it late. 
 
 The dog keeps off wild animals<!--  from fruits and flocks, and creates security in the solitary place -->. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Earth, too, adds stimulus in war-time to earth's tillers. She pricks them on to aid the country under arms, and this she does by fostering her fruits in open field, the prize of valour for the mightiest. 
 
 For this also is the art athletic, this of husbandry; as thereby men are fitted to run, and hurl the spear, and leap with the best.
@@ -58,7 +61,9 @@ For where else, save in some happy rural seat of her devising, shall a man more 
 Her high prerogative it is to offer fitting first-fruits to high heaven, hers to furnish forth the overflowing festal board. Hers is a kindly presence in the household. 
 
 She is the good wife's favourite, the children long for her, she waves her hand winningly to the master's friends. Or, "to appoint the festal board most bounteously." 
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 I marvel greatly if it has ever fallen to the lot of freeborn man to own a choicer possession, or to discover an occupation more seductive, or of wider usefulness in life than this. But, furthermore, earth of her own will gives lessons in justice and uprightness to all who can understand her meaning, since the nobler the service of devotion rendered, the ampler the riches of her recompense.
 
 One day, these pupils of hers, whose conversation in past times was in husbandry, shall, by reason of the multitude of invading armies, be ousted from their labours. 
@@ -83,7 +88,7 @@ Since at one time hailstones and another frost, at another drought or a deluge o
 
 
 {{< l a="Socrates" >}}
-To which Socrates= Nay, Critobulus, you full surely were aware that the operations of husbandry, no less than those of war, lie in the hands of the gods. 
+Nay, Critobulus, you full surely were aware that the operations of husbandry, no less than those of war, lie in the hands of the gods. 
 
 I am sure you will have noted the behaviour of men engaged in war; how on the verge of military operations they strive to win the acceptance of the divine powers; (24) how eagerly they assail the ears of heaven, and by dint of sacrifices and omens seek to discover what they should and what they should not do. So likewise as regards the processes of husbandry, think you the propitiation of heaven is less needed here? 
 

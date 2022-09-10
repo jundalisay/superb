@@ -1,13 +1,9 @@
 ---
 title: "Competence of National Public Power"
-heading: "Chapter 2 of the Venezuelan Constitution Simplified"
-date: 2021-11-20
+heading: "Chapter 2"
+date: 2021-11-26
 image: "/flags/ve.png"
 description: "Public Power is distributed among Municipal Power, that of the States Power and National Power"
-linkb: /research/constitutions/ve/title-4/chapter-1
-linkbtext: "Chapter 1"
-linkf: /research/constitutions/ve/title-4/chapter-2
-linkftext: "Chapter 2"
 icon: /flags/ve.png
 ---
 

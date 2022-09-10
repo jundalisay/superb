@@ -1,16 +1,12 @@
-+++
-title= "The Whole"
-heading= "Chapter 4"
-date= 2021-12-28
-image= "/covers/parmenides.jpg"
-# date= 2021-12-28
-description= "The Whole is the One when taken as Existing or being perceived by those inside It, as the Others"
-linkb= "/research/socrates/parmenides/chapter-3"
-linkbtext= "Chapter 3"
-linkf= "/research/socrates/parmenides/chapter-5"
-linkftext= "Chapter 5"
-icon = "/icons/soc.png"
-+++
+---
+title: "The Whole"
+heading: "Chapter 4"
+date: 2015-09-24
+image: "/covers/parmenides.jpg"
+description: "The Whole is the One when taken as Existing or being perceived by those inside It, as the Others"
+icon: "/icons/soc.png"
+---
+
 
 
 ## The Whole (Brahma)

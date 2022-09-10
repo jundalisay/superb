@@ -1,15 +1,13 @@
-+++
-title= "The Planets= the Earth and Moon"
-description= "Descartes explains the movement of the planets"
-image= "/covers/world.jpg"
-author= "Rene Descartes"
-linkb= "/research/descartes/world/chapter-09"
-linkbtext= "Chapter 9"
-linkf= "/research/descartes/world/chapter-11"
-linkftext= "Chapter 11"
-heading= "Chapter 10"
-icon= "/icons/spmat.png"
-+++
+---
+heading: "Chapter 10"
+title: "The Planets the Earth and Moon"
+date: 2020-09-10
+image: "/covers/world.jpg"
+description: "Descartes explains the movement of the planets"
+icon: "/icons/descartes.jpg"
+---
+
+
 
 Similarly, there are several things to note concerning the planets. 
 

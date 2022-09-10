@@ -1,15 +1,13 @@
-+++
-title= "The Ebb and Flow of the Sea"
-image= "/covers/world.jpg"
-author= "Rene Descartes"
-description= "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things that depend on that motion"
-linkb= "/research/descartes/world/chapter-11"
-linkbtext= "Chapter 13"
-linkf= "/research/descartes/world/chapter-13"
-linkftext= "Chapter 15"
-heading= "Chapter 13"
-icon= "/icons/spmat.png"
-+++
+---
+heading: "Chapter 12"
+title: "The Ebb and Flow of the Sea"
+date: 2020-09-06
+image: "/covers/world.jpg"
+description: "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things that depend on that motion"
+icon: "/icons/descartes.jpg"
+---
+
+
 
 The whole mass of the Earth is caused by the presence of the moon, and also about some particular things that depend on that motion.
 

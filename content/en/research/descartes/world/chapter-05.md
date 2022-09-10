@@ -1,15 +1,13 @@
-+++
-title= "The Aethereal Elements and Their Qualities"
-author= "Rene Descartes"
-heading= "Chapter 5 of the World, Simplified"
-image= "/covers/world.jpg"
-description= "All bodies, both hard and liquid, are made from the same matter"
-linkb= "/research/descartes/world/chapter-04"
-linkbtext= "Chapter 4"
-linkf= "/research/descartes/world/chapter-06"
-linkftext= "Chapter 6"
-icon= "/icons/descartes.png"
-+++
+---
+title: "The Aethereal Elements and Their Qualities"
+heading: "Chapter 5"
+date: 2020-09-22
+author: "Rene Descartes"
+image: "/covers/world.jpg"
+description: "All bodies, both hard and liquid, are made from the same matter"
+icon: "/icons/descartes.png"
+---
+
 
 The philosophers assure us that above the clouds there is an aethereal air much subtler than ours. 
 
@@ -23,7 +21,6 @@ These two elements are mixed with liquids and solids of <!-- water and earth in 
 
 <!-- But, in order better to make you understand my thought on this subject, and so that you will not think I want to force you to believe all the philosophers tell us about the elements, I should describe them to you in my fashion. -->
 
-<br>
 
 ### Athereal Fire
 

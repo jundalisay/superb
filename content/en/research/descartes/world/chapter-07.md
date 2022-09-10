@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 7 of The World by Descrates Simplified"
+heading: "Chapter 7"
 title: "The Three Rules of Nature of the Aethereal Universe"
-date: 2020-09-02
+date: 2020-09-16
 image: "/covers/meta.jpg"
 description: "How could Nature untangle the confusion of the chaos after creation? What are the laws of nature that God has imposed on her?"
-linkb: /research/descartes/world/chapter-06
-linkbtext: "Chapter 6"
-linkf: /research/descartes/world/chapter-08
-linkftext: "Chapter 8"
 icon: "/icons/descartes.jpg"
 ---
 

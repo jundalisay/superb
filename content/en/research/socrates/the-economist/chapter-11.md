@@ -1,15 +1,12 @@
-+++
-title= "The Routine of an Economist"
-heading= "Chapter 11 of the Economist"
-date= 2015-09-22
-image= "/covers/economist.jpg"
-description= "My habit is to rise from bed betimes, when I may still expect to find at home this, that, or the other friend, whom I may wish to see"
-linkb= "/research/socrates/the-economist/chapter-09"
-linkbtext= "Chapter 10"
-linkf= "/research/socrates/the-economist/chapter-12"
-linkftext= "Chapter 12"
-icons = "/icons/soc.png"
-+++
+---
+title: "The Routine of an Economist"
+heading: "Chapter 11"
+date: 2015-09-14
+image: "/covers/economist.jpg"
+description: "My habit is to rise from bed betimes, when I may still expect to find at home this, that, or the other friend, whom I may wish to see"
+icons: "/icons/soc.png"
+---
+
 
 
 I thanked Ischomachus for what he had told me on the occupations of his wife. 
@@ -49,12 +46,14 @@ Such being my creed, I begin with service rendered to the gods; and strive to re
 
 
 {{< l a="Socrates" >}}
-Socrates= Are you then indeed so careful to grow rich, Ischomachus?—amassing wealth but to gain endless trouble in its management?
+Are you then indeed so careful to grow rich?—amassing wealth but to gain endless trouble in its management?
 {{< /l >}}
 
 
 {{< r a="Ischomachus" >}}
-Most certainly, and most careful must I needs be of the things you speak of. So sweet I find it, Socrates, to honour God magnificently, to lend assistance to my friends in answer to their wants, and, so far as lies within my power, not to leave my city unadorned with anything which riches can bestow.
+Most certainly, and most careful must I needs be of the things you speak of. 
+
+So sweet I find it to honour God magnificently, to lend assistance to my friends in answer to their wants, and, so far as lies within my power, not to leave my city unadorned with anything which riches can bestow.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
@@ -66,36 +65,61 @@ We may regard such people as men of substance and capacity. But stay (I added), 
 {{< /l >}}
 
 
+{{< r a="Ischomachus" >}}
 Yes, all these matters are in close connection, each depending on the other.
 
-Given that a man have a good meal to eat, he has only to work off the effect by toil directed rightly. In the process, his health will be confirmed, his strength added to. Let him but practise the arts of war and in the day of battle he will preserve his life with honour. He needs only to expend his care aright, sealing his ears to weak and soft seductions, and his house shall surely be increased.
+Given that a man have a good meal to eat, he has only to work off the effect by toil directed rightly. 
 
-You tell me that by labouring to his full strength, by expending care, by practice and training, a man may hope more fully to secure life's blessings.
+In the process, his health will be confirmed, his strength added to. 
 
-What particular toil do you impose on yourself in order to secure good health and strength?
-How do you practise the arts of war?
-How do you take pains to create a surplus which will enable you to benefit your friends and to gratify the state?
-
-My habit is to rise from bed betimes, when I may still expect to find at home this, that, or the other friend, whom I may wish to see.
-
-Then, if anything has to be done in town, I set off to transact the business and make that my walk. If there is no business to do in town, my serving-boy leads my horse to the farm. I follow, and so make the country-road my walk, which suits my purpose quite as well, or better, Socrates, perhaps, than pacing up and down the colonnade. 
-
-Then when I have reached the farm, where mayhap some of my men are planting trees, or breaking fallow, sowing or getting in the crops, I inspect their various labours with an eye to every detail, and, whenever I can improve upon the present system, I introduce reform. After this, as a rule, I mount my horse and take a canter. 
-
-I put him through his paces, suiting these, as far as possible, to those inevitable in war—in other words, I avoid neither steep slope nor sheer incline, neither trench nor runnel, only giving my utmost heed the while so as not to lame my horse while exercising him. When that is over, the boy gives the horse a roll, and leads him homewards, taking at the same time from the country to town whatever we may chance to need. 
-
-Meanwhile I am off for home, partly walking, partly running, and having reached home I take a bath and give myself a rub; (17) and then I breakfast—a repast which leaves me neither empty nor replete, and will suffice to last me through the day. Then eat a temperate luncheon, just to stay A sinking stomach till the close of day (Conington).
+Let him but practise the arts of war and in the day of battle he will preserve his life with honour. He needs only to expend his care aright, sealing his ears to weak and soft seductions, and his house shall surely be increased.
+{{< /r >}}
 
 
 {{< l a="Socrates" >}}
-By Hera, I cannot say how much your doings take my fancy. 
+You tell me that by labouring to his full strength, by expending care, by practice and training, a man may hope more fully to secure life's blessings.
 
-How you have contrived, to pack up portably for use—together at the same time—appliances for health and recipes for strength, exercises for war, and pains to promote your wealth! My admiration is raised at every point. That you do study each of these pursuits in the right way, you are yourself a standing proof. Your look of heaven-sent health and general robustness we note with our eyes, while our ears have heard your reputation as a first-rate horseman and the wealthiest of men.
+What particular toil do you impose on yourself in order to secure good health and strength?
+
+How do you practise the arts of war?
+
+How do you take pains to create a surplus which will enable you to benefit your friends and to gratify the state?
 {{< /l >}}
 
 
 {{< r a="Ischomachus" >}}
-Yes, Socrates, such is my conduct, in return for which I am rewarded with—the calumnies of half the world. You thought, I daresay, I was going to end my sentence different, and say that a host of people have given me the enviable title "beautiful and good."
+My habit is to rise from bed betimes, when I may still expect to find at home this, that, or the other friend, whom I may wish to see.
+
+Then, if anything has to be done in town, I set off to transact the business and make that my walk. 
+
+If there is no business to do in town, my serving-boy leads my horse to the farm. 
+
+I make the country-road my walk. It is better than <!--  which suits my purpose quite as well, or better, perhaps, than --> pacing up and down the colonnade. 
+
+At the farm, I inspect some of my men planting trees, breaking fallow, sowing or getting in the crops. I see whether I can improve the present system and introduce reform. 
+
+Afterwards, I mount my horse and take a canter. I put him through his paces, suiting these, as far as possible, to those inevitable in war—in other words, I avoid neither steep slope nor sheer incline, neither trench nor runnel, only giving my utmost heed the while so as not to lame my horse while exercising him. 
+
+When that is over, the boy gives the horse a roll, and leads him homewards, taking at the same time from the country to town whatever we may chance to need.
+
+Meanwhile I am off for home, partly walking, partly running, and having reached home I take a bath and give myself a rub. <!--  (17) and --> Then I breakfast—a repast which leaves me neither empty nor replete, and will suffice to last me through the day. 
+
+Then eat a temperate luncheon, just to stay A sinking stomach till the close of day (Conington).
+{{< /r >}}
+
+{{< l a="Socrates" >}}
+By Hera, I cannot say how much your doings take my fancy. 
+
+How you have contrived, to pack up portably for use—together at the same time—appliances for health and recipes for strength, exercises for war, and pains to promote your wealth! 
+
+My admiration is raised at every point. That you do study each of these pursuits in the right way, you are yourself a standing proof. 
+
+Your look of heaven-sent health and general robustness we note with our eyes, while our ears have heard your reputation as a first-rate horseman and the wealthiest of men.
+{{< /l >}}
+
+
+{{< r a="Ischomachus" >}}
+Yes, in return for my conduct, I am rewarded with—the calumnies of half the world. You thought, I daresay, I was going to end my sentence different, and say that a host of people have given me the enviable title "beautiful and good."
 {{< /r >}}
 
 {{< l a="Socrates" >}}
@@ -113,8 +137,7 @@ Do you put defence and accusation into formal language?
 {{< /l >}}
 
 {{< r a="Ischomachus" >}}
-"Formal language," say you, Socrates?
-
+<!-- "Formal language," say you, Socrates? -->
 I always practise speaking. Some member of my household has some charge to bring, or some defence to make, against some other. I have to listen and examine. I must try to sift the truth. 
 
 Or there is someone whom I have to blame or praise before my friends.
@@ -123,7 +146,7 @@ Or I must arbitrate between some close connections and endeavour to enforce the 
 
 We are present to assist a general in court. 
 
-We are called upon to censure some one; or defend some other charged unjustly; or to prosecute a third who has received an honour which he ill deserves. 
+We are called upon to censure some one; or defend some other charged unjustly; or to prosecute a third who has received an honour which he ill deserves.
 
 It frequently occurs in our debates that there is some course which we strongly favour. 
 

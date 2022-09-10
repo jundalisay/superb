@@ -2346,7 +2346,7 @@ Assembly of the State”.”
 2019, Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i).
 240APPENDIX-II
 EXTRACTS FROM THE CONSTITUTION (FORTY-FOURTH
-AMENDMENT) ACT, 1978
+Amendment) ACT, 1978
 *
 *
 *
@@ -2394,7 +2394,7 @@ figure “clause (4)” shall be substituted.
 *
 241
 *APPENDIX-III
-THE CONSTITUTION (EIGHTY-EIGHTH AMENDMENT)ACT, 2003
+THE CONSTITUTION (EIGHTY-EIGHTH Amendment)ACT, 2003
 [15th January, 2004.]
 An Act further to amend the Constitution of India.
 B E it enacted by Parliament in the Fifty-fourth Year of the Republic of India as follows:—
@@ -2423,7 +2423,7 @@ List, after entry 92B, the following entry shall be inserted, namely:—
  Date
 of enforcement yet to be notified.
 242APPENDIX-IV
-THE CONSTITUTION (ONE HUNDREDTH AMENDMENT)
+THE CONSTITUTION (ONE HUNDREDTH Amendment)
 ACT, 2015
 [28th May, 2015.]
 An Act further to amend the Constitution of India to give effect to the acquiring of territories by

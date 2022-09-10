@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 8 of The Analects Simplified"
+heading: "Chapter 8"
 title: "His Favorite Disciple's Opinion of Him"
 description: "The Master rarely spoke on Advantage, Destiny, and Duty of man to man"
 date: 2020-01-23
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-8"
-linkbtext: "Chapter 8"
-linkf: "/research/confucius/analects/chapter-10a"
-linkftext: "Chapter 10a"
 ---
 
 

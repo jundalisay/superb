@@ -1,13 +1,11 @@
 ---
+heading: "Chapter 5"
 title: "Money"
-date: 2022-03-27
+date: 2022-03-16
 image: "/covers/sismondi.jpg"
 description: "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
-linkb: "/research/sismondi/economy/chapter-1"
-linkbtext: "Chapter 1"
-linkf: "/research/sismondi/economy/chapter-2"
-linkftext: "Chapter 2"
 ---
+
 
 
 Wealth incessantly circulates from producers to consumers through money. 

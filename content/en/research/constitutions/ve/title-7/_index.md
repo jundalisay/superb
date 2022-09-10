@@ -1,5 +1,6 @@
 ---
-title: "Title 7: National Security"
+heading: Title 7
+title: "National Security"
 # with Amendments through 2009
 linkTitle: "Venezuela"
 image: "/flags/ve.png"

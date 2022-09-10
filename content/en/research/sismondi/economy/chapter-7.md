@@ -1,17 +1,14 @@
-+++
-title= "Population"
-date= 2022-03-27
-image= "/covers/sismondi.jpg"
-description= "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
-linkb= "/research/sismondi/economy/chapter-6"
-linkbtext= "Chapter 6"
-linkf= "/research/sismondi/economy/chapter-7b"
-linkftext= "Chapter 7b"
-+++
+---
+heading: "Chapter 7"
+title: "Population"
+date: 2022-03-16
+image: "/covers/sismondi.jpg"
+description: "Political economists must always take 2 elements together"
+---
 
 <!-- We have defined political economy, as being the investigation of the means, by which the greatest number of men in a given state may participate in the highest degree of physical happiness, so far as it depends on government.  -->
 
-Political economists must always take two elements together= <!--  must always be received in connexion by the legislature; --> 
+Political economists must always take 2 elements together: <!--  must always be received in connexion by the legislature; --> 
 
 1. The increase of happiness in intensity
 2. Its diffusion among all classes of people

@@ -1,5 +1,5 @@
 ---
-title: AMENDMENTS
+title: AmendmentS
 date: 2022-01-12
 heading: Article 16 of the 1973 Constitution Simplified
 # date: 1899-01-19
@@ -67,7 +67,7 @@ SEC. 16. This Constitution shall take effect immediately upon its ratification b
 
 The foregoing Constitution was approved by the Filipino people in a referendum held between January 10, 1973 and January 15, 1973, the result of which was announced under Proclamation Numbered One Thousand One Hundred Two, dated January 17, 1973, by His Excellency, President Ferdinand E. Marcos. By virtue whereof, the Constitution came into full force and effect as of noon of January 17, 1973 In addition to the 1976 amendments reproduced in the following pages, the Filipino people in two plebiscites respectively held on January 30, 1980 and April 7, 1981 approved the amendments herein incorporated, the results being announced in Proclamation No. 1959 and Proclamation No. 2077.
 
-## 1976 AMENDMENTS
+## 1976 AmendmentS
 
 1. There shall be, in lieu of the interim National Assembly, an interim Batasang Pambansa. Members of the interim Batasang Pambansa which shall not be more than 120, unless otherwise provided by law, shall include the incumbent President of the Philippines, representatives elected from the different regions of the nation, those who shall not be less than eighteen years of age elected by their respective sectors, and those chosen by the incumbent President from the Members of the Cabinet. Regional representatives shall be apportioned among the regions in accordance with the number of their respective inhabitants and on the basis of a uniform and progressive ratio, while the sector shall be determined by law. The number of representatives from each region or sector and the manner of their election shall be prescribed and regulated by law.
 

@@ -4,10 +4,6 @@ heading: "Chapter 6c"
 date: "2022-01-01"
 image: "/covers/timaeus.jpg"
 description: "The life of mortal animal necessarily consisted of fire and breath. This allowed it to waste away by dissolution and depletion"
-linkb: /research/socrates/timaeus/chapter-06d
-linkbtext: "Chapter 6d"
-linkf: /research/socrates/timaeus/chapter-07b
-linkftext: "Chapter 7b"
 author: "Juan"
 icon: /icons/socrates.png
 ---

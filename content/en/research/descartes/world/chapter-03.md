@@ -1,15 +1,13 @@
-+++
-title= "Hardness and Liquidity"
-heading= "Chapter 3 of the World, Simplified"
-author= "Rene Descartes"
-image= "/covers/world.jpg"
-description= "There is an infinity of diverse motions that endure perpetually in the world"
-linkb= "/research/descartes/world/chapter-02"
-linkbtext= "Chapter 2"
-linkf= "/research/descartes/world/chapter-04"
-linkftext= "Chapter 4"
-icon= "/icons/descartes.png"
-+++
+---
+title: "Hardness and Liquidity"
+heading: "Chapter 3"
+date: 2020-09-26
+author: "Rene Descartes"
+image: "/covers/world.jpg"
+description: "There is an infinity of diverse motions that endure perpetually in the world"
+icon: "/icons/descartes.png"
+---
+
 
 
 There is an infinity of diverse motions that endure perpetually in the world. The greatest of these bring about the days, months, and years. 

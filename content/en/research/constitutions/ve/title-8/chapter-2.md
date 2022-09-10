@@ -1,13 +1,9 @@
 ---
 title: "States of Exception"
-heading: "Chapter 2 of the Venezuelan Constitution Simplified"
-date: 2021-11-20
+heading: "Chapter 2"
+date: 2021-11-18
 image: "/flags/ve.png"
 description: "These are social, economic, political, natural or ecological circumstances which seriously affect the nation's security, institutions and citizens"
-linkb: /research/constitutions/ve/title-8/chapter-1
-linkbtext: "Chapter 1"
-linkf: /research/constitutions/ve/title-9/chapter-1
-linkftext: "Title 9"
 icon: /flags/ve.png
 ---
 
@@ -17,8 +13,7 @@ Article 337
 The President, at a meeting of the Cabinet of Ministers, can decree states of exception. These are social, economic, political, natural or ecological circumstances which seriously affect the nation's security, institutions and citizens, in the face of which the powers available to cope
 with such events are insufficient. 
 
-In such case, the guarantees contained in this Constitution may be temporarily restricted, with the exception of those relating to the right to life, prohibition of incommunicative detention or torture, the right to due
-process, the right to information and other intangible human rights.
+In such case, the guarantees contained in this Constitution may be temporarily restricted, with the exception of those relating to the right to life, prohibition of incommunicative detention or torture, the right to due process, the right to information and other intangible human rights.
 
 
 Article 338
@@ -44,16 +39,11 @@ International human rights treaties
 
 Article 339
 
-The Decree declaring a state of exception, which shall provide for regulating the right
-whose guarantee is restricted, shall be submitted within eight days of promulgation for
-consideration and approval by the National Assembly, or Delegated Committee and for
-a ruling by the Constitutional Division of the Supreme Tribunal or Justice on its
-constitutionality. The Decree must be in compliance with the requirements, principles
-and guarantees established in the International Pact on Civil and Political flights and the
-American Convention on Human Rights. The President of the Republic shall have the power to request its extension for a similar period, and the Decree shall be revoked by the National Executive or by the National Assembly or the latter’s Delegated
-Committee prior to the indicated date of expiration upon cessation of the conditions
-which produced them.
+The Decree declaring a state of exception, which shall provide for regulating the right whose guarantee is restricted, shall be submitted within eight days of promulgation for consideration and approval by the National Assembly, or Delegated Committee and for a ruling by the Constitutional Division of the Supreme Tribunal or Justice on its constitutionality. 
 
-The declaration of a state of exception does not interrupt the functioning of the organs
-of the Public Power.
+The Decree must be in compliance with the requirements, principles and guarantees established in the International Pact on Civil and Political flights and the American Convention on Human Rights. 
+
+The President of the Republic shall have the power to request its extension for a similar period, and the Decree shall be revoked by the National Executive or by the National Assembly or the latter’s Delegated Committee prior to the indicated date of expiration upon cessation of the conditions which produced them.
+
+The declaration of a state of exception does not interrupt the functioning of the organs of the Public Power.
 

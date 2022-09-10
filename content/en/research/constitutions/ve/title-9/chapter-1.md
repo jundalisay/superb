@@ -1,13 +1,9 @@
 ---
 title: "Amendments"
-heading: "Chapter 1 of the Venezuelan Constitution Simplified"
+heading: "Chapter 1"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "Amendments add to or modify one or more articles of the Constitution, without altering its fundamental structure"
-linkb: /research/constitutions/ve
-linkbtext: "Index"
-linkf: /research/constitutions/ve/title-2/chapter-1
-linkftext: "Title 2"
 icon: /flags/ve.png
 ---
 
@@ -68,26 +64,19 @@ this Constitution shall apply.
 
 Article 347
 
-The original constituent power rests with the people of Venezuela. This power may be
-exercised by calling a National Constituent Assembly for the purpose of transforming
-the State, creating a new juridical order and drawing up a new Constitution.
+The original constituent power rests with the people of Venezuela. This power may be exercised by calling a National Constituent Assembly for the purpose of transforming the State, creating a new juridical order and drawing up a new Constitution.
+
 Article 348
-The initiative for calling a National Constituent Assembly may emanate from the
-President of the Republic sitting with the Cabinet of Ministers; from the National
-Assembly, by a two thirds vote of its members; from the Municipal Councils in open
-session, by a two-thirds vote of their members; and from 15% of the voters registered
-with the Civil and Electoral Registry.
+
+The initiative for calling a National Constituent Assembly may emanate from the President of the Republic sitting with the Cabinet of Ministers; from the National Assembly, by a 2/3 vote of its members; from the Municipal Councils in open session, by a two-thirds vote of their members; and from 15% of the voters registered with the Civil and Electoral Registry.
 
 Article 349
 
-The President shall not have the power to object to the new Constitution. The existing constituted authorities shall not be permitted to obstruct the Constituent Assembly in any way. For purposes of the promulgation of the new Constitution, the same shall be published in the Official Gazette of the Republic of
-Venezuela or in the Gazette of the Constituent Assembly.
+The President shall not have the power to object to the new Constitution. The existing constituted authorities shall not be permitted to obstruct the Constituent Assembly in any way. For purposes of the promulgation of the new Constitution, the same shall be published in the Official Gazette of the Republic of Venezuela or in the Gazette of the Constituent Assembly.
 
 <!-- Right to overthrow government -->
 
 Article 350
 
-The people of Venezuela, true to their republican tradition and their struggle for
-independence, peace and freedom, shall disown any regime, legislation or authority that
-violates democratic values, principles and guarantees or encroaches upon human rights.
+The people of Venezuela, true to their republican tradition and their struggle for independence, peace and freedom, shall disown any regime, legislation or authority that violates democratic values, principles and guarantees or encroaches upon human rights.
 

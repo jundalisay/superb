@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 5 of The Analects Simplified"
+heading: "Chapter 5"
 title: "The Disciples of Confucius"
 description: "Confucius pronounced Kung-ye Ch'ang, a disciple, to be a marriageable person; for although lying bound in criminal fetters he had committed no crime"
 date: 2020-01-27
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-4"
-linkbtext: "Chapter 4"
-linkf: "/research/confucius/analects/chapter-6"
-linkftext: "Chapter 6"
 ---
 
 

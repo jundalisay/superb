@@ -1,17 +1,15 @@
-+++
-title= "Socrates, Zeno, and Parmenides"
-heading= "Chapter 1"
-date= 2021-12-31
-image= "/covers/parmenides.jpg"
-description= "Socrates, Zeno, and Parmenides talk about the philosophy"
-linkb= "/research/socrates/parmenides/"
-linkbtext= "Index"
-linkf= "/research/socrates/parmenides/chapter-2"
-linkftext= "Chapter 2"
-icon = "/icons/soc.png"
-+++
+---
+title: "Socrates, Zeno, and Parmenides"
+heading: "Chapter 1"
+date: 2015-09-30
+image: "/covers/parmenides.jpg"
+description: "Socrates, Zeno, and Parmenides talk about the philosophy"
+icon: "/icons/soc.png"
+---
 
-PERSONS OF THE DIALOGUE= Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zeno, Parmenides, Aristoteles.
+
+
+PERSONS OF THE DIALOGUE: Cephalus, Adeimantus, Glaucon, Antiphon, Pythodorus, Socrates, Zeno, Parmenides, Aristoteles.
 
 Cephalus rehearses a dialogue which is supposed to have been narrated in his presence by Antiphon, the half-brother of Adeimantus and Glaucon, to certain Clazomenians.
 

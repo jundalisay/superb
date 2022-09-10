@@ -1,14 +1,10 @@
-+++
-title=  "Descartes' System of Astronomy"
-heading=  "Adam Smith's History of Astronomy"
-date=  2015-09-09
-image=  "/covers/astronomy.jpg"
-description=  "Adam Smith's History of Astronomy"
-linkb=  "/research/smith/astronomy/kepler"
-linkbtext=  "Johaness Kepler"
-linkf=  "/research/smith/astronomy/newton"
-linkftext=  "Newton"
-+++
+---
+title: "Descartes' System of Astronomy"
+description: "Descartes was the first who tried to ascertain precisely this invisible chain that Kepler said to link the planets to the sun."
+image: /covers/astronomy.jpg
+date: 2022-09-24
+---
+
 
 Descartes was the first who tried to ascertain precisely this invisible chain that Kepler said to link the planets to the sun. 
 

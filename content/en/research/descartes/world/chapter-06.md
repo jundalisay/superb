@@ -1,15 +1,13 @@
-+++
-title= "The Aethereal Universe"
-description= "The Aethereal Universe is made up the aether divided into infinite parts with all sorts of motion imaginable"
-author= "Rene Descartes"
-image= "/covers/world.jpg"
-linkb= "/research/descartes/world/chapter-05"
-linkbtext= "Chapter 5"
-linkf= "/research/descartes/world/chapter-07"
-linkftext= "Chapter 7"	
-heading= "Chapter 6"
-icon= "/icons/spmat.png"
-+++
+---
+title: "The Aethereal Universe"
+heading: "Chapter 6"
+date: 2020-09-18
+author: "Rene Descartes"
+image: "/covers/world.jpg"
+description: "The Aethereal Universe is made up the aether divided into infinite parts with all sorts of motion imaginable"
+icon: "/icons/descartes.png"
+---
+
 
 
 Let's think about a universe, beyond this one, confined in imaginary spaces which are infinite. <!-- The philosophers tell us that these spaces are infinite, and they should very well be believed, since it is they themselves who have made the spaces so.[25]  --> Let us go back in time after all the matter has been created. At this point, the aethereal has filled all. We limit our space to the distance from the earth to the distant stars. This space has nothing other than the aether. 

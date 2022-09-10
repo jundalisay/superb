@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 5 of The Analects Simplified"
+heading: "Chapter 5"
 title: "Wisdom and Philanthropy"
 description: "To be serious in regard to spiritual beings, and to hold aloof from them, this may be called wisdom"
 date: 2020-01-26
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-5"
-linkbtext: "Chapter 5"
-linkf: "/research/confucius/analects/chapter-7"
-linkftext: "Chapter 7"
 ---
 
 

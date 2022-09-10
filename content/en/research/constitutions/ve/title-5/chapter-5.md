@@ -1,13 +1,9 @@
 ---
 title: "Electoral Power"
-heading: "Chapter 5 of the Venezuelan Constitution Simplified"
+heading: "Chapter 5"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "Electoral Power is exercised by the National Electoral Council as governing body, and by the latter’s subordinate organs"
-linkb: /research/constitutions/ve/title-5/chapter-4
-linkbtext: "Chapter 4"
-linkf: /research/constitutions/ve/title-6/chapter-1
-linkftext: "Chapter 1"
 icon: /flags/ve.png
 ---
 
@@ -21,32 +17,22 @@ law.
 Article 293
 
 The following are functions of Electoral Power:
-1. To regulate election laws and resolve any doubts and unregulated areas raised
-by or contained in such laws.
-2. To prepare its budget, concerning which it shall handle directly with the National
-Assembly, and which it shall manage autonomously.
-3. To issue binding directives in the field of political and electoral advertising and
-financing, and impose penalties when such directives are not abided by.
+1. To regulate election laws and resolve any doubts and unregulated areas raised by or contained in such laws.
+2. To prepare its budget, concerning which it shall handle directly with the National Assembly, and which it shall manage autonomously.
+3. To issue binding directives in the field of political and electoral advertising and financing, and impose penalties when such directives are not abided by.
 4. To declare elections null and void, either in whole or in part.
-5. Organization, administration, direction and vigilance of all acts relating to
-elections to fill public offices by popular vote, as well as referenda.
+5. Organization, administration, direction and vigilance of all acts relating to elections to fill public offices by popular vote, as well as referenda.
 6. To organize elections for labor unions, professional associations and organizations pursuing political purposes, in accordance with applicable provisions of law. Electoral Power shall also have the power to organize electoral processes for other organizations in civil society, either at their request or by order of the Electoral Division of the Supreme Tribunal of Justice. The entities, organs and organizations concerned shall cover the costs of their election processes.
 7. To maintain, organize, direct and supervise the Civil and Electoral Registry.
-8. To organize the registration and enrollment of organizations pursuing a political
-purposes, and see that such organizations comply with the provisions governing
-their status, as set forth in the Constitution and law. In particular, Electoral
-Power shall decide on applications for the founding, renewal and cancellation of
-organizations for political purposes, the determination of their lawful authorities
-and provisional names, colors and symbols.
-9. To control, regulate and investigate the funds raised to finance organizations for
-political purposes.
+8. To organize the registration and enrollment of organizations pursuing a political purposes, and see that such organizations comply with the provisions governing their status, as set forth in the Constitution and law. In particular, Electoral Power shall decide on applications for the founding, renewal and cancellation of organizations for political purposes, the determination of their lawful authorities and provisional names, colors and symbols.
+9. To control, regulate and investigate the funds raised to finance organizations for political purposes.
 10. Such other functions as may be determined by law.
+
 Electoral Power organs shall guarantee the equality, reliability, impartiality, transparency and efficiency of electoral processes, as well as implementation of the personalization of suffrage and proportional representation.
 
 Article 294
 
-The organs comprising Electoral Power are governed by principles of organic independence, functional and budgetary autonomy, separation of the electoral organs from the political parties, impartiality and citizen participation, as well as decentralization of electoral administration, transparency and expeditiousness of the
-voting process and tallying of votes.
+The organs comprising Electoral Power are governed by principles of organic independence, functional and budgetary autonomy, separation of the electoral organs from the political parties, impartiality and citizen participation, as well as decentralization of electoral administration, transparency and expeditiousness of the voting process and tallying of votes.
 
 Article 295
 

@@ -4,10 +4,6 @@ title: "Philanthropy and Friendships"
 description: "Philanthropy and Friendships"
 date: 2020-01-19
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-11"
-linkbtext: "Chapter 11"
-linkf: "/research/confucius/analects/chapter-13"
-linkftext: "Chapter 13"
 ---
 
 

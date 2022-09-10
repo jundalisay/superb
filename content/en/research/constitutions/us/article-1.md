@@ -1,13 +1,9 @@
 ---
 title: "Article 1 Sections 1-6"
-heading: "US Constitution"
-date: 2021-11-20
+# heading: "US Constitution"
+date: 2021-11-30
 image: "/flags/us.png"
 description: "All legislative Powers are with the US Congress, consisting of a Senate a House of Representatives"
-linkb: /research/constitutions/us
-linkbtext: "US constitution"
-linkf: /research/constitutions/us/article-1b
-linkftext: "article-1b"
 icon: /flags/us.png
 ---
 

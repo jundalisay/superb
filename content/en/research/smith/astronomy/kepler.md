@@ -1,20 +1,12 @@
+---
+title: "Kepler's System of Astronomy"
+description: "Kepler, in Germany, had great genius but none of the taste or order and method of Galileo. Like other Germans, he had the most laborious industry together with an excessive passion for discovering proportions and resemblances between the different parts of nature"
+image: /covers/astronomy.jpg
+date: 2022-09-26
+---
 
 
-
-
-+++
-title=  "Kepler's System of Astronomy"
-heading=  "Adam Smith's History of Astronomy"
-date=  2015-09-09
-image=  "/covers/astronomy.jpg"
-description=  "Adam Smith's History of Astronomy"
-linkb=  "/research/smith/astronomy/brahe"
-linkbtext=  "Brahe"
-linkf=  "/research/smith/astronomy/newton"
-linkftext=  "Newton"
-+++
-
-While, in Italy, the unfortunate Galileo was adding so many probabilities to the system of Copernicus, there was another philosopher employing himself in Germany, to ascertain, correct, and improve it=  
+While, in Italy, the unfortunate Galileo was adding so many probabilities to the system of Copernicus, there was another philosopher employing himself in Germany, to ascertain, correct, and improve it.
 
 
 Kepler, in Germany, had great genius but none of the taste or order and method of Galileo. Like other Germans, he had the most

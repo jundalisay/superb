@@ -1,13 +1,9 @@
 ---
 title: "Organization of the National Assembly"
-heading: "Chapter 1b of the Venezuelan Constitution Simplified"
-date: 2021-11-20
+heading: "Chapter 1b"
+date: 2021-11-28
 image: "/flags/ve.png"
 description: "The Standing Committees, which shall be no more than 15 in number, shall relate to sectors of national activity"
-linkb: /research/constitutions/ve/title-5/chapter-1
-linkbtext: "Chapter 1"
-linkf: /research/constitutions/ve/title-6/chapter-2
-linkftext: "Chapter 2"
 icon: /flags/ve.png
 ---
 

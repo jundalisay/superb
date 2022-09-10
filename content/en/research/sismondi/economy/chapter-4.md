@@ -1,13 +1,12 @@
-+++
-title= "Commercial Wealth"
-date= 2022-03-27
-image= "/covers/sismondi.jpg"
-description= ""
-linkb= "/research/sismondi/economy/chapter-3"
-linkbtext= "Index"
-linkf= "/research/sismondi/economy/chapter-5"
-linkftext= "Index"
-+++
+---
+heading: "Chapter 4"
+title: "Commercial Wealth"
+date: 2022-03-18
+image: /covers/sismondi.jpg
+description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
+author: Sismondi
+---
+
 
 
 By labour man drew his first wealth from the earth, but scarcely had he satisfied his primitive wants, when desire made him conceive other enjoyments, not to be obtained without the aid of his fellows. Exchanges began. They extended to whatever had any value, to whatever could produce any. 

@@ -1,15 +1,12 @@
-+++
-title= "Cartesian Relativity"
-image= "/covers/world.jpg"
-author= "Rene Descartes"
-description= "Bodies that revolve always tend to move away from the centers of the circles they describe"
-linkb= "/research/descartes/world/chapter-13"
-linkbtext= "Chapter 13"
-linkf= "/research/descartes/world/chapter-15"
-linkftext= "Chapter 15"
-heading= "Chapter 13"
-icon= "/icons/descartes.png"
-+++
+---
+heading: "Chapter 13"
+title: "Cartesian Relativity"
+date: 2020-09-04
+image: "/covers/world.jpg"
+description: "Bodies that revolve always tend to move away from the centers of the circles they describe"
+icon: "/icons/descartes.jpg"
+---
+
 
 
 Bodies that revolve always tend to move away from the centers they revolve from. <!--  of the circles they describe.  --> But what direction do the stars and heavens tend towards?

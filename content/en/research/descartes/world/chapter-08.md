@@ -1,16 +1,14 @@
-+++
-title= "The Creation of the Universe"
-# title= "The Formation of the Sun and the Stars of the New World"
-description= "God put inequality and confusion among the parts of matter at the beginning"
-image= "/covers/world.jpg"
-author= "Rene Descartes"
-linkb= "/research/descartes/world/chapter-07"
-linkbtext= "Chapter 8"
-linkf= "/research/descartes/world/chapter-09"
-linkftext= "Chapter 10"	
-heading= "Chapter 8 of the World, Simplified"
-icon= "/icons/spmat.png"
-+++
+---
+heading: "Chapter 8"
+title: "The Creation of the Universe"
+date: 2020-09-14
+image: "/covers/world.jpg"
+description: "God put inequality and confusion among the parts of matter at the beginning"
+icon: "/icons/descartes.jpg"
+---
+
+
+<!-- # title= "The Formation of the Sun and the Stars of the New World" -->
 
 
 God put inequality and confusion among the parts of matter at the beginning. 

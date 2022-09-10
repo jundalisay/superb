@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 1c of Economy by Sismondi Simplified"
+heading: "Chapter 1c"
 title: "The Mercantile System"
-date: 2022-03-27
+date: 2022-03-26
 image: /covers/sismondi.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-linkb: /research/sismondi/economy
-linkbtext: Index
-linkf: /research/sismondi/economy/chapter-1b
-linkftext: "Chapter 1b"
 author: Sismondi
 ---
 

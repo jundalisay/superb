@@ -1,17 +1,13 @@
 ---
 title: "Article 1 Sections 7-10"
 heading: "US Constitution"
-date: 2021-11-20
+date: 2021-11-28
 image: "/flags/us.png"
 description: ""
-linkb: /research/constitutions/us
-linkbtext: "US constitution"
-linkf: /research/constitutions/us/article-1b
-linkftext: "article-1b"
 icon: /flags/us.png
 ---
 
-Section. 7
+## Section. 7
 
 All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills. Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the US.
 
@@ -21,7 +17,8 @@ If after such Reconsideration two thirds of that House shall agree to pass the B
 
 Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
 
-Section. 8
+
+## Section. 8
 
 The Congress can:
 - collect Taxes, Duties, Imposts and Excises
@@ -48,13 +45,15 @@ The Congress can:
 - to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings
 - make all Laws for Executing the Powers vested by this Constitution in the US Government
 
-Section. 9.
+
+## Section. 9.
 
 The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to 1808. A Tax or duty may be imposed on such Importation, not exceeding ten dollars for each Person.
 
 The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it. No Bill of Attainder or ex post facto Law shall be passed. No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or enumeration herein before directed to be taken. No Tax or Duty shall be laid on Articles exported from any State. No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another. No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time. No Title of Nobility shall be granted by the United States: And no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State. 
 
-Section. 10. 
+
+## Section. 10. 
 
 No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility. 
 

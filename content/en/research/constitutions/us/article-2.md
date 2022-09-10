@@ -1,15 +1,12 @@
 ---
-title: "Articles 2"
-heading: "US Constitution Simplified"
-date: 2021-11-20
+title: "Article 2"
+# heading: "US Constitution Simplified"
+date: 2021-11-26
 image: "/flags/us.png"
 description: ""
-linkb: /research/constitutions/us/article-1b
-linkbtext: "Article 1"
-linkf: /research/constitutions/us/article-3
-linkftext: "article-3"
 icon: /flags/us.png
 ---
+
 
 
 ## Article 2

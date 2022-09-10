@@ -1,13 +1,9 @@
 ---
 title: "Civil Rights"
-heading: "Chapter 3 of the Venezuelan Constitution Simplified"
+heading: "Chapter 3"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "The Bolivarian Republic of Venezuela is irrevocably free and independent, basing its moral property and values of freedom, equality, justice and international peace on the doctrine of Simon Bolivar, the Liberator"
-linkb: /research/constitutions
-linkbtext: "constitutions"
-linkf: /research/constitutions
-linkftext: "constitutions"
 icon: /flags/ve.png
 ---
 

@@ -319,17 +319,18 @@
 
 [[navbar]]
     parent = "non1"
+    weight = 626
+    name = "Piketty"
+    url = "/research/piketty/capital/conclusion/"
+    # pre = "<img src='/icons/ric.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+
+[[navbar]]
+    parent = "non1"
     weight = 618
     name = "Newton"
     url = "/research/newton"
     pre = "<img src='/icons/newton.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px >"
-
-# [[navbar]]
-#     parent = "non1"
-#     weight = 625
-#     name = "Ricardo"
-#     url = "/research/ricardo"
-#     pre = "<img src='/icons/ric.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
 [[navbar]]
     parent = "non1"

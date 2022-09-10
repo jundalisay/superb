@@ -1,18 +1,15 @@
 ---
 title: "Fundamental Provisions"
-heading: "Chapter 1 of the Venezuelan Constitution Simplified"
-date: 2021-11-20
+heading: "Chapter 1"
+date: 2021-11-30
 image: "/flags/ve.png"
 description: "Public Power is distributed among Municipal Power, that of the States Power and National Power"
-linkb: /research/constitutions/ve/title-3/chapter-2d
-linkbtext: "Chapter 2d"
-linkf: /research/constitutions/ve/title-4/chapter-1b
-linkftext: "Chapter 1b"
 icon: /flags/ve.png
 ---
 
 
-Section One. General Provisions
+## Section 1. General Provisions
+
 
 Article 136
 

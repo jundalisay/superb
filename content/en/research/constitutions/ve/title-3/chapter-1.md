@@ -1,13 +1,9 @@
 ---
 title: "General Provisions"
-heading: "Chapter 1 of the Venezuelan Constitution Simplified"
-date: 2021-11-20
+heading: "Chapter 1"
+date: 2021-11-30
 image: "/flags/ve.png"
 description: "The Bolivarian Republic of Venezuela is irrevocably free and independent, basing its moral property and values of freedom, equality, justice and international peace on the doctrine of Simon Bolivar, the Liberator"
-linkb: /research/constitutions
-linkbtext: "constitutions"
-linkf: /research/constitutions
-linkftext: "constitutions"
 icon: /flags/ve.png
 ---
 

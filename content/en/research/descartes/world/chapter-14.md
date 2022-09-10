@@ -1,15 +1,11 @@
-+++
-title= "The Properties of Light"
-image= "/covers/world.jpg"
-author= "Rene Descartes"
-description= "Light moves in all directions around luminous bodies is due to the circular motion of their parts"
-linkb= "/research/descartes/world/chapter-13"
-linkbtext= "Chapter 13"
-linkf= "/research/descartes/world/chapter-15"
-linkftext= "Chapter 15"
-heading= "Chapter 14"
-icon= "/icons/ss.png"
-+++
+---
+heading: "Chapter 14"
+title: "The Properties of Light"
+date: 2020-09-02
+image: "/covers/world.jpg"
+description: "Light moves in all directions around luminous bodies is due to the circular motion of their parts"
+icon: "/icons/descartes.jpg"
+---
 
 
 <!-- But I want to stop a while at this point to set out the properties of the action by which their eyes can be thus pushed. For they all agree so perfectly with those that we note in light that, when you have considered them, I am sure you will admit, like me, that there is no need to imagine in the stars or in the heavens any other quality but this action that is called by the name of "light." -->

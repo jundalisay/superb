@@ -1,6 +1,6 @@
 ---
 title: "Timaeus' Lecture"
-date: 2022-01-29
+date: 2022-01-26
 image: "/covers/timaeus.jpg"
 description: "Timaeus is the most of an astronomer amongst us. He has made the nature of the universe his special study"
 ---

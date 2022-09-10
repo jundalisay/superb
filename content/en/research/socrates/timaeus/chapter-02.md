@@ -1,6 +1,6 @@
 ---
 title: "Ancient Egypt and Atlantis"
-date: 2022-01-30
+date: 2022-01-28
 image: "/covers/timaeus.jpg"
 description: "Critias tells the story of ancient Egypt and Atlantis"
 ---

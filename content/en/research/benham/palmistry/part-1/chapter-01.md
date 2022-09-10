@@ -66,7 +66,7 @@ Having seven types was <!-- The reason for the adoption of this plan was that a 
 Each type was thus created for a specific sphere in life. It represents some element indispensable to the harmonious operation of the world as a whole*.
 
 
-> *Superphysics note=  This is consistent with the division of labour idea of Adam Smith and is the heart of the Second law of value of Pantrynomics
+> *Superphysics note: This is consistent with the division of labour idea of Adam Smith and is the heart of the Second law of value of Pantrynomics
 
 
 <!-- The fact that there are well-defined specimens of all these types on the streets of our cities to-day, that they can be easily recognized, and that  -->
@@ -122,7 +122,9 @@ If he strongly wishes to change his course in life, is fully conscious of what h
 
 A knowledge of his shortcomings, coupled with desire and determination, will enable him largely to overcome them. Since they all emanate from the brain, these faults, these desires, these changes, will all be written on the hands.
 
-People do not change their typical qualities until they have a strong desire to change, and are armed with a firm resolution to do it. Thus it will seem that there is no greater truth than that we are indeed free agents, planned for a prearranged destiny, but always able to change it if we determinedly desire to do so. There is, then, no such thing as absolute fatalism, even though we have so strong an indication in that direction from the seven types. The statement, "The Lord helps him who helps himself' applies.
+People do not change their typical qualities until they have a strong desire to change, and are armed with a firm resolution to do it. Thus it will seem that there is no greater truth than that we are indeed free agents, planned for a prearranged destiny, but always able to change it if we determinedly desire to do so. 
+
+There is, then, no such thing as absolute fatalism, even though we have so strong an indication in that direction from the seven types. The statement, "The Lord helps him who helps himself' applies.
 
 Thus, instead of rebelling at what might seem a cruel predestination on the part of our Creator in adopting the plan of the seven types, we can see that there is nothing unkind in the operation of this plan. You see the Esquimaux living always in the same way. One generation succeeds the other, lives the same way, eats the same food, reaches the same age, and dies. There is nothing cruel in that; you have never thought that fate was unkind to the Esquimaux. 
 

@@ -1,13 +1,12 @@
-+++
-title= "Food Production"
-date= 2022-03-27
-image= "/covers/sismondi.jpg"
-description= "Abstractly, the multiplication of food follows a geometrical progression like the multiplication of men"
-linkb= "/research/sismondi/economy/chapter-7"
-linkbtext= "Chapter 7"
-linkf= "/research/sismondi/economy/chapter-7b"
-linkftext= "Chapter 7b"
-+++
+---
+heading: "Chapter 7b"
+title: "Food Production"
+date: 2022-03-14
+image: "/covers/sismondi.jpg"
+description: "Abstractly, the multiplication of food follows a geometrical progression like the multiplication of men"
+---
+
+
 
 Abstractly, the multiplication of food follows a geometrical progression like the multiplication of men. It follows it only much faster. In a given space and time, this progression is not followed any more by the one species than the other. 
 

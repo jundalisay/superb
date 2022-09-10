@@ -1,13 +1,10 @@
-+++
-title= "Taxation"
-date= 2022-03-27
-image= "/covers/sismondi.jpg"
-description= "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
-linkb= "/research/sismondi/economy/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/sismondi/economy/chapter-2"
-linkftext= "Chapter 2"
-+++
+---
+heading: "Chapter 6"
+title: "Taxation"
+date: 2022-03-16
+image: "/covers/sismondi.jpg"
+description: "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
+---
 
 
 <!-- The primary object of political economy is the development of national wealth; but  -->
@@ -40,7 +37,11 @@ It is just that all support this, in proportion to the advantages secured them b
 
 It is hence just that the rich man contribute not only in proportion to his fortune, but even beyond it, to support a system which is so advantageous to him; in the same way as it is equitable to take from his superfluity rather than from the other's necessaries. Most public labours, most charges for defence and for the administration of justice, have territorial rather than movable property in view; it is hence farther just, that the landed proprietor be taxed in proportion higher than others.
 
-After the sources of income have become various, it cannot be supposed that a single tax will reach them all, unless it assume as a basis this income itself, the valuation of which, in any form, would give room to the most arbitrary and vexatious inquisitions. The tax, though single, would in that case lose all the advantages of simplicity. It was better then, for contributors, as well as government, to multiply taxes, that each by itself might be lighter, and the whole might better reach every class of persons. Governments have therefore multiplied partial taxes. They have taken wherever they have found any thing to take; and though flattering themselves with having thus reached all their subjects, it would be impossible for them to appreciate how much is asked of each class, and consequently to maintain the proportional equality which justice would have required. On the other hand, contributors like better to submit to this heavy inconvenience, than to the obligations of exhibiting an account of their incomes, which, often they do not know themselves, and to a division on arbitrary grounds, which most frequently would be intolerable.
+After the sources of income have become various, it cannot be supposed that a single tax will reach them all, unless it assume as a basis this income itself, the valuation of which, in any form, would give room to the most arbitrary and vexatious inquisitions. The tax, though single, would in that case lose all the advantages of simplicity. 
+
+It was better then, for contributors, as well as government, to multiply taxes, that each by itself might be lighter, and the whole might better reach every class of persons. Governments have therefore multiplied partial taxes. 
+
+They have taken wherever they have found any thing to take; and though flattering themselves with having thus reached all their subjects, it would be impossible for them to appreciate how much is asked of each class, and consequently to maintain the proportional equality which justice would have required. On the other hand, contributors like better to submit to this heavy inconvenience, than to the obligations of exhibiting an account of their incomes, which, often they do not know themselves, and to a division on arbitrary grounds, which most frequently would be intolerable.
 
 In establishing those different taxes, four rules appear of essential importance for rendering each tax as little burdensome as possible. Each citizen must contribute, if he can do so, according to the proportion of his fortune; the collection must not be expensive, that so the tax may cost as little to the people as possible beyond what it brings into the treasury; the term of payment must be suitable to the contributor, who might frequently be. ruined by an unreasonable demand of what he could pay, without constraint, if his convenience were consulted; and, finally, the citizen's liberty must be respected, that so he may not be exposed otherwise, than with extreme cautions to the inspection of revenue-officers, to the dependent, and all the vexatious measures too often connected with the levying of taxes.
 
@@ -54,7 +55,9 @@ But the advantages of tithes, in any shape, are more than compensated by their r
 
 Again, the more productive a mode of cultivation is, the more advances does it need to have committed to the ground. Tithes, which are but the seventh or eighth part of the revenue in a pasturage, become the fifth in a field of corn, the third in a vineyard, the half in a hop-yard or in a field of hemp, and the whole in a garden. Thus whilst the national interest incessantly requires the raw produce to be incessantly increased by committing larger advances to the ground-tithes instruct the cultivator incessantly to diminish his advances, and follow that species of culture which gives back least to the nation, but which also least exposes him who undertakes it to be punished for his industry.
 
-The land tax has not the same inconveniences; it affects only the net revenue; it is enabled to reach it with equality enough, and above all, with a regularity which screens the contributor from every arbitrary proceeding, and which, therefore, is to him more precious than justice itself. On being established, it strips the proprietor of a considerable portion of his fortune, for he loses all at once a part of the very capital whose rent alone must pay the tax; but this loss, after having stuck him, is never repeated. From that time he no longer looks upon this capital as belonging to him; a new purchaser, on buying the land, does not pay him any price for this portion; the state has become thenceforth its true proprietor. On the other hand, this territorial impost often requires money from such as have none; it forces them to sell their commodities to obtain the quantity wanted, perhaps at the most unfavourable moment; and it thus contributes to cause a glut in the market at the moment of harvest, and a scarcity at the year's end. Besides, if too heavy, it discourages the proprietor from laying out new advances upon land which he looks upon as scarcely any longer his.
+The land tax has not the same inconveniences; it affects only the net revenue; it is enabled to reach it with equality enough, and above all, with a regularity which screens the contributor from every arbitrary proceeding, and which, therefore, is to him more precious than justice itself. On being established, it strips the proprietor of a considerable portion of his fortune, for he loses all at once a part of the very capital whose rent alone must pay the tax; but this loss, after having stuck him, is never repeated. From that time he no longer looks upon this capital as belonging to him; a new purchaser, on buying the land, does not pay him any price for this portion; the state has become thenceforth its true proprietor.
+
+On the other hand, this territorial impost often requires money from such as have none; it forces them to sell their commodities to obtain the quantity wanted, perhaps at the most unfavourable moment; and it thus contributes to cause a glut in the market at the moment of harvest, and a scarcity at the year's end. Besides, if too heavy, it discourages the proprietor from laying out new advances upon land which he looks upon as scarcely any longer his.
 
 If the capitalist could as easily be come at as the proprietor of land, it would be quite as just to tax him directly for the support of a government which guards his property. The interest of money would be a taxable material, fully as suitable as the rent of land. But the capitalist' s wealth cannot be known without a vexatious inquest, which, in trading counties, would be destructive to credit. Capitals, moreover, are not attached to the soil, and if loaded with imposts, the capitalist would be induced to transmit them into other counties, often without emigrating himself. He would thus deprive his country of all the labour which those capitals would support; he would diminish the national revenues in a proportion immensely superior to the advantages which the treasury could expect from the new tax.
 

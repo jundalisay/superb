@@ -1,13 +1,9 @@
 ---
-heading: "Chapter 8 of The Analects Simplified"
+heading: "Chapter 8"
 title: "Sayings of Tsang"
 description: "The Scholar Tsang was once unwell. He called his pupils to him he said to them, 'Disclose to view my feet and my hands"
 date: 2020-01-24
 image: "/covers/analects.png"
-linkb: "/research/confucius/analects/chapter-7"
-linkbtext: "Chapter 7"
-linkf: "/research/confucius/analects/chapter-9"
-linkftext: "Chapter 9"
 ---
 
 

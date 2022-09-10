@@ -1,46 +1,34 @@
 ---
 title: "Constitutional Guarantees"
-heading: "Chapter 1 of the Venezuelan Constitution Simplified"
+heading: "Chapter 1"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "These are social, economic, political, natural or ecological circumstances which seriously affect the nation's security, institutions and citizens"
-linkb: /research/constitutions/ve/title-8/chapter-1
-linkbtext: "Chapter 1"
-linkf: /research/constitutions/ve/title-9/chapter-1
-linkftext: "Title 9"
 icon: /flags/ve.png
 ---
 
 
 Article 333
 
-This Constitution shall not cease to be in effect if it ceases to be observed due to acts of
-force or because or repeal in any manner other than as provided for herein.
+This Constitution shall not cease to be in effect if it ceases to be observed due to acts of force or because or repeal in any manner other than as provided for herein.
 
 In such eventuality, every citizen should <!-- , whether or not vested with official authority, has a
 duty to assist in --> bring it back into actual effect.
 
 Article 334
 
-All of the judges of the Republic, within their respective spheres of competence and in
-accordance with the provisions of this Constitution and law, are obligated to ensure the
-integrity of the Constitution.
+All of the judges of the Republic, within their respective spheres of competence and in accordance with the provisions of this Constitution and law, are obligated to ensure the integrity of the Constitution.
 
-In the event of incompatibility between the Constitution and a law or other juridical
-provision, the provisions of the Constitution shall prevail, being the responsibility of the
-courts to rule accordingly in any case, even ex officio.
+In the event of incompatibility between the Constitution and a law or other juridical provision, the provisions of the Constitution shall prevail, being the responsibility of the courts to rule accordingly in any case, even ex officio.
 
 The Constitutional Division of the Supreme Tribunal of Justice, as court of constitutional competence, shall have the exclusive power to declare the nullity of laws and other acts of organs exercising Public Power which are issued by way of direct and immediate implementation of the Constitution or have the status of law.
 
 
 Article 335
 
-The Supreme Tribunal of Justice shall guarantee the supremacy and efficacy of
-constitutional rules and principles; it shall be the supreme and ultimate interpreter of the
-Constitution and shall see to the uniform interpretation and application of the same.
-Interpretations established by the Constitutional Division concerning the contents or
-scope of constitutional rules and principles are binding on the other division of the
-Supreme Tribunal of Justice and on all of the other courts of the Republic.
+The Supreme Tribunal of Justice shall guarantee the supremacy and efficacy of constitutional rules and principles; it shall be the supreme and ultimate interpreter of the Constitution and shall see to the uniform interpretation and application of the same.
+
+Interpretations established by the Constitutional Division concerning the contents or scope of constitutional rules and principles are binding on the other division of the Supreme Tribunal of Justice and on all of the other courts of the Republic.
 
 
 Article 336

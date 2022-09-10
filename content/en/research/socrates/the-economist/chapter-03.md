@@ -4,10 +4,6 @@ heading: "Chapter 3 of The Economist Simplified"
 date: 2015-09-28
 image: "/covers/economist.jpg"
 description: "Some men make their wives as true helpers to jointly increase of their estate, while others treat them in a way to bring upon themselves wholesale disaster"
-linkb: /research/socrates/the-economist/chapter-02
-linkbtext: "Chapter 2"
-linkf: /research/socrates/the-economist/chapter-04
-linkftext: "Chapter 4"
 icon: "/icons/soc.png"
 ---
 

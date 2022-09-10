@@ -1,6 +1,6 @@
 ---
 title: "Supreme Tribunal of Justice"
-heading: "Section 2 of Chapter 3 of the Venezuelan Constitution Simplified"
+heading: "Section 2 of Chapter 3"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "Electoral Power is exercised by the National Electoral Council as governing body, and by the latter’s subordinate organs"

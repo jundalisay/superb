@@ -1,16 +1,12 @@
-+++
-title= "The Sequence and Cycle of Creation"
-heading= "Chapter 7"
-date= 2021-12-25
-image= "/covers/parmenides.jpg"
-# date= 2015-09-01
-description= "The One is affected by time"
-linkb= "/research/socrates/parmenides/chapter-6"
-linkbtext= "Chapter 6"
-linkf= "/research/socrates/parmenides/chapter-8"
-linkftext= "Chapter 8"
-icon = "/icons/soc.png"
-+++
+---
+title: "The Sequence and Cycle of Creation"
+heading: "Chapter 7"
+date: 2015-09-18
+image: "/covers/parmenides.jpg"
+description: "The One is affected by time"
+icon: "/icons/soc.png"
+---
+
 
 
 Does the One as a Whole experience time?  Does it become older and younger than Itself and Others?<!-- , and again, neither younger nor older than itself and others, by virtue of participation in time? -->

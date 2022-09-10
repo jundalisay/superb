@@ -1,13 +1,9 @@
 ---
 title: "The Heart, Lungs, and Liver"
-heading: "Timaeus by Plato Simplified"
+heading: "Chapter 6"
 date: 2022-01-28
 image: "/covers/timaeus.jpg"
 description: "The heart is the knot of the veins and the fountain of the blood which races through all the limbs. This was the guard."
-linkb: "/research/socrates/timaeus/chapter-05c"
-linkbtext: "Chapter 5c"
-linkf: "/research/socrates/timaeus/chapter-05e"
-linkftext: "Chapter 5e"
 author: Timaeus
 icon: /icons/soc.png
 ---

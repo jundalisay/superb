@@ -1,55 +1,31 @@
 ---
-title: "Amendments"
-heading: "US Constitution"
-date: 2021-11-20
+title: "Amendments 13-21"
+# heading: "US Constitution"
+date: 2021-11-18
 image: "/flags/us.png"
 description: "The Judicial power shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the US by Citizens of another State, or by Citizens of any Foreign State"
-linkb: /research/constitutions/us
-linkbtext: "constitutions"
-linkf: /research/constitutions/us
-linkftext: "constitutions"
 icon: /flags/us.png
 ---
 
 
-AMENDMENT 11 - Passed March 4, 1794. Ratified February 7, 1795.
+## Amendment 13
 
-Note: Article 3, section 2, of the Constitution was modified by amendment 11.
-
-The Judicial power shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the US by Citizens of another State, or by Citizens of any Foreign State.
-
-
-AMENDMENT 12 - Passed December 9, 1803. Ratified June 15, 1804.
-
-Note: A portion of Article 2, section 1 of the Constitution was superseded by the 12th amendment.
-
-The Electors shall meet in their respective states and vote by ballot for President and Vice-President. 
-
-One of whom, at least, shall not be an inhabitant of the same state with themselves; they shall name in their ballots the person voted for as President, and in distinct ballots the person voted for as Vice-President, and they shall make distinct lists of all persons voted for as President, and of all persons voted for as Vice-President, and of the number of votes for each, which lists they shall sign and certify, and transmit sealed to the seat of the government of the United States, directed to the President of the Senate
-
-The President of the Senate shall, in the presence of the Senate and House of Representatives, open all the certificates and the votes shall then be counted; -- The person having the greatest number of votes for President, shall be the President, if such number be a majority of the whole number of Electors appointed; and if no person have such majority, then from the persons having the highest numbers not exceeding three on the list of those voted for as President, the House of Representatives shall choose immediately, by ballot, the President. 
-
-But in choosing the President, the votes shall be taken by states, the representation from each state having one vote; a quorum for this purpose shall consist of a member or members from two-thirds of the states, and a majority of all the states shall be necessary to a choice. [And if the House of Representatives shall not choose a President whenever the right of choice shall devolve upon them, before the fourth day of March next following, then the Vice-President shall act as President, as in case of the death or other constitutional disability of the President. --]* 
-
-The person having the greatest number of votes as Vice-President, shall be the Vice-President, if such number be a majority of the whole number of Electors appointed, and if no person have a majority, then from the two highest numbers on the list, the Senate shall choose the Vice-President; a quorum for the purpose shall consist of two-thirds of the whole number of Senators, and a majority of the whole number shall be necessary to a choice. But no person constitutionally ineligible to the office of President shall be eligible to that of Vice-President of the United States.
-
-*Superseded by section 3 of the 20th amendment.
-
-
-AMENDMENT 13 - Passed by Congress January 31, 1865. Ratified December 6, 1865.
+Passed by Congress January 31, 1865. Ratified December 6, 1865.
 
 Note: A portion of Article IV, section 2, of the Constitution was superseded by the 13th amendment.
 
-Section 1.
+### Section 1.
 
 Neither slavery nor involuntary servitude, except as a punishment for crime whereof the party shall have been duly convicted, shall exist within the United States, or any place subject to their jurisdiction.
 
-Section 2.
+### Section 2.
 
 Congress shall have power to enforce this article by appropriate legislation.
 
 
-AMENDMENT 14 - Passed by Congress June 13, 1866. Ratified July 9, 1868.
+## Amendment 14
+
+Passed by Congress June 13, 1866. Ratified July 9, 1868.
 
 Note: Article I, section 2, of the Constitution was modified by section 2 of the 14th amendment.
 
@@ -95,7 +71,7 @@ The Congress shall have the power to enforce, by appropriate legislation, the pr
 *Changed by section 1 of the 26th amendment.
 
 
-AMENDMENT 15 - Passed by Congress February 26, 1869. Ratified February 3, 1870.
+Amendment 15 - Passed by Congress February 26, 1869. Ratified February 3, 1870.
 
 Section 1.
 The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of race, color, or previous condition of servitude--
@@ -103,14 +79,14 @@ The right of citizens of the United States to vote shall not be denied or abridg
 Section 2.
 The Congress shall have the power to enforce this article by appropriate legislation.
 
-AMENDMENT 16 - Passed by Congress July 2, 1909. Ratified February 3, 1913.
+Amendment 16 - Passed by Congress July 2, 1909. Ratified February 3, 1913.
 
 Note: Article I, section 9, of the Constitution was modified by amendment 16.
 
 The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
 
 
-AMENDMENT 17 - Passed by Congress May 13, 1912. Ratified April 8, 1913.
+Amendment 17 - Passed by Congress May 13, 1912. Ratified April 8, 1913.
 
 Note: Article 1, section 3, of the Constitution was modified by the 17th amendment.
 
@@ -121,7 +97,7 @@ When vacancies happen in the representation of any State in the Senate, the exec
 This amendment shall not be so construed as to affect the election or term of any Senator chosen before it becomes valid as part of the Constitution.
 
 
-AMENDMENT 18 - Passed by Congress December 18, 1917. Ratified January 16, 1919. Repealed by amendment 21.
+Amendment 18 - Passed by Congress December 18, 1917. Ratified January 16, 1919. Repealed by amendment 21.
 
 Section 1.
 After one year from the ratification of this article the manufacture, sale, or transportation of intoxicating liquors within, the importation thereof into, or the exportation thereof from the United States and all territory subject to the jurisdiction thereof for beverage purposes is hereby prohibited.
@@ -133,14 +109,14 @@ Section 3.
 This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of the several States, as provided in the Constitution, within seven years from the date of the submission hereof to the States by the Congress.
 
 
-AMENDMENT 19 - Passed by Congress June 4, 1919. Ratified August 18, 1920.
+Amendment 19 - Passed by Congress June 4, 1919. Ratified August 18, 1920.
 
 The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex.
 
 Congress shall have power to enforce this article by appropriate legislation.
 
 
-AMENDMENT 20 - Passed by Congress March 2, 1932. Ratified January 23, 1933.
+Amendment 20 - Passed by Congress March 2, 1932. Ratified January 23, 1933.
 
 Note: Article I, section 4, of the Constitution was modified by section 2 of this amendment. In addition, a portion of the 12th amendment was superseded by section 3.
 
@@ -169,7 +145,7 @@ Section 6.
 This article shall be inoperative unless it shall have been ratified as an amendment to the Constitution by the legislatures of three-fourths of the several States within seven years from the date of its submission.
 
 
-AMENDMENT 21 - Passed by Congress February 20, 1933. Ratified December 5, 1933.
+## Amendment 21 - Passed by Congress February 20, 1933. Ratified December 5, 1933.
 
 Section 1.
 

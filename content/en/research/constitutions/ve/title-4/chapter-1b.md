@@ -1,16 +1,11 @@
 ---
 title: "Contracts in the Public Interest"
-heading: "Section 4 of the Venezuelan Constitution Simplified"
-date: 2021-11-20
+heading: "Section 4"
+date: 2021-11-28
 image: "/flags/ve.png"
 description: "Public Power is distributed among Municipal Power, that of the States Power and National Power"
-linkb: /research/constitutions/ve/title-4/chapter-1
-linkbtext: "Chapter 1"
-linkf: /research/constitutions/ve/title-4/chapter-2
-linkftext: "Chapter 2"
 icon: /flags/ve.png
 ---
-
 
 
 
@@ -35,43 +30,27 @@ reason give rise to foreign claims.
 
 Article 152
 
-The international relations of the Republic serve the ends of the State as a function of
-the exercise of sovereignty and the interests of the people; they are governed by the
-principles of independence, equality between States, free self determination and
-nonintervention in their internal affairs, the peaceful resolution of international conflicts,
-cooperation, respect of human rights and solidarity among peoples in the struggle for
-their liberation and the welfare of humanity. The Republic shall maintain the finest and
-most resolute defense of these principles and democratic practices in all international
-organs and institutions.
-International law
+The international relations of the Republic serve the ends of the State as a function of the exercise of sovereignty and the interests of the people; they are governed by the principles of independence, equality between States, free self determination and nonintervention in their internal affairs, the peaceful resolution of international conflicts, cooperation, respect of human rights and solidarity among peoples in the struggle for
+their liberation and the welfare of humanity. 
+
+The Republic shall maintain the finest and most resolute defense of these principles and democratic practices in all international organs and institutions.
+
 
 Article 153
 
-The Republic shall promote, and encourage Latin American and Caribbean integration, in
-the interest of advancing toward the creation of a community of nations, defending the
-region’s economic, social, cultural, political and environmental interests. The Republic
-shall have the power to sign international treaties that implement and coordinate
-efforts to promote the common development of our nations, and to ensure the welfare
-of their peoples and the collective security of their inhabitants. To these ends, the
-Republic may transfer to supranational organizations, through treaties, the exercise of
-the necessary authorities to carry out these integration processes. In its policies of
-integration and union with Latin America and the Caribbean, the Republic shall give
-privileged status to relations with Bier American countries, striving to make this a
-common policy throughout our Latin America. Provisions adopted within the framework
-of integration agreements shall be regarded as an integral part of the legal order in
-force, and shall be applicable directly and with priority over internal legislation.
-International law
-Treaty ratification
+The Republic shall promote, and encourage Latin American and Caribbean integration, in  the interest of advancing toward the creation of a community of nations, defending the region’s economic, social, cultural, political and environmental interests. The Republic shall have the power to sign international treaties that implement and coordinate efforts to promote the common development of our nations, and to ensure the welfare
+of their peoples and the collective security of their inhabitants. 
+
+To these ends, the Republic may transfer to supranational organizations, through treaties, the exercise of
+the necessary authorities to carry out these integration processes. In its policies of integration and union with Latin America and the Caribbean, the Republic shall give privileged status to relations with Bier American countries, striving to make this a common policy throughout our Latin America. 
+
+Provisions adopted within the framework of integration agreements shall be regarded as an integral part of the legal order in force, and shall be applicable directly and with priority over internal legislation.
+
 
 Article 154
 
-Treaties agreed to by the Republic must be approved by the National Assembly prior to
-their ratification by the President of the Republic, with the exception of those which
-seek to perform or perfect pre-existing obligations of the Republic, apply principles
-expressly recognized by the Republic, perform ordinary acts in international relations or
-exercise powers expressly vested by law in the National Executive.
-International law
-Customary international law
+Treaties agreed to by the Republic must be approved by the National Assembly prior to their ratification by the President of the Republic, with the exception of those which seek to perform or perfect pre-existing obligations of the Republic, apply principles expressly recognized by the Republic, perform ordinary acts in international relations or exercise powers expressly vested by law in the National Executive.
+
 
 Article 155
 

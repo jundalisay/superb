@@ -1,35 +1,31 @@
 ---
 title: "General Provisions"
-heading: "Chapter 2 of the Venezuelan Constitution Simplified"
+heading: "Chapter 2"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "These are social, economic, political, natural or ecological circumstances which seriously affect the nation's security, institutions and citizens"
-linkb: /research/constitutions/ve/title-7/chapter-1
-linkbtext: "Chapter 1"
-linkf: /research/constitutions/ve/title-7/chapter-3
-linkftext: "Chapter 3"
 icon: /flags/ve.png
 ---
 
 
 Article 322
 
-National security is an essential competence and responsibility of the State, based on
-the overall development of the latter, and its defense is the responsibility of all
-Venezuelans, as well as of all public and private law natural and juridical persons within
+National security is an essential competence and responsibility of the State, based on the overall development of the latter, and its defense is the responsibility of all Venezuelans, as well as of all public and private law natural and juridical persons within
 the geographical limits of Venezuela.
+
 Article 323
-The National Defense Council is the highest consultative organ for planning and advising
-the Public Power as to matters relating to the overall defense of the Nation, its
-sovereignty and the integrity of its geographical space. To this end, it is also charged
+
+The National Defense Council is the highest consultative organ for planning and advising the Public Power as to matters relating to the overall defense of the Nation, its sovereignty and the integrity of its geographical space. To this end, it is also charged
 with establishing the Nation’s strategic concept. Presided over by the President of the
 Republic, it also includes the Executive Vice President, the President of the National
 Assembly, the Chief Justice of the Supreme Tribunal of Justice, the Chairman of the
 Republican Ethic Council and the Ministers of Defense, Internal Security, Foreign
 Relations and Planning, and any others whose participation may be deemed appropriate.
 The pertinent organic law shall determine the organization and attributions of the
-National Defense Council.
+
+
 Article 324
+
 Only the State shall be permitted to possess and use weapons of war; any such weapons
 which now exist or are manufactured in or imported into the country shall become the
 property of the Republic, without compensation or proceedings. The National Armed

@@ -1,13 +1,9 @@
 ---
 title: "Executive Vice-President"
-heading: "Section 3 Chapter 2 of the Venezuelan Constitution Simplified"
+heading: "Section 3 Chapter 2"
 date: 2021-11-20
 image: "/flags/ve.png"
 description: "Electoral Power is exercised by the National Electoral Council as governing body, and by the latter’s subordinate organs"
-linkb: /research/constitutions/ve/title-3/chapter-2
-linkbtext: "Chapter 2"
-linkf: /research/constitutions/ve/title-3/chapter-4
-linkftext: "Chapter 4"
 icon: /flags/ve.png
 ---
 
@@ -15,12 +11,10 @@ icon: /flags/ve.png
 
 Article 238
 
-The Executive Vice-President is a direct subordinate of and works closely with the
-President of the Republic in the latter’s capacity as Head of the National Executive.
-The Executive Vice-President must meet the same requirements prescribes for
-eligibility for the office of President of the Republic, and must not be related to the latter
-by either blood or marriage.
-Deputy executive
+The Executive Vice-President is a direct subordinate of and works closely with the President of the Republic in the latter’s capacity as Head of the National Executive.
+
+The Executive Vice-President must meet the same requirements prescribes for eligibility for the office of President of the Republic, and must not be related to the latter by either blood or marriage.
+
 
 Article 239
 
@@ -43,15 +37,11 @@ Article 240
 Passage of a motion to censure the Executive Vice President, by vote of at least two-
 thirds of the members of the National Assembly, automatically involves his removal from office. The removed official, shall not be eligible to serve as Executive Vice President or Minister, for the remainder of the current presidential term of office. 
 
-The third removal of an Executive Vice- President, during the same presidential term of
-office as a consequence of motions of censure, authorizes the President of the Republic,
-to dissolve the National Assembly. The dissolution order includes the calling of elections
-to form a new legislature within 60 days of the dissolution of the old.
-The Assembly cannot be dissolved during the final year of its constitutional term of
-office.
+The third removal of an Executive Vice- President, during the same presidential term of office as a consequence of motions of censure, authorizes the President of the Republic, to dissolve the National Assembly. The dissolution order includes the calling of elections to form a new legislature within 60 days of the dissolution of the old.
+
+The Assembly cannot be dissolved during the final year of its constitutional term of office.
 
 Article 241
 
-The Executive Vice-President is accountable for his acts, in accordance with this
-Constitution and the law. Section Four: Ministers and the Cabinet of Ministers
+The Executive Vice-President is accountable for his acts, in accordance with this Constitution and the law. Section Four: Ministers and the Cabinet of Ministers
 

@@ -4,10 +4,6 @@ heading: "Chapter 2 of The Economist Simplified"
 date: 2015-09-29
 image: "/covers/economist.jpg"
 description: "Wealth is anything that provides utilitiy and benefit for living"
-linkb: /research/socrates/the-economist/chapter-01
-linkbtext: "chapter-01"
-linkf: /research/socrates/the-economist/chapter-03
-linkftext: "Chapter 3"
 icon: "/icons/soc.png"
 ---
 

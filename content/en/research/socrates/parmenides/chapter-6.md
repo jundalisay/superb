@@ -1,16 +1,11 @@
-+++
-title= "Relativity of the One to the Others"
-heading= "Chapter 6"
-date= 2021-12-26
-image= "/covers/parmenides.jpg"
-# date= 2015-09-01
-description= "The One is in Itself which was a Whole and also in Others within that Whole."
-linkb= "/research/socrates/parmenides/chapter-5"
-linkbtext= "Chapter 5"
-linkf= "/research/socrates/parmenides/chapter-7"
-linkftext= "Chapter 7"
-icon= "/icons/soc.png"
-+++
+---
+title: "Relativity of the One to the Others"
+heading: "Chapter 6"
+date: 2015-09-20
+image: "/covers/parmenides.jpg"
+description: "The One is in Itself which was a Whole and also in Others within that Whole"
+icon: "/icons/soc.png"
+---
 
 
 There is another argument. In so far as it is affected in the same way it is not affected otherwise, and not being affected otherwise is not unlike, and not being unlike, is like.

@@ -1,15 +1,12 @@
-+++
-title= "The Face of the Heaven of that New World Must Appear to Its Inhabitants Completely Like That of Our World"
-author= "Rene Descartes"
-image= "/covers/world.jpg"
-description= "Solar systems can be rather unequal in size. But they must always be exactly of the same force."
-linkb= "/research/descartes/world/chapter-14"
-linkbtext= "Chapter 14"
-linkf= "/research/descartes/world/"
-linkftext= "Index"
-heading= "Chapter 15"
-icon= "/icons/spmat.png"
-+++
+---
+heading: "Chapter 15"
+title: "The Face of the Heaven of that New World Must Appear to Its Inhabitants Completely Like That of Our World"
+date: 2020-09-01
+image: "/covers/world.jpg"
+description: "Solar systems can be rather unequal in size. But they must always be exactly of the same force."
+icon: "/icons/descartes.jpg"
+---
+
 
 How do the inhabitants of Earth see the face of their heaven as wholly like that of ours?
 
