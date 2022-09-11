@@ -28,25 +28,17 @@ appointees, the Chairman shall hold office for seven (7) years, two (2) members 
 appointment to any future vacancy shall only be for the unexpired term of the predecessor: Provided,
 finally, That there shall be no reappointment and in no case shall any member serve for more than seven (7)
 years in the Commission.
-The Chairman and members of the Commission shall assume office of the beginning of their
-terms: Provided, That, if upon the effectivity of this Act, the Commission has not been constituted and the
-new staffing pattern and plantilla positions have not been approved and filled-up, the current Board and
-existing personnel of ERB shall continue to hold office.
-The existing personnel of the ERB, if qualified, shall be given preference in the filling up of
-plantilla positions created in the ERC, subject to existing civil service rules and regulations.
-Members of the Commission shall enjoy security of tenure and shall not be suspended or removed
-from office except for just cause as specified by law.
-The Chairman and members of the Commission or any of their relatives within the fourth civil
-degree of consanguinity or affinity, legitimate or common law, shall be prohibited from holding any
-interest whatsoever, either as investor, stockholder, officer or director, in any company or entity engaged in
-the business of transmitting, generating, supplying or distributing any form of energy and must, therefore,
-divest through sale or legal disposition of any and all interests in the energy sector upon assumption of
-office.
-The presence of at least three (3) members of the Commission shall constitute a quorum and the
-majority vote of two (2) members in a meeting where a quorum is present shall be necessary for the
-adoption of any rule, ruling, order, resolution, decision, or other act of the Commission in the exercise of its
-quasi-judicial functions: Provided, That in fixing rates and tariffs, an affirmative vote of three (3) members
-shall be required.
+
+The Chairman and members of the Commission shall assume office of the beginning of their terms: Provided, That, if upon the effectivity of this Act, the Commission has not been constituted and the new staffing pattern and plantilla positions have not been approved and filled-up, the current Board and existing personnel of ERB shall continue to hold office.
+
+The existing personnel of the ERB, if qualified, shall be given preference in the filling up of plantilla positions created in the ERC, subject to existing civil service rules and regulations. 
+
+Members of the Commission shall enjoy security of tenure and shall not be suspended or removed from office except for just cause as specified by law.
+
+The Chairman and members of the Commission or any of their relatives within the fourth civil degree of consanguinity or affinity, legitimate or common law, shall be prohibited from holding any interest whatsoever, either as investor, stockholder, officer or director, in any company or entity engaged in the business of transmitting, generating, supplying or distributing any form of energy and must, therefore, divest through sale or legal disposition of any and all interests in the energy sector upon assumption of office.
+
+The presence of at least three (3) members of the Commission shall constitute a quorum and the majority vote of two (2) members in a meeting where a quorum is present shall be necessary for the adoption of any rule, ruling, order, resolution, decision, or other act of the Commission in the exercise of its quasi-judicial functions: Provided, That in fixing rates and tariffs, an affirmative vote of three (3) members shall be required.
+
 
 ## SEC. 39. Compensation and Other Emoluments for ERC Personnel
 
@@ -79,13 +71,12 @@ of the ERC shall be included in the regular or special appropriations.
 
 ## SEC. 43. Functions of the ERC
 
-The ERC shall promote competition, encourage market
-development, ensure customer choice and penalize abuse of market power in the restructured electricity
-industry. In appropriate cases, the ERC is authorized to issue cease and desist order after due notice and
-hearing. Towards this end, it shall be responsible for the following key functions in the restuctured
-industry:
-(a) Enforce the implementing rules and regulations of this Act;
-(b) Within six (6) months from the effectivity of this Act, promulgate and enforce, in
+The ERC shall promote competition, encourage market development, ensure customer choice and penalize abuse of market power in the restructured electricity industry. 
+
+In appropriate cases, the ERC is authorized to issue cease and desist order after due notice and hearing. Towards this end, it shall be responsible for the following key functions in the restuctured industry:
+
+- Enforce the implementing rules and regulations of this Act
+- Within six (6) months from the effectivity of this Act, promulgate and enforce, in
 accordance with law, a National Grid Code and a Distribution Code which shall include,
 but not limited to, the following:
 (i) Performance standards for TRANSCO O & M Concessionaire, distribution utilities

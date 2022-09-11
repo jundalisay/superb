@@ -2,20 +2,20 @@ RULE 22. NATIONAL TRANSMISSION CORPORATION (TRANSCO)
 
 Section 1. Creation of TRANSCO.
 Pursuant to Section 8 of the Act, TRANSCO, which shall be wholly owned by
-PSALM, has been created to assume the transmission facilities of NPC, all
+PSALM, has been created to assume the transmission facilities of NAPOCOR, all
 other assets related to transmission operations, including nationwide
-franchise of NPC for the operation of the transmission system and the Grid,
-and to assume the electrical transmission functions of the NPC, including
+franchise of NAPOCOR for the operation of the transmission system and the Grid,
+and to assume the electrical transmission functions of the NAPOCOR, including
 among others, the planning, construction and centralized Grid operation
 and maintenance of high voltage transmission facilities, Grid
 interconnections, ancillary and other allied facilities.
-Pursuant to and in accordance with the requirements of the Act, NPC,
+Pursuant to and in accordance with the requirements of the Act, NAPOCOR,
 PSALM and TRANSCO shall take such measures and execute such
 documents to effect the transfer of the ownership and possession of the
-transmission and subtransmission facilities of NPC and all other assets
+transmission and subtransmission facilities of NAPOCOR and all other assets
 related to transmission operations. Upon such transfer, the nationwide
-franchise of NPC for the operation of the transmission system and the Grid
-shall transfer from NPC to TRANSCO.
+franchise of NAPOCOR for the operation of the transmission system and the Grid
+shall transfer from NAPOCOR to TRANSCO.
 Section 2. Transmission Ownership and Management.
 (a)
 For the purpose of Section 1 of this Rule, “all other assets” related to
@@ -27,8 +27,8 @@ including offices and laboratory buildings housing these
 equipment; and
 (ii) TRANSCO offices and real estate properties, vehicles, laboratory
 and test equipment, spare parts and other physical structures.
-(b) The assets of NPC related to the transmission/subtransmission
-function shall be transferred by NPC directly to TRANSCO on or
+(b) The assets of NAPOCOR related to the transmission/subtransmission
+function shall be transferred by NAPOCOR directly to TRANSCO on or
 before 26 December 2001.
 (c) Subtransmission Assets transferred to TRANSCO shall be operated
 and maintained by TRANSCO or its Buyer or Concessionaire, until
@@ -253,7 +253,7 @@ Assets shall be operated and maintained by TRANSCO or its Buyer or
 Concessionaire until their disposal to Qualified Distribution Utilities
 which are in a position to take over the responsibility for operating,
 maintaining, upgrading, and expanding said assets. All transmission
-and subtransmission related liabilities of NPC shall be transferred to
+and subtransmission related liabilities of NAPOCOR shall be transferred to
 and assumed by the PSALM.
 Page 73 of 100(b) TRANSCO shall negotiate with and thereafter transfer such functions,
 assets, and associated liabilities to the Qualified Distribution Utility or

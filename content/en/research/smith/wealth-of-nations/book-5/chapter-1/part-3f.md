@@ -1,13 +1,9 @@
 ---
 title: "The Hamburgh, Russian, and Eastland Regulated Companies"
-heading: "Part 3d of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3d of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "Sir Josiah Child complained these companies were extremely oppressive"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3c"
-linkftext: "Part 3c"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3e"
-linkbtext: "Part 3e"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

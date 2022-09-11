@@ -1,15 +1,12 @@
-+++
-title=  "The Development of Militaries"
-description=  "The art of war is certainly the noblest of all arts."
-date=  2020-12-30
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-9b-unproductive"
-linkbtext=  "unproductive"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-9d-foreign-systems"
-linkftext=  "foreign-systems"
-heading=  "Chapter 1 Part 1a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Development of Militaries"
+heading: "Chapter 1 Part 1a"
+date: 2020-12-31
+image: "/covers/wn.jpg"
+description: "The art of war is certainly the noblest of all arts"
+icon: "/icons/smith.png"
+---
+
 
 
 ## Part 1: Defence Expenditures 

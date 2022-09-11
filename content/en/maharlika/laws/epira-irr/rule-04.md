@@ -9,7 +9,7 @@ date: 2021-09-30
 
 
 (a) “Act” is EPIRA
-- b) “Accredited Facility” refers to a facility granted the certificate of accreditation by NPC or DOE pursuant to Executive 0rder No. 215
+- b) “Accredited Facility” refers to a facility granted the certificate of accreditation by NAPOCOR or DOE pursuant to Executive 0rder No. 215
 and its implementing rules and regulations
 (c) “Affiliate” means any Person which, alone or together with any other
 Person, directly or indirectly, through one or more intermediaries,
@@ -167,7 +167,7 @@ jointly by the DOE and Electric Power Industry Participants to
 assume the functions, assets and liabilities from the Autonomous
 Group Market Operator (AGMO), pursuant to Section 30 of the Act;
 (tt) “Independent Power Producer” or “IPP” refers to an existing power
-generating entity which is not owned by NPC as of the effectivity of the
+generating entity which is not owned by NAPOCOR as of the effectivity of the
 Act;
 (uu) “Inter-Class Cross Subsidy” refers to an amount charged by
 Distribution Utilities to industrial and commercial End-users as well
@@ -175,17 +175,17 @@ as to other subsidizing customer sectors in order to reduce electricity
 rates of other customer sectors such as the residential End-users,
 hospitals, and streetlights;
 (vv) “Inter-Regional Grid Cross Subsidy” refers to an amount embedded
-in the electricity rates of NPC charged to its customers located in a
+in the electricity rates of NAPOCOR charged to its customers located in a
 viable regional grid in order to reduce the electricity rates in a less
 viable regional grid;
 (ww) “Intra-Regional Grid Cross Subsidy” refers to an amount embedded
-in the electricity rates of NPC charged to Distribution Utilities and
+in the electricity rates of NAPOCOR charged to Distribution Utilities and
 non-utilities with higher load factor and/or delivery voltage in order to
 reduce the electricity rates charged to Distribution Utilities with lower
 load factor and/or delivery voltage located in the same regional grid;
 (xx) “IPP Administrator” refers to qualified independent entities
 appointed by PSALM who shall administer, conserve and manage the
-contracted energy output of NPC IPP contracts, including selling the
+contracted energy output of NAPOCOR IPP contracts, including selling the
 contracted energy output of these contracts and offering Ancillary
 Services, where applicable;
 (yy) “Lifeline Rate” refers to the subsidized rate given to
@@ -217,11 +217,11 @@ the operations in these areas to viability levels;
 government agency created under Presidential Decree No. 269, as
 amended, with additional mandate set forth in the Act;
 (fff)
-“National Power Corporation” or “NPC” refers to the government
+“National Power Corporation” or “NAPOCOR” refers to the government
 corporation created under Republic Act No. 6395, as amended;
 (ggg) “National Transmission Corporation” or “TRANSCO” refers to the
 corporation organized pursuant to the Act to acquire all the
-transmission assets of the NPC;
+transmission assets of the NAPOCOR;
 (hhh) “Open Access” refers to the system of allowing any qualified Person
 the use of transmission, and/or Distribution System and associated
 facilities subject to the payment of transmission and/or distribution
@@ -304,7 +304,7 @@ consumption or internal use excluding Generation Facilities for use
 by households, clinics, hospitals and other medical facilities;
 (bbbb)
 “Small Power Utilities Group” or “SPUG” refers to the
-functional unit of NPC created to pursue Missionary Electrification
+functional unit of NAPOCOR created to pursue Missionary Electrification
 function;
 (cccc) “Small Distribution Company” refers to a Distribution Utility whose
 peak demand is equal to or less than ten (10) megawatts;
@@ -330,15 +330,15 @@ of the contracted energy output of such contracts that would be
 incurred upon Retail Competition and Open Access. For this purpose,
 Page 16 of 100“eligible contracts” are contracts which have been approved by the
 ERB as of 31 December 2000;
-(gggg) “Stranded Contract Costs of NPC” refer to the excess of the
-contracted cost of electricity under eligible contracts of NPC over the
+(gggg) “Stranded Contract Costs of NAPOCOR” refer to the excess of the
+contracted cost of electricity under eligible contracts of NAPOCOR over the
 actual selling price of the contracted energy output of such contracts
 in the market. Such contracts shall have been approved by the ERB
 as of 31 December 2000;
 (hhhh)
-“Stranded Debts of NPC” or “Stranded Debts ” refer to any
-unpaid financial obligations of NPC which have not been liquidated by
-the proceeds from the sales and Privatization of NPC assets: Provided,
+“Stranded Debts of NAPOCOR” or “Stranded Debts ” refer to any
+unpaid financial obligations of NAPOCOR which have not been liquidated by
+the proceeds from the sales and Privatization of NAPOCOR assets: Provided,
 however, That such obligations include any of such obligations
 refinanced by PSALM: Provided, further, That such refinancing of such
 unpaid obligations shall not result in increasing the Universal Charge
@@ -350,7 +350,7 @@ down transformers used solely by load customers, associated
 switchyard/substation, control and protective equipment, reactive
 compensation equipment to improve customer power factor, overhead
 lines, and the land where such facilities/equipment are located.
-These include NPC assets linking the transmission system and the
+These include NAPOCOR assets linking the transmission system and the
 Distribution System which are neither classified as generation nor
 transmission;
 (jjjj) “Subtransmission System”
@@ -388,7 +388,7 @@ TRANSCO or its Buyer or Concessionaire pursuant to the Act;
 (qqqq) “Transmission of Electricity” refers to the conveyance of electricity
 through the high voltage backbone system;
 (rrrr) “Universal Charge” refers to the charge, if any, imposed for the
-recovery of the Stranded Debts, Stranded Contract Costs of NPC, and
+recovery of the Stranded Debts, Stranded Contract Costs of NAPOCOR, and
 Stranded Contract Costs of Eligible Contracts of Distribution Utilities
 and other purposes pursuant to Section 34 of the Act;
 (ssss) “Unviable Area” refers to a geographical area within the Franchise

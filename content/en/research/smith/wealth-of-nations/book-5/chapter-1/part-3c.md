@@ -1,13 +1,9 @@
 ---
 title: "State-Owned Public Works"
-heading: "Part 3h of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
-date: 2021-08-01
+heading: "Part 3h of Chapter 1"
+date: 2021-12-10
 image: "/covers/wn.jpg"
 description: "The following public works are always better maintained by a local or public revenue. Those which cannot maintain themselves, and those which benefits are confined to a district"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3b"
-linkftext: "Part 3b"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3d"
-linkbtext: "Part 3d"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

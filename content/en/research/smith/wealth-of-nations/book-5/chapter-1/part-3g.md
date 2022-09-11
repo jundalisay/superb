@@ -1,13 +1,9 @@
 ---
 title: "The Turkey Company (1581-1825)"
-heading: "Part 3e of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3e of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "By a bylaw, no British manufactures could be exported to Turkey except in the company's ships."
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3d"
-linkftext: "Part 3d"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3f"
-linkbtext: "Part 3f"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

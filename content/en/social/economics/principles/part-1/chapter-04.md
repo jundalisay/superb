@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4"
 title: "Absolute Demand and Effective Demand"
-date: 2022-03-16
+date: 2022-08-18
 image: /covers/econsp.jpg
 description: ""
 author: Dalisay

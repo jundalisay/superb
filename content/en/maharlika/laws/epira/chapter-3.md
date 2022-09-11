@@ -8,7 +8,9 @@ date: 2021-09-25
 
 
 
-SEC. 37. Powers and Functions of the DOE.- The DOE will supervise the restructuring of the electricity industry. 
+## SEC. 37. Powers and Functions of the DOE
+
+The DOE will supervise the restructuring of the electricity industry. 
 
 This amends Section 5 of RA 7638 “The Department of Energy Act of 1992”:
 
@@ -20,12 +22,12 @@ This program must:
   - the policies on environmental protection and conservation and maintenance of ecological balance
 - provide a mechanism for the integration, rationalization, and coordination of the various energy programs of the Government
 
-- b) Develop and update annually the existing Philippine Energy Plan as ‘The Plan’. This PLan will:
+- Develop and update annually the existing Philippine Energy Plan as ‘The Plan’. This PLan will:
   -  provide for an integrated and comprehensive exploration, development, utilization, distribution, and conservation of energy resources, with preferential bias for environment-friendly, indigenous, and low-cost sources of energy.
   - include a policy direction towards the privatization of government agencies related to energy, deregulation of the power and energy industry, and reduction of dependency on oil-fired plants. 
   - shall be submitted to Congress not later than September 15 and every year thereafter
 
-- c) Prepare and update annually a Power Development Program (PDP) and integrate the same into the Philippine Energy Plan. 
+- Prepare and update annually a Power Development Program (PDP) and integrate the same into the Philippine Energy Plan. 
 
 The PDP shall consider and integrate the individual or joint development plans of the transmission, generation, and distribution sectors of the electric power industry, which are submitted to the Department: Provide, however, That the ERC shall have exclusive authority covering the Grid Code and the pertinent rules and regulations it may issue
 
@@ -38,9 +40,9 @@ utilities for greater efficiency and lower costs;
 (iii) In consultation with other government agencies, promote a system of incentives to
 encourage industry participants, including new generating companies and end-users
 to provide adequate and reliable electric supply; and
-(iv) Undertake in coordination with the ERC, NPC, NEA and the Philippine Information
+(iv) Undertake in coordination with the ERC, NAPOCOR, NEA and the Philippine Information
 Agency (PIA), information campaign to educate the public on the restructuring of the
-electricity sector and privatization of NPC assets.
+electricity sector and privatization of NAPOCOR assets.
 (f) Jointly with the electric power industry participants, establish the wholesale electricity spot
 market and formulate the detailed rules governing the operations thereof;
 (g) Establish and administer programs for the exploration, transportation, marketing, distribution,

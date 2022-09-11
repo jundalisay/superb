@@ -26,15 +26,15 @@ Existing Generation Facilities.
 Existing Generation Facilities shall include:
 
 (i)
-Spin-off Facilities of NPC or their transferees, including
-Generation Facilities owned by NPC transferred to PSALM and
+Spin-off Facilities of NAPOCOR or their transferees, including
+Generation Facilities owned by NAPOCOR transferred to PSALM and
 subsequently privatized pursuant to the Act;
 (ii)
 Agus and Pulangui Complexes;
 (iii) Facilities owned and operated by SPUG;
 (iv)
 Accredited facilities under BOT arrangement and other variants
-with NPC, SPUG, National Irrigation Administration (NIA),
+with NAPOCOR, SPUG, National Irrigation Administration (NIA),
 Philippine
 National
 Oil
@@ -63,7 +63,7 @@ Generation Facilities under construction shall include:
 (vi)
 (c)
 DOE-Accredited Facility under BOT arrangement and other
-variants with NPC, SPUG, PNOC-EDC, NIA and other
+variants with NAPOCOR, SPUG, PNOC-EDC, NIA and other
 government agencies;
 DOE-Accredited Facility under BOT arrangement and other
 variants with Distribution Utilities;
@@ -80,7 +80,7 @@ New Generation Facilities shall include:
 Any newly-constructed facility with appropriate health, safety
 and environmental clearances connected to the Grid;
 Any facility currently under BOT arrangement and other
-variants with NPC, SPUG, PNOC-EDC, other government
+variants with NAPOCOR, SPUG, PNOC-EDC, other government
 agencies, and government- owned and- controlled corporations;
 and
 Any facility that shall operate in an isolated area.
@@ -124,7 +124,7 @@ requirements.
 (i) A Person owning an existing Generation Facility or a Generation
 Facility under construction, shall submit within ninety (90)
 days from effectivity of these Rules to ERC, when applicable, a
-certificate of DOE/NPC accreditation, a three (3) year
+certificate of DOE/NAPOCOR accreditation, a three (3) year
 operational history, a general company profile and other
 information that ERC may require. Upon making a complete
 submission to the ERC, such Person shall be issued a COC by

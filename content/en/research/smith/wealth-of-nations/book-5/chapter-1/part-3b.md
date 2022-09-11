@@ -1,13 +1,9 @@
 ---
 title: "Roads Should Not Be Privatized"
-heading: "Part 3b of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
-date: 2021-08-01
+heading: "Part 3b of Chapter 1 of Book 5"
+date: 2021-12-12
 image: "/covers/wn.jpg"
 description: "There are many objections against levying a toll on turnpikes and privatizing roads"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3a"
-linkftext: "Part 3a"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3c"
-linkbtext: "Part 3c"
 # youtube: "H0tUf35JB44"
 author: Adam Smith
 icon: /avatars/smith.png

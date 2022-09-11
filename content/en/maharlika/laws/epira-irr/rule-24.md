@@ -17,9 +17,9 @@ clauses provided in said contracts or initiate any appropriate action under
 Philippine laws. The PSALM shall diligently seek to reduce stranded costs,
 if any.
 
-RULE 26. RENEGOTIATION OF POWER PURCHASE AND ENERGY CONVERSION AGREEMENTS BETWEEN NPC AND PNOC-EDC
+RULE 26. RENEGOTIATION OF POWER PURCHASE AND ENERGY CONVERSION AGREEMENTS BETWEEN NAPOCOR AND PNOC-EDC
 (a) Pursuant to Section 69 of the Act, all power purchase and energy
-conversion agreements between the PNOC-EDC and NPC, including,
+conversion agreements between the PNOC-EDC and NAPOCOR, including,
 but not limited to, the Palinpinon, Tongonan and Mt. Apo Geothermal
 complexes, shall be reviewed by the ERC within three (3) months from
 the effectivity of the Act.
@@ -77,13 +77,13 @@ Obligation to Provide Financial Benefits.
 The Generation Facilities and/or energy resource development facilities,
 such as but not limited to the following, are required to provide the financial
 benefits under Energy Regulations No. 1-94 (E.R. 1-94) of the DOE:
-(a) Spin-off Facilities of NPC or their transferees, including Generation
-Facilities owned by NPC transferred to PSALM and subsequently
+(a) Spin-off Facilities of NAPOCOR or their transferees, including Generation
+Facilities owned by NAPOCOR transferred to PSALM and subsequently
 privatized pursuant to the Act;
 (b) Agus and Pulangui Complexes;
-(c) Facilities owned and operated by NPC-SPUG;
-(d) Facilities under BOT arrangement and other variants with NPC (NPC
-IPPs), NPC-SPUG, NIA, PNOC-EDC and other government agencies;
+(c) Facilities owned and operated by NAPOCOR-SPUG;
+(d) Facilities under BOT arrangement and other variants with NAPOCOR (NAPOCOR
+IPPs), NAPOCOR-SPUG, NIA, PNOC-EDC and other government agencies;
 (e) Facilities under BOT arrangement and other variant with Distribution
 Utilities (IPPs of Distribution Utilities);
 (f) Facilities owned or operated by a Distribution Utility;
@@ -459,19 +459,19 @@ auditing rules and regulations.
 Section 7.
 Administration of Trust Accounts.
 (a) The administration of EF, DLF, RWMHEEF shall be undertaken by
-the DOE. All funds administered by NPC with regard to DLF and
+the DOE. All funds administered by NAPOCOR with regard to DLF and
 RWMHEEF shall be transferred to DOE for administration within one
 hundred twenty (120) days from the effectivity of these Rules.
-Thereafter, all MOA entered into by DOE and NPC on the
+Thereafter, all MOA entered into by DOE and NAPOCOR on the
 establishment of trust accounts shall be amended to reflect transfer of
-responsibilities to NPC-successors, transferees and/or assignees or
+responsibilities to NAPOCOR-successors, transferees and/or assignees or
 IPPs.
 (b) The obligation of the Generation Companies to DOE with regard to the
 remittance of funds shall be settled in the following manner:
 (i)
-For NPC-IPPs, if applicable, to settle all obligations before
+For NAPOCOR-IPPs, if applicable, to settle all obligations before
 issuance of COC/registration certificate by ERC.
-Page 87 of 100(ii) For NPC, if applicable, to settle all obligations before
+Page 87 of 100(ii) For NAPOCOR, if applicable, to settle all obligations before
 Privatization/sale and transfer of IPP contracts to PSALM.
 (iii) For IPPs of Distribution Utilities with an outstanding financial
 obligation with the DOE pursuant to Department Circular No.
@@ -647,10 +647,10 @@ shall be deposited in a government bank under escrow.
 
 RULE 30. 
 
-Section 1. NPC OFFER OF TRANSITION SUPPLY CONTRACTS
+Section 1. NAPOCOR OFFER OF TRANSITION SUPPLY CONTRACTS
 
 Guiding Principle.
-Pursuant to Section 67 of the Act, NPC shall, within six (6) months from the
+Pursuant to Section 67 of the Act, NAPOCOR shall, within six (6) months from the
 effectivity of the Act, file with the ERC for its approval the transition supply
 contracts (TSCs) duly negotiated with the Distribution Utilities.
 Section 2.
@@ -667,9 +667,9 @@ introduction of Open Access.
 Distribution Utilities less any of their currently committed quantities
 under eligible contracts, if any, as defined in Section 33 of the Act.
 (d) The total generation capacity of such signed TSCs shall not exceed the
-level of NPC owned, controlled, or committed capacity as of the
+level of NAPOCOR owned, controlled, or committed capacity as of the
 effectivity of the Act.
-(e) The TSCs shall be assignable to the NPC successor Generation
+(e) The TSCs shall be assignable to the NAPOCOR successor Generation
 Companies.
 (f) Notwithstanding the provisions of Section 25 of the Act, the rates
 charged by a Distribution Utility for the generation component of the
@@ -682,13 +682,13 @@ from the WESM.
 (h) The limitation on the recovery of generation component costs by a
 Distribution Utility shall apply only to the equivalent quality and
 quantity of electricity still available to the Distribution Utility from
-NPC.
+NAPOCOR.
 Section 4. TSCs Approval and Monitoring.
 (a) Within six (6) months from the date of submission of the TSC by the
-NPC, the ERC shall notify NPC of their approval of the rates contained
+NAPOCOR, the ERC shall notify NAPOCOR of their approval of the rates contained
 therein.
 (b) The ERC shall maintain a record of the contract terms and rates
-offered by NPC.
+offered by NAPOCOR.
 (c) The ERC shall update monthly the rates using the appropriate
 adjustment and/or indexation formula.
 
@@ -709,7 +709,7 @@ WESM.
 (b) The limitation on the recovery of generation component costs by a
 Distribution Utility shall apply only to the equivalent quality and
 quantity of electricity still available to the Distribution Utility from
-NPC. For purposes of the determination of equivalent quality and
+NAPOCOR. For purposes of the determination of equivalent quality and
 quantity of electricity, the ERC shall consider, among others, firm and
 non-firm capacities, standards specified in the Grid and Distribution
 Codes, and other similar criteria as may be determined by the ERC.

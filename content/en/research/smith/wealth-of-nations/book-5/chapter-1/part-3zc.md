@@ -1,13 +1,9 @@
 ---
 title: "The Reformation"
-heading: "Part 3zc of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3zc of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "The reformation was strong enough to overturn the church and its state where it was weak"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3zb"
-linkftext: "Part 3zb"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3zd"
-linkbtext: "Part 3zd"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

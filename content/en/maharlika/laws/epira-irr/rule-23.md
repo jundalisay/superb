@@ -1,53 +1,53 @@
-RULE 23. PRIVATIZATION OF THE ASSETS OF NPC
+RULE 23. PRIVATIZATION OF THE ASSETS OF NAPOCOR
 
 Section 1. Guiding Principle.
 Consistent with Section 47 of the Act, the PSALM shall privatize the assets
-transferred to it from NPC in accordance with these Rules. Within one
+transferred to it from NAPOCOR in accordance with these Rules. Within one
 hundred eighty (180) days from the effectivity of the Act, PSALM shall
 submit a Privatization plan for the endorsement by the Power Commission
 and the approval of the President of the Philippines. This plan shall cover
 the total Privatization of the transmission and generation assets, real estate,
-and other disposable assets as well as the existing IPP contracts of NPC,
+and other disposable assets as well as the existing IPP contracts of NAPOCOR,
 except for assets of SPUG. Upon approval of the Privatization plan, PSALM
 shall implement the same.
 The participation by Filipino citizens and corporations in the purchase of
-NPC assets shall be encouraged.
+NAPOCOR assets shall be encouraged.
 Section 2.
 (a)
 Scope of Privatization.
-NPC Generation, Generation-Related, and Other Assets.
-Except for the assets of SPUG, NPC assets to be privatized shall
+NAPOCOR Generation, Generation-Related, and Other Assets.
+Except for the assets of SPUG, NAPOCOR assets to be privatized shall
 include:
 Page 74 of 100(i) all generation assets and all generation-related machineries and
 equipment;
 (ii)
 (iii) all real estate and the improvements made thereto; and
 disposable assets such as facilities, properties, equipment and
-other assets not essential to the operation of NPC.
-To provide for an orderly disposition of these assets, NPC shall provide
+other assets not essential to the operation of NAPOCOR.
+To provide for an orderly disposition of these assets, NAPOCOR shall provide
 PSALM an inventory of all these assets within one hundred and twenty
 (120) days from the effectivity of the Act.
 (b)
-NPC Transmission, Subtransmission, Interconnection and Ancillary
+NAPOCOR Transmission, Subtransmission, Interconnection and Ancillary
 Assets.
 The transmission, subtransmission, interconnection and ancillary
-assets of NPC, as defined in Section 8 of the Act and further detailed
+assets of NAPOCOR, as defined in Section 8 of the Act and further detailed
 in Rule 6 on Transmission Sector and Rule 22 on TRANSCO, shall be
-transferred by NPC directly to TRANSCO. For this purpose, NPC shall
+transferred by NAPOCOR directly to TRANSCO. For this purpose, NAPOCOR shall
 submit a list of these assets to PSALM and TRANSCO within one
 hundred and twenty (120) days from the effectivity of the Act.
 (c)
-IPP Contracts of NPC.
-Consistent with Section 8 of this Rule, IPP Contracts of NPC shall
+IPP Contracts of NAPOCOR.
+Consistent with Section 8 of this Rule, IPP Contracts of NAPOCOR shall
 refer to generation capacities developed pursuant to Republic Act No.
 6957 (BOT Law), as amended by Republic Act No. 7718, and any such
-generation asset whose construction was not financed by NPC but
-whose output is bought by NPC under Purchase Power Agreements
+generation asset whose construction was not financed by NAPOCOR but
+whose output is bought by NAPOCOR under Purchase Power Agreements
 (PPAs), Energy Conversion Agreements (ECAs) or any other similar
 contractual relationship.
 Section 3.
 Privatization Objectives.
-The Privatization of the NPC assets intends to achieve the following
+The Privatization of the NAPOCOR assets intends to achieve the following
 objectives:
 (a) To ensure and accelerate the total electrification of the country;
 (b) To ensure the quality, reliability, security and affordability of the
@@ -79,19 +79,19 @@ Section 4.
 
 Privatization Guidelines.
 
-(a) The Privatization value to the National Government of the NPC
+(a) The Privatization value to the National Government of the NAPOCOR
 generation assets, real estate, other disposable assets as well as IPP
 contracts shall be optimized.
 (b) The participation by Filipino citizens and corporations in the purchase
-of NPC assets shall be encouraged. Equity or similar instruments of
+of NAPOCOR assets shall be encouraged. Equity or similar instruments of
 participation by End-users or consumers must be explored
 exhaustively.
 In the case of foreign investors, at least seventy-five percent (75%) of
-the funds used to acquire NPC-generation assets and IPP contracts
+the funds used to acquire NAPOCOR-generation assets and IPP contracts
 shall be inwardly remitted and registered with the (BSP).
 (c)
 (d)
-The NPC plants and/or its IPP contracts assigned to IPP
+The NAPOCOR plants and/or its IPP contracts assigned to IPP
 Administrators, its related assets and assigned liabilities, if any, shall
 be grouped in a manner which shall promote the viability of the
 resulting Generation Companies, ensure economic efficiency,
@@ -99,7 +99,7 @@ encourage competition, foster reasonable electricity rates and create
 market appeal to optimize returns to the government from the sale
 and disposition of such assets in a manner consistent with the
 objectives of the Act. In the grouping of the generation assets and IPP
-contracts of NPC, the following criteria shall be considered:
+contracts of NAPOCOR, the following criteria shall be considered:
 (i) A sufficient scale of operation and balance sheet strength to
 promote the financial viability of the restructured units;
 (ii) Broad geographical groupings to ensure efficiency of operations
@@ -111,19 +111,19 @@ market or of the load curve; and
 (iv) Such other factors as may be deemed beneficial to the best
 interest of the National Government while ensuring
 attractiveness to potential investors.
-All assets of NPC shall be sold in an open and transparent manner
+All assets of NAPOCOR shall be sold in an open and transparent manner
 through public bidding, and the same shall apply to the disposition of
 IPP contracts;
 Page 76 of 100(e) In cases of transfer of possession, Control, operation or Privatization
 of multi-purpose hydro facilities, safeguards shall be prescribed to
 ensure that the National Government may direct water usage in cases
 of shortage to protect potable water, irrigation, and all other
-requirements imbued with public interest. The rights of NPC over
+requirements imbued with public interest. The rights of NAPOCOR over
 such multi-purpose hydro facilities shall be transferred to PSALM;
 (f) The Agus and the Pulangui complexes in Mindanao shall be excluded
 from among the Generation Companies that will be initially privatized.
 Their ownership shall be transferred to the PSALM and both shall
-continue to be operated by the NPC.
+continue to be operated by the NAPOCOR.
 Said complexes may be
 privatized not earlier than ten (10) years from the effectivity of the Act,
 and, except for Agus III, shall not be subject to BOT, Build-
@@ -142,28 +142,28 @@ bidding. The geothermal complexes covered by this requirement
 include, but not limited to, Tiwi-Makban, Leyte A and B, Tongonan,
 Palinpinon, and Mt. Apo.
 (h) The ownership of the Caliraya-Botokan-Kalayaan (CBK) pump storage
-complex shall be transferred to PSALM and operated by NPC on behalf
+complex shall be transferred to PSALM and operated by NAPOCOR on behalf
 of PSALM for a period of ten (10) years.
 (i) Not later than three (3) years from the effectivity of the Act, and in no
 case later than the initial implementation of Open Access, at least
-seventy percent (70%) of the total capacity of generation assets of NPC
-and of the total capacity of the power plants under contract with NPC
+seventy percent (70%) of the total capacity of generation assets of NAPOCOR
+and of the total capacity of the power plants under contract with NAPOCOR
 located in Luzon and Visayas shall have been privatized: Provided,
 That any unsold capacity shall be privatized not later than eight (8)
 years from the effectivity of the Act;
 (j) Except as otherwise provided in these Rules, all appropriate existing
 authorizations, licenses and permits issued by the National
 Government, including its departments, bureaus and agencies, and
-LGUs to NPC shall automatically transfer to PSALM;
-(k) NPC may generate and sell electricity only from the undisposed
+LGUs to NAPOCOR shall automatically transfer to PSALM;
+(k) NAPOCOR may generate and sell electricity only from the undisposed
 generation assets and IPP contracts of PSALM and shall not incur any
 new obligations to purchase power through bilateral contracts with
 Generation Companies or other Suppliers; and
-(l) The sale, transfer or disposition of NPC assets shall not affect existing
-NPC contractual obligations.
+(l) The sale, transfer or disposition of NAPOCOR assets shall not affect existing
+NAPOCOR contractual obligations.
 Page 77 of 100Section 5.
 Elements of the Privatization Plan.
-The Privatization plan for NPC assets shall contain, among others, the
+The Privatization plan for NAPOCOR assets shall contain, among others, the
 following principal elements:
 (a)
 (b)
@@ -183,7 +183,7 @@ Section 6.
 Privatization of Hydroelectric Generation Plants.
 
 (a) Consistent with Section 47(e) of the Act and Section 4(f) of this Rule,
-the Privatization of hydro facilities of NPC shall cover the power
+the Privatization of hydro facilities of NAPOCOR shall cover the power
 component including assignable long-term water rights agreements
 for the use of water, which shall be passed onto and respected by the
 buyers of the hydroelectric power plants.
@@ -191,47 +191,47 @@ buyers of the hydroelectric power plants.
 allocation for irrigation, as indicated by the NIA and requirements for
 domestic water supply as provided for by the appropriate Local Water
 District(s) are recognized and provided for in the water rights
-agreements. NPC or PSALM may also impose additional conditions in
+agreements. NAPOCOR or PSALM may also impose additional conditions in
 the shareholding agreement with the winning bidders to ensure
 national security, including, but not limited to, the use of water
 during drought or calamity.
-(c) Consistent with Section 34(d) of the Act, the NPC shall continue to be
+(c) Consistent with Section 34(d) of the Act, the NAPOCOR shall continue to be
 responsible for watershed rehabilitation and management and shall
 be entitled to the environmental charge equivalent to one-fourth of
 one centavo per kilowatt-hour sales (P0.0025/kWh), which shall form
 part of the Universal Charge. This environmental fund shall be used
 solely for watershed rehabilitation and management and shall be
-managed by NPC under existing arrangements. NPC shall submit an
+managed by NAPOCOR under existing arrangements. NAPOCOR shall submit an
 annual report to the DOE detailing the progress of the watershed
 rehabilitation program.
-(d) The NPC and PSALM or NIA, as the case may be, shall continue to be
+(d) The NAPOCOR and PSALM or NIA, as the case may be, shall continue to be
 responsible for the dam structure and all other appurtenant
 structures necessary for the safe and reliable operation of the
-hydropower plants. The NPC and PSALM or NIA, as the case may be,
+hydropower plants. The NAPOCOR and PSALM or NIA, as the case may be,
 shall enter into an operations and maintenance agreement with the
 private operator of the power plant to cover the dam structure and all
 other appurtenant facilities.
-Section 7. Undisposed Generation Assets and IPP Contracts of NPC.
+Section 7. Undisposed Generation Assets and IPP Contracts of NAPOCOR.
 (a)
-NPC may generate and sell electricity only from the undisposed
+NAPOCOR may generate and sell electricity only from the undisposed
 generation assets and IPP contracts of PSALM; and
 Page 78 of 100(b)
-NPC shall not incur any new obligations to purchase power through
+NAPOCOR shall not incur any new obligations to purchase power through
 bilateral contracts with Generation Companies or other Suppliers.
 Section 8.
 Privatization of IPP Contracts Assumed by PSALM.
 (a) The IPP contracts assumed by PSALM shall be privatized taking into
 consideration buy out provisions, Government performance
 undertakings and possible bilateral renegotiations to minimize the
-liabilities of NPC and the National Government.
+liabilities of NAPOCOR and the National Government.
 (b) Consistent with Section 75 of the Act, with respect to IPP-related
 contracts, nothing in these Rules shall be construed as:
 (c)
 (i) an implied waiver of any right, action or claim, against any
-Person or entity, of NPC or the National Government arising
+Person or entity, of NAPOCOR or the National Government arising
 from or relating to any such contracts; or
 (ii) a conferment of new or better rights to creditors and IPP
-contractors in addition to subsisting rights granted by the NPC
+contractors in addition to subsisting rights granted by the NAPOCOR
 or the National Government under existing contracts.
 PSALM shall ensure that the Privatization of IPP contracts assumed
 by it shall not cause an increase in the stranded costs to be absorbed
@@ -245,7 +245,7 @@ of
 Agus
 and
 Pulangui
-The Agus and Pulangui complexes shall be managed and operated by NPC
+The Agus and Pulangui complexes shall be managed and operated by NAPOCOR
 for PSALM as a separate business unit, and shall have its own organization
 and book of accounts.
 

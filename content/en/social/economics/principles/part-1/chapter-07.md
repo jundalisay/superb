@@ -2,7 +2,7 @@
 heading: "Chapter 7"
 title: "Demand Inflation Deflation"
 # date: 2022-03-27
-date: 2022-03-06
+date: 2022-08-10
 image: /photos/buy.jpg
 description: ""
 author: Dalisay

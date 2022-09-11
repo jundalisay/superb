@@ -63,7 +63,7 @@ Office (PMO);
 Page 93 of 100(d)
 (e)
 (f)
-NPC, for loans on taken-over systems, excluding power bills;
+NAPOCOR, for loans on taken-over systems, excluding power bills;
 DOE; and
 LGUs.
 Provided, however, That such loans were contracted in accordance with NEA
@@ -124,13 +124,13 @@ Section 1. SEPARATION BENEFITS
 General Statement on Coverage.
 
 This Rule shall apply to all employees in the National Government service as of 26 June 2001 regardless of position, designation or status, who are
-displaced or separated from the service as a result of the Restructuring of the electricity industry and Privatization of NPC assets: Provided, however, That the coverage for casual or contractual employees shall be limited to
+displaced or separated from the service as a result of the Restructuring of the electricity industry and Privatization of NAPOCOR assets: Provided, however, That the coverage for casual or contractual employees shall be limited to
 those whose appointments were approved or attested by the Civil Service
 Commission (CSC).
 
 Section 2. Scope of Application .
 
-This Rule shall apply to affected personnel of DOE, ERB, NEA and NPC.
+This Rule shall apply to affected personnel of DOE, ERB, NEA and NAPOCOR.
 
 Section 3. Separation and Other Benefits.
 (a) The separation benefit shall consist of either a separation pay and
@@ -141,10 +141,10 @@ is higher: Provided, That the separated or displaced employee has
 rendered at least one (1) year of service at the time of effectivity of the
 Act.
 (b) The following shall govern the application of Section 3(a) of this Rule:
-(i) With respect to NPC officials and employees, they shall be
+(i) With respect to NAPOCOR officials and employees, they shall be
 considered legally terminated and shall be entitled to the
 benefits or separation pay provided in Section 3(a) herein when
-the restructuring plan as approved by the NPC Board shall have
+the restructuring plan as approved by the NAPOCOR Board shall have
 been implemented.
 (ii) With respect to NEA officials and employees, they shall be
 considered legally terminated and shall be entitled to the
@@ -168,7 +168,7 @@ government service anew if absorbed by any government agency or
 any government-owned successor company.
 (d) In no case shall there be any diminution of benefits under the
 separation plan until the full implementation of the Restructuring of
-the electric power industry and the Privatization of NPC assets in
+the electric power industry and the Privatization of NAPOCOR assets in
 accordance with the approved Restructuring and Privatization
 schedule.
 (e) For this purpose, “Salary,” as a rule, refers to the basic pay including
@@ -180,26 +180,26 @@ to the basic pay under existing laws.
 employment of any official or employee, who is neither qualified under
 existing laws, rules and regulations nor has opted to retire under
 existing laws, as a result of the Restructuring of the electric power
-industry or Privatization of NPC assets pursuant to the Act.
+industry or Privatization of NAPOCOR assets pursuant to the Act.
 Section 4. Funding.
 Funds necessary to cover the separation pay under this Rule shall be
 provided either by the Government Service Insurance System (GSIS) or from
-the corporate funds of the NEA or the NPC, as the case may be; and in the
+the corporate funds of the NEA or the NAPOCOR, as the case may be; and in the
 case of the DOE and the ERB, by the GSIS or from the general fund, as the
 case may be.
 The Buyer or Concessionaire or the successor company shall not be liable
 for the payment of the separation pay.
 Section 5. Preferential Rights of Employees.
 Displaced or separated personnel as a result of the Restructuring of the
-electric power industry and Privatization of NPC assets shall be given
+electric power industry and Privatization of NAPOCOR assets shall be given
 preference in the hiring of manpower requirements of the newly-created
 offices or the privatized companies: Provided, That the displaced or
 separated personnel meet the prescribed qualifications. With respect to
-employees who are not retained by NPC, the government, through the
+employees who are not retained by NAPOCOR, the government, through the
 Department of Labor and Employment (DOLE), shall endeavor to implement
 re-training, job counseling, and job placement programs.
 Page 96 of 100Section 6. Implementation.
-The DOE, NEA, and NPC, shall issue guidelines applicable to their
+The DOE, NEA, and NAPOCOR, shall issue guidelines applicable to their
 respective employees to implement this Rule within ninety (90) days from
 effectivity of these Rules: Provided, That in the case of ERC, the independent
 quasi-judicial body created under the Act, the manner of, and timetable for,
@@ -216,17 +216,17 @@ Consistent with the declared policy that the State shall protect the public
 interest as it is affected by the rates and services of electric utilities and
 other providers of electric power, and pursuant to Section 76 of the Act, the
 public shall be educated on the Restructuring of the electric power industry
-and Privatization of NPC.
+and Privatization of NAPOCOR.
 
 Section 2. Consumer Education.
 
-The DOE shall undertake, in coordination with the ERC, NPC, NEA and the
+The DOE shall undertake, in coordination with the ERC, NAPOCOR, NEA and the
 Department of Education (DepEd), DTI, Office of the Press Secretary (OPS) –
 Philippine Information Agency (PIA), the academe, and the non-government
 organizations and consumer groups or associations, continuing information,
 education and communication program for consumers. This shall include,
 but not be limited to, the following:
-(a) Industry Restructuring and NPC Privatization;
+(a) Industry Restructuring and NAPOCOR Privatization;
 (b) Implementation of Retail Competition and Open Access and their
 impact on End-users and on the proper use of electric power. It shall
 include the existence of competitive electricity suppliers, choice of

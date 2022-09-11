@@ -20,7 +20,7 @@ This Rule shall apply to the following:
 (a)
 Petitioners for availments from the Universal Charge.
 (i) PSALM for the Stranded Debts and Stranded Contract Costs of
-NPC;
+NAPOCOR;
 (ii) Distribution Utilities with respect to their Stranded Contract
 Costs of Eligible Contracts;
 
@@ -29,16 +29,16 @@ Costs of Eligible Contracts;
 (iv) Qualified Generation Companies with respect to the
 equalization of taxes and royalties between indigenous or
 Renewable Energy Resources and imported fuels;
-(v) NPC, with respect to the environmental charge of P0.0025 per
+(v) NAPOCOR, with respect to the environmental charge of P0.0025 per
 kilowatt-hour sales to be used for the rehabilitation and
 management of watershed areas; and
-(vi) NPC/PSALM and Distribution Utilities with respect to the
+(vi) NAPOCOR/PSALM and Distribution Utilities with respect to the
 mitigation of the removal of cross subsidies.
 Electricity End-users such as but not limited to:
 (i) All End-users of Distribution Utilities such as residential,
 commercial, and industrial including government and/or public
 buildings, irrigation systems, and special lightings;
-(ii) Directly-connected End-users of NPC such as but not limited to
+(ii) Directly-connected End-users of NAPOCOR such as but not limited to
 government agencies and institutions, and industrial
 enterprises;
 (iii) Persons using Self-Generation Facilities;
@@ -47,7 +47,7 @@ and
 (v) Other entities identified by the ERC pursuant to the intent of
 the Act.
 Section 3. Mitigation on the Removal of Cross Subsidies.
-(a) Unbundled rates of the NPC and the Distribution Utilities as approved
+(a) Unbundled rates of the NAPOCOR and the Distribution Utilities as approved
 by the ERC in accordance with Section 36 of the Act, shall reflect the
 respective costs of providing service to End-users without any type of
 cross subsidy. The removal of cross subsidies to the End-users of
@@ -83,7 +83,7 @@ the intended purposes:
 (e)
 (3)
 Stranded Debts and Stranded Contract Costs of
-NPC;
+NAPOCOR;
 Missionary Electrification;
 Equalization of taxes and royalties between
 indigenous or renewable sources of energy vis-à-vis
@@ -92,7 +92,7 @@ Environmental Charge of P0.0025 per kilowatt-hour
 sales for the rehabilitation and maintenance of
 watershed areas; and
 Mitigation Fund for the removal of cross-subsidies
-of NPC and Distribution Utilities.
+of NAPOCOR and Distribution Utilities.
 Period of disbursement by each of the beneficiaries as
 well as submission of reportorial requirements prescribed
 by the ERC.
@@ -234,20 +234,20 @@ Section 1. Creation of PSALM.
 Pursuant to Section 49 of the Act, a government-owned and -controlled
 corporation known as the “Power Sector Assets and Liabilities Management
 Corporation”, hereinafter referred to as the “PSALM Corp.” or “PSALM,” was
-created to take ownership of all existing NPC generation assets, liabilities,
+created to take ownership of all existing NAPOCOR generation assets, liabilities,
 IPP contracts, real estate and all other disposable assets. All outstanding
-obligations of the NPC arising from loans, issuances of bonds, securities and
+obligations of the NAPOCOR arising from loans, issuances of bonds, securities and
 other instruments of indebtedness shall be assumed by the PSALM, within
 one hundred eighty (180) days from the approval of the Act.
-NPC and PSALM shall take such measures and execute such documents to
+NAPOCOR and PSALM shall take such measures and execute such documents to
 effect the transfer of the ownership and possession of all the assets, rights,
-privileges, and liabilities required by the Act to be transferred by NPC to
+privileges, and liabilities required by the Act to be transferred by NAPOCOR to
 PSALM.
 Section 2. Purpose and Objective.
 The principal purpose of the PSALM is to manage the orderly sale,
-disposition, and Privatization of NPC generation assets, real estate and other
+disposition, and Privatization of NAPOCOR generation assets, real estate and other
 Page 63 of 100disposable assets, and IPP contracts with the objective of managing and
-liquidating all NPC financial obligations and stranded contract costs in an
+liquidating all NAPOCOR financial obligations and stranded contract costs in an
 optimal manner.
 Section 3. Domicile.
 The PSALM shall have its principal office and place of business within Metro
@@ -264,25 +264,25 @@ Section 5. Powers.
 PSALM shall, in the performance of its functions and for the attainment of
 its objectives, have the following powers:
 (a) To formulate and implement a program for the sale and Privatization
-of the NPC assets and IPP contracts and the management and
-liquidation of Stranded Debts and Stranded Contract Costs of NPC,
+of the NAPOCOR assets and IPP contracts and the management and
+liquidation of Stranded Debts and Stranded Contract Costs of NAPOCOR,
 such liquidation to be completed within the term of existence of the
 PSALM;
 (b) To take title to and possession of, administer and conserve the assets
 transferred to it, including the execution of bilateral contracts to sell
-power from undisposed assets and contracts transferred by NPC;
+power from undisposed assets and contracts transferred by NAPOCOR;
 (c) To sell or dispose the transferred assets at such price and under such
 terms and conditions as it may deem necessary or proper, subject to
 applicable laws, rules and regulations;
 (d) To take title to and possession of, and assume all rights and
-obligations of NPC under IPP contracts, and to appoint, after public
+obligations of NAPOCOR under IPP contracts, and to appoint, after public
 bidding in a transparent and open manner, qualified independent
 entities who shall act as IPP Administrators in accordance with the
 Act;
 (e) To calculate the amount of the Stranded Debts and Stranded Contract
-Costs of NPC which shall form part of the basis of the ERC in the
+Costs of NAPOCOR which shall form part of the basis of the ERC in the
 determination of the Universal Charge;
-(f) To liquidate Stranded Contract Costs of NPC utilizing proceeds from
+(f) To liquidate Stranded Contract Costs of NAPOCOR utilizing proceeds from
 appropriations, sales and other property contributed to it, including
 the proceeds from the Universal Charge;
 (g) To adopt rules and regulations as may be necessary or proper for the
@@ -290,7 +290,7 @@ orderly conduct of its business or operations;
 Page 64 of 100(h) To sue and be sued in its name;
 (i) To appoint or hire, transfer, remove and fix the compensation of its
 personnel and such advisors or other Persons as may be necessary in
-the sale, Privatization and disposition of NPC assets and IPP
+the sale, Privatization and disposition of NAPOCOR assets and IPP
 contracts: Provided, however, That PSALM shall hire its own
 personnel only if absolutely necessary, and as far as practicable, shall
 avail itself of the services of personnel detailed from other government
@@ -298,27 +298,27 @@ agencies;
 (j) To own, hold, acquire, or lease real and personal properties as may be
 necessary or required in the discharge of its functions;
 (k) To borrow money and incur such liabilities, as may be required to
-service all obligations transferred from NPC and loans from ECs
+service all obligations transferred from NAPOCOR and loans from ECs
 assumed from NEA in accordance with the relevant sections of these
 Rules, including the issuance of bonds, securities or other evidence of
 indebtedness utilizing its assets as collateral and/or through the
 guarantees of the National Government: Provided, That all such debts
 or borrowings shall have been paid off or settled before the end of its
 corporate life;
-(l) To restructure existing loans of the NPC;
-(m) To collect, administer, and apply NPC’s portion of the Universal
+(l) To restructure existing loans of the NAPOCOR;
+(m) To collect, administer, and apply NAPOCOR’s portion of the Universal
 Charge;
 (n) To issue other forms of financial instruments such as warrants,
 options, convertibles and to create Special Purpose Vehicles (SPVs) to
 maximize proceeds and value, as well as efficiently manage its
 liabilities;
-(o) To structure the sale, Privatization or disposition of NPC assets and
+(o) To structure the sale, Privatization or disposition of NAPOCOR assets and
 IPP Contracts and/or their energy output based on terms and
 conditions which shall optimize the value and sale prices of said
 assets;
 (p) To create and administer STFs under Section 34 of the Act and these
 Rules;
-(q) To operate the generation assets, directly or through NPC, prior to
+(q) To operate the generation assets, directly or through NAPOCOR, prior to
 Privatization of such assets. Towards this end, while PSALM operates
 the generation assets, it shall be considered a Generation Company;
 (r) To mitigate its potential stranded costs by making reasonable best
@@ -389,11 +389,11 @@ The following funds, assets, contributions and other properties shall
 constitute the property of the PSALM:
 (a)
 The generation assets, real estate, IPP Contracts, other disposable
-assets of NPC, proceeds from the operation or disposition of such
+assets of NAPOCOR, proceeds from the operation or disposition of such
 assets and the residual assets from BOT, ROT, and other variations
-thereof. The proceeds from the operation and disposition of NPC
+thereof. The proceeds from the operation and disposition of NAPOCOR
 assets shall include:
-(i) Net profit of NPC;
+(i) Net profit of NAPOCOR;
 (ii) Earning before interest, taxes, depreciation and amortization of
 the Pulangui and Agus Complexes;
 (iii) Net profit of TRANSCO;
@@ -403,11 +403,11 @@ transaction costs and fees associated with such disposition and
 Privatization; and
 (v) Net profit arising from the administration of IPPs.
 (b) Transfers from the National Government;
-(c) Proceeds from loans incurred to restructure or refinance NPC’s
+(c) Proceeds from loans incurred to restructure or refinance NAPOCOR’s
 transferred liabilities: Provided, That all borrowings shall be fully paid
 for or settled by the end of the life of the PSALM;
 (d) Proceeds from the Universal Charge allocated for Stranded Debts and
-Stranded Contract Costs of NPC;
+Stranded Contract Costs of NAPOCOR;
 (e) Official assistance, grants and donations from external sources;
 Page 67 of 100(f) Repayment by ECs of such ECs loans assumed by PSALM. Such
 repayments must be made within five (5) years from such assumption
@@ -415,7 +415,7 @@ of loans by PSALM by ECs who have transferred ownership or Control
 of its assets, franchise or operations pursuant to Section 60 of the
 Act;
 (g) Proceeds from insurance claims corresponding to assets transferred to
-PSALM by NPC; and
+PSALM by NAPOCOR; and
 (h) Other sources of funds as may be determined by PSALM necessary for
 the above-mentioned purposes.
 Section 12. Claims Against PSALM.
@@ -426,11 +426,11 @@ The following shall constitute the claims against PSALM:
 (d)
 (e)
 (f)
-NPC liabilities transferred to PSALM;
+NAPOCOR liabilities transferred to PSALM;
 Transfers from the National Government;
 New loans, such as, but not limited to those in the form of bonds,
 convertible instruments, warrants, leases and similar structures;
-Obligations under IPP contracts transferred by NPC to PSALM;
+Obligations under IPP contracts transferred by NAPOCOR to PSALM;
 Loans of ECs that are to be assumed by PSALM under Section 60 of
 the Act; and
 Expenses for rehabilitation and maintenance of Agus and Pulangi Complexes.

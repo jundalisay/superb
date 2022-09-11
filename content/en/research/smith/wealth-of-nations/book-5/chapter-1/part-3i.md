@@ -1,13 +1,9 @@
 ---
 title: "Private Copartneries vs Joint Stock Companies"
-heading: "Part 3g of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3g of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "Joint stock companies, established by royal charter or by act of parliament, differ from regulated companies and private copartneries"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3f"
-linkftext: "Part 3f"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3h"
-linkbtext: "Part 3h"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

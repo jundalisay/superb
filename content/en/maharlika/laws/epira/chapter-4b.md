@@ -1,8 +1,18 @@
-SEC. 45. Cross Ownership, Market Power Abuse and Anti-Competitive Behavior
+---
+heading: "Chapter 4b"
+title: "Cross Ownership, Market Power Abuse and Anti-Competitive Behavior"
+description: "EPIRA Republic Act 9136"
+image: "/photos/physics/light.jpg"
+date: 2021-09-21
+---
+
+
+## SEC. 45. Cross Ownership, Market Power Abuse and Anti-Competitive Behavior
 
 No participant in the electricity industry or any other person may engage in any anti-competitive behavior including, but
 not limited to, cross-subsidization, price or market manipulation, or other unfair trade practices detrimental
 to the encouragement and protection of contestable markets.
+
 No generation company, distribution utility, or its respective subsidiary or affiliate or stockholder
 or official of a generation company or distribution utility, or other entity engaged in generating and
 supplying electricity specified by ERC within the fourth civil degree of consanguinity or affinity, shall be
@@ -12,10 +22,12 @@ fourth civil degree of consanguinity or affinity, shall not hold any interest, w
 any generation company or distribution utility. Except for ex officio government-appointed representatives,
 no person who is an officer or director of the TRANSCO or its concessionaire shall be an officer or director
 of any generation company, distribution utility or supplier.
+
 An “affiliate” means any person which, alone or together with any other person, directly or
 indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with
 another person. As used herein, “control” shall mean the power to direct or cause the direction of the
 management policies of a person by contract, agency or otherwise.
+
 To promote true market competition and prevent harmful monopoly and market power abuse, the
 ERC shall enforce the following safeguards:
 (a) No company or related group can own, operate or control more than thirty percent (30%) of
@@ -39,10 +51,10 @@ bilateral power supply contracts.
 For purposes of this Section, the grid basis shall consist of three (3) separate grids, namely Luzon,
 Visayas and Mindanao. The ERC shall have the authority to modify or amend this definition of a grid when
 two or more of the three separate grids become sufficiently interconnected to constitute a single grid or as
-conditions may otherwise permit.Exceptions from these limitations shall be allowed for isolated grids that are not connected to the
-high voltage transmission system. Except as otherwise provided for in this Section, any restriction on
+conditions may otherwise permit.Exceptions from these limitations shall be allowed for isolated grids that are not connected to the high voltage transmission system. Except as otherwise provided for in this Section, any restriction on
 ownership and/or control between or within sectors of the electricity industry may be imposed by ERC only
 insofar as the enforcement of the provisions of this Section is concerned.
+
 The ERC shall, within one (1) year from the effectivity of this Act., promulgate rules and
 regulations to ensure and promote competition, encourage market development and customer choice and
 discourage/penalize abuse of market power, cartelization and any anti-competitive or discriminatory

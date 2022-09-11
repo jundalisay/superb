@@ -44,15 +44,15 @@ Physicists think that somehow, adding more electricty will make the process more
 
 The problem is that this method only applies to the last three layers of our five layer model, specifically, the electromagnetic, radioactive, and material layers. 
 
-![5 Layers of Superphysics](https://sorasystem.sirv.com/graphics/layers.png)
-<figcaption>Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, radioactive, and material, or 水, 木, 火, 土, 金, respectively</figcaption>
+{{< img src="/graphics/physics/egllayers.png" cap="Superphysics uses the five layers of aether, air, fire, water, and earth of the Greeks and Asians as aether, spatial, radiant, radioactive, and material, or 水, 木, 火, 土, 金, respectively" alt="5 Layers of Superphysics" >}}
 
 
-It does not apply to the upper two layers of the spatial or aetheric, where crudity is replaced by precision and sophistication. The technological designs for the lower three layers are so simplistic:
+
+It does not apply to the upper two layers of the spatial or aethereal, where crudity is replaced by precision and sophistication. The technological designs for the lower three layers are so simplistic:
 - the general design of combustion-based rockets is based on a simple tube
 - all air-based airplanes are a tubes with two wings 
 
-The Spatial (gravitational layer) is different because it is based on points, and points connected with other points lead to geometries. These are then manipulated by the upper aetherial layer which is based on waves, examples of which are sounds and waves of feelings. In the aethereal layer, the points of the spatial layer manifest as discrete ideas instead of discrete objects and matter.
+The Spatial (gravitational layer) is different because it is based on points, and points connected with other points lead to geometries. These are then manipulated by the upper aethereal layer which is based on waves, examples of which are sounds and waves of feelings. In the aethereal layer, the points of the spatial layer manifest as discrete ideas instead of discrete objects and matter.
 
 Historically, these geometries manifest as pyramids and pyramid blocks which must be precise as to fit perfectly like lego bricks. 
 

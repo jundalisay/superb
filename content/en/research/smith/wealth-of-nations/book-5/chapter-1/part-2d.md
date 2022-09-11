@@ -1,13 +1,9 @@
 ---
 title: "Justice Fees from Gifts to Gratis"
 heading: "Chapter 1 Part 2c"
-date: 2020-12-27
+date: 2020-12-16
 image: "/covers/wn.jpg"
 description: "Justice never was in reality administered gratis in any country"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-2c"
-linkbtext: "Part 2c"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3a"
-linkftext: "Part 3a"
 icon: "/icons/smith.png"
 ---
 

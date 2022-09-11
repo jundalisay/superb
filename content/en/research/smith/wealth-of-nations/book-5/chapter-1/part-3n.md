@@ -1,13 +1,9 @@
 ---
 title: "The Board of Directors"
-heading: "Part 3n of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3n of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "Frequently a wealthy man is willing to buy £1,000 share in India stock merely to get a vote in its board of directors"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3m"
-linkftext: "Part 3m"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3o"
-linkbtext: "Part 3o"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

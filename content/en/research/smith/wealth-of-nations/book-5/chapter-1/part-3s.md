@@ -1,13 +1,9 @@
 ---
 title: "European Education"
-heading: "Part 3s of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3s of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "The changes introduced by European universities into the ancient course of philosophy were all meant to educate ecclesiastics"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3r"
-linkftext: "Part 3r"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3t"
-linkbtext: "Part 3t"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

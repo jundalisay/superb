@@ -177,7 +177,7 @@ computation and determination.
 isolated areas.
 Section 6.
 Unbundled Rate Filing Requirements.
-(a) As required by the Act, NPC and Distribution Utilities shall file within
+(a) As required by the Act, NAPOCOR and Distribution Utilities shall file within
 six (6) months from the effectivity of the Act for revised rates with
 costs and other relevant accounts unbundled by business activity.
 (b) The ERC shall within six (6) months from the date of submission of
@@ -202,7 +202,7 @@ Charge which shall be collected from all electricity End-users. Such level of
 cross subsidies shall be made transparent and identified separately in the
 billing statements provided to End-users by the Suppliers.
 Section 2. Scope of Application.
-This Rule shall apply to NPC, TRANSCO or its Buyer or Concessionaire,
+This Rule shall apply to NAPOCOR, TRANSCO or its Buyer or Concessionaire,
 Distribution Utilities and PSALM.
 Section 3. Calculation of Cross Subsidies.
 (a) The ERC may extend the period for the removal of cross subsidies for
@@ -211,7 +211,7 @@ mechanism would have a material adverse effect upon the public
 interest, particularly the residential End-user; or would have an
 immediate, irreparable, and adverse financial effect on Distribution
 Utility.
-(b) The cross subsidy between Grids in the rates of NPC shall be
+(b) The cross subsidy between Grids in the rates of NAPOCOR shall be
 calculated on a net basis for each Grid as the difference between:
 (c)
 (i) The total revenues that would have been collected on the Grid
@@ -222,7 +222,7 @@ consumption and other factors as ERC may specify; and
 submitted in accordance with Rule 15 on Unbundling of Rates
 and the rate filing requirements that the ERC may issue
 pursuant to Rule 15, using the same historical test year.
-The cross subsidy within each Grid in the rates of NPC shall be
+The cross subsidy within each Grid in the rates of NAPOCOR shall be
 calculated on a net basis for each customer class within the Grid as
 the difference between:
 (i) The total revenues that would have been collected from a
@@ -267,7 +267,7 @@ removal of the cross subsidies. The ERC shall determine which End-
 users shall continue to receive subsidies and the level of subsidies
 such End-users shall receive during the phase out period.
 (c) Together with their filings of unbundled rates reflecting the true costs
-of service, pursuant to Rule 15 on Unbundling of Rates, NPC and the
+of service, pursuant to Rule 15 on Unbundling of Rates, NAPOCOR and the
 Distribution Utilities shall file with ERC their proposals for the
 removal of cross subsidies among the End-users they serve to be
 considered by ERC in the formulation of the phase out scheme.
@@ -297,11 +297,11 @@ Guiding Principle.
 Pursuant to Sections 32 and 33 of the Act, there are three (3) types of
 stranded costs recoverable through the Universal Charge:
 (a) Stranded Debts;
-(b) Stranded Contract Costs of NPC; and
+(b) Stranded Contract Costs of NAPOCOR; and
 (c) Stranded Contract Costs of Eligible Contracts of Distribution Utilities.
 Section 2.
 Scope of the Application.
-This Rule shall apply to NPC, PSALM and Distribution Utilities with IPP
+This Rule shall apply to NAPOCOR, PSALM and Distribution Utilities with IPP
 contracts approved by the ERB as of 31 December 2000.
 Section 3.
 Procedures and Methodology for Stranded Cost
@@ -326,18 +326,18 @@ past year; and
 (ii) revised stranded cost amounts based on current market
 information.
 Section 4.
-NPC Stranded Debt and Stranded Contract Cost Recovery.
+NAPOCOR Stranded Debt and Stranded Contract Cost Recovery.
 (a) Consistent with Section 32 of the Act, the National Government shall
-directly assume a portion of the financial obligations of NPC
+directly assume a portion of the financial obligations of NAPOCOR
 transferred to PSALM in an amount not to exceed Two Hundred
 Billion Pesos (P200,000,000,000.00).
 (b) The following guidelines shall govern the recovery by the PSALM of the
-Stranded Debts and Stranded Contract Costs of NPC:
+Stranded Debts and Stranded Contract Costs of NAPOCOR:
 (i) PSALM shall calculate the amount of the Stranded Debts and
-Stranded Contract Costs of NPC that shall form part of the
+Stranded Contract Costs of NAPOCOR that shall form part of the
 Universal Charge to be determined, fixed, and approved by the
 ERC and reviewed by the same body annually. In determining
-the amount of Stranded Contract Costs of NPC, PSALM may
+the amount of Stranded Contract Costs of NAPOCOR, PSALM may
 include in such calculation the principal amount and interest
 expenses of any such debt raised by PSALM to finance the buy-
 out or buy-down of any eligible IPP contract, i.e. contracts
@@ -354,7 +354,7 @@ Universal Charge attributable to such IPP contract.
 (ii) The ERC shall verify the reasonable amounts of claims
 petitioned by PSALM and determine the manner and duration
 by which full recovery of Stranded Debt and Stranded Contract
-Costs of NPC is attained: Provided, That the duration for such
+Costs of NAPOCOR is attained: Provided, That the duration for such
 recovery shall not be shorter than fifteen (15) years nor longer
 than twenty-five (25) years.
 (iii) Any amount to be included for stranded cost recovery shall be
@@ -374,9 +374,9 @@ within the date specified shall mean non-eligibility for such recovery.
 however, That such costs of the IPPs of Distribution Utilities are
 subject to review by ERC in order to determine fairness and
 reasonableness in relation to the average price of land-based IPP
-projects entered into by NPC at the time they were contracted. The
+projects entered into by NAPOCOR at the time they were contracted. The
 ERC shall take into consideration all factors that affect the total cost
-of NPC IPP generation projects, including direct or indirect subsidies
+of NAPOCOR IPP generation projects, including direct or indirect subsidies
 or incentives provided by the Government .
 (c) Any Distribution Utility which seeks to recover stranded costs shall
 have the duty to mitigate its potential stranded costs by exerting

@@ -22,11 +22,11 @@ Power Commission.
 
 The Commission shall, in aid of legislation, perform the following functions, among others:
 
-(a) Set the guidelines and overall framework to monitor and ensure the proper implementation of this Act;
-(b) Endorse the initial privatization plan within one (1) month from submission of such plan to the Power Commission by PSALM Corp. for approval by the President of the Philippines
-(c) To ensure transparency, require the submission of reports from government agencies concerned on the conduct of public bidding procedures regarding privatization of NPC generation and transmission assets;
-(d) Review and evaluate the performance of the industry participants in relation to the objectives and timelines set forth in this Act;
-(e) Approve the budget for the programs of the Power Commission and all disbursements therefrom, including compensation of all personnel;(f) Submit periodic reports to the President of the Philippines and Congress;
+- Set the guidelines and overall framework to monitor and ensure the proper implementation of this Act;
+- Endorse the initial privatization plan within one (1) month from submission of such plan to the Power Commission by PSALM Corp. for approval by the President
+- To ensure transparency, require the submission of reports from government agencies concerned on the conduct of public bidding procedures regarding privatization of NAPOCOR generation and transmission assets
+- Review and evaluate the performance of the industry participants in relation to the objectives and timelines set forth in this Act
+- Approve the budget for the programs of the Power Commission and all disbursements therefrom, including compensation of all personnel;(f) Submit periodic reports to the President of the Philippines and Congress;
 (g) Determine inherent weaknesses in the law and recommend necessary remedial legislation or executive measures; and
 (h) Perform such other duties and functions as may be necessary to attain its objectives.
 In furtherance hereof, the Power Commission is hereby empowered to require the DOE, ERC,
@@ -50,33 +50,30 @@ electricity industry reforms as provided in this Act. To carry out its powers an
 25m pesos shall be charged against the current appropriations of the Senate. 
 
 Thereafter, such amount necessary for its continued operation shall be included in the annual General Appropriations Act.
-The Power Commission shall exist for period of ten (10) years from the effectivity of this Act and
-may be extended by a joint concurrent resolution.
+The Power Commission shall exist for period of ten (10) years from the effectivity of this Act and may be extended by a joint concurrent resolution.
 
-SEC. 63. Separation Benefits of Officials and Employees of Affected Agencies. – 
+## SEC. 63. Separation Benefits of Officials and Employees of Affected Agencies
 
-National government employees displaced or separated from the service as a result of the restructuring of the
-electricity industry and privatization of NPC assets pursuant to this Act, shall be entitled to either a
-separation pay and other benefits in accordance with existing laws, rules or regulations or be entitled to
-avail of the privileges provided under a separation plan which shall be one and one-half month salary for
-every year of service in the government: Provided, however, That those who avail of such privilege shall
-start their government service anew if absorbed by any government-owned successor company. In no case
-shall there be any diminution of benefits under the separation plan until the full implementation of the
+National government employees displaced or separated from the service as a result of the restructuring of the electricity industry and privatization of NAPOCOR assets pursuant to this Act, shall be entitled to either a separation pay and other benefits in accordance with existing laws, rules or regulations or be entitled to avail of the privileges provided under a separation plan which shall be one and one-half month salary for every year of service in the government: Provided, however, That those who avail of such privilege shall start their government service anew if absorbed by any government-owned successor company. 
+
+In no case shall there be any diminution of benefits under the separation plan until the full implementation of the
 restructuring and privatization.
-Displaced or separated personnel as a result of the privatization, if qualified, shall be given
-preference in the hiring of the manpower requirements of the privatized companies.
-The salaries of employees of NPC shall continue to be exempt from the coverage of Republic Act
-No. 6758, otherwise known as “The Salary Standardization Act”.
-With respect to employees who are not retained by NPC, the government, through the Department
-of Labor and Employment, shall endeavor to implement re-training, job counseling, and job placement
-programs.
 
-SEC. 64. Fiscal Prudence
+Displaced or separated personnel as a result of the privatization, if qualified, shall be given preference in the hiring of the manpower requirements of the privatized companies. 
 
-To promote the prudent management of government resources, the creation of new positions and the levels of or increase in salaries and all other emoluments and benefits of TRANSCO and PSALM Corp. personnel shall be subject to the approval of the President of the
-Philippines. The compensation and all other emoluments and benefits of the officials and members of theBoard of the TRANSCO and PSALM Corp. shall be subject to the approval of the President of the Philippines.
+The salaries of employees of NAPOCOR shall continue to be exempt from the coverage of RA 6758, otherwise known as “The Salary Standardization Act”. 
 
-SEC. 65. Environmental Protection
+With respect to employees who are not retained by NAPOCOR, the government, through the Department of Labor and Employment, shall endeavor to implement re-training, job counseling, and job placement programs.
+
+
+## SEC. 64. Fiscal Prudence
+
+To promote the prudent management of government resources, the creation of new positions and the levels of or increase in salaries and all other emoluments and benefits of TRANSCO and PSALM Corp. personnel shall be subject to the approval of the President. 
+
+The compensation and all other emoluments and benefits of the officials and members of theBoard of the TRANSCO and PSALM shall be subject to the approval of the President of the Philippines.
+
+
+## SEC. 65. Environmental Protection
 
 Participants in the generation, distribution and transmission sub-sectors of the industry shall comply with all environmental laws, rules, regulations and standards promulgated by the Department of Environment and Natural Resources including, in appropriate cases, the
 establishment of an environmental guarantee fund.
@@ -97,8 +94,8 @@ thereof, the DILG shall, upon prior notice and hearing, order the project operat
 withhold the remittance of the royalty payment to the host community concerned pending completion of the
 investigation. The unremitted funds shall be deposited in a government bank under a trust fund.
 
-SEC. 67. NPC Offer of Transition Supply Contracts. – Within six (6) months from the effectivity
-of this Act, NPC shall file with the ERC for its approval a transition supply contract duly negotiated with
+SEC. 67. NAPOCOR Offer of Transition Supply Contracts. – Within six (6) months from the effectivity
+of this Act, NAPOCOR shall file with the ERC for its approval a transition supply contract duly negotiated with
 the distribution utilities containing the terms and conditions of supply and a corresponding schedule of
 rates, consistent with the provisions hereof, including adjustments and/or indexation formulas which shall
 apply to the term of such contracts. The term of the transition supply contracts shall not extend beyond one
@@ -106,17 +103,17 @@ apply to the term of such contracts. The term of the transition supply contracts
 (1) year from the introduction of open access. Such contracts shall be based on the projected demand of
 such utilities less any of their currently committed quantities under eligible IPP contracts as defined in
 Section 33 hereof: Provided, That the total generation capacity of such signed transition supply contracts
-shall not exceed the level of NPC owned, controlled or committed capacity as of the effectivity of this
-Act. Such transition supply contracts shall be assignable to the NPC successor generating companies.
-Within six (6) months from the date of submission of the transition supply contract by NPC, the
-ERC shall notify NPC of their approval of the rates contained therein.
+shall not exceed the level of NAPOCOR owned, controlled or committed capacity as of the effectivity of this
+Act. Such transition supply contracts shall be assignable to the NAPOCOR successor generating companies.
+Within six (6) months from the date of submission of the transition supply contract by NAPOCOR, the
+ERC shall notify NAPOCOR of their approval of the rates contained therein.
 
-The ERC shall maintain a record of the contract terms and rates offered by NPC. Likewise, the
+The ERC shall maintain a record of the contract terms and rates offered by NAPOCOR. Likewise, the
 ERC shall update monthly, the rates using the appropriate adjustment and/or indexation formula.
 Notwithstanding the provisions of Section 25 hereof, the rates charged by a distribution utility for
 the generation component of the supply of electricity in their distribution retail supply rate shall, for the
 term of the transition supply contracts, not exceed the transition supply contract rates, as updated monthly.
 
-The recovery of costs incurred by a distribution utility for any generation component in excess of the transition supply contract rates shall be disallowed by the ERC, except for eligible contracts as defined under Section 33 hereof: Provided, That such limitation on the recovery of generation component costs by a distribution utility shall apply only to the equivalent quality and quantity of electricity still available to the distribution utility from NPC.
+The recovery of costs incurred by a distribution utility for any generation component in excess of the transition supply contract rates shall be disallowed by the ERC, except for eligible contracts as defined under Section 33 hereof: Provided, That such limitation on the recovery of generation component costs by a distribution utility shall apply only to the equivalent quality and quantity of electricity still available to the distribution utility from NAPOCOR.
 
 

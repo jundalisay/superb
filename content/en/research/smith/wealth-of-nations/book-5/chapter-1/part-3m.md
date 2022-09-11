@@ -1,13 +1,9 @@
 ---
 title: "The British East India Joint Stock Company (1600-1874)"
-heading: "Part 3o of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3o of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "The old English East India Company was established in 1600 by a charter from Queen Elizabeth"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3i"
-linkftext: "Part 3i"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3k"
-linkbtext: "Part 3k"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

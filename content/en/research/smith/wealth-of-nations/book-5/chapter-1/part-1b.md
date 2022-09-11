@@ -1,15 +1,11 @@
-+++
-title=  "The Development of Militaries"
-description=  "The art of war is certainly the noblest of all arts."
-date=  2020-12-30
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-9b-unproductive"
-linkbtext=  "unproductive"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-9d-foreign-systems"
-linkftext=  "foreign-systems"
-heading=  "Chapter 1 Part 1a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Development of Militaries"
+heading: "Chapter 1 Part 1b"
+date: 2020-12-29
+image: "/covers/wn.jpg"
+description: "The art of war is certainly the noblest of all arts"
+icon: "/icons/smith.png"
+---
 
 
 
@@ -47,7 +43,7 @@ From the time of the siege of Veii, the Roman armies received pay while they rem
 Under the feudal governments, the military service of the great lords and of their dependants was universally exchanged for a payment in money which maintained those who served.
 
 
-10 Fewer people can go to war in a civilized society than one in a rude state.
+{{< s v="10" >}} Fewer people can go to war in a civilized society than one in a rude state.
 
 In a civilized society, the soldiers are maintained by those who are not soldiers.
 The number of soldiers can never exceed what the non-soldiers can maintain.

@@ -67,7 +67,7 @@ Buyer or Concessionaire.
 The TRANSCO or its Buyer or Concessionaire shall have, among others, the
 following functions and responsibilities:
 (a) Act as the system operator of the nationwide electrical transmission
-and Subtransmission System, transferred to it by NPC;
+and Subtransmission System, transferred to it by NAPOCOR;
 (b) Provide open and non-discriminatory access to its system to all
 electricity users;
 (c) Ensure and maintain the reliability, adequacy, security, stability and
@@ -231,7 +231,7 @@ Utility upon acquisition of the subtransmission facilities: Provided,
 however, That the Distribution Utility which acquired the
 subtransmission facilities shall be paid by the End-user the
 corresponding subtransmission rates or wheeling charge imposed by
-Page 28 of 100NPC in accordance with its contract to the End-user as approved by
+Page 28 of 100NAPOCOR in accordance with its contract to the End-user as approved by
 ERC.
 (b) A Distribution Utility shall structurally and functionally unbundle its
 distribution business activities and rates from its wires, generation

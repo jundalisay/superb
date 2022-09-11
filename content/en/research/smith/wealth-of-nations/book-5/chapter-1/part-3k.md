@@ -1,13 +1,9 @@
 ---
 title: "The Hudson's Bay (1660-1752) and South Sea Joint Stock Companies"
-heading: "Part 3i of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3i of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "The Royal African Company is the predecessor of the present African Company"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3h"
-linkftext: "Part 3h"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3j"
-linkbtext: "Part 3j"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

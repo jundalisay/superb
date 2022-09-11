@@ -1,13 +1,9 @@
 ---
 title: "The South Sea Joint Stock Company"
-heading: "Part 3l of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3l of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "The South Sea Joint Stock Company never had any forts or garrisons to maintain. But they had an immense capital divided among so many proprietors"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3k"
-linkftext: "Part 3k"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3o"
-linkbtext: "Part 3o"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

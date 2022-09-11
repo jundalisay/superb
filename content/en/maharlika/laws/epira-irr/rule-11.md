@@ -18,7 +18,7 @@ Section 2. Scope of Application.
 This Rule shall apply to all Persons, including all Electric Power Industry Participants, such as but not limited to Generation Companies, subsidiaries
 and Affiliates of Generation Companies, stockholders and officials of
 Generation Companies, IPP Administrators, Distribution Utilities, Suppliers,
-NPC, and the TRANSCO or its Buyer or Concessionaire.
+NAPOCOR, and the TRANSCO or its Buyer or Concessionaire.
 
 Section 3. Prohibition of Cross Ownership.
 
@@ -35,7 +35,7 @@ who is an officer or director of the TRANSCO or its Buyer or
 Concessionaire shall be an officer or director of any Generation
 Company, IPP Administrators, Distribution Utility or Supplier.
 (d) This Section shall not apply to PSALM in the course of its
-Privatization of NPC assets pursuant to Sec. 47 of the Act.
+Privatization of NAPOCOR assets pursuant to Sec. 47 of the Act.
 Section 4. Limits on Concentration of Ownership,
 Control of Installed Generating Capacity.
 Operation
@@ -44,7 +44,7 @@ or
 combination, can own, operate or Control more than thirty percent
 (30 %) of the installed generating capacity of a Grid and/or twenty-five
 percent (25%) of the national installed generating capacity: Provided,
-That such restrictions shall not apply to PSALM or NPC during the
+That such restrictions shall not apply to PSALM or NAPOCOR during the
 time that its assets are being privatized pursuant to Section 47 of the
 Act and isolated grids that are not connected to the high voltage
 transmission system.
@@ -61,7 +61,7 @@ the Person controlling the capacity of the Generation Facility.
 Section 5. Limits on Bilateral Supply Contracts by a Distribution
 Utility.
 (a) A Distribution Utility may enter into bilateral power supply contracts
-subject to the provisions of Section 5 of Rule 30 on NPC Offer of
+subject to the provisions of Section 5 of Rule 30 on NAPOCOR Offer of
 Transition Supply Contracts and a review by the ERC: Provided, That
 such review shall only be required for a Distribution Utility whose
 level of Open Access has not reached household demand level.
@@ -196,7 +196,7 @@ for itself or its Affiliates.
 TRANSCO or its Buyer or
 Concessionaire shall provide all regulated services and shall
 apply Transmission Charges to any Electric Power Industry
-Participant in the same manner as it does for PSALM or NPC.
+Participant in the same manner as it does for PSALM or NAPOCOR.
 (g) Misrepresentation or false advertising of a Distribution Utility: A
 Distribution Utility or its Affiliate shall not state or imply that any
 distribution service provided to an Affiliate is inherently superior,
@@ -237,7 +237,7 @@ Wholesale Electricity Spot Market (WESM).
 (b)
 Approval of unbundled Transmission and Distribution Wheeling
 Charges.
-The ERC shall approve the unbundled rates of NPC and Distribution
+The ERC shall approve the unbundled rates of NAPOCOR and Distribution
 Utilities, which shall include the transmission and wheeling charges,
 within one (1) year from the effectivity of the Act.
 (c)
@@ -249,10 +249,10 @@ guidelines or a schedule for the removal of each type of cross subsidy
 and may be altered, modified and/or amended by the ERC pursuant
 to Rule 16 on Removal of Cross Subsidies.
 (d) Privatization of at least seventy (70%) percent of the total capacity of
-generating assets of NPC in Luzon and Visayas.
+generating assets of NAPOCOR in Luzon and Visayas.
 (e) Transfer of the management and control of at least seventy percent
 (70%) of the total energy output of power plants under contract with
-NPC to the IPP Administrators.
+NAPOCOR to the IPP Administrators.
 Page 46 of 100Section 4.
 Specification of the Contestable Market for Open Access.
 Upon the initial implementation of Open Access, the ERC shall allow all

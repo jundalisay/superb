@@ -1,13 +1,9 @@
 ---
 title: "Scholarships"
-heading: "Part 3q of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3q of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "University Education"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3p"
-linkftext: "Part 3p"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3r"
-linkbtext: "Part 3r"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

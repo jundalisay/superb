@@ -1,13 +1,9 @@
 ---
 title: "The Royal African Joint Stock Company (1660-1752)"
-heading: "Part 3h of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3h of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "The Royal African Company is the predecessor of the present African Company"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3g"
-linkftext: "Part 3g"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3i"
-linkbtext: "Part 3i"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

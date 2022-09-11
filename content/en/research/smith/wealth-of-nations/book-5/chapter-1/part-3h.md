@@ -1,13 +1,9 @@
 ---
 title: "The African Regulated Company of Merchants (1752-1821)"
-heading: "Part 3f of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3f of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "The 23rd of George 2nd chapter 31 established the African Company"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3e"
-linkftext: "Part 3e"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3g"
-linkbtext: "Part 3g"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

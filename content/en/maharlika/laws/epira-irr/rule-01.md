@@ -18,7 +18,7 @@ Participants, non-government organizations, End-users and consumers, such rules 
 of the Act and pursuant to the exercise of such other powers as may be necessary or incidental to attain the objectives of the Act. These Rules shall
 govern the relation and responsibilities of Electric Power Industry
 Participants and governmental authorities, including but not limited to: the
-DOE, NPC, NEA, ERC, and PSALM.
+DOE, NAPOCOR, NEA, ERC, and PSALM.
 
 RULE 2. DECLARATION OF POLICY
 
@@ -46,14 +46,14 @@ and infrastructure;
 energy resources in power generation in order to reduce dependence
 on imported energy;
 (i) To provide for an orderly and transparent Privatization of the assets
-and liabilities of the NPC;
+and liabilities of the NAPOCOR;
 (j) To establish a strong and purely independent regulatory body and
 system to ensure consumer protection and enhance the competitive
 operation of the electricity market; and
 (k) To encourage the efficient use of energy and other modalities of
 Demand Side Management (DSM).
 
-RULE 3: RESPONSIBILITIES OF THE DOE, ERC, NPC, NEA AND PSALM
+RULE 3: RESPONSIBILITIES OF THE DOE, ERC, NAPOCOR, NEA AND PSALM
 
 Section 1. Responsibilities of the DOE.
 
@@ -87,7 +87,7 @@ may issue. The DOE, following its approval of the Transmission
 Development Plan (TDP) prepared by the National Transmission
 Corporation (TRANSCO) or its Buyer or Concessionaire, shall integrate
 the TDP with the annual development plans of Distribution Utilities
-and NPC, and other relevant data as are available to DOE, which shall
+and NAPOCOR, and other relevant data as are available to DOE, which shall
 be incorporated in the PEP;
 (d) Ensure the reliability, quality and security of supply of electric power;
 (e) Following the Restructuring of the electricity sector, the DOE shall,
@@ -103,10 +103,10 @@ lower costs;
 system of incentives to encourage Electric Power Industry
 Participants, including new Generation Companies and End-
 users, to provide adequate and reliable electric supply; and
-(iv) Undertake, in coordination with the ERC, NPC, NEA and the
+(iv) Undertake, in coordination with the ERC, NAPOCOR, NEA and the
 Philippine Information Agency (PIA), information campaigns to
 educate the public on the Restructuring of the electricity sector
-and Privatization of NPC assets;
+and Privatization of NAPOCOR assets;
 (f) Jointly with the Electric Power Industry Participants, establish the
 Wholesale Electricity Spot Market (WESM) and formulate the detailed
 rules governing the operations thereof;
@@ -163,10 +163,10 @@ proprietary or commercially sensitive information; and
 Page 4 of 100(r)
 Exercise such other powers as may be necessary or incidental to
 attain the objectives of the Act.
-Section 2. Responsibilities of the NPC.
+Section 2. Responsibilities of the NAPOCOR.
 (a) Pursuant to Section 70 of the Act, notwithstanding the divestment
-and/or Privatization of NPC assets, IPP contracts and spun-off
-corporations, NPC shall remain as a National Government-owned and
+and/or Privatization of NAPOCOR assets, IPP contracts and spun-off
+corporations, NAPOCOR shall remain as a National Government-owned and
 –controlled corporation to perform the missionary electrification
 function through the Small Power Utilities Group (SPUG) and shall be
 responsible for providing power generation and its associated power
@@ -175,15 +175,15 @@ system. The missionary electrification function shall be funded from
 the revenues from sales in missionary areas and from the Universal
 Charge to be collected from all electricity End-users as determined by
 the ERC.
-(b) Consistent with Section 34(d) of the Act, the NPC shall manage under
+(b) Consistent with Section 34(d) of the Act, the NAPOCOR shall manage under
 existing arrangements, an environmental charge equivalent to
 P0.0025 per kilowatt-hour (kWh) sales, intended solely for the
 rehabilitation and management of watersheds nationwide.
-(c) Pursuant to Section 47(f) of the Act, NPC shall continue to operate
+(c) Pursuant to Section 47(f) of the Act, NAPOCOR shall continue to operate
 Agus and Pulangui complexes, which shall be owned by PSALM.
-(d) Pursuant to Section 47(j) of the Act, NPC/PSALM may continue to
+(d) Pursuant to Section 47(j) of the Act, NAPOCOR/PSALM may continue to
 generate and sell electricity only from the undisposed generating
-assets and IPP contracts of PSALM. NPC/PSALM shall not incur any
+assets and IPP contracts of PSALM. NAPOCOR/PSALM shall not incur any
 new obligations to purchase power through bilateral contracts with
 Generation Companies or other Suppliers.
 Section 3. Responsibilities of the NEA.
@@ -292,7 +292,7 @@ other WESM Participants. In cases of national and international
 security emergencies or natural calamities, it can suspend spot
 market operations within the WESM.
 (j) The ERC shall ensure that Electric Power Industry Participants and
-NPC functionally and structurally unbundle their respective business
+NAPOCOR functionally and structurally unbundle their respective business
 activities and rates and determine the levels of cross subsidies in the
 existing Retail Rates until the same is removed in accordance with the
 sectors as identified in and as required by Sections 5, 36 and 74 of
@@ -347,17 +347,17 @@ requirement shall not apply to applications filed pursuant to Section
 36 of the Act.
 Section 5. Responsibilities of the PSALM.
 (a) Consistent with Section 49 of the Act, PSALM shall take ownership of
-all existing NPC generation assets, liabilities, IPP contracts, real estate
-and all other disposable assets. All outstanding obligations of NPC
+all existing NAPOCOR generation assets, liabilities, IPP contracts, real estate
+and all other disposable assets. All outstanding obligations of NAPOCOR
 arising from loans, issuances of bonds, securities and other
 instruments of indebtedness shall be transferred to and assumed by
 PSALM.
 (b) The PSALM shall formulate and implement a program for the sale and
-Privatization of the NPC assets and IPP contracts and the liquidation
-of NPC Debts and Stranded Contract Costs in accordance with the
+Privatization of the NAPOCOR assets and IPP contracts and the liquidation
+of NAPOCOR Debts and Stranded Contract Costs in accordance with the
 Act.
 It shall calculate the amount of the Stranded Debts and Stranded
-Contract Costs of NPC, which amount shall form part of the Universal
+Contract Costs of NAPOCOR, which amount shall form part of the Universal
 Charge to be determined, fixed, and approved by the ERC.
 (c)
 Pursuant to Section 60 of the Act, the PSALM shall assume all

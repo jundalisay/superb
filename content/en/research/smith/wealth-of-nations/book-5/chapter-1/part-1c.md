@@ -1,15 +1,11 @@
-+++
-title=  "Two Methods of Defense: Militias and Armies"
-description=  "The state can use 2 methods for the public defence"
-date=  2020-12-29
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-1a"
-linkbtext=  "part-1a"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-1c"
-linkftext=  "part-1c"
-heading=  "Part 1b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Two Methods of Defense: Militias and Armies"
+heading: "Chapter 1 Part 1c"
+date: 2020-12-27
+image: "/covers/wn.jpg"
+description: "The state can use 2 methods for the public defence"
+icon: "/icons/smith.png"
+---
 
 
 

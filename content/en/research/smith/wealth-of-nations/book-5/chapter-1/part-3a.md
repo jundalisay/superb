@@ -1,14 +1,12 @@
-+++
-title=  "Public Works and Institutions"
-description=  "The sovereign's third and last duty is building and maintaining advantageous public works and institutions for society."
-date=  2020-12-25
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-2b"
-linkbtext=  "Part 2b"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3b"
-linkftext=  "Part 3b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Public Works and Institutions"
+heading: "Chapter 1 Part 3a"
+date: 2020-12-14
+image: "/covers/wn.jpg"
+description: "The sovereign's third and last duty is building and maintaining advantageous public works and institutions for society"
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="69" >}} The sovereign's third and last duty is building and maintaining advantageous public works and institutions for society.

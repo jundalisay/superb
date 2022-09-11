@@ -10,14 +10,14 @@ date: 2021-09-17
 
 ## SEC. 49. Creation of Power Sector Assets and Liabilities Management Corporation or PSALM
 
-This is a government-owned and -controlled corporation which shall own all existing NPC generation assets, liabilities, IPP contracts, real estate and all other disposable assets.
+This is a government-owned and -controlled corporation which shall own all existing NAPOCOR generation assets, liabilities, IPP contracts, real estate and all other disposable assets.
 
-All outstanding obligations of the NPC arising from loans, issuances of bonds, securities and other instruments of indebtedness shall be transferred to and assumed by the PSALM Corp. within one hundred eighty (180) days from the approval of this Act.
+All outstanding obligations of the NAPOCOR arising from loans, issuances of bonds, securities and other instruments of indebtedness shall be transferred to and assumed by the PSALM Corp. within one hundred eighty (180) days from the approval of this Act.
 
 
 ## SEC. 50. Purpose and Objective, Domicile and Term of Existence
 
-The principal purpose of the PSALM Corp. is to manage the orderly sale, disposition, and privatization of NPC generation assets, real estate and other disposable assets, and IPP contracts with the objective of liquidating all NPC financial obligations and stranded contract costs in an optimal manner.
+The principal purpose of the PSALM Corp. is to manage the orderly sale, disposition, and privatization of NAPOCOR generation assets, real estate and other disposable assets, and IPP contracts with the objective of liquidating all NAPOCOR financial obligations and stranded contract costs in an optimal manner.
 
 The PSALM Corp. shall have its principal office and place of business within Metro Manila.
 
@@ -28,19 +28,19 @@ The PSALM Corp. shall exist for a period of twenty five (25) years from the effe
 
 The Corporation shall, in the performance of its functions and for the attainment of its objective, have the following powers:
 
-(a) To formulate and implement a program for the sale and privatization of the NPC assets and IPP contracts and the liquidation of NPC debts and stranded contract costs, such liquidation to be completed within the term of existence of the PSALM
+(a) To formulate and implement a program for the sale and privatization of the NAPOCOR assets and IPP contracts and the liquidation of NAPOCOR debts and stranded contract costs, such liquidation to be completed within the term of existence of the PSALM
 (b) To take title to and possession of, administer and conserve the assets transferred to it; to sell or dispose of the same at such price and under such terms and conditions as it may deem necessary or proper, subject to applicable laws, rules and regulations
-(c) To take title to and possession of the NPC IPP contracts and to appoint, after public bidding in transparent and open manner, qualified independent entities who shall act as the IPP Administrators in accordance with this Act;
-(d) To calculate the amount of the stranded debts and stranded contract costs of NPC which shall
+(c) To take title to and possession of the NAPOCOR IPP contracts and to appoint, after public bidding in transparent and open manner, qualified independent entities who shall act as the IPP Administrators in accordance with this Act;
+(d) To calculate the amount of the stranded debts and stranded contract costs of NAPOCOR which shall
 form the basis for ERC in the determination of the universal charge
-(e) To liquidate the NPC stranded contract costs utilizing proceeds from sales and other property
+(e) To liquidate the NAPOCOR stranded contract costs utilizing proceeds from sales and other property
 contributed to it, including the proceeds from the universal charge
 (f) To adopt rules and regulations as may be necessary or proper for the orderly conduct of its business or operations
 (g) To sue and be sued in its name
 (h) To appoint or hire, transfer, remove and fix the compensation of its personnel: Provided, however, That the Corporation shall hire its own personnel only if absolutely necessary, and as far as practicable, shall avail itself of the services of personnel detailed from other government agencies;(i) To own, hold, acquire, or lease real and personal properties as may be necessary or required in the discharge of its functions
 (j) To borrow money and incur such liabilities, including the issuance of bonds, securities or other evidences of indebtedness utilizing its assets as collateral and/or through the guarantees of the National Government: Provided, however, That all such debts or borrowings shall have been paid off before the end of its corporate life
-(k) To restructure existing loans of NPC;
-(l) To collect, administer, and apply NPC’s portion of the universal charge; and (m) To restructure the sale, privatization or disposition of NPC assets and IPP contracts and/or their energy output based on such terms and conditions which shall optimize the value and sale prices of said assets.
+(k) To restructure existing loans of NAPOCOR;
+(l) To collect, administer, and apply NAPOCOR’s portion of the universal charge; and (m) To restructure the sale, privatization or disposition of NAPOCOR assets and IPP contracts and/or their energy output based on such terms and conditions which shall optimize the value and sale prices of said assets.
 
 
 ## SEC. 52. Power Sector Assets and Liabilities Management Corporation, Meetings, Quorum and Voting
@@ -77,16 +77,16 @@ employees in the PSALM Corp. shall be exempt from Republic Act No. 6758 and shal
 PSALM Corp. Board.
 SEC. 55. Property of the PSALM Corp. – The following funds, assets, contributions and other
 property shall constitute the property of the PSALM Corp.:
-(a) The generation assets, real estate, IPP contracts, other disposable assets of NPC, proceeds
+(a) The generation assets, real estate, IPP contracts, other disposable assets of NAPOCOR, proceeds
 from the sale or disposition of such assets and the residual assets from B-O-T, R-O-T, and
 other variations thereof;
 (b) Transfers from the National Government;
-(c) Proceeds from loans incurred to restructure or refinance NPC’s transferred liabilities:
+(c) Proceeds from loans incurred to restructure or refinance NAPOCOR’s transferred liabilities:
 Provided, however, That all borrowings shall be fully paid for by the end of the life of the
 PSALM Corp.;
 (d) Proceeds from the universal charge allocated for stranded contract costs and the stranded
-debts of NPC;
-(e) Net profit of NPC;
+debts of NAPOCOR;
+(e) Net profit of NAPOCOR;
 (f) Net profit of TRANSCO;
 (g) Official assistance, grants, and donations from external sources; and
 (h) Other sources of funds as may be determined by PSALM Corp. necessary for the above-
@@ -96,8 +96,8 @@ mentioned purposes.
 
 The following shall constitute the claims against the PSALM:
 
-(a) NPC liabilities transferred to the PSALM Corp.;
+(a) NAPOCOR liabilities transferred to the PSALM Corp.;
 (b) Transfers from the national government;
 (c) New loans; and
-(d) NPC stranded contract costs.
+(d) NAPOCOR stranded contract costs.
 

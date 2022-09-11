@@ -1,13 +1,9 @@
 ---
 title: "Mercantile Corporations as Commercial Institutions"
-heading: "Part 3c of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3c of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "Particular institutions are necessary to facilitate particular branches of commerce"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3b"
-linkftext: "Part 3b"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3d"
-linkbtext: "Part 3d"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

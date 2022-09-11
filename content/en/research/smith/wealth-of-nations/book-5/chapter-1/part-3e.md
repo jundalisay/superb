@@ -1,13 +1,9 @@
 ---
 title: "Private Regulated Companies Versus Joint Stock Companies"
-heading: "Part 3e of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3e of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "Private regulated companies are enlarged monopolies that resemble guilds or the corporations of trades. Such guilds are so common in all European cities."
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3b"
-linkftext: "Part 3b"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3d"
-linkbtext: "Part 3d"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

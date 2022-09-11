@@ -1,13 +1,9 @@
 ---
 title: "Education for the Poor"
-heading: "Part 3v of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3v of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "In England, charity schools have the same effect though not so universally, because charity schools are not so universal"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3u"
-linkftext: "Part 3u"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3w"
-linkbtext: "Part 3w"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

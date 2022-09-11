@@ -3,7 +3,7 @@ title: "Basic Universal Revenue"
 heading: "Chapter 3b"
 # Alternative to Universal Basic Income"
 # BUR is our New Store of Value and a
-date: 2020-04-17
+date: 2020-08-20
 # date: 2017-04-26
 image: /photos/grains.jpg
 description: "The moneyless system is implemented as a points-for-food system that creates wealth by tapping the unemployed. This leads to full employment even during a financial or economic crisis"

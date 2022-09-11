@@ -1,13 +1,9 @@
 ---
 title: "Intellectual Property and Corporation Rules"
-heading: "Part 3o of Chapter 1 of Book 5 of The Wealth of Nations Simplified"
+heading: "Part 3o of Chapter 1 of Book 5"
 date: 2021-08-01
 image: "/covers/wn.jpg"
 description: "Intellectual Property and Corporation Rules"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3n"
-linkftext: "Part 3n"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-3q"
-linkbtext: "Part 3q"
 author: Adam Smith
 icon: /avatars/smith.png
 ---

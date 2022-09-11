@@ -1,13 +1,9 @@
 ---
 title: "Justice Fees from Gifts to Gratis"
 heading: "Chapter 1 Part 2c"
-date: 2020-12-27
+date: 2020-12-18
 image: "/covers/wn.jpg"
 description: "The necessity of civil government gradually grows up with the acquisition of valuable property"
-linkb: "/research/smith/wealth-of-nations/book-5/chapter-1/part-2a"
-linkbtext: "Part 2a"
-linkf: "/research/smith/wealth-of-nations/book-5/chapter-1/part-2c"
-linkftext: "Part 2c"
 icon: "/icons/smith.png"
 ---
 
