@@ -4,10 +4,6 @@ heading: Chapter 12
 date: 2022-01-20
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-11"
-linkbtext: "Chapter 11"
-linkf: "/research/mao/quotations/chapter-13"
-linkftext: "Chapter 13"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

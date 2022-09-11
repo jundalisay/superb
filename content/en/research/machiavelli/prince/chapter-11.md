@@ -1,16 +1,12 @@
-+++
-title= "Church Principalities"
-heading= "Chapter 11"
-date= 2021-09-25
-author= "Niccolo Machiavelli"
-description= "All of the difficulties with church principalities occur prior to getting possession because they are acquired either by capacity or good fortune, and they can be held without either; for they are sustained by the ancient laws of religion."
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-10"
-linkbtext= "Chapter 10"
-linkf= "/research/machiavelli/prince/chapter-12"
-linkftext= "Chapter 12"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "Church Principalities"
+heading: "Chapter 11"
+author: "Niccolo Machiavelli"
+description: "All of the difficulties with church principalities occur prior to getting possession because they are acquired either by capacity or good fortune, and they can be held without either; for they are sustained by the ancient laws of religion"
+date: 2021-09-16
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
 
 
 All of the difficulties with church principalities occur prior to getting possession. This is because they:
@@ -65,10 +61,25 @@ His intention was not to benefit the Church. Nevertheless, what Pope Alexander d
 
 Pope Julius came soon after Pope Alexander and found the Church strong, possessing all the Romagna, the barons of Rome made powerless. Through the efforts of Alexander, the Colonessi and Orsini groups weakened. 
 
-He also found the way open to accumulate money in a manner such as had never been practised before Alexander's time. Such things Julius not only followed, but improved upon. 
+He also found the way open to accumulate money in a way never practised before Alexander's time. Such things Julius not only followed, but improved upon. 
 
-He also intended to gain Bologna, to ruin the Venetians, and to drive the French out of Italy. He achieved all of these goals, and, even more to his credit , he did everything to strengthen the Church and not any private individual. He kept also the Orsini and Colonnesi groups within the bounds in which he found them. 
+He also intended to:
+- gain Bologna
+- ruin the Venetians
+- drive the French out of Italy
 
-Although some among them wanted to make trouble, nevertheless he held two things firm - first, the greatness of the Church, with which he frightened them and the other, not allowing them to have their own cardinals, who could cause disorder among them. Whenever these groups have their own cardinals they do not remain quiet for long. Cardinals encourage the groups like the Orsini in Rome and the barons are forced to support them. 
+He:
+- achieved all of these and did everything to strengthen the Church and not any private individual. 
+- kept the Orsini and Colonnesi groups within the bounds in which he found them. 
 
-Thus from the ambitions of cardinals arise disorders and rebellion among the barons. For these reasons his Holiness Pope Leo was most powerful, and it is to be hoped that, if others made the Church great in arms, he will make it still greater and more respected by his goodness and infinite other virtues.
+Some among them wanted to make trouble. Nevertheless, he held 2 things firm:
+
+1. The greatness of the Church, with which he frightened them
+2. Not allowing them to have their own cardinals, who could cause disorder among them. 
+
+Whenever these groups have their own cardinals, they do not remain quiet for long. Cardinals encourage the groups like the Orsini in Rome. The barons are then forced to support them. 
+
+The ambitions of the cardinals caused disorders and rebellion among the barons. 
+
+This is why Pope Leo was most powerful. 
+- We hoped that if others made the Church great in arms, then the Pope will make it even greater and more respected by his goodness and other virtues.

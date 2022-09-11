@@ -1,16 +1,14 @@
-+++
-title= "A Call To Liberate Italy From The Invaders"
-heading= "Chapters 26"
-date= 2021-09-20
-author= "Niccolo Machiavelli"
-description= "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-25"
-linkbtext= "Chapter 25"
-linkf= "/research/machiavelli/prince/"
-linkftext= "Index"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "A Call To Liberate Italy From The Invaders"
+heading: "Chapter 26"
+author: "Niccolo Machiavelli"
+description: "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
+date: 2021-08-18
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 Is the present times right for a new prince? 
 

@@ -1,16 +1,13 @@
-+++
-title= "How Princes Should Keep Faith"
-heading= "Chapters 18-19"
-date= 2021-09-22
-author= "Niccolo Machiavelli"
-description= "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-15"
-linkbtext= "Chapter 15"
-linkf= "/research/machiavelli/prince/chapter-20"
-linkftext= "Chapter 20"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "How Princes Should Keep Faith"
+heading: "Chapter 18-19"
+author: "Niccolo Machiavelli"
+description: "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
+date: 2021-09-04
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
 
 <!-- ## Chapter 18= How Princes Should Keep Faith -->
 

@@ -1,16 +1,14 @@
-+++
-title= "Why The Princes Of Italy Lost Their States"
-heading= "Chapter 24"
-date= 2021-09-20
-author= "Niccolo Machiavelli"
-description= "The actions of a new prince are more critically observed than those of an hereditary one"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/machiavelli/prince/chapter-25"
-linkftext= "Chapter 25"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "Why The Princes Of Italy Lost Their States"
+heading: "Chapter 24"
+author: "Niccolo Machiavelli"
+description: "The actions of a new prince are more critically observed than those of an hereditary one"
+date: 2021-08-22
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 
 <!-- The previous suggestions, if they are carefully followed, will enable a new prince to appear well established, and make him at once more secure in the state than if he had been long seated there. This is

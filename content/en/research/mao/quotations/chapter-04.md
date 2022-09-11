@@ -4,10 +4,6 @@ heading: Chapter 4
 date: 2022-01-28
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-03"
-linkbtext: "Chapter 3"
-linkf: "/research/mao/quotations/chapter-05"
-linkftext: "Chapter 5"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

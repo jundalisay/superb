@@ -47,7 +47,7 @@ This inherent contradiction naturally leads to failures of the privatized utilit
 
 The proper energy policy is to **let the government handle energy**. 
 
-In this way, a public concern is managed by a public organization*. Instead of competition between market forces, **the competition is between poiticians during elections**. Through this, the public interest maintains the public utilities.
+In this way, a public concern is managed by a public organization*. Instead of competition between market forces, **the competition is between politicians during elections**. Through this, the public interest maintains the public utilities.
 
 
 Good examples of the direct management of government in energy are:
@@ -59,7 +59,14 @@ Good examples of the direct management of government in energy are:
 
 <!-- [/research/smith/wealth-of-nations/book-5/part-1/chapter-3a] -->
 
-The difference between privatized and state-run energy is evident in the difference between the energy situation of France and that of Germany. 
+The difference between privatized and state-run energy is evident in the difference between the energy situation of France and that of Germany which follows the free market model. 
+
+To get into the profitable utilities business, investors usually highlight how massively indebted state-owned utilities are. They hide the fact that **being under massive debts is the nature of such utilities**.* 
+
+> *This is mirrored by the fact that parents are often get into debt in order to fund the education and upkeep of their children. The reverse of this is to make money from one's children by using them as child labor and neglecting their education. Nationalization does the former, while privatization does the latter. 
+
+
+State-run energy systems have some variations:
 
 - In the French system, the government has control, as a majority stake, in energy production and transmission, allowing the rest to be privately held
 - In Singapore, Vietnam, and China, the government owns everything. This leads to low energy prices because the government is supposed to be not-for-profit. This allows energy, as the base of the modern economy, to be really inclusive, as the people paying to maintain each other* 
@@ -67,9 +74,7 @@ The difference between privatized and state-run energy is evident in the differe
 > *State-run utilities are maintained by subsidies which are sourced from taxes from everyone. In privatized utilities, the system is reversed: people pay to maintain the lifestyle of the rich investors.
 
 
-To get into the profitable utilities business, investors usually highlight how massively indebted state-owned utilities are. They hide the fact that **being under massive debts is the nature of such utilities**.* 
 
-> *This is mirrored by the fact that parents are often get into debt in order to fund the education and upkeep of their children. The reverse of this is to make money from one's children by using them as child labor and neglecting their education. Nationalization does the former, while privatization does the latter. 
 
 
 
@@ -98,13 +103,13 @@ The Kings of Spain did all they could to promote land improvement. Philip IV him
 {{< /q >}}
 
 
-China does this by getting skilled entreperneurs to run state-owned corporations. A recent proof is Jack Ma being forced to follow the Communist Party.
+China does this by getting skilled entrepreneurs to run state-owned corporations. A recent proof is Jack Ma, founder of private Alibaba, being forced to follow the Communist Party.
 
-However, this violates free will, and becomes unsustainable politically -- a change in ruling class will likely change the energy managers. This is why our solution is more similar to the French model where the French government owns 84% of EDF as a mega-conglomerate.
+However, this violates free will, and becomes unsustainable politically -- a change in ruling class will likely change the energy managers. This is why our solution is more similar to the French model where the French government owns 84% of EDF as a mega-conglomerate, but with huge variations:
 - The engineer-owners can be given private equity in exchange for their services in order to keep skilled talent 
 - Part of the capital equipment can be 'financed' by barter for local produce using long-term contracts in order to reduce the cash strain
 
-We can call this a "social corporation" or "social conglomerate" as opposed to a semi-state owned corporation or public private partnership.
+We can call this a "social corporation" or "social conglomerate" as opposed to a semi-state-owned corporation or public private partnership.
 - "Corporation" emphasizes the share distribution
 - "Conglomerate*" emphasizes vertical and horizontal integration to reduce costs instead of raising profits. 
 
@@ -172,7 +177,7 @@ These principles can be applied to any country to fix their energy crisis. For t
   - geothermal
   - nuclear 
 
-A corollary reform is to allow majority ownership of SPU*s by foreign entities, under the joint regulation of the local government and ERC (and NCIP**). This requires a consitutional change. 
+A corollary reform is to allow majority ownership of SPU*s by foreign entities, under the joint regulation of the local government and ERC (and NCIP**). This requires a constitutional change. 
 
 > *Small Power Utilities
 

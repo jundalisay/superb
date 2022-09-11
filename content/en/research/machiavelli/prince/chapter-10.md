@@ -1,16 +1,12 @@
-+++
-title= "How The Strength Of All Principalities Should Be Measured"
-heading= "Chapter 10"
-date= 2021-09-25
-author= "Niccolo Machiavelli"
-description= "Whoever protects his town well, and has managed the other concerns of his subjects in the way stated above, will never be attacked without great caution"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-09"
-linkbtext= "Chapter 9"
-linkf= "/research/machiavelli/prince/chapter-11"
-linkftext= "Chapter 11"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "How The Strength Of All Principalities Should Be Measured"
+heading: "Chapter 10"
+author: "Niccolo Machiavelli"
+description: "Whoever protects his town well, and has managed the other concerns of his subjects in the way stated above, will never be attacked without great caution"
+date: 2021-09-16
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
 
 
 Should a prince have so much power to support himself with his own resources? 

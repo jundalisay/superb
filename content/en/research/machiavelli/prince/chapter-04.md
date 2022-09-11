@@ -1,16 +1,13 @@
-+++
-title= "Why Alexander's Successors Remained Loyal"
-heading= "Chapters 4-7"
-date= 2021-09-29
-description= "His successors maintained themselves, and had no other difficulty than that which arose among themselves"
-author= "Niccolo Machiavelli"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-01"
-linkbtext= "Chapter 1"
-linkf= "/research/machiavelli/prince/chapter-07"
-linkftext= "Chapter 7"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "Why Alexander's Successors Remained "
+heading: "Chapter 4-7"
+author: "Niccolo Machiavelli"
+description: "His successors maintained themselves, and had no other difficulty than that which arose among themselves"
+date: 2021-09-26
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
 
 <!-- ## Chapter 4= Why The Kingdom Of Darius, Conquered By Alexander, Did Not Rebel Against The Successors Of Alexander -->
 

@@ -1,16 +1,14 @@
-+++
-title= "Are Castles Advantageous Or Hurtful?"
-heading= "Chapter 20 of The Prince Simplified"
-date= 2021-09-21
-author= "Niccolo Machiavelli"
-description= "The prince who has more to fear from the people than from foreigners ought to build castles, but he who has more to fear from foreigners than from the people should leave them alone"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-19b"
-linkbtext= "Chapter 19b"
-linkf= "/research/machiavelli/prince/chapter-21"
-linkftext= "Chapter 21"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "Are Castles Advantageous Or Hurtful?"
+heading: "Chapter 20"
+author: "Niccolo Machiavelli"
+description: "The prince who has more to fear from the people than from foreigners ought to build castles, but he who has more to fear from foreigners than from the people should leave them alone"
+date: 2021-08-28
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 <!-- ## Chapter 20= Are Castles Advantageous Or Hurtful? -->
 <!-- , And Many Other Things Which Princes Often Use, -->

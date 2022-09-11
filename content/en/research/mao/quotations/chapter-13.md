@@ -4,19 +4,15 @@ heading: Chapter 13
 date: 2022-01-21
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-12"
-linkbtext: "Chapter 12"
-linkf: "/research/mao/quotations/chapter-14"
-linkftext: "Chapter 14"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
 
 
-Our army has always had two policies:
+Our army has always had 2 policies:
 
 1. We must be ruthless to our enemies, we must overpower and annihilate them
-2. We must be kind to our own, to the people, to our comrades and to our superiors and subordinates, and unite with them.
+2. We must be kind to our own people, to our comrades and to our superiors and subordinates, and unite with them.
 
 {{< cite >}}
 Speech at the reception given by the Central Committee of the Party for model study delegates from the Rear Army Detachments (September 18, 1944).

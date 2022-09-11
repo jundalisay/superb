@@ -1,16 +1,14 @@
-+++
-title= "Auxiliaries, Mixed Armies, And One's Own Soldiers"
-heading= "Chapters 13"
-date= 2021-09-24
-author= "Niccolo Machiavelli"
-description= "Auxiliaries are the other kind of most useless soldiers. They are employed when a prince needs other forces to aid and defend him"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-10"
-linkbtext= "Chapter 10"
-linkf= "/research/machiavelli/prince/chapter-15"
-linkftext= "Chapter 15"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "Auxiliaries, Mixed Armies, And One's Own Soldiers"
+heading: "Chapter 13"
+author: "Niccolo Machiavelli"
+description: "Auxiliaries are the other kind of most useless soldiers. They are employed when a prince needs other forces to aid and defend him"
+date: 2021-09-12
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 <!-- ## Chapter 13= Auxiliaries, Mixed Armies, And One's Own Soldiers -->
 

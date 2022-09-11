@@ -1,16 +1,13 @@
-+++
-title= "Mercenaries and How Many Kinds Of Soldiers There Are"
-heading= "Chapters 12"
-date= 2021-09-25
-author= "Niccolo Machiavelli"
-description= "Whoever protects his town well, and has managed the other concerns of his subjects in the way stated above, will never be attacked without great caution"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-10"
-linkbtext= "Chapter 10"
-linkf= "/research/machiavelli/prince/chapter-13"
-linkftext= "Chapter 13"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "Mercenaries and the Different Kinds Of Soldiers"
+heading: "Chapter 12"
+author: "Niccolo Machiavelli"
+description: "Whoever protects his town well, and has managed the other concerns of his subjects in the way stated above, will never be attacked without great caution"
+date: 2021-09-14
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
 
 <!-- I have described the characteristics of the various principalities that I proposed to discuss, and I have
 18considered in some degree the causes of their being good or bad. I have also shown the methods by which

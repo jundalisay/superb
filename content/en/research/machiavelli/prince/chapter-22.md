@@ -1,16 +1,15 @@
-+++
-title= "The Personal Staff Of Princes"
-heading= "Chapters 22"
-date= 2021-09-20
-author= "Niccolo Machiavelli"
-description= "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-21"
-linkbtext= "Chapter 21"
-linkf= "/research/machiavelli/prince/chapter-24"
-linkftext= "Chapter 24"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "The Personal Staff Of Princes"
+heading: "Chapter 22"
+author: "Niccolo Machiavelli"
+description: "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
+date: 2021-08-24
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
+
 
 <!-- ## Chapter 22=  -->
 

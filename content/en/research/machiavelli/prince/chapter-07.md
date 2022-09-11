@@ -1,15 +1,14 @@
-+++
-title= "New Principalities Acquired By Arms or Good Fortune"
-description= "Things in nature which are born and grow rapidly cannot establish their foundations well. This lets them get destroyed by the first storm"
-date= 2021-09-27
-author= "Niccolo Machiavelli"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-06"
-linkbtext= "Chapter 6"
-linkf= "/research/machiavelli/prince/chapter-08"
-linkftext= "Chapter 8"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "New Principalities Acquired By Arms or Good Fortune"
+heading: "Chapter 7"
+author: "Niccolo Machiavelli"
+description: "Things in nature which are born and grow rapidly cannot establish their foundations well. This lets them get destroyed by the first storm"
+date: 2021-09-22
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 <!-- ## Chapter 7= New Principalities Which Are Acquired Either By The Arms Of Others Or By Good Fortune -->
 

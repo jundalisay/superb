@@ -4,10 +4,6 @@ heading: Chapter 7
 date: 2022-01-25
 description: "People of the world, unite and defeat the U.S. aggressors and all their running dogs!"
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-06"
-linkbtext: "Chapter 6"
-linkf: "/research/mao/quotations/chapter-08"
-linkftext: "Chapter 8"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

@@ -4,10 +4,6 @@ heading: Chapter 10
 date: 2022-01-22
 description: Quotations of Mao Simplified
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-09"
-linkbtext: "Chapter 9"
-linkf: "/research/mao/quotations/chapter-11"
-linkftext: "Chapter 11"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
@@ -32,11 +28,22 @@ From now on, a sound system of Party committee meetings must be instituted in al
 
 All important problems (of course, not the unimportant, trivial problems, or problems whose solutions have already been decided after discussion at meetings and need only be carried out) must be submitted to the committee for discussion, and the committee members present should express their views fully and reach definite decisions which should then be carried out by the members concerned… 
 
-Party committee meetings must be divided into two categories, standing committee meetings and plenary sessions, and the two should not be confused. Furthermore, we must take care that neither collective leadership nor personal responsibility is overemphasized to the neglect of the other. In the army, the person in command has the right to make emergency decisions during battle and when circumstances require.
+Party committee meetings must be divided into 2 categories:
+
+1. standing committee meetings
+2. plenary sessions
+
+The two should not be confused. 
+
+Either collective leadership or personal responsibility should not be overemphasized to the neglect of the other. 
+
+In the army, the person in command has the right to make emergency decisions during battle and when circumstances require.
+
 
 {{< cite >}}
 "On Strengthening the Party Committee System" (September 20, 1948), Selected Works, Vol. IV, pp. 267-68.*
 {{< /cite >}}
+
 
 The secretary of a Party committee must be good at being a "squad leader". AParty committee has ten to twenty members; it is like a squad in the army, and the secretary is like the "squad leader". 
 
@@ -60,52 +67,41 @@ If problems exist and are not placed on the table, they will remain unsolved for
 
 Nothing is more important than mutual understanding, support and friendship between the secretary and the committee members, between the Central Committee and its regional bureaus and between the regional bureaus and the area Party committees.
 
-"Exchange information." This means that members of a Party committee
-should keep each other informed and exchange views on matters that have
-come to their attention. This is of great importance in achieving a commonlanguage. Some fail to do so and, like the people described by Lao Tzu, "do not visit each other all their lives, though the crowing of their cocks and the barking of their dogs are within hearing of each other". The result is that they lack a common language.
+"Exchange information" means that members of a Party committee should keep each other informed and exchange views on matters that have come to their attention. 
 
-Ask your subordinates about matters you don't understand or don't know, and
-do not lightly express your approval or disapproval… We should never
-pretend to know what we don't know, we should "not feel ashamed to ask and
-learn from people below" and we should listen carefully to the views of the
-cadres at the lower levels. 
+This is of great importance in achieving a common language. Some fail to do so and, like the people described by Lao Tzu, "do not visit each other all their lives, though the crowing of their cocks and the barking of their dogs are within hearing of each other". 
 
-Be a pupil before you become a teacher; learn from the cadres at the lower levels before you issue orders… What the cadres at the lower levels say may or may not be correct, after hearing it, we must analyse it. We must heed the correct views and act upon them… Listen also
-to the mistaken views from below, it is wrong not to listen to them at all.
+The result is that they lack a common language.
+
+Ask your subordinates about matters you don't understand or don't know, and do not lightly express your approval or disapproval… 
+
+We should never pretend to know what we don't know, we should "not feel ashamed to ask and learn from people below" and we should listen carefully to the views of the cadres at the lower levels. 
+
+Be a pupil before you become a teacher. Learn from the cadres at the lower levels before you issue orders… What the cadres at the lower levels say may or may not be correct, after hearing it, we must analyse it. We must heed the correct views and act upon them… Listen also to the mistaken views from below, it is wrong not to listen to them at all.
+
 Such views, however, are not to be acted upon but to be criticized.
 
-Learn to "play the piano". In playing the piano all ten fingers are in motion; it
-won't do to move some fingers only and not others. But if all ten fingers press
-down at once, there is no melody. To produce good music, the ten fingers
-should move rhythmically and in co-ordination. 
+Learn to "play the piano". In playing the piano all ten fingers are in motion; it won't do to move some fingers only and not others. But if all ten fingers press down at once, there is no melody. 
 
-A Party committee should keep a firm grasp on its central task and at the same time, around the central task, it should unfold the work in other fields. At present, we have to take
-care of many fields; we must look after the work in all the areas, armed units and departments, and not give all our attention to a few problems, to the exclusion of others. Wherever there is a problem, we must put our finger on it, and this is a method we must master. Some play the piano well and some badly, and there is a great difference in the melodies they produce. Members of Party committees must learn to "play the piano" well.
+To produce good music, the ten fingers should move rhythmically and in co-ordination. 
 
-"Grasp firmly." That is to say, the Party committee must not merely "grasp",
-but must "grasp firmly", its main tasks. One can get a grip on something only
-when it is grasped firmly, without the slightest slackening. Not to grasp
-firmly is not to grasp at all. Naturally, one cannot get a grip on something
-with an open hand. When the hand is clenched as if grasping something but is
-not clenched tightly, there is still no grip. Some of our comrades do grasp themain tasks, but their grasp is not firm and so they cannot make a success of
-their work. It will not do to have no grasp at all, nor will it do if the grasp is
-not firm.
+A Party committee should keep a firm grasp on its central task and at the same time, around the central task, it should unfold the work in other fields. At present, we have to take care of many fields; we must look after the work in all the areas, armed units and departments, and not give all our attention to a few problems, to the exclusion of others. Wherever there is a problem, we must put our finger on it, and this is a method we must master. 
 
-"Have a head for figures." That is to say, we must attend to the quantitative
-aspect of a situation or problem and make a basic quantitative analysis. Every
-quality manifests itself in a certain quantity, and without quantity there can be
-no quality. To this day many of our comrades still do not understand that they
-must attend to the quantitative aspect of things - the basic statistics, the main
-percentages and the quantitative limits that determine the qualities of things.
-They have no "figures" in their heads and as a result cannot help making
-mistakes.
+Some play the piano well and some badly, and there is a great difference in the melodies they produce. Members of Party committees must learn to "play the piano" well.
 
-"Notice to Reassure the Public." Notice of meetings should be given
-beforehand; this is like issuing a "Notice to Reassure the Public", so that
-everybody will know what is going to be discussed and what problems are to
-be solved and can make timely preparations. In some places, meetings of
-cadres are called without first preparing reports and draft resolutions, and
-only when people have arrived for the meeting are makeshifts improvised;
+"Grasp firmly." That is to say, the Party committee must not merely "grasp", but must "grasp firmly", its main tasks. One can get a grip on something only when it is grasped firmly, without the slightest slackening. Not to grasp firmly is not to grasp at all. 
+
+Naturally, one cannot get a grip on something with an open hand. When the hand is clenched as if grasping something but is
+not clenched tightly, there is still no grip. Some of our comrades do grasp themain tasks, but their grasp is not firm and so they cannot make a success of their work. It will not do to have no grasp at all, nor will it do if the grasp is not firm.
+
+"Have a head for figures." That is to say, we must attend to the quantitative aspect of a situation or problem and make a basic quantitative analysis. Every quality manifests itself in a certain quantity, and without quantity there can be
+no quality. 
+
+To this day many of our comrades still do not understand that they must attend to the quantitative aspect of things - the basic statistics, the main percentages and the quantitative limits that determine the qualities of things.
+They have no "figures" in their heads and as a result cannot help making mistakes.
+
+"Notice to Reassure the Public." Notice of meetings should be given beforehand; this is like issuing a "Notice to Reassure the Public", so that everybody will know what is going to be discussed and what problems are to
+be solved and can make timely preparations. In some places, meetings of cadres are called without first preparing reports and draft resolutions, and only when people have arrived for the meeting are makeshifts improvised;
 this is just like the saying, "Troops and horses have arrived, but food and
 fodder are not ready", and that is no good. Don't call a meeting in a hurry if
 the preparations are not completed.
@@ -160,23 +156,13 @@ In the sphere of organization, ensure democracy under centralized guidance.
 It should be done on the following lines:
 
 1. The leading bodies of the Party must give a correct line of guidance and find solutions when problems arise, in order to establish themselves as centres of leadership.
-2. The higher bodies must be familiar with the situation in the lower bodies
-and with the life of the masses so as to have an objective basis forcorrect guidance.
-3. No Party organization at any level should make casual decisions in
-solving problems. Once a decision is reached, it must be firmly carried
-out.
-4. All decisions of any importance made by the Party's higher bodies must
-be promptly transmitted to the lower bodies and the Party rank and
-file…
-5. The lower bodies of the Party and the Party rank and file must discuss
-the higher bodies' directives in detail in order to understand their
-meaning thoroughly and decide on the methods of carrying them out.
-"On Correcting Mistaken Ideas in the Party" (December 1929), Selected Works, Vol. I,
-p. 109.*
+2. The higher bodies must be familiar with the situation in the lower bodies and with the life of the masses so as to have an objective basis forcorrect guidance.
+3. No Party organization at any level should make casual decisions in solving problems. Once a decision is reached, it must be firmly carried out.
+4. All decisions of any importance made by the Party's higher bodies must be promptly transmitted to the lower bodies and the Party rank and file…
+5. The lower bodies of the Party and the Party rank and file must discuss the higher bodies' directives in detail in order to understand their meaning thoroughly and decide on the methods of carrying them out.
+
+"On Correcting Mistaken Ideas in the Party" (December 1929), Selected Works, Vol. I, p. 109.*
 
 Note:
-1. Yenan was the headquarters of the Central Committee of the Communist Party of
-China from January 1937 to March 1947; Sian was the centre of the reactionary rule
-of the Kuomintang in north-western China. Comrade Mao Tse-tung cited the two
-cities as symbols of revolution and counter-revolution.
+1. Yenan was the headquarters of the Central Committee of the Communist Party of China from January 1937 to March 1947; Sian was the centre of the reactionary rule of the Kuomintang in north-western China. Mao cited the 2 cities as symbols of revolution and counter-revolution.
 

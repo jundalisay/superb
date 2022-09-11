@@ -1,15 +1,14 @@
-+++
-title= "Is It Better To Be Loved Than Feared?"
-date= 2021-09-23
-author= "Niccolo Machiavelli"
-description= "Every prince should want to be considered kind and not cruel. Nevertheless, he should take care not to misuse this kindness"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-13"
-linkbtext= "Chapter 13"
-linkf= "/research/machiavelli/prince/chapter-18"
-linkftext= "Chapter 18"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "Is It Better To Be Loved Than Feared?"
+heading: "Chapter 17"
+author: "Niccolo Machiavelli"
+description: "Every prince should want to be considered kind and not cruel. Nevertheless, he should take care not to misuse this kindness"
+date: 2021-09-06
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 
 Every prince should want to be considered kind and not cruel. Nevertheless, he should take care not to misuse this kindness. 

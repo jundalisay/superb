@@ -1,16 +1,13 @@
-+++
-title= "How A Prince Should Conduct Himself To Gain A Reputation"
-heading= "Chapters 20-21"
-date= 2021-09-21
-author= "Niccolo Machiavelli"
-description= "The prince who has more to fear from the people than from foreigners should build castles, but he who has more to fear from foreigners than from the people should leave them alone"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-18"
-linkbtext= "Chapter 18"
-linkf= "/research/machiavelli/prince/chapter-22"
-linkftext= "Chapter 21"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "How A Prince Should Conduct Himself To Gain A Reputation"
+heading: "Chapter 21"
+author: "Niccolo Machiavelli"
+description: "The prince who has more to fear from the people than from foreigners should build castles, but he who has more to fear from foreigners than from the people should leave them alone"
+date: 2021-08-26
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
 
 
 A prince becomes so famous by:

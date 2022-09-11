@@ -4,10 +4,6 @@ heading: Chapter 16
 date: 2022-01-18
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-16"
-linkbtext: "Chapter 16"
-linkf: "/research/mao/quotations/chapter-18"
-linkftext: "Chapter 18"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
@@ -44,23 +40,19 @@ Vol. 3, pp. 118-19.
 {{< /cite >}}
 
 
-All officers and fighters of our army must improve their military art, march
-forward courageously towards certain victory in the war and resolutely,
-thoroughly, wholly and completely wipe out all enemies.
-"Manifesto of the Chinese People's Liberation Army" (October 1947), Selected
-Military Writings, 2nd ed., p. 340.
+All officers and fighters of our army must improve their military art, march forward courageously towards certain victory in the war and resolutely, thoroughly, wholly and completely wipe out all enemies.
+
+"Manifesto of the Chinese People's Liberation Army" (October 1947), Selected Military Writings, 2nd ed., p. 340.
 
 Equal importance should be attached to the military and political aspects ofthe one-year consolidation and training programme which has just begun, and the two aspects should be integrated. At the start, stress should be placed on the political aspect, on improving relations between officers and men, enhancing internal unity and arousing a high level of enthusiasm among the
-masses of cadres and fighters. Only thus will the military consolidation and
-training proceed smoothly and attain better results.
+masses of cadres and fighters. Only thus will the military consolidation and training proceed smoothly and attain better results.
 
-{{< cite >}}
+{{< cite >}} 
 "The Tasks for 1945" (December 15, 1944).
 {{< /cite >}}
 
-As for the method of training, we should unfold the mass training movement
-in which officers teach soldiers, soldiers teach officers and the soldiers teach
-each other.
+
+As for the method of training, we should unfold the mass training movement in which officers teach soldiers, soldiers teach officers and the soldiers teach each other.
 
 {{< cite >}}
 "Policy for Work in the Liberated Areas for 1946" (December 15, 1945), Selected Works, Vol. IV, p. 76.

@@ -1,16 +1,13 @@
-+++
-title= "How Many Kinds Of Principalities There Are, How They Are Acquired"
-heading= "Chapters 1-3"
-author= "Niccolo Machiavelli"
-description= "The Tao or True Nature is nameless, non-extreme, non-dualistic"
-date= 2021-09-30
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince"
-linkbtext= "Index"
-linkf= "/research/machiavelli/prince/chapter-04"
-linkftext= "Chapter 4"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "How Many Kinds Of Principalities There Are, How They Are Acquired"
+heading: "Chapters 1-3"
+author: "Niccolo Machiavelli"
+description: "It is easier to hold hereditary states, particularly those long accustomed to the family of their prince, than new ones"
+date: 2021-09-30
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
 
 There are only two kinds of states:
 
@@ -28,7 +25,7 @@ Such states thus acquired are either accustomed to live under a prince, or to li
 
 ## Chapter 2: Hereditary Principalities
 
-I will only talk about principalities. 
+<!-- I will only talk about principalities.  -->
 
 It is easier to hold hereditary states, particularly those long accustomed to the family of their prince, than new ones. This is because the prince only has:
 - to maintain the customs of those who ruled before him, and

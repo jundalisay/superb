@@ -1,16 +1,15 @@
-+++
-title= "The Roman Emperors"
-heading= "Chapters 19b"
-date= 2021-09-22
-author= "Niccolo Machiavelli"
-description= "Machiavelli says a prince must take bits of Marcus and Severus"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-19"
-linkbtext= "Chapter 19"
-linkf= "/research/machiavelli/prince/chapter-20"
-linkftext= "Chapter 20"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "The Roman Emperors"
+heading: "Chapter 19b"
+author: "Niccolo Machiavelli"
+description: "Machiavelli says a prince must take bits of Marcus and Severus"
+date: 2021-08-30
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
+
 
 Some might think that <!-- It may appear, perhaps, to some who have examined the lives and deaths of --> many of the Roman emperors would be an example contrary to my assertions. Some of them lived nobly and showed great qualities. Nevertheless, they lost their empire or were killed by subjects who conspired against them. 
 

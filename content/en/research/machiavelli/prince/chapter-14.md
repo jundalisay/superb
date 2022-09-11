@@ -1,16 +1,14 @@
-+++
-title= "What is the most important thing in The Art Of War"
-heading= "Chapters 13"
-date= 2021-09-24
-author= "Niccolo Machiavelli"
-description= "A prince should have no other aim or thought, nor select anything else for his study, than war and its rules and discipline"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-13"
-linkbtext= "Chapter 13"
-linkf= "/research/machiavelli/prince/chapter-15"
-linkftext= "Chapter 15"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "What is the most important thing in The Art Of War"
+heading: "Chapter 14"
+author: "Niccolo Machiavelli"
+description: "A prince should have no other aim or thought, nor select anything else for his study, than war and its rules and discipline"
+date: 2021-09-10
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 
 A prince should have no other aim or thought, nor select anything else for his study, than war and its rules and discipline. 

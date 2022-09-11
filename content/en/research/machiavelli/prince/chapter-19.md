@@ -1,16 +1,14 @@
-+++
-title= "One Should Avoid Being Hated And Despised"
-heading= "Chapter 19 of the Prince Simplified"
-date= 2021-09-22
-author= "Niccolo Machiavelli"
-description= "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-18"
-linkbtext= "Chapter 18"
-linkf= "/research/machiavelli/prince/chapter-19b"
-linkftext= "Chapter 19b"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "One Should Avoid Being Hated And Despised"
+heading: "Chapter 19"
+author: "Niccolo Machiavelli"
+description: "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
+date: 2021-09-02
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 <!-- I have spoken of the most important characteristics a prince should have, and now I wish to discuss the
 others briefly under the general theme that the prince must consider how to avoid those things which will

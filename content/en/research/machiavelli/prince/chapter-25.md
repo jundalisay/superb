@@ -1,16 +1,14 @@
-+++
-title= "How Fortune Affects Human Affairs And How To Resist Her"
-heading= "Chapters 25"
-date= 2021-09-20
-author= "Niccolo Machiavelli"
-description= "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-20"
-linkbtext= "Chapter 20"
-linkf= "/research/machiavelli/prince/"
-linkftext= "Index"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "How Fortune Affects Human Affairs And How To Resist Her"
+heading: "Chapter 25"
+author: "Niccolo Machiavelli"
+description: "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
+date: 2021-08-20
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 <!-- ## Chapter 25=  -->
 

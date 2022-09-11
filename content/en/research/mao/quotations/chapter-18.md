@@ -4,10 +4,6 @@ heading: Chapter 18
 date: 2022-01-16
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-17"
-linkbtext: "Chapter 17"
-linkf: "/research/mao/quotations/chapter-19"
-linkftext: "Chapter 19"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

@@ -1,16 +1,14 @@
-+++
-title= "Balancing the Power"
-heading= "Chapters 3"
-author= "Niccolo Machiavelli"
-description= "The prince who holds a country of different language, customs and law, should strengthen his weaker neighbours weaken his more powerful ones"
-date= 2021-09-30
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-01"
-linkbtext= "Chapter 1"
-linkf= "/research/machiavelli/prince/chapter-04"
-linkftext= "Chapter 4"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "Balancing the Power"
+heading: "Chapter 3b"
+author: "Niccolo Machiavelli"
+description: "The prince who holds a country of different language, customs and law, should strengthen his weaker neighbours weaken his more powerful ones"
+date: 2021-09-28
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 The prince who holds a country of different language, customs and law, should:
 - strengthen his weaker neighbours

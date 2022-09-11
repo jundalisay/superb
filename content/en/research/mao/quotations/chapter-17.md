@@ -4,23 +4,17 @@ heading: Chapter 17
 date: 2022-01-17
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-16"
-linkbtext: "Chapter 16"
-linkf: "/research/mao/quotations/chapter-18"
-linkftext: "Chapter 18"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
 
 
 
-We should be modest and prudent, guard against arrogance and rashness, and
-serve the Chinese people heart and soul…
+We should be modest and prudent, guard against arrogance and rashness, and serve the Chinese people heart and soul…
 
 "China's Two Possible Destinies" (April 23, 1945), Selected Works, Vol. III p. 253.
-Our point of departure is to serve the people whole-heartedly and never for a
-moment divorce ourselves from the masses, to proceed in all cases from the
-interests of the people and not from one's self-interest or from the interests of
+
+Our point of departure is to serve the people whole-heartedly and never for a moment divorce ourselves from the masses, to proceed in all cases from the interests of the people and not from one's self-interest or from the interests of
 a small group, and to identify our responsibility to the people with our
 responsibility to the leading organs of the Party.
 

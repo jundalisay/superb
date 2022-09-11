@@ -4,10 +4,6 @@ heading: Chapter 8
 date: 2022-01-24
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-07"
-linkbtext: "Chapter 7"
-linkf: "/research/mao/quotations/chapter-09"
-linkftext: "Chapter 9"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

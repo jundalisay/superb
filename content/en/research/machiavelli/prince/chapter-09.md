@@ -1,16 +1,13 @@
-+++
-title= "The Constitutional Principality"
-heading= "Chapter 9"
-date= 2021-09-25
-author= "Niccolo Machiavelli"
-description= "A 'constitutional principality' emerges when a leading citizen becomes the prince by the favour of his fellow citizens and not by wickedness or violence"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-08"
-linkbtext= "Chapter 8"
-linkf= "/research/machiavelli/prince/chapter-10"
-linkftext= "Chapter 10"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "The Constitutional Principality"
+heading: "Chapter 9"
+author: "Niccolo Machiavelli"
+description: "A 'constitutional principality' emerges when a leading citizen becomes the prince by the favour of his fellow citizens and not by wickedness or violence"
+date: 2021-09-18
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
 
 
 A "constitutional principality" emerges when a leading citizen becomes the prince by the favour of his fellow citizens and not by wickedness or violence.

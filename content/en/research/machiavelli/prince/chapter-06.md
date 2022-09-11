@@ -1,16 +1,14 @@
-+++
-title= "New Principalities Acquired By One's Own Arms And Ability"
-heading= "Chapter 6"
-date= 2021-09-28
-description= "Becoming a prince from a private station requires ability or good luck which can reduce many difficulties"
-author= "Niccolo Machiavelli"
-image= "/covers/prince.png"
-linkb= "/research/machiavelli/prince/chapter-01"
-linkbtext= "Chapter 1"
-linkf= "/research/machiavelli/prince/chapter-07"
-linkftext= "Chapter 7"
-icon = "/icons/mach.jpg"
-+++
+---
+title: "New Principalities Acquired By One's Own Arms And Ability"
+heading: "Chapter 6"
+author: "Niccolo Machiavelli"
+description: "Becoming a prince from a private station requires ability or good luck which can reduce many difficulties"
+date: 2021-09-24
+image: "/covers/prince.png"
+icon: "/icons/mach.jpg"
+---
+
+
 
 <!-- Let no one be surprised if, in speaking of entirely new principalities as I shall do, I always refer to the highest examples both of prince and of state. 
 
