@@ -100,7 +100,7 @@ The Kings of Spain did all they could to promote land improvement. Philip IV him
 
 China does this by getting skilled entreperneurs to run state-owned corporations. A recent proof is Jack Ma being forced to follow the Communist Party.
 
-However, this violates free will, and so our solution is more similar to the French model where the French government owns 84% of EDF as a mega-conglomerate.
+However, this violates free will, and becomes unsustainable politically -- a change in ruling class will likely change the energy managers. This is why our solution is more similar to the French model where the French government owns 84% of EDF as a mega-conglomerate.
 - The engineer-owners can be given private equity in exchange for their services in order to keep skilled talent 
 - Part of the capital equipment can be 'financed' by barter for local produce using long-term contracts in order to reduce the cash strain
 
@@ -110,7 +110,8 @@ We can call this a "social corporation" or "social conglomerate" as opposed to a
 
 > *Conglomerate comes from Latin glomerare "form into a ball"
 
-Such measures will reduce the cash strain and make capital improvements cheaper, without sacrificing quality. This hybrid system works well for single land masses like France, China, and Vietnam especially after nuclear fusion is realized. 
+
+Such measures will reduce the cash strain and make capital improvements cheaper, without sacrificing quality. This hybrid system works well for single land masses like France, China, and Vietnam especially after nuclear fusion is realized. Lastly, it is more or less politically agnostic. 
 
 But what about archipelagos where each island is like a feudal kingdom? 
 
