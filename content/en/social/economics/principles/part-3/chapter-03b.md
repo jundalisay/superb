@@ -83,4 +83,18 @@ Every unnecessary accumulation of money is a dead stock which could be employed 
 {{< /quote >}}
 
 
-In the next post, we shall show the pattern of how the allure of money naturally leads to corruption and crises throughout history. 
+<!-- In the next post, we shall show the pattern of how the allure of money naturally leads to corruption and crises throughout history.  -->
+
+
+<!-- According to Adam Smith, the invention of stamped coins as metal money created a convenience in exchanging goods and services, allowing circulation of resources to become faster. The invention of paper money through cash accounts by the French and paper money by the Chinese allowed circulation to be even faster, but also more dangerous:
+
+“The commerce and industry of the country, however, it must be acknowledged, though they may be somewhat augmented, cannot be altogether so secure, when they are thus, as it were, suspended upon the Daedalian wings of paper money, as when they travel about upon the solid ground of gold and silver”
+ros and cons of barter, metal money, paper money, and electronic money and cryptocurrencies as tools of trade:
+Speed Stability Accessibility
+Barter  Slow  Stable  Medium
+Metal Money Medium  Very stable High
+Paper Money Fast  Unstable  Very High
+Electronic Money & crypto Very Fast Very unstable Low
+The ideal tool of trade would be something that has high speed, low volatility or perishability, and high availability. Paper is sup
+As you can see, paper money has the most advantages which allow it to be the main tool of trade even at a time of electronic cash and cryptocurrencies -- you can store a lot of it in your pocket even without electricity and will be accepted everywhere.
+ -->

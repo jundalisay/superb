@@ -151,19 +151,21 @@ In the beginning, the Aryans tried hard to preserve the purity of their blood.
 
 Shúdras used to be kept scrupulously at arm’s length. But such precautions eventually failed. 
 
-Everywhere in India there was intermixing between the Aryans and the non-Aryans – the Dravidians, the Austrics, and the Mongolians - which resulted in a new mixed race. 
 
-This is why dark Vipras and fair Shúdras are not at all rare in India today. 
+The non-Aryans were:
+- Dravidians
+- Austrics
+- Mongolians
 
-Their very colours pay testimony to the intermixture of Aryan and non-Aryan blood running in their veins.
+Everywhere in India, there was intermixing between the Aryans and non-Aryans, leading to a new mixed race. 
+- This is why dark Vipras and fair Shúdras are not rare in India today. 
+- Their very colours pay testimony to the intermixture of Aryan and non-Aryan blood.
 
 The victorious Aryans, coming from cold countries, were a skilled and competent race. 
-
-Their competence, their sense of superiority over the non-Aryans, and their unity born out of hatred for the non-Aryans, helped them in their victory over India. 
+- Their competence, their sense of superiority over the non-Aryans, and their unity born out of hatred for the non-Aryans, helped them in their victory over India. 
 
 The non-Aryans were defeated by the Aryans in northern India. 
-
-The non-Aryans of southern and eastern India were under an inferiority complex. Yet none of them surrendered to the Aryans without a fight. 
+- The non-Aryans of southern and eastern India were under an inferiority complex. Yet none of them surrendered to the Aryans without a fight. 
 
 As they were constantly engaged in warfare with the Aryans, they became much more proficient in battle. Thus Aryan victory in southern and eastern India eventually became impossible. 
 
@@ -181,7 +183,9 @@ Nevertheless there was a predisposition in them to mould a society. The non-Arya
 
 With the exception of a few munis and rśis, the militant (kśatriya-predominant) Aryans used to view the world with an extoversial outlook. After major battles they would kill the men of the conquered community, employ their children as servants, and either marry the women or employ them as maid-servants. For that reason there was a large number of male and female slaves in their society.
 
-War-loving races are generally careful to honour the rules and laws of war, and frame new laws to suit the convenience of warring armies. Thus, the Aryans displayed a commendable sense of discipline during war. Being a war-loving race, it was but natural for them to do so. The non-Aryans, however, were backward in this regard. During their battles with the Aryans they did not respect the rules and laws of war (such as not to strike at the defenceless, not to employ more than one fighter against another, not to kill a retreating or surrendering soldier or a soldier begging for mercy). Not only was this highly irritating to the Aryans; the lack of a disciplined military mentality was actually one of the main reasons for the non-Aryans’ defeat.
+War-loving races are generally careful to honour the rules and laws of war, and frame new laws to suit the convenience of warring armies. Thus, the Aryans displayed a commendable sense of discipline during war. Being a war-loving race, it was but natural for them to do so. 
+
+The non-Aryans, however, were backward in this regard. During their battles with the Aryans they did not respect the rules and laws of war (such as not to strike at the defenceless, not to employ more than one fighter against another, not to kill a retreating or surrendering soldier or a soldier begging for mercy). Not only was this highly irritating to the Aryans; the lack of a disciplined military mentality was actually one of the main reasons for the non-Aryans’ defeat.
 
 Usually the non-Aryans were content with little. What was developed in them was their introspective nature, which not only made them devotees of God, but infused in them a surging love for spiritual philosophy. The religious practices of the Aryans, however, entailed performing certain sacrifices in order to attain certain materialistic gains. That is, their religious observances were mainly ritualistic. 
 

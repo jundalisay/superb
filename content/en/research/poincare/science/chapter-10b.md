@@ -13,27 +13,18 @@ icon: /icons/poincare.jpg
  
 Most theorists have a constant predilection for explanations borrowed from physics, mechanics, or dynamics. 
 
-Some would be satisfied if they could account for all phenomena by the
-motion of molecules attracting one another accordingscience and hypothesis
-186
-to certain laws. Others are more exact: they would
-suppress attractions acting at a distance; their molecules
-would follow rectilinear paths, from which they would
-only be deviated by impacts. Others again, such as
-Hertz, suppress the forces as well, but suppose their
-molecules subjected to geometrical connections analo-
-gous, for instance, to those of articulated systems; thus,
-they wish to reduce dynamics to a kind of kinematics. In
-a word, they all wish to bend nature into a certain form,
-and unless they can do this they cannot be satisfied. Is
-Nature flexible enough for this?
-We shall examine this question in Chapter 12, àpro-
-pos of Maxwell’s theory. 
+Some would be satisfied if they could account for all phenomena by the motion of molecules attracting one another according to certain laws. 
 
-Every time that the principles of least action and energy are satisfied, we shall see that not
-only is there always a mechanical explanation possible,
-but that there is an unlimited number of such explana-
-tions. 
+Others are more exact: they wouldsuppress attractions acting at a distance; their molecules would follow rectilinear paths, from which they would only be deviated by impacts. 
+
+Others again, such as Hertz, suppress the forces as well, but suppose their molecules subjected to geometrical connections analogous, for instance, to those of articulated systems; thus, they wish to reduce dynamics to a kind of kinematics. In
+a word, they all wish to bend nature into a certain form, and unless they can do this they cannot be satisfied. 
+
+Is Nature flexible enough for this?
+
+We shall examine this question in Chapter 12, àpropos of Maxwell’s theory. 
+
+Every time that the principles of least action and energy are satisfied, we shall see that not only is there always a mechanical explanation possible, but that there is an unlimited number of such explanations. 
 
 By means of a well-known theorem due to Königs, it may be shown that we can explain everything in an unlimited number of ways, by connections after the manner of Hertz, or, again, by central forces. 
 
@@ -102,59 +93,52 @@ into the midst of the material media.
 Fizeau’s experiment goes further. By the interference of rays which
 have passed through the air or water in motion, it seems to show us two different media penetrating each other, and yet being displaced with respect to each other. 
 
-The ether is all but in our grasp. Experiments can be conceived in which we come closer still to it. Assume that
-Newton’s principle of the equality of action and reaction is not true if applied to matter alone, and that this can
-be proved. The geometrical sum of all the forces applied to all the molecules would no longer be zero. 
+The ether is all but in our grasp. Experiments can be conceived in which we come closer still to it. Assume that Newton’s principle of the equality of action and reaction is not true if applied to matter alone, and that this can be proved. The geometrical sum of all the forces applied to all the molecules would no longer be zero. 
 
 If we did not wish to change the whole of the science of mechanics, we should have to introduce the ether, in order that
-the action which matter apparently undergoes should be counterbalanced by the reaction of matter on something.
-Or again, suppose we discover that optical and electrical phenomena are influenced by the motion of the earth.
+the action which matter apparently undergoes should be counterbalanced by the reaction of matter on something. Or again, suppose we discover that optical and electrical phenomena are influenced by the motion of the earth.
 
-It would follow that those phenomena might reveal to us not only the relative motion of material bodies, but also
-what would seem to be their absolute motion. 
+It would follow that those phenomena might reveal to us not only the relative motion of material bodies, but also what would seem to be their absolute motion. 
 
-Again, it would be necessary to have an ether in order that these
-so-called absolute movements should not be their displacements with respect to empty space, but with respect
-to something concrete.
+It would be necessary to have an ether in order that these so-called absolute movements should not be their displacements with respect to empty space, but with respect to something concrete.
 
-Will this ever be accomplished? I do not think so, and I shall explain why; and yet, it is not absurd, for
-others have entertained this view. For instance, if the theory of Lorentz, of which I shall speak in more detail
-in Chapter XIII., were true, Newton’s principle would not apply to matter alone, and the difference would not
-be very far from being within reach of experiment. 
+
+
+I do not think this ever be accomplished. 
+
+If the theory of Lorentz (in Chapter 13) were true then:
+- Newton’s principle would not apply to matter alone and
+- the difference would not  be very far from being within reach of experiment. 
 
 On the other hand, many experiments have been made on the influence of the motion of the earth. The results
-have always been negative. But if these experiments have been undertaken, it is because we have not been certain
-beforehand; and indeed, according to current theories, the compensation would be only approximate, and we
-might expect to find accurate methods giving positivethe theories of modern physics.
+have always been negative. 
 
-results. I think that such a hope is illusory; it was nonetheless interesting to show that a success of this kind
-would, in a certain sense, open to us a new world.
+But if these experiments have been undertaken, it is because we have not been certain beforehand. 
 
-And now allow me to make a digression; I must ex-
-plain why I do not believe, in spite of Lorentz, that more
-exact observations will ever make evident anything else
-but the relative displacements of material bodies. 
+According to current theories, the compensation would be only approximate. We might expect to find accurate methods giving positive results. 
 
-Experiments have been made that should have disclosed the
-terms of the first order; the results were nugatory. Could
-that have been by chance? No one has admitted this;
-a general explanation was sought, and Lorentz found it.
-He showed that the terms of the first order should can-
-cel each other, but not the terms of the second order.
-Then more exact experiments were made, which were
-also negative; neither could this be the result of chance.
-An explanation was necessary, and was forthcoming; they
-always are; hypotheses are what we lack the least. But
-this is not enough. Who is there who does not think that
-this leaves to chance far too important a rôle? Would it
-not also be a chance that this singular concurrence should
-cause a certain circumstance to destroy the terms of the
-first order, and that a totally different but very oppor-
-tune circumstance should cause those of the second order
-to vanish? 
+I think that such a hope is illusory. It was nonetheless interesting to show that a success of this kind would open to us a new world.
 
-No; the same explanation must be found for the two cases, and everything tends to show that this ex-
-planation would serve equally well for the terms of the
-higher order, and that the mutual destruction of these
+<!-- And now allow me to make a digression; I must explain why  -->
+
+I do not believe, in spite of Lorentz, that more exact observations will ever make evident anything else but the relative displacements of material bodies. 
+
+Experiments have been made that should have disclosed the terms of the first order; the results were nugatory. Could
+that have been by chance? 
+
+No one has admitted this. 
+
+A general explanation was sought, and Lorentz found it.
+
+He showed that the terms of the first order should cancel each other, but not the terms of the second order.
+Then more exact experiments were made, which were also negative; neither could this be the result of chance.
+
+An explanation was necessary, and was forthcoming; they always are; hypotheses are what we lack the least. But this is not enough. 
+
+Who is there who does not think that this leaves to chance far too important a rôle? 
+
+Would it not also be a chance that this singular concurrence should cause a certain circumstance to destroy the terms of the first order, and that a totally different but very opportune circumstance should cause those of the second order to vanish?  
+
+No; the same explanation must be found for the two cases, and everything tends to show that this explanation would serve equally well for the terms of the higher order, and that the mutual destruction of these
 terms will be rigorous and absolute.
 

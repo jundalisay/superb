@@ -1,14 +1,11 @@
 ---
 title: "Metaphysics"
 # heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
-date: 2020-01-01
+date: 2020-01-23
 image: "/photos/physics/quasar.jpg"
 description: "The Metaphysics followed by the Essassani"
-linkb: "/research/other/alien/essassani"
-linkbtext: "Index"
-linkf: "/research/other/alien/essassani"
-linkftext: "Index"
 ---
+
 
 
 ## "Receiving" the Reality you Desire

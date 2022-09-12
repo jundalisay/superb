@@ -9,6 +9,33 @@ icon: /icons/marx.png
 ---
 
 
+
+## Introduction 
+
+
+The spectre of communism is haunting Europe. 
+
+All the powers of old Europe have entered into a holy alliance to exorcise this spectre:
+- Pope and Tsar
+- Metternich and Guizot
+- French Radicals and German police-spies.
+
+The ruling parties have labeled all opposition parties as communistic. 
+
+Opposition parties have hurled back the reproach of communism against:
+- the more advanced opposition parties
+- its own adversaries.
+
+This led to 2 things:
+
+1. All European powers have acknolwedged Communism to be a power.
+2. Communists should openly publish their views, aims, tendencies, and meet this tale of the Spectre of Communism with a manifesto
+
+This is why we assembled in London and sketched the following manifesto. 
+
+
+## Chapter 1
+
 The history of existing societies is the history of class struggles between;
 - freeman and slave
 - patrician and plebeian

@@ -1,13 +1,8 @@
 ---
 title: "Basic Beliefs of the Essassani"
-# heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
-date: 2020-01-01
+date: 2020-01-31
 image: "/photos/physics/quasar.jpg"
 description: "The Metaphysics followed by the Essassani"
-linkb: "/research/other/alien/essassani"
-linkbtext: "Index"
-linkf: "/research/other/alien/essassani"
-linkftext: "Index"
 ---
 
 
@@ -95,9 +90,14 @@ including ALL dimensions.
 5. The only constant in the universe is change -  except for the first 4 postulates, which never change.
 
 
-> *Superphysics Note=  In Hinduism, this is karma. Physical reality is actually a 3D mirror from the spin or particles
+> *Superphysics Note: In Hinduism, this is karma. Physical reality is actually a 3D mirror from the spin or particles
 
-<br>
+
+
+<!-- Initially I was confused at how the 7 densities of the Essassani didn't match up to the 7 chakras of Hinduism. Metaphysical principles are supposed to be consistent in all dimensions and all perspectives. But the Essassani metaphysics is strange as it assigns the thoughts and feelings as 3rd density, when in Hindu metaphysics, these apply to all densities and originates from the 7th density. 
+
+I realized it's because the Essassani are already unified and based on 4th density, making it their frame of reference. On the contrary, humans are still dis-integrated and based on matter (i.e. we need to eat material food instead of getting the pranah from the aether like the Esssassani do). This makes the 1st density as our frame of reference. We are still struggling to discover gravitation and have compassion for all, just as the Essassani are struggling to settle in non-physicality. The massacres in Ukraine and mass extinction are proofs that humans are still far from leaving 1st density. Their theory is that we can rubber band from 1st to 4th, but never explain how it might happen. -->
+
 
 ## The Essassani Formula
 

@@ -4,10 +4,6 @@ heading: "A new value-circulation system"
 date: 2020-07-05
 image: "/og/banking.jpg"
 description : "Points Banking integrates Basic Universal Revenue and Resource Credits to create a new value circulation system"
-linkb: "/social/economics/solutions/bur"
-linkbtext: basic-universal-revenue
-linkf: /social/economics/solutions/swap-donations
-linkftext: swap-donations
 # categories: [Economic Solutions]
 tags: [Points Banking]
 author: Juan

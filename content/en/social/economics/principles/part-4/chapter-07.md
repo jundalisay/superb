@@ -108,7 +108,7 @@ You can think of DCTI as a bunch of detectors that help give a complete picture 
 
 Factor | Physics equivalent | Pantrynomic system | Remarks
 --- | --- | --- | ---
-Demand | Higgs Field | [First Law of Value](/social/economics/principles/first-law/): Basic Universal Revenue and the Grain Index as store of value | Basis of economic justice which is lacking in both Capitalism and Communism
-Capital | Gravitation | [Second Law of Value](/social/economics/principles/second-law/): Effort Theory of Value ISAIAH Match Leads to economic democracy and maximized non-commercial potential | We gravitate towards certain interests based on our dharma
-Trade | Electroweak | [Third Law of Value](/social/economics/principles/third-law/): Exchange systems with maintenance cost | Regulates merchants as the opposite of Mercantilism
-Industry | Strong Layer | [Fourth Law of Value](/social/economics/principles/fourth-law/): Real Price via the Economic Table | Economic balance or stasis that is lacking in Capitalism
+Demand | Higgs Field | [First Law of Value](/social/economics/principles/part-1/chapter-01/): Basic Universal Revenue and the Grain Index as store of value | Basis of economic justice which is lacking in both Capitalism and Communism
+Capital | Gravitation | [Second Law of Value](/social/economics/principles/part-2/chapter-0/): Effort Theory of Value ISAIAH Match Leads to economic democracy and maximized non-commercial potential | We gravitate towards certain interests based on our dharma
+Trade | Electroweak | [Third Law of Value](/social/economics/principles/part-3/chapter-01/): Exchange systems with maintenance cost | Regulates merchants as the opposite of Mercantilism
+Industry | Strong Layer | [Fourth Law of Value](/social/economics/principles/part-4/chapter-01/): Real Price via the Economic Table | Economic balance or stasis that is lacking in Capitalism

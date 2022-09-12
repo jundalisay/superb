@@ -1,8 +1,8 @@
 ---
 title: "Free Competition"
 description: "Free Competition is an essential part of our third and fourth law of value. Competition is the third law. Freedom is the fourth law"
+date: 22-12-26
 image: /photos/psych/freedom.jpg
-# image: "https://res.cloudinary.com/nara/image/upload/v1632386432/photos/beauty600.jpg"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

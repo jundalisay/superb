@@ -1,13 +1,10 @@
-+++
-title=  "What is Time?"
-date=  2020-01-01
-image=  "/photos/physics/quasar.jpg"
-description=  "How the Essassani view time as an illusion created by consciousness"
-linkbtext=  "Index"
-linkb=  "/research/other/alien/essassani"
-linkftext=  "Index"
-linkf=  "/research/other/alien/essassani"
-+++
+---
+title: "What is Time?"
+# heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
+date: 2020-01-16
+image: "/photos/physics/quasar.jpg"
+description: "How the Essassani view time as an illusion created by consciousness"
+---
 
 
 There is only ONE MOMENT in all creation - the eternal NOW.

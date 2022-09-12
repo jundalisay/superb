@@ -1,13 +1,10 @@
-+++
-title=  "Definitions"
-date=  2020-01-01
-image=  "/photos/physics/quasar.jpg"
-description=  "Definitions by the Essassani"
-linkbtext=  "Index"
-linkb=  "/research/other/alien/essassani"
-linkftext=  "Index"
-linkf=  "/research/other/alien/essassani"
-+++
+---
+title: "Definitions"
+date: 2020-01-28
+image: "/photos/physics/quasar.jpg"
+description: "Definitions by the Essassani"
+---
+
 
 
 Word | Definition 

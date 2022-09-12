@@ -1,13 +1,9 @@
-+++
-title= "Definitions"
-date=  2020-01-01
-image=  "/photos/physics/quasar.jpg"
-description=  "Definitions by the Essassani"
-linkbtext=  "Index"
-linkb=  "/research/other/alien/essassani"
-linkftext=  "Index"
-linkf=  "/research/other/alien/essassani"
-+++
+---
+title: "Life"
+date: 2020-01-25
+image: "/photos/physics/quasar.jpg"
+description: "The Essassani mantra is to 'Follow your excitement' and 'So what?'"
+---
 
 
 
@@ -120,7 +116,6 @@ Right NOW, this dream of having a physical incarnation seems "totally REAL!".
 Yet, when you go through the "death" transition, you WAKE UP from this dream, and "remember" that you are actually Spirit.
 And you realize, that this entire physcal incarnation experience was "only a dream".
 
-SIDE NOTE= 
 
 Just because it is "just a dream", does not mean it is not "real".
 When your consciousness is focused within any TIME-SPACE-HOLOGRAM, it is "real".
@@ -128,15 +123,16 @@ When your consciousness is focused outside of any TIME-SPACE-HOLOGRAM, that then
 Well, which is true?      "Real"  or  "Illusion" ?
 They are BOTH correct and true!   It simple depends on your point of view (where your consciousness is focused - at any moment).
 
-And............when you pass through the "death transition" and "wake up" from this dream, you are STILL dreaming=   but you are now in a higher-dimensional dream.
+When you pass through the "death transition" and "wake up" from this dream, you are STILL dreaming. But you are now in a higher-dimensional dream.
+
 Both are equally "real". Both are equally a "dream".
-And as you Ascend into higher and higher dimensions, you repeatedly "wake up" from that dream, into a more awake reality, but that is also a dream,
-which you will realize when you ascend into an even higher dimension.
+And as you Ascend into higher and higher dimensions, you repeatedly "wake up" from that dream, into a more awake reality, but that is also a dream, which you will realize when you ascend into an even higher dimension.
 
 Thoughts are the only reality.
 Dreams are the only reality.
 Consciousness is the only reality.
-        Example=  The chair you are sitting on is not actually "real". But your EXPERIENCE of that chair is "real".
+
+For example: The chair you are sitting on is not actually "real". But your EXPERIENCE of that chair is "real".
 
 
 ### Personality
@@ -148,8 +144,9 @@ Likewise, the personality also functions as a prism, separating the holistic ene
 - emotions
 - thought Patterns & actions
 
-Soul ====> prism of Personality ====> Beliefs ====> Emotions ====> Thought Patterns & Actions 
-
+```bash
+Soul -> prism of Personality -> Beliefs -> Emotions -> Thought Patterns & Actions 
+```
 
 . | Beliefs | Emotions | Thought Patterns & Actions
 --- | --- | --- | ---  

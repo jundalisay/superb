@@ -5,10 +5,6 @@ title: "Trade"
 date: 2021-12-19
 image: /covers/econsp.jpg
 description: ""
-linkb: /social/economics/principles
-linkbtext: Index
-linkf: /social/economics/principles
-linkftext: "Index"
 author: Dalisay
 ---
 

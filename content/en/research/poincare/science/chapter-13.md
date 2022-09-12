@@ -1,7 +1,7 @@
 ---
 title: Electro-dynamics
 heading: Chapter 13
-date: 2022-02-01
+date: 2021-12-23
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
@@ -143,31 +143,28 @@ total work done is not zero.
 The most remarkable electro-dynamical experiments are those in which continuous rotations are produced, and which are called
 unipolar induction experiments. 
 
-A magnet may turn around its axis. A current passes first through a fixed wire and then enters the magnet by the pole N, for instance,
-passes through half the magnet, and emerges by a sliding contact and re-enters the fixed wire. The magnet then
+A magnet may turn around its axis. A current passes first through a fixed wire and then enters the magnet by the pole N, for instance, passes through half the magnet, and emerges by a sliding contact and re-enters the fixed wire. The magnet then
 begins to rotate continuously. 
 
 This is Faraday’s experiment. 
 
 How is it possible? 
 
-If it were a question of two circuits of invariable form, C fixed and C 0 movable about
-an axis, the latter would never take up a position of continuous rotation; in fact, there is an electro-dynamical
-potential; there must therefore be a position of equilibrium when the potential is a maximum. Continuous
-rotations are therefore possible only when the circuit C 0 is
-composed of two parts—one fixed, and the other movable
-about an axis, as in the case of Faraday’s experiment.
+If it were a question of two circuits of invariable form, C fixed and C 0 movable about an axis, the latter would never take up a position of continuous rotation; in fact, there is an electro-dynamical potential; there must therefore be a position of equilibrium when the potential is a maximum. 
+
+Continuous rotations are therefore possible only when the circuit C 0 is composed of two parts—one fixed, and the other movable about an axis, as in the case of Faraday’s experiment.
 
 Here again it is convenient to draw a distinction. 
 
-The passage from the fixed to the movable part, or vice versâ, may take place either by simple contact, the same point of the movable part remaining constantly in contact with the same point of the fixed part, or by sliding contact, the same point of the movable part coming successively
-into contact with the different points of the fixed part.
+The passage from the fixed to the movable part, or vice versâ, may take place either by simple contact, the same point of the movable part remaining constantly in contact with the same point of the fixed part, or by sliding contact, the same point of the movable part coming successively into contact with the different points of the fixed part.
 
 It is only in the second case that there can be continuous rotation. 
 
-This is what then happens:—the system tends to take up a position of equilibrium; but, when at
-the point of reaching that position, the sliding contact puts the moving part in contact with a fresh point in the
-fixed part; it changes the connexions and therefore the conditions of equilibrium, so that as the position of equilibrium is ever eluding, so to speak, the system which is trying to reach it, rotation may take place indefinitely.
+This is what then happens:
+
+The system tends to take up a position of equilibrium; but, when at the point of reaching that position, the sliding contact puts the moving part in contact with a fresh point in the fixed part. 
+
+It changes the connexions and therefore the conditions of equilibrium, so that as the position of equilibrium is ever eluding, so to speak, the system which is trying to reach it, rotation may take place indefinitely.
 
 Ampère admits that the action of the circuit on the movable part of C 0 is the same as if the fixed part of C 0 did not exist, and therefore as if the current passing through the movable part were an open current. 
 
@@ -213,35 +210,23 @@ the point in space at which the pole is.
 
 Well, this is true if the two systems only contain closed currents, and according to Ampère it would not be true if the systems contained open currents. 
 
-It is sufficient to remark, for instance, that if a magnetic pole is placed at A and an
-element at B, the direction of the element being in AB
-produced, this element, which will exercise no action on
-the pole, will exercise an action either on a magnetic needle placed at A, or on an element of current at A.
+It is sufficient to remark, for instance, that if a magnetic pole is placed at A and an element at B, the direction of the element being in AB produced, this element, which will exercise no action on the pole, will exercise an action either on a magnetic needle placed at A, or on an element of current at A.
+
 
 ### 5. Induction
 
 The discovery of electro-dynamical induction followed not long after the immortal work of Ampère. 
 
-As long as it is only a question of closed currents there is no difficulty, and Helmholtz has even
-remarked that the principle of the conservation of energy
-is sufficient for us to deduce the laws of induction from the
-electro-dynamical laws of Ampère. 
+As long as it is only a question of closed currents there is no difficulty, and Helmholtz has even remarked that the principle of the conservation of energy is sufficient for us to deduce the laws of induction from the electro-dynamical laws of Ampère. 
 
 But on the condition, as Bertrand has shown,—that we make a certain number of hypotheses.
 
-The same principle again enables this deduction to be made in the case of open currents, although the result cannot be tested by experiment, since such currents
-cannot be produced.
+The same principle again enables this deduction to be made in the case of open currents, although the result cannot be tested by experiment, since such currents cannot be produced.
 
-If we wish to compare this method of analysis with Ampère’s theorem on open currents, we get results which
-are calculated to surprise us. In the first place, induction
-cannot be deduced from the variation of the magnetic field by the well-known formula of scientists and practical men; 
+If we wish to compare this method of analysis with Ampère’s theorem on open currents, we get results which are calculated to surprise us. In the first place, induction cannot be deduced from the variation of the magnetic field by the well-known formula of scientists and practical men.
 
-in fact, as I have said, properly speaking, there is no magnetic field. But further, if a circuit C is sub-
-jected to the induction of a variable voltaic system S, and if this system S be displaced and deformed in any way whatever, so that the intensity of the currents of this system varies according to any law whatever, then so long
-as after these variations the system eventually returns to its initial position, it seems natural to suppose that the mean electro-motive force induced in the circuit C is zero.
+In fact, there is no magnetic field. 
 
-This is true if the circuit C is closed, and if the system S only contains closed currents. It is no longer true if we
-accept the theory of Ampère, since there would be open currents. So that not only will induction no longer be
-the variation of the flow of magnetic force in any of the usual senses of the word, but it cannot be represented by
-the variation of that force whatever it may be.
+But further, if a circuit C is subjected to the induction of a variable voltaic system S, and if this system S be displaced and deformed in any way whatever, so that the intensity of the currents of this system varies according to any law whatever, then so long as after these variations the system eventually returns to its initial position, it seems natural to suppose that the mean electro-motive force induced in the circuit C is zero.
 
+This is true if the circuit C is closed, and if the system S only contains closed currents. It is no longer true if we accept the theory of Ampère, since there would be open currents. So that not only will induction no longer be the variation of the flow of magnetic force in any of the usual senses of the word, but it cannot be represented by the variation of that force whatever it may be.

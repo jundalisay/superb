@@ -1,5 +1,14 @@
+---
+title: "Neutrality, Positivity, and Negativity"
+# heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
+date: 2020-01-20
+image: "/photos/physics/quasar.jpg"
+description: "The Metaphysics followed by the Essassani"
+---
+
+
 +++
-title=  "Neutrality, Positivity, and Negativity"
+title=  ""
 date=  2020-01-01
 image=  "/photos/physics/quasar.jpg"
 description=  "Neutrality, Positivity, and Negativity are the mindsets that are possible. The Essassani advocate Positivity and Neutrality, never Negativity"

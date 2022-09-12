@@ -1,15 +1,10 @@
 ---
 title: "Techniques"
 # heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
-date: 2020-01-01
+date: 2020-01-18
 image: "/photos/physics/quasar.jpg"
 description: "The Metaphysics followed by the Essassani"
-linkb: "/research/other/alien/essassani"
-linkbtext: "Index"
-linkf: "/research/other/alien/essassani"
-linkftext: "Index"
 ---
-
 
 
 ## 2 Quick Techniques for Manifesting your Preferred Reality

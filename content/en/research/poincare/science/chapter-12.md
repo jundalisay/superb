@@ -1,7 +1,7 @@
 ---
 title: Optics And Electricity
 heading: Chapter 12
-date: 2022-02-01
+date: 2021-12-28
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

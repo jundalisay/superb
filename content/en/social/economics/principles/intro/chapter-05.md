@@ -13,17 +13,19 @@ Unlike Neoclassical Economics which only focuses on money, revenue, and business
 
 As such, we divide this book into four parts, with each part representing a law of exchangeable value. 
 
+
+
 Theme | Law 1 | Law 2 | Law 3 | Law 4
 ---- | --- | --- | --- | --- 
-Name 				 | Nominal | Real (Effort Theory) | Market | Natural 
+Name 				 | Nominal 						| Real (Effort Theory) | Market | Natural 
 Energy Manifestation | Commodities and Stores of Value | Fixed Capital | Circulating Capital | Taxes
-Energy Origin 		 | Consumption Motive | Force of Capital | Tools of Trade | GDP and Purchasing Power
+Energy Origin 		 | Consumption Motive 			| Force of Capital | Tools of Trade | GDP and Purchasing Power
 Energy Movement      | Absolute Demand Effectie Demand | Primary Arbitrage | Secondary Arbitrage | Types of Effort
-Energy Institution   | Minimum Requirements | Business Organizations | Banking, Barter system | Government Institutions (Resources epartment, Education) 
-Energy Model 		 | Demand Model | Supply Model | Demand-Supply | Targetted Development
-Energy Flow 		 | Demand Inflation Deflation | Core Competency | 4 Revenues | DCTI
-Energy Index 		 | Grain Index | Cost Curves | Economic Table | Ratios GDP
-Energy Scope 		 | Rural | Urban | Regional Trade (ASEAN EU) | UN 
-Energy Class 		 | Laborer
-Philosophies 		 | Socialism | Classical Economics Buddhist Economics | Neoclassical Economics | Communism Shariah Inca System 
+Energy Institution   | Minimum Requirements 		| Business Organizations | Banking, Barter system | Government Institutions (Resources Dept, Education) 
+Energy Model 		 | Demand Model 				| Supply Model | Demand-Supply | Targetted Development
+Energy Flow (Crisis?)| Demand Inflation Deflation 	| Core Competency | 4 Revenues | DCTI
+Energy Index 		 | Grain Index 					| Cost Curves 	| Economic Table | Ratios GDP
+Energy Scope 		 | Rural 						| Urban | Regional Trade (ASEAN EU) | UN 
+Energy Class 		 | Worker 						| Warrior | Thinker | Trader
+Philosophies 		 | Socialism 					| Classical Economics Buddhist Economics | Neoclassical Economics | Communism Shariah Inca System 
 

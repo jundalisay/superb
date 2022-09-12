@@ -12,6 +12,9 @@ icon: /icons/sp.png
 
 The interaction between ideas and the dharma of those ideas create a movement and reaction which arise when ideas are brought near, made to interact, or are added or introduced to each other. 
 
+
+## Cause and Effect
+
 The action of bringing near, introducing, or adding to others thus leads to reaction.
 - The former is called "cause".
 - The latter is called "effect". 

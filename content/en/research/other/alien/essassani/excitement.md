@@ -1,13 +1,11 @@
-+++
-title=  "Follow your excitement"
-date=  2020-01-01
-image=  "/photos/physics/quasar.jpg"
-description=  "The Essassani mantra is to 'Follow your excitement' and 'So what?'"
-linkbtext=  "Index"
-linkb=  "/research/other/alien/essassani"
-linkftext=  "Index"
-linkf=  "/research/other/alien/essassani"
-+++
+---
+title: "Follow your excitement"
+date: 2020-01-01
+image: "/photos/physics/quasar.jpg"
+description: "The Essassani mantra is to 'Follow your excitement' and 'So what?'"
+---
+
+
 
 
 ## Finding your Purpose in Life

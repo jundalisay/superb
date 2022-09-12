@@ -6,10 +6,6 @@ date: 2021-12-29
 # date: 2015-01-01
 image: /photos/buy.jpg
 description: ""
-linkb: /social/economics/principles/part-3
-linkbtext: "Part 3"
-linkf: /social/economics/principles/part-3
-linkftext: "Part 3"
 author: Dalisay
 aliases:
   /articles/pantrynomics/barter-disadvantages-addressed
