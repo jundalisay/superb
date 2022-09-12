@@ -87,7 +87,11 @@ In such cases, we think about the solution by:
 
 Even then, the solution might still not reflect to our consciousness. 
 
-The solution might finally reflect after we ask our customers directly, or read the device's user manual. At that moment, our minds feel a relief since its effort can end. 
+The solution might finally reflect after we:
+- ask our customers directly, or
+- read the device's user manual. 
+
+At that moment, our minds feel a relief since its effort can end. 
 
 
 
@@ -101,15 +105,13 @@ The metaphysical domain exists inside our abstract minds and is infinitely large
 
 <!-- This matches the common opinion that the physical universe is much larger than what we can currently perceive. We can say that the unknown parts are part of the metaphysical domain until they are actually perceived physically.  -->
 
-We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Layer Model. 
-
-
 {{< quote ava="soc" >}}
 If Person A were to go from the lower to the middle region, he would imagine that he is going up. Person B is in the middle region but has never seen the true upper world. He sees Person A coming and imagines that he has arrived in the upper region. 
-<br><br>
-If Person A goes back down again, Person B would imagine that he was descending. All that would arise out of his ignorance of the true upper, middle, and lower regions.
+If Person A goes back down, Person B would imagine that he was descending. This would arise out of his ignorance of the true upper, middle, and lower regions.
 <cite>The Republic by Plato Simplifed, Book 9, Chapter 3</cite>
 {{< /quote >}}
+
+We call this domain "aethereal" or made of aether or *akasha* in Hinduism. This will be explained later when we explain our Five Layer Model. 
 
 
 {{< quote >}}

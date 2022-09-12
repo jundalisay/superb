@@ -8,14 +8,24 @@ icon: /icons/bacon.png
 ---
 
 
-{{< s v="116" >}} First, then, we must desire men not to suppose that we are ambitious of founding any philosophical sect, like the ancient Greeks, or some moderns, as Telesius, Patricius, and Severinus.[63] 
+{{< s v="116" >}} We are not trying to founding a philosophical sect, like the ancient Greeks, or some moderns, as Telesius, Patricius, and Severinus.[63][91] 
 
-For neither is this our intention,[91] nor do we think that peculiar abstract opinions on nature and the principles of things are of much importance to men’s fortunes, since it were easy to revive many ancient theories, and to introduce many new ones; as, for instance, many hypotheses with regard to the heavens can be formed, differing in themselves, and yet sufficiently according with the phenomena.
+We do not believe that peculiar<!--  abstract opinions on nature and the --> principles of things are of much importance to men’s fortunes. This is because it is easy to:
+- revive many ancient theories and
+- introduce many new ones
 
-We bestow not our labor on such theoretical and, at the same time, useless topics. On the contrary, our determination is that of trying, whether we can lay a firmer foundation, and extend to a greater distance the boundaries of human power and dignity. And although here and there, upon some particular points, we hold (in our own opinion) more true and certain, and I might even say, more advantageous tenets than those in general repute (which we have collected in the fifth part of our Instauration), yet we offer[92] no universal or complete theory. The time does not yet appear to us to be arrived, and we entertain no hope of our life being prolonged to the completion of the sixth part of the Instauration (which is destined for philosophy discovered by the interpretation of nature), but are content if we proceed quietly and usefully in our intermediate pursuit, scattering, in the meantime, the seeds of less adulterated truth for posterity, and, at least, commence the great work.
+<!-- ; as, for instance, many hypotheses with regard to the heavens can be formed, differing in themselves, and yet sufficiently according with the phenomena. -->
+
+We do not waste effort on <!--  bestow not our labor on such --> theoretical and useless topics. 
+
+On the contrary, our determination is that of trying, whether we can lay a firmer foundation, and extend to a greater distance the boundaries of human power and dignity.
+
+And although here and there, upon some particular points, we hold (in our own opinion) more true and certain, and I might even say, more advantageous tenets than those in general repute (which we have collected in the fifth part of our Instauration), yet we offer[92] no universal or complete theory. 
+
+The time does not yet appear to us to be arrived, and we entertain no hope of our life being prolonged to the completion of the sixth part of the Instauration (which is destined for philosophy discovered by the interpretation of nature), but are content if we proceed quietly and usefully in our intermediate pursuit, scattering, in the meantime, the seeds of less adulterated truth for posterity, and, at least, commence the great work.
 
 
-{{< s v="117" >}} As we pretend not to found a sect, so do we neither offer nor promise particular effects; which may occasion some to object to us, that since we so often speak of effects, and consider everything in its relation to that end, we ought also to give some earnest of producing them. 
+{{< s v="117" >}} We also do not offer nor promise specific effects. Some people object to us, that since we so often speak of effects, and consider everything in its relation to that end, we ought also to give some earnest of producing them. 
 
 Our course and method does not deduce effects from effects, nor experiments from experiments (as the empirics do). Instead, we deduce:
 - causes and axioms from effects and experiments, and
@@ -28,7 +38,11 @@ Anyone with intelligence will observe the indications and sketches of many noble
 
 Yet our present natural history is not sufficiently copious and well ascertained to satisfy a proper interpretation.
 
-If, therefore, there be any one who is more disposed and prepared for mechanical art, and ingenious in discovering effects, than in the mere management of experiment, we[93] allow him to employ his industry in gathering many of the fruits of our history and tables in this way, and applying them to effects, receiving them as interest till he can obtain the principal. For our own part, having a greater object in view, we condemn all hasty and premature rest in such pursuits as we would Atalanta’s apple (to use a common allusion of ours); for we are not childishly ambitious of golden fruit, but use all our efforts to make the course of art outstrip nature, and we hasten not to reap moss or the green blade, but wait for a ripe harvest.
+If, therefore, there be any one who is more disposed and prepared for mechanics  art, and ingenious in discovering effects, than in the mere management of experiment, we[93] allow him to employ his industry in gathering many of the fruits of our history and tables in this way, and applying them to effects, receiving them as interest till he can obtain the principal.
+
+For us, having a greater object in view, we condemn all hasty and premature rest in such pursuits as we would Atalanta’s apple (to use a common allusion of ours); 
+
+For we are not childishly ambitious of golden fruit, but use all our efforts to make the course of art outstrip nature, and we hasten not to reap moss or the green blade, but wait for a ripe harvest.
 
 {{< s v="118" >}} There will be some, without doubt, who, on a perusal of our history and tables of invention, will meet with some uncertainty, or perhaps fallacy, in the experiments themselves, and will thence perhaps imagine that our discoveries are built on false foundations and principles. 
 
@@ -62,22 +76,30 @@ We are necessarily compelled[95] to admit the most common objects into our histo
 Besides, we have observed that nothing has been so injurious to philosophy as this circumstance, namely, that familiar and frequent objects do not arrest and detain men’s contemplation, but are carelessly admitted, and their causes never inquired after; so that information on unknown subjects is not more often wanted than attention to those which are known.
 
 
-{{< s v="120" >}} With regard to the meanness, or even the filthiness of particulars, for which (as Pliny observes), an apology is requisite, such subjects are no less worthy of admission into natural history than the most magnificent and costly; nor do they at all pollute natural history, for the sun enters alike the palace and the privy, and is not thereby polluted. 
+{{< s v="120" >}} Pliny says that an apology is needed for meanness, or even the filthiness of particulars.  
 
-We neither dedicate nor raise a capitol or pyramid to the pride of man, but rear a holy temple in his mind, on the model of the universe, which model therefore we imitate. For that which is deserving of existence is deserving of knowledge, the image of existence. Now the mean and splendid alike exist. Nay, as the finest odors are sometimes produced from putrid matter (such as musk and civet), so does valuable light and information emanate from mean and sordid instances. But we have already said too much, for such fastidious feelings are childish and effeminate.
+Such subjects are just as worthy of admission into natural history just as the most magnificent and costly. They do not at all pollute natural history, for the sun enters alike the palace and the privy, and is not thereby polluted. 
+
+We neither dedicate nor raise a capitol or pyramid to the pride of man, but rear a holy temple in his mind, on the model of the universe, which model therefore we imitate. 
+
+For that which is deserving of existence is deserving of knowledge, the image of existence. Now the mean and splendid alike exist. Nay, as the finest odors are sometimes produced from putrid matter (such as musk and civet), so does valuable light and information emanate from mean and sordid instances. But we have already said too much, for such fastidious feelings are childish and effeminate.
 
 
-{{< s v="121" >}} The next point requires a more accurate consideration, namely, that many parts of our history will appear to the vulgar, or even any mind accustomed to the present state of things, fantastically and uselessly refined. 
+{{< s v="121" >}} Many parts of our history will appear to the vulgar. 
 
-Hence, we have in regard to this matter said from the first, and must again repeat, that we look for experiments that shall afford light rather than profit, imitating the divine creation, which,[96] as we have often observed, only produced light on the first day, and assigned that whole day to its creation, without adding any material work.
+Any mind accustomed to the present state of things will appear fantastically and uselessly refined. 
 
-If any one, then, imagine such matters to be of no use, he might equally suppose light to be of no use, because it is neither solid nor material. For, in fact, the knowledge of simple natures, when sufficiently investigated and defined, resembles light, which, though of no great use in itself, affords access to the general mysteries of effects, and with a peculiar power comprehends and draws with it whole bands and troops of effects, and the sources of the most valuable axioms. 
+Hence, we look for experiments that shall afford light rather than profit, imitating the divine creation, which only produced light on the first day, and assigned that whole day to its creation, without adding any material work.
+
+If anyone imagines such matters to be of no use, he might equally suppose light to be of no use, because it is neither solid nor material. 
+
+For, in fact, the knowledge of simple natures, when sufficiently investigated and defined, resembles light, which, though of no great use in itself, affords access to the general mysteries of effects, and with a peculiar power comprehends and draws with it whole bands and troops of effects, and the sources of the most valuable axioms. 
 
 So also the elements of letters have of themselves separately no meaning, and are of no use, yet are they, as it were, the original matter in the composition and preparation of speech. The seeds of substances, whose effect is powerful, are of no use except in their growth, and the scattered rays of light itself avail not unless collected.
 
 But if speculative subtilties give offence, what must we say of the scholastic philosophers who indulged in them to such excess? 
 
-And those subtilties were wasted on words, or, at least, common notions (which is the same thing), not on things or nature, and alike unproductive of benefit in their origin and their consequences: in no way resembling ours, which are at present useless, but in their consequences of infinite benefit. 
+Those subtilties were wasted on words, or, at least, common notions (which is the same thing), not on things or nature, and alike unproductive of benefit in their origin and their consequences: in no way resembling ours, which are at present useless, but in their consequences of infinite benefit. 
 
 
 - When they are introduced subsequently to the discovery of axioms, all subtile disputes of the mind are late and preposterous.
@@ -87,4 +109,7 @@ They otherwise catch and grasp at nature, but never seize or detain her: and we 
 
 Some people despise natural history as being vulgar, mean, subtile, and useless in its origin.
 
-, in the words of a poor woman to a haughty prince,[65] who had rejected her petition as unworthy, and beneath the dignity of his majesty: “Then cease to reign”; for it is quite certain that the empire of nature can neither be obtained nor administered by one who refuses to pay attention to such matters as being poor and too minute.
+
+A haughty prince[65]  once rejected the petition of a poor woman as unworthy of his majesty. The woman said to him: “Then stop to reign.”
+
+The empire of nature can neither be obtained nor administered by one who refuses to pay attention to such matters as being poor and too minute.

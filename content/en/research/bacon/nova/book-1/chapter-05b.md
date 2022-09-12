@@ -90,12 +90,16 @@ Besides this, if the benefit of any particular invention has had such an effect 
 
 Yet (to speak the truth) in the same manner as we are very thankful for light which enables us to enter on our way, to practice arts, to read, to distinguish each other, and yet sight is more excellent and beautiful than the various uses of light; so is the contemplation of things as they are, free from superstition or imposture, error or confusion, much more dignified in itself than all the advantage to be derived from discoveries.
 
-Lastly, let none be alarmed at the objection of the arts and sciences becoming depraved to malevolent or luxurious purposes and the like, for the same can be said of every worldly good; talent, courage, strength, beauty, riches, light itself, and the rest. Only let mankind regain their rights over nature, assigned to them by the gift of God, and obtain that power, whose exercise will be governed by right reason and true religion.
+Lastly, no one should  be alarmed at the objection of the arts and sciences becoming depraved to malevolent or luxurious purposes and the like. This is because the same can be said of every worldly good such as talent, courage, strength, beauty, riches, light itself, etc. 
+
+Mankind should:
+- regain their rights over nature, assigned to them by the gift of God
+- obtain that power, whose exercise will be governed by right reason and true religion.
 
 
-{{< s v="130" >}} But it is time for us to lay down the art of interpreting nature, to which we attribute no absolute necessity (as if nothing could be done without it) nor perfection, although we think that our precepts are most useful and correct. 
+{{< s v="130" >}} We lay down the art of interpreting nature, to which we attribute no absolute necessity (as if nothing could be done without it) nor perfection, although we think that our precepts are most useful and correct. 
 
-For we are of opinion, that if men had at their command a proper history of nature and experience, and would apply themselves steadily to it, and could bind themselves to two things: 
+We believe that if men had at their command a proper history of nature and experience, and would apply themselves steadily to it, and could bind themselves to two things: 
 
 1. to lay aside received[107] opinions and notions; 
 2. to restrain themselves, till the proper season, from generalization, they might, by the proper and genuine exertion of their minds, fall into our way of interpretation without the aid of any art. 
