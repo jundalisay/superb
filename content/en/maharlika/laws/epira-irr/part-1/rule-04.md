@@ -7,16 +7,14 @@ date: 2021-09-30
 ---
 
 
+- “Act” is EPIRA
+- “Accredited Facility” refers to a facility granted the certificate of accreditation by NAPOCOR or DOE pursuant to Executive 0rder No. 215and its implementing rules and regulations
+- “Affiliate” means any Person which, alone or together with any other Person, directly or indirectly, through one or more intermediaries, Controls, is Controlled by, or is under common Control with another
+Person. 
 
-(a) “Act” is EPIRA
-- b) “Accredited Facility” refers to a facility granted the certificate of accreditation by NAPOCOR or DOE pursuant to Executive 0rder No. 215
-and its implementing rules and regulations
-(c) “Affiliate” means any Person which, alone or together with any other
-Person, directly or indirectly, through one or more intermediaries,
-Controls, is Controlled by, or is under common Control with another
-Person. Affiliates shall include a subsidiary company and parent
-company and subsidiaries, directly or indirectly, of a common parent;
-(d) “Aggregator” refers to a Person or entity duly licensed by the ERC to
+Affiliates shall include a subsidiary company and parent company and subsidiaries, directly or indirectly, of a common parent;
+
+“Aggregator” refers to a Person or entity duly licensed by the ERC to
 engage in consolidating electric power demand of End-users in a
 Contestable Market for the purpose of purchasing and reselling
 electricity on a group basis
@@ -34,7 +32,7 @@ No. 5186, as amended;
 (h) “Bonafide Member” refers to a Person that has met all the
 requirements set forth under the applicable EC by-laws and has been
 enlisted as such, with voting rights under the “one-man-one-vote”
-cooperative principle;
+cooperative principle
 (i) “Build-Operate-Transfer” or “BOT” shall have the meaning specified
 by Republic Act No. 6957, as amended, otherwise known as “BOT
 Law” and its implementing rules and regulations;

@@ -1,4 +1,13 @@
-RULE 31. DEBTS OF ELECTRIC COOPERATIVES (ECs)
+---
+heading: "Rule 31"
+title: "Definition of Policy"
+description: "EPIRA Republic Act 9136"
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
+---
+
+
+## RULE 31. DEBTS OF ELECTRIC COOPERATIVES (ECs)
 
 Section 1. Guiding Principle.
 Pursuant to Section 60 of the Act, all outstanding financial obligations of

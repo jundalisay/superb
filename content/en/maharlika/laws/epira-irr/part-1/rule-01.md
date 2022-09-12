@@ -7,53 +7,32 @@ date: 2021-09-30
 ---
 
 
-## PART 1 - GENERAL PROVISIONS
+<!-- ### RULE 1. TITLE AND SCOPE
 
-RULE 1. TITLE AND SCOPE
+Section 2. Scope
 
-Section 2. Scope.
+These Rules are promulgated under the authority of the DOE to formulate, in consultation with relevant government agencies, Electric Power Industry Participants, non-government organizations, End-users and consumers, such rules and regulations as may be necessary to implement the objectives of the Act and pursuant to the exercise of such other powers as may be necessary or incidental to attain the objectives of the Act.
 
-These Rules are promulgated under the authority of the DOE to formulate, in consultation with relevant government agencies, Electric Power Industry
-Participants, non-government organizations, End-users and consumers, such rules and regulations as may be necessary to implement the objectives
-of the Act and pursuant to the exercise of such other powers as may be necessary or incidental to attain the objectives of the Act. These Rules shall
-govern the relation and responsibilities of Electric Power Industry
+ These Rules shall govern the relation and responsibilities of Electric Power Industry
 Participants and governmental authorities, including but not limited to: the
-DOE, NAPOCOR, NEA, ERC, and PSALM.
+DOE, NAPOCOR, NEA, ERC, and PSALM. -->
 
-RULE 2. DECLARATION OF POLICY
+### RULE 2. DECLARATION OF POLICY
 
-- a) To ensure and accelerate the total electrification of the country
+- Ensure and accelerate the total electrification of the country
+- Ensure the quality, reliability, security and affordability of electricity
+- Ensure transparent and reasonable prices of electricity in a regime of free and fair competition and full public accountability to achieve greater operational and economic efficiency, promote consumer choice and enhance the competitiveness of Philippine products in the global market
+- Enhance the inflow of private capital, participation in the attendant risks, and broaden the ownership base of the power generation, transmission and distribution sectors
+- Ensure fair and non-discriminatory treatment of public and private sector entities in the process of Restructuring the electric power industry
+- Protect the public interest as it is affected by the rates and services of electric utilities and other providers of electric power
+- Assure socially and environmentally compatible energy sources and infrastructure
+- Promote the utilization of indigenous and new and renewable energy resources in power generation in order to reduce dependence on imported energy
+- Provide for an orderly and transparent Privatization of the assets and liabilities of the NAPOCOR
+- Establish a strong and purely independent regulatory body and system to ensure consumer protection and enhance the competitive operation of the electricity market
+- Encourage the efficient use of energy and other modalities of Demand Side Management (DSM).
 
-b) To ensure the quality, reliability, security and affordability of the
-supply of electric power
 
-(c) To ensure transparent and reasonable prices of electricity in a regime
-of free and fair competition and full public accountability to achieve
-greater operational and economic efficiency, promote consumer choice
-and enhance the competitiveness of Philippine products in the global
-market;
-(d) To enhance the inflow of private capital, participation in the attendant
-risks, and broaden the ownership base of the power generation,
-transmission and distribution sectors;
-(e) To ensure fair and non-discriminatory treatment of public and private
-sector entities in the process of Restructuring the electric power
-industry;
-(f) To protect the public interest as it is affected by the rates and services
-of electric utilities and other providers of electric power;
-(g) To assure socially and environmentally compatible energy sources
-and infrastructure;
-(h) To promote the utilization of indigenous and new and renewable
-energy resources in power generation in order to reduce dependence
-on imported energy;
-(i) To provide for an orderly and transparent Privatization of the assets
-and liabilities of the NAPOCOR;
-(j) To establish a strong and purely independent regulatory body and
-system to ensure consumer protection and enhance the competitive
-operation of the electricity market; and
-(k) To encourage the efficient use of energy and other modalities of
-Demand Side Management (DSM).
-
-RULE 3: RESPONSIBILITIES OF THE DOE, ERC, NAPOCOR, NEA AND PSALM
+### RULE 3: RESPONSIBILITIES OF THE DOE, ERC, NAPOCOR, NEA AND PSALM
 
 Section 1. Responsibilities of the DOE.
 

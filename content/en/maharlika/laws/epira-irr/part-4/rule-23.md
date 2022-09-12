@@ -1,35 +1,37 @@
-RULE 23. PRIVATIZATION OF THE ASSETS OF NAPOCOR
+---
+heading: "Rule 23"
+title: "PRIVATIZATION OF THE ASSETS OF NAPOCOR"
+description: "EPIRA Republic Act 9136"
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
+---
 
-Section 1. Guiding Principle.
-Consistent with Section 47 of the Act, the PSALM shall privatize the assets
-transferred to it from NAPOCOR in accordance with these Rules. Within one
-hundred eighty (180) days from the effectivity of the Act, PSALM shall
-submit a Privatization plan for the endorsement by the Power Commission
-and the approval of the President of the Philippines. This plan shall cover
-the total Privatization of the transmission and generation assets, real estate,
+
+Section 1. Section 47 of EPIRA
+
+PSALM shall privatize the assets transferred to it from NAPOCOR in accordance with these Rules. Within 180 days from the effectivity of the Act, PSALM shall submit a Privatization plan for the endorsement by the Power Commission
+and the approval of the President of the Philippines. 
+
+This plan shall cover the total Privatization of the transmission and generation assets, real estate,
 and other disposable assets as well as the existing IPP contracts of NAPOCOR,
 except for assets of SPUG. Upon approval of the Privatization plan, PSALM
 shall implement the same.
-The participation by Filipino citizens and corporations in the purchase of
-NAPOCOR assets shall be encouraged.
-Section 2.
-(a)
-Scope of Privatization.
-NAPOCOR Generation, Generation-Related, and Other Assets.
-Except for the assets of SPUG, NAPOCOR assets to be privatized shall
-include:
-Page 74 of 100(i) all generation assets and all generation-related machineries and
-equipment;
-(ii)
-(iii) all real estate and the improvements made thereto; and
-disposable assets such as facilities, properties, equipment and
-other assets not essential to the operation of NAPOCOR.
-To provide for an orderly disposition of these assets, NAPOCOR shall provide
-PSALM an inventory of all these assets within one hundred and twenty
-(120) days from the effectivity of the Act.
-(b)
-NAPOCOR Transmission, Subtransmission, Interconnection and Ancillary
-Assets.
+
+The participation by Filipino citizens and corporations in the purchase of NAPOCOR assets shall be encouraged.
+
+## Section 2. Scope of Privatization.
+
+### NAPOCOR Generation, Generation-Related, and Other Assets.
+
+Except for the assets of SPUG, NAPOCOR assets to be privatized shall include:
+- all generation assets and all generation-related machineries and equipment
+- all real estate and the improvements made thereto
+- disposable assets such as facilities, properties, equipment and other assets not essential to the operation of NAPOCOR.
+
+To provide for an orderly disposition of these assets, NAPOCOR shall provide PSALM an inventory of all these assets within 120 days from the effectivity of the Act.
+
+### NAPOCOR Transmission, Subtransmission, Interconnection and Ancillary Assets.
+
 The transmission, subtransmission, interconnection and ancillary
 assets of NAPOCOR, as defined in Section 8 of the Act and further detailed
 in Rule 6 on Transmission Sector and Rule 22 on TRANSCO, shall be
@@ -45,39 +47,25 @@ generation asset whose construction was not financed by NAPOCOR but
 whose output is bought by NAPOCOR under Purchase Power Agreements
 (PPAs), Energy Conversion Agreements (ECAs) or any other similar
 contractual relationship.
-Section 3.
-Privatization Objectives.
-The Privatization of the NAPOCOR assets intends to achieve the following
-objectives:
-(a) To ensure and accelerate the total electrification of the country;
-(b) To ensure the quality, reliability, security and affordability of the
-supply of electric power;
-(c) To ensure transparent and reasonable prices of electricity in a regime
-of free and fair competition and full public accountability to achieve
-greater operational and economic efficiency and enhance the
-competitiveness of Philippine products in the global market;
-(d) To enhance the inflow of private capital and broaden the ownership
-base of the power generation, transmission and distribution sectors;
-(e) To ensure fair and non-discriminatory treatment of public and private
-sector entities in the process of Restructuring the electric power
-industry;
-(f) To protect the public interest as it is affected by the rates and services
-of electric utilities and other providers of electric power;
-Page 75 of 100(g) To assure socially and environmentally compatible energy sources
-and infrastructure;
-(h) To promote the utilization of indigenous and new and Renewable
-Energy Resources in power generation in order to reduce dependence
-on imported energy; and
-(i) To ensure consumer protection and
-enhance
-the
-competitive
+
+Section 3. Privatization Objectives.
+
+The Privatization of the NAPOCOR assets intends to achieve the following objectives:
+
+- Ensure and accelerate the total electrification of the country
+- Ensure the quality, reliability, security and affordability of the electricity
+- Ensure transparent and reasonable prices of electricity in a regime of free and fair competition and full public accountability to achieve greater operational and economic efficiency and enhance the competitiveness of Philippine products in the global market
+- Enhance the inflow of private capital and broaden the ownership base of the power generation, transmission and distribution sectors
+- Ensure fair and non-discriminatory treatment of public and private sector entities in the process of Restructuring the electric power industry
+- Protect the public interest as it is affected by the rates and services of electric utilities and other providers of electric power
+- Assure socially and environmentally compatible energy sources and infrastructure
+- Promote the utilization of indigenous and new and Renewable Energy Resources in power generation in order to reduce dependence on imported energy
+- Ensure consumer protection and enhance
+the competitive
 operation of the electricity market.
 
 
-Section 4.
-
-Privatization Guidelines.
+## Section 4. Privatization Guidelines.
 
 (a) The Privatization value to the National Government of the NAPOCOR
 generation assets, real estate, other disposable assets as well as IPP

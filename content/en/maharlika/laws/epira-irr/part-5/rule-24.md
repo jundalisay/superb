@@ -1,5 +1,16 @@
+---
+heading: "Rule 24"
+title: "ELECTRIC POWER CRISIS PROVISION"
+description: "EPIRA Republic Act 9136"
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
+---
+
+
 PART V - OTHER PROVISIONS
+
 RULE 24. ELECTRIC POWER CRISIS PROVISION
+
 Upon the determination by the President of the Philippines of an imminent
 shortage of the Supply of Electricity, Congress may authorize, through a
 joint resolution, the establishment of additional generation capacity under
@@ -170,11 +181,6 @@ Host barangay/s
 Host municipality/ies or city/ies
 Host province/s
 Host region/s
--
--
--
--
--
 5%
 20%
 35%

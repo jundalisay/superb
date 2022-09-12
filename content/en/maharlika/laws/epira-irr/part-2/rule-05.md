@@ -1,6 +1,14 @@
-PART 2: STRUCTURE AND OPERATION OF THE ELECTRIC POWER INDUSTRY
+---
+heading: "Rule  1"
+title: "Definition of Policy"
+description: "EPIRA Republic Act 9136"
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
+---
 
-RULE 5. GENERATION SECTOR
+
+
+## RULE 5. GENERATION SECTOR
 
 Section 1. Guiding Principle.
 

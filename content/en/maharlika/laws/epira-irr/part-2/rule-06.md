@@ -1,3 +1,12 @@
+---
+heading: "Rule 6"
+title: "Definition of Policy"
+description: "EPIRA Republic Act 9136"
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
+---
+
+
 RULE 6. TRANSMISSION SECTOR
 
 Section 1. Guiding Principle.
@@ -37,14 +46,13 @@ Subtransmission Assets to measure flows into the Subtransmission
 Assets; and
 (g) Subtransmission Assets will be of reduced voltage.
 is
-consumed
-in
-a
+consumed in a
+
 Section 5. Initial Classification of Transmission Assets.
-Pending the issuance of the new standards for classification of transmission
-assets by ERC, transmission assets shall be defined as follows:
-(a) For the Luzon Grid, transmission facilities rated 230 kV and above
-shall generally be considered transmission assets;
+
+Pending the issuance of the new standards for classification of transmission assets by ERC, transmission assets shall be defined as follows:
+
+- For the Luzon Grid, transmission facilities rated 230 kV and above shall generally be considered transmission assets;
 (b) For the Visayas Grid, transmission facilities rated 69 kV and above
 shall generally be considered transmission assets;
 (c) For the Mindanao Grid, transmission facilities rated 138 kV and
@@ -405,9 +413,11 @@ Page 32 of 100(c)
 In the case of ECs, renewals and cancellations of franchise shall
 remain with the National Electrification Commission (NEC) under the
 NEA for five (5) more years after the effectivity of the Act.
+
 RULE 8.
-Section 1.
-SUPPLY SECTOR
+
+Section 1. SUPPLY SECTOR
+
 Guiding Principles.
 (a) Pursuant to Section 29 of the Act, the Supply of Electricity to End-
 users is a business affected with public interest.

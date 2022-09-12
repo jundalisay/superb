@@ -1,15 +1,21 @@
-RULE 9.
+---
+heading: "Rule 9"
+title: "WHOLESALE ELECTRICITY SPOT MARKET (WESM)"
+description: "EPIRA Republic Act 9136"
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
+---
 
-Section 1. WHOLESALE ELECTRICITY SPOT MARKET (WESM)
 
-Guiding Principle.
-Pursuant to Section 30 of the Act, all WESM Participants shall comply with
-the WESM Rules.
-Section 2.
-Scope of Application.
+<!-- Pursuant to Section 30 of the Act, all WESM Participants shall comply with
+the WESM Rules. -->
+
+Section 2. Scope of Application.
+
 This Rule shall apply to the Market Operator and all WESM Participants.
-Section 3.
-Organization.
+
+Section 3. Organization
+
 Within one (1) year from the effectivity of the Act, the DOE shall establish a
 WESM composed of the WESM Participants. For this purpose, the DOE
 shall, jointly with Electric Power Industry Participants, promulgate the
@@ -174,10 +180,9 @@ structure of Market Fees, the methods used in determining the
 structure and an assessment of the extent to which the structure
 complies with the principles specified above, at least three (3) months
 prior to the implementation of WESM.
-Section 10.
-Market Suspension.
-In cases of national or international security emergencies or natural
-calamities, the ERC is empowered to suspend the operation of the WESM or
-declare a temporary WESM failure in accordance with the procedures set
+
+Section 10. Market Suspension.
+
+In cases of national or international security emergencies or natural calamities, the ERC is empowered to suspend the operation of the WESM or declare a temporary WESM failure in accordance with the procedures set
 out in the WESM Rules.
 

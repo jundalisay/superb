@@ -1,9 +1,16 @@
-RULE 22. NATIONAL TRANSMISSION CORPORATION (TRANSCO)
+---
+heading: "Rule 22"
+title: "NATIONAL TRANSMISSION CORPORATION (TRANSCO)"
+description: "EPIRA Republic Act 9136"
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
+---
 
-Section 1. Creation of TRANSCO.
-Pursuant to Section 8 of the Act, TRANSCO, which shall be wholly owned by
-PSALM, has been created to assume the transmission facilities of NAPOCOR, all
-other assets related to transmission operations, including nationwide
+
+
+Section 1. Creation of TRANSCO
+
+Pursuant to Section 8 of the Act, TRANSCO, which shall be wholly owned by PSALM, has been created to assume the transmission facilities of NAPOCOR, all other assets related to transmission operations, including nationwide
 franchise of NAPOCOR for the operation of the transmission system and the Grid,
 and to assume the electrical transmission functions of the NAPOCOR, including
 among others, the planning, construction and centralized Grid operation
@@ -16,9 +23,10 @@ transmission and subtransmission facilities of NAPOCOR and all other assets
 related to transmission operations. Upon such transfer, the nationwide
 franchise of NAPOCOR for the operation of the transmission system and the Grid
 shall transfer from NAPOCOR to TRANSCO.
+
 Section 2. Transmission Ownership and Management.
-(a)
-For the purpose of Section 1 of this Rule, “all other assets” related to
+
+(a) For the purpose of Section 1 of this Rule, “all other assets” related to
 transmission and subtransmission facilities shall include, but not be
 limited, to the following:
 Page 68 of 100(i) System operations facilities such as telecommunications and
@@ -90,7 +98,8 @@ or common law, shall have any interest, either as investor, officer or
 director, in any Generation Company or Distribution Utility or other entity
 engaged in transmitting, generating and supplying electricity specified by ERC.
 
-Section 5. Powers and Duties of the Board.
+Section 5. Powers and Duties of the Board
+
 The following are the powers of the Board:
 (a) To provide strategic direction for TRANSCO, and formulate medium
 and long-term strategies pursuant to the vision, mission and
@@ -125,7 +134,9 @@ The members of the Board shall receive a per diem for each regular or
 special meeting of the Board actually attended by them and, upon approval
 of the Secretary of the DOF, such other allowances as the Board may
 prescribe.
-Section 8. Quorum.
+
+Section 8. Quorum
+
 The presence of at least four (4) members of the Board shall constitute a
 quorum, which shall be necessary for the transaction of any business. The
 affirmative vote of a majority of the members present in a quorum shall be
@@ -146,7 +157,8 @@ of management functions;
 administration of TRANSCO and, for this purpose, may delegate
 some or any of his administrative responsibilities and duties to
 other officers of TRANSCO;
-Page 71 of 100(iv) Subject to the guidelines and policies set up by the Board, to
+
+(iv) Subject to the guidelines and policies set up by the Board, to
 appoint and fix the number and compensation of subordinate
 officials and employees of TRANSCO; and for cause, to remove,
 suspend or otherwise discipline any subordinate employee of

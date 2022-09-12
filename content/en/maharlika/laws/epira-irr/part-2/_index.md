@@ -1,0 +1,8 @@
+---
+heading: "Part 2"
+title: "STRUCTURE AND OPERATION OF THE ELECTRIC POWER INDUSTRY"
+description: "STRUCTURE AND OPERATION OF THE ELECTRIC POWER INDUSTRY of the Implementing RULES AND REGULATIONS for REPUBLIC ACT NO. 9136 EPIRA"
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
+---
+
