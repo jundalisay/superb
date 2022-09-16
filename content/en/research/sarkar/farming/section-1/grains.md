@@ -5,10 +5,6 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Cereals are the staple food of human beings. Cereals vary in their type, nutritional value and use. "
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/section-1/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/section-1/"
-linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
   /research/indian/farming/section-1/grains

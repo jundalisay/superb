@@ -10,6 +10,7 @@ aliases:
   /research/indian/farming/section-1/creeping-tubers
 ---
 
+
 ## Creeping Tuber Vegetables
 
 Vegetables which require direct sunlight should not be planted with creeping tubers because the creepers will cover the other plants. 
@@ -62,8 +63,8 @@ It can be steamed, boiled, baked, fried and prepared in many other ways.
 - The black skinned and milk white potato can be dehydrated.
 
 There are 3 main varieties of potato grown in India:
-- red,
-- cream, and
+- red
+- cream
 - milk white.
 
 The white and black skinned potato grows well in cold climates. Good foreign varieties <!-- of potato grown in various countries which --> should be brought to India for cultivation.
@@ -72,15 +73,15 @@ The schedule for planting potatoes is:
 - early potato (red or cream varieties) – Áshvina, Kárttika, Agraháyańa, and
 - late potato – Paoś, Mágha, Phálguna.
 
-To avoid pests, potato fields should be prepared with mustard oil cake or castor cake manure. 
+To avoid pests, potato fields should be prepared with **mustard oil cake** or **castor cake manure**. 
 
 Acidic (ták) manure is not good for potato, while hybrid animal manure is not as good as the dung of pure bred animals because hybrids are more prone to disease. Cow dung is the best manure.
 
-Like other tubers, potatoes should be harvested only after the stalk has completely dried up. 
+Like other tubers, **potatoes should be harvested only after the stalk has completely dried up**. 
 
 Potatoes which are harvested before the stalk has dried are called “satha” or 60 day potatoes. They shrink and lose weight. 
-
-Seeds cannot be grown from 60 day potatoes, and the young plant perishes quickly.
+- Seeds cannot be grown from 60 day potatoes
+- The young plant perishes quickly
 
 
 ## Anthurium Group
@@ -92,7 +93,7 @@ Tubers in the anthurium group have a lot of nutritional value, but they require 
 
 Tubers in the caladium group are 3-month crops. Their nutritional value varies. 
 
-In Bengal, many varieties of caladium root crops are available, while some varieties are available in the Silli area of Ranchi, the Kathua area of Burdwan and the Teliamura area of Tripura.
+<!-- In Bengal, many varieties of caladium root crops are available, while some varieties are available in the Silli area of Ranchi, the Kathua area of Burdwan and the Teliamura area of Tripura. -->
 
 
 ## Elephant Root (Elephant Foot Yam, Amorphophallus Campanulatus)

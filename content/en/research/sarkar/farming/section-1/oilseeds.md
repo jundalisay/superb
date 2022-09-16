@@ -5,10 +5,6 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Numerous plants have known medicinal value"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
   /research/indian/farming/section-1/oilseeds
@@ -47,17 +43,18 @@ red mustard (tori sarśe) -->
 <!-- The varieties include:
 three year cotton (gách kápás)
 three month cotton (chás kápás) -->
-sargujá (niger)
-castor (erańd́a, ŕeŕi, Ricinus communis). The varieties include:
-wild castor (bhereńd́a)
-indigenous castor (cháser ŕeŕi)
-karamchá (karanjá, Carissa caranda)
-Indian olive (mahuá, mahul)
-soybean (Glycine max.)
-sunflower (súryamukhi, Helianthus annuus). There are two varieties:
-large
-small
-coconut (nárikel), etc.
+- sargujá (niger)
+- castor (erańd́a, ŕeŕi, Ricinus communis). The varieties include:
+  - wild castor (bhereńd́a)
+  - indigenous castor (cháser ŕeŕi)
+  - karamchá (karanjá, Carissa caranda)
+- Indian olive (mahuá, mahul)
+- soybean (Glycine max.)
+- sunflower (súryamukhi, Helianthus annuus). There are 2 varieties:
+  - large
+  - small
+  - coconut (nárikel), etc.
+
 
 ## Peanut (Ciná Bádám)
 
@@ -94,30 +91,55 @@ But after hydrogenisation and deodourisation, it can be made into a refined oil 
 
 ## Mustard (Sarse, Sariśá, Olerasi Family)
 
-There are three varieties of mustard:
-- rái
-yellow mustard
-red mustard (tori sarśe)
+There are 3 varieties of mustard:
+- rái: This can be sown as a “pigeon crop”(1) along with rice paddy in the month of Áshvina
+- yellow mustard
+- red mustard (tori sarśe)
 
-Rái may be sown as a “pigeon crop”(1) along with paddy in the month of Áshvina. Yellow mustard and red mustard can be sown as mixed crops with wheat, but they are not sown as “pigeon crops” because they require regular cultivation.
+Yellow mustard and red mustard can be sown as mixed crops with wheat, but they are not sown as “pigeon crops” because they require regular cultivation.
 
-Mustard leaves are similar to radish leaves. However, all varieties of mustard have yellow flowers while radish has white flowers. The green leaves of yellow mustard (sarśe shák) should not be eaten because although they are tasty, they are acidic.
+Mustard leaves are similar to radish leaves. 
 
-Mustard oil is pungent. The seeds are ground to make a spicy condiment or used directly in cooking. Mustard oil is widely used as a cooking oil in India. It has some medicinal value and other uses as well.
+However, all varieties of mustard have yellow flowers while radish has white flowers. 
+
+**The green leaves of yellow mustard (sarśe shák) should not be eaten because although they are tasty, they are acidic.**
+
+Mustard oil is pungent. 
+
+The seeds are ground to make a spicy condiment or used directly in cooking. 
+
+Mustard oil is widely used as a cooking oil in India. It has some medicinal value and other uses as well.
+
 
 ## Cotton
 
-Cotton is well known for its fluffy, white balls of fibre, but cotton seed is an important source of oil. Cotogen is produced from refined cottonseed oil, and the oil cakes are used as cattle feed. The seeds are roasted and eaten as a snack, but this snack is harmful for pregnant women and pregnant animals. In particular, the oil cake should not be given to pregnant animals as it may cause an abortion. Cotton is not difficult to grow.
+<!-- Cotton is well known for its fluffy, white balls of fibre, but  -->
 
-After the seeds are removed from the balls, the fibre is spun into thread which is used to produce all kinds of textile goods. Until recently, when artificial fibres began to replace cotton and other natural fibres, cotton was the most widely used fibre for textiles.
+Cotton seed is an important source of oil. 
+
+Cotogen is produced from refined cottonseed oil. The oil cakes are used as cattle feed. 
+
+The seeds are roasted and eaten as a snack, but this snack is harmful for pregnant women and pregnant animals. 
+
+**In particular, the oil cake should not be given to pregnant animals as it may cause an abortion.** 
+
+Cotton is not difficult to grow.
+
+After the seeds are removed from the balls, the fibre is spun into thread which is used to produce all kinds of textile goods. Cotton was the most widely used fibre for textiles until artificial fibres began to replace natural fibres.
 
 There are 2 main varieties of cotton:
-- 3 year cotton (gách kápás)
-- 3 month cotton (chás kápás)
+- 3-year cotton (gách kápás)
+- 3-month cotton (chás kápás)
 
-There are also various types of tree cotton. The most notable is the silk cotton tree (simul), which can also be used to make honey. Tree cotton (deva kusum or Gossypium arboreum) is the best cotton variety. The seeds of tree cotton and three month cotton were first brought to India from Egypt. 
+There are also various types of tree cotton. The most notable is the silk cotton tree (simul), which can also be used to make honey. 
 
-Tree cotton was previously cultivated in Burdwan and Bankura. Three month cotton is grown in the Punjab, Gujarat and Maharashtra, and the growing season is from November to February. If the soil is good, three year cotton can be planted.
+Tree cotton (deva kusum or Gossypium arboreum) is the best cotton variety. 
+
+The seeds of tree cotton and three month cotton were first brought to India from Egypt. 
+
+Tree cotton was previously cultivated in Burdwan and Bankura. 3-month cotton is grown in the Punjab, Gujarat and Maharashtra, and the growing season is from November to February. 
+
+If the soil is good, three year cotton can be planted.
 
 
 ## Sargujá (Niger)
@@ -129,40 +151,83 @@ The method of sowing sargujá is as follows. The seeds should be soaked overnig
 
 ## Castor (Erańd́a, Ŕeŕi, Ricinus Communis)
 
-There are two varieties of castor:
+There are 2 varieties of castor:
 - wild castor (bhereńd́a)
 - indigenous castor (cháser ŕeŕi)
 
-Good silk worms can be grown on the leaves of both varieties. Non-mulberry andy silk is produced, which is used to make shawls (chadar), shirts and pants (Punjabi kurta and pajyama) and other clothing. Aside from silk production, castor can be used to produce many products. The green leaves can be used as a fodder for animals. The oil can be processed and has many uses ranging from rectified hair oil to machine oil. The oil also has medicinal value.
+Good silk worms can be grown on the leaves of both varieties. 
+
+Non-mulberry andy silk is produced, which is used to make shawls (chadar), shirts and pants (Punjabi kurta and pajyama) and other clothing. 
+
+Aside from silk production, castor can be used to produce many products. 
+
+The green leaves can be used as a fodder for animals. The oil can be processed and has many uses ranging from rectified hair oil to machine oil. The oil also has medicinal value.
+
 The crop rotation for castor is the same as that for cow pea (aŕahar), except that sesame and soybean should not be sown in the month of Phálguna. Green gram (śát́há moog) should be sown one month after harvesting castor.
+
+
 
 ## Karamchá (Karanjá, Carissa Caranda)
 
-Karamchá oil was produced in 2´ Parganas 50 years ago for burning lamps. The burning oil gives off much smoke. Boot polish and kajal for children are made from the soot of the burnt oil. (Kajal is the black substance which is applied under childrens’ eyes in India to protect them from the glare of the sun.) The fruit of karamchá is made into a type of pickle. Karamchá is used as a hedge plant.
+Karamchá oil was produced in 2 Parganas 50 years ago for burning lamps. 
+
+The burning oil gives off much smoke. Boot polish and kajal for children are made from the soot of the burnt oil. (Kajal is the black substance which is applied under childrens’ eyes in India to protect them from the glare of the sun.) 
+
+The fruit of karamchá is made into a type of pickle. Karamchá is used as a hedge plant.
+
 
 ## Indian Olive (Mahuá, Mahul)
 
-Indian olive is similar to the Occidental or European olive, but they are not the same. It is an important tree, and a source of both oil and sugar. The sugar is produced from the flowers and the oil is produced from the fruit. The oil can be used as vegetable oil or thickened and processed into margarine. In Ánanda Nagar and Ánanda Shiila, Indian olive grows abundantly.
+Indian olive is similar to the Occidental or European olive, but they are not the same. 
+
+It is an important tree, and a source of both oil and sugar. 
+
+The sugar is produced from the flowers and the oil is produced from the fruit. The oil can be used as vegetable oil or thickened and processed into margarine. In Ánanda Nagar and Ánanda Shiila, Indian olive grows abundantly.
 
 
 ## Soybean (Glycine max.)
 
 The soybean has long been used as a major food item in the Orient, where methods for processing soybean into numerous food and non-food products have been well-developed. 
 
-For example, there one finds soy milk, soy cheese (tofu), numerous imitation meat products, and many other products made of soybean and its by-products. 
+For example, the Orient has:
+- soy milk
+- soy cheese (tofu)
+- imitation meat products<!-- , and many other products made of soybean and its by-products.  -->
 
 In the West, soybeans are used mainly as animal fodder until recently. 
 
-Recently, its versatility is being recognized and it is becoming more popular. The oil can be used for cooking, thickened into margarine or used in other ways. Soybean can be sown with peanut in the irrigation furrows of a field, and sesame or sargujá on the mounds. It is a bit sweet, therefore it should be planted after sprouting, otherwise ants will eat it up.
+Recently, its versatility is being recognized<!-- and it is becoming more popular -->. 
+
+The oil can be used for cooking, thickened into margarine or used in other ways. 
+
+Soybean can be sown with peanut in the irrigation furrows of a field, and sesame or sargujá on the mounds. 
+
+It is a bit sweet, therefore it should be planted after sprouting, otherwise ants will eat it up.
 
 
 ## Sunflower (Súryamukhi, Helianthus Annuus)
 
-The sunflower is known widely for its large sun-loving flowers which make it a good roadside plant. It is also known for its tasty seeds which can be eaten raw, roasted, ground into butter or in a number of other ways. The seeds supply a lot of oil and are a good energy food.
+Sunflowers love the sun. This makes them good as roadside plants. 
 
-It is usually the large variety which is used for oil production. The oil of sunflower can be used for cooking and other purposes as well.
+They also have tasty seeds which can be eaten raw, roasted, ground into butter, etc. 
 
-Sunflower is an 80-90 day crop in North India, and in South India it is a 65-70 day crop. It can be grown throughout the year. When sunflower is crushed without separating the husk from the seed, a blackish cake is produced which is used as a cattle feed. If it is crushed after the husk has been removed, the cake is white and fit for human consumption. In the large variety, there is a removable skin on the seed. If this skin is removed before pressing the seed to extract the oil, it can be used to make flour for baking bread.
+The large variety is used for oil production.
+- Its seeds supply a lot of oil and are a good energy food.
+- Sunflower oil can be used for cooking and other purposes as well.
+
+Sunflower is an 80-90 day crop in North India. 
+
+In South India it is a 65-70 day crop. 
+
+It can be grown throughout the year. 
+
+When sunflower is crushed without separating the husk from the seed, a blackish cake is produced which is used as a cattle feed. 
+
+If it is crushed after the husk has been removed, the cake is white and fit for human consumption. 
+
+In the large variety, there is a removable skin on the seed. 
+
+If this skin is removed before pressing the seed to extract the oil, it can be used to make flour for baking bread.
 
 **Sunflower can grow on very poor soil.** 
 
@@ -172,15 +237,34 @@ Research should be undertaken to improve the following:
 - the odour, which should be removed by deodourisation.
 
 
+
 ## Coconut (Nárikel)
 
-Coconut has many uses. The water is very good to drink and the flesh can be eaten. The tender green coconut is called “d́áb” in Bengal. The hard inner shell and the outer husk can be used for a variety of purposes, including the preparation of medicines. Coconut oil becomes solid in cool climates. It is used in cooking and is well known as a hair and body oil. Oil cake can be made from coconut oil, which is also used in preparing bread. Coconut is most suited to South India and will not be as successful in Ánanda Nagar.
+Coconut water is very good to drink. Coconut flesh can be eaten. 
+
+The tender green coconut is called “d́áb” in Bengal. 
+
+The hard inner shell and the outer husk can be used for the preparation of medicines. 
+
+Coconut oil becomes solid in cool climates. 
+- It is used in cooking and is well known as a hair and body oil. 
+
+Oil cake can be made from coconut oil, which is also used in preparing bread. 
+
+Coconut is most suited to South India but will not be as successful in Ánanda Nagar.
+
 
 
 ## Other Oil Seeds
 
-Rice bran can be pressed for oil and the remainder can be used to make cement. Olive and lady’s finger can also be used to produce oil. 
+Rice bran can be pressed for oil and the remainder can be used to make cement. 
 
-Safflower (kusum flower) seeds can be used to produce a less popular but good quality light oil which can be taken by those who must avoid heavy fats. In fact, most seeds contain oil of varying types and uses. Melon and cucumber (sosa) seeds may be used for oil extraction, but they are not commercially viable. Radish seeds are larger than mustard seeds and they provide a pungent oil somewhat like mustard seed oil. 
+Olive and <!-- lady’s finger --> okra can also be used to produce oil. 
+
+Safflower (kusum flower) seeds can be used to produce a less popular but good quality light oil which can be taken by those who must avoid heavy fats. 
+
+In fact, most seeds contain oil of varying types and uses. 
+
+Melon and cucumber (sosa) seeds may be used for oil extraction, but they are not commercially viable. Radish seeds are larger than mustard seeds and they provide a pungent oil somewhat like mustard seed oil. 
 
 Radish oil cake makes a good manure, but radish oil is not widely used. Even onion seeds can be used to produce an oil which has medicinal value. Research should be done on the uncommon oil seeds in order to increase their utility.

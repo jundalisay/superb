@@ -5,10 +5,6 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Research centres should be developed on all large farming projects and master units"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
   /research/indian/farming/section-1/research
@@ -43,14 +39,18 @@ The stem is low in calories. The fibre of the plant can be used to make cloth.
 
 The remaining part of the plant can be used for fodder and fertilizer. 
 
-Okra is grown above the soil, so it can be grown with a tuber crop to get two crops at a time – one above and one below the ground. 
+Okra is grown above the soil, so it can be grown with a tuber crop to get 2 crops at a time – one above and one below the ground. 
 
-The okra's stem, can be used in the plastic industry, and can also be used in the paper industry to produce ordinary quality paper. It can also be used as a fuel. 
+The okra's stem can be used:
+- in the plastic industry
+- in the paper industry to produce ordinary quality paper 
+- as a fuel
 
 Match sticks cannot be made from the wood of okra because the wood is too weak. 
 
 Okra takes only 40 days to grow and it consumes little irrigation water.
 
+---
 
 Better techniques to increase production should also be developed. For example, in the case of pulses, the leaves and stems of the plants may be plucked often and used as vegetables. 
 
@@ -62,11 +62,16 @@ Paper can be made from bamboo, bamboo leaves, safia grass, soft wood, sugar cane
 
 All sweet seeds should be sown after proper sprouting, otherwise ants will eat them up. Radish seeds should always be brought from at least three miles away from the field where they are to be grown, otherwise they will be prone to disease. To produce seeds for sunflowers, varieties which produce more seeds should be used; for ginger, varieties which have sprouts; for peanuts, the Gujarat variety, the Andhra Pradesh variety or the Tamil Nadu variety; and for paddy, the late boro variety.
 
-There should be a seed production centre at Ánanda Nagar or Ánanda Shiila where the climate is very cold. In the plains of India, good seeds cannot be produced. The best places for producing sugar beet seeds are the Garhwal Himalayas of Uttar Pradesh, Himachal Pradesh and the Kashmir Valley. We should try to produce seeds at Ánanda Nagar or at Calcutta in a green house. Ánanda Nagar jágrti is the highest point in central Ánanda Nagar, so the seeds of broccoli, sugar beet and cabbage should be grown there.
+There should be a seed production centre at Ánanda Nagar or Ánanda Shiila where the climate is very cold. In the plains of India, good seeds cannot be produced. The best places for producing sugar beet seeds are the Garhwal Himalayas of Uttar Pradesh, Himachal Pradesh and the Kashmir Valley. We should try to produce seeds at Ánanda Nagar or at Calcutta in a green house. 
 
-Herbs and medicinal plants should be given special importance. Some plants are very useful in helping cure mental disorders. For example, brahmi sag [Herpestis monniera H. B. & K.] increases memory power and is good for the brain. Bottle gourd (lau) [Lagenaria vulgaris Seringe] is good for the mentally disturbed. Bhringaraj [Wedelia calendulacea Less.] oil can be used to treat the insane. Tulsi nishanda or oil extracted from basil seeds can be used to treat madness. Other plants are useful in treating physical disorders. For example, kalmegh [Andrographis paniculata Nees.] or cirota, which is dried kalmegh, prevents malaria. Cinchona is a source of quinine. Phaniphal [Trapa bispinosa Roxb.] is good for stomach and intestinal disorders.
+Ánanda Nagar jágrti is the highest point in central Ánanda Nagar, so the seeds of broccoli, sugar beet and cabbage should be grown there.
+
+Herbs and medicinal plants should be given special importance. Some plants are very useful in helping cure mental disorders. For example, brahmi sag [Herpestis monniera H. B. & K.] increases memory power and is good for the brain. Bottle gourd (lau) [Lagenaria vulgaris Seringe] is good for the mentally disturbed. Bhringaraj [Wedelia calendulacea Less.] oil can be used to treat the insane. 
+
+Tulsi nishanda or oil extracted from basil seeds can be used to treat madness. Other plants are useful in treating physical disorders. For example, kalmegh [Andrographis paniculata Nees.] or cirota, which is dried kalmegh, prevents malaria. Cinchona is a source of quinine. Phaniphal [Trapa bispinosa Roxb.] is good for stomach and intestinal disorders.
 
 There are six categories of hills – small mounds, demi-hillocks, small hillocks, hillocks, hills and mountains. The land near sources of water such as wells and barrages should be utilized by growing varieties of sag or green leafy vegetables, mint (pudina) and Indian pennywort (thankuni) [Hydrocotyle asiatica Linn.].
+
 Creepers to be grown in protected areas include the gach pán variety of betel leaf and long pepper (pepul) [Piper longum Linn.] climbing on alternate red oaks; black pepper (golmarich) [Piper nigrum Linn.] climbing on silver oaks and green oaks; choi [Piper chaba Hunter.] climbing on coconut plants; and other creeping or climbing medicinal plants such as harjura [Cissus quadrangularis Linn.] and iishanmula [Aristolochia indica Linn.] growing on different palms. Such climbers should not be grown on roadside palms. They should be grown only in protected areas.
 
 
@@ -74,8 +79,12 @@ Creepers to be grown in protected areas include the gach pán variety of betel 
 ## Special Features of Farming Projects
 
 All integrated farming projects and master units should endeavour to include some special features such as a wheat grinding machine to produce flour, a bakery to produce bread, a cheap seed distribution centre (sulabha biija vitarańa kendra), a free plant distribution centre, sericulture, a bio-gas plant to utilize the waste of dairy cows, solar energy, apiculture and a school and children’s home.
+
 A cheap seed distribution centre should collect good quality seeds and sell them at cheap rates. Seeds may be purchased from local farmers at the end of each harvest, or purchased at cheap rates in the market, or cultivated, but the centre should provide good quality seeds at cheap rates to the local people.
-A free plant distribution centre should grow plants from seeds and seedlings for free distribution to local people. The following system should be used to prepare plants for distribution. The seedlings should be grown until they are one and a half feet tall. The plants should then be uprooted and their roots soaked in water for half an hour. Next, the main root of each plant should be cut off one inch below the base of the plant, and the remaining roots should again be soaked in water for ten minutes. The plants should then be planted in a field or packed for distribution. Plants which are prepared in this way will produce large, sweet fruits. The fruits will be better than those produced from seedlings, but not as good as those produced from grafted plants.
+
+A free plant distribution centre should grow plants from seeds and seedlings for free distribution to local people. The following system should be used to prepare plants for distribution. The seedlings should be grown until they are one and a half feet tall. 
+
+The plants should then be uprooted and their roots soaked in water for half an hour. Next, the main root of each plant should be cut off one inch below the base of the plant, and the remaining roots should again be soaked in water for ten minutes. The plants should then be planted in a field or packed for distribution. Plants which are prepared in this way will produce large, sweet fruits. The fruits will be better than those produced from seedlings, but not as good as those produced from grafted plants.
 
 20 February 1988, Calcutta
 

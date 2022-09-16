@@ -5,10 +5,6 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
   /research/indian/farming/section-1/pulses

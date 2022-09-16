@@ -5,10 +5,6 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
   /research/indian/farming/section-1/seasonal
@@ -65,7 +61,11 @@ The stalk of the onion plant should be twisted down to enable the onion to grow 
 
 Tomatoes are very nutritious. 
 
-When tomatoes are cooked the skin should be removed because it is indigestible. It may cause problems if it is not expelled from the body and lodges in the intestines. The skin can be removed by dropping the tomato into boiling water and then quickly removing it. The skin will then peel off easily.
+When tomatoes are cooked the skin should be removed because it is indigestible. It may cause problems if it is not expelled from the body and lodges in the intestines. 
+
+The skin can be removed by dropping the tomato into boiling water and then quickly removing it. The skin will then peel off easily.
+
+
 
 ## Brinjal (Eggplant, Begun)
 

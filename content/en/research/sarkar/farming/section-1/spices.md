@@ -5,10 +5,6 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
   /research/indian/farming/section-1/spices
@@ -60,6 +56,7 @@ Garlic can be cultivated on the border line of wheat and early boro paddy fields
 
 Research should be done on garlic to pinpoint its medicinal properties, and to ascertain whether there is any possibility of producing garlic oil from the leaves.
 
+
 ## Onion (Piaz)
 
 The Saḿskrta word for onion is “sukarkanda”. In Hindi it is called “piaz” and in Bengali “pianz”. 
@@ -75,6 +72,7 @@ Small onion is a winter crop. The top can be used as a green leafy vegetable. Af
 The onion stalks should be twisted down so that within a short time the plants die and the tubers become ready for harvesting. If the stalks are allowed to grow, they will bear flowers and seeds, but the tubers may disappear. From these seeds, small sweet onions (chachi or sachi piaz) can be grown which can also be used as seeds. If big onions are going to be harvested for marketing, then the stalk should be twisted down while it is green and about to flower. This process will ensure that the onion attains its maximum size.
 
 Onions are 67% water and need a sufficient supply of water to grow properly. The seeds from big onions are used for producing small sweet onions (chachi piaz), and the onion tubers (kalik) from the small sweet onions are used for producing big onions. Small sweet onion takes four to five months to grow and should be developed in a nursery for the first one or two months before being transplanted.
+
 
 ## Ginger (Ada)
 
@@ -92,6 +90,7 @@ For example, the kacha lanka variety is a three year crop. In the first year it 
 Thus, the plants should be removed after the second year and new ones grown. Dhani lanka is not suitable as a blended crop because it grows very large and affects the nearby plants. The indigenous and suryamukhi varieties have similar yields, but the dhani lanka variety produces more than either of these two. 
 
 The indigenous, suryamukhi and dhani lanka varieties are all summer varieties of green chilli. There is also a red winter variety which is often dried and made into powder. Chilli can also be made into a spicy sauce.
+
 
 ## Turmeric (Halud)
 

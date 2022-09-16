@@ -5,10 +5,6 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Numerous plants have known medicinal value"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
   /research/indian/farming/section-1/medicinal
@@ -19,15 +15,15 @@ Numerous plants have known medicinal value, but other plants have less. More res
 
 Some common medicinal plants include:
 - bhrngaráj
-sushsni shák
-Asiatic pennywort (brahmi shák, thankuni, centella asiatica, L.)
-bahed́a (Terminalia chebula)
-Chinese chaste tree (nishinda, Vitex negundo, L.)
-ámŕa
-kálmegh
-gándál
-mint (pudiná, rocanii)
-scholar’s leaves (chátim)
+- sushsni shák
+- Asiatic pennywort (brahmi shák, thankuni, centella asiatica, L.)
+- bahed́a (Terminalia chebula)
+- Chinese chaste tree (nishinda, Vitex negundo, L.)
+- ámŕa
+- álmegh
+- gándál
+- mint (pudiná, rocanii)
+- scholar’s leaves (chátim)
 cinkona (Cinchona calisaya)
 giima shák
 ashwagandha

@@ -5,10 +5,6 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
   /research/indian/farming/section-1/fiber
@@ -21,19 +17,19 @@ Some of the more common fibre crops are:
 - linseed (tisi, mosne, chikaná)
 - jute (pát). The varieties include:
 - miit́há pát́
-- tiitá pát́
-(Mestá pát́ is not actually jute.)
-pineapple. Varieties by leaf type include:
-West Indies
-East Indies
-okra
-agave
-banana (kalá). The varieties include:
-cáṋpá kalá
-kátáli kalá
-martamán kalá
+- tiitá pát́ (Mestá pát́ is not actually jute.)
+- pineapple
+  - West Indies variety
+  - East Indies
+- okra
+- agave
+- banana (kalá)
+  - cáṋpá kalá
+  - kátáli kalá
+  - martamán kalá
 
 The fibre from these crops is collected from the stem of the plant. In the case of pineapple, the fibre is processed from the leaves. As a general rule, only jute should be soaked in water to extract the fibre. Other fibre crops should be buried under the ground to seperate the fibre from the plant.
+
 
 ## Linseed (Tisi, Mosne, Chikaná)
 
@@ -67,21 +63,25 @@ The seasonal period of jute of inferior quality (mestá pát) is the same as t
 
 ## Pineapple
 
-Pineapple is another tropical fruit crop known more for its juicy sweet fruit than for its fibre. The fibre is processed from the leaves of the pineapple. In the Philippines, pineapple cloth is used to make many products including tablecloths and clothing. Medicines can also be prepared from its leaves.
+Pineapple is another tropical fruit crop known more for its juicy sweet fruit than for its fibre. The fibre is processed from the leaves of the pineapple. 
 
-There are two varieties according to leaf type:
+In the Philippines, pineapple cloth is used to make many products including tablecloths and clothing. Medicines can also be prepared from its leaves.
+
+There are 2 varieties according to leaf type:
 
 1. West Indies, which has thorns and green leaves, and
 2. East Indies, which has no thorns and golden leaves.
 
-However, there are three varieties of pineapple according to the season:
+However, there are 3 varieties of pineapple according to the season:
 - rainy season
 - winter season
 - all season
 
 The West Indies variety comes from the West Indies, and the East Indies variety comes from the area of Singapore, Malaysia, and Oceania. Both varieties provide fibre for commercial use, but the East Indies variety produces better fibre.
 
-Where the land is alkaline, nothing will grow except pineapple. If all the conditions for growing pineapple have been properly met, but the plants will still not produce fruit, they should be surrounded by sawdust smoke for half an hour at a time for three days.
+Where the land is alkaline, nothing will grow except pineapple. 
+
+If all the conditions for growing pineapple have been properly met, but the plants will still not produce fruit, they should be surrounded by sawdust smoke for half an hour at a time for 3 days.
 
 
 ## Okra (Bhińd́i, Dhenŕash)
@@ -95,21 +95,24 @@ Language | Name
 Bihar | “ram taroi”
 Bengali | “dhenrash” 
 
-Okra should not be fried because frying destroys its food value.
+**Okra should not be fried because frying destroys its food value.**
 
-To separate the fibre from the plant, cover the green stalk with soil for 3 weeks. Fine dhutis or traditional Indian men’s garments and other clothing can be made from the fibres.
+To separate the fibre from the plant, cover the green stalk with soil for 3 weeks. 
+
+Fine dhutis or traditional Indian men’s garments and other clothing can be made from the fibres.
 
 The mature plant is about 4 feet tall. The seeds contain 5% oil. If this proportion can be increased to 10% through research, okra can be used to produce commercial edible oil. 
 
 Lady’s finger is already known as a vegetable, but if it can be developed as a fibre crop and oil seed as well, it will become extremely useful.
 
-There are two varieties of lady’s finger:
+There are 2 varieties of lady’s finger:
 - the green Varanasi variety, and
 - the indigenous variety.
 
 To prepare okra seeds for sprouting, put the seeds in warm water. After the water temperature has returned to normal, soak the seeds for 2 hours. 
 
 The seeds should then be sown.
+
 
 
 ## Agave (Sisal, Agave americana)
@@ -119,9 +122,11 @@ Agave requires only 20 inches of annual rainfall, which makes it very useful in 
 It originated in East Africa. In Bengal the plants can be acquired from Birbhum district.
 
 Agave is a succulent, similar to cactus. A thick stalk grows from the ground and on this stalk the flowers appear. The fibre is removed from the stalk and is used for making rope. The best soil for growing agave in Bengal is in the Mámud Bazaar Thanar block of Birbhum district. There it has been grown successfully.
+
 Agave makes a good roadside plant and is the prescribed plant for filling the gaps between other roadside and riverside plants in Ánanda Nagar. 
 
 It has the capacity to help check soil erosion. So, it should be planted in areas where there is the danger of soil loss through erosion, especially along the banks of rivers.
+
 
 
 ## Banana (Kalá)
@@ -153,5 +158,3 @@ Safia grass is used for making baskets and paper, notably in Saheb Ganj.
 Paper crops are related to fibre crops. 
 
 There are many plants which can be used to produce paper, such as eucalyptus, bamboo, bamboo leaves and sugar cane waste. Bamboo can be used to make everything from paper and furniture to fences and even houses. Paper, pitchboard and cardboard can also be made from bamboo, and oil paper can be made from both bamboo and maize.
-
-

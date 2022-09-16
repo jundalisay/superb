@@ -5,17 +5,13 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 aliases:
   /research/indian/farming/section-1/flowers
 ---
 
 
-## FLOWERS
+## Flowers
 
 Flowers are grown for their beauty, fragrance, essential oil, medicinal value and floral nectar, and some flower seeds can be eaten, used in cooking or processed to produce oil. For example, flowering plants like night jasmine (shephali or Nyctanthes arbortristis) and ghandharaj can be grown for their fragrant flowers, while sunflower has edible seeds and can be grown as an oil crop or roadside plant. 
 
@@ -74,7 +70,8 @@ Kaiṋcan is a small flowering tree which is often used as a boundary plant.
 Shveta Karabii
 Shveta Karabii is a decorative flower plant which grows to a height of about feet. It is used as a boundary plant.
 
-## TREES
+
+## Trees
 
 Some common trees include:
 
@@ -95,6 +92,7 @@ Some common trees include:
 - garjan (Dipterocarpus alatus)
 - betel nut (supári)
 
+
 ### Banyan (Bat́)
 
 The banyan tree is sometimes known as “the pillar tree” in English because aerial roots which look like pillars grow from the branches down into the ground. 
@@ -111,15 +109,18 @@ Between every 2 banyan trees, one Indian palmyra (tál) tree should be planted.
 
 The method for planting banyan is as follows. Make a small pit and plant the banyan seedling in it. Water the plant regularly for one month, but when new leaves appear the watering can be discontinued. However, bonsai banyan and Chinese banyan require continued watering after the first month. If the seedling dies, replace it with a larger one.
 
+
 ### Ámlá (Emblica Officinalis)
 
 Ámlá bears a fruit which is similar to a plum. Oil can be pressed from the seed. Scented ámlá oil can be made by adding floral fragrances.
+
 
 ### Acasia Babul (Gond)
 
 Acasia babul is common in India. 
 
 The sap can be mixed with other ingredients to produce glue. Lozenges can also be made from the juice after it has been refined.
+
 
 ### Shiriish
 
@@ -136,7 +137,9 @@ Arjuna can be used as a roadside tree. Tasar silk worms can be grown on it, and 
 Indian Laburnum (Sondál, Cassia Fiftula)
 The fruit of Indian laburum is called “banda lathi” in Bengali because it looks like a large lathi or stick. It can be used as a boundary plant.
 
-Palásh
+
+
+### Palásh
 
 Palásh is an important lac host.
 
@@ -147,14 +150,23 @@ Acasia catechu is also known as “the cutch tree” in English. The gum should 
 Screw Pine (Ketakii, Keorá, Pandanus)
 Screw pine is known as “ketaki” in Saḿskrta and “keorá” in Hindi and Bengali. There are many varieties, such as ram ban kewada and naga ketaki. Both these varieties help to prevent soil erosion. The screw pine lives for 2000 years and grows well in rocky areas and along the banks of rivers. It likes moist air. Scent is made from the flowers and the wood is also useful.
 
-Tál Kát́ál (Thai Ragam, Dalacca)
+
+### Tál Kát́ál (Thai Ragam, Dalacca)
+
 Tál Kát́ál is a palm which is useful as an intermittent boundary plant. The wood may be used to construct furniture.
 
-Tamarind (Tentut)
+
+### Tamarind (Tentut)
+
 The roots of tamarind are very fibrous. It is an important riverside tree because the fibrous roots help check erosion. However, the trees gives off bad air, so it should be planted with simul and neem, which give off good air, to balance this effect. The sour fruit is beneficial for the health and is widely used in cooking and confectionery. Tamarind is very popular in South India.
-Indian Rosewood (Shál, Dalbergia Latifolia)
+
+
+### Indian Rosewood (Shál, Dalbergia Latifolia)
+
 Indian rosewood can be used to produce wood, latex, floral nectar, tasar silk, oil, etc. The fruit and leaves are also useful. It is a common roadside tree.
-Piyá Shál (Pterocarpus Marsupium)
+
+### Piyá Shál (Pterocarpus Marsupium)
+
 Piyá shál is used to produce wood. Bees also like the flowers.
 Garjan (Dipterocarpus Alatus)
 Garjan is sometimes called “the mangrove tree”. It is a useful roadside plant, and is used to produce wood and oil.

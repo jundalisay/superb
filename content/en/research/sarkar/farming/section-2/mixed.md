@@ -5,10 +5,6 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Integrated farming is designed to utilize every inch of land through Mixed and Supplementary Cropping and Crop Rotation"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
 
@@ -92,7 +88,10 @@ South American -->
 
 Wheat, poppy (ordinary poppy or opium poppy) and mustard can be grown as blended crops. Peas, lentils, khesári, etc. may be planted with wheat as well as poppy. 
 
-If any of these plants occupy 10% of a wheat field, the yield of the wheat will be increased so that the production of wheat will be the same as when wheat occupied the whole field. Also, if wheat, peas and khesári are planted together, the production of wheat will be as much as when wheat was grown alone. Yellow mustard, red mustard and the rái variety of mustard may all be sown as mixed crops with wheat. The larger variety of lentil may be cultivated along with wheat as a winter crop after the land has been tilled.
+If any of these plants occupy 10% of a wheat field, the yield of the wheat will be increased so that the production of wheat will be the same as when wheat occupied the whole field. Also, if wheat, peas and khesári are planted together, the production of wheat will be as much as when wheat was grown alone. 
+
+Yellow mustard, red mustard and the rái variety of mustard may all be sown as mixed crops with wheat. The larger variety of lentil may be cultivated along with wheat as a winter crop after the land has been tilled.
+
 
 ## Radish
 
