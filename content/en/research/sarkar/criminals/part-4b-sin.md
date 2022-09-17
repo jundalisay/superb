@@ -22,21 +22,69 @@ Rather, they will judge with discrimination the correctness of the code accordin
 
 Long ago Vyása said the following about sin:
 
+{{< q a="Vyasa" >}}
 Aśtádashapuráneśu Vyásasya vacanádvayam
 Paropakárah puńyáya pápáya parapiid́anam.
+{{< /q >}}
 
-That is, that action which checks the progress of the society is sin, and that action which accelerates social progress is Punya or virtue. This is a fact. But what is crime? Any action which goes against the different legal codes made by the different nations, according to their spatial, personal and collective differences, is crime. In Saḿskrta crime is known as Aparádha. Sin or Pápa should be formulated on the basis of cardinal human values. This was also supported by Vyasa.
+Sin is the action which <!-- checks -->stops the progress of the society. Punya or Virtue is the action which accelerates social progress. 
 
-Criminal codes are generally framed by politicians according to their own standards. Sometimes they include a tinge of humanity and sometimes they do not. Thus the present-day legal codes are not necessarily humanitarian. Rational people may defy a legal code but they should never violate cardinal human values. I would never tell the people of a country to follow their legal codes blindly, but would tell them to always follow cardinal human values. The cardinal human values are the silver lining between the psycho-spiritual world and the spiritual world. They are at the meeting-point of these two strata – the spiritual stratum on one side and the psycho-spiritual stratum on the other.
+Crime is any action which goes against the different legal codes made by the different nations, according to their spatial, personal and collective differences. 
 
-In Saḿskrta there are two words for sin – that which should be done but is not done is called “Pratyaváya”, and that which should not be done but is done is “Pápa”. The combined name of Pápa and Pratyaváya is “Pátaka”. Here I will make use of the word Pápa because it is more popular.
-Wherever we mention cardinal human values, we are not referring to any religious code, for that is based on religious dogmas. Again I repeat, why should the people of the second half of the 20th century follow religious dogmas? I advise you not to follow them but to revolt.
+In Saḿskrta, crime is known as Aparádha. 
 
-As far as possible the gap between cardinal human values and crime should be lessened. The smaller the gap the better it is. Cardinal human values are mostly unchangeable. They may change after a long time as they remain associated with the physical world, but it is natural that they will not have frequent changes because of their subjective approach. Crime will undergo trans formation according to changes in time, space and the collective body. Hence, both the conceptions cannot be exactly the same – difference between them will remain. But efforts should be made to lessen the differences. This task will be the duty of Sadvipras or spiritual revolutionaries.
+Sin or Pápa should be formulated on the basis of cardinal human values. This was also supported by Vyasa.
 
-Now, let us come to the three causes of sin. If sin and crime are considered together there are three reasons for them. The first cause is shortage of physical and psychic pabula. The second one is non-utilization of over-accumulated physical and psychic pabula. The third one is stagnancy in the psychic and physical strata.
+Criminal codes are generally framed by politicians according to their own standards. 
 
-Let us discuss the first cause.
+Sometimes they include a tinge of humanity. Sometimes they do not. 
+
+Thus, the present-day legal codes are not necessarily humanitarian. 
+
+Rational people may defy a legal code but they should never violate cardinal human values. 
+
+I would never tell the people of a country to follow their legal codes blindly, but would tell them to always follow cardinal human values. 
+
+The cardinal human values are the silver lining between the psycho-spiritual world and the spiritual world. 
+
+They are at the meeting-point of these two strata – the spiritual stratum on one side and the psycho-spiritual stratum on the other.
+
+Saḿskrta has 2 words for sin:
+
+1. “Pratyaváya” is something which should be done but is not done
+2. “Pápa” is something which should not be done but is done
+
+The combined name of Pápa and Pratyaváya is “Pátaka”. <!-- Here I will make use of the word Pápa because it is more popular. -->
+
+
+## Papa
+
+Cardinal human values does not refer to any religious code. 
+
+Religious code is the basis of religious dogmas. You should revolt against religious dogmas.
+
+<!-- , for that is based on . Again I repeat, why should the people of the second half of the 20th century follow religious dogmas? I advise you not to follow them but to . -->
+
+The gap between cardinal human values and crime should be lessened. 
+
+The smaller the gap the better. 
+
+Cardinal human values are mostly unchangeable. They may change after a long time as they remain associated with the physical world, but it is natural that they will not have frequent changes because of their subjective approach. 
+
+Crime will undergo transformation according to changes in time, space and the collective body. Hence, both the conceptions cannot be exactly the same – difference between them will remain. But efforts should be made to lessen the differences. This task will be the duty of Sadvipras or spiritual revolutionaries.
+
+### The 3 Causes of Sin
+
+If sin and crime are considered together there are three reasons for them. 
+
+1. Shortage of physical and psychic food
+
+2. Non-utilization of over-accumulated physical and psychic food
+
+3. Stagnancy in the psychic and physical strata
+
+
+<!-- Let us discuss the first cause. -->
 
 If human beings lack the basic physical necessities of life they will not be able to follow higher pursuits. You will find that a person’s sense of discrimination is disturbed if he or she is confronted with only a little physical hardship. If an intellectual becomes angry, he or she may utter insentient words. Hence, the shortage of physical wealth results in restlessness and causes the loss of people’s sense of discrimination, and then people naturally tend towards brutality. 
 
@@ -76,27 +124,39 @@ People should not be allowed to rely on the dogmas of their ancestors as it obst
 What is the solution to the first of the three causes of sin? For those who lack physical pabulum, minimum requirements will have to be guaranteed to everyone. If you do not supply people with the minimum requirements you will meet your Waterloo. If your neighbor’s house is on fire, your house will also catch fire. To supply the minimum requirements to everyone, both a strong administration and an intellectual approach are necessary. Those capable of providing these things to humanity will be called Sadvipras. In the absence of Sadvipras, society cannot survive.
 
 For the solution to the second of the three causes of sin, an intellectual approach, intellectual propagation, is required. For the materialization of this, physical force will have to be utilized as per necessity. Those who use both the proper physical and intellectual approach are Sadvipras. Without Sadvipras the survival of society is not possible. At one place, because of over-accumulation, food becomes rotten; and at another place, because of shortages, people become sinners. We cannot allow this to continue.
+
 The third cause of sin is stagnancy. 
 
-This is the greatest burden of the human society: it is the greatest disease. It is a psychic disease. People often say, “Our forefathers used to do it, so we should also do it.” But you are not your forefathers! You must behave as yourselves. Suppose the son of one Shri Simhasana is Shri Ramadhar. If Shri Ramadhara Singh says he must do like his father, does he become his father, Shri Simhasana? No, he does not. This sort of stagnancy is suicidal. For the sign of life is dynamism, and where there is no dynamism, there is death. Without dynamism people harm themselves and others.
+This is the greatest burden of the human society: it is the greatest disease. It is a psychic disease. People often say, “Our forefathers used to do it, so we should also do it.” But you are not your forefathers! You must behave as yourselves. Suppose the son of one Shri Simhasana is Shri Ramadhar. 
+
+If Shri Ramadhara Singh says he must do like his father, does he become his father, Shri Simhasana? No, he does not. This sort of stagnancy is suicidal. For the sign of life is dynamism, and where there is no dynamism, there is death. Without dynamism people harm themselves and others.
 
 Bhayáńáḿ bhayaḿ bhiiśańaḿ bhiiśańánáḿ
 Gatih prańináḿ pávanaḿ pávanánám.
 
 [He is the worst of the fierce – the fear of fear. He is the most terrible of all the terrible things. He is the supreme destination of all. He is the purest of all the purifying objects.]
 
-As dynamism is precious for the Jiivas or unit beings, so is Parama Puruśa or the Supreme Entity precious for them. A doctor feels the pulse and examines its movement to determine the health of his or her patient. If the pulse does not move the patient is pronounced dead. Movement is life. To solve this cause of sin, the intellectual approach does not work. The dogmatic-minded people, the traditional people, are neither human beings nor animals. They do not listen to reason. They are to be struck, and those who do the striking are Sadvipras. The striking is to be done with a hammer! They are to be hit not with a hammer, but with a sledge hammer.
+As dynamism is precious for the Jiivas or unit beings, so is Parama Puruśa or the Supreme Entity precious for them. A doctor feels the pulse and examines its movement to determine the health of his or her patient. If the pulse does not move the patient is pronounced dead. Movement is life. To solve this cause of sin, the intellectual approach does not work. 
+
+The dogmatic-minded people, the traditional people, are neither human beings nor animals. They do not listen to reason. They are to be struck, and those who do the striking are Sadvipras. The striking is to be done with a hammer! They are to be hit not with a hammer, but with a sledge hammer.
 
 Suppose the Sadvipras do not hammer the dogmatic-minded people, what will happen?
 
-Because of their unnecessary presence the speed of others is retarded. The stagnant people commit suicide and become the cause of death for others. Sadvipras will not leave or forgive such people, but will set them right with an iron hand. Dogmatic-minded people cannot be checked by the sanguine eyes of the so-called intellectuals or by the arms of the military. Humanity wants to move ahead, but the stagnant people who are neither human beings nor animals have blocked the way of the Sadvipras and have obstructed their movement. The common mass will not tolerate these obstructions.
+Because of their unnecessary presence the speed of others is retarded. The stagnant people commit suicide and become the cause of death for others. Sadvipras will not leave or forgive such people, but will set them right with an iron hand.
 
-This suicide is not deliberately done by the people. Those who commit suicide, do it when their mind is in a negative state. It is unnatural. Therefore, Sadvipras will remove this unnaturalness with the blows of their hammers. None can check it.
+Dogmatic-minded people cannot be checked by the sanguine eyes of the so-called intellectuals or by the arms of the military. 
+
+Humanity wants to move ahead, but the stagnant people who are neither human beings nor animals have blocked the way of the Sadvipras and have obstructed their movement. The common mass will not tolerate these obstructions.
+
+This suicide is not deliberately done by the people. Those who commit suicide, do it when their mind is in a negative state. It is unnatural. 
+
+Therefore, Sadvipras will remove this unnaturalness with the blows of their hammers. None can check it.
+
 The duty of the Sadvipras will be to hammer these stagnant people who are a burden to society, who suffer from inertness in their physico-psychic sphere, at the appropriate moment so that the path of human progress becomes straight, clear and well-constructed.
 
-When will the three causes of sin be removed? Only when the Sadvipras will be ready to fight against them with an iron hand. Today, at this hour, it is my call to the Sadvipras of the world not to delay any longer. They should march ahead and save human ity and make the path of humanity free of thorns.
+The 3 causes of sin will be removed only when the Sadvipras will be ready to fight against them with an iron hand. 
+
+<!-- Today, at this hour, it is my call to the Sadvipras of the world not to delay any longer. They should march ahead and save human ity and make the path of humanity free of thorns. -->
 
 
 30 May 1970, Muzaffarpur
-
-

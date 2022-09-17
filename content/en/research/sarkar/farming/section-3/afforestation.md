@@ -1,21 +1,17 @@
 ---
 title: "Afforestation Program"
-heading: "Water Conservation"
 date: 2022-01-31
 author: "PR Sarkar"
 description: "For afforestation programmes to be successful, surface water must be conserved."
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/section-3"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/section-3"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
 
 
-A few hundred years ago, many of the desert regions in the world were full of trees and wildlife.
+A few hundred years ago, many of the desert regions in the world were full of trees and wildlife. The deserts have spread due to:
+- tree felling by local people and commercial interests
+- the depletion of the subterranean water
 
-Due to tree felling by local people and commercial interests, and the depletion of the subterranean water, the deserts have spread.
 
 Many problems occur with the disappearance of trees. 
 
@@ -73,9 +69,10 @@ In addition to this approach, some selected plants need to be grown in desert re
 
 For example, in dry, sandy areas we can grow jojoba which produces seeds that yield oil which can be substituted for diesel oil. Different cactii, Acacia catechu or Acacia arabica can also be grown. 
 
+
+## Afforestattion
+
 Afforestation is the only solution to desertification.
-
-
 
 1. Phase 1: Fast-growing trees should be planted. 
 

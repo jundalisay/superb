@@ -1,14 +1,9 @@
 ---
 title: "The Best Methods of Irrigation"
-# heading: "Chapter 1 of Yoga Sutras Simplified"
 date: 2022-01-31
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
 
@@ -40,6 +35,8 @@ The land eventually becomes infertile and unfit for cultivation. When the flow o
 Well irrigation should be used only as a temporary measure because of the devastating effects it can have on the surrounding environment. Alternative methods of irrigation include river irrigation, irrigation from reservoirs, dams and small ponds, shift irrigation and lift irrigation. 
 
 Irrigation water is like the apex of a spinning top. Without it, agriculture is not possible.
+
+
 
 ## The Best Methods of Irrigation
 
@@ -81,6 +78,8 @@ Water will only be carried a little distance in a small-scale canal system, so m
 Such a system will also help check flooding in the rainy season and avoid damage to the small-scale dams constructed along the rivers. Farmers should take care that they do not use excessive non-organic fertilizers, because the chemicals will pollute the water system and have a harmful effect on humans, animals, fish, plants and the environment. Organic fertilizers are preferable to non-organic fertilizers.
 
 What is the method to irrigate a rain-shadow region? When the rain clouds move from the sea and strike high mountains on the land there is rain. The part of the mountain range which faces the sea gets ample rain, whereas the region on the other side of the range facing inland gets little rain. The region which gets ample rain is the rain-front area, while the region which gets little rain is the rain-shadow area. The entire Telengana region is a rain-shadow area, and so is the Pune region of Maharashtra.
+
+
 
 ### How can the Pune region be irrigated? 
 

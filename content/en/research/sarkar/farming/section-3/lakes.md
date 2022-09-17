@@ -1,14 +1,9 @@
 ---
 title: "Artificial Lakes for Afforestation"
-heading: "Water Conservation"
 date: 2022-01-31
 author: "PR Sarkar"
 description: "For afforestation programmes to be successful, surface water must be conserved."
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/section-3"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/section-3"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
 

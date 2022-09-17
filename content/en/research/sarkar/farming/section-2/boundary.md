@@ -1,14 +1,9 @@
 ---
 title: "Mixed Cropping for Boundary Plants"
-heading: "The Blending of Crops"
 date: 2022-01-20
 author: "PR Sarkar"
 description: "To ensure the maximum utilization of every inch of land, plants are used in the boundary areas of all schools, farms, orchards, homes, etc"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/section-2"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/section-2"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
 

@@ -1,18 +1,13 @@
 ---
 title: "Crop Rotation"
-# heading: "Chapter 1 of Yoga Sutras Simplified"
 date: 2022-01-31
 author: "PR Sarkar"
 description: "Through scientific crop rotation maximum crops can be planted in the minimum period of time and maximum crops can be planted in the minimum space"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
 
-## CROP ROTATION
+
 
 In crop rotation, the soil is under cultivation for most of the year. 
 
@@ -43,13 +38,21 @@ For example, with áus paddy, radish should be planted between the rows of rice
 
 With early boro paddy, big onion and safflower as a boundary plant should be cultivated. With late boro paddy, onion seeds which produce onion bulbs should be planted as a subsidiary crop.
 
-A special system is used to grow rice in two and a half or three months instead of four. Early in the year transplanted áus seedlings should be grown. Áus takes four months before it is ready for harvesting, so for the first four weeks the áus seedlings should be kept in a nursery, and for the remaining two and a half to three months they should be grown in the field. The period for áus is Vaeshákha, Jyeśthá Aśádha and Shrávana.
+A special system is used to grow rice in 2.5-3 months instead of 4. 
 
-In between the áus seedlings radish can be grown. A good variety of oil which is a substitute for mustard oil can be produced from the seeds of radish. The radish should be of the summer variety. The leaves of radish are very good for the liver.
+Early in the year, transplanted áus seedlings should be grown. Áus takes 4 months before it is ready for harvesting, so for the first 4 weeks, the áus seedlings should be kept in a nursery. For the remaining 2.5-3 months, they should be grown in the field. 
 
-After áus, áman variety of paddy can be grown according to the same system used for áus – that is, one month in the nursery and two and a half to three months in the field. The áman paddy should be in the nursery while the áus crop is in the fields. The period for áman is Shrávańá, Bhádra, Áshvina and Kárttika. There cannot be any blended crop with áman, but instead pisciculture can be practised. During áman cultivation some fertilizer may be necessary, but whatever fertilizer is used should be non-poisonous, otherwise it will kill the fish.
+The period for áus is Vaeshákha, Jyeśthá Aśádha and Shrávana.
 
-In Ráŕh the soil is of a sticky nature so it does not allow water to seep underground. This type of soil is very good for áman cultivation. Ráŕh has the best soil for áman cultivation in the entire world.
+In between the áus seedlings, radish can be grown. 
+
+A good variety of oil which is a substitute for mustard oil can be produced from the seeds of radish. The radish should be of the summer variety. The leaves of radish are very good for the liver.
+
+After áus, áman variety of paddy can be grown according to the same system used for áus – that is, 1 month in the nursery and 2.5-3 months in the field. 
+
+The áman paddy should be in the nursery while the áus crop is in the fields. The period for áman is Shrávańá, Bhádra, Áshvina and Kárttika. There cannot be any blended crop with áman, but instead pisciculture can be practised. During áman cultivation some fertilizer may be necessary, but whatever fertilizer is used should be non-poisonous, otherwise it will kill the fish.
+
+In Ráŕh, the soil is of a sticky nature so it does not allow water to seep underground. This type of soil is very good for áman cultivation. Ráŕh has the best soil for áman cultivation in the entire world.
 
 After áman we have to cultivate the early variety of boro according to the same system. With boro, onion and garlic can be grown as blended crops between the seedlings. Around the boundary of the field, one line of safflower seeds can be grown. Oil which has medicinal value can be produced from the seeds of onion.
 
@@ -61,7 +64,9 @@ This type of paddy rotation system is best for sticky or clay soil.
 
 If the soil is half sandy half sticky alluvial soil, barely two paddy crops – áus and amam – can be grown. Wheat and mustard can be cultivated the rest of the year. Planting 20% mustard with wheat will increase the production of wheat by 150%. Peas or lentils can also be grown with the wheat.
 
-Two potato crops – one of 60 days or early potato and the second of 90 days or late potato – can be grown in a season. 
+Two potato crops can be grown in a season:
+1. 60 days or early potato
+2. 90 days or late potato
 
 60-day potato is produced for immediate consumption. It cannot be stored because it is not fully matured, but the 90 day crop can be stored. 
 
@@ -76,7 +81,11 @@ The potatoes are root crops. So no competing root crop, such as peanut, should b
 
 On the slopes of the mounds small spices like cumin can be planted. After one month when the potatoes have partly grown, canals for irrigation should be dug between the rows of potatoes. In the canals brinjal, cucumber and chilli can be planted. Cauliflower matures before potato. When it matures it can be cut, but the roots should be left in the soil so as not to disturb the potato crop.
 
-Another example is wheat. 20% mustard can be planted with 80% wheat. Mustard grows leaves which can be used as a vegetable and seeds which can be pressed to produce oil. If mustard oil cake is put in water until it starts giving off a bad smell, and is then mixed with more water and spread on the fields, it makes a good fertilizer. Bees can also utilize the flowers to make excellent honey. In addition, on the border of the field two rows of garlic should be grown so that their spacing is in the configuration of equilateral triangles. 
+Another example is wheat. 
+
+20% mustard can be planted with 80% wheat. Mustard grows leaves which can be used as a vegetable and seeds which can be pressed to produce oil. If mustard oil cake is put in water until it starts giving off a bad smell, and is then mixed with more water and spread on the fields, it makes a good fertilizer. Bees can also utilize the flowers to make excellent honey. 
+
+In addition, on the border of the field two rows of garlic should be grown so that their spacing is in the configuration of equilateral triangles. 
 
 In the middle of each triangle, one safflower seed should be sown to make another row of safflower flowers. So, four crops can be grown: wheat, mustard, garlic and safflower. Other crops also can be grown as blended crops.
 

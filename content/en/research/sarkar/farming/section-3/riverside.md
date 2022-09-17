@@ -1,14 +1,9 @@
 ---
 title: "Riverside Plantations"
-# heading: "Chapter 1 of Yoga Sutras Simplified"
 date: 2022-01-31
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/section-3/rivers"
-linkbtext: "Rivers"
-linkf: "/research/sarkar/farming/section-3/"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
 

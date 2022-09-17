@@ -1,14 +1,9 @@
 ---
 title: "Calendars for Agriculture"
-heading: "Water Conservation"
 date: 2022-01-31
 author: "PR Sarkar"
 description: "The Hindi months are lunar months so cultivation cannot be done according to the Hindi calendar"
 image: "/covers/farming.jpg"
-linkb: "/research/sarkar/farming/section-3"
-linkbtext: "Index"
-linkf: "/research/sarkar/farming/section-3"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
 
