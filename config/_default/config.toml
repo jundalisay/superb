@@ -1,5 +1,5 @@
 # baseURL = "http://192.168.43.67"
-baseURL = "https://www.superphysics.org/"
+baseURL = "https://superphysics.org/"
 
 theme = "hugo-bulma"
 # googleAnalytics = ""
