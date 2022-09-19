@@ -1,15 +1,11 @@
 ---
+heading: "Chapter 8"
 title: Planes Of Correspondence
-description: Hume describes the two general Kinds of Philosophies
+description: The Second Hermetic Principle says that there is a harmony, agreement, and correspondence between the several planes of Manifestation, Life and Being
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-23
 showdate: false
-linkb: "/research/hermes/kybalion/chapter-06"
-linkbtext: "Chapter 6"
-linkf: "/research/hermes/kybalion/chapter-09"
-linkftext: "Chapter 9"
-heading: "Chapter 8"
 ---
 
 {{< q >}}

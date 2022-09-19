@@ -1,15 +1,12 @@
 ---
-title: Causation
-description: Hume describes the two general Kinds of Philosophies
+heading: "Chapter 12"
+title: Cause and Effect 
+# Causation
+description: The Sixth Hermetic Principle is the Principle of Cause and Effect
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-19
 hidedate: true
-linkb: "/research/hermes/kybalion/chapter-11"
-linkbtext: "Chapter 11"
-linkf: "/research/hermes/kybalion/chapter-13"
-linkftext: "Chapter 13"
-heading: "Chapter 12"
 ---
 
 

@@ -40,9 +40,19 @@ I would have deemed it a grave sin against good sense, if, for the reason that I
 
 ## Maxim 2: Be as firm and resolute in my actions as I can 
 
-One should not adhere less steadfastly to the most doubtful opinions, when once adopted, than if they had been highly certain
+<!-- One should not adhere less steadfastly to the most doubtful opinions, when once adopted, than if they had been highly certain
 
-imitating in this the example of travellers who, when they have lost their way in a forest, ought not to wander from side to side, far less remain in one place, but proceed constantly towards the same side in as straight a line as possible, without changing their direction for slight reasons, although perhaps it might be chance alone which at first determined the selection; for in this way, if they do not exactly reach the point they desire, they will come at least in the end to some place that will probably be preferable to the middle of a forest. In the same way, since in action it frequently happens that no delay is permissible, it is very certain that, when it is not in our power to determine what is true, we ought to act according to what is most probable; and even although we should not remark a greater probability in one opinion than in another, we ought notwithstanding to choose one or the other, and afterwards consider it, in so far as it relates to practice, as no longer dubious, but manifestly true and certain, since the reason by which our choice has been determined is itself possessed of these qualities. This principle was sufficient thenceforward to rid me of all those repentings and pangs of remorse that usually disturb the consciences of such feeble and uncertain minds as, destitute of any clear and determinate principle of choice, allow themselves one day to adopt a course of action as the best, which they abandon the next, as the opposite.
+Examples are the  -->
+
+Travellers who get lost on their way in a forest should not wander from side to side nor remain in one place. Instead, they should proceed constantly towards the same side in a straight line, without changing their direction which they choose by chance.
+
+In this way, if they do not exactly reach the point they want, they will at least be not in the middle of the forest. 
+
+In the same way, <!-- since in action it frequently happens that no delay is permissible, it is very certain  --> when we are unable to determine what is true, we should act according to what is most probable.
+
+We should not side with one opinion over another. <!-- Even though we should not remark a greater probability in one opinion than in another, --> We should nevertheless choose one or the other, and afterwards consider it as it relates to practice. This makes it manifestly true and certain since the reason by which our choice has been determined is itself possessed of these qualities. 
+
+This principle was sufficient thenceforward to rid me of all those repentings and pangs of remorse that usually disturb the consciences of such feeble and uncertain minds as, destitute of any clear and determinate principle of choice, allow themselves one day to adopt a course of action as the best, which they abandon the next, as the opposite.
 
 
 ## Maxim 3: Always conquer myself rather than fortune
@@ -106,7 +116,7 @@ I continued to exercise myself in my method, keeping within  <!-- besides taking
 
 I reserved some hours from time to time which I expressly devoted to the employment of the method in the solution of mathematical difficulties, or even in the solution likewise of some questions belonging to other sciences
 
-but which, by my having detached them from such principles of these sciences as were of inadequate certainty, were rendered almost mathematical= the truth of this will be manifest from the numerous examples contained in this volume. 
+but which, by my having detached them from such principles of these sciences as were of inadequate certainty, were rendered almost mathematical: the truth of this will be manifest from the numerous examples contained in this volume. 
 
 Thus, without in appearance living otherwise than those who, with no other occupation than that of spending their lives agreeably and innocently, study to sever pleasure from vice, and who, that they may enjoy their leisure without ennui, have recourse to such pursuits as are honourable, I was nevertheless prosecuting my design, and making greater progress in the knowledge of truth, than I might, perhaps, have made had I been engaged in the perusal of books merely, or in holding converse with men of letters.
 
@@ -116,4 +126,6 @@ The examples of many men of the highest genius, who had, in former times, engage
 
 I know not what were the grounds of this opinion; and, if my conversation contributed in any measure to its rise, this must have happened rather from my having confessed my ignorance with greater freedom than those are accustomed to do who have studied a little, and expounded perhaps, the reasons that led me to doubt of many of those things that by others are esteemed certain, than from my having boasted of any system of philosophy. But, as I am of a disposition that makes me unwilling to be esteemed different from what I really am, I thought it necessary to endeavour by all means to render myself worthy of the reputation accorded to me; 
 
-It has been  8 years since this desire constrained me to remove from all those places where interruption from any of my acquaintances was possible, and betake myself to this country. The long war has led established such discipline, that the armies maintained seem to be of use only in enabling the inhabitants to enjoy more securely the blessings of peace and where, in the midst of a great crowd actively engaged in business, and more careful of their own affairs than curious about those of others, I have been enabled to live without being deprived of any of the conveniences to be had in the most populous cities, and yet as solitary and as retired as in the midst of the most remote deserts.
+It has been 8 years since this desire constrained me to remove from all those places where interruption from any of my acquaintances was possible, and betake myself to this country.
+
+The long war has led established such discipline, that the armies maintained seem to be of use only in enabling the inhabitants to enjoy more securely the blessings of peace and where, in the midst of a great crowd actively engaged in business, and more careful of their own affairs than curious about those of others, I have been enabled to live without being deprived of any of the conveniences to be had in the most populous cities, and yet as solitary and as retired as in the midst of the most remote deserts.

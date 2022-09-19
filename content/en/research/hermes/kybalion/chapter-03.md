@@ -1,22 +1,19 @@
 ---
-title: Mental Transmutation
-description: Hume describes the two general Kinds of Philosophies
+heading: "Chapter 3"
+title: Mental Transmutation Simplified
+description: The Hermetists were the original alchemists, astrologers, and psychologists, with Hermes as the founder of these schools
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-28
-linkb: "/research/hermes/kybalion"
-linkbtext: "Index"
-linkf: "/research/hermes/kybalion/chapter-04"
-linkftext: "Chapter 4"
-heading: "Chapter 3"
 ---
+
 
 {{< q >}}
 "Mind, metals, and elements may be transmuted from state to state, degree to degree, condition to condition, pole to pole, vibration to vibration. True Hermetic Transmutation is a Mental Art."—The Kybalion.
 {{< /q >}}
 
 
-The Hermetists were the original alchemists, astrologers, and psychologists, with Hermes asthe founder of these schools. 
+The Hermetists were the original alchemists, astrologers, and psychologists, with Hermes as the founder of these schools. 
 
 - from astrology has grown modern astronomy
 - from alchemy has grown modern chemistry
@@ -28,7 +25,7 @@ The records engraved on the stones of Ancient Egypt show that the ancients had a
 
 The ancient writings show that they were acquainted with the chemical properties of things. 
 
-; in fact, the ancient theories regarding physics are being slowly verified by the latest discoveries of modern science, notably those relating to the constitution of matter. 
+The ancient theories regarding physics are being slowly verified by the latest discoveries of modern science, notably those relating to the constitution of matter. 
 
 Nor must it be supposed that they were ignorant of the so-called modern discoveries in psychology—on the contrary, the Egyptians were especially skilled in the science of Psychology, particularly in the branches that the modern schools ignore, but which, nevertheless, are being uncovered under the name of "psychic science" which is perplexing the psychologists of to-day, and making them reluctantly admit that "there may be something in it after all."
 
@@ -53,15 +50,35 @@ The first of the Seven Hermetic Principles is the Principle of Mentalism, the ax
 
 If the Universe is Mental in its nature, then Mental Transmutation must be the art of CHANGING THE CONDITIONS OF THE UNIVERSE, along the lines of Matter, Force and mind. So you see, therefore, that Mental Transmutation is really the "Magic" of which the ancient; writers had so much to say in their mystical works, and about which they gave so few practical instructions. If All be Mental, then the art which enables one to transmute mental conditions must render the Master the controller of material conditions as well as those ordinarily called "mental."
 
-As a matter of fact, none but advanced Mental Alchemists have been able to attain the degree of power necessary to control the grosser physical conditions, such as the control of the elements of Nature; the production or cessation of tempests; the production and cessation of earthquakes and other great physical phenomena. But that such men have existed, and do exist today, is a matter of earnest belief to all advanced occultists of all schools. That the Masters exist, and have these powers, the best teachers assure their students, having had experiences which justify them in such belief and statements. These Masters do not make public exhibitions of their powers, but seek seclusion from the crowds of men, in order to better work their may along the Path of Attainment. We mention their existence, at this point, merely to call your attention to the fact that their power is entirely Mental, and operates along the lines of the higher Mental Transmutation, under the Hermetic Principle of Mentalism.
+As a matter of fact, none but advanced Mental Alchemists have been able to attain the degree of power necessary to control the grosser physical conditions, such as the control of the elements of Nature; the production or cessation of tempests; the production and cessation of earthquakes and other great physical phenomena. But that such men have existed, and do exist today, is a matter of earnest belief to all advanced occultists of all schools. 
 
-"The Universe is Mental"—The Kybalion.
+That the Masters exist, and have these powers, the best teachers assure their students, having had experiences which justify them in such belief and statements. These Masters do not make public exhibitions of their powers, but seek seclusion from the crowds of men, in order to better work their may along the Path of Attainment. We mention their existence, at this point, merely to call your attention to the fact that their power is entirely Mental, and operates along the lines of the higher Mental Transmutation, under the Hermetic Principle of Mentalism.
 
-But students and Hermetists of lesser degree than Masters—the Initiates and Teachers—are able to freely work along the Mental Plane, in Mental Transmutation. In fact all that we call "psychic phenomena,"; "mental influence"; "mental science"; "new-thought phenomena," etc., operates along the same general lines, for there is but one principle involved, no matter by what name the phenomena be called.
+
+{{< q >}}
+"The Universe is Mental"—The Kybalion
+{{< /q >}}
+
+But students and Hermetists of lesser degree than Masters—the Initiates and Teachers—are able to freely work along the Mental Plane, in Mental Transmutation. 
+
+The following operate along the same general lines:
+- "psychic phenomena'
+- "mental influence"
+- "mental science"
+- "new-thought phenomena"
+- etc
+
+There is but one principle involved, no matter by what name the phenomena be called.
 
 The student and practitioner of Mental Transmutation works among the Mental Plane, transmuting mental conditions, states, etc., into others, according to various formulas, more or less efficacious. The various "treatments," "affirmations," "denials" etc., of the schools of mental science are but formulas, often quite imperfect and unscientific, of The Hermetic Art. The majority of modern practitioners are quite ignorant compared to the ancient masters, for they lack the fundamental knowledge upon which the work is based.
 
-Not only may the mental states, etc., of one's self be changed or transmuted by Hermetic Methods; but also the states of others may be, and are, constantly transmuted in the same way, usually unconsciously, but often consciously by some understanding the laws and principles, in cases where the people affected are not informed of the principles of self-protection. And more than this, as many students and practitioners of modern mental science know, every material condition depending upon the minds of other people may be changed or transmuted in accordance with the earnest desire, will, and "treatments" of person desiring changed conditions of life. The public are so generally informed regarding these things at present, that we do not deem it necessary to mention the same at length, our purpose at this point being merely to show the Hermetic Principle and Art underlying all of these various forms of practice, good and evil, for the force can be used in opposite directions according to the Hermetic Principles of Polarity.
+The mental states, etc., of one's self, and the states of others, can be changed or transmuted by Hermetic Methods. 
+
+This is done usually unconsciously, but often consciously by some understanding the laws and principles, in cases where the people affected are not informed of the principles of self-protection. 
+
+Many students and practitioners of modern mental science know that every material condition depending upon the minds of other people may be changed or transmuted in accordance with the earnest desire, will, and "treatments" of person desiring changed conditions of life. 
+
+The public are so generally informed regarding these things at present, that we do not deem it necessary to mention the same at length, our purpose at this point being merely to show the Hermetic Principle and Art underlying all of these various forms of practice, good and evil, for the force can be used in opposite directions according to the Hermetic Principles of Polarity.
 
 <!-- In this little book we shall state the basic principles of Mental
 Transmutation, that all who read may grasp the Underlying Principles,

@@ -1,7 +1,7 @@
 ---
 title: "Sensory Ideas"
 heading: Part 6
-date: 2022-01-10
+date: 2022-01-08
 description: "Sensory ideas must be produced by some substance other than me. This substance actually has (either in a straightforward way or in a higher form) all the reality that is represented in the ideas that it produces."
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"

@@ -1,15 +1,13 @@
-+++
-title=  "The Possibility of a “finite” Yet “unbounded” Universe"
-heading=  "Section 31"
-description=  "Elliptical space is another kind of curved space. It has the two “counter-points” are identical (indistinguishable from each other). An elliptical universe can thus be considered to some extent as a curved universe possessing central symmetry"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-30"
-linkbtext=  "section-30"
-linkf=  "/research/einstein/relativity/section-32"
-linkftext=  "section-32"
-+++
+---
+title: "The Possibility of a 'finite' Yet 'unbounded' Universe"
+heading: "Section 31"
+date: 2022-03-02
+description: "Elliptical space is another kind of curved space. It has the two “counter-points” are identical (indistinguishable from each other). An elliptical universe can thus be considered to some extent as a curved universe possessing central symmetry"
+image: "/covers/rel.jpg"
+---
 
 <!-- Speculations on the structure of the universe also move in another direction. -->
+
 
 What is the structure of the universe?
 
@@ -35,11 +33,16 @@ They can convince themselves of this on every part of their “world,” provide
 
 For a plane surface, the ratio of the circumference of a circle to its diameter, both lengths being measured with the same rod, is, according to Euclidean geometry of the plane, equal to a constant value `π`, which is independent of the diameter of the circle. 
 
-On their spherical surface, our flat beings would find for this ratio the value= 
+On their spherical surface, our flat beings would find for this ratio the value:
 
+
+```bash
 π (sin (r/R) / (r/R))
+```
 
-This is a smaller value than π. The difference is that the more considerable, the greater is the radius of the circle in comparison with the radius R of the “world-sphere.” 
+This is a smaller value than `π`. 
+
+The difference is that the more considerable, the greater is the radius of the circle in comparison with the radius R of the “world-sphere.” 
 
 Through this relation, the spherical beings can determine the radius of their universe even when only a relatively small part of their world-sphere is available for their measurements.
 

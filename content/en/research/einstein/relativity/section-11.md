@@ -73,9 +73,9 @@ z' = z
 t' = (t-(v/c2))x) / √(1-v2/c2
 ```
 
-<br>
 
-> *Einstein Note=  This is explained in Appendix 1
+
+> *Einstein Note: This is explained in Appendix 1
 
 
 
@@ -92,7 +92,7 @@ z' = z
 t' = t
 ```
 
-<br>
+
 
 These are called the “Galilei transformation.” These can be obtained from the Lorentz transformation by substituting an infinitely large value for the velocity of light `c` in the Lorentz transformation.<!-- Aided by the following illustration, we can readily see that, in accordance with the Lorentz transformation,  --> Thus, the law of the transmission of light in vacuum is satisfied both for the non-moving `K` and the moving `K'`. 
 
@@ -102,7 +102,7 @@ A light signal is sent along the positive x-axis. It advances accordaning with t
 x = ct
 ```
 
-<br>
+
 
 According to the equations of the Lorentz transformation, this simple relation between `x` and `t` involves a relation between `x'` and `t'`. If we substitute for `x` the value `ct` in the 1st and 4th equations of the Lorentz transformation, we obtain= 
 
@@ -112,14 +112,14 @@ x' = ( c − v ) t / √(1-(v2/c2)
 t' = ( 1 − (v/c) ) t / √ (1 − (v2/c2)
 ```
 
-<br>
+
 
 from which, by division, the expression follows= 
 
 ``` elixir
 x' = ct'
 ```
-<br>
+
 
 
 If referred to the system `K'`, the speed of light takes place according to this equation. We thus see that the velocity of transmission relative to the moving `K'` is also equal to `c`.  The same result is obtained for rays of light advancing in any other direction. <!-- This is because the equations of the Lorentz transformation 

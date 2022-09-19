@@ -1,13 +1,12 @@
-+++
-title=  "Gaussian Co–ordinates"
-heading=  "Chapter 25"
-description=  "Einstein uses Gaussian co-ordinates to explain movement in 4D spacetime."
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-24"
-linkbtext=  "section-24"
-linkf=  "/research/einstein/relativity/section-26"
-linkftext=  "section-26"
-+++
+---
+title: "Gaussian Co–ordinates"
+heading: "Section 25"
+date: 2022-03-14
+description: "Einstein uses Gaussian co-ordinates to explain movement in 4D spacetime."
+image: "/covers/rel.jpg"
+---
+
+
 
 The solution of Gauss is as follows. <!-- , this combined analytical and geometrical mode of handling the problem can be arrived at in the following way.  -->
 
@@ -33,7 +32,7 @@ ds^2 = g11 du^2 + 2g12 du dv + g22 dv^2
 where g11, g12, g22, are magnitudes which depend in a definite way on `u` and `v`. The magnitudes g11, g12, and g22 determine the behaviour of the rods relative to the u-curves and v-curves, and thus also relative to the surface of the table.
 
 
-### 2D Euclidean Continuum
+## 2D Euclidean Continuum
 
 In certain conditions, the points form a Euclidean continuum with reference to the measuring-rods. In this case, it is possible to draw the u-curves and v-curves and attach numbers to them= 
 
@@ -50,7 +49,7 @@ Here, the Gaussian co-ordinates are simply Cartesian ones. Gauss co-ordinates ar
 So far, these considerations hold for a continuum of 2D. 
 
 
-### 3D Gaussian Continuum
+## 3D Gaussian Continuum
 
 The Gaussian method can also be applied to a continuum of 3 or more dimensions. A 4D continuum is reprsented by the following.
 

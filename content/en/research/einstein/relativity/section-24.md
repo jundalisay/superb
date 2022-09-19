@@ -1,13 +1,12 @@
-+++
-title=  "Euclidean And Non–euclidean Continuum"
-heading=  "Section 24"
-description=  "Einstein explains invents the metric tensor as rigid rods in a Riemann curvature"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-23"
-linkbtext=  "section-23"
-linkf=  "/research/einstein/relativity/section-25"
-linkftext=  "section-25"
-+++ 
+---
+title: "Euclidean And Non–euclidean Continuum"
+heading: "Section 24"
+date: 2022-03-16
+description: "Einstein explains invents the metric tensor as rigid rods in a Riemann curvature"
+image: "/covers/rel.jpg"
+---
+
+
 
 THE surface of a marble table is spread out in front of me. 
 
@@ -49,4 +48,4 @@ But if rods of every kind (i.e. of every material) were to behave in the same wa
 Cartesian coordinates must then be discarded and replaced by another system which does not assume the validity of Euclidean geometry for rigid bodies*. 
 
 
-> *Einstein Note=  Mathematicians solved this in this way=  An ellipsoid is in Euclidean 3D space. It has a 2D surface just like a plane. the situation depicted here corresponds to the one brought about by the general postulate of relativity (Section 23). Gauss used this 2D geometry from first principles, neglecting <!--  of the fact that the surface belongs to a --> the Euclidean continuum of three dimensions. If we stick to our example of the rigid rods on the marble slab, we will find that the laws of these rods are different from those of Euclidean plane geometry. Gauss pointed to Riemann's method of dealing with multidimensional, non-Euclidean continua. Thus, those mathematicians long ago solved the formal problems of General Relativitys
+> *Einstein Note: Mathematicians solved this in this way: An ellipsoid is in Euclidean 3D space. It has a 2D surface just like a plane. the situation depicted here corresponds to the one brought about by the general postulate of relativity (Section 23). Gauss used this 2D geometry from first principles, neglecting <!--  of the fact that the surface belongs to a --> the Euclidean continuum of three dimensions. If we stick to our example of the rigid rods on the marble slab, we will find that the laws of these rods are different from those of Euclidean plane geometry. Gauss pointed to Riemann's method of dealing with multidimensional, non-Euclidean continua. Thus, those mathematicians long ago solved the formal problems of General Relativitys

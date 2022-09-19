@@ -1,13 +1,12 @@
-+++
-title=  "Special And General Relativity"
-heading=  "Section 18"
-description=  "For the physical description of natural processes, neither of the reference-bodies K, K' is unique (lit. “specially marked out”) as compared with the other"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-17"
-linkbtext=  "section-17"
-linkf=  "/research/einstein/relativity/section-19"
-linkftext=  "section-19"
-+++
+---
+title: "Special And General Relativity"
+heading: "Section 18"
+date: 2022-03-28
+description: "For the physical description of natural processes, neither of the reference-bodies K, K' is unique (lit. 'specially marked out') as compared with the other"
+image: "/covers/rel.jpg"
+---
+
+
 
 <!-- PART II THE GENERAL THEORY OF RELATIVITY -->
 

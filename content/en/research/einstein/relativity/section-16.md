@@ -14,11 +14,11 @@ This question is not easily answered as explained by Fizeau's experiment.
 Special Relativity came from the Maxwell-Lorentz theory of electromagnetic phenomena. Thus, everything that supports the electromagnetic theory also supports Special Relativity. 
 
 
-### Special Relativity Proven By Starlight
+## Special Relativity Proven By Starlight
 
 Special Relativity can predict the effects from the light from the fixed stars because the Earth moves relatively to those stars. 
 
-One effect is= 
+One effect is:
 - the apparent position of those stars resulting from the Earth's motion around the sun (aberration), and 
 - the influence of the radial components of the relative motions of the fixed stars with respect to the earth on the colour of their starlight
   - This manifests itself in a slight displacement of the spectral lines of the light from a fixed star, compared with the position of the same spectral lines when they are produced by a terrestrial source of light (Doppler principle).
@@ -33,7 +33,7 @@ Maxwell-Lorentz theory only by the introduction of an auxiliary hypothesis, whic
 without making use of the theory of relativity — appears extraneous.
 
 
-### Special Relativity Proven By Electrons
+## Special Relativity Proven By Electrons
 
 Cathode rays and β-rays emitted by radioactive substances are made up of electrons. These have very small inertia but high velocity. 
 

@@ -1,13 +1,11 @@
-+++
-title=  "Cosmological Difficulties Of Newton’s Theory"
-heading=  "Section 30"
-description=  "Einstein disproves Newton's theory of the universe having a center"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-29"
-linkbtext=  "section-29"
-linkf=  "/research/einstein/relativity/section-31"
-linkftext=  "section-31"
-+++
+---
+title: "Cosmological Difficulties Of Newton’s Theory"
+heading: "Section 30"
+date: 2022-03-04
+description: "Einstein disproves Newton's theory of the universe having a center"
+image: "/covers/rel.jpg"
+---
+
 
 <!-- PART III CONSIDERATIONS ON THE UNIVERSE AS A WHOLE -->
 

@@ -1,16 +1,13 @@
 ---
+heading: "Chapter 11"
 title: "The Principle of Rhythm [Karma]"
 description: Everything flows out and in, has its tides, rising and falling. The pendulum-swing manifests in everything.
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-20
 showdate: false
-linkb: "/research/hermes/kybalion/chapter-10"
-linkbtext: "Chapter 10"
-linkf: "/research/hermes/kybalion/chapter-12"
-linkftext: "Chapter 12"
-heading: "Chapter 11"
 ---
+
 
 {{< q >}}
 Everything flows out and in, has its tides, rising and falling. The pendulum-swing manifests in everything. The measure of the swing to the right, is the measure of the swing to the left; rhythm compensates"—The Kybalion.
@@ -69,7 +66,9 @@ They discovered that there were two general planes of Consciousness, the Lower a
 
 Its operations consist in the raising of the Ego above the vibrations of the Unconscious Plane of mental activity, so that the negative-swing of the pendulum is not manifested in consciousness, and therefore they are not affected. It is akin to rising above a thing and letting it pass beneath you.
 
-The Hermetic Master, or advanced student, polarizes himself at the desired pole, and by a process akin to "refusing" to participate in the backward swing or, if you prefer, a "denial" of its influence over him, he stands firm in his polarized position, and allows the mental pendulum to swing back along the unconscious plane. All individuals who have attained any degree of self- mastery, accomplish this, more or less unknowingly, and by refusing to allow their moods and negative mental states to affect them, they apply the Law of Neutralization. 
+The Hermetic Master, or advanced student, polarizes himself at the desired pole, and by a process akin to "refusing" to participate in the backward swing or, if you prefer, a "denial" of its influence over him, he stands firm in his polarized position, and allows the mental pendulum to swing back along the unconscious plane. 
+
+All individuals who have attained any degree of self-mastery, accomplish this, more or less unknowingly, and by refusing to allow their moods and negative mental states to affect them, they apply the Law of Neutralization. 
 
 The Master, however, carries this to a much higher degree of proficiency, and by the use of his Will he attains a degree of Poise and Mental Firmness almost impossible of belief on the part of those who allow themselves to be swung backward and forward by the mental pendulum of moods and feelings.
 

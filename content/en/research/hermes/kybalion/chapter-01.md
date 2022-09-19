@@ -1,14 +1,10 @@
 ---
-title: The Hermetic Philosophy
-description: In the early days, the Basic Hermetic Doctrines, passed on from teacher to student, was compiled into as THE KYBALION
+heading: "Chapter 1"
+title: The Hermetic Philosophy Simplified
+description: In the early days, the Basic Hermetic Doctrines, passed on from teacher to student, was compiled into as The Kybalion
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-30
-linkb: "/research/hermes/kybalion/intro"
-linkbtext: "Intro"
-linkf: "/research/hermes/kybalion/chapter-02"
-linkftext: "Chapter 2"
-heading: "Chapter 1 of the Kybalion Simplified"
 ---
 
 {{< q >}}

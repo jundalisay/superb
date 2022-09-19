@@ -17,7 +17,7 @@ Special Relativity grew out of electrodynamics and optics. It has considerably s
 
 
 
-Special Relativity has rendered the Maxwell-Lorentz theory so plausible.<!-- , that the latter would have been generally accepted by physicists even if experiment had decided less unequivocally in its favour. --> I modified Classical mechanics to make it compatible with my <!--  needed to be modified before it could come into line with the demands of the --> Special Relativity. <span style="color=  red">This modification affects only the laws for rapid motions, where the velocities of matter `v` are near the velocity of light</span>. 
+Special Relativity has rendered the Maxwell-Lorentz theory so plausible.<!-- , that the latter would have been generally accepted by physicists even if experiment had decided less unequivocally in its favour. --> I modified Classical mechanics to make it compatible with my <!--  needed to be modified before it could come into line with the demands of the --> Special Relativity. {{< c v="red" >}} This modification affects only the laws for rapid motions, where the velocities of matter `v` are near the velocity of light. {{< /c >}}
 
 Examples are the motions of electrons and ions. For slower motions*, the variations from the laws of classical mechanics are too small to be evident. We shall consider the motion of stars later in General Relativity.
 
@@ -34,9 +34,7 @@ Relativity says that the kinetic energy of a mass `m` is no longer given by=
 m (v2/2) 
 ```
 
-<br>
-
-Instead, we replace it with= 
+Instead, we replace it with:
 
 ``` elixir
 mc2 / √ (1-(v2/c2))
@@ -49,7 +47,7 @@ This expression approaches infinity as the velocity `v` approaches the velocity 
 
 
 
-Its kinetic energy in the form of a series is= 
+Its kinetic energy in the form of a series is:
 
 ``` elixir
 mc2 + m (v2/2) + 3/8 m (v4/c2) + . . .
@@ -60,7 +58,7 @@ When `v2 / c2` is small compared with unity, the 3rd of these terms is always sm
 
 `mc2` does not contain the velocity. It is not needed if we are only asking how the energy of a point-mass depends on the velocity. We shall speak of its essential significance later.
 
-Special Relativity is important because it changes our concept of mass. Before Relativity, physics recognised two conservation laws= 
+Special Relativity is important because it changes our concept of mass. Before Relativity, physics recognised two conservation laws:
 - the law of the conservation of energy
 - the law of the conservation of mass
 
@@ -77,9 +75,9 @@ In contrast to classical mechanics, **the Lorentz transformation is the deciding
 
 Our conclusion matches the fundamental equations of the electrodynamics of Maxwell=  
 
-{{< quote >}}
+{{< q >}}
 A body moving with the velocity <code>v</code>, which absorbs* an amount of energy <code>E0</code> as radiation without suffering a change in velocity in the process, has its energy increased as a consequence by an amount <code>E0 / √ 1-(v2c2)</code>
-</div>
+{{< /q >}}
 
 > *`E0` is the energy taken up, as judged from a coordinate system moving with the body.
 <!-- [ *
@@ -94,7 +92,6 @@ c -->
 (( m + E0/c2 ) c2) / √1 − (v2/c2)
 ```
 
-<br>
 
 Thus, the body has the same energy as a body of mass `( m + E0 / c2 )` moving with the velocity `v`.
 
@@ -110,7 +107,7 @@ The expression for the energy is
 (mc2 + E0) / √ 1-(v2 / c2)
 ```
 
-<br>
+
 
 Here, `mc2` is nothing but the energy possessed by the body* before it absorbed the energy `E0`.
 

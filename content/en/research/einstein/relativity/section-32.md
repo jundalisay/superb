@@ -1,16 +1,15 @@
-+++
-title=  "The Structure Of Space According to General Relativity"
-heading=  "Section 32"
-description=  "Einstein believes the universe is a finite quasi-sphere"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-31"
-linkbtext=  "Section 31"
-linkf=  "/research/einstein/relativity/appendix-1"
-linkftext=  "appendix-1"
-+++
+---
+title: "The Structure Of Space According to General Relativity"
+heading: "Section 32"
+date: 2022-03-01
+description: "Einstein believes the universe is a finite quasi-sphere"
+image: "/covers/rel.jpg"
+---
 
 
-<span style="color=  red">According General Relativity (GR), the geometrical properties of space are determined by matter.</span>Thus, we can draw conclusions about the universe's geometrical structure based on <!-- the state of the --> matter.
+{{< c v="red" >}} According General Relativity (GR), the geometrical properties of space are determined by matter.{{< /c >}}
+
+Thus, we can draw conclusions about the universe's geometrical structure based on <!-- the state of the --> matter.
 
 <!-- We know from experience that, for a suitably chosen co-ordinate system, -->
 

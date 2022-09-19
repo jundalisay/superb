@@ -4,10 +4,6 @@ description: The Hermetic Teachings do not agree with the modern theories on the
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-17
-linkb: "/research/hermes/kybalion/chapter-13"
-linkbtext: "Chapter 13"
-linkf: "/research/hermes/kybalion/chapter-15"
-linkftext: "Chapter 15"
 heading: "Chapter 14"
 ---
 

@@ -16,30 +16,53 @@ Is any war is just? Is it ever lawful to make war?
 
 But this question must be compared with the rights of nature. 
 
-Cicero in the third book of his Bounds of Good and Evil proves from the Stoics' writings that there are first principles of nature, called by the Greeks **the first natural impressions**. 
+Cicero in the third book of his Bounds of Good and Evil proves from the Stoics' writings that there are first principles of nature. 
+- The Greeks call them **the first natural impressions**. 
 - These are succeeded by other principles of obligation superior even to the first impressions themselves. 
 
 He calls the the following as principles of nature:
 - self-preservation which every animal feels from birth
 - its abhorrence of everything that threatens death
 
-To him, if left to his own choice, every man would prefer a sound and perfect to a mutilated and deformed body. 
+To him, if left to his own choice, every man would prefer a sound and perfect body to one that is mutilated and deformed.  
 
-So that preserving ourselves in a natural state, and holding to every thing conformable, and averting every thing repugnant to nature is the first duty.
+Thus our first duty is to:
+- preserve ourselves in a natural state
+- hold to everything conformable
+- be averse to everything repugnant to nature
 
-But from the knowledge of these principles, a notion arises of their being agreeable to reason, that part of a man, which is superior to the body.
+<!--  is the first duty. -->
 
-Now that agreement with reason, which is the basis of propriety, should have more weight than the impulse of appetite; because the principles of nature recommend right reason as a rule that ought to be of higher value than bare instinct. 
+<!-- But from the knowledge of  -->
 
-The truth of this is easily assented to by all men of sound judgment without any other demonstration, it32 follows that in inquiring into the laws of nature the first object of consideration is, what is agreeable to those principles of nature, and then we come to the rules, which, though arising only out of the former, are of higher dignity, and not only to be embraced, when offered, but pursued by all the means in our power.
+These principles <!-- are reasonable. , a notion arises of their being --> agree to reason. Human reason is superior to the human body.
+
+This agreement with reason is the basis of propriety. It should have more weight than the impulse of appetite, because the principles of nature recommend right reason as a rule that should be of higher value than bare instinct. 
+
+The truth of this is easily assented to by all men of sound judgment without any other demonstration, it32 follows that 
+
+Thus, in inquiring into the laws of nature, the first object of consideration is:
+
+1. What is agreeable to those principles of nature?
+2. What are the rules, which, though arising only out of the former, are of higher dignity, and not only to be embraced, when offered, but pursued by all the means in our power.
 
 This last principle is called propriety. 
 
-From its fitness, according to the various things on which it turns, sometimes is limited to a very narrow point, the least departure from which is a deviation into vice; sometimes it allows a wider scope, so that some actions, even laudable in themselves, may be omitted or varied without crime. In this case there is not an immediate distinction between right and wrong; the shades are gradual, and their termination unperceived; not like a direct contrast, where the opposition is immediately seen, and the first step is a transgression of the fixed bounds.
+This propriety <!-- From its fitness, according to the various things on which it turns, --> sometimes is limited to a very narrow point, the least departure from which is a deviation into vice.
 
-The general object of divine and human laws is to give the authority of obligation to what was only laudable in itself. It has been said above that an investigation of the laws of nature implies an inquiry, whether any particular action may be done without injustice: now by an act of injustice is understood that, which necessarily has in it any thing repugnant to the nature of a reasonable and social being.
+Sometimes, it allows a wider scope, so that some actions, even laudable in themselves, may be omitted or varied without crime. 
 
-So far from any thing in the principles of nature being repugnant to war, every part of them indeed rather favours it. For the preservation of our lives and persons, which is the end of war, and the possession or acquirement of things necessary and useful to life is most suitable to those principles of nature, and to use force, if necessary, for those occasions, is no way dissonant to the principles of nature, since all animals are endowed with natural strength, sufficient to assist and defend themselves.
+In this case, there is not an immediate distinction between right and wrong. The shades are gradual, and their termination unperceived; not like a direct contrast, where the opposition is immediately seen, and the first step is a transgression of the fixed bounds.
+
+The general object of divine and human laws is to give the authority of obligation to what was only laudable in itself. 
+
+Can a particular action be done without injustice? 
+
+An act of injustice is that, which necessarily has in it anything repugnant to the nature of a reasonable and social being.
+
+So far from any thing in the principles of nature being repugnant to war, every part of them indeed rather favours it. 
+
+For the preservation of our lives and persons, which is the end of war, and the possession or acquirement of things necessary and useful to life is most suitable to those principles of nature, and to use force, if necessary, for those occasions, is no way dissonant to the principles of nature, since all animals are endowed with natural strength, sufficient to assist and defend themselves.
 
 Xenophon says that every animal knows a certain method of fighting without any other instructor than nature. 
 

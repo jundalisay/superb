@@ -109,9 +109,19 @@ I was especially delighted with the mathematics, on account of the certitude and
 
 On the other hand, I compared the disquisitions of the ancient moralists to very towering and magnificent palaces with no better foundation than sand and mud= they laud the virtues very highly, and exhibit them as estimable far above anything on earth; but they give us no adequate criterion of virtue, and frequently that which they designate with so fine a name is but apathy, or pride, or despair, or parricide.
 
-I revered our theology, and aspired as much as any one to reach heaven= but being given assuredly to understand that the way is not less open to the most ignorant than to the most learned, and that the revealed truths which lead to heaven are above our comprehension, I did not presume to subject them to the impotency of my reason. 
+I revered our theology, and aspired as much as any one to reach heaven. 
+
+But being given assuredly to understand that the way is not less open to the most ignorant than to the most learned, and that the revealed truths which lead to heaven are above our comprehension, I did not presume to subject them to the impotency of my reason. 
 
 I thought that in order competently to undertake their examination, there was need of some special help from heaven, and of being more than man.
 
-Of philosophy I will say nothing, except that when I saw that it had been cultivated for many ages by the most distinguished men, and that yet there is not a single matter within its sphere which is not still in dispute, and nothing, therefore, which is above doubt, I did not presume to anticipate that my success would be greater in it than that of others; and further, when I considered the number of conflicting opinions touching a single matter that may be upheld by learned men, while there can be but one true, I reckoned as well-nigh false all that was only probable.
+Philosophy has been cultivated for many ages by the most distinguished men. 
+
+Every topic within its sphere is still in dispute. 
+
+And so I expected not to have more success in philosophy than others. 
+
+Learned men have many conflicting opinions touching a single topic.
+
+Yet, there is just one truth. Thus, their opinions are only <!--  can be but one true, I reckoned as well-nigh false all that was --> only probable.
 

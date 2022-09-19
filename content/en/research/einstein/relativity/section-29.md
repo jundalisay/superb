@@ -1,13 +1,11 @@
-+++
-title=  "The Solution Of The Problem Of Gravitation On The Basis Of General Relativity"
-heading=  "Section 29"
-description=  "Einstein explains how gravity works in General Relativity"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-28"
-linkbtext=  "section-28"
-linkf=  "/research/einstein/relativity/section-30"
-linkftext=  "section-30"
-+++ 
+---
+title: "The Solution Of The Problem Of Gravitation On The Basis Of General Relativity"
+heading: "Section 29"
+date: 2022-03-06
+description: "Einstein explains how gravity works in General Relativity"
+image: "/covers/rel.jpg"
+---
+
 
 <!-- IF the reader has followed all our previous considerations, he will have no further diffi-
 culty in understanding the methods leading to the solution of the problem of gravitation. -->
@@ -54,7 +52,7 @@ GR absorbs the Newtonian theory if we confine gravitational fields to be=
 
 Thus, GR absorbs Newton's theory without needing* the inverse square law where gravitation between two objects depends on the square of the distance between them.
 
-> *Superphysics note=  This is because General Relativity has its version of the inverse square law in the metric tensor
+> *Superphysics note: This is because General Relativity has its version of the inverse square law in the metric tensor
 
 
 <!--  the latter theory is obtained here without any particular assumption, whereas Newton had to introduce

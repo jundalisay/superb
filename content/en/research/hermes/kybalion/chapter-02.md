@@ -1,14 +1,11 @@
 ---
-title: The 7 Hermetic Principles
+heading: "Chapter 2"
+title: The 7 Hermetic Principles Simplified
 description: There are 7 Principles of Truth. The knower of these has the Magic Key before whose touch all the Doors of the Temple fly open
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-29
-linkb: "/research/hermes/kybalion/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/hermes/kybalion/chapter-03"
-linkftext: "Chapter 3"
-heading: "Chapter 2"
+
 ---
 
 
@@ -271,4 +268,13 @@ No creation, physical, mental or spiritual, is possible without this Principle. 
 
 The Principle of Gender works ever in the direction of generation, regeneration, and creation. Everything, and every person, contains the two Elements or Principles, or this great Principle, within it, him or her. Every Male thing has the Female Element also; every Female contains also the Male Principle. 
 
-If you would understand the philosophy of Mental and Spiritual Creation, Generation, and Re-generation, you must understand and study this Hermetic Principle. It contains the solution of many mysteries of Life. We caution you that this Principle has no reference to the many base, pernicious and degrading lustful theories, teachings and practices, which are taught under fanciful titles, and which are a prostitution of the great natural principle of Gender. Such base revivals of the ancient infamous forms of Phallicism tend to ruin mind, body and soul, and the Hermetic Philosophy has ever sounded the warning note against these degraded teachings which tend toward lust, licentiousness, and perversion of Nature's principles. If you seek such teachings, you must go elsewhere for them—Hermeticism contains nothing for you along these lines. To the pure, all things are pure; to the base, all things are base.
+If you would understand the philosophy of Mental and Spiritual Creation, Generation, and Re-generation, you must understand and study this Hermetic Principle.
+- It contains the solution of many mysteries of Life. 
+
+We caution you that this Principle has no reference to the many base, pernicious and degrading lustful theories, teachings and practices, which are:
+- taught under fanciful titles, and
+- are a prostitution of the great natural principle of Gender. 
+
+Such base revivals of the ancient infamous forms of Phallicism tend to ruin mind, body and soul. The Hermetic Philosophy has always warned against these degraded teachings which tend toward lust, licentiousness, and perversion of Nature's principles.
+
+<!-- If you seek such teachings, you must go elsewhere for them—Hermeticism contains nothing for you along these lines. To the pure, all things are pure; to the base, all things are base. -->

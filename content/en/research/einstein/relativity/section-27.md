@@ -1,13 +1,12 @@
-+++
-title=  "The Space–time Continuum Of General Relativity Is Not A Euclidean Continuum"
-heading =  "Section 27"
-description=  "Einstein splits General Relativity from Special Relativity by creating an arbitrary, malleable spacetime"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-26"
-linkbtext=  "section-26"
-linkf=  "/research/einstein/relativity/section-28"
-linkftext=  "section-28"
-+++ 
+---
+title: "The Space–time Continuum Of General Relativity Is Not A Euclidean Continuum"
+heading: "Section 27"
+date: 2022-03-10
+description: "Einstein splits General Relativity from Special Relativity by creating an arbitrary, malleable spacetime"
+image: "/covers/rel.jpg"
+---
+
+
 
 <!-- In Part 1, --> We used space-time coordinates which allowed a simple and direct physical interpretation as 4D Cartesian co-ordinates in Section 26. This was possible through the <!-- law of the --> constant speed <!-- of the velocity --> of light [of Special Relativity]. 
 

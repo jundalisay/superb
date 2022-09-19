@@ -10,7 +10,7 @@ image: "/covers/rel.jpg"
 <!-- 
 THE non-mathematician is seized by a mysterious shuddering when he hears of “fourdimensional” things, by a feeling not unlike that awakened by thoughts of the occult. 
  -->
-Space is a 3D continuum wherein= 
+Space is a 3D continuum wherein:
 - an object exists in 3 co-ordinates `x, y, z` as Point 1
 - there are infinite points around Point 1
   - These are designated as `x1, y1, z1`, `x2, y2, z2`, `x3, y3, z3`, etc. 

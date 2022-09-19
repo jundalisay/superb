@@ -1,10 +1,12 @@
-+++
-title=  "How to fit electricity into General Relativity"
-heading=  "Part 3"
-description=  "As the divergence of the left side of (4) vanishes identically, this means that among all the ﬁeld equations those 4 identities exist which are needed for their compatibility"
-author=  "Einstein and Rosen"
-image=  "/covers/pproblem.jpg"
-+++
+---
+title: "How to fit electricity into General Relativity"
+description: "As the divergence of the left side of (4) vanishes identically, this means that among all the ﬁeld equations those 4 identities exist which are needed for their compatibility"
+image: "/covers/pproblem.jpg"
+author: "Einstein and Rosen"
+image: "/covers/pproblem.jpg"
+date: 2020-01-30
+---
+
 
 
 <!-- Part 3. COMBINED FIELD. ELECTRICITY                       -->
@@ -79,7 +81,7 @@ g2 (Rik—i’ Wager“ — rig/Mango”) = 0.
 
 where in the last equation the term in R has been omitted because it vanishes in consequence of (7), by which To,“ is zero.
 
-If in Eq. (8) (with m=0) one replaces r by the variable it according to the equation it? = r2— 62/2                             one obtains                                                       
+If in Eq. (8) (with m=0) one replaces r by the variable it according to the equation it? = r2— 62/2 one obtains                                                       
                                                                 
 
 ```elixir

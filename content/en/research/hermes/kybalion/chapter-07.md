@@ -1,14 +1,10 @@
 ---
-title: "The All In All"
-description: Hume describes the two general Kinds of Philosophies
+title: "The All In All [Brahma]"
+description: The entire virtue, life, spirit, of reality in the mental image is derived from the "immanent mind" of the thinker
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-24
 showdate: false
-linkb: "/research/hermes/kybalion/chapter-06"
-linkbtext: "Chapter 6"
-linkf: "/research/hermes/kybalion/chapter-08"
-linkftext: "Chapter 8"
 heading: "Chapter 7"
 ---
 

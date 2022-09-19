@@ -1,20 +1,22 @@
-+++
-title=  "The Wormhole Singularity"
-heading=  "introduced the sophistry of General Relativity"
-description=  "We investigate the possibility of an atomistic theory of matter and electricity which, while excluding singularities of the ﬁeld, uses only General Relativity and Maxwell's theory"
-author=  "Einstein and Rosen"
-image=  "/covers/pproblem.jpg"
-+++
+---
+title: "The Wormhole Singularity"
+description: "We investigate the possibility of an atomistic theory of matter and electricity which, while excluding singularities of the ﬁeld, uses only General Relativity and Maxwell's theory"
+image: "/covers/ether.jpg"
+author: "Einstein and Rosen"
+image: "/covers/pproblem.jpg"
+date: 2020-01-30
+---
 
 
-JULY     1,1935
+<!-- JULY     1,1935 -->
 
 <!-- Institute for Advanced Study, Princeton
 (Received May 8, 1935) -->
 
-We investigate the possibility of an atomistic theory of matter and electricity which, while excluding singularities of the ﬁeld, uses only `gm` of General Relativity and Maxwell's theory. 
+We propose <!--  investigate the possibility of --> an atomistic theory of matter and electricity which uses only `gm` of General Relativity and Maxwell's theory, while excluding singularities of the ﬁeld. 
 
-Through a simple example, these modify slightly the gravitational equations. This then allows regular solutions for the static spherically symmetric case. 
+Through a simple example, these modify slightly the gravitational equations. 
+- This then allows regular solutions for the static spherically symmetric case. 
 
 These solutions involve the mathematical representation of physical space by a space of two identical sheets which has a particle acting as a “bridge” connecting these sheets. 
 
@@ -79,11 +81,12 @@ Hence if Newtonian singularities are particles, then in this case, we would have
 
 ## Part 1=  A Special Kind Of Singularity And Its Removal                                   
 
-The ﬁrst step to General relativity is the “Principle of Equivalence”=  
+The ﬁrst step to General relativity is the “Principle of Equivalence”:
 
-{{< quote >}}
+{{< q >}}
 A reference system uniformly accelerated in a gravity-free space is ”at rest,” provided one interprets the condition of the space with respect to it as a homogeneous gravitational ﬁeld. 
-</div>
+{{< /q >}}
+
 
 The latter is exactly described by the metric ﬁeld*                      
  
@@ -131,8 +134,9 @@ Thus, in the framework of the original theory one has the gravitational equation
 
 the smaller a(>0) is chosen, the nearer does this gravitational ﬁeld come to that of (1). If one calculates from this the (ﬁctitious) energy tensor Tm one obtains as nonvanishing components
 
+```bash
 T22 = T23 = aQ/la/(1+a2x12/a)2.
-
+```
 
 We see then that the smaller one takes a the sigma, the more is the tensor concentrated in the neighborhood of the hypersurface `x1=0`. 
 
@@ -141,5 +145,7 @@ From the standpoint of the original theory the solution (1) contains a singulari
 
 All equations of the absolute differential calculus can be written in a form free from denominators, whereby the tensors are replaced by tensor densities of suitable weight.                  
 
-In the case of the solution (1) the whole ﬁeld consists of two equal halves, separated by the surface of symmetry x1=0, such that for the corresponding points (x1, x2, x3, x4) and (—x1, x2, x3, x4) the g,;, are equal. As a result we ﬁnd that, although we are permitting the determinant g to take on the value 0 (for 961= 0), no change of sign of g and in general no change in the “inertial index” of the quadratic form (1) occurs. These features are of fundamental importanee from the point of View of the physical interpretation, and will be encountered again in the solutions to be considered later.                
+In the case of the solution (1) the whole ﬁeld consists of two equal halves, separated by the surface of symmetry x1=0, such that for the corresponding points (x1, x2, x3, x4) and (—x1, x2, x3, x4) the g,;, are equal. 
+
+As a result we ﬁnd that, although we are permitting the determinant g to take on the value 0 (for 961= 0), no change of sign of g and in general no change in the “inertial index” of the quadratic form (1) occurs. These features are of fundamental importanee from the point of View of the physical interpretation, and will be encountered again in the solutions to be considered later.                
                         

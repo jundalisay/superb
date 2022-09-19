@@ -1,16 +1,13 @@
 ---
+heading: "Chapter 5"
 title: The Mental Universe
 description: The Universe is Mental—held in the Mind of THE ALL
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-26
 showdate: false
-linkb: "/research/hermes/kybalion/chapter-04"
-linkbtext: "Chapter 4"
-linkf: "/research/hermes/kybalion/chapter-06"
-linkftext: "Chapter 6"
-heading: "Chapter 5"
 ---
+
 
 {{< q >}}
 "The Universe is Mental—held in the Mind of THE ALL."—The Kybalion.

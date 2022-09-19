@@ -1,14 +1,11 @@
-+++
-title=  "Einstein's Reply to Criticisms (1949)"
-heading=  "Part 3"
-description=  "Einstein explains the problems with quantum theory"
-image=  "/covers/reply.jpg"
-date=  "2020-01-01"
-linkb=  "/research/einstein/reply/part-2"
-linkbtext=  "part 2"
-linkf=  "/research/einstein/reply/"
-linkftext=  "Index"
-+++
+---
+title: "The Cosmological Constant"
+heading: "Part 3"
+description: "Lemaître favours a “cosmological constant” in the equations of gravitation"
+image: "/covers/reply.jpg"
+date: 2020-01-24
+---
+
 
 
 Lemaître favours a “cosmological constant” in the equations of gravitation. I think that such a constant is not <!-- I must admit that these arguments do not appear to me as sufficiently --> convincing in the present state of our knowledge because it makes my general relativity logically complicated. 
@@ -45,7 +42,11 @@ These reflections bring me to Karl Menger’s essay.
 
 For the quantum-facts suggest the suspicion that doubt may also be raised concerning the ultimate usefulness of the program characterised in (1) and (2). There exists the possibility of doubting only (2) and, in doing so, to question the possibility of being able adequately to formulate the laws by means of differential equations, without dropping (1). 
 
-The more radical effort of surrendering (1) with (2) appears to me — and I believe to Dr. Menger also — to lie more closely at hand. So long as no one has new concepts, which appear to have sufficient constructive power, mere doubt remains; this is, unfortunately, my own situation. Adhering to the continuum originates with me not in a prejudice, but arises out of the fact that I have been unable to think up anything organic to take its place. How is one to conserve four-dimensionality in essence (or in near approximation) and [at the same time] surrender the continuum?
+The more radical effort of surrendering (1) with (2) appears to me — and I believe to Dr. Menger also — to lie more closely at hand. So long as no one has new concepts, which appear to have sufficient constructive power, mere doubt remains.
+
+This is, unfortunately, my own situation. 
+
+Adhering to the continuum originates with me not in a prejudice, but arises out of the fact that I have been unable to think up anything organic to take its place. How is one to conserve four-dimensionality in essence (or in near approximation) and [at the same time] surrender the continuum?
 
 L. Infeld’s essay is an independently understandable, excellent introduction into the so-called “cosmological problem” of the theory of relativity, which critically examines all essential points.
 
@@ -59,9 +60,13 @@ If P is a world-point, a “light-cone” (ds2= 0) belongs to it. We draw a “t
 
 Is what remains of temporal connection between world-points in the theory of relativity an asymmetrical relation, or would one be just as much justified, from the physical point of view, to indicate the arrow in the opposite direction and to assert that A is before P, B after P?
 
-In the first instance the alternative is decided in the negative, if we are justified in saying=  If it is possible to send (to telegraph) a signal (also passing by in the close proximity of P) from B to A, but not from A to B, then the one-sided (asymmetrical) character of time is secured, i.e., there exists no free choice for the direction of the arrow. What is essential in this is the fact that the sending of a signal is, in the sense of thermodynamics, an irreversible process, a process which is connected with the growth of entropy (whereas, according to our present knowledge, all elementary processes are reversible).
+In the first instance the alternative is decided in the negative, if we are justified in saying=  If it is possible to send (to telegraph) a signal (also passing by in the close proximity of P) from B to A, but not from A to B, then the one-sided (asymmetrical) character of time is secured, i.e., there exists no free choice for the direction of the arrow. 
 
-If, therefore, B and A are two, sufficiently neighbouring, world-points, which can be connected by a time-like line, then the assertion=  “B is before A,” makes physical sense. But does this assertion still make sense, if the points, which are connectable by the time-like line, are arbitrarily far separated from each other? Certainly not, if there exist point-series connectable by time-like lines in such a way that each point precedes temporally the preceding one, and if the series is closed in itself. In that case the distinction “earlier-later” is abandoned for world-points which lie far apart in a cosmological sense, and those paradoxes, regarding the direction of the causal connection, arise, of which Mr. Gödel has spoken.
+What is essential in this is the fact that the sending of a signal is, in the sense of thermodynamics, an irreversible process, a process which is connected with the growth of entropy (whereas, according to our present knowledge, all elementary processes are reversible).
+
+If, therefore, B and A are two, sufficiently neighbouring, world-points, which can be connected by a time-like line, then the assertion=  “B is before A,” makes physical sense. But does this assertion still make sense, if the points, which are connectable by the time-like line, are arbitrarily far separated from each other? 
+
+Certainly not, if there exist point-series connectable by time-like lines in such a way that each point precedes temporally the preceding one, and if the series is closed in itself. In that case the distinction “earlier-later” is abandoned for world-points which lie far apart in a cosmological sense, and those paradoxes, regarding the direction of the causal connection, arise, of which Mr. Gödel has spoken.
 
 Such cosmological solutions of the gravitation-equations (with not vanishing A-constant) have been found by Mr. Gödel. It will be interesting to weigh whether these are not to be excluded on physical grounds.
 

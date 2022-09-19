@@ -1,11 +1,12 @@
+---
+title: "Behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
+heading: "Section 23"
+date: 2022-03-18
+description: "Einstein explains the behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
+image: "/covers/rel.jpg"
+---
 
 
-+++
-title=  "Behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
-heading=  "Section 23"
-description=  "Einstein explains the behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
-image=  "/covers/rel.jpg"
-+++ 
 
 I have purposely refrained from speaking about the physical interpretation of space- and time-data in General Relativity (GR) because it would be very complicated to explain. 
 
@@ -60,16 +61,19 @@ Thus on our circular disc and in every gravitational field, a clock will go more
 
 This is why it is impossible to obtain a reasonable definition of time with the aid of clocks which are arranged at rest with respect to the body of reference.
 
-<span style="color=  red">A similar difficulty presents itself when we attempt to apply our earlier definition of simultaneity in such a case. But I do not wish to go any farther into this question.</span>
+
+{{< c v="red" >}} A similar difficulty presents itself when we attempt to apply our earlier definition of simultaneity in such a case. But I do not wish to go any farther into this question.{{< /c >}}
 
 ![Einstein Con-man](/avatars/einbla.png)
 
 Moreover, at this stage, the definition of the space co-ordinates also presents unsurmountable difficulties. If the observer applies his standard measuring-rod (a rod which is short as compared with the radius of the disc) tangentially to the edge of the disc, then, as judged from the Galileian system, the length of this rod will be less than 1, since, according to Section 12, moving bodies suffer a shortening in the direction of the motion.
 
-On the other hand, the measuring-rod will not experience a shortening in length, as judged from `K`, if it is applied to the disc in the direction of the radius. If, then, the observer first measures the circumference of the disc with his measuring-rod and then the diameter of the disc, on dividing the one by the other, he will not obtain as quotient the familiar number `π = 3.14..`, but a larger number*, whereas of course, for a disc which is at rest with respect to `K`, this operation would yield π exactly. 
+On the other hand, the measuring-rod will not experience a shortening in length, as judged from `K`, if it is applied to the disc in the direction of the radius.
+
+If, then, the observer first measures the circumference of the disc with his measuring-rod and then the diameter of the disc, on dividing the one by the other, he will not obtain as quotient the familiar number `π = 3.14..`, but a larger number*, whereas of course, for a disc which is at rest with respect to `K`, this operation would yield π exactly. 
 
 
-> *Einstein Note=  We have to use the Galileian (non-rotating) system `K` as reference-body, since we may only assume the validity of the results of Special Relativity relative to `K` (relative to `K'` a gravitational field prevails).
+> *Einstein Note: We have to use the Galileian (non-rotating) system `K` as reference-body, since we may only assume the validity of the results of Special Relativity relative to `K` (relative to `K'` a gravitational field prevails).
 
 
 This proves that Euclidean geometry cannot hold exactly on the rotating disc, nor in general in a gravitational field, at least if we attribute the length 1 to the rod in all positions and in every orientation. Hence the idea of a straight line also loses its meaning. We are therefore not in a position to define exactly the co-ordinates x, y, z relative to the disc by means of the method used in discussing the special theory, and as long as the co-ordinates and times of events have not been defined we cannot assign an exact meaning to the natural laws in which these occur.

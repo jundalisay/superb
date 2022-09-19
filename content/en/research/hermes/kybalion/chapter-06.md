@@ -1,15 +1,11 @@
 ---
+heading: "Chapter 6"
 title: Divine Paradox
-description: Hume describes the two general Kinds of Philosophies
+description: This is the Paradox of the Universe, resulting from the Principle of Polarity which manifests when THE ALL begins to Create.
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-25
 showdate: false
-linkb: "/research/hermes/kybalion/chapter-05"
-linkbtext: "Chapter 5"
-linkf: "/research/hermes/kybalion/chapter-07"
-linkftext: "Chapter 7"
-heading: "Chapter 6"
 ---
 
 

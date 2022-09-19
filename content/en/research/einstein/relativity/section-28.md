@@ -1,30 +1,29 @@
+---
+title: "Exact Formulation Of General Relativity"
+heading: "Section 27"
+date: 2022-03-08
+description: "Einstein explains General Relativity"
+image: "/covers/rel.jpg"
+---
 
-+++
-title=  "Exact Formulation Of General Relativity"
-heading=  "Section 28"
-description=  "Einstein explains General Relativity"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-27"
-linkbtext=  "section-27"
-linkf=  "/research/einstein/relativity/section-29"
-linkftext=  "section-29"
-+++
+
 
 <!-- We are now in a position to replace the provisional formulation of the general principle of relativity given in Section 18 by an exact formulation.  -->
 
 Our provisional formulation was=  
 
-<div class="squote einbla" data-sal="slide-right">
+
+{{< q a="einbla" >}}
 All bodies of reference K, K', etc., are equivalent for the description of natural phenomena (formulation of the general laws of nature), whatever may be their state of motion
-</div>
+{{< /q >}}
 
 This now cannot be maintained because it required rigid reference-bodies as followed in Special Relativity (SR). 
 
-In Section 27, we replaced it with Gauss co-ordinates. <!--  system as the new body of reference. --> This creates a new statement for General Relativity (GR)=  
+In Section 27, we replaced it with Gauss co-ordinates. <!--  system as the new body of reference. --> This creates a new statement for General Relativity (GR):
 
-<div class="squote einbla" data-sal="slide-right">
+{{< q a="einbla">}}
 All Gaussian co-ordinate systems are essentially equivalent for the formulation of the general laws of nature.
-</div>
+{{< /q >}}
 
 <!-- We can state this general principle of relativity in still another form, which renders it yet more
 clearly intelligible than it is when in the form of the natural extension of the special principle

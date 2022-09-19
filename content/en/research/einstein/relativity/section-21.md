@@ -1,20 +1,20 @@
-+++
-title=  "How are The Foundations of Classical Mechanics And Special Relativity Unsatisfactory?"
-heading=  "Section 21"
-description=  "Einstein Claims that General Relativity can solve the insufficiencies of Classical Mechanics"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-20"
-linkbtext=  "section-20"
-linkf=  "/research/einstein/relativity/section-22"
-linkftext=  "section-22"
-+++
+---
+title: "The Foundations of Classical Mechanics and Special Relativity are Unsatisfactory"
+heading: "Section 21"
+date: 2022-03-22
+description: "Einstein Claims that General Relativity can solve the insufficiencies of Classical Mechanics"
+image: "/covers/rel.jpg"
+---
 
-<span style="color=  red">Newton's First Law <!-- 1 Classical mechanics starts with the following law=  Material particles far from other material particles continue to move uniformly in a straight line or a state of rest.  This law --> is only valid for non-moving `K`</span> which= 
+
+{{< c v="red" >}} Newton's First Law <!-- 1 Classical mechanics starts with the following law=  Material particles far from other material particles continue to move uniformly in a straight line or a state of rest.  This law --> is only valid for non-moving `K` {{< /c >}} which: 
 - have unique states of motion, and 
 - are in uniform translational motion relative to each other. 
 
 
-<span style="color=  red">Relative to other reference-bodies `K`, the law is not valid.</span>  Both in classical mechanics and in special relativity, we differentiate between= 
+{{< c v="red" >}} Relative to other reference-bodies `K`, the law is not valid.{{< /c >}} 
+
+Both in classical mechanics and in special relativity, we differentiate between:
 - viewpoints `K` [man outside the box]  where the laws of nature can hold relatively [affected by c]
 - viewpoints `K` [man inside the box] where those laws cannot hold relatively [insignificant to c] <!-- to which these laws do not hold -->
 
@@ -22,11 +22,11 @@ linkftext=  "section-22"
 
 <!-- But no person whose mode of thought is logical can rest satisfied with this condition of things. He asks=  --> 
 
-<b>But why are relativistic viewpoints more important* than non-relativistic viewpoints?</b> <!-- reference-bodies (or their states of motion) given priority over other reference-bodies (or their states of motion) -->
+**But why are relativistic viewpoints more important than non-relativistic viewpoints?** * <!-- reference-bodies (or their states of motion) given priority over other reference-bodies (or their states of motion) -->
 
 ![Einstein Con-man](/avatars/einbla.png)
 
-> *Superphysics Note=  No, they are not more important or have more priority to Nature. All reference-bodies or viewpoints are of equal importance!
+> *Superphysics Note: No, they are not more important or have more priority to Nature. All reference-bodies or viewpoints are of equal importance!
 
 
 A gas range has two identical pots with water. Steam is being emitted continuously from Pot A which is on a flame, but not from Pot B which has no flame. <!-- I am surprised at this, even if I have never seen either a gas range or a pan before. But if I now notice a luminous something of bluish colour under the first pan but not under the other, I cease to be astonished, even if I have never before seen a gas flame.  --> I can see that the flame causes steam. If both have no flame but Pot A still gives steam, then I will be puzzled.
@@ -36,12 +36,13 @@ Similarly, I seek in vain for a real something in classical mechanics or special
 
 ![Einstein Con-man](/avatars/einbla.png)
 
-> **Einstein Note=  The objection is most important when the motion of the viewpoint is inherent<!-- . reference-body is of such a nature that it does not require any external agency for its maintenance, --> e.g. when the viewpoint is rotating uniformly.
+> **Einstein Note: The objection is most important when the motion of the viewpoint is inherent<!-- . reference-body is of such a nature that it does not require any external agency for its maintenance, --> e.g. when the viewpoint is rotating uniformly.
 
 
 Newton saw this objection and attempted to invalidate it, but without success*. 
 
-> *Superphysics Note=  Here, Einstein explains that he invents inertial mass (and therefore the preference to relativistic spacetime) simply because he couldn't find the cause for gravity. So he sources it from Newton's Second Law in a spacetime that is in perpetual movement. This is why gravity in his General Relativity is not a force that acts from afar, but a warping of spacetime that changes movements of perpetually-moving objects.  <p>The cause of gravity has already been identified by Descartes as aethereal vortices. Newton discarded Descartes and so he couldn't identify the cause of gravitation.</p>
+
+> *Superphysics Note: Here, Einstein explains that he invents inertial mass (and therefore the preference to relativistic spacetime) simply because he couldn't find the cause for gravity. So he sources it from Newton's Second Law in a spacetime that is in perpetual movement. This is why gravity in his General Relativity is not a force that acts from afar, but a warping of spacetime that changes movements of perpetually-moving objects.  <p>The cause of gravity has already been identified by Descartes as aethereal vortices. Newton discarded Descartes and so he couldn't identify the cause of gravitation.
 
 
 <!-- Einstein tries to source gravity from Newton's 2nd Law -- that's why he has to impose that everything is moving! -->

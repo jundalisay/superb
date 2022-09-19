@@ -1,7 +1,7 @@
 ---
 title: "The Experimental Confirmation Of General Relativity"
 heading: "Appendix 3"
-date: 2022-04-12
+date: 2022-01-02
 # date: 2022-08-08
 description: "Einstein explains the Confirmations of General Relativity"
 image: "/covers/rel.jpg"

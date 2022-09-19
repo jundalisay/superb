@@ -1,13 +1,9 @@
 ---
-title: Gender
-description: Hume describes the two general Kinds of Philosophies
+title: Gender [Yin and Yang]
+description: The Principle of Gender says that there is Gender in everything. Masculine and Feminine principles are ever present and active in all phases of phenomena, on each and every plane of life
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-18
-linkb: "/research/hermes/kybalion/chapter-12"
-linkbtext: "Chapter 12"
-linkf: "/research/hermes/kybalion/chapter-14"
-linkftext: "Chapter 14"
 heading: "Chapter 13"
 ---
 

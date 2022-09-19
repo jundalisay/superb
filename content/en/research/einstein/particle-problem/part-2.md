@@ -1,10 +1,13 @@
-+++
-title=  "Two Sheets of Spacetime" 
-heading=  "Part 2 The Schwarzschild Solution"
-description=  ""
-author=  "Einstein and Rosen"
-image=  "/covers/pproblems.jpg"
-+++
+---
+title: "Two Sheets of Spacetime"
+description: "The Schwarzschild Solution"
+image: "/covers/ether.jpg"
+author: "Einstein and Rosen"
+image: "/covers/pproblem.jpg"
+date: 2020-01-30
+---
+
+
 
 
 Schwarzschild found the spherically symmetric static solution of the gravitational equations

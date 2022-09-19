@@ -1,15 +1,11 @@
 ---
-title: The Principle of Vibration [Yin-Yang]
+heading: "Chapter 9"
+title: The Principle of Vibration [Tao]
 description: "Nothing rests; everything moves; everything vibrates.—The Kybalion"
 image: /covers/kybalion.jpg
 author: Three Initiates
 date: 2022-01-22
 showdate: false
-linkb: "/research/hermes/kybalion/chapter-08"
-linkbtext: "Chapter 8"
-linkf: "/research/hermes/kybalion/chapter-10"
-linkftext: "Chapter 10"
-heading: "Chapter 9"
 ---
 
 {{< q >}}

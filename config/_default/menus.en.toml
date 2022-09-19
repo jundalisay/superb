@@ -242,13 +242,13 @@
 [[navbar]]
     parent = "non1"
     weight = 510
-    name = "CConfucius"
+    name = "Confucius"
     url = "/research/confucius"
     # pre = "<img src='/icons/conf.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"
 
 [[navbar]]
     parent = "non1"
-    weight = 520
+    weight = 514
     name = "Einstein"
     url = "/research/einstein"
     pre = "<img src='/icons/einbla.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px;'>"

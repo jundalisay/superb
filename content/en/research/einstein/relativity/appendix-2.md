@@ -1,7 +1,7 @@
 ---
 title: "Minkowski’s Four — Dimensional Space (world)"
 heading: "Appendix 2"
-date: 2022-04-12
+date: 2022-01-10
 linkTitle: "EPR Paradox"
 # date: 2022-08-08
 description: "Einstein explains the Lorentz Transformation"

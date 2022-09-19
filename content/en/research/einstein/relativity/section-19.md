@@ -1,13 +1,11 @@
-+++
-title=  "The Gravitational Field"
-heading=  "Section 19"
-description=  "Newton's gravity is different Newton's inertia. Yet Einstein unites them"
-image=  "/covers/rel.jpg"
-linkb=  "/research/einstein/relativity/section-18"
-linkbtext=  "section-18"
-linkf=  "/research/einstein/relativity/section-20"
-linkftext=  "section-20"
-+++
+---
+title: "The Gravitational Field"
+heading: "Section 19"
+date: 2022-03-26
+description: "Newton's gravity is different Newton's inertia. Yet Einstein unites them"
+image: "/covers/rel.jpg"
+---
+
 
 <!-- If drop a stone, why does it fall to the ground?” 
 
