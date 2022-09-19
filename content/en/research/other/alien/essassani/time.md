@@ -83,5 +83,9 @@ Only the present is real. Therefore only the present can create the present.
 
 If you insist in believing that the present is the result of the past, then you are (now) dragging the past into the present, and (now) "projecting" that this seeming past has an effect on the present. 
 
-(Notice, by the way, that all this "dragging the past into the present" is also all occurring ONLY in the present.)    This is like dragging an anchor around, rather than simply letting go of the anchor (the past) and living freely and easily in the present.   Be free of the past!   Live joyously in the present!
+Notice that all this "dragging the past into the present" is also all occurring ONLY in the present.
+
+This is like dragging an anchor around, rather than simply letting go of the anchor (the past) and living freely and easily in the present.   
+
+Be free of the past, and live joyously in the present!
 

@@ -14,7 +14,7 @@ The Essassani are a 5th dimensional civilization which is based on unconditional
 
 > *Superphysics note: Superhysics is based on David Hume's maxim that mentality creates reality. This is how the Essassani maxims, such as 'believing is seeing' caught our attention. However, no one seems to be keen enough to notice that their principles are designed for 5th dimensional beings and not 4th dimensional ones like humans.<br><br>Unlike the Essassani, we humans are still very much bound by the Negative force as Maya, just like cats and dogs are even more bound than us.<br><br>We can think of the Essassani as high end quad-core gaming laptops capable of exciting games like multiplayer Call of Duty and DOTA2, while humans being low end Pentium I capable of only Space Invaders.<br><br>Humans who totally follow Essassani principles will likely find themselves disappointed when their excitement fails to procure them the reality that they desire, just as a Pentium I will not be able to play Call of Duty.<br><br>Instead, it would be better if humans *generally* observed their principles in order to maximize practical human excitement, as opposed to ideal excitement. It would be like upgrading a Pentium I to play a superior version of Space Invaders, or a Pentium I version of Call of Duty (like Wolfenstein 3D or Doom).<br><br>The key ingredient that makes the Essassani principles fail in the human frame is the ego that is in all humans. Their solution to this is 'so what?' and 'let it go' and 'relax your definitions'. Humans can upgrade themselves to Essassani by evolving genetically with each generation by following such general principles
 
-<br>
+
 
 ## Basic Beliefs
 
@@ -108,17 +108,18 @@ I realized it's because the Essassani are already unified and based on 4th densi
 3. Act on your Excitement/Passion with absolutely no insistence or assumption or expectation of what the outcome should be. Very often the ideal outcome will not be what you expect or intend. Your Higher Self knows the ideal outcome, but your physical mind can not really know that in advance.
 
 4. Choose to remain in a positive state - regardless of what happens.  
-If something undesireable happens, by remaining in a positive state even then, you are able to gain some positive benefit from that situation.   
+
+If something undesireable happens, by remaining in a positive state even then, you are able to gain some positive benefit from that situation.
+
 If you remain in a positive state, you can discover HOW it can serve you in a beneficial manner.
 
-Any circumstance is actually neutral, with no built-in meaning.    You deteremine whether it has a positive or negative effect,
-based on the MEANING that you PROJECT into that fundamentally-neutral situation.
+Any circumstance is actually neutral, with no built-in meaning.    You deteremine whether it has a positive or negative effect, based on the MEANING that you PROJECT into that fundamentally-neutral situation.
 
-5. Constantly investigate your belief systems , and release & replace the unpreferred beliefs= 
+5. Constantly investigate your belief systems , and release & replace the unpreferred beliefs:
 - The fear-based beliefs you might have.
 - The beliefs that are not in alignement with who you prefer to be.
 
 
-This activates synchronicity which is the organizing principle of the entire universe.
-(Synchronicity is the "networking" and coordination of all parts of the universe with each other - through the one Universal Mind.)
-And so, by activating this synchronicity, automatically, things in your life flow more naturally, pleasantly, and desirably for you - and in perfect timing.
+This activates synchronicity which is the organizing principle of the entire universe. Synchronicity is the "networking" and coordination of all parts of the universe with each other - through the one Universal Mind.
+
+By activating this synchronicity, things in your life flow more naturally, pleasantly, and desirably for you automatically, in perfect timing.

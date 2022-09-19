@@ -72,7 +72,9 @@ It projects portions of itself into specific time/space holograms (time/space ma
 But from the point of view of the Higher Self, there is no Time. It's all happening NOW. It's just one big Eternal-NOW.  So keep in mind that our Higher Self  is creating the actual "time" that we are experiencing in a linear fashion.
 
 When we intensely want to do something now, and it is easily possible to do it, no problem. We just do it.
-But if we intensely want to do something now, and it is NOT possible to do it NOW, we are then at a critical decision-junction= 
+
+
+But if we intensely want to do something now, and it is NOT possible to do it NOW, we are then at a critical decision-junction:
 
 We can choose to interpret this as "I am not getting what I want."
 

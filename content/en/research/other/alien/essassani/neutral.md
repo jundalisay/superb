@@ -3,20 +3,8 @@ title: "Neutrality, Positivity, and Negativity"
 # heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
 date: 2020-01-20
 image: "/photos/physics/quasar.jpg"
-description: "The Metaphysics followed by the Essassani"
+description: "Neutrality, Positivity, and Negativity are the mindsets that are possible. The Essassani advocate Positivity and Neutrality, never Negativity"
 ---
-
-
-+++
-title=  ""
-date=  2020-01-01
-image=  "/photos/physics/quasar.jpg"
-description=  "Neutrality, Positivity, and Negativity are the mindsets that are possible. The Essassani advocate Positivity and Neutrality, never Negativity"
-linkbtext=  "Index"
-linkb=  "/research/other/alien/essassani"
-linkftext=  "Index"
-linkf=  "/research/other/alien/essassani"
-+++
 
 
 ## The Meaning of Life and The Purpose of Existence
@@ -56,15 +44,15 @@ Normally, we assign and "project" a meaning onto a neutral situation so quickly 
 - In fact, we are the ones assigning a very specific meaning to a "neutral" meaningless event. 
 
 ```bash
-Beliefs ==> Perception ==> Interpretation ==> Emotional reaction ==> Thoughts ==> Action
+Beliefs --> Perception --> Interpretation --> Emotional reaction --> Thoughts --> Action
 ```
 
 ```bash
-Positive  Interpretation ==> Positive  Desirable Experience
+Positive  Interpretation --> Positive  Desirable Experience
 ````
 
 ```bash
-Negative Interpretation ==> Negative Undesirable Experience
+Negative Interpretation --> Negative Undesirable Experience
 ````
 
 - If you assign a positive meaning to an event, this will produce/attract a positive desirable experience for you.

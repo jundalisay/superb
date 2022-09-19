@@ -9,6 +9,7 @@ description: "The Metaphysics followed by the Essassani"
 
 ## 2 Quick Techniques for Manifesting your Preferred Reality
 
+
 ### First Quick Technique
 
 1. Get a clear Vision or Intention of what you would like your preferred Reality (your preferred Life) to be like.
@@ -22,6 +23,7 @@ description: "The Metaphysics followed by the Essassani"
 6. Feel the way someone would feel that is already experiencing this preferred Reality.
 7. Think the way someone would think that is already experiencing this preferred Reality.
 8. Act the way someone would act that is already experiencing this preferred Reality.
+
 
 ### Second Quick Technique - "The Referential Preferential You"
 

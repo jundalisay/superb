@@ -76,9 +76,9 @@ You become whatever you focus your attention on. To assign any meaning to anythi
 
 Being neutral about something - assigning it no meaning - is the way to not attract that reality into your life.
 
-"That's terrible!" =========> You are attracting that reality. 
-"That's wonderful!" =======> You are attracting that reality. 
-"I feel neutral about that." ===> You are not attracting that reality.
+"That's terrible!" --> You are attracting that reality. 
+"That's wonderful!" --> You are attracting that reality. 
+"I feel neutral about that." --> You are not attracting that reality.
 
 Cease to invalidate yourself, because you are all you have to work with in your universe. You are the representation, in your own way, of the Infinite. 
 
@@ -118,18 +118,25 @@ And you realize, that this entire physcal incarnation experience was "only a dre
 
 
 Just because it is "just a dream", does not mean it is not "real".
+
 When your consciousness is focused within any TIME-SPACE-HOLOGRAM, it is "real".
+
 When your consciousness is focused outside of any TIME-SPACE-HOLOGRAM, that then seems to be an "illusion".
-Well, which is true?      "Real"  or  "Illusion" ?
-They are BOTH correct and true!   It simple depends on your point of view (where your consciousness is focused - at any moment).
+
+"Real" and  "Illusion" are BOTH correct and true! 
+
+It simply depends on your point of view, where your consciousness is focused at any moment.
 
 When you pass through the "death transition" and "wake up" from this dream, you are STILL dreaming. But you are now in a higher-dimensional dream.
 
 Both are equally "real". Both are equally a "dream".
-And as you Ascend into higher and higher dimensions, you repeatedly "wake up" from that dream, into a more awake reality, but that is also a dream, which you will realize when you ascend into an even higher dimension.
+
+As you ascend into higher and higher dimensions, you repeatedly "wake up" from that dream, into a more awake reality. But that is also a dream, which you will realize when you ascend into an even higher dimension.
 
 Thoughts are the only reality.
+
 Dreams are the only reality.
+
 Consciousness is the only reality.
 
 For example: The chair you are sitting on is not actually "real". But your EXPERIENCE of that chair is "real".

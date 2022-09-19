@@ -9,16 +9,16 @@ icon: /icons/poincare.jpg
 ---
 
 
-The rôle of the two fundamental principles of thermo-dynamics becomes daily more important in all branches of natural philosophy. Abandon-
-ing the ambitious theories of forty years ago, encumbered as they were with molecular hypotheses, we now try to
+The rôle of the 2 fundamental principles of thermo-dynamics becomes daily more important in all branches of natural philosophy. 
+
+Abandoning the ambitious theories of 40 years ago, encumbered as they were with molecular hypotheses, we now try to
 rest on thermo-dynamics alone the entire edifice of mathematical physics. Will the two principles of Mayer and
 of Clausius assure to it foundations solid enough to last for some time? We all feel it, but whence does our confidence arise? 
 
 An eminent physicist said to me one day, àpropos of the law of errors:—every one stoutly believes
-it, because mathematicians imagine that it is an effect
-of observation, and observers imagine that it is a math-
-ematical theorem. And this was for a long time the case
-with the principle of the conservation of energy. It is no
+it, because mathematicians imagine that it is an effect of observation, and observers imagine that it is a mathematical theorem. 
+
+This was for a long time the case with the principle of the conservation of energy. It is no
 longer the same now. There is no one who does not know
 that it is an experimental fact. 
 
@@ -26,18 +26,14 @@ But then who gives us the right of attributing to the principle itself more gene
 and more precision than to the experiments which have
 served to demonstrate it? 
 
-This is asking, if it is legiti-
-mate to generalise, as we do every day, empiric data, and
+This is asking, if it is legitimate to generalise, as we do every day, empiric data, and
 I shall not be so foolhardy as to discuss this question,
 after so many philosophers have vainly tried to solve it.
-One thing alone is certain. If this permission were re-
-fused to us, science could not exist; or at least would be
-reduced to a kind of inventory, to the ascertaining of iso-
-lated facts. It would not longer be to us of any value,
-since it could not satisfy our need of order and harmony,
-and because it would be at the same time incapable of
-prediction. As the circumstances which have preceded
-any fact whatever will never again, in all probability, be
+
+One thing alone is certain. If this permission were refused to us, science could not exist; or at least would be
+reduced to a kind of inventory, to the ascertaining of isolated facts. It would not longer be to us of any value,
+since it could not satisfy our need of order and harmony, and because it would be at the same time incapable of
+prediction. As the circumstances which have preceded any fact whatever will never again, in all probability, be
 simultaneously reproduced, we already require a first gen-
 eralisation to predict whether the fact will be renewed
 as soon as the least of these circumstances is changed.science and hypothesis
