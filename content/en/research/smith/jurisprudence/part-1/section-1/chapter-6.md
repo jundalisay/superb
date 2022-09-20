@@ -1,19 +1,16 @@
-+++
-title=  "How Military Monarchy was dissolved"
-# heading=  "Chapter 6 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-25
-author=  "Adam Smith"
-image=  "/covers/life.jpg"
-# image=  /photos/medieval/rome.jpg
-description=  "The arts and commerce of Rome improved under their imperial government. The people become acquainted with arts, commerce and consequently, domestic luxury"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-7"
-linkftext=  "Chapter 7"
-# heading=  Chapter 6
-+++
+---
+heading: Chapter 6
+title: "How Military Monarchy was Dissolved"
+date: 2015-09-22
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The arts and commerce of Rome improved under their imperial government. The people become acquainted with arts, commerce and consequently, domestic luxury"
+---
 
-We have considered= 
+
+
+We have considered:
 - how the dissolution of small states was brought about, and
 - what form of government succeeded them,
 - how an imperial government was introduced into conquering republics, and
@@ -43,7 +40,7 @@ All the western provinces were taken possession of much in this way.
 
 The Romans built a wall and kept garrisons to secure their province from the pillagers of the north*. But these were called away to defend Gaul, which at that time was also infested.
 
-> *Superphysics Note=  This is the same as sedentary China making walls against the Mongols
+> *Superphysics Note: This is the same as sedentary China making walls against the Mongols
 
 
 

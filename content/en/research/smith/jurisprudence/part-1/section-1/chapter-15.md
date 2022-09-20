@@ -1,21 +1,16 @@
+---
+heading: Chapter 15
+title: "Citizenship in a State"
+date: 2015-09-04
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "In most of the Swiss republics, the right of citizenship only belongs to those born of a citizen"
+---
 
 
-+++
-title=  "Citizenship in a State"
-# heading=  "Chapter 15 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-16
-image=  "/covers/life.jpg"
-author=  "Adam Smith"
-# image=  "https= //sorasystem.sirv.com/photos/prices.jpg"
-description=  "In most of the Swiss republics, the right of citizenship only belongs to those born of a citizen"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-14"
-linkbtext=  "Chapter 14"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-16"
-linkftext=  "Chapter 16"
-# heading=  Chapter 15
-+++
 
-### The laws of different countries vary much with regard to the right of citizenship.
+## The laws of different countries vary much with regard to the right of citizenship.
 
 In most of the Swiss republics, the right of citizenship only belongs to those born of a citizen.
 

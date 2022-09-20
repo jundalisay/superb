@@ -1,27 +1,19 @@
+---
+heading: Chapter 12
+title: "The Little Republics in Europe"
+date: 2015-09-08
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Small countries became republics because of the short distance between people"
+---
 
 
-
-
-+++
-title=  "The little Republics in Europe"
-# heading=  "Chapter 13 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-18
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/gov.jpg"
-description=  "Small countries became republics because of the short distance between people"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-12"
-linkbtext=  "Chapter 12"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-14"
-linkftext=  "Chapter 14"
-# heading=  Chapter 13
-+++
 
 What is the origin of the little European republics and the rights of sovereign and subject?
 
-<br>
 
-### The Origin of Republics
+## The Origin of Republics
 
 In some countries, the provinces far from the seat of government sometimes became independent. This was the case in most of Germany and France during Charlemagne's time.
 

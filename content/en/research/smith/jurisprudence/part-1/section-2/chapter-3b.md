@@ -1,18 +1,16 @@
+---
+heading: Chapter 3b of Part 1 Section 2
+title: "Five ways to become a slave"
+date: 2015-09-22
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "By being captives, criminals, indebted, selling oneself, and being children of slaves"
+---
 
-+++
-title=  "Slavery=  Five ways to become a slave"
-heading=  "Chapter 3b of Part 1 Section 2"
-description=  "By being captives, criminals, indebted, selling oneself, and being children of slaves"
-image=  "/covers/lectures.jpg"
-date=  2015-09-09
-linkb=  "/research/smith/jurisprudence/part-1/section-2/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/jurisprudence/part-1/section-2/chapter-4"
-linkftext=  "Chapter 4"
-# btext=  Chapter 3b
-+++
 
-Slaves may be acquired five ways.
+
+Slaves may be acquired 5 ways.
 
 1. By being captives in war.
   - If the conqueror does not kill them, he has a right to make them slaves.
@@ -42,9 +40,8 @@ The slavery in the West Indies took place contrary to law. When it was conquered
 But Columbus and Cortez were far from the law and did not obey their orders.
 <!-- The two men reduced them to slavery, which instituted itself among them. -->
 
-<br>
 
-### The state of servants
+## The state of servants
 
 A negro in Great Britain is a free man. 
 - If your negro servant is stolen, you can have no action for his price, but only for damages sustained by the loss of your servant. 

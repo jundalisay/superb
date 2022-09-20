@@ -1,18 +1,15 @@
-+++
-title=  "Husband and Wife"
-heading=  "Chapter 1a of Part 1 Section 2"
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-description=  "Husband and wife"
-date=  2015-09-09
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-16"
-linkbtext=  "Section 1"
-linkf=  "/research/smith/jurisprudence/part-1/section-2/chapter-1b"
-linkftext=  "Chapter 1b"
-+++
+---
+heading: Chapter 1a of Part 1 Section 2
+title: "Husband and Wife"
+date: 2015-09-30
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Each person is a member of a family which is made up of 3 kinds of relations"
+---
 
 
-Each person is a member of a family which is made up of three kinds of relations= 
+Each person is a member of a family which is made up of 3 kinds of relations:
 1. Husband and wife
 2. Parent and child
 3. Master and servant
@@ -52,6 +49,7 @@ In the Odyssey, she talks before her husband of that action without reserve.
 In Sparta, it was common for them to borrow and lend their wives.
 
 When manners became more refined, jealousy began. It increased so much that wives were locked up, as they are among the Turks at this day.
+
 As mankind became more refined, the same fondness which made them locked up women made them allow them liberties. 
 In the latter ages of Greece, women were allowed to go anywhere.
 This same fondness, carried to a high degree, gives as great a licence as when infidelity was disregarded. 
@@ -72,6 +70,7 @@ When the wife's infidelity is considered as an injury to the husband, it is nece
 We come now to consider how this union is begun.
 
 As the duty after marriage is quite different from what it was before, it is necessary that there should be some ceremony at the commencement of it.
+
 This differs in different countries, but in general is connected with religion, as it is supposed to make the greatest impression.
 In the infancy of society, though marriage seemed intended to be perpetual, yet the husband had an unlimited power of divorce, though it was reckoned indecent to exercise it unless for an enormous crime.
 
@@ -118,6 +117,7 @@ Frigidity in a man, and incapacity in a woman.
 
 The ecclesiastics introduced other changes with regard to marriage.
 The laws made by men are not all favourable to women.
+
 They considered the infidelity of the husband and wife were equally punished, he had no more power to divorce than she.
 Adultery, saevitia, and metus were considered as causes of separation, but not of divorce.
 The canon law on most occasions copied the Roman law and was dictated by ecclesiastics who were the only ones that understood Latin.

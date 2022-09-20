@@ -1,16 +1,14 @@
-+++
-title=  "The Allodial Government -- Lectures on Jurisprudence"
-# heading=  "Chapter 7 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-24
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-description=  "The government which succeeded the fall of the Roman Empire was similar to Mongols"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-6"
-linkbtext=  "Chapter 6"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-8"
-linkftext=  "Chapter 8"
-# heading=  Chapter 7
-+++
+---
+heading: Chapter 7
+title: "The Allodial Government"
+date: 2015-09-20
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The government which succeeded the fall of the Roman Empire was similar to Mongols"
+---
+
+
 
 <!-- We will now= 
 - consider what form of government succeeded , and

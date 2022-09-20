@@ -1,19 +1,15 @@
-+++
-title=  "The English Parliament"
-date=  2015-09-22
-author=  "Adam Smith"
-# heading=  "Chapter 9 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-image=  "/covers/life.jpg"
-description=  "Henry 3rd enacted that the smaller barons, who could not afford to attend in parliament, should send a representative"
-# image=  "https= //sorasystem.sirv.com/photos/parliament.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-8"
-linkbtext=  "Chapter 8"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-10"
-linkftext=  "Chapter 10"
-# heading=  Chapter 9
-+++
+---
+heading: Chapter 9
+title: "The English Parliament"
+date: 2015-09-16
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Henry 3rd enacted that the smaller barons, who could not afford to attend in parliament, should send a representative"
+---
 
-We shall next show= 
+
+We shall next show:
 - how each person got a share in the government
 - what share of it was allotted to each of them.
 
@@ -29,7 +25,7 @@ In Henry 3rd’s time, it was enacted that the smaller barons, who could not aff
 
 In the same way, boroughs came to have representatives in parliament, because they themselves became opulent and powerful. The king found it his interest to give them some weight to lessen the authority of the peers. It became necessary to have the consent of them and the barons before any law was passed. These borough representatives sat in a house by themselves.
 
-The smaller barons soon joined them. They were= 
+The smaller barons soon joined them. They were:
 - far from the level of the great lords with whom they sat, and
 - not much superior to the commons.
 

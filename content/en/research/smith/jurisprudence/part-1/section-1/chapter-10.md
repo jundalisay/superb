@@ -1,16 +1,14 @@
-+++
-title=  "How the English Government became Absolute"
-# heading=  "Chapter 10 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-21
-author=  "Adam Smith"
-# image=  "https= //sorasystem.sirv.com/photos/williamconq.jpg"
-image=  "/covers/lectures.jpg"
-description=  "The great wealth of English kings relative to their feudal lords allowed them to become absolute"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-9"
-linkbtext=  "Chapter 9"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-11"
-linkftext=  "Chapter 11"
-+++
+---
+heading: Chapter 10
+title: "How the English Government became Absolute"
+date: 2015-09-14
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The great wealth of English kings relative to their feudal lords allowed them to become absolute"
+---
+
+
 
 The House of Commons became considerable. But how did the nobility’s power decrease and how did the government become arbitrary?
 
@@ -21,7 +19,7 @@ But when luxury took place, he was unable to do this. Thus, the nobility's power
 - the nobility were ruined, and
 - the boroughs lost their power.
 
-![Tudor monarchs](https= //sorasystem.sirv.com/photos/medieval/tudor.jpg)
+![Tudor monarchs](https://sorasystem.sirv.com/photos/medieval/tudor.jpg)
 
 Therefore, the nobility's power declined due to the improvements in arts and commerce. When a man could spend his fortune in domestic luxury, he was obliged to dismiss his retainers. 
 

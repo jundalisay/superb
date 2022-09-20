@@ -1,25 +1,21 @@
-+++
-title=  "The Nature Of Government And Its Progress In The First Ages Of Society"
-# heading=  "Chapter 2 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-29
-author=  "Adam Smith"
-image=  "/covers/life.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/medieval/horde.jpg"
-description=  "Aristocratical and democratical governments may be called republican"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-3"
-linkftext=  "Chapter 3"
-# heading=  Chapter 2
-+++
+---
+heading: Chapter 2
+title: "The Nature Of Government And Its Progress In The First Ages Of Society"
+date: 2015-09-28
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Aristocratical and democratical governments may be called republican"
+---
 
-We shall now explain= 
+
+We shall now explain:
 - the nature of government,
 - its different forms,
 - what circumstances gave occasion for it, and
 - how it is maintained.
 
-There are three forms of government= 
+There are 3 forms of government:
 1. Monarchical - the supreme power is vested in one who can do what he pleases, make peace and war, impose taxes, etc. [tyranny]
 2. Aristocratical - the state is run by magistrates chosen by a class of people, such as the wealthy or known families,  [oligarchy + aristocracy]
 3. Democratical - the state is run by the people together [democracy]
@@ -36,7 +32,9 @@ There is no government in a nation of hunters. The society consists of a few ind
 - speak the same language, and
 - have agreed among themselves to keep together for their mutual safety
 
-But they have no authority one over another. The whole society interests itself in any offence. If possible they make it up between the parties, if not they banish from their society, kill or deliver up to the resentment of the injured him who has committed the crime. But this is no regular government. They might have a respected leader, yet he never can do anything without the consent of the whole. Thus, among hunters there is no regular government, they live according to the laws of nature.
+But they have no authority one over another. The whole society interests itself in any offence. 
+
+If possible they make it up between the parties, if not they banish from their society, kill or deliver up to the resentment of the injured him who has committed the crime. But this is no regular government. They might have a respected leader, yet he never can do anything without the consent of the whole. Thus, among hunters there is no regular government, they live according to the laws of nature.
 
 The appropriation of herds and flocks introduced an inequality of fortune. It led to regular government. Until there is property, there can be no government. The very end of government is to= 
 - secure wealth [utility], and
@@ -58,10 +56,9 @@ A nation consists of many families that have agreed to live with one another. At
 
 His son naturally becomes the chief of the young people. On the fathers' death, the son succeeds to his authority. Thus, chieftainship becomes hereditary.
 
-<br>
 
 
-### Gift-giving 
+## Gift-giving 
 
 In time, this power of chieftainship increases by a variety of circumstances. The number of presents which he receives, increase his fortune, and consequently his authority. Among barbarous nations, nobody goes to the chieftain, or makes any application for his interest, without something in his hand.
 
@@ -69,12 +66,12 @@ In a civilized nation, the man who gives the present is superior to the person w
 
 What different powers naturally belong to government? How are they distributed? What is their progress in the first periods of society?
 
-The powers of government* are= 
+The powers of government* are:
 1. legislative, which makes laws for the public good
-2. judicial, or that which obliges private persons to obey these laws, and punishes those who disobey= 
+2. judicial, or that which obliges private persons to obey these laws, and punishes those who disobey 
 3. the executive, or as some call it, the federal power, to which belongs the making war and peace.
 
-> *Superhysics Note=  we add the fourth power of government which is resource-allocation which is currently part of the executive power
+> *Superhysics Note: We add the fourth power of government which is resource-allocation which is currently part of the executive power
 
 
 All these powers in the original form of government belonged to the whole body of the people.
@@ -91,7 +88,7 @@ The government was so weak at that time. The power of making peace and war belon
 
 The executive power came very soon to be exerted absolutely as the society first interposed as friends and then as arbitrators. When a private quarrel happens on who owns this cow, society is not immediately concerned. But it is deeply interested in making peace and war. In the age of shepherds, this power is absolutely exerted.
 
-In Great Britain, we can observe vestiges of the precariousness of the judicial power, but none of the executive. When a criminal was tried, he was asked how he his cause should be decided, whether by= 
+In Great Britain, we can observe vestiges of the precariousness of the judicial power, but none of the executive. When a criminal was tried, he was asked how he his cause should be decided, whether by:
 - combat,
 - the ordeal trial, or
 - the laws of his country.
@@ -108,25 +105,25 @@ But as men were generally employed in some branch of trade, they could not spare
 
 A certain number would be chosen to sit along with him. In the first ages of society, this number was always big as they would be afraid to trust matters of importance to a few. Accordingly, we find that at Athens there were 500 judges at the same time. This helped the chieftain further increase his authority. The government would appear somewhat monarchical. But this is only in appearance, for the final decision is still with the people, and the government is really democratical.
 
-The power of making peace and war was at first lodged in the people. But the people could not attend to deliberations of this kind when= 
-- society advanced,
-- towns were fortified, 
-- magazines prepared, 
-- stocks of money kept together, 
-- generals and officers appointed, .
+The power of making peace and war was at first lodged in the people. But the people could not attend to deliberations of this kind when:
+- society advanced
+- towns were fortified 
+- magazines prepared
+- stocks of money kept together
+- generals and officers appointed
 
-This power would either= 
+This power would either: 
 - fall to the court of justice, or
 - there would be another set of people appointed for this purpose, though it would naturally at first fall to the court of justice.
+
 
 This is properly called the senatorial power.
 - In Rome, it took care of the public revenue, public buildings, and the like.
 - But afterwards at Rome, the court of justice and the senatorial one became distinct. 
 - The same may be said of the Areopagite court at Athens.
 
-<br>
 
-### Hunters and shepherds
+## Hunters and shepherds
 
 In a nation of hunters and fishers, few people can live together because any large number would destroy all the game in the country, and consequently would lack a means of subsistence.
 

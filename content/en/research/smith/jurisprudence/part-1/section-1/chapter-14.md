@@ -1,17 +1,14 @@
-+++
-title=  "The Rights of Sovereigns"
-# heading=  "Chapter 14 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-17
-author=  "Adam Smith"
-image=  "/covers/life.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/shah.jpeg"
-description=  "Assassination is thought just and equitable in a republic but not in a monarchy"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-13"
-linkbtext=  "Chapter 13"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-15"
-linkftext=  "Chapter 15"
-# heading=  Chapter 14
-+++
+---
+heading: Chapter 14
+title: "The Rights of Sovereigns"
+date: 2015-09-06
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Assassination is thought just and equitable in a republic but not in a monarchy"
+---
+
+
 
 What is the duty of the sovereign? What is the proper punishment of disobedience?
 
@@ -33,10 +30,8 @@ According to our present notions, Oliver Cromwell’s assassination is most sham
 
 Having noticed this difference between monarchical and republican governments, we shall next consider 
 
-<br>
-<br>
 
-### The Crimes of Treason
+## The Crimes of Treason
 
 During the Roman Republic, there were three kinds of treason or attacks on the essence of government= 
 
@@ -72,7 +67,8 @@ Previously, this was only a felony. Edward I, however, made the mere wounding of
 
 This should not be treason because it is not an attempt on the essence of government. This crime is just forgery and is usually punished as such.
 
-+++
+
+---
 
 Henry 8th declared himself head of the Church. He assumed the sovereignty in ecclesiastical affairs as a part of his prerogative. This is why he established the court of high commission to judge of ecclesiastics. This was abolished by Mary and restored by Elizabeth. There was some danger then from the Popish [pro-Pope] party.
 

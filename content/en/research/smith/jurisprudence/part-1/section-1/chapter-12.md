@@ -1,22 +1,14 @@
+---
+heading: Chapter 9
+title: "The English Courts of Justice"
+date: 2015-09-10
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "English courts were created based on the speed of resolution and then the nature of the cases"
+---
 
 
-
-
-
-
-
-+++
-title=  "The English Courts of Justice"
-# heading=  "Chapter 12 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-19
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-description=  "English courts were created based on the speed of resolution and then the nature of the cases"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-11"
-linkbtext=  "Chapter 11"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-13"
-linkftext=  "Chapter 13"
-+++
 
 In England and Europe after the feudal law was introduced, governance was done in the same way as a baron in his jurisdiction. The baron was a steward who managed all affairs in his lord's county. 
 
@@ -26,9 +18,8 @@ The grand justiciary managed all justice in the kingdom.
 - He became as powerful as the king in every country except in England.
   - Edward I saw the danger and got it prevented.
 
-<br>
 
-### The courts were created based on the speed of resolution and then the nature of the cases
+## The courts were created based on the speed of resolution and then the nature of the cases
 
 All laws were determined by the justiciary as the king’s court. It always attended to the king and to delays and adjournments in civil suits 
 - Criminal causes always have a speedier resolution. 
@@ -139,7 +130,7 @@ By the common law, if a person was bound by contract to deliver land and afterwa
   - Wills, legacies, and things of this sort also fell under the scope of the chancellor.
 
 
-### The origin of juries?
+## The origin of juries
 
 In the beginning of the allodial government, the several courts had improved very little. They did not have the experience to examine matters thoroughly.
 When any person was tried for an action based on his oath, he was obliged to bring 12 compurgators to swear that the oath was just. This is seen nowadays as the actions of debt, a person can bring in people to swear that his oath is just to win the case.

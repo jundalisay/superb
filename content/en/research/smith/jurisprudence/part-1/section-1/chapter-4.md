@@ -1,25 +1,24 @@
-+++
-title=  "How Liberty was lost"
-# heading=  "Chapter 4 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-27
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-description=  "When a country arrives at a certain degree of refinement, it becomes less fit for war"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-5"
-linkftext=  "Chapter 5"
-+++
+---
+heading: Chapter 4
+title: "How Liberty was lost"
+date: 2015-09-26
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "When a country arrives at a certain degree of refinement, it becomes less fit for war"
+---
 
-We have shown= 
+
+
+We have shown:
 - how republics arose, and
 - how they again became democratic.
 
-We next show how= 
+We next show how: 
 - this liberty was lost, and
 - how monarchy was introduced.
 
-The republics mentioned must either= 
+The republics mentioned must either: 
 - confine themselves within their ancient boundaries, or
 - enlarge their territory by conquest.
 

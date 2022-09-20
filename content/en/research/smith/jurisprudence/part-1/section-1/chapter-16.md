@@ -1,20 +1,18 @@
+---
+heading: Chapter 16
+title: "The Rights of Subjects"
+date: 2015-09-04
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Citizens and aliens have rights in a state"
+---
 
-+++
-title=  "The Rights of Subjects"
-# heading=  "Chapter 16 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-09
-author=  "Adam Smith"
-image=  "/covers/life.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/team.jpg"
-description=  "Citizens and aliens have rights in a state"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-14"
-linkbtext=  "Chapter 14"
-linkf=  "/research/smith/jurisprudence/part-1/section-2/chapter-1a"
-linkftext=  "Section 2"
-# heading=  Chapter 16
-+++
 
-### The limitations of the sovereign's power
+
+
+## The limitations of the sovereign's power
+
 
 It is impossible to be precise regarding this branch of public law. 
 
@@ -101,18 +99,20 @@ But if France had been as destitute of nobility as Britain was at the accession 
 
 The power of government (summa potestas) is divided in Britain. The parliament has a right to oppose the king if he does anything which requires their consent, but does not get their permission. The nature of a parliamentary right supposes that it may be defended by force. If the king imposes taxes or continue them after the time is expired, then he is guilty of breach of privilege.
 
-James II, a Roman Catholic, attempted some impositions of this kind on imports. The petition of right expressly said that the taxes shall not continue after the time set by Act of parliament. When the parliament saw the king violating this, they appointed two tests= 
+James 2nd, a Roman Catholic, attempted some impositions of this kind on imports. The petition of right expressly said that the taxes shall not continue after the time set by Act of parliament. When the parliament saw the king violating this, they appointed two tests= 
 1. an abjuration of the Pope
 2. the oath of supremacy
   - every person within three months after his acceptance of any office should take the sacrament after the form prescribed by the Church of England.
 
-King James= 
+King James: 
 - employed Roman Catholics both in the army and privy council.
 - appointed persons entirely unqualified to the treasury, and
 - broke in on the privileges of the Universities.
 - dispensed with the law in cases where he himself was not concerned.
 
-Some of the bishops remonstrating against such proceedings and were imprisoned. Every British subject has a right to do so. This attack on the bishops alarmed the nation. Bishop John Sharp preached against the Catholic Pope. The bishop of London was ordered to suspend him, but he only cautioned him against such practices. The king was not pleased with this so he= 
+Some of the bishops remonstrating against such proceedings and were imprisoned. Every British subject has a right to do so. 
+
+This attack on the bishops alarmed the nation. Bishop John Sharp preached against the Catholic Pope. The bishop of London was ordered to suspend him, but he only cautioned him against such practices. The king was not pleased with this so he= 
 - created a court of high commission and summoned both the bishop and Sharp to appear before it
 - he perceived the people's disgust which he thought came from= 
   - the fear of owners of the abbey lands that these would be taken away,
@@ -124,11 +124,11 @@ Therefore, James II declared that he would=
 
 This showed his intention to change the country's religion, which is the most difficult thing in the world. Before a religion is changed, the people's opinions must be changed. This was done by Luther, Calvin, John Knox, and others before the Reformation.
 
-King James then applied to the army. But he found that they did not sympathize with him. He, in return, told them that he would never again= 
+King James then applied to the army. But he found that they did not sympathize with him. He, in return, told them that he would never again: 
 - bring down his sentiments to theirs, nor
 - consult them.
 
-By such practices= 
+By such practices:
 - the Revolution was brought about, and
 - the family set aside because the whole nation favoured the Prince of Orange
 

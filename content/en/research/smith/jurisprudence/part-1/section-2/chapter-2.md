@@ -1,19 +1,19 @@
-+++
-title=  "Parent and Child"
-heading=  "Chapter 2 of Part 1 Section 2"
-description=  "What is the history of parentage? It is the second relation in which we were to consider man as a member of a family"
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-# image=  https= //sorasystem.sirv.com/photos/family.jpg
-date=  2015-09-09
-linkb=  "/research/smith/jurisprudence/part-1/section-2/chapter-1b"
-linkbtext=  "Chapter 1b"
-linkf=  "/research/smith/jurisprudence/part-1/section-2/chapter-3"
-linkftext=  "Chapter 3"
-# btext=  Chapter 2
-+++
+---
+heading: Chapter 2 of Part 1 Section 2
+title: "Parent and Child"
+date: 2015-09-24
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "What is the history of parentage? It is the second relation in which we were to consider man as a member of a family"
+---
 
-We come now to consider the history of parentage, being the second relation in which we were to consider man as a member of a family.
+
+<!-- We come now to consider the history of  -->
+
+## Parentage is the second relation in a family
+
+How did parenting evolve?
 
 The authority of the father over his children, both with respect to liberty and property, was at first absolute.
 He was at liberty to choose whether he would bring up his children or not, and it was accounted no injustice to refuse to do it.
@@ -49,12 +49,16 @@ It is much the same with the gentlemen in this country, who have it in their pow
 As they are ignorant how it ought to be done, they are obliged as well as others to apply for authority to the civil court, though they are vested with the power of doing it themselves.
 The power of the father with respect to the property of the son soon went out likewise.
 
-We find that very early, by a law of Marcianus, the fathers were obliged to provide proper wives for their sons, and to bestow proper portions upon [them];
-and if they refused, the government was to see it done.
-This shows that the property after marriage must have been their own.
+Very early, by a law of Marcianus, the fathers were obliged to:
+- provide proper wives for their sons
+- bestow proper portions on them
 
-The law seems to have been made because the wife brought a fortune along with her, and therefore it was but reasonable the husband should also have some property independent of his father.
+If they refused, the government would see it done. This shows that the property after marriage must have been their own.
+
+The law seems to have been made because the wife brought a fortune along with her. Therefore, it was reasonable that the husband should also have some property independent of his father.
+
 It must therefore only have been the property of unmarried children over which the parent had any power, and this is not unreasonable.
+
 The authority of the father was not arbitrary at Rome, for we often find men accused there for not taking proper care of their children, which could hardly have been the case if they could have put them to death.
 Julius Caesar, and after him Augustus, were the first that gave to sons property independent of their fathers.
 
@@ -66,7 +70,9 @@ There were only certain cases in which it was in his power.
 
 After the fall of the Roman Empire the power of the father over the son, as well as over the wife, was softened.
 The father came to have over the son, while he continued in the family with him, an authority much the same with that a father has among us, that, to wit, of taking care of his morals.
+
 But when out of the family he was not so immediately concerned about him.
 The father has this particular privilege with respect to his son, that he can become tutor to him without surety, and is not accountable, as every other tutor is, for negligence and omission.
 This is the natural authority the father has over the son.
+
 The father is obliged to bring up his children, and the children, in case of old age or infirmity, to maintain the father.

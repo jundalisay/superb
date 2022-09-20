@@ -1,16 +1,14 @@
-+++
-title=  "How Republican Governments were introduced"
-# heading=  "Chapter 3 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-28
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-description=  "A country's location and its improvement in agriculture and trade make it favourable to the introduction of a republican government"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-4"
-linkftext=  "Chapter 4"
-# heading=  Chapter 3
-+++
+---
+heading: Chapter 3
+title: "How Republican Governments were introduced"
+date: 2015-09-26
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "A country's location and its improvement in agriculture and trade make it favourable to the introduction of a republican government"
+---
+
+
 
 Early societies had democratic governments. How were republican governments introduced?
 
@@ -45,7 +43,7 @@ Theseus fortified Athens and made the Atticans carry into it all their goods. Th
 - his power over them and
 - the authority of Athens above other states.
 
-When people agreed to live in towns, the chieftains would soon lose their authority. The government would turn republican, because their revenue= 
+When people agreed to live in towns, the chieftains would soon lose their authority. The government would turn republican, because their revenue:
 - was small, and
 - could not make them so distinguished above others to retain them in dependence.
 
@@ -73,7 +71,7 @@ The lower classes=
 
 The nobility might differ among themselves about elections. But they would never propose the election of plebeians. Thus, the nobility's influence was the law, and not any express prohibition.
  
-At Athens, Solon enacted that= 
+At Athens, Solon enacted that:
 - none of the lower of the four classes should be elected, and
 - afterwards, magistrates were elected out of all classes.
 

@@ -1,15 +1,14 @@
-+++
-title=  "Guardian and Ward, Domestic Punishments"
-heading=  "Chapter 4-5 of Part 1 Section 2"
-description=  "Polygamy vs Monogamy, Domestic Offences and their Punishments"
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-date=  2015-09-09
-linkb=  "/research/smith/jurisprudence/part-1/section-2/chapter-3b"
-linkbtext=  "Chapter 3b"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-1"
-linkftext=  "Section 3"
-+++
+---
+heading: Chapter 4-5 of Part 1 Section 2
+title: "Guardian and Ward, Domestic Punishments"
+date: 2015-09-20
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Polygamy vs Monogamy, Domestic Offences and their Punishments"
+---
+
+
 
 When a father dies leaving his children young, they should be taken care of. Even in the times of exposition, when an infant was some time kept, it was thought cruel to put him to death= 
 - the child was destitute
@@ -49,7 +48,7 @@ By our law, the care of an estate is entrusted to=
 - the heir to a more remote relation, who will take best care of him, as he cannot be benefited by his death.
 
 
-## Chapter 5=  Domestic Offences and their Punishments
+## Chapter 5: Domestic Offences and their Punishments
 
 Some offences in families have peculiar punishments. 
 

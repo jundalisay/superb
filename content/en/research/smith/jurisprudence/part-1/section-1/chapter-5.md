@@ -1,17 +1,14 @@
+---
+heading: Chapter 5
+title: "Military Monarchy"
+date: 2015-09-24
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Citizens and aliens have rights in a state"
+---
 
-+++
-title=  "Military Monarchy"
-# heading=  "Chapter 5 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-26
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-description=  "Citizens and aliens have rights in a state"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-6"
-linkftext=  "Chapter 6"
-# heading=  Chapter 5
-+++
+
 
 What form of government succeeded the republican?
 
@@ -26,7 +23,7 @@ A military monarchy is a monarchy supported by military force.
 - This is needed to keep the people in awe as to conquer them.
 - This was established in Rome during their empire.
   - Its emperors took the whole executive power into their own hands and made peace and war as they thought proper.
-  - They even named the magistrates= 
+  - They even named the magistrates:
     - immediately themselves, or
     - through a Senate they themselves appointed.
   - However, they did not change any institutions of the civil law and right and wrong were decided as before.
@@ -36,7 +33,9 @@ Cromwell did the same in our own country.
 - But he allowed the judge to determine right and wrong as before.
 - He made such improvements in the civil law by taking away wardships, etc. that the first thing the Parliament of Charles II did was to confirm many of Cromwell’s laws.
 
-The Roman authors tell us that justice was best administered under Domitian and Nero1, the worst of the emperors. It is the interest of all new administrators to make few alterations in what the people are much concerned and have been long accustomed to. They will more easily go into anything else, when they are indulged in this. It was particularly the interest of the emperors to keep up the ancient system of laws. Accordingly, we find that all consuls who misbehaved in their respective provinces were severely punished.
+The Roman authors tell us that justice was best administered under Domitian and Nero1, the worst of the emperors. It is the interest of all new administrators to make few alterations in what the people are much concerned and have been long accustomed to. 
+
+They will more easily go into anything else, when they are indulged in this. It was particularly the interest of the emperors to keep up the ancient system of laws. Accordingly, we find that all consuls who misbehaved in their respective provinces were severely punished.
 
 It was not so under the republic. Cicero’s Orations tell us that the most scandalous crimes were committed by governors.
 

@@ -1,18 +1,14 @@
+---
+heading: Chapter 7
+title: "The Feudal System"
+date: 2015-09-18
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The feudal system arose from the king's strength and collapsed when the lords leased out their lands longer and the kings gave freedom to the cities against the lords"
+---
 
 
-
-+++
-title=  "The Feudal System -- Lectures on Jurisprudence"
-# heading=  "Chapter 8 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-23
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-description=  "The feudal system arose from the king's strength and collapsed when the lords leased out their lands longer and the kings gave freedom to the cities against the lords"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-7"
-linkbtext=  "Chapter 7"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-9"
-linkftext=  "Chapter 9"
-+++
 
 How was the allodial government overturned to give way to the feudal system?
 
@@ -28,13 +24,13 @@ It was thought cruel to turn out an old tenant. And so finally, the right became
 - In this way, wardships were introduced*.
 
 
-> *Superphysics note=  The Roman system was created from the top down, with the senate awarding lands to soldiers, under the idea of a state. The feudal system is built from the ground-up, with the lords personally awarding lands to tenants without any idea of a state.
+> *Superphysics Note: The Roman system was created from the top down, with the senate awarding lands to soldiers, under the idea of a state. The feudal system is built from the ground-up, with the lords personally awarding lands to tenants without any idea of a state.
 
 
 When the heir female succeeded, the feudal baron had a right to marry her to whomever he pleased because the baron should have a vassal of his own choosing.
 
 
-### Prima seizin, Relief, Escheat
+## Prima seizin, Relief, Escheat
 
 The *prima seizin* was another emolument of the lord. When the father died, the son had no right to the estate until he publicly declared his willingness to accept it.  The lord sometimes had the estate to himself and enjoyed its profits for some time. The heir paid a sum to get it back, which was called *relief*.
 
@@ -93,4 +89,4 @@ At first, every man paid his proportion to the king.  But afterwards, the boroug
 
 In the reign of King John, a law* was made that if a lord married his ward to a burgher he only forfeited his wardship.
 
-> *Superphysics Note=  Magna Carta?
+> *Superphysics Note: Magna Carta?

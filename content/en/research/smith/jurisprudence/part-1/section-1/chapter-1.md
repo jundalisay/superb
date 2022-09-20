@@ -1,29 +1,28 @@
-+++
-title=  "The Original Principles of Government"
-# heading=  "Chapter 1 of the Simplified Lectures of Jurisprudence by Adam Smith Part 1 Section 1"
-date=  2015-09-30
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-description=  "Governments are based on Utility and Authority. The social contract theory is a fallacy invented in Britain"
-linkb=  "/research/smith/jurisprudence"
-linkbtext=  "Simple-lectures-on-jurisprudence"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-2"
-linkftext=  "Chapter 2"
-+++
+---
+heading: Chapter 1
+title: "The Original Principles of Government"
+date: 2015-09-30
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Governments are based on Utility and Authority. The social contract theory is a fallacy invented in Britain"
+---
+
+
 
 Two principles induce men to enter into a civil society:
 - Principle of authority
 - Principle of utility
 
-The four things that give one man authority over another are= 
+Four things give one man authority over another:
 - Superior abilities of body and of mind
 - Superior age and long possession
 - Superior wealth
 - Ancient family
 
-<br>
 
-### Principle of Authority
+
+## Principle of Authority
 
 > 1. Superior abilities
 
@@ -50,9 +49,8 @@ Superior abilities of body and mind are not so easily judged of. It is more conv
 
 An upstart is always disagreeable because we envy his superiority over us. We think ourselves just as entitled to wealth as he is. If a man’s grandfather was very poor and dependent on my family, I will grudge very much to see his grandson in a station above me. I will not be much disposed to submit to his authority.
 
-<br>
 
-### Principle of Utility
+## Principle of Utility
 
 Everyone knows the need for utility to preserve justice and peace in society. By civil institutions the poorest may get redress of injuries from the wealthiest and most powerful. There may be some irregularities in particular cases. But we submit to them to avoid greater evils.
 

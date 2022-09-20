@@ -1,19 +1,15 @@
-+++
-title=  "Master and Servant"
-heading=  "Chapter 3 of Part 1 Section 2"
-description=  "The power over the servants was arbitrary. A slave could have no property because the master had the disposal of his liberty"
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/tribeforest.jpg"
-date=  2015-09-09
-linkb=  "/research/smith/jurisprudence/part-1/section-2/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/jurisprudence/part-1/section-2/chapter-3b"
-linkftext=  "Chapter 3b"
-# btext=  Chapter 3
-+++
+---
+heading: Chapter 3 of Part 1 Section 2
+title: "Master and Servant"
+date: 2015-09-24
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The power over the servants was arbitrary. A slave could have no property because the master had the disposal of his liberty"
+---
 
-### Master and servant is the third relation of a family.
+
+## Master and servant is the third relation of a family.
 
 The same principle which gave the husband authority over the wife, also gave the father authority over the son. The husband's power was softened through his wife’s friends. She could complain to them. The father was softened by the same means.
 
@@ -82,7 +78,7 @@ In an opulent country, the slaves are always ill-treated because=
 If a free man were killed in a house, all the slaves were put to death. Several authors tell us that in Rome at night, only the cries of slaves were heard, being punished by their masters. Ovid tells us that the slave who kept the gate was chained to it. The slaves who manured the ground were chained together lest they should run away. When an old slave was incapable for work, he was turned out to die on an island, near the city, kept for that purpose.
 
 
-### The high number of slaves makes them cheap to punish
+## The high number of slaves makes them cheap to punish
 
 Slavery is more tolerable in a barbarous than in a civilized society. In an uncultivated country, people cannot keep many slaves because of their poverty. Their discipline will not be so rigid as when they are numerous.
 
@@ -98,7 +94,7 @@ They are the most numerous part of mankind. No human will wish for liberty in a 
 <!-- It is almost needless to prove that slavery is a bad institution even for free men. -->
 
 
-### Slave labor is more expensive than non-slave labor 
+## Slave labor is more expensive than non-slave labor 
 
 A free man who works for day’s wages will work harder than a slave relative to the expense in maintaining and raising him. In ancient Italy, an estate managed by slaves in the most fertile country, yielded to the master only 1/6 of the produce. Whereas a landlord even in our barren country receives 1/3 and the tenants live much better. 
 
@@ -127,9 +123,8 @@ The inequality of fortune initially seemed as a misfortune, and so laws were mad
 
 When slaves are employed to sift this £10 out of the £10,000, one must be a tailor, another a weaver, a third a smith. Thus, each takes up a free man’s place. 
 
-<br>
 
-### The abolition of slavery through tenant agriculture
+## The abolition of slavery through tenant agriculture
 
 The slaves in Great Britain and the neighbouring countries were called *adscripti glebae*, those who cultivated the ground.
 - They could only be sold along with the land.
@@ -158,9 +153,9 @@ Therefore, the ancient villains were tenants-at-will. They were obliged to perfo
 
 Finally, their privilege was extended and they became copyholders.
 
-<br>
 
-### The abolition of slavery through the Church
+
+## The abolition of slavery through the Church
 
 Another cause of the abolition of slavery was the clergy's influence. It was not caused by the spirit of Christianity, for our planters are all Christians.
 
@@ -175,7 +170,7 @@ In Bohemia, Hungary, and those countries where the sovereign is elective, and co
 Servitude still remains where the church never had any great influence.
 Because the court is not powerful enough to emancipate the nobility's slaves.
 
-On the topic of family members, I will only discuss= 
+On the topic of family members, I will only discuss:
 - how slaves are acquired
 - the state of domestic servants in our own country
 - the particular state of families

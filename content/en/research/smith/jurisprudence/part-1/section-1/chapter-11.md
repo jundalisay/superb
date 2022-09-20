@@ -1,22 +1,17 @@
-
-+++
-title=  "How was Liberty restored?"
+---
+title: "How was Liberty restored?"
 # heading=  "Chapter 11 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date=  2015-09-20
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-description=  "Elizabeth flipped the policies and sold the royal lands to the people"
-linkb=  "/research/smith/jurisprudence/part-1/section-1/chapter-10"
-linkbtext=  "Chapter 10"
-linkf=  "/research/smith/jurisprudence/part-1/section-1/chapter-12"
-linkftext=  "Chapter 12"
-+++
+date: 2015-09-12
+author: "Adam Smith"
+image: "/covers/lectures.jpg"
+description: "Elizabeth flipped the policies and sold the royal lands to the people"
+---
 
 How was liberty was restored in Britain?
 
 
 Period | Leader
-+++ | +++
+--- | ---
 1533 | Henry 7th
 1558 | Elizabeth
 1603 | James I
@@ -58,7 +53,8 @@ Examples are taxes on salt, beer, malt, etc., levied by the officers of custom a
 - They can pay only to those appointed by parliament.
 - They must have the discharge of the public creditor.
 
-> *Superphysics note=  In pantrynomics, the exchequer makes up the fourth branch of of government
+> *Superphysics note: In Economic Superphysics, the exchequer makes up the fourth branch of of government
+
 
 The surplus of the mortgages goes into the 'sinking fund' for paying the public debt. This secures the government in the present family. If a revolution were to happen, the public creditors, who are men of interest, would lose both principal and interest.
 
