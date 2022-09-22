@@ -1,13 +1,10 @@
-+++
-title= "Gravity"
-image= "/covers/system.jpg"
-description= "The Egyptians were early observers of the heavens. This heliocentric philosophy came from them and was spread abroad, especially among the Greeks who were addicted to the study of philology than of nature"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+title: "Gravity"
+image: "/covers/system.jpg"
+description: "The Egyptians were early observers of the heavens. This heliocentric philosophy came from them and was spread abroad, especially among the Greeks who were addicted to the study of philology than of nature"
+icon: "/icons/newton.png"
+---
+
 
 The ancients believed that:
 - the fixed stars stood immoveable in the highest parts of the universe
@@ -15,6 +12,7 @@ The ancients believed that:
 - the earth, as one of the planets, described an annual course about the sun, 
 - by a diurnal motion it was in the mean time revolved about its own axis
 - the sun, as the common fire which served to warm the whole, was fixed in the centre of the universe.
+
 
 This was the philosophy taught by:
 - Philolans
@@ -130,30 +128,20 @@ Gravity must press downwards. All bodies around the earth either:
 - falls directly to the earth, if they are let fall from rest, or
 - at from straight lines towards the earth, if they arc so from gravity directed to least perpetually deviate projected obliquely
 
-By the like necessity, all bodies upon which either descend directly to that centre, or at least deviate perpetually towards it from right lines, if otherwise they should have 
+<!-- By the like necessity, all bodies which either descend directly to that centre, or at least deviate perpetually towards it from right lines, if otherwise they should have 
 
 centre, it will follow,
 this force acts
 mast
 
 obliquely in these right lines.
-moved
+moved -->
 
-And how from the motions given we may infer the
-we may determine the motions, is shewn in
-forces given
-of our Principles of Philosophy.
+These motions are caused by forces as shown in the first Books of our *Principles of Philosophy*.
 
-If the earth is supposed to stand still, then 
-and the
-forces, or
-the two
-from the
-first Books
-fixed stars to be revolved
-space of 24 hours, it is certain the forces by which
-the fixed stars are retained in their orbs are not directed to the earth, but
-in free spaces in the
+If the earth stood still, and the stars revolved around it in 24 hours, then those forces which retain the stars in their orbs are not directed to the earth, but to the centers of those orbs, creating parallel circles.
+
+<!-- in free spaces in the
 to the
 centres of the several orbs, that
 which the fixed
@@ -165,9 +153,9 @@ also that by radii drawn to the centres of those orbs tht
 describe daily
 fixed stars describe areas exactly proportional to the times of description.
 
-Then, because the periodic times are equal (by Cor. Ill, Prop. 4, Book 1),
+Then, because the periodic times are equal (by Cor. Ill, Prop. 4, Book 1), -->
 
-follows that the centripetal forces are as the radii of the several orbs,
+<!-- follows that the centripetal forces are as the radii of the several orbs,
 and that they will perpetually revolve in the same orbs. And the like
 consequences may be drawn from the supposed diurnal motion of the
 planets.
@@ -190,25 +178,11 @@ the urea
 it is
 both areas and orb increase; and from the increase of
 demonstrated that the forces are not directed to the axis of
-pole,
-And
-this difficulty (Cor. 1, Prop. II) arises from the twofold
-observed in the fixed stars, one diurnal round the axis of
-And
-the earth, the other exceedingly slow round the axis of the ecliptic.
-of
-forces
-so
-a
-thereof
-the explication
-composition
-perplexed and
-requires
-the earth.
+pole, -->
 
+This difficulty (Cor. 1, Prop. 2) arises from the twofold motion observed in the stars:
+- one diurnal around the axis of the earth
+- the other exceedingly slow round the axis of the ecliptic.
 
-motion that
-is
-is hardly to be reconciled with any physical theory.
+This requires forces so perplexed and variable that it cannot be reconciled with any physical theory.
 

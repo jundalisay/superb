@@ -1,40 +1,25 @@
-+++
-title= "Plantary Orbits"
-image= "/covers/principia.jpg"
-description= "Centripetal forces are actually directed to the bodies of the sun, of the earth, and other planets."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Plantary Orbits"
+image: "/covers/principia.jpg"
+description: "Centripetal forces are actually directed to the bodies of the sun, of the earth, and other planets."
+icon: "/icons/newton.png"
+---
 
-Centripetal forces are actually directed to the bodies of the sun, of the earth, and other planets.
 
-The moon revolves about our earth, and by radii drawn to its centre so variable, that it
+The revolution of the earth means that centripetal forces are actually directed to the bodies of the sun, of the earth, and other planets.
 
-That 390) describes areas nearly proportional to the times in which they are described, as is evident from its velocity compared with its apparent diameter (p.
-for its motion is slower when its diameter is less (and therefore its distance greater), and its motion is swifter when its diameter is greater.
+The moon revolves about our earth. A line drawn from the earth's center to the moon coincides with the lunar cycles, from the moon's velocity compared with its diameter. 
 
-The revolutions of the satellites of Jupiter about that planet are more regular
-(p. 386)
+The moon's motion is slower when its diameter is less (and therefore is farther from earth). Its motion is faster when its diameter is greater.
 
-for they describe circles concentric with Jupiter by equa
-ble motions, as exactly as our senses
-And
-so the satellites of
-can distinguish.
-Saturn are revolved about
-this planet
-with
-mo
-(p. 387) circular and equable, scarcely disturbed by any eccen
-hitherto
-observed.
-tricity
+The revolutions of Jupiter's moons are more regular
+(p. 386). They draw concentric circles with Jupiter by equable motions. 
 
-Venus and Mercury revolve around the sun just like moons revolve around planets. This is why they shine with a full face, when they are in those parts of their orbs which in respect of the earth lie beyond the sun when they appear half full, they are in those parts while over when horned, in those parts which lie between against the sun
+Saturn's moons revolve circularly. 
+
+Venus and Mercury revolve around the sun just like moons revolve around planets. 
+
+This is why they shine with a full face, when they are in those parts of their orbs which in respect of the earth lie beyond the sun when they appear half full, they are in those parts while over when horned, in those parts which lie between against the sun
 
 the earth and the sun
 and sometimes they pass over the sun s disk, when
@@ -630,75 +615,41 @@ thing greater than the sun
 when that parallax
 is
 some
-s.
-Flamsted attempted the same parallax with the micrometer in the
-peri-
-and thence conclud
-geon position of Mars, but never found it above
-ed the sun s parallax at most
 
-Whence it follows that the distance of the moon from
-the earth bears
-no greater proportion to the distance of the earth from the sun than 29 to
-IOUOO nor to the distance of Venus from the sun than 29 to 7233.
-:
-From which
-distances, together with the periodic times, by the method
-above explained, it is easy to infer that the absolute circum-soiar force is
-greater than the absolute circum-terrestrial force at least 229400 times.
-And though we were
-only certain, from the observations of Ricciolus
-and
-Vcitdelin, that the sun s parallax was less than half a minute, yet from
-this it will follow that the absolute circum-solar force exceeds the absolute
-circum-terrestrial force
-S500
+
+Flamsted attempted the same parallax with the micrometer in the perigeon position of Mars. But he never found it above 25". He thus concluded that the sun s parallax at most to be 10".
+
+It follows that the distance of the moon from
+the earth bears no greater proportion to the distance of the earth from the sun than 29 to
+10,000, nor to the distance of Venus from the sun than 29 to 7,233.
+
+From which distances, together with the periodic times, it is easy to infer that the absolute circumsolar force is greater than the absolute circumterrestrial force at least 229,400 times.
+
+Ricciolus and Vcitdelin observed that the sun's parallax was less than half a minute. 
+
+It follows that the absolute circum-solar force exceeds the absolute circum-terrestrial force 8,500
 times.
-By the like computations I happened to discover an analogy, that is ob
-served between the forces and the bodies of the planets
-but, before I ex
-;
-plain this analogy, the apparent diameters of the planets in their
-distances from the earth must be first determined.
-Mr. Flamsted
 
-Jupiter
+By the like computations, I discovered an analogy between the forces and the bodies of the planets. But we must first get the apparent diameters of the planets. 
 
-of the sun about 32
+Flamsted measured the diameter of:
+- Jupiter to 40-41" (micrometer).
+- Saturn's ring to 50"
+- the sun to 32'13" 
 
-But
-mean
-387), by the micrometer, measured the diameter of
-the diameter of Saturn s ring 50&quot;
-and the diameter
+Huygens and Halley measures the diameter of Saturn's ring as 4 to 9. 
+- To Gulletins, it was as 4 to 10
+- To Hooke, (by a telescope of 60 feet) it was as 5 to 12
 
-(p.
-387).
-the diameter of Saturn
-is to
-the diameter of the ring, according to
-Mr.
-Huygens and Dr. Halley, as 4 to 9; according to Gullet-ins, as 4 to
-10; and according to Hooke (by a telescope of 60 feet), as 5 to 12. And
-from the mean proportion, 5 to 12, the diameter of Saturn s body is in
-ferred about
-Such
+From the mean proportion, 5 to 12, the diameter of Saturn s body is around 21".
 
-we have
-said are the apparent magnitudes; but. because of the
-unequal refrano-ibility of light, all lucid points are dilated by the tele
-scope, and in the focus of the object-glass possess a circular space whose
-as
-about the 50th part of the aperture of the glass.
-towards the circumference the light is Su rare as hardly
-to move the sense
-but towards the middle, where it is of greater density,
-and is sensible enough, it makes a small lucid circle, whose breadth varies
-breadth
-is
 
-to the splendor of the lucid point, but is generally about the 3d,
-or 4th, or 5th part of the breadth of the whole.
+Because of the unequal refrangibility of light, all lucid points are dilated by the telescope, and in the focus of the object-glass possess a circular space whose as about the 50th part of the aperture of the glass.
+
+Towards the circumference the light is so rare as hardly to move the sense. 
+
+But towards the middle, it is of greater density and is sensible enough. It makes a small lucid circle, whose breadth varies according to the splendor of the lucid point. But it is generally about the 3d, or 4th, or 5th part of the breadth of the whole.
+
 the small circle
 Let
 represent the circle of the whole light;
@@ -907,7 +858,7 @@ nourishment?
 From
 this consideration it will best
 appear that the
-weights of all the planets are one to another as their forces.THE SYSTEM OF THE WORLD.
+weights of all the planets are one to another as their forces.
 should be glad the diameters of the planets were more accurately
 and that may be done, if a lamp, set at a great distance, is made
 to shine through a circular hole, and both the hole and the light of the
@@ -1096,7 +1047,7 @@ the sun endeavours to come nearer together (by the Third Law of Mo
 tion
 tion)
 ;
-and by the action with which Jupiter attracts the sun, likewise Ju-THE SYSTEM OF THE WORLD.
+and by the action with which Jupiter attracts the sun, likewise Ju-
 527
 and the sun endeavor to come nearer together. But the sun is not
 attracted towards Jupiter by a twofold action, nor Jupiter by a twofold
@@ -1168,7 +1119,7 @@ placed near its surface;
 but so small a force could produce no sensible effect. If two such
 spheres
 were distant but by 1 of an inch,
-they would not, even in spaces void ofTHE SYSTEM OF THE WORLD.
+they would not, even in spaces void of
 528
 come together by the force of their mutual attraction in less
 s time
@@ -1285,7 +1236,7 @@ was broke into more globes, to be sure, these would no less attract.
 all
 the planets.
 Jupiter
-If JupiterTHE SYSTEM OF THE WORLD.
+If Jupiter
 3ne another than they do the satellites now.
 From
 529
@@ -1376,7 +1327,7 @@ above proved
 to the
 we have
 likewise before proved that all bodies are subject to530
-THE SYSTEM OF THE WORLD.
+
 the said
 common laws
 of attraction.
@@ -1505,7 +1456,7 @@ motion of
 the sun s place to any supposed time may be obtained.
 About the sun thus librated the other planets are revolved in elliptic
 orbits (p 403), and, by radii drawn to the sun, describe areas nearly pro
-If the sun was qui
+If the sun was quiscent he
 portional to the times, as is explained in Prop. LXV.
 did
 not
@@ -2365,7 +2316,7 @@ If the
 tides in the ocean
 greatest height of the waters to fall out in the middle time betwixt both,
 and the & Greater and lesser floods would make the waters to rise to a mean
-height in the middle time between them; and in the middle time betweenTHE SYSTEM OF THE WORLD.
+height in the middle time between them; and in the middle time between
 540
 the two lesser floods the waters would rise to their least height. Thus
 the space of twenty-four hours the waters would come, but once
@@ -2525,7 +2476,7 @@ mcihdy, and at
 Cambaia and Peyn.
 in the
 East Indies.
-In which places.THE SYSTEM OF THE WORLD.
+In which places.
 642
 the sea, hurried in and out with great violence, sometimes lays the shores
 under water, sometimes leaves them dry, for many miles. Nor is the force
@@ -2797,7 +2748,7 @@ number 25623053 to the number 25623052, and the height of the water
 But
 in the leg EC/ra to the difference of the heights, as 25623052 to 1.
 the height in the lea= EC/m is of 19615800 Pa rift feet, as hits been lately
-cate ratio of theTHE SYSTEM OF THE WORLD.
+cate ratio of the
 544
 found by the mensuration of the French ; and, therefore, by the preceding
 analogy, the difference of the heights comes out 9} inches of the Paris
@@ -3122,7 +3073,7 @@ in the
 motion of the waters, and by which their motion once be ^un
 35
 is
-keptTHE SYSTEM OF THE WORLD.
+kept
 546
 some time, there will be force enough
 we really find in the ocean.
@@ -3445,7 +3396,7 @@ motion continues swift
 way
 of the
 bodies go on nearly in great circles while their
-but about the end of their course, when that partTHE SYSTEM OF THE WORLD.
+but about the end of their course, when that part
 549
 of their apparent motion which arises from the parallax bears a greater
 proportion to their whole apparent motion, they commonly deviate from
@@ -3559,7 +3510,7 @@ magnitude and its head, or the star ID
 exceeding
 in
 to
-;THE SYSTEM OF THE WORLD.
+;
 550
 the middle of the coma, appeared, through a telescope oi 15 feet, as lucid
 but the diameter of the head was only 25&quot;
@@ -3656,7 +3607,7 @@ suffer from that plenty of thick smoke which encompasseth their heads.
 and through which the heads always shew dull as through a cloud for
 by how much the more a body is obscured by this smoke, by so much th.2
 more near it must be allowed to come to the sun, that it may vie with the
-;THE SYSTEM OF THE WORLD.
+;
 651
 whence it is probable
 planets in the quantity of light which it reflects
@@ -3752,7 +3703,7 @@ like a fiery
 tion they are seen in
 when
 their tails appear
-most resplendent; for whenTHE SYSTEM OF THE WORLD.
+most resplendent; for when
 the head passes by the sun, and lies hid under the solar rays, very bright
 ta Is, like fiery beams, are said to issue from the horizon; but
 afterwards, when the head begins to appear, and is got farther from the
@@ -3877,7 +3828,7 @@ Ah
 oriente
 enim cum tnaguo fulgore sur-
 omuia per lucid*
-hcmisp]icerii versus occideutcm,THE SYSTEM OF THE WORLD.
+hcmisp]icerii versus occideutcm,
 553
 the year 1401 or 1402, the sun being got below the horizon, there
 appeared in the west a bright and shining comet, sending out a tail up
@@ -3965,7 +3916,7 @@ To all these we may add the comet of 1680, whose wonderful splendor
 at the
 Hut so
 conjunction of the head with the sun was above described.
-itTHE SYSTEM OF THE WORLD.
+it
 554
 great a splendor argues the comets of this kind to have really passed near
 the fountain of light, especially since the tails never shine so much in
@@ -4081,7 +4032,7 @@ appeared like a star of the fourth
 Jan. 13. it disappeared, by reason of
 Jait. 3, it
 :
-tb&amp;lt;~THE SYSTEM OF THE WORLD.
+tb&amp;lt;~
 555
 Jan. 25, it was
 brightness of the moon, which was then in its increase.
@@ -4298,7 +4249,7 @@ without any tail, but that comets are seen sometimes
 yet more copious
 with huge tails when the light of their heads is but faint and dull for
 so it happened in the comet of the year 1680, when in the month of De-
-;THE SYSTEM OF THE WORLD.
+;
 557
 cember it was scarcely equal in light to the stars of the second magnitude
 and yet emitted a notable tail, extending to the length of 40, 50, 60. or
@@ -4424,7 +4375,7 @@ IMJ00000000000000001224, and 26950 xv
 AlR s
 Height.
 ciphers, as 0,xvii 1224 for
-for 26956000000000000000,THE SYSTEM OF THE WORLD.
+for 26956000000000000000,
 559
 of the rays of the sun s light, though those rays are not able sensibly to move
 the gross substances in our parts, which are clogged with so palpable a re
@@ -4650,7 +4601,7 @@ Then, because the tail is al
 in
 -
 stretched out towards the parts
-nearly opposite to the sun, and there! oreTHE SYSTEM OF THE WORLD.
+nearly opposite to the sun, and there! ore
 561
 the sun, the head of the comet, and the extremity of the
 Parallel to
@@ -4778,7 +4729,7 @@ appearance
 solar force, and therefore agitated by the impulse of that force, will (by
 Cor. 1, Prop. XII, Book I, for the same reason as the planets) be made tc
 36
-henceTHE SYSTEM OF THE WORLD.
+hence
 562
 move
 in conic sections that have one focus in
@@ -4898,7 +4849,7 @@ the
 d c^-n-
 L
 563564
-THE SYSTEM OF THE WORLD.
+
 The
 ingress 01 a comet into the sphere of the orbis magnus, or its
 from
@@ -5249,7 +5200,7 @@ hypothesis, will never agree with
 the motions of the comets from beginning to end.
 The method of fh*
 whole computation
-is this.THE SYSTEM OF THE WORLD.
+is this.
 LEMMA
 567
 I.
@@ -5354,7 +5305,7 @@ operation may be repeated
 length
 TP,
 will
-;THE SYSTEM OF THE WORLD.
+;
 668
 By arithmetic
 thus.
@@ -5588,7 +5539,7 @@ A
 in the duplicate ratio
 to the whole time between
 AF,5~0
-THE SYSTEM OF THE WORLD.
+
 and the longitude^ taken when the comet jnoves
 with the greatest velocity for thus the errors of the observation \s will
 bear a less proportion to the differences of the longitudes.
@@ -5697,8 +5648,7 @@ TR, and wp
 rr
 to rp.
 lie figure
-TrOTHE SYSTEM OF THE WORLD.
-571
+Tr
 likewise given both in magnitude and position, together with the dis
 ST, and the angles STR, PTR, STP. Let us assume the velocity
 of the comet in the place P to be to the velocity of a planet revolved
