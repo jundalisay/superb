@@ -22,7 +22,7 @@ These two elements are mixed with liquids and solids of <!-- water and earth in 
 <!-- But, in order better to make you understand my thought on this subject, and so that you will not think I want to force you to believe all the philosophers tell us about the elements, I should describe them to you in my fashion. -->
 
 
-### Athereal Fire
+## Athereal Fire
 
 My idea is that the first element is an aethereal fire. It is the most subtle and penetrating fluid in the universe. As a liquid, its parts are smaller and move much faster than those of other bodies. 
 
@@ -38,9 +38,7 @@ The impetuosity of their motion causes them to be divided by collision with othe
 <!-- , nor an angle so small, among the parts of other bodies, where the parts of this element do not penetrate without any difficulty and which they do not fill exactly.[20] -->
 
 
-<br>
-
-### Athereal  Air
+## Athereal  Air
 
 The second element is aethereal air. It is also a very subtle fluid compared to the third. But compared to fire, it has some size and shape to each of its parts. They are all round and joined together like grains of sand or dust. 
 
@@ -48,9 +46,9 @@ Thus, they cannot arrange themselves so well, nor so press against one another t
 
 This air cannot be so pure anywhere. There is always some fire with it.
 
-<br>
 
-### Athereal Earth
+
+## Athereal Earth
 
 The third and last element is aethereal earth. Its parts are much larger and move as much less swiftly compared to air as those of air are slower than those of fire. 
 
