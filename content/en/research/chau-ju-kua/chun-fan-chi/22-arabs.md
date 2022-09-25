@@ -31,46 +31,33 @@ The king wears a turban of silk brocade and foreign cotton.
 
 On each new moon and full moon, he puts on an eight-sided flat-topped headdress of pure gold, set with the most precious jewels in the world. His robe is of sik brocade and is bound around him with a jade girdle. 
 
-He wears golden shoes. His residence has pillars arc of  
-
-(Note= It
-as transparent
-is
-as crystal), the tiles of rock-crystal, the bricks of green stone
-(^ ^("jasper?),
-and the mortar of hvo stone (y^ ^). The curtains and screens are of brocade
-with rich designs woven in all kinds of colour in silk and pure gold thread.
+He wears golden shoes. His residence has:
+- pillars of cornelian stone
+- walls of lu-kan stone (It is as transparent as crystal)
+- tiles of rock-crystal
+- bricks of green stone (jasper?)
+- mortar of huo stone
+- curtains and screens of brocade with rich designs woven in all kinds of colour in silk and pure gold thread.
 
 
-The king's throne is set with pearls and precious stones, and the steps
-The various
-of the throne are covered with pure gold.
-around the throne are of gold or
-20 the screen behind
-screen,
-and
-it.
-silver,
-vessels
-and
-utensils
-and precious pearls are knotted in
-In great court ceremonies the king
-sits
-behind this
-on either side, protecting him, «the ministers of state surround
-him)) bearing golden bucklers
-and helmets and armed with precious swords.
-command of them has the
-^f); each
-of some twenty thousand horsemen. The horses are seven feet high
-and are shod
-His other 
-25
+The king's throne is set with pearls and precious stones.
+- The steps of the throne are covered with pure gold.
+- The vessels and utensils around the throne are of gold or silver
+- Precious pearls are knotted in the screen behind it.
+  - In great court ceremonies, the king sits behind this.
+  - On either side, the ministers of state surround him, protecting him. They bear golden bucklersand helmets and armed with precious swords.
+
+His other officers are called Tai-wei. 
+- Each of them command 20,000 horsemen.
+- The horses are 7 feet high and are shod with iron.
+- His army is brave and excels in all military exercises.
+
+
+
 (Note:
 moon he puts on an
 full
-cornelian stone, the walls of lu-kan stone (^|j
+ (^|j
 15
 falling to
 :f^), is an important centre for the trade of
@@ -78,41 +65,20 @@ falling to
 ^.
 snow
 much
-«officers are called
-with iron.
-Tai-wei
-His army
-is
-(^
-brave and excels in
-all
-military exercises.
 
-The
-is
-streets of the capital are
-more than
-broad; in the middle
-50 feet
-use of camels,
-a roadway twenty feet broad and four feet high for the
-convenience of
-for
-the
-and oxen carrying goods about. On either side,
-horses,
-30 pedestrians'
-business, there are sidewalks paved with green and black (or
-^
-blueish black,
-H)
-flagstones of surpassing beauty.
 
-The houses are like those of the Chinese, except they use instead of tiles
-difference that here thin flagstones (slates?) are
 
-The food
-85 strips of
+
+The streets of the capital are over 50 feet wide. These have sidewalks paved with green and black flagstones of surpassing beauty. These are for the convenience of the pedestrians' business.
+- In the middle is a roadway 20 feet wide for camels, horses, and oxen carrying goods about. 
+
+
+The houses are like those of the Chinese, except that they use thin flagstones instead of tiles.
+
+Their food consists of:
+- rice and other cereals. 
+- mutton strips of
+
 fraits
 is
 dough

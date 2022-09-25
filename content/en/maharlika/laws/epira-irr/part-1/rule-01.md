@@ -17,61 +17,62 @@ These Rules are promulgated under the authority of the DOE to formulate, in cons
 Participants and governmental authorities, including but not limited to: the
 DOE, NAPOCOR, NEA, ERC, and PSALM. -->
 
-### RULE 2. DECLARATION OF POLICY
+
+### Rule 2. Declaration Of Policy
 
 - Ensure and accelerate the total electrification of the country
 - Ensure the quality, reliability, security and affordability of electricity
-- Ensure transparent and reasonable prices of electricity in a regime of free and fair competition and full public accountability to achieve greater operational and economic efficiency, promote consumer choice and enhance the competitiveness of Philippine products in the global market
-- Enhance the inflow of private capital, participation in the attendant risks, and broaden the ownership base of the power generation, transmission and distribution sectors
-- Ensure fair and non-discriminatory treatment of public and private sector entities in the process of Restructuring the electric power industry
+- Ensure transparent and reasonable prices of electricity in a regime of free and fair competition and full public accountability to:
+  - achieve greater operational and economic efficiency
+  - promote consumer choice
+  - enhance the competitiveness of Philippine products in the global market
+- Enhance the inflow of private capital and participation in the attendant risks
+  - Broaden the ownership base of the power generation, transmission and distribution sectors
+- Ensure fair and non-discriminatory treatment of public and private sector entities while restructuring the power industry
 - Protect the public interest as it is affected by the rates and services of electric utilities and other providers of electric power
 - Assure socially and environmentally compatible energy sources and infrastructure
-- Promote the utilization of indigenous and new and renewable energy resources in power generation in order to reduce dependence on imported energy
-- Provide for an orderly and transparent Privatization of the assets and liabilities of the NAPOCOR
-- Establish a strong and purely independent regulatory body and system to ensure consumer protection and enhance the competitive operation of the electricity market
+- Promote the utilization of indigenous, new, and renewable energy resources to reduce dependence on imported energy
+- Provide for an orderly and transparent Privatization of NAPOCOR
+- Establish a strong and purely independent regulatory body and system to:
+  - ensure consumer protection
+  - enhance the competitive operation of the electricity market
 - Encourage the efficient use of energy and other modalities of Demand Side Management (DSM).
 
 
-### RULE 3: RESPONSIBILITIES OF THE DOE, ERC, NAPOCOR, NEA AND PSALM
+
+## Rule 3: Responsibilities Of The Doe, Erc, Napocor, Nea And Psalm
 
 Section 1. Responsibilities of the DOE.
 
-In addition to its existing powers and functions, the DOE shall supervise the
-Restructuring of the electricity industry and perform the following functions:
-(a) Formulate policies for the planning and implementation of a
-comprehensive program for the efficient supply and economical use of
-energy consistent with the approved national economic plan and with
-the policies on environmental protection and conservation and
-maintenance of ecological balance, and provide a mechanism for the
-integration, rationalization, and coordination of the various energy
-programs of the Government;
-(b) Develop and update annually the existing Philippine Energy Plan,
-hereinafter referred to as PEP, which shall provide for an integrated
-and comprehensive exploration, development, utilization, distribution,
-and conservation of energy resources, with preferential bias for
-environment-friendly, indigenous, and low-cost sources of energy.
-Page 2 of 100The PEP shall include a policy direction towards the Privatization of
-government agencies related to energy, deregulation of the power and
-energy industry, and reduction of dependency on oil-fired plants.
-Said PEP shall be submitted to Congress not later than the fifteenth
-(15 th ) day of September and every year thereafter;
-(c) Prepare and update annually a Power Development Program (PDP)
-and integrate the same into the PEP. The PDP shall consider and
-integrate the individual or joint development plans of the
-transmission, generation, and distribution sectors of the electric
-power industry which are submitted to the DOE: Provided, however,
-That the ERC shall have exclusive authority covering the Grid Code
-and the Distribution Code; and the pertinent rules and regulations it
-may issue. The DOE, following its approval of the Transmission
-Development Plan (TDP) prepared by the National Transmission
-Corporation (TRANSCO) or its Buyer or Concessionaire, shall integrate
-the TDP with the annual development plans of Distribution Utilities
-and NAPOCOR, and other relevant data as are available to DOE, which shall
-be incorporated in the PEP;
-(d) Ensure the reliability, quality and security of supply of electric power;
-(e) Following the Restructuring of the electricity sector, the DOE shall,
-among others:
-(i) Encourage private sector investments in the electricity sector
+In addition to its existing powers and functions, 
+
+The DOE shall supervise the Restructuring of the electricity industry and do the following:
+
+- a. Formulate policies for a comprehensive program for the efficient and economical energy supply consistent with:
+  - the national economic plan
+  - the policies on environmental protection and conservation of ecological balance
+  - a mechanism for the integration, rationalization, and coordination of the various energy programs of the Government
+
+- b. Develop and update annually the existing Philippine Energy Plan (PEP)
+
+The PEP:
+- details the integrated and comprehensive exploration, development, utilization, distribution, and conservation of energy resources, with preferential bias for environment-friendly, indigenous, and low-cost sources of energy.
+- includes a policy direction towards the Privatization of government agencies related to energy, deregulation of the power and energy industry, and reduction of dependency on oil-fired plants.
+- shall be submitted to Congress not later than Sept 15 annually.
+
+
+- c. Prepare and update annually a Power Development Program (PDP) and integrate the same into the PEP. 
+
+The PDP shall consider and integrate the individual or joint development plans of the transmission, generation, and distribution sectors of the electric power industry which are submitted to the DOE: Provided, however,
+That the ERC shall have exclusive authority covering the Grid Code and the Distribution Code; and the pertinent rules and regulations it may issue. 
+
+The DOE, following its approval of the Transmission Development Plan (TDP) prepared by the National Transmission
+Corporation (TRANSCO) or its Buyer or Concessionaire, shall integrate the TDP with the annual development plans of Distribution Utilities and NAPOCOR, and other relevant data as are available to DOE, which shall be incorporated in the PEP.
+
+- d.  Ensure the reliability, quality and security of supply of electric power
+- e. Following the Restructuring of the electricity sector, the DOE shall:
+
+  - i. Encourage private sector investments in the electricity sector
 and promote development of indigenous and Renewable Energy
 Sources including small-scale renewable energy generating
 sources;
@@ -142,30 +143,32 @@ proprietary or commercially sensitive information; and
 Page 4 of 100(r)
 Exercise such other powers as may be necessary or incidental to
 attain the objectives of the Act.
+
+
+
 Section 2. Responsibilities of the NAPOCOR.
-(a) Pursuant to Section 70 of the Act, notwithstanding the divestment
-and/or Privatization of NAPOCOR assets, IPP contracts and spun-off
-corporations, NAPOCOR shall remain as a National Government-owned and
-–controlled corporation to perform the missionary electrification
-function through the Small Power Utilities Group (SPUG) and shall be
-responsible for providing power generation and its associated power
-delivery systems in areas that are not connected to the transmission
+
+- a. Based on Section 70 of the Act, notwithstanding the divestment and/or Privatization of NAPOCOR assets, IPP contracts and spun-off corporations, NAPOCOR shall remain as a National Government-owned and –controlled corporation to perform the missionary electrification function through the Small Power Utilities Group (SPUG) and shall be responsible for providing power generation and its associated power delivery systems in areas that are not connected to the transmission
 system. The missionary electrification function shall be funded from
 the revenues from sales in missionary areas and from the Universal
 Charge to be collected from all electricity End-users as determined by
 the ERC.
+
 (b) Consistent with Section 34(d) of the Act, the NAPOCOR shall manage under
 existing arrangements, an environmental charge equivalent to
 P0.0025 per kilowatt-hour (kWh) sales, intended solely for the
 rehabilitation and management of watersheds nationwide.
-(c) Pursuant to Section 47(f) of the Act, NAPOCOR shall continue to operate
-Agus and Pulangui complexes, which shall be owned by PSALM.
+
+(c) Pursuant to Section 47(f) of the Act, NAPOCOR shall continue to operate Agus and Pulangui complexes, which shall be owned by PSALM.
+
 (d) Pursuant to Section 47(j) of the Act, NAPOCOR/PSALM may continue to
 generate and sell electricity only from the undisposed generating
 assets and IPP contracts of PSALM. NAPOCOR/PSALM shall not incur any
 new obligations to purchase power through bilateral contracts with
 Generation Companies or other Suppliers.
+
 Section 3. Responsibilities of the NEA.
+
 (a)
 NEA shall continue to be under the supervision of the DOE and shall
 exercise its functions under Presidential Decree No. 269, as amended
@@ -203,7 +206,9 @@ concerned LGU: Provided, That there is a Memorandum of Agreement
 (MOA) executed between the LGU and NEA: Provided, further, That the
 uncollected billings are supported by a certification issued by the
 Municipality/City or Provincial Treasurer.
+
 Section 4. Responsibilities of the ERC.
+
 (a) Pursuant to Section 43 of the Act, the ERC shall have the
 responsibility of promoting competition, encouraging market
 development, ensuring customer choice, and penalizing abuse of
@@ -324,23 +329,19 @@ The ERC shall conduct rate application hearings in the locality where
 the applicant is conducting its operations: Provided, That this
 requirement shall not apply to applications filed pursuant to Section
 36 of the Act.
+
+
 Section 5. Responsibilities of the PSALM.
-(a) Consistent with Section 49 of the Act, PSALM shall take ownership of
-all existing NAPOCOR generation assets, liabilities, IPP contracts, real estate
-and all other disposable assets. All outstanding obligations of NAPOCOR
-arising from loans, issuances of bonds, securities and other
-instruments of indebtedness shall be transferred to and assumed by
-PSALM.
-(b) The PSALM shall formulate and implement a program for the sale and
-Privatization of the NAPOCOR assets and IPP contracts and the liquidation
-of NAPOCOR Debts and Stranded Contract Costs in accordance with the
-Act.
-It shall calculate the amount of the Stranded Debts and Stranded
-Contract Costs of NAPOCOR, which amount shall form part of the Universal
-Charge to be determined, fixed, and approved by the ERC.
-(c)
-Pursuant to Section 60 of the Act, the PSALM shall assume all
-outstanding financial obligations of ECs to NEA and other government
-agencies arising from their respective Rural Electrification Program.
-This shall be done in accordance with the program duly approved by
-the President of the Philippines.
+
+(a) Consistent with Section 49 of the Act, PSALM shall owner all existing NAPOCOR generation assets, liabilities, IPP contracts, real estate and all other disposable assets. 
+
+All outstanding obligations of NAPOCOR arising from loans, issuances of bonds, securities and other instruments of indebtedness shall be transferred to and assumed by PSALM.
+
+(b) PSALM shall formulate and implement a program for the sale and Privatization of the NAPOCOR assets and IPP contracts and the liquidation of NAPOCOR Debts and Stranded Contract Costs in accordance with the Act.
+
+It shall calculate the amount of the Stranded Debts and Stranded Contract Costs of NAPOCOR, which amount shall form part of the Universal Charge to be determined, fixed, and approved by the ERC.
+
+(c) Pursuant to Section 60 of the Act, the PSALM shall assume all outstanding financial obligations of ECs to NEA and other government agencies arising from their respective Rural Electrification Program.
+
+<!-- This shall be done in accordance with the program duly approved by
+the President of the Philippines. -->

@@ -17,10 +17,10 @@ aliases:
 
 According to Socrates, all societies [have alternating cycles](/research/socrates/simple-republic/book-8/chapter-1) that begin with democracy that switches to tyranny, then aristocracy, then oligarchy, and finally back to democracy.
 
-1. A democracy is dominated by working-class people. Its positive aspect is social justice, while its negative is chaos and mob rule. This chaos leads people to want order, paving the way for tyranny
-2. A tyranny is dominated by warriors, leaders, and generals. Its positive aspect is peace and order, while its negative is abuse and corruption. This abuse leads people to want wisdom, paving the way for aristocrats
-3. An aristocracy is dominated by intellectuals. Its positive aspect is wisdom, and scientific and cultural advancement, while its negative is dogma and stagnation. This stagnation leads people to want material wealth, paving the way for oligarchs
-4. An oligarchy is dominated by speculators and businessmen. Its positive is material progress, its negative is inequality and environmental destruction. This injustice leads people to want justice, paving the way for democracy
+1. A democracy is dominated by **working-class people**. Its positive aspect is social justice, while its negative is chaos and mob rule. This chaos leads people to want order, paving the way for tyranny
+2. A tyranny is dominated by **warriors, leaders, and generals**. Its positive aspect is peace and order, while its negative is abuse and corruption. This abuse leads people to want wisdom, paving the way for aristocrats
+3. An aristocracy is dominated by **intellectuals and thinkers**. Its positive aspect is wisdom, and scientific and cultural advancement, while its negative is dogma and stagnation. This stagnation leads people to want material wealth, paving the way for oligarchs
+4. An oligarchy is dominated by **traders, speculators, and businessmen**. Its positive is material progress, its negative is inequality and environmental destruction. This injustice leads people to want justice, paving the way for democracy
 
 
 {{< quote ava="soc" >}}
@@ -31,10 +31,12 @@ How does oligarchy change into democracy? Is it wise or not?.. Democracy grandly
 
 The four classes and cycles mirror the four varnas of Hinduism:
 
-1. Shudras as the democrats
+1. Shudras as the workers
 2. Ksattriyas as warriors
-3. Brahmins as the aristocrat-intellectuals
-4. Vaesyas as the businessmen and merchants
+3. Brahmins as the thinkers, philosophers, and priests
+<!-- aristocrat-intellectuals -->
+4. Vaesyas as the traders and businessmen <!-- and merchants -->
+
 
 We then match them roughly to the modern classification:
 
@@ -138,7 +140,7 @@ Economic Superphysics, the subset of Social Superphysics, explains that the cycl
 
 1. The Working or Shudra class comes from [the First law of Value](/social/economics/principles/first-law)
 2. The Thinking or Brahmin class comes from [the Second law of Value](/social/economics/principles/second-law)
-3. The Business or Vaeshya class comes from the [the Third law of Value](/social/economics/principles/third-law)
+3. The Trading or Vaeshya class comes from the [the Third law of Value](/social/economics/principles/third-law)
 4. The Warrior or Ksattriya class comes from [the Fourth law of Value](/social/economics/principles/fourth-law)
 
 The thinking class is the closest to the metaphysical dimension while the worker class is the closest to physical dimenion. 
@@ -154,6 +156,6 @@ If you know things happen in a regular cycle, then you can predict what will hap
 
 We also have a [running list of predictions](/social/cycles/predictions/) to prove that cycles work and that we are inside a Matrix.
 
-We use these correct predictions to prove the solidity of the principles discovered by Socrates, David Hume, Hinduism, Buddhism, and Taoism. This is similar to how the solidity of Newtonian Physics was proven by the correct prediction of the arrival of Haley's comet. 
+We use these correct predictions to prove the solidity of the principles discovered by <!-- Francis Bacon, --> Socrates, David Hume, Hinduism, Buddhism, and Taoism. This is similar to how the solidity of Newtonian Physics was proven by the correct prediction of the arrival of Haley's comet.
 
 As a science, these cycles and laws of value unify Sociology and Economics by describing the causes of the dynamics of the soul of society.

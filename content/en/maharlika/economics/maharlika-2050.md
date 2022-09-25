@@ -4,10 +4,6 @@ heading: "Maharlikanism's Alternative to Ambisyon 2040"
 date: 2021-07-27
 image: "/graphics/bayanihan.jpg"
 description : "We fix the faulty Ambisyon 2040 through a 5-phase plan called Maharlika 2050 to industrialize the Philippines into Maharlika"
-linkb: "/maharlika/economics/dutertenomics"
-linkbtext: "dutertenomics"
-linkf: "/maharlika/economics/barter"
-linkftext: "Barter"
 author: Juan
 icon: "/flags/ph.png"
 ---
@@ -18,14 +14,15 @@ The [previous post](/maharlika/economics/dutertenomics) explained the problem wi
 
 ## Society Subsidizing the Rich
 
-The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/law-social-cycles). That class is made up of business and monied interests.
+The main flaw of that plan was that it catered to the merchant class of society and neglected [the other 3 classes](/social/supersociology/principles/part-1/chapter-05/). That class is made up of business and monied interests.
+
 
 Class | Socratic Name | Hindu Name | Example
 --- | --- | --- | ---
-Merchants | Oligarchs "The Few" | Vaesya | Businessmen, Banks, Traders
-Populists | Democrats "The Many" | Shudra | Workers, Employees, General labor (Farm labor, fishermen, maids, etc)
-Militants | Tyrants | Ksattriya | Government, Military, Police
-Philosophers | Aristocrats "The Best" | Brahmin | Universities, Researchers, Inventors, Religions 
+Traders | Oligarchs "The Few" | Vaesya | Businessmen, Banks, Traders
+Workers | Democrats "The Many" | Shudra | Workers, Employees, General labor (Farm labor, fishermen, maids, etc)
+Warriors | Tyrants | Ksattriya | Government, Military, Police
+Thinkers | Aristocrats "The Best" | Brahmin | Universities, Researchers, Inventors, Religions 
 
 
 A society needs all 4 classes to be in good shape just as a human body needs all its organs working properly. A weakness in one organ leads to disease or even death. 

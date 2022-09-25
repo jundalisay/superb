@@ -61,6 +61,7 @@ Cesare planned solid foundations for his future power. However, it failed throug
 
 Pope Alexander 6th wished to promote his son Cesare but had many immediate and prospective difficulties. 
 
+
 ### The only available state was the one belonging to the Church
 
 But he knew that the Duke of Milan and the Venetians would not allow it.
@@ -110,7 +111,7 @@ When Cesare occupied the Romagna he found it under the rule of weak masters, who
 <!-- So, wishing to bring back peace and obedience to authority, he considered it necessary to give it a good governor.  -->
 
 
-### His Cruel Reputation
+### Cesare Borgia's Cruel Reputation
 
 He promoted Ramiro d'Orco, an efficient and cruel man, to whom he gave the fullest power. In a short time, he restored peace and unity with great success. 
 
@@ -154,7 +155,7 @@ He no longer had to worry about France for they  were already driven out of Napl
 
 
 
-### Ill Health
+### Cesare Borgia's Ill Health
 
 The Florentines would have had no remedy if he succeeded. This is because <!-- , as he was succeeding the year that his father, Pope Alexander, died, because --> he would already have acquired so much power and reputation that he would have stood by himself. <!-- H would no longer have depended on the luck and the forces of others, but solely on his own power and ability. -->
 

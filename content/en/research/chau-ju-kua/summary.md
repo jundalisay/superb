@@ -6,9 +6,9 @@ description: "Summary of 12th century Countries"
 ---
 
 
-Country | Trade System
---- | ---
-Arabia | Money as Bullion
+Country | Trade System | Main Food | Top Exports | Top Imports
+--- | --- | --- | ---
+Arabia | Money as Bullion | Cereals, Mutton |  
 Brunei | Barter
 Cambodia | Barter
 China | Money
