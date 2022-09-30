@@ -1,17 +1,12 @@
 ---
 title: "The Tea-societies"
-date: 2022-04-30
+date: 2022-02-28
 image: /covers/travels.jpg
 description: "The value which the Japanese attach to vessels of this kind rests upon the use which is made of them by the mysterious tea societies called Cha-no-yu"
-linkTitle: "Chapter 15"
-linkb: "/research/jagor/ph/chapter-15"
-linkbtext: "Chapter 15"
-linkf: "/research/jagor/ph/chapter-15c"
-linkftext: "Chapter 15c"
+linkTitle: "Chapter 15b"
 author: Jagor
 icon: /graphics/flag.png
 ---
-
 
 
 The following certificate translated by the interpreter of the German Consulate shows how highly ancient pots, even of native origin, are esteemed in Japan up to the present:
@@ -55,7 +50,7 @@ One of the principal rules was to name no object in the cave
 without adding “Lord Calapnitan’s.” Thus they did not bluntly refer to either gun or torch, but devoutly said “Lord C.'s gun," or “Lord C.'s torch.” At a thousand paces from this lies another cave, “San Vicente,” which contains the same insects, but another kind of bat. Both caves are only of small extent; but in Libmánan a very large stalactite cave was mentioned to me, the description of which, notwithstanding the fables mixed up with it, could not but have a true foundation. Our guides feigned ignorance of it; and it was not till after two days' wandering about, and after many debates, that they came to the decision, since I adhered to my purpose, to encounter the risk; when, to my great astonishment, they conducted me back to Calapnitan's cave; from which a narrow fissure, hidden by a projection of rock, led into one of the most gorgeous stalactite caves in the world. Its floor was everywhere firm and easy to the tread, and mostly dry; and it ran out into several branches, the entire length of which probably exceeds a mile; and the whole series of royal chambers and cathedrals, with the columns, pulpits, and altars which it contained, reflected no discredit upon its description. No bones or other remains were to be found in it. My intention to return subsequently with labourers, for the purpose of systematic excavation, was not carried out.
 
 
-A YOUNG SCAMP.
+## A YOUNG SCAMP
 
 I was not lucky enough to reach the summit of the mountain, upon which was to be found a lake, “whence the water formerly came here.” For two days we laboured strenuously at different points to penetrate the thick forest; but the conductor, who had assured the cura in Libmánan that he knew the road, now expressed himself to the contrary effect. I therefore made the fellow, who had hitherto been unburdened, now carry a part of the baggage as a punishment; but he threw it off at the next turning of the road and escaped, so that we were compelled to return. Stags and wild boars are very numerous in these forests; and they formed the principal portion of our meals, at which, at the commencement of our expedition, we had as many as thirty individuals; who, in the intervals between them, affected to search for snails and insects for me, but with success not proportionate to their zeal.
 

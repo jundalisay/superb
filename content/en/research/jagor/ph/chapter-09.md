@@ -1,16 +1,13 @@
 ---
 title: "Mayon Volcano"
-date: 2022-04-30
+date: 2022-04-02
 image: /covers/travels.jpg
 description: "I rented a house in Darága, a well-to-do town of 20,000 at the foot of the Mayon volcano, 1.5 leagues from Legaspi"
 linkTitle: "Chapter 9"
-linkb: "/research/jagor/ph/chapter-08b"
-linkbtext: "Chapter 08b"
-linkf: "/research/jagor/ph/chapter-10"
-linkftext: "Chapter 10"
 author: Jagor
 icon: /graphics/flag.png
 ---
+
 
 
 <!-- THE VOLCANO OP MÁYON OR ALBAY, AND ITS ERUPTIONS.

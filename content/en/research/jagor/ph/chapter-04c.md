@@ -1,13 +1,9 @@
 ---
 title: "Colonial Taxation Policy"
-date: 2022-04-30
+date: 2022-04-18
 image: /covers/travels.jpg
 description: "The taxes laid on the Filipino natives were so trifling that they were not enough for the colonial administration."
 linkTitle: "Chapter 4"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---

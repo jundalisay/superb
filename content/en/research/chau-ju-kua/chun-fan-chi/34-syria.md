@@ -20,18 +20,9 @@ Farming |
 
 Lumei, also called Meiluku, is 300 stages west by land from Aden (Malopa). 
 
-The city wall is crooked, seven-fold, and built of large smooth flat black stones. Each wall is distant (from the adjoining one) a
-^
-thousand paces». «There are over three hundred foreign towers
-15 rets),
-among which
-is
-(^ ^
-abreast can be driven up. «It has three hundred and sixty rooms in
-of
-made
-is
-of coloured woollen stuffs
+The city wall is crooked, seven-fold, and built of large smooth flat black stones. Each wall is 1,000 paces from the adjoining one.  There are over 300 minarets. One of which is 800 feet tall which allows 4 horses abreast to pass through.
+
+It has 360 rooms in made of coloured woollen stuffs
 meat and meal
 20 families are
 are byssus

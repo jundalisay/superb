@@ -26,12 +26,10 @@ parameters q, attainable by experiment.
 
 These equations should conform to the principles of dynamics, and, in particular, to the principle of the conservation of energy, and to that of least action.
 
-The first of these two principles teaches us that the total energy is constant, and may be divided into 2 parts:—
+The first of these 2 principles teaches us that the total energy is constant, and may be divided into 2 parts:—
 
-1. Kinetic energy, or vis viva, which depends on the masses of the hypothetical molecules m, and on their
-velocities. This I shall call T. 
-2. The potential energy which depends only on the co-ordinates of these molecules, and this I shall call U. It is the sum of the
-energies T and U that is constant.
+1. Kinetic energy, or vis viva, which depends on the masses of the hypothetical molecules m, and on their velocities. This I shall call `T`. 
+2. The potential energy which depends only on the co-ordinates of these molecules, and this I shall call `U`. It is the sum of the energies T and U that is constant.
 
 Now what are we taught by the principle of least action? 
 
@@ -58,38 +56,26 @@ are the co-ordinates of the hypothetical molecules m; but
 I now assume that we take for the variables the parame-
 ters q, which are directly accessible to experiment.
 The two parts of the energy should then be expressed
-as a function of the parameters q and their derivatives;science and hypothesis
-244
-it is clear that it is under this form that they will appear
-to the experimenter. The latter will naturally endeavour
-to define kinetic and potential energy by the aid of quan-
-tities he can directly observe. 1 If this be granted, the
-system will always proceed from one position to another
-by such a path that the mean value of the action is a min-
-imum. It matters little that T and U are now expressed
-by the aid of the parameters q and their derivatives; it
-matters little that it is also by the aid of these param-
-eters that we define the initial and final positions; the
+as a function of the parameters q and their derivatives;
+
+It is clear that it is under this form that they will appear to the experimenter. The latter will naturally endeavour
+to define kinetic and potential energy by the aid of quantities he can directly observe. 1 If this be granted, the
+system will always proceed from one position to another by such a path that the mean value of the action is a min-
+imum. It matters little that T and U are now expressed by the aid of the parameters q and their derivatives; it
+matters little that it is also by the aid of these parameters that we define the initial and final positions; the
 principle of least action will always remain true.
-Now here again, of the whole of the paths which lead
-from one position to another, there is one and only one
-for which the mean action is a minimum. The principle
-of least action is therefore sufficient for the determination
-of the differential equations which define the variations
-of the parameters q. The equations thus obtained are
-another form of Lagrange’s equations.
-To form these equations we need not know the re-
-lations which connect the parameters q with the co-
-1
-We may add that U will depend only on the q parameters,
-that T will depend on them and their derivatives with respect to
-time, and will be a homogeneous polynomial of the second degree
-with respect to these derivatives.optics and electricity.
-245
-ordinates of the hypothetical molecules, nor the masses
-of the molecules, nor the expression of U as a function
-of the co-ordinates of these molecules. All we need know
-is the expression of U as a function of the parameters q,
+
+Now here again, of the whole of the paths which lead from one position to another, there is one and only one
+for which the mean action is a minimum. 
+
+The principle of least action is therefore sufficient for the determination of the differential equations which define the variations of the parameters q. 
+
+The equations thus obtained are another form of Lagrange’s equations.
+
+To form these equations we need not know the relations which connect the parameters q with the coordinates of the hypothetical molecules, nor the masses of the molecules, nor the expression of U as a function
+of the co-ordinates of these molecules. 
+
+All we need know is the expression of U as a function of the parameters q,
 and that of T as a function of the parameters q and
 their derivatives—i.e., the expressions of the kinetic and
 potential energy in terms of experimental data.
@@ -111,6 +97,12 @@ function of the parameters q and their derivatives; that
 it is a polynomial of the second degree with respect to
 its derivatives, and finally that the Lagrangian equations formed by the aid of these two functions T and U are
 in conformity with the data of the experiment. 
+
+We may add that:
+- `U` will depend only on the q parameters
+- `T` will depend on them and their derivatives with respect to time, and will be a homogeneous polynomial of the second degree with respect to these derivatives.
+
+
 
 How can we deduce from this a mechanical explanation? U must be regarded as the potential energy of a system of which
 T is the kinetic energy. There is no difficulty as far as U is concerned, but can T be regarded as the vis viva of
@@ -202,7 +194,4 @@ The same spirit is found throughout his whole work.
 He throws into relief the essential—i.e., what is common to all theories; everything that suits only a particular theory is passed over almost in silence. The reader therefore  finds himself in the presence of form nearly devoid of matter, which at first he is tempted to take as a fugi-
 tive and unassailable phantom. 
 
-But the efforts he is thus compelled to make force him to think, and eventually he
-sees that there is often something rather artificial in the
-theoretical “aggregates” which he once admired.
-
+But the efforts he is thus compelled to make force him to think, and eventually he sees that there is often something rather artificial in the theoretical “aggregates” which he once admired.

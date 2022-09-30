@@ -1,13 +1,9 @@
 ---
 title: "Sulphur Smelting"
-date: 2022-04-30
+date: 2022-02-02
 image: /covers/travels.jpg
 description: "The roof of the cavern is hung with stalactites, covered with solid sulphur."
 linkTitle: "Chapter 21"
-linkb: "/research/jagor/ph/chapter-20d"
-linkbtext: "Chapter 20d"
-linkf: "/research/jagor/ph/chapter-22"
-linkftext: "Chapter 22"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -15,7 +11,7 @@ icon: /graphics/flag.png
 
 <!-- THE ISLAND OF LEYTÉ.-LOCUSTS.- A SOLFATARA.-SULPHUR PRODUCE.-LAKE BITO. -->
 
-CROCODILES.
+## CROCODILES
 
 The island of Leyté <!-- , between 9° 49' and 11° 34' N., and 124° 7' and 125' 9' E. Gr., --> is over 25 miles long and almost 12 miles wide. It is 170 square miles.
 

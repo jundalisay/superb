@@ -1,13 +1,9 @@
 ---
 title: "Philippine Theater"
-date: 2022-04-30
+date: 2022-04-26
 image: /covers/travels.jpg
 description: "According to the report of an Englishman in 1828, the coffee-plant was almost unknown 40 years before, and was represented only by a few specimens in the Botanical Gardens at Manila"
 linkTitle: "Chapter 10"
-linkb: "/research/jagor/ph/chapter-10"
-linkbtext: "Chapter 10"
-linkf: "/research/jagor/ph/chapter-11"
-linkftext: "Chapter 11"
 author: Jagor
 icon: /graphics/flag.png
 ---

@@ -9,37 +9,28 @@ author: "Chau Ju Kua"
 
 
 
+
+Activity | Method
+--- | --- 
+Trade | Barter 
+Food | meal cakes, mutton, sheep's milk, fish and vegetables 
+Exports | horses, pearls and dates
+Imports | cloves, cardamom seeds and camphor
+
+
 Oman (Yung-man) resembles Wupa in terms of its people and soil. 
 
-Their chief wears a turban
-silk
+Their chief wears a turban and wraps himself in light silk but wears no garments and goes barefoot. 
 
-5 the products of the
-himself in light
-(or
-The
-soil.
+His servants wear no headdress and go barefoot. They wrap themselves in sarongs <!-- so that the body is covered -->.
 
-wrap&
-but wears no garments and goes barefooted. 
+They live on meal cakes, mutton, sheep's milk, fish and vegetables. 
 
-His servants
-wear no headdress and go barefooted, but they wrap themselves
-in sarongs
-(|§) so that the body is covered. They live on meal cakes, mutton, sheep's
-milk, fish and vegetables. The soil produces dates in large quantities. Along
-10 the
-coast pearls are found, and in the mountains horse raising
-on a large
-scale.
-The other
-is
-carried on
-countries which trade here purchase horses,
-pearls and dates which they get in exchange for cloves,
-cardamom
-seeds and
-camphor.
+The soil produces dates in large quantities. 
+
+Along the coast, pearls are found. In the mountains, horse raising is done on a large scale.
+
+The other countries purchase horses, pearls and dates for cloves, cardamom seeds and camphor.
 
 
 <!-- Note.
@@ -109,8 +100,8 @@ XXXIV. -->
 
 Activity | Method 
 --- | ---
-Trade | Barter
-Food |
+Trade | Money (gold, silver coins)
+Food | wheaten cakes, mutton, fish and dates
 
 
 Kishi is on a small island near the Arab coast, half a day away.
@@ -118,22 +109,13 @@ Kishi is on a small island near the Arab coast, half a day away.
 There are very few towns. When the king shows himself in he rides a horse and has a black umbrella over him; he
 public, accompanied by over 100 retainers.
 
-The people
-of the country are white
-and clean and eight
-feet tall.
-They
-wear their hair loose under a turban eight feet long, one half of which hangs
-down
-their back. Their clothing consists of a foreign-shaped jacket
-outer wrap of light silken or woollen
-stuff,
-5
-and an
-and red leather shoes. They make
-use of gold and silver coins. Their food consists of wheaten cakes, mutton,
-fish
-and dates. They do not eat rice.
+The Kishi people are white and clean and 8 feet tall.
+
+They wear their hair loose under a turban 8 feet long, half of which hangs down their back. Their clothing consists of a foreign-shaped jacket outer wrap of light silken or woollen stuff, and red leather shoes. 
+
+They use gold and silver coins. 
+
+Their food consists of wheaten cakes, mutton, fish and dates. They do not eat rice.
 
 They export pearls and fine horses.
 

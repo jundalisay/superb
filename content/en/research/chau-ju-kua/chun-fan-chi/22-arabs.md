@@ -1,7 +1,7 @@
 ---
 title: "Arabia (Tashi)"
 heading: "Chapter 22"
-date: 2022-01-01
+date: 2022-01-03
 description: "The Arabs are to the very far northwest of Guangzhou. This makes it hard for foreign ships to trade to it directly."
 image: "/flags/sa.png"
 author: "Chau Ju Kua"
@@ -67,8 +67,6 @@ snow
 much
 
 
-
-
 The streets of the capital are over 50 feet wide. These have sidewalks paved with green and black flagstones of surpassing beauty. These are for the convenience of the pedestrians' business.
 - In the middle is a roadway 20 feet wide for camels, horses, and oxen carrying goods about. 
 
@@ -82,7 +80,6 @@ Their food consists of:
 fraits
 is
 dough
-is
 and other cereals;
 
 mutton stewed with considered a delicacy. The poor live on
@@ -234,16 +231,16 @@ Its exports are:
 - myrrh
 - dragon's-blood
 - asofoetida
-- wu-na-isH, 
-- borax,
+- wu-na-ish 
+- borax
 - opaque and transparent glass,
-- rose-water, yellow wax,
-- nut-galls,
-tm-lo cottonades
-
-shell, coral, 
-- cat's-eyes
-soft
+- rose-water
+- yellow wax
+- nut-galls
+- tm-lo cottonades
+- shell
+- coral 
+- cat's-eyes 
 - gardenia flowers,
 - gold brocades
 - camel's-hair cloth,
@@ -1380,25 +1377,11 @@ This is where Mohammad was born. In the house of God, the walls are made of prec
 
 During the death anniversary of Mohammad, all the Arabs gather here where they bring presents of gold, silver, jewels and precious stones. Then the House is adorned anew with silk brocade.
 
-Farther there is the tomb of the Buddha. Continually by day and at this place such a brilliant refulgence
-is can approach
-there
-oif
-he who does
-it
+Farther there is the tomb of the Buddha. Continually by day and night, the tomb has such a brilliant refulgence that no one can approach it otherwise they go blind. 
 
-Whosoever
-from this tomb,
+Anyone who rubs his breast in the hour of his death with dirt taken from his tomb, they say, will be restored to life again by the power of the Buddha.
 
-that no one
-loses his sight.
-in the hour of his death rubs his breast with dirt taken
-will,
-they say, be restored to
-life
-again by the power of the
-Buddha.
-Note.
+<!-- Note.
 
 of
 The journey from Mirbat on the H^dramaut coast, through the Tehama (south-west coast
@@ -1554,7 +1537,17 @@ veils
 they guard their eyes with
 at once blinded by
 These eunuchs say that anyone who ventures to approach the tomb would be
-the supernatural light.
+the supernatural light. -->
+
+
+---
+title: "Bandar Abbas (Tsongpa)"
+heading: "Chapter 24"
+date: 2022-01-02
+description: "The Arabs are to the very far northwest of Guangzhou. This makes it hard for foreign ships to trade to it directly."
+image: "/flags/sa.png"
+author: "Chau Ju Kua"
+---
 
 
 ## 24. Bandar Abbas (Tsongpa)

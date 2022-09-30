@@ -1,19 +1,17 @@
 ---
 title: "The Impact of Catholicism"
-date: 2022-04-30
+date: 2022-04-19
 image: /covers/travels.jpg
-description: ""
-linkTitle: "Chapter 4"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
+description: "The lack of originality, which among the half-castes appears to arise from their equivocal position, is also to be found among the Indians"
+linkTitle: "Chapter 4b"
 author: Jagor
 icon: /graphics/flag.png
 ---
 
 
-The lack of originality, which among the half-castes appears to arise from their equivocal position, is also to be found among the Indians. Distinctly marked national customs, which one would naturally expect to find in such an isolated part of the world, are sought for in vain.
+The lack of originality among the half-castes appears to arise from their equivocal position. It is also found among the natives. 
+
+Distinctly marked national customs, which one would naturally expect to find in such an isolated part of the world, are sought for in vain.
 
 Spanish Catholicism forcibly expelled the civilisation of the Moors, <!-- and in Peru that of --> the Incas, and the Philippines. This was done by <!--  it has understood how to set aside an equally well founded one, by --> appropriating in an incredible manner<!-- , in order to take root itself the more quickly, --> all existing forms and abuses.*
 

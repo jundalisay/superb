@@ -19,26 +19,30 @@ No, I should not think of going away until the gathering in the market is disper
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-Of course, of course, you are naturally most careful not to forfeit the title they have given you of "honest gentleman"; (2) and yet, I daresay, fifty things at home are asking your attention at this moment; only you undertook to meet your foreign friends, and rather than play them false you go on waiting. 
+Of course, of course, you are naturally most careful not to forfeit the title they have given you of "honest gentleman". <!-- (2) --> Yet, 50 things at home are asking your attention at this moment. Only you undertook to meet your foreign friends, and rather than play them false you go on waiting.
 {{< /l >}}
 
 
 {{< r a="Ischomachus" >}}
-In no case will the things you speak of be neglected, since I have stewards and bailiffs on the farms. 
+<!-- In no case will the things you speak of be neglected, since  -->
+I have stewards and bailiffs on the farms who can take care of those.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
 How do you find a bailiff? 
 
-Do you search about, until you light on some one with a natural turn for stewardship; and then try to purchase him?—as, I feel certain, happens when you want a carpenter. 
+Do you search until you find someone with a natural turn for stewardship and then try to purchase him? For example, as when you want a carpenter.
 
-First, you discover some one with a turn for carpentry, and then do all you can to get possession of him. (4) Or do you educate your bailiffs yourself? (4) The steward, like the carpenter, and the labourers in general, would, as a rule, be a slave. See below, xxi. 9. 
+First, you discover someone with a turn for carpentry. Then you do all you can to get possession of him. (4) 
+
+Or do you educate your bailiffs yourself? (4)
+<!-- The steward, like the carpenter, and the labourers in general, would, as a rule, be a slave. See below, xxi. 9.  -->
 {{< /l >}}
 
 {{< r a="Ischomachus" >}}
-The latter. 
+**The latter.**
 
-I try to educate them, as you say, myself; and with good reason. He who is properly to fill my place and manage my affairs when I am absent, my "alter ego," (5) needs but to have my knowledge; and if I am fit myself to stand at the head of my own business, I presume I should be able to put another in possession of my knowledge. 
+I try to educate them myself. This is because he who fills my place and manages my affairs for me, my "alter ego," (5) needs but to have my knowledge. <!-- If I am fit myself to stand at the head of my own business, I presume I should be able to put another in possession of my knowledge. -->
 {{< /r >}}
 
 {{< l a="Socrates" >}}
@@ -46,7 +50,7 @@ The first thing he who is properly to take your place when absent must possess i
 {{< /l >}}
 
 {{< r a="Ischomachus" >}}
-None. A kindly disposition towards me and mine is precisely what I first endeavour to instill. 
+None. **A kindly disposition towards me and mine is precisely what I first endeavour to instill.**
 {{< /r >}}
 
 {{< l a="Socrates" >}}
@@ -69,7 +73,7 @@ Yes, for of all instruments to promote good feeling this I see to be the best.
 {{< l a="Socrates" >}}
 Granted the man is well disposed to you does it therefore follow, Ischomachus, that he is fit to be your bailiff? 
 
-It cannot have escaped your observation that albeit human beings, as a rule, are kindly disposed towards themselves, yet a large number of them will not apply the attention requisite to secure for themselves those good things which they fain would have. 
+It cannot have escaped your observation that albeit human beings, as a rule, are kindly disposed towards themselves, yet a large number of them will not apply the attention requisite to secure for themselves those good things which they fain would have.
 {{< /l >}}
 
 
@@ -117,7 +121,7 @@ Or, "where demands of business present themselves, and something must be done." 
 
 
 {{< l a="Socrates" >}}
-Soc. Well, and what of those addicted to another passion, that of gain? Are they, too, incapable of being trained to give attention to field and farming operations? 
+What of those addicted to<!--  another passion, that of --> gain? Are they, too, incapable of being trained to give attention to field and farming operations?
 {{< /l >}}
 
 
@@ -146,11 +150,13 @@ I do not think I ever knew or heard tell of a bad master blessed with good serva
 {{< r a="Ischomachus" >}}
 No, he who would create a spirit of carefulness in others must have the skill himself to supervise the field of labour. 
 
-To test, examine, scrutinise. 
+To test, examine, scrutinise.
 
 He must be ready to requite where due the favour of a service well performed, nor hesitate to visit the penalty of their deserts upon those neglectful of their duty. 
 
 The answer of the barbarian to the king seems aposite. 
 
-You know the story, how the king had met with a good horse, but wished to give the creature flesh and that without delay, and so asked some one reputed to be clever about horses= "What will give him flesh most quickly?" To which the other= "The master's eye." So, too, it strikes me, Socrates, there is nothing like "the master's eye" to call forth latent qualities, and turn the same to beautiful and good effect.
+You know the story, how the king had met with a good horse, but wished to give the creature flesh and that without delay, and so asked some one reputed to be clever about horses: "What will give him flesh most quickly?" To which the other: "The master's eye." 
+
+So, too, it strikes me, Socrates, there is nothing like "the master's eye" to call forth latent qualities, and turn the same to beautiful and good effect.
 {{< /r >}}

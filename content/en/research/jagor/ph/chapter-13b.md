@@ -1,15 +1,12 @@
 ---
 title: "Tribal People"
-date: 2022-04-30
+date: 2022-03-15
 image: /covers/travels.jpg
 description: "Manila lies 650 nautical miles south-east of Hongkong. A mail steamer can travel it in 3 to 4 days"
-linkb: "/research/jagor/ph/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/jagor/ph/chapter-01b"
-linkftext: "Chapter 1b"
 author: Jagor
 icon: /graphics/flag.png
 ---
+
 
 
 I rode from Bátu to Nábua over a good road in half an hour. The country was flat, with rice-fields on both sides of the road. 
@@ -32,7 +29,7 @@ None of these names, however, with the exception of the two last, are appropriat
 "Cimarron" is borrowed from the American slave colonies, where it denotes negroes who have escaped from slavery and are living in a state of freedom. But here, it is applied to natives who prefer a wild existence to the comforts of village life, which they consider are overbalanced by the servitude and bondage which accompany them. 
 "Remontado" explains itself, and has the same meaning as Cimarron.
 
-As the difference between the two states—on account of the mildness of the climate, and the ease with which the wants of the natives are supplied—is far less than it would be in Europe, these self-constituted exiles are more frequently to be met with than might be supposed ; 
+As the difference between the two states—on account of the mildness of the climate, and the ease with which the wants of the natives are supplied—is far less than it would be in Europe, these self-constituted exiles are more frequently to be met with than might be supposed
 
 the cause of their separation from their fellow-men sometimes being some offence against the laws, and sometimes a mere aversion to the duties and labours of village life. Every Indian has an innate inclination to abandon the hamlets and retire into the solitude of the woods, or live isolated in the midst of his own fields; and it is only the village prisons and the priests— the salaries of the latter are proportionate to the number of their parishioners- that prevent him from gradually turning the puéblos into visitas,* and the latter into ranchos. 
 
@@ -58,7 +55,9 @@ The following day I was the spectator of a gorgeous procession. First came the S
 
 * Perhaps the same reason induced the Chinese to purchase crucifixes at the time of their first intercourse with the Portuguese; for Pigafetta says: “The Chinese are white, wear clothes, and eat from tables. They also possess crucifixes, but it is difficult to say why or where they got them."
 
-A CHURCH FESTIVAL.
+
+## A CHURCH FESTIVAL
+
 
 This festival is celebrated every year in commemoration of the concession made by the Pope to the King of Spain, permitting the latter to appropriate to his own use certain revenues of the Church. The Spanish Throne consequently enjoys the right of conferring different indulgences, even for serious crimes, in the name of the Holy See. 
 

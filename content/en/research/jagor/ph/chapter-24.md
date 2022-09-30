@@ -1,13 +1,9 @@
 ---
 title: "Abacá or Manila Hemp"
-date: 2022-04-30
+date: 2022-01-18
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 24"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---

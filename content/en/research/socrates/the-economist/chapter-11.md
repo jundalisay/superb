@@ -14,31 +14,47 @@ I thanked Ischomachus for what he had told me on the occupations of his wife.
 {{< l a="Socrates" >}}
 The facts you mention reflect the greatest credit on both wife and husband. 
 
-But would you now in turn describe to me your work and business? 
+Can you describe<!--  to me --> your work and business? 
 
-In doing so you will have the pleasure of narrating the reason of your fame. And I, for my part, when I have heard from end to end the story of a beautiful and good man's works, if only my wits suffice and I have understood it, shall be much indebted. 
+<!-- In doing so you will have the pleasure of narrating the reason of your fame. And I, for my part, when I have heard from end to end the story of a beautiful and good man's works, if only my wits suffice and I have understood it, shall be much indebted.  -->
 {{< /l >}}
 
 
 
 {{< r a="Ischomachus" >}}
-Indeed (replied Ischomachus), it will give me the greatest pleasure to recount to you my daily occupations, and in return I beg you to reform me, where you find some flaw or other in my conduct. 
+I will be very glad <!-- give me the greatest pleasure --> to <!-- recount to --> tell you my daily occupations. In return, I beg you to reform me if you find some flaw in my conduct. 
 {{< /r >}}
 
 
 {{< l a="Socrates" >}}
-The idea of my reforming you! How could I with any show of justice hope to reform you, the perfect model of a beautiful, good man—I, who am but an empty babbler, and measurer of the air, who have to bear besides that most senseless imputation of being poor—an imputation which, I assure you, Ischomachus, would have reduced me to the veriest despair, except that the other day I chanced to come across the horse of Nicias, the foreigner? 
+The idea of my reforming you! 
 
-I saw a crowd of people in attendance staring, and I listened to a story which some one had to tell about the animal. So then I stepped up boldly to the groom and asked him, "Has the horse much wealth?" 
-
-The fellow looked at me as if I were hardly in my right mind to put the question, and retorted, "How can a horse have wealth?" Thereat I dared to lift my eyes from earth, on learning that after all it is permitted a poor penniless horse to be a noble animal, if nature only have endowed him with good spirit. 
-
-If, therefore, it is permitted even to me to be a good man, please recount to me your works from first to last, I promise, I will listen, all I can, and try to understand, and so far as in me lies to imitate you from to-morrow. To-morrow is a good day to commence a course of virtue, is it not?
+How could I <!-- with any show of justice --> hope to reform you, the perfect model of a beautiful, good man? I am but an empty babbler who is poor?  <!-- , and measurer of the air, who have to bear besides that most senseless imputation of being poor—an imputation which, I assure you, Ischomachus, would have reduced me to the veriest despair, except that the other day I chanced to come across the horse of Nicias, the foreigner?  -->
 {{< /l >}}
 
+A crowd started to gather. <!-- stare and --> I listened to a story from someone who mentioned about the horse of Nicias, the foreigner. <!--  some one had to tell about the animal. So then I stepped up boldly to the groom and asked him, --> I asked that person:
+
+{{< l a="Socrates" >}}
+Has the horse much wealth?
+{{< /l >}}
+
+{{< r a="Someone" >}}
+What an absurd question. How can a horse have wealth?
+{{< /r >}}
+
+From that point, I learned that the only thing needed by a poor penniless horse to be a noble animal is to have a good spirit.<!-- , if nature only have endowed him with good spirit.  -->
+
+<!-- If, therefore, it is permitted even to me to be a good man, please recount to me your works from first to last, I promise, I will listen, all I can, and try to understand, and so far as in me lies to imitate you from to-morrow. To-morrow is a good day to commence a course of virtue, is it not?
+{{< /l >}} -->
+
+
+
+## Ischomachus' Mentality
 
 {{< r a="Ischomachus" >}}
-Ischomachus= You are pleased to jest, Socrates. Unless a man first discover what he needs to do, and seriously study to bring the same to good effect, the gods have placed prosperity beyond his reach. Even to the wise and careful they give or they withhold good fortune as seems to them best. 
+You are kidding,<!--  pleased to jest, --> Socrates. 
+
+Unless a man first discover what he needs to do, and seriously study to bring the same to good effect, the gods have placed prosperity beyond his reach. Even to the wise and careful they give or they withhold good fortune as seems to them best. 
 
 Such being my creed, I begin with service rendered to the gods; and strive to regulate my conduct so that grace may be given me, in answer to my prayers, to attain to health, and strength of body, honour in my own city, goodwill among my friends, safety with renown in war, and of riches increase, won without reproach.
 {{< /r >}}
@@ -86,6 +102,9 @@ How do you practise the arts of war?
 How do you take pains to create a surplus which will enable you to benefit your friends and to gratify the state?
 {{< /l >}}
 
+
+
+## Ischomachus' Schedule
 
 {{< r a="Ischomachus" >}}
 My habit is to rise from bed betimes, when I may still expect to find at home this, that, or the other friend, whom I may wish to see.

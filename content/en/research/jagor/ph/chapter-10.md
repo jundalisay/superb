@@ -1,16 +1,13 @@
 ---
 title: "Philippine Cacao"
-date: 2022-04-30
+date: 2022-03-30
 image: /covers/travels.jpg
 description: "The best cacao of the Philippines is produced in the small island of Maripipi, which lies to the north-west of Leyté"
 linkTitle: "Chapter 10"
-linkb: "/research/jagor/ph/chapter-09"
-linkbtext: "Chapter 9"
-linkf: "/research/jagor/ph/chapter-10b"
-linkftext: "Chapter 10b"
 author: Jagor
 icon: /graphics/flag.png
 ---
+
 
 <!-- CACAO.-COFFEE.-RELIGIOUS FESTIVALS.-LIFE IN DARÁGA. -->
 

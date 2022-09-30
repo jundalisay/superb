@@ -1,13 +1,9 @@
 ---
 title: "Sugar and the Benefits of Free Trade"
-date: 2022-04-30
+date: 2022-01-20
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 23b"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---

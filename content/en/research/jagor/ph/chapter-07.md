@@ -1,13 +1,9 @@
 ---
 title: "Laguna"
-date: 2022-04-30
+date: 2022-04-10
 image: /covers/travels.jpg
 description: ""
-linkTitle: "Chapter 5"
-linkb: "/research/jagor/ph/chapter-06"
-linkbtext: "Chapter 6"
-linkf: "/research/jagor/ph/chapter-08"
-linkftext: "Chapter 8"
+linkTitle: "Chapter 7"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -76,7 +72,11 @@ found four eggs containing young crocodiles. When I broke the shells the little 
 
 Although the south-west monsoons generally occur later in Jalajala than in Manilla, it was already raining so hard that I decided to go to Calauan, on the southern shore of the lake, which is protected by the Maquiling, and does not experience the effect of the rainy monsoons till later in the season. I met M, De la Gironnière in Calauan, the “gentilhomme Breton ” who is so well known by his thrilling adventures. He had lately returned from Europe to establish a large sugar manufactory. His enterprise, however, was a failure. The house of the lively old gentleman, whose eccentricity had led him to adopt the dress and the frugal habits of the natives, was neither clean or well kept, although he had a couple of friends to assist him in the business, a Scotchman, and a young Frenchman who had lived in the most refined Parisian society.
 
-There were several small lakes and a few empty volcanic basins on the estate. To the south-west, not very far from the house, and to the left of the road leading to San Pablo, lies the Llanura de Imúc, a valley of dolerite more than a hundred feet deep. Large blocks of basalt enable one to climb down into the valley, the bottom of which is covered with dense growths. The centre of the basin is occupied by a neglected coffee plantation laid out by a former proprietor. The density of the vegetation prevented my taking more precise observations. I found another shallower volcanic crater to the north of it. Its soil was marshy and covered with cane and grass, but even in the rainy season it does not collect sufficient water to turn it into a lake. It might, therefore, be easily drained and cultivated. To the south-west of this basin, and to the right of the road to San Pablo, lies the Tigui-mere. From a plain of whitish-grey soil covered with concentric shells as large as a nut, rises a circular embankment with gently-sloping sides, intersected only by a small cleft which serves as an entrance, and which shows, on its edges denuded of vegetation, the loose rapilli of which the embankment is formed. The sides of this natural amphitheatre tower more than a hundred feet above its flat base. A path runs east and west right through the centre. The northern half is studded with cocoa-palm trees and cultivated plants; the southern portion is full of water nearly covered with green weeds and slime. The ground consists of black rapili.
+There were several small lakes and a few empty volcanic basins on the estate. To the south-west, not very far from the house, and to the left of the road leading to San Pablo, lies the Llanura de Imúc, a valley of dolerite more than a hundred feet deep. Large blocks of basalt enable one to climb down into the valley, the bottom of which is covered with dense growths. The centre of the basin is occupied by a neglected coffee plantation laid out by a former proprietor. The density of the vegetation prevented my taking more precise observations. 
+
+I found another shallower volcanic crater to the north of it. Its soil was marshy and covered with cane and grass, but even in the rainy season it does not collect sufficient water to turn it into a lake. It might, therefore, be easily drained and cultivated. To the south-west of this basin, and to the right of the road to San Pablo, lies the Tigui-mere. From a plain of whitish-grey soil covered with concentric shells as large as a nut, rises a circular embankment with gently-sloping sides, intersected only by a small cleft which serves as an entrance, and which shows, on its edges denuded of vegetation, the loose rapilli of which the embankment is formed. 
+
+The sides of this natural amphitheatre tower more than 100 feet above its flat base. A path runs east and west right through the centre. The northern half is studded with cocoa-palm trees and cultivated plants; the southern portion is full of water nearly covered with green weeds and slime. The ground consists of black rapili.
 
 From the Tigui-mere I returned to the hacienda along a bank formed of volcanic lava two feet in thickness and covered with indistinct impressions of leaves. Their state of preservation did not allow me to distinguish their species, but they certainly belonged to some tropical genus, and are, according to Professor A. Braun, of the same kind as those now growing there.
 
@@ -86,8 +86,10 @@ The first of the two, the Maycap Lake, is entirely embanked with the exception o
 
 Close by is another lake, that of Palakpakan, of nearly the same circumference, and formed in a similar manner (of black sand and rapilli). Its banks are from thirty to one hundred feet high. From its north-western edge San Cristoval lifts its head 70° to the north-east. Its waters are easily reached, and are much frequented by fishermen.
 
- [blocks in formation]
-About nine o'clock, A.M., I rode from Calauan to Píla, and then in a north-easterly direction to Santa Cruz, over even, broad, and well-kept roads, through a palm-grove a mile long and a mile and a half broad, which extends down to the very edge of the lagoons. These palm-trees produce brandy chiefly and not oil. Their fruit is not allowed to come to maturity ; but the buds are slit open, and the sweet sap is collected as it drips from them. It is then allowed to ferment, and subjected to distillation.* As the sap is collected twice a day, and as the blossoms, situated at the top of the tree, are forty or fifty feet above the ground, bamboos are fastened horizontally, one above the other, from one tree to another, to facilitate the necessary ascent and descent. The sap collector stands on the lower crosspiece while he holds on to the upper.
+
+About 9am I rode from Calauan to Píla, and then in a north-easterly direction to Santa Cruz, over even, broad, and well-kept roads, through a palm-grove a mile long and a mile and a half broad, which extends down to the very edge of the lagoons.
+
+These palm-trees produce brandy chiefly and not oil. Their fruit is not allowed to come to maturity ; but the buds are slit open, and the sweet sap is collected as it drips from them. It is then allowed to ferment, and subjected to distillation.* As the sap is collected twice a day, and as the blossoms, situated at the top of the tree, are forty or fifty feet above the ground, bamboos are fastened horizontally, one above the other, from one tree to another, to facilitate the necessary ascent and descent. The sap collector stands on the lower crosspiece while he holds on to the upper.
 
 The sale of palm - brandy was at the time of my visit the monopoly of the government, which retailed it in the Estanco (government sale rooms) with cigars, stamped paper, and religious indulgences. The manufacture was carried on by private individuals; but the whole of the brandy was of necessity disposed of to the administration, which, however, paid such a high price for it that the contractors made large profits.
 
@@ -103,9 +105,7 @@ Moreover, the imposition of this improper tax on the most important industry of 
 
 The natives now drank nothing but rum, so that at last, in self-defence, the government entirely abandoned the monopoly (January, 1864). 
 
-THE MAJAIJAI CONVENTO.
-
-
+## THE MAJAIJAI CONVENTO
 
 Since that, the rum manufacturers pay taxes according to the amount of their sales, but not upon the amount of their raw produce. In order to cover the deficit occasioned by the abandonment of the brandy monopoly, the government has made a small increase in the poll-tax. The practice of drinking brandy has naturally much increased; it is, however, a very old habit.* With this exception, the measure has had the most favourable consequences. - Santa Cruz is a lively, prosperous place (in 1865 it contained 11,385 inhabitants), through the centre of which runs a river, Although the day on which we passed through it was a Sunday, the stream was full of bathers, amongst them several women, their luxuriant hair covered with broad-brimmed hats to shade them from the sun. From the ford the road takes a sharp turn and inclines first to the east and then to the south-east, till it reaches
 

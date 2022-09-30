@@ -1,13 +1,9 @@
 ---
 title: "Native Priests"
-date: 2022-04-30
+date: 2022-03-16
 image: /covers/travels.jpg
 description: "The native priest of Bátu was full of complaints about his parishioners, who gave him no opportunities of gaining an honest penny."
 linkTitle: "Chapter 13"
-linkb: "/research/jagor/ph/chapter-12b"
-linkbtext: "Chapter 12b"
-linkf: "/research/jagor/ph/chapter-13b"
-linkftext: "Chatper 13b"
 author: Jagor
 icon: /graphics/flag.png
 ---

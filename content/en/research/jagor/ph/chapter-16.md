@@ -1,19 +1,16 @@
 ---
 title: "The Philippines"
-date: 2022-04-30
+date: 2022-02-24
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 16"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---
 
 
-JOURNEY ALONG THE COAST OF CAMARINES.—ENCROACHMENTS OF THE SEA.--
+
+## JOURNEY ALONG THE COAST OF CAMARINES.—ENCROACHMENTS OF THE SEA
 
 DESTROYED PALM FOREST.-PASACÁO.- BAD ROADS.
 
@@ -29,9 +26,7 @@ stamens, five inches long, with golden yellow anthers like tassels, depending fr
 
 The direction of the flat coast which extends N.N.W. to S.S.E.
 
-A COMMERCIAL WRECK.
-
-191
+## A COMMERCIAL WRECK
 
 from the point of Daét is here interrupted by the little peak of Colási, which projects to the east, and has grown so rapidly that all old people remember it to have been lower. In the Visita Colási, on the northern slope of the mountain, the sea is so rough that no boat can live in it. 
 
@@ -96,10 +91,12 @@ Here our boat floated along over gardens of coral, swarming with magnificently c
 
 On the river Calebáyan, on the further side of the point Tanáun, we came upon a solitary shed, our night-quarters. Here the limestone range is interrupted by an isolated cliff on the left bank of the little river, consisting of a crystalline rock chiefly composed of hornblende ; which moreover, on the side exposed to the water, is surrounded completely by limestone.
 
-DEFECTIVE COMMUNICATION.
 
+## DEFECTIVE COMMUNICATION
 
-The surrounding mountains must swarm with wild boars. Under the thatched roof of our hut, which serves as a shelter to occasional hunters, more than a hundred and fifty lower jaw-bones were set up as hunting trophies. The place appeared as if created for the breeding of cattle. Soft with fodder grass, and covered with a few groups of trees, with slopes intersected by rustling brooks, it rose up out of the sea, and was encompassed by a steep wall of rock in the form of a semicircle ; and here cattle would find grass, water, shade, and the protection of an enclosing circumvallation. While travelling along the coast, we had remarked a succession of similar localities, which however, from lack of enterprise and from the dread of pirates, were not utilised. As soon as our supper was prepared, we carefully extinguished our fire, that it might not serve as a signal to the vagabonds of the sea, and kept night watches.
+The surrounding mountains must swarm with wild boars. Under the thatched roof of our hut, which serves as a shelter to occasional hunters, more than a hundred and fifty lower jaw-bones were set up as hunting trophies. The place appeared as if created for the breeding of cattle. Soft with fodder grass, and covered with a few groups of trees, with slopes intersected by rustling brooks, it rose up out of the sea, and was encompassed by a steep wall of rock in the form of a semicircle ; and here cattle would find grass, water, shade, and the protection of an enclosing circumvallation. 
+
+While travelling along the coast, we had remarked a succession of similar localities, which however, from lack of enterprise and from the dread of pirates, were not utilised. As soon as our supper was prepared, we carefully extinguished our fire, that it might not serve as a signal to the vagabonds of the sea, and kept night watches.
 
 On the following morning we intended to visit a cave never before entered ; but, to our astonishment, we found no proper cavern, but only an entrance to a cavern a few feet in depth. Visible from a distance, it must often have been passed by the hunters, although, as we were assured by our companions—who were astonished at the delusion-no one had ventured to enter it from stress of superstitious terror.
 

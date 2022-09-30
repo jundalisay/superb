@@ -18,20 +18,13 @@ Their king is a direct successor of Mohammad, through 29 generations of 600-700 
 
 No Arab country has dared invade Ctesophon. 
 
+<!-- The other lands of the Ta-shi have waged war against each other. But none have dared to invade this country. -->
+
 When the king appears in public, he is covered by a black umbrella. Its handle is of gold and on the top is a jade lion with a golden moon on its back, shining like a star from afar. 
 
 The towns and markets are cut by well-made streets. The people live lavishly.
 
-
-«The other lands of the Ta-shi have waged war against each
-have dared to invade this country».
-15 him);
-to it
-^
-streets,
-and the people
-There is a great store of precious things and of satins. There is little rice, fish, and vegetables. The people eat cakes, meat and sulo 
-butter.
+There is a great store of precious things and of satins. There is little rice, fish, and vegetables. The people eat cakes, meat and sulo (butter).
 
 Its products are:
 - gold and silver
@@ -42,6 +35,7 @@ Its products are:
 The people like to wear turbans and clothes of fine snow-white cotton. Every seven days, they cut their hair and nails, and five times daily they pray.
 
 They are Muslims. The Caliphs are the descendants of the Prophet, and are foreigners visit to give them honor. 
+
 
 <!-- 
 Notes.

@@ -51,7 +51,9 @@ Whereas the royal code aims higher: by it not only is the malefactor punished, b
 
 <!-- (9) (3) Cobet, "Pros. Xen." cf. Plut. "Solon," xvii. {proton men oun tous Drakontos nomous aneile k.t.l.} "First, then, he repealed all Draco's laws, except those concerning homicide, because they were too severe and the punishments too great; for death was appointed for almost all offences, insomuch that those that were convicted of idleness were to die, and those that stole a cabbage or an apple to suffer even as villains that committed sacrilege or murder" (Clough, i. 184). See Aul. Gell. "N. A." xi. 13.  -->
 
-Those of my household (he proceeded) whom, in spite of kindly treatment, I perceive to be persistently bent on evil-doing, in the end I treat as desperate cases. Incurable self-seekers, (10) plain enough to see, whose aspiration lifts them from earth, so eager are they to be reckoned just men, not by reason only of the gain derivable from justice, but through passionate desire to deserve my praise—these in the end I treat as free-born men. I make them wealthy, and not with riches only, but in honour, as befits their gentle manliness. (11)
+Those of my household (he proceeded) whom, in spite of kindly treatment, I perceive to be persistently bent on evil-doing, in the end I treat as desperate cases. 
+
+Incurable self-seekers, (10) plain enough to see, whose aspiration lifts them from earth, so eager are they to be reckoned just men, not by reason only of the gain derivable from justice, but through passionate desire to deserve my praise—these in the end I treat as free-born men. I make them wealthy, and not with riches only, but in honour, as befits their gentle manliness. (11)
 
 For if, Socrates, there be one point in which the man who thirsts for honour differs from him who thirsts for gain, it is, I think, in willingness to toil, face danger, and abstain from shameful gains—for the sake of honour only and fair fame. (12) 
 

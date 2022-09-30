@@ -1,13 +1,9 @@
 ---
 title: "Japanese and Their Earthen Jars"
-date: 2022-04-30
+date: 2022-03-01
 image: /covers/travels.jpg
 description: "The Datu of Tamparuli (Borneo) gave rice to the value of almost £700 for a jar, and that he possessed a second jar of almost fabulous value, which was about two feet high, and of a dark olive green"
 linkTitle: "Chapter 15"
-linkb: "/research/jagor/ph/chapter-14d"
-linkbtext: "Chapter 14d"
-linkf: "/research/jagor/ph/chapter-15b"
-linkftext: "Chapter 15b"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -51,7 +47,7 @@ An urn, with a human skeleton, was found at the mouth of the Pérlos, west of S�
 At the time when I wrote down these statements of the pastor, neither of us was familiar with the discoveries made within the last few years relating to the lake dwellings (pile villages) ; or these notes might have been more exact, although probably they would not have been so easy and natural.
 
 
-PRE-HISTORIC REMAINS
+## PRE-HISTORIC REMAINS
 
 * Probably pot-stone, which is employed in China in the manufacture of cheap ornaments. Gypseous refers probably only to the degree of hardness.
 

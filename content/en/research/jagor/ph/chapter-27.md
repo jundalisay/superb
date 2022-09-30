@@ -1,12 +1,8 @@
 ---
 title: "Commercial Relations"
-date: 2022-04-30
+date: 2022-01-06
 image: /covers/travels.jpg
 description: ""
-linkb: "/research/jagor/ph/chapter-26"
-linkbtext: "chapter-26"
-linkf: "/research/jagor/ph/chapter-27b"
-linkftext: "chapter-27b"
 author: Jagor
 icon: /graphics/flag.png
 ---

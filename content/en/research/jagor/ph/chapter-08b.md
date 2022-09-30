@@ -1,13 +1,9 @@
 ---
 title: "Legaspi in Albay"
-date: 2022-04-30
+date: 2022-04-04
 image: /covers/travels.jpg
 description: "The traffic between Manilla and Legaspi is at its height between January and October. But during the autumn months, all communication by water ceases"
 linkTitle: "Chapter 8b"
-linkb: "/research/jagor/ph/chapter-08"
-linkbtext: "Chapter 8"
-linkf: "/research/jagor/ph/chapter-09"
-linkftext: "Chapter 9"
 author: Jagor
 icon: /graphics/flag.png
 ---

@@ -1,13 +1,9 @@
 ---
 title: "Sesal or Sesal-hemp"
-date: 2022-04-30
+date: 2022-01-16
 image: /covers/travels.jpg
 description: "Sesal, or sesal-hemp is known as Mexican grass. For some years past, it been used increasingly as a substitute for abaca"
 linkTitle: "Chapter 24b"
-linkb: "/research/jagor/ph/chapter-24"
-linkbtext: "Chapter 24"
-linkf: "/research/jagor/ph/chapter-25"
-linkftext: "Chapter 25"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -76,8 +72,8 @@ The Tropical Fibre Company have sent these machines to Demerara, also to Java an
 
 It does not appear, however, that these promising experiments have led to any important results; at least, the consular reports which have come to hand contain no information on the subject. In the obtaining of bandála in the Philippines this machine has not yet been used ; nor has it even been seen, though the English consul, in his latest report, complains that all the hitherto ingeniously constructed machines have proved virtually useless. The bast of the edible banana continues still to be used in the Philippines, notwithstanding that the plants, instead of being grown, as in many parts of America, in large well-tended gardens, are here scattered around the huts : but the forwarding of the raw material, the local transport, and the high freightage will always render this material too expensive for the European market (considering always its very ordinary quality)-£10 per ton at the very least; 
 
-PAPER MATERIAL.
 
+## PAPER MATERIAL
 
 while “Sparto grass” (Lygieum spartum, Læffl.), which was imported some few years since in considerable quantities for paper-making, costs in London only £5 per ton.*
 

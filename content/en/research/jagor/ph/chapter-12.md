@@ -1,13 +1,9 @@
 ---
 title: "The Spanish Priests"
-date: 2022-04-30
+date: 2022-03-20
 image: /covers/travels.jpg
 description: "Most of the priests in the eastern provinces of Luzon and Samar are Franciscan monks, brought up in seminaries in Spain specially devoted to the colonial missions"
 linkTitle: "Chapter 12"
-linkb: "/research/jagor/ph/chapter-11"
-linkbtext: "Chapter 11"
-linkf: "/research/jagor/ph/chapter-12b"
-linkftext: "Chapter 12b"
 author: Jagor
 icon: /graphics/flag.png
 ---

@@ -44,14 +44,14 @@ admit that  -->
 
 
 
-### Gravitational Mass vs Inertial Mass
+## Gravitational Mass vs Inertial Mass
 
 GR is based on the law of the equality of inertial and gravitational mass. <!-- We must note carefully that the possibility of this mode of interpretation rests --> 
 
 {{< c v="red" >}} This law is the fundamental property of the gravitational field that gives all bodies the same acceleration*.{{< /c >}}
 
 
-> *Superphysics Note=  G to Newton was based on gravitational mass. But G to Einstein is based on both inertia and gravitational mass which he imposes as a new law of gravity, instead of as another theory.  
+> *Superphysics Note: G to Newton was based on gravitational mass. But G to Einstein is based on both inertia and gravitational mass which he imposes as a new law of gravity, instead of as another theory.  
 
 
 If this natural law did not exist, the man in the moving box= 

@@ -1,12 +1,8 @@
 ---
 title: "Communication Between Hongkong and Spain"
-date: 2022-04-30
+date: 2022-04-29
 image: /covers/travels.jpg
 description: "Manila lies 650 nautical miles south-east of Hongkong. A mail steamer can travel it in 3 to 4 days"
-linkb: "/research/jagor/ph/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/jagor/ph/chapter-01b"
-linkftext: "Chapter 1b"
 author: Jagor
 icon: /graphics/flag.png
 ---

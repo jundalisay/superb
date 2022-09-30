@@ -38,7 +38,7 @@ R^2 = 2 / κρ
 The use of the C.G.S. system in this equation gives
 
 ``` elixir
-2 / κ = = 1.08.10^27 ;
+2 / κ = = 1.08.10^27
 ```
 
 `ρ` is the average density of the matter.

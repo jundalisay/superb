@@ -1,16 +1,13 @@
 ---
 title: "Lucban"
-date: 2022-04-30
+date: 2022-04-08
 image: /covers/travels.jpg
 description: "The province of Bulacan is on the northern shore of Manila Bay"
 linkTitle: "Chapter 6"
-linkb: "/research/jagor/ph/chapter-05"
-linkbtext: "Chapter 5"
-linkf: "/research/jagor/ph/chapter-06b"
-linkftext: "Chapter 6b"
 author: Jagor
 icon: /graphics/flag.png
 ---
+
 
 ## Lucban
 
@@ -30,7 +27,7 @@ The entire road is covered with cement. Along its centre flows, in an open chann
 * A number of the Illustrated London News, of December 1857 or January 1858, contains a clever drawing, by an accomplished artist, of the mode of travelling over this road, under the title, “A Macadamized road in Manila."
 
 
-TRIBUNAL ACCOMMODATION.
+## TRIBUNAL ACCOMMODATION
 
 The road from Lucban to Mauban, which is situated in the bay of Lamon, opposite to the island of Alabát, winds along the narrow watercourse of the Mápon river, through deep ravines with perpendicular cliffs of clay. I observed several terraceformed rice-fields similar to those so prevalent in Java, an infrequent sight in the Philippines. 
 
@@ -58,7 +55,7 @@ When I awoke on the following morning there were already so many people stirring
 My friendly host carried on no trifling business. Two English ships were at that moment in the harbour, which he was about to send to China laden with moláre, a species of wood akin to teak.
 
 
-THE BANAJAO VOLCANO.
+## THE BANAJAO VOLCANO
 
 
 On my return, I visited the fine waterfall of Butúcan, between Mauban and Lucban, a little apart from the high road. 
@@ -93,7 +90,8 @@ I sent for some oil, to give me a little light, and something to eat. The women 
 
 The next morning I crossed the river, teeming with joyous bathers, to Santa Cruz, and hired a boat there to take me across the lake to Pasig, and from thence to Manilla. A contrary wind, however, forced us to land on the promontory of Jalajala, and there wait for the calm that accompanies the dawn. Betwixt the 
 
-TRACES OF EARTHQUAKES.
+
+## TRACES OF EARTHQUAKES
 
 * Erd and Pickering, of the United States exploring expedition, determined the height to be 6,500 English feet (7,143 Spanish), not an unsatisfactory result, considering the imperfect means they possessed for making a proper measurement. 
 

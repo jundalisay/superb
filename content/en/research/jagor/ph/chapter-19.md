@@ -1,22 +1,16 @@
 ---
 title: "The Philippines"
-date: 2022-04-30
+date: 2022-02-14
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 19"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---
 
 
 
-TRAVELS IN SÁMAR.- WEATHER.-ELECTION OF OFFICIALS.-NORTH COAST.-CÁTBA
-
-LOGAN.--THE FLYING LEMUR.--SERPENT TAMERS.-TERTIARY PETRIFACTIONE. — THE RAPIDS OF THE LOQUILÓcun.-THE MAGO.
+## TRAVELS IN SÁMAR.- WEATHER.-ELECTION OF OFFICIALS.-NORTH COAST.-CÁTBA LOGAN.--THE FLYING LEMUR.--SERPENT TAMERS.-TERTIARY PETRIFACTIONE. — THE RAPIDS OF THE LOQUILÓcun.-THE MAGO.
 
 <!-- The island of Sámar, which is of nearly rhomboidal outline, and with few indentations on its coasts, stretches from the north-west to the south-east from 12° 37' to 10° 54' N.; its mean length being twenty-two miles, its breadth eleven, and its area two hundred and twenty square miles. It is separated on the south by the small strait of San Juanico from the island of Leyté, with which it was formerly united into one province.  -->
 
@@ -88,8 +82,8 @@ The place is beautifully situated. But the houses are not so frequently as forme
 
 Dirt and a filthy existence form a better protection than tight garments. The inhabitants of Láuang rightly, indeed, enjoy the reputation of being very idle. Their industry is limited to a little tillage, even fishing being so neglected that frequently there is a scarcity of fish. In the absence of roads by land, there is hardly any communication by water; and trade is mostly carried on by mariners from Catbalogan, who exchange the surplus of the harvests for other produce.
 
-ELECTION OF OFFICIALS.
 
+## ELECTION OF OFFICIALS
 
 From the convent, a view is had of part of the island of Sámar, the mountain forms of which appear to be a continuation of the horizontal strata. In the centre of the district, at the distance of some miles, a table mountain, famous in the history of the country, towers aloft. 
 
@@ -111,7 +105,7 @@ After the reading of the statutes by the president, who exhorts the electors to 
 
 to the approval of the superior jurisdiction at Manila ; which, however, always consents, for the influence of the cura would provide against a disagreeable election. The election of the other functionaries takes place in the same manner, after the new gobernadorcillo has been first summoned into the hall, in order that, if he have any important objections to the officers then
 
-A PERILOUS JOURNEY.
+## A PERILOUS JOURNEY
 
 about to be elected, he may be able to make them. The whole affair was conducted very quietly and with dignity.*
 
@@ -138,8 +132,7 @@ hours, exclusive of the two hours' rest at noon, and though somewhat tired were 
 
 At half-past two we set out on the road over the Salta Sangley (Chinese leap) to. Tragbúcan, which, distant about a mile in a straight line, is situated at the place where the Calbayot, which debouches on the west coast at point Hibáton, becomes navigable for small boats. By means of these two rivers and the short but troublesome road, a communication exists between the important stations of Catárman on the north coast, and Calbáyot on the west coast. 
 
-A WATER JOURNEY.
-
+## A WATER JOURNEY
 
 The road, which at its best part is a small path in the thick wood uninvaded by the sun, and frequently is only a track, passes over slippery ridges of clay, disappearing in the mud puddles in the intervening hollows, and sometimes running into the bed of the brooks. The water-shed between the Catárman and Calbáyot is formed by the Salta Sangley already mentioned, a flat ridge composed of banks of clay and sandstone, which succeed one another ladder-wise downwards on both its sides, and from which the water collected at the top descends in little cascades. In the most difficult places rough ladders of bamboo are fixed. I counted fifteen brooks on the north-east side which feed the Catárman, and about the same number of feeders of the Calbayot on the south-west side. About forty minutes past four we reached the highest point of the Salta Sangley, about ninety feet above the sea ; and at half-past six we got to a stream, the highest part of the Calbayot, in the bed of which we wandered until its increasing depth forced us, in the dark, laboriously to beat out our path through the underwood to its bank ; and about eight o'clock we found ourselves opposite the visita Tragbúcan. The river at this place was already six feet deep, and there was not a boat. After shouting entreaties and threats for a long time, the people, who were startled out of sleep by the report from a revolver, agreed to construct a raft of bamboo, on which they placed ourselves and our baggage. The little place, which consists of only a few poor huts, is prettily situated, surrounded as it is by wooded hillocks on a plateau of sand fifty feet above the reed-bordered river.
 

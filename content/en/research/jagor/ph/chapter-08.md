@@ -1,13 +1,9 @@
 ---
 title: "The San Bernardino Straits"
-date: 2022-04-30
+date: 2022-04-06
 image: /covers/travels.jpg
 description: "We turned northwards and sailed up the straits of San Bernardino, which separate Luzon from Sámar"
 linkTitle: "Chapter 8"
-linkb: "/research/jagor/ph/chapter-07b"
-linkbtext: "Chapter 7b"
-linkf: "/research/jagor/ph/chapter-08b"
-linkftext: "Chapter 8b"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -21,7 +17,9 @@ Towards the end of August I started from Manila for Albáy in a schooner which h
 
 It was fine when we set sail; but on the following day the signs of a coming storm increased so rapidly that the captain resolved to return and seek protection in the small but secure harbour of Marivéles, a creek on the southern shore of Bataan, the province forming the western boundary of the bay of Manilla. We reached it about two o'clock in the night, after cruising about for fourteen hours in search of the entrance ; and we were obliged to remain here at anchor for a fortnight, as it rained and stormed Negrito of Marivéles. The back of his head is shor; and he continuously for that period.
 
-The weather obliged me to limit my excursions to the immediate neighbourhood of Marivéles. Unfortunately it was not till the close of our stay that I learnt that there was a colony of negritos in the mountains; and it was not till just before my departure that I got a chance of seeing and sketching a couple of them, male and female. The inhabitants of Marivéles have not a very good reputation. The place is only visited by ships which run in there in bad weather, when their idle crews spend the time in drinking and gambling. 
+The weather obliged me to limit my excursions to the immediate neighbourhood of Marivéles. Unfortunately it was not till the close of our stay that I learnt that there was a colony of negritos in the mountains; and it was not till just before my departure that I got a chance of seeing and sketching a couple of them, male and female. 
+
+The inhabitants of Marivéles have not a very good reputation. The place is only visited by ships which run in there in bad weather, when their idle crews spend the time in drinking and gambling. 
 
 Some of the young girls were of striking beauty and of quite a light colour; often being in reality of mixed race, though they passed as of pure Tagal blood. 
 
@@ -29,7 +27,8 @@ This is a circumstance I have observed in many sea-ports, and in the neighbourho
 
 The back of his head is shorn ; and he wears gaiters of wild boar's bristles.
 
-FAIR NATIVES.
+
+## FAIR NATIVES
 
 The number of ships which were seeking protection from the weather in this port amounted to ten, of which three were schooners. Every morning regularly a small pontin* used to * From ponte, deck; a two-masted vessel, with mat sails, of about 100 tons burden. attempt to set sail; but it scarcely got outside into the open sea before it returned, when it was saluted with the jeers and laughter of the others. It was hunger that made them so bold. 
 
@@ -67,18 +66,19 @@ The current is so powerful in the straits of San Bernardino that we were obliged
 
 <!-- * Estado Geogr., p. 314. -->
 
-A NATIVE SKIPPER.
-
-
 evening. Our skipper, a Spaniard, had determined to accomplish the trip as rapidly as possible.
 
-On my return voyage, however, I fell into the hands of a native captain ; and, as my cruise under his auspices presented many peculiarities, I may quote a few passages relating to it from my diary. .... 
 
-The skipper intended to have taken a stock of vegetables for my use, but he had forgot them. He therefore landed on a small island, and presently made his reappearance with a huge palm cabbage, which, in the absence of its owner, he had picked from a tree he cut down for the purpose. .... 
+## A NATIVE SKIPPER
+
+On my return voyage, however, I fell into the hands of a native captain ; and, as my cruise under his auspices presented many peculiarities, I may quote a few passages relating to it from my diary.
+
+The skipper intended to have taken a stock of vegetables for my use, but he had forgot them. He therefore landed on a small island, and presently made his reappearance with a huge palm cabbage, which, in the absence of its owner, he had picked from a tree he cut down for the purpose.
 
 On another occasion the crew made a descent upon a hamlet on the north-western coast of Leyté to purchase provisions. Instead of laying in a stock for the voyage at Tacloban, the sailors preferred doing so at some smaller village on the shores of the straits, where food is cheaper, and where their landing gave them a pretext to run about the country. The straits of San Juanico, never more than a mile, and often only a thousand feet broad, are about twenty miles in length: yet it often takes a vessel a week to sail up them ; for contrary winds and an adverse current force it to anchor frequently, and to lie to for whole nights in the narrower places. 
 
 Towards evening our captain thought that the sky appeared very threatening, so he made for the bay of Návo, off Masbáte. There he anchored, and a part of the crew went on shore. The next day was a Sunday; the captain thought “ the sky still appeared very threatening ;” and besides he wanted to make some purchases. So we anchored again off Magdalena, where we passed the night.
+
 
 ## Elefante
 

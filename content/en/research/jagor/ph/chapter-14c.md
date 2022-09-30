@@ -1,16 +1,13 @@
 ---
 title: "The Domestic Philippine Economy"
-date: 2022-04-30
+date: 2022-03-05
 image: /covers/travels.jpg
 description: ""
-linkTitle: "Chapter 14"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
+linkTitle: "Chapter 14C"
 author: Jagor
 icon: /flags/ph.png
 ---
+
 
 
 The details of domestic economy may be narrated as follows:

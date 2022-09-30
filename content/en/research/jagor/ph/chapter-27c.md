@@ -1,12 +1,8 @@
 ---
 title: "Juan de Salcédo"
-date: 2022-04-30
+date: 2022-01-02
 image: /covers/travels.jpg
 description: "Juan de Salcédo was the most illustrious of all the conquerors"
-linkb: "/research/jagor/ph/chapter-27b"
-linkbtext: "Chapter 27b"
-linkf: "/research/jagor/ph/chapter-28d"
-linkftext: "Chapter 28d"
 author: Jagor
 icon: /graphics/flag.png
 ---

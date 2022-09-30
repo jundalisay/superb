@@ -4,10 +4,6 @@ heading: "The Free Trade Alternative to Bretton Woods and Regionalism as the EU 
 date: 2021-08-01
 image: /photos/objects/ship.jpg
 description: "We explain our version of Multilateral Pool Clearing by EF Schumacher"
-linkb: "/research/schumacher/pool-clearing/"
-linkbtext: Index
-linkf: /research/schumacher/pool-clearing/part-2
-linkftext: "Part 2"
 youtube: "H0tUf35JB44"
 author: EF Schumacher
 icon: /avatars/ef.png

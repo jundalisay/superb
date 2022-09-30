@@ -45,7 +45,7 @@ in vacuo) have exactly the same form in both cases.  -->
 
 Up to now, however, we did not say that **all** viewpoints or bodies of reference `K` are equal in terms of real motion. <!--  in connection with the formulation of natural laws. Our course was more on the following lines.  -->
 
-First, we assumed that there exists a viewpoint `K` that is bound to the Galileian law=  A particle left to itself <!-- and sufficiently far removed from all other particles --> moves uniformly in a straight line. <!-- With reference to K (Galileian reference-body) the laws of nature were to be as simple as possible.  --> <!-- But in addition to `K`, --> All viewpoints or bodies of reference `K'` added to `K`= 
+First, we assumed that there exists a viewpoint `K` that is bound to the Galileian law: A particle left to itself <!-- and sufficiently far removed from all other particles --> moves uniformly in a straight line. <!-- With reference to K (Galileian reference-body) the laws of nature were to be as simple as possible.  --> <!-- But in addition to `K`, --> All viewpoints or bodies of reference `K'` added to `K`:
 - should be given preference
 - should be exactly equivalent to `K` for the formulation of natural laws, provided that they are in a state of uniform rectilinear and non-rotary motion with respect to `K`. 
 
@@ -71,4 +71,4 @@ If the train's motion becomes erratic, such as if it hits the brakes, <!--  of t
 
 The Galileian law does not hold with respect to the erratically-moving train. This is why we feel compelled to grant an absolute physical reality* to erratic motion in Newtonian Physics, which is different from General Relativity. <!-- But in what follows we shall soon see that this conclusion cannot be maintained. -->
 
-> *Superphysics Note=  This absolute reality is given by Newton as his concept of "Lord God" in [Book 3 of Principia](/research/newton/principia/book-3/vortices)
+> *Superphysics Note: This absolute reality is given by Newton as his concept of "Lord God" in [Book 3 of Principia](/research/newton/principia/book-3/vortices)

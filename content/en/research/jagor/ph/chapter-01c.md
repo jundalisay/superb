@@ -1,12 +1,8 @@
 ---
 title: "Earthquakes"
-date: 2022-04-30
+date: 2022-04-28
 image: /covers/travels.jpg
 description: "On June 3, 1863 at 7:31pm an earthquake shook the preparations for the festival of Corpus Christi"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---

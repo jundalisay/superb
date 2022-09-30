@@ -1,21 +1,15 @@
 ---
 title: "The Philippines"
-date: 2022-04-30
+date: 2022-02-10
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 20"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---
 
 
-TRAVELS IN BÁMAR (CONTINUED).-SOUTH-SEA ISLANDERS CAST AWAY BY srorus –
-
-BURIAL CAVERNS AND FUNERAL CUSTOMS OF THE ANCIENT BISAYANS.—CROCUDILES.-- IGNATIUS BEANS.-COCOA-NUT OIL.
+## TRAVELS IN BÁMAR (CONTINUED).-SOUTH-SEA ISLANDERS CAST AWAY BY srorus – BURIAL CAVERNS AND FUNERAL CUSTOMS OF THE ANCIENT BISAYANS.—CROCUDILES.-- IGNATIUS BEANS.-COCOA-NUT OIL.
 
 In Guiuan, I was visited by some Micronesians. For the last 14 days, they had been in Sulangan on the small neck of land south-east from Guíuan, diving for pearl mussels (mother-of-pearl). <!-- , having undertaken the dangerous journey for the express purpose. * -->
 
@@ -71,9 +65,8 @@ Even as, on the west side of the Archipelago, the type of the race seems to have
 
 I Morga, f. 127. ♡ “ The Bisayans cover their teeth with a shining varnish, which is either black, or of the colour of fire, and thus their teeth become either black, or red like cinna. bar; and they make a small hole in the upper row, which they fill with gold, the latter shining all the more on the black or red ground.”—(THÉVENOT, Religieux, 54). Of a king of Mindanao, visited by Magellan at Massana, it is written :-" In every tooth he had three machie (spots ?) of gold, so that they had the appearance of being tied together with gold;" which Ramusio interprets—“On each finger he had three rings of gold.”--PIGAFETTA, p. 66; and compare also Carletti, “ Voyages," i. 163.
 
-A BEAUTIFUL STRAIT.
 
-257
+## A BEAUTIFUL STRAIT.
 
 At Guíuan, I sailed for <!--  embarked on board an inconveniently cranky, open boat, which was provided only with an awning of three feet square, for --> Tacloban, the chief town of Leyté. 
 
@@ -85,7 +78,8 @@ At Nipa-Nipa, a small hamlet two leagues from Basey, they project into the sea i
 
 * In one of these cliffs, sixty feet above the sea, beds of mussels were found: ostrea, pinna, chama ; according to Dr. V. M.-0. denticulata, Bron.; 0. cornucopia, Chemn.; 0. rosacea, Desh.; Chama sulfurea, Reeve; Pinna Nigrina, Lam. (3).
 
-SUPERSTITION INVADED
+
+## SUPERSTITION INVADED
 
 Rocks in the Sea near Nipa-Nipa. In the caverns of these rocks the ancient Pintados interred the corpses of their heroes and ancestors in well-locked coffins, surrounded by those objects which had been held in the highest regard by them during life. Slaves were also sacrificed by them at their obsequies, in order that they might not be without attendance in the world of shadows ;* and the numerous coffins, implements, arms, and trinkets, protected by superstitious terrors, continued to be undisturbed for centuries, No boat ventured to cross over without the observance of a religious ceremony, derived from heathen times, to propitiate the spirits of the caverns who were believed to punish the omission of it with storm and shipwreck.
 
@@ -102,20 +96,13 @@ I subsequently learned from the pastor at Basey that there were still some remai
 
 believing it to be a punishment for their outrage, were prevented only by the fear of making the matter worse from throwing coffin and skulls into the sea. Fortunately the land was near, and they rowed with all their might towards it; and, when they arrived, I was obliged to take the objects out of the boat myself, as no native was permitted to touch them.
 
-Notwithstanding, I was the next morning successful in finding some resolute individuals who accompanied me to the caverns. In the first two which we examined we found nothing; the third contained several broken coffins, some skulls, and potsherds of glazed and crudely painted earthenware, of which, however, it
-
-was impossible to find 
-two pieces that belonged 
- to each other. A narrow 
-hole led from the large 
-cavern into an obscure 
-space, which was so small 
-that one could remain in 
-  it only for a few seconds 
+Notwithstanding, I was the next morning successful in finding some resolute individuals who accompanied me to the caverns. In the first two which we examined we found nothing; the third contained several broken coffins, some skulls, and potsherds of glazed and crudely painted earthenware, of which, however, it was impossible to find 
+two pieces that belonged to each other. A  narrow hole led from the large 
+cavern into an obscure  space, which was so small 
+that one could remain in   it only for a few seconds 
  with the burning torch. 
- This circumstance may 
 
-explain the discovery, in a coffin which was eaten to pieces by worms, and quite mouldered away, of a well-preserved skeleton, or rather a mummy, for in many places there were carcases clothed with dry fibres of muscle and skin. It lay upon a mat of pandanus, which was yet recognisable, with a cushion under the head stuffed with plants, and covered with matting of pandanus. There were no other remains of woven material. The coffins were of three shapes and without any ornament. Those of the first form, which were of excellent molave-wood, showed no trace of worm-holes or decay, whereas the others had entirely fallen to dust; and those of the third kind, which were most numerous, were distinguishable from the first only by a less curved form and inferior material.
+This circumstance may  explain the discovery, in a coffin which was eaten to pieces by worms, and quite mouldered away, of a well-preserved skeleton, or rather a mummy, for in many places there were carcases clothed with dry fibres of muscle and skin. It lay upon a mat of pandanus, which was yet recognisable, with a cushion under the head stuffed with plants, and covered with matting of pandanus. There were no other remains of woven material. The coffins were of three shapes and without any ornament. Those of the first form, which were of excellent molave-wood, showed no trace of worm-holes or decay, whereas the others had entirely fallen to dust; and those of the third kind, which were most numerous, were distinguishable from the first only by a less curved form and inferior material.
 
 
 No legend could have supplied an enchanted royal sepulchre with a more suitable approach than that to the last of these caverns. · The rock rises out of the sea with perpendicular sides of marble, and only in one spot is to be observed a natural opening made by the water, hardly two feet high, through which the boat passed at once into a spacious court, almost circular, and over-arched by the sky, the floor of which was covered by the sea, and adorned with a garden of corals. The steep sides are thickly hung with lianas, ferns, and orchids, by help of which one climbs upwards to the cavern, sixty feet above the surface of the water. 

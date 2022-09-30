@@ -1,16 +1,13 @@
 ---
 title: "Manufacture Of Coconut Oil"
-date: 2022-04-30
+date: 2022-02-05
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 20"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---
+
 
 
 On the southern half of the eastern border, on the shore from Borongan by Láuang as far as Guíuan, there are considerable plantations of coconuts, which are most imperfectly applied to oil production. 
@@ -48,9 +45,15 @@ being no land communication. The manufacturer was not successful in procuring nu
 
 While the natives manufactured oil in the manner just described,
 
-21 r. ; that is 3 r. less than was offered them for the raw nuts. These data, which are obtained from the manufacturers, are probably exaggerated, but they are in the main well founded ; and the traveller in the Philippines often has the opportunity of observing similar anomalies. For example, in Daét, North Camarínes, I bought six cocoa-nuts for .one cuarto, at the rate of nine hundred and sixty for one dollar, the common price there. On my asking why no oil-factory had been erected, I received for answer that the nuts were cheaper singly than in quantities. In the first place, the Indian sells only when he wants money ; but he knows that the manufacturer cannot well afford to have his business suspended ; so, careless of the result, he makes a temporary profit, and never thinks of ensuring for himself a permanent source of income.
+21 r. ; that is 3 r. less than was offered them for the raw nuts. These data, which are obtained from the manufacturers, are probably exaggerated, but they are in the main well founded ; and the traveller in the Philippines often has the opportunity of observing similar anomalies.
 
-In the province of Lagúna, the natives prepare coarse brown sugar from sugar-cane. The women carry it for leagues to the market, or expose it for sale on the country roads, in small loaves (panoche), generally along with buyo. 
+For example, in Daét, North Camarínes, I bought 6 cocnuts for 1 cuarto, at the rate of 960 for one dollar, the common price there. 
+
+They had no oil-factory because the coconuts were cheaper singly than in quantities. 
+
+In the first place, the Indian sells only when he wants money. But he knows that the manufacturer cannot well afford to have his business suspended ; so, careless of the result, he makes a temporary profit. He never thinks of ensuring for himself a permanent source of income.
+
+In Lagúna, the natives prepare coarse brown sugar from sugar-cane. The women carry it for leagues to the market, or expose it for sale on the country roads, in small loaves (panoche), generally along with buyo. 
 
 Every passenger chats with the seller, weighs the loaf in the hand, eats a bit, and probably passes on without buying any. In the evening the woman returns to her home with her wares, and the next day repeats the same process.
 

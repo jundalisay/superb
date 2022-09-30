@@ -1,18 +1,14 @@
 ---
 title: "The Galleon Trade"
-date: 2022-04-30
+date: 2022-04-26
 image: /covers/travels.jpg
-description: ""
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
+description: "The Manila custom-house requires many formalities which the native minor officials exercised without  discretion."
 author: Jagor
 icon: /graphics/flag.png
 ---
 
 
-The Manila custom-house requires many formalities which the native minor officials exercised without  discretion. This is:
+The Manila custom-house requires many formalities which the native minor officials exercised without discretion. This is:
 - different from the easy routine of the English free ports in Asia which I had just came from
 - wearisome to me. 
 

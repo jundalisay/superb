@@ -1,13 +1,9 @@
 ---
 title: "Piracy"
-date: 2022-04-30
+date: 2022-02-16
 image: /covers/travels.jpg
 description: ""
-linkTitle: "Chapter 17"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
+linkTitle: "Chapter 18b"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -105,7 +101,7 @@ This unfortunately lacked a lid ; to procure which I was obliged, in the first p
 In five days, the lid was completed, at the cost of 3 dollars. It did not last long, however, for in Manila I had to get it replaced by a new one.
 
 
-PEPE THE ACCOMPLISHED
+## PEPE THE ACCOMPLISHED
 
 From Legaspi, I visited <!--  availed myself of an opportunity to reach --> the island of Sámar in a small schooner. 
 

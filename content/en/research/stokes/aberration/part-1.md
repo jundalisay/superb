@@ -20,34 +20,35 @@ usually given, which depends on the consideration of the motion of a telescope a
 from its object-glass to its cross wires, has reference especially to this theory; for it does not
 apply to the theory of undulations, unless we make the rather  -->
 
-It uses the startling hypothesis that the luminiferous æther passes freely through the sides of the telescope and through the earth itself.
+It uses the startling hypothesis that the luminiferous aether passes freely through the sides of the telescope and through the earth itself.
 
 <!-- The undulatory theory of light, however, explains so simply and so beautifully the most
 complicated phænomena, that we are naturally led to regard aberration as a phænomenon
 unexplained by it, but not incompatible with it.The object of the present communication is to attempt an explanation of the cause of aberration which shall be in accordance with the theory of undulations.  -->
 
-The planets carry a portion of the æther with them so that the æther, close to their surfaces, is
-at rest relatively on those surfaces. Its velocity changes as we recede ​from the surface, till, at
-no great distance, it is at rest in space. 
+The planets carry a portion of the aether with them. The aether, close to their surfaces, is at rest relatively on those surfaces. 
+- Its velocity changes as we recede from the surface, till, at no great distance, it is at rest in space. 
 
-According to the undulatory theory, the direction in which a heavenly body is seen is normal to the fronts of the waves which have emanated from it, and which have reached the neighbourhood of the observer. The æther near him is at rest relatively to him. 
+According to the undulatory theory, the direction in which a heavenly body is seen is normal to the fronts of the waves which have emanated from it, and which have reached the neighbourhood of the observer. The aether near him is at rest relatively to him.
 
-- If the æther in space were at rest, the front of a wave of light at any instant being given, its front at any future time could be found by the method explained in Airy's Tracts.
+- If the aether in space were at rest, the front of a wave of light at any instant being given, its front at any future time could be found by the method explained in Airy's Tracts.
 - If the æther were in motion, and the speed of light were infinitely small, the wave's front would be displaced as a surface of particles of the æther. 
 
-Neither of these suppositions are true because the æther moves while light goes through it. 
+Neither of these suppositions are true because the aether moves while light goes through it. 
 
 The displacements of a wave's front in an elementary portion of time due to the two causes just considered take place independently.
 
-Let `u`, `v`, `w` be the resolved parts along the rectangular axes of `x`, `y`, `z` of the speed of the  æther-particle whose co-ordinates are `x`, `y`, `z`.
+Let `u`, `v`, `w` be the resolved parts along the rectangular axes of `x`, `y`, `z` of the speed of the  aether-particle whose co-ordinates are `x`, `y`, `z`.
 
 Let `V` be the speed of light supposing the æther at rest.
 
 Because of the distance of the heavenly bodies, only the plane waves are considered, as they they are distorted by the æther's motion. 
 
-Let the axis of `z` be taken in, or nearly in the direction of the wave considered, so that the equation to the wave's front at any time will be= 
+Let the axis of `z` be taken in, or nearly in the direction of the wave considered, so that the equation to the wave's front at any time will be:
 
+```elixir
 z = C + VT + ζ (1.) 
+```
 
 - `C` is a constant
 - `t` is the time
@@ -55,21 +56,29 @@ z = C + VT + ζ (1.)
 
 Since `u`, `v`, `w` and `ζ` are of the order of the aberration, their squares and products may be neglected.
 
-Denoting by `a`, `B`, `y` the angles which the normal to the wave's front at the point (x, y, z) with the axes, we have, to the first order of approximation,
+Denoting by `a`, `B`, `y` the angles which the normal to the wave's front at the point (x, y, z) with the axes, we have, to the first order of approximation:
 
+```elixir
 cos a = - dζ / dz, cos B = - dζ / dy, cos y = 1 (2.)
+```
 
-if we take a length `Vdt` along this normal, the co-ordinates of its extremity will be= 
+If we take a length `Vdt` along this normal, the co-ordinates of its extremity will be:
+    
+```elixir
+x - (dζ / dx) Vdt, y - (dζ / dy) Vdt, z + Vdt
+```
+
+<!-- z = C + VT + ζ
+``` -->
+
+If the aether were at rest, the locus of these extremities would be the wave's front at the time `t + dt`. But since it is in motion, the co-ordinates of those extremities must be further increased by udt, vdt, wdt. 
 
 
-If the æther were at rest, the locus of these extremities would be the wave's front at the time, but since it is in motion, the co-ordinates of those extremities must be further increased by
+Denoting then by `x1, y1, z1,`  the co-ordinates of the point of the wave's front at 
 
-the time
-. 
+α 
 
-Denoting then by
-the co-ordinates of the point of the wave's front at
-, ​which corresponds to the point (
+, which corresponds to the point (
 and eliminating
 and
 ) in its front at the time , we have
@@ -101,7 +110,7 @@ just found with equations (2.), we get, to a first approximation,(5.)
 equations which might very easily be proved directly in a more geometrical manner.
 If random values are assigned to
 and
-equations will be a complicated ​one; but if
+equations will be a complicated one; but if
 , the law of aberration resulting from these
 and
 are such that
@@ -137,8 +146,7 @@ through an angle equal to the ratio of the velocity of the earth to that of ligh
 sine of the angle between the direction of the earth's motion and the line joining the earth and
 the star.
 
-In considering the effect of aberration on a planet, it will be convenient to divide the integrations in equation (5.) into three parts, first integrating from the point considered on the surface of the planet to a distance at which the motion of the ​æther may be neglected, then to a point near the earth where we may still neglect the motion of the æther, and lastly to the point of the earth's
-surface at which the planet is viewed. For the first part we shall have will be the resolved parts of the planet's velocity. 
+In considering the effect of aberration on a planet, it will be convenient to divide the integrations in equation (5.) into three parts, first integrating from the point considered on the surface of the planet to a distance at which the motion of the æther may be neglected, then to a point near the earth where we may still neglect the motion of the æther, and lastly to the point of the earth's surface at which the planet is viewed. For the first part we shall have will be the resolved parts of the planet's velocity. 
 
 The increments of interval will be, therefore,
 . 
@@ -192,7 +200,7 @@ perpendicular to
 to be seen as if it were at . Now the
 being that through which a star in the direction of
 is
-displaced by aberration to an observer at , and the distance ​ being by hypothesis small (two
+displaced by aberration to an observer at , and the distance  being by hypothesis small (two
 or three radii of the planet suppose), it follows that the angle is extremely small, and may be
 neglected. Hence a planet will appear to be displaced from the position which it had when the
 light left it, just as a star in the same direction is displaced. But besides this, the planet has

@@ -32,7 +32,7 @@ according to the equation it?
 = r — 2m,                           
 ```
 
-one obtains for ds2 the expression                            
+one obtains for `ds2` the expression                            
 
 ```elixir                                                              
 (132 = — 4(u2 + 2m)dn2
@@ -59,11 +59,11 @@ A spatially ﬁnite bridge connects these sheets as an electrically-neutral elem
 
 The latter is made clear by the following considerations. If we had started from a Schwarzschild solution with negative m, we should not have been able to make the solution regular by introducing a new variable 14 instead of 7'; that is to say, no “bridge” is possible that corresponds to a particle of negative mass. 
 
-If we consider once more the solution. (1) from the standpoint of the information we have acquired from the Schwarzschild solution, we see that there also the two congruent halves of the space for x1> 0 and x1<0 can be interpreted as
+If we consider once more the solution. (1) from the standpoint of the information we have acquired from the Schwarzschild solution, we see that there also the two congruent halves of the space for `x1> 0` and `x1<0` can be interpreted as
 
-two sheets each corresponding to the same physical space. In this sense the example represents a gravitational ﬁeld, independent of x2 and x3, which ends in a plane covered with mass and forming a boundary of the space. 
+Two sheets each corresponding to the same physical space. In this sense the example represents a gravitational ﬁeld, independent of `x2` and `x3`, which ends in a plane covered with mass and forming a boundary of the space. 
 
-In this example, as well as in the Schwarzschild case, a solution free from singularities at all ﬁnite points is made possible by the introduction of the modiﬁed gravitational Eqs. (3a). 2 Because of the symmetry about the hypersurface g =0, the Sign of g does not change at this hypersurface.
+In this example, as well as in the Schwarzschild case, a solution free from singularities at all ﬁnite points is made possible by the introduction of the modiﬁed gravitational Eqs. (3a). 2 Because of the symmetry about the hypersurface `g = 0`, the Sign of g does not change at this hypersurface.
 
 The main value of the considerations we are presenting consists in that they point the way to a satisfactory treatment of gravitational mechanics. One of the imperfections of the original relativistic theory of gravitation was that as a ﬁeld theory it was not complete; it introduced the independent postulate that the law of motion of a particle is given by the equation of the geodesic.3           
 
@@ -81,5 +81,4 @@ In this case it will not be possible to describe the whole ﬁeld by means of a 
    
 2. One coordinate system for every bridge, to provide a description of the ﬁeld at the bridge and in the neighborhood of the latter, which is free from singularities.                                      
 
-Between the coordinates of the sheet system and those of each bridge system there must exist outside of the hypersurfaces g=0, a regular coordinate transformation with nonvanishing determinant.                                                    
-                                                              
+Between the coordinates of the sheet system and those of each bridge system there must exist outside of the hypersurfaces g=0, a regular coordinate transformation with nonvanishing determinant.

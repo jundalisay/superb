@@ -1,13 +1,9 @@
 ---
 title: "Philippine Coffee"
-date: 2022-04-30
+date: 2022-03-28
 image: /covers/travels.jpg
 description: "According to the report of an Englishman in 1828, the coffee-plant was almost unknown 40 years before, and was represented only by a few specimens in the Botanical Gardens at Manila"
 linkTitle: "Chapter 10"
-linkb: "/research/jagor/ph/chapter-10"
-linkbtext: "Chapter 10"
-linkf: "/research/jagor/ph/chapter-11"
-linkftext: "Chapter 11"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -100,9 +96,8 @@ It is best, when possible, to buy coffee in large quantities, and keep it stored
 
 + A creeping, or rather a running fern, nearly the only one of the kind in the whole species.
 
-A NATIVE THEATRE.
 
-103
+## A NATIVE THEATRE
 
 will condescend to finish one in a few months. The stalk of the fern, which is about as thick as a lucifer match, is split into four strips. The workman then takes a strip in his left hand, and, with his thumb on the back and his forefinger on the edge, draws the strips up and down against the blade until the soft pithy parts are cut away, and what remains has become fine enough for the next process. The cases are made on pointed cylindrical pieces of wood almost a couple of feet long. A pin is stuck into the centre of the end of the cylinder, and the workman commences by fastening the strips of fern stalk to it. The size of the case corresponds to the diameter of the roller, and a small wooden disk is placed in the bottom of the case to keep it steady while the sides are being plaited.
 

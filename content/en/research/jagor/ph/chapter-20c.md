@@ -1,13 +1,9 @@
 ---
 title: "The Ignatius Bean"
-date: 2022-04-30
+date: 2022-02-06
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 20"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---

@@ -32,42 +32,23 @@ mountains, and the city wall
 It has little fish and rice. They also
 use of a mixture of cow's milk and water as an habitual beverage'.
 
-The king's arms reach down to below his knees.
+The king's arms reach down to below his knees. He has 100 chargers, every one 6 feet tall, also some dozen head of mules, 3 feet tall. On excursions, he rides alternately with the horses. 
 
+His bow pulls several piculs, so that 5-7 ordinary men cannot string it. 
 
-He has 100 chargers, every one 6 feet tall, also some dozen head of mules, three 30 feet
-bow
-high, which, on excursions, he rides alternately with the horses. His
-pulls several piculs, so that five or seven ordinary
-When
-he
-is
-
+When he is on horseback, he carries an iron mace weighing 50 catties.
 
 The Arabs and the West fear him.
 
-soil
-the people of the
-all
-are gold, silver,
-colours
-storax,
-men cannot
-on horseback, he carries an iron mace weighing
-wu-ming-i
-ym-no
-cloth,
-West
-fear
-
-products of the
-gold brocade, camel's hair stuffs in
-and mo-so stones it.
-full 50 catties.
-him The J^), engraved opaque glass
-
-string
-all liquid1
+Their products are:
+- gold, silver
+- yue-no cloth
+- gold brocade
+- camel hair stuffs in all colors
+- engraved opaque glass
+- liquid storax
+- wu ming i
+- mo so stones
 
 <!-- Notes.
 marks indicate passages taken from

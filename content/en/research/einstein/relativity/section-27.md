@@ -35,8 +35,8 @@ When we were describing the motion of a material point relative to a body of ref
 
 It is just the same in the case of space-measurements by means of measuring-rods, as a little consideration will show. 
 
-The following statements hold generally=  
+The following statements hold generally:
 
-- Every physical description resolves itself into a number of statements, each of which refers to the spacetime coincidence of two events A and B
+"Every physical description resolves itself into a number of statements, each of which refers to the spacetime coincidence of two events A and B"
 
 In terms of Gaussian co-ordinates, every such statement is expressed by the agreement of their four co-ordinates `x1, x2, x3, x4`. Thus in reality, the description of the time-space continuum by means of Gauss co-ordinates completely replaces the description with the aid of a body of reference, without suffering from the defects of the latter mode of description; it is not tied down to the Euclidean character of the continuum which has to be represented.

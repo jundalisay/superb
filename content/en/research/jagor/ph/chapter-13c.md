@@ -1,12 +1,8 @@
 ---
 title: "Stalactite Springs"
-date: 2022-04-30
+date: 2022-03-13
 image: /covers/travels.jpg
 description: "From here, I visited the stalactite springs, not far distant, of Naglegběng. I had expected to see a calcareous fountain, but found the most magnificent masses of silica of infinite variety of forms"
-linkb: "/research/jagor/ph/chapter-13b"
-linkbtext: "Chapter 13b"
-linkf: "/research/jagor/ph/chapter-14"
-linkftext: "Chapter 14"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -53,7 +49,11 @@ When the channel becomes so much obstructed that the efflux is less than the eva
 
 When, however, the surface of the water sinks, this formation ceases at the upper portion of the basin; the interior wall thickens; and, if the channel be completely stopped up and all the water evaporated, there remains a bell-sbaped basin as even as if excavated by the hand of man. In my sketch of the white cone the three Indian females are standing on the edge of such a cone; and a still finer example may be observed on the right-hand summit of the red cone. The water now seeks a fresh outlet, and bursts forth where it meets with the least obstruction, without destroying the beautiful cone it has already erected. Many such examples exist. 
 
-In the largest cones, however, the vapours generated acquire such power that, when the outlet is completely stopped up, they break up the overlying crust in concentrically radiating flakes; and the water, issuing afresh copiously from the centre, deposits a fresh crust, which again, by the process we have just described, is broken up into a superimposed layer of flakes. In this manner are formed annular layers, which in turn are gradually covered by fresh deposits from the overflowing water. In the two large cones, the "white" and the “red,” shown in the illustrations, this layer formation is seen completed ; in many other places I observed it was in the act of commencing. After the pyramid of layers is complete and the outlet stopped up, the water sometimes breaks forth on the slope of the same cone; a second cone is then formed near the first, on the same base. The preceding illustrations show formations of this kind at their commencement; the sketch of the red cone shows one at its completion. In the vicinity of the silicious springs are seen deposits of white, yellow, red, and bluish-grey clays, overlaying one another in narrow strata-like variegated marl, manifestly the disintegrated produce of volcanic rocks transported hither by rain and stained with oxide of iron. These clays perhaps come from the same rocks, from the disintegration of which the silicious earth has been formed. Similar examples occur in Iceland and in New Zealand; but the products of the springs of Tibi are more varied, finer, and more beautiful than those of the Iceland Geysers.
+In the largest cones, however, the vapours generated acquire such power that, when the outlet is completely stopped up, they break up the overlying crust in concentrically radiating flakes; and the water, issuing afresh copiously from the centre, deposits a fresh crust, which again, by the process we have just described, is broken up into a superimposed layer of flakes. In this manner are formed annular layers, which in turn are gradually covered by fresh deposits from the overflowing water. In the two large cones, the "white" and the “red,” shown in the illustrations, this layer formation is seen completed ; in many other places I observed it was in the act of commencing. 
+
+After the pyramid of layers is complete and the outlet stopped up, the water sometimes breaks forth on the slope of the same cone; a second cone is then formed near the first, on the same base. The preceding illustrations show formations of this kind at their commencement; the sketch of the red cone shows one at its completion. In the vicinity of the silicious springs are seen deposits of white, yellow, red, and bluish-grey clays, overlaying one another in narrow strata-like variegated marl, manifestly the disintegrated produce of volcanic rocks transported hither by rain and stained with oxide of iron. 
+
+These clays perhaps come from the same rocks, from the disintegration of which the silicious earth has been formed. Similar examples occur in Iceland and in New Zealand; but the products of the springs of Tibi are more varied, finer, and more beautiful than those of the Iceland Geysers.
 
 The wonderful conformations of the red cone are indeed astonishing, and hardly to be paralleled in any other quarter of the world.*
 

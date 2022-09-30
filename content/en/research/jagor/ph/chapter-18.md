@@ -1,13 +1,9 @@
 ---
 title: "Mazarága"
-date: 2022-04-30
+date: 2022-02-18
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 17"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---

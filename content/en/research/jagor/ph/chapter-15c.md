@@ -1,16 +1,13 @@
 ---
 title: "Paracáli and Mambuláo"
-date: 2022-04-30
+date: 2022-02-26
 image: /covers/travels.jpg
 description: ""
-linkTitle: "Chapter 15"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
+linkTitle: "Chapter 15c"
 author: Jagor
 icon: /graphics/flag.png
 ---
+
 
 ## GOLD-WASHING
 
@@ -20,10 +17,7 @@ On the following morning I returned to Longos which only had a few miserable hut
 
 The soil is composed of rubbish, decomposed fragments of crystalline rock, rich in broken pieces of quartz. The workmen make holes in the ground 2 feet long, 2 broad, and to 30 feet deep. 
 
-At 3 feet below the surface the rock is generally found to contain gold, the value increasing down to 18 feet of depth, and then again diminishing, though these proportions are very uncertain, and there is much fruitless search. The rock is carried out of the holes in baskets, on ladders of bamboo, and the water in small pails; but in the rainy season the holes cannot possibly be kept free from water, as they are situated on the slope of the mountain, and are filled quicker than they can be emptied. The want of
-
-
-apparatus for discharging water also accounts for the fact that the pits are not dug deeper.
+At 3 feet below the surface the rock is generally found to contain gold, the value increasing down to 18 feet of depth, and then again diminishing, though these proportions are very uncertain, and there is much fruitless search. The rock is carried out of the holes in baskets, on ladders of bamboo, and the water in small pails; but in the rainy season the holes cannot possibly be kept free from water, as they are situated on the slope of the mountain, and are filled quicker than they can be emptied. The lack of apparatus for discharging water also accounts for the fact that the pits are not dug deeper.
 
 The breaking of the auriferous rock is effected with two stones ; of which one serves as anvil, and the other as hammer. The former, which is slightly hollowed in the centre, is laid flat upon the ground; and the latter, 4 x 8 x 8 inches in dimensions, and therefore of about 25 pounds weight, is made fast with rattan to the top of a slender young tree, which lies in a sloping position in a fork, and at its opposite end is firmly fixed in the ground. The workman with a jerk forces the stone that serves for hammer down upon the auriferous rock, and allows it to be again carried upwards by the elasticity of the young tree.
 
@@ -80,7 +74,7 @@ A peculiarly beautiful fan-palm grows on this hill. Its stem is from thirty to f
 Notwithstanding a very bad road, a pleasant ride carried us from Paracáli to the sea-shore, and, through a beautiful wood, to Mambuláo, which lies W. by N. I alighted at the tribunál, and took up my lodgings in the room where the ammunition was kept, as being the only one that could be locked. For greater security, the powder was stored in a corner and coveredwith buffalo-hide ; but such were my arrangements that my servant carried about a burning tallow light, and his assistant a torch in the hand. When I visited the native priest, I was received in a friendly manner by a young girl who, when I offered my hand, thanked me with a bow, saying, “ Tengo las sarnas” (“ I have the itch”). The malady, which is very common in the Philippines, appears to have its focus in this locality.
 
 
-LEAD AND COPPER MINES
+## LEAD AND COPPER MINES
 
 A quarter of a league N.N.E. we came upon the ruins of another mining undertaking, the Ancla de Oro. Shaft and watercutting had fallen in, and were thickly grown over; and only a few of the considerable buildings were still standing ; and even those were ready to fall. In a circle some Indians were busily employed, in their manner, collecting grains of gold. The rock is gneiss, weathered so much that it cannot be recognised ; and at a thousand paces on the other side is a similar one, clearly crystalline.
 
@@ -113,9 +107,7 @@ circumference, 71 cm.
 
 thet ;
 
-EARLY COPPER-SMITHS.
-
-181
+## EARLY COPPER-SMITHS
 
 the collection of the Captain General of the Philippines, a large shallow kettle of 3] feet in diameter, which had been bought for only 3 dollars; whence it may be inferred that, in the interior of the island, the copper occurs in large masses, and probably solid; for how could those rude uncultivated negroes understand the art of smelting copper ?
 
@@ -164,13 +156,18 @@ Silicious Acid
 Iron
 
 
-NATIVE SCIENCE.
 
-183
 
 fitted into the lower ends of two notched pine-stems ; in which two slips, covered all over with dry grass or feathers, moved alternately up and down, and produced the current required for the smelting.
 
-When the Ygorrotes obtained black copper or native copper by blasting, they prevented loss (by oxidation) by setting up a crucible of good fire-proof clay in the form of a still; by which means it was easier for them to pour the metal into the forms which it would acquire from the same clay. The furnace being arranged, they supplied it with from 18 to 20 kilogrammes of rich or roasted ore, which, according to the repeated experiments of Hernandez, contained 20 per cent. of copper; and they proceeded quite scientifically, always exposing the ore at the mouth of the funnel, and consequently to the air-drafts, and placing the coals at the sides of the furnace, which consisted of loose stones piled one over another to the height of 50 centimetres. 
+
+## NATIVE SCIENCE
+
+When the Ygorrotes obtained black copper or native copper by blasting, they prevented loss (by oxidation) by setting up a crucible of good fire-proof clay in the form of a still; by which means it was easier for them to pour the metal into the forms which it would acquire from the same clay. 
+
+The furnace being arranged, they supplied it with from 18 to 20 kilogrammes of rich or roasted ore, which, according to the repeated experiments of Hernandez, contained 20% of copper. 
+
+They proceeded quite scientifically, always exposing the ore at the mouth of the funnel, and consequently to the air-drafts, and placing the coals at the sides of the furnace, which consisted of loose stones piled one over another to the height of 50 centimetres.
 
 The fire having been kindled and the blowing apparatus, already described, in operation, thick clouds of white, yellow, and orange-yellow smoke were evolved from the partial volatilization of the sulphur, arsenic, and antimony, for the space of an hour; but as soon as only sulphurous acid was formed, and the heat by this procedure had attained its highest degree, the blowing was discontinued and the product taken out. This consisted of a dross, or, rather, of the collected pieces of ore themselves, which, on account of the flinty contents of the stones composing the funnel, were transformed by the decomposition of the sulphurous metal into a porous mass, and which could not be converted into dross nor form combinations with silicious acid, being deficient in the base as well as in the requisite heat ; and also of a very impure “stone," of from 4 to 5 kg. weight, and containing from 50 to 60 per cent. of copper.
 
@@ -178,7 +175,9 @@ Several of these “stones” were melted down together for the space of about f
 
 The purified stones obtained by this second process were again made red-hot by placing them between rows of wood, in order that they might not melt into one another before the fire had freed them from impurities.
 
-The black copper obtained from the second operation, and the stones which were re-melted at the same time, were then subjected to a third process in the same furnace (narrowed by quarry stones and provided with a crucible) ; which produced a residuum of silicious iron and black copper, which was poured out into clay moulds, and in this shape came into commerce. This black copper contained from 92 to 94 per cent. of copper, and was tinged by a carbonaceous compound of the same metal known by its yellow colour, and the oxide on the surface arising from the slow cooling, which will occur notwithstanding every precaution; and the surface so exposed to oxidation they beat with green twigs. When the copper, which had been thus extracted with so much skill and patience by the Ygorrotes, was to be employed in the manufacture of kettles, pipes, and other doinestic articles, or for ornament, it was submitted to another process of purification, which differed from the preceding only in one particular, that the quantity of coals was diminished and the air-draught increased
+The black copper obtained from the second operation, and the stones which were re-melted at the same time, were then subjected to a third process in the same furnace (narrowed by quarry stones and provided with a crucible) ; which produced a residuum of silicious iron and black copper, which was poured out into clay moulds, and in this shape came into commerce. This black copper contained from 92 to 94 per cent. of copper, and was tinged by a carbonaceous compound of the same metal known by its yellow colour, and the oxide on the surface arising from the slow cooling, which will occur notwithstanding every precaution; and the surface so exposed to oxidation they beat with green twigs. 
+
+When the copper, which had been thus extracted with so much skill and patience by the Ygorrotes, was to be employed in the manufacture of kettles, pipes, and other doinestic articles, or for ornament, it was submitted to another process of purification, which differed from the preceding only in one particular, that the quantity of coals was diminished and the air-draught increased
 
 according as the process of smelting drew near to its termination, which inyolved the removal of the carbonaceous compound by oxidation. Santos found, by repeated experiment, that even from ores of the mean standard of 20 per cent., only from 8 to 10 per cent. of black copper was extracted by the third operation ; so
 
@@ -198,8 +197,9 @@ to which we have adverted are repeated—vestiges of the works of former mining 
 
 Neither in the latter province, nor in Manila, could I acquire more precise information respecting the histories of the numerous unfortunate mining enterprises. Thus much, however, appears certain, that they were originated only by speculators, and never properly worked with sufficient means. They therefore, of necessity, collapsed so soon as the speculators ceased from their operations.
 
-WIND AND WEATHER.
 
+
+## WIND AND WEATHER
 
 North Camarínes yields no metal with the exception of the little gold obtained by the Indians in so unprofitable a manner. The king of Spain at first received a fifth, and then a tenth, of the produce; but the tax subsequently ceased. In Morga's time the tenth amounted on an average to 10,000 dollars (“ which was kept quite secret”); the profit, consequently, to above 100,000 dollars. Gemelli Carreri was informed by the governor of Manila that gold to the value of 200,000 dollars was collected annually without the help of either fire or quicksilver, and that Paracáli, in particular, was rich in gold. No data exist from which I could estimate the actual rate of produce; and the answers to several inquiries deserve no mention. The produce is, at all events, very small, as well on account of the incompleteness of the mode of procedure as of the irregularity of labour, for the Indians work only when they are compelled by necessity.
 

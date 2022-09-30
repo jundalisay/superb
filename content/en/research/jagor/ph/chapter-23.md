@@ -1,13 +1,9 @@
 ---
 title: "Philippine Ports"
-date: 2022-04-30
+date: 2022-01-22
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 23"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---

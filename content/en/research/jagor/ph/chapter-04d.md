@@ -1,13 +1,9 @@
 ---
 title: "Bamboo"
-date: 2022-04-30
+date: 2022-04-17
 image: /covers/travels.jpg
 description: "Bamboos with luxuriant leafy tops grow plentifully by the huts in the rice-fields which fringe the banks of the river"
-linkTitle: "Chapter 4"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
+linkTitle: "Chapter 4d"
 author: Jagor
 icon: /graphics/flag.png
 ---

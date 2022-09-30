@@ -1,16 +1,13 @@
 ---
 title: "Oppression Of The Igorots"
-date: 2022-04-30
+date: 2022-02-22
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 17"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---
+
 
 
 ## THE YSARÓG AND ITS INHABITANTS.
@@ -28,7 +25,11 @@ m. Goa, on the northern slope of the Ysaróg. . . . 32 Uaclóy, a settlement of 
 
 . . . 1,134 Summit of the Ysaróg. . . . . . . . 1,966
 
-plain. One or two Cimarrons might occasionally have been attracted hither, but no such instance is remembered. The inhabitants of the Ysaróg are commonly, though mistakenly, called Ygorrotes ; and I retain the name, since their nationality has not yet been accurately determined ; they themselves maintaining that their ancestors always dwelt in that locality. There are some who, in the opinion of the pastor of Camarines, speak the Bícol language in the purest manner. Their manners and customs are very similar, in many respects, to what they were on the arrival of the Spaniards; and sometimes they also remind one of those prevailing among the Dyaks of Borneo at the present day.* These circumstances give rise to the conjecture that they may be the last of a race which maintained its independence against the Spanish rule, and probably also against the little tyrants who ruled over the plain before the arrival of the Europeans. When Juan de Salcedo undertook his triumphal march round North Luzon he found everywhere, at the mouths of the rivers, seafaring tribes living under many chieftains who, after a short struggle, were slain by the superior discipline and better arms of the Spaniards, or submitted voluntarily to the superior race; but he did not succeed in subduing the independent tribes in the interior; and these are still to be found in all the larger islands of the Philippine group.
+plain. One or two Cimarrons might occasionally have been attracted hither, but no such instance is remembered. The inhabitants of the Ysaróg are commonly, though mistakenly, called Ygorrotes.
+
+I retain the name, since their nationality has not yet been accurately determined ; they themselves maintaining that their ancestors always dwelt in that locality. There are some who, in the opinion of the pastor of Camarines, speak the Bícol language in the purest manner. Their manners and customs are very similar, in many respects, to what they were on the arrival of the Spaniards; and sometimes they also remind one of those prevailing among the Dyaks of Borneo at the present day.* 
+
+These circumstances give rise to the conjecture that they may be the last of a race which maintained its independence against the Spanish rule, and probably also against the little tyrants who ruled over the plain before the arrival of the Europeans. When Juan de Salcedo undertook his triumphal march round North Luzon he found everywhere, at the mouths of the rivers, seafaring tribes living under many chieftains who, after a short struggle, were slain by the superior discipline and better arms of the Spaniards, or submitted voluntarily to the superior race; but he did not succeed in subduing the independent tribes in the interior; and these are still to be found in all the larger islands of the Philippine group.
 
 Similar conditions are found in many places in the Indian Archipelago. The Malays, carrying on trade and piracy, possess the shore, and their language prevails there; the natives being either subdued by them, or driven into the forests, the inaccessibility of which ensures to them a miserable but independent existence.† In order to break down the opposition of the wild races, the Spanish Government forbade its subjects, under the penalty of one hundred blows and two years of forced labour, “ to trade or to have any intercourse with the heathens in the mountains who pay no tribute to his Catholic Majesty, for although they would exchange their gold, wax, &c., for other necessaries, they will never change for the better.”
 
@@ -86,8 +87,8 @@ On the following morning the ascent was commenced. Even before we arrived at the
 
 * An intelligent mestizo frequently visited me during my sickness. According to his statements, besides the copper already mentioned, coal is found in three places, and even gold and iron were to be had. To the same man I am indebted for Professor Virchow's skull of Caramúan, referred to before, which was said to have come from a cavern in Umang, one league from Caramúan. Similar skulls are also said to be found at the Visita Paniniman, and on a small island close to the Visita Guialo.
 
-NATIVE WEAVING
 
+## NATIVE WEAVING
 
 report that had preceded me. The master of the house came towards us and conducted us by a narrow path to his hut, after having removed the foot-lances, which projected obliquely out of the ground, but were dexterously concealed by brushwood and leaves.* A woman employed in weaving, at my desire, continued her occupation. The loom was of the simplest kind. The upper end, the chain-beam, which consists of a piece of bamboo, is fixed to two bars or posts; and the weaver sits on the ground, and
 
@@ -121,8 +122,9 @@ Bows and Arrows of the Ygorrotes of the Ysaróg.
 
 The arrows (pana) consist of a shaft (gaho), 1 to 1 m. 8 c. in length, of cane, and a head (buchi). In A, D, F the whole of the head is of caryota wood, in B, E only the base, which is made fast to the shaft, and in which a bamboo lance is rather loosely fixed. O has three heads of caryota, to each of which the whip-like tail of a calamus, armed with sharp hooks, is attached. G, a bow of caryota; the string of abaca 3 mm. thick. The arrows have particular names; A, bulóg. B, boló, C, serápong, D, garaigai, E=B. Besides the weapons here represented they also use lances (pica) with (bought) iron points of 42 cm., and a total length of 2 m, 27 c. ; round shields (kalásag) of wood, covered at the edge with rattan, 1 m. 7 c. in circumference; and wood knives.
 
-DEGREE OF CIVILISATION.
 
+
+## DEGREE OF CIVILISATION.
 
 ever, wanting in the huts of the Indians; but the inhabitants of the Ysaróg are as yet free from this passion.
 
@@ -156,7 +158,7 @@ Besides the hunting and agriculture, their occupations are restricted to:
 - wicker work. 
 
 
-STRANGE CUSTOMS
+## STRANGE CUSTOMS
 
 Every father of a family is master in his own house, and acknowledges no power higher than himself. 
 
@@ -192,7 +194,9 @@ In the afternoon we reached a vast ravine, called “ Basira," 973 metres above 
 
 The road to the summit was very difficult on account of the slippery clay earth and the tough network of plants; but the last 500 feet were unexpectedly easy, the very steep summit being covered with a very thick growth of thinly leaved, knotted, mossy thibaudia, rhododendra, and other dwarf woods, whose innumerable tough branches, running at a very small height along the ground and parallel to it, form a compact and secure lattice-work, by which one mounted upwards as on a slightly inclined ladder. The point which we reached, as may be seen by the illustration, was evidently the highest spur of the horse
 
-FLOWERING AËRIDS
+
+
+## FLOWERING AËRIDS
 
 shoe-shaped mountain side, which bounds the great ravine of Rungus on the north. The top was hardly fifty paces in diameter, and so thickly covered with trees that I have never seen its like; we had not room to stand. My active hosts, however, went at once to work, though the task of cutting a path through the wood involved severe labour, and, chopping off the branches, built therewith, on the tops of the lopped trees, an observatory, from which I should have had a wide panoramic view, and an opportunity for taking celestial altitudes, had not everything been enveloped in a thick mist. The neighbouring volcanoes were visible only in glimpses, as well as the Bay of San Miguel and some lakes in the interior. Immediately after sunset the ther. mometer registered 12.5° R.:
 
@@ -216,7 +220,8 @@ The former I have found An armed escort fully equipped (hat, shirt, drawers, obl
 
 and acquainted with localities, while the latter generally displayed the opposite qualities. It would, however, be unjust to form a conclusive opinion as to their comparative merits from these facts; for the barbarians are at 
 
-A YGORROTE PETITION
+
+## A YGORROTE PETITION
 
 home when in the forest; what they do is done voluntarily, and the stranger, when he possesses their confidence, is treated as a guest. But the Indians are reluctant companions, Polistas, who, even when they receive a high rate of wages, consider that they are acting most honourably when they do as little as possible. At any rate, it is no pleasure to them to leave their village in order to become luggage-porters or beaters of roads on fatiguing marches in impracticable districts, and to camp out in the open air under every deprivation. For them, still more than for the European peasant, repose is the most agreeable refreshment. The less comfort any one enjoys at home, the greater is the reluctance with which he leaves it; and the same thing may be observed in Europe.
 

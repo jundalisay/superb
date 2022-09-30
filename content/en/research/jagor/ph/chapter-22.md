@@ -1,14 +1,10 @@
 ---
 title: "Rice Cultivation"
 # title: "MANNERS AND CUSTOMS OF THE BISAYAN INDIAXS"
-date: 2022-04-30
+date: 2022-01-31
 image: /covers/travels.jpg
-description: ""
+description: "The inhabitants of Sámar and Leyté (I have not become closely acquainted with any others) belong to one race"
 linkTitle: "Chapter 22"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---

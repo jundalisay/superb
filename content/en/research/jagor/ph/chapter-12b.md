@@ -1,13 +1,9 @@
 ---
 title: "The Spanish Governors"
-date: 2022-04-30
+date: 2022-03-18
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 12b"
-linkb: "/research/jagor/ph/chapter-12"
-linkbtext: "Chapter 12"
-linkf: "/research/jagor/ph/chapter-13"
-linkftext: "Chapter 13"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -39,7 +35,7 @@ The natives were forced to sell their produce to the alcaldes and, besides, to p
 
 Nowadays men with some knowledge of the law are sent out to the Philippines as alcaldes; the government pays them a small salary, and they are not allowed to trade. The authorities also attempt to diminish the influence of the priests by improving the position of the civil tribunals; a state of things they will not find easy of accomplishment unless they lengthen the period of service of the alcaldes, and place them in a pecuniary * St. Croix.
 
-A CHINESE COMPARISON.
+## A CHINESE COMPARISON
 
 position that will put them beyond the temptation of pocketing perquisites.*
 
@@ -78,7 +74,9 @@ An eminent official in Madrid told me in 1867 that the then minister was conside
 
 * The law jiniting the duration of appointments to this short period dates from
 
-OFFICIAL MALADMINISTRATION.
+
+
+## OFFICIAL MALADMINISTRATION
 
 The dread which caused this restriction, viz., that an official might become too powerful in some distant province, and that his influence might prove a source of danger to the mother country, is no longer entertained. 
 

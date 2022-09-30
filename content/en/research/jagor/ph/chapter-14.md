@@ -1,13 +1,9 @@
 ---
 title: "Bicol, Philippines"
-date: 2022-04-30
+date: 2022-03-06
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 14"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /flags/ph.png
 ---
@@ -17,7 +13,8 @@ The frame and body of bamboo; the collar and noseband of the buffalo, of chair-c
 
 roof of pandanus-leaves.
 
-## MANNERS AND CUSTOMS OF THE BÍCOL INDIANS.
+
+## MANNERS AND CUSTOMS OF THE BÍCOL NATIVES
 
 On my second journey in Camarines, which I undertook in February, I went by water from Polangui, past Bátu, as far as Nága. 
 
@@ -31,7 +28,9 @@ In Nága, the chief city of South Camarines, I alighted at the tribunal, from wh
 
 Nága is the seat of a bishopric and of the provincial Government. In official documents it is called Nueva-Cáceres, in honour of the Captain-General, D. Fr. de Sande, a native of Cáceres, who about 1578 founded Nága (the Spanish town) close to the Indian village. At the beginning of the seventeenth century it numbered nearly one hundred Spanish inhabitants; at the present time it hardly boasts a dozen. Murillo Velarde remarks (xiii. 272), in contrast to the state of things in America, that of all the towns founded in the Philippines, with the exception of Manila, only the skeletons, the names without the substance, have been preserved. The reason is, as has been frequently shown, that up to the present time plantations, and consequently proper settlers, have been wanting. Formerly Nága was the principal town of the whole of that district of Luzon lying to the east of Tayabas, which, on account of the increased population, was divided into the three provinces of North and South Camarines and Albáy. The boundaries of these governmental districts, those between Albáy and South Camarines more especially, have been drawn very arbitrarily; although, the whole of the territory, as is shown by the map, geographically is very well defined. The country is named Camarínes ; 
 
-but it might more suitably be called the country of the Bicols, for the whole of it is inhabited by one race, the Bicol Indians, who are distinguished by their speech and many other peculiarities from their neighbours, the Tagals on the west, and the Bisayans on the islands to the south and east. The. Bicols are found only in this district and in a few islands lying immediately in front of it. Of their coming hither no information is to be obtained from the comprehensive but confused histories of the Spanish monks. Morga considers them to be natives of the island; on the other hand, it is asserted by tradition that the inhabitants of Manila and its vicinity are descended from Malays who have migrated thither, and from the inhabitants of other islands and more distant provinces.* Their speech is midway between that of the Tagals and the Bisayans, and they themselves appear, in both their manners and customs, to be a half.. breed between these two races. Physically and mentally they are inferior to the Tagals, and superior to the inhabitants of the eastern Bisayan islands. Bicol is spoken only in the two Camarínes, Albáy, Luzon, the islands of Masbáte, Burias, Ticáo, and Catanduanes, and in the smaller adjoining islands. The inhabitants of the volcanic mountain Ysaróg and its immediatè neighbourhood speak it in the greatest purity. Thence towards the west the Bicol dialect becomes more and more like the Tagal, and towards the east like the Bisay, until by degrees, even before reaching the boundaries of their ethnographical districts, it merges into these two kindred languages.
+but it might more suitably be called the country of the Bicols, for the whole of it is inhabited by one race, the Bicol Indians, who are distinguished by their speech and many other peculiarities from their neighbours, the Tagals on the west, and the Bisayans on the islands to the south and east. The. Bicols are found only in this district and in a few islands lying immediately in front of it. Of their coming hither no information is to be obtained from the comprehensive but confused histories of the Spanish monks. Morga considers them to be natives of the island; on the other hand, it is asserted by tradition that the inhabitants of Manila and its vicinity are descended from Malays who have migrated thither, and from the inhabitants of other islands and more distant provinces.* 
+
+Their speech is midway between that of the Tagals and the Bisayans, and they themselves appear, in both their manners and customs, to be a half.. breed between these two races. Physically and mentally they are inferior to the Tagals, and superior to the inhabitants of the eastern Bisayan islands. Bicol is spoken only in the two Camarínes, Albáy, Luzon, the islands of Masbáte, Burias, Ticáo, and Catanduanes, and in the smaller adjoining islands. The inhabitants of the volcanic mountain Ysaróg and its immediatè neighbourhood speak it in the greatest purity. Thence towards the west the Bicol dialect becomes more and more like the Tagal, and towards the east like the Bisay, until by degrees, even before reaching the boundaries of their ethnographical districts, it merges into these two kindred languages.
 
 In South Camarines the sowing of the rice in beds begins in June or July, always at the commencement of the rainy season ; but, in fields artificially watered, earlier, because thus the fruit ripens
 
@@ -71,7 +70,9 @@ In Java the harvest, in many provinces, amounts to only 50 cabanes per quiñon ;
 
 After the rice harvest the buffaloes, horses, and bullocks, are allowed to graze on the fields. During the rice culture they remain in the gogonales—cane-fields which arise in places once cultivated for mountain-rice and afterwards abandoned. [Gogo is the name of a cane 7 to 8 feet high, Saccharum sp.). Transport then is almost impossible, because during the rainy season the roads are impassable, and the cattle find nothing to eat. The Indian does not feed his beast, but allows it to perish from hunger when it cannot support itself. In the wet season of the
 
-* 1 ganta = 3 litres. 1 quiñon = 100 loànes = 2.79495 hectares = 6.89 acres. 1 cabán = 25 gantas.
+* 1 ganta = 3 litres. 
+1 quiñon = 100 loànes = 2.79495 hectares = 6.89 acres. 
+1 cabán = 25 gantas.
 
 † Scherzer, “ Miscellaneous Information."
 

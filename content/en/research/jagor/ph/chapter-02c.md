@@ -1,13 +1,9 @@
 ---
-title: "MANILLA: LIFE IN TOWN AND SUBURB"
-date: 2022-04-30
+title: "Manila: Life In Town And Suburb"
+date: 2022-04-24
 image: /covers/travels.jpg
 description: "Manila is inhabited by Spaniards, Creoles, the natives directly connected with them, and Chinese, lies, surrounded by walls and wide ditches, on the left or southern bank of the Pasig, looking towards the sea"
-linkTitle: "Chapter 24"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
+linkTitle: "Chapter 2c"
 author: Jagor
 icon: /graphics/flag.png
 ---

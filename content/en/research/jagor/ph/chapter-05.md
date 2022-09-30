@@ -1,13 +1,9 @@
 ---
 title: "Geography of The Philippines"
-date: 2022-04-30
+date: 2022-04-15
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 5"
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph"
-linkftext: "Index"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -24,11 +20,16 @@ The Philippinian Archipelago lies between Borneo and Formosa, and separates the 
 
 It covers 147° of latitude, and extends from the Sulu Islands in the south, in the fifth parallel of north latitude, to the Babuyans in the north in latitude 19° 30'.  -->
 
-If, however, the Bashee or Batanes Islands be included, its area may be said to extend to the twenty-first parallel of north latitude. But neither southwards or northwards does Spanish rule extend to these extreme limits, nor, in fact, does it always reach the far interior of the larger islands. From the eastern to the western extremity of the Philippines the distance is about go of longitude. 
+If the Bashee or Batanes Islands be included, the area of the Philippinian Archipelago extends to the 21st parallel of north latitude. 
 
-Two islands, Luzon, with an area of two thousand, and Mindanao, with one of more than one thousand five hundred square miles, are together larger than all the rest. The next seven largest islands are Palawan, Samar,
+But neither southwards or northwards does Spanish rule extend to these extreme limits, nor, in fact, does it always reach the far interior of the larger islands. From the eastern to the western extremity of the Philippines the distance is about go of longitude. 
 
-Panay, Mindoro, Leyte, Negros, and Cebu ; of which the first measures about two hundred and fifty, and the last about one hundred square miles. Then come Bojol and Masbate, each about half the size of Cebu; twenty smaller islands, still of some little importance; and numerous tiny islets, rocks, and reefs.*
+- Luzon has an area of 2,000
+- Mindanao has an area of over 1,500 square miles
+
+These together are larger than all the rest. 
+
+The next seven largest islands are Palawan, Samar, Panay, Mindoro, Leyte, Negros, and Cebu ; of which the first measures about two hundred and fifty, and the last about one hundred square miles. Then come Bojol and Masbate, each about half the size of Cebu; twenty smaller islands, still of some little importance; and numerous tiny islets, rocks, and reefs.*
 
 The Philippines are extremely favoured by their position and organisation. 
 
@@ -38,7 +39,9 @@ The produce of both the torrid and temperate zones, the palm-tree and the fir, t
 
 The larger islands contain vast inland seas, considerable navigable rivers, and many creeks running far into the interior; they are rich, too, in safe harbours and countless natural ports of refuge for ships in distress. 
 
-Another attribute which, though not to be realised by a glance at the map, is yet one of the most fortunate the islands possess, is the countless number of small streams which pour down from the inland hills, and open out, ere they reach the ocean, into broad estuaries ; up these water-courses coasting vessels of shallow draught can sail to the very foot of the mountains and take in their cargo. The fertility of the soil is unsurpassed; both the sea around the coasts and the inland lakes swarm with fish and shell-fish, while in the whole archipelago there is scarcely a wild beast to be found. Luzon surpasses all the other islands, not only in size, but in importance; and its fertility and other natural superiority well entitle it to be called, as it is by Crawfurd, “ the most beautiful spot in the tropics."
+Another attribute which, though not to be realised by a glance at the map, is yet one of the most fortunate the islands possess, is the countless number of small streams which pour down from the inland hills, and open out, ere they reach the ocean, into broad estuaries ; up these water-courses coasting vessels of shallow draught can sail to the very foot of the mountains and take in their cargo. 
+
+The fertility of the soil is unsurpassed; both the sea around the coasts and the inland lakes swarm with fish and shell-fish, while in the whole archipelago there is scarcely a wild beast to be found. Luzon surpasses all the other islands, not only in size, but in importance; and its fertility and other natural superiority well entitle it to be called, as it is by Crawfurd, “ the most beautiful spot in the tropics."
 
 <!-- • The dimensions of the isolated islands are given in the Appendix. -->
 
@@ -70,7 +73,7 @@ Daily reading of the Barometer. — The mercury rises in the early morning till 
 <!-- * A table of the variations in the weather, and one containing the observations taken during a period of five years (1865-1869), are given in the Appendix. -->
 
 
-Temperature. 
+## Temperature
 
 The heat increases from January till the end of May, and then decreases till December. Average yearly temperature, 270.9 C. The highest temperature ever recorded (on the 15th of April at 3 P.M.) was 37.7 C.; the lowest (on the 14th of December and on the 30th of January at 6 A.M.), 190.4 C. Difference, 180.3 C.
 
