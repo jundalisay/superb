@@ -1,26 +1,35 @@
 ---
-title: "Commercial Relations"
+title: "Epitome-concluding Observations of the Philippines"
+linkTitle: Chapter 27
 date: 2022-01-06
 image: /covers/travels.jpg
-description: ""
+description: "The Philippines was discovered by Magellan on March 16, 1521 on St. Lazarus's day."
 author: Jagor
 icon: /graphics/flag.png
 ---
 
 
-<!-- EPITOME-CONCLUDING OBSERVATIONS. -->
 
-The Philippines was discovered by Magellan on March 16, 1521–St. Lazarus's day.* But it was not until 1564, after many previous efforts had miscarried, that Legaspi, who left New Spain with five ships, took possession of the Archipelago in the name of Philip II. 
+The Philippines was discovered by Magellan on March 16, 1521 on St. Lazarus's day.*  But it was not until 1564, after many previous efforts had miscarried, was it put under Spain. 
 
-The discoverer had christened the islands after the sanctified Lazarus. This name, however, never grew into general use; the Spaniards persistently calling them the Western Islands—Islas del Poniente; and the Portuguese, Islas del Oriente. Legaspi gave them their present name in honour of Philip II., who, in his turn, conferred upon them the again extinct name of New Castile.t
+Legaspi left New Spain with 5 ships took possession of the Archipelago in the name of Philip 2nd in 1564. 
 
-Legaspi first of all annexed Cebú, and then Panáy; and six years later, in 1571, he first subdued Manilla, which was at that time a village surrounded by palisades, and commenced forthwith the construction of a fortified town. The subjection of the remaining territory was effected so quickly that, upon the death of Legaspi (in August, 1572), all the western parts were in possession of the Spaniards. Numerous wild tribes in the interior, however, the
+Magelland named the islands after the Lazarus.
+- But this name never grew into general use.
+- The Spaniards persistently called them the Western Islands—Islas del Poniente
+- The Portuguese called them Islas del Oriente. 
+
+Legaspi gave the current name in honour of Philip II who gave the islands the extinct name of New Castile.t
+
+Legaspi first of all annexed Cebú, and then Panáy. Six years later, in 1571, he first subdued Manila, which was at that time a village surrounded by palisades. He then built a fortified town. 
+
+The subjection of the remaining territory was effected so quickly that, upon the death of Legaspi (in August, 1572), all the western parts were in possession of the Spaniards. 
 
 • Magellan fell on the 27th April, struck by a poisoned arrow, on the small island of Mactan, lying opposite the harbour of Cebú. His lieutenant, Sebastian de Elcano, doubled the Cape of Good Hope, and on the 6th September, 1522, brought back one of the five ships with which Magellan set sail from St. Lucar in 1519, and eighteen men, under Pigafetta, to the same harbour, and thus accomplished the first voyage round the world in three years and fourteen days.
 
 † “ According to recent authors they were also named after Villalobos in 1543."MORGA, p. 5.
 
-Islamic states of Mindanao and the Sulu group, for example, have to this day preserved their independence. The character of the people, as well as their political disposition, favoured the occupancy. 
+Numerous wild tribes in the interior, however, the Islamic states of Mindanao and the Sulu group, for example, have to this day preserved their independence. The character of the people, as well as their political disposition, favoured the occupancy. 
 
 There was no mighty power, no old dynasty, no influential priestly domination to overcome, no traditions of national pride to suppress. 
 
@@ -108,8 +117,6 @@ After the death of the feoffee:
 {{< q a="Di los Rios">}}
 “A slave who has children by her lord is thereby freed together with her children. The latter, however, are not considered well born, and cannot inherit property; nor do the rights of nobility, supposing in such a case the father to possess any, descend to them."
 {{< /q >}}
-
-
 
 
 The whole country at the outset was completely divided into these livings, the defraying of which formed by far the largest portion of the expenses of the kingdom. 

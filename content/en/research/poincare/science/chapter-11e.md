@@ -101,11 +101,6 @@ something arbitrary about it. In the choice of this convention we can be guided 
 cient reason. Unfortunately, this principle is very vague and very elastic, and in the cursory examination we have
 just made we have seen it assume different forms. 
 
-The form under which we meet it most often is the belief in
-continuity, a belief which it would be difficult to justify
-by apodeictic reasoning, but without which all science
-would be impossible. Finally, the problems to which the
-calculus of probabilities may be applied with profit are
-those in which the result is independent of the hypothe-
-sis made at the outset, provided only that this hypothesis
-satisfies the condition of continuity.
+The form under which we meet it most often is the belief in continuity, a belief which it would be difficult to justify
+by apodeictic reasoning, but without which all science would be impossible. Finally, the problems to which the
+calculus of probabilities may be applied with profit are those in which the result is independent of the hypothesis made at the outset, provided only that this hypothesis satisfies the condition of continuity.

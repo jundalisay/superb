@@ -126,7 +126,6 @@ The analytical process “by construction” does not compel us to descend, but 
 We can only ascend by mathematical induction, for from it alone can we learn something new. Without the aid of this induction, which in certain
 respects differs from, but is as fruitful as, physical induction, construction would be powerless to create science.
 
-This induction is only possible if the same operation can be repeated indefinitely. That is why the theory of chess can never becomenature of mathematical reasoning.
+This induction is only possible if the same operation can be repeated indefinitely. 
 
-a science, for the different moves of the same piece are
-limited and do not resemble each other.
+That is why the theory of chess can never become a science, for the different moves of the same piece are limited and do not resemble each other.

@@ -1,4 +1,5 @@
 ---
+linkTitle: "Chapter 18b"
 title: "Piracy"
 date: 2022-02-16
 image: /covers/travels.jpg

@@ -1,9 +1,10 @@
 ---
+heading: Chapter 7a
 title: "Laguna"
 date: 2022-04-10
 image: /covers/travels.jpg
-description: ""
-linkTitle: "Chapter 7"
+description: "A banca is a boat made out of a hollow tree, with a vaulted bamboo roof which was so low that it was almost impossible to sit upright under it. The banca-builder appeared to have neglected to consider sitting inside."
+linkTitle: "Chapter 7a"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -28,13 +29,13 @@ We passed several villages and tiendas on the banks in which food was exposed fo
 
 At last, with the assistance of the night watchman, I succeeded in hauling them out of some of their friends' houses, where they had concealed themselves. After running aground several times upon the sandbanks, we entered the land and hill-locked Lake of Bay, and reached Jalajala early in the morning
 
-The Pasig forms a natural canal, about 6 leagues long, between Manila Bay and Laguna de Bay. The latter is a freshwater lake, 35 leagues in circumference, that washes the shores of three fertile provinces, Manilla, Laguna, and Cavite. 
+The Pasig forms a natural canal, about 6 leagues long, between Manila Bay and Laguna de Bay. The latter is a freshwater lake, 35 leagues in circumference, that washes the shores of three fertile provinces, Manila, Laguna, and Cavite. 
 
 In the past, large vessels full of cargo used to be able to sail right up to the borders of the lake. Now, they are prevented by sandbanks. 
 
 Even flat-bottomed boats frequently run aground on the Napíndan and Taguig banks.* 
 
-Were the banks removed, and the stone bridge joining Manilla to Binondo replaced by a swing bridge, or a canal made round it, the coasting vessels would be able to ship the produce of the lagoon provinces at the very foot of the fields in which they grow. 
+Were the banks removed, and the stone bridge joining Manila to Binondo replaced by a swing bridge, or a canal made round it, the coasting vessels would be able to ship the produce of the lagoon provinces at the very foot of the fields in which they grow. 
 
 The traffic would be very profitable, the waters would shrink, and the shallows along the shore might be turned into rice and sugar fields. A scheme of this kind was approved more than 30 years ago in Madrid, but it was never implemented. 
 
@@ -44,7 +45,7 @@ The sanding up of the river has, on the contrary, been increased by a quantity o
 
 Jalajala, an estate which occupies the eastern of the two peninsulas which run southward into the lake, is one of the first places visited by strangers. 
 
-It owes this preference to its beautiful position and propinquity to Manilla, and to its fantastic description by its former owner, De la Gironnière. The soil of the peninsula is volcanic ; its range of hills is very rugged, and the watercourses bring down annually a quantity of soil from the mountains, which increases the deposits at their base. 
+It owes this preference to its beautiful position and propinquity to Manila, and to its fantastic description by its former owner, De la Gironnière. The soil of the peninsula is volcanic ; its range of hills is very rugged, and the watercourses bring down annually a quantity of soil from the mountains, which increases the deposits at their base. 
 
 The shoreline, overgrown with grass and prickly sensitive-plants quite eight feet high, makes a capital pasture-ground for buffaloes. Behind it broad fields of rice and sugar extend themselves up to the base of the hills. 
 
@@ -56,13 +57,13 @@ Even prior to the arrival of the Spaniards, the natives used its waters as a rem
 
 The shore of the lake is at this point, and indeed all round its circumference, so flat that it is impossible to land with dry feet from the shallowest canoe. It is quite covered with sand mussels. North-west of Los Banos there lies a small volcanic lake fringed with thick woods, called Dagátan (the enchanted lagoon of travellers), to distinguish it from Dagát, as the Tagals call the great Lake of Bay. 
 
-I saw nothing of the crocodiles which are supposed to infest it, but we put up several flocks of wild-fowl, disturbed by our invasion of their solitude. From Los Banos I had intended to go to Lupang, where, judging from the samples shown me, there is a deposit of fine white silicious earth, which is purified in Manilla and used as paint. 
+I saw nothing of the crocodiles which are supposed to infest it, but we put up several flocks of wild-fowl, disturbed by our invasion of their solitude. From Los Banos I had intended to go to Lupang, where, judging from the samples shown me, there is a deposit of fine white silicious earth, which is purified in Manila and used as paint. 
 
 I did not reach the place, as the guide whom I had with difficulty obtained, pretended, after a couple of miles, to be dead beat. From the inquiries I made, however, I apprehend that it is a kind of solfatara. Several deposits of it appear to exist at the foot of the Maquiling.†
 
 On my return I paid a visit to the island of Talim, which, with the exception of a clearing occupied by a few miserable huts, is uninhabited and thickly overgrown with forest and undergrowth. In the centre of the island is the Soson-Dalaga (maiden's bosom), a dolerite hill with a beautifully formed crest. Upon the shore I
 
-* They take baths for their maladies, and have hot springs for this purpose, particularly along the shore of the king's lake (Estang du Roy, instead of Estang de Bay by a printer's mistake apparently), which is in the island of Manilla.— Thevenot.
+* They take baths for their maladies, and have hot springs for this purpose, particularly along the shore of the king's lake (Estang du Roy, instead of Estang de Bay by a printer's mistake apparently), which is in the island of Manila.— Thevenot.
 
 + “One can scarcely walk thirty paces between Mount Maquiling and a place called Bacon, which lies to the east of Los Banos, without meeting several kinds of natural springs, some very hot, some lukewarm, some of the temperature of the atmosphere, and some very cold. In a description of this place given in our archives for the year 1739, it is recorded that a hill called Natognos lies a mile to the south-east of the village, on the plateau of which there is a small plain 400 feet square, which is kept in constant motion by the volume of vapour issuing from it. The soil from which this vapour issues is an extremely white earth ; it is sometimes thrown up to the height of a yard or a yard and a half, and meeting the lower temperature of the atmosphere falls to the ground in small pioces." - Estado geograph, 1865.
 
@@ -70,7 +71,7 @@ M. DE LA GIRONNIÈRE.
 
 found four eggs containing young crocodiles. When I broke the shells the little reptiles made off.
 
-Although the south-west monsoons generally occur later in Jalajala than in Manilla, it was already raining so hard that I decided to go to Calauan, on the southern shore of the lake, which is protected by the Maquiling, and does not experience the effect of the rainy monsoons till later in the season. I met M, De la Gironnière in Calauan, the “gentilhomme Breton ” who is so well known by his thrilling adventures. He had lately returned from Europe to establish a large sugar manufactory. His enterprise, however, was a failure. The house of the lively old gentleman, whose eccentricity had led him to adopt the dress and the frugal habits of the natives, was neither clean or well kept, although he had a couple of friends to assist him in the business, a Scotchman, and a young Frenchman who had lived in the most refined Parisian society.
+Although the south-west monsoons generally occur later in Jalajala than in Manila, it was already raining so hard that I decided to go to Calauan, on the southern shore of the lake, which is protected by the Maquiling, and does not experience the effect of the rainy monsoons till later in the season. I met M, De la Gironnière in Calauan, the “gentilhomme Breton ” who is so well known by his thrilling adventures. He had lately returned from Europe to establish a large sugar manufactory. His enterprise, however, was a failure. The house of the lively old gentleman, whose eccentricity had led him to adopt the dress and the frugal habits of the natives, was neither clean or well kept, although he had a couple of friends to assist him in the business, a Scotchman, and a young Frenchman who had lived in the most refined Parisian society.
 
 There were several small lakes and a few empty volcanic basins on the estate. To the south-west, not very far from the house, and to the left of the road leading to San Pablo, lies the Llanura de Imúc, a valley of dolerite more than a hundred feet deep. Large blocks of basalt enable one to climb down into the valley, the bottom of which is covered with dense growths. The centre of the basin is occupied by a neglected coffee plantation laid out by a former proprietor. The density of the vegetation prevented my taking more precise observations. 
 
@@ -101,7 +102,7 @@ The proceeds of this monopoly (wines and liquors) were rated at 1,622,810 dollar
 
 It caused espionage, robberies of all sorts, embezzlement, and bribery on a large scale. The retail of the brandy by officials, who are paid by a per centage on the consumption, did a good deal to injure the popular respect for the government. 
 
-Moreover, the imposition of this improper tax on the most important industry of the country, not only crippled the free trade in palms, but also the manufacture of raw sugar; for the government, to favour their own monopoly, had forbidden the sugar manufacturers to make rum from their molasses, which became in consequence so valueless, that in Manilla they were given to the horses. The complaints of the manufacturers at last stirred up the administration to allow the manufacture of rum ; but the palm-brandy monopoly remained intact. 
+Moreover, the imposition of this improper tax on the most important industry of the country, not only crippled the free trade in palms, but also the manufacture of raw sugar; for the government, to favour their own monopoly, had forbidden the sugar manufacturers to make rum from their molasses, which became in consequence so valueless, that in Manila they were given to the horses. The complaints of the manufacturers at last stirred up the administration to allow the manufacture of rum ; but the palm-brandy monopoly remained intact. 
 
 The natives now drank nothing but rum, so that at last, in self-defence, the government entirely abandoned the monopoly (January, 1864). 
 

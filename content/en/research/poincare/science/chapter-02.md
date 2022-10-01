@@ -55,10 +55,7 @@ The mathematical continuum from this point of view would be a pure creation of t
 
 The idea of rational number not seeming to present
 to them any difficulty, they have confined their attention
-mainly to defining incommensurable numbers. But before reproducing their definition here, I must make anmathematical magnitude.
-
-observation that will allay the astonishment which this
-will not fail to provoke in readers who are but little fa-
+mainly to defining incommensurable numbers. But before reproducing their definition here, I must make an observation that will allay the astonishment which this will not fail to provoke in readers who are but little fa-
 miliar with the habits of geometers.
 
 Mathematicians do not study objects, but the relations between objects; to them it is a matter of indifference if these objects are replaced by others, provided that the relations do not change. Matter does not engage
@@ -104,14 +101,7 @@ point of view, the
 √
 incommensurable number 2 is nothing but the symbol
 of this particular method of division of commensurable
-numbers; and to each mode of repartition corresponds in
-this way a number, commensurable or not, which servesmathematical magnitude.
-
-as a symbol. But to be satisfied with this would be to for-
-get the origin of these symbols; it remains to explain how
-we have been led to attribute to them a kind of concrete
-existence, and on the other hand, does not the difficulty
-begin with fractions? 
+numbers; and to each mode of repartition corresponds in this way a number, commensurable or not, which serves as a symbol. But to be satisfied with this would be to forget the origin of these symbols; it remains to explain how we have been led to attribute to them a kind of concrete existence, and on the other hand, does not the difficulty begin with fractions? 
 
 Should we have the notion of these numbers if we did not previously know a matter which
 we conceive as infinitely divisible—i.e., as a continuum?
@@ -156,11 +146,8 @@ if we have recourse to some instrument to make up for
 the weakness of our senses? If, for example, we use a
 microscope? Such terms as A and B, which before were
 indistinguishable from one another, appear now to be dis-
-tinct: but between A and B, which are distinct, is inter-mathematical magnitude.
-29
-calated another new term D, which we can distinguish
-neither from A nor from B. Although we may use the
-most delicate methods, the rough results of our experi-
+tinct: but between A and B, which are distinct, is intercalated another new term D, which we can distinguish
+neither from A nor from B. Although we may use the most delicate methods, the rough results of our experi-
 ments will always present the characters of the physical
 continuum with the contradiction which is inherent in it.
 We only escape from it by incessantly intercalating new
@@ -208,9 +195,7 @@ without limit, and that, so to speak, there is no intrinsic
 reason for stopping. As an abbreviation, I may give the
 name of a mathematical continuum of the first order to
 every aggregate of terms formed after the same law as
-the scale of commensurable numbers. If, then, we inter-mathematical magnitude.
-
-calate new sets according to the laws of incommensurable
+the scale of commensurable numbers. If, then, we intercalate new sets according to the laws of incommensurable
 numbers, we obtain what may be called a continuum of
 the second order.
 

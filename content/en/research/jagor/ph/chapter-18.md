@@ -1,9 +1,10 @@
 ---
+heading: "Chapter 18a"
 title: "Mazarága"
 date: 2022-02-18
 image: /covers/travels.jpg
-description: ""
-linkTitle: "Chapter 17"
+description: "From the Ysaróg I returned through Nága and Nabua to Yriga"
+linkTitle: "Chapter 18a"
 author: Jagor
 icon: /graphics/flag.png
 ---

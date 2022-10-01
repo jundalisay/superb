@@ -2,12 +2,11 @@
 title: "The Tobacco Monopoly"
 date: 2022-01-14
 image: /covers/travels.jpg
-description: ""
+description: "In terms of government revenue, tobacco is the most important product of the Philippines"
 linkTitle: "Chapter 25"
 author: Jagor
 icon: /graphics/flag.png
 ---
-
 
 
 In terms of government revenue, tobacco is the most important product of the Philippines.  

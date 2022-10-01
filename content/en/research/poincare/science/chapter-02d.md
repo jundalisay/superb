@@ -11,9 +11,11 @@ icon: /icons/poincare.jpg
 
 We have discussed above the physical continuum as it is derived from the immediate evidence of our senses—or, if the reader prefers, from the rough results of Fechner’s experiments; I have shown that these results are summed up in the contradictory formulæ
 
+```bash
 A = B,
 B = C,
 A < C.
+```
 
 Let us now see how this notion is generalised, and how from it may be derived the concept of continuums of several dimensions. 
 
@@ -28,11 +30,9 @@ It will be in a measure analogous to the point of the mathematicians, but will n
 
 If the astronomical comparison may be allowed, our “elements” would be like nebulæ, whereas the mathematical points would be like stars.
 
-If this be granted, a system of elements will form a
-continuum, if we can pass from any one of them to any
-other by a series of consecutive elements such that each
-cannot be distinguished from its predecessor. This lin-
-ear series is to the line of the mathematician what the
+If this be granted, a system of elements will form a continuum, if we can pass from any one of them to any other by a series of consecutive elements such that each cannot be distinguished from its predecessor. 
+
+This linear series is to the line of the mathematician what the
 isolated element was to the point.
 
 Before going further, I must explain what is meant by a cut. Let us consider a continuum C, and remove
@@ -40,9 +40,7 @@ from it certain of its elements, which for a moment we shall regard as no longer
 
 By means of this cut, the continuum C will be subdivided into several distinct continuums; the aggregate of elements which remain will cease to form a single continuum. There will then be on C two elements, A and B,mathematical magnitude.
 
-which we must look upon as belonging to two distinct
-continuums; and we see that this must be so, because it
-will be impossible to find a linear series of consecutive elements of C (each of the elements indistinguishable from the preceding, the first being A and the last B), unless one of the elements of this series is indistinguishable from one of the elements of the cut.
+which we must look upon as belonging to two distinct continuums. We see that this must be so, because it will be impossible to find a linear series of consecutive elements of C (each of the elements indistinguishable from the preceding, the first being A and the last B), unless one of the elements of this series is indistinguishable from one of the elements of the cut.
 
 It may happen, on the contrary, that the cut may not be sufficient to subdivide the continuum C. To classify the physical continuums, we must first of all ascertain the nature of the cuts which must be made in order to subdivide them. 
 
@@ -63,15 +61,11 @@ be distinguishable or indistinguishable.
 The conception of the mathematical continuum of `n` dimensions may be led up to quite naturally by a
 process similar to that which we discussed at the beginning of this chapter. A point of such a continuum is defined by a system of n distinct magnitudes which we call its co-ordinates.
 
-The magnitudes need not always be measurable; there is, for instance, one branch of geometry independent of the measure of magnitudes, in which we are only concerned with knowing, for example, if, on a curve ABC, the point B is between the points A and C, and in which
-it is immaterial whether the arc AB is equal to or twice
-the arc BC. 
+The magnitudes need not always be measurable; there is, for instance, one branch of geometry independent of the measure of magnitudes, in which we are only concerned with knowing, for example, if, on a curve ABC, the point B is between the points A and C, and in which it is immaterial whether the arc AB is equal to or twice the arc `BC`. 
 
 This branch is called Analysis Situs. It contains quite a large body of doctrine which has attracted
-the attention of the greatest geometers, and from which
-are derived, one from another, a whole series of remarkable theorems. What distinguishes these theorems from those of ordinary geometry is that they are purely qualitative. 
+the attention of the greatest geometers, and from which are derived, one from another, a whole series of remarkable theorems. What distinguishes these theorems from those of ordinary geometry is that they are purely qualitative. 
 
-They are still true if the figures are copied by
-an unskilful draughtsman, with the result that the proportions are distorted and the straight lines replaced by lines which are more or less curved.mathematical magnitude.
+They are still true if the figures are copied by an unskilful draughtsman, with the result that the proportions are distorted and the straight lines replaced by lines which are more or less curved.mathematical magnitude.
 
-As soon as measurement is introduced into the continuum we have just defined, the continuum becomes space, and geometry is born. But the discussion of this is reserved for Part II.
+As soon as measurement is introduced into the continuum we have just defined, the continuum becomes space, and geometry is born. This is discussed in Part 2.

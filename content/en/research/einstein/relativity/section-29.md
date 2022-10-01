@@ -23,7 +23,7 @@ The behaviour of measuring-rods and clocks and also of freely-moving material po
 
 <!-- We interpret this behaviour as the behaviour of measuring-rods, clocks and material points under the influence of the gravitational field G. -->
 
-With this, we introduce a hypothesis=  the influence of the gravitational field on measuring-rods, clocks and freely-moving material points continues to take place according to the same laws, even when the prevailing gravitational field is not derivable from the Galileian special case, **simply by means of a transformation of co-ordinates**.
+With this, we introduce a hypothesis: the influence of the gravitational field on measuring-rods, clocks and freely-moving material points continues to take place according to the same laws, even when the prevailing gravitational field is not derivable from the Galileian special case, **simply by means of a transformation of co-ordinates**.
 
 The next step is to investigate the space-time behaviour of the gravitational field `G`, which was derived from the Galileian special case simply by the transformation of the co-ordinates.
 - This behaviour is formulated in a law, which is always valid, no matter how the reference-body (mollusk) used in the description may be chosen.
@@ -40,7 +40,7 @@ Finally, GR lets us determine the influence of the gravitational field on <!-- t
 
 <!-- In this connection, we proceed in principle according to the method which has already been explained for measuring-rods, clocks and freely-moving material points. -->
 
-The gravitation of GR removes the defect of= 
+The gravitation of GR removes the defect of:
 - classical mechanics explained in Section 21
 - the wrong interpretation of the empirical law of the equality of inertial and gravitational mass
 

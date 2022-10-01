@@ -1,5 +1,5 @@
 ---
-title: "The Philippines"
+title: "Journey Along The Coast Of Camarines"
 date: 2022-02-24
 image: /covers/travels.jpg
 description: ""
@@ -10,9 +10,9 @@ icon: /graphics/flag.png
 
 
 
-## JOURNEY ALONG THE COAST OF CAMARINES.—ENCROACHMENTS OF THE SEA
+<!-- ## .—ENCROACHMENTS OF THE SEA
 
-DESTROYED PALM FOREST.-PASACÁO.- BAD ROADS.
+DESTROYED PALM FOREST.-PASACÁO.- BAD ROADS. -->
 
 I sent my baggage from Daét to Cabusáo in a schooner. I then proceeded on foot by the road to the coast on the west side of the Bay of San Miguél.
 
@@ -20,21 +20,33 @@ We crossed the mouth of the river in a boat, which the horses swam after ; but t
 
 In simple jacket and cotton hose, I found this precaution needless. In my experience, it is both refreshing and salutary to wear wet clothes in a hot climate. Being already wet, we could go through ditches and puddles. <!-- , which, being already wet through, we no longer fear.  -->
 
-After having waded over eight other little rivers we were obliged to leave the shore and pursue the road to Colási along steep, slippery, forest paths, the place lying right in the middle of the west side of the bay. The sea-shore was very beautiful. Instead of a continuous and, at the ebb, ill-smelling border of mangroves, which is never wanting in those places where the land extends into the sea, the waves here reach the foot of the old trees of the forest, many of which were washed underneath. Amongst the most remarkable was a fringe of stately old Barringtoni, covered with orchids and other epiphytes-gorgeous trees when in flower; the red
+After having waded over eight other little rivers we were obliged to leave the shore and pursue the road to Colási along steep, slippery, forest paths, the place lying right in the middle of the west side of the bay. 
 
-stamens, five inches long, with golden yellow anthers like tassels, depending from the boughs; and their fruit, of the size of the fist, is doubly useful to the fisherman, who employs them, on account of their small specific gravity, in floating his nets, and beats them to pieces to stun the fish. The foremost trees stood bent towards the sea, and have been so deflected probably for a long time, like many others whose remains still projected out of the water. The destruction of this coast appears to be very considerable. Amongst the climbing palms one peculiar kind was very abundant, the stem of which, as thick as the arm, either dragged itself, leafless, along the ground, or hung in arches above the branches, carrying a crown of leaves only at its extremity ; while another, from its habitat the common calamus, had caryota leaves. Wild boars are very plentiful here; a hunter offered us two at one real each.
+The sea-shore was very beautiful. Instead of a continuous and, at the ebb, ill-smelling border of mangroves, which is never wanting in those places where the land extends into the sea, the waves here reach the foot of the old trees of the forest, many of which were washed underneath. 
 
-The direction of the flat coast which extends N.N.W. to S.S.E.
+Amongst the most remarkable was a fringe of stately old Barringtoni, covered with orchids and other epiphytes-gorgeous trees when in flower; the red stamens, five inches long, with golden yellow anthers like tassels, depending from the boughs; and their fruit, of the size of the fist, is doubly useful to the fisherman, who employs them, on account of their small specific gravity, in floating his nets, and beats them to pieces to stun the fish. 
+
+The foremost trees stood bent towards the sea, and have been so deflected probably for a long time, like many others whose remains still projected out of the water. 
+
+The destruction of this coast appears to be very considerable. Amongst the climbing palms one peculiar kind was very abundant, the stem of which, as thick as the arm, either dragged itself, leafless, along the ground, or hung in arches above the branches, carrying a crown of leaves only at its extremity ; while another, from its habitat the common calamus, had caryota leaves. Wild boars are very plentiful here; a hunter offered us two at one real each.
+
 
 ## A COMMERCIAL WRECK
 
-from the point of Daét is here interrupted by the little peak of Colási, which projects to the east, and has grown so rapidly that all old people remember it to have been lower. In the Visita Colási, on the northern slope of the mountain, the sea is so rough that no boat can live in it. 
 
-The inhabitants carry on fishing ; their fishing-grounds lie, however, on the southern slope of the mountain, in the sheltered bay of Lalauigan, which we reached after three hours' journey over the ridge.
+The direction of the flat coast which extends N.N.W. to S.S.E. from the point of Daét is here interrupted by the little peak of Colási, which projects to the east, and has grown so rapidly that all old people remember it to have been lower. In the Visita Colási, on the northern slope of the mountain, the sea is so rough that no boat can live in it. 
 
-A four-oared baroto, hired at this place, as the weather was favourable, was to have conveyed us in two hours to Cabusáo, the port of Nága ; but the wind swung round, and a storm ensued. Thoroughly wet and not without loss, we ran to Barcelonéta, a Visita situated at a third of the distance. The intelligent Teniente of Colási, whom we met here, also confirmed the fact of the rapid growth of the little peak.
+The inhabitants do fishing. Their fishing-grounds lie, however, on the southern slope of the mountain, in the sheltered bay of Lalauigan, which we reached after 3 hours' journey over the ridge.
 
-In opposition to my wish to ascend the mountain, great obstạcles were said to exist; which would hardly occur during the succeeding weeks, when every one would be occupied in preparations for the Easter festival. As these objections did not convince me, a more substantial reason was discovered the next morning. 
+A four-oared baroto, hired at this place, as the weather was favourable, was to have conveyed us in 2 hours to Cabusáo, the port of Nága. But the wind swung round, and a storm ensued. 
+
+Thoroughly wet and not without loss, we ran to Barcelonéta, a Visita situated at 1/3 of the distance.
+
+There we met the intelligent Teniente of Colási. He also confirmed the rapid growth of the little peak.
+
+In opposition to my wish to ascend the mountain, great obstạcles were said to exist; which would hardly occur during the succeeding weeks, when every one would be occupied in preparations for the Easter festival. 
+
+These objections did not convince me, a more substantial reason was discovered the next morning. 
 
 Inland shoes are excellent for the mud, and particularly for horseback ; but for climbing mountains, or rough ground, they would not last a day. ; and the one remaining pair of . strong European shoes, which I reserved for particular purposes, had been given away by my servant, who did not like climbing mountains, on the pretext they were much too small for me.
 
@@ -46,16 +58,11 @@ The coast was still more beautiful than on the preceding day, particularly in on
 
 I could not account for the bareness of the trunks, until I discovered a hut in the midst of the palms, in which two men were endeavouring to anticipate the waves in their work of destruction by the preparation of sugar (tunguleh).
 
-For this purpose, after stripping off the leaves (this palm flowering at the top), the upper end of the stem is cut across, the surface of the incision being inclined about five degrees towards the horizon, and, near its lower edge, hollowed out to a very shallow gutter. The juice exudes over the whole surface of the cut, with the exception of the intersected exterior petioles, and, being collected in the shallow channel, is conducted by a piece of banana-leaf, two inches broad, and four inches long, into a bamboo-cane attached to the trunk. In order to avert the rain from the saccharine issue, which has a faint, pleasantly aromatic flavour as of barley-sugar, all the trees which have been tapped are provided with caps formed
+For this purpose, after stripping off the leaves (this palm flowering at the top), the upper end of the stem is cut across, the surface of the incision being inclined about five degrees towards the horizon, and, near its lower edge, hollowed out to a very shallow gutter. The juice exudes over the whole surface of the cut, with the exception of the intersected exterior petioles, and, being collected in the shallow channel, is conducted by a piece of banana-leaf, two inches broad, and four inches long, into a bamboo-cane attached to the trunk. In order to avert the rain from the saccharine issue, which has a faint, pleasantly aromatic flavour as of barley-sugar, all the trees which have been tapped are provided with caps formed of bent and folded palm-leaves. The average daily produce of each tree is four bamboos, the interior of which is about three inches and a half in diameter. When removed, they are full to about eighteen inches ; which gives somewhat more than ten quarts daily.
 
 * In Daét at that season six nuts cost 1 cuarto; and in Naga, only fifteen leagues away by water, they expected to sell two nuts for 9 cuartos (twentysevenfold). The fact was that in Naga, at that time, one nut fetched 2 cuarto ;twelve times as much as in Daét.
 
- 
-of bent and folded palm-leaves. The average daily produce of each tree is four bamboos, the interior of which is about three inches and a half in diameter. When removed, they are full to about eighteen inches ; which gives somewhat more than ten quarts daily.
-
-The produce of each tree of course is very unequal. Always
-
-intermittent, it ceases completely after two months—at the utmost, three months ; but, the proportion of those newly cut to those cut at an earlier date being the same, the yield of the incisions is about equal.
+The produce of each tree of course is very unequal. Always intermittent, it ceases completely after two months—at the utmost, three months ; but, the proportion of those newly cut to those cut at an earlier date being the same, the yield of the incisions is about equal.
 
 The juice of 33 palms, after evaporation in an iron pan immediately upon each collection, produces 1 ganta, or (there being four such collections) 4 gantas, daily. The weekly result being 20 gantas, or two tinajas of sugar, each worth two dollars and a half on the spot. 
 
@@ -63,7 +70,9 @@ This statement, derived from the people themselves, probably shows the proportio
 
 Assuming the above numbers as correct, however, one of these magnificent trees would give about one dollar and two-thirds, or, after deducting the labourers' wages (1 r. per diem), about a thaler and two thirds; not a large sum truly; but it is some consolation to know that, even if man did not interfere, these trees would in process of time fall victims to the breakers, and that, even if protected against external ravages, they are doomed to natural extinction after once producing fruit.
 
-Cabusáo lies in the southern angle of the Bay of San Miguel, which is, almost on every side, surrounded by high mountains, and affords good anchorage for ships. From here I repaired across Nága to the south coast. Four leagues from Nága, in the heart of Ragay, on the southern border of Luzon, is the small but deep harbour of Pasacáo; and two hours by water conducted us to the intermediate Visita Pamplona, whence the route is pursued by land. The still-existing remnant of the old road was in a miserable condition, and even at that dry season of the year scarcely passable; the bridges over the numerous little ditches were broken down, and in many places, right across the road, lay large stones and branches of trees which had been brought there years before to repair the bridges, and, having been unused, have ever since continued to obstruct the road.
+Cabusáo lies in the southern angle of the Bay of San Miguel, which is, almost on every side, surrounded by high mountains, and affords good anchorage for ships. From here I repaired across Nága to the south coast. Four leagues from Nága, in the heart of Ragay, on the southern border of Luzon, is the small but deep harbour of Pasacáo; and two hours by water conducted us to the intermediate Visita Pamplona, whence the route is pursued by land. 
+
+The still-existing remnant of the old road was in a miserable condition, and even at that dry season of the year scarcely passable; the bridges over the numerous little ditches were broken down, and in many places, right across the road, lay large stones and branches of trees which had been brought there years before to repair the bridges, and, having been unused, have ever since continued to obstruct the road.
 
 In Quitang, between Pamplona and Pasacáo, 2 brooks unite themselves into 1 little river where <!-- debouching at the latter place, --> a young Frenchman had established a hacienda. 
 
@@ -92,9 +101,11 @@ Here our boat floated along over gardens of coral, swarming with magnificently c
 On the river Calebáyan, on the further side of the point Tanáun, we came upon a solitary shed, our night-quarters. Here the limestone range is interrupted by an isolated cliff on the left bank of the little river, consisting of a crystalline rock chiefly composed of hornblende ; which moreover, on the side exposed to the water, is surrounded completely by limestone.
 
 
-## DEFECTIVE COMMUNICATION
+## Defective Communication
 
-The surrounding mountains must swarm with wild boars. Under the thatched roof of our hut, which serves as a shelter to occasional hunters, more than a hundred and fifty lower jaw-bones were set up as hunting trophies. The place appeared as if created for the breeding of cattle. Soft with fodder grass, and covered with a few groups of trees, with slopes intersected by rustling brooks, it rose up out of the sea, and was encompassed by a steep wall of rock in the form of a semicircle ; and here cattle would find grass, water, shade, and the protection of an enclosing circumvallation. 
+The surrounding mountains must swarm with wild boars. Under the thatched roof of our hut, which serves as a shelter to occasional hunters, more than a hundred and fifty lower jaw-bones were set up as hunting trophies. 
+
+The place appeared as if created for the breeding of cattle. Soft with fodder grass, and covered with a few groups of trees, with slopes intersected by rustling brooks, it rose up out of the sea, and was encompassed by a steep wall of rock in the form of a semicircle ; and here cattle would find grass, water, shade, and the protection of an enclosing circumvallation. 
 
 While travelling along the coast, we had remarked a succession of similar localities, which however, from lack of enterprise and from the dread of pirates, were not utilised. As soon as our supper was prepared, we carefully extinguished our fire, that it might not serve as a signal to the vagabonds of the sea, and kept night watches.
 
@@ -104,7 +115,11 @@ The north coast of Camarines is almost unapproachable during the north-east mons
 
 The most fertile districts of the eastern provinces, which during summer export their produce by the northern ports, in the winter often remain for months cut off from all communication with the chief town, because there is no road over the small strip of land to the south coast. How much has been done by Nature, and how little by man, to facilitate this intercourse, is very evident when we reflect upon the condition of the road to Pasacáo, lately described, in connection with the condition of matters in the east, as shown by the map.
 
-Two rivers, one coming from the north-west, and the other from the south-east, and both navigable before they reach the borders of the province, flow through the middle of it in a line parallel with the coast (taking no account of its windings), and, after their junction, send their waters together through the estuary of Cabusáo into the Bay of San Miguel. The whole province, therefore, is traversed through its centre by two navigable rivers, which, as regards commerce, form only one. But the harbour of Cabusao, at the bottom of the Bay of San Miguel, is not accessible during the north-east monsoon, and has this further disadvantage, that the intercourse of the whole of the eastern part of Luzon with Manila can be carried on only by a very circuitous route. On the south coast, on the other hand, is the harbour of Pasacáo, into which a navigable little river, above a mile in width, discharges itself; so that the distance between this river highway and the nearest point of the Bicol River amounts to a little more than a mile.
+Two rivers, one coming from the north-west, and the other from the south-east, and both navigable before they reach the borders of the province, flow through the middle of it in a line parallel with the coast (taking no account of its windings), and, after their junction, send their waters together through the estuary of Cabusáo into the Bay of San Miguel. 
+
+The whole province, therefore, is traversed through its centre by two navigable rivers, which, as regards commerce, form only one. But the harbour of Cabusao, at the bottom of the Bay of San Miguel, is not accessible during the north-east monsoon, and has this further disadvantage, that the intercourse of the whole of the eastern part of Luzon with Manila can be carried on only by a very circuitous route. 
+
+On the south coast, on the other hand, is the harbour of Pasacáo, into which a navigable little river, above a mile in width, discharges itself; so that the distance between this river highway and the nearest point of the Bicol River amounts to a little more than a mile.
 
 The road connecting the two seas, laid out by an active alcalde in 1847, and maintained up to 1852, was however, at the date of my inquiry, in so bad a condition that a pico of abacá paid 2 r. freight for this short distance, in the dry season ; and in the wet season it could not be forwarded for double the price.*
 
@@ -137,3 +152,5 @@ Besides, in Spain itself, matters are no better. Transportation in Spain is so v
 <!-- • “The Economical Position of Spain,” Delmarre, p. 7. 
 + Lesage, “ Coup d'Eil," in Journ. des Economistes, September, 1868. , 
  -->
+
+ 

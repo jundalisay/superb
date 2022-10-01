@@ -1,42 +1,56 @@
 ---
-title: "The Ignatius Bean"
-date: 2022-02-06
+title: "Idolatry Of The Dead"
+date: 2022-02-08
 image: /covers/travels.jpg
-description: ""
-linkTitle: "Chapter 20"
+description: "Their chief idolatry consisted in the worship of those of their ancestors who had most distinguished themselves by courage and genius, whom they regarded as deities"
+linkTitle: "Chapter 20c"
 author: Jagor
 icon: /graphics/flag.png
 ---
 
 
-<!-- The crocodile, when it has swallowed the bait and the hook at the same time, endeavours in vain to get away, for the pliability of the raft prevents its being torn to pieces, and the peculiar elasticity of the bundle of fibres prevents its being bitten through. The raft serves likewise as a buoy for the captured animal. According to the statements of the hunters, the large crocodiles live far from human habitations, generally selecting the close vegetation in an oozy swamp, in which their bellies, dragging heavily along, leave trails behind them which betray them to the initiated. After a week the pastor mentioned that his party had sent in three crocodiles, the largest of which, however, measured only eighteen feet, but that he had not kept one for me, as he hoped to obtain one of thirty feet. His expectation, however, was not fulfilled. -->
+Their chief idolatry consisted in the worship of those of their ancestors who had most distinguished themselves by courage and genius, whom they regarded as deities.
 
-In the environs of Basey, the Ignatius bean grows in remarkable abundance, as it also does in the south of Sámar and in some other of the Bisayan islands. It is not present in Luzon. But it is very likely that I have introduced it there unwittingly. 
+They called them humalagar, which is the same as manes in the Latin.
 
-Its sphere of propagation is very limited. My attempts to transplant it to the Botanical Garden of Buitenzorg were fruitless. 
+Even the aged died under this conceit, choosing particular places, such as one on the island of Leyté, which allowed of their being interred at the edge of the sea, in order that the mariners who crossed over might acknowledge them as deities, and pay 'them respect. (Thévenot, Religieux, p. 2.)
 
-Some large plants intended for that purpose, which during my absence arrived for me at Darága, were incorporated by one of my patrons into his own garden ; and some, which were collected by himself and brought to Manila, were afterwards lost. 
+They place the dead in hard coffins of indestructible wood. Male and female slaves were sacrificed to them, that they should not be unattended in the other world. 
 
-Every effort to get these seeds (kernels), which are used over the whole of Eastern Asia as medicine, to germinate miscarried. They having been boiled before transmission, ostensibly for their preservation, but most probably to secure the monopoly of them.
+If a person of consideration died, silence was imposed upon the whole of the people, and its duration was regulated by the rank of the deceased; and under certain circumstances it was not discontinued until his relations had killed many other persons to appease the spirit of the dead. (Ibid., p. 7.)
 
-According to Flückinger,* the gourd-shaped berry of the climbing shrub (Ignatia amara, L. Strychnos Ignatii, Berg. Ignatiana Philippinica, Lour.) contains twenty-four irregular eggshaped seeds of the size of an inch which, however, are not so poisonous as the Ignatius beans, which taste like crack-nuts. In these seeds strychnine was found by Pelletier and Caventou in 1818, as it subsequently was in crack-nuts. The former contained twice as much of it as the latter, viz. 1} per cent. ; but, as they are four times as dear, it is only produced from the latter.
+This is why the oldest of them chose some remarkable spot in the mountains, and particularly on headlands projecting into the sea, in order to be worshipped by the sailors as deities. (Gemelli Careri, p. 449.)
 
-In many households in the Philippines the dangerous drug is to be found as a highly prized remedy, under the name of Pepita de Catbalónga. Gemelli Careri mentions it, and quotes thirteen different uses of it. Dr. Rosenthal (“Synopsis Plantarum
+From Tacloban, which I chose for my head-quarters on account of its convenient tribunál, and because it is well supplied with provisions, I returned on the following day to Sámar, and then to Basey, which is opposite to Tacloban. 
 
-• Compendium of the “ Pharmacopoeia of the Vegetable Kingdom,” p. 698.
+The people of Basey are notorious over all Sámar for their laziness and their endowments. But they are advantageously distinguished from the inhabitants of Taclóban by their purity of manners. 
 
-Diaphor." p. 363) says:—“In India it has been employed as a remedy against cholera under the name of Papecta.” Papecta is probably a clerical error. In K. Lall Dey's “Indigenous Drugs of India,” it is called Papeeta, which is pronounced Pepita in English ; and Pepita is the Spanish word for the kernel of a fruit. It is also held in high estimation as an antidote for the bite of serpents. 
+Basey is on the delta of the river, which is named after it. 
 
-Father Blanco (“Flora of the Philippines,” 61), states that he has more than once proved its efficacy in this respect in his own person ; but he cautions against its employment internally, as it had been fatal in very many cases. It should not be taken into the mouth, for should the spittle be swallowed, and vomiting not ensue, death would be inevitable. The pastor of Tabaco, however, almost always carried a pepita in his mouth. 
+We proceeded up a small arm of the principal stream, which winds, with a very slight fall, through the plain ; the brackish water, and the fringe of nipapalms which accompanies it, consequently extending several leagues into the country. Cocoa plantations stretch behind them; and there the floods of water (avenidas), which sometimes take place in consequence of the narrow rocky bed of the upper part of the river, cause great devastation, as was evident from the mutilated palms which, torn away from their standing-place, rise up out of the middle of the river. 
 
-From 1842, he began occasionally to take an Ignatius bean into his mouth as a protection against cholera, and so gradually accustomed himself to it. When I met him in 1860 he was quite well. He ascribed his health and vigour expressly to that habit. 
+After five hours' rowing we passed out of the flat country into a narrow valley, with steep sides of marble, which progressively closed in and became higher. In several places they are underwashed, cleft, and hurled over each other, and with their naked side-walls form a beautiful contrast to the blue sky, the clear, greenish river, and the luxuriant lianas, which, attaching themselves to every inequality to which they could cling, hung in long garlands over the rocks.
 
-He said that in cases of cholera, the decoction was added in small doses into tea. But it was most efficacious when mixed with brandy and applied as a liniment.
+The stream became so rapid and so shallow that the party disembarked and dragged the boat over the stony bed. 
 
-Huc also (“Thibet,” i. 252) commends the expressed juice of the kouo-kouo (Faba Ign. amar.), both for internal and external use, and remarks that it plays a great part in Chinese medicine, no apothecary's shop being without it. 
+In this manner we passed through a sharp curve, twelve feet in height, formed by two rocks thrown opposite to each other, into a tranquil oval-shaped basin of water enclosed in a circle of limestone walls, inclining inwards, of from sixty to seventy feet in height; on the upper edge of which a circle of trees permitted only a misty sunlight to glimmer through the thick foliage. 
 
-Formerly, the poisonous drug was considered a charm, as it is still by many. 
+A magnificent gateway of rock, fifty to sixty feet high, and adorned with numerous stalactites, raised itself up opposite the low entrance ; and through it we could see, at some distance, the upper portion of the river bathed in the sun. A cavern of a hundred feet in length, and easily climbed, opened itself in the left side of the oval court, some sixty feet above the surface of the water; and it ended in a small gateway, through which you stepped on to a projection like a balcony, studded with stalactites. From this point both the landscape and the rocky cauldron are visible, and the latter is seen to be the remains of a stalactitic cavern, the roof of which has fallen in. The beauty and peculiar character of the place have been felt even by the natives, who have called it
 
-Father Camel* states that the Catbalogan or Bisayan-bean is called Igasur or Mananaog (the victorious) by the natives. It was generally worn as an amulet round the neck to protect against poison, contagion, magic, and philtres. It was so potent that the Devil in propria personâ could not harm the wearer. Especially efficacious is it against a poison communicated by breathing upon one, for not only does it protect the wearer, but it kills the individual who wishes to poison him. Camel further mentions a series of miracles which superstition ascribed to the Ignatius bean.
+Sogóton (properly, a bay in the sea). In the very hard lime. stone, which is like marble, I observed traces of bivalves and multitudes of spines of the sea-urchin, but no well-defined remains could be knocked off. The river could still be followed a short distance further upwards; and in its bed there were disjointed fragments of talcose and chloritic rocks.
 
-* “ Philos. Trans." 1699, No. 249, pp. 44, 87.
+A few small fishes were obtained with much difficulty; and amongst them was a new and interesting species, viviparous.* An allied species (H. fluviatilis, Bleeker) which I had two years previously found in a limestone cavern on Nusa Kumbangan, in Java, likewise contained living young ones.
+
+The net employed in fishing appears to be suited to the locality, which is a shallow river, full of transparent blocks. It is a fine-meshed, longish, four-cornered net, having its ample sides fastened to two poles of bamboo, which at the bottom were provided with a kind of wooden shoes, which curve upwards towards the stems when pushed forwards. The fisherman, taking hold of the upper ends of the poles, pushes the net, which is held obliquely before him, and the wooden shoes cause it to slide over the stones, while another person drives the fish towards him.
+
+On the right bank, below the cavern, and twenty feet above the surface of the water, there are beds of fossils, pectunculus, tapes, and placuna, some of which, from the fact of their barely adhering by the tip, must be of very recent date. I passed the night in a small hut, which was quickly erected for me, and on the following day attempted to pass up the river as far as the limits of the crystalline rock, but in vain. In the afternoon we set out on our return to Basey, which we reached at night.
+
+Basey is situated on a bank of clay, about 50 feet above the sea, which towards the west elevates itself into a hill several hundred feet in height, and with steep sides. At twenty-five to thirty feet above the sea I found the same recent beds of mussels as in the stalactitic cavern of Sogóton. From the statements of the cura and of other persons, a rapid elevation of the coasts seems to be taking place in this country. Thirty years ago ships could lie alongside the land in three fathoms of water at the flood, whereas the depth at the same place now is not much more than one fathom. Immediately opposite to Basey lie two small islands, Genamók and Tapontónan, which, at the present time, appear to be surrounded by a sandbank at the lowest ebb-tide. Twenty years ago nothing of the kind was to be seen. Supposing these particulars to be correct, we must next ascertain what proportion of these changes of level is due to the floods, and how much to volcanic elevation ; which, if we may judge by the neighbouring active solfatara at Leyté, must always be of considerable amount.
+
+* Hemiramphus riviparus, W. Peters (Berlin Monatsb., 16th March, 1865).
+
+As the pastor assured us, there are crocodiles in the river Basey over 30 feet in length, those in excess of 20 feet being .numerous. The obliging father promised me one of at least 24 feet, whose skeleton I would gladly have secured ; 
+
+He sent out some men who are so practised in the capture of these animals that they are dispatched to distant places for the purpose. Their contrivance for capturing them, which I, however, never personally witnessed, consists of a light raft of bamboo, with a stage, on which, several feet above the water, a dog or a cat is bound. Alongside the animal is placed a strong iron hook, which is fastened to the swimming bamboo by means of fibres of abaca.
+
+

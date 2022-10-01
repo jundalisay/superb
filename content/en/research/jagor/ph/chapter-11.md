@@ -1,17 +1,26 @@
 ---
-title: "The Philippines"
+heading: Chapter 11
+title: "Excursions To Bulusán And Sorsogón"
 date: 2022-03-24
 image: /covers/travels.jpg
-description: ""
+description: "I saw several ruined square towers, made of blocks of coral, and built by the Jesuits as a protection against the Moors--a term here applied to the pirates. Like the Moors who were formerly in Spain, they are Muslims"
 linkTitle: "Chapter 11"
 author: Jagor
 icon: /graphics/flag.png
 ---
 
 
-## EXCURSIONS TO BULUSÁN AND SORSOGÓN.—ROAD MAKING.—PIRATES.
+## 
 
-During the whole time I was confined to the house at Darága, the weather was remarkably fine ; but unfortunately the bright days had come to an end by the time I was ready to make a start, for the north-east monsoon, the sure forerunner of rain in this part of the Archipelago, sets in in October. In spite, however, of the weather, I determined to make another attempt to ascend the mountain at Bulusán. I found I could go by boat to Bacon in the Bay of Albáy, a distance of seven leagues, whence I could ride to Gúbat on the east coast, three leagues further, and then in a southerly direction along the shore to Bulusán. An experienced old native, who provided a. boat and crew, had appointed ten o'clock at night as the best time for my departure. Just as we were about to start, however, we were told that four piratical craft had been seen in the bay. In a twinkling, the crew disappeared, and I was left alone in the darkness ; and it took me four hours with the assistance of a Spaniard to find them again, and make a fresh start. 
+<!-- .—ROAD MAKING.—PIRATES. -->
+
+During the whole time I was confined to the house at Darága, the weather was remarkably fine ; but unfortunately the bright days had come to an end by the time I was ready to make a start, for the north-east monsoon, the sure forerunner of rain in this part of the Archipelago, sets in in October. 
+
+In spite, however, of the weather, I determined to make another attempt to ascend the mountain at Bulusán. 
+
+I found I could go by boat to Bacon in the Bay of Albáy, a distance of seven leagues, whence I could ride to Gúbat on the east coast, three leagues further, and then in a southerly direction along the shore to Bulusán. 
+
+An experienced old native, who provided a boat and crew, had appointed ten o'clock at night as the best time for my departure. Just as we were about to start, however, we were told that four piratical craft had been seen in the bay. In a twinkling, the crew disappeared, and I was left alone in the darkness ; and it took me four hours with the assistance of a Spaniard to find them again, and make a fresh start. 
 
 Around 9am we reached Bacon, whence I rode across a very flat country to San Roque, where the road leading to Gúbat took a sharp turn to the south-east, and presently became an extremely bad one. After I had passed Gúbat, my way lay along the shore.
 

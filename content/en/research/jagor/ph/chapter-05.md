@@ -1,8 +1,9 @@
 ---
+heading: Chapter 5
 title: "Geography of The Philippines"
 date: 2022-04-15
 image: /covers/travels.jpg
-description: ""
+description: "If the Bashee or Batanes Islands be included, the area of the Philippinian Archipelago extends to the 21st parallel of north latitude"
 linkTitle: "Chapter 5"
 author: Jagor
 icon: /graphics/flag.png

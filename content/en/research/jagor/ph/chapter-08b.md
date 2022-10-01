@@ -1,8 +1,9 @@
 ---
+heading: Chapter 8b
 title: "Legaspi in Albay"
 date: 2022-04-04
 image: /covers/travels.jpg
-description: "The traffic between Manilla and Legaspi is at its height between January and October. But during the autumn months, all communication by water ceases"
+description: "The traffic between Manila and Legaspi is at its height between January and October. But during the autumn months, all communication by water ceases"
 linkTitle: "Chapter 8b"
 author: Jagor
 icon: /graphics/flag.png
@@ -19,9 +20,9 @@ The northnorth-east wind is the prevailing one on this coast; the south-west bre
 
 They generally set in with a gentle westerly wind, accompanied with rain. The gale presently veers round to the north or the south, and attains the height of its fury when it reaches the north-east or the south-east. 
 
-After the storm a calm generally reigns, succeeded by the usual wind of the prevailing monsoon. The lightly-built elastic houses of the country are capitally suited to withstand these storms; but roofs and defective houses are frequently carried away. The traffic between Manilla and Legaspi is at its height between January and October. But during the autumn months, all communication by water ceases. 
+After the storm a calm generally reigns, succeeded by the usual wind of the prevailing monsoon. The lightly-built elastic houses of the country are capitally suited to withstand these storms; but roofs and defective houses are frequently carried away. The traffic between Manila and Legaspi is at its height between January and October. But during the autumn months, all communication by water ceases. 
 
-The letter-post, which arrives pretty regularly every week, is then the only link between the two places. At this season heavy packages can be sent only by a circuitous and expensive route along the south coast, and thence by water to Manilla. 
+The letter-post, which arrives pretty regularly every week, is then the only link between the two places. At this season heavy packages can be sent only by a circuitous and expensive route along the south coast, and thence by water to Manila. 
 
 Much more favourably situated for navigation is the port of Sorsogon, the mouth of which opens to the west, and is protected by the island of Bagaláo, which lies in front of it. 
 

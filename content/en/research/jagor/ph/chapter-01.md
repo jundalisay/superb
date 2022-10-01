@@ -1,12 +1,10 @@
 ---
+heading: Chapter 1
 title: "Commercial Relations"
+linkTitle: Chapter 1
 date: 2022-04-30
 image: /covers/travels.jpg
-description: ""
-linkb: "/research/jagor/ph"
-linkbtext: "Index"
-linkf: "/research/jagor/ph/chapter-01b"
-linkftext: "Chapter 1b"
+description: "The Philippines, or at any rate, the principal market for their commerce, would have fallen within the limits of the western hemisphere, to which indeed they were relegated by the illustrious Spanish geographers at Badajoz"
 author: Jagor
 icon: /graphics/flag.png
 ---
@@ -54,7 +52,7 @@ End of 16th century | 40,000 dollars | 1,330,000
 1861 | 2,130,000 | 
 
 
-the Philippines, or at any rate, the principal market for their commerce, would have fallen within the limits of the western hemisphere, to which indeed they were relegated by the illustrious Spanish geographers at Badajoz.
+The Philippines, or at any rate, the principal market for their commerce, would have fallen within the limits of the western hemisphere, to which indeed they were relegated by the illustrious Spanish geographers at Badajoz.
 
 The Bull issued by Alexander 6th on May 4, 1493. It divided the world into 2 hemispheres:
 - All heathen lands in the eastern half should belong to the Portuguese. 

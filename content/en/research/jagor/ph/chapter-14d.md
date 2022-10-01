@@ -1,4 +1,5 @@
 ---
+heading: Chapter 14d
 title: "Amok, Bangungot, and Nasal Acuteness"
 date: 2022-03-04
 image: /covers/travels.jpg

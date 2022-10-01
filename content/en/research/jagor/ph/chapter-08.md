@@ -1,4 +1,5 @@
 ---
+heading: Chapter 8a
 title: "The San Bernardino Straits"
 date: 2022-04-06
 image: /covers/travels.jpg
@@ -15,7 +16,9 @@ BERNARDINO STRAITS.—THE BULUSÁN VOLCANO.-LEGÁSPI.-SORSOGÓN. -->
 
 Towards the end of August I started from Manila for Albáy in a schooner which had brought a cargo of hemp and was returning in ballast. 
 
-It was fine when we set sail; but on the following day the signs of a coming storm increased so rapidly that the captain resolved to return and seek protection in the small but secure harbour of Marivéles, a creek on the southern shore of Bataan, the province forming the western boundary of the bay of Manilla. We reached it about two o'clock in the night, after cruising about for fourteen hours in search of the entrance ; and we were obliged to remain here at anchor for a fortnight, as it rained and stormed Negrito of Marivéles. The back of his head is shor; and he continuously for that period.
+It was fine when we set sail; but on the following day the signs of a coming storm increased so rapidly that the captain resolved to return and seek protection in the small but secure harbour of Marivéles, a creek on the southern shore of Bataan, the province forming the western boundary of the bay of Manila. 
+
+We reached it about two o'clock in the night, after cruising about for 14 hours in search of the entrance ; and we were obliged to remain here at anchor for a fortnight, as it rained and stormed Negrito of Marivéles. The back of his head is shor; and he continuously for that period.
 
 The weather obliged me to limit my excursions to the immediate neighbourhood of Marivéles. Unfortunately it was not till the close of our stay that I learnt that there was a colony of negritos in the mountains; and it was not till just before my departure that I got a chance of seeing and sketching a couple of them, male and female. 
 
@@ -23,7 +26,7 @@ The inhabitants of Marivéles have not a very good reputation. The place is only
 
 Some of the young girls were of striking beauty and of quite a light colour; often being in reality of mixed race, though they passed as of pure Tagal blood. 
 
-This is a circumstance I have observed in many sea-ports, and in the neighbourhood of Manilla ; but, in the districts which are almost entirely un visited by the Spaniards, the natives are much darker and of purer race.
+This is a circumstance I have observed in many sea-ports, and in the neighbourhood of Manila ; but, in the districts which are almost entirely un visited by the Spaniards, the natives are much darker and of purer race.
 
 The back of his head is shorn ; and he wears gaiters of wild boar's bristles.
 
@@ -32,15 +35,15 @@ The back of his head is shorn ; and he wears gaiters of wild boar's bristles.
 
 The number of ships which were seeking protection from the weather in this port amounted to ten, of which three were schooners. Every morning regularly a small pontin* used to * From ponte, deck; a two-masted vessel, with mat sails, of about 100 tons burden. attempt to set sail; but it scarcely got outside into the open sea before it returned, when it was saluted with the jeers and laughter of the others. It was hunger that made them so bold. 
 
-The crew, who had taken some of their own produce to Manilla, had spent the proceeds of their venture, and had started on their return voyage scantily provided with provisions, with the hope and intention of soon reaching their home, which they would doubtless have done with a favourable wind. Such cases frequently occur. A few natives unite to charter a small vessel, and load it with the produce of their own fields, which they set off to sell in Manilla.
+The crew, who had taken some of their own produce to Manila, had spent the proceeds of their venture, and had started on their return voyage scantily provided with provisions, with the hope and intention of soon reaching their home, which they would doubtless have done with a favourable wind. Such cases frequently occur. A few natives unite to charter a small vessel, and load it with the produce of their own fields, which they set off to sell in Manila.
 
 The straits between the islands resemble beautiful wide rivers with charming spots upon the banks inhabited by small colonies ; and the sailors generally find the weather get squally towards evening, and anchor till the morning breaks.
 
 The hospitable coast supplies them with fish, crabs, plenty of mussels, and frequently unprotected cocoa-nuts. If it is inhabited, so much the better. Indian hospitality is ample, and much more comprehensive than that practised in Europe. 
 
-The crews are accommodated in the different huts. After a repast shared in common, and washed down by copious draughts of palm-wine, mats are stretched on the floor; the lamps-large shells, fitted with rush wicks—are extinguished, and the occupants of the hut fall asleep. Once, as I was sailing into the bay of Manilla after a five days' cruise, we overtook a craft which had sailed from the same port as we had with a cargo of cocoa-nut oil for Manilla, and which had spent six months upon its trip. It is by no means uncommon for a crew which makes a long stay in the capital to squander the whole proceeds of their cargo.
+The crews are accommodated in the different huts. After a repast shared in common, and washed down by copious draughts of palm-wine, mats are stretched on the floor; the lamps-large shells, fitted with rush wicks—are extinguished, and the occupants of the hut fall asleep. Once, as I was sailing into the bay of Manila after a five days' cruise, we overtook a craft which had sailed from the same port as we had with a cargo of cocoa-nut oil for Manila, and which had spent six months upon its trip. It is by no means uncommon for a crew which makes a long stay in the capital to squander the whole proceeds of their cargo.
 
-At last one evening, when the storm had quite passed away, we sailed out of Mariveles. A small, volcanic, pillar-shaped rock, bearing a striking resemblance to the island of the Cyclops, off the coast of Sicily, lies in front of the harbour. We sailed along the coast of Cavité till we reached Punta Santiago, the south western extremity of Luzon, and then turned to the east, through the fine straits that lie between Luzon to the north and the island of Bisaya to the south. As the sun rose, a beautiful spectacle presented itself. To the north was the peak of the Taal volcano, towering above the flat plains of Batangas; and to the south the thickly-wooded, but rock-bound coast of Mindóro, the iron line of which was broken by the harbour of Porto Galera, protected from the fury of the waves by a small islet lying immediately before it. The waters around us were thickly studded with vessels which haul taken refuge from the storm in the ports of Bisaya, and were now returning to Manilla.
+At last one evening, when the storm had quite passed away, we sailed out of Mariveles. A small, volcanic, pillar-shaped rock, bearing a striking resemblance to the island of the Cyclops, off the coast of Sicily, lies in front of the harbour. We sailed along the coast of Cavité till we reached Punta Santiago, the south western extremity of Luzon, and then turned to the east, through the fine straits that lie between Luzon to the north and the island of Bisaya to the south. As the sun rose, a beautiful spectacle presented itself. To the north was the peak of the Taal volcano, towering above the flat plains of Batangas; and to the south the thickly-wooded, but rock-bound coast of Mindóro, the iron line of which was broken by the harbour of Porto Galera, protected from the fury of the waves by a small islet lying immediately before it. The waters around us were thickly studded with vessels which haul taken refuge from the storm in the ports of Bisaya, and were now returning to Manila.
 
 These straits, which extend from the south-east to the northwest, are the great commercial highway of the Archipelago, and remain navigable during the whole year, being protected from the fury of the north-easterly winds by the sheltering peninsula of Luzon, which projects to the south-east, and by Samar, which extends in a parallel direction ; while the island of Bisaya shields them from the blasts that blow from the south-west, The islands of Mindoro, Panáy, Negros, Cebú, and Bojól, which Nature has placed in close succession to each other, form the southern borders of the straits; and the narrow cross channels between them form as many outlets to the Sea of Mindoro, which is bounded on the west by Palauan, on the east by Mindanao, and on the south by the Sulu group. The eastern waters of the straits wash the coasts of Sámar and Leyté, and penetrate through three small channels only to the great ocean ; the narrow straits of San Bernardino, of San Juanico, and of Surigáo. Several considerable, and innumerable smaller, islets lie within the area of these cursorily explained outlines.
 

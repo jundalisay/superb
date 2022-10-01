@@ -25,7 +25,7 @@ dx^2 + dy^2 + dz^2 − c^2 dt^2 = dx'^2 + dy'^2 + dz'^2 − c^2 dt'^2
 ```
 
 
-The validity of the Lorentz transformation follows from this condition, expressed as=   
+The validity of the Lorentz transformation follows from this condition, expressed as:
 
 ``` elixir
 ds^2 = dx^2 + dy^2 + dz^2 − c^2 dt^2

@@ -71,54 +71,63 @@ Associative
 
 I say that
 
-a + (b + c) = (a + b) + c;
+```bash
+a + (b + c) = (a + b) + c
+```
 
-in fact, the theorem is true for c = 1. It may then be written
+In fact, the theorem is true for `c = 1`. It may then be written:
 
-a + (b + 1) = (a + b) + 1;
+```bash
+a + (b + 1) = (a + b) + 1
+```
 
-which, remembering the difference of notation, is nothing but the equality (1) by which I have just defined addition.
+<!-- which, remembering the difference of notation, is nothing but the equality (1) by which I have just defined addition. -->
 
-Assume the theorem true for c = γ, I say that it will be true for c = γ + 1. Let
-(a + b) + γ = a + (b + γ);nature of mathematical reasoning.
+Assume the theorem true for `c = γ`. It will be true for `c = γ + 1`. Let `(a + b) + γ = a + (b + γ)`
 
-it follows that:
+It follows that:
 
+```bash
 (a + b) + γ + 1 = a + (b + γ) + 1;
+```
 
 or by def. (1),
 
-(a + b) + (γ + 1) = a + (b + γ + 1) = a + b + (γ + 1) ;
+```bash
+(a + b) + (γ + 1) = a + (b + γ + 1) = a + b + (γ + 1)
+```
 
-which shows by a series of purely analytical deductions that the theorem is true for γ + 1. 
+This shows by a series of purely analytical deductions that the theorem is true for `γ + 1`. 
 
-Being true for c = 1, we see that it is successively true for c = 2, c = 3, etc.
+Being true for `c = 1`, we see that it is successively true for c = 2, c = 3, etc.
 
-Commutative
 
-(1) I say that
+### Commutative
 
+```bash
 a + 1 = 1 + a.
+```
 
-The theorem is evidently true for a = 1; 
+The theorem is evidently true for `a = 1`. 
 
-We can verify by purely analytical reasoning that if it is true for a = γ
+We can verify by purely analytical reasoning that if it is true for `a = γ`.
 
 It will be true for a = γ + 1. 1 Now, it is true for a = 1, and therefore is true for a = 2, a = 3, and so on. This is
 what is meant by saying that the proof is demonstrated “by recurrence.”
 
-(2) I say that
 
+```bash
 a + b = b + a.
+```
 
-For (γ + 1) + 1 = (1 + γ) + 1 = 1 + (γ + 1).—[Tr.]science and hypothesis
+For (γ + 1) + 1 = (1 + γ) + 1 = 1 + (γ + 1).—[Tr.]
 
 The theorem has just been shown to hold good for b = 1, and it may be verified analytically that if it is true for b = β, it will be true for b = β + 1. 
 
 The proposition is thus established by recurrence.
 
 
-## Definition of Multiplication.
+## Definition of Multiplication
 
 We shall define multiplication by the equalities
 
@@ -133,29 +142,32 @@ a × 2, a × 3, and so on.
 
 
 
-## Distributive
+### Distributive
 
-I say that
 
+```bash
 (a + b) × c = (a × c) + (b × c).
+```
 
-We can verify analytically that the theorem is true for
-c = 1; then if it is true for c = γ, it will be true for
+We can verify analytically that the theorem is true for c = 1; then if it is true for c = γ, it will be true for
 
-c = γ + 1. The proposition is then proved by recurrence.nature of mathematical reasoning.
+c = γ + 1. 
 
-Commutative.—(1) I say that
+The proposition is then proved by recurrence.
 
+### Commutative
+
+```bash
 a × 1 = 1 × a.
+```
 
 The theorem is obvious for a = 1. We can verify analytically that if it is true for a = α, it will be true for
 a = α + 1.
 
-(2) I say that
 
-a × b = b × a.
+```bash
+a × b = b × a
+```
 
 The theorem has just been proved for b = 1. We can verify analytically that if it be true for b = β it will be
 true for b = β + 1.
-
-

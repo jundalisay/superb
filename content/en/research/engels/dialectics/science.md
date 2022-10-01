@@ -109,18 +109,38 @@ At that time, natural science also developed in the midst of the general revolut
 
 It had to win its right of existence. 
 
-Side by side with the great Italians from whom modern philosophy dates, it provided its martyrs for the stake and the prisons of the Inquisition. 
+ from whom 
 
-And it is characteristic that Protestants outdid Catholics in persecuting the free investigation of nature. 
+Modern philosophy comes from the great Italians. Natural science went side by side with it, providing:
+- its martyrs for the stake
+- the prisons of the Inquisition. 
 
-Calvin had Servetus burnt at the stake when the latter was on the point of discovering the circulation of the blood, and  he kept him roasting alive during two hours; for the Inquisition at least it sufficed to have Giordano Bruno simply burnt alive.
+Protestants outdid Catholics in freely investigating nature. 
+- Calvin had Servetus burnt at the stake when the latter was on the point of discovering the circulation of the blood
+- He kept him roasting alive for 2 hours
+- For the Inquisition at least, it sufficed to have Giordano Bruno simply burnt alive.
 
-The revolutionary act by which natural science declared its independence and, as it were, repeated Luther's burning of the Papal Bull was the publication of the immortal work by which Copernicus, though timidly and, so to speak, only from his deathbed, threw down the gauntlet to ecclesiastical authority in the affairs of nature. 
 
-The emancipation of natural science from theology dates from this act, although the fighting out of the particular antagonistic claims has dragged out up to our day and in many minds is still far from completion.
+Natural science declared its independence through revolutionary act as the publication of Copernicus' work, done timidly and only from his deathbed.
+- This threw down the gauntlet to ecclesiastical authority in the affairs of nature
+- This is similar to Luther's burning of the Papal Bull
 
-Thenceforward, however, the development of the sciences proceeded with giant strides, and, it might be said, gained in force in proportion to the square of the distance (in time) from its point of departure. It was as if the world were to be shown that henceforth the reciprocal law of motion would be as valid for the highest product of organic matter, the human mind, as for inorganic substance.
+<!-- The emancipation of natural science from theology dates from this act, although the fighting out of the particular antagonistic claims has dragged out up to our day and in many minds is still far from completion. -->
+
+From then, the development of the sciences proceeded with giant strides. It gained in force in proportion to the square of the distance (in time) from its point of departure. 
+
+It was as if the world were to be shown that henceforth the reciprocal law of motion would be as valid for the highest product of organic matter, the human mind, as for inorganic substance.
 
 The main work in the first period of natural science that now opened lay in mastering the material immediately at hand. 
 
-In most fields a start had to be made from the very beginning. Antiquity had bequeathed Euclid and the Ptolemaic solar system; the Arabs had left behind the decimal notation, the beginnings of algebra, the modern numerals, and alchemy; the Christian Middle Ages nothing at all.
+In most fields a start had to be made from the very beginning. 
+
+- Antiquity gave:
+  - Euclid
+  - the Ptolemaic solar system. 
+- The Arabs gave:
+  - the decimal notation
+  - the beginnings of algebra
+  - the modern numerals
+  - alchemy
+- The Christian Middle Ages gave nothing at all.

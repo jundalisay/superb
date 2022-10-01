@@ -1,4 +1,5 @@
 ---
+heading: Chapter 13
 title: "Native Priests"
 date: 2022-03-16
 image: /covers/travels.jpg

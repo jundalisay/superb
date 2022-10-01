@@ -1,4 +1,5 @@
 ---
+heading: Chapter 14c
 title: "The Domestic Philippine Economy"
 date: 2022-03-05
 image: /covers/travels.jpg

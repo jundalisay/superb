@@ -1,4 +1,5 @@
 ---
+heading: Chapter 12
 title: "The Spanish Priests"
 date: 2022-03-20
 image: /covers/travels.jpg

@@ -1,5 +1,6 @@
 ---
 title: "Spanish Colonial Government and Cavite Mutiny"
+linkTitle: Chapter 27b
 date: 2022-01-04
 image: /covers/travels.jpg
 description: "On January 20, 1872, between 8pm-9pm, the artillery, marines, and the garrison of the arsenal revolted in Cavite and murdered their officers"

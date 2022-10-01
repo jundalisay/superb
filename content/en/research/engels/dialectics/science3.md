@@ -9,12 +9,11 @@ icon: /icons/engels.png
 
 
 
-The first breach in this petrified outlook on nature was made not by Kant, a philosopher, not a natural scientist. 
+The first breach in this petrified outlook on nature was made by Kant, a philosopher, not a natural scientist. 
 
- 
 Kant's <!-- Allgemeine Naturgesehichte und Theorie des Himmels --> General Natural History and Theory of the Heavens appeared in 1755. 
 
-The question of the first impulse was abolished. 
+**The question of the first impulse was abolished.**
 
 The earth and the whole solar system appeared as something that had come into being in the course of time. 
 
@@ -114,9 +113,29 @@ Almost simultaneously it was established that protoplasm and the cell, which had
 
 This not only reduced the gulf between inorganic and organic nature to a minimum but removed one of the most essential difficulties that had previously stood in the way of the theory of descent of organisms. The new conception of nature was complete in its main features; all rigidity was dissolved, all fixity dissipated, all particularity that had been regarded as eternal became transient, the whole of nature shown as moving in eternal flux and cyclical course.
 
-Thus we have once again returned to the point of view of the great founders of Greek philosophy, the view that the whole of nature, from the smallest element to the greatest, Member of Protista (Vorticella)from grains of sand to suns, from protista to men, has its existence in eternal coming into being and passing away, in ceaseless flux, in un-resting motion and change, only with the essential difference that what for the Greeks was a brilliant intuition, is in our case the result of strictly scientific research in accordance with experience, and hence also it emerges in a much more definite and clear form. It is true that the empirical proof of this motion is not wholly free from gaps, but these are insignificant in comparison with what has already been firmly established, and with each year they become more and more filled up.
+Thus we have once again returned to the point of view of 
 
-How could the proof in detail be otherwise than defective when one bears in mind that the most essential branches of science —trans-planetary astronomy, chemistry, geology— have a scientific existence of barely a hundred years, and the comparative method in physiology one of barely fifty years, and that the basic form of almost all organic development, the cell, is a discovery not yet forty years old?
+The great founders of Greek philosophy saw the view of the whole of nature:
+- from the smallest element to the greatest
+- from grains of sand to suns
+- from protista to men <!-- from the Member of Protista (Vorticella) --> 
+
+These exist in the eternal coming into being and passing away:
+- in ceaseless flux
+- in un-resting motion and change
+
+**Its only essential difference is the Greeks' base was a brilliant intuition. Our base is strict scientific research in accordance with experience. This gives us a much more definite and clear form.**
+
+The empirical proof of this motion is not wholly free from gaps. 
+- But these are insignificant in comparison with what has already been firmly established
+- Each year, they become more and more filled up.*
+
+> *Superphysics note: Human experiences are limited and therefore the scientific system will have perpetual gaps
+
+
+<!-- How could the proof in detail be otherwise than defective when one bears in mind that  -->
+
+The most essential branches of science —trans-planetary astronomy, chemistry, geology— have a scientific existence of barely a hundred years. The comparative method in physiology is barely 50 years old. The discovery of the cell is less than 40 years old.
 
 The innumerable suns and solar systems of our island universe, bounded by the outermost stellar rings of the Milky Way, developed from swirling, glowing masses of vapour, the laws of motion of which will perhaps be disclosed after the observations of some centuries have given us an insight into the proper motion of the stars. 
 
@@ -170,11 +189,13 @@ Other planets will have preceded it, others will follow it; instead of the brigh
 
 And when such a solar system has completed its life history and succumbs to the fate of all that is finite, death, what then? Will the sun's corpse roll on for all eternity through infinite space, and all the once infinitely diverse, differentiated natural forces pass for ever into one single form of motion, attraction ? "Or" – as Secchi asks – "do forces exist in nature which can re-convert the dead system into its original state of an incandescent nebula and re-awake it to new life? We do not know".
 
-At all events we do not know in the sense that we know that 2 × 2 = 4, or that the attraction of matter increases and decreases according to the square of the distance.
+At all events we do not know in the sense that we know that `2 × 2 = 4`, or that the attraction of matter increases and decreases according to the square of the distance.
 
 In theoretical natural science, however, which as far as possible builds up its view of nature into a harmonious whole, and without which nowadays even the most thoughtless empiricist cannot get anywhere, we have very often to reckon with incompletely known magnitudes; and logical consistency of thought must at all times help to get over defective knowledge. Modern natural science has had to take over from philosophy the principle of the indestructibility of motion; it cannot any longer exist without this principle. 
 
-But the motion of matter is not merely crude mechanical motion, mere change of place, it is heat and light, electric and magnetic stress, chemical combination and dissociation, life and, finally, consciousness. To say that matter during the whole unlimited time of its existence has only once, and for what is an infinitesimally short period in comparison to its eternity, found itself able to differentiate its motion and thereby to unfold the whole wealth of this motion, and that before and after this remains restricted for eternity to mere change of place - this is equivalent to maintaining that matter is mortal and motion transitory. 
+But the motion of matter is not merely crude mechanical motion, mere change of place, it is heat and light, electric and magnetic stress, chemical combination and dissociation, life and, finally, consciousness. 
+
+To say that matter during the whole unlimited time of its existence has only once, and for what is an infinitesimally short period in comparison to its eternity, found itself able to differentiate its motion and thereby to unfold the whole wealth of this motion, and that before and after this remains restricted for eternity to mere change of place - this is equivalent to maintaining that matter is mortal and motion transitory. 
 
 The indestructibility of motion is both quantitative and qualitative. 
 

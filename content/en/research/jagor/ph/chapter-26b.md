@@ -1,46 +1,73 @@
 ---
-title: "Letter Of The Commissary-general Of Chincheo To Don Pedro De Acuña, Governor Of The Philippines"
-date: 2022-01-08
-image: /covers/travels.jpg
-description: ""
+title: "Chinese Emigration"
 linkTitle: "Chapter 26b"
+date: 2022-01-10
+image: /covers/travels.jpg
+description: "Invigorated by the severe struggle in their own overpopulated country, the Chinese  preserved their capacity for labour perfectly unimpaired by any climate"
 author: Jagor
 icon: /graphics/flag.png
 ---
 
 
 
-“ To the powerful Captain-General of Luson. “ Having been given to understand that the Chinese who proceeded to the kingdom of Luzon in order to buy and sell had been murdered by the Spaniards, I have investigated the motives for these massacres, and begged the King to exercise justice upon those who had engaged in these abominable offences, with a view to security in the future.
+Invigorated by the severe struggle for existence which they have experienced in their own overpopulated country, the Chinese  preserved their capacity for labour perfectly unimpaired by any climate. 
 
-“ In former years, before my arrival here as royal commissioner, a Chinese merchant named Tioneg, together with three mandarins, went with the permission of the King of China from Luzon to Cavite, for the purpose of prospecting for gold and silver; which appears to have been an excuse, for he found neither gold nor silver; I thereupon prayed the King to punish this impostor Tioneg, thereby making patent the strict justice which is exercised in China.
+No nation can equal them in contentedness, industry, perseverance, cunning, skill, and adroitness in trades and mercantile matters. 
 
-“ It was during the administration of the ex-Viceroy and Eunuchs that Tioneg and his companion, named Yanglion, uttered the untruth already stated ; and subsequently I begged the King to transmit all the papers bearing upon the matter, together with the minutes of Tioneg's accusation; when I myself examined the before-mentioned papers, and knew that everything that the accused Tioneg had said was utterly untrue.
+When once they gain a footing, they generally appropriate the best part of the trade to themselves. 
 
-“I wrote to the King and stated that, on account of the untruth which Tioneg had been guilty of, the Castilians entertained the suspicion that he wished to make war upon them, and that they, under this idea, had murdered more than 30,000 Chinese in Luzon. The King, complying with my request, punished the accused Yanglion, though he omitted to put him to death; neither was Tioneg beheaded or confined in a cage. The Chinese people who had settled in Luzon were in no way to blame. I and others discussed this with the King in order to ascertain what his pleasure was in this matter, as well as in another, namely, the arrival of two English ships on the coast of Chincheo (Fukien)a very dangerous circumstance for China ; and to obtain His Majesty's decision as to both these most serious matters.
+In all parts of external India they have dislodged from every field of employment not only their native but, progressively, even their European competitors. 
+
+Not less qualified and successful are they in the pursuit of agriculture than in trade. The emigration from the too thickly peopled empire of China has scarcely begun. 
+
+As yet it is but a small stream, but it will by-and-by pour over all the tropical countries of the East in one mighty torrent, completely destroying all such minor obstacles as jealous interference and impotent precaution might interpose.
+
+Over every section of remote India, in the South Sea, in the Indian Archipelago, in the Southern States of America, the Chinese seem destined in time either to supplant every other element, or to found a mixed race upon which to stamp their individuality. 
+
+In the Western States of the Union, their number is rapidly on the increase. The factories in California are worked entirely by them, achieving results that cannot be accomplished by European labour.
+
+<!-- One of the most interesting of the many questions of large comprehensiveness which connect themselves with the penetration of the Mongolian race into  -->
+
+America until now has been regarded as the inheritance of the Caucasians. It shows the comparative capacity of labour of Chinese versus the Caucasians. <!--  possessed by both these two great races, who in the Western States of America have for the first time measured their mutual strength in friendly rivalry.  -->
+- Both Chinese and Caucasians are there represented in their most energetic individuality*. 
+- Every nerve will be strained in carrying on the struggle because no other country pays for labour at so high a rate.
+- The conditions, however, are not quite equal. 
+- The law places certain obstacles against the Chinese. 
+
+The courts do not protect them sufficiently from insult, which at times is aggravated into malicious manslaughter through the ill-usage of the mob, who hate them bitterly as being reserved, uncompanionable workers. 
+
+Nevertheless, the Chinese immigrants take their stand firmly. 
 
 
-## CHINESE ROYAL COMMISSIONER'S LETTER
+## INDUSTRY OF THE CHINESE
 
-“ We also wrote to the King that he should direct the punishment of both these Chinese ; and, in acknowledging our communication, he replied to us, in respect of the English ships which had arrived in China, that in case they had come for the purpose of plundering, they should be immediately commanded to depart thence for Luzon; and, with regard to the Luzon difficulty, that the Castilians should be advised to give no credence to rogues and liars from China ; and both the Chinese who had discovered the harbour to the English should be executed forthwith ; and that in all other matters upon which we had written to him, our will should be his. Upon receipt of this message by us— the Viceroy, the Eunuch, and myself—we hereby send this our message to the Governor of Luzon, that his Excellency may know the greatness of the King of China and of his Kingdom, for he is so powerful that he commands all upon which the sun and moon shine, and also that the Governor of Luzon may learn with what great wisdom this mighty kingdom is governed, and which power no one for many years has attempted to insult, although the Japanese have sought to disturb the tranquillity of Coria, which belongs to the Government of China. They did not succeed, but on the contrary were driven out, and Coria has remained in perfect security and peace, which those in Luzon well know by report.
+The western division of the Pacific Railway has been chiefly built by the Chinese. The engineers say that the Chinese surpass workers of all other nationalities in diligence, sobriety, and good conduct. 
 
-“ Years ago, after we learnt that so many Chinese perished in Luzon on account of Tioneg's lies, many of us mandarins met together, and resolved to leave it to the consideration of the King to take vengeance for so great a massacre ; and we said as follows:- 
+What they lack in physical power they make up for in perseverance and working intelligently together. 
 
-The country of Luzon is a wretched one, and of very little importance. It was at one time only the abode of devils and serpents ; and only because (within the last few years) so large a number of Chinese went thither for the purpose of trading with the Castilians has it improved to such an extent; in which improvement the accused Sangleyes materially assisted by hard labour, the walls being raised by them, houses built, and gardens laid out, and other matters accomplished of the greatest use to the Castilians; and now the question is, why has no consideration been paid for these services, and these good offices acknowledged with thanks, without cruelly murdering so many people ? And although we wrote to the King twice or thrice concerning the circumstances, he answered us that he was indignant about the before-mentioned occurrences, and said for three reasons it is not advisable to execute vengeance, nor to war against Luzon. The first is that for a long time till now the Castilians have been friends of the Chinese; the second, that no one can predict whether the Castilians or the Chinese would be victorious; and the third and last reason is, because those whom the Castilians have killed were wicked people, ungrateful to China, their native country, their elders, and their parents, as they have not returned to China now for very many years. These people, said the King, he valued but little for the foregoing reasons; and he commanded the Viceroy, the Eunuch, and myself, to send this letter through those messengers, so that all in Luzon may know that the King of China has a generous heart, great forbearance, and much mercy, in not declaring war against Luzon; and his justice is indeed manifest, as he has already punished the liar Tioneg. Now, as the Spaniards are wise and intelligent, how does it happen that they are not sorry for having massacred so many people, feeling no repentance thereat, and also are not kinder to those of the Chinese who are still left? Then when the Castilians show a feeling of good-will, and the Chinese and Sangleyes who are left after the dispute return, and the indebted money is repaid, and the property which was taken from the Sangleyes restored, then friendship will again exist between this kingdom and that, and every year trading-ships shall come and go; but if not, then the King will allow no trading, but on the contrary will at once command a thousand ships of war to be built, manned with soldiers and relations of the slain, and will, with the assistance of other peoples and kingdoms who pay tribute to China, wage relentless war, without quarter to any one ; and upon its conclusion will present the kingdom of Luzon to those who do homage to China.
+On April 28, 1869, 10 miles of railway track were laid in 11 working hours. <!-- along a division of --> <!-- The unique and nearly incredible performance. --> The rails, if laid in one continuous line, would measure about 103,000 feet, weighing 20,000 cwt. Eighteen Chinamen were engaged in the work, relieving one another by fours. These men were chosen to perform this feat on account of their particular activity, out of 10,000. Ordinarily, 8 Europeans were engaged in this extraordinary piece of work.
 
-“ This letter is written by the Visitadór-General on the 12th of the second month.”
+<!-- (This statement is incorrect, so far as the fact of the feat being accomplished by the Chinese 18 concerned. -->
+
+During the rejoicings which took place in Sacramento upon the opening of the line, these 8 European men were paraded in a van, with the account of their splendid achievement painted in large letters on the outside. Certainly not one of them was a Chinaman.
 
 
-## LETTER OF DAIFUSAMA, THE GOVERNOR OF JAPAN
 
-A contemporary letter of the Governor of Japan forms a somewhat notable contrast :
+* No single people in Europe can in any way compare with the inhabitants of California, which, in the early years of its existence, was composed only of men in the prime of their strength and activity, without aged people, without women, and without children. Their activity, in a country where everything had to be provided (no civilised neighbours living within some hundred miles or so), and where all provisions were to be obtained only at a fabulous cost, was stimulated to the highest pitch. Without here going into the particulars of their history, it need only be remembered that they founded, in 25 years, a powerful State, the fame of which has spread all over the world, and around whose borders young territories have sprung into existence and flourished vigorously; two of them indeed having attained to the condition of independent States. After the Californian gold-diggers had changed the configuration of the ground of entire provinces by having, with Titanic might, deposited masses of earth into the sea until they expanded into hilly districts, so as to obtain therefrom, with the aid of ingenious machinery, the smallest particle of gold which was contained therein, they have astonished the world in their capacity of agriculturalists, whose produce is sent even to the most distant markets, and everywhere takes the first rank without dispute. a Such mighty results have been achieved by a people whose total number scarcely, indeed, exceeds 500,000; and therefore, perhaps, they may not find it an easy matter to withstand the competition of the Chinese.
 
-To the Governor Don Pedro de Acuña, in the year 1605. “ I have received two letters from your Excellency, as also all the donations and presents described in the inventory. Amongst them was the wine made from grapes, which I enjoyed very much. In former years your Excellency requested that six ships might come here, and recently four, which request I have always complied with.
+[a Many portions of the City of San Francisco were extended into the bay in this manner.-TRANSLATOR's note.]
 
-“But my great displeasure has been excited by the fact that of the four ships upon whose behalf your Excellency interposed, one from Antonio made the journey without my permission. This was a circumstance of great audacity, and a mark of disrespect to me. Does your Excellency wish to send that ship to Japan without my permission ?
 
-"Independently of this, your Excellency and others have many times discussed with me concerning the antecedents and interests of Japan, and many other matters, your requests respecting which I cannot comply with. This territory is called Xincoco, which means "consecrated to Idols,' which have been honoured with the highest reverence from the days of our ancestor until now,
 
-and whose actions I alone can neither undo nor destroy. Wherefore, it is in no way fitting that your laws should be promulgated and spread over Japan; and if, in consequence of these misunderstandings, your Excellency's friendship with the kingdom of Japan should cease, and with me likewise, it must be so, for I must do that which I think is right, and nothing which is contrary to my own pleasure.
+<!-- plished by Chinese workers. Only by them could it have been practicable.* -->
 
-“Finally, I have heard it frequently said, as a reproach, that many Japanese-wicked, corrupt men-go to your kingdom, remaining there many years, and then return to Japan. This complaint excites my anger, and therefore I must request your Excellency henceforth not to allow such persons to return in the ships which trade here. Concerning the remaining matters, I trust your Excellency will hereafter employ your judgment and circumspection in such a manner as to avoid incurring my displeasure for the future.”
+The Europeans are still superior in terms of the highest intellectual faculties. But, in all branches of commercial life in which cleverness and persevering industry are necessary, the Chinese are superior. To us, it seems that the influx of Chinese will kindle a struggle between capital and labour, in order to set a limit upon demands perceptibly growing beyond moderation.
+
+The increasing Chinese immigration already raises questions of the utmost social and political importance in the minds of American statesmen. 
+
+What influence will this entirely new and strange element exercise over the conformation of American relations? 
+
+Will the Chinese found a State in the States? Or go into the Union on terms of political equality with the other citizens, and form a new race by alliance with the Caucasian element? 
+
+These problems have been dealt with in a masterly manner by “Pumpelly," in his work “ Across America and Asia,” published in London in 1870.
 

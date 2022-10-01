@@ -20,12 +20,13 @@ His hypothesis had not been lightly adopted, It took into account all the known 
 something unknown and new. 
 
 Has the hypothesis thus rejected been sterile? Far from it. It may be even said that it has rendered more service than a true hypothesis.
-Not only has it been the occasion of a decisive experiment, but if this experiment had been made by chance,
-without the hypothesis, no conclusion could have been drawn; nothing extraordinary would have been seen;
-and only one fact the more would have been catalogued, without deducing from it the remotest consequence.
-Now, under what conditions is the use of hypothesis without danger? The proposal to submit all to experi-
-ment is not sufficient. Some hypotheses are dangerous,—
-first and foremost those which are tacit and unconscious.
+
+Not only has it been the occasion of a decisive experiment, but if this experiment had been made by chance, without the hypothesis, no conclusion could have been drawn; nothing extraordinary would have been seen; 
+
+Only one fact the more would have been catalogued, without deducing from it the remotest consequence.
+
+
+Now, under what conditions is the use of hypothesis without danger? The proposal to submit all to experiment is not sufficient. Some hypotheses are dangerous,—first and foremost those which are tacit and unconscious.
 And since we make them without knowing them, we can-
 not get rid of them. Here again, there is a service that
 mathematical physics may render us. By the precisionhypotheses in physics.

@@ -44,8 +44,7 @@ What an absurd question. How can a horse have wealth?
 
 From that point, I learned that the only thing needed by a poor penniless horse to be a noble animal is to have a good spirit.<!-- , if nature only have endowed him with good spirit.  -->
 
-<!-- If, therefore, it is permitted even to me to be a good man, please recount to me your works from first to last, I promise, I will listen, all I can, and try to understand, and so far as in me lies to imitate you from to-morrow. To-morrow is a good day to commence a course of virtue, is it not?
-{{< /l >}} -->
+<!-- If, therefore, it is permitted even to me to be a good man, please recount to me your works from first to last, I promise, I will listen, all I can, and try to understand, and so far as in me lies to imitate you from to-morrow. To-morrow is a good day to commence a course of virtue, is it not? -->
 
 
 

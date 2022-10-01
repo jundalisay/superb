@@ -1,8 +1,9 @@
 ---
+heading: Chapter 12b
 title: "The Spanish Governors"
 date: 2022-03-18
 image: /covers/travels.jpg
-description: ""
+description: "The difference in the position of the priests to that of the Government officials is seen in their respective dwellings."
 linkTitle: "Chapter 12b"
 author: Jagor
 icon: /graphics/flag.png

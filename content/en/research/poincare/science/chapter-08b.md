@@ -44,57 +44,35 @@ must choose, and we cannot but choose the simplest. We
 are therefore led to adopt the same course as if a simple
 law were, other things being equal, more probable than
 a complex law. A century ago it was frankly confessed
-and proclaimed abroad that Nature loves simplicity; but
-Nature has proved the contrary since then on more than
-one occasion. We no longer confess this tendency, and we
-only keep of it what is indispensable, so that science may
-not become impossible. In formulating a general, simple,
-and formal law, based on a comparatively small number
-of not altogether consistent experiments, we have only
-obeyed a necessity from which the human mind cannot
-free itself. But there is something more, and that is why
-I dwell on this topic. No one doubts that Mayer’s prin-
-ciple is not called upon to survive all the particular laws
-from which it was deduced, in the same way that New-
-ton’s law has survived the laws of Kepler from which it
-was derived, and which are no longer anything but ap-
-proximations, if we take perturbations into account. Now
-why does this principle thus occupy a kind of privileged
-position among physical laws? There are many reasons
-for that. At the outset we think that we cannot rejectenergy and thermo-dynamics.
+and proclaimed abroad that Nature loves simplicity; but Nature has proved the contrary since then on more than
+one occasion. We no longer confess this tendency, and we only keep of it what is indispensable, so that science may
+not become impossible. 
 
-it, or even doubt its absolute rigour, without admitting
-the possibility of perpetual motion; we certainly feel dis-
-trust at such a prospect, and we believe ourselves less
-rash in affirming it than in denying it. That perhaps is
-not quite accurate. The impossibility of perpetual mo-
-tion only implies the conservation of energy for reversible
-phenomena. The imposing simplicity of Mayer’s principle
-equally contributes to strengthen our faith. In a law im-
-mediately deduced from experiments, such as Mariotte’s
-law, this simplicity would rather appear to us a reason
-for distrust; but here this is no longer the case. We take
-elements which at the first glance are unconnected; these
-arrange themselves in an unexpected order, and form a
-harmonious whole. We cannot believe that this unex-
-pected harmony is a mere result of chance. Our conquest
+In formulating a general, simple, and formal law, based on a comparatively small number of not altogether consistent experiments, we have only obeyed a necessity from which the human mind cannot free itself. But there is something more, and that is why I dwell on this topic. 
+
+No one doubts that Mayer’s principle is not called upon to survive all the particular laws
+from which it was deduced, in the same way that Newton’s law has survived the laws of Kepler from which it
+was derived, and which are no longer anything but approximations, if we take perturbations into account. Now
+why does this principle thus occupy a kind of privileged position among physical laws? There are many reasons for that. At the outset we think that we cannot reject it, or even doubt its absolute rigour, without admitting the possibility of perpetual motion; we certainly feel distrust at such a prospect, and we believe ourselves less
+rash in affirming it than in denying it. That perhaps is not quite accurate. The impossibility of perpetual motion only implies the conservation of energy for reversible phenomena. The imposing simplicity of Mayer’s principle
+equally contributes to strengthen our faith. In a law immediately deduced from experiments, such as Mariotte’s
+law, this simplicity would rather appear to us a reason for distrust; but here this is no longer the case. We take
+elements which at the first glance are unconnected; these arrange themselves in an unexpected order, and form a
+harmonious whole. We cannot believe that this unexpected harmony is a mere result of chance. Our conquest
 appears to be valuable to us in proportion to the efforts it
 has cost, and we feel the more certain of having snatched
 its true secret from Nature in proportion as Nature has
-appeared more jealous of our attempts to discover it. But
-these are only small reasons. Before we raise Mayer’s law
-to the dignity of an absolute principle, a deeper discus-
-sion is necessary. But if we embark on this discussion we
-see that this absolute principle is not even easy to enun-
+appeared more jealous of our attempts to discover it. 
+
+But these are only small reasons. Before we raise Mayer’s law to the dignity of an absolute principle, a deeper discus-
+sion is necessary. But if we embark on this discussion we see that this absolute principle is not even easy to enun-
 ciate. In every particular case we clearly see what energyscience and hypothesis
 
-is, and we can give it at least a provisory definition; but
-it is impossible to find a general definition of it. If we
-wish to enunciate the principle in all its generality and
-apply it to the universe, we see it vanish, so to speak,
-and nothing is left but this—there is something which
-remains constant. But has this a meaning? In the deter-
-minist hypothesis the state of the universe is determined
+is, and we can give it at least a provisory definition; but it is impossible to find a general definition of it. If we
+wish to enunciate the principle in all its generality and apply it to the universe, we see it vanish, so to speak,
+and nothing is left but this—there is something which remains constant. But has this a meaning? 
+
+In the determinist hypothesis the state of the universe is determined
 by an extremely large number n of parameters, which I
 shall call x 1 , x 2 , x 3 , . . . , , x n . As soon as we know at a
 given moment the values of these n parameters, we also
@@ -237,9 +215,10 @@ They are, however, deduced from experimental laws, and these laws have, so to sp
 
 Some philosophers have generalised far too much. They have thought that the principles were the whole of science, and therefore that the whole of science was conventional. This paradoxical doctrine, which is called Nominalism, cannot stand examination. How can a law become a principle? 
 
-It expressed a relation between two real terms, A and B; but it was not rigorously true, it
-was only approximate. We introduce arbitrarily an intermediate term, C, more or less imaginary, and C is by definition that which has with A exactly the relation expressed by the law. So our law is decomposed into an absolute and rigorous principle which expresses the relation of A to C, and an approximate experimental and revisable law which expresses the relation of C to B. But
-it is clear that however far this decomposition may be
-carried, laws will always remain. We shall now enter into
+It expressed a relation between two real terms, A and B; but it was not rigorously true, it was only approximate. 
+
+We introduce arbitrarily an intermediate term, C, more or less imaginary, and C is by definition that which has with A exactly the relation expressed by the law. So our law is decomposed into an absolute and rigorous principle which expresses the relation of A to C, and an approximate experimental and revisable law which expresses the relation of C to B. 
+
+But it is clear that however far this decomposition may be carried, laws will always remain. We shall now enter into
 the domain of laws properly so called.
 

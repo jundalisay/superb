@@ -37,19 +37,15 @@ The definitions of the two kinds of energy would raise difficulties almost as gr
 
 However, we can get out of these difficulties more easily, at any rate in the simplest cases. 
 
-Assume an isolated system formed of
-a certain number of material points. Assume that these
-points are acted upon by forces depending only on their
-relative position and their distances apart, and indepen-
+Assume an isolated system formed of a certain number of material points. Assume that these
+points are acted upon by forces depending only on their relative position and their distances apart, and indepen-
 dent of their velocities. In virtue of the principle of the
 conservation of energy there must be a function of forces.
-In this simple case the enunciation of the principle of the
-conservation of energy is of extreme simplicity. A cer-
-tain quantity, which may be determined by experiment,
-must remain constant. This quantity is the sum of two
-terms. The first depends only on the position of the ma-
-terial points, and is independent of their velocities; the
-second is proportional to the squares of these velocities.
+
+In this simple case the enunciation of the principle of the conservation of energy is of extreme simplicity. A certain quantity, which may be determined by experiment, must remain constant. This quantity is the sum of 2 terms. 
+
+The first depends only on the position of the material points, and is independent of their velocities; the second is proportional to the squares of these velocities.
+
 This decomposition can only take place in one way. 
 
 The first of these is potential energy. The second is kinetic energy.
@@ -67,11 +63,10 @@ The first term we shall call potential energy, and the second kinetic energy. Th
 kinds of energy may therefore be carried through without any ambiguity.
 
 So it is with the definition of mass. Kinetic energy, or vis viva, is expressed very simply by the aid of the masses,
-and of the relative velocities of all the material points
-with reference to one of them. These relative velocities
-may be observed, and when we have the expression of the kinetic energy as a function of these relative velocities, the co-efficients of this expression will give us the masses. So in this simple case the fundamental ideas can be defined without difficulty. But the difficulties reappear in the more complicated cases if the forces, instead
-of depending solely on the distances, depend also on the
-velocities. For example, Weber supposes the mutual action of two electric molecules to depend not only on their
+and of the relative velocities of all the material points with reference to one of them. These relative velocities
+may be observed, and when we have the expression of the kinetic energy as a function of these relative velocities, the co-efficients of this expression will give us the masses. 
+
+So in this simple case the fundamental ideas can be defined without difficulty. But the difficulties reappear in the more complicated cases if the forces, instead of depending solely on the distances, depend also on the velocities. For example, Weber supposes the mutual action of two electric molecules to depend not only on their
 distance but on their velocity and on their acceleration.
 
 If material points attracted each other according to an analogous law, U would depend on the velocity, and it
@@ -101,11 +96,10 @@ have therefore no means of making the selection of the terms which should form p
 of separating the three parts of the energy. If T + U + Q is constant, the same is true of any function whatever,
 φ(T + U + Q).
 
-If T + U + Q were of the particular form that I have suggested above, no ambiguity would ensue. Among the
-functions φ(T + U + Q) which remain constant, there is
-only one that would be of this particular form, namely the
+If `T + U + Q` were of the particular form that I have suggested above, no ambiguity would ensue. Among the
+functions `φ(T + U + Q)` which remain constant, there is only one that would be of this particular form, namely the
 one which I would agree to call energy. But I have saidenergy and thermo-dynamics.
-143
+
 this is not rigorously the case. Among the functions that
 remain constant there is not one which can rigorously be
 placed in this particular form. How then can we choose

@@ -84,9 +84,11 @@ A few objections still remained. The phenomena of an electric system seemed to d
 Supported by M. Crémieu, M. Lippman has presented this objection in a very striking form. Imagine two charged conductors with the same velocity of translation. They are relatively at rest. However, each of them being equivalent to a current of onvection, they should attract one another. By measuring this attraction we could measure their absolute velocity.
 
 
-The partisans of Lorentz replied 
+The partisans of Lorentz replied:
 
-"No! What we could measure in that way is not their absolute velocity, but their relative velocity with respect to the ether, so that the principle of relativity is safe."
+{{< q >}}
+No! What we could measure in that way is not their absolute velocity, but their relative velocity with respect to the ether, so that the principle of relativity is safe.
+{{< /q >}}
 
 Whatever there may be in these objections, the edifice of electro-dynamics seemed, at any rate in its broad lines, definitively constructed. Everything was presented under the most satisfactory aspect. 
 

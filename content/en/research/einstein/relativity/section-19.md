@@ -31,7 +31,7 @@ into being something physically real in the space
 around it, that something being what we call a
 “magnetic field.”  -->
 
-This idea is arbitrary. Nevertheless, it represents electromagnetic phenomena and is applied to the transmission of electromagnetic waves. 
+This idea is arbitrary. Nevertheless, it represents electromagnetic phenomena and is applied to the transmission of electromagnetic waves.
 
 The effects of gravitation also are regarded in an analogous manner.
 - The action of the earth on the stone takes place indirectly. 
@@ -44,9 +44,7 @@ The earth produces a field in its immediate neighbourhood directly. {{< c v="red
 
 ![Einstein Con-man](/avatars/einbla.png)
 
-In contrast to electric and magnetic fields, the gravitational field exhibits a most remarkable property, which is of fundamental importance for what follows. 
-
-Bodies solely affected by the influence of gravity accelerate. This acceleratio does not depend at all on that body's material or its physical state. A piece of lead and a piece of wood fall in exactly the same way. <!-- manner in a
+In contrast to electric and magnetic fields, the gravitational field <!-- exhibits a most remarkable property, which is of fundamental importance for what follows.  --> makes bodies accelerate. <!-- Bodies solely affected by the influence of gravity accelerate. --> This acceleration does not depend at all on that body's material or its physical state. A piece of lead and a piece of wood fall in exactly the same way. <!-- manner in a
 gravitational field (in vacuo), when they start off from rest or with the same initial velocity.  -->
 
 <!-- This law, which holds most accurately, can be expressed in a different form in the light of the following consideration. -->

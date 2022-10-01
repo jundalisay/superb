@@ -1,4 +1,5 @@
 ---
+heading: Chapter 15b
 title: "The Tea-societies"
 date: 2022-02-28
 image: /covers/travels.jpg
@@ -13,7 +14,15 @@ The following certificate translated by the interpreter of the German Consulate 
 
 
 {{< q >}}
-“This earthen vessel was found in the porcelain factory of Tschisuka in the province of Odori, in South Idzumi, and is an  object belonging to the thousand graves . . . It was made by Giogiboosat (a celebrated Buddhist priest), and after it had been consecrated to heaven was buried by him. According to the traditions of the people, this place held grave mounds with memorial stones. That is more than a thousand years ago. . . . In the pursuit of my studies, I remained many years in the temple Sookuk, of that village, and found the vessel. I carried it to the high priest Shakudjo, who was much delighted therewith and always bore it about with him as a treasure. When he died it fell to me, although I could not find it. Recently, when Honkai was chief priest, I saw it again, and it was as if I had again met the spirit of Shakudjo. Great was my commotion, and I clapped my hands with astonishment; and, as often as I look upon the treasure, I think it is a sign that the spirit of Shakudjo is returned to life. Therefore I have written the history, and taken care, of this treasure. Fudi Kuz Dodjin.”
+This earthen vessel was found in the porcelain factory of Tschisuka in the province of Odori, in South Idzumi. It belongs to the thousand graves.. It was made by Giogiboosat (a celebrated Buddhist priest). He buried it after consecrating it to heaven.
+
+According to tradition, this place held grave mounds with memorial stones. That is more than 1,000 years ago.. In the pursuit of my studies, I remained many years in the temple Sookuk, of that village, and found the vessel. 
+
+I carried it to the high priest Shakudjo, who was much delighted therewith and always bore it about with him as a treasure. 
+
+When he died it fell to me, although I could not find it. 
+
+Recently, when Honkai was chief priest, I saw it again, and it was as if I had again met the spirit of Shakudjo. Great was my commotion, and I clapped my hands with astonishment; and, as often as I look upon the treasure, I think it is a sign that the spirit of Shakudjo is returned to life. Therefore I have written the history, and taken care, of this treasure. Fudi Kuz Dodjin.”
 {{< /q >}}
 
 

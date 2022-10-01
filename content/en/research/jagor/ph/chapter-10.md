@@ -1,4 +1,5 @@
 ---
+heading: Chapter 10
 title: "Philippine Cacao"
 date: 2022-03-30
 image: /covers/travels.jpg

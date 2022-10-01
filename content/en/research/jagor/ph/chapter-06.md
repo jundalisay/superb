@@ -1,4 +1,5 @@
 ---
+heading: Chapter 6
 title: "Fires in Bulacan"
 date: 2022-04-13
 image: /covers/travels.jpg

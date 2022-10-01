@@ -1,4 +1,5 @@
 ---
+heading: Chapter 13c
 title: "Stalactite Springs"
 date: 2022-03-13
 image: /covers/travels.jpg
@@ -14,7 +15,17 @@ Across a marshy meadow we reached the base of the Malináo or Buhi mountain, the
 
 These little animals, no stouter when stretched out than a linen thread, are extraordinarily active. They attach themselves firmly to every part of the body, penetrating even into the nose, the ears, and the eyelids, where, if they remain unobserved, they gorge themselves to such excess that they become as round as balls and look like small cherries. While they are sucking no pain is felt; but afterwards the spots attacked often itch the whole day long. * In one place the wood consisted for the most part of fig-trees, with bunches of fruit quite six feet in length hanging from the stems and the thicker branches; and between the trees grew ferns, aroids, and orchids. 
 
-After nearly six hours' toil we reached the pass (841 metres above the sea level), and descended the eastern slope. The forest on the eastern side of the mountain is still more magnificent than that on the west. From a clearing we obtained a fine view of the sea, the island of Catanduanes, and the plain of Tabáco. At sunset we reached Tibi, where I quartered myself in the prison. This, a tolerably clean place, enclosed with strong bamboos, was the most habitable part of a long shed which supplied the place of the tribunal destroyed in a storm two years before. At Tibi I had an opportunity of sketching mount Malináo (called also Buhi and Takít), which from this side has the appearance of a large volcano with a distinct crater. From the lake of Buhi it is not so clearly distinguishable.
+After nearly 6 hours' toil we reached the pass (841 metres above the sea level), and descended the eastern slope. 
+
+The forest on the eastern side of the mountain is still more magnificent than that on the west. From a clearing we obtained a fine view of the sea, the island of Catanduanes, and the plain of Tabáco. At sunset we reached Tibi, where I quartered myself in the prison.
+
+This is a tolerably clean place, enclosed with strong bamboos. 
+
+It was the most habitable part of a long shed which supplied the place of the tribunal destroyed in a storm two years before. 
+
+At Tibi, I was able to sketch Mount Malináo (called also Buhi and Takít). From this side, it looks like a large volcano with a distinct crater. 
+
+From the lake of Buhi it is not so clearly distinguishable.
 
 * Sapa means shallow.
 

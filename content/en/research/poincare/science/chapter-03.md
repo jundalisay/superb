@@ -112,19 +112,16 @@ in Euclid’s geometry, none in Riemann’s, and an infinite
 number in the geometry of Lobatschewsky. Let us add
 that Riemann’s space is finite, although unbounded in
 the sense which we have above attached to these words.
-Surfaces with Constant Curvature.—One objection,
-however, remains possible. There is no contradiction be-
-tween the theorems of Lobatschewsky and Riemann; but
-however numerous are the other consequences that these
-geometers have deduced from their hypotheses, they had
-to arrest their course before they exhausted them all, for
-the number would be infinite; and who can say that if
-they had carried their deductions further they would not
-have eventually reached some contradiction? 
+
+### Surfaces with Constant Curvature
+
+One objection, however, remains possible. There is no contradiction between the theorems of Lobatschewsky and Riemann; but
+however numerous are the other consequences that these geometers have deduced from their hypotheses, they had
+to arrest their course before they exhausted them all, for the number would be infinite; and who can say that if
+they had carried their deductions further they would not have eventually reached some contradiction? 
 
 This difficulty does not exist for Riemann’s geometry, provided
-it is limited to two dimensions. As we have seen, the
-two-dimensional geometry of Riemann, in fact, does not
+it is limited to two dimensions. As we have seen, the two-dimensional geometry of Riemann, in fact, does not
 differ from spherical geometry, which is only a branch
 of ordinary geometry, and is therefore outside all con-
 tradiction. 

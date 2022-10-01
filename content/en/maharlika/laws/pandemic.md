@@ -43,6 +43,7 @@ This strategy shall provide for integrated policy coordination and 9 strategic d
 The Task Force shall: Monitor emerging issues and concerns as they relate to medical and public health preparedness and response for at-risk individuals in the event of a  public health emergency; Identify and minimize gaps, duplication and other inefficiencies in medical and public health preparedness and response activities and the actions necessary to overcome these obstacles; Disseminate and update novel and best practices of outreach to and care of at-risk individuals before, during, and, following public health emergencies in as timely a. manner as is practicable, including from the time a public health threat is -identified and Ensure that public health and medical information distributed by the government during a public health emergency is delivered in a  manner that takes into account
 
 
+---
 
 ## 13th CONGRESS Second Regular Session
 
@@ -161,6 +162,6 @@ If  any provision, or part  hereof,  is declared invalid or unconstitutional, th
 
 Any law, presidential decree  or issuance, executive order, letter of instruction, administrative order, rule or regulation  contrary to or inconsistent with, the provisions of this Act, are hereby modified, repealed, or amended accordingly. 
 
-9. Ufecectivity Clause.
+9. Effectivity Clause.
 
 This Act shall take  effect 15 days after its publication in at least 2 newspapers of general circulation

@@ -4,10 +4,6 @@ heading: "Essay 2 Refinement in the Arts Part 2"
 description: "Proper Luxury should be encouraged and bad luxury discouraged"
 date: 2020-01-30
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/1-commerce"
-linkbtext: Commerce
-linkf: "/research/hume/essays/part-2/3-money"
-linkftext: "Money"
 ---
 
 
@@ -102,7 +98,7 @@ The more men refine their pleasures, the less will they indulge in excesses. Thi
 
 The Tartars are oftener guilty of beastly gluttony, when they feast on their dead horses, than European courtiers with all their refinements of cookery. 
 
-![Tatar people](https://sorasystem.sirv.com/photos/medieval/tatars.jpg)
+<!-- ![Tatar people](https://sorasystem.sirv.com/photos/medieval/tatars.jpg) -->
 
 Drunkenness is a vice more odious and pernicious to mind and body than marital infidelity. In polite ages, marital infidelity is more frequent than drunkeness.
 <!-- , when it is often regarded only as a piece of gallantry;  -->
@@ -215,7 +211,8 @@ These merchants do not submit to slavery. They cannot tyrannize others like the 
 
 The lower house of parliament owes its chief influence to the encrease of commerce which threw the balance of property into the hands of the commons*. 
 
-> *Translator's Note: Hume blames the fall of liberty to the imbalance of the four classes 
+
+> *Superphysics Note: Hume blames the fall of liberty to the imbalance of the 4 classes 
 
 It is therefore wrong to violently blame the refinement in the arts for the fall of liberty and public spirit!
 
@@ -232,7 +229,9 @@ The fallacy is easily seen by comparing nations that are contemporaries. <!-- ; 
 <!-- We come now to the second position which we proposed to illustrate, to wit, that, as innocent luxury, or a refinement in the arts and conveniencies of life, is advantageous to the public;  -->
 
 
-> 2. Wherever luxury ceases to be innocent, it also ceases to be beneficial. When carried farther, it begins to be pernicious to political society.
+<!-- 2.  -->
+
+Wherever luxury ceases to be innocent, it also ceases to be beneficial. When carried farther, it begins to be pernicious to political society.
 
 <!-- Let us consider what we call vicious luxury. No gratification, however sensual, can of itself be esteemed vicious. A gratification --> 
 

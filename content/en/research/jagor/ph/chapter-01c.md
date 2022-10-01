@@ -1,5 +1,7 @@
 ---
+heading: Chapter 1c
 title: "Earthquakes"
+linkTitle: Chapter 1c
 date: 2022-04-28
 image: /covers/travels.jpg
 description: "On June 3, 1863 at 7:31pm an earthquake shook the preparations for the festival of Corpus Christi"

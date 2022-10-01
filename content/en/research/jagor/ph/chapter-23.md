@@ -2,7 +2,7 @@
 title: "Philippine Ports"
 date: 2022-01-22
 image: /covers/travels.jpg
-description: ""
+description: "In 1830, 7 new ports were opened as an experiment. But due to great frauds in the tolls, they were soon closed again."
 linkTitle: "Chapter 23"
 author: Jagor
 icon: /graphics/flag.png

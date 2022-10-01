@@ -35,19 +35,13 @@ the diagonal of the square would not intersect, since the co-ordinates of the po
 Even then we should have only certain incommensurable numbers, and not all these numbers.
 
 But let us imagine a line divided into two half-rays (demi-droites). Each of these half-rays will appear to
-our minds as a band of a certain breadth; these bands
-will fit close together, because there must be no interval
-between them. The common part will appear to us to be
-a point which will still remain as we imagine the bands
-to become thinner and thinner, so that we admit as an
-intuitive truth that if a line be divided into two half-rays
-the common frontier of these half-rays is a point. Here
-we recognise the conception of Kronecker, in which anmathematical magnitude.
+our minds as a band of a certain breadth; these bands will fit close together, because there must be no interval
+between them. The common part will appear to us to be a point which will still remain as we imagine the bands
+to become thinner and thinner, so that we admit as an intuitive truth that if a line be divided into two half-rays
+the common frontier of these half-rays is a point. 
 
-incommensurable number was regarded as the common
-frontier of two classes of rational numbers. Such is the
-origin of the continuum of the second order, which is the
-mathematical continuum properly so called.
+Here we recognise the conception of Kronecker, in which an incommensurable number was regarded as the common frontier of two classes of rational numbers. Such is the origin of the continuum of the second order, which is the mathematical continuum properly so called.
+
 
 ###  Summary
 
@@ -73,55 +67,40 @@ it is two or three times as large.
 
 So far, I have only considered the order in which the terms are arranged; but that is not sufficient for most applications. 
 
-We must learn how to compare the interval which separates any two terms. On this condition alone
-will the continuum become measurable, and the operations of arithmetic be applicable. This can only be done by the aid of a new and special convention; and this convention is, that in such a case the interval between the terms A and B is equal to the interval which separates
-C and D. For instance, we started with the integers, and
-between two consecutive sets we intercalated n intermediary sets; by convention we now assume these new sets
-to be equidistant. 
+We must learn how to compare the interval which separates any two terms. On this condition alone will the continuum become measurable, and the operations of arithmetic be applicable. 
 
-This is one of the ways of defining the addition of two magnitudes; for if the interval AB is by
-definition equal to the interval CD, the interval AD will
-by definition be the sum of the intervals AB and AC.
-This definition is very largely, but not altogether, arbi-
-trary. It must satisfy certain conditions—the commuta-
-tive and associative laws of addition, for instance; but,
-provided the definition we choose satisfies these laws, the
+This can only be done by the aid of a new and special convention; and this convention is, that in such a case the interval between the terms A and B is equal to the interval which separates `C` and `D`. 
+
+For instance, we started with the integers, and between two consecutive sets we intercalated n intermediary sets; by convention we now assume these new sets to be equidistant. 
+
+This is one of the ways of defining the addition of two magnitudes; for if the interval AB is by definition equal to the interval CD, the interval AD will by definition be the sum of the intervals AB and AC.
+
+This definition is very largely, but not altogether, arbitrary. It must satisfy certain conditions—the commuta-
+tive and associative laws of addition, for instance; but, provided the definition we choose satisfies these laws, the
 choice is indifferent, and we need not state it precisely.
 
 
+1. Is the creative power of the mind exhausted by the creation of the mathematical continuum? 
 
-We are now in a position to discuss severalmathematical magnitude.
+No. This is shown in a very striking manner by the work of Du Bois Reymond.
 
-important questions.
-(1) Is the creative power of the mind exhausted by the
-creation of the mathematical continuum? The answer
-is in the negative, and this is shown in a very striking
-manner by the work of Du Bois Reymond.
+We know that mathematicians distinguish between infinitesimals of different orders, and that infinitesimals of the second order are infinitely small, not only abso- lutely so, but also in relation to those of the first order.
 
-We know that mathematicians distinguish between infinitesimals of different orders, and that infinitesimals
-of the second order are infinitely small, not only abso-
-lutely so, but also in relation to those of the first order.
-It is not difficult to imagine infinitesimals of fractional
-or even of irrational order, and here once more we find
-the mathematical continuum which has been dealt with
-in the preceding pages. Further, there are infinitesimals
-which are infinitely small with reference to those of the
-first order, and infinitely large with respect to the or-
-der 1 + , however small  may be. 
+It is not difficult to imagine infinitesimals of fractional or even of irrational order, and here once more we find the mathematical continuum which has been dealt with in the preceding pages. Further, there are infinitesimals which are infinitely small with reference to those of the first order, and infinitely large with respect to the order 1 + , however small may be.
 
-Here, then, are new terms intercalated in our series; and if I may be permitted to revert to the terminology used in the preceding pages, a terminology which is very convenient, although
-it has not been consecrated by usage, I shall say that we
+Here, then, are new terms intercalated in our series; and if I may be permitted to revert to the terminology used in the preceding pages, a terminology which is very convenient, although it has not been consecrated by usage, I shall say that we
 have created a kind of continuum of the third order.
-It is an easy matter to go further, but it is idle to do
-so, for we would only be imagining symbols without any
+
+It is an easy matter to go further, but it is idle to do so, for we would only be imagining symbols without any
 possible application, and no one will dream of doing that.science and hypothesis
 
 This continuum of the third order, to which we are led by the consideration of the different orders of infinitesimals, is in itself of but little use and hardly worth quoting.
 
 Geometers look on it as a mere curiosity. The mind only uses its creative faculty when experiment requires it. 
-(2) When we are once in possession of the conception of the mathematical continuum, are we protected from contradictions analogous to those which gave it birth?
 
-No, and the following is an instance:—
+2. When we are once in possession of the conception of the mathematical continuum, are we protected from contradictions analogous to those which gave it birth?
+
+No, and the following is an instance:
 
 He is a savant indeed who will not take it as evident that every curve has a tangent; and, in fact, if we think of a curve and a straight line as two narrow bands, we can always arrange them in such a way that they have a common part without intersecting. 
 

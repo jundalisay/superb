@@ -123,20 +123,21 @@ relative velocities, as in the case of real frictions. Many
 difficulties, however, would before long awaken their at-
 tention. If they succeeded in realising an isolated sys-
 tem, the centre of gravity of this system would not have
-an approximately rectilinear path. They could invoke, toscience and hypothesis
-130
-explain this fact, the centrifugal forces which they would
-regard as real, and which, no doubt, they would attribute
-to the mutual actions of the bodies—only they would not
+an approximately rectilinear path. 
+
+They could invoke, to explain this fact, the centrifugal forces which they would regard as real, and which, no doubt, they would attribute to the mutual actions of the bodies—only they would not
 see these forces vanish at great distances—that is to say,
-in proportion as the isolation is better realised. Far from
-it. Centrifugal force increases indefinitely with distance.
-Already this difficulty would seem to them sufficiently se-
-rious, but it would not detain them for long. They would
-soon imagine some very subtle medium analogous to our
-ether, in which all bodies would be bathed, and which
-would exercise on them a repulsive action. But that is not
-all. Space is symmetrical—yet the laws of motion would
+in proportion as the isolation is better realised. 
+
+Far from it. 
+
+Centrifugal force increases indefinitely with distance.
+
+Already this difficulty would seem to them sufficiently serious, but it would not detain them for long. They would
+soon imagine some very subtle medium analogous to our ether, in which all bodies would be bathed, and which
+would exercise on them a repulsive action. 
+
+But that is not all. Space is symmetrical—yet the laws of motion would
 present no symmetry. They should be able to distinguish
 between right and left. They would see, for instance, that
 cyclones always turn in the same direction, while for rea-

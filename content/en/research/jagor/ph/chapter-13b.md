@@ -1,4 +1,6 @@
 ---
+heading: Chapter 13b
+linkTitle: Chapter 13b
 title: "Tribal People"
 date: 2022-03-15
 image: /covers/travels.jpg

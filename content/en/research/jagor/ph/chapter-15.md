@@ -1,4 +1,5 @@
 ---
+heading: Chapter 15
 title: "Japanese and Their Earthen Jars"
 date: 2022-03-01
 image: /covers/travels.jpg

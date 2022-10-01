@@ -1,4 +1,6 @@
 ---
+heading: Chapter 4a
+linkTitle: Chapter 4a
 title: "The Europeans"
 date: 2022-04-20
 image: /covers/travels.jpg
