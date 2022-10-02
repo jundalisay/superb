@@ -9,6 +9,8 @@ linkftext= "Index"
 heading= "Part 2b"
 +++
 
+
+
 ## 9. Purity of lineage is found only among the savage 
 
 This is because of the poor life, hard conditions, and bad habitats that are peculiar to the Arabs.

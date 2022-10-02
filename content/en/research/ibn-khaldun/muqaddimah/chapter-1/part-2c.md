@@ -1,15 +1,14 @@
-+++
-title= "The Seven Zones"
-description= "The ancient philosophers divided the cultivated part of the earth in the north into seven zones by means of imaginary lines running from west to east"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2b"
-linkbtext= "Part 2b"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2d"
-linkftext= "Part 2d"
-heading= "Part 2c"
-icon = "/icons/ibn.jpg"
-date = 2020-01-28
-+++
+---
+title: "The Seven Zones"
+description: "The ancient philosophers divided the cultivated part of the earth in the north into seven zones by means of imaginary lines running from west to east"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2c"
+date: 2020-01-28
+---
+
+
+
 
 The ancient philosophers divided the cultivated part of the earth in the north into seven zones by means of imaginary lines running from west to east. They maintain that these zones have different latitudinal extensions. This will be discussed in
 detail.
@@ -29,24 +28,13 @@ northern limit of civilization. Beyond it (to the north) are only empty and wast
 until the Surrounding Sea is reached. The situation is the same here as it is beyond the
 first zone to the south. However, the empty areas in the north are much smaller than those
 in the south.
-The sun there is at the zenith. As we follow the cultivated part of the earth farther
-and farther north, the north pole ascends slightly, and the south pole descends
-correspondingly, (at the horizon). Furthermore, the sun moves a corresponding distance
-from (its zenith at) the equinoctial line. These three distances are equal to each other. Each
+
+The sun there is at the zenith. As we follow the cultivated part of the earth farther and farther north, the north pole ascends slightly, and the south pole descends correspondingly, (at the horizon). Furthermore, the sun moves a corresponding distance from (its zenith at) the equinoctial line. These three distances are equal to each other. Each
 of them is called geographical latitude. This is well known to the scholars who determine
 the (prayer) times.
-People hold different opinions as to the latitudinal extension (of the cultivated part
-of the earth) and as to the latitudinal extension (breadth) of the various zones. Ptolemy
-holds the opinion that the latitudinal extension of the entire cultivated part of the earth is
-771/ 2 . The latitudinal extension of the cultivated part beyond the equator to the south is
-11° .48a Thus, the latitudinal extension of the zones in the north is 66 1 / . According to
-2
-him, the first zone extends to 16° ; 48b the second to 20° ; the third to 27° ; the fourth to
-33° ; the fifth to 38° ; the sixth to 43° ; the seventh to 48° .49 He then determined the degree
-on the firmament as having a length of 662/ miles, (were it to be) measured on the surface
-3
-earth. 50
-of the
+
+People hold different opinions as to the latitudinal extension (of the cultivated part of the earth) and as to the latitudinal extension (breadth) of the various zones. Ptolemy holds the opinion that the latitudinal extension of the entire cultivated part of the earth is 771/ 2 . The latitudinal extension of the cultivated part beyond the equator to the south is
+11° .48a Thus, the latitudinal extension of the zones in the north is 66 1 / . According to him, the first zone extends to 16° ; 48b the second to 20° ; the third to 27° ; the fourth to 33° ; the fifth to 38° ; the sixth to 43° ; the seventh to 48° .49 He then determined the degree on the firmament as having a length of 662/ miles, (were it to be) measured on the surface of the earth.
 
 - Zone 1 from south to north is 1,067 miles wide
 - Zone 2 is 2,333 miles

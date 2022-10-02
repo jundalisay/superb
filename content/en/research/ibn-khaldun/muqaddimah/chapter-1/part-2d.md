@@ -11,6 +11,7 @@ icon = "/icons/ibn.jpg"
 date = 2020-01-27
 +++
 
+
 The Canaries from which Ptolemy began the determination of geographical longitude, are in the west. They are not part of the land mass of the first zone. 
 
 They lie in the Surrounding Sea. A number of islands constitute them. The largest and best known are three in number. They are said to be cultivated. 

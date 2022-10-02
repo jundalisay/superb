@@ -1,132 +1,81 @@
 +++
-title= "The tiraz"
-description= "It is part of royal pomp to have the names of rulers or their peculiar marks embroidered on the silk"
+title= "The Seal"
+description= "The use of the seal is one of the government functions and a royal office"
 image= "/covers/muq.jpg"
-author = "Ibn Khaldun"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-32c"
-linkbtext= "Part 33c"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-35"
-linkftext= "Part 35"
-heading= "Parts 33d"
+author= "Ibn Khaldun"
+linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-32b"
+linkbtext= "Part 33b"
+linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-33d"
+linkftext= "Part 33d"
+heading= "Parts 33c"
 +++
 
+<!-- ### The seal 583 -->
 
-It is part of royal and governmental pomp and dynastic custom to have the names of rulers or their peculiar marks embroidered on the silk, brocade, or pure silk garments that they wear. 
+The use of the seal is one of the government functions and a royal office. 
 
-The writing is done by weaving a gold or colored thread different from the fabric's color. It depends on the skill of the weavers. 
+The sealing of letters and diplomas was known to rulers before and after Islam. It has been established in the two Sahihs that when the Prophet wanted to write to the Byzantine Emperor, he was told that the non-Arabs accepted only sealed letters. 
 
-Royal garments are embroidered with such a tiraz, in order:
-- to increase the prestige of the ruler or some other person the ruler distinguishes
+Thus, he took a silver seal (ring) and had the following legend engraved upon it:
+"Muhammad, the Messenger of God." Al-Bukhari said that he had the three words
 
-<!--  by bestowing upon them his own garment when he wants to honor
-them or appoint them to one of the offices of the dynasty. -->
+584 written in three lines and that he used that ring for sealing. (Muhammad) said:
+"No one else should use a similar legend." He continued= "Abu Bakr, 'Umar, and
+'Uthman used that ring for sealing. Then, it fell from 'Uthman's hand into the well of
+Arts. 
 
-The pre-Islamic non-Arab rulers used to make a tiraz of pictures and figures of kings, or (other) figures and pictures specifically (designed) for it. The Muslim rulers later on changed that and had their own names embroidered together with other words of good omen or prayer. 
+There was much 585 water in it, and its bottom could never be reached later on.
 
-In the Umayyad and 'Abbasid dynasties, the tiraz was one of the most splendid things and honors. The houses within the palaces in which such garments were woven were called "tiraz houses." 
+'Uthman was worried about the happening and considered it a (bad) omen. He had 586another ring made like it."
 
-The person who supervised them was called "tiraz master." He was in charge of the craftsmen, the
-implements, and the weavers in (the tiraz houses), the payment of their wages, the care of their implements, and the control of their work. 
+The way of engraving the seal, as well as its use for sealing, have different aspects. This is because the word "seal" is used for the instrument that is placed on the finger. From it, (the verbal form) takhattama "He puts the seal on" is derived.
 
-The office of tiraz master was entrusted by the Abbasids to their intimates and their most trusted clients. The same was the case with the Umayyads in Spain and their successors, the reyes de taifas, as well as with the 'Ubaydid (-Fatimids) in Egypt and the eastern non-Arab rulers contemporary with them. 
+Or, the word is used to designate "end" or "completion." In this meaning, one says khatamtu al-amra "I reached the end of the matter," or khatamtu al-Qur'ana "I finished reading the Qur'an"; also khatam an-nabiyin "the last of the prophets," 587 and khatimat al-amr "the end of the matter." The word is also used for the stopper with which bottles or barrels are closed. 
 
-When luxury and cultural diversity receded with the receding power of the (great) dynasties, and when the number of (small) dynasties grew, the office and its administration completely ceased to exist in most dynasties.
+In this sense, one uses (the form) khitam. 
 
-When, at the beginning of the sixth [twelfth] century, the Almohads succeeded the Umayyads, they did not have the tiraz at the beginning of their dynasty, because they had been taught by their imam Muhammad b. Tumart al-Mahdi the ways of religion and simplicity. 
+Thus it is said in the Qur'an= wa-khitamuhu miskun "its stopper is musk." 588 Those who interpret the word here to mean "end" or "completion" are wrong. (Their interpretation is based on the assumption) that the last impression they have of their drink is the smell of musk. However, this is not the intended meaning. It is derived here from khitam in the meaning of "stopper." 
 
-They were too austere to wear garments of silk and gold. The office (of the tiraz), therefore, had no place in their dynasty. Their descendants in the later (years) of the dynasty, however, re-established it in part, but it was not nearly as splendid (as before).
+A stopper of clay or pitch is put upon the wine in the barrel. This preserves (the wine) and gives it a good smell and taste. 
 
-At the present time, we have personally seen quite a lot of (tiraz manufacture) in the flourishing and proud Merinid dynasty in the Maghrib. The Merinids had learned it from the contempory dynasty of the Ibn al-Ahmar (Nasrids) in Spain. 
+In an exaggerated manner, the wine of paradise was thus described (in the Qur'an) as being closed with a stopper of musk, which is better smelling and tasting than clay or pitch, which are customarily used (for the purpose) in this world.
 
-They (in turn) followed the tiraz customs of the reyesa
+If (the word) "seal" is correctly used in all these meanings, it is (also) correctly used for designating the result that comes from (the application of sealing in all these meanings). This is as follows= When words or shapes are engraved upon (a seal) and it is then put into a paste of clay or an ink solution and placed upon a paper surface, those words (or shapes) will be reproduced on that surface. 
 
-<!-- II. Tiraz
-a. Probably from Northwestern Africa
-b. Hispano-Moresque (Granada?), 15th century
-de taifas and achieved in this respect something that speaks for itself. -->
+The same is the case if (the seal) is impressed on some soft material such as wax. The engraved legend remains impressed on it. If the legend consists of words, they are to be read from the left, if the engraving started correctly from the right, and from the right if the engraving started from the left, because the process of sealing reverses the direction of the writing on the (paper) surface and appears on it as the opposite of what it had been on the engraving, with right and left transposed. 
 
-In the contemporary Turkish dynasty of Egypt and Syria, the tiraz is very much cultivated in accordance with the importance of the realm of that dynasty and the civilization of its country. However, the tiraz is not produced within the houses and palaces of the dynasty, and it is not an office of the dynasty. The tiraz which is required by the dynasty is woven by craftsmen familiar with the craft, from silk and pure gold. 
+It is (also) possible to use the seal by putting it in ink and clay and placing it upon the (paper)surface. The words then appear engraved on it. This (process of sealing) expresses the idea of "end" or "completion," in the sense that a writing thus (sealed) is correct and valid. 
 
-They call it zarkash, a Persian word. The name of the ruler oramir is embroidered on it. It is made by craftsmen for the dynasty, together with other fine products, such as are fitting for (the dynasty) and are produced for it. God determines night and day. He is the best heir.596
+A particular letter somehow becomes effective through the use of such a signature ('alamah) 589 Without it, it would be invalid and imperfect. The sealing may (also) be (effected) through something written by hand at the end or the beginning of a letter, some well-chosen words of praise and glory (the formulas "Praised be God" and "Glory to God"), or the name of the ruler or amir, or of the writer of the letter, whoever he may have been, or through terms descriptive of the writer. 
 
+Such (formulas) written by hand indicate the correctness and validity of the letter. They are commonly known under the name of "signature" ('alamah), but are also called "seal" because they are compared to the impression of the seal ring. 
 
-### Large tents and tent walls
+The "seal" the judge sends to litigants is connected with this usage. That "seal" is his signature and hand, validating his decisions. The "seal" of the ruler or caliph, that is, his signature, is also connected with the usage referred to. When ar-Rashid wanted to make Jafar wazir in the place of his brother al-Fadl, he said to their father Yahya b. Khilid= "Father, I want to change my 'seal' from my right hand to my left hand." 
 
-One of the emblems of royal authority and luxury is small and large tents and canopies of linen, wool, and cotton, with linen and cotton ropes. 
+He thus used the word "seal" for the wazirate, since it was one of the duties of the wazir in ('Abbasid) times to put his signature on letters and diplomas. The correctness of the use (of "seal") in this meaning is confirmed by at-Tabari's report on Mu'awiyah's negotiations with al-Hasan. When Mu'awiyah wanted to persuade al-Hasan to enter into an armistice, he sent him a blank sheet of paper, which he "sealed" at the bottom, and he wrote to him= "(Write down) on thissheet of paper, which I have sealed at the bottom, whatever conditions you want to make. They are granted." 590 
 
-They are used for display on journeys. They are of different kinds, large or small, according to the wealth and affluence of the dynasty. At the beginning of the dynasty, the same type of housing used by the people of the dynasty before they have achieved royal authority, continues to be used. At the time of the first Umayyad caliphs, the Arabs continued to use the dwellings they had, tents of leather and wool. 
+"Sealing" here means a handwritten or other signature at the end of a sheet of paper.
 
-Only a very few of the Arabs had at that date ceased to live in the Bedouin manner. When they went on raids or went to war, they traveled with all their camels, their nomad households (hilal), and their dependent women and children, as is still the case with the Arabs at this time. Their armies, therefore, consisted of many nomad households, and the distance between the encampments was great.
+It is also possible to impress a seal upon some soft substance, so that the letters of the legend appear on that substance, and to place the substance (with the seal impression) on the knots of the strings with) which letters are tied,590a and upon places for deposits (such as storehouses, strong boxes, etc.). This (use of the root khtm) is derived from the meaning of "stopper" mentioned before. In both cases, (we are dealing with) the result of (the application of) the seal, and, therefore,
+(the word) "seal" can be used in this sense.
 
-The groups were widely separated, and each group was too far away to see the other, as is still the case with the Arabs. That was why 'Abd-al-Malik used to need "drivers" (saqah "rear guard") to keep the people together and make them follow him, in the event they did not move after he had started to move. It is reported that 'Abd-al-Malik employed al-Hajjaj for that purpose upon Rawh b. Zinba's 597 recommendation. The story of how al-Hajjaj, as soon as he was appointed to that office, had the large and ordinary tents of Rawh burned when he discovered they were not on the move the day 'Abd-al- Malik had begun to move, is well known. The fact that al-Hajjaj was entrusted with the office shows what rank he held among the Arabs. 598 The task of getting them to move was entrusted only to a person in no danger of being attacked by stupid Arab groups, one who possessed a group feeling sufficient to forestall such attacks. 
+The first to introduce the sealing of letters, that is, the use of the signature, was Mu'awiyah. He ordered 'Amr b. az-Zubayr to be given 100,000 (dirhams) by Ziyad (b. Abthi) in al-Kufah. The letter (containing the order) was opened, and the figure was changed from 100,000 to 200,000. When Ziyad presented his account (and the excess payment was noticed), Mu'awiyah disavowed it. 
 
-Therefore, 'Abd-al-Malik singled out al-Hajjaj for the rank, because he was confident that al-Hajjaj possessed enough group feeling and energy for it. The Arab dynasty then adopted diverse ways of sedentary culture and ostentation. 
+He held 'Amr responsible for the money and kept him in prison until ('Amr's) brother 'Abdallah
+paid (the sum) for him. On that occasion, Mu'awiyah introduced the ministry (diwan) of the seal. This was mentioned by at-Tabari 591 who finished his statement by saying that "he tied the letters with strings. Formerly, they had not been tied:" It means, he closed them.
 
-People settled in towns and cities. They were transformed from tent dwellers into palace dwellers. They exchanged the camel for the horse and the donkey as riding animals. Now, they used linen fabrics for their dwellings on their journeys, fashioning them into houses (tents) of various shapes and sizes, round, 599 
+The ministry (diwan) of the seal is composed of the secretaries who see to it that the letters of the ruler are expedited and sealed, either by means of a signature, or by tying them. The word diwan is used for the place where these secretaries had their office, as we mentioned in connection with the ministry (diwan) of taxation. 592
 
-oblong, or square. In this connection, they displayed the greatest possible pomp and
-art.
+Letters are tied either by piercing the paper and tacking (the letter) together with a string, as is the custom of the secretaries of the Maghrib, or by gluing the top of the sheet to the part of the letter over which the top is folded, as is the custom of the people in the East. Over the place where the letter is pierced and tacked, or where it is glued, a signature is placed. 
 
-Amirs and army leaders surrounded their large tents and canopies with a tent wall of linen. In the language of the Berbers of the Maghrib, the tent wall is called afrag. 600 It is restricted to the ruler there. No one else has it. In the East, it is used by every amir, whether he is the ruler or not.
+It guarantees that the letter has not been opened and that its contents have not been read. The people of the Maghrib place a piece of wax where the letter is pierced and tacked, and seal it with a seal upon which some signature is engraved for use in sealing, and the engraving is impressed
+upon the wax. In the old dynasties of the East, the place where the letter was glued
+was also sealed with an engraved seal that was put into a red paste of clay prepared
+for that (purpose). The engraving of the seal was impressed upon the clay. 
 
-(The habits of) luxurious living then caused women and children to stay behind in their palaces and mansions. People, therefore, traveled light. The spaces between the encampments of the army became less far apart. Army and ruler encamped in one and the same camp, which was completely within the field of vision (of a single observer). It was a pretty sight because of the various colors. This remained the way dynasties displayed their luxury.
+Under the Abbasid dynasty, this clay was called "sealing clay." It was imported from Siraf. 593
+This clay was restricted to the purpose of sealing.
 
-It has also been this way in the Almohad and Zanatah dynasties whose shadow extends over us. At the beginning of their power, when they traveled theyused the ordinary sleeping tents they had used before they achieved royal authority.
+The use of the seal, which is the (hand)written signature or engraving used for closing and tying letters, was peculiar to the ministry of correspondence (diwan ar-rasa'il). In the 'Abbasid dynasty, it belonged to the wazir. Later on, custom differed. It went to those who were in charge of (official) correspondence and the office of the secretaries in the (various) dynasties. In the dynasties of the Maghrib, people came to consider the seal ring as one of the royal marks and emblems. 
 
-However, eventually, the dynasty adopted the ways of luxury, and people began to dwell in palaces. Then, they turned to using tents both large and small to a greater extent than they had intended (when they started using them).
-
-It is a great luxury. However, armies become more vulnerable to night attacks when they are assembled in one place, where a sudden attack may involve them all. Furthermore, they do not have their families and children with them, and it is for their families and children they would be willing to die. 
-
-Therefore, other protective measures are needed in this connection, as we shall mention. 601
-
-
-The prayer enclosure (magsurah) and the prayer during the (Friday) sermon These two things are caliphal prerogatives and royal emblems in Islam. They are not known in non-Muslim dynasties.
-The enclosure for the ruler to pray in is a latticed screen around the prayer niche (mihrab), and the space immediately adjacent. The first to use one was Mu'awiyah b. Abi Sufyan, after a Kharijite had stabbed him. The story is well known.
-
-The first to use one was Marwan b. alHakam, after a Yemenite had stabbed him. 603 Afterwards, all the caliphs used it. It became a custom distinguishing the ruler from the rest of the people during prayer. 
-
-It arises only when dynasties are luxurious and flourishing, as is the case with all pomp. It remained this way in all Muslim dynasties when the 'Abbasid dynasty dissolved and the number of different dynasties in the East grew. It also remained so in Spain when the Umayyad dynasty was destroyed and the reyes de ta'ifas became numerous. As for the Maghrib, the Aghlabids used it in al-Qayrawan. It was used later on by the'Ubaydid(-Fatimid) caliphs and by their Sinhajah governors of the Maghrib, by the Banu Badis in al-Qayrawan and by the Banu Hammad in al-Qal'ah. 604 When the Almohads then took possession of all the Maghrib and Spain, they abolished the institution of (the prayer enclosure) in accordance with the desert attitude that characterized them. But then the dynasty flourished and acquired its share of luxury. When the third Almohad ruler, Ya'qub al-Mansur, appeared, he used a prayer enclosure. 
-
-Afterwards, its use remained a custom of the rulers of the Maghrib and of Spain. The same was the case with all other dynasties. This is how God proceeds with His servants.
-
-As to the prayer from the pulpit (minbar) during the (Friday) sermon, it
-should be said that the caliphs at first directed the prayers themselves. Therefore,
-they used to say a prayer (for themselves), after the obligatory prayer for the Prophet
-and the blessings for the men around him had been spoken.
-The first to use a pulpit was 'Amr b. al-'As when he built his mosque in
-Egypt. 'Umar (b. al-Khattab) wrote to him= "And now= I have heard that you use a
-pulpit and thus raise yourself above the necks of the Muslims. Is it not sufficient for
-you that you are standing while the Muslims are at your heels? Therefore, I urge you
-to smash it to bits." 605
-
-When pomp came into being and the caliphs came to be prevented from
-(personally delivering) the sermon and leading the prayer, they appointed delegates
-for both (tasks). The preacher mentioned the caliph from the pulpit. He mentioned
-his name in praise and prayed for him, because God had appointed him in theinterest of the world, and because a prayer at such an hour was thought likely to be heard. Also, the ancients had said= "He who has a good prayer shall say it for the ruler."
-
-The first to pray for the caliph during the sermon was Ibn 'Abbas. As 'Ali's
-governor in al-Basrah, he prayed for 'Ali during his sermon. He said= "O God, help
-'Ali, (who represents) the truth." 606 This practice was continued afterwards. 607
-Only the caliph was (mentioned). But when the time came that the caliphs
-were secluded and under the control of others, the men who were in control of the
-(various) dynasties often shared the (prayer) with the caliph, and their names were
-mentioned after his.
-
-When these dynasties disappeared, (the custom) also disappeared. Only the
-ruler was privileged to be mentioned in the prayer from the pulpit, and no one else.
-No one was permitted to share that privilege with the ruler or to aspire to do so.
-The founders of dynasties often neglected this institution when the dynasty
-still had a low standard of living and preserved the negligent and coarse Bedouin
-attitude. They were satisfied with a summary, anonymous reference to the one
-entrusted with the affairs of the Muslims. Such a sermon was called an "Abbasid
-sermon." This meant that the summary prayer could refer only to the 'Abbasid
-caliph, following the ancient tradition. They did not think of going beyond that, of
-clearly indicating the ruler and pronouncing his name.
-
-The story goes that the amir Abu Zakariya' Yahya b. Abi Hafs took Tlemcen away from the founder of the 'Abdal-Wadid dynasty, Yaghamrasin b. Zayyan. 608 He then decided upon returning him to power under certain conditions, which he stipulated. Among them was the condition that his (Abu Zakariya"s) name should be mentioned from the pulpits of (Yaghamrasin's) province. On that occasion,
-Yaghamrasin said= "They (the pulpits) are those pieces of wood 609 of theirs from
-which they mention whomever they like."
-
-The ambassador of al-Mustansir, the third 610 Hafsid caliph in Tunis, was at the court of the founder of the Merinid dynasty, Ya'qub b. 'Abd-al-Haqq. One day, he was late in attending the Friday service. Ya'qub was informed that the ambassador did not attend the service because the sermon did not include mention of his ruler. 
-
-Thereupon, Ya'qub gave permission to pray for him. This was one of the reasons why the Merinids took up the (Hafsid) propaganda. Such was the attitude of dynasties at the beginning, when they still had a low standard of living and preserved the Bedouin outlook. But when their political eyes were opened and they looked toward (all) the aspects of royal authority and perfected the details 611 of sedentary culture and the ideas of ostentation and pomp, they adopted all the external attributes (of royal authority) and exhausted all the possibilities in this respect. They disliked the idea that anyone else might share in them, and they were afraid that they might lose them and that their dynasty would be deprived of the effect of them.
+They made artistic seal rings of gold inlaid with gems of hyacinth (ruby), turquoise, and emerald. The ruler according to their custom wore the seal ring as an insignia, exactly as the Prophet's cloak and stick 594 were used in the 'Abbasid dynasty and an umbrella in the 'Ubaydid (-Fatimid) dynasty.

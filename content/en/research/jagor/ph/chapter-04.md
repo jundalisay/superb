@@ -5,7 +5,6 @@ title: "The Europeans"
 date: 2022-04-20
 image: /covers/travels.jpg
 description: "The Dutch are as unable as the English to acclimatise themselves in tropical countries. They get all they can out of those countries"
-linkTitle: "Chapter 4"
 author: Jagor
 icon: /graphics/flag.png
 ---

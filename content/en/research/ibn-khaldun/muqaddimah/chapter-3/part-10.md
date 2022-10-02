@@ -1,18 +1,14 @@
-+++
-title= "The nature of Royal Authority"
-description= "By its very nature, the royal authority claims all glory for itself and goes in for luxury and prefers peace"
-image= "/covers/muq.jpg"
-date= 2020-01-28
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-08"
-linkbtext= "Part 8"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-11"
-linkftext= "Part 11"
-heading= "Part 10"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "The royal authority naturally claims all glory for itself, goes for luxury and peace"
+description: "The group feeling that leads to royal authority is a composite of the amalgamation of many groups, one of which is stronger than all the others"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 10"
+date: 2020-01-18
+---
 
 
-## 10. By its very nature, the royal authority claims all glory for itself and goes in for luxury and prefers peace
+
 
 <!-- As 59 to claiming all glory for itself, this is because, as we have mentioned
 before, royal authority exists through group feeling. -->

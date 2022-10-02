@@ -1,15 +1,12 @@
-+++
-title= "The Earth"
-description= "Philosophers speculated about the condition of the world in the books. They say that the earth is a sphere enveloped by water, like a grape floating on water"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-1"
-linkbtext= "Part 1"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2b"
-linkftext= "Part 2b"
-heading= "Part 2a"
-icon = "/icons/ibn.jpg"
-date = 2020-01-30
-+++
+---
+title: "The Earth"
+description: "Philosophers speculated about the condition of the world in the books. They say that the earth is a sphere enveloped by water, like a grape floating on water"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2a"
+date: 2020-01-30
+---
+
 
 
 <!-- SECOND PREFATORY DISCUSSION -->
@@ -134,8 +131,7 @@ Alexandria. This river is called the Egyptian Nile. It is bordered by Upper Egyp
 it flows into the Surrounding Sea. This river is the Sudanese Nile. 36 All the Negro nations
 live along its borders.
 
-The Euphrates begins in Armenia in the sixth section of the fifth zone. It flows south through Byzantine territory (Anatolia) past Malatya to Manbij, and then passes Siflin, ar-Raggah, and al-Kufah until it reaches the Marsh (alBatha') between al-Basrah
-and Wasit. From there it flows into the Indian Ocean. 
+The Euphrates begins in Armenia in the sixth section of the fifth zone. It flows south through Byzantine territory (Anatolia) past Malatya to Manbij, and then passes Siflin, ar-Raggah, and al-Kufah until it reaches the Marsh (alBatha') between al-Basrah and Wasit. From there it flows into the Indian Ocean. 
 
 Many rivers flow into it along its course. Other rivers branch off from it and flow into the Tigris.
 The Tigris originates in a number of springs in the country of Khilat, which is also in Armenia. 
@@ -146,13 +142,14 @@ and join the Persian Gulf. The Tigris flows east of the Euphrates. Many large ri
 into it from all sides. The region between the Euphrates and the Tigris, where it is first
 formed, is the Jazirah of Mosul, facing Syria on both banks of the Euphrates, and facing
 Azerbaijan on both banks of the Tigris.
-The Oxus originates at Balkh, in the eighth section of the third zone, in a great
-number of springs there. Large rivers flow into it, as it follows a course from south to
-north. It flows through Khurasan, then past Khurasan to Khuwarizm in the eighth section
-of the fifth zone. It flows into Lake Aral (the Lake of Gurganj) which is situated at the foot
-[north?] of the city of (Gurganj). In length as in width, it extends the distance of one
-month's journey. The river of Farghanah and Tashkent (ash-Shash), 37 which comes from
-the territory of the Turks, flows into it. 
+
+The Oxus originates at Balkh, in the 9th section of the 3rd zone, in many springs there. 
+
+Large rivers flow into it, as it follows a course from south to north. 
+
+It flows through Khurasan, then past Khurasan to Khuwarizm in the eighth section of the fifth zone. It flows into Lake Aral (the Lake of Gurganj) which is situated at the foot [north?] of the city of (Gurganj). 
+
+In length as in width, it extends the distance of one month's journey. The river of Farghanah and Tashkent (ash-Shash), 37 which comes from the territory of the Turks, flows into it. 
 
 West of the Oxus lie Khurasan and Khuwarizm.
 

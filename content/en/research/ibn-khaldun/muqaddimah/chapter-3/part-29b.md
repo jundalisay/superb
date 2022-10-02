@@ -1,98 +1,77 @@
-+++
-title= "Police: The religious functions of the caliphate"
-description= "To be caliph in reality means acting as substitute for Muhammad with regard to the preservation of the religion and the political leadership of the world"
-image= "/covers/muq.jpg"
-date= 2020-01-15
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-27"
-linkbtext= "Part 27"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-28b"
-linkftext= "Part 28b"
-heading= "Parts 28a"
-+++
-
-### The police
-
-In the 'Abbasid dynasty and in the dynasties of the Umayyads in Spain and under the 'Ubaydid(-Fatimids) in Egypt and the Maghrib, the control of crimes and imposition of punishments required by the religious law was also a special (task)
-and was delegated to the chief of police (sahib ashshurtah). 380 
-
-The police is another religious function that under these dynasties belonged to the positions connected with the religious law. Its field is somewhat wider than that of the office of judge. It makes it possible for suspects to be brought into court. 
-
-It decides upon preventive punishments before crimes have been committed. It imposes the punishments required by the religious law where they are due, and determines compensation in cases of bodily injury where the law of talion applies. It imposes punishments not provided for by the religious law, and provides for corrective measures against those who did not execute the crimes (they planned).
+---
+title: The office of judge
+description: "This settles suits and breaks off disputes and dissensions, following the religious laws laid down by the Qur'an and the Sunnah"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 29b"
+date: 2019-12-09
+---
 
 
-The proper functions of the police and of torts were forgotten during the dynasties in which the nature of the caliphate was no longer remembered. Torts were transferred to the ruler whether he had been delegated by the caliph to take care of
-them or not. The police function was split into two parts. 
+<!-- ## The office of judge -->
 
-One of them was that of taking care of suspects, imposing the punishments required by the religious law, and
-amputating criminals condemned for crimes punished by the amputation of a limb, and seeing to it that the laws of talion were applied where appropriate. For these duties, the dynasties appointed an official who exercised his office in the service of
-the political (establishment) without reference to the religious laws. 
+This is one of the positions under the caliphate. It settles suits and breaks off disputes and dissensions, following the religious laws laid down by the Qur'an and the Sunnah. 
 
-That official was sometimes called wall (governor), and sometimes shurtah (police). The remaining (former police functions dealt with) punishments not provided for by the religious law and the imposition of punishments for crimes fixed by the religious law. They were combined with the functions of judge previously mentioned. 
+Therefore, it is one of the positions that belongs to the caliphate and falls under it generally. At the beginning of Islam, the caliphs exercised the office of judge personally. 
 
-They became part of the official duties of the office (of judge), and have so remained
-down to this time.
+They did not permit anyone else to function as judge in any matter. The
+first caliph to charge someone else with exercise of (the office of judge) was 'Umar.
+He appointed Abu d-Darda' 368 to be judge with him in Medina, he appointed Shurayh as judge in al-Basrah, and Abu Musa al-Ash'ari as judge in al-Kufah. On appointing (Abu Musa), he wrote him the famous letter that contains all the laws that
+govern the office of judge, and is the basis of them. 
 
-This position was taken away from the people who shared in the group feeling of the dynasty. When there was a religious caliphate, the caliph entrusted the function, since it was a religious office, only to Arabs or to clients-allies, slaves, or
-followers-who shared in their group feeling and upon whose ability and competence to execute the tasks they could rely.
+He writes: <!-- = 369 -->
+<!-- Now, the office of judge is a definite religious duty and a generally followed
+practice. -->
 
-When the character and appearance of the caliphate changed and royal and government authority took over, the religious functions lost to some degree their connection with (the powers in control), in as much as they did not belong among
-the titles and honors of royal authority. The Arabs later on lost all control of the government. Royal authority fell to Turkish and Berber nations. 
 
-These caliphal functions, as far as their character and the group feeling that belonged to them was concerned, were even more remote from them (than from their predecessors). This was because the Arabs had been of the opinion that the religious law was their religion and that the Prophet was one of them and that his religious laws
-distinguished them in their thought and action from the (other) nations. 
+{{< q >}}
+Understand the depositions that are made before you, for it is useless to consider a plea that is not valid.
 
-The non-Arabs did not think that way. If they had some respect for (these functions) it was merely because they had become Muslims. Therefore, they came to entrust them to men outside their own group who had become familiar with (these functions) in the dynasties of former caliphs. Under the influence of the luxury of the dynasties to which they had been accustomed for hundreds of years, these people had forgotten the old desert period and desert toughness. They had acquired (the habits of)
-sedentary culture, luxurious customs, tranquility, and lack of ability to take care of themselves. 
+Consider all the people equal before you in your court and in your attention, so that the noble will not expect you to be partial and the humble will not despair of justice from you.
 
-In the kingdoms that succeeded the (rule of the) caliphs, the functions of the caliphate became the prerogative of this kind of urban weakling. They were nolonger exercised by people of prestige, but by persons whose qualifications were
-limited, both by their descent (which was different from that of the men in power)
-and by the (habits of) sedentary culture to which they had become accustomed. 
+The claimant must produce evidence; from the defendant, an oath may be exacted.
 
-They were despised as sedentary people are, who live submerged in luxury and tranquility, who have no connection with the group feeling of the ruler, and who depend on being protected (by others). Their position in the dynasty derives from
-the fact that (the dynasty) takes care of the Muslim religious community and follows
-the religious laws, and that these persons know the laws and can interpret them
-through legal decisions (fatwa). 
+Compromise is permissible among Muslims, but not any agreement through which something forbidden would be permitted, or something permitted forbidden. If you gave judgment yesterday, and today upon reconsideration come to the correct opinion, you should not feel prevented by your first judgment from retracting; for justice is primeval, and it is better to retract than to persist in worthlessness.
 
-They have no standing in the dynasty because they are honored as personalities. Their standing merely reflects an affectation of respect for their position in the royal councils, where it is desired to make a show of reverence for the religious ranks. They do not have executive authority to make decisions in (these councils). If they participate in (the making of decisions), it is just as a matter of form, with no reality behind it. Executive authority in reality belongs to those who have the power to enforce (their decisions). 
+Use your brain about matters that perplex you and to which neither Qur'an nor Sunnah seem to apply. Study similar cases and evaluate the situation through analogy with those similar cases.
+{{< /q >}}
 
-Those who do not have the power (to enforce their decisions) have no executive authority. They are merely used as authorities on religious law, and their legal decisions (fatwa) are accepted. This is indeed the fact. God gives success.
+{{< q >}}
+If a person brings a claim, which he may or may not be able to prove, set a time limit for him. If he brings proof within the time limit, you should allow his claim, otherwise you are permitted to give judgment against him. This is the better way to forestall or clear up any possible doubt.
 
-Some scholars think that this is not right, and that rulers who keep jurists and
-judges out of (their) councils act wrongly, since Muhammad said, "The scholars are
-the heirs of the prophets." 381 However, it should be known that it is not as (such
-scholars) thinks 382 Royal and governmental authority is conditioned by the natural
-requirements of civilization; were such not the case, it would have nothing to do
-with politics. The nature of civilization does not require that (jurists and scholars)
-have any share (in authority). Advisory and executive authority belongs only to the
-person who controls the group feeling and is by it enabled to exercise authority, to
-do things or not do them. Those who do not have group feeling, who have no
-control over their own affairs, and who cannot protect themselves, are dependent
-upon others. How, then, could they participate in councils, and why should their
-advice be taken into consideration? Their advice as derived from their knowledge of
-the religious laws (is taken into consideration) only in so far as they are consulted
-for legal decisions (fatwa). Advice on political matters is not their province, because
-they have no group feeling and do not know the conditions and laws which govern
-(group feeling). To pay honor to (jurists and scholars) is an act of kindness on the
-part of rulers and amirs. It testifies to their high regard for Islam and to their respect
-for men who are in any way concerned with it.
+All Muslims are acceptable as witnesses against each other, except such as have received a punishment 370 provided for by the religious law, such as are proved to have given false witness, and such as are suspected (of partiality) on (the ground of) client status or relationship, for God, praised be He, forgives because of oaths [? ] 371 and postpones (punishment) in face of the evidence.Avoid fatigue and weariness and annoyance at the litigants. 
 
-To understand Muhammad's statement, "The scholars are the heirs of the prophets," it should be realized that the jurists of this time and of the recent past have represented the religious law mainly by ruling on ritual practices and questions
-of mutual dealings (among Muslims). 
+For establishing justice in the courts of justice, God will grant you a rich reward and give you a good reputation. Farewell.
+{{< /q >}}
+<!-- End of 'Umar's letter. -->
 
-They make (such rulings) for those who need them to be able to act in accordance with them. This has been the goal of (even) the greatest among (them). They are identified with (the religious law) only to a limited
-extent (and are known to be experts in it only) under certain conditions. The early
-Muslims, as well as pious and austere Muslims, on the other hand, represented the
-religious law in (all its aspects) and were identified with (all of) it and known to
-have had a thorough (practical) knowledge of its ways. People who represent the
-religious law without (recourse to the process of) transmission, may (be called)
-"heirs." Such, for instance, were the men mentioned in al-Qushayri's Risalah. 383
+Although the personal exercise of the office of judge was to have been the task of (the caliphs), they entrusted others with it because they were too busy with general politics and too occupied with the holy war, conquests, defense of the border
+regions, and protection of the center. 
 
-People who combine the two things 384 are religious scholars, the real "heirs," such
-as the jurists among the men of the second generation, the ancient Muslims, and the
-four imams, 385 as well as those who took them as models and followed in their
-steps. In the case of a Muslim who has only one of the two things, the better claimto be called an "heir" goes to a pious person rather than to a jurist who is not pious.
-The pious man has inherited a quality. The jurist who is not pious, on the other hand,
-has not inherited anything. He merely makes rulings for us as to how to act. This
-applies to the majority of contemporary (jurists) 386 "except those who believe and
-do good, and they are few." 387
+These were things which could not be undertaken by anyone else because of their great importance. They considered it an
+easy matter to act as judge in litigation among the people and, therefore, had
+themselves represented by others in the exercise of (the office of judge), so as to
+lighten their own (burden). 
 
+Still, they always entrusted the office only to people who shared in their group feeling either through (common) descent or their status as clients. 
+
+They did not entrust it to men who were not close to them in this sense. The laws and conditions that govern the institution (of the judiciary) are known from works on jurisprudence and, especially, from books on administration
+(al-Ahkam assultaniyah). 
+
+In the period of the caliphs, the duty of the judge was merely to settle suits between litigants. Gradually, later on, other matters were referred to them more and more often as the preoccupation of the caliphs and rulers
+with high policy grew. 
+
+Finally, the office of judge came to include, in addition to the settling of suits, certain general concerns of the Muslims, such as supervision of the property of insane persons, orphans, bankrupts, and incompetents who are under the care of guardians; supervision of wills and mortmain donations and of the marrying of marriageable women without guardians (wall) to give them away 372 according to the opinion of some authorities; supervision of (public) roads and buildings; examination of witnesses, attorneys, and court substitutes, 373 to acquire complete knowledge and full acquaintance relative to their reliability or unreliability. 
+
+All these things have become part of the position and duties of a judge. Former caliphs had entrusted the judge with the supervision of torts. 374 This is a position that combines elements both of government power and judicial discretion. 
+
+It needs a strong hand and much authority to subdue the evildoer and restrain the aggressor among two litigants. In a way, it serves to do what the judges and others are unable to do. It is concerned with the examination of evidence, with
+punishments not foreseen by the religious law, with the use of indirect and circumstantial evidence, with the postponement of judgment until the legal situation has been clarified, with attempts to bring about reconciliation between litigants, and with the swearing in of witnesses. This is a wider field than that with which the judges are concerned.
+
+
+The first caliphs exercised that function personally until the days of the 'Abbasid al-Muhtadi. Often, they also delegated it to their judges. 'All, 375 for instance, (delegated torts) to his judge, Abu Idris al-Khawlani; 376 al-Ma'min to
+Yahya b. Aktham; 377 and al-Mu'tasim to Ibn Abi Du'id.378 They also often entrusted the judges with leadership of the holy war in summer campaigns. Yahyi b.  Aktham thus went on a summer campaign against the Byzantines in the days of al-
+Ma'mun. The same was done by Mundhir b. Sa'id, 379 judge under the Spanish
+Umayyad 'Abd-ar-Rahman an-Nasir. 
+
+Making appointments to these functions was the task of the caliphs or of those to whom they entrusted it, such as a minister to whom full powers were delegated, or a ruler who had gained superiority.

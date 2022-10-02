@@ -39,7 +39,9 @@ A couple of cuts are almost enough to make a fork, a pair of tongs (h), or a hoo
 
 If one makes a hole as big as the end of one's finger in a large bamboo close under a joint, one obtains by fastening a small piece of cloth to the open end, a syphon or a filter (k). 
 
-If a piece of bamboo is split down to the joint in strips, and the strips be bound together with others horizontally interlaced, it makes a conical basket (1). If the strips are cut shorter, it makes a pedlar's pack basket. If a long handle is added, and it is filled with tar, it can be used as a signal torch (m). If shallower baskets of the same dimensions, but with their bottoms cut off or punched out, are placed inside these conical ones, the two together make capital snare baskets for crabs and fish (n). If a bamboo stem be cut off just below the joint, and its lower edge be split up into a cogged rim, it makes, when the partition of the joint is punched out, an earth borer (0), a fountain-pipe, and many things of the kind.
+If a piece of bamboo is split down to the joint in strips, and the strips be bound together with others horizontally interlaced, it makes a conical basket (1). If the strips are cut shorter, it makes a pedlar's pack basket. If a long handle is added, and it is filled with tar, it can be used as a signal torch (m). 
+
+If shallower baskets of the same dimensions, but with their bottoms cut off or punched out, are placed inside these conical ones, the two together make capital snare baskets for crabs and fish (n). If a bamboo stem be cut off just below the joint, and its lower edge be split up into a cogged rim, it makes, when the partition of the joint is punched out, an earth borer (0), a fountain-pipe, and many things of the kind.
 
 The drawings on pages 177, 193, and 210 of my “Sketches of Travel” show several ingenious samples of bamboo construction.
 

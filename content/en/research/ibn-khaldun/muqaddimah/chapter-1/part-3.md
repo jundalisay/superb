@@ -1,15 +1,12 @@
-+++
-title= "The temperate and the intemperate zones"
-description= "The inuence of the air upon the color of human beings and upon many (other) aspects of their condition"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2j"
-linkbtext= "Part-2j"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-4"
-linkftext= "Part-4"
-heading= "Part 3"
-icon = "/icons/ibn.jpg"
-date = 2020-01-20
-+++
+---
+title: "The temperate and the intemperate zones"
+description: "The influence of the air upon the color of human beings and upon many (other) aspects of their condition"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 3"
+date: 2020-01-20
+---
+
 
 <!-- THIRD PREFATORY DISCUSSION -->
 
@@ -36,8 +33,9 @@ Christians nearby, the Galicians, 215 and all those who live together with these
 The inhabitants of the zones that are far from temperate, such as the first, second, sixth, and seventh zones, are also farther removed from being temperate in all their conditions. Their buildings are of clay and reeds. Their foodstuffs are durra and herbs. 
 
 Their clothing is the leaves of trees, which they sew together to cover themselves, or animal skins. Most of them go naked. The fruits and seasonings of their countries are strange and inclined to be intemperate. In their business dealings,
-they do not use the two noble metals, but copper, iron, or skins, upon which they set a value for the purpose of business dealings. Their qualities of character, moreover, are close to those of dumb animals. It has even been reported that most of the
-Negroes of the first zone dwell in caves and thickets, eat herbs, live in savage isolation and do not congregate, and eat each other.216 The same applies to the Slavs. 
+they do not use the two noble metals, but copper, iron, or skins, upon which they set a value for the purpose of business dealings. 
+
+Their qualities of character, moreover, are close to those of dumb animals. It has even been reported that most of the Negroes of the first zone dwell in caves and thickets, eat herbs, live in savage isolation and do not congregate, and eat each other.216 The same applies to the Slavs. 
 
 The reason for this is that their remoteness from being temperate produces in them a disposition and character similar to those of the dumb animals, and they become correspondingly remote from humanity. The same also applies to their religious conditions. 
 
@@ -57,20 +55,21 @@ The curse included no more than that Ham's descendants should be the slaves of h
 Black skin is common to the people of the 1st and 2nd zones. This is caused by the air in which they live, and which comes about under the influence of the greatly increased heat in the south. 
 
 The sun is at the zenith there twice a year at short intervals. In (almost) all seasons, the sun is in culmination for a
-long time. The light of the sun, therefore, is plentiful. 220 People there have (to
-undergo) a very severe summer, and their skins turn black because of the excessive
-heat. Something similar happens in the two corresponding zones to the north, the
-seventh and sixth zones. There, a white color (of skin) is common among the
-inhabitants, likewise the result of the composition of the air in which they live, and
+long time. The light of the sun, therefore, is plentiful. 220 People there have (to undergo) a very severe summer, and their skins turn black because of the excessive heat. 
+
+Something similar happens in the two corresponding zones to the north, the seventh and sixth zones. There, a white color (of skin) is common among the inhabitants, likewise the result of the composition of the air in which they live, and
 which comes about under the influence of the excessive cold in the north. The sun is
 always on the horizon within the visual field (of the human observer), or close to it.
-It never ascends to the zenith, nor even (gets) close to it. The heat, therefore, is weak
-in this region, and the cold severe in (almost) all seasons. In consequence, the color
-of the inhabitants is white, and they tend to have little body hair. Further
-consequences of the excessive cold are blue eyes, freckled skin, and blond hair.
-The fifth, fourth, and third zones occupy an intermediate position. They have
-an abundant share of temperance 221 which is the golden mean. The fourth zone,
-being the one most nearly in the center, is as temperate as can be. 
+It never ascends to the zenith, nor even (gets) close to it.
+
+The heat, therefore, is weak in this region. The cold severe in almost all seasons. 
+
+This makes their inhabitants white-skinned, with little body hair. Further consequences of the excessive cold are:
+- blue eyes
+- freckled skin
+- blond hair.
+
+The fifth, fourth, and third zones occupy an intermediate position. They have an abundant share of temperance 221 which is the golden mean. The fourth zone, being the one most nearly in the center, is as temperate as can be. 
 
 The physique and character of its inhabitants are temperate to the (high) degree necessitated by the composition of the air in which they live. The 3rd and 5th zones lie on either side of the 4th, but they are less centrally located. They are closer to the hot south beyond the third zone and the cold north beyond the fifth zone. However, they do not become intemperate.
 
@@ -100,19 +99,34 @@ Now, among the inhabitants of these zones about whom we have historical informat
 
 They had misgivings about their color and therefore undertook to report the afore-mentioned silly story.
 
-They declared all or most of the inhabitants of the north to be the descendants of Japheth, and they declared most of the temperate nations, who inhabit the central regions, who cultivate the sciences and crafts, and who possess religious groups and
-religious laws as well as political leadership and royal authority, to be the
-descendants of Shem. Even if the genealogical construction were correct, it would
-be the result of mere guesswork, not of cogent, logical argumentation. It would
-merely be a statement of fact. It would not imply that the inhabitants of the south are
-called "Abyssinians" and "Negroes" because they are descended from "black" Ham.
+They declared all or most of the inhabitants of the north to be the descendants of Japheth, and they declared most of the temperate nations, who inhabit the central regions, who cultivate the sciences and crafts, and who possess religious groups and religious laws as well as political leadership and royal authority, to be the
+descendants of Shem. 
+
+Even if the genealogical construction were correct, it would be the result of mere guesswork, not of cogent, logical argumentation. <!-- It would merely be a statement of fact. --> 
+
+It would not imply that the inhabitants of the south are called "Abyssinians" and "Negroes" because they are descended from "black" Ham.
 
 The genealogists were led into this error by their belief that the only reason for differences between nations is in their descent. This is not so. Distinctions between races or nations are in some cases due to a different descent, as in the case of the Arabs, the Israelites, and the Persians. 
 
-In other cases, they are caused by geographical location and (physical) marks, as in the case of the Zanj (Negroes), the
-Abyssinians, the Slavs, and the black (Sudanese) Negroes. Again, in other cases, they are caused by custom and distinguishing characteristics, as well as by descent, as in the case of the Arabs. Or, they may be caused by anything else among the
-conditions, qualities, and features peculiar to the different nations. But to generalizeand say that the inhabitants of a specific geographical location in the south or in the north are the descendants of such-and-such a well-known person because they have a common color, trait, or (physical) mark which that (alleged) forefather had, is one of those errors which are caused by disregard, (both) of the true nature of created beings and of geographical facts. (There also is disregard of the fact that the physical circumstances and environment) are subject to changes that affect later generations;
+In other cases, they are caused by geographical location and physical marks, as in the case of the:
+- Zanj (Negroes)
+- Abyssinians
+- Slavs
+- black (Sudanese) Negroes. 
+
+In other cases, they are caused by:
+- custom
+- distinguishing characteristics
+- descent
+
+This is the case of the Arabs.
+
+Or, they may be caused by anything else among the conditions, qualities, and features peculiar to the different nations. 
+
+But to generalize and say that the inhabitants of a specific geographical location in the south or in the north are the descendants of such-and-such a well-known person because they have a common color, trait, or (physical) mark which that (alleged) forefather had, is one of those errors which are caused by disregard, (both) of the true nature of created beings and of geographical facts. 
+
+There also is disregard of the fact that the physical circumstances and environment) are subject to changes that affect later generations
 
 they do not necessarily remain unchanged.
-This is how God proceeds with His servants. And verily, you will not be able
-to change God's way.
+<!-- This is how God proceeds with His servants. And verily, you will not be able
+to change God's way. -->

@@ -10,6 +10,8 @@ linkftext= "Part 33b"
 heading= "Parts 33"
 +++
 
+
+
 Both "the sword" and "the pen" are instruments for the ruler to use in his affairs. However, at the beginning of the dynasty, so long as its people are occupied in establishing power, the need for "the sword" is greater than that for "the pen." In that situation, "the pen" is merely a servant and agent of the ruler's authority, whereas "the sword" contributes active assistance.
 
 The same is the case at the end of the dynasty when its group feeling

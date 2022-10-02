@@ -1,14 +1,11 @@
-+++
-title= "Royal Authority Comes Only from Group Feeling"
-description= "Royal authority is a noble and enjoyable position. It comprises all the good things of the world, the pleasures of the body, and the joys of the soul"
-image= "/covers/muq.jpg"
-date= 2020-01-31
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-2/part-25"
-linkbtext= "Part 25"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-05"
-linkftext= "Part 05"
-heading= "Parts 1-4"
-+++
+---
+title: "Royal Authority Comes Only from Group Feeling"
+description: "Royal authority is a noble and enjoyable position. It comprises all the good things of the world, the pleasures of the body, and the joys of the soul"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 1"
+date: 2020-01-31
+---
 
 <!-- ## 1. Royal authority and large dynastic power are attained only through a group and group feeling -->
 
@@ -90,53 +87,9 @@ Such group feeling makes it possible for a dynasty to become established and pro
 His statement does not take into consideration the (conditions obtaining at the) original foundation of large dynasties. It applies only to the later stages, after the dynasty has been established and after royal authority has become firmly anchored in a given family and its people have adopted (their) definite coloring. 
 
 At-Turtushi had personal contact only with a senile dynasty whose energy was exhausted and which had reverted to maintaining
-power with the help of clients and followers, then hired servants for (its) defense. He had contact only with the small dynasties (the reyes de ta'ifas), at a time when the Umayyad dynasty was already in the state of (complete) dissolution, when its Arab
-group feeling was wiped out, and when each amir had (independent) control over his particular region. He lived under the administration of the Saragossans al-Musta'in b. 
+power with the help of clients and followers, then hired servants for (its) defense. He had contact only with the small dynasties (the reyes de ta'ifas), at a time when the Umayyad dynasty was already in the state of (complete) dissolution, when its Arab group feeling was wiped out, and when each amir had (independent) control over his particular region. He lived under the administration of the Saragossans al-Musta'in b. 
 
 Hud and his son, al-Muzaffar. They had no longer any group feeling left, because, for three hundred years, the Arabs had been dominated by luxury and had perished. At-Turtushi thus saw only the kind of ruler who had (independent) control of royal authority to the exclusion of the families to which it belonged, and in whom the coloring of autocratic rule had been firmly established since the time of the dynasty('s power) and when a remnant of group feeling still existed. 
 
 Therefore, his (royal authority) was not contested, and he could rely for maintenance of his power upon a soldiery with fixed pay. AtTurtushi generalized the condition (observed by him) when he made the statement mentioned. He did not realize how a dynasty originally comes to power, nor that only those who share in a group feeling are able to accomplish (the formation of a dynasty). But this should be realized. It should be understood how God intended these things to be.
-
-
-## 3. Members of a royal family can found a dynasty that can dispense with group feeling.
-
-This is because the group feeling in which a member of a royal family shares may have much power over nations and races, and the inhabitants of remote regions who support his power may be obedient (to that family) and submissive. 
-
-So, when such a person secedes, leaving the seat of his rule and the home of his might, and joins those inhabitants of remote regions, they adopt him. They support his rule and help him. They take care of establishing his dynasty on a firm basis. They hope that he will be confirmed in his family (rights) and take the power away from his
-kinsmen. 
-
-They do not desire to share in any way in his rule, as they subject themselves to his group feeling and submit to the coloring of material superiority firmly belonging to him and his people. They believe, as in an article of faith, in
-being obedient to (him and his people). 
-
-Were they to desire to share his rule with him or to rule without him, "the earth would be shaken." 
-That is what happened to the Idrisids in Morocco and the 'Ubaydid(-Fatimids) in Ifriqiyah and Egypt. Abu Talib's descendants had left the East and removed themselves from the seat of the caliphate, to go to remote regions of the
-Muslim realm. 
-
-They aspired to deprive the 'Abbasids of the caliphate whose coloring had (throughout the years) firmly established itself in the descendants of 'Abd-Manaf, first among the Umayyads and then among the Hashimites ('Abbasids). They
-seceded (from the ruling 'Abbasid dynasty) in the western part of Islam and made
-propaganda for themselves. 
-
-The Berbers supported their rule time after time. The Awrabah and Maghilah (supported) the Idrisids, and the Kutamah, the Sinhajah, and the Hawwarah (supported) the 'Ubaydid(-Fatimids). These (Berber tribes) cemented the dynasties of (the Idrisids and 'Ubaydids) and firmly established their rule through the group support they gave them. 
-
-They detached the whole Maghrib and then Ifriqiyah from the realm of the 'Abbasids. The influence of the 'Abbasid dynasty grew steadily smaller and that of the 'Ubaydid (-Fatimids) larger. 
-
-Eventually, the latter took Egypt, Syria, and the Hijiz, and shared the Muslim empire half and half with the 'Abbasids. Nonetheless, the Berbers who supported the dynasty submitted their own affairs to the 'Ubaydid(-Fatimids) and obeyed their rule. 
-
-They merely vied for positions under them. They subjected themselves to the royal authority that had become the established coloring of the Hashimites (the family of Muhammad, the 'AlidFatimids as well as the 'Abbasids), and to the superiority over all nations of the Quraysh and the Mudar. 
-
-Royal authority, therefore, remained with their descendants down to (the time of) the complete destruction of Arab rule.
-
-## 4. Dynasties of wide power and large royal authority have their origin in religion based either on prophecy or on truthful propaganda.
-
-This is because royal authority results from superiority. Superiority results from group feeling. 
-
-Only by God's help in establishing His religion do individual desires come together in agreement to press their claims, and hearts become united.
-
-God said= "If you had expended all the treasures on earth, you would have achieved no unity among them." 15 
-
-The secret of (this) is that when the hearts succumb to false desires and are inclined toward the world, mutual jealousy and widespread differences arise. (But) when they are turned toward the truth and reject the world and whatever is false, and advance toward God, they become one in their outlook.
-
-Jealousy disappears. There are few differences. Mutual cooperation and support flourish. 
-
-As a result, the extent of the state widens, and the dynasty grows.
 

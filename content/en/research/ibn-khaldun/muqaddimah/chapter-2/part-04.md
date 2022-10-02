@@ -1,13 +1,12 @@
-+++
-title= "Bedouins are closer to being good than sedentary people"
-description= "The reliance of sedentary people on laws destroys their fortitude and power of resistance."
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-2/part-01"
-linkbtext= "Part 1"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-2/part-06"
-linkftext= "Part 6"
-heading= "Parts 4-5"
-+++
+---
+title: "Bedouins are closer to being good than sedentary people"
+description: "The reliance of sedentary people on laws destroys their fortitude and power of resistance"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Parts 4-5"
+date: 2020-01-29
+---
+
 
 
 ## 4. Bedouins are closer to being good than sedentary people

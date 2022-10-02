@@ -1,14 +1,12 @@
-+++
-title= "The Ruler's Supporters"
-description= "The ruler seeks the help of clients and followers against the men of his own people and group feeling"
-image= "/covers/muq.jpg"
-date= 2020-01-24
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-16"
-linkbtext= "Part 16"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-20"
-linkftext= "Part 20"
-heading= "Parts 17-19"
-+++
+---
+title: "The Ruler's Supporters"
+description: "The ruler seeks the help of clients and followers against the men of his own people and group feeling"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 17"
+date: 2020-01-06
+---
+
 
 
 ## 17. The ruler seeks the help of clients and followers against the men of his own people and group feeling.
@@ -56,6 +54,7 @@ Their wars and for administrative purposes, they had recourse to the support of 
 The 'Abbasid dynasty, too, used the support of Arab personalities. But when the dynasty came to claim all the glory for itself and kept the Arabs from aspiring to administrative positions, the wazirate fell to non-Arabs and followers such as the Barmecides, the Banu Sahl b. Nawbakht,171 and, later, theBuyids, and Turkish clients such as Bughi, Wasif, Utamish, Bakiyik (Bayakbak), Ibn Tulun, and their descendants, among other non-Arab clients. 
 
 Thus, the dynasty came to belong to people other than those who had established it. The power went to people other than those who had first won it.
+
 
 ## 18. The situation of clients and followers in dynasties.
 
@@ -109,34 +108,4 @@ This is the reason why the ruler comes to shun them and use others in their plac
 
 This is the case with dynasties at their end. As a rule, the words "followers" and "clients" are used for the first group. The more recent followers are called "servants" and "helpers."
 
-
-## 19. Seclusion of, and control over, the ruler (by others) may occur in dynasties
-
-When royal authority is firmly established in one particular family and branch of the tribe supporting the dynasty, and when that family claims all royal authority for itself and keeps the rest of the tribe away from it, and when the children of (that family) succeed to the royal authority in turn, by appointment, then it often happens that their wazirs and entourage gain power over the throne. 
-
-This occurs most often when a little child or a weak member of the family is appointed successor by his father or made ruler by his creatures and servants. It becomes clear that he is unable to fulfill the functions of ruler. Therefore, they are fulfilled by his guardian, one of his father's wazirs, someone from his entourage, one of his clients, or a member of his tribe. (That person) gives the impression that he is guarding the power of the (child ruler) for him. Eventually, it becomes clear that he exercises the control, and he uses the fact as a tool to achieve royal authority. 
-
-He keeps the child away from his people. He accustoms him to the pleasures of his life of luxury and gives him every possible opportunity to indulge in them. He causes him to forget to look at government affairs. Eventually, he gains full control over him. He accustoms the (child ruler) to believe that the ruler's share in royal authority consists merely in sitting on the throne, shaking hands, 179 being addressed as Sire (mawla), and sitting with the women in the seclusion of the harem. All (exercise of the) actual executive power, and the personal handling and supervision of matters that concern the ruler, such as inspection of the army, finances, and (defense of) the border regions, are believed (by the child ruler) to belong to the wazir. He defers to him in all these things. 
-
-Eventually, the wazir definitely adopts the coloring of the leader, of the man in control. The royal authority comes to be his. He reserves it for his family and his children after him.
-
-Such was the case with:
-- the Buyids
-- the Turks
-- Kaffir al-Ikhshidi 180 and others in the East
-- al-Mansur b. Abi 'Amir in Spain
-
-A secluded ruler who is deprived of authority might become aware of his situation and tries to escape from it. He thus regains the royal authority for his family. He stops the person who has gained power over it, either by killing him or by merely deposing him. However, this happens very rarely.
-
-Once a dynasty has fallen into the hands of wazirs and clients, it remains in that situation and rarely is able to escape from it. This is because such control by others is mostly the result of living in luxury.<!--  and of the fact that the royal princes have grown up immersed in prosperity. --> 
-
-They have forgotten the ways of manliness and have become accustomed to the character traits of wet nurses. <!-- , and they have grown up that way. -->
-
-They do not desire leadership. They are not used to exercising sole power, the prerogative of superiority. 
-
-All their ambition requires is the satisfactions of pomp and having a great variety of pleasures and luxuries. Clients and followers gain superiority when the family of the ruler is in sole control over its people and claims all royal authority for itself to their exclusion. 
-
-This is something that happens to dynasties of necessity.
-
-These are two diseases of dynasties which cannot be cured, except in very rare cases.<!-- "God gives His kingdom (royal authority) to whomever He wants to give it."  -->
 

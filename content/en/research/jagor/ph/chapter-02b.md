@@ -18,64 +18,100 @@ The Crown purchased the Indian and Chinese merchandise for its return freights f
 
 In 1784, however, these <!-- men of war --> galleons made their last trip.
 
-* At first the maximum value of the imports only was limited, and the Manila merchants were not over scrupulous in making false statements as to their worth ; to put an end to these malpractices a limit was placed to the amount of silver exported. According to Mas, however, the silver illegally exported amounted to six or eight times the prescribed limit.
+* At first, the maximum value of the imports only was limited. The Manila merchants were not over-scrupulous in making false statements as to their worth. To end this malpractice, a limit was placed to the amount of silver exported. According to Mas, however, the silver illegally exported was 6-8 times the prescribed limit.
 
 
-After the English invasion, European vessels were forbidden to visit Manila ; but as that city was unable to do without Indian merchandise, and was forbidden to import it in its own ships, it was brought there in English and French bottoms, which assumed a Turkish name, and were provided with a sham Indian captain.
+After the English invasion, European vessels were forbidden to visit Manila. 
 
-In 1785, the “Compania" of the Philippines obtained a monopoly of the trade between Spain and the colony, but it was not allowed to interfere with the direct traffic between Acapulco and Manila. The desire was to acquire large quantities of colonial produce, silk, indigo, cinnamon, cotton, pepper, &c., in order to export it; but as it was unable to obtain compulsory labour, it entirely failed in its attempted artificial development of agriculture.
+But Manila needed Indian merchandise. These had to be imported <!-- , and was forbidden to import it in its own ships, it was brought there --> in English and French ships which:
+- assumed a Turkish name
+- were provided with a sham Indian captain.
 
-The “Compania” suffered great losses through its erroneous system of operation, and the incapacity of its officials (it paid, for example, 13} dollars for pico pepper, which cost from 3 to 4 dollars in Sumatra).
+In 1785, the “Compania" of the Philippines obtained a monopoly of the trade between Spain and the Philippines. But it was not allowed to interfere with the direct traffic between Acapulco and Manila. It was meant to acquire large quantities of colonial produce, silk, indigo, cinnamon, cotton, pepper, etc for export. But as it was unable to obtain compulsory labour, it entirely failed in its attempted artificial development of agriculture.
+
+The “Compania” suffered great losses through:
+- its erroneous system of operation
+- the incapacity of its officials
+  - It paid, for example, 13 dollars for pico pepper, which cost from 3 to 4 dollars in Sumatra.
 
 In 1789, foreign ships were allowed to import Chinese and Indian produce, but none from Europe. 
 
-In 1809, an English commercial house obtained permission to establish itself in Manila. * In 1814, after the conclusion of the peace with France, the same permission, with greater or less restrictions, was granted to all foreigners. 
+In 1809, an English commercial house obtained permission to establish itself in Manila.* 
 
-In 1820, the direct trade between the Philippines and Spain was thrown open, without any limitations to the export of colonial produce, on the condition that the value of the Indian and Chinese goods in each expedition should not exceed
+In 1814, after the peace with France, the same permission, with more or less restrictions, was granted to all foreigners. 
 
-* Lapérouse mentions a French firm that, in 1787, bad been for many years established in Manila.
+In 1820, the direct trade between the Philippines and Spain was made open, without any limitations to the export of colonial produce, on the condition that the value of the Indian and Chinese goods in each expedition should not exceed 50,000 dollars.
 
-50,000 dollars. 
+* Lapérouse mentions a French firm that, in 1787, had been for many years established in Manila.
 
-Ever since 1834, when the privileges of the “ Compania” expired, free trade has been permitted in Manila ; foreign ships, however, being charged double dues. Four new ports have been thrown open to general trade since 1855; and in 1869 the liberal tariff previously alluded to was issued.
 
-After 3 centuries of Spanish rule, Manila has by no means added to the importance it possessed shortly after the advent of the Spaniards. 
+Ever since 1834, when the privileges of the “ Compania” expired, free trade has been permitted in Manila. 
 
-The isolation of Japan and the IndoChinese empires, a direct consequence of the importunities and pretensions of the Catholic missionaries,* the secession of the colonies on the west coast of America, above all the long continuance of a distrustful commercial and colonial policy—a policy which exists even at the present day-while important markets, based on large capital and liberal principles, were being established in the most favoured spots of the British and Dutch Indies; all these circumstances have contributed to this result and thrown the Chinese trade into other channels. 
+Foreign ships, however, were charged double dues. 
 
-The cause is as clear as the effect, yet it might be erroneous to ascribe the policy so long pursued to shortsightedness. 
+Four new ports were opened to general trade since 1855. 
 
-The Spaniards, in their schemes of colonisation, had partly a religious purpose in view, but the government discovered a great source of influence in the disposal of the extremely lucrative colonial appointments. 
+In 1869, the liberal tariff previously alluded to was issued.
 
-The crown itself, as well as its favourites, thought of nothing but extracting the most it could from the colony, and had neither the intention or the power to develop the natural wealth of the country by agriculture and commerce. Inseparable from this policy, was the persistent exclusion of foreigners.f It seemed even more necessary in the isolated Philippines than in America to cut off the VOYAGES OF THE GALLEONS.
+After 300 years of Spanish rule, Manila did not add to the importance that it had shortly after the advent of the Spaniards. 
+
+This was caused by:
+- The isolation of Japan and the IndoChinese empires because of the <!-- , a direct consequence of the importunities and --> pretensions of the Catholic missionaries*
+- the secession of the colonies on the west coast of America
+- above all, the long continuance of a distrustful commercial and colonial policy (a policy which exists even today)
+- the establishment of important markets, based on large capital and liberal principles, in the most favoured spots of the British and Dutch Indies
+
+These threw the Chinese trade into other channels. 
+
+The cause is as clear as the effect. Yet it might be erroneous to ascribe the policy so long pursued to shortsightedness. 
+
+Spanish colonisation had partly a religious purpose. The Spanish government discovered a great source of influence in the disposal of the extremely lucrative colonial appointments. 
+
+The crown itself, as well as its favourites, only thought of extracting the most from the Philippines. It had neither the intention nor the power to develop the country's natural wealth by agriculture and commerce. 
+- Inseparable from this policy, was the persistent exclusion of foreigners. 
+- It seemed even more necessary in the isolated Philippines than in America to cut off the natives from all contact with foreigners, if the Spaniards had any desire to remain in undisturbed possession of the colony. 
+
+In face, however, of the developed trade of today and the claims of the world to the productive powers of such an extraordinarily fruitful soil, the old restrictions can no longer be maintained. The recently introduced liberal tariff is a  thoroughly well-timed measure.
 
 * R. Cocks to Thomas Wilson (calendar of State Papers, India, No. 823) .... “The English will obtain a trade in China, so they bring not in any padrese (as they term them), which the Chinese cannot abide to hear of, because heretofore they came in such swarms, and are always begging without shame."
 
 + As late as 1867 some old decrees, passed against the establishment of foreigners, were renewed. A royal ordinance of 1844 prohibits the admission of strangers into the interior of the colony under any pretext whatsoever.
 
-17
 
-natives from all contact with foreigners, if the Spaniards had any desire to remain in undisturbed possession of the colony. In face, however, of the developed trade of to-day and the claims of the world to the productive powers of such an extraordinarily fruitful soil, the old restrictions can no longer be maintained, and the lately introduced liberal tariff must be hailed as a thoroughly well-timed measure.
+## VOYAGES OF THE GALLEONS
 
-The oft-mentioned voyages of the galleons betwixt Manila and Acapulco hold such a prominent position in the history of the Philippines, and afford such an interesting glimpse into the old colonial system, that their principal characteristics deserve some description.
+
+The often-mentioned voyages of the galleons between Manila and Acapulco hold such a prominent position in the history of the Philippines, and afford such an interesting glimpse into the old colonial system, that their principal characteristics deserve some description.
 
 In the days of Morga, towards the close of the 16th century, 30-40 Chinese junks visit Manila (generally in March) annually. Towards the end of June, a galleon used to sail for Acapulco. 
 
-The trade with the latter place, the active operations of which were limited to the three central months of the year, was so lucrative, easy, and certain, that the Spaniards scarcely cared to engage in any other undertakings.
+The active trade with Acapulco were limited to the 3 central months of the year. It was so lucrative, easy, and certain, that the Spaniards scarcely cared to engage in any other undertakings.
 
-As the carrying power of the annual galleon was by no means proportioned to the demand for cargo room, the Governor divided it as he deemed best; the favourites, however, to whom he assigned shares in the hold, seldom traded themselves, but parted with their concessions to the merchants. According to De Guignes,* the hold of the vessel was divided into 1,500 parts, of which the majority were allotted to the priests, and the rest to distinguished persons. As a matter of fact, the value of the cargo, which was officially limited to 600,000 dollars, was considerably higher. It chiefly consisted of Indian and Chinese cottons and silk stuffs (amongst others 50,000 pairs of silk stockings from
+The carrying power of the annual galleon was not enough to meet the demand for cargo room. The Governor divided it as he deemed best; the favourites. 
+
+, however, to whom he assigned shares in the hold, seldom traded themselves, but parted with their concessions to the merchants. 
+
+According to De Guignes,* the hold of the vessel was divided into 1,500 parts. The majority were allotted to the priests, and the rest to distinguished persons. 
+
+The value of the cargo was officially limited to 600,000 dollars. But it was considerably higher. 
+
+It chiefly consisted of Indian and Chinese cottons and silk stuffs (amongst others 50,000 pairs of silk stockings from China), and gold ornaments. The value of the return freight was 2-3 million dollars.
 
 * Vide Pinkerton.
 
-China), and gold ornaments. The value of the return freight amounted to between two and three millions of dollars.
+Everything in this trade was settled beforehand. The number, shape, size, and value of the bales, and even their selling price. 
 
-Everything in this trade was settled beforehand; the number, shape, size, and value of the bales, and even their selling price. As this was usually double the original cost, the permission to ship goods to a certain amount was equivalent, under ordinary circumstances, to the bestowal of a present of a like value. 
+This was usually double the original cost, the permission to ship goods to a certain amount was equivalent, under ordinary circumstances, to the bestowal of a present of a like value. 
 
-These permissions or licences (boletas) were, at a later period, usually granted to pensioners and officers' widows, and to officials, in lieu of an increase of salary; these favourites of fortune were forbidden however to make a direct use of them, for to trade with Acapulco was the sole right of those members of the Consulado (a kind of chamber of commerce) who could boast a long residence in the country and the possession of a capital of at least 8,000 dollars.
+These permissions or licences (boletas) were, at a later period, usually granted to pensioners and officers' widows, and to officials, in lieu of an increase of salary. 
+
+These favourites of fortune were forbidden however to make a direct use of them, for to trade with Acapulco was the sole right of those members of the Consulado (a kind of chamber of commerce) who could boast a long residence in the country and the possession of a capital of at least 8,000 dollars.
 
 Legentil, the astronomer, gives a full description of the regulations which prevailed in his day and the manner in which they were disobeyed. 
 
-The cargo consisted of a thousand bales, each composed of four packets,* the maximum value of each packet being fixed at 250 dollars. It was impossible to add to the amount of bales, but they pretty generally consisted of more than four packets, and their value so far exceeded the prescribed limits, that a boleta was considered to be worth from 200 to 225 dollars. 
+The cargo consisted of 1,000 bales. Each was composed of four packets,* the maximum value of each packet being fixed at 250 dollars. 
+
+It was impossible to add to the amount of bales, but they pretty generally consisted of more than four packets, and their value so far exceeded the prescribed limits, that a boleta was considered to be worth from 200 to 225 dollars. 
 
 The officials took good care that no goods should be smuggled on board without a boleta. These were in such demand, that, at a later period, Comynt had to pay 500 dollars for the right to ship goods, the value of which scarcely amounted to 1,000. 
 
@@ -89,11 +125,15 @@ Later on the vessels were ordered to leave Cavite with the first south-westerly 
 
 The captain of the galleon was not permitted to sail immediately northward, although to have done so would have procured him a much quicker and safer passage, and would have enabled him to reach the rainy zone more rapidly. 
 
-To effect the last, indeed, was a matter of the greatest importance to him, for his vessel, overladen with merchandise, had but little room left for water; and, although he had a crew of from 400 to 600 hands to provide for, he was instructed to depend upon the rain he caught on the voyage ; for which purpose, the galleon was provided with suitable mats and bamboo pails. their value should be advanced at interest for the furtherance of maritime commercial undertakings until the premiums, which for a voyage to Acapulo amounted to 50, to China 25, and to India 35 per cent., had increased the original capital to a certain amount. 
+To effect the last was a matter of the greatest importance to him, for his vessel, overladen with merchandise, had but little room left for water; and, although he had a crew of from 400 to 600 hands to provide for, he was instructed to depend upon the rain he caught on the voyage ; for which purpose, the galleon was provided with suitable mats and bamboo pails.
+
+Their value should be advanced at interest for the furtherance of maritime commercial undertakings until the premiums, which for a voyage to Acapulo amounted to 50, to China 25, and to India 35 per cent., had increased the original capital to a certain amount. 
 
 The interest of the whole was then to be devoted to masses for the founders, or to other pious and benevolent purposes. A third was generally kept as a reserve fund to cover possible losses. The Government long since appropriated these reserve funds as compulsory loans,“ but they are still considered as existing."
 
-When the trade with Acapulco came to an end, the principals could no longer be laid out according to the intentions of the founders, and they were lent out at interest in other ways. By a royal ordinance of the 3rd November, 1854, a junta was appointed to administer the property of the obras pias. The total capital of the five endowments (in reality only four, for one of them no longer possessed anything) amounted to nearly a million of dollars. The profits from the loans were distributed according to the amounts of the original capitals, which, however, no longer existed in cash, as the Government had disposed of them.
+When the trade with Acapulco came to an end, the principals could no longer be laid out according to the intentions of the founders, and they were lent out at interest in other ways. By a royal ordinance of the 3rd November, 1854, a junta was appointed to administer the property of the obras pias. The total capital of the five endowments (in reality only four, for one of them no longer possessed anything) amounted to nearly 1m dollars. 
+
+The profits from the loans were distributed according to the amounts of the original capitals, which, however, no longer existed in cash, as the Government had disposed of them.
 
 * Vide “Thevenot." 
 † According to Morga, between the fourteenth and fifteenth. 

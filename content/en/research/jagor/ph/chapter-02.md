@@ -142,22 +142,39 @@ The Filipinos were alone permitted to send Chinese goods to America, but only to
 
 Manila was first founded in 1571. But as early as 1565, Urdaneta, Legaspi's pilot, had found the route back through the Pacific Ocean while he was seeking a favourable north-west wind in the higher northern latitudes. 
 
-Urdaneta was not the first to use of the return passage. One of Legaspi's five vessels, under the command of Don Alonso de Arellano, which had on board as pilot one Lope Martin, a mulatto, separated itself from the fleet after they had reached the island, and returned to New Spain on a northern course, in order to claim the promised reward for the discovery. 
+Urdaneta was not the first to use of the return passage. 
+
+Legaspi had 5 ships. 
+- One was commanded by Don Alonso de Arellano, which had on board as pilot named Lope Martin, a mulatto.
+- It separated itself from the fleet after they had reached the Philippines. <!--  island, and -->
+- It returned to New Spain on a northern course, in order to claim the promised reward for the discovery. 
 
 Don Alonso was appointed, however, by the speedy return of Urdaneta.
 
 + Kottenkamp I., 1594.
 
-The first amount was afterwards increased to $300,000 with a proportionate augmentation of the return freight. But the Spanish were forbidden to visit China, and were obliged to await the arrival of the junks. 
+The first amount was afterwards increased to $300,000 with a proportionate augmentation of the return freight. But the Spanish were:
+- forbidden to visit China
+- obliged to await the arrival of the junks. 
 
-Finally, in 1720, Chinese goods were entirely prohibited in the whole of the Spanish possessions in both hemispheres. A decree of 1754 (amplified in 1769) once more permitted trade with China, and increased the maximum value of the annual freightage to Acapulco to 500,000 silver dollars, and that of the return trade to twice the amount.
+Finally, in 1720, Chinese goods were entirely prohibited in all Spanish colonies.<!--  the whole of the Spanish possessions in both hemispheres.  -->
 
-At last, the expense to the State put an end to the regular voyages to Acapulco (the last galleon left Manila in 1811, and the last departure from Acapulco took place in 1815). The commerce with America was carried on through merchant vessels, which were permitted in 1820 to export from the Philippines to the annual value of $750,000 and to trade with Acapulco, San Blas, Guyaquil, and Callao. 
+A decree of 1754 (amplified in 1769) reopened trade with China.
+- It increased the maximum value of the annual freightage to Acapulco to 500,000 silver dollars
+- The freight from Acapulco to Manila was 1,000,000 silver dollars
 
-This concession, however, was not sufficient to compensate Philippine commerce for the injuries it suffered through the separation of Mexico from Spain. 
+Finally, the <!-- expense to the State put an end to the --> regular voyages to Acapulco was ended. 
+- The last galleon left Manila in 1811
+- The last departure from Acapulco was in 1815. 
 
-The possession of Manila by the English in 1762 made its inhabitants acquainted with many industrial products which the imports from China and India were unable to offer them. 
+The Philippine commerce with America was done through merchant ships. These ships were permitted in 1820 to:
+- export from the Philippines to the annual value of $750,000
+- trade with Acapulco, San Blas, Guyaquil, and Callao. 
 
-To satisfy these new cravings Spanish men-of-war were sent, towards the close of 1764, to the colony with articles of home manufacture, such as wine, provisions, hats, cloth, hardware, and ornamental objects.
+This concession, however, was not enough to compensate Philippine commerce for the losses <!-- injuries it suffered through the --> of the separation of Mexico from Spain. 
 
 
+The English took Manila in 1762.
+- This made its natives<!--  inhabitants --> acquainted with many industrial products which the imports from China and India were unable to offer them. 
+
+To satisfy these new cravings, Spanish <!-- men-of-war --> galleons were sent to the Philippines towards the end of 1764. These carried articles of home manufacture, such as wine, provisions, hats, cloth, hardware, and ornamental objects.

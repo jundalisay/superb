@@ -1,15 +1,12 @@
-+++
-title= "The Earth's northern quarter has more civilization than the southern"
-description= "Parallel to the courses of all these stars in their spheres, there runs a large circle which belongs to the highest sphere and divides it into two halves. This is the ecliptic (zodiac)"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2a"
-linkbtext= "Part 2a"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2c"
-linkftext= "Part 2c"
-heading= "Part 2b"
-icon = "/icons/ibn.jpg"
-date = 2020-01-29
-+++
+---
+title: "The Earth's northern quarter has more civilization than the southern"
+description: "Parallel to the courses of all these stars in their spheres, there runs a large circle which belongs to the highest sphere and divides it into two halves. This is the ecliptic (zodiac)"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2b"
+date: 2020-01-29
+---
+
 
 
 <!-- SUPPLEMENTARY NOTE TO THE SECOND PREFATORY DISCUSSION -->
@@ -78,33 +75,35 @@ Then, (the power of) generation again decreases and is destroyed. However, the d
 great cold, because heat brings about desiccation faster than cold brings about freezing.
 Therefore, there is little civilization in the first and second zones. There is a
 medium degree of civilization in the third, fourth, and fifth zones, because the heat there is
-temperate owing to the decreased amount of light. There is a great deal of civilization in
-the sixth and seventh zones because of the decreased amount of heat there. At first, cold
-does not have the same destructive effect upon (the power of) generation as heat; it causes
-desiccation only when it becomes excessive and thus has dryness added. This is the case
-beyond the seventh zone. (All) this, then, is the reason why civilization is stronger and
-more abundant in the northern quarter. 
+temperate owing to the decreased amount of light. 
+
+There is a lot of civilization in the 6th and 7th zones because of the decreased amount of heat there. 
+
+At first, cold does not have the same destructive effect upon (the power of) generation as heat; it causes desiccation only when it becomes excessive and thus has dryness added. This is the case beyond the seventh zone. (All) this, then, is the reason why civilization is stronger and more abundant in the northern quarter. 
 
 The philosophers concluded from these facts that the region at the equator and
 beyond it (to the south) was empty. On the strength of observation and continuous
 tradition, it was argued against them that (to the contrary) it was cultivated. How would it
-be possible to prove this (contention)? It is obvious that the (philosophers) did not mean to
-deny entirely the existence of civilization there, but their argumentation led them to (the
+be possible to prove this (contention)? 
+
+The (philosophers) did not mean to deny entirely the existence of civilization there, but their argumentation led them to (the
 realization) that (the power of) generation must, to a large degree, be destroyed there
-because of the excessive heat. Consequently, civilization there would be either impossible,
-or only minimally possible. This is so. The region at the equator and beyond it (to the
-south), even if it has civilization as has been reported, has only a very little of it.
+because of the excessive heat. 
+
+Consequently, civilization there would be either impossible, or only minimally possible. This is so. The region at the equator and beyond it (to the south), even if it has civilization as has been reported, has only a very little of it.
 Averroes 41 assumed that the equator is in a symmetrical position 42 and that what
 is beyond the equator to the south corresponds to what is beyond it to the north;
 consequently, as much of the south would be cultivated as of the north. His assumption is
 not impossible, so far as (the argument of) the destruction of the power of generation is
 concerned. However, as to the region south of the equator, it is made impossible by the fact
 that the element of water covers the face of the earth in the south, where the corresponding
-area in the north admits of generation. On account of the greater amount of water (in thesouth), Averroes' assumption of the symmetrical (position of the equator) thus turns out to
-be impossible. Everything else follows, since civilization progresses gradually and begins
-its gradual progress where it can exist, not where it cannot exist.
-The assumption that civilization cannot exist at the equator is contradicted by
-continuous tradition. 
+area in the north admits of generation. 
+
+Averroes assumed the symmetrical position of the equator because of the greater amount of water in the south. This position is impossible. 
+
+Everything else follows, since civilization progresses gradually and begins its gradual progress where it can exist, not where it cannot exist.
+
+The assumption that civilization cannot exist at the equator is contradicted by continuous tradition. 
 
 The map of the earth was done by the author of the Book of Roger. 
 

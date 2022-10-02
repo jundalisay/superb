@@ -1,14 +1,12 @@
-+++
-title= "Leadership cannot be handed to those not of the same descent"
-description= "This is because leadership exists only through superiority, and superiority only through group feeling. Leadership over people, therefore, must, of necessity, derive from a group feeling that is superior to each individual group feeling"
-image= "/covers/muq.jpg"
-date= 2020-01-27
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-2/part-09"
-linkbtext= "Part 9"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-2/part-13"
-linkftext= "Part 13"
-heading= "Parts 11-12"
-+++
+---
+title: "Leadership cannot be handed to those not of the same descent"
+description: "This is because leadership exists only through superiority, and superiority only through group feeling. Leadership over people, therefore, must, of necessity, derive from a group feeling that is superior to each individual group feeling"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 11-12"
+date: 2020-01-22
+---
+
 
 
 <!-- ## 11. Leadership over people who share in a group feeling cannot be vested in those not of the same descent -->
@@ -68,53 +66,3 @@ There are many such examples. The fact that these groups are the leaders among t
 The connection of the Mahdi of the Almohads with the 'Alid family should not be considered a case of this type. The Mahdi did not belong to the leading family among his people, the Harghah. He became their leader after he had become famous for his knowledge and religion, and by virtue of the fact that the Masmudah tribe followed his call. 
 
 Yet, he belonged to a (Harghah) family of medium rank. 66
-
-
-
-## 12. Only those who share in the group feeling can have a "house" and nobility.
-
-This nobility is in the basic and real sense. Others will have it only in a metaphorical and figurative sense.
-
-This is because nobility and prestige are the result of personal qualities. A "house" 67 means that a man counts noble and famous men among his forebears. The fact that he is their progeny and descendant gives him great standing among his fellows, for his fellows respect the great standing and nobility that his ancestors acquired through their (personal) qualities.
-
-With regard to their growth and propagation, human beings can be compared to minerals. Muhammad said= "Men are minerals. The best ones in pre-Islamic times are also the best ones in Islam, if they are understanding." 68 "Prestige" in its proper meaning refers to (family) descent.
-
-The advantage of (common) descent consists in the group feeling that derives from it and that leads to affection and mutual help.
-
-Wherever the group feeling is truly formidable and its soil kept pure, the advantage
-of a (common) descent is more evident (than elsewhere), and the (group feeling) is
-more effective. It is an additional advantage to have a number of noble ancestors.
-
-Thus, prestige and nobility become firmly grounded in those who share in the group feeling (of a tribe), because there exists (in them) the result of (common) descent. The nobility of a "house" is in direct proportion to the different degrees of group feeling, because (nobility) is the secret of (group feeling). 
-
-Isolated 69 inhabitants of cities can have a "house" only in a metaphorical sense. The assumption that they possess one is a specious claim. Seen in its proper light, prestige means to the inhabitants of cities that some of them count among their forefathers men who had good (personal) qualities and who mingled with good people, and (that, in addition, they) try to be as decent as possible. 
-
-This is different from the real meaning of group feeling, as group feeling derives from (common) descent and a number of forefathers. The terms "prestige" and "house" are used metaphorically in this connection, because there exists in this case a number of successive ancestors who consistently performed good deeds. This is not true and unqualified prestige.70
-
-A "house" possesses an original nobility through group feeling and personal qualities. Later on, the people (who have a "house") divest themselves of that nobility when group feeling disappears as the result of sedentary life. 71 They mingle with the common people. A certain delusion as to their former prestige remains in their souls and leads them to consider
-themselves members of the most noble houses. 72 
-
-They are, however, far from that (status), because their group feeling has completely disappeared. Many inhabitants of cities who had their origins in (noble) Arab or non-Arab "houses" share such delusions.
-
-The Israelites are the most firmly misled in this delusion. 
-
-They originally had one of the greatest "houses" in the world, first, because of the great number of
-prophets and messengers born among their ancestors, extending from Abraham toMoses, the founder of their religious group and law, and next, because of their group feeling and the royal authority that God had promised and granted them by
-means of that group feeling. 
-
-Then, they were divested of all that, and they suffered humiliation and indigence. They were destined to live as exiles on earth. For thousands of years, they knew only enslavement and unbelief 73 Still, the delusion of nobility has not left them. They can be found saying= "He is an Aaronite"; "He is a descendant of Joshua"; "He is one of Caleb's progeny"; 
-
-"He is from the tribe of Judah." This in spite of the fact that their group feeling has disappeared and that for many long years they have been exposed to humiliation. 74 Many other inhabitants of cities who hold (noble) pedigrees but no longer share in any group feeling, are inclined to (utter) similar nonsense.
-
-
-Abul-Walid b. Rushd (Averroes) erred in this respect. 
-
-He mentioned prestige in the Rhetoric, one of the abridgments of the books of the first science. 75 He says that prestige belongs to people who are ancient settlers in a town. 
-
-But how long a residence in a town can help anyone to gain prestige, if he does not belong to a group that makes him feared and causes others to obey him?
-
-Averroes considers prestige as depending exclusively on the number of forefathers. Yet, rhetoric means to sway the opinions of those whose opinions count, that is, the men in command. It takes no notice of those who have no power. 
-
-They cannot sway anyone's opinions, and their own opinions are not sought. The sedentary inhabitants of cities fall into that category. It is true that Averroes grew up in a generation (group) and a place where people had no experience of group feeling and were not familiar with the conditions governing it. 
-
-Therefore, Averroes did not progress beyond his well-known (definition of) "house" and prestige as something depending merely on the number of one's ancestors, and did not refer to the reality of group feeling and its influence among men.

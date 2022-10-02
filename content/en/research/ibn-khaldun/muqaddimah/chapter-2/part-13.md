@@ -1,43 +1,18 @@
-+++
-title= "House and nobility"
-description= "House and nobility come to clients and followers only through their masters and not through their own descent."
-image= "/covers/muq.jpg"
-date= 2020-01-26
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-2/part-11"
-linkbtext= "Part 11"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-2/part-16"
-linkftext= "Part 16"
-heading= "Part 13"
-+++
+---
+title: "Prestige lasts at best four generations in one lineage"
+description: "Prestige is an accident that affects human beings. It comes into being and
+decays inevitably. No human being exists who possesses an unbroken pedigree of nobility from Adam down to himself"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 13"
+date: 2020-01-18
+---
 
 
-## 13. "House" and nobility come to clients and followers only through their masters and not through their own descent
 
-This is because, as we have mentioned before, only those who share in a group feeling have basic and true nobility. When such people take people of another descent as followers, or when they take slaves 78 and clients into servitude, and enter
-into close contact with them, the clients and followers share in the group feeling of their masters and take it on as if it were their own group feeling. 
+<!-- ## 14. Prestige lasts at best four generations in one lineage -->
 
-By taking their special place within the group feeling, they participate to some extent in the (common) descent to which (that particular group feeling belongs). Muhammad thus said, "The client of people belongs to them, whether he is their client as a slave, or as a follower and ally." 79
-
-His own descent and birth are of no help as regards the group feeling of (the master), since (that group feeling) has nothing to do with (his own) descent. The group feeling that belonged to (his own) family is lost, because its influence disappeared when he entered into close contact with that other family and lost contact with the men whose group feeling he had formerly shared. He thus becomes one of the others and takes his place among them. 
-
-In the event a number of his ancestors also shared the group feeling of these people, he comes to enjoy among (these other people) a certain nobility and "house," in keeping with his position as their client and follower. However, he does not come to be as noble as they are, but remains inferior to them.
-
-This is the case with clients of dynasties and with all servants. They acquire nobility by being firmly rooted in their client relationship, and by their service to their particular dynasty, and by having a large number of ancestors who had been under the protection of (that dynasty). One knows that the Turkish clients of the 'Abbisids and, before them, the Barmecides, as well as the Bane Nawbakht, thus achieved "house" and nobility and created glory and importance for themselves by being firmly rooted in their relationship to the ('Abbisid) dynasty. Ja'far b. Yahyi b. Khilid had the greatest possible "house" and nobility. This was the result of his position as a client of ar-Rashid and his family. It was not the result of his own (noble) descent among the Persians. The same is the case with clients and servants under any dynasty. 
-
-They have "house" and prestige by being firmly rooted in their client relationship with a particular dynasty and by being its faithful followers. Their original descent disappears (and means nothing), if it is not that of (the dynasty). It remains under cover and is not considered in connection with their importance and glory. The thing that is considered is their position as clients and followers, because this accords with the secret of group feeling which (alone) produces "house" and nobility.
-
-The nobility of a client is derived from the nobility of his masters. His "house" is derived from what (his masters) have built. 
-
-His own descent and birth do not help him. His glory is built upon his relationship as client to a particular dynasty, and upon his close contact with it as a follower and product of its education. 
-
-His own original descent may have implied close contact with some group feeling and dynasty. If that (close contact) is gone and the person in question has become a client and follower of another (dynasty), his original (descent) is nolonger of any use to him, because its group feeling has disappeared. 
-
-The new (relationship) becomes useful to him, because (its group feeling) exists. This applies to the Barmecides. It has been reported that they belonged to a Persian "house," the members of which had been guardians of the fire temples of the Persians. When they became clients of the 'Abbasids, their original (descent) was not considered. Their nobility resulted from their  position as clients and followers of the ('Abbasid) dynasty.
-
-Everything else is unsupported and unrealistic delusions prompted 80 by undisciplined souls. (The facts of) existence confirm our remarks. 
-
-
-## 14. Prestige lasts at best four generations in one lineage. 82
+<!-- 82 -->
 
 The world of the elements and all it contains comes into being and decays. This applies to both its essences and its conditions. Minerals, plants, all the animals including man, and the other created things come into being and decay, as one can see with one's own eyes. 
 

@@ -1,14 +1,13 @@
-+++
-title= "The meaning of the oath of allegiance"
-description= "The bay'ah (oath of allegiance) is a contract to render obedience. It is as though the person who renders the oath of allegiance made a contract with his amir, to the effect that he surrenders supervision of his own affairs"
-image= "/covers/muq.jpg"
-date= 2020-01-19
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-26"
-linkbtext= "Part 26"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-28a"
-linkftext= "Part 28a"
-heading= "Parts 27"
-+++
+---
+title: "The meaning of the oath of allegiance"
+description: "The bay'ah (oath of allegiance) is a contract to render obedience. It is as though the person who renders the oath of allegiance made a contract with his amir, to the effect that he surrenders supervision of his own affairs"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 27"
+date: 2019-12-18
+---
+
+
 
 The bay'ah (oath of allegiance) is a contract to render obedience. 
 

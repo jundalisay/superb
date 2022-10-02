@@ -10,6 +10,8 @@ linkftext= "Part 27"
 heading= "Part 25"
 +++
 
+
+
 ## 25. Places that succumb to the Arabs are quickly ruined
 
 This is because the Arabs are a savage nation. They enjoy savagery because it means freedom from authority<!--  and no subservience to leadership -->. Such a natural disposition negates <!-- is the negation and antithesis of --> civilization. 

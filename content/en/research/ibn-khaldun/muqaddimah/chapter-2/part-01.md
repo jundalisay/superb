@@ -1,13 +1,12 @@
-+++
-title= "The Bedouins"
-description= "Social organization enables them to cooperate toward that end and to start with the simple necessities of life, before they get to conveniences and luxuries"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/"
-linkbtext= "Index"
-linkf= "/research/ibn-khaldun/muqaddimah/"
-linkftext= "Index"
-heading= "Part 1"
-+++
+---
+title: "The Bedouins"
+description: "Social organization enables the Bedouins to cooperate toward that end and to start with the simple necessities of life, before they get to conveniences and luxuries"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 1"
+date: 2020-01-31
+---
+
 
 
 <!-- BEDOUIN CIVILIZATION, SAVAGE NATIONS

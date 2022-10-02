@@ -1,14 +1,12 @@
-+++
-title= "Monuments to Dynasties"
-description= "Royal authority and large dynastic power are attained only through a group and group feeling"
-image= "/covers/muq.jpg"
-date= 2020-01-25
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-13"
-linkbtext= "Part 13"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-17"
-linkftext= "Part 17"
-heading= "Parts 16"
-+++
+---
+title: "Monuments to Dynasties"
+description: "Royal authority and large dynastic power are attained only through a group and group feeling"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 16"
+date: 2020-01-08
+---
+
 
 
 ## 16. The monuments of a given dynasty are proportionate to its original power

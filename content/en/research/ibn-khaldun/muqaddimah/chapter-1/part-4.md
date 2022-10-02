@@ -1,15 +1,13 @@
-+++
-title= "The influence of climate on human character"
-description= "Negroes live in the earth's hot zone. Heat dominates their temperament and formation. Therefore, they have in their spirits an amount of heat corresponding to that in their bodies"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-3"
-linkbtext= "Part-3"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-5"
-linkftext= "Part-5"
-heading= "Part 4"
-icon = "/icons/ibn.jpg"
-date = 2020-01-19
-+++
+---
+title: "The influence of climate on human character"
+description: "Negroes live in the earth's hot zone. Heat dominates their temperament and formation. Therefore, they have in their spirits an amount of heat corresponding to that in their bodies"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 4"
+date: 2020-01-19
+---
+
+
 
 
 <!-- FOURTH PREFATORY DISCUSSION -->
