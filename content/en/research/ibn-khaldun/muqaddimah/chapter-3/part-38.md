@@ -1,13 +1,13 @@
-+++
-title= "Commercial activity on the part of the ruler is harmful to his subjects and ruinous to the tax revenue"
-description= "A dynasty may find itself in financial straits from its luxury and expenditures"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-36"
-linkbtext= "Part 36"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-39"
-linkftext= "Part 39"
-heading= "Parts 38"
-+++
+---
+title: "Commercial activity on the part of the ruler is harmful to his subjects and ruinous to the tax revenue"
+description: "A dynasty may find itself in financial straits from its luxury and expenditures"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 38"
+date: 2020-10-31
+---
+
+
 
 A dynasty may find itself in financial trouble because of its luxury and high expenditures and the insufficiency of the tax revenue to pay them.
 
@@ -49,12 +49,11 @@ Were the ruler to compare the revenue from taxes with the small profits (he reap
 customs duties might be levied on (the ruler's commercial activities). 
 
 If, however, the same deals were made by others (and not by the ruler), the customs duties
-(levied in connection with them) would be included in the tax total.
-Furthermore, (the trading of the ruler) may cause the destruction of
-civilization and, through the destruction and decrease of (civilization), the
-disintegration of the dynasty. When the subjects can no longer make their capital
-larger through agriculture and commerce, it will decrease and disappear as the result
-of expenditures. This will ruin their situation. This should be understood.
+(levied in connection with them) would be included in the tax total. 
+
+Furthermore, (the trading of the ruler) may cause the destruction of civilization and, through the destruction and decrease of (civilization), the disintegration of the dynasty. 
+
+When the subjects can no longer make their capital larger through agriculture and commerce, it will decrease and disappear as the result of expenditures. This will ruin their situation. This should be understood.
 
 The Persians made no one king except members of the royal house. Further, they chose him from among those (members of the royal house) who possessed virtue, religion, education, liberality, bravery, and nobility. Then, they stipulated in
 addition that he should be just. 

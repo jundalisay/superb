@@ -1,14 +1,14 @@
-+++
-title= "The tiraz"
-description= "It is part of royal pomp to have the names of rulers or their peculiar marks embroidered on the silk"
-image= "/covers/muq.jpg"
-author = "Ibn Khaldun"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-32c"
-linkbtext= "Part 33c"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-35"
-linkftext= "Part 35"
-heading= "Parts 33d"
-+++
+---
+title: "The Tiraz"
+description: "It is part of royal pomp to have the names of rulers or their peculiar marks embroidered on the silk"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 33e"
+date: 2020-11-12
+---
+
+
+
 
 
 It is part of royal and governmental pomp and dynastic custom to have the names of rulers or their peculiar marks embroidered on the silk, brocade, or pure silk garments that they wear. 
@@ -93,40 +93,43 @@ As to the prayer from the pulpit (minbar) during the (Friday) sermon, it
 should be said that the caliphs at first directed the prayers themselves. Therefore,
 they used to say a prayer (for themselves), after the obligatory prayer for the Prophet
 and the blessings for the men around him had been spoken.
-The first to use a pulpit was 'Amr b. al-'As when he built his mosque in
-Egypt. 'Umar (b. al-Khattab) wrote to him= "And now= I have heard that you use a
-pulpit and thus raise yourself above the necks of the Muslims. Is it not sufficient for
+
+The first to use a pulpit was 'Amr b. al-'As when he built his mosque in Egypt. 'Umar (b. al-Khattab) wrote to him= "And now= I have heard that you use a pulpit and thus raise yourself above the necks of the Muslims. Is it not sufficient for
 you that you are standing while the Muslims are at your heels? Therefore, I urge you
-to smash it to bits." 605
+to smash it to bits." <!-- 605 -->
 
 When pomp came into being and the caliphs came to be prevented from
 (personally delivering) the sermon and leading the prayer, they appointed delegates
 for both (tasks). The preacher mentioned the caliph from the pulpit. He mentioned
 his name in praise and prayed for him, because God had appointed him in theinterest of the world, and because a prayer at such an hour was thought likely to be heard. Also, the ancients had said= "He who has a good prayer shall say it for the ruler."
 
-The first to pray for the caliph during the sermon was Ibn 'Abbas. As 'Ali's
-governor in al-Basrah, he prayed for 'Ali during his sermon. He said= "O God, help
-'Ali, (who represents) the truth." 606 This practice was continued afterwards. 607
-Only the caliph was (mentioned). But when the time came that the caliphs
-were secluded and under the control of others, the men who were in control of the
-(various) dynasties often shared the (prayer) with the caliph, and their names were
+The first to pray for the caliph during the sermon was Ibn 'Abbas. As Ali's governor in al-Basrah, he prayed for 'Ali during his sermon.
+
+He said: "O God, help Ali, (who represents) the truth." <!-- 606 --> 
+
+This practice was continued afterwards. <!-- 607 -->
+
+Only the caliph was (mentioned). But when the time came that the caliphs were secluded and under the control of others, the men who were in control of the (various) dynasties often shared the (prayer) with the caliph, and their names were
 mentioned after his.
 
-When these dynasties disappeared, (the custom) also disappeared. Only the
-ruler was privileged to be mentioned in the prayer from the pulpit, and no one else.
-No one was permitted to share that privilege with the ruler or to aspire to do so.
-The founders of dynasties often neglected this institution when the dynasty
-still had a low standard of living and preserved the negligent and coarse Bedouin
-attitude. They were satisfied with a summary, anonymous reference to the one
-entrusted with the affairs of the Muslims. Such a sermon was called an "Abbasid
-sermon." This meant that the summary prayer could refer only to the 'Abbasid
-caliph, following the ancient tradition. They did not think of going beyond that, of
-clearly indicating the ruler and pronouncing his name.
+When these dynasties disappeared, (the custom) also disappeared. 
 
-The story goes that the amir Abu Zakariya' Yahya b. Abi Hafs took Tlemcen away from the founder of the 'Abdal-Wadid dynasty, Yaghamrasin b. Zayyan. 608 He then decided upon returning him to power under certain conditions, which he stipulated. Among them was the condition that his (Abu Zakariya"s) name should be mentioned from the pulpits of (Yaghamrasin's) province. On that occasion,
-Yaghamrasin said= "They (the pulpits) are those pieces of wood 609 of theirs from
-which they mention whomever they like."
+Only the ruler was privileged to be mentioned in the prayer from the pulpit, and no one else.
+
+No one was permitted to share that privilege with the ruler or to aspire to do so.
+
+The founders of dynasties often neglected this institution when the dynasty still had a low standard of living and preserved the negligent and coarse Bedouin attitude. 
+
+They were satisfied with a summary, anonymous reference to the one entrusted with the affairs of the Muslims. Such a sermon was called an "Abbasid sermon." 
+
+This meant that the summary prayer could refer only to the 'Abbasid caliph, following the ancient tradition. They did not think of going beyond that, of clearly indicating the ruler and pronouncing his name.
+
+The story goes that the amir Abu Zakariya' Yahya b. Abi Hafs took Tlemcen away from the founder of the 'Abdal-Wadid dynasty, Yaghamrasin b. Zayyan. 608 He then decided upon returning him to power under certain conditions, which he stipulated. Among them was the condition that his (Abu Zakariya"s) name should be mentioned from the pulpits of (Yaghamrasin's) province. On that occasion, Yaghamrasin said:
+
+"They (the pulpits) are those pieces of wood 609 of theirs from which they mention whomever they like."
 
 The ambassador of al-Mustansir, the third 610 Hafsid caliph in Tunis, was at the court of the founder of the Merinid dynasty, Ya'qub b. 'Abd-al-Haqq. One day, he was late in attending the Friday service. Ya'qub was informed that the ambassador did not attend the service because the sermon did not include mention of his ruler. 
 
-Thereupon, Ya'qub gave permission to pray for him. This was one of the reasons why the Merinids took up the (Hafsid) propaganda. Such was the attitude of dynasties at the beginning, when they still had a low standard of living and preserved the Bedouin outlook. But when their political eyes were opened and they looked toward (all) the aspects of royal authority and perfected the details 611 of sedentary culture and the ideas of ostentation and pomp, they adopted all the external attributes (of royal authority) and exhausted all the possibilities in this respect. They disliked the idea that anyone else might share in them, and they were afraid that they might lose them and that their dynasty would be deprived of the effect of them.
+Thereupon, Ya'qub gave permission to pray for him. This was one of the reasons why the Merinids took up the (Hafsid) propaganda. Such was the attitude of dynasties at the beginning, when they still had a low standard of living and preserved the Bedouin outlook. 
+
+But when their political eyes were opened and they looked toward (all) the aspects of royal authority and perfected the details <!-- 611 --> of sedentary culture and the ideas of ostentation and pomp, they adopted all the external attributes (of royal authority) and exhausted all the possibilities in this respect. They disliked the idea that anyone else might share in them, and they were afraid that they might lose them and that their dynasty would be deprived of the effect of them.

@@ -1,19 +1,24 @@
-+++
-title= "The reason for low and high tax revenues"
-description= "At the beginning of the dynasty, taxation yields a large revenue from small assessments. At the end of the dynasty, taxation yields a small revenue from large assessments"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-27"
-linkbtext= "Part 27"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-28b"
-linkftext= "Part 28b"
-heading= "Parts 28a"
-+++
+---
+title: "The reason for low and high tax revenues"
+description: "At the beginning of the dynasty, taxation yields a large revenue from small assessments. At the end of the dynasty, taxation yields a small revenue from large assessments"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 35b"
+date: 2020-11-02
+---
 
 
 At the beginning of the dynasty, taxation yields a large revenue from small assessments. At the end of the dynasty, taxation yields a small revenue from large assessments.
 
-This is because when the dynasty follows the ways (sunan) of the religion, it imposes only such taxes as are stipulated by the religious law, such as charity taxes, the land tax, and the poll tax. They mean small assessments, because,
-as everyone knows, the charity tax on property 649 is low. The same applies to the charity tax on grain and cattle, and also to the poll tax, the land tax, and all other taxes required by the religious law. They have fixed limits that cannot be overstepped.
+This is because when the dynasty follows the ways (sunan) of the religion. 
+- It imposes only the taxes stipulated by the religious law, such as:
+  - charity taxes
+  - land tax
+  - poll tax. 
+
+These mean small assessments, because the charity tax on property<!--  649 --> is low. 
+
+The same applies to the charity tax on grain and cattle, and also to the poll tax, the land tax, and all other taxes required by the religious law. They have fixed limits that cannot be overstepped.
 
 When the dynasty follows the ways of group feeling and (political) superiority, it necessarily has at first a desert attitude, as has been mentioned before. The desert attitude requires kindness, reverence, humility, respect for the property of other people, and disinclination to appropriate it, 650 except in rare instances.
 
@@ -32,10 +37,14 @@ Eventually, the taxes will weigh heavily upon the subjects and overburden them.
 Heavy taxes become an obligation and tradition, because the increases took place gradually, and no one knows specifically who increased them or levied them. They lie upon the subjects like an obligation and tradition.
 
 The assessments increase beyond the limits of equity. The result is that the interest of the subjects in cultural enterprises disappears, since when they compare expenditures and taxes with their income and gain and see the little profit they make, they lose all hope. Therefore, many of them refrain from all cultural activity.
-The result is that the total taxIII. The Great Mosque of TunisIV. Minbar and Maqsurah of the Great Mosque of al-QayrawanV. Minbar and Maqsurah of the Great Mosque of al-Qayrawan= detailV1. The Minaret of the Great Mosque of al-Qayrawan
 
-revenue goes down, as (the number of) the individual assessments goes down. Often,
-when the decrease is noticed, the amounts of individual imposts are increased. This
+
+III. The Great Mosque of TunisIV. Minbar and Maqsurah of the Great Mosque of al-QayrawanV. Minbar and Maqsurah of the Great Mosque of al-Qayrawan= detailV1. The Minaret of the Great Mosque of al-Qayrawan
+
+
+The result is that the total tax revenue goes down, as the number of the individual assessments goes down. 
+
+Often, when the decrease is noticed, the amounts of individual imposts are increased. This
 is considered a means of compensating for the decrease. Finally, individual imposts
 and assessments reach their limit. It would be of no avail to increase them further.
 The costs of all cultural enterprise are now too high, the taxes are too heavy, and the

@@ -1,36 +1,40 @@
-+++
-title= "The Seal"
-description= "The use of the seal is one of the government functions and a royal office"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-32b"
-linkbtext= "Part 33b"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-33d"
-linkftext= "Part 33d"
-heading= "Parts 33c"
-+++
+---
+title: "The Seal"
+description: "The use of the seal is one of the government functions and a royal office"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 33d"
+date: 2020-11-14
+---
 
-<!-- ### The seal 583 -->
+
 
 The use of the seal is one of the government functions and a royal office. 
 
 The sealing of letters and diplomas was known to rulers before and after Islam. It has been established in the two Sahihs that when the Prophet wanted to write to the Byzantine Emperor, he was told that the non-Arabs accepted only sealed letters. 
 
 Thus, he took a silver seal (ring) and had the following legend engraved upon it:
-"Muhammad, the Messenger of God." Al-Bukhari said that he had the three words
 
-584 written in three lines and that he used that ring for sealing. (Muhammad) said:
-"No one else should use a similar legend." He continued= "Abu Bakr, 'Umar, and
-'Uthman used that ring for sealing. Then, it fell from 'Uthman's hand into the well of
-Arts. 
+"Muhammad, the Messenger of God." 
 
-There was much 585 water in it, and its bottom could never be reached later on.
+Al-Bukhari said that:
+- he had the 3 words <!-- 584 --> written in 3 lines and
+- he used that ring for sealing. 
 
-'Uthman was worried about the happening and considered it a (bad) omen. He had 586another ring made like it."
+Muhammad said:
 
-The way of engraving the seal, as well as its use for sealing, have different aspects. This is because the word "seal" is used for the instrument that is placed on the finger. From it, (the verbal form) takhattama "He puts the seal on" is derived.
+{{< q a="Mohammad" >}}
+"No one else should use a similar legend.. Abu Bakr, Umar, andUthman used that ring for sealing. Then, it fell from 'Uthman's hand into the well of Arts. 
 
-Or, the word is used to designate "end" or "completion." In this meaning, one says khatamtu al-amra "I reached the end of the matter," or khatamtu al-Qur'ana "I finished reading the Qur'an"; also khatam an-nabiyin "the last of the prophets," 587 and khatimat al-amr "the end of the matter." The word is also used for the stopper with which bottles or barrels are closed. 
+There was much <!-- 585 --> water in it. Its bottom could never be reached later on.
+
+Uthman was worried about the happening and considered it a bad omen. He had <!-- 586 -->another ring made like it.
+{{< /q >}}
+
+
+The way of engraving the seal, as well as its use for sealing, have different aspects. This is because the word "seal" is used for the instrument that is placed on the finger. 
+
+From it, (the verbal form) takhattama "He puts the seal on" is derived. Or, the word is used to designate "end" or "completion." In this meaning, one says khatamtu al-amra "I reached the end of the matter," or khatamtu al-Qur'ana "I finished reading the Qur'an"; also khatam an-nabiyin "the last of the prophets," 587 and khatimat al-amr "the end of the matter." The word is also used for the stopper with which bottles or barrels are closed. 
 
 In this sense, one uses (the form) khitam. 
 
@@ -68,12 +72,12 @@ The ministry (diwan) of the seal is composed of the secretaries who see to it th
 
 Letters are tied either by piercing the paper and tacking (the letter) together with a string, as is the custom of the secretaries of the Maghrib, or by gluing the top of the sheet to the part of the letter over which the top is folded, as is the custom of the people in the East. Over the place where the letter is pierced and tacked, or where it is glued, a signature is placed. 
 
-It guarantees that the letter has not been opened and that its contents have not been read. The people of the Maghrib place a piece of wax where the letter is pierced and tacked, and seal it with a seal upon which some signature is engraved for use in sealing, and the engraving is impressed
-upon the wax. In the old dynasties of the East, the place where the letter was glued
-was also sealed with an engraved seal that was put into a red paste of clay prepared
-for that (purpose). The engraving of the seal was impressed upon the clay. 
+It guarantees that the letter has not been opened and that its contents have not been read. The people of the Maghrib place a piece of wax where the letter is pierced and tacked, and seal it with a seal upon which some signature is engraved for use in sealing, and the engraving is impressed upon the wax.
+
+In the old dynasties of the East, the place where the letter was glued was also sealed with an engraved seal that was put into a red paste of clay prepared for that (purpose). The engraving of the seal was impressed upon the clay. 
 
 Under the Abbasid dynasty, this clay was called "sealing clay." It was imported from Siraf. 593
+
 This clay was restricted to the purpose of sealing.
 
 The use of the seal, which is the (hand)written signature or engraving used for closing and tying letters, was peculiar to the ministry of correspondence (diwan ar-rasa'il). In the 'Abbasid dynasty, it belonged to the wazir. Later on, custom differed. It went to those who were in charge of (official) correspondence and the office of the secretaries in the (various) dynasties. In the dynasties of the Maghrib, people came to consider the seal ring as one of the royal marks and emblems. 

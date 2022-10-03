@@ -1,22 +1,20 @@
-+++
-title= "The ruler and his entourage are wealthy only in the dynasty's middle period"
-description= "Then, when royal authority has come into its own and the ruler has obtained control over his people, he prevents them from getting (any part of) the revenues, beyond their official shares"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-38"
-linkbtext= "Part 38"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-40"
-linkftext= "Part 40"
-heading= "Parts 39"
-+++
+---
+title: "The ruler and his entourage are wealthy only in the dynasty's middle period"
+description: "After royal authority has obtained control over his people, he prevents them from getting (any part of) the revenues, beyond their official shares"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 39"
+date: 2020-10-28
+---
+
 
 At the start of the dynasty, the revenues are distributed among the tribe 659 and the people who share in the ruler's group feeling, in accordance with their usefulness and group feeling and because they are
 needed to establish the dynasty, as we have stated before. 660 
 
 Under these circumstances, their leader refrains in their favor from (claiming) the revenues
-which they would like to have. He feels compensated for (his restraint) by the
-control over them that he hopes to establish. They can put pressure on him, and he
-needs them. His share of the revenues is restricted to the very small (amounts) he
-needs. Consequently, the members of his entourage and company, his wazirs,
+which they would like to have. He feels compensated for (his restraint) by the control over them that he hopes to establish. They can put pressure on him, and he needs them. His share of the revenues is restricted to the very small (amounts) he needs.
+
+Consequently, the members of his entourage and company, his wazirs,
 secretaries, and clients, usually can be observed to be destitute. Their position is
 restricted, because it depends on the position of their master, and the authority of
 (his position) is narrowed down by the competition of the people who share in his
@@ -139,11 +137,13 @@ we shall mention in his history. 669
 This and similar things belong among the delusions to which the people of
 dynasties fall prey, when they suspect that the ruler is a danger to them. They may
 indeed escape with their lives, if they succeed in escaping. But to imagine that it is a
-necessity is an erroneous and baseless assumption. The renown they obtain in
-government service suffices for them to find livelihoods for themselves, either in the
+necessity is an erroneous and baseless assumption. 
+
+
+The renown they obtain in government service suffices for them to find livelihoods for themselves, either in the
 form of a salary paid by a ruler or in the form of a position in the profitable exercise
 of commerce and agriculture. Dynasties are (inter) related, 670 but The soul is
 ambitious, if it is given the opportunity. 671 But if it is reduced to little, it is
 satisfied.
 
-God "gives sustenance. He is strong and solid." 672
+<!-- God "gives sustenance. He is strong and solid." 672 -->
