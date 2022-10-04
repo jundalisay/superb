@@ -1,13 +1,9 @@
 ---
 title: "The Cause of Diseases: Pitta, Vata, Kapha"
-heading: "Chapter 6c"
-date: "2020-01-01"
+heading: "Chapter 6d"
+date: 2022-01-02
 image: "/covers/timaeus.jpg"
 description: "Diseases arise from the unnatural excess or defect of the four natures out of which the body is compacted"
-linkb: /research/socrates/timaeus/chapter-06c
-linkbtext: "Chapter 6c"
-linkf: /research/socrates/timaeus/chapter-07
-linkftext: "Chapter 6d"
 author: "Juan"
 icon: /icons/socrates.png
 ---

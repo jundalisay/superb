@@ -1,14 +1,13 @@
-+++
-title= "The Allegory of the Cave (Enlightenment)"
-date= 2015-09-12
-image= "/covers/republic.jpg"
-description= "Unenlightened humans are like those stuck inside a dark cave who see only shadows of objects and not the hidden nature and essence of things."
-linkf= "/research/socrates/simple-republic/book-7/chapter-2/"
-linkftext= "Chapter 2"
-linkb= "/research/socrates/simple-republic/book-6/chapter-3/"
-linkbtext= "Chapter 3"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Allegory of the Cave"
+heading: "Chapter 1 of Book 7"
+date: 2015-09-30
+image: "/covers/republic.jpg"
+description: "Unenlightened humans are like those stuck inside a dark cave who see only shadows of objects and not the hidden nature and essence of things"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 
 ## Unenlightened Humans

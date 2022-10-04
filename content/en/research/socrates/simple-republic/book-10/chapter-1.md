@@ -1,15 +1,12 @@
-+++
-title= "Shallow Philosophy and Religion as Poetry"
-heading= "Book 10 Chapter 1"
-date= 2015-09-30
-image= "/covers/republic.jpg"
-description= "God is the real Creator of everything. All perceptions are reflections and all things are imitations of the original from God. Homer is one of the greatest poets and should be read by all. But shallow, imitative philosophers should not be allowed into the State "
-linkf= "/research/socrates/simple-republic/book-10/chapter-2/"
-linkftext= "Chapter 2"
-linkb= "/research/socrates/simple-republic/book-9/chapter-3/"
-linkbtext= "Chapter 3"
-icon= "/icons/soc.png"
-+++
+---
+heading: "Book 10 Chapter 1"
+title: "Shallow Philosophy and Religion as Poetry"
+date: 2015-09-30
+image: "/covers/republic.jpg"
+description: "God is the real Creator of everything. All perceptions are reflections and all things are imitations of the original from God. Homer is one of the greatest poets and should be read by all. But shallow, imitative philosophers should not be allowed into the State"
+icon: "/icons/soc.png"
+---
+
 
 
 ## Imitation is Thrice removed from the truth.

@@ -1,12 +1,8 @@
 ---
 title: "The Universe"
-date: 2022-01-28
+date: 2022-01-18
 image: "/covers/timaeus.jpg"
-description: "The Simplified Timaeus by Plato"
-linkb: "/research/socrates/timaeus/chapter-04b"
-linkbtext: "Chapter 4b"
-linkf: "/research/socrates/timaeus/chapter-05b"
-linkftext: "Chapter 5b"
+description: "How is the body created? "
 ---
 
 
@@ -17,6 +13,7 @@ It becomes a rational being after:
 - the courses of the soul calm down and go their own way and become steadier as time goes on
 - the several circles return to their natural form
   -  their revolutions are corrected, and they call the same and the other by their right names
+
 
 If he has true nurture or education, he attains the fulness and health of the perfect man, and escapes the worst disease of all. 
 

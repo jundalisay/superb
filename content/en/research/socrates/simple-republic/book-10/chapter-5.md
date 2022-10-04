@@ -1,13 +1,9 @@
 ---
 title: "The True Nature"
-heading: Chapter 5 Book 10 of The Republic by Plato Simplified
-date: 2022-01-31
+heading: Chapter 5 of Book 10
+date: 2020-09-22
 description: "Let each of us leave every other kind of knowledge and seek and follow one thing only"
 image: "/covers/republic.jpg"
-linkb: "/research/socrates/simple-republic/book-10/chapter-4/"
-linkbtext: "Chapter 4"
-linkf: "/research/socrates/simple-republic/"
-linkftext: "Index"
 icon: "/icons/soc.png"
 ---
 

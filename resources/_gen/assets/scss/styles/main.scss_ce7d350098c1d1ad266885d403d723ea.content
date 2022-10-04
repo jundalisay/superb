@@ -6856,7 +6856,6 @@ body {
   background-image: url(/icons/smith.png) !important; }
 
 .soc, .Socrates, .socrates {
-  background-color: #210025;
   background-image: url(/icons/soc.png); }
 
 .spmed, .Medical-Superphysics {

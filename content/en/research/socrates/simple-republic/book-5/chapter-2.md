@@ -1,14 +1,13 @@
-+++
-title= "The Unity of Society and the Training of Children"
-date= 2015-09-10
-image= "/covers/republic.jpg"
-description= "Unity is the greatest good to be pursued by the state"
-linkf= "/research/socrates/simple-republic/book-5/chapter-3/"
-linkftext= "Chapter 3"
-linkb= "/research/socrates/simple-republic/book-5/chapter-1/"
-linkbtext= "Chapter 1"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Unity of Society and the Training of Children"
+heading: "Chapter 2 of Book 5"
+date: 2015-09-28
+image: "/covers/republic.jpg"
+description: "Unity is the greatest good to be pursued by the state"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 
 ## Unity is the greatest good

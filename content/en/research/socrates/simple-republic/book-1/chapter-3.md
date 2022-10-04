@@ -1,17 +1,11 @@
-+++
-title= "Justice is the Interest of the Citizens"
-heading= "Book 1 Chapter 3"
-date= 2015-09-03
-image= "/covers/republic.jpg"
-description= "Justice is in serving the interest of the people and society. The unjust seem to be happier than the just only in the beginning. In reality, they are less happy and are incapable of united action."
-linkb= "/research/socrates/simple-republic/book-1/chapter-2/"
-linkbtext= "Chapter 2"
-linkf= "/research/socrates/simple-republic/book-2/chapter-1/"
-linkftext= "Book 2"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "Justice is the Interest of the Citizens"
+date: 2015-09-26
+image: "/covers/republic.jpg"
+description: "Justice is in serving the interest of the people and society. The unjust seem to be happier than the just only in the beginning. In reality, they are less happy and are incapable of united action"
+icon: "/icons/soc.png"
+---
+
 
 {{< l a="Socrates" >}}
 To Thrasymachus: Is the attempt to determine the way of man's life so small a matter to you? 

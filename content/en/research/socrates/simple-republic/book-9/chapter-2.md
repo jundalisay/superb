@@ -1,15 +1,13 @@
-+++
-title= "The Three Pleasures: Wisdom, Honor, Gain"
-heading= "Book 9 Chapter 2"
-date= 2015-09-09
-image= "/covers/republic.jpg"
-description= "The Three Pleasures are Wisdom, Honor, Gain"
-linkf= "/research/socrates/simple-republic/book-9/chapter-3/"
-linkftext= "Chapter 3"
-linkb= "/research/socrates/simple-republic/book-9/chapter-1/"
-linkbtext= "Chapter 1"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Three Pleasures: Wisdom, Honor, Gain"
+heading: "Chapter 2 of Book 9"
+date: 2015-09-28
+image: "/covers/republic.jpg"
+description: "The Three Pleasures are Wisdom, Honor, Gain"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 
 {{< l a="Socrates" >}}
@@ -50,8 +48,9 @@ Thus there are three classes of men:
 - lovers of honour, and [4-5 chakra]
 - lovers of gain [1-3 chakra].
 
+These three indicate the three kinds of pleasure, which dispute each other. Which of the three classes of men have most pleasant lives? Each will praise his own class and depreciating the others. 
 
-These three indicate the three kinds of pleasure, which dispute each other. Which of the three classes of men have most pleasant lives? Each will praise his own class and depreciating the others. The money-maker will contrast the vanity of honour or learning if they bring no money. The lover of honour will think that the pleasure of riches is vulgar, while the pleasure of learning are nonsense. The philosopher values most the pleasure of knowing the truth. If he will avoid the other pleasures if he can.
+The money-maker will contrast the vanity of honour or learning if they bring no money. The lover of honour will think that the pleasure of riches is vulgar, while the pleasure of learning are nonsense. The philosopher values most the pleasure of knowing the truth. If he will avoid the other pleasures if he can.
 {{< /l >}}
 
 
@@ -60,7 +59,10 @@ Of these three, which have all the pleasures? Does the lover of gain get more pl
 
 The philosopher greatly has the advantage.
 
-He has known the taste of the other pleasures from his childhood. But the lover of gain in all his experience has not necessarily tasted the sweetness of the truth. The lover of wisdom has a great advantage over the lover of gain, for he has a double experience. Does he have greater experience of the pleasures of honour than the lover of honour has of the pleasures of wisdom? Nay, all three are honoured in proportion as they attain their object.
+He has known the taste of the other pleasures from his childhood. But the lover of gain in all his experience has not necessarily tasted the sweetness of the truth. The lover of wisdom has a great advantage over the lover of gain, for he has a double experience.
+
+
+Does he have greater experience of the pleasures of honour than the lover of honour has of the pleasures of wisdom? Nay, all three are honoured in proportion as they attain their object.
 
 The rich, the brave, and the wise have their crowd of admirers. They all have experience of the pleasures of honour. But the delight which is to be found in the knowledge of true being is known to the philosopher only.
 {{< /l >}}

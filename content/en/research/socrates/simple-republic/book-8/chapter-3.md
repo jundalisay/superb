@@ -1,17 +1,13 @@
-+++
-title= "From Oligarchy Into Democracy"
-# heading= "The Simple Republic by Plato Book 8 Chapter 3"
-date= 2015-09-10
-image= "/covers/republic.jpg"
-description= "Oligarchy turns to democracy after the people taste the pleasures of wealth"
-linkf= "/research/socrates/simple-republic/book-8/chapter-4/"
-linkftext= "Chapter 4"
-linkb= "/research/socrates/simple-republic/book-8/chapter-2/"
-linkbtext= "Chapter 2"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "From Oligarchy Into Democracy"
+heading: "Chapter 3 of Book 8"
+date: 2015-09-25
+image: "/covers/republic.jpg"
+description: "Oligarchy turns to democracy after the people taste the pleasures of wealth"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 {{< l a="Socrates" >}}
 Next comes democracy. How does oligarchy change into democracy? Is it wise or not?
@@ -20,7 +16,10 @@ Next comes democracy. How does oligarchy change into democracy? Is it wise or no
  -->
 Oligarchy aims at a good of becoming as rich as possible. The rulers are aware that their power rests on their wealth. They will refuse to curtail by law the extravagance of the spendthrift youth because they gain from their ruin. They take interest from them. They buy up their estates and increase their own wealth and importance. 
 <!-- Is this desire insatiable? -->
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 The love of wealth and the spirit of moderation cannot exist together in citizens of the same state. One or the other will be disregarded.
 
 In Oligarchical States, men of good family often are reduced to beggary because of the spread of carelessness and extravagance. Yet still they remain in the city, ready to sting and fully armed. Some of them owe money, some have forfeited their citizenship.
@@ -93,7 +92,6 @@ The son of the miserly and oligarchical father is trained in the habits of oliga
 - Unnecessary pleasures are those that we get rid of.
 - The desire of eating simple food is a necessary pleasure as it is needed for life.
 - The desire of eating more delicate food is hurtful to the body and soul in the pursuit of wisdom and virtue and are unnecessary.
-
 
 He forcibly keeps down the unnecessary pleasures.
 

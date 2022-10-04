@@ -1,15 +1,13 @@
-+++
-title= "The True Philosopher"
-heading= "Book 6 Chapter 1"
-date= 2015-09-09
-image= "/covers/republic.jpg"
-description= "A true philosopher-leader must love knowledge, learning, and have a good memory. He must not be mean nor selfish. Sophists corrupt philosophers by tapping into shallow public opinion"
-linkf= "/research/socrates/simple-republic/book-6/chapter-2/"
-linkftext= "Chapter 2"
-linkb= "/research/socrates/simple-republic/book-5/chapter-3/"
-linkbtext= "Chapter 3"
-icon= "/icons/soc.png"
-+++
+---
+title: "The True Philosopher"
+heading: "Chapter 1 of Book 6"
+date: 2015-09-30
+image: "/covers/republic.jpg"
+description: "A true philosopher-leader must love knowledge, learning, and have a good memory. He must not be mean nor selfish. Sophists corrupt philosophers by tapping into shallow public opinion"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 {{< l a="Socrates" >}}
 The true philosophers have knowledge, while the false philosophers only have opinion. 

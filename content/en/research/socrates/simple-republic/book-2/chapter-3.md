@@ -1,14 +1,12 @@
-+++
-title= "The Moral Education of Guardians"
-date= 2015-09-28
-image= "/covers/republic.jpg"
-description= "The guardians should be given proper education in philosophy and gymnastic. The state should censor immoral and untruthful literature and art, and should base their education on God. They should never create true lies"
-linkb= "/research/socrates/simple-republic/book-2/chapter-2/"
-linkbtext= "Chapter 2"
-linkf= "/research/socrates/simple-republic/book-3/chapter-1/"
-linkftext= "Book 3"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Moral Education of Guardians"
+heading: Chapter 3 of Book 10
+date: 2020-09-22
+description: "The guardians should be given proper education in philosophy and gymnastic. The state should censor immoral and untruthful literature and art, and should base their education on God. They should never create true lies"
+image: "/covers/republic.jpg"
+icon: "/icons/soc.png"
+---
+
 
 
 {{< l a="Socrates" >}}

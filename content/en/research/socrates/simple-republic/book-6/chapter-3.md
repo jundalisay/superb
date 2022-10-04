@@ -1,16 +1,15 @@
-+++
-title= "Knowledge Versus Pleasure, Science Versus Dialectics"
-date= 2015-09-09
-image= "/covers/republic.jpg"
-description= "The knowledge of the Truth is real pleasure"
-linkf= "/research/socrates/simple-republic/book-7/chapter-1/"
-linkftext= "Chapter 1"
-linkb= "/research/socrates/simple-republic/book-6/chapter-2/"
-linkbtext= "Chapter 2"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "Knowledge Versus Pleasure, Science Versus Dialectics"
+heading: "Chapter 3 of Book 6"
+date: 2015-09-26
+image: "/covers/republic.jpg"
+description: "The knowledge of the Truth is real pleasure"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
+
+
 
 ## Good is Not Pleasure
 
@@ -143,10 +142,10 @@ This is the cause of science.
 {{< /l >}}
 
 {{< l a="Socrates" >}}
-Both truth and knowledge are beautiful.
-Light and sight are like the sun, but are not the sun.
+Both truth and knowledge are beautiful. Light and sight are like the sun, but are not the sun.
 Likewise, science and truth are like the good, but are not the good.
 The good has a place of honour yet higher.
+
 What a wonder of beauty that must be which is the author of science and truth, and yet surpasses them in beauty; for you surely cannot mean to say that pleasure is the good?
 
 The sun is not only the author of visibility to all visible things.

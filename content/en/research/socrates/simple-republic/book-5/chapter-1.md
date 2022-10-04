@@ -1,18 +1,13 @@
-+++
-title= "Female Guardians and their Children"
-# heading= "The Simple Republic by Plato Book 5 Chapter 1"
-date= 2015-09-11
-image= "/covers/republic.jpg"
-# image= "https://sorasystem.sirv.com/photos/grav.jpg"
-description= "Women should have the same rights as men"
-linkb= "/research/socrates/simple-republic/book-4/chapter-2"
-linkbtext= "Chapter 2"
-linkf= "/research/socrates/simple-republic/book-5/chapter-2"
-linkftext= "Chapter 2"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "Female Guardians and their Children"
+heading: "Chapter 4 of Book 5"
+date: 2015-09-30
+image: "/covers/republic.jpg"
+description: "Women should have the same rights as men"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 
 ## Women Should be Allowed Equal Occupations with Men

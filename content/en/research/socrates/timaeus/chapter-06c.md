@@ -1,13 +1,9 @@
 ---
 title: "Plants and Trees"
 heading: "Chapter 6c"
-date: "2020-01-01"
+date: 2022-01-04
 image: "/covers/timaeus.jpg"
 description: "The life of mortal animal necessarily consisted of fire and breath. This allowed it to waste away by dissolution and depletion"
-linkb: /research/socrates/timaeus/chapter-06b
-linkbtext: "Chapter 6b"
-linkf: /research/socrates/timaeus/chapter-06d
-linkftext: "Chapter 6d"
 author: "Juan"
 icon: /icons/socrates.png
 ---

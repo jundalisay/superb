@@ -1,14 +1,10 @@
 ---
 title: "Wisdom and Courage"
-heading: "Chapter 1 Book 4 The Republic by Plato Simplified"
-date: 2015-09-25
+heading: "Chapter 1 Book 4"
+date: 2015-09-30
 image: "/covers/republic.jpg"
 description: "Socrates gives the policies for wealth, war, and federalism"
 author: "Socrates"
-linkb: "/research/socrates/simple-republic/book-3/chapter-5/"
-linkbtext: "Chapter 5"
-linkf: "/research/socrates/simple-republic/book-4/chapter-2/"
-linkftext: "Chapter 2"
 icon: "/icons/soc.png"
 ---
 

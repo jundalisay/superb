@@ -1,15 +1,13 @@
-+++
-title= "Dialectics as an Essential Study"
-# heading= "The Simple Republic by Plato Book 7 Chapter 4"
-date= 2015-09-09
-description= "Dialectics is the last and most important study that is superior to all the sciences as it deals with the nature of things. The four divisions of knowledge are science, understanding, opinion, and perception of shadows."
-image= "/covers/republic.jpg"
-linkf= "/research/socrates/simple-republic/book-8/chapter-1/"
-linkftext= "Book 8"
-linkb= "/research/socrates/simple-republic/book-7/chapter-3/"
-linkbtext= "Chapter 3"
-icon= "/icons/soc.png"
-+++
+---
+title: "Dialectics as an Essential Study"
+heading: "Chapter 4 of Book 7"
+date: 2015-09-24
+image: "/covers/republic.jpg"
+description: "Dialectics is the last and most important study that is superior to all the sciences as it deals with the nature of things. The four divisions of knowledge are science, understanding, opinion, and perception of shadows"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 {{< l a="Socrates" >}}
 Motion has many forms. Two of them are obvious to ordinary people. 
@@ -153,7 +151,7 @@ Any name will do which expresses the thought of the mind with clearness.
 
 
 {{< l a="Socrates" >}}
-We have four divisions of knowledge:
+We have 4 divisions of knowledge:
 
 1. Knowledge from the intellect -- this is concerned with being:
 - Science [Physics]
@@ -162,7 +160,10 @@ We have four divisions of knowledge:
 2. Knowledge from opinion -- this is concerned with becoming:
 - Belief [Metaphysics] -- this is the counterpart of science
 - Perception of Shadows [Data science] -- this is the counterpart of understanding
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 But let us defer the correlation and subdivision of opinion and intellect, for it will be a long enquiry. The dialectician is someone who attains a conception of the essence of each thing. A person who fails to see the essence of a thing also fails in intelligence. The same is true for the conception of the good.
 {{< /l >}}
 

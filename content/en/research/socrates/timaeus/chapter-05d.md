@@ -1,13 +1,9 @@
 ---
 title: "The Senses"
 heading: "Timaeus by Plato Simplified"
-date: 2022-01-28
+date: 2022-01-12
 image: "/covers/timaeus.jpg"
 description: "Water, by condensation, becomes stone and earth. When melted and dispersed, passes into vapour and air"
-linkb: "/research/socrates/timaeus/chapter-05c"
-linkbtext: "Chapter 5c"
-linkf: "/research/socrates/timaeus/chapter-05e"
-linkftext: "Chapter 5e"
 author: Timaeus
 icon: /icons/soc.png
 ---

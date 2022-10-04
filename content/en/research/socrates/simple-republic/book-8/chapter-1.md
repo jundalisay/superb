@@ -1,15 +1,13 @@
-+++
-title= "Aristocracy, Oligarchy, Democracy, Tyranny"
-# heading= "The Simple Republic by Plato Book 8 Chapter 1"
-date= 2015-09-12
-description= "Dialectics is the last and most important study that is superior to all the sciences as it deals with the nature of things. The four divisions of knowledge are science, understanding, opinion, and perception of shadows."
-image ="/covers/republic.jpg"
-linkf= "/research/socrates/simple-republic/book-8/chapter-2/"
-linkftext= "Chapter 2"
-linkb= "/research/socrates/simple-republic/book-7/chapter-4/"
-linkbtext= "Chapter 4"
-icon= "/icons/soc.png"
-+++
+---
+title: "Aristocracy, Oligarchy, Democracy, Tyranny"
+heading: "Chapter 1 of Book 8"
+date: 2015-09-30
+image: "/covers/republic.jpg"
+description: "Dialectics is the last and most important study that is superior to all the sciences as it deals with the nature of things. The four divisions of knowledge are science, understanding, opinion, and perception of shadows"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 
 {{< l a="Socrates" >}}
@@ -229,13 +227,18 @@ If they see any one who owes money to his father, or is wronging him in any way,
 He goes abroad and hears and sees the same thing.
 Those who do their own business in the city are called simpletons
 They are held in no esteem, while the busy-bodies are honoured and applauded.
+
 This will make the young man having a narrower view of his way of life.
 He compares himself and others and is drawn in opposite ways.
-While his father is watering and nourishing the rational principle in his soul, the others are encouraging the passionate and appetitive.
 
+While his father is watering and nourishing the rational principle in his soul, the others are encouraging the passionate and appetitive.
+{{< /l >}}
+
+{{< l a="Socrates" >}}
 He is not originally of a bad nature.
+
 But having kept bad company, he is at last brought by their joint influence to a middle point.
 He gives up the kingdom which is within him to the middle principle of contentiousness and passion.
-He becomes arrogant and ambitious.
-Oligarchy follows next in order.
+
+He becomes arrogant and ambitious. Oligarchy follows next in order.
 {{< /l >}}

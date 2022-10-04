@@ -1,6 +1,6 @@
 ---
 title: "Created Beings"
-date: 2022-01-28
+date: 2022-01-20
 image: "/covers/timaeus.jpg"
 description: "The Simplified Timaeus by Plato"
 ---

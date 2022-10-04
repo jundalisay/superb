@@ -1,16 +1,13 @@
-+++
-title= "The Four Classes: Gold, Silver, Brass, Iron"
-heading= "The Simple Republic by Plato Book 3 Chapter 4"
-# date= 2015-09-09
-date= 2015-09-26
-image= "/covers/republic.jpg"
-description= "Plato's Four Classes: Gold (Brahmin), Silver (Ksattriya), Brass (Vaesha), Iron (Shudra)"
-linkb= "/research/socrates/simple-republic/book-3/chapter-4/"
-linkbtext= "Chapter 4"
-linkf= "/research/socrates/simple-republic/book-3/chapter-5/"
-linkftext= "Chapter 5"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Four Classes: Gold, Silver, Brass, Iron"
+heading: Chapter 4b of Book 3
+date: 2020-09-22
+description: "Plato's Four Classes: Gold (Brahmin), Silver (Ksattriya), Brass (Vaesha), Iron (Shudra)"
+image: "/covers/republic.jpg"
+icon: "/icons/soc.png"
+---
+
+
 
 
 {{< l a="Socrates" >}}

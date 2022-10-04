@@ -1,14 +1,10 @@
-+++
-title= "Justice Versus Injustice"
-date= 2015-09-30
-image= "/covers/republic.jpg"
-description= "Justice is a necessity that should be sought for its own sake and not as a means to an end. Unjust people often give importance to external appearances."
-linkf= "/research/socrates/simple-republic/book-2/chapter-2/"
-linkftext= "Chapter 2"
-linkb= "/research/socrates/simple-republic/book-1/chapter-3/"
-linkbtext= "Chapter 3"
-icon= "/icons/soc.png"
-+++
+---
+title: "Justice Versus Injustice"
+date: 2015-09-30
+image: "/covers/republic.jpg"
+description: "Justice is a necessity that should be sought for its own sake and not as a means to an end. Unjust people often give importance to external appearances."
+icon: "/icons/soc.png"
+---
 
 
 ## The Three Kinds of Positives

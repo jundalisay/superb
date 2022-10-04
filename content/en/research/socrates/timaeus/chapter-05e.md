@@ -1,12 +1,8 @@
 ---
 title: "Colors and Causes"
-date: 2022-01-28
+date: 2022-01-10
 image: "/covers/timaeus.jpg"
-description: "The Simplified Timaeus by Plato"
-linkb: "/research/socrates/timaeus/chapter-05b"
-linkbtext: "Chapter 5b"
-linkf: "/research/socrates/timaeus/chapter-05d"
-linkftext: "Chapter 5d"
+description: "Color is the fourth class of sensible things, having many intricate varieties"
 ---
 
 

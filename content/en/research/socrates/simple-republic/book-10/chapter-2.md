@@ -1,13 +1,9 @@
 ---
 title: "The Immortality of the Soul"
-heading: Chapter 3 Book 10 of The Republic by Plato Simplified
-date: 2022-01-31
+heading: Chapter 3 of Book 10
+date: 2020-09-28
 description: "The soul is immortal. The number of souls in existence do not increase nor decrease. The reward of justice is natural and everlasting happiness"
 image: "/covers/republic.jpg"
-linkb: "/research/socrates/simple-republic/book-10/chapter-2"
-linkbtext: "Chapter 2"
-linkf: "/research/socrates/simple-republic/book-10/chapter-4"
-linkftext: "Chapter 4"
 icon: "/icons/soc.png"
 ---
 

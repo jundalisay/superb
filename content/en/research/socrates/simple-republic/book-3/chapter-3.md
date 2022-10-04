@@ -1,17 +1,12 @@
-+++
-title= "Proper Food and Medicine"
-# heading= "The Simple Republic by Plato Book 3 Chapter 3"
-date= 2015-09-27
-image= "/covers/republic.jpg"
-description= "The state should focus on disease prevention by unhealthy food and by promoting work and activity"
-linkf= "/research/socrates/simple-republic/book-3/chapter-4/"
-linkftext= "Chapter 4"
-linkb= "/research/socrates/simple-republic/book-3/chapter-2/"
-linkbtext= "Chapter 2"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "Proper Food and Medicine"
+heading: Chapter 3 of Book 3
+date: 2020-09-26
+description: "The state should focus on disease prevention by unhealthy food and by promoting work and activity"
+image: "/covers/republic.jpg"
+icon: "/icons/soc.png"
+---
+
 
 
 ## Food and Medicine are Connected

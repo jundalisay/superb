@@ -1,15 +1,11 @@
 ---
 title: "Kundalini"
 heading: "There are 3 billion yous"
-date: "2020-01-01"
+date: 2022-01-06
 image: "/photos/social/monkey.jpg"
-description: "David Hume's Idea of the Self explains why there are 3 billion yous"
-linkb: /medical/physical/principles/5-paradigms
-linkbtext: "5 Paradigms"
-linkf: /medical/physical/solutions/how-to-stop-covid
-linkftext: "How to stop Covid"
-author: "Juan"
-icon: /icons/spmed.png
+description: "The bonds of life which unite the soul with the body are made fast in the marrow. They are the root and foundation of the human race"
+author: Timaeus
+icon: /icons/soc.png
 ---
 
 
@@ -19,7 +15,7 @@ The bones and flesh are made in the following phases.
 
 1. The generation of the marrow
 
-The bonds of life which unite the soul with the body are made fast in the marrow. They are the root and foundation of the human race. 
+The bonds of life which unite the soul with the body are made fast in the marrow. They are the root and foundation of the human race.
 
 The marrow itself is created out of other materials.
 
@@ -80,7 +76,9 @@ More than any other part the framework of the head would have had them, if they 
 
 But our creators, considering whether they should make a longer-lived race which was worse, or a shorter-lived race which was better, came to the conclusion that every one ought to prefer a shorter span of life, which was better, to a longer one, which was worse; and therefore they covered the head with thin bone, but not with flesh and sinews, since it had no joints; and thus the head was added, having more wisdom and sensation than the rest of the body, but also being in every man far weaker. 
 
-For these reasons and after this manner God placed the sinews at the extremity of the head, in a circle round the neck, and glued them together by the principle of likeness and fastened the extremities of the jawbones to them below the face, and the other sinews he dispersed throughout the body, fastening limb to limb. The framers of us framed the mouth, as now arranged, having teeth and tongue and lips, with a view to the necessary and the good contriving the way in for necessary purposes, the way out for the best purposes; for that is necessary which enters in and gives food to the body; but the river of speech, which flows out of a man and ministers to the intelligence, is the fairest and noblest of all streams. 
+This is why God placed the sinews at the extremity of the head, in a circle round the neck, and glued them together by the principle of likeness. He fastened the extremities of the jawbones to them below the face, and the other sinews he dispersed throughout the body, fastening limb to limb. 
+
+The framers of us framed the mouth, as now arranged, having teeth and tongue and lips, with a view to the necessary and the good contriving the way in for necessary purposes, the way out for the best purposes; for that is necessary which enters in and gives food to the body; but the river of speech, which flows out of a man and ministers to the intelligence, is the fairest and noblest of all streams. 
 
 Still, the head could neither be left a bare frame of bones, on account of the extremes of heat and cold in the different seasons, nor yet be allowed to be wholly covered, and so become dull and senseless by reason of an overgrowth of flesh. The fleshy nature was not therefore wholly dried up, but a large sort of peel was parted off and remained over, which is now called the skin. 
 

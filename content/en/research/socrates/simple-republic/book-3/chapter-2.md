@@ -1,31 +1,24 @@
-+++
-title= "Proper Music"
-# heading= "The Simple Republic by Plato Book 3 Chapter 2"
-# date= 2015-09-09
-date= 2015-09-28
-image= "/covers/republic.jpg"
-# image= "https://sorasystem.sirv.com/photos/singer.jpg"
-description= "The State should promote proper Music, not sad nor fearful"
-linkf= "/research/socrates/simple-republic/book-3/chapter-3/"
-linkftext= "Chapter 3"
-linkb= "/research/socrates/simple-republic/book-3/chapter-1/"
-linkbtext= "Chapter 1"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "Proper Music"
+heading: Chapter 2 of Book 3
+date: 2020-09-28
+description: "The State should promote proper Music, not sad nor fearful"
+image: "/covers/republic.jpg"
+icon: "/icons/soc.png"
+---
+
 
 ##  Sad Music Should not be Promoted by the State
 
 {{< l a="Socrates" >}}
-A song or ode has three parts:
-<ol>
-- the words,
-- the melody, and
+A song or ode has 3 parts:
+- the words
+- the melody
 - the rhythm
-</ol>
 
-There is no difference between words set to music and those not set to music. Both will conform to the same laws. The melody and rhythm will depend on the words. We had no need of lamentation. The harmonies which express sorrow are the mixed or tenor Lydian, and the full-toned or bass Lydian, and those similar. These must be banished. Even to women who have a character to maintain they are of no use, and much less to men.
+There is no difference between words set to music and those not set to music. Both will conform to the same laws. The melody and rhythm will depend on the words. 
+
+We had no need of lamentation. The harmonies which express sorrow are the mixed or tenor Lydian, and the full-toned or bass Lydian, and those similar. These must be banished. Even to women who have a character to maintain they are of no use, and much less to men.
 {{< /l >}}
 
 

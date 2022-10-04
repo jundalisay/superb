@@ -1,14 +1,10 @@
 ---
 title: "Well-ordered States with Self-Restraint"
-heading: "Chapter 1b Book 4 The Republic by Plato Simplified"
-date: 2015-09-25
+heading: "Chapter 1b Book 4"
+date: 2015-09-28
 image: "/covers/republic.jpg"
 description: "Socrates emphasized self-restraint in well-ordered States"
 author: "Socrates"
-linkb: "/research/socrates/simple-republic/book-4/chapter-1/"
-linkbtext: "Chapter 1a"
-linkf: "/research/socrates/simple-republic/book-4/chapter-2/"
-linkftext: "Chapter 2"
 icon: "/icons/soc.png"
 ---
 

@@ -1,17 +1,12 @@
-+++
-title= "Justice is Not the Interest of the Stronger"
-heading= "Book 1 Chapter 2"
-date= "2015-09-29"
-image= "/covers/republic.jpg"
-description= "Justice is not in the dominance of the strong over the weak. Justice is not based on the strength of leadership since a leader is supposed to serve his subjects."
-linkf= "/research/socrates/simple-republic/book-1/chapter-3/"
-linkftext= "Chapter 3"
-linkb= "/research/socrates/simple-republic/book-1/chapter-1/"
-linkbtext= "Chapter 1"
-icon = "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "Justice is Not the Interest of the Stronger"
+date: 2015-09-28
+image: "/covers/republic.jpg"
+description: "Justice is not in the dominance of the strong over the weak. Justice is not based on the strength of leadership since a leader is supposed to serve his subjects"
+icon: "/icons/soc.png"
+---
+
+
 
 {{< l a="Socrates" >}}
 I think that Periander, Perdiccas, Xerxes or Ismenias the Theban, or some other rich, proud, and mighty man, was the first to say that justice is "doing good to your friends and harm to your enemies." But if this definition of justice also breaks down, what other can be offered?

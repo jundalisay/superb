@@ -1,17 +1,13 @@
-+++
-title= "Moral Literature"
-# heading= "The Simple Republic by Plato Book 3 Chapter 1"
-date= "2015-09-30"
-image= "/covers/republic.jpg"
-description= "The guardians should be given proper education in philosophy and gymnastic. The state should censor immoral and untruthful literature and art, and should base their education on God. They should never create true lies"
-linkf= "/research/socrates/simple-republic/book-3/chapter-2/"
-linkftext= "Chapter 2"
-linkb= "/research/socrates/simple-republic/book-2/chapter-3/"
-linkbtext= "Chapter 3"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "Moral Literature"
+heading: Chapter 1 of Book 3
+date: 2020-09-30
+description: "The guardians should be given proper education in philosophy and gymnastic. The state should censor immoral and untruthful literature and art, and should base their education on God. They should never create true lies"
+image: "/covers/republic.jpg"
+icon: "/icons/soc.png"
+---
+
+
 
 ## Fear-based ideas Such as Hell Should Be Removed
 

@@ -1,7 +1,7 @@
 ---
 title: "The Heart, Lungs, and Liver"
 heading: "Chapter 6"
-date: 2022-01-28
+date: 2022-01-08
 image: "/covers/timaeus.jpg"
 description: "The heart is the knot of the veins and the fountain of the blood which races through all the limbs. This was the guard."
 author: Timaeus

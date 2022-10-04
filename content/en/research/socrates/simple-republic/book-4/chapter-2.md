@@ -1,14 +1,10 @@
 ---
 title: "Justice is Svadharma"
-heading: "Chapter 2 Book 4 The Republic by Plato Simplified"
-date: 2015-09-25
+heading: "Chapter 2 Book 4"
+date: 2015-09-26
 image: "/covers/republic.jpg"
 description: "The four virtues as wisdom, courage, temperance, and justice. Justice is dharma, while injustice is adharma"
 author: "Socrates"
-linkb: "/research/socrates/simple-republic/book-4/chapter-1b/"
-linkbtext: "Chapter 1b"
-linkf: "/research/socrates/simple-republic/book-4/chapter-3/"
-linkftext: "Chapter 3"
 icon: "/icons/soc.png"
 ---
 

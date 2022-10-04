@@ -1,18 +1,6 @@
-+++
-title= "The Natural Order of Society"
-heading= "The Simple Republic by Plato Book 3 Chapter 4"
-# date= 2015-09-09
-date= 2015-09-26
-image= "/covers/republic.jpg"
-description= "The guardians should be tested regularly for their position"
-linkb= "/research/socrates/simple-republic/book-3/chapter-3/"
-linkbtext= "Chapter 3"
-linkf= "/research/socrates/simple-republic/book-3/chapter-4b/"
-linkftext= "Chapter 4b"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+
+
+
 
 ## Lawmakers and Lawyers Must Be Virtuous
 

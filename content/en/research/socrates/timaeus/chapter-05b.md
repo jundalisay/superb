@@ -1,13 +1,9 @@
 ---
 title: "The 5 Elements"
 heading: "Timaeus by Plato Simplified"
-date: 2021-07-07
+date: 2022-01-16
 image: /covers/timaeus.jpg
 description: "Timaeus explains the 5 elements"
-linkb: "/research/socrates/timaeus/chapter-05"
-linkbtext: "Chapter 5"
-linkf: "/research/socrates/timaeus/chapter-05c"
-linkftext: "Chapter 5c"
 author: Timaeus
 icon: /icons/soc.png
 ---

@@ -1,15 +1,13 @@
-+++
-title= "The Tyrannical Man"
-heading= "The Simple Republic by Plato Book 9 Chapter 1"
-date= 2015-09-09
-image= "/covers/republic.jpg"
-description= "The Tyrannical Man emerges from the Democratic man"
-linkf= "/research/socrates/simple-republic/book-9/chapter-2/"
-linkftext= "Chapter 2"
-linkb= "/research/socrates/simple-republic/book-8/chapter-4/"
-linkbtext= "Chapter 4"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Tyrannical Man"
+heading: "Chapter 1 of Book 9"
+date: 2015-09-30
+image: "/covers/republic.jpg"
+description: "The Tyrannical Man emerges from the Democratic man"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 {{< l a="Socrates" >}}
 Last of all comes the tyrannical man. 
@@ -102,7 +100,9 @@ If there is no war, they stay at home and do many little pieces of mischief in t
 When they grow numerous and become conscious of their strength, assisted by the infatuation of the people, they choose the most tyrannical among themselves and create their own tyrant. If the people resist him, he beats them. He begins by beating his own father and mother.
 
 He introduces his young retainers as the rulers and masters of his fatherland or motherland. This is the goal of his passions and desires.
+
 When such men are only private individuals and before they get power, this is their character. They associate entirely with their own flatterers or ready tools.
+
 If they want anything from anybody, they bow down before them. But when they have gained what they need, they know them no more. They are always either the masters or servants and never the friends of anybody. The tyrant never tastes of true freedom or friendship.
 {{< /l >}}
 

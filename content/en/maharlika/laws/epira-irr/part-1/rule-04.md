@@ -237,15 +237,13 @@ Page 14 of 100(lll)
 "Power Commission” refers to the Joint Congressional Power
 Commission created pursuant to Section 62 of the Act;
 (mmm)
-“Power Development Program” or “PDP” refers to the
-indicative plan for managing electricity demand through energy-
+“Power Development Program” or “PDP” refers to the indicative plan for managing electricity demand through energy-
 efficient programs and for the upgrading, expansion, rehabilitation,
 repair and maintenance of power generation and transmission
 facilities, formulated and updated yearly by the DOE in coordination
 with the generation, transmission and Distribution Utility companies;
 (nnn) “Power Sector Assets and Liabilities Management Corporation” or
-“PSALM Corp.” or “PSALM” refers to the corporation created pursuant
-to Section 49 of the Act;
+“PSALM Corp.” or “PSALM” refers to the corporation created pursuant to Section 49 of the Act;
 (ooo) “Privatization” refers to the sale, disposition, change and transfer of
 entire ownership and control of all assets and IPP contracts from the
 Government or a government corporation to a private Person or entity;
@@ -393,18 +391,12 @@ and other purposes pursuant to Section 34 of the Act;
 Area of a Distribution Utility where immediate extension of
 distribution line is not feasible;
 (tttt) “Wholesale Electricity Spot Market” or “WESM” refers to the
-Wholesale Electricity Spot Market to be created in accordance with
-the Act;
-(uuuu)
-“WESM Participants” refer to all Generation Companies,
+Wholesale Electricity Spot Market to be created in accordance with the Act
+(uuuu) “WESM Participants” refer to all Generation Companies,
 Distribution Utilities, Suppliers, Aggregators, End-users, the
 TRANSCO or its Buyer or Concessionaire, IPP Administrators, and
 other entities authorized by the ERC to participate in the WESM in
-accordance with the Act; and
-(vvvv) “WESM Rules” refer to the detailed rules
-that
-govern
-the 
-administration and operation of the WESM.
+accordance with the Act
+(vvvv) “WESM Rules” refer to the detailed rules that govern the  administration and operation of the WESM.
 
 

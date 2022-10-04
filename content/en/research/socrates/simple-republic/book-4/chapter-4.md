@@ -1,14 +1,10 @@
 ---
 title: "The Nature of Science "
-heading: "Chapter 4 Book 4 of The Republic by Plato Simplified"
+heading: "Chapter 4 of Book 4"
 date: 2015-09-25
 image: "/covers/republic.jpg"
 description: "The word 'science' is no longer to be used absolutely. Instead, it has a qualified object"
 author: "Socrates"
-linkb: "/research/socrates/simple-republic/book-4/chapter-3/"
-linkbtext: "Chapter 3"
-linkf: "/research/socrates/simple-republic/book-5/chapter-1/"
-linkftext: "Chapter 1"
 icon: "/icons/soc.png"
 ---
 

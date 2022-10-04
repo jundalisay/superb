@@ -1,16 +1,13 @@
-+++
-title= "The Rules for Guardians"
-date= 2015-09-25
-image= "/covers/republic.jpg"
-description= "The guardians should have common children, and not have private property nor riches"
-linkf= "/research/socrates/simple-republic/book-4/chapter-1/"
-linkftext= "Chapter 1"
-linkb= "/research/socrates/simple-republic/book-3/chapter-4/"
-linkbtext= "Chapter 5"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "The Rules for Guardians"
+heading: Chapter 4b of Book 3
+date: 2020-09-20
+description: "The guardians should have common children, and not have private property nor riches"
+image: "/covers/republic.jpg"
+icon: "/icons/soc.png"
+---
+
+
 
 {{< r a="Adeimantus" >}}
 A person might say:

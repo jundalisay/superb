@@ -1,13 +1,9 @@
 ---
+heading: Chapter 4 of Book 10
 title: "Socrates' Story on Reincarnation"
-heading: Chapter 4 Book 10 of The Republic by Plato Simplified
-date: 2022-01-31
+date: 2020-09-24
 description: "The soul is affected by cause and effect through the chakras. It can reincarnate as any entity, even as an animal"
 image: "/covers/republic.jpg"
-linkb: "/research/socrates/simple-republic/book-10/chapter-3/"
-linkbtext: "Chapter 3"
-linkf: "/research/socrates/simple-republic/book-10/chapter-5"
-linkftext: "Chapter 5"
 icon: "/icons/soc.png"
 ---
 

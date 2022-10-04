@@ -1,14 +1,14 @@
-+++
-title= "Knowledge Versus Opinion"
-date= 2015-09-09
-image= "/covers/republic.jpg"
-description= "Knowledge is the total perception and understanding of a thing, but Opinion is a single perception or view of it."
-linkf= "/research/socrates/simple-republic/book-6/chapter-1/"
-linkftext= "Chapter 1"
-linkb= "/research/socrates/simple-republic/book-5/chapter-2/"
-linkbtext= "Chapter 2"
-icon= "/icons/soc.png"
-+++
+---
+title: "Knowledge Versus Opinion"
+heading: "Chapter 3 of Book 5"
+date: 2015-09-26
+image: "/covers/republic.jpg"
+description: "Knowledge is the total perception and understanding of a thing, but Opinion is a single perception or view of it"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
+
 
 {{< l a="Socrates" >}}
 Then let us enact this law that our guardians are neither to devastate the lands of Hellenes nor to burn their houses.

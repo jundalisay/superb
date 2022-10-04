@@ -1,23 +1,20 @@
 ---
 title: "Justice is Svadharma"
-heading: "Chapter 2 Book 4 The Republic by Plato Simplified"
+heading: "Chapter 2 Book 4"
 date: 2015-09-25
 image: "/covers/republic.jpg"
 description: "The four virtues as wisdom, courage, temperance, and justice. Justice is dharma, while injustice is adharma"
 author: "Socrates"
-linkb: "/research/socrates/simple-republic/book-4/chapter-1/"
-linkbtext: "Chapter 1"
-linkf: "/research/socrates/simple-republic/book-5/chapter-1/"
-linkftext: "Chapter 1"
 icon: "/icons/soc.png"
 ---
+
 
 
 {{< l a="Socrates" >}}
 The last virtue is justice which we now hunt for. The hunting grounds are dark and perplexing. I perceived something so I tracked it. At the beginning of our enquiry, there was justice tumbling about at our feet yet we never saw her. We are like people who go about looking for what was already in their hands.
 <!-- We have been talking of justice and have failed to recognise her. -->
 
-<b>The original principle at the foundation of the State is that one man should practise one thing only whatever his nature was best adapted to.</b> [svadharma]
+The original principle at the foundation of the State is that one man should practise one thing only whatever his nature was best adapted to. [svadharma]
 
 Justice is this principle or a part of it. Justice was doing one's own business, and not being a busybody. So doing one's own business in a certain way is justice because this is the only virtue which remains when temperance, courage, and wisdom are abstracted. This is the ultimate cause and condition of the existence of all those other virtues. This is also their preservative.
 {{< /l >}}

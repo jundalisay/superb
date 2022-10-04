@@ -1,22 +1,32 @@
-+++
-title= "Essential Subjects: Math and Geometry"
-date= 2015-09-11
-image= "/covers/republic.jpg"
-description= "Inviting objects draw curiosity and intelligence. Uninviting objects do not (Chapter 2). The essential subjects are math, geometry, physics, astronomy, and dialectics."
-linkf= "/research/socrates/simple-republic/book-7/chapter-3/"
-linkftext= "Chapter 3"
-linkb= "/research/socrates/simple-republic/book-7/chapter-1/"
-linkbtext= "Chapter 1"
-icon= "/icons/soc.png"
-+++
+---
+title: "Essential Subjects: Math and Geometry"
+heading: "Chapter 2 of Book 7"
+date: 2015-09-28
+image: "/covers/republic.jpg"
+description: "Inviting objects draw curiosity and intelligence. Uninviting objects do not (Chapter 2). The essential subjects are math, geometry, physics, astronomy, and dialectics"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 
 {{< l a="Socrates" >}}
 Aside from Music and Gymnastic, Math, Geometry, Astronomy, and Dialectic Must be Taught to Guardians How will such guardians be produced?
 
-The process is not the turning over of an oyster-shell. This is an allusion to a game where two parties fled or pursued depending on whether an oyster-shell thrown in the air fell with the dark or light side. The process is to turn a soul from twilight into the true day of being. What kind of knowledge can cause such a change and can draw the soul from becoming to being?
+The process is not the turning over of an oyster-shell. This is an allusion to a game where two parties fled or pursued depending on whether an oyster-shell thrown in the air fell with the dark or light side. 
 
-Our young men are to be warrior athletes. This new kind of knowledge must be useful in war. There were two parts in our former scheme of education. Gymnastics presided over the growth and decay of the body. It deals with birth and death. That is not the knowledge that we are seeking to discover. But what about music, which also entered to a certain extent into our former scheme?
+The process is to turn a soul from twilight into the true day of being. 
+{{< /l >}}
+
+
+{{< l a="Socrates" >}}
+What kind of knowledge can cause such a change and can draw the soul from becoming to being?
+
+Our young men are to be warrior athletes. This new kind of knowledge must be useful in war. There were 2 parts in our former scheme of education. 
+
+Gymnastics presided over the growth and decay of the body. It deals with birth and death. That is not the knowledge that we are seeking to discover. 
+
+But what about music, which also entered to a certain extent into our former scheme?
 {{< /l >}}
 
 
@@ -27,7 +37,6 @@ Music was the counterpart of gymnastics. It trained the guardians:
 - by harmony making them harmonious
 - by rhythm rhythmical
 -  but not giving them science.
-
 
 The words, whether fabulous or possibly true, had kindred elements of rhythm and harmony in them. But in music, there was nothing which tended to that good which you are now seeking. 
 {{< /r >}}

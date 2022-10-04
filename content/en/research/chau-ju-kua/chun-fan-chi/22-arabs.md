@@ -54,18 +54,8 @@ His other officers are called Tai-wei.
 
 
 
-(Note:
-moon he puts on an
-full
- (^|j
-15
-falling to
-:f^), is an important centre for the trade of
-«The king wears a turban of
-^.
-snow
-much
-
+<!-- 
+ -->
 
 The streets of the capital are over 50 feet wide. These have sidewalks paved with green and black flagstones of surpassing beauty. These are for the convenience of the pedestrians' business.
 - In the middle is a roadway 20 feet wide for camels, horses, and oxen carrying goods about. 

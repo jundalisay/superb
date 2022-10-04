@@ -1,16 +1,14 @@
-+++
-title= "Essential Subjects= Astronomy"
-date= 2015-09-10
-image= "/covers/republic.jpg"
-description= "The study of physics and astronomy can augment the study of geometry by finding patterns in the heavens [This was later proven by Isaac Newton who invented Calculus and Physics from the observation of heavenly bodies]. The movement of heavenly bodies are relative to each other and not exact [This was proven by Einstein's General Relativity]"
-linkf= "/research/socrates/simple-republic/book-7/chapter-4/"
-linkftext= "Chapter 4"
-linkb= "/research/socrates/simple-republic/book-7/chapter-2/"
-linkbtext= "Chapter 2"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "Essential Subjects: Astronomy"
+heading: "Chapter 3 of Book 7"
+date: 2015-09-26
+image: "/covers/republic.jpg"
+description: "The study of physics and astronomy can augment the study of geometry by finding patterns in the heavens [This was later proven by Isaac Newton who invented Calculus and Physics from the observation of heavenly bodies]. The movement of heavenly bodies are relative to each other and not exact [This was proven by Einstein's General Relativity]"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
+
 
 ## The Patterns of Geometry Can Be Seen In Astronomy*
 
@@ -35,7 +33,9 @@ Astronomy is far more precious than 10,000 bodily eyes because truth is seen by 
 {{< /l >}}
 
 {{< r a="Glaucon" >}}
-There are two classes of persons. One class will believe you. Another class will not believe you. They will naturally deem them to be idle tales, for they see no profit from them. Therefore, you must decide which of the two are you proposing to argue with. You will very likely say that your chief aim is your own improvement and not to argue with others. At the same time, you do not bear a grudge on any benefit that others may receive.
+There are two classes of persons. One class will believe you. Another class will not believe you. They will naturally deem them to be idle tales, for they see no profit from them. Therefore, you must decide which of the two are you proposing to argue with.
+
+You will very likely say that your chief aim is your own improvement and not to argue with others. At the same time, you do not bear a grudge on any benefit that others may receive.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
@@ -47,13 +47,17 @@ Little is known about those sciences because:
 - No government patronises them.
   - This leads to a lack of energy in pursuing them, in addition to them being difficult.
 - Students cannot learn them unless they have a director.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 But even if a director could be found, the conceited students would not attend to him.
 But this would not happen if the whole State became the director of these studies and gave honour to them.
 
 Then, disciples would want to come, and there would be continuous and earnest search, and discoveries made.
 The third dimension is disregarded by the world and maimed of their fair proportions.
 Their followers are unable to tell of their usefulness.
+
 However, these studies still force their way by their natural charm.
 If they had the help of the State, they would some day emerge into light.
 {{< /l >}}
@@ -61,6 +65,7 @@ If they had the help of the State, they would some day emerge into light.
 
 {{< r a="Glaucon" >}}
 Yes, there is a remarkable charm in them. But I do not clearly understand the change in the order.
+
 First you began with a geometry of plane surfaces.
 Then you placed astronomy next, and then you made a step backward.
 {{< /r >}}
@@ -69,7 +74,7 @@ Then you placed astronomy next, and then you made a step backward.
 {{< l a="Socrates" >}}
 Three-dimensional solid geometry should have naturally followed two-dimensional geometry.
 
-But three-dimensional solid geometry is in such a ludicrous state.
+But 3-dimensional solid geometry is in such a ludicrous state.
 It made me pass over it, and go on to astronomy as the motion of solids.
 If encouraged by the State, the science of solid geometry [physics] would exist and be the third science that we must study.
 Astronomy will be the fourth.

@@ -1,15 +1,13 @@
-+++
-title= "The Shadow of Shallow Pleasures"
-heading= "The Simple Republic by Plato Book 9 Chapter 3"
-date= 2015-09-09
-image= "/covers/republic.jpg"
-description= "Shallow Pleasures are only a shadow compared to the real pleasures of philosophy and realization"
-linkf= "/research/socrates/simple-republic/book-10/chapter-1/"
-linkftext= "Book 10"
-linkb= "/research/socrates/simple-republic/book-9/chapter-2/"
-linkbtext= "Chapter 2"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Shadow of Shallow Pleasures"
+heading: "Chapter 3 of Book 9"
+date: 2015-09-26
+image: "/covers/republic.jpg"
+description: "Shallow Pleasures are only a shadow compared to the real pleasures of philosophy and realization"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
 
 
 {{< l a="Socrates" >}}
@@ -17,7 +15,9 @@ Now comes the third trial. A sage* whispers to me that the pleasure of the wise 
 
 Pleasure is opposed to pain. There is a neutral state which is neither pleasure nor pain. It is intermediate, and a rest of the soul between either. Sick people say that nothing is more pleasant than health. But then only knew this when they were ill.
 
-There are many other cases of suffering where the mere end of pain is extolled as the greatest pleasure. Likewise, when pleasure ceases, then that cessation will be painful. The intermediate state of rest can therefore be pleasure or pain. But that which is neither cannot become both. Both pleasure and pain are motions of the soul. But that which is neither is really rest and not motion, as a mean between them. How then can the absence of pain be pleasure, or the absence of pleasure be pain? 
+There are many other cases of suffering where the mere end of pain is extolled as the greatest pleasure. Likewise, when pleasure ceases, then that cessation will be painful. The intermediate state of rest can therefore be pleasure or pain. But that which is neither cannot become both. 
+
+Both pleasure and pain are motions of the soul. But that which is neither is really rest and not motion, as a mean between them. How then can the absence of pain be pleasure, or the absence of pleasure be pain? 
 {{< /l >}}
 
 
@@ -35,7 +35,7 @@ Pure pleasure is the end of pain. Pure pain is the end of pleasure.
 
 Our violent bodily pleasures are generally of this sort—they are reliefs of pain. The anticipations of future pleasures and pains are of a like nature.
 
-<b>Nature has an upper, lower, and middle region.</b> 
+**Nature has an upper, lower, and middle region.**
 
 If Person A were to go from the lower to the middle region, he would imagine that he is going up. Person B is in the middle region but has never seen the true upper world. He sees Person A coming and imagines that he has arrived in the upper region. If Person A goes back down again, Person B would imagine that he was descending. All that would arise out of his ignorance of the true upper, middle, and lower regions.
 {{< /l >}}
@@ -47,7 +47,10 @@ Thus, the persons who are inexperienced in the truth have wrong ideas about plea
 Similarly, when they are drawn away from pain to the neutral state, they believe that they have reached satiety and pleasure. They do not know pleasure, and so they err in contrasting pain with the absence of pain. This is like contrasting black with grey instead of white.
 
 Hunger, thirst, and the like, are the poverty of the body. Ignorance and folly are the poverty of the soul. Food and wisdom are the satisfactions of body and soul.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 The truer satisfaction is the one derived from that which has more existence. Which has more pure existence:
 
 - food and drink?, or
@@ -58,7 +61,6 @@ Which has a more pure being:
 
 - that which is concerned with the invariable, immortal, and the true?, or
 - that which is concerned with and found in the variable and mortal, and is itself variable and mortal?
-
 {{< /l >}}
 
 
@@ -70,14 +72,17 @@ Far purer, is the being of that which is concerned with the invariable.
 {{< l a="Socrates" >}}
 The essence of the invariable partake of knowledge in the same degree as of essence and of truth in the same degree. Conversely, that which has less of truth will also have less of essence. 
 
-<b>Generally, those things which are in the service of the body have less of truth and essence than those which are in the service of the soul.</b> The body itself has less of truth and essence than the soul.
-A thing that has more real existence has a deeper and truer existence that something that is less real.
+**Generally, those things which are in the service of the body have less of truth and essence than those which are in the service of the soul.**
 
+The body itself has less of truth and essence than the soul.
+A thing that has more real existence has a deeper and truer existence that something that is less real.
 
 - A pleasure that is deeper and according to its nature is really more pleasurable.
 - A pleasure which is shallow will give less satisfaction and will give less real pleasure.
- 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Those who do not know wisdom and virtue are always busy with gluttony and sensuality. 
 
 - They go down and up again up to the middle point.
@@ -115,7 +120,6 @@ Then the lovers of money and honour will also have the truest pleasures as long 
 
 - they seek their pleasures guided by reason and knowledge, and
 - they pursue and win the pleasures which wisdom shows them.
-
 {{< /l >}}
 
 
@@ -139,7 +143,9 @@ The tyrant will be wedded to an image of pleasure which is thrice removed as to 
 The oligarch is third from the royal, since we count as one royal and aristocratical.
 
 Then the tyrant is removed from true pleasure by the space of 9 which is 3 x 3.
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 The shadow then of tyrannical pleasure determined by the number of length will be a plane figure.
 If you raise the power and make the plane a solid, it is easy to see how vast is the interval by which the tyrant is parted from the king.
 
@@ -158,11 +164,10 @@ It is a number which nearly concerns human life, if human beings are concerned w
 We have determined the power and quality of justice and injustice. Let us now make an image of the soul like the composite creations of ancient mythology, such as the Chimera, Scylla, or Cerberus.
 
 Many models of the soul have two or more different natures combining into one. Our model will be of three creatures:
-<ol>
-- A many-headed monster with a ring of heads of beasts, tame and wild, able to generate and metamorphose at will -- this represeents intemperance
-- A lion which is smaller than the monster -- this represents pride and bad temper
-- a man which is smaller than the lion.
-</ol>  
+
+1. A many-headed monster with a ring of heads of beasts, tame and wild, able to generate and metamorphose at will -- this represeents intemperance
+2. A lion which is smaller than the monster -- this represents pride and bad temper
+3. A man which is smaller than the lion.
 {{< /l >}}
 
 

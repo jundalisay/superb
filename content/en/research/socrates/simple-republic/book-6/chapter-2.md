@@ -1,20 +1,19 @@
-+++
-title= "Philosophical Education"
-heading= "Book 6 Chapter 2"
-date= 2015-09-09
-image= "/covers/republic.jpg"
-description= "The perfect State would be eyed with jealousy and was difficult to attain. The rulers must be investigated from the very beginning"
-linkf= "/research/socrates/simple-republic/book-6/chapter-3/"
-linkftext= "Chapter 3"
-linkb= "/research/socrates/simple-republic/book-6/chapter-1/"
-linkbtext= "Chapter 1"
-icon= "/icons/soc.png"
-+++
+---
+title: "Philosophical Education"
+heading: "Chapter 2 of Book 6"
+date: 2015-09-28
+image: "/covers/republic.jpg"
+description: "The perfect State would be eyed with jealousy and was difficult to attain. The rulers must be investigated from the very beginning"
+author: "Socrates"
+icon: "/icons/soc.png"
+---
+
+
 
 ## The Characteristics of Guardians
 
 {{< r a="Adeimantus" >}}
-Adeimantus= Which of the current governments are adapted to philosophy?
+Which of the current governments are adapted to philosophy?
 {{< /r >}}
 
 {{< l a="Socrates" >}}

@@ -94,7 +94,7 @@ elsif x = '4' then decision = 'D'
 elsif..
 ```
 
-# 
+
 
 Here, you compare an action `x` with whatever is exactly listed beforehand and then get a corresponding punishment or reward. This system makes rules as they go, adding them to existing ones, and is based on effect. 
 
@@ -112,7 +112,6 @@ else if x is between 10 to 20 and z is between 1 to 10 then run function B(x)
 else if..
 ```
 
-#
 
 Here, the rules are flexible, accepting a wider range of situations, each processed differently, before coming to a judgement. This system relies on having the whole purpose thought of beforehand and is based on cause. 
 

@@ -476,7 +476,7 @@ of
 -->
 
 
-3. CHAMPA (Pin-tung-lung)
+## 3. CHAMPA (Pin-tung-lung)
 
 The ruler of Champa wears the same kind of head-dress and clothing as that of South Vietnam. 
 

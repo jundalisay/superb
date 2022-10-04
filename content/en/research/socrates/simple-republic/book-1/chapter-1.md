@@ -1,16 +1,11 @@
-+++
-title= "What is Justice?"
-date= 2015-09-30
-image= "/covers/republic.jpg"
-description= "Justice is not merely doing good to our friends and doing harm to our enemies. Nor is it just the repayment of debts."
-linkf= "/research/socrates/simple-republic/book-1/chapter-2/"
-linkftext= "Chapter 2"
-linkb= "/research/socrates/simple-republic"
-linkbtext= "Republic"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying the ebook version
-+++
+---
+title: "What is Justice?"
+date: 2015-09-30
+image: "/covers/republic.jpg"
+description: "Justice is not merely doing good to our friends and doing harm to our enemies. Nor is it just the repayment of debts."
+icon: "/icons/soc.png"
+---
+
 
 <!-- ### Justice is Not Merely The Payment of Debts -->
 
