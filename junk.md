@@ -11,6 +11,20 @@ If human perfection is a 100% score The educated humans think that humanity is a
 
 In reality, humans are only at 35%. The re-discovery and initial use of the aether will be the marker for the 50% mark. This is similar to the discovery of electromagnetism as electricity being the entry to the 30% score. The discovery of and manipulation of spacetime, as action at a distance and the teleportation and levitation of masses will be the 40% mark. The total mastery of all of these would be 100% mark. At that point, humans will transition into another species that is no longer purely material in nature, but one that can switch from matter to light and light to matter. This latter is similar to human street performers who act as statues (material non-living objects) at public areas. We can act like rocks and stay immobile all day -- but it doesn't make sense. Similarly, light-beings can downgrade themselves into physical beings, but it won't make sense. Accordingly, it rarely happens and such occurences really expose problems with such light-beings just as we would call a man who acted like a statue as weird. 
 
+pepsi cash dec 2021 pasig  
+alaksa milk 
+urc urc
+
+chlorine is bad for plants. 
+
+
+zero water
+low sodium
+low chemicals
+regenerative fields
+net zero spply chain
+rainwater based  
+compostable bag
 
 
 1. attitude

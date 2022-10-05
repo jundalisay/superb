@@ -7,10 +7,6 @@ date: 2022-01-06
 type: "featured"
 image: "/photos/grains.jpg"
 heading: "How Economics Leads to Crises"
-linkb: "/social/economics/fallacies/"
-linkbtext: "Fallacies"
-linkf: "/social/economics/fallacies/equilibrium-fallacy-2"
-linkftext: "equilibrium-fallacy-2"
 author: Juan
 icon: /icons/pantry.png
 aliases:

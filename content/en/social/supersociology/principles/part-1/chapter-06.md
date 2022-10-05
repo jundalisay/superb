@@ -1,7 +1,9 @@
 ---
 title: "What is Social Topographic Behavior?"
-heading: "The general behavior of a people that arises from the topography of their homeland"
-date: 2021-08-21
+heading: "Chapter 6"
+# heading: "The general behavior of a people that arises from the topography of their homeland"
+# date: 2021-08-21
+date: 2022-01-08
 image: "/photos/objects/egypt.jpg"
 description: "The general behavior of a people that arises from the topography of their homeland"
 author: Juan
