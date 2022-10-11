@@ -4,7 +4,7 @@ description: "The ruler has emblems and arrangements that are the necessary resu
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 34"
-date: 2020-11-10
+date: 2020-11-16
 ---
 
 

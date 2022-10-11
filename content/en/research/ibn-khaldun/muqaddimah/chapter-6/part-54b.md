@@ -1,68 +1,60 @@
-+++
-title= "What is Poetry?"
-description= "The poet should have the rhyme in mind, when the verse is first given shape and form"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-date= 2021-12-27
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-53"
-linkbtext= "Part 53"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-55"
-linkftext= "Part 55"
-heading= "Part 54b"
-+++
+---
+title: "What is Poetry?"
+description: "The poet should have the rhyme in mind, when the verse is first given shape and form"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 54b"
+date: 2021-10-10
+---
+
+
 
 <!-- Now that the meaning of "method" is clear, let us give a definition or
 description of poetry that will make its real meaning clear to us. 1464 This is a
 difficult task, for, as far as we can see, there is no such definition by any older
 (scholar).  -->
 
-The prosodists define poetry as a metrical rhymed speech. This is a wrong defintion. Prosody considers poetry only 1466 under the aspect of the agreement of the
-verses (of a poem), with respect to the number of successive syllables with and without vowels, 1467 as well as with respect to the similarity of the last foot of thefirst hemistich of the verses of a poem to the last foot of the second hemistich. 
+The prosodists define poetry as a metrical rhymed speech. This is a wrong defintion. Prosody considers poetry only 1466 under the aspect of the agreement of the verses (of a poem), with respect to the number of successive syllables with and without vowels, 1467 as well as with respect to the similarity of the last foot of thefirst hemistich of the verses of a poem to the last foot of the second hemistich. 
 
 This concerns meter alone and has nothing to do with the words and their meaning. (The definition of the prosodists mentioned) can serve as a definition (of poetry) for them. 
 
 But as we look at poetry, as including vowel endings, eloquence, meter, and special molds (of expression peculiar to poetry), there can be no doubt that the definition of (the prosodists) is not a valid (definition of poetry) for us. We must have a definition that will give us the real meaning of poetry in our sense.
-We say= Poetry is eloquent speech built upon metaphoric usage and descriptions; divided into cola agreeing in meter and rhyme letter, each colon being
-independent in purpose and meaning from what comes before and after it; and using
+
+We say: Poetry is eloquent speech built upon metaphoric usage and descriptions; divided into cola agreeing in meter and rhyme letter, each colon being independent in purpose and meaning from what comes before and after it; and using
 the methods of the Arabs peculiar to it.
 
-The phrase "eloquent speech" in our definition takes the place of genus. (The phrase) "built upon metaphoric usage and descriptions" differentiates (poetry) from
-(eloquent speech), which does not have that (and which must be differentiated)
+The phrase "eloquent speech" in our definition takes the place of genus. (The phrase) "built upon metaphoric usage and descriptions" differentiates (poetry) from (eloquent speech), which does not have that (and which must be differentiated)
 because it is mostly not poetry. 
 
-The phrase "divided into cola agreeing in meter and rhyme letter" differentiates (poetry) from the (kind of) prose speech that nobody
-would consider poetry. The phrase "each colon being independent in purpose and
-meaning from what comes before and after it" explains the real character of
-(poetry), because the verses of poetry can be only this way. This does not
-differentiate (poetry) from other things. 1468 
+The phrase "divided into cola agreeing in meter and rhyme letter" differentiates (poetry) from the (kind of) prose speech that nobody would consider poetry. The phrase "each colon being independent in purpose and meaning from what comes before and after it" explains the real character of (poetry), because the verses of poetry can be only this way. This does not
+differentiate (poetry) from other things. <!-- 1468 --> 
 
 The phrase "using the methods peculiar to it" differentiates (poetry) from (speech) that does not use the well-known
 methods of poetry.1469 Without them, it would not be poetry but merely poetical
-speech, because poetry has special methods which prose does not have. Likewise,
-prose has methods which do not apply to poetry. Rhymed speech that does not use
-those methods is not poetry. 
+speech, because poetry has special methods which prose does not have. 
+
+Likewise, prose has methods which do not apply to poetry. Rhymed speech that does not use those methods is not poetry. 
 
 It was in this sense that most of the professors of literature whom we have met were of the opinion that the rhymes of al-Mutanabbi' and al-Ma'arri are by no means poetry, because these (two men) did not follow Arab
 poetical methods. 1470
 
 The phrase in (our) definition, "using the methods of the Arabs" differentiates it from the poetry of non-Arab, nations. (This is) for those who are of the opinion that poetry exists both among Arabs and among other (people). 1471 (On
-the other hand,) those who are of the opinion that poetry exists only among the
-Arabs would not need the phrase. They might say instead= "using the methods
-peculiar to it" (omitting the words "of the Arabs").
+the other hand,) those who are of the opinion that poetry exists only among the Arabs would not need the phrase. They might say instead= "using the methods peculiar to it" (omitting the words "of the Arabs").
 
-Having finished with the discussion of the real character of poetry, we shall now return to the discussion of how poetry is produced. We say It should be known
-that the production of poetry and the laws governing the (poetical) craft are subject to a number of conditions. The first condition is to have an expert knowledge of its genus-that is, the genus of Arabic poetry. (This is the thing) that eventually creates a habit in the soul upon which, as on a loom, (the poet is able) to weave. The material for memorizing should be selected from the most genuine and purest and most varied (poetry), 1472 The selection, at the least, should comprise the poetry of outstanding Muslim poets such as Ibn Abi Rabi'ah, 1473 Kuthayyir, 1474 Dhu r-Rummah, 1475 Jarir, 1476 Abu Nuwas, 1477 Habib (Abu Tammam), 1478 al-
+Having finished with the discussion of the real character of poetry, we shall now return to the discussion of how poetry is produced. We say It should be known that the production of poetry and the laws governing the (poetical) craft are subject to a number of conditions. 
+
+The first condition is to have an expert knowledge of its genus-that is, the genus of Arabic poetry. (This is the thing) that eventually creates a habit in the soul upon which, as on a loom, (the poet is able) to weave. 
+
+The material for memorizing should be selected from the most genuine and purest and most varied (poetry), 1472 The selection, at the least, should comprise the poetry of outstanding Muslim poets such as Ibn Abi Rabi'ah, 1473 Kuthayyir, 1474 Dhu r-Rummah, 1475 Jarir, 1476 Abu Nuwas, 1477 Habib (Abu Tammam), 1478 al-
 Buhturi,1479 arRadi, 1480 and Abu Firas.1481 
 
 Most of the material would come from the Kitab al-Aghani, because it is a collection of all Muslim poetry and the choicest pre-Islamic poetry. 1482
 
-The poetry of poets who have no expert knowledge of (the old poetical material) is inferior and bad. Brilliance and sweetness is given to poetry only with
-the help of memorized knowledge of much (old poetical material). Those who knowlittle or nothing of it cannot (produce) any (real) poetry= They merely produce bad
-rhymes. They would do better to keep away from poetry.
+The poetry of poets who have no expert knowledge of (the old poetical material) is inferior and bad. Brilliance and sweetness is given to poetry only with the help of memorized knowledge of much (old poetical material). Those who knowlittle or nothing of it cannot (produce) any (real) poetry: They merely produce bad rhymes. They would do better to keep away from poetry.
 
-After the poet is saturated with memorized (poetical material) and has sharpened his talent, in order to be able to follow the great examples, 1483 he
-proceeds to make rhymes himself. Through more and more (practice), the habit of
-(rhyme making) becomes firmly established and rooted (in him).
+After the poet is saturated with memorized (poetical material) and has sharpened his talent, in order to be able to follow the great examples, 1483 he proceeds to make rhymes himself. 
+
+Through more and more (practice), the habit of rhyme making becomes firmly established and rooted (in him).
 
 One of the conditions governing (poetical production) is to forget the memorized material, so that its external literal forms will be wiped out (of
 the memory), since they prevent the real use of (the poetical habit). 1484 After the
@@ -215,5 +207,5 @@ Thus, your sin will turn out in the eyes of him who is affected by (your
 poetry),
 
 To be a censure of himself obliging him to swear (that he did nothing
-wrong). 1512
+wrong).
 

@@ -9,6 +9,8 @@ linkftext= "Part 28b"
 heading= "Part 46"
 +++
 
+
+
 At first, it expands to its limit. Then it is narrowed down in successive stages, until the dynasty dissolves 713
 
 Chapter 3 <!-- Above, in the third (chapter) of this Muqqadimah, 714 in the chapter on the

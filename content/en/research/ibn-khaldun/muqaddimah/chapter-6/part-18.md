@@ -1,17 +1,12 @@
-+++
-title= "The history of the intellectual sciences"
-description= "The four kinds of intellectual sciences are logic, physics, metaphysics, and measurements"
-image= "/covers/muq.jpg"
-date= 2022-01-20
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-17"
-linkbtext= "Part 17"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-19"
-linkftext= "Part 19"
-heading= "Part 18"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "The history of the intellectual sciences"
+description: "The four kinds of intellectual sciences are logic, physics, metaphysics, and measurements"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 18"
+date: 2021-12-20
+---
+
 
 
 These sciences naturally arise from us being thinking beings.  They are not restricted to any particular religious group. 

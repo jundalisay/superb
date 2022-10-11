@@ -17,7 +17,7 @@ They can never arrive at those centers since the sun and fixed stars already occ
 
 But, in order to make you understand distinctly in what places the planets should stop, look for example at the one marked ~ [Saturn], which I suppose to follow the course of the matter of the heaven toward the circle K
 
-If Saturn had a bit more force to continue its motion in a straight line than do the parts of the aethereal air surrounding it, then, instead of always following that circle K, it would go toward circle Y, making it farther from center S. 
+If Saturn had a bit more force to continue its motion in a straight line than <!-- do the parts of --> the aethereal air surrounding it, then, instead of always following that circle `K`, it would go toward circle `Y`, making it farther from center S.
 
 The aethereal air that surround it at orbit Y would move faster and even are a bit smaller (or at least are not larger) than those at `K`. They would give it still more force to pass beyond toward F allowing it to the circumference of that system without stopping. 
 
@@ -25,31 +25,56 @@ It would easily pass into another heaven. Instead of being a planet, it would be
 
 No star can stop anywhere in all that vast space between the circle `K` and the circumference of the heaven FGGF, through which the comets take their course. 
 
-In addition, the planets of necessity cannot have more force to continue their motion in a straight line than have the parts of the second element at K, when those planets move with the same agitation along with these parts; and all bodies that have more are comets.
+In addition, the planets of necessity cannot have more force to continue their motion in a straight line than have the parts of the aethereal air <!-- second element --> at `K`, when those planets move with the same agitation along with these parts; and all bodies that have more are comets.
 
-Saturn has less force than the parts of the aethereal air surrounding it. Those parts that follow it and that are placed a bit lower than it can divert it with the result that, instead of following circle K, it descends toward Jupiter. 
+Saturn has less force than the <!-- parts of the --> aethereal air surrounding it. 
 
-Saturn can be exactly as strong as the parts of the aethereal air that will then surround it. This is because these parts of the second element are more agitated than those at `K`. They will also agitate the planet more being in addition smaller, they will not be able to resist it as much. 
+Those parts that follow it and that are placed a bit lower than it can divert it with the result that, instead of following circle `K`, it descends toward Jupiter. 
 
-In this case, the planet will remain perfectly balanced in the middle of them and will there take its course in the same direction as they about the sun, without being at one time or another more or less distant from the sun, except insofar as they can also be more or less distant from it.
+Saturn can be exactly as strong as <!-- the parts of --> the aethereal air that will then surround it. This is because <!-- these parts of the second element --> this aethereal air <!-- are --> is more agitated than those at `K`. <!-- They --> It will also agitate the planet more (being <!-- addition --> smaller). <!-- They --> It will not be able to resist the planet as much. 
+
+In this case, the planet will:
+- remain perfectly balanced in the middle of them
+- from there take its course in the same direction as they about the sun, without being at one time or another more or less distant from the sun, except insofar as they can also be more or less distant from it.
 
 But if Saturn being at Jupiter still has less force to continue its motion in a straight line than has the matter of the heaven found there, it will again be pushed lower by the matter, towards Mars, and so on. Until finally, it is surrounded by a matter that has neither more nor less force than it.
 
-Thus you see that there can be diverse planets, some more and others less distant from the sun, such as= Saturn, Jupiter, Mars, Earth, Venus, Mercury[46].
+Thus <!-- you see that --> there can be diverse planets, some more and others less distant from the sun, such as:
+- Saturn
+- Jupiter
+- Mars
+- Earth
+- Venus
+- Mercury[46].
 
-Of these, the lowest and least massive can reach to the sun's surface. But the highest never pass beyond circle K which, although very large in comparison with each planet in particular, is nevertheless so extremely small in comparison with the whole of heaven FGGF that, as I have already said above, it can be considered as its center.
+Of these, the lowest and least massive can reach to the sun's surface. 
 
-But, if I still have not made you understand well enough why it can happen that the parts of the heaven beyond circle K, being incomparably smaller than the planets, do not cease to have more force than they to continue their motion in a straight line, consider that this force does not depend solely on the quantity of the matter that is in each body, but also on the extent of its surface. 
+But the highest never pass beyond circle `K` which, although very large in comparison with each planet in particular, is nevertheless so extremely small in comparison with the whole of heaven `FGGF` that it can be considered as its center.
 
-When two bodies move equally fast, if one contains twice as much matter as the other, it also has twice as much agitation. 
+<!-- But, if I still have not made you understand well enough why it can happen that the parts of -->
 
-But it does not follow that it has twice as much force to continue to move in a straight line. Rather, it will have exactly twice as much if, in addition, its surface is exactly twice as extended, because it will always meet twice as many other bodies resisting it, and it will have much less force to continue if its surface is extended much more than twice.[47]
+How can 
 
-The parts of the heaven are just about all round. All shapes, they have the one that includes the most matter within the least surface, whereas the planets, being composed of small parts having very irregular and extended shapes, have large surfaces in proportion to the quantity of their matter. 
+The parts of the heaven beyond circle `K` are incomparably smaller than the planets. 
 
-Thus, the planets can have a greater ratio of surface to volume than most of those parts of the heaven and nevertheless also have a smaller one than some of the smallest parts that are closest to the centers. 
+, do not cease to have more force than they to continue their motion in a straight line, consider that this force does not depend solely on the quantity of the matter that is in each body, but also on the extent of its surface. 
 
-Among two wholly massive balls such as are those parts of the heavens, the smaller always has more surface in proportion to its quantity than has the larger.[48]
+**When 2 bodies move equally fast, if one contains twice as much matter as the other, it also has twice as much agitation.** 
+- **But it does not follow that it has twice as much force to continue to move in a straight line.** 
+- Rather, it will have exactly twice as much if, in addition, its surface is exactly twice as extended, because it will always meet twice as many other bodies resisting it, and it will have much less force to continue if its surface is extended much more than twice.[47]
+
+The parts of the heaven are <!-- just about --> all round. 
+
+All shapes, they have the one that includes the most matter within the least surface. The planets are made up of small parts having very irregular <!-- and extended --> shapes. 
+- They have large surfaces in proportion to the quantity of their matter. 
+
+Thus, the planets:
+- can have a greater ratio of surface to volume than most of those parts of the heaven
+- nevertheless also have a smaller <!-- one --> surface than some of the smallest parts that are closest to the centers. 
+
+Among 2 balls, the smaller ball always has more surface per matter than the large ball. <!-- in proportion to its quantity than has the larger. -->[48]
+
+<!--  such as are those parts of the heavens,  -->
 
 If we push a large ball composed of many tree branches confusedly joined and piled on top of one another (as one must imagine are the parts of matter of which the planets are composed), even if it be pushed by a force entirely proportional to its size, it will not be able to continue its motion as far as would another ball, very much smaller and composed of the same wood, but wholly massive. 
 
@@ -73,7 +98,7 @@ This is because the larger a body:
 
 Many small bodies all working together to act on a larger one may have as much force as it. But they can never make it move as fast as they in all directions. This is because if they agree in some of their motions which they communicate to it, at the same time they most certainly differ in others which they cannot communicate to it.
 
-This leads to two things:
+This leads to 2 things:
 
 1. The matter of the heaven must make the planets turn not only around the sun, but also about their own center, except when there is some cause that hinders them
 

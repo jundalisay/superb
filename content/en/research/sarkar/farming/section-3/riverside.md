@@ -22,9 +22,13 @@ For example, eucalyptus trees have contributed to the sparse, arid conditions in
 
 Eucalyptus trees are suitable for planting in marshy areas to help dry them out and are useful for preventing grass fires, but they are not recommended as part of a reforestation programme. As eucalyptus helps check riverside erosion, it can also be a useful riverside tree, but it should always be planted in association with other trees. 
 
-An example of a riverside plantation is neem, tamarind, simul and eucalyptus. Between each of these trees, palmyra and date palm should be planted alternately. A second example is imli, neem and simul in either of two configurations – imli, neem, imli, etc. or imli, simul, imli, etc. Imli is a good riverside plant because it retains water and checks soil erosion. It has an extremely fibrous root system.
+An example of a riverside plantation is neem, tamarind, simul and eucalyptus. Between each of these trees, palmyra and date palm should be planted alternately. 
 
-Fibrous roots gather water near the surface and benefit neighbouring plants and trees. Many banyan trees have been planted along the seven rivers in Ánanda Nagar for this reason. Previously, only one river ran throughout the year at Ánanda Nagar, but now all seven rivers flow almost all year round, right up to mid-March. The dry season starts in October and extends to June. Riverside plantations have shown tremendous positive effects within only one year at Ánanda Nagar.
+A second example is imli, neem and simul in either of two configurations – imli, neem, imli, etc. or imli, simul, imli, etc. Imli is a good riverside plant because it retains water and checks soil erosion. It has an extremely fibrous root system.
+
+Fibrous roots gather water near the surface and benefit neighbouring plants and trees. Many banyan trees have been planted along the seven rivers in Ánanda Nagar for this reason. Previously, only one river ran throughout the year at Ánanda Nagar, but now all 7 rivers flow almost all year round, right up to mid-March. 
+
+The dry season starts in October and extends to June. Riverside plantations have shown tremendous positive effects within only one year at Ánanda Nagar.
 
 The rivers in Ánanda Nagar are:
 

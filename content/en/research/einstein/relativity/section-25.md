@@ -19,8 +19,8 @@ For example=
 - 2 neighbouring points `P` and `P'` have the co-ordinates where `du` and `dv` signify very small numbers= 
 
 ``` elixir
-P=  u, v
-P'=  u + du, v + dv,
+P  =  u, v
+P' =  u + du, v + dv,
 ```
 
 The distance (line-interval) between `P` and `P'`, measured with a little rod, is shown through the very small number `ds`. Thus, we have 

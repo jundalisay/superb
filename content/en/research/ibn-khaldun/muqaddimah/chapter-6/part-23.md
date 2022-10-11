@@ -1,32 +1,35 @@
-+++
-title= "The Science of Physics"
-description= "This investigates bodies from the point of view of the motion and stationariness which attach to them"
-image= "/covers/muq.jpg"
-date= 2022-01-15
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-23"
-linkbtext= "Part 23"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-26"
-linkftext= "Part 28"
-heading= "Part 26"
-+++
+---
+title: "The Science of Physics"
+description: "This investigates bodies from the point of view of the motion and stationariness which attach to them"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 20"
+date: 2021-12-08
+---
+
 
 <!-- ## 23. Physics. -->
 
-This investigates bodies from the point of view of the motion and stationariness which attach to them. It studies the heavenly and the elementary bodies (substances), as well as the human beings, the animals, the plants, and the minerals created from them. It also studies the springs and earthquakes that come into being in the earth, as well as the clouds, vapors, thunder, lightning, and storms that are in the atmosphere, and other things. It further studies the beginning
-of motion in bodies - that is, the soul in the different forms in which it appears in human beings, animals, and plants.
+This investigates bodies from the point of view of the motion and stationariness which attach to them. 
 
-The books of Aristotle on the subject are available to scholars. They were translated together with the other books on the philosophical sciences in the days of
-al-Ma'mun. Scholars wrote books along the same lines and followed them up with explanation and comment. 715 The most comprehensive work written on the subject
-is Avicenna's Kitab ashShifa'. In it, Avicenna treats all the seven philosophical sciences, as we have mentioned before. 716 Avicenna later on abridged the Kitab
-ash-Shifa' in the Kitab an-Najah and the Kitab al-Isharat. In a way, he opposed Aristotle on most (physical) problems and expressed his own opinion on them.
-Averroes, on the other hand, abridged the books of Aristotle and commented on them, but followed him and did not oppose him. Scholars have written many works
-on the subject, 717 but these are the works that are famous at this time and to which
+It studies the heavenly and the elementary bodies (substances), as well as the human beings, the animals, the plants, and the minerals created from them. 
+
+It also studies the springs and earthquakes that come into being in the earth, as well as the clouds, vapors, thunder, lightning, and storms that are in the atmosphere, and other things. It further studies the beginning of motion in bodies - that is, the soul in the different forms in which it appears in human beings, animals, and plants.
+
+The books of Aristotle on the subject are available to scholars. They were translated together with the other books on the philosophical sciences in the days of al-Ma'mun. Scholars wrote books along the same lines and followed them up with explanation and comment. <!-- 715  -->
+
+The most comprehensive work written on the subject is Avicenna's Kitab ashShifa.
+
+In it, Avicenna treats all the 7 philosophical sciences.<!--  716 --> Avicenna later on abridged the Kitab ash-Shifa in the Kitab an-Najah and the Kitab al-Isharat. 
+
+In a way, he opposed Aristotle on most (physical) problems and expressed his own opinion on them.
+
+Averroes, on the other hand, abridged the books of Aristotle and commented on them, but followed him and did not oppose him. Scholars have written many works on the subject, 717 but these are the works that are famous at this time and to which
 attention is paid when one (studies) the craft (of physics).
 
-The people of the East are concerned with Avicenna's Kitab al-Isharat. The imam Ibn al-Khatib wrote a good commentary on it. The same was done by al-
-Amid! 718 Another commentary on the work was written by Nasir-ad-din at-Tusi, 719 who is known as Khawajah (Khoja), an 'Iraqi scholar. He investigated
-many of the problems (of the Isharat) and compared what the imam (Ibn al-Khatib)
-had to say about them. He went beyond (Ibn al-Khatib's) studies and investigations.
+The people of the East are concerned with Avicenna's Kitab al-Isharat. The imam Ibn al-Khatib wrote a good commentary on it. The same was done by al-Amid! <!-- 718 --> 
+
+Another commentary on the work was written by Nasir-ad-din at-Tusi, 719 who is known as Khawajah (Khoja), an 'Iraqi scholar. He investigated many of the problems (of the Isharat) and compared what the imam (Ibn al-Khatib) had to say about them. He went beyond (Ibn al-Khatib's) studies and investigations.
 
 
 ## 24. The science of medicine
@@ -87,8 +90,11 @@ Their study of agriculture was general. They considered the plants both from the
 Thus, they were very much concerned with the subject.
 
 One of the Greek works, the Kitab al-Falahah anNabatiyah, 735 was translated. It is ascribed to Nabataean scholars. It contains much information of the
-type (mentioned). The Muslims who studied the contents of the work (noticed that it belonged to) sorcery, which is barred (by the religious law) and the study of which
-is forbidden. Therefore, they restricted themselves to the part of the book dealing with plants from the point of view of their planting and treatment and the things
+type mentioned. 
+
+The Muslims who studied the contents of the work (noticed that it belonged to) sorcery, which is barred (by the religious law) and the study of which is forbidden. 
+
+Therefore, they restricted themselves to the part of the book dealing with plants from the point of view of their planting and treatment and the things
 connected with that. They completely banished all discussion of the other part of the book. Ibn al-'Awwam 736 abridged the Kitab al-Falahah an-Nabatiyah in this
 sense. The other part of it remained neglected. Some of the main problems of (that other part) were transmitted by Maslamah in his magical works. We shall mention
 that in connection with the discussion of sorcery, if God, He is exalted, wills. 737

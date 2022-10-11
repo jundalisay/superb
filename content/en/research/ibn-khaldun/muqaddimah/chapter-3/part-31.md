@@ -1,14 +1,12 @@
-+++
-title= "Pope and Patriarch"
-description= "The Patriarch was called 'Pope' meaning 'Father of fathers'. It first appeared in Egypt, according to the theory of Jirjis b. al-'Amid in his History"
-image= "/covers/muq.jpg"
-date= 2020-01-12
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-30"
-linkbtext= "Part 30"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-32"
-linkftext= "Part 32"
-heading= "Parts 31"
-+++
+---
+title: "Pope and Patriarch"
+description: "The Patriarch was called 'Pope' meaning 'Father of fathers'. It first appeared in Egypt, according to the theory of Jirjis b. al-'Amid in his History"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 31"
+date: 2019-12-02
+---
+
 
 
 In the Christian religion and on the word "Kohen" used by the Jews.

@@ -1,14 +1,12 @@
-+++
-title= "The ambiguity in the Qur'an and the Sunnah and the resulting dogmatic schools"
-description= "An exposition of ambiguity in the Qur'an and the Sunnah and of the resulting dogmatic schools among both the orthodox and the innovators"
-image= "/covers/muq.jpg"
-date= 2022-01-24
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-14"
-linkbtext= "Part 14"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-15b"
-linkftext= "Part 15b"
-heading= "Part 15"
-+++
+---
+title: "The ambiguity in the Qur'an and the Sunnah and the resulting dogmatic schools"
+description: "An exposition of ambiguity in the Qur'an and the Sunnah and of the resulting dogmatic schools among both the orthodox and the innovators"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 15"
+date: 2022-01-05
+---
+
 
 
 <!-- God sent our Prophet Muhammad to us, in order to call us to salvation and bliss. He revealed to him His noble book in the clear Arabic language.  -->
@@ -104,7 +102,9 @@ because it originated from denial of the attribute of speech .397 Therefore, ash
 Those men firmly established the Mu'tazilah school. They confirmed part of it and rejected (other parts). Eventually, Abul-Hasan al-Ash'ari 398 appeared. He disputed (the opinions of) certain Mu'tazilah shaykhs concerning the problems of
 (God's concern for human) welfare and what is best for man. 
 
-He abolished Mu'tazilism. He followed the opinions of 'Abdallah b. Sa'id b. Kullab, 399 Abul-'Abbas al-Qalanisi, 400 and al-Harith b. Asad al-Muhasibi , 401 who were followers of the ancient Muslims according 402 to the orthodox approach. He strengthened the statements they had made 403 with speculative theological arguments. 
+He abolished Mu'tazilism. 
+
+He followed the opinions of 'Abdallah b. Sa'id b. Kullab, 399 Abul-'Abbas al-Qalanisi, 400 and al-Harith b. Asad al-Muhasibi , 401 who were followers of the ancient Muslims according 402 to the orthodox approach. He strengthened the statements they had made 403 with speculative theological arguments. 
 
 He affirmed the existence of knowledge, power, volition, and life, as attributes persisting in the essence of God. (These attributes) are necessary for the argument of mutual antagonism, 404 and they establish the correctness of prophetical miracles. 
 

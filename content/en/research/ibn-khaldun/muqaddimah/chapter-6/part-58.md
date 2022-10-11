@@ -1,15 +1,12 @@
-+++
-title= "People of rank are above cultivating poetry"
-description= "Poetry was the archive of the Arabs, containing their sciences, their history, and their wisdom"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-date= 2021-12-24
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-57"
-linkbtext= "Part 57"
-linkf= "/research/ibn-khaldun/muqaddimah/"
-linkftext= "Index"
-heading= "Part 58"
-+++
+---
+title: "People of rank are above cultivating poetry"
+description: "Poetry was the archive of the Arabs, containing their sciences, their history, and their wisdom"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 58"
+date: 2021-10-02
+---
+
 
 <!-- ## 58. People of rank are above cultivating poetry -->
 

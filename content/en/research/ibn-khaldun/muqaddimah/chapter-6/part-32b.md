@@ -1,19 +1,19 @@
-+++
-title= "Why Alchemy is Wrong"
-description= "The geometrical sciences are Astronomy, Surveying, Optics"
-image= "/covers/muq.jpg"
-date= 2022-01-07
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-32"
-linkbtext= "Part 32"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-33"
-linkftext= "Part 33"
-heading= "Part 32b"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "Why Alchemy is Wrong"
+description: "The (alchemists) take a substance possessing primary preparedness. They use it as the basis."
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 31"
+date: 2021-11-16
+---
 
 
-The (alchemical) process follows these lines= The (alchemists) take a substance possessing primary preparedness. They use it as the basis. In treating and processing it, they imitate the way nature processes substances in mines and, eventually, transforms them into gold or silver. They (try) hard to increase the active and passive powers (in the process), so that it will be completed in a shorter time (than required by nature). It has been explained in the proper place that an increase in the power of the agent shortens the time needed for his activity. 
+
+The (alchemical) process follows these lines: 
+
+The (alchemists) take a substance possessing primary preparedness. They use it as the basis. 
+
+In treating and processing it, they imitate the way nature processes substances in mines and, eventually, transforms them into gold or silver. They (try) hard to increase the active and passive powers (in the process), so that it will be completed in a shorter time (than required by nature). It has been explained in the proper place that an increase in the power of the agent shortens the time needed for his activity. 
 
 The generation of gold in the mine is completed only after 1,080 years, which is the period of the great revolution of the sun. 1095 If the powers and qualities used in the process are greatly increased, the time needed for the generation of (gold) will necessarily be shorter than (1,080 years), as we have stated.
 

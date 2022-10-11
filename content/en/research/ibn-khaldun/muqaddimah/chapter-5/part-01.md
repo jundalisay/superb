@@ -1,18 +1,12 @@
-+++
-title= "The Real Meaning Of Sustenance And Profit"
-description= "Man, by nature, needs something to feed him and to provide for him in all the conditions and stages of his life from the time of his (early) growth to his maturity and on to his old age"
-image= "/covers/muq.jpg"
-tags = "Profits"
-date= 2022-01-31
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-4/part-20"
-linkbtext= "Part 1"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-5/part-04"
-linkftext= "Part 4"
-heading= "Part 1"
-aliases = [
-  "/research/ibn-khaldun/muqaddimah/chapter-5/part-1"
-]  
-+++
+---
+title: "The Real Meaning Of Sustenance And Profit"
+description: "Man, by nature, needs something to feed him and to provide for him in all the conditions and stages of his life from the time of his (early) growth to his maturity and on to his old age"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 1"
+date: 2022-01-31
+---
+
 
 <!-- THE CONDITIONS THAT OCCUR IN THIS CONNECTION.
 A NUMBER OF PROBLEMS ARE CONNECTED

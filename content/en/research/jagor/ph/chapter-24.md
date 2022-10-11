@@ -34,25 +34,42 @@ Cápiz | has low value abaca
 
 Hitherto all attempts, strenuous though the efforts were, to acclimatize the growth of hemp in the western and northern provinces have failed. The plants rarely grow as high as 2 feet, and the trouble and expense are simply unremunerative. 
 
-This failure may be accounted for by the extreme dryness prevailing during many months of the year, whereas in the eastern provinces plentiful showers fall the whole year round. The great profit which the Manila hemp has yielded in the few years since its production, however, has given encouragement to still further experiments; so that, indeed, it will shortly be shown whether the cultivation of abacá is to be confined to its present limited area, while the edible species of banana has spread itself over the whole surface of the earth within the tropics.
+This failure may be accounted for by the extreme dryness prevailing during many months of the year, whereas in the eastern provinces plentiful showers fall the whole year round. 
 
-On the volcanic mountains of Western Java a species of the Musaceæ grows in great luxuriance. The Government has not, however, made any real effort to cultivate it, and what has been done in that respect has been effected, up to the present date, by private enterprise.
+The great profit from Manila hemp in the few years since its production, however, has encouraged further experiments. It will determine whether <!-- ; so that, indeed, it will shortly be shown whether the --> abaca cultivation will be confined to its present limited area, or the edible banana will <!-- has --> spread itself over tropics globally.<!--  the whole surface of the earth within the tropics. -->
+
+On the volcanic mountains of Western Java, a species of the Musaceæ grows in great luxuriance. The Government has not, however, made any real effort to cultivate it. Whatever has been done in that respect was due to private enterprise.
 
 Various writers have stated that abacá can be obtained in the north of the Celebes. 
 
-Bickmore, however, says positively that the inhabitants having made great efforts in attempting its successful cultivation, have abandoned it again in favour of the cultivation of coffee which is far more profitable.*
+Bickmore, however, says that the inhabitants made great attempts for its cultivation. But they abandoned it again in favour of coffee which is far more profitable.*
 
 <!-- • "The Islands of the East Indian Archipelago," 1868, p. 340. -->
 
-According to previous statements, Guadaloupe appears to be able to produce abacá (fibre of the M. textilis ?) ;* and Pondicherry and Guadaloupe have produced fabrics woven from abaca, and French Guiana stuffs from the fibre of the edible banana ; † 
+According to previous statements:
+- Guadaloupe appears to be able to produce abacá (fibre of the M. textilis ?)*
+- Pondicherry and Guadaloupe have produced fabrics woven from abaca
+- French Guiana stuffs from the fibre of the edible banana† 
 
-All these, however, are only experiments. Royle affirms that the Manila hemp (abaca fibre) excels the Russian in firmness, lightness, and strength in tension, as well as in cheapness, and that rope prepared from the latter becomes stiff in wet weather, and continues so afterwards; which doubtless may be avoided by an improvement in the manner of spinning, and subsequent judicious treatment. 
+All these, however, are only experiments. 
 
-Through the better preparation of the raw material in Manila by means of adequate machinery, these difficulties have been overcome; but abacá no longer has the advantage of superior cheapness, as the demand has increased much faster than the supply. During the year 1859 it was worth from £22 to £25 per ton ; in 1868, £45 to £50 per ton ; while Russian hemp fetched £31 per ton. Thus in nine years it rose to double its value.
+Royle affirms that the Manila hemp (abaca fibre) excels the Russian in firmness, lightness, and strength in tension, as well as in cheapness, and that rope prepared from the latter becomes stiff in wet weather, and continues so afterwards. This can be avoided by an improvement in the manner of spinning, and subsequent judicious treatment. 
+
+Through the better preparation of the raw material in Manila by means of adequate machinery, these difficulties have been overcome. But abacá no longer has the advantage of superior cheapness, as the demand has increased much faster than the supply. 
+
+In 1859, it was worth from £22 to £25 per ton. In 1868, £45 to £50 per ton while Russian hemp fetched £31 per ton. 
+
+Thus in 9 years, it doubled its value.
 
 In Albáy, there are about 12 varieties of the best banana cultivated, which are particularly favoured by the qualities of the soil. The cultivation is extremely simple, and entirely independent of the seasons.
 
-The plants thrive best on the slopes of the volcanic mountains (in which Albáy and Camarines abound), in open spaces of the woods protected by the trees, which cast their shadows to an extent of about 60 feet. In exposed level ground they do not thrive so well, and in marshy land not at all. In the laying out of a new plantation the young shoots are generally made use of, which sprout so abundantly from the roots that each individual
+The plants thrive best on the slopes of the volcanic mountains (in which Albáy and Camarines abound), in open spaces of the woods protected by the trees, which cast their shadows to an extent of about 60 feet. 
+
+In exposed level ground, they do not thrive so well. In marshy land not at all. 
+
+In the laying out of a new plantation the young shoots are generally made use of, which sprout so abundantly from the roots that each individual one soon becomes a perfect plant.
+- In favourable ground, the distance is 10 feet between each plant
+- In poor ground, 6 feet.
 
 <!-- • Exhibition Catalogue; section, French Colonies, 1867, p. 80. -->
 
@@ -60,43 +77,70 @@ The plants thrive best on the slopes of the volcanic mountains (in which Albáy 
 
 Abacá not readily taking tar is, consequently, only used for running, and not standing, rigging:
 
-one soon becomes a perfect plant. In favourable ground the custom is to allow a distance of about ten feet between each plant ; in poor ground 6 feet. 
 
-The only care necessary is the extermination of the weeds, and clearing away the underwood during the first season; later on, the plants grow so luxuriantly and strongly that they entirely prevent the growth of anything else in their vicinity. 
+The only care necessary is:
+- the extermination of the weeds
+- clearing away the underwood during the first season. 
 
-The protection afforded by the shade of the trees at this period is no longer required, the young buds finding sufficient protection against the sun's rays under cover of the fanlike leaves. Only in exceptional cases, contrary to the usual practice, are the plants raised from seed. The fruit, when ready, is cut off and dried, though care must be taken that it is not over ripe; otherwise the kernels are found to be in an unsuitable condition.
+Later on, the plants grow so luxuriantly and strongly that they entirely prevent the growth of anything else in their vicinity.
 
-These latter are about the size of peppercorns; and the extraction of them in the edible species almost always brings about decay.
+The protection afforded by the shade of the trees at this period is no longer required, the young buds finding sufficient protection against the sun's rays under cover of the fanlike leaves. 
 
-Two days before sowing, the kernels are taken out of the fruit, and steeped overnight in water ; on the following day they are dried in a shady place; and on the third day they are sown in holes an inch deep in fresh, unbroken, and well-shaded forest ground, allowing six inches distance between each plant and row.
+Only in exceptional cases, contrary to the usual practice, are the plants raised from seed. 
 
-After a year the seedlings, which are then about two feet high, are planted out, and tended in the same way as the suckers. While many of the edible bananas bear fruit after one year, and a few varieties even after six months, the abacá plant requires on an average three years to produce its fibre in a proper condition; when raised from suckers four years ; and when raised from yearold seedlings, even under the most favourable conditions, two years. On the first crop, only one stalk is cut from each bush; but later on the new branches grow so quickly that they can be cut every two months. *
+The fruit, when ready, is cut off and dried, though care must be taken that it is not over ripe. Otherwise, the kernels are found to be in an unsuitable condition.
+
+These latter are about the size of peppercorns. The extraction of them in the edible species almost always brings about decay.
+
+Two days before sowing, the kernels are taken out of the fruit, and steeped overnight in water.
+
+On the following day, they are dried in a shady place.
+
+On day 3, they are sown in holes an inch deep in fresh, unbroken, and well-shaded forest ground, allowing 6 inches distance between each plant and row.
+
+After a year, the seedlings, which are then about 2 feet high, are planted out and tended in the same way as the suckers.
+
+While many of the edible bananas bear fruit after one year, and a few varieties even after 6 months, the abacá plant requires 3 years to produce its fibre in a proper condition. When raised from suckers 4 years. When raised from yearold seedlings, even under the most favourable conditions, 2 years. 
+
+On the first crop, only one stalk is cut from each bush. But later on, the new branches grow so quickly that they can be cut every two months.*
 
 • A plant in full growth produces annually 30 cwt. bandala to the acre, whereas from an acre of flax not more than from 2 to 4 cwt. of pure flax, and from 2 to 8 cwt. seed can be obtained.
 
-After a few years the plants become so strong and dense that it is scarcely possible to push through them. Bast is in its best condition at the time of blossoming; but, when the price of the fibre happens to stand high in the market, this particular time is not always waited for.
+After a few years, the plants become so strong and dense that it is scarcely possible to push through them.
 
-Plants which have blossomed cease to be profitable in any way, by reason of the fibre becoming too weak-a matter of too great nicety for the unpractical consumers on the other side of the Atlantic to decide upon, and one in which, despite inquiries and careful inspections, they might be deceived. 
+Bast is in its best condition at the time of blossoming. Bbut, when the price of the fibre happens to stand high in the market, this particular time is not always waited for.
+
+Plants which have blossomed cease to be profitable because the fibre becomes too weak. -a matter of too great nicety for the unpractical consumers on the other side of the Atlantic to decide upon, and one in which, despite inquiries and careful inspections, they might be deceived. 
 
 There really is no perceptible reason why the fibre should become weaker through fructification, which simply consists in the fact of the contents of the vascular cells changing into soluble matter, and gradually oozing away, the consequence of which is that the cells of the fibre are not replenished. 
 
-These, on the contrary, acquire additional strength with the age of the plant, because the emptied cells cling so firmly together, by means of a certain resinous deposit, that it is impossible to obtain them unbroken without a great deal of trouble. The idea may have erroneously arisen from the circumstance that, previously to drying, as with hemp, the old plants were picked out, and allowed to be thrown away, though not without considerably increasing the rate of pay, which already consumed the greater part of the general expenses.* 
+These, on the contrary, acquire additional strength with the age of the plant, because the emptied cells cling so firmly together, by means of a certain resinous deposit, that it is impossible to obtain them unbroken without a great deal of trouble. 
 
-In order to preserve the bast, the stalk above ground is closely pruned and freed from leaves and other encumbrances; each leaf is then singly divided into strips—a cross incision being made through the membrane on the inner or concave side, and connected by means of the pulpy parts (the parenchym) clinging together. In this manner as much as possible of the clear outer skin only remains behind.
+The idea may have erroneously arisen from the circumstance that, previously to drying, as with hemp, the old plants were picked out, and allowed to be thrown away, though not without considerably increasing the rate of pay, which already consumed the greater part of the general expenses.* 
+
+To preserve the bast, the stalk above ground is closely pruned and freed from leaves and other encumbrances. Each leaf is then singly divided into strips—a cross incision being made through the membrane on the inner or concave side, and connected by means of the pulpy parts (the parenchym) clinging together. 
+
+In this way, the clear outer skin only remains behind as much as possible.
 
 * As Dr. Wittmack communicated to me, only fibre or seed can be obtained from hemp, as when the hemp is ripe, i.e. run to seed, the fibre becomes then both brittle and coarse. Possibly, in the flax cultivation, you may obtain frequently both seed and fibre ; but, after all, they are both of very little value.
 
-MODE OF OBTAINING THE FIBRE.
 
-313
+## OBTAINING THE FIBRE
 
-Another method is to strip the bast from the undivided stem. To effect this the operator makes an oblique incision in the skin by the under part of the stalk, drawing the knife gradually to the tip, and stripping off the whole length as broad a piece as possible ; and the operation is repeated as many times as practicable.
+
+Another method is to strip the bast from the undivided stem. 
+
+To effect this the operator makes an oblique incision in the skin by the under part of the stalk, drawing the knife gradually to the tip, and stripping off the whole length as broad a piece as possible ; and the operation is repeated as many times as practicable.
 
 This method of handling is more productive than the one previously described; but, on the other hand, it takes considerably more time, and for that reason is not often practised.
 
-The strips of bast are then drawn under a knife, the blade of which is three inches broad by six long, fastened at one end to the extremity of a flexible stick so that it is suspended perpendicularly over a well-smoothed block, and at the other end to a handle connected by means of a cord to a treadle, which can be pressed firmly down, as occasion requires. The workman draws the bast, without any regard to quality, between the knife and block, commencing in the middle, and then from side to side. The knife must be free from notches, or all indentations, according to the direction of Father Blanco.* This work requires three men, whose pay generally is about 2 r. per day. 
+The strips of bast are then drawn under a knife, the blade of which is three inches broad by six long, fastened at one end to the extremity of a flexible stick so that it is suspended perpendicularly over a well-smoothed block, and at the other end to a handle connected by means of a cord to a treadle, which can be pressed firmly down, as occasion requires. 
 
-One worker cuts up the stalks, strips off the leaves, and attends to the supply; the second, frequently a boy, spreads out the strips; and the third draws them under the knife. A single plant has been known to yield as much as two pounds of fibre; but the most favourable average rarely affords more than one pound, and plants grown in indifferent soil scarcely a sixth of that quantity. The plantations are worked either by the owner or by day-labourers, who, when the market prices are very low, take half share of the crop harvested by them. In these cases an industrious workman may obtain as much as one pico in a week. During my stay exceptionally low prices ruled -165 r. per pico, undelivered. The workman could, therefore, in six days earn half the amount, viz., 8.25 r., at a rate of 1.375 r. per day.
+The workman draws the bast, without any regard to quality, between the knife and block, commencing in the middle, and then from side to side. The knife must be free from notches, or all indentations, according to the direction of Father Blanco.* This work requires three men, whose pay generally is about 2 r. per day. 
+
+One worker cuts up the stalks, strips off the leaves, and attends to the supply; the second, frequently a boy, spreads out the strips; and the third draws them under the knife. A single plant has been known to yield as much as two pounds of fibre; but the most favourable average rarely affords more than one pound, and plants grown in indifferent soil scarcely a sixth of that quantity. 
+
+The plantations are worked either by the owner or by day-labourers, who, when the market prices are very low, take half share of the crop harvested by them. In these cases an industrious workman may obtain as much as one pico in a week. During my stay exceptionally low prices ruled -165 r. per pico, undelivered. The workman could, therefore, in six days earn half the amount, viz., 8.25 r., at a rate of 1.375 r. per day.
 
 <!-- • “Flora of the Philippines.” -->
 
@@ -108,7 +152,7 @@ By daily pay. The workman therefore earned daily.0.76 r. or Wages amounted to pe
 
 The edges of the petioles, which contain much finer fibre than the middle parts, are separately divided into strips an inch wide, and with strong pressure are drawn several times under the knife. This substance, which is called lúpis, is in high request, being employed in the native weaving; while bandála is chiefly used for ships' rigging. *
 
-Lúpis, according to the fineness of the fibre, is sorted into four classes:
+Lúpis, according to the fineness of the fibre, is sorted into 4 classes:
 
 1. Binani
 2. Totogna
@@ -119,7 +163,9 @@ A bundle of these is then taken up in the left hand, and, while with the right t
 
 After the fine sorts have been pounded in a rice-mortar, in order to render the fibre soft and pliable, they are severally knotted into one another, and converted into web. Generally the first sort is worked as woof with the second as warp, and the third as warp with the second as woof. 
 
-WORKING DETAILS.
+
+
+## WORKING DETAILS
 
 The fabrics so woven are nearly as fine as pine-stuffs (Nipis de Piña), and almost equal the best quality of cambric; and, notwithstanding the many little nodules occasioned by the tangling of the fibre, which may be discerned on close inspection, are clearer and stouter, and possess a warmer yellowish tint.
 
@@ -128,11 +174,20 @@ In 1868, £100 per ton was paid for lúpis. It was only imported in small quanti
 Quitol, a less valuable sort of lúpis, could be sold at $75 per ton.
 
 
-In respect of these last three qualities—purity, flexibility, and colour—they stand in relation to cambric somewhat as cardboard to tissue-paper. 
+They are similar to cambric as cardboard is to tissue-paper in terms of:
+- purity
+- flexibility 
+- colour
 
-In weaving such stuffs the fibres frequently break on account of their having been twisted instead of spun; and the repair in these cases is exceedingly troublesome. The finest stuffs require so great an amount of dexterity, patience, and time in their preparation, and for that reason are so expensive, that they can find no purchasers when in competition with the cheap, machine-worked goods of Europe. Their fine, warm yellowish colour also is objected to by the European women, who are accustomed to linen and calicoes strongly blued in the washing. In the country, however, they are esteemed very highly by the rich half-castes, who understand the real goodness of their qualities.
+In weaving such stuffs the fibres frequently break on account of their having been twisted instead of spun; and the repair in these cases is exceedingly troublesome. 
 
-The fibres of the inner petioles, which are softer but not so strong as the outer, are called tupus, and sold with bandála, or mixed with tapis and used in the native weaving. Bandála also serves for weaving purposes. In that portion of the Archipelago where the native abacá plantations are, the entire dress of both sexes is made of coarse guinára. Still coarser and stronger fabrics are prepared for the European market, such as crinoline and stiff muslin used by dressmakers. 
+The finest stuffs require so great an amount of dexterity, patience, and time in their preparation, and for that reason are so expensive, that they can find no purchasers when in competition with the cheap, machine-worked goods of Europe. 
+
+Their fine, warm yellowish colour also is objected to by the European women, who are accustomed to linen and calicoes strongly blued in the washing. In the country, however, they are esteemed very highly by the rich half-castes, who understand the real goodness of their qualities.
+
+The fibres of the inner petioles, which are softer but not so strong as the outer, are called tupus, and sold with bandála, or mixed with tapis and used in the native weaving. Bandála also serves for weaving purposes. In that portion of the Archipelago where the native abacá plantations are, the entire dress of both sexes is made of coarse guinára. 
+
+Still coarser and stronger fabrics are prepared for the European market, such as crinoline and stiff muslin used by dressmakers. 
 
 Before the arrival of the Spaniards, the natives produced stuffs from abaca which became an important article of export only some few decades since. 
 
@@ -216,15 +271,16 @@ Even then, it paid to take up an existing plantation, but not to lay out a new o
 
 In 1866, the pico in Manila never cost less than $7, which two years previously was the maximum value. It rose gradually, until 9.50 dollars was asked for ordinary qualities. 
 
-The production in many provinces had reached the extreme limit; and a further increase, in the former at least, is impossible, as the work of cultivation occupies the whole of the male population-an evidence surely that a suitable recompense will overcome the natural laziness of the natives.*
+The production in many provinces had reached the extreme limit. A further increase, in the former at least, is impossible, as the work of cultivation occupies the whole of the male population-an evidence surely that a suitable recompense will overcome the natural laziness of the natives.*
 
 An examination of the following table will confirm the accuracy of these views :
 
 Total ...
-
 273,260 | 493,352 | 406,682 | 460,558 | 488,570 | 463,752 
 Commer-Prussian Belgian English 
    cial Consular Consular Consular 
 
 
-The consumption in the country is not contained in the above schedule, and is difficult to ascertain ; but it must certainly be very considerable, as the natives throughout entire provinces are clothed in guinára, the weaving of which for the family requirements generally is done at home. 
+The consumption in the country is difficult to ascertain and is not contained in the table above.
+
+But it is very considerable as the natives <!-- throughout entire provinces --> are clothed in guinára, the weaving of which for the family requirements generally is done at home. 

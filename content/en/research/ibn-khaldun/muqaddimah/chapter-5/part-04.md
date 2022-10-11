@@ -1,15 +1,13 @@
-+++
-title= "Treasure Hunting is not a natural way of making a living"
-description= "Trying to make money from buried and other treasures is not a natural way of making a living"
-image= "/covers/muq.jpg"
-date= 2022-01-30
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-5/part-01"
-linkbtext= "Part 1"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-5/part-05"
-linkftext= "Part 5"
-heading= "Part 4"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "Treasure Hunting is not a natural way of making a living"
+description: "Trying to make money from buried and other treasures is not a natural way of making a living"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2"
+date: 2022-01-24
+---
+
+
 
 <!-- ## 4. Trying to make money from buried and other treasures is not a natural way of making a living -->
 

@@ -1,14 +1,13 @@
-+++
-title= "The Levels of Reality"
-description= "Even though human reality is a uniform element, it has four different levels which lead to different realities."
-image= "/covers/muq.jpg"
-date= 2022-01-23
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-15"
-linkbtext= "Part 15"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-16"
-linkftext= "Part 16"
-heading= "Part 15b"
-+++
+---
+title: "The Levels of Reality"
+description: "Even though human reality is a uniform element, it has four different levels which lead to different realities"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 15b"
+date: 2022-01-03
+---
+
+
 
 
 Even though human reality is a uniform element, it has different levels which lead to different realities. 

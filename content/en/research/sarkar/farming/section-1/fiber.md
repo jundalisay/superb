@@ -42,23 +42,44 @@ Both linseed and soybean take a lot out of the soil, so it is mandatory to use o
 
 ## Jute (Pát)
 
-Jute requires a lot of rainfall, but it cannot tolerate waterlogging. For this reason, it does well on the slopes of Assam. In this respect it is similar to tea.
+Jute requires a lot of rainfall, but it cannot tolerate waterlogging. This is why it does well on the slopes of Assam. 
 
-In the month of Vaeshákha, the soil is tilled and the jute seeds are sown in a seed bed. In the month of Aśádha, the áus variety of paddy is sown, and along with it the transplanted jute seedlings should be grown. In the month of Shravańa, both jute and áus paddy are harvested. 
+In this respect, it is similar to tea.
 
-The harvested jute is soaked in water for a few days to make it ready for processing. When fully processed, the fibres are separated from the stalk and sent for marketing.
+In the month of Vaeshákha, the soil is tilled and the jute seeds are sown in a seed bed. 
 
-After the jute has been harvested, the land can be used for autumn maize, a 60 day crop. Along with this, radish and soybean may also be sown. After harvesting the maize and soybean, radish is harvested and the land utilized for winter crops such as wheat, winter vegetables, etc. At the end of winter, linseed can be harvested for fibre and the seeds used for oil. Radish seeds can also be used to produce oil. 
+In the month of Aśádha, the áus variety of paddy is sown. Along with it, the transplanted jute seedlings should be grown. 
 
-After this, dhaiṋca should be sown to restore the fertility of the soil, because linseed depletes the soil. Dhaiṋca should be ploughed into the land, and in the month of Vaeshákha, jute and áus paddy should again be sown. This is the rotation for a one year fibre crop.
+In the month of Shravańa, both jute and áus paddy are harvested. 
+
+The harvested jute is soaked in water for a few days to make it ready for processing. 
+
+When fully processed, the fibres are separated from the stalk and sent for marketing.
+
+After the jute has been harvested, the land can be used for autumn maize (a 60 day crop) together with radish and soybean<!--  may also be sown -->. 
+
+After harvesting the maize and soybean, radish is harvested and the land utilized for winter crops such as wheat, winter vegetables, etc. 
+
+At the end of winter, linseed can be harvested for fibre and the seeds used for oil. Radish seeds can also be used to produce oil. 
+
+After this, dhaiṋca should be sown to restore the fertility of the soil, because linseed depletes the soil. 
+
+Dhaiṋca should be ploughed into the land. 
+
+In the month of Vaeshákha, jute and áus paddy should again be sown. This is the rotation for a 1 year fibre crop.
 
 There are 2 main varieties of jute:
 - miit́ha pát
 - tiitá pát
 
-Tiitá pát is better for fibre production, but the leaves of miit́ha pát are also useful as a leafy vegetable (miit́ha pát shák).
+Tiitá pát is better for fibre production. But the leaves of miit́ha pát are also useful as a leafy vegetable (miit́ha pát shák).
 
-The seasonal period of jute of inferior quality (mestá pát) is the same as that for hemp and flax. The fruit of mestá pát, kudrum, is a red colour, and the bark is yellow. Mestá pát is not actually jute, but it is often called jute.
+The seasonal period of jute of inferior quality (mestá pát) is the same as that for hemp and flax. 
+
+The fruit of mestá pát, kudrum, is a red colour. The bark is yellow. 
+
+Mestá pát is not actually jute, but it is often called jute.
+
 
 
 ## Pineapple
@@ -139,12 +160,17 @@ Sodium carbonate may be obtained from the banana tree by:
 
 There are numerous products which can be made from the banana tree. 
 
-The fibre is obtained from the trunk of the tree. The greater the size of a tree, the greater the quantity of fibre, but the same rule does not necessarily apply for the quantity of fruit produced by the banana tree. Not more than two offshoot saplings should be allowed to grow from one banana tree. The extra shoots should be cut. There are many varieties of banana.
+The fibre is obtained from the trunk of the tree. The greater the size of a tree, the greater the quantity of fibre, but the same rule does not necessarily apply for the quantity of fruit produced by the banana tree. 
+
+Not more than 2 offshoot saplings should be allowed to grow from one banana tree. The extra shoots should be cut. 
+
+There are many varieties of banana.
+
 
 
 ## Other Fibre Crops
 
-Hemp (ganja, Cannabis indica) is still grown for fibre although there is some restriction on its production due to its use as a narcotic. 
+Hemp (ganja, Cannabis indica) is still grown for fibre although there is some restriction on its production due to its use as a narcotic.
 
 Previously, the West Bengal government grew Cannabis indica in Nogong. But now it is grown in Bankura.
 

@@ -3,8 +3,8 @@ title: "The Mint"
 description: "This is concerned with the stamping of the dinars and dirhams used in commercial transactions"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 5"
-date: 2020-11-09
+heading: "Part 34b"
+date: 2020-11-14
 ---
 
 

@@ -8,15 +8,23 @@ icon: "/flags/in.png"
 ---
 
 
-5 types of plants should be used around lakes: slope plants, boundary plants, wire plants, aquatic plants and surface plants.
+5 types of plants should be used around lakes: 
+
+1. Slope plants
+2. Boundary plants
+3. Wire plants
+4. Aquatic plants
+5. Surface plants
+
+
 
 ## A. Slope plants
 
 - pineapple
 - asparagus
 - aloe vera
-- brinjal
-- chilli. 
+- eggplant
+- chilli
 
 These plants:
 - conserve water and check soil erosion
@@ -24,25 +32,41 @@ These plants:
 
 Slope plants should always be planted in symmetrical horizontal lines and never in vertical lines, as this allows the water to flow away and encourages soil erosion. 
 
-Along with pineapple, asparagus and aloe vera, brinjal and chilli should be planted as per the seasonal order. 
+Along with pineapple, asparagus and aloe vera, eggplant and chilli should be planted as per the seasonal order. 
 
-For example, in the summer season, green leafy summer vegetables, small bitter gourd and summer round brinjal of the makada variety can be planted. In the rainy season, caladium, chilli and rainy season brinjal which is not exactly round can be planted. 
+For example, in the summer season, green leafy summer vegetables, small bitter gourd and summer round eggplant of the makada variety can be planted. 
 
-In the winter season winter red chilli should be planted. This variety of chilli can be dried, packed in bags and sold when the market price is high. It is utilized as a cooking spice. Large, white autumn brinjal can also be planted.
+In the rainy season, caladium, chilli and rainy season eggplant which is not exactly round can be planted. 
 
-Should the slopes beside lakes be terraced? 
+In the winter season, winter red chilli should be planted. This variety can be dried, packed in bags and sold when the market price is high. 
 
-Terraces prevent the run off of surface water and soil erosion. As a general rule, all sloping land should be terraced as far as possible. 
+It is used as a cooking spice. Large, white autumn eggplant can also be planted.
+
+<!-- Should the slopes beside lakes be terraced?  -->
+
+### Terracing is a Must
+
+Terraces prevent the run off of surface water and soil erosion. As a general rule, all sloping land should be terraced as far as possible.
 
 While it may not always be possible to terrace small slopes, large hills and sloping agricultural land should always be terraced. The mounds and furrows on sloping land must be dug perpendicular, not parallel, to the slope. 
 
-Where a gentle slope ends and a steep slope commences, both slopes should be terraced, but the terracing on the steep slope should be constructed high up the slope so that soil erosion and the rapid flow of water is checked. Roads which go through sloping terrain should be constructed so that the water runs off in a regulated way without damaging the land.
+Where a gentle slope ends and a steep slope commences, both slopes should be terraced. But the terracing on the steep slope should be constructed high up the slope so that soil erosion and the rapid flow of water is checked. 
 
-Where the boundary line of a slope touches a river, just above the extreme lowest portion of the slope, a row of banyan and palmyra trees should be planted alternately. Where the slope starts, custard apples, guavas etc. should be planted. 
+Roads which go through sloping terrain should be constructed so that the water runs off in a regulated way without damaging the land.
 
-Between two custard apples and guavas, agave should be planted in the same row, not in separate rows. This system will help to check the soil erosion around the base of a steep slope and also protect the banks of the river.
+Where the boundary line of a slope touches a river, just above the extreme lowest portion of the slope, a row of banyan and palmyra trees should be planted alternately. 
 
-One row of either East Indies or West Indies pineapple can also be planted on the boundary line of any slope between shál and Indian olive, between shaid and cinnamon, or between shál and himalayana devadaru. Also, one row of pineapple can be planted on the boundary line of a slope where it touches a field. The pineapples may or may not bear fruit if there is scanty rainfall, but they will definately check soil erosion. The West Indies variety requires less rainfall than the East Indies variety.
+Where the slope starts, custard apples, guavas etc. should be planted. 
+
+Between 2 custard apples and guavas, agave should be planted in the same row, not in separate rows. 
+
+This system will help to check the soil erosion around the base of a steep slope and also protect the banks of the river.
+
+One row of either East Indies or West Indies pineapple can also be planted on the boundary line of any slope between shál and Indian olive, between shaid and cinnamon, or between shál and himalayana devadaru. 
+
+Also, one row of pineapple can be planted on the boundary line of a slope where it touches a field. 
+
+The pineapples may or may not bear fruit if there is scanty rainfall, but they will definately check soil erosion. The West Indies variety requires less rainfall than the East Indies variety.
 
 
 ## B. Boundary plants
@@ -80,19 +104,26 @@ a brick wall should be built around each lake and topped by angle irons and wire
 
 ## D. Aquatic plants
 
+These are either:
 - thorny
-- non-thorny. 
+- non-thorny
 
 The thorny aquatic plants include:
 - the lotus
 - makhana
-- Victoria regina. 
+- Victoria regina
 
-The lotus produces vegetables and provides organic matter to the water. Makhana seeds are very nutritious and can be sold at a good price. 
+The lotus produces vegetables and provides organic matter to the water. 
+
+Makhana seeds are very nutritious and can be sold at a good price. 
 
 Victoria regina can be grown in beauty spots. All these plants are known for their beauty. Non-thorny aquatic plants include the water lily and the water chestnut. 
 
-The water lily has edible seeds as well as floral nectar, and the water chestnut provides edible roots which can be used as a vegetable or a fruit which is good for the stomach. Aquatic plants can generate income for local people. Thorny and non-thorny aquatic plants should not be grown together.
+The water lily has edible seeds as well as floral nectar. 
+
+The water chestnut provides edible roots which can be used as a vegetable or a fruit which is good for the stomach. 
+
+Aquatic plants can generate income for local people. Thorny and non-thorny aquatic plants should not be grown together.
 
 
 ## E. Surface plants

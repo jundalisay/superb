@@ -3,7 +3,7 @@ title: "The reason for low and high tax revenues"
 description: "At the beginning of the dynasty, taxation yields a large revenue from small assessments. At the end of the dynasty, taxation yields a small revenue from large assessments"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 35b"
+heading: "Part 36"
 date: 2020-11-02
 ---
 

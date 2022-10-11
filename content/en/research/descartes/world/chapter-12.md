@@ -27,5 +27,7 @@ Thus the moon, which always remains as if attached to its exterior surface, must
 
 As for the other effects of this moon, which are different when it is full from when it is new, they manifestly depend on its light. And as for the other special properties of the ebb and flow of the sea, they depend in part on the diverse situation of the seacoasts and in part on the winds prevailing at the time and at the place they are observed. 
 
-Finally, as for the other general motions, both of the earth and moon and of the other stars and heavens, either you can understand them well enough from what I have said, or they do not serve my purpose here; not falling under the same heading as those of which I have spoken, they would take me too long to describe. Thus, there remains for me here only to explain this action of the heavens and the stars that I have just said should be taken to be their light.
+From this, the other general motions, such as that of the earth, moon, the <!-- other --> stars, and heavens, can be understood <!-- either you can understand them well enough --> from what I have said. Or they do not serve my purpose here,<!-- . ; --> not falling under the same heading as those of which I have spoken. They would take me too long to describe. 
+
+Thus, there remains for me here only to explain this action of the heavens and the stars that I have just said should be taken to be their light.
 

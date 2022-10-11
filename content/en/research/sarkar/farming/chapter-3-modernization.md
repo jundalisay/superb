@@ -10,27 +10,81 @@ icon: "/flags/in.png"
 ---
 
 
-PROUT advocates maximum modernization in agriculture and industry. In the cooperative agricultural system, modern equipment must be utilized because such modernization will facilitate increased production. For example, tractors can dig the land very deeply, bring low level soil to the surface and force the the top soil below. The fertility of the top soil is diminished as a result of continuous cultivation, so when the lower soil is brought to the surface through the use of tractors, the productivity of the soil increases. In addition, the depleted top soil has the opportunity to become revitalized for future utilization. 
+PROUT advocates maximum modernization in agriculture and industry.
 
-This is one benefit of tractors. A second is that farmers do not need to maintain cows for ploughing the fields. Where cows are kept for farming, they are unutilized for six months in a year. During that idle period, many costs occur to maintain them properly. The present age is not the age for utilizing large animals. In Europe horses and elephants are no longer used. To adjust with the times, tractors should be utilized today. One tractor equals the service of at least eight pairs of bullocks. Those who have half an acre or three acres of land need to maintain a pair of bullocks. This is wasteful duplication.
+In the cooperative agricultural system, modern equipment must be utilized because such modernization will facilitate increased production. For example, tractors can dig the land very deeply, bring low level soil to the surface and force the the top soil below. 
 
-If modern equipment is used in agriculture, agriculture will not remain labour intensive and people can be utilized in other activities to enhance the development of the country. For this, new arrangements will have to be created. If fewer people work in agricultural cooperatives, there will be substantial savings. Simultaneously, women and children will be freed from related work so they will get scope to develop themselves. In addition, increased mechanization will link the villages to the cities and towns, and as a result the standard of living in the villagers will be increased.
+The fertility of the top soil declines from continuous cultivation.  The productivity of the soil increases when the lower soil is brought to the surface through tractors. 
+
+In addition, the depleted top soil has the opportunity to become revitalized for future utilization. 
+
+This is one benefit of tractors. 
+
+A second is that farmers do not need to maintain cows for ploughing the fields. 
+
+Where cows are kept for farming, they are unutilized for 6 months in a year. During that idle period, many costs occur to maintain them properly. 
+
+The present age is not the age for utilizing large animals. 
+
+In Europe, horses and elephants are no longer used. 
+
+To adjust with the times, tractors should be utilized today. One tractor equals the service of at least 8 pairs of bullocks. Those who have 0.5-3 acres of land need to maintain a pair of bullocks. This is wasteful duplication.
+
+If modern equipment is used in agriculture, agriculture will not remain labour intensive. People can be utilized in other activities<!-- to enhance the development of the country -->. 
+
+For this, new arrangements will have to be created. 
+
+If fewer people work in agricultural cooperatives, there will be substantial savings. Simultaneously, women and children will be freed from related work so they will get scope to develop themselves. 
+
+In addition, increased mechanization will link the villages to the cities and towns, and as a result the standard of living in the villagers will be increased.
 
 
 ## No Intermediaries
 
-In PROUT’s system of agriculture there is no place for intermediaries. Those who invest their capital by engaging others in productive labour to earn a profit are capitalists. Capitalists, like parasites, thrive on the blood of industrial and agricultural labourers. Those who act as intermediaries in the agricultural sector are called “agricultural capitalists”. They get their own land cultivated by others and take the profits.
+In PROUT’s system of agriculture, there is no place for intermediaries.
 
-In India, intermediaries have been in existence since ancient times. Different types of landowners such as zamindars, pattanidars, darpattanidars, sepattanidars, jotedars, vargadars and adhikaris constitute the intermediaries. In modern India the zamindary and sharecropping systems have been abolished, but the feudal psychology has not disappeared. The present feudal rulers are not the actual owners of land. They take land on lease from others and pay a certain percentage of the produce to the owner of the land, thus they exploit both the actual owner of the land and the agricultural labourers. The number of these intermediaries is steadily increasing.
+Capitalists are people who invest their capital by engaging others in productive labour to earn a profit.
 
-PROUT does not support these kinds of intermediaries. Slogans like, “The land belongs to those who work the plough,” or, “Those who sow the seeds should reap the harvest,” are untenable. Policies based on such slogans lead to the creation of a petit bourgeois class.
+Capitalists, like parasites, thrive on the blood of industrial and agricultural labourers. 
+
+“Agricultural capitalists” are those who act as intermediaries in the agricultural sector. 
+- They get their own land cultivated by others and take the profits.
+
+In India, intermediaries have existed since ancient times.
+
+Different types of landowners such as zamindars, pattanidars, darpattanidars, sepattanidars, jotedars, vargadars and adhikaris constitute the intermediaries. 
+
+In modern India, the zamindary and sharecropping systems have been abolished. But the feudal psychology has not disappeared.
+
+**The present feudal rulers are not the actual owners of land.** 
+- They lease the land and pay a certain percentage of the produce to the landowner as rent. <!--  of the land. --> 
+- Thus, they exploit both the landowner and the agricultural labourers.
+
+The number of these intermediaries is steadily increasing.
+
+PROUT does not support these intermediaries. 
+
+Slogans like, “The land belongs to those who work the plough,” or, “Those who sow the seeds should reap the harvest,” are untenable. 
+
+Policies based on such slogans lead to the creation of a petit bourgeois class.
+
 
 
 ## Agrarian Revolution
 
-According to PROUT, in the first phase of agrarian revolution private ownership of land within the cooperative system will be recognized. People should have the right to employ labour for cultivation, but in such cases fifty percent of the total produce should be distributed as wages to the agricultural labourers who work in the cooperative. That is, the owners of the land will get fifty percent of the total produce and those who create the produce through their labour will get the other fifty percent. This ratio must never decrease – rather it should increase in favour of the agricultural labourers who work in the cooperative.
+In the first phase of agrarian revolution in PROUT, private land ownership within the cooperative system will be recognized.
 
-The managerial staff body of the cooperative should only be constituted from among those who have shares in the cooperative. They will be elected. Their positions should not be honorary because that creates scope for corruption. Managers will have to be paid salaries according to the extent of their intellectual expertise. In addition, the members of the cooperative may also employ their manual labour if they so desire, and for this they should be paid separate wages. Thus, cooperative members can earn dividends in two ways – as a return on the land given to the cooperative and on the basis of their productive labour. For this, the total produce of the cooperative should be divided into equal parts – that is, fifty percent on wages for labour, and fifty percent for the shareholders of the land.
+People should have the right to employ labour for cultivation. But in such cases:
+- 50% of the total produce should be distributed as wages to the agricultural labourers who work in the cooperative. 
+- 50% goes to the landowners <!-- of the total produce. --> 
+
+<!-- and those who create the produce through their labour will get the other fifty percent. --> 
+
+This ratio must never decrease – rather it should increase in favour of the agricultural labourers who work in the cooperative.
+
+The managerial staff body of the cooperative should only be constituted from among those who have shares in the cooperative. They will be elected. 
+
+Their positions should not be honorary because that creates scope for corruption. Managers will have to be paid salaries according to the extent of their intellectual expertise. In addition, the members of the cooperative may also employ their manual labour if they so desire, and for this they should be paid separate wages. Thus, cooperative members can earn dividends in two ways – as a return on the land given to the cooperative and on the basis of their productive labour. For this, the total produce of the cooperative should be divided into equal parts – that is, fifty percent on wages for labour, and fifty percent for the shareholders of the land.
 
 
 ## Solving Unemployment

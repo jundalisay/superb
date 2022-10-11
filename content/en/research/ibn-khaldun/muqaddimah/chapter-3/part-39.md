@@ -21,57 +21,46 @@ restricted, because it depends on the position of their master, and the authorit
 group feeling.
 
 Then, when royal authority has come into its own and the ruler has obtained control over his people, he prevents them from getting (any part of) the revenues, beyond their official shares. Their portions shrink, because their usefulness to the
-dynasty has diminished. Their influence has been checked, and clients and followers
-have come to share with them in the support of the dynasty and the establishment of
-its power. At this time, the ruler disposes alone of the whole income from taxes, or
-the greater part of it. He keeps this money, and holds it for spending on important
-projects. His wealth grows. His treasuries are filled. The authority of his position
-expands, and he dominates all his people. As a consequence, the men of his
-entourage and retinue, the wazir, the secretary, the doorkeeper (hajib), the client,
-and the policeman, all become more important, and their positions expand. They
+dynasty has diminished. Their influence has been checked, and clients and followers have come to share with them in the support of the dynasty and the establishment of its power. At this time, the ruler disposes alone of the whole income from taxes, or the greater part of it. 
+
+He keeps this money, and holds it for spending on important projects. His wealth grows. His treasuries are filled. The authority of his position expands, and he dominates all his people. As a consequence, the men of his entourage and retinue, the wazir, the secretary, the doorkeeper (hajib), the client, and the policeman, all become more important, and their positions expand. They
 acquire property and enrich themselves.
 
-Then, when the dynasty starts to become senile, as the result of the dissolution of group feeling and the disappearance of the tribe that founded it, the ruler needs supporters and helpers, because there are then many seceders, rivals, and
-rebels, and there is the fear of (complete) destruction. His revenues then go to his
-allies and supporters, military men who have their own group feelings. He spends
-his treasures and revenues on attempts to restore (the power of) the dynasty 661
-Moreover, the revenue from taxes decreases, as we have stated before 662 because
-there are many allowances to be paid and expenditures to be made. The revenues
-from the land tax decrease. The dynasty's need for money becomes more urgent. The
-intimates, the doorkeepers (hajib), and the secretaries no longer live under the
-shadow of prosperity and luxury, as their positions lose importance and the authority
-of the ruler's (position) shrinks.
+Then, when the dynasty starts to become senile, as the result of the dissolution of group feeling and the disappearance of the tribe that founded it, the ruler needs supporters and helpers, because there are then many seceders, rivals, and rebels, and there is the fear of (complete) destruction. 
 
-The ruler's need for money at this time becomes even more urgent. The new
-generation within his inner circle and entourage spend the money with which their
-fathers had enriched themselves, for a purpose for which it was not intended,
-namely, that of helping the ruler. They begin to be no longer as sincerely loyal as
-their fathers and ancestors had been. The ruler, in turn, becomes of the opinion that
-he is more entitled than they to the wealth that was acquired (by their fathers) duringthe reign of his predecessors and with the help of their position. He takes it and
-appropriates it for himself, gradually (and) according to their ranks. (As a result,) the
+His revenues then go to his allies and supporters, military men who have their own group feelings. He spends his treasures and revenues on attempts to restore (the power of) the dynasty <!-- 661  -->.
+
+Moreover, the revenue from taxes decreases because there are many allowances to be paid and expenditures to be made. The revenues
+from the land tax decrease. The dynasty's need for money becomes more urgent. 
+
+The intimates, the doorkeepers (hajib), and the secretaries no longer live under the shadow of prosperity and luxury, as their positions lose importance and the authority of the ruler's (position) shrinks.
+
+The ruler's need for money at this time becomes even more urgent. The new generation within his inner circle and entourage spend the money with which their fathers had enriched themselves, for a purpose for which it was not intended, namely, that of helping the ruler. They begin to be no longer as sincerely loyal as their fathers and ancestors had been. The ruler, in turn, becomes of the opinion that he is more entitled than they to the wealth that was acquired (by their fathers) duringthe reign of his predecessors and with the help of their position. 
+
+He takes it and appropriates it for himself, gradually (and) according to their ranks. (As a result,) the
 dynasty becomes detestable 663 to them, and, in turn, it is the dynasty that suffers
 therefrom. It loses its entourage and great personalities and its rich and wealthy
 intimates. A great part of the edifice of glory crumbles, after having been supported
 and built up to a great height by those who shared in it.
 
-One may compare what happened in this regard to the 'Abbasid wazirs, such
-as the Banu Qahtabah, the Barmecides, the Banu Sahl, the Banu Tahir, and others.
-One may further (compare) what happened at the time of the dissolution of the
-Umayyad dynasty in Spain in the days of the reyes de taifas, to the Banu Shuhayd,
-the Banu Abi 'Abdah, the Banu Hudayr, the Banu Burd, and others. The same is
-happening in the dynasty we have lived to see in our own time. "This is how God
-proceeds. . . . And verily, you will not be able to change God's way." 664
-Anticipating such dangerous situations, most of the people in the dynasty try
-to avoid holding any government position. They try to escape from government
-control and go to some other region with the government property they have
-acquired. They are of the opinion that (to do) this will be more wholesome for them
-and give them the opportunity to spend and enjoy (their money) in greater safety.
-This assumption is a great mistake and a self-deception that will ruin them
-materially.
+One may compare what happened in this regard to the 'Abbasid wazirs, such as the Banu Qahtabah, the Barmecides, the Banu Sahl, the Banu Tahir, and others.
+
+One may further (compare) what happened at the time of the dissolution of the Umayyad dynasty in Spain in the days of the reyes de taifas, to the Banu Shuhayd, the Banu Abi 'Abdah, the Banu Hudayr, the Banu Burd, and others. The same is
+happening in the dynasty we have lived to see in our own time. "This is how God proceeds. . . . 
+
+And verily, you will not be able to change God's way." 664
+
+Anticipating such dangerous situations, most of the people in the dynasty try to avoid holding any government position. 
+- They try to escape from government control and go to some other region with the government property they have
+acquired. 
+- They think that to do this will be more wholesome for them and give them the opportunity to spend and enjoy (their money) in greater safety. 
+
+This assumption is a great mistake and a self-deception that will ruin them materially.
 
 It is impossible to escape (from official life) after having once been in it. When the person who has such intentions is the ruler himself, his subjects and the people who share in his group feeling and crowd
-around him will not for a moment permit him to escape. If any such (intention) on
-his part becomes visible, it means the destruction of his realm and the ruin of
+around him will not for a moment permit him to escape. 
+
+If any such (intention) on his part becomes visible, it means the destruction of his realm and the ruin of
 himself. (This would be) the usual result in such a case, for it is difficult to escape
 from the servitude of royal authority, especially when the dynasty has reached its
 peak and its authority is shrinking, and it is becoming more remote from glory and
@@ -141,9 +130,8 @@ necessity is an erroneous and baseless assumption.
 
 
 The renown they obtain in government service suffices for them to find livelihoods for themselves, either in the
-form of a salary paid by a ruler or in the form of a position in the profitable exercise
-of commerce and agriculture. Dynasties are (inter) related, 670 but The soul is
-ambitious, if it is given the opportunity. 671 But if it is reduced to little, it is
-satisfied.
+form of a salary paid by a ruler or in the form of a position in the profitable exercise of commerce and agriculture. Dynasties are (inter) related, <!-- 670 --> but The soul is ambitious, if it is given the opportunity.<!--  671 --> 
+
+But if it is reduced to little, it is satisfied.
 
 <!-- God "gives sustenance. He is strong and solid." 672 -->

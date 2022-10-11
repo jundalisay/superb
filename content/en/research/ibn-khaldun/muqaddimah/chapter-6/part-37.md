@@ -1,20 +1,16 @@
-+++
-title= "The study of the auxiliary sciences should not be prolonged"
-description= "The occupation with the auxiliary sciences constitutes a waste of one's life, occupation with something that is of no concern"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-date= 2022-01-04
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-34"
-linkbtext= "Part 34"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-39"
-linkftext= "Part 39"
-heading= "Part 37"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "The study of the auxiliary sciences should not be prolonged"
+description: "The occupation with the auxiliary sciences constitutes a waste of one's life, occupation with something that is of no concern"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 37"
+date: 2021-11-10
+---
+
 
 <!-- ## 37. The study of the auxiliary sciences should not be prolonged, and their problems should not be treated in detail.1171 -->
 
-There are two kinds of sciences= 
+There are 2 kinds of sciences:
 
 1. The religious sciences
 

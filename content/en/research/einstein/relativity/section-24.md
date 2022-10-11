@@ -43,7 +43,9 @@ Let us say that the rods “expand” with the increase of temperature. We heat 
 
 We also can no longer use <!-- , and we are also no longer in the position of defining --> Cartesian coordinates<!--  directly with their aid , since the above construction can no longer be carried out.--> But since there are other things which are not influenced in a similar manner to the little rods (or perhaps not at all) by the temperature of the table, it is possible quite naturally to maintain the point of view that the marble slab is a “Euclidean continuum.” This can be done  by making a more subtle stipulation about the measurement or the comparison of lengths.
 
-But if rods of every kind (i.e. of every material) were to behave in the same way as regards the influence of temperature when they are on the variably heated marble slab, and if we had no other means of detecting the effect of temperature than the geometrical behaviour of our rods in experiments analogous to the one described above, then our best plan would be to assign the distance one to two points on the slab, provided that the ends of one of our rods could be made to coincide with these two points. How else should we define the distance without our proceeding being in the highest measure grossly arbitrary? 
+But if rods of every kind (i.e. of every material) were to behave in the same way as regards the influence of temperature when they are on the variably heated marble slab, and if we had no other means of detecting the effect of temperature than the geometrical behaviour of our rods in experiments analogous to the one described above, then our best plan would be to assign the distance one to two points on the slab, provided that the ends of one of our rods could be made to coincide with these two points. 
+
+How else should we define the distance without our proceeding being in the highest measure grossly arbitrary? 
 
 Cartesian coordinates must then be discarded and replaced by another system which does not assume the validity of Euclidean geometry for rigid bodies*. 
 

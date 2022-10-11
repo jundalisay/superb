@@ -1,26 +1,31 @@
-+++
-title= "Severity to students does them harm"
-description= "Severe punishment during teaching harms the student, especially little children, because it belongs among the things that make for a bad habit"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-date= 2022-01-03
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-37"
-linkbtext= "Part 37"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-42"
-linkftext= "Part 42"
-heading= "Part 39"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "Severity to students does them harm"
+description: "Severe punishment during teaching harms the student, especially little children, because it belongs among the things that make for a bad habit"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 37"
+date: 2021-11-08
+---
+
+
 
 <!-- ## 39. Severity to students does them harm -->
 
-Severe punishment during teaching harms the student, especially little children, because it belongs among the things that make for a bad habit. Students, 1191 slaves, and servants who are brought up with injustice and (tyrannical) force are overcome by it. It makes them feel oppressed and causes them to lose their energy. It makes them lazy and induces them to lie and be insincere. 
+Severe punishment during teaching harms the student, especially little children, because it belongs among the things that make for a bad habit. 
+
+Students, <!-- 1191 --> slaves, and servants who are brought up with injustice and (tyrannical) force are overcome by it. It makes them feel oppressed and causes them to lose their energy. It makes them lazy and induces them to lie and be insincere. 
 
 That is, their outward behavior differs from what they are thinking, because they are afraid that they will have to suffer tyrannical treatment (if they tell the truth). Thus, they are taught deceit and trickery. 
 
-This becomes their custom and character. They lose the quality that goes with social and political organization and makes people human, namely, (the desire to) protect and defend themselves and their homes, and they become dependent on others. 1192 Indeed, their souls become too indolent to (attempt to) acquire the virtues and good character qualities. Thus, they fall short of their potentialities and do not reach the limit of their humanity. As a result, they revert to the stage of "the lowest of the low." 1193
+This becomes their custom and character. They lose the quality that goes with social and political organization and makes people human, namely, (the desire to) protect and defend themselves and their homes, and they become dependent on others. <!-- 1192 --> 
 
-That 1194 is what happened to every nation that fell under the yoke of tyranny and learned through it the meaning of injustice. One may check this by (observing) any person who is not in control of his own affairs and has no authority on his side to guarantee his (safety). 
+Their souls become too indolent to (attempt to) acquire the virtues and good character qualities. 
+
+Thus, they fall short of their potentialities and do not reach the limit of their humanity. As a result, they revert to the stage of "the lowest of the low." <!-- 1193 -->
+
+That <!-- 1194 --> is what happened to every nation that fell under the yoke of tyranny and learned through it the meaning of injustice. 
+
+One may check this by (observing) any person who is not in control of his own affairs and has no authority on his side to guarantee his (safety). 
 
 One will thus be able to infer (from the observable facts) that things are (as I have stated). One may look at the Jews and the bad character they have acquired, 1195 such that they are described in every region and period as having the quality of khurj, 1196 which, according to well-known technical terminology, means "insincerity and trickery." The reason is what we have (just) said.
 
@@ -34,7 +39,10 @@ One of the best methods of education was suggested by ar-Rashid to Khalaf b. Ahm
 
 Occupy in relation to him the place that the Commander of the Faithful has given you. Teach him to read the Qur'an. Instruct him in history. Let him transmit poems and teach him the Sunnah of the Prophet. Give him insight into the proper occasions for speech and how to begin a (speech). Forbid him to laugh, save at times when it is proper. 
 
-Accustom him to honor the Hashimite dignitaries 1200 whenthey come to him, and to give the military leaders places of honor when they come to his salon. Let no hour pass in which you not seize the opportunity to teach him something useful. But do so without vexing him, which would kill his mind. Do not always be too lenient with him, or he will get to like leisure and become used to it. As much as possible, correct him kindly and gently. If he does not want it that way, you must then use severity and harshness.' "
+Accustom him to honor the Hashimite dignitaries 1200 whenthey come to him, and to give the military leaders places of honor when they come to his salon. Let no hour pass in which you not seize the opportunity to teach him something useful. But do so without vexing him, which would kill his mind.
+
+Do not always be too lenient with him, or he will get to like leisure and become used to it. As much as possible, correct him kindly and gently. If he does not want it that way, you must then use severity and harshness.' "
+
 
 ## 40. A scholar's education is greatly improved by traveling in quest of knowledge and meeting the authoritative teachers (of his time).
 
@@ -50,9 +58,10 @@ He will realize that (terminologies) are (merely) means and methods for impartin
 This is for those for whom God facilitated the ways of scholarship and right guidance. Thus, traveling in quest of knowledge is absolutely necessary for the acquisition of useful knowledge and perfection through meeting authoritative teachers (shaykhs) and having contact with (scholarly) personalities. God "guides whomever He wants to guide to a straight path." 1202
 
 
-## 41. Scholars are, of all people, those least familiar with the ways of politics.
 
-The 1203 reason for this is that (scholars) are used to mental speculation and to a searching study of ideas which they abstract from the sensibilia and conceive in their minds as general universals, so that they may be applicable to some matter in general but not to any particular matter, individual, race, nation, or group of people.
+## 41. Scholars are least familiar with the ways of politics
+
+This is because scholars are used to mental speculation and to a searching study of ideas which they abstract from the sensibilia and conceive in their minds as general universals, so that they may be applicable to some matter in general but not to any particular matter, individual, race, nation, or group of people.
 
 Scholars, then, make such universal ideas conform (in their minds) to facts of the outside world. They also compare things with others that are similar to or like them, with the help of analogical reasoning as used in jurisprudence, which is something familiar to them. All their conclusions and views continue to be something in the mind. 
 

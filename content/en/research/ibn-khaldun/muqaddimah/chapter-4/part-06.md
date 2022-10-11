@@ -11,6 +11,7 @@ heading= "Part 6"
 icon = "/icons/ibn.jpg"
 +++
 
+
 ## The mosques and venerated buildings of the world.
 
 God singled out some places of the earth for special honor and made them the homes of His worship. <!-- (People who worship in them) receive a much greater reward and recompense (than people who worship elsewhere).  -->

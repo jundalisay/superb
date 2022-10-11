@@ -1,15 +1,12 @@
-+++
-title= "The urban population is generally deficient in linguistics"
-description= "The more remote urban people are from the Arabic language, the more difficult it is for them to obtain it"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-date= 2021-12-28
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-50"
-linkbtext= "Part 50"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-52"
-linkftext= "Part 52"
-heading= "Part 51"
-+++
+---
+title: "The urban population is generally deficient in linguistics"
+description: "The more remote urban people are from the Arabic language, the more difficult it is for them to obtain it"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 51"
+date: 2021-10-16
+---
+
 
 <!-- ## 51. The urban population is generally deficient in obtaining the linguistic habit that results from instruction -->
 

@@ -1,18 +1,21 @@
-+++
-title= "Iram"
-heading= "Introduction Part 2"
-description= "History is a discipline that is very useful and has many different approaches"
-image= "/covers/muq.jpg"
-date= "2020-01-01"
-linkb= "/research/ibn-khaldun/muqaddimah/"
-linkbtext= "Index"
-linkf= "/research/ibn-khaldun/muqaddimah"
-linkftext= "Index"
-icon = "/icons/soc.png"
-+++
+---
+title: "Iram"
+description: "Iram was a city having columns. Ad b. Us b. Iram had two sons Shadid and Shaddid, who ruled after him"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2"
+date: 2021-10-28
+---
 
 
-Iram was a city having columns. Ad b. Us b. Iram had two sons Shadid and Shaddid, who ruled after him. Shadid perished. Shaddad became the sole ruler of the realm, and the kings there submitted to his authority. 
+
+Iram was a city with columns. 
+
+Ad b. Us b. Iram had 2 sons:
+- Shadid
+- Shaddid
+
+who ruled after him. Shadid perished. Shaddad became the sole ruler of the realm, and the kings there submitted to his authority. 
 
 When Shaddad heard a description of Paradise, he said= "I shall build something like it."
 

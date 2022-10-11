@@ -1,14 +1,13 @@
-+++
-title= "The Quranic sciences"
-description= "The Quran is the word of God that was revealed to His Prophet. It was written down between the two covers of copies of the Qur'an (mushaf). Its transmission has been continuous in Islam"
-image= "/covers/muq.jpg"
-date= 2020-01-29
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-06"
-linkbtext= "Part 6"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-11"
-linkftext= "Part 11"
-heading= "Part 8"
-+++
+---
+title: "The Quranic sciences"
+description: "The Quran is the word of God that was revealed to His Prophet. It was written down between the two covers of copies of the Qur'an (mushaf). Its transmission has been continuous in Islam"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 10"
+date: 2022-01-24
+---
+
+
 
 <!-- ## 10. The Qur'anic sciences of Qur'an interpretation and Qur'an reading -->
 

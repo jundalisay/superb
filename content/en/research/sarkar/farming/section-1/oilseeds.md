@@ -146,7 +146,10 @@ If the soil is good, three year cotton can be planted.
 
 Sarguja is often grown in tribal areas. The plants are small and it is a winter crop which even grows on poor, stony soil. The oil has a distinctive smell, but it can be made fit for consumption after decolourisation and deodourisation.
 
-The method of sowing sargujá is as follows. The seeds should be soaked overnight in water and then sown between two groundnuts. In the irrigation canal or furrow between the rows of the field (the nala), sprouted soybean should be sown.
+To sowing sargujá, the seeds should be soaked overnight and then sown between 2 peanuts. 
+
+In the irrigation canal or furrow between the rows of the field (the nala), sprouted soybean should be sown.
+
 
 
 ## Castor (Erańd́a, Ŕeŕi, Ricinus Communis)

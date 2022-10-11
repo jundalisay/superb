@@ -8,7 +8,8 @@ image: "/covers/rel.jpg"
 
 
 
-<!-- In Part 1, --> We used space-time coordinates which allowed a simple and direct physical interpretation as 4D Cartesian co-ordinates in Section 26. This was possible through the <!-- law of the --> constant speed <!-- of the velocity --> of light [of Special Relativity]. 
+<!-- In Part 1, --> 
+We used space-time coordinates which allowed a simple and direct physical interpretation as 4D Cartesian co-ordinates in Section 26. This was possible through the <!-- law of the --> constant speed <!-- of the velocity --> of light [of Special Relativity]. 
 
 But according to Section 22, General Relativity (GR) cannot retain this law because, to GR, **the speed of light must always depend on the coordinates when a gravitational field is present.**
 

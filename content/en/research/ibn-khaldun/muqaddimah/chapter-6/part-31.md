@@ -1,22 +1,21 @@
-+++
-title= "Astrology is wrong, has weak achievements, harmful goal"
-description= "Astrologers think that astrology enables them to know the things that are going to be in the world of the elements, before they are created"
-image= "/covers/muq.jpg"
-date= 2022-01-09
-author= "Ibn Khaldun"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-30"
-linkbtext= "Part 30"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-32"
-linkftext= "Part 32"
-heading= "Part 31"
-+++
+---
+title: "Astrology is wrong, has weak achievements, harmful goal"
+description: "Astrologers think that astrology enables them to know the things that are going to be in the world of the elements, before they are created"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 31"
+date: 2021-11-20
+---
 
 
-Astrologers think that astrology, with the knowledge it gives of astral powers, individually or in combination, and of astral influences upon elemental creations, enables them to know the things that are going to be in the world of the elements, before they are created. The positions of the spheres and the stars (are)
-thus (taken to) indicate every single kind of future event, both universal and individual.
 
-The ancient (astrologers) were of the opinion that the knowledge of astral powers and influence is acquired through experience. It (thus) is something that all
-(human) lives combined would not be able to achieve, because experience is obtained through numerous repetitions which make the obtainment of (empirical)
+Astrologers think that astrology, with the knowledge it gives of astral powers, individually or in combination, and of astral influences upon elemental creations, enables them to know the things that are going to be in the world of the elements, before they are created. 
+
+The positions of the spheres and the stars are thus taken to indicate every single kind of future event, both universal and individual.
+
+The ancient (astrologers) were of the opinion that the knowledge of astral powers and influence is acquired through experience. 
+
+It (thus) is something that all human lives combined would not be able to achieve, because experience is obtained through numerous repetitions which make the obtainment of (empirical)
 knowledge or conjectures possible. Astral revolutions may be very long. 
 
 Greatly extended periods of time are required for their repetition. Even (all) the lives 1044 in
@@ -110,11 +109,11 @@ Constantly, I ask God for forgiveness. Gone is life and ease.
 In Tunis, both in the morning and in the evening
 And the morning belongs to God as does the evening -
 There is fear and hunger and death, Stirred up by tumult and pestilence.
-People are in rebellion and at war
-Rarely does anything good come out of rebellion.
-The partisans of Ahmad think that perdition And ruin have descended upon
-'Ali. 1060
-And the others say= He ('Ali) will be brought (back) To you by a mild
+People are in rebellion and at war Rarely does anything good come out of rebellion.
+
+The partisans of Ahmad think that perdition And ruin have descended upon Ali. <!-- 1060 -->
+
+And the others say: He ('Ali) will be brought (back) To you by a mild
 zephyr.
 
 God is above this one and that one.

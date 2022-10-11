@@ -41,7 +41,7 @@ Every body can be divided into extremely small parts*. <!-- I do not wish to det
 - if two of these small parts are touching one another, without being in the act[12] of moving away from one another, some force is necessary to separate them, however small it may be. <!-- For, once so placed, they would never be inclined to dispose themselves otherwise. Note also that  -->
 - Twice as much force is necessary to separate two of them than to separate one of them. 1,000 times as much force is necessary to separate 1,0000 of them. 
 
-> *Superphysics Note= The previous chapter explained quanta in movement. This chapter explains quanta in bodies which is the foundation for our quanum of aether, quanum of spacetime, quanum of light, etc  
+> *Superphysics Note: The previous chapter explained quanta in movement. This chapter explains quanta in bodies which is the foundation for our quanum of aether, quanum of spacetime, quanum of light, etc  
 
 
 Thus, a sensible force is necessary to separate several millions of them all at once. <!-- , as is perhaps necessary in order to break a single hair, it is not surprising that . -->

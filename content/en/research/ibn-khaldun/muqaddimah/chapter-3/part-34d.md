@@ -3,8 +3,8 @@ title: "The Seal"
 description: "The use of the seal is one of the government functions and a royal office"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 33d"
-date: 2020-11-14
+heading: "Part 34d"
+date: 2020-11-10
 ---
 
 
@@ -65,21 +65,24 @@ It is also possible to impress a seal upon some soft substance, so that the lett
 
 The first to introduce the sealing of letters, that is, the use of the signature, was Mu'awiyah. He ordered 'Amr b. az-Zubayr to be given 100,000 (dirhams) by Ziyad (b. Abthi) in al-Kufah. The letter (containing the order) was opened, and the figure was changed from 100,000 to 200,000. When Ziyad presented his account (and the excess payment was noticed), Mu'awiyah disavowed it. 
 
-He held 'Amr responsible for the money and kept him in prison until ('Amr's) brother 'Abdallah
-paid (the sum) for him. On that occasion, Mu'awiyah introduced the ministry (diwan) of the seal. This was mentioned by at-Tabari 591 who finished his statement by saying that "he tied the letters with strings. Formerly, they had not been tied:" It means, he closed them.
+He held 'Amr responsible for the money and kept him in prison until ('Amr's) brother 'Abdallah paid (the sum) for him. On that occasion, Mu'awiyah introduced the ministry (diwan) of the seal. This was mentioned by at-Tabari <!-- 591 --> who finished his statement by saying that "he tied the letters with strings. Formerly, they had not been tied:" It means, he closed them.
 
-The ministry (diwan) of the seal is composed of the secretaries who see to it that the letters of the ruler are expedited and sealed, either by means of a signature, or by tying them. The word diwan is used for the place where these secretaries had their office, as we mentioned in connection with the ministry (diwan) of taxation. 592
+The ministry diwan of the seal is composed of the secretaries who see to it that the letters of the ruler are expedited and sealed, either by means of a signature, or by tying them. The word diwan is used for the place where these secretaries had their office, as we mentioned in connection with the ministry diwan of taxation. 592
 
-Letters are tied either by piercing the paper and tacking (the letter) together with a string, as is the custom of the secretaries of the Maghrib, or by gluing the top of the sheet to the part of the letter over which the top is folded, as is the custom of the people in the East. Over the place where the letter is pierced and tacked, or where it is glued, a signature is placed. 
+Letters are tied either by piercing the paper and tacking the letter together with a string, as is the custom of the secretaries of the Maghrib, or by gluing the top of the sheet to the part of the letter over which the top is folded, as is the custom of the people in the East. Over the place where the letter is pierced and tacked, or where it is glued, a signature is placed. 
 
 It guarantees that the letter has not been opened and that its contents have not been read. The people of the Maghrib place a piece of wax where the letter is pierced and tacked, and seal it with a seal upon which some signature is engraved for use in sealing, and the engraving is impressed upon the wax.
 
-In the old dynasties of the East, the place where the letter was glued was also sealed with an engraved seal that was put into a red paste of clay prepared for that (purpose). The engraving of the seal was impressed upon the clay. 
+In the old dynasties of the East, the place where the letter was glued was also sealed with an engraved seal that was put into a red paste of clay prepared for that purpose. The engraving of the seal was impressed upon the clay. 
 
-Under the Abbasid dynasty, this clay was called "sealing clay." It was imported from Siraf. 593
+Under the Abbasid dynasty, this clay was called "sealing clay." It was imported from Siraf. <!-- 593 -->
 
 This clay was restricted to the purpose of sealing.
 
-The use of the seal, which is the (hand)written signature or engraving used for closing and tying letters, was peculiar to the ministry of correspondence (diwan ar-rasa'il). In the 'Abbasid dynasty, it belonged to the wazir. Later on, custom differed. It went to those who were in charge of (official) correspondence and the office of the secretaries in the (various) dynasties. In the dynasties of the Maghrib, people came to consider the seal ring as one of the royal marks and emblems. 
+The use of the seal, which is the (hand)written signature or engraving used for closing and tying letters, was peculiar to the ministry of correspondence (diwan ar-rasa'il). In the 'Abbasid dynasty, it belonged to the wazir. 
 
-They made artistic seal rings of gold inlaid with gems of hyacinth (ruby), turquoise, and emerald. The ruler according to their custom wore the seal ring as an insignia, exactly as the Prophet's cloak and stick 594 were used in the 'Abbasid dynasty and an umbrella in the 'Ubaydid (-Fatimid) dynasty.
+Later on, custom differed. It went to those who were in charge of (official) correspondence and the office of the secretaries in the various dynasties. 
+
+In the dynasties of the Maghrib, people came to consider the seal ring as one of the royal marks and emblems. 
+
+They made artistic seal rings of gold inlaid with gems of hyacinth (ruby), turquoise, and emerald. The ruler according to their custom wore the seal ring as an insignia, exactly as the Prophet's cloak and stick <!-- 594 --> were used in the Abbasid dynasty and an umbrella in the Ubaydid (Fatimid) dynasty.

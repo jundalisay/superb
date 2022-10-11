@@ -1,15 +1,11 @@
-+++
-title= "History"
-heading= "Introduction Part 4"
-description= "History is a discipline that is very useful and has many different approaches"
-image= "/covers/muq.jpg"
-date= "2020-01-01"
-linkb= "/research/ibn-khaldun/muqaddimah/"
-linkbtext= "Index"
-linkf= "/research/ibn-khaldun/muqaddimah"
-linkftext= "Index"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "Historical Errors"
+description: "Another illustration of this kind of error is the baseless conclusion critical readers of historical works draw when they hear about the position of judges and about the leadership in war and the command of armies that judges (formerly) exercised"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 4"
+date: 2021-10-20
+---
 
 
 Another illustration of this kind of error is the baseless conclusion critical readers of historical works draw when they hear about the position of judges and about the leadership in war and the command of armies that judges (formerly) exercised. 
@@ -144,4 +140,4 @@ we have indicated it satisfactorily.
 
 Had we spelled it by using only one letter (sound) adjacent to it on either side, 185a we would have changed its proper pronunciation to the pronunciation of the particular letter (sound) in our own language (which we might have used), and we would have altered the way people speak. 
 
-God gives success
+<!-- God gives success -->

@@ -1,15 +1,14 @@
-+++
-title= "How does the stone that makes alchemy work?"
-description= "This studies the substance through which the generation of gold and silver may be artificially accomplished, and comments on the operation leading to it"
-image= "/covers/muq.jpg"
-date= 2022-01-11
-author= "Ibn Khaldun"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-29"
-linkbtext= "Part 29"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-30"
-linkftext= "Part 30"
-heading= "Part 29"
-+++
+---
+title: "How does the stone that makes alchemy work?"
+description: "Some philosophers have thought such a stone is found in animals, plants, minerals, or in everything"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 29b"
+date: 2021-11-26
+---
+
+
+
 
 
 Some philosophers have thought such a stone is found in animals, plants, minerals, or in everything. 

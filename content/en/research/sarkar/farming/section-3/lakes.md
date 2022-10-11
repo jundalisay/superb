@@ -16,6 +16,7 @@ This can best be accomplished by:
 
 The cheapest and easiest method of creating new water storage systems is to construct small-scale ponds and lakes.
 
+
 ## Location of artificial ponds and lakes
 
 In the rainy season observe where the surface water flows – its currents and directions – and where the rivulets created from the rain water converge together. 

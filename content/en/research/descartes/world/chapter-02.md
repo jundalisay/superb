@@ -47,7 +47,7 @@ I add nothing concerning the direction in which each moves. For, if you consider
 
 The power to move and the power that determines that motion's direction are two completely different things. These can exist one without the other (as I have set out in the Dioptrics)[9]. Each part moves in the way least difficult* for it by the bodies around it.[10]
 
-> *Superphysics note= This is the path of least resistance for each quantum
+> *Superphysics note: This is the path of least resistance for each quantum
 
 
 

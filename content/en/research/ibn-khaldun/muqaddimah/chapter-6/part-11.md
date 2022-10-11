@@ -1,23 +1,20 @@
-+++
-title= "The Hadith: sciences concerned with Prophetic traditions"
-description= "There are many and varied hadith. One of them concerns abrogating and abrogated traditions. The permission to abrogate previous statements and the occurrence of abrogation have been established in our religious law"
-image= "/covers/muq.jpg"
-date= 2022-01-28
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-08"
-linkbtext= "Part 8"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-12"
-linkftext= "Part 12"
-heading= "Part 11"
-+++
+---
+title: "The Hadith: sciences concerned with Prophetic traditions"
+description: "There are many and varied hadith. One of them concerns abrogating and abrogated traditions. The permission to abrogate previous statements and the occurrence of abrogation have been established in our religious law"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 10"
+date: 2022-01-22
+---
+
 
 
 There are many and varied hadith. One of them concerns abrogating and abrogated traditions. The permission to
 abrogate previous statements and the occurrence of abrogation have been established in our religious law. 
 
-It is a favor shown by God to His servants and a kind of relief granted them to help them along in matters affecting their well-being (masalih) for which He is responsible to them. God said= "Whenever We abrogate a
-verse or consign it to oblivion, We bring one that is better, or as good." 108
+It is a favor shown by God to His servants and a kind of relief granted them to help them along in matters affecting their well-being (masalih) for which He is responsible to them. God said: "Whenever We abrogate a verse or consign it to oblivion, We bring one that is better, or as good." <!-- 108 -->
 
-The 109 knowledge of abrogating and abrogated verses belongs both to the Qur'an and to the traditions. 
+The <!-- 109 --> knowledge of abrogating and abrogated verses belongs both to the Qur'an and to the traditions. 
 
 Everything about (abrogation), as far as it concerns the Qur'an, is included in the Qur'an commentaries. Whatever is restricted to traditions falls under the sciences of tradition.
 
@@ -186,9 +183,9 @@ The knowledge of all these conditions and technical terms is the science of trad
 There are famous works by scholars on that subject. Then, there are the homonyms. Scholars have written a great many works on the science of traditions. An outstanding hadith scholar was Abd 'Abdallah al-Hakim. His works on the subject
 are famous. He improved the science of tradition and presented it to its best advantage.'"
 
-The most famous work by a modern scholar on the subject is the book by .Abu 'Amr b. as-Salah. He lived in the early part of the 13th century. 
-
-His example was followed by Muhyi-ad-din an-Nawawi.
+The most famous work by a modern scholar on the subject is the book by Abu 'Amr b. as-Salah. 
+- He lived in the early part of the 13th century. 
+- His example was followed by Muhyi-ad-din an-Nawawi.
 
 The purpose of the discipline is a noble one. It is concerned with the knowledge of how to preserve the traditions (sunan) transmitted on the authority of the Master of the religious law.
 

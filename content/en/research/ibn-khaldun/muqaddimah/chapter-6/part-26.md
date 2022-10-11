@@ -1,16 +1,11 @@
-+++
-title= "The science of metaphysics"
-description= "This studies the substance through which the generation of gold and silver may be artificially accomplished, and comments on the operation leading to it"
-image= "/covers/muq.jpg"
-date= 2022-01-14
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-23"
-linkbtext= "Part 23"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-26"
-linkftext= "Part 28"
-heading= "Part 26"
-+++
-
-<!-- ## 26. The science of metaphysics -->
+---
+title: "The Science of Metaphysics"
+description: "This studies the substance through which the generation of gold and silver may be artificially accomplished, and comments on the operation leading to it"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 26"
+date: 2021-12-06
+---
 
 This studies existence. 
 

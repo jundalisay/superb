@@ -59,26 +59,52 @@ Research should be done on garlic to pinpoint its medicinal properties, and to a
 
 ## Onion (Piaz)
 
-The Saḿskrta word for onion is “sukarkanda”. In Hindi it is called “piaz” and in Bengali “pianz”. 
+Language | Word
+--- | ---
+Saḿskrta | sukarkanda
+Hindi | piaz
+Bengali | pianz
 
-Like garlic, onion has some medicinal value. It helps to bring out hidden diseases, although it also has negative effects. The medicinal value of onion minus its negative effects can be utilized if onion is used in ways other than eating it, such as in the form of onion oil. 
+
+Like garlic, onion has some medicinal value. 
+
+It helps to bring out hidden diseases, although it also has negative effects. 
+
+**The medicinal value of onion minus its negative effects can be utilized if onion is used in ways other than eating it, such as in the form of onion oil.**
 
 Onion is also a good blended crop with rice in certain seasons. Onions can be sold at good prices in Bangladesh and Arab countries.
 
-The method for rotating onion crops is as follows. In the month of Paoś, onion seeds are sown. The seedlings should be transplanted along with late boro paddy in the month of Mágha. In the middle of Vaeshákha, the late boro should be harvested. After that, the onions should be dug up. These small onions (chota piaú or kali piaz) are very pungent. The soil requirements for small onions are the same as for áman paddy, that is, clay soil. These small onions should then be sown with early boro paddy. 
+The method for rotating onion crops is as follows. 
 
-Small onion is a winter crop. The top can be used as a green leafy vegetable. After harvesting early boro, the large onion bulb (boro piaú kanda) can be dug up. The stalk of the boro onion (boro piaz) should be twisted down fifteen days before the bulb is dug up, and the bulb should be dug up only after the stalk has dried. Big onion (bara piaz) is tasteless, but it may be considered pungent if it brings tears to the eyes. Some of the small onions which are sown on the border of the paddy fields should be left for flowering. Seeds will grow from these plants, but once the seeds have formed, the bulb will disappear. These seeds can again be sown in the month of Paoś for small onion (chota piaz).
+In the month of Paoś, onion seeds are sown. The seedlings should be transplanted along with late boro paddy in the month of Mágha. In the middle of Vaeshákha, the late boro should be harvested. After that, the onions should be dug up. 
 
-The onion stalks should be twisted down so that within a short time the plants die and the tubers become ready for harvesting. If the stalks are allowed to grow, they will bear flowers and seeds, but the tubers may disappear. From these seeds, small sweet onions (chachi or sachi piaz) can be grown which can also be used as seeds. If big onions are going to be harvested for marketing, then the stalk should be twisted down while it is green and about to flower. This process will ensure that the onion attains its maximum size.
+These small onions (chota piaú or kali piaz) are very pungent. The soil requirements for small onions are the same as for áman paddy, that is, clay soil. These small onions should then be sown with early boro paddy. 
 
-Onions are 67% water and need a sufficient supply of water to grow properly. The seeds from big onions are used for producing small sweet onions (chachi piaz), and the onion tubers (kalik) from the small sweet onions are used for producing big onions. Small sweet onion takes four to five months to grow and should be developed in a nursery for the first one or two months before being transplanted.
+Small onion is a winter crop.
+
+The top can be used as a green leafy vegetable. After harvesting early boro, the large onion bulb (boro piaú kanda) can be dug up. The stalk of the boro onion (boro piaz) should be twisted down fifteen days before the bulb is dug up, and the bulb should be dug up only after the stalk has dried. Big onion (bara piaz) is tasteless, but it may be considered pungent if it brings tears to the eyes. 
+
+Some of the small onions which are sown on the border of the paddy fields should be left for flowering. Seeds will grow from these plants, but once the seeds have formed, the bulb will disappear. These seeds can again be sown in the month of Paoś for small onion (chota piaz).
+
+The onion stalks should be twisted down so that within a short time the plants die and the tubers become ready for harvesting. If the stalks are allowed to grow, they will bear flowers and seeds, but the tubers may disappear. From these seeds, small sweet onions (chachi or sachi piaz) can be grown which can also be used as seeds. If big onions are going to be harvested for marketing, then the stalk should be twisted down while it is green and about to flower. 
+
+This process will ensure that the onion attains its maximum size.
+
+Onions are 67% water and need a sufficient supply of water to grow properly. 
+
+The seeds from big onions are used for producing small sweet onions (chachi piaz), and the onion tubers (kalik) from the small sweet onions are used for producing big onions. Small sweet onion takes four to five months to grow and should be developed in a nursery for the first one or two months before being transplanted.
 
 
 ## Ginger (Ada)
 
-Ginger is a popular cooking additive. Many products can be made from ginger including syrup, sauce, marmalade, liquid extract, etc. Ginger processed in cow dung water is called “sout ada” and is used in Ayurvedic medicine.
+Ginger is a popular cooking additive. Many products can be made from ginger including syrup, sauce, marmalade, liquid extract, etc. 
 
-Ginger can grow in either the sun or the shade, but it should be planted in the month of Phálguna. Ginger stalks, like onion stalks, should be twisted down so that within 15 days the plant dies and the tuber is ready for harvesting. The best ginger is found in Tripura and Mizoram.
+Ginger processed in cow dung water is called “sout ada” and is used in Ayurvedic medicine.
+
+Ginger can grow in either the sun or the shade. But it should be planted in the month of Phálguna. 
+
+Ginger stalks, like onion stalks, should be twisted down so that within 15 days the plant dies and the tuber is ready for harvesting. The best ginger is found in Tripura and Mizoram.
+
 
 
 ## Chilli (Lanka)
@@ -96,18 +122,22 @@ The indigenous, suryamukhi and dhani lanka varieties are all summer varieties of
 
 Turmeric is commonly made into powder and used as a spice. 
 
-When taken raw, it is poisonous. It should be taken only after it has been processed in cow dung water. Raw turmeric can be converted into sunte halud by boiling it with cow dung. 
+**When taken raw, it is poisonous.** 
+
+It should be taken only after it has been processed in cow dung water. Raw turmeric can be converted into sunte halud by boiling it with cow dung. 
 
 **Turmeric requires half sun and half shade.** The best turmeric tubers are found in Patna.
 
 
 ## Radish (Mula)
 
-Radish is a 45-60 day crop. Its came from Japan. It first came to India 3,000 years ago. 
+Radish is a 45-60 day crop and came from Japan. It first came to India 3,000 years ago. 
 
 It has less food value than potato, although it is rich in mineral salts and is good for the blood. 
 
-It is a general purifier. It is not easily digestible, but it helps digestion because it stimulates saliva secretion. 
+It is a general purifier. 
+
+It is not easily digestible, but it helps digestion because it stimulates saliva secretion. 
 
 It can be eaten raw, cooked, pickled, etc. 
 
@@ -146,15 +176,22 @@ When the water dries up, wash the pulp and refill it with water. After some time
 
 ## Cardamon (Ellaichi)
 
-There are many varieties of cardamom, such as aromatic cardamon (choto ellaichi or moranga elach), large cardamon (boro elach), true cardamon (eláchi), etc. 
+There are many varieties of cardamom, such as:
+- aromatic cardamon (choto ellaichi or moranga elach)
+- large cardamon (boro elach)
+- true cardamon (eláchi)
+- etc. 
 
 This sweet spice is often used in preparing confectionery.
+
 
 
 ## Cinnamon (Darucini)
 
 Cinnamon is a sweet spice with medicinal value which is often ground and used as a powder and can also be used to make essential oil.
-- Cumin (Mongrela, Kala Jiira)
+
+
+## Cumin (Mongrela, Kala Jiira)
 
 Cumin is a common savoury spice which is usually ground into a powder and used directly in cooking. Cumin can be grown with potato as a blended crop in the irrigation furrow of a field.
 
@@ -163,7 +200,11 @@ Cumin is a common savoury spice which is usually ground into a powder and used d
 
 Basil is a popular savoury herb which is often used in cooking. It also has medicinal value and is considered a sacred plant by some communities in India.
 
-Basil is a moon affected herb, and its effect increases on the full moon (purnima). Moon affected plants should be planted in a location which provides maximum exposure to moonlight. Moon affected herbs do not generally like sunlight, so if it is possible they should be planted so that they get maximum moonlight but no sunlight.
+**Basil is a moon affected herb, and its effect increases on the full moon.** 
+
+Moon-affected plants should be planted in areas with maximum exposure to moonlight. 
+
+**Moon-affected herbs do not generally like sunlight. So if it is possible, they should be planted so that they get maximum moonlight but no sunlight.**
 
 
 ## Nutmeg (Jáyphal, Myristika Fragrans)
@@ -173,9 +214,14 @@ Nutmeg is a spicy fruit which is often dried and used in cooking sweets and brea
 
 ## Anise (Saonp, Mauri) 
 
-Anise is known as “madhuri” in Saḿskrta and “mahuri” or “mauri” in Bengali. It is a sweet spice which has medicinal value.
 
-Anise has 2 varieties:
+Language | Word
+--- | ---
+Saḿskrta | madhuri
+Bengali | mahuri
+
+
+Anise is a sweet spice which has medicinal value. It has 2 varieties:
 - greenish (Varanasi), and
 - yellowish (indigenous).
 
@@ -184,4 +230,6 @@ It is also commonly grown as a companion plant with potato in the irrigation fur
 
 ## Cloves (Lavanga)
 
-Cloves are well-known as a savoury spice which aid digestion. Clove oil is commonly used for this purpose. Cloves should be planted as near as possible to a river, but care should be taken that they are not inundated with water.
+Cloves are well-known as a savoury spice which aid digestion. 
+
+Clove oil is commonly used for this purpose. Cloves should be planted as near as possible to a river, but care should be taken that they are not inundated with water.

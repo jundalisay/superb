@@ -19,9 +19,13 @@ For example, a body moving <!--  in a state of uniform rectilinear motion --> st
 
 ![Box](/graphics/physics/box.jpg)
 
-However, we get a different result when we replace that body with <!--  obtain a new result of fundamental importance when we carry out the analogous consideration for --> a ray of light. It travels in a straight line with the velocity c relative to the moving glass box. But its path <!-- With respect to the Galileian reference-body `K`, such a ray of light is transmitted rectilinearly  The path of this light --> will be in a curve <!-- is no longer a straight line --> when seen from the  relative to <!-- consider it with reference to --> moving glass box. <!--  accelerated chest (reference-body K').--> <b>This means that <!--  we conclude, that, in --> generally, light curves in <!-- are propagated curvilinearly in --> gravitational fields.</b>
+However, we get a different result when we replace that body with <!--  obtain a new result of fundamental importance when we carry out the analogous consideration for --> a ray of light. 
+- It travels in a straight line with the velocity `c` relative to the moving glass box.
+- But its path <!-- With respect to the Galileian reference-body `K`, such a ray of light is transmitted rectilinearly  The path of this light --> will be in a curve <!-- is no longer a straight line --> when seen from the relative to <!-- consider it with reference to --> moving glass box. <!--  accelerated chest (reference-body K').-->
 
-This is very important because= 
+**This means that generally, light curves in <!-- are propagated curvilinearly in --> gravitational fields.**
+  
+This is very important because:
 
 1. This happens in reality. 
 
@@ -37,7 +41,7 @@ From the earth's viewpoint, certain fixed stars are seen around the sun during a
 <!-- This should be tested by astronomers.  -->
 <!-- The examination of the correctness or otherwise of this deduction is a problem of the greatest importance, the early solution of which is to be expected of astronomers. -->
 
-2. The constant speed of light <!-- law of the constancy of the velocity of light --> in vacuum <!-- , which constitutes one of the two fundamental assumptions in Special Relativity and to which we have already frequently referred, --> cannot be totally<!--  unlimited --> valid, according to GR. 
+2. The constant speed of light <!-- law of the constancy of the velocity of light --> in vacuum <!-- , which constitutes one of the two fundamental assumptions in Special Relativity and to which we have already frequently referred, --> cannot be totally<!--  unlimited -->  valid, according to GR. 
 
 Since light rays can only curve when light changes position, <!--  the speed of light --> <!--  take place when the velocity of propagation of light --> <!-- varies with position --> one might think that this invalidates <!-- Now we might think that as a consequence of this, --> Special Relativity (SR), and with it the whole theory of relativity. But this is not the case. 
 

@@ -17,7 +17,10 @@ Most pulses are high in protein but have varying degrees of fat. They are easier
 
 They are more important as a food than cereals, and in emergency conditions, pulses are more essential for health. Some pulses are also used for oil production.
 
-For farming, pulses are important as nitrogen fixers. The roots of all pulses should be left in the soil for some time after the harvest so that they can perform this function. This is one reason why they make excellent blended crops with plants like cereals, which do not fix nitrogen in the soil.
+For farming, pulses are important as nitrogen fixers. 
+
+
+The roots of all pulses should be left in the soil for some time after the harvest so that they can perform this function. This is one reason why they make excellent blended crops with plants like cereals, which do not fix nitrogen in the soil.
 
 Pulse in Saḿskrta is “dvidal,” and in Hindi and Bengali, “dál.” In Urdu all pulses are called “dalahan.”
 
@@ -48,18 +51,24 @@ There are many common pulses which include:
 - soybean
 - barbat́i beans
 
-Green Gram (Śát́há Moog)
+
+
+## Green Gram (Śát́há Moog)
 
 Green gram is known as “mudga” in Saḿskrta, “muga” in Bengali, and “moog” in Hindi. Mudga giri means “a hill like moog,” hence the name Munghyr.
-There are three varieties of green gram:
 
-golden gram (soná moog)
-horse gram (ghoŕá moog)
-grassy gram (gheso moog)
+There are 3 varieties:
+- golden gram (soná moog)
+- horse gram (ghoŕá moog)
+- grassy gram (gheso moog)
 
-The most substantial of these is horse gram, but the variety which is the most sweet scenting and palatable is golden gram. The best quality golden gram is grown in the Nadia district of Bengal. Golden gram is a two month crop, thus five to six crops can be harvested per annum, with some rest period for the land. In the Ánanda Nagar area, both golden gram and tapioca may be cultivated. They make a good combination in khicuri (rice, pulse and vegetables cooked together) for mass feeding.
+The most substantial of these is horse gram, but the variety which is the most sweet scenting and palatable is golden gram. 
 
-There were formerly many seasonal green grams, but nowadays two main varieties, 60 day green gram (śát́há moog) and rainy season green gram, are grown. The period for rainy season gram is during the months of Aśádha, Shrávańa and Bhádra. The production and growth of rainy season gram is ordinary. 60 day green gram grows throughout India, as does golden gram. Green gram grows best in half sandy (demi-sandy) alluvial soil. It grows well throughout the year, except in the rainy season, and requires less water than áus paddy. One special rule for harvesting green gram is that the pods should be plucked singularly, one by one. Children may help pluck the pods, which should be plucked before they have completely dried.
+The best quality golden gram is grown in the Nadia district of Bengal. Golden gram is a two month crop, thus five to six crops can be harvested per annum, with some rest period for the land. In the Ánanda Nagar area, both golden gram and tapioca may be cultivated. They make a good combination in khicuri (rice, pulse and vegetables cooked together) for mass feeding.
+
+There were formerly many seasonal green grams, but nowadays two main varieties, 60 day green gram (śát́há moog) and rainy season green gram, are grown. The period for rainy season gram is during the months of Aśádha, Shrávańa and Bhádra. The production and growth of rainy season gram is ordinary. 60 day green gram grows throughout India, as does golden gram. Green gram grows best in half sandy (demi-sandy) alluvial soil. 
+
+It grows well throughout the year, except in the rainy season, and requires less water than áus paddy. One special rule for harvesting green gram is that the pods should be plucked singularly, one by one. Children may help pluck the pods, which should be plucked before they have completely dried.
 
 
 ## Black Gram (Biri Kalái)
@@ -90,6 +99,7 @@ As a pulse, it is very substantial. Bará, bari, dahi bará and pápad are al
 
 Associated crops that may be grown with black gram are turmeric, sugar cane, shák (green leafy vegetables), brinjal, raw chilli (green chilli) and radish.
 
+
 ### Khesári
 
 Language | Name
@@ -101,7 +111,9 @@ Bengali and Hindi | khesári
 Ráŕhi Bangla and Assamese | tewada 
 Burdwan | tewada
 
-Khesári may be produced as a “pigeon crop” along with paddy without tilling the land, or it may be grown afresh in the month of Áshvina when watery clay remains in the paddy field. During the paddy harvesting period, the upper portions of the khesári should be cut off, and as a result new shoots and offshoots will grow. Khesári takes four months to mature and may be grown as a single winter crop after tilling the land.
+Khesári may be produced as a “pigeon crop” along with paddy without tilling the land, or it may be grown afresh in the month of Áshvina when watery clay remains in the paddy field. 
+
+During the paddy harvesting period, the upper portions of the khesári should be cut off, and as a result new shoots and offshoots will grow. Khesári takes four months to mature and may be grown as a single winter crop after tilling the land.
 
 Khesári contains certain poisonous alkaloids in the pulse and the leaves which may cause paralysis in the lower part of the body in both human beings and animals. Children are more likely to contract this disease than others. 
 
@@ -138,13 +150,21 @@ Gram has good nutritional value but it is hard to digest. Gram gives immediate e
 
 When the gram crop is one month old, its leaves and stems should be picked for use as green vegetables (shák). This induces side offshoots so that there is more flowering and fruiting. But the practice of plucking the leaves and stems should be stopped one month before flowering. For example, if flowering occurs on the 1st of Paoś, then plucking should be stopped from the 1st of Agraháyańa. This rule applies to all the pulses.
 
-One property of gram leaves is that they are rich in calcium. During teething, children often suffer from diarrhoea because all the calcium in their diet goes into teeth formation. In the rainy season also, children sometimes suffer from diarrhoea because the rainwater does not contain many minerals. If a child develops diarrhoea and becomes emaciated due to lack of calcium, gram leaves will restore his or her health. 
+Gram leaves are rich in calcium. 
 
-The leaves should be ground into a liquid, which will turn red, and this juice should be taken. Also, if a nursing mother dies, the baby can be fed boiled gram leaves as a substitute for mothers milk. This will prevent the health of the baby deteriorating.
+During teething, children often suffer from diarrhea because all the calcium in their diet goes into teeth formation. 
+
+In the rainy season also, children sometimes suffer from diarrhea because the rainwater does not contain many minerals. If a child develops diarrhea and becomes emaciated due to lack of calcium, gram leaves will restore his or her health. 
+
+The leaves should be ground into a liquid, which will turn red. This juice should be taken. 
+
+If a nursing mother dies, the baby can be fed boiled gram leaves as a substitute for mothers milk. This will prevent the health of the baby deteriorating.
+
 Gram husk makes a good cattle feed. Milk giving animals relish gram husk mixed with mustard oil cake (sarśe khal).
 
-## Lentil (Masoor)
 
+
+## Lentil (Masoor)
 
 Language | Word
 --- | ---
@@ -159,6 +179,8 @@ The small variety may be cultivated as a “pigeon crop” along with paddy in t
 The large variety may be cultivated along with wheat, as a winter crop, after the land has been tilled. Lentil leaves have no special qualities although they are sentient. 
 
 Lentils are to be treated as a static food and must not be eaten by sannyasis. They may be eaten in the daytime by householders (grhis), but they must not be eaten in the night by anybody because at night they ferment easily.
+
+
 
 ## Cow Pea (Árahar)
 
@@ -176,16 +198,26 @@ The junior variety becomes fit for harvesting in the month of Mágha. The senio
 
 The roots of all pulses, including cow pea, should remain in the ground for some days after the harvesting is finished because nitrogenous compounds are produced in the roots, and these help increase the soil productivity after rain. A new variety of cow pea which can be harvested in the month of Agraháyańa should be developed. If this is done, then the cultivation of this variety should be encouraged. The soil at Ánanda Nagar is good for growing cow pea.
 
+
 ## Soybean
 
-This bean is most conveniently used as a pulse (dál) along with its special nutritive value of fat. Also, as a protein it is about 250% richer than casein. Soybean is an all-season crop and takes about 90-100 days to mature. It may be cropped along with peanut, linseed, sesame or jute. 
+This bean is most conveniently used as a pulse (dál) along with its special nutritive value of fat.
 
-The cultivation of soybeans should be encouraged at Ánanda Nagar and the surrounding areas because the people there are very poor. Soybeans will help meet their nutritional requirements. It requires two watering periods and soil that is somewhat fertile. Compost (patta pache sárá) will suffice as fertilizer.
+As a protein, it is about 250% richer than casein. 
+
+Soybean is an all-season crop and takes about 90-100 days to mature. It may be cropped along with peanut, linseed, sesame or jute. 
+
+The cultivation of soybeans should be encouraged at Ánanda Nagar and the surrounding areas because the people there are very poor. 
+
+Soybeans will help meet their nutritional requirements. It requires 2 watering periods and soil that is somewhat fertile. Compost (patta pache sárá) will suffice as fertilizer.
 
 Bengal gram and siima, two varieties of pulse grown in Bengal, are equivalent to each other in food value, but soybean has 2.5 times more food value than either of them.
 
+
 ## Barbat́i Beans
 
-Barbat́i beans are also a very nutritious and substantial food, and can be eaten either as a vegetable or as a pulse. In Bengal barbat́i beans are called “barbat́i” as a vegetable and “hanuman karai” as a pulse. They are richer in food value than many other pulses. 
+Barbat́i beans are also a very nutritious and substantial food, and can be eaten either as a vegetable or as a pulse. 
+
+In Bengal barbat́i beans are called “barbat́i” as a vegetable and “hanuman karai” as a pulse. They are richer in food value than many other pulses. 
 
 Barbat́i beans are grown as rainy season and autumn seasons crops. Unlike many other beans, which are pre- winter and winter season crops, they require some water, and more water than the other pulses. Other pulses require water twice in the season, while barbat́i beans and wheat have to be watered three times.

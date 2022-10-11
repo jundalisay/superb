@@ -1,23 +1,18 @@
-+++
-title= "Scientific instruction"
-#heading= Chapter 2 of the General Theory by John Maynard Keynes
-description= "Agriculture is a way of making a living for weak people and Bedouins in search of subsistence"
-image= "/covers/muq.jpg"
-date= 2022-01-30
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-01"
-linkbtext= "Part 1"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-08"
-linkftext= "Part 8"
-heading= "Part 6"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "Scientific instruction"
+description: "Through sound intuition, we observe in ourselves the existence of three worlds"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 6"
+date: 2022-01-26
+---
 
 
 ## 6. Man is essentially ignorant, and becomes learned through acquiring (knowledge).
 
-We have already explained at the beginning of these sections 31 that man belongs to the genus of animals and that God distinguished him from them by the ability to think, which He gave man and through which man is able to . This is 
+<!-- We have already explained at the beginning of these sections 31 that man belongs to the genus of animals and that God distinguished him from them by the ability to think, which He gave man and through which man is able to . This is  -->
 
-There are various kinds of intellect= 
+There are various kinds of intellect:
 
 1. The discerning intellect
 

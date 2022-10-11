@@ -1,22 +1,15 @@
-+++
-title= "The Ways of making a living"
-description= "Man, by nature, needs something to feed him and to provide for him in all the conditions and stages of his life from the time of his (early) growth to his maturity and on to his old age"
-image= "/covers/muq.jpg"
-date= 2022-01-31
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-4/part-20"
-linkbtext= "Part 1"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-5/part-04"
-linkftext= "Part 4"
-heading= "Part 1"
-tags = "Profits"
-aliases= [
-  "/research/ibn-khaldun/muqaddimah/chapter-5/part-2"
-]
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "The Ways of making a living"
+description: "Livelihood (making a living) means the desire for sustenance and the effort to obtain it. 'Livelihood' (ma'ash) is a maf'al formation from 'aysh' (life)."
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2"
+date: 2022-01-28
+---
 
 
-Livelihood (making a living) means the desire for sustenance and the effort to obtain it. "Livelihood" (ma'ash) is a maf'al formation from `aysh "life."
+
+Livelihood (making a living) means the desire for sustenance and the effort to obtain it. "Livelihood" (ma'ash) is a maf'al formation from 'aysh' or 'life'.
 
 
 The idea is that 'aysh "life" is obtained only through the things that go into making a living, and they are therefore considered, with some exaggeration, "the place of life." 14
@@ -47,4 +40,6 @@ He is said to have taught and practiced agriculture. This indicates that it is t
 
 Sedentary culture is posterior to Bedouin life, and secondary to it. In this sense, their (invention) was ascribed to Idris, 19 the second father of mankind. He is said to have invented them with the help of divine revelation for the human beings to come after him.Commerce is a natural way of making profits. However, most of its practices and methods are tricky and designed to obtain the (profit) margin between purchase prices and sales prices. 
 
-This surplus makes it possible to earn a profit. Therefore, the law permits cunning in commerce, since (commerce) contains an element of gambling. It does not, however, mean taking away the property of others without giving anything in return. Therefore, it is legal. 20 
+This surplus makes it possible to earn a profit. Therefore, the law permits cunning in commerce, since (commerce) contains an element of gambling. 
+
+It does not, however, mean taking away the property of others without giving anything in return. Therefore, it is legal. <!-- 20  -->

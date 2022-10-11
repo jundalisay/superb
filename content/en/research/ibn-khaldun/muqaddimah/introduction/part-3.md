@@ -1,18 +1,17 @@
-+++
-title= "Yahya bin Aktham"
-heading= "Introduction Part 3"
-description= "History is a discipline that is very useful and has many different approaches"
-image= "/covers/muq.jpg"
-date= "2020-01-01"
-linkb= "/research/ibn-khaldun/muqaddimah/"
-linkbtext= "Index"
-linkf= "/research/ibn-khaldun/muqaddimah"
-linkftext= "Index"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "Yahya bin Aktham"
+description: "A parallel or similar story is that reported by all (the historians) about Yahya bin Aktham, the judge and friend of al-Ma'mun"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 3"
+date: 2021-10-26
+---
 
 
-A parallel or similar story is that reported by all (the historians) about Yahya bin Aktham, the judge and friend of al-Ma'mun.101 He is said to have drunk wine together with al-Ma'mun and to have gotten drunk one night. 
+
+A parallel or similar story is that reported by all (the historians) about Yahya bin Aktham, the judge and friend of al-Ma'mun.<!-- 101 --> 
+
+He drank wine together with al-Ma'mun and got drunk one night. 
 
 He lay buried among the sweet basil until he woke up. The following verses are recited in his name:
 O my lord, commander of all the people!

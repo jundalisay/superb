@@ -1,19 +1,15 @@
-+++
-title= "The geometrical sciences"
-description= "The geometrical sciences are Astronomy, Surveying, Optics"
-image= "/covers/muq.jpg"
-date= 2022-01-18
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-19"
-linkbtext= "Part 19"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-21"
-linkftext= "Part 21"
-heading= "Part 20"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "The geometrical sciences"
+description: "The geometrical sciences are Astronomy, Surveying, Optics"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 20"
+date: 2021-12-16
+---
 
 
-This studies quantities (measurements) 653 Quantities (measurements) may be continuous, like lines, planes, and (geometrical) solids, or discontinuous, like numbers. 
+
+This studies quantities (measurements) <!-- 653 -->.  Quantities (measurements) may be continuous, like lines, planes, and (geometrical) solids, or discontinuous, like numbers. 
 
 It also studies the essential properties of the quantities (measurements), as, for instance= 
 

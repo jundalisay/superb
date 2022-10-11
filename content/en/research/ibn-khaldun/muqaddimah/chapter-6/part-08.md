@@ -1,14 +1,13 @@
-+++
-title= "The sciences are numerous only in large, sedentary civilizations with a culture highly developed"
-description= "The sciences are numerous only where civilization is large and sedentary culture highly developed"
-image= "/covers/muq.jpg"
-date= 2020-01-29
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-06"
-linkbtext= "Part 6"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-11"
-linkftext= "Part 11"
-heading= "Part 8"
-+++
+---
+title: "The sciences are numerous only in large, sedentary civilizations with a culture highly developed"
+description: "The sciences are numerous only where civilization is large and sedentary culture highly developed"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 8"
+date: 2022-01-24
+---
+
+
 
 This is because scientific instruction is one of the crafts, and crafts are numerous only in cities.
 

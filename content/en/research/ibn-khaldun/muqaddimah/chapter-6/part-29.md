@@ -1,16 +1,12 @@
-+++
-title= "The science of alchemy"
-description= "This studies the substance through which the generation of gold and silver may be artificially accomplished, and comments on the operation leading to it"
-image= "/covers/muq.jpg"
-date= 2022-01-11
-author= "Ibn Khaldun"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-28"
-linkbtext= "Part 28"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-30"
-linkftext= "Part 30"
-heading= "Part 29"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "The science of alchemy"
+description: "This studies the substance through which the generation of gold and silver may be artificially accomplished, and comments on the operation leading to it"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 29"
+date: 2021-11-28
+---
+
 
 
 This studies the substance through which the generation of gold and silver may be artificially accomplished, and comments on the operation leading to it. The alchemists acquire knowledge of the tempers and powers of all created things and investigate them critically. 
@@ -152,7 +148,9 @@ Correspondingly, if the heat affecting a thing is excessive, and there is no col
 
 That is the sound basis of their doctrine and treatment. The (alchemical) operation begins with fire and ends with fire. Therefore, the philosophers have said, 'Beware of burning fires.' By that they meant that one should keep away the harmful (actions) that go with (fire). (Otherwise,) two kinds of harmful (actions) would combine against the substance and speed its destruction. 
 
-Also, anything may suffer annihilation and corruption through itself, 982 because its elements are opposed to each other and there is disharmony in it. It thus stands in the middle between two things 983 and does not find anything to strengthen and aid it, but the harmful (actions) overpower and destroy it.
+Also, anything may suffer annihilation and corruption through itself, 982 because its elements are opposed to each other and there is disharmony in it. 
+
+It thus stands in the middle between two things 983 and does not find anything to strengthen and aid it, but the harmful (actions) overpower and destroy it.
 
 The sages have mentioned that spirits return repeatedly to bodies (substances), so that they may have greater coherence with
 them and greater strength to fight the fire, since they (the spirits) come into contact with (the fire) at the moment of union - I mean here elemental fire. This should be realized.

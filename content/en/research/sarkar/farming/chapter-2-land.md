@@ -86,9 +86,11 @@ There should be a two phase plan to introduce cooperative land management. In th
 Each cooperative member will be entitled to a dividend based on the total production in proportion to the land they donated to the cooperative. Each individual will retain the deed of ownership of their land, but agricultural activities will be conducted cooperatively. Consequently, land which remained utilized as boundary lines will no longer be left uncultivated. In certain places in Bihar and Bengal the total area of arable land is less than the amount of land wasted on boundary lines. If this system is implemented, all will benefit.
 
 In the first phase of the plan, those owning land which is productive as an economic holding need not be persuaded to join a cooperative. But if an economic holding comprises land which is dispersed in small plots, the scattered plots should be consolidated into one holding. Alternatively, wherever small, scattered, uneconomic plots are located, they will have to be joined together under cooperative management.
+
 In the second phase all should be encouraged to join the cooperative system.
 
 In the third phase there should be rational distribution of land and redetermination of ownership. In this new system two factors will determine the rational distribution of land – the minimum holding of land necessary to maintain a family, and the farmer’s capacity to utilize the land.
+
 In the fourth phase there will be no conflict over the ownership of land. A congenial environment will exist due to psychic expansion because people will learn to think for the collective welfare rather than for their petty self-interest. Such a change will certainly not come overnight. Unless there is suitable psychic preparation through internal urge and external pressure, adjusting with the time factor, people will never accept this system, and it cannot be forcibly imposed on them.
 
 The leaders of the Soviet Union were ignorant of the collective psychology of the people, so they tried to impose collective farming by force. This produced severe famines and massive civil unrest. While trying to cope with these problems, the administration resorted to brute force instead of adopting psychological measures, and as a result they annihilated many people. Sadvipras will never go against the spirit of a country and cause its ruin.
@@ -96,6 +98,13 @@ The leaders of the Soviet Union were ignorant of the collective psychology of th
 Many people raise questions regarding cooperatives because in most countries the cooperative system has failed. On the basis of the examples to date, it is not appropriate to criticize the cooperative system. This is because most countries could not evolve the indispensable conditions necessary for the success of the cooperative system. Cooperatives depend upon three main factors for their success – morality, strong supervision and the wholehearted acceptance of the masses. Wherever these three factors have been evident in whatever measure, cooperatives have achieved proportionate success.
 
 Take the case of Israel. Because the country is surrounded by enemies on all sides, the people are extremely aware of the need to be self-reliant. People want wholeheartedly to consolidate the national economy. Thus, they have converted arid deserts into productive agricultural land through the cooperative system.
-As this kind of mentality was never created in India, India is a classic example of the failure of the cooperative system. Indian cooperatives were not created for economic development but for the fulfilment of political interests. Under such circumstances it was impossible for the cooperative system to succeed.
 
-Good examples must be established to encourage people to adopt the cooperative system. There should be pilot cooperative projects, machine stations, adequate irrigation systems, and improved seeds and insecticides. At the same time people must be educated about the beneficial aspects of cooperatives. Instead of educating people how to increase the productivity of their land, the leaders of India show films on birth control in the market place. I call such people the greatest enemies of humanity.
+This kind of mentality was never created in India. This is why India is a classic example of the failure of the cooperative system. 
+
+Indian cooperatives were not created for economic development, but for the fulfilment of political interests. This made it  impossible for the cooperative system to succeed.
+
+Good examples must be established to encourage people to adopt the cooperative system. There should be pilot cooperative projects, machine stations, adequate irrigation systems, and improved seeds and insecticides. 
+
+At the same time, people must be educated about the beneficial aspects of cooperatives. Instead of educating people how to increase the productivity of their land, the leaders of India show films on birth control in the market place. 
+
+I call such people the greatest enemies of humanity.

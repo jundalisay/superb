@@ -14,6 +14,7 @@ We began with a Galileian domain where there is no gravitational field relative 
 Special Relativity (SR) explains the behaviour of measuring-rods and clocks with reference to `K` and the behaviour of “isolated” material points.
 - Isolated points move uniformly and in straight lines.
 
+
 ## Gauss coordinates
 
 Now let us refer this domain to a random Gauss co-ordinate system or to a “mollusk” as reference-body K'. 
@@ -33,7 +34,8 @@ In order to find out the general law-of-field of gravitation, we still need to g
 <!-- This can be obtained by taking into consideration the following demands=  -->
 
 1. The required generalisation must likewise satisfy GR
-2. <!-- If there is any matter in the domain under consideration,  --> Only the inertial mass or its energy (as per Section 15) are important for its effect in exciting a field
+<!-- If there is any matter in the domain under consideration,  -->
+2. Only the inertial mass or its energy (as per Section 15) are important for its effect in exciting a field
 3. Gravitational field and matter together must satisfy the law of the conservation of energy (and of impulse)
 
 Finally, GR lets us determine the influence of the gravitational field on <!-- the course of all those --> processes without a <!-- which take place according to known laws when a --> gravitational field <!-- is absent, --> which is the case of Special Relativity <!-- i.e. which have already been fitted into the frame of the special theory of relativity.  -->
@@ -46,9 +48,9 @@ The gravitation of GR removes the defect of:
 
 But it explains astronomical observations which classical mechanics is powerless in.
 
-GR absorbs the Newtonian theory if we confine gravitational fields to be= 
+GR absorbs the Newtonian theory if we confine gravitational fields to be:
 - regarded as being weak, and
-- in which all masses move with respect to the coordinate system with velocities which are small compared with the velocity of light
+- in which all masses move with respect to the coordinate system with velocities which are small compared with the speed of light
 
 Thus, GR absorbs Newton's theory without needing* the inverse square law where gravitation between two objects depends on the square of the distance between them.
 
@@ -61,7 +63,7 @@ proportional to the square of the distance between them.  -->
 
 If we increase the calculation's accuracy, deviations from Newton's theory appear. These deviations are small and escape the test of observation.
 
-According to Newton’s theory, a planet moves around the sun in an ellipse. This ellipse would permanently maintain its position with respect to the fixed stars, if we disregard= 
+According to Newton’s theory, a planet moves around the sun in an ellipse. This ellipse would permanently maintain its position with respect to the fixed stars, if we disregard:
 - the motion of the fixed stars themselves and
 - the action of the other planets
 
@@ -80,7 +82,13 @@ This rotation was 43 seconds of arc per century.
 
 <!-- This effect can be explained by means of classical mechanics only on the assumption of hypotheses which have little probability, and which were devised solely for this purpose. -->
 
-**GR has found that the ellipse of every planet around the sun must rotate in the way indicated above.** All planets, except Mercury, rotates in a very small manner to be detected. But in the case of Mercury, it amounts to 43 seconds of arc per century -- this agrees with observation.
+**GR has found that the ellipse of every planet around the sun must rotate in the way indicated above.** 
+
+All planets, except Mercury, rotates in a very small manner to be detected. But in the case of Mercury, it amounts to 43 seconds of arc per century -- this agrees with observation.*
+
+> *Superphysics note: The precession of Mercury is caused by its core, not by spacetime coordinates
+
+
 
 Apart from this one, GR allows only two deductions which can be tested by observation= 
 - the curvature of light rays by the sun's gravitational field [gravitational lensing] and

@@ -3,8 +3,8 @@ title: "The meaning and value of the legal dirham and dinar"
 description: "This is concerned with the stamping of the dinars and dirhams used in commercial transactions"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 5"
-date: 2020-11-08
+heading: "Part 34c"
+date: 2020-11-12
 ---
 
 

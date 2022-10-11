@@ -1,15 +1,12 @@
-+++
-title= "The great number of scholarly works is an obstacle to attaining scholarship"
-description= "A student's whole lifetime would not suffice to know all the literature that exists in a single discipline, (even) if he were to devote himself entirely to it"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-date= 2022-01-05
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-33"
-linkbtext= "Part 33"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-37"
-linkftext= "Part 37"
-heading= "Part 34"
-+++
+---
+title: "The great number of scholarly works is an obstacle to attaining scholarship"
+description: "A student's whole lifetime would not suffice to know all the literature that exists in a single discipline, (even) if he were to devote himself entirely to it"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 34"
+date: 2021-11-12
+---
+
 
 <!-- ## 34. The great number of scholarly works is an obstacle on the path to attaining scholarship -->
 
@@ -33,7 +30,12 @@ This (wealth of material) requires a great deal from the student. He could spend
 
 The contents show that Ibn Hisham has completely mastered the habit of philology as it had not been mastered (before) save by Sibawayh, Ibn Jinni, and people of their class, so greatly developed is his philological habit and so comprehensive is his knowledge and experience as regards the principles and details of philology. 
 
-This proves that excellence (in scholarship) is not restricted to the ancients, 1138especially if (one considers) our remarks about the many obstacles (on the path to mastery of a science in modern times), which the great number of schools, methods, and works presents. No! "His excellence God bestows upon whomever He wants to." 1139 (Ibn Hisham) is one of the rare wonders of the world. Otherwise, it is obvious that were the student to spend his entire lifetime on all these things, it would not be long enough for him to acquire, for instance, (a complete knowledge of) Arabic philology, which is (but) an instrument and means (for further studies). How, then, is it with the intended fruit (of study, the acquisition of thorough and comprehensive scholarship)? But "God guides whomever He wants to guide." 114
+This proves that excellence (in scholarship) is not restricted to the ancients, <!-- 1138 --> especially if (one considers) our remarks about the many obstacles (on the path to mastery of a science in modern times), which the great number of schools, methods, and works presents. No! "His excellence God bestows upon whomever He wants to." <!-- 1139  -->
+
+Ibn Hisham is one of the rare wonders of the world. Otherwise, it is obvious that were the student to spend his entire lifetime on all these things, it would not be long enough for him to acquire, for instance, (a complete knowledge of) Arabic philology, which is (but) an instrument and means (for further studies). 
+
+How, then, is it with the intended fruit (of study, the acquisition of thorough and comprehensive scholarship)? <!-- But "God guides whomever He wants to guide." 114 -->
+
 
 
 ## 35. The great number of brief handbooks (available) on scholarly subjects is detrimental to (the process of) instruction
@@ -74,7 +76,11 @@ Many of the current teachers are ignorant of this effective method of instructio
 of a discipline at the beginning (of his studies) and before he is prepared to understand them. Preparedness for and receptivity to scientific knowledge and understanding grow gradually. At the beginning, the student is completely unable to understand any but a very few (points). 
 
 (His understanding is) only approximate and general and (can be achieved only) with the help of pictures (muthul) derived from
-sensual perception. His preparedness, then, keeps growing gradually and little by little when he faces the problems of the discipline under consideration and has them repeated (to him) and advances from approximate understanding of them to a complete, higher knowledge. Thus the habit of preparedness and, eventually, that of attainment materialize in the student, until he has a comprehensive knowledge of the problems of the discipline (he studies). But if a student is exposed to the final results at the beginning, while he is still unable to understand and comprehend (anything) and is still far from being prepared to (understand), his mind is not acute enough to (grasp them). He gets the impression that scholarship is difficult and becomes loath to occupy himself with it. He constantly dodges and avoids it. That is the result ofpoor instruction, and nothing else. 
+sensual perception. His preparedness, then, keeps growing gradually and little by little when he faces the problems of the discipline under consideration and has them repeated (to him) and advances from approximate understanding of them to a complete, higher knowledge.
+
+Thus the habit of preparedness and, eventually, that of attainment materialize in the student, until he has a comprehensive knowledge of the problems of the discipline (he studies). But if a student is exposed to the final results at the beginning, while he is still unable to understand and comprehend (anything) and is still far from being prepared to (understand), his mind is not acute enough to (grasp them).
+
+He gets the impression that scholarship is difficult and becomes loath to occupy himself with it. He constantly dodges and avoids it. That is the result ofpoor instruction, and nothing else. 
 
 The teacher should not ask more from a student than that he understand the book he is engaged in studying, in accordance with his class (age group) 1153 and his receptivity to instruction, whether he is at the start or at the end (of his studies).
 
@@ -82,17 +88,17 @@ The teacher should not bring in problems other than those found in that particul
 
 When the student has acquired (the scholarly) habit in one discipline, he is prepared for learning all the others. He also has become interested in looking for more and in advancing to higher (learning). Thus, he eventually acquires a complete mastery of scholarship. 
 
-But if one confuses a student, he will be unable to understand (anything). He becomes indolent. He stops thinking. He despairs of
-becilning a scholar and avoids scholarship and instruction.
+But if one confuses a student, he will be unable to understand (anything). He becomes indolent. He stops thinking. He despairs becilning a scholar and avoids scholarship and instruction.
 
 It is also necessary (for the teacher) to avoid prolonging the period of instruction in a single discipline or book, by breaks in the sessions and long intervals between them. This causes (the student) to forget and disrupts the nexus between the different problems (of the discipline being studied). 
 
 The result of such interruptions is that attainment of the (scholarly) habit becomes difficult. If the first and last things of a discipline are present in the mind and prevent the effects of forgetfulness, the (scholarly) habit is more easily acquired, more firmly established, and closer to becoming a (true) coloring. For habits are acquired by continuous and repeated activity. When one forgets to act, one forgets the habit that results from that particular action.
 
-A good and necessary method and approach in instruction is not to expose the student to two disciplines at the same time. 1156 Otherwise, he will rarely master one of them, since he has to divide his attention and is diverted from each of them by his attempt to understand the other. Thus, he will consider both of them obscure and difficult, and be unsuccessful in both. 
+A good and necessary method and approach in instruction is not to expose the student to two disciplines at the same time. <!-- 1156  -->
 
-But if the (student's) mind is free to study the subject that he is out (to study) and can restrict himself to it, that (fact) often
-makes it simpler (for the student) to learn (the subject in question).
+Otherwise, he will rarely master one of them, since he has to divide his attention and is diverted from each of them by his attempt to understand the other. Thus, he will consider both of them obscure and difficult, and be unsuccessful in both. 
+
+But if the (student's) mind is free to study the subject that he is out (to study) and can restrict himself to it, that (fact) often makes it simpler (for the student) to learn (the subject in question).
 
 You, 1157 student, should realize that I am here giving you useful (hints) for your study. If you accept them and follow them assiduously, you will find a great and noble treasure. As an introduction that will help you to understand these (hints), I shall tell you the following:
 

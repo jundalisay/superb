@@ -1,17 +1,12 @@
-+++
-title= "Arithmetic: The sciences concerned with numbers"
-description= "Arithmetic, Calculation, Algebra"
-image= "/covers/muq.jpg"
-date= 2022-01-19
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-17"
-linkbtext= "Part 17"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-19"
-linkftext= "Part 19"
-heading= "Part 18"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "Arithmetic: The sciences concerned with numbers"
+description: "Arithmetic, Calculation, Algebra"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 18"
+date: 2021-12-18
+---
+
 
 
 This is the knowledge of the properties of numbers combined in arithmetic or geometric progressions.
@@ -122,9 +117,12 @@ In this connection, very many problems have been posed. Their purpose is to give
 
 Spanish mathematicians have written numerous works on the subject. The best known of these works are the business arithmetics of az-Zahrawi, 641 Ibn as-Samh, 64 2 Abu Muslim b. Khaldun, 643 who were pupils of Maslamah al-Majriti, and others.
 
-## Inheritance laws 644
+## Inheritance laws 
+<!-- 644 -->
 
-Another subdivision of arithmetic is inheritance laws. It is a craft concerned with calculation, that deals with determining the correct shares of an estate for the legal heirs. 
+Another subdivision of arithmetic is inheritance laws. 
+
+It is a craft concerned with calculation, that deals with determining the correct shares of an estate for the legal heirs. 
 
 It may happen that there is a large number of heirs, and one of the heirs dies and his portions have to be (re-)distributed among his heirs. Or, the individual portions, when they are counted together and added up, may exceed the whole estate. 645 
 

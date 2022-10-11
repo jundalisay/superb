@@ -1,31 +1,30 @@
-+++
-title= "The Caliph's title of 'Commander of the Faithful'"
-description= "To be caliph in reality means acting as substitute for Muhammad with regard to the preservation of the religion and the political leadership of the world"
-image= "/covers/muq.jpg"
-date= 2020-01-13
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-27"
-linkbtext= "Part 27"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-28b"
-linkftext= "Part 28b"
-heading= "Parts 30"
-+++
+---
+title: "The Caliph's title of 'Commander of the Faithful'"
+description: "This is a religious position depending on the office of judge and connected with court practice"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 30"
+date: 2019-12-05
+---
 
 
-This was created in the period of the first four caliphs. This is because the men around Muhammad and all the other early Muslims called Abu Bakr, when he received the oath of allegiance, "representative" (khalifah, caliph) of the Messenger
-of God. This form (of address) was used until he died. 
 
-Then, the oath of allegiance was rendered to 'Umar who was appointed by (Abu Bakr), and people called 'Umar
-"Representative of the Representative of the Messenger of God." However, they
-considered the title somewhat cumbersome. It was long and had a succession of
-genitives. 
+This was created in the period of the first four caliphs.
 
-With successive caliphs, that (style) would become longer and longer and end up as a tongue twister, and (the title) would no longer be distinct and recognizable because of the great number of dependent genitives. Therefore, they
-tried to replace the title by some other one appropriate to a (caliph).
+ This is because the men around Muhammad and all the other 
 
-The leaders of (military) missions used to be called "amirs," a fail (formation) connected with imarah (commandership). Before becoming Muslims, people used to call the Prophet "Amir of Mecca" and "Amir of the Hijaz." The men
-around Muhammad also used to call Sa'd b. Abi Waqqas "Commander (amir) of the
-Muslims," because he commanded the army at al-Qadisiyah. (The army there) at
-that time was the largest agglomeration of Muslims (that existed).
+The early Muslims called Abu Bakr the, when he received the oath of allegiance, "representative" (khalifah, caliph) of the Messenger of God. He had this title <!-- of God. This form (of address) was used  -->until he died. 
+
+Then, the oath of allegiance was rendered to Umar, who was appointed by Abu Bakr. People called Umar the "Representative of the Representative of the Messenger of God." However, they considered the title cumbersome. 
+
+<!-- It was long and had a succession of
+genitives.  -->
+- With successive caliphs, this title would become longer, so <!--  and longer and end up as a tongue twister, and (the title) would no longer be distinct and recognizable because of the great number of dependent genitives. Therefore, --> they replaced the title<!--  by some other one appropriate to a (caliph) -->.
+
+The leaders of military missions used to be called "amirs," a fail (formation) connected with imarah (commandership). 
+
+Before becoming Muslims, people used to call the Prophet "Amir of Mecca" and "Amir of the Hijaz." The men around Muhammad also used to call Sa'd b. Abi Waqqas "Commander (amir) of the Muslims," because he commanded the army at al-Qadisiyah. (The army there) at that time was the largest agglomeration of Muslims (that existed).
+
 Now, it so happened that one of the men around Muhammad addressed
 'Umar as "Commander of the Faithful" (amir al-mu'minin). People liked (this form
 of address) and approved it. Thus, they called 'Umar by (this title). It is said that the
@@ -64,12 +63,14 @@ that were the home of the Arabs and the center of the Muslim dynasty and the bas
 394 of Islam and Muslim conquest. Therefore, (it was no longer distinctive) when
 the ('Abbasid) dynasty reached its flowering and prime, (and) another style of
 address gained currency, one that served to distinguish them from each other, in as
-much as the title of Commander of the Faithful was one they all had. The 'Abbasids
-took surnames such as as-Saffah, al-Mansur, al-Mahdi, al-Hadi, ar-Rashid, and so
-on, and thus created a sort of cover to guard their proper names against abuse by the
-tongues of the common people and protect them against profanation. (They
-continued with that custom) down to the end of the dynasty. The 'Ubaydid(-
-Fatimids) in Ifriqiyah and Egypt followed their example.
+much as the title of Commander of the Faithful was one they all had. 
+
+The 'Abbasids took surnames such as as-Saffah, al-Mansur, al-Mahdi, al-Hadi, ar-Rashid, and so on, and thus created a sort of cover to guard their proper names against abuse by the tongues of the common people and protect them against profanation. 
+
+They continued with that custom down to the end of the dynasty. 
+
+The Ubaydid (Fatimids) in Ifriqiyah and Egypt followed their example.
+
 The Umayyads refrained from that (for a long time). The earlier Umayyads
 in the East had done so, in keeping with their austerity and simplicity. Arab manners
 and aspirations had not yet been abandoned in their time, and (the Umayyads) had
@@ -107,22 +108,20 @@ dawlah, Rukn-ad-dawlah, Mu'izz-ad-dawlah, Nasir-ad-dawlah, Nizam-al-mulk,
 Bahi'-al-mulk, Dhakhirat-al-mulk, and so on. 396a The 'Ubaydid (-Fatimids) used
 also to distinguish the Sinhajah amirs in that manner. When these men gained
 control over the caliphs, they were satisfied to keep these surnames and did not
-adopt caliphal titles out of deference to the institution and in order to avoid anyusurpation of its peculiar characteristics, as is customary among those who gain
-power and control (over an existing institution), as we have stated before. 397
-However, later on, the non-Arabs in the East strengthened their grip on royal
-authority and became more and more prominent in state and government. The group
-feeling of the caliphate vanished and dissolved completely. At that time, these non-
+adopt caliphal titles out of deference to the institution and in order to avoid anyusurpation of its peculiar characteristics, as is customary among those who gain power and control (over an existing institution), as we have stated before. 397
+
+However, later on, the non-Arabs in the East strengthened their grip on royal authority and became more and more prominent in state and government. The group feeling of the caliphate vanished and dissolved completely. At that time, these non-
 Arabs were inclined to adopt titles that were characteristic of royal authority, such
-as an-Nasir and al-Mansur. This was in addition to the titles they had previously
-held and which indicated that they were no longer clients and followers through the
-fact that they were simply combinations with din (religion), such as Salah-ad-din,
+as an-Nasir and al-Mansur. 
+
+This was in addition to the titles they had previously held and which indicated that they were no longer clients and followers through the fact that they were simply combinations with din (religion), such as Salah-ad-din,
 Asad-ad-din, and Nur-ad-din. 39 7a
 
-The reyes de taifas in Spain, who had a powerful grip on (the caliphate) by
-virtue of the fact that they shared in its tribal group feeling, divided up and
-distributed among themselves the caliphal titles. They had themselves called an-
-Nasir, al-Mansur, al-Mu'tamid, al-Muzaffar, and so on. Ibn Sharaf criticized them
+The reyes de taifas in Spain had a powerful grip on the caliphate because they shared in its tribal group feeling. They divided up and distributed among themselves the caliphal titles. 
+
+They had themselves called an-Nasir, al-Mansur, al-Mu'tamid, al-Muzaffar, and so on. Ibn Sharaf criticized them
 for this in these verses:
+
 What makes me feel humble in Spain
 Is the use of the names Mu'tasim and Mu'tadid there.
 Royal surnames not in their proper place:
@@ -138,7 +137,9 @@ Sultan, in accordance with Bedouin custom and desert austerity.
 At the time when the name of the caliphate had become extinct and its
 influence non-existent, the Lamtunah (Almoravid) ruler Yusuf b. Tashfin made his
 appearance among the Berber tribes in the Maghrib. He became the ruler of both
-shores. He was a good and conservative man who, consequently, in order to comply
+shores. 
+
+He was a good and conservative man who, consequently, in order to comply
 with all the formalities of his religion, wished to submit to the caliphal authority. He
 addressed himself to the 'Abbasid al-Mustazhir and sent to him two shaykhs from
 Sevilla as his ambassadors, 'Abdallah b. al-'Arabi and ('Abdallah's) son, Judge Abu
@@ -158,31 +159,25 @@ Maghribis for having deviated from them by returning to the ancestral tradition 
 rejecting allegorical interpretation of explicit statements of the religious law, a
 rejection that leads to (anthropomorphism), 402 as is known from the Ash'arite
 school. He called his followers Almohads (champions of the strict oneness of God),
-displaying (by the choice of that name) his disapproval (of anthropomorphism). Hefollowed the opinion of the 'Alids with regard to "the Infallible Imam" 403 who
-must exist in every age and whose existence preserves the order of the world. (Al-
+displaying (by the choice of that name) his disapproval (of anthropomorphism). Hefollowed the opinion of the 'Alids with regard to "the Infallible Imam" 403 who must exist in every age and whose existence preserves the order of the world. (Al-
 Mahdi) was at first called Imam, in accordance with the afore-mentioned Shi'ah
-practice with regard to the title of their caliphs. The word al-ma'sum (infallible) was
-linked (with Imam) to indicate his tenet concerning the infallibility of the Imam. In
+practice with regard to the title of their caliphs. 
+
+The word al-ma'sum (infallible) was linked (with Imam) to indicate his tenet concerning the infallibility of the Imam. In
 the opinion of his followers, he was above the title of Commander of the Faithful.
 (To avoid this title) was in accordance with the tenets of the old Shi'ah, and (he also
 avoided it), because to use it meant sharing it with the foolish young descendants of
-the caliphs who were alive in the East and the West at that time. 'Abd-al-Mu'min,
-who was appointed successor to (the Mahdi), did adopt the title of Commander of
-the Faithful. His successors, the caliphs of the Banu 'Abd-al-Mu'min, followed his
-example, and so did their successors, the Hafsids in Ifriqiyah.404 They appropriated
-it exclusively as their own, since their shaykh, the Mahdi, had made (religious)
-propaganda (justifying the use of) that (title) and since the power belonged to him
-and to his friends (clients) who succeeded him and to nobody else, because
-Qurashite group feeling had completely ceased to exist. Thus, (the use of the title)
+the caliphs who were alive in the East and the West at that time. 
+
+Abd-al-Mu'min was appointed successor to the Mahdi and adopted the title of "Commander of the Faithful". 
+
+His successors, the caliphs of the Banu 'Abd-al-Mu'min, followed his example, and so did their successors, the Hafsids in Ifriqiyah.404 They appropriated it exclusively as their own, since their shaykh, the Mahdi, had made (religious)
+propaganda (justifying the use of) that (title) and since the power belonged to him and to his friends (clients) who succeeded him and to nobody else, because Qurashite group feeling had completely ceased to exist. Thus, (the use of the title)
 came to be their custom.
 
-When governmental (authority) in the Maghrib lapsed and the Zanatah took
-power, their first rulers continued the ways of desert life and simplicity and followed
-the Lamtunah (Almoravids) in using the title of Commander of the Muslims, out of
-deference to the high rank of the caliphate. They rendered obedience, first to the
-caliphate of the Banu 'Abdal-Mu'min, and afterwards to that of the Hafsids. The
-later (Zanatah) rulers aspired to the title of Commander of the Faithful, and are
-using it at this time to comply fully with royal aspirations and the ways and
-characteristics of royal authority. 
+When governmental authority in the Maghrib lapsed, the Zanatah took power. Their first rulers continued the ways of desert life and simplicity and followed the Lamtunah (Almoravids) in using the title of "Commander of the Muslims", out of deference to the high rank of the caliphate. 
+
+They rendered obedience, first to the caliphate of the Banu 'Abdal-Mu'min, and afterwards to that of the Hafsids. The
+later (Zanatah) rulers aspired to the title of Commander of the Faithful, and are using it at this time to comply fully with royal aspirations and the ways and characteristics of royal authority. 
 
 

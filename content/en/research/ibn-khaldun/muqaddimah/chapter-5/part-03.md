@@ -1,15 +1,12 @@
-+++
-title= "Being a servant is not a natural way of making a living"
-description= "Servants exist on a lower level because most of those who live in luxury are too proud to take care of their own personal needs or are unable to do so, because they were brought up accustomed to indulgence and luxury"
-image= "/covers/muq.jpg"
-date= 2022-01-31
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-5/part-01"
-linkbtext= "Part 1"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-5/part-04"
-linkftext= "Part 4"
-heading= "Part 3 of the muqaddimah simplified"
-tags = "Servitude"
-+++
+---
+title: "Being a servant is not a natural way of making a living"
+description: "Servants exist on a lower level because most of those who live in luxury are too proud to take care of their own personal needs or are unable to do so, because they were brought up accustomed to indulgence and luxury"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2"
+date: 2022-01-26
+---
+
 
 
 The ruler must use the services of men, such as soldiers, policemen, and secretaries., in all the departments of political power (imarah)<!-- and royal authority with which he has to do -->. 

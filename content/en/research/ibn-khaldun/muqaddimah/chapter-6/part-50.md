@@ -1,15 +1,13 @@
-+++
-title= "What is the real meaning of the word 'taste'?"
-description= "If another habit previously occupied the place of that habit, the subsequent habit has not enough room to develop"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-date= 2021-12-29
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-47"
-linkbtext= "Part 47"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-51"
-linkftext= "Part 51"
-heading= "Part 53"
-+++
+---
+title: "What is the real meaning of the word 'taste'?"
+description: "If another habit previously occupied the place of that habit, the subsequent habit has not enough room to develop"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 50"
+date: 2021-10-18
+---
+
+
 
 <!-- ## 50. The interpretation and real meaning of the word "taste" according to the technical terminology of literary critics -->
 
@@ -30,9 +28,9 @@ They say that "the Arabs speak (correct Arabic) by nature." 1382 This is not so.
 It is not obtained through knowledge of the scientific rules evolved by literary critics. 1384 Those rules merely afford a knowledge of the (Arabic) language. They do not give (a person) possession of the actual habit in its proper place. This was mentioned before.
 (Now,) if this is established, (we may say that it is) the tongue's habit of eloquence that guides an eloquent person toward the various aspects of (word) arrangement and toward use of the correct combinations (of words) corresponding to the word combinations and arrangement used by Arabs when they speak Arabic. 
 
-When a person who possesses the (Arabic linguistic) habit attempts to deviate from the specific ways and the word combinations peculiar (to Arabic speech), he is not able to do so. His tongue will not go along with him, because it is not used to (improper speech), and its firmly rooted habit will not let it use it. Should any (form of) speech that deviates from the method of the Arabs and the eloquence they use in
-arranging their speech occur to him, he would avoid it, spit it out, and know that it does not belong to the Arabic speech that he has assiduously practiced. He mayoften be unable to support his attitude by arguments, as the people who know the
-grammatical and stylistic rules can do. But such is a matter of argumentation with the help of inductively derived rules, whereas (correct use of the language) is something intuitive, 1385 resulting from the constant practice of Arabic speech until such time as (the person who practices it) comes to be like one of (the Arabs).
+When a person who possesses the (Arabic linguistic) habit attempts to deviate from the specific ways and the word combinations peculiar (to Arabic speech), he is not able to do so. His tongue will not go along with him, because it is not used to (improper speech), and its firmly rooted habit will not let it use it. Should any (form of) speech that deviates from the method of the Arabs and the eloquence they use in arranging their speech occur to him, he would avoid it, spit it out, and know that it does not belong to the Arabic speech that he has assiduously practiced. 
+
+He may often be unable to support his attitude by arguments, as the people who know the grammatical and stylistic rules can do. But such is a matter of argumentation with the help of inductively derived rules, whereas (correct use of the language) is something intuitive, 1385 resulting from the constant practice of Arabic speech until such time as (the person who practices it) comes to be like one of (the Arabs).
 
 For comparison, let us assume an Arab child who grows up and is reared among Arab Bedouins. 1386 He learns their language and has a good knowledge of the vowel endings and of eloquent (Arabic) expression. He masters (all) that completely, but he does not have any knowledge whatever of grammatical rules. 
 
@@ -63,16 +61,18 @@ Those who know the (Arabic linguistic) habit (merely) from rules codified in boo
 
 One may hear it said that Sibawayh, al-Farisi, azZamakhshari, and other authorities on Arab speech were nonArabs and yet possessed the (Arab linguistic) habit. 1388 Then one should realize that these people one hears about were non-Arab only by descent. 
  
-They grew up and were reared among Arabs who possessed the (Arabic linguistic) habit, or among people who had learned it from them. Thus, they
-were able to master (Arabic) speech to a degree that cannot be surpassed. In a way,
+They grew up and were reared among Arabs who possessed the (Arabic linguistic) habit, or among people who had learned it from them. Thus, they were able to master (Arabic) speech to a degree that cannot be surpassed. In a way,
 in their early childhoods they were in the position of Arab children who grow up
 among Arab Bedouins and thus achieve a knowledge of all the finesses of the
-language and become speakers of (pure) Arabic. 1389 Although these (scholars) were
-non-Arab by descent, they were not non-Arabs as far as language and speech are
+language and become speakers of (pure) Arabic. <!-- 1389 --> 
+
+Although these (scholars) were non-Arab by descent, they were not non-Arabs as far as language and speech are
 concerned, because they lived in a time when Islam was in its prime and the Arabiclanguage in its young manhood. The (linguistic) habit had not yet entirely disappeared, not even among the urban population. They assiduously devoted
 themselves to the constant study and practice of Arab speech. Eventually, they mastered it completely.
 
-(However,) nowadays, when a non-Arab has contact with Arabic speakers in, the cities, the first thing he finds is that the desired Arabic linguistic habit is completely" gone, and he finds that the (linguistic) habit peculiar to them is another one and different from the Arabic linguistic habit. Assuming that he proceeds with persistence to study and memorize the speech and poems of the Arabs, in order to obtain the (linguistic habit), still,. he will rarely be successful, because, as mentioned before, 1390 a habit the place of which was originally taken by another habit, will be defective and mutilated. Assuming (further) that he is non-Arab by descent but has had no contact whatever with a non-Arabic language, and that he now sets out to learn the (Arabic linguistic) habit through memorizing and studying, he may occasionally be successful. This, however, is rare, a fact about which the previous remarks will have left no doubt.
+(However,) nowadays, when a non-Arab has contact with Arabic speakers in, the cities, the first thing he finds is that the desired Arabic linguistic habit is completely" gone, and he finds that the (linguistic) habit peculiar to them is another one and different from the Arabic linguistic habit. 
+
+Assuming that he proceeds with persistence to study and memorize the speech and poems of the Arabs, in order to obtain the (linguistic habit), still,. he will rarely be successful, because, as mentioned before, 1390 a habit the place of which was originally taken by another habit, will be defective and mutilated. Assuming (further) that he is non-Arab by descent but has had no contact whatever with a non-Arabic language, and that he now sets out to learn the (Arabic linguistic) habit through memorizing and studying, he may occasionally be successful. This, however, is rare, a fact about which the previous remarks will have left no doubt.
 
 Those who have studied the stylistic norms (of Arabic) occasionally claim that they have given them the "taste" (of the Arabic language). This, (however,) is an error and a deception. If they have obtained any habit, it is the habit of the stylistic norms. That habit has nothing whatever to do with the habit of (linguistic) expression.
 

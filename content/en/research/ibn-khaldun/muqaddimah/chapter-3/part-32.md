@@ -1,14 +1,14 @@
-+++
-title= "The ranks and titles of royal and governmental authority"
-heading= "Parts 32"
-description= "The Patriarch was called 'Pope' meaning 'Father of fathers'. It first appeared in Egypt, according to the theory of Jirjis b. al-'Amid in his History"
-image= "/covers/muq.jpg"
-date= 2020-01-11
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-31"
-linkbtext= "Part 31"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-32b"
-linkftext= "Part 32b"
-+++
+---
+title: "The ranks and titles of royal and governmental authority"
+description: "The Patriarch was called 'Pope' meaning 'Father of fathers'. It first appeared in Egypt, according to the theory of Jirjis b. al-'Amid in his History"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 32a"
+date: 2019-11-30
+---
+
+
+
 
 <!-- ## 32. The ranks of royal and governmental authority and the titles that go with those ranks. -->
 

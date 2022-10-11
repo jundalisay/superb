@@ -48,6 +48,8 @@ The value of land was determined by its productivity.
 
 The state used to fix the price of agricultural produce. This prevented the business class from exploiting farmers.
 
+
+
 ## The Impact of the British
 
 India's economic balance was lost after the British arrived, mainly because of 2 reasons.

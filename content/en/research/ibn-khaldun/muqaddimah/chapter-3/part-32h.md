@@ -3,7 +3,7 @@ title: "The Police"
 description: "In Ifriqiyah, the chief of police is now called the 'magistrate' (hakim)"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 5"
+heading: "Part 32h"
 date: 2020-11-20
 ---
 
@@ -55,9 +55,13 @@ The Byzantines, the European Christians, and the Goths lived on the northern sho
 
 Thus, they achieved superiority over the Berbers and deprived them of their power. They had populous cities there, such as Carthage, Sbeitla, Jalula, 518 Murnaq, 519 Cherchel, and Tangier. The ancient master of Carthage used to fight the master of Rome and to send fleets loaded with armies and equipment to wage war against him. Thus, (seafaring) is a custom of the inhabitants of both shores of the Mediterranean, which was known in ancient as in modern times.
 
-When the Muslims took possession of Egypt, Umar b. al-Khattab wrote to 'Amr b. al-'As and asked him to describe the sea to him. 'Amr replied= "The sea is a great creature upon which weak creatures ride -like worms upon a piece of wood."
+When the Muslims took possession of Egypt, Umar b. al-Khattab wrote to 'Amr b. al-'As and asked him to describe the sea to him. Amr replied: "The sea is a great creature upon which weak creatures ride -like worms upon a piece of wood."
 
-520 Thus, he recommended at that time that the Muslims be kept away from seafaring. No Arab traveled by sea save those who did so without 'Umar's knowledge and were punished by him for it. 'Umar thus punished 'Arfajah b. Harthamah al-Azdi, the chief of the Bajilah. 521 He sent him on a raid against Oman, and he learned (later that he had raided it by sea). 522 He disapproved of his having made the raid by sea, and told him so in no uncertain terms. Thus it remained until
+<!-- 520  -->
+
+Thus, he recommended at that time that the Muslims be kept away from seafaring. No Arab traveled by sea save those who did so without 'Umar's knowledge and were punished by him for it. 'Umar thus punished 'Arfajah b. Harthamah al-Azdi, the chief of the Bajilah. <!-- 521  -->
+
+He sent him on a raid against Oman, and he learned (later that he had raided it by sea). 522 He disapproved of his having made the raid by sea, and told him so in no uncertain terms. Thus it remained until
 Mu'awiyah's reign. He permitted the Muslims to go by sea and to wage the holy war
 in ships. 
 
@@ -85,8 +89,7 @@ During the time of the Muslim dynasty, the Muslims gained control over the whole
 
 The Muslims conquered the islands that lie off its shores, such as Majorca, Minorca, Ibiza, Sardinia, Sicily, Pantelleria, Malta, Crete, Cyprus, and of all the other provinces of the Byzantines and the European Christians (on its shores). 
 
-Abu 1-Qasim ash-Shi'i 528 and his descendants sent their fleets on raids against the island of Genoa from al-Mahdtyah. They returned victorious with booty. Mujahid al-'Amiri, the master of Denia, one of the reyes de taifas, conquered the island of Sardinia with his fleet in the year 405
-[1014/15]. 529 
+Abu 1-Qasim ash-Shi'i 528 and his descendants sent their fleets on raids against the island of Genoa from al-Mahdtyah. They returned victorious with booty. Mujahid al-'Amiri, the master of Denia, one of the reyes de taifas, conquered the island of Sardinia with his fleet in the year 405 [1014/15]. <!-- 529  -->
 
 The Christians reconquered it in due course.
 
@@ -118,7 +121,9 @@ They supported them with equipment and food. The fleet of Alexandria could not s
 
 In this situation, Salah-ad-din sent 'Abd-alKarim b. Munqidh, a member of the family of the Banu Munqidh, the rulers of Shayzar, as his ambassador to Ya'qub al-Mansur, the Almohad ruler of the Maghrib at that time. 536 Salahaddin had taken Shayzar away from the Banu Munqidh but had spared them to use them in his government. Now, he sent 'Abd-al-Karim, a member of that (family), to the ruler of the Maghrib to ask for the support of his fleets, to prevent the fleets of the unbelievers from achieving their desire of bringing relief to the Christians in the Syrian border cities (ports). ('Abd-al-Karim) carried a letter from (Salah-addin) to that effect. The letter had been composed by (alQadi) al-Fadil al-Baysani. 537 It began with these words= "May God open to our Lord the gates of success and good fortune." 
 
-The letter is quoted by the 'Imad al-Isfahani in the Fath alQudsi. 538 Al-Mansur was greatly annoyed with the (members of the embassy), 539 because they did not address him as Commander of the Faithful; but he concealed his annoyance and treated them with great kindness and honor. He sent them back to (Salah-ad-din) who had sent them, and did not comply with his request.
+The letter is quoted by the 'Imad al-Isfahani in the Fath alQudsi. 538 Al-Mansur was greatly annoyed with the (members of the embassy), <!-- 539 --> because they did not address him as Commander of the Faithful. 
+
+But he concealed his annoyance and treated them with great kindness and honor. He sent them back to (Salah-ad-din) who had sent them, and did not comply with his request.
 
 This (story) is evidence (for the facts that) the ruler of the Maghrib alone possessed a fleet, that the Christians controlled the eastern Mediterranean, and that the dynasties in Egypt and Syria at that time and later were not interested in naval matters or in building up government fleets. Ya'qub al-Mansur then died, and the Almohad dynasty became infirm. 
 
@@ -132,4 +137,6 @@ They again showed their former superiority over others on the high seas of (the 
 
 The Muslims came to be strangers to the Mediterranean. The only exceptions are a few inhabitants of the coastal regions, who are active on (the sea). They should have many assistants and supporters, or they ought to have support from the dynasties to enable them to recruit help and to work toward the goal of (increased seafaring activities).
 
-The rank (of admiral) has been preserved to this day in the dynasties of the Maghrib. There, the identity (of the admiralty is still preserved), and how to take care of a fleet, how to build ships and navigate them, is known. Perhaps some political opportunity will arise in the coastal countries, and the Muslims will (once again) ask the wind to blow against unbelief and unbelievers. The inhabitants of the Maghrib have it on the authority of the books of predictions that the Muslims will yet have to make a successful attack against the Christians and conquer the lands of the European Christians beyond the sea. This, it is said, will take place by sea.
+The rank (of admiral) has been preserved to this day in the dynasties of the Maghrib. There, the identity (of the admiralty is still preserved), and how to take care of a fleet, how to build ships and navigate them, is known. Perhaps some political opportunity will arise in the coastal countries, and the Muslims will (once again) ask the wind to blow against unbelief and unbelievers. 
+
+The inhabitants of the Maghrib have it on the authority of the books of predictions that the Muslims will yet have to make a successful attack against the Christians and conquer the lands of the European Christians beyond the sea. This, it is said, will take place by sea.

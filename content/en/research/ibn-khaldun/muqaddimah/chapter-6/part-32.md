@@ -1,14 +1,13 @@
-+++
-title= "The impossibility of alchemy and the harm it causes"
-description= "This is a science that involves arguing with logical proofs in defense of the articles of faith and refuting innovators who deviate in their dogmas from the early Muslims and Muslim orthodoxy"
-image= "/covers/muq.jpg"
-date= 2022-01-08
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-13"
-linkbtext= "Part 13"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-15"
-linkftext= "Part 15"
-heading= "Part 14"
-+++
+---
+title: "The impossibility of alchemy and the harm it causes"
+description: "They follow different procedures followed depending on "the Noble Stone" which is their invented substance. This may be excrements, or blood, or hair, or eggs, or anything else."
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 31"
+date: 2021-11-18
+---
+
+
 
 <!-- The harm that arises from practicing it. 1071 -->
 
@@ -17,23 +16,20 @@ Many unemployed people<!--  who are unable to earn their living 1072  -->are led
 - the alchemists find it easier and simpler to acquire property
 
 In fact, however, they have to pay for (their efforts) in the form of trouble, hardship, and difficulties, and in the form of
-persecution by the authorities and loss of property through expenditures. In addition,
-he 1073 loses standing and, eventually, when his secret 1074 is discovered, faces ruin.
+persecution by the authorities and loss of property through expenditures. In addition, he <!-- 1073 --> loses standing and, eventually, when his secret 1074 is discovered, faces ruin.
 
 They think that (in practicing alchemy) they know some gainful craft.
 
-However, they have been stimulated (to practice alchemy) solely by the thought that some minerals may be changed and transformed artificially into others, because of
-the matter common (to all minerals). Thus, they try to treat silver and transform it into gold; copper and tin (they try to transform) into silver. They think that it is possible in the realm of nature to do this.
+However, they have been stimulated (to practice alchemy) solely by the thought that some minerals may be changed and transformed artificially into others, because of the matter common (to all minerals). Thus, they try to treat silver and transform it into gold; copper and tin (they try to transform) into silver. They think that it is possible in the realm of nature to do this.
 
-They follow different procedures followed depending on "the Noble Stone" which is their invented substance. This may be excrements, or blood, or hair, or eggs, or anything else. 1076
+They follow different procedures followed depending on "the Noble Stone" which is their invented substance. This may be excrements, or blood, or hair, or eggs, or anything else. <!-- 1076 -->
 
 <!-- the  by (the alchemists). These depend
 on the different opinions held concerning the character and form of the (alchemical)
 treatment and concerning the substance invented 1075 for the treatment and which
 they call "."  -->
 
-They pulverize it with a pestle on a smooth stone while mixing it with water and drugs. During the pulverization it is macerated in water, after drugs have been
-added, suitable for the purpose (the substance) is to achieve and able to effect its transformation into the desired mineral. After having been macerated, (the
+They pulverize it with a pestle on a smooth stone while mixing it with water and drugs. During the pulverization it is macerated in water, after drugs have been added, suitable for the purpose (the substance) is to achieve and able to effect its transformation into the desired mineral. After having been macerated, (the
 substance) is dried in the sun, or cooked in a fire, or sublimated, or calcified, in order to eliminate the water or earth it contains. If this process and treatment are completed to the satisfaction of the (alchemist) and in accordance with the requirements of the basic principles of alchemy, the result is an earthen or fluid
 (substance) which is called "the elixir." 
 
@@ -46,10 +42,11 @@ stomach and quickly transformed into nourishment. 1079
 In the same way, the elixir of gold and silver assimilates the minerals with which it comes into contact to (goldand silver) and transforms them into the forms of (gold and silver). This, in general, is the sum total of the theory (of alchemists). We find that the (alchemists) constantly experiment with the (alchemical) process and hope to find their sustenance and livelihood in it. They transmit to each other the rules and basic principles (of the treatment as derived) from the books of the .leading earlier alchemists. They pass these books around among themselves and discuss the meaning and interpretation of the puzzling expressions and secrets in them. 
 
 
-For the most part, they are like riddles. Such books are the Seventy Treatises of Jabir b. Hayyan, the Rutbat al-hakim of Maslamah al-Majriti, (the works) of at-
-Tughra'i, and the very well-composed poem of al-Mughayribi, 1080 and similar works. However, after all (these efforts), the (alchemists) do not get anywhere.
-I once discussed something of the sort with our teacher, the leading Spanish scholar, Abul-Barakat al-Ballafigi. 1081 I called his attention to a certain work on
-(alchemy). Reexamined it for a long time, then returned it to me and said= 
+For the most part, they are like riddles. Such books are the Seventy Treatises of Jabir b. Hayyan, the Rutbat al-hakim of Maslamah al-Majriti, (the works) of at-Tughra'i, and the very well-composed poem of al-Mughayribi, 1080 and similar works. However, after all (these efforts), the (alchemists) do not get anywhere.
+
+I once discussed something of the sort with our teacher, the leading Spanish scholar, Abul-Barakat al-Ballafigi. 1081 I called his attention to a certain work on (alchemy). 
+
+Reexamined it for a long time, then returned it to me and said= 
 
 "I guarantee it to (the author) that he will come home a failure."
 
@@ -122,18 +119,25 @@ and Determiner of things, God Almighty.  -->
 
 At-Tughra'i, one of the great alchemists, thought that Avicenna was wrong. According to him:
 
-{{< quote >}}
+{{< q >}}
 Alchemical processing does not mean a new creation of a (specific) difference, but merely the conditioning of a substance for the acceptance of a particular (specific difference). After (a given substance) is conditioned, it gets (its new specific) difference from its Creator and Originator.
 
 This might be compared to the way light pours upon bodies as the result ofpolishing and giving (them) luster. We do not have to perceive (tasawwur) or know
 (how) this (comes about).
+{{< /q >}}
 
-Certain animals spontaneously generate even though we are ignorant of their specific differences. For instance, scorpions are created from earth and straw. Snakes are created from hair. Agricultural scholars 1092 mention that bees, when they no longer exist, are created (again) from calves, and that reeds come out of the horns of cloven-hoofed animals and are transformed into sugar cane, when the horns are filled with honey while the soil is being prepared for them (to be planted). Why, then, should it be impossible for us to make similar observations in the case of 1093 minerals? All that comes about by artificial means applied to a given substance. Treatment and processing conditions the substance for the acceptance of (specific) differences, no  more."
+
+{{< q >}}
+Certain animals spontaneously generate even though we are ignorant of their specific differences. For instance, scorpions are created from earth and straw. Snakes are created from hair. 
+
+Agricultural scholars 1092 mention that bees, when they no longer exist, are created (again) from calves, and that reeds come out of the horns of cloven-hoofed animals and are transformed into sugar cane, when the horns are filled with honey while the soil is being prepared for them (to be planted). Why, then, should it be impossible for us to make similar observations in the case of <!-- 1093 --> minerals? 
+
+All that comes about by artificial means applied to a given substance. Treatment and processing conditions the substance for the acceptance of (specific) differences, no  more."
 
 We attempt something similar with regard to gold and silver. We take a certain matter possessing primary preparedness for the
 acceptance of the ,form of gold and silver. We treat it and then we attempt to process it until it possesses fully the preparedness to accept the (specific) difference
 of (gold and silver)."
-{{< /quote >}}
+{{< /q >}}
 
 <!-- This is the gist of at-Tughra'i's discussion. He is right in his refutation of
 Avicenna.

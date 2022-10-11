@@ -1,15 +1,12 @@
-+++
-title= "Most of the scholars in Islam have been Persians"
-description= "In the beginning, Islam had no sciences or crafts because of the simple conditions of the desert attitude"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-date= 2022-01-02
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-39"
-linkbtext= "Part 39"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-44"
-linkftext= "Part 44"
-heading= "Part 42"
-+++
+---
+title: "Most of the scholars in Islam have been Persians"
+description: "In the beginning, Islam had no sciences or crafts because of the simple conditions of the desert attitude"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 42"
+date: 2021-11-06
+---
+
 
 <!-- ## 42. Most of the scholars in Islam have been Persians. 1206 -->
 
@@ -63,7 +60,11 @@ The Arabs who came into contact with that flourishing sedentary culture and exch
 
 They were the men of the dynasty, at once its protectors and the executors of its policy. In addition, at that time, they considered it a contemptible thing to be a scholar, because scholarship is a craft, and political leaders are always contemptuous of the crafts and professions and everything that leads to them.1217 Thus, they left such things to non-Arabs and persons of mixed Arab and non-Arab parentage (muwallad). 
 
-The latter cultivated them, and (the Arabs) always considered it their right to cultivate them, as they were their custom (din) and their sciences, and never felt complete contempt for the men learned in them. The final result, (law ever,) was that when the Arabs lost power and the non-Arabs took over, the religious sciences had no place with the men in power, because the latter had no relations with (scholarship). Scholars were viewed with contempt, 1218 because the (men in power) saw that (scholars) had no contact with them and were occupying themselves with things that were of no interest to the (men in power) in governmental and political matters, as we mentioned in connection with the religious ranks. 1219 The fact established here is the reason why (all) scholars in the religious sciences, or most of them, are nonArabs.
+The latter cultivated them, and (the Arabs) always considered it their right to cultivate them, as they were their custom (din) and their sciences, and never felt complete contempt for the men learned in them. 
+
+The final result, (law ever,) was that when the Arabs lost power and the non-Arabs took over, the religious sciences had no place with the men in power, because the latter had no relations with (scholarship). 
+
+Scholars were viewed with contempt, 1218 because the (men in power) saw that (scholars) had no contact with them and were occupying themselves with things that were of no interest to the (men in power) in governmental and political matters, as we mentioned in connection with the religious ranks. 1219 The fact established here is the reason why (all) scholars in the religious sciences, or most of them, are nonArabs.
 
 The intellectual sciences, as well, made their appearance in Islam only after scholars and authors had become a distinct group of people and all scholarship had become a craft. (The intellectual sciences) were then the special preserve of non-Arabs, left alone by the Arabs, who did not cultivate them. They were cultivated only by Arabicized non-Arabs (Persians) 1220 as was the case with all the crafts, as we stated at the beginning.
 

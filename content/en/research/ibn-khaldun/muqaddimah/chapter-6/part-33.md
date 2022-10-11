@@ -1,18 +1,17 @@
-+++
-title= "The valid purposes which must be remembered when writing a literary composition"
-description= "There are seven purposes for creating a literary work"
-image= "/covers/muq.jpg"
-date= 2022-01-06
-author= "Ibn Khaldun"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-32b"
-linkbtext= "Part 32b"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-34"
-linkftext= "Part 34"
-heading= "Part 33"
-+++
+---
+title: "The valid purposes which must be remembered when writing a literary composition"
+description: "There are seven purposes for creating a literary work."
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 33"
+date: 2021-11-14
+---
 
 
-The storehouse of human science is the soul of man. In it, God has implanted perception (idrak) enabling it to think and, thus, to acquire (scientific knowledge). (The process) starts with perception (tasawwur) of the realities and is then continued by affirmation or negation of the essential attributes of the (realities), either directly or through an intermediary.
+
+The storehouse of human science is the soul of man. In it, God has implanted perception (idrak) enabling it to think and, thus, to acquire (scientific knowledge). 
+
+The process starts with perception (tasawwur) of the realities and is then continued by affirmation or negation of the essential attributes of the (realities), either directly or through an intermediary.
 
 Man's ability to think thus eventually produces a problematic situation which it tries to solve affirmatively or negatively. When scientific picture has been established in the mind (of one person) through these (efforts), it must, of necessity, be communicated to someone else, either through instruction or through discussion, in order to polish the mind by trying to show its soundness.
 
@@ -123,4 +122,4 @@ We take refuge in God from doing what an intelligent person ought not to
 do. 
  -->
 
-> *Superphysics Note= This is why we simplify the works of the Enlightenment
+> *Superphysics Note: This is why we simplify the works of the Enlightenment

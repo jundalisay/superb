@@ -24,7 +24,7 @@ All bodies, both hard and liquid, are made from the same <!-- matter --> aether.
 It is impossible to conceive of the parts of that aether <!-- matter --> that are more solid or occupying less space than when they are compacted <!--  each of them is touched on all sides by the others surrounding it -->. It follows that liquid bodies have void*, if there can be a void anywhere, but hard bodies do not. Because of this void, the parts of the liquid can much more easily press and arrange themselves against one another than those of hard bodies.
 
 
-> *Superphysics note= Here, the aether-void is one of the properties of the aether 
+> *Superphysics note: Here, the aether-void is one of the properties of the aether 
 
 
 For example, if you place powder in a jar, you can shake the jar and pound against it to make room for more powder. But, if you pour liquid into it, the liquid spontaneously arranges itself in as small a place as one can put it. 

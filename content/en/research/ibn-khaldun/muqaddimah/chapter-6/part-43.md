@@ -1,14 +1,12 @@
-+++
-title= "A person whose first language was not Arabic has a harder time acquiring the sciences"
-description= "A person whose first language was not Arabic has a harder time to acquire the sciences than a native Arabic speaker"
-image= "/covers/muq.jpg"
-date= 2022-01-31
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-42"
-linkbtext= "Part 42"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-44"
-linkftext= "Part 44"
-heading= "Part 43"
-+++
+---
+title: "A person whose first language was not Arabic has a harder time acquiring the sciences"
+description: "A person whose first language was not Arabic has a harder time to acquire the sciences than a native Arabic speaker"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 43"
+date: 2021-11-04
+---
+
 
 <!--  than the (native) speaker of Arabic to . 1225 -->
 
@@ -18,14 +16,15 @@ This applies to the religious sciences in which research is mostly concerned wit
 
 The same fact also applies to the intellectual sciences, which are matters of the mind. Linguistic expression is merely the interpreter of ideas that are in the mind. 
 
-One (person) conveys them to another in oral discussion, instruction, and constant scientific research. His purpose is to obtain the (various) habits of (all these things 1255a ) through constant application. Words and expressions are media and veils between the ideas. 
+One (person) conveys them to another in oral discussion, instruction, and constant scientific research. His purpose is to obtain the (various) habits of (all these things <!-- 1255a -->) through constant application. Words and expressions are media and veils between the ideas. 
 
-They constitute the bonds between them and give them their final imprint. The student of ideas must extract them from the words that express them. For this he needs a knowledge of their linguistic meaning and a good (linguistic) habit. Otherwise, it is difficult for him to get (the ideas), apart from the (usual) difficulties inherent in mental investigation of them. 
+They constitute the bonds between them and give them their final imprint. The student of ideas must extract them from the words that express them. 
+
+For this, he needs a knowledge of their linguistic meaning and a good (linguistic) habit. Otherwise, it is difficult for him to get (the ideas), apart from the (usual) difficulties inherent in mental investigation of them. 
 
 When he has a firmly rooted habit as far as semantics is concerned, so that the (correct) ideas present themselves to his mind when he (hears) certain words used, spontaneously and naturally, the veil between the ideas and the understanding is either totally removed, or becomes less heavy, and the only task that remains is to investigate the problems inherent in the ideas.
 
-All this applies to instruction by personal contact in the form of oral address and explanation. But when the student has to rely upon the study of books and written material and must understand scientific problems from the forms of written letters in books, 1226 he is confronted with another veil, (namely, the veil) that
-separates handwriting and the form of letters (found) in writing from the spoken words (found) in the imagination. 
+All this applies to instruction by personal contact in the form of oral address and explanation. But when the student has to rely upon the study of books and written material and must understand scientific problems from the forms of written letters in books, <!-- 1226 --> he is confronted with another veil, (namely, the veil) that separates handwriting and the form of letters (found) in writing from the spoken words (found) in the imagination. 
 
 The written letters have their own way of indicating the spoken words. As long as that way is not known, it is impossible to know what they express. If it is known imperfectly, (the meaning) expressed (by the letters) is known imperfectly. Thus, the student is confronted with another veil standing between him and his objective of attaining scientific habits, one that is more difficult to cope with than the first one. 
 
@@ -46,28 +45,27 @@ they had been wiped out and there was no longer any interest in them.
 
 Language is a habit of the tongue. Likewise, handwriting is a craft, the habit of which is located in the hand. 1229 
 
-The tongue which had at first the habit of speaking another language than Arabic,
-becomes deficient in (its mastery of) Arabic, because, as we have mentioned
-before, 1230 the person whose habit has advanced to a certain point in a particular
-craft is rarely able to master another one. This is obvious. (Now,) if (a person) is
-deficient in (his mastery of) Arabic, in (his knowledge of) the meaning of its words
+The tongue which had at first the habit of speaking another language than Arabic, becomes deficient in (its mastery of) Arabic, because, as we have mentioned before, <!-- 1230 --> the person whose habit has advanced to a certain point in a particular craft is rarely able to master another one. This is obvious. 
+
+If a person is deficient in his mastery of Arabic, in (his knowledge of) the meaning of its words
 and its writing, it is difficult for him to derive the ideas from (Arabic words and
-Arabic writing), as has been mentioned before. Only if the early habit of speaking a
+Arabic writing. 
+
+Only if the early habit of speaking a
 nonArab language is not yet firmly established in a person when he makes the
 transition from it to Arabic, as is the case with small non-Arab children who grow
 up with Arabs before their (habit) of speaking a non-Arab language is firmly es-
 tablished, only then does the Arabic language come to be like a first (native)
 language, and his ability to derive the ideas from (the words of) the Arabic language
-is not deficient. 1231 The same applies to persons who learned non-Arabic writing
-before Arabic writing.
+is not deficient.<!--  1231 --> 
 
-This is why we find that most non-Arab scholars in their research and classes do not copy comments (directly) from books but read them aloud. In this way they
-are less disturbed by the veils (between words and ideas), so that they can get more
-easily at the ideas. When a person possesses the perfect habit as far as verbal and
-written expression is concerned, he does not have to (read aloud). For him, it has
-become like a firmly ingrained natural disposition to derive an understanding of
-words from writing and of ideas from words. The veils between him and the ideas
-are lifted.
+The same applies to persons who learned non-Arabic writing before Arabic writing.
+
+This is why we find that most non-Arab scholars in their research and classes do not copy comments (directly) from books but read them aloud. In this way they are less disturbed by the veils (between words and ideas), so that they can get more
+easily at the ideas. 
+
+When a person possesses the perfect habit as far as verbal and written expression is concerned, he does not have to (read aloud). For him, it has become like a firmly ingrained natural disposition to derive an understanding of
+words from writing and of ideas from words. The veils between him and the ideas are lifted.
 
 Intensive study and constant practice of the language and of writing may lead a person to a firmly rooted habit, as we find in most non-Arab scholars. 
 

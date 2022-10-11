@@ -234,7 +234,7 @@ For it is very likely that the parts of the aethereal air toward this sphere of 
 
 [47] This shift from volume to surface as a measure of a body's magnitude only further confuses the question of the parameters of "motion" or "force."
 
-[48] The surface varies as the square of the ball's radius, the volume as its cube; hence, the ratio of surface to volume varies as 1/radius and so decreases with increasing radius.
+[48] The surface varies as the square of the ball's radius, the volume as its cube. Hence, the ratio of surface to volume varies as 1/radius. And so, it decreases while the radius increases.
 
 [49] Here again a principle of natural economy substitutes for a missing mechanism; cf. above, n. 10.
 

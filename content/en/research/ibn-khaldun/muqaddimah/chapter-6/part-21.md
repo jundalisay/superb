@@ -1,17 +1,12 @@
-+++
-title= "Astronomy"
-description= "The geometrical sciences are Astronomy, Surveying, Optics"
-image= "/covers/muq.jpg"
-date= 2022-01-17
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-20"
-linkbtext= "Part 20"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-22"
-linkftext= "Part 22"
-heading= "Part 21"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "The Science of Astronomy"
+description: "Astronomy studies the motions of the fixed stars and the planets"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 20"
+date: 2021-12-14
+---
+
 
 
 Astronomy studies the motions of the fixed stars and the planets. 
@@ -51,19 +46,20 @@ in the Kitdb al-Iqtisar. Ibn alFarghani
 wrote an abridged as-Salt, astronomy. In it, he treated the subject along more easily understandable lines. He
 omitted the geometrical proofs.
 
-## Astronomical tables 678
+## Astronomical tables 
+<!-- 678 -->
 
 A subdivision of astronomy is the science of astronomical tables. This is based on calculations according to arithmetical rules. It is concerned with the courses of motions peculiar to each star and with the character of that motion, fast,
 slow, direct, retrograde, and so on, as proven by astronomical means. 
 
 This shows the positions of the stars in their spheres at any given time, by calculating their motions according to the rules evolved from astronomical works. This craft follows certain norms. They constitute a sort of introductory and basic material for it. 
 
-They deal with months and days and past eras. 679
+They deal with months and days and past eras. <!-- 679 -->
 
 It further follows established basic principles. They deal with apogee and perigee, declinations, 680 the different kinds of motions, and how (these things) shed light upon each other. They are written down in well-arranged tables, in order to
 make it easy for students. 
 
-These tables are called zij. The determination of the positions of the stars at a given time by means of this craft is called "adjustment and tabulation." 681
+These tables are called zij. The determination of the positions of the stars at a given time by means of this craft is called "adjustment and tabulation." <!-- 681 -->
 
 Both early and later scholars have written many works on the subject. Among such scholars, for instance, were alBattani 682 and Ibn al-Kammad.683 
 

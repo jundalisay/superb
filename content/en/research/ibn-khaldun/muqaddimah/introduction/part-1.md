@@ -1,15 +1,12 @@
-+++
-title= "History"
-heading= "Introduction Part 1"
-description= "History is a discipline that is very useful and has many different approaches"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/"
-linkbtext= "Index"
-linkf= "/research/ibn-khaldun/muqaddimah"
-linkftext= "Index"
-# linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Wealth of Nations
-+++
+---
+title: "History"
+description: "History is a discipline that is very useful and has many different approaches"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 1"
+date: 2021-10-30
+---
+
 
 <!-- Abd Ar Rahman bin Muhammed ibn Khaldun -->
 
@@ -128,7 +125,9 @@ Because of the unusual character of the story, there is much eagerness to pass i
 The distance, however, is greater, and the Persian and Byzantine nations are interposed on the way to the Turks. There is
 no report that the Tubba's ever took possession of the countries of the Persians and Byzantines. They merely fought the Persians on the borders of the 'Iraq and of the Arab countries between al-Bahrayn and al-Hirah, which were border regions common to both nations. 
 
-These wars took place between the Tubba' Dhul-Adh'ar and the Kayyanid king Kaygawus, and again between the Tubba' al-Asghar 66 Abu Karib and the Kayyanid Yastasb (Bishtasp). There were other wars later on with rulers of the dynasties that succeeded the Kayyanids, and, in turn, with their successors, the Sassanians. It would, however, ordinarily have been impossible for the Tubba's to traverse the land of the Persians on their way to raid the countries of the Turks and Tibet, because of the nations that are interposed on the way to the Turks, because of the need for food and fodder, as well as the great distance, mentioned before. All information to this effect is silly and fictitious. 
+These wars took place between the Tubba' Dhul-Adh'ar and the Kayyanid king Kaygawus, and again between the Tubba' al-Asghar 66 Abu Karib and the Kayyanid Yastasb (Bishtasp). There were other wars later on with rulers of the dynasties that succeeded the Kayyanids, and, in turn, with their successors, the Sassanians.
+
+It would, however, ordinarily have been impossible for the Tubba's to traverse the land of the Persians on their way to raid the countries of the Turks and Tibet, because of the nations that are interposed on the way to the Turks, because of the need for food and fodder, as well as the great distance, mentioned before. All information to this effect is silly and fictitious. 
 
 Even if the way this information is transmitted were sound, the points mentioned would cast suspicion upon it. All the more then must the information be suspect since the manner in which it has been transmitted is not sound. In connection with Yathrib (Medina) and the Aws and Khazraj, Ibn Ishaq 67 says that the last Tubba' traveled eastward to the 'Iraq and Persia, but a raid by the Tubba's against the countries of the Turks and Tibet is in no way confirmed by the established facts. Assertions to this effect should not be trusted; all such information should be investigated and checked with sound norms.
 

@@ -38,6 +38,7 @@ There are other sources of sugar which are not very commonly used because they a
 
 Research should be done on these and other sugar crops to make them commercially viable. Research should also be done on commercially viable sources of sugar to increase their yield. High yield varieties of sugar crops should always be grown if they are available.
 
+
 ## Sugar Cane
 
 Sugar cane is a member of the grass group. 
@@ -66,17 +67,18 @@ Elephantum potato (khámálu) and elephant root yam (ol) have more food value 
 
 Sweet potato is a creeping tuber. It can be planted among many other plants, including fruit trees. **It grows very well with bamboo because it can climb the bamboo poles.**
 
-There are two main varieties of sweet potato:
+It has 2 main varieties:
 - sweet juice potato (sháṋkálu)
 - sweet potato (miśt́i álu, rángálu, shakkarkand)
 
-Where sweet potatoes are grown, the land may also be used for the cultivation of bamboo, sugar cane, banana and papaya. 
+Where sweet potatoes are grown, the land may also be used for bamboo, sugar cane, banana and papaya. 
 
 The early variety of sweet potato should be grown from Áshvina to Agraháyańa. The late variety from Paoś to Phálguna. 
 
 Almost any space between two other plants can be used to grow sweet juice potato from the month of Áshvina to Phálguna.
 
 A good quality solid molasses can be produced from sweet juice potato. Dehydrated sweet potato powder can also be made.
+
 
 
 ## Date Palm (Khejur)
@@ -96,7 +98,10 @@ Date palm molasses is 125 times more substantial than refined sugar. For diabeti
 
 Indian Palmyra is another palm which produces sweet juice for making sugar. Sugar, solid molasses, hard molasses (bheli gur) and refined molasses (khadesri) and many other products can be made from the Indian palmyra tree. Half concentrated palmyra juice in an airtight tin can be produced for sale. Sugar candy can also be made.
 
-To plant the Indian palmyra tree, make a waist deep pit and fill it up with an equal mixture of soil and compost. Plant the seeds or seedlings. After some time, when the soil goes down, fill it up again with soil. If the plant dies, replace it with a larger seedling. The same technique can be used to plant banyan. Indian Palmyra is to be planted alternately with banyan as a riverside plantation.
+To plant the Indian palmyra tree, make a waist deep pit and fill it up with an equal mixture of soil and compost. Plant the seeds or seedlings. 
+
+After some time, when the soil goes down, fill it up again with soil. If the plant dies, replace it with a larger seedling. The same technique can be used to plant banyan. Indian Palmyra is to be planted alternately with banyan as a riverside plantation.
+
 
 ## Tál
 
@@ -111,6 +116,7 @@ There are two varieties of tál according to colour:
 The 3-seeded tál is called doma tál or hadi tál. It is found in the Howrah, Midnapur, 2´ Parganas and Patna districts. No special soil preparation is required for tál. It grows in normal soil, although wet, alluvial soil is best. 
 
 In Howrah and Midnapur districts, solid molasses is made from it. Fermented juice (tadi), not solid molasses, is usually made from the Patna variety. Solid molasses, fermented juice (tadi) and yeast can all be made from tál. It grows within 15 miles of either side of the Ganges, but tál cannot be grown in Gaya.
+
 
 ## Gol
 

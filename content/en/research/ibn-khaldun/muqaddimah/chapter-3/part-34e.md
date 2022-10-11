@@ -3,11 +3,9 @@ title: "The Tiraz"
 description: "It is part of royal pomp to have the names of rulers or their peculiar marks embroidered on the silk"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 33e"
-date: 2020-11-12
+heading: "Part 34e"
+date: 2020-11-08
 ---
-
-
 
 
 
@@ -80,8 +78,13 @@ It is a great luxury. However, armies become more vulnerable to night attacks wh
 Therefore, other protective measures are needed in this connection, as we shall mention. 601
 
 
-The prayer enclosure (magsurah) and the prayer during the (Friday) sermon These two things are caliphal prerogatives and royal emblems in Islam. They are not known in non-Muslim dynasties.
-The enclosure for the ruler to pray in is a latticed screen around the prayer niche (mihrab), and the space immediately adjacent. The first to use one was Mu'awiyah b. Abi Sufyan, after a Kharijite had stabbed him. The story is well known.
+## The prayer enclosure (magsurah) and the prayer during the (Friday) sermon.
+
+These 2 things are caliphal prerogatives and royal emblems in Islam. 
+
+They are not known in non-Muslim dynasties.
+
+The enclosure for the ruler to pray in is a latticed screen around the prayer niche (mihrab), and the space immediately adjacent. The first to use one was Mu'awiyah b. Abi Sufyan, after a Kharijite had stabbed him. <!-- The story is well known. -->
 
 The first to use one was Marwan b. alHakam, after a Yemenite had stabbed him. 603 Afterwards, all the caliphs used it. It became a custom distinguishing the ruler from the rest of the people during prayer. 
 
@@ -124,7 +127,9 @@ They were satisfied with a summary, anonymous reference to the one entrusted wit
 
 This meant that the summary prayer could refer only to the 'Abbasid caliph, following the ancient tradition. They did not think of going beyond that, of clearly indicating the ruler and pronouncing his name.
 
-The story goes that the amir Abu Zakariya' Yahya b. Abi Hafs took Tlemcen away from the founder of the 'Abdal-Wadid dynasty, Yaghamrasin b. Zayyan. 608 He then decided upon returning him to power under certain conditions, which he stipulated. Among them was the condition that his (Abu Zakariya"s) name should be mentioned from the pulpits of (Yaghamrasin's) province. On that occasion, Yaghamrasin said:
+The story goes that the amir Abu Zakariya' Yahya b. Abi Hafs took Tlemcen away from the founder of the Abdal-Wadid dynasty, Yaghamrasin b. Zayyan. <!-- 608  -->
+
+He then decided upon returning him to power under certain conditions, which he stipulated. Among them was the condition that his (Abu Zakariya"s) name should be mentioned from the pulpits of (Yaghamrasin's) province. On that occasion, Yaghamrasin said:
 
 "They (the pulpits) are those pieces of wood 609 of theirs from which they mention whomever they like."
 

@@ -13,11 +13,14 @@ Bodies that revolve always tend to move away from the centers they revolve from.
 
 <!-- Here, however, I must determine more specifically in what directions the parts of the matter of which the heavens and the stars are composed do tend.[54] -->
 
-A body that tends towards some direction does not mean that there is a thought or desire inside the body that carries it there. Instead, it is disposed to move there and that there is something . <!-- , whether it truly moves or, rather, some other body --> preventing it. <!-- It is principally in this last sense that I use the word "tend," because it seems to signify some effort and because --> "Tend" here means that the body is doing an effort to counteract such a <!-- resis  presupposes some --> resistance. 
+A body that tends towards some direction does not mean that there is a thought or desire inside the body that carries it there. Instead, it is disposed to move there and that there is something <!-- , whether it truly moves or, rather, some other body --> preventing it. <!-- It is principally in this last sense that I use the word "tend," because it seems to signify some effort and because --> 
+- "Tend" here means that the body is doing an effort to counteract such a <!-- resis  presupposes some --> resistance. 
 
-The body thus tends towards different directions at the same time according to different points of view. 
+**The body thus tends towards different directions at the same time according to different points of view.** 
 
-There are often diverse causes that act together on the same body. These impede each other's effect. The same body can be thought of as tending in different directions at the same time. 
+There are often diverse causes that act together on the same body. 
+- These impede each other's effect.
+- The same body can be thought of as tending in different directions at the same time. 
 
 Thus the parts of the earth tend to:
 - move away from its center when they are considered:
@@ -26,7 +29,7 @@ Thus the parts of the earth tend to:
 - move closer to its center when one considers the force of the aether <!--  parts of the heaven --> pushing them there<!-- , and
 - move away from its center if one considers them . -->
 
-For example, the stone turning in a sling along circle AB tends toward C when it is at point A, if we consider only its agitation all alone. 
+For example, the stone turning in a sling along circle AB tends toward C when it is at point A, if we consider only its agitation all alone.
 
 It tends circularly from `A` to `B`, if we consider its motion as regulated and determined by the length of the cord retaining it.
 

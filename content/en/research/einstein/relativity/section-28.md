@@ -10,11 +10,11 @@ image: "/covers/rel.jpg"
 
 <!-- We are now in a position to replace the provisional formulation of the general principle of relativity given in Section 18 by an exact formulation.  -->
 
-Our provisional formulation was=  
+Our provisional formulation was:
 
 
 {{< q a="einbla" >}}
-All bodies of reference K, K', etc., are equivalent for the description of natural phenomena (formulation of the general laws of nature), whatever may be their state of motion
+All bodies of reference `K`, `K'`, etc., are equivalent for the description of natural phenomena (formulation of the general laws of nature), whatever may be their state of motion
 {{< /q >}}
 
 This now cannot be maintained because it required rigid reference-bodies as followed in Special Relativity (SR). 
@@ -33,7 +33,7 @@ According to SR, the equations for the general laws of nature pass over into equ
 
 According to GR, on the other hand, by application of arbitrary substitutions of the Gauss variables `x1, x2, x3, x4,` the equations must pass over into equations of the same form. This is because every transformation (not only the Lorentz transformation) corresponds to the transition of one Gauss co-ordinate system into another.
 
-If we want to adhere to our old-school 3D view of things, then we can characterise the development which is being undergone by GR as=  Special relativity works <!-- has  reference to Galileian domains, i.e. to those in which --> where no gravitational fields exist.
+If we want to adhere to our old-school 3D view of things, then we can characterise the development which is being undergone by GR as: Special relativity works <!-- has  reference to Galileian domains, i.e. to those in which --> where no gravitational fields exist.
 
 In this way, a Galileian reference-body serves as body of reference, i.e. a rigid body the state of motion of which is so chosen that the Galileian law of the uniform rectilinear motion of “isolated” material points holds relatively to it.
 

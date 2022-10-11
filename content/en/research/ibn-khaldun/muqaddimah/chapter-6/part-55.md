@@ -1,15 +1,12 @@
-+++
-title= "Poetry and prose work with words, and not with ideas"
-description= "The craftsman who tries to acquire the habit of poetry and prose uses words for that purpose. He memorizes appropriate words from Arab speech, so as to be able to employ it frequently and have it on his tongue"
-image= "/covers/muq.jpg"
-author= "Ibn Khaldun"
-date= 2021-12-26
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-6/part-54b"
-linkbtext= "Part 54b"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-6/part-57"
-linkftext= "Part 57"
-heading= "Part 55"
-+++
+---
+title: "Poetry and prose work with words, and not with ideas"
+description: "The craftsman who tries to acquire the habit of poetry and prose uses words for that purpose. He memorizes appropriate words from Arab speech, so as to be able to employ it frequently and have it on his tongue"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 55"
+date: 2021-10-08
+---
+
 
 
 Both poetry and prose work with words, and not with ideas. 
@@ -94,11 +91,8 @@ The remarks made in this section explain another problem. They explain why
 both the poetry and the prose of the Muslim Arabs are on a higher level of
 eloquence and literary taste than those of pre-Islamic Arabs. 
 
-We find that the poetry
-of Hassin b. Thabit, 1 551 'Umar b. Abi Rabi'ah, 1552 alHutay'ah, 1553 Jarir, 1554
-al-Farazdaq, 1555 Nusayb, 1556 Ghaylan Dhur-Rummah, 1557 al-Ahwas, 1558 and
-Bashshir, 1559 as well as the literary products of the ancient Arabs of the Umayyad
-dynasty and the early years of the Abbasid dynasty, (including) their sermons, theirprose correspondence, and their discussions with the rulers, are on a much higher
+We find that the poetry of Hassin b. Thabit, 1 551 'Umar b. Abi Rabi'ah, 1552 alHutay'ah, 1553 Jarir, 1554
+al-Farazdaq, 1555 Nusayb, 1556 Ghaylan Dhur-Rummah, 1557 al-Ahwas, 1558 and Bashshir, 1559 as well as the literary products of the ancient Arabs of the Umayyad dynasty and the early years of the Abbasid dynasty, (including) their sermons, their prose correspondence, and their discussions with the rulers, are on a much higher
 level of eloquence than the poetry of an-Nibighah, 1560 'Antarah, Ibn Kulthum,
 Zuhayr, 'Alqamah b. 'Abadah, and Tarafah b. al'Abd. (They also are on a higher
 level) than the prose and discussions of pre-Islamic (authors). A sound taste and a
@@ -109,11 +103,13 @@ This is because the authors who lived in Islam learned the highest form of speec
 (linguistic) methods (of this kind of speech). As a result, their nature was lifted, and
 their habits with regard to eloquence were elevated, to greater heights than had ever
 been reached by their pre-Islamic predecessors, who had not learned the (highest)
-form of speech and had not been brought up on it. Therefore, their prose and poetry
-were better in texture and of a purer brilliance than their (predecessors'). They were
+form of speech and had not been brought up on it. 
+
+Therefore, their prose and poetry were better in texture and of a purer brilliance than their (predecessors'). They were
 more solid in construction and more even in execution, because their (authors) had
-learned the high-class speech (of the Qur'an and the traditions). When a person
-thinks this (explanation) over, his literary taste will attest to its correctness, if he has
+learned the high-class speech (of the Qur'an and the traditions). 
+
+When a person thinks this (explanation) over, his literary taste will attest to its correctness, if he has
 taste and understands eloquence.
 
 I once asked our shaykh, the sharif Abul-Qasim, 156 2 the (chief) judge of Granada in our day, why the Muslim Arabs were on a higher level (of eloquence) 1563 than the pre-Islamic Arabs. (Abul-Qasim) was the chief authority on poetry.
