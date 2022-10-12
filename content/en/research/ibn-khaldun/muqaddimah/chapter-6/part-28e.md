@@ -4,7 +4,7 @@ description: "The secret of obtaining a rhymed answer from the za'irajah lies in
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 28e"
-date: 2021-11-30
+date: 2021-11-28
 ---
 
 

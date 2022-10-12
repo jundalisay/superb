@@ -116,6 +116,8 @@ Language | Name
 Bihar | “ram taroi”
 Bengali | “dhenrash” 
 
+Okra is known as a vegetable. But it will become extremely useful if it can be developed as a fibre crop and oil seed as well.
+
 **Okra should not be fried because frying destroys its food value.**
 
 To separate the fibre from the plant, cover the green stalk with soil for 3 weeks. 
@@ -124,15 +126,33 @@ Fine dhutis or traditional Indian men’s garments and other clothing can be mad
 
 The mature plant is about 4 feet tall. The seeds contain 5% oil. If this proportion can be increased to 10% through research, okra can be used to produce commercial edible oil. 
 
-Lady’s finger is already known as a vegetable, but if it can be developed as a fibre crop and oil seed as well, it will become extremely useful.
+<!-- Lady’s finger --> 
 
-There are 2 varieties of lady’s finger:
-- the green Varanasi variety, and
-- the indigenous variety.
+
+It has 2 varieties:
+- green Varanasi variety
+- indigenous
 
 To prepare okra seeds for sprouting, put the seeds in warm water. After the water temperature has returned to normal, soak the seeds for 2 hours. 
+- The seeds should then be sown.
 
-The seeds should then be sown.
+
+Edible oil can be extracted from okra seeds. This oil does not have a high fat content. 
+
+The stem is low in calories. The fibre of the plant can be used to make cloth. 
+
+The remaining part of the plant can be used for fodder and fertilizer. 
+
+Okra is grown above the soil, so it can be grown with a tuber crop to get 2 crops at a time – one above and one below the ground. 
+
+The okra's stem can be used:
+- in the plastic industry
+- in the paper industry to produce ordinary quality paper 
+- as a fuel
+
+Match sticks cannot be made from the wood of okra because the wood is too weak. 
+
+Okra takes only 40 days to grow and it consumes little irrigation water.
 
 
 

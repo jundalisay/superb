@@ -4,7 +4,7 @@ description: "This studies the substance through which the generation of gold an
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 29"
-date: 2021-11-28
+date: 2021-11-27
 ---
 
 
@@ -37,15 +37,28 @@ Ibn al-Mughayribi,966 a leading alchemist, has (written alchemical) maxims in ve
 
 The verses belong among the most original poetry there is. All of them employ a puzzling manner of expression, (and they are) like elusive riddles. They can hardly be understood.
 
-Works on alchemy are attributed to al-Ghazzali, 967 but this attribution is not correct, because al-Ghazzali's lofty perceptions would not have permitted him to study, or, eventually, to adopt the errors of alchemical theories.
+Works on alchemy are attributed to al-Ghazzali. <!-- 967 --> 
 
-Some alchemical theories and opinions are occasionally attributed to Khalid b. Yazid b. Mu'awiyah, 968 a stepson of Marwan b. al-Hakam. However, it is very well known that Khalid was an Arab by race and close to the Bedouin attitude. Thus, he was not familiar with the sciences and crafts in general. How, then, could he have known an unusual craft based upon knowledge of the natures and tempers of composite things, when the physical and medical works of scholars who did research on those subjects had not yet appeared and had not yet been translated? 
+But this attribution is incorrect because al-Ghazzali's lofty perceptions would not have permitted him to study, or, eventually, to adopt the errors of alchemical theories.
 
-The only possibility is that there existed another Khalid b. Yazid among persons versed in the various crafts, and that the mix-up was caused by identical names. I shall pass on here an epistle on alchemy written by Abu Bakr b. Bishrun 969 to Ibn as-Samh. 
+Some alchemical theories and opinions are occasionally attributed to Khalid b. Yazid b. Mu'awiyah. He was <!-- , 968 --> a stepson of Marwan b. al-Hakam. 
 
-Both were pupils of Maslamah. If considered as carefully as it deserves to be, the discussion of (Ibn Bishr(n) will show my 970 attitude toward alchemy. 
+However, <!-- it is very well known that --> Khalid was an Arab by race and close to the Bedouin attitude. 
+- Thus, he was not familiar with the sciences and crafts in general. 
 
-After some introductory (remarks) in the epistle, which have nothing to do with the subject, Ibn Bishrun said= "The premises of this noble craft were mentioned by the ancients. All of them were reported by the philosophers. Such premises are
+<!-- How, then, could he have known an unusual craft based upon knowledge of the natures and tempers of composite things, when the physical and medical works of scholars who did research on those subjects had not yet appeared and had not yet been translated?  -->
+
+The only possibility is that there existed another Khalid b. Yazid among persons versed in the various crafts, and that the mix-up was caused by identical names. 
+
+I shall pass on here an epistle on alchemy written by Abu Bakr b. Bishrun <!-- 969 --> to Ibn as-Samh. 
+
+Both were pupils of Maslamah. <!-- If considered as carefully as it deserves to be, the --> My discussion of Ibn Bishrn will show my <!-- 970 --> attitude toward alchemy. 
+
+<!-- After some introductory (remarks) in the epistle, which have nothing to do with the subject,  -->
+
+Ibn Bishrun said: 
+
+"The premises of this noble craft were mentioned by the ancients. All of them were reported by the philosophers. Such premises are
 knowledge of the generation of minerals, of the creation of rocks and precious stones, and of the different natures of regions and localities. As they are well known, we shall not mention them. But I shall explain to you what one needs to know of this craft. Thus, let us start with that knowledge.
 
 "It has been said= The students of this science must first know three things:
@@ -90,9 +103,11 @@ If his elements were in complete harmony and (thus) not affected by accidents an
 the soul would not be able to leave his body. Man would then live eternally. Praised
 be He who governs all things, He is exalted.
 
-"It should be known that the natures (elements) producing the (alchemical) operation constitute a quality that pushes (forward) at the beginning, and a process of emanation requiring an end. When they have reached this limit, they cannot be
-transformed (back) into the (state) that (formed the starting point of) their composition, as we stated at the outset with regard to man 972 The natures of the substance had been separate, but now they adhere to each other and have become
-one thing, similar to the soul in power and activity, and similar to the body in having composition and pulse. 973 There is a strange thing about the actions of the elements. 
+The natures (elements) producing the (alchemical) operation constitute a quality that pushes (forward) at the beginning, and a process of emanation requiring an end. When they have reached this limit, they cannot be
+transformed (back) into the (state) that (formed the starting point of) their composition, as we stated at the outset with regard to man <!-- 972 --> The natures of the substance had been separate, but now they adhere to each other and have become
+one thing, similar to the soul in power and activity, and similar to the body in having composition and pulse. <!-- 973 --> 
+
+There is a strange thing about the actions of the elements. 
 
 It is the weak (element) that is powerful, since it has power over the decomposition, composition, and completion of things. It is in this sense that I use (the words) 'powerful' and 'weak.' Change and nonbeing in the first composition occur only as
 the result of disharmony (among the component elements). 

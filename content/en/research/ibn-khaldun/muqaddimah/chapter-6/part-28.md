@@ -39,7 +39,7 @@ In the same way, the watery letters serve to repel hot diseases, such as fevers 
 
 Other (authorities on letter magic) assumed that the secret of the (magic) activity that lies in the letters was their numerical proportion. The letters of the alphabet indicate numerical values which by convention and nature are generally accepted to be (inherent in) them. 
 
-Thus, there exists a relationship between the letters themselves as a result of the relationship of their numerical values. For instance, there is a relationship between b, k, and r, because all three of them indicate two in its different positions. (The letter) b indicates two in the units, k indicates two in the tens (20), and r indicates two in the hundreds (200). Or, there is a special relationship between the letters mentioned and d, m, and t. The (latter group of letters) indicates four, and the proportion of four to two is that of two to one. 
+Thus, there exists a relationship between the letters themselves as a result of the relationship of their numerical values. For instance, there is a relationship between `b`, `k`, and `r`, because all three of them indicate two in its different positions. (The letter) b indicates two in the units, k indicates two in the tens (20), and r indicates two in the hundreds (200). Or, there is a special relationship between the letters mentioned and d, m, and t. The (latter group of letters) indicates four, and the proportion of four to two is that of two to one. 
 
 Then, there are magic squares for words as there are for numbers. Each group of letters has its particular kind of magic square which fits it in view either of the numerical value of the figure 810 or of the numerical value of the letters. (Magic) activity based on letter magic thus merges with that based on number magic, because there exists a relationship between letters and numbers. 
 
@@ -65,7 +65,11 @@ them) and does so willingly with no attempt at disobedience.
 
 Their activity needs no support from the spherical powers or anything else, because the support it has is of ahigher order than (all that). People who work with talismans, therefore, need (only) a little exercise to give the soul the power to bring down the spirituality of the spheres. 
 
-Devotions and exercises certainly play a very insignificant role in it. The opposite is the case with people who work with words. Their exercise is the most extensive that can be. It is not for the purpose of being active in the existing things, since that is a veil (standing between them and their real task). Such activity comes to them accidentally, as an act of divine grace.814 A person who works with words may have no knowledge of the secrets of God and the realities of divinity, which is the result of vision and the removal (of the veil). He may restrict himself to the various relationships between words and the natures of letters and expressions, and he may become (magically) active with them in this capacity, and that is what people who practice letter magic are commonly supposed to do. But then, there is no difference between such a person and the people who work with talismans. In fact, a person who works with talismans is more reliable than he, because he has recourse to scientific natural principles and orderly norms. A person who works with the secrets of words but is not sincere in his devotion 815 and (in addition) has no technical norms of evidence on which he may rely and, therefore, lacks the removal (of the veil) that would show him the realities of expressions and the influence of relationships, is in a weaker position (than a person who works with talismans).
+Devotions and exercises certainly play a very insignificant role in it. The opposite is the case with people who work with words. Their exercise is the most extensive that can be. It is not for the purpose of being active in the existing things, since that is a veil (standing between them and their real task). Such activity comes to them accidentally, as an act of divine grace.814 A person who works with words may have no knowledge of the secrets of God and the realities of divinity, which is the result of vision and the removal (of the veil). 
+
+He may restrict himself to the various relationships between words and the natures of letters and expressions, and he may become (magically) active with them in this capacity, and that is what people who practice letter magic are commonly supposed to do. But then, there is no difference between such a person and the people who work with talismans. 
+
+In fact, a person who works with talismans is more reliable than he, because he has recourse to scientific natural principles and orderly norms. A person who works with the secrets of words but is not sincere in his devotion 815 and (in addition) has no technical norms of evidence on which he may rely and, therefore, lacks the removal (of the veil) that would show him the realities of expressions and the influence of relationships, is in a weaker position (than a person who works with talismans).
 
 The person who works with words may mingle the powers of expressions and words with the powers of the stars. He may then set certain times for mentioning the beautiful names of God or the magic squares composed of them or, indeed, any word. 816 
 
@@ -74,101 +78,39 @@ They think that those expressions 8 20 depend on vision to be established. If a 
 
 The (latter) is more reliable than he.
 
-In the same way, the person who works with talismans may mingle his
-actions and the powers of the stars which govern them, with the powers of prayers
-composed of special expressions indicating a relationship between those expressions
-and the stars. In his case, however, the relationship of expressions is not, as in the
-case of people who work with words, the result of direct observation in a state of
-vision. It is merely based upon the (general) basic requirement of the magic
-approach, namely, that the stars share in all the substances, accidents, essences, and
-ideas 821 existing in the world of created things. Letters and words belong to the
-things that exist in it. Thus, each star has its particular share in them. On this basis
-(magical practitioners) construct strange and disapproved theories. Namely, they
-divide the sarahs and verses of the Qur'an in this manner. That was what Maslamah
-al-Majriti, for instance, did in the Ghayah. It is also obvious from alBuni's attitude
-in the Anmat that he takes this method into consideration. A critical study of the
-Anmat and of the prayers the work contains and their distribution among the hours
-of the seven stars, as well as a look at the Ghayah and a critical study of the prayers
-(qiyamat) of the stars contained in it 822 - "qiyamat of the stars" is the name they
-give to the prayers that belong to each individual star, that is, the prayer performed
-(yuqdmu biha) for it - will show that this (procedure) belongs to the substance of(these works on letter magic) or that the relationship that came about in the original
-creation and in the purgatory (barzakh) of knowledge made all that necessary.
+In the same way, the person who works with talismans may mingle his actions and the powers of the stars which govern them, with the powers of prayerscomposed of special expressions indicating a relationship between those expressions and the stars. 
+
+In his case, however, the relationship of expressions is not, as in the case of people who work with words, the result of direct observation in a state of vision. 
+
+It is merely based upon the (general) basic requirement of the magic approach, namely, that the stars share in all the substances, accidents, essences, and ideas 821 existing in the world of created things. Letters and words belong to the things that exist in it. 
+
+Thus, each star has its particular share in them. On this basis (magical practitioners) construct strange and disapproved theories. Namely, they divide the sarahs and verses of the Qur'an in this manner. That was what Maslamah al-Majriti, for instance, did in the Ghayah. 
+
+It is also obvious from alBuni's attitude in the Anmat that he takes this method into consideration. A critical study of the
+Anmat and of the prayers the work contains and their distribution among the hours of the seven stars, as well as a look at the Ghayah and a critical study of the prayers qiyamat of the stars contained in it <!-- 822 --> - "qiyamat of the stars" is the name they give to the prayers that belong to each individual star, that is, the prayer performed
+(yuqdmu biha) for it - will show that this (procedure) belongs to the substance of(these works on letter magic) or that the relationship that came about in the original creation and in the purgatory (barzakh) of knowledge made all that necessary.
 "And you were given but little knowledge." <!-- 823 -->
 
-One cannot deny the actual existence of all the sciences declared illegal by the religious law. It is definite that sorcery is true, although it is forbidden. But we are satisfied with the knowledge God taught us.
-A few remarks (may help) to make things clear.<!--  824 -->
+One cannot deny the actual existence of all the sciences declared illegal by the religious law. It is definite that sorcery is true, although it is forbidden. 
 
-Letter magic clearly is a kind of sorcery and, as such, attainable through various exercises which are legal according to the religious law. This comes about as follows. We have mentioned before 825 that two kinds of human beings are active
-in the world of created beings. <!-- 826  -->
+But we are satisfied with the knowledge God taught us.
 
-Prophets (are active) with the help of the divine power which God gave them by nature. Sorcerers (are active) with the help of the psychic power which is innate in them.
+<!-- A few remarks (may help) to make things clear. --><!--  824 -->
 
-Saints may be active by acquiring the ability to be active through faith (al-kalimah al-imaniyah). It is a result of detachment (from the sensibilia). They do not have it intentionally. It comes to them spontaneously. If it happens to mighty saints, they avoid it and take refuge in God against it and consider it a temptation. <!-- 827 -->
 
-There is, for instance, the story of Abu Yazid al-Bistami 828 One evening, when he
-reached the bank of the Tigris, he was in a hurry. 829 The two banks of the river
-came together (so that he would have been able to cross right over), but Abu Yazid
-invoked God's protection and said, "I will not sell my share in God for a farthing
-(adnaq)." So, he boarded a boat and crossed over with the ferrymen.
+Letter magic clearly is a kind of sorcery and, as such, attainable through various exercises which are legal according to the religious law. <!-- This comes about as follows. We have mentioned before 825 that --> 
 
-An innate ability for sorcery requires exercise, in order to be capable of transformation from potentiality into actuality. Some (magical ability) which is not innate may be acquired, but such (acquired magical ability) is inferior to innate
-(magical ability). One (would, in any case, have to) exercise to (acquire magical
-ability), as one does on behalf of (innate magical ability). The (procedure of) such
-magical exercise is well known. Its various kinds and the ways in which it is
-executed 830 are mentioned by Maslamah al-Majriti in the Kitab al-Ghayah and by
-Jabir b. Hayyan in his Treatises, as well as by others. They are employed by many
-people who want to acquire magical ability and learn its norms and the conditions
-governing it.
+Two kinds of human beings are active in the world of created beings. <!-- 826  -->
 
-However, 831 this magical exercise of early (practitioners) is full of matters of unbelief. For instance, it includes devotions directed to the stars and prayers to them, called qiyamat, 832 for the purpose of attracting their spirituality. It also includes the belief in influences by (beings) other than God, in that (one's) actions
-are tied to magical horoscopes and the mutual aspects of the stars in the signs (of the
-zodiac), in order to obtain the desired results.
-*Many people who wished to be (magically) active in the world of existing
-things were arrested by this (fact). They wanted to obtain the (ability to be
-magically active) in a way that would have nothing to do with any involvement in
-unbelief and the practice of it. They turned their exercise into one that was legal
-according to the religious law. It consisted of dhikr exercises and prayers (subuhat)
-from the Qur'an and the Prophetic traditions. They learned which of these things
-were appropriate for (their particular) need from the afore-mentioned division of the
-world with its essences, attributes, and actions according to the influences of the
-seven stars. In addition, they also selected the days and hours appropriate to the
-distribution of (the influences of the stars). They used this kind of legal exercise as a
-cover, in order to avoid having anything to do with ordinary sorcery, which isunbelief or calls for unbelief. They kept to a legal (kind of) devotion because of its
-general and honest character. That was done, for instance, by al-Buni in his Kitab
-alAnmat and other works of his, and by others. They called this approach "letter
-magic," since they were very eager to avoid the name of sorcery. In fact, (however,)
-they fall under the idea of sorcery, even though they have a legal (kind of) devotion.
-They are not at all free from the belief in influences by (beings) other than God.
-These people also want to be (magically) active in the world of existing
-things. That is something forbidden by the Lawgiver (Muhammad). The miracles
-performed by the prophets were performed at God's command. He gave the power to
-perform them. The miracles of the saints were performed, because by means of the
-creation 833 of a necessary knowledge, through inspiration or something else, they
-obtained (divine) permission to perform them. They did not intend to perform them
-without permission.
-Thus, the trickery of the people who practice letter magic should not be
-trusted. As I have made it clear, letter magic is a subdivision and kind of sorcery.
-God guides toward the truth through His kindness.*
-Many people want to be (magically) active but want to avoid having
-anything to do with any involvement in sorcery and the name and technicalities of
-sorcery. Therefore, they choose a special exercise consisting of prayers (subuhat)
-and dhikr exercises. They are legal according to the religious law and yet they
-correspond to magical exercise in the kind of devotion and the expressions used.
-They choose the time of certain ascendants, as is done by the people (the learned
-magicians). They refrain from having any harmful intentions in their devotion, so
-that, in this manner, they may have nothing to do with sorcery. But they are far off
-the mark in this (assumption). Any devotion in the intention of being (magically)
-active is the very same thing as sorcery. Moreover, if one looks at it carefully, the
-exercise of these people evokes (the idea of) magical exercise in view of the
-expressions used in it, as (one finds them) in the Anmat and other works of al-Bum.
-Now, if the assumption is erroneous that this is a legal way of obtaining the
-ability to be (magically) active, it should be avoided. One should realize that
-(magical) activity from the very beginning is not legal and that the great saints keep
-away from it. The (great saints) who practiced it did so because they had
-permission, through inspiration or something else. Also, saints are (magically)
-active through faith (al-kalimah alimaniyah), and not through psychic power.
-This is the true character of letter magic. As one can see, it is a subdivision
-and kind of sorcery.
-<!-- God guides toward the truth through His kindness. -->
+1. Prophets 
 
+These are active with the help of the divine power which God gave them by nature. 
+
+2. Sorcerers
+
+These are active with the help of the psychic power which is innate in them.
+
+Saints may be active by acquiring the ability to be active through faith (al-kalimah al-imaniyah). It is a result of detachment (from the sensibilia). 
+
+They do not have it intentionally. It comes to them spontaneously. If it happens to mighty saints, they avoid it and take refuge in God against it and consider it a temptation. <!-- 827 -->
 

@@ -3,7 +3,7 @@ title: "The Crafts are perfected only in a large and perfect sedentary civilizat
 description: "The crafts are perfected only if there exists a large and perfect sedentary civilization"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 14"
+heading: "Part 16-19"
 date: 2022-01-16
 ---
 

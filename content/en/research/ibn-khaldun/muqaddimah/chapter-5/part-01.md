@@ -34,7 +34,10 @@ Man obtains some profit through no efforts of his own. Examples are the rain tha
 
 "Sustenance" are the rewards that he spends for <!-- When the use of such accruing or acquired (gain) reverts to a particular human being and he enjoys its fruits by spending it upon  -->his interests and needs.
 
-The Prophet said= "The only thing you really possess of your property is what you ate, and have thus destroyed; or what you wore, and have thus worn out; or what you gave as charity, and have thus spent."5
+The Prophet said: "The only thing you really possess of your property is:
+- what you ate, and have thus destroyed, or
+- what you wore, and have thus worn out, or
+- what you gave as charity, and have thus spent."<!-- 5 -->
 
 <!-- When a person does not use his income for any of his interests and needs, it is not called "sustenance."  -->
 
@@ -79,12 +82,19 @@ It has thus become clear that gains and profits, in their entirety or for the mo
 
 When the available labor is all gone or decreases because of a decrease in civilization, God permits profits to be abolished.
 
-Cities 11 with few inhabitants offer little sustenance and profit because little human labor is available. Likewise, in cities with a lot of labor, the inhabitants enjoy more favorable conditions and have more luxuries. 12
+Cities <!-- 11 --> with few inhabitants offer little sustenance and profit because little human labor is available. 
 
-This is why the common people say that the sustenance of a country disappears with the decrease of its civilization. Even the flow of springs and rivers stops in waste areas. Springs flow only if they are dug out and the water drawn. This requires human labor. 
+Likewise, in cities with a lot of labor, the inhabitants enjoy more favorable conditions and have more luxuries. <!-- 12 -->
 
-The conditions may be compared with the udders of animals. Springs that are not dug out and from which no water is drawn are absorbed and disappear in the ground completely. In the same way, udders dry up when they are not milked. This can be observed in countries where springs existed in the days of their civilization. 
+This is why <!-- the common people say that --> the sustenance of a country disappears with the decrease of its civilization. 
 
-Then, they fell into ruins, and the water of the springs disappeared completely in the ground, as if it had never existed. God determines night and day. 13
+Even the flow of springs and rivers stops in waste areas. 
+- Springs flow only if they are dug out and the water drawn. This requires human labor. 
+
+The conditions may be compared with the udders of animals. 
+
+Springs that are not dug out and from which no water is drawn are absorbed and disappear in the ground completely. In the same way, udders dry up when they are not milked. 
+
+This can be observed in countries where springs existed in the days of their civilization.  Then, they fell into ruins, and the water of the springs disappeared completely in the ground, as if it had never existed. <!-- God determines night and day. 13 -->
 
 

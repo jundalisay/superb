@@ -9,8 +9,6 @@ date: 2021-11-26
 
 
 
-
-
 Some philosophers have thought such a stone is found in animals, plants, minerals, or in everything. 
 
 <!-- We do not have to examine these claims and enter into a dispute concerning them with the people who make them, because that would be a very long discussion. I have already stated 984 that  -->

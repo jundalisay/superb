@@ -1,335 +1,90 @@
 ---
-title: "The Za'irajah"
-description: "The Zairajah is a branch of the science of letter magic, practiced among the authorities on letter magic, is the technique of finding out answers from questions by means of connections existing between the letters of the expressions used in the question"
+title: "The story of Abu Yazid al-Bistami"
+description: "An innate ability for sorcery requires exercise, in order to be capable of transformation from potentiality into actuality"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 27b"
-date: 2021-12-02
+heading: "Part 28b"
+date: 2021-12-01
 ---
 
 
-## The Za'irajah 
 
-<!-- 834 -->
+One evening, he was in a hurry when he reached the bank of the Tigris. <!-- 829 --> 
 
-A branch of the science of letter magic, practiced among the authorities on letter magic, is the technique of finding out answers from questions by means of connections existing between the letters of the expressions used in the question.
+The 2 banks of the river came together so that he would have been able to cross over. But Abu Yazid invoked God's protection and said: "I will not sell my share in God for a farthing<!-- (adnaq) -->." 
 
-They imagine that these (connections) can form the basis for knowing the future
-happenings they want to know. Here we have something like puzzles and trick
-problems. 835 There are many discussions of the subject by them. The most
-comprehensive and most remarkable discussion of it is as-Sabti's Za'irajah of the
-World. 
+So, he boarded a boat and crossed over with the ferrymen.
 
 
-as-Sabti wrote a poem about it. <!-- 836 --> 
 
-Then, we shall give a description of the Za'irajah with its circle 836aand the table written on the verso.
-Finally, we shall reveal the truth about it. 
+An innate ability for sorcery requires exercise, in order to be capable of transformation from potentiality into actuality. 
 
-It is nothing supernatural; (the indications derived from it) result from an agreement in
-the wording of question and answer. It is (just) one interesting way among others, and a curious one, for finding out the answer from the question with the help of the technique called the technique of "breaking down." 837 We have referred to all this before.
+Some (magical ability) which is not innate may be acquired, but such (acquired magical ability) is inferior to innate magical ability. 
 
-We have no authoritative tradition on which we might rely for the
-correctness of the poem and its attribution to asSabti 838 However, we have chosen
-(for our quotation) what gave the impression of being the best manuscript. This is
-the poem: <!-- 839 -->
+One (would, in any case, have to) exercise to (acquire magical ability), as one does on behalf of (innate magical ability). The (procedure of) such magical exercise is well known. 
 
-There speaks a little Ceutian, 840 praising his Lord,
-Praying for a guide who was God's messenger to mankind, (namely,)
-Muhammad who was sent as a prophet, the Seal of the Prophets,
-And expressing his satisfaction 841 with the men around him and those who
-followed them:
+Its various kinds and the ways in which it is executed 830 are mentioned by Maslamah al-Majriti in the Kitab al-Ghayah and by
+Jabir b. Hayyan in his Treatises, as well as by others. 
 
-Behold, this is the Za'irajah of the World which
-You [sing.] see revealed through your [pl.] senses, and through the intellect.
-Whoever knows how to compose (the za'irajah) will know his body,
-And will obtain laws given from on high.
-Whoever knows how to tie (it down) will obtain power
-And be noted for having obtained the fear of God and everything. 842
-He is seen taking on reality in the divine world.
-This is the station of those who are perfected through dhikr exercises.
-These are the secrets that you have to keep concealed.
-Set them up in circles and balance (them) with h
-And with t which has a "throne" on which it is engraved,
-In poetry and prose, or which one sees arranged as a table.
-Set up circles corresponding to the relationship of their spheres
-And draw stars for their highest degrees.
-Come out for its strings (chords), and draw letters for them,
-And repeat the same (letters) on the border of those that are free.
-Set up the shape of their zir, 843 and make its houses,
-And verify with a bamm wherever their light is apparent.
-Present sciences as an engineer for the natures (elements),
-And an established knowledge of figurations and the quadrants.
-Work with music and the knowledge of their 844 letters
-And the knowledge of an instrument. And verify and bring about
-And make circles and set down their letters in the right relationship.
-Set free their world and list the zones in a table.
-We have an amir 845 who desires Bougie for a Zanatah
-Dynasty, which has appeared and which has manifestly seized power,
-And a region of Spain, then[. . . ] 846
-The Banu Nasr [?] came, and their victory followed.
-Rulers, knights, and people of wisdom,
-If you wish, write them down. Their region is empty.
-A Mahdi of the Almohads who rule in Tunis,
-Rulers for an East set down in magic squares, 847
-Cast a spell over the region, and believe.
-If you wish, represent (it) in Latin without linguistic error,
-And (Al)fonso and Barcelona. R is the letter for it.Their Franc(is) is dh, 848 and is perfected with t.
-Rulers of Kinawah. 849 They have pointed to their q.850
-And the Arabs, our people, have been weakened.
-Abyssinian India and Sind (Western India), then Hurmus [?]
-And Tatar Persians, and what beyond them.. . .
-Their Byzantine Emperor is a h. Their (Persian) Yazdjard
-Belongs to k. Their Copt was written with a long l,
-And 'Abbas, all of them noble and venerable.
-But (they are) a Turk when the (magical) activity ceases.
-If you want to know the rulers exactly and to find them out,
-Seal fields, then bring (them) into relation and list (them) in a table
-According to the norm and science of the letters
-And the knowledge of their nature, and set up the whole of it.
-Whoever knows the sciences will know our science.
-He will know the secrets of existence and become perfect.
-He, then, has firmly rooted knowledge and knows His Lord,
-And has a knowledge of predictions which is broken down through h-m.
-And whenever there comes a name, and the meter prefers it 851
-A wise man will definitely decide that he must be killed.
-Letters will come to you. Then, try to pick them.
-The letters of Sibawayh will come to you disconnected.
-Then, strengthen with transformations and confront and exchange.
-With your precious warble shake the parts
-...............................................
-Select a (star) rise. Figure out its signs.
-Reverse its root [?]. Straighten (it) out with the cycle.
-Someone will perceive those things. He will achieve his purpose
-And be given their letters in whose arrangement the evidence lies.
-If it is lucky and the stars are lucky,
-It should suffice you to have royal authority [?] and to in, have reached the
-dim star (d) in Ursa Major on high [?].
+They are employed by many people who want to acquire magical ability and learn its norms and the conditions governing it.
 
-The melody of their d with its bridled bamm!
-Thus, sound harmonic chimes, and you will find the right place in it,
-The strings of their zir. To the h belongs their bamm
-And their mathna. The mathlath has appeared through its j.
-Make entries with spheres. Straighten things out with a table.
-Draw a b c and the remaining letters of the alphabet according to their
-numerical value
-And permit the irregularity of the meter that occurs. Something similar
-Has occurred in the prosody of a number of people.
-A principle of our religion, a principle of our jurisprudence,
-And some knowledge of grammar, keep and obtain!
-Bring in the wall [?] for a large tent in harmony [?]!
-Praise His name and say, "God is great," and "There is no God but God,"
-And you will (succeed in) bringing out verses on any desired object
-Through natural rhyme and a secret from on high.
-If they are thus brought together, the judgment implied in their number will
-be acquired, 852
-And...
-And you will bring out verses. Twenty multiplied
-By one thousand by nature, O master of the Table,
-Will show crafts of multiplication that are perfect.Thus, (your) wishes will come out right for you, and the (world) on high will
-come out right for you.
-And rhyme with their zir and praise with a beat. Set it up in circles for a zir,
-and obtain (it).
-Set it up with magic squares and a principle that you prepare
-From the secrets of their letter, and bring it back in chain form.
-[SIGNS] 853
-Discussion of how to discover the relationships and
-qualities of the weights, 854 the powers of their
-opposites, the power of the grade which is
-distinguished according to the relationship to the place
-of attached mixtures of natures (elements), and the
-science of medicine, or the craft of alchemy.
-O student of medicine and of Jabir's science (alchemy), 855
-And you who know the extent of the powers in succession,
-If you want the science of medicine, there must exist a relationship
-For the laws of scales, which 856 will hit upon a (possible) way.
-Your patient will be cured. The elixir will be right.
-The soundness of the mixtures of your composition will be apparent.
-Spiritual Medicine
-And you want Hawush 857 -[SIGNS]-and his mind. . .
-For Bahram-Birjis 858 and seven, who is perfect,
-For dissolving pains of cold diseases. Make it correct
-This way, and (make) the composition (correct) wherever it has been handed
-down.
-[SIGNS]
-Appearances of rays that concern the nativities
-of rulers and their children.
-The knowledge of rays cast is difficult.
-The side of their bows shows itself in a belt [?].
-But on a pilgrimage, there is the place where our imam stands.
-He appears when the latitude of the stars is straightened out.
-There are positions whose longitude is made clear,
-And (also their) latitude. By reaching that, he becomes a junction [?].
-Places where there is a quartile with its sign in the dejection,
-Their sextile has the trine of the sign of the one that follows.
-One adds to the quartile. That is its analogy
-In certainty, and its root [?]. With the 'ayn, it is made to work.
-From the relationship of the two quarters combine your rays
-With a s and double it. Its quartile will thus show itself.
+However, 831 this magical exercise of early (practitioners) is full of matters of unbelief. For instance, it includes devotions directed to the stars and prayers to them, called qiyamat, <!-- 832 --> for the purpose of attracting their spirituality. 
 
-[SIGNS]
-This operation here concerns rulers. The operation ofthe rule is consistent. Nothing more remarkable has
-ever been seen.
-The position of rulers:
-The line of junction and separation:
-[SIGNS]
-The line of junction:
-[SIGNS]
-The line of separation:
-[SIGNS]
-The zir for every(thing) and the complete follower of the root [?]:
-[SIGNS]
-Junction and separation:
-[SIGNS]
-The complete necessary (line) in junctions:
-[SIGNS]
-The establishments of lights:
-[SIGNS]
-The answering root [?] in the operation:
-[SIGNS]
-The establishment of questions concerning rulers:
-[SIGNS]
-The position of children= The position of light:
-[SIGNS]
-The position of splendor:
-[SIGNS]
-(On) being spiritually influenced and divinely guided:
-O student of the secret of praising (the oneness) of God,
-With the beautiful names of God 859 you will hit upon a (possible) way.
-The Rabbis of mankind will obey you with their heart(s),
-As well as 860 their chief. It is operated in the sun [??].
-You will see all mankind tied to you
-.....................................................
+It also includes the belief in influences by (beings) other than God, in that (one's) actions are tied to magical horoscopes and the mutual aspects of the stars in the signs (of the zodiac), in order to obtain the desired results.
 
-If you wish, you will live in (the world of) existence together with the fear of
-God
-And solid religion, or you will be firmly rooted 861
-Like Dhu n-Nun 862 and al-Junayd 863 together with the secret of an art.
-I see you clothed in the secret of Bistam. 864
-You will come into being created in the world on high,
-As the Indians have said, and the Sufi crowd.
-The path of the Messenger of God sparkles with the truth.
-No work of a quality similar to (that of) Gabriel has yet been invented.
-Your courage is saying, "There is no God but God,"
-and your bow is the (East where the sun) rises [?].
-Thursday is the beginning. Sunday appears.
-On a Friday, too, the same (will be done [?]) with the names,
-And on Monday, you will perfect the beautiful names of God.
-In its t, there is a secret, as well as in its h
-................................................
-...............................................
-...............................................
-At the end of the Resurrection, it is followed by a prayer
-And sincere devotion, with the seven mathani 865 being chanted.
-The junction of the lights of the stars:
-[SIGNS]
-In your right hand, there is an iron (ring) and a seal ... but not in prayer.
-Make (your) heart the tablet (to write on) the verse of Resurrection.
-Recite and chant (it) when people are asleep.
-It is the secret contained in the created beings; there is nothing but it.
-It is the greatest verse. Therefore, make (it) accurate and get (it).
-Through it, you will become a "pole" if you serve well.
-You will perceive secrets from the world on high.
-Sari communicated them and, after him, Ma`ruf 866
-Al-Hallaj 867 divulged them and was killed.
-Ash-Shibli 868 always worked on them,
-Until he went up higher than the (ordinary) Sufis and was exalted.
-Therefore, clean your heart eagerly from impurities.
-Practice dhikr exercises constantly. Fast. Do supererogatory devotions.
-The secret of the people (the mystics) has been attained only by thorough
-(devotees)
-Who knew the secret of the sciences and were competent.
-[SIGNS]
-The position of love, of the inclination of the souls, of
-exertion, obedience, worship, love, infatuation,
-annihilation of annihilation (nonbeing), devotion,
-observance, and friendship 869 with permanent
-physical passivity.Birjis 870 has the magic square for love.
-The mixture has been prepared with tin or copper which were caused to
-work,
-Or with silver. Correct I have seen it:
-Your making its lucky position an ascendant is not improper. 871
-Try to get through it an increase of light for the moon.
-Your making its sun ready to accept 872 is something firmly grounded.
-Put it to sleep with the incense being aloe wood belonging to their India,
-And fix an hour. Its prayer is a benefit [?].
-Its prayer is for a purpose. Thus, it is caused to work.
-Its prayer from Taysaman, which is ornamented,
-Is used, or a prayer for whose composition letters
-Or problems are prepared with hot air.
-You shall engrave letters with d and its l.
-That is a magic square which consists of sixteen fields.
-If their indication [?] does not please you,
-...............................................
-Make good its b, and bring them away to 873
-That which pleases you. The small remainder of them is summarized.
-Engrave certain shapes from some of them.
-Whatever you add, make it proportionate, equal to your action
-And the key of Maryam. For the actions of both of them are alike.
-A call went out, and a Bistami recited her (Maryam's) surah.
-Let your acting (be) with support. Search for
-The proofs of a savage person who was set up for his text.
-Turn over its 874 houses with a thousand and more.
-Inside it, there is a secret. In the search for it, it has become apparent.
-On the stations for the end.
-You have the supernatural, a picture from the world on high.
-You make it find a house. Its clothing is jewelry.
-Beautiful like Joseph-this one, similar to him,
-Was sent down with . . . and a chant of reality. 87 5
-He is powerful and speaks about the supernatural.
-He resembles a lute that competes with a nightingale.
-Buhlul 876 went crazy from love of her beauty.
-When she appeared to Bistam, he was forsaken
-And died. . . . The love of her was instilled into
-Junayd and Basri. 877 They (he) neglected (their, his) body.
-The ultimate in praise (of the oneness) of God is sought. Whoever has
-God's beautiful names for himself without any relationship,
-And whoever possesses them, succeeds with wisdom
-And attains nearness to the neighbors of (the world) on high.
-You will be informed about the supernatural, 878 if you render good service,
-Which will show you remarkable things, to Him who is a refuge.
-This is true success. (It is) goodness that attains it.
-From (those things), there result additions for their interpretation which
-follows [?].Testament, final statement, faith, Islam, prohibition, and suitability.
-This is our poem. Ninety is its number
-And the additional (verses) for introduction, end, and table.
-I am surprised by verses, whose number is ninety,
-Which produce (more) verses whose complete number is not apparent.
-Whosoever understands the secret, let him understand himself,
-And let him understand an ambiguous commentary which is difficult,
-Forbidden and lawful, in order to show our secret
-To people, even if they are a select group and have the suitable qualification.
-If you want people suitable for it, place them under a strong oath.
-Maltreat them 879 with manliness and extended religiosity.
-Perhaps you will be saved, as well as the one who hears their secret,
-From deciding to divulge (it), and you will become a chief on high.
-A son of 'Abbas keeps his secret hidden.
-Thus, he obtained much happiness, and high rank followed him.
-The Messenger of God rose among the people as preacher,
-...............................................
-The spirits have boarded bodies to manifest themselves [?],
-And have applied themselves, in order to kill them, by prolonged knocking
-At the high world. Our nonexistence becomes nonexistent,
-And we put on the garment of existence in succession.
-Our rhyming is completed. Pray, our God,
-For the seal of the messengers a prayer that will effect exaltation.
-Pray, O God of the throne, Glorious and Exalted,
-For a lord who ruled and perfected mankind,
-Muhammad, the guide, the intercessor, our leader,
-And (pray for) the men around him, the noble, exalted people.
-A rank that results from friendship.
-[SIGNS]
-The correct determination of sun and moon
-and the stars for every desired date:
-[SIGNS]
-The za'irajah is completed.
-The procedure of finding answers from questions
-through the Za'irajah of the World with the
-help of the might of God. 880
-A question may have three hundred and sixty answers, according to the
-degrees (of the firmament). The answers to one question under a given ascendant
-differ in accordance with different questions (forming part of the question asked),
-which are referred to the letters of the chords of the za'irajah and (in accordance
-with) the operation applied to finding out the letters from the verse of the poem. 881
+Many people who wished to be (magically) active in the world of existing things were arrested by this (fact). They wanted to obtain the (ability to be magically active) in a way that would have nothing to do with any involvement in
+unbelief and the practice of it. 
+
+They turned their exercise into one that was legal according to the religious law. It consisted of dhikr exercises and prayers (subuhat) from the Qur'an and the Prophetic traditions. They learned which of these things were appropriate for (their particular) need from the afore-mentioned division of the world with its essences, attributes, and actions according to the influences of the
+seven stars. 
+
+In addition, they also selected the days and hours appropriate to the distribution of (the influences of the stars). They used this kind of legal exercise as a cover, in order to avoid having anything to do with ordinary sorcery, which isunbelief or calls for unbelief. 
+
+They kept to a legal (kind of) devotion because of its general and honest character. That was done, for instance, by al-Buni in his Kitab alAnmat and other works of his, and by others. 
+
+
+They called this approach "letter magic," since they were very eager to avoid the name of sorcery. In fact, (however,) they fall under the idea of sorcery, even though they have a legal (kind of) devotion.
+
+They are not at all free from the belief in influences by (beings) other than God.
+
+These people also want to be (magically) active in the world of existing things. 
+
+That is something forbidden by the Lawgiver (Muhammad). The miracles performed by the prophets were performed at God's command. He gave the power to perform them. 
+
+The miracles of the saints were performed, because by means of the creation <!-- 833 --> of a necessary knowledge, through inspiration or something else, they obtained (divine) permission to perform them. 
+
+They did not intend to perform them without permission.
+
+Thus, the trickery of the people who practice letter magic should not be trusted. As I have made it clear, letter magic is a subdivision and kind of sorcery.
+
+God guides toward the truth through His kindness.*
+
+*Many people want to be (magically) active but want to avoid having anything to do with any involvement in sorcery and the name and technicalities of sorcery. 
+
+
+Therefore, they choose a special exercise consisting of prayers (subuhat)
+and dhikr exercises. They are legal according to the religious law and yet they
+correspond to magical exercise in the kind of devotion and the expressions used.
+They choose the time of certain ascendants, as is done by the people (the learned
+magicians). 
+
+They refrain from having any harmful intentions in their devotion, so that, in this manner, they may have nothing to do with sorcery. 
+
+But they are far off the mark in this (assumption). Any devotion in the intention of being (magically) active is the very same thing as sorcery. 
+
+Moreover, if one looks at it carefully, the
+exercise of these people evokes (the idea of) magical exercise in view of the expressions used in it, as (one finds them) in the Anmat and other works of al-Bum.
+
+Now, if the assumption is erroneous that this is a legal way of obtaining the
+ability to be (magically) active, it should be avoided. One should realize that
+(magical) activity from the very beginning is not legal and that the great saints keep
+away from it. The (great saints) who practiced it did so because they had
+permission, through inspiration or something else. 
+
+Also, saints are (magically) active through faith (al-kalimah alimaniyah), and not through psychic power.
+This is the true character of letter magic. 
+
+As one can see, it is a subdivision and kind of sorcery.
+<!-- God guides toward the truth through His kindness. -->
 
 

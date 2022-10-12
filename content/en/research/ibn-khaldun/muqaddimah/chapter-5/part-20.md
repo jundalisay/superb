@@ -3,7 +3,7 @@ title: "The Arabs, of all people, are least familiar with crafts"
 description: "The crafts are perfected only if there exists a large and perfect sedentary civilization"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 20"
+heading: "Parts 20-23"
 date: 2022-01-14
 ---
 

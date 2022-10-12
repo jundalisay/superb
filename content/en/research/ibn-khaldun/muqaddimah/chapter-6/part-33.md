@@ -1,5 +1,5 @@
 ---
-title: "The valid purposes which must be remembered when writing a literary composition"
+title: "The 7 Valid Purposes of Writing a literary composition"
 description: "There are seven purposes for creating a literary work."
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
@@ -56,7 +56,7 @@ Then, (thirdly) there is Latin, the language of the Byzantine (Romans). When the
 
 The other scripts are of no interest. Every people employs its own particular kind of script.
 
-Now, the purposes that must be kept in mind in literary composition and that alone are to be considered valid were restricted to seven. 1123
+The purposes that must be kept in mind in literary composition and that alone are to be considered valid were restricted to 7. <!-- 1123 -->
 
 
 1. To invent a science or research topics
@@ -113,7 +113,9 @@ Later, the famous works (by the literary critics mentioned) were written on the 
 
 One will then try to compose a brief and succinct abridgment, omitting all repetitions. However, one has to be careful not to eliminate anything essential, so that the purpose of the first author will not be vitiated. 
 
-These are the purposes that must be kept in mind and not lost sight of in literary composition. All else is unnecessary, a mistake (or deviation) from the road that (all) intelligent (scholars) think must be followed. For. instance, (someone may try) to ascribe the work of an earlier author to himself with the aid of certain tricks, such as changing the wording and the arrangement of the contents. 
+These are the purposes that must be kept in mind and not lost sight of in literary composition. All else is unnecessary, a mistake (or deviation) from the road that (all) intelligent (scholars) think must be followed. 
+
+For instance, someone may try to ascribe the work of an earlier author to himself with the aid of certain tricks, such as changing the wording and the arrangement of the contents. 
 
 Or, someone may eliminate material essential to a particular discipline, or mention unnecessary material, or replace correct (statements) with wrong ones, or mention useless material. All this shows ignorance and impudence.
 

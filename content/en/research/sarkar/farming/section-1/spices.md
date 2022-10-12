@@ -137,50 +137,6 @@ It should be taken only after it has been processed in cow dung water. Raw turme
 **Turmeric requires half sun and half shade.** The best turmeric tubers are found in Patna.
 
 
-## Radish (Mula)
-
-Radish is a 45-60 day crop and came from Japan. It first came to India 3,000 years ago. 
-
-It has less food value than potato, although it is rich in mineral salts and is good for the blood. 
-
-It is a general purifier. 
-
-It is not easily digestible, but it helps digestion because it stimulates saliva secretion. 
-
-It can be eaten raw, cooked, pickled, etc. 
-
-The leaves of mustard and radish are similar, but all varieties of mustard have yellow flowers while radish has white flowers. 
-
-The green leaves of radish (mula shák) are a good food, but the green leaves of mustard (sarśe shák) are not. Where there is a dense growth of radish plants, they should be thinned out. The leafy off-cuts can be eaten as a vegetable (mula shák).
-
-The varieties of radish include:
-- summer season
-- rainy season
-
-Radish seeds are larger than mustard seeds and can be used to produce oil, although they are not usually used for this purpose. 
-
-Radish oil is pungent, like mustard oil. Radish oil cake makes a good manure. If radish tops are planted, they will produce seeds and flowers. The summer variety of radish can also be grown with áus paddy.
-
-Radish can be grown as a blended crop with potato and other crops. The root is not wide, so it can be grown with a tuber such as potato without disturbing it.
-
-The soil for growing radish should have a very light texture. Sandy alluvial soil is good, **but it should contain a lot of calcium.** 
-
-Radish require 1 tilling. In Guazipur and Juanpur radish grows quite large. Radish seedlings should be planted in such a way that the roots go straight down.
-
-Radish seeds can be grown in 2 ways:
-
-1. If soil is available, cut off 1.5 inchese from the top and plant it in wet soil. <!-- Use the remainder of the radish as a vegetable.  -->
-
-After some time plenty of flowers and seeds will grow.
-
-2. If soil is not available, cut off the top of the radish as above, but hang the top upside down in a sheltered place. 
-
-Gouge a cup-shaped cavity in the pulp and pour water into it. 
-
-When the water dries up, wash the pulp and refill it with water. After some time, flowers and seeds will grow profusely downwards. 
-
-**Radish seeds should not be sown within a radius of three miles from where they were produced. Seeds should always be brought from outside the locality, otherwise the radish crop will be prone to disease.**
-
 
 ## Cardamon (Ellaichi)
 

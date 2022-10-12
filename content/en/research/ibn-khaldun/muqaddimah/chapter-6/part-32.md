@@ -1,9 +1,9 @@
 ---
 title: "The impossibility of alchemy and the harm it causes"
-description: "They follow different procedures followed depending on "the Noble Stone" which is their invented substance. This may be excrements, or blood, or hair, or eggs, or anything else."
+description: "They follow different procedures followed depending on 'the Noble Stone' which is their invented substance. This may be excrements, or blood, or hair, or eggs, or anything else."
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 31"
+heading: "Part 32"
 date: 2021-11-18
 ---
 

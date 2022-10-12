@@ -20,9 +20,9 @@ Or profit may be obtained from wild animals by killing or catching them whole on
 
 This is called hunting (fishing). 
 
-Or (profit may be obtained) either from domesticated animals by extracting surplus products which are used by the people, such as milk from animals, silk from silk worms, and honey from bees; or from plants such as are planted in fields or
-grow as trees, through cultivating and preparing them for the production of their
-fruits. All this is called agriculture.
+Or (profit may be obtained) either from domesticated animals by extracting surplus products which are used by the people, such as milk from animals, silk from silk worms, and honey from bees; or from plants such as are planted in fields or grow as trees, through cultivating and preparing them for the production of their fruits. 
+
+All this is called agriculture.
 
 Or profit may be the result of human labor. (Such labor may be applied) to specific materials. Then it is called a craft, such as writing, carpentry, tailoring, weaving, horsemanship, and similar (crafts). Or it may be applied to nonspecific materials. 
 

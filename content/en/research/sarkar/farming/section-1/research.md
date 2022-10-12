@@ -33,22 +33,6 @@ New techniques for extracting more oil from oil-seeds and deodorizing the oil sh
 
 An example is okra. 
 
-Edible oil can be extracted from okra seeds. This oil does not have a high fat content. 
-
-The stem is low in calories. The fibre of the plant can be used to make cloth. 
-
-The remaining part of the plant can be used for fodder and fertilizer. 
-
-Okra is grown above the soil, so it can be grown with a tuber crop to get 2 crops at a time – one above and one below the ground. 
-
-The okra's stem can be used:
-- in the plastic industry
-- in the paper industry to produce ordinary quality paper 
-- as a fuel
-
-Match sticks cannot be made from the wood of okra because the wood is too weak. 
-
-Okra takes only 40 days to grow and it consumes little irrigation water.
 
 ---
 

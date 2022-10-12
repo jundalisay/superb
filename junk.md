@@ -18,6 +18,13 @@ urc urc
 chlorine is bad for plants. 
 
 
+1 sound
+2 smell
+3 sight
+4 taste
+5 touch
+
+
 zero water
 low sodium
 low chemicals

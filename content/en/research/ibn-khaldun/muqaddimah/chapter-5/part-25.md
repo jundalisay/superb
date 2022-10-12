@@ -3,7 +3,7 @@ title: "Carpentry"
 description: "The crafts are perfected only if there exists a large and perfect sedentary civilization"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 25"
+heading: "Parts 25-26"
 date: 2022-01-10
 ---
 

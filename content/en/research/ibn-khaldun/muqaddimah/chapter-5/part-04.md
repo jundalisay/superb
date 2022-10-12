@@ -3,7 +3,7 @@ title: "Treasure Hunting is not a natural way of making a living"
 description: "Trying to make money from buried and other treasures is not a natural way of making a living"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 2"
+heading: "Part 4"
 date: 2022-01-24
 ---
 
@@ -46,10 +46,11 @@ Persons who possess the (afore-mentioned) forged records fool them with the excu
 In this way they cover up their lies. First, they want to make a living. The person who hears their (stories) wants to make the water disappear in the ground by means of magical operations, so as to obtain what he wants. (People in Egypt) are fond of magic, (a trait) they have inherited from their early forebears in (Egypt). Their magical disciplines and monuments still remain in Egypt as the graves of the ancient Egyptians and other buildings attest.
 
 
-The story of Pharaoh's magicians testifies to their special knowledge of magic. 26
+The story of Pharaoh's magicians testifies to their special knowledge of magic. <!-- 26 -->
 
-The inhabitants of the Maghrib circulate a poem among themselves which they ascribe to the sages of the East. As one can see, it shows how to make water disappear in the ground by magical means. This is (the poem):
+The inhabitants of the Maghrib circulate a poem among themselves which they ascribe to the sages of the East. It shows how to make water disappear in the ground magically:
 
+{{< box >}}
 O you who are looking for the secret of how to make water disappear in the ground,
 Listen to the word of truth from an expert! Put aside all the false statements and deceptive remarks
 That people have written in books, And listen to my truthful word and advice,
@@ -68,16 +69,31 @@ A red one or a yellow one, not a blue one.
 It should have no green or dark (color) in it.
 It should be sewn with threads of white Or red wool of purest red coloring.
 The ascendant should be Leo, as has already been explained,
-And there should be no bright moonlight, 27
+And there should be no bright moonlight, <!-- 27 -->
 And the [fall ?] moon should be connected with the lucky position of
 Mercury.
+
 A Saturday should be the hour of the operation.
-My opinion is that this poem is one of the things with which swindlers fool
-(other people).
+{{< /box >}}
 
-These swindlers create remarkable situations and employ astounding techniques. They go so far in their devious lies as to take up residence in famous mansions and houses known as (hiding places of treasures). They undertake excavations there and make underground cells 28 and put signs there which they (then) incorporate in their forged lists. Then, they go to some weak-minded person with these lists. 
 
-They urge him to rent the mansion and live there. They suggest to him that the mansion contains a buried treasure of indescribable magnitude. They ask for money to buy drugs and incense, in order to break the talismans. They condition him by producing the signs they themselves had placed there and that were of their own manufacture. He gets excited by the things he sees. He is deceived and taken in by them without knowing it. During these (operations), the (swindlers) use among themselves a (special) linguistic terminology with the help of which they inveigle (their victims), and keep them in ignorance of what they say concerning the digging, incense, slaughtering of animals, and the other such things that they do.
+I think that this poem is one of the things with which swindlers fool other people.
+
+These swindlers create remarkable situations and employ astounding techniques. 
+
+They go so far in their devious lies as to take up residence in famous mansions and houses known as hiding places of treasures.
+
+They undertake excavations there and make underground cells 28 and put signs there which they (then) incorporate in their forged lists. Then, they go to some weak-minded person with these lists. 
+
+They urge him to rent the mansion and live there. 
+
+They suggest to him that the mansion contains a buried treasure of indescribable magnitude. They ask for money to buy drugs and incense, in order to break the talismans. 
+
+They condition him by producing the signs they themselves had placed there and that were of their own manufacture. 
+
+He gets excited by the things he sees. He is deceived and taken in by them without knowing it. 
+
+During these (operations), the (swindlers) use among themselves a (special) linguistic terminology with the help of which they inveigle (their victims), and keep them in ignorance of what they say concerning the digging, incense, slaughtering of animals, and the other such things that they do.
 
 The things that have been said about (treasure hunting) have no scientific basis, nor are they based upon (factual) information. It should be realized that although treasures are (sometimes) found, this happens rarely and by chance, not by systematic 'search. 
 
@@ -117,4 +133,4 @@ God is our refuge from perdition. Those who are deluded or afflicted by these th
 
 They should not occupy themselves with absurdities and untrue stories.
 
-God gives sustenance to whomever He wishes to give it, without accounting.
+<!-- God gives sustenance to whomever He wishes to give it, without accounting. -->

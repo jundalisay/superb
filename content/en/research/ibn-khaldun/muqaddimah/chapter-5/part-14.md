@@ -3,7 +3,7 @@ title: "The character of merchants are inferior to those of leading personalitie
 description: "A merchant concerns himself with buying and selling, earning money and making a profit. This requires cunning, willingness to enter into disputes, cleverness, constant quarreling, and great persistence."
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 14"
+heading: "Parts 14-15"
 date: 2022-01-18
 ---
 
