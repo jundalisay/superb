@@ -65,18 +65,10 @@ Kusum flower can be planted as a boundary plant around the late boro field and c
 
 All paddy requires clay soil. Where there is water in the field, care must be taken to ensure that the heads of the paddy stalks are not submerged.
 
-## Banana
 
-The land between banana plants must not remain vacant. The following crops can be planted:
 
-1. Áśáŕha to Kárttika – turmeric and black gram.
-2. Agraháyańa to Mágha – sweet potato or sweet juice potato and winter chilli or winter brinjal. 
 
-The seedlings should be quite big.
-
-3. Phálguna to Jyaeśt́ha – peanut or ginger under the ground and sesame or soybean above the ground.
-
-Spices
+## Spices
 
 The crop rotation for spices should be as follows:
 1) Second half of Phálguna, Caetra, Vaeshákha and Jyaeśt́ha – ginger with soybean.

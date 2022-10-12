@@ -101,4 +101,6 @@ When there is a scant supply of water, a “pigeon crop”(1) of the rái varie
 
 The mustard seeds should be spread out over the whole field while it is still wet after the rainy season, then the crop will grow through the dry season.
 
-It is not economical to cultivate sugar cane in Bengal because it occupies the land for a whole year. Sugar beet should be grown instead, because three crops can be grown in a year. However, sugar beet cannot supply molasses, which is a very famous food in rural Bengal. Also, seeds cannot be produced from sugar beet due to the hot climate, so they have to be imported from outside the region. Research should be done to develop varieties of sugar beet which produce seeds in warm climates.
+It is not economical to cultivate sugar cane in Bengal because it occupies the land for a whole year. Sugar beet should be grown instead, because three crops can be grown in a year. 
+
+However, sugar beet cannot supply molasses, which is a very famous food in rural Bengal. Also, seeds cannot be produced from sugar beet due to the hot climate, so they have to be imported from outside the region. Research should be done to develop varieties of sugar beet which produce seeds in warm climates.

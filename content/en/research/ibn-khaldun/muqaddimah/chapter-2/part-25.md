@@ -1,15 +1,11 @@
-+++
-title= "The Arabs"
-description= "Places that succumb to the Arabs are quickly ruined"
-image= "/covers/muq.jpg"
-date= 2020-01-22
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-2/part-22"
-linkbtext= "Part 22"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-2/part-27"
-linkftext= "Part 27"
-heading= "Part 25"
-+++
-
+---
+title: "The Arabs"
+description: "Places that succumb to the Arabs are quickly ruined"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 25"
+date: 2020-01-06
+---
 
 
 ## 25. Places that succumb to the Arabs are quickly ruined
@@ -67,7 +63,9 @@ God inherits the earth and whomever is upon it. He is the best heir.143
 
 ## 26. Arabs can obtain royal authority only using religious coloring, such as prophecy, sainthood, or some great religious event in general
 
-This is because of their savagery. They are the least willing of nations to subordinate themselves to each other, as they are rude, proud, ambitious, and eager to be the leader. Their individual aspirations rarely coincide. 
+This is because of their savagery. 
+
+They are the least willing of nations to subordinate themselves to each other, as they are rude, proud, ambitious, and eager to be the leader. Their individual aspirations rarely coincide. 
 
 But when there is religion (among them) through prophecy or sainthood, then they have some restraining influence in themselves. The qualities of haughtiness and jealousy leave them. It is, then, easy for them to subordinate themselves and to unite (as a social organization). 
 
@@ -75,4 +73,4 @@ This is achieved by the common religion they now have. It causes rudeness and pr
 
 Besides, no people are as quick (as the Arabs) to accept (religious) truth and right guidance, because their natures have been preserved free from distorted habits and uncontaminated by base character qualities. 
 
-The only (difficulty) lies in the quality of savagery, which, however, is easily taken care of and which is ready to admit good (qualities), as it has remained in its first natural state and remote from the ugly customs and bad habits that leave their impress upon the soul. "Every infant is born in the natural state," as is stated in the tradition that was quoted above. 145
+The only (difficulty) lies in the quality of savagery, which, however, is easily taken care of and which is ready to admit good (qualities), as it has remained in its first natural state and remote from the ugly customs and bad habits that leave their impress upon the soul. "Every infant is born in the natural state," as is stated in the tradition that was quoted above.

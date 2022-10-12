@@ -1,14 +1,12 @@
-+++
-title= "The character of merchants are inferior to those of leading personalities and remote from manliness"
-description= "A merchant concerns himself with buying and selling, earning money and making a profit. This requires cunning, willingness to enter into disputes, cleverness, constant quarreling, and great persistence."
-image= "/covers/muq.jpg"
-date= 2022-01-29
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-5/part-08"
-linkbtext= "Part 8"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-5/part-16"
-linkftext= "Part 16"
-heading= "Part 14"
-+++
+---
+title: "The character of merchants are inferior to those of leading personalities and remote from manliness"
+description: "A merchant concerns himself with buying and selling, earning money and making a profit. This requires cunning, willingness to enter into disputes, cleverness, constant quarreling, and great persistence."
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 14"
+date: 2022-01-18
+---
+
 
 
 A merchant concerns himself with buying and selling, earning money and making a profit. This requires cunning, willingness to enter into disputes, cleverness, constant quarreling, and great persistence. 
@@ -24,7 +22,9 @@ Manliness is completely - alien to them, beyond their power to acquire. At any r
 
 There exists a second kind of merchant, which we mentioned in the preceding section, namely, those who have the protection of rank and are thus spared (the onus) of having anything to do personally with such (business manipulations). 
 
-They are most uncommon. For they are people who have all of a sudden come into the possession of a good deal of money in some unusual way, or have inherited money from a member of their family. Thus, they have obtained the wealth that helps them to associate with the people of the dynasty and to gain prominence and renown among their contemporaries. Therefore, they are too proud to have anything personally to do with such (business manipulations), and they leave them to the care of their agents and servants. It is easy for them to have the magistrates confirm their rights, because (the magistrates) are familiar with their beneficence and gifts.
+They are most uncommon. For they are people who have all of a sudden come into the possession of a good deal of money in some unusual way, or have inherited money from a member of their family. Thus, they have obtained the wealth that helps them to associate with the people of the dynasty and to gain prominence and renown among their contemporaries. 
+
+Therefore, they are too proud to have anything personally to do with such (business manipulations), and they leave them to the care of their agents and servants. It is easy for them to have the magistrates confirm their rights, because (the magistrates) are familiar with their beneficence and gifts.
 
 These merchants will thus be remote from such (bad) character qualities, since they have nothing to do with the actions that bring them about, as has just been mentioned. Their manliness, therefore, will be very firmly rooted and very remote from these destructive qualities, save for the influences of such evil actions as may slip in behind the scenes.74 For they are compelled to supervise their agents and to concur with or oppose the things they do and do not do. However, these (activities) are limited, and their influence is scarcely perceptible.
 

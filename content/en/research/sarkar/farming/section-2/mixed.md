@@ -58,39 +58,8 @@ Cotton can be grown with sweet juice potato and sweet potato. Cotton can also be
 
 Black gram can be grown with turmeric, sugar cane, green leafy vegetables, brinjal, green chilli and radish.
 
-- Mango
-
-Mango can be grown as a roadside tree. Between two mangoes one palm should be planted – one mango, one palm, one mango, etc. Agave (sisal) can then be grown as a fill up plant between them.
 
 
-## Oranges
-
-Orange trees must be planted 15-20 feet apart. Between two orange trees there should be one coffee tree. Then between the orange and coffee trees there should be two tea plants approximately three feet apart from each other. Between these there should be ginger as a fill up. Each ginger plant should be two feet apart from each other. All the rows should be parallel in a grid formation.
-
-There are no soil or rainfall considerations for oranges, but calcium must be present in the soil in sufficient quantity because it makes the fruit sweet. There are no soil considerations for tea either, but there should be a lot of rainfall which does not accumulate around the plant. Coffee can grow with less rainfall than tea, and it can grow in poor soil.
-
-Suggested orange varieties include:
-
-- Nagpuri orange (small size)
-- Kalimpong variety (big fruit with space between the skin and the fruit, watery taste)
-- Assam variety (small size, sweet)
-- Silal variety (small size, very sweet)
-- South Indian variety (a little bigger than Nagpuri)
-- Other varieties, including Valencia, Italian, Maltese, etc.
-
-<!-- Suggested varieties of coffee trees include:
-
-Arabian
-Egyptian
-South American -->
-
-## Wheat
-
-Wheat, poppy (ordinary poppy or opium poppy) and mustard can be grown as blended crops. Peas, lentils, khesári, etc. may be planted with wheat as well as poppy. 
-
-If any of these plants occupy 10% of a wheat field, the yield of the wheat will be increased so that the production of wheat will be the same as when wheat occupied the whole field. Also, if wheat, peas and khesári are planted together, the production of wheat will be as much as when wheat was grown alone. 
-
-Yellow mustard, red mustard and the rái variety of mustard may all be sown as mixed crops with wheat. The larger variety of lentil may be cultivated along with wheat as a winter crop after the land has been tilled.
 
 
 ## Radish

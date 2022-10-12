@@ -167,6 +167,17 @@ Not more than 2 offshoot saplings should be allowed to grow from one banana tree
 There are many varieties of banana.
 
 
+### Banana Crop Mix
+
+The land between banana plants must not remain vacant. The following crops can be planted:
+
+1. Áśáŕha to Kárttika – turmeric and black gram.
+2. Agraháyańa to Mágha – sweet potato or sweet juice potato and winter chilli or winter brinjal. 
+
+The seedlings should be quite big.
+
+3. Phálguna to Jyaeśt́ha – peanut or ginger under the ground and sesame or soybean above the ground.
+
 
 ## Other Fibre Crops
 

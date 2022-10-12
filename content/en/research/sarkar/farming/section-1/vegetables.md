@@ -217,7 +217,7 @@ There are several varieties of wax gourd grown in Bengal and Bihar and include:
 - Whitish gourd (pashchimá pat́ol) which has a small, white fruit that does not taste very good.
 - Greenish gourd
 
-Wax gourd can be grown during any season. But its best planting period is between Aśádha and Mágha. 
+Wax gourd can be grown during any season. But its best planting period is between Month 6.5 and 1.5 <!-- Aśádha and Mágha -->. 
 
 It is good for many diseases and has some food value as well. 
 
@@ -229,11 +229,13 @@ When planting wax gourd cuttings, follow the same procedure as watermelons and m
 
 The cuttings should be prepared so that each cutting has two intact nodes, one at the base and the other at the top. Each cutting should be planted so that it is slanting with respect to the ground, and the lower node should not be covered by soil. 
 
-After the wax gourd cutting is planted, it requires shade and proper watering in all seasons for the first five to six days while the new leaves appear. Within 7-15 days, a green sprout will appear on the upper node. 
+After the wax gourd cutting is planted, it requires shade and proper watering in all seasons for the first 5-6 days while the new leaves appear. Within 7-15 days, a green sprout will appear on the upper node. 
 
-After that it does not need much care. The plant starts flowering after one month. In the evenings the flowers bloom all at once at 11:30 p.m. sharp. When the size of the fruit starts becoming small, the old plants should be removed and replaced by new cuttings. Good cuttings are available in Burdwan, Ranaghat, Beldanga, Monghyr, Farakka, Rajmahal and Saheb Ganj. 
+After that, it does not need much care. 
 
-Wax gourd grows well if subterranean water is available, otherwise the  fields will have to be irrigated.
+The plant starts flowering after one month. In the evenings the flowers bloom all at once at 11:30 p.m. sharp. When the size of the fruit starts becoming small, the old plants should be removed and replaced by new cuttings. Good cuttings are available in Burdwan, Ranaghat, Beldanga, Monghyr, Farakka, Rajmahal and Saheb Ganj. 
+
+Wax gourd grows well if subterranean water is available, otherwise the fields will have to be irrigated.
 
 Wax gourd is mostly grown along the banks of the Churni river in Ranaghat. 
 - But it may be planted along the banks of the rivers in Purulia district. 

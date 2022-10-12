@@ -1,15 +1,14 @@
-+++
-title= "The wealth and economic activity between cities depend on their population size"
-description= "There are few cities and towns in Ifriqiyah and the Maghrib"
-image= "/covers/muq.jpg"
-date= 2022-01-28
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-4/part-07"
-linkbtext= "Part 7"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-4/part-12"
-linkftext= "Part 12"
-heading= "Part 11"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "The wealth and economic activity between cities depend on their population size"
+description: "There are few cities and towns in Ifriqiyah and the Maghrib"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 11"
+date: 2020-01-20
+---
+
+
+
 
 This is because each person cannot obtain all the necessities of life by himself. <!-- All human beings must co-operate to that end in their civilization. 102 But what is obtained through the co-operation of a group of human beings satisfies the need of a number many times greater (than themselves).  --> For instance, no one, by himself, can obtain the wheat that he needs for food.
  
@@ -69,8 +68,12 @@ The common people believe that this is so because property is abundant in those 
 Income and expenditure balance each other in every city. If the income is large, the expenditure is large, and vice versa. And if both income and expenditure are large, the inhabitants become more favorably situated, and the city grows.
 No (phenomenon) of this sort one may hear about should be denied, but all these things should be understood to be the result of much civilization and the resulting great profits which facilitate spending and giving bounties to those who ask for them. 
 
-This might be compared with the difference existing in one and the same town with regard to the houses dumb animals keep away from or frequent. The premises and courtyards of the houses of the prosperous and wealthy (inhabitants ofthe town), who set a good table and where grain and bread crumbs lie scattered around, are frequented by swarms of ants and insects. There are many large rats in their cellars, and cats repair to them.107 Flocks of birds circle over them and eventually leave, satiated and full with food and drink. (But) in the premises of the houses of the indigent and the poor who have little sustenance, no insect crawls about and no bird hovers in the air, and no rat or cat takes refuge in the cellars 108 of such houses, for, as (the poet) said: The bird swoops down where there is grain to pick up And frequents the mansions of noble (generous) persons. 109 
+This might be compared with the difference existing in one and the same town with regard to the houses dumb animals keep away from or frequent. The premises and courtyards of the houses of the prosperous and wealthy (inhabitants ofthe town), who set a good table and where grain and bread crumbs lie scattered around, are frequented by swarms of ants and insects. There are many large rats in their cellars, and cats repair to them.107 Flocks of birds circle over them and eventually leave, satiated and full with food and drink. 
+
+But in the premises of the houses of the indigent and the poor who have little sustenance, no insect crawls about and no bird hovers in the air, and no rat or cat takes refuge in the cellars 108 of such houses, for, as (the poet) said: The bird swoops down where there is grain to pick up And frequents the mansions of noble (generous) persons. 109 
 
 <!-- God's secret (plan) in this respect should be scrutinized.  -->
 
-One may compare the swarms of human beings with the swarms of dumb animals, and the crumbs from tables with the surplus of sustenance and luxury and the ease with which it can be given away by the people who have it, because as a rule they can do without it, since they have more of it. It should be known that favorable conditions and much prosperity in civilization are the results of its large size.
+One may compare the swarms of human beings with the swarms of dumb animals, and the crumbs from tables with the surplus of sustenance and luxury and the ease with which it can be given away by the people who have it, because as a rule they can do without it, since they have more of it. 
+
+Favorable conditions and much prosperity in civilization are the results of its large size.

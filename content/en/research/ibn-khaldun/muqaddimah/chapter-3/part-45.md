@@ -4,7 +4,7 @@ description: "The transition of dynasties from desert life to sedentary culture"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 45"
-date: 2020-01-10
+date: 2020-01-16
 ---
 
 
@@ -106,8 +106,9 @@ in a body that lacks nourishment. Eventually, (the dynasty) reaches its destined
 As for the disintegration that comes through money, it should be known that
 at the beginning the dynasty has a desert attitude, as was mentioned before 708 It has
 the qualities of kindness to subjects, planned moderation in expenditures, and
-respect for other people's property. It avoids onerous taxation and the display of
-cunning or shrewdness in the collection of money and the accounting (required)
+respect for other people's property. 
+
+It avoids onerous taxation and the display of cunning or shrewdness in the collection of money and the accounting (required)
 from officials. Nothing at this time calls for extravagant expenditures. Therefore, the
 dynasty does not need much money.
 
@@ -115,17 +116,19 @@ Later comes domination and expansion. Royal authority flourishes. This calls
 for luxury. (Luxury) causes increased spending. The expenditures of the ruler, and of
 the people of the dynasty in general, grow. This (tendency) spreads to the urban
 population. It calls for increases in soldiers' allowances and in the salaries of the
-people of the dynasty 709 Extravagant expenditures mount. It spreads to the subjects,
-because people follow the religion (ways) and customs of the dynasty. 710
-The ruler, then, must impose duties on articles sold in the markets, in order
-to improve his revenues. (He does so,) because he sees the luxury of the urban
-population testifying to their prosperity, and because he needs the money for the
+people of the dynasty <!-- 709  -->.
+
+Extravagant expenditures mount. 
+
+It spreads to the subjects, because people follow the religion (ways) and customs of the dynasty. 710
+
+The ruler, then, must impose duties on articles sold in the markets, in order to improve his revenues. (He does so,) because he sees the luxury of the urban population testifying to their prosperity, and because he needs the money for the
 expenditures of his government and the salaries of his soldiers. Habits of luxury,
-then, further increase. The customs duties no longer pay for them. The dynasty, by
-this time, is flourishing in its power and its forceful hold over the subjects under its
-control. Its hand reaches out to seize some of the property of the subjects, either
-through customs duties, or through commercial transactions, or, in some cases,
-merely by hostile acts directed against (property holdings), on some pretext or even
+then, further increase. 
+
+The customs duties no longer pay for them. The dynasty, by this time, is flourishing in its power and its forceful hold over the subjects under its control. 
+
+Its hand reaches out to seize some of the property of the subjects, either through customs duties, or through commercial transactions, or, in some cases, merely by hostile acts directed against (property holdings), on some pretext or even
 with none.
 
 At this stage, the soldiers have already grown bold against the dynasty,
@@ -134,20 +137,19 @@ because it has become weak and senile it, as far as its group feeling is concern
 situation through generous allowances and much spending for (the soldiers). It
 cannot get around that.
 
-At this stage, the tax collectors in the dynasty have acquired much wealth,
-because vast revenues are in their hands and their position has widened in
-importance for this reason. Suspicions of having appropriated tax money, therefore,
-attach to them. It becomes common for one tax collector to denounce another,
-because of their mutual jealousy and envy. One after another is deprived of his
-money by confiscation and torture. 711 Eventually, their wealth is gone, and they are
+At this stage, the tax collectors in the dynasty have acquired much wealth, because vast revenues are in their hands and their position has widened in importance for this reason.
+
+Suspicions of having appropriated tax money, therefore, attach to them. It becomes common for one tax collector to denounce another, because of their mutual jealousy and envy. 
+
+One after another is deprived of his money by confiscation and torture. 711 Eventually, their wealth is gone, and they are
 ruined. The dynasty loses the pomp and magnificence it had possessed through
 them.
 
 After their prosperity is destroyed, the dynasty goes farther afield and
 approaches its other wealthy subjects. At this stage, feebleness has already afflicted
-its (former) might. (The dynasty) has become too weak to retain its power and
-forceful hold. The policy of the ruler, at this time, is to handle matters diplomatically by spending money. He considers this more advantageous than the sword, which is of little use. His need for money grows beyond what is needed for
-expenditures and soldiers' salaries. 
+its (former) might.
+
+The dynasty has become too weak to retain its power and forceful hold. The policy of the ruler, at this time, is to handle matters diplomatically by spending money. He considers this more advantageous than the sword, which is of little use. His need for money grows beyond what is needed for expenditures and soldiers' salaries. 
 
 He never gets enough. Senility affects the dynasty more and more. The people of (other) regions grow bold against it.
 
@@ -155,6 +157,4 @@ At each of these stages, the strength of the dynasty crumbles. Eventually, it re
 
 **If this does not occur, it will continue to dwindle and finally disappear like the wick of a lamp when the oil is exhausted, and it goes out.**
 
-God owns all things and governs the whole creation. 
-
-
+<!-- God owns all things and governs the whole creation.  -->

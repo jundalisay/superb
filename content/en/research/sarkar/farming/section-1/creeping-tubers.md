@@ -70,8 +70,11 @@ There are 3 main varieties of potato grown in India:
 The white and black skinned potato grows well in cold climates. Good foreign varieties <!-- of potato grown in various countries which --> should be brought to India for cultivation.
 
 The schedule for planting potatoes is:
-- early potato (red or cream varieties) – Áshvina, Kárttika, Agraháyańa, and
-- late potato – Paoś, Mágha, Phálguna.
+- early potato (red or cream varieties) – 9.5, 10.5, 11.5 <!-- Áshvina, Kárttika, Agraháyańa, and -->
+- late potato – 12.5, 1.5, 2.5 <!-- Paoś, Mágha, Phálguna. -->
+
+
+
 
 To avoid pests, potato fields should be prepared with **mustard oil cake** or **castor cake manure**. 
 

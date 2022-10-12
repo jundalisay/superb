@@ -1,14 +1,11 @@
-+++
-title= "The vanquished always want to imitate the victor"
-description= "This is because the soul always sees perfection in the person who is superior to it and to whom it is subservient"
-image= "/covers/muq.jpg"
-date= 2020-01-23
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-2/part-21"
-linkbtext= "Part 21"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-2/part-25"
-linkftext= "Part 25"
-heading= "Part 22"
-+++
+---
+title: "The vanquished always want to imitate the victor"
+description: "The soul then adopts the victor's manners and assimilates itself to him. It imitates him"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 22"
+date: 2020-01-08
+---
 
 
 

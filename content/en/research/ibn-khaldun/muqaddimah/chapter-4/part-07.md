@@ -1,15 +1,12 @@
-+++
-title= "Islamic Infrastructure"
-description= "There are few cities and towns in Ifriqiyah and the Maghrib"
-image= "/covers/muq.jpg"
-date= 2022-01-28
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-4/part-06"
-linkbtext= "Part 6"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-4/part-11"
-linkftext= "Part 11"
-heading= "Part 7"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "Islamic Infrastructure"
+description: "There are few cities and towns in Ifriqiyah and the Maghrib"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 7"
+date: 2020-01-22
+---
+
 
 
 ## 7. There are few cities and towns in Ifriqiyah and the Maghrib.
@@ -77,9 +74,8 @@ One may cite the Arabs' planning of al-Kufah, al-Basrah, and al-Qayrawan. All th
 They had no sources from which to feed their civilization (population) later on. Such a source must exist if civilization is to continue, as we have stated before. 98 
 
 The sites of (those cities) were not naturally suited for settlement. They were not situated in the midst of nations capable of repopulating them (once their original population started to disintegrate). At the first intimations of the
-disintegration of (Arab) power and of the disappearance of the group feeling that
-protected them, (those cities) fell prey to ruin and disintegration and were as if they
-had never been. 
+disintegration of (Arab) power and of the disappearance of the group feeling that protected them, (those cities) fell prey to ruin and disintegration and were as if they had never been. 
+
 
 
 ## 10. The beginnings of the ruin of cities

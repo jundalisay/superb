@@ -1,14 +1,11 @@
-+++
-title= "Group Feeling and Purity of lineage"
-description= "Purity of lineage is found only among the savage because of the poor life, hard conditions, and bad habitats that are peculiar to the Arabs."
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/"
-linkbtext= "Index"
-linkf= "/research/ibn-khaldun/muqaddimah/"
-linkftext= "Index"
-heading= "Part 2b"
-+++
-
+---
+title: "Group Feeling and Purity of Lineage"
+description: "Purity of lineage is found only among the savage because of the poor life, hard conditions, and bad habitats that are peculiar to the Arabs"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 22"
+date: 2020-01-24
+---
 
 
 ## 9. Purity of lineage is found only among the savage 

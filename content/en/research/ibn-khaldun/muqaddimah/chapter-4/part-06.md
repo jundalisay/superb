@@ -1,18 +1,15 @@
-+++
-title= "The Hisory of the Ka'bah"
-description= "The mosques and venerated buildings of the world"
-image= "/covers/muq.jpg"
-date= 2022-01-29
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-4/part-05"
-linkbtext= "Part 5"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-4/part-07"
-linkftext= "Part 7"
-heading= "Part 6"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "The History of the Ka'bah"
+description: "The mosques and venerated buildings of the world"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 6"
+date: 2020-01-24
+---
 
 
-## The mosques and venerated buildings of the world.
+
+## The mosques and venerated buildings of the world
 
 God singled out some places of the earth for special honor and made them the homes of His worship. <!-- (People who worship in them) receive a much greater reward and recompense (than people who worship elsewhere).  -->
 
@@ -57,7 +54,7 @@ Then, after them, there came the Amalekites. The situation remained unchanged. 3
 The Tubba' called Tiban As'ad Abu Karib 40 clothed it with curtains and striped Yemenite cloth and ordered it cleaned and had a key made for it. The Persians used to make pilgrimage to it and present sacrificial gifts to it. The two golden gazelles that 'Abd-al-Muttalib found when the Zamzam was excavated are said to have been one of the sacrificial gifts presented (to the Ka'bah) by (the Persians). 
 
 
-41. The Jurhum, as descendants of the maternal uncles of the children of Ishmael, continued their administration of the House after them. 
+## 41. The Jurhum, as descendants of the maternal uncles of the children of Ishmael, continued their administration of the House after them. 
 
 Eventually, the Khuza'ah ousted them and remained there after them, as long as God wanted them to remain. Then, the descendants of Ishmael became numerous and spread. They branched out into the Kinanah, who, in turn, branched out into the Quraysh and others. 
 
@@ -228,7 +225,7 @@ Then, Christianity was adopted by the Romans. <!-- It became their religious pra
 
 Constantine's mother Helena became a Christian.78 She traveled to Jerusalem in search of the wood where Jesus had been crucified. 
 
-The priests 79 informed her that his cross had been thrown to the ground and had been covered with excrements and filth. She discovered the wood and built "the Church of the Excrements" 80 over the place where those excrements had been. 
+The priests <!-- 79 --> informed her that his cross had been thrown to the ground and had been covered with excrements and filth. She discovered the wood and built "the Church of the Excrements" 80 over the place where those excrements had been. 
 
 Christians think that that Church is on the grave of the Messiah. Helena destroyed the parts of the House (the Temple) that she found standing. She ordered dung and excrements to be thrown upon the Rock, until it was entirely covered and its site obscured. 
 
@@ -254,9 +251,11 @@ Jerusalem had the 'Ubaydid(-Fatimids), the Shi'ah caliphs of Cairo.  Their power
 The European Christians conquered Jerusalem, as well as the border cities of Syria. Upon the holy Rock they built a church
 which they venerated and in the construction of which they took great pride. 
 
-Eventually, Salah-ad-din b. Ayyub al-Kurdi became the independent ruler of Egypt and Syria. He wiped out the influence and heresy of the 'Ubaydid(-Fatimids). He advanced toward Syria and waged the holy war against the European Christians
+Eventually, Salah-ad-din b. Ayyub al-Kurdi became the independent ruler of Egypt and Syria. He wiped out the influence and heresy of the Ubaydid (Fatimids). He advanced toward Syria and waged the holy war against the European Christians
 there. He deprived them of possession of Jerusalem and the other border cities of
-Syria they were holding. This took place around the year 580 [1184/85]. 
+Syria they were holding. 
+
+This took place around the year 580 [1184/85]. 
 
 Salah-ad-din destroyed the Christian church, uncovered the Rock, and rebuilt the Mosque in about the same form in which it is still standing at this time.
 
@@ -303,15 +302,9 @@ The ancient nations had mosques which they venerated in what they thought to be 
 
 There were the fire temples of the Persians and the temples of the Greeks and the houses of the Arabs in the Hijaz, which the Prophet ordered destroyed on his raids. 
 
-Al-Mas'udi mentioned some of them.90 We have no occasion whatever to mention them. They are not sanctioned by a religious
-law. They have nothing to do with religion. 
+Al-Mas'udi mentioned some of them.<!-- 90 --> 
+
+We have no occasion whatever to mention them. They are not sanctioned by a religious law. They have nothing to do with religion. 
 
 No attention is paid to them or to their history. In connection with them, the information contained in historical works is
 enough. Whoever wants to have historical information (about them) should consult the historical works.
-
-
-
-
-
-
-

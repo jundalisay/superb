@@ -143,13 +143,17 @@ This can best be done by a decentralized approach to water management which incr
 
 2. The second step is to increase the area of these storage facilities, while the third step is to increase the plantations around them. 
 
-How can these plantations be increased by a factor of ten? By increasing the number of rows of plants around each water storage system five times, and by reducing the distance between each plant by half. In addition to this, many new small-scale ponds, tanks, dams, lakes and reservoirs should also be constructed. As a general rule, surface water should always be utilized in preference to subterranean water.
+How can these plantations be increased by a factor of ten? 
 
-You must prepare yourselves. The sphere of knowledge, the span of knowledge and the expansion of knowledge starts with the self. 
+By increasing the number of rows of plants around each water storage system five times, and by reducing the distance between each plant by half. 
+
+In addition to this, many new small-scale ponds, tanks, dams, lakes and reservoirs should also be constructed. As a general rule, surface water should always be utilized in preference to subterranean water.
+
+<!-- You must prepare yourselves. The sphere of knowledge, the span of knowledge and the expansion of knowledge starts with the self. 
 
 Humanity is waiting for you. You know what you are and what the world expects from you. 
 
 You have to solve all the problems in the world today. You should prepare detailed plans and programmes and act accordingly. You must be the vanguard.
 
 
-25 March 1989, Calcutta
+25 March 1989, Calcutta -->

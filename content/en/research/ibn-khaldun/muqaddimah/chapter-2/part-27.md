@@ -1,15 +1,11 @@
-+++
-title= "The Arabs are most remote from royal leadership"
-description= "This is because they are more rooted in desert life than any other nation"
-image= "/covers/muq.jpg"
-date= 2020-01-20
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-2/part-25"
-linkbtext= "Part 25"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3"
-linkftext= "Chapter 3"
-heading= "Part 27"
-icon = "/icons/soc.png"
-+++
+---
+title: "The Arabs are most remote from royal leadership"
+description: "This is because they are more rooted in desert life than any other nation"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 27"
+date: 2020-01-04
+---
 
 
 <!-- ## 27. The Arabs are of all nations the one most remote from royal leadership -->

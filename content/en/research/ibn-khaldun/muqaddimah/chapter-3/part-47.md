@@ -1,16 +1,14 @@
-+++
-title= "How a New Dynasty Begins"
-description= "To be caliph in reality means acting as substitute for Muhammad with regard to the preservation of the religion and the political leadership of the world"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-27"
-linkbtext= "Part 27"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-28b"
-linkftext= "Part 28b"
-heading= "Parts 28a"
-+++
+---
+title: "How a New Dynasty Begins"
+description: "When the ruling dynasty starts on the road to senility and destruction, the rise of the new dynasty happens in 2 ways"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 47"
+date: 2020-01-06
+---
 
 
-## 47. How a new dynasty originates
+<!-- ## 47. How a new dynasty originates -->
 
 When the ruling dynasty starts on the road to senility and destruction, the rise of the new dynasty happens in 2 ways:
 
@@ -50,8 +48,7 @@ They (revolt) only when they have a family with sufficient group feeling and str
 
 The reason for this is that victory in war, as we have mentioned before, 730 as a rule is the result of imaginary psychological factors. Numbers, weapons, and proper tactics may guarantee (victory). However, as has been mentioned above, (all these things) are less effective than the imaginary (psychological) factors, as has been mentioned above. Trickery is one of the most useful things employed in warfare. 
 
-It is the thing most likely to bring victory. A tradition says= "War is
-trickery." 731
+It is the thing most likely to bring victory. A tradition says= "War is trickery." <!-- 731 -->
 
 Accepted custom has made obedience to the ruling dynasty a necessity and an obligation, as has been mentioned before in more than one place. 732 This puts many hindrances in the way of the founder of a new dynasty. It discourages his
 followers and supporters. His closest intimates may be fully intent upon obeying
@@ -59,29 +56,29 @@ him and helping him.
 
 Still, others are more numerous, who are affected by weakness
 and laziness under the influence of the belief that they owe submission to the ruling
-dynasty. Their zeal slackens. Therefore, the founder of a new dynasty is hardly able
-to make a stand against the ruler of the ruling dynasty. Consequently, he falls back
-on patience and perseverance, until the senility of the ruling dynasty has become
-obvious. Then his people lose the belief that they owe submission to the ruling
-dynasty. They become sufficiently spirited to make an open attack upon the ruling
-dynasty in concert with (the founder of the new dynasty). Victory and domination
+dynasty. Their zeal slackens. 
+
+Therefore, the founder of a new dynasty is hardly able to make a stand against the ruler of the ruling dynasty. Consequently, he falls back on patience and perseverance, until the senility of the ruling dynasty has become
+obvious. 
+
+Then his people lose the belief that they owe submission to the ruling dynasty. They become sufficiently spirited to make an open attack upon the ruling dynasty in concert with (the founder of the new dynasty). Victory and domination
 are the result.
 
 Furthermore, the ruling dynasty has many luxuries. 
 
-The royal authority of
-(the people of the ruling dynasty) had been firmly established. They had enjoyed
+The royal authority of the people of the ruling dynasty had been firmly established. They had enjoyed
 prosperity and pleasures. To the exclusion of others, they had appropriated a good
 deal of the revenues from taxes. Thus, they have many horses in their stables and
-good weapons. There is much royal pomp among them. Gifts from their rulers, given
-either voluntarily or under constraint, have been showered upon them. 733 With all
+good weapons. There is much royal pomp among them. 
+
+Gifts from their rulers, given either voluntarily or under constraint, have been showered upon them. 733 With all
 this, they frighten their enemies.
-The people of the new dynasty do not have (such things). They have the
-desert attitude and are poor and indigent. This leaves them unprepared for such(things). What they hear about the conditions and excellent state of preparedness of
+
+The people of the new dynasty do not have (such things). They have the desert attitude and are poor and indigent. This leaves them unprepared for such(things). What they hear about the conditions and excellent state of preparedness of
 the ruling dynasty makes them apprehensive. They are afraid to do battle against (the
-ruling dynasty) on account of it. Therefore, their leader is forced to wait until
-senility takes hold of the ruling dynasty and its group feeling and fiscal (structure)
-are disintegrating. Then, the founder of the new dynasty seizes the opportunity to
+ruling dynasty) on account of it. 
+
+Therefore, their leader is forced to wait until senility takes hold of the ruling dynasty and its group feeling and fiscal (structure) are disintegrating. Then, the founder of the new dynasty seizes the opportunity to
 gain the upper hand, quite some time after his attack (had begun). This is how God
 proceeds with His servants.
 
@@ -105,35 +102,35 @@ Thus, they become spirited enough (to attempt) sudden action. The apprehensions
 that had hitherto weakened their resolution disappear. The long wait comes to an
 end, and sudden action finally brings domination.
 
-This may be exemplified by the emergence and beginnings of the 'Abbasid
-dynasty. The ('Abbasid) Shi'ah remained in Khurasan for ten years or more after the
-('Abbasid) propaganda had consolidated and (the 'Abbisids) had gathered for attack.
-Then, their victory materialized, and they gained the upper hand over the
-Umayyads.
+This may be exemplified by the emergence and beginnings of the Abbasid dynasty. The Abbasid Shi'ah remained in Khurasan for ten years or more after the Abbasid propaganda had consolidated and the Abbisids had gathered for attack.
+Then, their victory materialized, and they gained the upper hand over the Umayyads.
 
-The same was the case with the 'Alids (Zaydis) in Tabaristan at the time their
-propaganda appeared among the Daylam. They had to wait a long time before they
-gained domination over that region. The 'Alid rule then ended, and the Daylam
-aspired to rule over Firs and the two 'Irigs. They waited (patiently) for many years,
+The same was the case with the 'Alids (Zaydis) in Tabaristan at the time their propaganda appeared among the Daylam. They had to wait a long time before they gained domination over that region. 
+
+The Alid rule then ended, and the Daylam aspired to rule over Firs and the two 'Irigs. They waited (patiently) for many years,
 until they were able to cut off Isfahan and Firs (and take it for themselves). Then,
 they gained domination over the caliph in Baghdad.
-The same was the case with the 'Ubaydid(-Fitimids). Their missionary in the
-Maghrib, Abu 'Abdallah ash-Shi'i, 735 stayed for more than ten years among the
+
+The same was the case with the 'Ubaydid(-Fitimids). 
+
+Their missionary in the Maghrib, Abu 'Abdallah ash-Shi'i, 735 stayed for more than ten years among the
 Kutimah Berbers waiting to gain victory over the Aghlabids in Ifrigiyah. (The
 'Ubaydid-Fitimids) then took possession of the Maghrib, and, later on, aspired to
-become rulers of Egypt. They spent about thirty years waiting for their chance,
-constantly sending armies and fleets against Egypt. Support for Egypt's defense
-against (the 'Ubaydid-Fatimids) came from Baghdad and Syria, by land and by sea.
-They took possession of Alexandria, the Fayyum, and Upper Egypt. Their
-propaganda progressed from there to the Hijiz and found a home in Mecca and
-Medina. Then, their general, Jawhar alKitib,736 moved against the (capital) city of
-Egypt with his armies and took possession of it. He uprooted the dynasty of the
-Banu Tughsh (Ikhshidids) and founded Cairo. His caliph, Ma'add al-Mu'izz-li-din-
-Allih, came to (Cairo) and chose it as his residence. This was about sixty years after
-the ('Ubaydid-Fitimids) had (for the first time) gained domination over Alexandria.
-The same was the case with the Saljuq Turk rulers. They gained the upperhand over the Siminids and went beyond Transoxania, but then they had to spend about 30 years waiting to gain the upper hand over the (dynasty of) Ibn
-Sebuktigin in Khurasin 737 After some time, they advanced against Baghdad and
-took possession of it and of the caliph there.
+become rulers of Egypt. 
+
+They spent about 30 years waiting for their chance, constantly sending armies and fleets against Egypt. 
+
+Support for Egypt's defense against the Ubaydid-Fatimids came from Baghdad and Syria, by land and by sea.
+They took possession of Alexandria, the Fayyum, and Upper Egypt. 
+
+Their propaganda progressed from there to the Hijiz and found a home in Mecca and
+Medina. 
+
+Then, their general, Jawhar alKitib,736 moved against the (capital) city of Egypt with his armies and took possession of it. He uprooted the dynasty of the Banu Tughsh (Ikhshidids) and founded Cairo. His caliph, Ma'add al-Mu'izz-li-din-
+Allih, came to (Cairo) and chose it as his residence. 
+
+This was about sixty years after the ('Ubaydid-Fitimids) had (for the first time) gained domination over Alexandria.
+The same was the case with the Saljuq Turk rulers. They gained the upperhand over the Siminids and went beyond Transoxania, but then they had to spend about 30 years waiting to gain the upper hand over the (dynasty of) Ibn Sebuktigin in Khurasin <!-- 737 --> After some time, they advanced against Baghdad and took possession of it and of the caliph there.
 
 The same was the case with the Tatars who succeeded the Saljugs. They
 came out of the steppe in 617 [1220/21], but it took them forty years thereafter to
@@ -141,32 +138,34 @@ gain domination.
 
 The same was also the case with the inhabitants of the Maghrib. The
 Lamtunah Almoravids declared themselves against their Maghrawah rulers. They
-waited for years to gain the upper hand over them. Then, the Almohads came forth
-with their propaganda against the Lamtunah. They spent about thirty years fighting
+waited for years to gain the upper hand over them. 
+
+Then, the Almohads came forth with their propaganda against the Lamtunah. They spent about thirty years fighting
 them, until they gained domination over their capital in Marrakech. The same was
-the case with the Zanatah Merinids. They declared themselves against the Almohads
-and spent about thirty years waiting to gain possession of Fez. They cut off (Fez)
-and environs from the Almohad realm. Then, they spent another thirty years fighting
-(the Almohads) until they gained domination over their capital in Marrakech. All
-this is mentioned in the histories of these dynasties.
+the case with the Zanatah Merinids. 
 
-A struggle of this sort, marked by (constant) attacks and long perseverance,
-is characteristic of the relationship between new and ruling dynasties. This is how
-God proceeds with his servants. "And verily, you will not be able to change God's
-way." 738
+They declared themselves against the Almohads and spent about thirty years waiting to gain possession of Fez. 
 
-The events of the Muslim conquests cannot be used as an argument against
-(the preceding remarks). (The Muslims) gained the upper hand over the Persians and
-the Byzantines in the three or four years that followed the death of the Prophet, and
-there was no long waiting period. It should be realized that this was one of the
-miracles of our Prophet. The secret of it lay in the willingness of the Muslims to die
-in the holy war against their enemies because of their feeling that they had the right
-religious insight,739 and in the corresponding 740 fear and defeatism that God put
-into the hearts of their enemies. All these (miraculous facts) broke through the
-known custom of a long wait (governing the relationship) between new and ruling
-dynasties. Thus, (the rapid conquest) was one of the miracles of our Prophet. The
-fact of the appearance of (such miracles) in Islam is generally acknowledged.
-Miracles cannot be used as analogies for ordinary affairs and constitute no argument
-against (them).
+They cut off (Fez) and environs from the Almohad realm. Then, they spent another thirty years fighting the Almohads until they gained domination over their capital in Marrakech. <!-- All this is mentioned in the histories of these dynasties. -->
+
+A struggle of this sort, marked by (constant) attacks and long perseverance, is characteristic of the relationship between new and ruling dynasties. <!-- This is how God proceeds with his servants. "And verily, you will not be able to change God's
+way." 738 -->
+
+The events of the Muslim conquests cannot be used as an argument against the preceding remarks.
+
+The Muslims gained the upper hand over the Persians and the Byzantines in the 3-4 years that followed the death of the Prophet, and there was no long waiting period. 
+
+This was one of the miracles of our Prophet. 
+
+The secret of it lay in:
+- the willingness of the Muslims to die in the holy war against their enemies because of their feeling that they had the right religious insight,<!-- 739 --> and
+- the corresponding <!-- 740 --> fear and defeatism that God put into the hearts of their enemies. 
+
+All these (miraculous facts) broke through the known custom of a long wait (governing the relationship) between new and ruling
+dynasties. Thus, (the rapid conquest) was one of the miracles of our Prophet. 
+
+The fact of the appearance of (such miracles) in Islam is generally acknowledged.
+
+Miracles cannot be used as analogies for ordinary affairs and constitute no argument against (them).
 
 

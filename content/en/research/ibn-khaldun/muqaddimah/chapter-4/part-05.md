@@ -1,15 +1,12 @@
-+++
-title= "City-planning and the consequences of neglecting such planning"
-description= "Towns are dwelling places that nations use when they have reached the desired goal of luxury and of the things that go with it. Then, they prefer tranquility and quiet and turn to using houses to dwell in."
-image= "/covers/muq.jpg"
-date= 2022-01-30
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-4/part-01"
-linkbtext= "Part 1"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-4/part-06"
-linkftext= "Part 6"
-heading= "Part 5"
-icon= "/icons/ibn.jpg"
-+++
+---
+title: "City-planning and the consequences of neglecting such planning"
+description: "Towns are dwelling places that nations use when they have reached the desired goal of luxury and of the things that go with it. Then, they prefer tranquility and quiet and turn to using houses to dwell in"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 5"
+date: 2020-01-26
+---
+
 
 
 <!-- ## 5. Requirements, for the planning of towns and the  -->

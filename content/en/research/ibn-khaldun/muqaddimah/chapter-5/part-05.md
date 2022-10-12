@@ -1,18 +1,11 @@
-+++
-title= "Ranks are useful in securing property"
-description= "The person of rank who is highly esteemed is in every material aspect more fortunate and wealthier than a person who has no rank. The reason for this is that the person of rank is served by the labor of others."
-image= "/covers/muq.jpg"
-date= 2022-01-29
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-5/part-04"
-linkbtext= "Part 4"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-5/part-08"
-linkftext= "Part 8"
-heading= "Part 5 of the muqaddimah simplified"
-icon = "/icons/ibn.jpg"
-aliases = [
-  "/research/ibn-khaldun/muqaddimah/chapter-5/part-5"
-]
-+++
+---
+title: "Ranks are useful in securing property"
+description: "The person of rank who is highly esteemed is in every material aspect more fortunate and wealthier than a person who has no rank. The reason for this is that the person of rank is served by the labor of others"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 5"
+date: 2022-01-22
+---
 
 
 The person of rank who is highly esteemed is materially more fortunate and wealthier than a person who has no rank.
@@ -33,9 +26,16 @@ As a result, they quickly become wealthy and turn out to be very well off althou
 
 People do farm work and business for these men, who sit at home and do not leave their places. But still their property grows and their profits increase. Without effort, they accumulate wealth, to the surprise of those who do not understand what the secret of their affluence is, what the reasons for their wealth and fortune are.
 
-"God gives sustenance to whomever He wishes to give it, without accounting." 376. Happiness and profit are achieved mostly by people who are obsequious and use flattery. Such character disposition is one of the reasons for happiness. 
+<!-- "God gives sustenance to whomever He wishes to give it, without accounting." 37 -->
 
-We have stated before in a previous passage 38 that the profit human beings make is the value realized from their labor. If someone could be assumed to have no (ability whatever to do any) labor, he would have no profit whatever. 
+
+## 6. Happiness and profit are achieved mostly by people who are obsequious and use flattery. 
+
+Such character disposition is one of the reasons for happiness. 
+
+<!-- We have stated before in a previous passage 38 that --> 
+
+The profit human beings make is the value realized from their labor. If someone could be assumed to have no (ability whatever to do any) labor, he would have no profit whatever. 
 
 The value realized from one's labor corresponds to the value of one's labor and the value of this labor as compared to (the value of) other labor and the need of the people for it. The growth or decrease of one's profit, in turn, depends on that. We have also just now explained 39 that ranks are useful in securing property. A person of rank has the people approach him with their labor and property. 
 
@@ -110,7 +110,8 @@ Their rank, consequently, becomes important. Their stations become high. The out
 
 They gain nothing from that. It merely alienates them from the ruler andmakes him hate them and give preference to his (newly gained) supporters, until the dynasty is destroyed. This is natural in a dynasty, and this is usually at the origin of the importance of its followers.
 
-God does whatever He wishes.7. Persons who are in charge of ices dealing with religious matters, such as judge, mufti, teacher, prayer leader, preacher, muezzin, and the like, are not as a rule very wealthy.
+
+7. Persons who are in charge of ices dealing with religious matters, such as judge, mufti, teacher, prayer leader, preacher, muezzin, and the like, are not as a rule very wealthy.
 
 The reason for this is that, as we have stated before, 48 profit is the value realized from labor (products). (This value) differs according to the (varying degrees of) need for (a particular kind of labor). Certain (types of) labor (products) may be necessary in civilization and be a matter of general concern. 
 

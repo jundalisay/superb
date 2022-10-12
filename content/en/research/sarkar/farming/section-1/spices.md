@@ -3,7 +3,7 @@ title: "Spices And Common Cooking Additives"
 # heading: "Chapter 1 of Yoga Sutras Simplified"
 date: 2022-01-31
 author: "PR Sarkar"
-description: "Most pulses are high in protein but have varying degrees of fat. They are easier to digest than casein, but less substantial"
+description: "All the parts of the garlic are static. The Saḿskrta name for garlic is rasona. It has 5 out of the 6 tastes (rasas)"
 image: "/covers/farming.jpg"
 icon: "/flags/in.png"
 aliases:
@@ -26,6 +26,9 @@ Some common spices include:
 - anise (saonp, mauri)
 - cloves (lavanga)
 - Garlic (Rasun)
+
+
+## Garlic 
 
 All the parts of the garlic are static. The Saḿskrta name for garlic is “rasona”. It has five out of the six tastes (rasas). 
 
@@ -54,7 +57,10 @@ Garlic is propagated by planting bulbs (kovas). Each bulb should be planted so t
 
 Garlic can be cultivated on the border line of wheat and early boro paddy fields. When growing garlic with rice, sow the garlic in two rows so that it forms equilateral triangles. One line of safflower seeds (kusum biija) should be sown between the rows of garlic so that each seed is in the middle of one triangle.
 
-Research should be done on garlic to pinpoint its medicinal properties, and to ascertain whether there is any possibility of producing garlic oil from the leaves.
+Research should be done on garlic to:
+- pinpoint its medicinal properties
+- ascertain whether there is any possibility of producing garlic oil from the leaves.
+
 
 
 ## Onion (Piaz)
@@ -82,7 +88,9 @@ These small onions (chota piaú or kali piaz) are very pungent. The soil requir
 
 Small onion is a winter crop.
 
-The top can be used as a green leafy vegetable. After harvesting early boro, the large onion bulb (boro piaú kanda) can be dug up. The stalk of the boro onion (boro piaz) should be twisted down fifteen days before the bulb is dug up, and the bulb should be dug up only after the stalk has dried. Big onion (bara piaz) is tasteless, but it may be considered pungent if it brings tears to the eyes. 
+The top can be used as a green leafy vegetable. After harvesting early boro, the large onion bulb (boro piaú kanda) can be dug up. The stalk of the boro onion (boro piaz) should be twisted down fifteen days before the bulb is dug up, and the bulb should be dug up only after the stalk has dried. 
+
+Big onion (bara piaz) is tasteless, but it may be considered pungent if it brings tears to the eyes. 
 
 Some of the small onions which are sown on the border of the paddy fields should be left for flowering. Seeds will grow from these plants, but once the seeds have formed, the bulb will disappear. These seeds can again be sown in the month of Paoś for small onion (chota piaz).
 
@@ -92,7 +100,7 @@ This process will ensure that the onion attains its maximum size.
 
 Onions are 67% water and need a sufficient supply of water to grow properly. 
 
-The seeds from big onions are used for producing small sweet onions (chachi piaz), and the onion tubers (kalik) from the small sweet onions are used for producing big onions. Small sweet onion takes four to five months to grow and should be developed in a nursery for the first one or two months before being transplanted.
+The seeds from big onions are used for producing small sweet onions (chachi piaz), and the onion tubers (kalik) from the small sweet onions are used for producing big onions. Small sweet onion takes four to five months to grow and should be developed in a nursery for the first 1-2 months before being transplanted.
 
 
 ## Ginger (Ada)

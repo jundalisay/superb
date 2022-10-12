@@ -1,21 +1,18 @@
-+++
-title= "The dynasty's authority"
-description= "To be caliph in reality means acting as substitute for Muhammad with regard to the preservation of the religion and the political leadership of the world"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-3/part-27"
-linkbtext= "Part 27"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-3/part-28b"
-linkftext= "Part 28b"
-heading= "Part 46"
-+++
+---
+title: "The Dynasty's authority"
+description: "To be caliph in reality means acting as substitute for Muhammad with regard to the preservation of the religion and the political leadership of the world"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 46"
+date: 2020-01-12
+---
 
 
 
 At first, it expands to its limit. Then it is narrowed down in successive stages, until the dynasty dissolves 713
 
 Chapter 3 <!-- Above, in the third (chapter) of this Muqqadimah, 714 in the chapter on the
-caliphate and royal authority, we --> stated that each dynasty has its specific share of
-provinces and districts and no more. 715 Its expansion depends 716 on the distribution of the dynasty's group (strength) for the (military) protection of its territory and regions. 
+caliphate and royal authority, we --> stated that each dynasty has its specific share of provinces and districts and no more. 715 Its expansion depends 716 on the distribution of the dynasty's group (strength) for the (military) protection of its territory and regions. 
 
 Wherever its numbers go, their advance (eventually) comes to a stop at (what is called) the "border region." This surrounds the dynasty on all sides like a belt. Its farthest extension may coincide with the original "belt" of authority of the (preceding) dynasty. (Or) it may be still wider, if the numerical (strength) of the (new) group is greater than that of the preceding dynasty. 
 

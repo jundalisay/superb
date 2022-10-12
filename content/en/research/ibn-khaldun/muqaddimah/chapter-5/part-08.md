@@ -1,15 +1,12 @@
-+++
-title= "Agriculture is a way of making a living for weak people and Bedouins in search of subsistence"
-description= "Agriculture is a way of making a living for weak people and Bedouins in search of subsistence"
-image= "/covers/muq.jpg"
-date= 2022-01-28
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-5/part-05"
-linkbtext= "Part 5"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-5/part-08"
-linkftext= "Part 8"
-heading= "Part 8"
-icon = "/icons/ibn.jpg"
-+++
+---
+title: "Agriculture is a way of making a living for weak people and Bedouins in search of subsistence"
+description: "The person of rank who is highly esteemed is in every material aspect more fortunate and wealthier than a person who has no rank. The reason for this is that the person of rank is served by the labor of others"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 5"
+date: 2022-01-20
+---
+
 
 
 This is because agriculture is a natural and simple procedure. As a rule, sedentary people, or people who live in luxury, do not practice it. Those who practice it are characterized by humility. 

@@ -113,19 +113,26 @@ If the late variety is planted in the beginning of the season and fails for some
 
 Liquid manure should be applied along with the second irrigation after proper weeding.
 
+
 Paddy is the staple food in northeastern India. 
 
-In the boro variety of paddy, weeding should be done one month after transplantation, and then liquid manure should be applied. Care should be taken that the liquid manure is not poisonous, otherwise it will harm the pisciculture. Even rocky land can be made fit for cultivation after filling it up with good soil.
+In the boro variety of paddy, weeding should be done 1 month after transplantation, and then liquid manure should be applied. The liquid manure is not poisonous, otherwise it will harm the pisciculture. 
+
+**Even rocky land can be made fit for cultivation after filling it up with good soil.**
 
 We should try our best to grow napier grass for cattle fodder on hillocks wherever possible. 
 
 It is more difficult to grow napier grass on hills than on flat land because it takes a lot of water. Nevertheless we should try, in order to save the best crop land for other crops. 
 
-Where there are railway lines which belong to the railway department going through agricultural land, cow pea, late áus paddy or black gram should be cultivated on both sides of the railway lines.
+**Where there are railway lines which belong to the railway department going through agricultural land, cow pea, late áus paddy or black gram should be cultivated on both sides of the railway lines.**
 
 Whenever plants from frigid and temperate zones are transplanted into a warm or hot climate, they should be planted on high land, near stones and rocks if possible, so that at night they will be kept cool.
 
-The fencing of all farm compounds except beauty spots may be utilized as a platform for spinach in spring and summer, and for beans in summer, the rainy season, autumn and winter. In the case of beauty spots, the fencing may be utilized as a platform for flower creepers.
+The fencing of all farm compounds except beauty spots may be utilized as a platform for:
+- spinach in spring and summer
+- beans in summer, the rainy season, autumn and winter. 
+
+In the case of beauty spots, the fencing may be utilized as a platform for flower creepers.
 
 Farming projects should grow crops for special emergency survival. These include:
 - vegetables
@@ -170,15 +177,12 @@ To extract floral nectar one has to employ the same method as doctors use to ext
 The stems of okra can be used for a special purpose. 
 
 If you have a pineapple field which is not producing fruits nor flowers. If the okra stems are burnt and scattered throughout the field, the fumes and smoke will help the pineapple develop fruit and flowers. 
-
-But one should be careful that the pineapple plant is not burnt. 
-
-This process will produce both fruit and flowers very quickly.
+- But one should be careful that the pineapple plant is not burnt. 
+- This process will produce both fruit and flowers very quickly.
 
 The field of floriculture has been neglected very much. It should be developed. 
 
 We can easily make rose scent and rose water from the rose garden at Ánanda Nagar.
-
 
 
 

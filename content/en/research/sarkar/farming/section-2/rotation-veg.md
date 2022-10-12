@@ -133,6 +133,7 @@ Similar is the case with wax gourd or squat gourd. No other winter crop like whe
 
 There may be one pumpkin (chal kumŕá variety) between two brinjals in Phálguna or Shrávańa. A sweet made from the chal kumra variety of pumpkin is found mostly in Agra, and is called “petha,” or “murabha” in Bengali.
 
+
 ## All-Season Vegetables
 
 1/4 of the agricultural land is to be allotted for the following seeds:
@@ -197,20 +198,3 @@ Vegetable creepers of the summer variety may or may not need a platform. However
 3) Áshvina, Kárttika, Agraháyańa – grow corn with soybean.
 4) Paośa, Mágha, Phálguna, Caetra – grow barley, oats, rye or seasonal cotton for which November is the last sowing period. If the land becomes free during the second half of November, winter cotton may also be cultivated. It grows in three and a half months and has to be watered twice. If cotton is cultivated, sweet potato or sweet juice potato may be grown along with it.
 
-## Wheat
-
-The crop rotation of wheat should be as follows:
-
-A. Early wheat should be planted in Kárttika and grown from Kárttika to Mágha.
-
-1. Kárttika, Agraháyańa, Paośa, Mágha – plant wheat with either big lentils, big peas, yellow mustard or red mustard in a ratio of 9:1 wheat to other crops.
-2. Phálguna, Caetra, Vaeshákha – grow peanut with sesame or soybean.
-3. Jyaeśt́ha, Aśáŕha, Shrávańa – grow áus paddy with rainy season radish.
-4. Bhádra, Áshvina – grow maize with green gram for two months.
-
-B. Late wheat should be planted in Agraháyańa and grown from Agraháyańa to Phálguna.
-
-1. Agraháyańa, Paośa, Mágha, Phálguna – plant wheat with big lentils, big peas or red mustard. Yellow mustard will not grow well in this season because insects will attack it.
-2. Caetra, Vaeshákha, Jyaeśt́ha – grow ginger or peanut with sesame or soybean.
-3. Áśáŕha, Shrávańa, Bhádra – grow late áus paddy with with rainy season radish.
-4. Áshvina and Kárttika – grow maize and green gram.
