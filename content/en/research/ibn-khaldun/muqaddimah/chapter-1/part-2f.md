@@ -1,19 +1,18 @@
-+++
-title= "Zone 3"
-description= "Opposite its western limit in the Surrounding Sea are two of Canary Islands. At the southernmost part of the first and second sections of the second zone, there is the land of Qamnuriyah"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2e"
-linkbtext= "part-2e"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2g"
-linkftext= "Part-2g"
-heading= "Part 2f"
-icon = "/icons/ibn.jpg"
-date = 2020-01-25
-+++
+---
+title: "Zone 3"
+description: "Opposite its western limit in the Surrounding Sea are two of Canary Islands. At the southernmost part of the first and second sections of the second zone, there is the land of Qamnuriyah"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2d"
+date: 2020-01-25
+---
+
+
 
 ## Zone 3
 
 This is contiguous with the northern boundary of Zone 2. 
+
 
 ### Section 1
 
@@ -75,7 +74,10 @@ A long portion of its western extension lies in this section, with Suez at its w
 
 A portion of the Mediterranean covers much of the northwestern part of the fifth section. On its (coast) lie alFarama 122 and al-'Arish. The end of this portion of the Mediterranean comes close to al-Qulzum. 
 
-The area in between there is narrow. It becomes a kind of gate leading into Syria. West of this gate is the desert plain (at-Tih), a bare country in which nothing grows, where the Israelites wandered for forty years after they had left Egypt and before they entered Syria, as the Qur'an tells.123 In this portion of the Mediterranean, in the fifth section, lies part of the island of Cyprus. The remainder (of Cyprus) lies in the fourth zone, as we shall mention. Along the coastline of that narrow strip of land between the Mediterranean and the Red Sea, are al'Arish, the boundary of Egypt, and Ascalon. Between them, there is a (narrow) strip of land (separating the Mediterranean and) the Red Sea. Then, this portion of the Mediterranean turns to the north into the fourth zone at Tripoli and 'Argah.124 That is the eastern end of the Mediterranean.
+The area in between there is narrow. It becomes a kind of gate leading into Syria. West of this gate is the desert plain (at-Tih), a bare country in which nothing grows, where the Israelites wandered for forty years after they had left Egypt and before they entered Syria, as the Qur'an tells.123 
+
+In this portion of the Mediterranean, in the fifth section, lies part of the island of Cyprus. The remainder (of Cyprus) lies in the fourth zone, as we shall mention. Along the coastline of that narrow strip of land between the Mediterranean and the Red Sea, are al'Arish, the boundary of Egypt, and Ascalon. Between them, there is a (narrow) strip of land (separating the Mediterranean and) the Red Sea. Then, this portion of the Mediterranean turns to the north into the fourth zone at Tripoli and 'Argah.124 That is the eastern end of the Mediterranean.
+
 This portion of the Mediterranean comprises most of the Syrian coast. 
 
 East and slightly to the north of Ascalon, is Caesarea. Then, in the same general direction, are Acco, Tyre, Sidon, and 'Arqah. The sea then turns north into the fourth zone.
@@ -108,6 +110,7 @@ North of the land of Kirman is the remainder of the country of Fars up to the bo
 
 Cities in Sijistin are Bust and at-Tiq. Kuhistan belongs to the country of Khurisin. One of Khurisan's best known places is Sarakhs, 131 on the boundary of the section.
 
+
 ### Section 8
 
 This contains, in the southwest, the plains of the Khalaj, 132 a Turkish nation. They adjoin the land of Sijistan in the west and the land of Kabul of Eastern Indiain the south. North of these desert plains are the mountains and country of al-Ghar starting with Ghaznah, the key to India. Where al-Ghur ends in the north, lies Astarabadh. 
@@ -119,7 +122,9 @@ The Oxus comes from the country of Wakhan in the area of Badakhshan which border
 
 In the middle of the eighth section where it turns from the south to the north, five large rivers belonging to the country of Khuttal and Wakhsh 133 flow into it on the east. Other rivers, coming from the Buttam Mountains to the east and north of Khuttal, also flow into it. The Oxus, thus, becomes wider and larger, so much so that no other river equals it in these respects. 
 
-One of the five rivers flowing into the Oxus is the Wakhshab 134 which comes from the country of Tibet that extends over the southeastern portion of this section. It flows toward the northwest. Its course is blocked by a great mountain which runs from the middle of this section in the south toward the northeast, and leaves this section close to its northern (boundary) to pass into the ninth section. It crosses the country of Tibet toward the southeast portion of this section. It separates the Turks from the country of Khuttal. It has only one road in the middle of this section to the east. AlFadl b. Yahya constructed a dam there with a gate in it, 135 like the Dam of Gog and Magog. 
+One of the five rivers flowing into the Oxus is the Wakhshab 134 which comes from the country of Tibet that extends over the southeastern portion of this section. It flows toward the northwest. 
+
+Its course is blocked by a great mountain which runs from the middle of this section in the south toward the northeast, and leaves this section close to its northern (boundary) to pass into the ninth section. It crosses the country of Tibet toward the southeast portion of this section. It separates the Turks from the country of Khuttal. It has only one road in the middle of this section to the east. AlFadl b. Yahya constructed a dam there with a gate in it, 135 like the Dam of Gog and Magog. 
 
 When the Wakhshab leaves the country of Tibet and comes up against that mountain, it flows under it for a long
 distance, until it enters the country of Wakhsh and flows into the Oxus at the border of

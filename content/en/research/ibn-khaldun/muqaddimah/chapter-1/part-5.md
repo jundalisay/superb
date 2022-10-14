@@ -1,15 +1,13 @@
-+++
-title= "Differences in food supply in the inhabited regions"
-description= "In some parts, the inhabitants enjoy an abundance of grain, seasonings, wheat, and fruits, because the soil is well balanced and good for plants and there is an abundant civilization"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-4"
-linkbtext= "part-4"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-6a"
-linkftext= "part-6a"
-heading= "Part 5"
-icon = "/icons/ibn.jpg"
-date = 2020-01-18
-+++
+---
+title: "Differences in food supply in the inhabited regions"
+description: "In some parts, the inhabitants enjoy an abundance of grain, seasonings, wheat, and fruits, because the soil is well balanced and good for plants and there is an abundant civilization"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 5"
+date: 2020-01-18
+---
+
+
 
 <!-- FIFTH PREFATORY DISCUSSION -->
 
@@ -61,52 +59,48 @@ The influence of abundance upon the body is apparent even in matters of religion
 
 There are few religious people in towns and cities, in as much as people there are for the most part obdurate and careless, which is connected with the use of much meat, seasonings, and fine wheat. The existence of pious men and
 ascetics is, therefore, restricted to the desert, whose inhabitants eat frugally.
-Likewise, the condition of the inhabitants within a single city can be observed to
-differ according to the different distribution of luxury and abundance.
+
+Likewise, the condition of the inhabitants within a single city can be observed to differ according to the different distribution of luxury and abundance.
 
 Those people who, whether they inhabit the desert or settled areas and cities, live a life of abundance and have all the good things to eat, die more quickly than others when a drought or famine comes upon them. 
 
-This is the case, for instance, with the Berbers of the Maghrib and the inhabitants of the city of
-Fez and, as we hear, of Egypt (Cairo). It is not so with the Arabs who inhabit waste regions and deserts, or with the inhabitants of regions where the date palm grows and whose principal food is dates, or with the present-day inhabitants of Ifriqiyah whose principal food is barley and olive oil, or with the inhabitants of Spain whose principal food is durra and olive oil. When a drought or a famine strikes them, it does not kill as many of them as of the other group of people, and few, if any, die of hunger. 
+This is the case, for instance, with the Berbers of the Maghrib and the inhabitants of the city of Fez and, as we hear, of Egypt (Cairo). It is not so with the Arabs who inhabit waste regions and deserts, or with the inhabitants of regions where the date palm grows and whose principal food is dates, or with the present-day inhabitants of Ifriqiyah whose principal food is barley and olive oil, or with the inhabitants of Spain whose principal food is durra and olive oil. When a drought or a famine strikes them, it does not kill as many of them as of the other group of people, and few, if any, die of hunger. 
 
 As a reason for that, it may tentatively be suggested that the stomachs of those who have everything in abundance and are used to seasonings and, in particular, to butter, acquire moisture in addition to their basic constitutional
 moisture, and (the moisture they are used to) eventually becomes excessive. 
 
 Then, when (eating) habits are thwarted by small quantities of food, by lack of seasonings, and by the use of coarse food to which it is unaccustomed, the stomach, which is a very weak part of the body and for that reason considered one of the vital parts, soon dries out and contracts. 
 
-Sickness and sudden death are prompt consequences tothe man whose stomach is in this condition. Those who die satiation, not of the hunger that now afflicts them for the first time. In those who are accustomed to thirst and to doing without seasonings and butter, the basic moisture, which is good
-for all natural foods, always stays within its proper limits and does not increase.
-Thus, their stomachs are not affected by dryness or intemperance in consequence of
-a change of nourishment. As a rule, they escape the fate that awaits others on
-account of the abundance of their food and the great amount of seasonings in it.
-The basic thing to know is that foodstuffs, and whether to use or not to use
-them, are matters of custom. Whoever accustoms himself to a particular type of food
-that agrees with him becomes used to it. He finds it painful to give it up or to make
-any changes (in his diet), provided (the type of food) is not something that does not
-fulfill the (real) purpose of food, such as poison, or alkaloids, 2 36 or anything
-excessively intemperate. Whatever can be used as food and is agreeable may be
-used as customary food. If a man accustoms himself to the use of milk and
-vegetables instead of wheat, until (the use of them) gets to be his custom, milk and
-vegetables become for him (his habitual) food, and he definitely has no longer any
-need for wheat or grains.
+Sickness and sudden death are prompt consequences tothe man whose stomach is in this condition. Those who die satiation, not of the hunger that now afflicts them for the first time. In those who are accustomed to thirst and to doing without seasonings and butter, the basic moisture, which is good for all natural foods, always stays within its proper limits and does not increase.
 
-The same applies to those who have accustomed themselves to suffer hunger
-and do without food. Such things are reported about trained (ascetics). We hear
-remarkable things about men of this type. Those who have no knowledge of things
-of the sort can scarcely believe them. The explanation lies in custom. Once the soul
-gets used to something, it becomes part of its make-up and nature, because (the soul)
+Thus, their stomachs are not affected by dryness or intemperance in consequence of a change of nourishment. As a rule, they escape the fate that awaits others on account of the abundance of their food and the great amount of seasonings in it.
+
+The basic thing to know is that foodstuffs, and whether to use or not to use them, are matters of custom. Whoever accustoms himself to a particular type of food that agrees with him becomes used to it. 
+
+He finds it painful to give it up or to make any changes (in his diet), provided (the type of food) is not something that does not
+fulfill the (real) purpose of food, such as poison, or alkaloids, 2 36 or anything
+excessively intemperate. 
+
+Whatever can be used as food and is agreeable may be used as customary food. If a man accustoms himself to the use of milk and
+vegetables instead of wheat, until (the use of them) gets to be his custom, milk and vegetables become for him (his habitual) food, and he definitely has no longer any need for wheat or grains.
+
+The same applies to those who have accustomed themselves to suffer hunger and do without food. Such things are reported about trained (ascetics). We hear remarkable things about men of this type. Those who have no knowledge of things
+of the sort can scarcely believe them. 
+
+The explanation lies in custom. Once the soul gets used to something, it becomes part of its make-up and nature, because (the soul)
 is able to take on many colorings. If through gradual training it has become used to
 hunger, (hunger) becomes a natural custom of the soul.
-The assumption of physicians that hunger causes death is not correct, except
-when a person is exposed suddenly to hunger and is entirely cut off from food.
-Then, the stomach is isolated, and contracts an illness that may be fatal. When,
-however, the amount of food one eats is slowly decreased by gradual training, there
-is no danger of death. The adepts of Sufism practice (such gradual abstinence from
+
+The assumption of physicians that hunger causes death is not correct, except when a person is exposed suddenly to hunger and is entirely cut off from food. 
+
+Then, the stomach is isolated, and contracts an illness that may be fatal. When, however, the amount of food one eats is slowly decreased by gradual training, there is no danger of death. The adepts of Sufism practice (such gradual abstinence from
 food). Gradualness is also necessary when one gives up the training. Were a person
-suddenly to return to his original diet, he might die. Therefore, he must end the
-training as he started it, that is, gradually.
-We personally saw a person who had taken no food for forty or more
-consecutive days. Our shaykhs were present at the court of Sultan Abul-Hasan 237
+suddenly to return to his original diet, he might die. 
+
+Therefore, he must end the training as he started it, that is, gradually.
+
+We personally saw a person who had taken no food for forty or more consecutive days. Our shaykhs were present at the court of Sultan Abul-Hasan 237
+
 when two women from Algeciras and Ronda were presented to him, who had for
 years abstained from all food. Their story became known. They were examined, and
 the matter was found to be correct. The women continued this way until they died.

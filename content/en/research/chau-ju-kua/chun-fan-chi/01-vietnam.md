@@ -174,6 +174,7 @@ AXKAM.
 4 7
 2. -->
 
+
 ## South Vietnam (Chan-chong)
 
 Activity | Method 
@@ -226,8 +227,7 @@ Every year on New Year's day they lead a chained elephant through the city, afte
 
 In the fourth moon, they play at boat-sailing, when they have a procession of fishing boats and look at them.
 
-The full-moon day of the 11th moon is kept as the winter solstice. At that time, cities and towns all bring the king the products of the soil and
-of their industry.
+The full-moon day of the 11th moon is kept as the winter solstice. At that time, cities and towns all bring the king the products of the soil and of their industry.
 
 The people usually plough their fields with 2 buffaloes.
 

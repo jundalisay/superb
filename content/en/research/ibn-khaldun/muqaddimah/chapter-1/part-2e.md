@@ -1,15 +1,12 @@
-+++
-title= "Zone 2 Ghana, Kashmir, China"
-description= "Opposite its western limit in the Surrounding Sea are two of Canary Islands. At the southernmost part of the first and second sections of the second zone, there is the land of Qamnuriyah"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2d"
-linkbtext= "Part-2d"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2f"
-linkftext= "Part-2f"
-heading= "Part 2e"
-icon = "/icons/ibn.jpg"
-date = 2020-01-26
-+++
+---
+title: "Zone 2: Ghana, Kashmir, China"
+description: "Opposite its western limit in the Surrounding Sea are two of Canary Islands. At the southernmost part of the first and second sections of the second zone, there is the land of Qamnuriyah"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2d"
+date: 2020-01-26
+---
+
 
 ## Zone 2
 
@@ -38,9 +35,11 @@ The left branch ends up at Dalas. The region between them is the southernmost pa
 In the middle of the Hijaz is Mecca-God honor it!-and on its seashorethere is the city of Jiddah, which is opposite 'Aydhab on the western shore of the Red Sea.
 
 
-### Section 6
+## Section 6
 
-In the sixth section to the west is the Najd, having as its southernmost limit Jurash and Tabalah,101 (and extending) up to 'Ukaz in the north. North of the Najd, in the sixth section, is the remainder of the Hijaz. Directly to the east of (the Najd) lies the country of Najran and Janad. North of that is the Yamamah. Directly to the east of Najran, there is the land of Saba' and Ma'rib, followed by the land of ash-Shihr, which ends at the Persian Gulf. 
+In the sixth section to the west is the Najd, having as its southernmost limit Jurash and Tabalah,101 (and extending) up to 'Ukaz in the north. North of the Najd, in the sixth section, is the remainder of the Hijaz. Directly to the east of (the Najd) lies the country of Najran and Janad. North of that is the Yamamah. 
+
+Directly to the east of Najran, there is the land of Saba' and Ma'rib, followed by the land of ash-Shihr, which ends at the Persian Gulf. 
 
 This is the other sea that branches off northward from the Indian Ocean, as has been mentioned, and turns westward on its course in the sixth section. The northeastern area of (the sixth section) constitutes a triangle. At its southernmost part is the city of Qalhat, the coast (seaport) of ash-Shihr. North of it, on the coast, is the country of Oman, followed by
 the country of alBahrayn with Hajar, at the end of the (sixth) section.
@@ -53,7 +52,8 @@ Eastern India begins on the shore of the Indian Ocean. Directly to the east ther
 
 The western part of the eighth section contains the remainder of the country of Ballahra that belongs to Eastern India. Directly to the east of it lies the country of Gandhara. 105 Then, at the southernmost part (of the section), on the shore of the Indian Ocean, there is the country of Malabar (Munibar). North of it, in the northernmost part (of the section), there is the country of Kabul. Beyond (Kabul) to the east 105a is the territory of the Kanauj, between inner and outer Kashmir at the end of the zone. 
 
-### Section 9
+
+## Section 9
 
 This, in its western part, contains farthest Eastern India, which extends to the eastern part (of the section) and stretches along its southernmost part up to Section 10 which is China. 
 

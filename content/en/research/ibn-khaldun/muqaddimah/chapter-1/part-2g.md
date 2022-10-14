@@ -1,15 +1,13 @@
-+++
-title= "Zone 4"
-description= "Its first section, in the west, contains a portion of the Surrounding Sea which, oblong in shape, extends from the southern to the northern boundary of the section. The city of Tangier is situated on it in the south"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2f"
-linkbtext= "part-2f"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2h"
-linkftext= "part-2h"
-heading= "Part 2g"
-icon = "/icons/ibn.jpg"
-date = 2020-01-24
-+++
+---
+title: "Zone 4"
+description: "Its first section, in the west, contains a portion of the Surrounding Sea which, oblong in shape, extends from the southern to the northern boundary of the section. The city of Tangier is situated on it in the south"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2d"
+date: 2020-01-24
+---
+
+
 
 This is contiguous with the northern part of Zone 3. 
 
@@ -60,12 +58,16 @@ After it turns, it traverses a portion of the Jazirah in an easterly direction. 
 
 The southern region, as we have mentioned before, comprises the northernmost region of Syria, and the Amanus extends across it from south to north in the area between the Mediterranean and the boundary of the section. On the seacoast is Antarsus,153 at the beginning of the section to the south. It borders on 'Arqah and Tripoli which lie on the shore of the Mediterranean in the third zone. North of Antarsus is Jabalah, followed by Lattakiyah, Alexandretta, and Selefke. North of these cities is the Byzantine territory. 
 
-The Amanus, which lies between the sea and the end of the section, is hugged, in Syria in the southwestern part of the section, by the fortress of llisn al-Khawabi, which belongs to the Isma'ili Assassins who at this time are called Fidawis. The fortress (also) is called Masyat. 154 It lies opposite Antarsus to the east. On the side opposite this fortress, east of the Amanus, is Salamlyah, north of Emesa. North of Masyat, between the mountain and the sea, lies Antioch. Opposite it, east of the Amanus, is al-Ma'arrah, and east of al-Ma'arrah, al-Marighah. North of Antioch, there is al-Massisah, followed by Adhanah and Tarsus, at the furthest point of Syria. Facing (Antioch), west of the mountain, is Qinnasrin, followed by 'Ayn Zarbah. Opposite Qinnasrin, east of the mountain, is Aleppo, and opposite 'Ayn Zarbah is Manbij, the furthest point of Syria.
+The Amanus, which lies between the sea and the end of the section, is hugged, in Syria in the southwestern part of the section, by the fortress of llisn al-Khawabi, which belongs to the Isma'ili Assassins who at this time are called Fidawis. The fortress (also) is called Masyat. 154 It lies opposite Antarsus to the east. On the side opposite this fortress, east of the Amanus, is Salamlyah, north of Emesa. North of Masyat, between the mountain and the sea, lies Antioch. Opposite it, east of the Amanus, is al-Ma'arrah, and east of al-Ma'arrah, al-Marighah. 
+
+North of Antioch, there is al-Massisah, followed by Adhanah and Tarsus, at the furthest point of Syria. Facing (Antioch), west of the mountain, is Qinnasrin, followed by 'Ayn Zarbah. Opposite Qinnasrin, east of the mountain, is Aleppo, and opposite 'Ayn Zarbah is Manbij, the furthest point of Syria.
 
 The area to the right of the Durub, between them and the Mediterranean, comprises the Byzantine territory (Anatolia). At this time, it belongs to the Turkomans and is ruled by Ibn Uthman (the Ottomans). 155 On the shore of the Mediterranean there, are Antalya and al--'Alaya.
 
 Armenia, which lies between the Durub and the Chain Mountain, comprises Mar'ash, Malatya, and Ankara, 155a up to the northern end of the section. In Armenia, in the fifth section, originate the river Jayhan and, to the east of it, the river Sayhan. The
-Jayhan flows south until it has traversed the Durub. It then passes by Tarsus and al-Massisah, then turns northwestward and eventually flows into the Mediterranean south of Selefke. The Sayhan runs parallel to the Jayhan. It is opposite Ankara and Mar'ash, traverses the Durub Mountains, reaches Syria, then passes by 'Ayn Zarbah, then turns away from the Jayhan, and turns northwestward. It joins the Jayhan west of al-Massisah. 
+Jayhan flows south until it has traversed the Durub.
+
+It then passes by Tarsus and al-Massisah, then turns northwestward and eventually flows into the Mediterranean south of Selefke. The Sayhan runs parallel to the Jayhan. It is opposite Ankara and Mar'ash, traverses the Durub Mountains, reaches Syria, then passes by 'Ayn Zarbah, then turns away from the Jayhan, and turns northwestward. It joins the Jayhan west of al-Massisah. 
 
 The Jazirah, which is surrounded by the portion of the Amanus that turns into the Chain Mountain, contains in the south ar-Rafiqah and ar-Raqqah, followed by Harran, Saruj, Edessa, Nisibis, Samosata, and Amid, north of the Chain Mountain, at the northeastern end of the section. 
 
@@ -123,15 +125,16 @@ remainder of the land of Farghanah.
 
 From this portion of the ninth section, comes the river of Tashkent (Syr Darya). It cuts through the eighth section, and eventually flows into the Oxus where the latter leaves the eighth section in the north for the fifth zone. In the land of Ilaq, a river coming from the ninth section of the third zone, from the borders of Tibet, flows into the river of
 Tashkent, and before the latter leaves the ninth section, the river of Farghanah flows into it.
+
+
 Parallel to the river of Tashkent lies Mount Jabraghun, which starts from the fifth zone, turns southeast, and eventually enters the ninth section and runs along the borders of the land of Tashkent. Then, it turns in the ninth section, continues along the boundaries of Tashkent and Farghanah, goes on to the southern part of the section, and then enters the
 third zone. Between the river of Tashkent and the bend of this mountain in the middle of
 the section, there is the country of Farab. Between it and the land of Bukhari and
 Khuwarizm are barren stretches of desert. In the northeast corner of this section is the land
 of Khujandah, 163a which includes Isbijab 164 and Taraz. 1 65
-The ninth section of the fourth zone, to the west beyond Farghanah and Tashkent,
-contains the land of the Kharlukh in the south, and the land of the Khallukh 166 in the
-north. The whole eastern part of the section to its farthest point is occupied by the land of
-the Kimak. It extends over the whole tenth section to the Qufaya Mountains 167 which are
-at the eastern end of the section and lie there on a portion of the Surrounding Sea. They
-are the Mountains of Gog and Magog. All these nations are Turkish peoples.
+
+The ninth section of the fourth zone, to the west beyond Farghanah and Tashkent, contains the land of the Kharlukh in the south, and the land of the Khallukh 166 in the north. The whole eastern part of the section to its farthest point is occupied by the land of
+the Kimak. 
+
+It extends over the whole tenth section to the Qufaya Mountains 167 which are at the eastern end of the section and lie there on a portion of the Surrounding Sea. They are the Mountains of Gog and Magog. All these nations are Turkish peoples.
 

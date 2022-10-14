@@ -1,19 +1,18 @@
-+++
-title= "Zone 5"
-description= "Most of the first section of the fifth zone is covered by water, except a small portion of the south and of the east. In this western region, the Surrounding Sea enters into the fifth, sixth, and seventh zones from the circle it describes around the zones"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2g"
-linkbtext= "part-2g"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2i"
-linkftext= "part-2i"
-heading= "Part 2h"
-icon = "/icons/ibn.jpg"
-date = 2020-01-23
-+++
+---
+title: "Zone 5"
+description: "Most of the first section of the fifth zone is covered by water, except a small portion of the south and of the east. In this western region, the Surrounding Sea enters into the fifth, sixth, and seventh zones from the circle it describes around the zones"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2h"
+date: 2020-01-23
+---
+
+
 
 Most of the first section of the fifth zone is covered by water, except a small portion of the south and of the east. In this western region, the Surrounding Sea enters into the fifth, sixth, and seventh zones from the circle it describes around the zones. 
 
-### Section 1
+
+## Section 1
 
 The portion to the south that is free from water has a triangular shape. It there touches Spain and comprises the remainder of it. It is surrounded on two sides by the sea, as if by the two sides of a triangle. It occupies the remainder of western Spain, including Montemayor 168 on the seacoast at the beginning of the section in the southwest. 
 
@@ -25,7 +24,7 @@ This (triangular) portion contains a large mountain. It faces the sea and the no
 
 In zone 4, there belong to (Gascogne) Barcelona and Narbonne on the shore of the Mediterranean; north of them, Gerona and Carcassonne; and in Zone 5, Toulouse, north of Gerona. The eastern portion of this section has the shape of an oblong triangle with its acute angle beyond the Pyrenees to the east. On the Surrounding Sea, at the top where it connects with the Pyrenees, this portion includes Bayonne. At the end of it, in the northeastern region of the section, is the land of Poitou, which belongs to the European Christians and extends to the end of the section.
 
-### Section 2
+## Section 2
 
 The western region of this section contains the land of Gascogne. North of it are the lands of Poitou and Bourges. 170 Both countries have been mentioned by us. East of the country of Gascogne lies a portion of the Mediterranean. It projects into this section like a tooth, in an easterly direction. To the west, the country of Gascogne juts out into a gulf of the Mediterranean[?]. At the northern extremity of this portion is the country of Genoa, along which to the north lie the Alps. 171 At their northern limit lies the land of Burgundy. 
 
@@ -40,7 +39,7 @@ To the east, this section is surrounded by the Adriatic Sea, which belongs to th
 Alongside it, a large mountain (range) comes from the fourth zone. It faces it (the sea) and runs parallel to it on its way north, then turns west along it in the sixth zone, and eventually ends opposite a straits in the north of it, in the country of Aquileia, a German (Alamanni) nation, as we shall mention. At this straits and between it and this mountain (range), where the mountains and the sea go off to the north, lies the country of the Venetians. Where the mountains and the sea go off to the west, they border the country of Jarwasiyi, and then the country of the Germans (Alamanni), at the end of the straits.
 
 
-### Section 4
+## Section 4
 
 This contains a portion of the Mediterranean which enters it from the fourth zone. (This portion of the sea) is strongly indented by arms of the sea which jut out in a northerly direction and are separated by portions of land in the shape
 of peninsulas. At the eastern end of the section lies the Straits of Constantinople. (This
@@ -50,27 +49,26 @@ There, it immediately turns eastward (and joins) the Black Sea in the fifth sect
 
 There are many stories about the magnificent architectural and other monuments there. The portion of this section between the Mediterranean and the Straits of Constantinople comprises the country of Macedonia, which belonged to the (ancient) Greeks, whose royal authority had its origin there. 
 
-East of the straits and extending to the end of the section, there is a portion of the land of Batus. 177 This, I believe, is the desert plains where, at the present time, the Turkomans roam. There is (located) the realm of Ibn 'Uthman (the Ottomans), with its chief city Bursa (Brussa). 178 Before them, it belonged to the Byzantines, from whom it
-was taken away by other nations, and eventually came into possession of the Turkomans.
+East of the straits and extending to the end of the section, there is a portion of the land of Batus. 177 This, I believe, is the desert plains where, at the present time, the Turkomans roam. There is (located) the realm of Ibn 'Uthman (the Ottomans), with its chief city Bursa (Brussa). 178 Before them, it belonged to the Byzantines, from whom it was taken away by other nations, and eventually came into possession of the Turkomans.
 
 The southwestern part of the fifth section of the fifth zone contains the land of Batus (Anatolia). North of it and extending to the boundary of the section, is the country of Amorium. East of Amorium is the Qubagib (Tokhma Su) 178a which flows into the
 Euphrates. It has its source in a mountain there and flows south until it joins the Euphrates,
-before the latter leaves this section and crosses over into the fourth zone. West of (the
-Euphrates), at the (southern) end of the section, the Sayhan, and west of it, the Jayhan,
-originate. Both rivers flow alongside (the Euphrates). They have been mentioned before.
-East of (the Euphrates) there, the Tigris originates. It always flows alongside (the
-Euphrates), and eventually joins it at Baghdad. In the southeastern corner of this section,
-behind the mountain where the Tigris originates, lies Mayyafariqin. The Qubaqib, which
-we have mentioned, divides this section into two portions. The one covers the southwest
-and contains the land of Batus (Anatolia), as we have said. The northernmost part of (the
-land of Batus), the region extending to the northern end of the section and beyond the
-mountain where the Qubaqib originates, is the land of Amorium, as we have said. The
-other portion covers the northeastern and southeastern third (of the section). In the south of
-this the Tigris and Euphrates originate. In the north, there is the country of al-Baylagin,
-which adjoins the land of Amorium behind Mount Qubagib 179 and extends far. At its end,
-where the Euphrates originates, is Kharshanah. 180 In the northeast corner is a portion ofthe Black Sea that connects with the Straits of Constantinople.
+before the latter leaves this section and crosses over into the fourth zone. 
 
-### Section 6
+West of (the Euphrates), at the (southern) end of the section, the Sayhan, and west of it, the Jayhan, originate. Both rivers flow alongside (the Euphrates). They have been mentioned before. 
+
+East of (the Euphrates) there, the Tigris originates. It always flows alongside (the Euphrates), and eventually joins it at Baghdad. In the southeastern corner of this section, behind the mountain where the Tigris originates, lies Mayyafariqin. The Qubaqib, which
+we have mentioned, divides this section into two portions. 
+
+The one covers the southwest and contains the land of Batus (Anatolia), as we have said. The northernmost part of (the
+land of Batus), the region extending to the northern end of the section and beyond the mountain where the Qubaqib originates, is the land of Amorium, as we have said. 
+
+The other portion covers the northeastern and southeastern third (of the section). In the south of this the Tigris and Euphrates originate. 
+
+In the north, there is the country of al-Baylagin, which adjoins the land of Amorium behind Mount Qubagib 179 and extends far. At its end, where the Euphrates originates, is Kharshanah. 180 In the northeast corner is a portion ofthe Black Sea that connects with the Straits of Constantinople.
+
+
+## Section 6
 
 This contains in the southwest the country of Armenia, which extends eastward beyond the middle of the section. Arzan (Erzerum) is in the southwest (of Armenia). To the north (of it) lie Tiflis and Dabil. East of Arzan is the city of Khilat, followed by Bardha'ah. In the southeast is the (capital) city of Armenia. 
 
@@ -125,5 +123,3 @@ It is oblong in shape and stretches southward. It belongs to the country of Gog.
 ### Section 10
 
 This is entirely covered by the land of Gog, except for a portion of the Surrounding Sea which covers part of it in the east from south to north, and except for the portion that the Qufaya Mountains leave in the southwest on their way through the section. Everything else is the land of Gog.
-
-

@@ -1,15 +1,12 @@
-+++
-title= "Zone 1 Egypt, Yemen, Sri Lanka, Korea"
-description= "The ancient philosophers divided the cultivated part of the earth in the north into seven zones by means of imaginary lines running from west to east"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2c"
-linkbtext= "Part-2c"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-2e"
-linkftext= "Part-2e"
-heading= "Part 2d"
-icon = "/icons/ibn.jpg"
-date = 2020-01-27
-+++
+---
+title: "Zone 1: Egypt, Yemen, Sri Lanka, Korea"
+description: "The ancient philosophers divided the cultivated part of the earth in the north into seven zones by means of imaginary lines running from west to east"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 2d"
+date: 2020-01-27
+---
+
 
 
 The Canaries from which Ptolemy began the determination of geographical longitude, are in the west. They are not part of the land mass of the first zone. 
@@ -18,8 +15,9 @@ They lie in the Surrounding Sea. A number of islands constitute them. The larges
 
 European Christian ships reached them in the middle of this century, fought with the inhabitants, plundered them, captured some of them, and sold some of the captives along the Moroccan coast where they came into the service of the ruler. 
 
-After they had learned Arabic, they gave information about conditions on their island. They said that they tilled the soil with horns. Iron was lacking in their country. Their bread59 was made of barley. Their animals were goats. They fought with stones, which they hurled backwards. Their worship consisted of prostrations before the rising
-sun. They knew no (revealed) religion and had not been reached by any missionary activity.
+After they had learned Arabic, they gave information about conditions on their island. They said that they tilled the soil with horns. Iron was lacking in their country. Their bread59 was made of barley. 
+
+Their animals were goats. They fought with stones, which they hurled backwards. Their worship consisted of prostrations before the rising sun. They knew no (revealed) religion and had not been reached by any missionary activity.
 
 These islands can be reached only by chance, and not intentionally by navigation.
 
@@ -27,10 +25,12 @@ Navigation on the sea depends on the winds. It depends on knowledge of the direc
 
 The countries situated on the two shores of the Mediterranean are noted on a chart (sahifah) which indicates the true facts regarding them and gives their positions along the coast in the proper order. The various winds and their paths are likewise put down on the chart. 
 
-This chart is called the "compass." 61 fit It is on this (compass) that (sailors) rely on their voyages. Nothing of the sort exists for the Surrounding Sea. Therefore, ships do not enter it, because, were they to lose sight of shore, they would hardly be able to find their way back to it. Moreover, the air of the Surrounding Sea and its surface harbors vapors
-that hamper ships on their courses. Because of the remoteness of these (vapors), the rays of the sun which the surface of the earth deflects, cannot reach and dissolve them. It is, therefore, difficult to find the way to (the Eternal Islands) and to have information about them.
+This chart is called the "compass." 61 fit It is on this (compass) that (sailors) rely on their voyages. Nothing of the sort exists for the Surrounding Sea. Therefore, ships do not enter it, because, were they to lose sight of shore, they would hardly be able to find their way back to it. Moreover, the air of the Surrounding Sea and its surface harbors vapors that hamper ships on their courses. 
 
-### Section 1
+Because of the remoteness of these (vapors), the rays of the sun which the surface of the earth deflects, cannot reach and dissolve them. It is, therefore, difficult to find the way to (the Eternal Islands) and to have information about them.
+
+
+## Section 1
 
 This contains the mouth of the Nile which has its origin in the Mountain of the Qumr. 62 This is called the Sudanese Nile river which flows toward the Surrounding Sea and into it at the island of Awlil. 63
 
