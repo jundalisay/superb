@@ -1,15 +1,12 @@
-+++
-title= "Forms and Opposites"
-heading= "Chapter 8 of The Simple Phaedo by Plato"
-date= 2015-09-23
-image= "/covers/phaedo.jpg"
-description= "The opposite will never be opposed to itself. One thing is hot, another is cold. But these are not the same as fire and snow. Heat is different from fire. Cold is different from snow."
-linkb= "/research/socrates/phaedo/chapter-7"
-linkbtext= "Chapter 7"
-linkf= "/research/socrates/phaedo/chapter-9"
-linkftext= "Chapter 9"
-icon= "/icons/soc.png"
-+++
+---
+title: "Forms and Opposites"
+heading: "Chapter 8"
+date: 2015-09-23
+image: "/covers/phaedo.jpg"
+description: "The opposite will never be opposed to itself. One thing is hot, another is cold. But these are not the same as fire and snow. Heat is different from fire. Cold is different from snow"
+icon: "/icons/socrates.png"
+---
+
 
 
 {{< l a="Socrates" >}}

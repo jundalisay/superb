@@ -13,7 +13,10 @@ icon: "/icons/soc.png"
 The same principle holds in the sciences. The object of science is knowledge. But the object of a particular science is a particular kind of knowledge. 
 
 The science of house-building is a kind of knowledge different from other kinds. It is therefore called "architecture" because it has a particular quality which no other has. It has this particular quality because it has a particular object. This is true of the other arts and sciences.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 Regarding relatives, if one word of a relation is taken alone, then the other is taken alone. If one term is qualified, the other is also qualified. But I do not mean to say:
 - that relatives may not be disparate, or
 - that the science of health is healthy, or

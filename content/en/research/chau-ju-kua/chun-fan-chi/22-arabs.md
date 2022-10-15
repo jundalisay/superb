@@ -65,148 +65,55 @@ The houses are like those of the Chinese, except that they use thin flagstones i
 
 Their food consists of:
 - rice and other cereals. 
-- mutton strips of
+- mutton stewed with strips of dough, which is considered a delicacy. 
 
-fraits
-is
-dough
-and other cereals;
+The poor live only on:
+- fish
+- vegetables
+- fruits
 
-mutton stewed with considered a delicacy. The poor live on
-sour
-only; sweet dishes are preferred to
-made out
 
-consists of rice
-of the juice of grapes, and there
-decoction of sugar and
+Sweet dishes are preferred to sour.
 
-is also
-spices.
+Wine is made out of the juice of grapes. They have a drink called *ssi* which is a decoction of sugar and spices.
 
-fish,
-fine
-vegetables and
+By mixing honey and spices, they make a drink called "mei-ssi-ta-hwa", which is very heating.
 
-Wine
-the drink (called) ssi
-By mixing
-of honey and116
+Very rich persons use a measure instead of scales in business transactions in gold or silver. 
 
-spices they
-is
-make
-very heating
+The markets are noisy and bustling, and are filled with a great store of gold and silver damasks, brocades, and similar wares.
 
-a drink (called) mei-ssi'ta-Ma
+The artisans have the true artistic spirit. 
 
-Very rich persons use a measure
-instead of scales in business
+Everyone revere Heaven. 
+- They have a Buddha named "Mahiawu".
+- Every 7 days, they cut their hair and clip their fingernails.
+- At the New Year for a while month, they fast and chant prayers.
+- They pray daily to Heaven 5 times. 
 
-transactions in gold or silver. «The markets» are noisy and bustling, and «are
-with great store of gold and silver damasks, brocades, and such like
-filled
-wares.
-The
-The
-have the true
-artisans
-king, the officials and the people
 
-They also have . 
+The peasants work their fields of floods or droughts. Irrigation water is supplied by a river whose source is unknown. 
 
-Every 
-Buddha by the name
-also a
-spirit» ( JC
-artistic
-of
-all
-Ma-hia-wu
-whole month they
-The peasants work
-At
-and chant prayers
-fast
-Daily they pray to Heaven
-serve (or revere 7 days they cut their hair and clip their finger nails.
-for a
-Heaven.
-Every
-the
-New Year
-and sow their
-is
-that an official
-supplied by a river whose source
-There
-hundred
-(^)
-is
-appointed to watch the river and to
-who then plough
-people,
-20-
-a great harbour (or anchorage -j^
-feet deep,
-bank
-it rise&
-^.
-which opens
-connecting with
-either
-is
-not
-in progress, the level of the 15
-is
-when he sunmions the
-level,
-is
-"When they have had enough water, the river returns
-fields.
-to its former level
-H)'
-'
-river remains even with the banks; with the beginning of cultivation
-it is 
-in this country, over
-to the south-east on the sea,
+in progress, the level of the river remains even with the banks. At the start of cultivation, it rises daily. They have an official tp watch the river and await the highest level. He then summons people who then plough and sow their fields. 
 
-quarters of the country
-all
-of the harbour
+When they have had enough water, the river returns to its former level.
+
+
+There is a great harbour over 200 feet deep. It opens southwest to the sea and has branches connecting with all quarters of the country.
+
+
 daily are held fairs
 fish,
 The products
 two
 and has branches
 
-On
-the people have their dwellings and here
-boats and wagons, all
-), where crowd
+On the people have their dwellings and here
+boats and wagons, all loaded with hemp, wheat, millet, beans, sugar, meal, sheep, geese, ducks, fish, shrimps, date-cakes, grapes, and other fruits. 
 
-loaded with hemp, wheat, millet, beans, sugar, meal,
-sheep, geese, ducks,
-lo
-their fields without fear of inundations or droughts;
-known. During the season when no cultivation
-await the highest water
-^
-five times.
-a sufficiency of water for irrigation
-day by day. Then
-j^
-5
-shrimps, date-cakes
-(^
-oil,
-25
+<!-- five times. oil,
 firewood, fowls,
-
-
-grapes and other fruits.
-
+ -->
 Its exports are:
 - pearls 
 - ivory
@@ -281,19 +188,15 @@ So he got the people together, took weapons by force and enrolled followers, inc
 
 Since 650-656, they have come repeatedly to our Court to present tribute. 
 
-<!-- Before the time of their king Ponnimohuan (Beni Merwan) 
-(.White-robed Ta-shi»; after A-p'o-lo-pa
-MerwAn) they were -->
-
-Abu'l 'Abbds) they
-called «Black-robed Ta-shi[» ".
-were
+Before the time of their king Ponnimohuan (Beni Merwan), they were called the "white-robed Arabs". After Apolopa, 
+Abul Abbas) they were called The Black-robed Arabs. 
 
 
-In the fourth year of the kHen-to period of the reigning dynasty (A. U,
-25
-(^
-966) the bonze Hing-k'in
+<!-- In the fourth year of the kHen-to period of the reigning dynasty (966 AD) -->
+
+In 966 AD, they sent envoys with tribute to our Court. 
+
+<!--  bonze Hing-k'in
 this occasion
 sympathy
 In
@@ -305,15 +208,11 @@ toi
 the Western Regions; on
 king was granted to
 enlist his
-".
 the' first
 year of the k'ai-pau period (A. D. 968) they sent envoys with
-tribute to our Court.
+tribute to our Court. -->
 
-In 971, they sent presents with South Vietnam and Java to Li Yu in Kiang-nan. Yu did not go to accept them, so the envoys submitted the matter to the Court, and an Order
-in Council was issued forbidding that
-tribute presents should
-henceforth be brought.
+In 971, they sent presents with South Vietnam and Java to Li Yu in Kiang-nan. Yu did not go to accept them, so the envoys submitted the matter to the Court, and an Order in Council was issued forbidding that tribute presents should henceforth be brought.
 
 In 993, they sent tribute through the Assistant Envoy Liawu who stated, at an audience granted him in the Ch'ung-chong Audience Hall (of the Palace), that his
 country bordered on Baghdad and that it produced ivory and rhinoceros horns.
@@ -338,38 +237,17 @@ In 1004, the Arab envoy remained behind at the capital, together with the envoys
 
 In 1007, they accompanied a tribute mission from Southern Vietnam and were treated with most particular attention,. They were allowed to visit the Buddhist and Taoist temples and  the Imperial gardens and parks.
 
-In 1008-1017, while the Emperor was absent in the eastern part of the poses, the chief Topoli
-— 1017), while the
-Empire
-for sacrificial pur-
-expressed the wish to be'allowed to 25
-present his tribute presents in person (to the Emperor) on the T'ai-shan
-(where he had gone to
-sacrifice).
-
-In 1011, while the Emperor had gone to Fonyin to make sacrifices, the envoy (T'o-p'o-li) came
-again, and was ordered by the Emperor to follow the Court.
-
-According to an old Cantonese tradition, an Arab man named Wusihuluhua 130 years.
-He had double ear-beadings and an extraordinarily imposing aspect.
-Stated that long ago, impelled
-by
-the journey to China.
-gown and a
-silver girdle, to"
-He
-himself
-his high regard for the civilization of the 35
-Empire, he had embarked on a ship of the Ku-lo ("^
-made
-He
-country and had
-The Emperor presented him with a brocade
-which he added a piece of silk
+In 1008-1017, while the Emperor was absent in the eastern part of the poses, the chief Topoli was allowed to give his presents directly to the Emperor on the Tai-shan (where he had gone to sacrifice).
 
 
-1205— 1208)
- 1094
+In 1011, while the Emperor had gone to Fonyin to make sacrifices, the envoy (Topoli) came again, and was ordered by the Emperor to follow the Court.
+
+According to an old Cantonese tradition, an Arab man named Wusihuluhua who lived to be 130 years.
+- He had double ear-beadings and an extraordinarily imposing aspect.
+- He said that he had a high regard for Chinese civilization and so he went to China on a ship from the Kulo country.
+- The Emperor presented him with a brocade gown and a
+silver girdle, to which he added a piece of silk
+
 
 In 1086-1094 and 1205-1208, the Arabs sent missions to Court with tribute.
 
@@ -459,19 +337,14 @@ the several forms in which the
 name
 Ihe most likely to be represented by the Chinese Ta-shi, pronounced
 Tai-shik in Canton. But Ta-i as the ancient sound of
--^
-^
 is
 not quite impossible.
 The
 shl
 of Ta-shi being ranged with the group of characters anciently read shik, or chik, may be due to
 35 a guess made by the compilers of K'ang-hi's Dictionary. The reading i, though not the usual
-ad flnem= J^
--^
-one, is certainly backed by old sound authorities (R'ang-hi, s. v.
-^
-S,),
+ad flnem
+one, is certainly backed by old sound authorities (R'ang-hi,
 so that Ta-shi
 268, note) says «that
 may
@@ -486,10 +359,8 @@ is
 wrong
 how
 Bretschneider
-^
 in stating that the Mongols called the
 early?] the Persians
--^
 (Mediaeval Kesearches, I,
 Mahommedans
 were called Tadjik, and even now-
@@ -498,8 +369,6 @@ there)).
 2)
 supra, p.
 tai-ta,
--45
-'
 This and the preceding paragraph are partly taken from Chou K'«-fei (8,2). Conf.
 to edit the text of the Ling-wai-
 89, lines 3—6 and p. 120, n. 5; our author has attempted
@@ -524,8 +393,7 @@ __,
 R^ ^^);
 ships leaving
 Kuang-120
-1,22
-THE AKABS.
+
 clou during
 or after the eleventh
 mcon
@@ -1359,381 +1227,3 @@ number of works, one called Tau-shan-ki-w6u
 -->
 
 
-## 30. Mecca
-
-Mecca can be reached by 80 days land westward travel from Basra (Malopa). 
-
-This is where Mohammad was born. In the house of God, the walls are made of precious stones of every colour. 
-
-During the death anniversary of Mohammad, all the Arabs gather here where they bring presents of gold, silver, jewels and precious stones. Then the House is adorned anew with silk brocade.
-
-Farther there is the tomb of the Buddha. Continually by day and night, the tomb has such a brilliant refulgence that no one can approach it otherwise they go blind. 
-
-Anyone who rubs his breast in the hour of his death with dirt taken from his tomb, they say, will be restored to life again by the power of the Buddha.
-
-<!-- Note.
-
-of
-The journey from Mirbat on the H^dramaut coast, through the Tehama (south-west coast
-Arabia) to Mecca was the old trade-route of the Sabeans, it is presumably the one referred to
-in our text.
-The whole
-of Mecca, which
-reached
-is
-15 country of Ma-li-pa.
-(^
-House
-(^)-of
-is taken from Ch6u K'tt-fei (3,2*'). He says= aThere is the country
-one journeys for eighty days and more westward by land from the
-of this chapter
-It is
-^)
-if
-the place, where the Buddha Ma-hia-wu (Mohammed) was born. In the
-Buddha, the facings of the walls of the rooms are of precious stones
-~)j
-every colour. Every year, when the anniversary of the Buddha's death comes roiind, all
-of the
-the princes of the Ta-shi send people bearing presents of jewels, gold and silver, and they cover
-the House (yjf
-i. e., the Kaaba) with silk brocades. Yearly the (various) countries (of the
-^^
-20 Ta-shi) come here to
-visit the
-House and
-to offer prayers.
-Furthermore the high
-countries are not deterred by a journey of a myriad U; they
-ccFarther off (literally, Bbehind» .:i^) there
-night there
-eyes
-is tomb and smears
-it
-on his breast, he
-K'ii-fei
-is,
-is
-restored to
-lam aware,
-of Mohammed (|$
-so far as
-^ ^^'^
-the
-life,
-first
-officials of these
-assemble to worship the House.
-the tomb of the Buddha, where day and
-such a brilliant refulgence that no one can approach
-('^ BM'
-Chou
-is
-all
-^^
-it,
-those
-who do shut
-dying and takes some
-so great is the
-power of
-dirt
-this
-from
-their
-oif this
-Buddha!»
-Chinese author who wrote of Mecca. The
-^)
-(^
-(22l'',23) speaks
-and of Medina
-=|n[
-Jjjj ^|5), of the
-Black Stone of the Kaaba, but not of Mecca. It gives, however, some interesting information about
-Islam which our author might with advantage have incorporated in his work^ Among other
-30 things, it speaks of the five daily prayers to the nSpirit of Heavenu (^^ )Iiw)i ^°^ of the
-mosques, which it calls li-t'ang (mp ^), and which can hold many hundreds of people. aHere
-T'ang-shu
-every seven days the king from a high seat speaks to those below saying= 'Those who die fighting
-shall be born in
-Heaven; those who
-The oHouse
-85
-kill
-an enemy
-of the Buddha)) of Chou's text
-shall receive happiness)).
-is
-not the Prophet's birthplace (Maulid
-el
-Naby)
-Mecca, but the oHouse of Allah» (Bayt Ullah), better known as the Kaaba or ocube housei);
-has the same sense. In the Yuan and Ming periods Mecca was
-the Chinese name
-{~fj
-~^)j ^^ abbreviation of the earlier name.
-called «The Heavenly square))
-in
-^)
-(^
-Burton, Pilgrimage to El Medinah and Meccah, II, 278 says that the birthday of the
-Prophet (twelfth of the month Eabi' el Auwal) is celebrated in Mecca with great festivities, feasts,
-40 prayers and perusals of the Koran.
-On the brilliant light which is said to emanate from the tomb of the Prophet, con£ what
-Barthema, who was in Medina in 1503, says ofit in his travels (Purchas, His Pilgrimes, IX, 66).
-When visiting the tomb of the Prophet, the Elders who accompanied him and the Captain of his
-party suddenly cried out; awe asked what was the cause of that exclamation. The Elders
-45 answered= Saw you, not the lightning which shone out of the Sepulchre of the Prophet Mahumet,
-Our Captaine answered, that he saw nothing; and we also being demanded, answered in like
-It is therefore to be understood, that none other shining came out of the
-Sepulchre, than a (iertaine flame which the Priests caused to come out of the place of the Tower
-spoken of here before, whereby they would have deceived us)).
-manner
-.
-.'
-1)23
-ZANGUEBAK.
-126
-Burton,
-op.
-cit., I,
-309, n. 311,
-n.,
-says that there
-is
-a superstitious story connected with, the
-that when the
-tomb of the Prophet (Masjid El Nabawi or .(Prophet's Mosque») in Medina,
-tomb
-a
-new kiswah,
-the
-over
-place
-to
-baldaquin
-eunuchs who have charge of the tomb enter the
-from
-the tomb.
-pour
-which
-splendours
-supernatural
-the
-against
-veils
-they guard their eyes with
-at once blinded by
-These eunuchs say that anyone who ventures to approach the tomb would be
-the supernatural light. -->
-
-
----
-title: "Bandar Abbas (Tsongpa)"
-heading: "Chapter 24"
-date: 2022-01-02
-description: "The Arabs are to the very far northwest of Guangzhou. This makes it hard for foreign ships to trade to it directly."
-image: "/flags/sa.png"
-author: "Chau Ju Kua"
----
-
-
-## 24. Bandar Abbas (Tsongpa)
-
-
-Bandar Abbas is on an island of the sea south of Gujarat. It has a great mountain to the West.
-
-The Arabs wrap themselves in blue foreign cotton stuffs  and wear red leather shoes. 
-
-Their daily food consists of meal, baked cakes and mutton.
-
-There are many villages, and a succession of wooded hills and terraced rocks. 
-
-The climate is warm, and there is no cold season.
-
-
-Their exports are:
-- elephants' tusks
-- native gold
-- ambergris
-- yellow sandal-wood
-
-Every year, Gujarat and the Arabs send ships to trade here with:
-
-- white cotton cloth
-- porcelain
-- copper
-- red cotton
-
-<!-- 
-Notes.
-Ts'5ng-pa, in Cantonese Tsang-pat,
-which, according to
-Ta-shii localities along the sea-coast send
-Masudi
-is
-Zange-bar or Zanzibar «the region of the Blackss
-«from
-(Prairies d'or. III, 7), extended along the east coast of Africa
-the channel issuing from the upper Nile* (presumably the Eiver Jubb) to the land of Sofala and
-of the
-Wakwak. Marco Polo regarded the coast of Zanzibar as belonging to a great island like
-Yule & Burnell, Glossary, 746.Ma3udi(op. cit.. Ill, 31)included in the land of the
-Madagascar.
-Zanj the islands along their coast, including that of Kanbalu (presumably Pemba) in which he
-us
-(op.
-cit.,
-I,
-232) there lived a population of
-XXXVIII. 2.
-The mention
-interesting;
-can
-it
-Mohammedans and Zanj
-idolaters.
-See
-tells
-80
-infra, Ch.
-of a great mountain on the western border of the Ts'6ng-pa country is very
-be Kilimanjaro? The placing of Ts*6ng-pa to the south of Guzerat is readily
-explained by the iact that junks going from Guzerat to the east coast of Africa would have to 35
-sail
-II,
-a general southerly course. See supra, p. 79, line 26 et seqq.
-2) These Ta-shi lived probably in some town, Quiloa perhaps, on the coast. Ibn Batuta,
-192 says that
-Culua
-(Quiloa)
-of very dark complexion.
-was a great
-Masudi
-city
-whose inhabitants were for the most part Zanj
-30—31) says that the Zanj were of the same
-(op. cit., Ill, 6,1)21
-ZAXOUEBAK.
-127
-stock as the Abyssinians, they had no religion, but each
-a plant, an animal, a stone.
-Masudi,
-man worshipped
-whatsoever he pleased,
-7—8, says, that the country of the Zanj was 700 parasaug long
-was «cut by valleys and mountains and sandy deserts*.
-5
-4) Masudi, op. cit., Ill, 7—8, says the land of the Zanj abounded in elephants; also that
-the ivory was shipped to Oman and thence to India and China. See also infra. Pt. II. Chs. XXXVI,
-3)
-and as many wide.
-op. cit. III,
-It
-XXXVIIl. Marco Polo
-(II, 404) says that on the island of Madagascar «they had many trees
-of red Sanders of excellent quality; in fact, all their forests consist of it». See also infra, Pt. II,
-Ch. XII. Marco Polo, II, 416 says of Zenghibar= «the staple trade of the Island is in elephant's
-10 teeth, which are very abundant; and they have also much ambergris, as whales are plentiful)).
-The reference to sandal-wood as a product of Ts'6ng-pa is interesting, it was probably brought
-there from Madagascar, which seems vaguely referred to in Ch. XXXVIIl, 2.
-Chinese porcelain of the Sung dynasty has beOn found in Zanzibar. Dr. S. W. Bushell
-says (North China Daily News,
-15 General at Zanzibar,
-dug up,
-Hirth,
-I believe
-A. 0.
-XVI.
-J.
-porcelain,
-Theo.
-May
-9,
-1888)= aSir
-John Kirk during
-his residence as Consul-
-Some of it was
-mixed with Chinese cash of the Sung dynasty ...» See also
-XXX, 55—57 and S. W. Bushell. Description of Chinese pottery and
-from
-S.,
-Bent
-made
-a collection of ancient Chinese c61adon porcelain...
-ruins,
-found among the ruins in the fort of Gibliah on the island of Bahrein, numerous
-20 fragments of afine Nankin and Celadon china, attesting
-former owners ...» Southern Arabia, 18.
-to the ubiquity
-and commerce of the
-Sung-shJ, 490,20''— 21",
-contains a short description of a country called Ts'Sng-t'an
-(^^^
-which
-to think is practically the same as the Ts'ong-pa of our author, or
-we
-are
-disposed
-^|g)
-some place in it, though the second character of the name is puzzling. It reads as follows:
-_^
-25 «Ts'Ong-t'an
-is
-on the Southern Ocean. The town
-hi-ning (A. D. 1071)
-it
-brought presents
-to
-is
-twenty U from the sea-coast. In the fourth year
-our Court for the
-first time.
-Travelling by sea, and with a
-He passed by Wu-siin
-presumably some place near Maskat), Ku-lin ("i" jm Quilon) and San-fo-ts'i (Palembang), and
-came to Kuang-ch6u. The ruler of the country was named A-mei-lo A-mei-lan (H5 a& .^S
-30 H5 jM BJ [Pers. amir-i-amirdn]). They (the A-mei-lo) had ruled the country for live hundred
-years (during which time there had been) ten generations. The language sounds like that of the
-Arabs (Ta-shi). The climate (of Ts'ong-t'an) is warm all the year. The wealthy people wear turbans
-[^
-favourable wind (the monsoon), the envoy took a hundred and sixty days.
-^j[^
-of yue-{no) stuff and clothes of flowered brocade, or of po-tie cloth.
-or on horseback.
-They have
-official salaries.
-According
-to their
-They go
-35 with the bamboo, serious crimes with death.
-«0f cereals, they have rice, millet and wheat. For food they eat
-have sheep
-(j^ ^)>
-gov'ts,
-forth riding elephants
-laws light offenses are punished
-fish.
-Of animals they
-buffalo ('/4? 2fc.), water-buffalo, camels, horses, rhinoceros and
-Of drugs they have putchuck, dragon's-blood, myrrh, borax, asa-foetida, frankincense.
-Of products, pearls, glass (p'o-K), and three kinds of drinks called ini[^^ Persian, mei, «wine»)
-?). In commercial transactions they use
-40 sha (yb Arab-Persian, sTiarah, sherbet) and hua
-coins made by the Government only; three parts are of gold and copper in equal proportion, the
-fourth of silver. The people are forbidden coining them themselves.
-elephants.
-(^
-oin the sixth year yuan-fong (A. D. 1088) the envoy Pau-shun-Iang-tsiang Ts'6ng-k'ie-ni
-hR (J^ fe' -Hm
-the last three characters may mean «tho Zanj))) came again to
-45 Court. The Emperor Shon-tsung, considering the very great distance he had come, besides giving
-him the same presents which had been formerly bestowed on him, added thereto 2,000 ounces
-(/p
-lllg
-of silvers.
-R128
-1,25
-liEEBEKA COAST, -->

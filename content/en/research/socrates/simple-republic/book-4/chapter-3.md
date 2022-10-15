@@ -49,7 +49,11 @@ This also happens when:
 
 
 {{< l a="Socrates" >}}
-There are three distinct classes. Any meddling of one with another, or the change of one into another, is the greatest harm to the State. It can be called evil-doing. 'Injustice' is the greatest degree of evil-doing to one's own city. On the other hand, justice is when the trader, auxiliary, and the guardian each do their own business. It will make the city just. This idea of justice is verified both in the individual as well as in the State.
+There are 3 distinct classes. 
+
+Any meddling of one with another, or the change of one into another, is the greatest harm to the State. 
+
+It can be called evil-doing. 'Injustice' is the greatest degree of evil-doing to one's own city. On the other hand, justice is when the trader, auxiliary, and the guardian each do their own business. It will make the city just. This idea of justice is verified both in the individual as well as in the State.
 
 If we could examine justice on the larger scale, there would be less difficulty in discerning her in the individual level. That larger example was the State. Accordingly, we constructed as good a one as we could, knowing that the good State has justice.
 
@@ -62,7 +66,7 @@ Let our definition of justice be now applied to the individual. If they agree, w
 When a small and a big thing is called by the same name, they become like each other. The just man will be like the just State.
 A State is just when:
 
-- its three classes did their own business, and
+- its 3 classes did their own business, and
 - were temperate, valiant, and wise.
 
 

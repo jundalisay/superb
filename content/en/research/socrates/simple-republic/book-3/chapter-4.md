@@ -1,8 +1,13 @@
+---
+title: "Lawmakers and Lawyers Must Be Virtuous"
+heading: Chapter 4 of Book 3
+date: 2020-09-24
+description: "The best judges know all sorts of moral natures. The most skilful physicians have the greatest experience with diseases, from their youth upwards"
+image: "/covers/republic.jpg"
+icon: "/icons/soc.png"
+---
 
 
-
-
-## Lawmakers and Lawyers Must Be Virtuous
 
 {{< r a="Glaucon" >}}
 All that, Socrates, is excellent. But I shouldn't there be good physicians in a State who will treat the people, both healthy and unhealthy?
@@ -61,10 +66,15 @@ When a man allows music to play in him and to pour into his soul through the fun
 In the first stage of the process, his passion or spirit is tempered like iron. It is made useful, instead of being brittle and useless.
 
 But if he carries on the softening and soothing process, he begins to melt and waste, until he has wasted away his spirit and cut out the sinews of his soul. He becomes a feeble warrior.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 If his spirit is naturally weak, the change is competed quickly. But if his spirit is strong, then the weakening power of music makes him excitable. He flames up on the least provocation. Instead of having spirit, he grows irritable. <!--  and passionate and is quite impracticable. -->
 
-And so in gymnastics, if a man takes violent exercise and eats a lot, his body fills him with pride and spirit. He becomes twice the man that he was. He will become uncivilized and a hater of philosophy. He will never use the weapon of persuasion. His intelligence will grow feeble, dull, and blind from having no taste in learning, enquiry, thought or culture. He is like a wild beast, all violence and fierceness, and knows no other way of dealing.
+And so in gymnastics, if a man takes violent exercise and eats a lot, his body fills him with pride and spirit. He becomes twice the man that he was. He will become uncivilized and a hater of philosophy. He will never use the weapon of persuasion. 
+
+His intelligence will grow feeble, dull, and blind from having no taste in learning, enquiry, thought or culture. He is like a wild beast, all violence and fierceness, and knows no other way of dealing.
 {{< /l >}}
 <!-- is a great feeder, and the reverse of a great student of music and philosophy, at first the high condition of 
 , and  -->

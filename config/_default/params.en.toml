@@ -86,14 +86,13 @@ contact_form =  "https://hub.pantrypoints.com/api/email"
 [spon.a]
     url = "https://pantrypoints.com/build"
     img = "/banners/build.jpg"
-
 [spon.b]
-    url = "https://foodrescueph.site"
-    img = "/banners/fri.jpg"
-
-[spon.c]
     url = "https://elivirs.com"
     img = "/banners/elivirs.jpg"
+[spon.c]
+    url = "https://thepoint.click"
+    img = "/banners/point.png"
+
 
 
 

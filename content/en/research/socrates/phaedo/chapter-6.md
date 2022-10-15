@@ -1,17 +1,12 @@
-+++
-title= "Opposites"
-heading= "Chapter 6"
-date= 2015-09-25
-image= "/covers/phaedo.jpg"
-description= "The Simple Phaedo by Plato"
-linkb= "/research/socrates/phaedo/chapter-5"
-linkbtext= "Chapter 5"
-linkf= "/research/socrates/phaedo/chapter-7"
-linkftext= "Chapter 7"
-icon= "/icons/soc.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Misanthropists and Misologists"
+heading: "Chapter 6"
+date: 2015-09-24
+image: "/covers/phaedo.jpg"
+description: "Misanthropists are haters of people. Misologists are haters of ideas. Both spring from the same cause, which is ignorance of the world"
+icon: "/icons/socrates.png"
+---
+
 
 
 {{< l a="Phaedo" >}}

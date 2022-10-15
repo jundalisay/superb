@@ -1,7 +1,7 @@
 ---
 title: "Absolute ideas and the Soul"
 heading: "Chapter 4"
-date: 2015-09-25
+date: 2015-09-26
 image: "/covers/phaedo.jpg"
 description: "There are two sorts of existences—one seen, the other unseen. The seen is the changing, and the unseen is the unchanging"
 icon: "/icons/socrates.png"

@@ -1,18 +1,13 @@
+---
+title: "The Quest of Socrates"
+heading: "Chapter 7"
+date: 2015-09-23
+image: "/covers/phaedo.jpg"
+description: "The brain may be the originating power of hearing, sight, and smell. Memory and opinion may come from them. Science may be based on memory and opinion when they have attained fixity"
+icon: "/icons/socrates.png"
+---
 
-+++
-title= "The Quest of Socrates"
-heading= ""
-date= 2015-09-24
-image= "/covers/phaedo.jpg"
-description= "The brain may be the originating power of hearing, sight, and smell. Memory and opinion may come from them. Science may be based on memory and opinion when they have attained fixity."
-linkb= "/research/socrates/phaedo/chapter-6"
-linkbtext= "Chapter 6"
-linkf= "/research/socrates/phaedo/chapter-8"
-linkftext= "Chapter 8"
-icon= "/icons/socrates.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+
 
 Socrates paused awhile, and seemed to be absorbed in reflection. 
 

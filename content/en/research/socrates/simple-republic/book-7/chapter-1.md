@@ -72,6 +72,7 @@ Finally, he will be able to see the sun, and not mere reflections of him in the 
 - is the cause of all things which he and his fellows used to see.
 {{< /l >}}
 
+
 {{< l a="Socrates" >}}
 Clearly, he would first see the sun and then reason about it. When he remembered his old habitation and the wisdom of the den and his fellow-prisoners, he would be happy at the change and pity them.
 
@@ -79,6 +80,7 @@ They had the habit of conferring honours to those who were quickest to observe t
 'Better to be the poor servant of a poor master'.
 He would endure anything to avoid living like before.
 {{< /l >}}
+
 
 {{< r ava="Glaucon" >}}
 Yes, I think that he would rather suffer anything than entertain these false notions and live in this miserable manner.

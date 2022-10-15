@@ -1,5 +1,15 @@
+---
+title: "Propensities"
+heading: "Chapter 5"
+date: 2015-09-25
+image: "/covers/phaedo.jpg"
+description: "There are two sorts of existences—one seen, the other unseen. The seen is the changing, and the unseen is the unchanging"
+icon: "/icons/socrates.png"
+---
+
+
 +++
-title= "Propensities"
+title= ""
 # heading= "The Simple Phaedo by Plato"
 date= 2015-09-26
 image= "/covers/phaedo.jpg"

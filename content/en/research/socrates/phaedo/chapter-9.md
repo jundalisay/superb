@@ -1,17 +1,13 @@
+---
+title: "The Universe to Socrates"
+heading: "Chapter 9"
+date: 2015-09-22
+image: "/covers/phaedo.jpg"
+description: "The true earth is pure and situated in the pure heaven—there are the stars also"
+icon: "/icons/socrates.png"
+---
 
-+++
-title= "The Universe to Socrates"
-date= 2015-09-22
-image= "/covers/phaedo.jpg"
-description= "But the true earth is pure and situated in the pure heaven—there are the stars also."
-linkb= "/research/socrates/phaedo/chapter-8"
-linkbtext= "Chapter 8"
-linkf= "/research/socrates/phaedo/chapter-10"
-linkftext= "Chapter 10"
-icon= "/icons/socrates.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+
 
 <!-- If I had the art of Glaucus would tell you. Although I know not that the art of Glaucus could prove the truth of my tale, which I myself should never be able to prove, and even if I could, I fear, Simmias, that my life would come to an end before the argument was completed. I may describe to you, however, the form and regions of the earth according to my conception of them. -->
 

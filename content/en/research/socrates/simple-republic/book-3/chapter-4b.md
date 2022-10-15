@@ -69,6 +69,7 @@ Not yet, but I think that they should be. True education will civilize and human
 First, none of them should have any property of his own beyond what is absolutely necessary. They should not have a private house or store closed to the public. Their provisions should be only such as are required by trained warriors, who are men of temperance and courage. They should agree to receive from the citizens a fixed rate of pay, enough to meet the expenses of the year and no more. They will go to mess and live together like soldiers in a camp.
 {{< /l >}}
 
+
 {{< l a="Socrates" >}}
 We will tell them that they have gold and silver from God and that the diviner metal is within them. They have therefore no need of the dross which is current among men. They should not pollute the divine by any such earthly admixture. <!-- For that commoner metal has been the source of many unholy deeds, but their own is undefiled. -->
 
