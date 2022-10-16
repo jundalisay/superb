@@ -1,10 +1,10 @@
 ---
 # heading: "Yogic Treatments and Natural Remedies"
 title: "Sin, Crime and Law"
-date: 2022-01-31
+date: 2021-11-10
 author: "PR Sarkar"
 description: ""
-image: "/covers/prout.png"
+image: "/covers/discourses.jpg"
 icon: "/icons/sarkar.png"
 ---
 

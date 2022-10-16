@@ -1,6 +1,14 @@
+---
+heading: "Part 5"
+title: "Criminals out of Momentary Weakness"
+date: 2021-11-22
+author: "PR Sarkar"
+description: ""
+image: "/covers/prout.png"
+icon: "/icons/sarkar.png"
+---
 
 
-## 5. Criminals out of Momentary Weakness
 
 This is a temporary criminal urge, a special type of mental disease which suddenly appears in a certain type of environment and again subsides after a short time. 
 
@@ -65,13 +73,31 @@ However, the offender to receive clemency rarely when:
 - the offender gets others intoxicated in order for them to commit a crime with calm nerves
 
 
-In reality, of course, the crimes of both groups are equal in magnitude, and from the psychological point of view there is only a slight difference between them.
+In reality, the crimes of both groups are equal in magnitude. From the psychological point of view, there is only a slight difference between them.
 
-Benevolent people may wonder how much value corrective measures have for criminals who, for whatever reason, have not turned into habitual criminals but still do not show any sense of remorse after committing a crime; for first-time offenders who have not produced any type of evidence to demonstrate that circumstantial pressure was the reason for their crime; or for those who have not shown any physical or psychological symptoms which would warrant their being declared mentally ill. In such circumstances experienced judges and social well-wishers would take penal instead of corrective measures. From the moral standpoint, we cannot but support this. 
+Benevolent people wonder how much value corrective measures have for:
+- criminals who do not show remorse
+- first-time offenders
+- non-mentally ill criminals
 
-Yet when we know that weak-minded people, who are slaves to their lower propensities, have committed and are continuing to commit crimes due to circumstantial pressure created by temporal, spatial and personal factors, is it not society’s duty to make them aware of their wrongdoing and help them to learn how to develop their higher propensities and strengthen their minds? 
+<!-- , for whatever reason, have not turned into habitual criminals but still do not show any sense of remorse after committing a crime; for first-time offenders who have not produced any type of evidence to demonstrate that circumstantial pressure was the reason for their crime; or for those who have not shown any physical or psychological symptoms which would warrant their being declared mentally ill.  -->
 
-And is it not also the duty of society to ensure that this awakening is a corrective rather than a penal process? Of course it is necessary to retain tough penal measures as a part of the corrective system. Moreover, if punishment has an important place in correcting behaviour, people will, out of fear of being punished, avoid drifting along according to the inclinations of their lower propensities. 
+In such circumstances, experienced judges and social well-wishers would take penal instead of corrective measures. 
+- From the moral standpoint, we <!-- cannot but --> support this. 
+
+<!-- Yet when we know that  -->
+
+Weak-minded people are slaves to their lower propensities. 
+- They <!--  have committed and are continuing to --> commit crimes due to circumstantial pressure created by temporal, spatial and personal factors
+
+It is society’s duty to:
+- make them aware of their wrongdoing
+- help them to learn how to develop their higher propensities and strengthen their minds 
+- ensure that this awakening is a corrective rather than a penal process 
+
+It is necessary to retain tough penal measures as a part of the corrective system. 
+- Punishment has an important place in correcting behaviour
+  - It prevents people from drifting along the inclinations of their lower propensities out of fear of being punished. 
 
 As a result of this environmental pressure, dishonest people will be compelled to live an honest life. 
 - Those who are aware of the influence of their own base propensities will also feel encouraged to keep striving to become internally civilized.

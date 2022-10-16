@@ -1,13 +1,9 @@
-+++
-title=  "Laying Plans"
-image=  "/covers/war.jpg"
-description=  "The art of war is of vital importance to the State. It is a matter of life and death"
-linkb=  "/research/sun-tzu/art-of-war/"
-linkbtext=  "Index"
-linkf=  "/research/sun-tzu/art-of-war/chapter-02"
-linkftext=  "Chapter 2"
-heading=  "Chapter 1 of Sun Tzu's Art of War"
-+++
+---
+title:  "Laying Plans"
+image:  "/covers/war.jpg"
+description: "The art of war is of vital importance to the State. It is a matter of life and death"
+heading:  "Chapter 1"
+---
 
 
 <!-- Translated by Lionel Giles -->

@@ -14,11 +14,11 @@ There are 5 categories of criminals:
 
 ## 1. Criminals by Nature
 
-A few people are born with a deranged mind, concealed within the defects of their body and glands. Such people can be divided into two:
+A few people are born with a deranged mind, concealed as the defects of their body and glands. Such people can be divided into 2:
 
 1. The mentally undeveloped 
 
-These are normally very quiet, but who are really bad
+These are normally very quiet, but who are really bad.
 <!--  in whom truthfulness and doing good to others are against their nature. -->
 
 They derive malevolent pleasure from lying and harming others.
