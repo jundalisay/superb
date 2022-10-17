@@ -1,14 +1,10 @@
 ---
 title: "Yogic Practices"
-heading: "Chapter 1 Book 2 of Yoga Sutras Simplified"
+heading: "Chapter 1"
 date: 2022-01-31
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"
-linkb: "/research/indian/yoga/book-2/"
-linkbtext: "Book 2"
-linkf: "/research/indian/yoga/book-2/chapter-02"
-linkftext: "Chapter 2"
 icon: "/flags/in.png"
 ---
 

@@ -1,10 +1,10 @@
 ---
+heading: "Chapter 10c"
 title: "The Saturn Line Defets Between 30-45"
-heading: "Chapter 10c of Part 2"
 date: 2021-11-20
 image: "/photos/objects/hand.jpg"
 description: "The Saturn line is frequently called the line of Fate."
-# icon: /flags/eu.png
+author: William Benham
 ---
 
 

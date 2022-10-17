@@ -1,16 +1,13 @@
 ---
 title: "Bondage to Sorrow"
-heading: "Chapter 1b Book 2 of Yoga Sutras Simplified"
-date: 2022-01-31
+heading: "Chapter 1b"
+date: 2022-01-28
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"
-linkb: "/research/indian/yoga/book-2/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/indian/yoga/book-2/chapter-02"
-linkftext: "Chapter 2"
 icon: "/flags/in.png"
 ---
+
 
 12. The burden of bondage to sorrow has its root in these hindrances. 
 

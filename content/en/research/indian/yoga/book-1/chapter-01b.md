@@ -1,46 +1,70 @@
 ---
-title: "Meditation with an object"
-heading: "Chapter 1b Book 1 of Yoga Sutras Simplified"
-date: 2022-01-31
+title: "The elements of sound intellection"
+heading: "Chapter 1b"
+date: 2022-01-30
 author: "Patanjali"
-description: ""
+description: "Unsound intellection is false understanding, not resting on a perception of the true nature of things"
 image: "/covers/yoga.jpg"
-linkb: "/research/indian/yoga/book-1/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/indian/yoga/book-1/chapter-02"
-linkftext: "Chapter 2"
 icon: "/flags/in.png"
 ---
 
 
-17. Meditation with an object follows these stages:
 
-1. exterior examining
-2. interior judicial action
-3. joy
-4. realization of individual being.
+{{< s v="7">}} The elements of sound intellection are:
 
-In the practice of meditation, a beginning may be made by fixing the attention upon some external object, such as a sacred image or picture, or a part of a book of devotion. In the second stage, one passes from the outer object to an inner pondering upon its lessons. The third stage is the inspiration, the heightening of the spiritual will, which results from this pondering. The fourth stage is the realization of one’s spiritual being, as enkindled by this meditation.
+- Direct observation: this is the outermost form of the Soul’s pure vision
+- Inductive reason: this rests on the great principles of continuity and correspondence, on the supreme truth that all life is of the One
+- Trustworthy testimony: this is the sharing of one soul in the wisdom of another, rests on the ultimate oneness of all souls
 
-18. After the exercise of the will has stilled the psychic activities, meditation rests only on the fruit of former meditations.
+Each of these is a spiritual power, thinly veiled. 
 
-In virtue of continued practice and effort, the need of an external object on which to rest the meditation is outgrown. An interior state of spiritual consciousness is reached, which is called “the cloud of things knowable” (Book IV, 29).
 
-19. Subjective consciousness arising from a natural cause is possessed by those who have laid aside their bodies and been absorbed into subjective nature.
 
-Those who have died, entered the paradise between births, are in a condition resembling meditation without an external object. But in the fullness of time, the seeds of desire in them will spring up, and they will be born again into this world.
+{{< s v="8" >}} Unsound intellection is false understanding, not resting on a perception of the true nature of things.
 
-20. For the others, there is spiritual consciousness, led up to by faith, valour, right mindfulness, one-pointedness, perception.
+When the object is not truly perceived, when the observation is inaccurate and faulty, thought or reasoning based on that mistaken perception is of necessity false and unsound.
 
-It is well to keep in mind these steps on the path to illumination: faith, valour, right mindfulness, one-pointedness, perception. Not one can be dispensed with; all must be won. First faith; and then from faith, valour; from valour, right mindfulness; from right mindfulness, a one-pointed aspiration toward the soul; from this, perception; and finally, full vision as the soul.
 
-21. Spiritual consciousness is nearest to those of keen, intense will.
+{{< s v="9">}} Predication is carried on through words or thoughts not resting on an object perceived.
 
-The image used is the swift impetus of the torrent; the kingdom must be taken by force. Firm will comes only through effort; effort is inspired by faith. The great secret is this: it is not enough to have intuitions; we must act on them; we must live them.
+The purpose of this Sutra is, to distinguish between the mental process of predication, and observation, induction or testimony. 
 
-22. The will may be weak, or of middle strength, or intense.
+Predication is the attribution of a quality or action to a subject, by adding to it a predicate. In the sentence, “the man is wise,” “the man” is the subject; “is wise” is the predicate. This may be simply an interplay of thoughts, without the presence of the object thought of; or the things thought of may be imaginary or unreal; while observation, induction and testimony always go back to an object.
 
-Therefore there is a spiritual consciousness higher than this. For those of weak will, there is this counsel: to be faithful in obedience, to live the life, and thus to strengthen the will to more perfect obedience. The will is not ours, but God’s, and we come into it only through obedience. As we enter into the spirit of God, we are permitted to share the power of God.
 
-Higher than the three stages of the way is the goal, the end of the way.
+{{< s v="10" >}} Sleep is the psychic condition which rests on mind states, all material things being absent.
+
+In waking life, we have two currents of perception; an outer current of physical things seen and heard and perceived; an inner current of mind-images and thoughts. The outer current ceases in sleep; the inner current continues, and watching the mind-images float before the field of consciousness, we “dream.” Even when there are no dreams, there is still a certain consciousness in sleep, so that, on waking, one says, “I have slept well,” or “I have slept badly.”
+
+
+{{< s v="11" >}} Memory is holding to mind-images of things perceived, without modifying them.
+
+Here, as before, the mental power is explained in terms of mind-images, which are the material of which the psychic world is built, Therefore the sages teach that the world of our perception, which is indeed a world of mind-images, is but the wraith or shadow of the real and everlasting world. 
+
+In this sense, memory is but the psychical inversion of the spiritual, ever-present vision. That which is ever before the spiritual eye of the Seer needs not to be remembered.
+
+
+{{< s v="12" >}} The control of these psychic activities comes through the right use of the will, and through ceasing from self-indulgence.
+
+If these psychical powers and energies, even such evil things as passion and hate and fear, are but spiritual powers fallen and perverted, how are we to bring about their release and restoration? Two means are presented to us: the awakening of the spiritual will, and the purification of mind and thought.
+
+
+{{< s v="13" >}} The right use of the will is the steady, effort to stand in spiritual being.
+
+We have thought of ourselves, perhaps, as creatures moving upon this earth, rather helpless, at the mercy of storm and hunger and our enemies. We are to think of ourselves as immortals, dwelling in the Light, encompassed and sustained by spiritual powers. 
+
+The steady effort to hold this thought will awaken dormant and unrealized powers, which will unveil to us the nearness of the Eternal.
+
+
+{{< s v="14" >}} This becomes a firm resting-place, when followed long, persistently, with earnestness.
+
+We must seek spiritual life in conformity with the laws of spiritual life, with earnestness, humility, gentle charity, which is an acknowledgment of the One Soul within us all. Only through obedience to that shared Life, through perpetual remembrance of our oneness with all Divine Being, our nothingness apart from Divine Being, can we enter our inheritance.
+
+15. Ceasing from self-indulgence is conscious mastery over the thirst for sensuous pleasure here or hereafter.
+
+Rightly understood, the desire for sensation is the desire of being, the distortion of the soul’s eternal life. The lust of sensual stimulus and excitation rests on the longing to feel one’s life keenly, to gain the sense of being really alive. This sense of true life comes only with the coming of the soul, and the soul comes only in silence, after self-indulgence has been courageously and loyally stilled, through reverence before the coming soul.
+
+16. The consummation of this is freedom from thirst for any mode of psychical activity, through the establishment of the spiritual man.
+
+In order to gain a true understanding of this teaching, study must be supplemented by devoted practice, faith by works. The reading of the words will not avail. There must be a real effort to stand as the Soul, a real ceasing from self-indulgence. With this awakening of the spiritual will, and purification, will come at once the growth of the spiritual man and our awakening consciousness as the spiritual man; and this, attained in even a small degree, will help us notably in our contest. To him that hath, shall be given.
 

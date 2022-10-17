@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 19 Part 1 "
+heading: "Chapter 19"
 title: "The Mount Of Jupiter"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 date: 2020-01-26

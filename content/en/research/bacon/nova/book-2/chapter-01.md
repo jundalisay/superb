@@ -5,6 +5,7 @@ date: 2022-01-31
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
+author: Francis Bacon
 ---
 
 

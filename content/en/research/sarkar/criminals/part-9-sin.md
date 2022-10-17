@@ -90,11 +90,28 @@ Any action that creates a very unwholesome reaction in one’s own body and mind
 
 So it is included in the list of eight Páshas or fetters of the mind. That which is inherent or intrinsic in the mind and expresses itself in the external world is called Ripu or enemy. 
 
-There are six Ripus – lust, anger, avarice, blind attachment, vanity and jealousy. That which originates in the external world and influences the mind is called Pasha. Thus Ripu is intro-external and Pasha is extro-internal.
 
-An intelligent or wise person should keep the Ripus under control and resist the Pashas. The ancient saints and sages did not prescribe any method for the resistance of the Ripus because the Ripus should be regulated. 
+## 6 Ripus
 
-If a Ripu is resisted or suppressed, then the suppressed Ripus finds expression through another Ripu. Suppose in a person the instinct of greed is very strong. 
+There are 6 Ripus:
+
+1. lust
+2. anger
+3. avarice
+4. blind attachment
+5. vanity
+6. jealousy
+
+"Pasha" is that which originates in the external world and influences the mind. Thus:
+- ripu is intro-external
+- pasha is extro-internal.
+
+An intelligent or wise person should keep the Ripus under control and resist the Pashas. 
+
+The ancient saints and sages did not prescribe any method to resist the Ripus because the Ripus should be regulated. 
+- **If a Ripu is resisted or suppressed, then the suppressed Ripus finds expression through another Ripu.** 
+
+Suppose in a person the instinct of greed is very strong. 
 
 He is compelled to keep this instinct under control, under pressure of poverty. If a person who habitually takes bribes is found not taking bribes due to the enforcement department, then that suppressed instinct of greed will manifest itself through anger or any other Ripu. 
 
@@ -102,15 +119,33 @@ That is, he will burst into violent anger.
 
 So, the psychological approach to the Ripus is to keep them under control and not allow them under any circumstances to go against a recognized code of social conduct. 
 
-Some persons may be very greedy for food. It is just possible that they may die prematurely due to over-eating or indulging in prohibited foods. Intelligent people will keep the instinct of greed under control in such a way that they avoid getting any disease. 
+Some persons may be very greedy for food.
+- They may die prematurely due to over-eating or indulging in prohibited foods. 
 
-Take the case of an alcoholic. Under the spell of liquor people become helpless victims to their habit. If their channelize their addiction into the ardent love of music, painting or any of the fine arts, the instinct of addiction will be gratified to some extent, and they will prevent any further harm to themselves.
+Intelligent people will keep the instinct of greed under control in such a way that they avoid getting any disease. 
 
-Regarding Pashas, the considered opinion of elevated sages in the past was that Pashas had to be resisted. To successfully combat the fear instinct, one has to march with rapid steps towards the source of fear and, if necessary, with the requisite physical and psychic weapons. 
+Take the case of an alcoholic. 
+- Under the spell of liquor people become helpless victims to their habit.
+- If their channelize their addiction into the ardent love of music, painting or any of the fine arts, the instinct of addiction will be gratified to some extent
+- They will prevent any further harm to themselves.
 
-If one hides inside behind locked doors, then the fear will become so entrenched in your mind that you will not be able to get it out of your mind. So it must be remembered that the Ripus have got to be controlled and the Pashas must be resisted. The way to get rid of the Pashas is to expand the mind – to elevate human potentialities.
 
-Páshabaddho bhavejjiivo páshamukto bhavecchivah. [“Those who are bound by the páshas are the veritable microcosms, and those who are free from the bondages of páshas are the veritable Shiva.”]
+## Pashas 
+
+Elevated sages in the past thought that Pashas had to be resisted. 
+
+To successfully combat the fear instinct, one has to march with rapid steps towards the source of fear and, if necessary, with the requisite physical and psychic weapons. 
+
+If one hides inside behind locked doors, then the fear will become so entrenched in your mind that you will not be able to get it out of your mind. 
+
+So:
+- the Ripus must be controlled
+- the Pashas must be resisted
+
+Pashas can be removed by expanding the mind – by elevating human potentialities.
+
+<!-- Páshabaddho bhavejjiivo páshamukto bhavecchivah. [“Those who are bound by the páshas are the veritable microcosms, and those who are free from the bondages of páshas are the veritable Shiva.”] -->
+
 
 23 March 1986, Calcutta
 

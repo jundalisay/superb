@@ -226,11 +226,12 @@ Suppose a cart is in an inconvenient place, blocking the road. The cart has to b
 
 ## Solutions
 
-1. The solution for the lack physical food is the guarantee of minimum requirements to everyone. 
+### 1. The solution for the lack physical food is the guarantee of minimum requirements to everyone. 
 
 If you do not supply people with the minimum requirements you will meet your Waterloo. If your neighbor’s house is on fire, your house will also catch fire. To supply the minimum requirements to everyone, both a strong administration and an intellectual approach are necessary. Those capable of providing these things to humanity will be called Sadvipras. In the absence of Sadvipras, society cannot survive.
 
-2. The solution to overaccumulation is an intellectual approach, intellectual propagation. 
+
+### 2. The solution to overaccumulation is an intellectual approach, intellectual propagation. 
 
 **Physical force will have to be utilized as per necessity.** 
 
@@ -243,7 +244,7 @@ Without Sadvipras the survival of society is not possible.
 We cannot allow this to continue.
 
 
-3. Strike the Stagnancy with a Hammer
+### 3. The solution to stagnancy is to strike it with a Hammer
 
 To solve this cause of sin, the intellectual approach does not work.
 
@@ -256,7 +257,7 @@ If Shri Ramadhara Singh says he must do like his father, does he become his fath
 <!-- Bhayáńáḿ bhayaḿ bhiiśańaḿ bhiiśańánáḿ
 Gatih prańináḿ pávanaḿ pávanánám. -->
 
-[He is the worst of the fierce – the fear of fear. He is the most terrible of all the terrible things. He is the supreme destination of all. He is the purest of all the purifying objects.]
+<!-- [He is the worst of the fierce – the fear of fear. He is the most terrible of all the terrible things. He is the supreme destination of all. He is the purest of all the purifying objects.] -->
 
 As dynamism is precious for the Jiivas or unit beings, so is Parama Puruśa or the Supreme Entity precious for them. 
 
