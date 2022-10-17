@@ -1,16 +1,12 @@
-+++
-title= "The Infinite Divisibility of the Others within the Illusion of the One"
-heading= "Chapter 13"
-# date= 2015-09-01
-date= 2021-12-18
-image= "/covers/parmenides.jpg"
-description= ""
-linkb= "/research/socrates/parmenides/chapter-12"
-linkbtext= "Chapter 12"
-linkf= "/research/socrates/parmenides/chapter-14"
-linkftext= "Chapter 14"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Infinite Divisibility of the Others within the Illusion of the One"
+heading: "Chapter 14"
+date: 2015-09-02
+image: "/covers/parmenides.jpg"
+description: "The Others become other than each Other, for the only remaining alternative is that they are other than nothing."
+icon: "/icons/soc.png"
+---
+
 
 
 ## 2.aa. If the One is an Illusion, what becomes of the Others?

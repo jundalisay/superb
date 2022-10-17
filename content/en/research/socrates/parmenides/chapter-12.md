@@ -1,16 +1,13 @@
-+++
-title= "Knowledge Arising From the Illusion"
-heading= "Chapter 12"
-# date= 2015-09-01
-date= 2021-12-20
-image= "/covers/parmenides.jpg"
-description= "The existence of the One not only creates the Whole and Others, but also the Illusion of separation to create the multiplicity"
-linkb= "/research/socrates/parmenides/chapter-11"
-linkbtext= "Chapter 11"
-linkf= "/research/socrates/parmenides/chapter-13"
-linkftext= "Chapter 13"
-icon= "/icons/soc.png"
-+++
+---
+title: "Knowledge Arising From the Illusion"
+heading: "Chapter 12"
+date: 2015-09-06
+image: "/covers/parmenides.jpg"
+description: "The existence of the One not only creates the Whole and Others, but also the Illusion of separation to create the multiplicity"
+icon: "/icons/soc.png"
+---
+
+
 
 > *Superphysics note: Here, Parmenides calls the Illusion as not
 

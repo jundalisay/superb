@@ -171,11 +171,13 @@ If each soul has 3 billion selves in a lifetime and there are 1 billion people o
 
 This is the idea behind [ISAIAH](https://pantrypoints.com/match) or the Impartial Spectator Automated Inteligence Aggregation Host which processes user data and compares it with a moral template to assist in making moral judgements in real time. With ISAIAH, the following moral decisions can be made:
 
-- help decide if a convict that was caught for homicide has fully changed his self or not. This prevents career criminals from being released back into society, and allows morally-renewed criminals to be released earlier
+- help decide if a convict that was caught for homicide has fully changed his self or not. This prevents career criminals from being released back into society, and allows morally-renewed criminals to be released earlier*
 - decide whether a corporation is too monopolistic and should be broken up because it is merely profiteering, or still needs to stay as a corporation to pool more resources for true research or capital investment
 - decide whether sanctions against a country should be lifted or not
 <!-- - It changes the direction of a spaceship traversing empty space  -->
 - ..and so on
 
+
+> *Update October 2022: This is part of our proposed Behavioral Prediction System (BPS) which will be one of the 'skills' of ISAIAH
 
 This is also the principle behind our proposed [Constitutional Virtues](/social/supersociology/solutions/constitutional-virtues) and annual [Confirmation Elections](/social/supersociology/solutions/confirmation-elections)

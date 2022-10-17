@@ -1,15 +1,13 @@
-+++
-title= "The Multiplicity of the Whole"
-heading= "Chapter 10"
-date= 2021-12-22
-image= "/covers/parmenides.jpg"
-description= "The One, as the Whole, multiplies Itself"
-linkb= "/research/socrates/parmenides/chapter-9"
-linkbtext= "Chapter 9"
-linkf= "/research/socrates/parmenides/chapter-11"
-linkftext= "Chapter 11"
-icon = "/icons/soc.png"
-+++
+---
+title: "The Multiplicity of the Whole"
+heading: "Chapter 10"
+date: 2015-09-10
+image: "/covers/parmenides.jpg"
+description: "The One, as the Whole, multiplies Itself"
+icon: "/icons/soc.png"
+---
+
+
 
 1.aa. 
 

@@ -1,16 +1,13 @@
-+++
-title= "The Absolute One"
-heading= "Chapter 1"
-# date= 2015-09-01
-date= 2021-12-19
-image= "/covers/parmenides.jpg"
-description= "Parmenides goes back to talk about the Absolute One"
-linkb= "/research/socrates/parmenides/chapter-11"
-linkbtext= "Chapter 11"
-linkf= "/research/socrates/parmenides/chapter-13"
-linkftext= "Chapter 13"
-icon= "/icons/soc.png"
-+++
+---
+title: "The Absolute One"
+heading: "Chapter 13"
+date: 2015-09-04
+image: "/covers/parmenides.jpg"
+description: "Parmenides goes back to talk about the Absolute One"
+icon: "/icons/soc.png"
+---
+
+
 
 ## 2.b. Let us go back to the beginning, and see the consequences that will follow.
 

@@ -1,17 +1,14 @@
-+++
-title= "The One is All and All are One"
-heading= "Chapter 14"
-# date= 2015-09-01
-date= 2021-12-17
-image= "/covers/parmenides.jpg"
-# image= /images/nirguna.png
-description= "The One is All and All are One"
-linkb= "/research/socrates/parmenides/chapter-13"
-linkbtext= "Chapter 13"
-linkf= "/research/socrates/parmenides"
-linkftext= "Index"
-icon = "/icons/soc.png"
-+++
+---
+title: "The One is All and All are One"
+heading: "Chapter 15"
+date: 2015-09-01
+image: "/covers/parmenides.jpg"
+description: "The Others become other than each Other, for the only remaining alternative is that they are other than nothing."
+author: Plato
+icon: "/icons/soc.png"
+---
+
+
 
 ## 2.bb. Once more, let us go back to the beginning, and ask if the one is not, and the others of the one are, what will follow.
 

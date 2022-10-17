@@ -1,16 +1,13 @@
-+++
-title= "The One is All"
-heading= "Chapter 11"
-date= 2021-12-21
-# date= 2015-09-01
-image= "/covers/parmenides.jpg"
-description= "The One is in everything that exists"
-linkb= "/research/socrates/parmenides/chapter-10"
-linkbtext= "Chapter 10"
-linkf= "/research/socrates/parmenides/chapter-12"
-linkftext= "Chapter 12"
-icon= "/icons/soc.png"
-+++
+---
+title: "The One is All"
+heading: "Chapter 11"
+date: 2015-09-08
+image: "/covers/parmenides.jpg"
+description: "The One is in everything that exists"
+icon: "/icons/soc.png"
+---
+
+
 
 1.bb. If the One exists, what must be the affections of the Others?
 

@@ -72,22 +72,24 @@ Independent of his dexterity, this cause alone always considerably reduces the a
 
 
 {{< s v="8" >}} 3. Proper machinery facilitates and abridges labour.
+- It is unnecessary to give any example.
 
-It is unnecessary to give any example.
-The invention of all those machines was caused by the division of labour.
-People are much more likely to discover easier methods of attaining any object, when their whole attention is directed towards that single object, than when it is dissipated among various things.
+The invention of all those machines was caused by the division of labour. People are much more likely to discover easier methods of attaining any object, when their whole attention is directed towards that single object, than when it is dissipated among various things.
 
 Because of the division of labour, a man's entire attention comes directed towards some very simple object.
 He naturally finds easier methods of performing his work.
+
 Many of the machines, used in those manufactures with the most division of labour, were originally the inventions of common workers.
-Those workers were employed in some very simple operation.
-They naturally thought to find out easier methods of performing it.
+- Those workers were employed in some very simple operation.
+- They naturally thought to find out easier methods of performing it.
 
 There are very pretty machines, which were invented by such workers in order to facilitate and quicken their own work.
 
 In the first steam engines, a boy was constantly employed to open and shut alternately the communication between the boiler and the cylinder, depending on the stroke of the piston.
+
 One of those boys loved to play with his companions.
-He observed that by tying a string from the handle of the valve which opened this communication, to another part of the machine, the valve would open and shut automatically, allowing him to be with his play-fellows.
+- He observed that by tying a string from the handle of the valve which opened this communication, to another part of the machine, the valve would open and shut automatically, allowing him to be with his play-fellows.
+
 One of the greatest improvements on this early machine was from that boy who wanted to save his own labour.
 
 

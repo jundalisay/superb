@@ -1,6 +1,6 @@
 ---
 title: "The Division of Labour"
-heading: "Chapter 1a of Book 1"
+heading: "Chapter 1a"
 date: 2020-01-31
 image: "/covers/wn.jpg"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"

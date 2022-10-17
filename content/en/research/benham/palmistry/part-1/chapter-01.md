@@ -10,7 +10,7 @@ image: "/photos/objects/hand.jpg"
 
 {{< quote >}}
 "Wisdom hath builded her house. She hath hewn out her seven pillars."
-<cite>Proverbs ix., I</cite>
+<cite>Proverbs 9, 1</cite>
 {{< /quote >}}
 
 
@@ -18,7 +18,7 @@ THE science of Palmistry is founded on the shape of the hand.
 
 The 7 mounts lie at the base of the fingers and along the sides of the hand. The proper estimation of the combination of these mounts can let us accurately delineate the character of person. 
 
-There are other separated elements which enter into and add to a proper understanding of the science, viz.=  
+There are other separated elements which enter into and add to a proper understanding of the science:  
 - how the hand is naturally carried and held when walking
 - texture of the skin
 - consistency of the hand
@@ -73,7 +73,7 @@ Each type was thus created for a specific sphere in life. It represents some ele
 
 These can be easily identified in everyone. 85% of these typical people are at their best in the same occupations. All have the same faults, the same virtues, like the same kind of surroundings, live, think, and act after the same plan in everything they do. This proves that the original method in creating humanity has not been changed.<!-- , but that the laws of creation are in operation to-day just as they were in the beginning.  -->
 
-Knowing these 7 types helps us distinguish them from each other as we meet them. This will help us at once know= 
+Knowing these 7 types helps us distinguish them from each other as we meet them. This will help us at once know: 
 - their characteristics
 - what their type has done through ages past
 - what the outcome of their life is likely to be, judged by those of the same type who have gone before

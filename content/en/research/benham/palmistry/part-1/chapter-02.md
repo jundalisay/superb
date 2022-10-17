@@ -1,19 +1,19 @@
 ---
 heading: "Chapter 2 Part 1 "
 title: "The Human Engine and the Life Current"
-description: "THE human body is the earthly tenement of the mind or soul. In its construction and operation is very like a mechanical engine"
+description: "The human body is the earthly tenement of the mind or soul. In its construction and operation is very like a mechanical engine"
 date: 2020-01-28
 image: "/photos/objects/hand.jpg"
 ---
 
 
 {{< quote >}}
-"Mankind are earthen jugs with spirits in them."
+<p>Mankind are earthen jugs with spirits in them.</p>
 <cite>Hawthorne</cite>
 {{< /quote >}}
 
 
-THE human body is the earthly tenement of the mind or soul. In its construction and operation is very like a mechanical engine. 
+The human body is the earthly tenement of the mind or soul. In its construction and operation is very like a mechanical engine. 
 
 Every mechanical engine is built upon the plan that will best enable it to do the kind of work it is intended to perform ; some are so small that their mission is to become the interior works of a watch; some are built to propel a locomotive at high speed, and others to furnish power to some gigantic manufacturing establishment. 
 
