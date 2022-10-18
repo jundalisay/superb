@@ -1,7 +1,8 @@
-+++
-title=  "Inherent Morality as Virtue"
-description=  "This part is the foundation of personal morals of Superphysics as conscience and the Deity"
-date=  "2015-09-21"
-image=  "/covers/tms.jpg"
-# image=  /photos/heart.jpg
-+++
+---
+heading: "Part 6"
+title: "Inherent Morality as Virtue"
+linkTitle: Part 6
+description: "Part 6 of the Simplified Theory of Moral Sentiments by Adam Smith"
+image: /covers/tms.jpg
+date: 2022-04-20
+---

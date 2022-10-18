@@ -1,14 +1,10 @@
-+++
-title=  "The Principle of Self-approbation"
-heading=  "Chapter 1"
-description=  "Private Morals are based on the sympathy of the Deity on us, through a natural construct called the conscience or an artificial construct called the impartial spectator which is our projection of our ideal self"
-date=  2015-09-30
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-2/section-3/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/theory-moral-sentiments/part-3/chapter-2a"
-linkftext=  "Chapter 2a"
-+++
+---
+title: "The Principle of Self-approbation"
+heading: "Chapter 1"
+description: "Private Morals are based on the sympathy of the Deity on us, through a natural construct called the conscience or an artificial construct called the impartial spectator which is our projection of our ideal self"
+date: 2015-09-30
+image: "/covers/tms.jpg"
+---
 
 
 ## Introduction

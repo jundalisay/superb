@@ -1,15 +1,12 @@
+---
+heading: "Section 4"
+title: "Breaches of Moral Rules"
+linkTitle: Section 4
+description: "There were three kinds of breaches of moral duty which came before the confessor's tribunal"
+image: /covers/tms.jpg
+date: 2022-04-24
+---
 
-+++
-title=  "Breaches of Moral Rules"
-heading=  "Section 4"
-description=  "there were three kinds of breaches of moral duty which came before the confessor's tribunal"
-date=  2015-10-20
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-7/section-3/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/theory-moral-sentiments"
-linkftext=  "TMS"
-+++
 
 19 Therefore, there were three kinds of breaches of moral duty which came before the confessor's tribunal, and fell under the casuists' awareness.
 

@@ -1,16 +1,8 @@
-
-
-
-
-
-
-
-
-+++
-title=  "Direct Sympathy as Gratitude and Resentment"
-heading=  "Section 1"
-description=  "Section 1 of Part 2 of the Simplified Theory of Moral Sentiments by Adam Smith"
-author=  "Adam Smith"
-image=  "/covers/tms.jpg"
-# image=  "/photos/handshake.jpg"
-+++
+---
+heading: "Section 1"
+title: "Direct Sympathy as Gratitude and Resentment"
+linkTitle: Section 1
+description: "Section 1 of Part 2 of The Theory of Moral Sentiments by Adam Smith Simplified"
+image: /covers/tms.jpg
+date: 2022-04-30
+---

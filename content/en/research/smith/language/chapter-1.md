@@ -1,6 +1,3 @@
-
-
-
 +++
 title=  "Nouns and Adjectives"
 heading=  "Chapter 1 of Adam Smith's Essays"

@@ -1,8 +1,9 @@
+---
+heading: "Section 3"
+title: "Moral Systems based o the Principle of Approbation"
+linkTitle: Section 3
+description: "The three bases are ego, reason, and feelings"
+image: /covers/tms.jpg
+date: 2022-04-26
+---
 
-+++
-title=  "Moral Systems based o the Principle of Approbation"
-description=  "The three bases are ego, reason, and feelings"
-date=  "2015-09-21"
-image=  "/covers/tms.jpg"
-# heading=  Section 3
-+++

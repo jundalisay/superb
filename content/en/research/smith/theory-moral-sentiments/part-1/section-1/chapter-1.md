@@ -1,14 +1,12 @@
-+++
-title=  "Sympathy"
-heading=  "Chapter 1"
-description=  "The Source of our Compassion is our conception of the pain of others"
-date=  2015-10-30
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments"
-linkbtext=  "Index"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-1/chapter-2"
-linkftext=  "Chapter 2"
-+++
+---
+title: "Sympathy"
+heading: "Chapter 1"
+description: "The Source of our Compassion is our conception of the pain of others"
+date: 2015-09-30
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
+
 
 ## Compassion
 
@@ -35,9 +33,9 @@ His agonies finally begin to affect us when they are brought to ourselves and ma
 Pain or distress excites the most excessive sorrow. To imagine pain or distress excites sorrow proportional to the intensity of the pain or distress imagined.
 
 
-### The Source of our Compassion is our conception of the pain of others
+## The Source of our Compassion is our conception of the pain of others
 
-3 This is the source of our fellow-feeling for the misery of others. We are affected by what he feels by changing places with the sufferer, in imagination.
+{{< s v="3" >}} This is the source of our fellow-feeling for the misery of others. We are affected by what he feels by changing places with the sufferer, in imagination.
 - When we see a stroke aimed on the leg of another person, we naturally draw back our own leg.
   - When it falls, we feel hurt by it.
 - When a crowd gazes at a dancer on the slack rope, they naturally writhe and twist their own bodies, as they see him do.
@@ -53,18 +51,20 @@ The force of this conception is enough to produce that itching or uneasy sensati
 
 Strong men feel soreness in their own eyes in looking on the sore eyes of others. It comes from the same reason -- the eyes are more delicate in the strongest man.
 
-### Fellow-feeling, as sympathy, drives this conception into Compassion
 
-4 Circumstances that create pain or sorrow are not the only ones that call forth our fellow-feeling. A feeling springs up in us that is analogous to whatever feeling arises in the observed person.
+## Fellow-feeling, as sympathy, drives this conception into Compassion
+
+{{< s v="4" >}} Circumstances that create pain or sorrow are not the only ones that call forth our fellow-feeling. A feeling springs up in us that is analogous to whatever feeling arises in the observed person.
 - Our joy for the deliverance of heroes is as sincere as our grief for their distress.
 - Our fellow-feeling with their misery is as real as our fellow-feeling with their happiness.
         We enter into their gratitude towards their faithful friends.
         We heartily resent those traitors who injured, abandoned, or deceived them.
     In every emotion, the bystander's feelings always correspond to what he imagines would be the sufferer's feelings.
 
-5 Pity and compassion signify our fellow-feeling with the sorrow of others. The meaning of sympathy was perhaps originally the same with pity. It may now denote our fellow-feeling with any passion.
 
-6 Sometimes, sympathy may arise merely from seeing another person's emotions. Sometimes, the feelings seem to be transfused from one man to another, instantaneously and without knowing what excited them. For example, when grief and joy are strongly expressed in anyone, the other people are instantly affected with a similar emotion.
+{{< s v="5" >}} Pity and compassion signify our fellow-feeling with the sorrow of others. The meaning of sympathy was perhaps originally the same with pity. It may now denote our fellow-feeling with any passion.
+
+{{< s v="6" >}} Sometimes, sympathy may arise merely from seeing another person's emotions. Sometimes, the feelings seem to be transfused from one man to another, instantaneously and without knowing what excited them. For example, when grief and joy are strongly expressed in anyone, the other people are instantly affected with a similar emotion.
 
 7 However, this is not universal with every feeling. There are some feelings which excite no sympathy. We are disgusted at them even before we know what caused them.
 

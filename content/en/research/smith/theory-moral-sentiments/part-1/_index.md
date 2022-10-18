@@ -1,11 +1,11 @@
-+++
-title=  "The Morality of the Action of Others"
-heading=  "Part 1"
-date=  2015-10-30
-image=  "/covers/tms.jpg"
-description=  "The Theory of Moral Sentiments is the basis for Aethereal Relativity of Human Feelings, which is a principles of Social Superphysics"
-# image=  "/covers/lectures.jpg"
-+++
+---
+heading: "Part 1"
+title: "The Morality of the Action of Others"
+linkTitle: Part 1
+description: "The Theory of Moral Sentiments is the basis for Aethereal Relativity of Human Feelings, which is a principles of Social Superphysics"
+image: /covers/tms.jpg
+date: 2022-04-30
+---
 
 <!-- The Propriety Of Actions -->
 <!-- Advertisement

@@ -1,9 +1,8 @@
-
-
-+++
-title=  "The Influence of Material Objects on Morality as Utility"
-description=  "Part 4 of the Simplified Theory of Moral Sentiments by Adam Smith"
-heading=  "Part 4"
-date=  "2015-09-01"
-image=  "/covers/tms.jpg"
-+++
+---
+heading: "Part 4"
+title: "The Influence of Material Objects on Morality as Utility"
+linkTitle: Part 4
+description: "Part 4 of the Simplified Theory of Moral Sentiments by Adam Smith"
+image: /covers/tms.jpg
+date: 2022-04-24
+---

@@ -1,5 +1,15 @@
+---
+title: "How we judge the feelings of others"
+heading: "Chapter 2"
+description: "The Pleasure from Mutual Sympathy is not based on Self-Love, but from the similarity of the resonance of feelings"
+date: 2015-09-28
+image: "/covers/tms.jpg"
+author: "Adam Smith"
+icon: /icons/smith.png
+---
+
 +++
-title=  "How we judge the feelings of others"
+title=  ""
 heading=  "Chapter 3"
 description=  "Our own feelings is the measure or decider of our sympathy or non-sympathy with the feelings of others"
 date=  2015-10-28

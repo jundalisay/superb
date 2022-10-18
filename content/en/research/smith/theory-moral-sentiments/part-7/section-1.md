@@ -1,14 +1,12 @@
-+++
-title=  "The Questions in a Theory of Moral Sentiments"
-heading=  "Part 7 Section 1"
-description=  "Almost all of the remarkable theories on the nature of our moral feelings are partly correct and partly wrong due to their imperfect view of nature"
-date=  2015-09-01
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-6/section-4"
-linkbtext=  "section 4"
-linkf=  "/research/smith/theory-moral-sentiments/part-7/section-2/chapter-1a"
-linkftext=  "Section 2"
-+++
+---
+heading: "Section 1"
+title: "The Questions in a Theory of Moral Sentiments"
+linkTitle: Section 1
+description: "Almost all of the remarkable theories on the nature of our moral feelings are partly correct and partly wrong due to their imperfect view of nature"
+image: /covers/tms.jpg
+date: 2022-04-30
+---
+
 
 
 {{< s v="1" >}} Almost all of the remarkable theories on the nature of our moral feelings are partly correct and partly wrong due to their imperfect view of nature.
@@ -19,8 +17,7 @@ They are all in some measure in the right.
 But many of them are derived from an .
 So many of them are also in the wrong. -->
 
-
-2 There are two questions regarding moral principles= 
+{{< s v="2" >}} There are two questions regarding moral principles:
 
 1. What is their definition of virtue?
 2. What is the conduct that makes up the praise-worthy character?

@@ -5,10 +5,6 @@ description: "Our Sympathy with the Sorrow of Others is Stronger than Our Sympat
 date: 2022-01-27
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-linkb:  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-5"
-linkbtext:  "Chapter 5"
-linkf:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-2"
-linkftext:  "Chapter 2"
 icon: /icons/smith.png
 ---
 

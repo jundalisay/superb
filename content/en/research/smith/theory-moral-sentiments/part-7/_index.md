@@ -1,12 +1,8 @@
-
-
-
-
-+++
-title=  "Moral Systems"
-heading=  "Part 7"
-description=  "Adam Smith explains the different systems of moral philosophy"
-date=  "2015-09-01"
-image=  "/covers/tms.jpg"
-# image=  /photos/vanity.jpg
-+++
+---
+heading: "Part 7"
+title: "Moral Systems"
+linkTitle: Part 7
+description: "Part 7 of the Simplified Theory of Moral Sentiments by Adam Smith"
+image: /covers/tms.jpg
+date: 2022-04-18
+---

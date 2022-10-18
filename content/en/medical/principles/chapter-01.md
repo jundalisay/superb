@@ -23,7 +23,8 @@ In Book 1 of *A Treatise of Human Nature*, David Hume laid out his principle of 
 
 According to him, 'identity' is a perception of something that is separate from another perception. For example, the identity of a car's tire is a separate identity from the car because our minds can perceive them as separately existing. 
 
-![Tire inflation](https://sorasystem.sirv.com/photos/tire.jpg)
+{{< img src="https://sorasystem.sirv.com/photos/tire.jpg" alt="Tire" >}}
+
 
 If our minds cannot separate them, then their identity is one. An example is the balloon of a hot air balloon which cannot be separated without destroying its vehicle's identity.
 

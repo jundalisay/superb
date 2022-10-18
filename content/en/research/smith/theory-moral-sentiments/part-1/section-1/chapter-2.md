@@ -1,19 +1,17 @@
-+++
-title=  "The Pleasure of Mutual Sympathy"
-heading=  "Chapter 2"
-description=  "The Pleasure from Mutual Sympathy is not based on Self-Love, but from the similarity of the resonance of feelings"
-date=  2015-10-28
-image=  "/covers/tms.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/jealous2.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-1/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-1/chapter-3"
-linkftext=  "Chapter 3"
-+++
+---
+title: "The Pleasure of Mutual Sympathy"
+heading: "Chapter 2"
+description: "The Pleasure from Mutual Sympathy is not based on Self-Love, but from the similarity of the resonance of feelings"
+date: 2015-09-28
+image: "/covers/tms.jpg"
+author: "Adam Smith"
+icon: /icons/smith.png
+---
 
-### The Pleasure from Mutual Sympathy is not based on Self-Love, but from the similarity of the resonance of feelings
 
-14 Regardless of the cause of sympathy, we are most pleased when other people have a fellow-feeling with our own emotions. We are shocked by the opposite. 
+## The Pleasure from Mutual Sympathy is not based on Self-Love, but from the similarity of the resonance of feelings
+
+{{< s v="14" >}} Regardless of the cause of sympathy, we are most pleased when other people have a fellow-feeling with our own emotions. We are shocked by the opposite. 
 
 Some people say that all our feelings arise from self-love. They think= 
 - that our pleasure and pain from fellow-feeling come from self love

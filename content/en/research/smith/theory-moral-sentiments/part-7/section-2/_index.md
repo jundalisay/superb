@@ -1,14 +1,8 @@
-
-
-
-
-
-
-+++
-title=  "Different Accounts which have been given of the Nature of Virtue"
-description=  "Different Philosophers have given different Accounts of the Nature of Virtue"
-date=  "2015-09-21"
-image=  "/covers/tms.jpg"
-# heading=  Section 2
-# image=  "/photos/idea.jpg"
-+++
+---
+heading: "Section 2"
+title: "Different Accounts which have been given of the Nature of Virtue"
+linkTitle: Section 2
+description: "Different Philosophers have given different Accounts of the Nature of Virtue"
+image: /covers/tms.jpg
+date: 2022-04-28
+---
