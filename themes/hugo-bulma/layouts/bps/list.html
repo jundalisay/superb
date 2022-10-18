@@ -77,7 +77,7 @@
             <div class="column is-6-desktop is-12-touch h">          
               Birthday
               <div class="control is-expanded has-icons-left">
-                <input class="input" name="email[phone]" id="bday">
+                <input class="input " type="date" name="email[phone]" id="bday">
                 <span class="icon is-left">                
                   <svg fill='gray' class='p-2' viewBox='0 0 448 512'><path d='M448 384c-28.02 0-31.26-32-74.5-32-43.43 0-46.825 32-74.75 32-27.695 0-31.454-32-74.75-32-42.842 0-47.218 32-74.5 32-28.148 0-31.202-32-74.75-32-43.547 0-46.653 32-74.75 32v-80c0-26.5 21.5-48 48-48h16V112h64v144h64V112h64v144h64V112h64v144h16c26.5 0 48 21.5 48 48v80zm0 128H0v-96c43.356 0 46.767-32 74.75-32 27.951 0 31.253 32 74.75 32 42.843 0 47.217-32 74.5-32 28.148 0 31.201 32 74.75 32 43.357 0 46.767-32 74.75-32 27.488 0 31.252 32 74.5 32v96zM96 96c-17.75 0-32-14.25-32-32 0-31 32-23 32-64 12 0 32 29.5 32 56s-14.25 40-32 40zm128 0c-17.75 0-32-14.25-32-32 0-31 32-23 32-64 12 0 32 29.5 32 56s-14.25 40-32 40zm128 0c-17.75 0-32-14.25-32-32 0-31 32-23 32-64 12 0 32 29.5 32 56s-14.25 40-32 40z'/></svg>
                 </span>
@@ -86,19 +86,31 @@
             <div class="column is-6-desktop is-12-touch h">          
               Left Handed or Right Handed?
               <div class="control is-expanded has-icons-left">
-                <input class="input" name="email[country]" id="hand">
+                <div class="select is-fullwidth" name="email[country]" id="hand">
+                  <select>
+                    <option>Left-handed</option>
+                    <option>Right-handed</option>
+                  </select>
+                </div>                     
+<!--                 <input class="input" name="email[country]" id="hand">
                 <span class="icon is-left">
                 <svg fill='gray' class='p-2'  viewBox='0 0 640 512'><path d='M204.8 230.4c-10.6-14.1-30.7-17-44.8-6.4-14.1 10.6-17 30.7-6.4 44.8l38.1 50.8c4.8 6.4 4.1 15.3-1.5 20.9l-12.8 12.8c-6.7 6.7-17.6 6.2-23.6-1.1L64 244.4V96c0-17.7-14.3-32-32-32S0 78.3 0 96v218.4c0 10.9 3.7 21.5 10.5 30l104.1 134.3c5 6.5 8.4 13.9 10.4 21.7 1.8 6.9 8.1 11.6 15.3 11.6H272c8.8 0 16-7.2 16-16V384c0-27.7-9-54.6-25.6-76.8l-57.6-76.8zM608 64c-17.7 0-32 14.3-32 32v148.4l-89.8 107.8c-6 7.2-17 7.7-23.6 1.1l-12.8-12.8c-5.6-5.6-6.3-14.5-1.5-20.9l38.1-50.8c10.6-14.1 7.7-34.2-6.4-44.8-14.1-10.6-34.2-7.7-44.8 6.4l-57.6 76.8C361 329.4 352 356.3 352 384v112c0 8.8 7.2 16 16 16h131.7c7.1 0 13.5-4.7 15.3-11.6 2-7.8 5.4-15.2 10.4-21.7l104.1-134.3c6.8-8.5 10.5-19.1 10.5-30V96c0-17.7-14.3-32-32-32z'/></svg>                
-                </span>
+                </span> -->
               </div>          
             </div>
             <div class="column is-6-desktop is-12-touch h">          
               Male or Female?
               <div class="control is-expanded has-icons-left">
-                <input class="input" name="email[city]" id="gender">
+                <div class="select is-fullwidth" name="email[city]" id="gender">
+                  <select>
+                    <option>Male</option>
+                    <option>Female</option>
+                  </select>
+                </div>                
+<!--                 <input class="input" name="email[city]" id="gender">
                 <span class="icon is-left">
                   <svg fill='gray' class='p-2'  viewBox='0 0 288 512'><path d='M144 176c44.1 0 80 35.9 80 80s-35.9 80-80 80-80-35.9-80-80 35.9-80 80-80m0-64C64.5 112 0 176.5 0 256s64.5 144 144 144 144-64.5 144-144-64.5-144-144-144z'/></svg>            
-                </span>
+                </span> -->
               </div>          
             </div>                               
             <div class="column is-12-desktop is-12-touch">
