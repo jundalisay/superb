@@ -67,7 +67,7 @@ This visualization of ideas and feelings will then prove our proposed Law of Con
 
 In order to maximize our experience of existence, it would best to have both sensors running at 100%, as much as possible. This means they should not just be passively sensing, but also **actively sensing**. 
 
-This active sensing is the foundation of critical thinking (as intellect), as well as [critical feeling](/superphysics/critical-feeling) (as kindness and fellow-feeling). 
+This active sensing is the foundation of critical thinking (as intellect), as well as [critical feeling](/superphysics/principles/chapter-06b) (as kindness and fellow-feeling). 
 
 Currently, the educational systems in most countries mostly focus on intellect and is very deficient in fellow-feeling. This is proven by the prevalence of racism, terrorism, poverty & inequality, materialism, environmental destruction, etc. 
 

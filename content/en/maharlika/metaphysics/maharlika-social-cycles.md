@@ -182,7 +182,7 @@ If we equate social-age to human-age, then we can say the country is in its earl
 
 This system of getting a society's metaphysical age is totally data-driven and has uses in prediction and policy-making in order to make laws that are in harmony with the dominant mentality of the people. 
 
-In the ancient past, prophets used their **intuition** to make such predictions and give advice to kings. Instead of getting data from physical events which are manifestations of metaphysical feelings, they tapped into the feelings of society directly, as their [collective wave of desire](/social/supersociology/principles/collective-wave-of-desire). 
+In the ancient past, prophets used their **intuition** to make such predictions and give advice to kings. Instead of getting data from physical events which are manifestations of metaphysical feelings, they tapped into the feelings of society directly, as their [collective wave of desire](/social/economics/principles/intro/chapter-01). 
 
 The problem with the intuitional method is that feelings can be supressed as to not manifest in the physical dimension. For example, you could suppress your hunger so that no one will know that you are hungry. The doctor will then be unable to know of your hunger condition. 
 

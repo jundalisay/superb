@@ -12,6 +12,7 @@ aliases:
   /posts/social/what-is-common-interest
   /articles/supersociology/what-is-common-interest
   /supersociology/common-interest/
+  /social/supersociology/principles/common-interest
 ---
 
 

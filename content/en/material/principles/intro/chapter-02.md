@@ -135,7 +135,7 @@ In this way, the resulting equation E = Gl called [the Eagle](/social/economics/
 Next, we replace `c` or the constant speed of light with `s` as the spatial speed limit* of the universe so that E :: ms{{< s v="2" >}}. In this way, gravitational waves travel within this spatial speed limit, instead of traveling at the speed of light. This is to switch gravitation from being subordinate to photons, to being superior to it, in accordance with our 5-layer model.
 
 For the active version, we:
-- convert the stress-energy tensor into the [Kepler Tensor](/material/principles/kepler-tensor) `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)
+- convert the stress-energy tensor into the [Kepler Tensor](/material/principles/intro/chapter-05) `G1` following Kepler's laws (as well as those of Socrates, Hume, Adam Smith, Ibn-Khaldun, Spinoza)
 - convert the Einstein tensor as a ratio or relativity `:` of the identity in question to another identity 
 - convert the constants into the limiter `s` as the limits of physical space
 - remove light `c` which makes the cosmological constant `Λ` unnecessary 
@@ -205,7 +205,7 @@ Likewise, to avoid having to laboriously find the gravitational field or the dha
 
 
 {{< quote ava="einbla" >}}
-But we only demand that ‘simultaniety’ supply us with an empirical decision.
+<p>But we only demand that ‘simultaniety’ supply us with an empirical decision.</p>
 <cite>Einstein, Relativity, Section 8</cite>
 {{< /quote >}}
 
@@ -213,13 +213,13 @@ But we only demand that ‘simultaniety’ supply us with an empirical decision.
 The result is that their theories are not universal and will fall apart once new perceptions about the universe are obtained. It would be like setting minimum wage permanently at $10/hour hoping that it would magically keep up with inflation.
 <!--  It would work for some years, until it would need to be overturned as the mind upgrades its perceptions. -->
 
-<br>
+
 
 ### Why General Relativity Holds
 
 Einstein's general relativity only holds because the simultaniety of time is rooted in the perception action. This action is based on the generation of the idea (or feeling) to start perceiving. 
 
-The speed of the generation or perception of ideas (or feelings) holds a ratio to the speed of the generation or perception of gravitational signatures or the speed of creating discrete things within the universe (since [everything is an idea](/superphysics/principles/intro/chapter-02/). **The speed limit of the universe, whether it be on photons or gravitational waves, is totally dependent on the speed of this generation or perception.** This perception is dictated by the aether, which is the material of the mind and the medium of spacetime. 
+The speed of the generation or perception of ideas (or feelings) holds a ratio to the speed of the generation or perception of gravitational signatures or the speed of creating discrete things within the universe (since [everything is an idea](/superphysics/principles/chapter-02/). **The speed limit of the universe, whether it be on photons or gravitational waves, is totally dependent on the speed of this generation or perception.** This perception is dictated by the aether, which is the material of the mind and the medium of spacetime. 
 
 From here we can assert, in line with Socrates, that the speed of light is not constant. Rather it is slowly increasing, proportional to the accelerated expansion of spacetime, the more the universe interacts with itself and creates discrete new entities as a result of the interactions. 
 
@@ -266,7 +266,7 @@ This is why we can make a conjecture that Einstein actually stifled science by l
 Instead of using expensive detectors, we use Socrates to solve the problems with General Relativity:
 - The expansion of space is caused by gravitational signatures of galaxies repelling each other, not by [dark energy](https://www.futurity.org/dark-energy-dark-matter-universe-expansion-2543202-2/)
 - Gravitational lensing is caused by the gravitational signature of the intervening galaxy
-- Galaxies are held together by the gravitational signature in their center as [supermassive galactic qosts](/material/principles/part-02/chapter-02), not by dark matter. This implies that there is more than one kind of gravity*, each with two subtypes, a superior and a junior. 
+- Galaxies are held together by the gravitational signature in their center as [supermassive galactic qosts](/material/principles/part-2/chapter-02), not by dark matter. This implies that there is more than one kind of gravity*, each with two subtypes, a superior and a junior. 
 
 
 > *Material Superphysics asserts that there are five kinds of gravity, four of which have been discovered by Physics as the four fundamental forces

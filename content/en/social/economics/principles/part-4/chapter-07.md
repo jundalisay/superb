@@ -99,7 +99,8 @@ These give us ratios that describe the socio-economic nature of the society in q
 
 
 {{< q a="smith" >}}
-In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere and the liberal or loose system. The austere is generally admired and revered by the common people. The loose is commonly more esteemed and adopted by people of fashion. The vices of levity is apt to arise from great prosperity. It leads to the excess of gaiety and good humour.
+<p>In every civilized society which has the distinction of ranks, there were always two systems of morality: the strict or austere and the liberal or loose system. The austere is generally admired and revered by the common people. The loose is commonly more esteemed and adopted by people of fashion. The vices of levity is apt to arise from great prosperity. It leads to the excess of gaiety and good humour.</p>
+<cite>The Wealth of Nations, Book 5, Chapter 1</cite>
 {{< /q >}}
 
 
@@ -109,6 +110,6 @@ You can think of DCTI as a bunch of detectors that help give a complete picture 
 Factor | Physics equivalent | Pantrynomic system | Remarks
 --- | --- | --- | ---
 Demand | Higgs Field | [First Law of Value](/social/economics/principles/part-1/chapter-01/): Basic Universal Revenue and the Grain Index as store of value | Basis of economic justice which is lacking in both Capitalism and Communism
-Capital | Gravitation | [Second Law of Value](/social/economics/principles/part-2/chapter-0/): Effort Theory of Value ISAIAH Match Leads to economic democracy and maximized non-commercial potential | We gravitate towards certain interests based on our dharma
+Capital | Gravitation | [Second Law of Value](/social/economics/principles/part-2/chapter-01/): Effort Theory of Value ISAIAH Match Leads to economic democracy and maximized non-commercial potential | We gravitate towards certain interests based on our dharma
 Trade | Electroweak | [Third Law of Value](/social/economics/principles/part-3/chapter-01/): Exchange systems with maintenance cost | Regulates merchants as the opposite of Mercantilism
 Industry | Strong Layer | [Fourth Law of Value](/social/economics/principles/part-4/chapter-01/): Real Price via the Economic Table | Economic balance or stasis that is lacking in Capitalism
