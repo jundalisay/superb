@@ -1,15 +1,14 @@
-+++
-title=  "Servitudes"
-heading=  "Chapter 6 Part 1 Section 3"
-description=  "The second kind of real rights is servitudes. These are burdens which one man has on another person's property. These rights were at first personal"
-date=  2015-09-24
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-7"
-linkftext=  "Chapter 7"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 6
+title: "Servitudes"
+date: 2015-09-18
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The second kind of real rights is servitudes. These are burdens which one man has on another person's property. These rights were at first personal"
+---
+
+
 
 The second kind of real rights is servitudes. These are burdens which one man has on another person's property. These rights were at first personal.
 
@@ -23,17 +22,18 @@ If the land has gone through several hands, this would be very tedious.
 
 To remedy this, the law made servitudes real rights, demandable a *quocumque possessore*.
 
-Servitudes were= 
+Servitudes were:
 
-> 1. rusticae
+> 1. Rusticae
         
-Examples are= 
+Examples are: 
 - the right of a road to the town or river
 - feeding so many cows on another man’s pasture grounds
     
-> 2. urbanae
+
+> 2. Urbanae
         
-Examples are= 
+Examples are: 
 - the right of leaning the beams of my house on your gable,
 - the right of obliging the owner of the lower floors to make his wall strong enough to support mine, etc.
 

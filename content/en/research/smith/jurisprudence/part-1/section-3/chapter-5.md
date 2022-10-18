@@ -1,15 +1,14 @@
-+++
-title=  "Fifth way of acquiring Property=  Voluntary Transference"
-heading=  "Chapter 5 Part 1 Section 3"
-description=  "Two things are required in voluntary transference a declaration of the intention of the transferer, and of the transferee, the actual delivery of the thing"
-date=  2015-09-25
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-4b"
-linkbtext=  "Chapter 4b"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-6"
-linkftext=  "Chapter 6"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 5
+title: "Fifth way of acquiring Property: Voluntary Transference"
+date: 2015-09-20
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Two things are required in voluntary transference a declaration of the intention of the transferer, and of the transferee, the actual delivery of the thing"
+---
+
+
 
 Two things are required in voluntary transference= 
 
@@ -23,6 +22,7 @@ If a man borrowed a thing and afterwards bought it, there is no need of delivery
 Before possession you can have no right to the thing, though you may have a right to make the man keep his promise.
 
 If I buy a horse from a man, and before delivery to me he sells it to a third person, I can only demand the horse from the person who sold it.
+
 But if it has been delivered, I can claim it from the buyet.
 
 Property therefore cannot be transferred without tradition or delivery.

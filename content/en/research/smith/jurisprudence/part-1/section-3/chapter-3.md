@@ -1,22 +1,20 @@
-+++
-title=  "Third way of acquiring Property=  Prescription"
-heading=  "Chapter 3 of Part 1 Section 3"
-description=  "Prescription is founded on the supposed attachment of the possessor to what he has possessed for a long time, and the supposed detachment of the old possessor to what he no longer has possessed for a long time"
-date=  2015-09-28
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-4"
-linkftext=  "Chapter 4"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 3
+title: "Third way of acquiring Property: Prescription"
+date: 2015-09-26
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Prescription is founded on the supposed attachment of the possessor to what he has possessed for a long time, and the supposed detachment of the old possessor to what he no longer has possessed for a long time"
+---
 
 
-Prescription is founded on= 
+
+Prescription is founded on:
 - the supposed attachment of the possessor to what he has possessed for a long time, and
 - the supposed detachment of the old possessor to what he no longer has possessed for a long time.
 
-There are four things needed for a right by prescription= 
+There are 4 things needed for a right by prescription:
 
 > 1. Bona fides
 

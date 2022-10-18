@@ -1,15 +1,15 @@
-+++
-title=  "Obligation of Contracts"
-heading=  "Chapter 9 Part 1 Section 3"
-description=  "The obligation of contract is based on the reasonable expectation from a promise. A promise is a declaration that you want the promisee to depend on you to perform it"
-date=  2015-09-21
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-8"
-linkbtext=  "Chapter 8"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-10"
-linkftext=  "Chapter 10"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 9
+title: "Obligation of Contracts"
+date: 2015-09-10
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The obligation of contract is based on the reasonable expectation from a promise. A promise is a declaration that you want the promisee to depend on you to perform it"
+---
+
+
+
 
 
 The obligation of contract is based on the reasonable expectation from a promise. 

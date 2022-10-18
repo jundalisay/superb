@@ -1,15 +1,13 @@
-+++
-title=  "Exclusive Privileges"
-heading=  "Chapter 8 Part 1 Section 3"
-description=  "Exclusive privileges raise prices and reduce quality of goods and services"
-date=  2015-09-22
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-7"
-linkbtext=  "Chapter 7"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-9"
-linkftext=  "Chapter 9"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 8
+title: "Exclusive Privileges"
+date: 2015-09-16
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Exclusive privileges raise prices and reduce quality of goods and services"
+---
+
 
 
 Exclusive privileges are the last division of real rights. Among these is the right of inheritance. This is not a creature of the civil law, but arises from nature.

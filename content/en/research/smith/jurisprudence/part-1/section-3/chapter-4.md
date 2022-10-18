@@ -1,18 +1,15 @@
-+++
-title=  "Fourth way of acquiring property=  Succession"
-heading=  "Chapter 4 of Part 1 Section 3"
-description=  "Fourth way of acquiring property=  Testamentary and Legal Succession"
-date=  2015-09-27
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-4b"
-linkftext=  "Chapter 4b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 4
+title: "Fourth way of acquiring Property: Succession"
+date: 2015-09-24
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Testamentary and Legal Succession is the 4th way to gain property"
+---
 
 
-Succession has two kinds:
+Succession has 2 kinds:
 
 > 1. Testamentary
 

@@ -1,15 +1,14 @@
-+++
-title=  "Second way of acquiring Property=  Accession"
-heading=  "Chapter 2 of Part 1 Section 3"
-description=  "The right of accession is not so much founded in its utility as in the impropriety of not joining it to that object on which it has a dependence"
-date=  2015-09-29
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-3"
-linkftext=  "Chapter 3"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 2
+title: "Second way of acquiring Property: Accession"
+date: 2015-09-28
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The right of accession is not so much founded in its utility as in the impropriety of not joining it to that object on which it has a dependence"
+---
+
+
 
 The right of accession is not so much founded in its utility as in the impropriety of not joining it to that object on which it has a dependence.
 

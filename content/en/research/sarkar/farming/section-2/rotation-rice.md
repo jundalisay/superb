@@ -6,6 +6,8 @@ author: "PR Sarkar"
 description: "Integrated farming is designed to utilize every inch of land through Mixed and Supplementary Cropping and Crop Rotation"
 image: "/covers/farming.jpg"
 icon: "/flags/in.png"
+aliases:
+  /research/indian/farming/section-2/rotation-rice/
 ---
 
 

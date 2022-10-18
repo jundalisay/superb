@@ -9,6 +9,8 @@ description: "Why you only have 1 idea at a time"
 author: Juan
 icon: /icons/sp.png
 icontext: Superphysics icon
+aliases:
+  /social/supersociology/principles/fourth-branch
 ---
 
 

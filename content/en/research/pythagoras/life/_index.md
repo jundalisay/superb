@@ -6,4 +6,5 @@ image: "/covers/lifepyi.png"
 aliases:
   /research/pythagoras/iamblichus/introduction
   /research/pythagoras/iamblichus/
+  /research/pythagoras/life-of-pythagoras/
 ---

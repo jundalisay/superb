@@ -1,5 +1,5 @@
 ---
-heading: Chapter 1a of Part 1 Section 2
+heading: Chapter 1a
 title: "Husband and Wife"
 date: 2015-09-30
 author: "Adam Smith"

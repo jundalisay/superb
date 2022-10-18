@@ -1,15 +1,13 @@
-+++
-title=  "Entails as Testamentary Succession"
-heading=  "Chapter 4b Part 1 Section 3"
-description=  "Entails engrossed land the most and therefore, it took the longest to be established"
-date=  2015-09-26
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-5"
-linkftext=  "Chapter 5"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 4b
+title: "Entails as Testamentary Succession"
+date: 2015-09-22
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Entails engrossed land the most and therefore, it took the longest to be established"
+---
+
 
 
 Entails engrossed land the most and therefore, it took the longest to be established.

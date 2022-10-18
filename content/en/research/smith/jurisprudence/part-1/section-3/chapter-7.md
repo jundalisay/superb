@@ -1,15 +1,13 @@
-+++
-title=  "Pledges and Mortgages"
-heading=  "Chapter 7 Part 1 Section 3"
-description=  "Pledges and Mortgages"
-date=  2015-09-23
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-6"
-linkbtext=  "Chapter 6"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-8"
-linkftext=  "Chapter 8"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 7
+title: "Pledges and Mortgages"
+date: 2015-09-16
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Pledges and mortgages are certain securities for the payment of debts"
+---
+
 
 Pledges and mortgages are certain securities for the payment of debts.
 
@@ -17,7 +15,7 @@ At first, they could not be claimed as real rights. Afterwards, the law consider
 
 Pledges properly regard moveable subjects, and mortgages immoveable. If a pledge be not redeemed at a certain time, it is forfeited.
 
-People in bad circumstances are naturally slothful. The negligence of Romans debtors led to the *lex commissaria* which empowered the creditor to= 
+People in bad circumstances are naturally slothful. The negligence of Romans debtors led to the *lex commissaria* which empowered the creditor to:
 - seize the pledge, and
 - return the overplus.
 
@@ -46,4 +44,3 @@ This arose from the practice of keeping tenants by steel-bow. In this practice, 
 At present the landlord has only a right of preference. We do not have so many hypothecs as the Romans had.
 
 All pledges are naturally personal rights, and are only made real by the civil law.
-

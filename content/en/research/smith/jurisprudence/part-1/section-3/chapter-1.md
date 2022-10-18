@@ -1,17 +1,16 @@
-+++
-title=  "First way of acquiring Property=  Occupation"
-heading=  "Chapter 1 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 3"
-description=  "First way of acquiring Property=  Occupation"
-image=  "/covers/lectures.jpg"
-date=  2015-09-30
-linkb=  "/research/smith/jurisprudence/part-1/section-2/chapter-4"
-linkbtext=  "Section 2"
-linkf=  "/research/smith/jurisprudence/part-1/section-3/chapter-2"
-linkftext=  "Chapter 2"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 1
+title: "First way of acquiring Property: Occupation"
+date: 2015-09-30
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The first way of acquiring Property is Occupation"
+---
 
-We divided acquired rights into= 
+
+
+We divided acquired rights into:
 - personal
 - real
   - property, 
@@ -19,11 +18,10 @@ We divided acquired rights into=
   - pledge, and 
   - exclusive privilege.
 
-<br>
 
 ## 1. Property
 
-Property is acquired five ways.
+Property is acquired 5 ways:
 
 1. By occupation, or the taking possession of what formerly belonged to nobody.
 2. By accession, when a man has a right to one thing in consequence of another, as of a horse’s shoes along with the horse.
@@ -41,7 +39,6 @@ Some North American tribes cultivate a little piece of ground without the notion
 The age of commerce naturally succeeds that of agriculture. Each person now has a specific commodity to make. They would naturally exchange the surplus of their own commodity for another that they needed. Occupations vary according to these stages .
 <!-- Occupation seems to be well founded when the spectator can go along with my possession of the object, and approve me when I defend my possession by force. -->
 
-<br>
 
 ### When Does Possession Start?
 

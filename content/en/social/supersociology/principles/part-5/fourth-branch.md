@@ -12,7 +12,8 @@ aliases:
   /solutions/supersociology/fourth-branch-of-government
   /supersociology/fourth-branch-of-government/
   /articles/fourth-branch-of-government/
-  /articles/governance/fourth-branch-government/  
+  /articles/governance/fourth-branch-government/
+  /social/supersociology/principles/fourth-branch
 ---
 
 
