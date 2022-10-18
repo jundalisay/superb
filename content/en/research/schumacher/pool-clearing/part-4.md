@@ -1,6 +1,19 @@
+---
+title: "The Effects of Pool Clearing"
+heading: "Part 4"
+date: 2021-08-24
+image: /photos/objects/ship.jpg
+description: "Pool Clearing will work smoothly as long as every nation avoids exceeding the deficit limits. In this respect it would be analogous to a Gold Standard system"
+youtube: "H0tUf35JB44"
+author: EF Schumacher
+icon: /avatars/ef.png
+---
+
+
+
 Assume, then, that appropriate limits have been fixed for the deficit any one country will be allowed to incur, and the system is put into operation. 
 
-It will work smoothly as long as every nation avoids exceeding the deficit limits. In this respect it would be analogous to a Gold Standard system. It works satisfactorily as long as deficit countries balance their foreign exchange income and expenditure in such a way that their gold reserve remains intact
+It will work smoothly as long as every nation avoids exceeding the deficit limits. In this respect it would be analogous to a Gold Standard system. It works satisfactorily as long as deficit countries balance their foreign exchange income and expenditure in such a way that their gold reserve remains intact.
 
 What forces operate within the system to facilitate this task?
 

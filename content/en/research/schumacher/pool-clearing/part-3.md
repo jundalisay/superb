@@ -1,13 +1,9 @@
 ---
 title: "How the National Clearing Fund Works"
-heading: "National Clearing Fund"
-date: 2021-08-01
+heading: "Part 3"
+date: 2021-08-26
 image: /photos/objects/ship.jpg
 description: "The National Clearing Fund resolves trade ibalances"
-linkb: /research/schumacher/pool-clearing/part-2
-linkbtext: Part 2
-linkf: /research/schumacher/pool-clearing/part-4
-linkftext: "Part 4"
 youtube: "H0tUf35JB44"
 author: EF Schumacher
 icon: /avatars/ef.png

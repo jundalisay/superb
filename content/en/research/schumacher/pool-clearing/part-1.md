@@ -1,9 +1,9 @@
 ---
+heading: "Part 1"
 title: "How Multilateral Pool Clearing Can Solve Currency Crises and Bilaterialism"
-heading: "The Free Trade Alternative to Bretton Woods and Regionalism as the EU and ASEAN"
-date: 2021-08-01
+date: 2021-08-30
 image: /photos/objects/ship.jpg
-description: "We explain our version of Multilateral Pool Clearing by EF Schumacher"
+description: "Multilateral Pool Clearing by EF Schumacher is the Free Trade Alternative to Bretton Woods and Regionalism as the EU and ASEAN"
 youtube: "H0tUf35JB44"
 author: EF Schumacher
 icon: /avatars/ef.png

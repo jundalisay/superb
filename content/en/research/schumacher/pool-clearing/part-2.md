@@ -1,13 +1,9 @@
 ---
+heading: "Part 2"
 title: "The International Clearing Office"
-heading: "The Free Trade Alternative to Bretton Woods and Regionalism as the EU and ASEAN"
-date: 2021-08-01
+date: 2021-08-28
 image: /photos/objects/ship.jpg
 description: "The International Clearing Office requires no finance of its own. It does not have to create a new international currency"
-linkb: /research/schumacher/pool-clearing/part-1
-linkbtext: Part 1
-linkf: /research/schumacher/pool-clearing/part-3
-linkftext: "Part 3"
 youtube: "H0tUf35JB44"
 author: EF Schumacher
 icon: /avatars/ef.png

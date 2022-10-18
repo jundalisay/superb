@@ -1,19 +1,15 @@
 ---
 title: "Solutions to Over-importing"
-heading: "The Free Trade Alternative to Bretton Woods and Regionalism as the EU and ASEAN"
-date: 2021-08-01
+heading: "Part 5"
+date: 2021-08-20
 image: /photos/objects/ship.jpg
-description: "We explain our version of Multilateral Pool Clearing by EF Schumacher"
-linkb: /research/schumacher/pool-clearing/part-2
-linkbtext: Part 2
-linkf: /research/sismondi/economy/chapter-1
-linkftext: "Sismondi"
+description: "Schumacher explains the 3 solutions to over-importing"
 author: EF Schumacher
 icon: /avatars/ef.png
 ---
 
 
-There are three solutions to over-importing:
+There are 3 solutions to over-importing:
 
 ## 1. Loans
 
