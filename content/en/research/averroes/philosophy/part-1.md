@@ -1,5 +1,5 @@
 ---
-title: "Novum Organum"
+title: "A Decisive Discourse On The Delineation Of The Relation Between Religion And Philosophy"
 # subtitle: "Coming Soon!"
 description: ""
 image: "/covers/nova.jpg"
@@ -10,22 +10,17 @@ image: "/covers/nova.jpg"
 Release Date: June 27, 2021 [eBook #65708] -->
 
 
-CONTENTS
+<!-- CONTENTS
 I. A Decisive Discourse on the Delineation of the Relation between Religion and Philosophy.	13
 Ia. Appendix: On the Problem of Eternal Knowledge which Averroes has mentioned in his Decisive Discourse.	72
-II. An Exposition of the Methods of Argument concerning the Doctrines of the Faith, and a Determination of Doubts and misleading Innovation brought into the Faith through Interpretations.	83
-[12]
+II. An Exposition of the Methods of Argument concerning the Doctrines of the Faith, and a Determination of Doubts and misleading Innovation brought into the Faith through Interpretations.	83 -->
+
 
 I
-A DECISIVE DISCOURSE ON THE DELINEATION
-OF THE
-RELATION BETWEEN RELIGION AND PHILOSOPHY
-[13]
-A DECISIVE DISCOURSE ON THE DELINEATION
-OF THE
-RELATION BETWEEN RELIGION AND PHILOSOPHY.[1]
 
-And after: Praise be to God for all His praiseworthy acts, and blessings on Mohammad, His slave, the Pure, the Chosen One and His Apostle. The purpose of the following treatise is to inquire through sacred Law[2] whether the learning of philosophy and other sciences appertaining thereto is permitted, or called dangerous, or commended by the Law, and if commended, is it only approved or made obligatory.[14] We maintain that the business of philosophy is nothing other than to look into creation and to ponder over it in order to be guided to the Creator,—in other words, to look into the meaning of existence. For the knowledge of creation leads to the cognisance of the Creator, through the knowledge of the created. The more perfect becomes the knowledge of creation, the more perfect becomes the knowledge of the Creator. The Law encourages and exhorts us to observe creation. Thus, it is clear that this is to be taken either as a religious injunction or as something approved by the Law. But the Law urges us to observe creation by means of reason and demands the knowledge thereof through reason. This is evident from different verses of the Quran. For example the Quran says: “Wherefore take example from them, ye who have eyes.”[3] That is a clear indication of the necessity of using the reasoning faculty, or rather[15] both reason and religion, in the interpretation of things. Again it says: “Or do they not contemplate the kingdom of heaven and earth and the things which God hath created.”[4] This is a plain exhortation to encourage the use of observation of creation. And remember that one whom God especially distinguishes in this respect, Abraham, the prophet. For He says: “And this did we show unto Abraham: the kingdom of heaven and earth.”[5] Further He says: “Do they not consider the camels, how they are created; and the heaven, how it is raised.”[6] Or still again: “And (who) meditate on the creation of heaven and earth, saying, O Lord thou hast not created this in vain.”[7] There are many other verses on this subject: too numerous to be enumerated.
+And after: Praise be to God for all His praiseworthy acts, and blessings on Mohammad, His slave, the Pure, the Chosen One and His Apostle. 
+
+This treatise inquires through sacred Law[2] whether the learning of philosophy and other sciences appertaining thereto is permitted, or called dangerous, or commended by the Law, and if commended, is it only approved or made obligatory.[14] We maintain that the business of philosophy is nothing other than to look into creation and to ponder over it in order to be guided to the Creator,—in other words, to look into the meaning of existence. For the knowledge of creation leads to the cognisance of the Creator, through the knowledge of the created. The more perfect becomes the knowledge of creation, the more perfect becomes the knowledge of the Creator. The Law encourages and exhorts us to observe creation. Thus, it is clear that this is to be taken either as a religious injunction or as something approved by the Law. But the Law urges us to observe creation by means of reason and demands the knowledge thereof through reason. This is evident from different verses of the Quran. For example the Quran says: “Wherefore take example from them, ye who have eyes.”[3] That is a clear indication of the necessity of using the reasoning faculty, or rather[15] both reason and religion, in the interpretation of things. Again it says: “Or do they not contemplate the kingdom of heaven and earth and the things which God hath created.”[4] This is a plain exhortation to encourage the use of observation of creation. And remember that one whom God especially distinguishes in this respect, Abraham, the prophet. For He says: “And this did we show unto Abraham: the kingdom of heaven and earth.”[5] Further He says: “Do they not consider the camels, how they are created; and the heaven, how it is raised.”[6] Or still again: “And (who) meditate on the creation of heaven and earth, saying, O Lord thou hast not created this in vain.”[7] There are many other verses on this subject: too numerous to be enumerated.
 
 Now, it being established that the Law makes the observation and consideration of creation by reason obligatory—and[16] consideration is nothing but to make explicit the implicit—this can only be done through reason. Thus we must look into creation with the reason. Moreover, it is obvious that the observation which the Law approves and encourages must be of the most perfect type, performed with the most perfect kind of reasoning. As the Law emphasises the knowledge of God and His creation by inference, it is incumbent on any who wish to know God and His whole creation by inference, to learn the kinds of inference, their conditions and that which distinguishes philosophy from dialectic and exhortation from syllogism. This is impossible unless one possesses knowledge beforehand of the various kinds of reasoning and learns to distinguish between reasoning and what is not reasoning. This cannot be done except one knows its different parts, that is, the different kinds of premises.
 
