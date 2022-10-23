@@ -20,37 +20,43 @@ They shall be natural-born citizens and residents of the Philippines, persons of
 
 Within 3 months from the creation of the ERC, the Chairman shall submit for the approval by the President the new organizational structure and plantilla positions necessary to carry out the powers and functions of the ERC.
 
-The Chairman of the Commission, who shall be a member of the Philippine Bar, shall act as the
-Chief Executive Officer of the Commission.
-All members of the Commission shall have a term of seven (7) years: Provided, That for the first
-appointees, the Chairman shall hold office for seven (7) years, two (2) members shall hold office for five
-(5) years and the other two (2) members shall hold office for three (3) years; Provided, further, That
-appointment to any future vacancy shall only be for the unexpired term of the predecessor: Provided,
-finally, That there shall be no reappointment and in no case shall any member serve for more than seven (7)
+The Chairman of the Commission, who shall be a member of the Philippine Bar, shall act as the CEO of the Commission.
+
+All members of the Commission shall have a term of seven (7) years: Provided, That for the first appointees, the Chairman shall hold office for seven (7) years, two (2) members shall hold office for 5 years and the other 2 members shall hold office for 3 years; Provided, further, That appointment to any future vacancy shall only be for the unexpired term of the predecessor: Provided, finally, That there shall be no reappointment and in no case shall any member serve for more than seven (7)
 years in the Commission.
 
-The Chairman and members of the Commission shall assume office of the beginning of their terms: Provided, That, if upon the effectivity of this Act, the Commission has not been constituted and the new staffing pattern and plantilla positions have not been approved and filled-up, the current Board and existing personnel of ERB shall continue to hold office.
+The Chairman and members of the Commission shall assume office of the beginning of their terms, and the current Board and existing personnel of ERB shall continue to hold office, as long as:
+- the Commission has not been constituted
+- the new staffing pattern and plantilla positions have not been approved and filled-up
 
-The existing personnel of the ERB, if qualified, shall be given preference in the filling up of plantilla positions created in the ERC, subject to existing civil service rules and regulations. 
 
-Members of the Commission shall enjoy security of tenure and shall not be suspended or removed from office except for just cause as specified by law.
+The existing personnel of the ERB, if qualified, shall be preferred to fill up of plantilla positions created in the ERC, subject to existing civil service rules and regulations.
 
-The Chairman and members of the Commission or any of their relatives within the fourth civil degree of consanguinity or affinity, legitimate or common law, shall be prohibited from holding any interest whatsoever, either as investor, stockholder, officer or director, in any company or entity engaged in the business of transmitting, generating, supplying or distributing any form of energy and must, therefore, divest through sale or legal disposition of any and all interests in the energy sector upon assumption of office.
+Members of the Commission:
+- shall enjoy security of tenure
+- shall not be suspended or removed from office except for just cause as specified by law.
 
-The presence of at least three (3) members of the Commission shall constitute a quorum and the majority vote of two (2) members in a meeting where a quorum is present shall be necessary for the adoption of any rule, ruling, order, resolution, decision, or other act of the Commission in the exercise of its quasi-judicial functions: Provided, That in fixing rates and tariffs, an affirmative vote of three (3) members shall be required.
+The Chairman and members of the Commission or any of their relatives within the fourth civil degree of consanguinity or affinity, legitimate or common law, shall be prohibited from holding any interest either as investor, stockholder, officer or director, in any company or entity engaged in the business of transmitting, generating, supplying or distributing any form of energy and must, therefore, divest through sale or legal disposition of any and all interests in the energy sector upon assumption of office.
+
+3 members of the Commission shall constitute a quorum. 
+
+The majority vote of 2 members in a meeting in a quorum is needed to adopt any rule, ruling, order, resolution, decision, or other act of the Commission in the exercise of its quasi-judicial functions as long as:
+- in fixing rates and tariffs, an affirmative vote of 3 members shall be required.
 
 
 ## SEC. 39. Compensation and Other Emoluments for ERC Personnel
 
 The compensation and other emoluments for the Chairman and members of the Commission and the ERC personnel shall be
-exempted from the coverage of Republic Act No. 6758, otherwise known as the “Salary Standardization
-Act”. For this purpose, the schedule of compensation of the ERC personnel, except for the initial salaries
-and compensation of the Chairman and members of the Commission, shall be submitted for approval by the
-President of the Philippines. 
+exempted from the coverage of Republic Act No. 6758, otherwise known as the “Salary Standardization Act”. 
+
+For this purpose, the schedule of compensation of the ERC personnel, except for the initial salaries and compensation of the Chairman and members of the Commission, shall be submitted for approval by the President of the Philippines. 
 
 The new schedule of compensation shall be implemented within 6 months from the effectivity of this Act and may be upgraded by the President of the Philippines as the need arises: Provided, That in no case shall the rate be upgraded more than once a year. 
 
-The Chairman and members of the Commission shall initially be entitled to the same salaries, allowances and benefits as those of the Presiding Justice and Associate Justices of the Supreme Court, respectively. The Chairman and the members of the Commission shall, upon completion of their term orupon becoming eligible for retirement under existing laws, be entitled to the same retirement benefits and the privileges provided for the Presiding Justice and Associate Justices of the Supreme Court, respectively.
+The Chairman and members of the Commission shall initially be entitled to the same salaries, allowances and benefits as those of the Presiding Justice and Associate Justices of the Supreme Court, respectively. 
+
+The Chairman and the members of the Commission shall, upon completion of their term orupon becoming eligible for retirement under existing laws, be entitled to the same retirement benefits and the privileges provided for the Presiding Justice and Associate Justices of the Supreme Court, respectively.
+
 
 ## SEC. 40. Enhancement of Technical Competence
 

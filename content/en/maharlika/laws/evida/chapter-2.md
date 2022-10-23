@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
 title: "Role Of Government Agencies"
-description: "EPIRA Republic Act 9136"
+description: "EVIDA Republic Act 9136"
 image: "/photos/physics/light.jpg"
 date: 2021-09-30
 ---

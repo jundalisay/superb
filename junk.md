@@ -12,6 +12,14 @@ The lack of intellect was frightening. why the country is has debt and inflation
 
 huge upgrade from caveman morals which is to run away with the goods when the seller isn't looking or not capable to catch you. 
 
+- community pantry warehousing inventory
+- food rescue logistics
+- villar sipag composting processing
+- urban garden production 
+- points system recording finance (scaleability)
+
+
+Xi Jinping resilient like a student preparing for a never-ending exam 
 
 
 productive work 
