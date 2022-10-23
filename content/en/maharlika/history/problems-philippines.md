@@ -3,10 +3,6 @@ title: "Problems in the Philippines that were Less Intense in Maharlika"
 description: "The Philippines had a lot more problems than Maharlika because of the colonial policies of Spain and America"
 date: 2021-09-02
 image: https://sorasystem.sirv.com/photos/mh/poorkidsrural800.jpg
-linkb: "/maharlika/advocacy/maharlikanism"
-linkbtext: "What-is-maharlikanism?"
-linkf: "/maharlika/governance/fourth-branch-government"
-linkftext: "A Solution to Corruption"
 author: Juan
 icon: /icons/sun.png
 aliases:

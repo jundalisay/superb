@@ -1,6 +1,6 @@
 ---
 heading: "Sections 1-5"
-title: "General Provisions"
+title: "An Act Liberalizing the Importation, Exportation and Trading of Rice, Lifting for the Purpose the Quantitative Import Restriction on Rice, and For Other Purposes"
 description: "Rice Tariffication Act"
 image: "/photos/team.jpg"
 date: 2020-10-31
@@ -11,14 +11,12 @@ Third Regular Session -->
 
 Monday, July 23, 2018
 
-
-## An Act Liberalizing the Importation, Exportation and Trading of Rice, Lifting for the Purpose the Quantitative Import Restriction on Rice, and For Other Purposes
-
 <!-- Be it enacted by the Senate and House of Representatives of the Philippine Congress Assembled: -->
 
 <!-- Section 1. Section 2 of RA 8178 as amended, is further amended: -->
 
-Sec. 2. Declaration of Policy
+
+## Sec. 2. Declaration of Policy
 
 The State shall:
 - ensure food security
@@ -26,7 +24,7 @@ The State shall:
 
 The State adopts the use of tariffs in lieu of non-tariff import restrictions to protect local producers of agricultural products.
 
-Section 3. Definitions
+## Section 3. Definitions
 
 <!-- Section 3 of R. A. No. 8178. as amended is hereby further amended to read as follows: -->
 
@@ -54,32 +52,33 @@ Section 3. Definitions
 
 <!-- Section 3. Section 4 of R. A. No. 8178, as amended, hereby further amended to read as follows: -->
 
-Sec. 12. Repeal
+## Sec. 12. Repeal
 
 The following laws and all other laws or provisions of law prescribing quantitative import restrictions or granting government agencies the power to impose such restrictions on agricultural products or hindering the liberalization of the importation, exportation and trading of rice are hereby repealed:
 
-"(8) Subparagraphs i, v, vi, vii, xi. xii, xiii, xiv, xv, xvi, xvii, xviii, xix, xxii, xxiii, and xxv of Section 6(a) of Presidential Decree (P.D.) No. 4, as amended."
+- 8) Subparagraphs i, v, vi, vii, xi. xii, xiii, xiv, xv, xvi, xvii, xviii, xix, xxii, xxiii, and xxv of Section 6(a) of Presidential Decree (P.D.) No. 4, as amended."
 
 
-Sec. 5. Issuance of Sanitary and Phytosanitary Import Clearance for Rice for the Sole Purpose of Ensuring Food Safety
+## Sec. 5. Issuance of Sanitary and Phytosanitary Import Clearance for Rice for the Sole Purpose of Ensuring Food Safety
 
-All importers of rice are required to secure a Sanitary and Phytosanitary Import Clearance (SPSIC) from the Bureau of Plant Industry (BPI) prior to importation in accordance with existing laws, rules and regulations: Provided, That the clearance shall not provide for import volume and timing restrictions: Provided, further, That failure on the part of the BPI to release the SPSIC without informing the rice importer of any error, deficiency, omission, or additional documentary requirement shall mean automatic approval of the SPSIC applied for within seven (7) days after submission of the complete requirements.
+All importers of rice are required to secure a Sanitary and Phytosanitary Import Clearance (SPSIC) from the Bureau of Plant Industry (BPI) prior to importation as long as: <!-- in accordance with existing laws, rules and regulations: Provided, That -->
 
-"The imported rice should arrive before the expiration of the SPSIC from the BPI.
+- the clearance shall not provide for import volume and timing restrictions
+- failure on the part of the BPI to release the SPSIC without informing the rice importer of any error, deficiency, omission, or additional documentary requirement shall mean automatic approval of the SPSIC applied for within 7 days after submission of the complete requirements.
 
-"The food safety regulatory function of the NFA under Item (i), Section 16 of R. A. No. 10611, otherwise known as the ‘Food Safety Act of 2013’.1âwphi1 is hereby transferred to the BPI."
+The imported rice should arrive before the expiration of the SPSIC from the BPI.
+
+The food safety regulatory function of the NFA under Item (i), Section 16 of R. A. No. 10611, otherwise known as the ‘Food Safety Act of 2013’ is hereby transferred to the BPI.
 
 
-Sec. 6. Tariffication
+## Sec. 6. Tariffication
 
-In lieu of quantitative import restrictions, the maximum bound rates committed under the Uruguay Round Final Act shall be imposed on the agricultural products whose quantitative import restrictions are repealed by this Act. xxx.
+In lieu of quantitative import restrictions, the maximum bound rates committed under the Uruguay Round Final Act shall be imposed on the agricultural products whose quantitative import restrictions are repealed by this Act.
 
-"For the tariff equivalent of the quantitative import restrictions on rice, the bound rate shall be as notified by the Philippines to the WTO as follows:
+For the tariff equivalent of the quantitative import restrictions on rice, the bound rate shall be as notified by the Philippines to the WTO as follows:
 
-"(a) For the minimum access volume committed by the Philippines to WTO. the in-quota tariff rate indicated in the applicable provisions of the WTO Agreement on Agriculture shall apply;
-
-"(b) For rice imports originating from ASEAN member states, the import duty rate under the ATIGA shall apply; and
-
-"(c) For rice imports originating from non-ASEAN WTO member states, the out-quota tariff rate is one hundred eighty percent (180%) or the tariff equivalent calculated in accordance with Paragraph 10 pf Annex 5, Section b, of the WTO Agreement on Agriculture upon the expiration of the waiver relating to the special treatment for rice of the Philippines, whichever is higher, shall apply.
+- a) For the minimum access volume committed by the Philippines to WTO. the in-quota tariff rate indicated in the applicable provisions of the WTO Agreement on Agriculture shall apply
+- b) For rice imports originating from ASEAN member states, the import duty rate under the ATIGA shall apply
+- c) For rice imports originating from non-ASEAN WTO member states, the out-quota tariff rate is 180% or the tariff equivalent calculated in accordance with Paragraph 10 pf Annex 5, Section b, of the WTO Agreement on Agriculture upon the expiration of the waiver relating to the special treatment for rice of the Philippines, whichever is higher, shall apply.
 
 The calculated tariff equivalent shall be determined by the Tariff Commission and approved by the NEDA Board within 45 days upon the effectivity of this Act.

@@ -4,7 +4,7 @@ title: "The General Definition of the Soul"
 description: ""
 author: "Avicenna"
 date: 2022-09-29
-# image: "/covers/nova.jpg"
+image: "/covers/soul.jpg"
 ---
 
 
@@ -41,23 +41,39 @@ This is participated by the animal and plant.
 <!-- Therefore, the primary parts of the soul, in contemplating it from the standpoint of its powers, are three. -->
 
 
-SUB-SECTION B:[E]
+## SUB-SECTION B:[E]
 
-To treat now of the definition of the Soul at large, I mean the universal, absolute, generic soul. This will become apparent, according to the tenets I hold, that among truths that are plainly manifest one is that every one of all natural bodies is compounded of “hyle” I mean matter, and of form. 
+What is the <!-- To treat now of the definition of the Soul at large, I mean the --> universal, absolute, generic soul?
 
-As for hyle, one of its properties is that through it a natural body is affected (or acted upon) in its very self; seeing that the sword, for instance, does not cut through its iron, but through its sharpness, which is its form; whereas it gets jagged owing to its iron, and not owing to its form. Another of those properties is that bodies do not differ through it, I mean through the hyle; for earth does not differ from water through its matter, but through its form.[9] Still another property is that it—the hyle or matter—does not afford (supply, furnish) natural bodies their characteristics peculiarly belonging to them, save potentially; since in man, e.g., his humanity—his being man—is not actually derived from the four elements, save potentially.
+This will become apparent, according to the tenets I hold, that among truths that are plainly manifest one is that every one of all natural bodies is compounded of “hyle” I mean matter, and of form. 
 
-As for the form, its peculiarity is 1.o that through it bodies put forth their actions (or perform their manifold deeds and workings);[Pg 28] since a sword does not cut through its iron, but through, its sharpness; and 2.o that bodies differ one from the other only through their genus or kind, I mean the form, since earth does not differ from water save through its form, whereas in its matter it does not; and 3.o that natural bodies get (derive, acquire) their being what they in fact are from the form, since as to man, his being a man (his humanity) is in fact through his form, and not through his matter, which is of the four elements.
+As for hyle, one of its properties is that through it a natural body is affected (or acted upon) in its very self; seeing that the sword, for instance, does not cut through its iron, but through its sharpness, which is its form; whereas it gets jagged owing to its iron, and not owing to its form. 
 
-Let us proceed a little further, and we shall say that a live body is a natural compound body that discriminates the non-living through its soul, and not through its body; and that performs multifarious animal works through its soul, and not through its body; and is alive through its soul and not through its body; and its soul is within it. Now, what is within a thing, while this form of its continues, is its form [or, this its form being so and not otherwise, is etc.]. Thus then the soul is a form; and forms are realized perfections (enteléchia), since through them the features (identities, characteristics) of things become perfect. 
+Another of those properties is that bodies do not differ through it, I mean through the hyle; for earth does not differ from water through its matter, but through its form.[9] Still another property is that it—the hyle or matter—does not afford (supply, furnish) natural bodies their characteristics peculiarly belonging to them, save potentially; since in man, e.g., his humanity—his being man—is not actually derived from the four elements, save potentially.
+
+As for the form, its peculiarity is 1.o that through it bodies put forth their actions (or perform their manifold deeds and workings) since a sword does not cut through its iron, but through, its sharpness; and 2.o that bodies differ one from the other only through their genus or kind, I mean the form, since earth does not differ from water save through its form, whereas in its matter it does not; and 3.o that natural bodies get (derive, acquire) their being what they in fact are from the form, since as to man, his being a man (his humanity) is in fact through his form, and not through his matter, which is of the four elements.
+
+Let us proceed a little further. 
+
+A live body:
+- is a natural compound body that discriminates the non-living through its soul, and not through its body
+- performs multifarious animal works through its soul, and not through its body; and is alive through its soul and not through its body; and its soul is within it.
+
+What is within a thing, while this form of its continues, is its form [or, this its form being so and not otherwise, is etc.]. Thus then the soul is a form; and forms are realized perfections (enteléchia), since through them the features (identities, characteristics) of things become perfect. 
 
 The soul, therefore is a perfection (realized identity). And perfections (enteléchias) come under two divisions: either the principles underlying the doings and their effects, or the very doings and effects themselves. The one of the two divisions is first, and the other is second. The first is the principle[Pg 29] (or source and origin), and the second is the doing and the effect (or trace).
 
-In this sense the soul is a first perfection (or prime actuality); for it is a principle (source), not an outcome of a principle (source). And of perfections, there are such as belong to bodies, and such as belong to incorporeal substances. In this sense the soul is a prime perfection attaching to a body. And among bodies, there are such as are artificial, and such as are natural. Now the soul is not a perfection of an artificial body; hence it is a prime perfection attaching to a natural body. Again, among natural bodies there are such as perform their multifarious workings through organs (tools, instruments), and such as do not perform their workings through organs (tools); as, for example the simple bodies, and those acting through the prevalence (constraint) of the simple forces. 
+In this sense the soul is a first perfection (or prime actuality); for it is a principle (source), not an outcome of a principle (source). 
+
+And of perfections, there are such as belong to bodies, and such as belong to incorporeal substances. In this sense the soul is a prime perfection attaching to a body. And among bodies, there are such as are artificial, and such as are natural. 
+
+Now the soul is not a perfection of an artificial body; hence it is a prime perfection attaching to a natural body. Again, among natural bodies there are such as perform their multifarious workings through organs (tools, instruments), and such as do not perform their workings through organs (tools); as, for example the simple bodies, and those acting through the prevalence (constraint) of the simple forces. 
 
 In other words, among natural bodies there are those whose design is, among other things, that they produce of themselves [whose task or business is to perform animal acts voluntarily, of their own will,] manifold animal actions; and there are those whose design is, among other things, not so to produce. Hence again, the soul is not a perfection attaching to the two last divisions in both the foregoing manners of statement. Therefore its full and finished definition is to say that—
 
-It is a prime perfection (consummation, rea[Pg 30]lization) attaching to an organic natural body; and, if we wish, to say further, a prime perfection attaching to a natural body having a life potentially (a first, perfection belonging to a natural body which body may have life); that is to say, a source of the manifold animal actions potentially (it is the source and origin of the deeds done by such beings as may be alive). Thus then we have divided (described) the generic soul, and defined it—which is what we had undertaken.
+It is a prime perfection (consummation, realization) attaching to an organic natural body
+
+A prime perfection attaching to a natural body having a life potentially (a first, perfection belonging to a natural body which body may have life) -- a source of the manifold animal actions potentially (it is the source and origin of the deeds done by such beings as may be alive). Thus then we have divided (described) the generic soul, and defined it—which is what we had undertaken.
 
 
 ## FOOTNOTES:

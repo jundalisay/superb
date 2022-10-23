@@ -1,9 +1,9 @@
 ---
+heading: "Part 2"
 title: "Arguments On The Beliefs Of The Faith"
-# subtitle: "Coming Soon!"
 author: Averroes
 description: ""
-# image: "/covers/nova.jpg"
+image: "/covers/averroes.jpg"
 ---
 
 

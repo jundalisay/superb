@@ -1,13 +1,11 @@
 ---
-heading: "Part 2 Chapter 34--Aristotle's system"
+heading: "Chapter 34--Aristotle's system"
 title: "Showing The Various Judgments Drawn From The Hand"
 description: "Here is Aristotle's chapter on Palmistry written around 350 B.C."
 date: 2020-01-22
+author: William Benham
 image: "/photos/objects/hand.jpg"
-linkb: "/research/benham/palmistry/part-2/chapter-14b-intuition"
-linkbtext: "Chapter 14b"
-linkf: "/research/benham/palmistry/part-2"
-linkftext: "Index"
+
 ---
 
 

@@ -1,8 +1,8 @@
 ---
-heading: "Chapter 20 Part 1"
+heading: "Chapter 20"
 title: "The Mount Of Saturn"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
-date: 2020-01-25
+date: 2020-01-23
 image: "/photos/objects/hand.jpg"
 ---
 

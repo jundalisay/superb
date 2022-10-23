@@ -1,9 +1,10 @@
 ---
-heading: "Chapter 25 Part 1 "
+heading: "Chapter 25"
 title: "The Mount Of Venus"
 description: "Dealing as it does with love and the sexual passions, there is needed much perception and a lofty attitude of mind in the practitioner"
-date: 2020-01-18
+date: 2020-01-15
 image: "/photos/objects/hand.jpg"
+author: William Benham
 ---
 
 

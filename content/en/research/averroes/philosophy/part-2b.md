@@ -1,9 +1,9 @@
 ---
+heading: "Part 2b"
 title: "The third premise"
-# subtitle: "Coming Soon!"
 author: Averroes
 description: ""
-# image: "/covers/nova.jpg"
+image: "/covers/averroes.jpg"
 ---
 
 
@@ -18,11 +18,17 @@ The second meaning is the correct one, that is it cannot be separated from a cer
 
 This separation is impossible. The first explanation, and that is which they mean, does not necessarily involve the creation of place, that is, that which is not separated from the class of created things. For it is possible to imagine a single place, that is, a body upon which follow accidents without limit, either opposed to one another or otherwise, as you were to say, movements without limit.
 
-Such is the opinion of many ancient philosophers about the universe, that it is made little by little. This is why, when the Mutakallimun saw the weakness of this premise, they resolved to make it strong and secure, by making it clear, that according to them, limitless accidents cannot follow upon a single point. For they maintain that on this occasion it is necessary that there cannot be found any other accident, except that there be[105] an unlimited number of accidents before it at the place in question. This helps them to the impossibility of their presence, for it is necessary that it should not be there, except after the completion of an unlimited number. As the limitless never ends, it follows that the thing which we have supposed should not be there. 
+Such is the opinion of many ancient philosophers about the universe, that it is made little by little. This is why, when the Mutakallimun saw the weakness of this premise, they resolved to make it strong and secure, by making it clear, that according to them, limitless accidents cannot follow upon a single point. For they maintain that on this occasion it is necessary that there cannot be found any other accident, except that there be[105] an unlimited number of accidents before it at the place in question. 
 
-For instance, consider the movement of the heavenly bodies, as we know them today. If there were before it limitless movements, then it is inevitable that this particular movement should not occur. They give the example of a man, who said to another, “I will not give you this dinar, till I have given you before it a limitless number of dinars.” By this it is not possible for him to give the dinar in question at all. 
+This helps them to the impossibility of their presence, for it is necessary that it should not be there, except after the completion of an unlimited number. As the limitless never ends, it follows that the thing which we have supposed should not be there. 
 
-But this example is not a correct one. For in it there is a primary object, then a limit, and then another object between them, which is without limit. For he has said it in a limited time. So he has stipulated that he would give[106] the dinar between the time in which he is, and the time of which he speaks, between which there is a time without limit. This is the period in which he would give him the dinars without limit, which is impossible. So it is quite clear that this example does not illustrate the object for which it is given. Their opinion that the existence of a thing which is found after limitless things, is impossible, is not correct in all the cases. 
+For instance, consider the movement of the heavenly bodies, as we know them today. If there were before it limitless movements, then it is inevitable that this particular movement should not occur. 
+
+They give the example of a man, who said to another, “I will not give you this dinar, till I have given you before it a limitless number of dinars.” By this it is not possible for him to give the dinar in question at all. 
+
+But this example is not a correct one. For in it there is a primary object, then a limit, and then another object between them, which is without limit. For he has said it in a limited time. So he has stipulated that he would give[106] the dinar between the time in which he is, and the time of which he speaks, between which there is a time without limit. This is the period in which he would give him the dinars without limit, which is impossible. 
+
+So it is quite clear that this example does not illustrate the object for which it is given. Their opinion that the existence of a thing which is found after limitless things, is impossible, is not correct in all the cases. 
 
 For the things which happen one after another are of two kinds: those which come to pass in cycles, and those which occur in order and arrangement. The things which occur in cycles are necessarily unlimited, except that something may interfere to prevent them. For instance if the sun rises there must be its setting; if there is a setting then it must rise, and if it rise it must have risen before. In the same way, if there are clouds there must be vapours rising from the earth; if there rise vapours from the earth, then it must be wet, if[107] the earth is wet, there must have been rain, and if there was rain there must have been clouds, and if thus there were clouds there must similarly have been clouds before them. 
 

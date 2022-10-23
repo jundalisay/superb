@@ -2,8 +2,9 @@
 heading: "Chapter 25b Part 1 "
 title: "The Qualities of a Venusian"
 description: "He is often the victim of rogues, who, knowing his sympathetic nature and generosity, impose upon him with ease"
-date: 2020-01-18
+date: 2020-01-14
 image: "/photos/objects/hand.jpg"
+author: William Benham
 ---
 
 
@@ -11,13 +12,17 @@ image: "/photos/objects/hand.jpg"
 
 The Venusian is often the victim of rogues, who, knowing his sympathetic nature and generosity, impose upon him with ease. But this does not discourage or cause him to withdraw his sympathy or benefactions from others, for he would rather be imposed upon several times than fail to relieve one worthy case. The Venusian is not fickle; even though there is a pla-tonic love in his heart for all humanity, still, when the one true love has taken possession of him he is steadfast. 
 
-He is always gay. To him living is a joy. He has no bile poisoning his blood, no rancor fills his heart, no malice actuates him toward anyone. Good health brings in its train a good disposition, the world looks bright, and its beauty brings to him a feeling of restfulness, joy, and gratitude. On the same day, and amid exactly the same surroundings, the Saturnian will be in gloom, melancholy, pessimism, and sadness, while the heart of the Venusian will bubble with gladness, happiness, and thanksgiving for his blessings. Everything is bright to him, and this brightness he sheds upon his more serious-minded fellows, attracting and helping them through the world. This is why he is popular and loved, and from the exuberance of goodness in his heart he returns this love in abundant measure. He is fond of all amusements, dancing, society, gallantry, and all forms of gayety. 
+He is always gay. To him living is a joy. He has no bile poisoning his blood, no rancor fills his heart, no malice actuates him toward anyone. Good health brings in its train a good disposition, the world looks bright, and its beauty brings to him a feeling of restfulness, joy, and gratitude. 
+
+On the same day, and amid exactly the same surroundings, the Saturnian will be in gloom, melancholy, pessimism, and sadness, while the heart of the Venusian will bubble with gladness, happiness, and thanksgiving for his blessings. Everything is bright to him, and this brightness he sheds upon his more serious-minded fellows, attracting and helping them through the world. This is why he is popular and loved, and from the exuberance of goodness in his heart he returns this love in abundant measure. He is fond of all amusements, dancing, society, gallantry, and all forms of gayety. 
 
 His lack of seriousness is often carried too far, for he will pursue pleasure to the exclusion of business, and therefore does not grow wealthy. 
 
 He does not value riches nor assume responsibility, yet such an one as he always gets along in some way, so he is careless and improvident - but happy. He is entirely unselfish. When distress is present he sinks self entirely, and his first thought and effort are for others. He is bright, sparkling, vivacious, spontaneous, and genial, and the life of every company in which he may be. He is not profoundly studious, nor very ambitious, but is content to enjoy life. He is a great lover of the beautiful. Dress, home, surroundings, flowers, pictures, and art in every form attract, and in all of these he loves harmony, taste, and beauty. 
 
-To him it is more essential that things should be beautiful and enjoyable than that they should be useful. He is passionate, so when his eye is pleased and a responsive echo is awakened in some other breast, he will gratify his passions. If such a thing as harm-lessness were possible in a matter of this kind, it would have to be accorded to the Venusian, for to him heat, ardor, and love are inherent and a part of his very existence. But always remember that all Venusians do not give way to their desires, and no matter how strong these may be, they are often curbed for a lifetime, and the world knows nothing of the struggles such a subject undergoes. Venusians are honest and truthful. They are not schemers for money-making, or ambitious for high positions or distinction, consequently the temptation to cheat or lie does not come to them. They are constant friends, and readily forgive and forget an injury or injustice. Their human feeling causes them to see matters from "the other fellow's" point of view, often to their own disadvantage. They hate quarrels or strife, and would rather suffer an injustice than engage in them. 
+To him it is more essential that things should be beautiful and enjoyable than that they should be useful. He is passionate, so when his eye is pleased and a responsive echo is awakened in some other breast, he will gratify his passions. If such a thing as harm-lessness were possible in a matter of this kind, it would have to be accorded to the Venusian, for to him heat, ardor, and love are inherent and a part of his very existence. But always remember that all Venusians do not give way to their desires, and no matter how strong these may be, they are often curbed for a lifetime, and the world knows nothing of the struggles such a subject undergoes. 
+
+Venusians are honest and truthful. They are not schemers for money-making, or ambitious for high positions or distinction, consequently the temptation to cheat or lie does not come to them. They are constant friends, and readily forgive and forget an injury or injustice. Their human feeling causes them to see matters from "the other fellow's" point of view, often to their own disadvantage. They hate quarrels or strife, and would rather suffer an injustice than engage in them. 
 
 The Venusian loves to give pleasure to others, and will put forth all his powers of amusement and fun-making, exerting himself to the utmost as long as he sees that those in his audience are enjoying themselves. But he loves to have his efforts appreciated, and likes to be told that he is agreeable and pleasant. 
 

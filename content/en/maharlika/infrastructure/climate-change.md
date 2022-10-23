@@ -4,13 +4,10 @@ heading: "Precolonial Diaster Mitigation"
 date: 2021-09-02
 description: "Maharlikans had their own natural way to deal with man-made and natural disasters"
 image: "/photos/objects/balangay.jpg"
-linkb: "/maharlika/governance/fourth-branch-government"
-linkbtext: "COA as Exchequer"
-linkf: "/maharlika/history/edsa-never"
-linkftext: "What if EDSA never happened?"
 author: Juan
-icon: /favicon.png
+icon: /icons/sun.png
 ---
+
 
 Climate change can happen both naturally and articially. In Asia, the most famous incidence of climate change happened in Cambodia wherein an entire large city -- Angkor Wat -- had to be abandoned to nature. 
 

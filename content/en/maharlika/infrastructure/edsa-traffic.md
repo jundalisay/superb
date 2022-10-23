@@ -4,13 +4,8 @@ heading: "It was never designed for the current population load"
 date: 2021-09-02
 description: "EDSA traffic can never be solved without massive infrastructure because the design of the EDSA areas is wrong."
 image: "https://sorasystem.sirv.com/photos/mh/edsa600.jpg"
-linkb: "/maharlika/governance/fourth-branch-government"
-linkbtext: "COA as Exchequer"
-linkf: "/maharlika/history/edsa-never"
-linkftext: "What if EDSA never happened?"
-btext: Fail from 1991
 author: Juan
-icon: /favicon.png
+icon: /icons/sun.pngpng
 aliases:
   /articles/edsa-traffic-can-never-be-solved
   /articles/infrastructure/edsa-traffic/

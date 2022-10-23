@@ -1,6 +1,12 @@
-APPENDIX.
+---
+heading: Part 1 Appendix
+title: "The Problem Of Eternal Knowledge"
+author: Averroes
+description: ""
+image: "/covers/averroes.jpg"
+---
 
-ON THE PROBLEM OF ETERNAL KNOWLEDGE, WHICH AVERROES HAS MENTIONED IN HIS DECISIVE DISCOURSE.
+<!-- ON THE PROBLEM OF ETERNAL KNOWLEDGE, WHICH AVERROES HAS MENTIONED IN HIS DECISIVE DISCOURSE. -->
 
 May God perpetuate your honour and bless you, and screen you always from the eyes of misfortune. Through your excellent intelligence and good understanding you have learned a great part of all these sciences, till your insight informed you of the doubt which arises concerning the eternal knowledge of God, with its being at the same time concerned with created things. Thus, in the interests of truth, it is now incumbent upon us to remove the doubt from your mind, after we have stated it clearly. For one who does not know the problem adequately cannot very well solve the doubt.
 

@@ -2,7 +2,7 @@
 heading: "Chapter 20b"
 title: "Characteristics of the Saturnian"
 description: "By reason of his love for digging and exploring in the earth, he has often found wells of oil, or mines of coal and minerals"
-date: 2020-01-24
+date: 2020-01-22
 image: "/photos/objects/hand.jpg"
 ---
 

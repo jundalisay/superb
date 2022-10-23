@@ -2,7 +2,7 @@
 heading: "Chapter 21 Part 1 "
 title: "The Characteristics of the Apollonian"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
-date: 2020-01-20
+date: 2020-01-19
 image: "/photos/objects/hand.jpg"
 ---
 

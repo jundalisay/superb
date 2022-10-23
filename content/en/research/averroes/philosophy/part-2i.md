@@ -1,10 +1,9 @@
 ---
 heading: "Part 2i"
 title: "Question 3: Fate and Predestination"
-# subtitle: "Coming Soon!"
 author: Averroes
 description: ""
-# image: "/covers/nova.jpg"
+image: "/covers/averroes.jpg"
 ---
 
 

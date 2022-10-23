@@ -1,7 +1,8 @@
 ---
 title: "The Apollo Line"
 # heading: "A Working Hypothesis"
-date: 2021-11-20
+date: 2019-12-18
+author: William Benham
 image: "/photos/objects/hand.jpg"
 description: "THE line of Apollo is a vertical line rising, if long, from the upper part of the Mount of Moon, if short, higher in the hand, and running toward the Mount of Apollo, sometimes ending high on that Mount, and sometimes not reaching to it"
 ---

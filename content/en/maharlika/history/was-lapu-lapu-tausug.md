@@ -3,10 +3,6 @@ title: "Was Lapu-Lapu a Tausug?"
 description: "No. He instead is the first hero of the Philippines"
 date: 2020-07-10
 image: "/photos/medieval/lapu.jpg"
-linkb: "/maharlika/history/simplified-pigafetta"
-linkbtext: "Simplified Pigafetta"
-linkf: "/maharlika/history/colonialism"
-linkftext: "How Did Colonialism Take Root?"
 author: Juan
 icon: /icon/sun.png
 aliases:

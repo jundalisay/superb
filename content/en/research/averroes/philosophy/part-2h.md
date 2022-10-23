@@ -1,10 +1,9 @@
 ---
 heading: "Part 2h"
 title: "Question 2: Prophetic Mission"
-# subtitle: "Coming Soon!"
 author: Averroes
 description: ""
-# image: "/covers/nova.jpg"
+image: "/covers/averroes.jpg"
 ---
 
 
@@ -17,17 +16,31 @@ Many people are desirous of proving the existence of the prophets by analogy—a
 
 They say that it is proved that God speaks and intends, and is the master of His creatures. It is quite consistent for such a being in the visible world to send a messenger to his dependent people. 
 
-Hence such a thing is also possible in the unseen world. They have thought of making this valid for proving the advent of the prophets, by absurd and[235] far-fetched arguments which only Brahmins should use. They say that it is possible both in the observed and unseen world. In the observed world it is quite evident, that when a man stands up before a king and says, “O ye men, I am the messenger of the king towards you” and produces credentials for his claim, it is necessary to acknowledge him to be true. They say that in the case of the prophets, the credentials are the miracles which they perform. For certain reasons this method is quite fit and satisfactory for the common people, but when investigated there appear many flaws in the principle.
+Hence such a thing is also possible in the unseen world. 
 
-Our acknowledgement of a man who claims to be the messenger of a king is not true unless we know that the symbols which he has are those of the royal messenger, which can only happen, if a king tells his subjects that whenever they happen to see such and such symbols with a man, which are particularly his, they should take him as his messenger.[236] When this is so, one can object, from where does it appear that performance of miracles is the special sign of the prophets? 
+They have thought of making this valid for proving the advent of the prophets, by absurd and[235] far-fetched arguments which only Brahmins should use. 
 
-This can be proved neither by law nor by reason. To prove it by religion is still more impossible; it does not admit it. Reason alone cannot affirm that they are the special symbols of prophecy, except that in many cases they were found in people who claimed to be prophets and in none other. So in this case a proof of anyone’s prophecy is based upon two premises. First, the man who claims to be a prophet has performed a miracle, and secondly, everyone who performs a miracle is a prophet.
+They say that it is possible both in the observed and unseen world. In the observed world it is quite evident, that when a man stands up before a king and says, “O ye men, I am the messenger of the king towards you” and produces credentials for his claim, it is necessary to acknowledge him to be true. They say that in the case of the prophets, the credentials are the miracles which they perform.
+
+For certain reasons this method is quite fit and satisfactory for the common people, but when investigated there appear many flaws in the principle.
+
+Our acknowledgement of a man who claims to be the messenger of a king is not true unless we know that the symbols which he has are those of the royal messenger, which can only happen, if a king tells his subjects that whenever they happen to see such and such symbols with a man, which are particularly his, they should take him as his messenger.[236] 
+
+When this is so, one can object, from where does it appear that performance of miracles is the special sign of the prophets? 
+
+This can be proved neither by law nor by reason. To prove it by religion is still more impossible; it does not admit it. Reason alone cannot affirm that they are the special symbols of prophecy, except that in many cases they were found in people who claimed to be prophets and in none other.
+
+So in this case a proof of anyone’s prophecy is based upon two premises. First, the man who claims to be a prophet has performed a miracle, and secondly, everyone who performs a miracle is a prophet.
 
 Now as to the premise that the claimant for prophecy has performed miracles we can say that it pertains to our senses after we have admitted that there are actions performed by men, which can neither be made by wondrous workmanship or by some particular forces, but are beyond our conception. 
 
 The second[237] premise can only be true when we admit the existence of the prophets, and that the miracles are only performed by those who are the true claimants for prophetic mission. We would say that this premise is not true but for those who believe the existence of the prophets and the miracles. 
 
-For instance if it has become clear to man, that the universe is created, then he certainly knows that the world exists and the Creator too. This being so, a man can object and say how can we say that one who performs the miracles is a prophet, when the prophetic mission itself remains unproved? Even after we admit the existence of miracle in the manner in which it may seem quite impossible, it is necessary that the two sides of the premise be admitted first and then the one can be applied to the other. One cannot say that the existence of the prophets can be proved by reason, because of its possibility. For the possibility to which they refer is in fact really ignorance,[238] and is not found in the nature of things. 
+For instance if it has become clear to man, that the universe is created, then he certainly knows that the world exists and the Creator too. This being so, a man can object and say how can we say that one who performs the miracles is a prophet, when the prophetic mission itself remains unproved? 
+
+Even after we admit the existence of miracle in the manner in which it may seem quite impossible, it is necessary that the two sides of the premise be admitted first and then the one can be applied to the other. One cannot say that the existence of the prophets can be proved by reason, because of its possibility. 
+
+For the possibility to which they refer is in fact really ignorance,[238] and is not found in the nature of things. 
 
 For instance, if we say that it is possible that it will rain or not, then the possibility is found in the nature of things, that is, it is felt that a thing may sometimes be, and at others not be, as in the case of rain. Here, reason can exactly decide the possibility of a thing by its nature.
 

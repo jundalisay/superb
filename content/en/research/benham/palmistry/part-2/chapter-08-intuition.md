@@ -43,7 +43,7 @@ Every line of the Grille represents an influence which has affected the life, an
 
 The absence of lines on the Mount of Venus shows an absence of electrifying Currents. This calm Mount expends its energy in a love of beauty, gayety, color, art, and dress, instead of in sexual desires. 
 
-Lines Of Influence 428 No. 277. Lines Of Influence 429 No. 278. Lines Of Influence 430 No. 279 
+<!-- Lines Of Influence 428 No. 277. Lines Of Influence 429 No. 278. Lines Of Influence 430 No. 279  -->
 
 The line of Mars is a sister to the line of Life, running inside of that line and parallel to it (278). This is really an Influence line, but it is an influence upon the health of the subject, sustaining and strengthening it, and does not relate to the influence of other persons. 
 

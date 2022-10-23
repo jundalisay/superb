@@ -4,10 +4,6 @@ date: 2022-03-28
 heading: The Promotion of Sinigang
 description: "Sinigang is the best example of Maharlikan food and should be promoted over the unhealthy Filipino food called adobo"
 image: "/food/sinig.jpg"
-linkb: "/maharlika/politicians/gloria-arroyo"
-linkbtext: "Gloria Arroyo: Evil Genius"
-linkf: "/maharlika/economics/natural-industries"
-linkftext: "Natural Industries"
 author: Juan
 icon: /icons/sun.png
 ---

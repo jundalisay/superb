@@ -4,8 +4,7 @@ description: "If EDSA never happened, then The Marcos vs Aquino rivalry would be
 date: 2021-10-01
 image: "/photos/coryv.jpg"
 author: Juan
-icon: /favicon.png
-icontext: Maharlikanism icon    
+icon: /icons/sun.png 
 aliases:
   /articles/history/edsa-never/
 ---

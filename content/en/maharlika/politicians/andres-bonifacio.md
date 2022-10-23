@@ -5,8 +5,7 @@ description: "Currently, Jose Rizal is the national hero. But morally, it would 
 date: 2020-04-06
 image: /covers/boni.jpg
 author: Juan
-icon: /favicon.png
-icontext: Maharlikanism icon
+icon: /icons/sun.png
 ---
 
 

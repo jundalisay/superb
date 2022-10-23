@@ -5,10 +5,6 @@ heading: How to get it back
 date: 2022-03-30
 description: "The Philippines fell from its Industrialization Path because of Diosdado Macapagal in 1962"
 image: "/photos/objects/regicide.jpg"
-linkb: "/maharlika/politicians/gloria-arroyo"
-linkbtext: "Gloria Arroyo: Evil Genius"
-linkf: "/maharlika/economics/natural-industries"
-linkftext: "Natural Industries"
 author: Juan
 icon: /icons/sun.png
 aliases:

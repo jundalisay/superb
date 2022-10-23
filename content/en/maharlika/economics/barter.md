@@ -3,10 +3,6 @@ title: "Barter in Maharlika"
 date: 2021-09-30
 description: "Maharlikans transacted with foreigners using barter"
 image: "/photos/grains.jpg"
-linkb: "/maharlika/economics/maharlika-2050"
-linkbtext: "maharlika-2050"
-linkf: "/maharlika/economics/natural-industries"
-linkftext: "Natural Industries"
 author: Juan
 icon: /icons/sun.png
 ---

@@ -2,7 +2,8 @@
 heading: "Chapter 13b Part 2"
 title: "The Girdle of Venus with Other Lines"
 description: "In every case, the Girdle will indicate some degree of nervousness and some degree of ardor"
-date: 2020-01-21
+date: 2019-12-08
+author: William Benham
 image: "/photos/objects/hand.jpg"
 ---
 

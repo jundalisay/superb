@@ -3,11 +3,6 @@ title: Bayong Bola
 date: 2022-02-01
 description: Bayong Ball is our proposal for a Maharlikan version of basketball
 image: "/photos/basket.jpg"
-# btext: Basketball for short races 
-linkb: "/maharlika/culture"
-linkbtext: "culture"
-linkf: "/maharlika/culture/war-adobo"
-linkftext: "War on Adobo"
 author: Juan
 icon: /icons/sun.png
 ---

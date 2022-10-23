@@ -4,7 +4,7 @@ title: "Detailed Analysis in Order to Establish the Existence of the Spiritual F
 description: ""
 author: "Avicenna"
 date: 2022-09-29
-# image: "/covers/nova.jpg"
+image: "/covers/soul.jpg"
 ---
 
 

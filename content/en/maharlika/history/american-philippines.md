@@ -4,10 +4,6 @@ description: "America caused the Philippines to have its current set of problems
 date: 2020-07-10
 image: /photos/medieval/indians.jpg
 heading: "Could it be stopped?"
-linkb: "/maharlika/history/was-lapu-lapu-tausug"
-linkbtext: "Was-lapu-lapu-tausug?"
-linkf: "/maharlika/governance/principal-orders-kkk"
-linkftext: "Demands of the KKK"
 author: Juan
 icon: /icons/sun.png
 ---

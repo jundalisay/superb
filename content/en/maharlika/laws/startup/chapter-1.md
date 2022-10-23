@@ -9,7 +9,9 @@ date: 2020-10-31
 
 <!-- Declaration of Policy.— It is hereby declared the policy of  -->
 
-Section 2. The State shall foster inclusive growth through an innovative economy by streamlining government and nongovernment initiatives, in both local and international spheres, to create new jobs and opportunities, improve production, and advance innovation and trade in the country.
+Section 2. 
+
+The State shall foster inclusive growth through an innovative economy by streamlining government and nongovernment initiatives, in both local and international spheres, to create new jobs and opportunities, improve production, and advance innovation and trade in the country.
 
 To this end, the State shall:
 - provide incentives and remove constraints aimed at encouraging the establishment and operation of innovative new businesses, businesses crucial to their growth and expansion, and 
@@ -18,17 +20,17 @@ To this end, the State shall:
 
 Section 3. Definitions
 
-(a) Host agency – DOST, DTI, DICT. or other national government agency, local government unit, or public academic institution that provides programs, benefits and incentives to startups or startup enablers as defined in this Act subject to an application or selection process;
+- a) Host agency – DOST, DTI, DICT. or other national government agency, local government unit, or public academic institution that provides programs, benefits and incentives to startups or startup enablers as defined in this Act subject to an application or selection process
 
-(b) Innovation – the creation of new ideas that results to the development of new or improved products, processes, or services which are then spread or transferred across the market
+- b) Innovation – the creation of new ideas that results to the development of new or improved products, processes, or services which are then spread or transferred across the market
 
-(c) Innovative product – a good or service that is new or significantly improved, such as improvements in technical specifications, component materials, software in the product, user friendliness or other functional characteristics;
+- c) Innovative product – a good or service that is new or significantly improved, such as improvements in technical specifications, component materials, software in the product, user friendliness or other functional characteristics;
 
-(d) Innovative process – a new or significantly improved production or delivery method through changes in techniques, equipment and/or software;
+- d) Innovative process – a new or significantly improved production or delivery method through changes in techniques, equipment and/or software;
 
-(e) Innovative business model – a new organizational method in business practices, workplace organization or external relations;
+- e) Innovative business model – a new organizational method in business practices, workplace organization or external relations;
 
-(f) Research and development – any activity which is a systematic, intensive study directed toward greater knowledge or understanding of the subject studied: a systematic study directed specifically toward applying new knowledge to meet a recognized need; or a systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements;
+- f) Research and development – any activity which is a systematic, intensive study directed toward greater knowledge or understanding of the subject studied: a systematic study directed specifically toward applying new knowledge to meet a recognized need; or a systematic application of knowledge toward the production of useful materials, devices, and systems or methods, including design, development, and improvement of prototypes and new processes to meet specific requirements;
 
 (g) Startup – any person or registered entity in the Philippines which aims to develop an innovative product, process, or business model; and
 

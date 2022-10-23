@@ -4,12 +4,8 @@ heading: "An Overhaul of the Philippines"
 description: "Maharlikanism is our proposed change of the current unsustainable economic and political systems in the Philippines which are gradually breaking down due to global warming and the internet"
 date: 2021-07-07
 image: /photos/medieval/lapu.jpg
-linkb: "/maharlika/history/what-is-maharlika"
-linkbtext: "What-is-Maharlika?"
-linkf: "/maharlika/history/problems-philippines"
-linkftext: "Maharlika vs Philippines"
 author: Juan
-icon: /favicon.png
+icon: /icons/sun.png
 aliases:
   /advocacy/maharlikanism/
 ---

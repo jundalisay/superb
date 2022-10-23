@@ -7,17 +7,15 @@ date: 2022-09-28
 ---
 
 
-Sec. 6. RA 9003 is hereby further amended by inserting a new chapter after Chapter 3 to read as follows.
+<!-- Sec. 6. RA 9003 is hereby further amended by inserting a new chapter after Chapter 3 to read as follows. -->
 
-## Article 1
+<!-- ## Article 1 -->
 
-National Framework for All Types of Product Wastes
+## National Framework for All Types of Product Wastes
 
-Sec. 44-A. National Framework for Extended Producer Responsiblity.
+## Sec. 44-A. National Framework for Extended Producer Responsiblity.
 
-Unless otherwise provided under Article 2 of this Chapter, within 3 months following the effectivity of the Extended
-     Producer Responsibihty Act of 2022, the Department, in consultation with the NSWMC, shall formulate a
-     national framework on EPR for all t3q)es of product wastes. 
+Unless otherwise provided under Article 2 of this Chapter, within 3 months following the effectivity of the EPR Act of 2022, the Department, in consultation with the NSWMC, shall formulate a national framework on EPR for all types of product wastes. 
 
 The framework shall include the following components:
 
@@ -37,11 +35,11 @@ The framework shall include the following components:
   - partnership with LGUs, communities, and the informal waste sectors
 
 
-## Article 2
+<!-- ## Article 2 -->
 
-Extended Producer Responsibility for Plastic Packaging
+## Extended Producer Responsibility for Plastic Packaging
 
-Sec. 44-B. Obliged Enterprises Under This Article
+## Sec. 44-B. Obliged Enterprises Under This Article
 
 Product producers obliged to implement EPR are the large enterprises that generate plastic packaging waste:
 
@@ -52,7 +50,7 @@ MSMEs <!-- defined under Republic Act No. 9501 --> are not be covered.
 MSMEs are encouraged to practice EPR voluntarily, or be a part of the network of obliged enterprises or producer responsibility organizations practicing EPR.
 
 
-Sec. 44-C. Plastic Packaging Covered by EPR.
+## Sec. 44-C. Plastic Packaging Covered by EPR.
 
 For Article 2 of Chapter 3A, plastic packaging are products utilized to carry, protect, or pack goods for transportation, distribution, and sale. 
 
@@ -63,14 +61,14 @@ Plastic packaging includes:
 - Polystyrene
 
 
-Sec. 44-D. EPR Mandates
+## Sec. 44-D. EPR Mandates
 
 Notwithstanding the provisions of Section 44-A, obhged enterprises shall, within 6 months from the effectivity of this act, establish or phase-in EPR programs for plastic packaging to achieve efficient management of plastic packaging waste, reduced production, importation, supply or use of plastic packaging deemed low in reusability, recyclability or retrievabihty, and plastic neutrahty through efficient recovery and diversion schemes.
 
 The programs under this section may include the activities and strategies stated under paragraphs (a) and (b) of Section 44-A: Provided, That their mechanisms and strategies are submitted to the NSWMC, through the Department. Obliged enterprises shall institute an EPR program either individually or collectively, whether with or without a PRO.
 
 
-Sec. 44-E. EPR Registration
+## Sec. 44-E. EPR Registration
 
 An obliged enterprise or the PRO shall register EPR programs with the NSWMC, through the Department.
 
@@ -91,7 +89,7 @@ As an initial comphance with the provisions of this section, obhged enterprises 
 The Department, through the Environmental Management Bureau, and in coordination with the NSWMC, shall monitor and evaluate the compliance of obliged enterprises or their PROs with their respective EPR programs. For this purpose, obhged enterprises or their PROs shall be required to submit annual comphance reports.
 
 
-Sec. 44-F. Compliance Period for Plastic Packaging Recovery Programs
+## Sec. 44-F. Compliance Period for Plastic Packaging Recovery Programs
 
 To give the obliged enterprises and PROs time to adjust to their EPR duties and responsibilities and improve their performance over time, obliged enterprises shall estabhsh and phase-in recovery programs that will achieve plastic neutrality. 
 
@@ -114,7 +112,7 @@ Obliged enterprises shall submit the report of their compliance including approp
 
 
 
-Sec. 44-G. Audits
+## Sec. 44-G. Audits
 
 Obliged enterprises or their PROs shall establish and implement an auditing system to monitor and assess their compliance performance with this Act and their EPR programs. 
 

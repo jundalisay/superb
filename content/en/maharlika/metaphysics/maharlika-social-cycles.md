@@ -4,12 +4,8 @@ description: "We classify the Philippines as being in a democratic cycle, based 
 image: "/photos/medieval/lapu.jpg"
 heading: "3.5 years old"
 date: 2020-07-10
-linkb: "/maharlika"
-linkbtext: "Home"
-linkf: "/maharlika/history/simplified-pigafetta"
-linkftext: "Simplified Pigafetta"
 author: Juan
-icon: /favicon.png
+icon: /icons/sun.png
 aliases:
   /maharlika/articles/maharlika-social-cycles/
   /articles/maharlika-social-cycles/

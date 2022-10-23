@@ -5,11 +5,6 @@ description: "Procurement problems can be minimized by merging audit, procuremen
 # date: 2019-09-14
 date: 2021-09-19
 image: https://res.cloudinary.com/nara/image/upload/v1568484781/photos/govt.jpg
-btext: What's the Resources Branch?
-linkb: "/maharlika/history/problems-philippines"
-linkbtext: "Maharlika vs Philippines"
-linkf: "/maharlika/infrastructure/edsa-traffic"
-linkftext: "EDSA Traffic"
 author: Juan
 icon: /icons/sun.png
 draft: true

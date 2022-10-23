@@ -3,11 +3,6 @@ title: "How did Colonialism Take Root?"
 description: "Native populations bowed down to colonizers for the sake of peace and development or political power"
 date: 2020-07-10
 image: /photos/medieval/arab.jpg
-btext: Could it be stopped?
-linkb: "/maharlika/history/was-lapu-lapu-tausug"
-linkbtext: "Was-lapu-lapu-tausug?"
-linkf: "/maharlika/governance/principal-orders-kkk"
-linkftext: "Demands of the KKK"
 author: Juan
 icon: /icons/sun.png
 aliases:
@@ -15,6 +10,7 @@ aliases:
   /articles/history/how-did-colonialism-take-root/  
   /maharlika/articles/how-did-colonialism-take-root/    
 ---
+
 
 In the previous article, we explained that Lapu Lapu, the first national hero of the Philippines, fought against the Spanish. If colonialism were so bad, why did't the rest of the natives surrender to the colonizers who only numbered a few hundred? 
 

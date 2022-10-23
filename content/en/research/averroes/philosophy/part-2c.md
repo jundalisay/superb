@@ -1,10 +1,9 @@
 ---
 heading: "Part 2c"
 title: "The Unity Of God"
-# subtitle: "Coming Soon!"
 author: Averroes
 description: ""
-# image: "/covers/nova.jpg"
+image: "/covers/averroes.jpg"
 ---
 
 

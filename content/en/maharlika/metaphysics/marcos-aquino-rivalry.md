@@ -5,7 +5,7 @@ date: 2021-10-11
 description: "The Marcos-Aquino Rivalry is just the liberal vs conservative version of politics"
 image: /photos/coryv.jpg
 author: Juan
-icon: /favicon.png
+icon: /icons/sun.png
 aliases:
   /maharlika/articles/metaphysics/marcos-aquino-rivalry/
   /articles/metaphysics/marcos-aquino-rivalry/

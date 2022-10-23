@@ -2,8 +2,9 @@
 heading: "Chapter 25c"
 title: "Health Issues of the Venusian"
 description: "Bulbous nails, in whatever degree found, will tell that throat, bronchial, or pulmonary trouble is present"
-date: 2020-01-18
+date: 2020-01-10
 image: "/photos/objects/hand.jpg"
+author: William Benham
 ---
 
 
@@ -18,7 +19,9 @@ If it be plentiful, it also shows increased muscular strength. Black color, show
 
 If coarse, it will show all the indications of color, but in a coarse degree. This coarse black or red hair with a large Mount, grilled, will make the subject very susceptible to sexual attraction, where physical instead of mental charms are the moving power. Red or black hair, fine in quality, shows volatility in refined degrees. Gray or white hair is often seen on Venusians even when young. 
 
-In these cases if the depleted vitality shown by this color comes from exhausted powers due to excess, the flabby much-grilled Mount will be seen. Blond color is normal, and gives its typical qualities. If straw color, it is not the Venusian blond, which must have a tinge of auburn or red to be normal. The more silver the blond color, the more it shows Teutonic phlegmatism, and the more it is tinged with the auburn shade, the more ardor is present. The hand as a whole will show the three worlds, and these must be more largely depended upon with this type than with any of the others except the Martian. With the fingers long, and especially the first phalanges of them, the mental world will govern the subject. The love will be ideal, the sympathy lofty, and the generosity intelligent. 
+In these cases if the depleted vitality shown by this color comes from exhausted powers due to excess, the flabby much-grilled Mount will be seen. Blond color is normal, and gives its typical qualities. If straw color, it is not the Venusian blond, which must have a tinge of auburn or red to be normal. 
+
+The more silver the blond color, the more it shows Teutonic phlegmatism, and the more it is tinged with the auburn shade, the more ardor is present. The hand as a whole will show the three worlds, and these must be more largely depended upon with this type than with any of the others except the Martian. With the fingers long, and especially the first phalanges of them, the mental world will govern the subject. The love will be ideal, the sympathy lofty, and the generosity intelligent. 
 
 He will love music, poetry, romance, all of which will be viewed from a high plane and away from base thoughts and ideas. The middle portion of the hands and fingers strongly developed will add practical ideas, and make the subject less idealistic. The feeling of fellowship with all mankind will be very marked, and a full operation of generosity is expected, especially if the thumb be supple. This subject will love warmly, but will be sensible, not carried away by the idealism of the upper world nor the sensualism of the lower. 
 
@@ -29,7 +32,11 @@ If this development of the base of the palm be very great, the third phalanges o
 
 While a lovable, attractive type, the Venusian needs some other types in combination to develop him. Whatever the secondary or tertiary types may be, they must be considered as back of the Venusian qualities as driving forces. The Apollonian is too closely akin to the Venusian to make a good combination; he has too many similar qualities. The Lunarian is not a good secondary combination, for imagination in too great degree will inflame the passions and make an already inert subject more lazy. 
 
-It needs some side of the Jupiterian, Saturnian, Mercurian, or Martian type to perfect the Venusian. The finger-tips will tell their story. Marked ideality is present with pointed tips, in which case the dreamy qualities will render these subjects impractical, but lovable and fascinating. They are hot-house plants, "human china," fit to love and play with, but unequal to a struggle against the roughness of the world. Conic tips show artistic tastes and give conic qualities to the subject. Square tips make him practical, regular in habits, tidy in dress, and methodical in his ways. Delicately square tips are often seen, but not those which are broad, or pronouncedly square. Spat-ulate tips add energy, fire, and originality to the subject. He is ready, seldom taken off his guard, and in ideas or speech is always equal to the occasion. The spatulate tip is a fine combination for the Venusian, for it makes him human in sympathy and love. These subjects are intensely fond of pets, - horses, dogs, or all animals; they are constant in their affections, original in ideas, active in games, skilful, graceful, and charming. 
+It needs some side of the Jupiterian, Saturnian, Mercurian, or Martian type to perfect the Venusian. The finger-tips will tell their story. Marked ideality is present with pointed tips, in which case the dreamy qualities will render these subjects impractical, but lovable and fascinating. They are hot-house plants, "human china," fit to love and play with, but unequal to a struggle against the roughness of the world. 
+
+Conic tips show artistic tastes and give conic qualities to the subject. Square tips make him practical, regular in habits, tidy in dress, and methodical in his ways. Delicately square tips are often seen, but not those which are broad, or pronouncedly square. Spat-ulate tips add energy, fire, and originality to the subject. He is ready, seldom taken off his guard, and in ideas or speech is always equal to the occasion.
+
+The spatulate tip is a fine combination for the Venusian, for it makes him human in sympathy and love. These subjects are intensely fond of pets, - horses, dogs, or all animals; they are constant in their affections, original in ideas, active in games, skilful, graceful, and charming. 
 
 They are passionately fond of children, and tender and gentle with everyone. Knotty fingers will greatly reduce the impulse of the subject. Though knots are unexpected still they are found, and must be considered. The first knot alone will make the subject intelligent, systematic in his mental operations, and less frivolous. 
 
@@ -47,7 +54,9 @@ Note carefully whether they are too short, for the impulsiveness of this type ne
 
 If small or pointed, or both, you know the character is weak and vacillating. The desires will rule and be gratified, the subject will be easily led by others, and, with his natural pleasure-loving proclivities, will be led away by whoever obtains an influence over him. The natural laziness of the type will be increased, and determination lacking. You must compare the two phalanges to see if will or reason is greater. If will be stronger, determination will be exercised without good judgment, and this subject is determined by fits and starts. If the will phalanx be pointed, the impressionability is increased and the will weakened. 
 
-If it be square, the will is stronger, common-sense, and practical. If it be spatulate, the will becomes very strong per se, but if unsupported by a good second phalanx and a good Head line will not be brought into operation. The clubbed formation is not often seen on this type, and is not normal. There is no fierceness nor bloodthirsty desire for murder in the good Venusian. When he kills, it is in a fit of jealousy or thwarted passion, and it is a low specimen of the type who does it. Refined, high-class Venusians never commit murder - there is too much kindness and sympathy in them. On low type Venusians you will always find a strong secondary type present, nearly as strong as the Venusian, and it is from this secondary type that they get the nerve and brutality to commit murder. 
+If it be square, the will is stronger, common-sense, and practical. If it be spatulate, the will becomes very strong per se, but if unsupported by a good second phalanx and a good Head line will not be brought into operation. The clubbed formation is not often seen on this type, and is not normal. 
+
+There is no fierceness nor bloodthirsty desire for murder in the good Venusian. When he kills, it is in a fit of jealousy or thwarted passion, and it is a low specimen of the type who does it. Refined, high-class Venusians never commit murder - there is too much kindness and sympathy in them. On low type Venusians you will always find a strong secondary type present, nearly as strong as the Venusian, and it is from this secondary type that they get the nerve and brutality to commit murder. 
 
 The Venusian type supplies the passion and jealousy, the secondary type the instinct to kill. 
 
@@ -55,6 +64,8 @@ If the clubbed thumb be seen on a refined Venusian subject, you will find that t
 
 The second phalanx must be long and well balanced to get the best results, for reason and good judgment are needed to keep the subject level. If this is deficient, he becomes a prey to his emotions, impulses, and desires, and lacks the good sense and judgment to restrain them, even if he has a will strong enough to do it. 
 
-In this case, will is in operation, but is not backed by judgment. The best formation of the second phalanx is the waist-like, for tact is then indicated, and the subject does not offend by brusqueness. Thus, on a Venusian, the large thumb, giving good judgment and determination, will hold in check any amount of strong desires. In the chapter on the Thumb we said that this digit shows will, reason, and love, the three great moral forces of the universe. Thus the Venusian, in a perfect state, combines all these. 
+In this case, will is in operation, but is not backed by judgment. The best formation of the second phalanx is the waist-like, for tact is then indicated, and the subject does not offend by brusqueness. Thus, on a Venusian, the large thumb, giving good judgment and determination, will hold in check any amount of strong desires. 
+
+In the chapter on the Thumb we said that this digit shows will, reason, and love, the three great moral forces of the universe. Thus the Venusian, in a perfect state, combines all these. 
 
 The Head line must be clear, well cut, well colored, and unbroken, to give the best results, for the Venusian needs self-control and clear judgment to steer him from pitfalls. These elements he gets from such a Head line, which is a fine adjunct to a good thumb. Of the seven types the one which lightens the world with love, charms with beauty, attracts with health, sympathizes in sorrow, and relieves distress is the Venusian, and while we can by no means say that he is faultless, we must recognize that his good qualities are so predominant that his faults are forgotten.

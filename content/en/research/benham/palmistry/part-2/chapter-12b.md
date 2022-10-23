@@ -2,8 +2,8 @@
 heading: "Chapter 12b Part 2"
 title: "The Length of the Mercuty Line"
 description: "The length of the Mercury line adds to the power of the line and its usefulness."
-date: 2020-01-31
-# date: 2020-01-18
+date: 2019-12-12
+author: William Benham
 image: "/photos/objects/hand.jpg"
 ---
 

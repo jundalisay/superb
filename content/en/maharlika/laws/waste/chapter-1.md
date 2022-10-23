@@ -11,11 +11,11 @@ H. No. 10696
 
 Monday, July 26, 2021 -->
 
-<!-- AN ACT INSTITUTIONALIZING THE EXTENDED PRODUCER RESPONSIBILITY ON PLASTIC PACKAGING WASTE, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9003, OTHERWISE KNOWN AS    THE “ECOLOGICAL SOLID WASTE MANAGEMENT ACT OF 2000”
+<!-- AN ACT INSTITUTIONALIZING THE EXTENDED PRODUCER RESPONSIBILITY ON PLASTIC PACKAGING WASTE, AMENDING FOR THIS PURPOSE REPUBLIC ACT NO. 9003, OTHERWISE KNOWN AS    THE “ECOLOGICAL SOLID WASTE MANAGEMENT ACT OF 2000” -->
 
-Extended Producer Responsibility Act of 2022”. -->
+<!-- This amends Section 2 of RA 9003: -->
 
-This amends Section 2 of RA 9003:
+## Section 2
 
 The State to adopts a systematic comprehensive and ecological solid waste management program which shall:
 
@@ -23,7 +23,9 @@ The State to adopts a systematic comprehensive and ecological solid waste manage
 - Strengthen the integration of ecological solid waste management and resource conservation and recovery topics into the academic curricula of formal and non-formal education in order to promote environmental awareness and action among the citizenry
 - Institutionalize the extended producer responsibility mechanism as a practical approach to efficient waste management, focusing on waste reduction, recovery and recycling, and the development of environment-friendly products that advocate the internationally accepted principles on sustainable consumption and production, circular economy, and producers’ full responsibility throughout the life cycle of their product.
 
-Section 3 of RA 9003 is amended:
+## Section 3. Definitions
+
+<!-- of RA 9003 is amended: -->
 
 - Circular economy is an economic model of creating value by extending product lifespan through improved design and servicing, and relocating ways from the end of the supply chain to the beginning. This intends to efficiently utilize resources by its continual use, and aims to retain the highest utility and value of products, components and materials at all times, through sharing, leasing, reuse, repair, refurbishment, and recycling in an almost closed loop
 - Extended producer responsibility (EPR) is the environmental pohcy approach and practice that requires producers to be
@@ -44,9 +46,11 @@ to form sohd objects of various shapes
   - Sustainable consumption and production is the use of services and related products that respond to basic needs and bring a better quality of life, while minimizing the use of natural resources and toxic materials, as well as the emission of wastes and pollutants over the life cycle of the service or product, so as not to jeopardize the needs of future generations
 
 
-This amends Section 4 of RA 9003:
+<!-- This amends Section 4 of RA 9003: -->
 
-Sec. 4. National Solid Waste Management Commission is established under the Office of the President. It has 8 members from the government and 5 members from the private sector.
+## Sec. 4. National Solid Waste Management Commission (NSWMC)
+
+This is established under the Office of the President. It has 8 members from the government and 5 members from the private sector.
 
 The government sector shall be represented by the heads of the following agencies in their ex officio capacity:
 - DENR
@@ -65,7 +69,10 @@ The private sector shall be represented by:
 
 The private sector representatives shall be appointed by the President for a term of 3 years.
 
-Sec. 5. This amends Section 7 of RA 9003:
+
+## Section 7. The National Ecology Center
+
+<!--  of RA 9003: -->
 
 The National Ecology Center NEC under the Commission is established to provide technical expertise, information, training, and networking services for the implementation of this Act. 
 

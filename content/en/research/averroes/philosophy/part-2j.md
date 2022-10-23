@@ -1,10 +1,9 @@
 ---
 heading: "Part 2j"
 title: "Question 4: Divine Justice and Injustice"
-# subtitle: "Coming Soon!"
 author: Averroes
 description: ""
-# image: "/covers/nova.jpg"
+image: "/covers/averroes.jpg"
 ---
 
 
@@ -18,7 +17,9 @@ He is neither just or unjust, but all His actions about such things are just. Th
 
 Justice is known as good, and injustice as bad. So according to them, polytheism is in itself neither injustice nor evil, but with regard to religion, and had religion ordained it, it would have been just and true. 
 
-Such also would have been the case with any kind of sin. But all this is quite contrary to our traditions and reason. As to tradition God has described himself as just, and denied injustice to himself. He says “God hath borne witness that there is no God but He; and the angels and those who are endowed with wisdom profess the same, who executeth righteousness;”[142] and “Thy God is not unjust towards His servants;”[143] and again, “Verily God will not deal unjustly with men in any respect; but men deal unjustly with their own souls.”[144] 
+Such also would have been the case with any kind of sin. But all this is quite contrary to our traditions and reason. As to tradition God has described himself as just, and denied injustice to himself. 
+
+He says “God hath borne witness that there is no God but He; and the angels and those who are endowed with wisdom profess the same, who executeth righteousness;”[142] and “Thy God is not unjust towards His servants;”[143] and again, “Verily God will not deal unjustly with men in any respect; but men deal unjustly with their own souls.”[144] 
 
 What is your opinion about misleading the people, whether it is just or unjust, for God has mentioned in many a verse of the Quran, “That He leads as well as misleads the people?” 
 
@@ -42,7 +43,11 @@ This very evil was the thing which remained[285] hidden to the angels when God i
 
 He means that the thing which is hidden from them is that when there is found both good and evil in a thing, and good overpowers the evil, reason requires the creation of the one for the destruction of the other. So from all these it is clear how misleading can be attributed to Him, in spite of His justice, and injustice disproved. The causes of misleading are created, because from them appear the causes of direction to good. For some people have not been given causes of direction to good in which there is found nothing which may lead to erring. Such is the condition of the angels. So also the[286] causes of good have those evil, though in their nature much evil be not found; this applies to man. 
 
-It may be asked: What is the use of these contradictory verses, thus compelling the people to take refuge in interpretations, which you have absolutely forbidden? We would say that to explain this problem to the common people, they have been compelled to adopt this method. For they should know that God is just, and that He is the Creator of all good and evil, instead of believing, as many nations have done, that there are two Gods, the creator of good, and the creator of evil. So now they know that He is the Creator of both. 
+What is the use of these contradictory verses, thus compelling the people to take refuge in interpretations, which you have absolutely forbidden? 
+
+To explain this problem to the common people, they have been compelled to adopt this method. 
+
+For they should know that God is just, and that He is the Creator of all good and evil, instead of believing, as many nations have done, that there are two Gods, the creator of good, and the creator of evil. So now they know that He is the Creator of both. 
 
 As misleading is evil, and as there is no Creator but He, it was necessary that it should be attributed to Him, like the creation of evil. But this should be done without qualifying it, that is, that He created good for its own sake, and evil for the sake of good—on account of their connection with one another. In this way His creation of evil[287] would be quite just. To illustrate: fire has been made because of its necessity for the existence of things, and without it they could not have existed at all. It also destroys things by its very nature. 
 
@@ -54,7 +59,9 @@ These people knew the meaning but were misled. For if we say that He is not at a
 
 It should now be known that it is not necessary for all the people to be told this interpretation in its entirety. Only those should be told it who have some doubts about this problem. For not every one among the common people is confronted[289] by these contradictions in the universal verses, and Tradition. Such people must believe in the exoteric meanings of them.
 
-There is another reason for these verses. The common people cannot differentiate between possible and impossible, while to God is not ascribed power over the impossible. If they be told what is impossible (Mustahil) and they think that God has power over it, and then told that God has no power, they begin to think that there is some defect in God, because He cannot do a certain thing and hence He is weak. As the existence of things free from evil was possible according to the masses, God has said, “If we had pleased, we had certainly given every soul its direction; but the word which hath proceeded from Me must necessarily be fulfilled, when I said, Verily I will fill the hell with genii and men, altogether.”[154] This verse means one thing to the common people, and the other to the learned. 
+There is another reason for these verses. 
+
+The common people cannot differentiate between possible and impossible, while to God is not ascribed power over the impossible. If they be told what is impossible (Mustahil) and they think that God has power over it, and then told that God has no power, they begin to think that there is some defect in God, because He cannot do a certain thing and hence He is weak. As the existence of things free from evil was possible according to the masses, God has said, “If we had pleased, we had certainly given every soul its direction; but the word which hath proceeded from Me must necessarily be fulfilled, when I said, Verily I will fill the hell with genii and men, altogether.”[154] This verse means one thing to the common people, and the other to the learned. 
 
 The former take it to mean that it is not[290] incumbent upon him that He should create a class of men to whom evil may be attached. But it really means: Had we thought we could create men with whom evil could not be attached, but would have been good in all and all, and hence every one had been given his guidance. This much is enough for this problem. Now we would deal with the fifth question.
 

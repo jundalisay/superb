@@ -7,7 +7,7 @@ date: 2022-09-20
 ---
 
 
-Sec. 44-H. Producer Responsibility Organization (PRO)
+## Sec. 44-H. Producer Responsibility Organization (PRO)
 
 Obliged enterprises may voluntarily organize themselves to form or authorize a PRO to establish a viable platform to implement their EPR program under this Article.
 
@@ -28,9 +28,9 @@ These shall include standards, rules or guidelines for the following:
 
 
 
-Sec. 7. Section 45 of Republic Act No. 9003 is amended:
+<!-- Sec. 7. Section 45 of Republic Act No. 9003 is amended: -->
 
-Sec. 45. Incentives
+## Sec. 45. Incentives
 
 - Rewards and recognitions, monetary or otherwise, shall be provided to individuals, private organizations and entities, obliged enterprises, and PROs, including nongovernment organizations, that have undertaken outstanding and innovative projects, technologies, processes and techniques or activities in reuse, recycling, and reduction. Said rewards shall
 be sourced from the Fund herein created. 
@@ -38,15 +38,18 @@ be sourced from the Fund herein created.
 as provided for in this Act, as amended. 
 
 
-Fiscal Incentives
-- Tax incentives — Any provision of law to the contrary notwithstanding, obhged enterprises or PROs acting on their behalf, and other registered business enterprises may apply for incentives following the approval process provided under Title 13 (Tax Incentives) of the National Internal Revenue Code of 1997, as amended, for eligible activities: Provided, That such activities shall undergo the standard processes in the identification of qualified activities under the Strategic Investment Priority Plan (SIPP).
+### Fiscal Incentives
+
+- Tax incentives
+
+Any provision of law to the contrary notwithstanding, obhged enterprises or PROs acting on their behalf, and other registered business enterprises may apply for incentives following the approval process provided under Title 13 (Tax Incentives) of the National Internal Revenue Code of 1997, as amended, for eligible activities: Provided, That such activities shall undergo the standard processes in the identification of qualified activities under the Strategic Investment Priority Plan (SIPP).
 - The EPR expenses of obliged enterprises, PROs, and private enterprises shall be considered as necessary expenses deductible from gross income subject to the substantiation requirements for necessary business expenses deductible from gross annual income in accordance with Section 34(A)(1) of the National Internal Revenue Code of 1997, as amended.
 - Tax and Duty Exemption of Donations, Legacies and Gift
 
 
-Sec. 8. Section 49 of Republic Act No. 9003 is amended:
+<!-- Sec. 8. Section 49 of Republic Act No. 9003 is amended: -->
 
-Sec. 49. Fines and Penalties
+## Sec. 49. Fines and Penalties
 
 - g. Any obliged enterprise that fails to register under Section 44-E or fails to comply with Section 44-F shall be imposed with the following fines:
   - 5-10m pesos for the first offense
@@ -60,9 +63,9 @@ The penalty shall be imposed whether or not the noncompliance is the result of t
 The Pollution Adjudication Board of the Department shall hear and adjudicate cases of violations or offenses under this section, and impose appropriate fines therefor.
 
 
-Sec. 9. Mandatory Review
+## Sec. 9. Mandatory Review
 
-Within five (5) years after the effectivity of this Act, or as the need arises, Congress shall review:
+Within 5 years after the effectivity of this Act, or as the need arises, Congress shall review:
 - the accomplishments, and impact of this Act
 - the performance of its implementing agencies
 - the compliance of obfiged enterprises 
@@ -73,30 +76,30 @@ This is to determine the necessity of a remedial legislation mandating for:
 - phase-out of certain types of single-use plastic packaging.
 
 
-Within one (1) year after the effectivity of this Act, the NEC shall further identify, review, and update the list of
+Within 1 year after the effectivity of this Act, the NEC shall further identify, review, and update the list of
 non-environmentally acceptable products and plastic packaging material that shall be phased out, especially those
 that are:
 - highly unnecessary or replaceable, or
 - cannot be efficiently reused, recovered, or recycled
 
 
-Sec. 10. Appropriations
+## Sec. 10. Appropriations
 
 The sum necessary for the effective implementation of this Act shall be charged against the appropriations for the DENR under the General Appropriations Act: Provided, That obfiged enterprises and the respective PROs shall be responsible for the funds necessary to operationalize and maintain the EPR programs, in compliance with this Act and its implementing rules and
 regulations.
 
 
-Sec. 11. Implementing Rules and Regulations
+## Sec. 11. Implementing Rules and Regulations
 
 The DENR, in consultation with relevant government agencies, representatives from obfiged enterprises, and other stakeholders
 shall formulate the rules and regulations necessary to implement the provisions of this Act within ninety (90) days
 from its effectivity.
 
 
-Sec. 12. Section 60 of Republic Act No. 9003 is amended:
+<!-- Sec. 12. Section 60 of Republic Act No. 9003 is amended: -->
 
 
-Sec. 60. Joint Congressional Oversight Committee
+## Sec. 60. Joint Congressional Oversight Committee
 
 This act creates a Joint Congressional Oversight Committee to:
 - monitor the implementation of the Act
@@ -107,7 +110,7 @@ The Committee has 5 Senators and 5 Representatives to be appointed by the Senate
 The Oversight Committee shall be co-chair ed by the Chairpersons of the Committee on Environment, Natural Resources and Climate Change of the Senate and the Committee on Ecology of the House of Representatives.
 
 
-Sec. 13. Separability Clause
+<!-- Sec. 13. Separability Clause
 
 If any portion or provision of this Act is declared unconstitutional, the remainder of this Act or any provision not affected thereby shall remain in force and effect.
 
@@ -119,7 +122,7 @@ Any law, presidential decree or issuance, executive order, letter of instruction
 
 Sec. 15. Effectivity
 
-This Act shall take effect after 15 days following its complete publication in the Official Gazette or in a newspaper of general circulation.
+This Act shall take effect after 15 days following its complete publication in the Official Gazette or in a newspaper of general circulation. -->
 
 <!--      Approved,
 

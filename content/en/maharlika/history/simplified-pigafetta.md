@@ -3,11 +3,6 @@ title: "Simplified Pigafetta 1519-1521"
 date: 2020-07-10
 image: /photos/medieval/magellan.jpg
 description: "We simplify Pigafetta's accounts to make historical facts easier to understand"
-linkb: "/maharlika/metaphysics/maharlika-social-cycles"
-linkbtext: "Maharlika Social Cycles"
-linkf: "/maharlika/history/was-lapu-lapu-tausug"
-linkftext: "Was Lapu Lapu Tausug?"
-author: Pigafetta
 icon: /icons/sun.png
 aliases:
   /maharlika/articles/simplified-pigafetta/

@@ -1,6 +1,7 @@
 ---
 title: "How to Read the Affection Lines"
-date: 2021-11-20
+date: 2019-12-25
+author: William Benham
 image: "/photos/objects/hand.jpg"
 description: "There are 2 ways to read the age on lines of Affection"
 ---

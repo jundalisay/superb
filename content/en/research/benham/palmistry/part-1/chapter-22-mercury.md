@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 22 of Part 1"
+heading: "Chapter 22"
 title: "The Mount Of Mercury"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
 date: 2020-01-18
@@ -33,7 +33,9 @@ The Mercurians are fine writers and shrewd business men, achieving the greatest 
 
 The cross-bar, grille, cross, island or dot, show defects of the Mount, either of health or character, nails, color, etc., will determine which (105). When the Mount of Mercury is well developed, finger long and large, and apex of the Mount centrally located, you have a Mercurian subject (106). 
 
-In stature the Mercurian is small, averaging about five feet six inches, compactly built, trim in appearance, tidy looking and with a strong, forceful expression of countenance. His face is oval in shape, features inclined to be regular, and the expression changes rapidly, showing the quick play of his mind. The skin is smooth, fine, and transparent, tending to be olive in color, and shows the passing of the blood current underneath, by easily turning alternately red or white when excited, embarrassed, or in fear. The forehead is high and bulging, the hair is chestnut or black and inclined to be curly on the ends. The Mercurian grows a beard easily, which covers the face well, and is generally a little darker than the hair, if it be any color other than black. He likes to wear his beard trimmed closely and running to a point on the chin, Vandyke fashion. The eyebrows are not thick but are regular in outline, running to fine points at the ends, and sometimes meeting over the nose.
+In stature the Mercurian is small, averaging about five feet six inches, compactly built, trim in appearance, tidy looking and with a strong, forceful expression of countenance. His face is oval in shape, features inclined to be regular, and the expression changes rapidly, showing the quick play of his mind. The skin is smooth, fine, and transparent, tending to be olive in color, and shows the passing of the blood current underneath, by easily turning alternately red or white when excited, embarrassed, or in fear. 
+
+The forehead is high and bulging, the hair is chestnut or black and inclined to be curly on the ends. The Mercurian grows a beard easily, which covers the face well, and is generally a little darker than the hair, if it be any color other than black. He likes to wear his beard trimmed closely and running to a point on the chin, Vandyke fashion. The eyebrows are not thick but are regular in outline, running to fine points at the ends, and sometimes meeting over the nose.
 
 The latter growth is rare, however, belonging more distinctively to the Saturnian. The eyes are dark or quite black, restless and sharp in expression. They look right at and seemingly through you, and sometimes produce the disagree-able but correct conviction that you are being estimated by one well able to do it.
 
@@ -47,13 +49,15 @@ The Mercurian is the quickest and most active of all the types, and this activit
 
 In all games he is proficient, and he plays with his head as well as his hands, winning because he plans his plays, and shrewdly estimates the ability of his opponent. In all athletic sports where dexterity and skill, rather than brute strength are needed, he is the victor. In argument he is at home, for no one has greater facility of expression than he. This, added to the quickness with which he can grasp and turn an opportunity to his account, brings him out ahead, if his side of the question has even a semblance of probability. He is especially fond of oratory, and eloquence in any line strongly moves him. 
 
-With his keenness and the power of expressing himself well, he is very tactful and adroit, thus making many friends by saying the right thing at the right time. As an after-dinner speaker he is a success, and in a battle of words or badinage is an opponent hard to overcome. One of the chief elements of the Mercurian's success, is his ability to judge human nature and character. He mentally estimates everyone whom he meets, and uses his quick mind and tactful way to make a friend and accomplish what he wishes. He is adroit, crafty, and a constant schemer, using all his powers of shrewdness, intuition, and oratory to get himself through the world. 
+With his keenness and the power of expressing himself well, he is very tactful and adroit, thus making many friends by saying the right thing at the right time. As an after-dinner speaker he is a success, and in a battle of words or badinage is an opponent hard to overcome. 
+
+One of the chief elements of the Mercurian's success, is his ability to judge human nature and character. He mentally estimates everyone whom he meets, and uses his quick mind and tactful way to make a friend and accomplish what he wishes. He is adroit, crafty, and a constant schemer, using all his powers of shrewdness, intuition, and oratory to get himself through the world. 
 
 He is a dangerous person, you say. Verily he is, for not one of all the other types is for a moment his equal in diplomacy, craftiness, tact, persuasiveness shrewdness, or adroit methods of approach. This power makes him influential and if he is bad, much to be feared. He is a clever manager and well knows how to keep in the background and push forward some puppet to do his bidding. His power over men comes largely from the shrewdness with which he lays his plans, and the clever way in which he gets someone else to carry them out if necessary. 
 
 He understands humanity thoroughly, and uses this knowledge to his own advantage. He is not lazy; one of his prime elements is industry, consequently he loses no opportunities through napping but turns every hour to account. 
 
-## Part 2
+<!-- ## Part 2 -->
 
 He has a love for study, especially scientific investigation. 
 

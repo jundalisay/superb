@@ -4,7 +4,7 @@ title: "Avicena’s Offering To The Prince"
 description: ""
 author: "Avicenna"
 date: 2022-09-30
-# image: "/covers/nova.jpg"
+image: "/covers/soul.jpg"
 ---
 
 

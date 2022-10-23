@@ -3,10 +3,6 @@ title: "The Principal Orders of the Katipunan Simplified"
 heading: "22 Demands of the KKK"
 date: 2019-09-14
 image: /graphics/kkk.jpg
-linkb: "/maharlika/history/colonialism"
-linkbtext: "How Did Colonialism Take Root?"
-linkf: "/maharlika/history/what-is-maharlika"
-linkftext: "What is Maharlika?"
 description: "The Demands of the KKK in 1892 were mostly economic in nature"
 author: Juan
 icon: /icons/sun.png

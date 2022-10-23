@@ -77,6 +77,13 @@
 
 [[navbar]]
     parent = "enl"
+    weight = 117
+    name = "Sismondi"
+    url = "/research/avicenna/soul/"
+    pre = "<img src='/avatars/blank.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
     weight = 119
     name = "Bacon"
     url = "/research/bacon/"

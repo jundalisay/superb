@@ -4,12 +4,8 @@ description: "Ferdinand Marcos was the dictator who used Maharlika for nationali
 heading: The Future of the Philippines
 date: 2021-07-07
 image: /photos/marcos2.jpg
-linkb: "/maharlika/history/what-is-maharlika"
-linkbtext: "What-is-Maharlika?"
-linkf: "/maharlika/history/problems-philippines"
-linkftext: "Maharlika vs Philippines"
 author: Juan
-icon: /favicon.png
+icon: /icons/sun.png
 ---
 
 

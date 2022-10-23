@@ -3,12 +3,8 @@ title: "Why Democracy is Bad for the Philippines"
 description: "Democracy is Bad for the Philippines because Maharlika was already Democratic"
 image: /photos/social/protests.jpg 
 heading: "Maharlika was already free"
-linkb: "/maharlika/history/edsa-never"
-linkbtext: "What if EDSA Never Happened?"
-linkf: "/maharlika/history/golden-years-marcos"
-linkftext: "Golden-years-marcos"
 author: Juan
-icon: /favicon.png
+icon: /icons/sun.png
 date: 2021-09-02
 aliases:
   /articles/metaphysics/democracy-is-bad/

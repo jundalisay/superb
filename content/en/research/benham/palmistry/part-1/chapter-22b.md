@@ -1,5 +1,5 @@
 ---
-heading: "Chapter 22b of Part 1"
+heading: "Chapter 22b"
 title: "The Mercurian Characteristics"
 description: "The Mercurian is the strongest in the business world"
 date: 2020-01-16
@@ -27,15 +27,21 @@ He is not in any degree a sensualist.
 
 His pleasures are largely mental and, while he is fond of beauty and women, he is not an amorous type. He is nervous and restless, his mind is active and he likes to travel, for changing scenery gives him the recreation and diversity that he needs. He is fond of nature, which appeals to him more strongly than anything artificial. 
 
-In the marriage relation the Mercurian is a match-maker. He enjoys the society of his fellows, marries early in life, chooses one of his own age, and very often one of his type. He loves trim, neat, stylish women, full of fire and life, and no type furnishes these elements so well as his own. He is proud of his wife, likes to see her well dressed, and makes a good husband, provided he represents the good side of the type. In health the Mercurian is nervous; his quickness and energy speak in unmistakable terms of the electric current which is coursing through his nervous system, stimulating it to great activity. 
+In the marriage relation the Mercurian is a match-maker. He enjoys the society of his fellows, marries early in life, chooses one of his own age, and very often one of his type. He loves trim, neat, stylish women, full of fire and life, and no type furnishes these elements so well as his own. 
 
-This nervous energy prevents his being lazy, makes him love to travel, and this energy sometimes becomes excessive, so that you will find many Mercurian hands with fluted nails more or less pronounced in development. Be on the lookout with this type for nervous trouble, which interferes with his liver so that he becomes bilious. His liver trouble differs from that of the Saturnian, for it disappears when the nervous trouble is relieved, as it is not structural difficulty as with the Saturnian. His olive complexion shows a tinge of bile; and stomach trouble, dyspepsia, and kindred disorders are often met.
+He is proud of his wife, likes to see her well dressed, and makes a good husband, provided he represents the good side of the type. In health the Mercurian is nervous; his quickness and energy speak in unmistakable terms of the electric current which is coursing through his nervous system, stimulating it to great activity. 
+
+This nervous energy prevents his being lazy, makes him love to travel, and this energy sometimes becomes excessive, so that you will find many Mercurian hands with fluted nails more or less pronounced in development. Be on the lookout with this type for nervous trouble, which interferes with his liver so that he becomes bilious.
+
+His liver trouble differs from that of the Saturnian, for it disappears when the nervous trouble is relieved, as it is not structural difficulty as with the Saturnian. His olive complexion shows a tinge of bile; and stomach trouble, dyspepsia, and kindred disorders are often met.
 
 His activity tends to drive away these difficulties, and his system quickly responds to treatment for them. If he has paralytic trouble it most often attacks his arms and upper extremities. It is often helpful to note the Line of Mercury with this type, for by its wavy or broken course it shows the extent of bilious and stomach trouble. 
 
 The Mercurian is a healthy type, so we do not look first for illness with them, hut for peculiar mental characteristics. They have their disorders, however, so be always on your guard that you do not overlook them. The Mount Of Mercury. Part 3 I wish it were possible to say that all Mercurians were good, but unfortunately this cannot be done. 
 
-This second bilious type (Saturn being the first) produces members of the criminal fraternity which will be found in many penitentiaries and penal institutions, condemned for all manner of crimes. It also produces a class who have not yet reached the prisons, but who deserve to, even more than many of those who have been convicted. There is very often an almost imperceptible line which marks the place where shrewdness in business ends and actual dishonesty begins, and the Mercurian seems ever near the line. His natural shrewdness makes it easy for him to outwit his fellowmen, and the temptation for him to do so is great, often so great that he cannot resist it. 
+This second bilious type (Saturn being the first) produces members of the criminal fraternity which will be found in many penitentiaries and penal institutions, condemned for all manner of crimes. It also produces a class who have not yet reached the prisons, but who deserve to, even more than many of those who have been convicted.
+
+There is very often an almost imperceptible line which marks the place where shrewdness in business ends and actual dishonesty begins, and the Mercurian seems ever near the line. His natural shrewdness makes it easy for him to outwit his fellowmen, and the temptation for him to do so is great, often so great that he cannot resist it. 
 
 The invisible line once crossed and the conscience being quieted, a second slip is easily made. Thus inch by inch even a good Mercnrian often degenerates from a sharp business man to a criminal, a liar, and a thief (109). When this class is engaged in bond speculations, or stock-jobbing enterprises, they are not often made to pay for their knavery by imprisonment; for they are keen enough always to have a loophole ready through which to crawl. When they are merchants, they simply cheat their customers with ease and facility, and talk so glibly that the customer does not realize it.
 
@@ -62,7 +68,11 @@ Flexibility of the hands must be noted, for it shows an additional elasticity of
 
 The flexible hand on a business man makes him brilliant and keen, bul to be an extremist and extravagant in conducting his business. The stiff hand will take away much of the dash and brilliancy of the type, and is not often found on the best developed specimens. Old-fashioned ways a stingy habits are present when you find The Mount Of Mercury. 
 
-Part 4 The color of the hands will tell much About health and temperament. White is not not by nature cold. When added to his keenness a very likely to be bad an Pink color gives heat bis keenness makes him a brilliant person. Red color when present will add its pushing qualities to his already quick nature, making him a great worker and a strong force in the community. Yellow color is often seen, for the Mercurian inclines to be bilious. When found it will show a spoiled temper and that the subject will more easily become bad and dishonest, his stomach will likely be out of order, and he will be at cross purposes with his fellows. 
+<!-- Part 4  -->
+
+The color of the hands will tell much About health and temperament. 
+
+White is not not by nature cold. When added to his keenness a very likely to be bad an Pink color gives heat bis keenness makes him a brilliant person. Red color when present will add its pushing qualities to his already quick nature, making him a great worker and a strong force in the community. Yellow color is often seen, for the Mercurian inclines to be bilious. When found it will show a spoiled temper and that the subject will more easily become bad and dishonest, his stomach will likely be out of order, and he will be at cross purposes with his fellows. 
 
 The nails must be examined, for if fluted they show that the nervousness which belongs to the type is making rapid headway. If brittle and bending back, the subject must be warned to use his vital energy sparingly. Blue nails will tell of defective circulation, and yellow that the irritating bile is poisoning his blood. Pink nails will tell of a sharp and healthy subject who is a match for most men, and who acts with great quickness and shrewdness.
 

@@ -5,7 +5,7 @@ date: 2021-09-21
 description: "Gloria Macapagal-Arroyo or GMA is a neoliberal politician who is so skilled at finding ways to sell the country"
 image: "https://res.cloudinary.com/nara/image/upload/v1632384188/photos/gma800.jpg"
 author: Juan
-icon: /favicon.png
+icon: /icons/sun.png
 aliases:
   /maharlika/articles/gloria-arroyo/
   /articles/gloria-arroyo/

@@ -5,7 +5,7 @@ description: "Duterte is a benevolent dictator who cares for the people. Unfortu
 date: 2021-09-30
 image: https://sorasystem.sirv.com/photos/duterte.jpg
 author: Juan
-icon: /favicon.png
+icon: /icons/sun.png
 aliases:
   /maharlika/articles/politicians/duterte
   /articles/politicians/duterte

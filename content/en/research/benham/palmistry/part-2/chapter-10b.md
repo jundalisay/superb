@@ -1,10 +1,10 @@
 ---
 heading: "Chapter 10b"
 title: "Defects in the Saturn Line "
-date: 2021-11-20
+date: 2019-12-22
+author: William Benham
 image: "/photos/objects/hand.jpg"
 description: "All defects found in the beginning of the Saturn line refer to the childhood of the subject, and daring this period the child is too young to do much by himself, either toward improving or hindering his condition"
-author: William Benham
 ---
 
 

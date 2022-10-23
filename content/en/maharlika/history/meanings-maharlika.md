@@ -4,10 +4,6 @@ heading: "A small country where great things come from"
 date: 2021-07-07
 image: /photos/idea.jpg
 description: "Maharlika was the name of the pre-colonial confederation based in the city of Manila in the Philippines"
-linkb: "/maharlika/governance/principal-orders-kkk"
-linkbtext: "KKK Dakilang Kautusan"
-linkf: "/maharlika/advocacy/maharlikanism"
-linkftext: "What is Maharlikanism?"
 author: Juan
 icon: /icons/sun.png
 aliases:

@@ -1,7 +1,8 @@
 ---
 title: "The Saturn Line"
 heading: "Chapter 10 of Part 2"
-date: 2021-11-20
+date: 2019-12-23
+author: William Benham
 image: "/photos/objects/hand.jpg"
 description: "The Saturn line is frequently called the line of Fate."
 icon: /flags/eu.png

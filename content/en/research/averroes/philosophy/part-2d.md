@@ -1,10 +1,9 @@
 ---
 heading: "Part 2d"
 title: "The 4 Divine Attributes"
-# subtitle: "Coming Soon!"
 author: Averroes
 description: ""
-# image: "/covers/nova.jpg"
+image: "/covers/averroes.jpg"
 ---
 
 

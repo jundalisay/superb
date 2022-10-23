@@ -1,10 +1,9 @@
 ---
 heading: "Part 2e"
 title: "Divine Perfection"
-# subtitle: "Coming Soon!"
 author: Averroes
 description: ""
-# image: "/covers/nova.jpg"
+image: "/covers/averroes.jpg"
 ---
 
 

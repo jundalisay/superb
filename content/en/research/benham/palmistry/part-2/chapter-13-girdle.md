@@ -2,7 +2,8 @@
 heading: "Chapter 13 Part 2"
 title: "The Girdle of Venus"
 description: "The Girdle of Venus is found on many hands, the palm being crossed by innumerable lines running in every direction"
-date: 2020-01-21
+date: 2019-12-10
+author: William Benham
 image: "/photos/objects/hand.jpg"
 aliases:
   /research/benham/palmistry/part-2/chapter-28

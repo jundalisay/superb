@@ -4,10 +4,6 @@ heading: "Services, Tourism, Agriculture, Fisheries, Mining"
 date: 2021-09-02
 description: "Services, Tourism, Agriculture, Fisheries, Mining are the natural industries of Maharlika and the Philippines"
 image: "/photos/econ/singer.jpg"
-linkb: "/maharlika/economics/how-industry-failed"
-linkbtext: "how-philippine-industry-failed"
-linkf: "/maharlika/politicians/duterte"
-linkftext: "Duterte"
 author: Juan
 icon: /icons/sun.png
 aliases:
