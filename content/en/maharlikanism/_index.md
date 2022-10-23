@@ -156,4 +156,13 @@ cats:
   - title: "History"
     img: "/photos/medieval/mosque.jpg"      
     url: "/maharlika/history"    
+  - title: "Laws"
+    img: "/photos/medieval/gavel.jpg"      
+    url: "/maharlika/laws"        
+  - title: "Metaphysics"
+    img: "https://sorasystem.sirv.com/photos/mh/agusan800.jpg"      
+    url: "/maharlika/metaphysics"
+  - title: "Politicians"
+    img: "https://sorasystem.sirv.com/photos/duterte.jpg"      
+    url: "/maharlika/politicians"        
 ---

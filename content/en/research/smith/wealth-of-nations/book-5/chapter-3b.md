@@ -1,14 +1,13 @@
-+++
-title=  "Anticipations and Perpetual Funding"
-description=  "Chapter 3 of  by Adam Smith Book 5"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-3a"
-linkbtext=  "Chapter 3a"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-3c"
-linkftext=  "Chapter 3c"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Anticipations and Perpetual Funding"
+heading: "Chapter 3b"
+date: 2020-01-29
+image: "/covers/wn.jpg"
+description: "In Great Britain, the land and malt taxes are regularly anticipated every year by a borrowing clause"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 {{< s v="13" >}} In Great Britain, the land and malt taxes are regularly anticipated every year by a borrowing clause.
 
@@ -63,53 +62,61 @@ The sum borrowed on it was £925,176.
 
 {{< s v="19" >}} In 1709, those duties were all continued to August 1, 1716 except for the Old Subsidy of Tonnage and Poundage which was now all left out of this fund.
 
-It was called the fifth general mortgage or fund.
-The sum borrowed on it was £922,029.
+It was called the 5th general mortgage or fund.
+- The sum borrowed on it was £922,029.
+
 
 {{< s v="20" >}} In 1710, those duties were again prolonged to August 1, 1720.
 
-It was called the sixth general mortgage or fund.
-The sum borrowed on it was £1,296,552.
+It was called the 6th general mortgage or fund.
+- The sum borrowed on it was £1,296,552.
 
-21 In 1711, the same duties, with several others, were continued forever.
+
+{{< s v="21" >}} In 1711, the same duties, with several others, were continued forever.
 
 By then, those duties were thus subject to four anticipations.
+
 It made a fund which paid the interest of the South Sea Company's capital. [fourth anticipation]
-    In 1711, that Company loaned £9,177,967 to government.
-    It was the greatest loan ever made at that time.
+- In 1711, that Company loaned £9,177,967 to government.
+- It was the greatest loan ever made at that time.
 
-22 Before this period, the only perpetual debts were the money advanced to government by= 
 
-the Bank of England
-    The bank fund at this time was £3,375,027.
-    It was paid an annuity or interest of £206,501.
-    The bank fund was at 6% interest.
-the East India Company
-    The East India fund was £3,200,000.
-    It was paid an annuity or interest of £160,000.
-    The East India fund was at 5% interest.
-what was supposed to be advanced a projected land bank, but was never advanced
+{{< s v="22" >}} Before this period, the only perpetual debts were the money advanced to government by:
+- the Bank of England
+  - the bank fund at this time was £3,375,027.
+  - It was paid an annuity or interest of £206,501.
+  - The bank fund was at 6% interest.
+- the East India Company
+  - The East India fund was £3,200,000.
+  - It was paid an annuity or interest of £160,000.
+  - The East India fund was at 5% interest.
+- what was supposed to be advanced a projected land bank, but was never advanced
 
-23 In 1715, by the 1st of George I., c. 12, the taxes mortgaged for paying the bank annuity were accumulated into one common fund called The Aggregate Fund.
+
+{{< s v="23" >}} In 1715, by the 1st of George 1, chapter 12, the taxes mortgaged for paying the bank annuity were accumulated into one common fund called The Aggregate Fund.
 
 It included other taxes which this act also rendered perpetual.
 It was charged with the payments of the annuities.
 This fund was then increased by the 3rd of George 1st, chapter 8, and by the 5th of George 1st, chapter 3.
 The duties added to it were also rendered perpetual.
 
-24 In 1717, by the 3rd of George 1st, chapter. 7, several other taxes were rendered perpetual and accumulated into another common fund, called The General Fund.
+
+{{< s v="24" >}} In 1717, by the 3rd of George 1st, chapter. 7, several other taxes were rendered perpetual and accumulated into another common fund, called The General Fund.
 
 It was for paying certain annuities totalling £724,849.
 
-25 Because of those different acts, most of the taxes which before were only anticipated for a few years were rendered perpetual.
+
+{{< s v="25" >}}Because of those different acts, most of the taxes which before were only anticipated for a few years were rendered perpetual.
 
 It was used as a fund for paying only the interest of the money previously borrowed by successive anticipations.
 
-26 Had money only been raised by anticipation, the public revenue would have been liberated after a few years.
 
-It would not need any other government attention besides that of= 
-    not charging it with more debt than it could pay within the limited term,
-    not anticipating a second time before the expiration of the first anticipation.
+{{< s v="26" >}} Had money only been raised by anticipation, the public revenue would have been liberated after a few years.
+
+It would not need any other government attention besides that of:
+- not charging it with more debt than it could pay within the limited term,
+- not anticipating a second time before the expiration of the first anticipation.
+
 But most European governments have been incapable of those attentions= 
     They have frequently overloaded the fund on the first anticipation, or
     They have generally taken care to overload it by anticipating a second and a third time before the expiration of the first anticipation.
@@ -128,7 +135,8 @@ When men became familiar with funding, it became universally preferred to antici
 
 Relieving the present exigency is always the object of government. The future liberation of the public revenue they leave to the care of posterity.
 
-27 During the reign of Queen Anne, which started in 1702, the market interest rate fell from 6% to 5%.
+
+{{< s v="27" >}} During the reign of Queen Anne, which started in 1702, the market interest rate fell from 6% to 5%.
 
 In 1714, 5% was declared the highest lawful rate for money borrowed on private security.
 Like the creditors of private people, the creditors of the government were induced to accept 5% for the interest of their money after the temporary taxes were= 
@@ -141,10 +149,4 @@ This saving left a big surplus in the proceeds of the taxes accumulated into tho
 - In 1717, it was £323,434.
 - In 1727, the interest of most of the public debts was reduced to 4%.
 - In 1753 and 1757, it was reduced to 3.5-3%. It further increased the sinking fund.
-
-28 A sinking fund is instituted for the payment of old debts.
-
-However, it facilitates very much the contracting of new debts.
-It is a subsidiary fund always at hand to be mortgaged to help any other doubtful fund for a state exigency.
-I will show gradually whether this sinking fund was more frequently applied to pay old debts or contract new ones.
 

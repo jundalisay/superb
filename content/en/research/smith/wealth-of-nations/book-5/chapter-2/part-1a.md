@@ -1,21 +1,20 @@
-+++
-title=  "The funds which belong to the sovereign or commonwealth"
-description=  "The revenue which pays for national defense and the government may be drawn from some fund for from the revenue of the people"
-date=  2015-01-31
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-4"
-linkbtext=  "Part 3T"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-1b"
-linkftext=  "Chapter 2 Part 1B"
-heading=  "Part 1a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The funds which belong to the sovereign or commonwealth"
+heading: "Chapter 2 Part 1a"
+date: 2020-12-31
+image: "/covers/wn.jpg"
+description: "The revenue which pays for national defense and the government may be drawn from some fund for from the revenue of the people"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="1" >}} The revenue which pays for national defense and supporting the dignity of the chief magistrate may be drawn= 
 
 - from some fund of the commonwealth, independent of the revenue of the people; or
 - from the revenue of the people
+
 
 ## Part 1 The funds which belong to the sovereign or commonwealth
 
@@ -25,10 +24,10 @@ icon=  "/icons/smith.png"
 - by employing it himself as his profit, or
 - by lending it as his interest.
 
-4 The revenue of a Mongol or Arab chief consists in profit. It arises from the milk and increase of his own herds which he manages as the principal herdsman of his tribe.
+{{< s v="4" >}} The revenue of a Mongol or Arab chief consists in profit. It arises from the milk and increase of his own herds which he manages as the principal herdsman of his tribe.
 Profit makes the principal part of the public revenue of a monarchial state only in this earliest state of civil government.
 
-5 Small republics sometimes derived a big revenue from the profit of mercantile projects.
+{{< s v="5" >}} Small republics sometimes derived a big revenue from the profit of mercantile projects.
 
 The republic of Hamburgh derived revenue from the profits of a public wine cellar and pharmacy.
 The state cannot be very great if the sovereign has leisure to be a wine merchant or pharmacist.
@@ -51,9 +50,9 @@ Government management of mercantile projects like this requires orderly, vigilan
 **Thus, the English government cannot be safely trusted with bank management.**
 
 
-6 The post office is properly a mercantile project.
+{{< s v="6" >}} The post office is properly a mercantile project.
 
-The government pays= 
+The government pays:
 - to establish the different offices,
 - to buy or hire the necessary horses or carriages,
 

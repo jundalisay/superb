@@ -1,5 +1,5 @@
 ---
-heading: "Sections 6-20"
+heading: "Sections 7-20"
 title: "New Sections"
 description: "Rice Tariffication Act"
 image: "/photos/team.jpg"
@@ -7,9 +7,11 @@ date: 2020-10-29
 ---
 
 
-Section 6. A new Section 7 is hereby inserted after Section 6 of R. A. No. 8178, as amended, to read as follows:
+<!-- Section 6. A new Section 7 is hereby inserted after Section 6 of R. A. No. 8178, as amended, to read as follows: -->
 
-"Sec. 7. Powers of the President. - Consistent with the Philippine national interest and the objective of safeguarding Filipino farmers and consumers, the President is hereby empowered to act with full delegated authority subject to the provisions of the CMTA. in the following circumstances:
+Sec. 7. Powers of the President
+
+Consistent with the Philippine national interest and the objective of safeguarding Filipino farmers and consumers, the President is hereby empowered to act with full delegated authority subject to the provisions of the CMTA. in the following circumstances:
 
 "(a) The President may increase, reduce, revise, or adjust existing rates of import duty up to the bound rate committed by the Philippines under the WTO Agreement on Agriculture and under the ATIGA, including any necessary change in classification applicable to the importation of rice: Provided, That the power herein delegated to the President shall only be exercised when Congress is not in session: Provided, further, That any order issued by the President adjusting the applied tariff rates shall take effect fifteen (15) days after publication;
 
@@ -117,15 +119,27 @@ Section 15. A new Section 15 is hereby inserted after the new Section 14 of R. A
 
 Section 16. A new Section 16 is hereby inserted after the new Section 15 of R. A. No. 8178. as amended, to read as follows:
 
-"Sec. 16. National Single Window Program. - To ensure the accurate collection of tariff as provided in Section 6 of this Act, the National Single Window (NSW) program of the Bureau of Customs (BOC) shall be implemented within one hundred eighty (180) days from the effectivity of this Act in accordance with Executive Order No. 482."
+"Sec. 16. National Single Window Program
+
+To ensure the accurate collection of tariff as provided in Section 6 of this Act, the National Single Window (NSW) program of the Bureau of Customs (BOC) shall be implemented within one hundred eighty (180) days from the effectivity of this Act in accordance with Executive Order No. 482."
+
 
 Section 17. Implementing Rules and Regulations. - Within forty-five (45) days from effectivity of this Act, the DA, NEDA and DBM shall, in coordination with DAR. DENR, NIA. LRA, PCIC. PHilMech, PhilRice, TESDA, LBP, DBP, ATI, and other government agencies concerned and after consultation with directly affected stakeholders, promulgate the rules and regulations to effectively implement the provisions of this Act.
 
-Section 18. Separability Clause. - If any portion of this Act is declared invalid or unconstitutional, the portions or provisions which are not affected shall continue to be in full force and effect.
+Section 18. Separability Clause
 
-Section 19. Repealing Clause. - All laws, decrees, executive issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
 
-Section 20. Effectivity. - This Act shall take effect fifteen (15) days after its publication in the Official Gazette or in a newspaper of general circulation.
+
+If any portion of this Act is declared invalid or unconstitutional, the portions or provisions which are not affected shall continue to be in full force and effect.
+
+Section 19. Repealing Clause
+
+All laws, decrees, executive issuances, rules and regulations inconsistent with this Act are hereby repealed or modified accordingly.
+
+
+Section 20. Effectivity
+
+This Act shall take effect 15 days after its publication in the Official Gazette or in a newspaper of general circulation.
 
 <!-- Approved,
 

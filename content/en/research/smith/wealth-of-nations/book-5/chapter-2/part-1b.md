@@ -1,15 +1,13 @@
-+++
-title=  "Rent and sale of government lands"
-description=  "The rent of a great landed estate might ordinarily defray all the necessary expences of government"
-date=  2015-01-30
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-1a"
-linkbtext=  "Part 1a"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2a-tax-maxims"
-linkftext=  "Part 2a"
-# heading=  Part 1b
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Rent and sale of government lands"
+heading: "Chapter 2 Part 1b"
+date: 2020-12-30
+image: "/covers/wn.jpg"
+description: "The rent of a great landed estate might ordinarily defray all the necessary expences of government"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="14" >}} Land is a fund more naturally stable and permanent.

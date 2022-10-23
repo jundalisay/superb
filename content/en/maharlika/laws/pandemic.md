@@ -1,4 +1,5 @@
 ---
+heading: "Senate Bill 1573"
 title: "Pandemic and All-Hazards Preparedness Act"
 description: "Miriam Defensor Santiago wrote the Pandemic Bill way before the pandemic struck the Philippines"
 date: 2020-07-10
@@ -8,7 +9,7 @@ aliases:
 ---
 
 
-*16th Congress  First Regular Session ) Senate S.no. 1573 by Senator Miriam Defensor Santiago *
+*16th Congress  First Regular Session ) Senate Bill 1573 by Senator Miriam Defensor Santiago *
 
 
 ## An Act Strengthening National Preparedness And Response To Public Health Emergencies

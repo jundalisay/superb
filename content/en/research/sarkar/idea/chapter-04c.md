@@ -77,13 +77,16 @@ Generally, there are 1,000 propensities in the human structure.
   - Saḿkalpátmaka, or one leading to parávidyá (knowledge of the Great)
   - Vikalpátmaka, relating to aparávidyá (knowledge of the mundane). 
 
-The pineal as a structure controls all these 50 vrttis taken internally and externally by all 10 sense-organs<!--  indriyas -->. 50 x 2 x 10 = 1,000.
+The pineal as a structure controls all these 50* <!-- vrttis --> propensities taken internally and externally by all 10 sense-organs<!--  indriyas -->. 50 x 2 x 10 = 1,000.
 
 Within the scope of these propensities lies the seed of <!-- saḿskára – --> good or bad reactive momenta.
 
 - Yogis who can control<!--  over --> the sahasrára cakra can attain nirvikalpa samádhi -- a state where they are beyond the approach of all the propensities<!-- vrttis -->. 
   - The attainment of such a state means the end of all reactive momenta (samskara)
   - The exhaustion of all the previous momentum accumulated by the mind due to its previous journeys in Brahma Cakra is called mokśa, the union with the Transcendentality.
+
+
+> *Superphysics note: We implement the 50 propensities as the lines (travel, marriage, venus, etc). <!-- 7 + 3 dimensions multiplied by 5 layers. --> The "2" is the change from past to present. The "10" is the dominant 7 mounts and 3 lines. 
 
 
 30 May 1959

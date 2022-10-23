@@ -1,14 +1,13 @@
-+++
-title=  "The Physiocrats"
-heading=  "Chapter 7d of Book 4"
-description=  "No nation has ever adopted the system which represents the produce of land as the sole source of the country's revenue and wealth"
-date=  2020-03-21
-author=  "Adam Smith"
-image=  "/covers/wn.jpg"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-9b-unproductive"
-linkftext=  "Chapter 9b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Physiocrats"
+heading: "Chapter 7d"
+date: 2020-03-21
+image: "/covers/wn.jpg"
+description: "No nation has ever adopted the system which represents the produce of land as the sole source of the country's revenue and wealth"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 ## Economic systems which represent the produce of land as the principal source of wealth
@@ -22,7 +21,7 @@ It presently exists only in the speculations of a few learned and ingenuous Fren
 <!-- I shall only explain the outlines of this very ingenious system. -->
 
 
-![Jean Baptiste Colbert](https= //socioecons.files.wordpress.com/2014/11/220px-colbert_mg_8447_cropped.jpg)
+![Jean Baptiste Colbert](https://socioecons.files.wordpress.com/2014/11/220px-colbert_mg_8447_cropped.jpg)
 
 {{< s v="3" >}} Mr. Colbert was the famous minister of Louis 14th. He was an honest, hardworking, and meticulous man. He had:
 - great experience and acuteness in examining public accounts,
@@ -56,7 +55,13 @@ This prohibition discouraged and kept down French agriculture <!-- of that count
 This discouragement and depression was felt throughout France. Many inquiries were set concerning its causes. 
 - One of those causes was the preference given by Mr. Colbert's institutions to urban industry <!-- of the towns -->.
 
-4 If the rod be bent too much one way, says the proverb, in order to make it straight you must bend it as much the other.
+
+{{< s v="4" >}} The proverb says: 
+
+{{< q >}}
+If the rod be bent too much one way, in order to make it straight, you must bend it as much the other.
+{{< /q >}}
+
 
 The French philosophers adopted this proverbial maxim.
 - They proposed the system which represents agriculture as the sole source of the revenue and wealth of every country.
@@ -65,7 +70,8 @@ In Mr. Colbert's plan, the industry of the towns was over-valued compared with t
 
 In the plan of the French philosophers, the industry of the towns was as under-valued.
 
-5 The French philosophers divided people who contribute to the national annual produce, into three classes= 
+
+{{< s v="5" >}} The French philosophers divided people who contribute to the national annual produce, into 3 classes: 
 
 1. The proprietors of land
 2. The cultivators, farmers, and country labourers
@@ -73,24 +79,26 @@ In the plan of the French philosophers, the industry of the towns was as under-v
 3. Artificers, manufacturers, and merchants
   - They degrade this class with the humiliating title of the barren or unproductive class.
 
-6 The class of proprietors contributes to the national annual produce by their expences on the improvement of the land.
+
+{{< s v="6" >}} The class of proprietors contributes to the national annual produce by their expences on the improvement of the land.
 
 This improvement includes buildings, drains, enclosures, and other ameliorations which they make or maintain on the land.
 These enable the cultivators to raise more produce and pay more rent.
 This advanced rent is the interest or profit due to the proprietor for his cost in improvement.
 In this system, such costs are called ground expences (depenses foncieres)
 
-7 The cultivators or farmers contribute to the annual produce by their expences on land cultivation.
+
+{{< s v="7" >}} The cultivators or farmers contribute to the annual produce by their expences on land cultivation.
 
 In this system, those expences are called the original and annual expences (depenses primitives et depenses annuelles)
 
-The original expences consist in= 
+The original expences consist in:
 - The instruments of husbandry
 - The stock of cattle
 - The seed
 - The maintenance of the farmer's family, servants, and cattle during his first year of occupancy or until he can receive some return from the land
 
-The annual expences consist in= 
+The annual expences consist in:
 - The seed
 - The wear and tear of the instruments of husbandry
 - The annual maintenance of the farmer's servants, cattle, and his family considered as servants employed in cultivation.
@@ -99,10 +107,12 @@ The produce which remains to him after paying the rent should be sufficient=
 - to replace to him all of his original expences together with ordinary profits, within a reasonable time.
 - to replace to him annually all of his annual expences, together with ordinary profits.
 
-Those two sorts of expences are the two capitals which the farmer employs in cultivation.
+Those 2 sorts of expences are the 2 capitals which the farmer employs in cultivation.
 
 Unless they are regularly restored to him with a reasonable profit, he cannot continue his employment on a level with other employments.
+
 From a regard to his own interest, he must desert it as soon as possible and seek some other employment.
+
 The produce of land needed to enable the farmer to continue his business should be considered as a fund sacred to cultivation.
 
 If the landlord violates this fund, he reduces the produce of his own land.
@@ -112,7 +122,8 @@ The labour of the cultivators affords a net produce over and above paying all th
 This is why they are called the productive class by this system.
 This system calls their original and annual expences as productive expences because they reproduce this net produce and replace their own value.
 
-8 The ground expences is what the landlord spends on improving his land.
+
+{{< s v="8" >}} The ground expences is what the landlord spends on improving his land.
 
 In this system, they are honoured with the title of productive expences.
 Until all of those expences, together with ordinary profits, have been repaid by the advanced rent, that advanced rent should be regarded as sacred by the church and the king.
@@ -124,14 +135,16 @@ Those ground expences are considered as productive expences because=
 They reproduce their own value in the completest manner.
 They reproduce a net produce after a certan time.
 
-9 This system only considers three sorts of expences as productive= 
+
+{{< s v="9" >}} This system only considers three sorts of expences as productive= 
 
 The ground expences of the landlord
 The original expences of the farmer
 The annual expences of the farmer
 All other expences and all other orders of people are represented as barren and unproductive, even those we commonly regard as the most productive.
 
-10 We commonly think that the industry of artificers and manufacturers increases the value of rude produce so much.
+
+{{< s v="10" >}} We commonly think that the industry of artificers and manufacturers increases the value of rude produce so much.
 
 In this system, they are represented as a barren and unproductive class.
 The labour of artificers and manufacturers replaces only the stock which employs them, together with ordinary profits.
@@ -156,12 +169,16 @@ On the contrary, the expence of employing farmers and country labourers continue
 
 It produces a new value in the rent of the landlord.
 It is therefore a productive expence.
-11 Mercantile stock is equally barren and unproductive with manufacturing stock.
+
+
+{{< s v="11" >}} Mercantile stock is equally barren and unproductive with manufacturing stock.
 
 It only continues its own value, without producing any new value.
 Its profits are only the repayment of the maintenance its employer advances to himself.
 They are only the repayment of a part of the expence in employing it.
-12 The labour of artificers and manufacturers never adds anything to the value of the total rude produce of the land.
+
+
+{{< s v="12" >}} The labour of artificers and manufacturers never adds anything to the value of the total rude produce of the land.
 
 It adds greatly to the value of some of it.
 But the consumption it creates in other parts is precisely equal to the value which it adds to those parts.

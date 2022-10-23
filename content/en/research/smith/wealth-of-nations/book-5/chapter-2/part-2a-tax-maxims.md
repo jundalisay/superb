@@ -1,18 +1,13 @@
-+++
-title=  "Four Taxation Maxims"
-description=  "Every tax must ultimately be paid from any or all of those three kinds of revenue"
-date=  2015-01-29
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-1b"
-linkbtext=  "Part 1b"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2b-article-1"
-linkftext=  "Part 2b"
-heading=  "Part 2a"
-icon=  "/icons/smith.png"
-aliases= [
-  "/research/smith/wealth-of-nations/book-5/chapter-2c-tax-maxims"
-]
-+++
+---
+title: "The Four Taxation Maxims"
+heading: "Chapter 2 Part 2a"
+date: 2020-12-29
+image: "/covers/wn.jpg"
+description: "Every tax must ultimately be paid from any or all of those three kinds of revenue"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="23" >}} Book 1 has shown that private revenue comes from rent, profit, and wages.

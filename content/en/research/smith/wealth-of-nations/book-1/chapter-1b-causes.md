@@ -1,10 +1,11 @@
 ---
 title: "What Causes the Increase in Productivity?"
-heading: "Chapter 1b of Book 1"
+heading: "Chapter 1b"
 date: 2020-01-29
 image: "/covers/wn.jpg"
 description: "Division of Labor raises productivity by increasing skill, time savings, and by the invention of technology"
 icon: "/icons/smith.png"
+author: Adam Smith
 ---
 
 

@@ -1,19 +1,17 @@
-+++
-title=  "Ways to pay public debts-Personal treasure or credit of ruler"
-description=  "Chapter 3 of  by Adam Smith Book 5"
-date=  2020-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2w-article-4"
-linkbtext=  "Part 2w"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-3b/"
-linkftext=  "Chapter 3b"
-heading=  "Chapter 3a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Ways to pay public debts-Personal treasure or credit of ruler"
+heading: "Chapter 3a"
+date: 2020-01-31
+image: "/covers/wn.jpg"
+description: "The private man's revenue can pass through his hands only once a year. But the merchant's total capital and credit may pass through the merchant's hands 2-4 times a year, because his returns are quicker"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
 
 
 
-{{< s v="1" >}} In Book 3, I showed that the person who has a large revenue in the rude state of society can enjoy that revenue only by maintaining as many people as possible. A large revenue then might consist in basic necessities such as= 
+
+{{< s v="1" >}} In Book 3, I showed that the person who has a large revenue in the rude state of society can enjoy that revenue only by maintaining as many people as possible. A large revenue then might consist in basic necessities such as:
 - plain food
 - coarse clothing
 - corn and cattle
@@ -144,7 +142,7 @@ Nations, like private men, have begun to borrow on personal credit, without assi
 
 {{< s v="11" >}} The unfunded debt of Great Britain is contracted as a personal credit.
 
-It consists partly in= 
+It consists partly in:
 - a debt which bears no interest
   - It resembles the debts that a private man contracts on account.
 - a debt which bears interest
@@ -179,14 +177,16 @@ Exchequer bills and tallies were sold from 25-60% discount. This was partly caus
 - the instability of the new government established by the Revolution
 - the lack of the support of the Bank of England
 
-Two methods of paying the debt=  Anticipation and Funding
+## Two methods of paying the debt: Anticipation and Funding
 
-12 When this resource is exhausted and assigning or mortgaging the public revenue is needed to pay the debt, government has had two expedients= 
+{{< s v="12" >}} When this resource is exhausted and assigning or mortgaging the public revenue is needed to pay the debt, government has had 2 expedients:
 
-    Sometimes it made this assignment or mortgage for a short time only, a year or a few years.
-        In this case, the fund was supposed sufficient to pay the principal and interest of the money borrowed, within the limited time.
-        This method was called raising by anticipation.
-    Sometimes it made this payment for perpetuity.
-        In this case, it was supposed sufficient to pay the interest only, or a perpetual annuity equivalent to the interest.
-        Government would be free at any time to redeem this annuity by paying back the principal amount borrowed.
-        This method is called perpetual funding or funding.
+1. "Raising by Anticipation"
+
+Here, the government makes this assignment or mortgage for a short time only, a year or a few years. The fund is supposed sufficient to pay the principal and interest of the money borrowed, within the limited time.
+
+2. "Perpetual funding or Funding"
+
+Here, the government pays forever<!-- for perpetuity --> only the interest, or a perpetual annuity equivalent to the interest.
+- The government would be free at any time to redeem this annuity by paying back the principal amount borrowed.
+

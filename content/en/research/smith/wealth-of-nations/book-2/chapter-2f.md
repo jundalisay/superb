@@ -5,6 +5,7 @@ date: 2020-01-24
 image: "/covers/wn.jpg"
 description: "A bank also spends to keep a large amount at all times in its coffers for answering the occasional demands of the holders of its notes"
 icon: "/icons/smith.png"
+author: Adam Smith
 ---
 
 

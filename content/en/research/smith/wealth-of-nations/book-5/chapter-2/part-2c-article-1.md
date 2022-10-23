@@ -1,15 +1,13 @@
-+++
-title=  "Variable Land Taxes"
-heading=  "Part 2, Article 1-Taxes on Land Rent"
-description=  "The cost of levying a variable land-tax would be greater than levying a fixed land-tax"
-date=  2015-01-27
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2b-article-1"
-linkbtext=  "Part 2b"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2d-article-1"
-linkftext=  "Part 2d"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Variable Land Taxes"
+heading: "Chapter 2 Part 2c"
+date: 2020-12-27
+image: "/covers/wn.jpg"
+description: "The cost of levying a variable land-tax would be greater than levying a fixed land-tax"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="46" >}} The cost of levying a variable land-tax would be greater than levying a fixed land-tax.

@@ -1,15 +1,14 @@
-+++
-title=  "Fixed Land Tax" 
-heading=  "Part 2b, Article 1--Taxes on Land Rent" 
-description=  "A tax on land rent may be based on a valuation which is fixed and does not change with the actual rent which can fluctuate with the land's improvement or decline"
-date=  2015-01-28
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2a-tax-maxims"
-linkbtext=  "Part 2a"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2c-article-1"
-linkftext=  "Part 2c"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Fixed Land Tax"
+heading: "Chapter 2 Part 2b, Article 1--Taxes on Land Rent"
+date: 2020-12-28
+image: "/covers/wn.jpg"
+description: "A tax on land rent may be based on a valuation which is fixed and does not change with the actual rent which can fluctuate with the land's improvement or decline"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
+
 
 
 {{< s v="30" >}} A tax on land rent may be based on a valuation which is fixed and does not change with the actual rent which can fluctuate with the land's improvement or decline.

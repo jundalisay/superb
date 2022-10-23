@@ -3,6 +3,17 @@ warrior
 thinker
 trader
 
+the inability to think and do research permeates in all sectors. 
+
+The students take a single library and work with that. 
+
+
+The lack of intellect was frightening. why the country is has debt and inflation.  
+
+huge upgrade from caveman morals which is to run away with the goods when the seller isn't looking or not capable to catch you. 
+
+
+
 productive work 
 - adding or creating value
 - maintaining value

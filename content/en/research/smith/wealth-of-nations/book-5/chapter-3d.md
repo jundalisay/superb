@@ -1,98 +1,123 @@
-+++
-title=  "Chapter 3D Bad Effects of Funding"
-description=  "The practice of perpetual funding has gradually enfeebled every state which has adopted it. The Italian republics started it."
-date=  2015-01-01
-heading=  "Chapter 3d of Book 5 "
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-3c"
-linkbtext=  "Chapter 3c"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-3d"
-linkftext=  "Chapter 3e"
-icon=  "/icons/smith.png"
-+++
+---
+title: "French Annuities"
+heading: "Chapter 3d"
+date: 2020-01-27
+image: "/covers/wn.jpg"
+description: "During the reigns of King William and Queen Anne, large sums were frequently borrowed on annuities for terms of years which varied"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
 
 
-{{< s v="54" >}} Land and capital stock are the two original sources of all private and public revenue.
 
-Capital stock pays the wages of productive labour, whether employed in agriculture, manufactures, or commerce.
-The management of those two original sources of revenue belong to two sets of people= 
-- the proprietors of land, and
-- the owners or employers of capital stock.
+{{< s v="36" >}} In France, the seat of government is not in a great mercantile city.
 
+Merchants do not make up the people who advance money to government.
+The lenders for all public exigencies are made mostly of:
+- finance people
+- tax farmers general
+- non-farm tax receivers
+- court bankers, etc.
 
-{{< s v="55" >}} The proprietor of land is interested to keep his estate in as good condition as he can, for the sake of his own revenue.
+Such people are commonly very wealthy and proud men of mean birth.
+    They are too proud to marry their equals.
+        Women of quality disdain to marry them.
+    They frequently resolve to live as bachelors.
+    They do not have families of their own nor much regard their relatives' families.
+    They desire only to live in splendour during their own time.
+    They are willing that their fortune should end with themselves.
 
-He does this by: 
-    building and repairing his tenants' houses, and
-    making and maintaining the necessary drains and enclosures and all those other expensive improvements.
-These all properly belong to the landlord to make and maintain.
-    The landlord might be unable to make or maintain expensive land improvements when= 
-        land taxes very much reduce his revenue, and
-        sales taxes on necessities and conveniences render his reduced revenue of so little real value.
-When the landlord stops doing his part, it is impossible that the tenant should continue his.
-    As the landlord's distress increases, the country's agriculture must necessarily decline.
+There are much more people in France who are averse to marry, or feel marriage to be inconvenient or improper, than in England.
 
-
-{{< s v="56" >}} Merchants and manufacturers are the owners of the greatest capitals.
-
-They will be disposed to remove their capitals when, by sales taxes on commodities, they find that their revenue from their commodities is less than other revenues.
-When they are continually exposed to the mortifying and vexatious visits of the tax-gatherers to get more taxes, this will turn to an actual removal.
-The country's industry will necessarily fall with the removal of the capital which supported it.
-The ruin of trade and manufactures will follow the decline of agriculture.
-
-57 The original owners of land and capital stock are the people most interested in the good management of those two revenue sources.
-
-The neglect of land and the waste of capital stock can be caused in the long run by transferring their ownership to another set of persons, such as the public creditors.
-    These people have no such interest.
-A public creditor has a general interest in the prosperity of the agriculture, manufactures, commerce, lands, and capital stock of the country.
-    Should there be any failure in any of these things, the proceeds of the taxes might be insufficient to pay him his annuity or interest.
-But a public creditor has no interest in the good management of any specific land or capital stock.
-    He has no knowledge of any such specifics.
-    He does not inspect it and does not care about it.
-    Its ruin might be unknown to him and cannot directly affect him.
-
-58 The practice of perpetual funding has gradually enfeebled every state which has adopted it.
-
-<!-- The Italian republics seem to have begun it. -->
-The Italian republics started it.
-- Genoa and Venice are the only two remaining republics which can pretend to be independent. They have both been enfeebled by it.
-
-Spain learned it from the Italian republics.
-- Its taxes were probably less judicious than theirs.
-- Spain has been more enfeebled, in proportion to its natural strength.
-- The debts of Spain are very old.
-- It was deeply in debt before the end of the 16th century, about 100 years before England owed a shilling.
-
-France, despite its natural resources, languishes under the same kind of oppressive load.
-
-The republic of the United Provinces is as much enfeebled by its debts as Genoa or Venice. Is it likely that a practice which brought weakness or desolation to other countries should prove innocent in Great Britain alone?
+Such people have little or no care for posterity.
+It is most convenient for them to exchange their capital for a revenue that will last as long as they wish.
 
 
-{{< s v="59" >}} The tax system established in those countries is inferior to that of England. But we should remember that when the wisest government has exhausted all the proper subjects of taxation, it must resort to improper ones in cases of urgent necessity,
+{{< s v="37" >}} The ordinary expence of most modern governments in peacetime is nearly equal to their ordinary revenue.
 
-The wise republic of Holland was sometimes obliged to levy taxes as inconvenient as those of Spain.
-If another, more expensive war begins before the public revenue could be much liberated, the British tax system would be rendered as oppressive as that of Holland or Spain.
-To the honour of our present tax system, it has given very little embarrassment to industry.
-    During the most expensive wars, the frugality and good conduct of people were able, by saving and accumulation, to repair all the breaches which the waste and extravagance of government did to the society's general capital.
+When war comes, they are unwilling and unable to increase their revenue to match their expence.
+Governments fear of offending the people.
+    The people would be soon disgusted with the war because of the sudden increase of taxes.
 
-The most recent war was the most expensive Great Britain ever waged.
+Governments do not know what taxes can produce the needed revenue.
+    The facility of borrowing delivers them from the embarrassment brought by this fear and inability.
+        Through borrowing, they can raise money from year to year with very moderate tax increases.
+        Through perpetual funding, they can raise the largest sum with the smallest tax increases.
+In great empires, the people who live far from the action feel no inconvenience from the war.
+    They enjoy reading the exploits of their own fleets and armies in the newspapers.
+    To them, this amusement compensates the small difference between the wartime taxes and the peacetime taxes.
+    They are commonly dissatisfied with the return of peace.
+        It ends their amusement, hopes of conquest, national glory from a longer war.
 
-At the end of it, British agriculture was as flourishing, her manufacturers as numerous and as fully employed, and her commerce as extensive as before.
-    The capital which supported all those industries must have been equal to what it was before.
-Since the peace= 
-    agriculture was still further improved, and
-    house rents have risen.
-        It is a proof of the people's increasing wealth and revenue.
-    the annual amount of most of the old taxes, particularly the excise and customs, has been continually increasing.
-        It is an equally clear proof of an increasing consumption.
-        It is proof of an increasing produce for that consumption.
 
-Great Britain seems to easily support a burden which everyone thought she could not support 50 years ago.
+{{< s v="38" >}} The return of peace seldom relieves them from most of the wartime taxes.
 
-Let us not rashly conclude that she is capable of supporting any burden.
-Let us not be too confident that she can support, without great distress, a little more burden than what she already has.
+These taxes are mortgaged for the interest of the debt contracted for the war.
+If the new taxes produce some surplus after paying the debt's interest, this revenue might be converted into a sinking fund for paying off the debt.
+    This often fails because= 
+        This sinking fund is altogether inadequate for paying the whole war debt within a reasonable time.
+        This fund is almost always applied to other purposes.
 
-60 When national debts have been accumulated to a certain degree, there has never been a single instance of them being fairly and completely paid.
 
-The public revenue is liberated by bankruptcy or, frequently, by a pretended payment.
+{{< s v="39" >}} The new taxes were imposed only to pay the interest.
+
+They are not intended nor expected to produce more.
+    Any surplus would seldom be very considerable.
+Sinking funds generally arose more from a reduction of interest than from any surplus of taxes.
+    Holland's sinking fund in 1655 and that of the ecclesiastical state in 1685 were formed this way.
+    Hence the usual insufficiency of such funds.
+
+
+{{< s v="40" >}} During peacetime, various events require an extraordinary expence.
+
+Government finds it always more convenient to defray this expence by misapplying the sinking fund than by imposing a new tax.
+    Every new tax is immediately felt by the people.
+    It always creates some murmur and is met with some opposition.
+The more taxes are created, the higher the taxation.
+    The more loudly the people complain of every new tax, the more difficult it becomes to= 
+        find out new subjects of taxation, or
+        raise the current taxes.
+
+A momentary suspension of the debt payment is not immediately felt by the people.
+
+It creates no murmur or complaint.
+Borrowing from the sinking fund is always an obvious and easy way to gett out of the present difficulty.
+The more the public debts are accumulated, the more necessary it is to study to reduce them.
+    The more dangerous it is to misapply the sinking fund.
+    The less likely the public debt is reduced, the more likely it is for the sinking fund to be misapplied towards defraying all the extraordinary peacetime expences.
+When a nation is already overburdened with taxes, only the need of a new war, fueled by national vengeance or anxiety, can induce people to submit to a new tax.
+    Hence the usual misapplication of the sinking fund.
+
+
+
+
+
+{{< s v="41" >}} In Great Britain, from the start of perpetual funding, the public debt reduction in peacetime was never proportional to its accumulation in wartime.
+
+Great Britain's present enormous debt was first laid by the Nine Years' War of 1688 which was ended by the Treaty of Ryswick in 1697.
+
+
+{{< s v="42" >}} On December 31 1697, Great Britain's public debts, funded and unfunded, was £21,515,742.
+
+Most of those debts were contracted on short anticipations.
+- Some part was on annuities for lives.
+
+Before December 31, 1701, in less than four years, it was reduced by £5,121,041.
+    This was a greater reduction of public debt than ever before, for so short a time.
+    The remaining debt was only £16,394,701.
+
+
+{{< s v="43" >}} In the War of the Spanish Succession of 1709, concluded by the Treaty of Utrecht, the public debts further increased.
+
+On December 31, 1714, they amounted to £53,681,076.
+The subscription into the South Sea fund of the short and long annuities increased the capital of the public debts.
+    On December 31, 1722 it amounted to £55,282,978.
+The reduction of the debt began in 1723.
+    It went on so slowly that, by December 31, 1739 after 17 years of profound peace, the whole sum paid off was no more than £8,328,354.
+    The capital of the public debt at that time was £46,954,623.
+
+
+{{< s v="44" >}} The debt increased because of the War of Jenkins' Ear, which began in 1739, and the War of the Austrian Succession which soon followed it.
+
+On December 31, 1748, the debt was at £78,293,313 after the war was concluded by the Treaty of Aix-la-Chapelle. The most profound peace of 17 years reduced the debt by only £8,328,354. A war of less than nine years added £31,338,689 to the debt.
 

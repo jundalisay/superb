@@ -1,14 +1,16 @@
-+++
-title=  "Book 5 Government Expenses and Revenue"
-linkTitle = "Book 5"
-description=  "We simplify The Wealth of Nations Book 5 about Government Expenses and Revenue"
-date=  "2015-09-09"
-image=  "/covers/wn.jpg"
-aliases= [
-  "/research/smith/simple-wealth-of-nations/"
-] 
+---
+title: "Government Expenses and Revenue"
+heading: "Book 5"
+date: 2020-09-09
+image: "/covers/wn.jpg"
+description: "We simplify The Wealth of Nations Book 5 about Government Expenses and Revenue"
+# icon: "/icons/smith.png"
+author: Adam Smith
+aliases:
+  /research/smith/simple-wealth-of-nations/
+---
 
-+++
+
 
 <!-- Introduction
 
