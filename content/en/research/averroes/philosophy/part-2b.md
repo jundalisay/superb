@@ -99,12 +99,24 @@ This method is the right path by which God has invited men to a knowledge of His
 
 They answered, Yea, we do bear witness.”[46] So it is incumbent for one who intends to obey God, and follow the injunction of His Prophet, that he should adopt this method, thus making himself one of those learned men who bear witness to the divinity of God, with His own witness, and that of His angels, as He says, “God hath borne witness, that there is no God but He, and the angels, and those who are endowed with wisdom profess the same; who executeth righteousness; there is no God but He; the Mighty, the Wise.”[47] Among the arguments for both of themselves is the praise which God refers to in the following verse, “Neither is there any thing which doth not celebrate his praise; but[129] ye understand not their celebration thereof.”[48]
 
-It is evident from the above arguments for the existence of God that they are dependent upon two categories of reasoning. It is also clear that both of these methods are meant for particular people; that is, the learned. Now as to the method for the masses. The difference between the two lies only in details. 
+It is evident from the above arguments for the existence of God that they are dependent upon two categories of reasoning. 
 
-The masses cannot understand the two above mentioned arguments but only what they can grasp by their senses; while the learned men can go further, and learn by reasoning also, besides learning by sense. They have gone so far that a learned man has said, that the benefits the learned men derive from the knowledge of the members of human and animal body are a thousand and one. If this be so, then this is the method which is taught both by Law and by Nature. It is the method which was preached by the Prophet and the[130] divine books. 
+It is also clear that both of these methods are meant for particular people; that is, the learned. Now as to the method for the masses. The difference between the two lies only in details. 
 
-The learned men do not mention these two lines of reasonings to the masses, not because of their number, but because of a want of depth of learning on their part about the knowledge of a single thing only. The example of the common people, considering and pondering over the universe, is like a man who looks into a thing, the manufacture of which he does not know. For all that such a man can know about it is that it has been made, and that there must be a maker of it. 
+The masses cannot understand the 2 above-mentioned arguments but only what they can grasp by their senses. 
 
-But, on the other hand the learned look into the universe, just as a man knowing the art would do; try to understand the real purpose of it. So it is quite clear that their knowledge about the Maker, as the maker of the universe, would be far better than that of the man who only knows it as made. 
+The learned men can go further, and learn by reasoning also, besides learning by sense. 
 
-The atheists, who deny the Creator altogether, are like men who can see and feel the created things, but would not acknowledge any Creator for them, but would attribute[131] all to chance alone, and that they come into being by themselves.
+They have gone so far that a learned man has said, that the benefits the learned men derive from the knowledge of the members of human and animal body are a thousand and one. If this be so, then this is the method which is taught both by Law and by Nature. It is the method which was preached by the Prophet and the[130] divine books. 
+
+The learned men do not mention these 2 lines of reasonings to the masses, not because of their number, but because of a want of depth of learning on their part about the knowledge of a single thing only. 
+
+The example of the common people, considering and pondering over the universe, is like a man who looks into a thing, the manufacture of which he does not know. For all that such a man can know about it is that it has been made, and that there must be a maker of it. 
+
+But, on the other hand the learned look into the universe, just as a man knowing the art would do; try to understand the real purpose of it. 
+
+So it is quite clear that their knowledge about the Maker, as the maker of the universe, would be far better than that of the man who only knows it as made. 
+
+The atheists deny the Creator altogether.
+- They are like men who can see and feel the created things, but would not acknowledge any Creator for them. 
+- They attribute [131] all to chance alone, and that they come into being by themselves.

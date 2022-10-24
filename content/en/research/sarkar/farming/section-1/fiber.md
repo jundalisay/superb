@@ -116,7 +116,7 @@ Language | Name
 Bihar | “ram taroi”
 Bengali | “dhenrash” 
 
-Okra is known as a vegetable. But it will become extremely useful if it can be developed as a fibre crop and oil seed as well.
+Okra is known as a vegetable. But it will become extremely useful if it can be developed as a **fibre crop and oil seed** as well.
 
 **Okra should not be fried because frying destroys its food value.**
 

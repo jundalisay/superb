@@ -7,6 +7,9 @@ the inability to think and do research permeates in all sectors.
 
 The students take a single library and work with that. 
 
+Maika Samson Planet Cares 
+Raymond Lising
+
 
 The lack of intellect was frightening. why the country is has debt and inflation.  
 

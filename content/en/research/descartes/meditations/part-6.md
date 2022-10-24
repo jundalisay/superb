@@ -83,8 +83,20 @@ To these reasons for doubting, I recently added two very general ones. The first
 
 First, I know that if I have a clear and distinct thought of something, God could have created it in a way that exactly corresponds to my thought. So the fact that I can clearly and distinctly think of one thing apart from another assures me that the two things are distinct from one another – that is, that they are two – since they can be separated by God. Never mind how they could be separated; that does not affect the judgment that they are distinct. So my mind is a distinct thing from my body.
 
-Furthermore, my mind is me, for the following reason·. I know that I exist and that nothing else belongs to my nature or essence except that I am a thinking thing; from this it follows that my essence consists solely in my being a thinking thing, even though there may be a body that is very closely joined to me. I have a clear and distinct idea of myself as something that thinks and isn’t extended, and one of body as something that is extended and does not think. So it is certain that I am really distinct from my body and can exist without it.
+Furthermore, my mind is me, for the following reason: I know that I exist and that nothing else belongs to my nature or essence except that I am a thinking thing; from this it follows that my essence consists solely in my being a thinking thing, even though there may be a body that is very closely joined to me. 
 
-Besides this, I find that I am capable of certain special kinds of thinking, namely imagination and sensory perception. Now, I can clearly and distinctly understand myself as a whole without these faculties; but I can’t understand them without me, that is, without an intellectual substance for them to belong to. A faculty or capacity essentially involves acts, so it involves some thing that acts; so I see that I differ from my faculties as a thing differs from its properties. 
+I have a clear and distinct idea of myself as something that thinks and isn’t extended, and one of body as something that is extended and does not think. So it is certain that I am really distinct from my body and can exist without it.
 
-Of course there are other faculties – such as those of moving around, changing shape, and so on – which also need a substance to belong to; but it must be a bodily or extended substance and not a thinking one, because those faculties essentially involve extension but not thought. Now, I have a passive faculty of sensory perception, that is, an ability to receive and recognize ideas of perceptible objects; but I would have no use for this unless something – myself or something else – had an active faculty for producing those ideas in the first place. But this faculty can’t be in me, since clearly it does not presuppose any thought on my part, and sensory ideas are produced without my cooperation and often even against my will. 
+Besides this, I find that I am capable of certain special kinds of thinking, namely imagination and sensory perception. 
+
+I can clearly and distinctly understand myself as a whole without these faculties. But I cannot understand them without me, that is, without an intellectual substance for them to belong to. 
+
+A faculty or capacity essentially involves acts, so it involves some thing that acts; so I see that I differ from my faculties as a thing differs from its properties. 
+
+There are other faculties – such as those of moving around, changing shape, and so on – which also need a substance to belong to.
+
+But it must be a bodily or extended substance and not a thinking one, because those faculties essentially involve extension but not thought.
+
+I have a passive faculty of sensory perception, that is, an ability to receive and recognize ideas of perceptible objects; but I would have no use for this unless something – myself or something else – had an active faculty for producing those ideas in the first place. 
+
+But this faculty cannot be in me, since clearly it does not presuppose any thought on my part, and sensory ideas are produced without my cooperation and often even against my will. 

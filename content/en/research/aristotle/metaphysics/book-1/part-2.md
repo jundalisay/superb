@@ -10,7 +10,9 @@ author: Aristotle
 
 
 
-What is wisdom?<!--  kind are the causes and the principles, the knowledge of which is Wisdom.  -->
+What is wisdom?
+
+<!--  kind are the causes and the principles, the knowledge of which is Wisdom.  -->
 
 1. The wise man knows all things, as far as possible, although he does not know each of them in detail. 
 
