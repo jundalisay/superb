@@ -8,7 +8,7 @@ date: 2021-09-27
 ---
 
 
-## SEC. 23. Functions of Distribution Utilities DU
+## Section 23. Functions of Distribution Utilities DU
 
 A DU provides distribution services and connections to its system for any end-user within its franchise area consistent with the distribution code. 
 
@@ -40,23 +40,23 @@ Distribution utilities may exercise the power of eminent domain subject to the r
 Constitution and existing laws.
 
 
-## SEC. 24. Distribution Wheeling Charge
+## Section 24. Distribution Wheeling Charge
 
 The distribution wheeling charges of distribution utilities shall be filed with and approved by the ERC pursuant to Paragraph (f) of Section 43 hereof.
 
-## SEC.25. Retail Rate
+## Section25. Retail Rate
 
 The retail rates charged by distribution utilities for the supply of electricity
 in their captive market shall be subject to regulation by the ERC based on the principle of full recovery of
 prudent and reasonable economic costs incurred, or such other principles that will promote efficiency as
 may be determined by the ERC.Every distribution utility shall identify and segregate in its bills to end-users the components of the retail rate, as defined in this Act.
 
-## SEC. 26. Distribution Related Businesses
+## Section 26. Distribution Related Businesses
 
 Distribution utilities may, directly or indirectly, engage in any related business undertaking which maximizes the utilization of their assets: Provided, That a portion of the net income derived from such undertaking utilizing assets which form part of the rate base shall be used to reduce its distribution wheeling charges as determined by the ERC. Provided, further, That such portion of net income used to reduce their distribution wheeling charges shall not exceed fifty percent
 (50%) of the net income derived from such undertaking: Provided, finally, That separate accounts are maintained for each business undertaking to ensure that the distribution business shall neither subsidize in any way such business undertaking nor encumber its distribution assets in any way to support such business.
 
-## SEC. 27. Franchising Power in the Electric Power Sector
+## Section 27. Franchising Power in the Electric Power Sector
 
 The power to grant franchises to persons engaged in the transmission and distribution of electricity shall be vested exclusively in the Congress of the Philippines and all laws inconsistent with this Act particularly, but not limited to, Section 43 of PD 269, otherwise known as the “National Electrification Decree”, are hereby deemed repealed or
 modified accordingly: Provided, That all existing franchises shall be allowed to their full term: Provided,
@@ -65,7 +65,7 @@ Electrification Commission under the National Electrification Administration for
 the enactment of this Act.
 
 
-## SEC. 28. De-Monopolization and Shareholding Dispersal
+## Section 28. De-Monopolization and Shareholding Dispersal
 
 In compliance with the constitutional mandate for dispersal of ownership and de-monopolization of public utilities, the holdings of persons, natural or juridical, including directors, officers, stockholders and related interests, in a distribution utility and their respective holding companies shall not exceed twenty-five (25%) percent of the voting shares of
 stock unless the utility or the company holding the shares or its controlling stockholders are already listed
@@ -76,7 +76,7 @@ regulations to implement and effect this provision.
 This Section shall not apply to electric cooperatives.
 
 
-## SEC. 29. Supply Sector
+## Section 29. Supply Sector
 
 The supply sector is a business affected with public interest. Except for distribution utilities and electric cooperatives with respect to their existing franchise areas, all suppliers of electricity to the contestable market shall require a license from the ERC.
 
@@ -91,7 +91,7 @@ In its billings to end-users, every supplier shall identify and segregate the co
 supplier’s charge, as defined herein.
 
 
-## SEC. 30. Wholesale Electricity Spot Market WESM.
+## Section 30. Wholesale Electricity Spot Market WESM.
 
 Within one (1) year from the effectivity of this Act, the DOE shall establish WESM. 
 

@@ -8,13 +8,13 @@ date: 2021-09-30
 
 
 
-Section 1. Referencing Section 36 of the Act and Rule 10 on Structural and Functional Unbundling of Electric Power Industry Participants
+Section 1. Referencing Section 36  and Rule 10 on Structural and Functional Unbundling of Electric Power Industry Participants
 
 This Rule on the Unbundling of Rates shall result in the identification and separation of the individual charge for providing a specific electric service to any End-user for generation, transmission, distribution, and supply.
 
 Section 2. Scope of Application.
 
-This Rule shall apply to all Electric Power Industry Participants that are currently engaged or will be engaged in any of the business activities as stated in Section 5 of the Act.
+This Rule shall apply to all Electric Power Industry Participants that are currently engaged or will be engaged in any of the business activities as stated in Section 5 .
 
 Section 3. Parameters for Unbundling Rates and Costs of Service.
 (a) An Electric Power Industry Participant shall identify, separate and
@@ -34,7 +34,7 @@ disallowances to be determined by ERC.
 (d) Interest expenses shall not be allowed as deductions from permissible
 Return on Rate Base (RORB).
 Page 50 of 100(e)
-TRANSCO or its Buyer or Concessionaire and Distribution Utilities
+TRANSCO or its Buyer or Concessionaire and DUs
 may directly or indirectly engage in any related business which
 maximizes the utilization of their assets.
 Section 4.
@@ -50,7 +50,7 @@ taking into account all relevant considerations, including the
 efficiency or inefficiency of the regulated entities, as well as the
 expansion or improvement of the Transmission facilities pursuant to a
 plan approved by the ERC under Section 10 of Rule 6 on
-Transmission Sector, and the Distribution Utilities under Rule 7 on
+Transmission Sector, and the DUs under Rule 7 on
 Distribution Sector. The rates must be such as to allow the recovery
 of just and reasonable costs and a reasonable RORB to enable the
 entity to operate viably. The ERC may adopt alternative forms of
@@ -80,7 +80,7 @@ RORB;
 (iii) In determining eligible cost of services that will be passed on to
 the End-users, the ERC shall establish minimum efficiency
 performance standards for the TRANSCO or its Buyer or
-Concessionaire and Distribution Utilities including systems
+Concessionaire and DUs including systems
 losses, interruption frequency rates, and collection efficiency;
 Further, in determining rate base, the TRANSCO or its Buyer or
 Concessionaire or any Distribution Utility shall not be allowed
@@ -99,7 +99,7 @@ procurement and purchasing practices to protect the public
 interest; and
 (vi) The interest incurred during construction may be capitalized
 and included in the rate base upon commissioning of the asset.
-The Retail Rates charged by Distribution Utilities for the Supply of
+The Retail Rates charged by DUs for the Supply of
 Electricity in their Captive Market shall be subject to regulation by the
 ERC based on the principle of full recovery of prudent and reasonable
 economic costs incurred, or such other principles that will promote
@@ -118,8 +118,8 @@ isolated areas.
 
 Section 6. Unbundled Rate Filing Requirements.
 
-(a) As required by the Act, NAPOCOR and Distribution Utilities shall file within
-six (6) months from the effectivity of the Act for revised rates with
+(a) As required by the Act, NAPOCOR and DUs shall file within
+six (6) months from the effectivity  for revised rates with
 costs and other relevant accounts unbundled by business activity.
 (b) The ERC shall within six (6) months from the date of submission of
 revised rates by the Distribution Utility, notify the Distribution Utility

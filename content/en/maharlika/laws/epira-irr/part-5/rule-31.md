@@ -12,7 +12,7 @@ aliases:
 
 Section 1. Guiding Principle
 
-Pursuant to Section 60 of the Act, all outstanding financial obligations of ECs to NEA and other government agencies incurred for the purpose of financing the Rural Electrification Program shall be assumed by the PSALM in accordance with the program approved by the President of thePhilippines.
+As per Section 60 , all outstanding financial obligations of ECs to NEA and other government agencies incurred for the purpose of financing the Rural Electrification Program shall be assumed by the PSALM in accordance with the program approved by the President of thePhilippines.
 
 
 Section 2. Scope
@@ -25,7 +25,7 @@ agencies, as creditors and the ECs, as debtors/borrowers.
 
 Section 3. Condonation of Debts of ECs.
 
-From the effectivity of the Act, all outstanding financial obligations of ECs to NEA and other government agencies incurred for the purpose of financing the Rural Electrification Program shall be assumed by the PSALM in accordance with the program approved by the President of the Philippines within one (1) year from the effectivity of the Act which shall be implemented and completed within three (3) years from the effectivity of the Act.
+From the effectivity , all outstanding financial obligations of ECs to NEA and other government agencies incurred for the purpose of financing the Rural Electrification Program shall be assumed by the PSALM in accordance with the program approved by the President of the Philippines within one (1) year from the effectivity  which shall be implemented and completed within three (3) years from the effectivity .
 
 These debts shall include all outstanding financial obligations incurred by the ECs for the purpose of financing the Rural Electrification Program, exclusively utilized for capital expenditures for the acquisition or construction, operation and maintenance, and/or expansion and rehabilitation of distribution, generation and Subtransmission Assets/facilities and pre-operating expenses for newly-established ECs: 
 
@@ -41,7 +41,7 @@ Correspondingly, having assumed the ECs’ obligations, the PSALM shall
 repay NEA and the other government agencies, in accordance with a
 prescribed amortization schedule agreed between the parties.
 The outstanding financial obligations from other government agencies
-referred to in Section 60 of the Act shall include loans contracted from the
+referred to in Section 60  shall include loans contracted from the
 following:
 
 (a)

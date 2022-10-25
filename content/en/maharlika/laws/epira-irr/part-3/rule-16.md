@@ -11,14 +11,14 @@ date: 2021-09-30
 
 Section 1
 
-Pursuant to Section 74 of the Act, cross subsidies within a Grid, between Grids, and/or classes of customers shall be phased out in a period not exceeding three (3) years from the establishment by the ERC of a Universal
+As per Section 74 , cross subsidies within a Grid, between Grids, and/or classes of customers shall be phased out in a period not exceeding three (3) years from the establishment by the ERC of a Universal
 Charge which shall be collected from all electricity End-users. Such level of
 cross subsidies shall be made transparent and identified separately in the
 billing statements provided to End-users by the Suppliers.
 
 Section 2. Scope of Application.
 
-This Rule shall apply to NAPOCOR, TRANSCO or its Buyer or Concessionaire, Distribution Utilities and PSALM.
+This Rule shall apply to NAPOCOR, TRANSCO or its Buyer or Concessionaire, DUs and PSALM.
 
 Section 3. Calculation of Cross Subsidies.
 
@@ -85,7 +85,7 @@ users shall continue to receive subsidies and the level of subsidies
 such End-users shall receive during the phase out period.
 (c) Together with their filings of unbundled rates reflecting the true costs
 of service, pursuant to Rule 15 on Unbundling of Rates, NAPOCOR and the
-Distribution Utilities shall file with ERC their proposals for the
+DUs shall file with ERC their proposals for the
 removal of cross subsidies among the End-users they serve to be
 considered by ERC in the formulation of the phase out scheme.
 (d) The ERC may extend the period for the removal of cross subsidies for
@@ -93,7 +93,7 @@ a maximum period of one (1) year upon finding that cessation of such
 mechanism would have a material adverse effect upon the public
 interest, particularly the residential End-user; or would have an
 Page 54 of 100immediate, irreparable, and adverse financial effect on a Distribution
-Utility. Distribution Utilities shall submit to ERC such information as
+Utility. DUs shall submit to ERC such information as
 ERC may specify to help it determine if the cross subsidy removal
 mechanism should be extended under this provision.
 - If ERC does not extend the period for removal of cross subsidies, the

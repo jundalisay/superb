@@ -7,7 +7,7 @@ date: 2021-09-18
 ---
 
 
-## SEC. 47. NAPOCOR Privatization
+## Section 47. NAPOCOR Privatization
 
 Except for the assets of SPUG, the generation assets, real estate, and other disposable assets as well as IPP contracts of NAPOCOR shall be privatized in accordance with this Act. 
 
@@ -39,7 +39,7 @@ unsold capacity shall be privatized not later than eight (8) years from the effe
 - NAPOCOR may generate and sell electricity only from the undisposed generating assets and IPP contracts of PSALM Corp. and shall not incur any new obligations to purchase power through bilateral contracts with generation companies or other suppliers.
 
 
-## SEC. 48. National Power Board of Directors
+## Section 48. National Power Board of Directors
 
 This amends RA 6395 and Section 13 of RA 7638 to create a new Board composed of:
 - the Secretary of Finance as Chairman

@@ -10,13 +10,13 @@ date: 2021-09-30
 
 Section 1. Creation of TRANSCO
 
-Pursuant to Section 8 of the Act, TRANSCO, which shall be wholly owned by PSALM, has been created to assume the transmission facilities of NAPOCOR, all other assets related to transmission operations, including nationwide
+As per Section 8 , TRANSCO, which shall be wholly owned by PSALM, has been created to assume the transmission facilities of NAPOCOR, all other assets related to transmission operations, including nationwide
 franchise of NAPOCOR for the operation of the transmission system and the Grid,
 and to assume the electrical transmission functions of the NAPOCOR, including
 among others, the planning, construction and centralized Grid operation
 and maintenance of high voltage transmission facilities, Grid
 interconnections, ancillary and other allied facilities.
-Pursuant to and in accordance with the requirements of the Act, NAPOCOR,
+As per and in accordance with the requirements , NAPOCOR,
 PSALM and TRANSCO shall take such measures and execute such
 documents to effect the transfer of the ownership and possession of the
 transmission and subtransmission facilities of NAPOCOR and all other assets
@@ -40,7 +40,7 @@ function shall be transferred by NAPOCOR directly to TRANSCO on or
 before 26 December 2001.
 (c) Subtransmission Assets transferred to TRANSCO shall be operated
 and maintained by TRANSCO or its Buyer or Concessionaire, until
-their disposal to Qualified Distribution Utilities.
+their disposal to Qualified DUs.
 Section 3. Corporate Powers of the TRANSCO.
 As a corporate entity, TRANSCO shall have the following corporate powers:
 (a) To have continuous succession under its corporate name until
@@ -64,7 +64,7 @@ both the TRANSCO and its officials and employees and their earnings
 for the payment of benefits to such officials and employees or their
 heirs under such terms and conditions as it may prescribe;
 (h) To create subsidiaries for purposes such as the disposition of
-Subtransmission Assets to Qualified Distribution Utilities and the
+Subtransmission Assets to Qualified DUs and the
 operation thereof prior to disposal;
 (i) To do any act necessary or proper to carry out the purpose for which
 it is created, or any act which, from time to time, may be declared by
@@ -178,14 +178,14 @@ Section 10. Exemption from the Salary Standardization Law.
 The salaries and benefits of employees in the TRANSCO shall be exempt
 from Republic Act No. 6758 and shall be fixed by the TRANSCO Board.
 Section 11. TRANSCO Privatization.
-(a) Within six (6) months from the effectivity of the Act, the PSALM shall
+(a) Within six (6) months from the effectivity , the PSALM shall
 submit a Privatization plan for endorsement by the Power Commission
 and the approval of the President of the Philippines. The President of
 the Philippines thereafter shall direct PSALM to award, in open
 competitive bidding, the transmission facilities, including grid
 interconnections and Ancillary Services to a qualified party either
 through an outright sale, a Concession Contract or any other means
-not inconsistent with the objectives of the Act.
+not inconsistent with the objectives .
 The Buyer or
 Concessionaire or any other successor-in-interest to TRANSCO shall
 be responsible for the improvement, expansion, operation or
@@ -262,7 +262,7 @@ The subtransmission functions and assets of TRANSCO shall be
 segregated from the transmission functions, assets and liabilities for
 transparency and disposal: Provided, That the Subtransmission
 Assets shall be operated and maintained by TRANSCO or its Buyer or
-Concessionaire until their disposal to Qualified Distribution Utilities
+Concessionaire until their disposal to Qualified DUs
 which are in a position to take over the responsibility for operating,
 maintaining, upgrading, and expanding said assets. All transmission
 and subtransmission related liabilities of NAPOCOR shall be transferred to
@@ -270,7 +270,7 @@ and assumed by the PSALM.
 Page 73 of 100(b) TRANSCO shall negotiate with and thereafter transfer such functions,
 assets, and associated liabilities to the Qualified Distribution Utility or
 utilities connected to such subtransmission facilities not later than
-two (2) years from the effectivity of the Act or the start of Open Access,
+two (2) years from the effectivity  or the start of Open Access,
 whichever comes earlier: Provided, That in the case of ECs, the
 TRANSCO shall grant concessional financing over a period of twenty
 (20) years: Provided, however, That the installment payments to
@@ -282,13 +282,13 @@ assets. In case of disagreement in valuation, procedures, ownership
 participation and other issues, the ERC shall resolve such issues.
 (c) The take over by a Distribution Utility of any Subtransmission Asset
 shall not cause a diminution of service and quality to the End-users.
-Where there are two (2) or more connected Distribution Utilities, the
+Where there are two (2) or more connected DUs, the
 consortium or juridical entity shall be formed by and composed of all
 of them and thereafter shall be granted a franchise to operate the
 Subtransmission Assets by the ERC.
 The subscription rights of each Distribution Utility involved shall be
 proportionate to its load requirements unless otherwise agreed by
-such Distribution Utilities.
+such DUs.
 Aside from the PSALM, TRANSCO and connected Distribution
 Utilities, no third party shall be allowed ownership or management
 participation, in whole or in part, in such subtransmission entity.

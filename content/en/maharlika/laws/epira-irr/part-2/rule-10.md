@@ -9,10 +9,8 @@ date: 2021-09-30
 
 Section 1. Guiding Principle.
 
-Consistent with the last paragraph of Section 36 of the Act, any Electric Power Industry Participant shall structurally and functionally unbundle its
-business activities in accordance with Section 5 of the Act, namely: generation, transmission, distribution and supply. Structural unbundling
-shall mean the separation of different activities through the creation of separate divisions or departments within a single company or, at the option
-of any Electric Power Industry Participant, a separation into different
+Consistent with the last paragraph of Section 36 , any Electric Power Industry Participant shall structurally and functionally unbundle its business activities in accordance with Section 5 , namely: generation, transmission, distribution and supply. Structural unbundling
+shall mean the separation of different activities through the creation of separate divisions or departments within a single company or, at the option of any Electric Power Industry Participant, a separation into different
 juridical entities, with a clear separation of accounts between regulated and
 non-regulated business activities. Functional unbundling shall mean the
 separation of functions into different components.
@@ -21,10 +19,12 @@ For this purpose, business activities resulting from the initial unbundling proc
 further unbundled to widen the scope for competitive activities. The ERC
 shall formulate the appropriate guidelines and shall ensure full compliance
 with this provision.
-Section 2. Scope of Application.
-This Rule shall apply to all Electric Power Industry Participants that are
-currently engaged or will be engaged in any of the following business
-activities:
+
+
+## Section 2. Scope of Application
+
+This Rule shall apply to all Electric Power Industry Participants that are currently engaged or will be engaged in any of the following business activities:
+
 (a) Power generation;
 (b) Transmission;
 c) Distribution;
@@ -37,15 +37,13 @@ by the ERC.
 The ERC may relax or eliminate the unbundling requirements for specified
 business activities if such activity operates in a competitive market.
 
-Section 3. Procedures for the Structural and Functional Unbundling of Business Activities.
 
-The following shall govern all Electric Power Industry Participants in
-undertaking the structural and functional unbundling of its business
-activities:
-(a) An Electric Power Industry Participant shall identify its business
-activities according to each major business function as defined in
-Section 2 of this Rule.
-(b) An Electric Power Industry Participant shall prepare and submit for
+## Section 3. Procedures for the Structural and Functional Unbundling of Business Activities.
+
+The following shall govern all Electric Power Industry Participants in undertaking the structural and functional unbundling of its business activities:
+
+- a) An Electric Power Industry Participant shall identify its business activities according to each major business function as defined in Section 2 of this Rule.
+- b) An Electric Power Industry Participant shall prepare and submit for
 approval by the ERC its Business Separation and Unbundling Plan
 (BSUP) on or before 31 December 2002.
 (c) The BSUP shall contain among others, the following information:

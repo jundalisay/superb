@@ -1,5 +1,5 @@
 ---
-heading: "Rule  1"
+heading: "Rule 1"
 title: "Definition of Policy"
 description: "EPIRA Republic Act 9136"
 image: "/photos/physics/light.jpg"
@@ -11,7 +11,7 @@ date: 2021-09-30
 
 Section 2. Scope
 
-These Rules are promulgated under the authority of the DOE to formulate, in consultation with relevant government agencies, Electric Power Industry Participants, non-government organizations, End-users and consumers, such rules and regulations as may be necessary to implement the objectives of the Act and pursuant to the exercise of such other powers as may be necessary or incidental to attain the objectives of the Act.
+These Rules are promulgated under the authority of the DOE to formulate, in consultation with relevant government agencies, Electric Power Industry Participants, non-government organizations, End-users and consumers, such rules and regulations as may be necessary to implement the objectives  and pursuant to the exercise of such other powers as may be necessary or incidental to attain the objectives .
 
  These Rules shall govern the relation and responsibilities of Electric Power Industry
 Participants and governmental authorities, including but not limited to: the
@@ -48,36 +48,35 @@ In addition to its existing powers and functions,
 
 The DOE shall supervise the Restructuring of the electricity industry and do the following:
 
-- a. Formulate policies for a comprehensive program for the efficient and economical energy supply consistent with:
+- {{< s v="a" >}} Formulate policies for a comprehensive program for the efficient and economical energy supply consistent with:
   - the national economic plan
   - the policies on environmental protection and conservation of ecological balance
   - a mechanism for the integration, rationalization, and coordination of the various energy programs of the Government
 
-- b. Develop and update annually the existing Philippine Energy Plan (PEP)
+- {{< s v="b" >}} Develop and update annually the existing Philippine Energy Plan (PEP)
 
 The PEP:
 - details the integrated and comprehensive exploration, development, utilization, distribution, and conservation of energy resources, with preferential bias for environment-friendly, indigenous, and low-cost sources of energy.
 - includes a policy direction towards the Privatization of government agencies related to energy, deregulation of the power and energy industry, and reduction of dependency on oil-fired plants.
 - shall be submitted to Congress not later than Sept 15 annually.
 
-
-- c. Prepare and update annually a Power Development Program (PDP) and integrate the same into the PEP. 
+- {{< s v="c" >}} Prepare and update annually a Power Development Program (PDP) and integrate the same into the PEP. 
 
 The PDP shall consider and integrate the individual or joint development plans of the transmission, generation, and distribution sectors of the electric power industry which are submitted to the DOE: Provided, however,
 That the ERC shall have exclusive authority covering the Grid Code and the Distribution Code; and the pertinent rules and regulations it may issue. 
 
 The DOE, following its approval of the Transmission Development Plan (TDP) prepared by the National Transmission
-Corporation (TRANSCO) or its Buyer or Concessionaire, shall integrate the TDP with the annual development plans of Distribution Utilities and NAPOCOR, and other relevant data as are available to DOE, which shall be incorporated in the PEP.
+Corporation (TRANSCO) or its Buyer or Concessionaire, shall integrate the TDP with the annual development plans of DUs and NAPOCOR, and other relevant data as are available to DOE, which shall be incorporated in the PEP.
 
-- d.  Ensure the reliability, quality and security of supply of electric power
-- e. Following the Restructuring of the electricity sector, the DOE shall:
+- {{< s v="d" >}} Ensure the reliability, quality and security of supply of electric power
+- {{< s v="e" >}} Following the Restructuring of the electricity sector, the DOE shall:
   1. Encourage private sector investments in the electricity sector and promote development of indigenous and Renewable Energy Sources including small-scale renewable energy generating sources
-  2. Facilitate and encourage reforms in the structure and operations of Distribution Utilities for greater efficiency and lower costs
+  2. Facilitate and encourage reforms in the structure and operations of DUs for greater efficiency and lower costs
   3. In consultation with other government agencies, promote a system of incentives to encourage Electric Power Industry Participants, including new Generation Companies and End-users, to provide adequate and reliable electric supply
   4. Undertake, in coordination with the ERC, NAPOCOR, NEA and the Philippine Information Agency (PIA), information campaigns to educate the public on the Restructuring of the electricity sector and Privatization of NAPOCOR assets
 
-- f. Jointly with the Electric Power Industry Participants, establish the WESM and formulate the detailed rules governing the operations thereof
-- g. Establish and administer programs for the exploration, transportation, marketing, distribution, utilization, conservation, stockpiling, and storage of energy resources of all forms, whether conventional or non-conventional
+- {{< s v="f" >}} Jointly with the Electric Power Industry Participants, establish the WESM and formulate the detailed rules governing the operations thereof
+- {{< s v="g" >}} Establish and administer programs for the exploration, transportation, marketing, distribution, utilization, conservation, stockpiling, and storage of energy resources of all forms, whether conventional or non-conventional
 - h. Exercise supervision and control over all government activities relative to energy projects in order to attain the goals embodied in Section 2 of Republic Act No. 7638
 - i. Develop policies and procedures and, as appropriate, promote a system of energy development incentives to enable and encourage Electric Power Industry Participants to provide adequate capacity to meet demand including, among others, reserve requirements
 - j. Monitor private sector activities relative to energy projects in order to attain the goals of the Restructuring, Privatization, and modernization of the electric power sector as provided for under existing laws: Provided, That the DOE shall endeavor to provide for an environment conducive to free and active private sector participation and investment in all energy activities
@@ -87,44 +86,36 @@ Corporation (TRANSCO) or its Buyer or Concessionaire, shall integrate the TDP wi
 - n. Devise ways and means of giving direct benefit to the province, city, or municipality, especially the community and people affected, and equitable preferential benefit to the region that hosts the energy resource and/or the energy-generating facility: Provided, however, That the other provinces, cities, municipalities, or regions shall not be
 deprived of their energy requirements
 - o. Encourage private enterprises engaged in energy projects, including corporations, cooperatives, and similar collective organizations, to broaden the base of their ownership and thereby encourage the widest public ownership of energy-oriented corporations
-- p. Formulate such rules and regulations as may be necessary to implement the objectives of the Act
-- q. As part of the reportorial requirements of the Act, the DOE shall prepare and submit to the Power Commission a semi-annual report on the status of the implementation of the Act on or before the last week of April and October of each year. Towards this end, the DOE may require reports or documents from the Electric Power Industry Participants as necessary to facilitate compliance with this mandate and subject to appropriate measures to preserve the confidentiality of proprietary or commercially sensitive information; Exercise such other powers as may be necessary or incidental to attain the objectives of the Act.
+- p. Formulate such rules and regulations as may be necessary to implement the objectives 
+- q. As part of the reportorial requirements , the DOE shall prepare and submit to the Power Commission a semi-annual report on the status of the implementation  on or before the last week of April and October of each year. Towards this end, the DOE may require reports or documents from the Electric Power Industry Participants as necessary to facilitate compliance with this mandate and subject to appropriate measures to preserve the confidentiality of proprietary or commercially sensitive information; Exercise such other powers as may be necessary or incidental to attain the objectives .
 
 
-Section 2. Responsibilities of the NAPOCOR.
+## Section 2. Responsibilities of the NAPOCOR
 
-- a. Based on Section 70 of the Act, notwithstanding the divestment and/or Privatization of NAPOCOR assets, IPP contracts and spun-off corporations, NAPOCOR shall remain as a National Government-owned and –controlled corporation to perform the missionary electrification function through the Small Power Utilities Group (SPUG) and shall be responsible for providing power generation and its associated power delivery systems in areas that are not connected to the transmission
+- {{< s v="a" >}} Based on Section 70, notwithstanding the divestment and/or Privatization of NAPOCOR assets, IPP contracts and spun-off corporations, NAPOCOR shall remain as a National Government-owned and –controlled corporation to perform the missionary electrification function through the Small Power Utilities Group (SPUG) and shall be responsible for providing power generation and its associated power delivery systems in areas that are not connected to the transmission
 system. The missionary electrification function shall be funded from
 the revenues from sales in missionary areas and from the Universal
 Charge to be collected from all electricity End-users as determined by
 the ERC.
 
-(b) Consistent with Section 34(d) of the Act, the NAPOCOR shall manage under
-existing arrangements, an environmental charge equivalent to
-P0.0025 per kilowatt-hour (kWh) sales, intended solely for the
+- {{< s v="b" >}} Consistent with Section 34(d), NAPOCOR shall manage under existing arrangements, an environmental charge equivalent to P0.0025 per kilowatt-hour (kWh) sales, intended solely for the
 rehabilitation and management of watersheds nationwide.
 
-(c) Pursuant to Section 47(f) of the Act, NAPOCOR shall continue to operate Agus and Pulangui complexes, which shall be owned by PSALM.
+- {{< s v="c" >}} As per Section 47(f) , NAPOCOR shall continue to operate Agus and Pulangui complexes, which shall be owned by PSALM.
 
-(d) Pursuant to Section 47(j) of the Act, NAPOCOR/PSALM may continue to
-generate and sell electricity only from the undisposed generating
-assets and IPP contracts of PSALM. NAPOCOR/PSALM shall not incur any
+- {{< s v="d" >}} As per Section 47(j) , NAPOCOR/PSALM may continue to generate and sell electricity only from the undisposed generating assets and IPP contracts of PSALM. NAPOCOR/PSALM shall not incur any
 new obligations to purchase power through bilateral contracts with
 Generation Companies or other Suppliers.
 
 
 ### Section 3. Responsibilities of the NEA.
 
-(a) NEA shall continue to be under the supervision of the DOE and shall
-exercise its functions under Presidential Decree No. 269, as amended
-by Presidential Decree No. 1645 insofar as they are consistent with
-the Act. To this end, NEA shall develop and implement programs:
-(i) To prepare Electric Cooperatives (ECs) in operating and
-competing under the deregulated electricity market within five
-(5) years from the effectivity of the Act, specifically in an
-environment of Open Access and retail wheeling and Retail
-Competition;
-(ii) To strengthen the technical capability and financial viability of
+- {{< s v="a" >}} NEA shall continue to be under the supervision of the DOE and shall exercise its functions under Presidential Decree No. 269, as amended by Presidential Decree No. 1645 insofar as they are consistent with
+the Act. 
+
+To this end, NEA shall develop and implement programs:
+1. To prepare Electric Cooperatives (ECs) in operating and competing under the deregulated electricity market within 5 years from the effectivity , specifically in an environment of Open Access and retail wheeling and Retail Competition
+2. To strengthen the technical capability and financial viability of
 ECs, through the following activities:
 (1) NEA may offer services to the ECs other than those
 related to its lending functions, for a fee duly approved by
@@ -139,7 +130,7 @@ enhancing the viability of the ECs as electric utilities.
 (b) NEA may, in exchange for adequate security and a guarantee fee, act
 as a guarantor for purchases of electricity in the WESM by any EC or
 small Distribution Utility to support their credit standing consistent
-with the provisions of the Act. For this purpose, the authorized
+with the provisions . For this purpose, the authorized
 capital stock of NEA is hereby increased to Fifteen Billion Pesos
 (P15,000,000,000.00).
 (c) NEA shall submit the report of ECs on their outstanding uncollected

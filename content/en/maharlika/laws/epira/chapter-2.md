@@ -8,7 +8,7 @@ date: 2021-09-27
 ---
 
 
-## SEC. 5. Organization
+## Section 5. Organization
 
 The electric power industry shall be divided into 4 sectors:
 
@@ -18,7 +18,7 @@ The electric power industry shall be divided into 4 sectors:
 - supply
 
 
-## SEC. 6. Generation
+## Section 6. Generation
 
 The generation of electric power<!-- , a business affected with public interest, --> shall be competitive and open.
 
@@ -38,7 +38,7 @@ generation companies shall be value added tax zero-rated.
 The ERC shall, in determining the existence of market power abuse or anti-competitive behavior, require from generation companies the submission of their financial statements.
 
 
-## SEC. 7 Transmission Sector
+## Section 7 Transmission Sector
 
 The transmission of electric power shall be regulated common electricity carries business, subject to the ratemaking powers of the ERC.
 
@@ -52,7 +52,7 @@ Pending the issuance of such new standards, the distinction between the transmis
 Provided, That for the Visayas and the isolated distribution system, should the 69 kilovolt line not form part of the main transmission grid and be directly connected to the substation of the distribution utility, it shall form part of the subtransmission system.
 
 
-## SEC. 8. Creation of the National Transmission Company
+## Section 8. Creation of the National Transmission Company
 
 TRANSCO is created to assume the electrical transmission function of NAPOCOR. 
 - It shall be wholly owned by PSALM
@@ -86,7 +86,7 @@ Except as provided herein, no person, company or entity other than the TRANSCO s
 Prior to the transfer of the transmission functions by NAPOCOR to TRANSCO, and before thepromulgation of the Grid Code, ERC shall ensure that NAPOCOR shall provide to all electric power industry participants open and non-discriminatory access to its transmission system. Any violation thereof shall be subject to the fines and penalties imposed herein.
 
 
-## SEC. 9. Functions and Responsibilities
+## Section 9. Functions and Responsibilities
 
 TRANSCO shall:
 
@@ -107,7 +107,7 @@ A generation company may develop and own or operate dedicated point-to-point lim
 - in the case of disagreement on the fair market price, the ERC shall determine the fair market value of the asset
 
 
-## SEC. 10. Corporate Powers of the TANSCO
+## Section 10. Corporate Powers of the TANSCO
 
 As a corporate entity, TRANSCO shall have the following corporate powers:
 
@@ -123,7 +123,7 @@ As a corporate entity, TRANSCO shall have the following corporate powers:
 - exercise all the powers of a corporation under the corporation law insofar as they are not inconsistent with this Act.
 
 
-## SEC. 11. TRANSCO Board of Directors
+## Section 11. TRANSCO Board of Directors
 
 All TRANSCO powers is with the Board of Directors with:
 - 1 Chairman as the Secretary of the Department of Finance (DOF)
@@ -138,7 +138,7 @@ All members of the Board shall be professionals of recognized competence and exp
 No member of the Board or any of his relatives within the fourth civil degree of consanguinity or affinity shall have any interest, either as investor, officer or director, in any generation company or distribution utility or other entity engaged in transmitting, generating and supplying electricity specified by ERC.
 
 
-## SEC. 12. Powers and Duties of the Board
+## Section 12. Powers and Duties of the Board
 
 The following are the powers of the Board:
 
@@ -156,20 +156,20 @@ competence, and moral character; and
 (g) Any provisions of the law to the contrary notwithstanding, to write-off bad debts.
 
 
-## SEC. 13. Board Meetings
+## Section 13. Board Meetings
 
 The Board shall meet as often as may be necessary upon the call of the Chairman of the Board or by a majority of the Board members.
 
-## SEC. 14. Board Per Diems and Allowances
+## Section 14. Board Per Diems and Allowances
 
 The members of the Board shall receive per diem for each regular or special meeting of the board actually attended by them, and, upon approval of the Secretary of the Department of Finance, such other allowances as the Board may prescribe.
 
-## SEC. 15. Quorum
+## Section 15. Quorum
 
 The presence of at least four (4) members of the Board shall constitute a quorum, which shall be necessary for the transaction of any business. The affirmative vote of a majority of the members present in a quorum shall be adequate for the approval of any resolution, decision or order, except when the Board shall otherwise agree that a greater vote is required.
 
 
-## SEC. 16. Powers of the TRANSCO President 
+## Section 16. Powers of the TRANSCO President 
 
 The TRANSCO President shall be appointed by the President. 
 
@@ -183,20 +183,20 @@ In the absence of the Chairman, the President shall preside over board meetings.
 - exercise such other powers and duties as may be vested in him by the Board from time to time.
 
 
-## SEC. 17. Exemption from the Salary Standardization Law
+## Section 17. Exemption from the Salary Standardization Law
 
 The salaries and benefits of employees in the TRANSCO shall be exempt from Republic Act. No. 6758 and shall be fixed by the
 TRANSCO Board.
 
-## SEC. 18. Profits
+## Section 18. Profits
 
 The net profit, if any, of TRANSCO shall be remitted to the PSALM Corp. not later than ninety (90) days after the immediately preceding quarter.
 
-## SEC. 19. Transmission Charges
+## Section 19. Transmission Charges
 
 The transmission charges of the TRANSCO shall be filed with and approved by the ERC pursuant to Paragraph (f) of Section 43 hereof.
 
-## SEC. 20. TRANSCO Related Businesses
+## Section 20. TRANSCO Related Businesses
 
 TRANSCO may engage in any related business which maximizes utilization of its assets: Provided, That a portion of the net income derived from such undertaking utilizing assets which form part of the rate base shall be used to reduce transmission wheeling
 rates as determined by the ERC. Such portion of net income used to reduce the transmission wheeling rates
@@ -206,7 +206,7 @@ transmission business shall neither subsidize in any way such business undertaki
 transmission assets in any way to support such business.
 
 
-## SEC. 21. TRANSCO Privatization
+## Section 21. TRANSCO Privatization
 
 Within six (6) months from the effectivity of this Act, the PSALM Corp. shall submit a plan for the endorsement by the Joint Power Commission and the approval of the President of the Philippines. The President of the Philippines thereafter shall direct PSALM Corp. to award in open competitive bidding, the transmission facilities, including grid interconnections and ancillary services to a qualified party either through an outright sale or a concession contract.
 

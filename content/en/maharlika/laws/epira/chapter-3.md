@@ -8,13 +8,13 @@ date: 2021-09-25
 
 
 
-## SEC. 37. Powers and Functions of the DOE
+## Section 37. Powers and Functions of the DOE
 
 The DOE will supervise the restructuring of the electricity industry. 
 
 This amends Section 5 of RA 7638 “The Department of Energy Act of 1992”:
 
-- a) Formulate policies for a comprehensive program for the efficient supply and economical use of energy.
+- {{< s v="a" >}} Formulate policies for a comprehensive program for the efficient supply and economical use of energy.
 
 This program must:
 -  be consistent with:
@@ -31,33 +31,19 @@ This program must:
 
 The PDP shall consider and integrate the individual or joint development plans of the transmission, generation, and distribution sectors of the electric power industry, which are submitted to the Department: Provide, however, That the ERC shall have exclusive authority covering the Grid Code and the pertinent rules and regulations it may issue
 
-(d) Ensure the reliability, quality and security of supply of electric power;
-(e) Following the restructuring of the electricity sector, the DOE shall, among others:
-(i) Encourage private sector investments in the electricity sector and promote
-development of indigenous and renewable energy sources;
-(ii) Facilitate and encourage reforms in the structure and operations of distribution
-utilities for greater efficiency and lower costs;
-(iii) In consultation with other government agencies, promote a system of incentives to
-encourage industry participants, including new generating companies and end-users
-to provide adequate and reliable electric supply; and
-(iv) Undertake in coordination with the ERC, NAPOCOR, NEA and the Philippine Information
-Agency (PIA), information campaign to educate the public on the restructuring of the
-electricity sector and privatization of NAPOCOR assets.
-(f) Jointly with the electric power industry participants, establish the wholesale electricity spot
-market and formulate the detailed rules governing the operations thereof;
-(g) Establish and administer programs for the exploration, transportation, marketing, distribution,
-utilization, conservation, stockpiling, and storage of energy resources of all forms, whether
-conventional or non-conventional;(h) Exercise supervision and control over all government activities relative to energy projects in
-order to attain the goals embodied in Section 2 of RA 7638;
-(i) Develop policies and procedures and, as appropriate, promote a system of energy
-development incentives to enable and encourage electric power industry participants to
-provide adequate capacity to meet demand including, among others, reserve requirements;
-(j) Monitor private sector activities relative to energy projects in order to attain the goals of the
-restructuring , privatization, and modernization of the electric power sector as provided for
-under existing laws: Provided, That the Department shall endeavor to provide for an
-environment conducive to free and active private sector participation and investment in all
-energy activities;
-(k) Assess the requirements of, determine priorities for, provide direction to, and disseminate
+- {{< s v="d" >}} Ensure the reliability, quality and security of supply of electric power
+- {{< s v="e" >}} Following the restructuring of the electricity sector, the DOE shall, among others:
+  1. Encourage private sector investments in the electricity sector and promote development of indigenous and renewable energy sources
+  2. Facilitate and encourage reforms in the structure and operations of distribution utilities for greater efficiency and lower costs
+  3. In consultation with other government agencies, promote a system of incentives to encourage industry participants, including new generating companies and end-users to provide adequate and reliable electric supply
+  4. Undertake in coordination with the ERC, NAPOCOR, NEA and the Philippine Information Agency (PIA), information campaign to educate the public on the restructuring of the electricity sector and privatization of NAPOCOR assets.
+
+- {{< s v="f" >}} Jointly with the electric power industry participants, establish the wholesale electricity spot market and formulate the detailed rules governing the operations thereof; 
+- {{< s v="g" >}} Establish and administer programs for the exploration, transportation, marketing, distribution, utilization, conservation, stockpiling, and storage of energy resources of all forms, whether conventional or non-conventional;(h) Exercise supervision and control over all government activities relative to energy projects in order to attain the goals embodied in Section 2 of RA 7638
+- {{< s v="o" >}} Develop policies and procedures and, as appropriate, promote a system of energy development incentives to enable and encourage electric power industry participants to provide adequate capacity to meet demand including, among others, reserve requirements
+- {{< s v="j" >}} Monitor private sector activities relative to energy projects in order to attain the goals of the restructuring , privatization, and modernization of the electric power sector as provided for under existing laws: Provided, That the Department shall endeavor to provide for an environment conducive to free and active private sector participation and investment in all
+energy activities
+- {{< s v="k" >}} Assess the requirements of, determine priorities for, provide direction to, and disseminate
 information resulting from energy research and development programs for the optimal
 development of various forms of energy production and utilization technologies;
 (l) Formulate and implement programs, including a system of providing incentives and penalties,
@@ -72,7 +58,5 @@ requirements;
 (o) Encourage private enterprises engaged in energy projects, including corporations,
 cooperatives, and similar collective organizations, to broaden the base of their ownership
 and thereby encourage the widest public ownership of energy-oriented corporations;
-(p) Formulate such rules and regulations as may be necessary to implement the objectives of this
-Act; and
-(q) Exercise such other powers as may be necessary or incidental to attain the objectives of this
-Act.
+(p) Formulate such rules and regulations
+(q) Exercise such other powers

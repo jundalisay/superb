@@ -1,13 +1,13 @@
 ---
 heading: "Rule 9"
-title: "WHOLESALE ELECTRICITY SPOT MARKET (WESM)"
+title: "Wholesale Electricity Spot Market (WESM)"
 description: "EPIRA Republic Act 9136"
 image: "/photos/physics/light.jpg"
 date: 2021-09-30
 ---
 
 
-<!-- Pursuant to Section 30 of the Act, all WESM Participants shall comply with
+<!-- As per Section 30 , all WESM Participants shall comply with
 the WESM Rules. -->
 
 Section 2. Scope of Application.
@@ -16,14 +16,14 @@ This Rule shall apply to the Market Operator and all WESM Participants.
 
 Section 3. Organization
 
-Within one (1) year from the effectivity of the Act, the DOE shall establish a
+Within one (1) year from the effectivity , the DOE shall establish a
 WESM composed of the WESM Participants. For this purpose, the DOE
 shall, jointly with Electric Power Industry Participants, promulgate the
 WESM Rules, and undertake actions including but not limited to the
 following:
 (a) Organize and establish the appropriate market design and governance
 structure of the WESM;
-(b) Pursuant to Section 30 of the Act, constitute the AGMO, which shall
+(b) As per Section 30 , constitute the AGMO, which shall
 undertake the preparatory work and initial operation of the WESM;
 (c) Oversee the development of the WESM organization and necessary
 supporting infrastructure, including the funding requirements.
@@ -33,7 +33,7 @@ Subject to compliance with the membership criteria specified in the WESM
 Rules, the following Persons shall be eligible to become members of the
 WESM:
 (a) Generation Companies;
-(b) Distribution Utilities;
+(b) DUs;
 (c) Suppliers;
 (d) IPP Administrators;
 (e) End-users; and
@@ -65,7 +65,7 @@ in coordination with the system operator in a way which:
 Minimizes adverse impacts on system security;
 Encourages market participation; and
 Enables access to the market.
-(iii) Subject to the provisions of Section 43(u) of the Act, provide a
+(iii) Subject to the provisions of Section 43(u) , provide a
 cost-effective framework for resolution of disputes among
 WESM Participants, and between WESM Participants and the
 Market Operator;
@@ -125,7 +125,7 @@ grid operator of the TRANSCO or its Buyer or Concessionaire;
 must update and publish the register whenever a Person
 becomes or ceases to be a WESM Participant.
 Section 7. Constitution of the AGMO.
-The DOE shall, within one (1) year from the effectivity of the Act, constitute
+The DOE shall, within one (1) year from the effectivity , constitute
 the AGMO which shall undertake the preparatory work and initial operation
 of the WESM.
 Page 37 of 100(a)

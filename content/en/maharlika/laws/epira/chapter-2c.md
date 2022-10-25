@@ -7,7 +7,7 @@ image: "/photos/physics/light.jpg"
 date: 2021-09-26
 ---
 
-## SEC. 31. Retail Competition and Open Access
+## Section 31. Retail Competition and Open Access
 
 <!-- Any law to the contrary notwithstanding,  -->
 
@@ -30,7 +30,7 @@ In the case of electric cooperatives, retail competition and open access shall b
 
 
 
-## SEC. 32. NAPOCOR Stranded Debt and Contract Cost Recovery
+## Section 32. NAPOCOR Stranded Debt and Contract Cost Recovery
 
 Stranded debt of NAPOCOR are its unpaid financial obligations.
 
@@ -45,7 +45,7 @@ The ERC shall verify the reasonable amounts and determine the manner and duratio
 The ERC shall, at the end of the first year of the implementation of stranded cost recovery and every year thereafter, conducts a review to determine whether there is under-recovery or over-recovery and adjust (tune-up) the level of stranded cost recovery charge accordingly. Any amount to be included for stranded cost recovery shall be reflected as a separate item in the consumer billing statement.
 
 
-## SEC. 33. Distribution Utilities Stranded Contract 
+## Section 33. Distribution Utilities Stranded Contract 
 
 ### Costs Recovery
 
@@ -74,7 +74,7 @@ The ERC shall, at the end of the first year of the implementation of stranded co
 A separate account shall be created for these amounts which shall be held in trust for any future claims of distribution utilities for stranded cost recovery. At the end of the stranded cost recovery period, any remaining amount in this account shall be used to reduce the electricity rates to the end-users.
 
 
-## SEC. 34. Universal Charge
+## Section 34. Universal Charge
 
 Within one (1) year from the effectivity of this Act, a universal charge to be determined, fixed and approved by the ERC., shall be imposed on all electricity end-users for the following purposes:
 
@@ -93,7 +93,7 @@ PSALM will administer the fund as the Special Trust Fund. This shall be disburse
 All amounts collected for the universal charge shall be distributed to the respective beneficiaries within a reasonable period to be provided by the ERC.
 
 
-## SEC. 35. Royalties, Returns and Tax Rates for Indigenous Energy Resources
+## Section 35. Royalties, Returns and Tax Rates for Indigenous Energy Resources
 
 The provisions of Section 79 of Commonwealth Act No. 137 (C.A. No. 137) and any law to the contrary notwithstanding, the
 President of the Philippines shall reduce the royalties, returns and taxes collected for the exploitation of all
@@ -104,7 +104,7 @@ fuels.
 To ensure lower rates for end-users, the ERC shall forthwith reduce the rates of power from all
 indigenous sources of energy.
 
-## SEC. 36. Unbundling of Rates and Functions
+## Section 36. Unbundling of Rates and Functions
 
 Within six (6) months from the effectivity of this Act, NAPOCOR shall file with the ERC its revised rates. The rates of NAPOCOR shall be unbundled between transmission and generation rates and the rates shall reflect the respective costs of providing each service.
 

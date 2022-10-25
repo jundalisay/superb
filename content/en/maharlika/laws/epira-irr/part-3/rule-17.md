@@ -9,15 +9,15 @@ date: 2021-09-30
 
 Section 1.
 
-Pursuant to Sections 32 and 33 of the Act, there are three (3) types of
+As per Sections 32 and 33 , there are three (3) types of
 stranded costs recoverable through the Universal Charge:
 (a) Stranded Debts;
 (b) Stranded Contract Costs of NAPOCOR; and
-(c) Stranded Contract Costs of Eligible Contracts of Distribution Utilities.
+(c) Stranded Contract Costs of Eligible Contracts of DUs.
 
 Section 2. Scope of the Application.
 
-This Rule shall apply to NAPOCOR, PSALM and Distribution Utilities with IPP
+This Rule shall apply to NAPOCOR, PSALM and DUs with IPP
 contracts approved by the ERB as of 31 December 2000.
 
 Section 3.
@@ -44,7 +44,7 @@ past year; and
 information.
 Section 4.
 NAPOCOR Stranded Debt and Stranded Contract Cost Recovery.
-(a) Consistent with Section 32 of the Act, the National Government shall
+(a) Consistent with Section 32 , the National Government shall
 directly assume a portion of the financial obligations of NAPOCOR
 transferred to PSALM in an amount not to exceed Two Hundred
 Billion Pesos (P200,000,000,000.00).
@@ -79,7 +79,7 @@ reflected as a separate item in the consumer billing statement.
 The ERC shall monitor and ensure that there is a separate item
 in the consumer billing statement for stranded cost recovery.
 Page 56 of 100Section 5. Recovery of Stranded Contract Costs of Eligible Contracts of
-Distribution Utilities.
+DUs.
 (a) Within one (1) year from the start of Retail Competition and Open
 Access, a Distribution Utility that seeks to recover stranded contract
 costs arising from its eligible contracts shall file with the ERC a notice
@@ -88,7 +88,7 @@ The Distribution Utility shall provide all pertinent information as may
 be required by the ERC. Failure of the Distribution Utility to file
 within the date specified shall mean non-eligibility for such recovery.
 (b) A Distribution Utility shall recover stranded contract costs: Provided,
-however, That such costs of the IPPs of Distribution Utilities are
+however, That such costs of the IPPs of DUs are
 subject to review by ERC in order to determine fairness and
 reasonableness in relation to the average price of land-based IPP
 projects entered into by NAPOCOR at the time they were contracted. The
@@ -116,24 +116,24 @@ stranded contract costs or divest assets, unless the divestiture is
 imposed as a penalty as provided herein.
 (e)
 Within three (3) months from the submission of the application for
-stranded cost recovery by the relevant Distribution Utilities, the ERC
+stranded cost recovery by the relevant DUs, the ERC
 shall verify the reasonable amounts and determine the manner and
 duration for the full recovery of the Stranded Contract Costs of
-Eligible Contracts of Distribution Utilities: Provided, That the duration
+Eligible Contracts of DUs: Provided, That the duration
 for such recovery shall not be shorter than fifteen (15) years nor
 longer than twenty-five (25) years. For this purpose, “full recovery of
-Stranded Contract Costs of Eligible Contracts of Distribution Utilities”
+Stranded Contract Costs of Eligible Contracts of DUs”
 shall mean recovery of Stranded Contract Costs of Eligible Contracts
-of Distribution Utilities authorized by the ERC after its pertinent
+of DUs authorized by the ERC after its pertinent
 Page 57 of 100review. Any amount to be included for the recovery of Stranded
-Contract Costs of Eligible Contracts of Distribution Utilities shall be
+Contract Costs of Eligible Contracts of DUs shall be
 reflected as a separate item in the consumer billing statement.
 (f) In the case of an over-recovery, the ERC shall ensure that any excess
 amount shall be remitted to the Special Trust Fund (STF) created
-pursuant to Section 34 of the Act. A separate account shall be
+pursuant to Section 34 . A separate account shall be
 created for this purpose that shall be held in trust for any future
-claims of Distribution Utilities for the recovery of their respective
-Stranded Contract Costs of Eligible Contracts of Distribution Utilities.
+claims of DUs for the recovery of their respective
+Stranded Contract Costs of Eligible Contracts of DUs.
 At the end of the stranded cost recovery period, any remaining
 amount or balance in this account shall be used to reduce the
 electricity rates to the End-users.
@@ -149,7 +149,7 @@ quarterly reports within thirty (30) days from the end of each calendar
 quarter.
 (h) Upon a finding by the ERC that a Distribution Utility which seeks to
 recover stranded contract costs has failed to comply with its
-mitigation obligation under Section 33 of the Act, the ERC may not
+mitigation obligation under Section 33 , the ERC may not
 allow the recovery of stranded contract costs: Provided, That if there is
 any fraud or misrepresentation by the Distribution Utility, the ERC
 may impose appropriate penalties in accordance with Section 46 of

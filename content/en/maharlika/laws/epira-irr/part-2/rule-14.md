@@ -11,7 +11,7 @@ date: 2021-09-30
 
 Guiding Principle.
 
-Pursuant to Section 59 of the Act, the provision of electric service in remote and Unviable Areas that the Distribution Utility is unable to service for any reason shall be opened to other qualified third parties. The provision of electricity in Unviable Areas by qualified third parties shall be a regulated business.
+As per Section 59 , the provision of electric service in remote and Unviable Areas that the Distribution Utility is unable to service for any reason shall be opened to other qualified third parties. The provision of electricity in Unviable Areas by qualified third parties shall be a regulated business.
 
 Section 2. Scope of Application.
 
@@ -22,7 +22,7 @@ Section 3. Determination of Remote and Unviable Areas.
 Every September, the DOE shall issue a declaration of all the remote and
 Unviable Areas that cannot be served by a Distribution Utility within the
 following three (3) years. The declaration shall be consistent with the PDP
-and made in consultation with the NEA and Distribution Utilities. The
+and made in consultation with the NEA and DUs. The
 remote and Unviable Areas specified in the declaration shall be open for
 participation by qualified third parties.
 Section 4. Determination of Qualified Third Parties.

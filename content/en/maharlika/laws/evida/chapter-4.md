@@ -2,12 +2,12 @@
 heading: "Chapter 4"
 title: "Incentives"
 description: "EVIDA Republic Act 9136"
-image: "/photos/physics/light.jpg"
+image: "/photos/objects/leaf.jpg"
 date: 2021-09-30
 ---
 
 
-## SEC. 24. Fiscal Incentives
+## Section 24. Fiscal Incentives
 
 - a)   Manufacturing
 
@@ -90,7 +90,7 @@ loans for the acquisition of EVs and charging stations.
     
 
 
-## SEC. 26. Financial Assistance
+## Section 26. Financial Assistance
 
 Government ﬁnancial institutions and other ﬁnancial institutions, in accordance with and to the extent allowed by the enabling provisions of their 
                                                     stations, and battery manufacturers, assemblers, and

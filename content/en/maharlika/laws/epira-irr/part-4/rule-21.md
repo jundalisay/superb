@@ -9,12 +9,12 @@ date: 2021-09-30
 
 Section 1. Creation of PSALM.
 
-Pursuant to Section 49 of the Act, a government-owned and -controlled corporation known as the “Power Sector Assets and Liabilities Management Corporation”, hereinafter referred to as the “PSALM Corp.” or “PSALM,” was
+As per Section 49 , a government-owned and -controlled corporation known as the “Power Sector Assets and Liabilities Management Corporation”, hereinafter referred to as the “PSALM Corp.” or “PSALM,” was
 created to take ownership of all existing NAPOCOR generation assets, liabilities,
 IPP contracts, real estate and all other disposable assets. All outstanding
 obligations of the NAPOCOR arising from loans, issuances of bonds, securities and
 other instruments of indebtedness shall be assumed by the PSALM, within
-one hundred eighty (180) days from the approval of the Act.
+one hundred eighty (180) days from the approval .
 NAPOCOR and PSALM shall take such measures and execute such documents to
 effect the transfer of the ownership and possession of all the assets, rights,
 privileges, and liabilities required by the Act to be transferred by NAPOCOR to PSALM.
@@ -34,7 +34,7 @@ Manila.
 
 Section 4. Term of Existence.
 Unless otherwise provided by law, PSALM shall exist for a period of twenty-
-five (25) years from the effectivity of the Act, and all assets held by it, all
+five (25) years from the effectivity , and all assets held by it, all
 moneys and properties belonging to it, and all its liabilities outstanding
 upon the expiration of its term of existence shall revert to and be assumed
 by the National Government. Upon expiration of the term of PSALM, the
@@ -98,7 +98,7 @@ liabilities;
 IPP Contracts and/or their energy output based on terms and
 conditions which shall optimize the value and sale prices of said
 assets;
-(p) To create and administer STFs under Section 34 of the Act and these
+(p) To create and administer STFs under Section 34  and these
 Rules;
 (q) To operate the generation assets, directly or through NAPOCOR, prior to
 Privatization of such assets. Towards this end, while PSALM operates

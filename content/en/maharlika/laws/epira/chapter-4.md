@@ -8,7 +8,7 @@ date: 2021-09-21
 
 
 
-## SEC. 38. Creation of the ERC
+## Section 38. Creation of the ERC
 
 An independent, quasi-judicial regulatory body called the Energy Regulatory Commissions (ERC) is created.
 
@@ -16,7 +16,21 @@ It is composed of:
 - 1 Chairman
 - 4 members to be appointed by the President
 
-They shall be natural-born citizens and residents of the Philippines, persons of good moral character, at least 35 years old of recognized competence in any of the following fields: energy, law, economics, finance, commerce, or engineering, with at least 3 years actual and distinguished experience in their respective fields of expertise: Provided, That out of the four (4) members of the Commission, at least one (1) shall be a member of the Philippine Bar with at least ten (10) years experience in the active practice of law, and one (1) shall be a certified public accountant with at least ten (10) years experience in active practice.
+They shall be:
+- natural-born citizens
+- residents of the Philippines
+- persons of good moral character
+- at least 35 years old
+- of recognized competence in any of the following fields:
+  - energy
+  - law
+  - economics
+  - finance
+  - commerce
+  - engineering
+- have at least 3 years distinguished experience in their respective fields of expertise as long as out of the 4 members, at least:
+  - 1 shall be a member of the Philippine Bar with at least 10 years experience in the active practice of law
+  - 1 shall be a certified public accountant with at least ten (10) years experience in active practice.
 
 Within 3 months from the creation of the ERC, the Chairman shall submit for the approval by the President the new organizational structure and plantilla positions necessary to carry out the powers and functions of the ERC.
 
@@ -44,7 +58,7 @@ The majority vote of 2 members in a meeting in a quorum is needed to adopt any r
 - in fixing rates and tariffs, an affirmative vote of 3 members shall be required.
 
 
-## SEC. 39. Compensation and Other Emoluments for ERC Personnel
+## Section 39. Compensation and Other Emoluments for ERC Personnel
 
 The compensation and other emoluments for the Chairman and members of the Commission and the ERC personnel shall be
 exempted from the coverage of Republic Act No. 6758, otherwise known as the “Salary Standardization Act”. 
@@ -58,24 +72,24 @@ The Chairman and members of the Commission shall initially be entitled to the sa
 The Chairman and the members of the Commission shall, upon completion of their term orupon becoming eligible for retirement under existing laws, be entitled to the same retirement benefits and the privileges provided for the Presiding Justice and Associate Justices of the Supreme Court, respectively.
 
 
-## SEC. 40. Enhancement of Technical Competence
+## Section 40. Enhancement of Technical Competence
 
 The ERC shall establish rigorous training programs for its staff for the purpose of enhancing the technical competence of the ERC in the following areas: evaluation of technical performance and monitoring of compliance with service and performance
 standards, performance-based rate-setting reform, environmental standards and such other areas as will
 enable the ERC to adequately perform its duties and functions.
 
-## SEC. 41. Promotion of Consumer Interests
+## Section 41. Promotion of Consumer Interests
 
 The ERC shall handle consumer complaints and ensure the adequate promotion of consumer interests.
 
-## SEC. 42. Budget of the ERC
+## Section 42. Budget of the ERC
 
 150m pesos is the intial budget of the ERC. 
 
 Any balance shall initially be sourced from the Office of the President of the Philippines. Thereafter, the annual budget
 of the ERC shall be included in the regular or special appropriations.
 
-## SEC. 43. Functions of the ERC
+## Section 43. Functions of the ERC
 
 The ERC shall promote competition, encourage market development, ensure customer choice and penalize abuse of market power in the restructured electricity industry. 
 

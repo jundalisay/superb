@@ -7,27 +7,26 @@ date: 2021-09-30
 ---
 
 
-
 ## RULE 5. GENERATION SECTOR
 
-Section 1. Guiding Principle.
+Section 1. Guiding Principle
 
-Pursuant to Section 6 of the Act, generation of electric power, a business
-affected with public interest, shall be competitive and open to all qualified
-Generation Companies. Generation shall not be considered a public utility
-operation. For this purpose, any Person engaged or intending to engage in
-Generation of Electricity shall not be required to secure a national franchise.
+As per Section 6, electric power generation<!-- , a business affected with public interest, --> shall be competitive and open to all qualified Generation Companies. 
 
-No Person may engage in the Generation of Electricity as a new Generation
-Company unless such Person has received a COC from the ERC to operate
-facilities used in the Generation of Electricity. A Person that demonstrates
-compliance with the standards and requirements of this Rule 5, and such
+Generation is not a public utility operation. 
+
+Any Person engaged or intending to engage in Generation of Electricity shall not be required to secure a national franchise.
+
+A new Generation Company must get a COC from the ERC to operate facilities for the Generation of Electricity. 
+
+A Person that demonstrates compliance with the standards and requirements of this Rule 5, and such
 other terms and conditions as determined by the ERC to be appropriate to
 ensure that Persons comply with all applicable legal and regulatory
 requirements, shall be issued a COC.
-Page 18 of 100Section 2. Scope of Application.
-This Rule shall apply to all facilities used or to be used for the Generation of
-Electricity, including but not limited to the following:
+
+Section 2. Scope of Application
+
+This Rule shall apply to all facilities used or to be used for the Generation of Electricity, including but not limited to the following:
 
 a)
 Existing Generation Facilities.
@@ -51,7 +50,7 @@ Development
 Corporation (PNOC-EDC) and other government agencies;
 (v)
 Accredited facilities under BOT arrangement and other variant
-with Distribution Utilities;
+with DUs;
 (vi)
 Facilities Owned or Operated by a Distribution Utility;
 (vii) Facilities under Contract with a Distribution Utility;
@@ -74,7 +73,7 @@ DOE-Accredited Facility under BOT arrangement and other
 variants with NAPOCOR, SPUG, PNOC-EDC, NIA and other
 government agencies;
 DOE-Accredited Facility under BOT arrangement and other
-variants with Distribution Utilities;
+variants with DUs;
 Non DOE-Accredited Facility under contract with Distribution
 Utilities;
 Self-Generation Facility;
@@ -101,10 +100,10 @@ to
 the
 PSALM-appointed
 IPP
+
 Section 3. Ownership Limitation.
-No Generation Company, Distribution Utility, or its respective subsidiary or
-Affiliate or stockholder or official of a Generation Company or Distribution
-Utility, or other entity engaged in generating and supplying electricity
+
+No Generation Company, Distribution Utility, or its respective subsidiary or Affiliate or stockholder or official of a Generation Company or Distribution Utility, or other entity engaged in generating and supplying electricity
 specified by ERC within the fourth civil degree of consanguinity or affinity,
 legitimate or common law, shall be allowed to hold any interest, directly or
 indirectly, in TRANSCO or its Buyer or Concessionaire. Likewise, the
@@ -113,15 +112,17 @@ officials or any of their relatives within the fourth civil degree of
 consanguinity or affinity, legitimate or common law, shall not hold any
 interest, whether directly or indirectly, in any Generation Company or
 Distribution Utility.
-Except for ex officio government-appointed
-representatives, no Person who is an officer or director of the TRANSCO or
+
+Except for ex officio government-appointed representatives, no Person who is an officer or director of the TRANSCO or
 its Buyer or Concessionaire shall be an officer or director of any Generation
 Company, Distribution Utility or Supplier. This section shall not apply to
 PSALM during the period that its generation assets are being privatized
-pursuant to Section 47 of the Act.
+pursuant to Section 47
+
 Section 4. Obligations of a Generation Company.
 (a)
 (b)
+
 A COC shall be secured from the ERC before commercial operation of
 a new Generation Facility. The COC shall stipulate all obligations of a
 Generation Company consistent with this Section and such other
@@ -142,6 +143,7 @@ shall not be required to secure a COC even if acquired by a new
 owner: Provided, That such new owner shall register with ERC
 as specified above. Upon registration, such Person shall be
 deemed authorized to operate such Generation Facility.
+
 A Generation Company shall comply with the following operating
 standards:
 (i)
@@ -181,8 +183,8 @@ Rule 15 on Unbundling of Rates.
 (e) Prior to the implementation of Open Access and Retail Competition,
 the prices charged by a Generation Company for the Supply of
 Electricity shall be subject to ERC regulation on the Retail Rates
-charged by Distribution Utilities and transition supply contracts
-(TSCs) as specified in Section 67 of the Act.
+charged by DUs and transition supply contracts
+(TSCs) as specified in Section 67 .
 Upon introduction of Open Access and Retail Competition or
 establishment of WESM, whichever comes first, the rates of a
 Generation Company shall not be subject to regulation by the ERC
@@ -191,36 +193,39 @@ However, for a Generation Company operating a facility in SPUG areas
 and isolated areas, the generation rates for such facility shall be fixed
 and determined by ERC as set forth in Rule 13 on Missionary
 Electrification.
-(f)
-A self-generation company not connected to a Distribution Utility,
+(f) A self-generation company not connected to a Distribution Utility,
 unless otherwise provided under these Rules, shall remit directly to
 TRANSCO the corresponding Universal Charge set by ERC.
-In
-Page 21 of 100relation to this, TRANSCO or its Buyer or Concessionaire or the
+In relation to this, TRANSCO or its Buyer or Concessionaire or the
 appropriate Distribution Utility, when connected to the self-generation
 company, shall have access to the customer side of the meter in order
 to determine the utilization of such Generation Facility for the
 purpose of assessing the corresponding Universal Charge as provided
 in Rule 18 on Universal Charge.
+
 (g) A Generation Company shall comply with Rule 29 on Benefits to Host
 Communities.
+
 (h) Upon the establishment of the WESM by the DOE, jointly with
 Electric Power Industry Participants, a Generation Company shall
 comply with the membership criteria as prescribed under the WESM
 Rules as set forth in Rule 9 on WESM.
-(i) Pursuant to Section 9(e) of the Act, a Generation Company with
+
+(i) As per Section 9(e) , a Generation Company with
 facilities connected to a Grid shall make information available to the
 Market Operator to enable the Market Operator to implement the
 appropriate dispatch scheduling and shall comply with the said
 scheduling in accordance with the WESM Rules. A Generation
 Company shall likewise make information available to the grid
-operator to facilitate Central Dispatch by the grid operator. Subject to
-Technical Constraints, the grid operator of the TRANSCO or its Buyer
+operator to facilitate Central Dispatch by the grid operator. 
+
+Subject to Technical Constraints, the grid operator of the TRANSCO or its Buyer
 or Concessionaire shall provide Central Dispatch to a Generation
 Facility connected, directly or indirectly, to the transmission system in
 accordance with the dispatch schedule submitted by the Market
 Operator, which schedule shall take into account outstanding
 bilateral contracts.
+
 (j) A Generation Company shall comply with Rule 11 on Cross
 Ownership, Market Abuse and Anti-Competitive Behavior.
 (k) A Generation Company that owns a dedicated point-to-point limited
@@ -242,31 +247,32 @@ Subject to prior authorization from ERC, TRANSCO or its Buyer or
 Concessionaire may allow a Generation Company to develop, own
 and/or operate dedicated point-to-point limited transmission
 facilities: Provided, That:
-Page 22 of 100(b)
+
+
+(b)
 (i) Such dedicated point-to-point limited transmission facilities are
 required only for the purpose of connecting to the Grid which
 will be used solely by the Generation Facility, and are not used
 to serve End-users or Suppliers directly;
+
 (ii) The facilities are included and consistent with the TDP as
 certified by TRANSCO or its Buyer or Concessionaire; and
+
 (iii) Any other documents that may be required by the ERC.
-In the event that such assets are required for competitive purposes,
-ownership of the same shall be transferred to the TRANSCO at a fair
-market price. In case of disagreement on the fair market price, the
+
+In the event that such assets are required for competitive purposes, ownership of the same shall be transferred to the TRANSCO at a fair market price. In case of disagreement on the fair market price, the
 ERC shall determine the fair market value of such asset, either directly
 or through such dispute resolution mechanisms as ERC may specify.
+
 Section 6. Generation Charges and VAT.
-(a) Within ninety (90) days from the effectivity of these Rules, the ERC
-shall issue guidelines for the regulation of power sales by Generation
-Companies applicable prior to the implementation of Retail
+
+(a) Within 90 days from the effectivity of these Rules, the ERC shall issue guidelines for the regulation of power sales by Generation Companies applicable prior to the implementation of Retail
 Competition and Open Access or establishment of WESM, whichever
 comes first.
-(b) Pursuant to the policy of reducing electricity rates to End-users, sales
-of generated power by a Generation Company shall, from the
-effectivity of the Act, be zero-rated for the purpose of imposition of
-value-added tax. Towards this end, the imposition of zero percent
-(0%) VAT shall apply to the sale of generated power by a Generation
-Company through all stages of sale until it reaches the End-user. The
-DOF, through the BIR, shall issue the necessary revenue regulation
+
+(b) As per the policy of reducing electricity rates to End-users, sales of generated power by a Generation Company shall, from the effectivity , be zero-rated for the purpose of imposition of
+value-added tax. 
+
+Towards this end, 0% VAT shall apply to the sale of generated power by a Generation Company through all stages of sale until it reaches the End-user. The DOF, through the BIR, shall issue the necessary revenue regulation
 within sixty (60) calendar days from effectivity of these Rules.
 

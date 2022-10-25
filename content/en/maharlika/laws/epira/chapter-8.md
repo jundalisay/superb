@@ -7,13 +7,13 @@ date: 2021-09-10
 ---
 
 
-## SEC. 61. Reportorial Requirements
+## Section 61. Reportorial Requirements
 
 The DOE shall take the necessary measures to ensure that the provisions of this Act are properly implemented, and shall submit to the Power Commission a semi-annual report on the implementation of this Act, on or before the last week of April and October of each
 year.
 
 
-## SEC. 62. Joint Congressional Power Commission
+## Section 62. Joint Congressional Power Commission
 
 Upon the effectivity of this Act, a congressional commission, hereinafter referred to as the “Power Commission”, is hereby constituted. The Power Commission shall be composed of 14 members with the chairmen of the Committee on Energy of the Senate and the House of Representatives and six (6) additional members from each House, to be designated by the Senate President and the Speaker of the House of Representatives, respectively. 
 
@@ -26,7 +26,9 @@ The Commission shall, in aid of legislation, perform the following functions, am
 - Endorse the initial privatization plan within one (1) month from submission of such plan to the Power Commission by PSALM Corp. for approval by the President
 - To ensure transparency, require the submission of reports from government agencies concerned on the conduct of public bidding procedures regarding privatization of NAPOCOR generation and transmission assets
 - Review and evaluate the performance of the industry participants in relation to the objectives and timelines set forth in this Act
-- Approve the budget for the programs of the Power Commission and all disbursements therefrom, including compensation of all personnel;(f) Submit periodic reports to the President of the Philippines and Congress;
+- Approve the budget for the programs of the Power Commission and all disbursements therefrom, including compensation of all personnel
+
+(f) Submit periodic reports to the President of the Philippines and Congress;
 (g) Determine inherent weaknesses in the law and recommend necessary remedial legislation or executive measures; and
 (h) Perform such other duties and functions as may be necessary to attain its objectives.
 In furtherance hereof, the Power Commission is hereby empowered to require the DOE, ERC,
@@ -52,7 +54,7 @@ electricity industry reforms as provided in this Act. To carry out its powers an
 Thereafter, such amount necessary for its continued operation shall be included in the annual General Appropriations Act.
 The Power Commission shall exist for period of ten (10) years from the effectivity of this Act and may be extended by a joint concurrent resolution.
 
-## SEC. 63. Separation Benefits of Officials and Employees of Affected Agencies
+## Section 63. Separation Benefits of Officials and Employees of Affected Agencies
 
 National government employees displaced or separated from the service as a result of the restructuring of the electricity industry and privatization of NAPOCOR assets pursuant to this Act, shall be entitled to either a separation pay and other benefits in accordance with existing laws, rules or regulations or be entitled to avail of the privileges provided under a separation plan which shall be one and one-half month salary for every year of service in the government: Provided, however, That those who avail of such privilege shall start their government service anew if absorbed by any government-owned successor company. 
 
@@ -66,25 +68,22 @@ The salaries of employees of NAPOCOR shall continue to be exempt from the covera
 With respect to employees who are not retained by NAPOCOR, the government, through the Department of Labor and Employment, shall endeavor to implement re-training, job counseling, and job placement programs.
 
 
-## SEC. 64. Fiscal Prudence
+## Section 64. Fiscal Prudence
 
 To promote the prudent management of government resources, the creation of new positions and the levels of or increase in salaries and all other emoluments and benefits of TRANSCO and PSALM Corp. personnel shall be subject to the approval of the President. 
 
 The compensation and all other emoluments and benefits of the officials and members of theBoard of the TRANSCO and PSALM shall be subject to the approval of the President of the Philippines.
 
 
-## SEC. 65. Environmental Protection
+## Section 65. Environmental Protection
 
 Participants in the generation, distribution and transmission sub-sectors of the industry shall comply with all environmental laws, rules, regulations and standards promulgated by the Department of Environment and Natural Resources including, in appropriate cases, the
 establishment of an environmental guarantee fund.
 
-SEC. 66. Benefits to Host Communities
+## Section 66. Benefits to Host Communities
 
 The obligations of generation companies and energy resource developers to communities hosting energy generating facilities and/or energy resource developers as defined under Chapter 2, Sections 289 to 294 of the Local Government Code and Section 5(i) of
-Republic Act No. 7638 and their implementing rules and regulations and applicable orders and circulars
-consistent with this Act shall continue: Provided, That the obligations mandated under Chapter II, Section
-291 of Republic Act No. 7160, shall apply to privately-owned corporations or entities utilizing the national
-wealth of the locality.
+RA 7638 and their implementing rules and regulations and applicable orders and circulars consistent with this Act shall continue: Provided, That the obligations mandated under Chapter 2, Section 291 of Republic Act No. 7160, shall apply to privately-owned corporations or entities utilizing the national wealth of the locality.
 
 To ensure the effective implementation of the reduction in cost of electricity in the communities where the source of energy is located, the mechanics and procedures prescribed in the Department of the Interior and Local Government (DILG)-DOE Circulars No. 95-01 and 98-01 dated October 31, 1995 and September 30, 1998, respectively and other issuances related thereto shall be pursued.
 Towards this end, the fund generated from the eighty percent (80%) of the national wealth tax shall, in no case, be used by any local government unit for any purpose other than those for which it was intended.
@@ -94,22 +93,16 @@ thereof, the DILG shall, upon prior notice and hearing, order the project operat
 withhold the remittance of the royalty payment to the host community concerned pending completion of the
 investigation. The unremitted funds shall be deposited in a government bank under a trust fund.
 
-SEC. 67. NAPOCOR Offer of Transition Supply Contracts. – Within six (6) months from the effectivity
-of this Act, NAPOCOR shall file with the ERC for its approval a transition supply contract duly negotiated with
-the distribution utilities containing the terms and conditions of supply and a corresponding schedule of
-rates, consistent with the provisions hereof, including adjustments and/or indexation formulas which shall
-apply to the term of such contracts. The term of the transition supply contracts shall not extend beyond one
+## SEC. 67. NAPOCOR Offer of Transition Supply Contracts
 
-(1) year from the introduction of open access. Such contracts shall be based on the projected demand of
-such utilities less any of their currently committed quantities under eligible IPP contracts as defined in
-Section 33 hereof: Provided, That the total generation capacity of such signed transition supply contracts
-shall not exceed the level of NAPOCOR owned, controlled or committed capacity as of the effectivity of this
-Act. Such transition supply contracts shall be assignable to the NAPOCOR successor generating companies.
-Within six (6) months from the date of submission of the transition supply contract by NAPOCOR, the
-ERC shall notify NAPOCOR of their approval of the rates contained therein.
+Within six (6) months from the effectivity of this Act, NAPOCOR shall file with the ERC for its approval a transition supply contract duly negotiated with the distribution utilities containing the terms and conditions of supply and a corresponding schedule of rates, consistent with the provisions hereof, including adjustments and/or indexation formulas which shall
+apply to the term of such contracts. The term of the transition supply contracts shall not extend beyond 1 year from the introduction of open access. Such contracts shall be based on the projected demand of such utilities less any of their currently committed quantities under eligible IPP contracts as defined in Section 33 hereof: Provided, That the total generation capacity of such signed transition supply contracts shall not exceed the level of NAPOCOR owned, controlled or committed capacity as of the effectivity of this Act. 
 
-The ERC shall maintain a record of the contract terms and rates offered by NAPOCOR. Likewise, the
-ERC shall update monthly, the rates using the appropriate adjustment and/or indexation formula.
+Such transition supply contracts shall be assignable to the NAPOCOR successor generating companies. Within six (6) months from the date of submission of the transition supply contract by NAPOCOR, the ERC shall notify NAPOCOR of their approval of the rates contained therein.
+
+The ERC shall maintain a record of the contract terms and rates offered by NAPOCOR. 
+
+Likewise, the ERC shall update monthly, the rates using the appropriate adjustment and/or indexation formula.
 Notwithstanding the provisions of Section 25 hereof, the rates charged by a distribution utility for
 the generation component of the supply of electricity in their distribution retail supply rate shall, for the
 term of the transition supply contracts, not exceed the transition supply contract rates, as updated monthly.

@@ -8,7 +8,7 @@ date: 2021-09-30
 
 
 
-Pursuant to Section 64 of the Act, the creation of new positions and the levels of or increases in salaries and all other emoluments and Page 94 of 100benefits of TRANSCO and PSALM personnel shall be subject to the approval of the President of the Philippines. 
+As per Section 64 , the creation of new positions and the levels of or increases in salaries and all other emoluments and Page 94 of 100benefits of TRANSCO and PSALM personnel shall be subject to the approval of the President of the Philippines. 
 
 (b)
 Likewise, the compensation and all other emoluments and benefits of
@@ -101,5 +101,5 @@ respective employees to implement this Rule within ninety (90) days from
 effectivity of these Rules: Provided, That in the case of ERC, the independent
 quasi-judicial body created under the Act, the manner of, and timetable for,
 implementation of its organization shall be governed by Section 38 and
-Section 39 of the Act.
+Section 39 .
 

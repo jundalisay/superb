@@ -7,7 +7,8 @@ date: 2020-10-31
 ---
 	
 <!-- Seventeenth Congress
-Third Regular Session -->
+Third Regular Session  Rice Competitiveness Enhancement Fund, of which P5 billion will be allotted to farm mechanization and P3 billion to seedlings.
+-->
 
 Monday, July 23, 2018
 
@@ -38,17 +39,12 @@ The State adopts the use of tariffs in lieu of non-tariff import restrictions to
 - g ‘Out-Quota Tariff Rate’ refers to the higher rate of customs duty that is levied on the quantities of an imported agricultural product in excess of its minimum access volume (MAV)
 - h ‘Minimum Access Volume’ refers to the volume of a specific agricultural product that is allowed to be imported with a lower tariff as committed by the Philippines to the WTO under the Uruguay Round Final Act;
 - i ‘Most Favoured Nation (MFN) Rate’ refers to Philippine tariff rates that are applicable to imports from all sources as prescribed in the CMTA;
-- j ‘Quantitative Import Restrictions’ refer to non-tariff restrictions used to limit the amount of imported commodities, including, but not limited to discretionary import licensing and import quotas, whether qualified or absolute;
-
-"(k) ‘Rice’ refers to all products classified under the Harmonized Commodity Description and Coding System (HS) heading 10.06;
-
-"(l) ‘Rice Shortage’ is a situation where the quantity available or the supply of the commodity in a market falls short of the quantity demanded or required at a given time;
-
-"(m) ‘Tariff’ refers to a tax levied on a commodity imported from another country. It earns revenues for the government and regarded as instruments to promote local industries by taxing their competitors. The benefit is accorded to the local producers by the maintenance of a domestic price at a level equal to the world price plus the tariff;
-
-"(n) ‘Tariff Equivalent’ refers to the rate of tariff that provides comparable protection under existing quantitative import restrictions, reflected by the average price gap between domestic prices and world prices; and
-
-"(o) ‘Tariffication’ refers to the lifting of all existing quantitative restrictions such as import quotas or prohibitions, imposed on agricultural products, and replacing these restrictions with tariffs."
+- j ‘Quantitative Import Restrictions’ refer to non-tariff restrictions used to limit the amount of imported commodities, including, but not limited to discretionary import licensing and import quotas, whether qualified or absolute
+- k ‘Rice’ is all products classified under the Harmonized Commodity Description and Coding System (HS) heading 10.06
+- l ‘Rice Shortage’ is when the supply in a market falls short of the quantity demanded
+- m ‘Tariff’ is a tax levied on a commodity imported from another country. It earns revenues for the government and regarded as instruments to promote local industries by taxing their competitors. The benefit is accorded to the local producers by the maintenance of a domestic price at a level equal to the world price plus the tariff
+- n ‘Tariff Equivalent’ refers to the rate of tariff that provides comparable protection under existing quantitative import restrictions, reflected by the average price gap between domestic prices and world prices
+- o ‘Tariffication’ refers to the lifting of all existing quantitative restrictions such as import quotas or prohibitions, imposed on agricultural products, and replacing these restrictions with tariffs."
 
 <!-- Section 3. Section 4 of R. A. No. 8178, as amended, hereby further amended to read as follows: -->
 

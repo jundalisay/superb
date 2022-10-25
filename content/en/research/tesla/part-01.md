@@ -1,51 +1,137 @@
 ---
-title:  "The Problem of Increasing Human Energy"
-heading: "With special references to the harnessing of the Sun's energy" 
-# image:  "/covers/war.jpg"
-description: "The art of war is of vital importance to the State. It is a matter of life and death"
-heading:  "Chapter 1"
+title:  "Problem 1: How To Increase The Human Mass"
+heading:  "Part 1"
+image:  "/covers/energy.jpg"
+description: "The 2 ways to increase the mass of mankind: aid and maintain those forces which increase it and  oppose those which diminish it"
 ---
 
 
-<!-- ## THE ONWARD MOVEMENT OF MAN—THE ENERGY OF THE MOVEMENT—THE  -->
+## THE BURNING OF ATMOSPHERIC NITROGEN
 
-## THREE WAYS OF INCREASING HUMAN ENERGY. 
+There are 2 general ways to increase the mass of mankind: 
 
-Of all the endless variety of phenomena which nature presents to our senses, there is none that fills our minds with greater wonder than that inconceivably complex movement which, in its entirety, we designate as human life; Its mysterious origin is veiled in the forever impenetrable mist of the past, its character is rendered incomprehensible by its infinite intricacy, and its destination is hidden in the unfathomable depths of the future. 
+1. By aiding and maintaining those forces and conditions which tend to increase it
 
-Whence does it come? What is it? Whither does it tend? are the great questions which the sages of all times have endeavored to answer.
+2. By opposing and reducing those which tend to diminish it. 
 
-Modern science says: The sun is the past, the earth is the present, the moon is the future. From an incandescent mass we have originated, and into a frozen mass we shall turn. Merciless is the law of nature, and rapidly and irresistibly we are drawn to our doom. 
+The mass will be increased by careful attention to health, by substantial food, by moderation, by regularity of habits, by promotion of marriage, by conscientious attention to children, and, generally stated, by the observance of all the many precepts and laws of religion and hygiene. 
 
-Lord Kelvin, in his profound meditations, allows us only a short span of life, something like six million years, after which time the suns bright light will have ceased to shine, and its life giving heat will have ebbed away, and our own earth will be a lump of ice, hurrying on through the eternal night. 
+But in adding new mass to the old, 3 cases again present themselves. Either the mass added is of the same velocity as the old, or it is of a smaller or of a higher velocity. 
 
-But do not let us despair. There will still be left upon it a glimmering spark of life, and there will be a chance to kindle a new fire on some distant star. This wonderful possibility seems, indeed, to exist, judging from Professor Dewar's beautiful experiments with liquid air, which show that germs of organic life are not destroyed by cold, no matter how intense; consequently they may be transmitted through the interstellar space. Meanwhile the cheering lights of science and art, ever increasing in intensity, illuminate our path, and marvels they disclose, and the enjoyments they offer, make us measurably forgetful of the gloomy future. 
+To gain an idea of the relative importance of these cases, imagine a train composed of, say, one hundred locomotives running on a track, and suppose that, to increase the energy of the moving mass, four more locomotives are added to the train. If these four move at the same velocity at which the train is going, the total energy will be increased four per cent.; if they are moving at only one half of that velocity, the increase will amount to only 1%
 
-Though we may never be able to comprehend human life, we know certainly that it is a movement, of whatever nature it be. The existence of movement unavoidably implies a body which is being moved and a force which is moving it. Hence, wherever there is life, there is a mass moved by a force. All mass possesses inertia, all force tends to persist. Owing to this universal property and condition, a body, be it at rest or in motion, tends to remain in the same state, and a force, manifesting itself anywhere and through whatever cause, produces an equivalent opposing force, and as an absolute necessity of this it follows that every movement in nature must be rhythmical. Long ago this simple truth was clearly pointed out by Herbert Spencer, who arrived at it through a somewhat different process of reasoning. It is borne out in everything we perceive—in the movement of a planet, in the surging and ebbing of the tide, in the reverberations of the air, the swinging of a pendulum, the oscillations of an electric current, and in the infinitely varied phenomena of organic life. Does not the whole of human life attest to it? Birth, growth, old age, and death of an individual, family, race, or nation, what is it all but a rhythm? All life-manifestation, then, even in its most intricate form, as exemplified in man, however involved and inscrutable, is only a movement, to which the same general laws of movement which govern throughout the physical universe must be applicable. 
-<!-- <br>[See Nikola Tesla: Colorado Springs Notes, page 334, Photograph X.]   -->
+If they are moving at twice that velocity, the increase of energy will be sixteen per cent. This simple illustration shows that it is of greatest importance to add mass of a higher velocity. Stated more to the point, if, for example, the children be of the same degree of enlightenment as the parents,—that is, mass of the "same velocity,"—the energy will simply increase proportionately to the number added. 
+
+If they are less intelligent or advanced, or mass of "smaller velocity," there will be a very slight gain in the energy; but if they are further advanced, or mass of "higher velocity," then the new generation will add very considerably to the sum total of human energy. any addition of mass of "smaller velocity," beyond that indispensable amount required by the law expressed in the proverb, "Mens sana in corpore sano," should be strenuously opposed. 
+
+For instance, the mere development of muscle, as aimed at in some of our colleges, I consider equivalent to adding mass of "smaller velocity," and I would not commend it, although my views were different when I was a student myself. Moderate exercise, insuring the right balance between mind and body, and the highest efficiency of performance, is, of course, a prime requirement. The above example shows that the most important result to be attained is the education, or the increase of the "velocity," of the mass newly added. 
+
+Conversely, it scarcely need be stated that everything that is against the teachings of religion and the laws of hygiene is tending to decrease the mass. Whisky, wine, tea coffee, tobacco, and other such stimulants are responsible for the shortening of the lives of many, and ought to be used with moderation.
+
+But I do not think that rigorous measures of suppression of habits followed through many generations are commendable. It is wiser to preach moderation than abstinence. We have become accustomed to these stimulants, and if such reforms are to be effected, they must be slow and gradual. Those who are devoting their energies to such ends could make themselves far more useful by turning their efforts in other directions, as, for instance, toward providing pure water. 
+
+For every person who perishes from the effects of a stimulant, at least a thousand die from the consequences of drinking impure water. This precious fluid, which daily infuses new life into us, is likewise the chief vehicle through which disease and death enter our bodies. The germs of destruction it conveys are enemies all the more terrible as they perform their fatal work unperceived. 
+
+They seal our doom while we live and enjoy. The majority of people are so ignorant or careless in drinking water, and the consequences of this are so disastrous, that a philanthropist can scarcely use his efforts better than by endeavoring to enlighten those who are thus injuring themselves. By systematic purification and sterilization of the drinking water the human mass would be very considerably increased. 
+
+It should be made a rigid rule—which might be enforced by law—to boil or to sterilize otherwise the drinking water in every household and public place. The mere filtering does not afford sufficient security against infection. All ice for internal uses should be artificially prepared from water thoroughly sterilized. The importance of eliminating germs of disease from the city water is generally recognized, but little is being done to improve the existing conditions, as no satisfactory method of sterilizing great quantities of water has yet been brought forward. By improved electrical appliances we are now enabled to produce ozone cheaply and in large amounts, and this ideal disinfectant seems to offer a happy solution of the important question.
+
+Gambling, business rush, and excitement, particularly on the exchanges, are causes of much mass reduction, all the more so because the individuals concerned represent units of higher value. Incapacity of observing the first symptoms of an illness, and careless neglect of the same, are important factors of mortality. In noting carefully every new sign of approaching danger, and making conscientiously every possible effort to avert it, we are not only following wise laws of hygiene in the interest of our well-being and the success of our labors, but we are also complying with a higher moral duty. Everyone should consider his body as a priceless gift from one whom he loves above all, as a marvelous work of art, of indescribable beauty and mastery beyond human conception, and so delicate and frail that a word, a breath, a look, nay, a thought, may injure it. Uncleanliness, which breeds disease and death, is not only a self destructive but highly immoral habit. 
+
+In keeping our bodies free from infection, healthful, and pure, we are expressing our reverence for the high principle with which they are endowed. He who follows the precepts of hygiene in this spirit is proving himself, so far, truly religious. Laxity of morals is a terrible evil, which poisons both mind and body, and which is responsible for a great reduction of the human mass in some countries. Many of the present customs and tendencies are productive of similar hurtful results. For example, the society life, modern education and pursuits of women, tending to draw them away from their household duties and make men out of them, must needs detract from the elevating ideal they represent, diminish the artistic creative power, and cause sterility and a general weakening of the race.
+
+ A thousand other evils might be mentioned, but all put together, in their bearing upon the problem under discussion, they could not equal a single one, the want of food, brought on by poverty, destitution, and famine. Millions of individuals die yearly for want of food, thus keeping down the mass. Even in our enlightened communities, and not withstanding the many charitable efforts, this is still, in all probability, the chief evil. I do not mean here absolute want of food, but want of healthful nutriment. 
 
 
-FIG. 1. BURNING THE NITROGEN OF THE ATMOSPHERE.
+How to provide good and plentiful food is, therefore, a most important question of the day. On the general principles the raising of cattle as a means of providing food is objectionable, because, in the sense interpreted above, it must undoubtedly tend to the addition of mass of a "smaller velocity." It is certainly preferable to raise vegetables, and I think, therefore, that vegetarianism is a commendable departure from the established barbarous habit. That we can subsist on plant food and perform our work even to advantage is not a theory, but a well-demonstrated fact. Many races living almost exclusively on vegetables are of superior physique and strength. There is no doubt that some plant food, such as oatmeal, is more economical than meat, and superior to it in regard to both mechanical and mental performance. Such food, moreover, taxes our digestive organs decidedly less, and, in making us more contented and sociable, produces an amount of good difficult to estimate. In view of these facts every effort should be made to stop the wanton and cruel slaughter of animals, which must be destructive to our morals. To free ourselves from animal instincts and appetites, which keep us down, we should begin at the very root from which we spring: we should effect a radical reform in the character of the food. 
 
-Note to Fig. 1.—This result is produced by the discharge of an electrical oscillator giving twelve million volts. The electrical pressure, alternating one hundred thousand times per second, excites the normally inert nitrogen, causing it to combine with the oxygen. The flame-like discharge shown in the photograph measures sixty-five feet across. 
-When we speak of man, we have a conception of humanity as a whole, and before applying scientific methods to, the investigation of his movement we must accept this as a physical fact. 
+There seems to be no philosophical necessity for food. 
 
-But can anyone doubt to-day that all the millions of individuals and all the innumerable types and characters constitute an entity, a unit? Though free to think and act, we are held together, like the stars in the firmament, with ties inseparable. These ties cannot be seen, but we can feel them. I cut myself in the finger, and it pains me: this finger is a part of me. I see a friend hurt, and it hurts me, too: my friend and I are one. And now I see stricken down an enemy, a lump of matter which, of all the lumps of matter in the universe, I care least for, and it still grieves me. Does this not prove that each of us is only part of a whole? 
+We can conceive of organized beings living without nourishment, and deriving all the energy they need for the performance of their life functions from the ambient medium. 
 
-For ages this idea has been proclaimed in the consummately wise teachings of religion, probably not alone as a means of insuring peace and harmony among men, but as a deeply founded truth. The Buddhist expresses it in one way, the Christian in another, but both say the same: We are all one. Metaphysical proofs are, however, not the only ones which we are able to bring forth in support of this idea. Science, too, recognizes this connectedness of separate individuals, though not quite in the same sense as it admits that the suns, planets, and moons of a constellation are one body, and there can be no doubt that it will be experimentally confirmed in times to come, when our means and methods for investigating psychical and other states and phenomena shall have been brought to great perfection. Still more: this one human being lives on and on. The individual is ephemeral, races and nations come and pass away, but man remains. Therein lies the profound difference between the individual and the whole. Therein, too, is to be found the partial explanation of many of those marvelous phenomena of heredity which are the result of countless centuries of feeble but persistent influence.
+In a crystal, we have the clear evidence of the existence of a formative life-principle, and though we cannot understand the life of a crystal, it is nonetheless a living being. 
 
-Conceive, then, man as a mass urged on by a force. Though this movement is not of a translatory character, implying change of place, yet the general laws of mechanical movement are applicable to it, and the energy associated with this mass can be measured, in accordance with well-known principles, by half the product of the mass with the square of a certain velocity. So, for instance, a cannon-ball which is at rest possesses a certain amount of energy in the form of heat, which we measure in a similar way. We imagine the ball to consist of innumerable minute particles, called atoms or molecules, which vibrate or whirl around one another. We determine their masses and velocities, and from them the energy of each of these minute systems, and adding them all together, we get an idea of the total heat-energy contained in the ball, which is only seemingly at rest.
+There may be, besides crystals, other such individualized, material systems of beings, perhaps of gaseous constitution, or composed of substance still more tenuous. 
 
-In this purely theoretical estimate this energy may then be calculated by multiplying half of the total mass—that is half of the sum of all the small masses—with the square of a velocity which is determined from the velocities of the separate particles. In like manner we may conceive of human energy being measured by half the human mass multiplied with the square of the velocity which we are not yet able to compute. But our deficiency in this knowledge will not vitiate the truth of the deductions I shall draw, which rest on the firm basis that the same laws of mass and force govern throughout nature. 
+In view of this probability, we cannot apodictically deny the existence of organized beings on a planet merely because the conditions on the same are unsuitable for the existence of life as we conceive it.
 
-Man, however, is not an ordinary mass, consisting of spinning atoms and molecules, and containing merely heat-energy. He is a mass possessed of certain higher qualities by reason of the creative principle of life with which he is endowed. His mass, as the water in an ocean wave, is being continuously exchanged, new taking the place of the old. Not only this, but he grows propagates, and dies, thus altering his mass independently, both in bulk and density. 
+We cannot even, with positive assurance, assert that some of them might not be present here, in this our world, in the very midst of us, for their constitution and life-manifestation may be such that we are unable to perceive them. 
 
-What is most wonderful of all, he is capable of increasing or diminishing his velocity of movement by the mysterious power he possesses by appropriating more or less energy from other substance, and turning it into motive energy. But in any given moment we may ignore these slow changes and assume that human energy is measured by half the product of man's mass with the square of a certain hypothetical velocity. However we may compute this velocity, and whatever we may take as the standard of its measure, we must, in harmony with this conception, come to the conclusion that the great problem of science is, and always will be, to increase the energy thus defined. Many years ago, stimulated by the perusal of that deeply interesting work, Draper's "History of the Intellectual Development of Europe," depicting so vividly human movement, I recognized that to solve this eternal problem must ever be the chief task of the man of science. Some results of my own efforts to this end I shall endeavor briefly to describe here. 
+The production of artificial food as a means for causing an increase of the human mass naturally suggests itself, but a direct attempt of this kind to provide nourishment does not appear to me rational, at least not for the present. 
 
-DIAGRAM a. THE THREE WAYS OF INCREASING HUMAN ENERGY. 
-	
-Let, then, in diagram a, M represent the mass of man. This mass is impelled in one direction by a force f, which is resisted by another partly frictional and partly negative force R, acting in a direction exactly opposite, and retarding the movement of the mass. Such an antagonistic force is present in every movement and must be taken into consideration. The difference between these two forces is the effective force which imparts a velocity V to the mass M in the direction of the arrow on the line representing the force f. In accordance with the preceding, the human energy will then be given by the product ½ MV2 = ½ MV x V, in which M is the total mass of man in the ordinary interpretation of the term "mass," and V is a certain hypothetical velocity, which, in the present state of science, we are unable exactly to define and determine. To increase the human energy is, therefore, equivalent to increasing this product, and there are, as will readily be seen, only three ways possible to attain this result, which are illustrated in the above diagram. 
+Whether we could thrive on such food is very doubtful. We are the result of ages of continuous adaptation, and we cannot radically change without unforeseen and, in all probability, disastrous consequences. So uncertain an experiment should not be tried. 
 
-The first way shown in the top figure, is to increase the mass (as indicated by the dotted circle), leaving the two opposing forces the same. The second way is to reduce the retarding force R to a smaller value r, leaving the mass and the impelling force the same, as diagrammatically shown in the middle figure. 
+By far the best way to meet the ravages of the evil, would be to find ways of increasing the productivity of the soil. 
 
-The third way, which is illustrated in the last figure, is to increase the impelling force f to a higher value F, while the mass and the retarding force R remain unaltered. Evidently fixed limits exist as regards increase of mass and reduction of retarding force, but the impelling force can be increased indefinitely. Each of these three possible solutions presents a different aspect of the main problem of increasing human energy, which is thus divided into three distinct problems, to be successively considered. 
+For this, the preservation of forests is extremely important. 
+
+I strongly advocate water-power for electrical transmission. This will prevent the need to burn wood, helping forest preservation.
+
+But there are limits in the improvement to be effected in this and similar ways. 
+
+To increase materially the productivity of the soil, it must be more effectively fertilized by artificial means. 
+
+The question of food-production resolves itself, then, into the question how best to fertilize the soil. 
+
+What it is that made the soil is still a mystery. 
+
+To explain its origin is probably equivalent to explaining the origin of life itself. 
+
+The rocks <!-- , disintegrated by moisture and heat and wind and weather, --> were in themselves not capable of maintaining life. 
+
+Some unexplained <!-- condition arose, and some --> new principle came into effect which allowed the first layer capable of sustaining low organisms, like mosses, to be formed. 
+
+These, by their life and death, added more of the life sustaining quality to the soil. Higher organisms could then subsist, and so on and on, until at last highly developed plant and animal life could flourish. 
+
+But though the theories are, even now, not in agreement as to how fertilization is effected, it is a fact, only too well ascertained, that the soil cannot indefinitely sustain life, and some way must be found to supply it with the substances which have been abstracted from it by the plants. 
+
+The chief and most valuable among these substances are compounds of nitrogen. The cheap production of these is the key. 
+
+<!--  for the solution of the all-important food problem. --> 
+
+Our atmosphere has an inexhaustible amount of nitrogen. Mankind could have incalculable benefit if we could oxidize it and produce these nitrogen compounds. 
+
+Long ago this idea took a powerful hold on the imagination of scientific men, but an efficient means for accomplishing this result could not be devised. 
+
+The problem was rendered extremely difficult by the extraordinary inertness of the nitrogen, which refuses to combine even with oxygen. 
+
+But here electricity helps. The dormant affinities of the element are awakened by an electric current of the proper quality.
+
+A lump of coal which has been in contact with oxygen for centuries without burning will combine with it when once ignited. Likewise, nitrogen, excited by electricity, will burn. 
+
+I did not succeed, however, in producing electrical discharges exciting very effectively the atmospheric nitrogen until a comparatively recent date. 
+
+Although I showed, in May, 1891, in a scientific lecture, a novel form of discharge or electrical flame named "St. Elmo's hotfire," which, besides being capable of generating ozone in abundance, also possessed, as I pointed out on that occasion, distinctly the quality of exciting chemical affinities. 
+
+This discharge or flame was then only three or four inches long, its chemical action was likewise very feeble, and consequently the process of oxidation of nitrogen was wasteful. How to intensify this action was the question. 
+
+Evidently electric currents of a peculiar kind had to be produced in order to render the process of nitrogen combustion more efficient. 
+
+The first advance was made in ascertaining that the chemical activity of the discharge was very considerably increased by using currents of extremely high frequency or rate of vibration. 
+
+This was an important improvement, but practical considerations soon set a definite limit to the progress in this direction. 
+
+Next, the effects of the electrical pressure of the current impulses, of their wave-form and other characteristic features, were investigated. 
+
+Then the influence of the atmospheric pressure and temperature and of the presence of water and other bodies was studied, and thus the best conditions for causing the most intense chemical action of the discharge and securing the highest efficiency of the process were gradually ascertained. 
+
+Naturally, the improvements were not quick in coming; still, little by little, I advanced. The flame grew larger and larger, and its oxidizing action grew more intense. 
+
+From an insignificant brush-discharge a few inches long it developed into a marvelous electrical phenomenon, a roaring blaze, devouring the nitrogen of the atmosphere and measuring sixty or seventy feet across. 
+
+Thus slowly, almost imperceptibly, possibility became accomplishment. All is not yet done, by any means, but to what a degree my efforts have been rewarded an idea may be gained from an inspection of Fig. 1 (p. 176), which, with its title, is self explanatory. 
+
+The flame-like discharge visible is produced by the intense electrical oscillations which pass through the coil shown, and violently agitate the electrified molecules of the air. 
+
+By this means a strong affinity is created between the two normally indifferent constituents of the atmosphere, and they combine readily, even if no further provision is made for intensifying the chemical action of the discharge. 
+
+In the manufacture of nitrogen compounds by this method, of course, every possible means bearing upon the intensity of this action and the efficiency of the process will be taken advantage of, and, besides, special arrangements will be provided for the fixation of the compounds formed, as they are generally unstable, the nitrogen becoming again inert after a little lapse of time. Steam is a simple and effective means for fixing permanently the compounds.
+
+The result illustrated makes it practicable to oxidize the atmospheric nitrogen in unlimited quantities, merely by the use of cheap mechanical power and simple electrical apparatus. 
+
+In this manner, many compounds of nitrogen may be manufactured all over the world, at a small cost, and in any desired amount. 
+
+Through these compounds the soil can be fertilized and its productiveness indefinitely increased. 
+
+An abundance of cheap and healthful food, not artificial, but such as we are accustomed to, may thus be obtained. This new and inexhaustible source of food-supply will be of incalculable benefit to mankind, for it will enormously contribute to the increase of the human mass, and thus add immensely to human energy. Soon, I hope, the world will see the beginning of an industry which, in time to come, will, I believe, be in importance next to that if iron. 
+

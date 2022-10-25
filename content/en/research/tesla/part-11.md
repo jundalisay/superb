@@ -1,3 +1,13 @@
+---
+title:  "First Efforts To Produce The Self-acting Engine"
+heading: "Part 8"
+author: Nikola Tesla
+image:  "/covers/energy.jpg"
+description: "The windmill, the solar engine, the engine driven by terrestrial heat, had their limitations in the amount of power obtainable"
+---
+
+
+
 "WIRELESS" TELEGRAPHY—THE SECRET OF TUNING—ERRORS IN THE HERTZIAN INVESTIGATIONS—A RECEIVER OF WONDERFUL SENSITIVENESS.
 
 As the first valuable result of my experiments in this latter line a system of telegraphy without wires resulted, which I described in two scientific lectures in February and March, 1893. It is mechanically illustrated in diagram c, the upper part of which shows the electrical arrangement as I described it then, while the lower part illustrates its mechanical analogue. The system is extremely simple in principle. Imagine two tuning-forks F, F1, one at the sending- and the other at the receiving-station respectively, each having attached to its lower prong a minute piston p, fitting in a cylinder. Both the cylinders communicate with a large reservoir R, with elastic walls, which is supposed to be closed and filled with a light and incompressible fluid. By striking repeatedly one of the prongs of the tuning-fork F, the small piston p below would be vibrated, and its vibrations, transmitted through the fluid, would reach the distant fork F1, which is "tuned" to the fork F, or, stated otherwise, of exactly the same note as the latter. The fork F1 would now be set vibrating, and its vibration would be intensified by the continued action of the distant fork F until its upper prong, swinging far out, would make an electrical connection with a stationary contact c<i>, starting in this manner some electrical or other appliances which may be used for recording the signals. In this simple way messages could be exchanged between the two stations, a similar contact c' being provided for this purpose, close to the upper prong of the fork F, so that the apparatus at each station could be employed in turn as receiver and transmitter. </i>

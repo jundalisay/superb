@@ -7,7 +7,7 @@ date: 2021-09-10
 ---
 
 
-## SEC. 68. Review of IPP Contracts
+## Section 68. Review of IPP Contracts
 
 This creates an inter-agency committee chaired by:
 - the Secretary of Finance
@@ -21,14 +21,14 @@ In cases where such contracts are grossly disadvantageous, or onerous to the Gov
 PSALM shall diligently seek to reduce stranded costs, if any.
 
 
-## SEC. 69. Renegotiation of Power Purchase and Energy Conversion Agreements between Government Entities
+## Section 69. Renegotiation of Power Purchase and Energy Conversion Agreements between Government Entities
 
 Within 3 months from the effectivity of this Act, all power purchase and energy conversion agreements between PNOC-EDC and NAPOCOR, including but not limited to the Palimpinon, Tongonan and Mt. Apo Geothermal complexes, shall be reviewed by the ERC in order to remove any hidden costs or extraordinary mark-ups in the cost of power or steam above their true costs. 
 
 All amended contracts shall be submitted to the Joint Congressional Power Commission for approval. The ERC shall ensure that all savings realized from the reduction of said mark-ups shall be passed on to all end-users.
 
 
-## SEC. 70. Missionary Electrification
+## Section 70. Missionary Electrification
 
 NAPOCOR shall remain to perform the missionary electrification through the Small Power Utilities Group (SPUG). 
 
@@ -38,12 +38,12 @@ It shall be responsible for providing power in areas not connected to the grid, 
   - This is to be collected from all electricity end-users
 
 
-## SEC. 71. Electric Power Crisis Provision
+## Section 71. Electric Power Crisis Provision
 
 Congress may authorize, through a joint resolution, the establishment of additional generating capacity.
 
 
-## SEC. 72. Mandated Rate Reduction
+## Section 72. Mandated Rate Reduction
 
 Upon the effectivity of this Act, residential end-users shall be granted a rate reduction from NAPOCOR rates of P0.30/kWh.
 
@@ -68,7 +68,7 @@ financial effect on distribution utility.
 
 ## CHAPTER 9: FINAL PROVISIONS
 
-## SEC. 75. Statutory Construction
+## Section 75. Statutory Construction
 
 <!-- This Act shall, unless the context indicates otherwise, be construed in favor of the establishment, promotion, preservation of competition and people empowerment so that the widest participation of the people, whether directly or indirectly, is ensured.  -->
 
@@ -78,7 +78,7 @@ contractors in addition to subsisting rights granted by the NAPOCOR or the Phili
 contracts.
 
 
-## SEC. 76. Education and Protection of End Users
+## Section 76. Education and Protection of End Users
 
 End-users shall be educated about the implementation of retail access and its impact on end-users and on the proper use of electric power. 
 
@@ -88,11 +88,25 @@ The DOE, in coordination with the NAPOCOR, NEA, ERC and the Office of Press Secr
 Information Agency (OPS-PIA), shall undertake an information campaign to educate the public on the
 restructuring of the electric power industry and privatization of NAPOCOR.
 
-SEC. 77. Implementing Rules and Regulations. – The DOE shall, in consultation with relevant government agencies, the electric power industry participants, non-government organization and end-users, promulgate the Implementing Rules and Regulation (IRR) of the Act within six (6) months from the effectivity of this Act, subject to the approval by the Power Commission.
 
-SEC. 78. Injunction and Restraining Order. – The implementation of the provisions of the Act shall not be restrained or enjoined except by an order issued by the Supreme Court of the Philippines.
+## Section 77. Implementing Rules and Regulations
 
-SEC. 79. Separability Clause – If for any reason, any provision of this act is declared unconstitutional or invalid, the other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
+The DOE shall promulgate the Implementing Rules and Regulation (IRR) of the Act within 6 months from the effectivity of this Act. This is:
+- subject to the approval by the Power Commission
+- in consultation with:
+  - relevant government agencies
+  - electric power industry participants
+  - NGOs
+  - end-users
+
+
+## Section 78. Injunction and Restraining Order
+
+The implementation of the provisions of the Act shall not be restrained or enjoined except by an order issued by the Supreme Court of the Philippines.
+
+<!-- ## Section 79. Separability Clause
+
+If for any reason, any provision of this act is declared unconstitutional or invalid, the other parts or provisions hereof which are not affected thereby shall continue to be in full force and effect.
 
 SEC. 80. Applicability and Repealing Clause – The applicability provisions of Commonwealth Act No. 146, as amended, otherwise known as the “Public Service Act”; Republic Act 6395, as amended, revising the charter of NAPOCOR; Presidential Decree 269, as amended, referred to as the National Electrification Decree; Republic Act 7638, otherwise known as the “Department of Energy Act of 1992”; Executive Order
 172, as amended, creating the ERB; Republic Act 7832 otherwise known as the “Anti-Electricity and Electric Transmission Lines / Materials Pilferage Act of 1994”, shall continue to have full force and effect except insofar as they are inconsistent with this Act.
@@ -102,7 +116,7 @@ The provision with respect to electric power of Section 11(c) of Republic Act 79
 Presidential Decree No. 40 and all laws, decrees, rules and regulations, or portion thereof,
 inconsistent with this Act are hereby repealed or modified accordingly.
 
-## SEC. 81. Effectivity Clause
+## Section 81. Effectivity Clause
 
 This Act shall take effect on the fifteenth day following its publication in at least two (2) national paper of general circulation.
 
@@ -123,4 +137,4 @@ Secretary General
 House of Representatives
 Approved: JUN 08 2001
 GLORIA MACAPAGAL – ARROYO
-President of the Philippines
+President of the Philippines -->

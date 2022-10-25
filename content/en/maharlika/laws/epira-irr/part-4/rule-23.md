@@ -9,7 +9,7 @@ date: 2021-09-30
 
 Section 1. Section 47 of EPIRA
 
-PSALM shall privatize the assets transferred to it from NAPOCOR in accordance with these Rules. Within 180 days from the effectivity of the Act, PSALM shall submit a Privatization plan for the endorsement by the Power Commission
+PSALM shall privatize the assets transferred to it from NAPOCOR in accordance with these Rules. Within 180 days from the effectivity , PSALM shall submit a Privatization plan for the endorsement by the Power Commission
 and the approval of the President of the Philippines. 
 
 This plan shall cover the total Privatization of the transmission and generation assets, real estate,
@@ -28,16 +28,16 @@ Except for the assets of SPUG, NAPOCOR assets to be privatized shall include:
 - all real estate and the improvements made thereto
 - disposable assets such as facilities, properties, equipment and other assets not essential to the operation of NAPOCOR.
 
-To provide for an orderly disposition of these assets, NAPOCOR shall provide PSALM an inventory of all these assets within 120 days from the effectivity of the Act.
+To provide for an orderly disposition of these assets, NAPOCOR shall provide PSALM an inventory of all these assets within 120 days from the effectivity .
 
 ### NAPOCOR Transmission, Subtransmission, Interconnection and Ancillary Assets.
 
 The transmission, subtransmission, interconnection and ancillary
-assets of NAPOCOR, as defined in Section 8 of the Act and further detailed
+assets of NAPOCOR, as defined in Section 8  and further detailed
 in Rule 6 on Transmission Sector and Rule 22 on TRANSCO, shall be
 transferred by NAPOCOR directly to TRANSCO. For this purpose, NAPOCOR shall
 submit a list of these assets to PSALM and TRANSCO within one
-hundred and twenty (120) days from the effectivity of the Act.
+hundred and twenty (120) days from the effectivity .
 (c)
 IPP Contracts of NAPOCOR.
 Consistent with Section 8 of this Rule, IPP Contracts of NAPOCOR shall
@@ -86,7 +86,7 @@ resulting Generation Companies, ensure economic efficiency,
 encourage competition, foster reasonable electricity rates and create
 market appeal to optimize returns to the government from the sale
 and disposition of such assets in a manner consistent with the
-objectives of the Act. In the grouping of the generation assets and IPP
+objectives . In the grouping of the generation assets and IPP
 contracts of NAPOCOR, the following criteria shall be considered:
 (i) A sufficient scale of operation and balance sheet strength to
 promote the financial viability of the restructured units;
@@ -113,7 +113,7 @@ from among the Generation Companies that will be initially privatized.
 Their ownership shall be transferred to the PSALM and both shall
 continue to be operated by the NAPOCOR.
 Said complexes may be
-privatized not earlier than ten (10) years from the effectivity of the Act,
+privatized not earlier than ten (10) years from the effectivity ,
 and, except for Agus III, shall not be subject to BOT, Build-
 Rehabilitate-Operate-Transfer (BROT) and other variations thereof
 pursuant to Republic Act. No. 6957 (BOT Law), as amended by
@@ -132,13 +132,13 @@ Palinpinon, and Mt. Apo.
 (h) The ownership of the Caliraya-Botokan-Kalayaan (CBK) pump storage
 complex shall be transferred to PSALM and operated by NAPOCOR on behalf
 of PSALM for a period of ten (10) years.
-(i) Not later than three (3) years from the effectivity of the Act, and in no
+(i) Not later than three (3) years from the effectivity , and in no
 case later than the initial implementation of Open Access, at least
 seventy percent (70%) of the total capacity of generation assets of NAPOCOR
 and of the total capacity of the power plants under contract with NAPOCOR
 located in Luzon and Visayas shall have been privatized: Provided,
 That any unsold capacity shall be privatized not later than eight (8)
-years from the effectivity of the Act;
+years from the effectivity ;
 (j) Except as otherwise provided in these Rules, all appropriate existing
 authorizations, licenses and permits issued by the National
 Government, including its departments, bureaus and agencies, and
@@ -163,14 +163,14 @@ Structure, sequence, timing and terms of asset disposition;
 Employee issues;
 Management of debt obligations;
 Management of IPP obligations, including appointment of IPP
-Administrators in accordance with Section 51(c) of the Act;
+Administrators in accordance with Section 51(c) ;
 Options for the sale of other assets; and
 Overall timetable and progress milestones.
 
 Section 6.
 Privatization of Hydroelectric Generation Plants.
 
-(a) Consistent with Section 47(e) of the Act and Section 4(f) of this Rule,
+(a) Consistent with Section 47(e)  and Section 4(f) of this Rule,
 the Privatization of hydro facilities of NAPOCOR shall cover the power
 component including assignable long-term water rights agreements
 for the use of water, which shall be passed onto and respected by the
@@ -183,7 +183,7 @@ agreements. NAPOCOR or PSALM may also impose additional conditions in
 the shareholding agreement with the winning bidders to ensure
 national security, including, but not limited to, the use of water
 during drought or calamity.
-(c) Consistent with Section 34(d) of the Act, the NAPOCOR shall continue to be
+(c) Consistent with Section 34(d) , the NAPOCOR shall continue to be
 responsible for watershed rehabilitation and management and shall
 be entitled to the environmental charge equivalent to one-fourth of
 one centavo per kilowatt-hour sales (P0.0025/kWh), which shall form
@@ -212,7 +212,7 @@ Privatization of IPP Contracts Assumed by PSALM.
 consideration buy out provisions, Government performance
 undertakings and possible bilateral renegotiations to minimize the
 liabilities of NAPOCOR and the National Government.
-(b) Consistent with Section 75 of the Act, with respect to IPP-related
+(b) Consistent with Section 75 , with respect to IPP-related
 contracts, nothing in these Rules shall be construed as:
 (c)
 (i) an implied waiver of any right, action or claim, against any

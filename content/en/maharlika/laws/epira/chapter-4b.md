@@ -7,7 +7,7 @@ date: 2021-09-21
 ---
 
 
-## SEC. 45. Cross Ownership, Market Power Abuse and Anti-Competitive Behavior
+## Section 45. Cross Ownership, Market Power Abuse and Anti-Competitive Behavior
 
 No participant in the electricity industry or any other person may engage in any anti-competitive behavior including, but
 not limited to, cross-subsidization, price or market manipulation, or other unfair trade practices detrimental
@@ -22,21 +22,19 @@ An “affiliate” means any person which, alone or together with any other pers
 To promote true market competition and prevent harmful monopoly and market power abuse, the
 ERC shall enforce the following safeguards:
 
-- (a) No company or related group can own, operate or control more than 30% of the installed generating capacity of a grid and/or twenty-five percent (25%) of the national installed generating capacity. “Related group” includes a person’s business interests,
-including its subsidiaries, affiliates, directors or officers or any of their relatives by
-consanguinity or affinity, legitimate or common law, within the fourth civil degree;
+- {{< s v="a" >}} No company or related group can own, operate or control more than 30% of the installed generating capacity of a grid and/or 25% of the national installed generating capacity. “Related group” includes a person’s business interests, including its subsidiaries, affiliates, directors or officers or any of their relatives by consanguinity or affinity, legitimate or common law, within the fourth civil degree;
 
-- b) Distribution utilities may enter into bilateral power supply contracts subject to review by the ERC: Provided, That such review shall only be required for distribution utilities whose markets have not reached household demand level. For the purpose of preventing market power abuse between associated firms engaged in generation and distribution, no distribution
-utility shall be allowed to source from bilateral power supply contracts more than fifty percent
-(50%) of its total demand from an associated firm engaged in generation but such limitation,
-however, shall not prejudice contracts entered into prior to the effectivity of this Act. An
-associated firm with respect to another entity refers to any person which, alone or together
-with any other person, directly or indirectly, through one or more intermediaries, controls, is
-controlled by, or is under common control with, such entity; and
+- {{< s v="b" >}} Distribution utilities may enter into bilateral power supply contracts subject to review by the ERC: Provided, That such review shall only be required for distribution utilities whose markets have not reached household demand level. For the purpose of preventing market power abuse between associated firms engaged in generation and distribution, no distribution utility shall be allowed to source from bilateral power supply contracts more than 50% of its total demand from an associated firm engaged in generation but such limitation, however, shall not prejudice contracts entered into prior to the effectivity of this Act. An associated firm with respect to another entity refers to any person which, alone or together with any other person, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with, such entity
 
-- c) For the first 5 years from the establishment of the wholesale electricity spot market, no distribution utility shall source more than 90% of its total demand from bilateral power supply contracts.
+- {{< s v="c" >}} For the first 5 years from the establishment of the wholesale electricity spot market, no distribution utility shall source more than 90% of its total demand from bilateral power supply contracts.
 
-For purposes of this Section, the grid basis shall consist of 3 separate grids, namely Luzon, Visayas and Mindanao. The ERC shall have the authority to modify or amend this definition of a grid when two or more of the three separate grids become sufficiently interconnected to constitute a single grid or as conditions may otherwise permit.Exceptions from these limitations shall be allowed for isolated grids that are not connected to the high voltage transmission system. Except as otherwise provided for in this Section, any restriction on ownership and/or control between or within sectors of the electricity industry may be imposed by ERC only insofar as the enforcement of the provisions of this Section is concerned.
+The grid basis shall consist of 3 separate grids, namely Luzon, Visayas and Mindanao. 
+
+The ERC shall have the authority to modify or amend this definition of a grid when two or more of the three separate grids become sufficiently interconnected to constitute a single grid or as conditions may otherwise permit.
+
+Exceptions from these limitations shall be allowed for isolated grids that are not connected to the high voltage transmission system. 
+
+Except as otherwise provided for in this Section, any restriction on ownership and/or control between or within sectors of the electricity industry may be imposed by ERC only insofar as the enforcement of the provisions of this Section is concerned.
 
 The ERC shall, within 1 year from the effectivity of this Act., promulgate rules and regulations to ensure and promote competition, encourage market development and customer choice and discourage/penalize abuse of market power, cartelization and any anti-competitive or discriminatory behavior, in order to further the intent of this Act and protect the public interest. Such rules and regulations shall define the following:
 
@@ -52,7 +50,7 @@ The ERC shall, within one (1) year from the effectivity of this Act, promulgate 
 
 
 
-## SEC. 46. Fines and Penalties
+## Section 46. Fines and Penalties
 
 The fines and penalties that shall be imposed by the ERC for any violation of or non-compliance with this Act or the IRR shall range from a minimum of P50,000 to a maximum of 50m pesos.
 
@@ -69,9 +67,7 @@ If the offender is an alien, he may, in addition to the penalties prescribed, be
 
 Any case which involves question of fact shall be appealable to the Court of Appeals and those which involve question of law shall be directly appealable to the Supreme Court.The administrative sanction that may be imposed by the ERC shall be without prejudice to the filing of a criminal action, if warranted.
 
-To ensure compliance with this Act, the penalty of prision correccional or a fine ranging from P5,000 to 5 million pesos or both, at the discretion of the court, shall be imposed on any person, including but not limited to the president, member of the Board, Chief Executive Officer or Chief Operating Officer of the corporation, partnership, or any other entity
-involved, found guilty of violating or refusing to comply with any provision of this Act or its IRR, other
-than those provided herein.
+To ensure compliance with this Act, the penalty of prision correccional or a fine ranging from P5,000 to 5 million pesos or both, at the discretion of the court, shall be imposed on any person, including but not limited to the president, member of the Board, Chief Executive Officer or Chief Operating Officer of the corporation, partnership, or any other entity involved, found guilty of violating or refusing to comply with any provision of this Act or its IRR, other than those provided herein.
 
 Any party to an administrative proceeding may, at any time, make an offer to the ERC, conditionally or otherwise, for a consented decree, voluntary compliance or desistance and other settlement of the case. 
 

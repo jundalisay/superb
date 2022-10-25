@@ -2,20 +2,20 @@
 heading: "Chapter 5"
 title: "Final Provisions"
 description: "EVIDA Republic Act 9136"
-image: "/photos/physics/light.jpg"
+image: "/photos/objects/leaf.jpg"
 date: 2021-09-30
 ---
 
 
 
-## SEC. 27. Establishment of Dedicated Ofﬁces
+## Section 27. Establishment of Dedicated Ofﬁces
 
 The DOE, DOTr, and DTI shall establish dedicated ofﬁces for the effective implementation of this Act. The organizational structure and stafﬁng complement shall be determined by the Secretaries of the DOE, DOTr, and DTI, in consultation with the Department of Budget and Management, and in accordance with existing civil service rules and regulations.
      
 The budget for these offices shall come from the current appropriations of each agency concerned. Thereafter, the funding for the dedicated ofﬁces shall be included in the annual General Appropriations Act.
 
 
-## SEC. 28. Penalties
+## Section 28. Penalties
 
 A fine ranging from 50,000 - 500,000 pesos
 
@@ -31,14 +31,14 @@ expert foreign nationals to be employed under a form of
 
 
 
-## SEC. 33. Effectivity
+## Section 33. Effectivity
 
 This Act shall take effect 15 days following its complete publication in the Official Gazette or in a newspaper of general circulation
 
 penalties provided under existing laws, rules, and regulations prescribed by other concerned agencies. The DOE, DOTr, and          . DPWH shall, in coordination with the DTI and the DILG, issue appropriate rules and regulations on the imposition of these fines and penalties.
 
 
-## SEC. 29. Congressional Oversight
+## Section 29. Congressional Oversight
 
 The Joint Congressional Energy Commission (JCEC), created under Republic Act No. 9136, as amended, shall exercise oversight
 powers over the implementation of this Act. The DOE, DOTr, DTI, and other relevant NGAs shall submit the CREVI and 
@@ -46,7 +46,7 @@ a report on the implementation of this Act to the JCEC not later than the 1St da
 
 This Act consolidates Senate Bill 1382
 
-## SEC. 30. Implementing Rules and Regulations (IRR) 
+## Section 30. Implementing Rules and Regulations (IRR) 
 
 
  House Bill No. 10213 was passed by the Senate of the
@@ -60,7 +60,7 @@ Failure of the relevant government agencies to promulgate the IRR within the spe
 Should the IRR contain provisions that are contrary to this Act, the heads of the government agencies responsible for such provision, when done in bad faith or with gross negligence, shall be held administratively liable.              
 
                                                                                           without the signature of the Presi -
-## SEC. 31. Separability Clause
+## Section 31. Separability Clause
 
 If any portion or provision of this Act is declared unconstitutional, the remainder shall remain in force. 
 
@@ -68,6 +68,6 @@ If any portion or provision of this Act is declared unconstitutional, the remain
                            Section 27 (1) of the Constitution
 Act or any provision not affected thereby shall remain in force and effect. -->
 
-## SEC. 32. Repealing Clause
+## Section 32. Repealing Clause
 
 Any law, presidential decree or issuance, executive order, letter of instruction, rule or regulation inconsistent with the provisions of this Act is repealed or modified accordingly.

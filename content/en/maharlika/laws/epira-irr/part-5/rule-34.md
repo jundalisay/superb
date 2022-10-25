@@ -1,35 +1,47 @@
-RULE 34.
+---
+heading: "Rules 34"
+title: "Education And Protection Of End-users"
+description: "EPIRA Republic Act 9136"
+image: "/photos/physics/light.jpg"
+date: 2021-09-30
+---
 
-Section 1. EDUCATION AND PROTECTION OF END-USERS
 
-Guiding Principle.
+## Section 1. Guiding Principle
 
-Consistent with the declared policy that the State shall protect the public
+<!-- Consistent with the declared policy that the State shall protect the public
 interest as it is affected by the rates and services of electric utilities and
-other providers of electric power, and pursuant to Section 76 of the Act, the
-public shall be educated on the Restructuring of the electric power industry
-and Privatization of NAPOCOR.
+other providers of electric power, and pursuant to -->
 
-Section 2. Consumer Education.
+As per Section 76, the public shall be educated on the Restructuring of the electric power industry and Privatization of NAPOCOR.
 
-The DOE shall undertake, in coordination with the ERC, NAPOCOR, NEA and the
-Department of Education (DepEd), DTI, Office of the Press Secretary (OPS) –
-Philippine Information Agency (PIA), the academe, and the non-government
-organizations and consumer groups or associations, continuing information,
-education and communication program for consumers. This shall include,
-but not be limited to, the following:
+
+## Section 2. Consumer Education
+
+The DOE shall undertake continuing information, education and communication program for consumers. This is to be in coordination with the:
+- ERC
+- NAPOCOR
+- NEA
+- DepEd
+- DTI
+- Office of the Press Secretary (OPS)
+- Philippine Information Agency (PIA)
+- the academe
+- NGOs
+- consumer groups or associations
+
+
 (a) Industry Restructuring and NAPOCOR Privatization;
-(b) Implementation of Retail Competition and Open Access and their
-impact on End-users and on the proper use of electric power. It shall
-include the existence of competitive electricity suppliers, choice of
+(b) Implementation of Retail Competition and Open Access and their impact on End-users and on the proper use of electric power. It shall include the existence of competitive electricity suppliers, choice of
 competitive electricity services, regulated transmission and
 distribution services, systems reliability, aggregation, market,
 itemized billing, Stranded Cost, uniform disclosure requirements, low
 income bill payment, energy conservation and safety measures,
 among other topics; and
 (c) Implementation of these Rules.
-Section 3.
-Consumer Protection.
+
+## Section 3. Consumer Protection
+
 The ERC shall ensure consumer choice and promote consumer interests. It
 shall issue the appropriate guidelines and mechanisms to handle the
 following:
@@ -46,14 +58,13 @@ circulation.
 
 RULE 35. FINES AND PENALTIES
 
-Pursuant to Section  of EPIRA, the fines and penalties are:
+As per EPIRA, the fines and penalties are:
 
-(a) The fines and penalties that shall be imposed by the ERC for any violation of or non-compliance with the Act or these Rules shall range
-from a minimum of Fifty Thousand Pesos (P50,000.00) to a maximum of Fifty Million Pesos (P50,000,000.00).
-(b) Any Person who is found guilty of any of the prohibited acts pursuant to Section 45 of the Act shall suffer the penalty of prision mayor and a
+{{< s v="a" >}} The fines and penalties that shall be imposed by the ERC for any violation of or non-compliance with the Act or these Rules shall range from a minimum of Fifty Thousand Pesos (P50,000.00) to a maximum of Fifty Million Pesos (P50,000,000.00).
+(b) Any Person who is found guilty of any of the prohibited acts pursuant to Section 45  shall suffer the penalty of prision mayor and a
 fine ranging from Ten Thousand Pesos (P10,000.00) to Ten Million Pesos (P10,000,000.00), or both, at the discretion of the court.
 (c) The members of the Board of Directors of the juridical companies participating in or covered in the Generation Companies, the
-Distribution Utilities, the TRANSCO or its Buyer or Concessionaire or Supplier who violate the provisions of the Act may be fined by an
+DUs, the TRANSCO or its Buyer or Concessionaire or Supplier who violate the provisions  may be fined by an
 amount not exceeding double the amount of damages caused by the offender or by imprisonment from one (1) year or two (2) years or both
 at the discretion of the court. This Rule shall apply to the members of the Board who knowingly or by neglect allows the commission or
 omission under the law.
@@ -67,7 +78,7 @@ directly appealable to the Supreme Court.
 (h) To ensure compliance with the Act, the penalty of prision correccional or a fine ranging from Five Thousand Pesos (P5,000.00) to Five Million
 Pesos (P5,000,000.00), or both, at the discretion of the court, shall be imposed on any Person, including, but not limited to, the president,
 member of the board, chief executive officer or chief operating officer of the corporation, partnership, or any other entity involved, found
-Page 98 of 100guilty of violating or refusing to comply with any provision of the Act or these Rules, other than those provided herein. [Sec. 46 Par. 8]
+Page 98 of 100guilty of violating or refusing to comply with any provision  or these Rules, other than those provided herein. [Sec. 46 Par. 8]
 (i) Any party to an administrative proceeding may, at any time, make an
 offer to the ERC, conditionally or otherwise, for a consented decree,
 voluntary compliance or desistance and other settlement of the case.
@@ -79,9 +90,9 @@ violation of the laws, rules, regulations, orders and resolutions of the
 ERC, nor as a waiver to file any warranted criminal actions.
 (j) In addition, Congress may, upon recommendation of the DOE and/or
 ERC, revoke such franchise or privilege granted to the party who
-violated the provisions of the Act.
+violated the provisions .
 
-PART VI - FINAL PROVISIONS
+<!-- PART VI - FINAL PROVISIONS
 
 RULE 36. SEPARABILITY CLAUSE
 
@@ -126,4 +137,4 @@ SEN. TERESA AQUINO ORETA
 Member REP. FAYSAH MANIRI-RACMAN DUMARPA
 (SGD)
 SEN. SERGIO R. OSMEÑA 3rd
-REP. CONSTANTINO G. JARAULA
+REP. CONSTANTINO G. JARAULA -->

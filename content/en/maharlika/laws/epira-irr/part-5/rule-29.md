@@ -1,21 +1,18 @@
 ---
 heading: "Rule 29"
-title: "BENEFITS TO HOST COMMUNITIES"
+title: "Benefits To Host Communities"
 description: "EPIRA Republic Act 9136"
 image: "/photos/physics/light.jpg"
 date: 2021-09-30
 ---
 
 
-
-Pursuant to Section 66 of the Act, the obligations of Generation Companies and energy resource developers to communities hosting the Generation Facilities and/or energy resource development projects as defined under Chapter 2, Section 289 to 294 of the Republic Act No. 7160 (Local Government Code) and Section 5 (i) of Republic Act No.7638 (DOE Law) and their implementing rules and regulations shall continue: Provided, That the obligations mandated under Chapter II, Section 291 of Local Government
-Code, shall apply to privately-owned corporations or entities utilizing the
-national wealth of the locality.
+As per Section 66, the obligations of Generation Companies and energy resource developers to communities hosting the Generation Facilities and/or energy resource development projects as defined under Chapter 2, Section 289 to 294 of the Republic Act No. 7160 (Local Government Code) and Section 5 (i) of Republic Act No.7638 (DOE Law) and their implementing rules and regulations shall continue as long as the obligations mandated under Chapter 2, Section 291 of Local Government Code, shall apply to privately-owned corporations or entities utilizing the national wealth of the locality.
 
 
-## A. RULES FOR THE BENEFITS TO HOST COMMUNITIES PURSUANT TO SECTION 5(i) OF REPUBLIC ACT 7638
+## A. Rules For The Benefits To Host Communities Pursuant To Section 5(i) Of Republic Act 7638
 
-Section 1. Scope of Application.
+Section 1. Scope of Application
 
 This Rule shall apply to Generation Facilities and/or energy resource development projects located in all barangays, municipalities, cities, provinces and regions.
 
@@ -30,26 +27,25 @@ privatized pursuant to the Act;
 (d) Facilities under BOT arrangement and other variants with NAPOCOR (NAPOCOR
 IPPs), NAPOCOR-SPUG, NIA, PNOC-EDC and other government agencies;
 (e) Facilities under BOT arrangement and other variant with Distribution
-Utilities (IPPs of Distribution Utilities);
+Utilities (IPPs of DUs);
 (f) Facilities owned or operated by a Distribution Utility;
 (g) Self-Generation Facilities;
 (h) Facilities operating in EZs; and
-(i) Integrated energy resource development and Generation Facilities
-such as hydro, geothermal and coal.
-Section 3. Beneficiaries.
-Direct benefits shall be provided to the host LGU, especially the community
-and people affected while equitable preferential benefits shall be provided to
-the host region. Host LGU or host region shall be understood as follows:
-Page 81 of 100(a) With respect to Generation Facilities, in the case of power barges, the
-host LGU or region is that where the power barge is moored; in all
-other cases, the host LGU or region is that where the Generation
-Facility is physically located. Generation Facilities shall not include
-transmission lines and substations.
+(i) Integrated energy resource development and Generation Facilities such as hydro, geothermal and coal.
+
+Section 3. Beneficiaries
+
+Direct benefits shall be provided to the host LGU, especially the community and people affected while equitable preferential benefits shall be provided to the host region. Host LGU or host region shall be understood as follows: (a) With respect to Generation Facilities, in the case of power barges, the host LGU or region is that where the power barge is moored; in all
+other cases, the host LGU or region is that where the Generation Facility is physically located. Generation Facilities shall not include transmission lines and substations.
+
 (b) With respect to energy resources:
+
 (i) Coal. The host LGU or region is that where the producing
 positive coal reserve is located, as delineated by detailed
 geophysical, geological and exploration surveys.
+
 (ii) Geothermal.
+
 The host LGU or region is that where the
 producing geothermal reservoir is located as delineated by
 geochemical, geophysical, and exploration surveys. “Producing
@@ -74,18 +70,15 @@ delineated by detailed geochemical, geophysical exploration
 surveys.
 
 Section 4. Nature of Benefits Provided under E.R. 1-94.
-(a)
-The Generation Company and/or energy resource developer shall set
+
+(a) The Generation Company and/or energy resource developer shall set
 aside one centavo per kilowatt-hour (P 0.01/kWh) of the total
 electricity sales as financial benefit of the host communities of such
 Generation Facility, where applicable.
-(i)
-For a Generation Facility and/or energy resource located in a
+- i) For a Generation Facility and/or energy resource located in a
 non-highly urbanized city, the P 0.01/kWh financial benefit
 shall be allocated as follows:
-(1)
-Fifty percent of one centavo per kilowatt-hour (P
-0.005/kWh) of the total electricity sales shall be set aside
+(1) 50% of 1 centavo per kilowatt-hour (P 0.005/kWh) of the total electricity sales shall be set aside
 as an electrification fund (EF) to be applied in the
 following radiating order:
 (a)
@@ -414,7 +407,7 @@ For NAPOCOR-IPPs, if applicable, to settle all obligations before
 issuance of COC/registration certificate by ERC.
 Page 87 of 100(ii) For NAPOCOR, if applicable, to settle all obligations before
 Privatization/sale and transfer of IPP contracts to PSALM.
-(iii) For IPPs of Distribution Utilities with an outstanding financial
+(iii) For IPPs of DUs with an outstanding financial
 obligation with the DOE pursuant to Department Circular No.
 2000-03-03 shall settle its account within one (1) year upon
 effectivity of these Rules.
