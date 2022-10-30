@@ -1,7 +1,6 @@
 ---
 heading: "Part 1"
 title: "The Delineation Of The Relation Between Religion And Philosophy"
-# subtitle: "A Decisive Discourse On "
 description: ""
 image: "/covers/averroes.jpg"
 ---

@@ -2,7 +2,7 @@
 heading: "Part 2k"
 title: "Question 5: The Day of Judgment"
 author: Averroes
-description: ""
+description: "The Day of Judgment is a thing in which all the religions are agreed. All the learned men have proved it by arguments."
 image: "/covers/averroes.jpg"
 ---
 
@@ -30,7 +30,11 @@ The ultimate purpose in the creation of man is still more evident in him, than i
 
 God has informed us of it in many a verses of the Quran. He says, “Did ye think that we had created you in sport; and that ye should not be brought again before us,”[157] and, “Doth man think, that he shall be left at full liberty, without control?”[158] and further on He says, “I have not created genii and men for any other end, but that they should serve me.”[159] That is the genius out of all creation which could know him. 
 
-Again, He says, informing us of the importance of knowing God, “What reason have I that I should not worship him who hath created me? for unto him shall ye return.”[160] Now it being clear that man has been created for a certain work, it is evident that the work should be of a particular kind. For we see that everything has been created for a certain work, which is found in it, and in none other; that[293] is, it is specialised in it. This being so, it is necessary that the real purpose of man’s creation be those deeds which are found in him, and in no other animal. These deeds pertain to his rational powers. As there are two portions of the rational powers,—practical and theoretical—it is evident that the first kind of thing is demanded of him. That is, that his faculties of knowledge and science should be found in their perfection. The deed by which soul acquires perfection in those two faculties are goodness and virtue, and those that retard it are evil and wicked. 
+Again, He says, informing us of the importance of knowing God, “What reason have I that I should not worship him who hath created me? for unto him shall ye return.”[160] Now it being clear that man has been created for a certain work, it is evident that the work should be of a particular kind. For we see that everything has been created for a certain work, which is found in it, and in none other; that[293] is, it is specialised in it. 
+
+This being so, it is necessary that the real purpose of man’s creation be those deeds which are found in him, and in no other animal. These deeds pertain to his rational powers. As there are two portions of the rational powers,—practical and theoretical—it is evident that the first kind of thing is demanded of him. That is, that his faculties of knowledge and science should be found in their perfection. 
+
+The deed by which soul acquires perfection in those two faculties are goodness and virtue, and those that retard it are evil and wicked. 
 
 And as these actions are most of them fixed by divine revelation, religions appeared to fix them. With that there also appears a knowledge of those qualities, exhorting the people towards them. They ordered men to act upon goodness, and shew evil. They taught them the quantity of the deeds which will be good for all the people, both in practice and in knowledge taken together. They also taught them the theoretical knowledge of things, which all the people should[294] know, such as the knowledge of God, angels, of higher creation, and of goodness. In this way they also taught them the quantity of the acts which would be necessary to make the souls excel in virtue. This is especially the case with our religion, Islam, for when compared with other religions, it is found that it is absolutely the best religion. Hence it was the last of divine dispensations.
 

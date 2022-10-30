@@ -8,7 +8,7 @@ description: "An immense amount of energy is locked up in limestone. Machines ca
 
 
 
-## MOTIVE POWER FROM TERRESTRIAL HEAT—ELECTRICITY FROM NATURAL SOURCES.
+## Motive Power From Terrestrial Heat
 
 Besides fuel, there is abundant material from which we might eventually derive power. 
 
@@ -42,7 +42,12 @@ Another way of getting motive power from the medium without consuming any materi
 
 The difficulties of sinking shafts and placing boilers at depths of, say, twelve thousand feet, corresponding to an increase in temperature of about 120 degrees C., are not insuperable, and we could certainly avail ourselves in this way of the internal heat of the globe. In fact, it would not be necessary to go to any depth at all in order to derive energy from the stored terrestrial heat. 
 
-The superficial layers of the earth and the air strata close to the same are at a temperature sufficiently high to evaporate some extremely volatile substances, which we might use in our boilers instead of water. There is no doubt that a vessel might be propelled on the ocean by an engine driven by such a volatile fluid, no other energy being used but the heat abstracted from the water. But the amount of power which could be obtained in this manner would be, without further provision, very small. 
+The superficial layers of the earth and the air strata close to the same are at a temperature sufficiently high to evaporate some extremely volatile substances, which we might use in our boilers instead of water. 
+
+A vessel might be propelled on the ocean by an engine driven by such a volatile fluid, no other energy being used but the heat abstracted from the water. But the amount of power which could be obtained in this manner would be, without further provision, very small. 
+
+
+## Electricity From Natural Sources
 
 Electricity produced by natural causes is another source of energy which might be rendered available. Lightning discharges involve great amounts of electrical energy, which we could utilize by transforming and storing it. Some years ago I made known a method of electrical transformation which renders the first part of this task easy, but the storing of the energy of lightning discharges will be difficult to accomplish. 
 
@@ -50,7 +55,9 @@ Electric currents circulate constantly through the earth, and that there exists 
 
 In recent experiments I have discovered two novel facts of importance in this connection. One of these facts is that an electric current is generated in a wire extending from the ground to a great height by the axial, and probably also by the translatory, movement of the earth. No appreciable current, however, will flow continuously in the wire unless the electricity is allowed to leak out into the air. 
 
-Its escape is greatly facilitated by providing at the elevated end of the wire a conducting terminal of great surface, with many sharp edges or points. We are thus enabled to get a continuous supply of electrical energy by merely supporting a wire at a height, but, unfortunately, the amount of electricity which can be so obtained is small. 
+Its escape is greatly facilitated by providing at the elevated end of the wire a conducting terminal of great surface, with many sharp edges or points. 
+
+We are thus enabled to get a continuous supply of electrical energy by merely supporting a wire at a height, but, unfortunately, the amount of electricity which can be so obtained is small. 
 
 The second fact which I have ascertained is that the upper air strata are permanently charged with electricity opposite to that of the earth. 
 
@@ -66,5 +73,3 @@ We may learn how to make such a disk rotate continuously and perform work by the
 To make the disk rotate by the force of gravity we have only to invent a screen against this force. By such a screen we could prevent this force from acting on one half of the disk, and the rotation of the latter would follow. At least, we cannot deny such a possibility until we know exactly the nature of the force of gravity. 
 
 Suppose that this force were due to a movement comparable to that of a stream of air passing from above toward the center of the earth. The effect of such a stream upon both halves of the disk would be equal, and the latter would not rotate ordinarily; but if one half should be guarded by a plate arresting the movement, then it would turn. 
-
-

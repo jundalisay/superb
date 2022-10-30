@@ -84,16 +84,27 @@ The Asharites have 2 kinds of methods:
 
 1. Three premises from which they derive the proof for the creation of the universe.
 
-This is the more famous of the two and upon which a[95] majority of them relies.
+This is the more famous of the 2 and upon which a[95] majority of them relies.
 
 
- 
+They are: 
 
-They are: (1) that essences cannot be separated from accidents, that is, they cannot be devoid of them; (2) that the accidents are created things; (3) that that which cannot be separated from a created thing is itself created, that is, that which cannot be severed from the created thing is itself created. 
+1. Essences cannot be separated from accidents, that is, they cannot be devoid of them
 
-Now, if by the first premise which says that the essences cannot be separated from the accidents, they mean the bodies which stand by themselves, then the premise is correct. But if by essence they mean the particle which cannot be divided, which they call Sole Essence, then there is doubt about it, which is not easy to solve. For the existence of an indivisible essence is not well established in itself, and about it there are many opposite and highly contradictory opinions, and it is not in the power of scholastic theology to bring truth out[96] of them. That is the business of philosophers who are very few in number.
+The essences cannot be separated from the accidents, they mean the bodies which stand by themselves, then the premise is correct. But if by essence they mean the particle which cannot be divided, which they call Sole Essence, then there is doubt about it, which is not easy to solve. For the existence of an indivisible essence is not well established in itself, and about it there are many opposite and highly contradictory opinions, and it is not in the power of scholastic theology to bring truth out[96] of them. That is the business of philosophers who are very few in number.
 
-The arguments which Asharites use are for the most part exhortative. For their famous argument on this is that they say that our first knowledge about a thing is, for instance, that an elephant is bigger than an ant, for it is accepted that the former has more particles in it than the latter. If it be so, then it is made up of particles and is not a compact whole in itself. So when the body is destroyed it changes into particles, and when composed it is composed of them. But this is wrong. For they have taken a divisible quantity as a continuous one, and then thought that that which is applicable to the divisible is also applicable to the continuous. This is true about numbers, that is, we say that a certain number is more than the other, by its containing more particles in it, that is, more units. But it cannot be true of a continuous quantity,[97] of which we say that it is bigger or greater. In this way everything may be enumerated without any reference to its bulk at all. And the science of mathematics becomes the science of number only. It is well-known that every bulk can be considered with regard to line, surface and volume. Moreover, a continuous quantity it is possible to cut in the middle and thus get two parts. But this is impossible in the units of number, nay, it is opposed to it. Then, again, the body and other particles of a continuous quantity are capable of being divided. But everything divisible is either divided into other divisible quantities, or into indivisible ones. If it is divided into indivisible ones then we have found particles which cannot be divided. And if it is divided into other divisible parts, then again the question arises whether these can be divided into divisible or indivisible parts. So if it can be divided a limitless number of times, there[98] would be limitless particles in a limited thing. But it is one of the primary principles of knowledge that particles in a limited thing are limited.
+2. The accidents are created things
+
+
+3. That which cannot be separated from a created thing is itself created, that is, that which cannot be severed from the created thing is itself created. 
+
+
+
+The arguments which Asharites use are for the most part exhortative. For their famous argument on this is that they say that our first knowledge about a thing is, for instance, that an elephant is bigger than an ant, for it is accepted that the former has more particles in it than the latter. 
+
+If it be so, then it is made up of particles and is not a compact whole in itself. So when the body is destroyed it changes into particles, and when composed it is composed of them. But this is wrong. For they have taken a divisible quantity as a continuous one, and then thought that that which is applicable to the divisible is also applicable to the continuous. This is true about numbers, that is, we say that a certain number is more than the other, by its containing more particles in it, that is, more units. But it cannot be true of a continuous quantity,[97] of which we say that it is bigger or greater. In this way everything may be enumerated without any reference to its bulk at all.
+
+The science of mathematics becomes the science of number only. It is well-known that every bulk can be considered with regard to line, surface and volume. Moreover, a continuous quantity it is possible to cut in the middle and thus get two parts. But this is impossible in the units of number, nay, it is opposed to it. Then, again, the body and other particles of a continuous quantity are capable of being divided. But everything divisible is either divided into other divisible quantities, or into indivisible ones. If it is divided into indivisible ones then we have found particles which cannot be divided. And if it is divided into other divisible parts, then again the question arises whether these can be divided into divisible or indivisible parts. So if it can be divided a limitless number of times, there[98] would be limitless particles in a limited thing. But it is one of the primary principles of knowledge that particles in a limited thing are limited.
 
 Among the obscure doubts which can be attributed to the Asharites is the question whether if an atom is brought into being, this is different from creation itself, for it is one of the accidents? 
 

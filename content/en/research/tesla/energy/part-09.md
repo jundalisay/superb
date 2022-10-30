@@ -7,7 +7,7 @@ description: "The windmill, the solar engine, the engine driven by terrestrial h
 ---
 
 
-The Mechanical Oscillator—work Of Dewar And Linde—liquid Air.
+## The Mechanical Oscillator
 
 <!-- Having recognized this truth, I began to devise means for carrying out my idea, and, after long thought,  -->
 
@@ -19,6 +19,9 @@ The commercial introduction in this country of the invention before referred to 
 
 This led me, as a next step, to the study of a type of engine generally designated as "turbine," which at first seemed to offer better chances for a realization of the idea. Soon I found, however, that the turbine, too, was unsuitable. But my conclusions showed that if an engine of a peculiar kind could be brought to a high degree of perfection, the plan I had conceived was realizable, and I resolved to proceed with the development of such an engine, the primary object of which was to secure the greatest economy of transformation of heat into mechanical energy. A characteristic feature of the engine was that the work-performing piston was not connected with anything else, but was perfectly free to vibrate at an enormous rate. The mechanical difficulties encountered in the construction of this engine were greater than I had anticipated, and I made slow progress. 
 
+
+## The Work Of Dewar And Linde
+
 This work was continued until early in 1892, when I went to London, where I saw Professor Dewar's admirable experiments with liquefied gases. Others had liquefied gases before, and notably Ozlewski and Pictet had performed creditable early experiments in this line, but there was such a vigor about the work of Dewar that even the old appeared new. His experiments showed, though in a way different from that I had imagined, that it was possible to reach a very low temperature by transforming heat into mechanical work, and I returned, deeply impressed with what I had seen, and more than ever convinced that my plan was practicable. 
 
 The work temporarily interrupted was taken up anew, and soon I had in a fair state of perfection the engine which I have named "the mechanical oscillator." In this machine I succeeded in doing away with all packings, valves, and lubrication, and in producing so rapid a vibration of the piston that shafts of tough steel, fastened to the same and vibrated longitudinally, were torn asunder. By combining this engine with a dynamo of special design I produced a highly efficient electrical generator, invaluable in measurements and determinations of physical quantities on account of the unvarying rate of oscillation obtainable by its means. 
@@ -29,12 +32,20 @@ In the process, as I had primarily conceived it, for the utilization of the ener
 
 I was just beginning work on the third element, which together with the first two would give a refrigerating machine of exceptional efficiency and simplicity, when a misfortune befell me in the burning of my laboratory, which crippled my labors and delayed me. Shortly afterward Dr. Carl Linde announced the liquefaction of air by a self-cooling process, demonstrating that it was practicable to proceed with the cooling until liquefaction of the air took place. This was the only experimental proof which I was still wanting that energy was obtainable from the medium in the manner contemplated by me. 
 
-The liquefaction of air by a self-cooling process was not, as popularly believed, an accidental discovery, but a scientific result which could not have been delayed much longer, and which, in all probability, could not have escaped Dewar. This fascinating advance, I believe, is largely due to the powerful work of this great Scotchman. Nevertheless, Linde's is an immortal achievement. The manufacture of liquid air has been carried on for four years in Germany, on a scale much larger than in any other country, and this strange product has been applied for a variety of purposes. Much was expected of it in the beginning, but so far it has been an industrial ignis fatuus. By the use of such machinery as I am perfecting, its cost will probably be greatly lessened, but even then its commercial success will be questionable. When, used as a refrigerant it is uneconomical, as its temperature is unnecessarily low. 
+
+## Liquid Air
+
+The liquefaction of air by a self-cooling process was not, as popularly believed, an accidental discovery. It was a scientific result which could not have been delayed much longer, and which, in all probability, could not have escaped Dewar. 
+
+This fascinating advance is largely due to his powerful work.  <!-- of this great Scotchman. --> 
+
+Nevertheless, Linde's is an immortal achievement. The manufacture of liquid air has been carried on for four years in Germany, on a scale much larger than in any other country, and this strange product has been applied for a variety of purposes. Much was expected of it in the beginning, but so far it has been an industrial ignis fatuus. By the use of such machinery as I am perfecting, its cost will probably be greatly lessened, but even then its commercial success will be questionable. When, used as a refrigerant it is uneconomical, as its temperature is unnecessarily low. 
 
 It is as expensive to maintain a body at a very low temperature as it is to keep it very hot; it takes coal to keep air cold. In oxygen manufacture it cannot yet compete with the electrolytic method. For use as an explosive it is unsuitable, because its low temperature again condemns it to a small efficiency, and for motive-power purposes its cost is still by far too high. 
 
 It is of interest to note, however, that in driving an engine by liquid air a certain amount of energy may be gained from the engine, or, stated otherwise, from the ambient medium which keeps the engine warm, each two hundred pounds of iron-casting of the latter contributing energy at the rate of about one effective horsepower during one hour. But this gain of the consumer is offset by an equal loss of the producer. 
 
 Much of this task on which I have labored so long remains to be done. A number of mechanical details are still to be perfected and some difficulties of a different nature to be mastered, and I cannot hope to produce a self-acting machine deriving energy from the ambient medium for a long time yet, even if all my expectations should materialize. Many circumstances have occurred which have retarded my work of late, but for several reasons the delay was beneficial. 
+
 One of these reasons was that I had ample time to consider what the ultimate possibilities of this development might be. I worked for a long time fully convinced that the practical realization of this method of obtaining energy from the sun would be of incalculable industrial value, but the continued study of the subject revealed the fact that while it will be commercially profitable if my expectations are well founded, it will not be so to an extraordinary degree. 
 

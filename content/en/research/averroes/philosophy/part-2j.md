@@ -2,12 +2,14 @@
 heading: "Part 2j"
 title: "Question 4: Divine Justice and Injustice"
 author: Averroes
-description: ""
+description: "They say that in this problem the case of the invisible world is quite opposed to the visible"
 image: "/covers/averroes.jpg"
 ---
 
 
-The Asharites have expressed a very peculiar opinion, both with regard to reason and religion; about this problem. They have explained it in a way in which religion has not, but have adopted quite an opposite method. 
+The Asharites have expressed a very peculiar opinion, both with regard to reason and religion; about this problem. 
+
+<!-- They have explained it in a way in which religion has not, but have adopted quite an opposite method.  -->
 
 They say that in this problem the case of the invisible world is quite opposed to the visible. They think that God is just or unjust within the limits of religious actions, so when a man’s action is just with regard to religion, he also is just; and whatever religion calls it to be unjust; He is unjust. 
 

@@ -18,9 +18,17 @@ It is not likely that the churches founded by the Apostles would either suddenly
 
 Certain expressions of the primitive Christians are usually alleged by those who are adverse to all wars, whose opinions may be considered and refuted in three points of view.
 
-In the first place, from these expressions nothing more can be gathered than the private opinions of certain individuals, but no public opinion of the Churches. Besides these expressions for the most part are to be found only in the writings of Origen, Tertullian and some few others, who wished to distinguish themselves by the brilliancy of their thoughts, without regarding consistency in their opinions. 
+In the first place, from these expressions nothing more can be gathered than the private opinions of certain individuals, but no public opinion of the Churches. 
 
-For this same Origen says, that Bees were given by God as a pattern for men to follow in conducting just, regular, and necessary wars; and likewise Tertullian, who in some parts seems to disapprove of capital50 punishments, has said, "No one can deny that it is good the guilty should be punished." He expresses his doubts respecting the military profession, for in his book upon idolatry, he says, it is a fit matter of inquiry, whether believers can take up arms, or whether any of the military profession can be admitted as members of the Christian Church. But in his Book entitled, the Soldier's Crown, after some objections against the profession of arms, he makes a distinction between those who are engaged in the army before baptism, and those who entered after they had made the baptismal vow.
+Besides these expressions for the most part are to be found only in the writings of Origen, Tertullian and some few others, who wished to distinguish themselves by the brilliancy of their thoughts, without regarding consistency in their opinions. 
+
+For this same, Origen says that:
+- Bees were given by God as a pattern for men to follow in conducting just, regular, and necessary wars
+- Tertullian, who in some parts seems to disapprove of capital50 punishments, has said, "No one can deny that it is good the guilty should be punished." 
+
+He expresses his doubts respecting the military profession, for in his book upon idolatry, he says, it is a fit matter of inquiry, whether believers can take up arms, or whether any of the military profession can be admitted as members of the Christian Church. 
+
+But in his Book "The Soldier's Crown" he makes some objections against the profession of arms. He then makes a distinction between those who are engaged in the army before baptism, and those who entered after they had made the baptismal vow.
 
 "It evidently, says he alters the case with those who were soldiers before their conversion to Christianity; John admitted them to baptism, in one instance Christ approved, and in another Peter instructed a faithful Centurion: yet with this stipulation, that they must either like many others, relinquish their calling, or be careful to do nothing displeasing to God." 
 
@@ -38,11 +46,17 @@ The third point of view, in which the subject is to be considered, relates to th
 
 Salvian says, it was commanded by Christ that we should relinquish the object of dispute, rather than engage in law suits. But this, taken in so general an acceptation, is rather by the way of counsel, in order to attain to a sublimer mode of life, than intended as a positive precept. Thus many of the primitive Fathers condemned all oaths without exception, yet St. Paul, in matters of great importance, made use of these solemn appeals to God. 
 
-A Christian in Tatian said, "I refuse the office of Praetor," and in the words of Tertullian, "a Christian is not ambitious of the Aedile's office." In the same manner Lactantius maintains that a just man, such as he wishes a Christian to be, ought not to engage in war, nor, as all his wants can be supplied at home, even to go to sea. How many of the primitive fathers dissuade Christians from second marriages? All these counsels are good, recommending excellent attainments, highly acceptable to God, yet they are not required of52 us, by any absolute law. The observations already made are sufficient to answer the objections derived from the primitive times of Christianity.
+A Christian in Tatian said, "I refuse the office of Praetor," and in the words of Tertullian, "a Christian is not ambitious of the Aedile's office." 
+
+In the same manner Lactantius maintains that a just man, such as he wishes a Christian to be, ought not to engage in war, nor, as all his wants can be supplied at home, even to go to sea. How many of the primitive fathers dissuade Christians from second marriages? All these counsels are good, recommending excellent attainments, highly acceptable to God, yet they are not required of52 us, by any absolute law. 
+
+The observations already made are sufficient to answer the objections derived from the primitive times of Christianity.
 
 Now in order to confirm our opinions, we may observe that they have the support of writers, even of greater antiquity, who think that capital punishments may be inflicted, and that wars, which rest upon the same authority, may be lawfully engaged in by Christians. Clemens Alexandrinus says, that "a Christian, if, like Moses, he be called to the exercise of sovereign power, will be a living law to his subjects, rewarding the good, and punishing the wicked." 
 
-And, in another place, describing the habit of a Christian, he says, "it would become him to go barefoot, unless he were a soldier." In the work usually entitled the Constitutions of Clemens Romanus, we find that "it is not all killing which is considered unlawful, but only that of the innocent; yet the administration of judicial punishments must be reserved to the supreme power alone." But without resting upon individual authorities, we can appeal to the public authority of the church which ought to have the greatest weight. From hence it is evident that none were ever refused baptism, or excommunicated by the church, merely for bearing arms, which they ought to have been, had the military profession been repugnant to the terms of the new covenant. 
+And, in another place, describing the habit of a Christian, he says, "it would become him to go barefoot, unless he were a soldier." In the work usually entitled the Constitutions of Clemens Romanus, we find that "it is not all killing which is considered unlawful, but only that of the innocent; yet the administration of judicial punishments must be reserved to the supreme power alone." 
+
+But without resting upon individual authorities, we can appeal to the public authority of the church which ought to have the greatest weight. From hence it is evident that none were ever refused baptism, or excommunicated by the church, merely for bearing arms, which they ought to have been, had the military profession been repugnant to the terms of the new covenant. 
 
 In the Constitutions just quoted, the writer speaking of those who, in the primitive times, were admitted to baptism, or refused that ordinance, says, "let a soldier who desires to be admitted be taught to forbear from violence, and false accusations, and to be content with his regular pay. If he promises obedience let him be admitted." 
 

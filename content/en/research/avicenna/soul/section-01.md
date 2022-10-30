@@ -9,9 +9,12 @@ image: "/covers/soul.jpg"
 
 
 
-Whoso wishes to describe anything whatsoever before proceeding to establish first its[6] reality of existence, such a one is counted by the wise among those who deviate from the broad beaten track of perspicuous statement. 
+Whoso wishes to describe anything whatsoever before proceeding to establish first its reality of existence*, such a one is counted by the wise among those who deviate from the broad beaten track of perspicuous statement. 
 
-It is incumbent upon us, therefore, to first set to work to establish the existence of the spiritual powers, before starting to define each one of them singly, and enlarge upon it.
+> *Reality of existence; or its whereabouts. Doctor S. Landauer thinks that the word ayniyyat in the text must be wrong, because nowhere throughout this section is the «Whereabout» of the mental powers so much as hinted at; whereas the burden of the whole chapter is to prove merely that such powers do exist, i.e., their inniyyat, which is a word used by Arab Logicians.
+
+
+Therefore, we should first set to work to establish the existence of the spiritual powers, before starting to define each one of them singly, and enlarge upon it.
 
 The most peculiar characteristics of spiritual properties are 2
 
@@ -47,7 +50,7 @@ Thus, the 2 motions have 2 accounting causes. They are different one from the ot
 - one is "Natural"
 - the other is called "Soul" or "Spiritual Faculty". 
 
-Hence it is quite[Pg 24] sound, as to motion, to affirm the existence of spiritual faculties.
+Hence it is quite sound, as to motion, to affirm the existence of spiritual faculties.
 
 Whereas, in respect of Perception, because that bodies exist with this in common, viz. that they are bodies, and with this in distinction, viz. that they are repeatedly perceptive, it is quite manifest by the first (preceding) process of discrimination that perception will not ever differ from bodies through difference of their substance, but by certain powers or faculties borne within those bodies. 
 
@@ -55,8 +58,6 @@ We will demonstrate these spiritual faculties. <!-- have an existence: and this 
 
 
 ## FOOTNOTES:
-
-[6]Reality of existence; or its whereabouts. Doctor S. Landauer thinks that the word ayniyyat in the text must be wrong, because nowhere throughout this section is the «Whereabout» of the mental powers so much as hinted at; whereas the burden of the whole chapter is to prove merely that such powers do exist, i.e., their inniyyat, which is a word used by Arab Logicians.
 
 [A]A Why and Wherefore moving it. Note the difference between sabab and `illah. Transcriber addition: sabab (سبب) and `illat (علّة): Sabab means the general conditions that are conducive to something occuring, whereas `illat is the reason in cause-and-effect. Traditionally, `illat is used in logic or medicine, whereas sabab would be more likely to be heard in common speech.
 
