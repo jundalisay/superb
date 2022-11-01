@@ -1,8 +1,9 @@
 ---
-heading: "Part 4 of Book 3"
+heading: "Part 4"
 title: "Question 8: How Can We Know The Infinite Individuals?"
 date: 2015-09-15
 image: "/covers/meta.jpg"
+author: Aristotle
 description: "If there is nothing apart from individual things, and the individuals are infinitely many, how can we know the infinite individuals?"
 icon: "/icons/aris.jpg"
 ---

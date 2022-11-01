@@ -1,5 +1,5 @@
 ---
-heading: "Part 3 of Book 3"
+heading: "Part 3"
 title: "Question 6: Is the Genera the basis of principles?"
 date: 2015-09-10
 image: "/covers/meta.jpg"

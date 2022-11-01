@@ -1,16 +1,13 @@
 ---
 heading: "Chapter 3"
 title: "The Law of Conservation of Idea"
-# heading: "Why you only have 1 idea at a time"
 date: 2020-12-29
-# date: "2022-0-01"
 image: "/photos/basket.jpg"
 description: "Why you only have 1 idea at a time"
 author: Juan
 icon: /icons/sp.png
-icontext: Superphysics icon
 aliases:
-  /social/supersociology/principles/fourth-branch
+  /superphysics/principles/law-conservation-idea/
 ---
 
 

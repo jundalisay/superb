@@ -3,6 +3,12 @@ warrior
 thinker
 trader
 
+4 laws
+1 there is energy (main goal)
+2 energy acquires identity (fous here to avoid 3 and 4 to be self-regulating)
+3 energy spreads
+4 energy persists (judeo christianity)
+
 the inability to think and do research permeates in all sectors. 
 
 The students take a single library and work with that. 

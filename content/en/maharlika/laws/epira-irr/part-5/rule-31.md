@@ -6,6 +6,7 @@ image: "/photos/physics/light.jpg"
 date: 2021-09-30
 aliases:
   /maharlika/laws/epira-irr/rule-31/	
+  
 ---
 
 

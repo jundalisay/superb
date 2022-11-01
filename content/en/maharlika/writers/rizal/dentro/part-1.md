@@ -3,7 +3,8 @@ heading: Part 1
 title: What is the future of the Philippines?
 # The Philippines 100 Years From Now
 # Filipinas Dentro De Cien Años
-description: Siguiendo nuestra costumbre de abordar de frente las más árduas y delicadas cuestiones que se relacionan con Filipinas
+description: "What will be his future? Will the Philippine Islands continue as a Spanish colony, and, if so, what kind of colony? Will they become Spanish provinces with or without autonomy?"
+# description: Siguiendo nuestra costumbre de abordar de frente las más árduas y delicadas cuestiones que se relacionan con Filipinas
 date: 2022-02-10
 image: /covers/dentro.jpg
 author: Jose Rizal
@@ -79,7 +80,7 @@ During this entire period, there was no lack of generous and noble spirits among
 
 But one and the other were exceptions and we speak in general terms. This has been the outline of your past. We know your present. 
 
-And now, what will be his future? Will the Philippine Islands continue as a Spanish colony, and, if so, what kind of colony? Will they become Spanish provinces with or without autonomy? 
+What will be his future? Will the Philippine Islands continue as a Spanish colony, and, if so, what kind of colony? Will they become Spanish provinces with or without autonomy? 
 
 To get to this state, what kind of sacrifices will you have to make? Will they perhaps separate from the Motherland to live independently, to fall into the hands of other nations or to ally with other neighboring powers?
 

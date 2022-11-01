@@ -5,10 +5,6 @@ linkTitle: Part 1
 date: 2015-09-30
 image: "/covers/meta.jpg"
 description: "Aristotle gives maximum importance to the sight over the other senses"
-linkb: /research/aristotle/metaphysics/book-1/
-linkbtext: "Book 1"
-linkf: /research/aristotle/metaphysics/book-1/part-2
-linkftext: "Part 2"
 icon: "/icons/aris.jpg"
 ---
 

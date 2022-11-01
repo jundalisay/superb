@@ -1,22 +1,20 @@
-+++
-title= "Part 2"
-heading= "Part 2 of the Simplified Metaphysics by Aristotle"
-image= "/covers/meta.jpg"
-description= "Arts are potentialities. They are originative sources of change in another thing or in the artist himself considered as other"
-linkb= "/research/aristotle/metaphysics/book-9/part-1"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-9/part-3"
-linkftext= "Part 3"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 2"
+title: "All arts are potentialities"
+date: 2020-09-04
+image: "/covers/meta.jpg"
+description: "Arts are potentialities. They are originative sources of change in another thing or in the artist himself considered as other"
+author: Aristotle
+icon: "/icons/aris.jpg"
+---
+
+
 
 Since some such originative sources are present in soulless things, and others in things possessed of soul, and in soul, and in the rational part of the soul, clearly some potencies will, be non-rational and some will be non-rational and some will be accompanied by a rational formula. 
 
 This is why all arts are potentialities. They are originative sources of change in another thing or in the artist himself considered as other.
 
-Each of those which are accompanied by a rational formula is alike capable of contrary effects, but one non-rational power produces one effect; e.g. the hot is capable only of heating, but the medical art can produce both disease and health. 
+Each of those which are accompanied by a rational formula is alike capable of contrary effects, but one non-rational power produces one effect. For example: the hot is capable only of heating, but the medical art can produce both disease and health. 
 
 The reason is that science is a rational formula, and the same rational formula explains a thing and its privation, only not in the same way.
 

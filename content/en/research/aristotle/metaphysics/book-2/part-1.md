@@ -1,9 +1,10 @@
 ---
-heading: "Part 1 Book 2 "
+heading: "Part 1"
 title: "Philosophy and The Truth"
 date: 2020-09-04
 image: "/covers/meta.jpg"
 description: "Aristotle denounces Plato's Forms"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

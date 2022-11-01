@@ -1,6 +1,6 @@
 ---
-heading: "Part 3 of Book 13"
-title: "The propositions of mathematics"
+heading: "Part 3"
+title: "The Propositions of Mathematics"
 date: 2015-09-28
 image: "/covers/meta.jpg"
 description: "The universal propositions of mathematics do not deal with objects which exist separately, apart from extended magnitudes and from numbers"

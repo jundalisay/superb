@@ -12,6 +12,7 @@ aliases:
   /articles/supersociology/what-is-social-networkism
   /social/social-networkism/
   /social/supersociology/social-networkism/
+  
 ---
 
 <!-- A society needs 3 entties. The third entity becomes the arbiter. Without the third entity, then the relationship is a partnership which is arbitrary.  -->

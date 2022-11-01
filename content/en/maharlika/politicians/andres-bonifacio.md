@@ -1,6 +1,6 @@
 ---
 title: "Why Andres Bonifacio Should Be The National Hero"
-heading: "He did all of the work required for a revolution"
+heading: "He did most of the work required for a revolution"
 description: "Currently, Jose Rizal is the national hero. But morally, it would be better for Andres Bonifacio to be the hero."
 date: 2020-04-06
 image: /covers/boni.jpg
@@ -46,6 +46,14 @@ The disunity in revolutionary struggles is actually common:
 ## Rizal is the Hero of Felipe-nos, Bonifacio is the Hero of Maharlikans
 
 In a nutshell, pro-Spanish/American Philippines has Jose Rizal as its hero. These 'Felipe-nos' are under King Philip of the Spanish Hapsburgs who suffered from inbreeding problems which led to their eventual downfall.
+
+Rizal did not believe in the capabilities of the masses at all:
+
+{{< q a="Rizal" >}}
+<p>If the Philippines is to stay under Spain, its politics must change as demanded by Filipinos. This transformation will be violent and fatal if it starts from the masses, but peaceful and fruitful if it starts from the upper classes.</p>
+<cite>Part 3, Filipinas Dentro De Cien Años</cite>
+{{< /q >}}
+
 
 Felipe-nos surrender to policies of foreigners and vested interests, such as exporting its people as overseas workers
 

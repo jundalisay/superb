@@ -10,11 +10,12 @@ heading: "How Economics Leads to Crises"
 author: Juan
 icon: /icons/pantry.png
 aliases:
-  /social/economics/market-equilibrium-fallacy
-  /pantrynomics/market-equilibrium-fallacy
-  /taonomics/market-equilibrium-fallacy
   /articles/taonomics/the-market-equilibrium-fallacy
   /fallacies/economics/market-equilibrium-fallacy
+  /pantrynomics/market-equilibrium-fallacy
+  /social/economics/fallacies/equilibrium-fallacy/
+  /social/economics/market-equilibrium-fallacy
+  /taonomics/market-equilibrium-fallacy
 comments:
   - img: "/avatars/blank.png"
     content: "In neoclassical economics, established way before Samuelson, the short supply curves slopes upward because of diminishing marginal returns, only the long-run supply is based on AC and that is not necessarily upward sloping."

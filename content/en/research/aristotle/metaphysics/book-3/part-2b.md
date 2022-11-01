@@ -1,13 +1,10 @@
 ---
-heading: "Part 2b of Book 3 "
+heading: "Part 2b"
 title: "Questions 4 to 5"
 date: 2020-09-01
 image: "/covers/meta.jpg"
 description: "Should the sciences investigate all the kinds of causes?"
-linkb: /research/aristotle/metaphysics/book-3/part-2
-linkbtext: "Part 1"
-linkf: /research/aristotle/metaphysics/book-3/part-3
-linkftext: "Part 3"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

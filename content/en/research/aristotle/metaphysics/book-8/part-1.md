@@ -4,10 +4,7 @@ title: "What is inside matter?"
 date: 2020-09-04
 image: "/covers/meta.jpg"
 description: "Some substances are recognized by everyone. But some have been advocated by particular schools"
-linkb: /research/aristotle/metaphysics/book-7/part-16
-linkbtext: "Part 16"
-linkf: /research/aristotle/metaphysics/book-8/part-2
-linkftext: "Part 2"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

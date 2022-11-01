@@ -1,9 +1,10 @@
 ---
-heading: "Part 2 of Book 14"
-title: "Why do people believe that the numbers exist"
+heading: "Part 24"
+title: "Why do people believe that the numbers exist?"
 date: 2015-09-15
 image: "/covers/meta.jpg"
 description: "Neither does he who says it exists maintain that it is the cause of anything"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

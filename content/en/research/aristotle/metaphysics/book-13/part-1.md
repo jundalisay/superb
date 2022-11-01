@@ -1,6 +1,6 @@
 ---
 heading: "Part 1"
-title: "The Substamce as Matter"
+title: "The Substance as Matter"
 date: 2015-09-30
 image: "/covers/meta.jpg"
 description: "The substance of sensible things is matter"

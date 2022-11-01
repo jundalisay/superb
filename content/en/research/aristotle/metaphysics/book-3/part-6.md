@@ -1,8 +1,9 @@
 ---
-heading: "Part 6 of Book 3"
+heading: "Part 6"
 title: "Do forms exist?"
 date: 2015-09-15
 image: "/covers/meta.jpg"
+author: Aristotle
 description: "Besides perceptible things and the intermediates, we have to look for another class of things -- the Forms which we posit. "
 icon: "/icons/aris.jpg"
 ---
@@ -10,11 +11,18 @@ icon: "/icons/aris.jpg"
 
 Besides perceptible things and the intermediates, we have to look for another class of things -- the Forms which we posit. 
 
-If it is for this reason, because the objects of mathematics, while they differ from the things in this world in some other respect, differ not at all in that there are many of the same kind, so that their first principles cannot be limited in number (just as the elements of all the language in this sensible world are not limited in number, but in kind, unless one takes the elements of this individual syllable or of this individual articulate sound-whose elements will be limited even in number; 
+If it is for this reason, because
 
-so is it also in the case of the intermediates; for there also the members of the same kind are infinite in number), so that if there are not-besides perceptible and mathematical objects-others such as some maintain the Forms to be, there will be no substance which is one in number, but only in kind, nor will the first principles of things be determinate in number, but only in kind:-if then this must be so, the Forms also must therefore be held to exist. Even if those who support this view do not express it articulately, still this is what they mean, and they must be maintaining the Forms just because each of the Forms is a substance and none is by accident.
+The objects of mathematics differ from the things in this world in some other respect. But Forms do not differ at all. There are many Forms of the same kind that their first principles cannot be limited in number. 
 
-"But if we are to suppose both that the Forms exist and that the principles are one in number, not in kind, we have mentioned the impossible results that necessarily follow.
+This is just as the elements of all the languages in this world are not limited in number, but in kind. This is unless one takes the elements of this individual syllable or sound -- its elements will be limited in number.  
+
+This is the case of the intermediates. There also the members of the same kind are infinite in number), so that if there are not-besides perceptible and mathematical objects-others such as some maintain the Forms to be, there will be no substance which is one in number, but only in kind, nor will the first principles of things be determinate in number, but only in kind:-if then this must be so, the Forms also must therefore be held to exist. 
+
+Even if those who support this view do not express it articulately, still this is what they mean, and they must be maintaining the Forms just because each of the Forms is a substance and none is by accident.
+
+But if we are to suppose both that the Forms exist and that the principles are one in number, not in kind, we have mentioned the impossible results that necessarily follow.
+
 
 "(13) Closely connected with this is the question whether the elements exist potentially or in some other manner. If in some other way, there will be something else prior to the first principles; for the potency is prior to the actual cause, and it is not necessary for everything potential to be actual.-But if the elements exist potentially, it is possible that everything that is should not be. For even that which is not yet is capable of being; for that which is not comes to be, but nothing that is incapable of being comes to be.
 

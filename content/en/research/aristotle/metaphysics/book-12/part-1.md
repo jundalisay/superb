@@ -1,9 +1,10 @@
 ---
-heading: "Part 8"
+heading: "Part 1"
 title: "What is Substance?"
 date: 2015-09-30
 image: "/covers/meta.jpg"
 description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 
@@ -11,7 +12,9 @@ icon: "/icons/aris.jpg"
 
 Substance is the principle and cause and first part of the universe, if the universe is a whole. 
 
-if it coheres merely by virtue of serial succession, on this view also substance is first, and is succeeded by quality, and then by quantity. At the same time these latter are not even being in the full sense, but are qualities and movements of it,-or else even the not-white and the not-straight would be being; at least we say even these are, e.g. 'there is a not-white'. Further, none of the categories other than substance can exist apart. 
+if it coheres merely by virtue of serial succession, on this view also substance is first, and is succeeded by quality, and then by quantity. 
+
+At the same time these latter are not even being in the full sense, but are qualities and movements of it,-or else even the not-white and the not-straight would be being; at least we say even these are, e.g. 'there is a not-white'. Further, none of the categories other than substance can exist apart. 
 
 The early philosophers also in practice testify to the primacy of substance; for it was of substance that they sought the principles and elements and causes. The thinkers of the present day tend to rank universals as substances (for genera are universals, and these they tend to describe as principles and substances, owing to the abstract nature of their inquiry); but the thinkers of old ranked particular things as substances, e.g. fire and earth, not what is common to both, body.
 

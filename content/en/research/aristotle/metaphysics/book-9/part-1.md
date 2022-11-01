@@ -1,16 +1,13 @@
-+++
-title= "What is Potentiality?"
-heading= "Part 1 of the Simplified Metaphysics by Aristotle Book 9"
-image= "/covers/meta.jpg"
-description= "'Being' is in one way divided into individual thing, quality, and quantity, and is in another way distinguished in respect of potency and complete reality, and of function"
-linkb= "/research/aristotle/metaphysics/book-9"
-linkbtext= "Part 1"
-linkf= "/research/aristotle/metaphysics/book-9/part-2"
-linkftext= "Part 2"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 1 "
+title: "What is Potentiality?"
+date: 2020-09-04
+image: "/covers/meta.jpg"
+description: "'Being' is in one way divided into individual thing, quality, and quantity, and is in another way distinguished in respect of potency and complete reality, and of function"
+author: Aristotle
+icon: "/icons/aris.jpg"
+---
+
 
 <!-- WE have treated of that which is primarily and to which all the other categories of being are referred-i.e. of substance. 
 

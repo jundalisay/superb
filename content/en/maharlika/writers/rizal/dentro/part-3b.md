@@ -1,7 +1,9 @@
 ---
 heading: Part 3b
-title: Filipinas Dentro De Cien Años
-description: Las Filipinas, si han de continuar bajo el dominio de España, tienen por fuerza que tranformarse en sentido político, por exigirlo así la marcha de su historia y las necesidades de sus habitantes
+title: The Qualities of a Filipino
+description: The Filipino is considered a capable citizen when his contribution and his blood are asked to defend the homeland, why should he be denied that capacity when it comes to granting him a right?
+# title: Filipinas Dentro De Cien Años
+# description: Las Filipinas, si han de continuar bajo el dominio de España, tienen por fuerza que tranformarse en sentido político, por exigirlo así la marcha de su historia y las necesidades de sus habitantes
 date: 2022-02-10
 image: /covers/dentro.jpg
 # image: https://qph.fs.quoracdn.net/main-qimg-a53c2a32fd3cf1accd44a91a0ae1a149-mzj
@@ -51,14 +53,20 @@ Although this is not customary in the Metropolis, it must be practiced in the co
 
 The posts and positions thus won naturally reject arbitrary dismissal and create employees and rulers who are capable and knowledgeable about their duties. The positions held by the Indians, instead of endangering Spanish domination, would only serve to strengthen it; for what interest would they have in changing what is safe and stable against what is uncertain and problematic? 
 
-The Indian, furthermore, is very fond of quietude and prefers a modest present to a brilliant future.
+The Indio:
+- is very fond of quietude
+- prefers a modest present to a brilliant future.
 
 
-Tell those various Filipino officials who are still in office: they are the most inert conservatives. We could add other detailed reforms concerning commerce, agriculture, security of the individual, property, education, etc.; but these are issues that we will deal with separately in other articles. For now we are content with the schemes, let no one say that we ask too much.
+Tell those various Filipino officials who are still in office: they are the most inert conservatives. 
+
+We could add other detailed reforms concerning commerce, agriculture, security of the individual, property, education, etc.; but these are issues that we will deal with separately in other articles. For now we are content with the schemes, let no one say that we ask too much.
 
 There will be no lack of spirits who brand us as utopian: but what is utopia? Utopia was a country that Thomas More imagined, where there was universal suffrage, religious tolerance, almost complete abolition of the death penalty, etc.
 
-When the little novel was published, these things were considered as dreams, impossible, that is, utopian. And yet, civilization has left the country of Utopia far behind: the human will and conscience have performed more miracles, they have abolished slaves, and the death penalty for adultery, things impossible even for Utopia itself! The French colonies have their representatives; In the English Chambers, attempts have also been made to give representation to the Crown colonies, since the others already enjoy a certain autonomy; the press, there, is also free; only in Spain, which in the 16th century was the model nation in colonization, is it far behind.
+When the little novel was published, these things were considered as dreams, impossible, that is, utopian. And yet, civilization has left the country of Utopia far behind: the human will and conscience have performed more miracles, they have abolished slaves, and the death penalty for adultery, things impossible even for Utopia itself! The French colonies have their representatives.
+
+In the English Chambers, attempts have also been made to give representation to the Crown colonies, since the others already enjoy a certain autonomy; the press, there, is also free; only in Spain, which in the 16th century was the model nation in colonization, is it far behind.
 
 The population of Cuba and Puerto Rico:
 - is less than 1/3 of that of the Philippines, and which have not made the sacrifices for Spain that the latter, have numerous deputies.
