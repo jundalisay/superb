@@ -9,6 +9,7 @@ icon: /icons/sun.png
 ---
 
 
+> English Translation of Filipinas Dentro De Cien Años by Jose Rizal
 
 <!-- IV.  -->
 
@@ -32,28 +33,50 @@ It is against all natural and moral laws the existence of a foreign body inside 
 
 Science teaches us that it is assimilated, destroys the organism, is eliminated or encysted. The entrenchment of a conquering people is impossible, since it means complete isolation, absolute inertia, adynamia of the winning element. 
 
-Encystment here means the tomb of the foreign invader. Well then: applying these considerations to the Philippines, we must necessarily conclude, as a deduction from all that we have been saying, that if its population is not assimilated to the Spanish homeland, if the rulers do not appropriate the spirit of its inhabitants, if laws Equitable and frank and liberal reforms do not make one and the other forget that they are of different races, or if both peoples do not merge to constitute a socially and politically homogeneous mass that is not worked by opposing tendencies and antagonistic thoughts and interests, the Philippines will one fatal day declare itself infallibly independent. Against this law of destiny, neither Spanish patriotism, nor the clamor of all the tyrants of Ultramar, nor the love of all Filipinos for Spain, nor the doubtful future of the dismemberment and internecine struggles of the islands can be opposed. 
+Encystment here means the tomb of the foreign invader.
 
-Necessity is the strongest divinity the world knows, and necessity is the result of physical laws set in motion by moral forces. 
+<!-- Well then: applying these considerations to the Philippines, we must necessarily conclude, as a deduction from all that we have been saying, that  -->
+
+ 
+
+The Philippines will on one fatal day declare itself infallibly independent if:
+- Filipinos are not assimilated into the Spanish homeland
+- the rulers do not appropriate the spirit of its inhabitants
+- equitable and frank laws, and liberal reforms do not make one and the other forget that they are of different races, or
+- both peoples do not merge to constitute a socially and politically homogeneous mass that is not worked by opposing tendencies and antagonistic thoughts and interests
+
+In such a case of Philippine independence, the following cannot win:
+<!-- Against this law of destiny, neither -->
+- Spanish patriotism
+- the clamor of all the tyrants of Ultramar
+- the love of all Filipinos for Spain
+- the doubtful future of the dismemberment and internecine struggles of the islands 
+
+Necessity is:
+- the strongest divinity 
+- the result of physical laws set in motion by moral forces. 
 
 Statistics proves that it is impossible to destroy the Filipino race. 
-
-Even if it were possible, why would Spain destroy a people of a land that she cannot populate or cultivate, whose climate is to a certain extent disastrous? 
+- Even if it were possible, why would Spain destroy a people of a land that she cannot populate or cultivate, whose climate is to a certain extent disastrous? 
 
 What good would the Philippines be without Filipinos?
 
 
 Yes, precisely, given its system of colonization and the transitory character of the peninsulars who go to Overseas, a colony is all the more useful and productive the more inhabitants and wealth it possesses. 
 
-To destroy the 6 million Malays, even assuming that they are in their infancy and that they will never learn to fight and defend themselves, it is necessary for Spain to sacrifice at least a quarter of its population. We remind the supporters of colonial exploitation of this. 
+To destroy the 6 million Malays, even assuming that they are in their infancy and that they will never learn to fight and defend themselves, it is necessary for Spain to sacrifice at least a quarter of its population. 
 
-But none of this can happen. 
+We remind the supporters of colonial exploitation of this. 
 
-What is imminent is that, if Spain denies the education and freedoms necessary for human life to the Filipinos, they will seek their education abroad, behind the backs of the mother country, and will procure certain comforts in one way or another. in his country. 
+But none of this can happen. Instead, if Spain denies the education and freedoms for Filipinos, then they will seek their education abroad and move overseas. 
+
+<!-- What is imminent is that,  necessary for human life to the Filipinos, they will , behind the backs of the mother country, and will procure certain comforts in one way or another. in his country.  -->
 
 Result: that the resistance of short-sighted and rickety politicians is not only useless, but harmful, because what could be a reason for gratitude and love, turns into resentment and hatred. 
 
-Hatred and resentment on the one hand, suspicion and anger on the other, will finally end in a violent and terrible clash; especially when there are elements interested in disturbing the order to catch something in the dark, to demonstrate their valuable power, to launch lamentations, recriminate or activate violent measures, etc. It is to be hoped that the Government emerges triumphant, and generally (and it is customary) it goes to extremes in punishment, either to give a terrible lesson to show off its severity, or also to avenge the vanquished for the moments of terror and anxiety that danger made him pass.
+Hatred and resentment on the one hand, suspicion and anger on the other, will finally end in a violent and terrible clash; especially when there are elements interested in disturbing the order to catch something in the dark, to demonstrate their valuable power, to launch lamentations, recriminate or activate violent measures, etc.
+
+I hope that the Government emerges triumphant, and generally (and it is customary) it goes to extremes in punishment, either to give a terrible lesson to show off its severity, or also to avenge the vanquished for the moments of terror and anxiety that danger made him pass.
 
 An unavoidable accessory to these catastrophes is the accumulation of injustices committed against innocent or peaceful inhabitants. 
 

@@ -9,6 +9,7 @@ icon: /icons/sun.png
 ---
 
 
+> English Translation of Filipinas Dentro De Cien Años by Jose Rizal
 
 No sensible nation neglects the immense, virgin, unexploited and little-defended continental territories <!-- that the Black Continent offers it --> in order to gain a handful of poor and hardened islands. 
 

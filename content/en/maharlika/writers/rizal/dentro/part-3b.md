@@ -11,6 +11,7 @@ author: Jose Rizal
 icon: /icons/sun.png
 ---
 
+> English Translation of Filipinas Dentro De Cien Años by Jose Rizal
 
 ## Racial Looks
 

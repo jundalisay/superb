@@ -11,7 +11,7 @@ author: Jose Rizal
 icon: /icons/sun.png
 ---
 
-
+> English Translation of Filipinas Dentro De Cien Años by Jose Rizal
 <!-- Filipinas Dentro De Cien Años (Estudio Politico-Social), by José Rizal 
 
 Published in La Solidaridad Sept 1889-Jan 1890

@@ -9,6 +9,7 @@ author: Jose Rizal
 icon: /icons/sun.png
 ---
 
+> English Translation of Filipinas Dentro De Cien Años by Jose Rizal
 
 <!-- La Solaridad; núm. 18: Barcelona, 31 octubre 1889.  -->
 
