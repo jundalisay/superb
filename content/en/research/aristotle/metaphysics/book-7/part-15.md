@@ -1,16 +1,13 @@
-+++
-title= "Part 15"
-heading= "Part 15 of the Simplified Metaphysics by Aristotle"
-image= "/covers/meta.jpg"
-description= "Substance is of two kinds the concrete thing, the formula"
-linkb= "/research/aristotle/metaphysics/book-7/part-14"
-linkbtext= "Part 14"
-linkf= "/research/aristotle/metaphysics/book-7/part-16"
-linkftext= "Part 16"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Are Ideas Substances?"
+heading: "Part 15"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "Substance is of two kinds the concrete thing, the formula"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Substance is of two kinds:
 - the concrete thing

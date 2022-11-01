@@ -1,16 +1,11 @@
-+++
-title= "Part 12"
-heading= "Part 12 of the Simplified Metaphysics by Aristotle"
-image= "/covers/meta.jpg"
-description= "What is the unity of the formula of a definition?"
-linkb= "/research/aristotle/metaphysics/book-7/part-11"
-linkbtext= "Part 11"
-linkf= "/research/aristotle/metaphysics/book-7/part-13"
-linkftext= "Part 13"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Unity and Difference"
+heading: "Part 12"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "What is the unity of the formula of a definition?"
+icon: "/icons/aris.jpg"
+---
 
 <!-- "Now let us treat first of definition, in so far as we have not treated of it in the Analytics; for the problem stated in them is useful for our inquiries concerning substance. 
  -->

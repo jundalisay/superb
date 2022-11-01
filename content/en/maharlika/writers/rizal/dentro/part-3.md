@@ -64,15 +64,21 @@ It turns out that the patient Sancho, or the Philippines, misses his freedom, de
 
 In the same way, as long as the Philippines does not have a free press, it does not have a voice in the Chambers to let the Government and the Nation know whether or not its decrees are duly complied with, whether or not they take advantage of the country, all the abilities of the Overseas Minister will have the fate of the dishes of the Ínsula Barataria. 
 
-The minister, then, who wants his reforms to be reforms, must begin by declaring the press free in the Philippines, and by creating Filipino deputies.
+Therefore, the minister who wants real reforms must begin by:
+- declaring the press free in the Philippines, and
+- creating Filipino deputies.
 
-The free press in the Philippines, because complaints from there rarely reach the Peninsula, very rarely, and if they do, they are so hidden, so mysterious, that no newspaper dares to reproduce them. 
+<!-- The free press in , because  -->
 
-If they reproduce, they reproduce late and poorly. 
+Complaints from the Philippines rarely reach Spain.
+- No newspaper dares to reproduce them.
+- If they reproduce, they reproduce late and poorly. 
+<!--   Peninsula, very rarely, and if they do, they are so hidden, so mysterious, that   -->
 
-A government that administers a country from far away is the one that most needs a free press, even more than the one that governs in the metropolis, if it wants to do it straight and decently. The government that governs the country can still do without the press (if it can), because it is on the ground, because it has eyes and ears, and because it closely observes what it governs and administers. 
 
-But the Government that governs from afar absolutely needs the truth and the facts to come to its knowledge through all possible channels, so that it can better judge and appreciate them, and this need is even more pronounced when it comes to a country like the Philippines, whose inhabitants speak and complain in a language unknown to the authorities.
+A government that wants to administer a metropolis straight and decently must have a free press. This is more true for a government of a country that is far away.<!--  is the one that most needs , even more than the one that governs in the , if it wants to do it .  -->
+- A government that is on the same land <!--  governs the country --> can govern <!-- still do --> without the press <!-- (if it can), because it is on the ground, --> because it has eyes and ears. It closely observes what it governs and administers. 
+- But the Government that governs from afar absolutely needs the truth and the facts to come to its knowledge through all possible channels, so that it can better judge and appreciate them. This need is even more pronounced when it comes to a country like the Philippines, whose inhabitants speak and complain in a language unknown to the authorities.
 
 
 To govern in another way will also be called to govern, since it is necessary to give it a name, but it is to govern badly. 

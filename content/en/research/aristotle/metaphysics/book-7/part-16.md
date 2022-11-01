@@ -1,16 +1,13 @@
-+++
-title= "Being and Unity"
-heading= "Part 16 of the Simplified Metaphysics by Aristotle"
-image= "/covers/meta.jpg"
-description= "Even of the things that are thought to be substances, most are only potencies."
-linkb= "/research/aristotle/metaphysics/book-7/part-15"
-linkbtext= "Part 15"
-linkf= "/research/aristotle/metaphysics/book-8/part-1"
-linkftext= "Part 1"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Being and Unity"
+heading: "Part 16"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "Even of the things that are thought to be substances, most are only potencies"
+icon: "/icons/aris.jpg"
+---
+
+
 
 Even of the things that are thought to be substances, most are only potentialities.
 

@@ -1,13 +1,10 @@
 ---
-heading: "Part 6 Book 8 "
+heading: "Part 6"
 title: "The unity of definitions and numbers"
-date: 2020-09-04
+date: 2020-09-02
 image: "/covers/meta.jpg"
 description: "What is the cause of the unity of definitions and numbers?"
-linkb: /research/aristotle/metaphysics/book-8/part-4
-linkbtext: "Part 4"
-linkf: /research/aristotle/metaphysics/book-9/part-1
-linkftext: "Part 1"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

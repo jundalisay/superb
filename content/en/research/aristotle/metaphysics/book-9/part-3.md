@@ -1,16 +1,14 @@
-+++
-title= "Capability and Potentiality and Actuality"
-heading= "Part 3 of the Simplified Metaphysics by Aristotle Book 9"
-image= "/covers/meta.jpg"
-description= "If that which is deprived of potentiality is incapable, that which is not happening will be incapable of happening."
-linkb= "/research/aristotle/metaphysics/book-9/part-2"
-linkbtext= "Part 2"
-linkf= "/research/aristotle/metaphysics/book-9/part-4"
-linkftext= "Part 4"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 3"
+title: "Capability and Potentiality and Actuality"
+date: 2020-09-26
+image: "/covers/meta.jpg"
+description: "If that which is deprived of potentiality is incapable, that which is not happening will be incapable of happening"
+author: Aristotle
+icon: "/icons/aris.jpg"
+---
+
+
 
 The Megaric school says that a thing 'can' act only when it is acting. When it is not acting, it 'cannot' act. 
 - For example, he who is not building cannot build. Only one who is building can build when he is building. 

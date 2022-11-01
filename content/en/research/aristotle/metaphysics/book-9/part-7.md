@@ -1,16 +1,14 @@
-+++
-title= "When does a thing exist potentially?"
-heading= "Part 7 of the Simplified Metaphysics by Aristotle"
-image= "/covers/meta.jpg"
-description= "We must distinguish when a thing exists potentially and when it does not. For it is not at any and every time"
-linkb= "/research/aristotle/metaphysics/book-9/part-6"
-linkbtext= "Part 6"
-linkf= "/research/aristotle/metaphysics/book-9/part-8"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 7"
+title: "When does a thing exist potentially?"
+date: 2020-09-20
+image: "/covers/meta.jpg"
+description: "We must distinguish when a thing exists potentially and when it does not. For it is not at any and every time"
+author: Aristotle
+icon: "/icons/aris.jpg"
+---
+
+
 
 What is "actual"? 
 

@@ -3,6 +3,7 @@ heading: "Parts 9-10 of Book 5"
 title: "Defining Same and Contrary"
 date: 2020-09-28
 image: "/covers/meta.jpg"
+author: Aristotle
 description: "Aristotle defines Substance, same, opposite"
 icon: "/icons/aris.jpg"
 ---

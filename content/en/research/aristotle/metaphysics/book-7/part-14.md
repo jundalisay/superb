@@ -1,16 +1,12 @@
-+++
-title= "Part 14"
-heading= "Part 14 of the Simplified Metaphysics by Aristotle"
-image= "/covers/meta.jpg"
-description= "Are Ideas substances?"
-linkb= "/research/aristotle/metaphysics/book-7/part-12"
-linkbtext= "Part 6"
-linkf= "/research/aristotle/metaphysics/book-7/part-15"
-linkftext= "Part 8"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Are Ideas Substances?"
+heading: "Part 14"
+author: "Aristotle"
+image: "/covers/meta.jpg"
+description: "These very facts what consequence confronts those who say the Ideas are substances capable of separate existence, and at the same time make the Form consist of the genus and the differentiae"
+icon: "/icons/aris.jpg"
+---
+
 
 These very facts what consequence confronts those who say the Ideas are substances capable of separate existence, and at the same time make the Form consist of the genus and the differentiae. For if the Forms exist and 'animal' is present in 'man' and 'horse', it is either one and the same in number, or different. (In formula it is clearly one; for he who states the formula will go through the formula in either case.) 
 

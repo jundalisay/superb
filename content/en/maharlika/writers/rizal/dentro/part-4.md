@@ -92,9 +92,17 @@ The climate influences bipedal animals in the same way as it does in quadrupedal
 
 The terrible lessons and harsh teachings that these struggles have given the Filipinos will have served to improve their morale and strengthen them. The Spain of the fifteenth century was not that of the eighth century.
 
-With severe experience, instead of entering into internecine fights between islands, as is generally feared, they will stretch out their arms to each other, like shipwrecked men when they reach an island after a frightful stormy night. Don't go saying that what happened to the small American republics will happen to us. These easily won their independence, and their inhabitants are animated by a spirit different from that of the Filipinos. Besides, the danger of falling again into other hands, English or German, for example, will force them to be sensible and prudent. 
+With severe experience, instead of entering into internecine fights between islands, as is generally feared, they will stretch out their arms to each other, like shipwrecked men when they reach an island after a frightful stormy night. 
 
-The not great preponderance of any one race over the others will drive from the imagination all mad ambition to dominate, and as the tendency of tyrannized countries, once they throw off the yoke, is to adopt the freest Government, like a boy leaving school , like the oscillation of the pendulum, by a law of reaction the Islands will probably declare themselves a federal Republic.... If the Philippines achieve their independence after heroic and tenacious struggles, they can be sure that neither England nor Germany, Not even France, and least of all Holland, will dare to collect what Spain has not been able to preserve.
+Do not say that what happened to the small American republics will happen to us. 
+
+These easily won their independence. Their inhabitants are animated by a spirit different from that of the Filipinos. 
+
+Besides, the danger of falling again into other hands, English or German, for example, will force them to be sensible and prudent. 
+
+The not great preponderance of any one race over the others will drive from the imagination all mad ambition to dominate, and as the tendency of tyrannized countries, once they throw off the yoke, is to adopt the freest Government, like a boy leaving school , like the oscillation of the pendulum, by a law of reaction the Islands will probably declare themselves a federal Republic.... 
+
+If the Philippines achieve their independence after heroic and tenacious struggles, they can be sure that neither England nor Germany, Not even France, and least of all Holland, will dare to collect what Spain has not been able to preserve.
 
 Africa, in a few years, will completely absorb the attention of Europeans. 
 

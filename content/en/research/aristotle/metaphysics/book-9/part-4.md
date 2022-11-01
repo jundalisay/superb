@@ -1,16 +1,14 @@
-+++
-title= "Rational and Nonrational Potentiality"
-heading= "Part 4 of the Simplified Metaphysics by Aristotle Book 9"
-image= "/covers/meta.jpg"
-description= "If, when A is real, B must be real, then, when A is possible, B also must be possible"
-linkb= "/research/aristotle/metaphysics/book-9/part-3"
-linkbtext= "Part 3"
-linkf= "/research/aristotle/metaphysics/book-9/part-6"
-linkftext= "Part 6"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 4"
+title: "Rational and Nonrational Potentiality"
+date: 2020-09-24
+image: "/covers/meta.jpg"
+description: "If, when A is real, B must be real, then, when A is possible, B also must be possible"
+author: Aristotle
+icon: "/icons/aris.jpg"
+---
+
+
 
 If what we have described is identical with the capable or convertible with it, evidently it cannot be true to say 'this is capable of being but will not be', which would imply that the things incapable of being would on this showing vanish. 
 

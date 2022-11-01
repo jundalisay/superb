@@ -1,6 +1,6 @@
 ---
 title: "The formula for things"
-heading: "Part 10 of Book 7"
+heading: "Part 10 "
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Must the formula of the parts be present in the formula of the whole or not?"

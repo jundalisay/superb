@@ -1,6 +1,6 @@
 ---
 title: "Natural Comings to Be"
-heading: "Part 7 of Book 7"
+heading: "Part 7"
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Natural comings to be are the comings to be of those things which come to be by nature"

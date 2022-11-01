@@ -1,6 +1,6 @@
 ---
 title: "To Be"
-heading: "Part 1 of Book 7"
+heading: "Part 1 "
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "In one sense the 'being' meant is 'what a thing is' or a 'this'. In another sense it means a quality or quantity or one of the other things that are predicated as these are"
@@ -9,12 +9,10 @@ icon: "/icons/aris.jpg"
 
 
 
+There are several senses in which a thing may be said to 'be'
 
-THERE are several senses in which a thing may be said to 'be'
-
-In one sense the 'being' meant is 'what a thing is' or a 'this'
-
-In another sense it means a quality or quantity or one of the other things that are predicated as these are. 
+- In one sense the 'being' meant is 'what a thing is' or a 'this'
+- In another sense it means a quality or quantity or one of the other things that are predicated as these are. 
 
 While 'being' has all these senses, obviously that which 'is' primarily is the 'what', which indicates the substance of the thing. For when we say of what quality a thing is, we say that it is good or bad, not that it is three cubits long or that it is a man; but when we say what it is, we do not say 'white' or 'hot' or 'three cubits long', but 'a man' or 'a 'god'. 
 

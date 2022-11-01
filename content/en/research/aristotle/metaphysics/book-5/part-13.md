@@ -1,15 +1,14 @@
-+++
-title= "Defining Quantum and Quality"
-heading= "Part 13 of Book 5"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Aristotle defines Quantum and Quality"
-linkb= "/research/aristotle/metaphysics/book-5/part-12"
-linkbtext= "Part 12"
-linkf= "/research/aristotle/metaphysics/book-5/part-15"
-linkftext= "Part 15"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Part 12"
+title: "Defining Quantum and Quality"
+date: 2020-09-28
+image: "/covers/meta.jpg"
+author: Aristotle
+description: "Aristotle defines Quantum and Quality"
+icon: "/icons/aris.jpg"
+---
+
+
 
 "'Quantum' means that which is divisible into two or more constituent parts of which each is by nature a 'one' and a 'this'. 
 

@@ -1,10 +1,11 @@
 ---
-heading: "Part 2 Book 8 "
+heading: "Part 2"
 title: "The Matter of Democritus"
-date: 2020-09-04
+date: 2020-09-28
 image: "/covers/meta.jpg"
 description: "Matter has many differences"
 icon: "/icons/aris.jpg"
+author: Aristotle
 ---
 
 

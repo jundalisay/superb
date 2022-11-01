@@ -1,16 +1,14 @@
+---
+heading: "Part 12"
+title: "Defining Potency"
+date: 2020-09-28
+image: "/covers/meta.jpg"
+author: Aristotle
+description: "Aristotle defines potency and incapacity"
+icon: "/icons/aris.jpg"
+---
 
-+++
-title= "Defining Potency"
-heading= "Part 12 of Book 5"
-author= "Aristotle"
-image= "/covers/meta.jpg"
-description= "Aristotle defines potency and incapacity"
-linkb= "/research/aristotle/metaphysics/book-5/part-11"
-linkbtext= "Part 11"
-linkf= "/research/aristotle/metaphysics/book-5/part-13"
-linkftext= "Part 13"
-icon= "/icons/aris.jpg"
-+++
+
 
 "'Potency' means 
 

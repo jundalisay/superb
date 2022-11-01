@@ -1,14 +1,11 @@
 ---
-heading: "Part 4 Book 8 "
+heading: "Part 4"
 title: "The Origin of Substance"
 date: 2020-09-04
 image: "/covers/meta.jpg"
 description: "Aristotle explains the original substance behind matter"
-linkb: /research/aristotle/metaphysics/book-8/part-3
-linkbtext: "Part 3"
-linkf: /research/aristotle/metaphysics/book-8/part-6
-linkftext: "Part 6"
 icon: "/icons/aris.jpg"
+author: Aristotle
 ---
 
 

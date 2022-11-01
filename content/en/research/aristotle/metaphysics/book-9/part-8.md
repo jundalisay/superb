@@ -1,16 +1,13 @@
-+++
-title= "Actuality is prior to potentiality"
-heading= "Part 8 of the Simplified Metaphysics by Aristotle Book 9"
-image= "/covers/meta.jpg"
-description= "Potentiality is that definite kind which is a principle of change in another thing or in the thing itself regarded as other. It is every principle of movement or rest."
-linkb= "/research/aristotle/metaphysics/book-9/part-7"
-linkbtext= "Part 7"
-linkf= "/research/aristotle/metaphysics/book-9/part-10"
-linkftext= "Part 10"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 8"
+title: "Actuality is prior to potentiality"
+date: 2020-09-18
+image: "/covers/meta.jpg"
+description: "Potentiality is that definite kind which is a principle of change in another thing or in the thing itself regarded as other. It is every principle of movement or rest"
+author: Aristotle
+icon: "/icons/aris.jpg"
+---
+
 
 Actuality is prior to potentiality.
 

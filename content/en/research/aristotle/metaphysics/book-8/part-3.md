@@ -1,14 +1,11 @@
 ---
-heading: "Part 3 Book 8 "
+heading: "Part 3"
 title: "Matter and Number"
-date: 2020-09-04
+date: 2020-09-26
 image: "/covers/meta.jpg"
 description: "Aristotle explains the generation and destruction of substances"
-linkb: /research/aristotle/metaphysics/book-8/part-2
-linkbtext: "Part 2"
-linkf: /research/aristotle/metaphysics/book-8/part-4
-linkftext: "Part 4"
 icon: "/icons/aris.jpg"
+author: Aristotle
 ---
 
 

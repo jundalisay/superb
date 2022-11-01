@@ -1,6 +1,6 @@
 ---
 title: "What is Substance?"
-heading: "Part 3 of Book 7"
+heading: "Part 3 "
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "The word 'substance' is applied in 4 ways"

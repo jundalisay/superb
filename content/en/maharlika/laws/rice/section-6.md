@@ -151,7 +151,7 @@ The rice industry roadmap shall be implemented through a complementation of the 
 
 ## Sec. 16. National Single Window Program
 
-To ensure the accurate collection of tariff as provided in Section 6 of this Act, the National Single Window (NSW) program of the Bureau of Customs (BOC) shall be implemented within one hundred eighty (180) days from the effectivity of this Act in accordance with Executive Order No. 482."
+To ensure the accurate collection of tariff as provided in Section 6 of this Act, the National Single Window (NSW) program of the Bureau of Customs (BOC) shall be implemented within 180 days from the effectivity of this Act, in accordance with EO 482.
 
 
 ## Section 17. Implementing Rules and Regulations

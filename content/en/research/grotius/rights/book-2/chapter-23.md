@@ -8,7 +8,7 @@ author: "Hugo Grotius"
 ---
 
 
-Origin of moral doubts—The dictates of conscience, though erroneous, not to be violated—Opposite opinions supported by argument, or by authority—In doubtful and important matters the safer side of the question to be followed—In such cases it is right to abstain from war—Disputes settled by conference or arbitration—Christian duties—Whether single combat is allowable in order to avoid war—In cases of equal doubt the claims of the present possessor to be preferred—Where neither party is in possession, claims to be divided—Whether a war can be just on both sides, explained by a distinction.
+<!-- Origin of moral doubts—The dictates of conscience, though erroneous, not to be violated—Opposite opinions supported by argument, or by authority—In doubtful and important matters the safer side of the question to be followed—In such cases it is right to abstain from war—Disputes settled by conference or arbitration—Christian duties—Whether single combat is allowable in order to avoid war—In cases of equal doubt the claims of the present possessor to be preferred—Where neither party is in possession, claims to be divided—Whether a war can be just on both sides, explained by a distinction. -->
 
 
 ## Part 1
@@ -19,7 +19,9 @@ In mathematical reasoning, all the figures are considered in the abstract, purel
 
 Besides the figures in general form a direct contrast to each other. Thus, for instance, there is no intermediate line between a straight line and a curve.
 
-But it is not so in morals, where the least circumstances vary the subject, and admit a latitude of interpretation, settling the points of truth and justice between two extremes. So that between what is right and what is unlawful there is a middle space, where it is easy to incline to the one side, or to the other. This occasions an ambiguity somewhat like the difficulty of deciding the precise moment, where the twilight begins, and where it ends. From hence Aristotle concludes that it is sometimes difficult to determine, between two extremes, what line of conduct ought to be chosen or rejected.
+But it is not so in morals, where the least circumstances vary the subject, and admit a latitude of interpretation, settling the points of truth and justice between two extremes. 
+
+So that between what is right and what is unlawful there is a middle space, where it is easy to incline to the one side, or to the other. This occasions an ambiguity somewhat like the difficulty of deciding the precise moment, where the twilight begins, and where it ends. From hence Aristotle concludes that it is sometimes difficult to determine, between two extremes, what line of conduct ought to be chosen or rejected.
 
 
 ## Part 2 

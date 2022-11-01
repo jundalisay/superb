@@ -1,6 +1,6 @@
 ---
 title: "How Aristotle Misunderstands Forms"
-heading: "Part 8 of Book 7"
+heading: "Part 8"
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "In some cases, the maker is of the same kind or form as the product. For example, a human makes a human. We do not need to set up Form as a pattern"
