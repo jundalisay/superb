@@ -3,11 +3,9 @@ title: "The Epicurean"
 heading: "Essay 15 Part 1"
 description: "This is the voice of Pride, not of Nature."
 image: /covers/essays.jpg
-date: "2020-01-01"
-linkb: "/research/hume/essays/part-1/14b-the-arts"
-linkbtext: "The Arts"
-linkf: "/research/hume/essays/part-1/16-stoic"
-linkftext: "The Stoic"
+date: 2020-12-02
+author: David Hume
+icons: /icons/hume.png
 --- 
 
 
@@ -17,7 +15,9 @@ Art is only the under-workman,° and is employed to give a few strokes of embell
 
 Some of the drapery may be of his drawing; but he is not allowed to touch the principal figure. Art may make a suit of clothes: But nature must produce a man.
 
-Even in those productions, commonly denominated works of art, we find that the noblest of the kind are beholden for their chief beauty to the force and happy influence of nature. To thea native enthusiasm of the poets, we owe whatever is admirable in their productions. The greatest genius, where nature at any time fails him, (for she is not equal) throws aside the lyre, and hopes not, from the rules of art, to reach that divine harmony, which must proceed from her inspiration alone. How poor are those songs, where a happy flow of fancy has not furnished materials for art to embellish and refine!
+Even in those productions, commonly denominated works of art, we find that the noblest of the kind are beholden for their chief beauty to the force and happy influence of nature. To thea native enthusiasm of the poets, we owe whatever is admirable in their productions.
+
+The greatest genius, where nature at any time fails him, (for she is not equal) throws aside the lyre, and hopes not, from the rules of art, to reach that divine harmony, which must proceed from her inspiration alone. How poor are those songs, where a happy flow of fancy has not furnished materials for art to embellish and refine!
 
 But of all the fruitless attempts of art, no one is so ridiculous, as that which the severe philosophers have undertaken, the producing of an artificial happiness, and making us be pleased by rules of reason, and by reflection. 
 

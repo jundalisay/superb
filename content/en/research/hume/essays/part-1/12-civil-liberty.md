@@ -3,12 +3,11 @@ title: "Civil Liberty"
 heading: "Essay 12 by David Hume Part 1"
 description: "Civil Liberty"
 image: /covers/essays.jpg
-date: "2020-01-12"
-linkb: "/research/hume/essays/part-1/11-dignity-of-human-nature"
-linkbtext: "dignity-of-human-nature"
-linkf: "/research/hume/essays/part-1/13-eloquence"
-linkftext: "Eloquence"
+date: 2020-12-10
+author: David Hume
+icons: /icons/hume.png
 --- 
+
 
 
 Political writers who are free from party-prejudices cultivate a science that contributes most to public utility, of all sciences. They get a private satisfaction from it. However, I suspect that the world is still too young to establish many general universal truths in politics.
@@ -64,8 +63,9 @@ The art of society and conversation "l’Art de Vivre" is the most useful and ag
 Horace observes the state of the sciences and polite arts of the Romans:
 
 {{< q >}}
-—Sed in longum tamen ævum Manserunt, hodieque manent vestigia ruris.
-</div>
+Sed in longum tamen ævum Manserunt, hodieque manent vestigia ruris.
+{{< /q >}}
+
 
 This is also true for the British who have neglected very much the elegance and propriety of style. We have no English dictionary, and scarcely a tolerable grammar. The first polite prose we have, was writ by a man who is still alive.
 

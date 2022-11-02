@@ -1,20 +1,22 @@
 ---
 title: "Is The British Government An Absolute Monarchy Or a Republic?"
-heading: "Essay 7 by David Hume Part 1"
-description: "Is The British Government An Absolute Monarchy Or a Republic?"
+heading: "Essay 7 by David Hume Simplified"
+description: "It affords a violent prejudice against almost every science, that no prudent man, however sure of his principles, dares prophesy concerning any event, or foretel the remote consequences of things"
 image: /covers/essays.jpg
-date: "2020-01-12"
-linkf: "/research/hume/essays/part-1/6-independence-of-parliament"
-linkftext: Independence-of-parliament
-linkb: "/research/hume/essays/part-1/8-political-parties"
-linkbtext: Political-parties
+date: 2020-12-18
+author: David Hume
+icons: /icons/hume.png
 --- 
 
 
-It affords a violent prejudice against almost every science, that no prudent man, however sure of his principles, dares prophesy concerning any event, or foretel the remote consequences of things. A physician will not venture to pronounce concerning the condition of his patient a fortnight or month after: And still less dares a politician foretel the situation of public affairs a few years hence. HARRINGTON thought himself so sure of his general principle, that the balance of power depends on that of property, that he ventured to pronounce it impossible ever to re-establish monarchy in ENGLAND: But his book was scarcely published when the king was restored; and we see, that monarchy has ever since subsisted upon the same footing as before.
+It affords a violent prejudice against almost every science, that no prudent man, however sure of his principles, dares prophesy concerning any event, or foretel the remote consequences of things. 
 
-*37 Notwithstanding this unlucky example, I will venture to examine an important question, to wit,
-Whether the BRITISH
+A physician will not venture to pronounce concerning the condition of his patient a fortnight or month after: And still less dares a politician foretel the situation of public affairs a few years hence. HARRINGTON thought himself so sure of his general principle, that the balance of power depends on that of property, that he ventured to pronounce it impossible ever to re-establish monarchy in ENGLAND: But his book was scarcely published when the king was restored; and we see, that monarchy has ever since subsisted upon the same footing as before.
+
+*37 
+
+
+Notwithstanding this unlucky example, I will venture to examine an important question, to wit, Whether the BRITISH
 government inclines more to absolute monarchy, or to a republic; and in which of these two species of government it will most probably terminate? As there seems not to be any great danger of a sudden revolution either way, I shall at least escape the shame attending my temerity,
 ° if I should be found to have been mistaken.
 

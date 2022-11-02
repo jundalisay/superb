@@ -1,21 +1,17 @@
-+++
-title=  "What is the Political Economy?"
-heading=  "Chapter 1a of Book 4 "
-date=  2020-03-31
-author=  "Adam Smith"
-image=  "/covers/wn.jpg"
-description=  "Political economy, as a science of a legislator proposes to enrich both the people and the sovereign"
-linkb=  "/research/smith/wealth-of-nations/book-3"
-linkbtext=  "Book 3"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-1b"
-linkftext=  "Chapter 1b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "What is the Political Economy?"
+heading: "Chapter 1a Simplified"
+description: "Political economy, as a science of a legislator proposes to enrich both the people and the sovereign"
+image: /covers/wn.jpg
+date: 2020-03-31
+author: Adam Smith
+icons: /icons/smith.png
+--- 
 
 
 ## Introduction 
 
-{{< s v="1" >}} Political economy, as a science of a legislator, proposes= 
+{{< s v="1" >}} Political economy, as a science of a legislator, proposes:
 - To provide a plentiful revenue or subsistence for the people by enabling them to provide it for themselves
 - To supply the state with a revenue for the public services
 
@@ -27,17 +23,17 @@ It proposes to enrich both the people and the sovereign.
 1. The system of commerce -- This is the modern system best understood in our own country and in our own times
 2. The system of agriculture
 
-<br>
+
 
 ## Chapter 1: The Principle of the Commercial or Mercantile System
 
-{{< s v="1" >}} The popular notion that wealth consists in metal money or in gold and silver naturally arises from the double function of money as= 
+{{< s v="1" >}} The popular notion that wealth consists in metal money or in gold and silver naturally arises from the double function of money as:
 
-1. the instrument of commerce=  Money allows us to obtain what we need more readily than any other commodity. The great affair is to get money. With money, there is no difficulty in making any purchase.
+1. the instrument of commerce: Money allows us to obtain what we need more readily than any other commodity. The great affair is to get money. With money, there is no difficulty in making any purchase.
 
-2. the measure of value=  The amount of money is the basis for the estimated value of other commodities.
+2. the measure of value: The amount of money is the basis for the estimated value of other commodities.
 
-We say that= 
+We say that:
 - a rich man is worth a lot of money
 - a poor man is worth very little money.
 - a frugal man, or a man eager to be rich, is said to love money.
@@ -45,7 +41,7 @@ We say that=
 
 To grow rich is to get money. Wealth and money are considered synonymous in common language.
 
-<br>
+
 
 ### Mercantilism believes that money is wealth
 
@@ -60,11 +56,11 @@ Among the Mongols and shepherd nations who are ignorant of the use of money, cat
 
 {{< s v="3" >}} Mr. Locke distinguished money from other movable goods. He says= 
 
-{{< quote >}}
+{{< q >}}
 all other movable goods are consumable. This makes the wealth in them undependable. A nation rich in movable goods in one year may be lacking in the next, merely due to their own waste and extravagance of those goods.
 
 On the contrary, money is a steady friend which is not wasted and consumed. Even if it travels from hand to hand, it can be kept from leaving the country. Gold and silver are the most solid and substantial part of a nation's movable wealth.
-</div>
+{{< /q >}}
 
 He thinks the great object of its political economy should be to multiply those metals.
 
@@ -94,20 +90,21 @@ On the contrary, the exportation of gold and silver could increase the gold and 
 
 Mr. Mun compares this foreign trade to the seed-time and harvest of agriculture. He says that 
 
-{{< quote >}}
+{{< q >}}
 We may think a husbandman is a madman when he casts good grains into the ground in the seed-time. But after we see his harvest, we realize that his actions increased the grains.
-</div>
+{{< /q >}}
 
 
-{{< s v="8" >}} He said that= 
+{{< s v="8" >}} He said that:
 
-{{< quote >}}
-this prohibition could not hinder gold and silver exportation because the smallness of their bulk in proportion to their value allowed them to be easily smuggled abroad. This exportation could only be prevented by a proper attention to the balance of trade.
+{{< q >}}
+This prohibition could not hinder gold and silver exportation because the smallness of their bulk in proportion to their value allowed them to be easily smuggled abroad. This exportation could only be prevented by a proper attention to the balance of trade.
             
 When the country exported more value than it imported, a better balance came from foreign nations. This balance was paid in gold and silver. It increased the amount of gold and silver in the kingdom.
 
 But when it imported more value than it exported, a contrary balance was due to foreign nations. This balance was paid to them in gold and silver. It reduced the amount of gold and silver. In this case, the export prohbition on those metals could not prevent it.
-</div>
+{{< /q >}}
+
 
 {{< quote >}}
 The export prohibition on goods would only make exportation more dangerous and expensive. A prohibition on gold and silver exports would make the balance still worse.
@@ -117,9 +114,9 @@ the natural risk, trouble, and expence of sending the money
 the extraordinary risk from the prohibition
 
 Since the exchange would be against his country, the balance of trade would be still less to his favour. His country's money would get much less value than the foreign country's money to which the balance was due.
-</div>
+{{< /q >}}
 
-{{< quote >}}
+{{< q >}}
 For example, if the exchange between England and Holland was 5% against England, it would require 105 ounces of silver in England to purchase a bill for 100 ounces of silver in Holland.
 <ul>
     <li>105 ounces of silver in England would buy goods worth only 100 ounces of silver in Holland.</li>
@@ -129,12 +126,13 @@ For example, if the exchange between England and Holland was 5% against England,
     <li>English goods would draw so much less Dutch money to England.</li>
     <li>Dutch goods would draw so much more English money to Holland, according to this difference.</li>
     <li>The balance of trade would be more against England as it would require more gold and silver to be exported to Holland.</li>
-</div>
+</ul>
+{{< /q >}}
 
 
-{{< s v="9" >}} Those arguments were partly solid and partly sophistical.
+{{< s v="9" >}} **Those arguments were partly solid and partly sophistical.**
 
-They were solid in asserting= 
+They were solid in asserting: 
 - that gold and silver exportation can be advantageous to the country
 - that no prohibition could prevent their exportation when private people found any advantage in exporting them
 
@@ -190,14 +188,14 @@ Mun's book, [England's Treasure in Foreign Trade](/research/mun/englands-treasur
 
 With equal capitals, it creates the greatest revenue and employment for its people. Mun considered the inland or home trade as subsidiary only to foreign trade.
 
-He said that= 
+He said that:
 
-{{< quote >}}
+{{< q >}}
 <ul>
     <li>the inland trade did not bring money into the country nor carried money out</li>
     <li>the country could never be richer or poorer by means of the inland trade, except when the inland trade indirectly influences the foreign trade</li>
 </ul>
-</div>
+{{< /q >}}
 
 
 {{< s v="11" >}} A country that has no mines of its own must draw its gold and silver from overseas, in the same way as one that has no vineyards must draw its wines from others.

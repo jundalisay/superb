@@ -1,14 +1,13 @@
 ---
 title: "The First Principles of Government"
 heading: "Essay 4 by David Hume Part 1"
-description: "The First Principles of Government"
+description: "The most surprizing about human affairs is the ease with which the many are governed by the few and the implicit submission of men to their rulers"
 image: /covers/essays.jpg
-date: "2020-01-12"
-linkf: "/research/hume/essays/part-1/3-politics"
-linkftext: Politics
-linkb: "/research/hume/essays/part-1/5-origin-of-government"
-linkbtext: "origin-of-government"
+date: 2020-12-24
+author: David Hume
+icons: /icons/hume.png
 --- 
+
 
 
 The most surprizing about human affairs is:

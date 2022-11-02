@@ -1,41 +1,77 @@
 ---
 title: "Political Parties"
-heading: "Essay 8 by David Hume Part 1"
-description: "Political Parties in general"
+heading: "Essay 8 by David Hume Simplified"
+description: "Of all men, that distinguish themselves by memorable achievements, the first place of honour seems due to LEGISLATORS and founders of states, who transmit a system of laws and institutions to secure the peace, happiness, and liberty of future generations"
 image: /covers/essays.jpg
-date: "2020-01-12"
-linkf: "/research/hume/essays/part-1/7-britain-monarchy-republic"
-linkftext: "britain-monarchy-republic"
-linkb: "/research/hume/essays/part-1/9-british-parties"
-linkbtext: "british-parties"
+date: 2020-12-16
+author: David Hume
+icons: /icons/hume.png
 --- 
 
 
 Of all men, that distinguish themselves by memorable achievements, the first place of honour seems due to LEGISLATORS and founders of states, who transmit a system of laws and institutions to secure the peace, happiness, and liberty of future generations. 
 
-The influence of useful inventions in the arts and sciences mgi perhaps, extend farther than that of wise laws, whose effects are limited both in time and place; but the benefit arising from the former, is not so sensible as that which results from the latter. Speculative sciences do, indeed, improve the mind; but this advantage reaches only to a few persons, who have leisure to apply themselves to them. And as to practical arts, which encrease the commodities and enjoyments of life, it is well known, that men’s happiness consists not so much in an abundance of these, as in the peace and security with which they possess them; and those blessings can only be derived from good government. Not to mention, that general virtue and good morals in a state, which are so requisite to happiness, can never arise from the most refined precepts of philosophy, or even the severest injunctions of religion; but must proceed entirely from the virtuous education of youth, the effect of wise laws and institutions. I must, therefore, presume to differ from Lord BACON in this particular, and must regard antiquity as somewhat unjust in its distribution of honours, when it made gods of all the inventors of useful arts, such as CERES, BACCHUS, ÆSCULAPIUS; and dignify legislators, such as ROMULUS and THESEUS, only with the appellation of demigods and heroes.
+The influence of useful inventions in the arts and sciences might perhaps, extend farther than that of wise laws, whose effects are limited both in time and place. 
+
+But the benefit arising from the former, is not so sensible as that which results from the latter. Speculative sciences improve the mind. 
+
+But this advantage reaches only to a few persons, who have leisure to apply themselves to them.
+
+Practical arts encrease the commodities and enjoyments of life. Butmen’s happiness consists not so much in an abundance of these, as in the peace and security with which they possess them. 
+
+Those blessings can only be derived from good government. 
+
+Not to mention, that general virtue and good morals in a state, which are so requisite to happiness, can never arise from the most refined precepts of philosophy, or even the severest injunctions of religion; but must proceed entirely from the virtuous education of youth, the effect of wise laws and institutions. 
+
+I must, therefore, presume to differ from Lord Bacon in this particular. I regard antiquity as somewhat unjust in its distribution of honours, when it made gods of all the inventors of useful arts, such as CERES, BACCHUS, ÆSCULAPIUS; and dignify legislators, such as ROMULUS and THESEUS, only with the appellation of demigods and heroes.
 *41
 
-As much as legislators and founders of states ought to be honoured and respected among men, as much ought the founders of sects and factions to be detested and hated; because the influence of faction is directly contrary to that of laws. Factions subvert government, render laws impotent, and beget the fiercest animosities among men of the same nation, who ought to give mutual assistance and protection to each other. And what should render the founders of parties more odious is, the difficulty of extirpating
-° these weeds, when once they have taken root in any state. They naturally propagate themselves for many centuries, and seldom end but by the total dissolution of that government, in which they are sown. They are, besides, plants which grow most plentifully in the richest soil; and though absolute governments be not wholly free from them, it must be confessed, that they rise more easily, and propagate themselves faster in free governments, where they always infect the legislature itself, which alone could be able, by the steady application of rewards and punishments, to eradicate them.
+As much as legislators and founders of states ought to be honoured and respected among men, as much ought the founders of sects and factions to be detested and hated; because the influence of faction is directly contrary to that of laws. Factions subvert government, render laws impotent, and beget the fiercest animosities among men of the same nation, who ought to give mutual assistance and protection to each other.
+
+What should render the founders of parties more odious is, the difficulty of extirpating ° these weeds, when once they have taken root in any state. They naturally propagate themselves for many centuries, and seldom end but by the total dissolution of that government, in which they are sown. 
+
+They are, besides, plants which grow most plentifully in the richest soil; and though absolute governments be not wholly free from them, it must be confessed, that they rise more easily, and propagate themselves faster in free governments, where they always infect the legislature itself, which alone could be able, by the steady application of rewards and punishments, to eradicate them.
 
 
-Factions may be divided into PERSONAL and REAL; that is, into factions, founded on personal friendship or animosity among such as compose the contending parties, and into those founded on some real difference of sentiment or interest. The reason of this distinction is obvious; though I must acknowledge, that parties are seldom found pure and unmixed, either of the one kind or the other. It is not often seen, that a government divides into factions, where there is no difference in the views of the constituent members, either real or apparent, trivial or material: And in those factions, which are founded on the most real and most material difference, there is always observed a great deal of personal animosity or affection. But notwithstanding this mixture, a party may be denominated either personal or real, according to that principle which is predominant, and is found to have the greatest influence.
+## Factions 
+
+Factions may be divided into:
+
+1. PERSONAL
+
+These are founded on personal friendship or animosity among such as compose the contending parties
+
+2. REAL
+
+These are founded on some real difference of sentiment or interest. 
+
+<!-- The reason of this distinction is obvious; though I must acknowledge, that  -->
+
+Parties are seldom found pure and unmixed, either of the one kind or the other. 
+
+It is not often seen, that a government divides into factions, where there is no difference in the views of the constituent members, either real or apparent, trivial or material: And in those factions, which are founded on the most real and most material difference, there is always observed a great deal of personal animosity or affection. But notwithstanding this mixture, a party may be denominated either personal or real, according to that principle which is predominant, and is found to have the greatest influence.
 
 
-Personal factions arise most easily in small republics. Every domestic quarrel, there, becomes an affair of state. Love, vanity, emulation, any passion, as well as ambition and resentment, begets public division. The NERI and BIANCHI of FLORENCE, the FREGOSI and ADORNI of GENOA, the COLONESI and ORSINI of modern ROME, were parties of this kind.
+Personal factions arise most easily in small republics. 
+
+Every domestic quarrel, there, becomes an affair of state. Love, vanity, emulation, any passion, as well as ambition and resentment, begets public division. The NERI and BIANCHI of FLORENCE, the FREGOSI and ADORNI of GENOA, the COLONESI and ORSINI of modern ROME, were parties of this kind.
+
 *42
 
 
 Men have such a propensity to divide into personal factions, that the smallest appearance of real difference will produce them. What can be imagined more trivial than the difference between one colour of livery and another in horse races? Yet this difference begat two most inveterate factions in the GREEK empire, the PRASINI and VENETI, who never suspended their animosities, till they ruined that unhappy government.
+
 *43
 
 
 We find in the ROMAN history a remarkable dissension between two tribes, the POLLIA and PAPIRIA, which continued for the space of near three hundred years, and discovered itself in their suffrages at every election of magistrates.
-*44 This faction was the more remarkable, as it could continue for so long a tract of time; even though it did not spread itself, nor draw any of the other tribes into a share of the quarrel. If mankind had not a strong propensity to such divisions, the indifference of the rest of the community must have suppressed this foolish animosity, that had not any aliment
-° of new benefits and injuries, of general sympathy and antipathy, which never fail to take place, when the whole state is rent into two equal factions.
-a
 
+*44 
+
+This faction was the more remarkable, as it could continue for so long a tract of time; even though it did not spread itself, nor draw any of the other tribes into a share of the quarrel. 
+
+If mankind had not a strong propensity to such divisions, the indifference of the rest of the community must have suppressed this foolish animosity, that had not any aliment° of new benefits and injuries, of general sympathy and antipathy, which never fail to take place, when the whole state is rent into two equal factions.
+a
 
 Nothing is more usual than to see parties, which have begun upon a real difference, continue even after that difference is lost. When men are once inlisted on opposite sides, they contract an affection to the persons with whom they are united, and an animosity against their antagonists: And these passions they often transmit to their posterity. The real difference between GUELF and GHIBBELLINE was long lost in ITALY, before these factions were extinguished. The GUELFS adhered to the pope, the GHIBBELLINES to the emperor; yet the family of SFORZA, who were in alliance with the emperor, though they were GUELFS, being expelled MILAN by the king
 *45 of FRANCE, assisted by JACOMO TRIVULZIO and the GHIBBELLINES, the pope concurred with the latter, and they formed leagues with the pope against the emperor.
@@ -74,26 +110,24 @@ Two men travelling on the highway, the one east, the other west, can easily pass
 ° in a dispute; and hence their impatience of opposition, even in the most speculative and indifferent opinions.
 
 
-This principle, however frivolous it may appear, seems to have been the origin of all religious wars and divisions. But as this principle is universal in human nature, its effects would not have been confined to one age, and to one sect of religion, did it not there concur with other more accidental causes, which raise it to such a height, as to produce the greatest misery and devastation. Most religions of the ancient world arose in the unknown ages of government, when men were as yet barbarous and uninstructed, and the prince, as well as peasant, was disposed to receive, with implicit faith, every pious tale or fiction, which was offered him. The magistrate embraced the religion of the people, and entering cordially into the care of sacred matters, naturally acquired an authority in them, and united the ecclesiastical with the civil power. But the
-Christian religion arising, while principles directly opposite to it were firmly established in the polite part of the world, who despised the nation that first broached this novelty; no wonder, that, in such circumstances, it was but little countenanced by the civil magistrate, and that the priesthood was allowed to engross all the authority in the new sect. So bad a use did they make of this power, even in those early times, that the primitive persecutions may, perhaps,
-in part,*49 be ascribed to the violence instilled by them into their followers. And the same principles of priestly government continuing, after Christianity became the established religion, they have engendered a spirit of persecution, which has ever since been the poison of human society, and the source of the most inveterate factions in every government. Such divisions, therefore, on the part of the people, may justly be esteemed factions of
-principle; but, on the part of the priests, who are the prime movers, they are really factions of
-interest.
+This principle, however frivolous it may appear, seems to have been the origin of all religious wars and divisions. But as this principle is universal in human nature, its effects would not have been confined to one age, and to one sect of religion, did it not there concur with other more accidental causes, which raise it to such a height, as to produce the greatest misery and devastation. Most religions of the ancient world arose in the unknown ages of government, when men were as yet barbarous and uninstructed, and the prince, as well as peasant, was disposed to receive, with implicit faith, every pious tale or fiction, which was offered him. The magistrate embraced the religion of the people, and entering cordially into the care of sacred matters, naturally acquired an authority in them, and united the ecclesiastical with the civil power. 
+
+But the Christian religion arising, while principles directly opposite to it were firmly established in the polite part of the world, who despised the nation that first broached this novelty; no wonder, that, in such circumstances, it was but little countenanced by the civil magistrate, and that the priesthood was allowed to engross all the authority in the new sect. So bad a use did they make of this power, even in those early times, that the primitive persecutions may, perhaps, in part,*49 be ascribed to the violence instilled by them into their followers.
+
+The same principles of priestly government continuing, after Christianity became the established religion, they have engendered a spirit of persecution, which has ever since been the poison of human society, and the source of the most inveterate factions in every government. Such divisions, therefore, on the part of the people, may justly be esteemed factions of principle; but, on the part of the priests, who are the prime movers, they are really factions of interest.
 
 
-There is another cause (beside the authority of the priests, and the separation of the ecclesiastical and civil powers) which has contributed to render CHRISTENDOM
-° the scene of religious wars and divisions. Religions, that arise in ages totally ignorant and barbarous, consist mostly of traditional tales and fictions, which may be different in every sect, without being contrary to each other; and even when they are contrary, every one adheres to the tradition of his own sect, without much reasoning or disputation. But as philosophy was widely spread over the world, at the time when Christianity arose, the teachers of the new sect were obliged to form a system of speculative opinions; to divide, with some accuracy, their articles of faith; and to explain, comment, confute, and defend with all the subtilty of argument and science. Hence naturally arose keenness in dispute, when the Christian religion came to be split into new divisions and heresies: And this keenness assisted the priests in their policy, of begetting a mutual hatred and antipathy among their deluded followers. Sects of philosophy, in the ancient world, were more zealous than parties of religion; but in modern times, parties of religion are more furious and enraged than the most cruel factions that ever arose from interest and ambition.
+There is another cause (beside the authority of the priests, and the separation of the ecclesiastical and civil powers) which has contributed to render CHRISTENDOM° the scene of religious wars and divisions. Religions, that arise in ages totally ignorant and barbarous, consist mostly of traditional tales and fictions, which may be different in every sect, without being contrary to each other; and even when they are contrary, every one adheres to the tradition of his own sect, without much reasoning or disputation. But as philosophy was widely spread over the world, at the time when Christianity arose, the teachers of the new sect were obliged to form a system of speculative opinions; to divide, with some accuracy, their articles of faith; and to explain, comment, confute, and defend with all the subtilty of argument and science. Hence naturally arose keenness in dispute, when the Christian religion came to be split into new divisions and heresies: And this keenness assisted the priests in their policy, of begetting a mutual hatred and antipathy among their deluded followers. Sects of philosophy, in the ancient world, were more zealous than parties of religion; but in modern times, parties of religion are more furious and enraged than the most cruel factions that ever arose from interest and ambition.
 
 
-I have mentioned parties from
-affection as a kind of
-real parties, beside those from
-interest and
-principle. By parties from affection, I understand those which are founded on the different attachments of men towards particular families and persons, whom they desire to rule over them. These factions are often very violent; though, I must own, it may seem unaccountable, that men should attach themselves so strongly to persons, with whom they are no wise acquainted, whom perhaps they never saw, and from whom they never received, nor can ever hope for any favour. Yet this we often find to be the case, and even with men, who, on other occasions, discover no great generosity of spirit, nor are found to be easily transported by friendship beyond their own interest. We are apt to think the relation between us and our sovereign very close and intimate. The splendour of majesty and power bestows an importance on the fortunes even of a single person. And when a man’s good-nature does not give him this imaginary interest, his ill-nature will, from spite and opposition to persons whose sentiments are different from his own.
+I have mentioned parties from affection as a kind of real parties, beside those from interest and principle. By parties from affection, I understand those which are founded on the different attachments of men towards particular families and persons, whom they desire to rule over them. These factions are often very violent; though, I must own, it may seem unaccountable, that men should attach themselves so strongly to persons, with whom they are no wise acquainted, whom perhaps they never saw, and from whom they never received, nor can ever hope for any favour. 
+
+Yet this we often find to be the case, and even with men, who, on other occasions, discover no great generosity of spirit, nor are found to be easily transported by friendship beyond their own interest. We are apt to think the relation between us and our sovereign very close and intimate. The splendour of majesty and power bestows an importance on the fortunes even of a single person. And when a man’s good-nature does not give him this imaginary interest, his ill-nature will, from spite and opposition to persons whose sentiments are different from his own.
 
 
 41.
 [See Francis Bacon (1561-1626),
+
 Advancement of Learning, bk. 1. This work was published in 1605. Ceres, Bacchus, and Aesculapius were, respectively, Roman deities of crops, of wine, and of healing. Romulus, the legendary co-founder of Rome, and Theseus, legendary hero and king of Athens, were supposedly offsprings of gods.]
 
 42.
@@ -115,9 +149,10 @@ venit: Ea multitudo, veste mutata, & specie reorum tribus circuit, genibus se om
 antiquarunt legem. POLLIÆ
 sententia fuit, puberes verberatos necari, liberos conjugesque sub corona lege belli venire: Memoriamque ejus iræ TUSCULANIS
 in pænæ tam atrocis auctores mansisse ad patris ætatem constat; nec quemquam fere ex POLLIA
-tribu candidatum PAPIRAM
-ferre solitam, T. LIVII, lib. 8. [Livy,
-History of Rome 8.37: “The citizens of Tusculum, with their wives and children, came to Rome; and the great throng, putting on the sordid raiment of defendants, went about amongst the tribes and clasped the knees of the citizens in supplication. And it so happened that pity was more effective in gaining them remission of their punishment than were their arguments in clearing away the charges. All the tribes rejected the proposal, save only the Pollian, which voted that the grown men should be scourged and put to death, and their wives and children sold at auction under the laws of war. It seems that the resentment engendered in the Tusculans by so cruel a proposal lasted down to our fathers’ time, and that a candidate of the Pollian tribe almost never got the vote of the Papirian” (Loeb translation by B. O. Foster). The Tusculans, upon gaining Roman citizenship, were enrolled in the Papirian tribe, whose vote they were able to control.] The CASTELANI and NICOLLOTI are two mobbish factions in VENICE, who frequently box together, and then lay aside their quarrels presently.
+tribu candidatum PAPIRAM ferre solitam, T. LIVII, lib. 8. [Livy,
+History of Rome 8.37: 
+
+“The citizens of Tusculum, with their wives and children, came to Rome; and the great throng, putting on the sordid raiment of defendants, went about amongst the tribes and clasped the knees of the citizens in supplication. And it so happened that pity was more effective in gaining them remission of their punishment than were their arguments in clearing away the charges. All the tribes rejected the proposal, save only the Pollian, which voted that the grown men should be scourged and put to death, and their wives and children sold at auction under the laws of war. It seems that the resentment engendered in the Tusculans by so cruel a proposal lasted down to our fathers’ time, and that a candidate of the Pollian tribe almost never got the vote of the Papirian” (Loeb translation by B. O. Foster). The Tusculans, upon gaining Roman citizenship, were enrolled in the Papirian tribe, whose vote they were able to control.] The CASTELANI and NICOLLOTI are two mobbish factions in VENICE, who frequently box together, and then lay aside their quarrels presently.
 b
 
 45.

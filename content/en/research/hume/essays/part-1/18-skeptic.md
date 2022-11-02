@@ -1,13 +1,11 @@
 ---
 title: "The Skeptic"
-heading: "Essay 18 (Part 1)"
+heading: "Essay 18 Simplified"
 description: "Skeptic"
 image: /covers/essays.jpg
-date: "2020-01-14"
-linkb: "/research/hume/essays/part-1/17-platonist"
-linkbtext: "The Platonist"
-linkf: "/research/hume/essays/part-1/19-polygamy-divorce"
-linkftext: "Polygamy Divorce"
+date: 2020-11-24
+author: David Hume
+icons: /icons/hume.png
 --- 
 
 

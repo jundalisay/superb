@@ -3,15 +3,11 @@ title: "Dignity and Meanness Of Human Nature"
 heading: "Essay 11 by David Hume from Part 1"
 description: "Are Humans Inherently Good or Bad?"
 image: /covers/essays.jpg
-date: "2020-01-11"
-linkb: "/research/hume/essays/part-1/10-superstition-enthusiasm"
-linkbtext: "Superstition-enthusiasm"
-linkf: "/research/hume/essays/part-1/12-civil-liberty"
-linkftext: "Civil liberty"
-aliases:
-  /research/hume/essays/part-1/dignity-and-meanness-of-human-nature
-  /research/hume/essays/part-1/11-dignity-and-meanness-of-human-nature  
+date: 2020-12-10
+author: David Hume
+icons: /icons/hume.png
 --- 
+
 
 Intellectual sects and political factions secretly form. Sometimes they do not come to an open rupture. But they give a different turn to the ways of thinking of those who have taken part on either side.
 
@@ -48,7 +44,9 @@ We destroy it by forming a new and secret comparison between man and beings of t
 
 Man falls much more short of his own ideas of perfect wisdom than animals fall short of normal human wisdom. Yet the difference between animal and human wisdom is so considerable, that it makes the difference between the wisdom between men seem insignificant. We find very few wise men and so we think that humans are not wise in general.
 
-This fallacy is exposed by the fact that 'wise' and 'virtuous' are not annexed to wisdom and virtue. Instead, they arise from our comparison between one man and another. When call a man wise if we find his wisdom to be very uncommon. Saying that there are few wise men in the world is really to say nothing since it is only by their scarcity, that they get called wise. If our least wise were as wise as Tully or lord Bacon, we would still have reason to say that there are few wise men. 
+This fallacy is exposed by the fact that 'wise' and 'virtuous' are not annexed to wisdom and virtue. 
+
+Instead, they arise from our comparison between one man and another. When call a man wise if we find his wisdom to be very uncommon. Saying that there are few wise men in the world is really to say nothing since it is only by their scarcity, that they get called wise. If our least wise were as wise as Tully or lord Bacon, we would still have reason to say that there are few wise men. 
 
 For in that case we should exalt our notions of wisdom, and should not pay a singular honour to any one, who was not singularly distinguished by his talents. 
 

@@ -1,13 +1,11 @@
 ---
-title: "Sensitive People"
-heading:"Essay 1: The Delicacy of Taste and Passion (Part 1)"
-description: "Sensitive People"
+title: "The Delicacy of Taste and Passion [Sensitive People]"
+heading: "Essay 1"
+description: "Some people are extremely sensitive to all the accidents of life. It gives them joy on every prosperous event, as well as grief on misfortunes and adversity"
 image: /covers/essays.jpg
-date: "2020-01-01"
-linkb: "/research/hume/essays"
-linkbtext: "Hume Essays"
-linkf: "/research/hume/essays/part-1/2-freedom-of-the-press"
-linkftext: "freedom of the press"
+date: 2020-12-31
+author: David Hume
+icon: /icons/hume.png
 --- 
 
 

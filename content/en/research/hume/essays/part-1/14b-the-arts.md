@@ -1,14 +1,13 @@
 ---
 title: "The Rise And Progress Of The Arts"
-heading: "Essay 14b by David Hume (Part 1)"
+heading: "Essay 14b by David Hume Simplified"
 description: "The Rise And Progress Of The Arts"
 image: /covers/essays.jpg
-date: "2020-01-14"
-linkb: "/research/hume/essays/part-1/14a-the-sciences"
-linkbtext: "the-sciences"
-linkf: "/research/hume/essays/part-1/15-epicurean"
-linkftext: "epicurean"
----
+date: 2020-12-04
+author: David Hume
+icons: /icons/hume.png
+--- 
+
 
 
 Monarchies get their foundation from a superstitious reverence to priests and princes who have commonly abridged the liberty of reasoning on religion and politics, and consequently on metaphysics and morals. 
@@ -27,7 +26,9 @@ Where power rises upwards from the people to the great, as in all republics, suc
 
 The great, by the superiority of their station. 
 
-But in a civilized monarchy, there is a long train of dependence from the prince to the peasant, which is not great enough to render property precarious, or depress the minds of the people; but is sufficient to beget in every one an inclination to please his superiors, and to form himself upon those models, which are most acceptable to people of condition and education. Politeness of manners, therefore, arises most naturally in monarchies and courts; and where that flourishes, none of the liberal arts will be altogether neglected or despised. The republics in Europe are at present noted for want of politeness. 
+But in a civilized monarchy, there is a long train of dependence from the prince to the peasant, which is not great enough to render property precarious, or depress the minds of the people; but is sufficient to beget in every one an inclination to please his superiors, and to form himself upon those models, which are most acceptable to people of condition and education. 
+
+Politeness of manners, therefore, arises most naturally in monarchies and courts; and where that flourishes, none of the liberal arts will be altogether neglected or despised. The republics in Europe are at present noted for want of politeness. 
 
 The good-manners of a Swiss civilized in Holland, is an expression for rusticity among the French. 
 The English, in some degree, fall under the same censure, notwithstanding their learning and genius. 

@@ -1,15 +1,13 @@
 ---
 title: "British Political Parties"
-heading: "Essay 9, Part 1"
+heading: "Essay 9 Simplified"
 description: "British Political Parties"
 image: /covers/essays.jpg
-date: "2020-01-12"
-linkf: "/research/hume/essays/part-1/10-superstition-enthusiasm"
-linkftext: Superstition-enthusiasm
-linkb: "/research/hume/essays/part-1/11-dignity-of-human-nature"
-linkbtext: Dignity-of-human-nature
-# btext: Essay 9
+date: 2020-12-14
+author: David Hume
+icons: /icons/hume.png
 --- 
+
 
 The British government is <!--  proposed as a subject of speculation, one would immediately perceive in it --> a source of division and party. <!-- , which it would be almost impossible for it, under any administration, to avoid. --> 
 

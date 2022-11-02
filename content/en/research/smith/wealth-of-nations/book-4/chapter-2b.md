@@ -1,49 +1,57 @@
-+++
-title=  "Free importation"
-heading=  "Chapter 2b of Book 4 "
-date=  2020-03-26
-image=  "/covers/wn.jpg"
-description=  "Merchants and manufacturers derive the greatest advantage from this monopoly of the home-market"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-2a"
-linkbtext=  "Chapter 2a"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-2c"
-linkftext=  "Chapter 2c"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Free importation"
+heading: "Chapter 2b of Book 4"
+description: "Merchants and manufacturers derive the greatest advantage from this monopoly of the home-market"
+image: /covers/wn.jpg
+date: 2020-03-26
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
 
 
 {{< s v="16" >}}} Merchants and manufacturers derive the greatest advantage from this monopoly of the home-market.
 
 The high duties on foreign wheat amount to a ban in times of moderate plenty.
-These duties, with the ban on the importation of foreign cattle and salt, are not so advantageous to British graziers and farmers as other bans are to British merchants and manufacturers.
+- These duties, with the ban on the importation of foreign cattle and salt, are not so advantageous to British graziers and farmers as other bans are to British merchants and manufacturers.
+
 Manufactures, especially those of the finer kind, can be more easily transported than wheat or cattle.
 
 Foreign trade is chiefly employed in the fetching and carrying of manufactures.
-In manufactures, a very small advantage will enable foreigners to undersell our own workers, even in the home-market.
-It will require a very great advantage in the rude produce to enable foreigners to undersell our farmers.
-If the free importation of foreign manufactures were permitted, several of the home manufactures would probably suffer.
 
-Perhaps some of them would go to ruin.
-Their stock and industry would be forced to find other employments.
+In manufactures, a very small advantage will enable foreigners to undersell our own workers, even in the home-market.
+
+It will require a very great advantage in the rude produce to enable foreigners to undersell our farmers.
+
+If the free importation of foreign manufactures were permitted, several of the home manufactures would probably suffer.
+- Perhaps some of them would go to ruin.
+- Their stock and industry would be forced to find other employments.
+
 But the freest importation of the rude produce of the soil could have no such effect on the country's agriculture.
 
 
 {{< s v="17" >}} For example, if the importation of foreign cattle were made free, so few could be imported that the British grazing trade could be little affected by it.
 
 Live cattle are perhaps the only commodity which is more expensive to transport by sea than by land.
-By land, they carry themselves to market.
-By sea, their food and water must be carried with them.
+- By land, they carry themselves to market.
+- By sea, their food and water must be carried with them.
+
 The short sea between Ireland and Great Britain renders Irish cattle importation easier.
-    Their free importation was recently permitted for a limited time.
-    Should it be made permanent, it could have no big effect on the interest of British graziers.
+- Their free importation was recently permitted for a limited time.
+- If it were made permanent, it would have no big effect on the interest of British graziers.
+
 The parts of Britain which border the Irish Sea are all grazing lands.
+
 Irish cattle could never be imported for their labour.
-They must be driven through those extensive lands expensively and inconveniently, before they could arrive at their proper market.
+- They must be driven through those extensive lands expensively and inconveniently, before they could arrive at their proper market.
+
 Fat cattle cannot be driven so far.
 Lean cattle can only be imported.
     Such an importation would not interfere with the interest of the feeding or fattening lands.
     It would be advantageous to the breeding lands because it would reduce the price of the lean cattle it produces.
+
 The free importation of Irish cattle can never affect the breeding lands of Great Britain.
+
 This is proven by:
 - the few Irish cattle imported
 - the consistently good selling price of lean cattle
@@ -120,11 +128,13 @@ Unlike most manufacturers, they have no secrets.
 They are generally fond of communicating and extending to their neighbours any new advantageous practice they find.
 
 Old Cato says "Pius quaestus, stabilissimusque, minimeque invidiosus; minimeque male cogitantes sunt, qui in eo studio occupati sunt." [Farming is the most pious livelihood, the one least likely to provoke envy, and those engaged in it are the least dissatisfied.]
+
 Country gentlemen and farmers are dispersed in the countryside.
-They cannot easily combine as merchants and manufacturers.
+- They cannot easily combine as merchants and manufacturers.
+
 Merchants and manufacturers are collected into towns.
-They are accustomed to that exclusive corporation spirit which prevails in them.
-They naturally try to obtain the same exclusive privilege which they have against the town's people and use those privileges against them.
+- They are accustomed to that exclusive corporation spirit which prevails in them.
+- They naturally try to obtain the same exclusive privilege which they have against the town's people and use those privileges against them.
 
 They were the original inventors of those restraints on foreign imports to secure them the home-market's monopoly.
 British country gentlemen and farmers probably imitated them in demanding the exclusive privilege of supplying their countrymen with wheat and meat.

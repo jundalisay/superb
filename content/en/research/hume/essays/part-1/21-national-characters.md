@@ -4,8 +4,9 @@ heading: "Essay 21 by David Hume of Part 1"
 description: "Each society has a character that may be different from its past or future character"
 image: "/photos/medieval/hitler.jpg"
 # https://sorasystem.sirv.com/photos/medieval/nationalism.jpg"
-date: "2020-01-21"
+date: 2020-11-14
 author: David Hume
+icons: /icons/hume.png
 ---
 
 

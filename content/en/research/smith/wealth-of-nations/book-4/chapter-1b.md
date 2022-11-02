@@ -1,15 +1,13 @@
-+++
-title=  "Effective Demand and the Demand Motive"
-heading=  "Chapter 1b of Book 4 "
-date=  2020-03-30
-image=  "/covers/wn.jpg"
-description=  "The effective demand is the demand of the people who are willing to pay the rent, labour, and profits needed to make them and bring them to market"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-1a"
-linkbtext=  "Chapter 1a"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-1c"
-linkftext=  "Chapter 1c"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Effective Demand and the Demand Motive"
+heading: "Chapter 1b Simplified"
+description: "The effective demand is the demand of the people who are willing to pay the rent, labour, and profits needed to make them and bring them to market"
+image: /covers/wn.jpg
+date: 2020-03-30
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
 
 
 {{< s v="12" >}} The amount of commodities human industry can buy or produce is naturally regulated by the effective demand in every country.
@@ -23,20 +21,24 @@ For example, if there were an effective demand for more gold in England, a packe
 But if there were an effective demand for grain worth 5 million guineas, importing it at 5 guineas a ton would require 1 million tons of shipping or 1,000 ships of 1,000 tons each. The navy of England would be insufficient.
 
 
-13 When the amount of gold and silver imported into any country exceeds the effective demand, no government vigilance can prevent their exportation.
+{{< s v="13" >}} When the amount of gold and silver imported into any country exceeds the effective demand, no government vigilance can prevent their exportation.
 
 All the sanguinary laws of Spain and Portugal are unable to keep their gold and silver at home.
 The continual importations from Peru and Brazil exceed Spain and Portugal's effective demand.
+
 The importations sink the price of those metals in Spain and Portugal below those of neighbouring countries.
 On the contrary, if their amount fell short of the effective demand that its price rose above the price of the neighbouring countries, the government would not need to import them.
+
 If the government prevented their importation, it would be unable to prevent it effectively.
 When the Spartans gained the means to buy gold and silver, they broke through all the prohibitions which Lycurgus imposed to prevent their entrance into Sparta.
-All the sanguinary laws of the customs are unable to prevent the importation of the teas of the Dutch and Gottenburgh East India Companies because they are cheaper than the teas of the British company.
-A pound of tea at its highest price of 192 pence, is 100 times bulkier than the silver paid for it.
-It is more than 2,000 times bulkier that the same price in gold
-Consequently, it is so many times more difficult to smuggle.
 
-14 It is partly due to the easy transportation of gold and silver that their price does not fluctuate like the price of other commodities.
+All the sanguinary laws of the customs are unable to prevent the importation of the teas of the Dutch and Gottenburgh East India Companies because they are cheaper than the teas of the British company.
+
+A pound of tea at its highest price of 192 pence, is 100 times bulkier than the silver paid for it.
+- It is more than 2,000 times bulkier that the same price in gold
+- Consequently, it is so many times more difficult to smuggle.
+
+{{< s v="14" >}} It is partly due to the easy transportation of gold and silver that their price does not fluctuate like the price of other commodities.
 
 Other commodities are hindered by their bulk from shifting when the market becomes overstocked or understocked with them.
 The price of those metals also varies.
@@ -54,18 +56,21 @@ But if metal money is wanted, barter will supply its place, though with much inc
 
 ## The Scarcity of Money
 
-16 The scarcity of money is the most common complaint.
+{{< s v="16" >}} The scarcity of money is the most common complaint.
 
 Money, like wine, must always be scarce with those who do not have the means to buy it nor credit to borrow it.
 Those who have the means or credit will seldom be short of the money or wine that they need.
 This complaint of the scarcity of money is not always confined to wasteful people.
 It is sometimes general throughout a whole mercantile town and the country.
 Over-trading is the common cause of it.
+
 Sober men, whose projects cost more than their capitals, will likely have no means to buy money nor credit to borrow money.
 They are like prodigals whose expence has exceeded to their revenue.
 Before their projects can be brought to bear, their stock is gone, and their credit with it.
+
 They run everywhere to borrow money.
-    Everybody tells them they have none to lend.
+- Everybody tells them they have none to lend.
+
 Such complaints do not always prove that gold and silver are not circulating in the country.
 It only proves that the many people who want money have nothing to give for them.
 
@@ -80,7 +85,7 @@ the difficulty which their creditors find in getting payment.
 The scarcity of money is not caused by any scarcity of money.
 
 
-17 It would be too ridiculous to prove that wealth only consists in goods and not in money.
+{{< s v="17" >}} It would be too ridiculous to prove that wealth only consists in goods and not in money.
 
 Money always makes a part of the national capital.
 But it generally makes but a small of it.

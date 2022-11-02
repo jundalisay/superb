@@ -1,13 +1,11 @@
 ---
 title: "The Indepdendence of Parliament"
 heading: "Essay 6 Part 1"
-description: "The Indepdendence of Parliament"
+description: "Political writers have  a maxim: In contriving any system of government and fixing the checks and controls of the constitution, every man should be supposed a knave, and have only private interest in all his actions"
 image: /covers/essays.jpg
-date: "2020-01-05"
-linkb: "/research/hume/essays/part-1/5-origin-of-government"
-linkbtext: Origin-of-government
-linkf: "/research/hume/essays/part-1/7-britain-monarchy-republic"
-linkftext: Ideal-system-of-government
+date: 2020-12-20
+author: David Hume
+icons: /icons/hume.png
 ---
 
 

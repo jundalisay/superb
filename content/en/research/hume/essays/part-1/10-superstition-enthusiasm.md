@@ -3,12 +3,11 @@ title: "Superstition and Enthusiasm"
 heading: "Essay 10 by David Hume (Part 1)"
 description: "Three reasons against superstition"
 image: /covers/essays.jpg
-date: "2020-01-10"
-linkb: "/research/hume/essays/part-1/9-british-parties"
-linkbtext: "british-parties"
-linkf: "/research/hume/essays/part-1/11-dignity-of-human-nature"
-linkftext: "Civil liberty"
+date: 2020-12-12
+author: David Hume
+icons: /icons/hume.png
 --- 
+
 
 
 A maxim states that the corruption of the best things produces the worst things. This is true in the corruptions of true religion into superstition and enthusiasm.

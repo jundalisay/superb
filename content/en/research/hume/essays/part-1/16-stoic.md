@@ -3,11 +3,9 @@ title: "The Stoic"
 heading: "Essay 16, Part 1"
 description: "The Stoic"
 image: /covers/essays.jpg
-date: "2020-01-01"
-linkb: "/research/hume/essays/part-1/15-epicurean"
-linkbtext: "Epicurean"
-linkf: "/research/hume/essays/part-1/17-platonist"
-linkftext: "The Platonist"
+date: 2020-12-01
+author: David Hume
+icons: /icons/hume.png
 --- 
 
 <!-- There is this obvious and material difference in the conduct of nature, with regard to man and other animals -->

@@ -1,17 +1,12 @@
 ---
 title: "The Freedom of the Press"
-heading: "Essay 2 by David Hume Part 1"
+heading: "Essay 2 by David Hume"
 description: "Great Britain enjoys the Freedom of the Press because its government is mixed"
 image: /covers/essays.jpg
-date: "2020-01-02"
-linkb: "/research/hume/essays/part-1/1-sensitive-people"
-linkbtext: "sensitive-people"
-linkf: "/research/hume/essays/part-1/3-politics"
-linkftext: "Freedom of the Press"
+date: 2020-12-28
 youtube: "UpwdTIAcLVY"
-icon: https://sorasystem.sirv.com/avatars/hume.png
-linkbook: https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Treatise_of_Human_Natur?id=iF_XDwAAQBAJ
-linkbooktext: Support Superphysics by buying the ebook
+author: David Hume
+icon: /icons/hume.png
 ---
 
 
@@ -37,11 +32,13 @@ Thus, the two extremes of absolute monarchy and of a republic, approach near to 
 
 To justify the other part of the foregoing observation, that, in every government, the means are most wide of each other, and that the mixtures of monarchy and liberty render the yoke either more easy or more grievous;
 
-I must take notice of a remark in Tacitus with regard to the Romans under the emperors, that they neither could bear total slavery nor total liberty, Nec totam servitutem, nec totam libertatem pati possunt.2 This remark a celebrated poet has translated and applied to the English, in his lively description of queen Elizabeth’s policy and government.
+Tacitus remarked that the Romans under the emperors neither could bear total slavery nor total liberty. <!-- , Nec totam servitutem, nec totam libertatem pati possunt.2 --> A celebrated poet has applied this <!--  to the English, in his lively description of --> to queen Elizabeth’s policy and government.
 
 <!-- Et fit aimer son joug a l’Anglois indompté, Qui ne peut ni servir, ni vivre en liberté, Henriade, liv. I.3 -->
 
-According to these remarks, we are to consider the Roman government under the emperors as a mixture of despotism and liberty, where the despotism prevailed; and the English government as a mixture of the same kind, where the liberty predominates.
+According to these remarks, the imperial Roman government was a mixture of despotism and liberty, where the despotism prevailed.
+
+The English government is a same kind of mixture where liberty predominates.
 
 The consequences are conformable to the foregoing observation; and such as may be expected from those mixed forms of government, which beget a mutual watchfulness and jealousy. 
 

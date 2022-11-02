@@ -3,11 +3,9 @@ title: "Argument for and Against Divorce"
 heading: "Essay 19b (Part 1)"
 description: "The Rise And Progress Of The Arts"
 image: /covers/essays.jpg
-date: "2020-01-14"
-linkb: "/research/hume/essays/part-1/19-polygamy-divorce"
-linkbtext: "Polygamy-divorce"
-linkf: "/research/hume/essays/part-1/20-simplicity-in-writing"
-linkftext: "Simplicity-in-writing"
+date: 2020-11-18
+author: David Hume
+icons: /icons/hume.png
 --- 
 
 

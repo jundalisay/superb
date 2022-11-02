@@ -1,14 +1,13 @@
 ---
 title: "Eloquence"
-heading: "Essay 13 by David Hume of Part 1"
+heading: "Essay 13 by David Hume Simplified"
 description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
 image: /covers/essays.jpg
-date: "2020-01-13"
-linkb: "/research/hume/essays/part-1/12-civil-liberty"
-linkbtext: "civil-liberty"
-linkf: "/research/hume/essays/part-1/14a-the-sciences"
-linkftext: "the sciences"
+date: 2020-12-08
+author: David Hume
+icons: /icons/hume.png
 --- 
+
 
 
 The revolutions and periods in human history are full of variety and surprize in the manners, customs, and opinions<!--  of the same species susceptible of such prodigious changes in different periods of time -->.

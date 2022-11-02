@@ -1,13 +1,11 @@
 ---
 title: "Politics May Be Reduced To a Science"
-heading: "Essay 3 by David Hume Part 1"
-description: "Politics Can be Reduced to a Science"
+heading: "Essay 3 by David Hume"
+description: "It is wrong to say that all governments are alike, and that their only difference is in the character and conduct of the governors. If this were true, then most political disputes would end and there would be just one constitution for all"
 image: /covers/essays.jpg
-date: "2020-01-12"
-linkb: "/research/hume/essays/part-1/2-freedom-of-the-press"
-linkbtext: "Hume Essays"
-linkf: "/research/hume/essays/part-1/4-first-principles-government"
-linkftext: "Principles of government"
+date: 2020-12-26
+author: David Hume
+icon: /icons/hume.png
 --- 
 
 

@@ -1,13 +1,11 @@
 ---
 title: "Polygamy and Marriage"
-heading: "Essay 19a (Part 1)"
+heading: "Essay 19a Simplified"
 description: "Polygamy increases barbarism"
 image: /covers/essays.jpg
-date: "2020-01-14"
-linkb: "/research/hume/essays/part-1/18-skeptic"
-linkbtext: "The Skeptic"
-linkf: "/research/hume/essays/part-1/19b-divorce"
-linkftext: "Divorce"
+date: 2020-11-20
+author: David Hume
+icons: /icons/hume.png
 --- 
 
 
@@ -28,10 +26,9 @@ Despite this precarious engagement, they are assured of the strictest fidelity t
 The republic of Athens lost many of its citizens by war and pestilence, so they allowed every man to marry two wives, in order to repopulate sooner. The poet Euripides married two noisy Vixens who so plagued him with their jealousies and quarrels. This made him a professed woman-hater. He is the only theatrical writer and poet that ever had an aversion to women.
 
 In that agreeable romance, called the History of the Sevarambians, where many men and a few women are supposed to be shipwrecked on a desert coast; 
+
 the captain of the troop, in order to obviate those endless quarrels which  arose, regulates their marriages after the following manner: 
-He takes a beautiful female to himself alone
-He assigns one to every couple of inferior officers; 
-and to five of the lowest rank he gives one wife in common.
+He takes a beautiful female to himself alone He assigns one to every couple of inferior officers;  and to five of the lowest rank he gives one wife in common.
 
 The ancient Britons had a kind of marriage that did not exist anywhere else. A dozen men formed a society for mutual defence in those barbarous times. They took a dozen wives in common. The children of those women belonged to all of them and were provided for by the whole community.
 

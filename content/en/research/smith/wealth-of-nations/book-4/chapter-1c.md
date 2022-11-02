@@ -1,15 +1,12 @@
-+++
-title=  "Money supply"
-heading=  "Chapter 1c of Book 4 "
-date=  2020-03-29
-image=  "/covers/wn.jpg"
-description=  "Not much can be spared from the circulating money of the country because there is seldom much redundancy"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-1b"
-linkbtext=  "Chapter 1b"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-1d"
-linkftext=  "Chapter 1d"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Money supply"
+heading: "Chapter 1c Simplified"
+description: "Not much can be spared from the circulating money of the country because there is seldom much redundancy"
+image: /covers/wn.jpg
+date: 2020-03-26
+author: Adam Smith
+icons: /icons/smith.png
+--- 
 
 
 {{< s v="19" >}} People say that:
@@ -25,7 +22,7 @@ If English hardware were not continually exported, it might accumulate for ages 
 
 But the number of such pots in every country is limited by the need for them. It would be absurd to have more pots and pans than necessary for cooking food. If the quantity of food increased, the number of pots and pans would increase with it. The additional food would maintain more workers who made those additional pots and pans. The quantity of gold and silver in every country is limited by the need for those metals.
 
-They are used= 
+They are used;
 - as coin money which circulate commodities
 - as plates used as furniture
 
@@ -35,26 +32,25 @@ Increase the value of commodities and some of those commodities will be immediat
 The quantity of plate is regulated by the number and wealth of those families who indulge them.
 Increase the number and wealth of such families, and this increased wealth will probably be used to buy more plates.
 Increasing the wealth of any country by introducing or detaining an unnecessary amount of gold and silver, is as absurd as increasing the good cheer of private families by obliging them to keep an unnecessary number of kitchen plates.
+
 The expence of buying those unnecessary plates would reduce the amount and goodness of the family's food.
 The expence of buying an unnecessary quantity of gold and silver must reduce the wealth which feeds, clothes, lodges, maintains, and employs the people in every country.
+
 It must be remembered that gold and silver, whether in coin or plate, are utensils like the utensils of the kitchen.
 Increase the consumable goods to be circulated, managed, and prepared by gold and silver, and you will infallibly increase the use and amout of gold and silver
 
 But if you unnaturally increase the amount of gold and silver, you will infallibly reduce the use and amout of gold and silver
-If gold and silver were accumulated beyond the amount needed, no law could prevent them from being immediately sent out of the country because= 
+If gold and silver were accumulated beyond the amount needed, no law could prevent them from being immediately sent out of the country because:
 - their transportation is so easy
 - the loss in their lying unemployed is so great
 
-<br>
-<br>
+
 
 20 It is not always necessary to accumulate gold and silver to carry on foreign wars and maintain fleets and armies in distant countries.
 
 Fleets and armies are maintained with consumable goods, not with gold and silver.
 The nation which has more than sufficient domestic industry can maintain foreign wars in distant countries because it has the means to buy consumable goods in those distant countries.
 
-<br>
-<br>
 
 21 A nation may purchase the pay and provisions of an army in a distant country by sending abroad= 
 
@@ -226,7 +222,9 @@ The quantity of the circulating money then must have borne a bigger proportion t
 This is because there was then no paper which now performs the job of gold and silver.
 Among nations with little commerce and manufactures, the sovereign can seldom draw any considerable aid from his subjects during war.
 In such countries, accumulated treasure is the only resource against such emergencies.
+
 He is thus naturally parsimonious.
+
 In that simple state, the sovereign's expences are directed in the bounty to his tenants and hospitality to his retainers.
     It is not directed by his vanity.
     But bounty and hospitality very seldom lead to extravagance.
@@ -235,11 +233,14 @@ Every Russian chief has a treasure.
 Ivan Mazepa was the chief of the Cossacks in the Ukraine
     He was the famous ally of Charles the 12th.
     He had a very great treasure.
+
 The French kings of the Merovingian race all had treasures.
+
 When they divided their kingdom among their children, they divided their treasure too.
 The Saxon princes and the first kings after the Conquest also accumulated treasures.
 Seizing the treasure of the preceding king was the most essential measure for securing succession.
 It was the first exploit of every new reign.
+
 The sovereigns of improved and commercial countries do not need to accumulate treasures.
 They can draw from their subjects extraordinary aid on extraordinary occasions.
 Without the need for treasure, their expence becomes regulated by the same vanity which directs other great proprietors.

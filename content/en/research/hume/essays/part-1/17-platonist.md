@@ -1,13 +1,11 @@
 ---
 title: "The Platonist"
-heading: "Essay 17 Part 1"
-description: "The Platonist"
+heading: "Essay 17 Simplified"
+description: "Some philosophers are surprised that a man differs so widely from himself at different times. He rejects with disdain what, before, was the object of all his wishes"
 image: /covers/essays.jpg
-date: "2020-01-14"
-linkb: "/research/hume/essays/part-1/16-stoic"
-linkbtext: "The Stoic"
-linkf: "/research/hume/essays/part-1/18-skeptic"
-linkftext: "The Skeptic"
+date: 2020-11-28
+author: David Hume
+icons: /icons/hume.png
 --- 
 
 

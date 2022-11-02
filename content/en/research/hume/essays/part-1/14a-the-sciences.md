@@ -1,13 +1,13 @@
 ---
 title: "The Rise And Progress Of The Sciences"
-heading: "Essay 14 (Part 1)"
+heading: "Essay 14 Simplified"
 description: "The Rise And Progress Of The Sciences"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-1/13-eloquence"
-linkbtext: "eloquence"
-linkf: "/research/hume/essays/part-1/14b-the-arts"
-linkftext: "The arts"
+date: 2020-12-06
+author: David Hume
+icons: /icons/hume.png
 --- 
+
 
 
 In human affairs, the discernment of what comes from chance and what comes from causes requires the most refinement. An author will likely deceive himself by false subtilties and refinements in this. 
