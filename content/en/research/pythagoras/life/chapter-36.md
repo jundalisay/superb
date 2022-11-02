@@ -1,20 +1,15 @@
-+++
-title= "The Successors to Pythagoras"
-heading = "Chapter 36"
-date= 2015-09-03
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Aristæus was the successor of Pythagoras. He was the son of Damophon the Crotonian, who lived at the same time as Pythagoras, was seven ages prior to Plato"
-linkb= "/research/pythagoras/life/chapter-35"
-linkbtext= "Chapter 35"
-linkf= "/research/pythagoras/life/"
-linkftext= "Index"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-aliases= [
-  "/research/pythagoras/iamblichus/chapter-36"
-]
-+++
+---
+title: "The Successors to Pythagoras"
+heading: "Chapter 36"
+description: "Aristæus was the successor of Pythagoras. He was the son of Damophon the Crotonian, who lived at the same time as Pythagoras, was seven ages prior to Plato"
+date: "2015-09-03"
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+aliases:
+  /research/pythagoras/iamblichus/chapter-36
+--- 
+
+
 
 Aristæus was the successor of Pythagoras. 
 

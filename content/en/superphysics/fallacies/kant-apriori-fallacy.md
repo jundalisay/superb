@@ -4,10 +4,6 @@ heading: It's a German Thing
 date: 2019-06-10
 image: /covers/kant.jpg
 description: "Kant's A Priori is a Fallacy caused by his arbitrary definition of it"
-linkb: "/superphysics/principles/moral-consequentialism"
-linkbtext: "moral-consequentialism"
-linkf: "/superphysics/solutions/ideology-matrix"
-linkftext: "ideology-matrix"
 author: Juan
 icon: /icons/sp.png
 aliases:

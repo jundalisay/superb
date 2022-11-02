@@ -5,6 +5,7 @@ image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32h"
 date: 2020-11-20
+author: Ibn Khaldun
 ---
 
 
@@ -49,37 +50,54 @@ The admiralty is one of the ranks and functions of the dynasty in the realm of t
 
 The rank (of admiral) is restricted to the realm of Ifriqiyah and the Maghrib, because both Ifriqiyah and the Maghrib are on the southern shore of the Mediterranean. Along its southern shore the lands of the Berbers extend from Ceuta to Alexandria and on to Syria. Along its northern shore are the countries of Spain and of the European Christians (Franks), the Slavs, and the Byzantines, also extending to Syria. 
 
-It is called the Byzantine Sea or the Syrian Sea, 517 according to the people who inhabit its shores. Those who live along the coast and on the shores of both sides of the Mediterranean are more concerned with (maritime) conditions than any other maritime nation.
+It is called the Byzantine Sea or the Syrian Sea 517 by the people who inhabit its shores. Those who live along the coast and on the shores of both sides of the Mediterranean are more concerned with (maritime) conditions than any other maritime nation.
 
-The Byzantines, the European Christians, and the Goths lived on the northern shore of the Mediterranean. Most of their wars and most of their commerce was bysea. They were skilled in navigating (the Mediterranean) and in naval war. When these people coveted the possession of the southern shore, as the Byzantines (coveted) Ifriqiyah and as the Goths (coveted) the Maghrib, they crossed over in their fleets and took possession of it. 
+The Byzantines, the European Christians, and the Goths lived on the northern shore of the Mediterranean. 
 
-Thus, they achieved superiority over the Berbers and deprived them of their power. They had populous cities there, such as Carthage, Sbeitla, Jalula, 518 Murnaq, 519 Cherchel, and Tangier. The ancient master of Carthage used to fight the master of Rome and to send fleets loaded with armies and equipment to wage war against him. Thus, (seafaring) is a custom of the inhabitants of both shores of the Mediterranean, which was known in ancient as in modern times.
+Most of their wars and their commerce was by sea. They were skilled in navigating the Mediterranean and in naval war. 
 
-When the Muslims took possession of Egypt, Umar b. al-Khattab wrote to 'Amr b. al-'As and asked him to describe the sea to him. Amr replied: "The sea is a great creature upon which weak creatures ride -like worms upon a piece of wood."
+When these people coveted the possession of the southern shore, as the Byzantines (coveted) Ifriqiyah and as the Goths (coveted) the Maghrib, they crossed over in their fleets and took possession of it. 
+
+Thus, they achieved superiority over the Berbers and deprived them of their power. 
+
+They had populous cities there, such as Carthage, Sbeitla, Jalula, 518 Murnaq, 519 Cherchel, and Tangier. 
+
+The ancient master of Carthage used to fight the master of Rome and to send fleets loaded with armies and equipment to wage war against him.
+
+Thus, seafaring is a custom of the inhabitants of both shores of the Mediterranean, which was known in ancient as in modern times.
+
+When the Muslims conquered Egypt, Umar b. al-Khattab wrote to Amr b. al-As and asked him to describe the sea. 
+
+Amr replied: "The sea is a great creature upon which weak creatures ride -like worms upon a piece of wood."
 
 <!-- 520  -->
 
-Thus, he recommended at that time that the Muslims be kept away from seafaring. No Arab traveled by sea save those who did so without 'Umar's knowledge and were punished by him for it. 'Umar thus punished 'Arfajah b. Harthamah al-Azdi, the chief of the Bajilah. <!-- 521  -->
+Thus, he recommended at that time that the Muslims be kept away from seafaring. No Arab traveled by sea save those who did so without 'Umar's knowledge and were punished by him for it. 
 
-He sent him on a raid against Oman, and he learned (later that he had raided it by sea). 522 He disapproved of his having made the raid by sea, and told him so in no uncertain terms. Thus it remained until
-Mu'awiyah's reign. He permitted the Muslims to go by sea and to wage the holy war
-in ships. 
+Umar thus punished 'Arfajah b. Harthamah al-Azdi, the chief of the Bajilah. <!-- 521  -->
 
-This was because of their Bedouin attitude. This made the Arabs first not skilled in navigation and seafaring, whereas the Byzantines and the European Christians, on account of their experience of the sea and the fact that they had grown up traveling in ships, were used to the sea and well trained in navigation. 
+He sent him on a raid against Oman, and he learned (later that he had raided it by sea). 522 He disapproved of his having made the raid by sea, and told him so in no uncertain terms. Thus it remained until Mu'awiyah's reign. He permitted the Muslims to go by sea and to wage the holy war in ships. 
+
+This was because of their Bedouin attitude. 
+
+This made the Arabs first not skilled in navigation and seafaring, whereas the Byzantines and the European Christians, on account of their experience of the sea and the fact that they had grown up traveling in ships, were used to the sea and well trained in navigation. 
 
 <!-- The royal and governmental authority of the Arabs became firmly established and powerful at that time. The nonArab nations became servants of the Arabs and
 were under their control. Every craftsman offered them his best services.  -->
 
-The Arabs employed seagoing nations for their maritime needs. Their own experience of the sea and of navigation grew, and they turned out to be very expert. They wished to wage the holy war by sea. They constructed ships and galleys and loaded the fleet with men and weapons. They embarked the army and fighters to fight against the unbelievers across the sea. This was the special concern of the provinces and border regions closest to the shores of the Mediterranean, such as Syria, Ifriqiyah, the Maghrib, and Spain. 
+The Arabs employed seagoing nations for their maritime needs. 
 
-The caliph 'Abdal-Malik recommended to Hassan b. an-Nu'man, 523 the governor of Ifriqiyah, that a shipyard 524 be set up in Tunis for the production of maritime implements, as he was desirous of waging the holy war.
+Their own experience of the sea and of navigation grew, and they turned out to be very expert. They wished to wage the holy war by sea. They constructed ships and galleys and loaded the fleet with men and weapons. They embarked the army and fighters to fight against the unbelievers across the sea. This was the special concern of the provinces and border regions closest to the shores of the Mediterranean, such as Syria, Ifriqiyah, the Maghrib, and Spain. 
+
+The caliph Abdal-Malik recommended to Hassan b. an-Numan, 523 the governor of Ifriqiyah, that a shipyard 524 be set up in Tunis to produce maritime implements, as he wanted to wage the holy war.
 
 From there, the conquest of Sicily was achieved in the days of Ziyadat-Allah I b. Ibrahim b. al-Aghlab under the leadership of the chief mufti, Asad b. al-Furat 525 Pantelleria 526 also was conquered in his day. Mu'awiyah b. IIudayj 527 had been sent on a raid against Sicily in the days of Mu'awiyah b. Abi Sufyan, but God had not enabled him to conquer it. It was conquered by the Aghlabid ruler and his general, Asad b. al-Furat.
 
 Thereafter, under the 'Ubaydid(-Fatimids) and the (Spanish) Umayyads, the fleets of Ifriqiyah and Spain constantly attacked each other's countries in civil war operations, and they thoroughly devastated the coastal regions. In the days of 'Abd-ar-Rahman an-Nasir, the Spanish fleet had grown to about two hundred vessels, and the African fleet to the same number, or close to it.
 
-The fleet admiral in Spain was Ibn Rumahis. The port used by (the Spanish fleet) for docking and hoisting sail was Pechina and Almeria. The fleet was assembled from all the provinces. Each region
-where ships were used contributed one fleet (unit) under the supervision of a commander in charge of everything connected with fighting, weapons andcombatants alike. There also was a captain who directed the movement of the fleet, using either the wind or oars. He also directed its anchoring in port. When the whole fleet was assembled for a large-scale raid or for important government business, it was manned in its home port. 
+The fleet admiral in Spain was Ibn Rumahis. The port used by (the Spanish fleet) for docking and hoisting sail was Pechina and Almeria. The fleet was assembled from all the provinces. 
+
+Each region where ships were used contributed one fleet (unit) under the supervision of a commander in charge of everything connected with fighting, weapons andcombatants alike. There also was a captain who directed the movement of the fleet, using either the wind or oars. He also directed its anchoring in port. When the whole fleet was assembled for a large-scale raid or for important government business, it was manned in its home port. 
 
 The ruler loaded it with men (drawn from) his best troops and clients, and placed them under the supervision of one commander, who belonged to the highest class of the people of his realm and to whom all were responsible. He then sent them off, and awaited their victorious return with booty.
 

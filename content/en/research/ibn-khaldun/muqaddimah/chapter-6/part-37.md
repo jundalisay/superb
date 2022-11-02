@@ -2,6 +2,7 @@
 title: "The study of the auxiliary sciences should not be prolonged"
 description: "The occupation with the auxiliary sciences constitutes a waste of one's life, occupation with something that is of no concern"
 image: "/covers/muq.jpg"
+author: Ibn Khaldun
 icon: "/icons/ibn.jpg"
 heading: "Part 37"
 date: 2021-11-10
@@ -18,7 +19,7 @@ This includes Qur'an interpretation, Prophetic traditions, jurisprudence, and sp
 
 2. The physical and metaphysical sciences of philosophy
 
-There are also auxiliary to these. Examples are= 
+There are also auxiliary to these. Examples are:
 - Arabic philology and arithmetic, etc
   - These are auxiliary to the religious sciences
 - Logic
@@ -83,12 +84,15 @@ Poetry and Arabic philology should be taught first because of the (existing) cor
 
 Ibn al-'Arabi continued= "How thoughtless are our compatriots in that they teach children the Qur'an when they are first starting out. They read things they do not understand and work hard at something that is not as important for them as other matters." He concluded= "The student should study successively theprinciples of Islam, the principles of jurisprudence, disputation, and then the Prophetic traditions and the sciences connected with them." He also forbade teaching two disciplines at the same time, save to the student with a good mind and sufficient energy.1188
 
-This is Judge Abu Bakr's advice. It is a good method indeed. However, accepted custom is not favorable to it, and custom has greater power over conditions (than anything else). Accepted custom gives preference to the teaching of the Qur'an. 
+This is Judge Abu Bakr's advice. It is a good method. 
 
-The reason is the desire for the blessing and reward (in the other world resulting from knowledge of the Qur'an) and a fear of the things that might affect children in "the folly of youth" 1189 and harm them and keep them from acquiring knowledge. They might miss the chance to learn the Qur'an. 
+However, accepted custom is not favorable to it. Custom has greater power over anything else. Accepted custom gives preference to the teaching of the Qur'an.
 
-As long as they remain at home, they are amenable to authority. When they have grown up and shaken off the yoke of authority, the tempests of young manhood often cast them upon the shores of wrongdoing. 
+The reason is the desire for the blessing and reward (in the other world resulting from knowledge of the Qur'an) and a fear of the things that might affect children in "the folly of youth" 1189 and harm them and keep them from acquiring knowledge. They might miss the chance to learn the Qur'an.
 
-Therefore, while the children are still at home and under the yoke of authority, one seizes the opportunity to teach them the Qur'an, so that they
-will not remain without knowledge of it. If one could be certain that a child would continue to study and accept instruction (when he has grown up), the method mentioned by the Judge would be the most suitable one ever devised in East or West.
+As long as they remain at home, they are amenable to authority. 
+
+When they have grown up and shaken off the yoke of authority, the tempests of young manhood often cast them upon the shores of wrongdoing. 
+
+Therefore, while the children are still at home and under the yoke of authority, one seizes the opportunity to teach them the Qur'an, so that they will not remain without knowledge of it. If one could be certain that a child would continue to study and accept instruction (when he has grown up), the method mentioned by the Judge would be the most suitable one ever devised in East or West.
 

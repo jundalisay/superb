@@ -1,22 +1,27 @@
+---
+title: "The Gauls and Pyrrhus: Parallels between Carthage and Rome and The War of Hannibal"
+heading: "Chapter 4"
+author: "Montesquieu"
+description: "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
+date: 2021-09-30
+image: "/covers/spirit.jpg"
+icon: "/icons/mont.png"
+---
 
 
+THE Romans had several wars against the Gauls. Both nations had:
+- a thirst of glory
+- a contempt of death
+- an inflexible resolution of conquering
 
-+++
-title=  "The Gauls and Pyrrhus=  Parallels between Carthage and Rome and The War of Hannibal"
-heading=  "Chapter 4 of The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-21/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-21/chapter-3"
-linkftext=  "Chapter 2"
-+++
+But the weapons they used were different. 
+- The bucklers of the Gauls were small
+- Their swords [19] were unfit for execution
+- The Gauls were cut to pieces by the Romans, in the same way as the Mexicans, in these latter ages, by the Spaniards
 
-THE Romans were engaged in several wars against the Gauls=  a thirst of glory, a contempt of death, and an inflexible resolution of conquering, were equal in both nations, but the weapons they used were different; the bucklers of the latter was small, and their swords [19] unfit for execution; and, indeed, the Gauls were cut to pieces by the Romans, much after the same manner as the Mexicans, in these latter ages, by the Spaniards; and a surprizing circumstance is, that though these people were combating perpetually with the Romans, they yet suffered themselves to be destroyed one after another, without their ever being sensible of, enquiring after, or obviating the cause of their calamities.
+It is surprising that though the Gauls were fighitng perpetually the Romans, the Gauls were still destroyed one after another, without them  enquiring after<!-- , or obviating --> the cause of their calamities.
 
-Pyrrhus invaded the Romans at a time when they were strong enough to oppose the power of his arms, and to be taught by the victories he obtained over them=  from him they learned to entrench themselves, as also the choice and proper disposition of a camp; he accustomed them to elephants, and prepared them for mightier wars.
+Pyrrhus invaded the Romans at a time when the Romans were strong enough to oppose the power of his arms, and to be taught by the victories he obtained over them. From him they learned to entrench themselves, as also the choice and proper disposition of a camp; he accustomed them to elephants, and prepared them for mightier wars.
 
 The grandeur of Pyrrhus was confined merely to his personal qualities. Plutarch * informs us, that he was obliged to begin the war of Macedonia, from his inability to maintain any longer the six thousand foot, and five hundred horse in his service. This prince, sovereign of a small country, which has never made the least figure since his time, was a military rambler, who was continually forming new enterprises, because he could not subsist but by enterprizing.
 
@@ -24,8 +29,10 @@ Tarentum, his ally, had much degenerated from the institution of the Lacedæmoni
 
 As the Carthagenians grew wealthy sooner than the Romans, so they were sooner corrupted=  thus whilst at Rome, public employments were made the reward of virtue only, and no other emolument accrued from them than honour, and a preference in toils; at Carthage, the several advantages which the public can bestow on particular persons were venal, and every service done by such persons, was there paid by the public.
 
-[20]
-A monarchy is not dragged nearer to the brink of ruin by the tyranny of a prince, than a commonwealth by a lukewarmness and indifference for the general good. The advantage of a free state is, that the revenues are employed in it to the best purposes; but where does not the reverse of this happen! The advantage of a free state is, that it admits of no favourites; but when the contrary is seen, and instead of the friends and relations of a prince, great fortunes are amassed for the friends and relations of all persons who have any share in the government; in this case an universal ruin must ensue; the laws are then eluded more dangerously, than they are infringed by a sovereign prince, who being always the greatest citizen in the state, is most concerned to labour at its preservation.
+
+A monarchy is not dragged nearer to the brink of ruin by the tyranny of a prince, than a commonwealth by a lukewarmness and indifference for the general good. The advantage of a free state is, that the revenues are employed in it to the best purposes; but where does not the reverse of this happen! 
+
+The advantage of a free state is, that it admits of no favourites; but when the contrary is seen, and instead of the friends and relations of a prince, great fortunes are amassed for the friends and relations of all persons who have any share in the government; in this case an universal ruin must ensue; the laws are then eluded more dangerously, than they are infringed by a sovereign prince, who being always the greatest citizen in the state, is most concerned to labour at its preservation.
 
 By the constant practice of ancient customs and manners, and a peculiar use that was made of poverty, the fortunes of all the people in Rome were very near upon a level; but in Carthage, some particular persons boasted the wealth of kings.
 
@@ -42,12 +49,19 @@ Carthage, in warring with all its riches against the poverty of Rome, had a disa
 
 The Romans were ambitious through pride, and the Carthaginians through avarice; the former would command, the latter amass; and these, whose minds were wholly turned to traffick, perpetually casting up their income and expences, never engaged in any war from inclination.
 
-The loss of battles, the decrease of a people, the decay of trade, the consumption of the public treasure, the insurrection of neighbouring nations, might force the Carthaginians to submit to the severest terms of peace=  but Rome was not swayed by the consideration of blessings or calamities, being determined by no other motive but its glory; and as the Romans were persuaded they could not exist without commanding over others, neither hopes nor fears of any kind could prevail with them to conclude a peace, the conditions of which were not prescribed by themselves.
+The loss of battles, the decrease of a people, the decay of trade, the consumption of the public treasure, the insurrection of neighbouring nations, might force the Carthaginians to submit to the severest terms of peace. 
+
+But Rome was not swayed by the consideration of blessings or calamities, being determined by no other motive but its glory; and as the Romans were persuaded they could not exist without commanding over others, neither hopes nor fears of any kind could prevail with them to conclude a peace, the conditions of which were not prescribed by themselves.
 
 Nothing is so powerful as a commonwealth, in which the laws are exactly observed; and this not from fear nor from reason, but from a passionate impulse, as in Rome and Lacedæmon; for then the wisdom of a good legislature is united to all the strength a faction could possibly boast.
 
-[22]
-The Cathaginians made use of foreign forces, and the Romans employed none but their own. As the latter had never considered the vanquished but merely as so many instruments for future triumphs, they made soldiers of the several people they conquered; and the greater opposition those made, the more worthy they judged them of being incorporated into their republic. Thus we find the Samnites, who were not subdued till after four and twenty triumphs * , became auxiliaries to the Romans; and some time before the second Punic war, they raised from among that nation and their allies † , that is, from a country of little more extent than territories of the Pope and Naples, seven hundred thousand foot, and seventy thousand horse to oppose the Gauls.
+The Cathaginians made use of foreign forces, but the Romans employed only their own. 
+
+The Romans had never considered the vanquished but merely as so many instruments for future triumphs, they made soldiers of the several people they conquered; 
+
+The greater opposition those made, the more worthy they judged them of being incorporated into their republic. 
+
+Thus we find the Samnites, who were not subdued till after four and twenty triumphs * , became auxiliaries to the Romans; and some time before the second Punic war, they raised from among that nation and their allies † , that is, from a country of little more extent than territories of the Pope and Naples, seven hundred thousand foot, and seventy thousand horse to oppose the Gauls.
 
 In the height of the second Punic war, Rome had always a standing army of twenty-two or twenty-four legions; and yet it appears by Livy, that at this time the census, or general survey, amounted to but about 137,000 citizens.
 
@@ -91,20 +105,50 @@ The small vessels of the antients used often to grapple suddenly with one anothe
 
 A strong proof of the difference is, the victory won by Duillius the consul=  The Romans were totally ignorant of navigation; when a Carthaginian galley happening to be stranded on their coast, served them as a model for the building of others=  In three months time their sailors were trained, their fleet was completely fitted out; the Romans put to sea, came up with the Carthaginians, and defeated them.
 
-In this age, the whole life of a prince is scarce sufficient for the raising and equipping a navy, capable to make head against a power already possessed of the empire of the sea=  This perhaps may be the only thing which money cannot of itself effect; and though a great † monarch in our days succeeded immediately in an attempt of this kind, experience has proved to others ‡ , that such an example is to be admired rather than imitated.
+In this age, the whole life of a prince is scarce sufficient for the raising and equipping a navy, capable to make head against a power already possessed of the empire of the sea=  
+
+This might be the only thing which money cannot of itself effect. 
+
+A great† monarch in our days succeeded immediately in an attempt of this kind, experience has proved to others‡, that such an example is to be admired rather than imitated.
 
 The second Punic war made so much noise in the world, that it is known to every one=  When we survey attentively the croud of obstacles which started up before Hannibal, and reflect, that this extraordinary man surmounted them all, we view the most august spectacle that antiquity can possibly exhibit.
 
-Rome was a miracle in constancy and resolution after the battles of Ticinus, of Trebia, and Trasymenus; after the defeat at Cannæ, which was still more fatal [27] to them, though they saw themselves abandoned by most of the nations in Italy, yet they would not sue for peace; and for this reason, the senate never once receded from their ancient maxims=  They conducted themselves towards Hannibal, in the same manner as they had before behaved with regard to Pyrrhus, to whom they refused all terms of accommodation, till such time as he should leave Italy; and Dionysius Halicarnasseus * informs us, that, when Coriolanus was treating with the Romans, the senate declared they would never infringe their ancient customs; that their people could not conclude a peace so long as the enemy should continue in their territories; but that in case the Volscians would think fit to retire, they then should agree to any terms that were just and reasonable.
+Rome was a miracle in constancy and resolution after the battles of Ticinus, of Trebia, and Trasymenus; after the defeat at Cannæ, which was still more fatal [27] to them, though they saw themselves abandoned by most of the nations in Italy, yet they would not sue for peace; and for this reason, the senate never once receded from their ancient maxims=  
 
-Rome was saved by the strength and vigour of its institution; after the battle of Cannæ, their very women were not allowed to shed tears; the senate refused to ransom the prisoners, and sent the miserable remains of the army to carry on the war in Scicily, unrecompensed, and deprived of every military honour, till such time as Hannibal was driven out of Italy.
+They conducted themselves towards Hannibal, in the same manner as they had before behaved with regard to Pyrrhus, to whom they refused all terms of accommodation, till such time as he should leave Italy; and Dionysius Halicarnasseus * informs us, that, when Coriolanus was treating with the Romans, the senate declared they would never infringe their ancient customs; that their people could not conclude a peace so long as the enemy should continue in their territories; but that in case the Volscians would think fit to retire, they then should agree to any terms that were just and reasonable.
 
-On the other side, Terentius Varro the consul had fled ignominiously as far as Venusia=  This man, whose extraction was very mean, had been raised to the consulship merely to mortify the nobles. However, the senate would not enjoy the unhappy triumph; They saw how necessary it was for them to gain the confidence of the people on this occasion; they therefore went out to meet Vario, and returned him thanks for not despairing of the safety of the commonwealth.
+Rome was saved by the strength and vigour of its institution. 
+
+After the battle of Cannæ, their very women were not allowed to cry. The senate refused to ransom the prisoners, and sent the miserable remains of the army to carry on the war in Sicily, unrecompensed, and deprived of every military honour, till such time as Hannibal was driven out of Italy.
+
+On the other side, Terentius Varro the consul had fled ignominiously as far as Venusia. This man, whose extraction was very mean, had been raised to the consulship merely to mortify the nobles. 
+
+However, the senate would not enjoy the unhappy triumph; They saw how necessary it was for them to gain the confidence of the people on this occasion; they therefore went out to meet Vario, and returned him thanks for not despairing of the safety of the commonwealth.
 
 It is commonly not the real loss sustained in a battle (that of the slaughter of some thousand men) which proves fatal to a state, but the imaginary loss, the [28] general damp, which deprives it even of that strength and vigour which fortune had left it.
 
-Some things are asserted by all men, because they have been asserted once=  It is thought Hannibal committed an egregious error, in not laying siege to Rome after the battle of Cannæ=  It must be confessed, that the inhabitants of the former were at first seized with a panic; but then the surprize and dread of a martial people, which always turns to bravery, is not like that of a despicable populace, who are sensible to nothing but their weakness=  A proof Hannibal would not have succeeded, is, that the Romans were still powerful enough to send succours where any were wanted.
+<!-- Some things are asserted by all men, because they have been asserted once=   -->
 
-It is also said, that Hannibal was greatly overseen, in marching his army to Capua, where his soldiers enervated themselves; but people who make these assertions should consider, that they do not go back to the true cause of it=  Would not every place have proved a Capua to a body of men, who had enriched themselves with the spoils of so many victories? Alexander, whose army consisted of his own subjects, made use, on the like occasion, of an expedient which Hannibal, whose army was composed wholly of mercenaries, could not employ; and this was, the setting fire to the baggage of his soldiers, and burning all their wealth and his own. We are told that Kouli Khan, after his conquest of the Indies, left to the share of each soldier no more than one hundred and fifty silver roupees.
+People think that Hannibal made a big mistake in not laying siege to Rome after the battle of Cannae. The people of Rome initially panicked. 
 
-The very conquests of Hannibal began to change the fortune of the war=  He did not receive any succours from Carthage, either by the jealousy of one party * , or the too great confidence of the other=  So long as he kept his whole army together, he always defeated the Romans; but when he was obliged to put garrisons into cities, to defend his allies, to besiege strong holds, or prevent their being besieged, he then found himself too weak, and lost a great part of his army by piecemeal. Conquests are easily made, because we achieve them with our whole force; they are retained with difficulty, because we defend them with only a part of our forces.
+<!--  but then the surprize and dread of a martial people, which always turns to bravery, is not like that of a despicable populace, who are sensible to nothing but their weakness -->
+
+The Romans were still powerful enough to send succours where any were wanted. It proves that Hannibal would not have succeeded.
+
+Hannibal was greatly overseen, in marching his army to Capua where his soldiers enervated themselves. 
+
+But every place was a Capua to Hannibals men who had enriched themselves with the spoils of so many victories. 
+
+Alexander's army consisted of his own subjects. They burned the baggage of his soldiers, all their wealth and his own. 
+
+Hannibal could not do so because his army was composed wholly of mercenaries. 
+
+After his conquest of India, Kublai Khan left only no more than 150 silver rupees to each of his soldiers.
+
+The very conquests of Hannibal began to change the fortune of the war. 
+
+He did not receive any succours from Carthage, either by the jealousy of one party * , or the too great confidence of the other. 
+
+So long as he kept his whole army together, he always defeated the Romans. But when he was obliged to put garrisons into cities, to defend his allies, to besiege strong holds, or prevent their being besieged, he then found himself too weak, and lost a great part of his army by piecemeal. 
+
+**Conquests are easily made because we achieve them with our whole force. They are retained with difficulty, because we defend them with only a part of our forces.**
