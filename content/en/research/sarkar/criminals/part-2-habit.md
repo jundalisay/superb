@@ -4,7 +4,9 @@ heading: "Part 2"
 date: 2021-11-26
 image: "/covers/discourses.jpg"
 description: "Ordinary people manage to keep their base propensities under control through internal moral reasoning"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Criminals, Ripus]
 ---
 
 

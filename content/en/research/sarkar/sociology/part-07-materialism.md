@@ -4,10 +4,10 @@ heading: "Part 4"
 date: 2021-11-30
 image: "/covers/discourses.jpg"
 description: "Social advancement is the triadic blending of thesis, antithesis and synthesis."
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [thesis, antithesis, synthesis]
 ---
-
-
 
 Social advancement is the triadic blending of thesis, antithesis and synthesis.
 

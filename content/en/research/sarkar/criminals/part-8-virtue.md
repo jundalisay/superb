@@ -4,7 +4,9 @@ heading: "Part 8"
 date: 2021-11-14
 image: "/covers/discourses.jpg"
 description: "In most countries crime is defined with reference to a sense of pápa [vice] and puńya [virtue]"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Papa, Punya]
 ---
 
 

@@ -4,7 +4,7 @@ title: "The Fundamentals of Language"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "Each language has 5 fundamental characteristics"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

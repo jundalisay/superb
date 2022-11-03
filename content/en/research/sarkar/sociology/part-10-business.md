@@ -4,12 +4,16 @@ heading: "Part 10"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "Samája (society) means a group of people who move together"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Medical Profession, Honest Businessmen]
 ---
 
 
 
-Is the medical profession alone floundering in the quagmire of sin? No. Delve into the recesses of any business person’s mind and you will find, in most cases if not all, that the garbage of sin collected there has become utterly putrefied and decomposed and polluted his or her entire psychic environment. 
+Is the medical profession alone floundering in the quagmire of sin? 
+
+No. Delve into the recesses of any business person’s mind and you will find, in most cases if not all, that the garbage of sin collected there has become utterly putrefied and decomposed and polluted his or her entire psychic environment. 
 
 The situation has become so bad that in most parts of the world embarking on this profession is tantamount to becoming a refined criminal. I use the term “refined” because no matter what type of business a person may start, their success depends upon their skilful use of persuasive language.
 

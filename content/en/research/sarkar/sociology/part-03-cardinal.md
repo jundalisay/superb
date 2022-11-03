@@ -1,20 +1,28 @@
 ---
-heading: ""
 title: "Social Values and Human Cardinal Principles"
 # heading: "Chapter 7 "
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "Samája (society) means a group of people who move together"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Cardinal Principles]
 ---
 
 
 
-Having progressively crossed the different evolutionary stages since the distant past human beings have at last reached the present stage. The journey has not been solitary: People have advanced together in society. Even in the primitive past, humans lived in clans and tribes, for alone they could not easily procure the means of livelihood. An individual who totally shuns collective life finds existence difficult, for humans are essentially social beings. Whenever one thinks of a human being one automatically thinks of the society in which he or she lives. Human existence is thus two-sided – individual existence and collective existence – and as such it has two sets of values: social values and human cardinal principles.
+Having progressively crossed the different evolutionary stages since the distant past human beings have at last reached the present stage. 
+
+The journey has not been solitary: People have advanced together in society. Even in the primitive past, humans lived in clans and tribes, for alone they could not easily procure the means of livelihood. 
+
+An individual who totally shuns collective life finds existence difficult, for humans are essentially social beings. Whenever one thinks of a human being one automatically thinks of the society in which he or she lives. Human existence is thus two-sided – individual existence and collective existence – and as such it has two sets of values: social values and human cardinal principles.
 
 The social values of human beings are ascertained on the basis of social responsibilities. As a member of society a person has to discharge certain duties and responsibilities. Those who shoulder great responsibility are naturally accorded due recognition and respect, because the good of all depends upon the proper execution of one’s duties.
 
-An analysis of history will show that in the Kśatriya era kings and emperors were honoured most. In their courts everyone bowed before them in spontaneous respect for they had conquered the hearts of the people by virtue of their heroism, valour and chivalry. During the Vipra era the Kśatriyas and other social classes were so overwhelmed by the Vipra’s intellectual might – which they had used to invent various things to further human welfare – that they surrendered before them. The Vipras were regarded as wise because their intellectual research benefited the common people. Out of awe and respect everyone prostrated at the lotus feet of these great people.
+An analysis of history will show that in the Kśatriya era kings and emperors were honoured most. In their courts everyone bowed before them in spontaneous respect for they had conquered the hearts of the people by virtue of their heroism, valour and chivalry. 
+
+During the Vipra era the Kśatriyas and other social classes were so overwhelmed by the Vipra’s intellectual might – which they had used to invent various things to further human welfare – that they surrendered before them. The Vipras were regarded as wise because their intellectual research benefited the common people. Out of awe and respect everyone prostrated at the lotus feet of these great people.
+
 The truth is that human beings have always and everywhere paid tribute to social values, but never, not even for a moment, has anyone respected human cardinal principles.
 
 

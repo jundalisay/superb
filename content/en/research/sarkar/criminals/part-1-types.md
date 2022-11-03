@@ -4,7 +4,9 @@ heading: "Part 1"
 date: 2021-11-28
 image: "/covers/discourses.jpg"
 description: "There are 5 categories of criminals"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Criminals]
 ---
 
 

@@ -4,7 +4,9 @@ title: "The Spirit of Society"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "Samája (society) means a group of people who move together"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Samaj, Society]
 ---
 
 

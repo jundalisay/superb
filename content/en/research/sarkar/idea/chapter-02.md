@@ -5,7 +5,7 @@ heading: "Chapter 2"
 date: 2022-01-26
 description: "The essence of all physical and metaphysical diversities is the Supreme One – the noumenal cause of this phenomenal world."
 image: "/covers/ideology.jpg"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

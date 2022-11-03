@@ -4,7 +4,7 @@ heading: Chapter 1d
 date: 2022-01-28
 description: "An environment for the unit structure is essentially required where all these 5 fundamental layers are available in requisite quantity. Life can get expression only under such a condition"
 image: "/covers/ideology.jpg"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

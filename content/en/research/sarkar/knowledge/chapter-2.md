@@ -4,7 +4,7 @@ heading: "Chapter 2"
 date: 2021-11-28
 image: "/covers/discourses.jpg"
 description: ""
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

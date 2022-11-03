@@ -8,7 +8,7 @@ linkb: /research/sarkar/
 linkbtext: "Index"
 linkf: /research/sarkar/
 linkftext: "Index"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

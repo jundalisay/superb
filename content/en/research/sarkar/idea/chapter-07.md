@@ -4,7 +4,7 @@ heading: "Chapter 7 "
 date: 2022-01-15
 description: "The unit consciousness or átman is the real knower, not the mind. It is the master of functions the witness of these functions being performed, the witness of Identity"
 image: "/covers/ideology.jpg"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

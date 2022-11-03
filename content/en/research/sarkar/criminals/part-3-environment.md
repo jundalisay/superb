@@ -4,7 +4,9 @@ heading: "Part 3"
 date: 2021-11-24
 image: "/covers/discourses.jpg"
 description: "Many people in society do not become criminals because of physiological or hereditary factors"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Criminals]
 ---
 
 

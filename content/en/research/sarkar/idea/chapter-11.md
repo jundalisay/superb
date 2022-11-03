@@ -5,7 +5,7 @@ heading: "Chapter 11"
 date: 2022-01-10
 description: "Spirituality should lead human beings to the one Cosmic truth from which they have derived their selves,(1) and which is the ultimate destiny"
 image: "/covers/ideology.jpg"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 aliases:
   /research/indian/idea/chapter-11
 ---

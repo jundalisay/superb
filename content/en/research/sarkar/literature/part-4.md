@@ -4,7 +4,7 @@ heading: "Part 4"
 date: 2021-11-23
 image: "/covers/discourses.jpg"
 description: "Popular Language"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

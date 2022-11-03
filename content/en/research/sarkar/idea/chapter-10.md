@@ -5,7 +5,7 @@ date: 2022-01-12
 description: "In this cycle of civilization, one age changes or evolves into another. One complete cycle from Shúdra to Vipra Age is called parikránti."
 image: "/covers/ideology.jpg"
 author: "PR Sarkar"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

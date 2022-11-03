@@ -4,7 +4,7 @@ heading: "Chapter 1"
 date: 2021-11-30
 image: "/covers/discourses.jpg"
 description: "In the mechanical sphere, knowing occurs with the perception of special types of reflections and refractions."
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

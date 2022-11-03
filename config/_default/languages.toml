@@ -10,7 +10,7 @@
 
     [en.params]
         author = "Pantry Peers"
-        keywords = "Superphysics, Physics, Economics, Metaphysics"
+        # keywords = "Superphysics, Physics, Economics, Metaphysics"
         description = "Superphysics is a New Science Based on Metaphysics and Socratic Dialectics. It enhances the Material, Medical, Social and Economic Sciences"
 
 [tl]

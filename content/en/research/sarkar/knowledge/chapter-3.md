@@ -4,7 +4,7 @@ heading: "Chapter 3"
 date: 2021-11-26
 image: "/covers/discourses.jpg"
 description: "Knowledge is an action exclusively confined neither to the material world nor to the abstract world"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

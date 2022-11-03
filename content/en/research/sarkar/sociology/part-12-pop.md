@@ -4,7 +4,9 @@ title: "Population Growth and Control"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "The population problem is based on the availability of food and space."
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [China, Capitalism, PROUT]
 ---
 
 

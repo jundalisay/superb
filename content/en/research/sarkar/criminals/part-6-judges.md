@@ -4,7 +4,9 @@ heading: "Part 6"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "People judge the mistakes of others to the best of their own intellectual capacities"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Judges]
 ---
 
 

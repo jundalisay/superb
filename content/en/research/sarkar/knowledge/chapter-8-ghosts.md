@@ -4,7 +4,7 @@ heading: "Chapter 7"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "The excessive pressure of the thought-waves – we say “auto-suggestion” – makes the ocular vision negative"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

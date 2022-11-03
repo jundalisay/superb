@@ -4,7 +4,7 @@ heading: "Part 1"
 date: 2021-11-30
 image: "/covers/discourses.jpg"
 description: "Sáhitya or “literature” means “to move together”, keeping abreast of the trends of life. "
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

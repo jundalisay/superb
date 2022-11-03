@@ -4,7 +4,9 @@ heading: "Part 11c"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "Shaḿkarácárya was a Shaeva Tántrika or a practitioner of Tantra who followed Shiva."
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Shankara, Tantra, Shiva]
 ---
 
 

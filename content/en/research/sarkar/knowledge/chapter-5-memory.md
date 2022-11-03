@@ -4,7 +4,7 @@ heading: "Chapter 4b"
 date: 2021-11-22
 image: "/covers/discourses.jpg"
 description: "“The re-creation of things already perceived by the mind is called memory"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

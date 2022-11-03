@@ -4,7 +4,7 @@ heading: "Part 6"
 date: 2021-11-18
 image: "/covers/discourses.jpg"
 description: "The artists and the litterateurs are the guides of the society"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

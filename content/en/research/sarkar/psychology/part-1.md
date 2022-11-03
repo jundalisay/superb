@@ -4,7 +4,7 @@ heading: "Part 1"
 date: 2021-11-30
 image: "/covers/discourses.jpg"
 description: "Spiritualism and spirituality are not the same thing."
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

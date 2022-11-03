@@ -4,14 +4,16 @@ heading: "Part 3"
 date: 2021-11-10
 image: "/covers/discourses.jpg"
 description: "Tantra flourished in Bengal due to the pervasive intermixture of Dravidian and Mongolian blood."
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Tantra, Bengal, Dravidians, Austrics]
 ---
 
 
 Tantra flourished in Bengal due to the pervasive intermixture of Dravidian and Mongolian blood.
 
-Vauṋge prakáshitá vidyá Maethilye prabaliikrtá
-Kvácit kvácit Maháráśt́re Gurjjare pralayaḿgatá.
+<!-- Vauṋge prakáshitá vidyá Maethilye prabaliikrtá
+Kvácit kvácit Maháráśt́re Gurjjare pralayaḿgatá. -->
 
 [Tantra was practised in Bengal, but was more widely practised in Mithila. It was not very popular in Maharashtra, and was totally non-existent in Gujarat.]
 
@@ -19,7 +21,27 @@ Bengal was the home of both the Mongolian and the Dravidian populations. the Dra
 
 Some groups of Austrics lived in the western parts. In the southeastern parts of Bengal, the Mongolians held an overwhelming majority over the Dravidians. 
 
-The Chakmas, Tripuris, Bodos, Kochas, Kiratas, and Chuaras of the Mongolian population; the Kaevarttas, Bagdis, Dules, Shavaras, Kurmis, Mahatas, and Kherias of the Dravidian population; and the Santhaliis, Baoriis, Mála Páháriis [[(Mála or Málo)]], etc., of the predominantly Austric population, were the original Bengalees.
+The Mongolian population was made up of 
+- Chakmas
+- Tripuris
+- Bodos
+- Kochas
+- Kiratas
+- Chuaras
+
+The Dravidian population was made up of:
+- Kaevarttas
+- Bagdis
+- Dules
+- Shavaras
+- Kurmis
+- Mahatas
+- Kherias
+
+The Austric population was made up of:
+- Santhaliis
+- Baoriis
+- Mála Páháriis [[(Mála or Málo)]], etc., were the original Bengalees.
 
 The present Bengali society and civilization are the outcome of the mutual exchange of thought among these peoples.
 
@@ -141,5 +163,3 @@ The great Tantric Vashiśt́ha went to China to learn the Chinese techniques of
 - He greatly improved Tantra sádhaná.
 - He was widely acclaimed as a great yogi.
 - His book Yogaváshiśt́ha is a philosophical exposition of the subtle spirituality of Tantra sádhaná.
-
-

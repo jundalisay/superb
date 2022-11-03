@@ -4,14 +4,20 @@ heading: "Part 9"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "The popular allegation that lawyers earn their living by deceiving others and by encouraging litigation is, according to my understanding, not totally correct"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [medical profession]
 ---
 
 
 
-Shatamárii bhavet vaedyah sahasramárii cikitsakah [“If one kills a hundred people, one may qualify as a quack, but if one kills a thousand people, one can qualify to be a doctor”]. It is both amusing and infuriating, yet it is true. Like an old barber, a young doctor cannot be trusted. 
+Shatamárii bhavet vaedyah sahasramárii cikitsakah [“If one kills a hundred people, one may qualify as a quack, but if one kills a thousand people, one can qualify to be a doctor”]. 
 
-But this is not the end of the matter. It is possible to earn the name shatamárii [one who has killed a hundred people] or sahasramárii [one who has killed a thousand people] by killing mice or guinea pigs in laboratory experiments, but is it not tragic if the killing continues after one has qualified as a doctor?
+It is both amusing and infuriating, yet it is true. Like an old barber, a young doctor cannot be trusted. 
+
+But this is not the end of the matter. 
+
+It is possible to earn the name shatamárii [one who has killed a hundred people] or sahasramárii [one who has killed a thousand people] by killing mice or guinea pigs in laboratory experiments, but is it not tragic if the killing continues after one has qualified as a doctor?
 
 No matter what country you belong to, tell me honestly, how many doctors can you really trust and respect? Among the doctors you know, you may believe in one or two at the most, but those who have won your faith may or may not command your respect. In other words, the doctors whom you believe in, who can cure a patient, are not accessible because they cost too much. In such circumstances your confidence in the ability of doctors remains intact, but you cannot consider them as friends; nor do you have any real proof of their humanity, hence you cannot give them your respect either.
 

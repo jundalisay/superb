@@ -4,7 +4,8 @@ heading: "Part 4"
 date: 2021-11-07
 image: "/covers/discourses.jpg"
 description: "It is absolutely wrong to make a distinction between Hindu Tantra and Buddhist Tantra."
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
 ---
 
 

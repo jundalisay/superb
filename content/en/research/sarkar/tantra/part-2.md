@@ -4,7 +4,9 @@ heading: "Part 2"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "The original Rgvedic civilization belonged, in spirit and language, to the non-Indian Aryans. "
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Rgveda, Atharvaveda]
 ---
 
 
@@ -185,7 +187,9 @@ With the exception of a few munis and rśis, the militant (kśatriya-predomina
 
 War-loving races are generally careful to honour the rules and laws of war, and frame new laws to suit the convenience of warring armies. Thus, the Aryans displayed a commendable sense of discipline during war. Being a war-loving race, it was but natural for them to do so. 
 
-The non-Aryans, however, were backward in this regard. During their battles with the Aryans they did not respect the rules and laws of war (such as not to strike at the defenceless, not to employ more than one fighter against another, not to kill a retreating or surrendering soldier or a soldier begging for mercy). Not only was this highly irritating to the Aryans; the lack of a disciplined military mentality was actually one of the main reasons for the non-Aryans’ defeat.
+The non-Aryans, however, were backward in this regard. During their battles with the Aryans they did not respect the rules and laws of war (such as not to strike at the defenceless, not to employ more than one fighter against another, not to kill a retreating or surrendering soldier or a soldier begging for mercy). 
+
+Not only was this highly irritating to the Aryans; the lack of a disciplined military mentality was actually one of the main reasons for the non-Aryans’ defeat.
 
 Usually the non-Aryans were content with little. What was developed in them was their introspective nature, which not only made them devotees of God, but infused in them a surging love for spiritual philosophy. The religious practices of the Aryans, however, entailed performing certain sacrifices in order to attain certain materialistic gains. That is, their religious observances were mainly ritualistic. 
 

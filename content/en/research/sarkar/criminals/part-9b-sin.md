@@ -4,7 +4,7 @@ heading: "Part 9b"
 date: 2021-11-08
 image: "/covers/discourses.jpg"
 description: "Sin is sometimes based entirely on dogmas and not on cardinal human values. Wise people will never entertain a conception of sin based on religious dogma"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

@@ -4,7 +4,9 @@ title: "Various Occupations"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "The popular allegation that lawyers earn their living by deceiving others and by encouraging litigation is, according to my understanding, not totally correct"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [vrtti, businessmen]
 ---
 
 

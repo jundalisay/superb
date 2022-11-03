@@ -4,7 +4,7 @@ heading: "Chapter 7"
 date: 2021-11-20
 image: "/covers/discourses.jpg"
 description: "The nervous system is the crude receptacle of the kámamaya kośa [crude layer] and the mind. It becomes unsteady and restless"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 

@@ -4,7 +4,9 @@ title: "Socio-Economic Theories and Communism"
 date: 2021-11-24
 image: "/covers/discourses.jpg"
 description: "Communism must go immediately or be removed without any delay"
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
+author: PR Sarkar
+keywords: [Communism, Karl Marx]
 ---
 
 

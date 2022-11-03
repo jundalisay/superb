@@ -4,7 +4,7 @@ heading: "Part 4"
 date: 2021-11-18
 image: "/covers/discourses.jpg"
 description: "Through spiritual progress, the mind grows in magnitude until it finally merges in the Supreme Entity. "
-icon: "/icons/sarkar.jpg"
+icon: "/icons/sarkar.png"
 ---
 
 
