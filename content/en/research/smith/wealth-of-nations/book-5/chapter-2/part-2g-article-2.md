@@ -1,15 +1,13 @@
-+++
-title=  "Taxes on Profit"
-description=  "Profits on stock naturally divides itself into two"
-date=  2015-01-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2f-article-1"
-linkbtext=  "Part 2f"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2h-article-2"
-linkftext=  "Part 2h"
-heading=  "Chapter 2 Part 2g-Article"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Taxes on Profit"
+heading: "Chapter 2g of Part 1b"
+date: 2020-12-19
+image: "/covers/wn.jpg"
+description: "Profits on stock naturally divides itself into two"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="86" >}} Profits on stock naturally divides itself into two= 
@@ -35,12 +33,14 @@ He could only do this by reducing the rent.
 The final payment of the tax would fall on the landlord.
 If he employed mercantile or manufacturing stock, he could raise his profits only by raising the price of his goods.
 The final payment of the tax would fall on its consumers.
+
 If he did not raise his profits, he would charge the whole tax on the interest of money.
 He could afford less interest for whatever stock he borrowed.
 The whole tax would fall ultimately on interest.
 He would relieve himself from the tax one way or another.
 
-88 At first sight, interest seems equally directly taxable as land rent.
+
+{{< s v="86" >}} At first sight, interest seems equally directly taxable as land rent.
 
 Like land rent, it is a net produce which remains after compensating the risk and trouble of employing the stock.
 A tax on land rents cannot raise rents.
@@ -56,7 +56,8 @@ the ordinary profit rate,
 the portion of this profit for compensating the risk and trouble of the employer,
 the remaining portion which belongs to the owner of the stock and which pays the interest.
 
-89 Two circumstances make the direct taxation of interest less proper than the direct taxation of land rent.
+
+{{< s v="89" >}} Two circumstances make the direct taxation of interest less proper than the direct taxation of land rent.
 
 1. 90 The quantity and value of land possessed by any man can never be a secret.
 
@@ -84,7 +85,8 @@ The extreme inequality and uncertainty of a profit tax assessed loosely can only
 This moderation will make every man find himself rated much below his real revenue.
 He gives little trouble, though his neighbour should be rated lower.
 
-93 The English land-tax intended that stock should be taxed in the same proportion as land.
+
+{{< s v="93" >}} The English land-tax intended that stock should be taxed in the same proportion as land.
 
 When the land tax was at 20% of the rent, it was intended that stock should be taxed at 20% of the supposed interest.
 When the present annual land-tax was first imposed, the legal interest rate was 6%.
@@ -107,15 +109,16 @@ If most English lands are taxed at half their actual value, most of English stoc
 In some towns such as Westminster, the whole land-tax is assessed on houses and the stock and trade are free.
 It is otherwise in London.
 
-94 In all countries, a severe inquisition into the circumstances of private persons has been carefully avoided.
+{{< s v="94" >}} In all countries, a severe inquisition into the circumstances of private persons has been carefully avoided.
 
 95 At Hamburgh, every citizen is obliged to pay 0.25% of all that he possesses to the state.
 The wealth of Hamburgh citizens consists principally in stock.
 This tax may be considered as a tax on stock.
 Every man assesses himself.
+
 In the presence of the magistrate, he annually puts money into the public coffer which he declares on oath as 0.25% of all that he owns.
-    He does not declare what it amounts to.
-    He is not examined on the amount.
+- He does not declare what it amounts to.
+- He is not examined on the amount.
 
 This tax is paid with great fidelity.
 
@@ -125,22 +128,24 @@ are convinced of the need for the tax to support the state, and
 believe that taxes will be faithfully applied to that purpose.
 It is not peculiar to the people of Hamburgh.
 
-96 Unterwald in Switzerland is frequently ravaged by storms and inundations.
-swissfloods
-Floods in Switzerland
 
-It is exposed to extraordinary expences.
+{{< s v="96" >}} Unterwald in Switzerland is frequently ravaged by storms and inundations.
+- It is exposed to extraordinary expences.
+
 On such occasions the people assemble, and everyone very frankly declares what he is worth to be taxed accordingly.
+
 At Zurich, the law orders everyone to be taxed in proportion to their revenue in cases of necessity.
 Each person is obliged to declare his revenue amount on oath.
 They do not suspect that their fellow-citizens will deceive them.
+
 At Basel, the principal revenue of the state arises from a small export custom.
 Everyone makes oath that they will pay all the taxes every three months.
 All merchants and innkeepers are trusted with keeping their own account of the goods they sell inside or outside Basel.
 At the end of every three months, they send this account to the treasurer with the amount of the tax computed at the bottom.
 The revenue does not suffer by this confidence.
 
-97 It must not be difficult in those Swiss cantons to oblige every citizen to publicly declare his fortune on oath.
+
+{{< s v="97" >}} It must not be difficult in those Swiss cantons to oblige every citizen to publicly declare his fortune on oath.
 
 At Hamburgh, it would be most difficult.
 Merchants engaged in hazardous projects all fear being obliged to expose the real state of their circumstances.
@@ -168,6 +173,7 @@ If they did, the tax would ruin them and they would be unable to support the sta
 It does not intend to reduce that capital.
 It only aims to be a tax on interest, proportional to the tax on land rent.
 So that when land rent is at 20%, the tax on interest may also be at 20%.
-The tax at Hamburgh and the more moderate tax of Unterwald and Zurich are also meant to be taxes on the interest or net revenue of stock, not on capital.
-The tax of Holland was meant to be a tax on capital.
 
+The tax at Hamburgh and the more moderate tax of Unterwald and Zurich are also meant to be taxes on the interest or net revenue of stock, not on capital.
+
+The tax of Holland was meant to be a tax on capital.

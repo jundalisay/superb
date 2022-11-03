@@ -1,15 +1,13 @@
-+++
-title=  "Ground Rents"
-heading=  "Part 2, Article 1"
-description=  "Ground Rents"
-date=  2015-01-24
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2e-article-1"
-linkbtext=  "Part 2e"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2g-article-2"
-linkftext=  "Part 2g"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Ground Rents"
+heading: "Chapter 2f of Part 1b"
+date: 2020-12-21
+image: "/covers/wn.jpg"
+description: "House rents are made up of the Building-rent and The Ground-rent"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="74" >}} Ground-rents are a better tax subject than house-rents.
@@ -23,9 +21,11 @@ It would all fall on the owner of the ground-rent.
 Its value varies with the wealth or poverty of his competitors.
 The most rich competitors are in the capital.
 Thus, highest ground-rents are always found there.
+
 The wealth of those competitors would not be increased by a tax on ground-rents.
 They would probably not be disposed to pay more for the use of the ground.
 It is unimportant whether the tax was paid by the inhabitant or by the ground owner.
+
 The more the inhabitant pays for the tax, the less he would pay for the ground.
 The final payment of the tax would all fall on the owner of the ground-rent.
 The ground-rents of uninhabited houses should pay no tax.
@@ -70,7 +70,7 @@ In most districts, these are exempt from it by the favour of the assessors.
 This exemption sometimes creates some little variation in the rate of particular houses though that of the district is always the same.
 Improvements of rent, by new buildings, repairs, etc. go to the discharge of the district, which occasions more variations in the rate of particular houses.
 
-79 In Holland, every house is taxed at 2.5% of its value without regard to= 
+{{< s v="79" >}} In Holland, every house is taxed at 2.5% of its value without regard to:
 - the rent it actually pays or
 - it being tenanted or untenanted.
 

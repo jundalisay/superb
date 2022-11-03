@@ -1,15 +1,12 @@
-+++
-title=  "General taxes -- Capitation Taxes"
-description=  "Taxes which should fall indifferently on every Species of Revenue"
-date=  2015-01-17
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2l-article-3"
-linkbtext=  "Part 2l"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2n-article-3"
-linkftext=  "Part 2n"
-heading=  "Article 4 Part 2m"
-icon=  "/icons/smith.png"
-+++
+---
+title: "General taxes -- Capitation Taxes Simplified"
+heading: "Part 2m, Article 2"
+date: 2020-12-07
+image: "/covers/wn.jpg"
+description: "Taxes which should fall indifferently on every Species of Revenue"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
 
 
 {{< s v="138" >}} The taxes which should fall indifferently on every different species of revenue, are= 
@@ -36,19 +33,22 @@ This is because the degrees of fortune are frequently unequal in the same rank.
 {{< s v="141" >}} If such taxes are attempted to be rendered equal, they become arbitrary and uncertain.
 
 If they are attempted to be rendered certain and not arbitrary, they become unequal.
-Whether the tax be light or heavy, uncertainty is always a great grievance.
-In a light tax, a big degree of inequality may be supported.
-In a heavy tax, it is intolerable.
 
-142 In England's poll-taxes during William III's reign, most of the taxpayers were assessed according to their rank as dukes, marquisses, earls, viscounts, etc.
+Whether the tax be light or heavy, uncertainty is always a great grievance.
+- In a light tax, a big degree of inequality may be supported.
+- In a heavy tax, it is intolerable.
+
+{{< s v="142" >}} In England's poll-taxes during William III's reign, most of the taxpayers were assessed according to their rank as dukes, marquisses, earls, viscounts, etc.
 
 All shopkeepers and tradesmen worth more than £300 were subject to the same assessment disregarding the difference in their fortunes.
-    Their rank was more considered than their fortune.
+- Their rank was more considered than their fortune.
+
 Several people who were were rated according to their fortune in the first poll-tax, were afterwards rated according to their rank.
-    In the first poll-tax, sergeants, attorneys, and proctors at law were assessed at 15% of their income.
-    They were afterwards assessed as gentlemen.
+- In the first poll-tax, sergeants, attorneys, and proctors at law were assessed at 15% of their income.
+- They were afterwards assessed as gentlemen.
+
 The poll tax was not very heavy.
-    A big degree of inequality in it was more supportable than any degree of uncertainty.
+- A big degree of inequality in it was more supportable than any degree of uncertainty.
 
 143 In France, a capitation tax was levied uninterrupted since the start of the 18th century.
 

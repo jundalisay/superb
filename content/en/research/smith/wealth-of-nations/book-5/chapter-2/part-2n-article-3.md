@@ -1,15 +1,13 @@
-+++
-title=  "Taxes on Consumable Commodities"
-description=  "The impossibility of taxing people according to their revenue by any capitation led to the invention of taxes on consumable commodities"
-date=  2015-01-16
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2m-article-3"
-linkbtext=  "Part 2m"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2o-article-3"
-linkftext=  "Part 2o"
-heading=  "Part 2n"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Taxes on Consumable Commodities"
+heading: "Part 2n, Article 2"
+date: 2020-12-05
+image: "/covers/wn.jpg"
+description: "The impossibility of taxing people according to their revenue by any capitation led to the invention of taxes on consumable commodities"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="157" >}} The impossibility of taxing people according to their revenue by any capitation led to the invention of taxes on consumable commodities.
@@ -25,13 +23,16 @@ It is taxed by taxing the consumable commodities that they buy.
 It is whatever is needed by even the lowest class of people for decency according to the country's custom.
 For example, a linen shirt is strictly speaking not a basic necessity.
 The Greeks and Romans lived very comfortably without linen.
+
 But presently, a creditable day-labourer would be ashamed to be in public without a linen shirt.
-    Its lack would denote poverty which only people with extremely bad conduct fall into.
+- Its lack would denote poverty which only people with extremely bad conduct fall into.
+
 In England, custom has also rendered leather shoes necessary.
 The poorest creditable person would be ashamed to appear in public without them.
 In Scotland, custom has rendered them necessary to the lowest order of men, but not to women.
 Without discredit, those poor women can walk barefoot.
 In France, they are unnecessary for men and women.
+
 The lowest rank of men and women appear publicly in wooden shoes or barefoot without any discredit.
 
 Necessities are those things which nature and the established rules of decency have rendered necessary to the poorest people.
@@ -43,12 +44,14 @@ A man of any rank may abstain totally from such liquors.
 Nature does not render them necessary to support life.
 Custom does not render it indecent to live without them.
 
-149 Whatever raises the price of necessities must raise wages, so that the labourer may still be able to buy those necessary goods.
+
+{{< s v="149" >}} Whatever raises the price of necessities must raise wages, so that the labourer may still be able to buy those necessary goods.
 
 A tax on necessities raises their price higher than the amount of the tax because the dealer who pays the tax must get it back with a profit.
 Such a tax must lead to a rise in wages proportional to this rise of price.
 
-150 A tax on necessities operates exactly in the same way as a direct tax on wages.
+
+{{< s v="150" >}} A tax on necessities operates exactly in the same way as a direct tax on wages.
 
 In the long-run, it must always be advanced by the employer in the higher wages of his workers.
 - If he is a manufacturer, he will charge this rise with a profit on his goods. The final payment of the tax, with this overcharge, will fall on the consumer.
@@ -66,37 +69,45 @@ Tobacco is taxed=
 
 Those high duties have no effect on wages.
 Tea and sugar have become luxuries of the poor in England and Holland.
+
 Chocolate has become luxuries of the poor in Spain.
     Taxes on them have no effect on wages.
-The liquor taxes imposed in Great Britain in the current 18th century do not have any effect on wages.
-    The rise in the price of porter was caused by an additional tax of 36 pence on the barrel of strong beer.
-    It has not raised the wages of common labour in London.
-    These were 18 pence and 20 pence a day before the tax, and are not more now.
 
-152 The high price of luxuries does not reduce the ability of the poor to bring up families.
+The liquor taxes imposed in Great Britain in the current 18th century do not have any effect on wages.
+- The rise in the price of porter was caused by an additional tax of 36 pence on the barrel of strong beer.
+- It has not raised the wages of common labour in London.
+- These were 18 pence and 20 pence a day before the tax, and are not more now.
+
+{{< s v="152" >}} The high price of luxuries does not reduce the ability of the poor to bring up families.
 
 On the sober and industrious poor, taxes on luxuries act as sumptuary laws.
 They moderate their use of superfluities.
+
 This forced frugality perhaps increases their ability to bring up families.
-The sober and industrious poor generally= 
-raise the biggest families
-supply the demand for useful labour
+
+The sober and industrious poor generally:
+- raise the biggest families
+- supply the demand for useful labour
 
 Not all poor are sober and industrious.
 
 The dissolute and disorderly might continue to indulge in luxuries without regarding the distress it might bring on their families.
 Such disorderly persons seldom rear up big families.
 Their children generally perish from neglect, mismanagement, and the scantiness or unwholesomeness of their food.
+
 If their children survive the hardships from the bad conduct of their parents, such bad conduct commonly corrupts their morals.
 Instead of being useful to society, they become public nuisances by their vices and disorders.
 The high price of the luxuries of the poor might increase the distress of such disorderly families and reduce their ability to bring up children.
+
 It would probably not much reduce the country's useful population.
 
-153 Any rise in the average price of necessities must reduce the ability of the poor to bring up big families and supply useful labour, unless such price is compensated by a rise in wages.
+{{< s v="153" >}} Any rise in the average price of necessities must reduce the ability of the poor to bring up big families and supply useful labour, unless such price is compensated by a rise in wages.
 
-154 Taxes on luxuries do not raise the price of other commodities.
+{{< s v="154" >}} Taxes on luxuries do not raise the price of other commodities.
+
 Taxes on necessities raise wages.
-They tend to raise the price of all manufactures and reduce their sale and consumption.
+- They tend to raise the price of all manufactures and reduce their sale and consumption.
+
 The high price of necessities for the poor must be compensated by an increase in their wages.
 
 They are finally paid, always with an overcharge, partly by= 

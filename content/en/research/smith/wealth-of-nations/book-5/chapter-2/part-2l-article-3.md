@@ -1,15 +1,12 @@
-+++
-title=  "Wage Taxes"
-description=  "While the demand for labour and the price of goods remain the same, a direct tax on wages raises wages higher than the tax"
-date=  2015-01-18
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2k-article-2appendix"
-linkbtext=  "Part 2k"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2m-article-3"
-linkftext=  "Part 2m"
-heading= "Article 3 Part 2l"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Wage Taxes"
+heading: "Part 2l, Article 2 Simplified"
+date: 2020-12-09
+image: "/covers/wn.jpg"
+description: "While the demand for labour and the price of goods remain the same, a direct tax on wages raises wages higher than the tax"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
 
 
 {{< s v="131" >}} Book 1 showed that the wages of lower class workers are regulated by two circumstances= 
@@ -30,7 +27,8 @@ Whatever was the proportion of the tax, wages must rise in a higher proportion i
 
 For example, if the tax were 10%, wages must soon rise to 12.5% not 10%.
 
-132 A direct tax on wages can be advanced by his employer, at least if the demand for labour and the average price of provisions remained the same, before and after the tax.
+
+{{< s v="132" >}} A direct tax on wages can be advanced by his employer, at least if the demand for labour and the average price of provisions remained the same, before and after the tax.
 
 - In all such cases, the tax and something more than the tax would in reality be paid by his employer.
 - In different cases, the final payment would fall on different persons.
@@ -50,7 +48,7 @@ In all cases, a direct tax on wages must, in the long-run=
 - create a bigger reduction in land rent, and
 - a bigger rise in the price of manufactured goods, than an equal tax on rent and consumable commodities.
 
-133 If direct taxes on wages have not always created a proportional rise in those wages, it is because they have created a big fall in the demand for labour.
+{{< s v="133" >}} If direct taxes on wages have not always created a proportional rise in those wages, it is because they have created a big fall in the demand for labour.
 
 Such taxes generally caused= 
 - the decline of industry,
@@ -59,32 +57,33 @@ Such taxes generally caused=
 
 Because of such taxes, the price of labour must always be higher. This higher price, together with the employers' profits, must always be finally paid by the landlords and consumers.
 
-134 A tax on the wages of country labour does not raise the price of the rude produce of land in proportion to the tax, for the same reason that a tax on the farmer's profit does not raise that price in that proportion.
+{{< s v="134" >}} A tax on the wages of country labour does not raise the price of the rude produce of land in proportion to the tax, for the same reason that a tax on the farmer's profit does not raise that price in that proportion.
 
-135 Such absurd and destructive taxes are in place in many countries.
+{{< s v="135" >}} Such absurd and destructive taxes are in place in many countries.
 
 In France, the taille charged on workers and day-labourers is a tax of this kind.
 Their wages are computed according to the common rate of their district. They may be as little liable as possible to any overcharge.
 Their yearly gains are estimated at no more than 200 working days in the year.
+
 The tax of each individual varies annually.
 The judges for that tax are the collectors appointed by the intendant.
 
 In Bohemia, a change in the system of finances began in 1748. It caused a very heavy tax to be imposed on artificers.
 
-They are divided into four classes= 
+They are divided into 4 classes:
 
 1. The highest class pay 100 florins a year. At 22-pence halfpenny a florin, this amounts to 2,250pence.
 2. The second class are taxed at 70 florins.
 3. The third class at 50 florins.
 4. The fourth class at 25 florins. This class includes village artificers and the lowest workers.
 
-136 I have shown in Book 1 that the recompense of ingenious artists and men of liberal professions is proportional to the emoluments of inferior trades.
+{{< s v="136" >}} I have shown in Book 1 that the recompense of ingenious artists and men of liberal professions is proportional to the emoluments of inferior trades.
 
 A tax on this recompense raises this proportion higher relative to the tax.
 If it did not rise in this way, the ingenious arts and the liberal professions would be no longer at a level with other trades.
 They would be deserted and they would soon return to that level.
 
-137 The emoluments of offices are not regulated by free competition.
+{{< s v="137" >}} The emoluments of offices are not regulated by free competition.
 
 These do not always bear a just proportion to what the nature of the employment requires.
 In most countries, they are perhaps higher than it requires.

@@ -1,19 +1,19 @@
-+++
-title=  "Taxes on House and Ground Rent"
-description=  "House rents are made up of the Building-rent and The Ground-rent"
-date=  2015-01-25
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2d-article-1"
-linkbtext=  "Part 2d"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2f-article-1"
-linkftext=  "Part 2f"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Taxes on House and Ground Rent"
+heading: "Chapter 2e of Part 1b"
+date: 2020-12-23
+image: "/covers/wn.jpg"
+description: "House rents are made up of the Building-rent and The Ground-rent"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
 
 
-{{< s v="66" >}} House rents have two parts= 
-- The Building-rent
-- The Ground-rent
+
+{{< s v="66" >}} House rents have 2 parts:
+
+1. Building-rent
+2. Ground-rent
 
 
 {{< s v="67" >}} The building-rent is the interest or profit on the capital spent in building the house.
@@ -21,8 +21,10 @@ icon=  "/icons/smith.png"
 To put the builder's trade at level with other trades, this rent should be enough to= 
 Pay him the same interest which he would have gotten if he lent out his capital
 Maintain the house or to replace the capital employed in building it within a certain term of years
+
 The building-rent is the ordinary profit of building.
-It is everywhere regulated by the ordinary interest of money.
+- It is everywhere regulated by the ordinary interest of money.
+
 If the market interest rate is 4%, the building-rent requires 6% or 6.5% on the building's total cost.
     This might afford enough profit to the builder.
 If the market interest rate is 5%, it may require 7% or 7.5%.
@@ -44,21 +46,24 @@ It will pay no more than what that ground would pay if used in agriculture.
 In country villas near a great town, the ground-rent is sometimes much higher.
 
 The convenience or beauty of its location is frequently very well paid for.
-Ground-rents are generally highest in= 
-the capital, and
-places with the greatest demand for houses whether for= 
-    trade and business
-    pleasure and society
-    vanity and fashion
 
-69 A tax on house-rent, payable by the tenant, could not affect the building-rent.
+Ground-rents are generally highest in:
+- the capital, and
+- places with the greatest demand for houses whether for:
+  - trade and business
+  - pleasure and society
+  - vanity and fashion
+
+
+{{< s v="69" >}} A tax on house-rent, payable by the tenant, could not affect the building-rent.
 
 If the builder did not get his reasonable profit, he would quit building.
 This would raise the demand for building.
+
 In a short time, it would bring back his profit to its proper level with other trades.
 Such a tax would not all fall on the ground-rent.
 
-It would fall= 
+It would fall:
 - partly on the house dweller, and
 - partly on the ground owner.
 
@@ -87,26 +92,34 @@ How this final payment would be divided between them is not very easy to ascerta
 The division would probably be very different in different circumstances.
 This kind of tax might affect the house-dweller and the ground owner very unequally.
 
-71 The inequality of this tax on the owners of ground-rents would come from the accidental inequality of this division between tenant and ground owner.
 
-Its inequality of this tax on the tenants would arise from= 
-the inequality of this division, and
-the lifestyle cost
-    The proportion of the house-rent to the cost of living varies with the tenant's wealth.
-    It is highest in the wealthiest state and lowest in the poorest state.
+{{< s v="71" >}}  The inequality of this tax on the owners of ground-rents would come from the accidental inequality of this division between tenant and ground owner.
+
+Its inequality of this tax on the tenants would arise from:
+- the inequality of this division, and
+- the lifestyle cost
+
+The proportion of the house-rent to the cost of living varies with the tenant's wealth.
+- It is highest in the wealthiest state and lowest in the poorest state.
+
 Basic necessities make up the main expence of the poor.
 Most of their little revenue is spent on getting food.
+
 Luxuries make up the main expence of the rich.
+
     A magnificent house embellishes all their other luxuries.
     A tax on house-rents would fall heaviest on the rich.
     This inequality is reasonable.
+
 It is reasonable that the rich should contribute to the public expence more than in proportion to their revenue.
 
-72 The house rents resemble land rents, but is essentially different in one respect.
+
+{{< s v="72" >}} The house rents resemble land rents, but is essentially different in one respect.
 
 Land rents are paid for their productive use.
 House rents are paid for their unproductive use.
 Neither the house nor its ground produce anything.
+
 The house rent must be paid from some other source of revenue independent from the house.
 A tax on house rents falls on the tenants.
 It must be paid from their revenue whether from wages, profits, or land rent.
@@ -120,14 +133,17 @@ If the tax was very high, most people would evade it by=
     renting smaller houses, and
     spending on other things.
 
-73 House rents might easily be ascertained accurately in the same way ordinary land rents are ascertained.
+
+{{< s v="73" >}} House rents might easily be ascertained accurately in the same way ordinary land rents are ascertained.
 
 Uninhabited houses should pay no tax.
 Such a tax would all fall on the proprietor.
 He would be taxed for something which did not give him convenience nor revenue.
+
 Houses inhabited by the proprietor should be rated to its possible revenue if leased to a tenant.
 It should not be taxed according to its building cost.
 If rated according to the building cost, a tax of 15-20%, with other taxes, would ruin all rich families.
+
 The house rent of the richest families in Great Britain is only 6.5% or 7% of the original building cost.
 It is nearly equal to the whole net rent of their estates.
 It is the accumulated expence of several generations spent on great beauty and magnificence.

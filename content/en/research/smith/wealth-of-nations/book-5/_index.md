@@ -1,5 +1,6 @@
 ---
 title: "Government Expenses and Revenue"
+linkTitle: Book 5
 heading: "Book 5"
 date: 2020-09-09
 image: "/covers/wn.jpg"
@@ -9,8 +10,6 @@ author: Adam Smith
 aliases:
   /research/smith/simple-wealth-of-nations/
 ---
-
-
 
 <!-- Introduction
 

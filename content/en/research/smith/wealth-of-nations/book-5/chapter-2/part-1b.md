@@ -13,8 +13,8 @@ author: Adam Smith
 {{< s v="14" >}} Land is a fund more naturally stable and permanent.
 
 The rent of public lands was the main source of the public revenue of many great nations above the shepherd state.
-    The ancient Greek and Italian republics derived most of the government revenue from the rent of public lands.
-    The ancient European sovereigns for a long time derived their revenue from the rent of the crown lands.
+- The ancient Greek and Italian republics derived most of the government revenue from the rent of public lands.
+- The ancient European sovereigns for a long time derived their revenue from the rent of the crown lands.
 
 
 {{< s v="15" >}} War and the preparation for war create most of the expence of all great modern states.
@@ -22,6 +22,7 @@ The rent of public lands was the main source of the public revenue of many great
 But in the ancient Greek and Italian republics, every citizen was a soldier.
 Each served and prepared himself for service at his own expence.
 War could not create any big state expence.
+
 The rent of a very moderate landed estate might be fully sufficient to defray all the other necessary government expences.
 
 

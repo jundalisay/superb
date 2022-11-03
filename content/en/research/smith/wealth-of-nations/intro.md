@@ -1,13 +1,11 @@
 ---
+heading: Introduction
 title: "Introduction and Plan of the Work"
-date: 2020-01-31
+date: 2020-09-30
 image: "/covers/wn.jpg"
-description: ""
-linkb: /research/smith/wealth-of-nations/
-linkbtext: "Index"
-linkf: /research/smith/wealth-of-nations/book-1/chapter-1-division
-linkftext: "Chapter 1"
+description: "The work of every nation is the fund which originally supplies it with all the necessaries and conveniencies of life"
 icon: "/icons/smith.png"
+author: Adam Smith
 ---
 
 
@@ -75,6 +73,7 @@ Book 5 explains the revenue of government and:
 The necessary expences of government
 Which of those expenses should be defrayed by general taxes
 Which of those expenses should be defrayed by specific taxes targetting a particular segment of society
+
 The methods how the whole society can contribute towards defraying those expences.
 It includes the advantages and inconveniencies of each of those methods
 The reasons and causes for government debt and their effects on the real wealth of society.

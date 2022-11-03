@@ -1,18 +1,16 @@
-+++
-title 	=  "French Taxation"
-heading =  "Part 2w, Article 4"
-description=  "In France, most of the crown's actual revenue is derived from eight sources--Taille, Capitation, Two vingtiemes, Gabelles, Aides, Traites, Domaine, The farm of tobacco"
-date=  2015-01-07
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2v-article-4"
-linkbtext=  "Part 2a"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-3a"
-linkftext=  "Part 3a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Eight Sources of French Taxes"
+heading: "Part 2w, Article 4 Simplified"
+date: 2020-11-10
+image: "/covers/wn.jpg"
+description: "In France, most of the crown's actual revenue is derived from 8 sources"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
 
 
-{{< s v="221" >}} In France, most of the crown's actual revenue is derived from eight sources= 
+
+{{< s v="221" >}} In France, most of the crown's actual revenue is derived from 8 sources:
 
 1. Taille
 2. Capitation
@@ -102,5 +100,6 @@ The residence of such wealthy people necessarily keeps alive a certain degree of
 Public calamities can destroy the republican form of government and throw the administration into the hands of nobles and soldiers.
 
 It would annihilate the importance of those wealthy merchants and make it disagreeable to them to live in a country where they are not much respected.
+
 They would remove their residences and their capitals to some other country.
 Holland's industry and commerce would then follow the capitals which supported them.

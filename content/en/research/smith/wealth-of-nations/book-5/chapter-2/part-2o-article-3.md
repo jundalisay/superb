@@ -1,16 +1,13 @@
-+++
-title=  "Taxes on Necessities"
-heading=  "Part 2, Article 3"
-description=  "In Great Britain, the principal taxes on necessities are those on salt, leather, soap, and candles"
-date=  2015-01-15
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2n-article-3"
-linkbtext=  "Part 2n"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2p-article-4"
-linkftext=  "Part 2p"
-# heading=  part-2o-article-3
-icon=  "/icons/smith.png"
-+++
+---
+title: "Taxes on Necessities"
+heading: "Part 2o, Article 2"
+date: 2020-12-03
+image: "/covers/wn.jpg"
+description: "In Great Britain, the principal taxes on necessities are those on salt, leather, soap, and candles"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="155" >}} In Great Britain, the principal taxes on necessities are those on salt, leather, soap, and candles.
@@ -49,7 +46,8 @@ Coals carried by land or by inland navigation pay no duty.
 Where they are naturally cheap, they are consumed duty free.
 Where they are naturally dear, they are loaded with a heavy duty.
 
-158 Such taxes raise the price of subsistence and wages.
+
+{{< s v="158" >}} Such taxes raise the price of subsistence and wages.
 
 Yet they afford a big and easy revenue to government.
 There may be good reasons for continuing them.
@@ -63,27 +61,33 @@ The following have all the bad effects of taxes on necessities=
 They produce no revenue to government. The public just needs to be convinced of the futility of such regulations, for them to be repealed.
 
 
-159 Taxes on necessities are much higher in other countries than in Great Britain.
+{{< s v="159" >}} Taxes on necessities are much higher in other countries than in Great Britain.
 
 Duties on flour when ground at the mill, and bread when baked at the oven, take place in many countries.
 In Holland, the money price of the bread consumed in towns is doubled by such taxes.
 In lieu of a part of them, the people in the countryside pay every year so much a head according to the sort of bread they are supposed to consume.
+
 Those who consume wheaten bread pay 3 guilders 15 stivers or 6 shillings and 9-pence halfpenny.
 Taxes such as these raised the price of labour and ruined most Dutch manufactures.
 Similar taxes, though not quite so heavy, take place in the Milan, Genoa, Modena, Parma, Placentia, and Guastalla, and in the ecclesiastical state.
+
 A French author has proposed to reform the finances of his country by replacing taxes on necessities with other taxes.
 
-Cicero says=  There is nothing so absurd which has not been asserted by philosophers.
+Cicero says:
+
+There is nothing so absurd which has not been asserted by philosophers.
 
 
-160 Taxes on meat are more common than those on bread.
+{{< s v="160" >}} Taxes on meat are more common than those on bread.
 
 Meat is not a necessary of life.
+
 It is known from experience that grain and vegetables with the help of milk, cheese, butter or oil (where there is no butter) can afford the most plentiful, wholesome, nourishing, and invigorating diet without any meat.
+
 Decency does not require any man to eat meat as requires wearing a linen shirt.
 
 
-161 Consumable commodities may be taxed in two ways.
+{{< s v="161" >}} Consumable commodities may be taxed in two ways.
 
 The consumer may pay an annual sum for consuming goods of a certain kind.
 The consumable goods which last a long time before they are consumed are most properly taxed this way.
@@ -93,18 +97,19 @@ Goods which are consumed immediately are taxed this way.
 Most duties of excise and customs are examples of this tax.
 
 
-162 A coach may last 10 or 12 years with good management.
+{{< s v="162" >}} A coach may last 10 or 12 years with good management.
 
 It might be taxed once and finally before it leaves the coach-maker.
 It is more convenient for the buyer to pay 960 pence a year for the privilege of keeping a coach than to pay 9,600 pence or 11,520 pence all at once to the coach-maker.
 This is the total cost of the tax during the life of the coach.
 In the same way, a service of plate may last more than a century.
 It is easier for the consumer to pay 60 pence a year for every 100 ounces of plate, near 1% of the value, than to redeem this long annuity at 25 or 30 years purchase.
+
 Doing so would enhance the price by 25-30%.
 The taxes on houses are more conveniently paid by moderate annual payments than by a single heavy tax.
 
 
-163 Sir Matthew Decker proposed that all commodities should be taxed this way.
+{{< s v="163" >}} Sir Matthew Decker proposed that all commodities should be taxed this way.
 
 The dealer would advance nothing.
 The consumer would pay a certain annual sum for the licence to consume certain goods.
@@ -145,11 +150,13 @@ In several countries, immediately-consumable commodities are taxed this way.
 In Holland, people pay for a licence to drink tea.
 The tax on bread is levied there in the same way.
 
-164 The excise duties are imposed briefly on local goods for home consumption.
+
+{{< s v="164" >}} The excise duties are imposed briefly on local goods for home consumption.
 
 They are imposed only on a few sorts of goods of the most general use.
-There can never be any doubt om= 
-the goods subject to those duties, and
-the duty which each species of goods is subject to.
-They all fall on luxuries except the duties on salt, soap, leather, candles, and green glass.
 
+There can never be any doubt om:
+- the goods subject to those duties, and
+- the duty which each species of goods is subject to.
+
+They all fall on luxuries except the duties on salt, soap, leather, candles, and green glass.

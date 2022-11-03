@@ -1,3 +1,14 @@
+---
+title: "General Taxes: Customs Duties"
+heading: "Part 2p, Article 2 Simplified"
+date: 2020-12-01
+image: "/covers/wn.jpg"
+description: "They were called 'customs' to denote customary payments which used from time immemorial"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
+
 +++
 title=  "General Taxes -- Customs Duties"
 description=  "The high duties imposed on foreign imports encouraged smuggling in many cases."

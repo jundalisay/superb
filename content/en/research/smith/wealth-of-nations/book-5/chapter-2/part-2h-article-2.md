@@ -1,15 +1,13 @@
-+++
-title=  "Taxes on the Profit of Particular Employments" 
-description=  "In some countries, extraordinary taxes are imposed on profits when employed in particular trades, and in agriculture"
-date=  2015-01-22
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2g-article-2"
-linkbtext=  "Part 2g"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2i-article-2"
-linkftext=  "Part 2i"
-heading=  "Part 2h"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Taxes on the Profit of Particular Employments"
+heading: "Chapter 2h of Part 1b"
+date: 2020-12-17
+image: "/covers/wn.jpg"
+description: "In some countries, extraordinary taxes are imposed on profits when employed in particular trades, and in agriculture"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="100" >}} In some countries, extraordinary taxes are imposed on profits when employed= 
@@ -26,16 +24,17 @@ During the recent war, a similar tax was proposed on shops.
 The war was entered to defend the trade of the country.
 The merchants who profit by it should contribute to support it.
 
-102 A tax on the profits from any trade can never fall finally on the dealers.
+{{< s v="102" >}} A tax on the profits from any trade can never fall finally on the dealers.
 
 They must ordinarily have their reasonable profit. If the competition is free, he can seldom have more than that profit. Such a tax always falls on the consumers. They must pay the tax in the price of the goods with some overcharge.
 
 
-103 This kind of tax is finally paid by the consumer.
+{{< s v="103" >}} This kind of tax is finally paid by the consumer.
 
 It creates no oppression to the dealer when it varies according to the dealer's trade.
 When it is not proportioned, it is the same on all dealers.
     It is still finally paid by the consumer, but it favours the big dealer and oppresses the small one.
+
 The tax of 5 shillings a week on every hackney coach, and 10 shillings a year on every hackney chair is exactly proportional to their respective dealings.
     It neither favours the great, nor oppresses the smaller dealer.
 
@@ -58,7 +57,8 @@ A big tax would oppress the small dealers.
         The final payment would fall on the consumer with a big overcharge to the shopkeeper's profit, instead of falling on the shopkeeper.
 For these reasons, the tax on shops was laid aside and replaced with the subsidy of 1759.
 
-104 The French personal taille is perhaps the most important tax on agricultural profits in Europe.
+
+{{< s v="104" >}} The French personal taille is perhaps the most important tax on agricultural profits in Europe.
 
 105 In the European disorder during the feudal government, the sovereign was obliged to tax those who were too weak to refuse to pay taxes.
 The great lords were willing to assist him during emergencies.

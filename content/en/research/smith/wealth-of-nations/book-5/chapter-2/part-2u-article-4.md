@@ -1,15 +1,12 @@
-+++
-title=  "Article 4-General Taxes -- Taxes on luxuries"
-heading=  "Part 2u Article 4"
-description=  "Taxes on luxuries generally are paid piecemeal. In the time and mode of payment they are the most convenient of all taxes"
-date=  2015-01-09
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2t-article-4"
-linkbtext=  "part-2t"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2v-article-4"
-linkftext=  "part-2v"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Article 4-General Taxes -- Taxes on luxuries"
+heading: "Part 2u, Article 4 Simplified"
+date: 2020-11-23
+image: "/covers/wn.jpg"
+description: "Taxes on luxuries generally are paid piecemeal. In the time and mode of payment they are the most convenient of all taxes"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
 
 
 
@@ -134,5 +131,6 @@ Goods carried coastwise require certificates or coast-cockets.
 If you except coals, however, the rest are almost all duty-free.
 This freedom of interior commerce is the effect of the uniformity of the tax system.
 It is perhaps one of the principal causes of the prosperity of Great Britain.
+
 Because every great country is necessarily the best and most extensive market for most of the produce of its own industry.
 If the same freedom from the same uniformity, could be extended to Ireland and the plantations, the state's grandeur and the empire's prosperity would probably be greater.

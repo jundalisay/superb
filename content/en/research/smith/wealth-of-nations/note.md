@@ -3,15 +3,9 @@ title: "Simplification Notes"
 date: 2020-01-31
 image: "/covers/wn.jpg"
 description: ""
-linkb: /research/smith/wealth-of-nations/book-1
-linkbtext: "Chapter 1"
-linkf: /research/smith/wealth-of-nations/book-1/
-linkftext: "Chapter 1"
 icon: "/icons/smith.png"
 draft: true
 ---
-
-
 
 
 Past and present tenses are used as if the current date is February 1773 for Book 1, January 1775 for Book 5, and year is 1784 for the rest of the books.

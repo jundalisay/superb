@@ -1,8 +1,9 @@
 ---
-title: "Book 2 The Nature of Stock"
+heading: Book 2
+title: "The Nature of Stock"
 linkTitle: Book 2
 description: "Stock is divided into fixed, circulating, and for consumption"
-date: "2015-09-09"
+date: 2015-09-28
 image:  "/covers/wn.jpg"
 ---
 
