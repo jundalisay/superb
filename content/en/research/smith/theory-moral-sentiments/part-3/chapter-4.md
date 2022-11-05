@@ -1,20 +1,19 @@
-+++
-title=  "The Nature of Self-deceit and the Origin and Use of General Rule"
-heading=  "Chapter 4"
-description=  "The impartial spectator does not always need to be far to pervert our judgments on our own conduct"
-date=  2015-09-24
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-3/chapter-3c"
-linkbtext=  "Chapter 3c"
-linkf=  "/research/smith/theory-moral-sentiments/part-3/chapter-5a"
-linkftext=  "Chapter 5a"
-+++
+---
+title: "The Nature of Self-deceit and the Origin and Use of General Rule"
+heading: "Chapter 4"
+description: "The impartial spectator does not always need to be far to pervert our judgments on our own conduct"
+date: 2015-09-08
+image: "/covers/tms.jpg"
+author: Adam Smith
+icons: /icons/smith.png
+---
+
 
 88 The impartial spectator does not always need to be far to pervert our judgments on our own conduct.
 
 When he is near, the violence and injustice of our own selfish feelings are sometimes enough to induce the man within the breast to make a report very different from what our real circumstances can authorise.
 
-89 There are two occasions when we examine our own conduct and try to view it as how the impartial spectator sees it= 
+89 There are two occasions when we examine our own conduct and try to view it as how the impartial spectator sees it: 
 - when we are about to act
 - after we have acted.
 
@@ -24,23 +23,27 @@ But they tend to be most partial when they must be impartial.
 
 90 Before we perform an act, our feeling's eagerness will seldom allow us to think about what we are doing.
 
-Our violent emotions discolour our views even when we are trying to= 
+Our violent emotions discolour our views even when we are trying to: 
 place ourselves in another person's situation, and
 regard the objects that interest us as how they will naturally appear to another person.
 The fury of our own feelings constantly calls us back to our own place, where everything appears magnified and misrepresented by self-love.
 We can obtain only instantaneous glimpses of how those objects would appear to others.
-These glimpses= 
-vanish in a moment, and
-are not altogether just, even while they last.
-We cannot even for that moment= 
-divest ourselves entirely of the heat inspired by our situation, and
-consider what we are about to do with complete impartiality.
-As father Malebranche says, the passions all= 
-justify themselves, and
-seem reasonable and proportional to their objects, as long as we continue to feel them.
+
+These glimpses: 
+- vanish in a moment, and
+- are not altogether just, even while they last.
+
+We cannot even for that moment: 
+- divest ourselves entirely of the heat inspired by our situation, and
+- consider what we are about to do with complete impartiality.
+
+As father Malebranche says, the passions all: 
+- justify themselves, and
+- seem reasonable and proportional to their objects, as long as we continue to feel them.
+
 We protect our ego through self-deceit, a weakness of humans which creates half of the disorders of human life
 
-91 We can enter more coolly into the indifferent spectator's feeling whens= 
+91 We can enter more coolly into the indifferent spectator's feeling whens: 
 - the action is over and
 - the feelings which prompted it have subsided.
 
@@ -49,24 +52,29 @@ The man of today is no longer agitated by the feelings which distracted him yest
 When the burst of emotion is fairly over, we can identify ourselves with the ideal man within the breast.
 We can view our own situation through our own eyes.
 We can view our own conduct with the severe eyes of the impartial spectator.
-But our judgments now= 
-are often of little importance compared to what they were before, and
-can frequently produce only vain regret and unavailing repentance.
+
+But our judgments now: 
+- are often of little importance compared to what they were before, and
+- can frequently produce only vain regret and unavailing repentance.
+
 It does not always secure us from similar errors in the future.
+
 However, they are seldomly quite candid even in this case.
 
 Our opinion on our own character depends entirely on our judgments on our past conduct.
 It is so disagreeable to think bad of ourselves.
+
 We often purposely turn away our view from those circumstances which might render that judgment unfavourable.
 They say that a bold surgeon has hands which do not tremble when he performs an operation on himself.
 A man is often equally bold if he pulls off the veil of self-delusion which covers the deformities of his own conduct from his own view.
 Rather than see our own behaviour so disagreeably, we often foolishly try to exasperate those unjust feelings which misled us.
 
-By artifice, we try to= 
-awaken our old hatreds, and
-irritate afresh our almost forgotten resentments.
+By artifice, we try to: 
+- awaken our old hatreds, and
+- irritate afresh our almost forgotten resentments.
+
 We even exert ourselves for this miserable purpose.
-We thus persevere in injustice, merely because= 
+We thus persevere in injustice, merely because: 
 we were once unjust, and
 we are ashamed to see that we were so.
 92 Mankind's views on the propriety of their own conduct are so partial, both during the time of action and afterwards.
@@ -76,19 +84,24 @@ Man's moral sense is a power of perception which distinguishes the beauty or def
 If men judged their own conduct more immediately by this moral sense, then it would more accurately judge on them, than on those of other men.
 The moral sense of other men have a more distant prospect.
  
-93Half the disorders of human life is caused by this self-deceit, this fatal weakness of mankind.
+93 The fatal weakness of people are their own self-deceit.
+-  Half the disorders of human life is caused by this.
 
 If we saw ourselves as how others see us, or in which they would see us if they knew all, a reform would generally be unavoidable.
 We could not otherwise endure the sight.
+
 Nature's remedy for self-deceit are general rules
 
 94 However, Nature has not left this important weakness without a remedy.
 
 She has not abandoned us entirely to the delusions of self-love.
 Our continual observations on the conduct of others, insensibly lead us to form to ourselves general rules on what is fit and proper to be done or avoided.
+
 Some of their actions shock all our natural sentiments.
 We hear everybody detest against them.
+
 This further confirms and even exasperates our natural sense of their deformity.
+
 It satisfies us that we view them in the proper light, when we see other people view them in the same light.
 We resolve never to be guilty of the like, nor ever to render ourselves the objects of universal disapprobation in this way.
 We thus naturally lay down a general rule to ourselves that we should avoid all actions which render us the objects of all those dreaded feelings.
@@ -117,7 +130,7 @@ On the contrary, the general rule which he might form afterwards would be founde
 
 96 When we read in history or romance, we admire the account of actions of generosity or condemn the actions of baseness.
 
-Neither of them arise from reflecting that there are certain general rules which declare= 
+Neither of them arise from reflecting that there are certain general rules which declare: 
 - all generous actions admirable, and
 - all base actions contemptible.
 
@@ -133,7 +146,7 @@ These rules can only be formed by observing what actions actually excite them.
 We frequently appeal to them as to the standards of judgment, in debating on the morality of complicated and dubious actions.
 They are commonly cited as the ultimate foundations of what is just and unjust.
 This circumstance have misled several very eminent authors, to draw up their systems thinking that mankind's original moral judgments were formed like the decisions of a court of justice.
-It considers= 
+It considers: 
 The general rule
 Then, whether the action under consideration fell properly within its comprehension.
 99 When those general rules of conduct have been fixed in our mind by habitual reflection, they are very useful in correcting the misrepresentations of self-love on what is moral.
@@ -142,15 +155,15 @@ If a very resentful man listened to the dictates of self-love, he might regard h
 But his observations on the conduct of others, have taught him how horrible all such sanguinary revenges appear.
 Unless his education has been very singular, he lays as an inviolable rule, to always abstain from revenge.
 This rule renders him incapable of such a violence
-The original fury of his own temper might have made him determine the revenge to be= 
+The original fury of his own temper might have made him determine the revenge to be: 
 quite just and proper, and
 what every impartial spectator would approve of.
-But his reverence for the rule which past experience has impressed on him= 
+But his reverence for the rule which past experience has impressed on him: 
 checks the impetuosity of his feelings, and
 corrects the partial views suggested by his self-love.
 If he lets himself be controlled by resentment as to violate this rule, he will not be able to throw away his respect for this rule.
 At the peak of his passion, this respect makes him hesitate and tremble at the thought of what he is about to do.
-He is secretly conscious to himself that he is breaking those rules= 
+He is secretly conscious to himself that he is breaking those rules: 
 which he had resolved never to infringe during his cool hours,
 which he had never seen infringed by others without the highest disapprobation, and
 of which the infringement must soon render him similarly disagreeable.
@@ -158,7 +171,7 @@ Before he can take the last fatal decision, he is tormented with doubt.
 He is terrified of violating so sacred a rule.
 At the same time, he is urged on by the fury of his desires to violate it.
 He changes his purpose every moment.
-Sometimes he resolves= 
+Sometimes he resolves: 
 to adhere to his principle, and
 not to indulge a passion which may bring him shame and repentance.
 He is calmed momentarily from the prospect of that peace which he will enjoy if stops himself.

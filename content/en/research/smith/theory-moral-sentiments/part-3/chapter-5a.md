@@ -1,15 +1,15 @@
+---
+title: "The Authority of the General Moral Rules properly seen as the Laws of the Deity"
+heading: "Chapter 5a"
+description: "The foundation of our moral faculties were given to us to direct of our conduct in this life"
+date: 2015-09-06
+image: "/covers/tms.jpg"
+author: Adam Smith
+icons: /icons/smith.png
+---
 
-+++
-title=  "The Authority of the General Moral Rules properly seen as the Laws of the Deity"
-heading=  "Chapter 5a"
-description=  "The foundation of our moral faculties were given to us to direct of our conduct in this life"
-date=  2015-09-23
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-3/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/theory-moral-sentiments/part-3/chapter-5b"
-linkftext=  "Chapter 4b"
-+++
+
+
 
 100 The sense of duty is the regard to the general rules of conduct.
 
@@ -19,29 +19,32 @@ Many men behave very decently.
 They perhaps never felt the sentiment on propriety.
 They might have acted merely from a regard to the established rules of behaviour.
 The man who has received great benefits from another person may feel just a small gratitude.
-However, if he has been virtuously educated, he will often have been made to observe= 
+However, if he has been virtuously educated, he will often have been made to observe: 
 how odious ungrateful actions are, and
 how amiable grateful actions are
+
 Though his heart is not warmed with any grateful affection, he will strive to act as if it were.
+
 He will try to pay all those regards and attentions to his patron with the liveliest gratitude.
 He will visit him regularly.
 He will behave to him respectfully.
-He will only talk of him= 
-with the highest esteem, and
-of the many obligations which he owes to him.
+He will only talk of him:
+- with the highest esteem, and
+- of the many obligations which he owes to him.
+
 He will carefully embrace every opportunity of making a proper return for past services.
-He may do all this too without any= 
+He may do all this too without any: 
 hypocrisy or blamable dissimulation,
 selfish intention of obtaining new favours, and
 design of imposing on his benefactor or the public.
 
-His motives may be no other than= 
+His motives may be no other than: 
 - a reverence for the established rule of duty, and
 - a serious and earnest desire of acting according to the law of gratitude.
 
 In the same way, a wife may sometimes not feel that tender regard for her husband suitable to their marriage.
 
-However, if she has been virtuously educated, she will try to= 
+However, if she has been virtuously educated, she will try to: 
 - act as if she felt it,
 - be careful, officious, faithful, and sincere, and
 - be attentive to her husband.
@@ -55,13 +58,13 @@ They could never have overlooked such opportunities if they had the proper senti
 They are perhaps the second best of their kind.
 If the regard to the general rules of conduct has been very strongly impressed on them, neither of them will fail in any very essential part of their duty.
 
-Only those of the happiest mould can= 
+Only those of the happiest mould can: 
 - precisely and justly suit their sentiments and behaviour to the smallest difference of situation, and
 - always act with the most delicate and accurate propriety.
 
 The coarse clay of which the bulk of mankind are formed, cannot be wrought up to such perfection.
 
-However, anyone with discipline, education, and example, might be so impressed with a regard to general rules, as to= 
+However, anyone with discipline, education, and example, might be so impressed with a regard to general rules, as to: 
 - act on almost always with tolerable decency, and
 - avoid any considerable degree of blame through his whole life.
  
@@ -110,11 +113,11 @@ Men indiscriminately ascribed to them all the passions of human nature, those no
 They had the highest admiration for the excellence of the nature of those beings.
 Men ascribed to them those sentiments and qualities which are the great ornaments of humanity.
 
-The following qualities were raised to divine perfection= 
+The following qualities were raised to divine perfection: 
 - the love of virtue and beneficence
 - the abhorrence of vice and injustice
 
-The man who was injured called on Jupiter to witness the wrong done to him. He could not doubt that Jupiter= 
+The man who was injured called on Jupiter to witness the wrong done to him. He could not doubt that Jupiter: 
 - would behold it with the same indignation which animated the meanest of mankind
 - looked on when injustice was committed
 
@@ -125,7 +128,7 @@ He could not avoid their presence.
 He could not resist their power.
 These natural hopes, fears, and suspicions, were propagated by sympathy and confirmed by education.
 
-The gods were universally represented and believed to be= 
+The gods were universally represented and believed to be: 
 - the rewarders of humanity and mercy, and
 - the avengers of perfidy and injustice.
 
@@ -137,17 +140,17 @@ It was thus enforced by the terrors of religion.
  
 104 However, these researches confirmed those original anticipations of nature.
 
-The foundation of our moral faculties were given to us to direct of our conduct in this life, whether those foundations are from= 
+The foundation of our moral faculties were given to us to direct of our conduct in this life, whether those foundations are from: 
 - a modification of reason,
 - an original instinct called a moral sense, or
 - some other principle of our nature.
 
-They carry along with them the most evident badges of this authority. These denote that they were set up within us to= 
+They carry along with them the most evident badges of this authority. These denote that they were set up within us to: 
 - be the supreme arbiters of all our actions,
 - superintend all our senses, passions, and appetites, and
 - judge how far each of them was to be indulged or restrained.
 
-Some have pretended wrongly that our moral faculties= 
+Some have pretended wrongly that our moral faculties: 
 
 are on a level with the other faculties of our nature
 have no more right to restrain our other faculties, than our other faculties restrain our moral faculties
@@ -159,7 +162,7 @@ But they cannot, with any propriety, be said to approve or disapprove of one ano
 But it is the peculiar office of those faculties now under our consideration to judge, to bestow censure or applause on all the other principles of our nature.
 They may be considered as a sort of senses of which those principles are the objects.
 Every sense is supreme over its own objects.
-There is no appeal from= 
+There is no appeal from: 
 the eye with regard to the beauty of colours,
 the ear with regard to the harmony of sounds, and
 the taste with regard to the agreeableness of flavours.
@@ -168,7 +171,7 @@ Whatever gratifies the taste is sweet.
 Whatever pleases the eye is beautiful.
 Whatever soothes the ear is harmonious.
 The very essence of each of those qualities consists in its being fitted to please the sense to which it is addressed.
-In the same way, it belongs to our moral faculties to determine= 
+In the same way, it belongs to our moral faculties to determine: 
 when the ear should be soothed,
 when the eye should be indulged,
 when the taste should be gratified, and
@@ -192,9 +195,9 @@ Like them, they are rules to direct the free actions of men.
 They are prescribed most surely by a lawful superior.
 They are also attended with the sanction of rewards and punishments.
 
-Those deputies of God within us, never fail to= 
+Those deputies of God within us, never fail to: 
 - punish their violation by the torments of inward shame and self-condemnation, and
-- always reward obedience with= 
+- always reward obedience with: 
 - tranquility of mind, and
 - self-satisfaction.
 
@@ -204,24 +207,24 @@ The happiness of mankind and all other rational creatures seems to be the origin
 No other end seems worthy of that supreme wisdom and divine benignity which we necessarily ascribe to him.
 We are led to this opinion by the abstract consideration of his infinite perfections.
 This opinion is still more confirmed by examining the works of nature.
-They seem all intended to= 
+They seem all intended to: 
 promote happiness, and
 guard against misery.
 By acting according to the dictates of our moral faculties, we necessarily pursue the most effective means for promoting mankind's happiness.
 
-We may therefore be said in some sense to= 
+We may therefore be said in some sense to: 
 cooperate with the Deity, and
 advance the plan of Providence as far as we can.
-On the contrary, by acting in other ways, we seem to= 
+On the contrary, by acting in other ways, we seem to: 
 obstruct the scheme which the Author of nature established for the world's happiness and perfection, and
 declare ourselves the enemies of God.
-Hence we are naturally encouraged to= 
+Hence we are naturally encouraged to: 
 hope for his extraordinary favour and reward in the one case, and
 dread his vengeance and punishment in the other case.
  
 107 There are many other reasons and natural principles which confirm and inculcate the same salutary doctrine.
 
-Despite the world's disorder, every virtue naturally meets with= 
+Despite the world's disorder, every virtue naturally meets with: 
 its proper reward, and
 the recompense most fit to encourage and promote it.
 A very extraordinary concurrence of circumstances is required to entirely disappoint it.
@@ -251,7 +254,7 @@ An innocent man may be believed to have done wrong.
 However, this will rarely happen.
 On the contrary, the established opinion of the innocence of his manners will often lead us to absolve him when he has really been in the fault, despite very strong presumptions.
 In the same way, a knave may escape censure or even be applauded for a particular knavery, in which his conduct is not understood.
-But no innocent man was ever habitually blamed for a wrong action without being= 
+But no innocent man was ever habitually blamed for a wrong action without being: 
 almost universally known to be a knave, and
 frequently suspected of guilt.
 Thus, vice and virtue can be commonly met with something more than exact and impartial justice.

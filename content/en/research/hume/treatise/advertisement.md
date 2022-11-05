@@ -1,52 +1,66 @@
 ---
-date: "2020-06-16"
+title: "Advertisement"
+date: 2020-06-16
 description: "Advertisement Treatise of Human Nature"
-title: "Advertisement "
 image: "/covers/treatise.jpg"
+author: David Hume
+icon: /icons/hume.png
 ---
+
 
 
 I began with 2 books about the Understanding and the Passions as they make a complete chain of reasoning by themselves naturally.
 
 If those 2 books are successful, I shall write Book 3 on Morals, Politics, and Criticism, completing this Treatise of Human Nature.
 
-I consider the public's approbation as the greatest reward of my labours and its judgment as my best instruction.
+I consider:
+- the public's approbation as the greatest reward of my labours and
+- the public's judgment as my best instruction.
 
 
 ## Introduction
 
 Those who pretend to discover new things in philosophy and the sciences usually praise their own discoveries by decrying all those that came before them.
+- Only a few scientists would readily agree with them.
 
-Only a few scientists would readily agree with them.
-It is easy for a wise and learned person to perceive the weak foundation even of those systems which have:
-obtained the greatest credit, and
-carried their pretensions highest to an accurate and profound reasoning.
+It is easy for a wise and learned person to perceive the weak foundation of systems which have:
+- obtained the greatest credit, and
+- carried their pretensions highest to an accurate and profound reasoning.
+
 The systems of the most eminent philosophers:
+- have principles taken on trust,
+- have consequences lamely deduced from trust, and
+- lack coherence in parts and evidence on the whole.
 
-have principles taken on trust,
-have consequences lamely deduced from trust, and
-lack coherence in parts and evidence on the whole.
 Their systems have drawn disgrace on philosophy itself.
 
 No profound knowledge is needed to discover the present imperfect condition of the sciences.
-From the noise and clamour, we see that all is not well in their systems.
-Everything is subject to debate and contrary opinions.
+- From the noise and clamour, we see that all is not well in their systems.
+- Everything is subject to debate and contrary opinions.
+
 We entertain the most trivial question.
-But we are not able to give any certain answer on the most momentous ones.
+- But we are not able to give any certain answer on the most momentous ones.
+
 Disputes are multiplied, as if everything was uncertain.
-These disputes are managed with the greatest warmth, as if everything was certain.
+- These disputes are managed with the greatest warmth, as if everything was certain.
+
 Amidst all this bustle, eloquence carries the prize, not reason.
 
-The artful man, who represents the most extravagant hypothesis in favourable colours, never despairs of gaining converts.
-The victory is not gained by the soldiers, but by the army's trumpeters, drummers, and musicians.
-I think this is the cause of that common prejudice against metaphysical reasonings, even among those who:
-profess themselves scholars, and
-have a just value for every other part of literature.
+The artful man uses the most extravagant hypothesis in favourable colours. 
+- He always gains converts.
+- The victory is not gained by the soldiers, but by the army's trumpeters, drummers, and musicians.
+
+I think this is the cause of that common prejudice against metaphysical reasonings, even among:
+- scholars, and
+- those who have a just value for every other part of literature.
+
 By metaphysical reasonings, they do not understand those on any particular branch of science.
 
 But they understand every kind of argument which is abstruse and requires some attention to be comprehended.
+
 We have so often lost our labour in such researches.
-We commonly reject them without hesitation.
+- We commonly reject them without hesitation.
+
 If we must forever be a prey to errors and delusions, we resolve that they shall at least be natural and entertaining.
 Only the most determined skepticism, with a great indolence, can justify this aversion to metaphysics.
 For if truth is within the reach of human capacity at all, it must lie very deep and abstruse.
@@ -83,8 +97,7 @@ The sole end of logic is to explain:
 - the nature of our ideas.
 
 Logic, Morals, and Criticism explain our tastes and feelings.
-
-Politics explains how men are united in society and dependent on each other.
+- Politics explains how men are united in society and dependent on each other.
 
 These four sciences of Logic, Morals, Criticism, and Politics comprehends almost everything which can:
 - be important to us, or
@@ -93,6 +106,7 @@ These four sciences of Logic, Morals, Criticism, and Politics comprehends almost
 Here, the only expedient for success in our philosophical researches is to leave the tedious lingering method which we have followed.
 
 Instead of taking a castle or village on the frontier now and then, we march up directly to the capital or center of these sciences, to human nature itself.
+
 Once we master human nature, we may hope for an easy victory everywhere else.
 From here, we may extend our conquests over all those sciences, which more intimately concern human life.
 We may afterwards proceed at leisure to discover more fully those which are the objects of curiosity.

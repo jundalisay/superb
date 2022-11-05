@@ -1,26 +1,20 @@
+---
+title: "The Influences and Authority of Conscience"
+heading: "Chapter 3a"
+description: "The Eye of the Impartial Spectator"
+date: 2015-09-18
+image: "/covers/tms.jpg"
+author: Adam Smith
+icons: /icons/smith.png
+---
 
 
-
-
-
-+++
-title=  "The Influences and Authority of Conscience"
-heading=  "Chapter 3a"
-description=  "The Eye of the Impartial Spectator"
-date=  2015-09-27
-image=  "/covers/tms.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/wrongright.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-3/chapter-2b"
-linkbtext=  "Chapter 2b"
-linkf=  "/research/smith/theory-moral-sentiments/part-3/chapter-3b"
-linkftext=  "Chapter 3b"
-+++
 
 43 The approbation of man's own conscience can content his own weaknesses only during some extraordinary occasions.
 
 The testimony of the impartial spectator cannot always support him alone. Yet its influence and authority is always very great.
 
-It is only by consulting this judge within that we can ever= 
+It is only by consulting this judge within that we can ever: 
 - see what relates to ourselves in its proper dimensions, or
 - properly compare between our own interests and those of others.
  
@@ -29,11 +23,11 @@ It is only by consulting this judge within that we can ever=
 
 44 Objects appear big or small to the eye according to their distance from it, not so much according to their real dimensions.
 
-So do objects appear to the mind's natural eye. We remedy the defects of both these organs in the same way. Currently, an immense landscape of lawns, woods, and distant mountains, seems to= 
+So do objects appear to the mind's natural eye. We remedy the defects of both these organs in the same way. Currently, an immense landscape of lawns, woods, and distant mountains, seems to: 
 - merely cover the window I write by, and
 - be out of proportion with my room.
 
-I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can= 
+I can only fairly compare those big objects and the small objects near me by transporting myself in fancy, to a place from where I can: 
 - survey both at equal distances, and
 - judge their real proportions.
 
@@ -41,23 +35,23 @@ Habit and experience have taught me to do this so easily and so readily, that I 
  
 45 In the same way, the loss or gain of our own very small interest appears to be vastly more important to the selfish and original passions of human nature. It excites a more passionate joy, sorrow, desire, or aversion, than the greatest concern of another person who we are unconnected with.
 
-As long as they are surveyed from this station, his interests can never= 
+As long as they are surveyed from this station, his interests can never: 
 - be put into the balance with our own, and
 - restrain us from doing whatever promotes our own interest, no matter how ruinous to him.
 
 Before we can compare those opposite interests, we must change our position.
-We must view them neither= 
+We must view them neither: 
 - from our own place nor from his,
 - with our own eyes nor with his.
 
-We must view them from the place and with the eyes of a third person who= 
+We must view them from the place and with the eyes of a third person who: 
 - has no particular connection with either, and
 - judges impartially between us.
 
 Here, too, habit and experience have taught us to do this so easily and readily.
 - We do not know that we do it.
 
-We need some reflection and philosophy to convince us= 
+We need some reflection and philosophy to convince us: 
 - how little interest we should take in our neighbour's greatest concerns, and
 - how little we should be affected by whatever relates to him, if the sense of propriety and justice did not correct the natural inequality of our feelings.
  
@@ -65,7 +59,7 @@ We need some reflection and philosophy to convince us=
 
 Let us consider how a European man of humanity, who was totally unconnected with China, would be affected upon knowing this calamity.
 He would express his sorrow very strongly for the misfortune of the Chinese.
-He would make many sad reflections on= 
+He would make many sad reflections on: 
 the precariousness of human life, and
 the vanity of all of man's labours which could thus be annihilated instantly.
 If he were speculative, he might also think about the effects of this disaster on European commerce, world trade, and business in general.
@@ -92,15 +86,15 @@ It is reason, principle, conscience the inhabitant of the breast, the man within
 
 He calls to us with a voice which astonishes our most presumptuous passions, whenever we are about to affect the happiness of others.
 
-It tells us= 
+It tells us: 
 - that we are but one of the multitude, no better than any other in it, and
 - that when we prefer ourselves so shamefully and so blindly to others, we become the proper objects of resentment, abhorrence, and swearing.
 
-It is only by this impartial spectator's eye that= 
+It is only by this impartial spectator's eye that: 
 - we learn the real littleness of ourselves, and of whatever relates to ourselves.
 - the natural misrepresentations of self-love can be corrected.
 
-He shows us= 
+He shows us: 
 - the propriety of generosity,
 - the deformity of injustice,
 - the propriety of resigning our greatest interests for the greater interests of others, and
@@ -108,40 +102,45 @@ He shows us=
 
 We are prompted many times to practice those divine virtues not from the love of our neighbour nor the love of mankind.
 
-It is a stronger love, a more powerful affection, which generally takes place on such occasions=  The love of what is honourable and noble, of the grandeur, and dignity, and superiority of our own characters.
+It is a stronger love, a more powerful affection, which generally takes place on such occasions:  The love of what is honourable and noble, of the grandeur, and dignity, and superiority of our own characters.
  
 
 47 When the happiness or misery of others depends on our conduct, we dare not, as self-love might suggest to us, prefer the interest of one to the interest of many.
 
-The man within immediately tells us that= 
+The man within immediately tells us that: 
 we value ourselves too much, and
 we value others too little.
 By doing so, we render ourselves the proper object of our brethren's contempt and indignation.
 This feeling is not confined to men of extraordinary magnanimity and virtue.
 It is deeply impressed on every good soldier.
-He feels that his companions would scorn him if he= 
+He feels that his companions would scorn him if he: 
 shrank from danger, or
 hesitated to throw away his life when required.
  
 48 A person must never prefer himself so much as to hurt or injure others in order to benefit himself, even if his benefit should be much greater than the hurt to the other.
 
 The poor man must neither defraud nor steal from the rich, even if the acquisition might be much more beneficial to the poor man than the loss could be hurtful to the rich man.
- The man within immediately tells him that= 
-he is no better than his neighbour, and
-by this unjust preference, he renders himself the proper object of= 
-mankind's contempt, and
-the punishment naturally due to him for having violated one of those sacred rules.
+
+The man within immediately tells him that: 
+- he is no better than his neighbour, and
+- by this unjust preference, he renders himself the proper object of: 
+  - mankind's contempt, and
+  - the punishment naturally due to him for having violated one of those sacred rules.
+
 Society's peace and security depends on the tolerable observation of those rules.
-Commonly, an honest man dreads less suffering from the greatest external calamity which was not caused by him, than= 
-the inward disgrace of his unjust action, and
-the stain it would forever stamp on his own mind.
-The great stoical maxim is= 
-Death, poverty, pain, and all of man's external misfortunes are less contrary to nature, than it is for one man to= 
-deprive another unjustly of anything, or
-unjustly promote his own advantage by another's loss.
+
+Commonly, an honest man dreads less suffering from the greatest external calamity which was not caused by him, than: 
+- the inward disgrace of his unjust action, and
+- the stain it would forever stamp on his own mind.
+
+The great stoical maxim is: 
+- Death, poverty, pain, and all of man's external misfortunes are less contrary to nature, than it is for one man to: 
+  - deprive another unjustly of anything, or
+  - unjustly promote his own advantage by another's loss.
+
 All honest men inwardly feel this truth.
  
-49 We do not always need to restrain our natural anxiety on our own affairs or our natural indifference on the affairs of others when= 
+49 We do not always need to restrain our natural anxiety on our own affairs or our natural indifference on the affairs of others when: 
 
 the happiness or misery of others do not depend on our conduct, and
 our interests are detached from theirs, so that there is no connection nor competition between them.
@@ -151,7 +150,7 @@ Even ordinary world commerce can adjust our active principles to some degree of 
 But, it has been said, that only the most artificial and refined education can correct the inequalities of our passive feelings.
 It has been pretended that we must have recourse to the severest and profoundest philosophy.
  
-Two Sets of Negative Moral Philosophers=  One increases our fellow-feeling through pessimism, another reduces our ego
+Two Sets of Negative Moral Philosophers:  One increases our fellow-feeling through pessimism, another reduces our ego
 50 Two sets of philosophers have tried to teach us this hardest of all the lessons of morality.
 
 One set tried to increase our sensibility to the interests of others.
@@ -165,8 +164,8 @@ Both exaggerated their doctrines.
 They perpetually reproach our happiness while so many of our brethren are in misery, *7
 
 
-They think= 
-- many poor people are= 
+They think: 
+- many poor people are: 
     - labouring under calamities
     - in the languor of poverty
     - in the agony of disease
@@ -182,10 +181,12 @@ But this extreme sympathy with misfortunes which we do not know seems absurd.
 For one man who suffers pain or misery on the earth, you will find twenty in prosperity or in tolerable circumstances
 There is no reason why we should weep with the one than rejoice with the twenty.
 This artificial sympathy is absurd and unattainable.
+
 Those who feel this way commonly only have a certain sentimental sadness.
 Without reaching the heart, it only renders the conversation impertinently dismal.
 Even if this disposition could be attained, it would be perfectly useless.
 It could only render the person who possessed it miserable.
+
 Whatever interest we take in the fortune of people unconnected to us can only produce anxiety in us.
 It does not produce any advantage to them.
 Why should we trouble ourselves about the world on the moon?
@@ -193,7 +194,7 @@ Everyone is entitled to our good wishes.
 
 We naturally give them our good wishes.
 But if they are unfortunate, it is not our duty to give ourselves any anxiety about it.
-Nature seems to have wisely ordered that we should be but little interested in the fortune of people who= 
+Nature seems to have wisely ordered that we should be but little interested in the fortune of people who: 
 we can neither serve nor hurt, and
 are so very remote from us
 We could still gain nothing if this original constitution changed.
@@ -202,21 +203,30 @@ We could still gain nothing if this original constitution changed.
 
 Envy usually prevents it
 Whenver envy allows it, our favour to prosperity is often too great.
+
 The same moralists who blame us for lack of sympathy with the miserable, reproach us for our levity in admiring the fortunate, powerful, and the rich.
+
  
 53 The second set of philosophers reduce our sensibility to our own interest.
 
 All the ancient sects of philosophers tried to correct the natural inequality of our passive feelings by reducing our sensibility to what concerns ourselves.
+
 The Stoics were the best examples of this.
-According to them, man should regard himself as= 
-a citizen of the world,
-a member of the vast commonwealth of nature, not as something separated.
+
+According to them, man should regard himself as: 
+- a citizen of the world,
+- a member of the vast commonwealth of nature, not as something separated.
+
 He should always be willing to sacrifice his own little interest to the greater interest of this community.
+
 Whatever concerns himself should affect him no more than whatever concerns any other part of this immense system.
+
 We should view ourselves as how any other person would view us, not as how our own selfish feelings place us.
+
 What befalls ourselves we should regard as what befalls our neighbour, or, what comes to the same thing, as our neighbour regards what befalls us.
 
-Epictetus says= 
+Epictetus says:
+
 'When our neighbour loses his wife or son, everyone knows that this is a human calamity.
 It is a natural event according to the ordinary course of things.
 But, when the same thing happens to ourselves, we cry out, as if we had suffered the most dreadful misfortune.

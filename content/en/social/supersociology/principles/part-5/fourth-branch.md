@@ -99,12 +99,12 @@ As a historical example, let us put ourselves in the American Revolution in 1777
 
 At that time, George Washington (executive branch), could not get food for his troops because the expertise of Congress (legislative branch) was lawmaking and not logistics. A resource branch of government would've mapped the resources available in the colonies in advance and then relay the information to the executive for collection. Any injustice committed would then be tried by the judicial branch.
 
-The idea for this branch came up while planning out the implementation of our new economic system in an actual society. Since we don't have much manpower, we tried to automate, or at least make the system automate-able in the future. The resources needed to run the system have to be used as efficiently as possible without an expensive adminstrative system. Thus, the idea for an automate-able resource branch came about, which will have its genesis as the resource banking system (which we call points banking) used to safeguard all transactions. 
+The idea for this branch came up while planning out the implementation of our new economic system in an actual society. Since we don't have much manpower, we tried to automate, or at least make the system automate-able in the future. 
 
-<br>
+The resources needed to run the system have to be used as efficiently as possible without an expensive adminstrative system. Thus, the idea for an automate-able resource branch came about, which will have its genesis as the resource banking system (which we call points banking) used to safeguard all transactions. 
+
+>
 
 {{< youtube oJXjxLYQQ08 >}}
-
-<br>
 
 This is in line with both the vision of economic singularity and David Hume's [Ideal Commonwealth](/research/hume/essays/part-2/16-the-ideal-system-of-government)

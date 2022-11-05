@@ -1,6 +1,6 @@
 ---
 title: "Are Castles Advantageous Or Hurtful?"
-heading: "Chapter 20"
+heading: "Chapter 20 of The Prince Simplified"
 author: "Niccolo Machiavelli"
 description: "The prince who has more to fear from the people than from foreigners ought to build castles, but he who has more to fear from foreigners than from the people should leave them alone"
 date: 2021-08-28
@@ -72,26 +72,42 @@ They will be tightly bound to serve the prince faithfully because they know it i
 
 He must carefully consider the reasons which induced those to favour him who did so. If it was not a natural feeling towards him, but only discontent with their government, then he will only keep them friendly with great trouble and difficulty, because it will be impossible to satisfy them. 
 
-And weighing well the reasons for this in those examples which can be taken from ancient and modern affairs, we shall find that it is easier for the prince to make friends of those men who were contented under the former government, and are therefore his enemies, than of those who, being discontented with it, were favourable to him and encouraged him to seize it.
+<!-- And weighing well the reasons for this in those examples which can be taken , we shall find that  -->
 
+It is easier for the prince to make friends of those who were contented under the former government, and are therefore his enemies, than of those who, being discontented with it, were favourable to him and encouraged him to seize it.
+- This is seen from both ancient and modern affairs.
 
-Princes customarily build castles to hold their states more securely. They warn those who might want to work against them, and serve as a protection from a first attack. 
+Princes customarily build castles to hold their states more securely. Castles:
+- warn those who might want to work against them, and
+- serve as a protection from a first attack. 
 
-This was a good system in the past. Nicolo Vitelli in our times destroyed 2 castles in Citta di Castello so that he might keep that state. 
+This was a good system in the past. 
 
-Guido Ubaldo, Duke of Urbino, on returning to his principality, after he had been driven out by Cesare Borgia, destroyed all the castles in that place down to the foundations, and considered that without them it would be more difficult to lose it. The Bentivogli returning to Bologna came to a similar decision.
+Nicolo Vitelli in our times destroyed 2 castles in Citta di Castello so that he might keep that state. 
 
-Castles, therefore, are useful or not according to circumstances. If they do you good in one way, they injure you in another. 
+Guido Ubaldo, Duke of Urbino, was driven out by Cesare Borgia. Guido returned to his principality and destroyed all the castles there with the reason that without the castles, it would be more difficult to lose it. 
 
-The prince who has more to fear from the people than from foreigners ought to build castles, but he who has more to fear from foreigners than from the people should leave them alone. The castle of Milan, built by Francesco Sforza, has made, and will make, more trouble for the house of Sforza than any other rebellion in the state.
+The Bentivogli returned to Bologna came to a similar decision.
 
+Castles, therefore, are useful or not according to circumstances.
+- If they do you good in one way, they injure you in another. 
 
-This is why the best possible castle is not to be hated by the people. Although you may hold the castles, yet they will not save you if the people hate you. There will always be foreigners to assist a people who have rebelled against you. 
+The prince who fears his people more than foreigners should build castles. But if he fear foreigners more, then he should leave his people alone. 
 
-In our times, such castles have been useful only to the Countess of Forli, when the Count Girolamo, her husband, was killed. Thanks to the castle, she was able to resist the popular attack and wait for assistance from Milan and recover her state. 
+The castle of Milan was built by Francesco Sforza. It has made, and will make, more trouble for the house of Sforza than any other rebellion in the state.
+
+This is why the best possible castle is not to be hated by the people. 
+
+Although you may hold the castles, yet they will not save you if the people hate you. 
+
+There will always be foreigners to assist a people who have rebelled against you. 
+
+In our times, such castles have been useful only to the Countess of Forli, when the Count Girolamo, her husband, was killed. 
+- Thanks to the castle, she was able to resist the popular attack and wait for assistance from Milan and recover her state. 
 
 Back then, foreigners could not assist the people. But castles were of little value to her afterwards when Cesare Borgia attacked her, and when the people, her enemy, were helped by foreigners.
 
 Therefore, it would have been safer for her, both then and before, not to have been hated by the people than to have had the castles. 
 
-I praise both castle-builders and non-castle-builders. I blame whoever trusts castles and cares little about being hated by the people.
+I praise both castle-builders and non-castle-builders. 
+- I blame whoever trusts castles and cares little about being hated by the people.

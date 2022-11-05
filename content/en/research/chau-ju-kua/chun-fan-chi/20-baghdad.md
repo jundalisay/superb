@@ -1030,19 +1030,12 @@ Tu Huan
 had no knowledge
 foundation of which by the second Abbaside Caliph in 762 A. D.
 fell in
-of
-III,
-112:
-Of.
 Baghdad, the 15
 the year of his return to
 China by a trading vessel bound for Canton.
-15) Sin
 T'ang-shu, 221, has taken some of
 Huan's work, among
-its
 statements concerning Ta-ts'in from
-T u
 others what he says of the people's fondness for wine and cakes, also the
 passage conceriiing the «Devil marketn. See Hirth, China and the
 Ancient, mediaeval, and modern travellers mention such
@@ -1062,14 +1055,8 @@ between the Ethiopians and the Barbarians-^probably Somalis.
 (Ball's
 says
 edit.)
-it is
-(infra,
-Ch.
-refers to
-it
-as existing in his time in India, and
+it is  refers to
+it as existing in his time in India, and
 used among the aborigines of the
 XL) on
 the trade between the natives of the Philippines (Ma-i) and the Chinese. -->
-
-

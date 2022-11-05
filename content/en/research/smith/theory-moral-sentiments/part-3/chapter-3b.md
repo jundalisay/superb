@@ -1,22 +1,18 @@
+---
+title: "Direct and Indirect Misfortunes Simplified"
+heading: "Chapter 3b"
+description: "Misfortunes make our feelings extreme"
+date: 2015-09-16
+image: "/covers/tms.jpg"
+author: Adam Smith
+icons: /icons/smith.png
+---
 
 
 
-+++
-title=  "Direct and Indirect Misfortunes"
-heading=  "Chapter 3b"
-description=  "Misfortunes make our feelings extreme"
-date=  2015-09-26
-image=  "/covers/tms.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/sick.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-3/chapter-3a"
-linkbtext=  "Chapter 3a"
-linkf=  "/research/smith/theory-moral-sentiments/part-3/chapter-3c"
-linkftext=  "Chapter 3c"
-+++
+## Misfortunes make our feelings extreme
 
-### Misfortunes make our feelings extreme
-
-54 There are two kinds of private misfortunes which make our feelings go beyond the bounds of propriety= 
+54 There are two kinds of private misfortunes which make our feelings go beyond the bounds of propriety: 
 
 > 1. Those that affect us only indirectly.
 
@@ -32,7 +28,7 @@ They affect our body, fortune, or reputation. Examples are pain, sickness, appro
 But they may likewise fall short of it. They frequently do so.
 The man who feels no more for the death of his own father than for the death of any other man's father, would not appear as a good son.
 Such unnatural indifference would be highly disapproved.
-However, of those domestic feelings= 
+However, of those domestic feelings: 
 some offend by their excess
 some offend by their defect.
 For the wisest purposes, Nature has rendered in everyone a parental tenderness.
@@ -43,13 +39,13 @@ The parents' existence and preservation seldom depend on the child's care.
 Therefore, Nature has rendered the parental tenderness so strong.
 It generally requires not to be excited, but to be moderated.
 
-Moralists generally teach us how to restrain our= 
+Moralists generally teach us how to restrain our: 
 - fondness
 - excessive attachment
 - our unjust preference to our own children above those of other people.
 
 They seldom try to teach us how to indulge these.
-On the contrary, they exhort us to= 
+On the contrary, they exhort us to: 
 an affectionate attention to our parents, and
 make a proper return to them in their old age for their kindness during our infancy and youth.
 In the Decalogue, we are commanded to honour our fathers and mothers.
@@ -78,7 +74,7 @@ Examples are Racine, Voltaire, Richardson, Maurivaux, and Riccoboni.
 In such cases, they are much better instructors than Zeno, Chrysippus, or Epictetus.
 
 
-57 The following are not undelicious sensations= 
+57 The following are not undelicious sensations: 
 
 that moderated sensibility to the misfortunes of others, which does not disqualify us from doing any duty,
 the sad remembrance of our departed friends.
@@ -111,12 +107,12 @@ It seldom fails to excite the spectator's most sincere sympathy.
 Though presently in society, this misfortune can seldom happen without some very considerable misconduct in the sufferer.
 
 Yet he is almost always so much pitied.
-He is scarce ever allowed to fall into extreme poverty= 
+He is scarce ever allowed to fall into extreme poverty: 
 by his friends, and
 frequently by the indulgence of those very creditors who complain of his imprudence.
 He is almost always supported in some decent, though humble, mediocrity.
 We might easily pardon some weakness in such unfortunate persons.
-But, at the same time, we always approve of persons who= 
+But, at the same time, we always approve of persons who: 
 carry the firmest countenance,
 accommodate themselves with the greatest ease to their new situation, and
 feel no humiliation from the change.
@@ -140,7 +136,7 @@ It might create in them a most improper insensibility to real honour and infamy 
 We frequently remember our sensibility to the misfortunes of others with pleasure and satisfaction.
 We can seldom remember our sensibility to our own misfortunes without some shame and humiliation.
  
-63 If we examine our weakness and self-command in common life, we will see that this control of our passive feelings is acquired from= 
+63 If we examine our weakness and self-command in common life, we will see that this control of our passive feelings is acquired from: 
 
 that great discipline which Nature established for the acquisition of virtues.
 a regard to the sentiments of the real or supposed spectator of our conduct.
@@ -154,7 +150,7 @@ While it remains with such partial protectors, its anger is the first and, perha
 By noise and threats, they often frighten it into good temper for their own ease.
 The passion which incites the child to attack, is restrained by the passion which teaches it to attend to its own safety.
 When it is old enough to go to school or mix with its equals, it soon finds that they have no such indulgent partiality.
-It naturally wishes to= 
+It naturally wishes to: 
 gain their favour, and
 avoid their hatred or contempt.
 It is taught to do so from a regard to its own safety.
@@ -184,7 +180,7 @@ He approves and applauds himself by sympathy with their approbation.
 His pleasure from this enables him more easily to continue this generous effort.
 In most cases, he avoids mentioning his own misfortune.
 If his visitors are tolerably well bred, they would not anything which can remind him of it.
-He tries to= 
+He tries to: 
 entertain them in his usual way on indifferent subjects or
 if he feels himself strong enough to venture to mention his misfortune, he tries to talk of it as he thinks they are capable of talking of it.
 He even feels it no further than they are capable of feeling it.
@@ -201,11 +197,11 @@ Secret enemies are frequently fond of making those charitable visits as early as
 In this case, the weakest man in the world tries to support his manly countenance.
 He tries to behave with as much gaiety and ease as he can, from indignation and contempt of their malice.
  
-67 The man of real constancy and firmness is the wise and just man who has been thoroughly bred in= 
+67 The man of real constancy and firmness is the wise and just man who has been thoroughly bred in: 
 
 the great school of self-command
 the bustle and business of the world
-He has been perhaps exposed to= 
+He has been perhaps exposed to: 
 
 the violence and injustice of faction
 the hardships and hazards of war
@@ -213,14 +209,14 @@ Such a man always maintains this control of his passive feelings.
 
 He wears nearly the same countenance whether in solitude or in society.
 He is affected very nearly in the same manner.
-He has often been under the necessity of supporting this manhood= 
+He has often been under the necessity of supporting this manhood: 
 in success and in disappointment
 in prosperity and in adversity before friends and enemies
 He has never dared to forget for one moment the judgment which the impartial spectator would pass on his sentiments and conduct.
 He has never dared to suffer the man within the breast to be absent one moment from his attention.
 With the eyes of this great inmate he has always been accustomed to regard whatever relates to himself.
 This habit has become perfectly familiar to him.
-He has been in the constant practice and under the constant necessity of modelling or of trying to model= 
+He has been in the constant practice and under the constant necessity of modelling or of trying to model: 
 his outward conduct and behaviour
 even his inward sentiments and feelings as much as he can, according to those of this awful and respectable judge.
 He does not merely affect the sentiments of the impartial spectator.
@@ -251,12 +247,12 @@ Though it might not extinguish them.
  
 70 In such attacks of distress, the wisest and firmest man makes a considerable and even a painful exertion to preserve his equanimity.
 
-The following presses hard on him= 
+The following presses hard on him: 
 his natural feeling of his own distress and
 his natural view of his own situation.
 He needs a very great effort to take the view of the impartial spectator.
 Both views present themselves to him at the same time.
-His whole attention is directed to the impartial spectator's view by his= 
+His whole attention is directed to the impartial spectator's view by his: 
 sense of honour, and
 regard to his own dignity
 He is being continually called into the his own natural view by his undisciplined feelings.
@@ -265,7 +261,7 @@ He does not become the impartial spectator of his own conduct.
 The different views of both characters exist in his mind separate from one another.
 Each directs him to a behaviour different from what the other directs him to.
 When he follows that view which honour and dignity point out to him, Nature does not leave him without a recompense.
-He enjoys= 
+He enjoys: 
 his own complete self-approbation and
 the applause of every candid and impartial spectator.
 By Nature's unalterable laws, however, he still suffers.
@@ -275,7 +271,7 @@ Neither is it fit that it should.
 If it did completely compensate them, he could not have any motive from self-interest to avoid an accident which would reduce his utility to himself and society.
 Nature, from her parental care of both, meant that he should anxiously avoid all such accidents.
 Therefore he suffers in the attack of distress.
-He maintains= 
+He maintains: 
 the manhood of his countenance and
 the sedateness and sobriety of his judgment.
 It requires his utmost exertions to do so.

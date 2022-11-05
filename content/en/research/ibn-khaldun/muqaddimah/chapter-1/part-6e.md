@@ -1,15 +1,12 @@
-+++
-title= "Numerology (hisab an-nim)"
-description= "Hisab an-nim aims to predict the victor and the vanquished when kings go to war with each other"
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-6d"
-linkbtext= "Part 6d"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-2"
-linkftext= "Chapter 2"
-heading= "Part 6e"
-icon = "/icons/ibn.jpg"
-date = 2020-01-13
-+++
+---
+title: "Numerology (hisab an-nim)"
+date: 2020-01-13
+description: "Hisab an-nim aims to predict the victor and the vanquished when kings go to war with each other"
+image: "/covers/muq.jpg"
+author: Ibn Khaldun
+icon: /icons/ibn.jpg
+---
+
 
 
 These are thus groups that lay down rules for the discovery of the supernatural:
@@ -24,8 +21,7 @@ These are thus groups that lay down rules for the discovery of the supernatural:
 <!-- I shall mention only as much of (the subject) as is mentioned in literature and has aroused
 the interest of distinguished men. -->
 
-Hisab an-nim aims to predict the victor and the vanquished when kings go to war with each other. The procedure is to add the
-numerical total of the letters in the name of each king, according to the system of calculation in which the letters of the alphabet in the sequence alif, b, j . . . are given the numerical values of units, tens, hundreds, and thousands from one to a thousand.
+Hisab an-nim aims to predict the victor and the vanquished when kings go to war with each other. The procedure is to add the numerical total of the letters in the name of each king, according to the system of calculation in which the letters of the alphabet in the sequence alif, b, j . . . are given the numerical values of units, tens, hundreds, and thousands from 1 to 1,000.
 
 When that has been done, each total should be divided by nine. The fractional remainder, in both cases, should be kept in mind. The two fractional remainders should be compared. If they are different and both are even or odd numbers, the (king) who has the smaller number will be the victor. If one of them is an even and the other an odd number, the (king) who has the larger number will. be the victor. 
 
@@ -143,15 +139,25 @@ It is the result of such people'sinability to understand the relations between t
 
 In order to refute this (denial of the genuineness of the operation of the za'irajah), it is sufficient for us (to refer to the fact) that the technique has been observed in operation and that it has been definitely and intelligently established that the operation follows a coherent procedure and sound norms. 
 
-No one who has much intelligence and sagacity and has had contact with the operation of the za'irajah would object to this statement. Many an operation with numbers, which are the clearest things in the world, is difficult to grasp, because the (existing) relations are difficult to establish and intricate. This is the case to a much greater degree here, where the relations are so intricate and strange. Let us mention a problem that will to some degree illustrate the point just stated.
+No one who has much intelligence and sagacity and has had contact with the operation of the za'irajah would object to this statement. 
+
+Many an operation with numbers, which are the clearest things in the world, is difficult to grasp, because the (existing) relations are difficult to establish and intricate. 
+
+This is the case to a much greater degree here, where the relations are so intricate and strange. Let us mention a problem that will to some degree illustrate the point just stated.
 
 Take a number of dirhams and place beside each dirham three fals. Then, take all the fals and buy a fowl with them. Then, buy fowls with all the dirhams for the same price that the first bird cost. How many fowls will you have bought?
 
-The answer is nine. 
+The answer is 9. 
 
-A dirham has 24  Pals. Three Pals are 1/8 of a dirham. One is eight times one-eighth. Adding up 1/8 of each dirham buys one fowl. This means eight fowls (for the dirhams), as one is eight times one-eighth . 378 Add another fowl, the one that was bought originally for the additional fats and that determined the price of the fowls bought with the dirhams.
+A dirham has 24 Pals. 
 
-This makes nine. 
+3 Pals are 1/8 of a dirham.
+
+1 is 8 times 1/8. 
+
+Adding up 1/8 of each dirham buys one fowl. This means eight fowls (for the dirhams), as one is eight times one-eighth . 378 Add another fowl, the one that was bought originally for the additional fats and that determined the price of the fowls bought with the dirhams.
+
+This makes 9. 
 
 The unknown answer was implied in the relations that existed between the numerical data indicated in the problem. This and similar
 (things) are at first suspected as belonging to the realm of the supernatural, which cannot be known.
@@ -161,8 +167,7 @@ It is from the relations existing among the data that one finds out the unknown 
 This, however, applies only to events occurring in (the world of) existence or in science. Things of the future belong to
 the supernatural and cannot be known unless the causes for their happening are known and we have trustworthy information about it.
 
-If this is clear, it follows that all the operations of the za'irajah serve merely to discover the words of the answer in the words of the question. As we have seen, it is a question of producing from a given arrangement of letters another
-arrangement of letters. 
+It follows that all the operations of the za'irajah serve merely to discover the words of the answer in the words of the question. As we have seen, it is a question of producing from a given arrangement of letters another arrangement of letters. 
 
 The secret here lies in the existence of a relationship between the two (different arrangements of letters). Someone may be aware of it, whereas someone else may not be aware of it. Those who know the existing relationship can easily discover the answer with the help of the stated rules. 
 
