@@ -1,15 +1,12 @@
-+++
-title= "Applications--Education"
-image= "/covers/liberty.jpg"
-date= 2022-01-27
-author= "John Stuart Mill"
-description= "Persons are not held to engagements which violate the rights of third parties. But it is sometimes considered a sufficient reason for releasing them from an engagement, that it is injurious to themselves."
-youtube = "UpwdTIAcLVY"
-linkb= "/research/mill/liberty/chapter-5"
-linkbtext= "Chapter 5"
-linkf= "/research/mill/liberty/"
-linkftext= "Index"
-+++
+---
+title: "Applications--Education"
+heading: "Chapter 5b"
+image: "/covers/liberty.jpg"
+date: 2022-01-13
+author: "John Stuart Mill"
+description: "Persons are not held to engagements which violate the rights of third parties. But it is sometimes considered a sufficient reason for releasing them from an engagement, that it is injurious to themselves"
+icon: "/icons/mill.png"
+---
 
 
 Liberty implies that <!-- It was pointed out in an early part of this Essay, that the liberty of the individual, in things wherein the individual is alone concerned,[Pg 194] implies a corresponding liberty in any number of --> individuals should regulate each other by mutual agreement in things that jointly regard themselves and others. <!-- , and regard no persons but themselves. This question presents no difficulty, so long as the will of all the persons implicated remains unaltered; --> 
@@ -141,7 +138,9 @@ It is indispensable, therefore, that the means should exist, independently of th
 
 To determine the point at which evils, so formidable to human freedom and advancement, begin, or rather at which they begin to predominate over the benefits attending the collective application of the force of society, under its recognised chiefs, for the removal of the obstacles which stand in the way of its well-being; to secure as much of the advantages of centralised power and intelligence, as can be had without turning into governmental channels too great a proportion of the general activity, is one of the most difficult and complicated questions in the art of government. It is, in a great measure, a question of detail, in which many and various considerations must be kept in view, and no absolute rule can be laid down. 
 
-But I believe that the practical principle in which safety resides, the ideal to be kept in view, the standard by which to test all arrangements intended for overcoming the difficulty, may be conveyed in these words= the greatest dissemination of power consistent with efficiency; but the greatest possible centralisation of information, and diffusion of it from the centre. Thus, in municipal administration, there would be, as in the New England States, a very minute [Pg 217]division among separate officers, chosen by the localities, of all business which is not better left to the persons directly interested; but besides this, there would be, in each department of local affairs, a central superintendence, forming a branch of the general government. The organ of this superintendence would concentrate, as in a focus, the variety of information and experience derived from the conduct of that branch of public business in all the localities, from everything analogous which is done in foreign countries, and from the general principles of political science.
+But I believe that the practical principle in which safety resides, the ideal to be kept in view, the standard by which to test all arrangements intended for overcoming the difficulty, may be conveyed in these words: the greatest dissemination of power consistent with efficiency; but the greatest possible centralisation of information, and diffusion of it from the centre. Thus, in municipal administration, there would be, as in the New England States, a very minute division among separate officers, chosen by the localities, of all business which is not better left to the persons directly interested; but besides this, there would be, in each department of local affairs, a central superintendence, forming a branch of the general government. 
+
+The organ of this superintendence would concentrate, as in a focus, the variety of information and experience derived from the conduct of that branch of public business in all the localities, from everything analogous which is done in foreign countries, and from the general principles of political science.
 
 This central organ should have a right to know all that is done, and its special duty should be that of making the knowledge acquired in one place available for others. Emancipated from the petty prejudices and narrow views of a locality by its elevated position and comprehensive sphere of observation, its advice would naturally carry much authority; but its actual power, as a permanent institution, should, I conceive, be limited to compelling the local officers to obey the laws laid down for their guidance. In all things not provided for by general rules, those officers should be left to their own judgment, under responsibility to their constituents. 
 
@@ -149,6 +148,10 @@ For the violation of rules, they should be responsible to law, and the rules[Pg 
 
 Whatever powers the Board exercises beyond this limit, were right and necessary in that peculiar case, for the cure of rooted habits of maladministration in matters deeply affecting not the localities merely, but the whole community; since no locality has a moral right to make itself by mismanagement a nest of pauperism, necessarily overflowing into other localities, and impairing the moral and physical condition of the whole labouring community. 
 
-The powers of administrative coercion and subordinate legislation possessed by the Poor Law Board (but which, owing to the state of opinion on the subject, are very scantily exercised by them), though perfectly justifiable in a case of first-rate national interest, would be wholly out of place in the superintendence[Pg 219] of interests purely local. But a central organ of information and instruction for all the localities, would be equally valuable in all departments of administration. A government cannot have too much of the kind of activity which does not impede, but aids and stimulates, individual exertion and development. 
+The powers of administrative coercion and subordinate legislation possessed by the Poor Law Board (but which, owing to the state of opinion on the subject, are very scantily exercised by them), though perfectly justifiable in a case of first-rate national interest, would be wholly out of place in the superintendence[Pg 219] of interests purely local.
 
-The mischief begins when, instead of calling forth the activity and powers of individuals and bodies, it substitutes its own activity for theirs; when, instead of informing, advising, and, upon occasion, denouncing, it makes them work in fetters, or bids them stand aside and does their work instead of them. The worth of a State, in the long run, is the worth of the individuals composing it; and a State which postpones the interests of their mental expansion and elevation, to a little more of administrative skill, or of that semblance of it which practice gives, in the details of business; a State which dwarfs its men, in order that they may be more docile instruments in its hands even for beneficial purposes, will find that with small men no great thing can really be accomplished; and that the perfection of machinery to which it has sacrificed everything, will in the end avail it nothing, for want of the vital power which, in order that the machine might work more smoothly, it has preferred to banish.
+But a central organ of information and instruction for all the localities, would be equally valuable in all departments of administration. A government cannot have too much of the kind of activity which does not impede, but aids and stimulates, individual exertion and development. 
+
+The mischief begins when, instead of calling forth the activity and powers of individuals and bodies, it substitutes its own activity for theirs; when, instead of informing, advising, and, upon occasion, denouncing, it makes them work in fetters, or bids them stand aside and does their work instead of them. 
+
+The worth of a State, in the long run, is the worth of the individuals composing it; and a State which postpones the interests of their mental expansion and elevation, to a little more of administrative skill, or of that semblance of it which practice gives, in the details of business; a State which dwarfs its men, in order that they may be more docile instruments in its hands even for beneficial purposes, will find that with small men no great thing can really be accomplished; and that the perfection of machinery to which it has sacrificed everything, will in the end avail it nothing, for want of the vital power which, in order that the machine might work more smoothly, it has preferred to banish.

@@ -1,16 +1,12 @@
-+++
-title= "General Remarks"
-heading= "Chapter 1"
-image= "/covers/ut.jpg"
-date= 2022-01-31
-author= "John Stuart Mill"
-description= "Utility is the foundation of morality"
-linkb= "/research/mill/utilitarianism"
-linkbtext= "Index"
-linkf= "/research/mill/utilitarianism/chapter-2"
-linkftext= "Chapter 2"
-icon = "/icons/mill.png"
-+++
+---
+title: "General Remarks"
+heading: "Chapter 1"
+image: "/covers/ut.jpg"
+date: 2022-01-31
+author: "John Stuart Mill"
+description: "What is the foundation of morality?"
+icon: "/icons/mill.png"
+---
 
 
 <!-- SEVENTH EDITION 1879, orig 1859, principles of political ecoomy 1848-->

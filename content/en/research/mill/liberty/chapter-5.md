@@ -1,16 +1,12 @@
-+++
-title= "Applications--Free Trade"
-image= "/covers/liberty.jpg"
-date= 2022-01-27
-author= "John Stuart Mill"
-description= "Utility is the foundation of morality"
-youtube = "UpwdTIAcLVY"
-linkb= "/research/mill/liberty/chapter-4"
-linkbtext= "Chapter 4"
-linkf= "/research/mill/liberty/chapter-5"
-linkftext= "Chapter 5"
-+++
-
+---
+title: "Applications--Free Trade"
+heading: "Chapter 5"
+image: "/covers/liberty.jpg"
+date: 2022-01-15
+author: "John Stuart Mill"
+description: "The individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself"
+icon: "/icons/mill.png"
+---
 
 <!-- The principles asserted in these pages must be more generally admitted as the basis for discussion of details, before a consistent application of them to all the various departments of government and morals can be attempted with any prospect of advantage. The few observations I propose to make on questions of detail, are designed to illustrate the principles, rather than to follow them out to their consequences. I offer, not so much applications, as specimens of application; which may serve to bring into greater clearness the meaning and limits of the two maxims which together form the entire doctrine of this Essay, and to assist the judgment in holding the balance between them, in the cases where it appears doubtful which of them is applicable to the case. -->
 

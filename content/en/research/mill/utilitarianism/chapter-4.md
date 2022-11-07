@@ -1,16 +1,13 @@
-+++
-title= "What Proofs are Needed by The Principle Of Utility"
-heading= "Chapter 4"
-image= "/covers/ut.jpg"
-date= 2022-01-28
-author= "John Stuart Mill"
-description= "Human nature is so constituted as to desire happiness. Thus happiness is the sole end of human action"
-linkb= "/research/mill/utilitarianism/chapter-2"
-linkbtext= "Chapter 2"
-linkf= "/research/mill/utilitarianism/chapter-4"
-linkftext= "Chapter 4"
-icon = "/icons/mill.png"
-+++
+---
+title: "What Proofs are Needed by The Principle Of Utility"
+heading: "Chapter 4"
+image: "/covers/ut.jpg"
+date: 2022-01-24
+author: "John Stuart Mill"
+description: "Human nature is so constituted as to desire happiness. Thus happiness is the sole end of human action"
+icon: "/icons/mill.png"
+---
+
 
 
 Ordinarily, ultimate ends do not admit of proof. To be incapable of proof by reasoning is common to all first principles; to the first premises of our knowledge, as well as to those of our conduct. 

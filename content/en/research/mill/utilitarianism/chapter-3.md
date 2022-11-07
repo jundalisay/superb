@@ -1,16 +1,13 @@
-+++
-title= "The Ultimate Sanction Of The Principle Of Utility."
-heading= "Chapter 3"
-image= "/covers/ut.jpg"
-date= 2022-01-29
-author= "John Stuart Mill"
-description= "Utility is pleasure and the absence of pain"
-linkb= "/research/mill/utilitarianism/chapter-2"
-linkbtext= "Chapter 2"
-linkf= "/research/mill/utilitarianism/chapter-4"
-linkftext= "Chapter 4"
-icon = "/icons/mill.png"
-+++
+---
+title: "The Ultimate Sanction Of The Principle Of Utility"
+heading: "Chapter 3"
+image: "/covers/ut.jpg"
+date: 2022-01-26
+author: "John Stuart Mill"
+description: "Utility is pleasure and the absence of pain"
+icon: "/icons/mill.png"
+---
+
 
 
 What are the motives to obey a moral standard? What is the source of its obligation? Whence does it derive its binding force?
