@@ -24,21 +24,28 @@ This knowledge is necessitated by the fact that we have in us scientific percept
 
 3. The world of spirits and angels
 
-This is above the second and is above us. It is sensed through our hearts, such as through our volition and an inclination
+This is above the second and is above us. **It is sensed through our hearts**, such as through our volition and an inclination
 toward active motions. It makes us know that there exists an agent there who directs us toward those things from a world above ours. 
 
 It contains essences that can be perceived because of the existence of influences they exercise upon us, despite the gap between us and them. 
 
-Often, we may deduce (the existence of) that high spiritual world and the essences it contains, from visions and things we had not been aware of while awake but which we find in our sleep and which are brought to our attention in it and which, if they are true (dreams), conform with actuality. We thus know that they are true and come from the world of truth. 
+Often, we may deduce the existence of that high spiritual world and the essences it contains. We get these from visions and things we were not aware of while awake, but which we find in our sleep. If they are true<!-- dreams -->, they conform with actuality. We thus know that they come from the world of truth. 
 
-"Confused dreams," on the other hand, are pictures of the imagination that are stored inside by perception and to which the ability to think is applied, after (man) has retired from sense perception. 22
+"Confused dreams" on the other hand, are pictures of the imagination that are stored inside by perception and to which the ability to think is applied, after (man) has retired from sense perception. 22
 
-We do not find any clearer proof than this for (the existence) of the spiritual
-world. 
+We do not find any clearer proof than this for (the existence) of the spiritual world. 
 
-Thus, we have a general knowledge of it, but no particulars. The metaphysicians make conjectures about details concerning the essences of the spiritual world and their order. They call these essences "intellects." However, none of it is certain, because the conditions of logical argumentation as established in logic do not apply to it. One of these conditions is that the propositions of the argument must be primary and essential, but the spiritual essences are of an unknown essentiality. Thus, logical argumentation cannot be applied to them. Our only means of perceiving something of the details of these worlds are what we may glean from matters of religious law, as explained and established by religious faith.
+Thus, we have a general knowledge of it, but no particulars. 
 
-Of the (three) worlds, the one we can perceive best is the world of human beings, since it is existential and attested by our corporeal and spiritual perceptions. 
+The metaphysicians make conjectures about details concerning the essences of the spiritual world and their order. They call these essences "intellects." 
+
+However, none of it is certain, because the conditions of logical argumentation as established in logic do not apply to it. 
+
+One of these conditions is that the propositions of the argument must be primary and essential, but the spiritual essences are of an unknown essentiality. Thus, logical argumentation cannot be applied to them. 
+
+Our only means of perceiving something of the details of these worlds are what we may glean from matters of religious law, as explained and established by religious faith.
+
+Of the 3 worlds, the one we can perceive best is the world of human beings, since it is existential and attested by our corporeal and spiritual perceptions. 
 
 The world of the senses is shared by us with the animals, but the world of the  intellect and the spirits is shared by us with the angels, whose essences are of the same kind as the essences of that world. They are essences free from corporeality and matter, and they are pure intellect in which intellect, thinker, and the object of thinking are one. 
 

@@ -2,7 +2,7 @@
 heading: Annex 3A
 title: "Product-specific Rules"
 description: "Initial Provisions And General Definitions"
-date: 2022-12-29
+date: 2022-11-29
 image: "/covers/rcep.jpg"
 linkTitle: "Chapter 1"
 ---

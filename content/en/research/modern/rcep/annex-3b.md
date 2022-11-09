@@ -1,21 +1,25 @@
-ANNEX 3B
+---
+heading: Annex 3B
+title: "Minimum Information Requirements"
+description: "Initial Provisions And General Definitions"
+date: 2022-11-27
+image: "/covers/rcep.jpg"
+linkTitle: "Annex 3B"
+---
 
-MINIMUM INFORMATION REQUIREMENTS
+
 
 1. Certificate of Origin
-(a) exporter’s name and address;
-(b) producer’s name and address, if known;
-(c) importer’s or consignee’s name and address;
-(d) description of the goods and the HS Code of the goods (six
-- digit level);
-(e) Certificate of Origin number;
-(f) origin conferring criterion;
-(g) declaration by the exporter or producer;
-(h) certification by the issuing body that the goods specified in
-the Certificate of Origin meet all the relevant requirements
-of Chapter 3 (Rules of Origin) based on the evidence
-provided with the authorised signature and official seal of
-the issuing body;
+
+- (a) exporter’s name and address
+- (b) producer’s name and address, if known
+- (c) importer’s or consignee’s name and address
+- (d) description of the goods and the HS Code of the goods (six-digit level)
+- (e) Certificate of Origin number
+- (f) origin conferring criterion
+- (g) declaration by the exporter or producer
+- (h) certification by the issuing body that the goods specified in the Certificate of Origin meet all the relevant requirements of Chapter 3 (Rules of Origin) based on the evidence provided with the authorised signature and official seal of the issuing body
+
 (i) RCEP country of origin referred to in Article 2.6 (Tariff
 Differentials);
 (j) details to identify the consignment such as invoice number,

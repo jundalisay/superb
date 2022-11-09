@@ -38,74 +38,54 @@ able to resume its activity, and all the external senses are (for the time being
 unemployed. This is the meaning of sleep, as was mentioned before at the beginning
 of the book. 
 
-Now, the spirit of the heart is the vehicle of man's rational spirit.
-Through its essence, the rational spirit perceives everything that is in the divine
-world, since its reality and its essence are identical with perception. It is prevented
-from assimilating any supernatural perception by the veil of its preoccupation with
-the body and the corporeal powers and senses. 
+The spirit of the heart is the vehicle of man's rational spirit.
 
-If it were without that veil or stripped
-of it, it would return to its reality, which is identical with perception. It would thus
+Through its essence, the rational spirit perceives everything that is in the divine world, since its reality and its essence are identical with perception. It is prevented from assimilating any supernatural perception by the veil of its preoccupation with the body and the corporeal powers and senses. 
+
+If it were without that veil or stripped of it, it would return to its reality, which is identical with perception. It would thus
 be able to assimilate any object of perception. 
 
-If it were stripped of part of it, its
-preoccupation would be less. It is thus able to catch a glimpse of its own world,
-since external sense perception, its greatest preoccupation, now occupies it less. Its
-(supernatural perception) corresponds (in intensity) to the degree to which the veil is
-withdrawn from it. 
+If it were stripped of part of it, its preoccupation would be less. It is thus able to catch a glimpse of its own world, since external sense perception, its greatest preoccupation, now occupies it less. Its (supernatural perception) corresponds (in intensity) to the degree to which the veil is withdrawn from it. 
 
-Thus it becomes prepared to receive the available perceptions
-from its own world that are appropriate for it. When it has perceived these
-perceptions from its own worlds, it returns with them to its body, since, as long as it
-remains in its corporeal body, it cannot be active except through corporeal means of
-perception.The faculties through which the body perceives knowledge are all connected
-with the brain. 
+Thus it becomes prepared to receive the available perceptions from its own world that are appropriate for it. When it has perceived these perceptions from its own worlds, it returns with them to its body, since, as long as it remains in its corporeal body, it cannot be active except through corporeal means ofperception.The faculties through which the body perceives knowledge are all connected with the brain. 
 
-The active part among them is the imagination. It derives imaginary
-pictures from the pictures perceived by the senses and turns them over to the power
-of memory, which retains them until they are needed in connection with speculation
-and deduction. From the (imaginary pictures), the soul also abstracts other spiritual-
-intellectual pictures. 
+The active part among them is the imagination. It derives imaginary pictures from the pictures perceived by the senses and turns them over to the power of memory, which retains them until they are needed in connection with speculation and deduction. From the (imaginary pictures), the soul also abstracts other spiritual-intellectual pictures. 
 
-In this way, abstraction ascends from the sensibilia to the intelligibilia. The imagination is the intermediary between them. Also, when the soul has received a certain number of perceptions from its own world, it passes them on
-to the imagination, which forms them into appropriate pictures and turns those
-perceptions over to the common sense.
+In this way, abstraction ascends from the sensibilia to the intelligibilia. The imagination is the intermediary between them. Also, when the soul has received a certain number of perceptions from its own world, it passes them on to the imagination, which forms them into appropriate pictures and turns those perceptions over to the common sense.
 
 As a result, the sleeper sees them as if they were perceived by the senses. Thus, the perceptions come down from the rational
 spirit to the level of sensual perception, with the imagination again being the
 intermediary. This is what dream visions actually are.
 
-The (preceding) exposition shows the difference between true dream visions
-and false, "confused dreams." All of them are pictures in the imagination while an
-individual is asleep. However, if these pictures come down from the rational spirit
-that perceives (them), they are dream visions. But if they are derived from the
-pictures preserved in the power of memory, where the imagination deposits them
-when the individual is awake, they are "confused dreams." \
+The (preceding) exposition shows the difference between true dream visions and false, "confused dreams." 
+
+All of them are pictures in the imagination while an individual is asleep. However, if these pictures come down from the rational spirit that perceives (them), they are dream visions. But if they are derived from the pictures preserved in the power of memory, where the imagination deposits them when the individual is awake, they are "confused dreams." \
 
 True dream visions have signs indicating their truthfulness and attesting their soundness, so that the person who has the dream vision becomes conscious of the glad tidings from God given him in his sleep.
 
-The first of these signs is that the person who has the dream vision wakes up quickly, as soon as he has perceived it. It seems as if he is in a hurry to get back to being awake and having sensual perception. Were he (to continue) to sleep soundly,
-the perception given him would weigh heavily on him. 
+The first of these signs is that the person who has the dream vision wakes up quickly, as soon as he has perceived it. It seems as if he is in a hurry to get back to being awake and having sensual perception. Were he (to continue) to sleep soundly, the perception given him would weigh heavily on him. 
 
 Therefore, he tries to escape from the state (in which he has supernatural perception) to the state of sensual
 perception in which the soul is always fully immersed in the body and the corporeal
 accidents.
 
-Another sign is that the dream vision stays and remains impressed with all its
-details in the memory of (the person who perceived it). Neither neglect nor
-forgetfulness affects it. No thinking or remembering is required, in order to have it
-present (to one's mind). The (dream vision) remains pictured in the mind of (the
-dreamer) when he awakes. Nothing of it is lost to him. This is because perception by
-the soul does not take place in time and requires no consecutive order, but takes
-place all at once and within a single time element. 562 "Confused dreams," on the
-other hand, take place in time, because they rest in the powers of the brain and are
-brought from the power of memory to the common sense by the imagination, as we
-have stated.
+Another sign is that the dream vision stays and remains impressed with all its details in the memory of (the person who perceived it). Neither neglect nor forgetfulness affects it. 
 
-The process is an action of the body,) and all actions of the body take place in time. Thus, they (require) a consecutive order, in order to perceive anything, with something coming first and something else coming later. Forgetfulness, which
-always affects the powers of the brain, affects (them).
+No thinking or remembering is required, in order to have it present (to one's mind). The (dream vision) remains pictured in the mind of (the
+dreamer) when he awakes. Nothing of it is lost to him. 
 
-That is not the case with the perceptions of the rational soul. They do not take place in time and have no consecutive order. 
+This is because perception by the soul does not take place in time and requires no consecutive order, but takes
+place all at once and within a single time element. 562 
+
+"Confused dreams" on the other hand, take place in time, because they:
+- rest in the powers of the brain
+- are brought from the power of memory to the common sense by the imagination.
+
+The process is an action of the body. 
+
+All actions of the body take place in time. Thus, they (require) a consecutive order, in order to perceive anything, with something coming first and something else coming later. 
+
+Forgetfulness always affects the powers of the brain. It also affects them. That is not the case with the perceptions of the rational soul. They do not take place in time and have no consecutive order. 
 
 Perceptions that are impressed in (the rational soul) are impressed
 all at once in the briefest moment. 

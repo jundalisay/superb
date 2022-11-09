@@ -2,7 +2,7 @@
 heading: Chapter 17
 title: "General Provisions And Exceptions"
 description: "Initial Provisions And General Definitions"
-date: 2022-12-29
+date: 2022-12-13
 image: "/covers/rcep.jpg"
 linkTitle: "Chapter 2b"
 ---
@@ -51,97 +51,71 @@ covered by this Agreement.
 
 ## Article 17.4: Provision of Information
 
-On request of any Party, the requested Party shall promptly provide
-information and respond to questions pertaining to any actual or
-proposed laws, regulations, procedures, and administrative rulings of
-general application with respect to any matter covered by this Agreement
-that the requesting Party considers may affect the operation of this
-Agreement.
+On request of any Party, the requested Party shall promptly provide information and respond to questions pertaining to any actual or proposed laws, regulations, procedures, and administrative rulings of general application with respect to any matter covered by this Agreement that the requesting Party considers may affect the operation of this Agreement.
 
 ## Article 17.5: Administrative Proceedings
 
-With a view to administering its laws, regulations, procedures, and
-administrative rulings of general application with respect to any matter
-covered by this Agreement in a consistent, impartial, objective, and
-reasonable manner, each Party shall ensure in its administrative
-proceedings applying such measures to a particular person, good, or
-service of another Party in specific cases that:
+With a view to administering its laws, regulations, procedures, and administrative rulings of general application with respect to any matter
+covered by this Agreement in a consistent, impartial, objective, and reasonable manner, each Party shall ensure in its administrative
+proceedings applying such measures to a particular person, good, or service of another Party in specific cases that:
 
-(a) wherever possible, a person of another Party that is directly
-affected by such a proceeding is provided with reasonable
-notice, in accordance with its domestic procedures, of
-when a proceeding is initiated, including a description of
-the nature of the proceeding, a statement of the legal
-authority under which the proceeding is initiated, and a
-general description of any issue in question;
-(b) a person of another Party that is directly affected by such
-a proceeding is afforded a reasonable opportunity to
-present facts and arguments in support of that person’s
-position prior to any final administrative action, when time,
-17-2the nature of the proceeding, and the public interest permit;
-and
-(c)
-it follows its procedures in accordance with its laws and
-regulations.
-Article 17.6: Review and Appeal
-1. Each Party shall establish or maintain judicial, quasi-judicial, or
-administrative tribunals or procedures for the purposes of prompt
-review and, where warranted, correction of final administrative
-actions with respect to any matter covered by this Agreement.
-Such tribunals shall be impartial and independent of the office or
-authority entrusted with administrative enforcement and shall not
+(a) wherever possible, a person of another Party that is directly affected by such a proceeding is provided with reasonable notice, in accordance with its domestic procedures, of when a proceeding is initiated, including a description of the nature of the proceeding, a statement of the legal authority under which the proceeding is initiated, and a general description of any issue in question;
+(b) a person of another Party that is directly affected by such a proceeding is afforded a reasonable opportunity to
+present facts and arguments in support of that person’s position prior to any final administrative action, when time, the nature of the proceeding, and the public interest permit and
+(c) it follows its procedures in accordance with its laws and regulations.
+
+## Article 17.6: Review and Appeal
+
+1. Each Party shall establish or maintain judicial, quasi-judicial, or administrative tribunals or procedures for the purposes of prompt
+review and, where warranted, correction of final administrative actions with respect to any matter covered by this Agreement.
+
+Such tribunals shall be impartial and independent of the office or authority entrusted with administrative enforcement and shall not
 have any substantial interest in the outcome of the matter.
-2. Each Party shall ensure that, in any such tribunals or procedures,
-each party to a proceeding is provided with the right to:
+
+2. Each Party shall ensure that, in any such tribunals or procedures, each party to a proceeding is provided with the right to:
+
 3.
-(a) a reasonable opportunity to support or defend that party’s
-positions; and
-(b) a decision based on the evidence and submissions of
-record or, where required by its laws and regulations, the
+
+(a) a reasonable opportunity to support or defend that party’s positions; and
+(b) a decision based on the evidence and submissions of record or, where required by its laws and regulations, the
 record compiled by the relevant office or authority.
+
 Each Party shall ensure, subject to appeal or further review as
 provided in its laws and regulations, that the decision referred to
 in subparagraph 2(b) shall be implemented by, and shall govern
 the practice of, the office or authority with respect to the
 administrative action at issue.
-Article 17.7: Disclosure of Information
-Nothing in this Agreement shall require any Party to provide confidential
-information, the disclosure of which would be contrary to its laws and
-regulations or impede law enforcement, or otherwise be contrary to the
-public interest, or which would prejudice legitimate commercial interests
-of particular enterprises, public or private.
-17-3Article 17.8: Confidentiality
-Unless otherwise provided in this Agreement, where a Party provides
-information to another Party in accordance with this Agreement and
-designates the information as confidential, the other Party shall, subject
-to its laws and regulations, maintain the confidentiality of the information.
-Article 17.9: Measures against Corruption
-1. Each Party shall, in accordance with its laws and regulations, take
-appropriate measures to prevent and combat corruption with
+
+## Article 17.7: Disclosure of Information
+
+Nothing in this Agreement shall require any Party to provide confidential information, the disclosure of which would be contrary to its laws and regulations or impede law enforcement, or otherwise be contrary to the public interest, or which would prejudice legitimate commercial interests of particular enterprises, public or private.
+
+
+## Article 17.8: Confidentiality
+
+Unless otherwise provided in this Agreement, where a Party provides information to another Party in accordance with this Agreement and
+designates the information as confidential, the other Party shall, subject to its laws and regulations, maintain the confidentiality of the information.
+
+## Article 17.9: Measures against Corruption
+
+1. Each Party shall, in accordance with its laws and regulations, take appropriate measures to prevent and combat corruption with
 respect to any matter covered by this Agreement.
-2. No Party shall have recourse to dispute settlement under Chapter
-19 (Dispute Settlement) for any matter arising under this Article.
+
+2. No Party shall have recourse to dispute settlement under Chapter 19 (Dispute Settlement) for any matter arising under this Article.
 Article 17.10: Convention on Biological Diversity
 Each Party affirms its rights and responsibilities under the Convention
 on Biological Diversity done at Rio de Janeiro on 5 June 1992.
-Article 17.11: Screening Regime and Dispute Settlement
-17-4A decision by a competent authority, including a foreign investment
-authority, of a Party 3, 4 on whether or not to approve or admit a foreign
-3
+
+## Article 17.11: Screening Regime and Dispute Settlement
+
+A decision by a competent authority, including a foreign investment authority, of a Party 3, 4 on whether or not to approve or admit a foreign 
 For the purposes of this Article, “a competent authority, including a foreign investment
 authority” means, as of the date of entry into force of this Agreement:
-(a) for Australia, the Treasurer of the Commonwealth of Australia under Australia’s
-Foreign Investment Framework including the Foreign Acquisitions and
-Takeovers Act 1975 (Commonwealth), and any amendments thereto;
-(b) for Cambodia, the Council for the Development of Cambodia designated under
-the following laws and regulations, and any amendments thereto:
-(i) Royal Kram No. 03/NS/94 dated 5 August 1994 promulgating Law on
-Investment of the Kingdom of Cambodia;
-(ii) Royal Kram No. NS/RKM/0303/009 dated 24 March 2003 promulgating
-Law on the Amendment of the Law on Investment of the Kingdom of
-Cambodia;
-(iii) Sub-Decree No. 88/ANK/BK dated 29 December 1997 on the
-Implementation of the Law on Investment of the Kingdom of Cambodia;
+- (a) for Australia, the Treasurer of the Commonwealth of Australia under Australia’s Foreign Investment Framework including the Foreign Acquisitions and Takeovers Act 1975 (Commonwealth), and any amendments thereto;
+- (b) for Cambodia, the Council for the Development of Cambodia designated under the following laws and regulations, and any amendments thereto:
+  - (i) Royal Kram No. 03/NS/94 dated 5 August 1994 promulgating Law on Investment of the Kingdom of Cambodia
+  - (ii) Royal Kram No. NS/RKM/0303/009 dated 24 March 2003 promulgating Law on the Amendment of the Law on Investment of the Kingdom of Cambodia
+  - (iii) Sub-Decree No. 88/ANK/BK dated 29 December 1997 on the Implementation of the Law on Investment of the Kingdom of Cambodia;
 (iv) Sub-Decree No. 111 ANK/BK dated 27 September 2005 on the
 Implementation of the Law on the Amendment of the Law on Investment
 of the Kingdom of Cambodia; and

@@ -1,7 +1,14 @@
-ANNEX 4A
+---
+heading: Annex 4A
+title: "Time To Implement The Commitments"
+description: "Initial Provisions And General Definitions"
+date: 2022-11-27
+image: "/covers/rcep.jpg"
+linkTitle: "Annex 4A"
+---
 
-PERIOD OF TIME TO IMPLEMENT THE COMMITMENTS
-For the purposes of this Annex, the number of years, such as “five
+
+<!-- FFor the purposes of this Annex, the number of years, such as “five
 years”, means that the full implementation of the respective provisions
 of Articles shall commence within the stated number of years from the
 entry into force of this Agreement; and the definitive date, such as “28
@@ -9,10 +16,12 @@ February 2022”, means the end of the time period during which the full
 implementation of specified commitments shall commence.
 Note: Where an Article is listed below without a specific paragraph
 reference, all the provisions of that Article shall be subject to the
-implementation period specified.
+implementation period specified. -->
+
 Brunei Darussalam
-Article 4.13 Trade Facilitation Measures for
-Authorised Operators
+
+Article 4.13 Trade Facilitation Measures for Authorised Operators
+
 Article 4.18 Review and Appeal
 28 February
 2022

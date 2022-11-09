@@ -1,26 +1,31 @@
-CHAPTER 18
-INSTITUTIONAL PROVISIONS
-Article 18.1: Meetings of the RCEP Ministers
-1. The Ministers of the RCEP (hereinafter referred to as the “RCEP
-Ministers” in this Chapter) shall meet within one year of the date
-of entry into force of this Agreement, and every year thereafter
-unless the Parties agree otherwise, to consider any matter
-relating to this Agreement.
-2. The RCEP Ministers shall take decisions on any matter by
-consensus.
-Article 18.2: Establishment of the RCEP Joint Committee
-The Parties hereby establish an RCEP Joint Committee consisting of
-senior officials designated by each Party.
-Article 18.3: Functions of the RCEP Joint Committee
-1.
-The functions of the RCEP Joint Committee shall be as follows:
-(a) to consider any matter relating to the implementation and
-operation of this Agreement;
-(b) to consider any proposal to amend this Agreement;
-(c) to discuss differences that may arise regarding the
-interpretation or application of this Agreement and to issue
-interpretations of the provisions of this Agreement as it
-may deem appropriate and necessary;
+---
+heading: Chapter 18
+title: "Institutional Provisions"
+description: "Initial Provisions And General Definitions"
+date: 2022-12-10
+image: "/covers/rcep.jpg"
+linkTitle: "Chapter 2b"
+---
+
+
+
+## Article 18.1: Meetings of the RCEP Ministers
+
+1. The RCEP Ministers shall meet within 1 year of the date of entry and every year thereafter unless the Parties agree otherwise, to consider any matter relating to RCEP
+2. The RCEP Ministers shall take decisions on any matter by consensus.
+
+## Article 18.2: Establishment of the RCEP Joint Committee
+
+The Parties hereby establish an RCEP Joint Committee consisting of senior officials designated by each Party.
+
+## Article 18.3: Functions of the RCEP Joint Committee
+
+1. The functions of the RCEP Joint Committee shall be as follows:
+
+- (a) to consider any matter relating to the implementation and operation of this Agreement;
+- (b) to consider any proposal to amend this Agreement;
+- (c) to discuss differences that may arise regarding the interpretation or application of this Agreement and to issue
+interpretations of the provisions of this Agreement as it may deem appropriate and necessary;
 (d) to seek expert advice on any matter within its functions;
 (e) to refer matters, assign tasks, or delegate functions to any
 subsidiary body established pursuant to Article 18.6

@@ -1,12 +1,17 @@
-CHAPTER 19
-DISPUTE SETTLEMENT
-Article 19.1: Definitions
-For the purposes of this Chapter:
-(a) Complaining Party means any Party or Parties that
-requests consultations pursuant to paragraph 1 of Article
-19.6 (Consultations);
-(b) Parties to the dispute means the Complaining Party and
-the Responding Party;
+---
+heading: Chapter 19
+title: "Definitions"
+description: "Definitions and Objectives"
+date: 2022-12-07
+image: "/covers/rcep.jpg"
+linkTitle: "Chapter 19"
+---
+
+
+## Article 19.1: Definitions
+
+- (a) 'Complaining Party' is any Party or Parties that requests consultations pursuant to paragraph 1 of Article 19.6 (Consultations)
+- (b) 'Parties to the dispute' means the Complaining Party and the Responding Party
 (c) Party to the dispute means the Complaining Party or the
 Responding Party;
 (d) Responding Party means any Party to which the request
@@ -17,10 +22,12 @@ Panel Proceedings adopted by the RCEP Joint
 Committee; and
 (f) Third Party means any Party that makes a notification
 pursuant to paragraph 2 of Article 19.10 (Third Parties).
+
 Article 19.2: Objective
 The objective of this Chapter is to provide effective, efficient, and
 transparent rules and procedures for settlement of disputes arising under
 this Agreement.
+
 Article 19.3: Scope 1
 1.
 1

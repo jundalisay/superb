@@ -1,6 +1,6 @@
 ---
-title: "Scientific instruction"
-description: "Through sound intuition, we observe in ourselves the existence of three worlds"
+title: "Scientific Instruction and the kinds of intellect"
+description: "There are various kinds of intellect such as discerning, experimental, and speculative"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6"

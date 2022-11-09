@@ -1,6 +1,6 @@
 ---
 title: Biag ni Lam-ang
-description: "A couple named Don Juan and Namongan lived in a faraway barrio of Nalbuan.  One day, Don Juan left his pregnant wife and went to the mountain to punish a group of Igorots."
+description: "A couple named Don Juan and Namongan lived in Nalbuan. Don Juan left his pregnant wife and went to the mountain to punish a group of Igorots"
 date: 2020-07-10
 image: /covers/biag.jpg
 icon: /icons/sun.png

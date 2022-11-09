@@ -18,6 +18,7 @@ aliases:
   /taonomics/market-equilibrium-fallacy
 comments:
   - img: "/avatars/blank.png"
+    name: Andrew
     content: "In neoclassical economics, established way before Samuelson, the short supply curves slopes upward because of diminishing marginal returns, only the long-run supply is based on AC and that is not necessarily upward sloping."
     commentdate: 2022-05-01
 

@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: "Trade In Services"
 description: "Initial Provisions And General Definitions"
-date: 2022-12-29
+date: 2022-12-15
 image: "/covers/rcep.jpg"
 linkTitle: "Chapter 2b"
 ---
@@ -12,36 +12,18 @@ linkTitle: "Chapter 2b"
 
 For the purposes of this Chapter:
 
-(a) aircraft repair and maintenance services means such activities when undertaken on an aircraft or a part thereof
+- (a) aircraft repair and maintenance services means such activities when undertaken on an aircraft or a part thereof
 while it is withdrawn from service and does not include so-called line maintenance;
-
-(b) commercial presence means any type of business or professional establishment, including through:
-(i) the constitution, acquisition, or maintenance of ajuridical person; or
-(ii) the creation or maintenance of a branch or a representative office,
-within the territory of a Party for the purpose of supplying a
-service;
-
-(c) computer reservation system services means services provided by computerised systems that contain information
-about air carriers’ schedules, availability, fares, and fare
-rules, through which reservations can be made or tickets
-may be issued;
-
-(d) juridical person means any entity duly constituted or otherwise organised under applicable law, whether for
-profit or otherwise, and whether privately-owned or government-owned, including any corporation, trust,
-partnership, joint venture, sole proprietorship, or association
-
-(e) juridical person of a Party means a juridical person which is either:
-
-(i) constituted or otherwise organised under the law of
-that Party, and is engaged in substantive business
-operations in the territory of that Party or any other
-Party; or
-
-ii)
-(f)
+- (b) commercial presence means any type of business or professional establishment, including through:
+  - (i) the constitution, acquisition, or maintenance of ajuridical person; or
+  - (ii) the creation or maintenance of a branch or a representative office, within the territory of a Party for the purpose of supplying a service;
+- (c) computer reservation system services means services provided by computerised systems that contain information about air carriers’ schedules, availability, fares, and fare rules, through which reservations can be made or tickets may be issued;
+- (d) juridical person means any entity duly constituted or otherwise organised under applicable law, whether for profit or otherwise, and whether privately-owned or government-owned, including any corporation, trust, partnership, joint venture, sole proprietorship, or association
+- (e) juridical person of a Party means a juridical person which is either:
+  - (i) constituted or otherwise organised under the law of that Party, and is engaged in substantive business operations in the territory of that Party or any other Party; or
+  - ii)
+- (f) in the case of the supply of a service through commercial presence, owned or controlled by:
 (g)
-in the case of the supply of a service through
-commercial presence, owned or controlled by:
 (A) natural persons of that Party; or
 (B) juridical persons of that Party identified under
 subparagraph (e)(i);
@@ -241,24 +223,16 @@ accordance with Article 8.7 (Schedules of Specific Commitments)
 are not obliged to make commitments under either Article 8.6
 (Most-Favoured-Nation Treatment) or Article 8.10 (Transparency
 List). These Parties may, however, do so on a voluntary basis.
-Article 8.4: National Treatment
-1. A Party making commitments in accordance with Article 8.7
-(Schedules of Specific Commitments) shall, in the sectors
-inscribed in its Schedule in Annex II (Schedules of Specific
-Commitments for Services) and subject to any conditions and
-qualifications set out therein, accord to services and service
-suppliers of any other Party, in respect of all measures affecting
-the supply of services, treatment no less favourable than that it
-accords to its own like services and service suppliers. 5
+
+## Article 8.4: National Treatment
+
+1. A Party making commitments in accordance with Article 8.7 (Schedules of Specific Commitments) shall, in the sectors inscribed in its Schedule in Annex II (Schedules of Specific Commitments for Services) and subject to any conditions and qualifications set out therein, accord to services and service suppliers of any other Party, in respect of all measures affecting the supply of services, treatment no less favourable than that it accords to its own like services and service suppliers. 5
+
 2. A Party making commitments in accordance with Article 8.8
-(Schedules of Non-Conforming Measures) shall accord to
-services and service suppliers of any other Party, in respect of all
-measures affecting the supply of services, treatment no less
-favourable than that it accords to its own like services and service
-5
-Specific commitments assumed under this Article shall not be construed to require
-any Party to compensate for any inherent competitive disadvantages which result from
-the foreign character of the relevant services or service suppliers.
+
+(Schedules of Non-Conforming Measures) shall accord to services and service suppliers of any other Party, in respect of all measures affecting the supply of services, treatment no less favourable than that it accords to its own like services and service
+
+Specific commitments assumed under this Article shall not be construed to require any Party to compensate for any inherent competitive disadvantages which result from the foreign character of the relevant services or service suppliers.
 8-7suppliers, subject to its non-conforming measures as provided in
 Article 8.8 (Schedules of Non-Conforming Measures). 6
 3. A Party may meet the requirement under paragraph 1 or 2 by
@@ -373,43 +347,39 @@ any Party from conferring or according advantages to adjacent
 countries in order to facilitate exchanges limited to contiguous
 frontier zones of services that are both locally produced and
 consumed.
-8-10Article 8.7: Schedules of Specific Commitments
-1.
-A Party making commitments in accordance with this Article shall
-set out in its Schedule in Annex II (Schedules of Specific
-Commitments for Services), the specific commitments it
-undertakes under Article 8.4 (National Treatment), Article 8.5
-(Market Access), and Article 8.9 (Additional Commitments). With
-respect to sectors where such commitments are undertaken,
-each Schedule in Annex II (Schedules of Specific Commitments
+
+
+## Article 8.7: Schedules of Specific Commitments
+
+1. A Party making commitments in accordance with this Article shall set out in its Schedule in Annex II (Schedules of Specific
+Commitments for Services), the specific commitments it undertakes under Article 8.4 (National Treatment), Article 8.5
+(Market Access), and Article 8.9 (Additional Commitments). 
+
+With respect to sectors where such commitments are undertaken, each Schedule in Annex II (Schedules of Specific Commitments
 for Services) shall specify:
-(a) terms, limitations, and conditions on market access;
-(b) conditions and qualifications on national treatment;
-(c) undertakings relating to additional commitments; and
-(d) where appropriate, the time frame for implementation of
-such commitments.
-2. Measures inconsistent with both Article 8.4 (National Treatment)
-and Article 8.5 (Market Access) shall be inscribed in the column
-relating to Article 8.5 (Market Access). In this case, the inscription
-shall be considered to provide a condition or qualification to Article
+
+(a) terms, limitations, and conditions on market access
+(b) conditions and qualifications on national treatment
+(c) undertakings relating to additional commitments
+(d) where appropriate, the time frame for implementation of such commitments.
+
+2. Measures inconsistent with both Article 8.4 (National Treatment) and Article 8.5 (Market Access) shall be inscribed in the column
+relating to Article 8.5 (Market Access). In this case, the inscription shall be considered to provide a condition or qualification to Article
 8.4 (National Treatment) as well.
-3. Each Party making commitments in accordance with this Article
-shall identify in its Schedule in Annex II (Schedules of Specific
-Commitments for Services) sectors or subsectors for future
-liberalisation with “FL”. In these sectors and subsectors, any
+
+3. Each Party making commitments in accordance with this Article shall identify in its Schedule in Annex II (Schedules of Specific
+Commitments for Services) sectors or subsectors for future liberalisation with “FL”. In these sectors and subsectors, any
 applicable terms, limitations, conditions, and qualifications,
 referred to in subparagraphs 1(a) and (b) shall be limited to
 existing measures of that Party.
-4. If a Party amends a measure referred to in paragraph 3 in a
-manner that reduces or eliminates the inconsistency of that
-measure with Article 8.4 (National Treatment) or Article 8.5
-(Market Access), as it existed immediately before the
-amendment, that Party shall not subsequently amend that
-measure in a manner that increases the measure’s inconsistency
+
+4. If a Party amends a measure referred to in paragraph 3 in a manner that reduces or eliminates the inconsistency of that
+measure with Article 8.4 (National Treatment) or Article 8.5 (Market Access), as it existed immediately before the
+amendment, that Party shall not subsequently amend that measure in a manner that increases the measure’s inconsistency
 with Article 8.4 (National Treatment) or Article 8.5 (Market
 Access).
-5. Notwithstanding paragraph 3, Least Developed Country Parties
-which are Member States of ASEAN are not obliged to identify
+
+5. Notwithstanding paragraph 3, Least Developed Country Parties which are Member States of ASEAN are not obliged to identify
 8-11sectors or subsectors for future liberalisation. These Parties may,
 however, do so on a voluntary basis.
 Article 8.8: Schedules of Non-Conforming Measures
@@ -419,8 +389,8 @@ Article 8.4 (National Treatment), Article 8.5 (Market Access),
 Article 8.6 (Most-Favoured-Nation Treatment), and Article 8.11
 (Local Presence) shall not apply to:
 (a)
-2.
-any existing non-conforming measure that is maintained by
+
+2. any existing non-conforming measure that is maintained by
 that Party at:
 (i) the central level of government, as set out by that
 Party in List A of its Schedule in Annex III
@@ -440,19 +410,23 @@ immediately before the amendment, with Article 8.4
 (National Treatment), Article 8.5 (Market Access), Article
 8.6 (Most-Favoured-Nation Treatment), or Article 8.11
 (Local Presence).
-Article 8.4 (National Treatment), Article 8.5 (Market Access),
+
+## Article 8.4 (National Treatment), Article 8.5 (Market Access),
+
 Article 8.6 (Most-Favoured-Nation Treatment), and Article 8.11
 (Local Presence) shall not apply to any measure that a Party
 adopts or maintains with respect to sectors, subsectors, or
 activities set out in List B of its Schedule in Annex III (Schedules
 of Reservations and Non-Conforming Measures for Services and
 Investment).
-8-12Article 8.9: Additional Commitments
-1.
-The Parties may negotiate commitments with respect to
-measures affecting trade in services, including those regarding
+
+
+## Article 8.9: Additional Commitments
+
+1. The Parties may negotiate commitments with respect to measures affecting trade in services, including those regarding
 qualifications, standards, or licensing matters, not subject to
 scheduling, under:
+
 (a) Article 8.4 (National Treatment) or Article 8.5 (Market
 Access) for those Parties making commitments in
 accordance with Article 8.7 (Schedules of Specific
@@ -462,18 +436,17 @@ Access), Article 8.6 (Most-Favoured-Nation Treatment), or
 Article 8.11 (Local Presence) for those Parties making
 commitments in accordance with Article 8.8 (Schedules of
 Non-Conforming Measures).
-2. A Party making additional commitments under subparagraph 1(a)
-shall inscribe such commitments in its Schedule in Annex II
+
+2. A Party making additional commitments under subparagraph 1(a) shall inscribe such commitments in its Schedule in Annex II
 (Schedules of Specific Commitments for Services).
-3. A Party making additional commitments under subparagraph 1(b)
-shall inscribe such commitments in List C of its Schedule in Annex
-III (Schedules of Reservations and Non-Conforming Measures for
-Services and Investment).
-Article 8.10: Transparency List
-1. A Party making commitments in accordance with Article 8.7
-(Schedules of Specific Commitments) that opts under paragraph
-2 of Article 8.3 (Scheduling of Commitments) to make
-commitments under this Article shall prepare, forward to the other
+
+3. A Party making additional commitments under subparagraph 1(b) shall inscribe such commitments in List C of its Schedule in Annex
+III (Schedules of Reservations and Non-Conforming Measures for Services and Investment).
+
+## Article 8.10: Transparency List 
+
+1. A Party making commitments in accordance with Article 8.7 (Schedules of Specific Commitments) that opts under paragraph
+2 of Article 8.3 (Scheduling of Commitments) to make commitments under this Article shall prepare, forward to the other
 Parties, and make publicly available on the internet, a non-binding
 transparency list of its existing measures maintained at the central
 government level which are inconsistent with Article 8.4 (National
@@ -516,28 +489,22 @@ condition for the supply of a service as described in subparagraph (r)(i),
 (ii), or (iv) of Article 8.1 (Definitions), subject to its non-conforming
 measures as provided in Article 8.8 (Schedules of Non-Conforming
 Measures).
-Article 8.12: Transition
-1.
-A Party making commitments in accordance with Article 8.7
-(Schedules of Specific Commitments) (hereinafter referred to as
-8-14a “transitioning Party” in this Article) shall submit a proposed
-Schedule of Non-Conforming Measures (hereinafter referred to
-as a “Proposed Schedule” in this Article) that accords with Article
-8.8 (Schedules of Non-Conforming Measures) 9 to the Committee
-on Services and Investment for circulation to the other Parties, no
-later than three years, or for Cambodia, Lao PDR, and Myanmar,
-no later than 12 years, after the date of entry into force of this
-Agreement.
-2. The commitments contained in each transitioning Party’s
-Proposed Schedule shall provide an equivalent or a greater level
+
+## Article 8.12: Transition
+
+1. A Party making commitments in accordance with Article 8.7 (Schedules of Specific Commitments) (hereinafter referred to as
+8-14a “transitioning Party” in this Article) shall submit a proposed Schedule of Non-Conforming Measures (hereinafter referred to
+as a “Proposed Schedule” in this Article) that accords with Article 8.8 (Schedules of Non-Conforming Measures) 9 to the Committee
+on Services and Investment for circulation to the other Parties, no later than three years, or for Cambodia, Lao PDR, and Myanmar,
+no later than 12 years, after the date of entry into force of this Agreement.
+
+2. The commitments contained in each transitioning Party’s Proposed Schedule shall provide an equivalent or a greater level
 of liberalisation and shall not result in a decrease in the level of
-commitments as compared to the transitioning Party’s
-commitments, made in accordance with paragraph 2 of Article 8.3
+commitments as compared to the transitioning Party’s commitments, made in accordance with paragraph 2 of Article 8.3
 (Scheduling of Commitments).
-3. The Parties shall consider the Proposed Schedule for the
-purposes of verification and clarification, and shall have the
-opportunity to make comments to ensure that the Proposed
-Schedule meets the requirements specified in paragraph 2. The
+
+3. The Parties shall consider the Proposed Schedule for the purposes of verification and clarification, and shall have the
+opportunity to make comments to ensure that the Proposed Schedule meets the requirements specified in paragraph 2. The
 verification and clarification process shall not entitle the Parties to
 negotiate specific new commitments. 10 The transitioning Party
 shall have the opportunity to respond to any comments received
@@ -641,42 +608,35 @@ this Chapter), which shall apply mutatis mutandis, unless
 otherwise decided by the Committee on Services and Investment
 under paragraph 10 or unless the parties to the arbitration agree
 otherwise.
-8-176. If the modifying Party implements its proposed modification or
-withdrawal and does not comply with the findings of the
-arbitration, any Party that participated in the arbitration may
-modify or withdraw substantially equivalent benefits in conformity
-with those findings. Such a modification or withdrawal may be
-implemented solely with respect to the modifying Party.
-7. If no Party has requested:
-(a) negotiations under subparagraph 1(b) within 45 days of the
-date of a notification made pursuant to subparagraph 1(a);
-or
-(b) arbitration pursuant to paragraph 4,
-the modifying Party shall be free to implement its proposed
+
+If the modifying Party implements its proposed modification or withdrawal and does not comply with the findings of the
+arbitration, any Party that participated in the arbitration may modify or withdraw substantially equivalent benefits in conformity
+with those findings. Such a modification or withdrawal may be implemented solely with respect to the modifying Party.
+
+7. If no Party has requested: 
+
+(a) negotiations under subparagraph 1(b) within 45 days of the date of a notification made pursuant to subparagraph 1(a); or
+(b) arbitration pursuant to paragraph 4, the modifying Party shall be free to implement its proposed
 modification or withdrawal, notwithstanding Article 20.4
 (Amendments), in accordance with the procedures set out in
 paragraphs 20 through 22 of the GATS Article XXI Procedures,
 which shall apply mutatis mutandis, unless otherwise decided by
 the Committee on Services and Investment under paragraph 10.
 8.
-For the avoidance of doubt, for the purposes of paragraphs 5 and
-7, references in the GATS Article XXI Procedures to:
-(a) “the Secretariat” and “the Council for Trade in Services”
-shall be read as references to the Committee on Services
+
+For the avoidance of doubt, for the purposes of paragraphs 5 and 7, references in the GATS Article XXI Procedures to:
+
+- (a) “the Secretariat” and “the Council for Trade in Services” shall be read as references to the Committee on Services
 and Investment;
-(b) “Article XXI” shall be read as references to Article 8.13
-(Modification of Schedules); and
-(c) “Members of the WTO” shall be read as references to the
-Parties.
-9. In the event of any inconsistency between this Agreement and the
-GATS Article XXI Procedures, this Agreement shall prevail to the
+- (b) “Article XXI” shall be read as references to Article 8.13 (Modification of Schedules)
+- (c) “Members of the WTO” shall be read as references to the Parties.
+
+9. In the event of any inconsistency between this Agreement and the GATS Article XXI Procedures, this Agreement shall prevail to the
 extent of the inconsistency.
-10. The Committee on Services and Investment may establish or
-amend procedures for the modification or withdrawal of a Party’s
-commitments in its Schedule in Annex II (Schedules of Specific
-Commitments for Services) or the conduct of arbitration, under
-this Article. Any Party that seeks to modify or withdraw its
-commitments under this Article shall do so in accordance with any
+
+10. The Committee on Services and Investment may establish or amend procedures for the modification or withdrawal of a Party’s
+commitments in its Schedule in Annex II (Schedules of Specific Commitments for Services) or the conduct of arbitration, under
+this Article. Any Party that seeks to modify or withdraw its commitments under this Article shall do so in accordance with any
 such procedures.
 8-18Article 8.14: Transparency
 1. The Parties recognise that transparent measures governing trade

@@ -5,10 +5,6 @@ date: 2022-01-25
 # date: 2015-01-25
 image: "/og/pointtax.jpg"
 description : "Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been largely forgotten today. We bring them back to help solve tax evasion and budget deficits"
-linkb: /social/economics/principles/part-4
-linkbtext: "Part 4"
-linkf: /social/economics/principles/part-4
-linkftext: "Part 4"
 author: Dalisay
 ---
 

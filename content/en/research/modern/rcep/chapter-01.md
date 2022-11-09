@@ -13,70 +13,37 @@ linkTitle: "Chapter 1"
 The Parties, consistent with Article XXIV of GATT 1994 and Article V of GATS, hereby establish the Regional Comprehensive Economic
 Partnership as a free trade area in accordance with the provisions of this Agreement.
 
+
 ## Article 1.2: General Definitions
 
-(a) AD Agreement means the Agreement on Implementation of Article VI of the General Agreement on Tariffs and Trade 1994 in Annex 1A to the WTO Agreement;
-
-(b) Agreement means the Regional Economic Partnership Agreement;
-
-(c) Agreement on Agriculture means the Agreement on Agriculture in Annex 1A to the WTO Agreement;
-
-(d) Customs Valuation Agreement means the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 in Annex 1A to the WTO Agreement
-
-(e) days means calendar days, including weekends and holidays
-
-(f) existing means in effect on the date of entry into force of this Agreement
-
-(g) GATS means the General Agreement on Trade in Services in Annex 1B to the WTO Agreement
-
-(h) GATT 1994 means the General Agreement on Tariffs and Trade 1994 in Annex 1A to the WTO Agreement
-
-<!-- 1-1 Comprehensive -->
-
-(i) GPA means the Agreement on Government Procurement in Annex 4 to the WTO Agreement;
-
-(j) Harmonized System or HS means the Harmonized Commodity Description and Coding System, including its
-General Rules of Interpretation, Section Notes, Chapter
-Notes, and Subheading Notes, as adopted and
-administered by the World Customs Organization, set out
-in the Annex to the International Convention on the
-Harmonized Commodity Description and Coding System
-done at Brussels on 14 June 1983, as may be amended,
-adopted and implemented by the Parties in their respective
-laws;
-(k) IMF means the International Monetary Fund;
-(l) IMF Articles of Agreement means the Articles of
-Agreement of the International Monetary Fund adopted at
-Bretton Woods on 22 July 1944;
-(m) Import Licensing Agreement means the Agreement on
-Import Licensing Procedures in Annex 1A to the WTO
-Agreement;
-(n) juridical person means any entity constituted or
-organised under applicable law, whether or not for profit,
-and whether privately-owned or governmentally-owned,
-including any corporation, trust, partnership, joint venture,
-sole proprietorship, association, or similar organisation;
-(o) Least Developed Country means any country designated
-as such by the United Nations and which has not obtained
-graduation from the least developed country category;
-(p) Least Developed Country Party means any Party that is
-a Least Developed Country;
-(q) measure means any measure by a Party, whether in the
-form of a law, regulation, rule, procedure, decision,
-administrative action, or any other form;
-(r) Party means any State or separate customs territory for
-which this Agreement is in force;
-1-2(s) perishable goods means goods that rapidly decay due to
-their natural characteristics, in particular in the absence of
-appropriate storage conditions;
-(t) person means a natural person or a juridical person;
-(u) personal information means any information, including
-data, about an identified or identifiable individual;
-(v) Preshipment Inspection Agreement means the
-Agreement on Preshipment Inspection in Annex 1A to the
-WTO Agreement;
-(w) RCEP means the Regional Comprehensive Economic
-Partnership;
+- (a) AD Agreement means the Agreement on Implementation of Article 6 of the GATT 1994 in Annex 1A to the WTO Agreement;
+- (b) Agreement means the Regional Economic Partnership Agreement
+- (c) Agreement on Agriculture means the Agreement on Agriculture in Annex 1A to the WTO Agreement;
+- (d) Customs Valuation Agreement means the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade 1994 in Annex 1A to the WTO Agreement
+- (e) days means calendar days, including weekends and holidays
+- (f) existing means in effect on the date of entry into force of this Agreement
+- (g) GATS means the General Agreement on Trade in Services in Annex 1B to the WTO Agreement
+- (h) GATT 1994 means the General Agreement on Tariffs and Trade 1994 in Annex 1A to the WTO Agreement
+- (i) GPA means the Agreement on Government Procurement in Annex 4 to the WTO Agreement;
+- (j) Harmonized System or HS means the Harmonized Commodity Description and Coding System, including its General Rules of Interpretation, Section Notes, Chapter Notes, and Subheading Notes, as adopted and administered by the World Customs Organization, set out in the Annex to the International Convention on the Harmonized Commodity Description and Coding System done at Brussels on 14 June 1983, as may be amended, adopted and implemented by the Parties in their respective laws
+- (k) IMF means the International Monetary Fund
+- (l) IMF Articles of Agreement means the Articles of Agreement of the International Monetary Fund adopted at
+Bretton Woods on 22 July 1944
+- (m) Import Licensing Agreement means the Agreement on Import Licensing Procedures in Annex 1A to the WTO Agreement
+- (n) juridical person means any entity constituted or organised under applicable law, whether or not for profit, and whether privately-owned or governmentally-owned, including any corporation, trust, partnership, joint venture, sole proprietorship, association, or similar organisation
+- (o) Least Developed Country means any country designated as such by the United Nations and which has not obtained
+graduation from the least developed country category
+- (p) Least Developed Country Party means any Party that is a Least Developed Country
+- (q) measure means any measure by a Party, whether in the form of a law, regulation, rule, procedure, decision,
+administrative action, or any other form
+- (r) Party means any State or separate customs territory for which this Agreement is in force
+- (s) perishable goods means goods that rapidly decay due to their natural characteristics, in particular in the absence of
+appropriate storage conditions
+- (t) person means a natural person or a juridical person;
+- (u) personal information means any information, including data, about an identified or identifiable individual;
+(v) Preshipment Inspection Agreement means the Agreement on Preshipment Inspection in Annex 1A to the
+WTO Agreement
+- (w) RCEP means the Regional Comprehensive Economic Partnership;
 (x) RCEP Joint Committee means the RCEP
 Committee established pursuant to Article
 (Establishment of the RCEP Joint Committee);

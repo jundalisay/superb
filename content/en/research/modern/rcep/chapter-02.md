@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "Trade in Goods"
 description: "Initial Provisions And General Definitions"
-date: 2022-12-29
+date: 2022-12-25
 image: "/covers/rcep.jpg"
 linkTitle: "Chapter 2"
 ---

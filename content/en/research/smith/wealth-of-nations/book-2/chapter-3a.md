@@ -3,7 +3,7 @@ heading:  "Chapter 3a"
 title:  "Productive vs Unproductive Labour"
 date: 2020-01-13
 image:  "/covers/wn.jpg"
-description:  "Production vs Services"
+description: "Productive labour adds value while unproductive labour does not. The labour of a manufacturer adds to the value of the materials which he works on"
 icon:  "/icons/smith.png"
 ---
 
@@ -33,7 +33,7 @@ But the manufacturer’s labour realizes itself in some vendible commodity which
 - The price of that vendible commodity can afterwards mobilize labour equal to the labour which originally produced it*.
 
 
-> *[ Superphysics note: This is similar to how the 1 guinea coin mobilized value worth 3 guineas through three transactions or by being circulated three times.]
+> *Superphysics note: This is similar to how the 1 guinea coin mobilized value worth 3 guineas through three transactions or by being circulated three times.
 
 On the contrary, the labour of the menial servant, does not realize itself in any vendible commodity.
 

@@ -1,9 +1,18 @@
-CHAPTER 20
-FINAL PROVISIONS
-Article 20.1: Annexes, Appendices, and Footnotes
-The Annexes, Appendices, and footnotes to this Agreement shall
-constitute an integral part of this Agreement.
-Article 20.2: Relation to Other Agreements
+---
+heading: Chapter 20
+title: "Final Provisions"
+description: "Annexes, Appendices, and Footnotes"
+date: 2022-12-04
+image: "/covers/rcep.jpg"
+linkTitle: "Chapter 20"
+---
+
+
+## Article 20.1: Annexes, Appendices, and Footnotes
+
+The Annexes, Appendices, and footnotes to this Agreement shall constitute an integral part of this Agreement.
+
+## Article 20.2: Relation to Other Agreements
 1.
 2.
 Recognising the Parties’ intention for this Agreement to coexist
@@ -16,43 +25,39 @@ Parties; and
 that Party and at least one other Party are party, its existing
 rights and obligations with respect to such other Party or
 Parties, as the case may be.
-If a Party considers that a provision of this Agreement is
-inconsistent with a provision of another agreement to which that
-Party and at least one other Party are party, upon request, the
-relevant Parties which are party to the other agreement shall
+
+If a Party considers that a provision of this Agreement is inconsistent with a provision of another agreement to which that
+Party and at least one other Party are party, upon request, the relevant Parties which are party to the other agreement shall
 consult with a view to reaching a mutually satisfactory solution.
-This paragraph shall be without prejudice to a Party’s rights and
-obligations under Chapter 19 (Dispute Settlement). 1
-Article 20.3: Amended or Successor International Agreements
-If any international agreement, or any provision therein, referred to in this
-Agreement or incorporated into this Agreement is amended, or such an
-international agreement is succeeded by another international
-agreement, the Parties shall, on request of any Party, consult on whether
-1
+
+This paragraph shall be without prejudice to a Party’s rights and obligations under Chapter 19 (Dispute Settlement).
+
+## Article 20.3: Amended or Successor International Agreements
+
+If any international agreement, or any provision therein, referred to in this Agreement or incorporated into this Agreement is amended, or such an international agreement is succeeded by another international agreement, the Parties shall, on request of any Party, consult on whether
+
 For the purposes of application of this Agreement, the Parties agree that the fact that
 an agreement provides more favourable treatment of goods, services, investments, or
 persons than that provided for under this Agreement does not mean there is an
 inconsistency within the meaning of paragraph 2.
+
 20-1it is necessary to amend this Agreement, unless otherwise provided in
 this Agreement.
-Article 20.4: Amendments
-The Parties may agree, in writing, to amend this Agreement. An
-amendment shall enter into force 60 days after the date on which all
+
+## Article 20.4: Amendments
+
+The Parties may agree, in writing, to amend this Agreement. An amendment shall enter into force 60 days after the date on which all
 Parties have notified the Depositary in writing of the completion of their
 respective applicable legal procedures, or on such other date as the
 Parties may agree.
-Article 20.5: Depositary
-1. This Agreement, and any amendment thereto, shall be deposited
-with the Secretary-General of ASEAN who is designated as the
-Depositary for this Agreement. The Depositary shall promptly
-provide a certified copy of the original text of this Agreement, and
-any amendment thereto, to each signatory State and acceding
-State or separate customs territory.
-2. The Depositary shall promptly notify each signatory State and
-acceding State or separate customs territory, and provide them
-with the date and a copy, of:
-(a) notifications under Article 20.4 (Amendments) and
-subparagraph 4(b) of Article 20.9 (Accession);
+
+## Article 20.5: Depositary
+
+1. This Agreement, and any amendment thereto, shall be deposited with the Secretary-General of ASEAN who is designated as the Depositary for this Agreement. The Depositary shall promptly provide a certified copy of the original text of this Agreement, and any amendment thereto, to each signatory State and acceding State or separate customs territory.
+
+2. The Depositary shall promptly notify each signatory State and acceding State or separate customs territory, and provide them
+with the date and a copy, of: 
+- (a) notifications under Article 20.4 (Amendments) and subparagraph 4(b) of Article 20.9 (Accession);
 (b) the deposit of an instrument of ratification, acceptance, or
 approval under Article 20.6 (Entry into Force);
 (c) a notice of withdrawal under paragraph 1 of Article 20.7

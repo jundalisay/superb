@@ -4,7 +4,7 @@ title: "Taxation Maxims"
 date: 2022-01-21
 # date: 2017-12-20
 image: "/og/pointtax.jpg"
-description : "Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been largely forgotten today. We bring them back to help solve tax evasion and budget deficits"
+description : "Adam Smith gave 4 maxims on taxation that have been largely forgotten. We bring them back to help solve tax evasion and budget deficits"
 author: Dalisay
 aliases:
   /articles/taonomics/adam-smith-taxation-maxims/
@@ -13,6 +13,7 @@ aliases:
   /social/economics/taxation-maxims
   /social/economics/principles/taxation-maxims
 ---
+
 
 
 ## Four Taxation Maxims

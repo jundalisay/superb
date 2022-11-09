@@ -5,7 +5,7 @@ date: 2021-12-30
 # date: 2020-12-14
 image: /photos/grains.jpg
 description : "Superphysics uses two measures combined to replace GDP as a measure of a country's wealth: Purchasing Power and the Grain Index"
-author: Juan
+author: Juan Dalisay Jr.
 icon: /icons/pantry.png
 aliases:
   /articles/taonomics/the-alternative-to-gdp
