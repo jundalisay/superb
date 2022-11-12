@@ -1,12 +1,14 @@
-+++
-title= "Natural Remedies for Hydrocele"
-description= "During intercourse or a wet dream, spermatozoa are emitted in the semen. If the semen cannot find an outlet, or if its flow is unnaturally obstructed, then the semen decomposes in the storage sacks."
-image= "/photos/med/hydro.jpg"
-linkb= "/research/sarkar/yogic-treatments/high-blood-pressure"
-linkbtext= "blood pressure"
-linkf= "/research/sarkar/yogic-treatments/infertility-female"
-linkftext= "infertility"
-+++
+---
+title: "Natural Remedies for Hydrocele"
+heading: "Yogic Treatments and Natural Remedies"
+date: 2022-01-28
+author: "PR Sarkar"
+description: "During intercourse or a wet dream, spermatozoa are emitted in the semen. If the semen cannot find an outlet, or if its flow is unnaturally obstructed, then the semen decomposes in the storage sacks"
+image: "/photos/med/hyrdo.jpg"
+icon: "/flags/in.png"
+---
+
+
 
 ## Symptoms
 
@@ -50,6 +52,7 @@ Evening – Upaviśt́a Ud́d́ayana Mudrá, Agnisára Mudrá and Utkat́a V
 
 If the condition of the liver permits, all types of nutritious food can be taken. However, a very close watch must be kept on the regular clearing of the bowels. Fast on Ekádashii, Púrńimá and Amávasyá.
 
+
 ## Dos and don’ts
 
 Sexual thoughts and excitement are among the causes of hydrocele, so the more one can stay away from these things the better. Patients should use Kaopiinas. Alternative applications of cold and hot compresses will give quick relief.
@@ -71,3 +74,4 @@ Again, apply the cold compress for fifteen to twenty minutes, following it with 
 5. Apply the root of Brahmayasti or bamunháti ground in the water with which rice has been washed; or
 6. On any Tuesday, tie a root of a barren jujube plant (Zizyphus jujuba Lam.) around the waist in such a manner that the root remains dangling down touching the testicles; these remedies will relieve hydrocele.
 7. Good results can also be obtained in a very short time if one ties fibres of borácaka leaves around the waist.
+

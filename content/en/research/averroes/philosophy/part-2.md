@@ -40,9 +40,16 @@ The Bombasts hold that the method of obtaining knowledge of the existence of the
 
 This is obviously a misleading sect. It falls short of the purpose of the Law, as regards the method adopted towards all the people, leading them to[88] the knowledge of the existence of God, and calling them to the confession of His belief. 
 
-It is quite evident from many verses of the Divine Book, that in it the people have been called to verify the existence of the Creator by arguments of reason which are mentioned in it. For instance, there are the following verses of the Quran, “O men of Mecca, serve your Lord who has created you and those before you,”[26] and “Is there any doubt concerning God, the Creator of heaven and earth?”[27] and other verses on the subject found therein. It is not fit for a man to say, that if these arguments had been necessary for believing in God—that is, had his faith been not completed without understanding them—the Prophet would not have invited anybody to Islam without presenting to him all these arguments, for the Arabs already knew the existence of the Creator, so that God has said, “If thou asketh them who has[89] created the heavens and the earth, they will surely answer, God,”[28] 
+The people have been called by the Quran to verify the existence of the Creator by arguments of reason which are mentioned in it. The Quran says: 
 
-and hence there was no use giving arguments. It is impossible to find a man so stupid and dull, that he cannot understand the arguments advanced by Law for the common people, through the Prophet. This is to say the least. If there be found such a man, then it is his duty to believe in God by hearing alone. So much for the ideas of the Bombasts about the exoterics of the Law.
+“O men of Mecca, serve your Lord who has created you and those before you,”[26] and “Is there any doubt concerning God, the Creator of heaven and earth?”[27]
+
+People should not say that if these arguments had been necessary for believing in God—that is, had his faith been not completed without understanding them—the Prophet would not have invited anybody to Islam without presenting to him all these arguments, for the Arabs already knew the existence of the Creator, so that God has said, “If thou asketh them who has[89] created the heavens and the earth, they will surely answer, God,”[28] 
+
+Hence there was no use giving arguments. It is impossible to find a man so stupid and dull, that he cannot understand the arguments advanced by Law for the common people, through the Prophet. 
+
+This is to say the least. If there be found such a man, then it is his duty to believe in God by hearing alone. So much for the ideas of the Bombasts about the exoterics of the Law.
+
 
 
 ## The Asharites
@@ -70,7 +77,9 @@ All the same it is necessary for them to admit either of the three things about 
 
 But a created thing is impossible from an eternal action without any expedient, even if we admit for their sake, that it comes into existence by eternal action; and putting intention itself or the action, connected with the act is a thing which cannot be understood. This is supposing an act without an agent, with a result, without any intention. Intention is a condition of the action and not the action itself. 
 
-Also it is necessary that this eternal intention, should be connected[93] with non-existence of a created thing, for a period of time which is indefinite. So if a created thing be non-existence for an unknown period of time, then it does not become connected with the intention at the time of its creation, except after the completion of a time of which there is no limit, and that which has no limit has no end. So it becomes necessary that the intention should never take the form of action, or a time without limit should come to an end, which is impossible. This is the argument of the Mutakallimun, on which they rely in proving that the revolutions of the heavens are created.
+Also it is necessary that this eternal intention, should be connected[93] with non-existence of a created thing, for a period of time which is indefinite. So if a created thing be non-existence for an unknown period of time, then it does not become connected with the intention at the time of its creation, except after the completion of a time of which there is no limit, and that which has no limit has no end.
+
+So it becomes necessary that the intention should never take the form of action, or a time without limit should come to an end, which is impossible. This is the argument of the Mutakallimun, on which they rely in proving that the revolutions of the heavens are created.
 
 Moreover, it is necessary that to the intention which precedes the object, and is connected with it, at a certain time, there should be created in it at the time of creation of the object a determination for doing so. For the determination for the creation of an object cannot be found before that time, because if at the time of action there be found no additional[94] quality in the agent, than that he had at the time of intention, then action from him at that time would not be quite as necessary from him as inactivity. 
 
@@ -102,9 +111,13 @@ The essences cannot be separated from the accidents, they mean the bodies which 
 
 The arguments which Asharites use are for the most part exhortative. For their famous argument on this is that they say that our first knowledge about a thing is, for instance, that an elephant is bigger than an ant, for it is accepted that the former has more particles in it than the latter. 
 
-If it be so, then it is made up of particles and is not a compact whole in itself. So when the body is destroyed it changes into particles, and when composed it is composed of them. But this is wrong. For they have taken a divisible quantity as a continuous one, and then thought that that which is applicable to the divisible is also applicable to the continuous. This is true about numbers, that is, we say that a certain number is more than the other, by its containing more particles in it, that is, more units. But it cannot be true of a continuous quantity,[97] of which we say that it is bigger or greater. In this way everything may be enumerated without any reference to its bulk at all.
+If it be so, then it is made up of particles and is not a compact whole in itself. So when the body is destroyed it changes into particles, and when composed it is composed of them. But this is wrong. For they have taken a divisible quantity as a continuous one, and then thought that that which is applicable to the divisible is also applicable to the continuous. 
 
-The science of mathematics becomes the science of number only. It is well-known that every bulk can be considered with regard to line, surface and volume. Moreover, a continuous quantity it is possible to cut in the middle and thus get two parts. But this is impossible in the units of number, nay, it is opposed to it. Then, again, the body and other particles of a continuous quantity are capable of being divided. But everything divisible is either divided into other divisible quantities, or into indivisible ones. If it is divided into indivisible ones then we have found particles which cannot be divided. And if it is divided into other divisible parts, then again the question arises whether these can be divided into divisible or indivisible parts. So if it can be divided a limitless number of times, there[98] would be limitless particles in a limited thing. But it is one of the primary principles of knowledge that particles in a limited thing are limited.
+This is true about numbers, that is, we say that a certain number is more than the other, by its containing more particles in it, that is, more units. But it cannot be true of a continuous quantity,[97] of which we say that it is bigger or greater. In this way everything may be enumerated without any reference to its bulk at all.
+
+The science of mathematics becomes the science of number only. It is well-known that every bulk can be considered with regard to line, surface and volume. Moreover, a continuous quantity it is possible to cut in the middle and thus get two parts. But this is impossible in the units of number, nay, it is opposed to it. Then, again, the body and other particles of a continuous quantity are capable of being divided. 
+
+But everything divisible is either divided into other divisible quantities, or into indivisible ones. If it is divided into indivisible ones then we have found particles which cannot be divided. And if it is divided into other divisible parts, then again the question arises whether these can be divided into divisible or indivisible parts. So if it can be divided a limitless number of times, there[98] would be limitless particles in a limited thing. But it is one of the primary principles of knowledge that particles in a limited thing are limited.
 
 Among the obscure doubts which can be attributed to the Asharites is the question whether if an atom is brought into being, this is different from creation itself, for it is one of the accidents? 
 
@@ -130,4 +143,6 @@ If the space be a tangible body, as is the opinion of another group, then it sho
 
 If they are not created, then they will move from one place to another, or will be latent in the place in which they are to appear, before they make their appearance. Then they disprove both of these arguments, and think that they have established that all the accidents are created things. 
 
-But it has become apparent from what they have said, that the apparently created portions of the accidents are created, not those whose creation is not apparent, nor those in whose case there is doubt, such as the accidents which are in the heavenly[103] bodies, in their movement, in their shape, etc., etc. So their arguments about the creation of all accidents, can be interpreted by the analogy of the visible to the invisible. This is an exhortative argument, except in the suggestion of reasonable arguments which depend here on the certainty of the similarity of the character of the visible and the invisible.
+The apparently created portions of the accidents are created, not those whose creation is not apparent, nor those in whose case there is doubt, such as the accidents which are in the heavenly[103] bodies, in their movement, in their shape, etc. 
+
+So their arguments about the creation of all accidents, can be interpreted by the analogy of the visible to the invisible. This is an exhortative argument, except in the suggestion of reasonable arguments which depend here on the certainty of the similarity of the character of the visible and the invisible.

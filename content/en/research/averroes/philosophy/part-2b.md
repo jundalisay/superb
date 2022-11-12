@@ -2,7 +2,7 @@
 heading: "Part 2b"
 title: "The third premise"
 author: Averroes
-description: ""
+description: "The third premise says that that which cannot be separated from a created thing is itself created, is equivocal"
 image: "/covers/averroes.jpg"
 ---
 
@@ -50,9 +50,17 @@ This is all only falsifying philosophy, and the meaning for which God has called
 
 If it be said that by these words he means “Possible with regard to itself”, that is, when the maker arises it will rise also, then we would say that this rising is impossible. But this is not the place to discuss the matter with this man. We ventured to talk of him, because of the many views which he has invented. Now we would return to our former theme. The second premise, which says that every transient thing is created, is[113] not in itself obvious. The philosophers have differed about it. Plato allows that the apparently transient thing may be eternal, while Aristotle denies it. It is a very intricate matter, and cannot be made clear except to the philosophers, that is, learned men, whom God has set apart for His knowledge, and has in His Book, coupled their witness with that of Himself and His angels.
 
-Abul Maali has tried to make the premise clear by some other premises. First, that there should be something unique in every transient thing, which may make it more preferable by one of the two qualities. Second, that this particular thing cannot be any other than that intended. Third, that the thing which exists by intention is created. Then he says that a transient thing comes into existence by our intention, that is it is produced by previous volition. For all the actions are performed either by nature or by intention. And nature is[114] not one of the passing things which are alike, that is, it not only creates the dissimilar but does the both. For instance, sea-anemone will absorb the yellow lob in the right side of the body and not in the left. But intention is the thing which is particularly applicable to a thing opposed to its like. Then he adds that the universe is like its creation and exists in the position in the atmosphere where it was made. 
+Abul Maali has tried to make the premise clear by some other premises. First, that there should be something unique in every transient thing, which may make it more preferable by one of the two qualities. Second, that this particular thing cannot be any other than that intended. Third, that the thing which exists by intention is created. Then he says that a transient thing comes into existence by our intention, that is it is produced by previous volition.
 
-By the void he means another void in which the world was made. So he concluded that the universe was made by intention. The premise which says that it is intention which fixes the shape of a thing, is correct, but that universe is surrounded by a void is wrong, or at least not clear. Then again according to their notions, his act of placing the void is bad. That is, it must be eternal, otherwise it would require another void for it. The premise saying that in this connection intention is nothing but a created thing is not clear. For the intention of an action is[115] connected with the desired act itself, for it is one of its adjuncts. And it is clear that when one adjunct is found with the action the other must be there, for example the father and the son. If one be found potentially the other must also be so. Hence if the intention of the action is created, then necessarily the desired act must also be created. If the intention of the action be eternal, then the thing desired by that action must also be eternal. The intention which precedes the intended object, is said to be a potential intention only; that is, the intention which has not yet brought its intended object into being. 
+For all the actions are performed either by nature or by intention. And nature is[114] not one of the passing things which are alike, that is, it not only creates the dissimilar but does the both. For instance, sea-anemone will absorb the yellow lob in the right side of the body and not in the left. But intention is the thing which is particularly applicable to a thing opposed to its like. Then he adds that the universe is like its creation and exists in the position in the atmosphere where it was made. 
+
+By the void he means another void in which the world was made. So he concluded that the universe was made by intention. The premise which says that it is intention which fixes the shape of a thing, is correct, but that universe is surrounded by a void is wrong, or at least not clear. Then again according to their notions, his act of placing the void is bad. 
+
+That is, it must be eternal, otherwise it would require another void for it. The premise saying that in this connection intention is nothing but a created thing is not clear. For the intention of an action is[115] connected with the desired act itself, for it is one of its adjuncts. 
+
+When one adjunct is found with the action the other must be there, for example the father and the son. If one be found potentially the other must also be so. Hence if the intention of the action is created, then necessarily the desired act must also be created. 
+
+If the intention of the action be eternal, then the thing desired by that action must also be eternal. The intention which precedes the intended object, is said to be a potential intention only; that is, the intention which has not yet brought its intended object into being. 
 
 This is quite clear, for when the intended object has appeared, then it becomes an existent thing, which it was not before the appearance of the intended object in action. When this becomes the cause of the creation of an intended thing, only by means of action, then, if the Mutakallimun assert that intention is created, it becomes clear that the intended[116] object must also be created. From the Law it is clear that there is no need to go so deeply into the problem as far as the masses are concerned. So it has not mentioned any eternal or created intention, but has only said that it exists and the things are created. So God says:—“Verily, Our speech upon anything when We will the same is, that We only say unto it, Be; and it is.”[30] 
 
@@ -72,7 +80,11 @@ None of these methods are in accordance with[120] that by which the Law invites 
 
 The second is the creation of the essences of the existent things, as for example, the creation of life in the minerals, and feeling and intelligence. 
 
-We would call this method the “argument of creation.” The first method is founded upon two principles: first that all the existent things suit man; secondly, that this suitability must have existed[121] in the mind of the Maker before He intended to make the object in question, for it cannot be obtained by chance alone. Now their suitability for the existence of man can be easily ascertained by the suitability of day and night, sun and moon, for the existence of man. Such is also the case with the suitability of the four seasons, and of the place in which he lives, that is, the earth.
+We would call this method the “argument of creation.” 
+
+The first method is founded upon two principles: first that all the existent things suit man; secondly, that this suitability must have existed[121] in the mind of the Maker before He intended to make the object in question, for it cannot be obtained by chance alone. 
+
+Now their suitability for the existence of man can be easily ascertained by the suitability of day and night, sun and moon, for the existence of man. Such is also the case with the suitability of the four seasons, and of the place in which he lives, that is, the earth.
 
 It is also apparent with respect to animals, vegetables, and minerals; and many other things, such as rain, rivers, seas, the whole of the earth, water, fire and air. It is also evident from the different members of his body, on account of their suitability for the preservation of his life and existence. 
 

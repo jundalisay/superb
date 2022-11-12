@@ -1,15 +1,13 @@
-+++
-title=  "The Fall of the Western Empire"
-description=  "History shows the superiority of a well-regulated standing army over a militia."
-date=  2020-12-28
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-1b"
-linkbtext=  "Part 1b"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-2a"
-linkftext=  "Part 2a"
-heading=  "Part 1c"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Fall of the Western Empire"
+heading: "Part 1e of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "History shows the superiority of a well-regulated standing army over a militia"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
 
 
 
@@ -30,9 +28,9 @@ In wartime, it took the field under the command of the same chieftains whom it o
 - It was tolerably well-exercised and well-disciplined.
 
 As arts and industry advanced, the authority of the chieftains gradually decayed.
-    The people had less time to spare for military exercises.
-    The discipline and the exercise of the feudal militia went gradually to ruin.
-    Standing armies were gradually introduced to replace it.
+- The people had less time to spare for military exercises.
+- The discipline and the exercise of the feudal militia went gradually to ruin.
+- Standing armies were gradually introduced to replace it.
 
 When a standing army has been adopted by a civilized nation, it became necessary for its neighbours to follow their example.
 
@@ -63,16 +61,17 @@ But where a well-regulated standing army has been kept up, the soldiers seem nev
 {{< s v="38" >}} A civilized nation is always exposed to be conquered by any nearby barbarous nation when it depends on a militia for its defence.
 
 The frequent Mongol conquests of the civilized Asian countries demonstrates the natural superiority of a barbarous nation's militia over a civilized nation's militia.
-A well-regulated standing army is superior to every militia.
-    Such an army can best be maintained by an opulent and civilized nation.
-Only a well-regulated standing army can= 
-    defend such a nation against the invasion of a poor and barbarous neighbour, and
-    perpetuate or preserve its civilization.
 
-39 Only through a well-regulated standing army can= 
+A well-regulated standing army is superior to every militia. Such an army can best be maintained by an opulent and civilized nation.
 
-a civilized country be defended, and
-a barbarous country can be civilized.
+Only a well-regulated standing army can:
+- defend such a nation against the invasion of a poor and barbarous neighbour
+- perpetuate or preserve its civilization.
+
+
+{{< s v="39" >}} Only through a well-regulated standing army can:
+- a civilized country be defended, and
+- a barbarous country can be civilized.
 
 A standing army establishes the sovereign's law through the remotest provinces with an irresistible force.
 

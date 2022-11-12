@@ -42,7 +42,9 @@ Without a union with Great Britain, the Irish will not likely consider themselve
 Even they would gain considerably by a union with Great Britain.
 It would at least deliver them from those rancorous and virulent factions which are inseparable from small democracies.
 Those factions have so frequently divided their people and disturbed the peace of their democratic governments.
+
 If they were totally separated from Great Britain, those factions would be 10 times more virulent than ever.
+
 Before the start of the present disturbances, Great Britain's coercive power was always able to restrain those factions.
 If that coercive power were entirely taken away, they would probably soon break out into open violence and bloodshed.
 
@@ -72,7 +74,8 @@ It would probably be unnecessary to introduce any new tax system to draw a great
 Those countries are already sufficiently taxed.
 It might be more proper to lighten the burden of those unfortunate countries by preventing the embezzlement and misapplication of their taxes.
 
-92 If it is impractical for Great Britain to increase its revenue from the resources mentioned, her only remaining resource is to reduce her expence.
+
+{{< s v="92" >}} If it is impractical for Great Britain to increase its revenue from the resources mentioned, her only remaining resource is to reduce her expence.
 
 Great Britain is at least as economical as her neighbours in collecting and spending the public revenue.
 There is still room for improvement for both collecting and spending.
@@ -85,9 +88,11 @@ It should be all saved if no revenue can be drawn from the colonies.
 This constant expence in peacetime was very great, but is insignificant compared to wartime.
 The Seven Years' War was undertaken for the colonies.
 It cost Great Britain more than £90 million.
+
 The Spanish War of Jenkins' Ear of 1739 was principally undertaken for the colonies.
 It cost Great Britain more than £40 million and led to the Seven Years' War.
 Most of it should be charged to the colonies.
+
 The cost of those two wars was much more than double the national debt before 1739.
 Without those wars, Great Britain's debt might have been completely paid by this time.
 Had it not been for the colonies, those two wars certainly would not have been undertaken.
@@ -102,6 +107,7 @@ The colonies refuse to submit to British taxes.
 
 If they are still to be considered as British provinces, their defence in a future war might cost Great Britain a very big expence.
 For more than a century, Great Britain's rulers have amused the people with the imagination that they had a great empire in North America.
+
 This empire has existed in imagination only.
 It has been the project of an empire and not an empire.
 It was the project of a gold mine, not a gold mine.
@@ -111,7 +117,7 @@ It was a project which has cost and will likely cost immense expence, without br
 - Our rulers should awake themselves and the people from it.
 
 If the project cannot be completed, it should be given up.
-If any of the British empire's provinces cannot be made to contribute to support the whole empire, Great Britain should free herself from the cost of= 
+If any of the British empire's provinces cannot be made to contribute to support the whole empire, Great Britain should free herself from the cost of:
 - defending those provinces, and
 - supporting their civil or military establishments.
 

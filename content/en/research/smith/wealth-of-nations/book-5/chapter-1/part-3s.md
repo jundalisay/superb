@@ -9,6 +9,7 @@ icon: /avatars/smith.png
 ---
 
 
+
 {{< s v="159" >}} The following was the common course of philosophical education in most European universities:
 - Logic was taught first
 - Ontology came in second

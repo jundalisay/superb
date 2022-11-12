@@ -1,15 +1,13 @@
-+++
-title=  "How to solve religious conflicts"
-description=  "How to solve religious conflicts"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3q"
-linkbtext=  "Part 3q"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3s"
-linkftext=  "Part 3s"
-heading=  "Part 3r"
-icon=  "/icons/smith.png"
-+++
+---
+title: "How to solve religious conflicts"
+heading: "Part 3z"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "There state can use two very easy and effective remedies to peacefully correct the disagreeably rigorous morals of little sects"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
 
 
 {{< s v="202" >}} There state can use two very easy and effective remedies to peacefully correct the disagreeably rigorous morals of little sects.

@@ -1,14 +1,14 @@
-+++
-title=  "The Decline of the Church"
-description=  "The gradual improvements of arts, manufactures, and commerce which destroyed the great barons also destroyed the power of the European clergy"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3s"
-linkbtext=  "Part 3r"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3u"
-linkftext=  "Part 3t"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Decline of the Church"
+heading: "Part 3zb of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "The gradual improvements of arts, manufactures, and commerce which destroyed the great barons also destroyed the power of the European clergy"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
+
 
 
 {{< s v="214" >}} The gradual improvements of arts, manufactures, and commerce which destroyed the power of the great barons destroyed the whole temporal power of the clergy in Europe.
@@ -86,9 +86,11 @@ The clergy had less power and inclination to disturb the state.
 The new doctrines were very popular everywhere.
 They were propagated with all that enthusiastic zeal which commonly animates the spirit of party when it attacks established authority.
 The teachers of those doctrines were perhaps not more learned than the divines who defended the established church.
-They generally were better acquainted with= 
-ecclesiastical history, and
-the origin and progress of the opinions on which the authority of the church was established.
+
+They generally were better acquainted with:
+- ecclesiastical history, and
+- the origin and progress of the opinions on which the authority of the church was established.
+
 They thereby had some advantage in every dispute.
 Their austerity gave them authority with the common people.
 The people contrasted the strict regularity of their conduct with their own clergy's disorderly lives.
@@ -107,15 +109,18 @@ The zealous, passionate, and fanatical, though rustic, eloquence recommended the
 
 The church lost the respect and veneration of the inferior ranks of people.
 It could not resist.
+
 The Roman court was disobliged with the smaller princes in northern Germany.
 It probably considered them too insignificant to be worth managing.
 The princes universally established the reformation in their own dominions.
+
 The tyranny of Christiern 2nd and of Troll, the Archbishop of Upsala, enabled Gustavus Vasa to expel them both from Sweden.
 
 The pope favoured them.
 Gustavus Vasa easily established the reformation in Sweden.
 Christiern 2nd was afterwards deposed from the Danish throne where his conduct made him as odious as in Sweden.
 The pope still favoured him.
+
 Frederic of Holstein took the throne and followed the example of Gustavus Vasa.
 The magistrates of Berne and Zurich had no quarrel with the pope.
 

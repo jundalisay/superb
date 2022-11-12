@@ -9,6 +9,7 @@ icon: /avatars/smith.png
 ---
 
 
+
 {{< s v="181" >}} The common people have little time to spare for education.
 
 Their parents cannot afford to maintain them even in infancy.

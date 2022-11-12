@@ -1,15 +1,12 @@
-+++
-title=  "Church Politics"
-description=  "Church Politics"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3r"
-linkbtext=  "Part 3r"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3t"
-linkftext=  "Part 3t"
-heading=  "Part 3s"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Church Politics"
+heading: "Part 3za of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "In the Christian church's ancient constitution, the bishop of each diocese was elected by the joint votes of the clergy"
+author: Adam Smith
+icon: /avatars/smith.png
+---
 
 
 
@@ -21,6 +18,7 @@ The people did not long retain their right of election.
 
 When they had it, they almost always acted under the clergy's influence.
 The clergy soon grew weary of managing them.
+
 They found it easier to elect their own bishops themselves in the same way as the abbot was elected by the monks of the monastery.
 All the inferior ecclesiastical benefices comprehended within the diocese were collated by the bishop.
 

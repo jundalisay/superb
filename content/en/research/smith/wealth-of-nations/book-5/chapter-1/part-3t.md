@@ -1,17 +1,13 @@
-+++
-title=  "Ancient Educational Institutions"
-description=  "Ancient Educational Institutions"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3m"
-linkbtext=  "Part 3m"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3o"
-linkftext=  "Part 3o"
-heading=  "Part 3n"
-icon=  "/icons/smith.png"
-linkbook=  "https= //play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=WyYAEAAAQBAJ"
-linkbooktext=  "Support Superphysics by buying the ebook"
-+++
+---
+title: "Ancient Educational Institutions"
+heading: "Part 3t of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "There are no public educational institutions for women. There is accordingly nothing useless, absurd, or fantastic in their common education"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
 
 
 {{< s v="166" >}} Different educational institutions were established in other ages and nations.

@@ -14,7 +14,7 @@ icon: "/icons/sarkar.png"
 The human body is composed of countless cells of 2 kinds:
 
 1. protozoic
-2. metazoic.
+2. metazoic
 
 The entire human structure can be regarded as one metazoic cell.
 

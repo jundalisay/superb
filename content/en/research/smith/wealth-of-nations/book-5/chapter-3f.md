@@ -21,22 +21,27 @@ The management of those two original sources of revenue belong to two sets of pe
 
 {{< s v="55" >}} The proprietor of land is interested to keep his estate in as good condition as he can, for the sake of his own revenue.
 
-He does this by: 
-    building and repairing his tenants' houses, and
-    making and maintaining the necessary drains and enclosures and all those other expensive improvements.
-These all properly belong to the landlord to make and maintain.
-    The landlord might be unable to make or maintain expensive land improvements when= 
-        land taxes very much reduce his revenue, and
-        sales taxes on necessities and conveniences render his reduced revenue of so little real value.
+He does this by:
+- building and repairing his tenants' houses, and
+- making and maintaining the necessary drains and enclosures and all those other expensive improvements.
+
+These all properly belong to the landlord to make and maintain. The landlord might be unable to make or maintain expensive land improvements when:
+- land taxes very much reduce his revenue, and
+- sales taxes on necessities and conveniences render his reduced revenue of so little real value.
+
 When the landlord stops doing his part, it is impossible that the tenant should continue his.
-    As the landlord's distress increases, the country's agriculture must necessarily decline.
+
+As the landlord's distress increases, the country's agriculture must necessarily decline.
 
 
 {{< s v="56" >}} Merchants and manufacturers are the owners of the greatest capitals.
 
 They will be disposed to remove their capitals when, by sales taxes on commodities, they find that their revenue from their commodities is less than other revenues.
+
 When they are continually exposed to the mortifying and vexatious visits of the tax-gatherers to get more taxes, this will turn to an actual removal.
+
 The country's industry will necessarily fall with the removal of the capital which supported it.
+
 The ruin of trade and manufactures will follow the decline of agriculture.
 
 

@@ -1,14 +1,13 @@
-+++
-title=  "Austere vs Liberal Morals"
-description=  "Austere vs Liberal Morals"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3p"
-linkbtext=  "Part 3p"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3r"
-linkftext=  "Part 3r"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Austere vs Liberal Morals"
+heading: "Part 3y"
+date: 2020-01-29
+image: "/covers/wn.jpg"
+description: "In every civilized society which has the distinction of ranks, there were always two systems of morality"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="199" >}} In every civilized society which has the distinction of ranks, there were always two systems of morality.

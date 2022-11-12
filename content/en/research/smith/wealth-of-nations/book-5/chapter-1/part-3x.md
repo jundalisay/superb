@@ -11,14 +11,18 @@ icon: /avatars/smith.png
 
 {{< s v="193" >}} But there are also some professions which bring no advantage or pleasure to anyone.
 
-The supreme power must alter its conduct with regard to those professionals.
-It must give them public encouragement for their subsistence.
-It must provide against negligence by= 
-annexing honours to their profession,
-establishing a long subordination of ranks and a strict dependence, or
-some other expedient.
+The supreme power must:
+- alter its conduct with regard to those professionals
+- give them public encouragement for their subsistence
+- provide against negligence by:
+  - annexing honours to their profession,
+  - establishing a long subordination of ranks and a strict dependence, or
+  - some other expedient.
+
 Examples are those employed in the finances, fleets, and magistracy.
 
+
+{{< s v="194" >}}
 194 At first sight, it may naturally be thought that ecclesiastics belong to the first class.
 
 Their encouragement, as well as that of lawyers and physicians, may safely be entrusted to the people attached to their doctrines. This will= 

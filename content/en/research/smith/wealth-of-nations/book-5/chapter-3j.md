@@ -77,7 +77,8 @@ Gold and silver very seldom appear in the commerce between Great Britain and the
 - Maryland and Virginia have as little need for those metals in their foreign and domestic commerce.
 - Accordingly, they are said to have less gold and silver money than any other American colony, yet they are as thriving and rich as their neighbours.
 
-84 In the northern colonies, the value of their own exports to Great Britain is more than the value of their imports.
+
+{{< s v="84" >}} In the northern colonies, the value of their own exports to Great Britain is more than the value of their imports.
 
 A balance must be paid to Great Britain in gold and silver. They generally find this balance. The northern colonies are= 
 - Pennsylvania
@@ -85,9 +86,10 @@ A balance must be paid to Great Britain in gold and silver. They generally find 
 - New Jersey
 - the four governments of New England, etc.
 
-85 The sugar colonies export more to Great Britain than they import British goods. <!-- , the value of exports to Great Britain is much greater than the value of all the goods imported. -->
 
-Great Britain would need to send a lot of money annually to the sugar colonies if their sugar and rum were all bought with money in those colonies. 
+{{< s v="85" >}} The sugar colonies export more to Great Britain than they import British goods. <!-- , the value of exports to Great Britain is much greater than the value of all the goods imported. -->
+
+Great Britain would need to send a lot of money annually to the sugar colonies if their sugar and rum were all bought with money in those colonies.
 - This would cause politicians to see the West Indies trade as extremely disadvantageous.
 
 But this does not happen because many of the large sugar plantation owners<!--  proprietors --> reside in Great Britain.
@@ -96,7 +98,7 @@ But this does not happen because many of the large sugar plantation owners<!--  
 - The difference goes to the owners as gold and silver*.
 
 
-> *Superphysics Note=  The money of Great Britain stays in Great Britain
+> *Superphysics Note: The money of Great Britain stays in Great Britain
 
 
 
@@ -146,6 +148,7 @@ The expence of buying this costly instrument might somewhat dampen the vivacity 
 It might be unnecessary to remit any part of the American revenue in gold and silver.
 
 It might be remitted in bills drawn on and accepted by particular merchants or companies in Great Britain to whom some of America's surplus produce was consigned.
+
 Those merchants and companies would pay into the treasury the American revenue in money after receiving the value of those goods.
 The whole business might frequently be transacted without exporting a single ounce of gold or silver from America.
 

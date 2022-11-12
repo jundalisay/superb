@@ -1,16 +1,14 @@
-+++
-title=  "Article 2-Educational Subjects"
-linkTitle = "Article 2a"
-description=  "Educational Subjects"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3q"
-linkbtext=  "Part 3q"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3s"
-linkftext=  "Part 3s"
-heading=  "Part 3m"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Article 2-Educational Subjects"
+heading: "Part 3r of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "When Christianity was first established by law, a corrupted Latin had become the common language of Western Europe"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
+
 
 
 ## Language Learning
@@ -127,10 +125,13 @@ Speculative systems have always been adopted for frivolous reasons.
 
 Gross sophistry has never influenced mankind's opinions, except in matters of philosophy and speculation.
 Gross sophistry was frequently the greatest in philosophy and speculation.
+
 The patrons of each system of natural and moral philosophy naturally tried to expose the weakness of the arguments of opposing systems.
-In examining those arguments, they had to consider the difference between= 
-a probable and a demonstrative argument,
-a fallacious and a conclusive one.
+
+In examining those arguments, they had to consider the difference between:
+- a probable and a demonstrative argument,
+- a fallacious and a conclusive one.
+
 Logic is the science of the general principles of good and bad reasoning.
 
 It arose out of the scrutiny of this examination.
@@ -193,6 +194,5 @@ Heaven was to be earned only by:
 - the austerities and abasement of a monk.
 
 Heaven was not to be earned bythe liberal, generous, and spirited conduct of a man. Casuistry and an ascetic morality made up most of the moral philosophy of the schools.
+
 In this manner, the most important branch of philosophy became the most corrupted.
-
-

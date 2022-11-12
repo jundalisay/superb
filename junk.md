@@ -3,6 +3,46 @@ warrior
 thinker
 trader
 
+ant financial remitance 
+
+
+luis ygg
+chris xave
+nate globe 
+tonivhi metago 
+gcash
+melvin ng huawei 100 partners, customers in PH
+lee zhu bnbchain superior tech GameFi sponsorbiggest community of users bunance ecosystem
+play to earn does not work because in=out need other source of revenue like ads, subscription, esoprts 
+avenger dao - communityled security initiative 
+archipelago labs = pdax coinbase froge 
+
+50-250k USD
+
+USE BNB CHAIN
+
+flame framework flutter
+
+playdex 
+acadarena
+
+opgames  arcadia 
+
+
+jen bilango: blockchain space 
+
+
+
+
+customer dev --> 50 usd  500 
+
+metaverse = blockchain:
+- virtual worlds
+- digital assets
+- crypto 
+- gaming 
+
+
 4 laws
 1 there is energy (main goal)
 2 energy acquires identity (fous here to avoid 3 and 4 to be self-regulating)

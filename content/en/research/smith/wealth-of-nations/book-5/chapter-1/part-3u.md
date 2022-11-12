@@ -1,14 +1,13 @@
-+++
-title= "Women's Education and Basic Educational Institutions"
-description=  "Women's Education and Basic Educational Institutions"
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3n"
-linkbtext=  "Part 3n"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3p"
-linkftext=  "Part 3p"
-heading=  "Part 3o"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Women's Education and Basic Educational Institutions"
+heading: "Part 3u of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "There are no public educational institutions for women. There is accordingly nothing useless, absurd, or fantastic in their common education"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
 
 
 {{< s v="175" >}} There are no public educational institutions for women. There is accordingly nothing useless, absurd, or fantastic in their common education.

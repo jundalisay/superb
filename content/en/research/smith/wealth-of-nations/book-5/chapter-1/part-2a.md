@@ -1,15 +1,13 @@
-+++
-title=  "Part 2a-Expenses on Justice"
-description=  "The second duty of the sovereign is to protect every member of society from the injustice or oppression of every other membe"
-date=  2020-12-27
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-1e"
-linkbtext=  "Part 1e"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-2b"
-linkftext=  "Part 2b"
-heading=  "Part 2a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Part 2a-Expenses on Justice"
+heading: "Part 2a of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "The second duty of the sovereign is to protect every member of society from the injustice or oppression of every other membe"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
 
 
 

@@ -1,15 +1,14 @@
-+++
-title=  "The Expense of supporting the Sovereign's Dignity"
-description=  "The sovereign also needs a certain expence to support his dignity"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3t"
-linkbtext=  "Part 3T"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-1a"
-linkftext=  "Chapter 2"
-heading=  "Part 4"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Expense of supporting the Sovereign's Dignity"
+heading: "Part 4 of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "The sovereign also needs a certain expence to support his dignity"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
+
 
 
 {{< s v="232" >}} The sovereign also needs a certain expence to support his dignity. This expence varies with= 
@@ -28,7 +27,6 @@ The sovereign should not be left out.
 - A greater expence is necessary for supporting that higher dignity.
 - We naturally expect more splendour in a king's court than in a mansion of a rich man.
 
-<br>
 
 ## Conclusion
 
@@ -55,19 +53,22 @@ It is unjust that the whole society should contribute towards an expence of whic
 {{< s v="238" >}} The expence of maintaining good roads and communications is beneficial to the whole society.
 
 It should be defrayed by the whole society's general contribution.
-This expence is most immediately and directly beneficial to= 
-those who travel or carry goods, and
-those who consume such goods.
+This expence is most immediately and directly beneficial to:
+- those who travel or carry goods, and
+- those who consume such goods.
+
 The turnpike tolls in England, and the duties called peages in other countries, lay the cost on those two sets of people.
+
 They discharge the general revenue of the society from a very big burden.
 
 
 {{< s v="239" >}} The expence for educational institutions and religious instruction is beneficial to the whole society.
 
 It should be defrayed by the whole society's general contribution.
-This expence can be defrayed by= 
-those who receive the immediate benefit of such education and instruction, and
-the voluntary contribution of those who need them.
+
+This expence can be defrayed by:
+- those who receive the immediate benefit of such education and instruction, and
+- the voluntary contribution of those who need them.
 
 
 {{< s v="240" >}} When beneficial public works or institutions cannot be maintained by the contribution of those who benefit from them, the deficiency must be made up by the general contribution of the whole society.

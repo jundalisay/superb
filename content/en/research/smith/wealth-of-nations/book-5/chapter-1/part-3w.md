@@ -1,15 +1,13 @@
-+++
-title= "Article 3-Moral Education for People of all Ages"
-description=  "Article 3-Moral Education for People of all Ages"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3o"
-linkbtext=  "Part 3o"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3q"
-linkftext=  "Part 3q"
-heading=  "Part 3p"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Article 3-Moral Education for People of all Ages"
+heading: "Part 3w of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "The educational institutions for people of all ages are chiefly those for religious instruction."
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
 
 
 {{< s v="190" >}} The educational institutions for people of all ages are chiefly those for religious instruction.
