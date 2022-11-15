@@ -1,15 +1,12 @@
 ---
-title: Preamble
+title: Society
 heading: "Articles 1-12"
 description: "The foundation of freedom, justice and peace in the world is the recognition of the inherent dignity, and the equal and inalienable rights of all members of the human family"
 image: /flags/us.png
 author: UN
 date: 2022-01-29
-linkb: "/research/modern/human-rights/article-13"
-linkbtext: "Article 13"
-linkf: "/research/modern/human-rights/"
-linkftext: "Index"
 ---
+
 
 
 Article 22

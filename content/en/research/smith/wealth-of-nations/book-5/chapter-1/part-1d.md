@@ -1,15 +1,13 @@
-+++
-title=  "Superiority of Armies vs Militia"
-description=  "History shows the superiority of a well-regulated standing army over a militia."
-date=  2020-12-28
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-1b"
-linkbtext=  "Part 1b"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-2a"
-linkftext=  "Part 2a"
-heading=  "Part 1c"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Superiority of Armies vs Militia"
+heading: "Part 1d of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "History shows the superiority of a well-regulated standing army over a militia"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
 
 
 {{< s v="27" >}} History shows the superiority of a well-regulated standing army over a militia.

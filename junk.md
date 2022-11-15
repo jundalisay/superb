@@ -26,10 +26,26 @@ flame framework flutter
 playdex 
 acadarena
 
+
+i5-1135G7 emil
+i5-11400 adrian 
+
+
 opgames  arcadia 
 
 
 jen bilango: blockchain space 
+
+ethereum openzepellin 
+- amm liqduity pool 
+- abi
+- stablecoin 
+- market exchange 
+- ICP EOS Solana 
+
+ant financial remitance 
+
+
 
 
 

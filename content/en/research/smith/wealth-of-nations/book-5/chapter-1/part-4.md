@@ -68,7 +68,7 @@ It should be defrayed by the whole society's general contribution.
 
 This expence can be defrayed by:
 - those who receive the immediate benefit of such education and instruction, and
-- the voluntary contribution of those who need them.
+- `the voluntary contribution of those who need them.
 
 
 {{< s v="240" >}} When beneficial public works or institutions cannot be maintained by the contribution of those who benefit from them, the deficiency must be made up by the general contribution of the whole society.

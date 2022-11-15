@@ -10,23 +10,54 @@ author: Aristotle
 
 
 
-We have to acquire knowledge of the original causes (for we say we know each thing only when we think we recognize its first cause), and causes are spoken of in 4 senses. 
+We have to acquire knowledge of the original causes. 
 
-In one of these we mean the substance, i.e. the essence (for the 'why' is reducible finally to the definition, and the ultimate 'why' is a cause and principle)
+ <!-- (for we say we know each thing only when we think we recognize its first cause), and  -->
 
-in another the matter or substratum, in a third the source of the change, and in a fourth the cause opposed to this, the purpose and the good (for this is the end of all generation and change). 
+Causes are used in 4 senses.
+
+1. As the substance, as the essence
+
+The 'why' is reducible finally to the definition. The ultimate 'why' is a cause and principle.
+
+2. As the matter or substratum
+
+3. As the source of the change
+
+4. As the cause opposed to this, the purpose and the good (for this is the end of all generation and change). 
+
 
 My work on nature has studied these causes sufficiently. 
 
 Some people have philosophized about reality and also speak of principles and causes. 
 
-The first philosophers, then, most thought the principles which were of the nature of matter were the only principles of all things. 
+The first philosophers thought that the principle of existence is the only principle of all things.
+- All things are made of what they were first made of
+- All things will end up as whatever they were made of
 
-That of which all things that are consist, the first from which they come to be, the last into which they are resolved (the substance remaining, but changing in its modifications), this they say is the element and this the principle of things, and therefore they think nothing is either generated or destroyed, since this sort of entity is always conserved, as we say Socrates neither comes to be absolutely when he comes to be beautiful or musical, nor ceases to be when loses these characteristics, because the substratum, Socrates himself remains. just so they say nothing else comes to be or ceases to be; for there must be some entity-either one or more than one-from which all other things come to be, it being conserved.
+<!-- s which were of the nature of matter were   -->
 
-"Yet they do not all agree as to the number and the nature of these principles. Thales, the founder of this type of philosophy, says the principle is water (for which reason he declared that the earth rests on water), getting the notion perhaps from seeing that the nutriment of all things is moist, and that heat itself is generated from the moist and kept alive by it (and that from which they come to be is a principle of all things). He got his notion from this fact, and from the fact that the seeds of all things have a moist nature, and that water is the origin of the nature of moist things.
+<!-- That of which all things that are consist, the first from which they come to be, the last into which they are resolved (the substance remaining, but changing in its modifications), this they say is the element and this the principle of things. -->
 
-"Some think that even the ancients who lived long before the present generation, and first framed accounts of the gods, had a similar view of nature; for they made Ocean and Tethys the parents of creation, and described the oath of the gods as being by water, to which they give the name of Styx; for what is oldest is most honourable, and the most honourable thing is that by which one swears. It may perhaps be uncertain whether this opinion about nature is primitive and ancient, but Thales at any rate is said to have declared himself thus about the first cause. Hippo no one would think fit to include among these thinkers, because of the paltriness of his thought.
+Therefore, they think nothing is either generated or destroyed, since this sort of entity is always conserved. 
+
+For example, Socrates:
+- does not absolutely exist when he becomes beautiful or musical, and
+- does not stop existing when he stops being beautiful or musical. 
+
+This is because the substratum, Socrates, himself remains. 
+
+This is the same as saying nothing else comes to be or ceases to be. This is because there must be some entity-either one or more than one-from which all other things come to be, it being conserved.
+
+Yet they do not all agree as to the number and the nature of these principles. 
+
+Thales was the founder of this type of philosophy. He says the principle is water (for which reason he declared that the earth rests on water), getting the notion perhaps from seeing that the nutriment of all things is moist, and that heat itself is generated from the moist and kept alive by it (and that from which they come to be is a principle of all things). 
+
+He got his notion from this fact, and from the fact that the seeds of all things have a moist nature, and that water is the origin of the nature of moist things.
+
+Some think that even the ancients who lived long before the present generation, and first framed accounts of the gods, had a similar view of nature; for they made Ocean and Tethys the parents of creation, and described the oath of the gods as being by water, to which they give the name of Styx; for what is oldest is most honourable, and the most honourable thing is that by which one swears. 
+
+It may perhaps be uncertain whether this opinion about nature is primitive and ancient, but Thales at any rate is said to have declared himself thus about the first cause. Hippo no one would think fit to include among these thinkers, because of the paltriness of his thought.
 
 - Anaximenes and Diogenes make air prior to water as the most primary of the simple bodies.
 - Hippasus of Metapontium and Heraclitus of Ephesus say this of fire

@@ -1,15 +1,14 @@
-+++
-title=  "Educational Fees"
-description=  "The proper performance of every service requires that its pay be proportional to the nature of the service"
-date=  2015-01-01
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-3t"
-linkbtext=  "Part 3t"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-4"
-linkftext=  "Part 4"
-heading=  "Part 3u"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Educational Fees"
+heading: "Part 3zd of Chapter 1 of Book 5"
+date: 2021-08-01
+image: "/covers/wn.jpg"
+description: "The proper performance of every service requires that its pay be proportional to the nature of the service"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
+
 
 
 {{< s v="227" >}} The church benefices cannot be very big if they are all nearly equal.
@@ -20,6 +19,7 @@ Levity and vanity render him ridiculous.
 
 They are as ruinous to him as they are to common people.
 He must follow the moral system respected by the common people.
+
 The common people look upon him with the kindness that we naturally regard to someone of the same condition but who, we think, should be higher.
 Their kindness naturally provokes his kindness.
 
@@ -52,15 +52,17 @@ Voltaire observes that he was the only professor in France whose works were wort
 France has produced so many eminent men of letters.
 It is strange that none have been a university professor.
 The famous Gassendi was a professor in the university of Aix.
-When his genius was recognized, he was told that he could easily find in the church= 
-a more quiet and comfortable subsistence, and
-a better situation for pursuing his studies.
-He immediately followed this advice.
-Voltaire's observation may be applied to France and all Roman Catholic countries.
+
+When his genius was recognized, he was told that he could easily find in the church:
+- a more quiet and comfortable subsistence
+- a better situation for pursuing his studies.
+
+He immediately followed this advice. Voltaire's observation may be applied to France and all Roman Catholic countries.
 
 We very rarely find in any of them an eminent man of letters who is a professor in a university, except in law and physics.
 The Church is not so likely to draw from those professions.
 After the Church of Rome, the Church of England is the richest and best endowed in Christendom.
+
 In England, the Church is continually draining the universities of all their best members.
 An old college tutor who is an eminent man of letters, is as rarely found there as in any Roman catholic country.
 On the contrary, in Protestant countries like Switzerland, Germany, Holland, Scotland, Sweden, and Denmark, the most eminent men of letters have been university professors.
@@ -73,7 +75,7 @@ In those countries, the universities are continually draining the church of all 
 - a few historians,
 - the far greater part of the other eminent men of letters.
 
-This is true from the days of= 
+This is true from the days of:
 - Lysias and Isocrates,
 - Plato and Aristotle,
 - Plutarch and Epictetus, and

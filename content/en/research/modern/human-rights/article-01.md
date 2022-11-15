@@ -5,11 +5,8 @@ description: "The foundation of freedom, justice and peace in the world is the r
 image: /flags/us.png
 author: UN
 date: 2022-01-29
-linkb: "/research/modern/human-rights/"
-linkbtext: "Index"
-linkf: "/research/modern/human-rights/article-13"
-linkftext: "article-13"
 ---
+
 
 <!-- Universal Declaration of Human Rights
 The Universal Declaration of Human Rights (UDHR) is a milestone document in the history of human rights. Drafted by representatives with different legal and cultural backgrounds from all regions of the world, the Declaration was proclaimed by the United Nations General Assembly in Paris on 10 December 1948 (General Assembly resolution 217 A) as a common standard of achievements for all peoples and all nations. It sets out, for the first time, fundamental human rights to be universally protected and it has been translated into over 500 languages. The UDHR is widely recognized as having inspired, and paved the way for, the adoption of more than seventy human rights treaties, applied today on a permanent basis at global and regional levels (all containing references to it in their preambles). 
