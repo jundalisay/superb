@@ -13,6 +13,7 @@ aliases:
   /superphysics/what-is-superphysics/  
 comments:
   - img: "/avatars/lam.jpg"
+    name: "Lam"
     content: "Are we in the dark ages?"
     commentdate: 2022-05-02
 ---

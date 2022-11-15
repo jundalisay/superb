@@ -1,10 +1,107 @@
 ---
-title: "Superphysics: Wave-based Scientific Paradigm"
+title: "Superphysics: Mô hình khoa học dựa trên sóng"
 image : "/og/sp.jpg"
-heading : "A New Science Based on Metaphysics and Dialectics"
-sub : "All Knowledge Can Be Grouped Into Three"
+# heading : "A New Science Based on Metaphysics and Dialectics"
+heading: "Một khoa học mới dựa trên siêu hình học và phép biện chứng"
+sub: "Tất cả kiến thức có thể được nhóm thành ba"
+# sub : "All Knowledge Can Be Grouped Into Three"
 
+# Tất cả kiến ​​​​thức có thể được nhóm thành ba
+# siêu vật lý
+# siêu hình học
 
+# 0-50% Có thể nhân rộng: Nghịch lý
+
+# siêu vật lý
+# siêu vật lý
+
+# 51-99% Có thể nhân rộng: Chủ quan
+
+# siêu vật lý
+# vật lý
+
+# Có thể sao chép 100%: Mục tiêu
+
+# MỌI THỨ ĐỀU LÀ SÓNG BIỂU HIỆN NHƯ MỘT HẠT
+# Bản chất của linh hồn
+# Dòng vũ trụ tương tự ở độ nét thực để tạo ra thực tế
+
+# Chúng ta đang ở trong một Ma trận!
+
+# Xem làm thế nào chúng ta có thể tồn tại tốt trong đó
+
+# Tất cả mọi thứ là một ý tưởng
+
+# Bên trong tâm trí hoặc ma trận
+
+# Một môn toán mới cho một khoa học mới
+
+# Có thuyết tương đối nướng trong
+
+# Siêu vật lý là gì? Một khoa học mới dựa trên Phép biện chứng gốc của Socrates
+# Phép biện chứng Socrate là gì? Một mô hình tư duy cho phép cả Vật lý và Siêu hình học
+# SIÊU VẬT LÍ
+# Linh hồn của vũ trụ vật chất
+# Dựa trên năm lớp của Hy Lạp cổ đại, Ấn Độ giáo và Trung Quốc
+
+# Giải pháp thay thế cho thuyết tương đối rộng
+
+# Siêu hình học của không thời gian
+
+# Thuyết tương đối phổ quát
+
+# Descartes & Kepler hơn Newton & Einstein
+
+# Electron dương, Proton âm
+
+# Chúng tôi sử dụng nam-nữ để tránh nhầm lẫn
+
+# Năm lớp của siêu vật lý Vật chất, phóng xạ, bức xạ, không gian và siêu phàm
+# Một cách tốt hơn để vươn tới các vì sao Lực đẩy siêu phàm có thể như thế nào Một khoa học mới dựa trên Phép biện chứng Socrate nguyên bản
+# Virus đang ở giữa làn sóng và ý tưởngXem cách ngăn chặn chúng
+# SIÊU VẬT LÝ Y TẾ
+# Linh hồn của các thực thể sống
+# Dựa trên năm mô hình y học
+
+# Ung thư và bệnh tật đã được chữa khỏi bằng y học phi phương Tây
+
+# Xem các lựa chọn thay thế dựa trên sóng cho Y học dựa trên hạt
+
+# Bạn có 3 tỷ bản thân
+
+# 'Bạn' được tạo thành từ một làn sóng 'bạn' đang thay đổi
+
+# Adam Smith người ăn chay
+
+# Người sáng lập nghiên cứu kinh tế ưa thích rau, cụ thể là khoai tây, hơn thịt'
+
+# Làm thế nào để ngăn chặn CovidNó vẫn ở đây! Khoa học bị mắc kẹt trong hộp không thể giải quyết được.
+# Ngôi sao Covid và Ngôi sao CúmBiến thể Omicron tạo thành một mô hình thông thường cho ngôi sao Covid
+# SIÊU VẬT LÝ XÃ HỘI
+# Linh hồn của xã hội
+# Tình bạn thay vì lợi ích ích kỷ
+
+# Thay đổi kinh tế là từ những thay đổi trong làn sóng mong muốn tập thể
+
+# Xem cách khắc phục tâm lý bầy đàn
+
+# Lịch sử lặp lại chính nó như một làn sóng
+
+# Dân chủ, chuyên chế, quý tộc, đầu sỏ
+
+# Bản ngã là nguyên nhân của các vấn đề trong xã hội
+
+# Xem cách siêu xã hội học nhằm sửa chữa nó
+
+# Một thế giới không còn nghèo đói, bất bình đẳng và khủng hoảng Pantrynomics (Siêu vật lý kinh tế) giải quyết vấn đề phân bổ nguồn lực và kinh tế xã hội
+# Chính trị, Luật pháp và Công lý vì một thế giới tốt đẹp hơn Siêu xã hội học liên quan đến chính trị, luật pháp, quản trị và các vấn đề chính trị xã hội khác
+# Chúng tôi rất thích nhận xét của bạn!
+# TÊN CỦA BẠN
+# Avatar CỦA BẠN (TÙY CHỌN)
+# EMAIL CỦA BẠN (TÙY CHỌN)
+# Đặt mua
+# EMAIL CỦA BẠN
+# © {year} Phòng đựng thức ăn ngang hàng
 cards:
   items:
     - icon : "/icons/tao.png"
