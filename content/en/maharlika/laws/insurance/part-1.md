@@ -1,25 +1,23 @@
+---
+heading: "Section 4-5"
+title: "GENERAL PROVISIONS"
+description: "GENERAL PROVISIONS"
+image: "/photos/handshake.jpg"
+date: 2022-03-25
+---
 
-	
-Today is Wednesday, November 16, 2022home
-
-  ConstitutionStatutesExecutive IssuancesJudicial IssuancesOther IssuancesJurisprudenceInternational Legal ResourcesAUSL Exclusive
-
-
-Fifteenth Congress
+<!-- Fifteenth Congress
 
 Third Regular Session
 
-Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve.
+Begun and held in Metro Manila, on Monday, the twenty-third day of July, two thousand twelve. -->
 
-REPUBLIC ACT NO. 10607
+An Act Strengthening The Insurance Industry, Further Amending Presidential Decree No. 612, Otherwise Known As "the Insurance Code", As Amended By Presidential Decree Nos. 1141, 1280, 1455, 1460, 1814 And 1981, And Batas Pambansa Blg. 874, And For Other Purposes
 
-AN ACT STRENGTHENING THE INSURANCE INDUSTRY, FURTHER AMENDING PRESIDENTIAL DECREE NO. 612, OTHERWISE KNOWN AS "THE INSURANCE CODE", AS AMENDED BY PRESIDENTIAL DECREE NOS. 1141, 1280, 1455, 1460, 1814 AND 1981, AND BATAS PAMBANSA BLG. 874, AND FOR OTHER PURPOSES
 
-Be it enacted by the Senate and House of Representatives of the Philippines in Congress assembled:
+<!-- ## Section 1. Presidential Decree No. 612, as amended, is hereby further amended to read as follows: -->
 
-Section 1. Presidential Decree No. 612, as amended, is hereby further amended to read as follows:
 
-"GENERAL PROVISIONS
 
 "Section 1. This Decree shall be known as ‘The Insurance Code’.
 
