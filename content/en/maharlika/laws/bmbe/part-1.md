@@ -1,7 +1,7 @@
 ---
 heading: "Part 1"
 title: "PRELIMINARY PROVISIONS"
-description: "The Bangsamoro are natives of Mindanao, the Sulu archipelago and its adjacent islands including Palawan, and their descendants, whether of mixed or3 of full blood at the time of conquest and colonization."
+description: "The State will hasten the country's economic development by encouraging the formation and growth of barangay micro business enterprises which effectively serve as seedbeds of Filipino entrepreneurial talents"
 date: 2002-11-13
 image: "/covers/bbl.jpg"
 ---
@@ -18,7 +18,7 @@ Begun and held in Metro Manila, on Monday, the twenty-second day of July, two th
 
 <!-- Section 1. Short Title – This Act shall be known as the "Barangay Micro Business Enterprises (BMBE's) Act of 2002." -->
 
-Section 2. Policy
+### Section 2. Policy
 
 The State will hasten the country's economic development by:
 - encouraging the formation and growth of barangay micro business enterprises which effectively serve as seedbeds of Filipino entrepreneurial talents
@@ -26,7 +26,9 @@ The State will hasten the country's economic development by:
   - the rationalization of bureaucratic restrictions
   - the active granting of incentives and benefits to generate much-needed employment and alleviate poverty.
 
-Section 3. Definitions
+
+
+### Section 3. Definitions
 
 - (a) BMBE is any business entity or enterprise engaged in the production, processing or manufacturing of products or commodities, including agro-processing, trading and services, whose total assets including those arising from loans but exclusive of the land on which the particular business entity's office, plant and equipment are situated, shall not be more than 3M pesos. This definition shall be subjected to review and upward adjustment by the SMED Council, as mandated under Republic Act No. 6977, as amended by Republic Act No. 8289.
 
@@ -43,7 +45,7 @@ Section 3. Definitions
 
 ## REGISTRATION AND OPERATION OF BMBE
 
-Section 4. Registration and Fees
+### Section 4. Registration and Fees
 
 The Office of the Treasurer of each city or municipality shall register the BMBE's and issue a Certificate of Authority to enable the BMBE to avail of the benefits under this Act. 
 
@@ -57,7 +59,13 @@ The Certificate of Authority shall be effective for a period of two (2) years, r
 
 As much as possible, BMBEs shall be subject to minimal bureaucratic requirements and reasonable fees and charges.
 
-Section 5. Who are Eligible to Register – Any person, natural or juridical, or cooperative, or association, having the qualifications as defined in Section 3(a) hereof may apply for registration as BMBE.
 
-Section 6. Transfer of Ownership - The BMBE shall report to the city or municipality of any changer in the status of its ownership structure, and shall surrender the original copy of the BMBE Certificate of Authority for notation of the transfer.
+### Section 5. Eligibility
+
+Any person, natural or juridical, or cooperative, or association, having the qualifications as defined in Section 3(a) hereof may apply for registration as BMBE.
+
+
+### Section 6. Transfer of Ownership
+
+The BMBE shall report to the city or municipality of any changer in the status of its ownership structure, and shall surrender the original copy of the BMBE Certificate of Authority for notation of the transfer.
 

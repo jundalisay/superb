@@ -8,17 +8,19 @@ image: "/covers/bbl.jpg"
 
 
 
-Section 7. Exemption from Taxes and Fees
+### Section 7. Exemption from Taxes and Fees
 
 All BMBEs shall be exempt from tax for income arising from the operations of the enterprise.
 
 The LGUs are encouraged either to reduce the amount of local taxes, fees and charges imposed or to exempt BMBEs from local taxes, fees and charges.
 
-Section 8. Exemption from the Coverage of the Minimum Wage Law
+
+###  Section 8. Exemption from the Coverage of the Minimum Wage Law
 
 The BMBEs shall be exempt from the coverage of the Minimum Wage Law: Provided, That all employees covered under this Act shall be entitled to the same benefits given to any regular employee such as social security and healthcare benefits.
 
-Section 9. Credit Delivery
+
+### Section 9. Credit Delivery
 
 The land Bank of the Philippines (LBP), the Development Bank of the Philippines (DBP), the Small Business Guarantee and Finance Corporation (SBGFC), and the People's Credit and Finance Corporation (PCFC) shall set up a special credit window that will service the financing needs of BMBEs registered under this Act consistent with the Banko Sentral ng Pilipinas (BSP) policies; rules and regulations. 
 
@@ -32,7 +34,10 @@ The LBP, DBP. PCFC, SBGFC, SSS, GSIS, and QUEDANCOR shall annually report to the
 
 The BSP shall formulate the rules for the implementation of this provision and shall likewise establish incentive programs to encourage and improve credit delivery to the BMBEs.
 
-Section 10. Technology Transfer, Production and Management Training, and marketing Assistance – A BMBE Development Fund shall be set up with an endowment of Three Hundred Million pesos (P300,000,000.00) from the Philippine Amusement and Gaming Corporation (PAGCOR) and shall be administered by the SMED Council.
+
+### Section 10. Technology Transfer, Production and Management Training, and marketing Assistance
+
+A BMBE Development Fund shall be set up with an endowment of Three Hundred Million pesos (P300,000,000.00) from the Philippine Amusement and Gaming Corporation (PAGCOR) and shall be administered by the SMED Council.
 
 The Department of Trade and Industry (DTI), the Department of Science and Technology (DOST), the university of the Philippines Institute for Small Scale Industries (UP ISSI), Cooperative Development Authority (CDA), Technical Education and Skills Development Authority (TESDA), and Technology and Livelihood Resource Center (TLRC) may avail of the said Fund for technology transfer, production and management training and marketing assistance to BMBEs.
 
@@ -40,7 +45,10 @@ The DTI, in coordination with the private sector and non-government organization
 
 The DTI, in behalf of the DOST, UP ISSI, CDA. TESDA and TLRC shall be required to furnish the appropriate Committees of both Houses of Congress a yearly report on the development and accomplishments of their projects and programs in relation to technology transfer, production and management training and marketing assistance extended to BMBEs.
 
-Section 11. Trade and Investment Promotions – The data gathered from business registration shall be made accessible to and shall be utilized by private sector organizations and non-government organizations for purposes of business matching, trade and investment promotion.
+
+### Section 11. Trade and Investment Promotions
+
+The data gathered from business registration shall be made accessible to and shall be utilized by private sector organizations and non-government organizations for purposes of business matching, trade and investment promotion.
 
 <!-- INFORMATION DISSEMINATION
 
@@ -56,11 +64,18 @@ In case of non-compliance with the provisions of Section 9 of this Act, the BSP 
 
 ## MISCELLANEOUS PROVISIONS
 
-Section 14. Annual Report – The DILG, DTI, and BSP shall submit an annual report to the Congress on the status of the implementation of this Act.
+###  Section 14. Annual Report
 
-Section 15. Implementing Rules and Regulations – The Secretary of the Department of Trade and Industry, in consultation with the Secretaries of the DILG, DOF, and the BSP Governor shall formulate the necessary ruled and regulations to implement the provisions of this Act within ninety (90) days after its approval. The rules and regulations issued pursuant to this section shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
+The DILG, DTI, and BSP shall submit an annual report to the Congress on the status of the implementation of this Act.
 
-Section 16. Separably Clause - If any provision or part hereof, is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+
+### Section 15. Implementing Rules and Regulations
+
+The Secretary of the Department of Trade and Industry, in consultation with the Secretaries of the DILG, DOF, and the BSP Governor shall formulate the necessary ruled and regulations to implement the provisions of this Act within ninety (90) days after its approval. The rules and regulations issued pursuant to this section shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
+
+### Section 16. Separably Clause
+
+If any provision or part hereof, is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
 
 Section 17. Repealing Clause – Existing laws, presidential decrees, executive orders, proclamations or administrative regulations that are inconsistent with the provisions of this Act are hereby amended, modified, superseded or repealed accordingly.
 
