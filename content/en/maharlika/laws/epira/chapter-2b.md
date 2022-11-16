@@ -67,13 +67,10 @@ the enactment of this Act.
 
 ## Section 28. De-Monopolization and Shareholding Dispersal
 
-In compliance with the constitutional mandate for dispersal of ownership and de-monopolization of public utilities, the holdings of persons, natural or juridical, including directors, officers, stockholders and related interests, in a distribution utility and their respective holding companies shall not exceed twenty-five (25%) percent of the voting shares of
-stock unless the utility or the company holding the shares or its controlling stockholders are already listed
-in the Philippine Stock Exchange (PSE): Provided, That controlling stockholders of small distribution utilities are hereby required to list in the PSE within five (5) years from the enactment of this Act if they already own the stocks. New controlling stockholders shall undertake such listing within five (5) years from the time they acquire ownership and control. A small distribution company is one whose peak demand is equal to or less than Ten megawatts (10MW).
+In compliance with the constitutional mandate for dispersal of ownership and de-monopolization of public utilities, the holdings of persons, natural or juridical, including directors, officers, stockholders and related interests, in a distribution utility and their respective holding companies shall not exceed 25% of the voting shares of stock unless the utility or the company holding the shares or its controlling stockholders are already listed in the Philippine Stock Exchange (PSE): Provided, That controlling stockholders of small distribution utilities are hereby required to list in the PSE within five (5) years from the enactment of this Act if they already own the stocks. New controlling stockholders shall undertake such listing within five (5) years from the time they acquire ownership and control. A small distribution company is one whose peak demand is equal to or less than Ten megawatts (10MW).
 
-The ERC shall, within sixty (60) days from the effectivity of this Act, promulgate the rules and
-regulations to implement and effect this provision.
-This Section shall not apply to electric cooperatives.
+The ERC shall, within sixty (60) days from the effectivity of this Act, promulgate the rules and regulations to implement and effect this provision. This Section shall not apply to electric cooperatives.
+
 
 
 ## Section 29. Supply Sector
