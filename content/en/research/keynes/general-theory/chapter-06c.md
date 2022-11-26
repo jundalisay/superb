@@ -1,19 +1,15 @@
 ---
 heading: "Chapter 6b"
 title: "Net Income"
-description: ""
+description: "My definition of net income is very close to Marshall’s definition"
 image: "/covers/general.jpg"
-date: 2020-01-20
-linkb: "/research/keynes/general-theory/chapter-06"
-linkbtext: "Chapter 6"
-linkf: "/research/keynes/general-theory/chapter-07"
-linkftext: "chapter 7"
+date: 2020-12-07
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 
 
-
-Our definition of net income:
+My definition of net income:
 - is very close to Marshall’s definition
 - corresponds to the money value of Professor Pigou’s most recent definition of the National Dividend.[5] 
 

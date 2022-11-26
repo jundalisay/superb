@@ -2,11 +2,8 @@
 title: "Changes in Money-Wages"
 description: "The Economy is Not Self-Adjusting"
 image: "/covers/general.jpg"
-date: 2019-12-27
-linkb: "/research/keynes/general-theory/chapter-18b"
-linkbtext: "chapter-18b"
-linkf: "/research/keynes/general-theory/chapter-19appendix"
-linkftext: "chapter-19 appendix"
+date: 2020-10-10
+author: John Maynard Keynes
 ---
 
 

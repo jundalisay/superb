@@ -3,11 +3,8 @@ title: "The Marginal Efficiency of Capital"
 heading: "Chapter 11"
 image: "/covers/general.jpg"
 description: "The prospective yield of the investment"
-date: 2020-01-10
-linkb: "/research/keynes/general-theory/chapter-10c"
-linkbtext: "chapter-10c"
-linkf: "/research/keynes/general-theory/chapter-12"
-linkftext: "chapter-12"
+date: 2020-11-14
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

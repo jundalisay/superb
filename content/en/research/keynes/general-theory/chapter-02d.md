@@ -3,14 +3,9 @@ heading: "Chapter 2d"
 title: "Mill's Assumptions"
 description: "The struggle over money-wages is often believed to determine the general level of real wages"
 image: "/covers/general.jpg"
-date: 2020-01-29
-linkb: "/research/keynes/general-theory/chapter-02b"
-linkbtext: "Chapter 2b"
-linkf: "/research/keynes/general-theory/chapter-03"
-linkftext: "chapter-3"
+date: 2020-12-25
 icon: "/icons/keynes.png"
 ---
-
 
 
 We keep <!-- In emphasising our point of departure from the classical system, we must not overlook an important point of agreement. For we shall maintain --> the first Classical postulate that Wage is equal to the marginal product of labour.<!--  as heretofore, subject only to the same qualifications as in the classical theory; and we must pause, for a moment, to consider what this involves. -->

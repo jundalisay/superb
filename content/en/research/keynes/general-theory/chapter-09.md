@@ -2,14 +2,10 @@
 title: "The Subjective Factors of the Propensity to Consume"
 heading: "Chapter 9"
 image: "/covers/general.jpg"
-date: 2020-01-14
-linkb: "/research/keynes/general-theory/chapter-08c"
-linkbtext: "chapter-8c"
-linkf: "/research/keynes/general-theory/chapter-10"
-linkftext: "chapter-10"
+date: 2020-11-23
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
-
 
 
 The subjective and social incentives are the second category of factors which affect the amount of consumption from a given income. 

@@ -3,11 +3,8 @@ heading: "Chapter 14 Appendix"
 title: "Ricardo and Von Mises"
 description: ""
 image: "/covers/general.jpg"
-date: 2020-01-28
-linkb: "/research/keynes/general-theory/chapter-14appendix"
-linkbtext: "Chapter 14 Appendix"
-linkf: "/research/keynes/general-theory/chapter-15"
-linkftext: "chapter 15"
+date: 2020-11-01
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

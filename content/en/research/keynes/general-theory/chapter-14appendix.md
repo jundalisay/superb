@@ -3,11 +3,8 @@ title: "Interest Rates According to Different Economists"
 heading: "Chapter 14 Appendix"
 image: "/covers/general.jpg"
 description: "Keynes compares the different notions of interest by Marshall, Ricardo, Pigou, and Von Mises"
-date: 2020-01-10
-linkb: "/research/keynes/general-theory/chapter-14"
-linkbtext: "chapter-14"
-linkf: "/research/keynes/general-theory/chapter-15"
-linkftext: "chapter-15"
+date: 2020-11-03
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

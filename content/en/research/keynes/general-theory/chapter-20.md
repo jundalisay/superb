@@ -3,11 +3,8 @@ title: "The Employment Function"
 heading: "Chapter 20"
 description: "The employment function only differs from the aggregate supply function in that it is, in effect, its inverse function and is defined in terms of hourly pay"
 image: "/covers/general.jpg"
-date: 2019-12-25
-linkb: "/research/keynes/general-theory/chapter-19appendix"
-linkbtext: "chapter-19 appendix"
-linkf: "/research/keynes/general-theory/chapter-21"
-linkftext: "chapter-21"
+date: 2020-10-04
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

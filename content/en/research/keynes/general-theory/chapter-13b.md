@@ -3,15 +3,10 @@ title: "The Liquidity Preference"
 heading: "Chapter 13b"
 image: "/covers/general.jpg"
 description: "Liquidity preference is divided into the need for cash, the need to be secure with cash, and the speculation for more cash"
-date: 2020-01-10
-linkb: "/research/keynes/general-theory/chapter-13"
-linkbtext: "chapter-13"
-linkf: "/research/keynes/general-theory/chapter-14"
-linkftext: "chapter-14"
+date: 2020-11-07
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
-
-
 
 
 The 3 divisions of the love for future cash <!-- liquidity-preference --> depend on:

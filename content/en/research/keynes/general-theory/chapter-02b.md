@@ -3,13 +3,11 @@ heading: "Chapter 2b"
 title: "Money Wages versus Real Wages"
 description: "Keynes continues his corruption of Classical theory by arguing for the dominance of money wages over real wages"
 image: "/covers/general.jpg"
-date: 2020-01-30
-linkb: "/research/keynes/general-theory/chapter-02"
-linkbtext: "Chapter 2"
-linkf: "/research/keynes/general-theory/chapter-02c"
-linkftext: "chapter-2c"
+date: 2020-12-28
 icon: "/icons/keynes.png"
 ---
+
+> Superphysics note: In Economic Superphysics, wages are under the 3rd Law of Value as Energy Flow
 
 
 

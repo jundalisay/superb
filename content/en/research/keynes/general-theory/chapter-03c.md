@@ -3,11 +3,8 @@ heading: "Chapter 3c"
 title: "Ricardo's Doctrine"
 description: "Output minus factor cost equals profit or entrepreneur's income"
 image: "/covers/general.jpg"
-date: 2020-01-26
-linkb: "/research/keynes/general-theory/chapter-02c"
-linkbtext: "Chapter 2c"
-linkf: "/research/keynes/general-theory/chapter-04"
-linkftext: "chapter 4"
+date: 2020-12-19
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

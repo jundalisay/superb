@@ -3,11 +3,8 @@ title: "The Propensity to Consume"
 heading: "Chapter 8"
 description: "Employment is determined by the point of intersection of the aggregate supply with the aggregate demand"
 image: "/covers/general.jpg"
-date: 2020-01-16
-linkb: "/research/keynes/general-theory/chapter-07appendix"
-linkbtext: "chapter-7 appendix"
-linkf: "/research/keynes/general-theory/chapter-09"
-linkftext: "chapter-9"
+date: 2020-11-28
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

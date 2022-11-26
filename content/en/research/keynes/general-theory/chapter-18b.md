@@ -2,12 +2,10 @@
 title: "The Meaning of Saving and Investment Further Considered"
 description: "The actual economic system are also coloured by certain special characteristics of the propensity to consume, the schedule of the marginal efficiency of capital and the rate of interest, about which we can safely generalise from experience, but which are not logically necessary"
 image: "/covers/general.jpg"
-date: 2019-12-28
-linkb: "/research/keynes/general-theory/chapter-18a"
-linkbtext: "chapter-18a"
-linkf: "/research/keynes/general-theory/chapter-19"
-linkftext: "chapter-19"
+date: 2020-10-12
+author: John Maynard Keynes
 ---
+
 
 
 The actual economic system is also coloured by:

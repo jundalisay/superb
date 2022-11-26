@@ -3,11 +3,7 @@ heading: "Chapter 22"
 title: "Notes on the Trade Cycle"
 description: "Notes on the Trade Cycle"
 image: "/covers/general.jpg"
-date: 2020-01-31
-linkb: "/research/keynes/general-theory/chapter-21c"
-linkbtext: "chapter-21c"
-linkf: "/research/keynes/general-theory/chapter-23"
-linkftext: "chapter-23"
+date: 2020-09-24
 icon: "/icons/keynes.png"
 author: "John Maynard Keynes"
 ---

@@ -3,11 +3,8 @@ heading: "Chapter 17"
 title: "The Essential Properties of Interest and Money"
 description: "The interest rate of money sets a standard to which the marginal efficiency of a capital-asset must attain if it is to be newly produced"
 image: "/covers/general.jpg"
-date: 2020-01-01
-linkb: "/research/keynes/general-theory/chapter-16b"
-linkbtext: "Chapter 16b"
-linkf: "/research/keynes/general-theory/chapter-18"
-linkftext: "chapter 18"
+date: 2020-10-20
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

@@ -3,13 +3,11 @@ title: "Full Employment"
 heading: "Chapter 2"
 description: "Strict equilibrium requires wages, prices, and consequently profits to all rise in the same proportion as expenditure. "
 image: "/covers/general.jpg"
-date: 2020-01-31
-linkb: "/research/keynes/general-theory/chapter-20"
-linkbtext: "chapter-20"
-linkf: "/research/keynes/general-theory/chapter-21"
-linkftext: "chapter-21"
+date: 2020-10-02
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
+
 
 
 When effective demand is deficient, there is underemployment of labour. 

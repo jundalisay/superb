@@ -1,14 +1,10 @@
-+++
-title=  "Why Traditional Theories of Wages Are Wrong"
-heading=  "Chapter 1"
-description=  "Why Traditional Theories of Wages Are Wrong"
-image=  "/covers/progress.jpg"
-author=  "Henry George"
-linkb=  "/research/george/progress-poverty"
-linkbtext=  "Progress Poverty"
-linkf=  "/research/george/progress-poverty/chapter-12"
-linkftext=  "The Cause of Interest"
-+++ 
+---
+title: "Why Traditional Theories of Wages Are Wrong"
+heading: "Chapter 1"
+description: "Why Traditional Theories of Wages Are Wrong"
+image: "/covers/progress.jpg"
+author: "Henry George"
+---
 
 Why does poverty persist despite increasing wealth?
 

@@ -2,11 +2,8 @@
 title: "The Importance of the Propensity to Consume"
 heading: "Chapter 8c"
 image: "/covers/general.jpg"
-date: 2020-01-14
-linkb: "/research/keynes/general-theory/chapter-08b"
-linkbtext: "chapter-8b"
-linkf: "/research/keynes/general-theory/chapter-09"
-linkftext: "chapter-9"
+date: 2020-11-25
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

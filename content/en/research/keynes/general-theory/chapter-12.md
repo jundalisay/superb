@@ -3,11 +3,8 @@ title: "The State of Long-Term Expectation"
 heading: "Chapter 12"
 image: "/covers/general.jpg"
 description: "Keynes talks about Expectations"
-date: 2020-01-10
-linkb: "/research/keynes/general-theory/chapter-11"
-linkbtext: "chapter-11"
-linkf: "/research/keynes/general-theory/chapter-13"
-linkftext: "chapter-13"
+date: 2020-11-12
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

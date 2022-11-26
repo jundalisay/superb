@@ -3,14 +3,10 @@ title: "The Natural Rate of Interest"
 heading: "Chapter 17c"
 description: ""
 image: "/covers/general.jpg"
-date: 2020-01-31
-linkb: "/research/keynes/general-theory/chapter-17b"
-linkbtext: "Chapter 17b"
-linkf: "/research/keynes/general-theory/chapter-18"
-linkftext: "chapter-18"
+date: 2020-10-16
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
-
 
 
 “liquidity” and “carrying-costs” are both a matter of degree.

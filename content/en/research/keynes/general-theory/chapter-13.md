@@ -3,14 +3,10 @@ title: "The General Theory of the Rate of Interest"
 heading: "Chapter 12"
 image: "/covers/general.jpg"
 description: "According to Keynes, the interest rate is based on the love for cash"
-date: 2020-01-10
-linkb: "/research/keynes/general-theory/chapter-12"
-linkbtext: "chapter-12"
-linkf: "/research/keynes/general-theory/chapter-13b"
-linkftext: "chapter-13b"
+date: 2020-11-09
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
-
 
 
 > *Superphysics Note: Here, we dissect Keynes' reasoning on why his system is totally different from Classical -- because he enshrines the love for cash!

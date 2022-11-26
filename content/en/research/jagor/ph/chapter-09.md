@@ -57,7 +57,7 @@ We passed the wet night upon the bare rocks, where, as our very thin clothes wer
 
 As soon, however, as the sun rose we got so warm that we soon recovered our tempers. Towards 9am, we reached the hut and got something to eat after 29 hours' fast.
 
-The “ Trabajos y Hechos Notables de la Soc. Econom. de los Amigos del Pais,” for September 4 1823 says:  “Don Antonio Siguenza visited the volcano of Albáy on March 11. The Society ordered a medal to be struck in commemoration of the event, and in honour of Siguenza and his companions.” 
+The “Trabajos y Hechos Notables de la Soc. Econom. de los Amigos del Pais,” for September 4 1823 says:  “Don Antonio Siguenza visited the volcano of Albáy on March 11. The Society ordered a medal to be struck in commemoration of the event, and in honour of Siguenza and his companions.” 
 
 
 Everybody in Albáy, however, assured me that the two Scotchmen were the first to reach the top of the mountain. It is true that in the above notice the ascent of the volcano is not directly mentioned; but the fact of the medal naturally leads us to suppose that nothing less can be referred to.

@@ -3,16 +3,14 @@ title: "The Psychological and Business Incentives To Liquidity"
 heading: "Chapter 15"
 description: "Keynes explains the Incentives To Liquidity"
 image: "/covers/general.jpg"
-date: 2020-01-03
-linkb: "/research/keynes/general-theory/chapter-14appendix"
-linkbtext: "chapter-14 appendix"
-linkf: "/research/keynes/general-theory/chapter-16"
-linkftext: "chapter-16"
+date: 2020-10-30
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 
 
 > *Superphysics Note: We replace 'liquidity-preference' with 'love for cash'
+
 
 What are the motives for liquidity-preference or the love for cash?
 

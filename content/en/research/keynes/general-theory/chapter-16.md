@@ -3,11 +3,8 @@ heading: "Chapter 16"
 title: "Sundry Observations on the Nature of Capital"
 description: "individual saving is a decision not to have dinner today"
 image: "/covers/general.jpg"
-date: 2020-01-01
-linkb: "/research/keynes/general-theory/chapter-15c"
-linkbtext: "Chapter 15c"
-linkf: "/research/keynes/general-theory/chapter-17"
-linkftext: "chapter 17"
+date: 2020-10-24
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

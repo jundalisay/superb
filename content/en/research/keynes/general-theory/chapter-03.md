@@ -3,13 +3,11 @@ heading: "Chapter 3"
 title: "The Principle of Effective Demand"
 description: "Output minus factor cost equals profit or entrepreneur's income"
 image: "/covers/general.jpg"
-date: 2020-01-28
-linkb: "/research/keynes/general-theory/chapter-02c"
-linkbtext: "Chapter 2c"
-linkf: "/research/keynes/general-theory/chapter-04"
-linkftext: "chapter 4"
+date: 2020-12-23
 icon: "/icons/keynes.png"
 ---
+
+> Superphysics note: In Economic Superphysics, demand is under the 1st Law of Value as Energy Movement
 
 
 An entrepreneur has 2 kinds of expenses based on employment: 

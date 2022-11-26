@@ -4,10 +4,7 @@ title: "Involuntary Employment"
 description: "The struggle over money-wages is often believed to determine the general level of real wages"
 image: "/covers/general.jpg"
 date: 2020-01-29
-linkb: "/research/keynes/general-theory/chapter-02b"
-linkbtext: "Chapter 2b"
-linkf: "/research/keynes/general-theory/chapter-03"
-linkftext: "chapter-3"
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

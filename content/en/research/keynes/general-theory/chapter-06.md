@@ -3,11 +3,8 @@ title: "The Definition of Income, Saving and Investment"
 heading: "Chapter 6"
 description: "The income of the current period is obtained by deducting from A + G - A1 a certain sum, to represent that part of its value which has been contributed by the equipment inherited from the previous period"
 image: "/covers/general.jpg"
-date: 2020-01-22
-linkb: "/research/keynes/general-theory/chapter-05"
-linkbtext: "Chapter 5"
-linkf: "/research/keynes/general-theory/chapter-07"
-linkftext: "chapter 7"
+date: 2020-12-11
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 

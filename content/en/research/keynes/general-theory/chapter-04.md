@@ -1,15 +1,13 @@
 ---
 title: "The Choice of Units"
 heading: "Chapter 4"
-description: "Keynes overturns Classical Economics and imposes two measures= hourly-common-labour and hourly-common-wage"
+description: "Keynes overturns Classical Economics and imposes 2 measures: hourly-common-labour and hourly-common-wage"
 image: "/covers/general.jpg"
-date: 2020-01-25
-linkb: "/research/keynes/general-theory/chapter-03"
-linkbtext: "chapter-3"
-linkf: "/research/keynes/general-theory/chapter-05"
-linkftext: "chapter-5"
+date: 2020-12-17
 icon: "/icons/keynes.png"
 ---
+
+> Superphysics note: In Economic Superphysics, units are under the 1st Law of Value as Energy Manifestation
 
 
 Chapters 4 to 7 are a digression on three perplexities:

@@ -3,11 +3,7 @@ heading: "Chapter 7c Appendix"
 title: "Appendix on User Cost"
 description: "The Classical theory of value has an important concept called the USER cost, which has been overlooked"
 image: "/covers/general.jpg"
-date: 2020-01-17
-linkb: "/research/keynes/general-theory/chapter-07b"
-linkbtext: "Chapter 7b"
-linkf: "/research/keynes/general-theory/chapter-08"
-linkftext: "chapter 8"
+date: 2020-11-30
 icon: "/icons/keynes.png"
 ---
 

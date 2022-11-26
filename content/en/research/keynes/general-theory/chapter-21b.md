@@ -3,11 +3,8 @@ title: "Changes in the Quantity of Money"
 heading: "Chapter 21b"
 description: ""
 image: "/covers/general.jpg"
-date: 2020-01-31
-linkb: "/research/keynes/general-theory/chapter-21"
-linkbtext: "chapter-21"
-linkf: "/research/keynes/general-theory/chapter-21c"
-linkftext: "chapter-21c"
+date: 2020-09-28
+author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---
 
