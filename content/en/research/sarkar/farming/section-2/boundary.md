@@ -4,7 +4,7 @@ date: 2022-01-20
 author: "PR Sarkar"
 description: "To ensure the maximum utilization of every inch of land, plants are used in the boundary areas of all schools, farms, orchards, homes, etc"
 image: "/covers/farming.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 ---
 
 

@@ -4,7 +4,7 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Through scientific crop rotation maximum crops can be planted in the minimum period of time and maximum crops can be planted in the minimum space"
 image: "/covers/farming.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 ---
 
 

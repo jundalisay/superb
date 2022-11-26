@@ -5,7 +5,7 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Fruits are a vital part of the human diet and the easiest food for humans to digest. "
 image: "/covers/farming.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 aliases:
   /research/indian/farming/section-1/fruits
 ---

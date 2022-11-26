@@ -4,7 +4,7 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "For afforestation programmes to be successful, surface water must be conserved."
 image: "/covers/farming.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 ---
 
 

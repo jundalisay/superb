@@ -5,7 +5,7 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "All the parts of the garlic are static. The Saḿskrta name for garlic is rasona. It has 5 out of the 6 tastes (rasas)"
 image: "/covers/farming.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 aliases:
   /research/indian/farming/section-1/spices
 ---

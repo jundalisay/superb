@@ -5,7 +5,7 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Sugar is an important part of the human diet. For many farmers, sugar crops are an essential source of income"
 image: "/covers/farming.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 aliases:
   /research/indian/farming/section-1/sugar-crops
 ---

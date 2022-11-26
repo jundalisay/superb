@@ -5,7 +5,7 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Numerous plants have known medicinal value"
 image: "/covers/farming.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 aliases:
   /research/indian/farming/section-1/medicinal
 ---

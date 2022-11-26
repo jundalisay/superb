@@ -4,7 +4,7 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "The Hindi months are lunar months so cultivation cannot be done according to the Hindi calendar"
 image: "/covers/farming.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 ---
 
 

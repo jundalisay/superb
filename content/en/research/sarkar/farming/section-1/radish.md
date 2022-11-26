@@ -4,7 +4,7 @@ date: 2022-01-31
 author: "PR Sarkar"
 description: "Radish is a 45-60 day crop and came from Japan. It first came to India 3,000 years ago."
 image: "/covers/farming.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 ---
 
 

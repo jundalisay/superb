@@ -5,7 +5,7 @@ date: 2022-01-26
 author: "PR Sarkar"
 description: "Swelling of the appendix and simultaneous unbearable pain in the abdominal region; fear of eating in spite of appetite or desire for food"
 image: "/photos/med/appendix.jpg"
-icon: "/flags/in.png"
+icon: "/icons/sarkar.png"
 aliases:
   /research/sarkar/yogic-treatments/appendicitis
 ---
