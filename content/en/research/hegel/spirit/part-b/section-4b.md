@@ -1,14 +1,21 @@
-The Phenomenology of Mind
+---
+heading: "Part A: Consciousness"
+title: "Independence and Dependence of Self-Consciousness: Lordship and Bondage"
+description: The subject of philosophy is the actual knowledge of what truly is.
+image: /covers/phenom.jpg
+author: Hegel
+date: 2022-12-30
+---
 
-— B —
-Self Consciousness
 
-A: Independence and Dependence of Self-Consciousness:
-Lordship and Bondage
-Φ 178. SELF-CONSCIOUSNESS exists in itself and for itself, in that, and by the fact that it exists for another self-consciousness; that is to say, it is only by being acknowledged or “recognized”. The conception of this its unity in its duplication, of infinitude realizing itself in self-consciousness, has many sides to it and encloses within it elements of varied significance. Thus its moments must on the one hand be strictly kept apart in detailed distinctiveness, and, on the other, in this distinction must, at the same time, also be taken as not distinguished, or must always be accepted and understood in their opposite sense. This double meaning of what is distinguished lies in the nature of self-consciousness: — of its being infinite, or directly the opposite of the determinateness in which it is fixed. The detailed exposition of the notion of this spiritual unity in its duplication will bring before us the process of Recognition.
+
+Φ 178. SELF-CONSCIOUSNESS exists in itself and for itself, in that, and by the fact that it exists for another self-consciousness; that is to say, it is only by being acknowledged or “recognized”. The conception of this its unity in its duplication, of infinitude realizing itself in self-consciousness, has many sides to it and encloses within it elements of varied significance. 
+
+Thus its moments must on the one hand be strictly kept apart in detailed distinctiveness, and, on the other, in this distinction must, at the same time, also be taken as not distinguished, or must always be accepted and understood in their opposite sense. This double meaning of what is distinguished lies in the nature of self-consciousness: — of its being infinite, or directly the opposite of the determinateness in which it is fixed. The detailed exposition of the notion of this spiritual unity in its duplication will bring before us the process of Recognition.
 
 
 1. Duplicated Self-Consciousness
+
 Φ 179. Self-consciousness has before it another self-consciousness; it has come outside itself. This has a double significance. First it has lost its own self, since it finds itself as an other being; secondly, it has thereby sublated that other, for it does not regard the other as essentially real, but sees its own self in the other.
 
 Φ 180. It must cancel this its other. To do so is the sublation of that first double meaning, and is therefore a second double meaning. First, it must set itself to sublate the other independent being, in order thereby to become certain of itself as true being, secondly, it thereupon proceeds to sublate its own self, for this other is itself.
@@ -33,6 +40,7 @@ Lordship and Bondage
 
 
 3. Lord and Bondsman
+
 Φ 189. In this experience self-consciousness becomes aware that life is as essential to it as pure self-consciousness. In immediate self-consciousness the simple ego is absolute object, which, however, is for us or in itself absolute mediation, and has as its essential moment substantial and solid independence. The dissolution of that simple unity is the result of the first experience; through this there is posited a pure self-consciousness, and a consciousness which is not purely for itself, but for another, i.e. as an existent consciousness, consciousness in the form and shape of thinghood. Both moments are essential, since, in the first instance, they are unlike and opposed, and their reflexion into unity has not yet come to light, they stand as two opposed forms or modes of consciousness. The one is independent, and its essential nature is to be for itself; the other is dependent, and its essence is life or existence for another. The former is the Master, or Lord, the latter the Bondsman.
 
 Φ 190. The master is the consciousness that exists for itself; but no longer merely the general notion of existence for self. Rather, it is a consciousness existing on its own account which is mediated with itself through an other consciousness, i.e. through an other whose very nature implies that it is bound up with an independent being or with thinghood in general. The master brings himself into relation to both these moments, to a thing as such, the object of desire, and to the consciousness whose essential character is thinghood. And since the master, is (a) qua notion of self-consciousness, an immediate relation of self-existence, but (b) is now moreover at the same time mediation, or a being-for-self which is for itself only through an other — he [the master] stands in relation (a) immediately to both, (b) mediately to each through the other. The master relates himself to the bondsman mediately through independent existence, for that is precisely what keeps the bondsman in thrall; it is his chain, from which he could not in the struggle get away, and for that reason he proved himself to be dependent, to have his independence in the shape of thinghood. The master, however, is the power controlling this state of existence, for he has shown in the struggle that he holds it to be merely something negative. Since he is the power dominating existence, while this existence again is the power controlling the other [the bondsman], the master holds, par consequence, this other in subordination. In the same way the master relates himself to the thing mediately through the bondsman. The bondsman being a self-consciousness in the broad sense, also takes up a negative attitude to things and cancels them; but the thing is, at the same time, independent for him and, in consequence, he cannot, with all his negating, get so far as to annihilate it outright and be done with it; that is to say, he merely works on it. To the master, on the other hand, by means of this mediating process, belongs the immediate relation, in the sense of the pure negation of it, in other words he gets the enjoyment. What mere desire did not attain, he now succeeds in attaining, viz. to have done with the thing, and find satisfaction in enjoyment. Desire alone did not get the length of this, because of the independence of the thing. The master, however, who has interposed the bondsman between it and himself, thereby relates himself merely to the dependence of the thing, and enjoys it without qualification and without reserve. The aspect of its independence he leaves to the bondsman, who labours upon it.

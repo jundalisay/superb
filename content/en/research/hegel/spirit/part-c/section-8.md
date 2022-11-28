@@ -1,9 +1,15 @@
-The Phenomenology of Mind
+---
+heading: "Section 8"
+title: "Absolute Knowledge"
+description: The subject of philosophy is the actual knowledge of what truly is.
+image: /covers/phenom.jpg
+author: Hegel
+date: 2022-12-28
+---
 
-C: Free Concrete Mind
 
-(DD) VIII. ABSOLUTE KNOWLEDGE
-Absolute Knowledge (1)
+<!-- (DD) VIII. ABSOLUTE KNOWLEDGE -->
+
 Φ 788. THE Spirit manifested in revealed religion has not as yet surmounted its attitude of consciousness as such; or, what is the same thing, its actual self-consciousness is not at this stage the object it is aware of. Spirit as a whole and the moments distinguished in it fall within the sphere of figurative thinking, and within the form of objectivity. The content of this figurative thought is Absolute Spirit. All that remains to be done now is to cancel and transcend this bare form; or better, because the form appertains to consciousness as such, its true meaning must have already come out in the shapes or modes consciousness has assumed.
 
 1. The Ultimate Content of the Self knows itself as all Existence
@@ -42,6 +48,7 @@ Now what in the first instance takes place implicitly is at once for consciousne
 Φ 798. This last embodiment of spirit – spirit which at once gives its complete and true content the form of self, and thereby realizes its notion, and in doing so remains within its own notion – this is Absolute Knowledge.
 
 2. Systematic Science as the Self-Comprehension of Spirit
+
 It is spirit knowing itself in the shape of spirit, it is knowledge which comprehends through notions. Truth is here not merely in itself absolutely identical with certainty; it has also the shape, the character of certainty of self; or in its existence – i.e. for spirit knowing it – it is in the form of knowledge of itself. Truth is the content, which in religion is not as yet at one with its certainty. This identification, however, is secured when the content has received the shape of self. By this means, what constitutes the very essence, viz. the notion, comes to have the nature of existence, i.e. assumes the form of what is objective to consciousness. Spirit, appearing before consciousness in this element of existence, or, what is here the same thing, produced by it in this element, is systematic Science.
 
 Φ 799. The nature, moments, and process of this knowledge have then shown themselves to be such that this knowledge is pure self-existence of self-consciousness.

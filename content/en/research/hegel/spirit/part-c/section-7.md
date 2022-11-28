@@ -1,9 +1,15 @@
-The Phenomenology of Mind
+---
+heading: "Section 7"
+title: "Religion"
+description: The subject of philosophy is the actual knowledge of what truly is.
+image: /covers/phenom.jpg
+author: Hegel
+date: 2022-12-28
+---
 
-C: Free Concrete Mind
 
-(CC) VII. RELIGION
-Religion in General
+## Religion in General
+
 Φ 672. IN the forms of experience hitherto dealt with — which are distinguished broadly as Consciousness, Self-consciousness, Reason, and Spirit — Religion also, the consciousness of Absolute Being in general, has no doubt made its appearance. But that was from the point of view of consciousness, when it has the Absolute Being for its object. Absolute Being, however, in its own distinctive nature, the Self-consciousness of Spirit, has not appeared in those forms.
 
 Φ 673. Even at the plane of Consciousness, viz. when this takes the shape of “Understanding”, there is a consciousness of the supersenuous, of the inner being of objective existence. But the supersensible, the eternal, or whatever we care to call it, is devoid of selfhood. It is merely, to begin with, something universal, which is a long way still from being spirit knowing itself as spirit.

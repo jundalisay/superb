@@ -7,6 +7,7 @@ author: Three Initiates
 date: 2022-01-30
 ---
 
+
 {{< q >}}
 "The lips of wisdom are closed, except to the ears of Understanding"—The Kybalion.
 {{< /q >}}
