@@ -138,7 +138,7 @@ Modern economics does not distinguish between renewable and non-renewable materi
 <!-- Thus, taking various alternative fuels, like coal, oil, wood, or water-power: the only difference between them recognised by modern economics is relative cost per equivalent unit.
 - The cheapest is automatically the one to be preferred, as to do otherwise  -->
 
-> *Superphyics Note: Economic Superphysics addresses this through a moneyless points-based system which emphasizes quality over quantity. Quality includes moral quality.
+> *Superphyics Note: Economic Superphysics addresses this through a points-based system which emphasizes quality over quantity. Quality includes moral quality.
 
 
 From a Buddhist point of view, this will not do. 

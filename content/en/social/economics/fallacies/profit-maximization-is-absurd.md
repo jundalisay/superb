@@ -130,7 +130,7 @@ Superphysics is a complete economic science derived entirely from Smith's Politi
 
 This science is then used to create a pantrynomic system tasked to implement this liberty and prevent the problems of the old one.
 
-> *In the absence of splitting up giant corporations, our bottom-up solution is a moneyless system that is NOT based on gifts
+> *In the absence of splitting up giant corporations, our bottom-up solution is a points-based system that is NOT based on gifts
 
 
 Because of the ambiguity of the English language, liberals frequently equate perfect liberty as a free-for-all. This, however, can easily degenerate into a 'survival of the fittest' system as observed in animals which have no respect or 'fellow feeling' for each other. 

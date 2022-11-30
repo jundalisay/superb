@@ -14,7 +14,7 @@ In 2017, we predicted that Masayoshi Son would be [the last capitalist](/social/
 
 The crisis turned out to be Covid and the Russia-Ukraine war which caused the current global stagflation in 2022. 
 
-Though the stagflation is a few years late, it nevertheless gives us a chance to deploy our solution step by step, starting in 2022. The solution manifests as a **[moneyless Points-based system](https://pantrypoints.com)** that is specifically built for severe inflation and stagnation.
+Though the stagflation is a few years late, it nevertheless gives us a chance to deploy our solution step by step, starting in 2022. The solution manifests as a **[Points-based system](https://pantrypoints.com)** that is specifically built for severe inflation and stagnation.
 
 
 ## Money is the Root of All Evil
@@ -51,7 +51,7 @@ Likewise, a familty can eat dinner:
 - without using any money by cooking it themselves and serving it to each other, using family-relatonship bound by family morals, or
 - by using money by going to a restaurant, using customer-seller-relationship bound by commercial morals
 
-The current economic system only uses money, and commercial morals, and fails without it. Our points-based moneyless system frees up an economy by allowing a second, lower-cost mode, using more of the family-friends-morals instead of buyer-seller-morals.
+The current economic system only uses money, and commercial morals, and fails without it. Our points-based system frees up an economy by allowing a second, lower-cost mode, using more of the family-friends-morals instead of buyer-seller-morals.
 
 
 ## Points Quantify Effort
@@ -97,7 +97,7 @@ Property, Plant, Equipment | **Stockholder's Equity**
 
 ### The Balance Sheet in a Points-based System
 
-Under a points-based system, equity and long-term debt are converted into moneyless points. 
+Under a points-based system, equity and long-term debt are converted into points. 
 
 Money is retained only as petty cash for facilitating immediate payments. Adam Smith calls this as 'ready money'.
 

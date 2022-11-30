@@ -157,9 +157,9 @@ The stability of long term wheat prices is the major reason why Smith advocated 
 Now that we have a new tool of trade as agreements and a new measure or store of value as grains and the gold standard, we can now put them together into a new economic system that is scalable yet is more stable than the current one. The next post will explain how [pool clearing](/solutions/pantrynomics/how-multilateral-pool-clearing-can-solve-currency-crises) can be used to reduce inflation by sucking excess liquidity out of an economy or pumping it into a stagnating one.-->
 
 
-## Moneyless Points are the Next Evolution After Cashless Economies
+## Points are the Next Evolution After Cashless Economies
 
-Trade began with barter between tribes. It evolved into using coins, which later became paper cash notes. Nowadays, cash is being replaced by cashless systems. Superphysics begins the next evolutionary step by starting moneyless points-banking as the future of cashless systems. 
+Trade began with barter between tribes. It evolved into using coins, which later became paper cash notes. Nowadays, cash is being replaced by cashless systems. Superphysics begins the next evolutionary step by starting points-banking as the future of cashless systems. 
 
 This new system creates a whole new set of measures, transaction methods, and investment vehicles that fund productive labour directly and eliminate both inequality and employment:
 

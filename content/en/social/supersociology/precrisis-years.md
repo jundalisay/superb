@@ -211,11 +211,11 @@ Western economists and policy makers have no idea of metaphysics (karma, dharma,
 By tapping into Western metaphysics of David Hume, Adam Smith, Spinoza and Eastern metaphysics in Hinduism, Buddhism, Sikhism, Taoism, etc., the root causes of any event can be known and the best solutions can be put forward.
 
 
-## The Moneyless Solution (Update 2019)
+## The Points-based Solution (Update 2019)
 
 For the coming crisis, Adam Smith clearly points to the invention of money and commercial paper instruments as the cause, as it allows value to be controlled by a few people which then starves the rest.
 
-The solution therefore is a system that allows both money and [moneyless transactions](/social/economics/alternatives-to-money). In time, the system will gravitate towards moneyless because of its lower cost. This is because the moneyless system will piggyback on the existing telecoms system, allowing it to save on the overhead needed by banks.
+The solution therefore is a system that allows both money and [points-based transactions](/social/economics/alternatives-to-money). In time, the system will gravitate towards points because of its lower cost. This is because the points-based system will piggyback on the existing telecoms system, allowing it to save on the overhead needed by banks.
 
-The moneyless system is then based on the Four Laws of Value which will be explained next.  With all human problems solved, the only problems that remain will be the problems of physics, and that's where our [Superphysics](/) comes in.
+The points-based system is then based on the Four Laws of Value which will be explained next.  With all human problems solved, the only problems that remain will be the problems of physics, and that's where our [Superphysics](/) comes in.
 

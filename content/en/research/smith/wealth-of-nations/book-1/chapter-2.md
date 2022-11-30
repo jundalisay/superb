@@ -63,7 +63,7 @@ He uses the donated money to buy food. He exchanges the old clothes donated to h
 - **by purchase**. *
 
 
-> *Superphysics Note: Our moneyless system is a hybrid of treaty and barter. 
+> *Superphysics Note: Our points-based system is a hybrid of treaty and barter. 
 
 
 **This trucking disposition is the origin of the division of labour.**
@@ -79,7 +79,7 @@ A tribal person makes bows and arrows better than any other.
 - have an occupation, and
 - cultivate whatever talent he might have.
 
-> *Superphysics Note: This is why a moneyless system requires long-term investment
+> *Superphysics Note: This is why a points-based system requires long-term investment
 
 
 

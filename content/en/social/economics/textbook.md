@@ -7,6 +7,7 @@ description : "Here is the outline of our proposed textbook on Superphysics. Unl
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
+draft: true
 ---
 
 
@@ -39,6 +40,7 @@ _ | Consumption Motive
 _ | Demand inflation, Demand deflation 
 
 
+Part 3 | 
 Second Law of Value | 
 _ | Real Price
 _ | The Invisible Hand of the Tao

@@ -214,7 +214,7 @@ What's the gameplan of Superphysics?
 {{< l ava="Superphysics" >}}
 We need to prove that our principles are solid by demonstrating it in the real world. 
 
-We've already proven Social Superphysics through our correct predictions both in [politics](/social/cycles/predictions) and [economics](/social/supersociology/precrisis-years). We are already testing our moneyless economic system to solve the current stagflation, something that Economics has no solution for. So no worries with those. 
+We've already proven Social Superphysics through our correct predictions both in [politics](/social/cycles/predictions) and [economics](/social/supersociology/precrisis-years). We are already testing our points-based economic system to solve the current stagflation, something that Economics has no solution for. So no worries with those. 
 
 But we still need to prove that Medical Superphysics and Material Superphysics also works by curing diseases and by realizing fusion, levitation, and teleportation (actions at a distance) via the aether of Maxwell and Fresnell.
 

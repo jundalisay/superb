@@ -6,7 +6,7 @@ heading: "Chapter 3b"
 date: 2020-08-20
 # date: 2017-04-26
 image: /photos/grains.jpg
-description: "The moneyless system is implemented as a points-for-food system that creates wealth by tapping the unemployed. This leads to full employment even during a financial or economic crisis"
+description: "The points-based system is implemented as a points-for-food system that creates wealth by tapping the unemployed. This leads to full employment even during a financial or economic crisis"
 # type: "featured"
 author: "Juan"
 icon: "/icons/pantry.png"

@@ -158,6 +158,6 @@ Without these, prices would have been kept secret and there would be no data to 
 
 However, the upward-sloping supply curve of Economics is only prevented by the existence of the cheap Astra Zeneca vaccines from Britain and India. The rest of the suppliers are still working under selfish-interest. This clearly means that the greed virus is still out there working behind the scenes to create the current crisis, as well as ensure future ones. This sureness is actually how we were able to [predict the current crisis](/social/supersociology/precrisis-years).
 
-We have workarounds, such as our proposed [Moneyless Banking](https://pantrypoints.com/banking), [Pantry World Trade](https://pantrypoints.com/world), and [Points-based Taxation](https://pantrypoints.com/pointtax). However, the most lasting solution or antidote is to teach and practice fellow-feeling, as espoused by Adam Smith. This is actually imbued in [Superphysics](/social/economics), most fundamentally in our downward-sloping supply curve.
+We have workarounds, such as our proposed [Points Banking](https://pantrypoints.com/banking), [World Trade system](https://pantrypoints.com/world), and [Points-based Taxation](https://pantrypoints.com/pointtax). However, the most lasting solution or antidote is to teach and practice fellow-feeling, as espoused by Adam Smith. This is actually imbued in [Superphysics](/social/economics), most fundamentally in our downward-sloping supply curve.
 
 In the next post, we shall see another sophistry created by economists as the producer's and consumer's surplus

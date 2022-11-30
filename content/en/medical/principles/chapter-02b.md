@@ -38,6 +38,6 @@ For example, such people can be tested for greed and then be isolated (not jaile
 
 In this way, Medical Superphysics crosses over onto Social Superphysics. Likewise, the principles of Social Superphysics can cross over to the medical arena in order to prevent disease.
 
-For example, instead of the mad pursuit for money that causes exhaustion and pollution, Social Superphysics (via Economic* Superphysics) can establish a moneyless system that will spread and balance out the work and revenue in society. This will then lead to less stress and pollution to reduce the chance of breeding disease.    
+For example, instead of the mad pursuit for money that causes exhaustion and pollution, Social Superphysics (via Economic* Superphysics) can establish a points-based system that will spread and balance out the work and revenue in society. This will then lead to less stress and pollution to reduce the chance of breeding disease.    
 
-> *Pantrynomics is the implementation of Economic Superphysics
+> *Pantrypoints is the implementation of Economic Superphysics

@@ -15,7 +15,7 @@ In the earlier chapters, we explained that the flaws in money:
 - it becomes a single point of failure when money stops circulating
 - it only shows quantitative information and has no qualitative information 
 
-We solved the shortcomings of money by introducing moneyless points which allow trade or donations in kind without needing immediate bilateral exchange. 
+We solved the shortcomings of money by introducing points-based points which allow trade or donations in kind without needing immediate bilateral exchange. 
 
 <!-- The Modern Economic Table is  -->
 
@@ -251,4 +251,4 @@ Because Marginalism created two problems, one for wholesale money and another fo
 
 2. Zero inflation target through a tri-media system of exchange using fiat, barter (as economic social contracts), and points (as basic universal revenue). This includes replacing the profit maximization of Marginalism with the [Effort Theory of Value](/social/economics/principles/effort-theory-of-value)
 
-The original credit-worthiness problem in Classical Economics will be addressed by a prediction system that uses machine learning system called [ISAIAH](/superphysics/solutions/isaiah). This is already done by fintech companies that use AI to predict credit scores. Our innovation will be to extend it to everyone through a moneyless system.
+The original credit-worthiness problem in Classical Economics will be addressed by a prediction system that uses machine learning system called [ISAIAH](/superphysics/solutions/isaiah). This is already done by fintech companies that use AI to predict credit scores. Our innovation will be to extend it to everyone through a points-based system.
