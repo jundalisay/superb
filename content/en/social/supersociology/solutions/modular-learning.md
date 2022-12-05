@@ -5,11 +5,6 @@ date: 2021-08-18
 image: /photos/idea.jpg
 # image: "https://sorasystem.sirv.com/photos/team.jpg"
 description: "Learning points allow modular learning to make education faster and more efficient. It works with ISAIAH Match"
-linkb: /solutions/supersociology/constitutional-virtues
-linkbtext: constitutional-virtues
-linkf: "/solutions/supersociology/council-of-opposition"
-linkftext: "Council-of-opposition"
-btext: How does it work?
 author: Juan
 icon: /icons/ss.png
 draft: true

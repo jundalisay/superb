@@ -3,10 +3,6 @@ title: "The Timeline of Economic Crises"
 image: "https://sorasystem.sirv.com/graphics/dutch.jpg"
 description : "The widespread use of standardized money, from the rise of peace and order, led to mercantilism and, later, capitalism"
 date: 2015-04-11
-linkb: /articles/pantrynomics/problems-with-money
-linkbtext: problems-with-money
-linkf: /articles/pantrynomics/the-1772-credit-crunch
-linkftext: 1772-credit-crunch
 heading: From 1204-2020
 youtube: "rVP73TV2X0s"
 author: Juan

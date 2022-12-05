@@ -4,10 +4,6 @@ heading: "Based on Adam Smith's Taxation Maxims"
 date: 2019-11-17
 image: "https://sorasystem.sirv.com/og/fairtax.jpg"
 description : "All nations have endeavoured, to the best of their judgment, to render their taxes as equal, certain, convenient as possible. Historical taxes will show that these endeavours were not equally successful."
-linkb: /articles/pantrynomics/adam-smith-taxation-maxims
-linkbtext: smith-taxation-maxims
-linkf: /articles/pantrynomics/barter-disadvantages-addressed
-linkftext: barter-disadvantages-addressed
 author: Juan
 icon: /icons/pantry.png
 draft: true

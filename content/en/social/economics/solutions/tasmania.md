@@ -1,6 +1,5 @@
 ---
 title: "Socio-economic Suggestions for the Tasmanian Economy"
-# heading: "Grain-based Valuation"
 date: 2014-07-23
 image: "/photos/objects/money.jpg"
 description : "Economics uses money both as a store of value and tool of trade. Superphysics uses three tools--money, points, and barter--in order to have more avenues of wealth creation and less chance of circulation blockage. This then makes financial crises and debt slavery obsolete"
@@ -8,10 +7,8 @@ youtube: "OV1JHTiDdkQ"
 author: Juan
 icon: /icons/pantry.png
 aliases:
-  /articles/taonomics/the-downsides-of-money/
-  /pantrynomics/alternatives-to-money
+  /social/economics/tasmania  
 ---
-
 
 
 A few days ago, ABC reported that the [Tasmanian economy was showing signs of recovery](http://www.abc.net.au/news/2014-07-21/signs-of-recovery-in-tasmanian-economy-after-rotten-run/5610626) after being at the bottom of the nation last year. 

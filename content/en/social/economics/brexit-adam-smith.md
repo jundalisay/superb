@@ -7,6 +7,7 @@ description : "Adam Smith would be against Brexit because it reduces the market 
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
+draft: true
 aliases: 
   /articles/taonomics/brexit-adam-smith
 ---

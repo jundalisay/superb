@@ -4,10 +4,6 @@ heading: "Ban Crypto and NFT"
 date: 2021-07-27
 image: "/photos/buy.jpg"
 description : "Ban Crypto and NFT to reduce the inflation of 2020"
-linkb: "/social/economics/solutions"
-linkbtext: "Index"
-linkf: "/social/economics/solutions/bur"
-linkftext: "BUR"
 author: Juan
 icon: "/icons/pantry.png"
 ---
@@ -24,5 +20,12 @@ With both wholesale and retail money going into non-production, output falls, ca
 
 ## The Solution: Ban Crypto
 
-To bring back money into productive uses, crypto mining and transactions must be banned in countries experiencing inflation.  
+To bring back money into productive uses, crypto mining and transactions must be banned in countries experiencing inflation. This is because the only productive labor that crypto mobilizes is that of blockchain developers, which we classify as '[value-adding skilled immaterial effort](/social/economics/principles/part-4/chapter-04)'. 
+
+
+### What will happen to blockchain developers?
+
+The government can force such developers and marketers to register in a government database, as a blockchain professional, in order to allow them to receive payments in crypto. In this way, blockchain development is selectively allowed in a similar way that weapon-making is.
+
+
 

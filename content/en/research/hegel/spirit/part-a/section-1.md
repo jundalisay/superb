@@ -123,8 +123,12 @@ For, in the case of both, what I “mean” is rather something non-essential; a
 Thus it is only the whole sensecertainty itself which persists therein as immediacy, and in consequence excludes from itself all the opposition which in the foregoing had a place there.
 
 
-{{< s v="104" >}} This pure immediacy, then, has nothing more to do with the fact of otherness, with Here in the form of a tree passing into a Here that is not a tree, with Now in the sense of day-time changing into a Now that is night-time, or with there being an other I to which something else is object. 
+{{< s v="104" >}} This pure immediacy has nothing more to do with the fact of otherness, with Here in the form of a tree passing into a Here that is not a tree, with Now in the sense of day-time changing into a Now that is night-time, or with there being an other I to which something else is object. 
 
-Its truth stands fast as a self-identical relation making no distinction of essential and non-essential, between I and object, and into which, therefore, in general, no distinction can find its way. I, this I, assert, then, the Here as tree, and do not turn round so that for me Here might become not a tree, and I take no notice of the fact that another I finds the Here as not-tree, or that I myself at some other time take the Here as not-tree, the Now as not-day. I am directly conscious, I intuit and nothing more, I am pure intuition; I am-seeing, looking. For myself I stand by the fact, the Now is day-time, or, again, by the fact the Here is tree, and, again, do not compare Here and Now themselves with one another; I take my stand on one immediate relation: the Now is day.
+Its truth stands fast as a self-identical relation making no distinction of essential and non-essential, between I and object, and into which, therefore, in general, no distinction can find its way. 
+
+I, this I, assert, then, the Here as tree, and do not turn round so that for me Here might become not a tree, and I take no notice of the fact that another I finds the Here as not-tree, or that I myself at some other time take the Here as not-tree, the Now as not-day. 
+
+I am directly conscious, I intuit and nothing more, I am pure intuition; I am-seeing, looking. For myself I stand by the fact, the Now is day-time, or, again, by the fact the Here is tree, and, again, do not compare Here and Now themselves with one another; I take my stand on one immediate relation: the Now is day.
 
 

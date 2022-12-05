@@ -4,10 +4,6 @@ heading: "According to Adam Smith"
 date: 2019-10-17
 image: "/photos/social/poverty.jpg"
 description: "Adam Smith talked about stagnation in Book 1 Chapter 9 of the Wealth of Nations"
-linkb: "/social/economics/solutions/how-to-solve-inequality"
-linkbtext: "how-to-solve-inequality"
-linkf: "/social/economics/solutions/how-to-be-a-wealthy-country"
-linkftext: "How to be a Wealthy Country"
 author: Juan
 icon: /icons/pantry.png
 aliases:

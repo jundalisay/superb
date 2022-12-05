@@ -3,11 +3,7 @@ title: "The Skyscraper Curse of Economics"
 heading: "Why the Kingdom Tower Will Not be Finished on Time"
 description: "We Predict the Kingdom Tower will not be finished on time because of a coming crisis"
 date: 2015-04-28
-image: /photos/objects/egypt.jpg
-linkb: /social/economics/barter-disadvantages-addressed
-linkbtext: barter-disadvantages
-linkf: /social/supersociology/precrisis-years
-linkftext: precrisis-years
+image: /photos/city.jpg
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png

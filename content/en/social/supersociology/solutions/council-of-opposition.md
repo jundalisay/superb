@@ -5,10 +5,6 @@ date: 2021-09-07
 image: "/photos/objects/regicide.jpg"
 # image: "https://sorasystem.sirv.com/photos/pawns.jpg"
 description: "The Council of Opposition is David Hume's solution to prevent tyranny in a democratic government"
-linkb: "/social/supersociology/solutions/confirmation-elections"
-linkbtext: "confirmation-elections"
-linkf: "/social/supersociology/solutions/dogmism"
-linkftext: "Dogmism"
 author: Juan
 icon: /icons/ss.png
 aliases:

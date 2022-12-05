@@ -4,10 +4,6 @@ heading: ""
 # date: 2015-08-15
 image: "https://sorasystem.sirv.com/graphics/selftrump2.jpg"
 description: ""
-linkb: /articles/social/collective-wave-of-desire
-linkbtext: "Collective-wave-of-desire"
-linkf: /social/law-social-cycles
-linkftext: "Law-of-social-cycles"
 author: Juan
 draft: true
 icon: /icons/spsoc.png

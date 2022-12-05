@@ -4,10 +4,6 @@ description: "Constitutional Virtues are a list of democratically chosen virtues
 # date: 2021-10-17
 date: 2019-02-20
 image: "/photos/objects/king.jpg"
-linkb: /social/supersociology/self-regulation
-linkbtext: self-regulation
-linkf: /social/supersociology/solutions/confirmation-elections
-linkftext: confirmation-elections
 author: Juan
 icon: /icons/ss.png
 aliases:

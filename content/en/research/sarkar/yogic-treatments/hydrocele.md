@@ -4,7 +4,7 @@ heading: "Yogic Treatments and Natural Remedies"
 date: 2022-01-28
 author: "PR Sarkar"
 description: "During intercourse or a wet dream, spermatozoa are emitted in the semen. If the semen cannot find an outlet, or if its flow is unnaturally obstructed, then the semen decomposes in the storage sacks"
-image: "/photos/med/hyrdo.jpg"
+image: "/photos/med/hydro.jpg"
 icon: "/icons/sarkar.png"
 ---
 
@@ -17,7 +17,7 @@ icon: "/icons/sarkar.png"
 - Throbbing pain in the abdomen and in the scrotum
 - Swelling of the scrotum due to accumulation of water, etc.
 
-![Man with big scrotum](/photos/med/bigballs.jpg)
+![Man with big scrotum](/photos/med/hydro.jpg)
 
 
 ## Causes

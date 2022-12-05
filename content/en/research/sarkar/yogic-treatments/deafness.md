@@ -3,7 +3,7 @@ title: "The Causes of Deafness"
 date: 2022-01-18
 author: "PR Sarkar"
 description: "Deafness is not a disease by itself, unless it is congenital. It is an after-effect or reaction to some other ailment. Therefore one may find innumerable reasons behind deafness"
-image: "/photos/med/cancer.jpg"
+image: "/photos/med/leprosy2.jpg"
 icon: "/icons/yoga.jpg"
 ---
 

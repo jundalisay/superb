@@ -5,10 +5,6 @@ date: 2020-06-09
 image: /photos/social/protests.jpg
 # image: "https://sorasystem.sirv.com/photos/protests.jpg"
 description : "The fellow-feeling advocated by Social Superphysics can be used to make policemen less brutal"
-linkb: "/social/supersociology/solutions/dogmism"
-linkbtext: dogmism
-linkf: "/social/supersociology/solutions"
-linkftext: "Supersociology Solutions"
 author: Juan
 icon: /icons/ss.png
 aliases:

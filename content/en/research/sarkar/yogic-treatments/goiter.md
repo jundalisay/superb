@@ -3,7 +3,7 @@ title: "Diet for Goiter and Chronic Gland Swelling"
 date: 2022-01-01
 author: "PR Sarkar"
 description: "The lack of iodine can cause gland swelling and pain especially the thyroid gland"
-image: "/photos/med/kidney.jpg"
+image: "/photos/med/cancer2.jpg"
 icon: "/icons/yoga.jpg"
 ---
 

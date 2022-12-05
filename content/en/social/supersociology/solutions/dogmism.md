@@ -4,10 +4,6 @@ heading: "Separating the idea from the person"
 date: 2021-09-12 
 image: "/countries/af/taliban.jpg"
 description: "We propose dogmism to break the Cycle of Extremism"
-linkb: /social/supersociology/solutions/council-of-opposition
-linkbtext: council-of-opposition
-linkf: /social/supersociology/solutions/how-to-solve-police-brutality
-linkftext: police-brutality
 author: Juan
 icon: /icons/ss.png
 aliases:
