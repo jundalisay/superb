@@ -2,7 +2,7 @@
 heading: Chapter 2b Section B
 title: "Non-tariff Measures"
 description: "Initial Provisions And General Definitions"
-date: 2022-12-23
+date: 2021-12-23
 image: "/covers/rcep.jpg"
 linkTitle: "Chapter 2b"
 ---

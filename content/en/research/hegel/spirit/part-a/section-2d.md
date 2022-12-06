@@ -4,7 +4,7 @@ title: "Force and the Understanding: The World of Appearance and the Supersensib
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.jpg
 author: Hegel
-date: 2022-12-30
+date: 2021-12-30
 ---
 
 

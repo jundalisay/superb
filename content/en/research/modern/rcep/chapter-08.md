@@ -2,7 +2,7 @@
 heading: Chapter 8
 title: "Trade In Services"
 description: "Initial Provisions And General Definitions"
-date: 2022-12-15
+date: 2021-12-15
 image: "/covers/rcep.jpg"
 linkTitle: "Chapter 2b"
 ---

@@ -2,7 +2,7 @@
 heading: Chapter 20
 title: "Final Provisions"
 description: "Annexes, Appendices, and Footnotes"
-date: 2022-12-04
+date: 2021-12-04
 image: "/covers/rcep.jpg"
 linkTitle: "Chapter 20"
 ---
