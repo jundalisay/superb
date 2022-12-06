@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies and Diet for Heart Disease"
-date: 2022-12-26
+date: 2021-12-26
 author: "PR Sarkar"
 description: "Heart diesease is caused by the weakening of the heart from an increased acidity of the blood or increased fat in the body"
 image: "/photos/med/heartattack.jpg"

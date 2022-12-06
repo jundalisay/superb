@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies and Diet for High Blood Pressure"
-date: 2022-12-26
+date: 2021-12-26
 author: "PR Sarkar"
 description: "In the absence of any physical activity, fat is not broken down to be converted into heat or energy. The surplus fat turns the body into a mass of flesh and fat. This exerts an undue pressure on the organs and glands"
 image: "/photos/med/blood.jpg"
@@ -46,7 +46,10 @@ These hardened, weak blood vessels cannot maintain the blood circulation, due to
 <!-- Morning – Utkśepa Mudrá, Karmásana, Yogamudrá, Diirgha Prańáma, Bhújauṋgásana, Agnisára Mudra, and Váyavii Mudrá or Váyavii Práńáyáma.
 Evening – Karmásana, Yogamudrá, Diirgha Prańáma, Bhújauṋgásana, Agnisára Mudrá, and Upaviśt́a Ud́d́ayana Mudrá. -->
 
-Wonderful results can be obtained if Iishvara Prańidhána (meditation) is practised by patients as taught by an Ácárya. In fact, so long as patients have not acquired the capacity to perform ásanas and mudrás, Iishvara Prańidhána is the only medicine for the disease. With this disease, Vyápaka Snána is especially helpful.
+Wonderful results can be obtained if Iishvara Prańidhána (meditation) is practised by patients as taught by an Ácárya. In fact, so long as patients have not acquired the capacity to perform ásanas and mudrás, Iishvara Prańidhána is the only medicine for the disease. 
+
+With this disease, Vyápaka Snána is especially helpful.
+
 
 ## Diet
 
@@ -56,6 +59,7 @@ The amount of physical labour should gradually be increased and mental exertion 
 Fasting is very beneficial in this disease, so patients must fast on Ekádashii, Púrńima and Amávasyá, taking only water. Those who are physically weak, however, can drink lemon juice with water. It is desirable for patients of low blood pressure to take milk, fruit juice, etc. on fasting days.
 
 Those who suffer from high blood pressure due to too much fat should drink curd-water or coconut milk instead of milk. Patients should carefully abstain from using intoxicants and should be careful to avoid eating constipating or fattening foods. They should also stay away from anger and sex.
+
 
 ## Dos and don’ts
 

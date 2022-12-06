@@ -1,6 +1,6 @@
 ---
 title: "Healing Diet for Hernia"
-date: 2022-12-24
+date: 2021-12-24
 author: "PR Sarkar"
 description: "Femoral hernia happens if the intenstine pushes out through the hole in the canal of nerve fibres and the muscular network controlling the legs"
 image: "/covers/yogic.jpg"
