@@ -11,20 +11,21 @@ aliases:
 ---
 
 
-## FRUITS
+## Frui
 
 Fruits are a vital part of the human diet and the easiest food for humans to digest. 
+- Many fruits have a purifying and cleansing effect on the body
+- Most fruits are high in vitamins and very nutritious. 
+- Some fruits have medicinal value as well. 
 
-Many fruits have a purifying and cleansing effect on the body, and most fruits are high in vitamins and very nutritious. 
-
-Some fruits have medicinal value as well. 
-
-In an emergency planting programme, cereals may be omitted from the human diet, but fruits should not be neglected. This shows their importance.
+In an emergency planting program, cereals may be omitted from the human diet. 
+- But fruits should not be neglected. This shows their importance.
 
 The following system can be used for planting big, medium and small categories of fruit trees:
 
 - big trees should be planted in an area of 15 square feet.
-- medium trees should be planted between 2 big trees, in the middle. One medium tree should be planted at a distance of · 1/² feet from the 2 big trees.
+- medium trees should be planted between 2 big trees, in the middle.
+- One medium tree should be planted at a distance of · 1/² feet from the 2 big trees.
 - small trees should be planted in between 2 big trees at a distance of every 5 feet. That is, 2 small trees may be planted between 2 big trees.
 
 Ginger, tumeric and sweet potato should be planted in the shade of fruit trees in the prescribed rotation.
@@ -58,15 +59,14 @@ When preparing the land for horticulture, the land should first be divided into 
 
 The planting method should be as follows. 
 
-First, plant a sequence of 1 big tree then 1 medium tree, then another 1 big tree and 1 medium tree, and so on. 
-
-After the medium trees have been planted, start planting small trees in between the big trees: 1 big tree then 2 small trees, 1 big tree then 2 small trees, and so on. 
+1. Plant a sequence of 1 big tree then 1 medium tree, then another 1 big tree and 1 medium tree, and so on. 
+2. After the medium trees have been planted, start planting small trees in between the big trees: 1 big tree then 2 small trees, 1 big tree then 2 small trees, and so on. 
 
 The small trees can also be planted in association with medium trees. 
 
 Before the trees are planted, deep pits should be dug in the ground and a good amount of compost and some calcium should be put into them. 
 
-Calcium should be used when planting fruit trees, and especially with sour fruits because it makes the fruit sweet.
+Calcium should be used when planting fruit trees, especially with sour fruits because it makes the fruit sweet.
 
 Research should be done on the following trees:
 - walnut
@@ -177,7 +177,7 @@ Coconut is good for digestion and helps to alleviate constipation. It has other 
 Green coconut water (d́áb) is rich in potassium, so it has a sweet taste; but it should be taken only from the authentic source. 
 - Vendors sometimes replace the coconut water with ordinary water through a syringe.
 
-A particularly good variety of coconut is the Paraguaya coconut. 
+**A particularly good variety of coconut is the Paraguaya coconut.** 
 
 Research should be done on this variety and it should be grown in India.
 
@@ -323,16 +323,16 @@ Research will improve the preparation of grape products and discover more uses f
 
 Some varieties of grapes that are suitable for research include:
 
-round, big
-round, small
-long, big
-long, small
-blue, big
-Chinese, small
-German
-Iberian
-French
-Italian
+- round, big
+- round, small
+- long, big
+- long, small
+- blue, big
+- Chinese, small
+- German
+- Iberian
+- French
+- Italian
 
 Sandy, reddish soil is good for growing grapes. 
 
@@ -343,15 +343,18 @@ Grapes should be grown on a slanting trellis or platform (machan). Good varietie
 On the border of the vineyard the following plants should be grown – large cardamon (bara ellaichi), ipekak (a medicinal plant), cinkona (the source of quinine and other anti-malarial preparations), and hing (asefoetida).
 
 
-## Pineapple
+### Pineapple
 
 According to leaf type, there are 2 varieties:
-- West Indies
-- East Indies
 
-The West Indies variety was brought to Europe by the Portuguese from its original home in the West Indies. The Portuguese also brought tuberoses, kena flower and some varieties of banana from the West Indies. 
+#### West Indies
+
+This variety was brought to Europe by the Portuguese from its original home in the West Indies. The Portuguese also brought tuberoses, kena flower and some varieties of banana from the West Indies. 
 
 The West Indies variety of pineapple has thorns on both the fruit and the plant. 
+
+
+#### East Indies
 
 The East Indies variety comes from Singapore, Malaysia and Oceania, and the fruit is big with less thorns. 
 
@@ -359,7 +362,7 @@ The Baruipur varieties also come from the same region. These varieties are golde
 
 Some good sources of pineapple outside India include:
 
-Central America
+- Central America
 - northern part of South America
 - all of South East Asia
 
@@ -388,17 +391,25 @@ If the mature pineapple plants are kept in a glass house and smoke is added, the
 
 ## Banana
 
-The banana tree grows as both a wild and domesticated plant. It has sweet, tasty and easily digestible fruit, and the fruit and plant can be eaten in many different ways. 
+The banana tree originated in South Africa and grows as both a wild and domesticated plant.
+- Its fruit is sweet, tasty, easily digestible. 
 
-For example, the fruit can be eaten raw, boiled in sugar syrup or fried, and the flowers and stem can be eaten as vegetables. It is also very useful, and products like banana chips, banana powder, sodium carbonate, sodium bicarbonate, clothes, plates, etc. can be manufactured from various parts of the plant. 
+The fruit and plant can be eaten in many different ways. 
+- For example, the fruit can be eaten raw, boiled in sugar syrup or fried
+- The flowers and stem can be eaten as vegetables. 
 
-Clothes can be made from fibres in the trunk, and plates can be made from the leaves.
+The banana tree is also very useful. Its parts can be made into:
+- banana chips, banana powder
+- sodium carbonate, sodium bicarbonate
+- clothes: These can be made from fibres in the trunk
+- plates: Plates can be made from the leaves.
+- etc. 
 
-Usually, the banana tree is called “plantain” and the ripe fruit is called “banana.” 
+
+Usually, the banana tree is called “plantain” 
+- The ripe fruit is called “banana.” 
 
 In the case of the kaca kalá variety, both the plant and the fruit are called “plantain.” 
-
-Banana originated in South Africa.
 
 There are many varieties of banana:
 - cáṋpá kalá, which bears fruit twice a year,
@@ -408,12 +419,12 @@ There are many varieties of banana:
 
 There are also many good varieties grown outside India.
 
-Banana plants should not grown too close together. 
+**Banana plants should not be grown too close together.** 
 - It is best to plant them 10-12 feet apart. 
 
 If they propagate on their own and grow densely, they will quickly become undomesticated. 
-
-Wild bananas have large, hard seeds, but domesticated bananas have very small, inconspicuous seeds.
+- Wild bananas have large, hard seeds
+- Domesticated bananas have very small, inconspicuous seeds.
 
 
 ## Indian Plum (Kool)

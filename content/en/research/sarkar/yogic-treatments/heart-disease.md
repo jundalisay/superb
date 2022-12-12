@@ -23,15 +23,31 @@ icon: "/icons/yoga.jpg"
 There can be many reasons behind heart disease.
 
 1. Persons who keep their stomachs full and heavy need more blood for their stomachs. Their hearts have to overwork to provide this extra supply, making their hearts weak.
-2. Persons above 35 or 40 years old who consume a lot of non-vegetarian food out of greed may also suffer from heart disease. This is because non-vegetarian food increases the blood acidity. This compels the heart to overwork to purify the blood, weakening the heart. An increase in blood acidity also gradually weakens other organs, and those weaknesses directly or indirectly weaken the heart.
-3. Taking excessive fatty and oil food and not undertaking a proportional amount of physical labour loads the human nervous system down with fat, and as a result it becomes impossible for the nerves to properly assist the heart. As a result the heart becomes weak. Fat accumulated in the nerves and blood vessels terribly hampers the blood circulation, and in order to maintain the circulation, the heart is forced to overwork. As a consequence the heart soon becomes weak.
+
+2. Persons above 35 or 40 years old who consume a lot of non-vegetarian food out of greed may also suffer from heart disease. 
+
+This is because non-vegetarian food increases the blood acidity. This compels the heart to overwork to purify the blood, weakening the heart. An increase in blood acidity also gradually weakens other organs, and those weaknesses directly or indirectly weaken the heart.
+
+3. Taking excessive fatty and oil food and not undertaking a proportional amount of physical labour loads the human nervous system down with fat, and as a result it becomes impossible for the nerves to properly assist the heart. As a result the heart becomes weak. 
+
+Fat accumulated in the nerves and blood vessels terribly hampers the blood circulation, and in order to maintain the circulation, the heart is forced to overwork. As a consequence the heart soon becomes weak.
+
 4. Due to debility of the liver, surplus fat of the body may get a chance to accumulate in the nerves and blood vessels, and the heart naturally becomes weak. Usually patients of this condition have chronic dysentery also.
-5. Another reason for heart disease is the practice of eating too much food at one sitting with little or no appetite; because taking a large quantity of food enlarges the stomach, and that enlarged stomach starts putting pressure on the heart above it. Persons who do not have breakfast and an afternoon snack usually eat heavy meals at lunch and dinner. If such a habit continues day after day, their stomachs get enlarged and they suffer from heart disease.
+
+5. Eating too much food at one sitting with little or no appetite leads to heart disease
+
+Taking a large quantity of food enlarges the stomach, and that enlarged stomach starts putting pressure on the heart above it. Persons who do not have breakfast and an afternoon snack usually eat heavy meals at lunch and dinner. If such a habit continues day after day, their stomachs get enlarged and they suffer from heart disease.
+
 6. Constipation is another reason for heart disease. If the bowels are not cleared, the accumulated stool decays inside the body and breeds a certain type of germ. If these germs get a chance to strike the heart, the patient suffers from heart disease.
+
 7. Ill-tempered persons also run the risk of heart disease, because in anger the flow of blood to the head and face becomes suddenly accelerated (which makes these people turn red). To supply this extra blood, the heart has suddenly to work very hard. That is why persons who are habitually ill-tempered suffer from weakness of the heart. For the same reason, extreme shyness may make the heart weak.
+
 8. In extreme fright also, the blood all of a sudden leaves the other parts of the body and rushes towards the heart in great quantity. It is difficult for the heart to stand this pressure, so in extreme fright the heart pounds or palpitates, and often even stops beating and causes death. (People have often been known to die of heart failure in fear of imaginary ghosts; and just before death or immediately thereafter, such terror-stricken people suffer from bleeding from the mouth and nose, and other people see it and think that the victims have really been killed by ghosts.) So fearful persons are often found to be suffering from heart disease.
+
 9. Too much sex causes the heart to strain and the breathing to become heavy, leading to heart disease. Too much seminal loss in young people also brings about heart disease.
+
 10. Use of wine, tobacco, viŕi, cigarettes and other intoxicants in excessive quantity leads to constipation and increases the acidity of the blood, weaken the glandular system<!-- , and ultimately prevent the active cooperation of the heart and the glands, causing them to fall sick. -->
+
 11. When a person suffers from some devitalizing or chronic disease for a long time, his or her blood will become weak. To revitalize that blood, the person’s heart has to overwork, making the heart becomes weak. That is why with beriberi, pneumonia, tuberculosis, diabetes, gonorrhoea, syphilis and female disease, the longer a patient suffers, the more the heart becomes weak, and when it becomes extremely weak it stops and the patient dies.
 
 <!-- Treatment:
@@ -59,7 +75,8 @@ Eating a small quantity of spinach, beto, kalamii, shulphá, shushuni or punarn
 
 Heart patients should sleep at least nine hours a night. The mind should always be held back from anger and lust. Physical and mental exertion, garrulousness and sex should all be strictly avoided.
 
-## Rmedies
+
+## Remedies
 
 1. Every day in the morning and before retiring to bed at night, patients should take a spoonful of bára eláca, powdered along with the husk, with honey. This will give good results.
 2. The juice of shulphá greens mixed with honey is very useful in heart disease.
