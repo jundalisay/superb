@@ -1,12 +1,14 @@
-+++
-title= "Part 2: The Tao or True Nature is Nothingness"
-heading= "Chapters 3-5"
-date= 2021-09-27
-image= "/covers/tao.jpg"
-description= "The Tao or True Nature is nameless, non-extreme, non-dualistic"
-icon = "/icons/laotzu.png"
-+++
-
+---
+heading: "Chapters 3-5"
+title: "Part 2: The Tao or True Nature is Nothingness"
+description: "The Tao or True Nature is nameless, non-extreme, non-dualistic"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 6
+icon: "/icons/laotzu.png"
+author: Lao Tzu
+# date= 2021-09-28
+---
 
 
 ## Chapter 4: The Tao is Nirguna or Nothingness 

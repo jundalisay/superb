@@ -1,14 +1,15 @@
-+++
-title= "Part 9: Types of People"
-heading= "Chapter 38, 41"
-date= 2021-09-20
-image= "/covers/tao.jpg"
-description= "The knowers of the Tao have three levels"
-linkb= "/research/laotzu/tao-te-ching/part-08-karma-ego"
-linkbtext= "Karma, Ego"
-linkf= "/research/laotzu/tao-te-ching/part-10-masters"
-linkftext= "Masters"
-+++
+---
+heading: "Chapters 38, 41"
+title: "Part 9: Types of People"
+description: "The knowers of the Tao have three levels"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 18
+icon: "/icons/laotzu.png"
+author: Lao Tzu
+---
+
+
 
 
 ## Chapter 38: Benevolence, Righteousness, Propriety

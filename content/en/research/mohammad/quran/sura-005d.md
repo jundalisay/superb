@@ -4,10 +4,6 @@ heading: "Sura 5d of the Quran Simplified"
 date: 2022-01-05
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
@@ -17,17 +13,14 @@ linkftext: "Index"
 He will say, “Glory be to You! It is not for me to say what I have no right to. Had I said it, You
 would have known it. You know what is in my soul, and I do not know what is in your soul. 
 
-
-117. I only told them what You commanded me: that you shall worship Allah, my Lord
+{{< s v="117" >}} I only told them what You commanded me: that you shall worship Allah, my Lord
 and your Lord. 
 
-And I was a witness over them while I was among them; but when You took me to Yourself, you became the Watcher over
-them—You are Witness over everything.
+I was a witness over them while I was among them; but when You took me to Yourself, you became the Watcher over them—You are Witness over everything.
 
-118. If You punish them, they are Your servants; but if You forgive them, You are the
-Mighty and Wise.”
+{{< s v="118" >}} If You punish them, they are Your servants; but if You forgive them, You are the Mighty and Wise.”
 
-119. Allah will say, “This is a Day when the truthful will benefit from their truthfulness.”
+{{< s v="119" >}}  Allah will say, “This is a Day when the truthful will benefit from their truthfulness.”
 
 They will have Gardens beneath which rivers flow, wherein they will remain forever. <!-- Allah
 is pleased with them, and they are pleased with Him. That is the great attainment. -->

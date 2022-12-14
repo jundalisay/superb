@@ -6,23 +6,38 @@ image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
+{{< s v="49" >}}
 
-49. He said, “Who is your Lord, O Moses?”
+{{< r a="Pharaoh" >}} 
+Moses, who is your Lord?
+{{< /r >}}
 
-He said, “Our Lord is He who gave everything its existence, then guided it.”
+{{< s v="50" >}}
 
-51. He said, “What about the first generations?”
+{{< l a="Moses" >}} 
+Our Lord is He who gave everything its existence, then guided it.
+{{< /l >}}
 
-52. He said, “Knowledge thereof is with my Lord, in a Book. My Lord never errs, nor does He forget.”
+{{< s v="51" >}}
 
-53. He who made the earth a habitat for you; and traced in it routes for you; and sent down
-water from the sky, with which We produce pairs of diverse plants.
+{{< r a="Pharaoh" >}} 
+What about the first generations?
+{{< /r >}} 
 
-54. Eat and pasture your livestock. In that are signs for those with understanding.
+{{< s v="52-56" >}}
 
-55. From it We created you, and into it We will return you, and from it We will bring you out another time.
+{{< l a="Moses" >}} 
+Knowledge thereof is with my Lord, in a Book. My Lord never errs, nor does He forget.
 
-56. We showed him Our signs, all of them, but he denied and refused.
+He who made the earth a habitat for you; and traced in it routes for you; and sent down water from the sky, with which We produce pairs of diverse plants.
+
+Eat and pasture your livestock. In that are signs for those with understanding.
+
+From it We created you, and into it We will return you, and from it We will bring you out another time.
+
+We showed him Our signs, all of them, but he denied and refused.
+{{< /l >}}
+
 
 57. He said, “Did you come to us to drive us out of our land with your magic, O Moses?
 
@@ -108,13 +123,12 @@ your god, and the god of Moses, but he has forgotten.”
 89. Did they not see that it cannot return a word to them, and has no power to harm
 them or benefit them?
 
-90. Aaron had said to them before, “O my people, you are being tested by this. And your
-Lord is the Merciful, so follow me, and obey my command.”
+90. Aaron had said to them before, “O my people, you are being tested by this. And your Lord is the Merciful, so follow me, and obey my command.”
 
 91. They said, “We will not give up our devotion to it, until Moses returns to us.”
+
 92. He said, “O Aaron, what prevented you, when you saw them going astray.
-93. From following me? Did you disobey my
-command?”
+93. From following me? Did you disobey my command?”
 
 94. He said, “Son of my mother, do not seize me by my beard or my head. I feared you
 would say, `You have caused division among the Jews, and did not regard my word.'“
@@ -124,13 +138,8 @@ would say, `You have caused division among the Jews, and did not regard my word.
 96. He said, “I saw what they did not see, so I grasped a handful from the Messenger’s
 traces, and I flung it away. Thus my soul prompted me.”
 
-97. He said, “Begone! Your lot in this life is to say, ‘No contact.’ And you have an appoint-
-ment that you will not miss. Now look at your god that you remained devoted to—we will
-burn it up, and then blow it away into the sea, as powder.”
-
+97. He said, “Begone! Your lot in this life is to say, ‘No contact.’ You have an appointment that you will not miss. Now look at your god that you remained devoted to—we will burn it up, and then blow it away into the sea, as powder.”
 
 98. Surely your god is Allah, the One besides whom there is no other god. He comprehends everything in knowledge.
 
 Thus We narrate to you reports of times gone by; and We have given you a message from Our Presence.
-
-

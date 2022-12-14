@@ -23,23 +23,30 @@ stay bent in humility.
 {{< s v="10" >}}  Your Lord called to Moses, “Go to the tyrannical people.
 
 {{< s v="11" >}}  The people of Pharaoh. Will they not fear?”
+
 He said, “My Lord, I fear they will rejectme.
-13. And I become stressed, and my tongue is
-not fluent, so send Aaron too.
-14. And they have a charge against me, so I fear
-they will kill me.”
-15. He said, “No. Go, both of you, with Our
-proofs. We will be with you, listening.
+
+13. And I become stressed, and my tongue is not fluent, so send Aaron too.
+
+14. And they have a charge against me, so I fear they will kill me.”
+
+15. He said, “No. Go, both of you, with Our proofs. We will be with you, listening.
+
 {{< s v="16" >}}Go to Pharaoh, and say, ‘We are the Messengers of the Lord of the Worlds.
 
 31. He said, “Bring it, if you are being truthful.”
-17. Let So he cast his staff; and it was a serpent,
-plain to see.
+
+17. Let So he cast his staff; and it was a serpent, plain to see.
 
 33. And he pulled his hand; and it was white, for all to see.
+
 34. He said to the dignitaries around him, “This is a skilled magician.
+
 35. He intends to drive you out of your land with his magic, so what do you recommend?”
+
 36. They said, “Delay him and his brother, and send recruiters to the cities.
+
+
 18. He 37. To bring the Jews go with us.'“
 said, “Did we not raise you among us as a child, and you stayed among us for many of your years?
 
@@ -56,10 +63,11 @@ said, “Did we not raise you among us as a child, and you stayed among us for m
 29. He said, “If you accept any god other than me, I will make you a prisoner.”
 30. He said, “What if I bring you something convincing?”
 32. you every experienced magician.”
-the magicians were gathered for the ap-
-pointment on a specified day.
-39. And it was said to the people, “Are you all
-gathered?
+
+
+the magicians were gathered for the appointment on a specified day.
+
+39. And it was said to the people, “Are you all gathered?
 40. That we may follow the magicians, if they
 are the winners.”
 41. When the magicians arrived, they said to

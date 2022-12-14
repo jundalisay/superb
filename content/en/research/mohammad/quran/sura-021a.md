@@ -9,7 +9,9 @@ description: "This is the Book in which there is no doubt, a guide for the right
 
 {{< s v="1" >}}  Mankind’s reckoning has drawn near, but they turn away heedlessly.
 
-{{< s v="2" >}}  No fresh reminder comes to them from their Lord, but they listen to it playfully.{{< s v="3" >}}  Their hearts distracted, the wrongdoers confer secretly, “Is this anything but a mortal like you? Will you take to sorcery, with open-eyes?”
+{{< s v="2" >}}  No fresh reminder comes to them from their Lord, but they listen to it playfully.
+
+{{< s v="3" >}}  Their hearts distracted, the wrongdoers confer secretly, “Is this anything but a mortal like you? Will you take to sorcery, with open-eyes?”
 
 {{< s v="4" >}}  He said, “My Lord knows what is said in the heaven and the earth; and He is the Hearer, the Knower.”
 

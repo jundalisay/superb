@@ -3,7 +3,8 @@ title: "The Choice of Units"
 heading: "Chapter 4"
 description: "Keynes overturns Classical Economics and imposes 2 measures: hourly-common-labour and hourly-common-wage"
 image: "/covers/general.jpg"
-date: 2020-12-17
+# date: 2020-12-17
+weight: 16
 icon: "/icons/keynes.png"
 ---
 
@@ -21,7 +22,7 @@ The units of Economics are unsatisfactory becuase of 3 things:
 <!-- . This is proven by the National Dividend which is the stock of real capital and the general price-level: -->
 
 
-## 1. The National Dividend
+## 1. The National Dividend`
 
 This was defined by Marshall and Professor Pigou. It measures the **volume** of current output (real income) and not the **value** of output or money-income. 
 

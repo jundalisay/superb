@@ -3,7 +3,8 @@ title: "The Postulates of Classical Economics"
 heading: "Chapter 2"
 description: "Here, we expose the sophistry of Keynes who enshrined money-wages over real wages in order to create socialism for the financial system"
 image: "/covers/general.jpg"
-date: 2020-12-31
+# date: 2020-12-31
+weight: 1
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

@@ -13,17 +13,19 @@ Knowledgeable and Wise.
 {{< s v="2" >}}  And follow what is revealed to you from your Lord. Allah is fully aware of what you do.
 {{< s v="3" >}}  And put your trust in Allah. Allah is enough as a trustee.
 {{< s v="4" >}}  Allah did not place two hearts inside any man's body. Nor did He make your wives
-whom you equate with your mothers, your actual mothers. Nor did He make your
-adopted sons, your actual sons. These are your words coming out of your mouths. Al-
-lah speaks the truth, and guides to the path.
-{{< s v="5" >}}  Call them after their fathers; that is more equitable with Allah. But if you do not know
-their fathers, then your brethren in faith and your friends. There is no blame on you if you
-err therein, barring what your hearts premeditates. Allah is Forgiving and Merciful.
+whom you equate with your mothers, your actual mothers. Nor did He make your adopted sons, your actual sons. These are your words coming out of your mouths. 
 
-6. The Prophet is more caring of the believers than they are of themselves, and his wives are mothers to them. And blood-relatives are closer to one another in Allah’s Book than the believers or the emigrants, though you should do good to your friends. That is inscribed in the Book.
+{{< s v="5" >}}  Call them after their fathers; that is more equitable with Allah. But if you do not know their fathers, then your brethren in faith and your friends. There is no blame on you if you err therein, barring what your hearts premeditates.
 
-7. Recall that We received a pledge from the prophets, and from you, and from Noah, and
-Abraham, and Moses, and Jesus son of Mary. 
+{{< s v="6" >}} The Prophet is more caring of the believers than they are of themselves. 
+
+His wives are mothers to them. 
+
+Blood-relatives are closer to one another in Allah’s Book than the believers or the emigrants, though you should do good to your friends. 
+
+That is inscribed in the Book.
+
+7. Recall that We received a pledge from the prophets, and from you, and from Noah, and Abraham, and Moses, and Jesus. 
 
 We received from them a solemn pledge.
 

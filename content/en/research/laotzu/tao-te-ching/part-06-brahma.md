@@ -1,15 +1,14 @@
-+++
-title= "Part 6= Brahma"
-heading= "Chapters 24, 34-35, 42"
-date= 2021-09-23
-image= "/covers/tao.jpg"
-description= "Brahma is an effect of the course or flow of the Tao"
-linkb= "/research/laotzu/tao-te-ching/part-05-one"
-linkbtext= "The One"
-linkf= "/research/laotzu/tao-te-ching/part-07-parts"
-linkftext= "Parts of Brahma"
-icon = "/icons/tao.png"
-+++
+---
+heading: "Chapters 24, 34-35, 42"
+title: "Part 6: Brahma"
+description: "Brahma is an effect of the course or flow of the Tao"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 14
+icon: "/icons/laotzu.png"
+author: Lao Tzu
+---
+
 
 
 ## Chapter 24: Brahma

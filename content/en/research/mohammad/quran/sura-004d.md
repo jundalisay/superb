@@ -4,10 +4,6 @@ heading: "Sura 4d of the Quran Simplified"
 date: 2022-01-11
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-004c
-linkbtext: "sura-004c"
-linkf: /research/mohammad/quran/sura-004e
-linkftext: "sura-004e"
 ---
 
 

@@ -7,27 +7,24 @@ description: "This is the Book in which there is no doubt, a guide for the right
 ---
 
 
-{{< s v="1" >}}  By the aligners aligning.{{< s v="2" >}}  And the drivers driving.{{< s v="3" >}}  And the reciters of the Reminder.{{< s v="4" >}}  Your
-God is indeed One.
-of the heavens and the earth, and eve-
-rything between them; and Lord of the Easts.
+{{< s v="1" >}}  By the aligners aligning.{{< s v="2" >}}  And the drivers driving.{{< s v="3" >}}  And the reciters of the Reminder.
 
-6. We have adorned the lower heaven with the
-beauty of the planets.{{< s v="5" >}}  Lord
+{{< s v="4" >}}  Your God is indeed One.
 
-7. And
-guarded it against every defiant devil.
-They cannot eavesdrop on the Supernal
-Elite, for they get bombarded from every side.{{< s v="9" >}}  Repelled—they will have a lingering tor-
-ment.{{< s v="10" >}}  Except for him who snatches a fragment—
-he gets pursued by a piercing projectile.{{< s v="11" >}}  Inquire of them, “Are they more difficult to
-create, or the others We created?” We created
-them from sticky clay.
+{{< s v="5" >}}  Lord of the heavens and the earth, and everything between them; and Lord of the Easts.
 
-12. But
-you wonder, and they ridicule.
-And when reminded, they pay no atten-
-tion.
+{{< s v="6" >}} We have adorned the lower heaven with the beauty of the planets.
+
+{{< s v="7" >}} And guarded it against every defiant devil.
+
+They cannot eavesdrop on the Supernal 
+Elite, for they get bombarded from every side.
+
+{{< s v="9" >}}  Repelled—they will have a lingering torment.
+
+{{< s v="10" >}}  Except for him who snatches a fragment—he gets pursued by a piercing projectile.{{< s v="11" >}}  Inquire of them, “Are they more difficult to create, or the others We created?” We created them from sticky clay.
+
+{{< s v="12" >}} But you wonder, and they ridicule. When reminded, they pay no attention.
 
 
 14. And
@@ -39,8 +36,7 @@ magic.
 bones, shall we be resurrected?
 
 15.
-17. And
-our ancestors of old?”
+17. And our ancestors of old?”
 Say, “Yes indeed, and you will be totally
 subdued.”
 19. It will be a single nudge, and they will be
@@ -168,13 +164,11 @@ Noah called out to Us, and We are the
 Best of responders.
 75. And
 
-76. And We
-saved him and his family from the
+76. We saved him and his family from the
 great calamity.
-77. And We made his descendants the survi-
-vors.
-78. And We left mention of him among those
-who succeeded.
+
+77. And We made his descendants the survivors.
+78. And We left mention of him among those who succeeded.
 79. Peace
 80. We
 81. He
@@ -394,9 +388,8 @@ avoid them for a while.
 watch—they will soon see.
 Exalted be your Lord, the Lord of Glory,
 beyond their allegations.
-180.
+<!-- 180.
 181. And
 peace be upon the messengers.
 And praise be to Allah, the Lord of the
-Worlds.
-
+Worlds. -->

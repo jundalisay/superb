@@ -3,8 +3,8 @@ title: "True Inflation"
 heading: "Chapter 21c"
 description: "True inflation happens when a further increase in effective demand produces no increase in output"
 image: "/covers/general.jpg"
-date: 2020-09-26
-author: John Maynard Keynes
+weight: 98
+icon: "/icons/keynes.png"
 author: "John Maynard Keynes"
 ---
 

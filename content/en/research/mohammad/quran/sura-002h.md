@@ -21,11 +21,12 @@ If they fight you, then kill them. <!-- Such is the retribution of the disbeliev
 
 {{< s v="192" >}} But if they cease, then Allah is Forgiving and Merciful.
 
-193. Fight them until there is no oppression, and worship becomes devoted to Allah alone. 
+{{< s v="193" >}} Fight them until there is no oppression, and worship becomes devoted to Allah alone. 
 
 But if they cease, then let there be no hostility except against the oppressors.
 
-194. The sacred month for the sacred month;
+
+{{< s v="194" >}} The sacred month for the sacred month;
 
 Sacrilege calls for retaliation. 
 
@@ -35,11 +36,12 @@ Whoever commits aggression against you, retaliate against him in the same measur
 Allah, and know that Allah is with the right-
 eous.
  -->
-195. Spend in the cause of Allah. 
+
+{{< s v="195" >}}  Spend in the cause of Allah. 
 - Do not throw yourselves with your own hands into ruin
 - Be charitable.
 
-196. Carry out the Hajj and the Umrah for Allah. 
+{{< s v="196" >}} Carry out the Hajj and the Umrah for Allah. 
 
 But if you are prevented, then whatever is feasible of offerings.
 
@@ -52,7 +54,7 @@ But if he lacks the means, then fasting for 3 days during the Hajj and 7 when yo
 
 This is for he whose household is not present at the Kabbah. 
 
-197. The Hajj is during specific months. 
+{{< s v="197" >}} The Hajj is during specific months. 
 
 Whoever decides to perform the Hajj—there shall be no sexual relations, nor misconduct, nor quarrelling during the Hajj. 
 

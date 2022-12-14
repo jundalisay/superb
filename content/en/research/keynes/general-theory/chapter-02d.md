@@ -3,7 +3,8 @@ heading: "Chapter 2d"
 title: "Mill's Assumptions"
 description: "The struggle over money-wages is often believed to determine the general level of real wages"
 image: "/covers/general.jpg"
-date: 2020-12-25
+weight: 8
+# date: 2020-12-25
 icon: "/icons/keynes.png"
 ---
 

@@ -4,20 +4,15 @@ title: "Details of the Rules on Food"
 date: 2022-01-02
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
-linkb: /research/mohammad/quran/sura-006b
-linkbtext: "Sura 6b"
-linkf: /research/mohammad/quran/sura-007a
-linkftext: "Sure 7a"
 ---
 
 
-
-135. Say, “O my people! Work according to your ability, and so will I.” 
+{{< s v="135" >}}  Say, “O my people! Work according to your ability, and so will I.” 
 
 <!-- You will come to know to whom will belong the sequel of the
 abode.” The wrongdoers will not prevail. -->
 
-136. The wrongdoers set aside for Allah a share of the crops and the livestock He created, and they say, “This is for Allah,” according to their claim, “and this is for our idols.” 
+{{< s v="136" >}}  The wrongdoers set aside for Allah a share of the crops and the livestock He created, and they say, “This is for Allah,” according to their claim, “and this is for our idols.” 
 
 But the share of their idols does not reach Allah, yet the  share of Allah reaches their idols. Evil is their judgment.
 

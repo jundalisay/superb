@@ -1,14 +1,16 @@
-+++
-title= "Part 3: Perfection"
-heading= "Chapter 7-9"
-description= "The Knowers of the Tao or True Nature have minds that are active and expanded"
-date= 2021-09-26
-image= "/covers/tao.jpg"
-linkb= "/research/laotzu/tao-te-ching/part-02-nothingness"
-linkbtext= "Nothingness"
-linkf= "/research/laotzu/tao-te-ching/part-04-two-forces"
-linkftext= "Two Forces"
-+++
+---
+heading: "Chapters 7-9"
+title: "Part 3: Perfection"
+description: "The Knowers of the Tao or True Nature have minds that are active and expanded"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 8
+icon: "/icons/laotzu.png"
+author: Lao Tzu
+# date= 2021-09-28
+---
+
+
 
 ## Chapter 7: The Impartial Spectator
 

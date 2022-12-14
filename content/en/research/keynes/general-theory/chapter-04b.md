@@ -3,7 +3,8 @@ title: "Going Beyond the Natural Capacity"
 heading: "Chapter 4b"
 description: "Keynes overturns Classical Economics and imposes two measures= hourly-common-labour and hourly-common-wage"
 image: "/covers/general.jpg"
-date: 2020-12-15
+# date: 2020-12-15
+weight: 18
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

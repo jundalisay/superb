@@ -3,7 +3,8 @@ heading: "Chapter 15c"
 title: "The Control of Interest Rates"
 description: "In any given state of expectation, a fall in `r` will be associated with an increase in `M2`"
 image: "/covers/general.jpg"
-date: 2020-10-26
+# date: 2020-10-26
+weight: 68
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

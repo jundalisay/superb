@@ -4,31 +4,28 @@ heading: "Sura 3c of the Quran Simplified"
 date: 2022-01-17
 image: "/covers/quran.jpg"
 description: "The Prophet Mohammad describes the differences of his beliefs with those of Jews and Christians"
-linkb: /research/mohammad/quran/sura-003b
-linkbtext: "sura-003b"
-linkf: /research/mohammad/quran/sura-003d
-linkftext: "sura-003d"
 ---
 
 
-59. The likeness of Jesus in Allah’s sight is that of Adam. 
+{{< s v="59" >}} The likeness of Jesus in Allah’s sight is that of Adam. 
 
 Allah created Jesus from dust, then said to him, “Be,” and he was. 
 
 <!-- 60. The truth is from your Lord, so do not be of those who doubt. -->
 
-61. If anyone disputes with you about him, <!-- after the knowledge that has come to you, --> say: “Come, let us call our children and your children, and our women and your women, and ourselves and yourselves, and let us invoke Allah’s curse on the liars.”
+{{< s v="61 ">}}  If anyone disputes with you about him, <!-- after the knowledge that has come to you, --> say: “Come, let us call our children and your children, and our women and your women, and ourselves and yourselves, and let us invoke Allah’s curse on the liars.”
 
 
 <!-- 62. This is the narrative of truth: there is no god but Allah. Allah is the Mighty, the Wise.
 
 63. But if they turn away—Allah knows the corrupt. -->
 
-64. Say to the Jews and Christians: “Come to terms common between us and you. We worship only Allah. We associate nothing with Him.” 
+
+{{< s v="64">}}  Say to the Jews and Christians: “Come to terms common between us and you. We worship only Allah. We associate nothing with Him.” 
 
 <!-- And if they turn away, say, “Bear witness that we have submitted.” -->
 
-65. O People of the Book! Why do you argue about Abraham, when the Torah and the Gospel were not revealed until after him? 
+{{< s v="66">}} People of the Book! Why do you argue about Abraham, when the Torah and the Gospel were not revealed until after him? 
 
 <!-- Will you not reason? -->
 

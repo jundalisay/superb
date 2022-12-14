@@ -49,30 +49,26 @@ confederates.
 Two disputants; one of us has wronged the other; so judge between us fairly, and do not
 be biased, and guide us to the straight way.”
 
-23. “This brother of mine has ninety nine ewes, and I have one ewe, and he said, ‘En-
-trust it to me,’ and he pressured me with words.”
-24. He said, “He has done you wrong by asking your ewe in addition to his ewes. Many part-
-ners take advantage of one another, except those who believe and do good deeds, but
-these are so few.” David realized that We were testing him, so he sought forgiveness
-from his Lord, and fell down to his knees, and repented.
-25. So We forgave him that. And for him is nearness to Us, and a good place of return.
-26. “O David, We made you a ruler in the land, so judge between the people with justice, and
-do not follow desire, lest it diverts you from  Allah’s path. Those who stray from Allah’s
-path will have a painful punishment, for having ignored the Day of Account.”
-27. We did not create the heaven and the earth
-and everything between them in vain. That is the assumption of those who disbelieve—so woe to those who disbelieve because of the Fire.
+23. “This brother of mine has ninety nine ewes, and I have one ewe, and he said, ‘Entrust it to me,’ and he pressured me with words.”
 
-28. Or are We to treat those who believe and
-do righteous deeds like those who make trou-
-ble on earth? Or are We to treat the pious like
-the shameless?
-29. A blessed Book that We sent down to you,
-that they may ponder its Verses, and for those
+24. He said, “He has done you wrong by asking your ewe in addition to his ewes. Many partners take advantage of one another, except those who believe and do good deeds, but these are so few.” David realized that We were testing him, so he sought forgiveness
+from his Lord, and fell down to his knees, and repented.
+
+25. So We forgave him that. And for him is nearness to Us, and a good place of return.
+
+26. “O David, We made you a ruler in the land, so judge between the people with justice, and do not follow desire, lest it diverts you from  Allah’s path. Those who stray from Allah’s path will have a painful punishment, for having ignored the Day of Account.”
+
+27. We did not create the heaven and the earth and everything between them in vain. That is the assumption of those who disbelieve—so woe to those who disbelieve because of the Fire.
+
+28. Or are We to treat those who believe and do righteous deeds like those who make trou-
+ble on earth? Or are We to treat the pious like the shameless?
+
+29. A blessed Book that We sent down to you, that they may ponder its Verses, and for those
 with intelligence to take heed.
-30. And We granted David, Solomon, an ex-
-cellent servant. He was penitent.
-31. When the beautiful horses were paraded
-before him in the evening.
+
+30. And We granted David, Solomon, an excellent servant. He was penitent.
+
+31. When the beautiful horses were paraded before him in the evening.
 32. He said, “I have preferred the love of nice-
 ties to the remembrance of my Lord—until it
 disappeared behind the veil.

@@ -57,13 +57,12 @@ themselves. Were it not for a predetermined decision from your Lord, judgment wo
 have been pronounced between them. 
 
 Those who were made to inherit the Book after them are in grave doubt about it.
-15. To this go on inviting, and be upright as
-you were commanded, and do not follow
-their inclinations, and say, “I believe in what-
-ever Book Allah has sent down, and I was
+
+15. To this go on inviting, and be upright as you were commanded, and do not follow
+their inclinations, and say, “I believe in whatever Book Allah has sent down, and I was
 commanded to judge between you equitably.
-Allah is our Lord and your Lord. We have our
-deeds, and you have your deeds. Let there be
+
+Allah is our Lord and your Lord. We have our deeds, and you have your deeds. Let there be
 no quarrel between us and you. Allah will bring us together, and to Him is the ultimate
 return.”
 
@@ -139,21 +138,15 @@ helper.
 sea like flags.
 33. If He willed, He could have stilled the
 winds, leaving them motionless on its sur-
-face. Surely in that are signs for every disci-
-plined, grateful person.
-34. Or He could wreck them, because of what
-they have earned. And yet He pardons much.
-35. Those who dispute Our signs know that
-there is no asylum for them.
-36. Whatever thing you are given is only the
-provision of this life. But what Allah pos-
-sesses is better and more lasting for those
-who believe and rely on their Lord.
-37. And those who avoid major sins and inde-
-cencies; and if they become angry, they for-
-give.
-38. And those who respond to their Lord, and
-pray regularly, and conduct their affairs by mutual consultation, and give of what We
+face. Surely in that are signs for every disciplined, grateful person.
+
+34. Or He could wreck them, because of what they have earned. And yet He pardons much.
+35. Those who dispute Our signs know that there is no asylum for them.
+
+36. Whatever thing you are given is only the provision of this life. But what Allah possesses is better and more lasting for those who believe and rely on their Lord.
+37. And those who avoid major sins and indecencies; and if they become angry, they forgive.
+
+38. And those who respond to their Lord, and pray regularly, and conduct their affairs by mutual consultation, and give of what We
 have provided them.
 
 39. And those who, when wronged, defend themselves.
@@ -168,46 +161,42 @@ These will have a painful punishment.
 tor apart from Him. And you will see the
 transgressors, when they see the torment,
 saying, “Is there a way of going back?”
-45. And you will see them exposed to it, cow-
-ering from disgrace, looking with concealed
-eyes. Those who believed will say, “The losers
-are those who lost themselves and their fam-
-ilies on the Day of Resurrection.” Indeed, the
-evildoers are in a lasting torment.
-46. They will have no allies to support them
-against Allah. Whomever Allah leaves astray
+
+45. And you will see them exposed to it, cowering from disgrace, looking with concealed
+eyes. Those who believed will say, “The losers are those who lost themselves and their fam-
+ilies on the Day of Resurrection.” 
+
+
+46. They will have no allies to support them against Allah. Whomever Allah leaves astray
 has no way out.
-47. Respond to your Lord before there comes
-from Allah a Day that cannot be turned back.
-You will have no refuge on that Day, and no
-possibility of denial.
-48. But if they turn away—We did not send
-you as a guardian over them. Your only duty
-is communication. Whenever We let man
-taste mercy from Us, he rejoices in it; but
-when misfortune befalls them, as a conse-
-quence of what their hands have perpetrated,
+
+47. Respond to your Lord before there comes from Allah a Day that cannot be turned back.
+You will have no refuge on that Day, and no possibility of denial.
+
+48. But if they turn away—We did not send you as a guardian over them. Your only duty
+is communication. Whenever We let man taste mercy from Us, he rejoices in it; but
+when misfortune befalls them, as a consequence of what their hands have perpetrated,
 man turns blasphemous.
-49. To Allah belongs the dominion of the
-heavens and the earth. He creates whatever
-He wills. He grants daughters to whomever
-He wills, and He grants sons to whomever He
-wills.
+
+49. To Allah belongs the dominion of the heavens and the earth. 
+
+He creates whatever He wills. 
+
+He grants sons or daughters to whomever He wills. 
+
 50. Or He combines them together, males and
 females; and He renders whomever He wills
 sterile. He is Knowledgeable and Capable.
-51. It is not for any human that Allah should
-speak to him, except by inspiration, or from
-behind a veil, or by sending a messenger to
-reveal by His permission whatever He wills.
-He is All-High, All-Wise.
-52. We thus inspired you spiritually, by Our
-command. You did not know what the Scrip-
-ture is, nor what faith is, but We made it a
-light, with which We guide whomever We
-will of Our servants. You surely guide to a
-straight path.
-53. The path of Allah, to whom belongs every-
-thing in the heavens and everything on earth.
+
+51. It is not for any human that Allah should speak to him, except by inspiration, or from
+behind a veil, or by sending a messenger to reveal by His permission whatever He wills.
+
+
+52. We thus inspired you spiritually, by Our command.
+
+You did not know what the Scripture is, nor what faith is, but We made it a
+light, with which We guide whomever We will of Our servants. 
+
+53. The path of Allah, to whom belongs everything in the heavens and everything on earth.
 Indeed, to Allah all matters revert.
 

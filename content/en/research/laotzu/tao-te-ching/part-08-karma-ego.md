@@ -1,14 +1,15 @@
-+++
-title= "Part 8= Karma and Ego"
-heading= "Chapter 36-37, 43"
-date= 2021-09-21
-image= "/covers/tao.jpg"
-description= "The Metaphysics of the Tao or True Nature include Pranah, Aether, and the Five elements"
-linkb= "/research/laotzu/tao-te-ching/part-07-parts"
-linkbtext= "Parts of Brahma"
-linkf= "/research/laotzu/tao-te-ching/part-08-karma-ego"
-linkftext= "Karma, Ego"
-+++
+---
+heading: "Chapters 36-37, 43"
+title: "Part 8: Karma and Ego"
+description: "Karma, Dharma, Gravity, and Ego"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 18
+icon: "/icons/laotzu.png"
+author: Lao Tzu
+---
+
+
 
 
 ## Chapter 36: Karma

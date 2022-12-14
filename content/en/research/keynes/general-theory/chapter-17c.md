@@ -3,7 +3,8 @@ title: "The Natural Rate of Interest"
 heading: "Chapter 17c"
 description: ""
 image: "/covers/general.jpg"
-date: 2020-10-16
+# date: 2020-10-16
+weight: 78
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

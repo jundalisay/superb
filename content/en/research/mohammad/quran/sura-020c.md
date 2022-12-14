@@ -11,36 +11,31 @@ description: "This is the Book in which there is no doubt, a guide for the right
 101. Abiding therein forever. And wretched is
 their burden on the Day of Resurrection. -->
 
-102. On the Day when the Trumpet is blown—We will gather the sinners on that Day, blue.
+{{< s v="102" >}} On the Day when the Trumpet is blown—We will gather the sinners on that Day, blue.
 
-103. Murmuring among themselves: “You have lingered only for ten.”
+{{< s v="103" >}} Murmuring among themselves: “You have lingered only for ten.”
 
-104. We are fully aware of what they say, when the most exemplary of them in conduct will
+{{< s v="104" >}} We are fully aware of what they say, when the most exemplary of them in conduct will
 say, “You have lingered only a day.”
 
-105. And they ask you about the mountains. Say, “My Lord will crumble them utterly.”
+{{< s v="105" >}} They ask you about the mountains. Say, “My Lord will crumble them utterly.”
 
-106. And leave them desolate waste. 
-will see in them neither crookedness,
-nor deviation.”
+{{< s v="106" >}} Leave them desolate waste.
+
+will see in them neither crookedness, nor deviation.”
 
 108. On that Day, they will follow the caller, without any deviation. Voices will be hushed
 before the Merciful, and you will hear nothing but murmur.
 
-109. On that Day, intercession will not avail,
-except for him permitted by the Merciful, and
-whose words He has approved.
+109. On that Day, intercession will not avail, except for him permitted by the Merciful, and whose words He has approved.
 
-110. He knows what is before them and what is behind them, and they cannot comprehend
-Him in their knowledge.
+110. He knows what is before them and what is behind them, and they cannot comprehend Him in their knowledge.
 
-111. Faces will be humbled before the Living, the Eternal. Whoever carries injustice will
-despair.
+111. Faces will be humbled before the Living, the Eternal. Whoever carries injustice will despair.
 
 112. But whoever has done righteous deeds, while being a believer—will fear neither injustice, nor grievance.
 
-113. Thus We have revealed it an Arabic Quran, and We have diversified the warnings
-in it, that perhaps they would become righteous, or it may produce a lesson for them.
+113. Thus We have revealed it an Arabic Quran, and We have diversified the warnings in it, that perhaps they would become righteous, or it may produce a lesson for them.
 
 114. <!-- Exalted is Allah, the True King. --> Do not be hasty with the Quran before its inspiration to
 you is concluded, and say, “My Lord, increase me in knowledge.”

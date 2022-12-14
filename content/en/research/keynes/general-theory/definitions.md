@@ -1,15 +1,12 @@
 ---
 title: "Definitions"
-heading: ""
 description: ""
 image: "/covers/general.jpg"
-date: 2020-01-31
-linkb: "/research/keynes/general-theory/"
-linkbtext: "Index"
-linkf: "/research/keynes/general-theory"
-linkftext: "Index"
+# date: 2020-01-31
+weight: 116
 icon: "/icons/keynes.png"
 ---
+
 
 Word | Keynesian Definition | Superphysics Definition
 --- | --- | ---  

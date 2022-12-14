@@ -2,7 +2,9 @@
 title: "Changes in Money-Wages"
 description: "The Economy is Not Self-Adjusting"
 image: "/covers/general.jpg"
-date: 2020-10-10
+# date: 2020-10-10
+weight: 84
+icon: "/icons/keynes.png"
 author: John Maynard Keynes
 ---
 

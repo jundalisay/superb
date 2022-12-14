@@ -2,7 +2,8 @@
 title: "The Importance of the Propensity to Consume"
 heading: "Chapter 8c"
 image: "/covers/general.jpg"
-date: 2020-11-25
+# date: 2020-11-25
+weight: 38
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

@@ -3,10 +3,12 @@ title: "Changes in the Quantity of Money"
 heading: "Chapter 21b"
 description: ""
 image: "/covers/general.jpg"
-date: 2020-09-28
-author: John Maynard Keynes
+# date: 2020-09-28
+weight: 96
 icon: "/icons/keynes.png"
+author: John Maynard Keynes
 ---
+
 
 
 (i) Changes in the quantity of money primarily affect effective demand through its influence on the interest rate.

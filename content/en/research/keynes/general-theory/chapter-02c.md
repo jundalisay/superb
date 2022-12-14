@@ -3,7 +3,8 @@ heading: "Chapter 2c"
 title: "Involuntary Employment"
 description: "The struggle over money-wages is often believed to determine the general level of real wages"
 image: "/covers/general.jpg"
-date: 2020-12-26
+weight: 6
+# date: 2020-12-26
 icon: "/icons/keynes.png"
 ---
 

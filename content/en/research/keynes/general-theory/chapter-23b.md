@@ -2,12 +2,11 @@
 title: "Mercantilism, Usury Laws, Stamped Money, Under-Consumption Theories"
 description: "For 200 years, people saw a national advantage in a favourable balance of trade, and grave danger in an unfavourable balance, particularly if it results in an efflux of the precious metals"
 image: "/covers/general.jpg"
-date: 2019-12-15
-linkb: "/research/keynes/general-theory/chapter-22"
-linkbtext: "chapter-22"
-linkf: "/research/keynes/general-theory/chapter-24"
-linkftext: "chapter-24"
+# date: 2019-12-15
+weight: 106
+icon: "/icons/keynes.png"
 ---
+
 
 III 
 

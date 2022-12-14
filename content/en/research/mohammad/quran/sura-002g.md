@@ -21,15 +21,13 @@ This is even if their ancestors understood nothing, and were not guided.
 
 Deaf, dumb, and blind—they do not understand.
 
-172-173. Muslims, <!--  Eat of the good things We have provided for you, and give thanks to
+
+{{< s v="172-173" >}} Muslims, <!--  Eat of the good things We have provided for you, and give thanks to
 Allah, if it is Him that you serve. --> Allah has forbidden you carrion, and blood, and the flesh of swine, and what was dedicated to other than Allah. But if anyone is compelled, without desiring or exceeding, he commits no sin.
 
-174. Those who conceal what Allah revealed in the Book, and exchange it for a small price—
-those swallow nothing but fire into their bellies. And Allah will not speak to them on the
-Day of Resurrection, nor will He purify them,
-and they will have a painful punishment.
+{{< s v="174" >}} Those who conceal what Allah revealed in the Book, and exchange it for a small price— those swallow nothing but fire into their bellies. And Allah will not speak to them on the Day of Resurrection, nor will He purify them, and they will have a painful punishment.
 
-175. It is they who exchange guidance for error, and forgiveness for punishment. But why do
+{{< s v="175" >}} It is they who exchange guidance for error, and forgiveness for punishment. But why do
 they insist on the Fire?
 
 176. That is because Allah has revealed the Book in truth; and those who differ about the
@@ -83,33 +81,28 @@ Guidance for humanity, and clear portents of guidance, and the Criterion.
 Whoever of you witnesses the month, shall fast it. But whoever is sick, or on a journey,
 then a number of other days. Allah desires ease for you, and does not desire hardship for you, that you may complete the number, and celebrate Allah for having guided you, so that you may be thankful.
 
-186. When My servants ask you about Me, I Am near; I answer the call of the caller when he calls on Me. So let them answer Me, and have faith in Me, that they may be rightly guided.
+{{< s v="186" >}} When My servants ask you about Me, I Am near; I answer the call of the caller when he calls on Me. So let them answer Me, and have faith in Me, that they may be rightly guided.
 
-187. Sex with your wives on the night of the fast is allowed. 
-
-They are a garment for you, and you are a garment for them. 
+{{< s v="187" >}} Sex with your wives on the night of the fast is allowed. 
+- They are a garment for you
+- You are a garment for them. 
 
 Allah knows that you used to betray yourselves, but He turned to you and pardoned you. 
 
-So approach them now, and seek what Allah has ordained for you, and eat and
-drink until the white streak of dawn can be
-distinguished from the black streak. 
+So approach them now, and seek what Allah has ordained for you, and eat and drink until the white streak of dawn can be distinguished from the black streak. 
 
 Then complete the fast until nightfall. 
 
 But do not approach them while you are in retreat at the mosques. 
 
-These are the limits of Allah, so do not come near them. Allah thus clarifies His
-revelations to the people, that they may attain piety.
+These are the limits of Allah, so do not come near them. Allah thus clarifies His revelations to the people, that they may attain piety.
 
-188. Do not consume one another’s wealth by unjust means, nor offer it as bribes to the officials in order to consume part of other
+{{< s v="188" >}} Do not consume one another’s wealth by unjust means, nor offer it as bribes to the officials in order to consume part of other
 people’s wealth illicitly, while you know. 
 
-189. They ask you about the crescents. Say, “They are timetables for people, and for the
-Hajj.” It is not virtuous that you approach homes from their backs, but virtue is to be pi-
+{{< s v="189" >}} They ask you about the crescents. 
+
+Say, “They are timetables for people, and for the Hajj.” It is not virtuous that you approach homes from their backs, but virtue is to be pi-
 ous. 
 
 So approach homes from their doors, and observe Allah, that you may succeed.
-
-
-

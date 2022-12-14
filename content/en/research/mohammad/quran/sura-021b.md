@@ -6,7 +6,6 @@ image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
 
-
 <!-- 48. We gave Moses and Aaron the Criterion,
 and illumination, and a reminder for the
 righteous.
@@ -67,12 +66,13 @@ good works, and to observe the prayer, and to
 give out charity. They were devoted servants
 to Us. -->
 
-74. We gave Lot judgment and knowledge. 
+{{< s v="74" >}} We gave Lot judgment and knowledge. 
 - We delivered him from the town that practiced the abominations. 
 - They were wicked and perverted people.
 - 75. We admitted him into Our mercy; for He was one of the righteous.
 
-76. We delivered Noah and his family from the great disaster.
+
+{{< s v="76" >}} We delivered Noah and his family from the great disaster.
 - 77. We supported him against the people who rejected Our signs. They were an evil people, so We drowned them all.
 
 78. And David and Solomon, when they gave judgment in the case of the field, when some people’s sheep wandered therein by night; and We were witnesses to their judgment.

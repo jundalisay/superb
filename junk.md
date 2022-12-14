@@ -4,6 +4,9 @@ Acer aspire is Intel Pentium N4200 @ 1.10GHz @ 2160 score
 
 Lenovo N4500 @ 2000 score 
 
+baccarat gil puyat 
+
+
 
 
 <html>

@@ -3,11 +3,7 @@ title: "Abraham's Submission to the Lord"
 heading: "Sura 2d of the Quran Simplified"
 date: 2022-01-27
 image: "/covers/quran.jpg"
-description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002d
-linkbtext: "Sura 2d"
-linkf: /research/mohammad/quran/sura-002f
-linkftext: "Sura 2f"
+description: "Allah talks to Abraham."
 ---
 
 

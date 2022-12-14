@@ -16,31 +16,29 @@ mate return.
 cept those who disbelieve. So do not be im-
 pressed by their activities in the land. -->
 {{< s v="5" >}}  Before them the people of Noah rejected the truth, as did the confederates after them.
-Every community plotted against their messenger, to capture him. And they argued with
-falsehood, to defeat with it the truth. But I seized them. What a punishment it was!
+
+Every community plotted against their messenger, to capture him. And they argued with falsehood, to defeat with it the truth. But I seized them. What a punishment it was!
 
 6. Thus the sentence of your Lord became realized against those who disbelieve, that they
 are to be inmates of the Fire. 
 
 7. Those who carry the Throne, and those around it, glorify their Lord with praise, and
-believe in Him, and ask for forgiveness for
-those who believe: “Our Lord, You have encompassed everything in mercy and
-knowledge; so forgive those who repent and
-follow Your path, and protect them from the
+believe in Him, and ask for forgiveness for those who believe: “Our Lord, You have encompassed everything in mercy and
+knowledge; so forgive those who repent and follow Your path, and protect them from the
 agony of the Blaze.
 
 8. And admit them, Our Lord, into the Gardens of Eternity, which You have promised
 them, and the righteous among their parents,
 and their spouses, and their offspring. You
 are indeed the Almighty, the Most Wise.
-{{< s v="9" >}}  And shield them from the evil deeds. Whomever You shield from the evil deeds,
-on that Day, You have had mercy on him.
+
+{{< s v="9" >}}  And shield them from the evil deeds. Whomever You shield from the evil deeds, on that Day, You have had mercy on him.
 That is the supreme achievement.”
-{{< s v="10" >}}  Those who disbelieved will be addressed, “The loathing of Allah is greater than your
-loathing of yourselves—for you were invited
+
+{{< s v="10" >}}  Those who disbelieved will be addressed, “The loathing of Allah is greater than your loathing of yourselves—for you were invited
 to the faith, but you refused.”
-{{< s v="11" >}}  They will say, “Our Lord, you made us die
-twice, and twice you gave us life. Now we
+
+{{< s v="11" >}}  They will say, “Our Lord, you made us die twice, and twice you gave us life. Now we
 acknowledge our sins. Is there any way out?”
 
 12. That is because when Allah alone was called upon, you disbelieved; but when others

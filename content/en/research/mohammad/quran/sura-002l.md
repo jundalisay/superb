@@ -4,10 +4,6 @@ heading: "Sura 2g of the Quran Simplified"
 date: 2022-01-20
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002f
-linkbtext: "Sura 2f"
-linkf: /research/mohammad/quran/sura-003a
-linkftext: "Sura 3a"
 ---
 
 

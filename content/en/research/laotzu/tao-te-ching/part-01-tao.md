@@ -1,14 +1,15 @@
-+++
-title= "Part 1: What is the Tao?"
-heading= "Chapters 1-9"
-date= 2021-09-28
-image= "/covers/tao.jpg"
-description= "The Tao or True Nature is nameless, non-extreme, non-dualistic"
-linkb= "/research/laotzu/tao-te-ching"
-linkbtext= "tao te ching"
-linkf= "/research/laotzu/tao-te-ching/part-02-nothingness"
-linkftext= "Nothingness"
-+++
+---
+heading: "Chapters 1-9"
+title: "Part 1: What is the Tao?"
+description: "The Tao or True Nature is nameless, non-extreme, non-dualistic"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 2
+icon: "/icons/laotzu.png"
+author: Lao Tzu
+# date= 2021-09-28
+---
+
 
 <!-- >  <ul><li>The Great Tao is simplified to the 'Brahma' to unify it with Hinduism.</li><li>The "One" is simplified to the 'Supreme Tao' which represents the superme consciousness. In this way, Brahma and the Supreme are analogous to the mind and consciousness, in the same way that a computer has a RAM and CPU</li></ul>
  -->

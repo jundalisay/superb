@@ -1,14 +1,14 @@
-+++
-title= "Part 5: The Supreme Tao or the One"
-heading= "Chapters 14, 39"
-date= 2021-09-24
-image= "/covers/tao.jpg"
-description= "The Metaphysics of the Tao or True Nature include Pranah, Aether, and the Five elements"
-linkb= "/research/laotzu/tao-te-ching/part-04-two-forces"
-linkbtext= "Yin Yang"
-linkf= "/research/laotzu/tao-te-ching/part-05-one"
-linkftext= "Brahma"
-+++
+---
+heading: "Chapters 14, 39"
+title: "Part 5: The Supreme Tao or the One"
+description: "The Metaphysics of the Tao or True Nature include Pranah, Aether, and the Five elements"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 12
+icon: "/icons/laotzu.png"
+author: Lao Tzu
+---
+
 
 
 ## Chapter 14: The Supreme Tao or the One has Physical and Metaphysical Dimensions

@@ -2,11 +2,9 @@
 title: "The Social Philosophy Arising From the General Theory"
 description: "The outstanding faults of the economy are its failure to provide for full employment and its inequality"
 image: "/covers/general.jpg"
-date: 2019-12-05
-linkb: "/research/keynes/general-theory/chapter-23"
-linkbtext: "chapter-23"
-linkf: "/research/keynes/general-theory"
-linkftext: "Index"
+# date: 2019-12-05
+weight: 112
+icon: "/icons/keynes.png"
 ---
 
 

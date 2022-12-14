@@ -4,22 +4,22 @@ heading: "Sura 3d of the Quran Simplified"
 date: 2022-01-16
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-003c
-linkbtext: "sura-003c"
-linkf: /research/mohammad/quran/sura-003e
-linkftext: "sura-003e"
 ---
 
 
-102. Muslims:
+{{< s v="102">}}  Muslims:
 - revere Allah with due reverence, and do not die except as Muslims.
 - 103. And hold fast to the rope of Allah
 - do not become divided
 - remember Allah’s blessings on you. You were enemies but He reconciled your hearts and by His grace you became brethren.
 - you were on the brink of a pit of fire, and He saved you from it. 
 
-104. And let there be among you a community calling to virtue, and advocating righteousness, and deterring from evil. 
-- Do not be like those who separated and disputed after the clear proofs came to them.
+{{< s v="104">}}  Let there be among you a community:
+- calling to virtue
+- advocating righteousness, and
+- deterring from evil. 
+
+Do not be like those who separated and disputed after the clear proofs came to them.
 
 <!-- 106. On the Day when some faces will be whitened, and some faces will be blackened. As
 for those whose faces are blackened: “Did you disbelieve after your belief?” Then taste the
@@ -32,7 +32,7 @@ justice for mankind.
 109. To Allah belongs everything in the heavens and everything on earth, and to Allah all
 events are referred. -->
 
-110. You are the best community that ever emerged for humanity
+{{< s v="110" >}}  You are the best community that ever emerged for humanity
 - You advocate what is moral, and forbid what is immoral, and believe in Allah. 
 - Had the People of the Scripture believed, it would have been better for them.
   - Among them are the believers, but most of them are sinners.

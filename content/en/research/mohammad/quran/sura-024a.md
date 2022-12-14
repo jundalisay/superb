@@ -12,13 +12,15 @@ that you may take heed.
 
 {{< s v="2" >}}  The adulteress and the adulterer—whip each one of them a hundred lashes, and let no
 pity towards them overcome you regarding Allah’s Law, if you believe in Allah and the
-Last Day. And let a group of believers witness their punishment.{{< s v="3" >}}  The adulterer shall marry none but an adulteress or an idolatress; and the adulteress
-shall marry none but an adulterer or an idolater. That has been prohibited for the believers.
-{{< s v="4" >}}  Those who accuse chaste women, then cannot bring four witnesses, whip them eighty
-lashes, and do not ever accept their testimony. For these are the immoral.
+Last Day. 
+
+Let a group of believers witness their punishment.{{< s v="3" >}}  The adulterer shall marry none but an adulteress or an idolatress; and the adulteress shall marry none but an adulterer or an idolater. That has been prohibited for the believers.
+
+{{< s v="4" >}}  Those who accuse chaste women, then cannot bring four witnesses, whip them eighty lashes, and do not ever accept their testimony. For these are the immoral. 
+
 {{< s v="5" >}}  Except for those who repent afterwards, and reform; for Allah is Forgiving and Merciful.
-6. As for those who accuse their own spouses, but have no witnesses except themselves, the
-testimony of one of them is equivalent to 4 testimonies, if he swears by Allah that he is truthful.
+
+6. As for those who accuse their own spouses, but have no witnesses except themselves, the testimony of one of them is equivalent to 4 testimonies, if he swears by Allah that he is truthful.
 
 7. And the fifth time, that Allah’s curse be upon him, if he is a liar.
 
@@ -28,20 +30,22 @@ Wise. -->
 {{< s v="11" >}}  Those who perpetrated the slander are a band of you. Do not consider it bad for you,
 but it is good for you. Each person among them bears his share in the sin. As for him
 who played the major role—for him is a terrible punishment.
-12. Why, when you heard about it, the believing men and women did not think well of one
-another, and say, “This is an obvious lie”?
+
+12. Why, when you heard about it, the believing men and women did not think well of one another, and say, “This is an obvious lie”?
 
 13. Why did they not bring four witnesses to testify to it? If they fail to bring the witnesses,
 then in Allah’s sight, they are liars. 
 
-14. Were it not for Allah’s favor upon you, and His mercy, in this world and the Hereafter,
-you would have suffered a great punishment for what you have ventured into.
-15. When you rumored it with your tongues, and spoke with your mouths what you had no
-knowledge of, and you considered it trivial; but according to Allah, it is serious.
+14. Were it not for Allah’s favor upon you, and His mercy, in this world and the Hereafter, you would have suffered a great punishment for what you have ventured into.
+
+15. When you rumored it with your tongues, and spoke with your mouths what you had no knowledge of, and you considered it trivial; but according to Allah, it is serious.
+
 {{< s v="16" >}}When you heard it, you should have said, “It is not for us to repeat this. By Your glory, this is a serious slander.”
 
 17. Allah cautions you never to return to the like of it, if you are believers.
+
 18. Allah explains the Verses to you. Allah is Knowing and Wise.
+
 19. Those who love to see immorality spread among the believers—for them is a painful punishment, in this life and in the Hereafter.
 
 
@@ -77,15 +81,9 @@ if it is said to you, “Turn back,” then turn back. That is more proper for y
 29. There is no blame on you for entering uninhabited houses, in which are belongings of
 yours. Allah knows what you reveal and what you conceal.
 
-30. Tell the believing men to restrain their looks, and to guard their privates. That is
-purer for them. Allah is cognizant of what they do.
+30. Tell the believing men to restrain their looks, and to guard their privates. That is purer for them. Allah is cognizant of what they do.
 
-31. And tell the believing women to restrain their looks, and to guard their privates, and
-not display their beauty except what is apparent thereof, and to draw their coverings over
-their breasts, and not expose their beauty except to their husbands, their fathers, their
-husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their
-sisters' sons, their women, what their right hands possess, their male attendants who
-have no sexual desires, or children who are not yet aware of the nakedness of women.
+31. Tell the believing women to restrain their looks, and to guard their privates, and not display their beauty except what is apparent thereof, and to draw their coverings over their breasts, and not expose their beauty except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, what their right hands possess, their male attendants who have no sexual desires, or children who are not yet aware of the nakedness of women.
 
 And they should not strike their feet to draw
 attention to their hidden beauty. 

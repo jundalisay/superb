@@ -29,8 +29,10 @@ Moses saw a fire so he said to his family,
 
 {{< s v="11" >}}  Then, when he reached it, It said: 
 
+{{< s v="12" >}}
+
 {{< l a="Allah" >}}
-“O Moses. 12. I am your Lord. Take off your shoes. You are in the sacred valley of Tuwa.
+I am your Lord. Take off your shoes. You are in the sacred valley of Tuwa.
 
 I have chosen you, so listen to what is revealed.
 
@@ -96,7 +98,7 @@ Do not fear, I am with you
 Tell Pharaoh `We are the messengers of your Lord; so let the Children of Israel go with us, and do not torment them.
 We bring you a sign from your Lord, and peace be upon him who follows guidance.
 
-48. It was revealed to us that the punishment falls upon him who disbelieves and turns away.'“
+48. It was revealed to us that the punishment falls upon him who disbelieves and turns away.'
 {{< /l >}}
 
 

@@ -3,7 +3,8 @@ title: "The State of Long-Term Expectation"
 heading: "Chapter 12"
 image: "/covers/general.jpg"
 description: "Keynes talks about Expectations"
-date: 2020-11-12
+# date: 2020-11-12
+weight: 52
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

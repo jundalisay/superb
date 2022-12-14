@@ -4,18 +4,14 @@ heading: "Sura 2e of the Quran Simplified"
 date: 2022-01-23
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002h
-linkbtext: "2h"
-linkf: /research/mohammad/quran/sura-002j
-linkftext: "2j"
 ---
 
 
-208. Muslims, enter into submission wholeheartedly. 
+{{< s v="208" >}} Muslims, enter into submission wholeheartedly. 
 
 Do not follow the footsteps of Satan.
 
-209. But if you slip after the proofs have come to you, know that Allah is Powerful and Wise.
+{{< s v="209" >}} But if you slip after the proofs have come to you, know that Allah is Powerful and Wise.
 
 210. Are they waiting for Allah Himself to come to them in the shadows of the clouds, together with the angels, and thus the matter is settled? 
 

@@ -3,7 +3,8 @@ title: "Expectation Determines Output and Employment"
 heading: "Chapter 5"
 description: "Keynes explains Expectation as Determining Output and Employment"
 image: "/covers/general.jpg"
-date: 2020-12-13
+# date: 2020-12-13
+weight: 20
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

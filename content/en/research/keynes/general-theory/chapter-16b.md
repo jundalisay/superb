@@ -3,7 +3,8 @@ heading: "Chapter 16"
 title: "Institutional Conditions"
 description: "individual saving is a decision not to have dinner today"
 image: "/covers/general.jpg"
-date: 2020-10-22
+# date: 2020-10-22
+weight: 72
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

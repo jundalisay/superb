@@ -2,11 +2,9 @@
 title: "Keynes' Journey"
 description: ""
 image: "/covers/general.jpg"
-date: 2019-12-09
-linkb: "/research/keynes/general-theory/chapter-23b"
-linkbtext: "chapter-23b"
-linkf: "/research/keynes/general-theory/chapter-24"
-linkftext: "chapter-24"
+# date: 2019-12-09
+weight: 110
+icon: "/icons/keynes.png"
 ---
 
 

@@ -3,7 +3,8 @@ title: "The Classical Rate of Interest"
 heading: "Chapter 14"
 image: "/covers/general.jpg"
 description: "Keynes counters the classical interest rate"
-date: 2020-11-05
+# date: 2020-11-05
+weight: 58
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

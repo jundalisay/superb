@@ -2,7 +2,8 @@
 title: "The Six Objective Factors of the Propensity to Consume"
 heading: "Chapter 8b"
 image: "/covers/general.jpg"
-date: 2020-11-28
+# date: 2020-11-28
+weight: 36
 author: John Maynard Keynes	
 icon: "/icons/keynes.png"
 ---

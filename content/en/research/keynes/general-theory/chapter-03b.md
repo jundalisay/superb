@@ -3,7 +3,8 @@ heading: "Chapter 3"
 title: "The General Theory's Propositions"
 description: "Output minus factor cost equals profit or entrepreneur's income"
 image: "/covers/general.jpg"
-date: 2020-12-21
+# date: 2020-12-21
+weight: 12
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 ---

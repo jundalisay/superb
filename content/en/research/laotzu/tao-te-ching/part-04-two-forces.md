@@ -1,15 +1,14 @@
-+++
-title= "Part 4: Creation and the Two Forces"
-heading= "Chapters 32, 6-9"
-date= 2021-09-25
-image= "/covers/tao.jpg"
-description= "The Tao or True Nature is nameless, non-extreme, non-dualistic"
-linkb= "/research/laotzu/tao-te-ching/part-03-perfection"
-linkbtext= "Perfection"
-linkf= "/research/laotzu/tao-te-ching/part-05-one"
-linkftext= "The One"
-icon = "/icons/laotzu.png"
-+++
+---
+heading: "Chapters 32, 6-9"
+title: "Part 4: Creation and the Two Forces"
+description: "The Process of Creation"
+image: "/covers/tao.jpg"
+# date: 2020-01-29
+weight: 10
+icon: "/icons/laotzu.png"
+author: Lao Tzu
+---
+
 
 
 ## Chapter 32: The Process of Creation

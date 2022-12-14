@@ -2,11 +2,9 @@
 title: "Silvio Gesell"
 description: "Silvio Gesell (1862-1930) is an unduly neglected prophet. His work has flashes of deep insight. He only just failed to reach down to the essence of the matter"
 image: "/covers/general.jpg"
-date: 2019-12-10
-linkb: "/research/keynes/general-theory/chapter-23"
-linkbtext: "chapter-23"
-linkf: "/research/keynes/general-theory/chapter-23c"
-linkftext: "chapter-23c"
+# date: 2019-12-10
+weight: 108
+icon: "/icons/keynes.png"
 ---
 
 

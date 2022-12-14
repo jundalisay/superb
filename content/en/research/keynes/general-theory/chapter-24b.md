@@ -3,10 +3,12 @@ heading: "Chapter 24b"
 title: "Involuntary Employment"
 description: "The struggle over money-wages is often believed to determine the general level of real wages"
 image: "/covers/general.jpg"
-date: 2020-01-29
-author: John Maynard Keynes
+# date: 2020-01-29
+weight: 114
 icon: "/icons/keynes.png"
+author: John Maynard Keynes
 ---
+
 
 
 My theory:

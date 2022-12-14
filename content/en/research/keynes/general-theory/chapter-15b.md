@@ -3,7 +3,8 @@ title: "Open Market Operations"
 heading: "Chapter 15b"
 description: "Keynes explains Open Market Operations"
 image: "/covers/general.jpg"
-date: 2020-10-28
+# date: 2020-10-28
+weight: 66
 author: John Maynard Keynes
 icon: "/icons/keynes.png"
 # linkbook= https://play.google.com/store/books/details/Juan_Dalisay_Jr_The_Simple_Wealth_of_Nations_by_Ad?id=BjnPDwAAQBAJ
