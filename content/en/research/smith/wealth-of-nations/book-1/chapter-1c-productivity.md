@@ -1,7 +1,8 @@
 ---
 title: "Productivity from the Division of Labor"
-heading: "Chapter 1c of Book 1"
-date: 2020-01-28
+heading: "Chapter 1c"
+weight: 10
+author: Adam Smith"
 image: "/covers/wn.jpg"
 description: "The division of labour greatly increases productivity"
 icon: "/icons/smith.png"

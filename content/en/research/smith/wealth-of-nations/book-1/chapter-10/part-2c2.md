@@ -1,7 +1,8 @@
 ---
 title: "Inequality from Wage Controls"
-heading: "Part 2c2 of Chapter 10 of Book 1"
-date: 2020-01-20
+heading: "Part 2c2 of Chapter 10"
+weight: 74
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/icons/smith.png"

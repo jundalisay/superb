@@ -1,14 +1,14 @@
-+++
-title=  "The Principles of Philosophical Enquiries"
-# heading=  Illustrated By The History Of The Ancient Logics And Metaphysics
-description=  "Smith explains the different philosophies"
-date=  2015-09-09
-image=  "/covers/philo.jpg"
-linkb=  "/research/smith/philosophy/"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/philosophy/chapter-2"
-linkftext=  "Chapter 2"
-+++
+---
+title: "The Principles of Philosophical Enquiries"
+heading: "Chapter 1"
+# date: 2020-01-31
+image: "/covers/philo.jpg"
+description: "Smith explains the different philosophies"
+icon: "/icons/smith.png"
+author: Adam Smith
+weight: 10
+---
+
 
 In the first ages of society before the establishment of law, order, and security, people are not so curious to find out those hidden chains of events which bind together the seemingly disjointed appearances of nature.
 

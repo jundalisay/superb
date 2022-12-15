@@ -1,7 +1,8 @@
 ---
 title: "Profit and Wage Inequality from Economic Policy"
-heading: "Part 2a of Chapter 10 of Book 1"
-date: 2020-01-20
+heading: "Part 2a of Chapter 10"
+weight: 66
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "University Apprenticeships reduce competition and create Inequality"
 icon: "/icons/smith.png"

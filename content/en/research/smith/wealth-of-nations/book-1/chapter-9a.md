@@ -1,7 +1,8 @@
 ---
 title: "Profits"
-heading: "Chapter 9a of Book 1"
-date: 2020-01-14
+heading: "Chapter 9a"
+weight: 48
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Interest is the Best Indicator of Profits"
 icon: "/icons/smith.png"

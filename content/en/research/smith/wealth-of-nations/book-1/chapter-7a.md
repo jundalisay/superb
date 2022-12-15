@@ -1,7 +1,8 @@
 ---
 title: "The Natural and Market Price of Commodities"
-heading: Chapter 7a of Book 1
-date: 2020-01-21
+heading: Chapter 7a
+weight: 32
+author: Adam Smith21
 image: "/covers/wn.jpg"
 description: "In the rude state, price has one component--wages"
 icon: "/icons/smith.png"

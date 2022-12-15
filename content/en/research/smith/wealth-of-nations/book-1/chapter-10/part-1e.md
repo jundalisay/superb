@@ -1,7 +1,8 @@
 ---
 title: "How to Create Equality in Wages and Profits"
 heading: "Part 1e of Chapter 10 of Book 1"
-date: 2020-01-23
+weight: 64
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/icons/smith.png"

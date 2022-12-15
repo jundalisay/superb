@@ -1,7 +1,8 @@
 ---
 title: "The Origin and Use of Money"
-heading: "Chapter 4a of Book 1 "
-date: 2020-01-26
+heading: "Chapter 4a"
+weight: 16
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Money was invented to facilitate trade"
 icon: "/icons/smith.png"

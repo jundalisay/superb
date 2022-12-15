@@ -4,7 +4,8 @@ title: "The Theory of Moral Sentiments Simplified"
 linkTitle: The Theory of Moral Sentiments
 description: "In order to easily navigate the Theory of Moral Sentiments, we've simplified it according to bullet-style writing. This simplified version aims to guide decision-makers faced with moral dilemmas so that their decisions will more likely benefit society instead of causing harm. The main difference between our moral system from those of Kantianism, Objectivism, Utilitarianism, Christianity, Islam, etc. is that ours is based on feelings, as stated by David Hume"
 image: /covers/tms.jpg
-date: 2022-04-23
+weight: 12
+# date: 2022-04-23
 ---
 
 

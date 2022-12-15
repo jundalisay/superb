@@ -1,10 +1,10 @@
 ---
 title: "Advancing, Stagnating, Reversing Movement"
-heading: Chapter 8b of Book 1
-date: 2020-01-18
+heading: Chapter 8b
+weight: 40
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "High prices are caused by monopolies"
-author: "Adam Smith"
 icon: "/icons/smith.png"
 ---
 

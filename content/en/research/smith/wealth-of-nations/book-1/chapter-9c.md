@@ -1,11 +1,13 @@
 ---
 title: "The Effect of Maximum Population and Maximum Stocks"
-heading: "Chapter 9b of Book 1"
-date: 2020-01-13
+heading: "Chapter 9b"
+weight: 52
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "A country at maximum population would have so much competition for employment. Wages would be reduced to bare sufficiency, preventing the population from increasing."
 icon: "/icons/smith.png"
 ---
+
 
 
 {{< s v="14" >}} Wages and profits would be very low in a country:

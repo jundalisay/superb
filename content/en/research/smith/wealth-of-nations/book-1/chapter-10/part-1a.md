@@ -1,7 +1,8 @@
 ---
 title: "Agreeableness or cost of job"
-heading: "Part 1a of Chapter 10 of Book 1"
-date: 2020-01-31
+heading: "Part 1a of Chapter 10"
+weight: 56
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "There are five factors affecting the differences in profits and wages"
 icon: "/icons/smith.png"

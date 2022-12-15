@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 5"
 title: "Glasgow Professor"
-date: 2015-09-18
+# date: 2015-09-18
 image: /covers/life.jpg
 description: "In 1750, Smith was appointed as Professor of Logic in Glasgow College. He began 13 years of active academic work"
 author: Rae
+weight: 22
 ---
 
 
@@ -24,14 +25,18 @@ He was elected on January 9, 1751.
 - He signed the Westminster Confession of Faith before the Presbytery of Glasgow.
 - He took the usual oath De fideli to the University authorities.
 
-But he did not begin work until the opening of the next session in October.
-His engagements in Edinburgh did not permit him to undertake his duties in Glasgow earlier.
+But he did not begin work until the opening of the next session in October. His engagements in Edinburgh did not permit him to undertake his duties in Glasgow earlier.
+
 Dr. Hercules Lindsay was Smith’s substitute from the start of January until the end of June, with the Senatus’ sanction.
 Dr. Lindsay was the Professor of Jurisprudence.
+
 During this interval, Smith went to Glasgow repeatedly to attend meetings of the Senatus.
+
 But he did not give any lectures to the students.
+
 If he was relieved of his duties in the summer, he worked double tides during the winter.
 Besides the work of his own class, he worked with Professor Craigie of the Moral Philosophy chair.
+
 Professor Craigie was laid aside by ill health.
 He died a few weeks after the session’s start.
 In both the classrooms, he was able to use the courses of lectures he had already delivered in Edinburgh.

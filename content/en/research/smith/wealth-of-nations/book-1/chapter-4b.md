@@ -1,7 +1,8 @@
 ---
 heading: "Chapter 2a of Book 1 "
 title: "The Origin of Coinage"
-date: 2020-01-29
+weight: 18
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The difficulty of weighing metals led to coinage"
 icon: "/icons/smith.png"

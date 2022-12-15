@@ -1,7 +1,8 @@
 ---
 title: "Trust and Risk"
-heading: "Part 1c of Chapter 10 of Book 1"
-date: 2020-01-27
+heading: "Part 1c of Chapter 10"
+weight: 60
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/icons/smith.png"

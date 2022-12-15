@@ -2,7 +2,8 @@
 title: "Last Year In Glasgow"
 linkTitle: "Chapter 11"
 description: "Smith wrote the following letter to Mr. Baird"
-date: 2015-09-06
+# date: 2015-09-06
+weight: 34
 author: "Rae"
 image: "/covers/life.jpg"
 ---

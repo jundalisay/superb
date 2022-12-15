@@ -2,7 +2,8 @@
 title: "Smith Back in Kirkcaldy"
 linkTitle: "Chapter 16"
 description: "When Smith left Glasgow, his mother and cousin went back again to Kirkcaldy"
-date: 2015-08-26
+# date: 2015-08-26
+weight: 44
 author: "Rae"
 image: "/covers/life.jpg"
 ---

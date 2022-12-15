@@ -1,7 +1,8 @@
 ---
 heading: Introduction
 title: "Introduction and Plan of the Work"
-date: 2020-09-30
+# date: 2020-09-30
+weight: 1
 image: "/covers/wn.jpg"
 description: "The work of every nation is the fund which originally supplies it with all the necessaries and conveniencies of life"
 icon: "/icons/smith.png"

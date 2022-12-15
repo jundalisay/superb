@@ -1,7 +1,8 @@
 ---
 title: "Monopolies Through Secrets in Trade and Manufactures"
-heading: Chapter 7b of Book 1
-date: 2020-01-20
+heading: Chapter 7b
+weight: 34
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "High prices are caused by monopolies"
 icon: "/icons/smith.png"

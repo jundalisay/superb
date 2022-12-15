@@ -1,7 +1,8 @@
 ---
 title: "Rent, Wages, and Labor"
-heading: "Chapter 6b of Book 1"
-date: 2020-01-22
+heading: "Chapter 6b"
+weight: 30
+author: Adam Smith22
 image:  "/covers/wn.jpg"
 description: "In the rude state, price has one component--wages"
 icon: "/icons/smith.png"

@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 6"
 title: "College Administrator"
-date: 2015-09-16
+# date: 2015-09-16
 image: /covers/life.jpg
 description: "A common misconception was that Smith was helpless in business"
 author: Rae
+weight: 24
 ---
 
 

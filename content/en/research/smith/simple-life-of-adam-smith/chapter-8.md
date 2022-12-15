@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 8"
 title: "Edinburgh Activities"
-date: 2015-09-12
+# date: 2015-09-12
 image: /covers/life.jpg
 description: "Adam Smith's Activities in Edinburgh"
 author: Rae
+weight: 28
 ---
 
 

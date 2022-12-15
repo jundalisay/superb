@@ -1,7 +1,8 @@
 ---
 title: "Wages"
-heading: Chapter 8a of Book 1
-date: 2020-01-19
+heading: Chapter 8a
+weight: 36
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "High prices are caused by monopolies"
 icon: "/icons/smith.png"

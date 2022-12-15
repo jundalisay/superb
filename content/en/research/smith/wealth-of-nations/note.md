@@ -1,6 +1,7 @@
 ---
 title: "Simplification Notes"
 date: 2020-01-31
+weight: 100
 image: "/covers/wn.jpg"
 description: ""
 icon: "/icons/smith.png"

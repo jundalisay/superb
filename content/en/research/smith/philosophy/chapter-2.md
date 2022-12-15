@@ -1,14 +1,14 @@
-+++
-title=  "The Principles of Philosophical Enquiries"
-# heading=  Illustrated By The History Of The Ancient Logics And Metaphysics
-description=  "Adam Smith explains the philosophies of Plato and Aristotle"
-date=  2015-09-09
-image=  "/covers/philo.jpg"
-linkb=  "/research/smith/philosophy/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/philosophy/chapter-3"
-linkftext=  "Chapter 3"
-+++
+---
+title: "The philosophies of Plato and Aristotle"
+heading: "Chapter 2"
+# date: 2020-01-31
+image: "/covers/philo.jpg"
+description: "Adam Smith explains the philosophies of Plato and Aristotle"
+icon: "/icons/smith.png"
+author: Adam Smith
+weight: 12
+---
+
 
 Philosophy first became known to the world via Socrates’ school from Plato and Aristotle. They consolidated the former systems, which were consistent with their own general principles to make their own systems.
 

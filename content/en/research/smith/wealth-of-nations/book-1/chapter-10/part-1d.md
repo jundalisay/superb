@@ -1,14 +1,14 @@
 ---
 title: "Inequalities in Wholesale and Retail Trade"
-heading: "Part 1d of Chapter 10 of Book 1"
-date: 2020-01-25
+heading: "Part 1d of Chapter 10"
+weight: 62
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The chance of loss is frequently under-valued and rarely valued more than it is worth"
 icon: "/icons/smith.png"
 ---
 
 <!-- # heading=  "Chapter 10, Part 1d=  Profit and wage inequality in different Occupations and Businesses" -->
-
 
 
 ## Wages in the Pharmaceutical Industry [Apothecaries]

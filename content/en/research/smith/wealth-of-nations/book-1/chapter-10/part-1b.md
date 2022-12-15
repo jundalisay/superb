@@ -1,7 +1,8 @@
 ---
 title: "Inequality from Constancy"
-heading: "Part 1b of Chapter 10 of Book 1"
-date: 2020-01-30
+heading: "Part 1b of Chapter 10"
+weight: 58
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Wages vary with the constancy or inconstancy of employment"
 icon: "/icons/smith.png"

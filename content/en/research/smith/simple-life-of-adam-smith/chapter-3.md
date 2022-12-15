@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 3"
 title: "At Oxford"
-date: 2015-09-26
+# date: 2015-09-26
 image: /covers/life.jpg
 description: "Smith left Scotland for Oxford in June 1740, riding the whole way on horseback"
 author: Rae
+weight: 16
 ---
 
 

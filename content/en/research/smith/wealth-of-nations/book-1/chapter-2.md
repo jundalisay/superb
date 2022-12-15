@@ -1,7 +1,8 @@
 ---
 title: "The Cause of the Division of Labour"
-heading: "Chapter 2 of Book 1 "
-date: 2020-01-28
+heading: "Chapter 2"
+weight: 12
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The Propensity to Trade, Arising from Reason and Speech, Creates the Division of Labour"
 icon: "/icons/smith.png"

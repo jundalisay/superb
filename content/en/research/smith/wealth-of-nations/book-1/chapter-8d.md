@@ -1,10 +1,10 @@
 ---
 title: "Poverty"
 heading: Chapter 8d of Book 1
-date: 2020-01-16
+weight: 44
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Wages in Great Britain"
-author: "Adam Smith"
 icon: "/icons/smith.png"
 ---
 

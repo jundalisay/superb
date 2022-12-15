@@ -1,10 +1,10 @@
 ---
 title: "Wages in Great Britain"
-heading: Chapter 8c of Book 1
-date: 2020-01-17
+heading: Chapter 8c
+weight: 42
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Wages in Great Britain"
-author: "Adam Smith"
 icon: "/icons/smith.png"
 ---
 

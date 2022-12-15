@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 4"
 title: "Lecturer at Edinburgh"
-date: 2015-09-22
+# date: 2015-09-22
 image: /covers/life.jpg
 description: "Smith as Lecturer at Edinburgh"
 author: Rae
+weight: 18
 ---
 
 

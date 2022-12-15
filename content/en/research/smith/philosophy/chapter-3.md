@@ -1,16 +1,15 @@
-+++
-title=  "The Problems with Aristotle and the Stoics"
-# heading=  Illustrated By The History Of The Ancient Logics And Metaphysics
-description=  "Smith explains the errors of Aristotle"
-date=  2015-09-09
-image=  "/covers/philo.jpg"
-# image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/philosophy/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/philosophy"
-linkftext=  "Index"
-# btext=  Chapter 3
-+++
+---
+title: "The Problems with Aristotle and the Stoics"
+heading: "Chapter 3"
+# date: 2020-01-31
+image: "/covers/philo.jpg"
+description: "Adam Smith explains the errors of Aristotle"
+icon: "/icons/smith.png"
+author: Adam Smith
+weight: 14
+---
+
+
 
 There is a natural notion that those things, out of which any object is composed, must exist antecedent to that object.
 

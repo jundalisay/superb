@@ -1,10 +1,10 @@
 ---
 title: "The Component Parts of the Price of Commodities"
 heading: "Chapter 6a of The Wealth of Nations by Adam Smith Simplified"
-date: 2020-01-22
+weight: 28
+author: Adam Smith
 image: /covers/wn.jpg
 description: "In the rude state, price has one component--wages"
-author: Adam Smith
 icon: /icons/smith.png
 ---
 
