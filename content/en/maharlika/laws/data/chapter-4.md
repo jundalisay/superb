@@ -3,7 +3,7 @@ heading: "Chapter 4"
 title: "Rights Of The Data Subject"
 description: "Simplified Data Privacy Act 2012 Philippines"
 image: "/photos/balancerock.jpg"
-date: 2021-09-30
+weight: 6
 ---
 
 

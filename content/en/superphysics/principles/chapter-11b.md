@@ -4,6 +4,7 @@ date: 2015-08-17
 image: "https://sorasystem.sirv.com/photos/grav.jpg"
 description: "Everything is a Mind"
 author: Juan
+weight: 42
 icon: /icons/sp.png
 draft: true
 ---

@@ -1,14 +1,10 @@
 ---
 # heading: "Yogic Treatments and Natural Remedies"
 title: "PROUT Questions and Answers"
-date: 2022-01-31
+weight: 1
 author: "PR Sarkar"
-description: ""
+description: "Human longings are countless, and heterogeneous. But human abilities are limited in many respects"
 image: "/covers/prout.png"
-linkb: "/research/sarkar/prout/"
-linkbtext: "Index"
-linkf: "/research/sarkar/prout/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 

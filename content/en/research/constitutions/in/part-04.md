@@ -1,7 +1,7 @@
 ---
 title: "Directive Principles Of State Policy"
 heading: "Articles 36-"
-date: 2021-11-23
+weight: 1
 image: "/flags/in.png"
 description: "The Indian citizen is every person who has his domicile in the territory of India"
 icon: /flags/in.png

@@ -2,9 +2,10 @@
 title: "Age As Indicated On The Lines"
 heading: "Chapter 4 of Part 2"
 # date: 2021-11-20
-date: 2020-01-17
+weight: 14
 image: "/photos/objects/hand.jpg"
 description: "As age comes on the skin grows less fresh looking, takes on a satiny, glossy appearance, and gets darker, often becoming brown in spots"
+author: William Benham
 ---
 
 

@@ -1,22 +1,18 @@
 ---
 title: "Citizens and Residents"
 heading: "Chapter 10"
-date: 2021-11-20
+weight: 1
 image: "/flags/id.png"
 description: ""
-linkb: /research/constitutions/id
-linkbtext: "constitutions"
-linkf: /research/constitutions/id
-linkftext: "constitutions"
 icon: /flags/id.png
 ---
 
-Chapter X. Citizens and Residents
+## Chapter 10. Citizens and Residents
 
 <!-- Requirements for birthright citizenship -->
 
 
-Article 26
+### Article 26
 
 1. Citizens shall consist of indigenous Indonesian peoples and persons of foreign origin who have been legalised as citizens in accordance with law.
 

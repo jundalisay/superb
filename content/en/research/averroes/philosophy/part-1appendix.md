@@ -3,6 +3,7 @@ heading: Part 1 Appendix
 title: "The Problem Of Eternal Knowledge"
 author: Averroes
 description: ""
+weight: 4
 image: "/covers/averroes.jpg"
 ---
 

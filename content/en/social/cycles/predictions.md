@@ -4,16 +4,11 @@ heading: "So far so good"
 date: 2021-07-27
 image: "/photos/objects/king.jpg"
 description: "We list the Successes and Failures of our social cycles predictions, derived from Socrates"
-linkf: "/social/cycles/russia"
-linkftext: "Russia"
-linkb: "/social/cycles/palestine"
-linkbtext: "Palestine"
-btext: View cycle
-author: Juan
 icon: /icons/ss.png
 aliases:
   /social/cycles/predictions
 ---
+
 
 {{< q a="Confucius" >}}
 Tsz-chang asked: Is it possible to forecast the state of the country 10 generations from now?<br><br>Confucius: The Yin dynasty adopted the rules and manners of the Hu line of kings. It is possible to tell whether it retrograded or advanced. The Chow line has followed the Yin and adopted its ways. Whether there has been deterioration or improvement may also be determined.  Some other line may take up in turn those of Chow. If this process goes on for 100 generations, then the result may be known.

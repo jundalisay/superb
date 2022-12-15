@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies for Hemorrhoids (Piles)"
-date: 2021-12-28
+weight: 1
 author: "PR Sarkar"
 description: "Constipation due to the defective functioning of the liver is the main cause of piles, but generally no serious ailment can develop for one reason only"
 image: "/photos/med/syph.jpg"

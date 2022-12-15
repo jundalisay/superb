@@ -1,6 +1,6 @@
 ---
 title: "Part 12"
-date: 2022-08-26
+weight: 1
 description: "The knowledge which respects the faculties of the mind of man is of 2 kinds"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

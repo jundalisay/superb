@@ -2,9 +2,10 @@
 title: "The Lines of Influence"
 heading: "Chapter 8b Part 2"
 # date: 2021-11-20
-date: 2019-12-29
+weight: 48
 image: "/photos/objects/hand.jpg"
 description: "These tell about factors outside of the subject himself, forming a part of his environment"
+author: William Benham
 ---
 
 

@@ -1,9 +1,10 @@
 ---
-heading: "Part 8 of Book 4"
+heading: "Part 8"
 title: "The Contradictions of Heraclitus"
-date: 2020-09-27
+weight: 14
 image: "/covers/meta.jpg"
 description: "The one-sided theories which some people express about all things cannot be valid."
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

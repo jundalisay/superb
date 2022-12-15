@@ -1,33 +1,28 @@
 ---
 title: "General Provisions On The Charter's Interpretation And Application"
 heading: "Title 6"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Everyone is equal before the law"
-linkb: /research/constitutions/eu/part-2/title-5
-linkbtext: "Title 5"
-linkf: /research/constitutions/eu/part-2/title-7
-linkftext: "Title 7"
 icon: /flags/eu.png
 ---
 
  
-Article 51
+## Article 51
 
 Field of application
 
-1. The provisions of this Charter are addressed to the institutions, bodies, offices and agencies of
-the Union with due regard for the principle of subsidiarity and to the Member States only when they
-are implementing Union law. They shall therefore respect the rights, observe the principles and
-promote the application thereof in accordance with their respective powers and respecting the
-limits of the powers of the Union as conferred on it in the Treaties.
-2. The Charter does not extend the field of application of Union law beyond the powers of
-the Union or establish any new power or task for the Union, or modify powers and tasks as
-defined in the Treaties.
+1. The provisions of this Charter are addressed to the institutions, bodies, offices and agencies of the Union with due regard for the principle of subsidiarity and to the Member States only when they are implementing Union law. 
 
-Article 52
+They shall therefore respect the rights, observe the principles and promote the application thereof in accordance with their respective powers and respecting the limits of the powers of the Union as conferred on it in the Treaties.
+
+2. The Charter does not extend the field of application of Union law beyond the powers of the Union or establish any new power or task for the Union, or modify powers and tasks as defined in the Treaties.
+
+
+## Article 52
 
 Scope and interpretation of rights and principles
+
 1. Any limitation on the exercise of the rights and freedoms recognised by this Charter must be
 provided for by law and respect the essence of those rights and freedoms. Subject to the principle of
 proportionality, limitations may be made only if they are necessary and genuinely meet objectives of

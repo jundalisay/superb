@@ -1,7 +1,7 @@
 ---
 title: "Chalukya India (Nanpi)"
 heading: "Chapter 16"
-date: 2022-01-12
+weight: 20
 description: "Chalukya India is in the extreme southwest of Canton. It can be reached from Palembang in a little more than a month"
 image: "/flags/in.png"
 author: "Chau Ju Kua"

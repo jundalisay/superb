@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 18"
 title: "SOME CONDENSED WORDS"
-date: 2022-01-31
+weight: 32
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"

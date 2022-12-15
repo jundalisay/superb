@@ -1,7 +1,7 @@
 ---
 title: "The Quest of Socrates"
 heading: "Chapter 7"
-date: 2015-09-23
+weight: 16
 image: "/covers/phaedo.jpg"
 description: "The brain may be the originating power of hearing, sight, and smell. Memory and opinion may come from them. Science may be based on memory and opinion when they have attained fixity"
 icon: "/icons/socrates.png"

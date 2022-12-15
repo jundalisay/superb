@@ -2,9 +2,12 @@
 heading: "Chapter 24b"
 title: "Female Luna Troubles"
 description: "Female troubles create a disturbance of the mind"
-date: 2020-01-17
+weight: 128
 image: "/photos/objects/hand.jpg"
+author: William Benham
 ---
+
+
 
 ## Women
 

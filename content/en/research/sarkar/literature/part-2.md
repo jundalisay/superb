@@ -1,7 +1,7 @@
 ---
 title: "Art and Literature"
 heading: "Part 2"
-date: 2021-11-28
+weight: 1
 image: "/covers/discourses.jpg"
 description: "Most of Sáhitya today is mere composition, not literature"
 icon: "/icons/sarkar.png"

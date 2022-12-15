@@ -1,7 +1,7 @@
 ---
 # heading: "Yogic Treatments and Natural Remedies"
 title: "The Rule of Rationality"
-date: 2022-01-20
+weight: 1
 author: "PR Sarkar"
 description: "Our PROUT must be propagated throughout this universe, especially on Earth"
 image: "/covers/prout.png"

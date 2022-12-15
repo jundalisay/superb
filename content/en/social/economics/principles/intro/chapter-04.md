@@ -1,9 +1,10 @@
 ---
 heading: "Chapter 4"
 title: "The Four Laws of Exchangeable Value"
-date: 2022-03-26
+# date: 2022-03-26
 image: /covers/econsp.jpg
-image: /graphics/econ/law1.jpg
+weight: 12
+# image: /graphics/econ/law1.jpg
 description: "Unlike Economics, Superphysics takes into account cultural value and sentimental value. There are other values like environmental value, historical value, moral value, etc. which will be explained in future editions."
 author: Dalisay
 ---

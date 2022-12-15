@@ -1,18 +1,14 @@
-+++
-title= "Pythagoras' Political Contributions"
-date= 2015-09-13
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-26"
-linkbtext= "Chapter 26"
-linkf= "/research/pythagoras/life/chapter-28"
-linkftext= "chapter-28"
-heading= "Chapter 27"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagoras' Political Contributions"
+heading: "Chapter 26"
+weight: 36
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Nutrition greatly contributes to the best discipline when properly used"
+icon: "/icons/py.png"
+---
+
+
 
 The Crotonians used to be impelled to make sumptuous funerals and interments. 
 

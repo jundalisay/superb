@@ -1,12 +1,12 @@
 ---
 heading: "Chapter 5"
 title: "Producer's & Consumer's Surplus and Deadweight Loss"
-# date: 2019-06-17
-date: 2022-01-23
+date: 2019-06-17
+weight: 20
 image: "/charts/econ/prod.png"
 description : "The Producer’s & Consumer’s Surplus and Deadweight Loss in Economics is very different from the ones of Superphysics"
 heading: Economics vs Superphysics
-author: Juan
+author: Juan Dalisay Jr
 icon: /icons/pantry.png
 aliases:
   /social/economics/fallacies/surplus

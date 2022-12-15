@@ -7,6 +7,7 @@ image: "/covers/spblack.jpg"
 description: "The Kepler Tensor plot movements in space or no-space according to universal relativity."
 linkTitle: "Kepler Tensor"
 author: Juan
+weight: 12
 icon: /icons/spmat.png
 aliases:
   /principles/material/principles/kepler-tensor

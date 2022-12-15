@@ -1,7 +1,7 @@
 ---
 title: "Cerebral and Extra-Cerebral Memory"
 heading: "Chapter 4b"
-date: 2021-11-22
+weight: 1
 image: "/covers/discourses.jpg"
 description: "“The re-creation of things already perceived by the mind is called memory"
 icon: "/icons/sarkar.png"

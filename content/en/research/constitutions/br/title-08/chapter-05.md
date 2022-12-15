@@ -1,7 +1,7 @@
 ---
 title: "Social Communication"
 heading: "Chapter 5"
-date: 2021-11-20
+weight: 28
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

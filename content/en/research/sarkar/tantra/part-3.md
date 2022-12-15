@@ -1,7 +1,7 @@
 ---
 title: "Tantra in Bengal"
 heading: "Part 3"
-date: 2021-11-10
+weight: 1
 image: "/covers/discourses.jpg"
 description: "Tantra flourished in Bengal due to the pervasive intermixture of Dravidian and Mongolian blood."
 icon: "/icons/sarkar.png"

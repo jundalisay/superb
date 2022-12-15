@@ -5,6 +5,7 @@ image: /photos/wtf.jpg
 description: "We explain the meaning of common fallacies by removing the jargon"
 heading: Chapter 11b
 author: Juan
+weight: 44
 icon: /icons/sp.png
 aliases:
   /superphysics/fallacies/red-herring

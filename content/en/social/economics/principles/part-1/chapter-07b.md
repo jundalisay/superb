@@ -2,10 +2,11 @@
 heading: "Chapter 7b"
 title: "How Profit Maximization Disrupted The Natural Balance of Economies"
 # date: 2022-03-27
-date: 2022-08-08
+weight: 30
+# date: 2022-08-08
 image: /photos/buy.jpg
 description: ""
-author: Dalisay
+author: Juan Dalisay Jr
 ---
 
 

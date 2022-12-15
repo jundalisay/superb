@@ -1,8 +1,7 @@
 ---
 heading: "Chapter 11"
 title: "Communism, Shariah, Inca System"
-# date: 2022-03-27
-# date: 2022-12-18
+weight: 44
 date: 2021-12-12
 image: /covers/econsp.jpg
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: "Afghanistan"
 heading: "Chapter 32-33"
-date: 2021-12-24
+weight: 40
 description: "Ghazni is reached from Malopa in 120 stages. It is in the northwest and is exceptionally cold. The winter's snow does not melt until the spring."
 image: "/flags/af.png"
 author: "Chau Ju Kua"

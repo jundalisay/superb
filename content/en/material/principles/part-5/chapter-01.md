@@ -6,6 +6,7 @@ image: /photos/objects/engine.jpg
 # image: https://sorasystem.sirv.com/photos/egg.jpg
 description: "The material layer is the final layer in the journey of dynamic energy and entropy towards stasis"
 linkTitle: "Material Layer"
+weight: 14
 author: Juan
 icon: /icons/spmat.png
 aliases:

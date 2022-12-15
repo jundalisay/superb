@@ -1,7 +1,7 @@
 ---
 title: "Socrates in Prison"
 # heading= "The Simple Phaedo by Plato"
-date: 2015-09-30
+weight: 4
 image: "/covers/phaedo.jpg"
 description: "'If one of your own possessions, such as an ox killed itself without your permission then you would be angry with him. You would punish him if you could. And so a man should wait, and not take his own life until God summons him, as he is now summoning me.'"
 icon: "/icons/socrates.png"
@@ -11,7 +11,7 @@ icon: "/icons/socrates.png"
 Persons Of The Dialogue:
 
 | Phaedo, the narrator of the dialogue to Echecrates of Phlius | ![](/avatars/g1.jpg) |
-| +++ | +++ |
+| --- | --- |
 | Echecrates | ![Echecrates avatar](/avatars/g1.jpg) |
 | Socrates | ![Socrates avatar](/avatars/g2.jpg) |
 | Apollodorus | ![Apollodorus avatar](/avatars/g3.jpg) |
@@ -21,6 +21,7 @@ Persons Of The Dialogue:
 | Attendant of the Prison | ![Attendant avatar](/avatars/g1.jpg) |
 | Scene | The Prison of Socrates |
 | Place of Narration | Phlius |
+
 
 {{< r a="Echecrates" >}}
 Were you yourself in the prison with Socrates on the day when he drank the poison?

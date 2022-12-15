@@ -1,7 +1,7 @@
 ---
 heading: "Part 5"
 title: "The Four Drives"
-date: 2021-11-11
+weight: 1
 author: "PR Sarkar"
 description: ""
 image: "/covers/discourses.jpg"

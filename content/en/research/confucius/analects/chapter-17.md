@@ -2,7 +2,8 @@
 heading: "Chapter 17"
 title: "Nature and Habit"
 description: "Nature and Habit"
-date: 2020-01-06
+weight: 38
+author: Confucius
 image: "/covers/analects.png"
 ---
 

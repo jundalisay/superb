@@ -1,7 +1,7 @@
 ---
 title: "Bacon's System"
 heading: Chapter 5
-date: 2022-01-05
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

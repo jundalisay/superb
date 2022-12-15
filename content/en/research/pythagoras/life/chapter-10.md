@@ -1,7 +1,7 @@
 ---
 title: "The Policies for Boys"
 heading: "Chapter 10"
-date: 2015-09-20
+weight: 14
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: "Criminals By Habit"
 heading: "Part 2"
-date: 2021-11-26
+weight: 6
 image: "/covers/discourses.jpg"
 description: "Ordinary people manage to keep their base propensities under control through internal moral reasoning"
 icon: "/icons/sarkar.png"

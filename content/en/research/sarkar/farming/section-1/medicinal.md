@@ -1,7 +1,7 @@
 ---
 title: "Medicinal Plants"
 # heading: "Chapter 1 of Yoga Sutras Simplified"
-date: 2022-01-31
+weight: 20
 author: "PR Sarkar"
 description: "Numerous plants have known medicinal value"
 image: "/covers/farming.jpg"

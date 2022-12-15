@@ -1,7 +1,7 @@
 ---
 title: "Proper Music"
 heading: Chapter 2 of Book 3
-date: 2020-09-28
+weight: 8
 description: "The State should promote proper Music, not sad nor fearful"
 image: "/covers/republic.jpg"
 icon: "/icons/soc.png"

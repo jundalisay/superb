@@ -1,7 +1,8 @@
 ---
 heading: "Chapter 2b"
 title: "Stores of Value"
-date: 2022-08-25
+weight: 14
+# date: 2022-08-25
 image: /covers/econsp.jpg
 description: ""
 author: Dalisay

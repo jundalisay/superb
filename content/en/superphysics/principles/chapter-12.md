@@ -6,6 +6,7 @@ date: 2020-11-05
 image: /photos/tech/ai.jpg
 description: "AI is autonomous and not artificial because it is derived from natural intelligence"
 author: Juan
+weight: 48
 icon: /icons/sp.png
 aliases:
   /articles/superphysics/ai-is-autonomous/

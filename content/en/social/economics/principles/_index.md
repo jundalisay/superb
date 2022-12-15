@@ -5,7 +5,8 @@ description: "We list the principles of Economic Superphysics that will lead to 
 image: "/covers/principles.png"	
 type: "featured"
 youtube: "rVP73TV2X0s"
-date: 2022-08-06
+weight: 2
+# date: 2022-08-06
 # draft: true
 ---
 

@@ -2,17 +2,17 @@
 heading: "Chapter 1"
 title: "The First Law of Value: Nominal Price"
 linkTitle: 1st Law
-date: 2022-08-30
+weight: 8
+# date: 2022-08-30
 # date: 2022-03-27
 image: /graphics/econ/law1.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
-author: Dalisay
+author: Juan Dalisay Jr
 # draft: true
 aliases:
   /social/economics/principles/first-law/
   /pantrynomics/first-law
 ---
-
 
 
 

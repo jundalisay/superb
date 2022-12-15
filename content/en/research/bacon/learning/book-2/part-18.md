@@ -1,7 +1,7 @@
 ---
 heading: Part 18
 title: "The Science of Rhetoric"
-date: 2022-08-13
+weight: 1
 description: "Rhetoric is the science that concerns the illustration of tradition. It is the art of eloquence, an excellent science, well laboured.  "
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

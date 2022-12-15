@@ -1,7 +1,7 @@
 ---
 title: "The Unity of Society and the Training of Children"
 heading: "Chapter 2 of Book 5"
-date: 2015-09-28
+weight: 12
 image: "/covers/republic.jpg"
 description: "Unity is the greatest good to be pursued by the state"
 author: "Socrates"

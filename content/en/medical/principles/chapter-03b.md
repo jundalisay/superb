@@ -6,6 +6,7 @@ linkTitle: "Five Paradigms"
 description: "Medical Superphysics uses 5 medical paradigms which are aligned with the 5 layers of Superphysics"
 # date: "2020-01-01"
 date: 2020-01-25
+weight: 8
 image: "/photos/balancerock.jpg"
 author: "Juan"
 # categories: ["Medical Superphysics"]

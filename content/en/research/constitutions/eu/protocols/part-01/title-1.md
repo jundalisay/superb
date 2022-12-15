@@ -1,13 +1,9 @@
 ---
 title: "INFORMATION FOR NATIONAL PARLIAMENTS"
 heading: "Title 1"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
-linkb: /research/constitutions/eu
-linkbtext: "EU"
-linkf: /research/constitutions/eu
-linkftext: "EU"
 icon: /flags/eu.png
 ---
 

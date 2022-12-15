@@ -1,20 +1,16 @@
 ---
 title: "Ministers of State"
 heading: "Chapter 5"
-date: 2021-11-20
+weight: 1
 image: "/flags/id.png"
 description: "Ministers of State shall be appointed and dismissed by the President"
-linkb: /research/constitutions/id
-linkbtext: "constitutions"
-linkf: /research/constitutions/id
-linkftext: "constitutions"
 icon: /flags/id.png
 ---
 
 
 ## Chapter 5. Ministers of State
 
-Article 17
+### Article 17
 
 The President shall be assisted by Ministers of State which he will appointed and dismiss.
 - Each Minister of State shall be responsible for a particular area of Government activity.

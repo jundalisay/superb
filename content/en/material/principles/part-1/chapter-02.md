@@ -6,6 +6,7 @@ date: 2020-01-31
 image: "/covers/spblack.jpg"
 description: "A Quantum of Aether or Qoa is the seed or starting point for a universe in the multiverse in the Matrix of Existence or the Mind of Brahma"
 author: Juan
+weight: 10
 icon: /icons/spmat.png
 aliases:
   /articles/material/qoa

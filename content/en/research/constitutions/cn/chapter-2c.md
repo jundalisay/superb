@@ -1,13 +1,9 @@
 ---
 title: "The Central Military Commission"
 heading: "Section 4 of Chapter 2 of the Chinese Constitution Simplified"
-date: 2021-11-20
+weight: 1
 image: "/flags/cn.png"
 description: "The president and the vice president of the PRC shall be elected by the NPC"
-linkb: /research/constitutions/cn/chapter-2
-linkbtext: "constitutions"
-linkf: /research/constitutions/cn/chapter-3
-linkftext: "constitutions"
 icon: "/flags/cn.png"
 ---
 

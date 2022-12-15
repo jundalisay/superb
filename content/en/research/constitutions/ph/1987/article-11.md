@@ -1,7 +1,7 @@
 ---
 title: Accountability of Public Officers
 heading: Article 11
-date: 2022-01-24
+weight: 1
 description: "Public office is a public trust. Public officers and employees must at all times be accountable to the people, serve them with utmost responsibility, integrity, loyalty, and efficiency, act with patriotism and justice, and lead modest lives."
 image: "/graphics/1987.jpg"
 icon: /flags/ph.png

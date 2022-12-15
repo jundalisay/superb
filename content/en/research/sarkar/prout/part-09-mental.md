@@ -1,7 +1,7 @@
 ---
 heading: "Part 9"
 title: "The Transformation of Mental Food into Mental-spiritual Food"
-date: 2022-01-18
+weight: 1
 author: "PR Sarkar"
 description: "The innate instincts of crude psychic propensities of human beings instigate them to accumulate and enjoy material objects in an unlimited manner"
 image: "/covers/prout.png"

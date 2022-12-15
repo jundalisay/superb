@@ -1,7 +1,7 @@
 ---
 title: "Northern India"
 heading: "Chapter 17"
-date: 2022-01-10
+weight: 22
 description: "Gujarat's capital has a four-fold wall and rules over 100 cities.Its people are white and clean looking. Both men and women wear double rings hanging down from holes in their ears"
 image: "/flags/in.png"
 author: "Chau Ju Kua"

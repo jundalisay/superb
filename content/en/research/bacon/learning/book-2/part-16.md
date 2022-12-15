@@ -1,7 +1,7 @@
 ---
 heading: Part 14
 title: "Transitive Rational Knowledge"
-date: 2022-08-15
+weight: 1
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

@@ -1,7 +1,7 @@
 ---
 title: "THE PANCHAYATS"
 heading: "Part 9"
-date: 2021-11-02
+weight: 1
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

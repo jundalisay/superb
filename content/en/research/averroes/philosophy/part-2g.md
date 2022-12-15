@@ -3,6 +3,7 @@ heading: "Part 2g"
 title: "The Actions Of God"
 author: Averroes
 description: ""
+weight: 24
 image: "/covers/averroes.jpg"
 ---
 

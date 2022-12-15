@@ -1,7 +1,7 @@
 ---
 title: "PROTOCOL ON PERMANENT STRUCTURED COOPERATION ESTABLISHED BY ARTICLE I-41(6) AND ARTICLE III-312 OF THE CONSTITUTION "
 heading: "Part 23"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
 icon: /flags/eu.png

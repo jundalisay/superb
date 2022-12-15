@@ -1,7 +1,7 @@
 ---
 title: The Powers of the National Assembly
 heading: Title 5b
-date: 2022-01-24
+weight: 1
 description: "The Legislative Power according to the malolos consitution"
 image: "/graphics/1899.jpg"
 icon: /flags/ph.png

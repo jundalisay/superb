@@ -1,7 +1,7 @@
 ---
 title: "What is Wealth?"
 heading: "Chapter 1 of The Economist Simplified"
-date: 2015-09-30
+weight: 1
 image: "/covers/economist.jpg"
 description: "Wealth is anything that provides utilitiy and benefit for living"
 icon: "/icons/soc.png"

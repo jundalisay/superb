@@ -1,13 +1,12 @@
-+++
-title= "Metopus' Treatise on Virtue"
-date= 2015-09-09
-image= "/covers/fragments.png"
-description= "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
-linkb= "/research/pythagoras/fragments/hipparchus"
-linkbtext= "hipparchus"
-linkf= "/research/pythagoras/fragments/polus"
-linkftext= "Polus"
-+++
+---
+title: "Metopus' Treatise on Virtue"
+# heading: Prudence And Prosperity
+weight: 12
+description: "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
+image: "/covers/fragments.png"
+---
+
+
 
 Virtue is the perfection of human nature. 
 

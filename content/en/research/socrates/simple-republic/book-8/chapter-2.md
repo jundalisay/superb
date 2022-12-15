@@ -1,7 +1,7 @@
 ---
 title: "How Oligarchy Arises"
 heading: "Chapter 2 of Book 8"
-date: 2015-09-28
+weight: 1
 image: "/covers/republic.jpg"
 description: "Oligarchy emerges from Timocracy which is after the aristocracy of philosophers"
 author: "Socrates"

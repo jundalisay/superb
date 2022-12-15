@@ -1,7 +1,7 @@
 ---
 title: "Public Service Commissions"
 heading: "Part 14b"
-date: 2021-10-14
+weight: 1
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

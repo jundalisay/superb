@@ -1,7 +1,7 @@
 ---
 heading: "Part 4"
 title: "Block-Level Planning"
-date: 2022-01-25
+weight: 1
 author: "PR Sarkar"
 description: "In a decentralized economy, economic planning is to be undertaken for the welfare of the local people"
 image: "/covers/prout.png"

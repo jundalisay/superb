@@ -3,7 +3,8 @@ heading: "Sections 7-20"
 title: "New Sections"
 description: "Rice Tariffication Act"
 image: "/photos/team.jpg"
-date: 2020-10-29
+weight: 6
+# date: 2020-10-29
 ---
 
 

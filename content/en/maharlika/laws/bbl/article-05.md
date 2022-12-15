@@ -2,12 +2,13 @@
 title: "Powers Of Government"
 heading: "Article 5"
 description: "Reserved powers are matters over which authority and jurisdiction are retained by the Central Government"
-date: 2021-09-26
+# date: 2021-09-26
+weight: 4
 image: "/covers/bbl.jpg"
 ---
 
 
-Section 1. Reserved Powers of the Central Government
+## Section 1. Reserved Powers of the Central Government
 
 <!-- Reserved powers are matters over which authority and jurisdiction are retained by . The Central Government shall exercise the following reserved powers: -->
 

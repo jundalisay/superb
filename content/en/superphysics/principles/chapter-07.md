@@ -4,13 +4,10 @@ title: "The Nature of Mind"
 # heading: "Inside the Mind of the Brahma Everything is a"
 # date: 2020-01-01
 date: 2020-12-10
+weight: 24
 image: /photos/physics/ai.jpg
 description: "Everything in existence is an idea of the Creator of that existence"
-linkb: /superphysics/principles/chapter-06
-linkbtext: Feelings
-linkf: /superphysics/principles/chapter-07b
-linkftext: "The Perceiver"
-author: Juan
+author: Juan Dalisay Jr
 icon: /icons/sp.png
 aliases:
   /superphysics/principles/mind

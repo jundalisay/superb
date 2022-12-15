@@ -1,7 +1,7 @@
 ---
 title: "The Exercise on Logic"
 heading: "Chapter 2"
-date: 2015-09-28
+weight: 4
 image: "/covers/parmenides.jpg"
 description: "Parmenides says that logic should consider not only the consequences which flow from a given hypothesis, but also the consequences which flow from denying the hypothesis"
 icon: "/icons/soc.png"

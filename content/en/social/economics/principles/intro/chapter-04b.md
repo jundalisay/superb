@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 4b"
 title: "Four Laws Table"
-date: 2022-03-24
+weight: 14
+# date: 2022-03-24
 image: "/photos/buy.jpg"
 description: "Here is a table for the four classifications of Exchangeable value in pantrynomics, using 'price' as its snapshot"
-author: Dalisay
+author: Juan Dalisay Jr
 ---
 
 

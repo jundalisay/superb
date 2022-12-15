@@ -1,7 +1,7 @@
 ---
 title: "Municipal Government"
 heading: "Chapter 4-5"
-date: 2021-11-10
+weight: 1
 image: "/flags/ve.png"
 description: "A Municipality has competence to govern and administrate its interests, manage those matters assigned to it by this Constitution and national laws."
 icon: /flags/ve.png

@@ -1,7 +1,7 @@
 ---
 title: "Environment"
 heading: "Chapter 6"
-date: 2021-11-18
+weight: 30
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

@@ -1,8 +1,9 @@
 ---
 title: "Justice Versus Injustice"
-date: 2015-09-30
+weight: 6
 image: "/covers/republic.jpg"
 description: "Justice is a necessity that should be sought for its own sake and not as a means to an end. Unjust people often give importance to external appearances."
+author: Plato
 icon: "/icons/soc.png"
 ---
 
@@ -13,17 +14,17 @@ I thought I was ending the discussion. But in reality, it proved to be only a be
 
 {{< r a="Glaucon" >}}
 Socrates, you have not persuaded us that to be just is always better than to be unjust. There are three kinds of positives:
-<br>
+
 1. Those which are desired for their own sakes, and independently of their consequences. 
-<br>
+
 Examples are: harmless pleasures and enjoyments. These delight us, even if nothing follows from them. 
-<br>
+
 2. Those which are desirable in themselves and for their results. 
-<br>
+
 Examples are knowledge, sight, health. 
-<br>
+
 3. Those that do us good even if we regard them as disagreeable. 
-<br>
+
 Examples are: gymnastics, the care of the sick, the physician's art, and the various ways of money-making. No one chooses them for their own sakes, but only for some reward or result that flows from them. Where is justice in these three classes?
 {{< /r >}}
 

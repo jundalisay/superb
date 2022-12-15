@@ -2,6 +2,7 @@
 title: "Import Substitution versus Export Promotion"
 heading: "Import Substitution for austere nations. Export Promotion for liberal nations"
 date: 2015-01-01
+weight: 46
 image: /photos/objects/ship.jpg
 description : "Import Substitution is for austere, while Export Promotion is for liberal nations"
 youtube: "rVP73TV2X0s"

@@ -3,8 +3,8 @@ title: "How Modern Education Corrups Knowledge with Shallow Reasoning"
 heading: Chapter 7
 # heading: "Caused by the For-Profit School System"
 # date: 2019-06-29
-date: 2022-01-06
-dateorig: 2013-10-21
+weight: 28
+date: 2013-10-21
 image: "/photos/psych/bore.jpg"
 description: "The Enlightened philosophers wrote against sophistry by the merchants and by fake scientists. Here, we lay the blame on the for-profit educational system for the current flaws in science"
 author: Juan

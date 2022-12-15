@@ -2,12 +2,13 @@
 title: "Bangsamoro Justice System"
 heading: "Article 10"
 description: "For Muslims, the justice system in the Bangsamoro shall give primary consideration to Shari’ah, and customary rights and traditions of the indigenous peoples in the Bangsamoro."
-date: 2021-09-15
+# date: 2021-09-15
+weight: 12
 image: "/covers/bbl.jpg"
 ---
 
 
-Section 1. Justice System in the Bangsamoro
+## Section 1. Justice System in the Bangsamoro
 
 It shall consist of:
 - Shari’ah law for  Muslims only

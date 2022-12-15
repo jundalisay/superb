@@ -3,7 +3,8 @@ heading: "Chapter 1"
 title: "General Provisions"
 description: "Innovative Startup Act Republic Act 11337"
 image: "/photos/team.jpg"
-date: 2020-10-31
+weight: 4
+# date: 2020-10-31
 ---
 
 

@@ -1,18 +1,13 @@
-+++
-title= "Pythagoras' Temperance"
-date= 2015-09-09
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-30"
-linkbtext= "Chapter 30"
-linkf= "/research/pythagoras/life/chapter-32"
-linkftext= "chapter-32"
-heading= "Chapter 31"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagoras' Temperance"
+heading: "Chapter 30"
+weight: 42
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "How was temperance cultivated by Pythagoras? How did he delivere it to his associates?"
+icon: "/icons/py.png"
+---
+
 
 How was temperance cultivated by Pythagoras? How did he delivere it to his associates?
 
@@ -78,9 +73,11 @@ With respect to what is called desire, these men are said to have asserted as fo
 
 For that the body when empty should desire food, is natural= and again, it is also natural, that when filled, it should desire an appropriate evacuation. But to desire superfluous nutriment, or superfluous and luxurious garments or coverlids, or habitations, is adscititious. They also reasoned in the same manner concerning furniture, vessels, servants, and cattle subservient to food. And universally, with respect to human passions, they are nearly things of such a kind, as to be nowhere permanent, but to proceed to infinity. 
 
-Hence attention should be paid to youth from the earliest period, in order that they may aspire after such things as are proper, may avoid vain and superfluous desires, and thus be undisturbed by, and purified from, such-like appetites, and may despise those who are objects of contempt, because they are bound to [all-various] desires. But it must be especially observed, that vain, noxious, superfluous, and insolent desires subsist with those who have the greatest power. For
+Hence attention should be paid to youth from the earliest period, in order that they may aspire after such things as are proper, may avoid vain and superfluous desires, and thus be undisturbed by, and purified from, such-like appetites, and may despise those who are objects of contempt, because they are bound to [all-various] desires. 
 
- there is not any thing so absurd, which the soul of such boys, men, and women, does not incite them to perform. In short, the variety of food which is assumed, is most manifold. For there are an infinite number of fruits, and an infinite multitude of roots, which the human race uses for food. It likewise uses all-various kinds of flesh; 148 and it is difficult to find any terrestrial, aerial, or aquatic animal, which it does not taste. It also employs all-various contrivances in the preparation of these, and manifold mixtures of juices. Hence it properly follows that the human tribe is insane and multiform, according to the motion of the soul, for each kind of food that is introduced into the body, becomes the cause of a certain peculiar disposition.
+But it must be especially observed, that vain, noxious, superfluous, and insolent desires subsist with those who have the greatest power. For there is not any thing so absurd, which the soul of such boys, men, and women, does not incite them to perform. In short, the variety of food which is assumed, is most manifold. For there are an infinite number of fruits, and an infinite multitude of roots, which the human race uses for food. It likewise uses all-various kinds of flesh.
+
+It is difficult to find any terrestrial, aerial, or aquatic animal, which it does not taste. It also employs all-various contrivances in the preparation of these, and manifold mixtures of juices. Hence it properly follows that the human tribe is insane and multiform, according to the motion of the soul, for each kind of food that is introduced into the body, becomes the cause of a certain peculiar disposition.
 
 We however perceive that some things become immediately the cause of a great change in quality, as is evident in wine. For when it is drank abundantly, it makes men at first more cheerful, but afterwards more insane and indecorous. But men are ignorant of those things which do not exhibit a power of this kind; though every thing that is eaten is the cause of a certain peculiar disposition. Hence it requires great wisdom, to be able to know and perceive, what kind and what quantity of food ought to be used. This science, however, was at first unfolded by Apollo and Pæon; but afterwards by Esculapius and his followers.
 
@@ -98,5 +95,6 @@ The first, therefore, and the greatest care which should be taken by him who app
 
 And universally they were of opinion, that none but an indolent and inconsiderate person would attempt to produce an animal, and lead it into existence, without providing with all possible diligence that its ingress into being and life might be most elegant and pleasing. For those that are lovers of dogs, pay every possible attention to the generation of whelps, in order that they may be produced from such things as are proper, and when it is proper, and in such a way as is proper, and thus may become a good offspring. The same attention also is paid by those who are lovers of birds. 
 
-And it is evident that others also who are studious about the procreation of generous animals, endeavour by all possible means, that the generation of them may not be in vain. It would be absurd therefore that men should pay no attention to their own offspring, but should both beget them casually and with perfect carelessness, and, after they are begotten, nourish and educate them with extreme negligence. For this is the most powerful and most manifest cause of the vice and depravity of the greater part of mankind. For with the multitude the procreation of children is undertaken in a beastly and rash manner. And such were the assertions, and such the doctrine of these men, which they verified both in words and deeds, respecting temperance; these precepts having been originally received by them from Pythagoras himself, like certain oracles delivered by the Pythian Apollo.
+And it is evident that others also who are studious about the procreation of generous animals, endeavour by all possible means, that the generation of them may not be in vain. It would be absurd therefore that men should pay no attention to their own offspring, but should both beget them casually and with perfect carelessness, and, after they are begotten, nourish and educate them with extreme negligence. 
 
+For this is the most powerful and most manifest cause of the vice and depravity of the greater part of mankind. For with the multitude the procreation of children is undertaken in a beastly and rash manner. And such were the assertions, and such the doctrine of these men, which they verified both in words and deeds, respecting temperance; these precepts having been originally received by them from Pythagoras himself, like certain oracles delivered by the Pythian Apollo.

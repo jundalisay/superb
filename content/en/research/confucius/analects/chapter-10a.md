@@ -2,7 +2,8 @@
 heading: "Chapter 10a"
 title: "Confucious' Disciples"
 description: "The first to make progress in the Proprieties and in Music are plain farmers"
-date: 2020-01-14
+weight: 20
+author: Confucius
 image: "/covers/analects.png"
 ---
 

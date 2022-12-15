@@ -1,7 +1,7 @@
 ---
 title: "The Universe to Socrates"
 heading: "Chapter 9"
-date: 2015-09-22
+weight: 20
 image: "/covers/phaedo.jpg"
 description: "The true earth is pure and situated in the pure heaven—there are the stars also"
 icon: "/icons/socrates.png"

@@ -5,5 +5,5 @@ linkTitle: Intro
 description: Textbook of Economic Superphysics
 image: /photos/meta/buddhism.jpg
 # date: 2022-08-10
-date: 2022-01-31
+weight: 4
 ---

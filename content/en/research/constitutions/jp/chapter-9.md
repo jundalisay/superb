@@ -1,7 +1,7 @@
 ---
 title: "Amendments"
 heading: "Chapter 9"
-date: 2021-11-20
+weight: 1
 image: "/flags/jp.png"
 description: ""
 icon: "/flags/jp.png"

@@ -1,8 +1,9 @@
 ---
 heading: "Chapter 5b"
 title: "Government Bonds and Bond yields"
-date: 2021-12-25
-# date: 2019-04-17
+# date: 2021-12-25
+date: 2019-04-17
+weight: 30
 image: /graphics/econ/yield.jpg
 description : "People think that an inverted yield curve is the sole indicator of a coming crisis. In reality there are many."
 youtube: "rVP73TV2X0s"

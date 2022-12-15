@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 7"
 title: "The Demand, Capital, Trade, and Industry Tool"
-# date: 2021-06-26
-date: 2022-01-01
+date: 2021-06-26
+weight: 30
 image: "/graphics/econ/dcti.jpg"
 description: "The Demand Capital Trade Industry Tool is for Troubleshooting Economies according to the Fourth Law of Value"
 type: "featured"

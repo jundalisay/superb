@@ -1,7 +1,7 @@
 ---
 heading: "Parts 2-3"
 title: "Everything is Finite and Not Infinite"
-date: 2020-09-01
+weight: 4
 image: "/covers/meta.jpg"
 description: "There is a first principle. The causes of things are neither an infinite series nor infinitely various in kind."
 author: Aristotle

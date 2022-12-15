@@ -2,7 +2,7 @@
 heading: "Chapter 25b Part 1 "
 title: "The Qualities of a Venusian"
 description: "He is often the victim of rogues, who, knowing his sympathetic nature and generosity, impose upon him with ease"
-date: 2020-01-14
+weight: 134
 image: "/photos/objects/hand.jpg"
 author: William Benham
 ---

@@ -1,7 +1,7 @@
 ---
 heading: "Part 6"
 title: "Do forms exist?"
-date: 2015-09-15
+weight: 16
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Besides perceptible things and the intermediates, we have to look for another class of things -- the Forms which we posit. "

@@ -2,12 +2,16 @@
 heading: "Chapter 20b"
 title: "Characteristics of the Saturnian"
 description: "By reason of his love for digging and exploring in the earth, he has often found wells of oil, or mines of coal and minerals"
-date: 2020-01-22
+weight: 108
+author: William Benham
 image: "/photos/objects/hand.jpg"
 ---
 
 
-By reason of his love for digging and exploring in the earth, he has often found wells of oil, or mines of coal and minerals. This has led people to consider him lucky, and for this reason Saturn has become the Mount and type of Fate. 
+
+Becayse of his love for digging and exploring in the earth, he has often found wells of oil, or mines of coal and minerals. 
+
+This has led people to consider him lucky, and for this reason Saturn has become the Mount and type of Fate. 
 
 The Saturnian has a love for all occult studies, and is proficient in them. He has a mystical streak that makes him extremely superstitious. 
 

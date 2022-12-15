@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 12 of Part 2 "
+heading: "Chapter 12"
 title: "The Mercury Line"
 description: "THE line of Mercury has been called the line of Health, the line of Liver, and the Hepatica"
 image: "/photos/objects/hand.jpg"
-date: 2019-12-14
+weight: 64
 author: William Benham
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Chinese Constitution"
 image: "/flags/cn.png"
-date: 2020-10-31
+weight: 1
+description: "The Chinese Constitution"
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Legislative Department
 heading: Article 6 of the 1987 Constitution Simplified
-date: 2022-01-29
+weight: 1
 description: ""
 image: "/graphics/1987.jpg"
 icon: /flags/ph.png

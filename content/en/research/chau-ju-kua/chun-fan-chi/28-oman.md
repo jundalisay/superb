@@ -1,7 +1,7 @@
 ---
 title: "Oman"
 heading: "Chapter 28"
-date: 2021-12-29
+weight: 36
 description: "Oman (Yung-man) resembles Wupa in terms of its people and soil"
 image: "/flags/om.png"
 author: "Chau Ju Kua"

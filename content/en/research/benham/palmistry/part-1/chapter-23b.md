@@ -2,8 +2,9 @@
 heading: "Chapter 23 Part 1 "
 title: "The Negative Martian"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
-date: 2020-01-18
+weight: 122
 image: "/photos/objects/hand.jpg"
+author: William Benham
 ---
 
 

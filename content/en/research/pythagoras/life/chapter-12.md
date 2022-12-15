@@ -1,7 +1,7 @@
 ---
 title: "Pythagoras was a Philosopher"
 heading: "Chapter 12"
-date: 2015-09-18
+weight: 16
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: "Pythagoras was the first who called himself a philosopher"

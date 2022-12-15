@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 12"
 title: "USE OF PREPOSITIONS"
-date: 2022-01-31
+weight: 22
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 

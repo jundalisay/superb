@@ -1,7 +1,7 @@
 ---
 title: "Magical Instances"
 heading: Chapter 17
-date: 2021-12-10
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

@@ -1,7 +1,7 @@
 ---
 title: "The Functions Essential to Justice"
 heading: "Title 4 Chapter 4"
-date: 2021-11-04
+weight: 36
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

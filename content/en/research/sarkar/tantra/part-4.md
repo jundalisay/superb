@@ -1,7 +1,7 @@
 ---
 title: "Buddhist and Hindu Tantra"
 heading: "Part 4"
-date: 2021-11-07
+weight: 1
 image: "/covers/discourses.jpg"
 description: "It is absolutely wrong to make a distinction between Hindu Tantra and Buddhist Tantra."
 icon: "/icons/sarkar.png"

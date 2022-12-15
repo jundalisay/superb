@@ -1,7 +1,7 @@
 ---
 title: "Services Under The Union And The States"
 heading: "Part 14"
-date: 2021-10-16
+weight: 1
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

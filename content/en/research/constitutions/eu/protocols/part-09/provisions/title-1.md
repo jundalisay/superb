@@ -1,13 +1,9 @@
 ---
 title: "Definition And Objectives Of The Union"
 heading: "Title 2"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Everyone has the right to liberty and security of person"
-linkb: /research/constitutions/eu/part-2/title-1
-linkbtext: "Title 1"
-linkf: /research/constitutions/eu/part-2/title-3
-linkftext: "Title 3"
 icon: /flags/eu.png
 ---
 

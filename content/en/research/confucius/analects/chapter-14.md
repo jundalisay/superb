@@ -2,7 +2,8 @@
 heading: "Chapter 14"
 title: "Good and Bad Government"
 description: "Good and Bad Government"
-date: 2020-01-12
+weight: 32
+author: Confucius
 image: "/covers/analects.png"
 ---
 

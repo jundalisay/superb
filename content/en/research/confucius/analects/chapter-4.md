@@ -2,7 +2,8 @@
 heading: "Chapter 4"
 title: "Social Virtue--Superior and Inferior Man"
 description: "To be slow to speak, but prompt to act, is the desire of the 'superior man.'"
-date: 2020-01-26
+weight: 8
+author: Confucius
 image: "/covers/analects.png"
 ---
 

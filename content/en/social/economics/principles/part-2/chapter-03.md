@@ -2,11 +2,12 @@
 heading: "Chapter 3"
 title: "Economic Karma"
 description : "Economic Karma is the cause and effect of economic actions"
-date: 2022-01-28
-# date: 2016-01-01
+# date: 2022-01-28
+weight: 16
+date: 2016-01-01
 image: /covers/econsp.jpg
 description: ""
-author: Dalisay
+author: Juan Dalisay Jr
 ---
 
 

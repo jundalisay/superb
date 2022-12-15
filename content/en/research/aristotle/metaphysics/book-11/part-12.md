@@ -1,9 +1,10 @@
 ---
 heading: "Part 12"
 title: "Kinds of Movement"
-date: 2015-09-30
+weight: 20
 image: "/covers/meta.jpg"
 description: "There are three kinds of movement-of quality, of quantity, of place"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

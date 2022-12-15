@@ -1,7 +1,7 @@
 ---
 title: "The Four Classes: Gold, Silver, Brass, Iron"
 heading: Chapter 4b of Book 3
-date: 2020-09-22
+weight: 14
 description: "Plato's Four Classes: Gold (Brahmin), Silver (Ksattriya), Brass (Vaesha), Iron (Shudra)"
 image: "/covers/republic.jpg"
 icon: "/icons/soc.png"

@@ -1,7 +1,7 @@
 ---
 title: "PROTOCOL ON THE PACIFIC FINANCIAL COMMUNITY FRANC SYSTEM "
 heading: "Part 16-17"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
 icon: /flags/eu.png

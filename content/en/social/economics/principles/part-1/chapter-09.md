@@ -1,7 +1,8 @@
 ---
 heading: "Chapter 9"
 title: "The Rural Economy"
-date: 2022-08-04
+weight: 34
+# date: 2022-08-04
 image: /photos/egypt.jpg
 description: ""
 author: Dalisay

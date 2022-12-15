@@ -1,6 +1,6 @@
-+++
-title= "Fragments on Pythagoras"
-description= "The treatises of various Pythagorean philosophers"
-image= "/covers/fragments.png"
-# "https://sorasystem.sirv.com/photos/justice.jpg"
-+++
+---
+title: "Fragments on Pythagoras"
+image: "/covers/fragments.png"
+description: "The treatises of various Pythagorean philosophers"
+---
+

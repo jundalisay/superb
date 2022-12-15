@@ -3,18 +3,20 @@ heading: "Chapter 1"
 title: "Definition of Policy"
 description: "Simplified Data Privacy Act 2012 Philippines"
 image: "/photos/balancerock.jpg"
-date: 2021-09-30
+weight: 2
 ---
 
 
 ## CHAPTER 1
 
-SEC. 2. Policy. – The state will protect:
+### Section 2. Policy.
 
-the fundamental human right of privacy
-communication while ensuring free flow of information
+The state will protect:
+- the fundamental human right of privacy
+- communication while ensuring free flow of information
 
-SEC. 3. Definition
+
+### Section 3. Definition
 
 (a) Commission = NPC
 
@@ -73,7 +75,9 @@ tax returns
 Congress mandated
 
 
-SEC. 4. Scope. – This only applies to data processed in the Philippines
+### Section 4. Scope
+
+This only applies to data processed in the Philippines.
 
 This Act does not apply to:
 

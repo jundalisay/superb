@@ -1,7 +1,7 @@
 ---
 title: "The Executive Department"
 heading: Article 7
-date: 2022-01-28
+weight: 1
 # date: 1899-01-19
 description: "The executive power shall be vested in a President of the Philippines"
 image: "/graphics/1935.jpg"

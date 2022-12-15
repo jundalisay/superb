@@ -1,7 +1,7 @@
 ---
 heading: "Part 5"
 title: "Numbers are not the causal principle"
-date: 2015-09-15
+weight: 8
 image: "/covers/meta.jpg"
 description: "The numbers are not the essence nor the causes of the form, for the ratio is the essence, while the number the causes of the form"
 author: Aristotle

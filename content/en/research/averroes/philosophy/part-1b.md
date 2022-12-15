@@ -3,6 +3,7 @@ heading: "Part 1b"
 title: "The Study of The Law"
 description: "The science which needs most examples from other sciences is that of Law."
 image: "/covers/averroes.jpg"
+weight: 6
 author: Averroes
 ---
 

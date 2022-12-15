@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 2"
 title: "Taxes and Taxation systems"
-date: 2022-01-25
-# date: 2015-01-25
+weight: 18
+date: 2015-01-25
 image: "/og/pointtax.jpg"
 description : "Adam Smith gave 4 maxims on taxation in The Wealth of Nations that have been largely forgotten today. We bring them back to help solve tax evasion and budget deficits"
 author: Dalisay

@@ -1,7 +1,7 @@
 ---
 heading: "Part 24"
 title: "Why do people believe that the numbers exist?"
-date: 2015-09-15
+weight: 4
 image: "/covers/meta.jpg"
 description: "Neither does he who says it exists maintain that it is the cause of anything"
 author: Aristotle

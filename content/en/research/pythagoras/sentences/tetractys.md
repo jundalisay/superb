@@ -1,6 +1,6 @@
 ---
 title: "The Tetractys"
-date: 2022-04-09
+weight: 14
 image: /covers/sentences.jpg
 description: "The Tetractys involved the monad"
 author: Juan

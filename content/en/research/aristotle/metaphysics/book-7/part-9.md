@@ -1,6 +1,7 @@
 ---
 title: "Why Are Some Things Produced Spontaneously?"
 heading: "Part 9"
+weight: 14
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Why are some things are produced spontaneously as well as by art?"

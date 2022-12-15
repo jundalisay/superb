@@ -1,7 +1,7 @@
 ---
 title: "Electoral and Military Courts"
 heading: "Title 4 Chapter 3 Section 6-7"
-date: 2021-11-06
+weight: 34
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

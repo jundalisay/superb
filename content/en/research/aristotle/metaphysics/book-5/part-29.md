@@ -1,7 +1,8 @@
 ---
 title: "Defining False and Accident"
-heading: "Part 29 of Book 5"
+heading: "Part 29"
 author: "Aristotle"
+weight: 26
 image: "/covers/meta.jpg"
 description: "Aristotle defines False and Accident"
 icon: "/icons/aris.jpg"

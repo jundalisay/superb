@@ -1,7 +1,7 @@
 ---
 heading: "Part 2a"
 title: History
-date: 2022-09-25
+weight: 1
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

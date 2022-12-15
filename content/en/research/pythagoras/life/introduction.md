@@ -1,16 +1,13 @@
-+++
-title= "Introduction"
-date= 2015-09-09
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/"
-linkbtext= "Index"
-linkf= "/research/pythagoras/life/chapter-01"
-linkftext= "chapter-01"
-aliases = [
-  "/research/pythagoras/iamblichus/introduction"
-]
-+++
+---
+title: "Introduction"
+weight: 1
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Pythagoras was the father of philosophy"
+icon: "/icons/py.png"
+---
+
+
 
 <!-- BY THOMAS TAYLOR. -->
 

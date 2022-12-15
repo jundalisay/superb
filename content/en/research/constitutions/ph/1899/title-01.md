@@ -1,7 +1,7 @@
 ---
 title: The Republic
 heading: Title 1
-date: 2022-01-31
+weight: 1
 # date: 1899-01-19
 description: ""
 image: "/graphics/1899.jpg"

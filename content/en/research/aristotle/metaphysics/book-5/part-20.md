@@ -1,7 +1,8 @@
 ---
 title: "Defining Having, Affection, Privation"
-heading: "Part 16 of Book 5"
+heading: "Part 16"
 author: "Aristotle"
+weight: 22
 image: "/covers/meta.jpg"
 description: "Aristotle defines Having, Affection, Privation"
 icon: "/icons/aris.jpg"

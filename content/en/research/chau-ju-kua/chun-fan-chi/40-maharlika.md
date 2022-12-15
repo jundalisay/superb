@@ -1,7 +1,7 @@
 ---
 title: "Maharlika (The Philippines)"
 heading: "Chapter 40"
-date: 2021-12-12
+weight: 50
 description: "The country of Maharlika (Ma-i) is north of Borneo. Its capital has over 1,000 families settled together along both banks of a creek."
 image: "/flags/ph.png"
 author: "Chau Ju Kua"

@@ -1,7 +1,7 @@
 ---
 title: "The Executive Power: The President and Vice-President"
 heading: "Chapter 2 Sections 1"
-date: 2021-11-20
+weight: 20
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

@@ -1,18 +1,14 @@
 ---
 title: "Justice"
 heading: "Title 6"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Everyone is equal before the law"
-linkb: /research/constitutions/eu/part-2/title-5
-linkbtext: "Title 5"
-linkf: /research/constitutions/eu/part-2/title-7
-linkftext: "Title 7"
 icon: /flags/eu.png
 ---
 
 
-Article 47
+## Article 47
 
 Right to an effective remedy and to a fair trial
 
@@ -24,7 +20,8 @@ defended and represented.
 Legal aid shall be made available to those who lack sufficient resources in so far as such aid is
 necessary to ensure effective access to justice.
 
-Article 48
+
+## Article 48
 
 Presumption of innocence and right of defence
 1. Everyone who has been charged shall be presumed innocent until proved guilty according

@@ -2,8 +2,9 @@
 heading: "Chapter 19b Part 1 "
 title: "The Qualities of the Jupiter Mount"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
-date: 2020-01-25
+weight: 102
 image: "/photos/objects/hand.jpg"
+author: William Benham
 ---
 
 

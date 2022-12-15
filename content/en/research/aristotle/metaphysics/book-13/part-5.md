@@ -1,9 +1,10 @@
 ---
 heading: "Part 5"
 title: "The Theory of Forms and Numbers"
-date: 2015-09-24
+weight: 8
 image: "/covers/meta.jpg"
 description: "How do the Forms contribute to sensible things, either eternal or non-eternal?"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

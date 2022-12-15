@@ -1,7 +1,7 @@
 ---
 title: "Article 1 Sections 7-10"
 heading: "US Constitution"
-date: 2021-11-28
+weight: 1
 image: "/flags/us.png"
 description: ""
 icon: /flags/us.png

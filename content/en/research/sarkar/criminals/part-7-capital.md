@@ -1,7 +1,7 @@
 ---
 title: "Capital Punishment"
 heading: "Part 7"
-date: 2021-11-15
+weight: 16
 image: "/covers/discourses.jpg"
 description: "In most countries crime is defined with reference to a sense of pápa [vice] and puńya [virtue]"
 icon: "/icons/sarkar.png"

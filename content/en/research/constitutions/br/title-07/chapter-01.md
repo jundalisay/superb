@@ -1,7 +1,7 @@
 ---
 title: "The General Principles of the Economic Activity"
 heading: "Chapter 1"
-date: 2021-11-20
+weight: 18
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

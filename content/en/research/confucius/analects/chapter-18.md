@@ -2,7 +2,8 @@
 heading: "Chapter 18"
 title: "Good Men in Seclusion"
 description: "My own rule is different from any adopted by these=  I will take no liberties, I will have no curtailing of my liberty"
-date: 2020-01-04
+weight: 40
+author: Confucius
 image: "/covers/analects.png"
 ---
 

@@ -4,6 +4,7 @@ title: "The Economic Table"
 # date: 2022-03-27
 # date: 2021-12-20
 date: 2018-06-03
+weight: 42
 image: /covers/econsp.jpg
 description: "Quantitative easing failed because of 2 mistakes of the banking system. Those mistakes are caused by the profit maximization doctrine of Neoclassical economics"
 author: Dalisay

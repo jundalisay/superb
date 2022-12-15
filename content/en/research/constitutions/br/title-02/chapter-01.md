@@ -1,15 +1,12 @@
 ---
 title: "Fundamental Rights and Guarantees"
 heading: "Title2"
-date: 2021-11-20
+weight: 6
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
+
 
 ## CHAPTER 1: Individual and Collective Rights and Duties
 

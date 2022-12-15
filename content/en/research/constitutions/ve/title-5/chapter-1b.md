@@ -1,7 +1,7 @@
 ---
 title: "Organization of the National Assembly"
 heading: "Chapter 1b"
-date: 2021-11-28
+weight: 1
 image: "/flags/ve.png"
 description: "The Standing Committees, which shall be no more than 15 in number, shall relate to sectors of national activity"
 icon: /flags/ve.png

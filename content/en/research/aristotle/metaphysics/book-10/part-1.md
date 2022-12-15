@@ -1,9 +1,10 @@
 ---
 heading: "Part 1"
 title: "Aristotle explains One"
-date: 2015-09-30
+weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle gives maximum importance to the sight over the other senses"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

@@ -1,7 +1,9 @@
 ---
 heading: Book 7
+linkTitle: Book 7
 title: "Substances"
 image: "/covers/meta.jpg"
-date: 2022-01-25
+weight: 1
+author: Aristotle
 description: "Book 7 of The Simplified Metaphysics by Aristotle"
 ---

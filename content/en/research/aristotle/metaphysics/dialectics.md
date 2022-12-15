@@ -1,18 +1,14 @@
-+++
-title= "The Dialectics of Aristotle Simplified"
-heading= "Part 1"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "Aristotle gives maximum importance to the sight over the other senses"
-linkb= "/research/aristotle/metaphysics/book-1/"
-linkbtext= "Book 1"
-linkf= "/research/aristotle/metaphysics/book-1/part-2"
-linkftext= "Part 2"
-icon= "/icons/aris.jpg"
-aliases = [
-  "/articles/superphysics/socratic-dialectics/"
-]
-+++
+---
+heading: "Part 1"
+title: "The Dialectics of Aristotle Simplified"
+weight: 1
+image: "/covers/meta.jpg"
+description: "Aristotle gives maximum importance to the sight over the other senses"
+author: Aristotle
+icon: "/icons/aris.jpg"
+---
+
+
 
 <!-- Our treatise proposes to find a line of inquiry whereby we shall be able to reason from opinions that are generally accepted about every problem propounded to us, and also shall ourselves, when standing up to an argument, avoid saying anything that will obstruct us.  -->
 

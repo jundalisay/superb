@@ -1,7 +1,7 @@
 ---
 title: "Contracts in the Public Interest"
 heading: "Section 4"
-date: 2021-11-28
+weight: 1
 image: "/flags/ve.png"
 description: "Public Power is distributed among Municipal Power, that of the States Power and National Power"
 icon: /flags/ve.png

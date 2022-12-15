@@ -2,7 +2,8 @@
 heading: "Chapter 7"
 title: "Characteristics of Confucius--An Incident"
 description: "Confucius is a transmitter and not an originator. He believes in and loves the ancients."
-date: 2020-01-20
+weight: 14
+author: Confucius
 image: "/covers/analects.png"
 ---
 

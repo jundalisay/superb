@@ -1,7 +1,7 @@
 ---
 title: "Protocol On The Statute Of The European Investment Bank"
 heading: "Part 5"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
 icon: /flags/eu.png

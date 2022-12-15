@@ -1,7 +1,7 @@
 ---
 title: "The Judiciary"
 heading: "Chapter 6"
-date: 2021-11-20
+weight: 1
 image: "/flags/jp.png"
 description: "The judicial power is vested in a Supreme Court and inferior courts"
 icon: "/flags/jp.png"

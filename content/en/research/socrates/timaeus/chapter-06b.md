@@ -1,7 +1,7 @@
 ---
 title: "Kundalini"
 heading: "There are 3 billion yous"
-date: 2022-01-06
+weight: 1
 image: "/photos/social/monkey.jpg"
 description: "The bonds of life which unite the soul with the body are made fast in the marrow. They are the root and foundation of the human race"
 author: Timaeus

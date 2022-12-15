@@ -1,7 +1,7 @@
 ---
 title: "Labour Courts and Judges"
 heading: "Title 4 Chapter 3 Section 5"
-date: 2021-11-08
+weight: 32
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

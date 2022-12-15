@@ -2,7 +2,8 @@
 heading: "Chapter 20c Part 1"
 title: "The Health Issues of Saturn"
 description: "As single signs, or in combination with each other, the star, triangle, circle, square, single vertical line, or trident strengthen a Mount"
-date: 2020-01-21
+weight: 110
+author: William Benham
 image: "/photos/objects/hand.jpg"
 ---
 

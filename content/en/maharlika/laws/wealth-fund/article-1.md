@@ -2,8 +2,9 @@
 heading: "Article 1"
 title: "Definitions"
 description: "An Act Establishing The Maharlika Investment Fund, Providing For The Management, Investment, And Use Of The Proceeds Of The fund, Appropriating Funds Thereof And For Other Purposes"
-image: "/photos/buy.jpg"
-date: 2022-09-30
+image: "/photos/city.jpg"
+weight: 102
+# date: 2022-09-30
 ---
 
 
@@ -28,21 +29,31 @@ date: 2022-09-30
 The GAPP for Sovereign Wealth Funds (SWFs) are designed as guidelines that assign best practices for the operations of SWFs. They are the rules followed by SWF that promote stability in the global financial system, set proper controls on investment risks, and implement sound governance structure.
 
 
-## ARTICLE 2: Maharlika Investments Fund
+## ARTICLE 2: Maharlika Investments Fund (MIF)
 
-### Section 4. Estoblishmeut Of the Mahdrli:ha lrrvestments Fund
+### Section 4. Establishment Of the MIF
 
-The Maharlika Investments Fund (MIF) is an independent fund that adheres to the principles of good governance, transparency, and accountability. 
+The MIF is an independent fund that adheres to the principles of good governance, transparency, and accountability. 
 
-The Fund shall be sourced from the investible funds of the country's top-performing GFls and from contribution of the National Government. It shall be used to invest on a strategic and commercial basis in a manner designed to promote fiscal stability for economic development, and strengthen the top-performing GFls through additional investment platforms that will help attain the National Govemment's priority plans.
+The Fund shall be sourced from:
+- the investible funds of the country's top-performing GFIs
+- contribution of the National Government. 
 
-The funds invested by the GFls shall be exempt from any regulatory restrictions, if invested solely to the NIF.
+It shall be used to invest on a strategic and commercial basis to promote fiscal stability for economic development, and strengthen the top-performing GFIs through additional investment platforms that will help attain the National Govemment's priority plans.
 
-Sectpns.OwnershipoftheMaharuhalnvestments Fund
+The funds invested by the GFIs shall be exempt from any regulatory restrictions, if invested solely to the MIF.
 
-The legalowmershipoftheM]FshaLII pertain to the Fund investors in proportion to their shareholdings. The Fund investors are the
-Founding GFls, the National Government, and other fund contributors authorized in this Act. The Board of Directors, through the Chairperson of the Board and Chief Executive Officer, shall submit periodic reports to the National Government, through the President of the Philippines.
+### Section 5. Ownership
 
-Section 6. Objectives of the MIF 
+The Fund investors shall own the fund in proportion to their shareholdings. These are:
+- Founding GFIs
+- The National Government
+- other fund contributors authorized in this Act. 
 
-To generate consistent and stable investment returns with appropriate risk limits to preserve and enhance long-term value of the Fund, obtain the best absolute return and achievable financial gains on its investments, and to satisfy the requirements of liquidity, safety/security, and yield in order to ensure profitability. In pooling the investible funds from the GFls and channeling them to diversified financial assets and development projects, the MIC's activities shall contribute to a prudent and transparent management of the government resources.
+The Board of Directors, through the Chairperson of the Board and Chief Executive Officer, shall submit periodic reports to the National Government, through the President of the Philippines.
+
+### Section 6. Objectives of the MIF 
+
+To generate consistent and stable investment returns with appropriate risk limits to preserve and enhance long-term value of the Fund, obtain the best absolute return and achievable financial gains on its investments, and to satisfy the requirements of liquidity, safety/security, and yield in order to ensure profitability. 
+
+In pooling the investible funds from the GFls and channeling them to diversified financial assets and development projects, the MIC's activities shall contribute to a prudent and transparent management of the government resources.

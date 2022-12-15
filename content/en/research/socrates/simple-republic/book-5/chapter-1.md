@@ -1,7 +1,7 @@
 ---
 title: "Female Guardians and their Children"
 heading: "Chapter 4 of Book 5"
-date: 2015-09-30
+weight: 10
 image: "/covers/republic.jpg"
 description: "Women should have the same rights as men"
 author: "Socrates"

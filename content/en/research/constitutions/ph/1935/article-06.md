@@ -1,7 +1,7 @@
 ---
 title: The Legislative Department
 heading: "Article 6"
-date: 2022-01-30
+weight: 1
 # date: 1899-01-19
 description: "The Congress shall have Legislative power. It will consist of a Senate and a House of Representatives"
 image: "/graphics/1935.jpg"

@@ -2,8 +2,8 @@
 heading: "Chapter 1b"
 title: "The Effort Theory of Value"
 # heading: "The Alternative to Arbitrary Narginal Pricing"
-dateorig: 2015-10-30
-date: 2022-01-30
+date: 2015-10-30
+weight: 12
 image: "/graphics/jfk.jpg"
 description: "The Effort Theory of Value is our alternative to both marginal pricing of Capitalism and the labor theory of value of Marxism"
 icon: /icons/pantry.png

@@ -1,7 +1,7 @@
 ---
 title: "Egypt (Wussili)"
 heading: "Chapter 35-37"
-date: 2021-12-19
+weight: 44
 description: "Cairo is west of Arabia which is separated by the Red Sea which has many countries"
 image: "/flags/eg.png"
 author: "Chau Ju Kua"

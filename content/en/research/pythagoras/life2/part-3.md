@@ -1,7 +1,7 @@
 ---
 heading: Part 3
 title: "Pythagoras' Reputation Spreads"
-date: 2022-04-27
+weight: 6
 image: /covers/lifepyp.png
 description: "During his travels in Italy and Sicily, he founded various cities subjected one to another, both of long standing, and recently."
 author: Propery

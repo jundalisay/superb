@@ -1,7 +1,7 @@
 ---
 title: "The Judicial Power"
 heading: "Title 4 Chapter 3"
-date: 2021-11-14
+weight: 26
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

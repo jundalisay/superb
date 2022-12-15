@@ -2,7 +2,8 @@
 heading: "Chapter 2"
 title: "Good Government, Filial Piety, and The Superior Man"
 description: "Filial piety is in not being perverse. We should always follow the Rules of Propriety with regard to our parents"
-date: 2020-01-30
+weight: 4
+author: Confucius
 image: "/covers/analects.png"
 ---
 

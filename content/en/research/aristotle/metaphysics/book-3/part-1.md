@@ -1,7 +1,7 @@
 ---
 heading: "Part 2"
 title: "The Questions of Metaphysics"
-date: 2020-09-01
+weight: 1
 author: Aristotle
 image: "/covers/meta.jpg"
 description: "Does the investigation of the causes belongs to one or to more sciences?"

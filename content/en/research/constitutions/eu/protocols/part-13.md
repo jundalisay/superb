@@ -1,7 +1,7 @@
 ---
 title: "PROTOCOL ON THE UK AS REGARDS ECONOMIC AND MONETARY UNION"
 heading: "Part 13"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
 icon: /flags/eu.png

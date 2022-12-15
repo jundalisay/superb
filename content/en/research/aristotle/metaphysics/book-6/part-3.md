@@ -1,7 +1,8 @@
 ---
 title: "The Accidental Being"
-heading: "Part 3 of Book 6"
+heading: "Part 3"
 author: "Aristotle"
+weight: 6
 image: "/covers/meta.jpg"
 description: "There are principles and causes which are generable and destructible without ever being in course of being generated or destroyed"
 icon: "/icons/aris.jpg"

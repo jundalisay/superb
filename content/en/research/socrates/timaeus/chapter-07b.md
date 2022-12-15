@@ -1,7 +1,7 @@
 ---
 title: "Evolution"
 heading: "Chapter 7b"
-date: 2021-12-29
+weight: 1
 image: "/covers/timaeus.jpg"
 description: "There are 3 kinds of soul within us, having each of them motions"
 author: "Juan"

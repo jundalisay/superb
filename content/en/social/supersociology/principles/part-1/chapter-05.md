@@ -2,10 +2,9 @@
 title: "The Law of Social Cycles by Socrates"
 heading: Chapter 5
 # heading: "Democracy, Tyranny, Aristocracy, and Oligarchy"
-# date: 2021-07-21
+date: 2021-07-21
 # Socio-Political changes are caused by changing wave-cycles of society
-# date: 2021-01-01
-date: 2022-01-10
+weight: 22
 image: "/graphics/social/cycles.png"
 description: "The four laws of value of Superphysics leads to the four classes of Workers, Warriors, Thinkers, and Traders"
 author: Juan

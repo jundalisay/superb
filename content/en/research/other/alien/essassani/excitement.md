@@ -1,6 +1,6 @@
 ---
 title: "Follow your excitement"
-date: 2020-01-01
+weight: 4
 image: "/photos/physics/quasar.jpg"
 description: "The Essassani mantra is to 'Follow your excitement' and 'So what?'"
 ---

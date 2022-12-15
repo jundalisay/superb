@@ -5,5 +5,6 @@ title: "The Aethereal Layer"
 # heading: From Socrates to Poincare
 description: "The aethereal layer"
 image: "/covers/spblack.jpg"
+weight: 4
 date: 2020-10-31
 ---

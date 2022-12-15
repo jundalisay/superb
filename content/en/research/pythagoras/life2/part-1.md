@@ -1,7 +1,7 @@
 ---
 heading: Part 1
 title: "Pythagoras' Origin and Education"
-date: 2022-04-30
+weight: 1
 image: /covers/lifepyp.png
 description: "Unless you happen to know the country and the city which Pythagoras was a citizen, will remain a mere matter of conjecture. Some say he was a Samian, others, a Phliasian, others a Metapontine"
 author: Propery

@@ -1,7 +1,7 @@
 ---
 title: "The Co-operative Societies"
 heading: "Part 9B"
-date: 2021-10-28
+weight: 1
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

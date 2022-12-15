@@ -1,6 +1,6 @@
 ---
 title: "Music According to Pythagoras"
-date: 2022-04-11
+weight: 6
 # date: 2022-04-13
 image: /covers/sentences.jpg
 description: "Western Music was discovered by Pythagoras"

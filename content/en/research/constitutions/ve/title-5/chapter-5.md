@@ -1,20 +1,20 @@
 ---
 title: "Electoral Power"
 heading: "Chapter 5"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "Electoral Power is exercised by the National Electoral Council as governing body, and by the latter’s subordinate organs"
 icon: /flags/ve.png
 ---
 
 
-Article 292
+## Article 292
 
 Electoral Power is exercised by the National Electoral Council as governing body, and by the latter’s subordinate organs, the National Board of Elections, the Civil Status and Voter Registration Commission and the Commission on Political Participation and Financing, with organization and functioning as established under the pertinent organic
 law.
 
 
-Article 293
+## Article 293
 
 The following are functions of Electoral Power:
 1. To regulate election laws and resolve any doubts and unregulated areas raised by or contained in such laws.

@@ -1,9 +1,10 @@
 ---
 heading: "Part 4-5"
 title: "Mathematics"
-date: 2015-09-24
+weight: 8
 image: "/covers/meta.jpg"
 description: "First philosophy should also examine the principles of mathematics"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

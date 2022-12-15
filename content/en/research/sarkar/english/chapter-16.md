@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 16"
 title: "SOME LATIN ADJECTIVES1"
-date: 2022-01-31
+weight: 30
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 

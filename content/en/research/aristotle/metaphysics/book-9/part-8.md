@@ -1,7 +1,7 @@
 ---
 heading: "Part 8"
 title: "Actuality is prior to potentiality"
-date: 2020-09-18
+weight: 14
 image: "/covers/meta.jpg"
 description: "Potentiality is that definite kind which is a principle of change in another thing or in the thing itself regarded as other. It is every principle of movement or rest"
 author: Aristotle

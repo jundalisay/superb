@@ -1,7 +1,7 @@
 ---
 title: "The Diet"
 heading: "Chapter 4"
-date: 2021-11-26
+weight: 1
 image: "/flags/jp.png"
 description: ""
 icon: "/flags/jp.png"

@@ -1,7 +1,7 @@
 ---
 title: Citizen's Obligations
 heading: Title 4b
-date: 2022-01-28
+weight: 1
 # date: 1899-01-19
 description: "All persons born in the Philippine territory. A vessel of Philippine registry is considered, for this purpose, as part of Philippine territory."
 image: "/graphics/1899.jpg"

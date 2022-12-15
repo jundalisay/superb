@@ -1,9 +1,10 @@
 ---
 heading: "Part 9"
 title: "Male and Female"
-date: 2015-09-24
+weight: 11
 image: "/covers/meta.jpg"
 description: "Why do women and men have the same species, while female and male are contrary?"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

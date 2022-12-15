@@ -1,6 +1,6 @@
 ---
 title: "Part 24"
-date: 2022-07-26
+weight: 1
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

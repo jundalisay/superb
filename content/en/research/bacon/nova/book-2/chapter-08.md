@@ -1,7 +1,7 @@
 ---
 title: "Twilight or clandestine instances"
 heading: Chapter 8
-date: 2022-01-15
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

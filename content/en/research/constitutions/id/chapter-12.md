@@ -1,13 +1,9 @@
 ---
 title: "State Defence and Security"
 heading: "Chapter 12"
-date: 2021-11-20
+weight: 1
 image: "/flags/id.png"
 description: ""
-linkb: /research/constitutions/id
-linkbtext: "constitutions"
-linkf: /research/constitutions/id
-linkftext: "constitutions"
 icon: /flags/id.png
 ---
 

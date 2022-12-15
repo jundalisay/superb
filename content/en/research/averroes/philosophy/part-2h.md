@@ -3,6 +3,7 @@ heading: "Part 2h"
 title: "Question 2: Prophetic Mission"
 author: Averroes
 description: ""
+weight: 26
 image: "/covers/averroes.jpg"
 ---
 

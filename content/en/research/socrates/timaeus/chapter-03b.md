@@ -1,7 +1,7 @@
 ---
 title: "The Soul"
 heading: "Chapter 3b"
-date: 2022-01-24
+weight: 1
 image: "/covers/timaeus.jpg"
 description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
 icon: "/icons/socrates.png"

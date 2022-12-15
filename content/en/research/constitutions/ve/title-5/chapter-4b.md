@@ -1,13 +1,9 @@
 ---
 title: "People Defender’s Office"
 heading: "Section 2 of Chapter 4"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "The People Defender’s Office promotes, defends and oversees the rights and guarantees established under this Constitution and international treaties on human rights"
-linkb: /research/constitutions/ve/title-5/chapter-4
-linkbtext: "Chapter 4"
-linkf: /research/constitutions/ve/title-5/chapter-4c
-linkftext: "Chapter 4c"
 icon: /flags/ve.png
 ---
 

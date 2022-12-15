@@ -2,7 +2,8 @@
 heading: "Chapter 20"
 title: "Extracts from the Book of History"
 description: "The four evils are omitting to instruct the people and then inflicting capital punishment on them which means cruel tyranny"
-date: 2020-01-01
+weight: 44
+author: Confucius
 image: "/covers/analects.png"
 ---
 

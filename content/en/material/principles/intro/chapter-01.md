@@ -5,6 +5,7 @@ date: 2020-01-01
 image: "/covers/spblack.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 author: Juan
+weight: 4
 icon: /icons/pantry.png
 aliases:
   /articles/material/what-are-the-five-layers-of-superphysics

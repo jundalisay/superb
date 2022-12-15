@@ -1,9 +1,10 @@
 ---
 heading: "Part 2"
 title: "What is the Nature of Number?"
-date: 2015-09-28
+weight: 4
 image: "/covers/meta.jpg"
 description: "Must we suppose something apart from individual things, or is it these that the science we are seeking treats of?"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

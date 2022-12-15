@@ -1,6 +1,6 @@
 ---
 title: "Justice is Not the Interest of the Stronger"
-date: 2015-09-28
+weight: 6
 image: "/covers/republic.jpg"
 description: "Justice is not in the dominance of the strong over the weak. Justice is not based on the strength of leadership since a leader is supposed to serve his subjects"
 icon: "/icons/soc.png"

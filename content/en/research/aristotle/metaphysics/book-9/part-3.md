@@ -1,7 +1,7 @@
 ---
 heading: "Part 3"
 title: "Capability and Potentiality and Actuality"
-date: 2020-09-26
+weight: 6
 image: "/covers/meta.jpg"
 description: "If that which is deprived of potentiality is incapable, that which is not happening will be incapable of happening"
 author: Aristotle

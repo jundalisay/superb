@@ -1,7 +1,7 @@
 ---
 title: "The Idols of the Market"
 heading: Chapter 2d
-date: 2022-01-25
+weight: 1
 image: "/covers/nova.jpg"
 description: ""
 icon: /icons/bacon.png

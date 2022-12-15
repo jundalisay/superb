@@ -1,13 +1,14 @@
 ---
 heading: "Chapter 9 "
 title: "International Institutions"
-# date: 2022-03-27
 # date: 2022-12-24
 date: 2021-12-17
+weight: 40
 image: /covers/econsp.jpg
 description: ""
 author: Dalisay
 ---
+
 
 ##  Adam Smith's World Government
 

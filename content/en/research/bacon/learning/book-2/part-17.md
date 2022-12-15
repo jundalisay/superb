@@ -1,7 +1,7 @@
 ---
 heading: Part 17
 title: "The method of tradition"
-date: 2022-08-15
+weight: 1
 description: "I think that this part of knowledge of method is so weakly inquired, and so I call it deficient."
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

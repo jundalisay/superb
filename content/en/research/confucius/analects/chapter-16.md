@@ -2,7 +2,8 @@
 heading: "Chapter 16"
 title: "Good and Bad Friendships"
 description: "Good and Bad Friendships"
-date: 2020-01-08
+weight: 36
+author: Confucius
 image: "/covers/analects.png"
 ---
 

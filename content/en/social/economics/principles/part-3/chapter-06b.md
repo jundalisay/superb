@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 6b"
 title: "Asian Crisis"
-# date: 2022-03-27
-date: 2021-12-24
+date: 2021-12-
+weight: 34
 image: /covers/econsp.jpg
 description: ""
 author: Dalisay

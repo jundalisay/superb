@@ -1,7 +1,7 @@
 ---
 title: "Hainan"
 heading: "Chapter 46"
-date: 2021-11-01
+weight: 58
 description: "When the Emperor Wu-ti (BC 140-86) 86) had made the conquest of Southern Yue, he sent a mission from Suwon across the sea to reconnoitre Hainan"
 image: "/flags/cn.png"
 author: "Chau Ju Kua"

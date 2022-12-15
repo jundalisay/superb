@@ -1,7 +1,7 @@
 ---
 title: Local Government
 heading: Article 10
-date: 2022-01-25
+weight: 1
 description: ""
 image: "/graphics/1987.jpg"
 icon: /flags/ph.png

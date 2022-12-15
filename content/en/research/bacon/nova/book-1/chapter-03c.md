@@ -1,7 +1,7 @@
 ---
 title: "The Development of Science"
 heading: Chapter 3c
-date: 2022-01-13
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

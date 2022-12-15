@@ -1,7 +1,7 @@
 ---
 title: "The One is All"
 heading: "Chapter 11"
-date: 2015-09-08
+weight: 22
 image: "/covers/parmenides.jpg"
 description: "The One is in everything that exists"
 icon: "/icons/soc.png"

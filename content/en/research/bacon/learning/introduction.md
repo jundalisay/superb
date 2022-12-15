@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 heading: Chapter 1
-date: 2022-01-31
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

@@ -1,7 +1,7 @@
 ---
 title: The Executive Power
 heading: Title 7-8
-date: 2022-01-20
+weight: 1
 # date: 1899-01-19
 description: "The Executive Power according to the Malolos Constitution"
 image: "/graphics/1899.jpg"

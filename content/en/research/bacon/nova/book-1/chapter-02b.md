@@ -1,7 +1,7 @@
 ---
 title: "The Idols of the Tribe"
 heading: Chapter 2b
-date: 2022-01-29
+weight: 1
 image: "/covers/nova.jpg"
 description: ""
 icon: /icons/bacon.png

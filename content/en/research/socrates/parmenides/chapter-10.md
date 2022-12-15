@@ -1,7 +1,7 @@
 ---
 title: "The Multiplicity of the Whole"
 heading: "Chapter 10"
-date: 2015-09-10
+weight: 20
 image: "/covers/parmenides.jpg"
 description: "The One, as the Whole, multiplies Itself"
 icon: "/icons/soc.png"

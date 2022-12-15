@@ -2,7 +2,8 @@
 heading: "Chapter 19"
 title: "Teachings of Various Chief Disciples"
 description: "The learned official who when he sees danger ahead will risk his very life, who when he sees a chance of success is mindful of what is just and proper"
-date: 2020-01-02
+weight: 42
+author: Confucius
 image: "/covers/analects.png"
 ---
 

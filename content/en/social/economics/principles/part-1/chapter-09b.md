@@ -1,13 +1,14 @@
 ---
 title: "Land Reform Principles of Adam Smith"
 heading: Chapter 9b
-date: 2022-08-02
+weight: 36
+# date: 2022-08-02
 # heading: "Security of Tenure and share of the profits"
 # date: 2016-02-07
 description: "According to Adam Smith, Land Reform should focus on the productivity of the land"
 image: /photos/objects/egypt.jpg
 youtube: "rVP73TV2X0s"
-author: Juan
+author: Juan Dalisay Jr
 icon: /icons/pantry.png
 ---
 

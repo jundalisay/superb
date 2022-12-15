@@ -1,7 +1,7 @@
 ---
 title: "South India (Chola)"
 heading: "Chapter 19"
-date: 2022-01-09
+weight: 24
 description: "Chola is in southern India (Yintu) of the west"
 image: "/flags/in.png"
 author: "Chau Ju Kua"

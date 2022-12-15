@@ -1,6 +1,6 @@
 ---
 title: "Calendars for Agriculture"
-date: 2022-01-31
+weight: 6
 author: "PR Sarkar"
 description: "The Hindi months are lunar months so cultivation cannot be done according to the Hindi calendar"
 image: "/covers/farming.jpg"

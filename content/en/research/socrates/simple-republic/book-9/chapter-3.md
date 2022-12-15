@@ -1,7 +1,7 @@
 ---
 title: "The Shadow of Shallow Pleasures"
 heading: "Chapter 3 of Book 9"
-date: 2015-09-26
+weight: 1
 image: "/covers/republic.jpg"
 description: "Shallow Pleasures are only a shadow compared to the real pleasures of philosophy and realization"
 author: "Socrates"

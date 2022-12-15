@@ -1,9 +1,9 @@
 ---
 heading: "Part 11"
 title: "The Requirements of an Ideal Constitution"
-date: 2022-01-31
+weight: 1
 author: "PR Sarkar"
-description: ""
+description: "With the changes of the social cycle, the human society has developed several social institutions to carry out its duties and responsibilities"
 image: "/covers/prout.png"
 icon: "/icons/sarkar.png"
 ---

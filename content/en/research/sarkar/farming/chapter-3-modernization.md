@@ -2,7 +2,7 @@
 title: "Modernization"
 # title: "Agrarian Revolution"
 heading: "Chapter 3"
-date: 2022-01-31
+weight: 1
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
 image: "/covers/farming.jpg"

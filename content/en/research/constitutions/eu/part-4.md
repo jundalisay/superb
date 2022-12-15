@@ -1,18 +1,14 @@
 ---
 title: "General And Final Provisions"
 heading: "Part 4"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
-linkb: /research/constitutions/eu
-linkbtext: "EU"
-linkf: /research/constitutions/eu
-linkftext: "EU"
 icon: /flags/eu.png
 ---
 
 
-Article IV-437
+## Article 4-437
 
 Repeal of earlier Treaties
 1. This Constitution for Europe shall repeal the Treaty establishing the European Community, the Treaty on European Union and, under the conditions laid down in the Protocol on the acts and treaties having supplemented or amended the Treaty establishing the European Community and the Treaty on European Union, the acts and treaties which have supplemented or amended them, subject to paragraph 2 of this Article.

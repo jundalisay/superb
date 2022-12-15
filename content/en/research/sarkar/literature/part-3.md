@@ -1,7 +1,7 @@
 ---
 title: "Struggle Against Obstacles"
 heading: "Part 3"
-date: 2021-11-26
+weight: 1
 image: "/covers/discourses.jpg"
 description: "Real artists or litterateurs should understand clearly where the society is moving"
 icon: "/icons/sarkar.png"

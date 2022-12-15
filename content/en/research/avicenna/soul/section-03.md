@@ -3,7 +3,7 @@ heading: "Section 3"
 title: "The General Definition of the Soul"
 description: "All the various things that are, however composite they may be, and whatever form may have come about in the compound"
 author: "Avicenna"
-date: 2022-09-28
+weight: 8
 image: "/covers/soul.jpg"
 ---
 

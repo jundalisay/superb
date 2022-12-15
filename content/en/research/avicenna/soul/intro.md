@@ -3,7 +3,7 @@ heading: "Introduction"
 title: "Avicena’s Offering To The Prince"
 description: ""
 author: "Avicenna"
-date: 2022-09-30
+weight: 1
 image: "/covers/soul.jpg"
 ---
 

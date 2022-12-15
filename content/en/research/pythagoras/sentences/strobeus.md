@@ -1,6 +1,6 @@
 ---
 title: "Select Sentences Of Sextus The Pythagorean"
-date: 2022-04-10
+weight: 19
 # date: 2022-04-13
 image: /covers/sentences.jpg
 description: "Do not even think of doing what should not be done. Choose rather to be strong in soul than in body"

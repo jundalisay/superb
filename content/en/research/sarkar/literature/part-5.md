@@ -1,7 +1,7 @@
 ---
 title: "Plays and Dramas"
 heading: "Part 5"
-date: 2021-11-20
+weight: 1
 image: "/covers/discourses.jpg"
 description: "People said that after the great poet Girishchandra was gone, there were no longer any accomplished dramatists"
 icon: "/icons/sarkar.png"

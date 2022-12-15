@@ -1,7 +1,7 @@
 ---
 title: Declaration of Principles and State Policies
 heading: Articles 1-2
-date: 2022-01-31
+weight: 1
 description: ""
 image: "/graphics/1987.jpg"
 icon: /flags/ph.png

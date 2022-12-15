@@ -1,6 +1,6 @@
 ---
 title: "Definitions"
-date: 2020-01-28
+weight: 100
 image: "/photos/physics/quasar.jpg"
 description: "Definitions by the Essassani"
 ---

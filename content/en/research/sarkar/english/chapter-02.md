@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
 title: "Articles"
-date: 2022-01-27
+weight: 10
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"

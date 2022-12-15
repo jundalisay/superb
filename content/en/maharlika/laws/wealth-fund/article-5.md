@@ -2,8 +2,9 @@
 heading: "Article 5"
 title: "Governance"
 description: "An Act Establishing The Maharlika Investment Fund, Providing For The Management, Investment, And Use Of The Proceeds Of The fund, Appropriating Funds Thereof And For Other Purposes "
-image: "/photos/buy.jpg"
-date: 2022-09-30
+image: "/photos/city.jpg"
+weight: 108
+# date: 2022-09-30
 ---
 
 

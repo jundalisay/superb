@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3"
 title: "Case"
-date: 2022-01-25
+weight: 12
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"

@@ -2,8 +2,9 @@
 heading: "Chapter 24b"
 title: "Flabby Luna"
 description: "His realm is the world of imagination. He keeps humanity from becoming too material, and enables us to see with the mind's eye"
-date: 2020-01-18
+weight: 126
 image: "/photos/objects/hand.jpg"
+author: William Benham
 ---
 
 

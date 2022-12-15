@@ -1,7 +1,7 @@
 ---
 title: "Education, Culture and Sports"
 heading: "Chapter 3"
-date: 2021-11-24
+weight: 24
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

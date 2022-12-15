@@ -1,6 +1,6 @@
 ---
 title: Local Government
-date: 2022-01-21
+weight: 1
 heading: Article 11
 # date: 1899-01-19
 description: "The Legislative power shall be vested in a Batasang Pambansa."

@@ -1,7 +1,7 @@
 ---
 heading: "Part 5"
 title: "Motion is Existed Before Creation"
-date: 2015-09-23
+weight: 6
 image: "/covers/meta.jpg"
 description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
 icon: "/icons/aris.jpg"

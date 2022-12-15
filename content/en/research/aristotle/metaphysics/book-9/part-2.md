@@ -1,7 +1,7 @@
 ---
 heading: "Part 2"
 title: "All arts are potentialities"
-date: 2020-09-28
+weight: 4
 image: "/covers/meta.jpg"
 description: "Arts are potentialities. They are originative sources of change in another thing or in the artist himself considered as other"
 author: Aristotle

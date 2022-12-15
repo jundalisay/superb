@@ -3,7 +3,7 @@ heading: "Section 9"
 title: "The Proofs of the Essentiality of the Soul, and of Its Independence of Body"
 description: ""
 author: "Avicenna"
-date: 2022-09-22
+weight: 20
 image: "/covers/soul.jpg"
 ---
 

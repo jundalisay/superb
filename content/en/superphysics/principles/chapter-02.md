@@ -2,8 +2,8 @@
 title: "Everything is an Idea"
 #, Propelled by Feelings
 heading: "Chapter 2"
-# date: 2020-01-02
-date: 2020-12-30
+date: 2020-01-02
+weight: 6
 image: /photos/idea.jpg
 description: "Everything is an idea of the Creator of that existence"
 author: Juan

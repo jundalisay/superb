@@ -1,9 +1,10 @@
 ---
-heading: "Part 3 of Book 4"
+heading: "Part 3"
 title: "What Should Science Do?"
-date: 2020-09-27
+weight: 4
 image: "/covers/meta.jpg"
 description: "Should the sciences inquire into the truths which are in mathematics called axioms, and into substance?"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

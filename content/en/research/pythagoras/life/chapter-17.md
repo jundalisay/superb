@@ -1,7 +1,7 @@
 ---
 title: "The Pythagorean Educational System"
 heading: "Chapter 17"
-date: 2015-09-14
+weight: 20
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: "Pythagoras was the first who called himself a philosopher"

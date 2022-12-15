@@ -1,7 +1,7 @@
 ---
 heading: "Part 12"
 title: "Defining Potency"
-date: 2020-09-28
+weight: 14
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Aristotle defines potency and incapacity"

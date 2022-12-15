@@ -1,6 +1,6 @@
 ---
 title: "Natural Diet for Leucorrhoea"
-date: 2022-01-31
+weight: 1
 author: "PR Sarkar"
 description: "If a woman suffers from anaemia for whatever reason, the organs of the body become incapable of supplying an adequate amount of blood to the uterus"
 image: "/photos/med/leucorrhea.jpg"

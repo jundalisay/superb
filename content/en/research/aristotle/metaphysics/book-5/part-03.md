@@ -1,8 +1,9 @@
 ---
-heading: "Parts 3-5 of Book 5"
+heading: "Parts 3-5"
 title: "Defintion of Element, Nature, and Necessary"
-date: 2020-09-28
+weight: 4
 image: "/covers/meta.jpg"
+author: Aristotle
 description: "Aristotle explains element and nature"
 icon: "/icons/aris.jpg"
 ---

@@ -1,13 +1,12 @@
-+++
-title= "Theages' Treatise On The Virtues"
-date= 2015-09-09
-image= "/covers/fragments.png"
-description= "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
-linkb= "/research/pythagoras/fragments/polus"
-linkbtext= "Poluslus"
-linkf= "/research/pythagoras/fragments"
-linkftext= "Index"
-+++
+---
+title: "Theages' Treatise On The Virtues"
+# heading: Prudence And Prosperity
+weight: 16
+description: "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
+image: "/covers/fragments.png"
+---
+
+
 
 The parts of the soul are:
 - the reasoning power which has dominion over knowledge

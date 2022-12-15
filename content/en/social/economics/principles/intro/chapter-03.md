@@ -3,9 +3,9 @@ heading: "Chapter 3"
 title: "The Metaphysics of Value"
 linkTitle: Chapter 3
 # heading: Nominal, Real, Natural, Market Prices
-date: 2022-03-28
+# date: 2022-03-28
 dateorig: Originally written in 2016
-# image: /covers/econsp.jpg
+weight: 10
 image: /photos/econ/bake.jpg
 description: "To prevent economic disorder, we correct the mistakes of Economics by introducing he Four Laws of Value derived from Adam Smith. In line with Superphysics, Superphysics sees value as a wave and price as a particle"
 author: Juan

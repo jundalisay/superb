@@ -1,10 +1,11 @@
 ---
 heading: "Part 4"
 title: "Contrariety according to Aristotle"
-date: 2015-09-26
+weight: 6
 image: "/covers/meta.jpg"
 description: "Contrariety is the greatest difference between things"
 icon: "/icons/aris.jpg"
+author: Aristotle
 ---
 
 

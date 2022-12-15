@@ -1,9 +1,10 @@
 ---
 heading: "Part 8"
 title: "Number and Unit"
-date: 2015-09-20
+weight: 12
 image: "/covers/meta.jpg"
 description: "What is the differentia of a number and of a unit if it has a differentia?"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

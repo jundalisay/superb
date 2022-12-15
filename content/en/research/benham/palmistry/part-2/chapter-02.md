@@ -1,11 +1,14 @@
 ---
-heading: "Chapter 2 Part 2 "
+heading: "Chapter 2"
 title: "The Electric Current"
 description: "No two hands are exactly alike because no two people are exactly alike in character, temperament, or in any other way"
 # date: 2020-01-17
-date: 2020-01-28
+weight: 4
 image: "/photos/objects/hand.jpg"
+author: William Benham
 ---
+
+
 
 
 <!-- If the hands of a thousand people are examined, in each one will be found a different combination of lines.

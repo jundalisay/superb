@@ -1,7 +1,7 @@
 ---
 title: "National Legislative Power"
 heading: "Chapter 1"
-date: 2021-11-30
+weight: 1
 image: "/flags/ve.png"
 description: "Electoral Power is exercised by the National Electoral Council as governing body, and by the latter’s subordinate organs"
 icon: /flags/ve.png

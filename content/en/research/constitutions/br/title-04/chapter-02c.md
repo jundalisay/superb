@@ -1,7 +1,7 @@
 ---
 title: "The Council of the Republic and the National Defense Council"
 heading: "Title 4 Chapter 4 Section 5"
-date: 2021-11-16
+weight: 24
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

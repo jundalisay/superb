@@ -1,7 +1,7 @@
 ---
 title: "Demonstrations"
 heading: Chapter 2g
-date: 2022-01-17
+weight: 1
 image: "/covers/nova.jpg"
 description: ""
 icon: /icons/bacon.png

@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Versus Pleasure, Science Versus Dialectics"
 heading: "Chapter 3 of Book 6"
-date: 2015-09-26
+weight: 16
 image: "/covers/republic.jpg"
 description: "The knowledge of the Truth is real pleasure"
 author: "Socrates"

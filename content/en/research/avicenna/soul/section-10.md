@@ -1,9 +1,9 @@
 ---
 heading: "Section 10"
 title: "The Immaterial Mental Essence"
-description: ""
+description: "There is a Mental Essence, distinct from Bodies, which stands towards Human Souls"
 author: "Avicenna"
-date: 2022-09-21
+weight: 22
 image: "/covers/soul.jpg"
 ---
 

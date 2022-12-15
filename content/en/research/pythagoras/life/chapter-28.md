@@ -1,18 +1,12 @@
-+++
-title= "Pythagoras' Religious Policies"
-date= 2015-09-12
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-27"
-linkbtext= "Chapter 27"
-linkf= "/research/pythagoras/life/chapter-29"
-linkftext= "chapter-29"
-heading= "Chapter 28"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagoras' Religious Policies"
+heading: "Chapter 28"
+weight: 38
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Nutrition greatly contributes to the best discipline when properly used"
+icon: "/icons/py.png"
+---
 
 
 What were the virtues espoused by Pythagoras?
@@ -20,7 +14,9 @@ What were the virtues espoused by Pythagoras?
 
 Let this, therefore, be one specimen of his piety, which also we have before mentioned, that he knew what his soul was, and whence it came into the body, and also its former lives, and that of these things he gave most evident indications. 
 
-After this also, let the following be another specimen; that once passing over the river Nessus with many of his associates, he spoke to it, and the river in a distinct and clear voice, in the hearing of all his followers, answered, Hail Pythagoras! Farther still, nearly all historians of his life confidently assert, that in one and 98 the same day he was present at Metapontum in Italy, and Tauromenium in Sicily, and discoursed in common with his disciples in both places, though these cities are separated from each other by many stadia both by land and sea, and cannot be passed through in a great number of days. The report, also, is very much disseminated, that he showed his golden thigh to the Hyperborean Abaris, who said that he resembled the Apollo among the Hyperboreans, and of whom Abaris was the priest; and that he did this in order that Abaris might apprehend this to be true, and that he was not deceived in his opinion. 
+After this also, let the following be another specimen; that once passing over the river Nessus with many of his associates, he spoke to it, and the river in a distinct and clear voice, in the hearing of all his followers, answered, Hail Pythagoras! Farther still, nearly all historians of his life confidently assert, that in one and 98 the same day he was present at Metapontum in Italy, and Tauromenium in Sicily, and discoursed in common with his disciples in both places, though these cities are separated from each other by many stadia both by land and sea, and cannot be passed through in a great number of days. 
+
+The report, also, is very much disseminated, that he showed his golden thigh to the Hyperborean Abaris, who said that he resembled the Apollo among the Hyperboreans, and of whom Abaris was the priest; and that he did this in order that Abaris might apprehend this to be true, and that he was not deceived in his opinion. 
 
 Ten thousand other more divine and more admirable particulars likewise are uniformly and unanimously related of the man= such as infallible predictions of earthquakes, rapid expulsions of pestilence and violent winds, instantaneous cessations of the effusion of hail, and a tranquillization of the waves of rivers and seas, in order that his disciples might easily pass over them. 
 

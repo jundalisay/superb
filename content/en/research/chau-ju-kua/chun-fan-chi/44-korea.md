@@ -1,7 +1,7 @@
 ---
 title: "Korea (Sinlo)"
 heading: "Chapter 22"
-date: 2021-11-20
+weight: 54
 description: "The Koreans (Sinlo) descend from the Pien-han."
 image: "/flags/kr.png"
 author: "Chau Ju Kua"

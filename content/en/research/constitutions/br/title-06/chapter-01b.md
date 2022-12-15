@@ -1,7 +1,7 @@
 ---
 title: "Limitations on the Power to Tax"
 heading: "Chapter 1 Section 2"
-date: 2021-11-20
+weight: 16
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

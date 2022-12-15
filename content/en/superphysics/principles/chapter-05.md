@@ -4,8 +4,8 @@ title: "Desire and the Two Forces"
 #, Propelled by Feelings
 heading: "Chapter 5"
 # heading: "Inside the Matrix or the Mind of the Brahma"
-# date: 2020-01-02
-date: 2020-12-20
+date: 2020-01-02
+weight: 16
 image: /photos/meta/yinyang.jpg
 description: "Everything in existence is created by the two forces"
 author: Juan

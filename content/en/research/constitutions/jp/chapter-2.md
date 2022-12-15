@@ -1,7 +1,7 @@
 ---
 title: "Civil Rights"
 heading: "Chapter 2"
-date: 2021-11-28
+weight: 1
 image: "/flags/jp.png"
 description: ""
 icon: "/flags/jp.png"

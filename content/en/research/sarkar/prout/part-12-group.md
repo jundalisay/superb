@@ -1,7 +1,7 @@
 ---
 heading: "Part 12"
 title: "Service Psychology and Group Psychology"
-date: 2022-01-31
+weight: 1
 author: "PR Sarkar"
 description: ""
 image: "/covers/prout.png"
@@ -9,9 +9,8 @@ icon: "/icons/sarkar.png"
 ---
 
 
+
 Human society is one and indivisible. 
-
-
 
 All kinds of “isms” is splitting human society into numerous parts because of:
 - superstition

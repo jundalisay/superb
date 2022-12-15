@@ -1,7 +1,7 @@
 ---
 title: "Municipal Public Power"
 heading: "Chapter 4"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "Municipalities constitute the primary political unit in the organization of the nation, and enjoy artificial personality and autonomy within the limits prescribed by the Constitution and the law"
 icon: /flags/ve.png

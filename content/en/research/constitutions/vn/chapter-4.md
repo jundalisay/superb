@@ -1,13 +1,9 @@
 ---
 title: "National Defense"
 heading: "Chapter 4 of the Vietnamese Constitution Simplified"
-date: 2021-11-20
+weight: 1
 image: "/flags/vn.png"
 description: "Political, civic, economic, cultural and social human rights and citizen’s rights are recognized, respected, protected, and guaranteed"
-linkb: /research/constitutions/vn
-linkbtext: "constitutions"
-linkf: /research/constitutions/vn
-linkftext: "constitutions"
 icon: /flags/vn.png
 ---
 

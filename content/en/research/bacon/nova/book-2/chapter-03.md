@@ -1,7 +1,7 @@
 ---
 title: "The Precepts and The Table of Existence and Presence"
 heading: Chapter 3
-date: 2022-01-25
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

@@ -2,7 +2,7 @@
 title: "The Interpretation Of Nature Simplified"
 heading: Chapter 1
 description: "Man is the minister and interpreter of nature. He tries to understand the order of nature."
-date: 2022-01-31
+weight: 1
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---

@@ -4,7 +4,7 @@ title: "Chiang Mai"
 heading: "Chapter 5"
 description: "Chiang Mai is west of Cambodia. Its ruler wears flowers in his hair, which is done up in a knot"
 image: "/flags/mm.png"
-date: 2022-01-26
+weight: 6
 ---
 
 

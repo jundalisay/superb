@@ -4,7 +4,7 @@ heading: "Chapters 23-24"
 description: "North Vietnam, the ancient Kiau-chou, to the east and the south reaches to the sea and borders on South Vietnam."
 image: "/flags/sa.png"
 author: "Chau Ju Kua"
-date: 2022-01-02
+weight: 32
 ---
 
 
@@ -187,7 +187,7 @@ the supernatural light. -->
 <!-- ---
 title: "Bandar Abbas (Tsongpa)"
 heading: "Chapter 24"
-date: 2022-01-02
+weight: 1
 description: "The Arabs are to the very far northwest of Guangzhou. This makes it hard for foreign ships to trade to it directly."
 image: "/flags/sa.png"
 author: "Chau Ju Kua"

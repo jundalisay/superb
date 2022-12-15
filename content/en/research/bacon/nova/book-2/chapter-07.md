@@ -1,7 +1,7 @@
 ---
 title: "Prerogative Instances"
 heading: Chapter 7
-date: 2022-01-18
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

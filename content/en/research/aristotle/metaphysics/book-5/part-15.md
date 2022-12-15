@@ -1,14 +1,14 @@
-+++
-title= "Defining Relative"
-heading= "Part 15 of Book 5"
-image= "/covers/meta.jpg"
-description= "Aristotle defines relative"
-linkb= "/research/aristotle/metaphysics/book-5/part-13"
-linkbtext= "Part 13"
-linkf= "/research/aristotle/metaphysics/book-5/part-16"
-linkftext= "Part 16"
-icon= "/icons/aris.jpg"
-+++
+---
+heading: "Part 15"
+title: "Defining Relative"
+weight: 18
+image: "/covers/meta.jpg"
+author: Aristotle
+description: "Aristotle defines Relative"
+icon: "/icons/aris.jpg"
+---
+
+
 
 "Things are 'relative'
 

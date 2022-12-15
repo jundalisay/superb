@@ -1,7 +1,7 @@
 ---
 title: "Borrowing"
 heading: "Part 12b"
-date: 2021-10-20
+weight: 1
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

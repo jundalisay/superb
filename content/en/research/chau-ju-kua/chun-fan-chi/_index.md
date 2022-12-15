@@ -1,5 +1,7 @@
-+++
-title= "Chun Fan Chi"
-date= "2022-01-01"
-image= "/covers/chun.jpg"
-+++
+---
+title: "Chun Fan Chi"
+weight: 1
+image: "/covers/chun.jpg"
+author: "Chau Ju Kua"
+---
+

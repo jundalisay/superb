@@ -1,7 +1,7 @@
 ---
 title: "Summary"
 heading: Idea and Ideology Simplified
-date: 2022-01-31
+weight: 1
 description: ""
 image: "/covers/ideology.jpg"
 linkb: "/research/sarkar/idea/"

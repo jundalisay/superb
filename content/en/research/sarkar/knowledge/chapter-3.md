@@ -1,7 +1,7 @@
 ---
 title: "The Objective and Subjective"
 heading: "Chapter 3"
-date: 2021-11-26
+weight: 1
 image: "/covers/discourses.jpg"
 description: "Knowledge is an action exclusively confined neither to the material world nor to the abstract world"
 icon: "/icons/sarkar.png"

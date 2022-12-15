@@ -1,31 +1,22 @@
 ---
 title: "Education"
 heading: "Chapter 13"
-date: 2021-11-20
+weight: 1
 image: "/flags/id.png"
 description: ""
-linkb: /research/constitutions/id
-linkbtext: "constitutions"
-linkf: /research/constitutions/id
-linkftext: "constitutions"
 icon: /flags/id.png
 ---
 
 
-Article 31
+## Article 31
 
 1. Every citizen has the right to receive education.
-2. Every citizen has the obligation to undertake basic education, and the
-government has the obligation to fund this.
-3. The government shall manage and organise one system of national education,
-which shall increase the level of spiritual belief, devoutness and moral character
-in the context of developing the life of the nation and shall be regulated by law.
-4. The state shall prioritise the budget for education to a minimum of 20% of the
-State Budget and of the Regional Budgets to fulfil the needs of implementation of
-national education.
-5. The government shall advance science and technology with the highest respect
-for religious values and national unity for the advancement of civilisation and
-prosperity of humankind.
+2. Every citizen has the obligation to undertake basic education, and the government has the obligation to fund this.
+3. The government shall manage and organise one system of national education, which shall increase the level of spiritual belief, devoutness and moral character in the context of developing the life of the nation and shall be regulated by law.
+
+4. The state shall prioritise the budget for education to a minimum of 20% of the State Budget and of the Regional Budgets to fulfil the needs of implementation of national education.
+
+5. The government shall advance science and technology with the highest respect for religious values and national unity for the advancement of civilisation and prosperity of humankind.
 
 <!-- Free education
 Compulsory education

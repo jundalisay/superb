@@ -2,7 +2,8 @@
 heading: "Chapter 6"
 title: "Wisdom and Philanthropy"
 description: "To be serious in regard to spiritual beings, and to hold aloof from them, this may be called wisdom"
-date: 2020-01-22
+weight: 12
+author: Confucius
 image: "/covers/analects.png"
 ---
 

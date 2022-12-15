@@ -3,7 +3,7 @@ heading: Chapter 14c
 title: "Line of Intuition, Via Lascivia"
 image: "/photos/objects/hand.jpg"
 description: "The line of Intuition lies at the side of the hand near the percussion"
-date: 2019-12-02
+weight: 76
 author: William Benham
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The knowledge of ourselves
 heading: "Part 9"
-date: 2022-09-07
+weight: 1
 description: "the knowledge of ourselves"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

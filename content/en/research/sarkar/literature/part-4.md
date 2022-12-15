@@ -1,7 +1,7 @@
 ---
 title: "Popular Language"
 heading: "Part 4"
-date: 2021-11-23
+weight: 1
 image: "/covers/discourses.jpg"
 description: "Popular Language"
 icon: "/icons/sarkar.png"

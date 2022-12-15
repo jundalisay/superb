@@ -1,6 +1,7 @@
 ---
 title: "Ivory, Rhinoceros Horns, Castoreum, Civet, Parrots"
 heading: "Part 36"
+weight: 80
 image: "/covers/chun.jpg"
 description: "Siang-ya, or ivory, comes from several Arab countries and the two countries of Chonla India and South Vietnam"
 ---

@@ -1,17 +1,14 @@
-+++
-title= "Pythagorean Diet"
-date= 2015-09-16
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/pythagoras/life/chapter-25"
-linkftext= "chapter-25"
-# btext= Chapter 24
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagorean Diet"
+heading: "Chapter 24"
+weight: 30
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Nutrition greatly contributes to the best discipline when properly used"
+icon: "/icons/py.png"
+---
+
+
 
 Nutrition greatly contributes to the best discipline when properly used. 
 

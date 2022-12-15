@@ -1,7 +1,7 @@
 ---
 title: "The Minimum Essentials of Life"
 heading: "Chapter 11b "
-date: 2022-01-09
+weight: 1
 author: "PR Sarkar"
 description: "The availability of the minimum essentialities of life plays a vital part not only in achieving world brotherhood, but also in the development of human personality"
 image: "/covers/ideology.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Policies for the Senators"
 heading: "Chapter 9"
-date: 2015-09-25
+weight: 12
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: "The Routine of an Economist"
 heading: "Chapter 11"
-date: 2015-09-14
+weight: 1
 image: "/covers/economist.jpg"
 description: "My habit is to rise from bed betimes, when I may still expect to find at home this, that, or the other friend, whom I may wish to see"
 icons: "/icons/soc.png"

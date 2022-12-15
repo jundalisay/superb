@@ -1,7 +1,7 @@
 ---
 title: "Public Security"
 heading: "Title 5 Chapter 3"
-date: 2021-11-20
+weight: 16
 image: "/flags/br.png"
 description: "The President of the Republic may, after hearing the Council of the Republic and the National Defense Council, decree a state of defense"
 icon: "/flags/br.png"
@@ -9,9 +9,9 @@ icon: "/flags/br.png"
 
 
 
-Article 144.  Public security, the duty of the State and the right and responsibility
-of all, is exercised to preserve public order and the safety of persons and property, by
-means of the following agencies: (CA No. 19, 1998)
+## Article 144.
+
+Public security, the duty of the State and the right and responsibility of all, is exercised to preserve public order and the safety of persons and property, by means of the following agencies: (CA No. 19, 1998)
 
 1. federal police;
 2.  federal highway police;

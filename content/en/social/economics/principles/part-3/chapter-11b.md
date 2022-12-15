@@ -3,6 +3,7 @@ heading: "Chapter 11b"
 title: "What Defines Capitalism?"
 # date: 2015-07-24
 date: 2021-12-16
+weight: 52
 image: /photos/econ/crash.jpg
 description: "Superphysics defines capitalism as an economic system that uses outside ownership to amass private profits"
 youtube: "rVP73TV2X0s"

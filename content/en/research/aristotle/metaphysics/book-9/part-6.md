@@ -1,7 +1,7 @@
 ---
 heading: "Part 6"
 title: "Potentiality versus Actuality"
-date: 2020-09-22
+weight: 10
 image: "/covers/meta.jpg"
 description: "Actuality, then, is the existence of a thing not in the way which we express by 'potentially'"
 author: Aristotle

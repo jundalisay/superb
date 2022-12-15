@@ -1,7 +1,7 @@
 ---
 title: "Temporary, Transitional And Special Provisions"
 heading: "Part 21"
-date: 2021-09-20
+weight: 1
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

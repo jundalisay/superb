@@ -1,37 +1,30 @@
 ---
 title: "Provisions On The Annexes To The Act Of Accession Of 16 April 2003"
 heading: "Part 3"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Everyone has the right to liberty and security of person"
-linkb: /research/constitutions/eu/part-2/title-1
-linkbtext: "Title 1"
-linkf: /research/constitutions/eu/part-2/title-3
-linkftext: "Title 3"
 icon: /flags/eu.png
 ---
 
 
+
 <!-- PART THREE -->
 
-Article 73
+## Article 73
 
 Annex I and Annexes III to XVII to the Act of Accession of 16 April 2003, their appendices, and the
 Annexes to Protocols 2, 3 and 8 to the Act of Accession of 16 April 2003 ( 1 ) form an integral part of
 this Protocol.
 
-Article 74
-1. The references made to the ‘Treaty of Accession’ in the Annexes referred to in Article 73 of this
-Protocol shall be construed as being made to the Treaty referred to in Article IV‑437(2)(e) of the
-Constitution, those made to the date or time of signing of that Treaty shall be construed as being
-made to 16 April 2003 and those made to the date of accession shall be construed as being made to
-1 May 2004.
-2. Without prejudice to the second subparagraph, the references made to ‘this Act’ in the Annexes
-referred to in Article 73 of this Protocol shall be construed as being made to the Act of Accession of
-16 April 2003.
-The references made to the provisions of the Act of Accession of 16 April 2003 in the Annexes
-referred to in Article 73 of this Protocol shall be construed as being made to this Protocol, in
-accordance with the following table of equivalence.
+## Article 74
+
+1. The references made to the ‘Treaty of Accession’ in the Annexes referred to in Article 73 of this Protocol shall be construed as being made to the Treaty referred to in Article IV‑437(2)(e) of the Constitution, those made to the date or time of signing of that Treaty shall be construed as being
+made to 16 April 2003 and those made to the date of accession shall be construed as being made to 1 May 2004.
+
+2. Without prejudice to the second subparagraph, the references made to ‘this Act’ in the Annexes referred to in Article 73 of this Protocol shall be construed as being made to the Act of Accession of 16 April 2003.
+
+The references made to the provisions of the Act of Accession of 16 April 2003 in the Annexes referred to in Article 73 of this Protocol shall be construed as being made to this Protocol, in accordance with the following table of equivalence.
 Act of Accession of 16 April 2003 Protocol
 
 Article 21 Article 12

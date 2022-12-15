@@ -1,6 +1,7 @@
 ---
 title: "Defining Part and Whole"
-heading: "Part 25 of Book 5"
+heading: "Part 25"
+weight: 24
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Aristotle defines Part and Whole"

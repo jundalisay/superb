@@ -1,13 +1,9 @@
 ---
 title: "Provisions On Unit 1 And Unit 2 Of The Bohunice V1 Nuclear Power Plant In Slovakia"
 heading: "Title 9"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Everyone has the right to liberty and security of person"
-linkb: /research/constitutions/eu/part-2/title-1
-linkbtext: "Title 1"
-linkf: /research/constitutions/eu/part-2/title-3
-linkftext: "Title 3"
 icon: /flags/eu.png
 ---
 

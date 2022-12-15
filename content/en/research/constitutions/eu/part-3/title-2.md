@@ -1,13 +1,9 @@
 ---
 title: "NON-DISCRIMINATION AND CITIZENSHIP"
 heading: "Title 2"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
-linkb: /research/constitutions/eu
-linkbtext: "EU"
-linkf: /research/constitutions/eu
-linkftext: "EU"
 icon: /flags/eu.png
 ---
 

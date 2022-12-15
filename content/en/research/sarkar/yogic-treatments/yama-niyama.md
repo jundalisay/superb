@@ -1,6 +1,6 @@
 ---
 title: "Yama and Niyama"
-date: 2022-01-31
+weight: 1
 author: "PR Sarkar"
 type: featured
 description: "Hindu Morals are rooted in Yama and Niyama"

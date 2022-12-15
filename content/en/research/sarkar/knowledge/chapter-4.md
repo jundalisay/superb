@@ -1,7 +1,7 @@
 ---
 title: "Rhythm and Memory"
 heading: "Chapter 4"
-date: 2021-11-22
+weight: 1
 image: "/covers/discourses.jpg"
 description: "Many things may be created in both the objectivated and subjectivated minds which do not belong to the external world"
 icon: "/icons/sarkar.png"

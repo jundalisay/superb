@@ -1,7 +1,7 @@
 ---
 heading: "Part 13"
 title: The invention of speech or argument
-date: 2022-08-23
+weight: 1
 description: "Money will fetch all other commodities. Likewise, this knowledge should purchase all the rest. Its lack is like the lack of ready money"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

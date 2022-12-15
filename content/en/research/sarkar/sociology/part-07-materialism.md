@@ -1,7 +1,7 @@
 ---
 title: "Dialectical Materialism and Democracy"
 heading: "Part 4"
-date: 2021-11-30
+weight: 1
 image: "/covers/discourses.jpg"
 description: "Social advancement is the triadic blending of thesis, antithesis and synthesis."
 icon: "/icons/sarkar.png"

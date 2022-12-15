@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Agriculture"
 heading: "Chapter 6"
-date: 2015-09-22
+weight: 1
 image: "/covers/economist.jpg"
 description: ""
 icon: "/icons/soc.png"

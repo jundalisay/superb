@@ -1,6 +1,6 @@
 ---
 title: "What is Justice?"
-date: 2015-09-30
+weight: 4
 image: "/covers/republic.jpg"
 description: "Justice is not merely doing good to our friends and doing harm to our enemies. Nor is it just the repayment of debts."
 icon: "/icons/soc.png"

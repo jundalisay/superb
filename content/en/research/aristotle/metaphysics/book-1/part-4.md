@@ -1,7 +1,7 @@
 ---
 title: "Hesiod Parmenides"
 heading: "Part 4"
-date: 2015-09-25
+weight: 8
 image: "/covers/meta.jpg"
 description: "Aristotle explains the basic ideas of Hesiod and Parmenides"
 icon: "/icons/aris.jpg"

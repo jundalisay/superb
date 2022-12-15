@@ -1,7 +1,7 @@
 ---
 title: "Dialectics as an Essential Study"
 heading: "Chapter 4 of Book 7"
-date: 2015-09-24
+weight: 1
 image: "/covers/republic.jpg"
 description: "Dialectics is the last and most important study that is superior to all the sciences as it deals with the nature of things. The four divisions of knowledge are science, understanding, opinion, and perception of shadows"
 author: "Socrates"

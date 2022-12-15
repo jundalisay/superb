@@ -2,7 +2,7 @@
 heading: "Part 4"
 title: "Philippine Mining in the 19th century"
 description: "Among the varied productions of the Philippines, for many reasons, none is so deserving of attention as cotton"
-date: 2021-01-24
+weight: 10
 image: "/covers/1810.jpg"
 ---
 

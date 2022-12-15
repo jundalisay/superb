@@ -5,6 +5,7 @@ date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "In Superphysics, electrons have a positive or masculine charge, while protons have a negative or feminine charge. This is consistent with the male Yang or Shiva, and the female Yin or Shakti"
 author: Juan
+weight: 6
 icon: /icons/spmat.png
 aliases:
   /material/principles/gravsigs

@@ -1,7 +1,7 @@
 ---
 title: "Culture"
 heading: "Chapter 3b and 4"
-date: 2021-11-22
+weight: 26
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

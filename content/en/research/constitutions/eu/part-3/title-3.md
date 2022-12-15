@@ -1,35 +1,29 @@
 ---
 title: "INTERNAL POLICIES AND ACTION"
 heading: "Title 3"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
-linkb: /research/constitutions/eu
-linkbtext: "EU"
-linkf: /research/constitutions/eu
-linkftext: "EU"
 icon: /flags/eu.png
 ---
 
 
-CHAPTER 1: INTERNAL MARKET
+## CHAPTER 1: INTERNAL MARKET
 
-SECTION 1: ESTABLISHMENT AND FUNCTIONING OF THE INTERNAL MARKET
+### SECTION 1: ESTABLISHMENT AND FUNCTIONING OF THE INTERNAL MARKET
 
 Article 3-130
-1. The Union shall adopt measures with the aim of establishing or ensuring the functioning of the
-internal market, in accordance with the relevant provisions of the Constitution.
-2. The internal market shall comprise an area without internal frontiers in which the
-free movement of persons, services, goods and capital is ensured in accordance with the Constitution.
-3. The Council, on a proposal from the Commission, shall adopt European regulations and
-decisions determining the guidelines and conditions necessary to ensure balanced progress in all the
-sectors concerned.
-4. When drawing up its proposals for achieving the objectives set out in paragraphs 1 and 2,
-the Commission shall take into account the extent of the effort that certain economies showing
-differences in development will have to sustain for the establishment of the internal market and it
+
+1. The Union shall adopt measures with the aim of establishing or ensuring the functioning of the internal market, in accordance with the relevant provisions of the Constitution. 
+
+2. The internal market shall comprise an area without internal frontiers in which the free movement of persons, services, goods and capital is ensured in accordance with the Constitution.
+
+3. The Council, on a proposal from the Commission, shall adopt European regulations and decisions determining the guidelines and conditions necessary to ensure balanced progress in all the sectors concerned.
+
+4. When drawing up its proposals for achieving the objectives set out in paragraphs 1 and 2, the Commission shall take into account the extent of the effort that certain economies showing differences in development will have to sustain for the establishment of the internal market and it
 may propose appropriate measures.
-If these measures take the form of derogations, they must be of a temporary nature and must cause
-the least possible disturbance to the functioning of the internal market.
+
+If these measures take the form of derogations, they must be of a temporary nature and must cause the least possible disturbance to the functioning of the internal market.
 
 Article 3-131
 Member States shall consult each other with a view to taking together the steps needed to prevent the

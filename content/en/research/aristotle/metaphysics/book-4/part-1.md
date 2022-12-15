@@ -1,9 +1,10 @@
 ---
 heading: "Part 1 of Book 4"
 title: "The One Science"
-date: 2020-09-30
+weight: 1
 image: "/covers/meta.jpg"
 description: "To investigate the essence of these is the work of a science which is generically one"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

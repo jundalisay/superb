@@ -4,9 +4,9 @@ heading: "Chapter 1b"
 # heading: "The System to Harmonize Minds Into a Society"
 # image: "/photos/social/protests.jpg"
 image: "/photos/medieval/slave.jpg"
-# date: 2021-07-01
-date: 2022-01-30
-description : "A society is three or more entities working towards a common interest or goal"
+date: 2021-07-01
+weight: 8
+description: "A society is three or more entities working towards a common interest or goal"
 author: Juan
 icon: /icons/spsoc.png
 aliases: 

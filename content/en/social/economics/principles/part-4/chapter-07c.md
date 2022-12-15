@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7b"
 title: "How Profit Maximization Disrupted The Natural Balance of Economies"
-# date: 2022-12-30
+weight: 34
 date: 2021-12-27
 # date: 2022-03-06
 image: /photos/buy.jpg

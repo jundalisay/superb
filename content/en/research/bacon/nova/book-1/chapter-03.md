@@ -1,7 +1,7 @@
 ---
 title: "The Greeks"
 heading: Chapter 3
-date: 2022-01-16
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

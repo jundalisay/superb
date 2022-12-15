@@ -1,9 +1,10 @@
 ---
 title: "The Splits of the Line of Life"
 heading: "Chapter 7d of Part 2"
-date: 2020-01-03
+weight: 44
 image: "/photos/objects/hand.jpg"
 description: "The thin Life line indicates a lack of robust, muscular vitality and great endurance."
+author: William Benham
 ---
 
 

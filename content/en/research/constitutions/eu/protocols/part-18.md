@@ -1,7 +1,7 @@
 ---
 title: "PROTOCOL ON THE APPLICATION OF CERTAIN ASPECTS OF ARTICLE III-130 OF THE CONSTITUTION TO THE UNITED KINGDOM AND TO IRELAND"
 heading: "Part 18"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
 icon: /flags/eu.png

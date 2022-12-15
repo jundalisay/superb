@@ -1,7 +1,7 @@
 ---
 title: "The House of Representatives"
 heading: "Part 3"
-date: 2021-11-26
+weight: 6
 image: "/flags/au.png"
 description: "The House of Representatives is composed of members directly chosen by the people. The number of such members shall be twice the number of the senators."
 icon: "/flags/au.png"

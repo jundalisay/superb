@@ -1,7 +1,7 @@
 ---
 title: "The Early Philosophers"
 heading: "Part 3"
-date: 2015-09-27
+weight: 6
 image: "/covers/meta.jpg"
 description: "Aristotle enumerates the principles of the early philosophers"
 icon: "/icons/aris.jpg"

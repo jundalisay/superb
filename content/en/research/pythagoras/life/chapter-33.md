@@ -1,16 +1,12 @@
-+++
-title= "The Community of Pythagoraeans"
-heading = "Chapter 33"
-date= 2015-09-07
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-32"
-linkbtext= "Chapter 26"
-linkf= "/research/pythagoras/life/chapter-34"
-linkftext= "chapter-28"
-icon = "/icons/py.png"
-+++
+---
+title: "The Community of Pythagoraeans"
+heading: "Chapter 33"
+weight: 46
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "With respect to the amity, however, which subsists in all things towards all, Pythagoras delivered it in the clearest manner."
+icon: "/icons/py.png"
+---
 
 
 With respect to the amity, however, which subsists in all things towards all, Pythagoras delivered it in the clearest manner. 
@@ -19,7 +15,13 @@ And, the amity of the Gods indeed towards men, he unfolded through piety and sci
 
 But the pacification and conciliation of the body, which is of itself mortal, and of its latent contrary powers, he unfolded through health, and a diet and temperance conformable to this, in imitation of the salubrious condition of the mundane elements. In all these, however, Pythagoras is acknowledged to have been the inventor and legislator of the summary comprehension of them in one and the same name, which is that of friendship. And indeed he delivered such an admirable friendship to his associates, that even now those who are benevolent in the extreme towards each other, are said to belong to the Pythagoreans. It is necessary therefore to narrate the discipline of Pythagoras respecting these things, and the precepts which he used towards his disciples.
 
-These men, then, exhorted others to remove from true friendship, contest and contention, and if possible, indeed, from all friendship; but if not, at least from that which is parental, and universally from that which pertains to seniors and benefactors. For to strive or contend with such as these, in consequence of anger intervening, or some other such-like passion, is not the salvation of the existing 164 friendship. But they said it is requisite that there should be the least possible scars and ulcers in friendships; and that this will be the case, if those that are friends know how to soften and subdue anger. If both indeed know this, or rather the younger of the two, and who ranks in some one of the above-mentioned orders [their friendship will be more easily preserved]. They also were of opinion, that corrections and admonitions, which they called pædartases, should take place from the elder to the younger with much suavity and caution; and likewise, that much sedulous and appropriate attention should be manifested in admonitions. For thus they will be decorous and beneficial. They also said, that confidence should never be separated from friendship, neither seriously nor even in jest. For it is no longer easy for the existing friendship to be in a sane condition, when falsehood once insinuates itself into the manners of those that acknowledge themselves to be friends. Again, according to them, friendship should not be abandoned on account of misfortune, or any other imbecility to which human life is incident; but they said, that the only approvable rejection of a friend and friendship, is that which arises from great and incorrigible vice. Likewise, that hatred should not be voluntarily entertained against those who are not perfectly bad; but that if it is once formed, it should be generously and strenuously 165 retained, unless the object of it changes his manners, so as to become a better man. That the hostility also should not consist in words, but in deeds; And that this war is legitimate and holy, when it is conducted in such a way as it becomes one man to contend with another.
+These men, then, exhorted others to remove from true friendship, contest and contention, and if possible, indeed, from all friendship; but if not, at least from that which is parental, and universally from that which pertains to seniors and benefactors. For to strive or contend with such as these, in consequence of anger intervening, or some other such-like passion, is not the salvation of the existing 164 friendship. 
+
+But they said it is requisite that there should be the least possible scars and ulcers in friendships; and that this will be the case, if those that are friends know how to soften and subdue anger. If both indeed know this, or rather the younger of the two, and who ranks in some one of the above-mentioned orders [their friendship will be more easily preserved]. They also were of opinion, that corrections and admonitions, which they called pædartases, should take place from the elder to the younger with much suavity and caution; and likewise, that much sedulous and appropriate attention should be manifested in admonitions. 
+
+For thus they will be decorous and beneficial. They also said, that confidence should never be separated from friendship, neither seriously nor even in jest. For it is no longer easy for the existing friendship to be in a sane condition, when falsehood once insinuates itself into the manners of those that acknowledge themselves to be friends. Again, according to them, friendship should not be abandoned on account of misfortune, or any other imbecility to which human life is incident; but they said, that the only approvable rejection of a friend and friendship, is that which arises from great and incorrigible vice. 
+
+Likewise, that hatred should not be voluntarily entertained against those who are not perfectly bad; but that if it is once formed, it should be generously and strenuously 165 retained, unless the object of it changes his manners, so as to become a better man. That the hostility also should not consist in words, but in deeds; And that this war is legitimate and holy, when it is conducted in such a way as it becomes one man to contend with another.
 
 They likewise said, that we should never, to the utmost of our power, become the cause of dissension; but that we should as much as possible avoid the source of it. That in the friendship also, which is intended to be pure, the greater part of the things pertaining to it ought to be definite and legitimate. And that these should be properly distinguished, and should not be casual; and moreover, that we should be careful that our conversation may never be negligently and casually performed, but with modesty, benevolence, and good order. Also, that no passion, such as desire, or anger, be rashly excited, and in a bad and erroneous manner. And the same thing must be said of the remaining passions and dispositions.
 

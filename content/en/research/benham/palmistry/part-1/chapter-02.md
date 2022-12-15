@@ -2,8 +2,9 @@
 heading: "Chapter 2 Part 1 "
 title: "The Human Engine and the Life Current"
 description: "The human body is the earthly tenement of the mind or soul. In its construction and operation is very like a mechanical engine"
-date: 2020-01-28
+weight: 6
 image: "/photos/objects/hand.jpg"
+author: William Benham
 ---
 
 

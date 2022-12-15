@@ -2,7 +2,7 @@
 title: "Religions"
 # Human Society Is One and Indivisible 2
 heading: "Part 3"
-date: 2021-11-28
+weight: 1
 image: "/covers/discourses.jpg"
 description: "There is a group of people who are very vocal about the national language. But is it the proper time to fight over the language issue?"
 icon: "/icons/sarkar.png"

@@ -4,9 +4,10 @@ title: "Primary Arbitrage"
 # date: 2020-04-17
 date: 2022-01-25
 # date: 2017-04-26
+weight: 18
 image: "/photos/buy.jpg"
 description: "Primary and Secondary Arbitrage are incentives to value creation and circulation in Superphysics"
-author: Dalisay
+author: Juan Dalisay Jr
 aliases:
   /social/economics/principles/arbitrage
 ---

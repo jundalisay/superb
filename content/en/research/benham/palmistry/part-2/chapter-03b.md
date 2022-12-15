@@ -2,9 +2,10 @@
 title: "Islands"
 heading: "Defects and Repair"
 # date: 2021-11-20
-date: 2020-01-20
+weight: 10
 image: "/photos/objects/hand.jpg"
 description: "There is another Minor line, called the Via Lascivia, and supposed to be a sister line to the Mercury line. But I consider it as a chance line, and so it does not have  fixed place among the Minor lines"
+author: William Benham
 ---
 
 

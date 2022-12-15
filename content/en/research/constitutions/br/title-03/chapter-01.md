@@ -1,18 +1,16 @@
 ---
 title: "The Political and Administrative Organization"
 heading: "Title 3 Chapter 1"
-date: 2021-11-20
+weight: 4
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 
 
-Article 18. The political and administrative organization of Brazil comprises:
+## Article 18. 
+
+The political and administrative organization of Brazil comprises:
 - the Union
 - the states
 - the Federal District

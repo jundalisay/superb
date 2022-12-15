@@ -1,7 +1,7 @@
 ---
 title: "Supreme Tribunal of Justice"
 heading: "Section 2 of Chapter 3"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "Electoral Power is exercised by the National Electoral Council as governing body, and by the latter’s subordinate organs"
 linkb: /research/constitutions/ve/title-5/chapter-4

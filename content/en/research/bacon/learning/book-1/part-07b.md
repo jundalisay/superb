@@ -1,6 +1,6 @@
 ---
 title: "Part 7b"
-date: 2022-01-13
+weight: 1
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

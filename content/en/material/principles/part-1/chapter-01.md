@@ -7,6 +7,7 @@ image: "/covers/spblack.jpg"
 # image: /photos/meta/buddhism.jpg
 description: "The aethereal layer is the higgs field in Physics and is the highest physical layer"
 author: Juan
+weight: 8
 icon: /icons/spmat.png
 aliases:
   /articles/material/aethereal

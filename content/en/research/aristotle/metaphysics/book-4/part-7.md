@@ -1,9 +1,10 @@
 ---
-heading: "Part 7 of Book 4"
+heading: "Part 7"
 title: "True or False"
-date: 2020-09-27
+weight: 12
 image: "/covers/meta.jpg"
 description: "One subject must either affirm or deny any one predicate."
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

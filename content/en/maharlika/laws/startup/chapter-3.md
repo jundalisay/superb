@@ -3,12 +3,13 @@ heading: "Chapter 3"
 title: "Startup Visas"
 description: "Foreign Investment Act Republic Act 11337"
 image: "/photos/team.jpg"
-date: 2021-10-20
+weight: 8
+# date: 2021-10-20
 ---
 
 
 
-Section 13. Startup Visas
+## Section 13. Startup Visas
 
 The DFA shall create the following startup visas:
 
@@ -28,35 +29,46 @@ The DFA shall promulgate the rules and regulations for the issuance of the start
 
 The BI shall promulgate the immigration and admission rules and regulations consistent with the provisions of this Act.
 
-Section 14. APEC Business Travel Card (ABTC). -Bona fide Filipino executives of qualified startups shall be eligible to apply for an ABTC, in accordance with rules and regulations to be promulgated by the DFA.
+
+## Section 14. APEC Business Travel Card (ABTC)
+
+Bona fide Filipino executives of qualified startups shall be eligible to apply for an ABTC, in accordance with rules and regulations to be promulgated by the DFA.
 
 
 
 ## CHAPTER 4: FINAL PROVISIONS
 
-Section 15. Startup Philippines Website
+### Section 15. Startup Philippines Website
 
 The DICT, in consultation with the DTI and DOST, shall develop and maintain a website that shall serve as the primary source of information on statistics, events, programs, and benefits for startups and startup enablers and related enterprises in the Philippines not limited to those defined under this Act. This shall involve the integration of any existing websites and content on programs for startups and startup enablers implemented by the government.
 
 This website shall at least have the following features:
 
-(a) Online database of startups and startup enablers, indicating basic information such as business address, founders, contact information, and funding received;
-
-(b) Online inquiry, registration, application, and release of results for endorsements, and applications for programs, benefits, and incentives provided under this Act; and
-
-(c) Statistical information, annual reports, and studies pertinent to the implementation of this measure, and such other content in line with the goals and objectives of this Act.1âшphi1
+- (a) Online database of startups and startup enablers, indicating basic information such as business address, founders, contact information, and funding received
+- (b) Online inquiry, registration, application, and release of results for endorsements, and applications for programs, benefits, and incentives provided under this Act; and
+- (c) Statistical information, annual reports, and studies pertinent to the implementation of this measure, and such other content in line with the goals and objectives of this Act.1âшphi1
 
 The DICT shall assist and coordinate with the relevant national government agencies, and local government units, in the development of a platform or feature to facilitate online applications for pertinent government issued documents such as, but not limited to permits, authorities, approvals, and certificates, which are necessary for the registration and operation of the startup and/or startup enabler.
 
-Section 16. Education Programs.— The Department of Education, the Commission on Higher Education, and the Technical Education and Skills Development Authority are hereby directed to develop and integrate in their respective curricula entrepreneurial programs that shall foster an environment conducive to innovation, and extend incentives to academic institutions that provide funds and/or grants for the research of their students and faculty.
+### Section 16. Education Programs
 
-Section 17. Creation of Positions.— The Department of Budget and Management (DBM) shall undertake the assessment and creation of positions, whether temporary or permanent, in coordination with host agencies in order to provide the administrative and technical capacity required in each host agency to undertake the implementation of the programs and benefits under this Act.
+The Department of Education, the Commission on Higher Education, and the Technical Education and Skills Development Authority are hereby directed to develop and integrate in their respective curricula entrepreneurial programs that shall foster an environment conducive to innovation, and extend incentives to academic institutions that provide funds and/or grants for the research of their students and faculty.
 
-Section 18. Appropriations.— The amount necessary to carry out the initial implementation of this Act shall be sourced from the current budget of the DOST, DICT, and DTI. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the succeeding General Appropriations Act.
+### Section 17. Creation of Positions
 
-Section 19. Implementing Rules and Regulations.— The DOST, DICT, and DTI, in coordination with the pertinent government agencies, shall promulgate the necessary rules and regulations within sixty (60) days from the effectivity of this Act.
+The Department of Budget and Management (DBM) shall undertake the assessment and creation of positions, whether temporary or permanent, in coordination with host agencies in order to provide the administrative and technical capacity required in each host agency to undertake the implementation of the programs and benefits under this Act.
 
-Section 20. Separability Clause.— If any section or part of this Act is held unconstitutional, no other section or provision shall be affected.
+### Section 18. Appropriations
+
+The amount necessary to carry out the initial implementation of this Act shall be sourced from the current budget of the DOST, DICT, and DTI. Thereafter, such sums as may be necessary for the continued implementation of this Act shall be included in the succeeding General Appropriations Act.
+
+### Section 19. Implementing Rules and Regulations
+
+The DOST, DICT, and DTI, in coordination with the pertinent government agencies, shall promulgate the necessary rules and regulations within sixty (60) days from the effectivity of this Act.
+
+### Section 20. Separability Clause
+
+If any section or part of this Act is held unconstitutional, no other section or provision shall be affected.
 
 Section 21. Repealing Clause. -All provisions of existing laws, presidential decrees or issuances, executive orders, letters of instruction, administrative orders, rules and regulations contrary to or inconsistent with the provisions of this Act are hereby repealed, amended, or modified accordingly.
 

@@ -1,7 +1,7 @@
 ---
 title: "New States"
 heading: "Chapter 6 "
-date: 2021-11-20
+weight: 12
 image: "/flags/au.png"
 description: "The Constitution of each State of the Commonwealth shall, subject to this Constitution, continue as at the establishment of the Commonwealth"
 icon: "/flags/au.png"

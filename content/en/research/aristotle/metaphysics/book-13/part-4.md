@@ -1,9 +1,10 @@
 ---
 heading: "Part 4"
 title: "The Theory of Ideas and Forms"
-date: 2015-09-26
+weight: 6
 image: "/covers/meta.jpg"
 description: "I am not convinced of the existence of Forms. From some, no inference necessarily follows. From some, arise Forms even of things of which they think there are no Forms"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

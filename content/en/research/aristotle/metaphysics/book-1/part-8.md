@@ -1,7 +1,7 @@
 ---
 title: "Errors of the Platonists and Pythagoreans"
 heading: "Part 8"
-date: 2015-09-18
+weight: 16
 image: "/covers/meta.jpg"
 description: "Aristotle gives his theory of substance"
 icon: "/icons/aris.jpg"

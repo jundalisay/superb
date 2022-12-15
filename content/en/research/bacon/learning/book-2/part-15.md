@@ -1,6 +1,6 @@
 ---
 title: "Part 14"
-date: 2022-08-16
+weight: 1
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

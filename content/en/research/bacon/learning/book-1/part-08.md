@@ -1,6 +1,6 @@
 ---
 title: "Part 8"
-date: 2022-01-12
+weight: 1
 description: "Moral and Private virtue"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

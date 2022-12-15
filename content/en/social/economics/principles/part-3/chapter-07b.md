@@ -1,10 +1,11 @@
 ---
 title: "The 5 Factors that Affect Wages and Profits"
 date: 2016-12-21
+weight: 38
 image: "/photos/happysuccess.jpg"
 description: "Adam Smith laid down 5 factors that affect wages and profits that can be useful for employees and businesses"
 heading: Agreeableness, Difficulty, Constancy, Trust, Success
-author: Juan
+author: Juan Dalisay Jr
 icon: /icons/pantry.png
 aliases:
   /social/economics/principles/five-factors-affecting-wages-profits

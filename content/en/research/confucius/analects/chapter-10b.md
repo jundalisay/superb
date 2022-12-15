@@ -2,7 +2,8 @@
 heading: "Chapter 10b"
 title: "What makes a Minister Great?"
 description: "Great ministers' are those who serve their prince conscientiously. They retire when they cannot do so. They may be called 'qualified ministers.'"
-date: 2020-01-12
+weight: 22
+author: Confucius
 image: "/covers/analects.png"
 ---
 

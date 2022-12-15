@@ -1,6 +1,6 @@
 ---
 title: Batasang Pambansa
-date: 2022-01-22
+weight: 1
 heading: Article 9
 # date: 1899-01-19
 description: "The Legislative power shall be vested in a Batasang Pambansa."

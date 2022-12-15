@@ -1,12 +1,12 @@
 ---
 title: "Dharma as the Natural Organizing Principle"
 heading: "The Invisible Hand of Dharma"
-# date: 2015-09-09
-date: 2022-12-28
+date: 2015-09-09
 image: /photos/objects/hand.jpg
 description: A crisis-proof economic system isn't based on static equilibrium or marginal pricing. Instead, it's based on the true nature of reality, which Socrates calls true nature, the Chinese call the Tao, and the Hindus call dharma."
 author: Juan
 icon: /icons/pantry.png
+weight: 14
 aliases:
   /social/economics/principles/dharma
 ---

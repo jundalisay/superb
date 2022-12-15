@@ -1,7 +1,7 @@
 ---
 title: "Natural Philosophy"
 heading: Chapter 4b
-date: 2022-01-09
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

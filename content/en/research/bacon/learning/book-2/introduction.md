@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-date: 2022-09-30
+weight: 1
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

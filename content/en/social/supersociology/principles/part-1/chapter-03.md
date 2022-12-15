@@ -1,9 +1,8 @@
 ---
 heading: "Chapter 3"
 title: "The Common Interest as The Conscience of Society"
-# date: 2019-12-17
-date: 2022-01-20
-# date: 2021-06-29
+date: 2019-12-17
+weight: 12
 image: "/photos/meta/buddhism.jpg"
 description: "The Common Interest is the conscience of society and is part of bhagavad dharma (human dharma)"
 author: Juan

@@ -2,7 +2,7 @@
 heading: "Part 2a"
 title: "Philippine Crops in the 19th century"
 description: "Among the varied productions of the Philippines, for many reasons, none is so deserving of attention as cotton"
-date: 2021-01-28
+weight: 4
 image: "/covers/1810.jpg"
 ---
 

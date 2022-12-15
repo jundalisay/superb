@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1"
 title: "Parts Of Speech"
-date: 2022-01-29
+weight: 8
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"

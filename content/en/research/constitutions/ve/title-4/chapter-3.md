@@ -1,7 +1,7 @@
 ---
 title: "State Public Power"
 heading: "Chapter 3"
-date: 2021-11-24
+weight: 1
 image: "/flags/ve.png"
 description: "Public Power is distributed among Municipal Power, that of the States Power and National Power"
 icon: /flags/ve.png

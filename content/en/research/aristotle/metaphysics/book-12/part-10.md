@@ -1,17 +1,15 @@
-+++
-title= "Empedocles and Anaxagoras"
-heading = "Book 12 Part 10 of The Metaphysics by Aristotle Simplified"
-date= "2015-09-01"
-image= "/covers/meta.jpg"
-description= "Aristotle gives maximum importance to the sight over the other senses"
-linkb= "/research/aristotle/metaphysics/book-12/part-9"
-linkbtext= "Part 9"
-linkf= "/research/aristotle/metaphysics/book-13"
-linkftext= "Book 13"
-icon= "/icons/aris.jpg"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+heading: "Part 10"
+title: "Empedocles and Anaxagoras"
+weight: 14
+image: "/covers/meta.jpg"
+description: "Aristotle gives maximum importance to the sight over the other senses"
+author: Aristotle
+icon: "/icons/aris.jpg"
+---
+
+
+
 
 Which of two ways the nature of the universe contains the good, and the highest good? 
 

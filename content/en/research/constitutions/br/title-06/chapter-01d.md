@@ -1,7 +1,7 @@
 ---
 title: "Tax Revenue Sharing"
 heading: "Section 6"
-date: 2021-11-20
+weight: 20
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

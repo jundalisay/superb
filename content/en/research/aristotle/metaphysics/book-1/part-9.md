@@ -1,9 +1,10 @@
 ---
 heading: "Part 9"
 title: "The Forms are not Real"
-date: 2015-09-15
+weight: 18
 image: "/covers/meta.jpg"
 description: "Aristotle denounces Plato's Forms"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

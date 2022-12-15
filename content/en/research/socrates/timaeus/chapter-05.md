@@ -1,6 +1,6 @@
 ---
 title: "The Universe"
-date: 2022-01-18
+weight: 1
 image: "/covers/timaeus.jpg"
 description: "How is the body created? "
 ---

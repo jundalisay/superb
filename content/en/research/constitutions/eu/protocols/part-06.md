@@ -1,7 +1,7 @@
 ---
 title: "Protocol On The Location Of The Seats Of The Institutions of The EU"
 heading: "Part 6"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
 icon: /flags/eu.png

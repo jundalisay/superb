@@ -1,7 +1,7 @@
 ---
 title: "What subjects must we study?"
 heading: Chapter 2f
-date: 2022-01-20
+weight: 1
 image: "/covers/nova.jpg"
 description: ""
 icon: /icons/bacon.png

@@ -2,6 +2,7 @@
 heading: "Chapter 4c"
 title: "The Eagle: Our Equation for Everything"
 date: 2020-12-26
+weight: 14
 # date: 2021-06-23
 image: "/graphics/econ/eagle.jpg"
 description: "The Eagle is our Equation for the movement of Everything in the physical dimension"

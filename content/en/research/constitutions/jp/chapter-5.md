@@ -1,7 +1,7 @@
 ---
 title: "The Cabinet"
 heading: "Chapter 5"
-date: 2021-11-24
+weight: 1
 image: "/flags/jp.png"
 description: "The Cabinet shall consist of the Prime Minister, who shall be its head, and other Ministers of State"
 icon: "/flags/jp.png"

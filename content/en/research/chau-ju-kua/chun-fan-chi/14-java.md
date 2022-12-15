@@ -1,7 +1,7 @@
 ---
 title: "Java (Shopo) Indonesia"
 heading: "Chapter 14"
-date: 2022-01-14
+weight: 18
 description: "The kingdom of Java"
 image: "/flags/id.png"
 author: "Chau Ju Kua"

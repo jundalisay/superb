@@ -1,8 +1,8 @@
 ---
 title: "Wisdom is knowledge of certain principles and causes"
 heading: "Part 1"
-linkTitle: Part 1
-date: 2015-09-30
+weight: 1
+author: Aristotle
 image: "/covers/meta.jpg"
 description: "Aristotle gives maximum importance to the sight over the other senses"
 icon: "/icons/aris.jpg"

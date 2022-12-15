@@ -1,6 +1,6 @@
 ---
 title: "Colors and Causes"
-date: 2022-01-10
+weight: 1
 image: "/covers/timaeus.jpg"
 description: "Color is the fourth class of sensible things, having many intricate varieties"
 ---

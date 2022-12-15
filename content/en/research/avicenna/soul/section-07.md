@@ -3,7 +3,7 @@ heading: "Section 7"
 title: "The Inward Senses and the Motion-Promoting Powers"
 description: ""
 author: "Avicenna"
-date: 2022-09-24
+weight: 16
 image: "/covers/soul.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 heading: "Part 3"
 title: "Trade and Barter in Ancient Bengal"
-date: 2022-01-27
+weight: 1
 author: "PR Sarkar"
 description: "The Sanskrit root verb krii means “exchange”."
 image: "/covers/prout.png"

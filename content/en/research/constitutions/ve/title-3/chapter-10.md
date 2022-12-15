@@ -1,7 +1,7 @@
 ---
 title: "Duties of Venezuelans"
 heading: "Chapter 10"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "Venezuelans have the duty to honor and defend their native land symbols and cultural values and to guard and protect the sovereignty, nationhood, territorial integrity, self determination and interests of the nation"
 icon: /flags/ve.png

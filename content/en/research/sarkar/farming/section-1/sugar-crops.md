@@ -1,7 +1,7 @@
 ---
 title: "Sugar Crops"
 # heading: "Chapter 1 of Yoga Sutras Simplified"
-date: 2022-01-31
+weight: 38
 author: "PR Sarkar"
 description: "Sugar is an important part of the human diet. For many farmers, sugar crops are an essential source of income"
 image: "/covers/farming.jpg"

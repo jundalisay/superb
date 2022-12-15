@@ -1,6 +1,6 @@
 ---
 title: "Justice is the Interest of the Citizens"
-date: 2015-09-26
+weight: 8
 image: "/covers/republic.jpg"
 description: "Justice is in serving the interest of the people and society. The unjust seem to be happier than the just only in the beginning. In reality, they are less happy and are incapable of united action"
 icon: "/icons/soc.png"
@@ -8,7 +8,7 @@ icon: "/icons/soc.png"
 
 
 {{< l a="Socrates" >}}
-To Thrasymachus: Is the attempt to determine the way of man's life so small a matter to you? 
+Thrasymachus, is the attempt to determine the way of man's life so small a matter to you? 
 
 <!-- You appear to have no care or thought about us. You do not care whether we live better or worse from not knowing what you know.
 Please do not keep your knowledge to yourself.

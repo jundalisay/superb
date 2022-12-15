@@ -2,9 +2,10 @@
 heading: "Chapter 6d of Part 2"
 title: "The Color and Defects of the Head line"
 # date: 2021-11-20
-date: 2020-01-07
+weight: 36
 image: "/photos/objects/hand.jpg"
 description: "The color of the Head line must always be noted"
+author: William Benham
 ---
 
 

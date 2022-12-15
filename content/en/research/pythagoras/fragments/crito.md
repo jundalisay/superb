@@ -1,19 +1,18 @@
-+++
-title= "Crito's Treatises"
-date= 2015-09-09
-image= "/covers/fragments.png"
-description= "Crito gave treatises On Prudence And Prosperity"
-linkb= "/research/pythagoras/fragments"
-linkbtext= "Index"
-linkf= "/research/pythagoras/fragments/euryphamus"
-linkftext= "Index"
-heading= "Prudence And Prosperity"
-+++
+---
+title: "Crito's Treatises"
+heading: Prudence And Prosperity
+weight: 4
+description: Crito gave treatises On Prudence And Prosperity
+image: "/covers/fragments.png"
+---
+
 
 
 ## Treatise On Prudence And Prosperity
 
-Prudence and prosperity subsist, with reference to each other, as follows= Prudence indeed is effable and possesses reason; for it is something orderly and definite. But prosperity is ineffable and irrational; for it is something disorderly and indefinite. And prudence, indeed, is prior, but prosperity is posterior in beginning and in power. For the former is naturally adapted to govern and define; but the latter to be governed and defined. 
+Prudence and prosperity subsist, with reference to each other, as follows= Prudence indeed is effable and possesses reason; for it is something orderly and definite. 
+
+But prosperity is ineffable and irrational; for it is something disorderly and indefinite. And prudence, indeed, is prior, but prosperity is posterior in beginning and in power. For the former is naturally adapted to govern and define; but the latter to be governed and defined. 
 
 Moreover, both prudence and prosperity receive co-adaptation, since they concur in one and the same thing. For it is always necessary that the thing which bounds and co-arranges, should have a nature which is effable and participates of reason; but that the thing which is bounded and co-arranged, should be naturally ineffable and irrational. 246 
 

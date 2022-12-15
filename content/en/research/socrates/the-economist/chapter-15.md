@@ -1,7 +1,7 @@
 ---
 title: "How to Teach Agriculture"
 heading: "Chapter 15"
-date: 2015-09-04
+weight: 1
 image: "/covers/economist.jpg"
 description: "Agriculture makes the wise and skilled possessor of it wealthy, whilst the unskilled, in spite of all the pains he takes, must live in indigence"
 icons: "/icons/soc.png"

@@ -1,13 +1,9 @@
 ---
 title: "State Institutions"
 heading: "Chapter 3 of the Chinese Constitution Simplified"
-date: 2021-11-20
+weight: 1
 image: "/flags/cn.png"
 description: "The PRC is a socialist state governed by a people’s democratic dictatorship that is led by the working class and based on an alliance of workers and peasants"
-linkb: /research/constitutions/cn
-linkbtext: "constitutions"
-linkf: /research/constitutions/cn/
-linkftext: "constitutions"
 icon: "/flags/cn.png"
 ---
 

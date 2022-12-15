@@ -1,6 +1,6 @@
 ---
 title: "Virtues"
-date: 2022-04-01
+weight: 16
 image: /covers/sentences.jpg
 description: "From The Protreptics Of Iamblichus"
 author: Iamblichus

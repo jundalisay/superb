@@ -1,7 +1,7 @@
 ---
 title: "Fertilizers and Research"
 # heading: "Chapter 1 of Yoga Sutras Simplified"
-date: 2022-01-31
+weight: 8
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
 image: "/covers/farming.jpg"

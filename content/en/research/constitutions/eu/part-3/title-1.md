@@ -1,19 +1,18 @@
 ---
 title: "INTERPARLIAMENTARY COOPERATION"
 heading: "Title 1"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
-linkb: /research/constitutions/eu
-linkbtext: "EU"
-linkf: /research/constitutions/eu
-linkftext: "EU"
 icon: /flags/eu.png
 ---
 
-PROVISIONS OF GENERAL APPLICATION
 
-Article 3-115: The Union shall ensure consistency between the policies and activities referred to in this Part, taking
+## PROVISIONS OF GENERAL APPLICATION
+
+Article 3-115
+
+The Union shall ensure consistency between the policies and activities referred to in this Part, taking
 all of its objectives into account and in accordance with the principle of conferral of powers.
 
 Article 3-116

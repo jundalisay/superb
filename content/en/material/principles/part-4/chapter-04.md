@@ -6,6 +6,7 @@ linkTitle: "Radioactive Relativity"
 image: /graphics/physics/feynman.jpg
 description: "Radioactive Relativity explains the Principles for Movement in the Radioactive Layer"
 icon: /icons/spmat.png
+weight: 12
 aliases:
   /material/principles/radioactive-relativity
 ---

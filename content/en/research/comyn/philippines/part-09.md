@@ -2,7 +2,7 @@
 heading: "Part 9"
 title: "Paragua"
 description: "The Island of Paragua is at the head of the Calamianes province"
-date: 2021-01-08
+weight: 28
 image: "/covers/1810.jpg"
 ---
 

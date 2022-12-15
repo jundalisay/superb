@@ -1,7 +1,7 @@
 ---
 title: "The Pythagorean Monks and Pythagorist Civilians"
 heading: "Chapter 18"
-date: 2015-09-12
+weight: 22
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: "Pythagoras grouped his disciples according to their respective merits."

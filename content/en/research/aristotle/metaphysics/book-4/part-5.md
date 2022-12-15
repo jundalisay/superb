@@ -1,7 +1,8 @@
 ---
-heading: "Part 4 of Book 4"
+heading: "Part 4"
 title: "The doctrine of Protagoras"
-date: 2020-09-27
+weight: 8
+author: Aristotle
 image: "/covers/meta.jpg"
 description: "Those who really feel the difficulties have been led to this opinion by observation of the sensible world."
 icon: "/icons/aris.jpg"

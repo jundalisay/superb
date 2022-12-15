@@ -1,7 +1,7 @@
 ---
 title: "Miscellaneous"
 heading: "Part 18"
-date: 2021-10-02
+weight: 1
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

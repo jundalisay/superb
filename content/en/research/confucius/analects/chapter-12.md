@@ -2,7 +2,8 @@
 heading: "Chapter 12"
 title: "Philanthropy and Friendships"
 description: "Philanthropy and Friendships"
-date: 2020-01-06
+weight: 28
+author: Confucius
 image: "/covers/analects.png"
 ---
 

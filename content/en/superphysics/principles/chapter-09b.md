@@ -4,6 +4,7 @@ title: "What is the Impartial Spectator?"
 # heading: "The moral sense in all humans"
 # date: 2017-09-21
 date: 2020-11-28
+weight: 34
 image: /photos/meta/buddhism.jpg
 description: "The Impartial Spectator of Adam Smith is the moral sense in all humans"
 author: Juan

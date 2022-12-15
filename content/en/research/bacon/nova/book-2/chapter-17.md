@@ -1,7 +1,7 @@
 ---
 title: "Proximate Instances wanting the Nature of Heat"
 heading: Chapter 5
-date: 2021-12-20
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

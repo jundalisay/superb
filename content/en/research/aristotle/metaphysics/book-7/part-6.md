@@ -1,6 +1,7 @@
 ---
 title: "Is Essence the Same?"
 heading: "Part 6 "
+weight: 8
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "Is each thing and its essence are the same or different?"

@@ -1,7 +1,7 @@
 ---
 title: "The Practical instances"
 heading: Chapter 5
-date: 2021-12-22
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

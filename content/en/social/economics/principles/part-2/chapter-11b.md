@@ -2,9 +2,9 @@
 heading: Chapter 11b
 title: "Neoclassical Economics vs Classical Economics"
 # date: 2020-01-16
-date: 2022-01-05
+weight: 34
 image: "/covers/keynes.jpg"
-description : ""
+description : "Superphysics is our revival of Classical Economics, backed up by actual data which is visualized through data science and analytics. This data spans 2,500 years, from Xenophon's The Economist up to the latest GDP data"
 youtube: "rVP73TV2X0s"
 author: Juan
 icon: /icons/pantry.png
@@ -21,6 +21,7 @@ linkbtext: "nash-equilibrium-fallacy"
 linkf: articles/pantrynomics/economic-development-from-zero"
 linkftext: "economic-development-from-zero"
  -->
+ 
 Superphysics is our revival of Classical Economics, backed up by actual data which is visualized through data science and analytics. This data spans 2,500 years, from Xenophon's The Economist up to the latest GDP data. 
 
 In contrast, Modern Economics only began from the Marginal Revolution of the 1870's. This makes it a toy idea that crashed quickly after 50 years as the Great Crash and Depression. Nowadays, this toy idea manifests as gaming via game theory, the stock market, and cryptocurrencies, all coming from the mercantile game of buying low and selling high. 

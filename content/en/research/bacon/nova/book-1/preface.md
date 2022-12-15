@@ -1,7 +1,7 @@
 ---
 title: "Novum Organum"
 heading: Preface
-date: 2022-02-01
+weight: 1
 description: ""
 author: "Lord Bacon"
 image: "/covers/nova.jpg"

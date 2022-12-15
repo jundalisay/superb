@@ -2,7 +2,7 @@
 heading: "Part 6b"
 title: "Coconut wine"
 description: "The monopoly of native wine comprehends the whole of the Island of Luzon, excepting the Provinces of Cagayan, Zambales, Nueva Ecija, Camarines and Albay"
-date: 2021-01-20
+weight: 16
 image: "/covers/1810.jpg"
 ---
 

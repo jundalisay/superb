@@ -1,7 +1,7 @@
 ---
 title: "General Provisions"
 heading: "Chapter 2"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "These are social, economic, political, natural or ecological circumstances which seriously affect the nation's security, institutions and citizens"
 icon: /flags/ve.png

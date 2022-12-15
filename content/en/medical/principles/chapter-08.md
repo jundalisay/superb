@@ -6,6 +6,7 @@ image: /photos/econ/writer.jpg
 # date: 2020-12-10
 description: "Everything in existence is an idea of the Creator of that existence"
 author: Juan
+weight: 12
 icon: /icons/sp.png
 draft: true
 ---

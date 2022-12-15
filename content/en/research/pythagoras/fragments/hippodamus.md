@@ -1,13 +1,12 @@
-+++
-title= "The Treatise On Felicity from Hippodamus the Thurian"
-date= 2015-09-09
-image= "/covers/fragments.png"
-description= "With respect to felicity, however, and virtue, the former is as a work, but the latter as a certain art, to that which possesses reason"
-linkb= "/research/pythagoras/fragments/hipparchus"
-linkbtext= "hipparchus"
-linkf= "/research/pythagoras/fragments/polus"
-linkftext= "Polus"
-+++
+---
+title: "The Treatise On Felicity from Hippodamus the Thurian"
+# heading: Prudence And Prosperity
+weight: 10
+description: With respect to felicity, however, and virtue, the former is as a work, but the latter as a certain art, to that which possesses reason
+image: "/covers/fragments.png"
+---
+
+
 
 Of animals, some are the recipients of felicity, but others are incapable of receiving it. 
 

@@ -4,6 +4,7 @@ title: "Three Modes of Exchange"
 # date: 2022-03-27
 date: 2021-12-29
 # date: 2015-01-01
+weight: 22
 image: /photos/buy.jpg
 description: ""
 author: Dalisay

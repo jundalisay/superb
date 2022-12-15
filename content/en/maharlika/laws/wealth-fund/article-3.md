@@ -2,8 +2,9 @@
 heading: "Article 3"
 title: "Mahar]ika Investments Corporation (MIC)"
 description: "The MIC is an independent corporate body that shall be a vehicle for mobilizing and utilizing the MIF"
-image: "/photos/buy.jpg"
-date: 2022-09-30
+image: "/photos/city.jpg"
+# date: 2022-09-30
+weight: 104
 ---
 
 
@@ -16,53 +17,38 @@ The MIC shall govern and manage the Fund in accordance with the objectives and p
 
 ## Section 8. Function of the MIC
 
-In carrying out.its chfedres and functions,the MIC shall:
+The MIC shall:
 
-a) Establish a diversified portfolio of investments in the local and global financial markets
-and in other assets that promote the objectives of the Fund;
-b) Manage and invest the initial and future contributions to the Fund in accordance with this
-Act;1
+- a) Establish a diversified portfolio of investments in the local and global financial markets and in other assets that promote the objectives of the Fund
+- b) Manage and invest the initial and future contributions to the Fund in accordance with this Act
+- c) Accept and manage investment mandates whose investment purpose is to increase income for development goals
+- d) Develop and foster skills in finance , economics, risk mitigation, good governance and other related areas, consistent with the capacity and capabilities build-up of human resources in the industry
+- e) Implement international best practices in investing and managing assets in accordance with the "Santiago" FTinciples for SWFs or similar principles as may be adopted by the Board. 
 
-c) Accept and manage investment mandates whose investment purpose is to increase income
-for development goals;
-d) Develop and foster skills in finance , economics, risk mitigation, good governance and other
-related areas, consistent with the capacity and capabilities build-up of human resources in
-the industry; and
-e) Implement international best practices in investing and managing assets in accordance with
-the "Santiago" FTinciples for SWFs or similar principles as may be adopted by the Board.
-Secfro" 9. FH#dl.rag sowroes. -Each of the founding GFls shall invest equity to start up the Fund
-with an initial investment of Two Hundred Fifty Billion pesos (Php250 Billion), with breakdown
-as follows:
-(i)
-(ii)
-(iii)
-(iv)
-GSIS : One hundred Twenty-Five Billion Pesos (Php125 Billion);
-SSS : Fifty Billion Pesos (Php50 Billion);
-LBP
+## Section 9. Financial Resources 
 
-: 50 Billion pesos (Php50 Billion); and DBP : Twenty-Five Billion Pesos (Php25 Billion).
-Each founding GFI may be allowed to subsequently increase its respective investments above its
-equity contribution.
+Each of the founding GFIs shall invest equity to start up the Fund with an initial investment of 250b pesos
+- GSIS : 125b
+- SSS : 50b
+- LBP : 50b
+- DBP : 25b
 
-In addition , the National Government shall initially contribute the amount of Twenty-Five Billion
-Pesos(Php25Billion)totheFund,and,onanannualbasis,maycontributeadditionalfundssubject
-to availability of funds for the purpose .
+Each founding GFI may be allowed to subsequently increase its respective investments above its equity contribution.
+
+In addition, the National Government shall initially contribute the amount of 25b to the Fund. It may annually contribute additional funds subject
+to availability of funds for the purpose.
+
 Subsequent annual contributions to the Fund shall be provided as follows:
 
-[i) Bangko Sentral ng Pilipinas: foreign currency (FCY) equivalent Of 10% of the
-remittances from the Overseas Filipino Workers (OFWs); 10% coming from the
-annual contribution of the Business Processing Outsourcing (BPO) sector;
-(ii) Philippine Amusement and Gaming corporation (PAGCOR): 10% from its gaming
-proceeds
-(iii) 
-(iv) General Appropriations Act or supplemental Appropriations
-Other sources (c.g., special assessments on natural resources, public borrowings, and
-the like).
+- [i) Bangko Sentral ng Pilipinas: foreign currency (FCY) equivalent Of 10% of the remittances from the Overseas Filipino Workers (OFWs); 10% coming from the annual contribution of the Business Processing Outsourcing (BPO) sector
+- (ii) Philippine Amusement and Gaming corporation (PAGCOR): 10% from its gaming proceeds
+- (iii) 
+- (iv) General Appropriations Act or supplemental Appropriations
 
-Section 10. Administrative and Operafroiwl Expenses Of the Mahidiha lrrvestmeuts
+Other sources (c.g., special assessments on natural resources, public borrowings, and the like).
 
-Coxpor¢fro". -The Board of Directors of the MIc is authorized to disburse from the Fund such
-amounts as may be necessary for administrative and operating expenses, the total of which shall
-not exceed ten percent (10%) of the gross revenue of the immediately preceding year.For the initial operations of the MIC, the Board of Directors is authorized to disburse for its administrative and operating expenses at a total amount not exceeding ten percent (10%) of its
-initial capitalization.
+## Section 10. Expenses Of the Investments
+
+The Board of Directors of the MIC is authorized to disburse from the Fund the expenses of up to 10% of the gross revenue of the immediately preceding year.
+
+For the initial operations of the MIC, the Board of Directors is authorized to disburse for its administrative and operating expenses at a total amount not exceeding ten percent (10%) of its initial capitalization.

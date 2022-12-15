@@ -1,7 +1,7 @@
 ---
 title: "Japan (Wo)"
 heading: "Chapter 45"
-date: 2021-11-18
+weight: 56
 description: "The country of Wo is northeast of Canton. It is currently called Ji-pon, meaning a country near where the sun rises."
 image: "/flags/jp.png"
 author: "Chau Ju Kua"

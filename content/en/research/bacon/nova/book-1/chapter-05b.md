@@ -1,7 +1,7 @@
 ---
 title: "The Scope of Our New Philosophy"
 heading: Chapter 5b
-date: 2022-01-03
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

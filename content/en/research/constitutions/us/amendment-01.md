@@ -1,7 +1,7 @@
 ---
 title: "Amendments 1-12"
 # heading: "US Constitution"
-date: 2021-11-20
+weight: 1
 image: "/flags/us.png"
 description: ""
 icon: /flags/us.png

@@ -2,7 +2,7 @@
 heading: "Chapter 3"
 title: "Abuse of Proprieties in Ceremonies and Music"
 description: "Abuse of Proprieties in Ceremonies and Music"
-date: 2020-01-28
+weight: 6
 image: "/covers/analects.png"
 ---
 

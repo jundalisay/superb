@@ -2,7 +2,7 @@
 title: Constitutional Commissions
 heading: Article 9
 # of the 1987 Constitution Simplified
-date: 2022-01-26
+weight: 1
 description: ""
 image: "/graphics/1987.jpg"
 icon: /flags/ph.png

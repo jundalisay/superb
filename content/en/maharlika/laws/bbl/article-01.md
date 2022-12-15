@@ -2,7 +2,8 @@
 heading: "Articles 1-4"
 title: "Identity and Purpose"
 description: "The Bangsamoro are natives of Mindanao, the Sulu archipelago and its adjacent islands including Palawan, and their descendants, whether of mixed or3 of full blood at the time of conquest and colonization."
-date: 2021-09-30
+# dbate: 2021-09-30
+weight: 2
 image: "/covers/bbl.jpg"
 ---
 

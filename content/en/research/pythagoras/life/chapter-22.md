@@ -1,20 +1,14 @@
-+++
-title= "Pythagoric Discipline and Symbols"
-date= 2015-09-17
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-20"
-linkbtext= "Chapter 20"
-linkf= "/research/pythagoras/life/chapter-24"
-linkftext= "chapter-24"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-aliases= [
-  "/research/pythagoras/iamblichus/chapter-22/"
-]
+---
+title: "Pythagoric Discipline and Symbols"
+heading: "Chapter 22"
+weight: 28
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Pythagoras also exhorted to remove contention and strife from true friendship, and especially from all friendship, if possible"
+icon: "/icons/py.png"
+---
 
-+++
+
 
 <!-- Another mode also of erudition is transmitted to us, which was effected through Pythagoric precepts, and sentences which extended to human life and human opinions; a few of which out of many I shall narrate.  -->
 

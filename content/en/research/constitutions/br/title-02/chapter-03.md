@@ -1,13 +1,9 @@
 ---
 title: "Nationality, Political Rights and Parties"
 heading: "Chapters 3-5"
-date: 2021-11-20
+weight: 10
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br/title-02/chapter-02
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/title-03/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 

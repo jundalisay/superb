@@ -8,6 +8,7 @@ linkTitle: "Qost"
 image: "/covers/spblack.jpg"
 description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
 author: Juan
+weight: 10
 icon: /icons/spmat.png
 aliases:
   /articles/material/what-is-a-qost

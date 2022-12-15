@@ -1,7 +1,7 @@
 ---
 title: Amendment Of The Constitution
 heading: "Titles 13-14"
-date: 2022-01-18
+weight: 1
 # date: 1899-01-19
 description: "Amendment of the Malolos Constitution"
 image: "/graphics/1899.jpg"

@@ -3,6 +3,7 @@ heading: "Part 2f"
 title: "Direction"
 author: Averroes
 description: ""
+weight: 22
 image: "/covers/averroes.jpg"
 ---
 

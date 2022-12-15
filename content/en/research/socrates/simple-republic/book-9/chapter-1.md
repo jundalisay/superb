@@ -1,7 +1,7 @@
 ---
 title: "The Tyrannical Man"
 heading: "Chapter 1 of Book 9"
-date: 2015-09-30
+weight: 1
 image: "/covers/republic.jpg"
 description: "The Tyrannical Man emerges from the Democratic man"
 author: "Socrates"

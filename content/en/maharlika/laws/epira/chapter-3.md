@@ -3,7 +3,7 @@ heading: "Chapter 3"
 title: "Role Of The Department Of Energy"
 description: "EPIRA Republic Act 9136"
 image: "/photos/physics/light.jpg"
-date: 2021-09-25
+weight: 1
 ---
 
 

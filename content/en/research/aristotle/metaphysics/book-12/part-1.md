@@ -1,7 +1,7 @@
 ---
 heading: "Part 1"
 title: "What is Substance?"
-date: 2015-09-30
+weight: 1
 image: "/covers/meta.jpg"
 description: "Substance is the principle and cause and first part of the universe, if the universe is a whole"
 author: Aristotle

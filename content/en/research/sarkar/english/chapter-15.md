@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 15"
-title: "AVOIDING COMMON ERRORS With SOME DEFINITIONS"
-date: 2022-01-31
+title: "Avoiding Common Errors With Some Definitions"
+weight: 28
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 

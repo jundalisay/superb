@@ -1,13 +1,11 @@
 ---
 title: "The Three Causes of Sin"
 heading: "Part 9b"
-date: 2021-11-08
+weight: 22
 image: "/covers/discourses.jpg"
 description: "Sin is sometimes based entirely on dogmas and not on cardinal human values. Wise people will never entertain a conception of sin based on religious dogma"
 icon: "/icons/sarkar.png"
 ---
-
-
 
 
 Human beings are social beings, hence, they have to follow certain social codes. But they must follow some spiritual codes as well. 

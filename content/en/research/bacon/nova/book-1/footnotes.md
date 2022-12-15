@@ -1,7 +1,7 @@
 ---
 title: "Footnotes"
 heading: Chapter 1 Book 2 of Nova Organum
-date: 2022-01-01
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 linkb: "/research/bacon/nova/book-2/"

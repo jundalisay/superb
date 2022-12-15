@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-date: 2022-01-31
+weight: 1
 description: "There were under the law, excellent King, both daily sacrifices and freewill offerings; the one proceeding upon ordinary observance"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

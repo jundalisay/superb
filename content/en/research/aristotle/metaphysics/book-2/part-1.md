@@ -1,7 +1,7 @@
 ---
 heading: "Part 1"
 title: "Philosophy and The Truth"
-date: 2020-09-04
+weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle denounces Plato's Forms"
 author: Aristotle

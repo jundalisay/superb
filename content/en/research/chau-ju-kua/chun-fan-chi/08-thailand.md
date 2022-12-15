@@ -3,7 +3,7 @@ title: "Chaiya Thailand (Under Sumatra)"
 heading: "Chapter 8"
 description: "Chaiya (Tanmaling) is under a ruler called Siangkung."
 image: "/flags/th.png"
-date: 2022-01-22
+weight: 10
 ---
 
 

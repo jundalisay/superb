@@ -1,7 +1,7 @@
 ---
 heading: "Part 1"
 title: "Being versus Non-being"
-date: 2020-09-04
+weight: 24
 image: "/covers/meta.jpg"
 description: "The terms 'being' and 'non-being' are used in 3 ways"
 author: Aristotle

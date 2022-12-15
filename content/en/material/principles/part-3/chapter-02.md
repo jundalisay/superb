@@ -6,6 +6,7 @@ date: 2020-01-29
 image: /photos/physics/light.jpg
 description: "In Superphysics, electrons have a positive or masculine charge while protons have a negative or feminine charge. This is in line with the male Yang and the female Yin"
 author: Juan
+weight: 12
 icon: /icons/spmat.png
 aliases:
   /articles/material/electrons-are-positive

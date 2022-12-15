@@ -1,7 +1,7 @@
 ---
 title: "Similar, Proportionate instances or physical parallels or resemblances"
 heading: Chapter 10
-date: 2022-01-05
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

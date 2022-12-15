@@ -1,6 +1,7 @@
 ---
 title: "What is Essence?"
-heading: "Part 4 "
+heading: "Part 4"
+weight: 6
 author: "Aristotle"
 image: "/covers/meta.jpg"
 description: "The essence of each thing is what is to be propter se"

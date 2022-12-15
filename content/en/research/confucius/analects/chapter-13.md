@@ -2,7 +2,8 @@
 heading: "Chapter 12"
 title: "Art of Governing amd Consistency"
 description: "Art of Governing amd Consistency"
-date: 2020-01-04
+weight: 30
+author: Confucius
 image: "/covers/analects.png"
 ---
 

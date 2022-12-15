@@ -1,9 +1,10 @@
 ---
-heading: "Parts 11 of Book 5"
+heading: "Parts 11"
 title: "Defining Prior and Posterior"
-date: 2020-09-28
+weight: 12
 image: "/covers/meta.jpg"
 description: "Aristotle defines prior and posterior"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

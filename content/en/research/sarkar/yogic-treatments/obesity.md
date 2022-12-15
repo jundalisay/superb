@@ -1,6 +1,6 @@
 ---
 title: "Natural Diet for Obesity Patients"
-date: 2022-01-31
+weight: 1
 author: "PR Sarkar"
 description: "When fat abnormally accumulates beyond the ordinary requirement of the body, it causes all the organs of the body to become incapacitated"
 image: "/photos/med/obesity.jpg"

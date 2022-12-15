@@ -1,7 +1,7 @@
 ---
 heading: Part 2
 title: "Pythagoras' Activities"
-date: 2022-04-28
+weight: 4
 image: /covers/lifepyp.png
 description: "Returning to Ionia, he opened a school, now called Pythagoras's Semicircles. Samians meet there to deliberate about matters of common interest"
 author: Propery

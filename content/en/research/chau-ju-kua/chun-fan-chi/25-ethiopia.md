@@ -1,7 +1,7 @@
 ---
 title: "Ethiopia (Pipalo)"
 heading: "Chapter 27"
-date: 2021-12-31
+weight: 34
 description: "Ethiopia has four cities. The other places are all villages which are constantly at fighting with each other"
 image: "/flags/et.png"
 author: "Chau Ju Kua"

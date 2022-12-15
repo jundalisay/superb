@@ -1,7 +1,7 @@
 ---
 title: "Powers of the Parliament"
 heading: "Part 5 "
-date: 2021-11-20
+weight: 10
 image: "/flags/au.png"
 description: "The Parliament shall have power to make laws for the peace, order, and good government of the Commonwealth"
 icon: "/flags/au.png"

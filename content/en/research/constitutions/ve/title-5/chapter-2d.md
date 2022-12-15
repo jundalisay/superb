@@ -1,7 +1,7 @@
 ---
 title: "Ministers and the Cabinet of Ministers"
 heading: "Section 4 of Chapter 2"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "Ministers are direct dependencies of the President of the Republic, and when assembled together with the latter and with the Executive Vice-President, they comprise the Cabinet of Ministers"
 icon: /flags/ve.png

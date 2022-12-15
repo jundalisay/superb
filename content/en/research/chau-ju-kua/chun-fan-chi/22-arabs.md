@@ -1,7 +1,7 @@
 ---
 title: "Arabia (Tashi)"
 heading: "Chapter 22"
-date: 2022-01-03
+weight: 30
 description: "The Arabs are to the very far northwest of Guangzhou. This makes it hard for foreign ships to trade to it directly."
 image: "/flags/sa.png"
 author: "Chau Ju Kua"

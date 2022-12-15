@@ -1,7 +1,7 @@
 ---
 title: "Temporary Provisions"
 heading: "Chapter 1"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "Amendments add to or modify one or more articles of the Constitution, without altering its fundamental structure"
 icon: /flags/ve.png

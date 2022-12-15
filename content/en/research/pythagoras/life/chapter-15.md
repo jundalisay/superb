@@ -1,7 +1,7 @@
 ---
 title: "Pythagoras' service to the world"
 heading: "Chapter 15"
-date: 2015-09-16
+weight: 18
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: "Pythagoras was the first who called himself a philosopher"

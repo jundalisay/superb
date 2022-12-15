@@ -3,7 +3,7 @@ heading: "Section 2"
 title: "The General Definition of the Soul"
 description: ""
 author: "Avicenna"
-date: 2022-09-29
+weight: 6
 image: "/covers/soul.jpg"
 ---
 

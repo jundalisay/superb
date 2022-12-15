@@ -1,7 +1,8 @@
 ---
 title: "The Causes of Being"
-heading: "Part 1 of Book 6"
+heading: "Part 1"
 author: "Aristotle"
+weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle defines The Causes of Being"
 icon: "/icons/aris.jpg"

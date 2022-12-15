@@ -1,7 +1,7 @@
 ---
 heading: "Part 2"
 title: "Keep Money Rolling"
-date: 2022-01-29
+weight: 1
 author: "PR Sarkar"
 description: "Kátiká in Sanskrit means a business that is built with the help of loans."
 image: "/covers/prout.png"

@@ -1,7 +1,7 @@
 ---
 title: "Rule for transforming bodies"
 heading: Chapter 1b
-date: 2022-01-30
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

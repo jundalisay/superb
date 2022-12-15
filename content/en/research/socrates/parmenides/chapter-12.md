@@ -1,7 +1,7 @@
 ---
 title: "Knowledge Arising From the Illusion"
 heading: "Chapter 12"
-date: 2015-09-06
+weight: 24
 image: "/covers/parmenides.jpg"
 description: "The existence of the One not only creates the Whole and Others, but also the Illusion of separation to create the multiplicity"
 icon: "/icons/soc.png"

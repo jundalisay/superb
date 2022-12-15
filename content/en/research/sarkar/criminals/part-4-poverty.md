@@ -1,7 +1,7 @@
 ---
 title: "Criminals Due to Poverty"
 heading: "Part 4"
-date: 2021-11-23
+weight: 10
 image: "/covers/discourses.jpg"
 description: "Most crimes throughout the world are committed due to poverty, except in countries where the minimum necessities of life have been met"
 icon: "/icons/sarkar.png"

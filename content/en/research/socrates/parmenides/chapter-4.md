@@ -1,7 +1,7 @@
 ---
 title: "The Whole"
 heading: "Chapter 4"
-date: 2015-09-24
+weight: 8
 image: "/covers/parmenides.jpg"
 description: "The Whole is the One when taken as Existing or being perceived by those inside It, as the Others"
 icon: "/icons/soc.png"

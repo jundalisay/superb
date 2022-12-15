@@ -1,6 +1,7 @@
 ---
 title: "Putchuck"
 heading: "Part 25"
+weight: 74
 image: "/covers/chun.jpg"
 description: "The ki-pei tree resembles a small  mulberry-tree, with a hibiscus-like  furnishing a floss half an inch and more in length, very much like goose-down, and containing some dozens of seeds"
 ---

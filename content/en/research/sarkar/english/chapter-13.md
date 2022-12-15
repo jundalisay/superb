@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 13"
 title: "SOME RULES OF PRONUNCIATION"
-date: 2022-01-31
+weight: 24
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 

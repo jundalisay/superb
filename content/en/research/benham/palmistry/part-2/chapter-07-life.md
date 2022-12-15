@@ -1,9 +1,10 @@
 ---
 heading: "Chapter 7 of Part 2"
 title: "The Line of Life"
-date: 2020-01-05
+weight: 38
 image: "/photos/objects/hand.jpg"
 description: "The Saturn line is frequently called the line of Fate."
+author: William Benham
 ---
 
 

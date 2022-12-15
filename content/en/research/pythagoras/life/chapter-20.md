@@ -1,17 +1,15 @@
-+++
-title= "The Pythagorean Method of Learning"
-date= 2015-09-18
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-19"
-linkbtext= "Chapter 19"
-linkf= "/research/pythagoras/life/chapter-22"
-linkftext= "chapter-22"
-# btext= Chapter 20
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "The Pythagorean Method of Learning"
+heading: "Chapter 20"
+weight: 26
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "How did Pythagoras teach his students?"
+icon: "/icons/py.png"
+---
+
+
+
 
 <!-- We shall however exhibit a few specimens, and those the most celebrated, of the , and also the monuments of the studies in which those men engaged.  -->
 

@@ -1,7 +1,7 @@
 ---
 title: "The People's Representative"
 heading: "Chapter 7"
-date: 2021-11-20
+weight: 1
 image: "/flags/id.png"
 description: ""
 linkb: /research/constitutions/id

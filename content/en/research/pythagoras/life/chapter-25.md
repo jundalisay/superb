@@ -1,18 +1,14 @@
-+++
-title= "Pythagoric discipline"
-date= 2015-09-15
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-24"
-linkbtext= "Chapter 24"
-linkf= "/research/pythagoras/life/chapter-26"
-linkftext= "chapter-26"
-heading= "Chapter 25"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagorean Discipline"
+heading: "Chapter 24"
+weight: 32
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Nutrition greatly contributes to the best discipline when properly used"
+icon: "/icons/py.png"
+---
+
+
 
 Pythagoras believed that music contributed greatly to health, if it were used appropriately. 
 
@@ -20,7 +16,9 @@ He was accustomed to employ a purification of this kind, but not in a careless w
 
 d he called the medicine which is obtained through music by the name of purification. But he employed such a melody as this about the vernal season. 
 
-For he placed in the middle a certain person who played on the lyre, and seated in a circle round him those who were able to sing. And thus, when the person in the centre struck the lyre, those that surrounded him sung certain pæans, through which they were seen to be delighted, and to become elegant and orderly in their manners. But at another time they used music in the place of medicine. And there are 81 certain melodies devised as remedies against the passions of the soul, and also against despondency and lamentation,[26] which Pythagoras invented as things that afford the greatest assistance in these maladies. And again, he employed other melodies against rage and anger, and against every aberration of the soul. 
+For he placed in the middle a certain person who played on the lyre, and seated in a circle round him those who were able to sing. And thus, when the person in the centre struck the lyre, those that surrounded him sung certain pæans, through which they were seen to be delighted, and to become elegant and orderly in their manners. But at another time they used music in the place of medicine. 
+
+There are 81 certain melodies devised as remedies against the passions of the soul, and also against despondency and lamentation,[26] which Pythagoras invented as things that afford the greatest assistance in these maladies. And again, he employed other melodies against rage and anger, and against every aberration of the soul. 
 
 He also used dancing to remedy against the desires, using the lyre for this purpose. 
 
@@ -54,5 +52,3 @@ But when they rose from bed, they again liberated themselves from the torpor and
 Sometimes, also, by musical sounds alone, unaccompanied with words, they healed the passions of the soul and certain diseases, enchanting, as they say, in reality. And it is probable that from hence this name epode, i. e. enchantment, came to be generally used. 
 
 In this way, Pythagoras produced the most beneficial correction of human manners and lives through music.
-
-

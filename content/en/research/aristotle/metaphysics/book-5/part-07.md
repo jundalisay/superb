@@ -1,8 +1,9 @@
 ---
-heading: "Parts 7 of Book 5"
+heading: "Parts 7"
 title: "Defining Being and Substance"
-date: 2020-09-28
+weight: 8
 image: "/covers/meta.jpg"
+author: Aristotle
 description: "Aristotle defines being"
 icon: "/icons/aris.jpg"
 ---

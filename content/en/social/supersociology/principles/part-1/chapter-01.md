@@ -3,17 +3,17 @@ title: "The Society Organism"
 heading: "Chapter 1"
 # title: "What is the Society Organism and Social Networkism?" # heading: "The System to Harmonize Minds Into a Society"
 image: "/photos/team.jpg"
-# date: 2021-07-01
-date: 2022-01-31
+date: 2021-07-01
+weight: 4
 description : "A society is three or more entities working towards a common interest or goal"
 author: Juan
 icon: /icons/spsoc.png
 aliases:
   /articles/supersociology/what-is-social-networkism
   /social/social-networkism/
-  /social/supersociology/social-networkism/
-  
+  /social/supersociology/social-networkism/  
 ---
+
 
 <!-- A society needs 3 entties. The third entity becomes the arbiter. Without the third entity, then the relationship is a partnership which is arbitrary.  -->
 

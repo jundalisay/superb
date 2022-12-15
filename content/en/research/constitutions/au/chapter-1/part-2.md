@@ -1,9 +1,9 @@
 ---
 title: "The Senate"
 heading: "Part 2"
-date: 2021-11-28
+weight: 4
 image: "/flags/au.png"
-description: ""
+description: "The Senate shall have senators for each State, directly chosen by the people of the State"
 icon: "/flags/au.png"
 ---
 

@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 5"
 title: "Business and Industry"
-# date: 2022-03-27
-date: 2022-01-22
+# date: 2022-01-22
+weight: 22
 image: /covers/econsp.jpg
 description: ""
 author: Dalisay

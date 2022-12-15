@@ -1,7 +1,7 @@
 ---
 title: "Article 2"
 # heading: "US Constitution Simplified"
-date: 2021-11-26
+weight: 1
 image: "/flags/us.png"
 description: ""
 icon: /flags/us.png

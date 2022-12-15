@@ -1,30 +1,26 @@
 ---
 title: "Freedoms"
 heading: "Title 2"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Everyone has the right to liberty and security of person"
-linkb: /research/constitutions/eu/part-2/title-1
-linkbtext: "Title 1"
-linkf: /research/constitutions/eu/part-2/title-3
-linkftext: "Title 3"
 icon: /flags/eu.png
 ---
 
 
-Article 6
+## Article 6
 
 Right to liberty and security
 
 Everyone has the right to liberty and security of person.
 
-Article 7
+## Article 7
 
 Respect for private and family life
 
 Everyone has the right to respect for his or her private and family life, home and communications.
 
-Article 8
+## Article 8
 
 Protection of personal data
 

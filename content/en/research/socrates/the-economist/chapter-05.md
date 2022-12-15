@@ -1,7 +1,7 @@
 ---
 title: "The Importance of Husbandry"
 heading: "Chapter 5"
-date: 2015-09-24
+weight: 1
 image: "/covers/economist.jpg"
 description: "High and mighty people find it hard to hold aloof from agriculture. Devotion to it seems to be thrice blest"
 icon: "/icons/soc.png"

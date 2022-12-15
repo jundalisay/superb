@@ -1,7 +1,7 @@
 ---
 title: "The Pythagoreans"
 heading: "Part 5"
-date: 2015-09-23
+weight: 10
 image: "/covers/meta.jpg"
 description: "Aristotle explains the principles of the Pythagoreans"
 icon: "/icons/aris.jpg"

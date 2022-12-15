@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies and Diet for High Blood Pressure"
-date: 2021-12-26
+weight: 1
 author: "PR Sarkar"
 description: "In the absence of any physical activity, fat is not broken down to be converted into heat or energy. The surplus fat turns the body into a mass of flesh and fat. This exerts an undue pressure on the organs and glands"
 image: "/photos/med/blood.jpg"

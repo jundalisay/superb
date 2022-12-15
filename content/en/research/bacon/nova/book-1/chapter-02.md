@@ -1,7 +1,7 @@
 ---
 title: "The Four Idols of the Mind"
 heading: Chapter 2
-date: 2022-01-30
+weight: 1
 image: "/covers/nova.jpg"
 description: ""
 icon: /icons/bacon.png

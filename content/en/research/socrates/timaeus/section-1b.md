@@ -1,7 +1,7 @@
 ---
 title: "The 4 Elements"
 heading: "Timaeus by Plato Simplified"
-date: 2021-07-07
+weight: 1
 image: /covers/timaeus.jpg
 description: "Timaeus explains the 4 elements"
 linkb: "/research/socrates/timaeus/section-1"

@@ -1,10 +1,11 @@
 ---
 heading: "Chapter 2"
 title: "Consumable Goods"
-date: 2022-08-27
+weight: 12
+# date: 2022-08-27
 image: /covers/econsp.jpg
 description: ""
-author: Dalisay
+author: Juan Dalisay Jr
 ---
 
 

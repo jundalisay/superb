@@ -1,7 +1,7 @@
 ---
 title: "Defects in the Apollo Line "
-heading: "Chapter 11 Part 2"
-date: 2019-12-16
+heading: "Chapter 11"
+weight: 62
 author: William Benham
 image: "/photos/objects/hand.jpg"
 description: "If the line be alternating deep and thin (439) the subject will have a series of successes and failures, but there will be no even, steady operation of a strong line"

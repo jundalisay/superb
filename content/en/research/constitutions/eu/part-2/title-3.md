@@ -1,35 +1,32 @@
 ---
 title: "Equality"
 heading: "Title 3"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Everyone is equal before the law"
-linkb: /research/constitutions/eu/part-2/title-2
-linkbtext: "Title 2"
-linkf: /research/constitutions/eu/part-2/title-4
-linkftext: "Title 4"
 icon: /flags/eu.png
 ---
 
 
-EQUALITY
+## EQUALITY
 
-Article 20
+### Article 20
 
 Equality before the law
 Everyone is equal before the law.
 
 
-Article 21
+### Article 21
+
 Non-discrimination
-1.
-Any discrimination based on any ground such as sex, race, colour, ethnic or social origin,
-genetic features, language, religion or belief, political or any other opinion, membership of a national
-minority, property, birth, disability, age or sexual orientation shall be prohibited.
-2.
-Within the scope of application of the Treaties and without prejudice to any of their specific
-provisions, any discrimination on grounds of nationality shall be prohibited.
-Article 22
+
+1. Any discrimination based on any ground such as sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation shall be prohibited.
+
+2. Within the scope of application of the Treaties and without prejudice to any of their specific provisions, any discrimination on grounds of nationality shall be prohibited.
+
+
+### Article 22
+
 Cultural, religious and linguistic diversity
 The Union shall respect cultural, religious and linguistic diversity.
 Article 23

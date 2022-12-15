@@ -1,7 +1,7 @@
 ---
 title: "The Need for a Bailiff"
 heading: "Chapter 12"
-date: 2015-09-12
+weight: 1
 image: "/covers/economist.jpg"
 description: "I try to educate them, as you say, myself; and with good reason. He who is properly to fill my place and manage my affairs when I am absent, my alter ego"
 icons: "/icons/soc.png"

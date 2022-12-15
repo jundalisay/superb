@@ -1,7 +1,7 @@
 ---
 title: "The Propensities"
 heading: "Chapter 4c "
-date: 2022-01-20
+weight: 1
 description: "To find expression, the mind adopts certain propensities of love, hatred, fear, etc."
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

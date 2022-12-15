@@ -1,7 +1,7 @@
 ---
 title: "The 5 Elements"
 heading: "Timaeus by Plato Simplified"
-date: 2022-01-16
+weight: 1
 image: /covers/timaeus.jpg
 description: "Timaeus explains the 5 elements"
 author: Timaeus

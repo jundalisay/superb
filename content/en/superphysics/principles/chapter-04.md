@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 4"
 title: "Karma and the Loop of Cause and Effect"
-# date: 2020-04-12
-date: 2020-12-28
+date: 2020-04-12
+weight: 10
 image: /photos/meta/buddhism.jpg
 description: "Moral Consequentialism is the effect of actions that are made obscure by fleeting human memory because of the passage of time"
 author: Juan

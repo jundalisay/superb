@@ -1,7 +1,7 @@
 ---
 title: "The Cause of Diseases: Pitta, Vata, Kapha"
 heading: "Chapter 6d"
-date: 2022-01-02
+weight: 1
 image: "/covers/timaeus.jpg"
 description: "Diseases arise from the unnatural excess or defect of the four natures out of which the body is compacted"
 author: "Juan"

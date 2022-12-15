@@ -1,17 +1,12 @@
 ---
 heading: "Chapter 21"
-title: "GENERAL KNOWLEDGE ON COMPOSITION"
-date: 2022-01-31
+title: "General Knowledge On Composition"
+weight: 38
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar/"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
-
 
 
 Passage: Burdwan is an ancient city of Bengal. It is a district headquarters and university city. It is on the River Damodara. There is a road-bridge over the river named Krśak Setu (কৃষক সেতু). (Krśaka [farmer] is grammatically incorrect. It should be karśaka, কর্ষক)

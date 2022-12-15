@@ -1,9 +1,10 @@
 ---
-heading: "Chapter 1"
+heading: "Introduction"
 title: "Maharlika Investments Fund Act"
 description: "An Act Establishing The Maharlika Investment Fund, Providing For The Management, Investment, And Use Of The Proceeds Of The fund, Appropriating Funds Thereof And For Other Purposes "
-image: "/photos/buy.jpg"
-date: 2022-09-30
+image: "/photos/city.jpg"
+# date: 2022-09-30
+weight: 2
 ---
 
 
@@ -37,49 +38,54 @@ surplus revenues or reserves. Governments invest these funds in an array of both
 assets to stabilize national budgets, create savings for their citizens, or promote economic
 development.1 -->
 
-The MIF would give Government Financial Institutions (GFIs), including the GSIS, SSS, LBP, DBP, the opportunity to ensure their respective funds' optimal asset allocation as well as ensure that resources are efficiently channeled to investments that will provide the most value not only to the participating GHs, but also to the country.
+The MIF would give Government Financial Institutions (GFIs), including the GSIS, SSS, LBP, DBP, the opportunity to:
+- ensure their respective funds' optimal asset allocation 
+- ensure that resources are efficiently channeled to investments that will provide the most value to the country.
 
-SWFs can also successfully be used as a tool of national strategy, as evidenced by the successful performance of singapore's SWFs, such as the GIC private Limited, which provide the financial means for Singapore to manage its foreign reserves, defend itself and protect its sovereigrty without compromising its domestic program, and augment its land-limited economic space with global investments.
+SWFs can also successfully be used as a tool of national strategy. 
 
-SWFs can also be used to attract direct investments, as what the Indonesia Investment Authority (INA) did. By attracting foreign co-investors to capitalize the fund rather than rely on commodity revenues, the INA has been very successful in bringing in much-needed investments in
-infrastructure and emerging industries, ultimately spurring growth in Indonesia, such as investments in transportation,includingairports.supplychains,logistics,digitalinfrastructure,the green economy, healthcare services, the financial sector, technology, and tourism.
+This is evidenced by the successful performance of Singapore's SWFs, such as the GIC private Limited which provide the financial means for Singapore to:
+- manage its foreign reserves
+- defend itself and protect its sovereigrty without compromising its domestic program
+- augment its land-limited economic space with global investments.
 
-To ensure transparency and accountability, the MIF will adhere to the Santiago Principles, i .e., the Generally Accepted Principles and Practices (GAPP) agreed to in October 2008 in Santiago, Chile, in a collaborative global effort among countries with SWFs, investment recipient countries
-and international organizations, to observe, among other things: that the SWF will comply with all
-applicable regulatory and disclosure requirements in the countries in which SWFs invest; and that
-the SWF will have in place a transparent and sound governance structure that provides adequate
-operational controls, risk management, and accountability , among other commitments.
-There are now almost 50 countries around the world with a sovereign wealth Fund. In Asia alone,
-the nations that currently have swFs are singapore, China, Hong Kong, South Korea, Malaysia,
-Indonesia, Taiwan, Vietnam and East Timor.
+SWFs can also be used to attract direct investments, as what the Indonesia Investment Authority (INA) did. 
 
-As the Philippines secures its place not only as the RIsing Star of Asia but as a real economic
-leader in the Asia Pacific, the creation of the MIF becomes imperative.
-In view of the foregoing, the immediate approval of this bill to create the Maharlika Wealth Fund
-is urgently sought..
+By attracting foreign co-investors to capitalize the fund rather than rely on commodity revenues, the INA has been very successful in bringing in much-needed investments in infrastructure and emerging industries, ultimately spurring growth in Indonesia
+
+<!-- , such as investments in transportation,includingairports.supplychains,logistics,digitalinfrastructure,the green economy, healthcare services, the financial sector, technology, and tourism. -->
+
+To ensure transparency and accountability, the MIF will adhere to the Santiago Principles, i .e., the Generally Accepted Principles and Practices (GAPP) agreed to in October 2008 in Santiago, Chile. 
+
+This is in a collaborative global effort among countries with SWFs, investment recipient countries and international organizations, to observe: 
+- the compliance of the SWF with all regulatory and disclosure requirements in the countries in which SWFs invest
+- that the SWF will have in place a transparent and sound governance structure that provides adequate operational controls, risk management, and accountability , among other commitments.
+
+There are now almost 50 countries with a sovereign wealth Fund. 
+
+In Asia alone, the nations that currently have SWFs are:
+- Singapore
+- China
+- Hong Kong
+- South Korea
+- Malaysia
+- Indonesia
+- Taiwan
+- Vietnam
+- East Timor
+
+As the Philippines secures its place not only as the RIsing Star of Asia but as a real economic leader in the Asia Pacific, the creation of the MIF becomes imperative.
+
+In view of the foregoing, the immediate approval of this bill to create the Maharlika Wealth Fund is urgently sought.
 
 FERDINAND ALEXANDER A. MARCOS
 First District, Ilocos Norte
 
 STELLA LUZ A. QUIMB0
-Representative
 Second District, Marikina City
-Represerttative
-Party-List, Tingog Sihirangan
+<!-- Party-List, Tingog Sihirangan -->
 
-
-Introduced by Representatives FERDINAND MARTIN G. ROMUALDEZ,RANUEL JOSE ``MANNIX" M. DALIPE, FERDINAND ALEXANDER A. MARCOS, STELLA
-LUZ A. QUIMBO, YEDDA MARIE K. ROMUALDEZ, JUDE A. ACIDRE 
-
-AN ACT ESTABLISHING THE MAHARLIKA INVESTMENTS FUND, PROVIDING FOR THE
-MANAGEMENT, INVESTMENT, AND USE OF TIIE PROCEEDS 0F THE FUND,
-APPROPRIATING FUNDS THEREFOR, AND FOR OTHER PURPOSES
-
-Be it erracted by the Senate and House of Represerttatives Of the Philippines in Congress
-assembled:
-
-
-Secfrom 2. Decfortlfl.on a/PoJI.c)}. -It is the policy of the State to create jobs, promote trade and
+<!-- Secfrom 2. Decfortlfl.on a/PoJI.c)}. -It is the policy of the State to create jobs, promote trade and
 investments,strengthencomectivity,expandinfrastructure,achieveenergyandfoodsecurity.The
 State recognizes the vital role of various investments in financial assets in promoting economic
 growth,acceleratingj.obcreation,andimprovingthewelfareOfFilipinos.TheStateacknowledges
@@ -88,4 +94,4 @@ intergenerational management thereof for macroeconomic stability.
 Towards this end, the State shall establish an independent Maharlika Investments Fund by
 investing national funds, and coordinating and strengthening the investment activities of the
 country's top-performing Government Financial Institutions (GFls) to promote economic growth
-and social development.
+and social development. -->

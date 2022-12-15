@@ -3,6 +3,7 @@ heading: "Part 2e"
 title: "Divine Perfection"
 author: Averroes
 description: ""
+weight: 20
 image: "/covers/averroes.jpg"
 ---
 

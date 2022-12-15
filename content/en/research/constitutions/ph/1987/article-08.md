@@ -1,7 +1,7 @@
 ---
 title: The Judicial Department
 heading: Article 8 of the 1987 Constitution Simplified
-date: 2022-01-27
+weight: 1
 description: "The judicial power shall be vested in one Supreme Court and in such lower courts as may be established by law."
 image: "/graphics/1987.jpg"
 icon: /flags/ph.png

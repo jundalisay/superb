@@ -2,6 +2,7 @@
 heading: "Part 1"
 title: "The Delineation Of The Relation Between Religion And Philosophy"
 description: ""
+weight: 1
 image: "/covers/averroes.jpg"
 ---
 

@@ -2,22 +2,25 @@
 title: "The Bangsamoro Government"
 heading: "Article 7"
 description: "The powers of government shall be vested in the Bangsamoro Parliament, which shall exercise those powers and functions expressly granted to it in this Basic Law"
-date: 2021-09-20
+weight: 8
+# date: 2021-09-20
 image: "/covers/bbl.jpg"
 ---
 
 
-Section 1. Powers of Government
+### Section 1. Powers of Government
 
 The powers of government shall be vested in the Bangsamoro Parliament, which shall exercise those powers and functions expressly granted to it in this Basic Law, and those necessary for or incidental to the proper governance and development of the Bangsamoro. 
 
 It shall set policies, legislate on matters within its authority, and elect a Chief Minister, who shall exercise executive authority in its behalf.24
 
-Section 2. Legislative Authority
+
+### Section 2. Legislative Authority
 
 The Bangsamoro Parliament shall have the authority to enact laws on matters that are within the powers and competencies of the Bangsamoro Government.
 
-Section 3. Executive Authority
+
+### Section 3. Executive Authority
 
 The executive function and authority shall be exercised by the Cabinet, which shall be headed by a Chief Minister. The Chief Minister who heads the ministerial government of the Bangsamoro shall be elected by a majority vote of the Parliament from among its members.
 

@@ -2,7 +2,8 @@
 heading: "Chapter 10c"
 title: "Confucius' Favorite Disciple"
 description: "Comparative Worth of His Disciples"
-date: 2020-01-10
+weight: 24
+author: Confucius
 image: "/covers/analects.png"
 ---
 

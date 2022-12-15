@@ -1,9 +1,9 @@
 ---
 title: "General"
 heading: "Part 1"
-date: 2021-11-30
+weight: 1
 image: "/flags/au.png"
-description: ""
+description: "Legislative power and Governor General"
 icon: "/flags/au.png"
 ---
 

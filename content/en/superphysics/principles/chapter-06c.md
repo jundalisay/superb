@@ -2,6 +2,7 @@
 heading: Chapter 6b
 title: "Choice and Reasonable Versus Unreasonable"
 date: 2020-05-26
+weight: 22
 image: "https://sorasystem.sirv.com/graphics/datascience.png"
 description: "The Enlightenment was said to be a period where reason dominated. So it follows that before and after that period, people were unreasonable or less reasonable"
 author: Juan

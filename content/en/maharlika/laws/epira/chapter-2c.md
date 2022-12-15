@@ -4,7 +4,7 @@ title: Retail Competition and Open Access
 # title: "Organization And Operation Of The Electric Power Industry"
 description: "EPIRA Republic Act 9136"
 image: "/photos/physics/light.jpg"
-date: 2021-09-26
+weight: 1
 ---
 
 ## Section 31. Retail Competition and Open Access

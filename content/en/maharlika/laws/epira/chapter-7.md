@@ -3,7 +3,7 @@ heading: "Chapter 7"
 title: "Promotion Of Rural Electrification"
 description: "EPIRA Republic Act 9136"
 image: "/photos/physics/light.jpg"
-date: 2021-09-15
+weight: 1
 ---
 
 

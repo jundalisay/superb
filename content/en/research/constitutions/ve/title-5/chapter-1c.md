@@ -1,7 +1,7 @@
 ---
 title: "Passage of Laws"
 heading: "Section 4 of Chapter 1"
-date: 2021-11-26
+weight: 1
 image: "/flags/ve.png"
 description: "Laws that contain a systematic set of norms regulating a particular field may also be referred to as codes"
 icon: /flags/ve.png

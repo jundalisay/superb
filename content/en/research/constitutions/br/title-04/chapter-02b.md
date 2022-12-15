@@ -1,7 +1,7 @@
 ---
 title: "Liability of the President; Ministers"
 heading: "Chapter 2 Section 3-4"
-date: 2021-11-18
+weight: 22
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

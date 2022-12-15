@@ -1,7 +1,7 @@
 ---
 title: "5 Types of Criminals"
 heading: "Part 1"
-date: 2021-11-28
+weight: 4
 image: "/covers/discourses.jpg"
 description: "There are 5 categories of criminals"
 icon: "/icons/sarkar.png"

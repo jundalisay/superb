@@ -1,7 +1,7 @@
 ---
 title: "Relativity of the One to the Others"
 heading: "Chapter 6"
-date: 2015-09-20
+weight: 12
 image: "/covers/parmenides.jpg"
 description: "The One is in Itself which was a Whole and also in Others within that Whole"
 icon: "/icons/soc.png"

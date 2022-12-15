@@ -1,7 +1,7 @@
 ---
 title: "Putting Everything in the Right Place "
 heading: "Chapter 8"
-date: 2015-09-18
+weight: 1
 image: "/covers/economist.jpg"
 description: "How different is an army well organised in battle order: a splendid sight for friendly eyes to gaze at, albeit an eyesore to the enemy"
 icons: "/icons/soc.png"

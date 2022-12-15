@@ -1,14 +1,12 @@
-+++
-title= "Euryphamus' Treatise On Human Life"
-date= 2015-09-09
-image= "/covers/fragments.png"
-description= "The musical contrectation is the motion of these conformably to the apt composition. Thus also human life requires these same three things"
-linkb= "/research/pythagoras/fragments"
-linkbtext= "Index"
-linkf= "/research/pythagoras/fragments/hipparchus"
-linkftext= "hipparchus"
-# btext= Euryphamus
-+++
+---
+title: "Euryphamus' Treatise On Human Life"
+# heading: Prudence And Prosperity
+weight: 6
+description: The musical contrectation is the motion of these conformably to the apt composition. Thus also human life requires these same three things
+image: "/covers/fragments.png"
+---
+
+
 
 The perfect life of man falls short of the life of God, because it is not self-perfect. But it  surpasses that of irrational animals, because it has virtue and felicity. 
 

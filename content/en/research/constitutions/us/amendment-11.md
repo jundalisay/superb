@@ -1,7 +1,7 @@
 ---
 title: "Amendments 13-21"
 # heading: "US Constitution"
-date: 2021-11-18
+weight: 1
 image: "/flags/us.png"
 description: "The Judicial power shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the US by Citizens of another State, or by Citizens of any Foreign State"
 icon: /flags/us.png

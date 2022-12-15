@@ -1,6 +1,6 @@
 ---
 title: "Part 6"
-date: 2022-09-15
+weight: 1
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

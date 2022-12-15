@@ -1,7 +1,7 @@
 ---
 title: "The Will to Change"
 heading: "Chapter 9"
-date: 2015-09-14
+weight: 18
 image: "/covers/parmenides.jpg"
 description: "The One changes Itself into multiplicity from Its Will to Change which occurs in timeless Moments"
 icon: "/icons/soc.png"

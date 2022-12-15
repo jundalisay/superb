@@ -2,12 +2,13 @@
 title: "The Death of Socrates"
 linkTitle: "Chapter 10"
 heading: "Chapter 10"
-date: 2015-09-09
+weight: 22
 image: "/covers/phaedo.jpg"
 description: "Such was the end of our friend Socrates. Of all the men of his time whom I have known, he was the wisest and justest and best."
 author: Plato
 icon: /icons/soc.png
 ---
+
 
 
 When he had done speaking, Crito said:

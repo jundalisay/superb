@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 20"
-title: "THE ORIGIN OF A FEW WORDS"
-date: 2022-01-31
+title: "The Origin Of A Few Words"
+weight: 36
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar/"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Citizenship"
 heading: "Articles 5-11"
-date: 2021-11-28
+weight: 1
 image: "/flags/in.png"
 description: "The Indian citizen is every person who has his domicile in the territory of India"
 icon: /flags/in.png

@@ -6,6 +6,7 @@ linkTitle: "Five Layers"
 description: "The 5 Layers Applied to the Soul leads to the 7 Chakras"
 # date: "2020-10-15"
 date: 2020-01-25
+weight: 6
 image: "/photos/balancerock.jpg"
 author: "Juan"
 # categories: ["Medical Superphysics"]

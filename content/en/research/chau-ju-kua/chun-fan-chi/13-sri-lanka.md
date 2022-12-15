@@ -1,7 +1,7 @@
 ---
 title: "Ceylon (Lanwuli under Sumatra)"
 heading: "Chapter 13"
-date: 2022-01-16
+weight: 16
 description: "With a north wind one comes within 20 days of Ceylon which under the Chalukya (Nanpi)"
 image: "/flags/lk.png"
 author: "Chau Ju Kua"

@@ -1,7 +1,7 @@
 ---
 heading: "Part 1"
 title: "What is inside matter?"
-date: 2020-09-30
+weight: 1
 image: "/covers/meta.jpg"
 description: "Some substances are recognized by everyone. But some have been advocated by particular schools"
 author: Aristotle

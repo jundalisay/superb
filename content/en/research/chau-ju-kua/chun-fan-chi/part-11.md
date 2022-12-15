@@ -1,7 +1,7 @@
 ---
 title: "Gharu Wood"
 heading: "Part 11"
-date: 2021-10-26
+weight: 66
 image: "/covers/chun.jpg"
 description: "The best is from Cambodia (Chon-la). The second quality is from South Vietnam (Champa)"
 ---

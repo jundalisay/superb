@@ -1,7 +1,7 @@
 ---
 title: "Relativity of Motion"
 heading: "Chapter 5"
-date: 2015-09-22
+weight: 10
 image: "/covers/parmenides.jpg"
 description: "The One is at rest as the Whole, and in motion as the dualistic Others"
 icon: "/icons/soc.png"

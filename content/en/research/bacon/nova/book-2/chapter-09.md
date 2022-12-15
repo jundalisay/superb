@@ -1,7 +1,7 @@
 ---
 title: "Constitutive or Collective Instances"
 heading: Chapter 9
-date: 2022-01-12
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

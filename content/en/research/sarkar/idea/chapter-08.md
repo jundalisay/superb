@@ -1,7 +1,7 @@
 ---
 title: "The 5 Stages of the Creation of the Universe"
 heading: "Chapter 4 "
-date: 2022-01-13
+weight: 1
 description: "Originally 'Mind, Heart Chakra and Propensities (Vrtti)'"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

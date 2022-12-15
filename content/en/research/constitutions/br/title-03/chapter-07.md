@@ -1,7 +1,7 @@
 ---
 title: "Public Administration"
 heading: "Title 3 Chapter 7"
-date: 2021-11-10
+weight: 14
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"
@@ -9,7 +9,7 @@ icon: "/flags/br.png"
 
 
 
-Section 1: General Provisions
+## Section 1: General Provisions
 
 Article 37. The governmental entities <!-- and entities owned by the Government in any of the powers of the Union, the states, the Federal District and the Municipalities --> shall obey the principles of lawfulness, impersonality, morality, publicity, and efficiency, and:
 

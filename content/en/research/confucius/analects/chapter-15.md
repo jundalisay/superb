@@ -2,7 +2,8 @@
 heading: "Chapter 15"
 title: "Practical Wisdom and the Reciprocity the Rule of Life"
 description: "Practical Wisdom and the Reciprocity the Rule of Life"
-date: 2020-01-10
+weight: 34
+author: Confucius
 image: "/covers/analects.png"
 ---
 

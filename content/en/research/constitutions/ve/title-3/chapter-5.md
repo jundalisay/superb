@@ -1,7 +1,7 @@
 ---
 title: "Social and Family Rights"
 heading: "Chapter 5"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "The State shall protect families as a natural association in society, and as the fundamental space for the overall development of persons"
 linkb: /research/constitutions/ve/chapter-4

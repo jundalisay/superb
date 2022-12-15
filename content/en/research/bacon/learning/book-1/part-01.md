@@ -1,6 +1,6 @@
 ---
 title: "Part 1"
-date: 2022-01-29
+weight: 1
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

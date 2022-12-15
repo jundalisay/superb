@@ -1,7 +1,7 @@
 ---
 heading: "Part 2"
 title: "Questions 1 to 3"
-date: 2020-09-01
+weight: 4
 image: "/covers/meta.jpg"
 description: "Should the sciences investigate all the kinds of causes?"
 author: Aristotle

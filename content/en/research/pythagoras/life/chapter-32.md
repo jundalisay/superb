@@ -1,18 +1,13 @@
-+++
-title= "Pythagoras' Political Contributions"
-date= 2015-09-08
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-31"
-linkbtext= "Chapter 31"
-linkf= "/research/pythagoras/life/chapter-33"
-linkftext= "chapter-33"
-heading= "Chapter 32"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagoras' Political Contributions"
+heading: "Chapter 32"
+weight: 44
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "The fortitude of the Pythagoreans was shown by the admirable deeds of Timycha"
+icon: "/icons/py.png"
+---
+
 
 <!-- With respect to fortitude, however, many of the particulars which have been already related, appropriately pertain to it; such as  -->
 

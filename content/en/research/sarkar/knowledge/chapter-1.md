@@ -1,7 +1,7 @@
 ---
 title: "The Faculty of Knowledge"
 heading: "Chapter 1"
-date: 2021-11-30
+weight: 1
 image: "/covers/discourses.jpg"
 description: "In the mechanical sphere, knowing occurs with the perception of special types of reflections and refractions."
 icon: "/icons/sarkar.png"

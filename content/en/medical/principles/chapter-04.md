@@ -5,6 +5,7 @@ date: 2020-05-26
 image: /photos/sad.jpg
 description: "Feelings, Sentiments, Emotions, Sensations are similary yet different"
 author: Juan
+weight: 10
 icon: /icons/sp.png
 ---
 

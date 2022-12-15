@@ -3,7 +3,7 @@ heading: "Section 1"
 title: "Detailed Analysis in Order to Establish the Existence of the Spiritual Faculties"
 description: ""
 author: "Avicenna"
-date: 2022-09-29
+weight: 4
 image: "/covers/soul.jpg"
 ---
 

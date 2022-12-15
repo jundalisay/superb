@@ -1,7 +1,7 @@
 ---
 title: "Bacon, Francis"
 heading: "Enlightened"
-date: 2022-08-11
+weight: 8
 description: ""
 image: "/covers/bacon.jpg"
 ---

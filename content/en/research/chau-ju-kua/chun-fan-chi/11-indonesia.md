@@ -1,7 +1,7 @@
 ---
 title: "Sunda (Western Java)"
 heading: "Chapter 11"
-date: 2022-01-18
+weight: 14
 description: "The kingdom of Sunda (Sinto) has a harbor with a depth of 60 feet"
 image: "/flags/id.png"
 author: "Chau Ju Kua"

@@ -1,7 +1,7 @@
 ---
 title: "Brunei"
 heading: "Chapter 39"
-date: 2021-12-14
+weight: 48
 description: "Brunei has over 10,000 inhabitants and controls 14 districts. Its walls are made of wooden boards"
 image: "/flags/bn.png"
 author: "Chau Ju Kua"

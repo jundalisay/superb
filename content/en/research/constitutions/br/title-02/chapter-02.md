@@ -1,13 +1,9 @@
 ---
 title: "Social Rights"
 heading: "Chapter 2"
-date: 2021-11-20
+weight: 8
 image: "/flags/br.png"
 description: ""
-linkb: /research/constitutions/br
-linkbtext: "Brazil"
-linkf: /research/constitutions/br/
-linkftext: "Chapter 2"
 icon: "/flags/br.png"
 ---
 

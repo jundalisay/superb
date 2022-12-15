@@ -1,10 +1,10 @@
 ---
 title: "What is Time?"
-# heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
-date: 2020-01-16
+weight: 14
 image: "/photos/physics/quasar.jpg"
 description: "How the Essassani view time as an illusion created by consciousness"
 ---
+
 
 
 There is only ONE MOMENT in all creation - the eternal NOW.
@@ -33,7 +33,7 @@ Therefore, all time is truly NOW. Your past lives are occurring right NOW. Your 
 Normally, the "reality-frames" that we view in rapid sequence are related and similar. Hence the ILLUSION of continuity.
 
 
-## Continuity is an ILLUSION.
+## Continuity is an ILLUSION
 
 Continuity is an ILLUSION since one is not obligated to go from one frame to another frame that is almost the same. (The "normal" flow of time.)   
 
@@ -88,4 +88,3 @@ Notice that all this "dragging the past into the present" is also all occurring 
 This is like dragging an anchor around, rather than simply letting go of the anchor (the past) and living freely and easily in the present.   
 
 Be free of the past, and live joyously in the present!
-

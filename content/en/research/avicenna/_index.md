@@ -1,7 +1,7 @@
 ---
 title: "Avicenna"
 # heading: "Enlightened"
-date: 2022-10-11
+weight: 6
 description: ""
 image: "/covers/avicenna.jpg"
 ---

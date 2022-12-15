@@ -1,7 +1,9 @@
 ---
 heading: "Book 11"
+linkTitle: Book 11
 title: Change and Movement
 image: "/covers/meta.jpg"
-date: 2022-01-18
+weight: 1
+author: Aristotle
 description: "Book 11 of The Simplified Metaphysics by Aristotle"
 ---

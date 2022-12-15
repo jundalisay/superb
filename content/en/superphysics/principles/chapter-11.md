@@ -2,8 +2,8 @@
 heading: "Chapter 11"
 title: "What is Socratic Dialectics?"
 # heading: "The same as David Hume-level Critical Thinking"
-# date: 2019-01-02
-date: 2020-11-10
+date: 2019-01-02
+weight: 40
 image: "/covers/socrates.jpg"
 description: "The Dialectics of Socrates unifies metaphysics and science into a single body of understanding"
 author: Juan

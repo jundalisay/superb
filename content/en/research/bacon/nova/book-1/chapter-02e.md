@@ -1,7 +1,7 @@
 ---
 title: "The Idols of the Theater"
 heading: Chapter 2e
-date: 2022-01-23
+weight: 1
 image: "/covers/nova.jpg"
 description: ""
 icon: /icons/bacon.png

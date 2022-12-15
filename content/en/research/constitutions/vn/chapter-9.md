@@ -2,14 +2,10 @@
 title: "The Local Government"
 # Human Rights And 
 heading: "Chapter 9 of the Vietnamese Constitution Simplified"
-date: 2021-11-20
+weight: 1
 image: "/flags/vn.png"
 description: "The city is under direct central rule and is divided into urban districts, rural districts,
 towns, and units of similar level"
-linkb: /research/constitutions/vn/
-linkbtext: "Index"
-linkf: /research/constitutions/vn
-linkftext: "Index"
 icon: /flags/vn.png
 ---
 

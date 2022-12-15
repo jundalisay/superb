@@ -3,7 +3,8 @@ heading: "Chapter 1b"
 # heading: "Replacing the utility motive with life purpose"
 title: "The Tao as One's Life Purpose"
 # date: 2015-08-20
-date: 2022-08-29
+# date: 2022-08-29
+weight: 10
 image: /photos/meta/buddhism.jpg
 description : "Economics enshrines Utility as the foundation of value, while Superphysics emphasizes Dharma or the Tao or one's life purpose."
 author: Juan
@@ -11,6 +12,7 @@ icon: /icons/pantry.png
 aliases:
   /social/economics/principles/tao-life-purpose
 ---
+
 
 
 The core flaw of Economics, which is also the source of the unsustainability of "economic" systems, is that it focuses on utility or pleasure from external objects as their ultimate goals. 

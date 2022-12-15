@@ -1,11 +1,13 @@
 ---
 title: "Defining Complete, Limit, Disposition"
-heading: "Part 16 of Book 5"
+heading: "Part 16"
 author: "Aristotle"
+weight: 20
 image: "/covers/meta.jpg"
 description: "Aristotle defines Complete, Limit, Disposition"
 icon: "/icons/aris.jpg"
 ---
+
 
 
 ## Part 16: Complete

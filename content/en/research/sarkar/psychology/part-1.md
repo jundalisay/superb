@@ -1,7 +1,7 @@
 ---
 title: "The Cult of Spirituality"
 heading: "Part 1"
-date: 2021-11-30
+weight: 1
 image: "/covers/discourses.jpg"
 description: "Spiritualism and spirituality are not the same thing."
 icon: "/icons/sarkar.png"

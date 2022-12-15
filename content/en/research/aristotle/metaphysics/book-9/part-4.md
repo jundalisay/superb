@@ -1,7 +1,7 @@
 ---
 heading: "Part 4"
 title: "Rational and Nonrational Potentiality"
-date: 2020-09-24
+weight: 8
 image: "/covers/meta.jpg"
 description: "If, when A is real, B must be real, then, when A is possible, B also must be possible"
 author: Aristotle

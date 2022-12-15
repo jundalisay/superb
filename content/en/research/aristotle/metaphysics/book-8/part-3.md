@@ -1,7 +1,7 @@
 ---
 heading: "Part 3"
 title: "Matter and Number"
-date: 2020-09-26
+weight: 6
 image: "/covers/meta.jpg"
 description: "Aristotle explains the generation and destruction of substances"
 icon: "/icons/aris.jpg"

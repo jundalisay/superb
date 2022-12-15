@@ -1,6 +1,6 @@
 ---
 title: Bill Of Rights
-date: 2022-01-28
+weight: 1
 heading: Article 4
 # date: 1899-01-19
 description: "No person shall be deprived of life, liberty, or property without due process of law, nor shall any person be denied the equal protection of the laws"

@@ -1,6 +1,6 @@
 ---
 title: "Basic Beliefs of the Essassani"
-date: 2020-01-31
+weight: 1
 image: "/photos/physics/quasar.jpg"
 description: "The Metaphysics followed by the Essassani"
 ---

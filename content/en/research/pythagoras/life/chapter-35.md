@@ -1,7 +1,7 @@
 ---
 title: "The End of the Pythagoreans"
 heading: "Chapter 35"
-date: 2015-09-04
+weight: 50
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: "There were persons hostile to the Pythagoreans and rose against them"
@@ -9,11 +9,13 @@ icon: "/icons/py.png"
 ---
 
 
+
 There were persons hostile to the Pythagoreans and rose against them. 
 
 Stratagems were employed to destroy them during the absence of Pythagoras. <!-- , is universally acknowledged; but those that have written on this subject, differ in their account of the journey which he then undertook.  -->
 
 Some say that he went to Pherecydes the Syrian, but others to Metapontum. 
+
 
 ## The Cylonians' Account 
 

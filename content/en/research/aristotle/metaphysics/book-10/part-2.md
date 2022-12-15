@@ -1,9 +1,10 @@
 ---
 heading: "Part 2"
 title: "What is the One? How must we conceive of It?"
-date: 2015-09-28
+weight: 4
 image: "/covers/meta.jpg"
 description: "'Unity' has many meanings just as 'being' has"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

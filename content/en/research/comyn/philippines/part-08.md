@@ -2,7 +2,7 @@
 heading: "Part 8"
 title: "Jolo"
 description: "Let us listen to La Pérouse, if we wish to know and admire the army with which our missionaries subdued the natives of both Californias"
-date: 2021-01-10
+weight: 26
 image: "/covers/1810.jpg"
 ---
 

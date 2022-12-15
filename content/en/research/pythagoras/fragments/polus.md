@@ -1,13 +1,11 @@
-+++
-title= "Polus' Treatise On Justice"
-date= 2015-09-09
-image= "/covers/fragments.png"
-description= "Justice may be called the mother and the nurse of the other virtues"
-linkb= "/research/pythagoras/fragments/hippodamus"
-linkbtext= "hippodamus"
-linkf= "/research/pythagoras/fragments/theages"
-linkftext= "Theages"
-+++
+---
+title: "Polus' Treatise On Justice"
+# heading: Prudence And Prosperity
+weight: 14
+description: "Justice may be called the mother and the nurse of the other virtues"
+image: "/covers/fragments.png"
+---
+
 
 Justice may be called the mother and the nurse of the other virtues. 
 

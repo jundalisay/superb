@@ -1,7 +1,7 @@
 ---
 title: "Mixed and Supplementary Cropping"
 heading: "The Blending of Crops"
-date: 2022-01-31
+weight: 6
 author: "PR Sarkar"
 description: "Integrated farming is designed to utilize every inch of land through Mixed and Supplementary Cropping and Crop Rotation"
 image: "/covers/farming.jpg"

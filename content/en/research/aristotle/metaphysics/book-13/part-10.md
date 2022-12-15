@@ -1,9 +1,10 @@
 ---
-heading: "Part 10 of Book 13"
+heading: "Part 10"
 title: "The Individual and the Universal"
-date: 2015-09-10
+weight: 16
 image: "/covers/meta.jpg"
 description: "If substances are not separate, and in the way in which individual things are said to be separate, we shall destroy substance in the sense in which we understand 'substance'"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

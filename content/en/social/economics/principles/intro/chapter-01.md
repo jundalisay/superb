@@ -2,11 +2,11 @@
 title: "The Collective Wave of Human Desire"
 heading: Chapter 1
 # heading: "Ideas are Particles, Feelings are Waves"
-date: 2022-03-30
 # date: 2015-09-09
 image: "/photos/social/pageant.jpg"
 description: "The Collective Wave of Human Desire explains how cycles maninfest in Economics"
 author: Juan
+weight: 6
 aliases:
   /articles/social/collective-wave-of-desire
   /social/collective-wave-of-desire/

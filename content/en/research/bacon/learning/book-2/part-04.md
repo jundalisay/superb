@@ -1,7 +1,7 @@
 ---
 heading: Part 4
 title: "Poesy"
-date: 2022-09-19
+weight: 1
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

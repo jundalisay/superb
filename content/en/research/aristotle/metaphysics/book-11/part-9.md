@@ -1,9 +1,10 @@
 ---
 heading: "Part 3"
 title: "What is Movement?"
-date: 2015-09-15
+weight: 16
 image: "/covers/meta.jpg"
 description: "Philosophy treats of being qua being universally and not in respect of a part of it, and 'being' has many senses and is not used in one only"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

@@ -1,8 +1,8 @@
 ---
 heading: "Chapter 6"
 title: "Targetted Development"
-# date: 2022-03-27
 date: 2022-01-03
+weight: 28
 image: /covers/econsp.jpg
 description: ""
 author: Dalisay

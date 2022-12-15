@@ -1,10 +1,11 @@
 ---
 title: "How to Read the Heart Line"
 heading: "Chapter 5 of Part 2"
-date: 2020-01-13
+weight: 18
 image: "/photos/objects/hand.jpg"
 description: "Classifying the subject's type is the first step."
 icon: "/avatars/blank.png"
+author: William Benham
 ---
 
 

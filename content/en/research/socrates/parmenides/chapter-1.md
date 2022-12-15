@@ -1,7 +1,7 @@
 ---
 title: "Socrates, Zeno, and Parmenides"
 heading: "Chapter 1"
-date: 2015-09-30
+weight: 2
 image: "/covers/parmenides.jpg"
 description: "Socrates, Zeno, and Parmenides talk about the philosophy"
 icon: "/icons/soc.png"

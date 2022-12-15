@@ -1,7 +1,7 @@
 ---
 title: "The One is All and All are One"
 heading: "Chapter 15"
-date: 2015-09-01
+weight: 30
 image: "/covers/parmenides.jpg"
 description: "The Others become other than each Other, for the only remaining alternative is that they are other than nothing."
 author: Plato

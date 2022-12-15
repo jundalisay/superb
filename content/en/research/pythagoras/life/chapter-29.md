@@ -1,20 +1,19 @@
-+++
-title= "Pythagoras' Political Contributions"
-date= 2015-09-11
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-28"
-linkbtext= "Chapter 28"
-linkf= "/research/pythagoras/life/chapter-30"
-linkftext= "chapter-30"
-heading= "Chapter 29"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagoras' Political Contributions"
+heading: "Chapter 29"
+weight: 40
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Nutrition greatly contributes to the best discipline when properly used"
+icon: "/icons/py.png"
+---
 
-Of his wisdom, however, the commentaries written by the Pythagoreans afford, in short, the greatest indication; for they adhere to truth in every thing, and are more concise than all other compositions, so that they savour of the ancient elegance of style, and the conclusions are exquisitely deduced with divine science. 
+
+
+The commentaries written by the Pythagoreans on the wisdom of Pythagoras is proof of his wisdom. 
+- They adhere to truth in everything
+- They are more concise than all other compositions, so that they savour of the ancient elegance of style
+- The conclusions are exquisitely deduced with divine science. 
 
 They are also replete with the most condensed conceptions, and are in other respects various and diversified both in the form and the matter. At one and the same time likewise, they are transcendently excellent, and without any deficiency in the diction, and are in an eminent degree full of clear and indubitable arguments, accompanied with scientific demonstration, and as it is said, the most perfect syllogism; as he will find to be the case, who, proceeding in such paths as are fit, does not negligently peruse them. This science, therefore, concerning intelligible natures and the Gods, Pythagoras delivers in his writings from a supernal origin. Afterwards, he teaches the whole of physics, and unfolds completely ethical philosophy and logic. He likewise delivers all-various disciplines, and the most excellent sciences. 
 

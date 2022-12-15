@@ -2,7 +2,7 @@
 heading: "Part 6d"
 title: "Taxation"
 description: "The too great condescension and mistaken humanity of the government on the one hand, and the fraud and selfishness of the provincial sub-delegates or collectors, on the other, have concurred to change a contribution, the most simple, into one of the most complicated branches of public administration"
-date: 2021-01-16
+weight: 20
 image: "/covers/1810.jpg"
 ---
 

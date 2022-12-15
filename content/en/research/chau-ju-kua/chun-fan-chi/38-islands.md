@@ -1,7 +1,7 @@
 ---
 title: "Island Nations"
 heading: "Chapter 38"
-date: 2021-12-16
+weight: 46
 description: "When sailing from Lan-wu-li to silan, ships might be driven to Andaman if the wind is not fair. It is made up of 2 islands-- one large which is 70 li around, one small and uninhabited"
 image: "/flags/mv.png"
 author: "Chau Ju Kua"

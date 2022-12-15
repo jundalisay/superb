@@ -1,7 +1,7 @@
 ---
 title: "How to Train Humans"
 heading: "Chapter 13"
-date: 2015-09-10
+weight: 1
 image: "/covers/economist.jpg"
 description: "He must learn at any rate, I think, to rule his fellow-workmen"
 icons: "/icons/soc.png"

@@ -1,18 +1,14 @@
-+++
-title= "Pythagoras' Harmonic Science and Harmonic Ratios"
-date= 2015-09-14
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-25"
-linkbtext= "Chapter 25"
-linkf= "/research/pythagoras/life/chapter-27"
-linkftext= "chapter-27"
-heading= "Chapter 26"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagoras' Harmonic Science and Harmonic Ratios"
+heading: "Chapter 26"
+weight: 34
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Nutrition greatly contributes to the best discipline when properly used"
+icon: "/icons/py.png"
+---
+
+
 
 Pythagoras invented the harmonic science and harmonic ratios. 
 

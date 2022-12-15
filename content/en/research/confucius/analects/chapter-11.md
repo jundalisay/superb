@@ -2,7 +2,8 @@
 heading: "Chapter 11b"
 title: "Confucius in Private and Official Life"
 description: "In his home life, he was not formal. Whenever he met with a person in mourning, even though it were a familiar acquaintance, he would be certain to change his manner"
-date: 2020-01-08
+weight: 26
+author: Confucius
 image: "/covers/analects.png"
 ---
 

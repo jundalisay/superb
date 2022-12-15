@@ -6,6 +6,7 @@ date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "Rene Descartes gave 3 Rules of Movement in The World"
 linkTitle: "3 Rules"
+weight: 8
 author: Juan
 icon: /icons/spmat.png
 ---

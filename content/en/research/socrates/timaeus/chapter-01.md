@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1"
 title: "The Republic Reviewed"
-date: 2022-01-31
+weight: 1
 image: "/covers/timaeus.jpg"
 description: "Socrates reviews Timaeus on the key ideas of the Republic"
 icon: "/icons/soc.png"

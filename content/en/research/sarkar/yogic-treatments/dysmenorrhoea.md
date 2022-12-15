@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies for Dysmenorrhoea (Cramps)"
-date: 2022-01-10
+weight: 1
 author: "PR Sarkar"
 description: "Women who are adverse to physical labour, and who generally are from rich or upper middle-class families, are found suffering from this disease"
 image: "/photos/med/dysm.jpg"

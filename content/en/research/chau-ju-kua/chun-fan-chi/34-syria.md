@@ -1,7 +1,7 @@
 ---
 title: "Syria"
 heading: "Chapter 34"
-date: 2021-12-22
+weight: 42
 description: "Lumei, also called Meiluku, is 300 stages west by land from Aden (Malopa)"
 image: "/flags/sy.png"
 author: "Chau Ju Kua"

@@ -1,7 +1,7 @@
 ---
 title: "The Three Pleasures: Wisdom, Honor, Gain"
 heading: "Chapter 2 of Book 9"
-date: 2015-09-28
+weight: 1
 image: "/covers/republic.jpg"
 description: "The Three Pleasures are Wisdom, Honor, Gain"
 author: "Socrates"

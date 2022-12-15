@@ -1,7 +1,8 @@
 ---
 heading: "Chapter 5b"
 title: "The Proper Energy Policy"
-date: 2022-08-15
+# date: 2022-08-15
+weight: 24
 # date: 2022-08-09
 image: /photos/physics/light.jpg
 description : "The proper energy policy is to let the government handle energy."

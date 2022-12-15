@@ -1,7 +1,7 @@
 ---
 title: "The Nature of Motion"
 heading: "Timaeus by Plato Simplified"
-date: 2022-01-14
+weight: 1
 image: "/covers/timaeus.jpg"
 description: "The Simplified Timaeus by Plato"
 author: Timaeus

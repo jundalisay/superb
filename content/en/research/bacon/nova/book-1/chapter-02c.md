@@ -1,7 +1,7 @@
 ---
 title: "The Idols of the Den"
 heading: Chapter 2c
-date: 2022-01-26
+weight: 1
 image: "/covers/nova.jpg"
 description: ""
 icon: /icons/bacon.png

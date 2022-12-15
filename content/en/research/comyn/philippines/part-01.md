@@ -2,7 +2,7 @@
 heading: "Part 1"
 title: "The Philippine Population in 1810"
 description: "Besides the Moros and independent tribes, the total population of the Philippine Islands, subject to the authority of the king, is 3 million"
-date: 2021-01-31
+weight: 1
 image: "/covers/1810.jpg"
 ---
 

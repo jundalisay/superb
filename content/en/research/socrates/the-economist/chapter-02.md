@@ -1,7 +1,7 @@
 ---
 title: "The Wealth of Critobulus"
 heading: "Chapter 2 of The Economist Simplified"
-date: 2015-09-29
+weight: 1
 image: "/covers/economist.jpg"
 description: "Wealth is anything that provides utilitiy and benefit for living"
 icon: "/icons/soc.png"

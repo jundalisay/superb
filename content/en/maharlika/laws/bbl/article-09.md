@@ -2,12 +2,13 @@
 title: "Basic Rights"
 heading: "Article 9"
 description: "All laws and policies, including customary laws, shall conform to international human rights and humanitarian standards"
-date: 2021-09-17
+# date: 2021-09-17
+weight: 10
 image: "/covers/bbl.jpg"
 ---
 
 
-Section 1. Basic Rights in the Bangsamoro
+## Section 1. Basic Rights in the Bangsamoro
 
 In addition to the basic rights already enjoyed by the citizens residing in the Bangsamoro, the Bangsamoro Government shall guarantee the following enforceable rights:
 

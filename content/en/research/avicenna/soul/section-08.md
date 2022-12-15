@@ -3,7 +3,7 @@ heading: "Section 8"
 title: "A Sketch of the Human Soul from the Starting-Point"
 description: ""
 author: "Avicenna"
-date: 2022-09-23
+weight: 18
 image: "/covers/soul.jpg"
 ---
 

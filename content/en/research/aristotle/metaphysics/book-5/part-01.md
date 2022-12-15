@@ -1,8 +1,9 @@
 ---
-heading: "Part 1 and 2 of Book 5"
+heading: "Part 1 and 2"
 title: "Defintion of Beginning and Cause"
-date: 2020-09-30
+weight: 1
 image: "/covers/meta.jpg"
+author: Aristotle
 description: "Aristotle defines Beginning as that part of a thing from which one would start first"
 icon: "/icons/aris.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Management of an Estate"
 heading: "Chapter 3 of The Economist Simplified"
-date: 2015-09-28
+weight: 1
 image: "/covers/economist.jpg"
 description: "Some men make their wives as true helpers to jointly increase of their estate, while others treat them in a way to bring upon themselves wholesale disaster"
 icon: "/icons/soc.png"

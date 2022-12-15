@@ -1,7 +1,7 @@
 ---
 title: "Fundamental Principles"
 heading: "Title 1"
-date: 2021-11-30
+weight: 1
 image: "/flags/br.png"
 description: "The Federative Republic of Brazil is made up of the indissoluble union of the states and municipalities and of the Federal District"
 icon: "/flags/br.png"

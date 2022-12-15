@@ -5,6 +5,7 @@ date: 2020-01-29
 image: /photos/physics/light.jpg
 description: "The radiant layer of Superphysics is equivalent to the electromagentic field in Physics"
 author: Juan
+weight: 10
 icon: /icons/spmat.png
 aliases: 
   /material/principles/radiant  

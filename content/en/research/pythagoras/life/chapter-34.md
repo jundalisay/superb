@@ -2,13 +2,9 @@
 title: "Pythagoras' Political Contributions"
 heading: "Chapter 34"
 author: Iamblichus
-date: 2015-09-05
+weight: 48
 image: "/covers/lifepyi.png"
 description: "Iamblichus’ Life of Pythagoras"
-linkb: /research/pythagoras/life/chapter-33
-linkbtext: "Chapter 33"
-linkf: /research/pythagoras/life/chapter-35
-linkftext: "Chapter 35"
 icon: /icons/py.png
 aliases:
   /research/pythagoras/iamblichus/chapter-34

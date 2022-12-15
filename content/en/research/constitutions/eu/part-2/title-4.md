@@ -1,31 +1,33 @@
 ---
 title: "Solidarity"
 heading: "Title 4"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Everyone is equal before the law"
-linkb: /research/constitutions/eu/part-2/title-2
-linkbtext: "Title 2"
-linkf: /research/constitutions/eu/part-2/title-4
-linkftext: "Title 4"
 icon: /flags/eu.png
 ---
 
 
-Article 27
+## Article 27
 
 Workers' right to information and consultation within the undertaking
 
 Workers or their representatives must, at the appropriate levels, be guaranteed information and consultation in good time in the cases and under the conditions provided for by Union law and national laws and practices.
 
-Article 28
+
+## Article 28
 
 Right of collective bargaining and action
+
 Workers and employers, or their respective organisations, have, in accordance with Union law and
 national laws and practices, the right to negotiate and conclude collective agreements at the appro­
 priate levels and, in cases of conflicts of interest, to take collective action to defend their interests,
 including strike action.
-Article 29
+
+
+
+## Article 29
+
 Right of access to placement services
 Everyone has the right of access to a free placement service.
 Article 30

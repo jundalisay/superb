@@ -1,13 +1,9 @@
 ---
 title: "Dignity"
 heading: "Title 1"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Human dignity is inviolable. It must be respected and protected."
-linkb: /research/constitutions/eu/part-2
-linkbtext: "Rights"
-linkf: /research/constitutions/eu/part-2/title-2
-linkftext: "Title 2"
 icon: /flags/eu.png
 ---
 

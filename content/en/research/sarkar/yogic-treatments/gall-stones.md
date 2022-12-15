@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies for Gall Stones"
-date: 2022-01-02
+weight: 1
 author: "PR Sarkar"
 description: "If the impurities are too great in proportion to the chyle and the blood, especially if the acids are too great, these things are carried with the bile into the gallbladder in very large quantity"
 image: "/photos/med/kidney.jpg"

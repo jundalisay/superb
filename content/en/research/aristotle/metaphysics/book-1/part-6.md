@@ -1,7 +1,7 @@
 ---
 title: "Plato's Philosophy"
 heading: "Part 6"
-date: 2015-09-21
+weight: 12
 image: "/covers/meta.jpg"
 description: "Aristotle explains the principles of the Plato"
 icon: "/icons/aris.jpg"

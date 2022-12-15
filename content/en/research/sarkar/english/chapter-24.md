@@ -1,14 +1,10 @@
 ---
 heading: "Chapter 23"
-title: "LETTER-WRITING"
-date: 2022-01-31
+title: "Letter-writing"
+weight: 42
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"
-linkb: "/research/sarkar/grammar"
-linkbtext: "Index"
-linkf: "/research/sarkar/grammar/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 
@@ -19,13 +15,16 @@ Letters are of 3 types:
 2. organizational, commercial, official, gubernatorial (or "governmental")
 3. demi-official (D.O.)
 
+
 ## Private Letters
 
 In the case of private or personal letters, Mr. is generally not written before the name or surname of a person, although it can be written in the case of a less-known addressee. If Mr. Basu is a close friend or a relative of yours, you may write My dear Basu. If you do not know him well you may address him as Dear Mr. Basu. The letter ends with Yours sincerely, or Yours affectionately, or Yours lovingly, etc., according to the relationship.
 
+
 ## Official Letters
 
 In the case of governmental or official letters, the letter should start with Sir or Madame as the case may be, and should end with Yours faithfully.
+
 
 ## Demi-Official Letters
 

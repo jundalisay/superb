@@ -1,14 +1,11 @@
-+++
-title= "Archytas' Treatises"
-date= 2015-09-09
-image= "/covers/fragments.png"
-description= "Archyta gave treatises On Ethical Erudition, The Good And Happy Man, and Discipline"
-linkb= "/research/pythagoras/fragments"
-linkbtext= "Index"
-linkf= "/research/pythagoras/fragments/euryphamus"
-linkftext= "Index"
-heading= "Ethical Erudition, Happiness, and Discipline"
-+++
+---
+title: Archytas' Treatises
+heading: Ethical Erudition, Happiness, and Discipline
+weight: 1
+description: Archyta gave treatises On Ethical Erudition, The Good And Happy Man, and Discipline
+image: "/covers/fragments.png"
+---
+
 
 
 ## Treatise On Ethical Erudition

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 19"
-title: "STRUCTURAL FORMULA: SUFFIX AND PREFIX"
-date: 2022-01-31
+title: "Structural Formula: Suffix And Prefix"
+weight: 34
 author: "PR Sarkar"
 description: ""
 image: "/covers/grammar.png"

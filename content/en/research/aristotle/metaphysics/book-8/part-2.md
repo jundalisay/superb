@@ -1,7 +1,7 @@
 ---
 heading: "Part 2"
 title: "The Matter of Democritus"
-date: 2020-09-28
+weight: 4
 image: "/covers/meta.jpg"
 description: "Matter has many differences"
 icon: "/icons/aris.jpg"

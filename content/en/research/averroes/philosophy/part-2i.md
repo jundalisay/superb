@@ -3,6 +3,7 @@ heading: "Part 2i"
 title: "Question 3: Fate and Predestination"
 author: Averroes
 description: ""
+weight: 28
 image: "/covers/averroes.jpg"
 ---
 

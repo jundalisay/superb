@@ -1,6 +1,6 @@
 ---
 title: "Affection Lines"
-date: 2019-12-27
+weight: 50
 author: William Benham
 image: "/photos/objects/hand.jpg"
 description: "The lines of Affection or Marriage, as they are commonly called, lie on the Mount of Mercury, and run from the percussion toward the inside of the palm"

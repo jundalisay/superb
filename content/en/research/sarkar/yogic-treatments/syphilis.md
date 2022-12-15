@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies for Syphilis"
-date: 2022-01-31
+weight: 1
 author: "PR Sarkar"
 description: "When the disease erupts in a body which has already been suffering from vitiation of the pitta, it is called 'pitta syphilis'. Its sores are yellowish in colour, very ugly and dirty in appearance, and usually generate a sharp burning sensation"
 image: "/photos/med/syph.jpg"

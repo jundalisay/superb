@@ -1,7 +1,7 @@
 ---
 title: "The Pythagoreans"
 heading: "Chapter 6"
-date: 2015-09-25
+weight: 8
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: "On his first arrival in Italy, according to Nicomachus, being captivated by one popular oration alone, they exceeded 2,000 in number."

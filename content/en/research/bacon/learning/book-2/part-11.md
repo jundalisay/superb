@@ -1,7 +1,7 @@
 ---
 heading: "Part 11"
 title: The human knowledge which concerns the mind
-date: 2022-09-01
+weight: 1
 description: "The human knowledge which concerns the mind has 2 parts"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

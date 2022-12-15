@@ -6,6 +6,7 @@ linkTitle: "Spatial Layer"
 # image: /photos/physics/galaxy.jpg
 image: "/covers/spblack.jpg"
 description: "The spatial layer is the spacetime in Physics"
+weight: 8
 author: Juan
 icon: /icons/spmat.png
 ---

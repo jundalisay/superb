@@ -1,7 +1,7 @@
 ---
 title: "The Absolute One"
 heading: "Chapter 13"
-date: 2015-09-04
+weight: 26
 image: "/covers/parmenides.jpg"
 description: "Parmenides goes back to talk about the Absolute One"
 icon: "/icons/soc.png"

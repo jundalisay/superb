@@ -4,6 +4,7 @@ title: "Poincare, Henri"
 linkTitle: "Poincare"
 description: "Henri Poincare was a French physicist who first proposed gravitational waves"
 image: "/covers/poin.jpg"
-date: 2022-05-13
+weight: 84
+# date: 2022-05-13
 ---
 

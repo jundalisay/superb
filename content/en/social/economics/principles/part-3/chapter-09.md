@@ -3,12 +3,11 @@ heading: "Chapter 9 "
 title: "Trade"
 # date: 2022-03-27
 date: 2021-12-19
+weight: 44
 image: /covers/econsp.jpg
 description: ""
 author: Dalisay
 ---
-
-
 
 
 There are 3 kinds of trades:

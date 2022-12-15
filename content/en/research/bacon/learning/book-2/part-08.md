@@ -1,7 +1,7 @@
 ---
 title: Mathematics
 heading: "Part 8"
-date: 2022-09-10
+weight: 1
 description: "Mathematics is the part of natural philosophy, which is commonly made a principal part"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

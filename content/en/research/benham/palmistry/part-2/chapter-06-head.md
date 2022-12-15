@@ -2,9 +2,10 @@
 title: "The Line of Head"
 heading: "Chapter 6 of Part 2"
 # date: 2021-11-20
-date: 2020-01-11
+weight: 26
 image: "/photos/objects/hand.jpg"
 description: ""
+author: William Benham
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Abaris"
 heading: "Chapter 19"
-date: 2015-09-12
+weight: 24
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: "Universally, Pythagoras discovered many paths of learning."

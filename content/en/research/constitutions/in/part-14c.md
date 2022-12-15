@@ -1,7 +1,7 @@
 ---
 title: "Tribunals"
 heading: "Part 14c"
-date: 2021-10-12
+weight: 1
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

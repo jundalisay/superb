@@ -1,9 +1,10 @@
 ---
 heading: "Parts 6 of Book 5"
 title: "Defining One and Many"
-date: 2020-09-28
+weight: 6
 image: "/covers/meta.jpg"
 description: "Aristotle defines one and many"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

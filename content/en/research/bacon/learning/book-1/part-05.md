@@ -1,6 +1,6 @@
 ---
 title: "Part 5"
-date: 2022-01-19
+weight: 1
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

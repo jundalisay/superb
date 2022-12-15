@@ -1,7 +1,7 @@
 ---
 title: "Finance, Property, Contracts And Suits"
 heading: "Part 12"
-date: 2021-10-22
+weight: 1
 image: "/flags/in.png"
 description: ""
 icon: /flags/in.png

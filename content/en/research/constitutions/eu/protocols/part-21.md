@@ -1,7 +1,7 @@
 ---
 title: "PROTOCOL ON EXTERNAL RELATIONS OF THE MEMBER STATES WITH REGARD TO THE CROSSING OF EXTERNAL BORDERS"
 heading: "Part 21-22"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: ""
 icon: /flags/eu.png

@@ -1,9 +1,10 @@
 ---
 heading: "Part 1"
 title: "Should science focus on the elemental or the universal?"
-date: 2015-09-30
+weight: 1
 image: "/covers/meta.jpg"
 description: "Aristotle asks whether science should focus on the elemental or the universal"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

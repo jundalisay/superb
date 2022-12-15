@@ -3,7 +3,7 @@ title: "Palembang Sumatra (San Fotsi)"
 heading: "Chapter 7"
 description: "Sumatra is between Cambodia and Java. Its territory is over 15 provinces."
 image: "/flags/id.png"
-date: 2022-01-24
+weight: 8
 ---
 
 

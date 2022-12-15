@@ -1,7 +1,7 @@
 ---
 heading: "Part 6"
 title: "The unity of definitions and numbers"
-date: 2020-09-02
+weight: 10
 image: "/covers/meta.jpg"
 description: "What is the cause of the unity of definitions and numbers?"
 author: Aristotle

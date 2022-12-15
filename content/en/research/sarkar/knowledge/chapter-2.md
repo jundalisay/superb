@@ -1,7 +1,7 @@
 ---
 title: "Memory"
 heading: "Chapter 2"
-date: 2021-11-28
+weight: 1
 image: "/covers/discourses.jpg"
 description: ""
 icon: "/icons/sarkar.png"

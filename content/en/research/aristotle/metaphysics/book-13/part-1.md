@@ -1,9 +1,10 @@
 ---
 heading: "Part 1"
 title: "The Substance as Matter"
-date: 2015-09-30
+weight: 1
 image: "/covers/meta.jpg"
 description: "The substance of sensible things is matter"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

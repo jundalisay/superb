@@ -1,7 +1,7 @@
 ---
 title: "The Early Life of Pythagoras"
 heading: "Chapter 1-2"
-date: 2015-09-30
+weight: 2
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: "Pythagoras' soul was sent to mankind from the empire of Apollo, either as an attendant on the God, of co-arranged with him in some other more familiar way"

@@ -1,7 +1,7 @@
 ---
 title: "Relativity of Time"
 heading: "Chapter 16"
-date: 2015-09-16
+weight: 16
 image: "/covers/parmenides.jpg"
 description: "The One is affected by time"
 icon: "/icons/soc.png"

@@ -1,8 +1,9 @@
 ---
 heading: "Part 1"
-title: "PRELIMINARY PROVISIONS"
+title: "Preliminary Provisions"
 description: "The State will hasten the country's economic development by encouraging the formation and growth of barangay micro business enterprises which effectively serve as seedbeds of Filipino entrepreneurial talents"
-date: 2002-11-13
+# date: 2002-11-13
+weight: 2
 image: "/covers/bbl.jpg"
 ---
 

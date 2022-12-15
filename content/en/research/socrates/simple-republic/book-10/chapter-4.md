@@ -1,7 +1,7 @@
 ---
 heading: Chapter 4 of Book 10
 title: "Socrates' Story on Reincarnation"
-date: 2020-09-24
+weight: 1
 description: "The soul is affected by cause and effect through the chakras. It can reincarnate as any entity, even as an animal"
 image: "/covers/republic.jpg"
 icon: "/icons/soc.png"

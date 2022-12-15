@@ -1,9 +1,10 @@
 ---
 heading: "Part 7"
 title: "Thought is Prior to Desire"
-date: 2015-09-20
+weight: 8
 image: "/covers/meta.jpg"
 description: "Desire depends on opinion. Opinion does not depend on desire. This is thinking is the starting-point"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

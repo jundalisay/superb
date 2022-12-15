@@ -3,6 +3,7 @@ title: "Basic Universal Revenue"
 heading: "Chapter 3b"
 # Alternative to Universal Basic Income"
 # BUR is our New Store of Value and a
+weight: 18
 date: 2020-08-20
 # date: 2017-04-26
 image: /photos/grains.jpg

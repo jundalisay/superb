@@ -1,7 +1,7 @@
 ---
 title: "Pythagoras Sails for Egypt"
 heading: "Chapter 3-4"
-date: 2015-09-29
+weight: 4
 author: "Iamblichus"
 image: "/covers/lifepyi.png"
 description: "Pythagoras thus learned the mysteries of the Phoenicians which were derived from the sacred rites in Egypt like a colony and a progeny"

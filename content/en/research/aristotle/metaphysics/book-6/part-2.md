@@ -1,7 +1,8 @@
 ---
 title: "The Pure Being"
-heading: "Part 2 of Book 6"
+heading: "Part 2"
 author: "Aristotle"
+weight: 4
 image: "/covers/meta.jpg"
 description: "The unqualified term 'being' has many meanings"
 icon: "/icons/aris.jpg"

@@ -1,7 +1,7 @@
 ---
 title: "Ctesophon Parthia (Paita)"
 heading: "Chapter 30"
-date: 2021-12-26
+weight: 38
 description: "Ctesophon is the greatest metropolis of the Arabs"
 image: "/flags/ir.png"
 author: "Chau Ju Kua"

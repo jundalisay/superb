@@ -1,32 +1,30 @@
 ---
 title: "Citizens' Rights"
 heading: "Title 5"
-date: 2021-11-20
+weight: 1
 image: "/flags/eu.png"
 description: "Everyone is equal before the law"
-linkb: /research/constitutions/eu/part-2/title-4
-linkbtext: "Title 4"
-linkf: /research/constitutions/eu/part-2/title-6
-linkftext: "Title 6"
 icon: /flags/eu.png
 ---
 
 
 
-Article 39
+## Article 39
 
 Right to vote and to stand as a candidate at elections to the European Parliament
 1. Every citizen of the Union has the right to vote and to stand as a candidate at elections to the European Parliament in the Member State in which he or she resides, under the same conditions as nationals of that State.
 2. Members of the European Parliament shall be elected by direct universal suffrage in a free and
 secret ballot.
 
-Article 40
+
+## Article 40
 
 Right to vote and to stand as a candidate at municipal elections
 Every citizen of the Union has the right to vote and to stand as a candidate at municipal elections in
 the Member State in which he or she resides under the same conditions as nationals of that State.
 
-Article 41
+
+## Article 41
 
 Right to good administration
 1. Every person has the right to have his or her affairs handled impartially, fairly and within a

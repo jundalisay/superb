@@ -1,7 +1,7 @@
 ---
 title: "The Allegory of the Cave"
 heading: "Chapter 1 of Book 7"
-date: 2015-09-30
+weight: 1
 image: "/covers/republic.jpg"
 description: "Unenlightened humans are like those stuck inside a dark cave who see only shadows of objects and not the hidden nature and essence of things"
 author: "Socrates"

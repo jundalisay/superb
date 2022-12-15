@@ -4,10 +4,10 @@ title: "The Timeline of Economic Thought 1204-2020"
 # heading: "800+ years: "
 image: /photos/objects/galleon.jpg
 description : "The widespread use of standardized money, from the rise of peace and order, led to mercantilism and, later, capitalism"
-date: 2022-01-31
-# date: 2015-04-11
+weight: 16
+date: 2015-04-11
 youtube: "rVP73TV2X0s"
-author: Juan
+author: Juan Dalisay Jr
 icon: /icons/pantry.png
 aliases:
   /articles/taonomics/timeline-of-economic-thought

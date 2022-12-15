@@ -1,9 +1,10 @@
 ---
 heading: "Part 4 of Book 4"
 title: "To Be or Not to Be"
-date: 2020-09-27
+weight: 6
 image: "/covers/meta.jpg"
 description: "Some philosophers assert that it is possible for the same thing to be and not to be"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

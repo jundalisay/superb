@@ -1,7 +1,7 @@
 ---
 title: The arts of judgment
 heading: "Part 14"
-date: 2022-08-20
+weight: 1
 description: "The arts of judgment handle the natures of proofs and demonstrations, which as to induction hath a coincidence with invention"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

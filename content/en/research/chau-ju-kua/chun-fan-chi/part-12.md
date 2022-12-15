@@ -1,7 +1,7 @@
 ---
 title: "Sandalwood"
 heading: "Part 12"
-date: 2021-10-26
+weight: 68
 image: "/covers/chun.jpg"
 description: "The best is from Cambodia (Chon-la). The second quality is from South Vietnam (Champa)"
 ---

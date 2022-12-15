@@ -1,18 +1,13 @@
-+++
-title= "Pythagoras' Temperance"
-date= 2015-09-10
-author= "Iamblichus"
-image= "/covers/lifepyi.png"
-description= "Iamblichus’ Life of Pythagoras"
-linkb= "/research/pythagoras/life/chapter-29"
-linkbtext= "Chapter 29"
-linkf= "/research/pythagoras/life/chapter-31"
-linkftext= "chapter-31"
-heading= "Chapter 30"
-icon = "/icons/py.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
+---
+title: "Pythagoras' Justice"
+heading: "Chapter 30"
+weight: 42
+author: "Iamblichus"
+image: "/covers/lifepyi.png"
+description: "Pythagoras cultivated justice and delivered it to mankind. How did he avoid injustice?"
+icon: "/icons/py.png"
+---
+
 
 
 Pythagoras cultivated justice and delivered it to mankind. How did he avoid injustice?

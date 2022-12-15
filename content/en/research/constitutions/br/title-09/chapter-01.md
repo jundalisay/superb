@@ -1,7 +1,7 @@
 ---
 title: "General Provisions"
 heading: "Chapter 7"
-date: 2021-11-20
+weight: 1
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

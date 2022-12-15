@@ -1,7 +1,7 @@
 ---
 title: "The Moral Education of Guardians"
 heading: Chapter 3 of Book 10
-date: 2020-09-22
+weight: 10
 description: "The guardians should be given proper education in philosophy and gymnastic. The state should censor immoral and untruthful literature and art, and should base their education on God. They should never create true lies"
 image: "/covers/republic.jpg"
 icon: "/icons/soc.png"
@@ -57,16 +57,21 @@ But if it is absolute necessary to mention them, a chosen few might hear them in
 They should sacrifice not a common (Eleusinian) pig, but some huge and unprocurable victim.
 Then the number of the hearers will be very few.
 The young man should not be told that the worst of crimes are not outrageous.
+{{< /l >}}
 
-Those stories should not be repeated.
-Our future guardians should not be told about:
+
+{{< l a="Socrates" >}}
+Those stories should not be repeated. Our future guardians should not be told about:
 - the wars in heaven, and
 - the plots and fightings among the gods.
 
 Such stories are not true. We shall never mention the battles of the giants, nor let them be embroidered on garments. We shall be silent about the many quarrels of gods and heroes with their friends and relatives. We would tell them that:
 - quarrelling is unholy, and
 - there has never been any such quarrels between citizens in the past.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 This is what old men and women should tell children. The poets should also compose for the more mature youth in a similar spirit. The following tales must not be admitted into our State, whether have allegorical meaning or not:
 - the story of Hephaestus binding his mother Hera,
 - how Zeus sent him flying for taking her part when she was being beaten, and
@@ -77,9 +82,9 @@ A young person cannot judge what is allegorical and what is literal. Anything th
 
 
 
-## First Quality* of God= God Must Be Defined to Be Good If the State is to be Good
+## First Quality* of God: God Must Be Defined to Be Good If the State is to be Good
 
-*Translator's Note= This is called Dharma in Hinduism and Buddhism
+*Superphysics Note: This is called Dharma in Hinduism and Buddhism
 
 
 {{< l a="Socrates" >}}
@@ -87,7 +92,6 @@ But where are such models to be found? You, I, and Adeimantus are not poets, but
 
 - the general forms in which poets should cast their tales, and
 - the limits which must be observed by them
-
 
 But to make the tales is not the business of the founders. 
 {{< /l >}}
@@ -185,6 +189,7 @@ They will make cowards of their children.
 {{< /l >}}
 
 
+
 ## The True Lie Is Unacceptable as It Is Pure Falsehood, But White Lies Are a Deception Which Might Be Useful Sometimes
 
 {{< l a="Socrates" >}}
@@ -208,9 +213,10 @@ We do not know the truth about ancient times, so we turn lies into truth as much
 {{< /l >}}
 
 
-## Second Quality of God= God Does Not Give True Lies*
+## Second Quality of God: God Does Not Give True Lies*
 
-> *Translator's Note= This is called Satya in Hinduism and Buddhism
+> *Superphysics Note: This is called Satya in Hinduism and Buddhism
+
 
 {{< l a="Socrates" >}}
 But God has no reason or motive to tell any lies. God does not lie from His fear of enemies. God does not lie to senseless friends because a senseless person cannot be a friend of God. Therefore, the superhuman and divine is absolutely incapable of falsehood.

@@ -1,7 +1,8 @@
 ---
 heading: "Enlightened"
-title: "EF Schumacher"
+title: "Schumacher, EF"
 image: /covers/schu.jpg
-date: 2022-04-30
+# date: 2022-04-30
+weight: 92
 ---
 

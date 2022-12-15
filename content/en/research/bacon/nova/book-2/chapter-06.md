@@ -1,7 +1,7 @@
 ---
 title: "The tables of review"
 heading: Chapter 6
-date: 2022-01-19
+weight: 1
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

@@ -8,6 +8,7 @@ image: /graphics/econ/law3.jpg
 description: "The Third Law of Value states that value is circulated through the economy through fair exchanges."
 author: Dalisay
 icon: /icons/pantry.png
+weight: 12
 aliases:
   /pantrynomics/third-law
   /social/economics/principles/third-law

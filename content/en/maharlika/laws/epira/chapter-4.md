@@ -3,7 +3,7 @@ heading: "Chapter 4"
 title: "Regulation Of The Electric Power Industry"
 description: "EPIRA Republic Act 9136"
 image: "/photos/physics/light.jpg"
-date: 2021-09-21
+weight: 1
 ---
 
 

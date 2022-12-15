@@ -1,7 +1,7 @@
 ---
 title: "Iran (Tienchu)"
 heading: "Chapter 21"
-date: 2022-01-04
+weight: 28
 description: "Iran (Tienchu) is under Iraq. All its rulers are selected by Iraqis"
 image: "/flags/ir.png"
 author: "Chau Ju Kua"

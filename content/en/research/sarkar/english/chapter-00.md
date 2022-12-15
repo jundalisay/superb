@@ -1,7 +1,7 @@
 ---
 title: "The Fundamentals of Language"
 # heading: "Chapter 7 "
-date: 2021-11-20
+weight: 6
 image: "/covers/discourses.jpg"
 description: "Each language has 5 fundamental characteristics"
 icon: "/icons/sarkar.png"

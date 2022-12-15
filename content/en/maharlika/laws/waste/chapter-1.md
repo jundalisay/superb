@@ -2,8 +2,9 @@
 heading: "Chapter 1"
 title: "General Provisions"
 description: "EPR Act of 2022 Republic Act 11898"
-image: "/photos/buy.jpg"
-date: 2022-09-30
+image: "/photos/city.jpg"
+# date: 2022-09-30
+weight: 6
 ---
 
 <!-- S. No. 2425

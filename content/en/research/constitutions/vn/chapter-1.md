@@ -1,22 +1,22 @@
 ---
 title: "POLITICAL SYSTEM"
 heading: "Chapter 1 of the Vietnamese Constitution Simplified"
-date: 2021-11-20
+weight: 1
 image: "/flags/vn.png"
 description: "The Socialist Republic of Vietnam is an independent, sovereign and united country, which
 in its territorial integrity comprises its mainland, islands, territorial waters and air space"
-linkb: /research/constitutions
-linkbtext: "constitutions"
-linkf: /research/constitutions
-linkftext: "constitutions"
 icon: /flags/vn.png
 ---
 
 
-Article 1. The Socialist Republic of Vietnam is an independent, sovereign and united country, which
+Article 1. 
+
+The Socialist Republic of Vietnam is an independent, sovereign and united country, which
 in its territorial integrity comprises its mainland, islands, territorial waters and air space.
 
-Article 2. Type of government envisioned
+Article 2. 
+
+Type of government envisioned
 
 Mentions of social class
 1. The Socialist Republic of Vietnam State is a socialist rule of law State of the people, by the people, and for the people.

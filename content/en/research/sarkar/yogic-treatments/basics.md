@@ -1,6 +1,6 @@
 ---
 title: "Basic Health Practices"
-date: 2022-01-31
+weight: 1
 author: "PR Sarkar"
 description: "Proper health needs proper water drinking, sexual restraint, use of mud packs, sunbathing, fresh air, fasting, and mental purity"
 image: "/photos/med/appendix.jpg"

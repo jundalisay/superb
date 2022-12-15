@@ -1,7 +1,7 @@
 ---
 title: "Malaysia (Under Sumatra)"
 heading: "Chapter 9"
-date: 2022-01-20
+weight: 12
 description: "Kedah can be reached from Chaiya by sailing six days. There is also an overland road between the two countries"
 image: "/flags/my.png"
 author: "Chau Ju Kua"

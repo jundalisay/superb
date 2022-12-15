@@ -1,13 +1,9 @@
 ---
 title: "The President of the PRC"
 heading: "Section 2 of Chapter 2 of the Chinese Constitution Simplified"
-date: 2021-11-20
+weight: 1
 image: "/flags/cn.png"
 description: "The president and the vice president of the PRC shall be elected by the NPC"
-linkb: /research/constitutions/cn/chapter-2
-linkbtext: "Chapter 2"
-linkf: /research/constitutions/cn/chapter-2c
-linkftext: "Chapter 2c"
 icon: "/flags/cn.png"
 ---
 

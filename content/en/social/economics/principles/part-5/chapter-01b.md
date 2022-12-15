@@ -2,8 +2,8 @@
 heading: "Chapter 1b"
 title: "The 4 Main Schools of Post-Smith Economics"
 # heading: "The Good, Bad, the Ugly"
-# date: 2015-01-01
-date: 2022-01-30
+date: 2015-01-01
+weight: 18
 image: /avatars/smithstatue.jpg
 description : "Adam Smith suggested some policies in the Wealth of Nations which produced bad effects"
 youtube: "rVP73TV2X0s"

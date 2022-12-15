@@ -1,6 +1,6 @@
 ---
 title: "Select Sentences Of Sextus The Pythagorean"
-date: 2022-04-10
+weight: 8
 # date: 2022-04-13
 image: /covers/sentences.jpg
 description: "To neglect things of the smallest consequence, is not the least thing in human life"

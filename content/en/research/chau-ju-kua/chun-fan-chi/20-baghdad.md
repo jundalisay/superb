@@ -1,7 +1,7 @@
 ---
 title: "Baghdad (Tatsin)"
 heading: "Chapter 20"
-date: 2022-01-06
+weight: 26
 description: "Baghdad is also called Likien. It is the general mart of Muslims and the place where the foreign merchants of the Arabs assemble"
 image: "/flags/iq.png"
 author: "Chau Ju Kua"

@@ -1,7 +1,7 @@
 ---
 heading: "Part 4"
 title: "The Origin of Substance"
-date: 2020-09-04
+weight: 8
 image: "/covers/meta.jpg"
 description: "Aristotle explains the original substance behind matter"
 icon: "/icons/aris.jpg"

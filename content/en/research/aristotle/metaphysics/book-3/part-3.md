@@ -1,9 +1,10 @@
 ---
 heading: "Part 3"
 title: "Question 6: Is the Genera the basis of principles?"
-date: 2015-09-10
+weight: 8
 image: "/covers/meta.jpg"
 description: "Is it the genera that should be taken as elements and principles, or rather the primary constituents of a thing?"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Research"
 # heading: "Chapter 1 of Yoga Sutras Simplified"
-date: 2022-01-31
+weight: 28
 author: "PR Sarkar"
 description: "Research centres should be developed on all large farming projects and master units"
 image: "/covers/farming.jpg"

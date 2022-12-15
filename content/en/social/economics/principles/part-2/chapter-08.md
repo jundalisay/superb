@@ -3,6 +3,7 @@ heading: "Chapter 8"
 title: "Industry"
 # date: 2022-03-27
 date: 2022-01-15
+weight: 26
 image: /covers/econsp.jpg
 description: ""
 author: Dalisay

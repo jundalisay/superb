@@ -1,7 +1,7 @@
 ---
 heading: "Part 1"
 title: "One versus Number"
-date: 2015-09-15
+weight: 1
 image: "/covers/meta.jpg"
 description: "One is not a number; for the measure is not measures, but both the measure and the one are starting-points"
 author: Aristotle

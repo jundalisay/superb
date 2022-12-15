@@ -1,27 +1,13 @@
 ---
 title: "Propensities"
 heading: "Chapter 5"
-date: 2015-09-25
+weight: 12
 image: "/covers/phaedo.jpg"
-description: "There are two sorts of existences—one seen, the other unseen. The seen is the changing, and the unseen is the unchanging"
+description: "Each pleasure and pain is a sort of nail which nails and rivets the soul to the body, until she becomes like the body, and believes that to be true which the body affirms to be true"
 icon: "/icons/socrates.png"
 ---
 
 
-+++
-title= ""
-# heading= "The Simple Phaedo by Plato"
-date= 2015-09-26
-image= "/covers/phaedo.jpg"
-description= "Each pleasure and pain is a sort of nail which nails and rivets the soul to the body, until she becomes like the body, and believes that to be true which the body affirms to be true."
-linkb= "/research/socrates/phaedo/chapter-4"
-linkbtext= "Chapter 4"
-linkf= "/research/socrates/phaedo/chapter-6"
-linkftext= "Chapter 6"
-icon= "/icons/socrates.png"
-# linkbook= https://play.google.com/store/books/details?id=WlkBEAAAQBAJ
-# linkbooktext= Support Superphysics by buying The Simple Republic
-+++
 
 {{< l a="Socrates" >}}
 These must be the souls, not of the good, but of the evil, which are compelled to wander about such places in payment of the penalty of their former evil way of life. 
@@ -50,15 +36,10 @@ They who have any care of their own souls, and do not merely live moulding and f
 The lovers of knowledge are conscious that the soul was simply fastened and glued to the body—until philosophy received her, she could only view real existence through the bars of a prison, not in and through herself; she was wallowing in the mire of every sort of ignorance; and by reason of lust had become the principal accomplice in her own captivity. 
 
 This was her original state. The lovers of knowledge are well aware how terrible the confinement of philosophy was. This confinement she herself caused. They gently comforted her and sought to release her. They pointed out that the senses are full of deception. They persuade her:
-<ul>
-	<li>to retire from them and abstain from all but the necessary use of them</li>
-	<li>to be gathered up and collected into herself</li>
-	<li>to trust in herself and her own pure apprehension of pure existence</li>
-	<li>to mistrust whatever comes to her through other channels and is subject to variation</li>
-	<li></li>
-	<li></li>
-	<li></li>			
-</ul>
+- to retire from them and abstain from all but the necessary use of them
+- to be gathered up and collected into herself
+- to trust in herself and her own pure apprehension of pure existence
+- to mistrust whatever comes to her through other channels and is subject to variation
 {{< /l >}}
 <!-- ; for such things are visible and tangible, but what she sees in her own nature is intelligible and invisible.  -->
 

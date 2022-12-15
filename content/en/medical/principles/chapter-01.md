@@ -3,6 +3,7 @@ heading: "Chapter 1"
 title: "The Self"
 # title: "David Hume's Idea of the Self" # heading: "There are 3 billion yous"
 date: 2020-01-31
+weight: 2
 image: "/photos/social/monkey.jpg"
 description: "David Hume's Idea of the Self explains why there are 3 billion yous"
 # keywords: ["David Hume"]

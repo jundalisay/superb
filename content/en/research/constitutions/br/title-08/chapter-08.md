@@ -1,7 +1,7 @@
 ---
 title: "Indians"
 heading: "Chapter 8"
-date: 2021-11-15
+weight: 34
 image: "/flags/br.png"
 description: ""
 icon: "/flags/br.png"

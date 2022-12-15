@@ -1,7 +1,7 @@
 ---
 title: "Procedures"
 heading: "Section 5 of Chapter 1"
-date: 2021-11-20
+weight: 1
 image: "/flags/ve.png"
 description: "Laws that contain a systematic set of norms regulating a particular field may also be referred to as codes"
 icon: /flags/ve.png

@@ -1,7 +1,7 @@
 ---
 heading: Part 4
 title: "The End of the Pythagoreans"
-date: 2022-04-24
+weight: 10
 image: /covers/lifepyp.png
 description: "Pythagoras and his associates were long held in such admiration in Italy, that many cities invited them to undertake their administration"
 author: Propery

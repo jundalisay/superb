@@ -5,6 +5,7 @@ date: 2020-01-31
 image: /photos/physics/baseball.jpg
 description: "The Principles for Movement in the Material Layer which is the lowest and crudest layer"
 linkTitle: "Material Relativity"
+weight: 16
 icon: /icons/spmat.png
 aliases:
   /material/principles/material-relativity

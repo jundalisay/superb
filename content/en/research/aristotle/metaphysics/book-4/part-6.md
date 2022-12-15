@@ -1,7 +1,8 @@
 ---
-heading: "Part 6 of Book 4"
+heading: "Part 6"
 title: "Who is to be the judge of things?"
-date: 2020-09-27
+weight: 10
+author: Aristotle
 image: "/covers/meta.jpg"
 description: "Those who seek merely compulsion in argument seek what is impossible"
 icon: "/icons/aris.jpg"

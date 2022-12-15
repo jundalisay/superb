@@ -1,7 +1,7 @@
 ---
 heading: "Part 12"
 title: "Defining Quantum and Quality"
-date: 2020-09-28
+weight: 16
 image: "/covers/meta.jpg"
 author: Aristotle
 description: "Aristotle defines Quantum and Quality"

@@ -1,9 +1,10 @@
 ---
 heading: "Part 8"
 title: "Accidents and Luck"
-date: 2015-09-20
+weight: 14
 image: "/covers/meta.jpg"
 description: "Luck is an accidental cause at work in such events adapted to an end as are usually effected in accordance with purpose"
+author: Aristotle
 icon: "/icons/aris.jpg"
 ---
 
