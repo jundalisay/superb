@@ -1,7 +1,8 @@
 ---
 heading: Chapter 1a
 title: "Husband and Wife"
-date: 2015-09-30
+# date: 2015-09-30
+weight: 6
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

@@ -1,18 +1,14 @@
-+++
-title=  "What is Lawful in War?"
-heading=  "Chapter 2b of Part 5 "
-description=  "It is not easy to determine how far a nation may push its resentment against another nation which has injured it"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-5/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/jurisprudence/part-5/chapter-2b"
-linkftext=  "Chapter 2b"
-icon=  "/icons/smith.png"
-aliases= [
-  "/research/smith/simple-lectures-on-jurisprudence/part-5/chapter-2"
-]
-+++
+---
+heading: Chapter 3
+title: "What is Lawful in War?"
+weight: 12
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "It is not easy to determine how far a nation may push its resentment against another nation which has injured it"
+---
+
+
 
 <!-- [Second,] quantum liceat bello? -->
 
@@ -26,7 +22,7 @@ There are a few cases in which it is lawful even without satisfaction being dema
 
 If a robber intended to kill you, it would be quite lawful for you to do all you could to prevent him. The injury is plain.
 
-In the same way, when one nation seems to be conspiring against another, though it may have done no real injury, it should be obliged to= 
+In the same way, when one nation seems to be conspiring against another, though it may have done no real injury, it should be obliged to:
 - declare its intentions, and
 - give security when this demand would not subject it to inconveniences.
 
@@ -39,7 +35,7 @@ In this case, it is only on the dilatory and evasive manner of giving satisfacti
 
 Suppose a subject of any government is injured.
 
-His offenders become natural objects of resentment. The government which protects him is also resented if it refuses satisfaction even if most of the nation is= 
+His offenders become natural objects of resentment. The government which protects him is also resented if it refuses satisfaction even if most of the nation is:
 - perfectly innocent, and
 - knows nothing about the affair.
 
@@ -49,11 +45,11 @@ This cannot be founded on justice and equity. It must be founded on necessity. I
 
 But he has not built his reasoning on a proper foundation. He says that every nation maintains and supports the government for its own good. If the government commits any offence against a neighbouring sovereign or subject, and its own people continue to support and protect it, they thereby become accessory and liable to be punished with it.
 
-By the Roman law, if any of those slaves had done any damage to another, the owner must= 
+By the Roman law, if any of those slaves had done any damage to another, the owner must:
 - keep the slave no longer, or
 - pay the damage
 
-Similarly, a nation must= 
+Similarly, a nation must:
 - allow itself to be liable for the damages, or
 - give up the government altogether.
 
@@ -114,3 +110,4 @@ For it was better to sustain the most terrible hardships than to surrender.
 
 But now, the besieged know very well how they will be treated before they capitulate.
 - They will run no great risk before they do so.
+

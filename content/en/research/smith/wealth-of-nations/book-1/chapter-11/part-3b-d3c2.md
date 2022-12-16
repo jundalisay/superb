@@ -1,7 +1,8 @@
 ---
 title: "Fish and Precious Metals"
-heading: "Part 3b of Digression 3c1"
-date: 2015-08-25
+heading: "Part 3b"
+weight: 38
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The multiplication fish is both limited and uncertain"
 icon: "/icons/smith.png"

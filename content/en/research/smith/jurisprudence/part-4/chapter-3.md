@@ -1,15 +1,13 @@
-+++
-title=  "Standing Armies"
-heading=  "Chapter 3 Part 4"
-description=  "Standing Armies"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-3/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/jurisprudence/part-5/chapter-1"
-linkftext=  "Chapter 1"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 3
+title: "Standing Armies"
+weight: 12
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "In the beginning of society, the state's defence required no police, nor particular provision for it"
+---
+
 
 
 In this way, standing armies came to be introduced.
@@ -25,13 +23,16 @@ Such a militia would be the best security against a foreign standing army.
 Standing armies are of two kinds:
 When the government gives offices to particular persons, and so much for every man they levy.
 Our own army is modeled after this.
+
 This has less danger than the second kind.
+
 When the government makes a slump bargain with a general to lead out troops for their assistance.
 This is the model of the standing armies in some little Italian states.
 They make a bargain with some chieftain in areas where the arts have not yet reached.
 The officers are all dependent on him.
 He is independent of the state.
 His employers lie at his mercy.
+
 But a standing army like ours is not so apt to turn their against the government.
 
 Because the officers:

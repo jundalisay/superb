@@ -1,15 +1,14 @@
+---
+title: "How we judge Relative to Our Ego"
+heading: "Chapter 4"
+description: "We can we make moral judgements on others when the cause of such feelings affect us or people not us"
+weight: 10
+image: "/covers/tms.jpg"
+author: "Adam Smith"
+icon: /icons/smith.png
+---
 
-+++
-title=  "How we judge Relative to Our Ego"
-heading=  "Chapter 4"
-description=  "We can we make moral judgements on others when the cause of such feelings affect us or people not us"
-date=  2015-10-27
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-1/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-1/chapter-5"
-linkftext=  "Chapter 5"
-+++
+
 
 ## When can we make moral judgements on others?
 

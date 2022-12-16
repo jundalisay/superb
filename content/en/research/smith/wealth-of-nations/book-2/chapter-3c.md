@@ -2,7 +2,7 @@
 heading: "Chapter 3c"
 title: "The Origin of the Propensity to Save"
 linkTitle: "Chapter 3c"
-date: 2020-01-11
+weight: 44
 image: "/covers/wn.jpg"
 description: "The 1772 credit crunch was resolved naturally because it did not have profit maximization "
 author: Adam Smith

@@ -1,7 +1,7 @@
 ---
 title: "International Barter Taxation"
 heading: "Chapter 3j"
-date: 2020-01-29
+weight: 1
 image: "/covers/wn.jpg"
 description: "Without gold and silver it is impossible to pay taxes. We already get all their gold and silver"
 icon: "/icons/smith.png"

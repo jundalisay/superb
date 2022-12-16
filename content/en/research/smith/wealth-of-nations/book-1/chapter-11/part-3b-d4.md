@@ -1,14 +1,15 @@
 ---
 title: "Digression Conclusion"
 heading: "Part 3b of Digression 4"
-date: 2015-08-23
+weight: 40
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Most of the writers who collected the money prices in ancient times, considered the low money price of wheat and other goods as a proof of the scarcity of those metals"
 icon: "/icons/smith.png"
 ---
 
 
-{{< s v="229" >}} Most of the writers who collected the money prices in ancient times, considered the low money price of wheat and other goods (the high value of gold and silver) as a proof of= 
+{{< s v="229" >}} Most of the writers who collected the money prices in ancient times, considered the low money price of wheat and other goods (the high value of gold and silver) as a proof of:
 - the scarcity of those metals, and
 - the poverty of the country then.
 
@@ -31,15 +32,18 @@ There were two events which happened at nearly the same time but had different c
 
 The increase of the amount of gold and silver in Europe
 This was a mere accident.
+
 The increase of European manufactures and agriculture
 This was caused by the fall of the feudal system.
 The establishment of a government gave security to industry that it shall enjoy the fruits of its own labour.
 It is the only encouragement industry requires.
 Poland still has the feudal system.
+
 It is still as poor as it was before the discovery of America.
 The money price of wheat in Poland has risen.
 The real value of the precious metals there has fallen just as in other parts of Europe.
 The amount of the precious metals must have increased there also, in the proportion to its national produce.
+
 This increase in precious metals, however, has not increased that produce.
 It has has neither improved the manufactures and agriculture nor its people's circumstances.
 Spain and Portugal have mines and are the two poorest countries in Europe after Poland.
@@ -47,6 +51,7 @@ Spain and Portugal have mines and are the two poorest countries in Europe after 
 The value of the precious metals must be lower in Spain and Portugal than elsewhere in Europe.
 Those metals are sourced there and loaded with freight, insurance, and smuggling costs.
 This smuggling arises from the export ban or high export taxation.
+
 In proportion to the national productivity, there must be more precious metals in Spain and Portugal than elsewhere in Europe.
 The feudal system has been abolished in Spain and Portugal.
 But it has not been replaced by a better system.
@@ -60,11 +65,13 @@ The second kind of rude produce as a measure of wealth.
 
 But the low money price of specific goods, such as cattle, poultry, game, etc. relative to grain is a most decisive proof. It clearly demonstrates:
 - their great abundance relative to grain,
+
 It shows the size of the land which cattle, poultry, etc. occupied relative to the land occupied by grain.
 the low value of this land relative to the value of grain land.
 It shows the unimproved state of most of the lands.
 It clearly demonstrates that a country's stock and population is not proportional to its territory.
 In civilized countries those must be proportional.
+
 Without this proportion, it shows that the society is in its infancy.
 From the high or low money price of goods or grain, we can only infer the fertility of mines, not whether the country was rich or poor.
 But from the high or low money price of cattle, poultry, game, etc., we can certainly infer a country's richness or poorness.
@@ -77,7 +84,9 @@ But the rise in the price of provisions, does not affect all kinds of provisions
 In the present century, wheat prices rose much less than the price of other provisions.
 The rise in the price of other provisions cannot be caused by the degradation of the value of silver.
 It is caused by the variations of the three kinds of rude produce.
-233 From 1700 to 1764 and before the bad seasons, the wheat prices were lower than from 1636 to 1700.
+
+
+{{< s v="233" >}} From 1700 to 1764 and before the bad seasons, the wheat prices were lower than from 1636 to 1700.
 
 This fact is attested by the accounts of:
 - Windsor market,

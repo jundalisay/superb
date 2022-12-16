@@ -2,7 +2,8 @@
 heading: "Book 2, Chapter 1c"
 title: "Circulating Capital"
 linkTitle: "Chapter 1c"
-date: 2020-01-29
+weight: 8
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
 icon: "/icons/smith.png"

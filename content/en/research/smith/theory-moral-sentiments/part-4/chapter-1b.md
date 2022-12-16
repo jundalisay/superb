@@ -1,8 +1,8 @@
 ---
 title: "Public Welfare Systems"
-heading: "Chapter 1b of The Theory of Moral Sentiments Simplified"
+heading: "Chapter 1b"
 description: "Those institutions which promote the public welfare are frequently recommended by the same love of system"
-date: 2022-01-31
+weight: 12
 author: "Adam Smith"
 image: "/covers/tms.jpg"
 icon: /icons/smith.png

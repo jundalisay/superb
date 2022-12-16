@@ -1,14 +1,14 @@
-+++
-title=  "The Carrying Trade"
-description=  "The Carrying Trade can be as important as the foreign trade of consumption"
-date=  2020-01-04
-image=  "/covers/wn.jpg"
-linkbtext=  "Chapter 4"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-5b"
-linkftext=  "Chapter 5b"
-linkf=  "/research/smith/wealth-of-nations/book-3/chapter-1"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 5c"
+title: "The Carrying Trade"
+linkTitle: "Chapter 5c"
+weight: 58
+image: "/covers/wn.jpg"
+description: "The Carrying Trade can be as important as the foreign trade of consumption"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 {{< s v="30" >}} The capital employed in the carrying trade is diverted from supporting its productive labour to support that of foreign countries. It may replace the capitals of foreign countries. 
@@ -41,7 +41,7 @@ Forcing more of the country's capital into the carrying trade by extraordinary e
 
 The capital in the foreign trade of consumption has a greater advantage over an equal capital in the carrying trade. The riches and power of every country must always be in proportion to the value of its annual produce, the fund from which all taxes must ultimately be paid. But the great object of the political economy of every country is to increase the riches and power of that country.
 
-It should give no preference nor encouragement= 
+It should give no preference nor encouragement:
 - to the foreign trade above the home-trade
 - to the carrying trade above either of those two
 
@@ -128,6 +128,6 @@ However, in all great European countries, much good land still remains uncultiva
 - Most of the cultivated lands are not yet fully improved.
 - Almost everywhere, agriculture can absorb much more capital than before.
 
-In Books 3 and 4, I will explain= 
+In Books 3 and 4, I will explain:
 - why European policy gave the trades of towns a great advantage over the trades in the countryside.
 - why private persons find it better to employ their capitals in the most distant carrying trades of Asia and America than in the their own country's land improvement.

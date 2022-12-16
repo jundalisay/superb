@@ -1,29 +1,30 @@
-
-+++
-title=  "Cultural Differences Affect Morals"
-heading=  "Chapter 2b"
-description=  "The politeness highly esteemed in Russia would be seen as rudeness and barbarism at the French court"
-date=  2015-09-28
-image=  "/covers/tms.jpg" 
-linkb=  "/research/smith/theory-moral-sentiments/part-5/chapter-2a"
-linkbtext=  "Chapter 2a"
-linkf=  "/research/smith/theory-moral-sentiments/part-6/section-1"
-linkftext=  "Section 1"
-+++
+---
+title: "Cultural Differences Affect Morals"
+heading: "Chapter 2c"
+description: "The politeness highly esteemed in Russia would be seen as rudeness and barbarism at the French court"
+weight: 28
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
 
 
-20 This heroic and unconquerable firmness is demanded from every savage by his country's custom and education.
+{{< s v="20" >}} This heroic and unconquerable firmness is demanded from every savage by his country's custom and education.
 
 It is not required of those who are brought up to live in civilized societies.
-They are easily pardoned if they= 
-complain when they are in pain,
-grieve when they are in distress, and
-allow themselves to be overcome by love or discomposed by anger.
+
+They are easily pardoned if they:
+- complain when they are in pain,
+- grieve when they are in distress, and
+- allow themselves to be overcome by love or discomposed by anger.
+
 Such weaknesses are not apprehended to affect the essential parts of their character.
+
 As long as they do not do anything contrary to justice or humanity, they lose little reputation even if the composure of their behaviour should be disturbed.
+
 A humane and polished people have more sensibility to the passions of others.
 
-They can more= 
+They can more:
 - readily enter into an animated and passionate behaviour, and
 - easily pardon some little excess.
 
@@ -32,15 +33,19 @@ The person principally concerned is sensible of this. He indulges himself in str
 He is less afraid of exposing himself to their contempt by the violence of his emotions.
 We can venture to express more emotion in the presence of a friend than in the presence of a stranger.
 Because we expect more indulgence from our friend.
+
 In the same way, the rules of decorum among civilized nations admit of a more animated behaviour than is approved of among barbarians.
 Civilized nations converse together with the openness of friends.
 Barbarians converse with the reserve of strangers.
+
 The French and the Italians are the two most polished nations in Europe.
 
 Their emotion and vivacity in expressing themselves on interesting occasions surprise those strangers traveling among them at first.
 Those strangers, being educated among a people of duller sensibility, cannot enter into this passionate behaviour.
 They have never seen any of its example in their own country.
+
 A young French nobleman will weep before the whole court after being refused a regiment.
+
 The abbot Dû Bos says that an Italian expresses more emotion on being condemned with a 20 shilling fine than an Englishman receiving the death sentence.
 In the times of the highest Roman politeness, Cicero could weep in the sight of the whole senate and the people, without degrading himself.
 
@@ -48,7 +53,8 @@ He must have done so in the end of almost every oration.
 The orators of the earlier and ruder ages of Rome could not probably have expressed themselves with so much emotion, consistent with the manners of the times.
 I suppose that it would have been regarded as a violation of nature and propriety in the Scipios, Leliuses, and the elder Cato, to have exposed so much tenderness to the public view.
 Those ancient warriors could express themselves with order, gravity, and good judgment.
-But they are said to have been strangers to the sublime and passionate eloquence first introduced into Rome, a few years before Cicero's birth, by the two Gracchi= 
+
+But they are said to have been strangers to the sublime and passionate eloquence first introduced into Rome, a few years before Cicero's birth, by the 2 Gracchi:
 - Crassus, and
 - Sulpitius.
 
@@ -59,7 +65,7 @@ There is a very wide difference between civilized and barbarous nations in the=
 - standards by which they judge of the propriety of behaviour.
 
  
-21 This difference gives occasion to many others that are not less essential.
+{{< s v="21" >}} This difference gives occasion to many others that are not less essential.
 
 A polished people are accustomed to give way to the movements of nature.
 They become frank, open, and sincere.

@@ -1,7 +1,7 @@
 ---
 title: "The Physiocrats"
 heading: "Chapter 7d"
-date: 2020-03-21
+weight: 1
 image: "/covers/wn.jpg"
 description: "No nation has ever adopted the system which represents the produce of land as the sole source of the country's revenue and wealth"
 icon: "/icons/smith.png"

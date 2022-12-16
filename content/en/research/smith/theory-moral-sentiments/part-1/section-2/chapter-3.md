@@ -1,23 +1,20 @@
+---
+title: "The Unsocial feelings"
+heading: "Chapter 3"
+description: "Hatred, Anger, and Resentment are the Unsocial feelings"
+weight: 8
+author: Adam Smith
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
 
 
-+++
-title=  "The Unsocial feelings"
-heading=  "Chapter 3"
-description=  "Hatred, Anger, and Resentment are the Unsocial feelings"
-date=  2015-10-28
-image=  "/covers/tms.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/jealous2.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-4"
-linkftext=  "Chapter 4"
-+++
 
 ### Hatred, Anger, and Resentment
 
-21 Hatred and resentment must always be regulated before we can enter into them.
+{{< s v="21" >}} Hatred and resentment must always be regulated before we can enter into them.
 
-Our sympathy with them is divided between= 
+Our sympathy with them is divided between:
 - its subject, or the person who feels them, and
 - its object, or the person whom he is angry at.
 
@@ -32,14 +29,14 @@ The interests of these two are directly opposite.
 Therefore, for resentment to be agreeable, it must be brought down below what it would naturally rise to, than almost any other passion.
 
 
-22 People have a very strong sense of the injuries done to one another. We hate the villain in a tragedy, just as we sympathize with the hero.
+{{< s v="22" >}} People have a very strong sense of the injuries done to one another. We hate the villain in a tragedy, just as we sympathize with the hero.
 
 We detest Iago as much as we esteem Othello. We delight as much in Iago's punishment as we are grieved at Othello's distress.
 
 Mankind has so strong a fellow-feeling with the injuries done to their brethren. But they do not always resent them more than the sufferer. Usually, the greater his patience, mildness, and humanity, the higher their resentment against the person who injured him. His amiableness exasperates their sense of the injury's atrocity.
 
 
-23 However, anger and resentment are regarded as necessary parts of human nature.
+{{< s v="23" >}} However, anger and resentment are regarded as necessary parts of human nature.
 
 A person becomes contemptible if he submits to insults, without attempting to repel them.
 - We cannot enter into his insensibility.
@@ -55,13 +52,13 @@ Even the mob is enraged to see any man submit patiently to such insults.
 - They are as really gratified by his revenge, provided it is moderate, as if the injury had been done to themselves.
 
 
-24 Anger and resentment is useful by= 
+{{< s v="24" >}}  Anger and resentment is useful by:
 - rendering insult and injuries dangerous, and
 - turning the public into the guardians and administrators of justice.
 
 <!-- Yet there is still something disagreeable in them which makes us averse to other people's anger and resentment.  -->
 
-Anger towards anybody is regarded negatively, as= 
+Anger towards anybody is regarded negatively, as:
 - an insult to that person and
 - rudeness to the group.
 
@@ -116,7 +113,7 @@ However, this reasoning could not reduce our natural abhorrence for vice.
 - Its remote effects are too distant to be traced by the imagination.
 
 
-25 It is the same case with anger and resentment. Their immediate effects are so disagreeable, even just anger. Therefore, these are the only feelings which we naturally do not sympathize with until we know their cause.
+{{< s v="25" >}} It is the same case with anger and resentment. Their immediate effects are so disagreeable, even just anger. Therefore, these are the only feelings which we naturally do not sympathize with until we know their cause.
 
 When we hear a man with sad voice, we feel concerned about him. If it goes on, it forces us almost involuntarily to fly to his assistance.
 
@@ -139,7 +136,7 @@ It was Nature's intention that those rougher and more unamiable emotions, which 
 
 ### Musical Feelings
 
-26 When music imitates grief or joy, it= 
+{{< s v="26" >}}  When music imitates grief or joy, it:
 - inspires us with those feelings, or 
 - makes us easy to conceive them.
 
@@ -147,7 +144,7 @@ Joy, grief, love, admiration, devotion, are passions which are naturally musical
 - Their natural tones are all soft, clear, and melodious.
 - They naturally express themselves with regular pauses that are easily adapted to regular periods of tune.
 
-But when music imitates anger, it inspires us with fear as the voice of anger and all its similar passions are harsh and discordant. Its periods are= 
+But when music imitates anger, it inspires us with fear as the voice of anger and all its similar passions are harsh and discordant. Its periods are:
 - all irregular,
 - sometimes very long,
 - sometimes very short, and
@@ -158,7 +155,7 @@ Therefore, it is difficult for music to imitate anger and hatred. The music whic
 A whole entertainment may consist of the imitation of the social and agreeable feelings. It would be strange to have entertainment made of the imitations of hatred and resentment.
 
 
-27 If those passions are disagreeable to the observer, they are not less so to the person who feels them.
+{{< s v="27" >}} If those passions are disagreeable to the observer, they are not less so to the person who feels them.
 
 Hatred and anger are the greatest poison to the happiness of a good mind. Inside them, there is= 
 - something harsh, jarring, and convulsive,
@@ -174,9 +171,9 @@ This composure is best promoted by the contrary passions of gratitude and love. 
 
 ### Revenge
 
-28 How can revenge be rendered completely agreeable? How can we make the observer thoroughly sympathize with our revenge?
+{{< s v="28" >}} How can revenge be rendered completely agreeable? How can we make the observer thoroughly sympathize with our revenge?
 
-First of all, the provocation must be= 
+First of all, the provocation must be: 
 - contemptible, and
 - exposed to perpetual insults, if we did not resent it in some measure.
 
@@ -187,14 +184,14 @@ The human mind's natural sense of propriety is most capable of judging=
 - how much we should indulge in it, and
 - what will be the the sentiments of the cool and impartial spectator regarding it
 
-Magnanimity is the regard to maintain our own rank and dignity in society. It is the only motive which can ennoble resentment. It makes our behaviour must be= 
+Magnanimity is the regard to maintain our own rank and dignity in society. It is the only motive which can ennoble resentment. It makes our behaviour must be:
 - plain, open, and direct,
 - determined without positiveness,
 - elevated without insolence,
 - free from bad temper and offensiveness, and
 - generous, candid, and full of all proper regards, even for the person who has offended us.
 
-In short, our behaviour must show that our humanity remains. We must yield to revenge only= 
+In short, our behaviour must show that our humanity remains. We must yield to revenge only:
 - from necessity,
 - in consequence of great and repeated provocations, and
 - reluctantly.
@@ -202,3 +199,4 @@ In short, our behaviour must show that our humanity remains. We must yield to re
 When resentment is guarded and qualified in this way, it may be even seen as generous and noble.
 
 <!-- Magnanimity must characterize our whole behaviour when judging it. -->
+

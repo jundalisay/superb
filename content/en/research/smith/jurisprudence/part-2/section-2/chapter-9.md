@@ -1,19 +1,17 @@
-+++
-title=  "National Opulence Does Not Consist In Money"
-heading=  "Chapter 9 of Part 2"
-date=  2015-09-22
-description=  "If we could find any way to save the ground taken up by highways, we would considerably increase the quantity of commodities, and have more to carry to the market"
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-8"
-linkbtext=  "Chapter 8"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-10"
-linkftext=  "Chapter 10"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 9
+title: "National Opulence Does Not Consist In Money"
+weight: 22
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "If we could find any way to save the ground taken up by highways, we would considerably increase the quantity of commodities, and have more to carry to the market"
+---
+
 
 <!-- We have shown what rendered money the measure of value. -->
 
-But labour, not money, is the true measure of value. Therefore, national opulence consists in= 
+But labour, not money, is the true measure of value. Therefore, national opulence consists in:
 - the quantity of goods and
 - the facility of barter 
 
@@ -29,17 +27,16 @@ Money in this respect may be compared to the high roads of a country. It does no
 - considerably increase the quantity of commodities, and
 - have more to carry to the market.
 
-The worth of a piece of ground is not based on the number of highways that run through it. Similarly, the riches of a country is in the abundance of life's necessaries, not in the amount of money used to circulate commerce. We would greatly increase our country's wealth if we= 
+The worth of a piece of ground is not based on the number of highways that run through it. Similarly, the riches of a country is in the abundance of life's necessaries, not in the amount of money used to circulate commerce. We would greatly increase our country's wealth if we:
 - could find a way to send the half of our money abroad to be converted into goods, and
 - supply the channel of circulation at home, at the same time.
 
-<br>
 
 ### Paper credit reduces circulation cost
 
 Hence, the beneficial effects of the creation of banks and paper credit.
 
-Suppose as above, that= 
+Suppose as above, that:
 - the whole stock of Scotland amounted to 20 million,
 - 2 million metal money are employed in the circulation of it, and
 - the other 18 million are in commodities.
@@ -69,11 +66,10 @@ As long as the commodities in a nation increases, they can augment the amount of
 
 The commerce of every European nation has been remarkably increased by the creation of banks. Everybody in Britain is sensible of their good effects. Our American colonies are most flourishing. Most of the commerce there is carried on by paper. 
 
-<br>
 
 ### The Bank of Amsterdam=  Money Warehousing
 
-> Translator's Note=  The Bank of Amsterdam is our model for Resource Banking
+> Superphysics Note: The Bank of Amsterdam is our model for Resource Banking
 
 Banks were first established to facilitate money transfers. To this day, this is the only design of the bank at Amsterdam.
 
@@ -81,19 +77,19 @@ When commerce is good, the delivery of gold and silver consumes a lot of time. W
 
 Before the creation of the bank at Amsterdam, the merchants kept certain sums in bags to answer immediate demands in order to lessen the trouble of counting out huge amounts of cash. 
 
-In this case, you must either= 
+In this case, you must either: 
 - trust the merchant's honesty or
 - you must take the trouble of counting it over.
 
 If you trusted his fidelity, frequent frauds would be committed. If you did not trust him, your trouble was not lessened.
 
-These led to the creation of that bank= 
+These led to the creation of that bank: 
 1. You deposit money there.
 2. The bank gives you a bill for that amount.
 
 You never withdraw your money because the bill will generally sell above par <!-- by jun=  or worth more than its face value -->.
 
-The bank has no office for withdrawal because there is seldom any withdrawals done. Its notes circulate only there. In this way= 
+The bank has no office for withdrawal because there is seldom any withdrawals done. Its notes circulate only there. In this way:
 - that bank has a good effect in facilitating commerce, and
 - Amsterdam's credit is not endangered by the bank.
 
@@ -103,7 +99,6 @@ Before this, its bankers were suspected to be trading with the money. But it was
 
 Some have affirmed that it always has stored money around 90 million. But this has recently been shown to be false, from a comparison of the trade of London and Amsterdam. 
 
-<br>
 
 ### The British Banks=  Fractional Reserve
 
@@ -129,7 +124,7 @@ But having many banks puts this beyond all danger. Even if one did break, everyo
 
 Several political writers have published treatises to show the pernicious nature of banks and paper money.
 
-Thomas Mun was a London merchant. He published a treatise with this intention, as a reply to a book written to show the benefits of banks and paper money. He says that= 
+Thomas Mun was a London merchant. He published a treatise with this intention, as a reply to a book written to show the benefits of banks and paper money. He says that:
 - England will go to ruin if it is drained of its money. 
 - The circulation of paper banishes gold and silver from the country.
 - With less money, we would have less goods. 
@@ -154,7 +149,7 @@ This is also absurd. Foreign commerce was not stopped by any regulations. The na
 
 He proposed some regulations to prevent our ruin from our loss in the balance of trade. If the government had been so foolish as to have complied with, they would more probably have impoverished the nation.
 
-Mr. Hume published some essays showing the absurdity of these and other such doctrines. He proves very ingeniously that money always bears a certain proportion to the amount of commodities in every country. Whenever money is accumulated beyond the proportion of commodities= 
+Mr. Hume published some essays showing the absurdity of these and other such doctrines. He proves very ingeniously that money always bears a certain proportion to the amount of commodities in every country. Whenever money is accumulated beyond the proportion of commodities:
 - the price of goods will necessarily rise
 - this reduces the country's exports which are undersold overseas
 - this causes the country's money go to overseas to correct the over-accumulation
@@ -214,3 +209,4 @@ He considers that by keeping money always by him, he can supply at once all the 
 The opinion that riches consist in money is absurd in speculation.
 
 It has caused so many prejudicial errors in practice, such as the following.
+

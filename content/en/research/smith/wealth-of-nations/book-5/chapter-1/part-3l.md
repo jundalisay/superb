@@ -1,7 +1,7 @@
 ---
 title: "The South Sea Joint Stock Company"
-heading: "Part 3l of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3l"
+weight: 1
 image: "/covers/wn.jpg"
 description: "The South Sea Joint Stock Company never had any forts or garrisons to maintain. But they had an immense capital divided among so many proprietors"
 author: Adam Smith

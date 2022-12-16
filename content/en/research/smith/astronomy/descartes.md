@@ -2,7 +2,8 @@
 title: "Descartes' System of Astronomy"
 description: "Descartes was the first who tried to ascertain precisely this invisible chain that Kepler said to link the planets to the sun."
 image: /covers/astronomy.jpg
-date: 2022-09-24
+# date: 2022-09-24
+weight: 10
 ---
 
 
@@ -15,13 +16,13 @@ He explained that the real inertness of matter was=
 - not in an aversion to motion and
 - not in a propensity to rest
 
-The real inertness of matter was in a power= 
+The real inertness of matter was in a power:
 - of continuing indifferently either at rest or in motion, and
 - of resisting, with a certain force, whatever tried to change its state from the one to the other
 
 All of space was full of aether. This aether and space were the same. Consequently, there was no void. 
 
-This immense aether was divided into an infinite number of very small cubes which whirled around on their own centers to create two different elements= 
+This immense aether was divided into an infinite number of very small cubes which whirled around on their own centers to create two different elements:
 
 > 1. The angular parts
 
@@ -43,7 +44,7 @@ A certain amount of motion was originally impressed by the Creator and the laws 
 Whatever motion was lost by one part of the aether was communicated to some other*. Whatever was acquired by one part of the aethre, was derived from some other. 
 
 
-> *Translator's note=  This is now the law of conservation of energy
+> *Superphysics note: This is now the law of conservation of energy
 
 
 Thus, through an eternal revolution from rest to motion and motion to rest, the amount of motion in the whole was always the same.

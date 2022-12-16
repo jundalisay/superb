@@ -1,15 +1,13 @@
-+++
-title=  "Digression on Bank Deposits, particularly of Amsterdam"
-heading=  "Chapter 3b of Book 4 "
-description=  "Small states frequently required certain foreign bills of exchange to be paid by the credit of a bank protected by the state."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-3a"
-linkbtext=  "Chapter 3a"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-3c"
-linkftext=  "Chapter 3c"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Digression on Bank Deposits, particularly of Amsterdam"
+heading: "Chapter 3b"
+description: "Small states frequently required certain foreign bills of exchange to be paid by the credit of a bank protected by the state"
+image: /covers/wn.jpg
+weight: 20
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
 
 
 {{< s v="12" >}} A big state, such as England, can have its currency consist almost entirely of its own coin. Should this currency be worn, clipt, or degraded below its standard value, the coin's reform can re-establish its currency.

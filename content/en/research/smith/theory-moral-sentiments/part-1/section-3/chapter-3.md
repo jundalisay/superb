@@ -1,15 +1,12 @@
 ---
 title: "Corruption of Morality by our admiration of the rich and despise of the poor"
-heading: "Chapter 2 Part 1 of The Theory of Moral Sentiments Simplified"
+heading: "Chapter 2"
 description: "The similarity between the respect for greatness and respect for virtue corrupts morality"
-date: 2022-01-27
+# date: 2022-01-27
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-linkb:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-2"
-linkbtext:  "Chapter 2"
-linkf:  "/research/smith/theory-moral-sentiments/part-2"
-linkftext:  "Part 2"
 icon: /icons/smith.png
+weight: 10
 ---
 
 

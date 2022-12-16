@@ -1,7 +1,8 @@
 ---
 title: "Justice Fees from Gifts to Gratis"
 heading: "Chapter 1 Part 2c"
-date: 2020-12-18
+weight: 1
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The necessity of civil government gradually grows up with the acquisition of valuable property"
 icon: "/icons/smith.png"

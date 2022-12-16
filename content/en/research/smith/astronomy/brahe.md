@@ -3,21 +3,27 @@ title: "Tycho Brahe' System of Astronomy"
 # heading: "Adam Smith's History of Astronomy"
 description: "Tycho Brahe introduced a new hypothesis that connected the irregularities in the motions of the Planets"
 image: /covers/astronomy.jpg
-date: 2022-09-28
+weight: 4
 ---
 
 
-Tycho Brache was the great restorer and advancer of Astronomy. He spent his life and wasted his fortune on it. His  observations were both more numerous and more accurate than those of all the astronomers who had gone before him. 
+Tycho Brache was the great restorer and advancer of Astronomy. 
+- He spent his life and wasted his fortune on it.
+- His observations were both more numerous and more accurate than those of all the astronomers who had gone before him. 
+  - He himself was so much affected by objections to the point that he could not embrace the system of Copernicus
 
-, was himself so much affected by the force of this objection, that, though he never mentioned the system of Copernicus without some note of the high admiration he had conceived for its author, he could never himself be induced to embrace it: yet all his astronomical observations tended to confirm it. 
+He admired Copernicus and all his astronomical observations tended to confirm his system. They demonstrated, that:
+- Venus and Mercury were sometimes above, and sometimes below the Sun
+- consequently, the Sun, and not the Earth, was the center of their periodical revolutions
+- Mars, when in his meridian at midnight, was nearer to the Earth than the Earth is to the Sun; though, when in conjunction with the Sun, he was much more remote from the Earth than that luminary
 
-They demonstrated, that Venus and Mercury were sometimes above, and sometimes below the Sun; and that, consequently, the Sun, and not the Earth, was the center of their periodical revolutions. 
-
-They showed, that Mars, when in his meridian at midnight, was nearer to the Earth than the Earth is to the Sun; though, when in conjunction with the Sun, he was much more remote from the Earth than that luminary; a discovery which was absolutely inconsistent with the system of Ptolemy, which proved, that the Sun, and not the Earth, was the center of the periodical revolutions of Mars, as well as of Venus and Mercury; and which demonstrated, that the Earth was placed betwixt the orbits of Mars and Venus. 
-
-They made the same thing probable with regard to Jupiter and Saturn; that they, too, revolved round the Sun; and that, therefore, the Sun, if not the center of the universe, was at least, that of the planetary system. 
-
-They proved, that Comets were superior to the Moon, and moved through the heavens in all possible directions; an observation incompatible with the Solid Spheres of Aristotle and Purbach, and which, therefore, overturned the physical part, at least, of the established Astronomy.
+These were absolutely inconsistent with the system of Ptolemy. Copernicus' system proved that:
+- the Sun, and not the Earth, was the center of the periodical revolutions of Mars, Venus, and Mercury
+- the Earth was placed between the orbits of Mars and Venus. 
+- the same thing was probable with regard to Jupiter and Saturn
+<!-- ; that they, too, revolved round the Sun; and that, therefore, the Sun, if not the center of the universe, was at least, that of the planetary system.  -->
+- Comets were superior to the Moon, and moved through the heavens in all possible directions
+  - This was incompatible with the Solid Spheres of Aristotle and Purbach, and the established Astronomy.
 
 All these observations, joined to his aversion to the system, and perhaps, notwithstanding the generosity of his character, some little jealousy of the fame of in which the Earth Copernicus, suggested to Tycho the idea of a new hypothesis, continued to be, as in the old account, the immoveable center of the universe, round which the firmament revolved every day from east to west, and, by some secret virtue, carried the Sun, the Moon, and the Five Planets along with it, notwithstanding their immense distance, and notwithstanding that there was nothing betwixt it and them but the most fluid ether. 
 

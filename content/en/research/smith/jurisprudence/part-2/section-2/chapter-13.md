@@ -1,18 +1,14 @@
 ---
 title: "The Mississippi Scheme"
 # Mr. Law's Scheme
-heading: "Chapter 13 of Part 2 Section 2 of The Lectures of Jurisprudence Simplified"
-date: 2021-08-01
-image: "/covers/wn.jpg"
+heading: "Chapter 13"
+# date: 2021-08-01
+weight: 30
+image: "/covers/lectures.jpg"
 description: "The Mississippi Company seemed to start in a very flourishing condition. Shares were bought at a very considerable rate, so he opened a subscription to it at 500 livres"
-linkf: "/research/smith/jurisprudence/part-2/section-2/chapter-12"
-linkftext: "Chapter 12"
-linkb: "/research/smith/jurisprudence/part-2/section-2/chapter-14"
-linkbtext: "Chapter 14"
 author: Adam Smith
 icon: /avatars/smith.png
 ---
-
 
 
 The last bad effect of the idea that public opulence consists in money is the notion of Mr. Law, a Scotch merchant.

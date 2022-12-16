@@ -1,7 +1,8 @@
 ---
 heading: Chapter 5
 title: "Military Monarchy"
-date: 2015-09-24
+# date: 2015-09-24
+weight: 12
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

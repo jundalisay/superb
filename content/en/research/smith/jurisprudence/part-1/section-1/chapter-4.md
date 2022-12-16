@@ -1,7 +1,8 @@
 ---
 heading: Chapter 4
 title: "How Liberty was lost"
-date: 2015-09-26
+# date: 2015-09-26
+weight: 10
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

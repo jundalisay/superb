@@ -1,7 +1,8 @@
 ---
 title: "How was Liberty restored?"
 # heading=  "Chapter 11 of the Simplified Lectures of Jurisprudence of Adam Smith Part 1 Section 1"
-date: 2015-09-12
+# date: 2015-09-12
+weight: 24
 author: "Adam Smith"
 image: "/covers/lectures.jpg"
 description: "Elizabeth flipped the policies and sold the royal lands to the people"

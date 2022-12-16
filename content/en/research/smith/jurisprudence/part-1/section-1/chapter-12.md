@@ -1,7 +1,8 @@
 ---
 heading: Chapter 9
 title: "The English Courts of Justice"
-date: 2015-09-10
+# date: 2015-09-10
+weight: 26
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

@@ -1,15 +1,12 @@
+---
+heading: "Chapter 1c"
+title: "The Concept of Suicide in Moral Philosophy"
+linkTitle: Chapter 1c
+description: "Of all the Greek heroes written by Plutarch, Cleomenes is the only one who died by suicide. The brave Theramines, Socrates, and Phocion suffered in prison"
+image: /covers/tms.jpg
+weight: 8
+---
 
-+++
-title=  "The Concept of Suicide in Moral Philosophy"
-heading=  "Chapter 1c"
-description=  "Of all the Greek heroes written by Plutarch, Cleomenes is the only one who died by suicide. The brave Theramines, Socrates, and Phocion suffered in prison"
-date=  2015-09-28
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-7/section-2/chapter-1b"
-linkbtext=  "Chapter 1b"
-linkf=  "/research/smith/theory-moral-sentiments/part-7/section-2/chapter-1d"
-linkftext=  "Chapter 1d"
-+++
 
 
 ## Suicide is rooted on pride

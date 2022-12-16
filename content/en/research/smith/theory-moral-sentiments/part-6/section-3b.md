@@ -1,17 +1,16 @@
-+++
-title=  "The Point of Propriety"
-heading=  "Section 3b of Part 6"
-author=  "Adam Smith"
-description=  "The point of propriety is the degree of any passion which the impartial spectator approves of. This point is differently situated in different passions"
-date=  2015-09-19
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-6/section-3a"
-linkbtext=  "Chapter 3a"
-linkf=  "/research/smith/theory-moral-sentiments/part-6/section-3c"
-linkftext=  "Chapter 3c"
-+++
+---
+title: "The Point of Propriety"
+heading: "Section 3"
+description: "The point of propriety is the degree of any passion which the impartial spectator approves of. This point is differently situated in different passions"
+weight: 48
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
 
-14 The point of propriety is the degree of any passion which the impartial spectator approves of. This point is differently situated in different passions.
+
+
+{{< s v="14" >}} The point of propriety is the degree of any passion which the impartial spectator approves of. This point is differently situated in different passions.
 
 > In some passions, the excess is less disagreeable than the shortage. 
 
@@ -27,21 +26,20 @@ In such passions, the point of propriety seems to stand low, or nearer to the de
 <!-- The spectator is least disposed to sympathize with these passions.
 The immediate feeling of these passions is disagreeable to the person principally concerned. -->
 
-As a general rule, the passions which the spectator can sympathize with are those which have a high point of propriety. Their immediate feeling is agreeable to the subject-person.
+As a general rule, the passions which the spectator can sympathize with are those which have a high point of propriety. 
+- Their immediate feeling is agreeable to the subject-person.
 
 On the contrary, the passions which the spectator cannot easily sympathize with are those which have a low point of propriety. 
-
-, are those of which the immediate feeling is more or less disagreeable or even painful, to the person principally concerned.
+- The immediate feeling from these is more or less disagreeable or even painful, to the person principally concerned.
 
 This rule has no exception.
 
 <!-- A few examples will sufficiently explain it and demonstrate its truth at once. -->
  
-<br>
 
 ### The Unifying and Divisive Force
 
-15 A man might show <!-- The disposition to the affections which unite men in society, --> excessive humanity, kindness, natural affection, friendship, or esteem to others. However, we <!-- even the excess of this disposition --> still regard it with compassion and kindness.
+{{< s v="15" >}} A man might show <!-- The disposition to the affections which unite men in society, --> excessive humanity, kindness, natural affection, friendship, or esteem to others. However, we <!-- even the excess of this disposition --> still regard it with compassion and kindness.
 
 <!-- We are more sorry for it than angry at it. -->
 
@@ -57,7 +55,7 @@ Those people have a lack of such affections <!-- The defect of this disposition 
 <!-- By excluding him from the friendship of all the world, it excludes him from the best and most comfortable of all social enjoyments. -->
 
  
-16 The disposition to drive men from one another tends to break the bands of human society. The disposition to anger, hatred, envy, malice, revenge offends by its excess than its shortage.
+{{< s v="16" >}} The disposition to drive men from one another tends to break the bands of human society. The disposition to anger, hatred, envy, malice, revenge offends by its excess than its shortage.
 
 The excess <!-- renders a man wretched and miserable in his own mind. --> makes a man as the object of hatred, and sometimes even of horror, to other people.
 
@@ -73,7 +71,7 @@ Envy is an odious and detestable passion. Even its excess and improper direction
 - An envious man dislikes the superiority of really superior people. <!-- those who are really entitled to all their superiority -->.
 - A man who allows inferior people to <!-- However, the man who tamely allows others, who are not entitled to such superiority, to --> rise above him in important matters, is justly condemned as mean-spirited.
 
-This weakness is commonly founded in= 
+This weakness is commonly founded in:
 - indolence,
 - good nature, sometimes,
 - an aversion to opposition, bustle and solicitation, and
@@ -88,52 +86,59 @@ What seemed as magnanimity in the beginning frequently gives way to=
 
 In order to live comfortably, we always need to defend our dignity and rank just as we defend our life or fortune.
 
-<br>
+
 
 ### Sensibility and Insensibility
 
-17 Our sensibility to personal danger and distress, like that to personal provocation, is much more apt to offend by its excess than by its defect.
+{{< s v="17" >}} Our sensibility to personal danger and distress, like that to personal provocation, is much more apt to offend by its excess than by its defect.
 
 No character is more contemptible than that of a coward.
 
-No character is more admired than that of the man who= 
+No character is more admired than that of the man who:
 - faces death with intrepidity
 - maintains his tranquillity and presence of mind amidst the most dreadful dangers
 
-We esteem the man who supports pain and even torture with manhood and firmness. We can have little regard for the man who= 
+We esteem the man who supports pain and even torture with manhood and firmness. We can have little regard for the man who:
 - sinks under them
 - abandons himself to useless outcries and womanish lamentations
 
-His fretful temper makes him= 
+His fretful temper makes him:
 - feel every little cross accident with too much sensibility
 - miserable in himself
 - offensive to other people
 
-A calm character which does not allow its tranquility to be disturbed by the small injuries or little disasters= 
-is a blessing to the man himself, and
-gives ease and security to all his companions.
-Amidst the natural and moral evils infesting the world, this character= 
-lays its account, and
-is contented to suffer a little from both evils.
+A calm character which does not allow its tranquility to be disturbed by the small injuries or little disasters:
+- is a blessing to the man himself, and
+- gives ease and security to all his companions.
+
+Amidst the natural and moral evils infesting the world, this character:
+- lays its account, and
+- is contented to suffer a little from both evils.
  
-18 Our sensibility to our own injuries and misfortunes is generally too strong.
+
+{{< s v="18" >}} Our sensibility to our own injuries and misfortunes is generally too strong.
 
 It may likewise be too weak.
-The man who feels little for his own misfortunes must always= 
-feel less for those of other people
-be less disposed to relieve them
-The man who has little resentment for the injuries done to himself must always= 
-have less resentment for those done to other people
-be less disposed to protect or avenge them
+
+The man who feels little for his own misfortunes must always:
+- feel less for those of other people
+- be less disposed to relieve them
+
+The man who has little resentment for the injuries done to himself must always:
+- have less resentment for those done to other people
+- be less disposed to protect or avenge them
+
 A stupid insensibility to the events of human life necessarily extinguishes all that keen and earnest attention to the propriety of our own conduct.
 This propriety is the real essence of virtue.
-We can feel little anxiety about the propriety of our own actions when we are indifferent about their effects.
-The real man of virtue is alone someone who= 
 
-feels the full distress of the calamity which has befallen him,
-feels the whole baseness of the injustice done to him, but feels more strongly the dignity required by his own character
-does not abandon himself to undisciplined passions naturally inspired by his situation
-governs his whole behaviour and conduct according to those restrained and corrected emotions which the great inmate, the great demi-god within the breast prescribes and approves of
+We can feel little anxiety about the propriety of our own actions when we are indifferent about their effects.
+
+The real man of virtue is alone someone who:
+- feels the full distress of the calamity which has befallen him,
+- feels the whole baseness of the injustice done to him, but feels more strongly the dignity required by his own character
+- does not abandon himself to undisciplined passions naturally inspired by his situation
+- governs his whole behaviour and conduct according to those restrained and corrected emotions which the great inmate, the great demi-god within the breast prescribes and approves of
+
 A real man of virtue is the only real and proper object of love, respect, and admiration.
 
 Insensibility is so different from that exalted self-command.

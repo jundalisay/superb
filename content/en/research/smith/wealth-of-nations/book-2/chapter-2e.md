@@ -1,7 +1,8 @@
 ---
 title: "Cash Accounts and Discounted Bills of Exchange"
-heading: "Chapter 2e of Book 2"
-date: 2020-01-24
+heading: "Chapter 2e"
+weight: 18
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Cash Accounts and Discounted Bills of Exchange adds to the circulation of value"
 icon: "/icons/smith.png"

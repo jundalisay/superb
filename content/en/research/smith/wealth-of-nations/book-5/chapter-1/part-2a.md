@@ -1,7 +1,7 @@
 ---
 title: "Part 2a-Expenses on Justice"
-heading: "Part 2a of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 2a"
+weight: 1
 image: "/covers/wn.jpg"
 description: "The second duty of the sovereign is to protect every member of society from the injustice or oppression of every other membe"
 author: Adam Smith

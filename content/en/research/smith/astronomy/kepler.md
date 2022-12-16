@@ -2,7 +2,8 @@
 title: "Kepler's System of Astronomy"
 description: "Kepler, in Germany, had great genius but none of the taste or order and method of Galileo. Like other Germans, he had the most laborious industry together with an excessive passion for discovering proportions and resemblances between the different parts of nature"
 image: /covers/astronomy.jpg
-date: 2022-09-26
+# date: 2022-09-26
+weight: 8
 ---
 
 

@@ -1,23 +1,21 @@
-+++
-title=  "The Ban on coin exportation"
-heading=  "Chapter 10 of Part 2 Section 2"
-description=  "This ban has been extremely hurtful to the country's commerce. Because whatever amount of money there is in any country above what is needed for circulation is merely a dead stock"
-date=  2015-09-21
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-# image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-9"
-linkbtext=  "Chapter 9"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-11"
-linkftext=  "Chapter 11"
-btext=  "Chapter 10"
-+++
+---
+heading: Chapter 10
+title: "The Ban on Coin Exportation"
+# date: 2015-09-10
+weight: 24
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "This ban has been extremely hurtful to the country's commerce. Because whatever amount of money there is in any country above what is needed for circulation is merely a dead stock"
+---
+
+
 
 Because of these tenets, the government banned coin exportation.
 
 This ban has been extremely hurtful to the country's commerce. Because whatever amount of money there is in any country above what is needed for circulation is merely a dead stock.
 
-In King William’s time, there were two species of coin= 
+In King William’s time, there were two species of coin:
 - milled
 - unmilled
 
@@ -38,7 +36,7 @@ More coin was exported than ever.
 
 This could have been easily prevented by setting a price on the coinage of bullion. But such a regulation was never thought of.
 
-Any regulation of the above kind is very absurd because= 
+Any regulation of the above kind is very absurd because:
 - there is no fear if things be left to their free course that any nation will want money sufficient for the circulation of their commodities, and
 - every ban of exportation is always ineffectual, and very often occasions the exportation of more than otherwise would be.
 
@@ -48,7 +46,7 @@ If they attempt to smuggle, the British merchant must increase the prices of his
 
 In general, every prohibition of this kind hurts the country's commerce.
 
-Every unnecessary accumulation of money= 
+Every unnecessary accumulation of money:
 - is a dead stock which could be employed in enriching the nation by foreign commerce.
 - also raises the price of goods
 - makes the country undersold at foreign markets.
@@ -82,7 +80,7 @@ This drew the attention of the nations who trade with Spain.
 
 In general, they export no manufactured commodities, except swords and armour.
 
-They have= 
+They have:
 - the best steel in the world.
 - only the spontaneous productions of the country, such as fruits and wines.
 

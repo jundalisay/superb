@@ -1,7 +1,8 @@
 ---
 heading: Chapter 7
 title: "The Feudal System"
-date: 2015-09-18
+# date: 2015-09-18
+weight: 18
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

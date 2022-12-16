@@ -1,29 +1,31 @@
-+++
-title=  "France & England; Balance of Produce & Consumption"
-heading=  "Chapter 3d Part 2 of Book 4 "
-description=  "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-3c"
-linkbtext=  "Chapter 3c"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-4"
-linkftext=  "Chapter 4"
-icon=  "/icons/smith.png"
-+++
+---
+title: "France & England; Balance of Produce & Consumption"
+heading: "Chapter 3d"
+description: "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints"
+image: /covers/wn.jpg
+weight: 24
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
+
 
 
 {{< s v="41" >}} Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints.
 
 If those two countries considered their real interest, without mercantile jealousy or national animosity, French commerce might be more advantageous to Great Britain than any other country.
-    Great Britain's commerce will also be more advantageous to France.
+- Great Britain's commerce will also be more advantageous to France.
+
 France is the nearest neighbour to Great Britain.
     The returns of the trade between the southern coast of England and the northern coasts of France might be expected at 4-6 times a year.
     The frequency is the same as in the inland trade.
+
 In those two countries, the capital employed in this trade could keep in motion 4-6 times the amount of industry.
     It could afford employment and subsistence to 4-6 times more people than if it were employed in foreign trade.
     Between the most remote parts of France and Great Britain, the returns might be expected at least once a year.
         Even this trade would be at least equally advantageous as most of our foreign European trade.
         This trade would be at least three times more advantageous than the boasted trade with our North American colonies, in which the returns frequently take 4-5 years.
+
 France is supposed to have 24 million people.
     Our North American colonies were never supposed to have more than 3 million.
     France is a much richer country than North America.
@@ -32,6 +34,7 @@ France is supposed to have 24 million people.
     France is 24 times more advantageous to our trade than our North American colonies due to the superior frequency of the returns,
 The trade of Great Britain would be just as advantageous to France.
     It would have the same superiority to France than the trade to her own colonies.
+
 Such is the very great difference between the trade which both nations= 
     discouraged, and
     have favoured the most

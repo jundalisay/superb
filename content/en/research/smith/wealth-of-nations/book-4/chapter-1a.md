@@ -3,7 +3,7 @@ title: "What is the Political Economy?"
 heading: "Chapter 1a Simplified"
 description: "Political economy, as a science of a legislator proposes to enrich both the people and the sovereign"
 image: /covers/wn.jpg
-date: 2020-03-31
+weight: 1
 author: Adam Smith
 icons: /icons/smith.png
 --- 

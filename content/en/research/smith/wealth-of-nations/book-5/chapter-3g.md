@@ -1,7 +1,7 @@
 ---
 title: "Monetary Devaluation"
 heading: "Chapter 3g"
-date: 2020-01-27
+weight: 1
 image: "/covers/wn.jpg"
 description: "The raising of the coin's denomination has been the most usual way a real public bankruptcy is disguised under the appearance of a pretended payment"
 icon: "/icons/smith.png"

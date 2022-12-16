@@ -1,15 +1,14 @@
-+++
-title=  "The Rights of Ambassadors"
-heading=  "Chapter 4"
-description=  "When nations came to have a lot of business one with another, it became necessary to send messengers between them. They were the first ambassadors"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-5/chapter-3"
-linkbtext=  "Chapter 1a"
-linkf=  "/research/smith/jurisprudence/part-5/"
-linkftext=  "Part 5"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 4
+title: "The Rights of Ambassadors"
+weight: 18
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "When nations came to have a lot of business one with another, it became necessary to send messengers between them. They were the first ambassadors"
+---
+
+
 
 
 When nations came to have a lot of business one with another, it became necessary to send messengers between them. They were the first ambassadors.
@@ -35,7 +34,9 @@ Ferdinand of Spain established this practice. It initially gave great jealousy t
   - sending an ambassador on a certain occasion, and
   - starting different questions.
 
-This practice was soon copied and became the universal custom of the European princes. It was thought a great affront not to send one. Grotius' was against resident ambassadors because he thought them as resident spies. But if he lived today, he would have found that extensive commerce makes it impossible to preserve peace in a month, unless grievances are redressed by a man of authority, who= 
+This practice was soon copied and became the universal custom of the European princes. It was thought a great affront not to send one. Grotius' was against resident ambassadors because he thought them as resident spies. 
+
+But if he lived today, he would have found that extensive commerce makes it impossible to preserve peace in a month, unless grievances are redressed by a man of authority, who:
 - knows the country's customs and
 - can explain what injuries are really done.
 
@@ -55,7 +56,7 @@ They can advise and consult on matters, but not to decide any. By combining, the
 - pretends to superiority, or
 - makes an unreasonable demand.
 
-Post offices are important in getting intelligence because communication is open through all these countries, both in peace and war. It makes commerce easy and gives notice of every movement. An ambassador’s person must= 
+Post offices are important in getting intelligence because communication is open through all these countries, both in peace and war. It makes commerce easy and gives notice of every movement. An ambassador’s person must:
 - be sacred, and
 - not subject to any of the courts of justice in the country where he resides.
 
@@ -73,7 +74,7 @@ The Spanish court was then the most ceremonious in the world.
 - Spanish dress was everywhere.
 - Ambassadors were obliged to keep up much ceremony and were hindered in doing their business.
 
-A man that has to negotiate important matters could not spend much time in the endless ceremony of paying and returning visits. Envoys were therefore sent, to= 
+A man that has to negotiate important matters could not spend much time in the endless ceremony of paying and returning visits. Envoys were therefore sent, to:
 - whom less ceremony was due, and
 - those that could be addressed on any occasion.
 
@@ -89,3 +90,4 @@ He takes care to do them justice in those places where it may not be very accura
 These are the names and offices of the persons employed in the nation's foreign affairs created by the introduction of commerce.
 
 It has now become absolutely necessary. Thus we have considered both the laws of nature and the laws of nations.
+

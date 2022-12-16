@@ -1,7 +1,8 @@
 ---
 heading: Chapter 3b of Part 1 Section 2
 title: "Five ways to become a slave"
-date: 2015-09-22
+# date: 2015-09-22
+weight: 16
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

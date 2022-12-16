@@ -1,7 +1,8 @@
 ---
 heading: Chapter 3
 title: "How Republican Governments were introduced"
-date: 2015-09-26
+# date: 2015-09-26
+weight: 8
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

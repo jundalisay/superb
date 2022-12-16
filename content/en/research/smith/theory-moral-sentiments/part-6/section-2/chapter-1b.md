@@ -1,19 +1,16 @@
+---
+title: "Friendship and Kindness"
+heading: "Chapter 1b"
+description: "Among well-disposed people, the necessity or convenience of mutual accommodation frequently produces a friendship like the friendship of those born to live in the same family"
+weight: 40
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
 
 
-+++
-title=  "Friendship and Kindness"
-heading=  "Chapter 1b"
-description=  "Research on Adam Smith"
-date=  2015-09-27
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-6/section-2/chapter-1a"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/theory-moral-sentiments/part-6/section-2/chapter-2"
-linkftext=  "Chapter 2"
-+++
 
-
-18 Among well-disposed people, the necessity or convenience of mutual accommodation frequently produces a friendship like the friendship of those born to live in the same family.
+{{< s v="18" >}} Among well-disposed people, the necessity or convenience of mutual accommodation frequently produces a friendship like the friendship of those born to live in the same family.
 
 Colleagues in office, partners in trade, call one another brothers. They frequently feel as brothers towards each other. 
 - Their good agreement is an advantage to all.

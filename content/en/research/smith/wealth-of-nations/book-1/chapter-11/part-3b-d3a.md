@@ -1,7 +1,8 @@
 ---
 title: "Digression: The effect of improvement on real value of rude produce"
 heading: "Part 3b of Digression 3a"
-date: 2015-09-03
+weight: 30
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Rude produce may be divided into three"
 icon: "/icons/smith.png"

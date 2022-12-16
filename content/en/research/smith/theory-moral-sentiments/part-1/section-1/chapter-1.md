@@ -2,7 +2,7 @@
 title: "Sympathy"
 heading: "Chapter 1"
 description: "The Source of our Compassion is our conception of the pain of others"
-date: 2015-09-30
+weight: 4
 image: "/covers/tms.jpg"
 icon: /icons/smith.png
 ---

@@ -1,13 +1,13 @@
-+++
-title=  "Introduction on Jurisprudence"
-description=  "The goal of justice is security from injury"
-image=  "/covers/lectures.jpg"
-date=  2022-01-31
-# sibtitle=  of the Lectures on Jurisprudence
-# image=  "https= //sorasystem.sirv.com/photos/medieval/7yearswar2.jpg"
-+++
+---
+# heading: "Adam Smith's History of Astronomy"
+title: "Introduction on Jurisprudence"
+description: "The goal of justice is security from injury"
+image: /covers/lectures.jpg
+weight: 6
+---
 
-The goal of justice is security from injury. A man may be injured as= 
+
+The goal of justice is security from injury. A man may be injured as:
 
 > 1. A man
 
@@ -20,13 +20,13 @@ As a member of a family he may be injured as=
 - a son
 - a husband or wife
 - a master or servant
-- a guardian or pupil=  This is considered as a family relation until the pupil can take care of himself.
+- a guardian or pupil: This is considered as a family relation until the pupil can take care of himself.
 
 > 3. A member of a state
 
 As a member of a state, a magistrate may be injured by disobedience, or a subject by oppression, etc.
 
-A man may be injured= 
+A man may be injured:
 - In his body by wounding, maiming, murdering, or by infringing his liberty
 - In his reputation by falsely representing him as a proper object of resentment or punishment, as by calling him a thief or robber, or
 By depreciating his real worth and trying to degrade him below the level of his profession.
@@ -44,7 +44,7 @@ Natural rights are those which a man has to the preservation of his body and rep
 In his estate
 His rights to his estate are called acquired or 'iura adventitia'.
 
-These are of two kinds= 
+These are of 2 kinds:
 
 > 1. Real
 
@@ -55,9 +55,10 @@ A real right is that whose object is a real thing and which can be claimed aquoc
 Personal rights are those that can be claimed by a lawsuit from a person, but not aquocumque possessore. Examples are all debts and contracts.
 
 The payment or performance of these can be demanded only from one person.
+
 If I buy a horse and have him delivered to me, though the former owner sell him to another, I can claim him a quocumque possessore; but if he was not delivered to me I can only pursue the seller.
 
-The four kinds of real rights are= 
+The four kinds of real rights are: 
 - Property
 - Servitudes
 - Pledges

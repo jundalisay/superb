@@ -1,15 +1,15 @@
-+++
-title=  "Stocks"
-heading=  "Chapter 3 Part 3"
-description=  "Stocks"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-3/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/jurisprudence/part-3/chapter-4"
-linkftext=  "Chapter 4"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 3
+title: "Stocks"
+# date: 2015-09-10
+weight: 10
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Taxes on possessions are naturally equal. But taxes on consumptions are naturally unequal"
+---
+
+
 
 Soon after the Revolution, the government needed to borrow money from its subjects at a higher rate than common interest.
 

@@ -1,15 +1,13 @@
-+++
-title=  "The Development of Militias"
-heading=  "Chapter 1 Part 4"
-description=  "In the beginning of society, the state's defence required no police, nor particular provision for it"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-3/chapter-5"
-linkbtext=  "Part 3"
-linkf=  "/research/smith/jurisprudence/part-4/chapter-2"
-linkftext=  "Chapter 2"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 1
+title: "The Development of Militias"
+weight: 8
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "In the beginning of society, the state's defence required no police, nor particular provision for it"
+---
+
 
 
 In the beginning of society, the state's defence required no police, nor particular provision for it.

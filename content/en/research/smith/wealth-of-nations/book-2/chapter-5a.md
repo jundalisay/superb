@@ -2,7 +2,7 @@
 heading: "Chapter 5a"
 title: "The Four Employment of capitals"
 linkTitle: "Chapter 5a"
-date: 2020-01-09
+weight: 54
 image: "/covers/wn.jpg"
 description: "The destiny of all capitals is to maintain productive labour"
 author: Adam Smith

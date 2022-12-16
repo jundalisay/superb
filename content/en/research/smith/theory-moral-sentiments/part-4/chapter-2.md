@@ -1,17 +1,11 @@
 ---
 title: "The Morality from Utility"
-heading: "Chapter 2 of The Theory of Moral Sentiments Simplified"
+heading: "Chapter 2"
 description: "This beauty of characters from their usefulness strikes those who philosophically consider mankind's conduct"
-date: 2022-01-28
+weight: 14
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-linkb: "/research/smith/theory-moral-sentiments/part-4/chapter-1b"
-linkbtext: "Chapter 1b"
-linkf: "/research/smith/theory-moral-sentiments/part-4/chapter-2b"
-linkftext: "Chapter 2b"
 icon: /icons/smith.png
-aliases:
-  /research/smith/simple-theory-of-moral-sentiments/part-4/chapter-2
 ---
 
 

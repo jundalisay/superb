@@ -1,7 +1,8 @@
 ---
 heading: Chapter 12
 title: "The Little Republics in Europe"
-date: 2015-09-08
+# date: 2015-09-08
+weight: 28
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

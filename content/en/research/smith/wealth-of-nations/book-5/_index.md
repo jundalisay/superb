@@ -2,7 +2,7 @@
 title: "Government Expenses and Revenue"
 linkTitle: Book 5
 heading: "Book 5"
-date: 2020-09-09
+weight: 10
 image: "/covers/wn.jpg"
 description: "We simplify The Wealth of Nations Book 5 about Government Expenses and Revenue"
 # icon: "/icons/smith.png"

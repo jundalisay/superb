@@ -1,7 +1,8 @@
 ---
 title: "The Importance of Savings and Prudence"
-heading: "Chapter 2o of Book 2"
-date: 2020-01-12
+heading: "Chapter 2o"
+weight: 42
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The proportion between industry and idleness is regulated by the proportion between capital and revenue"
 icon: "/icons/smith.png"

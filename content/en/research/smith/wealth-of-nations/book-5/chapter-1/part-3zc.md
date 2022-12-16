@@ -1,7 +1,7 @@
 ---
 title: "The Reformation"
-heading: "Part 3zc of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3zc"
+weight: 1
 image: "/covers/wn.jpg"
 description: "The reformation was strong enough to overturn the church and its state where it was weak"
 author: Adam Smith

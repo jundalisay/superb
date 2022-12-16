@@ -1,7 +1,8 @@
 ---
 title: "Food: The raw produce which always affords Rent"
-heading: "Part 1a of Chapter 11 of Book 1"
-date: 2015-09-29
+heading: "Part 1a"
+weight: 4
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Food is always in demand because men, like animals, naturally multiply in proportion to their subsistence"
 icon: "/icons/smith.png"

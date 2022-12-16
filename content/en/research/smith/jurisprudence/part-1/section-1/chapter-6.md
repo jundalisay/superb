@@ -1,7 +1,8 @@
 ---
 heading: Chapter 6
 title: "How Military Monarchy was Dissolved"
-date: 2015-09-22
+# date: 2015-09-22
+weight: 14
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

@@ -1,13 +1,14 @@
-+++
-title=  "Systems which make Virtue consist in Benevolence"
-description=  "The Basis of Benevolent Systems is the Supreme Entity"
-date=  2015-09-25
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-7/section-2/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/theory-moral-sentiments/part-7/section-2/chapter-4"
-linkftext=  "Chapter 4"
-+++
+---
+heading: "Chapter 3"
+title: "Systems which make Virtue consist in Benevolence"
+linkTitle: Chapter 3
+description: "The Basis of Benevolent Systems is the Supreme Entity"
+weight: 14
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
+
 
 {{< s v="72" >}} The system which makes virtue consist in benevolence is very ancient, but not as ancient as those of the Greeks. 
 

@@ -1,7 +1,7 @@
 ---
 title: "European Education"
-heading: "Part 3s of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3s"
+weight: 1
 image: "/covers/wn.jpg"
 description: "The changes introduced by European universities into the ancient course of philosophy were all meant to educate ecclesiastics"
 author: Adam Smith

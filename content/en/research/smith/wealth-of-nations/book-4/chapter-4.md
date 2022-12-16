@@ -1,15 +1,12 @@
-+++
-title=  "Drawbacks"
-heading=  "Chapter 4 of Book 4 "
-description=  "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-3d"
-linkbtext=  "Chapter 3d"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-5"
-linkftext=  "Chapter 5"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Drawbacks"
+heading: "Chapter 4"
+description: "Drawbacks seem the most reasonable of these encouragements"
+image: /covers/wn.jpg
+weight: 24
+author: Adam Smith
+icons: /icons/smith.png
+--- 
 
 
 {{< s v="1" >}} Merchants and manufacturers are not content with the monopoly of the home market.
@@ -23,12 +20,12 @@ They generally petition for encouragements to exportation.
 
 {{< s v="2" >}} Drawbacks seem the most reasonable of these encouragements.
 
-    Drawing back the imposed excise or inland duty upon exportation, can never cause more exportation than if there were no duty.
-    Such encouragements do not turn towards any particular employment more capital than natural.
-        They only hinder the duty from driving that capital away to other employments.
-        They do not overturn that balance which naturally establishes itself among the various employments of society.
-        They hinder that employment from being overturned by the duty.
-        They preserve the natural division and distribution of labour in society.
+Drawing back the imposed excise or inland duty upon exportation, can never cause more exportation than if there were no duty.
+Such encouragements do not turn towards any particular employment more capital than natural.
+    They only hinder the duty from driving that capital away to other employments.
+    They do not overturn that balance which naturally establishes itself among the various employments of society.
+    They hinder that employment from being overturned by the duty.
+    They preserve the natural division and distribution of labour in society.
 
 3 The same thing may be said of the drawbacks on the re-exportation of imported goods.
 

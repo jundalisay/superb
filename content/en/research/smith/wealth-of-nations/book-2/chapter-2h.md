@@ -1,7 +1,8 @@
 ---
 title: "How Drawing and Redrawing Works"
-heading: "Chapter 2g of Book 2"
-date: 2020-01-24
+heading: "Chapter 2g"
+weight: 24
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The limitations set by banks led to traders to do Drawing and Redrawing to increase the paper money circulating"
 icon: "/icons/smith.png"

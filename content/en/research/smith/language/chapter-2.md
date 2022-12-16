@@ -1,26 +1,35 @@
+---
+heading: Chapter 2
+title: "The Nature of Prepositions"
+weight: 10
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Every preposition denotes some relation considered in concrete with the co-relative object"
+---
 
-+++
-title=  "The Nature of Prepositions"
-heading=  "Chapter 2 of Adam Smith's Essays on Language"
-description=  "Every preposition denotes some relation considered in concrete with the co-relative object"
-date=  2022-01-09
-image=  "/covers/lang.jpg"
-linkb=  "/research/smith/language/"
-linkbtext=  "Index"
-linkf=  "/research/smith/language"
-linkftext=  "Index"
-# btext=  "Chapter 2"
-+++
 
 If invention of prepositions was more difficult. 
 
 Every preposition denotes some relation considered in concrete with the co-relative object. The preposition "above"  denotes the relation of superiority, not in abstract, as it is expressed by the word superiority, but in concrete with some co-relative object. 
 
-In this phrase, for example, the tree above the cave, the word above expresses a certain relation between the tree and the cave, and it expresses this relation in concrete with the co-relative object, the cave. A preposition always requires, in order to complete the sense, some other word to come after it; as may be observed in this particular instance. Now, I say, the original invention of such words would require a yet greater effort of abstraction and generalization, than that of nouns adjective. First of all, the relation is, in itself, a more metaphysical object than a quality. Nobody can be at a loss to explain what is meant by a quality; but few people will find themselves able to express, very distinctly, what is understood by a relation. 
+In this phrase, for example, the tree above the cave, the word above expresses a certain relation between the tree and the cave, and it expresses this relation in concrete with the co-relative object, the cave. A preposition always requires, in order to complete the sense, some other word to come after it; as may be observed in this particular instance.
 
-Qualities are almost always the objects of our external senses; relations never are. No wonder therefore, that the one set of objects should be so much more comprehensible than the other. Secondly, though prepositions always express the relation which they stand for, in concrete with the co-relative object, they could not have 311 originally been formed without a considerable effort of abstraction. 
+The original invention of such words would require a yet greater effort of abstraction and generalization, than that of nouns adjective. 
 
-A preposition denotes a relation, and nothing but a relation. But before men could institute a word, which signified a relation, and nothing but a relation, they must have been able, in some measure, to consider this relation abstractedly from the related objects; since the idea of those objects does not, in any respect, enter into the signification of the preposition. The invention of such a word, therefore, must have required a considerable degree of abstraction. Thirdly, a preposition is from its nature a general word, which, from its very first institution, must have been considered as equally applicable to denote any other similar relation. The man who first invented the word above, must not only have distinguished, in some measure, the relation of superiority from the objects which were so related, but he must also have distinguished this relation from other relations, such as, from the relation of inferiority denoted by the word below, from the relation of juxta-position, expressed by the word beside, and the like. He must have conceived this word, therefore, as expressive of a particular sort or species of relation distinct from every other, which could not be done without a considerable effort of comparison and generalization.
+1. The relation is, in itself, a more metaphysical object than a quality. 
+
+Nobody can be at a loss to explain what is meant by a quality; but few people will find themselves able to express, very distinctly, what is understood by a relation. 
+
+Qualities are almost always the objects of our external senses; relations never are. No wonder therefore, that the one set of objects should be so much more comprehensible than the other. 
+
+2. Prepositions always express the relation which they stand for, in concrete with the co-relative object. But they could not have originally been formed without a considerable effort of abstraction. 
+
+A preposition denotes a relation, and nothing but a relation. But before men could institute a word, which signified a relation, and nothing but a relation, they must have been able, in some measure, to consider this relation abstractedly from the related objects; since the idea of those objects does not, in any respect, enter into the signification of the preposition. The invention of such a word, therefore, must have required a considerable degree of abstraction.
+
+3. A preposition is from its nature a general word, which, from its very first institution, must have been considered as equally applicable to denote any other similar relation. 
+
+The man who first invented the word above, must not only have distinguished, in some measure, the relation of superiority from the objects which were so related, but he must also have distinguished this relation from other relations, such as, from the relation of inferiority denoted by the word below, from the relation of juxta-position, expressed by the word beside, and the like. He must have conceived this word, therefore, as expressive of a particular sort or species of relation distinct from every other, which could not be done without a considerable effort of comparison and generalization.
 
 Whatever were the difficulties, therefore, which embarrassed the first invention of nouns adjective, the same, and many more, must have embarrassed that of prepositions. If mankind, therefore, in the first formation of languages, seem to have, for some time, evaded the necessity of nouns adjective, by varying the termination of the names of substances, according as these varied in some of their most important qualities, they would much more find themselves under the necessity of evading, by some similar contrivance, the yet more difficult invention of prepositions. The different cases in the ancient languages is a contrivance of precisely the same kind. 
 
@@ -54,7 +63,11 @@ It is, perhaps, unnecessary to observe, that there are some of the cases in the 
 
 As men have frequently occasion to make mention of multitudes as well as of single objects, it became necessary that they should have some method of expressing number. Number may be expressed either by a particular word, expressing number in general, such as the words many, more, &c., or by some variation upon the words which express the things numbered. It is this last expedient which mankind would probably have recourse to, in the infancy of language. Number, considered in general, without relation to any particular set of objects numbered, is one of the most abstract and metaphysical ideas, which the mind of man is capable of forming; and, consequently, is not an idea, which would readily occur to rude mortals, who were just beginning to form a language. They would naturally, therefore, distinguish when they talked of a single, and when they talked of a multitude of objects, not by any metaphysical adjectives, such as the English a, an, many, but by a variation upon the termination of the word which signified the objects numbered. Hence the origin of the singular and plural numbers, in all the ancient languages; and the same distinction has likewise been retained in all the modern languages, at least, in the greater part of the words.
 
-All primitive and uncompounded languages seem to have a dual, as well as a plural number. This is the case of the Greek, and I am told of the Hebrew, of the Gothic, and of many other languages. In the rude beginnings of society, one, two, and more, might possibly be all the numeral distinctions which mankind would have any occasion to take notice of. These they would find it more natural to express, by a variation upon every particular noun substantive, than by such general and abstract words as one, two, three, four, &c. These words, though custom has rendered them familiar to us, express, perhaps, the most subtile and refined abstractions, which the mind of man is capable of forming. Let any one consider within himself, for example, what he means by the word three, which signifies neither three shillings, nor three pence, nor three men, nor three horses, but three in general; and he will easily satisfy himself that a word, which denotes so very metaphysical an abstraction, could not be either a very obvious or a very early invention. I have read of some savage nations, whose language 315 was capable of expressing no more than the three first numeral distinctions. But whether it expressed those distinctions by three general words, or by variations upon the nouns substantive, denoting the things numbered, I do not remember to have met with any thing which could clearly determine.
+All primitive and uncompounded languages seem to have a dual, as well as a plural number. This is the case of the Greek, and I am told of the Hebrew, of the Gothic, and of many other languages. In the rude beginnings of society, one, two, and more, might possibly be all the numeral distinctions which mankind would have any occasion to take notice of. 
+
+These they would find it more natural to express, by a variation upon every particular noun substantive, than by such general and abstract words as one, two, three, four, &c. These words, though custom has rendered them familiar to us, express, perhaps, the most subtile and refined abstractions, which the mind of man is capable of forming. 
+
+Let any one consider within himself, for example, what he means by the word three, which signifies neither three shillings, nor three pence, nor three men, nor three horses, but three in general; and he will easily satisfy himself that a word, which denotes so very metaphysical an abstraction, could not be either a very obvious or a very early invention. I have read of some savage nations, whose language 315 was capable of expressing no more than the three first numeral distinctions. But whether it expressed those distinctions by three general words, or by variations upon the nouns substantive, denoting the things numbered, I do not remember to have met with any thing which could clearly determine.
 
 As all the same relations which subsist between single, may likewise subsist between numerous objects, it is evident there would be occasion for the same number of cases in the dual and in the plural, as in the singular number. Hence the intricacy and complexness of the declensions in all the ancient languages. In the Greek there are five cases in each of the three numbers, consequently fifteen in all.
 
@@ -62,6 +75,8 @@ As nouns adjective, in the ancient languages, varied their terminations accordin
 
 The first formers of language seem to have varied the termination of the adjective, according to the case and the number of the substantive, for the same reason which made them vary it according to the gender; the love of analogy, and of a certain regularity of sound. In the signification of adjectives there is neither case nor number, and the meaning of such words is always precisely the same, notwithstanding all the variety of termination under which they appear. 
 
-Magnus vir, magni viri, magnorum virorum; a great man, of a great man, of great men; in all these expressions the words, magnus, magni, magnorum, as well as the word great, have precisely one and the same signification, though the substantives to which they are applied have not. The difference of termination in the noun adjective is accompanied with no sort of difference in the meaning. An adjective denotes the qualification of a noun substantive. But the different relations in which that noun substantive may occasionally stand, can make no sort of difference upon its qualification. If the declensions of the ancient languages are so very complex, their conjugations are infinitely more so. And the complexness of the one is founded upon the same principle with that of the other, the difficulty of forming, in the beginnings of language, abstract and general terms.
+Magnus vir, magni viri, magnorum virorum; a great man, of a great man, of great men; in all these expressions the words, magnus, magni, magnorum, as well as the word great, have precisely one and the same signification, though the substantives to which they are applied have not. The difference of termination in the noun adjective is accompanied with no sort of difference in the meaning. An adjective denotes the qualification of a noun substantive. 
+
+But the different relations in which that noun substantive may occasionally stand, can make no sort of difference upon its qualification. If the declensions of the ancient languages are so very complex, their conjugations are infinitely more so. And the complexness of the one is founded upon the same principle with that of the other, the difficulty of forming, in the beginnings of language, abstract and general terms.
 
 

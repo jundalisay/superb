@@ -1,15 +1,13 @@
-+++
-title=  "Effect of Export Bounties on Real Prices"
-heading=  "Chapter 5a of Book 4 "
-description=  "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-5b"
-linkftext=  "Chapter 5b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Effect of Export Bounties on Real Prices"
+heading: "Chapter 5"
+description: "Bounties should only be given to trades which cannot be carried on without bounties"
+image: /covers/wn.jpg
+weight: 26
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
 
 
 {{< s v="1" >}} In Great Britain, export bounties are frequently petitioned for.

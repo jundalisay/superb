@@ -4,7 +4,8 @@ title: "The Questions in a Theory of Moral Sentiments"
 linkTitle: Section 1
 description: "Almost all of the remarkable theories on the nature of our moral feelings are partly correct and partly wrong due to their imperfect view of nature"
 image: /covers/tms.jpg
-date: 2022-04-30
+weight: 1
+# date: 2022-04-30
 ---
 
 

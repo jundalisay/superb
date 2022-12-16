@@ -1,20 +1,20 @@
-+++
-title=  "How the Division of Labour multiplies Productivity"
-heading=  "Chapter 4 of Part 2 Section 2"
-description=  "The Division of Labour multiplies Productivity by the increase in skill, better time-management, and the invention of new machines"
-date=  2015-09-27
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-5"
-linkftext=  "Chapter 5"
-+++
+---
+heading: Chapter 4
+title: "How the Division of Labour Multiplies Productivity"
+weight: 12
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "How does this division of labour multiply productivity, or, which is the same thing, how does opulence arise from it?"
+---
+
+
 
 How does this division of labour multiply productivity, or, which is the same thing, how does opulence arise from it?
 
 The effect of the division of labour can be seen in some manufactures. If all the parts of a pin were made by one man, it would take him a whole year to make one pin.
 
-He would= 
+He would:
 - dig the ore,
 - smelt it, and
 - split the wire.
@@ -116,7 +116,7 @@ Whether he was an artisan, or whatever he was who first executed this, he must h
 Steam engines, wind and water-milns were the invention of philosophers.
 Their dexterity too is increased by a division of labour.
 
-They are all divide according to the different branches= 
+They are all divide according to the different branches:
 - mechanical
 - moral
 - political

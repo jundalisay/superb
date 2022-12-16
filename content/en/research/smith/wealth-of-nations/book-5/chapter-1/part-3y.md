@@ -1,7 +1,7 @@
 ---
 title: "Austere vs Liberal Morals"
 heading: "Part 3y"
-date: 2020-01-29
+weight: 1
 image: "/covers/wn.jpg"
 description: "In every civilized society which has the distinction of ranks, there were always two systems of morality"
 icon: "/icons/smith.png"

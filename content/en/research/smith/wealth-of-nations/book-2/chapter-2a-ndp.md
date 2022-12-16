@@ -2,7 +2,8 @@
 heading: "Book 2, Chapter 2a"
 title: "Money as Part of the General Stock of Society"
 linkTitle: "Chapter 2a"
-date: 2020-01-28
+weight: 10
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
 icon: "/icons/smith.png"

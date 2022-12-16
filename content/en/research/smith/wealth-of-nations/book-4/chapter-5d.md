@@ -1,35 +1,31 @@
-+++
-title=  "Digression on the wheat trade and wheat laws=  Domestic wheat market"
-heading=  "Chapter 5d of Book 4 "
-description=  "The tonnage bounties given to the white-herring and whale-fisheries are examples of production bounties. They render those goods cheaper at home than normal."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-5c"
-linkbtext=  "Chapter 5c"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-5e"
-linkftext=  "Chapter 5e"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Digression on the wheat trade and wheat laws: Domestic wheat market"
+heading: "Chapter 5d"
+description: "The wheat merchant's trade is composed of 4 separate branches which can be done by the same person"
+image: /covers/wn.jpg
+weight: 32
+author: Adam Smith
+icons: /icons/smith.png
+--- 
 
 
 {{< s v="40" >}} The praises for the following are unmerited:
 - The law which establishes the wheat export bounty
 - The regulations connected with the bounty
 
-This is demonstrated by examining the nature of= 
-
-the wheat trade, and
-the British laws related to it
+This is demonstrated by examining the nature of:
+- the wheat trade, and
+- the British laws related to it
 
 This is a very important subject, justified by this long digression.
 
 
-{{< s v="41" >}} The wheat merchant's trade is composed of four separate branches which can be done by the same person= 
+{{< s v="41" >}} The wheat merchant's trade is composed of 4 separate branches which can be done by the same person:
 
-The trade of the inland dealer
-The merchant importer for home consumption
-The merchant exporter of home produce for foreign consumption
-The merchant carrier or importer and re-exporter of wheat
+1. The trade of the inland dealer
+2. The merchant importer for home consumption
+3. The merchant exporter of home produce for foreign consumption
+4. The merchant carrier or importer and re-exporter of wheat
 
 
 {{< s v="42" >}} The interest of the inland dealer is exactly the same with the people's interest even if it may appear opposite even in years of great scarcity.

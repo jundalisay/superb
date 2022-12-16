@@ -1,7 +1,7 @@
 ---
 title: "Educational Fees"
-heading: "Part 3zd of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3zd"
+weight: 1
 image: "/covers/wn.jpg"
 description: "The proper performance of every service requires that its pay be proportional to the nature of the service"
 author: Adam Smith

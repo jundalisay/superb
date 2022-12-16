@@ -2,7 +2,7 @@
 title: "The Pleasure of Mutual Sympathy"
 heading: "Chapter 2"
 description: "The Pleasure from Mutual Sympathy is not based on Self-Love, but from the similarity of the resonance of feelings"
-date: 2015-09-28
+weight: 6
 image: "/covers/tms.jpg"
 author: "Adam Smith"
 icon: /icons/smith.png

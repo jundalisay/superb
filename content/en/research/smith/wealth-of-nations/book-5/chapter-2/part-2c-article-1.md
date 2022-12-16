@@ -1,7 +1,7 @@
 ---
 title: "Variable Land Taxes"
 heading: "Chapter 2 Part 2c"
-date: 2020-12-27
+weight: 1
 image: "/covers/wn.jpg"
 description: "The cost of levying a variable land-tax would be greater than levying a fixed land-tax"
 icon: "/icons/smith.png"

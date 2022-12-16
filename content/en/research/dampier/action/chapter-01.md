@@ -4,7 +4,7 @@ title: "The Buccaneers"
 author: "William Dampier"
 description: "The Buccaneers—Navigation in the Seventeenth Century—Features of the Vocational Life of the Early Mariner"
 image: "/covers/action.png"
-date: 2022-11-30
+weight: 5
 ---
 
  
@@ -19,7 +19,7 @@ MACMILLAN AND CO. AND NEW YORK
 1894 -->
 
 
-CHAPTER II.
+<!-- CHAPTER II.
 Dampier's Early Life—Campeché—He joins the Buccaneers, 1652-1681	15
 CHAPTER III.
 Dampier's First Voyage round the World, 1681-1691	44
@@ -30,7 +30,7 @@ The Voyage of the “St. George,” 1702-1706-7	107
 CHAPTER VI.
 The Voyage With Woodes Rogers, 1708-1711	138[Pg vi]
 CHAPTER VII.
-Conclusion	183
+Conclusion	183 -->
 
 
 In or about the middle of the seventeenth century the island of San Domingo, or Hispaniola as it was then called, was haunted and overrun by a singular community of savage, surly, fierce, and filthy men. They were chiefly composed of French colonists, whose ranks had from time to time been enlarged by liberal contributions from the slums and alleys of more than one European city and town. These people went dressed in shirts and pantaloons of coarse linen cloth, which they steeped in the blood of the animals they slaughtered. They wore round caps, boots of hogskin drawn over their naked feet, and belts of raw hide, in which they stuck their sabres and knives. They also armed themselves with firelocks which threw a couple of balls, each weighing two ounces. The places where they dried and salted their meat were called boucans, and from this term they came to be styled bucaniers, or buccaneers, as we spell it. They were hunters by trade, and savages [Pg 2]in their habits. They chased and slaughtered horned cattle and trafficked with the flesh, and their favourite food was raw marrow from the bones of the beasts which they shot. They ate and slept on the ground, their table was a stone, their bolster the trunk of a tree, and their roof the hot and sparkling heavens of the Antilles.

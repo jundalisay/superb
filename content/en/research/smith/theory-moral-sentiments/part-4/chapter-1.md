@@ -1,15 +1,12 @@
-+++
-title=  "The Extensive Influence of the Beauty From Utility"
-heading=  "Chapter 1 Part 4 of The Theory of Moral Sentiments Simplified"
-description=  "Utility is one of the principal sources of beauty"
-date=  2015-09-30
-author= "Adam Smith"
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-3/chapter-6"
-linkbtext=  "Chapter 6"
-linkf=  "/research/smith/theory-moral-sentiments/part-4/chapter-2"
-linkftext=  "Chapter 2"
-+++
+---
+title: "The Extensive Influence of the Beauty From Utility"
+heading: "Chapter 1"
+description: "Utility is one of the principal sources of beauty"
+image: "/covers/tms.jpg"
+author: Adam Smith
+icons: /icons/smith.png
+weight: 10
+---
 
 
 {{< s v="1" >}} Utility is one of the principal sources of beauty.

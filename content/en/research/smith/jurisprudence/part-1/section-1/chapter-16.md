@@ -1,7 +1,8 @@
 ---
 heading: Chapter 16
 title: "The Rights of Subjects"
-date: 2015-09-04
+# date: 2015-09-04
+weight: 34
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

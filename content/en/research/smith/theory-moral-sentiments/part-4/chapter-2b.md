@@ -1,14 +1,10 @@
 ---
 title: "The Useful Virtues"
-heading: "Chapter 2b of The Theory of Moral Sentiments Simplified"
+heading: "Chapter 2b"
 description: "Humanity, justice, generosity, and public spirit, are the qualities most useful to others"
-date: 2022-01-28
+weight: 16
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-linkb: "/research/smith/theory-moral-sentiments/part-4/chapter-2"
-linkbtext: "Chapter 2"
-linkb: "/research/smith/theory-moral-sentiments/part-5"
-linkftext: "Chapter 1"
 icon: /icons/smith.png
 ---
 
@@ -43,7 +39,7 @@ We generous only when we=
 - prefer some other person to ourselves, and
 - sacrifice some of our great and important interest to an equal interest of a friend or superior.
 
-The following men do not act from humanity= 
+The following men do not act from humanity:
 - The man who gives up an office, that was the great object of his ambition, because he imagines that other men are better entitled to it.
 - The man who exposes his life to defend his friend's life, which he judges to be more important.
 
@@ -103,6 +99,7 @@ He might perceive a beauty of this kind in prudence, temperance, and good conduc
 He might view this with the same satisfaction as we have for a well-contrived machine.
 He might perceive a deformity in the opposite behaviour.
 He might view this with the same distaste as we have for a very clumsy contrivance.
+
 However, these perceptions are merely a matter of taste.
 They have all the feebleness and delicacy of taste.
 They would probably not be much attended to by someone in this solitary and miserable condition.

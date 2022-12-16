@@ -1,7 +1,8 @@
 ---
 title: "Public Works and Institutions"
 heading: "Chapter 1 Part 3a"
-date: 2020-12-14
+weight: 1
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The sovereign's third and last duty is building and maintaining advantageous public works and institutions for society"
 icon: "/icons/smith.png"

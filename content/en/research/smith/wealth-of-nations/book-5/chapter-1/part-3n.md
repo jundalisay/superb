@@ -1,7 +1,7 @@
 ---
 title: "The Board of Directors"
-heading: "Part 3n of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3n"
+weight: 1
 image: "/covers/wn.jpg"
 description: "Frequently a wealthy man is willing to buy £1,000 share in India stock merely to get a vote in its board of directors"
 author: Adam Smith

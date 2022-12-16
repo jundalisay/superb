@@ -1,25 +1,23 @@
-+++
-title=  "Commercial Treaties"
-heading=  "Chapter 6a of Book 4 "
-description=  "The tonnage bounties given to the white-herring and whale-fisheries are examples of production bounties. They render those goods cheaper at home than normal."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-5g"
-linkbtext=  "Chapter 5g"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-6b"
-linkftext=  "Chapter 6b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Commercial Treaties"
+heading: "Chapter 6a"
+description: "The tonnage bounties given to the white-herring and whale-fisheries are examples of production bounties. They render those goods cheaper at home than normal"
+image: /covers/wn.jpg
+weight: 40
+author: Adam Smith
+icons: /icons/smith.png
+---
 
 
-{{< s v="1" >}} The commerce of foreign merchants and manufacturers becomes so favoured when a nation= 
 
-enters a treaty that permits the entry of certain goods from that foreign country, while banning those from other countries
-exempts the goods of that foreign country from duties, while subjecting those of other countries.
+{{< s v="1" >}} The commerce of foreign merchants and manufacturers becomes so favoured when a nation:
+- enters a treaty that permits the entry of certain goods from that foreign country, while banning those from other countries
+- exempts the goods of that foreign country from duties, while subjecting those of other countries.
 
 Those foreign merchants and manufacturers derive great advantage from the treaty.
 
 They enjoy a monopoly in the country so indulgent to them.
+    
     That country becomes a more= 
         extensive market for their goods, and
             Other foreign goods are excluded or subjected to heavier duties.

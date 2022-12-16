@@ -1,7 +1,8 @@
 ---
-heading: Chapter 1c of Part 1 Section 2
+heading: Chapter 1c
 title: "Divorce"
-date: 2015-09-26
+weight: 10
+# date: 2015-09-26
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

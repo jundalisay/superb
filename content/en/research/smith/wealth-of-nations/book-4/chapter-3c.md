@@ -1,15 +1,13 @@
-+++
-title=  "The Unreasonableness of those extraordinary Restraints on other Principles"
-heading=  "Chapter 3c Part 2 of Book 4 "
-description=  "Nothing, however, can be more absurd than this whole doctrine of the balance of trade, on which these restraints and almost all the other regulations of commerce are founded"
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-3b"
-linkbtext=  "Chapter 3b"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-3d"
-linkftext=  "Chapter 3d"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Unreasonableness of those extraordinary Restraints on other Principles"
+heading: "Chapter 3c"
+description: "Nothing, however, can be more absurd than this whole doctrine of the balance of trade, on which these restraints and almost all the other regulations of commerce are founded"
+image: /covers/wn.jpg
+weight: 22
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
 
 
 {{< s v="30" >}} In Part 1, I showed how unnecessary it is to lay extraordinary restraints on foreign imports from those countries with a disadvantageous balance of trade, even on the principles of the commercial system.

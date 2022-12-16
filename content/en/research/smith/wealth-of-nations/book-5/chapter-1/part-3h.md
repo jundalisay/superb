@@ -1,7 +1,7 @@
 ---
 title: "The African Regulated Company of Merchants (1752-1821)"
-heading: "Part 3f of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3f"
+weight: 1
 image: "/covers/wn.jpg"
 description: "The 23rd of George 2nd chapter 31 established the African Company"
 author: Adam Smith

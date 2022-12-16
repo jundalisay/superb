@@ -1,7 +1,7 @@
 ---
 title: "Excise Taxes"
-heading: "Part 2r, Article 4 Simplified"
-date: 2020-11-30
+heading: "Part 2r, Article 4"
+weight: 1
 image: "/covers/wn.jpg"
 description: "High taxes frequently afford a smaller revenue to government than moderate taxes"
 icon: "/icons/smith.png"

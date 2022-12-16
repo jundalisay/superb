@@ -1,7 +1,8 @@
 ---
 heading: Chapter 1
 title: "The Original Principles of Government"
-date: 2015-09-30
+weight: 4
+# date: 2015-09-30
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

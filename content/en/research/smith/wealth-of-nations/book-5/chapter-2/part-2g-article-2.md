@@ -1,7 +1,7 @@
 ---
 title: "Taxes on Profit"
 heading: "Chapter 2g of Part 1b"
-date: 2020-12-19
+weight: 1
 image: "/covers/wn.jpg"
 description: "Profits on stock naturally divides itself into two"
 icon: "/icons/smith.png"

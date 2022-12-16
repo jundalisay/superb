@@ -1,7 +1,8 @@
 ---
 title: "Bank Notes vs Promissory Notes"
-heading: "Chapter 2n of Book 2"
-date: 2020-01-15
+heading: "Chapter 2n"
+weight: 36
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The Increase in Bank Notes does not increase inflation"
 icon: "/icons/smith.png"

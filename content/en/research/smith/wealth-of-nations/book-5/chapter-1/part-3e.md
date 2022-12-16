@@ -1,7 +1,7 @@
 ---
 title: "Private Regulated Companies Versus Joint Stock Companies"
-heading: "Part 3e of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3e"
+weight: 1
 image: "/covers/wn.jpg"
 description: "Private regulated companies are enlarged monopolies that resemble guilds or the corporations of trades. Such guilds are so common in all European cities."
 author: Adam Smith

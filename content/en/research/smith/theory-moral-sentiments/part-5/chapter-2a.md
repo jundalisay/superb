@@ -1,20 +1,16 @@
+---
+title: "The Influence of Custom on Morals"
+heading: "Chapter 2a"
+description: "Our feelings on beauty are so much influenced by custom and fashion, that the beauty of conduct is also influenced. However, this influence seems much less than it is everywhere else"
+weight: 24
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
 
 
 
-+++
-title=  "The Influence of Custom on Morals"
-heading=  "Chapter 2a"
-description=  "Our feelings on beauty are so much influenced by custom and fashion, that the beauty of conduct is also influenced. However, this influence seems much less than it is everywhere else"
-date=  2015-09-28
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-5/chapter-1b"
-linkbtext=  "Chapter 1b"
-linkf=  "/research/smith/theory-moral-sentiments/part-5/chapter-2b"
-linkftext=  "Chapter 2b"
-+++
-
-
-11 Our feelings on beauty are so much influenced by custom and fashion, that the beauty of conduct is also influenced. However, this influence seems much less than it is everywhere else. 
+{{< s v="11" >}} Our feelings on beauty are so much influenced by custom and fashion, that the beauty of conduct is also influenced. However, this influence seems much less than it is everywhere else. 
 - Custom and fashion can make any physical thing agreeable, no matter how absurd.
 - But custom and fashion can never make a character like Nero or Claudius agreeable
   - Nero will always be dreaded and hated.

@@ -1,23 +1,22 @@
-+++
-title=  "Appendix"
-heading=  "Chapter 5g of Book 4 "
-description=  "The two following Accounts are joined to illustrate Chapter 5 on the Tonnage bounty to the White Herring Fishery"
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-5f"
-linkbtext=  "Chapter 5f"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-6a"
-linkftext=  "Chapter 6a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Appendix"
+heading: "Chapter 5g"
+description: "The two following Accounts are joined to illustrate Chapter 5 on the Tonnage bounty to the White Herring Fishery"
+image: /covers/wn.jpg
+weight: 38
+author: Adam Smith
+icons: /icons/smith.png
+--- 
 
 
-The two following Accounts are joined to illustrate what is said in the Book 4, Chapter 5 on the Tonnage bounty to the White Herring Fishery.
+
+The 2 following Accounts are joined to illustrate what is said in the Book 4, Chapter 5 on the Tonnage bounty to the White Herring Fishery.
 
 An Account of Busses fitted out in Scotland for 11 Years, with the Number of Empty Barrels carried out, and the Number of Barrels of Herrings caught; also the Bounty at a Medium on each Barrel of Seasteeks, and on each Barrel when fully packed.
 
 
 Years |	Number of Busses | Empty Barrels carried out | Barrels of Herrings caught | Bounty paid on the Busses in pence
+--- | --- | --- | --- | --- 
 1771 | 29 | 5,948 | 2,832 | 500,160
 1772 | 168 | 41,316 | 22,237 | 11,055 |	7 |	6
 1773 | 190 | 42,333 | 42,055 | 12,510 |	8 |	6
@@ -29,9 +28,9 @@ Years |	Number of Busses | Empty Barrels carried out | Barrels of Herrings caugh
 1779 | 206 | 55,194 | 29,367 | 15,287 |	0 |	0
 1780 | 181 | 48,315 | 19,885 | 13,445 |	12 | 6
 1781 | 135 | 33,992 | 16,593 | 9,613 | 12 |	6
-Total, 	2186 	550943 	378347 	155463 	11 	0
-Seasticks 	378347 	Bounty at a medium for each barrel of seasticks 	£. 	0 	8 	2¼
+Total | 2186 | 550,943 | 378,347 | 155,463 | 11 | 0
 
+Seasticks  	378347 	Bounty at a medium for each barrel of seasticks 	£. 	0 	8 	2¼
 
 But a barrel of seasticks being only reckoned 2/3 of a barrel fully packed, 1/3 is deducted 1/3 deducted 	126115 2/3 	which brings the bounty to 	£. 	0 	12 	3¾ Barrels full packed, 	252231 1/3
 And if the herrings are exported, there is besides a premium of 		0 	2 	8
@@ -67,7 +66,8 @@ Though the loss of duties upon herrings exported cannot, perhaps, properly be co
 An Account of the Quantity of Foreign Salt imported into Scotland, and of Scots Salt delivered duty free from the Works there for the Fishery, from the 5th of April 1771 to the 5th of April 1782, with a Medium of both for one year.
 PERIOD. 	Foreign Salt imported 	Scots Salt delivered from the Works
 Bushels. 	Bushels.
+
 From the 5th of April 1771, to the 5th of April 1782. 	936,974 	168,226
 Medium for one Year 	85,179 5/11 	15,293 3/11
 
-It is to be observed that the Bushel of Foreign Salt weighs 84 lb. that of British Salt 56 lb. only.
+The Bushel of Foreign Salt weighs 84 lb. that of British Salt 56 lb. only.

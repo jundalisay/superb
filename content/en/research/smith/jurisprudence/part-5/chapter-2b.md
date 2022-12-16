@@ -1,20 +1,19 @@
-+++
-title=  "How Catholicism Changed the Rules of War"
-heading=  "Chapter 2b "
-description=  "The Holy War was then undertaken by most of the European princes. It made them turn their arms against people of a different religion. They thought those people deserved to be treated most cruelly"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-5/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/jurisprudence/part-5/chapter-3"
-linkftext=  "Chapter 3"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 3
+title: "How Catholicism Changed the Rules of War"
+weight: 14
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The Holy War was then undertaken by most of the European princes. It made them turn their arms against people of a different religion. They thought those people deserved to be treated most cruelly"
+---
+
+
 
 
 **This superior degree of humanity in war was introduced during the time of Popery.**
 
-> *Superphyics Note: Catholicism
+> *Superphysics Note: Catholicism
 
 
 We never find it among the Greeks and Romans, despite all their attainments.
@@ -90,3 +89,4 @@ It is different now.
 This is a much better practice than the ancient one.
 
 Modern armies also are less irritated at one another because firearms keep them farther. When they always fought with swords, their rage and fury were raised to the highest pitch. The slaughter was vastly greater since they were mixed with one another.
+

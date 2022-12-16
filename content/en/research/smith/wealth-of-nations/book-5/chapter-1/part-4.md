@@ -1,7 +1,7 @@
 ---
 title: "The Expense of supporting the Sovereign's Dignity"
-heading: "Part 4 of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 4"
+weight: 1
 image: "/covers/wn.jpg"
 description: "The sovereign also needs a certain expence to support his dignity"
 author: Adam Smith

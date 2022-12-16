@@ -2,7 +2,7 @@
 heading: "Chapter 4b"
 title: "Interest Rates"
 linkTitle: "Chapter 4b"
-date: 2020-01-09
+weight: 52
 image: "/covers/wn.jpg"
 description: "Should interest rates be regulated?"
 author: Adam Smith

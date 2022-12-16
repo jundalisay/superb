@@ -1,7 +1,7 @@
 ---
 title: "Appendix to Articles 1 and 2-Capital Taxes"
 heading: "Part 2, Article 2"
-date: 2020-12-13
+weight: 1
 image: "/covers/wn.jpg"
 description: "While property remains with the same person, its taxes never aim to reduce or take away its capital value"
 icon: "/icons/smith.png"

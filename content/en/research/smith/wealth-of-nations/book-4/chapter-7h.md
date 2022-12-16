@@ -2,13 +2,10 @@
 heading: "Chapter 7h"
 title: "The Effects of Monopoly -- Spain and Portugal"
 linkTitle: "Chapter 7h"
-date: 2020-03-23
+weight: 1
 image: "/covers/wn.jpg"
 description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
-linkb: "/research/smith/wealth-of-nations/book-2/"
-linkbtext: "Book 2"
-linkf: "/research/smith/wealth-of-nations/book-2/chapter-1b-fixed"
-linkftext: "chapter 1b"
+author: Adam Smith
 icon: "/icons/smith.png"
 ---
 

@@ -1,7 +1,8 @@
 ---
 heading: Chapter 1b of Part 1 Section 2
 title: "Polygamy"
-date: 2015-09-28
+weight: 8
+# date: 2015-09-28
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

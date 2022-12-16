@@ -1,32 +1,33 @@
-+++
-title=  "Stock-jobbing"
-heading=  "Chapter 4 Part 4"
-description=  "Stock-jobbing is the same as gaming"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-3/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/jurisprudence/part-3/chapter-5"
-linkftext=  "Chapter 5"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 4
+title: "Stock-jobbing"
+# date: 2015-09-10
+weight: 12
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Stock-jobbing is the same as gaming"
+---
+
+
 
 
 The practice of stock-jobbing is the buying stocks by time.
 
 It also has a very big influence on the rise and fall of stocks.
-A man who only has £1,000 subscribes for £100,000, which is delivered= 
+
+A man who only has £1,000 subscribes for £100,000, which is delivered:
 - at several fixed times, and
 - in certain portions.
 
-He hopes to sell these portions at profit by the rising of the stocks before they fall.
-But since his worth would go down if the stocks fall, he does everything to make them rise.
-He spreads reports at Change Alley that= 
+He hopes to sell these portions at profit by the rising of the stocks before they fall. But since his worth would go down if the stocks fall, he does everything to make them rise.
+
+He spreads reports at Change Alley that:
 - victories are gained,
 - peace is to be concluded, etc.1
 
 On the other hand, those who want to buy a stock want it to fall.
-They propagate reports that will sink the stocks as low as possible, such as= 
+They propagate reports that will sink the stocks as low as possible, such as:
 - the continuation of war
 - the planning of new subscriptions, etc.
 
@@ -50,6 +51,6 @@ It is unnecessary to give any account of particular funds, as they are all of=
 
 If the interest is not paid by the funds allotted for that purpose, it is paid out of the sinking fund. The sinking fund is the surplus fund of all the rest. There is perhaps some small difference in the facility of payment.
 
-But it= 
+But it:
 - is not considerable, and
 - does not merit our attention.

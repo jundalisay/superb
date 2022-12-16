@@ -1,7 +1,8 @@
 ---
 title: "Mistakes in Judging Wheat and Silver Prices"
-heading: "Part 3b of Chapter 11 of Book 1"
-date: 2015-09-22
+heading: "Part 3b"
+weight: 18
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Historians made mistakes in Judging Wheat and Silver Prices because they were lazy and because rents were paid in kind"
 icon: "/icons/smith.png"

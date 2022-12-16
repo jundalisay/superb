@@ -1,16 +1,15 @@
-+++
-title=  "The Natural Wants of Mankind"
-heading=  "Chapter 1 of Part 2 Section 2"
-description=  "Cheapness or plenty is the most proper way of procuring wealth and abundance"
-date=  2015-09-30
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2"
-linkbtext=  "Section 2"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-2"
-linkftext=  "Chapter 2"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 1
+title: "The Natural Wants of Mankind"
+# date: 2015-09-10
+weight: 6
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Cheapness or plenty is the most proper way of procuring wealth and abundance"
+---
+
+
 
 Cheapness or plenty is the most proper way of procuring wealth and abundance.
 

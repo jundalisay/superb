@@ -2,7 +2,8 @@
 title: "Gravity and Mass"
 description: "Newton and the Shape of the Planets as Oblate Spheroids"
 image: /covers/astronomy.jpg
-date: 2022-09-20
+weight: 14
+# date: 2022-09-20
 ---
 
 

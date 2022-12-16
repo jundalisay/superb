@@ -1,12 +1,12 @@
 ---
 title: "Vineyards, Sugar, Tobacco, Potatoes, Oats"
-heading: "Part 1b of Chapter 11 of Book 1"
-date: 2015-09-28
+heading: "Part 1b"
+weight: 6
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "An undoubted maxim in ancient agriculture and in all the modern wine countries was that the perfected vineyard was the most valuable part of the farm"
 icon: "/icons/smith.png"
 ---
-
 
 
 ## Vineyards

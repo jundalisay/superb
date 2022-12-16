@@ -1,7 +1,8 @@
 ---
 heading: Chapter 14
 title: "The Rights of Sovereigns"
-date: 2015-09-06
+# date: 2015-09-06
+weight: 30
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

@@ -1,7 +1,8 @@
 ---
 heading: Chapter 10
 title: "How the English Government became Absolute"
-date: 2015-09-14
+# date: 2015-09-14
+weight: 22
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

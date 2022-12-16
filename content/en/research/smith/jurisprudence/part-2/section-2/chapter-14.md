@@ -1,13 +1,11 @@
 ---
 title: "The Rate of Interest"
-heading: "Chapter 14 of Part 2 Section 2"
+heading: "Chapter 14"
 description: "It is commonly supposed that the premium of interest depends on the value of gold and silver. The value of these are regulated by their quantity. As the quantity increases, the value diminishes. As the quantity decreases, the value rises"
-date: 2015-09-17
+# date: 2015-09-17
 image: "/covers/lectures.jpg"
-linkb: "/research/smith/jurisprudence/part-2/section-2/chapter-13"
-linkbtext: "Chapter 13"
-linkf: "/research/smith/jurisprudence/part-2/section-2/chapter-15"
-linkftext: "Chapter 15"
+weight: 32
+author: Adam Smith
 ---
 
 <!-- 
@@ -41,4 +39,3 @@ A loan is usually done in money. But this is immediately turned into stock, and 
 **The rate of interest is entirely regulated by this circumstance.**
 
 If there were so many borrowers but only a few lenders then interest would be high. But if the amount of stock on hand were so great as to enable many to lend, then it would fall proportionably.
-

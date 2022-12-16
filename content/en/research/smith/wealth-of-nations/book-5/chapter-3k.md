@@ -1,7 +1,7 @@
 ---
 title: "Ireland and America"
 heading: "Chapter 3k"
-date: 2020-01-29
+weight: 1
 image: "/covers/wn.jpg"
 description: "Ireland and America should help reduce Great Britain's public debt"
 icon: "/icons/smith.png"

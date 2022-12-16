@@ -1,7 +1,7 @@
 ---
 title: "The Raw Produce Which Not Always Affords Rent"
 heading: "Part 2a of Chapter 11 of Book 1"
-date: 2015-09-27
+weight: 8
 image: "/covers/wn.jpg"
 description: "Animal Skin and Timber"
 icon: "/icons/smith.png"
@@ -30,6 +30,7 @@ There is frequently a demand for more, so their price starts to afford rent
 Hunters and shepherds can have more animal clothing than they can wear.
 If there was no foreign commerce, most would be thrown away.
 This probably was the case among the hunting nations of North America.
+
 Now those nations exchange their surplus peltry, for blankets, firearms, and brandy, which gives those skins some value.
 The most barbarous nations currently have some foreign commerce of this kind.
 They find a demand for their excess clothing among their wealthier neighbours.
@@ -49,6 +50,7 @@ They do not so readily become part of foreign commerce.
 When they are super-abundant, they are frequently of no value to the landlord.
 A good stone quarry near London would afford a considerable rent.
 But in Scotland and Wales it affords none.
+
 Timber is valueable in a populous and well-cultivated country and affords a big rent.
 But in North America, the landlord wants to get rid of his large trees.
 In some parts of the highlands of Scotland, only the bark can be sent to market due to the lack or roads and water-carriage.

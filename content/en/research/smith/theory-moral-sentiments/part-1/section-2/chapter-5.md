@@ -1,14 +1,11 @@
 ---
-title: "The Selfish  Feelings"
-heading: "Chapter 5 Part 1 of The Theory of Moral Sentiments Simplified"
+title: "The Selfish Feelings"
+heading: "Chapter 5"
 description: "The Selfish feelings are in between the Social and Unsocial feelings"
-date: 2022-01-27
+# date: 2022-01-27
+weight: 12
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-linkb:  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-4"
-linkbtext:  "Chapter 4"
-linkf:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-1"
-linkftext:  "Chapter 1"
 icon: /icons/smith.png
 ---
 
@@ -33,7 +30,7 @@ Envy prevents us from heartily sympathizing with great joys.
 - An upstart is generally disagreeable even if he is of the greatest merit. 
 - The man who suddenly is lifted up into a better life, are congratulated by his best friends who are not all perfectly sincere.
   - If he is sensible of this, he will choose not appear elated with his good fortune.
-  - He will try to= 
+  - He will try to: 
     - smother his joy, and
     - keep down as much as he can that elevation of mind naturally inspired by his new circumstances.
 
@@ -59,7 +56,7 @@ Human happiness chiefly arises from being beloved. If this were true, those sudd
 
 {{< s v="33" >}} However, mankind more readily sympathizes with those smaller joys flowing from less important causes.
 
-It is decent to be humble amidst great prosperity. But we cannot express too much satisfaction in the little occurrences of common life, such as= 
+It is decent to be humble amidst great prosperity. But we cannot express too much satisfaction in the little occurrences of common life, such as:
 - in the company with which we spent last night
 - in the entertainment we saw,
 - in what was said or done,
@@ -124,3 +121,4 @@ Hence we delight in:
 But your friends will make fun of you if your misfortune is not as dreadful, such as if you= 
 - have only been a little baulked in your ambition, and
 - have only been jilted by your mistress or hen-pecked by your wife.
+

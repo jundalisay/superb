@@ -1,15 +1,13 @@
-+++
-title=  "The Money Price of Grains Regulates The Money Price of All Commodities"
-heading=  "Chapter 5a of Book 4 "
-description=  "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-5c"
-linkftext=  "Chapter 5c"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Money Price of Grains Regulates The Money Price of All Commodities"
+heading: "Chapter 5b"
+description: "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints"
+image: /covers/wn.jpg
+weight: 28
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
 
 
 {{< s v="11" >}} The real effect of the bounty is not so much to raise the real value of wheat as to degrade the real value of silver.
@@ -25,13 +23,15 @@ The money price of labour must always enable the labourer to buy sufficient whea
 
 The money price of all other rude produce must bear a certain proportion to the money price of wheat.
     Though this proportion is different in different periods of improvement.
-For example, the money price of wheat regulates the money price of= 
-    grass and hay,
-    meat,
-    horses,
-        the maintenance of horses
-    land carriage, and
-    most of the inland commerce of the country.
+
+For example, the money price of wheat regulates the money price of:
+- grass and hay,
+- meat,
+- horses,
+  - the maintenance of horses
+- land carriage, and
+- most of the inland commerce of the country.
+
 
 {{< s v="14" >}} By regulating the money price of all other rude produce of land, the money price of wheat regulates the materials of almost all manufactures.
 

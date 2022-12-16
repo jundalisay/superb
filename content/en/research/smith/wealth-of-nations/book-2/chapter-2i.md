@@ -1,7 +1,8 @@
 ---
 title: "The Ayr Bank"
 heading: "Chapter 2i of Book 2"
-date: 2020-01-24
+weight: 26
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The Ayr Bank failed because it was too big to fail"
 icon: "/icons/smith.png"

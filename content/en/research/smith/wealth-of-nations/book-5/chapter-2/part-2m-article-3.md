@@ -1,7 +1,7 @@
 ---
 title: "General taxes -- Capitation Taxes Simplified"
 heading: "Part 2m, Article 2"
-date: 2020-12-07
+weight: 1
 image: "/covers/wn.jpg"
 description: "Taxes which should fall indifferently on every Species of Revenue"
 icon: "/icons/smith.png"

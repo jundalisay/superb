@@ -1,20 +1,19 @@
-+++
-title=  "Taxes on Possessions"
-heading=  "Chapter 1 Part 3 of Lectures on Jurisprudence by Adam Smith"
-description=  "In all barbarous countries, lands are appropriated to the purposes of sovereignty. These therefore have little occasion for taxes and customs duties"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-16"
-linkbtext=  "Chapter 16"
-linkf=  "/research/smith/jurisprudence/part-3/chapter-2"
-linkftext=  "Chapter 2"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 1
+title: "Taxes on Possessions"
+# date: 2015-09-10
+weight: 6
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "In all barbarous countries, lands are appropriated to the purposes of sovereignty. These therefore have little occasion for taxes and customs duties"
+---
+
 
 
 After the appropriation of land property, some lands were commonly assigned to maintain the government. The free states of Greece had land set apart for this purpose.
 
-Aristotle thought that private property should surround the royal lands because= 
+Aristotle thought that private property should surround the royal lands because:
 - the people near a city were always for war,
 - they were sure of defence, and
 - the enemy would first come upon those lands near the boundaries
@@ -49,7 +48,7 @@ taxes on consumption.
 Examples are all taxes on commodities
 These are the two ways of making the subjects contribute to the support of government.
 
-There are three kinds of possessions= 
+There are 3 kinds of possessions:
 1. Land
 2. Stock
 3. Money
@@ -60,12 +59,14 @@ It can create very bad consequences by ruining his credit. The circumstances of 
 But if because this difficulty you were to tax land, and neither tax money nor stock, you would do a very great injustice.
 But though it be a difficult thing to tax money or stock without being oppressive, yet this method is used in several countries.
 In France, for example, in order to ascertain the circumstances of the subject, every bill is assigned, and all business transacted in presence of a public notary, and entered into his books, so that land, stock, and money are there all taxed in the same manner.
+
 Of these three only land is taxed in England, because to tax the other two has some appearance of despotism, and would greatly enrage a free people.
 Excepting the land tax, our taxes are generally upon commodities, and in these there is a much greater inequality than in the taxes on land possession.
+
 The consumptions of people are not always according to what they possess, but in proportion to their liberality.
 When taxes are laid upon commodities, their prices must rise, the concurrence of tradesmen must be prevented, an artificial dearth occasioned, less industry excited, and a smaller quantity of goods produced.2
 
-Taxes upon land possessions have this great advantage, that they are levied without any great expense;
+Taxes upon land possessions have this great advantage, that they are levied without any great expense.
 - the whole land tax of England does not cost the government above eight or ten thousand pounds.
 
 Collectors are chosen by the gentlemen of the county, and are obliged to produce proper security for their carrying safely to the exchequer the money which they collect.

@@ -1,11 +1,12 @@
-+++
-title=  "Introduction"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-# image=  "https= //sorasystem.sirv.com/books/life.jpg"
-description=  "The rules which nations should observe, or do observe with one another, cannot be treated so accurately as private or public law"
-link=  "/research/smith/jurisprudence/part-5"
-+++
+---
+title: "Introduction"
+weight: 9
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The rules which nations should observe, or do observe with one another, cannot be treated so accurately as private or public law"
+---
+
 
 The rules which nations should observe, or do observe with one another, cannot be treated so accurately as private or public law.
 
@@ -18,17 +19,18 @@ But with respect to the laws of nations, we cannot mention any one regulation=
 - observed at all times.
 
 Where there is no supreme legislative power nor judge to settle differences, we may always expect uncertainty and irregularity. The laws of nations take place in peace or war.
-w
+
 Those that take place in peacetime have been explained.
 With respect to aliens, those laws entitle them to security as to their persons and effects.
+
 But they have no power to make a will.
 All goes to the sovereign at their death.
 
-The laws or rules observed in wartime shall be considered in the following order= 
-What is a just cause of war, or quando liceat bellare in Latin ?
-What is lawful for one nation to do to another in wartime, or quantum liceat in bello?
+The laws or rules observed in wartime shall be considered in the following order:
+- What is a just cause of war, or quando liceat bellare in Latin ?
+- What is lawful for one nation to do to another in wartime, or quantum liceat in bello?
 
-We shall consider= 
+We shall consider: 
 - the differences between the ancient and modern governments, and
 - the great modifications of modern governments.
 

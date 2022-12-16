@@ -1,7 +1,7 @@
 ---
 title: "Church Politics"
-heading: "Part 3za of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3za "
+weight: 1
 image: "/covers/wn.jpg"
 description: "In the Christian church's ancient constitution, the bishop of each diocese was elected by the joint votes of the clergy"
 author: Adam Smith

@@ -1,7 +1,7 @@
 ---
 title: "The Dangers of Overcirculation"
-heading: "Chapter 2f of Book 2"
-date: 2020-01-24
+heading: "Chapter 2f"
+weight: 20
 image: "/covers/wn.jpg"
 description: "A bank also spends to keep a large amount at all times in its coffers for answering the occasional demands of the holders of its notes"
 icon: "/icons/smith.png"

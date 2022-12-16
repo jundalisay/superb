@@ -1,7 +1,8 @@
 ---
 title: "Kinds of Paper Money"
-heading: "Chapter 2c of Book 2 "
-date: 2020-01-26
+heading: "Chapter 2c"
+weight: 14
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Bank notes and cash accounts are the two kinds of paper money"
 icon: "/icons/smith.png"

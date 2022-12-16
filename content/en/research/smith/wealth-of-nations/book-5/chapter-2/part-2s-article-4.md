@@ -1,7 +1,7 @@
 ---
 title: "Liquor Taxes"
 heading: "Part 2s, Article 4 Simplified"
-date: 2020-11-27
+weight: 1
 image: "/covers/wn.jpg"
 description: "In Great Britain, liquors for private use are not liable to any excise duties"
 icon: "/icons/smith.png"

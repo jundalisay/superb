@@ -1,7 +1,8 @@
 ---
 title: "Advantages of Bank Prudence"
 heading: "Chapter 2g of Book 2"
-date: 2020-01-24
+weight: 22
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Prudent banks were able to reduce their expenses, judge their debtors' situation, and avoid financial crises"
 icon: "/icons/smith.png"

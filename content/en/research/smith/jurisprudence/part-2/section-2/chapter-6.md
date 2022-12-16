@@ -1,15 +1,14 @@
-+++
-title=  "The Division Of Labour Must Be Proportional To The Extent Of Commerce"
-heading=  "Chapter 6 of Lectures on Jurisprudence Part 3"
-description=  "The division of labour always becomes more perfect by the easy method of transportation"
-date=  2015-09-25
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-7"
-linkftext=  "Chapter 7"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 6
+title: "The Division Of Labour Must Be Proportional To The Extent Of Commerce"
+weight: 16
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The division of labour always becomes more perfect by the easy method of transportation"
+---
+
+
 
 The division of labour must always be proportioned to the extent of commerce.
 
@@ -29,7 +28,7 @@ It can be done in a shorter time than by 100 wagons which will take six horses a
 
 Thus, the division of labour is the great cause of the increase of public opulence. The public opulence is always proportioned to the people's industry and not to the amount of gold and silver, as is foolishly imagined. The people's industry is always proportioned to the division of labour.
 
-Next we will consider= 
+Next we will consider:
 - how do the price of commodities come about
 - money in two different views, as the measure of value and as the tool of trade
 - the causes of the slow progress of opulence in ancient and modern times which affect either agriculture or arts and manufactures

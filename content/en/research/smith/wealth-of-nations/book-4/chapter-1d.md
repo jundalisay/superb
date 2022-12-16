@@ -1,15 +1,14 @@
-+++
-title=  "Trade"
-heading=  "Chapter 1d of Book 4 "
-date=  2020-03-28
-image=  "/covers/wn.jpg"
-description=  "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-1c"
-linkbtext=  "Chapter 1c"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-2a"
-linkftext=  "Chapter 2a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Trade"
+heading: "Chapter 1d"
+description: "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
+image: /covers/wn.jpg
+weight: 8
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
+
 
 
 {{< s v="31" >}} The importation of gold and silver is not the sole benefit from foreign trade. All nations derive two benefits from it:
@@ -68,7 +67,7 @@ The discovery of America improved European productivity.
 A new set of mutually-beneficial exchanges began which was never thought of before.
 - However, the Europeans' savage injustice rendered this event ruinous to several American countries.
 
-<br>
+
 
 ## The Effect of Portugal's Monopoly of the East
 
@@ -168,7 +167,7 @@ Encouragements to exportation
 
 {{< s v="38" >}} Restraints on the imports of goods from countries with which the balance of trade was disadvantageous.
 
-{{< s v="39" >}}Those different restraints consisted sometimes in high duties, sometimes in absolute prohibitions.
+{{< s v="39" >}} Those different restraints consisted sometimes in high duties, sometimes in absolute prohibitions.
 
 {{< s v="40" >}} Exportation was encouraged sometimes by:
 - drawbacks
@@ -181,15 +180,15 @@ Encouragements to exportation
 When the home manufactures were subject to any duty or excise, all or a part of it was frequently drawn back on exportation.
 When foreign goods liable to a duty were imported to be exported again, all or a part of this duty was sometimes given back on exportation.
 
-42 Bounties were given for= 
+{{< s v="42" >}} Bounties were given for:
 - the encouragement of some startup manufactures
 - industries which deserved particular favour
 
-43 Particular privileges were given to some foreign countries for their merchants or their goods, through advantageous commercial treaties.
+{{< s v="43" >}} Particular privileges were given to some foreign countries for their merchants or their goods, through advantageous commercial treaties.
 
-44 Particular privileges and a monopoly was frequently given for the goods and merchants of the country which established colonies in distant countries.
+{{< s v="44" >}} Particular privileges and a monopoly was frequently given for the goods and merchants of the country which established colonies in distant countries.
 
-45 The commercial system proposes to increase the amount of gold and silver in any country by turning the balance of trade in its favour, through six principal means= 
+{{< s v="44" >}} The commercial system proposes to increase the amount of gold and silver in any country by turning the balance of trade in its favour, through 6 principal means:
 
 1. Import Restraint 1=  Ordinary (Chapter 2)
 2. Import Restraint 2=  Extraordinary (Chapter 3)

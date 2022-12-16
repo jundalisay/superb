@@ -1,22 +1,19 @@
+---
+title: "The Amiable and Respectable Virtues"
+heading: "Chapter 5"
+description: "Amiable Virtues are based on the ability of a person to make his feelings accommodate others; Respectable Virtues are based on the ability of a person to control his own feelings"
+weight: 12
+image: "/covers/tms.jpg"
+author: "Adam Smith"
+icon: /icons/smith.png
+---
 
 
-+++
-title=  "The Amiable and Respectable Virtues"
-heading=  "Chapter 5 of The Theory of Moral Sentiments Part 1 Section 1"
-description=  "Amiable Virtues are based on the ability of a person to make his feelings accommodate others; Respectable Virtues are based on the ability of a person to control his own feelings"
-date=  2015-10-27
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-1/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-1"
-linkftext=  "Section 2"
-+++
-
-40 Two sets of virtues are founded on these two efforts= 
+{{< s v="40" >}} Two sets of virtues are founded on these 2 efforts:
 
 1. The observer's effort to enter into the observee's feelings 
 
-On this effort is founded= 
+On this effort is founded: 
 - the soft, gentle, amiable virtues, and
 - the virtues of candid condescension and indulgent humanity.
 
@@ -26,11 +23,12 @@ From this effort originates the respectable virtues of self-denial and self-cont
 - These subject our nature to what our own dignity, honour, and proper conduct requires.
 
 
-41 A man is very amiable if his sympathetic heart= 
-- echoes all the feelings of the people he converses with,
-- grieves for their calamities,
+
+{{< s v="41" >}} A man is very amiable if his sympathetic heart:
+- echoes all the feelings of the people he converses with
+- grieves for their calamities
 - resents their injuries, and
-- rejoices at their good fortune.
+- rejoices at their good fortune
 
 When we bring ourselves the situation of his companions, we understand their gratitude to him for his tender sympathy.
 
@@ -39,7 +37,8 @@ A man is disagreeable if his hard heart feels for himself only and is insensible
 <!-- , especially with the unfortunate and the injured.
 We are most apt to sympathize with them. -->
 
-42 On the other hand, we feel noble propriety and grace in those who exert self-command= 
+
+{{< s v="42" >}} On the other hand, we feel noble propriety and grace in those who exert self-command= 
 - for the dignity of every passion, and
 - for others to enter into it.
 
@@ -54,19 +53,20 @@ We regard it with respectful attention.
 We watch our behaviour, lest we should disturb that tranquillity by any impropriety.
  -->
 
-43 In the same way, the insolence and brutality of unrestrained anger is most detestable.
+
+{{< s v="43" >}} In the same way, the insolence and brutality of unrestrained anger is most detestable.
 
 But we admire that noble resentment that seeks justice for injuries.
 - It naturally calls forth the indignation and anger in the impartial spectator's breast.
 <!-- - That indignation only brings out actions that are required by the anger. -->
-- But this anger never= 
+- But this anger never: 
  - attempts any greater vengeance,
  - wants to inflict more punishment, than what every indifferent person wants to see.
 
 
 ### The Perfection of Human Nature is in feeling for others while restraining ourselves.
 
-44 Hence, the perfection of human nature is= 
+{{< s v="44" >}} Hence, the perfection of human nature is:
 - in feeling much for others and little for ourselves, and 
 - in restraining our selfish and to indulge our benevolent affections
 
@@ -76,7 +76,7 @@ Only these can produce that harmony of feelings.
   - as we love our neighbour, 
   - as our neighbour is capable of loving us.
 
-45 Good taste and good judgement imply= 
+{{< s v="45" >}} Good taste and good judgement imply:
 - a delicacy of sentiment, and
 - an uncommon acuteness of understanding.
 
@@ -98,14 +98,16 @@ The amiable virtues have a sensibility which has exquisite delicacy and tenderne
 The respectable virtues have a self-command which governs human passions.
 
 
-46 In this respect, there is a big difference between virtue and mere propriety.
+{{< s v="46" >}} In this respect, there is a big difference between virtue and mere propriety.
 - Virtues are qualities and actions which deserve admiration and celebration.
 - Propriety simply deserves approval.
 
 Often, ordinary sensibility or self-command is enough for us to act properly. For example, to eat when we are hungry is perfectly proper, but not virtuous.
 
 
-47 On the contrary, there might be much virtue in actions which are not perfectly proper, because the situation itself might render perfection impossible. This often happens in situations which require the greatest self-command. In those cases, the sufferer's behaviour is not perfectly proper, though it may still deserve some applause.
+{{< s v="47" >}} On the contrary, there might be much virtue in actions which are not perfectly proper, because the situation itself might render perfection impossible. 
+
+This often happens in situations which require the greatest self-command. In those cases, the sufferer's behaviour is not perfectly proper, though it may still deserve some applause.
 <!-- Some situations are so hard on human nature, that the greatest self-control is unable to= 
 - stifle human weakness or
 - reduce our feelings so that the impartial spectator can enter into them. -->
@@ -115,7 +117,7 @@ Often, ordinary sensibility or self-command is enough for us to act properly. Fo
 - It might be as close to perfect for such trying occasions.
 
 
-48 In such cases, we frequently use two different standards to determine the judgment on any action= 
+{{< s v="48" >}} In such cases, we frequently use two different standards to determine the judgment on any action= 
 
 1. The idea of complete propriety and perfection, which no human can attain in those difficult situations
 
@@ -129,7 +131,7 @@ Often, ordinary sensibility or self-command is enough for us to act properly. Fo
 
 ### Moral Relativity
 
-49 In the same way, we judge works of art which address themselves to the imagination. When a critic examines a great master's poetry or painting, he may sometimes examine it by an idea of perfection in his own mind= 
+{{< s v="49" >}} In the same way, we judge works of art which address themselves to the imagination. When a critic examines a great master's poetry or painting, he may sometimes examine it by an idea of perfection in his own mind:
 - He compares the work with his standards and sees only faults and imperfections.
 - But when he considers it relative to other works of the same kind, he compares it with a very different standard.
 

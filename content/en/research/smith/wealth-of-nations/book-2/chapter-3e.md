@@ -2,7 +2,7 @@
 heading: "Chapter 3e"
 title: "Austerity Versus Public Spending"
 linkTitle: "Chapter 3e"
-date: 2020-01-09
+weight: 48
 image: "/covers/wn.jpg"
 description: "Austerity Versus Public Spending"
 author: Adam Smith

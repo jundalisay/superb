@@ -1,14 +1,14 @@
-+++
-title=  "Home Trade, Foreign Trade, Carrying Trade"
-description=  "Three types of trade are the Home Trade, Foreign Trade, Carrying Trade"
-date=  2020-01-05
-image=  "/covers/wn.jpg"
-linkbtext=  "Chapter 5a"
-linkb=  "/research/smith/wealth-of-nations/book-2/chapter-5a"
-linkftext=  "Chapter 5c"
-linkf=  "/research/smith/wealth-of-nations/book-2/chapter-5c"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 5b"
+title: "Home Trade, Foreign Trade, Carrying Trade"
+linkTitle: "Chapter 5b"
+weight: 56
+image: "/covers/wn.jpg"
+description: "Three types of trade are the Home Trade, Foreign Trade, Carrying Trade"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 {{< s v="24" >}} Wholesale trade is the buying and selling by wholesale.

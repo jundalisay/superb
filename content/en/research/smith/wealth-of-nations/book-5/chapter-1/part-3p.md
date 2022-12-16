@@ -1,7 +1,7 @@
 ---
 title: "Article 2-Educational Institutions for the youth"
-heading: "Part 3j of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3j"
+weight: 1
 image: "/covers/wn.jpg"
 description: "University Education"
 author: Adam Smith

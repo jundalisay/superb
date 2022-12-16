@@ -1,17 +1,16 @@
-+++
-title=  "Digression on the wheat trade and wheat laws=  Foreign wheat market"
-heading=  "Chapter 5e of Book 4 "
-description=  "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-5d"
-linkbtext=  "Chapter 5d"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-5f"
-linkftext=  "Chapter 5f"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Digression on the wheat trade and wheat laws: Foreign wheat market"
+heading: "Chapter 5e"
+description: "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
+image: /covers/wn.jpg
+weight: 34
+author: Adam Smith
+icons: /icons/smith.png
+--- 
 
-{{< s v="62" >}} The 15th of Charles 2nd c 7 authorizes two very absurd popular prejudices.
+
+
+{{< s v="62" >}} The 15th of Charles 2nd Chapter 7 authorizes two very absurd popular prejudices.
 
 {{< s v="63" >}} It supposes that when wheat prices rise to 576 pence the quarter, wheat is likely to be so engrossed as to hurt the people.
 
@@ -138,24 +137,21 @@ Wheat to 528 pence 	5s. 10d. after
 till 4l. and after that about 1.s 4d.
 Buck wheat to 32s. per qr. to pay 16s.
 
-These duties were imposed, partly by= 
-
-    the 22nd of Charles II, in place of the Old Subsidy,
-    the New Subsidy
-    the One-third and Two-thirds Subsidy
-    the Subsidy 1747
+These duties were imposed, partly by:
+- the 22nd of Charles II, in place of the Old Subsidy,
+- the New Subsidy
+- the 1/3 and 2/3 Subsidy
+- the Subsidy 1747
 
 The table of duties in this note is an exact copy of that in Charles Smith, Three Tracts on the Corn Trade , 2nd ed., 1766. p. 83
 
-    That author
-
-    took the figures from "Mr. Saxby, in his Book of Rates" ( i.e. Henry Saxby, The British Customs, containing an Historical and Practical Account of each branch of that Revenue , 1757, pp. 111-114)
-    He rounded off Saxby's fractions of a penny in an inaccurate and inconsistent way
-    He miscopied= 
-
-    the second duty on barley
-    the first duty on peas
-    the third duty on wheat
+That author:
+- took the figures from "Mr. Saxby, in his Book of Rates" ( i.e. Henry Saxby, The British Customs, containing an Historical and Practical Account of each branch of that Revenue , 1757, pp. 111-114)
+- rounded off Saxby's fractions of a penny in an inaccurate and inconsistent way
+- miscopied:
+  - the second duty on barley
+  - the first duty on peas
+  - the third duty on wheat
 
 The "Old Subsidy" consisted of the 5% or 1s. poundage imposed by 12 Car. II., c. 4, on to the Act
 According to this, imported beans, barely and malt were to be rated at 26s. 8d. the quarter when the actual price at the place of importation did not exceed 28s.

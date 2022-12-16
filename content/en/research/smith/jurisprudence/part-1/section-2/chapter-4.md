@@ -1,7 +1,8 @@
 ---
 heading: Chapter 4-5 of Part 1 Section 2
 title: "Guardian and Ward, Domestic Punishments"
-date: 2015-09-20
+# date: 2015-09-20
+weight: 18
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"
@@ -10,7 +11,7 @@ description: "Polygamy vs Monogamy, Domestic Offences and their Punishments"
 
 
 
-When a father dies leaving his children young, they should be taken care of. Even in the times of exposition, when an infant was some time kept, it was thought cruel to put him to death= 
+When a father dies leaving his children young, they should be taken care of. Even in the times of exposition, when an infant was some time kept, it was thought cruel to put him to death:
 - the child was destitute
 - there were then no hospitals or places of charity= 
   - it must therefore be put into the custody of some person.
@@ -63,7 +64,7 @@ There is the closest connection between persons in a family.
 If the wife kills the husband, it is considered as a sort of petty treason.
 
 The punishment by the English law is burning alive.
-This is the same punishment if a servant= 
-kills his master or
-makes an attempt on him.
 
+This is the same punishment if a servant:
+- kills his master or
+- makes an attempt on him.

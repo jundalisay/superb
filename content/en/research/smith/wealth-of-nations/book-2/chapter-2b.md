@@ -1,7 +1,8 @@
 ---
 title: "Money as a store of value and a tool for trade"
-heading: "Chapter 1a of Book 2 "
-date: 2020-01-27
+heading: "Chapter 1a"
+weight: 12
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Money has wholesale and retail"
 icon: "/icons/smith.png"

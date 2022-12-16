@@ -1,16 +1,16 @@
-+++
-title=  "What Causes the Division of Labour"
-heading=  "Chapter 5 of Part 3"
-description=  "The Division of Labour flows from a direct propensity in human nature for one man to barter with another"
-date=  2015-09-26
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-6"
-linkftext=  "Chapter 6"
-+++
+---
+heading: Chapter 5
+title: "What Causes the Division of Labour"
+weight: 14
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The Division of Labour flows from a direct propensity in human nature for one man to barter with another"
+---
 
-The division of labour cannot be the effect of human prudence. The Sesostris made a law that every man should follow the employment of his father. But this= 
+
+
+The division of labour cannot be the effect of human prudence. The Sesostris made a law that every man should follow the employment of his father. But this:
 - is not suitable to the dispositions of human nature and
 - can never long take place.
 

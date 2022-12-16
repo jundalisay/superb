@@ -1,8 +1,9 @@
 ---
-heading: "Book 2, Chapter 1b"
+heading: "Chapter 1b"
 title: "Three Divisions of Stock"
 linkTitle: "Chapter 1b"
-date: 2020-01-31
+weight: 4
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The Division of Labour in Manufacturing Increases Productivity and Invention More than that in Agriculture"
 icon: "/icons/smith.png"

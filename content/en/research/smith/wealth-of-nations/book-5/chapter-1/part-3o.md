@@ -1,7 +1,7 @@
 ---
 title: "Intellectual Property and Corporation Rules"
-heading: "Part 3o of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3o"
+weight: 1
 image: "/covers/wn.jpg"
 description: "Intellectual Property and Corporation Rules"
 author: Adam Smith

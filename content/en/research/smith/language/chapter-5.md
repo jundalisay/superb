@@ -1,20 +1,21 @@
-+++
-title=  "The Simplification of Languages"
-heading=  "Chapter 5 of Adam Smith's Essay on Languages"
-description=  "Language becomes simpler in its principles, just as it grows more complex in its composition"
-date=  2022-01-09
-image=  "/covers/lang.jpg"
-# image=  "/photos/idea.jpg"
-linkb=  "/research/smith/language/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/language"
-linkftext=  "Index"
-btext=  "Chapter 5"
-+++
+---
+heading: Chapter 5
+title: "The Simplification of Languages"
+weight: 16
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Language becomes simpler in its principles, just as it grows more complex in its composition"
+---
+
+
+
 
 In this way, language becomes simpler in its principles, just as it grows more complex in its composition, and the same thing has happened in it, which commonly happens with regard to mechanical engines. 
 
-All machines are generally, when first invented, extremely complex in their principles, and there is often a particular principle of motion for every particular movement which it is intended they should perform. Succeeding improvers observe, that one principle may be so applied as to produce several of those movements; and thus the machine becomes gradually more and more simple, and produces its effects with fewer wheels, and fewer principles of motion. In language, in the same manner, every case of every noun, and every tense of every verb, was originally expressed by a particular distinct word, which served for this purpose and for no other. But succeeding observations discovered, that one set of words was capable of supplying the place of all that infinite number, and that four or five prepositions, and half a dozen auxiliary verbs, were capable of answering the end of all the declensions, and of all the conjugations in the ancient languages.
+All machines are generally, when first invented, extremely complex in their principles, and there is often a particular principle of motion for every particular movement which it is intended they should perform. Succeeding improvers observe, that one principle may be so applied as to produce several of those movements; and thus the machine becomes gradually more and more simple, and produces its effects with fewer wheels, and fewer principles of motion. 
+
+In language, in the same manner, every case of every noun, and every tense of every verb, was originally expressed by a particular distinct word, which served for this purpose and for no other. But succeeding observations discovered, that one set of words was capable of supplying the place of all that infinite number, and that four or five prepositions, and half a dozen auxiliary verbs, were capable of answering the end of all the declensions, and of all the conjugations in the ancient languages.
 
 This simplification of languages is not the same as the simplification of machines. The latter renders them more and more perfect. But the former makes languages more imperfect, and less proper for the purposes of language.
 
@@ -34,7 +35,9 @@ It ties down many words to a particular situation, though they might often be pl
 
 Tityre tu patulæ recubans sub tegmine fagi;
 
-we easily see that tu refers to recubans, and patulæ to fagi; though the related words are separated from one another by the intervention of several others; because the terminations, showing the correspondence of their cases, determine their mutual reference. But if we were to translate this line literally into English, and say, Tityrus, thou of spreading reclining under the shade beech, Œdipus himself could not make sense of it; because there is here no difference of termination, to determine which substantive each adjective belongs to. It is the same case with regard to verbs. In Latin the verb may often be placed, without any inconveniency or ambiguity, in any part of the sentence. But in English its place is almost always precisely determined. It must follow the subjective and precede the objective member of the phrase in almost all cases. Thus in Latin whether you say, Joannem verberavit Robertas, or Robertas verberavit Joannem, the meaning is precisely the same, and the termination fixes John to be the sufferer in both cases. But in English John beat Robert, and Robert beat John, have by no means the same signification. The place therefore of the three principal members of the phrase is in the English, and for the same reason in the French and Italian languages, almost always precisely determined; whereas in the ancient languages a greater latitude is allowed, and the place of those members is often, in a great measure, indifferent. We must have recourse to Horace, in order to interpret some parts of Milton’s literal translation;
+we easily see that tu refers to recubans, and patulæ to fagi; though the related words are separated from one another by the intervention of several others; because the terminations, showing the correspondence of their cases, determine their mutual reference. But if we were to translate this line literally into English, and say, Tityrus, thou of spreading reclining under the shade beech, Œdipus himself could not make sense of it; because there is here no difference of termination, to determine which substantive each adjective belongs to. It is the same case with regard to verbs. In Latin the verb may often be placed, without any inconveniency or ambiguity, in any part of the sentence. But in English its place is almost always precisely determined. 
+
+It must follow the subjective and precede the objective member of the phrase in almost all cases. Thus in Latin whether you say, Joannem verberavit Robertas, or Robertas verberavit Joannem, the meaning is precisely the same, and the termination fixes John to be the sufferer in both cases. But in English John beat Robert, and Robert beat John, have by no means the same signification. The place therefore of the three principal members of the phrase is in the English, and for the same reason in the French and Italian languages, almost always precisely determined; whereas in the ancient languages a greater latitude is allowed, and the place of those members is often, in a great measure, indifferent. We must have recourse to Horace, in order to interpret some parts of Milton’s literal translation;
 
 Who now enjoys thee credulous all gold,
 Who always vacant, always amiable
@@ -48,4 +51,3 @@ Qui semper vacuam, semper amabilem
 Sperat te; nescius auræ fallacis.
 
 Because the terminations in the Latin determine the reference of each adjective to its proper substantive, which it is impossible for any thing in the English to do. How much this power of transposing the order of their words must have facilitated the compositions of the ancients, both in verse and prose, can hardly be imagined. That it must greatly have facilitated their versification it is needless to observe; and in prose, whatever beauty depends upon the arrangement and construction of the several members of the period, must to them have been acquirable with much more ease, and to much greater perfection than it can be to those whose expression is constantly confined by the prolixness, constraint, and monotony of modern languages.
-

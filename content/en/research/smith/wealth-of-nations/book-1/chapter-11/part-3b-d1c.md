@@ -1,7 +1,8 @@
 ---
 title: "Summary of the Three Periods"
-heading: "Part 3b of Digression 1c"
-date: 2015-09-10
+heading: "Part 3b"
+author: Adam Smith
+weight: 24
 image: "/covers/wn.jpg"
 description: "The end of this chapter has the prices of wheat from 1741-1750 and 1731-1740"
 icon: "/icons/smith.png"

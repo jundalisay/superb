@@ -1,13 +1,14 @@
-+++
-title=  "Conclusion on Part 6"
-description=  "Prudence Justice Beneficence"
-date=  2015-09-01
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-6/section-4b"
-linkbtext=  "Section 4"
-linkf=  "/research/smith/theory-moral-sentiments/part-7/section-1"
-linkftext=  "Section 1"
-+++
+---
+title: "Conclusion on Part 6"
+# heading: "Chapter 3"
+description: "Prudence Justice Beneficence"
+weight: 44
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
+
+
 
 {{< s v="54" >}} Prudence is recommended to us by the concern for our own happiness.
 

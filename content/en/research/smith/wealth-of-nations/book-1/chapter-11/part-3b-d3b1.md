@@ -1,7 +1,8 @@
 ---
 title: "Second Kind: Produce that can be multiplied according to demand"
-heading: "Part 3b of Digression 3a"
-date: 2015-09-01
+heading: "Part 3b"
+author: Adam Smith
+weight: 32
 image: "/covers/wn.jpg"
 description: "The second kind is the rude produce which human industry can multiply in proportion to the demand--Beef, Deer Meat"
 icon: "/icons/smith.png"
@@ -27,6 +28,7 @@ It increases the demand for that meat by increasing the number of people who hav
 
 Meat and cattle prices must then rise until it gets so high.
 It then becomes profitable to raise food for them as wheat is raised as food for man.
+
 But this can only happen late in the progress of improvement.
 There are some parts of Europe where cattle prices have not yet reached this height.
 Before the union, it did not reach this height in Scotland.
@@ -34,6 +36,7 @@ Scotland has huge lands more natural for cattle.
 
 Had the Scotch cattle been always confined to Scotland, it is impossible that their price could have risen so high
 Near London, cattle prices reached this height at the start of the 17th century.
+
 The remoter counties reached this height much later.
 In some counties, it still has not reached this height.
 Cattle is first of the second kind of rude produce to rise to this height.
@@ -44,6 +47,7 @@ Cattle is first of the second kind of rude produce to rise to this height.
 In all distant farms, the amount of well-cultivated land must be proportional to the amount of manure produced by that farm.
 This land must be proportional to the stock of cattle maintained on it.
 The land is manured by feeding them in the stable.
+
 But unless cattle prices are enough to pay the rent and profit of cultivated land, the farmer cannot afford to do this.
 In cultivated lands, cattle are only fed in a stable.
 
@@ -60,6 +64,7 @@ The farm, though much understocked, will be very frequently overstocked in propo
 Part of this waste land pastured in this wretched manner for six or seven years may be ploughed up afterwards.
 It can yield a poor crop or two of bad oats or coarse grain.
 It will then be entirely exhausted.
+
 It must be rested and pastured again with another part ploughed up to be exhausted and rested as before.
 Such was the general system in the low country of Scotland before the union.
 

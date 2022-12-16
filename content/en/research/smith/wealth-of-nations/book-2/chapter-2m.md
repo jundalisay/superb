@@ -1,7 +1,8 @@
 ---
 title: "Two Branches of Circulation: Wholesale and Retail"
-heading: "Chapter 2m of Book 2"
-date: 2020-01-16
+heading: "Chapter 2m"
+weight: 34
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Money Supply has two great divisions as wholesale and retail"
 icon: "/icons/smith.png"

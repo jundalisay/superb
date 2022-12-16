@@ -1,15 +1,14 @@
-+++
-title=  "When is War Lawful?"
-heading=  "Chapter 1 Part 5"
-description=  "In general, whatever is the foundation of a proper lawsuit may be a just occasion of war"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-4/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/jurisprudence/part-5/chapter-2"
-linkftext=  "Chapter 2"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 3
+title: "When is War Lawful?"
+weight: 10
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "In general, whatever is the foundation of a proper lawsuit may be a just occasion of war"
+---
+
+
 
 <!-- First, quando liceat bellare ? -->
 

@@ -1,8 +1,8 @@
+---
+title: "National Laws"
+description: "Adam Smith explains National Laws"
+author: Adam Smith
+image: /covers/lectures.jpg
+weight: 8
+---
 
-+++
-title=  "National Laws"
-heading=  "Part 5"
-description=  "Simple Lectures on Jurisprudence by Adam Smith"
-image=  "/covers/lectures.jpg"
-# image=  "/photos/police.jpg"
-+++

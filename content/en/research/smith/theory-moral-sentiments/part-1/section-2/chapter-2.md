@@ -1,16 +1,15 @@
+---
+title: "The Feelings from the Imagination"
+heading: "Chapter 2"
+description: "Romantic love is natural but is not commonly expressed because it might be odious or ridiculous"
+weight: 6
+author: Adam Smith
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
 
-+++
-title=  "The Feelings from the Imagination"
-heading=  "Chapter 2"
-description=  "Romantic love is natural but is not commonly expressed because it might be odious or ridiculous"
-date=  2015-10-29
-image=  "/covers/tms.jpg"
-# image=  "https= //sorasystem.sirv.com/photos/multi.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-3"
-linkftext=  "Chapter 3"
-+++
+
+
 
 ### Romantic love is natural but is not commonly expressed because it might be odious or ridiculous
 

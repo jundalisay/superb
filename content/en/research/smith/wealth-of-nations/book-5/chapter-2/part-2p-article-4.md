@@ -1,7 +1,7 @@
 ---
 title: "General Taxes: The History of Customs Duties"
 heading: "Part 2p, Article 2 Simplified"
-date: 2020-12-01
+weight: 1
 image: "/covers/wn.jpg"
 description: "They were called 'customs' to denote customary payments which used from time immemorial"
 icon: "/icons/smith.png"

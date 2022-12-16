@@ -1,7 +1,7 @@
 ---
 title: "Article 2-Educational Subjects"
-heading: "Part 3r of Chapter 1 of Book 5"
-date: 2021-08-01
+heading: "Part 3r"
+weight: 1
 image: "/covers/wn.jpg"
 description: "When Christianity was first established by law, a corrupted Latin had become the common language of Western Europe"
 author: Adam Smith

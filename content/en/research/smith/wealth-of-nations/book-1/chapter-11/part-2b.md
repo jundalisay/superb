@@ -1,7 +1,8 @@
 ---
 title: "Coal"
-heading: "Part 2b of Chapter 11 of Book 1"
-date: 2015-09-26
+heading: "Part 2b"
+author: Adam Smith
+weight: 10
 image: "/covers/wn.jpg"
 description: "The value of Coal Mines is relative to the value of other fuel sources"
 icon: "/icons/smith.png"

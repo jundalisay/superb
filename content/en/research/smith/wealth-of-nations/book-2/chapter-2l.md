@@ -1,7 +1,8 @@
 ---
 title: "Banks Increase National Wealth by Mobilizing Dead Stock"
-heading: "Chapter 2j of Book 2"
-date: 2020-01-17
+heading: "Chapter 2j"
+weight: 32
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The judicious operations of banking can increase a country’s industry, not by augmenting the country’s capital, but by rendering most of that capital productive"
 icon: "/icons/smith.png"

@@ -1,7 +1,7 @@
 ---
 title: "Eight Sources of French Taxes"
-heading: "Part 2w, Article 4 Simplified"
-date: 2020-11-10
+heading: "Part 2w, Article 4"
+weight: 1
 image: "/covers/wn.jpg"
 description: "In France, most of the crown's actual revenue is derived from 8 sources"
 icon: "/icons/smith.png"

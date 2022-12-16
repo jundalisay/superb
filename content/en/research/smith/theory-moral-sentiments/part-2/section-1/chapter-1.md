@@ -1,5 +1,17 @@
+---
+heading: Chapter 5
+title: "Objects of gratitude appear to deserve reward. Objects of resentment appear to deserve punishment"
+weight: 16
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Language becomes simpler in its principles, just as it grows more complex in its composition"
+---
+
+
+
 +++
-title=  "Objects of gratitude appear to deserve reward. Objects of resentment appear to deserve punishment"
+title=  ""
 heading=  "Chapter 1 of Part 2 Section 1"
 description=  "Merit and Demerit are another set of qualities ascribed to mankind's actions and conduct, distinct from propriety or decency"
 date=  2015-09-30

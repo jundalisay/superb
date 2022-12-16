@@ -1,7 +1,7 @@
 ---
 title: "The funds which belong to the sovereign or commonwealth"
 heading: "Chapter 2 Part 1a"
-date: 2020-12-31
+weight: 1
 image: "/covers/wn.jpg"
 description: "The revenue which pays for national defense and the government may be drawn from some fund for from the revenue of the people"
 icon: "/icons/smith.png"

@@ -1,16 +1,15 @@
-+++
-title=  "Cultural Differences Affect Morals"
-heading=  "Chapter 2b"
-description=  "The politeness highly esteemed in Russia would be seen as rudeness and barbarism at the French court"
-date=  2015-09-28
-image=  "/covers/tms.jpg" 
-linkb=  "/research/smith/theory-moral-sentiments/part-5/chapter-2a"
-linkbtext=  "Chapter 2a"
-linkf=  "/research/smith/theory-moral-sentiments/part-6/section-1"
-linkftext=  "Section 1"
-+++
+---
+title: "Cultural Differences Affect Morals"
+heading: "Chapter 2b"
+description: "The politeness highly esteemed in Russia would be seen as rudeness and barbarism at the French court"
+weight: 26
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
 
-17 In the same way, the different situations of ages and countries give different= 
+
+{{< s v="17" >}} In the same way, the different situations of ages and countries give different= 
 - characters to their citizens, and
 - sentiments about the praiseworthiness of those characters, according what is usual.
 
@@ -23,7 +22,8 @@ This varies as their different circumstances render different qualities habitual
 Their sentiments on the exact propriety of character and behaviour vary accordingly.
 women
 
-18 Among civilized nations, the virtues founded on humanity are more cultivated than those founded on= 
+
+{{< s v="18" >}} Among civilized nations, the virtues founded on humanity are more cultivated than those founded on= 
 - self-denial, and
 - the control of the passions.
 
@@ -38,14 +38,14 @@ It is otherwise among barbarous nations where self-denial is more cultivated tha
 - indulge.its natural inclinations in all those respects. -->
 
 
-19 <!-- Among savages and barbarians it is quite otherwise. --> In a barbarous nation, every savage= 
+{{< s v="19" >}} <!-- Among savages and barbarians it is quite otherwise. --> In a barbarous nation, every savage:
 - goes through a Spartan discipline
 <!-- He is inured to every sort of hardship by necessity.
 He is in continual danger. -->
 - is often exposed to the greatest hunger
 - frequently dies of pure lack
 
-His circumstances= 
+His circumstances:
 - make him used to every sort of distress
 - teaches him not to give way to the passions created by the distress<!--  none of the passions which that distress is apt to excite. -->
 
@@ -67,65 +67,80 @@ In a country where all men are on a level in rank and fortune, it might be expec
 
 However, all marriages there are made up by the parents, without exception.
 
-A young man would think himself disgraced forever if he= 
-showed preference for one woman above another, or
-did not show the most complete indifference about the time of marriage and the person he was marrying.
+A young man would think himself disgraced forever if he:
+- showed preference for one woman above another, or
+- did not show the most complete indifference about the time of marriage and the person he was marrying.
+
 The weakness of love is so much indulged in ages of humanity and politeness.
+
 It is regarded among savages as the most unpardonable effeminacy.
+
 Even after the marriage, the man and woman seem ashamed of a connection founded on so sordid a necessity.
+
 They do not live together.
 They see one another by stealth only.
 They both continue to dwell in the houses of their respective fathers.
 The open cohabitation of man and woman is permitted without blame in all other countries.
+
 But there it is considered as the most indecent and unmanly sensuality.
 They exert this absolute self-command not only over love.
-They often bear, in the sight of all their countrymen, with injuries, reproach, and the grossest insults= 
-with the appearance of the greatest insensibility, and
-without expressing the smallest resentment.
+
+They often bear, in the sight of all their countrymen, with injuries, reproach, and the grossest insults:
+- with the appearance of the greatest insensibility, and
+- without expressing the smallest resentment.
+
 When a savage is made prisoner of war and receives the death sentence, he hears it without any emotion.
-He then submits to the most dreadful torments, without ever= 
-bemoaning himself or
-discovering any other passion but contempt of his enemies.
-While he is hung by the shoulders over a slow fire, he= 
-derides his tormentors, and
-tells them with how much more ingenuous he was in tormenting their countrymen who had fallen into his hands
+
+He then submits to the most dreadful torments, without ever:
+- bemoaning himself or
+- discovering any other passion but contempt of his enemies.
+
+While he is hung by the shoulders over a slow fire, he:
+- derides his tormentors, and
+- tells them with how much more ingenuous he was in tormenting their countrymen who had fallen into his hands
+
 He is scorched, burnt, and lacerated in all the most tender and sensible parts of his body for several hours.
 Afterwards, he is often allowed a short respite and taken down to prolong his misery.
-He uses this interval to= 
-talk on all indifferent subjects, and
-inquire after the news of the country.
+
+He uses this interval to:
+- talk on all indifferent subjects, and
+- inquire after the news of the country.
+
 He seems indifferent about his own situation.
 The spectators express the same insensibility.
 The sight of so horrible an object seems to make no impression on them.
+
 They do not look at the prisoner, except when they torment him.
+
 At other times, they smoke tobacco and amuse themselves with any common object as if nothing was going on.
 Every savage is said to prepare himself from his earliest youth for this dreadful end.
 
 He composes the song of death for this purpose.
-It is a song which he is to sing when he= 
-has fallen into the hands of his enemies, and
-is expiring under their tortures.
-It consists of insults on his tormentors.
-It expresses the highest contempt of death and pain.
-He sings this song on all extraordinary occasions when= 
-he goes out to war,
-he meets his enemies in the field, or
-he shows that= 
-he has familiarised his imagination to the most dreadful misfortunes
-no human event can= 
-daunt his resolution or
-alter his purpose.
+
+It is a song which he is to sing when he:
+- has fallen into the hands of his enemies, and
+- is expiring under their tortures.
+
+It:
+- consists of insults on his tormentors
+- expresses the highest contempt of death and pain.
+
+He sings this song on all extraordinary occasions when:
+- he goes out to war,
+- he meets his enemies in the field, or
+- he shows that:
+  - he has familiarised his imagination to the most dreadful misfortunes
+  - no human event can daunt his resolution or alter his purpose.
 
 <!-- Battle of Rorke's Drift -->
  
 The same contempt of death and torture prevails among all other savage nations.
 
 All African negroes have a magnanimity which his sordid master's soul can rarely conceive.
-Fortune was most cruel over mankind when she subjected those nations of heroes= 
-to the refuse of European jails, and
-to wretches= 
-who do not have the virtues of= 
-their original countries, or
-the countries where they go to,
-whose levity, brutality, and baseness, so justly expose them to the contempt of the vanquished.
+
+Fortune was most cruel over mankind when she subjected those nations of heroes:
+- to the refuse of European jails, and
+- to wretches:
+  - who do not have the virtues of their original countries, or the countries where they go to
+  - whose levity, brutality, and baseness, so justly expose them to the contempt of the vanquished.
  

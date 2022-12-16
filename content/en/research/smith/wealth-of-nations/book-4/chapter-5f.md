@@ -1,15 +1,13 @@
-+++
-title=  "Digression on the wheat trade & wheat laws=  The Carrying Trade of Wheat"
-heading=  "Chapter 5f of Book 4 "
-description=  "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-5e"
-linkbtext=  "Chapter 5e"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-5g"
-linkftext=  "Chapter 5g"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Digression on the wheat trade and wheat laws: The Carrying Trade of Wheat"
+heading: "Chapter 5f"
+description: "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
+image: /covers/wn.jpg
+weight: 36
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
 
 
 {{< s v="73" >}} In years of scarcity, the distress caused by the strict execution of those laws was probably very great.
@@ -20,6 +18,7 @@ But sometimes, its execution was suspended by temporary statutes which allowed w
 
 They were dictated by the same spirit and principles of those bounties.
 No matter how hurtful the import restraints were, they became necessary because of the bounties.
+
     If wheat prices rose around 576 pence the quarter, foreign wheat could be imported duty-free.
     But the bounty would cause this wheat to be re-exported.
         It would be a great loss of public revenue and the perversion of the entire institution.
@@ -199,14 +198,15 @@ A small duty of 6 pence was imposed on the quarter of wheat and other grains in 
 {{< s v="90" >}} By the same law:
 - a  bounty of 24 pence the quarter is given for oats exportation whenever its price does not exceed 168 pence.
         No bounty had ever been given before for oats exports, no more than bounties for peas or beans.
+    
     91  wheat exportation is banned as soon as wheat prices rise to 528 pence the quarter.
     rye exportation is banned as soon as it rises to 336 pence.
     barley exportation is banned as soon as it rises to 264 pence.
     oats exportation is banned as soon as it rises to 168 pence.
-Those prices seem too low.
-    It seems improper to ban exportation at those precise prices at which that bounty, which was given to force it, is withdrawn= 
-        the bounty should certainly be withdrawn at a much lower price or
-        exportation should be allowed at a much higher price.
+
+Those prices seem too low. It seems improper to ban exportation at those precise prices at which that bounty, which was given to force it, is withdrawn:
+- the bounty should certainly be withdrawn at a much lower price or
+- exportation should be allowed at a much higher price.
 
 
 {{< s v="92" >}} So far, this law seems inferior to the ancient system.

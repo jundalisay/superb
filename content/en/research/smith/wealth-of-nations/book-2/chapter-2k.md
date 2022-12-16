@@ -1,7 +1,8 @@
 ---
 title: "Central Banks - The Bank of England"
-heading: "Chapter 2j of Book 2"
-date: 2020-01-18
+heading: "Chapter 2j"
+weight: 30
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The Bank of England"
 icon: "/icons/smith.png"

@@ -1,7 +1,7 @@
 ---
 title: "Taxes on the Profit of Particular Employments"
 heading: "Chapter 2h of Part 1b"
-date: 2020-12-17
+weight: 1
 image: "/covers/wn.jpg"
 description: "In some countries, extraordinary taxes are imposed on profits when employed in particular trades, and in agriculture"
 icon: "/icons/smith.png"

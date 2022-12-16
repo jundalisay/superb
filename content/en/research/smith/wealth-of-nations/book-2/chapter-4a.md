@@ -2,7 +2,7 @@
 heading: "Chapter 4a"
 title: "Stock Lent At Interest"
 linkTitle: "Chapter 3e"
-date: 2020-01-09
+weight: 50
 image: "/covers/wn.jpg"
 description: "The stock lent at interest is always considered as a capital by its lender"
 author: Adam Smith

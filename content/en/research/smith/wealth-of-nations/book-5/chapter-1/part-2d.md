@@ -1,7 +1,8 @@
 ---
 title: "Justice Fees from Gifts to Gratis"
 heading: "Chapter 1 Part 2c"
-date: 2020-12-16
+weight: 1
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Justice never was in reality administered gratis in any country"
 icon: "/icons/smith.png"

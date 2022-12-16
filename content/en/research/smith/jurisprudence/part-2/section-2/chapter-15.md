@@ -1,14 +1,13 @@
-+++
-title=  "Exchange (Forex and Trade Financing)"
-heading=  "Chapter 15 of Part 2 Section 2"
-description=  "Exchange is a method invented by merchants to facilitate the payment of money at a distance"
-date=  2015-09-15
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-14"
-linkbtext=  "Chapter 14"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-16"
-linkftext=  "Chapter 16"
-+++
+---
+title: "Exchange (Forex and Trade Financing)"
+heading: "Chapter 15"
+description: "Exchange is a method invented by merchants to facilitate the payment of money at a distance"
+# date: 2015-09-17
+image: "/covers/lectures.jpg"
+weight: 34
+author: Adam Smith
+---
+
 
 Exchange is a method invented by merchants to facilitate the payment of money at a distance.
 

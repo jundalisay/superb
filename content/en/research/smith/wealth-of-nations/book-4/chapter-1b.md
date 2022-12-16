@@ -1,9 +1,9 @@
 ---
 title: "Effective Demand and the Demand Motive"
-heading: "Chapter 1b Simplified"
+heading: "Chapter 1b"
 description: "The effective demand is the demand of the people who are willing to pay the rent, labour, and profits needed to make them and bring them to market"
 image: /covers/wn.jpg
-date: 2020-03-30
+weight: 4
 author: Adam Smith
 icons: /icons/smith.png
 --- 

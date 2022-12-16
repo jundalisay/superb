@@ -1,22 +1,21 @@
-+++
-title=  "What regulates the Price of Commodities?"
-heading=  "Chapter 7 of Part 3"
-description=  "The Market Price of Commodities is regulated by the demand, the supply, and the purchasing power of the demand"
-date=  2015-09-24
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-6"
-linkbtext=  "Chapter 6"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-8"
-linkftext=  "Chapter 8"
-+++
+---
+heading: Chapter 7
+title: "What Regulates the Price of Commodities?"
+weight: 18
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The Market Price of Commodities is regulated by the demand, the supply, and the purchasing power of the demand"
+---
 
-Every commodity has two different prices which are apparently independent, but connected= 
+
+
+Every commodity has two different prices which are apparently independent, but connected:
 - The natural price
 - The market price
 
 These are regulated by certain circumstances.
 
-<br>
 
 ## The Natural Price
 
@@ -33,7 +32,7 @@ His wages must be high because of his risk in not having the whole made up.
 But there are many arts which need more knowledge than possible during an apprenticeship.
 A blacksmith and weaver can learn their business without any previous knowledge of math.
 
-But a watchmaker must know several sciences such as= 
+But a watchmaker must know several sciences such as:
 - arithmetic,
 - geometry, and
 - astronomy with regard to the equation of time.
@@ -62,7 +61,7 @@ But every corn man succeeds in his undertakings.
 So on the whole, there is more made in farming than in mining.
 The principal temptation in a mine is the ideal acquisition.
 
-A man then has the natural price of his labour when it is sufficient to= 
+A man then has the natural price of his labour when it is sufficient to:
 - maintain him during the time of labour,
 - defray the expense of education, and
 - compensate the risk of= 
@@ -83,7 +82,7 @@ The regulation of the market price of goods depends on three articles=
 
 There is no demand for a useless thing. It is not a rational object of desire.
 
-> *This is Law 1 of Pantrynomics
+> *This is Law 1 of Economic Superphysics
 
 
 2. The abundance or scarcity* of the commodity relative to the need for it.
@@ -132,16 +131,23 @@ If the market price of any commodity is very great, and the labour very highly r
 More of the commodity is produced.
 It then can be sold to the inferior ranks of people.
 
-If there were 10,000 for every 10 diamonds, they would become the purchase of everybody
-because they would become very cheap and would sink to their natural price.
+If there were 10,000 for every 10 diamonds, they would become the purchase of everybody because they would become very cheap and would sink to their natural price.
+
 When the market is overstocked, and there is not enough reward for its manufacture, nobody will produce it.
+
 They cannot have a subsistence by it, because the market price falls then below the natural price.
+
 It is alleged that as corn prices sink, the labourer's wages should also sink since he is then better rewarded.
+
 It is true that if food was long cheap, wages would come down because of the many people flocking to this labour.
+
 But we find that when corn prices are doubled, the wages stay as before.
 Because the labourers have no other way to turn themselves.
 The same is the case with menial servants.
-Raising The Natural Price Artificially
+
+
+## Raising The Natural Price Artificially
+
 Whatever police tends to raise the market price above the natural, tends to reduce public opulence.
 
 Dearness and scarcity are the same thing.
@@ -150,12 +156,14 @@ They can afford to give less for them, but not if commodities are scarce.
 Goods are a convenience to society.
 
 Society thus lives less happily when only the few can have goods.
-Therefore, whatever keeps goods above their natural price permanently, reduces a nation’s opulence, such as= 
-- all taxes on= 
-industry, leather, and shoes.
-People grudge these the most.
-salt, beer, or whatever is the strong drink of the country.
-All countries have some kind of it.
+
+Therefore, whatever keeps goods above their natural price permanently, reduces a nation’s opulence, such as:
+- all taxes on:
+  - industry, leather, and shoes.
+    - People grudge these the most.
+  - salt, beer, or whatever is the strong drink of the country.
+    - All countries have some kind of it.
+
 Man is an anxious animal.
 
 It must have his care swept off by something that can exhilarate the spirits.

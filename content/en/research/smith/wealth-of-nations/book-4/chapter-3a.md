@@ -1,15 +1,13 @@
-+++
-title=  "Extraordinary Restraints on Importation from Countries Where the Balance is supposed to be Disadvantageous"
-heading=  "Chapter 3a of Book 4 "
-description=  "The 2nd expedient of the commercial system to increase the amount of gold and silver is to lay extraordinary restraints on imports from countries where the balance of trade is disadvantageous"
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-2d"
-linkbtext=  "Chapter 2d"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-3b"
-linkftext=  "Chapter 3b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Extraordinary Restraints on Importation from Countries Where the Balance is supposed to be Disadvantageous"
+heading: "Chapter 3a"
+description: "The 2nd expedient of the commercial system to increase the amount of gold and silver is to lay extraordinary restraints on imports from countries where the balance of trade is disadvantageous"
+image: /covers/wn.jpg
+weight: 18
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
 
 
 ## Unreasonableness of the Balance of Trade

@@ -1,22 +1,20 @@
-+++
-title=  "The Rights of Neutral Nations"
-heading=  "Chapter 3 of Part 5"
-description=  "The rule of justice with respect to neutral nations is, that they should suffer no injury as they have offended no party."
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-5/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/jurisprudence/part-5/chapter-4"
-linkftext=  "Chapter 4"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 3
+title: "The Rights of Neutral Nations"
+weight: 16
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The rule of justice with respect to neutral nations is, that they should suffer no injury as they have offended no party"
+---
+
 
 
 Third, we next show what is due to neutral nations from the belligerent powers.
 
 The rule of justice with respect to neutral nations is, that they should suffer no injury as they have offended no party.
 
-In a war between France and England, the Dutch should have the liberty of trading to both countries, as in peacetime, because they have injured neither. They can trade to them freely unless when they= 
+In a war between France and England, the Dutch should have the liberty of trading to both countries, as in peacetime, because they have injured neither. They can trade to them freely unless when they:
 - carry contraband goods, or
 - are going to a besieged town.
 
@@ -40,3 +38,4 @@ This is more the effect of policy than humanity. When an army retreats and the c
 But I think this is unsatisfactory because a land war hurts commerce more.
 The real reason is that a small country cannot assert its neutrality in a land war, but it can do so in a sea war.
 A small fort can oblige the greatest nation to respect its harbour's neutrality.
+

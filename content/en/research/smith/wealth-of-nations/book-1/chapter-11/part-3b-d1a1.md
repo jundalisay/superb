@@ -1,7 +1,8 @@
 ---
 title: "Digression on the Variations in the Value of Silver During the Last Four Centuries"
 heading: "Part 3b of Chapter 11 of Book 1"
-date: 2015-09-23
+weight: 16
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Prices were unstable from 1262 to 1570"
 icon: "/icons/smith.png"
@@ -25,7 +26,7 @@ Therefore, 10-pence a bushel was a very moderate price of wheat in 1350 because 
 
 But in 1340, 10 pence had half an ounce of silver, Tower-weight, and 10 pence then was equal to 30 pence today.
 
-So, four ounces of silver, Tower-weight then was equal to= 
+So, four ounces of silver, Tower-weight then was equal to:
 - 80 pence then, and
 - 240 pence today.
 

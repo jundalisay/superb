@@ -1,14 +1,14 @@
-+++
-title=  "The Causes of the slow Progress of Opulence"
-heading=  "Chapter 16 of Part 2 Section 2"
-description=  "The violent civil government is the biggest obstacle to the progress of opulence"
-date=  2015-09-09
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-15"
-linkbtext=  "Chapter 15"
-linkf=  "/research/smith/jurisprudence/part-3/chapter-1"
-linkftext=  "Chapter 1"
-+++
+---
+title: "The Causes of the slow Progress of Opulence"
+heading: "Chapter 16"
+description: "The violent civil government is the biggest obstacle to the progress of opulence"
+# date: 2015-09-17
+image: "/covers/lectures.jpg"
+weight: 36
+author: Adam Smith
+---
+
+
 
 It is surprising for nations to continue to be poor for so long when we consider the immediate effects of the division of labour in improving the arts.
 
@@ -92,7 +92,7 @@ The West Indies have been cultivated and greatly improved by slaves. But they mi
 
 In the northern colonies, they employ few slaves which are in a very flourishing condition. The lands are generally cultivated by the proprietors. This method is the most favourable to agriculture.
 
-The best tenant always= 
+The best tenant always:
 - has a rent to pay, and
 - has much less to lay out on improvements.
 
@@ -108,7 +108,7 @@ Our present tenants created a new kind of cultivation. Some steel bow tenants, b
 
 If the landlord sold his land, the new proprietor was not bound to the terms of the agreement and the tenant was often kicked out. The landlord also invented a method to get rid of the tenant when he pleased by selling the estate to another. He had a back bond to the buyer to make him return the estate whenever the tenants were kicked out.
     
-The tenants had no motive to improve the ground because they were continually in danger of being kicked out. This takes place to this day in every European country, except Britain. Contracts of this kind were rendered as real rights= 
+The tenants had no motive to improve the ground because they were continually in danger of being kicked out. This takes place to this day in every European country, except Britain. Contracts of this kind were rendered as real rights:
 - in Scotland, under James III, and
 - in England, under Henry VII.
 
@@ -133,7 +133,7 @@ Several circumstances concurred to continue land engrossment=
 
 ### Non-commoditization of Land
 
-Commodities can be bought or sold in an instant. But in buying four or five acres of land, a lot of time must be spent in= 
+Commodities can be bought or sold in an instant. But in buying four or five acres of land, a lot of time must be spent in: 
 - examining the progress of writs, and
 - getting your right legally constituted.
 
@@ -285,7 +285,9 @@ Easy conveyance and other conveniences of trafficking will be of more advantageo
 
 ### Staple towns
 
-Staple towns had the exclusive privilege of selling a certain commodity within that district. When Calais belonged to the English, it was the staple for wool for a long time. Its price was very high as men were obliged to carry their wool very far. However, it was a very great advantage to any town to have the staple. Therefore, the king= 
+Staple towns had the exclusive privilege of selling a certain commodity within that district. When Calais belonged to the English, it was the staple for wool for a long time. Its price was very high as men were obliged to carry their wool very far. However, it was a very great advantage to any town to have the staple. 
+
+Therefore, the king:
 - gave it to the town that he was best pleased with, and
 - took it away whenever it disobliged him.
 
@@ -305,7 +307,7 @@ All monopolies and exclusive privileges of corporations, for whatever good ends 
 
 ### The Statute of apprenticeship
 
-Similarly, the statute of apprenticeship has a bad tendency. They imagined that the cause of so much bad cloth was that the weaver had not been properly educated, so they made a statute that he should serve a seven years apprenticeship before making any cloth.
+Similarly, the statute of apprenticeship has a bad tendency. They imagined that the cause of so much bad cloth was that the weaver had not been properly educated, so they made a statute that he should serve a 7 years apprenticeship before making any cloth.
 
 But this is not a sufficient security against bad cloth since you cannot inspect a large piece of cloth. Instead, you rely on the stampmaster's skill.
 
@@ -318,3 +320,4 @@ Above all other causes, the giving bounties for one commodity, and the discourag
 
     In reality, it is one of the causes of the slowness of the progress of opulence.
  -->
+ 

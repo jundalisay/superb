@@ -1,7 +1,7 @@
 ---
 title: "Ways to pay public debts-Personal treasure or credit of ruler"
 heading: "Chapter 3a"
-date: 2020-01-31
+weight: 1
 image: "/covers/wn.jpg"
 description: "The private man's revenue can pass through his hands only once a year. But the merchant's total capital and credit may pass through the merchant's hands 2-4 times a year, because his returns are quicker"
 icon: "/icons/smith.png"

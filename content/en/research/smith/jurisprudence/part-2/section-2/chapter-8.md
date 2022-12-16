@@ -1,20 +1,19 @@
-+++
-title=  "Money as the Measure of Value and Medium of Exchange"
-heading=  "Chapter 8 of Part 3 The Natural Wants of Mankind"
-description=  "To facilitate exchange, people needed some expedient to ascertain the accuracy of weight and fineness. Coinage secures these"
-date=  2015-09-23
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-7"
-linkbtext=  "Chapter 7"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-9"
-linkftext=  "Chapter 9"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Chapter 8
+title: "Money as the Measure of Value and Medium of Exchange"
+weight: 20
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "To facilitate exchange, people needed some expedient to ascertain the accuracy of weight and fineness. Coinage secures these"
+---
+
+
 
 
 ## Measures of value and measures of quantity
 
-We now consider money as= 
+We now consider money as:
 - The measure of value, and then
 - The medium of exchange.
 
@@ -28,7 +27,9 @@ This will naturally at first be the commodity with which they are best acquainte
 Accordingly, we find that black cattle and sheep were the standard in Homer’s time.
 The armour of one of his heroes was worth nine oxen.
 That of another was worth 100.
+
 Black cattle was the common standard in ancient Greece.
+
 In Italy, and particularly in Tuscany, everything was compared with sheep,their principal commodity.
 This is the 'natural measure of value'.
 Similarly, there were natural measures of quantity, such as fathoms, cubits, inches.
@@ -66,7 +67,9 @@ The expense of maintaining them was nothing.
 The whole country was considered as one great common.
 But when lands became divided and the division of labour introduced, this custom would create very big inconveniences.
 The butcher and shoemaker might at times have no use for each other’s commodities.
+
 The farmer very often cannot maintain one cow.
+
 It would be a very great hardship [185] on a Glasgow merchant to give him a cow for one of his commodities.
 To remedy this, those materials which were before considered as the measure of value, came also to be the instrument of exchange.
 
@@ -83,7 +86,7 @@ But they are more valuable than any other metal.
 - They are capable of a finer polish.
 - They are more proper for making any instrument, except those with an edge.
 
-This is why gold and silver became= 
+This is why gold and silver became:
 - the proper measure of value, and
 - the instrument of exchange.
 
@@ -91,8 +94,11 @@ But to make them more proper for these purposes, their weight and fineness neede
 
 Therefore, frauds were easily committed.
 However, this was remedied gradually.
+
 But common business does not allow the needed experiments to precisely fix the degree of fineness.
+
 They looked pure even if they had a lot of alloy.
+
 To facilitate exchange therefore, they needed some expedient to ascertain the accuracy of weight and fineness.
 Coinage most effectually secures these.
 
@@ -133,25 +139,30 @@ Besides, no man’s authority can be so great as to make his coin pass in common
 He must forge the stamp of the government.
 The government took the task upon themselves.
 
-To prevent frauds, they would try to prevent= 
+To prevent frauds, they would try to prevent:
 - counterfeiting the king’s coin, and
 - encroaching on his prerogative.
 
 Besides, the public faith was engaged.
+
 It was necessary to prevent all kinds of fraud, because it was likewise necessary that people should be obliged to receive the coin according to its denomination.
 
-If any refused it after a legal tender of payment was made= 
+If any refused it after a legal tender of payment was made:
 - the debtor should be free, and
 - the creditor guilty of felony.
 
 In rude and barbarous periods, the government was laid under many temptations to debase the coin, or, according to the mint language, to raise it.
 
 For example, when on any important occasion, such as paying of debts, or of soldiers, it needed 2 millions, but only has 1 million, it calls in the coin of the country.
+
 It mixes more alloy with it to come out as 2 million, as like as possible to what it was before.
 Many operations of this kind have been performed in every country.
+
 But England, from the freedom which it has almost uninterruptedly enjoyed, has been less troubled with this than any other nation.
-In England, it has only fallen to 1/3.
+- In England, it has only fallen to 1/3.
+
 But in many other countries it is not 1/50 of its original value.
+
 The inconveniences of such practices are very great.
 
 The debasement of the coin hinders commerce, or, at least, greatly embarrasses it.
@@ -164,7 +175,7 @@ This is a fraud committed by the government.
 Every subject must be allowed to do the same and pay his debts with the new money, less than he owed.
 However, this scheme serves its purpose for a short time.
 
-Money has two uses= 
+Money has 2 uses:
 - to pay debts
 - buy commodities
 
@@ -176,12 +187,16 @@ Life's necessities must be sold at what most people can give.
 Consequently, their price will for some time be reduced.
 The king himself gains in the meantime, but loses much.
 His doubling it is a present advantage.
+
 But it reduces his revenue, because all his taxes are paid in the new coin.
 To prevent this loss, the French and all other nations on a like occasion, when they double the money by edict without re-coinage, make the augmentation after the money is called in, and before it goes out, and a reduction is made before next term of payment.
+
 A reduction is always worse than an augmentation.
 An augmentation injures the creditor.
 A reduction injures the debtor, who should always be favoured.
+
 If I owe 10 pounds and am obliged to pay 15, common industry must be excessively embarrassed.
+
 The coins of most countries are either of copper, silver, or gold.
 
 We are obliged even to receive payment in sixpences. This sometimes causes confusion and loss of time.
@@ -197,6 +212,7 @@ Silver buys more gold abroad than at home.
 By sending abroad silver, they bring gold in return.
 This gold buys more silver here than abroad.
 Through this, a kind of trade is made.
+
 The gold coin increases and the silver diminishes.
 Some time ago, a proposal was given in to remedy this.
 But it was thought so complex a case that they resolved not to meddle with it at that time.

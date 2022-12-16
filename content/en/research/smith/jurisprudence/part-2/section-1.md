@@ -1,20 +1,18 @@
-+++
-title=  "Cleanliness and Security"
-description=  "Section 1 of The Simple Lectures on Jurisprudence by Adam Smith"
-author=  "Adam Smith"
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-1/section-3/chapter-9"
-linkbtext=  "Chapter 11"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-1"
-linkftext=  "Chapter 1"
-heading=  "Section 1"
-icon=  "/icons/smith.png"
-+++
+---
+heading: Section 1
+title: "Cleanliness and Security"
+# date: 2015-09-30
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "Section 1 of The Simple Lectures on Jurisprudence by Adam Smith"
+---
+
 
 
 Police is the second general division of jurisprudence.
 
-The name is French. It is originally derived from the Greek πολιτεία, which properly signified the policy of civil government. But now it only means the regulation of the inferior parts of government= 
+The name is French. It is originally derived from the Greek πολιτεία, which properly signified the policy of civil government. But now it only means the regulation of the inferior parts of government:
 - cleanliness
   This deals with the proper method of carrying dirt from the streets.
 - security

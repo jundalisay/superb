@@ -1,7 +1,8 @@
 ---
 heading: Chapter 3 of Part 1 Section 2
 title: "Master and Servant"
-date: 2015-09-24
+weight: 14
+# date: 2015-09-24
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

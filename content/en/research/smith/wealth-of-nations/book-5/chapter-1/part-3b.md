@@ -1,7 +1,7 @@
 ---
 title: "Roads Should Not Be Privatized"
-heading: "Part 3b of Chapter 1 of Book 5"
-date: 2021-12-12
+heading: "Part 3b"
+weight: 1
 image: "/covers/wn.jpg"
 description: "There are many objections against levying a toll on turnpikes and privatizing roads"
 # youtube: "H0tUf35JB44"

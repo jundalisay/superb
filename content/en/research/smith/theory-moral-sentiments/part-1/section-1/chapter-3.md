@@ -1,24 +1,14 @@
 ---
 title: "How we judge the feelings of others"
-heading: "Chapter 2"
-description: "The Pleasure from Mutual Sympathy is not based on Self-Love, but from the similarity of the resonance of feelings"
-date: 2015-09-28
+heading: "Chapter 3"
+description: "Our own feelings is the measure or decider of our sympathy or non-sympathy with the feelings of others"
+weight: 8
 image: "/covers/tms.jpg"
 author: "Adam Smith"
 icon: /icons/smith.png
 ---
 
-+++
-title=  ""
-heading=  "Chapter 3"
-description=  "Our own feelings is the measure or decider of our sympathy or non-sympathy with the feelings of others"
-date=  2015-10-28
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-1/section-1/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/theory-moral-sentiments/part-1/section-1/chapter-4"
-linkftext=  "Chapter 4"
-+++
+
 
 <!-- We judge the propriety of the feelings of others by our sympathy or lack of sympathy with them -->
 ### Our own feelings is the measure or decider of our sympathy or non-sympathy with the feelings of others

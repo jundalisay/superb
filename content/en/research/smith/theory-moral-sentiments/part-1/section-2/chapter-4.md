@@ -2,13 +2,10 @@
 title: "The Amiable Virtues are Social Feelings"
 heading: "Chapter 4 Part 1 of The Theory of Moral Sentiments Simplified"
 description: "The Amiable Virtues are Social Feelings"
-date: 2022-01-27
+weight: 10
+# date: 2022-01-27
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-linkb:  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-3"
-linkbtext:  "Chapter 3"
-linkf:  "/research/smith/theory-moral-sentiments/part-1/section-2/chapter-5"
-linkftext:  "Chapter 5"
 icon: /icons/smith.png
 ---
 
@@ -70,9 +67,9 @@ On the contrary, how uneasy it is to enter a house of an unloving family where t
 - The too generous and affectionate friend.
 
 <!-- Only the most brutal and worthless person can hate these.  -->
-It is always regarded  with concern, sympathy and kindness. We blame them instead for the extravagance of their attachment. Extreme humanity has nothing in itself which renders it disagreeable. However, it has a helplessness which interests our pity more than anything. We only regret that it is unfit for the world, because= 
+It is always regarded  with concern, sympathy and kindness. We blame them instead for the extravagance of their attachment. Extreme humanity has nothing in itself which renders it disagreeable. However, it has a helplessness which interests our pity more than anything. We only regret that it is unfit for the world, because:
 - the world is unworthy of it
-- it must expose the person who has it, as a prey to= 
+- it must expose the person who has it, as a prey to:
   - the treachery and ingratitude of falsehood
   - a thousand pains and uneasinesses, which he is the least deserving to feel and is least capable of supporting.
 

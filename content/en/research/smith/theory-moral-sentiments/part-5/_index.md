@@ -4,6 +4,7 @@ title: "The Influence of Society on Morality as Culture"
 linkTitle: Part 5
 description: "Part 5 of the Simplified Theory of Moral Sentiments by Adam Smith"
 image: /covers/tms.jpg
-date: 2022-04-22
+weight: 18
+# date: 2022-04-22
 ---
 

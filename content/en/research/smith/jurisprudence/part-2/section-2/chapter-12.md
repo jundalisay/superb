@@ -1,14 +1,14 @@
-+++
-title=  "The Opinion that no Expense at Home can be hurtful"
-heading=  "Chapter 12 of Part 2 Section 2"
-description=  "The absurd notion that national opulence consists in money has another bad effect -- it makes people think that whatever people spend locally cannot reduce public opulence."
-date=  2015-09-19
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-11"
-linkbtext=  "Chapter 11"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-13"
-linkftext=  "Chapter 13"
-+++
+---
+heading: Chapter 12
+title: "The Opinion that No Expense at Home Can be Hurtful"
+# date: 2015-09-10
+weight: 28
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The absurd notion that national opulence consists in money has another bad effect -- it makes people think that whatever people spend locally cannot reduce public opulence"
+---
+
 
 
 The absurd notion that national opulence consists in money has another bad effect -- it makes people think that whatever people spend locally cannot reduce public opulence.
@@ -25,7 +25,7 @@ Let us supposed that I inherit 1,000 pounds worth of necessaries and convenience
 
 Let us suppose that the Mongols, who have no idea of industry, invaded Britain. They would find here all commodities for the taking. They would put on fine clothes, eat, drink, tear, and wear everything they could get. The whole country would be reduced to the lowest misery and return to its ancient state. The 30 million pounds of money would probably remain for some time. But all the necessaries of life would be consumed.
 
-This shows the absurdity of the opinion that home consumption cannot hurt the country's opulence. That principles is why= 
+This shows the absurdity of the opinion that home consumption cannot hurt the country's opulence. That principle is why:
 - a war in Germany is thought to be a dreadful calamity as it drains the country of money, and
 - a foreign land war is always thought more prejudicial than a sea war.
 
@@ -35,7 +35,7 @@ If I buy 1,000 pounds worth of French wines and drink them all, the country is 2
 
 But in maintaining an army in a distant war, it does not matter whether we pay them in goods or money because the army's consumption is the same at any rate. Perhaps it is better to pay them in money, as our goods are better used at home. For the same reason, there is no difference between land and sea wars.
 
-Thus= 
+Thus:
 - Britain should be made a free port so that there would be no interruptions on foreign trade.
 - All duties, customs, and excise should be abolished if it were possible to defray government expenses by any other method
 - Free commerce and liberty of exchange should be allowed with all nations, and for all things.
@@ -47,7 +47,7 @@ The same absurd principles that national opulence consists in money even affects
 
 But the interest of this 100 million is paid by industrious people and given to the idle people employed in gathering it. Thus, industry is taxed to support idleness.
 
-Without the debt, the nation would have been much richer by prudence and economy. The nation's industry would not be hurt by the oppression of those idle people who live off of it. Instead of the brewer paying taxes which are often improper, the stock might have been lent out to industrious people who would= 
+Without the debt, the nation would have been much richer by prudence and economy. The nation's industry would not be hurt by the oppression of those idle people who live off of it. Instead of the brewer paying taxes which are often improper, the stock might have been lent out to industrious people who would:
 - have made 6 or 7% by it, and
 - have given better interest than the government does.
 

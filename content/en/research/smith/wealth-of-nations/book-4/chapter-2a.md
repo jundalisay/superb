@@ -1,15 +1,13 @@
-+++
-title=  "The Restraints on foreign imports which can be produced at home"
-heading=  "Chapter 2a of Book 4 "
-date=  2020-03-27
-image=  "/covers/wn.jpg"
-description=  "The monopoly of domestic industry is secured through high duties or import bans of foreign goods which can be produced at home."
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-1d"
-linkbtext=  "Chapter 1d"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-2b"
-linkftext=  "Chapter 2b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Restraints on foreign imports which can be produced at home"
+heading: "Chapter 2a"
+description: "The monopoly of domestic industry is secured through high duties or import bans of foreign goods which can be produced at home"
+image: /covers/wn.jpg
+weight: 10
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
 
 
 {{< s v="1" >}} The monopoly of domestic industry is secured through high duties or import bans of foreign goods which can be produced at home.

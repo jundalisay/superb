@@ -1,15 +1,14 @@
-+++
-title=  "Retaliatory Restraints"
-heading=  "Chapter 2c of Book 4 "
-date=  2020-03-25
-image=  "/covers/wn.jpg"
-description=  "There are two cases when it will be advantageous to lay some burden on foreign industry to encourage domestic industry"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-2b"
-linkbtext=  "Chapter 2b"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-2d"
-linkftext=  "Chapter 2d"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Retaliatory Restraints"
+heading: "Chapter 2c"
+description: "There are two cases when it will be advantageous to lay some burden on foreign industry to encourage domestic industry"
+image: /covers/wn.jpg
+weight: 14
+author: Adam Smith
+icons: /icons/smith.png
+--- 
+
+
 
 {{< s v="23" >}} There are two cases when it will be advantageous to lay some burden on foreign industry to encourage domestic industry.
 
@@ -21,32 +20,34 @@ When a tax is imposed by foreign countries on certain products of the home count
 
 For example, Great Britain's defence depends very much on its sailors and shipping.
 
-The act of navigation very properly gives British sailors and shipping the monopoly of British trade by= 
-absolute prohibitions or
-heavy burdens on foreign shipping
+The act of navigation very properly gives British sailors and shipping the monopoly of British trade by:
+- absolute prohibitions or
+- heavy burdens on foreign shipping
+
 The following are the principal dispositions of this Act.
 
-25 All ships, of which the owners and 3/4 of the mariners are not British, are prohibited from= 
-trading to the British settlements and plantations
-being employed in the coasting trade of Great Britain
+25 All ships, of which the owners and 3/4 of the mariners are not British, are prohibited from:
+- trading to the British settlements and plantations
+- being employed in the coasting trade of Great Britain
+
 The penalty is the forfeiture of the ship and its cargo.
 
-26 The most bulky commodities can only be imported into Great Britain in= 
-
-the above-mentioned ships
-ships of the country= 
-
-where those goods are produced
-whose owners, masters, and 3/4 of the mariners are of that country
+26 The most bulky commodities can only be imported into Great Britain in:
+- the above-mentioned ships
+- ships of the country:
+  - where those goods are produced
+  - whose owners, masters, and 3/4 of the mariners are of that country
 
 When goods are imported in ships of those countries, they are subject to double aliens duty.
+
 If imported in ships of any other country, the penalty is forfeiture of the ship and its goods.
 
 When this act was made, the Dutch were, and still are, the great carriers of Europe.
-By this regulation, the Dutch were entirely excluded from= 
 
-being the carriers to Great Britain
-importing to us the goods of other European countries
+By this regulation, the Dutch were entirely excluded from:
+- being the carriers to Great Britain
+- importing to us the goods of other European countries
+
 
 27 The most bulky commodities are prohibited from being imported, even in British ships, from any country where they were not produced.
 
@@ -104,21 +105,18 @@ We are likely to buy foreign goods dearer and sell our own goods cheaper.
 
 But since defence is more important than opulence, the act of navigation is, perhaps, the wisest of all commercial English regulations.
 
-<br>
 
-### Case 2=  When a tax is imposed by foreign countries on certain products of the home country.
+### Case 2: When a tax is imposed by foreign countries on certain products of the home country.
 
 In this case, it is reasonable that an equal tax should be imposed by the home country on the like produce of those foreign countries.
 
-This would not= 
+This would not:
+- give the monopoly of the home market to the domestic industry
+- turn more of the country's stock and labour towards a particular employment
 
-give the monopoly of the home market to the domestic industry
-turn more of the country's stock and labour towards a particular employment
-
-It would= 
-
-only hinder such stock and labour from being turned away into a less natural direction by the tax.
-leave the competition between foreign and domestic industry on nearly the same footing as before the tax
+It would:
+- only hinder such stock and labour from being turned away into a less natural direction by the tax.
+- leave the competition between foreign and domestic industry on nearly the same footing as before the tax
 
 In Great Britain, it is usual to lay a much heavier duty on foreign imports of the same kind when any such tax is laid on the produce of domestic industry.
 
@@ -126,12 +124,14 @@ This is to stop the complaints of our merchants and manufacturers that they will
 
 32 According to some, this second limitation should be extended beyond those foreign commodities which compete with our own.
 
-They say= 
+They say:
 
-When the basic necessities which we export are taxed by foreign countries, it becomes proper to tax= 
-the like necessities imported from them
-all foreign goods which compete our domestic produce
+When the basic necessities which we export are taxed by foreign countries, it becomes proper to tax:
+- the like necessities imported from them
+- all foreign goods which compete our domestic produce
+
 Subsistence becomes dearer because of such taxes.
+
 The price of labour must always rise with subsistence.
 
 Because of it, every domestic commodity becomes dearer indirectly.

@@ -1,14 +1,15 @@
-+++
-title=  "Summary of Stoicism and other Propriety-based Moral Philosophies"
-heading=  "Chapter 1d"
-description=  "The Stoics believed that those who had not attained perfect virtue might have some proficiency in virtue"
-date=  2015-09-27
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-7/section-2/chapter-1c"
-linkbtext=  "Chapter 1c"
-linkf=  "/research/smith/theory-moral-sentiments/part-7/section-2/chapter-2"
-linkftext=  "Chapter 2"
-+++
+---
+heading: "Chapter 1d"
+title: "Summary of Stoicism and other Propriety-based Moral Philosophies"
+linkTitle: Chapter 1c
+description: "The Stoics believed that those who had not attained perfect virtue might have some proficiency in virtue"
+weight: 10
+author: "Adam Smith"
+image: "/covers/tms.jpg"
+icon: /icons/smith.png
+---
+
+
 
 {{< s v="46" >}} The Stoics believed that those who had not attained perfect virtue might have some proficiency in virtue. They organized those proficiencies into different classes, according to their level of advancement. They called the imperfect virtues not as rectitudes, but as proprieties, fitnesses, decent and becoming actions.
 - Cicero called these officia. 

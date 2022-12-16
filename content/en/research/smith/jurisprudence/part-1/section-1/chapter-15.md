@@ -1,7 +1,8 @@
 ---
 heading: Chapter 15
 title: "Citizenship in a State"
-date: 2015-09-04
+# date: 2015-09-04
+weight: 32
 author: "Adam Smith"
 icon: /icons/smith.png
 image: "/covers/lectures.jpg"

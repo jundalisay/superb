@@ -1,7 +1,8 @@
 ---
 title: "The Development of Militaries"
 heading: "Chapter 1 Part 1a"
-date: 2020-12-31
+weight: 1
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The art of war is certainly the noblest of all arts"
 icon: "/icons/smith.png"

@@ -1,6 +1,6 @@
 ---
 title: "Simplification Notes"
-date: 2020-01-31
+author: Adam Smith
 weight: 100
 image: "/covers/wn.jpg"
 description: ""

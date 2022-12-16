@@ -1,7 +1,8 @@
 ---
 title: "Precious Metals and Stones"
-heading: "Part 2b of Chapter 11 of Book 1"
-date: 2015-09-25
+heading: "Part 2b"
+weight: 12
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The demand for Precious Metals and Stones arises partly from their utility and partly from their beauty"
 icon: "/icons/smith.png"

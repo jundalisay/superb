@@ -4,6 +4,6 @@ title: "Moral Systems based o the Principle of Approbation"
 linkTitle: Section 3
 description: "The three bases are ego, reason, and feelings"
 image: /covers/tms.jpg
-date: 2022-04-26
+weight: 6
 ---
 

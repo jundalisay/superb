@@ -1,14 +1,11 @@
 ---
 title: "The Origin of Ambition and Distinction of Ranks"
-heading: "Chapter 2 Part 1 of The Theory of Moral Sentiments Simplified"
+heading: "Chapter 2"
 description: "Our sympathy with the false idea of the happiness of the rich and the great is the basis of ambition"
-date: 2022-01-27
+# date: 2022-01-27
 author: "Adam Smith"
 image: "/covers/tms.jpg"
-linkb:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-1"
-linkbtext:  "Chapter 1"
-linkf:  "/research/smith/theory-moral-sentiments/part-1/section-3/chapter-3"
-linkftext:  "Chapter 3"
+weight: 8
 icon: /icons/smith.png
 ---
 

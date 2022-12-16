@@ -1,7 +1,7 @@
 ---
 title: "The Sinking Fund and Annuities"
 heading: "Chapter 3c"
-date: 2020-01-27
+weight: 1
 image: "/covers/wn.jpg"
 description: "During the reigns of King William and Queen Anne, large sums were frequently borrowed on annuities for terms of years which varied"
 icon: "/icons/smith.png"

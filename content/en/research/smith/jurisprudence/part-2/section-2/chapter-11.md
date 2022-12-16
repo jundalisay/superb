@@ -1,16 +1,17 @@
-+++
-title=  "The Balance of Trade"
-heading=  "Chapter 11 of Part 2 Section 2"
-description=  "No nation has been ruined by this balance of trade. When Gee published his book, the balance with all nations was against us, except Spain and Portugal"
-date=  2015-09-20
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-10"
-linkbtext=  "Chapter 10"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-12"
-linkftext=  "Chapter 12"
-+++
+---
+heading: Chapter 11
+title: "The Balance of Trade"
+# date: 2015-09-10
+weight: 26
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "No nation has been ruined by this balance of trade. When Gee published his book, the balance with all nations was against us, except Spain and Portugal"
+---
 
-The idea of public opulence consisting in money has led to the most pernicious regulations. These think= 
+
+
+The idea of public opulence consisting in money has led to the most pernicious regulations. These think:
 - that the commerce which drain us of our money are disadvantageous and so such commerce is prohibited and
 - that the commerce which increase money are beneficial and is encouraged
 
@@ -25,6 +26,7 @@ Two persons trade undoubtedly for the advantage of both. Person A has more commo
 The case is exactly the same between any two nations. The goods which the English merchants want to import from France are certainly more valuable to the English than what the English give for those goods. Our very desire to buy them shows that we have more use for them than either the money or the commodities which we give for them.
 
 It is true that money lasts forever, but that claret and cambrics are soon consumed. But the intention of industry is to produce those useful things for human life. Industry has no purpose if we cannot use the produce of our industry. If we have the money to spend on foreign commodities, why do we need to keep it in the country?
+
     
 If the circulation of commodities require it, there will be none left. If the channel of circulation is full, no more is necessary. If only a certain sum is necessary, why throw more into it?
 
@@ -44,7 +46,7 @@ All our trade with France is prohibited by the high duties imposed on every impo
 
 <!-- This would have been most advantageous to England. -->
 
-France is larger, much more populous, and more advanced in arts and manufactures. A trade with France would excite our industry to make it much greater. 20 million people working through the division of labour, would produce 1,000 times more goods than another society of only 3 million. It would be better for England and France to= 
+France is larger, much more populous, and more advanced in arts and manufactures. A trade with France would excite our industry to make it much greater. 20 million people working through the division of labour, would produce 1,000 times more goods than another society of only 3 million. It would be better for England and France to:
 - have all national prejudices rooted out, and
 - have a free and uninterrupted commerce established.
 
@@ -57,3 +59,4 @@ The French and Dutch writers embraced the same principle. They frequently alarme
 The nation's poverty can never come from foreign trade if done with wisdom and prudence. Poverty comes from much the same causes with those which render an individual poor. **When a man consumes more than he gains by his industry, he must impoverish himself unless he has some other way of subsistence.** In the same way, if a nation consumes more than it produces, poverty is inevitable.
 
 If its annual produce is 90 million and its annual consumption is 100 million, then it spends, eats, and drinks, wears and tears, 10 million more than it produces. Its stock of opulence must gradually go to nothing.
+

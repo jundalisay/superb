@@ -1,7 +1,7 @@
 ---
 title: "Article 4-General Taxes -- Taxes on luxuries"
-heading: "Part 2u, Article 4 Simplified"
-date: 2020-11-23
+heading: "Part 2u, Article 4"
+weight: 1
 image: "/covers/wn.jpg"
 description: "Taxes on luxuries generally are paid piecemeal. In the time and mode of payment they are the most convenient of all taxes"
 icon: "/icons/smith.png"

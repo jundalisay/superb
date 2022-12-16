@@ -1,7 +1,8 @@
 ---
 title: "Introduction on Rent"
-heading: "Introduction of Chapter 11 of Book 1"
-date: 2015-09-30
+heading: "Introduction"
+weight: 2
+author: Adam Smith
 image: "/covers/wn.jpg"
 description: "Adam Smith introduces the concept of Rent"
 icon: "/icons/smith.png"

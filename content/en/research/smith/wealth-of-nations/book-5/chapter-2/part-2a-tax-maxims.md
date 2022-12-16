@@ -1,7 +1,7 @@
 ---
 title: "The Four Taxation Maxims"
 heading: "Chapter 2 Part 2a"
-date: 2020-12-29
+weight: 1
 image: "/covers/wn.jpg"
 description: "Every tax must ultimately be paid from any or all of those three kinds of revenue"
 icon: "/icons/smith.png"

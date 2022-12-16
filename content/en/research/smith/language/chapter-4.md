@@ -1,19 +1,14 @@
+---
+heading: Chapter 4
+title: "The English Language versus the French and Italian"
+weight: 14
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "As long as any language was spoken by those only who learned it in their infancy, the intricacy of its declensions and conjugations could occasion no great embarrassment"
+---
 
 
-
-+++
-title=  "The English Language versus the French and Italian"
-heading=  "Chapter 4 of Adam Smith's Essays"
-description=  "As long as any language was spoken by those only who learned it in their infancy, the intricacy of its declensions and conjugations could occasion no great embarrassment"
-date=  2022-01-09
-image=  "/covers/lang.jpg"
-# image=  "/photos/idea.jpg"
-linkb=  "/research/smith/language/"
-linkbtext=  "Index"
-linkf=  "/research/smith/language"
-linkftext=  "Index"
-btext=  "Chapter 4"
-+++
 
 Language would probably have continued upon this footing in all countries, nor would ever have grown more simple in its declensions and conjugations, had it not become more complex in its composition, in consequence of the mixture of several languages with one another, occasioned by the mixture of different nations. 
 
@@ -21,7 +16,11 @@ As long as any language was spoken by those only who learned it in their infancy
 
 Each nation, in order to make itself intelligible to those with whom it was under the necessity of conversing, would be obliged to learn the language of the other. The greater part of individuals too, learning the new language, not by art, or by remounting to its rudiments and first principle, but by rote, and by what they commonly heard in conversation, would be extremely perplexed by the intricacy of its declensions and conjugations. They would endeavour, therefore, to supply their ignorance of these, by whatever shift the language could afford them. Their ignorance of the declensions they would naturally supply by the use of prepositions; 
 
-A Lombard, who was attempting to speak Latin, and wanted to express that such a person was a citizen of Rome, or a benefactor to Rome, if he happened not to be acquainted with the genitive and dative cases of the word Roma, would naturally express himself by prefixing the prepositions ad and de to the nominative; and instead of Romæ, would say, ad Roma, and de Roma. Al Roma and di Roma, accordingly, is the manner in which the present Italians, the descendants of the ancient Lombards and Romans, express this and all other similar relations. And in this manner prepositions seem to have been introduced, in the room of the ancient declensions. The same alteration has, I am informed, been produced upon the Greek language, since the taking of Constantinople by the Turks. The words are, in a great measure, the same as before; but the grammar is entirely lost, prepositions having come in the place of the old declensions. This change is undoubtedly a simplification of the language, in point of rudiments and principle. It introduces, instead of a great variety of declensions, one universal declension, which is the same in every word, of whatever gender, number, or termination.
+A Lombard, who was attempting to speak Latin, and wanted to express that such a person was a citizen of Rome, or a benefactor to Rome, if he happened not to be acquainted with the genitive and dative cases of the word Roma, would naturally express himself by prefixing the prepositions ad and de to the nominative; and instead of Romæ, would say, ad Roma, and de Roma. Al Roma and di Roma, accordingly, is the manner in which the present Italians, the descendants of the ancient Lombards and Romans, express this and all other similar relations. 
+
+In this manner, prepositions seem to have been introduced, in the room of the ancient declensions. The same alteration has, I am informed, been produced upon the Greek language, since the taking of Constantinople by the Turks. The words are, in a great measure, the same as before; but the grammar is entirely lost, prepositions having come in the place of the old declensions. This change is undoubtedly a simplification of the language, in point of rudiments and principle.
+
+It introduces, instead of a great variety of declensions, one universal declension, which is the same in every word, of whatever gender, number, or termination.
 
 A similar expedient enables men, in the situation above mentioned, to get rid of almost the whole intricacy of their conjugations. There is in every language a verb, known by the name of the substantive verb; in Latin, sum; in English, I am. This verb denotes not the existence of any particular event, but existence in general. It is, upon that account, the most abstract and metaphysical of all verbs; and, consequently, could by no means be a word of early invention. When it came to be invented, however, as it had all the tenses and modes of any other verb, by being joined with the passive participle, it was capable of supplying the place of the whole passive voice, and of rendering this part of their conjugations as simple and uniform as the 321 use of prepositions had rendered their declensions. A Lombard, who wanted to say, I am loved, but could not recollect the word amor, naturally endeavoured to supply his ignorance, by saying ego sum amatus. Io sono amato, is at this day the Italian expression, which corresponds to the English phrase above mentioned.
 
@@ -41,5 +40,9 @@ The French was introduced into Britain by the Norman conquest, and continued, ti
 
 This led to Modern English, used up to today. It is more complex in its composition than the French or the Italian. THis makes it simpler in its declensions and conjugations. 
 
-Those two languages retain, at least, a part of the distinction of genders, and their adjectives vary their termination according as they are applied to a masculine or to a feminine substantive. But there is no such distinction in the English language, whose adjectives admit of no variety of termination. The French and Italian languages have, both of them, the remains of a conjugation; and all those tenses of the active voice, which cannot be expressed by the possessive verb joined to the passive participle, as well as many of those which can, are, in those languages, marked by varying the termination of the principal verb. But almost all those other tenses are in the English eked out by other auxiliary verbs, so that there is in this language scarce even the remains of a conjugation. I love, I loved, loving, are all the varieties of termination which the greater part of the English verbs admit of. All the different modifications of meaning, which cannot be expressed by any of those three terminations, must be made out by different auxiliary verbs joined to some one or other of them. Two auxiliary verbs supply all the deficiencies of the French and Italian conjugations; it requires more than half a dozen to supply those of the English, which, besides the substantive and possessive verbs, makes use of do, did; will, would; shall, should; can, could; may, might.
+Those two languages retain, at least, a part of the distinction of genders, and their adjectives vary their termination according as they are applied to a masculine or to a feminine substantive. But there is no such distinction in the English language, whose adjectives admit of no variety of termination. 
+
+The French and Italian languages have, both of them, the remains of a conjugation; and all those tenses of the active voice, which cannot be expressed by the possessive verb joined to the passive participle, as well as many of those which can, are, in those languages, marked by varying the termination of the principal verb. But almost all those other tenses are in the English eked out by other auxiliary verbs, so that there is in this language scarce even the remains of a conjugation. 
+
+I love, I loved, loving, are all the varieties of termination which the greater part of the English verbs admit of. All the different modifications of meaning, which cannot be expressed by any of those three terminations, must be made out by different auxiliary verbs joined to some one or other of them. Two auxiliary verbs supply all the deficiencies of the French and Italian conjugations; it requires more than half a dozen to supply those of the English, which, besides the substantive and possessive verbs, makes use of do, did; will, would; shall, should; can, could; may, might.
 

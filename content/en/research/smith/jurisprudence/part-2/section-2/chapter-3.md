@@ -1,22 +1,21 @@
-+++
-title=  "The Opulence from the Division of Labour"
-heading=  "Chapter 3 of Part 2 Section 2"
-description=  "The Opulence from the Division of Labour"
-date=  2015-09-28
-image=  "/covers/lectures.jpg"
-linkb=  "/research/smith/jurisprudence/part-2/section-2/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/jurisprudence/part-2/section-2/chapter-4"
-linkftext=  "Chapter 4"
-+++
+---
+heading: Chapter 3
+title: "The Opulence from the Division of Labour"
+weight: 8
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/lectures.jpg"
+description: "The beginnings of the Wealth of Nations is from this Chapter to Part 4. We can conclude that the rest is to form his work on Jurisprudence"
+---
 
-> Translators Note=  The beginnings of the Wealth of Nations is from this Chapter to Part 4. We can conclude that the rest is to form his work on Jurisprudence
+
+> Superphysics Note: The beginnings of the Wealth of Nations is from this Chapter to Part 4. We can conclude that the rest is to form his work on Jurisprudence
 
 In an uncivilized nation where labour is undivided, everything is provided for by the natural needs of mankind.
 
 Yet, when the nation is cultivated and labour divided, a more liberal provision is allotted them. This is how a common day-labourer in Britain has more luxury than an Indian sovereign.
 
-The woollen coat he wears requires many preparations. The following must be employed before the labourer is clothed= 
+The woollen coat he wears requires many preparations. The following must be employed before the labourer is clothed:
 - the wool-gatherer,
 - the dresser,
 - the spinster,
@@ -24,7 +23,7 @@ The woollen coat he wears requires many preparations. The following must be empl
 - the weaver,
 - the tailor, and many more.
 
-The tools needed for this employ still more artists= 
+The tools needed for this employ still more artists:
 - the loom-maker,
 - the miln-wright,
 - the rope-maker,
@@ -35,7 +34,7 @@ The tools needed for this employ still more artists=
 - the forger,
 - the smith, etc.
 
-Besides his dress, consider all his= 
+Besides his dress, consider all his:
 - household furniture,
 - coarse linens,
 - shoes,
