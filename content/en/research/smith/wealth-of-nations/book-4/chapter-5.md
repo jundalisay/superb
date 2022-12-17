@@ -3,7 +3,7 @@ title: "Effect of Export Bounties on Real Prices"
 heading: "Chapter 5"
 description: "Bounties should only be given to trades which cannot be carried on without bounties"
 image: /covers/wn.jpg
-weight: 26
+weight: 38
 author: Adam Smith
 icons: /icons/smith.png
 --- 

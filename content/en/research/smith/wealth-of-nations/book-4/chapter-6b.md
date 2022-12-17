@@ -1,15 +1,12 @@
-+++
-title=  "Gold in Coinage"
-heading=  "Chapter 6b of Book 4 "
-description=  "Nobody imagines that the annual gold coinage of more than £800,000 a year for 10 years, was an addition to the money in the kingdom."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-6a"
-linkbtext=  "Chapter 6a"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-7a"
-linkftext=  "Chapter 7a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Gold in Coinage"
+heading: "Chapter 6b"
+description: "Nobody imagines that the annual gold coinage of more than £800,000 a year for 10 years, was an addition to the money in the kingdom"
+image: /covers/wn.jpg
+weight: 60
+author: Adam Smith
+icons: /icons/smith.png
+---
 
 
 {{< s v="17" >}} The goldsmith's trade is very big in Great Britain.
@@ -19,6 +16,7 @@ Most of the new plate that they sell is made from old plate melted down. Thus, t
 {{< s v="18" >}} It is the same case with the coin.
 
 Nobody imagines that the annual gold coinage of more than £800,000 a year for 10 years, was an addition to the money in the kingdom.
+
 If the process of coinage is made free by the government, the coin's value can never be much greater than the value of uncoined metals, even when the coin has its full standard weight of gold and silver. This is because it will only require the trouble of= 
 - going to the mint, and
 - a delay of a few weeks to get those metals coined.
@@ -28,14 +26,19 @@ But most of the coin in every country is almost always worn or degenerated from 
 Before the recent reformation, it was much worn in Great Britain.
     The gold coin was more than 2% below its standard weight.
     The silver coin was more than 8% below its standard weight.
+
 If 44 guineas and a half, containing a pound weight of gold, could buy little more what a pound weight of uncoined gold could, 44 guineas and a half lacking some weight, could not buy a pound weight.
     Something must be added to make up the deficiency.
+
 The current market price of gold bullion was then 11,448 pence and sometimes 11,520 pence.
     It was not the same with the mint price of 11, 214 pence.
+
 When most of the coin was this degenerated, 44 guineas and a half, fresh from the mint, would purchase no more goods than other ordinary guineas.
 Because when they came into the merchant's coffers, they were confounded with other money.
     They could not be distinguished without more trouble than the difference was worth.
+
 Like other guineas, they were worth no more than 11,214 pence.
+
 If thrown into the melting pot, they produced a pound weight of standard gold without any sensible loss.
 It could then be sold between 11,448 pence and 11,520 pence in gold or silver.
 There was a profit in melting down new coined money.

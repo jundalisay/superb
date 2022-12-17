@@ -3,7 +3,7 @@ title: "The Restraints on foreign imports which can be produced at home"
 heading: "Chapter 2a"
 description: "The monopoly of domestic industry is secured through high duties or import bans of foreign goods which can be produced at home"
 image: /covers/wn.jpg
-weight: 10
+weight: 18
 author: Adam Smith
 icons: /icons/smith.png
 --- 

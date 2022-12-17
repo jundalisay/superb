@@ -3,7 +3,7 @@ title: "Restoring Free Trade"
 heading: "Chapter 2d"
 description: "All those manufactured exports, without a bounty, to other European countries, could be very little affected by the freest importation of foreign goods"
 image: /covers/wn.jpg
-weight: 16
+weight: 24
 author: Adam Smith
 icons: /icons/smith.png
 --- 

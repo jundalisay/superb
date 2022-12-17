@@ -1,125 +1,138 @@
-+++
-title=  "Colony assemblies and Representation"
-heading=  "Chapter 7j of Book 4 "
-description=  "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-7h"
-linkbtext=  "Chapter 7h"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-7j"
-linkftext=  "Chapter 7j"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Monopoly from the Act of Navigation"
+heading: "Chapter 7k"
+description: "The English Puritans were restrained at home. They fled for freedom to America and established the four governments of New England"
+image: /covers/wn.jpg
+weight: 80
+author: Adam Smith
+icons: /icons/smith.png
+---
 
 
-{{< s v="151" >}} Under the present system of management, Great Britain only derives loss from her colonies.
 
+{{< s v="105" >}} By the act of navigation, England assumed to herself the monopoly of the colony trade.
 
-{{< s v="152" >}} The following proposal never was and never will be adopted by any nation= 
+The foreign capitals employed in it were withdrawn from it.
+The English capital which did a part of it now did the whole.
 
-Great Britain should voluntarily give up all authority over her colonies.
-The colonies should be left to elect their own magistrates and enact their own laws.
-The colonies should make peace and war as they might think proper.
+The capital which supplied the colonies with part of the European goods they wanted was now all employed to supply them with the whole.
+    But English capital could not supply the colonies with all European goods.
+    Those goods it supplied were sold very dear.
 
-No nation ever voluntarily gave up the dominion of any province no matter how= 
+The capital which bought only a part of the surplus produce of the colonies, was now all employed to buy the whole.
+    But it could not buy the whole produce at the old price.
+    Whatever it could buy it bought very cheap.
 
-troublesome it might be to govern it
-small the revenue it afforded, compared to the expence it created
+The profit must have been very great because the merchant sold very dear and bought very cheap.
+    This superiority of profit in the colony trade must have drawn capital from other trades.
+    This must have gradually increased the competition in the colony trade and lowered the profits.
+    It must have gradually diminished the competition in other trades and raised their profits.
+    The profits of all trades must have come to a new level higher than before.
 
-Such sacrifices are always mortifying to the pride of every nation.
+106 This monopoly produced the double effects on its first establishment and has continued ever since= 
 
-Although such sacrifices might frequently be agreeable to their interest.
-More importantly, they are always contrary to the private interest of the government.
-    They would be deprived of= 
-        many places of trust and profit
-        many opportunities of acquiring wealth and distinction
-            The possession of the most turbulent and unprofitable province always affords wealth and distinction
-The most visionary enthusiast cannot propose such a measure with any serious hopes of it ever being adopted.
-    If it were adopted, Great Britain would be immediately freed from the expence of the peace establishment of the colonies.
-    She might settle for a treaty of commerce which would secure her a free trade.
-        The free trade would be more advantageous to the people.
-            It would be less advantageous to the merchants than the current monopoly.
-        The natural affection of the colonies to the mother country was almost extinguished by our recent dissensions.
-            By parting good friends, this affection would perhaps quickly revive.
-            By this affection, they might for centuries respect the treaty of commerce they concluded at parting with us.
-        They might be disposed to favour us in war and in trade.
-        They might become our most faithful, affectionate, and generous allies instead of turbulent and factious subjects.
-        The parental affection of Great Britain and the filial respect of her colonies might be revived.
-            Such affection and respect was present between the ancient Greek colonies and their mother city.
+Drawing capital from all other trades
+Raising profit rates higher in all trades
 
-153 For any province to be advantageous to its empire, it should afford a peacetime revenue sufficient for= 
+107 This monopoly continually drew capital from all other trades to be employed in the colonies.
 
-defraying the expence of its own peace establishment
-contributing its proportion to support the empire's government.
+108 Though the wealth of Great Britain increased very much since the act of navigation was established, it did not increase in the same proportion as the wealth of the colonies.
+"But the foreign trade of every country naturally increases in proportion to its wealth."
+    Its surplus produce increases in proportion to its whole produce.
+Great Britain engrossed to herself almost all of the foreign trade of the colonies.
+    Her capital did not increase proportionately with the increase of that trade.
+    She could not carry it on without= 
+        withdrawing some capital from other trades
+        withholding from other trades more than what would have gone to them
+Since the act of navigation was established, the colony trade continually increased.
+    However, other foreign trades to other parts of Europe continually decayed.
+Before the act of navigation, our manufactures for foreign sale were suited to= 
+    the European market
+    the distant market around the Mediterranean Sea
+After the act of navigation, most of them were accommodated to the more distant colony markets.
+    They went where they have the monopoly instead of where they have many competitors.
+The overgrowth of the colony trade is the cause of decay in other foreign trades.
+    This cause includes the causes which Sir Matthew Decker and other writers attributed the decay to= 
+        The excess and improper mode of taxation
+        The high price of labour
+        The increase of luxury, etc.
+The mercantile capital of Great Britain was very great but not infinite.
+    It greatly increased since the act of navigation.
+    It did not increase proportionally to the colony trade.
+        That trade could not be carried on without withdrawing some capital from other trades.
+            Those other trades consequently decayed.
 
-"Every province necessarily contributes to increase the expence of that general government."
+109 England was a great trading country.
 
-If any province does not contribute, an unequal burden must placed on some other part of the empire.
-The wartime revenue of every province should be proportional to peacetime revenue of the empire.
-Neither the ordinary nor extraordinary revenue from British colonies is proportional to the revenue of Great Britain.
-The monopoly was supposed to= 
-    increase British private revenue
-    enable the British to pay more taxes to compensate the deficiency of revenue from the colonies.
-I have shown that this monopoly is a very grievous tax on the colonies.
-    It may increase the revenue of an order of men in Great Britain, but it reduces the people's revenue.
-    It consequently reduces the people's ability to pay taxes.
-    The order of men who get increased revenue from the monopoly is absolutely impossible to tax beyond the proportion of other orders.
-        I shall show in Book 5 that that order is extremely unwise even to attempt to tax beyond that proportion.
-        No resource can be drawn from that order.
+Her mercantile capital was very great even before the act of navigation.
+In the Dutch war during the Cromwell government, her navy was superior to Holland.
+In the war in the beginning of the reign of Charles II, it was equal or superior to the united navies of France and Holland.
+    Presently its superiority is not greater if the Dutch navy was proportional to the Dutch commerce now as it was before.
+This great naval power could not be due to the act of navigation.
+    During the first of those wars, the plan of that act was just formed.
+    Before the second war, that act was fully enacted.
+    No part of it had time to produce any big effect.
+The colonies and their trade were inconsiderable then compared to now.
+    Jamaica was an unwholesome desert, little inhabited, and less cultivated.
+    New York and New Jersey were possessed by the Dutch.
+    Half of St. Christopher's was possessed by the French.
+    Antigua, the two Carolinas, Pennsylvania, Georgia, and Nova Scotia were not planted.
+    Virginia, Maryland, and New England were planted and thriving.
+No one foresaw their rapid progress in wealth, population, and improvement.
+    Barbados was the only British colony which remained relatively unchanged.
+The act of navigation was not very strictly executed for several years.
+Even after the act of navigation, the colony trade of England, could not have caused at that time= 
+    the great English trade
+    the great naval power supported by that trade.
+At that time, the trade of Europe and the Mediterranean Sea supported the great English naval power.
+    Currently, that trade is not able support British naval power.
+Had the colony trade been left free to all nations, any British share in the colony trade would have added to the great European trade she had before.
+    Because of the monopoly, the increase of the colony trade did not add much to the British trade.
 
+110 This monopoly kept up profit rates in British trade higher than if all nations were allowed a free trade to the British colonies.
 
-### Colony Assemblies
+111 The monopoly of the colony trade drew more British capital than natural.
+By the expulsion of all foreign capitals, it reduced the whole capital employed in that trade below natural as in a free trade.
+By lessening the competition of capitals in the colony trade, it raised its profit rate.
+By lessening the competition of British capitals in other trades, it raised British profit rates in those other trades.
+The monopoly of the colony trade must have raised ordinary British profit rates higher than normal in all British trades.
+Since the act of navigation, ordinary British profit rates fell considerably.
+    It would have fallen still lower if the monopoly established by that act did not keep it up.
 
-154 The colonies may be taxed by their own assemblies or by the British parliament. 155 It seems improbable that the colony assemblies can ever levy a public revenue sufficient to= 
+112
+Whatever raises the ordinary profit rate in any country higher than it otherwise would be, necessarily subjects that country to an absolute and a relative disadvantage in every trade which she has no monopoly of.
+113 It subjects her to an absolute disadvantage.
 
-maintain their own civil and military establishment
-pay their share of the government expences of the British empire.
+In trades where she has no monopoly, her merchants cannot get this greater profit without selling her foreign imports and her own exports dearer.
+The country must buy dearer and sell dearer.
+    It must buy less and sell less.
+    It must enjoy less and produce less.
 
-It took a long time before even the parliament of England, under the eye of the sovereign, could be= 
+114 It subjects her to a relative disadvantage.
 
-brought under such a system of management
-rendered sufficiently liberal in their grants to support the civil and military establishments even of England.
+In trades where she has no monopoly, other countries do not have the same absolute disadvantage.
+Other countries are more above or less below her.
+It enables them to enjoy more and to produce more.
+It renders their superiority greater or their inferiority less.
+By raising the price of her produce above the natural, it enables foreign merchants to undersell her in foreign markets.
+They jostle her out of trades where she has no monopoly.
 
-Such a system of management could only be established in the English parliament by distributing among the parliament members a part of= 
+115 Our merchants frequently complain of the high British wages as the cause of their manufactures being undersold in foreign markets.
 
-the offices
-the disposal of the offices arising from this civil and military establishment
+They are silent about their high profits.
+"They complain of the extravagant gain of other people, but they say nothing of their own."
+High British profits, however, may raise the price of British manufactures perhaps more than high British wages.
 
-But it is difficult for the sovereign to manage the colony assemblies in the same way as the parliament due to their:
-- distance
-- number
-- dispersed situation
-- various constitutions
+116 In this manner, British capital was partly driven from the trades where she has no monopoly= 
 
-It would be absolutely impossible to distribute among all the leading members of all the colony assemblies a share of the offices of the general government of the British empire.
+From the trade of Europe in particular, and around the Mediterranean Sea
 
-Such offices would dispose the leaders to:
-- give up their popularity at home
-- tax their constituents to support that general government.
+117 It was partly drawn from those trades by the attraction of superior profit in the colony trade due to= 
 
-Almost the whole emoluments were divided among people who were strangers to them.
-The following renders such a system of management unfeasible:
+the continual increase of that trade
+the continual insufficiency of capital needed to carry it on annually
 
-The unavoidable ignorance of administration concerning the importance of those assembly members
-The offences which must frequently be given
-The blunders which must constantly be committed in attempting to manage them.
+118 It was partly driven from those trades by the high British profit rates.
 
+Those rates gave advantages to other countries in trades where Great Britain has no monopoly.
 
-{{< s v="156" >}} "The colony assemblies cannot be the proper judges of what is necessary for the defence and support of the whole empire."
-
-The care of that defence and support is not entrusted to them.
-
-It is not their business.
-They have no regular information concerning it.
-
-The assembly of a province, like the vestry of a parish, may judge very properly concerning the affairs of its own district.
-
-But it can have no proper means of judging those of the whole empire.
-It cannot even judge properly the proportion of its own province to the whole empire.
-It cannot judge the relative degree of its wealth and importance compared with other provinces.
-
-Because those other provinces are not under the inspection and superintendency of the assembly of a particular province.
-
-Only an assembly which inspects and superintends the affairs of the whole empire can judge:
-- what is necessary for the defence and support of the whole empire
-- in what proportion each part should contribute.

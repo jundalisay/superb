@@ -1,14 +1,14 @@
-+++
-title=  "Conclusion on Mercantilism"
-date=  2020-03-22
-image=  "/covers/wn.jpg"
-description =  "The mercantile system proposes to enrich every country through two great engines"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-7m"
-linkbtext=  "Chapter 7m"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-8b"
-linkftext=  "Chapter 8b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 8"
+title: "Conclusion on Mercantilism"
+linkTitle: "Chapter 8"
+weight: 98
+image: "/covers/wn.jpg"
+description: "The mercantile system proposes to enrich every country through two great engines"
+author: Adam Smith
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="1" >}} The mercantile system proposes to enrich every country through two great engines:

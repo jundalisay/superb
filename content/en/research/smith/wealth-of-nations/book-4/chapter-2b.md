@@ -3,7 +3,7 @@ title: "Free importation"
 heading: "Chapter 2b of Book 4"
 description: "Merchants and manufacturers derive the greatest advantage from this monopoly of the home-market"
 image: /covers/wn.jpg
-weight: 12
+weight: 20
 author: Adam Smith
 icons: /icons/smith.png
 --- 

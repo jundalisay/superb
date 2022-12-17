@@ -3,7 +3,7 @@ title: "Drawbacks"
 heading: "Chapter 4"
 description: "Drawbacks seem the most reasonable of these encouragements"
 image: /covers/wn.jpg
-weight: 24
+weight: 36
 author: Adam Smith
 icons: /icons/smith.png
 --- 

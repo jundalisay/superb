@@ -1,198 +1,199 @@
 ---
-title: "Digression on the wheat trade and wheat laws: Foreign wheat market"
-heading: "Chapter 5e"
-description: "The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply"
+title: "Digression on the wheat trade and wheat laws: Domestic wheat market"
+heading: "Chapter 5d"
+description: "The wheat merchant's trade is composed of 4 separate branches which can be done by the same person"
 image: /covers/wn.jpg
-weight: 34
+weight: 46
 author: Adam Smith
 icons: /icons/smith.png
 --- 
 
 
+{{< s v="40" >}} The praises for the following are unmerited:
+- The law which establishes the wheat export bounty
+- The regulations connected with the bounty
 
-{{< s v="62" >}} The 15th of Charles 2nd Chapter 7 authorizes two very absurd popular prejudices.
+This is demonstrated by examining the nature of:
+- the wheat trade, and
+- the British laws related to it
 
-{{< s v="63" >}} It supposes that when wheat prices rise to 576 pence the quarter, wheat is likely to be so engrossed as to hurt the people.
-
-    But it is evident that wheat cannot be so engrossed by the inland dealers to hurt the people.
-    576 pence the quarter is a very high price.
-        But in years of scarcity, it is the common price immediately after harvest.
-        After such a harvest, none of the new crop can be sold off.
-            Thus, it is impossible that the crop can be so engrossed as to hurt the people.
+This is a very important subject, justified by this long digression.
 
 
-{{< s v="64" >}} It supposes that there is a certain price at which wheat will be forestalled or bought to be re-sold in the same market, to hurt the people.
+{{< s v="41" >}} The wheat merchant's trade is composed of 4 separate branches which can be done by the same person:
 
-    If a merchant ever buys up wheat to sell it again in the same market, it is because he judges that the market cannot be so liberally supplied through the whole season and that the price must soon rise.
-        If he judges wrong and the price does not rise, he loses= 
-            his whole profit
-            some of the stock itself by the loss from storing wheat
-                He hurts himself much more than he can hurt the people who were supposed to buy wheat on that day.
-                    Because the people can buy cheaper wheat on any other day.
-        If he judges right, he renders them a most important service.
-            He makes them feel the dearth earlier.
-            He prevents them from consuming wheat as fast as before, when prices were cheap.
-                He thus prevents them from feeling the dearth so severely afterwards.
-    When the scarcity is real, the best thing that can be done is to divide its inconveniencies as equally as possible through all the months, weeks, and days of the year.
-        The wheat merchant's interest makes him study this as exactly as he can.
-            No other person can have the same interest, knowledge, or abilities to do it as he.
-            This most important operation of commerce should be trusted entirely to him.
-    The wheat trade which supplies the home market should be left perfectly free.
+1. The trade of the inland dealer
+2. The merchant importer for home consumption
+3. The merchant exporter of home produce for foreign consumption
+4. The merchant carrier or importer and re-exporter of wheat
 
- 
 
-65
-"The popular fear of engrossing and forestalling may be compared to the popular terrors and suspicions of witchcraft."
+{{< s v="42" >}} The interest of the inland dealer is exactly the same with the people's interest even if it may appear opposite even in years of great scarcity.
 
-    Those accused of witchcraft were as innocent as those who were accused of engrossing.
-    The law which ended all prosecutions against witchcraft, ended those fears and suspicions by removing the great cause of the fear.
-        It prevented men from gratifying their own malice in accusing others of imaginary crimes.
-    The law which restores the entire freedom of the inland wheat trade would probably end the popular fears of engrossing and forestalling.
+    His interest is to raise wheat prices as high as needed by the season's real scarcity.
+        It can never be his interest to raise it higher.
+    He discourages wheat consumption by raising its price.
+        He puts everybody on thrift and good management, especially the lower class.
+    If he raises wheat prices too high, he discourages wheat consumption so much that the season's supply will be more than the season's consumption.
+        The supply will last for some time after the next crop comes in.
+        He runs the hazard of= 
+            losing a big part of his wheat by natural causes
+            being obliged to sell what remains for much less
+    If he does not raise the price high enough, he discourages wheat consumption so little that the season's supply will be less than the season's consumption.
+        He loses some of the profit he might have made.
+        He exposes the people to a horrific famine before the season's end, instead of a difficult dearth.
+    It is the people's interest that their daily, weekly, and monthly consumption should be proportional to the season's supply.
+        The interest of the inland wheat dealer is the same as the people.
+            He can sell all his wheat for the highest price and the most profit by supplying them in this proportion, as nearly as he can judge.
+            He judge the people's real supplies through his knowledge of= 
+                the wheat's state
+                his daily, weekly, and monthly sales
 
- 
 
-66  Despite all the imperfections of the 15th of Charles II. c. 7, it has perhaps contributed more than any other law in the statute book to increase the= 
+## The Wheat Merchant and The Invisible Hand of Svadharma
 
-    home market's supply, and
-    tillage.
+Without intending the people's interest, he is necessarily led by a regard to his own interest.
 
-The inland wheat trade has derived all the liberty and protection from this law.
+Even in years of scarcity, he treats people in the same way as a prudent shipmaster treats his crew.
+    He puts them on short allowance when he foresees that provisions will run short.
+    He sometimes does this unnecessarily.
+        But all the crew's inconveniences are small compared to the danger from doing otherwise.
+In the same way, excessive avarice might cause the inland wheat merchant to raise wheat prices higher than what the season's scarcity requires.
+    Yet all the people's inconveniences from this secures them from a famine in the season's end.
+    The suffering is small compared to the suffering created by a more liberal way of dealing with the scarcity.
+    The wheat merchant will likely suffer the most by this excess of avarice because= 
+        of the indignation against him
+        he must sell his season's leftover wheat at a lower price if the next season is abundant.
 
-    The home market's supply and the interest of tillage are much more effectively promoted by the inland trade than by the external trade.
 
- 
+{{< s v="43" >}} If one great merchant company got all of a country's crops, it might be its interest to destroy a big part of it to keep up the price of the rest.
 
-67 According to Charles Smith, the proportion of grain imported into Great Britain to the grain consumed does not exceed 1= 570.
-
-    For supplying the home market, the importance of the inland trade must be 570= 1 to the importance of the importation trade.
-    68 The grain exported from Great Britain does not exceed one-and-thirtieth part of the annual produce.
-    For the encouragement of tillage, the importance of the inland trade must be 30 times the importance of the exportation trade.
-
- 
-
-69
-I have no great faith in political arithmetic computations.
-
-    I only mention them to show how much less consequence the foreign trade of wheat is than the home trade.
-    The great cheapness of wheat in the years immediately before the bounty's establishment, may reasonably be ascribed to this statute of Charles II.
-        This statute was enacted 25 years before.
-        It had full time to produce its effect.
-
- 
-
-70 A few words will explain the wheat trade's other three branches.
-
-    71  The merchant importer of foreign wheat for home consumption contributes to the home market's immediate supply.
-
-    It is immediately beneficial to the people.
-        It lowers somewhat the average money price of wheat, but does not reduce its real value.
-        If importation were always free, our farmers would probably get less money for their wheat than at present.
-            But the money they will get would be of more value.
-                It would buy more goods and employ more labour.
-            Their real wealth and revenue would be the same, but expressed by fewer silver.
-                They would not be disabled nor discouraged from cultivating wheat as at present.
-        Such lowering of wheat's money price would naturally mean a rise in the real value of silver.
-            The rise in the real value of silver lowers somewhat the money price of all other commodities.
-            It gives the country's industry some advantage in all foreign markets.
-                It encourages and increases that industry.
-    But the extent of the home market for wheat must be proportional to the general industry of the country where it grows.
-        It must be proportional to the number of people who have something else to give for wheat.
-    But in every country, the home market is the nearest and most convenient market.
-        The home market is the greatest and most important market for wheat.
-        The rise in the real value of silver caused by the lowering of the money price of wheat= 
-            enlarges this greatest wheat market and
-            encourages its growth.
+This is what the Dutch did to the Moluccas spiceries.
+But it is impossible, even by the violence of law, to establish such an extensive monopoly on wheat.
+    Wherever there is free trade, wheat is the least liable to be engrossed or monopolized by a few large capitals.
+    Its value far exceeds what the capitals of a few private men can buy.
+        Even if they were able to buy it, it would be impractical because of the way wheat is produced.
+In every civilized country, wheat is the commodity consumed the most annually.
+    More industry is employed in producing wheat than any other commodity.
+    When it first comes from the ground, it is divided among more owners than any other commodity.
+        These owners can never be collected into one place like independent manufacturers.
+        They are scattered throughout the countryside.
+        These first owners immediately supply= 
+            the consumers in their own neighbourhood or
+            other inland dealers who supply those consumers
+The inland dealers in wheat include the farmer and the baker.
+    They are more numerous than the dealers in any other commodity.
+    Their dispersed situation makes it impossible for them to have a general combination.
+If a dealer has more wheat than he could sell during a year of scarcity, he would never keep up its price to his own loss.
+    He would immediately lower it to get rid of his wheat before the new crop came in.
+All dealers would be bound by these same motives and interests.
+    Generally, it would oblige them all to sell their wheat at the price most suitable to the season.
 
 
 
-  72  The 22nd of Charles II. c. 13, imposed a duty of 192 pence the quarter on wheat imports whenever the home price did not exceed 640 pence the quarter.
+{{< s v="44" >}} Whoever examines the history of European dearths and famines from 16th century to the present will find that a dearth always arose from a real scarcity.
 
-    It imposed a duty of 96 pence whenever the home price did not exceed 960 pence.
-    The price of 640 pence the quarter happened only during very great scarcity.
-        The price of 960 pence has not happened at all.
-    Yet this statute subjected wheat to a very high duty when it rises above 960 pence.
-        If wheat rose above 640 pence, it subjected it to a very high duty equal to a ban.
-    The importation of other grain was restrained by high rates and duties in proportion to the grain's value.
-        Subsequent laws further increased those duties.
+This scarcity was created by:
+- war, or
+- the fault of the seasons, most frequently
 
-Footnote
+It never arose from any combination of the inland wheat dealers. A famine only arose from the government's violence in attempting to remedy a dearth improperly.
 
-Before the 13th of the present king, the following were the duties payable upon the importation of the different sorts of grain= 
-Grain. 	Duties.
-Beans to 336 pence per qr.
-Barley to 336 pence 	238 pence after till 480 pence
-238 pence after till 384 pence 	200 pence then 12 pence
-192 pence then 12 pence
-Malt is prohibited by the annual Malt-tax Bill.
-Oats to 192 pence
-Peas to 480 pence
-Rye to 432 pence
-Wheat to 528 pence 	5s. 10d. after
-16s. 0d. after
-19s. 10d. till 40s.
-21s.  9d.  till   53s. 4d. 	9 1 / 2 d.
-9 3 / 4 d.
-16s. 8d. then 12d.
-17s. then   8s.
-till 4l. and after that about 1.s 4d.
-Buck wheat to 32s. per qr. to pay 16s.
 
-These duties were imposed, partly by:
-- the 22nd of Charles II, in place of the Old Subsidy,
-- the New Subsidy
-- the 1/3 and 2/3 Subsidy
-- the Subsidy 1747
 
-The table of duties in this note is an exact copy of that in Charles Smith, Three Tracts on the Corn Trade , 2nd ed., 1766. p. 83
+{{< s v="45" >}} In an extensive wheat country with free commerce and communication, the scarcity created by the most unfavourable seasons can never be so great as to produce a famine.
 
-That author:
-- took the figures from "Mr. Saxby, in his Book of Rates" ( i.e. Henry Saxby, The British Customs, containing an Historical and Practical Account of each branch of that Revenue , 1757, pp. 111-114)
-- rounded off Saxby's fractions of a penny in an inaccurate and inconsistent way
-- miscopied:
-  - the second duty on barley
-  - the first duty on peas
-  - the third duty on wheat
+If managed with frugality and economy, the scantiest crop will maintain the same number of people fed during periods of moderate plenty.
+Excessive drought or rain are bad for crops.
 
-The "Old Subsidy" consisted of the 5% or 1s. poundage imposed by 12 Car. II., c. 4, on to the Act
-According to this, imported beans, barely and malt were to be rated at 26s. 8d. the quarter when the actual price at the place of importation did not exceed 28s.
-When the actual price was higher than that, they were to be rated at 5s. the quarter.
-Oats and peas were to be rated at 4s. the quarter.
-Rye when not over 36s. was to be rated at 26s. 8d., and when over that price at 5s.
-Wheat when not over 44s. was to be rated at 40s., and when over that price at 6s. 8d.
+But wheat grows equally on: 
+- high and low lands, and
+- wet or dry land
 
-So under the Old Subsidy= 
+Drought or excessive rains may hurt one part of the country.
+    But the other part will not have them.
+        In wet and dry seasons, some of the wheat lost in one part of the country is compensated by the wheat gained in the other.
 
-    Beans, barley and malt at prices up to 28s. were to pay 1. 4d., and when above that price 3 pence
-    Oats and pease to pay 2.4d
-    Rye up to 36s. to pay 1s. 4d., and when above, 3 pence
-    Wheat up to 44s. to pay 2s., and when above, 4 pence.
+Rice requires a very moist soil and must be laid underwater.
+    In rice countries, a drought is much more dismal.
+    However, even in such countries, the drought is perhaps never so universal to create a famine if the government allows a free trade.
 
-The Act 22 Car. II., c. 13, took off these duties and substited the following scheme= 
+The drought in Bengal a few years ago might have created a very great dearth.
+    Some improper regulations and restraints imposed by the East India Company on the rice trade perhaps contributed to turn that dearth into a famine.
 
-    Beans to 40s to pay 16s., and above that price, 3d.
-    Barley and malt to 32s. to pay 16s., and above, 3d.
-    Oats 16s. to pay 5s. 4d., and above, 2.4d.
-    Pease and rye the same as beans.
-    Wheat to 53s. 4d. to pay 16s., then to 80s. to pay 8s., and above that price, 4d.
-    Buckwheat to 32s. to pay 16s.
 
-But 9 and 10 Will. III., c. 23, imposed a "New Subsidy" exactly equal to the Old, so that= 
 
-    duties equal to those of 12 Car. II., c.4, were superimposed on those of 22 Car. II, c. 13.
-    By 2 and 3 Ann., c. 9, an additional third
-    by 3 and 4 Ann., c. 5, an additional two-thirds of the Old Subsidy were imposed,
-    by 21 Geo. II., c. 2, another amount equal to the Old Subsidy ("the impost 1747") was further imposed
+{{< s v="46" >}} When the government tries to to remedy a dearth by ordering all dealers to sell their wheat at a reasonable price, it:
+- hinders the dealers from bringing it to market, and
+  - It may then produce a famine
+- enables the people to consume it so fast.
+  - It produces a famine before the season's end.
 
-So between 1747 and 1773 the dtuies were those of 22 Car. II., c. 13, plus three times those of 12 Car. II., c. 4
+The unlimited, unrestrained freedom of the wheat trade is the only effective preventative of a famine.
 
-This gives the following scheme= 
+It is the best palliative of a dearth. Because the inconveniences of a real scarcity cannot be remedied, it can only be palliated.
+Free wheat trade deserves and requires the most protection of the law because no trade is so much exposed to popular odium.
 
-    Beans to 28s. pay 20s. and after till 40s. pay 16s. 9d. then 1s.
-    Barley to 28s. pays 20s. and after till 32s. pays 16s. 9d. then 1s.
-    Oats to 16s. pay 5s. 11.2d. and then pay 9.6d.
-    Pease to 40s. pay 16s. 7.2d. and then pay 9.6d.
-    Rye to 36s. pays 20s. and after till 40s. pays 16s. 9d. then 1s.
-    Wheat to 44s. pays 22s. and after till 53s. 4d. pays 17s. then 9s. till 80s., and after that 1s. 4d.
 
-Saxby's figures are slightly less, as they take into account a 5% discount obtainable on all the subisdies except one.
-Next=  <%= link_to 'Chapter 5f, Digression=  Carrying trade of wheat', wealth_of_nations_book_4_chapter_5_carrying_trade_of_wheat_path %> 
+
+{{< s v="47" >}} In years of scarcity, the lower classes impute their distress to the wheat merchant's avarice.
+
+Instead of profiting from the scarcity, he is often in danger of being ruined.
+    His magazines are in danger of being plundered and destroyed by violence.
+The wheat merchant expects his main profit during years of scarcity when prices are high.
+    He is in contract with some farmers to furnish him a certain amount of wheat at a certain price for a certain number of years.
+    This contract price is settled according to the ordinary price which is moderate and reasonable.
+        Before the recent years of scarcity, it was about 336 pence for the quarter of wheat.
+        In years of scarcity, the wheat merchant buys most of his wheat for the ordinary price and sells it dearer.
+            This extraordinary profit is just enough to put his trade on a fair level with other trades.
+            It compensates his many other losses from= 
+                the wheat's perishable nature, and
+                the frequent and unforeseen fluctuations of its price
+                    This alone shows why great fortunes are seldom made in the wheat trade.
+A popular odium attends the wheat trade in years of scarcity.
+    It makes people of character and fortune averse to enter into it.
+    The wheat trade is abandoned to an inferior set of dealers.
+
+The only middlemen that come between the grower and the consumer are:
+- millers
+- bakers
+- mealmen [warehouse?]
+- meal factors [agents? retailers?] , together with wretched hucksters [resellers? peddlers?]
+
+
+
+{{< s v="48" >}} Europe's ancient policy authorized and encouraged this popular odium against the wheat trade, even if the wheat trade is so beneficial to the public.
+
+
+{{< s v="49" >}} The 5th and 6th of Edward 6th cap. 14 enacted that anyone who buys any wheat or grain with intent to sell it again would be an unlawful engrosser.
+
+For the first fault:
+- he would be imprisoned for two months, and
+- the value of his wheat would be forfeited.
+
+For the second:
+    he would be imprisoned for six months, and
+    the double value of his wheat would be forfeited.
+For the third:
+    he would be imprisoned in the pillory, and
+    all his goods and chattels would be forfeited.
+
+The ancient policy of other European countries was no better than that of England.
+
+
+
+50 Our ancestors imagined that people could buy their wheat cheaper from the farmer than from the wheat merchant.
+
+They were afraid that the wheat merchant would require an exorbitant profit to himself.
+
+They tried to: 
+- annihilate his trade altogether, and
+- hinder any middle man from coming in between the grower and the consumer, by imposing many restraints.
+
+A wheat carrier could only exercise his trade with a licence proving that he was fair.
+    Edward VI's statute required three justices of the peace to grant this licence.
+    The privilege of granting it was further confined to the quarter-sessions by a statute of Elizabeth.
+
+
+
+

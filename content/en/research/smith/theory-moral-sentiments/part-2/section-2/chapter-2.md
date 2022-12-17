@@ -1,18 +1,13 @@
+---
+heading: Chapter 1
+title: "The Sense of Justice, Remorse, and the Consciousness of Merit"
+weight: 12
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "Every man is more deeply interested in whatever immediately concerns himself, than in what concerns others"
+---
 
-
-
-+++
-title=  "The Sense of Justice, Remorse, and the Consciousness of Merit"
-heading=  "Chapter 2 of Part 2 Section 2"
-description=  "Every man is more deeply interested in whatever immediately concerns himself, than in what concerns others"
-date=  2015-09-29
-author=  "Adam Smith"
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-2/section-2/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/theory-moral-sentiments/part-2/section-2/chapter-3"
-linkftext=  "Chapter 3"
-+++
 
 
 ## Justice requires a lowered ego

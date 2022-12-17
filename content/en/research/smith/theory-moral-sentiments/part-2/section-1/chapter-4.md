@@ -1,17 +1,14 @@
+---
+heading: Chapter 4
+title: "Recap of the foregoing chapters"
+weight: 10
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "We only thoroughly sympathize with Person A's gratitude to Person B if we totally go along with the motives of Person B. We must go along with Person B's feelings, before we can entirely sympathize with Person A's gratitude"
+---
 
 
-+++
-title=  "Recapitulation of the foregoing chapters"
-heading=  "Chapter 4 of Part 2 Section 1"
-description=  "We only thoroughly sympathize with Person A's gratitude to Person B if we totally go along with the motives of Person B. We must go along with Person B's feelings, before we can entirely sympathize with Person A's gratitude"
-date=  2015-09-27
-author=  "Adam Smith"
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-2/section-1/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/theory-moral-sentiments/part-2/section-1/chapter-5"
-linkftext=  "Chapter 5"
-+++
  
 18 We only thoroughly sympathize with Person A's gratitude to Person B if we totally go along with the motives of Person B. We must go along with Person B's feelings, before we can entirely sympathize with Person A's gratitude.
 

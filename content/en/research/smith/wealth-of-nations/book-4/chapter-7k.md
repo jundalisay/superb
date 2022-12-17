@@ -1,89 +1,131 @@
-+++
-title=  "Economic Karma"
-heading=  "Chapter 7k of Book 4 "
-description=  "Even the regulations which secure to each nation the exclusive trade of its own colonies are frequently more hurtful to the beneficiary countries than to those countries which they are against"
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-7j2"
-linkbtext=  "Chapter 7j2"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-7l"
-linkftext=  "Chapter 7l"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 7k"
+title: "The Effects of Monopoly on Britain"
+linkTitle: "Chapter 7k"
+weight: 82
+image: "/covers/wn.jpg"
+description: "The monopoly of the colony trade drew British capital from other trades"
+author: Adam Smith
+icon: "/icons/smith.png"
+---
 
 
-{{< s v="166" >}} The discovery of America and the Cape of Good Hope are the two greatest and most important events recorded in history.
 
-It is impossible that their great consequences could have been seen.
-No human wisdom can foresee what benefits or misfortunes may result from those great events.
-They were generally beneficial by= 
-    uniting the most distant parts of the world
-    enabling those parts to= 
-        relieve one another's wants
-        increase one another's enjoyments
-        encourage one another's industry.
-To the natives of the East and West Indies, however, all the commercial benefits from those events were lost in the dreadful misfortunes.
-    These misfortunes arose from accident than from the nature of those events themselves.
-    At the time of those discoveries, Europe was so militarily superior that they were able to commit every injustice with impunity.
-Hereafter, those natives may grow stronger or the Europeans may grow weaker.
-    All the people of the world may arrive at that equality of courage and force.
-    It can inspire mutual fear which can alone overawe the injustice of independent nations into respecting each other's rights.
-        This equality of force can only be established by that mutual communication of knowledge and improvements.
-            This communication is carried on naturally by an extensive commerce from all countries to all countries.
+{{< s v='119' >}} The monopoly of the colony trade drew British capital from other trades.
+- It forced into those other trades many foreign capitals which would never have gone to them.
+  - In those other trades, it diminished the competition of British capital.
+- It raised British profit rates higher than natural.
+
+On the contrary, it increased the competition of foreign capitals.
+- It sunk the rate of foreign profit lower.
+
+In both ways, it must have subjected Great Britain to a relative disadvantage in all those other trades.
 
 
-{{< s v="167" >}} In the meantime, those discoveries principally raised the mercantile system to the splendour and glory which it could never have attained.
+{{< s v='120' >}} The colony trade perhaps is more advantageous to Great Britain than any other trade.
 
-The mercantile system aims to enrich a great nation:
-more by trade and manufactures than by the improvement and cultivation of land
-more by the industry of the towns than by the industry of the countryside.
-Because of those discoveries, the European commercial towns became= 
-the manufacturers for thriving American cultivators
-the carriers and manufacturers for almost all Asian, African, and American nations.
-Those towns were no longer the manufacturers and carriers just for the Atlantic part of Europe and the Baltic and Mediterranean.
-
-Two new worlds were opened to European industry.
-Each world was much greater and more extensive than Atlantic Europe, Baltic, and Mediterranean.
-The American market of the new world grew greater every day.
-
-{{< s v="168" >}} The countries which possess the American colonies, and those which trade directly to the East Indies, enjoy the splendour of this great commerce.
-
-Even other countries enjoy a greater share of the real benefit of this great commerce, despite all the restraints which exclude them.
-For example, the colonies of Spain and Portugal give more encouragement to the industry of other countries than to the industry of Spain and Portugal.
-The consumption of those colonies in linen alone is more than 3 million sterling a year.
-This great consumption is almost entirely supplied by France, Flanders, Holland, and Germany.
-Spain and Portugal furnish but a small part of it.
-The capital which supplies the colonies with this linen is distributed among France, Flanders, Holland, and Germany.
-It gives a revenue to the people of those countries.
-Only its profits are spent in Spain and Portugal.
-    Those profits support the profusion of the Cadiz and Lisbon merchants.
+The monopoly forced more British capital into the colony trade than what would have gone to it.
+It turned that capital into an employment more advantageous to Great Britain than any other trade.
 
 
-## Economic Karma
+{{< s v='121' >}} "The most advantageous employment of any capital to the country to which it belongs is that which maintains there the greatest quantity of productive labour, and increases the most the annual produce of the land and labour of that country."
 
-{{< s v="169" >}} Even the regulations which secure to each nation the exclusive trade of its own colonies are frequently more hurtful to the beneficiary countries than to those countries which they are against.
+It has been shown in the Book 2 that the quantity of productive labour which capital can maintain in the foreign trade of consumption is exactly in proportion to the frequency of its returns.
 
-The oppression of the industry of other countries falls back on the heads of the oppressors.
-It crushes their industry more than it crushes the industry of those other countries.
-For example, because of those regulations= 
-    The Hamburgh merchant must send the German linen for America to London.
-        He must bring back from London the American tobacco for Germany.
-        He cannot send the German linen directly to America nor bring back the tobacco directly from America.
-        By this restraint, he is probably obliged to sell German linen cheaper and to buy American tobacco dearer.
-        His profits are probably abridged by this restraint.
-        However, he receives the returns of his capital more quickly through the trade between Hamburgh and London than with a direct trade to America, even if American payments were as punctual as London payments.
-            Those regulations which confine the Hamburgh merchant causes his capital to employ more German industry than if it were employed directly in the American trade.
-            Though his confined trade may be less profitable to him than a direct trade, it cannot be less advantageous to his country.
-        It is otherwise with the capital of the London merchant.
-            The direct American trade may be more profitable to him, but it cannot be more advantageous to his country due to the slowness of the returns.
+For example, a capital of 1,000 pounds employed in a foreign trade of consumption with returns of once a year, can maintain and employ what 1,000 pounds can for a year.
+If the returns are made twice or thrice a year, it can keep employed what 2,000 or 3,000 pounds can maintain there for a year.
 
-170 After all the unjust attempts of every European country to engross to itself the trade of its own colonies, they only thing they engrossed was the cost of their oppressive authority.
+In this case, a foreign trade of consumption done with a neighbouring country is more advantageous than a trade with a distant country.
+For the same reason, a direct foreign trade of consumption is in general more advantageous than a round-about one, as shown in Book 2.
 
-Every colonizing country has completely engrossed to itself the inconvenience of possessing its colonies.
-It shared with many other countries the advantages from their colony trade.
 
-171 At first sight, the monopoly of the American commerce naturally seems to the most valuable acquisition.
 
-To the undiscerning eye of giddy ambition, it naturally presents itself as a very dazzling object to fight for, politically and militarily.
-The dazzling splendour of the object in the greatness of the commerce, is the very quality which renders its monopoly hurtful.
-Its makes a less-advantageous employment absorb more of the country's capital than natural.
+{{< s v='122' >}} The monopoly of the colony trade forced some British capital from a foreign trade of consumption with a neighbouring country, to a trade with a more distant country.
+
+In many cases, it forced British capital from a direct foreign trade of consumption to a round-about one.
+
+
+{{< s v='123' >}} The monopoly of the colony trade forced some British capital from a foreign trade of consumption with a neighbouring country to a trade with a more distant country.
+
+124 It forced some British capital from the trade with Europe and the Mediterranean. to the trade with America and the West Indies, where the returns are less frequent.
+New colonies are always understocked.
+
+    "Their capital is always much less than what they could employ with great profit and advantage in the improvement and cultivation of their land."
+    "They have a constant demand, for more capital than they have of their own;"
+To supply their deficiency, they borrow as much as they can of the mother country.
+
+They are therefore always in debt to the mother country.
+
+The most common way they contract this debt is by running in arrears to their correspondents as far as possible.
+
+Their correspondents supply them with European goods.
+They sometimes borrow on bond of the rich people of the mother country.
+
+But they do not do this commonly because their annual returns frequently are less than a third of what they owe.
+
+The whole capital advanced by their correspondents is seldom returned to Britain in less than three years.
+£1,000 of British capital which returned to Great Britain once in five years, can keep only 1/5 British industry constantly employed compared to 5/5 industry if such capital returned once a year.
+
+It can keep only £200 worth of industry employed for each year for those five years.
+
+The planter probably makes up the loss his correspondent sustains by this delay through= 
+
+the high price the planter pays for European goods
+the interest on the bills the planter grants at distant dates
+the commission on the renewal of those bills which the planter grants at near dates
+
+Although he may make up the loss of his correspondent, he cannot make up the loss of Great Britain.
+
+The merchant's profit may be more in a trade where the returns are very distant than in a trade where they are very frequent and near.
+
+But the advantage of the country where he resides must always be much less= 
+
+The quantity of productive labour maintained there
+The annual produce of its land and labour
+
+The returns of the trade to America and the West Indies are more distant, irregular, and uncertain than those to Europe and the Mediterranean.
+
+
+{{< s v='125' >}} The monopoly of the colony trade forced some part of British capital from a direct foreign trade of consumption into a round-about one.
+
+{{< s v='126' >}} Enumerated commodities can only be sent to Great Britain.
+
+There are several enumerated commodities which are in excess of what is needed by Great Britain.
+    It must be exported.
+    This cannot be done without forcing some British capital into a round-about foreign trade of consumption.
+
+For example, Maryland and Virginia, send more than 96,000 hogsheads of tobacco to Great Britain annually.
+    The consumption of Great Britain does not exceed 14,000 hogheads.
+    More than 82,000 hogsheads must be exported to= 
+        France
+        Holland
+        The Baltic countries
+        The Mediterranean countries
+
+The British capital which imports and re-exports those 82,000 hogsheads is employed in a round-about foreign trade of consumption.
+    It brings back goods or money from those countries in return.
+    It is forced to dispose of this great surplus.
+To compute how many years this capital would come back to Great Britain, we must add the returns from those other countries to the American returns.
+    If the capital employed in the direct foreign trade of consumption with America does not come back in less than 3-4 years, the capital employed in this round-about trade is not likely to return in less than 4-5 years.
+    If the capital employed in the direct trade can employ only 1/3 or 1/4 domestic industry, the capital employed in the round-about trade can employ but 1/4 or 1/5 of that industry.
+At some ports, a credit is given to the foreign correspondents who buy their tobacco.
+    At London, this credit is commonly sold for ready money.
+    "The rule is, Weigh and pay."
+
+At London, the final returns of the round-about trade are more distant than the returns from America by the time the goods lie unsold in the warehouse.
+
+Had the tobacco of the colonies not been confined to the British market, very little of it would probably have come to us than necessary.
+    Instead of using the surplus tobacco from the colonies to buy the foreign goods she wants at home, she would probably use her own produce.
+    Instead of being entirely suited to one great market as at present, that produce would probably have been fitted to many smaller markets.
+    Instead of one great round-about foreign trade of consumption, Great Britain would probably have carried on many small direct foreign trades.
+Because of the frequency of the returns, probably 1/3 or 1/4 of the capital presently employed in this great round-about trade might have been sufficient to carry on all those small direct trades.
+    It might have= 
+        kept an equal quantity of British industry constantly employed
+        equally supported Great Britain's annual produce.
+Since this trade would be supported by a much smaller capital, there would have been a large spare capital for other purposes= 
+    To improve the lands
+    To increase the manufactures
+    To extend the commerce of Great Britain
+    To compete with other British capitals employed in all those different ways
+    To reduce the profit rate in them all
+    To give a greater superiority to Great Britain in all of them over other countries.

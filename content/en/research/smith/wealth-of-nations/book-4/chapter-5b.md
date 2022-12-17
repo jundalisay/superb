@@ -3,7 +3,7 @@ title: "The Money Price of Grains Regulates The Money Price of All Commodities"
 heading: "Chapter 5b"
 description: "Because of these maxims, the commerce between France and England has been subjected to so many discouragements and restraints"
 image: /covers/wn.jpg
-weight: 28
+weight: 40
 author: Adam Smith
 icons: /icons/smith.png
 --- 
@@ -83,7 +83,8 @@ Spain and Portugal could suffer very little from their situation if their instit
 They load that exportation with the cost of smuggling.
     They raise the value of those metals in other countries by this cost.
 
-<%= image_tag 'https= //socioecons.files.wordpress.com/2014/09/220px-bonneville_dam_spillway_cross-section.png', height=  200, class=  'rounded' %>
+![Dam](https://socioecons.files.wordpress.com/2014/09/220px-bonneville_dam_spillway_cross-section.png)
+
 
 When you dam up a stream of water, water must run over as soon as the dam is full, as much as if there was no dam at all.
     The ban on exportation cannot keep more gold and silver in Spain and Portugal than what is needed for coin, plate, gilding, and other ornaments.
@@ -108,11 +109,14 @@ The cheapness of those metals is the effect of this redundancy of those metals.
 It discourages the agriculture and manufactures of Spain and Portugal.
 It enables foreign nations to supply them rude and manufactured produce for fewer gold and silver than what Spain and Portugal can themselves raise or make at home.
 
-The tax and prohibition operate in two ways= 
-    They very much lower the value of the precious metals in Spain and Portugal
-        They detain an amount which would have flown to other countries.
-    They keep up the value of gold and silver in other countries higher than natural
-        They give those countries a double advantage in their commerce with Spain and Portugal.
+The tax and prohibition operate in 2 ways:
+
+1. They very much lower the value of the precious metals in Spain and Portugal
+- They detain an amount which would have flown to other countries.
+
+2. They keep up the value of gold and silver in other countries higher than natural
+- They give those countries a double advantage in their commerce with Spain and Portugal.
+
 Open the floodgates, and there will be less water above and more below the dam-head.
     It will soon come to a level in both places.
 Remove the tax and the prohibition and the amount of gold and silver will= 
@@ -138,87 +142,4 @@ A part of society's dead stock would thus be turned into active stock.
 Their national annual produce would immediately increase a little, but would increase very much after a few years.
     Their industry would be relieved from a very oppressive burden.
 
-20 The bounty on corn exportation operates exactly as this absurd policy of Spain and Portugal.
-
-It renders our corn dearer in the home market and cheaper overseas.
-    The expensive local corn raises the value of silver a little at home.
-        It hinders our own workers from furnishing their goods for fewer silver.
-        This renders our manufactures dearer in every market.
-    The cheap local corn lowers the value of silver considerably overseas
-        This enables foreigners, particularly the Dutch, to eat our corn cheaper than our own people can do.
-            This is assured by the excellent authority of Sir Matthew Decker.
-        It enables the Dutch to furnish their goods for fewer silver.
-            This renders Dutch manufactures cheaper in every market.
-            It gives Dutch industry a double advantage over our own.
-
-21 The bounty raises the nominal price of our corn in the home market more than its real value.
-
-It only increases the amount of silver which it will exchange for.
-It discourages our manufactures without rendering any considerable service to our farmers or country gentlemen, other than to put a little more money into their pockets.
-    Perhaps it will be difficult to persuade them that this is not rendering them a very considerable service.
-    But if this money sinks in its value as it rises in its quantity, the service will be nominal and imaginary.
-
-22 Perhaps only the corn merchant, the exporter and importer of corn, gain advantage from the bounty.
-
-In years of plenty, the bounty created a more exportation than without the bounty.
-By hindering the plenty of one year from relieving the scarcity of another, it created more importation in years of scarcity than what was necessary.
-It increased the business of the corn merchant in both cases.
-In years of scarcity, the bounty enabled the corn merchant= 
-    to import more corn
-    to sell more corn at a higher price and get a bigger profit because the plenty of one year was hindered from relieving the scarcity of another
-I have observed the greatest zeal for the continuance of the bounty in corn merchants.
-
-
-
-## Grain Valuation
-
-{{< s v="23" >}} Our farmers seem to have imitated our manufacturers when they established the bounty.
-
-By high duties, they secured to themselves the monopoly of the home market.
-By export bounties, they tried to prevent that market from being overstocked.
-    By both, they tried to raise their commodity's real value, in the same way our manufacturers raised the real value of their manufactured goods through duties and export bounties.
-Perhaps they did not understand the great natural difference between corn and manufactured goods.
-    You raise the nominal and real price of manufactured goods when you enable our manufacturers to sell their goods for a better price through= 
-        the monopoly of the home market, or
-        an export bounty
-    You increase the nominal and real profit, the real wealth and revenue of those manufacturers.
-        You enable them to live better or employ more labour.
-        You really encourage those manufactures.
-        You direct more of the country's industry towards them.
-    But when you raise the nominal or money-price of corn through bounties or home monopolies, you do not raise its real value.
-        You do not= 
-            increase the real wealth or revenue of our farmers
-            encourage the growth of corn
-                Because you do not enable farmers to maintain and employ more labourers in raising it.
-
-"The nature of things has stamped upon corn a real value which cannot be altered by merely altering its money price."
-    "No bounty upon exportation, no monopoly of the home market, can raise that value."
-    "The freest competition cannot lower it."
-    That value is equal to the amount of labour which it can maintain.
-    That value depends on the liberal, moderate, or scanty way, in which labour is commonly maintained in a place.
-Cloth is not the regulating commodity by which the real value of all other commodities must be finally measured and determined.
-    "corn is."
-"The real value of every other commodity is finally measured and determined by the proportion which its average money price bears to the average money price of corn."
-    "The real value of corn does not vary with those variations in its average money price, which sometimes occur from one century to another."
-    "It is the real value of silver which varies with them."
-
-
-{{< s v="24" >}} Export bounties on any home-made commodity are liable to= 
-
-The general objection made to all the expedients of the mercantile system
-    The objection of forcing some of the country's industry into a less advantageous channel.
-
-The particular objection of forcing it into a channel that is actually disadvantageous
-    The trade which cannot be carried on without a bounty is a losing trade.
-    The bounty on corn exports is liable to this further objection.
-    It cannot promote the raising of a particular commodity.
-
-When our farmers demanded the bounty, they imitated our merchants and manufacturers. They did not completely comprehend their own interest as the merchants and manufacturers understood their own.
-
-They:
-- loaded the public revenue with a very big expence,
-- imposed a very heavy tax on the people,
-- did not increase the real value of their own commodity,
-- somewhat discouraged the country's general industry by lowering the real value of silver, and
-retarded the improvement of their own lands which depend on that industry.
 

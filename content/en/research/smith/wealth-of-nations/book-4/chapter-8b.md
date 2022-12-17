@@ -1,15 +1,13 @@
-+++
-title=  "Export Bans"
-heading=  "Chapter 8b of Book 4 "
-description=  "The tonnage bounties given to the white-herring and whale-fisheries are examples of production bounties. They render those goods cheaper at home than normal."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-5g"
-linkbtext=  "Chapter 5g"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-6b"
-linkftext=  "Chapter 6b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 8b"
+title: "Export Bans"
+weight: 100
+image: "/covers/wn.jpg"
+description: "The exportation of raw materials is sometimes discouraged by absolute prohibitions and sometimes by high duties"
+author: Adam Smith
+icon: "/icons/smith.png"
+---
+
 
 
 {{< s v="15" >}} The same commodities which we gave bounties on importation from America were subjected to considerable duties when imported from other countries.

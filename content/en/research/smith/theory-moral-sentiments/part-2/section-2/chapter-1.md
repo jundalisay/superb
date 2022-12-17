@@ -1,19 +1,14 @@
+---
+heading: Chapter 1
+title: "Comparison of Justice and Beneficence"
+weight: 6
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "Beneficence, Resentment, Justice, Revenge"
+---
 
 
-
-
-+++
-title=  "Comparison of Justice and Beneficence"
-heading=  "Chapter 1 of Part 2 Section 2"
-description=  "Beneficence, Resentment, Justice, Revenge"
-date=  2015-09-30
-author=  "Adam Smith"
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-2/section-1/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/theory-moral-sentiments/part-2/section-2/chapter-2"
-linkftext=  "Chapter 2"
-+++
 
 
 ## Beneficence cannot be extorted by force, but justice can

@@ -1,245 +1,214 @@
-+++
-title   =  "How Stock Is Naturally Distributed To Seek Employment Advantageous To Society"
-heading =  "Chapter 7l of Book 4 "
-description=  "The tonnage bounties given to the white-herring and whale-fisheries are examples of production bounties. They render those goods cheaper at home than normal."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-7k"
-linkbtext=  "Chapter 7k"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-7m"
-linkftext=  "Chapter 7m"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 7l"
+title: "The Effects of Monopoly -- Spain and Portugal"
+weight: 84
+image: "/covers/wn.jpg"
+description: "The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade."
+author: Adam Smith
+icon: "/icons/smith.png"
+---
 
 
-{{< s v="172" >}} I have shown in Book 2 that every country's mercantile stock naturally seeks the employment most advantageous to its own country.
 
-If the stock is employed in the carrying trade, its country becomes the emporium of the goods of all countries.
-But that stock's owner necessarily wishes to dispose as much of those goods as he can dispose at home.
+{{< s v="127" >}} The monopoly of the colony trade forced some British capital from all foreign trade of consumption to a carrying trade. It forced it from supporting British industry towards supporting the industry of the colonies and other countries.
 
-He saves himself the trouble, risk, and cost of exportation.
-He will be glad to sell them at home for a smaller price and profit than abroad.
-He naturally tries to turn his carrying trade into a foreign trade of consumption.
 
-If his stock is employed in a foreign trade of consumption, he will be glad to= 
+{{< s v="128" >}} For example, the goods purchased with the great tobacco surplus of 82,000 hogsheads are not all consumed in Great Britain.
 
-dispose of those imported goods at home as much as he can, and
-turn his foreign trade of consumption into a home trade.
+Part of them such as linen from Germany and Holland are returned to the colonies for their consumption. The British capital which buys the tobacco which is exchanged for linen is withdrawn from supporting British industry. It instead supports the industry of the colonies and the industry of Germany and Holland.
 
-The country's mercantile stock naturally= 
 
-- courts the near employment and shuns the distant employment,
-- courts the employment where the returns are frequent and shuns that where they are distant and slow,
-- courts the employment where it can maintain the most productive labour where it belongs or where its owner resides, and
-  - It shuns the employment where it can maintain the fewest.
-- courts the employment which is most advantageous ordinarily, and shuns that which is least advantageous.
+{{< s v="129" >}} The monopoly of the colony trade broke that natural balance of British industry.
 
+British industry was turned to suit one great market instead of many small markets.
+Her commerce ran principally in one great channel instead of running in many small channels.
+Her industry and commerce was made less secure.
+Her whole political body was made less healthy.
 
-## The Invisible Hand Part 2
+In her present condition, Great Britain resembles an unwholesome body with some overgrown vital parts.
+- Her body is liable to many dangerous disorders which affect unproportioned bodies.
+- Her blood vessel was artificially swelled beyond natural by the industry and commerce forced to circulate in it.
 
-{{< s v="173" >}} Let us say that, in ordinary cases, those distant employments are less advantageous to the country than the nearer employments.
+A small stop in that great blood-vessel will very likely bring the most dangerous disorders on the whole political body.
 
-If the profit in those distant employments rise more than that of the nearer employments, such profit will draw stock from those nearer employments into the distant employments, until the profits of all return to their proper level.
-This superiority of profit is a proof that:
-- those distant employments are understocked
-- the stock of the society is not distributed in the properest manner
-- something is either bought cheaper or sold dearer than it should
-- some class of citizens is oppressed by paying more or by getting less than the suitable equality between the different classes of people.
+The expectation of a rupture with the colonies has struck the British with more terror than the Spanish armada or a French invasion.
 
-This equality is natural.
+This terror rendered the repeal of the stamp act a popular measure among the merchants, at least.
 
-The same capital never will maintain the same amount of productive labour in a distant as in a near employment.
-But a distant employment may be as necessary for the society's welfare as a near one.
+If we were totally excluded from the colony market just for a few years= 
 
-The goods traded in the distant employment might be necessary for the nearer employments.
+Most of our merchants foresee an entire stop to their trade
+Most of our master manufacturers foresee the entire ruin of their business
+Most of our workmen foresee an end of their employment
 
-But if the profits of goods for distant employments are above their proper level, those goods will be sold dearer than they should, or above their natural price.
+A rupture with any of our European neighbours will cause some stop or interruption in the employments of some of these orders of people.
 
-Everyone in the nearer employments will be oppressed by this high price.
-In this case, their interest requires some stock to be withdrawn from those nearer employments and turned towards that distant one, in order to:
-- reduce those profits to their proper level, and
-- reduce the price of those goods to their natural price.
+It is foreseen,without any such emotion.
 
-This is an extraordinary case.
+If blood circulation is stopped in the smaller vessels, it easily disgorges itself into the greater vessels without creating any dangerous disorder.
 
-The public interest requires that stock be withdrawn from the nearer employments and turned towards the distant employments, even if ordinarily, the distant employments were less advantageous to the public.
-In this case, the natural interests of men is the same with the public interest as in all other ordinary cases.
-Their interests lead them to withdraw stock from the near and to turn it towards the distant employment.
+"but, when it is stopped in any of the greater vessels, convulsions, apoplexy, or death, are the immediate and unavoidable consequences."
 
+Its overgrown manufactures were artificially raised through bounties or the monopoly of the home and colony markets.
 
-{{< s v="174" >}} Thus, the private interests and passions of individuals naturally dispose them to turn their stocks towards employments most advantageous to the society in ordinary cases.
+If one of those overgrown manufactures is interrupted, it frequently causes= 
+    A mutiny and disorder alarming to government
+    An embarrassment to the deliberations of the legislature.
 
-But if from this natural preference, they turn too much stock, its profits will fall while making profits rise in all other employments.
+How great would be the disorder and confusion caused by a sudden and entire stop in the employment of so many of our principal manufacturers?
 
-This will immediately make them alter this faulty distribution. Without any intervention of law, the private interests and passions of men naturally lead them to divide and distribute the society's stock among all the different employments most agreeable to the society's interest.
+130 A moderate and gradual relaxation of the British exclusive trade to the colonies, until it is rendered free, is the only expedient which can deliver her from this danger in the future.
 
+Only this can enable her to withdraw some of her capital from this overgrown employment.
 
-## The Mercantile System Destroys This Natural Distribution of Stock
+It can turn her capital towards other employments, though with less profit.
 
-{{< s v="175" >}} All the regulations of the mercantile system deranges this natural and most advantageous distribution of stock.
+By gradually reducing one industry and increasing the rest, this relaxation can restore her industry to that natural and healthy proportion which perfect liberty necessarily establishes.
 
-The mercantile regulations of the trade to America and the East Indies derange it perhaps more than any other. Those great trades absorb more stock than other trades. The regulations which derange those two trades are not the same.
+Perfect liberty can alone preserve this natural balance.
 
-Monopoly is the great engine of both.
-But the monopoly of both trades are different.
+Opening the colony trade all at once to all nations might create some temporary inconvenience.
 
-Monopoly seems the sole engine of the mercantile system.
+It might create a great permanent loss to most of those presently engaged in it.
+Even the sudden loss of the employment of the ships which import the surplus tobacco might alone be felt very sensibly.
 
-{{< s v="176" >}} In the trade to America, every nation tries to engross the whole market of its own colonies by excluding other nations from any direct trade to them.
+"Such are the unfortunate effects of all the regulations of the mercantile system!"
 
-During the 16th century, the Portuguese managed the trade to the East Indies by claiming the sole right of sailing in the Indian seas because they first found the road to them.
-The Dutch still continue to exclude all other European nations from any direct trade to their spice islands.
-Monopolies of this kind are established against all other European nations.
-Those nations are excluded from a trade which might be convenient for their stock.
-They are obliged to buy the goods dearer than if they bought them directly from America and the Indies.
+They introduce very dangerous disorders into the political body
+Those disorders are often difficult to remedy without creating greater short term disorders.
 
-177 Since the fall of the power of Portugal, no European nation has claimed the exclusive right of sailing in the Indian seas.
+We must leave the following to the wisdom of future statesmen and legislators to determine= 
 
-The principal ports in India are now open to all European ships.
-Except in Portugal and France, the trade to the East Indies has been subjected to an exclusive company in every European country.
-Monopolies of this kind are established against the very nation which erects them.
-Most of that nation is excluded from a trade which might be convenient for their stock.
-They are obliged to buy the goods from that trade dearer than if it was open and free to all their countrymen.
-    For example, since the establishment of the English East India company, other Englishmen were excluded from the trade.
-    They paid in the price of the East India goods which they consumed= 
-        all the extraordinary profits from the monopoly of the company, and
-        all the extraordinary waste in the fraud and abuse.
-            These are inseparable from the management such a big company.
-The absurdity of this monopoly by exclusive company is much more manifest than the absurdity of the monopoly by country.
-
-178 Both these monopolies derange the natural distribution of the society's stock.
-
-But they do not always derange it in the same way.
-
-179 Monopolies by country always attract more of the society's stock than what would go to that trade of its own accord. 180 Monopolies by exclusive company may sometimes attract stock and sometimes repel it according to different circumstances.
-
-In poor countries, they naturally attract more stock than natural.
-In rich countries, they naturally repel more stock.
-
-181 For example, poor countries such as Sweden and Denmark, would probably have never sent a single ship to the East Indies if the trade was not subjected to an exclusive company.
-
-"The establishment of such a company necessarily encourages adventurers."
-Their monopoly secures them against all competitors in the home market.
-They have the same chance at foreign markets with the foreign traders.
-Their monopoly shows them the= 
-certainty of a great profit on a considerable amount of goods, and
-chance of a considerable profit on a great amount of goods.
-Without such extraordinary encouragement, the poor traders of such poor countries would probably never have thought of hazarding their small capitals in a very distant and uncertain adventure as the trade to the East Indies.
-
-182 On the contrary, a rich country such as Holland would probably send many more ships to the East Indies than it actually does, in the case of a free trade.
-
-The limited stock of the Dutch East India company probably repels great mercantile capitals which would otherwise go to it.
-Holland's mercantile capital is so great that it is continually overflowing into= 
-the public funds of foreign countries
-loans to private traders and adventurers of foreign countries
-the most round-about foreign trades of consumption
-the carrying trade.
-All near employments are completely filled up.
-All the capital which can be placed in them are with profit are already placed in them.
-Holland's capital flows towards the most distant employments.
-If the trade to the East Indies were free, it would probably absorb most of this redundant capital.
-    The East Indies offer a bigger and wider market than Europe and America combined for= 
-        European manufactures
-        American gold and silver
-        other American products.
-
-183 Every derangement of the stock's natural distribution is hurtful to the society where it takes place whether by= 
-
-repelling from a trade the stock which would otherwise go to it, or
-attracting towards a trade, stock which would not otherwise come to it.
-
-Holland would suffer a big loss if= 
-
-the exclusive Dutch company was suddenly removed and
-the trade of Holland to the East Indies suddenly became bigger.
-Holland's capital would be excluded from that trade.
-
-Sweden and Denmark would suffer a big loss if= 
-
-the exclusive Dutch and Swedish companies were suddenly removed and
-the trade of Sweden and Denmark to the East Indies suddenly became less.
-Their capital would be drawn into an unsuitable trade.
-Better for them perhaps to buy East India goods from other nations, even if those goods would be dearer, than to employ their small capital to a very distant trade where the returns are so slow.
-Their capital is better employed to maintain productive labour at home where productive labour is so much wanted.
-    At home there is so little done and so much to do.
-
-184 If a country would be unable to carry on any direct trade to the East Indies without an exclusive company, it does not mean that such a company should be established there.
-
-It means that such a country should not trade directly to the East Indies.
-The Portuguese demonstrate that such exclusive companies are not necessary for trading to East India.
-They enjoyed it for more than a century without any exclusive company.
-
-185 It is said that no private merchant could have capital sufficient to maintain agents in the East Indies.
-
-Those agents provide goods for the ships which the merchant might send there.
-Unless he was able to maintain agents there, the difficulty of finding cargo to return might make his ships lose a season waiting.
-The expence of a long delay would eat up the whole profit of the adventure and create a very big loss.
-This argument that no single trade could be carried on without an exclusive company is contrary to the experience of all nations.
-There is no great trade where the capital of any private merchant is sufficient for carrying on all the subordinate branches required by the principal branch.
-But when a nation is ripe for any great trade, some merchants naturally turn their capitals towards the principal branch.
-Some merchants turn their capitals towards its subordinate branches.
-All the branches are carried on very seldomly by the capital of one private merchant.
-If a nation is ripe for the East India trade, some of its capital will naturally divide itself among all the branches of that trade.
-Some of its merchants will find in their interest to reside in the East Indies.
-They will employ their capitals there to provide goods for the ships sent by other merchants who reside in Europe.
-The European settlements in the East Indies presently belong to exclusive companies.
-If those settlements were put under the protection of their sovereign, the residence of its merchants would be safe and easy.
-If the capital of any country which naturally went towards the East India trade was insufficient for carrying on all its branches, it would be a proof that= 
-That country was not ripe for that trade.
-It would be better for it to buy East India goods from other European nations even at a higher price than to import them directly from the East Indies by itself.
-What it might lose by the high price of those goods could seldom be equal to the loss it would bring by the distraction of its capital from more necessary, useful, or suitable employments than a direct trade to the East Indies.
-
-
-186 Europeans possess many considerable settlements on the coast of Africa and the East Indies.But they have not yet established such numerous and thriving colonies there as those in America.
-
-Africa and the East Indies are inhabited by barbarous nations.
-- They are not so weak and defenceless as the miserable and helpless native Americans.
-
-Those barbarous nations were much more populous in proportion to their land's natural fertility.
-The most barbarous nations of Africa or the East Indies were shepherds, even the Hottentots.
-
-But the American natives, except Mexico and Peru, were only hunters.
-Given the same fertile territory, there would be much more shepherds than hunters.
-
-In Africa and the East Indies, it was more difficult:
-- to displace the natives
-- to extend the European plantations
-
-**The genius of exclusive companies is unfavourable to the growth of new colonies.**
-- It was probably the main cause of their little progress in the East Indies.
-
-The Portuguese carried on the trade to Africa and the East Indies without any exclusive companies. Their following settlements were much depressed by superstition and bad government:
-- Congo
-- Angola
-- Benguela on the coast of Africa
-- Goa in the East Indies
-
-Those settlements faintly resemble the American colonies. They are partly inhabited by Portuguese who have been established there for several generations.
-
-
-## South Africa and Jakarta
-
-The Dutch settlements at the Cape of Good Hope and Jakarta ["Batavia"] are fortunate to presently be the biggest European colonies in Africa or the East Indies.
-
-The Cape of Good Hope was inhabited by a people as barbarous and defenceless as the American natives.
-- It is the half-way house between Europe and the East Indies.
-- It is where almost every European ship makes some stay.
-  - The supply alone of those ships with fresh provisions, fruit, and wine, affords a very extensive market for the surplus produce of the colonists.
-
-"What the Cape of Good Hope is between Europe and the East Indies, Jakarta is between the principal countries of the East Indies."
-
-It lies on the most frequented road from India to China and Japan.
-It is nearly mid-way on that road.
-Almost all the ships that sail between Europe and China touch at Jakarta.
-It is the centre and principal mart of the East Indies trade carried on by Europeans and Indians.
-The vessels of the following countries are frequently seen in its port:
-    China
-    Japan
-    North Vietnam
-    Malaysia
-    South Vietnam
-    Indonesia
-
-Such advantageous situations have enabled the Cape of Good Hope and Jakarta to surmount all the obstacles imposed by the oppressive genius of an exclusive company.
-    They enabled Jakarta to surmount the additional disadvantage of perhaps the most unwholesome climate in the world.
+How the colony trade should be gradually opened
+Which restraints should be taken away first and which one taken away last.
+How the natural system of perfect liberty and justice should be gradually restored.
 
+131 Great Britain has now been excluded from the trade with the 12 North American provinces for more than a year (from December 1, 1774).
+
+Five unforeseen events have very fortunately concurred to hinder Great Britain from feeling this total exclusion from the colony trade= 
+
+The North American colonies prepared themselves for their non-importation agreement.
+    They drained Great Britain completely of all the commodities fit for their market
+This year, the extraordinary demand of the Spanish Flota drained Germany and the North of many commodities which competed with British manufactures.
+    Linen was one of such commodities
+The peace between Russia and Turkey created an extraordinary demand from the Turkey market
+    Turkey was very poorly supplied during its distress while a Russian fleet was cruising in the Archipelago
+The rising year on year demand of Northern Europe for British manufactures
+The late partition and consequential pacification of Poland.
+    It opened the market of that great country
+    This year it added an extraordinary demand for British manufactures.
+
+All these events, except the fourth, were transitory and accidental.
+The continued exclusion from the colony trade may still create some distress.
+
+This distress will come gradually.
+It will be felt much less severely than if it came all at once.
+
+In the meantime, Great Britain's industry and capital may find new employment and direction to prevent this distress from rising.
+132 In all cases, the colony trade monopoly turned British capital from a foreign trade of consumption with a neighbouring country to a more distant country.
+
+In many cases, it turned British capital from a direct foreign trade of consumption into a round-about one.
+In some cases, it turned British capital from a foreign trade of consumption into a carrying trade.
+In all cases, it turned British capital from a direction where it could maintain more productive labour into one where it can maintain fewer.
+By suiting only to one market so much of British industry and commerce, the monopoly rendered them less secure than if they were accommodated to more markets.
+
+133 "We must carefully distinguish between the effects of the colony trade and those of the monopoly of that trade."
+
+The effects of the colony trade are always beneficial.
+The effects of the monopoly of the colony trade are always hurtful.
+The colony trade is so beneficial even if it were subject to a monopoly with its hurtful effects.
+134 The effect of the colony trade in its natural and free state is to open a great, distant market for British industry which may exceed the demand at home, Europe, and the Mediterranean.
+
+In its natural and free state, the colony trade= 
+    Encourages Great Britain to continually increase the surplus by continually presenting new equivalents to be exchanged for it.
+        It does not draw produce from those markets previously sent to them.
+    Increases the quantity of productive labour in Great Britain.
+        It does not alter the direction of the labour previously employed there.
+    Allow competition from other nations.
+        It would hinder the profit rate from rising above the common level in the new market or new employment.
+        The new market would not draw produce from the old market.
+        It would create a new produce for its own supply.
+            That new produce would be a new capital for carrying on the new employment.
+            The new employment would draw nothing from the old market.
+
+135 The colony trade monopoly, on the contrary, excludes foreign competition.
+
+It raises the profit rate in the new market and the new employment.
+
+It draws produce from the old market and capital from the old employment.
+
+The avowed purpose of the monopoly is to increase our share of the colony trade beyond the natural.
+
+If our share were no greater than without the monopoly, there could be no reason for establishing the monopoly.
+
+More capital of the country is unnaturally forced into a trade where the returns are slower and more distant.
+
+It renders all the productive labour and national produce less than they otherwise would be.
+It keeps down the revenue of the inhabitants of that country below what it would naturally rise to.
+It reduces their power of accumulation.
+It hinders, at all times, their capital from maintaining productive labour as it would otherwise maintain.
+It hinders their capital from increasing so fast as it would otherwise increase to maintain more productive labour.
+
+136 The natural good effects of the colony trade more than counterbalance the bad effects of the monopoly on Great Britain.
+
+The colony trade becomes greatly advantageous even with the monopoly.
+The new market and new employment opened by the colony trade are wider than the old market and old employment lost by the monopoly.
+The new produce and the new capital created by the colony trade maintain more productive labour in Great Britain than what was thrown out of employment by the revulsion of capital from other trades with more frequent returns.
+If the colony trade is advantageous to Great Britain, it is in spite of the monopoly, not because of the monopoly.
+
+137 It for the manufactured than for the rude produce of Europe that the colony trade opens a new market.
+
+Agriculture is the proper business of all new colonies.
+The cheapness of land renders agriculture more advantageous than any other business.
+They abound in the rude produce of land.
+They generally have a large surplus to export.
+In new colonies, agriculture= 
+    Draws hands from all other employments or
+    Keeps them from going to any other employment
+There are few hands to spare for the necessary manufactures and none for the ornamental ones.
+    They find it cheaper to purchase of manufactures of other countries than to make it themselves.
+The colony trade indirectly encourages its agriculture by encouraging European manufactures.
+    The colony trade gives employment to European manufactures, which become a new and most advantageous market for rude produce.
+    The trade to America greatly extends the home market for corn, cattle, bread and meat of Europe.
+
+138 The monopoly of the trade of populous and thriving colonies is not alone sufficient to establish or maintain manufactures in any country.
+
+This is demonstrated by Spain and Portugal.
+"Spain and Portugal were manufacturing countries before they had any considerable colonies."
+They were once the richest and most fertile in the world but not anymore.
+
+139 The bad effects of the monopoly in Spain and Portugal were aggravated by other causes.
+
+These causes perhaps overbalanced the natural good effects of the colony trade= 
+    Other monopolies
+    The degradation of gold and silver value below its value in most other countries
+    The exclusion from foreign markets by improper taxes upon exportation
+    The narrowing of the home market by more improper taxes on the transportation of goods
+    Above all, that irregular and partial administration of justice which protects the rich and powerful debtor from his injured creditor.
+        It makes the industrious afraid to prepare goods for those haughty and great men.
+        The industrious dare not refuse to sell on credit despite being uncertain of repayment.
+
+140 In England, on the contrary, the natural good effects of the colony trade are assisted by other causes which conquered the bad effects of the monopoly.
+
+These causes seem to be= 
+    The general liberty of trade which is at least equal or perhaps superior to any other country.
+    The liberty of exporting, duty free, almost all sorts of domestic goods to almost any foreign country.
+        More importantly, the unbounded liberty of transporting them from our own country to any other without= 
+            Being obliged to give any account to any public office
+            Being liable to question or examination of any kind
+    Above all, that equal and impartial administration of justice which renders the meanest British subject respectable to the greatest.
+        This justice secures to every man the fruits of his own industry
+        It gives the greatest and most effectual encouragement to every sort of industry.
+
+141 If British manufactures were advanced by the colony trade, it was not by its monopoly but in spite of its monopoly.
+
+The monopoly altered the quality and shape of some of British manufactures
+It accommodated to a market where the returns are slow and distant, instead of a market where the returns are frequent and near.
+It turned a part of British capital from an employment where it would have maintained more manufacturing industry to one where it maintains a much smaller.
+It diminished the whole quantity of manufacturing industry maintained in Great Britain.
+
+
+{{< s v="142" >}} The colony trade monopoly is like all the other mean and malignant expedients of the mercantile system.
+
+It depresses the industry of all other countries and chiefly that of the colonies.
+It reduces the industry of the country for which is it is established.

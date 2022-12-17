@@ -1,15 +1,14 @@
-+++
-title=  "The analysis of the sense of Merit and Demerit"
-heading=  "Chapter 5 of Part 2 Section 1"
-description=  "The Sense of Merit arises from sympathy, the Sense of Demerit arises from lack of sympathy"
-date=  2015-09-26
-author=  "Adam Smith"
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-2/section-1/chapter-4"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/theory-moral-sentiments/part-2/section-2/chapter-1"
-linkftext=  "Chapter 1"
-+++
+---
+heading: Chapter 5
+title: "The Analysis of the Sense of Merit and Demerit"
+weight: 12
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "The Sense of Merit arises from sympathy, the Sense of Demerit arises from lack of sympathy"
+---
+
+
 
 ### The Sense of Merit arises from sympathy
 <!-- 

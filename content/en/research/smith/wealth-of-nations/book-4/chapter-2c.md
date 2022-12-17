@@ -3,7 +3,7 @@ title: "Retaliatory Restraints"
 heading: "Chapter 2c"
 description: "There are two cases when it will be advantageous to lay some burden on foreign industry to encourage domestic industry"
 image: /covers/wn.jpg
-weight: 14
+weight: 22
 author: Adam Smith
 icons: /icons/smith.png
 --- 

@@ -4,5 +4,5 @@ title: "Indirect Sympathy as Justice"
 linkTitle: Section 2
 description: "Section 2 of Part 2 of The Theory of Moral Sentiments by Adam Smith Simplified"
 image: /covers/tms.jpg
-date: 2022-04-28
+weight: 4
 ---

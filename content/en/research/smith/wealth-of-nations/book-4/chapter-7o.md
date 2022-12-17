@@ -1,25 +1,25 @@
-+++
-title=  "Taxation by requisition"
-heading=  "Chapter 7j2 of Book 4 "
-description=  "In taxation by requisition, the British parliament would determine the sum each colony should pay. The provincial assembly would assess and levy it in the best way suited to the province."
-date=  2020-03-23
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-7j"
-linkbtext=  "Chapter 7j"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-7k"
-linkftext=  "Chapter 7k"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Taxation by Requisition"
+heading: "Chapter 7o"
+description: "In taxation by requisition, the British parliament would determine the sum each colony should pay. The provincial assembly would assess and levy it in the best way suited to the province"
+image: /covers/wn.jpg
+weight: 90
+author: Adam Smith
+icons: /icons/smith.png
+---
 
 
 {{< s v="157" >}} It has been proposed that the colonies should be taxed by requisition.
 
 The British parliament would determine the sum each colony should pay. The provincial assembly would assess and levy it in the best way suited to the province.
+
 In this way, what concerned the whole empire would be determined by the assembly which inspects and superintends the affairs of the whole empire.
 
 The provincial affairs of each colony might still be regulated by its own assembly.
 In this case, the colonies should have no representatives in the British parliament.
+
 From experience, the parliamentary requisition would be reasonable.
+
 The English parliament has not shown the smallest disposition to overburden the unrepresented parts of the empire.
 Guernsey and Jersey islands are more lightly taxed than any part of Great Britain, without any means of resisting the authority of parliament.
 In taxing the colonies, the Parliament never demanded anything from the colonies which even approached the tax paid by their fellow-subjects at home.

@@ -1,20 +1,13 @@
+---
+heading: Chapter 3
+title: "The Utility of the sense of justice"
+weight: 14
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "Society requires the virtue called Justice which is sustained by the utility afforded by society"
+---
 
-
-
-
-
-+++
-title=  "The Utility of the sense of justice"
-heading=  "Chapter 3 of Part 2 Section 2"
-description=  "Society requires the virtue called Justice which is sustained by the utility afforded by society"
-date=  2015-09-09
-author=  "Adam Smith"
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-2/section-2/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/theory-moral-sentiments/part-2/section-3/chapter-1"
-linkftext=  "Chapter 1"
-+++
 
 
 ## Society requires the virtue called Justice which is sustained by the utility afforded by society

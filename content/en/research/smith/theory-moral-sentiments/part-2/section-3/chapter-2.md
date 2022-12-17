@@ -1,19 +1,15 @@
+---
+heading: Chapter 2
+title: "The Extent of the Influence of Outcome"
+weight: 10
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "If an accident hinders the successful outcome of an endeavor, the merit of the talents seems imperfect even to those who know of such talent"
+---
 
 
-
-+++
-title=  "The Extent of the Influence of Outcome"
-# heading=  "Chapter 2 of The Theory of Moral Sentiments Part 2 Section 3"
-description=  "If an accident hinders the successful outcome of an endeavor, the merit of the talents seems imperfect even to those who know of such talent"
-date=  2015-09-29
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-2/section-3/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/theory-moral-sentiments/part-2/section-3/chapter-3"
-linkftext=  "Chapter 3"
-+++
-
-14 When an action, coming from good intentions= 
+{{< s v="14" >}} When an action, coming from good intentions:
 - fails to achieve its expected outcome, our sense of its merit is also reduced
 - exceeds its expected outcome, our sense of its merit is increased
 
@@ -32,7 +28,7 @@ This irregularity of feeling is=
 - felt even by the impartial spectator. -->
 
 
-15 A friend is someone whom we can ask for favors. He seems deserves our love and affection. A patron or benefactor is someone who provides a favor us when we ask for it. He is entitled to our respect and gratitude.
+{{< s v="15" >}} A friend is someone whom we can ask for favors. He seems deserves our love and affection. A patron or benefactor is someone who provides a favor us when we ask for it. He is entitled to our respect and gratitude.
 
 People can have sympathy with our friendhip even if we think that we are on a level with our friend. But people cannot have sympathy with our gratitude if we do not feel inferior to our benefactor. 
 
@@ -50,7 +46,9 @@ The more generous he is, the more those two affections match.
 
 It gives more pleasure <!-- to the truly generous --> to be esteemed by esteemed people. Accordingly, with all things equal, we will have more favour with our friend who succeeds than our friend who fails. Mankind is so unjust in this respect that people think that we should have more gratitude to some benefactors than others.
 
-Let us say that a benefector has the best intentions to help. Yet he could actually do no more than to help so little, relative to others. People say that we are not obliged to be grateful to him since, had it not been for the help of others, his own effort to help would be fruitless. People imagine that this should reduce the debt they owe to him, even in the eyes of the impartial spectator. The person who has unsuccessfully tried to help does not have= 
+Let us say that a benefector has the best intentions to help. Yet he could actually do no more than to help so little, relative to others. People say that we are not obliged to be grateful to him since, had it not been for the help of others, his own effort to help would be fruitless. People imagine that this should reduce the debt they owe to him, even in the eyes of the impartial spectator. 
+
+The person who has unsuccessfully tried to help does not have: 
 - the same dependence on the gratitude of the man he was trying to help
 - the same merit that would have been gained if he actually helped
 
@@ -63,9 +61,11 @@ They commonly say that such a person intended no doubt to serve us. We really be
 <!-- , there will be some little more favour in him who succeeds, even in the noblest mind.  -->
 
 
-16 If an accident hinders the successful outcome of an endeavor, the merit of the talents and abilities that created that endeavor seems imperfect even to those who know of such talent.<!--  their capacity for success -->
+{{< s v="16" >}} If an accident hinders the successful outcome of an endeavor, the merit of the talents and abilities that created that endeavor seems imperfect even to those who know of such talent.<!--  their capacity for success -->
 
-If a general is hindered by his ministers' envy from winning a battle against his country's enemies, the general will forever regret the lost opportunity. He regrets that he was hindered from doing something which would have added a new lustre to his character. His plan was never executed, and so it does not matter whether= 
+If a general is hindered by his ministers' envy from winning a battle against his country's enemies, the general will forever regret the lost opportunity. 
+
+He regrets that he was hindered from doing something which would have added a new lustre to his character. His plan was never executed, and so it does not matter whether: 
 - the plan was totally dependent on him
 - execution was more important than the planning
 - he could execute it
@@ -94,7 +94,7 @@ However, we do not admire them as we admire Caesar and Alexander. We might admir
 
 ### Treason 
 
-17 In the eyes of ungrateful mankind, failure reduces= 
+{{< s v="17" >}} In the eyes of ungrateful mankind, failure reduces:
 - the merit of an unsuccessful attempt to do good
 - the demerit of an unsuccessful attempt to do evil
 
@@ -127,16 +127,15 @@ However, his real demerit is the same in both cases, since his intentions were e
 The humanity of a civilized people disposes them to mitigate punishments whenever the crime fails to materialize. Barbarians, on the other hand, are not very inquisitive on the motives of crimes that never really take place. 
 <!-- when no actual consequence has happened from any action. -->
 
-
-18 A person might resolve to commit a crime from passion or from bad influences. But if an accident prevents him from doing so and if he has a conscience, he regards the failure as a great deliverance for the rest of his life. He thanks Heaven for= 
+{{< s v="18" >}} A person might resolve to commit a crime from passion or from bad influences. But if an accident prevents him from doing so and if he has a conscience, he regards the failure as a great deliverance for the rest of his life. He thanks Heaven for= 
 - saving him from the guilt he was just ready to plunge himself in
 - hindering him from living the rest of his life in horror, remorse, and repentance
 
 His hands might be innocent, but his heart is guilty for wanting to do the crime. The non-execution of this crime, however, greatly eases his conscience. <!-- Though he knows that its failure arose from no virtue in him. --> He still considers himself as less deserving of punishment. This good outcome reduces or removes all sense of guilt. Remembering how determined he was to commit the crime makes him regard his escape as more miraculous. <!-- For he still fancies that he has escaped. -->
 <!-- He looks back with terror on the danger to which his peace of mind was exposed, like when a person shudders at the thought of falling over a precipice. -->
 
- 
-19 The second effect of this influence of outcome is to increase our sense of= 
+
+{{< s v="19" >}} The second effect of this influence of outcome is to increase our sense of: 
 - the merit of actions when they cause extraordinary pleasure<!-- , regardless of  beyond what is due to their intentions, . -->
 - the demerit of actions when they cause extraordinary pain
 
@@ -157,24 +156,29 @@ It is because any reason is enough to authorize the exertion of the social and b
 
 ### Intentional Negligence Deserves Rebuke
 
-20 Generally, we are averse to enter into the unsocial and malevolent affections. When one man's negligence unintentionally damages another person, we generally enter into the sufferer's resentment. We approve of him punishing the offender much beyond what the offence deserved.
+{{< s v="20" >}} Generally, we are averse to enter into the unsocial and malevolent affections. When one man's negligence unintentionally damages another person, we generally enter into the sufferer's resentment. We approve of him punishing the offender much beyond what the offence deserved.
 
 <!--  and so we never approve of the gratification of the unsocial and malevolent affections. This is otherwise when his unjust intentions  -->
 <!-- This is unless a person's malicious and  render that person their proper of object.  -->
 
+{{< s v="21" >}} A level of negligence deserves rebuke even if it causes no damage to anybody. A man is rebuked if he throws a large stone onto a public street without warning those passing by and without regarding where it would fall. A very accurate police would punish it even if it did no mischief because the man is guilty of real injustice by not having a sense for the happiness and safety of others. <!-- There is  in his conduct. He wantonly exposes his neighbour to what no one wants. He evidently lacks that sense of what is due to his fellow-creatures. --> 
 
-21 A level of negligence deserves rebuke even if it causes no damage to anybody. A man is rebuked if he throws a large stone onto a public street without warning those passing by and without regarding where it would fall. A very accurate police would punish it even if it did no mischief because the man is guilty of real injustice by not having a sense for the happiness and safety of others. <!-- There is  in his conduct. He wantonly exposes his neighbour to what no one wants. He evidently lacks that sense of what is due to his fellow-creatures. --> This sense is the basis of justice and society. Therefore to the law, gross negligence is almost equal to malicious intent.*3 When bad consequences arise from such carelessness, the guilty person is often punished as if he had really intended those consequences. It is considered as atrocious and as liable to the severest punishment.
+This sense is the basis of justice and society. Therefore to the law, gross negligence is almost equal to malicious intent.*3 When bad consequences arise from such carelessness, the guilty person is often punished as if he had really intended those consequences. It is considered as atrocious and as liable to the severest punishment.
 <!-- But if 
 His conduct was only thoughtless and insolent. It deserved some chastisement. -->
 
-If he accidentally kills a man by throwing that large stone, then he is liable to capital punishment in the laws of many countries, particularly by the old law of Scotland. This is excessively severe, but is consistent with our natural feelings. Our just indignation against his folly and inhumanity is exasperated by our sympathy with the deceased man. However, our natural sense of equity would be shocked to have such a careless stone-thrower executed. The severity of the laws of almost all nations against such negligent crimes proves how much the indignation, even of the spectator, is animated by the action's outcome. 
+If he accidentally kills a man by throwing that large stone, then he is liable to capital punishment in the laws of many countries, particularly by the old law of Scotland. This is excessively severe, but is consistent with our natural feelings. Our just indignation against his folly and inhumanity is exasperated by our sympathy with the deceased man. However, our natural sense of equity would be shocked to have such a careless stone-thrower executed. 
+
+The severity of the laws of almost all nations against such negligent crimes proves how much the indignation, even of the spectator, is animated by the action's outcome. 
 <!-- However in this case, his conduct's folly and inhumanity would be the same. But still our sentiments would be very different. The consideration of this difference 
 In cases of this kind, there is much . In cases of an opposite kind, there is a very general relaxation of discipline, as I mentioned earlier. -->
 
 
 ### Unintentional Negligence Deserves Blame
 
-22 Unintentional negligence does not involve any injustice. A person who is not so careful as he should be deserves some blame but no punishment. Yet by the laws of all countries, if his carelessness causes some damage to another person <!-- by this kind of negligence*4 --> then he must compensate it. This is a real punishment which could only exist from bad luck leading to such damage. Yet this is approved by mankind's natural feelings. We think that= 
+{{< s v="22" >}} Unintentional negligence does not involve any injustice. A person who is not so careful as he should be deserves some blame but no punishment. Yet by the laws of all countries, if his carelessness causes some damage to another person <!-- by this kind of negligence*4 --> then he must compensate it. 
+
+This is a real punishment which could only exist from bad luck leading to such damage. Yet this is approved by mankind's natural feelings. We think that:
 - it is most just that one man should not suffer by another's carelessness, and
 - the damage caused by blamable negligence should be made up by the guilty person.
 <!-- The person who is guilty of it treats his neighbours as he treats himself. He means no harm to any body. He is far from entertaining any insolent contempt for the safety and happiness of others. -->
@@ -183,13 +187,17 @@ In cases of this kind, there is much . In cases of an opposite kind, there is a 
 
 ### Negligence from Fear Also Deserves Blame
 
-23 Negligence from fear consists merely in timidity and the lack of circumspection. The lack of this painful attention, when no bad consequences follow from it, is not as blamable. But it is blamable if it produces bad consequences. 
+{{< s v="23" >}} Negligence from fear consists merely in timidity and the lack of circumspection. The lack of this painful attention, when no bad consequences follow from it, is not as blamable. But it is blamable if it produces bad consequences. 
 
-That timid circumspection, which is afraid of everything, is never regarded as a virtue but as a quality which incapacitates us for action and business. Yet if a person damages another from a lack of this excessive care, he is often obliged to compensate it by the law.  According to the Aquilian law, if a man is not able to manage his horse which becomes accidentally frightened and rides down his neighbour's slave, he must compensate the damage. We= 
+That timid circumspection, which is afraid of everything, is never regarded as a virtue but as a quality which incapacitates us for action and business. 
+
+Yet if a person damages another from a lack of this excessive care, he is often obliged to compensate it by the law.  According to the Aquilian law, if a man is not able to manage his horse which becomes accidentally frightened and rides down his neighbour's slave, he must compensate the damage. 
+
+We:
 - think that he should not to have ridden such a horse, and
 - regard his attempt as an unpardonable levity.
 
-Without this accident we would= 
+Without this accident we would:
 - not have made such a reflection
 - regard his refusal to control his horse as the effect of= 
   - fearful weakness, and
@@ -198,4 +206,3 @@ Without this accident we would=
 The person who accidentally hurts another naturally runs to the sufferer to express his concern. If he has any sensibility, he would want to compensate the damage and do everything to appease that animal resentment which he knows will arise in the sufferer's breast. It is the highest brutality to make no apology nor atonement. Yet why should he apologize when he is equally innocent? Not even the impartial spectator would feel for the unjust resentment of that other person.
 <!-- as any other bystander, be singled out to make up for another's bad fortune? This task would surely never be imposed on him. 
  -->
-

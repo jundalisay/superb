@@ -3,7 +3,7 @@ title: "Money supply"
 heading: "Chapter 1c"
 description: "Not much can be spared from the circulating money of the country because there is seldom much redundancy"
 image: /covers/wn.jpg
-weight: 6
+weight: 14
 author: Adam Smith
 icons: /icons/smith.png
 --- 

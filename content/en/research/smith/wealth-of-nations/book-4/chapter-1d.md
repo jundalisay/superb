@@ -3,7 +3,7 @@ title: "Trade"
 heading: "Chapter 1d"
 description: "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
 image: /covers/wn.jpg
-weight: 8
+weight: 16
 author: Adam Smith
 icons: /icons/smith.png
 --- 

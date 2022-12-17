@@ -1,18 +1,15 @@
+---
+heading: Chapter 2
+title: "The Proper objects of Gratitude and Resentment"
+weight: 6
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "We sympathize with the joy of our loved ones when in prosperity"
+---
 
-+++
-title=  "The Proper objects of Gratitude and Resentment"
-heading=  "Chapter 2 of Part 2 Section 1"
-description=  "We sympathize with the joy of our loved ones when in prosperity"
-date=  2015-09-29
-author=  "Adam Smith"
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-2/section-1/chapter-1"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/theory-moral-sentiments/part-2/section-1/chapter-3"
-linkftext=  "Chapter 2"
-+++
 
-10-12 The gratitude and resentment that I mention is the natural gratitude and resentment and not the fake one. 
+{{< s v="10-12" >}} The gratitude and resentment that I mention is the natural gratitude and resentment and not the fake one. 
 
 <!-- When I say fake . 
 
@@ -26,8 +23,7 @@ Being the objects of gratitude or resentment is the same as being the object of 
 - An action deserves reward if everybody who knows of it would wish to reward it.
 - An action deserves punishment if everybody who hears it becomes angry with it and wishes to see it punished. -->
 
-
-13 We sympathize with the joy of our loved ones when in prosperity. 
+{{< s v="13" >}} We sympathize with the joy of our loved ones when in prosperity. 
 
 When we see one man assisted, protected, relieved by another, our sympathy with the beneficiary's joy animates our fellow-feeling with his gratitude to his benefactor. We therefore readily sympathize with his gratitude and applaud the returns he makes to his benefactor.
 
@@ -38,15 +34,18 @@ When we look at his benefactor through his eyes, we see his benefactor in the mo
 We consequently applaud the returns he is disposed to make for the good offices conferred on him.
 As we entirely enter into this sentiment, it necessarily seems suitable to its object in every way. -->
 
+
 ### The Origin of Superstition and Ghosts
 
-14 In the same way, we sympathize with our fellow-creature's abhorrence for whatever has caused his distress.
+{{< s v="14" >}} In the same way, we sympathize with our fellow-creature's abhorrence for whatever has caused his distress.
 
 <!-- 2. In the same way, as we sympathize with our fellow-creature's sorrow whenever we see his distress, so we enter into his abhorrence for whatever has caused it. -->
 
 <!-- Our heart adopts and beats in time to his grief.
 It is likewise animated with that spirit by which he tries to drive away or destroy the cause of this grief. -->
-We accompany him in his sufferings with an indolent and passive fellow-feeling. This feeling becomes vigorous and active feeling when he tries to repel the cause of his distress. This is more true when man has caused them. When we see one man oppressed by another, we feel a sympathy with the sufferer's distress. We are eager and ready to assist him whenever he defends himself or seeks a certain degree of revenge. If he dies in the quarrel, we sympathize with= 
+We accompany him in his sufferings with an indolent and passive fellow-feeling. This feeling becomes vigorous and active feeling when he tries to repel the cause of his distress. This is more true when man has caused them. When we see one man oppressed by another, we feel a sympathy with the sufferer's distress. 
+
+We are eager and ready to assist him whenever he defends himself or seeks a certain degree of revenge. If he dies in the quarrel, we sympathize with:
 - the real resentment of his friends and relations
 - the imaginary resentment of the dead, who are unable to feel anything.
 
@@ -65,7 +64,9 @@ We shed sympathetic tears for his loss.
 Our tears seem but a small part our duty to him.
 We think that the injury which he has suffered demands most of our attention.
  -->
-We feel the imaginary resentment which we think his dead body would feel, but does not. We think that his blood calls aloud for vengeance and that his ashes seem disturbed at the thought that his injuries will pass unrevenged. This natural sympathy with the imaginary resentment of the slain creates= 
+We feel the imaginary resentment which we think his dead body would feel, but does not. We think that his blood calls aloud for vengeance and that his ashes seem disturbed at the thought that his injuries will pass unrevenged. 
+
+This natural sympathy with the imaginary resentment of the slain creates:
 - the horrors which are supposed to haunt the murderer,
 - the ghosts which, superstition imagines, rise from their graves to demand vengeance on those who ended their lives
 
