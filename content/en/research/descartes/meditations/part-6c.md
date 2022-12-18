@@ -1,13 +1,12 @@
 ---
-title: "Sensory Ideas"
-heading: Part 6
-date: 2022-01-06
-description: "Sensory ideas must be produced by some substance other than me. This substance actually has (either in a straightforward way or in a higher form) all the reality that is represented in the ideas that it produces."
+title: "Common Sense and the Pineal Gland"
+heading: Part 6c
+weight: 21
+description: "The mind is not immediately affected by all parts of the body but only by the brain – or perhaps just by the small part of it which is said to contain the ‘common sense’ (as the pineal gland)"
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"
 icon: "/icons/descartes.png"
 ---
-
 
 
 <!-- I have already looked closely enough at how I may come to make false judgments, even though God is good. Now it occurs to me that  -->
@@ -46,7 +45,7 @@ As for the faculties of willing, of understanding, of sensory perception and so 
 
 This one argument would be enough to show me that the mind is completely different from the body, even if I did not already know as much from other considerations. 
 
-The mind isn’t immediately affected by all parts of the body but only by the brain – or perhaps just by the small part of it which is said to contain the ‘common sense’ (as the pineal gland).
+The mind is not immediately affected by all parts of the body but only by the brain – or perhaps just by the small part of it which is said to contain the ‘common sense’ (as the pineal gland).
 
 The ‘common sense’ was a supposed faculty, postulated by Aristotle, whose role was to integrate the data from the five specialized senses.] The signals that reach the mind depend upon what state this part of the brain is in, irrespective of the condition of the other parts of the body. There is abundant experimental evidence for this, which I needn’t review here.
 

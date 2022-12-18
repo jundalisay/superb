@@ -3,7 +3,7 @@ title: "The Nature Of The Human Mind"
 #, and how it is better known than the body
 heading: Part 2
 # Second Meditation
-date: 2022-01-30
+weight: 4
 description: "'Everything I see is fictitious. My memory tells me nothing but lies. I have no senses. Body, shape, extension, movement and place are illusions. So what remains true?'"
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"

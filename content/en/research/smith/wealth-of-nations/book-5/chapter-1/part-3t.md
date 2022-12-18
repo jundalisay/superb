@@ -1,7 +1,7 @@
 ---
 title: "Ancient Educational Institutions"
 heading: "Part 3t"
-weight: 1
+weight: 60
 image: "/covers/wn.jpg"
 description: "There are no public educational institutions for women. There is accordingly nothing useless, absurd, or fantastic in their common education"
 author: Adam Smith

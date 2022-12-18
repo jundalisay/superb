@@ -1,16 +1,13 @@
-+++
-title=  "Foreign Economic systems"
-description=  "The policy of China favours agriculture more than all other employments"
-date=  2020-03-18
-author=  "Adam Smith"
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-9c-errors"
-linkbtext=  "Errors"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-9e"
-linkftext=  "Part 1"
-heading=  "Chapter 9e"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Foreign Economic Systems"
+heading: "Chapter 9d"
+weight: 112
+image: "/covers/wn.jpg"
+description: "The economic policy of China favours agriculture more than all other employments"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
 
 
 {{< s v="39" >}} The political economy of modern European nations was more favourable to manufactures and foreign trade, the industry of the towns, than to agriculture, the industry of the countryside.

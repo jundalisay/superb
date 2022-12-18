@@ -1,7 +1,7 @@
 ---
 title: "Mercantile Corporations as Commercial Institutions"
 heading: "Part 3c"
-weight: 1
+weight: 28
 image: "/covers/wn.jpg"
 description: "Particular institutions are necessary to facilitate particular branches of commerce"
 author: Adam Smith

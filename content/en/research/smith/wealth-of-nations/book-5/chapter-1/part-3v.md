@@ -1,7 +1,7 @@
 ---
 title: "Education for the Poor"
 heading: "Part 3v"
-weight: 1
+weight: 64
 image: "/covers/wn.jpg"
 description: "In England, charity schools have the same effect though not so universally, because charity schools are not so universal"
 author: Adam Smith

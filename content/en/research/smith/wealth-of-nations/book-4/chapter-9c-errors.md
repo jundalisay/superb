@@ -1,15 +1,15 @@
-+++
-title=  "The Errors of the Physiocrats"
-description=  "The capital error of this system was in representing the artificers, manufacturers, and merchants as unproductive"
-date=  2020-03-19
-author=  "Adam Smith"
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-9b-unproductive"
-linkbtext=  "unproductive"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-9d-foreign-systems"
-linkftext= "foreign-systems"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Errors of the Physiocrats"
+heading: "Chapter 9c"
+weight: 110
+image: "/covers/wn.jpg"
+description: "The main error of the Physiocrats system was in representing the artificers, manufacturers, and merchants as unproductive"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
+
+
 
 {{< s v="24" >}} According to the liberal and generous system of the Physiocrats, a landed nation can raise its own artificers, manufacturers, and merchants best by granting the most perfect freedom of trade to the artificers, manufacturers, and merchants of all other nations. 
 

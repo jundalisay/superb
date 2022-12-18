@@ -1,14 +1,13 @@
-+++
-title=  "The Discouragement of Agriculture after the Fall of the Roman Empire"
-date=  2015-09-09
-image=  "/covers/wn.jpg"
-description=  "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
-linkb=  "/research/smith/wealth-of-nations/book-3/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/wealth-of-nations/book-3/chapter-2b"
-linkftext=  "Chapter 2b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 2"
+title: "The Discouragement of Agriculture after the Fall of the Roman Empire"
+weight: 10
+image: "/covers/wn.jpg"
+description: "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 ## Engrossing of Land through the Law of Primogeniture and Entails

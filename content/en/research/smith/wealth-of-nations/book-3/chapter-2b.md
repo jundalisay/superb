@@ -1,15 +1,13 @@
-+++
-title=  "Metayers and Sharecropping"
-date=  2015-09-09
-image=  "/covers/wn.jpg"
-description=  "Metayers and Sharecropping"
-linkb=  "/research/smith/wealth-of-nations/book-3/chapter-2"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/wealth-of-nations/book-3/chapter-3"
-linkftext=  "Chapter 3"
-heading=  "Chapter 2b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 2b"
+title: "Metayers and Sharecropping"
+weight: 12
+image: "/covers/wn.jpg"
+description: "Metayers could never be interested to use any of their little stock to improve the land because the lord, who spent nothing, would get half of whatever it produced."
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 {{< s v="11" >}} A species of farmers known as Metayers in France gradually succeeded the ancient slaves.
@@ -39,6 +37,7 @@ The Church of Rome claims great merit in it.
 As early as the 12th century, Alexander 2nd published a bull for the emancipation of slaves.
 But it was more of a pious exhortation than a law which required exact obedience.
 Slavery continued almost universally until it was gradually abolished by the joint interests of the proprietor and the sovereign.
+
 A slave who was freed and allowed to possess land, could only cultivate it with the stock given by the landlord.
 Such person must have been a Metayer.
 

@@ -1,12 +1,13 @@
 ---
 title: "Evolution"
 heading: "Chapter 7b"
-weight: 1
+weight: 44
 image: "/covers/timaeus.jpg"
 description: "There are 3 kinds of soul within us, having each of them motions"
-author: "Juan"
+author: "Plato"
 icon: /icons/socrates.png
 ---
+
 
 
 There are 3 kinds of soul within us, having each of them motions
@@ -90,3 +91,5 @@ These are the laws by which animals pass into one another, now, as ever, changin
 <!-- We may now say that our discourse about the nature of the universe has an end. The world has received animals, mortal and immortal, and is fulfilled with them, and has become a visible animal containing the visible—the sensible God who is the image of the intellectual, the greatest, best, fairest, most perfect—the one only-begotten heaven.
 
  -->
+
+ 

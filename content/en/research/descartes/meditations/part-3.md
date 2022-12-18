@@ -2,7 +2,7 @@
 title: The existence of God
 heading: Part 3
 # Third of the Meditations Simplified
-date: 2022-01-25
+weight: 8
 description: "Bodies are much more clearly known to me than this puzzling ‘I’ that cannot be pictured in the imagination"
 image: "/covers/meditations.jpg"
 author: "Rene Descartes"

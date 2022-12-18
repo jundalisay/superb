@@ -1,7 +1,7 @@
 ---
 title: "Intellectual Property and Corporation Rules"
 heading: "Part 3o"
-weight: 1
+weight: 50
 image: "/covers/wn.jpg"
 description: "Intellectual Property and Corporation Rules"
 author: Adam Smith

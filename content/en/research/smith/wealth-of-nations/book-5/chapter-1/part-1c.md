@@ -1,7 +1,7 @@
 ---
 title: "Two Methods of Defense: Militias and Armies"
 heading: "Chapter 1 Part 1c"
-weight: 1
+weight: 8
 author: Adam Smith
 image: "/covers/wn.jpg"
 description: "The state can use 2 methods for the public defence"

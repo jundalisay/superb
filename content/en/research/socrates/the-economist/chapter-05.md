@@ -1,7 +1,8 @@
 ---
 title: "The Importance of Husbandry"
 heading: "Chapter 5"
-weight: 1
+weight: 18
+author: Xenophon
 image: "/covers/economist.jpg"
 description: "High and mighty people find it hard to hold aloof from agriculture. Devotion to it seems to be thrice blest"
 icon: "/icons/soc.png"

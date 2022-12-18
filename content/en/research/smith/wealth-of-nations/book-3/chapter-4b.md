@@ -1,14 +1,13 @@
-+++
-title=  "The Origin of Feudalism"
-date=  2015-09-09
-image=  "/covers/wn.jpg"
-description=  "Feudalism came from the strength of the king over the feudal lords"
-linkb=  "/research/smith/wealth-of-nations/book-3/chapter-4"
-linkbtext=  "Chapter 4"
-linkf=  "/research/smith/wealth-of-nations/book-3/chapter-4c"
-linkftext=  "Chapter4c"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 4b"
+title: "The Origin of Feudalism"
+weight: 22
+image: "/covers/wn.jpg"
+description: "Feudalism came from the strength of the king over the feudal lords"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 {{< s v="7" >}} The power of the ancient barons was founded on the great proprietors' authority over their tenants and retainers.
@@ -22,12 +21,12 @@ The king in particular had not.
 In those ancient times, the king was the greatest proprietor in his dominions.
 
 Other great proprietors paid certain respects to him for the sake of common defence against their common enemies.
-It would have cost the king the same effort to extinguish a civil war and to enforce payment of a small debt within his lands by his own authority, because all its people were= 
+
+It would have cost the king the same effort to extinguish a civil war and to enforce payment of a small debt within his lands by his own authority, because all its people were:
 - armed, and
 - accustomed to stand by one another.
 
 He abandoned the administration of justice to those who were capable of administering it, in the same way that the command of the militia is left to those whom that militia would obey.
-
 
 
 

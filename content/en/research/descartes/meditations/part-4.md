@@ -1,7 +1,7 @@
 ---
 title: "Truth and falsehood"
 heading: Part 4
-date: 2022-01-15
+weight: 14
 description: "None of my ideas of corporeal things is as distinct as my idea of the human mind, considered purely as a thinking thing with no size or shape or other bodily characteristics."
 author: "Rene Descartes"
 image: "/covers/meditations.jpg"

@@ -1,6 +1,8 @@
 ---
+heading: "Chapter 2"
 title: "Ancient Egypt and Atlantis"
-weight: 1
+weight: 14
+author: Plato
 image: "/covers/timaeus.jpg"
 description: "Critias tells the story of ancient Egypt and Atlantis"
 ---

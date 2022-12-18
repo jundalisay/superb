@@ -1,7 +1,7 @@
 ---
 title: "Taxes on Consumable Commodities"
 heading: "Part 2n, Article 2"
-weight: 1
+weight: 36
 image: "/covers/wn.jpg"
 description: "The impossibility of taxing people according to their revenue by any capitation led to the invention of taxes on consumable commodities"
 icon: "/icons/smith.png"

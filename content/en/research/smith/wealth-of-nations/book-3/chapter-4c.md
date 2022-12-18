@@ -1,15 +1,13 @@
-+++
-title=  "Dynasties and the Development of Europe"
-date=  2015-09-09
-image=  "/covers/wn.jpg"
-description=  "Very old families are very rare in commercial countries. Such are families which have possessed some large estate from father to son for many generations."
-linkb=  "/research/smith/wealth-of-nations/book-3/chapter-4b"
-linkbtext=  "Chapter 4b"
-linkf=  "/research/smith/wealth-of-nations/book-4/chapter-1a"
-linkftext=  "Chapter 1"
-heading=  "Chapter 4c"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 4c"
+title: "Dynasties and the Development of Europe"
+weight: 24
+image: "/covers/wn.jpg"
+description: "Very old families are very rare in commercial countries. Such are families which have possessed some large estate from father to son for many generations"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 {{< s v="16" >}} Very old families are very rare in commercial countries. Such are families which have possessed some large estate from father to son for many generations.
@@ -23,21 +21,25 @@ It is a proof that ancient families are very common in those nations.
 
 In countries where a rich man can only spend his revenue in maintaining many people, his expence will not be too high.
 His benevolence is seldom so great as to maintain more people than he can afford.
+
 But where he can spend the greatest revenue on his own person, his expence frequently has no bounds, because his own vanity frequently has no bounds.
 In commercial countries, riches very seldom remain long in the same family, in spite of the most violent laws to prevent their dissipation.
 Among simple nations, on the contrary, they frequently remain long without any laws.
 Among nations of shepherds, such as the Mongols and Arabs, the consumable nature of their property renders all such regulations impossible.
 
 
-17 The greatest revolution to the public happiness was brought about in this way by two orders of people who did not intend to serve the public.
+{{< s v="17" >}} The greatest revolution to the public happiness was brought about in this way by two orders of people who did not intend to serve the public.
 
 Gratifying the most childish vanity was the sole motive of the great proprietors.
+
 The merchants and craftsmen were much less ridiculous.
-    They acted merely from a view to their own interest.
-    They pursued their own peddler principle of turning a penny wherever a penny was to be got.
+- They acted merely from a view to their own interest.
+- They pursued their own peddler principle of turning a penny wherever a penny was to be got.
+
 Neither of them had knowledge nor foresight of that great revolution which the folly of the one, and the industry of the other, were gradually bringing about.*
 
-> * [ Superphysics note=  Selfish people usually cite such a phenomenon where self-interest leads to justice. However, such reasoning negates the fact that such justice only came after a very long and painful process full of chaos and death. The phenomenon of commerce-driven good governance destroys the current wrong belief that long-term economic sanctions on erring countries such as North Korea, Iran, Cuba, Myanmar, and Venezuela will lead to better governments. The proper sanctions policy is discussed in Book 4, Chapter 2]
+> *Superphysics note: Selfish people usually cite such a phenomenon where self-interest leads to justice. However, such reasoning negates the fact that such justice only came after a very long and painful process full of chaos and death. The phenomenon of commerce-driven good governance destroys the current wrong belief that long-term economic sanctions on erring countries such as North Korea, Iran, Cuba, Myanmar, and Venezuela will lead to better governments. The proper sanctions policy is discussed in Book 4, Chapter 2
+
 
 
 ## The Economic Development of Europe

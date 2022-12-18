@@ -1,12 +1,13 @@
 ---
 title: "Plants and Trees"
 heading: "Chapter 6c"
-weight: 1
+weight: 38
 image: "/covers/timaeus.jpg"
 description: "The life of mortal animal necessarily consisted of fire and breath. This allowed it to waste away by dissolution and depletion"
-author: "Juan"
+author: "Plato"
 icon: /icons/socrates.png
 ---
+
 
 <!-- And now that all the parts and members of the mortal animal had come together, since its -->
 

@@ -1,6 +1,7 @@
 ---
+heading: Chapter 4
 title: "Created Beings"
-weight: 1
+weight: 22
 image: "/covers/timaeus.jpg"
 description: "The Simplified Timaeus by Plato"
 ---

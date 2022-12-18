@@ -1,7 +1,7 @@
 ---
 title: "The Senses"
-heading: "Timaeus by Plato Simplified"
-weight: 1
+heading: "Chapter 5d"
+weight: 30
 image: "/covers/timaeus.jpg"
 description: "Water, by condensation, becomes stone and earth. When melted and dispersed, passes into vapour and air"
 author: Timaeus

@@ -1,7 +1,7 @@
 ---
 title: "State-Owned Public Works"
 heading: "Part 3h"
-weight: 1
+weight: 26
 image: "/covers/wn.jpg"
 description: "The following public works are always better maintained by a local or public revenue. Those which cannot maintain themselves, and those which benefits are confined to a district"
 author: Adam Smith

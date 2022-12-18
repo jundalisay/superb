@@ -1,7 +1,7 @@
 ---
 title: "The Decline of the Church"
 heading: "Part 3zb"
-weight: 1
+weight: 76
 image: "/covers/wn.jpg"
 description: "The gradual improvements of arts, manufactures, and commerce which destroyed the great barons also destroyed the power of the European clergy"
 author: Adam Smith

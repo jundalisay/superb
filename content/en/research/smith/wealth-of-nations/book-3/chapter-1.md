@@ -1,13 +1,13 @@
-+++
-title=  "The Natural Progress of Opulence"
-image=  "/covers/wn.jpg"
-description=  "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
-linkb=  "/research/smith/wealth-of-nations/book-3"
-linkbtext=  "Chapter 2"
-linkf=  "/research/smith/wealth-of-nations/book-3/chapter-3b"
-linkftext=  "Chapter 3b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 1"
+title: "The Natural Progress of Opulence"
+weight: 8
+image: "/covers/wn.jpg"
+description: "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 ## The Trade Between the Towns and the Countryside
@@ -17,15 +17,18 @@ icon=  "/icons/smith.png"
 It consists in the exchange of rude for manufactured produce either immediately as barter, or with money or some paper which represents money.
 The countryside supplies the town with food and raw materials.
 
-The town repays this supply by sending back manufactured products.
-The town cannot reproduce raw materials.
+- The town repays this supply by sending back manufactured products.
+- The town cannot reproduce raw materials.
+
 It gains its whole wealth and subsistence from the countryside.
 The gain of the town, however, is not the loss of the countryside.
 The gains of both are mutual and reciprocal.
 In this case, as in all other cases, the division of labour is advantageous to everyone employed in it.
 
 The people of the countryside buy more manufactured goods from the town with the produce of less labour of their own, had they attempted to make those goods themselves.
+
 The town affords a market for the surplus produce of the countryside.
+
 In towns, the people of the countryside exchange this surplus for something else which is in demand among them.
 The more the people and revenue of the town, the more extensive and advantageous is its market for the people of the countryside.
 The wheat which grows within a mile of the town sells for the same price with wheat that comes 20 miles away.
@@ -46,6 +49,7 @@ The industry which procures subsistence must be prior to the industry which proc
 The improvement of the countryside affords subsistence.
 It must be prior to the increase of the town.
 The town furnishes only convenience and luxury.
+
 Only the countryside's surplus produce makes up the town's subsistence.
 The town's subsistence can increase only with the increase of this surplus.
 The town may not always derive its whole subsistence from nearby areas or even from its own province, but from very distant provinces.
@@ -73,10 +77,13 @@ the independence it affords.
 Cultivation of land was the original destination of man.
 All through one’s life, we retain a predilection for this primitive employment.
 
-4 Without the assistance of some craftsmen, land cultivation cannot be done without great inconvenience and continual interruption.
+
+{{< s v="4" >}} Without the assistance of some craftsmen, land cultivation cannot be done without great inconvenience and continual interruption.
 
 The farmer frequently needs the service of smiths, carpenters, wheel-makers, and plough-makers, masons, and bricklayers, tanners, shoemakers, and tailors.
+
 Such craftsmen stand in need of one another.
+
 Their residence is not tied down to a precise spot.
 They settle near each other and form a small town.
 The butcher, the brewer, and the baker soon join them.
@@ -89,25 +96,31 @@ The town’s employment and subsistence can only be increased by the countryside
 This demand for finished work can be increased only in proportion to the extension of improvement and cultivation.
 Had human institutions never disturbed the natural course of things, the town's progressive wealth would be consequential and proportional to the countryside's improvement.
 
-5 In our North American colonies, uncultivated land is still available on easy terms.
+
+{{< s v="5" >}} In our North American colonies, uncultivated land is still available on easy terms.
 
 No manufactures for distant sale have ever been established in any town.
 When a North American craftsman has more stock than needed for supplying the neighbouring countryside, he uses it to buy and improve uncultivated land.
+
 He does not use it to establish a manufacture for distant sale.
 From an craftsman, he becomes a planter.
-He cannot be bribed to work for other people by= 
-large wages, or
-the easy subsistence craftsmen get from the countryside.
+
+He cannot be bribed to work for other people by:
+- large wages, or
+- the easy subsistence craftsmen get from the countryside.
+
 He feels that an craftsman is the servant of his customers from whom he gets his subsistence.
 A planter who cultivates his own land derives his subsistence from the labour of his own family.
 A planter is really a master and is independent of all the world.
 
-6 On the contrary, in countries where there is no uncultivated land, or none that can be had easily, every craftsman with extra stock tries to use it for more distant sale.
+
+{{< s v="6" >}} On the contrary, in countries where there is no uncultivated land, or none that can be had easily, every craftsman with extra stock tries to use it for more distant sale.
 
 The smith starts an iron works and the weaver starts a linen factory.
 Those manufactures gradually become more subdivided, improved, and refined in very obvious ways.
 
-7 Upon equal profits, manufacturing is naturally preferred to foreign commerce, for the same reason that agriculture is naturally preferred to manufacturing.
+
+{{< s v="7" >}} Upon equal profits, manufacturing is naturally preferred to foreign commerce, for the same reason that agriculture is naturally preferred to manufacturing.
 
 The capital of the landlord or farmer is more secure than that of the manufacturer.
 The manufacturer’s capital is always in view.
@@ -119,11 +132,10 @@ This will allow the society's stock to be employed for more useful purposes.
 The wealth of ancient Egypt, China, and India demonstrate that a nation may be very opulent even though foreigners do most of its exportation.
 The progress of our North American and West Indian colonies would have been much less rapid if they used their own capital to export their own surplus produce.
 
-<br>
 
 ## The Natural Development of Economies
 
-8 Most of the capital of every growing society is naturally directed= 
+{{< s v="8" >}} Most of the capital of every growing society is naturally directed:
 - first, to agriculture,
 - afterwards, to manufactures,
 - lastly, to foreign commerce.
@@ -133,9 +145,11 @@ This order is so very natural that it has been observed in every society.
 Their lands must be cultivated before any big towns could be established.
 Some coarse manufacturing must have been done in those towns before they could think of doing foreign commerce.
 
-9 However, this natural order was inverted in all modern European states.
+
+{{< s v="9" >}} However, this natural order was inverted in all modern European states.
 
 The foreign commerce of some of their cities introduced fine manufactures for distant sale.
 The manufactures and foreign commerce created agricultural improvements.
+
 The manners introduced by their original government remained even after that government was greatly altered.
 These manners forced those states into this unnatural and retrograde order.

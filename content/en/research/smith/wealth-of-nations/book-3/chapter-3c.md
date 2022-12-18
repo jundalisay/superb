@@ -1,20 +1,19 @@
-+++
-title=  "The Development of European manufacturing"
-date=  2015-09-09
-image=  "/covers/wn.jpg"
-description=  "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
-linkb=  "/research/smith/wealth-of-nations/book-3/chapter-3b"
-linkbtext=  "Chapter 3b"
-linkf=  "/research/smith/wealth-of-nations/book-3/chapter-4"
-linkftext=  "Chapter 4"
-heading=  "Chapter 3c"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 3c"
+title: "The Development of European Manufacturing"
+weight: 18
+image: "/covers/wn.jpg"
+description: "The manufactures fit for export were introduced in 2 ways"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
 
 
 {{< s v="16" >}} A taste for the finer and more improved manufactures was introduced by foreign commerce into countries which had no such works.
 
 When this taste created a big demand, the merchants naturally tried to establish the same manufactures in their own country to save transportation costs.
+
 Hence, the origin of the first manufactures for distant sale that were established in Western Europe after the fall of the Roman empire.
 
 No large country ever did or could subsist without some manufacturing industry.
@@ -24,10 +23,10 @@ This is even more universally true in poor countries which have no manufactures,
 In rich countries, more of the clothes and furniture of the poor come from abroad.
 
 
-{{< s v="17" >}} The manufactures fit for distant sale were introduced in two ways.
+{{< s v="17" >}} The manufactures fit for distant sale were introduced in 2 ways.
 
 
->  18  **1. Sometimes they were introduced by the violent operation of merchants who imitated foreign manufacturing.**
+> {{< s v="18" >}}  **1. Sometimes they were introduced by the violent operation of merchants who imitated foreign manufacturing.**
 
 Such manufactures are the offspring of foreign commerce.
 An example is the ancient manufactures of silks, velvets, and brocades, which flourished in Lucca, during the 13th century.
@@ -43,6 +42,7 @@ They were introduced into England in the beginning of Elizabeth's reign.
 Such are the present silk manufactures of Lyons in France and Spitalfields in London.
 Manufactures introduced in this way are generally imitations of foreign manufactures employed on foreign materials.
 When the Venetian manufacture was first established, the materials were all brought from Sicily and Syria.
+
 The more ancient manufacture of Lucca was also done with foreign materials.
     The cultivation of mulberry trees and the breeding of silkworms were uncommon in northern Italy before the 16th century.
     They were introduced into France in the reign of Charles 9th [1560-1574]​.
@@ -51,6 +51,7 @@ The more ancient manufacture of Lucca was also done with foreign materials.
         More than half of the current raw materials of the cloth made in Lyons is foreign silk.
         When it was first established, the whole material was foreign.
         None of the raw materials of the Spitalfields manufacture in London will ever likely be the produce of England.
+
 The seat of such manufactures introduced by a few individuals is sometimes established in a maritime city or in an inland town, according to their interest, judgment, or caprice.
 
 > **19 2. At other times, manufactures for distant sale develop naturally by the gradual refinement of coarser manufactures.**

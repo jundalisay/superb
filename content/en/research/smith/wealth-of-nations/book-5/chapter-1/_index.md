@@ -1,8 +1,9 @@
-+++
-title=  "Government Expenses"
-description=  "Government Revenue"
-date=  "2015-09-09"
-image=  "/covers/wn.jpg"
-# image=  "https= //sorasystem.sirv.com/books/wn5.jpg"
-# heading=  Book 5, Chapter 1 
-+++
+---
+title: "Government Expenses"
+heading: "Chapter 1"
+weight: 1
+image: "/covers/wn.jpg"
+description: "We simplify The Wealth of Nations Chapter 1 Book 5 about Government Expenses"
+# icon: "/icons/smith.png"
+author: Adam Smith
+---

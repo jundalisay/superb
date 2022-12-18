@@ -1,7 +1,7 @@
 ---
 title: "Taxes by Stamp-Duties"
 heading: "Part 2k, Article 2"
-weight: 1
+weight: 30
 image: "/covers/wn.jpg"
 description: "Taxation by stamp-duties and registration duties are a very modern invention"
 icon: "/icons/smith.png"

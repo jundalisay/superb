@@ -1,7 +1,7 @@
 ---
 title: "How to solve religious conflicts"
 heading: "Part 3z"
-weight: 1
+weight: 72
 image: "/covers/wn.jpg"
 description: "There state can use two very easy and effective remedies to peacefully correct the disagreeably rigorous morals of little sects"
 author: Adam Smith

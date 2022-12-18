@@ -1,11 +1,13 @@
 ---
 title: "The Soul"
 heading: "Chapter 3b"
-weight: 1
+weight: 18
 image: "/covers/timaeus.jpg"
 description: "The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything"
+author: Plato
 icon: "/icons/socrates.png"
 ---
+
 
 
 The Creator conceived that a being which was self-sufficient would be far more excellent than one which lacked anything. 

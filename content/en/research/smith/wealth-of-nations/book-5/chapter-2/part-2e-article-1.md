@@ -1,7 +1,7 @@
 ---
 title: "Taxes on House and Ground Rent"
 heading: "Chapter 2e of Part 1b"
-weight: 1
+weight: 18
 image: "/covers/wn.jpg"
 description: "House rents are made up of the Building-rent and The Ground-rent"
 icon: "/icons/smith.png"

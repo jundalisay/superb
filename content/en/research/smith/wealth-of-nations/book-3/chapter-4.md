@@ -1,14 +1,14 @@
-+++
-title=  "How the Commerce of the Towns Improved the Countryside"
-date=  2015-09-09
-image=  "/covers/wn.jpg"
-description=  "How the Commerce gave employment for the rural areas"
-linkb=  "/research/smith/wealth-of-nations/book-3/chapter-3c"
-linkbtext=  "Chapter 3c"
-linkf=  "/research/smith/wealth-of-nations/book-3/chapter-4b"
-linkftext=  "Chapter 4b"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 4"
+title: "How the Commerce of the Towns Improved the Countryside"
+weight: 20
+image: "/covers/wn.jpg"
+description: "How the Commerce gave employment for the rural areas"
+author: Adam Smith
+icon: /icons/smith.png
+---
+
+
 
 
 ## The Benefits of Trade and Manufactures

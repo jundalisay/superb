@@ -1,7 +1,7 @@
 ---
 title: "Taxes on Necessities"
 heading: "Part 2o, Article 2"
-weight: 1
+weight: 38
 image: "/covers/wn.jpg"
 description: "In Great Britain, the principal taxes on necessities are those on salt, leather, soap, and candles"
 icon: "/icons/smith.png"

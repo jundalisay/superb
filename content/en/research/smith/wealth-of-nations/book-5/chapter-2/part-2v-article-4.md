@@ -1,12 +1,11 @@
 ---
 title: "French Taxation"
 heading: "Part 2b, Article 4 Simplified"
-weight: 1
+weight: 52
 image: "/covers/wn.jpg"
 description: "In France, the laws require many revenue officers to prevent the importation of certain goods, or subject imported goods to certain duties"
 icon: "/icons/smith.png"
 author: Adam Smith
-showdate: false
 ---
 
 

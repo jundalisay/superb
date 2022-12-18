@@ -1,10 +1,10 @@
 ---
 title: "The Nature of Motion"
-heading: "Timaeus by Plato Simplified"
-weight: 1
+heading: "Chapter 5c"
+weight: 28
 image: "/covers/timaeus.jpg"
 description: "The Simplified Timaeus by Plato"
-author: Timaeus
+author: Plato
 icon: /icons/soc.png
 ---
 

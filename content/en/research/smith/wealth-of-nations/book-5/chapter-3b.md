@@ -1,7 +1,7 @@
 ---
 title: "Anticipations and Perpetual Funding"
 heading: "Chapter 3b"
-weight: 1
+weight: 8
 image: "/covers/wn.jpg"
 description: "In Great Britain, the land and malt taxes are regularly anticipated every year by a borrowing clause"
 icon: "/icons/smith.png"

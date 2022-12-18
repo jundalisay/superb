@@ -1,9 +1,12 @@
 ---
+heading: Chapter 4
 title: "The Universe"
-weight: 1
+weight: 24
 image: "/covers/timaeus.jpg"
-description: "How is the body created? "
+description: "How is the body created?"
+author: Plato
 ---
+
 
 
 Because of all these affections, the soul, when encased in a mortal body is at first without intelligence. 

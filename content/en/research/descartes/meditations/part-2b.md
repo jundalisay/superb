@@ -2,7 +2,7 @@
 title: Bodies Dispel the Dream
 heading: Part 2b
 # of the Second Meditation
-date: 2022-01-27
+weight: 4
 description: "Bodies are much more clearly known to me than this puzzling ‘I’ that cannot be pictured in the imagination"
 image: "/covers/meditations.jpg"
 icon: "/icons/descartes.png"

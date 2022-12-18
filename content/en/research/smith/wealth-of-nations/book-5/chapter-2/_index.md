@@ -1,9 +1,8 @@
 ---
 title: "Government Revenue"
-linkTitle: Chapter 2
 heading: "Chapter 2"
-weight: 1
+weight: 4
 image: "/covers/wn.jpg"
-description: "We simplify The Wealth of Nations Book 5 about Government Expenses and Revenue"
+description: "We simplify The Wealth of Nations Book 5 Chapter 2 about Government Revenue"
 author: Adam Smith
 ---

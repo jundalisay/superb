@@ -1,26 +1,13 @@
 ---
 title: "General Taxes: Customs Duties"
 heading: "Part 2p, Article 2"
-weight: 1
+weight: 42
 image: "/covers/wn.jpg"
-description: "They were called 'customs' to denote customary payments which used from time immemorial"
+description: "In all cases, high duties reduced customs revenue below what moderate duties would have afforded. The high duties imposed on foreign imports encouraged smuggling"
 icon: "/icons/smith.png"
 author: Adam Smith
 ---
 
-
-+++
-title=  "General Taxes -- Customs Duties"
-description=  "The high duties imposed on foreign imports encouraged smuggling in many cases."
-date=  2015-01-13
-image=  "/covers/wn.jpg"
-linkb=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2p-article-4"
-linkbtext=  "Part 2p"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-2/part-2r-article-4"
-linkftext=  "Part 2r"
-heading=  "Article 4 Part 2q"
-icon=  "/icons/smith.png"
-+++
 
 
 {{< s v="170" >}} I showed in Book 4 that the mercantile system was not very favourable to the people's revenue or the national annual produce.
@@ -37,11 +24,13 @@ In both cases, it entirely annihilated the revenue of customs which might have b
 172 The high duties imposed on foreign imports encouraged smuggling in many cases.
 
 In all cases, high duties reduced customs revenue below what moderate duties would have afforded.
+
 Dr. Swift says that in the arithmetic of the customs is 2 + 2 = 1.
 This is perfectly true regarding such heavy duties.
+
 Such duties could never have been imposed had not the mercantile system taught us to use taxation as an instrument of monopoly, not revenue.
 
-173 The bounties sometimes given on the exportation of home produce and manufactures, and the drawbacks paid on the re-exportation of most foreign goods, have created= 
+173 The bounties sometimes given on the exportation of home produce and manufactures, and the drawbacks paid on the re-exportation of most foreign goods, have created:
 - many frauds, and
 - smuggling.
 

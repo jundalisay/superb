@@ -1,14 +1,12 @@
-+++
-title=  "From Free Cities to Independent Republics"
-date=  2015-09-09
-image=  "/covers/wn.jpg"
-description=  "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
-linkb=  "/research/smith/wealth-of-nations/book-3/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/smith/wealth-of-nations/book-3/chapter-3c"
-linkftext=  "Chapter 3c"
-icon=  "/icons/smith.png"
-+++
+---
+heading: "Chapter 3b"
+title: "From Free Cities to Independent Republics"
+weight: 16
+image: "/covers/wn.jpg"
+description: "This is how the republic of Berne and other Swiss cities came to be. Except for Venice, this is also how all the considerable Italian republics were formed"
+author: Adam Smith
+icon: /icons/smith.png
+---
 
 
 ## The Weakness of the King (Conservatives) Led to the Rise of the Free Traders (Liberals)

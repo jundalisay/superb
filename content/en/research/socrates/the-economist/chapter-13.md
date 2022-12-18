@@ -1,9 +1,10 @@
 ---
 title: "How to Train Humans"
 heading: "Chapter 13"
-weight: 1
+weight: 32
 image: "/covers/economist.jpg"
 description: "He must learn at any rate, I think, to rule his fellow-workmen"
+author: Xenophon
 icons: "/icons/soc.png"
 ---
 

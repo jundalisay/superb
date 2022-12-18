@@ -1,7 +1,8 @@
 ---
 title: "Cyrus the Great"
 heading: "Chapter 4"
-weight: 1
+weight: 16
+author: Xenophon
 image: "/covers/economist.jpg"
 description: "Socrates talks about excellent Persian policies and Cyrus the Great"
 icon: "/icons/soc.png"

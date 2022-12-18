@@ -1,14 +1,13 @@
-+++
-title=  "The Rise of Cities"
-date=  2015-09-09
-image=  "/covers/wn.jpg"
-description=  "The Rise of Cities After the Fall of Rome The Freedom in European Towns"
-linkb=  "/research/smith/wealth-of-nations/book-3/chapter-2b"
-linkbtext=  "Chapter 2b"
-linkf=  "/research/smith/wealth-of-nations/book-3/chapter-3b"
-linkftext=  "Chapter 3b"
-icon=  "/icons/smith.png"
-+++
+---
+title: "The Origin of Free-Traders"
+heading: "Chapter 3"
+weight: 14
+image: "/covers/wn.jpg"
+description: "Sometimes, the king or a great lord would grant a tax exemption to traders who lived in their territory. Such traders, though servile, were called Free-traders"
+author: Adam Smith
+icon: /avatars/smith.png
+---
+
 
 
 ## The Origin of Free-Traders
@@ -39,7 +38,7 @@ In all European countries, like in present-day Russia, taxes were levied on the 
 
 These taxes were known in England as passage, pontage, lastage, and stallage.
 
-In those days, only important people were given protection. Sometimes. the king or a great lord would grant a tax exemption to traders who lived in their territory. Such traders, though servile, were called Free-traders.
+In those days, only important people were given protection. Sometimes, the king or a great lord would grant a tax exemption to traders who lived in their territory. Such traders, though servile, were called Free-traders.
 
 In return, they paid an annual poll tax* to their protector. This poll tax compensated the losses of the great lord from their exenption from other taxes.
 

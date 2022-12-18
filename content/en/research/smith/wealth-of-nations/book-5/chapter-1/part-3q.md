@@ -1,7 +1,7 @@
 ---
 title: "Scholarships"
 heading: "Part 3q"
-weight: 1
+weight: 54
 image: "/covers/wn.jpg"
 description: "University Education"
 author: Adam Smith

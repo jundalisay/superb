@@ -1,7 +1,7 @@
 ---
 title: "Article 2-Educational Institutions for the youth"
 heading: "Part 3j"
-weight: 1
+weight: 52
 image: "/covers/wn.jpg"
 description: "University Education"
 author: Adam Smith

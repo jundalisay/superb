@@ -1,7 +1,7 @@
 ---
 title: "Solutions: Tax Reform"
 heading: "Chapter 3i"
-weight: 1
+weight: 22
 image: "/covers/wn.jpg"
 description: "The revenue might be very much increased without increasing the burden on the people"
 icon: "/icons/smith.png"

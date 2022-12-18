@@ -1,7 +1,7 @@
 ---
 title: "The Hudson's Bay (1660-1752) and South Sea Joint Stock Companies"
 heading: "Part 3i"
-weight: 1
+weight: 42
 image: "/covers/wn.jpg"
 description: "The Royal African Company is the predecessor of the present African Company"
 author: Adam Smith

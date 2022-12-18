@@ -1,13 +1,12 @@
 ---
 title: "The Expense of supporting the Sovereign's Dignity"
 heading: "Part 4"
-weight: 1
+weight: 82
 image: "/covers/wn.jpg"
 description: "The sovereign also needs a certain expence to support his dignity"
 author: Adam Smith
 icon: /avatars/smith.png
 ---
-
 
 
 

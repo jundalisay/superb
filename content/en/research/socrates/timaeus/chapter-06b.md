@@ -1,10 +1,10 @@
 ---
 title: "Kundalini"
-heading: "There are 3 billion yous"
-weight: 1
+heading: "Chapter 6b"
+weight: 36
 image: "/photos/social/monkey.jpg"
 description: "The bonds of life which unite the soul with the body are made fast in the marrow. They are the root and foundation of the human race"
-author: Timaeus
+author: Plato
 icon: /icons/soc.png
 ---
 
@@ -70,7 +70,9 @@ The more living and sensitive of the bones he enclosed in the thinnest film of f
 
 On the joints of the bones, where reason indicated that no more was required, he placed only a thin covering of flesh, that it might not interfere with the flexion of our bodies and make them unwieldy because difficult to move; and also that it might not, by being crowded and pressed and matted together, destroy sensation by reason of its hardness, and impair the memory and dull the edge of intelligence.
 
-Wherefore also the thighs and the shanks and the hips, and the bones of the arms and the forearms, and other parts which have no joints, and the inner bones, which on account of the rarity of the soul in the marrow are destitute of reason—all these are abundantly provided with flesh; but such as have mind in them are in general less fleshy, except where the creator has made some part solely of flesh in order to give sensation,—as, for example, the tongue. But commonly this is not the case. For the nature which comes into being and grows up in us by a law of necessity, does not admit of the combination of solid bone and much flesh with acute perceptions.
+Wherefore also the thighs and the shanks and the hips, and the bones of the arms and the forearms, and other parts which have no joints, and the inner bones, which on account of the rarity of the soul in the marrow are destitute of reason—all these are abundantly provided with flesh; but such as have mind in them are in general less fleshy, except where the creator has made some part solely of flesh in order to give sensation,—as, for example, the tongue. 
+
+But commonly, this is not the case. For the nature which comes into being and grows up in us by a law of necessity, does not admit of the combination of solid bone and much flesh with acute perceptions.
 
 More than any other part the framework of the head would have had them, if they could have co-existed, and the human race, having a strong and fleshy and sinewy head, would have had a life twice or many times as long as it now has, and also more healthy and free from pain. 
 

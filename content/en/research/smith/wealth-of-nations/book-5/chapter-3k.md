@@ -1,7 +1,7 @@
 ---
 title: "Ireland and America"
 heading: "Chapter 3k"
-weight: 1
+weight: 26
 image: "/covers/wn.jpg"
 description: "Ireland and America should help reduce Great Britain's public debt"
 icon: "/icons/smith.png"

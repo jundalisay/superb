@@ -1,7 +1,7 @@
 ---
 title: "Wage Taxes"
-heading: "Part 2l, Article 2 Simplified"
-weight: 1
+heading: "Part 2l, Article 2"
+weight: 32
 image: "/covers/wn.jpg"
 description: "While the demand for labour and the price of goods remain the same, a direct tax on wages raises wages higher than the tax"
 icon: "/icons/smith.png"

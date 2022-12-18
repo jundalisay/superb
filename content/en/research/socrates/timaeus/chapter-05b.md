@@ -1,10 +1,10 @@
 ---
+heading: "Chapter 5b"
 title: "The 5 Elements"
-heading: "Timaeus by Plato Simplified"
-weight: 1
+weight: 26
 image: /covers/timaeus.jpg
 description: "Timaeus explains the 5 elements"
-author: Timaeus
+author: Plato
 icon: /icons/soc.png
 ---
 

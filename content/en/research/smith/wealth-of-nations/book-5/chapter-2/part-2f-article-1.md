@@ -1,7 +1,7 @@
 ---
 title: "Ground Rents"
 heading: "Chapter 2f of Part 1b"
-weight: 1
+weight: 20
 image: "/covers/wn.jpg"
 description: "House rents are made up of the Building-rent and The Ground-rent"
 icon: "/icons/smith.png"

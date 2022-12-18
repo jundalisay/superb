@@ -1,15 +1,15 @@
-+++
-title=  "Greek and Roman Policy"
-heading=  "Chapter 9e"
-date=  2020-03-17
-image=  "/covers/wn.jpg"
-description=  "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
-linkb=  "/research/smith/wealth-of-nations/book-4/chapter-9d-foreign-systems"
-linkbtext=  "Chapter 9d"
-linkf=  "/research/smith/wealth-of-nations/book-5/chapter-1/part-1a"
-linkftext=  "Chapter 1a"
-icon=  "/icons/smith.png"
-+++
+---
+title: "Greek and Roman Policy"
+heading: "Chapter 9e"
+weight: 114
+image: "/covers/wn.jpg"
+description: "Foreign trade gives a value to their nations' superfluities by exchanging them for something else to satisfy their wants"
+icon: "/icons/smith.png"
+author: Adam Smith
+---
+
+
+
 
 {{< s v="47" >}} The policy of the ancient Greek and Roman republics honoured agriculture more than manufactures or foreign trade.
 
@@ -17,22 +17,27 @@ They discouraged manufactures or foreign trade more than encouraging agriculture
 
 In several ancient Greek states, foreign trade was banned.
 In several others, the employments of artificers and manufacturers were considered hurtful to the human body's strength and agility.
+
 It rendered the body incapable of habits which their military and gymnastic exercises tried to form.
 Such employments disqualified the body from the fatigues and dangers of war.
 Manufacturing and trade were considered fit only for slaves.
 
 It was banned for the free citizens.
 Most people of Rome and Athens were effectively excluded from all trades even if trade and manufactures were not banned.
+
 Trades are now exercised by the lower sort of people of towns.
 Such trades were all occupied by the slaves of the rich.
 They exercised trades for their masters' benefit.
+
 It was almost impossible for a poor freeman to compete with the work of those slaves because of their masters' wealth, power, and protection.
 Slaves are very seldom inventive.
 
-All the most important improvements were the discoveries of freemen= 
-machinery,
-the arrangement and distribution of work which facilitate and abridge labour.
+All the most important improvements were the discoveries of freemen:
+- machinery,
+- the arrangement and distribution of work which facilitate and abridge labour.
+
 If a slave proposes any similar improvement, his master would consider it as the suggestion of laziness.
+
 The master would think that the slave desired to save his own labour at the master's expence.
 The poor slave would probably receive much abuse or some punishment instead of reward.
 In the slave manufactures, more labour must have been employed to execute the same amount of work as those done by free men.
@@ -50,9 +55,11 @@ It appears that the finer manufactures were excessively dear.
 Silk was sold for its weight in gold.
 In those times, it was all brought from the East Indies, and not made in Europe.
 The transportation costs may account for its high price.
+
 The price which a lady paid for very fine linen seems equally extravagant.
 Linen was always a European or an Egyptian manufacture.
 Its high labour costs account for its high price.
+
 Those labour costs again was due to the awkwardness of the machinery which it used.
 The price of fine woollens was not so extravagant.
 It was much above the current price.

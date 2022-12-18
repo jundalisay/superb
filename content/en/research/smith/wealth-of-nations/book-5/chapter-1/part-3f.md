@@ -1,7 +1,7 @@
 ---
 title: "The Hamburgh, Russian, and Eastland Regulated Companies"
 heading: "Part 3d"
-weight: 1
+weight: 32
 image: "/covers/wn.jpg"
 description: "Sir Josiah Child complained these companies were extremely oppressive"
 author: Adam Smith
