@@ -3,7 +3,7 @@ title: "Leaving New Holland They Pass By The Island Cocos, And Touch At Another 
 heading: "Chapter 17"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
-description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
+description: "On March 12, 1688, we sailed from New Holland norhtward for the island Cocos. But the winds obliged us to keep a more easterly course"
 icon: "/icons/dampier.png"
 ---
 
@@ -16,7 +16,8 @@ Therefore we did rather choose to bear away towards some islands on the west sid
 
 Then we fell in with a small woody island in latitude 10 degrees 20 minutes. Its longitude from New Holland, from whence we came, was by my account 12 degrees 6 minutes west. It was deep water about the island, and therefore no anchoring; but we sent two canoes ashore; one of them with the carpenters to cut a tree to make another pump; the other canoe went to search for fresh water and found a fine small brook near the south-west point of the island; but there the sea fell in on the shore so high that they could not get it off. At noon both our canoes returned aboard; and the carpenters brought aboard a good tree which they afterwards made a pump with, such a one as they made at Mindanao. The other canoe brought aboard as many boobies and men-of-war birds as sufficed all the ship's company when they were boiled.
 
-A LAND-ANIMAL LIKE LARGE CRAWFISH.
+
+## A LAND-ANIMAL LIKE LARGE CRAWFISH
 
 They got also a sort of land animal somewhat resembling a large crawfish without its great claws. These creatures lived in holes in the dry sandy ground like rabbits. Sir Francis Drake in his Voyage round the World makes mention of such that he found at Ternate, or some other of the Spice Islands, or near them. They were very good sweet meat and so large that two of them were more than a man could eat; being almost as thick as one's leg. Their shells were of a dark brown but red when boiled.
 
@@ -24,7 +25,7 @@ This island is of a good height, with steep cliffs against the south and south-w
 
 About one o'clock in the afternoon we made sail from this island with the wind at south-west and we steered north-west. Afterwards the winds came about at north-west and continued between the west-north-west and the north-north-west several days. I observed that the winds blew for the most part out of the west or north-west and then we had always rainy weather with tornadoes, and much thunder and lightning; but when the wind came any way to the southward it blew but faint and brought fair weather.
 
-COCONUTS, FLOATING IN THE SEA.
+## COCONUTS, FLOATING IN THE SEA.
 
 We met nothing of remark till the 7th day of April, and then, being in latitude 7 degrees south, we saw the land of Sumatra at a great distance, bearing north. The 8th day we saw the east end of the island Sumatra very plainly; we being then in latitude 6 degrees south. The 10th day, being in latitude 5 degrees 11 minutes and about seven or eight leagues from the island Sumatra on the west side of it, we saw abundance of coconuts swimming in the sea; and we hoisted out our boat and took up some of them; as also a small hatch, or scuttle rather, belonging to some bark. The nuts were very sound, and the kernel sweet, and in some the milk or water in them and was yet sweet and good.
 
@@ -142,7 +143,8 @@ HAVING RECRUITED AND IMPROVED HER, THEY SET OUT AGAIN FOR THE EAST SIDE OF THE I
 
 The canoe being now very well fixed, and our books and clothes dry, we launched out a second time and rowed towards the east side of the island, leaving many islands to the north of us. The Indians of the island accompanied us with eight or ten canoes against our desire; for we thought that these men would make provision dearer at that side of the island we were going to by giving an account what rates we gave for it at the place from whence we came, which was owing to the ship's being there; for the ship's crew were not so thrifty in bargaining (as they seldom are) as single persons or a few men might be apt to be, who would keep to one bargain. Therefore to hinder them from going with us Mr. Hall scared one canoe's crew by firing a shot over them. They all leapt overboard and cried out but, seeing us row away, they got into their canoe again and came after us.
 
-THEY HAVE A WAR WITH THE ISLANDERS; BUT PEACE BEING REESTABLISHED, THEY LAY IN STORES, AND MAKE PREPARATIONS FOR THEIR VOYAGE.
+
+## THEY HAVE A WAR WITH THE ISLANDERS; BUT PEACE BEING REESTABLISHED, THEY LAY IN STORES, AND MAKE PREPARATIONS FOR THEIR VOYAGE.
 
 The firing of that gun made all the inhabitants of the island to be our enemies. For presently after this we put ashore at a bay where were four houses and a great many canoes: but they all went away and came near us no more for several days. We had then a great loaf of melory which was our constant food; and if we had a mind to coconuts or toddy our Malayans of Achin would climb the trees and fetch as many nuts as we would have, and a good pot of toddy every morning. Thus we lived till our melory was almost spent; being still in hopes that the natives would come to us and sell it as they had formerly done. But they came not to us; nay they opposed us wherever we came and, often shaking their lances at us, made all the show of hatred that they could invent.
 
