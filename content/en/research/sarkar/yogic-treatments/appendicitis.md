@@ -1,7 +1,7 @@
 ---
 title: "Natural Remedies for Appendicitis"
 # heading: "Yogic Treatments and Natural Remedies"
-weight: 1
+weight: 4
 author: "PR Sarkar"
 description: "Swelling of the appendix and simultaneous unbearable pain in the abdominal region; fear of eating in spite of appetite or desire for food"
 image: "/photos/med/appendix.jpg"

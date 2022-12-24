@@ -1,7 +1,7 @@
 ---
 title: "Buddhist and Hindu Tantra"
 heading: "Part 4"
-weight: 1
+weight: 8
 image: "/covers/discourses.jpg"
 description: "It is absolutely wrong to make a distinction between Hindu Tantra and Buddhist Tantra."
 icon: "/icons/sarkar.png"
@@ -48,15 +48,19 @@ To them id́á, piuṋgalá and suśumná are lalaná, rasaná and avadhu�
 
 Even the popular assumption that the Hindus borrowed idolatry from the Buddhists is totally wrong. Although there was a conception of gods and goddesses among the Aryan Vedics, there was no custom of modelling images for worship. But in the lowest stratum of Tantra sádhaná (that is, the lowest of the low grade) idolatry was prescribed:
 
+{{< q >}}
 Uttamo Brahmasadbhávo
 Madhyamá dhyána dháŕańá;
 Japastúti syádhadhamá
 Múrtipújá dhamádhamá.
 –Kulárńava Tantra
+{{< /q >}}
+
 
 [Ideation on Brahma is the best, dhyána and dhárańá are second best, repetitious incantation and eulogistic prayer are the worst, and idol worship is the worst of the worst.]
 
 The word uttama in the first line of the shloka is interchangeable with sahajávasthá. Sahajáavasthá, the “tranquil state” of the Buddhists, is no different from the ideation on Brahma of the Hindus.
+
 According to their respective intellectual strata, the primitive non-Aryan Tantrics utilized all the practices, from the lowest-of-the-low image worship to the highest-of-the-high Brahma sádhaná. Thus idolatry is as much a part of Hindu Tantra as it is of Buddhist Tantra. Neither has borrowed it from the other.
 
 <!-- I have just referred to the ideological unity of the Hindu and the Buddhist Tantras. So far as the goal is concerned,  -->

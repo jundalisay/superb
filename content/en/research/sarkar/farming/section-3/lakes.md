@@ -1,6 +1,6 @@
 ---
 title: "Artificial Lakes for Afforestation"
-weight: 1
+weight: 12
 author: "PR Sarkar"
 description: "For afforestation programmes to be successful, surface water must be conserved."
 image: "/covers/farming.jpg"

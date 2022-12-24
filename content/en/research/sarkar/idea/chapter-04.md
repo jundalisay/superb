@@ -2,7 +2,7 @@
 title: "The Mind and the 10 Energies"
 #, Práńendriya and Vrtti
 heading: "Chapter 4 "
-weight: 1
+weight: 20
 description: "By division and decimation, solids get metamorphosed into subtler layers. This creates the unit mind."
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

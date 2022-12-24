@@ -1,7 +1,6 @@
 ---
 title: "Population Growth and Control"
-# heading: "Chapter 7 "
-weight: 1
+weight: 32
 image: "/covers/discourses.jpg"
 description: "The population problem is based on the availability of food and space."
 icon: "/icons/sarkar.png"

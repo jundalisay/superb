@@ -1,7 +1,7 @@
 ---
 title: "Popular Language"
 heading: "Part 4"
-weight: 1
+weight: 8
 image: "/covers/discourses.jpg"
 description: "Popular Language"
 icon: "/icons/sarkar.png"

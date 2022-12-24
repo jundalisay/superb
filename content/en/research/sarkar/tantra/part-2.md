@@ -1,7 +1,7 @@
 ---
 title: "The Vedas"
 heading: "Part 2"
-weight: 1
+weight: 4
 image: "/covers/discourses.jpg"
 description: "The original Rgvedic civilization belonged, in spirit and language, to the non-Indian Aryans. "
 icon: "/icons/sarkar.png"

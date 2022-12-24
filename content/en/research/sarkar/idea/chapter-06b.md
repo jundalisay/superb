@@ -3,7 +3,7 @@ title: "The Collective Consciousness"
 # Individual Consciousness and
 #"Paramátman and Atman"
 heading: "Chapter 6b "
-weight: 1
+weight: 30
 description: "'Paramátman' [active collective consciousness] is the collective name for the Macrocosmic Nucleus"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

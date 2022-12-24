@@ -1,7 +1,7 @@
 ---
 title: "Táraka Brahma Versus Avatara"
 heading: "Chapter 6c"
-weight: 1
+weight: 32
 description: "Táraka Brahma is not a figure of philosophy. It is a creation of devotional sentiment."
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

@@ -1,7 +1,7 @@
 ---
 title: "Samskara or Reactive Momenta"
-heading: "Chapter 7b "
-weight: 1
+heading: "Chapter 7b"
+weight: 36
 description: "Saḿskára is the effect of action in the past stages. It gives momentum to the unit mind"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

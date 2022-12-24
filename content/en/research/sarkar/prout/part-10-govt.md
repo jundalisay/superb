@@ -1,7 +1,7 @@
 ---
 heading: "Part 10"
 title: "Different Forms of Government"
-weight: 1
+weight: 16
 author: "PR Sarkar"
 description: "Autonomous means ruling the self"
 image: "/covers/prout.png"

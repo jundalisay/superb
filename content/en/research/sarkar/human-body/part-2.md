@@ -2,7 +2,7 @@
 # heading: "Astitva and Shivatva"
 title: "The Scope of Bio-Psychology"
 # date: 2021-11-20
-weight: 1
+weight: 4
 image: "/covers/discourses.jpg"
 description: "Karma or action is a form of Brahma or the totaliity of existence"
 icon: "/icons/sarkar.png"

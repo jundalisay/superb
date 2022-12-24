@@ -2,7 +2,7 @@
 title: "The Portions of the Mind"
 # KośaStages 
 heading: "Chapter 5"
-weight: 1
+weight: 26
 description: "Consciousness is the supreme subjectivity and all other, mundane, subjectivities or objectivities are mere blendings of the absolute subjectivity"
 image: "/covers/ideology.jpg"
 icon: /flags/in.png

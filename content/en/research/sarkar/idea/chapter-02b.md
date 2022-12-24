@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Life"
 heading: "Chapter 2b "
-weight: 1
+weight: 14
 description: "In plant and animal life, mind is underdeveloped and the vital energy and mind are controlled by the Supreme Mind"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

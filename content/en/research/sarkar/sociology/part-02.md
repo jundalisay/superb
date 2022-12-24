@@ -2,7 +2,7 @@
 title: "The Law of Attraction and Socio-Economic Unity"
 # Human Society Is One and Indivisible 2
 heading: "Part 2"
-weight: 1
+weight: 4
 image: "/covers/discourses.jpg"
 description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"
 icon: "/icons/sarkar.png"

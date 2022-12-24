@@ -2,7 +2,7 @@
 heading: "Section 1"
 title: "Important Vegetables"
 image: "/covers/farming.jpg"
-weight: 1
+weight: 8
 ---
 
 

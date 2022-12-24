@@ -1,14 +1,10 @@
 ---
 title: "Glands and Sub-Glands"
 # heading: "Chapter 7 "
-weight: 1
+weight: 6
 image: "/covers/discourses.jpg"
-description: ""
-linkb: /research/sarkar/
-linkbtext: "Index"
-linkf: /research/sarkar/
+description: "There are many underdeveloped creatures which have no nerve cells or nerve fibres and behave according to their instincts only."
 ---
-
 
 
 There are many underdeveloped creatures which have no nerve cells or nerve fibres and behave according to their instincts only. 

@@ -2,7 +2,7 @@
 title: "Indian Agriculture"
 # title: "Agrarian Revolution"
 heading: "Chapter 1"
-weight: 1
+weight: 2
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"
 image: "/covers/farming.jpg"

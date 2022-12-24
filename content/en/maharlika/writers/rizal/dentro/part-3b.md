@@ -4,7 +4,7 @@ title: The Qualities of a Filipino
 description: The Filipino is considered a capable citizen when his contribution and his blood are asked to defend the homeland, why should he be denied that capacity when it comes to granting him a right?
 # title: Filipinas Dentro De Cien Años
 # description: Las Filipinas, si han de continuar bajo el dominio de España, tienen por fuerza que tranformarse en sentido político, por exigirlo así la marcha de su historia y las necesidades de sus habitantes
-date: 2022-02-10
+weight: 8
 image: /covers/dentro.jpg
 # image: https://qph.fs.quoracdn.net/main-qimg-a53c2a32fd3cf1accd44a91a0ae1a149-mzj
 author: Jose Rizal

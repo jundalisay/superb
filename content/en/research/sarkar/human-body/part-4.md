@@ -1,7 +1,7 @@
 ---
 heading: "Part 4"
 title: "Socio-Economic Theories and Communism"
-weight: 1
+weight: 10
 image: "/covers/discourses.jpg"
 description: "Communism must go immediately or be removed without any delay"
 icon: "/icons/sarkar.png"

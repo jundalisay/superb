@@ -1,7 +1,7 @@
 ---
 heading: "Part 5"
 title: "The Four Drives"
-weight: 1
+weight: 10
 author: "PR Sarkar"
 description: ""
 image: "/covers/discourses.jpg"

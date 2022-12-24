@@ -1,7 +1,7 @@
 ---
 heading: "Part 12"
 title: "Service Psychology and Group Psychology"
-weight: 1
+weight: 20
 author: "PR Sarkar"
 description: ""
 image: "/covers/prout.png"

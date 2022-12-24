@@ -2,7 +2,7 @@
 heading: Part 4
 title: Will the Philippines Continue as a Spanish colony?
 description: What will become of the Philippines in a century? Will they continue as a Spanish colony?
-date: 2022-02-10
+weight: 10
 image: /covers/dentro.jpg
 author: Jose Rizal
 icon: /icons/sun.png

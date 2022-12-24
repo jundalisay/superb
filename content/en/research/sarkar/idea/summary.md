@@ -1,13 +1,9 @@
 ---
 title: "Summary"
 heading: Idea and Ideology Simplified
-weight: 1
-description: ""
+weight: 54
+description: "The Summary of Idea and Ideology Simplified"
 image: "/covers/ideology.jpg"
-linkb: "/research/sarkar/idea/"
-linkbtext: "Index"
-linkf: "/research/sarkar/idea/"
-linkftext: "Index"
 icon: "/icons/sarkar.png"
 ---
 

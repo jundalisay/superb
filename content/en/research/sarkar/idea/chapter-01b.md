@@ -2,7 +2,7 @@
 title: "The Formation of Identity"
 # title: "Saiṋcara and Práńáh"
 heading: Chapter 1b
-weight: 1
+weight: 4
 description: "the Identity-Layer is nothing but the Cosmic “I”. This is the first bondage of Consciousness by His innate sentient Activity"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

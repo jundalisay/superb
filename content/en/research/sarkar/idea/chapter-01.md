@@ -2,7 +2,7 @@
 title: "The Crudification Cycle (Saiṋcara)"
 # title: "Saiṋcara and Práńáh"
 heading: Chapter 1
-weight: 1
+weight: 2
 description: "Crudification or Saiṋcara is the centrifugal activity of the Nucleus (Puruśottama) of the Macrocosm"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

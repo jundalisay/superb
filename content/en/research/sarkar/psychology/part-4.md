@@ -1,7 +1,7 @@
 ---
 title: "Ideation and Meditation"
 heading: "Part 4"
-weight: 1
+weight: 8
 image: "/covers/discourses.jpg"
 description: "Through spiritual progress, the mind grows in magnitude until it finally merges in the Supreme Entity. "
 icon: "/icons/sarkar.png"

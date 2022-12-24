@@ -2,7 +2,7 @@
 title: "The Chakras"
 # title: "Under the Shelter of the Guru"
 heading: "Part 3b"
-weight: 1
+weight: 8
 image: "/covers/discourses.jpg"
 description: "There are 9 cakras [plexi] in humans"
 icon: "/icons/sarkar.png"

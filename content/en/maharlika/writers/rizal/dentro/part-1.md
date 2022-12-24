@@ -5,7 +5,7 @@ title: What is the future of the Philippines?
 # Filipinas Dentro De Cien Años
 description: "What will be his future? Will the Philippine Islands continue as a Spanish colony, and, if so, what kind of colony? Will they become Spanish provinces with or without autonomy?"
 # description: Siguiendo nuestra costumbre de abordar de frente las más árduas y delicadas cuestiones que se relacionan con Filipinas
-date: 2022-02-10
+weight: 2
 image: /covers/dentro.jpg
 author: Jose Rizal
 icon: /icons/sun.png

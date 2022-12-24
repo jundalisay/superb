@@ -1,7 +1,7 @@
 ---
 title: "Evolution and the 4 Ages of Society"
 heading: "Chapter 10"
-weight: 1
+weight: 44
 description: "In this cycle of civilization, one age changes or evolves into another. One complete cycle from Shúdra to Vipra Age is called parikránti."
 image: "/covers/ideology.jpg"
 author: "PR Sarkar"

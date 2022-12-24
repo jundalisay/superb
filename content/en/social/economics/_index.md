@@ -1,5 +1,5 @@
 ---
-title: Economics
+title: Economic Superphysics
 subtitle: Economic Superphysics is based on the four laws of value 
 heading: Economic Superphysics is based on the four laws of value
 image: /photos/handshake.jpg

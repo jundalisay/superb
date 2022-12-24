@@ -1,7 +1,7 @@
 ---
 title: "The Perception Layers and Sense-Layers"
 heading: "Chapter 3 "
-weight: 1
+weight: 18
 description: "Brahma Cakra is the Cosmic Circle. It is a Cosmic dance in which every created object, under the magic spell of the Cosmos, is moving in proper harmony and rhythm"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

@@ -2,7 +2,7 @@
 heading: Part 4b
 title: European Colonial Policy
 description: "No sensible nation neglects the immense, virgin, unexploited and little-defended continental territories in order to gain a handful of poor and hardened islands"
-date: 2022-02-10
+weight: 12
 image: /covers/dentro.jpg
 author: Jose Rizal
 icon: /icons/sun.png

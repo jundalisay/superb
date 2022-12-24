@@ -6,7 +6,7 @@ date: 2020-01-31
 linkTitle: "Qost"
 # image: /photos/physics/galaxy.jpg
 image: "/covers/spblack.jpg"
-description: "The common conclusion of the ancient Greeks, Hindus, and Chinese"
+description: "The Quantum of Spacetime or Qost is the smallest unit of spacetime"
 author: Juan
 weight: 10
 icon: /icons/spmat.png

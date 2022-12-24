@@ -1,7 +1,7 @@
 ---
 title: "The Mind Grows in Magnitude"
 heading: "Part 3"
-weight: 1
+weight: 6
 image: "/covers/discourses.jpg"
 description: ""
 icon: "/icons/sarkar.png"

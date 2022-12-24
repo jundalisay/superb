@@ -1,7 +1,7 @@
 ---
 title: "The Subjective Mind"
 heading: "Chapter 6"
-weight: 1
+weight: 12
 image: "/covers/discourses.jpg"
 description: "The third chamber or factor of knowledge is the subjective mind (the second being the objective mind)"
 icon: "/icons/sarkar.png"

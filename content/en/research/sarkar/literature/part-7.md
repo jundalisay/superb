@@ -1,7 +1,7 @@
 ---
 title: "The Critics and Patrons"
 heading: "Part 7"
-weight: 1
+weight: 14
 image: "/covers/discourses.jpg"
 description: "Popular Language"
 icon: "/icons/sarkar.png"

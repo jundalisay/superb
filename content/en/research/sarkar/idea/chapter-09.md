@@ -1,7 +1,7 @@
 ---
 title: "Ideology and Personality"
 heading: "Chapter 9"
-weight: 1
+weight: 42
 description: "Complete development of the integrated personality is essential for perfect spiritual realization of the human being."
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

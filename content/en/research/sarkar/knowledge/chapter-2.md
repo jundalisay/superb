@@ -1,9 +1,9 @@
 ---
 title: "Memory"
 heading: "Chapter 2"
-weight: 1
+weight: 4
 image: "/covers/discourses.jpg"
-description: ""
+description: "Is ordinary knowledge confined to the material level or to the abstract level?"
 icon: "/icons/sarkar.png"
 ---
 

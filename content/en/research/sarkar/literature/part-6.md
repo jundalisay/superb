@@ -1,7 +1,7 @@
 ---
 title: "Society’s Responsibility towards the Artists"
 heading: "Part 6"
-weight: 1
+weight: 12
 image: "/covers/discourses.jpg"
 description: "The artists and the litterateurs are the guides of the society"
 icon: "/icons/sarkar.png"

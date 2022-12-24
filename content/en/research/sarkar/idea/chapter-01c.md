@@ -2,7 +2,7 @@
 title: "The Formation of Mind"
 # title: "Saiṋcara and Práńáh"
 heading: Chapter 1c
-weight: 1
+weight: 6
 description: "Mind is the collective name of the Identity-Layer, Ego-Layer, and mind-stuff"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

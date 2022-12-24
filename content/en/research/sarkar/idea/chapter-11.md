@@ -2,7 +2,7 @@
 title: "Spirituality as the Cosmic Ideal for Humans"
 # title: "The Cosmic Brotherhood"
 heading: "Chapter 11"
-weight: 1
+weight: 48
 description: "Spirituality should lead human beings to the one Cosmic truth from which they have derived their selves,(1) and which is the ultimate destiny"
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"

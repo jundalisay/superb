@@ -2,7 +2,7 @@
 heading: Part 3
 title: Peaceful Struggles
 description: These peaceful struggles of ideas, in addition to being a thermometer for the Government, have the advantage of being cheaper and more glorious
-date: 2022-02-10
+weight: 6
 image: /covers/dentro.jpg
 # image: https://qph.fs.quoracdn.net/main-qimg-a53c2a32fd3cf1accd44a91a0ae1a149-mzj
 author: Jose Rizal

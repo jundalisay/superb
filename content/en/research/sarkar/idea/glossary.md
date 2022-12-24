@@ -1,7 +1,7 @@
 ---
 title: "Glossary"
 heading: "Chapter 11b "
-weight: 1
+weight: 52
 author: "PR Sarkar"
 description: "The availability of the minimum essentialities of life plays a vital part not only in achieving world brotherhood, but also in the development of human personality"
 image: "/covers/ideology.jpg"

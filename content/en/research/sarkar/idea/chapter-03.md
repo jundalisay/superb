@@ -2,7 +2,7 @@
 title: "The 5 Created Layers"
 # Bhútatattva, Tanmátratattva and Indriyatattva
 heading: "Chapter 3 "
-weight: 1
+weight: 16
 description: "The created layers are not any new stuff, but only the crudified forms of Cosmic mindstuff."
 image: "/covers/ideology.jpg"
 icon: "/icons/sarkar.png"
