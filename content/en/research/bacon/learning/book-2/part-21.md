@@ -1,6 +1,6 @@
 ---
 title: "Part 14"
-weight: 1
+weight: 42
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
@@ -8,13 +8,19 @@ author: Francis Bacon
 ---
 
 
-XXI. (1) To resume private or particular good, it falleth into the division of good active and passive;
+{{< s v="21" >}} Private or particular good is either active and passive.
 
-This difference of good (not unlike to that which amongst the Romans was expressed in the familiar or household terms of promus and condus) is formed also in all things, and is best disclosed in the two several appetites in creatures; the one to preserve or continue themselves, and the other to dilate or multiply themselves, whereof the latter seemeth to be the worthier; for in nature the heavens, which are the more worthy, are the agent, and the earth, which is the less worthy, is the patient.  In the pleasures of living creatures, that of generation is greater than that of food.
+The Romans called it promus and condus. It is formed in all things, but best seen in the 2 appetites in creatures:
+
+1. To preserve or continue themselves
+2. To dilate or multiply themselves
+  - This is worthier than the other; for in nature the heavens, which are the more worthy, are the agent, and the earth, which is the less worthy, is the patient.  In the pleasures of living creatures, that of generation is greater than that of food.
 
 In divine doctrine, beatius est dare quam accipere.
 
-In life, there is no man’s spirit so soft, but esteemeth the effecting of somewhat that he hath fixed in his desire, more than sensuality, which priority of the active good is much upheld by the consideration of our estate to be mortal and exposed to fortune.  For if we might have a perpetuity and certainty in our pleasures, the state of them would advance their price. But when we see it is but magni æstimamus mori tardius, and ne glorieris de crastino, nescis partum diei, it maketh us to desire to have somewhat secured and exempted from time, which are only our deeds and works; as it is said, Opera eorum sequuntur eos.
+In life, there is no man’s spirit so soft, but esteemeth the effecting of somewhat that he hath fixed in his desire, more than sensuality, which priority of the active good is much upheld by the consideration of our estate to be mortal and exposed to fortune.  
+
+For if we might have a perpetuity and certainty in our pleasures, the state of them would advance their price. But when we see it is but magni æstimamus mori tardius, and ne glorieris de crastino, nescis partum diei, it maketh us to desire to have somewhat secured and exempted from time, which are only our deeds and works; as it is said, Opera eorum sequuntur eos.
 
 The pre-eminence likewise of this active good is upheld by the affection which is natural in man towards variety and proceeding, which in the pleasures of the sense, which is the principal part of passive good, can have no great latitude.  Cogita quamdiu eadem feceris; cibus, somnus, ludus per hunc circulum curritur; mori velle non tantum fortis, aut miser, aut prudens, sed etiam fastidiosus potest.  But in enterprises, pursuits, and purposes of life, there is much variety; whereof men are sensible with pleasure in their inceptions, progressions, recoils, reintegrations, approaches and attainings to their ends.  
 
@@ -79,7 +85,9 @@ Nay, an honest man can do no good upon those that are wicked, to reclaim them, w
 
 So as, except you can make them perceive that you know the utmost reaches of their own corrupt opinions, they despise all morality.  Non recipit stultus verba prudentiæ, nisi ea dixeris quæ, versantur in corde ejus.
 
-(10) Unto this part, touching respective duty, doth also appertain the duties between husband and wife, parent and child, master and servant.  So likewise the laws of friendship and gratitude, the civil bond of companies, colleges, and politic bodies, of neighbourhood, and all other proportionate duties; not as they are parts of government and society, but as to the framing of the mind of particular persons.
+(10) Unto this part, touching respective duty, doth also appertain the duties between husband and wife, parent and child, master and servant.  
+
+So likewise the laws of friendship and gratitude, the civil bond of companies, colleges, and politic bodies, of neighbourhood, and all other proportionate duties; not as they are parts of government and society, but as to the framing of the mind of particular persons.
 
 (11) The knowledge concerning good respecting society doth handle it also, not simply alone, but comparatively; whereunto belongeth the weighing of duties between person and person, case and case, particular and public.  As we see in the proceeding of Lucius Brutus against his own sons, which was so much extolled, yet what was said?
 
@@ -90,5 +98,3 @@ So the case was doubtful, and had opinion on both sides. Again, we see when M. B
 Amongst which that of all others is the most frequent, where the question is of a great deal of good to ensue of a small injustice. Which Jason of Thessalia determined against the truth: Aliqua sunt injuste facienda, ut multa juste fieri possint.  But the reply is good: Auctorem præsentis justitiæ habes, sponsorem futuræ non habes.  Men must pursue things which are just in present, and leave the future to the Divine Providence.
 
 So then we pass on from this general part touching the exemplar and description of good.
-
-

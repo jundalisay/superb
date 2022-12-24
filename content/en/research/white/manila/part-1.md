@@ -62,7 +62,7 @@ There is also a furnace and foundry here, which, although their operations were 
 The first founder was a Pampango Indian, named Pandapira. When the Spaniards first arrived at Manila, in 1571, they found there a large foundry, which was accidentally burnt, in consequence of the combustibility of the building and effects, which character applies to all the houses of that period.”
 
 
-## Language.4
+## Language
 
 Their colloquial language, like that of the natives of Java, Borneo, Sumatra, and many other islands in these seas, is a dialect of the peninsular Malay from whence it is thought they originated. 
 
@@ -75,7 +75,11 @@ Difference of days.5From the circumstance of the Spaniards arriving in these sea
 Consequently, the time at Manila, being regulated by their own reckonings, is one day later than that of those who arrive there by steering eastward from America or Europe; as for instance, when by the accounts of the latter it is Sunday, by theirs it is only Saturday.
 
 
-## The English in Manila.
+## The English in Manila
 
-In 1762, Manila was taken by the English, where, and at Cavite, immense quantities of naval and military stores, brass and iron ordnance, and several fine ships, fell into their hands. It was, however, soon delivered up to the Spaniards, on a promise of the payment to the English of 4 million dollars as a ransom, which, however, never has been paid. This breach of faith and promise has been loudly complained of by the latter, and as pertinaciously excused by the Spaniards, who complain that the British plundered the city, and committed many other excesses, contrary to the express conditions of their engagements, by which they were virtually rendered nugatory.
+In 1762, Manila was taken by the English, where, and at Cavite, immense quantities of naval and military stores, brass and iron ordnance, and several fine ships, fell into their hands. 
+
+It was, however, soon delivered up to the Spaniards, on a promise of the payment to the English of 4 million dollars as a ransom, which, however, never has been paid. 
+
+This breach of faith and promise has been loudly complained of by the latter, and as pertinaciously excused by the Spaniards, who complain that the British plundered the city, and committed many other excesses, contrary to the express conditions of their engagements, by which they were virtually rendered nugatory.
 

@@ -1,9 +1,9 @@
 ---
 title: "The Idols of the Theater"
 heading: Chapter 2e
-weight: 1
+weight: 12
 image: "/covers/nova.jpg"
-description: ""
+description: "The idols of the theatre are not innate"
 icon: /icons/bacon.png
 ---
 

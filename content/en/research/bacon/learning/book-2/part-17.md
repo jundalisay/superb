@@ -1,7 +1,7 @@
 ---
 heading: Part 17
 title: "The method of tradition"
-weight: 1
+weight: 36
 description: "I think that this part of knowledge of method is so weakly inquired, and so I call it deficient."
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
@@ -9,7 +9,7 @@ author: Francis Bacon
 ---
 
 
-XVII. (1) For the method of tradition, I see it hath moved a controversy in our time.  
+{{< s v="17" >}} (1) For the method of tradition, I see it hath moved a controversy in our time.  
 
 But as in civil business, if there be a meeting, and men fall at words, there is commonly an end of the matter for that time, and no proceeding at all; so in learning, where there is much controversy, there is many times little inquiry.  
 

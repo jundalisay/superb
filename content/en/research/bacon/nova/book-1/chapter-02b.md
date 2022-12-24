@@ -1,9 +1,9 @@
 ---
 title: "The Idols of the Tribe"
 heading: Chapter 2b
-weight: 1
+weight: 6
 image: "/covers/nova.jpg"
-description: ""
+description: "The nature of human understanding easily supposes a greater degree of order and equality in things than it really finds"
 icon: /icons/bacon.png
 ---
 

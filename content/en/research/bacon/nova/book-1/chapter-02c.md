@@ -1,9 +1,9 @@
 ---
 title: "The Idols of the Den"
 heading: Chapter 2c
-weight: 1
+weight: 8
 image: "/covers/nova.jpg"
-description: ""
+description: "The idols of the den come from the peculiar nature of each individual’s mind and body"
 icon: /icons/bacon.png
 ---
 

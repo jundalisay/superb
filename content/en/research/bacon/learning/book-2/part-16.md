@@ -1,15 +1,15 @@
 ---
 heading: Part 14
 title: "Transitive Rational Knowledge"
-weight: 1
-description: ""
+weight: 34
+description: "The fourth kind of rational knowledge is the transitive"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
 
 
-XVI. (1) The fourth kind of rational knowledge is the transitive. 
+{{< s v="16" >}} (1) The fourth kind of rational knowledge is the transitive. 
 
 It concerns the expressing or transferring our knowledge to others, as "tradition" or "delivery".  
 

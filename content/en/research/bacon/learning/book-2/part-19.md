@@ -1,6 +1,6 @@
 ---
 title: "Part 14"
-weight: 1
+weight: 38
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
@@ -8,10 +8,7 @@ author: Francis Bacon
 ---
 
 
-
-XIX. (1) 
-
-There remain two appendices touching the tradition of knowledge, the one critical, the other pedantical.  
+{{< s v="19" >}} There remain two appendices touching the tradition of knowledge, the one critical, the other pedantical.  
 
 All knowledge is either delivered by teachers, or attained by men’s proper endeavours. 
 

@@ -1,6 +1,6 @@
 ---
 title: "Part 8"
-weight: 1
+weight: 22
 description: "Moral and Private virtue"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

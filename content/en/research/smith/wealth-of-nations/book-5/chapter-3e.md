@@ -74,25 +74,29 @@ If peace continued, £1 million might now be annually spared to discharge the de
 We are now involved in a new war which may be as expensive as our former wars.
 
 The new debt which will probably be contracted before the end of the next campaign might be nearly equal to all the old debt paid off.
-It would be vain to expect that the public debt should ever be completely discharged by any savings from the present ordinary revenue.
-    During an 11-year peace, little more than £10 million of debt was paid.
-        During a seven-year war, more than £100 million was contracted.
+- It would be vain to expect that the public debt should ever be completely discharged by any savings from the present ordinary revenue.
 
-48 One author represented the public funds of indebted European nations as the accumulation of a great capital superadded to the capitals of other countries.
+During an 11-year peace, little more than £10 million of debt was paid.
+- During a seven-year war, more than £100 million was contracted.
 
-According to him, this debt= 
+
+{{< s v="48" >}} One author represented the public funds of indebted European nations as the accumulation of a great capital superadded to the capitals of other countries.
+
+According to him, this debt:
 - extends its trade,
 - multiplies its manufactures,
 - improves its lands much beyond what the country's capital could do alone.
 
 He does not consider that the capital which the first public creditors advanced to government was a portion of the national produce turned away from serving as a capital to serve as a revenue.
-    As a debt, this capital is turned from maintaining productive labourers to maintain unproductive ones.
-    This capital is spent and wasted within a year, without any future reproduction.
+- As a debt, this capital is turned from maintaining productive labourers to maintain unproductive ones.
+- This capital is spent and wasted within a year, without any future reproduction.
+
 
 In return for the capital they advanced, the creditors obtained an annuity in the public funds of more than equal value.
 
 This annuity replaced their capital.
-They were enabled to= 
+
+They were enabled to:
 - carry on their trade and business to a greater extent than before,
 - borrow new capital from other people on the credit of this annuity, or
 - sell the credit of this annuity to get a new capital from other people equal or superior to the capital they advanced to government.
@@ -101,65 +105,75 @@ However, this new capital which they bought or borrowed from other people must h
 
 It must have been employed, as all capitals are, in maintaining productive labour.
 When it came into the hands of those who had advanced their money to government, though it was a new capital to them,it was not a new capital to the country.
+
 It was just a capital withdrawn from certain employments to be turned towards others.
 It replaced to them what they had advanced to government, but it did not replace it to the country.
-Had they not advanced this capital to government, there would have been two capitals in the country.
-    There would have been two portions of the annual produce instead of one, employed in maintaining productive labour.
 
-49 When a revenue is raised within the year from free or unmortgaged taxes, private revenue is turned away from maintaining one species of unproductive labour towards maintaining another.
+Had they not advanced this capital to government, there would have been two capitals in the country.
+- There would have been two portions of the annual produce instead of one, employed in maintaining productive labour.
+
+{{< s v="49" >}} When a revenue is raised within the year from free or unmortgaged taxes, private revenue is turned away from maintaining one species of unproductive labour towards maintaining another.
 
 Some part of what they pay in those taxes might no doubt have been accumulated into capital.
 It might have been employed in maintaining productive labour.
 But most would probably have been spent.
-    It would have maintained unproductive labour.
-    When the public expence is defrayed in this way, it no doubt hinders further capital accumulation.
-        But it does not necessarily destroy any existing capital.
 
-50 When the public expence is defrayed by funding, it is defrayed by the annual destruction of some capital which existed in the country before.
+- It would have maintained unproductive labour.
+- When the public expence is defrayed in this way, it no doubt hinders further capital accumulation.
+  - But it does not necessarily destroy any existing capital.
+
+
+{{< s v="50" >}} When the public expence is defrayed by funding, it is defrayed by the annual destruction of some capital which existed in the country before.
 
 It perverts some of the produce which maintained productive labour, towards maintaining unproductive labour.
 However, funding makes taxes lighter.
-    The private revenue of individuals is less burdened.
-    Consequently, their ability to save and accumulate that revenue into capital is less impaired.
-Though perpetual funding destroys more old capital, it does not hinder the accumulation of new capital as much as a direct tax for defraying the whole annual public expence does.
-    Under the system of funding, the frugality and industry of private people can more easily repair the waste and extravagance that government brings to the society's general capital.
+- The private revenue of individuals is less burdened.
+- Consequently, their ability to save and accumulate that revenue into capital is less impaired.
 
-51 The system of funding only has this advantage over the system of direct taxation during a long war.
+Though perpetual funding destroys more old capital, it does not hinder the accumulation of new capital as much as a direct tax for defraying the whole annual public expence does.
+- Under the system of funding, the frugality and industry of private people can more easily repair the waste and extravagance that government brings to the society's general capital.
+
+
+{{< s v="51" >}} During a long war, the system of funding has only 1 advantage over the system of direct taxation -- it allows wars to be longer and to have more vigour.
 
 Were the war's cost to be always defrayed by a revenue raised within the year, the taxes for that revenue would last no longer than the war.
-    The ability of private people to accumulate would be less during the war.
-    It would however have been greater during the peace than under the system of funding.
-Under the system of direct taxation, war would not necessarily cause the destruction of any old capitals.
-    Peace would have caused the accumulation of many more new capitals.
+- The ability of private people to accumulate would be less during the war.
+- It would however have been greater during the peace than under the system of funding.
 
-In general, wars would be:
-- more speedily concluded,
+Under the system of direct taxation, war would not necessarily cause the destruction of any old capitals.
+- Peace would have caused the accumulation of many more new capitals.
+
+In general, wars would:
+- end faster
 - less wantonly undertaken.
 
 The people would feel the complete burden of war during the war.
-    They would soon grow weary of it.
-    Government would then not need to carry it on longer than necessary.
-    The foresight of the heavy burdens of war would hinder people from wantonly calling for it when there was no real interest to fight for.
+- They would soon grow weary of it.
+- Government would then not need to carry it on longer than necessary.
+- The foresight of the heavy burdens of war would hinder people from wantonly calling for it when there was no real interest to fight for.
+
 Wars would occur more rarely and be shorter.
 
-Under the system of funding, on the contrary, wars would be= 
-- undertaken in the highest vigour, and
-- much longer than they can well be.
+Under the system of funding, on the contrary, wars would be:
+- much longer
+- undertaken in the highest vigour
 
-52 When funding has made a certain progress, the multiplication of taxes that goes with it impairs private people from accumulating in peacetime, as direct taxation impairs in wartime.
+{{< s v="52" >}} When funding has made a certain progress, the multiplication of taxes that goes with it impairs private people from accumulating in peacetime, as direct taxation impairs in wartime.
 
 Great Britain's peace revenue is currently more than £10 million a year.
-    If free and unmortgaged, it might be enough to carry on the most vigorous war, with proper management and without contracting new debt.
+- If free and unmortgaged, it might be enough to carry on the most vigorous war, with proper management and without contracting new debt.
 
-The pernicious system of funding encumbers, in peacetime as it encumbers in wartime, the British people's= 
+The pernicious system of funding encumbers, in peacetime as it encumbers in wartime, the British people's:
 - private revenue, and
 - ability to accumulate.
 
-53 It has been said that in paying the interest of the public debt, it is the right hand which pays the left.
+{{< s v="53" >}} It has been said that:
+- {{< c v="brown" >}} in paying the interest of the public debt, it is the right hand which pays the left.{{< /c >}}
+- {{< c v="brown" >}} The money does not go out of the country. It is only a part of the revenue of one set of people which is transferred to another. The nation is not a tiny bit poorer.{{< /c >}}
 
-The money does not go out of the country.
-It is only a part of the revenue of one set of people which is transferred to another. The nation is not a tiny bit poorer.
+**This apology is all founded in the sophistry of the mercantile system.**
 
-This apology is all founded in the sophistry of the mercantile system.
+It supposes that the whole public debt is because of the people*, which is not true. The Dutch and other nations have a very big share in our public funds. Even if the whole debt was due to the people, it would not be less pernicious.
 
-It supposes that the whole public debt is because of the people, which is not true. The Dutch and other nations have a very big share in our public funds. Even if the whole debt was due to the people, it would not be less pernicious.
+
+> *Superphysics note: This is caused by the tendency of the mind to simplify value into money prices 

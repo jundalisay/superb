@@ -1,7 +1,7 @@
 ---
 title: Mathematics
 heading: "Part 8"
-weight: 1
+weight: 18
 description: "Mathematics is the part of natural philosophy, which is commonly made a principal part"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
@@ -18,11 +18,7 @@ But I think it should be a branch of metaphysics.
 
 This is because it:
 - is based on relative quantities
-- 
-
-
 <!-- For the subject of it being , not quantity indefinite, which is but a relative, and --> 
-
 - belongs to philosophia prima, but quantity determined or proportionable, it appeareth to be one of the essential forms of things, as that that is causative in Nature of a number of effects; 
 
 insomuch as we see in the schools both of Democritus and of Pythagoras that the one did ascribe figure to the first seeds of things, and the other did suppose numbers to be the principles and originals of things.

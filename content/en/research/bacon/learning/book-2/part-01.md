@@ -1,7 +1,7 @@
 ---
 title: "Part 1"
-weight: 1
-description: ""
+weight: 4
+description: "The parts of human learning have reference to the 3 parts of man’s understanding, which is the seat of learning"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon

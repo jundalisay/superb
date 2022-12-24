@@ -1,7 +1,7 @@
 ---
 title: The arts of judgment
 heading: "Part 14"
-weight: 1
+weight: 30
 description: "The arts of judgment handle the natures of proofs and demonstrations, which as to induction hath a coincidence with invention"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
@@ -9,7 +9,7 @@ author: Francis Bacon
 ---
 
 
-XIV. (1) 
+<!-- XIV. (1)  -->
 
 The arts of judgment handle the natures of proofs and demonstrations, which as to induction hath a coincidence with invention; for all inductions, whether in good or vicious form, the same action of the mind which inventeth, judgeth—all one as in the sense.  
 

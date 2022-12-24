@@ -1,6 +1,7 @@
 ---
-title: "Part 12"
-weight: 1
+title: The knowledge of the faculties of the mind
+heading: "Part 12"
+weight: 26
 description: "The knowledge which respects the faculties of the mind of man is of 2 kinds"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

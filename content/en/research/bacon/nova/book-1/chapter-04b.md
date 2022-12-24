@@ -1,16 +1,17 @@
 ---
 title: "Natural Philosophy"
 heading: Chapter 4b
-weight: 1
-description: ""
+weight: 26
+description: "We cannot hope to gain advantage from its skirmishing, and quick movements and incursions, unless we put its forces in due order and array, by means of proper and well arranged living tables of discovery"
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
 
 
-{{< s v="102" >}} Objects are so widely dispersed, as to distract and confuse the understanding; 
+{{< s v="102" >}} Objects are so widely dispersed, as to distract and confuse the understanding. 
 
-and we can, therefore, hope for no advantage from its skirmishing, and quick movements and incursions, unless we put its forces in due order and array, by means of proper and well arranged, and, as it were, living tables of discovery of these matters, which are the subject of investigation, and the mind then apply itself to the ready prepared and digested aid which such tables afford.
+We cannot hope to gain advantage from its skirmishing, and quick movements and incursions, unless we put its forces in due order and array, by means of proper and well arranged living tables of discovery of these matters which are the subject of investigation. The mind then apply itself to the ready prepared and digested aid which such tables afford.
+
 
 {{< s v="103" >}} When we have thus properly and regularly placed before the eyes a collection of particulars, we must not immediately proceed to the investigation and discovery of new particulars or effects, or, at least, if we do so, must not rest satisfied therewith. 
 

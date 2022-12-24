@@ -1,9 +1,9 @@
 ---
 title: "What subjects must we study?"
 heading: Chapter 2f
-weight: 1
+weight: 14
 image: "/covers/nova.jpg"
-description: ""
+description: "The power of mechanical arts changes bodies materially by composition or separation. It perverts human understanding by inducing it to suppose that something similar takes place in the universal nature of things"
 icon: /icons/bacon.png
 ---
 

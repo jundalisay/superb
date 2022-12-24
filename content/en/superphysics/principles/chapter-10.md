@@ -150,9 +150,16 @@ A common example is how the Japanese believe that human behavior can be categori
 <!-- The goal is to solve problems by going outside of the box imposed by science. Superphysics adds that quality control to determine which is good pseudo-science and which is quack pseudo-science or those with zero or random replicability, in order to fill in the gaps in human knowledge and finally solve those unsolved by science. 
  -->
 
+
 ### Data Science as the Main Tool of Superphysics
 
 Data Science* is really good at classification and in finding patterns and so it will be the primary tool of the Superphysicist, Superphysician, and Supersociologist who are upgraded from ordinary physicists, physicians, and sociologists/economists. The discovery of patterns in scientific data makes Superphysics the bridge or missing link between physics and metaphysics, or science and philosophy.
+
+
+{{< q a="Bacon" >}}
+<p>Are we perfecting natural philosophy alone according to our method? Or the other sciences also, such as logic, ethics, politics? <br><b>We certainly intend to comprehend them all.</b></p>
+<cite>Francis Bacon, Nova Organum Simplified, Book 1, Chapter 5</cite>
+{{< /q >}}
 
 
 {{< quote ava="hume" >}}

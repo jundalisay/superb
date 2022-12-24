@@ -1,6 +1,6 @@
 ---
 title: "Part 7"
-weight: 1
+weight: 18
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

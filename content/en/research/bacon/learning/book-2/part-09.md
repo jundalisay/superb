@@ -1,7 +1,7 @@
 ---
 title: The knowledge of ourselves
 heading: "Part 9"
-weight: 1
+weight: 20
 description: "the knowledge of ourselves"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png

@@ -85,17 +85,37 @@ Thence they again enter the earth, some of them making a long circuit into many 
 
 Some burst forth again on the opposite side, and some on the same side, and some wind round the earth with one or many folds like the coils of a serpent, and descend as far as they can, but always return and fall into the chasm. The rivers flowing in either direction can descend only to the centre and no further, for opposite to the rivers is a precipice.
 
-Now these rivers are many, and mighty, and diverse, and there are four principal ones, of which the greatest and outermost is that called Oceanus, which flows round the earth in a circle; and in the opposite direction flows Acheron, which passes under the earth through desert places into the Acherusian lake= this is the lake to the shores of which the souls of the many go when they are dead, and after waiting an appointed time, which is to some a longer and to some a shorter time, they are sent back to be born again as animals. 
+Now these rivers are many, and mighty, and diverse. There are 4 principal ones. 
 
-The third river passes out between the two. Near the place of outlet, it pours into a vast region of fire and forms a lake larger than the Mediterranean Sea, boiling with water and mud. Proceeding muddy and turbid, and winding about the earth, comes, among other places, to the extremities of the Acherusian Lake, but mingles not with the waters of the lake, and after making many coils about the earth plunges into Tartarus at a deeper level. 
+1. Oceanus
 
-This is that Pyriphlegethon, as the stream is called, which throws up jets of fire in different parts of the earth. 
+This is the greatest and outermost. It flows round the earth in a circle. 
 
-The fourth river, called Cocytus, goes out on the opposite side. It falls first of all into a wild and savage region, which is all of a dark-blue colour, like lapis lazuli. This is that river which is called the Stygian river, and falls into and forms the Lake Styx, and after falling into the lake and receiving strange powers in the waters, passes under the earth, winding round in the opposite direction. It comes near the Acherusian lake from the opposite side to Pyriphlegethon. 
+2. Acheron
+
+This flows in the opposite direction of Oceanus. It passes under the earth through desert places into the Acherusian lake. This is the lake to the shores of which the souls of the many go when they are dead, and after waiting an appointed time, which is to some a longer and to some a shorter time, they are sent back to be born again as animals. 
+
+3. Pyriphlegethon
+
+This river passes out between the two. Near the place of outlet, it pours into a vast region of fire and forms a lake larger than the Mediterranean Sea, boiling with water and mud. 
+
+Proceeding muddy and turbid, and winding about the earth, comes, among other places, to the extremities of the Acherusian Lake, but mingles not with the waters of the lake, and after making many coils about the earth plunges into Tartarus at a deeper level. 
+
+It throws up jets of fire in different parts of the earth. 
+
+4. Cocytus
+
+This goes out on the opposite side. 
+
+It falls first of all into a wild and savage region, which is all of a dark-blue colour, like lapis lazuli. This is that river which is called the Stygian river, and falls into and forms the Lake Styx, and after falling into the lake and receiving strange powers in the waters, passes under the earth, winding round in the opposite direction. 
+
+It comes near the Acherusian lake from the opposite side to Pyriphlegethon. 
 
 The water of this river too mingles with no other, but flows round in a circle and falls into Tartarus over against Pyriphlegethon.
 
-When the dead arrive at the place to which the genius of each severally guides them, first of all, they have sentence passed upon them, as they have lived well and piously or not. Those who appear to have lived neither well nor ill, go to the river Acheron, and embarking in any vessels which they may find, are carried in them to the lake, and there they dwell and are purified of their evil deeds, and having suffered the penalty of the wrongs which they have done to others, they are absolved, and receive the rewards of their good deeds, each of them according to his deserts. 
+When the dead arrive at the place to which the genius of each severally guides them, first of all, they have sentence passed upon them, as they have lived well and piously or not. 
+
+Those who appear to have lived neither well nor ill, go to the river Acheron, and embarking in any vessels which they may find, are carried in them to the lake, and there they dwell and are purified of their evil deeds, and having suffered the penalty of the wrongs which they have done to others, they are absolved, and receive the rewards of their good deeds, each of them according to his deserts. 
 
 But those who appear to be incurable by reason of the greatness of their crimes—who have committed many and terrible deeds of sacrilege, murders foul and violent, or the like—such are hurled into Tartarus which is their suitable destiny, and they never come out. 
 

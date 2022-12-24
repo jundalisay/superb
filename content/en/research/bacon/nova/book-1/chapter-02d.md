@@ -1,9 +1,9 @@
 ---
 title: "The Idols of the Market"
 heading: Chapter 2d
-weight: 1
+weight: 10
 image: "/covers/nova.jpg"
-description: ""
+description: "The idols of the market are the most troublesome of all"
 icon: /icons/bacon.png
 ---
 

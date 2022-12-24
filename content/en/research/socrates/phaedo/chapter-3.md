@@ -24,7 +24,10 @@ Do the souls of animals and plants also go the the world below?<!--  Then let us
 All the things which have opposites are generated out of their opposites. 
 
 Good is generated from evil, just and unjust, etc. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 In all opposites, there is of necessity a similar alternation. Anything which becomes greater must become greater after being less.
 
 That which becomes less must have been once greater and then have become less.
@@ -71,7 +74,9 @@ Then here is a new way by which we arrive at the conclusion that the living come
 <!-- Yes, Socrates, he said; the conclusion seems to flow necessarily out of our previous admissions. -->
 
 These admissions were not unfair. If generation were in a straight line only, and there were no compensation or circle in nature, no turn or return of elements into their opposites, then you know that all things would at last have the same form and pass into the same state, and there would be no more generation of them.
+{{< /l >}}
 
+{{< l a="Socrates" >}}
 A simple thing enough, which I will illustrate by the case of sleep, he replied. You know that if there were no alternation of sleeping and waking, the tale of the sleeping Endymion would in the end have no meaning, because all other things would be asleep, too, and he would not be distinguishable from the rest. Or if there were composition only, and no division of substances, then the chaos of Anaxagoras would come again. 
 
 Similarly, if all things which partook of life were to die, and after they were dead remained in the form of death, and did not come to life again, all would at last die, and nothing would be alive—what other result could there be? For if the living spring from any other things, and they too die, must not all things at last be swallowed up in death? (But compare Republic.)

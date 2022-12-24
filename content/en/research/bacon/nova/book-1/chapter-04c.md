@@ -1,14 +1,16 @@
 ---
-title: "Natural Philosophy"
+title: "Our Aims"
 heading: Chapter 4c
-weight: 1
-description: ""
+weight: 28
+description: "We are not trying to founding a philosophical sect, like the ancient Greeks, or some moderns, as Telesius, Patricius, and Severinus."
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
 
 
-{{< s v="116" >}} We are not trying to founding a philosophical sect, like the ancient Greeks, or some moderns, as Telesius, Patricius, and Severinus.[63][91] 
+{{< s v="116" >}} We are not trying to founding a philosophical sect, like the ancient Greeks, or some moderns, as Telesius, Patricius, and Severinus.
+
+<!-- [63][91]  -->
 
 We do not believe that peculiar<!--  abstract opinions on nature and the --> principles of things are of much importance to men’s fortunes. This is because it is easy to:
 - revive many ancient theories and

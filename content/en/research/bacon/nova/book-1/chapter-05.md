@@ -1,7 +1,7 @@
 ---
 title: "Bacon's System"
 heading: Chapter 5
-weight: 1
+weight: 30
 description: ""
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png

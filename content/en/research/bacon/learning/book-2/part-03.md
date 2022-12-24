@@ -1,6 +1,6 @@
 ---
 title: "Part 3"
-weight: 1
+weight: 8
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
@@ -8,7 +8,7 @@ author: Francis Bacon
 ---
 
 
-(1) History ecclesiastical receives the same divisions with history civil. It is further divided into:
+(1) Ecclesiastical History receives the same divisions with Civil History. It is further divided into:
 - history of the Church
 - history of prophecy
 - history of providence. 

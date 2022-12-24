@@ -1,6 +1,6 @@
 ---
 title: "Part 14"
-weight: 1
+weight: 44
 description: ""
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
@@ -8,7 +8,13 @@ author: Francis Bacon
 ---
 
 
-XXII. (1) Now, therefore, that we have spoken of this fruit of life, it remaineth to speak of the husbandry that belongeth thereunto, without which part the former seemeth to be no better than a fair image or statue, which is beautiful to contemplate, but is without life and motion; whereunto Aristotle himself subscribeth in these words: Necesse est scilicet de virtute dicere, et quid sit, et ex quibus gignatur.  Inutile enum fere fuerit virtutem quidem nosse, acquirendæ autem ejus modos et vias ignorare.  
+{{< s v="21">}}
+
+Daily life belongs to moral philosophy. Without it, our duties are just a fair image or statue -- beautiful to contemplate, but is without life and motion. 
+
+Aristotle said:
+
+Necesse est scilicet de virtute dicere, et quid sit, et ex quibus gignatur.  Inutile enum fere fuerit virtutem quidem nosse, acquirendæ autem ejus modos et vias ignorare.  
 
 <!-- Non enum de virtute tantum, qua specie sit, quærendum est, sed et quomodo sui copiam faciat: utrumque enum volumeus, et rem ipsam nosse, et ejus compotes fieri: hoc autem ex voto non succedet, nisi sciamus et ex quibus et quomodo.   -->
 

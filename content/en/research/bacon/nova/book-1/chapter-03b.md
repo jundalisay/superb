@@ -1,7 +1,7 @@
 ---
 title: "The Goal of Science"
 heading: Chapter 3b
-weight: 1
+weight: 20
 description: "The slow advancement of the sciences is also caused by the fact that the end and goal of science is ill defined"
 image: "/covers/nova.jpg"
 author: Francis Bacon

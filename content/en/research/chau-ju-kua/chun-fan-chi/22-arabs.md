@@ -101,15 +101,14 @@ When they have had enough water, the river returns to its former level.
 
 There is a great harbour over 200 feet deep. It opens southwest to the sea and has branches connecting with all quarters of the country.
 
-
-daily are held fairs
+<!-- daily are held fairs
 fish,
 The products
 two
 and has branches
 
 On the people have their dwellings and here
-boats and wagons, all loaded with hemp, wheat, millet, beans, sugar, meal, sheep, geese, ducks, fish, shrimps, date-cakes, grapes, and other fruits. 
+boats and wagons, all loaded with hemp, wheat, millet, beans, sugar, meal, sheep, geese, ducks, fish, shrimps, date-cakes, grapes, and other fruits.  -->
 
 <!-- five times. oil,
 firewood, fowls,

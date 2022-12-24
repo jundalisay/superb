@@ -1,8 +1,8 @@
 ---
 heading: Part 4
 title: "Poesy"
-weight: 1
-description: ""
+weight: 10
+description: "Poesy is a part of learning in measure of words, for the most part restrained, but in all other points extremely licensed, and doth truly refer to the imagination"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon

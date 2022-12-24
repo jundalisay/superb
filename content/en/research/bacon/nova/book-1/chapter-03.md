@@ -1,8 +1,8 @@
 ---
 title: "The Greeks"
 heading: Chapter 3
-weight: 1
-description: ""
+weight: 18
+description: "The sciences we possess have been principally derived from the Greeks"
 image: "/covers/nova.jpg"
 icon: /icons/bacon.png
 ---
