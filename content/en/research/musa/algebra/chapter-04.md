@@ -11,6 +11,7 @@ linkf=  "/research/musa/algebra/chapter-05"
 draft=  true
 +++
 
+
 IF a person puts such a question to you as
 
 I have divided ten into two parts, and multiplying one of

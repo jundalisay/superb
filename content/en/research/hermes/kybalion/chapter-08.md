@@ -4,8 +4,7 @@ title: Planes Of Correspondence
 description: The Second Hermetic Principle says that there is a harmony, agreement, and correspondence between the several planes of Manifestation, Life and Being
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-23
-showdate: false
+weight: 16
 ---
 
 {{< q >}}

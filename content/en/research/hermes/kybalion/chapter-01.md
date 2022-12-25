@@ -4,7 +4,7 @@ title: The Hermetic Philosophy Simplified
 description: In the early days, the Basic Hermetic Doctrines, passed on from teacher to student, was compiled into as The Kybalion
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-30
+weight: 2
 ---
 
 

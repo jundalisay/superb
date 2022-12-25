@@ -1,6 +1,8 @@
 ---
 title:  "Problem 1: How To Increase The Human Mass"
 heading:  "Part 1"
+weight: 4
+author: Nikola Tesla
 image:  "/covers/energy.jpg"
 description: "The 2 ways to increase the mass of mankind: aid and maintain those forces which increase it and  oppose those which diminish it"
 ---
@@ -24,32 +26,84 @@ If they are moving at twice that velocity, the increase of energy will be sixtee
 
 If they are less intelligent or advanced, or mass of "smaller velocity," there will be a very slight gain in the energy; but if they are further advanced, or mass of "higher velocity," then the new generation will add very considerably to the sum total of human energy. any addition of mass of "smaller velocity," beyond that indispensable amount required by the law expressed in the proverb, "Mens sana in corpore sano," should be strenuously opposed. 
 
-For instance, the mere development of muscle, as aimed at in some of our colleges, I consider equivalent to adding mass of "smaller velocity," and I would not commend it, although my views were different when I was a student myself. Moderate exercise, insuring the right balance between mind and body, and the highest efficiency of performance, is, of course, a prime requirement. The above example shows that the most important result to be attained is the education, or the increase of the "velocity," of the mass newly added. 
+For instance, the mere development of muscle, as aimed at in some of our colleges, I consider equivalent to adding mass of "smaller velocity". 
 
-Conversely, it scarcely need be stated that everything that is against the teachings of religion and the laws of hygiene is tending to decrease the mass. Whisky, wine, tea coffee, tobacco, and other such stimulants are responsible for the shortening of the lives of many, and ought to be used with moderation.
+I would not commend it, although my views were different when I was a student myself. 
 
-But I do not think that rigorous measures of suppression of habits followed through many generations are commendable. It is wiser to preach moderation than abstinence. We have become accustomed to these stimulants, and if such reforms are to be effected, they must be slow and gradual. Those who are devoting their energies to such ends could make themselves far more useful by turning their efforts in other directions, as, for instance, toward providing pure water. 
+Moderate exercise ensures the right balance between mind and body, and the highest efficiency of performance, is, of course, a prime requirement. 
 
-For every person who perishes from the effects of a stimulant, at least a thousand die from the consequences of drinking impure water. This precious fluid, which daily infuses new life into us, is likewise the chief vehicle through which disease and death enter our bodies. The germs of destruction it conveys are enemies all the more terrible as they perform their fatal work unperceived. 
+The above example shows that the most important result to be attained is the education, or the increase of the "velocity," of the mass newly added. 
 
-They seal our doom while we live and enjoy. The majority of people are so ignorant or careless in drinking water, and the consequences of this are so disastrous, that a philanthropist can scarcely use his efforts better than by endeavoring to enlighten those who are thus injuring themselves. By systematic purification and sterilization of the drinking water the human mass would be very considerably increased. 
+Conversely, everything that is against the teachings of religion and the laws of hygiene tends to decrease the mass. 
 
-It should be made a rigid rule—which might be enforced by law—to boil or to sterilize otherwise the drinking water in every household and public place. The mere filtering does not afford sufficient security against infection. All ice for internal uses should be artificially prepared from water thoroughly sterilized. The importance of eliminating germs of disease from the city water is generally recognized, but little is being done to improve the existing conditions, as no satisfactory method of sterilizing great quantities of water has yet been brought forward. By improved electrical appliances we are now enabled to produce ozone cheaply and in large amounts, and this ideal disinfectant seems to offer a happy solution of the important question.
+Whisky, wine, tea coffee, tobacco, and other such stimulants are responsible for the shortening of the lives of many. These should be used with moderation.
 
-Gambling, business rush, and excitement, particularly on the exchanges, are causes of much mass reduction, all the more so because the individuals concerned represent units of higher value. Incapacity of observing the first symptoms of an illness, and careless neglect of the same, are important factors of mortality. In noting carefully every new sign of approaching danger, and making conscientiously every possible effort to avert it, we are not only following wise laws of hygiene in the interest of our well-being and the success of our labors, but we are also complying with a higher moral duty. Everyone should consider his body as a priceless gift from one whom he loves above all, as a marvelous work of art, of indescribable beauty and mastery beyond human conception, and so delicate and frail that a word, a breath, a look, nay, a thought, may injure it. Uncleanliness, which breeds disease and death, is not only a self destructive but highly immoral habit. 
+But I do not think that rigorous measures of suppression of habits followed through many generations are commendable. 
+
+It is wiser to preach moderation than abstinence. 
+
+We have become accustomed to these stimulants, and if such reforms are to be effected, they must be slow and gradual. Those who are devoting their energies to such ends could make themselves far more useful by turning their efforts in other directions, as, for instance, toward providing pure water. 
+
+
+### Water
+
+For every person who perishes from the effects of a stimulant, at least 1,000 die from drinking impure water. 
+
+Water:
+- daily infuses new life into us
+- is the chief vehicle through which disease and death enter our bodies. 
+
+The germs of destruction it conveys are enemies all the more terrible as they perform their fatal work unperceived. 
+
+They seal our doom while we live and enjoy. 
+
+The majority of people are so ignorant or careless in drinking water, and the consequences of this are so disastrous, that a philanthropist can scarcely use his efforts better than by endeavoring to enlighten those who are thus injuring themselves. By systematic purification and sterilization of the drinking water the human mass would be very considerably increased. 
+
+It should be made a rigid rule—which might be enforced by law—to boil or to sterilize otherwise the drinking water in every household and public place. 
+
+The mere filtering does not afford sufficient security against infection. All ice for internal uses should be artificially prepared from water thoroughly sterilized. 
+
+The importance of eliminating germs of disease from the city water is generally recognized, but little is being done to improve the existing conditions, as no satisfactory method of sterilizing great quantities of water has yet been brought forward. By improved electrical appliances we are now enabled to produce ozone cheaply and in large amounts, and this ideal disinfectant seems to offer a happy solution of the important question.
+
+Gambling, business rush, and excitement, particularly on the exchanges, are causes of much mass reduction, all the more so because the individuals concerned represent units of higher value. 
+
+Incapacity of observing the first symptoms of an illness, and careless neglect of the same, are important factors of mortality. In noting carefully every new sign of approaching danger, and making conscientiously every possible effort to avert it, we are not only following wise laws of hygiene in the interest of our well-being and the success of our labors, but we are also complying with a higher moral duty. Everyone should consider his body as a priceless gift from one whom he loves above all, as a marvelous work of art, of indescribable beauty and mastery beyond human conception, and so delicate and frail that a word, a breath, a look, nay, a thought, may injure it. Uncleanliness, which breeds disease and death, is not only a self destructive but highly immoral habit. 
 
 In keeping our bodies free from infection, healthful, and pure, we are expressing our reverence for the high principle with which they are endowed. He who follows the precepts of hygiene in this spirit is proving himself, so far, truly religious. Laxity of morals is a terrible evil, which poisons both mind and body, and which is responsible for a great reduction of the human mass in some countries. Many of the present customs and tendencies are productive of similar hurtful results. For example, the society life, modern education and pursuits of women, tending to draw them away from their household duties and make men out of them, must needs detract from the elevating ideal they represent, diminish the artistic creative power, and cause sterility and a general weakening of the race.
 
  A thousand other evils might be mentioned, but all put together, in their bearing upon the problem under discussion, they could not equal a single one, the want of food, brought on by poverty, destitution, and famine. Millions of individuals die yearly for want of food, thus keeping down the mass. Even in our enlightened communities, and not withstanding the many charitable efforts, this is still, in all probability, the chief evil. I do not mean here absolute want of food, but want of healthful nutriment. 
 
 
-How to provide good and plentiful food is, therefore, a most important question of the day. On the general principles the raising of cattle as a means of providing food is objectionable, because, in the sense interpreted above, it must undoubtedly tend to the addition of mass of a "smaller velocity." It is certainly preferable to raise vegetables, and I think, therefore, that vegetarianism is a commendable departure from the established barbarous habit. That we can subsist on plant food and perform our work even to advantage is not a theory, but a well-demonstrated fact. Many races living almost exclusively on vegetables are of superior physique and strength. There is no doubt that some plant food, such as oatmeal, is more economical than meat, and superior to it in regard to both mechanical and mental performance. Such food, moreover, taxes our digestive organs decidedly less, and, in making us more contented and sociable, produces an amount of good difficult to estimate. In view of these facts every effort should be made to stop the wanton and cruel slaughter of animals, which must be destructive to our morals. To free ourselves from animal instincts and appetites, which keep us down, we should begin at the very root from which we spring: we should effect a radical reform in the character of the food. 
+### Food Security
+
+The most important question of the day is how to provide good and plentiful food. 
+
+On the general principles, the raising of cattle for food is objectionable because it tends to add mass of a "smaller velocity".
+
+It is better to raise vegetables. Therefore, vegetarianism is a commendable departure from the established barbarous habit. 
+
+That we can subsist on plant food and perform our work even to advantage is not a theory, but a well-demonstrated fact. 
+
+Many races living almost exclusively on vegetables are of superior physique and strength. 
+
+Some plant food, such as oatmeal:
+- is more economical than meat
+- is superior to meat in regard to both mechanical and mental performance. 
+- taxes our digestive organs less
+- makes us more contented and sociable, producing an amount of good difficult to estimate. 
+
+Every effort should be made to stop the wanton and cruel slaughter of animals, which must be destructive to our morals. 
+
+To free ourselves from animal instincts and appetites, which keep us down, we should begin at the very root from which we spring: we should effect a radical reform in the character of the food. 
 
 There seems to be no philosophical necessity for food. 
 
-We can conceive of organized beings living without nourishment, and deriving all the energy they need for the performance of their life functions from the ambient medium. 
 
-In a crystal, we have the clear evidence of the existence of a formative life-principle, and though we cannot understand the life of a crystal, it is nonetheless a living being. 
+### Crystal-beings
+
+We can conceive of organized beings living without nourishment, and deriving all the energy they need for the performance of their life functions from the ambient medium.
+
+In a crystal, we have the clear evidence of the existence of a formative life-principle. We cannot understand the life of a crystal, but it is nonetheless a living being.
 
 There may be, besides crystals, other such individualized, material systems of beings, perhaps of gaseous constitution, or composed of substance still more tenuous. 
 
@@ -57,81 +111,5 @@ In view of this probability, we cannot apodictically deny the existence of organ
 
 We cannot even, with positive assurance, assert that some of them might not be present here, in this our world, in the very midst of us, for their constitution and life-manifestation may be such that we are unable to perceive them. 
 
-The production of artificial food as a means for causing an increase of the human mass naturally suggests itself, but a direct attempt of this kind to provide nourishment does not appear to me rational, at least not for the present. 
 
-Whether we could thrive on such food is very doubtful. We are the result of ages of continuous adaptation, and we cannot radically change without unforeseen and, in all probability, disastrous consequences. So uncertain an experiment should not be tried. 
-
-By far the best way to meet the ravages of the evil, would be to find ways of increasing the productivity of the soil. 
-
-For this, the preservation of forests is extremely important. 
-
-I strongly advocate water-power for electrical transmission. This will prevent the need to burn wood, helping forest preservation.
-
-But there are limits in the improvement to be effected in this and similar ways. 
-
-To increase materially the productivity of the soil, it must be more effectively fertilized by artificial means. 
-
-The question of food-production resolves itself, then, into the question how best to fertilize the soil. 
-
-What it is that made the soil is still a mystery. 
-
-To explain its origin is probably equivalent to explaining the origin of life itself. 
-
-The rocks <!-- , disintegrated by moisture and heat and wind and weather, --> were in themselves not capable of maintaining life. 
-
-Some unexplained <!-- condition arose, and some --> new principle came into effect which allowed the first layer capable of sustaining low organisms, like mosses, to be formed. 
-
-These, by their life and death, added more of the life sustaining quality to the soil. Higher organisms could then subsist, and so on and on, until at last highly developed plant and animal life could flourish. 
-
-But though the theories are, even now, not in agreement as to how fertilization is effected, it is a fact, only too well ascertained, that the soil cannot indefinitely sustain life, and some way must be found to supply it with the substances which have been abstracted from it by the plants. 
-
-The chief and most valuable among these substances are compounds of nitrogen. The cheap production of these is the key. 
-
-<!--  for the solution of the all-important food problem. --> 
-
-Our atmosphere has an inexhaustible amount of nitrogen. Mankind could have incalculable benefit if we could oxidize it and produce these nitrogen compounds. 
-
-Long ago this idea took a powerful hold on the imagination of scientific men, but an efficient means for accomplishing this result could not be devised. 
-
-The problem was rendered extremely difficult by the extraordinary inertness of the nitrogen, which refuses to combine even with oxygen. 
-
-But here electricity helps. The dormant affinities of the element are awakened by an electric current of the proper quality.
-
-A lump of coal which has been in contact with oxygen for centuries without burning will combine with it when once ignited. Likewise, nitrogen, excited by electricity, will burn. 
-
-I did not succeed, however, in producing electrical discharges exciting very effectively the atmospheric nitrogen until a comparatively recent date. 
-
-Although I showed, in May, 1891, in a scientific lecture, a novel form of discharge or electrical flame named "St. Elmo's hotfire," which, besides being capable of generating ozone in abundance, also possessed, as I pointed out on that occasion, distinctly the quality of exciting chemical affinities. 
-
-This discharge or flame was then only three or four inches long, its chemical action was likewise very feeble, and consequently the process of oxidation of nitrogen was wasteful. How to intensify this action was the question. 
-
-Evidently electric currents of a peculiar kind had to be produced in order to render the process of nitrogen combustion more efficient. 
-
-The first advance was made in ascertaining that the chemical activity of the discharge was very considerably increased by using currents of extremely high frequency or rate of vibration. 
-
-This was an important improvement, but practical considerations soon set a definite limit to the progress in this direction. 
-
-Next, the effects of the electrical pressure of the current impulses, of their wave-form and other characteristic features, were investigated. 
-
-Then the influence of the atmospheric pressure and temperature and of the presence of water and other bodies was studied, and thus the best conditions for causing the most intense chemical action of the discharge and securing the highest efficiency of the process were gradually ascertained. 
-
-Naturally, the improvements were not quick in coming; still, little by little, I advanced. The flame grew larger and larger, and its oxidizing action grew more intense. 
-
-From an insignificant brush-discharge a few inches long it developed into a marvelous electrical phenomenon, a roaring blaze, devouring the nitrogen of the atmosphere and measuring sixty or seventy feet across. 
-
-Thus slowly, almost imperceptibly, possibility became accomplishment. All is not yet done, by any means, but to what a degree my efforts have been rewarded an idea may be gained from an inspection of Fig. 1 (p. 176), which, with its title, is self explanatory. 
-
-The flame-like discharge visible is produced by the intense electrical oscillations which pass through the coil shown, and violently agitate the electrified molecules of the air. 
-
-By this means a strong affinity is created between the two normally indifferent constituents of the atmosphere, and they combine readily, even if no further provision is made for intensifying the chemical action of the discharge. 
-
-In the manufacture of nitrogen compounds by this method, of course, every possible means bearing upon the intensity of this action and the efficiency of the process will be taken advantage of, and, besides, special arrangements will be provided for the fixation of the compounds formed, as they are generally unstable, the nitrogen becoming again inert after a little lapse of time. Steam is a simple and effective means for fixing permanently the compounds.
-
-The result illustrated makes it practicable to oxidize the atmospheric nitrogen in unlimited quantities, merely by the use of cheap mechanical power and simple electrical apparatus. 
-
-In this manner, many compounds of nitrogen may be manufactured all over the world, at a small cost, and in any desired amount. 
-
-Through these compounds the soil can be fertilized and its productiveness indefinitely increased. 
-
-An abundance of cheap and healthful food, not artificial, but such as we are accustomed to, may thus be obtained. This new and inexhaustible source of food-supply will be of incalculable benefit to mankind, for it will enormously contribute to the increase of the human mass, and thus add immensely to human energy. Soon, I hope, the world will see the beginning of an industry which, in time to come, will, I believe, be in importance next to that if iron. 
 

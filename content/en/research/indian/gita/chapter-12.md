@@ -1,14 +1,10 @@
 ---
 title: "Who is Loved?"
-heading: "Chapter 12 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 12 "
+weight: 24
 author: "Vyasa"
-description: ""
+description: "Whoever serve Me--as I show Myself-- Constantly true, in full devotion fixed"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-11"
-linkbtext: "Chapter 11"
-linkf: "/research/indian/gita/chapter-13"
-linkftext: "Chapter 13"
 icon: "/flags/in.png"
 ---
 

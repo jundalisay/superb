@@ -1,16 +1,13 @@
 ---
 title: "The Threeforld Kinds"
-heading: "Chapter 18 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 18 "
+weight: 36
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-17"
-linkbtext: "Chapter 17"
-linkf: "/research/indian/gita/"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
+
 
 
 {{< r a="Arjuna" >}}

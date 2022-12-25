@@ -4,11 +4,7 @@ heading: "Part 3: Fundamental Human Social Rights"
 description: "Perpetual Unity allows for Non-Human Rights."
 image: "/covers/unity.jpg"
 author: Juan Dalisay Jr.
-date: 2022-01-29
-linkb: "/research/social/perpetual-unity/part-02"
-linkbtext: "Part 2"
-linkf: "/research/social/perpetual-unity/part-04"
-linkftext: "part 4"
+weight: 6
 ---
 
 

@@ -4,8 +4,7 @@ title: "The Principle of Rhythm [Karma]"
 description: Everything flows out and in, has its tides, rising and falling. The pendulum-swing manifests in everything.
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-20
-showdate: false
+weight: 22
 ---
 
 

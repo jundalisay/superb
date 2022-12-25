@@ -1,6 +1,7 @@
 ---
 title:  "First Efforts To Produce The Self-acting Engine"
 heading: "Part 10"
+weight: 24
 author: Nikola Tesla
 image:  "/covers/energy.jpg"
 description: "For a long time I thought that such a transmission on an industrial scale could never be realized. But a discovery which I made changed my view."

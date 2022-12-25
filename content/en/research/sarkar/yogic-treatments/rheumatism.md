@@ -1,5 +1,6 @@
 ---
 title: "Natural Remedies for Rheumatism"
+weight: 60
 description: "Rheumatism patients should drink a sufficient quantity of water (say four to five seers a day, but not much at a time), and should also observe the bathing and sun-bathing procedures"
 image: "/photos/med/rheuma.jpg"
 icon: "/icons/yoga.jpg"
@@ -60,8 +61,8 @@ All remedies prescribed for acidity are also applicable in this disease.
 
 1. When rheumatism first starts expressing itself, a mild purgative will cure it quickly. 10 or 12 tender leaves of sodála fried in ghee; or
 2. 10 or 12 tender leaves of bichuti fried in ghee – either of the two eaten with rice, will yield good results in the initial stages of rheumatism.
-3. Castor oil with a little salt; or
-4. Ákanda gum with a little salt; rubbed on the rheumatic limbs, will give good results.
+3. Castor oil with a little salt or
+4. Ákanda gum with a little salt, rubbed on the rheumatic limbs, will give good results.
 5. Rheumatism can be cured by placing a warm solution of sajne gum mixed with water and a little asafoetida (Ferula foetida Regel) on the affected limb, or
 6. Applying garlic, ginger and the root of apámárga, pounded together, to the affected limb.
 7. Fry some pork in mustard oil and rub that oil on the limbs. This will ease the pain.

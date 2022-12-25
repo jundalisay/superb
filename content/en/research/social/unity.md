@@ -4,11 +4,6 @@ linkTitle: "Declaration"
 description: The Declaration of Perpetual Unity
 image: /flags/us.png
 author: Juan Dalisay Jr.
-date: 2022-01-29
-linkb: "/research/social/perpetual-unity/"
-linkbtext: "Index"
-linkf: "/research/social/perpetual-unity/part-02"
-linkftext: "part 2"
 draft: true 
 ---
 

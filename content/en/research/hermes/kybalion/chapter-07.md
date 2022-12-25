@@ -3,9 +3,7 @@ title: "The All In All [Brahma]"
 description: The entire virtue, life, spirit, of reality in the mental image is derived from the "immanent mind" of the thinker
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-24
-showdate: false
-heading: "Chapter 7"
+weight: 14
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Natural Treatment for Female Sterility And Infertility"
+weight: 40
 description: "Many people think that infertility can occur due to leucorrhoea or displacement of the uterus. But this impression is not entirely correct"
 image: "/photos/jealous.jpg"
 ---

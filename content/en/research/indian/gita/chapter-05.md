@@ -1,14 +1,10 @@
 ---
 title: "Renunciation"
-heading: "Chapter 5 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 5 "
+weight: 10
 author: "Vyasa"
-description: ""
+description: "The region of high rest which Sankhyans reach Yogins attain"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-04"
-linkbtext: "Chapter 4"
-linkf: "/research/indian/gita/chapter-06"
-linkftext: "Chapter 6"
 icon: "/flags/in.png"
 ---
 

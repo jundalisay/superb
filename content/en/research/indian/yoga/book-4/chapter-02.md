@@ -1,14 +1,10 @@
 ---
 title: "The Mind"
 heading: "Chapter 2 Book 4 of Yoga Sutras Simplified"
-date: 2022-01-31
+weight: 10
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"
-linkb: "/research/indian/yoga/book-4/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/indian/yoga/"
-linkftext: "Index"
 icon: "/flags/in.png"
 ---
 

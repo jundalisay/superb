@@ -1,9 +1,9 @@
 ---
 title: "Perfectly Concentrated Meditation"
 heading: "Chapter 2c"
-date: 2022-01-22
+weight: 12
 author: "Patanjali"
-description: ""
+description: "The personal self seeks to feast on life, through a failure to perceive the distinction between the personal self and the spiritual man"
 image: "/covers/yoga.jpg"
 icon: "/flags/in.png"
 ---

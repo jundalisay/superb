@@ -1,16 +1,13 @@
 ---
 title: "The Bhagavad-Gita"
-heading: "Chapter 4 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 4 "
+weight: 8
 author: "Vyasa"
-description: ""
+description: "This deathless Yoga, this deep union, I taught Vivaswata,[FN#6] the Lord of Light"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-03"
-linkbtext: "Chapter 3"
-linkf: "/research/indian/gita/chapter-05"
-linkftext: "Chapter 5"
 icon: "/flags/in.png"
 ---
+
 
 
 Krishna.

@@ -1,13 +1,9 @@
 ---
 heading: "Chapter 1b"
 title: "Squares and Numbers Equal to Roots"
-date: 2020-01-31
+weight: 4
 image: "/covers/algebra.jpg"
 description: "Three kinds of numbers in calculations"
-linkb: "/research/musa/algebra/chapter-01"
-linkbtext: "Chapter 1"
-linkf: "/research/musa/algebra/chapter-02"
-linkftext: "Chapter 2"
 ---
 
 

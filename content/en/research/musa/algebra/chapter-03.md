@@ -1,17 +1,17 @@
-+++
-title=  "The Six Problems"
-heading=  "Chapter 2"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 2"
-linkb=  "/research/musa/algebra/chapter-02"
-linkftext=  "Chapter 4"
-linkf=  "/research/musa/algebra/chapter-04"
-draft=  true
-+++
+---
+heading: "Chapter 3"
+title: "The Six Problems"
+weight: 8
+image: "/covers/algebra.jpg"
+description: "The Six Problems"
+draft: true
+---
+
+
+
 
 BEFORE
+
 the chapters on computation
 species thereof, I shall now and the
 several (25) introduce six problems, as

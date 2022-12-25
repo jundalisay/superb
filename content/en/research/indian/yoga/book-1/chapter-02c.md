@@ -1,7 +1,7 @@
 ---
 title: "The Qualities of a Master"
 heading: "Chapter 2b"
-date: 2022-01-24
+weight: 10
 author: "Patanjali"
 description: "By sympathy with the happy, compassion for the sorrowful, delight in the holy, disregard of the unholy, the psychic nature moves to gracious peace"
 image: "/covers/yoga.jpg"

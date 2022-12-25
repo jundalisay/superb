@@ -1,10 +1,10 @@
 ---
+heading: "Chapter 15"
 title: Hermetic Axioms
 description: To destroy an undesirable rate of mental vibration, use the principle of Polarity and concentrate on the opposite pole to that which you desire to suppress.
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-16
-heading: "Chapter 15"
+weight: 30
 ---
 
 

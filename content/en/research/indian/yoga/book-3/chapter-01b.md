@@ -1,7 +1,7 @@
 ---
 title: "Meditation"
 heading: "Chapter 1b"
-date: 2022-01-28
+weight: 6
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"

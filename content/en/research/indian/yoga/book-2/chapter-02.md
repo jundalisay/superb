@@ -1,7 +1,7 @@
 ---
 title: "Eight Means of Yoga"
 heading: "Chapter 2"
-date: 2022-01-26
+weight: 8
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"

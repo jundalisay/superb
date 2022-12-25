@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "Money"
-date: 2022-03-16
+weight: 16
 image: "/covers/sismondi.jpg"
 description: "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists'"
 ---

@@ -1,14 +1,10 @@
 ---
 title: "Psychic and spiritual powers"
-heading: "Chapter 1 of Book 4 Yoga Sutras Simplified"
-date: 2022-01-31
+heading: "Chapter 1"
+weight: 6
 author: "Patanjali"
 description: "Through these powers, the spiritual man stands, sees, hears, speaks, in the spiritual world, as the physical man stands, sees, hears, speaks in the natural world"
 image: "/covers/yoga.jpg"
-linkb: "/research/indian/yoga/book-3/chapter-02"
-linkbtext: "Chapter 2"
-linkf: "/research/indian/yoga/book-4/chapter-02"
-linkftext: "Chapter 2"
 icon: "/flags/in.png"
 ---
 

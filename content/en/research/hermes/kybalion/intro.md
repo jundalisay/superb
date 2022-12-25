@@ -4,11 +4,7 @@ heading: "A Study of The Hermetic Philosophy of Ancient Egypt and Greece"
 description: Our intent is not to erect a new Temple of Knowledge, but to give a Master-Key to for him to open the many inner doors in the Temple of Mystery
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-31
-linkb: "/research/hermes/kybalion"
-linkbtext: "Index"
-linkf: "/research/hermes/kybalion/chapter-01"
-linkftext: "Chapter 1"
+# date: 2022-01-31
 --- 
 
 <!-- "THE LIPS OF WISDOM ARE CLOSED, EXCEPT TO THE EARS OF UNDERSTANDING"

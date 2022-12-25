@@ -1,7 +1,7 @@
 ---
 title: "The Precepts of Patanjali"
 heading: "Chapter 2b"
-date: 2022-01-22
+weight: 10
 author: "Patanjali"
 description: "The perfection of the powers of the bodily vesture comes through the wearing away of impurities, and through fervent aspiration"
 image: "/covers/yoga.jpg"

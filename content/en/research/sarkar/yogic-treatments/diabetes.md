@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies for Diabetes"
-weight: 1
+weight: 12
 author: "PR Sarkar"
 description: "Diabetes is a disease of liver and pancreas. Care has to be taken to keep these organs in a healthy state, and to do so patients must select food that will keep their bowels clear, yet which is nutritious and easily digestible"
 image: "/photos/med/diabetes.jpg"

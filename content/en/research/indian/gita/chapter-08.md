@@ -1,14 +1,10 @@
 ---
 title: "What is Brahma and Karma?"
-heading: "Chapter 9 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 9 "
+weight: 16
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-07"
-linkbtext: "Chapter 7"
-linkf: "/research/indian/gita/chapter-09"
-linkftext: "Chapter 9"
 icon: "/flags/in.png"
 ---
 

@@ -1,14 +1,10 @@
 ---
 title: "The Bhagavad-Gita"
-heading: "Chapter 3 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 3 "
+weight: 6
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-02"
-linkbtext: "Chapter 2"
-linkf: "/research/indian/gita/chapter-04"
-linkftext: "Chapter 4"
 icon: "/flags/in.png"
 ---
 

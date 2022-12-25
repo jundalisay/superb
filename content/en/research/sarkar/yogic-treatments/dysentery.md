@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies for Dysentery"
-weight: 1
+weight: 16
 author: "PR Sarkar"
 description: "Dysentery happens when undigested half-cooked or uncooked food fails to get digested and come out as loose movement"
 image: "/photos/med/dysm.jpg"

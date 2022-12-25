@@ -1,15 +1,13 @@
-+++
-title=  "Multiplication"
-heading=  "Chapter 2"
-date=  2020-01-30
-image=  "/covers/algebra.jpg"
-description=  "Return of the Dowry"
-linkbtext=  "Chapter 1"
-linkb=  "/research/musa/algebra/chapter-01"
-linkftext=  "Chapter 3"
-linkf=  "/research/musa/algebra/chapter-03"
-draft=  true
-+++
+---
+heading: "Chapter 2"
+title: "Multiplication"
+weight: 6
+image: "/covers/algebra.jpg"
+description: "Return of the Dowry"
+draft: true
+---
+
+
 
 How do we multiply the roots? 
 

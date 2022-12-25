@@ -1,6 +1,6 @@
 ---
 title: "Yama and Niyama"
-weight: 1
+weight: 70
 author: "PR Sarkar"
 type: featured
 description: "Hindu Morals are rooted in Yama and Niyama"

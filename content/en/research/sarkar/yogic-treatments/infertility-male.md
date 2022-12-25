@@ -1,5 +1,6 @@
 ---
 title: "Natural Remedies for Impotency and Infertility"
+weight: 42
 description: "Constipation due to the defective functioning of the liver is the main cause of piles, but generally no serious ailment can develop for one reason only"
 image: "/photos/consult.jpg"
 icon: "/icons/yoga.jpg"

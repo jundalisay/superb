@@ -1,14 +1,10 @@
 ---
 title: "Krishna and Arjuna"
-heading: "Chapter 1 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 1"
+weight: 2
 author: "Vyasa"
-description: ""
+description: "We are here for battle on the sacred plain on Kurukshetra. Sanjaya, what happened between my people and the Pandavas?"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita"
-linkbtext: "Index"
-linkf: "/research/indian/gita/chapter-02"
-linkftext: "Chapter 2"
 icon: "/flags/in.png"
 ---
 
@@ -24,8 +20,6 @@ Under the Form of Krishna
 Translated from the Sanskrit Text by Sir Edwin Arnold, New York 1900
 
  -->
-
-
 
 <!-- 
 PREFACE

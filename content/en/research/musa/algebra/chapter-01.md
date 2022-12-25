@@ -1,13 +1,9 @@
 ---
 heading: "Chapter 1"
 title: "Three kinds of numbers in calculations"
-date: 2020-01-31
+weight: 2
 image: "/covers/algebra.jpg"
 description: "Three kinds of numbers in calculations"
-linkbtext: "Chapter 1"
-linkb: "/research/musa/algebra/"
-linkftext: "Chapter 2"
-linkf: "/research/musa/algebra/chapter-02"
 ---
 
 <!-- THE ALGEBRA OF MOHAMMED BEN MUSA

@@ -2,16 +2,14 @@
 title: "About"
 description: "About Superphysics"
 image: /covers/spblack.jpg
-linkf: "/faq"
-linkftext: "FAQ"
-linkb: "/"
-linkbtext: "Home"
 ---
 <!-- img1: "https://sorasystem.sirv.com/books/taonomics.png"
 img2: "https://sorasystem.sirv.com/books/spmat.jpg"
 img3: "https://sorasystem.sirv.com/books/tms.jpg"
 img4: "https://sorasystem.sirv.com/books/economist.jpg"
  -->
+
+
 
 ## It Began with the Financial Crisis 
 

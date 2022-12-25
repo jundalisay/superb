@@ -1,6 +1,8 @@
 ---
 title:  "The Problem of Increasing Human Energy"
 heading:  "Part 0"
+weight: 2
+author: Nikola Tesla
 image:  "/covers/energy.jpg"
 description: "The 3 ways to increase human energy are to increase the mass, reduce the retarding force, increase the impelling force"
 ---

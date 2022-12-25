@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1d"
 title: "The Physiocrats"
-date: 2022-03-24
+weight: 8
 image: /covers/sismondi.jpg
 description: "Quesnay's was the second system in political economy called the 'territorial system' or 'the system of the economists"
 author: Sismondi

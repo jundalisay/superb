@@ -1,14 +1,10 @@
 ---
 title: "The Soul"
-heading: "Chapter 13 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 13 "
+weight: 26
 author: "Vyasa"
-description: ""
+description: "Arjuna asks: What is life, the soul, and knowledge?"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-12"
-linkbtext: "Chapter 12"
-linkf: "/research/indian/gita/chapter-14"
-linkftext: "Chapter 14"
 icon: "/flags/in.png"
 ---
 

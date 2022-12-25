@@ -1,7 +1,7 @@
 ---
 title: "Meditation with an object"
 heading: "Chapter 1c"
-date: 2022-01-29
+weight: 6
 author: "Patanjali"
 description: "Meditation with an object follows 4 stages"
 image: "/covers/yoga.jpg"

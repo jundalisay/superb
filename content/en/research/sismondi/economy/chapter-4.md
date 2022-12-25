@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4"
 title: "Commercial Wealth"
-date: 2022-03-18
+weight: 14
 image: /covers/sismondi.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
 author: Sismondi

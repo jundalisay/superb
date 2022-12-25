@@ -1,6 +1,6 @@
 ---
 title: "Notes"
-date: 2015-09-30
+weight: 156
 image: "/covers/economy.jpg"
 description: ""
 heading: "Notes"
@@ -48,21 +48,17 @@ of a dollar.
 6. A pickle made of the roe of sturgeons, a favourite condi-
 ment of Russian diet.
 
-7. Hence the futility of any attempt to compare the wealth of
-different nations, of France and England for instance, by
-comparison of the value of their respective national prod-
-ucts. Indeed, two values are not capable of comparison,
-when placed at a distance from each other. The only fair
+7. Hence the futility of any attempt to compare the wealth of different nations, of France and England for instance, by
+comparison of the value of their respective national products. 
+
+2 values are not capable of comparison, when placed at a distance from each other. The only fair
 way of comparing the wealth of one nation with that of
 another, is, by a moral estimate of the individual welfare
 in each respectively.
 
-8.  Wherever the members of the community have no other hope of subsistence, than from the product of their own produc-
-tive means; for the whole surplus of revenue thus created, is sure to go, in the end, to the appropriators of the natural
-sources of production; leaving those, whose productive means are merely personal, to employ them upon some
-other object, or upon an enlarged production of the same object. And this is a complete answer to the position of
-Sismondi and Malthus, that economy of human productive exertion makes the multiplication of unproductive
-consumers, not only probable, but necessary. 
+8.  Wherever the members of the community have no other hope of subsistence, than from the product of their own productive means; for the whole surplus of revenue thus created, is sure to go, in the end, to the appropriators of the natural sources of production; leaving those, whose productive means are merely personal, to employ them upon some other object, or upon an enlarged production of the same object. 
+
+This is a complete answer to the position of Sismondi and Malthus, that economy of human productive exertion makes the multiplication of unproductive consumers, not only probable, but necessary. 
 
 But where a poor-law or monastic establishment provides for the subsistence of the human agency thus rendered superfluous,
 there will probably be no increase of national revenue consequent upon a saving of productive agency; for the sur-
@@ -72,21 +68,16 @@ production, revenue, or wealth. Tr.
 
 9. Vide Wealth of Nations, book i. c. 5.
 
-10. The cost of production is what Smith calls the natural
-price of products, as contrasted with their current or mar-
-ket price, as he terms it. But it results from what has been
-said above, that every act of barter or exchange, among
-the rest even that implied in the act of production, is con-
-ducted with reference to current price.
+10. The cost of production is what Smith calls the natural price of products, as contrasted with their current or mar-
+ket price, as he terms it. But it results from what has been said above, that every act of barter or exchange, among
+the rest even that implied in the act of production, is conducted with reference to current price.
 
-11. Within the last hundred years, the improvements of in-
-dustry, effected by the advance of human knowledge, more
-especially in the department of natural science, have vastly
-abridged the business of production, but the slow progress
-in moral and political science, and particularly in the branch
-of social organisation, has hitherto prevented mankind from
-reaping the full benefit of those improvements. Yet it would
-be wrong to suppose they have reaped none at all. The
+11. Within the last hundred years, the improvements of industry, effected by the advance of human knowledge, more
+especially in the department of natural science, have vastly abridged the business of production, but the slow progress
+in moral and political science, and particularly in the branch of social organisation, has hitherto prevented mankind from
+reaping the full benefit of those improvements. 
+
+Yet it would be wrong to suppose they have reaped none at all. The
 pressure of taxation has indeed been doubled, tripled, or
 even quadrupled; yet population has increased in most
 countries of Europe; which is a sign, that a portion at least
@@ -111,31 +102,28 @@ progress of industry, and put in possession of additional
 sources of revenue, they would be worse fed than in the
 time of Philip of Valois.
 
-This may be easily explained. The growing revenues
-of the industrious classes have enabled them to multiply,
-and consequently to swell the demand for all objects of
-food. But their supply can not keep pace with the increas-
-ing demand, because, although the same surface of soil
+This may be easily explained. The growing revenues of the industrious classes have enabled them to multiply,
+and consequently to swell the demand for all objects of food. 
+
+But their supply can not keep pace with the increasing demand, because, although the same surface of soil
 may be rendered more productive, it can not be so to an
 indefinite degree; and the supply of food by the channel
 of external commerce, is more expensive than by that of
 internal agriculture on account of the bulky nature of most
 of the articles of aliment.
-13. Our data in relation to the products of former times are
-too few to enable us to deduce from them any precise re-
-201Jean-Baptise Say, A Treatise on Political Economy
-sult; but those at all acquainted with the subject will see,
-that, whether over or under-stated, will make no differ-
-ence in the reasoning. The statistic researches of the present
-generation will provide future ages with more accurate
-means of calculation, but will add nothing to the solidity
-of the principles upon which it must be made.
-14. Of this nature are the evil effects of taxation, (especially
-if it be exorbitant) upon the general wealth of the commu-
-nity, independently of its effects upon the individual as-
-sessed. The cost of production, and consequently the real
-price of commodities, are aggravated thereby, and their
+
+13. Our data in relation to the products of former times are too few to enable us to deduce from them any precise result; but those at all acquainted with the subject will see, that, whether over or under-stated, will make no differ-
+ence in the reasoning. 
+
+The statistic researches of the present generation will provide future ages with more accurate
+means of calculation, but will add nothing to the solidity of the principles upon which it must be made.
+
+14. Of this nature are the evil effects of taxation, (especially if it be exorbitant) upon the general wealth of the commu-
+nity, independently of its effects upon the individual assessed. 
+
+The cost of production, and consequently the real price of commodities, are aggravated thereby, and their
 aggregate value diminished.
+
 15. I have met with persons, who imagined themselves add-
 ing to national wealth, by favouring the production of ex-
 pensive, in preference to that of cheaper articles. In their
@@ -186,19 +174,19 @@ tion by the sacrifice of a greater value, he loses just as
 much as the seller gains; and that every operation, designed
 to procure this kind of benefit, must occasion to one party
 a loss, equivalent to the gain of another.
-He likewise refers this imaginary difference between
-the principle of public and of private wealth to this cir-
+
+He likewise refers this imaginary difference between the principle of public and of private wealth to this cir-
 cumstance; that the accumulation of capital, which is an
 advantage to individual, is detrimental to national wealth,
 by obstructing the consumption, which is the stimulus of
-industry. He has fallen into the very common error of sup-
-posing, that capital is, by accumulation, withdrawn from
-consumption; whereas, on the contrary, it is consumed,
-but in a re-productive way, and so as to afford the means
-of a perpetual recurrence of purchase, which can occur
-but once in the case of unproductive consumption. Vide
-Book III infra. Thus it is, that a single error in principle,
-vitiates a whole work. The one in question is built upon
+industry. 
+
+He has fallen into the very common error of supposing, that capital is, by accumulation, withdrawn from consumption; whereas, on the contrary, it is consumed, but in a re-productive way, and so as to afford the means of a perpetual recurrence of purchase, which can occur
+but once in the case of unproductive consumption. 
+
+Vide Book III infra. 
+
+Thus it is, that a single error in principle, vitiates a whole work. The one in question is built upon
 this unsound foundation; and, therefore, serves only to
 multiply, instead of reducing the intricacies of the subject.
 [The error of Lauderdale is analogous to that of Sismondi

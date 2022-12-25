@@ -1,14 +1,10 @@
 ---
 title: "Who is Loved?"
-heading: "Chapter 11 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 11 "
+weight: 22
 author: "Vyasa"
-description: ""
+description: "The unfolding of the Mystery Supreme called Adhyatman"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-10"
-linkbtext: "Chapter 10"
-linkf: "/research/indian/gita/chapter-12"
-linkftext: "Chapter 12"
 icon: "/flags/in.png"
 ---
 

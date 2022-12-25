@@ -1,14 +1,10 @@
 ---
 title: "The Banyan Tree"
-heading: "Chapter 15 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 15 "
+weight: 30
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-14"
-linkbtext: "Chapter 14"
-linkf: "/research/indian/gita/chapter-16"
-linkftext: "Chapter 16"
 icon: "/flags/in.png"
 ---
 

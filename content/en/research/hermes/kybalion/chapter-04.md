@@ -4,9 +4,9 @@ title: The All
 description: Hume describes the two general Kinds of Philosophies
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-27
-showdate: false
+weight: 8
 ---
+
 
 {{< q >}}
 "Under, and back of, the Universe of Time, Space and Change, is ever to be found The Substantial Reality—the Fundamental Truth."—The Kybalion.

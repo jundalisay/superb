@@ -1,6 +1,7 @@
 ---
 title:  "Development Of A New Principle—the Electrical Oscillator"
-heading: "Part x"
+heading: "Part 12"
+weight: 28
 author: Nikola Tesla
 image:  "/covers/energy.jpg"
 description: "I resolved to work on this though it involved great sacrifice. Only years of labor could master its difficulties"
@@ -43,9 +44,11 @@ FIG. 8. EXPERIMENT TO ILLUSTRATE THE CAPACITY OF THE OSCILLATOR FOR PRODUCING EL
 Note to Fig. 8.—The coil, partly shown in the photograph, creates an alternative movement of electricity from the earth into a large reservoir and back at a rate of one hundred thousand alternations per second. The adjustments are such that the reservoir is filled full and bursts at each alternation just at the moment when the electrical pressure reaches the maximum. The discharge escapes with a deafening noise, striking an unconnected coil twenty-two feet away, and creating such a commotion of electricity in the earth that sparks an inch long can be drawn from a water main at a distance of three hundred feet from the laboratory. 
 <br>[See Nikola Tesla: Colorado Springs Notes, page 390, Photograph LXII.]  
 
-FIG. 9. EXPERIMENT TO ILLUSTRATE THE CAPACITY ON THE OSCILLATOR FOR CREATING A GREAT ELECTRICAL MOVEMENT.
+FIG. 9. EXPERIMENT TO ILLUSTRATE THE CAPACITY ON THE OSCILLATOR FOR CREATING A GREAT ELECTRICAL MOVEMENT
+
 The ball shown in the photograph, covered with a polished metallic coating of twenty square feet of surface, represents a large reservoir of electricity, and the inverted tin pan underneath, with a sharp rim, a big opening through which the electricity can escape before filling the reservoir. The quantity of electricity set in movement is so great that, although most of it escapes through the rim of the pan or opening provided, the ball or reservoir is nevertheless alternately emptied and filled to over-flowing (as is evident from the discharge escaping on the top of the ball) one hundred and fifty thousand times per second. 
-<br>[See Nikola Tesla: Colorado Springs Notes, page 332, Photograph IX.]  
+
+[See Nikola Tesla: Colorado Springs Notes, page 332, Photograph IX.]  
 
 FIG. 10. PHOTOGRAPHIC VIEW OF AN EXPERIMENT TO ILLUSTRATE AN EFFECT OF AN ELECTRICAL OSCILLATOR DELIVERING ENERGY AT A RATE OF SEVENTY-FIVE THOUSAND HORSE-POWER.
 

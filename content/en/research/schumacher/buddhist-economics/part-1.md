@@ -4,10 +4,6 @@ heading: "Buddhist Economics"
 date: 2020-01-01
 image: "/photos/meta/buddhism.jpg"
 description : "Buddhist economics emphasizes the value of work without infringing on others or the environment"
-linkb: /research/schumacher/buddhist-economics/
-linkbtext: "Buddhist Economics"
-linkf: /research/schumacher/buddhist-economics/part-2
-linkftext: "Part 2"
 author: EF Schumacher
 icon: /avatars/ef.png
 ---

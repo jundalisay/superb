@@ -4,8 +4,7 @@ title: The Principle of Vibration [Tao]
 description: "Nothing rests; everything moves; everything vibrates.—The Kybalion"
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-22
-showdate: false
+weight: 18
 ---
 
 {{< q >}}

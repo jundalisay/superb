@@ -1,14 +1,10 @@
 ---
 title: "The Yogi or Sanyasi"
-heading: "Chapter 6 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 6 "
+weight: 12
 author: "Vyasa"
-description: ""
+description: "A Yogi and Sanyasi does rightful work, not seeking gain from it"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-05"
-linkbtext: "Chapter 5"
-linkf: "/research/indian/gita/chapter-07"
-linkftext: "Chapter 7"
 icon: "/flags/in.png"
 ---
 

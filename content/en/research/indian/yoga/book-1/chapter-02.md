@@ -1,7 +1,7 @@
 ---
 title: "The Master"
 heading: "Chapter 2 of Yoga Sutras Simplified"
-date: 2022-01-26
+weight: 8
 author: "Patanjali"
 description: "Spiritual consciousness may be gained by ardent service of the Master"
 image: "/covers/yoga.jpg"

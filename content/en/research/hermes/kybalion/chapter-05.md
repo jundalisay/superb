@@ -4,8 +4,7 @@ title: The Mental Universe
 description: The Universe is Mental—held in the Mind of THE ALL
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-26
-showdate: false
+weight: 10
 ---
 
 

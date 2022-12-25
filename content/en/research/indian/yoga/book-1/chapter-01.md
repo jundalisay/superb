@@ -1,7 +1,7 @@
 ---
 title: "Yoga"
 heading: "Chapter 1"
-date: 2022-01-31
+weight: 2
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"

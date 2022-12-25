@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7"
 title: "Population"
-date: 2022-03-16
+weight: 20
 image: "/covers/sismondi.jpg"
 description: "Political economists must always take 2 elements together"
 ---

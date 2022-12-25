@@ -1,7 +1,7 @@
 ---
 title: "The elements of sound intellection"
 heading: "Chapter 1b"
-date: 2022-01-30
+weight: 4
 author: "Patanjali"
 description: "Unsound intellection is false understanding, not resting on a perception of the true nature of things"
 image: "/covers/yoga.jpg"

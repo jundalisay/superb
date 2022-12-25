@@ -4,11 +4,7 @@ heading: "Part 3: Non-Human Rights"
 description: "Perpetual Unity allows for Non-Human Rights."
 image: "/covers/unity.jpg"
 author: Juan Dalisay Jr.
-date: 2022-01-29
-linkb: "/research/social/perpetual-unity/part-04"
-linkbtext: "Part 4"
-linkf: "/research/social/perpetual-unity/"
-linkftext: "part 2"
+weight: 10
 ---
 
 

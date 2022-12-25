@@ -1,6 +1,8 @@
 ---
 title:  "Great Possibilities Offered By Iron For Increasing Human Performance"
-heading: "Part 4" 
+heading: "Part 4"
+weight: 12
+author: Nikola Tesla
 image:  "/covers/energy.jpg"
 description: "Iron is by far the most important factor in modern progress"
 ---

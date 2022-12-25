@@ -1,6 +1,6 @@
 ---
 title: "Natural Remedies for Premature Ejaculation (Seminal Weakness)"
-weight: 1
+weight: 58
 author: "PR Sarkar"
 description: "Low thinking, bad company, intoxicants and non-vegetarian food should be completely given up. Seeing pornographic pictures or films, reading pornographic literature, etc. are also to be forsaken"
 image: "/photos/med/sperm.jpg"

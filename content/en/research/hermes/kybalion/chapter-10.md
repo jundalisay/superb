@@ -4,8 +4,7 @@ title: The Principle of Polarity [Yin-Yang]
 description: Everything is dual, has poles, has its pair of opposites. Like and unlike are the same. Opposites are identical in nature but different in degree
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-21
-showdate: false
+weight: 20
 ---
 
 

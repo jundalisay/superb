@@ -4,11 +4,6 @@ heading: "Articles 13-21"
 description: "Everyone has the right to freedom of movement and residence within the borders of each state. to leave any country, including his own, and to return to his country"
 image: /flags/us.png
 author: UN
-date: 2022-01-29
-linkb: "/research/modern/human-rights/article-01"
-linkbtext: "article-01"
-linkf: "/research/modern/human-rights/article-22"
-linkftext: "article-22"
 ---
 
 

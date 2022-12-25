@@ -1,7 +1,7 @@
 ---
 title: "Perfectly Concentrated Meditation"
 heading: "Chapter 2b"
-date: 2022-01-24
+weight: 10
 author: "Patanjali"
 description: ""
 image: "/covers/yoga.jpg"

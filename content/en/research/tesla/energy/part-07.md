@@ -1,6 +1,7 @@
 ---
 title:  "Energy From The Medium—the Windmill And The Solar Engine"
 heading: "Part 7"
+weight: 18
 author: Nikola Tesla
 image:  "/covers/energy.jpg"
 description: "An immense amount of energy is locked up in limestone. Machines can be driven by liberating the carbonic acid through sulphuric acid"

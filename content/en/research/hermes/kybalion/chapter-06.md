@@ -4,8 +4,7 @@ title: Divine Paradox
 description: This is the Paradox of the Universe, resulting from the Principle of Polarity which manifests when THE ALL begins to Create.
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-25
-showdate: false
+weight: 12
 ---
 
 

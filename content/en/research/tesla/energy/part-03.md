@@ -1,9 +1,10 @@
 ---
 title:  "Problem 3: How To Increase The Force Accelerating The Human Mass"
-heading: "Part 3" 
+heading: "Part 3"
+weight: 10
+author: Nikola Tesla
 image:  "/covers/energy.jpg"
 description: "This problem is by far the most important to consider, not only because of its intrinsic significance, but also because of its intimate bearing on all the many elements and conditions which determine the movement of humanity"
-heading:  "Part 2"
 ---
 
 

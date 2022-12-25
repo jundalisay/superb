@@ -1,15 +1,14 @@
 ---
 title:  "Efforts Toward Obtaining More Energy From Coal"
 heading: "Part 6"
+weight: 16
 author: Nikola Tesla
 image:  "/covers/energy.jpg"
 description: "In the past, I considered the production of electricity by burning coal in a battery as the greatest achievement toward the advancing civilization"
 ---
 
 
-THE ELECTRIC TRANSMISSION—
-
-THE GAS-ENGINE—THE COLD-COAL BATTERY.
+THE ELECTRIC TRANSMISSION—THE GAS-ENGINE—THE COLD-COAL BATTERY.
 
 In the past, I considered the production of electricity by burning coal in a battery as the greatest achievement toward the advancing civilization. 
 

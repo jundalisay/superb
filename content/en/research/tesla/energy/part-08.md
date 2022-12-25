@@ -1,6 +1,7 @@
 ---
 title:  "A 'self-acting' Engine Or Machine"
 heading: "Part 8"
+weight: 20
 author: Nikola Tesla
 image:  "/covers/energy.jpg"
 description: "The windmill, the solar engine, the engine driven by terrestrial heat, had their limitations in the amount of power obtainable"

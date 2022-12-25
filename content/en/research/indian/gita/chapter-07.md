@@ -1,14 +1,10 @@
 ---
 title: "The Eight Forms"
-heading: "Chapter 7 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 7"
+weight: 14
 author: "Vyasa"
-description: ""
+description: "I will teach you that utmost lore, Whole and particular so that you will know everything that you need to know in this world"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-06"
-linkbtext: "Chapter 6"
-linkf: "/research/indian/gita/chapter-08"
-linkftext: "Chapter 8"
 icon: "/flags/in.png"
 ---
 

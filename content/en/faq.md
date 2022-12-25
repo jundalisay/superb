@@ -2,11 +2,8 @@
 title: "Socratic FAQ"
 description: "FAQs about Superphysics, Socrates-style"
 image: /covers/spblack.jpg
-linkf: "/"
-linkftext: "Home"
-linkb: "about"
-linkbtext: "About"
 ---
+
 
 ## Basics 
 

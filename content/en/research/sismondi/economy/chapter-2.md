@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2a "
 title: "Formation and Progress of Wealth"
-date: 2022-03-22
+weight: 10
 image: /covers/sismondi.jpg
 description: "The measure of his wealth is the length of time which no farther labour will be needed to satisfy his wants, compared with the extent of those wants"
 author: Sismondi

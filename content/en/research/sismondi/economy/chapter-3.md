@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
 title: "Territorial Wealth"
-date: 2022-03-20
+weight: 12
 image: /covers/sismondi.jpg
 description: "Political economy is an important division of the science of government. The object of government is the happiness of men, united in society"
 author: Sismondi

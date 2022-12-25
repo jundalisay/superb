@@ -1,14 +1,10 @@
 ---
 title: "Cosmology"
-heading: "Chapter 9 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 9 "
+weight: 18
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-08"
-linkbtext: "Chapter 8"
-linkf: "/research/indian/gita/chapter-10"
-linkftext: "Chapter 10"
 icon: "/flags/in.png"
 ---
 

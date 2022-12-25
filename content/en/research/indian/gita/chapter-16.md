@@ -1,14 +1,10 @@
 ---
 title: "The Bhagavad-Gita"
-heading: "Chapter 16 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 16 "
+weight: 32
 author: "Vyasa"
 description: ""
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-15"
-linkbtext: "Chapter 15"
-linkf: "/research/indian/gita/chapter-17"
-linkftext: "Chapter 17"
 icon: "/flags/in.png"
 ---
 

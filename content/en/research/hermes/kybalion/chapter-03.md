@@ -4,7 +4,7 @@ title: Mental Transmutation Simplified
 description: The Hermetists were the original alchemists, astrologers, and psychologists, with Hermes as the founder of these schools
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-28
+weight: 6
 ---
 
 

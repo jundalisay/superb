@@ -1,14 +1,10 @@
 ---
 title: "The Kalpas"
-heading: "Chapter 15 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 15 "
+weight: 28
 author: "Vyasa"
-description: ""
+description: "Yet farther will I open unto thee"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-13"
-linkbtext: "Chapter 13"
-linkf: "/research/indian/gita/chapter-15"
-linkftext: "Chapter 15"
 icon: "/flags/in.png"
 ---
 
@@ -17,6 +13,7 @@ icon: "/flags/in.png"
 Krishna.
 
 Yet farther will I open unto thee
+
 This wisdom of all wisdoms, uttermost,
 The which possessing, all My saints have passed
 To perfectness. 

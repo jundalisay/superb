@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7c"
 title: "Invention"
-date: 2022-03-12
+weight: 24
 image: "/covers/sismondi.jpg"
 description: "The invention of the stocking frame allowed 1 man to do as much work as 100 men before"
 ---

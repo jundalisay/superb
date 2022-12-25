@@ -1,20 +1,16 @@
 ---
 title: "Who is Loved?"
-heading: "Chapter 10 of The Bhagavad-Gita Simplified"
-date: 2022-01-31
+heading: "Chapter 10 "
+weight: 20
 author: "Vyasa"
-description: ""
+description: "I say these words to bring you bliss and peace, who lovest Me always"
 image: "/covers/gita.jpg"
-linkb: "/research/indian/gita/chapter-09"
-linkbtext: "Chapter 9"
-linkf: "/research/indian/gita/chapter-11"
-linkftext: "Chapter 11"
 icon: "/flags/in.png"
 ---
 
 Krishna.[FN#l6]
 
-I say these words to bring you bliss and peace, who lovest Me alway--
+I say these words to bring you bliss and peace, who lovest Me always-
 Not the great company of gods nor kingly Rishis know
 My Nature, Who have made the gods and Rishis long ago;
 

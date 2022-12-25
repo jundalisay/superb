@@ -5,8 +5,7 @@ title: Cause and Effect
 description: The Sixth Hermetic Principle is the Principle of Cause and Effect
 image: /covers/kybalion.jpg
 author: Three Initiates
-date: 2022-01-19
-hidedate: true
+weight: 24
 ---
 
 

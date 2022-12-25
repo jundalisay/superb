@@ -1,6 +1,6 @@
 ---
 title: "Appendix A"
-date: 2015-09-30
+weight: 7
 image: "/covers/economy.jpg"
 description: "Governments are based on Utility and Authority. The social contract theory is a fallacy invented in Britain"
 ---

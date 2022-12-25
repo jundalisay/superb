@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7b"
 title: "Food Production"
-date: 2022-03-14
+weight: 22
 image: "/covers/sismondi.jpg"
 description: "Abstractly, the multiplication of food follows a geometrical progression like the multiplication of men"
 ---
