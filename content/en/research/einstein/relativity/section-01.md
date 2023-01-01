@@ -1,7 +1,7 @@
 ---
 heading: "Section 1"
 title: "Physical Meaning Of Geometrical Propositions"
-date: 2022-04-30
+weight: 4
 # date: 2022-04-12
 linkTitle: "EPR Paradox"
 description: "Our perceptions of geometrical shapes are Relative and Dynamic and Not Absolute and Static"

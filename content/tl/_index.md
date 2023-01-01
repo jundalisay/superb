@@ -136,7 +136,7 @@ articles4:
     - url : "/social/economics"
       img : "/photos/grains.jpg" 
       title : "Mundong walag kahirapan, inequality, at krisis"
-      subtitle : "Pantrynomics (Economic Superphysics) ang agham para sa pag-iikot ng yaman"
+      subtitle : "Ang Supereconomics (Economic Superphysics) ang agham para sa pag-iikot ng yaman"
     - url : "/social/supersociology"
       img : "/photos/social/protests.jpg" 
       title : "Moralidad, Pulitika, Batas, at Hustisya"

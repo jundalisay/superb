@@ -1,7 +1,8 @@
 ---
 title: "The Experiment Of Fizeau"
 heading: "Section 13"
-date: 2022-04-06
+# date: 2022-04-06
+weight: 22
 description: "To Einstein, the Fizeau Experiment proves that the speed of light is constant"
 image: "/covers/rel.jpg"
 ---
@@ -14,13 +15,13 @@ But, on the other hand, these results must strike you as being very singular. Th
 
 In Section 6, we derived the theorem of the addition of velocities in one direction in the form which also results from the hypotheses of classical mechanics. This theorem can also be deduced readily from the Galilei transformation (Section 11). 
 
-In place of the man walking inside the carriage, we introduce a point moving relatively to the moving K' according to the equation= 
+In place of the man walking inside the carriage, we introduce a point moving relatively to the moving K' according to the equation:
 
 ``` elixir
 x' = wt'
 ```
 
-Through the 1st and 4th equations of the Galilei transformation, we can express `x'` and `t'` in terms of `x` and `t`. We then obtain= 
+Through the 1st and 4th equations of the Galilei transformation, we can express `x'` and `t'` in terms of `x` and `t`. We then obtain:
 
 ``` elixir
 x = (v + w)t
@@ -39,7 +40,7 @@ We apply the theory of relativity to get=
 x' = wt'
 ```
 
-We must then express `x'` and `t'` in terms of `x` and `t`, making use of the 1st and 4th equations of the Lorentz transformation. Instead of the equation (A) we then obtain the equation= 
+We must then express `x'` and `t'` in terms of `x` and `t`, making use of the 1st and 4th equations of the Lorentz transformation. Instead of the equation (A) we then obtain the equation:
 
 ``` elixir
 W = (v + w) / 1+((v w)/c2)
@@ -73,7 +74,7 @@ The velocity of the light `W` relative to the tube this is given by either=
 
 The experiment* shows that the speed is in favour of equation B. 
 
-> *Einstein note=  Fizeau found W = w + v (1 − 1 /n2), where n = c/w is the index of refraction of the liquid. On the other hand, owing to the smallness of vw as compared with 1, we can replace (B) in the first place by W = (w + v)(1 - (vw)/c2 which agrees with Fizeau’s result.
+> *Einstein note: Fizeau found W = w + v (1 − 1 /n2), where n = c/w is the index of refraction of the liquid. On the other hand, owing to the smallness of vw as compared with 1, we can replace (B) in the first place by W = (w + v)(1 - (vw)/c2 which agrees with Fizeau’s result.
 
 <!-- n
 by W = ( w + v ) 1 − vw
@@ -84,7 +85,7 @@ According to recent and most excellent measurements by Zeeman, the influence of 
 
 Nevertheless, H. A. Lorentz gave a theory for this phenomenon long before my theory of relativity. **His theory was of a purely electrodynamical nature based on a hypotheses that matter has an electromagnetic structure.** * 
 
-> *Superphysics note=  We agree with Lorentz that Lorentz theory only applies to the electromagnetic layer and not to the material layer which works according to Newton's laws. General Relativity therefore does not apply to spacetime. Rather, general relativity merely explains electromagnetism under the influence of spacetime 
+> *Superphysics note: We agree with Lorentz that Lorentz theory only applies to the electromagnetic layer and not to the material layer which works according to Newton's laws. General Relativity therefore does not apply to spacetime. Rather, general relativity merely explains electromagnetism under the influence of spacetime 
 
 
 ![Einstein sticking out tongue](/avatars/einbla.png)
@@ -94,8 +95,7 @@ Nevertheless, H. A. Lorentz gave a theory for this phenomenon long before my the
 Lorentz' theory does not reduce the support of the Fizeau experiment for my theory of relativity*. This is because my theory is based on the electrodynamics of Maxwell-Lorentz. My theory of relativity came out of electrodynamics as an <b>astoundingly simple combination and generalisation of spacetime</b> on which electrodynamics was built. Prior to my theory, this spacetime was independent of each other.
 </div>
 
-> *Superphysics note=  Here, Einstein exposes that his theory is really from Lorentz, with a mere 'transformation' tweak of unifying space and time through the wave-particle duality of light. Einstein's transformation is dangerous **because it gives electromagnetic properties to spacetime**, effectively limiting it. <p>In Superphysics, the unity of spacetime is not sourced from light or electromagnetism, but from the aether, which is above spacetime and two layers above electromagnetism (see below). This is similar to Lorentz sourcing the cause of his transformations to the aether. Lorentz' mistake was to think that the aether was in the spacetime layer, and not above it.</p> 
+> *Superphysics note: Here, Einstein exposes that his theory is really from Lorentz, with a mere 'transformation' tweak of unifying space and time through the wave-particle duality of light. Einstein's transformation is dangerous **because it gives electromagnetic properties to spacetime**, effectively limiting it. <p>In Superphysics, the unity of spacetime is not sourced from light or electromagnetism, but from the aether, which is above spacetime and two layers above electromagnetism (see below). This is similar to Lorentz sourcing the cause of his transformations to the aether. Lorentz' mistake was to think that the aether was in the spacetime layer, and not above it.</p> 
 
 
 ![5 layers](/graphics/physics/egllayers.png)
-

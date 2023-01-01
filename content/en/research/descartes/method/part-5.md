@@ -1,8 +1,7 @@
 ---
 heading: Part 5
 title: Cartesian Cosmology
-limkTitle: Part 5
-date: 2022-01-15
+weight: 16
 description: Rene Descartes 1635
 image: "/covers/method.jpg"
 author: "Rene Descartes"

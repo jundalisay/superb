@@ -1,7 +1,8 @@
 ---
 title: Basic Forms of Motion
-heading: Part 3
-date: 2022-01-27
+heading: Part 5
+# date: 2022-01-27
+weight: 10
 description: Dialectics of Nature
 image: "/covers/nature.jpg"
 author: "Frederick Engels"

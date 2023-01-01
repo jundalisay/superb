@@ -1,6 +1,8 @@
 ---
 title: The Nature Of Mathematical Reasoning
-date: 2022-02-28
+heading: Chapter 1
+weight: 2
+# date: 2022-02-28
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

@@ -1,7 +1,7 @@
 ---
 title: Promises
 heading: Chapter 11
-date: 2022-07-14
+weight: 20
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

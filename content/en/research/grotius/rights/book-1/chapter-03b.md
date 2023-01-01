@@ -1,7 +1,7 @@
 ---
 title: The Division of War Into Public and Private and the Nature of Sovereign Power
 heading: Part 8
-date: 2022-07-20
+weight: 18
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

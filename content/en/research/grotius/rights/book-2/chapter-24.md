@@ -1,14 +1,14 @@
 ---
 title: Precautions Against Rashly Engaging in War, Even Upon Just Grounds
 heading: Chapter 24
-date: 2022-06-11
+weight: 58
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"
 ---
 
 
-Relaxation of right in order to avoid war—particularly penalties—Self-preservation motive for forbearing hostilities—Prudential rules in the choice of advantages—Peace preferable to the extermination of hostile powers—Forbearance prudent in inferior powers—War not to be undertaken, but from necessity.
+<!-- Relaxation of right in order to avoid war—particularly penalties—Self-preservation motive for forbearing hostilities—Prudential rules in the choice of advantages—Peace preferable to the extermination of hostile powers—Forbearance prudent in inferior powers—War not to be undertaken, but from necessity. -->
 
 
 ## Part 1: moral duties leading to war and peace

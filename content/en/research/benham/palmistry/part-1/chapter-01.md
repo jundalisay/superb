@@ -67,7 +67,7 @@ Having 7 types was <!-- The reason for the adoption of this plan was that a comb
 Each type was thus created for a specific sphere in life. It represents some element indispensable to the harmonious operation of the world as a whole*.
 
 
-> *Superphysics note: This is consistent with the division of labour idea of Adam Smith and is the heart of the Second law of value of Pantrynomics
+> *Superphysics note: This is consistent with the division of labour idea of Adam Smith and is the heart of the Second law of value of Supereconomics
 
 
 <!-- The fact that there are well-defined specimens of all these types on the streets of our cities to-day, that they can be easily recognized, and that  -->

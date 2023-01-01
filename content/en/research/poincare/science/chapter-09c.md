@@ -1,8 +1,8 @@
 ---
 title: The Rôle of Hypothesis
 heading: Chapter 9c
-date: 2022-01-12
-description: Science and Hypothesis
+weight: 50
+description: Every generalisation is a hypothesis. Hypothesis therefore plays a necessary rôle, which no one has ever contested
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /icons/poincare.jpg

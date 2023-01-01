@@ -1,6 +1,7 @@
 ---
 title: The Physical Continuum of several Dimensions
-date: 2022-02-16
+heading: Chapter 2d
+weight: 16
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

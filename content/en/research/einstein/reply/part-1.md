@@ -4,7 +4,8 @@ title: "Quantum Theory is Wrong"
 heading: "Part 1"
 description: "Born, Pauli, Heitler, Bohr, and Margenau are all firmly convinced that the riddle of the double nature of all corpuscles"
 image: "/covers/reply.jpg"
-date: 2020-01-31
+weight: 4
+# date: 2020-01-31
 ---
 
 

@@ -1,8 +1,7 @@
 ---
 heading: Part 4
 title: I Think Therefore I Am
-limkTitle: Part 4
-date: 2022-01-17
+weight: 14
 description: Rene Descartes 1635
 image: "/covers/method.jpg"
 author: "Rene Descartes"

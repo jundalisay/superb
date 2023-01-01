@@ -1,33 +1,27 @@
-+++
-title       = "Some Verbal Disputes"
-description = "Section 1 of An Enquiry Concerning the Principles of Morals Simplified"
-date        = "2020-06-16"
-banner      = "/covers/morals.jpg"
-author      = "David Hume"
-# keywords    = ["documentation"]
-linkTitle   = "Appendix 4"
-tags        = []
-categories  = []
-linkb = "/research/hume/morals/appendix-3"
-linkbtext = "Appendix 3"
-linkf = "/research/hume/morals/"
-linkftext = "Index"
-+++
+---
+title: "Some Verbal Disputes"
+heading: "Section 1"
+description: "Is public utility the SOLE origin of justice? Are the benefits of justice the SOLE foundation of its merit?"
+image: /covers/morals.jpg
+author: David Hume
+weight: 1
+---
 
 
-It is very common for philosophers to= 
+
+It is very common for philosophers to:
 - encroach on the province of grammarians
 - engage in disputes of words, while they imagine that they are handling controversies of the deepest importance and concern. 
 
 It was in order to avoid frivolous altercations that I endeavoured to state with the utmost caution the object of our present enquiry; 
 
-I proposed to list mental qualities which are= 
+I proposed to list mental qualities which are: 
 - the object of love or esteem, and form a part of personal merit; and on the other hand, a catalogue of those 
 - the object of censure or reproach, and which detract from the character of the person possessed of them; subjoining some reflections concerning the origin of these sentiments of praise or blame. 
 
 On all occasions, where there might arise the least hesitation, I avoided the terms VIRTUE and VICE; because some of those qualities, which I classed among the objects of praise, receive, in the English language, the appellation of TALENTS, rather than of virtues; as some of the blameable or censurable qualities are often called defects, rather than vices. 
 
-We should= 
+We should:
 - exactly separate the one from the other
 - mark the precise boundaries of virtues and talents, vices and defects
 - explain the reason and origin of that distinction. 

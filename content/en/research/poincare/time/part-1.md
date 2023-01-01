@@ -1,7 +1,7 @@
 ---
 title: Two Difficulties Regarding Time
 heading: Part 1
-date: 2021-09-28
+weight: 3
 description: As long as we do not go outside the domain of consciousness, the notion of time is relatively clear
 image: "/covers/time.jpg"
 author: "H. Poincare"

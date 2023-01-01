@@ -1,15 +1,13 @@
-+++
-title=  "Articles 1 to 27"
-heading=  ""
-description=  "Articles 1 to 27"
-image=  "/covers/magna.jpg"
-author=  "King John"
-linkb=  "/research/england/magna-carta"
-linkbtext=  "Index"
-linkf=  "/research/england/magna-carta"
-linkftext=  "Index"
-icons = "/flags/gb.png"
-+++ 
+---
+title: Articles 1 to 27
+weight: 2
+# date: 2022-01-31
+description: The Magna Carta
+author: "King John"
+image: "/covers/magna.jpg"
+icon: /flags/gb.png
+---
+
 
 
 The following rights are to be followed forever= 

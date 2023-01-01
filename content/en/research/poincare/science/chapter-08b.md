@@ -1,51 +1,49 @@
 ---
-title: Thermo-dynamics
+title: Thermodynamics
 heading: Chapter 8b
-date: 2022-01-18
-description: Science and Hypothesis
+weight: 44
+description: The role of the 2 fundamental principles of thermo-dynamics becomes daily more important in all branches of natural philosophy
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /icons/poincare.jpg
 ---
 
 
-The rôle of the 2 fundamental principles of thermo-dynamics becomes daily more important in all branches of natural philosophy. 
+The role of the 2 fundamental principles of thermodynamics becomes daily more important in all branches of natural philosophy. 
 
-Abandoning the ambitious theories of 40 years ago, encumbered as they were with molecular hypotheses, we now try to
-rest on thermo-dynamics alone the entire edifice of mathematical physics. Will the two principles of Mayer and
-of Clausius assure to it foundations solid enough to last for some time? We all feel it, but whence does our confidence arise? 
 
-An eminent physicist said to me one day, àpropos of the law of errors:—every one stoutly believes
-it, because mathematicians imagine that it is an effect of observation, and observers imagine that it is a mathematical theorem. 
+
+The ambitious theories of 40 years ago were encumbered with molecular hypotheses.
+
+We abandon them and we rest the entire edifice of mathematical physics on thermodynamics alone. 
+
+Will the 2 principles of Mayer and of Clausius assure to it foundations solid enough to last for some time? 
+
+We all feel it, but whence does our confidence arise? 
+
+An eminent physicist said to me one day, àpropos of the law of errors:—every one stoutly believes it, because mathematicians imagine that it is an effect of observation, and observers imagine that it is a mathematical theorem.
 
 This was for a long time the case with the principle of the conservation of energy. It is no
-longer the same now. There is no one who does not know
-that it is an experimental fact. 
+longer the same now. There is no one who does not know that it is an experimental fact. 
 
-But then who gives us the right of attributing to the principle itself more generality
-and more precision than to the experiments which have
-served to demonstrate it? 
+But then who gives us the right of attributing to the principle itself more generality and more precision than to the experiments which have served to demonstrate it? 
 
-This is asking, if it is legitimate to generalise, as we do every day, empiric data, and
-I shall not be so foolhardy as to discuss this question,
+This is asking, if it is legitimate to generalise, as we do every day, empiric data, and I shall not be so foolhardy as to discuss this question,
 after so many philosophers have vainly tried to solve it.
 
 One thing alone is certain. If this permission were refused to us, science could not exist; or at least would be
-reduced to a kind of inventory, to the ascertaining of isolated facts. It would not longer be to us of any value,
-since it could not satisfy our need of order and harmony, and because it would be at the same time incapable of
-prediction. As the circumstances which have preceded any fact whatever will never again, in all probability, be
-simultaneously reproduced, we already require a first gen-
-eralisation to predict whether the fact will be renewed
-as soon as the least of these circumstances is changed.science and hypothesis
+reduced to a kind of inventory, to the ascertaining of isolated facts. 
 
-But every proposition may be generalised in an infinite
-number of ways. Among all possible generalisations we
-must choose, and we cannot but choose the simplest. We
-are therefore led to adopt the same course as if a simple
-law were, other things being equal, more probable than
-a complex law. A century ago it was frankly confessed
-and proclaimed abroad that Nature loves simplicity; but Nature has proved the contrary since then on more than
-one occasion. We no longer confess this tendency, and we only keep of it what is indispensable, so that science may
+It would not longer be to us of any value, since it could not satisfy our need of order and harmony, and because it would be at the same time incapable of prediction. 
+
+As the circumstances which have preceded any fact whatever will never again, in all probability, be simultaneously reproduced, we already require a first generalisation to predict whether the fact will be renewed as soon as the least of these circumstances is changed.
+
+But every proposition may be generalised in an infinite number of ways. Among all possible generalisations we must choose, and we cannot but choose the simplest. 
+
+We are therefore led to adopt the same course as if a simple law were, other things being equal, more probable than
+a complex law. A century ago it was frankly confessed and proclaimed abroad that Nature loves simplicity; but Nature has proved the contrary since then on more than one occasion. 
+
+We no longer confess this tendency, and we only keep of it what is indispensable, so that science may
 not become impossible. 
 
 In formulating a general, simple, and formal law, based on a comparatively small number of not altogether consistent experiments, we have only obeyed a necessity from which the human mind cannot free itself. But there is something more, and that is why I dwell on this topic. 
@@ -54,15 +52,15 @@ No one doubts that Mayer’s principle is not called upon to survive all the par
 from which it was deduced, in the same way that Newton’s law has survived the laws of Kepler from which it
 was derived, and which are no longer anything but approximations, if we take perturbations into account. Now
 why does this principle thus occupy a kind of privileged position among physical laws? There are many reasons for that. At the outset we think that we cannot reject it, or even doubt its absolute rigour, without admitting the possibility of perpetual motion; we certainly feel distrust at such a prospect, and we believe ourselves less
-rash in affirming it than in denying it. That perhaps is not quite accurate. The impossibility of perpetual motion only implies the conservation of energy for reversible phenomena. The imposing simplicity of Mayer’s principle
-equally contributes to strengthen our faith. In a law immediately deduced from experiments, such as Mariotte’s
-law, this simplicity would rather appear to us a reason for distrust; but here this is no longer the case. We take
-elements which at the first glance are unconnected; these arrange themselves in an unexpected order, and form a
-harmonious whole. We cannot believe that this unexpected harmony is a mere result of chance. Our conquest
-appears to be valuable to us in proportion to the efforts it
-has cost, and we feel the more certain of having snatched
-its true secret from Nature in proportion as Nature has
-appeared more jealous of our attempts to discover it. 
+rash in affirming it than in denying it. 
+
+That perhaps is not quite accurate. The impossibility of perpetual motion only implies the conservation of energy for reversible phenomena. The imposing simplicity of Mayer’s principle equally contributes to strengthen our faith. 
+
+In a law immediately deduced from experiments, such as Mariotte’s law, this simplicity would rather appear to us a reason for distrust; but here this is no longer the case. 
+
+We take elements which at the first glance are unconnected; these arrange themselves in an unexpected order, and form a harmonious whole. We cannot believe that this unexpected harmony is a mere result of chance. Our conquest appears to be valuable to us in proportion to the efforts it
+has cost, and we feel the more certain of having snatched its true secret from Nature in proportion as Nature has
+appeared more jealous of our attempts to discover it.
 
 But these are only small reasons. Before we raise Mayer’s law to the dignity of an absolute principle, a deeper discus-
 sion is necessary. But if we embark on this discussion we see that this absolute principle is not even easy to enun-
@@ -136,12 +134,12 @@ even if we wished to regard it in an absolute sense. It
 would appear as a limitation imposed on freedom.
 But this word warns me that I am wandering from theenergy and thermo-dynamics.
 
-subject, and that I am leaving the domain of mathemat-
-ics and physics. I check myself, therefore, and I wish to
+subject, and that I am leaving the domain of mathematics and physics. I check myself, therefore, and I wish to
 retain only one impression of the whole of this discussion,
 and that is, that Mayer’s law is a form subtle enough for
-us to be able to put into it almost anything we like. I
-do not mean by that that it corresponds to no objective
+us to be able to put into it almost anything we like. 
+
+I do not mean by that that it corresponds to no objective
 reality, nor that it is reduced to mere tautology; since, in
 each particular case, and provided we do not wish to ex-
 tend it to the absolute, it has a perfectly clear meaning.
@@ -161,64 +159,4 @@ them little by little by more exact laws. If, on the other
 hand, the principle of Clausius reduces to an inequality,
 this is not caused by the imperfection of our means of
 observation, but by the very nature of the question.science and hypothesis
-
-General Conclusions on Part 3
-
-The principles of mechanics are therefore presented to us under two different aspects. On the one hand, there are truths founded on experiment, and verified approximately as far as al-
-most isolated systems are concerned; on the other hand, there are postulates applicable to the whole of the universe and regarded as rigorously true. 
-
-If these postulates possess a generality and a certainty which falsify the experimental truths from which they were deduced, it is because they reduce in final analysis to a simple convention that we have a right to make, because we are certain beforehand that no experiment can contradict it. 
-
-This convention, however, is not absolutely arbitrary; it is not the child of our caprice. We admit it because certain experiments have shown us that it will be convenient, and
-thus is explained how experiment has built up the prin-
-ciples of mechanics, and why, moreover, it cannot reverse
-them. 
-
-Take a comparison with geometry. The fundamental propositions of geometry, for instance, Euclid’s postulate, are only conventions, and it is quite as unrea-
-sonable to ask if they are true or false as to ask if the
-metric system is true or false. Only, these conventions
-are convenient, and there are certain experiments which
-prove it to us. At the first glance, the analogy is com-energy and thermo-dynamics.
-153
-plete, the rôle of experiment seems the same. 
-
-We shall therefore be tempted to say, either mechanics must be looked upon as experimental science and then it should be the same with geometry; or, on the contrary, geometry is a deductive science, and then we can say the same of mechanics. Such a conclusion would be illegitimate.
-
-The experiments which have led us to adopt as more convenient the fundamental conventions of geometry refer to bodies which have nothing in common with those that are studied by geometry. They refer to the properties of solid bodies and to the propagation of light in a straight line. These are mechanical, optical experiments. 
-
-In no way can they be regarded as geometrical experiments. And even the probable reason why our geometry seems convenient to us is, that our bodies, our hands, and our limbs enjoy the properties of solid bodies. 
-
-Our fundamental experiments are pre-eminently physiological experiments which refer, not to the space which is the object that geometry must study, but to our body—that is to say, to the instrument which we use for that study. 
-
-On the other hand, the fundamental conventions of mechanics and the experiments which prove to us that they are convenient, certainly refer to the same objects or to analogous objects. Conventional and general principlesscience and hypothesis.
-
-are the natural and direct generalisations of experimental and particular principles. Let it not be said that I am thus tracing artificial frontiers between the sciences;
-that I am separating by a barrier geometry properly so
-called from the study of solid bodies. 
-
-I might just as well raise a barrier between experimental mechanics and the
-conventional mechanics of general principles. Who does
-not see, in fact, that by separating these two sciences we
-mutilate both, and that what will remain of the conventional mechanics when it is isolated will be but very little,
-and can in no way be compared with that grand body of
-doctrine which is called geometry.
-
-We now understand why the teaching of mechanics should remain experimental. Thus only can we be made
-to understand the genesis of the science, and that is indispensable for a complete knowledge of the science itself. 
-
-Besides, if we study mechanics, it is in order to apply it; and we can only apply it if it remains objective. Now, as we have seen, when principles gain in generality and certainty they lose in objectivity. It is therefore especially with the objective side of principles that we must
-be early familiarised, and this can only be by passing from the particular to the general, instead of from the general to the particular.energy and thermo-dynamics.
-
-Principles are conventions and definitions in disguise.
-
-They are, however, deduced from experimental laws, and these laws have, so to speak, been erected into principles to which our mind attributes an absolute value.
-
-Some philosophers have generalised far too much. They have thought that the principles were the whole of science, and therefore that the whole of science was conventional. This paradoxical doctrine, which is called Nominalism, cannot stand examination. How can a law become a principle? 
-
-It expressed a relation between two real terms, A and B; but it was not rigorously true, it was only approximate. 
-
-We introduce arbitrarily an intermediate term, C, more or less imaginary, and C is by definition that which has with A exactly the relation expressed by the law. So our law is decomposed into an absolute and rigorous principle which expresses the relation of A to C, and an approximate experimental and revisable law which expresses the relation of C to B. 
-
-But it is clear that however far this decomposition may be carried, laws will always remain. We shall now enter into
-the domain of laws properly so called.
 

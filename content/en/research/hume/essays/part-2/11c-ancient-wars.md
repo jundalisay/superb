@@ -1,14 +1,13 @@
 ---
 title: "War Prevented Ancient Populousness"
-heading: "Essay 11c Part 2"
+heading: "Essay 11c"
 description: "The Ancients were populous"
 image: /covers/essays.jpg
-date: "2020-02-11"
-linkb: "/research/hume/essays/part-2/11b-convents"
-linkbtext: "remarkable-customs"
-linkf: "/research/hume/essays/part-2/11d-leniency-inequality"
-linkftext: Leniency-inequality
+weight: 28
+author: David Hume
+icon: /avatars/hume.png
 ---
+
 
 There are commonly compensations in every human condition. These are not always perfectly equal, yet they restrain the prevailing principle. 
 

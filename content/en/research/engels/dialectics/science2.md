@@ -1,6 +1,7 @@
 ---
 title: The Evolution of the Natural Sciences
-date: 2022-02-01
+# date: 2022-02-01
+weight: 14
 image: "/covers/nature.jpg"
 description: Dialectics of Nature
 author: "Frederick Engels"

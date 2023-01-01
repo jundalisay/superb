@@ -1,8 +1,7 @@
 ---
 heading: Part 1
 title: My Life
-limkTitle: Part 1
-date: 2022-01-31
+weight: 4
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.jpg"
 author: "Rene Descartes"

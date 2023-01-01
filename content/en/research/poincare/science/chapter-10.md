@@ -1,8 +1,8 @@
 ---
 title: The Theories Of Modern Physics
 heading: Chapter 10
-date: 2022-01-10
-description: Science and Hypothesis
+weight: 52
+description: The ephemeral nature of scientific theories takes by surprise the man of the world
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /icons/poincare.jpg
@@ -15,32 +15,22 @@ The ephemeral nature of scientific theories takes by surprise the man of the wor
 
 Their brief period of prosperity ended, he sees them abandoned one after another; he sees ruins piled upon ruins; he predicts that the theories in fashion to-day will in a short time succumb in their turn, and he concludes that they are absolutely in vain. This is what he calls the bankruptcy of science.
 
-His scepticism is superficial; he does not take into account the object of scientific theories and the part they
-play, or he would understand that the ruins may be still good for something. No theory seemed established on
-firmer ground than Fresnel’s, which attributed light to the movements of the ether. Then if Maxwell’s theory
-is to-day preferred, does that mean that Fresnel’s work was in vain? No; for Fresnel’s object was not to know
-whether there really is an ether, if it is or is not formed of atoms, if these atoms really move in this way or that;
-his object was to predict optical phenomena.
+His scepticism is superficial; he does not take into account the object of scientific theories and the part they play, or he would understand that the ruins may be still good for something. 
+
+No theory seemed established on firmer ground than Fresnel’s, which attributed light to the movements of the ether. Then if Maxwell’s theory is today preferred, does that mean that Fresnel’s work was in vain? No; for Fresnel’s object was not to know whether there really is an ether, if it is or is not formed of atoms, if these atoms really move in this way or that; his object was to predict optical phenomena.
 
 This Fresnel’s theory enables us to do to-day as well as it did before Maxwell’s time. The differential equa-the theories of modern physics.
 
-tions are always true, they may be always integrated
-by the same methods, and the results of this integration still preserve their value. It cannot be said that this
-is reducing physical theories to simple practical recipes;
-these equations express relations, and if the equations
+tions are always true, they may be always integrated by the same methods, and the results of this integration still preserve their value. It cannot be said that this is reducing physical theories to simple practical recipes; these equations express relations, and if the equations
 remain true, it is because the relations preserve their reality. 
 
 They teach us now, as they did then, that there is such and such a relation between this thing and that;
-only, the something which we then called motion, we now
-call electric current. But these are merely names of the
-images we substituted for the real objects which Nature
-will hide for ever from our eyes. 
+only, the something which we then called motion, we now call electric current. But these are merely names of the
+images we substituted for the real objects which Nature will hide for ever from our eyes. 
 
 The true relations between these real objects are the only reality we can attain,
-and the sole condition is that the same relations shall ex-
-ist between these objects as between the images we are
-forced to put in their place. If the relations are known
-to us, what does it matter if we think it convenient to
+and the sole condition is that the same relations shall exist between these objects as between the images we are
+forced to put in their place. If the relations are known to us, what does it matter if we think it convenient to
 replace one image by another?
 
 That a given periodic phenomenon (an electric oscillation, for instance) is really due to the vibration of a

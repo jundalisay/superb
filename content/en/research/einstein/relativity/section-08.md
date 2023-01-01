@@ -1,7 +1,8 @@
 ---
 title: "The Idea Of Time In Physics"
 heading: "Section 8"
-date: 2022-04-16
+weight: 16
+# date: 2022-04-16
 description: "To keep both the constancy of light and relativity, Einstein applies the changes onto spacetime itself, as an out-of-the-box thinking that uses light as the judge"
 image: "/covers/rel.jpg"
 ---
@@ -38,12 +39,12 @@ We test simultaniety by putting an observer in the middle `M` between `A` and `B
 - He as two mirrors inclined at 90° to let him see both `A` and `B` at the same time
 - **If he sees the two flashes of lightning at the same time, then they are simultaneous [happen at the same time]**
 
-> *Superphysics Note=  Einstein's logical absurdity, which is the foundation of Relativity, is that if c, then c because c. Einstein thus puts all movement under the rule of c or the dynamics of light. The problem is that the two other layers of spacetime and aether are higher than light!
+> *Superphysics Note: Einstein's logical absurdity, which is the foundation of Relativity, is that if c, then c because c. Einstein thus puts all movement under the rule of c or the dynamics of light. The problem is that the two other layers of spacetime and aether are higher than light!
 
 
 <!-- By measuring along the rails, the connecting line AB should be measured up and an observer placed at the mid-point M of the distance AB.  -->
 
-You object by saying that= 
+You object by saying that:
 - "time" would only be "simultaniety" if light travels at a constant speed
 - but the speed of light is measured by time
 
@@ -64,7 +65,7 @@ flashes travels along the length A ~T M with the same velocity as along the leng
 
 This definition can be used to give an exact meaning to as many events as we want, independently of the positions of the scenes of the events with respect to the body of reference* (here the railway embankment). 
 
-> *Einstein note=  When three events `A`, `B`, and `C` happen in different places in such a manner that, if `A` is simultaneous with `B`, and `B` is simultaneous with `C`<!-- (simultaneous in the sense of the above definition) -->, then the criterion for the [light-]simultaneity of the pair of events `A, C` is also satisfied. This assumption is <!-- a physical hypothesis about the law of propagation of light; it must certainly be --> fulfilled because of <!-- if we are to maintain --> the law of the constancy of the speed of light in a vacuum.
+> *Einstein note: When three events `A`, `B`, and `C` happen in different places in such a manner that, if `A` is simultaneous with `B`, and `B` is simultaneous with `C`<!-- (simultaneous in the sense of the above definition) -->, then the criterion for the [light-]simultaneity of the pair of events `A, C` is also satisfied. This assumption is <!-- a physical hypothesis about the law of propagation of light; it must certainly be --> fulfilled because of <!-- if we are to maintain --> the law of the constancy of the speed of light in a vacuum.
 
 
 This is our defintion of time in physics. 

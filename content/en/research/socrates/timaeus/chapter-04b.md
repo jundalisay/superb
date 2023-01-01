@@ -1,5 +1,5 @@
 ---
-heading: Chapter 4
+heading: Chapter 4b
 title: "Created Beings"
 weight: 22
 image: "/covers/timaeus.jpg"

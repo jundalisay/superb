@@ -1,7 +1,7 @@
 ---
 title: The Lawfulness of War
 heading: Chapter 2c
-date: 2022-07-22
+weight: 12
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"
@@ -10,7 +10,17 @@ author: "Hugo Grotius"
 
 ## Part 7
 
-Omitting the less satisfactory proofs, as a leading point of evidence to shew that the right of war is not taken away by the law of the gospel, that passage in St. Paul's Epistle to Timothy may be referred42 to, where the Apostle says, "I exhort therefore that, first of all, supplications, prayers, intercessions, and giving of thanks be made for all men; for Kings, and for all that are in authority, that we may lead a quiet and peaceable life, in all godliness and honesty; for this is good and acceptable in the sight of God our Saviour, who would have all men to be saved, and to come to the knowledge of the truth." 1 Eph. ii. 1, 2, 3. 
+<!-- Omitting the less satisfactory proofs, as a leading point of evidence to shew that  -->
+
+The right of war is not taken away by the law of the gospel. This is proven by St. Paul's Epistle to Timothy
+
+{{< q a="" >}}
+All, supplications, prayers, intercessions, and giving of thanks should be made for all men; for Kings, and for all that are in authority so that we may lead a quiet and peaceable life, in all godliness and honesty"  
+<cite>1 Eph. ii. 1, 2, 3.</cite>
+{{< /q >}}
+
+<!-- ; for this is good and acceptable in the sight of God our Saviour, who would have all men to be saved, and to come to the knowledge of the truth. -->
+
 
 From this passage, the following conclusions may be drawn:
 

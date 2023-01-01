@@ -1,7 +1,8 @@
 ---
 title: "Minkowski’s Four–dimensional Space"
 heading: "Section 17"
-date: 2022-03-31
+weight: 28
+# date: 2022-03-31
 description: "Minkowski space has the element of time which is essential to create Einstein's spacetime fabric for General Relativity"
 image: "/covers/rel.jpg"
 ---
@@ -23,12 +24,12 @@ Every event has infinite “neighbouring” events (realised or imaginary). The 
 Before my theory of Relativity, time played a different and more independent rôle to the space co-ordinates. This is why we usually treat time as an independent continuum*.
 
 
-> *Superphysics Note=  The time-coordinate was not important in the past because electromagnetism was not so important in the 18th century. Even in daily life today, we rarely encounter motions that are faster than a jet or racecar as to bother about time-coordinates. Einstein is like a lobbyist for light that promotes the 4D spacetime over the 3D one
+> *Superphysics Note: The time-coordinate was not important in the past because electromagnetism was not so important in the 18th century. Even in daily life today, we rarely encounter motions that are faster than a jet or racecar as to bother about time-coordinates. Einstein is like a lobbyist for light that promotes the 4D spacetime over the 3D one
 
 
 Time is absolute in classical mechanics -- it is independent of the position and the condition of motion of the system of coordinates. This is expressed in the last equation of the Galileian transformation as `t' = t`. 
 
-The 4D spacetime is natural to the theory of relativity which robs time of its independence. This is shown by the 4th equation of the Lorentz transformation= 
+The 4D spacetime is natural to the theory of relativity which robs time of its independence. This is shown by the 4th equation of the Lorentz transformation:
 
 ``` elixir
 t' = (t - (v/c2) x) / √ 1-(v2/c2)
@@ -48,3 +49,5 @@ Without Minkowski's 4D spacetime, General Relativity could not be developed.<!--
 
 <!-- Minkowski’s work is doubtless difficult of access to anyone inexperienced in mathematics, but since it is not necessary to have a very exact grasp of this work in order to understand the fundamental ideas of either the special or the general theory of relativity, I shall at present leave it here, and shall revert to it only towards the end of Part 2.
  -->
+
+ 

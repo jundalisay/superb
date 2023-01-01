@@ -1,7 +1,7 @@
 ---
 title: "Hardness and Liquidity"
 heading: "Chapter 3"
-date: 2020-09-26
+weight: 8
 author: "Rene Descartes"
 image: "/covers/world.jpg"
 description: "There is an infinity of diverse motions that endure perpetually in the world"

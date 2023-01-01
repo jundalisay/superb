@@ -1,8 +1,7 @@
 ---
 heading: Part 5b
 title: The Human Anatomy
-limkTitle: Part 5b
-date: 2022-01-12
+weight: 18
 description: Rene Descartes 1635
 image: "/covers/method.jpg"
 author: "Rene Descartes"

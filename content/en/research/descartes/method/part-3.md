@@ -1,8 +1,7 @@
 ---
 heading: Part 3
 title: The 3 Maxims
-limkTitle: Part 3
-date: 2022-01-20
+weight: 12
 description: Rene Descartes 1635
 image: "/covers/method.jpg"
 author: "Rene Descartes"

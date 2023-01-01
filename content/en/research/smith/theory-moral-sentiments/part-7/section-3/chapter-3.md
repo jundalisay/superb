@@ -1,22 +1,19 @@
-
-+++
-title=  "Systems Based on Feelings"
-heading=  "Chapter 3"
-description=  "Moral systems based on feelings can be divided into two classes"
-date=  2015-09-28
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-7/section-3/chapter-2"
-linkbtext=  "Chapter 5"
-linkf=  "/research/smith/theory-moral-sentiments/part-7/section-4"
-linkftext=  "Section 4"
-+++
+---
+heading: Chapter 3
+title: "Systems Based on Feelings"
+weight: 6
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "Moral systems based on feelings can be divided into 2 classes"
+---
 
 
-1-17 Moral systems based on feelings can be divided into two classes.
+1-17 Moral systems based on feelings can be divided into 2 classes.
 
 18 
 
-> 1. According to some, the principle of approbation is founded on a particular faculty of perception.
+> 1. Some think that the principle of approbation is founded on a particular faculty of perception.
 
 This is exerted by the mind at the view of actions or affections. 
 - Some actions affect this faculty agreeably and are stamped as right, laudable, and virtuous.
@@ -26,16 +23,15 @@ This feeling is called a **moral sense**. It is of a peculiar nature, distinct f
  
 19 
 
-> 2. According to others, morality is not based on a moral sense, but on the fact that nature acts with the strictest economy all the time.
+> 2. Others think that morality is not based on a moral sense, but on the fact that nature acts with the strictest economy all the time.
 
 This economy naturally produces sympathy in the mind, which then leads to morality. <!-- many effects from one and the same cause. -->
 <!--  is a power which has always been noticed.
 The mind is manifestly endowed with it
 They think the mind is sufficient to account for all the effects ascribed to sympathy. -->
 
-<br>
 
-### The Moral Sense
+## The Moral Sense
 
 20 I. Dr. Hutcheson took great pains to prove that morality came from a moral sense and not from self-love nor reason.
 
@@ -225,13 +221,13 @@ Those feelings have made themselves considerable enough to get names such as 'lo
 
 32 According to my system, our moral opinion is based on our feelings which are then derived from four sources= 
 
-1. From our sympathy with the **actor's motives** [This is the first law of value in Pantrynomics]
+1. From our sympathy with the **actor's motives** [This is the first law of value in Supereconomics]
 
-2. From our sympathy with the gratitude of those who **receive the benefit of his actions**. [This is the third law of value in Pantrynomics]
+2. From our sympathy with the gratitude of those who **receive the benefit of his actions**. [This is the third law of value in Supereconomics]
 
-3. From our sympathy with the actor's conduct matching with the **general rules**. [This is the fourth law of value in Pantrynomics]  <!-- by which those two sympathies generally act -->
+3. From our sympathy with the actor's conduct matching with the **general rules**. [This is the fourth law of value in Supereconomics]  <!-- by which those two sympathies generally act -->
 
-4. From our sympathy with the **utility** the actor's conduct and how it benefits a person or others. [This is the second law of value in Pantrynomics]
+4. From our sympathy with the **utility** the actor's conduct and how it benefits a person or others. [This is the second law of value in Supereconomics]
 
 <!--   its When we consider such actions as part of a system of behaviour which tends to promote the happiness of the individual or the society, they derive a beauty from this utility like that of any well-contrived machine. -->
 

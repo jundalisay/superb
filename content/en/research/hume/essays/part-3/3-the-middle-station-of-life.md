@@ -1,13 +1,11 @@
 ---
 title: "The Middle Station Of Life"
-heading: "Essay 3, Part 3"
+heading: "Essay 3"
 description: "The middle class is the happiest of all the classes"
 image: /covers/essays.jpg
-date: "2020-03-03"
-linkb: "/research/hume/essays/part-3/2-moral-prejudice"
-linkbtext: "Moral-prejudice"
-linkf: "/research/hume/essays/part-3/4-impudence-modesty"
-linkftext: "Impudence-modesty"
+weight: 8
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

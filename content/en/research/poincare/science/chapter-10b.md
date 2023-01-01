@@ -1,7 +1,8 @@
 ---
 title: Physics and Mechanism
 heading: Chapter 10b
-date: 2022-01-08
+weight: 54
+
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

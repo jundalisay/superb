@@ -1,6 +1,7 @@
 ---
 title: The History of European Science 
-date: 2022-02-01
+# date: 2022-02-01
+weight: 12
 image: "/covers/nature.jpg"
 description: Dialectics of Nature
 author: "Frederick Engels"

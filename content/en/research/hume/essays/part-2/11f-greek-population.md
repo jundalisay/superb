@@ -3,11 +3,9 @@ title: "The Populousness Of Ancient Nations"
 heading: "Essay 11f Part 2"
 description: "The Ancients were populous"
 image: /covers/essays.jpg
-date: "2020-02-11"
-linkb: "/research/hume/essays/part-2/11e-ancient-records"
-linkbtext: Ancient-records
-linkf: "/research/hume/essays/part-2/11g-roman-population"
-linkftext: "roman-population"
+weight: 34
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

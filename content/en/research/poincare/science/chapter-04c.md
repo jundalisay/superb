@@ -1,6 +1,7 @@
 ---
 title: Changes of State and Changes of Position
-date: 2022-02-04
+heading: Chapter 4c
+weight: 28
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

@@ -3,6 +3,7 @@ title: "The Nine Situations"
 image: "/covers/war.jpg"
 description: "The art of war recognizes nine kinds of ground"
 heading: "Chapter 11"
+weight: 22
 ---
 
 

@@ -3,6 +3,7 @@ title: "Tactical Dispositions"
 image: "/covers/war.jpg"
 description: "The good fighters of the past first put themselves beyond the possibility of defeat. Then, they waited for an opportunity of defeating the enemy"
 heading: "Chapter 3"
+weight: 8
 ---
 
 
@@ -13,13 +14,19 @@ It is up to us to avoid defeat, but the opportunity of defeating the enemy is pr
 
 Thus the good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy.
 
-Hence the saying=  One may know how to conquer without being able to do it.
+Hence the saying: 
 
-5. Security against defeat implies defensive tactics; ability to defeat the enemy means taking the offensive.
+{{< q >}}
+One may know how to conquer without being able to do it.
+{{< /q >}}
 
-6. Standing on the defensive indicates insufficient strength; attacking, a superabundance of strength.
+Security against defeat implies defensive tactics. The ability to defeat the enemy means taking the offensive.
+- Standing on the defensive indicates insufficient strength
+- Attacking indicates a superabundance of strength.
 
-7. The general who is skilled in defense hides in the most secret recesses of the earth; he who is skilled in attack flashes forth from the topmost heights of heaven. Thus on the one hand we have ability to protect ourselves; on the other, a victory that is complete.
+The general who is skilled in defense hides in the most secret recesses of the earth. 
+
+He who is skilled in attack flashes forth from the topmost heights of heaven. Thus on the one hand we have ability to protect ourselves; on the other, a victory that is complete.
 
 8. To see victory only when it is within the ken of the common herd is not the acme of excellence.
 

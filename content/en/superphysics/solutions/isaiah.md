@@ -10,7 +10,6 @@ author: Juan
 icon: /icons/pantry.png
 aliases:
   /articles/superphysics/what-is-isaiah
-  /pantrynomics/isaiah
   /social/economics/solutions/isaiah
 ---
 
@@ -23,7 +22,7 @@ linkf: articles/superphysics/meaning-of-red-herring-ad-hominem-occams-razor"
 linkftext: "What is a Red Herring?"
  -->
  
-Pantrynomics (Economic Superphysics) aims to solve all economic problems by adding moneyless donations and exchange (barter), as points-based valuation, to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether-idea onto the idea of "quantum fields". 
+Supereconomics (Economic Superphysics) aims to solve all economic problems by adding moneyless donations and exchange (barter), as points-based valuation, to the current money-based valuation. This is similar to how Material Superphysics aims to solve mysteries in Physics by adding the aether-idea onto the idea of "quantum fields". 
 
 The points-based valuation represents [the effort theory of value](/social/economics/principles/effort-theory-of-value) which we derived from Adam Smith:
 
@@ -53,12 +52,12 @@ Instead of equilibrium or the equals sign, this system is based on **ratios** or
 This is useful for poor people and even for corporations during financial crises where money is tight or unavailable. In addition, it will lower the cost of buying and selling since it will use the already-existing telecoms system, instead of the financial system with its expensive bankers and financiers*.
 
 
-> *In pantrynomics, such people will still be employed to do inspection, "KYC", and credit checks. 
+> *In Supereconomics, such people will still be employed to do inspection, "KYC", and credit checks. 
 
 
 An advanced economy can be very complex because of the huge number of goods and commodities for sale. It would be impossible to keep track of all the ratios manually. This is why the system needs machine learning, more popularly called artificial intelligence or AI. 
 
-<!-- The most useful result that pantrynomics aims to get is the real price of everything, which is the value of everything relative to grains. In this way, all prices become natural which then removes the chance for crises from emerging. Thus, we come up with ISAIAH as the name of our AI: -->
+<!-- The most useful result that Supereconomics aims to get is the real price of everything, which is the value of everything relative to grains. In this way, all prices become natural which then removes the chance for crises from emerging. Thus, we come up with ISAIAH as the name of our AI: -->
 <!-- In order to arrive at the real price, the AI has to filter out the bias and the noise in the data. We can say that the AI has to be an impartial spectator of the flow of data that is routed to it.  -->
 
 
@@ -67,7 +66,7 @@ An advanced economy can be very complex because of the huge number of goods and 
 
 We call our AI as ISAIAH which stands for the Impartial Spectator Automated Intelligence Aggregation Hub:
 
-- Impartial Spectator (IS-) — the AI must be impartial. In pantrynomics, we achieve this by setting its base valuation to the common grain of the country that it is measuring
+- Impartial Spectator (IS-) — the AI must be impartial. In Supereconomics, we achieve this by setting its base valuation to the common grain of the country that it is measuring
 - Automated Intelligence (-AI-) — describes the AI as something that automates the existing thought-processing of whatever the Impartial Spectator's socio-political-economic goal is, whether it be price prediction, capital flows prediction, election prediction, legislation prediction, population demographic prediction, disease prediction, etc.
 - Aggregation Hub (-AH) — describes the centralization of the functionalities of the AI as a single cohesive unit, manifesting as socio-economic singularity. Nowadays, these functionalities are called 'skills' as Alexa Skills or 'actions' as Google Actions. 
 
@@ -86,6 +85,6 @@ ISAIAH, as a machine learning hub, can interpret data from non-economic sciences
 
 _ | Superphysics paradigm | End Goal
 --- | --- | ---
-Economic data | Pantrynomics | Real Prices, [Clearing Fund Rates](/research/schumacher/pool-clearing/part-1)
+Economic data | Supereconomics | Real Prices, [Clearing Fund Rates](/research/schumacher/pool-clearing/part-1)
 Health data |  [Medical Superphysics](/medical) | Disease prediction
 Historical data | [Supersociology](/social/supersociology) | Social and political predictions 

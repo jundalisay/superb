@@ -1,7 +1,8 @@
 ---
 title: "The Relativity Of The Idea Of Distance"
 heading: "Section 10"
-date: 2022-04-12
+weight: 18
+# date: 2022-04-12
 description: "Since time is not absolute, then distance is also not absolute, but varies depending on viewpoint. This will allow length contraction via the Lorentz Transformation in Section 12"
 image: "/covers/rel.jpg"
 ---

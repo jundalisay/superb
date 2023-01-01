@@ -1,8 +1,7 @@
 ---
 heading: Part 2
 title: Single Founders
-limkTitle: Part 2
-date: 2022-01-25
+weight: 8
 description: Rene Descartes 1635
 image: "/covers/method.jpg"
 author: "Rene Descartes"

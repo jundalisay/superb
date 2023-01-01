@@ -3,6 +3,7 @@ title: "Maneuvering"
 image: "/covers/war.jpg"
 description: "Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp"
 heading: "Chapter 7"
+weight: 14
 ---
 
 

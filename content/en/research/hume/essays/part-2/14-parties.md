@@ -3,10 +3,9 @@ title: "The Coalition Of Parties"
 heading: "Essay 14 Part 2"
 description: "In a free government, the abolition of all distinctions of party may not be practicable, perhaps not desirable"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/13-passive-obedience"
-linkbtext: "passive-obedience"
-linkf: "/research/hume/essays/part-2/15-protestant-succession"
-linkftext: protestant-succession
+weight: 44
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

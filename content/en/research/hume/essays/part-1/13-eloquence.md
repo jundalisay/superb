@@ -1,9 +1,9 @@
 ---
 title: "Eloquence"
-heading: "Essay 13 by David Hume Simplified"
+heading: "Essay 13"
 description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
 image: /covers/essays.jpg
-date: 2020-12-08
+weight: 26
 author: David Hume
 icons: /icons/hume.png
 --- 

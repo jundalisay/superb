@@ -1,7 +1,7 @@
 ---
 title: "The Difference Between Our Sensations and the Things That Produce Them"
 heading: "Chapter 1"
-date: 2020-09-30
+weight: 4
 author: "Rene Descartes"
 image: "/covers/world.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"

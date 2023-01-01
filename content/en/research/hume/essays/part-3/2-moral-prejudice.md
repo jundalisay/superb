@@ -1,13 +1,11 @@
 ---
 title: "Moral Prejudice"
-heading: "Essay 2, Part 3"
+heading: "Essay 2"
 description: "The Story of the Woman who wanted to be a single mon"
 image: /covers/essays.jpg
-date: "2020-03-02"
-linkb: "/research/hume/essays/part-3/1-essay-writing"
-linkbtext: Essay writing
-linkf: "/research/hume/essays/part-3/3-the-middle-station-of-life"
-linkftext: Middle-station-of-life
+weight: 6
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

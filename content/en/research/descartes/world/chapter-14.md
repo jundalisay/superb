@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 14"
 title: "The Properties of Light"
-date: 2020-09-02
+weight: 30
 image: "/covers/world.jpg"
 description: "Light moves in all directions around luminous bodies is due to the circular motion of their parts"
 icon: "/icons/descartes.jpg"

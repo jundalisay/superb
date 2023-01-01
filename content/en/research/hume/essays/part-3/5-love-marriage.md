@@ -1,13 +1,11 @@
 ---
 title: "Love And Marriage"
-heading: "Essay 5, Part 3"
+heading: "Essay 5"
 description: "The Allegory of the Hymen"
 image: /covers/essays.jpg
-date: "2020-03-05"
-linkb: "/research/hume/essays/part-3/3-the-middle-station-of-life"
-linkbtext: "Moral-prejudice"
-linkf: "/research/hume/essays/part-3/5-love-marriage"
-linkftext: love-marriage
+weight: 15
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

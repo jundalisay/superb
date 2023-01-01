@@ -1,13 +1,11 @@
 ---
 title: "The Population of Ancient Rome and Italy"
-heading: "Essay 11d Part 2"
+heading: "Essay 11d"
 description: "The Population of Ancient Rome and Italy"
 image: /covers/essays.jpg
-date: "2020-02-11"
-linkb: "/research/hume/essays/part-2/11f-greek-population"
-linkbtext: "greek-population"
-linkf: "/research/hume/essays/part-2/12-original-contract"
-linkftext: "original-contract"
+weight: 36
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

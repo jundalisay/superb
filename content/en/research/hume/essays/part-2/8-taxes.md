@@ -1,12 +1,11 @@
 ---
 title: "Taxes"
-heading: "Essay 8, Part 2"
+heading: "Essay 8"
 description: "Taxes are made lighter by spreading them to more people"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/7-balance-of-power"
-linkbtext: "balance-of-power"
-linkf: "/research/hume/essays/part-2/9-public-credit"
-linkftext: "public-credit"
+author: David Hume
+icon: /avatars/hume.png
+weight: 18
 ---
 
 

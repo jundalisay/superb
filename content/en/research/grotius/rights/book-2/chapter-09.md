@@ -1,7 +1,7 @@
 ---
 title: When Jurisdiction and Property Cease
 heading: Chapter 9
-date: 2022-07-18
+weight: 16
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

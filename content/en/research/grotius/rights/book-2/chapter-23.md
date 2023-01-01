@@ -1,7 +1,7 @@
 ---
 title: Doubtful Causes
 heading: Chapter 23
-date: 2022-06-11
+weight: 56
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"

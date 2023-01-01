@@ -2,15 +2,11 @@
 title: Freedom and Consequence
 description: We would expect that in most disputed questions since the first origin of philosophy, that the meaning of all the terms, at least, should have been agreed upon among the disputants
 image: /covers/enquiry.jpg
-# image: "https://sorasystem.sirv.com/photos/medieval/cicero.jpg"
 # date: "2020-01-01"
-date: 2020-01-24
-linkb: "/research/hume/enquiry/s8"
-linkbtext: Section 8
-linkf: "/research/hume/enquiry/s9"
-linkftext: Section 9
+weight: 1
 heading: "Section 8"
 ---
+
 
 ## Part 2
 

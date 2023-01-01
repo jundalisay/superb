@@ -1,19 +1,20 @@
 ---
 title: "General Results Of The Theory: E=mc2"
 heading: "Section 15"
-date: 2022-04-02
+weight: 24
+# date: 2022-04-02
 description: "Eistein's Relativity leads to mass-energy also being constrained by c, leading to E = mc2"
 image: "/covers/rel.jpg"
 ---
 
 
 
-Special Relativity grew out of electrodynamics and optics. It has considerably simplified the theoretical structure*. It has= 
+Special Relativity grew out of electrodynamics and optics. It has considerably simplified the theoretical structure*. It has: 
 - simplified the derivation of laws
 - considerably reduced the number of independent hypotheses which form the basis of theory
   - This is much more important
 
-> *Superphysics Note=  We argue that relativity, through Einstein's field equations, actually made Physics unecessarily complicated
+> *Superphysics Note: We argue that relativity, through Einstein's field equations, actually made Physics unecessarily complicated
 
 
 
@@ -28,7 +29,7 @@ Examples are the motions of electrons and ions. For slower motions*, the variati
 
 
 
-Relativity says that the kinetic energy of a mass `m` is no longer given by= 
+Relativity says that the kinetic energy of a mass `m` is no longer given by:
 
 ``` elixir
 m (v2/2) 
@@ -95,13 +96,13 @@ c -->
 
 Thus, the body has the same energy as a body of mass `( m + E0 / c2 )` moving with the velocity `v`.
 
-Hence we can say=  If a body takes up an amount of energy `E0`, then its inertial mass increases by an amount `E0 / c2`
+Hence: If a body takes up an amount of energy `E0`, then its inertial mass increases by an amount `E0 / c2`
 
 The inertial mass of a body is not a constant, but varies according to the change in the energy of the body. The inertial mass of a system of bodies can even be regarded as a measure of its energy. 
 
 The law of the conservation of the mass of a system becomes identical with the law of the conservation of energy. This is only valid provided that the system neither takes up nor sends out energy. 
 
-The expression for the energy is
+The expression for the energy is:
 
 ``` elixir
 (mc2 + E0) / √ 1-(v2 / c2)
@@ -122,3 +123,4 @@ A direct comparison of this relation with experiment is not possible now because
 The Faraday-Maxwell interpretation of electromagnetic convinced physicists that instantaneous actions at a distance (without an intermediary medium) do not exist under Newton’s law of gravitation. 
 
 My theory of relativity, on the other hand, says that action at a distance at the speed of light is always instantaneous as having <!-- action at a distance or of action at a distance with --> an infinite velocity. This is because of the fundamental role of the velocity `c` in my theory. 
+

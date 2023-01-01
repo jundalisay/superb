@@ -1,9 +1,9 @@
 ---
 title: "Political Parties"
-heading: "Essay 8 by David Hume Simplified"
+heading: "Essay 8"
 description: "Of all men, that distinguish themselves by memorable achievements, the first place of honour seems due to LEGISLATORS and founders of states, who transmit a system of laws and institutions to secure the peace, happiness, and liberty of future generations"
 image: /covers/essays.jpg
-date: 2020-12-16
+weight: 16
 author: David Hume
 icons: /icons/hume.png
 --- 

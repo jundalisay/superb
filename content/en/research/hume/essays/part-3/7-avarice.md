@@ -1,13 +1,11 @@
 ---
 title: "Avarice"
-heading: "Essay 7, Part 3"
+heading: "Essay 7"
 description: "Avarice"
 image: /covers/essays.jpg
-date: "2020-03-07"
-linkb: "/research/hume/essays/part-3/6-study-of-history"
-linkbtext: study-of-history
-linkf: "/research/hume/essays/part-3/9-suicide"
-linkftext: suicide
+weight: 17
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: "The Platonist"
-heading: "Essay 17 Simplified"
+heading: "Essay 17"
 description: "Some philosophers are surprised that a man differs so widely from himself at different times. He rejects with disdain what, before, was the object of all his wishes"
 image: /covers/essays.jpg
-date: 2020-11-28
+weight: 36
 author: David Hume
 icons: /icons/hume.png
 --- 

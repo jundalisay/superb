@@ -1,6 +1,7 @@
 ---
 title: Space And Geometry
-date: 2022-02-08
+heading: Chapter 4
+weight: 24
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

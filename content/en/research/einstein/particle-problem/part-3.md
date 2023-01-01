@@ -4,7 +4,8 @@ description: "As the divergence of the left side of (4) vanishes identically, th
 image: "/covers/pproblem.jpg"
 author: "Einstein and Rosen"
 image: "/covers/pproblem.jpg"
-date: 2020-01-30
+weight: 8
+# date: 2020-01-30
 ---
 
 

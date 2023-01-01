@@ -1,7 +1,8 @@
 ---
 title: "Special And General Relativity"
 heading: "Section 18"
-date: 2022-03-28
+weight: 30
+# date: 2022-03-28
 description: "For the physical description of natural processes, neither of the reference-bodies K, K' is unique (lit. 'specially marked out') as compared with the other"
 image: "/covers/rel.jpg"
 ---
@@ -10,7 +11,7 @@ image: "/covers/rel.jpg"
 
 <!-- PART II THE GENERAL THEORY OF RELATIVITY -->
 
-Special Relativity is the principle of the physical relativity of all **uniform motion**. <!-- From the point of view of the idea it conveys to us, --> Every motion must only be considered as a relative motion. In our earler train example= 
+Special Relativity is the principle of the physical relativity of all **uniform motion**. <!-- From the point of view of the idea it conveys to us, --> Every motion must only be considered as a relative motion. In our earler train example: 
 
 <!-- Returning to the illustration we have frequently used of the embankment and the railway carriage, we can express the fact of the motion here taking place in the following two forms, both of which are equally justifiable=   -->
 

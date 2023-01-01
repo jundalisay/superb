@@ -1,8 +1,8 @@
 ---
 title: The Classical Mechanics
 heading: Chapter 6
-date: 2022-01-28
-description: Science and Hypothesis
+weight: 34
+description: The English teach mechanics as an experimental science. Here on the Continent, it is taught always as a deductive and à priori science
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /icons/poincare.jpg

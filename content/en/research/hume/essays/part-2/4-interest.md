@@ -1,13 +1,11 @@
 ---
 title: "Interest"
-heading: "Essay 4, Part 1"
+heading: "Essay 4"
 description: "Interest rates show how much stock is circulating in an economy"
 image: /covers/essays.jpg
-date: 2020-01-28
-linkb: "/research/hume/essays/part-2/3-money"
-linkbtext: "Money"
-linkf: "/research/hume/essays/part-2/5-balance-of-trade"
-linkftext: "balance-of-trade"
+weight: 10
+author: David Hume
+icon: /avatars/hume.png
 --- 
 
 

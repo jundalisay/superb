@@ -1,7 +1,7 @@
 ---
 title: The Theory of Errors
 heading: Chapter 11e Part 6
-date: 2021-12-30
+weight: 66
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

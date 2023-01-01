@@ -1,7 +1,8 @@
 ---
 title: The General Nature of Dialectics
-heading: Part 2
-date: 2022-01-30
+heading: Part 4
+weight: 8
+# date: 2022-01-30
 image: "/covers/nature.jpg"
 description: Dialectics of Nature
 author: "Frederick Engels"

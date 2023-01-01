@@ -1,7 +1,8 @@
 ---
 title: "The Behaviour Of Measuring–rods And Clocks In Motion"
 heading: "Section 12"
-date: 2022-04-08
+weight: 20
+# date: 2022-04-08
 description: "Einstein uses the Lorentz Transformation to show time dilation and length contraction"
 image: "/covers/rel.jpg"
 ---
@@ -12,7 +13,7 @@ I place a metre-rod in the x'-axis of moving `K'` in a way that its beginning co
 
 What is the length of the metre rod relative to the non-moving `K`? 
 
-This is answered by asking where the beginning and end of the rod lie with respect to non-moving `K` at a time `t` of non-moving `K`. The first equation of the Lorentz transformation shows that the values of these two points at the time `t = 0` is= 
+This is answered by asking where the beginning and end of the rod lie with respect to non-moving `K` at a time `t` of non-moving `K`. The first equation of the Lorentz transformation shows that the values of these two points at the time `t = 0` is:
 
 ``` elixir
 x (beginning of rod) = 0 √ (1 − (v2/c2) 
@@ -26,7 +27,7 @@ the distance between the points being=
 √ (1-(v2/c2))
 ```
 
-But the metre-rod is moving with the velocity `v` relative to non-moving `K`. It therefore follows that the length of a rigid metre-rod moving in the direction of its length with a velocity `v` is= 
+But the metre-rod is moving with the velocity `v` relative to non-moving `K`. It therefore follows that the length of a rigid metre-rod moving in the direction of its length with a velocity `v` is:
 
 ``` elixir
 √1 − (v2/c2) 
@@ -34,7 +35,7 @@ But the metre-rod is moving with the velocity `v` relative to non-moving `K`. It
 
 of a metre.
 
-The rigid rod is thus shorter when in motion than when at rest, and the more quickly it is moving, the shorter is the rod. For the velocity `v = c`  we should have= 
+The rigid rod is thus shorter when in motion than when at rest, and the more quickly it is moving, the shorter is the rod. For the velocity `v = c`  we should have:
 
 ``` elixir
 √ (1 − (v2/c2)) = 0

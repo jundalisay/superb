@@ -1,7 +1,7 @@
 ---
 title: Import Taxes and Fees
 heading: Chapter 2c
-date: 2022-07-24
+weight: 10
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

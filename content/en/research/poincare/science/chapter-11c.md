@@ -1,71 +1,73 @@
-## III. Probability in the Physical Sciences
+---
+title: Probability in the Physical Sciences
+heading: Chapter 11c Part 3
+weight: 62
+description: Science and Hypothesis
+image: "/covers/hyp.jpg"
+author: "H. Poincare"
+icon: /icons/poincare.jpg
+---
 
-We now come to the problems which are connected with what
-I have called the second degree of ignorance—namely, those in which we know the law but do not know the ini-
-tial state of the system. 
 
-I could multiply examples, but
-I shall take only one. What is the probable present dis-
-tribution of the minor planets on the zodiac? We know
-they obey the laws of Kepler. We may even, without
-changing the nature of the problem, suppose that their
-orbits are circular and situated in the same plane, a plane
-which we are given. On the other hand, we know abso-
-lutely nothing about their initial distribution. However,
-we do not hesitate to affirm that this distribution is now
-nearly uniform. Why? Let b be the longitude of a minorthe calculus of probabilities.
-219
-planet in the initial epoch—that is to say, the epoch zero.
-Let a be its mean motion. Its longitude at the present
-time—i.e., at the time t will be at + b. To say that the
-present distribution is uniform is to say that the mean
-value of the sines and cosines of multiples of at + b is
-zero. Why do we assert this? Let us represent our minor
-planet by a point in a plane—namely, the point whose
-co-ordinates are a and b. All these representative points
-will be contained in a certain region of the plane, but
-as they are very numerous this region will appear dotted
-with points. We know nothing else about the distribu-
-tion of the points. Now what do we do when we apply
-the calculus of probabilities to such a question as this?
-What is the probability that one or more representative
-points may be found in a certain portion of the plane?
-In our ignorance we are compelled to make an arbitrary
-hypothesis. To explain the nature of this hypothesis I
-may be allowed to use, instead of a mathematical for-
+
+I define the "second degree of ignorance" as us knowing the law, but not knowing the initial state of the system. 
+
+An example is: What is the probable present distribution of the minor planets on the zodiac? 
+
+We know they obey the laws of Kepler. 
+
+We may even, without changing the nature of the problem, suppose that their orbits are circular and situated in the same plane, a plane which we are given. On the other hand, we know absolutely nothing about their initial distribution. 
+
+However, we do not hesitate to affirm that this distribution is now nearly uniform. Why? 
+
+Let `b` be the longitude of a minor planet in the initial epoch—that is to say, the epoch zero.
+
+Let `a` be its mean motion. Its longitude at the present time—i.e., at the time t will be at + b. 
+
+To say that the  present distribution is uniform is to say that the mean value of the sines and cosines of multiples of at + b is zero. 
+
+Why do we assert this? 
+
+Let us represent our minor planet by a point in a plane—namely, the point whose co-ordinates are a and b. All these representative points will be contained in a certain region of the plane, but as they are very numerous this region will appear dotted
+with points. We know nothing else about the distribution of the points. 
+
+Now what do we do when we apply the calculus of probabilities to such a question as this?
+
+What is the probability that one or more representative points may be found in a certain portion of the plane?
+
+In our ignorance we are compelled to make an arbitrary hypothesis. 
+
+To explain the nature of this hypothesis I may be allowed to use, instead of a mathematical for-
 mula, a crude but concrete image. Let us suppose that
 over the surface of our plane has been spread imaginary
 matter, the density of which is variable, but varies con-
 tinuously. We shall then agree to say that the probable
 number of representative points to be found on a cer-
-tain portion of the plane is proportional to the quantityscience and hypothesis
-220
-of this imaginary matter which is found there. If there
-are, then, two regions of the plane of the same extent,
-the probabilities that a representative point of one of our
-minor planets is in one or other of these regions will be
-as the mean densities of the imaginary matter in one or
-other of the regions. Here then are two distributions, one
-real, in which the representative points are very numer-
+tain portion of the plane is proportional to the quantity of this imaginary matter which is found there. 
+
+If there are, then, two regions of the plane of the same extent, the probabilities that a representative point of one of our
+minor planets is in one or other of these regions will be as the mean densities of the imaginary matter in one or
+other of the regions. 
+
+Here then are two distributions, one real, in which the representative points are very numer-
 ous, very close together, but discrete like the molecules of
 matter in the atomic hypothesis; the other remote from
 reality, in which our representative points are replaced by
 imaginary continuous matter. We know that the latter
 cannot be real, but we are forced to adopt it through our
-ignorance. If, again, we had some idea of the real distri-
-bution of the representative points, we could arrange it so
-that in a region of some extent the density of this imag-
-inary continuous matter may be nearly proportional to
+ignorance. If, again, we had some idea of the real distribution of the representative points, we could arrange it so
+that in a region of some extent the density of this imaginary continuous matter may be nearly proportional to
 the number of representative points, or, if it is preferred,
-to the number of atoms which are contained in that re-
-gion. Even that is impossible, and our ignorance is so
-great that we are forced to choose arbitrarily the func-
-tion which defines the density of our imaginary matter.
-We shall be compelled to adopt a hypothesis from which
-we can hardly get away; we shall suppose that this func-
-tion is continuous. That is sufficient, as we shall see, tothe calculus of probabilities.
-221
+to the number of atoms which are contained in that region. 
+
+Even that is impossible, and our ignorance is so great that we are forced to choose arbitrarily the function which defines the density of our imaginary matter.
+
+We shall be compelled to adopt a hypothesis from which we can hardly get away; we shall suppose that this function is continuous. 
+
+That is sufficient, as we shall see, tothe calculus of probabilities.
+
 enable us to reach our conclusion.
+
 What is at the instant t the probable distribution of
 the minor planets—or rather, what is the mean value
 of the sine of the longitude at the moment t—i.e., of

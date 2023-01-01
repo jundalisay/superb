@@ -1,9 +1,9 @@
 ---
 title: "The Skeptic"
-heading: "Essay 18 Simplified"
+heading: "Essay 18"
 description: "Skeptic"
 image: /covers/essays.jpg
-date: 2020-11-24
+weight: 38
 author: David Hume
 icons: /icons/hume.png
 --- 

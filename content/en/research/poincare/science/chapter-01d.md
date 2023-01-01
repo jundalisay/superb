@@ -1,6 +1,7 @@
 ---
 title: Proof By Recurrence
-date: 2022-02-24
+heading: Chapter 1d
+weight: 8
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

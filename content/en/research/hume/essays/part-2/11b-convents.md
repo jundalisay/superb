@@ -1,13 +1,11 @@
 ---
 title: "Convents and Orphanages as Population Control"
-heading: "Essay 11b Part 2"
+heading: "Essay 11b"
 description: "Convents and Orphanages were thought of as Population Control"
 image: /covers/essays.jpg
-date: "2020-02-11"
-linkb: "/research/hume/essays/part-2/11-ancient-population-size"
-linkbtext: Ancient-population-size
-linkf: "/research/hume/essays/part-2/12-original-contract"
-linkftext: "original-contract"
+weight: 26
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

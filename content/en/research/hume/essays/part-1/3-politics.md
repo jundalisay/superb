@@ -1,9 +1,9 @@
 ---
 title: "Politics May Be Reduced To a Science"
-heading: "Essay 3 by David Hume"
+heading: "Essay 3"
 description: "It is wrong to say that all governments are alike, and that their only difference is in the character and conduct of the governors. If this were true, then most political disputes would end and there would be just one constitution for all"
 image: /covers/essays.jpg
-date: 2020-12-26
+weight: 6
 author: David Hume
 icon: /icons/hume.png
 --- 

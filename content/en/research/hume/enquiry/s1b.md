@@ -3,11 +3,7 @@ title: The Importance of Metaphysics Research
 heading: "Section 1b"
 description: Hume explains the Importance of Metaphysics Research
 image: /covers/enquiry.jpg
-date: 2020-01-31
-linkb: "/research/hume/enquiry/s1"
-linkbtext: "Section 1"
-linkf: "/research/hume/enquiry/s2"
-linkftext: "Section 2"
+weight: 1
 --- 
 
 <!-- 6, -->

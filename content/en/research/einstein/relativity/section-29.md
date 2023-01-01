@@ -1,7 +1,8 @@
 ---
 title: "The Solution Of The Problem Of Gravitation On The Basis Of General Relativity"
 heading: "Section 29"
-date: 2022-03-06
+# date: 2022-03-06
+weight: 52
 description: "Einstein explains how gravity works in General Relativity"
 image: "/covers/rel.jpg"
 ---
@@ -30,7 +31,7 @@ The next step is to investigate the space-time behaviour of the gravitational fi
 - This behaviour is formulated in a law, which is always valid, no matter how the reference-body (mollusk) used in the description may be chosen.
 - This law is not yet the general law of the gravitational field, since the gravitational field under consideration is of a special kind.
 
-In order to find out the general law-of-field of gravitation, we still need to generalize this new law of gravity= 
+In order to find out the general law-of-field of gravitation, we still need to generalize this new law of gravity: 
 <!-- This can be obtained by taking into consideration the following demands=  -->
 
 1. The required generalisation must likewise satisfy GR
@@ -73,7 +74,7 @@ However, this is not true for Mercury, lying nearest the sun.
 
 This deduction, which can be tested with great accuracy, has been confirmed for all the planets save one, with the precision that is capable of being obtained by the delicacy of observation attainable at the present time.  -->
 
-Since Leverrier's time, Mercury's ellipse <!-- has been corrected for the two influences mentioned above. It --> was found not stationary with respect to the sun. Instead, it rotates slowly as a "precession"= 
+Since Leverrier's time, Mercury's ellipse <!-- has been corrected for the two influences mentioned above. It --> was found not stationary with respect to the sun. Instead, it rotates slowly as a "precession":
 - in the plane of the orbit and
 - in the sense of the orbital motion. 
 
@@ -95,3 +96,4 @@ Apart from this one, GR allows only two deductions which can be tested by observ
 - a displacement of the spectral lines of light reaching us from large stars, as compared with the corresponding lines for light produced in an analogous manner terrestrially (i.e. by the same kind of molecule * ). 
 
 These deductions from the theory will be confirmed also.
+

@@ -6,12 +6,3 @@ image: /covers/smith.jpg
 # date: 2022-04-23
 weight: 96
 ---
-
-<!-- 
-heading=  "built on David Hume's sympathy-based moral system and labor-based economic system"
-date=  "2022-01-29"
-description=  ""
-# -- Moral system in the Theory of Moral Sentiments, Justice and Political system in the unfinished Lectures of Jurisprudence which makes up our Supersociology, Economic system in the Wealth of Nations which makes up Pantrynomics"
-image=  "/covers/smith.jpg"
-+++
- -->

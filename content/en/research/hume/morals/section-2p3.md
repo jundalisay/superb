@@ -1,14 +1,10 @@
 ---
-heading: "Section 2b of An Enquiry Concerning the Principles of Morals Simplified"
+heading: "Section 2b "
 title: "Property"
 description: "The good of mankind is the only object of all the laws of justice. Men's possessions should be separated for the peace and interest of society"
 image: /covers/morals.jpg
 # image: "https://sorasystem.sirv.com/photos/medieval/cicero.jpg"
-date: 2020-01-22
-linkb: "/research/hume/morals"
-linkbtext: Index
-linkf: "/research/hume/morals"
-linkftext: Index
+weight: 1
 ---
 
 

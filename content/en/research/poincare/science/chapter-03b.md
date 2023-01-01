@@ -1,6 +1,7 @@
 ---
 title: Interpretation of Non-Euclidean Geometries
-date: 2022-02-12
+heading: Chapter 3b
+weight: 20
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
@@ -11,20 +12,23 @@ icon: /icons/poincare.jpg
 
 ## Thusnon-euclidean geometries.
 
-vanishes the objection so far as two-dimensional geometries are concerned. It would be easy to extend Beltrami’s reasoning to three-dimensional geometries, and minds which do not recoil before space of 4 dimensions will see no difficulty in it; but such minds are few in number. 
+vanishes the objection so far as two-dimensional geometries are concerned. 
 
-I prefer, then, to proceed otherwise. Let us consider a certain plane, which I shall call the fundamental plane, and let us construct a kind of dictionary by making a double series of terms written in two columns, and corresponding each to each, just as in ordinary dictionaries the words in 2 languages which have the same signification correspond to one another:
+It would be easy to extend Beltrami’s reasoning to three-dimensional geometries. Minds which do not recoil before space of 4 dimensions will see no difficulty in it. But such minds are few in number. 
 
-Space .............. The portion of space situated
-above the fundamental plane.
-Plane .............. Sphere cutting orthogonally
-the fundamental plane.
-Line ...............
-Circle cutting orthogonally the
-fundamental plane.
-Sphere ............. Sphere.
-Circle .............. Circle.
-Angle .............. Angle.science and hypothesis
+I prefer, then, to proceed otherwise. 
+
+Let us consider a "fundamental plane"and a dictionary that has a double series of terms written in 2 columns, and corresponding each to each, just as in ordinary dictionaries the words in 2 languages which have the same signification correspond to one another:
+
+
+Term | Definition
+--- | ---
+Space | The portion of space situated above the fundamental plane.
+Plane | Sphere cutting orthogonally the fundamental plane.
+Line | Circle cutting orthogonally the fundamental plane.
+Sphere | Sphere.
+Circle |  Circle.
+Angle |  Angle 
 Distance between two
 points . . . . . . . . . .
 
@@ -36,7 +40,7 @@ ting it orthogonally.
 Etc. . . . . . . . . . . . . . . . . Etc.
 
 
-Let us now take Lobatschewsky’s theorems and translate them by the aid of this dictionary, as we would translate a German text with the aid of a German-French dictionary. 
+Let us now take Lobatschewsky’s theorems and translate them by the aid of this dictionary just as we would translate a German text with the aid of a German-French dictionary. 
 
 We shall then obtain the theorems of ordinary geometry. For instance, Lobatschewsky’s theorem: “The
 sum of the angles of a triangle is less than two right angles,” may be translated thus: “If a curvilinear triangle has for its sides arcs of circles which if produced would cut orthogonally the fundamental plane, the sum of the angles of this curvilinear triangle will be less than

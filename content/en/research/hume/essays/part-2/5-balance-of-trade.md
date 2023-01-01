@@ -1,14 +1,13 @@
 ---
 title: "The Balance Of Trade"
-heading: "Essay 5, Part 2"
-description: "The Balance Of Trade"
+heading: "Essay 5"
+description: "The Balance Of Trade Simplified"
 image: /covers/essays.jpg
-date: 2020-01-27
-linkb: "/research/hume/essays/part-2/4-interest"
-linkbtext: "Interest"
-linkf: "/research/hume/essays/part-2/6-jealousy-of-trade"
-linkftext: "jealousy-of-trade"
+weight: 12
+author: David Hume
+icon: /avatars/hume.png
 --- 
+
 
 
 ## Export Bans

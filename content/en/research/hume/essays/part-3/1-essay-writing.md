@@ -1,14 +1,13 @@
 ---
 title: "Essay Writing"
-heading: "Essay 1, Part 3"
+heading: "Essay 1"
 description: "The elegant people who are not immersed in the animal Life, employ themselves in the Operations of the Mind"
 image: /covers/essays.jpg
-date: "2020-03-01"
-linkb: "/research/hume/essays/part-2"
-linkbtext: Part 2
-linkf: "/research/hume/essays/part-3/2-moral-prejudice"
-linkftext: "Moral Prejudice"
+weight: 4
+author: David Hume
+icon: /avatars/hume.png
 ---
+
 
 The elegant people who are not immersed in the animal Life, employ themselves in the Operations of the Mind. They may be divided into:
 
@@ -18,12 +17,12 @@ These have chosen the higher and more difficult Operations of the Mind, which re
 
 > the conversible 
 
-These join to 
+These join to:
 - a sociable disposition, and 
 - a taste of pleasure, 
 - an inclination to the easier and more gentle exercises of the understanding, 
 
-with
+with:
 - to obvious reflections on human affairs, and 
 - the duties of common life, and 
 - to the observation of the blemishes or perfections of the particular objects, that surround them. 

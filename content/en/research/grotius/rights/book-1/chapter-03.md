@@ -1,7 +1,7 @@
 ---
 title: The Division of War Into Public and Private and the Nature of Sovereign Power
 heading: Chapter 3
-date: 2022-07-20
+weight: 16
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

@@ -1,7 +1,7 @@
 ---
 title: The Fourth Geometry
-heading: Chapter 3b
-date: 2022-02-10
+heading: Chapter 3c
+weight: 22
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

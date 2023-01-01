@@ -1,9 +1,9 @@
 ---
 title: The Lawfulness of War
 heading: Chapter 2b
-date: 2022-07-24
+weight: 10
 image: /covers/warpeace.jpg
-description: 
+description: A greater difficulty occurs respecting the divine voluntary law
 author: "Hugo Grotius"
 ---
 

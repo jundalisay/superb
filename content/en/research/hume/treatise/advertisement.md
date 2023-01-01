@@ -1,6 +1,6 @@
 ---
 title: "Advertisement"
-date: 2020-06-16
+weight: 1
 description: "Advertisement Treatise of Human Nature"
 image: "/covers/treatise.jpg"
 author: David Hume

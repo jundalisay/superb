@@ -2,7 +2,8 @@
 title: Labour and Speech
 heading: Part 2
 # Dialectics of Nature
-date: 2022-01-31
+# date: 2022-01-31
+weight: 4
 description: Dialectics of Nature
 author: "Frederick Engels"
 image: "/covers/nature.jpg"

@@ -1,7 +1,7 @@
 ---
 title: Rouge et Noir
 heading: Chapter 11d (4)
-date: 2021-12-31
+weight: 64
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

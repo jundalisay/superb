@@ -185,7 +185,7 @@ Superphysics is then split up into three, based on a perception's relation to th
 
 3. [Social Superphysics](/social) — This is based on the soul of society as a collection of individual souls. It aims to solve problems that economics and political science cannot, such as recessions, inequality, revolutions, etc. This is derived from Book 3
   - Supersociology is the subset that deals with socio-political principles and is based on Socrates and Ibn Khaldun
-  - Pantrynomics deals with economic principles and is based on Adam Smith
+  - Supereconomics deals with economic principles and is based on Adam Smith
 
 
 <!-- <br>

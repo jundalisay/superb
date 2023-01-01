@@ -2,7 +2,8 @@
 title: The Part played by Labour in the Transition from Ape to Man
 heading: Part 1
 # Dialectics of Nature
-date: 2022-01-31
+weight: 2
+# date: 2022-01-31
 description: Dialectics of Nature
 author: "Frederick Engels"
 image: "/covers/nature.jpg"

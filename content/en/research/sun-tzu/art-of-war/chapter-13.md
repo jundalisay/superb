@@ -3,6 +3,7 @@ title: "The Use of Spies"
 image: "/covers/war.jpg"
 description: "The Ground Book"
 heading: "Chapter 3"
+weight: 26
 ---
 
 
@@ -34,7 +35,7 @@ Doomed | allowing their spies to know of certain actions of ours to report them 
 Surviving | those who bring back news from the enemy's camp
 
 
-When these five kinds of spy are all at work, none can discover the secret system. This is called "divine manipulation of the threads." **It is the sovereign's most precious faculty.**
+When these 5 kinds of spy are all at work, none can discover the secret system. This is called "divine manipulation of the threads." **It is the sovereign's most precious faculty.**
 
 Of the whole army, the general should have the most intimate relations with spies. The spies should be most liberally rewarded. They should preserve the greatest secrecy. 
 

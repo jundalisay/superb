@@ -1,13 +1,9 @@
 ---
 heading: "Section 1"
 title: "The Origin of Our Ideas"
-date: 2022-04-30
+weight: 1
 image: /covers/treatise.jpg
 description: ""
-linkb: "/research/hume/treatise/book-1/part-4"
-linkbtext: "Index"
-linkf: "/research/hume/treatise/book-1/part-4"
-linkftext: "Index"
 author: David Hume
 icon: /icons/hume.png
 ---

@@ -1,9 +1,9 @@
 ---
 title: Empire Over the Conquered
 heading: Chapter 8
-date: 2022-07-29
+weight: 24
 image: /covers/warpeace.jpg
-description: 
+description: If individuals can reduce each other to subjection, it is not surprising that states can do the same, and by this means acquire a civil, absolute, or mixed, dominion
 author: "Hugo Grotius"
 ---
 

@@ -1,23 +1,19 @@
+---
+heading: Chapter 2
+title: "Systems Which Make Reason the Principle of Approbation"
+weight: 4
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "When Hobbes started this controversy, reason was thought the only source for the ideas of right and wrong. It became the popular doctrine that the essence of virtue and vice consisted in their conformity or disagreement with reason"
+---
 
 
 
-
-
-+++
-title=  "Systems Which Make Reason the Principle of Approbation"
-heading=  "Chapter 2"
-description=  "When Mr. Hobbes started this controversy, reason was thought the only source for the ideas of right and wrong. It became the popular doctrine that the essence of virtue and vice consisted in their conformity or disagreement with reason"
-date=  2015-09-29
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-7/section-3/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/smith/theory-moral-sentiments/part-7/section-3/chapter-3"
-linkftext=  "Chapter 3"
-+++
 
 ### Hobbes' Doctrine
 
-8 Mr. Hobbes' doctrine is that= 
+{{< s v="8" >}} Hobbes' doctrine is that:
 - a state of nature is a state of war
 - before civil government was created, there could be no peaceful society
 

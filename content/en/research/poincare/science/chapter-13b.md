@@ -1,7 +1,7 @@
 ---
 title: Helmholtz’s Theory
 heading: Chapter 13b
-date: 2021-12-20
+weight: 74
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

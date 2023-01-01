@@ -1,8 +1,8 @@
 ---
 title: "Space And Time In Classical Mechanics"
 heading: "Section 3"
-date: 2022-04-26
-linkTitle: "EPR Paradox"
+# date: 2022-04-26
+weight: 8
 description: "All trajectories or movements depend on a viewpoint"
 image: "/covers/rel.jpg"
 ---

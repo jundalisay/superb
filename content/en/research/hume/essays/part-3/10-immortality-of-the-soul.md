@@ -1,13 +1,9 @@
 ---
 title: "The Immortality Of The Soul"
-heading: "Essay 10, Part 3"
+heading: "Essay 10"
 description: "The Three arguments for the immortality of the soul"
 image: /covers/essays.jpg
-date: "2020-03-10"
-linkb: "/research/hume/essays/part-3/9-suicide"
-linkbtext: Suicide
-linkf: "/research/hume/essays/"
-linkftext: "Home"
+weight: 10"
 ---
 
 
@@ -103,7 +99,13 @@ Their bodies do not resemble. Yet no one rejects the arguments drawn from compar
 
 Every being, however seemingly firm, is in continual flux and change. The world itself gives symptoms of frailty and dissolution. How contrary to analogy, therefore, to imagine, that one single form, seemingly the frailest of any, and from the slightest causes, subject, to the greatest disorders, is immortal and indissoluble? 
 
-What a daring theory is that! How to dispose of the infinite number of posthumous existences should embarrass the religious theory. Every planet, in every solar system, we are at liberty to imagine peopled with intelligent, mortal beings. At least, we can fix on no other supposition. For these, then, a new universe must, every generation, be created, beyond the bounds of the present universe or one must have been created at first so prodigiously wide as to admit of this continual influx of beings. 
+What a daring theory is that! 
+
+How to dispose of the infinite number of posthumous existences should embarrass the religious theory. 
+
+Every planet, in every solar system, we are at liberty to imagine peopled with intelligent, mortal beings. 
+
+At least, we can fix on no other supposition. For these, then, a new universe must, every generation, be created, beyond the bounds of the present universe or one must have been created at first so prodigiously wide as to admit of this continual influx of beings. 
 
 Should such bold suppositions be received by any philosophy merely because it is possible? 
 
@@ -111,11 +113,17 @@ When it is asked, whether Agamemnon, Thersites, Hannibal, Nero, and every stupid
 
 The lack of arguments, without revelation, sufficiently establishes the negative. Pliny says "Quanto facilius certiusque sibi quemque credere, ac specimen securitatis antigenitali sumere experimento." 
 
-Our insensibility, before the composition of the body, seems to natural reason a proof of a like state after its dissolution. Were our horror of annihilation an original passion, not the effect of our general love of happiness, it would rather prove the mortality of the soul. For as nature does nothing in vain, she would never give us a horror against an impossible event. 
+Our insensibility, before the composition of the body, seems to natural reason a proof of a like state after its dissolution. 
+
+If the horror of annihilation were an original passion, and not the effect of our general love of happiness, it would prove the mortality of the soul. 
+
+For as nature does nothing in vain, she would never give us a horror against an impossible event. 
 
 She may give us a horror against an unavoidable event, provided our endeavours, as in the present case, may often remove it to some distance. Death is in the end unavoidable. 
 
-Yet the human species could not be preserved, had not nature inspired us with an aversion of death. All doctrines are to be suspected, which are favoured by our passions. And the hopes and fears which give rise to this doctrine, are very obvious. It 
+Yet the human species could not be preserved, had not nature inspired us with an aversion of death. 
+
+All doctrines are to be suspected, which are favoured by our passions. And the hopes and fears which give rise to this doctrine, are very obvious. It 
 
 is an infinite advantage in every controversy, to defend the negative. If the question be out of the common experienced course of nature, this circumstance is almost, if not altogether, decisive. 
 
@@ -128,3 +136,4 @@ It needs:
 - some new faculties of the mind to enable us to comprehend that logic. 
 
 Nothing could set in a fuller light the infinite obligations, which mankind have to divine revelation; since we find, that no other medium could ascertain this great and important truth.
+

@@ -1,21 +1,19 @@
-+++
-title       = "Some Farther Considerations With Regard To Justice"
-description = "Section 1 of An Enquiry Concerning the Principles of Morals Simplified"
-date        = "2020-06-16"
-banner      = "/covers/morals.jpg"
-author      = "David Hume"
-# keywords    = ["documentation"]
-linkTitle   = "Appendix 4"
-tags        = []
-categories  = []
-linkb = "/research/hume/morals"
-linkbtext = "Index"
-linkf = "/research/hume/morals/section-2"
-linkftext = "Section 2"
-+++
+---
+title: "Some Farther Considerations With Regard To Justice"
+heading: "Section 1"
+description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
+image: /covers/morals.jpg
+weight: 26
+author: David Hume
+icons: /icons/hume.png
+date:   "2020-06-16"
+--- 
 
 
-The intention of this Appendix is to give some more particular explication of the origin and nature of Justice, and to mark some differences between it and the other virtues.
+
+This Appendix:
+- explains the origin and nature of Justice
+- marks some differences between it and the other virtues.
 
 The social virtues of humanity and benevolence exert their influence immediately by a direct tendency or instinct, which chiefly keeps in view the simple object, moving the affections, and comprehends not any scheme or system, nor the consequences resulting from the concurrence, imitation, or example of others. 
 

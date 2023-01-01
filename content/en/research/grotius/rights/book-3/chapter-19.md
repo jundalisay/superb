@@ -1,17 +1,20 @@
 ---
 title: Good Faith Between Enemies
 heading: Chapter 19
-date: 2022-07-29
+weight: 36
 image: /covers/warpeace.jpg
-description: 
+description:  It was before said that the number and extent of actions, lawful in war, may be considered either upon their own intrinsic merits, or as rising out of some antecedent engagement
+
 author: "Hugo Grotius"
 ---
 
 
 
-Good faith due to enemies of every description—Due even to pirates, and others of the same kind, in all treaties with them—A promise given to them, binding, when not extorted by fear—Oaths to be inviolably observed—The law of nations does not allow fear to be alleged as an exception to the above rules—Good faith to be observed even to a treacherous enemy—This obligation ceases, where one of the parties violates his engagements—Or refuses a just compensation—Even where the obligation arose from a different contract—From loss occasioned—Or from a penalty—Application of these principles to war.
+<!-- Good faith due to enemies of every description—Due even to pirates, and others of the same kind, in all treaties with them—A promise given to them, binding, when not extorted by fear—Oaths to be inviolably observed—The law of nations does not allow fear to be alleged as an exception to the above rules—Good faith to be observed even to a treacherous enemy—This obligation ceases, where one of the parties violates his engagements—Or refuses a just compensation—Even where the obligation arose from a different contract—From loss occasioned—Or from a penalty—Application of these principles to war. -->
 
-I. It was before said that the number and extent of actions, lawful in war, may be considered either upon their own intrinsic merits, or as rising out of some antecedent engagement. The former point having before been fully explained, this is the proper place for discussing the latter, which comprehends the good faith of enemies towards each other.
+I. 
+
+It was before said that the number and extent of actions, lawful in war, may be considered either upon their own intrinsic merits, or as rising out of some antecedent engagement. The former point having before been fully explained, this is the proper place for discussing the latter, which comprehends the good faith of enemies towards each other.
 
 Cicero, in his fifth book on the bounds of good and evil, has well observed that every one must approve and commend a disposition to adhere faithfully to our engagements not only from disinterested motives, but in some cases even in opposition to our own interest. And Augustine says that it is right to maintain the pledge of faith given to an enemy, for under the character of enemies men do not lose their right to the fulfilment of a promise, a right which every one possessed of reason is capable of. It is the power of reason and speech from which the obligation of promises springs. Nor is it to be supposed that, because it is lawful to deceive an enemy on some occasions, the same rule will authorise a violation of faith in engagements. For the obligation to speak the truth arises from causes antecedent in their existence to any state of warfare, and they are causes which a state of warfare may render it necessary to change or abridge. But a promise confers a new right of itself. A distinction which did not escape the notice of Aristotle, who,380 in speaking of truth, says that he does not consider truth and sincerity in engagements, with relation to justice or injustice, but as belonging to another class of virtues.
 

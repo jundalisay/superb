@@ -3,7 +3,8 @@ title: "The Delicacy of Taste and Passion [Sensitive People]"
 heading: "Essay 1"
 description: "Some people are extremely sensitive to all the accidents of life. It gives them joy on every prosperous event, as well as grief on misfortunes and adversity"
 image: /covers/essays.jpg
-date: 2020-12-31
+# datez:2020-12-31
+weight: 2
 author: David Hume
 icon: /icons/hume.png
 --- 

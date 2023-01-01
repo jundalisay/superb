@@ -1,9 +1,9 @@
 ---
 title: "British Political Parties"
-heading: "Essay 9 Simplified"
+heading: "Essay 9"
 description: "British Political Parties"
 image: /covers/essays.jpg
-date: 2020-12-14
+weight: 18
 author: David Hume
 icons: /icons/hume.png
 --- 

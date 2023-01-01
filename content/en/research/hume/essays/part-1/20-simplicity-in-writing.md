@@ -1,9 +1,10 @@
 ---
 title: "Simplicity And Refinement In Writing"
-heading: "Essay 20 (Part 1)"
-description: "Simplicity And Refinement In Writing"
-image: "/photos/econ/writer.jpg"
-date: 2020-11-18
+heading: "Essay 20"
+description: "Simplicity And Refinement In Writing Simplified"
+# image: "/photos/econ/writer.jpg"
+image: /covers/essays.jpg
+weight: 44
 author: David Hume
 icons: /icons/hume.png
 --- 

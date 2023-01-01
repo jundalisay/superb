@@ -1,18 +1,15 @@
-+++
-title       = "Appendix 1=  Moral Sentiments"
-description = "Section 1 of An Enquiry Concerning the Principles of Morals Simplified"
-date        = "2022-01-31"
-banner 		= "/covers/morals.jpg"
-author      = "David Hume"
-# keywords    = ["documentation"]
-linkTitle   = "Appendix 1"
-tags        = []
-categories  = []
-linkb = "/research/hume/morals/section-9p2"
-linkbtext = "Section 9 Part 2"
-linkf = "/research/hume/morals/appendix-2"
-linkftext = "Appendix 2"
-+++
+---
+title: "Moral Sentiments"
+heading: "Appendix 1"
+description: "The Difference in the feelings of the ancients and modersn lead to their differences in eloquence"
+image: /covers/morals.jpg
+weight: 26
+author: David Hume
+icons: /icons/hume.png
+--- 
+
+
+<!-- date        = "2022-01-31" -->
 
 
 

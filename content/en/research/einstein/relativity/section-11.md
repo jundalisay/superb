@@ -1,13 +1,14 @@
 ---
 title: "The Lorentz Transformation"
 heading: "Section 11"
-date: 2022-04-10
+weight: 19
+# date: 2022-04-10
 description: "Einstein implements his c constant, relativity of time and space and moving viewpoints together as the Lorentz Transformation"
 image: "/covers/rel.jpg"
 ---
 
 
-Sections 8-10 show that the apparent incompatibility of the law of propagation of light with the principle of relativity (Section 7) arises from two unjustifiable hypotheses from classical mechanics= 
+Sections 8-10 show that the apparent incompatibility of the law of propagation of light with the principle of relativity (Section 7) arises from two unjustifiable hypotheses from classical mechanics:
 
 1. The time-interval (time) between two events is independent of <!-- the condition of motion of --> the body of reference
 
@@ -17,7 +18,7 @@ If we drop those two, then the dilemma of Section 7 disappears, because the addi
 
 
 
-> *Superphysics Note=  Here, Einstein "solves" the inconsistencies in his Theory of Relativity by creating the idea of a spacetime unity that is different from the separated Newtonian spacetime. In reality, his spacetime is merely Galilean spacetime of the material layer glued together by the light of the Electromagnetic layer. Galilean transformation allows the addition of velocities through the standard of matter, while the Lorentz transformation allows a relativistic 'addition' through the standard of light. In a nutshell, the Lorentz transformation 
+> *Superphysics Note: Here, Einstein "solves" the inconsistencies in his Theory of Relativity by creating the idea of a spacetime unity that is different from the separated Newtonian spacetime. In reality, his spacetime is merely Galilean spacetime of the material layer glued together by the light of the Electromagnetic layer. Galilean transformation allows the addition of velocities through the standard of matter, while the Lorentz transformation allows a relativistic 'addition' through the standard of light. In a nutshell, the Lorentz transformation 
 
 
 <!--  spacetime of electromagnetism is different from the spacetime of matter.  
@@ -46,11 +47,11 @@ We can ignore the continual interference of these two viewpoints with each other
 
 ![Moving train relativity](/graphics/physics/trans.png)
 
-Relative to the non-moving `K`, an event would be= 
+Relative to the non-moving `K`, an event would be:
 - fixed in space with respect to non-moving `K` by the three perpendiculars `x, y, z` showing its coordinates
 - fixed in time by a time-value `t`
 
-Relative to moving `K'`, the same event would be= 
+Relative to moving `K'`, the same event would be:
 - fixed in space and time by corresponding values `x', y', z', t'`. These are different from `x, y, z, t`.
 
 <!-- These magnitudes are results of physical measurements.  -->
@@ -60,7 +61,7 @@ What are the values `x', y', z', t'` of an event with respect to the moving `K'`
 
 ## Lorentz Transformation
 
-The relations must be so chosen that the law of the transmission of light in a vacuum is satisfied for lightrays with respect to `K` and `K'`. <!-- For the relative orientation in space of the co-ordinate systems indicated in the diagram (Fig. 2), this problem --> This is solved by equations known as the “Lorentz transformation.*”= 
+The relations must be so chosen that the law of the transmission of light in a vacuum is satisfied for lightrays with respect to `K` and `K'`. <!-- For the relative orientation in space of the co-ordinate systems indicated in the diagram (Fig. 2), this problem --> This is solved by equations known as the “Lorentz transformation.*”:
 
 
 ``` elixir
@@ -81,7 +82,7 @@ t' = (t-(v/c2))x) / √(1-v2/c2
 
 ## Galileo Transformation
 
-If we used instead the Classical mechanics [Section 9?] wherein space and time were absolute, then the equations would be=  
+If we used instead the Classical mechanics [Section 9?] wherein space and time were absolute, then the equations would be:
 
 <!--  in place of the law of transmission of light we had taken as our basis the tacit assumptions of the older mechanics as to the absolute character of times and lengths, then instead of the above we should have obtained the following equations=  -->
 

@@ -1,14 +1,13 @@
 ---
 title: "Faulty Ancient Records"
-heading: "Essay 11e Part 2"
+heading: "Essay 11e"
 description: "The populousness of the Ancients is due to wrong record-keeping"
 image: /covers/essays.jpg
-date: "2020-02-11"
-linkb: "/research/hume/essays/part-2/11d-leniency-inequality"
-linkbtext: Leniency-inequality
-linkf: "/research/hume/essays/part-2/11f-greek-population"
-linkftext: Greek-population
+weight: 32
+author: David Hume
+icon: /avatars/hume.png
 ---
+
 
 Upon comparing the whole, it is impossible why the world should have been more populous in ancient than in modern times. 
 

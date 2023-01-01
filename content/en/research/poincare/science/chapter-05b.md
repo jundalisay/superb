@@ -1,6 +1,7 @@
 ---
 title: Experiments only teach us the relations of bodies
-date: 2022-01-31
+heading: Chapter 5b
+weight: 32
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
@@ -14,22 +15,25 @@ They do not and cannot give us the relations of bodies and space, nor the mutual
 
 “Yes!” you reply, “a single experiment is not enough, because it only gives us
 one equation with several unknowns; but when I have made enough experiments I shall have enough equations
-to calculate all my unknowns.” If I know the height of the
-main-mast, that is not sufficient to enable me to calculate
-the age of the captain. When you have measured every
-fragment of wood in a ship you will have many equations, but you will be no nearer knowing the captain’s
-age. All your measurements bearing on your fragments of wood can tell you only what concerns those fragments;
+to calculate all my unknowns.” If I know the height of the main-mast, that is not sufficient to enable me to calculate
+the age of the captain. 
+
+When you have measured every fragment of wood in a ship you will have many equations, but you will be no nearer knowing the captain’s age. 
+
+All your measurements bearing on your fragments of wood can tell you only what concerns those fragments;
 and similarly, your experiments, however numerous they may be, referring only to the relations of bodies with one
 another, will tell you nothing about the mutual relations
 of the different parts of space.
 
-7. Will you say that if the experiments have refer-
-ence to the bodies, they at least have reference to the
-geometrical properties of the bodies. First, what do you
-understand by the geometrical properties of bodies? I
-assume that it is a question of the relations of the bodies
-to space. These properties therefore are not reached by
-experiments which only have reference to the relations of
+7. Will you say that if the experiments have reference to the bodies, they at least have reference to the
+geometrical properties of the bodies. 
+
+First, what do you understand by the geometrical properties of bodies? 
+
+I assume that it is a question of the relations of the bodies
+to space. 
+
+These properties therefore are not reached by experiments which only have reference to the relations of
 bodies to one another, and that is enough to show that
 it is not of those properties that there can be a ques-
 tion. Let us therefore begin by making ourselves clear
@@ -116,25 +120,26 @@ the mechanic had constructed the strange bodies I have
 just mentioned, he would have to conclude that space
 is both Euclidean and non-Euclidean. Suppose, for in-
 stance, that we have a large sphere of radius R, and that
-its temperature decreases from the centre to the surfacescience and hypothesis
-96
-of the sphere according to the law of which I spoke when I
-was describing the non-Euclidean world. We might have
-bodies whose dilatation is negligible, and which would
+its temperature decreases from the centre to the surface of the sphere according to the law of which I spoke when I
+was describing the non-Euclidean world. 
+
+We might have bodies whose dilatation is negligible, and which would
 behave as ordinary invariable solids; and, on the other
 hand, we might have very dilatable bodies, which would
-behave as non-Euclidean solids. We might have two dou-
-ble pyramids oabcdef gh and o 0 a 0 b 0 c 0 d 0 e 0 f 0 g 0 h 0 , and two tri-
+behave as non-Euclidean solids. 
+
+We might have two double pyramids oabcdef gh and o 0 a 0 b 0 c 0 d 0 e 0 f 0 g 0 h 0 , and two tri-
 angles αβγ and α 0 β 0 γ 0 . The first double pyramid would
 be rectilinear, and the second curvilinear. The trian-
 gle αβγ would consist of undilatable matter, and the
 other of very dilatable matter. We might therefore make
 our first observations with the double pyramid o 0 a 0 h 0 and
 the triangle α 0 β 0 γ 0 .
-And then the experiment would seem to show—first,
-that Euclidean geometry is true, and then that it is false.
+
+And then the experiment would seem to show—first, that Euclidean geometry is true, and then that it is false.
 Hence, experiments have reference not to space but to
 bodies.
+
 supplement.
 
 8. To round the matter off, I ought to speak of a very

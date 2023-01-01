@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 15"
 title: "The Face of the Heaven of that New World Must Appear to Its Inhabitants Completely Like That of Our World"
-date: 2020-09-01
+weight: 32
 image: "/covers/world.jpg"
 description: "Solar systems can be rather unequal in size. But they must always be exactly of the same force."
 icon: "/icons/descartes.jpg"
@@ -138,7 +138,8 @@ Thus, when the rays reach to the sphere of the earth DAF, the refraction can wel
 For it is very likely that the parts of the aethereal air toward this sphere of the earth DAF are no less small in comparison with those toward the sphere EBG than are those balls 1, 2, 3, 4, etc. in comparison with the other balls N, P, H, P...
 
 
-+++
+---
+
 ## Footnotes
 
 [1] sentiment. It is difficult to render this word into English with full precision. Descartes' own parenthetical explication -- "idea that is formed in our imagination through the intermediary of our eyes" --is of limited help, since at the time of writing The World he had not yet worked out the details of his metaphysics or theory of mind. But it does place sentiments in the mind and makes them more than merely the sensory data connoted by "sensations". Moreover, in Man the brain has sentiments not only of heat and of the color red (note the judgment involved), but also of pain, tickling, and taste. Hence, the term covers both sensations caused by external objects and feelings originating within the body; in an example soon to follow a soldier who mistakenly thinks himself wounded in battle "senses" [sent] both pain and a strap. The mind's involvement in a sentiment tempts one to translate it by "perception", especially since the French cognate does not appear either in The World or in Man. However, it does occur in the Principles of Philosophy and in the Passions of the Soul. The latter includes sentiment among several different sorts of perception. Perception in a general sense is any thought that does not result from the action or will of the soul, and in a restricted sense is "evident knowledge"; sentiment is "what is received in the soul in the same way as objects of the external senses and is not otherwise known by the soul" (Passions, I, 28; AT.XI.349). Perceptions may arise in the imagination, in which case their objects do not really exist. Sentiments arise in the body by the intermediary of the nervous system and, whether really or only apparently, involve the body's external senses. Since here in The World it is the external senses and their relation to the external world that Descartes is discussing, "sensation" seems the best English equivalent.

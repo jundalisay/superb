@@ -1,7 +1,7 @@
 ---
 title: Christian War
 heading: Chapter 2d
-date: 2022-07-20
+weight: 14
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

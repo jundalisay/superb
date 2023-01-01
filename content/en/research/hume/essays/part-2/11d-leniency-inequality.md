@@ -1,14 +1,13 @@
 ---
 title: "Leniency and Inequality Leading to Disorder and Decline of Commerce"
-heading: "Essay 11d Part 2"
+heading: "Essay 11d"
 description: "The violence and decline of commerce and manufactures was caused by leniency and inequality"
 image: /covers/essays.jpg
-date: "2020-02-11"
-linkb: "/research/hume/essays/part-2/11c-ancient-wars"
-linkbtext: "remarkable-customs"
-linkf: "/research/hume/essays/part-2/11e-ancient-records"
-linkftext: Ancient-records
+weight: 30
+author: David Hume
+icon: /avatars/hume.png
 ---
+
 
 
 ## The Leniency of the Romans 

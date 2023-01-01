@@ -1,7 +1,7 @@
 ---
 title: The Right to Lay Waste an Enemy's Country, and Carry Off His Effects
 heading: Chapter 5b
-date: 2022-07-22
+weight: 18
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

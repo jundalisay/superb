@@ -1,10 +1,11 @@
 ---
 title: "National Characters"
-heading: "Essay 21 by David Hume of Part 1"
+heading: "Essay 21"
 description: "Each society has a character that may be different from its past or future character"
-image: "/photos/medieval/hitler.jpg"
+# image: "/photos/medieval/hitler.jpg"
+image: /covers/essays.jpg
 # https://sorasystem.sirv.com/photos/medieval/nationalism.jpg"
-date: 2020-11-14
+weight: 46
 author: David Hume
 icons: /icons/hume.png
 ---

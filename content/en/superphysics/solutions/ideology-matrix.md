@@ -176,10 +176,6 @@ In America, this can be seen in:
 
 <!-- ![](https://cdn-images-1.medium.com/max/800/1*58okvB3XEPK5ClzXm4rKCQ.jpeg) -->
 
-<!-- The ideology matrix is an essential part of Pantrynomics as it will help keep its implementation standardized near the center, yet be customizable in order to fit the current cycle of the country where it will be implemented, making it global yet local at the same time. It is implemented as one of the features of ISAIAH Match which is our machine learning platform.
-
-![](https://sorasystem.sirv.com/screens/match-politics.jpg)
- -->
  
 The most sustainable political philosophies and economic systems are those that are near the center, which balance non-selfishness and objective-ness, while adapting to changes in the social cycles. 
 

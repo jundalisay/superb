@@ -48,7 +48,7 @@ There are two ways to handle this problem.
 
 If Poland needs more foreign goods and services than she can immediately pay for with her exports, she could obtain a foreign credit “in kind”[^8]. She would ask some countries for specific deliveries on a deferred payment basis. She would then obtain goods without being obliged to pay into its National Clearing Fund at once. Instead, she would issue a bond* specifying the interest and amortisation payments that will be made later. When these latter payments fall due, they would take the form of money and would be made into the Polish National Clearing Fund, like any other international payment under the scheme.
 
-[^8]: Superphysics note: In Pantrynomics, this is called a resource credit
+[^8]: Superphysics note: In Supereconomics, this is called a resource credit
 
 This kind of arrangement would make international capital movements far more conscious and more easily recognisable. New borrowing would be for specified purposes only. It would take the form of imports (which might be producers’ or consumers’ goods) without immediate payment. Interest and amortisation charges would appear as a mortgage on the future overdraft facilities of the debtor country. The objection is that in this way, the lending operation itself (although not the return flow of interest and amortisation) would become bilateral. For example, Poland could not borrow in the US and then spend the proceeds on additional imports from Britain. It is difficult to estimate the weight of this objection.
 
@@ -92,7 +92,7 @@ No one country is able to settle the rates of exchange of its own currency in op
 - It then advises the Japan Clearing Fund of the received US dollars
   - It is up to the Japan Clearing Fund to pay the exporter in Japan at the ruling rates of exchange* 
 
-> *Superphysics Note: In Pantrynomics, all currencies will be pegged to grains
+> *Superphysics Note: In Supereconomics, all currencies will be pegged to grains
 
 
 
@@ -128,7 +128,7 @@ It would be foolish to propose that everything should be controlled centrally. B
 - achieve balance in the Clearing Funds of the various nations, and
 - avoid long-term cumulative surpluses and long-term cumulative deficits.
 
-> *Superphysics Note: In Pantrynomics, there is no International Clearing so no such control is needed. However, coordination and regular negotiations should be expected. 
+> *Superphysics Note: In Supereconomics, there is no International Clearing so no such control is needed. However, coordination and regular negotiations should be expected. 
 
 
 This would have far-reaching effects also on purely internal policies in the different countries. Internal monetary policies, for instance, exert a strong effect on external trade. A proposal to subject them to international control would appear wholly Utopian. Thus, each nation should be free to do internally whatever it pleases:
@@ -158,7 +158,7 @@ Adjustments of this kind are difficult to effect, and even more difficult to enf
 - the spread of reliable knowledge*, and 
 - the compilation of reliable statistics of productive capacities and human needs
 
-> *Superphysics Note: In Pantrynomics, this is where Indicators comes in
+> *Superphysics Note: In Supereconomics, this is where Indicators comes in
 
 
 The right direction might be attained by the need for balance, together with a system that makes surpluses unattractive. The great cyclical waves of unemployment was the greatest single factor of disruption in the past. No system is likely to endure unless such waves can be avoided.
@@ -177,7 +177,7 @@ Thus, **the main burden of adjustment is placed on the surplus countries**. The 
 
 There are other ways to protect countries from the speculative capital movements which this system brings about. The medium-term stability of exchange rates is the minimum degree of international cooperation needed in this field*. 
 
-> *Superphysics Note: In Pantrynomics, this is solved by the grain index and by banning currency trafficking. 
+> *Superphysics Note: In Supereconomics, this is solved by the grain index and by banning currency trafficking. 
 
 
 The same applies to the fact that Pool Clearing would make the international payments position of each country “transparent” by summing up its vital aspect in one figure, the debit or credit balance of the National Clearing Fund.

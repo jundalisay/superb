@@ -1,7 +1,8 @@
 ---
 title: Natural Science and the Spirit World
 # heading: Dialectics of Nature
-date: 2022-01-20
+# date: 2022-01-20
+weight: 18
 description: Modern dialectics is split into 2 extremes
 image: "/covers/nature.jpg"
 author: "Frederick Engels"

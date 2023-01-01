@@ -1,8 +1,9 @@
 ---
 title: "Two Systems"
 heading: "EPR Paradox"
-date: 2022-04-10
-linkTitle: "EPR Paradox"
+weight: 6
+# date: 2022-04-10
+# linkTitle: "EPR Paradox"
 # date: 2022-08-08
 description: "Einstein Ether is a impotent something"
 image: "/covers/epr.jpg"

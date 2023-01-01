@@ -34,6 +34,7 @@ These plants can be obtained from Holland and Belgium. Orchids should not be pla
 
 <!-- February 1988, Calcutta -->
 
-Footnotes
+
+## Footnotes
 
 (1) Páyrá phasal. A minor crop grown in the same field as a main crop. The seeds for a “pigeon crop” are sown by casting them in the same way that one might cast grain to pigeons. –Eds.

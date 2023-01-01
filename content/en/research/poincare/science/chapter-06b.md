@@ -1,8 +1,8 @@
 ---
 title: The Law of Acceleration
 heading: Chapter 6b
-date: 2022-01-26
-description: Science and Hypothesis
+weight: 36
+description: The acceleration of a body is equal to the force which acts on it divided by its mass
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /icons/poincare.jpg
@@ -11,6 +11,7 @@ icon: /icons/poincare.jpg
 
 
 The acceleration of a body is equal to the force which acts on it divided by its mass.
+
 Can this law be verified by experiment?
 
 If so, we have to measure the three magnitudes mentioned in the
@@ -22,31 +23,27 @@ We do not even know what they are.
 
 What is mass? 
 
-Newton replies: “The product of the volume and the density.” “It were better
-to say,” answer Thomson and Tait, “that density is the
-quotient of the mass by the volume.” 
+Newton replies: “The product of the volume and the density.” “It were better to say,” answer Thomson and Tait, “that density is the
+quotient of the mass by the volume.”
 
 What is force? 
 
-“It is,” replies Lagrange, “that which moves or tends to move
-a body.” “It is,” according to Kirchoff, “the product of the
-mass and the acceleration.” Then why not say that mass
-is the quotient of the force by the acceleration? These
-difficulties are insurmountable.
+Lagrange says that it is that which moves or tends to move a body.
 
-When we say force is the cause of motion, we are
-talking metaphysics; and this definition, if we had to bethe classical mechanics.
+Kirchoff says that it is the product of the mass and the acceleration. 
 
+Then why not say that mass is the quotient of the force by the acceleration? 
 
-content with it, would be absolutely fruitless, would lead
-to absolutely nothing. For a definition to be of any use it
-must tell us how to measure force; and that is quite suf-
-ficient, for it is by no means necessary to tell what force
-is in itself, nor whether it is the cause or the effect of mo-
-tion. We must therefore first define what is meant by the
-equality of two forces. 
+These difficulties are insurmountable.
 
-When are two forces equal? 
+When we say force is the cause of motion, we are talking metaphysics. This definition is absolutely fruitless as it would lead to absolutely nothing. 
+
+For a definition to be of any use it must tell us how to measure force; and that is quite suf-
+ficient, for it is by no means necessary to tell what force is in itself, nor whether it is the cause or the effect of motion. 
+
+We must therefore first define what is meant by the equality of two forces. 
+
+When are 2 forces equal? 
 
 We are told that it is when they give the same acceleration to the same mass, or when acting in opposite directions they are in equilibrium. This definition is a sham. A force applied to a body cannot be uncoupled and applied to another body as an engine is uncoupled from one train and coupled to another. 
 
@@ -183,5 +180,3 @@ accurate experiment teach us?
 It would teach us that the law is only approximately true, and we know that already. 
 
 Thus is explained how experiment may serve as a basis for the principles of mechanics, and yet will never invalidate them.
-
-

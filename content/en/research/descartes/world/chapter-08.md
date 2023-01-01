@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 8"
 title: "The Creation of the Universe"
-date: 2020-09-14
+weight: 18
 image: "/covers/world.jpg"
 description: "God put inequality and confusion among the parts of matter at the beginning"
 icon: "/icons/descartes.jpg"

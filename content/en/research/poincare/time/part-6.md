@@ -1,7 +1,7 @@
 ---
 title: No Intuition of Simultaneity
 heading: Part 6
-date: 2021-09-25
+weight: 5
 description: Two psychological phenomena happen simultaneously in two different consciousnesses. What does simultaneous mean?
 image: "/covers/time.jpg"
 author: "H. Poincare"

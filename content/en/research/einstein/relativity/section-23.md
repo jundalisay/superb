@@ -1,7 +1,8 @@
 ---
 title: "Behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
 heading: "Section 23"
-date: 2022-03-18
+weight: 40
+# date: 2022-03-18
 description: "Einstein explains the behaviour Of Clocks And Measuring-rods On A Rotating Body Of Reference"
 image: "/covers/rel.jpg"
 ---
@@ -35,7 +36,7 @@ The force acting on himself, and in fact on all other bodies which are at rest r
 The space-distribution of this gravitational field is of a kind that would not be possible on Newton’s theory of gravitation*.
 
 
-> *Einstein Note=  The field disappears at the centre of the disc and increases proportionally to the distance from the centre as we proceed outwards.
+> *Einstein Note: The field disappears at the centre of the disc and increases proportionally to the distance from the centre as we proceed outwards.
 
 
 But since the observer believes in GR, he believes that a general law of gravitation can be formulated — a law which not only explains the motion of the stars correctly, but also the field of force experienced by himself.
@@ -45,7 +46,7 @@ The observer performs experiments on his circular disc with clocks and measuring
 
 <!-- What will be his experience in this enterprise? -->
 
-He places one of two identically constructed clocks= 
+He places one of two identically constructed clocks:
 - one at the centre of the circular disc
 - the other on the edge of the disc, so that they are at rest relative to it
 
@@ -83,3 +84,4 @@ We are therefore not in a position to define exactly the co-ordinates `x, y, z` 
 Thus, all our previous conclusions based on general relativity would appear to be called in question. 
 
 In reality, we must make a subtle detour in order to be able to apply the postulate of general relativity exactly. 
+

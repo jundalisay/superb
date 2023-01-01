@@ -3,12 +3,9 @@ title: "The Ideal System of Government"
 heading: "Essay 16 The Idea of a Perfect Commonwealth"
 description: "David Hume writes his plan for the perfect government"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/15-protestant-succession"
-linkbtext: Protestant-succession
-linkf: "/research/hume/essays/part-3"
-linkftext: Part 3
-icon: "/icons/hume.png"
-author: "David Hume"
+author: David Hume
+icon: /avatars/hume.png
+weight: 48
 aliases:
   /research/hume/essays/the-ideal-system-of-government
   /research/hume/essays/part-2/16

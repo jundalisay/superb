@@ -29,9 +29,9 @@ Such skills usually take time and effort to develop. The high price of skilled p
 
 In this case, the quantity of work is the only regulator of exchangeable value.
 
-In the advanced state, price has three components=  wages, profits, rent*
+In the advanced state, price has three components: wages, profits, rent*
 
-> *Superphysics note: In Pantrynomics, wages are in the rude state because wages are the revenue of the worker or shudra class
+> *Superphysics note: In Supereconomics, wages are in the rude state because wages are the revenue of the worker or shudra class
 
 
 ## The Second Component: Profits 
@@ -57,13 +57,13 @@ He would only advance his stock, in the form of wages and materials to those wor
 They are regulated by different principles*.
 
 
-> *Superphysics note: In Pantrynomics, profit is the revenue of the business or vaesya class
+> *Superphysics note: In Supereconomics, profit is the revenue of the business or vaesya class
 
 **Profits bear no proportion to the quantity or quality of management work.** Profits are:
 - regulated by the value of the stock employed, and
 - proportional to the size of this stock.
 
-> *Superphysics note: In Pantrynomics, management is classified as value-maintaining effort and not value-adding
+> *Superphysics note: In Supereconomics, management is classified as value-maintaining effort and not value-adding
 
 
 Let us suppose that:
@@ -91,18 +91,20 @@ He must share it with the owner of the stock.
 Wages and profits are not the only parts of the price of commodities.
 
 
-## The Third Component=  Rent
+## The Third Component: Rent
 
 {{< s v="8" >}} As soon as land becomes private property, the landlords, like all other men, love to reap where they never sowed.
 
 They demand a rent even for its natural produce.
+
 When land was not private property, its natural produce only cost the labourer the trouble of gathering them.
-When land becomes private property, he needs to pay= 
+
+When land becomes private property, he needs to pay: 
 - for the licence to gather them, and
 - a share of his produce for the landlord.
 
 This share is the rent of land. It is the third component part of price*.
 
-> *Superphysics note: In Pantrynomics, rent is the revenue of the warrior or ksattriya class
+> *Superphysics note: In Supereconomics, rent is the revenue of the warrior or ksattriya class
 
 

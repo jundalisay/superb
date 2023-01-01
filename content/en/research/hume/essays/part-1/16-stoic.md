@@ -1,9 +1,9 @@
 ---
 title: "The Stoic"
-heading: "Essay 16, Part 1"
+heading: "Essay 16"
 description: "The Stoic"
 image: /covers/essays.jpg
-date: 2020-12-01
+weight: 34
 author: David Hume
 icons: /icons/hume.png
 --- 

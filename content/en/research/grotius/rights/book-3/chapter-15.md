@@ -1,16 +1,18 @@
 ---
 title: Moderation in Acquiring Dominion
 heading: Chapter 15
-date: 2022-07-29
+weight: 32
 image: /covers/warpeace.jpg
-description: 
+description: That equity and moderation towards individuals, which are so highly extolled, are still more deserving of admiration, when exercised towards nations and kingdoms
 author: "Hugo Grotius"
 ---
 
 
-How far internal justice permits us to acquire dominion—Moderation, in the use of this right over the conquered, laudable—Incorporating them with the conquerors—Allowing them to retain their dominions—Placing garrisons therein—Imposing tributes or other burdens—Utility of such moderation—Change in the form of a conquered government—The conquered permitted to retain some part of their former liberties—Especially in matters of religion—Clemency to be shewn.
+<!-- How far internal justice permits us to acquire dominion—Moderation, in the use of this right over the conquered, laudable—Incorporating them with the conquerors—Allowing them to retain their dominions—Placing garrisons therein—Imposing tributes or other burdens—Utility of such moderation—Change in the form of a conquered government—The conquered permitted to retain some part of their former liberties—Especially in matters of religion—Clemency to be shewn. -->
 
-I. That equity and moderation towards individuals, which are so highly extolled, are still more deserving of admiration, when exercised towards nations and kingdoms; where injustice would be attended with more signal calamities, and moderation with more beneficial effects.
+I. 
+
+That equity and moderation towards individuals, which are so highly extolled, are still more deserving of admiration, when exercised towards nations and kingdoms; where injustice would be attended with more signal calamities, and moderation with more beneficial effects.
 
 In just war the right of dominion over a people, and the sovereign power, which that people possess, may be acquired as well as any other right. But the claims to such a right ought by no means to be prosecuted beyond indemnity for aggression, and security against future evils.
 

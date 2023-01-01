@@ -1,7 +1,7 @@
 ---
 title: The Communication of Punishment
 heading: Chapter 21
-date: 2022-06-14
+weight: 52
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"

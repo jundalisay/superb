@@ -1,7 +1,8 @@
 ---
 title: "The Relativity Of Simultaneity"
 heading: "Section 9"
-date: 2022-04-14
+weight: 17
+# date: 2022-04-14
 description: "Since the speed of light is a constant and since light is the judge, then time becomes relative to the viewpoint. This will allow time dilation via the Lorentz Transformation in Section 12"
 image: "/covers/rel.jpg"
 ---
@@ -30,7 +31,7 @@ The light arriving at `A` and `B` meet each other at the mid-point `M` of the em
 
 If an observer in the train at `M'` sat still and the train was also still, then the  light from the lightning at A and B would reach him simultaneously. But if the train were traveling forward and he is walking forward to B, then he will see the beam of light emitted from B earlier than that from A. Thus, observers in the train will think that lightning flash B happened earlier than lightning flash A.
 
-Thus= 
+Thus:
 - events which are simultaneous with reference to the embankment are not simultaneous with respect to the train, and vice versa (relativity of simultaneity).
 - every reference-body or viewpoint has its own time.
 - an event's time has no meaning if we do not know which viewpoint that event's time takes
@@ -38,7 +39,7 @@ Thus=
 Before my theory of relativity, physicists assumed that time had an absolute significance*, i.e. that it is independent of the motion of the body of reference.
 
 
-> *Superphysics Note=  Time has an absolute significance to the Material layer, semi-significance to the Electromagnetic layer, and no significance (or very tiny significance) to the aetheral layer (e.g. time flies fast when you're having fun). Einstein is therefore employing sophistry by applying the principle of the Electromagnetic layer to all layers. 
+> *Superphysics Note: Time has an absolute significance to the Material layer, semi-significance to the Electromagnetic layer, and no significance (or very tiny significance) to the aetheral layer (e.g. time flies fast when you're having fun). Einstein is therefore employing sophistry by applying the principle of the Electromagnetic layer to all layers. 
 
 
 But this assumption is incompatible with the most natural definition of simultaneity. If we discard this assumption, then the conflict between the law of the propagation of light in a vacuum and the principle of relativity (in Section 7) disappears.

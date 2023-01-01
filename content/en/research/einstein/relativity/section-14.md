@@ -1,14 +1,15 @@
 ---
 title: "The Heuristic Value Of The Theory Of Relativity"
 heading: "Section 14"
-date: 2022-04-04
+# date: 2022-04-04
+weight: 22
 description: "Einstein defines his theory of Relativity as frames of reference glued together by the constant speed of light"
 image: "/covers/rel.jpg"
 ---
 
 
 
-Our experience shows that= 
+Our experience shows that:
 - the principle of relativity holds true, and
 - the speed of light in a vacuum is a constant `c` 
 
@@ -18,11 +19,11 @@ By uniting these two postulates, we obtained=
 
 This led to the Lorentz transformation and not the Galilei transformation of classical mechanics. **The constant speed of light played an important part in this.** Through the Lorentz transformation, we can combine this nature of light with the principle of relativity. We sum up the theory thus= 
 
-<div class="squote ein" data-sal="slide-right">
+{{< q a="ein" >}} 
 Every general law of nature* is transformed into a law of exactly the same form when, instead of the spacetime variables `x, y, z, t` of the original non-moving coordinate system `K`, we introduce new space-time variables `x', y', z', t'` of a moving coordinate system `K'`. 
-</div>
+{{< /q >}}
 
-> *Superphysics Note=  This part of Relativity is correct. The error is in basing it in the constancy of light
+> *Superphysics Note: This part of Relativity is correct. The error is in basing it in the constancy of light
 
 
 
@@ -36,4 +37,4 @@ This is a definite mathematical condition that my theory of relativity demands o
 <!-- Let us now examine what general results the latter theory has hitherto evinced.
  -->
 
-> *Superphysics Note=  We easily disprove Einstein's theory with the levitating Buddhist monk, the levitating of ancient Egyptian blocks as the pyramids, and the zipping of UFOs through spacetime without needing immense amounts of energy. His theory only works in the electromagnetic layer and not in the material layer (where principles of Classical mechanics works) or the spacetime and aethereal layers (where the principles of Superphysics works)
+> *Superphysics Note: We easily disprove Einstein's theory with the levitating Buddhist monk, the levitating of ancient Egyptian blocks as the pyramids, and the zipping of UFOs through spacetime without needing immense amounts of energy. His theory only works in the electromagnetic layer and not in the material layer (where principles of Classical mechanics works) or the spacetime and aethereal layers (where the principles of Superphysics works)

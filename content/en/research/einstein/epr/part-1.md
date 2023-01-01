@@ -1,7 +1,8 @@
 ---
 title: "Definition of Complete"
 heading: "EPR Paradox"
-date: 2022-04-12
+weight: 4
+# date: 2022-04-12
 linkTitle: "EPR Paradox"
 # date: 2022-08-08
 description: "In quantum mechanics, in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other"

@@ -1,8 +1,7 @@
 ---
 heading: Part 6
 title: Cartesian Method
-limkTitle: Part 6
-date: 2022-01-12
+weight: 20
 description: Rene Descartes 1635
 image: "/covers/method.jpg"
 author: "Rene Descartes"

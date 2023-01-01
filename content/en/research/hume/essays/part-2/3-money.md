@@ -1,13 +1,11 @@
 ---
 title: "Money"
-heading: "Essay 3 Part 2"
+heading: "Essay 3"
 description: "Labor is the ultimate measure of value, not money"
 image: /covers/essays.jpg
-date: 2020-01-29
-linkb: "/research/hume/essays/part-2/2-luxury"
-linkbtext: "Luxury"
-linkf: "/research/hume/essays/part-2/4-interest"
-linkftext: "Interest"
+weight: 8
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 
@@ -165,16 +163,16 @@ It is an obvious maxim:
 - The prices of everything* depend on the proportion between commodities and money
 - Any considerable alteration on either has the same effect, either of heightening or lowering the price.
 
-> *Translator's Note: Hume here means nominal prices, otherwise he would be contradicting himself. 
+> *Superphysics Note: Hume here means nominal prices, otherwise he would be contradicting himself. 
 
-<!-- > *Translator's Note: Here is the beginning of the fork of ideas between David Hume and Adam Smith regarding the labour theory of value. Hume correctly says money supplyis irrelevant, yet  wrongly equates money to a representation of labour (actual), whereas Smith correctly equates it to a command of labour (potential). This difference makes Hume advocate the increase of gold, different from Smith who advocates an increase in svadharma or purpose in life (personal existential potentiality). This is why Smith is the basis of our Pantrynomics and not Hume. -->
+<!-- > *Translator's Note: Here is the beginning of the fork of ideas between David Hume and Adam Smith regarding the labour theory of value. Hume correctly says money supplyis irrelevant, yet  wrongly equates money to a representation of labour (actual), whereas Smith correctly equates it to a command of labour (potential). This difference makes Hume advocate the increase of gold, different from Smith who advocates an increase in svadharma or purpose in life (personal existential potentiality). This is why Smith is the basis of our Supereconomics and not Hume. -->
 
 Encrease the commodities, they become cheaper. Increase the money, they rise in their value. Reduce the commodities, they become more expensive. Decrease the money, they fall in their value.
 <!-- As, on the other hand, a diminution of the former, and that of the latter, have contrary tendencies. -->
 
 The prices do not so much depend on the absolute quantity of commodities and money which are in a nation. <b>It depends more on the amount of commodities which are in the market* and the amount of money which circulates.</b>
 
-> *Translator's Note: This is the basis for Adam Smith's Natural Price
+> *Superphysics Note: This is the basis for Adam Smith's Natural Price
 
 - If the coin were locked up in chests, it would affect prices in the same way as if it were annihilated.
 - If the commodities were hoarded in magazines and granaries, a like effect follows.
@@ -183,7 +181,7 @@ The prices do not so much depend on the absolute quantity of commodities and mon
 
 Our estimation on food-grain prices should never include the grain which the farmer reserves for seed [capital] and for the maintenance of himself and family [stock for consumption]. It is only the surplus*, compared to the demand, that determines the value of food-grains.
 
-> *Translator's Note: This is the basis for Smith's [Net revenue](/social/economics/solutions/gdp) which is the proper alternative to GDP 
+> *Superphysics Note: This is the basis for Smith's [Net revenue](/social/economics/solutions/gdp) which is the proper alternative to GDP 
 
 In the first uncultivated ages of any state:
 - fancy has confounded human wants with those of nature, 

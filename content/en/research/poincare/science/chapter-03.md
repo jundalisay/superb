@@ -1,6 +1,7 @@
 ---
 title: Non-euclidean Geometries
-date: 2022-02-14
+heading: Chapter 3
+weight: 18
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

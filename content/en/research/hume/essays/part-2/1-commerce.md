@@ -1,14 +1,13 @@
 ---
 title: "Commerce"
-heading: "Essay 1a, Part 2"
+heading: "Essay 1a"
 description: "Commerce unites the private and common interest"
-date: 2020-01-31
+weight: 4
+author: David Hume
+icon: /avatars/hume.png
 image: /covers/essays.jpg
-linkf: "/research/hume/essays/part-2/1b-labor-theory-value"
-linkftext: "Labor-theory-value"
-linkb: "/research/hume/essays/part-2/1-commerce"
-linkbtext: "Commerce"
 ---
+
 
 ## General vs Specific Principles
 

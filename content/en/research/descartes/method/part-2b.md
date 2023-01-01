@@ -1,7 +1,7 @@
 ---
 title: The 4 Precepts of Descartes
 heading: Part 2b
-date: 2022-01-23
+weight: 10
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.jpg"
 author: "Rene Descartes"

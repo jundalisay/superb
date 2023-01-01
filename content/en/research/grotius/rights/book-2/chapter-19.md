@@ -1,7 +1,7 @@
 ---
 title: The Right of Burial
 heading: Chapter 19
-date: 2022-06-28
+weight: 40
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"

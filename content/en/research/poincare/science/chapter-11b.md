@@ -1,7 +1,7 @@
 ---
 title: What is the present distribution of the minor planets?
 heading: Chapter 11b
-date: 2022-01-02
+weight: 60
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

@@ -1,7 +1,7 @@
 ---
 title: Punishments
 heading: Chapter 20c
-date: 2022-06-21
+weight: 46
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"

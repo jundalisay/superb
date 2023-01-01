@@ -1,7 +1,7 @@
 ---
 title: The General Rights of Things
 heading: Chapter 2b
-date: 2022-07-26
+weight: 8
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

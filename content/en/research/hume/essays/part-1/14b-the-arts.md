@@ -1,9 +1,9 @@
 ---
 title: "The Rise And Progress Of The Arts"
-heading: "Essay 14b by David Hume Simplified"
+heading: "Essay 14b"
 description: "The Rise And Progress Of The Arts"
 image: /covers/essays.jpg
-date: 2020-12-04
+weight: 30
 author: David Hume
 icons: /icons/hume.png
 --- 

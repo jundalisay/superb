@@ -29,8 +29,10 @@ The Dorian and the Phrygian are the only ones left. I know nothing of these harm
 
 - in the hour of danger and stern resolve, or
 - when his cause is failing, and he is going to wounds or death or is overtaken by some other evil.
+{{< /l >}}
 
 
+{{< l a="Socrates" >}}
 At such crisis, he meets the blows of fortune with a firm step and a determination to endure. I want him to use another harmony in times of peace and freedom:
 
 - when there is no pressure of necessity, and he is persuading God by prayer, or man by admonition, or
@@ -48,18 +50,28 @@ This represents his prudence in not being carried away by his success, but actin
 - the strain of courage, and the strain of temperance.
 
 
-If only these are to be used in our songs and melodies, we shall want more notes or a panharmonic scale. Our lyres and stringed instruments will have three corners and complex scales. But what about the flute-makers and flute-players?
+If only these are to be used in our songs and melodies, we shall want more notes or a panharmonic scale. Our lyres and stringed instruments will have 3 corners and complex scales.
+{{< /l >}}
 
-Would you admit them into our State when you reflect that in this composite use of harmony the flute is worse than all the stringed instruments put together; even the panharmonic music is only an imitation of the flute?
+{{< l a="Socrates" >}}
+But what about the flute-makers and flute-players?
 
-There remain then only the lyre and the harp for use in the city, and the shepherds may have a pipe in the country. The preferring of Apollo and his instruments to Marsyas and his instruments is not at all strange.
+Should we admit them into our State when, in this composite use of harmony, the flute is worse than all the stringed instruments put together? Even the panharmonic music is only an imitation of the flute.
+
+There remain then only the lyre and the harp for use in the city. The shepherds may have a pipe in the country. 
+
+The preferring of Apollo and his instruments to Marsyas and his instruments is not at all strange.
 {{< /l >}}
 
 
 ## The State Should Promote Harmonious Music
 
 {{< l a="Socrates" >}}
-So, by the dog of Egypt, we have been unconsciously purging the State, which not long ago we termed luxurious. Let us now finish the purgation. Rhythms will naturally follow after harmonies. They should be subject to the same rules, for we should not seek out complex systems of metre, or metres of every kind, but rather to discover what rhythms are the expressions of a courageous and harmonious life. When we have found them, we shall adapt the foot and the melody to words having a like spirit, not the words to the foot and melody.
+So, by the dog of Egypt, we have been unconsciously purging the State, which not long ago we termed luxurious. Let us now finish the purgation. 
+
+Rhythms will naturally follow after harmonies. They should be subject to the same rules, for we should not seek out complex systems of metre, or metres of every kind, but rather to discover what rhythms are the expressions of a courageous and harmonious life. 
+
+**When we have found them, we shall adapt the foot and the melody to words having a like spirit, not the words to the foot and melody.**
 {{< /l >}}
 
 {{< r a="Glaucon" >}}
@@ -68,7 +80,9 @@ It is your duty to teach these rhythms as you have already taught me the harmoni
 
 
 {{< l a="Socrates" >}}
-But I only know that there are some three principles of rhythm out of which metrical systems are framed, just as in sounds there are four notes (i.e. the four notes of the tetrachord) out of which all the harmonies are composed. But I am unable to say of what sort of lives they imitate. We must ask Damon. He will tell us:
+**But I only know that there are some 3 principles of rhythm out of which metrical systems are framed, just as in sounds there are 4 notes (i.e. the 4 notes of the tetrachord) out of which all the harmonies are composed.** 
+
+But I am unable to say of what sort of lives they imitate. We must ask Damon. He will tell us:
 
 - what rhythms are expressive of meanness, or insolence, or fury, or other unworthiness, and
 - what are to be reserved for the expression of opposite feelings.
@@ -76,7 +90,9 @@ But I only know that there are some three principles of rhythm out of which metr
 
 
 {{< l a="Socrates" >}}
-I remember him mentioning a complex Cretic rhythm, also a dactylic or heroic. He arranged them in a way which I do not understand. He made the rhythms equal in the rise and fall of the foot, long and short alternating. He spoke of an iambic as well as of a trochaic rhythm, and assigned to them short and long quantities. In some cases, he appeared to praise or censure the movement of the foot quite as much as the rhythm, or a combination of the two. We should ask these to Damon himself because this analysis would be difficult.
+I remember him mentioning a complex Cretic rhythm, also a dactylic or heroic. 
+
+He arranged them in a way which I do not understand. He made the rhythms equal in the rise and fall of the foot, long and short alternating. He spoke of an iambic as well as of a trochaic rhythm, and assigned to them short and long quantities. In some cases, he appeared to praise or censure the movement of the foot quite as much as the rhythm, or a combination of the two. We should ask these to Damon himself because this analysis would be difficult.
 
 - In the first part of the sentence, he speaks of paeonic rhythms which are in the ratio of 3/2.
 - In the second part, of dactylic and anapaestic rhythms, which are in the ratio of 1/1.
@@ -89,7 +105,10 @@ I remember him mentioning a complex Cretic rhythm, also a dactylic or heroic. He
 But there is no difficulty in seeing that grace or the absence of grace is an effect of good or bad rhythm. Good and bad rhythms naturally assimilate to a good and bad style. Harmony and discord in like manner follow style, for our principle is that rhythm and harmony are regulated by the words, and not the words by them. The words and the character of the style depend on the temper of the soul.
 
 Everything else depends on the style. Then beauty of style and harmony and grace and good rhythm depend on simplicity. I mean the true simplicity of a rightly and nobly ordered mind and character, not that other simplicity which is only an euphemism for folly. Our youth must make these graces and harmonies their perpetual aim.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 The art of the painter and every other creative and constructive art are full of them:
 
 - weaving

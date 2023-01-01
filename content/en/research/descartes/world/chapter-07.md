@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7"
 title: "The Three Rules of Nature of the Aethereal Universe"
-date: 2020-09-16
+weight: 16
 image: "/covers/meta.jpg"
 description: "How could Nature untangle the confusion of the chaos after creation? What are the laws of nature that God has imposed on her?"
 icon: "/icons/descartes.jpg"

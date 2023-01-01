@@ -1,7 +1,8 @@
 ---
 title: "Gaussian Co–ordinates"
 heading: "Section 25"
-date: 2022-03-14
+# date: 2022-03-14
+weight: 44
 description: "Einstein uses Gaussian co-ordinates to explain movement in 4D spacetime."
 image: "/covers/rel.jpg"
 ---
@@ -16,14 +17,14 @@ Next, we draw v-curves on the surface, similar to the u curves. These have numbe
 
 For example= 
 - the point `P` in the diagram has the Gaussian coordinates `u = 3 , v = 1`.
-- 2 neighbouring points `P` and `P'` have the co-ordinates where `du` and `dv` signify very small numbers= 
+- 2 neighbouring points `P` and `P'` have the co-ordinates where `du` and `dv` signify very small numbers:
 
 ``` elixir
 P  =  u, v
 P' =  u + du, v + dv,
 ```
 
-The distance (line-interval) between `P` and `P'`, measured with a little rod, is shown through the very small number `ds`. Thus, we have 
+The distance (line-interval) between `P` and `P'`, measured with a little rod, is shown through the very small number `ds`. Thus, we have:
 
 ``` elixir
 ds^2 = g11 du^2 + 2g12 du dv + g22 dv^2
@@ -40,7 +41,7 @@ In certain conditions, the points form a Euclidean continuum with reference to t
 ds^2 = du^2 + dv^2 .
 ```
 
-Under these conditions, the u-curves and v-curves are= 
+Under these conditions, the u-curves and v-curves are: 
 - Euclidean straight lines
 - perpendicular to each other
 
@@ -55,7 +56,7 @@ The Gaussian method can also be applied to a continuum of 3 or more dimensions. 
 
 Each point of the continuum has 4 arbitrary numbers `x1 , x2 , x3 , x4` as “co-ordinates.” Adjacent points correspond to adjacent values of the co-ordinates. 
 
-A distance `ds` is associated with the adjacent points `P` and `P'`. This distance is measurable and well-defined from a physical point of view. This leads to the formula= 
+A distance `ds` is associated with the adjacent points `P` and `P'`. This distance is measurable and well-defined from a physical point of view. This leads to the formula:
 
 ``` elixir
 ds^2 = g11 dx1^2 + 2g12 dx1 dx2 . . . . + g44 dx4^2
@@ -63,7 +64,7 @@ ds^2 = g11 dx1^2 + 2g12 dx1 dx2 . . . . + g44 dx4^2
 
 where the magnitudes g11, etc, have values which vary with the position in the continuum. 
 
-Only when the continuum is a Euclidean one is it possible to associate the co-ordinates `x1 . . x4` with the points of the continuum so that we have simply= 
+Only when the continuum is a Euclidean one is it possible to associate the co-ordinates `x1 . . x4` with the points of the continuum so that we have simply:
 
 ``` elixir
 ds^2 = dx1^2 + dx2^2 + dx3^2 + dx4^2
@@ -83,3 +84,4 @@ Gauss invented a method for the mathematical treatment of continua in general, i
 - Those Gaussian co-ordinates which differ by an indefinitely small amount are assigned to adjacent points. 
 
 The Gaussian co-ordinate system is a logical generalisation of the Cartesian co-ordinate system. It is also applicable to non-Euclidean continua when the small parts (in terms of size or distance) of the continuum behave more nearly like a Euclidean system, emphasizing the smaller the part of the continuum.
+

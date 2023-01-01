@@ -1,14 +1,14 @@
 ---
 title: Moderation with Respect to Things Excluded from the Right of Postliminium by the Law of Nations
 heading: Chapter 16
-date: 2022-07-29
+weight: 34
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"
 ---
 
 
-Internal justice requires the restitution of things taken from others by an enemy in unjust war—Deductions made—Subjects and countries, if unjustly seized by an enemy, to be restored to their original sovereign—The time, when the obligation to restore them expires, defined—What is to be done in doubtful cases.
+<!-- Internal justice requires the restitution of things taken from others by an enemy in unjust war—Deductions made—Subjects and countries, if unjustly seized by an enemy, to be restored to their original sovereign—The time, when the obligation to restore them expires, defined—What is to be done in doubtful cases. -->
 
 
 ## Part 1
@@ -17,7 +17,10 @@ How far things taken in just war become the property of the captors has been exp
 
 But things, taken in unjust war, are to be restored, not only by those, who have taken them, but by others also into whose hands they may have by any means fallen. For, as the Roman lawyers say, no one can convey to another a greater right than he himself possesses. The original captor had no just title to any property therein, neither can the person, deriving his title through him, establish any better claim.—A SECOND or THIRD possessor may have acquired a property therein, which the law presumes he has a right to, till the contrary be shewn, and for which an action may be maintained. Yet it is a right of which he cannot honestly avail himself against the real owner, from whom it was unjustly taken.
 
-II. and III. Therefore such things are to be restored to those, from whom they were taken, which we find in ancient times was often done. Livy in relating the defeat of the Volscians and Aequi by a Roman Consul, says that the booty was exposed in a public place, for the space of three days, that every one, coming to recognise what belonged to him, might take it away.71
+
+## Parts 2 and 3
+
+Therefore, such things are to be restored to those, from whom they were taken, which we find in ancient times was often done. Livy in relating the defeat of the Volscians and Aequi by a Roman Consul, says that the booty was exposed in a public place, for the space of three days, that every one, coming to recognise what belonged to him, might take it away.71
 
 376 But if any one has become possessed of such a thing by purchase, it may be asked, if he can charge the person from whom it was originally taken, with the price which he has paid for it? According to the principles before72 laid down, he certainly may charge as much to the person losing it, as the repossession of a thing, which he despaired of ever recovering, is worth.
 

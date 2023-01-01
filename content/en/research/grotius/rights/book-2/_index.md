@@ -1,7 +1,7 @@
 ---
 title: "Book 2"
 # heading: Enlightened
-date: 2022-07-12
+weight: 4
 description: ""
 image: /covers/warpeace.jpg
 ---

@@ -1,7 +1,8 @@
 ---
 title: "The Structure Of Space According to General Relativity"
 heading: "Section 32"
-date: 2022-03-01
+weight: 58
+# date: 2022-03-01
 description: "Einstein believes the universe is a finite quasi-sphere"
 image: "/covers/rel.jpg"
 ---

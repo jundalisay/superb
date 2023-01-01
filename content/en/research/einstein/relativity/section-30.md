@@ -1,7 +1,8 @@
 ---
 title: "Cosmological Difficulties Of Newton’s Theory"
 heading: "Section 30"
-date: 2022-03-04
+# date: 2022-03-04
+weight: 54
 description: "Einstein disproves Newton's theory of the universe having a center"
 image: "/covers/rel.jpg"
 ---
@@ -19,7 +20,7 @@ Regarding space and time, the universe is infinite. There are stars everywhere. 
 
 Everywhere there is an attenuated swarm of stars of approximately the same kind and density.
 
-This view does not match Newton's theory which requires that= 
+This view does not match Newton's theory which requires that: 
 - the universe have a centre where the density of the stars is at a maximum, and 
 - as we go outwards from this centre, the group-density of the stars should diminish, until there is only infinite emptiness
 

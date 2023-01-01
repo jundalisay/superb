@@ -1,12 +1,11 @@
 ---
 title: "Some Remarkable Customs"
-heading: "Essay 10 (Part 2)"
+heading: "Essay 10"
 description: "Some Remarkable Customs"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/9-public-credit"
-linkbtext: "public-credit"
-linkf: "/research/hume/essays/part-2/11-ancient-population-size"
-linkftext: "ancient-population"
+author: David Hume
+icon: /avatars/hume.png
+weight: 22
 --- 
 
 

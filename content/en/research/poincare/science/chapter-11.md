@@ -1,7 +1,7 @@
 ---
 title: The Calculus Of Probabilities
 heading: Chapter 11
-date: 2022-01-04
+weight: 58
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

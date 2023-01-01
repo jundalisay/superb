@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 9"
 title: "The Origin and the Course of the Planets and Comets"
-date: 2020-09-12
+weight: 20
 image: "/covers/world.jpg"
 description: "The parts of the matter are very diverse"
 icon: "/icons/descartes.jpg"

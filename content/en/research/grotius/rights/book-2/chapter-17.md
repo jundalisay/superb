@@ -1,7 +1,7 @@
 ---
 title: Damages Occasioned by Injury and the Obligation to Repair Them
 heading: Chapter 17
-date: 2022-07-02
+weight: 36
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"

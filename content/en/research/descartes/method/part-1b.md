@@ -1,8 +1,7 @@
 ---
 heading: Part 1b
 title: The Sciences
-limkTitle: Part 1b
-date: 2022-01-28
+weight: 6
 description: Descartes gives 4 Precepts on Math and Logic
 image: "/covers/method.jpg"
 author: "Rene Descartes"

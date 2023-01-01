@@ -3,10 +3,9 @@ title: "The Original Contract"
 heading: "Essay 12 Part 2"
 description: "Hume disputes the social contract"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/11g-roman-population"
-linkbtext: "Roman Population"
-linkf: "/research/hume/essays/part-2/13-passive-obedience"
-linkftext: Passive-obedience
+weight: 40
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

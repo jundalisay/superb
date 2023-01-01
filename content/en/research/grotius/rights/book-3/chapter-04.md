@@ -1,7 +1,7 @@
 ---
 title: The Right of Committing Acts of Hostility in Lawful War 
 heading: Chapter 4
-date: 2022-07-25
+weight: 14
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

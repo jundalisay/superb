@@ -1,9 +1,9 @@
 ---
 title: The Rights of War
 heading: Chapter 1
-date: 2022-07-30
+weight: 4
 image: /covers/warpeace.jpg
-description: ""
+description: "The ancient Patriarchs formed no national community"
 author: "Hugo Grotius"
 ---
 

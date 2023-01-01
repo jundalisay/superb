@@ -1,14 +1,15 @@
 ---
 title: The Right of Killing Enemies, in Just War, to be Tempered with Moderation and Humanity
 heading: Chapter 11
-date: 2022-07-29
+weight: 28
 image: /covers/warpeace.jpg
-description: 
+description:  Cicero, in the first book of his offices, has finely observed, that 'some duties are to be observed even towards those, from whom you have received an injury'
 author: "Hugo Grotius"
 ---
 
 
-In what cases strict justice allows the destruction of an enemy—Distinction between misfortune and guilt—Between principals and accessories in war—Distinction between unwarrantable and excusable grounds of promoting war—Sometimes right and laudable to forbear punishing an inveterate enemy—Every possible precaution requisite to spare the innocent—Especially children, women, and the aged, except they have committed atrocious acts—Clergymen, men of letters, husbandmen, merchants, prisoners—Conditional surrender not to be rejected—Unconditional surrender—Exceptions to the above rules, some of them considered, and refuted—Delinquents when numerous to be spared—Hostages to be spared—Unnecessary effusion of blood to be avoided.
+
+<!-- In what cases strict justice allows the destruction of an enemy—Distinction between misfortune and guilt—Between principals and accessories in war—Distinction between unwarrantable and excusable grounds of promoting war—Sometimes right and laudable to forbear punishing an inveterate enemy—Every possible precaution requisite to spare the innocent—Especially children, women, and the aged, except they have committed atrocious acts—Clergymen, men of letters, husbandmen, merchants, prisoners—Conditional surrender not to be rejected—Unconditional surrender—Exceptions to the above rules, some of them considered, and refuted—Delinquents when numerous to be spared—Hostages to be spared—Unnecessary effusion of blood to be avoided. -->
 
 
 ## Parts 1-2

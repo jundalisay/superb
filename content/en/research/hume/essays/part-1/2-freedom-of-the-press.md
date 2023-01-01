@@ -1,10 +1,10 @@
 ---
 title: "The Freedom of the Press"
-heading: "Essay 2 by David Hume"
+heading: "Essay 2"
 description: "Great Britain enjoys the Freedom of the Press because its government is mixed"
 image: /covers/essays.jpg
-date: 2020-12-28
-youtube: "UpwdTIAcLVY"
+weight: 4
+# youtube: "UpwdTIAcLVY"
 author: David Hume
 icon: /icons/hume.png
 ---

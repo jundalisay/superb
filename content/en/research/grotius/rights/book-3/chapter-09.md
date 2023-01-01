@@ -1,9 +1,9 @@
 ---
 title: The Right of Postliminium
 heading: Chapter 9
-date: 2022-07-29
+weight: 26
 image: /covers/warpeace.jpg
-description: 
+description: The professors of law in former ages have given no more satisfactory account of the rights of postliminium, than they have done of those, respecting things taken from the enemy
 author: "Hugo Grotius"
 ---
 

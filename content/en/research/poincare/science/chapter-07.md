@@ -1,7 +1,7 @@
 ---
 title: Relative And Absolute Motion
 heading: Chapter 7
-date: 2022-01-22
+weight: 40
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
@@ -11,36 +11,25 @@ icon: /icons/poincare.jpg
 
 ## The Principle of Relative Motion
 
-Sometimes endeavours have been made to connect the law of acceleration with a more general principle. The movement of any sys-
-tem whatever ought to obey the same laws, whether it is referred to fixed axes or to the movable axes which
-are implied in uniform motion in a straight line. 
+Sometimes endeavours have been made to connect the law of acceleration with a more general principle. The movement of any system whatever ought to obey the same laws, whether it is referred to fixed axes or to the movable axes which are implied in uniform motion in a straight line. 
 
 This is the principle of relative motion; it is imposed upon us for 2 reasons: the commonest experiment confirms it;
 the consideration of the contrary hypothesis is singularly repugnant to the mind.
 
 Let us admit it then, and consider a body under the action of a force. The relative motion of this body with
 respect to an observer moving with a uniform velocity equal to the initial velocity of the body, should be iden-
-tical with what would be its absolute motion if it started
-from rest. We conclude that its acceleration must not depend upon its absolute velocity, and from that we at-
-tempt to deduce the complete law of acceleration.
+tical with what would be its absolute motion if it started from rest. 
 
-For a long time there have been traces of this proof in the regulations for the degree of B. ès Sc. It is clear
-that the attempt has failed. The obstacle which prevented us from proving the law of acceleration is that
-we have no definition of force. This obstacle subsists in its entirety, since the principle invoked has not furnished
-us with the missing definition. 
+We conclude that its acceleration must not depend upon its absolute velocity, and from that we attempt to deduce the complete law of acceleration.
 
-The principle of relative motion is none the less very interesting, and deserves to
-be considered for its own sake. Let us try to enunciate
-it in an accurate manner. We have said above that the
-accelerations of the different bodies which form part of
-an isolated system only depend on their velocities and
-their relative positions, and not on their velocities and
-their absolute positions, provided that the movable axes
-to which the relative motion is referred move uniformly
-in a straight line; or, if it is preferred, their accelerations
-depend only on the differences of their velocities and the
-differences of their co-ordinates, and not on the abso-
-lute values of these velocities and co-ordinates. 
+For a long time there have been traces of this proof in the regulations for the degree of B. ès Sc. 
+
+The attempt has failed. The obstacle which prevented us from proving the law of acceleration is that we have no definition of force. This obstacle subsists in its entirety, since the principle invoked has not furnished us with the missing definition. 
+
+The principle of relative motion is none the less very interesting, and deserves to be considered for its own sake. Let us try to enunciate
+it in an accurate manner. We have said above that the accelerations of the different bodies which form part of
+an isolated system only depend on their velocities and their relative positions, and not on their velocities and their absolute positions, provided that the movable axes to which the relative motion is referred move uniformly in a straight line; or, if it is preferred, their accelerations
+depend only on the differences of their velocities and the differences of their co-ordinates, and not on the absolute values of these velocities and co-ordinates. 
 
 If this principle is true for relative accelerations, or rather for differences of acceleration, by combining it with the law
 of reaction we shall deduce that it is true for absolute accelerations. It remains to be seen how we can prove that
@@ -66,9 +55,9 @@ should be imposed upon us with the same force if the
 motion is accelerated, or at any rate if it reduces to a
 uniform rotation. 
 
-In these 2 cases, in fact, the principle
-is not true. I need not dwell on the case in which the
-motion of the axes is in a straight line and not uniform.
+In these 2 cases, in fact, the principle is not true. 
+
+I need not dwell on the case in which the motion of the axes is in a straight line and not uniform.
 The paradox does not bear a moment’s examination. 
 
 If I am in a railway carriage, and if the train, striking against any obstacle whatever, is suddenly stopped, I shall be projected on to the opposite side, although I have not been directly acted upon by any force. 
@@ -106,24 +95,26 @@ that the earth turns round? No doubt, for a longer period
 than did our ancestors, they will regard the soil on which
 they stand as fixed and immovable! 
 
-They will wait a much longer time than we did for the coming of a Coper-
-nicus; but this Copernicus will come at last. How will he
-come? In the first place, the mechanical school of this
-world would not run their heads against an absolute con-
-tradiction. In the theory of relative motion we observe,
-besides real forces, two imaginary forces, which we call
-ordinary centrifugal force and compounded centrifugal
-force. Our imaginary scientists can thus explain every-
-thing by looking upon these two forces as real, and they
+They will wait a much longer time than we did for the coming of a Copernicus. But this Copernicus will come at last. 
+
+How will he come? 
+
+In the first place, the mechanical school of this world would not run their heads against an absolute contradiction. 
+
+In the theory of relative motion we observe, besides real forces, 2 imaginary forces, which we call
+ordinary centrifugal force and compounded centrifugal force. 
+
+Our imaginary scientists can thus explain everything by looking upon these two forces as real, and they
 would not see in this a contradiction of the generalised
 principle of inertia, for these forces would depend, the
 one on the relative positions of the different parts of the
-system, such as real attractions, and the other on their
-relative velocities, as in the case of real frictions. Many
-difficulties, however, would before long awaken their at-
-tention. If they succeeded in realising an isolated sys-
-tem, the centre of gravity of this system would not have
-an approximately rectilinear path. 
+system, such as real attractions. 
+
+The other on their relative velocities, as in the case of real frictions. Many
+difficulties, however, would before long awaken their attention. 
+
+If they succeeded in realising an isolated system, the centre of gravity of this system would not have
+an approximately rectilinear path.
 
 They could invoke, to explain this fact, the centrifugal forces which they would regard as real, and which, no doubt, they would attribute to the mutual actions of the bodies—only they would not
 see these forces vanish at great distances—that is to say,

@@ -2,7 +2,8 @@
 title: "Ether and Special Relativity"
 description: "Why must I distinguish the non-moving `K` system above all moving `K'` systems, which are physically equivalent by assuming that the ether is at rest relatively to the non-moving `K`?"
 image: "/covers/ether.jpg"
-date: 2020-01-30
+weight: 6
+# date: 2020-01-30
 ---
 
 
@@ -16,7 +17,7 @@ But by Special Relativity, the same equations <!-- without any change of meaning
 
 **But why must I distinguish the non-moving `K` system above all moving `K'` systems, which are physically equivalent to it in all respects, by assuming that the ether is at rest relatively to the non-moving `K` system?** 
 
-> *Superphysics Note=  We answer that the duality is essential in because the non-moving `K` has properrties that affect and explain the motions and dynamics within the moving `K'`
+> *Superphysics Note: We answer that the duality is essential in because the non-moving `K` has properrties that affect and explain the motions and dynamics within the moving `K'`
 
 
 I think that such an asymmetry in the theoretical structure, with no corresponding asymmetry in the system of experience, is intolerable*. 
@@ -34,7 +35,7 @@ If the ether were at rest relatively to non-moving `K`, but in motion relatively
 
 Initially, the solution is that the ether does not exist at all. 
 
-The electromagnetic fields= 
+The electromagnetic fields: 
 - are not states of a medium
 - are not bound down to any bearer
 - are independent realities which are not reducible to anything else, exactly like the atoms of ponderable matter. 
@@ -74,13 +75,13 @@ Minkowski expresses this as=  Not every extended conformation in the four-dimens
 
 We merely must not <!-- Only we must be on our guard against --> ascribe a state of motion to the ether. To Special Relativity, the ether hypothesis initially is an empty hypothesis. 
 
-The equations of the electromagnetic field only have= 
+The equations of the electromagnetic field only have:
 - the densities of the electric charge
 - the intensities of the field. 
 
 Electromagnetic processes in vacua are completely determined by these equations, uninfluenced by other physical quantities. 
 
-The electromagnetic fields appear as ultimate, irreducible realities. At first, it seems superfluous to= 
+The electromagnetic fields appear as ultimate, irreducible realities. At first, it seems superfluous to: 
 - postulate a homogeneous, isotropic ether-medium
 - envisage electromagnetic fields as states of this medium.
 
@@ -90,7 +91,7 @@ But on the other hand, the <!--  is a weighty argument to be adduced in favour o
 
  do not harmonize with this view. For 
 
-The mechanical behaviour of body hovering freely in empty space depends on= 
+The mechanical behaviour of body hovering freely in empty space depends on:
 - relative positions (distances)
 - relative velocities
 - its state of rotation
@@ -103,7 +104,7 @@ Newton could have called his absolute space as "Ether". Besides observable objec
 
 ### Mach
 
-Mach tried to avoid assigning reality to a something not observable. Instead of an acceleration with reference to absolute space, he used all of the masses in the universe as reference. 
+Mach tried to avoid assigning reality to a something not observable. Instead of an acceleration with reference to absolute space, he used all of the masses in the universe as reference.
 <!-- He substituted in mechanics a mean acceleration with reference to  .  -->
 
 But inertial resistance opposed to relative acceleration of distant masses presupposes action at a distance. Anyone who follows Mach will still end up with the ether as medium for the effects of inertia. But Mach's ether is different from the ether of Newton, Fresnel, and Lorentz.
@@ -113,13 +114,13 @@ But inertial resistance opposed to relative acceleration of distant masses presu
 
 Mach's ether not only conditions the behaviour of inert masses, but is also conditioned in its state by them.
 
-Mach's idea finds its full development in the ether of General Relativity which says that the metrical qualities of space-time= 
+Mach's idea finds its full development in the ether of General Relativity which says that the metrical qualities of space-time: 
 - differ in the different points of space-time
 - are partly conditioned by the matter existing outside of the territory
 
 
 
-Space is not physically empty. This is because  
+Space is not physically empty. This is because:  
 - Space and time have reciprocal relations
 - "empty space" in its physical relation is neither homogeneous nor isotropic, compelling us to describe its state by ten functions (the gravitation potentials gμν), 
 
@@ -133,7 +134,7 @@ The ether of General Relativity is a medium which is itself devoid of all mechan
 
 The state of General Relativity (GR) Ether is at every place determined by connections with the matter and the state of the ether in neighbouring places. These are amenable to law in the form of differential equations. 
 
-The Lorentzian ether in the absence of electromagnetic fields is= 
+The Lorentzian ether in the absence of electromagnetic fields is:
 - conditioned by nothing outside itself
 - everywhere the same
 
@@ -146,7 +147,7 @@ As to the part which the new ether is to play in the physics of the future we ar
 
 The new ether determines the metrical relations in the space-time continuum, e.g. the configurative possibilities of solid bodies as well as the gravitational fields. 
 
-But we do not know whether= 
+But we do not know whether:
 - it has an essential share in the structure of the electrical elementary particles constituting matter.
 - it is only in the proximity of ponderable masses that its structure differs essentially from that of the Lorentzian ether
 - the geometry of spaces of cosmic extent is approximately Euclidean. 
@@ -166,7 +167,7 @@ The existence of the gravitational field is inseparably bound up with the existe
 
 From the present state of theory it looks as if the electromagnetic field, as opposed to the gravitational field, rests upon an entirely new formal motif, as though nature might just as well have endowed the gravitational ether with fields of quite another type, for example, with fields of a scalar potential, instead of fields of the electromagnetic type.
 
-The elementary particles of matter are merely condensations of the electromagnetic field. This leads to two views of the universe=  
+The elementary particles of matter are merely condensations of the electromagnetic field. This leads to two views of the universe:  
 - gravitational ether (space)
 - electromagnetic field (matter)
 
@@ -191,3 +192,4 @@ According to GR, space has physical qualities represented by the ether.
 <!-- According to the general theory of relativity space without ether is unthinkable; for in such space there not only would be no propagation of light, but also no possibility of existence for standards of space and time (measuring-rods and clocks), nor therefore any space-time intervals in the physical sense.  -->
 
 But this ether is not a ponderable media which has parts which may be tracked through time. The idea of motion may not be applied to it. 
+

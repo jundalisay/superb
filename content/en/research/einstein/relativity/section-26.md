@@ -1,7 +1,8 @@
 ---
 title: "The Space–time Continuum Of Special Relativity as a Euclidean Continuum"
 heading: "Section 26"
-date: 2022-03-12
+# date: 2022-03-12
+weight: 46
 description: "According to Special Relativity, Galileian co-ordinate systems are preferred for describing a 4D space-time continuum"
 image: "/covers/rel.jpg"
 ---
@@ -20,6 +21,7 @@ Two neighbouring events happen in the 4D continuum with respect to a Galileian r
 - The second Galileian system has the corresponding differences for these two events as `dx', dy', dz', dt'`. 
 - These magnitudes always fulfill the condition= 
 
+
 ``` elixir
 dx^2 + dy^2 + dz^2 − c^2 dt^2 = dx'^2 + dy'^2 + dz'^2 − c^2 dt'^2
 ```
@@ -33,7 +35,7 @@ ds^2 = dx^2 + dy^2 + dz^2 − c^2 dt^2
 
 
 
-The magnitude which belongs to two adjacent points of the 4D space-time continuum, has the same value for all selected (Galileian) reference-bodies. If we replace `x, y, z, √ (− 1 ct)` by `x1, x2, x3, x4`, we also obtain the result= 
+The magnitude which belongs to two adjacent points of the 4D space-time continuum, has the same value for all selected (Galileian) reference-bodies. If we replace `x, y, z, √ (− 1 ct)` by `x1, x2, x3, x4`, we also obtain the result:
 
 ``` elixir
 ds^2 = dx1^2 + dx2^2 + dx3^2 + dx4^2*
@@ -43,3 +45,4 @@ ds^2 = dx1^2 + dx2^2 + dx3^2 + dx4^2*
 
 This is independent of the choice of viewpoint. We call the magnitude `ds` the “distance” apart of the 2 events or 4D points. <!-- Cf. Appendices I and II. The relations which are derived there for the co-ordinates themselves are valid also for co-ordinate differences, and thus also for co-ordinate differentials (indefinitely small differences).
 [ * ds 2 = dx 1 2 + dx 2 2 + dx 3 3 + dx 4 2 — J.M.]  --> Thus, if we choose as time-variable the imaginary variable `√ (− 1 ct)` instead of the real quantity `t`, we can regard the space-time continuum — in accordance with Special Relativity — as a “Euclidean” 4D continuum<!-- , a result which follows from the considerations of the preceding section -->.
+

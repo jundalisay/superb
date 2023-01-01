@@ -1,7 +1,7 @@
 ---
 title: The Nature of Reprisals
 heading: Chapter 2
-date: 2022-07-29
+weight: 10
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

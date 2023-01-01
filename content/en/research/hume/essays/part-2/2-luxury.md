@@ -1,8 +1,10 @@
 ---
 title: "What is Luxury?"
-heading: "Essay 2 Refinement in the Arts Part 2"
+heading: "Essay 2 Refinement in the Arts"
 description: "Proper Luxury should be encouraged and bad luxury discouraged"
-date: 2020-01-30
+weight: 6
+author: David Hume
+icon: /avatars/hume.png
 image: /covers/essays.jpg
 ---
 

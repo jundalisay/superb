@@ -1,7 +1,8 @@
 ---
 title: "The Gravitational Field"
 heading: "Section 19"
-date: 2022-03-26
+# date: 2022-03-26
+weight: 32
 description: "Newton's gravity is different Newton's inertia. Yet Einstein unites them"
 image: "/covers/rel.jpg"
 ---
@@ -65,14 +66,16 @@ Force = gravitational mass × intensity of the gravitational field
 ```
 
 
-The “gravitational mass” is also a characteristic constant for the body. From these, two relations follows= 
+The “gravitational mass” is also a characteristic constant for the body. From these, two relations follows:
 
 ``` elixir
 acceleration = (gravitational mass / inertial mass) × intensity of the gravitational field
 ```
 
 
-If the acceleration were independent of the nature of the body and always the same for a given gravitational field, then the ratio of the gravitational to the inertial mass must likewise be the same for all bodies. We then make both types of mass the same as a law: <!--  By a suitable choice of units we can thus make this ratio equal to unity. We then have the following law=  -->
+If the acceleration were independent of the nature of the body and always the same for a given gravitational field, then the ratio of the gravitational to the inertial mass must likewise be the same for all bodies. 
+
+We then make both types of mass the same as a law: <!--  By a suitable choice of units we can thus make this ratio equal to unity. We then have the following law=  -->
 
 {{< q a="newton" >}}
 The gravitational mass of a body is equal to its inertial mass.

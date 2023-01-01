@@ -1,16 +1,16 @@
 ---
 title: Defence of Person and Property
 heading: Chapter 1
-date: 2022-07-30
+weight: 4
 image: /covers/warpeace.jpg
-description: 
+description: What are the justifiable causes of war?
 author: "Hugo Grotius"
 ---
 
 
 <!--     Causes of War—Defence of person and property—What are called justifiable causes of war—Justifiable causes of War are Defence, recovery of one's property or debt, or the punishment of offences committed—War for defence of life, justifiable, and lawful—This kind of war lawful against an aggressor only—The danger must be present and real, not an imaginary danger—Lawful to kill any one attempting to maim one's person, or violate one's chastity—Occasions where this right may be lawfully waved—This right to be waved particularly with respect to the person of the Sovereign, which is sacred and inviolable—Homicide in defence of one's property allowed by the law of nature—How far homicide is permitted by the law of Moses—Self-defence in public war—Not lawful to attack any power solely on account of its increasing greatness—The hostile measures of an aggressor, not to be justified on the plea of self-defence. -->
 
-I. What are the justifiable causes of war? 
+## What are the justifiable causes of war? 
 
 In some cases, motives of interest operate distinctly from motives of justice.
 

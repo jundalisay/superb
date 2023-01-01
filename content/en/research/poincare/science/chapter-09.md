@@ -1,7 +1,7 @@
 ---
 title: Hypotheses In Physics
 heading: Chapter 9
-date: 2022-01-16
+weight: 46
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

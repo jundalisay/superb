@@ -4,7 +4,8 @@ description: "The Schwarzschild Solution"
 image: "/covers/ether.jpg"
 author: "Einstein and Rosen"
 image: "/covers/pproblem.jpg"
-date: 2020-01-30
+weight: 6
+# date: 2020-01-30
 ---
 
 

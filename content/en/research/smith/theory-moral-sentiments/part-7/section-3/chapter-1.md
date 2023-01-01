@@ -1,14 +1,13 @@
-+++
-title=  "Self-love"
-heading=  "Chapter 1"
-description=  "According to Mr. Hobbes, man takes refuge in society not by any natural love for humans, but because he cannnot live easily without the aid of others"
-date=  2015-09-30
-image=  "/covers/tms.jpg"
-linkb=  "/research/smith/theory-moral-sentiments/part-7/section-2/chapter-4"
-linkbtext=  "Section 2"
-linkf=  "/research/smith/theory-moral-sentiments/part-7/section-3/chapter-2"
-linkftext=  "Chapter 2"
-+++
+---
+heading: Chapter 1
+title: "Self-love"
+weight: 2
+author: "Adam Smith"
+icon: /icons/smith.png
+image: "/covers/tms.jpg"
+description: "According to Hobbes, man takes refuge in society not by any natural love for humans, but because he cannnot live easily without the aid of others"
+---
+
 
 
 ## Introduction

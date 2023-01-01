@@ -3,13 +3,14 @@ title: "Waging War"
 image: "/covers/war.jpg"
 description: "The cost of raising an army of 100,000 men is 1,000 ounces of silver per day"
 heading: "Chapter 2"
+weight: 4
 ---
 
 
 
 The cost of raising an army of 100,000 men is 1,000 ounces of silver per day.
 
-This includes= 
+This includes:
 - 1,000 swift chariots
 - 1,000 heavy chariots
 - 100,000 mail-clad soldiers
@@ -41,9 +42,11 @@ On the other hand, the proximity of an army causes prices to go up.
 - High prices cause the people's substance to be drained away.
 - When their substance is drained away, the peasantry will be afflicted by heavy exactions.
 
-With this loss and exhaustion, the people's homes will be stripped bare. 3/10 of their income will be dissipated
+With this loss and exhaustion, the people's homes will be stripped bare. 
 
-4/10 of its total revenue will amount to government expenses for= 
+3/10 of their income will be dissipated
+
+4/10 of its total revenue will amount to government expenses for:
 - broken chariots
 - worn-out horses
 - breast-plates and helmets

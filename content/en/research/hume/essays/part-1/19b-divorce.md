@@ -1,9 +1,9 @@
 ---
 title: "Argument for and Against Divorce"
-heading: "Essay 19b (Part 1)"
+heading: "Essay 19b"
 description: "The Rise And Progress Of The Arts"
 image: /covers/essays.jpg
-date: 2020-11-18
+weight: 42
 author: David Hume
 icons: /icons/hume.png
 --- 

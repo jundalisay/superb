@@ -1,31 +1,49 @@
 ---
-title: Oaths
+title: The sanctity of an oath
 heading: Chapter 13
-date: 2022-07-06
+weight: 30
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"
 ---
 
 
-The efficacy of oaths among Pagans—
+<!-- The efficacy of oaths among Pagans—
 
 Deliberation requisite in oaths—The sense, in which oaths are understood to be taken, to be adhered to—To be taken according to the usual meaning of the words—
 
-The subject of them to be lawful—Not to counteract moral obligations—In what sense oaths are an appeal to God—The purport of oaths—To be faithfully observed in all cases—The controul of sovereigns over the oaths of subjects—Observations on our Saviour's prohibition of oaths—Forms substituted for oaths.
+The subject of them to be lawful—Not to counteract moral obligations—In what sense oaths are an appeal to God—The purport of oaths—To be faithfully observed in all cases—The controul of sovereigns over the oaths of subjects—Observations on our Saviour's prohibition of oaths—Forms substituted for oaths. -->
 
 
-## Part 1: The sanctity of an oath
+## Part 1
 
-The sanctity of an oath with regard to promises, agreements, and contracts, has always been held in the greatest esteem, in every age and among every people. For as Sophocles has said in his Hippodamia, "The soul is bound to greater caution by the addition of an oath. For it guards us against two things, most to be avoided, the reproach of friends, and the wrath of heaven." In addition to which the authority of Cicero may be quoted, who says, our forefathers intended that an oath should be the best security for sincerity of affirmation, and the observance of good faith. "For, as he observes in another place, there can be no stronger tie, to the fulfilment of our word and promise, than an oath, which is a solemn appeal to the testimony of God."
+The sanctity of an oath with regard to promises, agreements, and contracts, has always been held in the greatest esteem, in every age and among every people. 
 
-II. The next point, to be considered, is the original force and extent of oaths.
+Sophocles has said in his Hippodamia: "The soul is bound to greater caution by the addition of an oath. For it guards us against two things, most to be avoided, the reproach of friends, and the wrath of heaven."
 
-And in the first place the arguments, that have been used respecting promises and contracts, apply to oaths also, which ought never to be taken but with the most deliberate reflection and judgment. Nor can any one lawfully take an oath, with a secret intention of not being bound by it. For the obligation is an inseparable and necessary consequence of an oath, and every act accompanied with an obligation is supposed to proceed from a deliberate purpose of mind. Every one is bound likewise to adhere to an oath in that sense, in which it is usually understood to be taken. For an oath being an appeal to God, should declare the full truth in the sense in which it is understood. And this is the sense upon which Cicero insists that all oaths should be performed161 and adhered to in that sense, in which the party imposing them intended they should be taken. For although in other kinds of promises a condition may easily be implied, to release the promiser; yet that is a latitude by no means admissible in an oath. And on this point an appeal may be made to that passage, where the admirable writer of the Epistle to the Hebrews has said, God willing more abundantly to shew unto the heirs of the promise the immutability of his counsel confirmed it by an oath: that by two immutable things, in which it was impossible for God to deceive, we might have a strong consolation. In order to understand these words, we must observe that the sacred writers, in speaking of God, often attribute to him human passions, rather in conformity to our finite capacities, than to his infinite nature. For God does not actually change his decrees, though he may be said to do so, and to repent, whenever he acts otherwise than the words seemed to indicate, the occasion, on which they were delivered, having ceased. Now this may easily be applied in the case of threats, as conferring no right; sometimes too in promises, where a condition is implied. The Apostle therefore names two things denoting immutability, a promise which confers a right, and an oath, which admits of no mental reservations.
+In addition to which the authority of Cicero may be quoted, who says, our forefathers intended that an oath should be the best security for sincerity of affirmation, and the observance of good faith. "For, as he observes in another place, there can be no stronger tie, to the fulfilment of our word and promise, than an oath, which is a solemn appeal to the testimony of God."
+
+
+## Part 2: the original force and extent of oaths
+
+And in the first place the arguments, that have been used respecting promises and contracts, apply to oaths also, which ought never to be taken but with the most deliberate reflection and judgment. Nor can any one lawfully take an oath, with a secret intention of not being bound by it. 
+
+For the obligation is an inseparable and necessary consequence of an oath, and every act accompanied with an obligation is supposed to proceed from a deliberate purpose of mind. Every one is bound likewise to adhere to an oath in that sense, in which it is usually understood to be taken. For an oath being an appeal to God, should declare the full truth in the sense in which it is understood. 
+
+And this is the sense upon which Cicero insists that all oaths should be performed161 and adhered to in that sense, in which the party imposing them intended they should be taken. For although in other kinds of promises a condition may easily be implied, to release the promiser; yet that is a latitude by no means admissible in an oath. And on this point an appeal may be made to that passage, where the admirable writer of the Epistle to the Hebrews has said, God willing more abundantly to shew unto the heirs of the promise the immutability of his counsel confirmed it by an oath: that by two immutable things, in which it was impossible for God to deceive, we might have a strong consolation.
+
+In order to understand these words, we must observe that the sacred writers, in speaking of God, often attribute to him human passions, rather in conformity to our finite capacities, than to his infinite nature. 
+
+For God does not actually change his decrees, though he may be said to do so, and to repent, whenever he acts otherwise than the words seemed to indicate, the occasion, on which they were delivered, having ceased. Now this may easily be applied in the case of threats, as conferring no right; sometimes too in promises, where a condition is implied. The Apostle therefore names two things denoting immutability, a promise which confers a right, and an oath, which admits of no mental reservations.
 
 From the above arguments it is easy to comprehend what is to be thought of an oath fraudulently obtained. For if it is certain that a person took the oath upon a supposition, which afterwards was proved to have no foundation, and but for the belief of which he would never have taken it, he will not be bound by it. But if it appears that he would have taken it without that supposition; he must abide by his oath, because oaths allow of no evasion.
 
-III. The meaning of an oath should not be stretched beyond the usual acceptation of words. Therefore there was no breach of their oath in those, who, having sworn that they would not give their daughters in marriage to the Benjamites, permitted those that had been carried off to live with them. For there is a difference between giving a thing, and not recovering that which is lost.
+
+## Part 3
+
+The meaning of an oath should not be stretched beyond the usual acceptation of words.
+
+Therefore there was no breach of their oath in those, who, having sworn that they would not give their daughters in marriage to the Benjamites, permitted those that had been carried off to live with them. For there is a difference between giving a thing, and not recovering that which is lost.
 
 IV. To give validity to an oath, the obligation, which it imposes ought to be lawful. Therefore a sworn promise, to commit an illegal act, to do any thing in violation of natural or revealed law, will be of no effect.
 

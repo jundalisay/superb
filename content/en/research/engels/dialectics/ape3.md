@@ -1,11 +1,37 @@
-We do not dispute the ability of animals to act in a planned, premeditated fashion. 
+---
+title: The planned action of Animals
+heading: Part 3
+# Dialectics of Nature
+# date: 2022-01-31
+weight: 6
+description: Dialectics of Nature
+author: "Frederick Engels"
+image: "/covers/nature.jpg"
+icon: /icons/engels.png
+---
 
-On the contrary, a planned mode of action exists in embryo wherever protoplasm, living albumen, exists and reacts, that is, carries out definite, even if extremely simple, movements as a result of definite external stimuli. Such reaction takes place even where there is yet no cell at all, far less a nerve cell. 
+
+<!-- We do not dispute the ability of  -->
+
+Animals can act in a planned, premeditated fashion. 
+
+On the contrary, a planned mode of action exists in embryo wherever protoplasm, living albumen, exists and reacts, that is, carries out definite, even if extremely simple, movements as a result of definite external stimuli. 
+
+Such reaction takes place even where there is yet no cell at all, far less a nerve cell. 
 
 
-There is something of the planned action in the way insect-eating plants capture their prey, although they do it quite unconsciously. In animals the capacity for conscious, planned action is proportional to the development of the nervous system, and among mammals it attains a fairly high level. While fox-hunting in England one can daily observe how unerringly the fox makes use of its excellent knowledge of the locality in order to elude its pursuers, and how well it knows and turns to account all favourable features of the ground that cause the scent to be lost. 
+There is something of the planned action in the way insect-eating plants capture their prey, although they do it quite unconsciously. 
 
-Among our domestic animals, more highly developed thanks to association with man, one can constantly observe acts of cunning on exactly the same level as those of children. For, just as the development history of the human embryo in the mother’s womb is only an abbreviated repetition of the history, extending over millions of years, of the bodily development of our animal ancestors, starting from the worm, so the mental development of the human child is only a still more abbreviated repetition of the intellectual development of these same ancestors, at least of the later ones. But all the planned action of all animals has never succeeded in impressing the stamp of their will upon the earth. That was left for man.
+In animals the capacity for conscious, planned action is proportional to the development of the nervous system, and among mammals it attains a fairly high level. 
+
+In English fox-hunting, the fox unerringly uses its excellent knowledge of the locality in order to elude its pursuers. 
+<!-- , and how well it knows and turns to account all favourable features of the ground that cause the scent to be lost.  -->
+
+Our domestic animals are more highly developed thanks to their association with man. They can act as cunning as our children. 
+
+For, just as the development history of the human embryo in the mother’s womb is only an abbreviated repetition of the history, extending over millions of years, of the bodily development of our animal ancestors, starting from the worm, so the mental development of the human child is only a still more abbreviated repetition of the intellectual development of these same ancestors, at least of the later ones. 
+
+But all the planned action of all animals has never succeeded in impressing the stamp of their will upon the earth. That was left for man.
 
 In short, the animal merely uses its environment, and brings about changes in it simply by its presence; man by his changes makes it serve his ends, masters it. This is the final, essential distinction between man and other animals, and once again it is labour that brings about this distinction.
 

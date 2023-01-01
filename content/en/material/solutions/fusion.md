@@ -175,7 +175,7 @@ One of these powers is to levitate using their center of gravity.
 
 This shows how low energy input as metaphysical Effort*, without any physical fuel source or physical Force, can produce "work" as to physically lift a man by altering his [gravitational signature](/material/fallacies/general-relativity). 
 
-> *This concept is one of the basis for our [Effort Theory of Value](/social/economics/principles/effort-theory-of-value), derived from Adam Smith, and is the foundation of Pantrynomics. It is opposite of the 'scarcity' embraced by Economics which makes it into a dismal science. 
+> *This concept is one of the basis for our [Effort Theory of Value](/social/economics/principles/effort-theory-of-value), derived from Adam Smith, and is the foundation of Supereconomics. It is opposite of the 'scarcity' embraced by Economics which makes it into a dismal science. 
 
 
 This is the same technique used by UFO's to lift themselves without needing boosters nor bulky fuel tanks. It implies that their ships are sentient* just as the monk is sentient or has his own ability to express metaphysical ideas and do effort by himself.

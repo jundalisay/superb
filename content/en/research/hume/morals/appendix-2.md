@@ -1,18 +1,12 @@
-+++
-title       = "Appendix 2=  The Ego (Self-Love)"
-description = "Section 1 of An Enquiry Concerning the Principles of Morals Simplified"
-date        = "2022-01-31"
-banner 		= "/covers/morals.jpg"
-author      = "David Hume"
-# keywords    = ["documentation"]
-linkTitle   = "Appendix 2"
-tags        = []
-categories  = []
-linkb = "/research/hume/morals"
-linkbtext = "Index"
-linkf = "/research/hume/morals/section-2"
-linkftext = "Section 2"
-+++
+---
+title: "The Ego (Self-Love)"
+heading: "Appendix 2"
+description: "THERE is a principle, supposed to prevail among many, which is utterly incompatible with all virtue or moral sentiment"
+image: /covers/morals.jpg
+author: David Hume
+weight: 1
+---
+
 
 
 THERE is a principle, supposed to prevail among many, which is utterly incompatible with all virtue or moral sentiment; and as it can proceed from nothing but the most depraved disposition, so in its turn it tends still further to encourage that depravity. 

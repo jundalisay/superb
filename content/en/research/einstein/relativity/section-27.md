@@ -1,7 +1,8 @@
 ---
 title: "The Space–time Continuum Of General Relativity Is Not A Euclidean Continuum"
 heading: "Section 27"
-date: 2022-03-10
+# date: 2022-03-10
+weight: 48
 description: "Einstein splits General Relativity from Special Relativity by creating an arbitrary, malleable spacetime"
 image: "/covers/rel.jpg"
 ---
@@ -16,6 +17,7 @@ But according to Section 22, General Relativity (GR) cannot retain this law beca
 Section 23 explained that the presence of a gravitational field invalidates the definition of the co-ordinates and the time of SR.
 
 According to GR, the space-time continuum cannot be Euclidean like the marble slab (with a hot center and cool sides) <!-- . local variations of temperature --> as an example of a 2D continuum. It was there impossible to construct a Cartesian co-ordinate system from equal rods. Likewise here, it is impossible to build up a system<!--  (reference-body) --> of rigid bodies and clocks to <!-- , which shall be of such a nature that measuring-rods and clocks, arranged rigidly with respect to one another, shall --> indicate position and time directly. This was our difficulty in Section 23.
+
 
 
 ## General Relatvity Creates Arbitrary Spacetimes

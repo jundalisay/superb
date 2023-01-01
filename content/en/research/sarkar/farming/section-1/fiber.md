@@ -124,7 +124,9 @@ To separate the fibre from the plant, cover the green stalk with soil for 3 week
 
 Fine dhutis or traditional Indian men’s garments and other clothing can be made from the fibres.
 
-The mature plant is about 4 feet tall. The seeds contain 5% oil. If this proportion can be increased to 10% through research, okra can be used to produce commercial edible oil. 
+The mature plant is about 4 feet tall. 
+
+Edible oil can be extracted from okra seeds which contain 5% oil. This oil does not have a high fat content. If this proportion can be increased to 10% through research, okra can be used to produce commercial edible oil.
 
 <!-- Lady’s finger --> 
 
@@ -136,14 +138,11 @@ It has 2 varieties:
 To prepare okra seeds for sprouting, put the seeds in warm water. After the water temperature has returned to normal, soak the seeds for 2 hours. 
 - The seeds should then be sown.
 
-
-Edible oil can be extracted from okra seeds. This oil does not have a high fat content. 
-
 The stem is low in calories. The fibre of the plant can be used to make cloth. 
 
 The remaining part of the plant can be used for fodder and fertilizer. 
 
-Okra is grown above the soil, so it can be grown with a tuber crop to get 2 crops at a time – one above and one below the ground. 
+**Okra is grown above the soil, so it can be grown with a tuber crop to get 2 crops at a time – one above and one below the ground.** 
 
 The okra's stem can be used:
 - in the plastic industry
@@ -153,6 +152,13 @@ The okra's stem can be used:
 Match sticks cannot be made from the wood of okra because the wood is too weak. 
 
 Okra takes only 40 days to grow and it consumes little irrigation water.
+
+<!-- The stems of okra can be used for a special purpose.  -->
+
+If you have a pineapple field which is not producing fruits nor flowers. If the okra stems are burnt and scattered throughout the field, the fumes and smoke will help the pineapple develop fruit and flowers. 
+- But one should be careful that the pineapple plant is not burnt. 
+- This process will produce both fruit and flowers very quickly.
+
 
 
 

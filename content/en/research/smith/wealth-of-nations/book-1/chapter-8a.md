@@ -39,7 +39,7 @@ For example:
 {{< s v="5" >}} But the rude state ended when private property was introduced* and long before productivity was increased.
 
 
-> *Superphysics note: This is why Pantrynomics replaces private property with usufruct rights in order to reduce rent-seeking behavior and increase wealth creation.  
+> *Superphysics note: This is why Supereconomics replaces private property with usufruct rights in order to reduce rent-seeking behavior and increase wealth creation.  
 
 
 <!-- It would be useless to find out what wages were in the rude state. -->
@@ -59,7 +59,7 @@ For example:
 In all manufactures, most workers need material support* from their employer until their work is completed.
 - Their employer shares in the produce of their work as his profit.
 
-> *Superphysics Note: Pantrynomics uses points to provide material support to reduce the cost of the deduction
+> *Superphysics Note: Supereconomics uses points to provide material support to reduce the cost of the deduction
 
 
 {{< s v="9" >}} An independent worker might have stock sufficient to:

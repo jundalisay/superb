@@ -1,14 +1,10 @@
 ---
 title: "Justice"
-heading: "Section 3 of An Enquiry Concerning the Principles of Morals Simplified"
+heading: "Section 3 "
 description: "Is public utility the SOLE origin of justice? Are the benefits of justice the SOLE foundation of its merit?"
 image: /covers/morals.jpg
-# image: "https://sorasystem.sirv.com/photos/medieval/cicero.jpg"
-date: 2020-01-22
-linkb: "/research/hume/morals"
-linkbtext: Index
-linkf: "/research/hume/morals"
-linkftext: Index
+author: David Hume
+weight: 1
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 title: The Mechanical Explanation of Physical Phenomena
 heading: Chapter 12b
-date: 2021-12-25
+weight: 70
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

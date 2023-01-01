@@ -1,16 +1,16 @@
 ---
 title: The Law of Nature
 heading: Chapter 1b
-date: 2022-07-28
+weight: 6
 image: /covers/warpeace.jpg
-description: ""
+description: "The existence of the Law of Nature is proved by 2 kinds of arguments"
 author: "Hugo Grotius"
 ---
 
 
 ## Part 12
 
-The existence of the Law of Nature is proved by 2 kinds of argument:
+The existence of the Law of Nature is proved by 2 kinds of arguments:
 - a priori
   - This is more abstruse method of proof
 - a posteriori

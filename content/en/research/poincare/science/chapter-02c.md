@@ -1,6 +1,7 @@
 ---
+heading: Chapter 2c
 title: Mathematical Magnitude And Experiment
-date: 2022-02-18
+weight: 14
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

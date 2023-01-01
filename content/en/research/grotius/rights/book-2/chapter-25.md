@@ -2,13 +2,13 @@
 title: The Causes of Undertaking War for Others
 heading: Chapter 25
 image: /covers/warpeace.jpg
-date: 2022-06-10
+weight: 60
 description: ""
 author: "Hugo Grotius"
 ---
 
 
-Sovereigns may engage in war to support the rights of their subjects—Whether an innocent subject can be delivered up to an enemy to avoid danger—Wars justly undertaken in support of confederates upon equal, or unequal terms—For friends—For any men—Omission of this duty not blamable, from motives of self-preservation—Whether war may be justly undertaken in defence of another's subjects, explained by distinctions.
+<!-- Sovereigns may engage in war to support the rights of their subjects—Whether an innocent subject can be delivered up to an enemy to avoid danger—Wars justly undertaken in support of confederates upon equal, or unequal terms—For friends—For any men—Omission of this duty not blamable, from motives of self-preservation—Whether war may be justly undertaken in defence of another's subjects, explained by distinctions. -->
 
 
 ## Part 1

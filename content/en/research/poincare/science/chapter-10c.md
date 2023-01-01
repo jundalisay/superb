@@ -1,7 +1,7 @@
 ---
 title: The Present State of Physics
 heading: Chapter 10c
-date: 2022-01-06
+weight: 56
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

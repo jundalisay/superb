@@ -1,12 +1,11 @@
 ---
 title: "Public Credit"
-heading: "Essay 9, Part 2"
+heading: "Essay 9"
 description: "In ancient times, the common practice was to hoard up treasures during peacetime for paying conquest or defence during wartime"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/8-taxes"
-linkbtext: "Taxes"
-linkf: "/research/hume/essays/part-2/10-remarkable-customs"
-linkftext: "Remarkable-customs"
+author: David Hume
+icon: /avatars/hume.png
+weight: 20
 ---
 
 

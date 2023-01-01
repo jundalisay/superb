@@ -1,8 +1,8 @@
 ---
 title: Energy And Thermo-dynamics
 heading: Chapter 8
-date: 2022-01-20
-description: Science and Hypothesis
+weight: 42
+description: The difficulties raised by the classical mechanics have led certain minds to prefer a new system called Energetics
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
 icon: /icons/poincare.jpg

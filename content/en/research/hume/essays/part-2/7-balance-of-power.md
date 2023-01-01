@@ -1,13 +1,11 @@
 ---
 title: "The Balance Of Power"
-heading: "Essay 7, Part 2"
+heading: "Essay 7"
 description: "The Balance Of Power in the ancient and modern"
 image: /covers/essays.jpg
-date: "2020-01-12"
-linkb: "/research/hume/essays/part-2/6-jealousy-of-trade"
-linkbtext: "Hume Essays"
-linkf: "/research/hume/essays/part-2/8-taxes"
-linkftext: "Taxes"
+weight: 16
+author: David Hume
+icon: /avatars/hume.png
 --- 
 
 

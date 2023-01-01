@@ -39,7 +39,10 @@ Homer feeds his heroes at their feasts on soldiers' fare, when they are campaign
   - Roasted meat is the most convenient food for soldiers. 
   - They only need to light a fire without carrying pots and pans. 
 - They do not use sweet sauces. 
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 All professional athletes know that men in good condition should take no sweets. I will not approve of:
 - Syracusan dinners,
 - Athenian confectionary,
@@ -62,7 +65,10 @@ The greatest proof of a bad education is when:
 It is disgraceful and a lack of good-breeding, that:
 - a man should have to go abroad for his law and physic because he has none of his own at home.
 - he must surrender himself into the hands of other men whom he makes lords and judges over him.
+{{< /l >}}
 
+
+{{< l a="Socrates" >}}
 There is a further stage of the evil in which a man is a life-long litigant.
 - He spends all his days in the courts, either as plaintiff or defendant.
 - His bad taste prides himself on his litigiousness.

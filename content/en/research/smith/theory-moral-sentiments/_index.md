@@ -11,10 +11,10 @@ weight: 12
 
 <!-- Positive laws = impositions and thou shall.. -->
 
-<!-- Pantrynomics is based on David Hume'sScience of Man, which we compile into The Metaphysics of Things as a complement to the current sciences.
+<!-- Supereconomics is based on David Hume'sScience of Man, which we compile into The Metaphysics of Things as a complement to the current sciences.
 If Science were the wings of an aircraft, then the Metaphysics of Things would be its engine, just as the Supreme Entity is the driving force of everything. An aircraft with only wings without an engine can glide only a short distance. But an aircraft without wings but with only a very powerful engine, as a rocket, can reach the stars. For this reason, we use the enlightened metaphysics (not the vulgar one) to overhaul the current sciences and systems in place, in the same way that a World War I biplane is overhauled into a modern stealth fighter to increase its utility= 
 
-We overhaulEconomics of Samuelson into Pantrynomics of Adam Smith, by using Smith's effort theory of value, undoing the errors of Mercantilism, to prevent economic crises, poverty, and inequality
+We overhaulEconomics of Samuelson into Supereconomics of Adam Smith, by using Smith's effort theory of value, undoing the errors of Mercantilism, to prevent economic crises, poverty, and inequality
 We overhaul Physics intoSuperphysics, by regarding electrons as positively charged and protons as negatively charged, undoing theerror of Benjamin Franklin in order to lay the foundation for anti-gravity as done by levitating yogis, and faster-than-light-travel as done by UFOs
 We overhaulReligious morality into adharmic morality, by using Smith'simpartial spectator implemented through animpartial artificial intelligence
 Smith's moral system implements the design of the invisble hand of Jupiter, and is the foundation of his proposed economic system which spreads prosperity and happiness for all entities, even plants and animals. For this reason, hisTheory of Moral Sentiments has been simplified to be easier to understand.

@@ -1,7 +1,7 @@
 ---
 title: The General Rights of Things
 heading: Chapter 2
-date: 2022-07-28
+weight: 6
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"
@@ -14,18 +14,20 @@ Wild beasts, fishes, birds, may become the property of him who seizes them—In 
 
 The right to use the property of another, provided that use be no way prejudicial to the owner—Hence the right to the use of running water—The right of passing through countries, and by rivers explained—An inquiry into the right of imposing duties on merchandise—The right of residing for a time in a foreign state—The right of exiles to reside in the dominions of a foreign state, provided they submit to its laws—In what manner the right of occupying waste places is to be understood—The right to certain articles necessary to the support of human society, and life—The general right of purchasing those articles at a reasonable price—The right to sell, not of equal force and extent—The right to those privileges which are promiscuously granted to foreigners—Inquiry whether it be lawful to contract with any people for the purchase of their productions on condition of their not selling the same to others. -->
 
-## Part 1.
+## Part 1
 
-Among the causes assigned to justify war, we may reckon the commission of injury, particularly such as affects any thing which belongs to us. 
+War may be justified by the injury done on anything which belongs to us. 
 
-Now we establish this claim to any thing as our own either by a right COMMON to us as men, or acquired by us in our INDIVIDUAL capacity. But to begin with that which is the common right of all mankind; we may observe that it comprises what is called by legal authorities, Corporeal and Incorporeal rights.17
+Our claim to anything is either by a right COMMON to us as men, or acquired by us in our INDIVIDUAL capacity. 
+
+But to begin with that which is the common right of all mankind; we may observe that it comprises what is called by legal authorities, Corporeal and Incorporeal rights.17
 
 Things corporeal are either unappropriated, or made the subjects of private property. Now the things unappropriated, are such that it may be either possible or impossible for them to be reduced to a state of private property.18 In order therefore to understand this more clearly, it will be necessary to take a survey of the origin of property.
 
 
 ## Part 2
 
-God gave to mankind in general, dominion over all the creatures of the earth, from the first creation of the world; a grant which was renewed upon the restoration of the world after the deluge. 
+God gave to mankind in general, dominion over all the creatures of the earth, from the first creation of the world. This grant which was renewed upon the restoration of the world after the deluge. 
 
 All things, as Justin says, formed a common stock for all mankind, as the inheritors of one general patrimony. From hence it happened, that every man seized to his own use or consumption whatever he met with; a general exercise of a right, which supplied the place of private property. So that to deprive any one of what he had thus seized, became an act of injustice. Which Cicero has explained in his third book, on the bounds of good and evil, by comparing the world to a Theatre, in which the seats are common property, yet every spectator claims that which he occupies, for the time being, as his own. 
 

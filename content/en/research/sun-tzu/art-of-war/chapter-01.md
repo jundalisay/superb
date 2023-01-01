@@ -3,6 +3,7 @@ title:  "Laying Plans"
 image:  "/covers/war.jpg"
 description: "The art of war is of vital importance to the State. It is a matter of life and death"
 heading:  "Chapter 1"
+weight: 2
 ---
 
 
@@ -10,7 +11,7 @@ heading:  "Chapter 1"
 
 The art of war is of vital importance to the State. It is a matter of life and death. <!--  , a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected. -->
 
-It is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field= 
+It is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field:
 
 1. The Moral Law - this causes the people to be in complete accord with their ruler, so that they will follow him regardless of their lives, undismayed by any danger
 2. Heaven - this signifies night and day, cold and heat, times and seasons

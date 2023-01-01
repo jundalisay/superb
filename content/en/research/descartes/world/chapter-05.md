@@ -1,7 +1,7 @@
 ---
 title: "The Aethereal Elements and Their Qualities"
 heading: "Chapter 5"
-date: 2020-09-22
+weight: 12
 author: "Rene Descartes"
 image: "/covers/world.jpg"
 description: "All bodies, both hard and liquid, are made from the same matter"

@@ -1,7 +1,7 @@
 ---
 title: Anthropomorphic Mechanics
-heading: Chapter 6b
-date: 2022-01-24
+heading: Chapter 6c
+weight: 38
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
@@ -10,14 +10,17 @@ icon: /icons/poincare.jpg
 
 
 
-Kirchoff has only followed the general tendency of mathematicians towards nominalism; from this his skill as a physicist has not saved him. 
+Kirchoff has only followed the general tendency of mathematicians towards nominalism. From this, his skill as a physicist has not saved him. 
 
-He wanted a definition of a force, and he took the first that came handy; but we do not require a definition of force; the idea of force is primitive, irreducible, indefinable; we all know what it is; of it we have direct intuition. 
+He wanted a definition of a force. He took the first that came handy. 
 
-This direct intuition arises from the idea of effort which is familiar to us from
-childhood. But in the first place, even if this direct intuition made known to us the real nature of force in itself, it would prove to be an insufficient basis for mechanics;
+But we do not require a definition of force. 
 
-It would, moreover, be quite useless. The important thing is not to know what force is, but how to measure it. 
+The idea of force is primitive, irreducible, indefinable. We all know what it is. We have a direct intuition of it. 
+
+This direct intuition arises from the idea of effort which is familiar to us from childhood. But still, our direct intuition of force is an insufficient basis for mechanics. It is also quite useless. 
+
+**The important thing is not to know what force is, but how to measure it.** 
 
 Everything which does not teach us how to measure it is as useless to the mechanician as, for instance, the subjective idea of heat and cold to the student of heat.
 
@@ -39,16 +42,17 @@ called the “Thread School.”
 
 This school tries to reduce everything to the consideration of certain material systems of negligible mass, regarded in a state of tension and capable of transmitting considerable effort to distant bodies—systems of which the ideal type is the fine string, wire, or thread. 
 
-A thread which transmits any force is slightly lengthened in the direction of that force; the direction of the thread tells us the direction of the force, and the magnitude of the
-force is measured by the lengthening of the thread.
+A thread which transmits any force is slightly lengthened in the direction of that force; the direction of the thread tells us the direction of the force, and the magnitude of the force is measured by the lengthening of the thread.
 
 We may imagine such an experiment as the following:
 
-A body A is attached to a thread; at the other extremity of the thread acts a force which is made
-to vary until the length of the thread is increased by α, and the acceleration of the body A is recorded. A is then detached, and a body B is attached to the same thread, and the same or another force is made to act until the increment of length again is α, and the acceleration of B is noted. 
+A body `A` is attached to a thread. At the other extremity of the thread acts a force which is made to vary until the length of the thread is increased by α, and the acceleration of the body A is recorded. 
+
+`A` is then detached. A body `B` is attached to the same thread. The same or another force is made to act until the increment of length again is α, and the acceleration of B is noted. 
 
 The experiment is then renewed with both A and B until the increment of length is β.
-The four accelerations observed should be proportional.science and hypothesis
+
+The 4 accelerations observed should be proportional.science and hypothesis
 
 Here we have an experimental verification of the law of acceleration enunciated above. Again, we may consider a body under the action of several threads in equal tension, and by experiment we determine the direction of those threads when the body is in equilibrium. This is an experimental verification of the law of the composition of forces. 
 

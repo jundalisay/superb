@@ -1,16 +1,18 @@
 ---
 title: Moderation in Despoiling An Enemy's Country
 heading: Chapter 12
-date: 2022-07-29
+weight: 30
 image: /covers/warpeace.jpg
-description: 
+description: One of the three following cases is requisite to justify any one in destroying what BELONGS to another
 author: "Hugo Grotius"
 ---
 
 
-Lawfulness of despoiling an enemy's country—Forbearance of using this right, where things may be useful to ourselves, and out of an enemy's power—Forbearance in the hopes of speedy conquest, or where things are not immediately necessary to support an enemy, and aid him in maintaining the war—Buildings for the purposes of religion not to be wantonly destroyed—Advantages of this moderation.
+<!-- Lawfulness of despoiling an enemy's country—Forbearance of using this right, where things may be useful to ourselves, and out of an enemy's power—Forbearance in the hopes of speedy conquest, or where things are not immediately necessary to support an enemy, and aid him in maintaining the war—Buildings for the purposes of religion not to be wantonly destroyed—Advantages of this moderation. -->
 
-I. One of the three following cases is requisite to justify any one in destroying what BELONGS to another: there must be either such a necessity, as at the original institution of property might be supposed to form an exception, as if for instance any one should throw the sword of another into a river, to prevent a madman from using it to his destruction: still according to the true principles maintained in a former part of this work he will be bound to repair the loss:67 or there must be some debt, arising from the non-performance of an engagement, where the waste committed is considered as a satisfaction for that debt: or there must have been some aggressions, for which such destruction is only an adequate punishment.
+I. 
+
+One of the three following cases is requisite to justify any one in destroying what BELONGS to another: there must be either such a necessity, as at the original institution of property might be supposed to form an exception, as if for instance any one should throw the sword of another into a river, to prevent a madman from using it to his destruction: still according to the true principles maintained in a former part of this work he will be bound to repair the loss:67 or there must be some debt, arising from the non-performance of an engagement, where the waste committed is considered as a satisfaction for that debt: or there must have been some aggressions, for which such destruction is only an adequate punishment.
 
 Now, driving off some of our cattle, or burning a few of our houses, can never be pleaded as a sufficient and justifiable motive for laying waste the whole of an enemy's kingdom. Polybius saw this in its proper light, observing, that vengeance in war should not be carried to its extreme, nor extend any further than was necessary to make an aggressor atone justly for his offence. And it is upon these motives, and within these limits alone, that punishment can be inflicted. But except where prompted to it by motives of great utility, it is folly, and worse than folly, wantonly to hurt another.
 

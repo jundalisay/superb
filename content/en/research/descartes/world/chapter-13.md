@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 13"
 title: "Cartesian Relativity"
-date: 2020-09-04
+weight: 28
 image: "/covers/world.jpg"
 description: "Bodies that revolve always tend to move away from the centers of the circles they describe"
 icon: "/icons/descartes.jpg"

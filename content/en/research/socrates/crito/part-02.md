@@ -53,37 +53,36 @@ There is only one thing to be done, which must be done this very night, and, if 
 {{< l a="Socrates" >}}
 Dear Crito, your zeal is invaluable if it correct. But if it is wrong, the greater the zeal the greater the danger. 
 
-So we should consider whether I should do as you say. 
+<!-- So we should consider whether I should do as you say.  -->
 
-For I am and always have been one of those natures who must be guided by reason, whatever the reason may be which upon reflection appears to me to be the best; and now that this chance has befallen me, I cannot repudiate my own words: the principles which I have hitherto honoured and revered I still honour, and unless we can at once find other and better principles, I am certain not to agree with you; no, not even if the power of the multitude could inflict many more imprisonments, confiscations, deaths, frightening us like children with hobgoblin terrors. 5
+For I am and always have been one of those natures who must be guided by reason, whatever the reason may be which upon reflection appears to me to be the best. 
+
+; and now that this chance has befallen me, I cannot repudiate my own words: the principles which I have hitherto honoured and revered I still honour, and unless we can at once find other and better principles, I am certain not to agree with you. 
+
+; no, not even if the power of the multitude could inflict many more imprisonments, confiscations, deaths, frightening us like children with hobgoblin terrors. 5
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
-What will be the fairest way of considering the question? Shall I return to your old argument about the opinions of men?—we were saying that some of them are to be regarded, and others not. Now were we right in maintaining this before I was condemned? And has the argument which was once good now proved to be talk for the sake of talking—mere childish nonsense? 
+<!-- What will be the fairest way of considering the question? Shall I return to your old argument about the opinions of men?—we were saying that some of them are to be regarded, and others not. Now were we right in maintaining this before I was condemned? And has the argument which was once good now proved to be talk for the sake of talking—mere childish nonsense?  -->
 
 That is what I want to consider with your help, Crito:—whether, under my present circumstances, the argument appears to be in any way different or not; and is to be allowed by me or disallowed. That argument, which, as I believe, is maintained by many persons of authority, was to the effect, as I was saying, that the opinions of some men are to be regarded, and of other men not to be regarded. 
 
-Now you, Crito, are not going to die to-morrow—at least, there is no human probability of this—and therefore you are disinterested and not liable to be deceived by the circumstances in which you are placed. Tell me then, whether I am right in saying that some opinions, and the opinions of some men only, are to be valued, and that other opinions, and the opinions of other men, are not to be valued. 
+Now you, Crito, are not going to die tomorrow. Therefore you are disinterested and not liable to be deceived by the circumstances in which you are placed. 
+
+Good opinions of the wise are to be valued. Bad opinions of the unwise should not valued.
+ <!-- and the opinions of some men only, are to be valued, and that other opinions, and the opinions of other men, are not to be valued.  -->
 
 <!-- I ask you whether I was right in maintaining this? -->
-The good are to be regarded, and not the bad.
+<!-- The good are to be regarded, and not the bad.
 
-The opinions of the wise are good, and the opinions of the unwise are evil.
+The opinions of the wise are good, and the opinions of the unwise are evil. -->
 {{< /l >}}
 
 
 {{< l a="Socrates" >}}
-What was said about another matter? Is the pupil who devotes himself to the practice of gymnastics supposed to attend to the praise and blame and opinion of every man, or of one man only—his physician or trainer, whoever he may be?
-{{< /l >}}
+The serious gymnastics student should attend to the praise and blame and opinion of his physician or trainer, and not that of everyone.
 
-
-{{< r a="Crito" >}}
-Of one man only.
-{{< /r >}}
-
-
-{{< l a="Socrates" >}}
 He should fear the censure and welcome the praise of that one only, and not of the many. 
 
 He should act and train, and eat and drink in the way which seems good to his single master who has understanding, rather than according to the opinion of all other men put together.

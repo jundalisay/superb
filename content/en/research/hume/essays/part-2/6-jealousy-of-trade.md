@@ -1,13 +1,11 @@
 ---
 title: "The Jealousy of Trade"
-heading: "Essay 6, Part 2"
+heading: "Essay 6"
 description: "The Jealousy of Trade"
 image: /covers/essays.jpg
-date: "2020-01-12"
-linkb: "/research/hume/essays/part-2/5-balance-of-trade"
-linkbtext: "Balance-of-trade"
-linkf: "/research/hume/essays/part-2/7-balance-of-power"
-linkftext: "Balance-of-power"
+weight: 14
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 <!-- HAVING endeavoured to remove one species of ill-founded jealousy, which is so prevalent among commercial nations, it may not be amiss to mention another, which seems equally groundless. -->

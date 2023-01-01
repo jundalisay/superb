@@ -4,7 +4,8 @@ description: "We investigate the possibility of an atomistic theory of matter an
 image: "/covers/ether.jpg"
 author: "Einstein and Rosen"
 image: "/covers/pproblem.jpg"
-date: 2020-01-30
+# date: 2020-01-30
+weight: 4
 ---
 
 

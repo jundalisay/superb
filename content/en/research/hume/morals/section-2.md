@@ -1,14 +1,10 @@
 ---
 title: "Benevolence"
-heading: "Section 2 of An Enquiry Concerning the Principles of Morals Simplified"
+heading: "Section 2"
 description: "In men of more ordinary talents and capacity, the social virtues become more needed."
 image: /covers/morals.jpg
 # image: "https://sorasystem.sirv.com/photos/medieval/cicero.jpg"
-date: 2020-01-22
-linkb: "/research/hume/morals"
-linkbtext: Index
-linkf: "/research/hume/morals"
-linkftext: Index
+weight: 1
 ---
 
 

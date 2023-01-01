@@ -1,16 +1,16 @@
 ---
 title: The Communication of Punishment
 heading: Chapter 21
-date: 2022-06-16
+weight: 50
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"
 ---
 
 
-How accessories are liable to punishment—Sovereign Princes or States answerable for the misconduct of their subjects, when they know it, and do not endeavour to prevent it—Sovereigns bound not to protect offending subjects, but to deliver them up or punish them—The rights of suppliants belong to the unfortunate and not to the guilty—Suppliants may be protected while the inquiry into their case is still pending—How far states are amenable to punishment—All the different exceptions stated—Children not answerable for the offences of parents—The moral government of God in this respect considered—Individuals not answerable for offences, to which they have not given consent—Heirs, how far answerable for the acts of their ancestors.
+<!-- How accessories are liable to punishment—Sovereign Princes or States answerable for the misconduct of their subjects, when they know it, and do not endeavour to prevent it—Sovereigns bound not to protect offending subjects, but to deliver them up or punish them—The rights of suppliants belong to the unfortunate and not to the guilty—Suppliants may be protected while the inquiry into their case is still pending—How far states are amenable to punishment—All the different exceptions stated—Children not answerable for the offences of parents—The moral government of God in this respect considered—Individuals not answerable for offences, to which they have not given consent—Heirs, how far answerable for the acts of their ancestors. -->
 
-## Part 1:
+## Part 1
 
 Punishment might be inflicted on accomplices are punished not for the guilt of others, but for their own.
 

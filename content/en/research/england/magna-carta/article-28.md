@@ -1,5 +1,16 @@
+---
+title: Articles 28-61
+weight: 4
+# date: 2022-01-31
+description: The Magna Carta
+author: "King John"
+image: "/covers/magna.jpg"
+icon: /flags/gb.png
+---
+
+
 +++
-title= "Articles 28-61"
+title= "Articles "
 heading= ""
 description= "Articles 1 to 27"
 image= "/covers/magna.jpg"

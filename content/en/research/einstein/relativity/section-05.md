@@ -1,7 +1,8 @@
 ---
 title: "Relativity and the Addition Of Velocities In Classical Mechanics"
 heading: "Section 5"
-date: 2022-04-22
+# date: 2022-04-22
+weight: 10
 description: "The principle of relativity must therefore apply with great accuracy in mechanics since a broad, general principle that holds with exactness in one domain of phenomena should also be valid for another"
 image: "/covers/rel.jpg"
 ---

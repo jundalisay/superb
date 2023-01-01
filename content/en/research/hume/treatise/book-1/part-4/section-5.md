@@ -1,13 +1,9 @@
 ---
 heading: "Section 5"
 title: "Spinoza's Philosophy -- The Soul's Immateriality"
-date: 2022-04-30
+weight: 1
 image: /covers/treatise.jpg
 description: ""
-linkb: "/research/hume/treatise/book-1/part-4"
-linkbtext: "Index"
-linkf: "/research/hume/treatise/book-1/part-4"
-linkftext: "Index"
 author: David Hume
 icon: /icons/hume.png
 ---

@@ -46,7 +46,7 @@ Socratic Conservative | the Aristocrat caste made up of philosophers, scientists
 Socratic Neoliberal | the Oligarch caste made up of merchants and businessmen. Thhis manifests as Big Business, Speculators, Gamblers, Investors
 
 
-## Pantrynomics 
+## Supereconomics 
 
 Word | Meaning
 --- | ---
@@ -65,10 +65,10 @@ Commodity | a raw material or not-so-processed good for sale
 Effort Theory of Value | the pegging of economic value into points represented by grains
 Goods | anything that is for sale and occupies a specific spacetime 
 Monetization | the conversion of goods and services into money
-Panrty system | the use of Pantries or Hubs as the store of resources
-Pantry | a permanent or temporary repository of resources. Examples are stalls in a marketplace, a business address, or a person with a bag 
-Pantry Hub | a large pantry that connects to smaller pantries
-Pantrynomics | the study of management of resources in a decentralized Pantry system
+Pantrypoints system | the use of Pantries or Hubs as the store of resources
+Pantrypoints Pantry | a permanent or temporary repository of resources. Examples are stalls in a marketplace, a business address, or a person with a bag 
+Pantrypoints Hub | a large pantry that connects to smaller pantries
+Supereconomics | the study of management of resources in a decentralized Pantrypoints system
 Pointarism | the exchange using points
 Pointary | the adjective referring to pointarism
 Pointism | the obsession with points
@@ -86,4 +86,3 @@ Monad | | A perceivable quantum
 Quantum of spacetime | Qost | This is the invisible and intangible center of gravity of any discrete identity. 
 Quantum of aether | Qoa | This is either idea or an idea of a feeling
 Spinoza | | the Aether, as to separate it from the Physics concept of the aether or the Higgs field
-

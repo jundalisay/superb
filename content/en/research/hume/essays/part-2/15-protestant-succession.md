@@ -3,10 +3,9 @@ title: "The Protestant Succession"
 heading: "Essay 15, Part 2"
 description: "The House of Stuart was rejected because they were Catholic and Caholicism is expensive and less tolerant"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/14-parties"
-linkbtext: "Parties"
-linkf: "/research/hume/essays/part-2/16-the-ideal-system-of-government"
-linkftext: "Ideal-system-of-government"
+weight: 46
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 

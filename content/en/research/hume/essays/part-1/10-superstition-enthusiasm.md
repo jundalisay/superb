@@ -1,9 +1,9 @@
 ---
 title: "Superstition and Enthusiasm"
-heading: "Essay 10 by David Hume (Part 1)"
+heading: "Essay 10"
 description: "Three reasons against superstition"
 image: /covers/essays.jpg
-date: 2020-12-12
+weight: 20
 author: David Hume
 icons: /icons/hume.png
 --- 

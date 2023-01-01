@@ -1,7 +1,7 @@
 ---
 title: The Right Over Prisoners of War
 heading: Chapter 7
-date: 2022-07-29
+weight: 22
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

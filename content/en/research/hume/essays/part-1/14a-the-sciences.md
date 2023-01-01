@@ -1,9 +1,9 @@
 ---
 title: "The Rise And Progress Of The Sciences"
-heading: "Essay 14 Simplified"
+heading: "Essay 14"
 description: "The Rise And Progress Of The Sciences"
 image: /covers/essays.jpg
-date: 2020-12-06
+weight: 28
 author: David Hume
 icons: /icons/hume.png
 --- 

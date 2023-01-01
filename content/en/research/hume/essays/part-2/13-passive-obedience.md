@@ -3,10 +3,9 @@ title: "Passive Obedience"
 heading: "Essay 13 Part 2"
 description: "Passive Obedience"
 image: /covers/essays.jpg
-linkb: "/research/hume/essays/part-2/12-original-contract"
-linkbtext: Original contract
-linkf: "/research/hume/essays/part-2/14-parties"
-linkftext: Parties
+weight: 42
+author: David Hume
+icon: /avatars/hume.png
 ---
 
 <!-- In the former essay, we endeavoured to refute the speculative systems of politics advanced in this nation; as well the religious system of the one party, as the philosophical of the other. --> 

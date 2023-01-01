@@ -1,7 +1,7 @@
 ---
 title: Promises in Error
 heading: Chapter 11b
-date: 2022-07-12
+weight: 22
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

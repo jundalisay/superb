@@ -232,7 +232,7 @@ articles4:
     - url : "/social/economics"
       img : "/photos/grains.jpg" 
       title : "A world free from poverty, inequality, and crisis"
-      subtitle : "Pantrynomics (Economic Superphysics) deals with resource allocation and socio-economic issues"
+      subtitle : "Supereconomics (Economic Superphysics) deals with resource allocation and socio-economic issues"
     - url : "/social/supersociology"
       img : "/photos/social/protests.jpg" 
       title : "Politics, Law, and Justice for a Better world"

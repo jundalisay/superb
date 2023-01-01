@@ -1,14 +1,13 @@
 ---
 title: "Impudence and Modesty"
-heading: "Essay 4, Part 3"
+heading: "Essay 4"
 description: "Love and respect begets love and respect"
 image: /covers/essays.jpg
-date: "2020-03-04"
-linkb: "/research/hume/essays/part-3/3-the-middle-station-of-life"
-linkbtext: "Moral-prejudice"
-linkf: "/research/hume/essays/part-3/5-love-marriage"
-linkftext: love-marriage
+weight: 14
+author: David Hume
+icon: /avatars/hume.png
 ---
+
 
 
 The common complaints against Providence are ill-grounded. 

@@ -1,7 +1,7 @@
 ---
 title: Just War According to the Law of Nations
 heading: Chapter 3
-date: 2022-07-27
+weight: 12
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

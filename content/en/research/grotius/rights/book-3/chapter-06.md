@@ -1,7 +1,7 @@
 ---
 title: The Acquisition of Territory and Property By Right of Conquest
 heading: Chapter 6
-date: 2022-07-21
+weight: 20
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

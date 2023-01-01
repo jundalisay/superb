@@ -1,13 +1,12 @@
-+++
-title= "Articles 61-62"
-description= "Articles 1 to 27"
-image= "/covers/magna.jpg"
-author= "King John"
-linkb= "/research/england/magna-carta"
-linkbtext= "Index"
-linkf= "/research/england/magna-carta"
-linkftext= "Index"
-+++ 
+---
+title: Articles 61-62
+weight: 6
+# date: 2022-01-31
+description: The Magna Carta
+author: "King John"
+image: "/covers/magna.jpg"
+icon: /flags/gb.png
+---
 
 
 **Article 61**

@@ -1,7 +1,7 @@
 ---
 title: Punishments
 heading: Chapter 40
-date: 2022-06-18
+weight: 48
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"

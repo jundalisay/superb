@@ -1,9 +1,9 @@
 ---
 title: "Polygamy and Marriage"
-heading: "Essay 19a Simplified"
+heading: "Essay 19a"
 description: "Polygamy increases barbarism"
 image: /covers/essays.jpg
-date: 2020-11-20
+weight: 40
 author: David Hume
 icons: /icons/hume.png
 --- 

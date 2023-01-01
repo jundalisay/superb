@@ -1,7 +1,8 @@
 ---
 title: "The Foundations of Classical Mechanics and Special Relativity are Unsatisfactory"
 heading: "Section 21"
-date: 2022-03-22
+# date: 2022-03-22
+weight: 36
 description: "Einstein Claims that General Relativity can solve the insufficiencies of Classical Mechanics"
 image: "/covers/rel.jpg"
 ---

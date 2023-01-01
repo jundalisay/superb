@@ -1,7 +1,13 @@
-+++
-title       = "Book 1"
-description = "Part 4 of The Simplified Treatise of Human Nature by Hume Book 1"
-date        = "2020-06-16"
-banner 		= "/covers/treatise.jpg"
-author      = "David Hume"
-+++
+---
+title: "Book 1"
+heading: Part 4
+description: "Research on David Hume"
+image: /covers/essays.jpg
+weight: 4
+author: David Hume
+icon: /avatars/hume.png
+---
+
+
+<!-- date        = "2020-06-16" -->
+

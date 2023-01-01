@@ -1,5 +1,5 @@
 ---
-heading: Chapter 4
+heading: Chapter 5a
 title: "The Universe"
 weight: 24
 image: "/covers/timaeus.jpg"

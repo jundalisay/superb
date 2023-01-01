@@ -1,6 +1,7 @@
 ---
 title: Changes of State and Changes of Position
-date: 2022-02-06
+heading: Chapter 4b
+weight: 26
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"
@@ -8,7 +9,7 @@ icon: /icons/poincare.jpg
 ---
 
 
-## 
+
 
 If the concept of geometrical space is not imposed upon our minds, and if, on the other hand, none of our sensations can furnish us with that concept, how then did it ever come into existence?
 

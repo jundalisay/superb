@@ -1,7 +1,7 @@
 ---
 title: "The Void--Why are we not Aware of Certain Bodies?"
 heading: "Chapter 4"
-date: 2020-09-24
+weight: 10
 author: "Rene Descartes"
 image: "/covers/world.jpg"
 description: "All bodies, both hard and liquid, are made from the same matter"

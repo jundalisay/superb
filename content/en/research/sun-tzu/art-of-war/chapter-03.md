@@ -3,6 +3,7 @@ title: "Attack by Stratagem"
 image: "/covers/war.jpg"
 description: "In the practical art of war, the best thing of all is to take the enemy's country whole and intact"
 heading: "Chapter 3"
+weight: 6
 ---
 
 
@@ -29,7 +30,7 @@ With his forces intact, he will dispute the mastery of the Empire.
 
 This is the method of attacking by stratagem.
 
-The rule in war is that if our forces are= 
+The rule in war is that if our forces are:
 - 10 times the size of the enemy, then surround him
 - 5 times the enemy, attack him
 - 2 times the enemy, divide our army into two
@@ -43,7 +44,7 @@ The general is the bulwark of the State.
 - If the bulwark is complete at all points, the State will be strong.
 - If the bulwark is defective, the State will be weak.
 
-There are three ways a ruler can bring misfortune to his army= 
+There are three ways a ruler can bring misfortune to his army:
 
 1. By commanding the army to advance or to retreat, being ignorant of the fact that it cannot obey. This is called hobbling the army.
 2. By attempting to govern an army in the same way as he administers a kingdom, being ignorant of the conditions which obtain in an army. This causes restlessness in the soldier's minds.
@@ -51,7 +52,8 @@ There are three ways a ruler can bring misfortune to his army=
 
 But when the army is restless and distrustful, trouble is sure to come from the other feudal princes. This is simply bringing anarchy into the army, and flinging victory away.
 
-Thus, there are five essentials for victory= 
+Thus, there are five essentials for victory:
+
 
 1. Knowing when to fight and when not to fight.
 2. Knowing how to handle both superior and inferior forces.

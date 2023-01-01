@@ -1,6 +1,7 @@
 ---
 title: Experiment And Geometry
-date: 2022-02-02
+heading: Chapter 5
+weight: 30
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

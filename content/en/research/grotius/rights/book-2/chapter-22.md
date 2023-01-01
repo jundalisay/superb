@@ -1,14 +1,15 @@
 ---
 title: The Unjust Causes of War
 heading: Chapter 22
-date: 2022-06-13
+weight: 54
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"
 ---
 
 
-Differences between real and colourable motives—War atrocious without either of these motives—Wars of plunder, under the most plausible pretexts, not justifiable—Causes apparently, but not really just—Unnecessary advantage—Desire of a better soil—Discovery of things belonging to others—Incapacity of the original owners—War not always justifiable under the pretext of asserting liberty—Or of imposing a beneficial government upon a people against their will—Emperor's pretensions to universal empire refuted—Pretensions of the Church—Imperfect obligations—Difference between wars originally unjust and those afterwards becoming so.
+<!-- Differences between real and colourable motives—War atrocious without either of these motives—Wars of plunder, under the most plausible pretexts, not justifiable—Causes apparently, but not really just—Unnecessary advantage—Desire of a better soil—Discovery of things belonging to others—Incapacity of the original owners—War not always justifiable under the pretext of asserting liberty—Or of imposing a beneficial government upon a people against their will—Emperor's pretensions to universal empire refuted—Pretensions of the Church—Imperfect obligations—Difference between wars originally unjust and those afterwards becoming so. -->
+
 
 ## Part 1
 

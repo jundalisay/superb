@@ -1,9 +1,9 @@
 ---
 title: "The Epicurean"
-heading: "Essay 15 Part 1"
+heading: "Essay 15"
 description: "This is the voice of Pride, not of Nature."
 image: /covers/essays.jpg
-date: 2020-12-02
+weight: 32
 author: David Hume
 icons: /icons/hume.png
 --- 

@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 12"
 title: "The Ebb and Flow of the Sea"
-date: 2020-09-06
+weight: 26
 image: "/covers/world.jpg"
 description: "The whole mass of the Earth is caused by the presence of the moon, and also about some particular things that depend on that motion"
 icon: "/icons/descartes.jpg"

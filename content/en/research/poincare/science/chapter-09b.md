@@ -1,7 +1,7 @@
 ---
 title: The Unity of Nature
 heading: Chapter 9b
-date: 2022-01-14
+weight: 48
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

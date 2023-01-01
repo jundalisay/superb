@@ -1,9 +1,9 @@
 ---
 title: "Civil Liberty"
-heading: "Essay 12 by David Hume Part 1"
+heading: "Essay 12"
 description: "Civil Liberty"
 image: /covers/essays.jpg
-date: 2020-12-10
+weight: 24
 author: David Hume
 icons: /icons/hume.png
 --- 

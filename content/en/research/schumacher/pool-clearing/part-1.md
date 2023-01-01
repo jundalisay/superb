@@ -15,7 +15,7 @@ aliases:
   /solutions/pantrynomics/multilateral-pool-clearing  
 ---
 
-> This is the simplified version of [EF Schumacher's Multilateral Clearing](https://centerforneweconomics.org/publications/multilateral-clearing/) which was used by Keynes for his International Clearing Union and Bancor proposal in Bretton Woods, which were not accepted as they would regulate world trade. We build on Schumacher's ideas and merge them with those of Adam Smith to create a multilateral free trade system which is based on gold or grains, as an implmentation of cross-border [Pantrynomics](/social/economics).
+> This is the simplified version of [EF Schumacher's Multilateral Clearing](https://centerforneweconomics.org/publications/multilateral-clearing/) which was used by Keynes for his International Clearing Union and Bancor proposal in Bretton Woods, which were not accepted as they would regulate world trade. We build on Schumacher's ideas and merge them with those of Adam Smith to create a multilateral free trade system which is based on gold or grains, as an implmentation of cross-border [Supereconomics](/social/economics).
 
 <br>
 
@@ -76,7 +76,7 @@ Assume this goes on for 12 months and each Fund has 3 outcomes:
 2. Surplus countries will be short of local currency for exporters and will sell Tbills to get cash
 3. Balanced countries will be in same position as 12 months before
 
-> *Superphysics note: In Pantrynomics, the excess currency stays locked up and is not used to buy Tbills. This makes the currency inert in order to reduce inflation. However, this might also starve the country of cash to cause a recession. That's why the other countries will be encouraged to travel to deficit countries and avail of their services, likely via tourism and hospitality, to empty the Clearing Fund. 
+> *Superphysics note: In Supereconomics, the excess currency stays locked up and is not used to buy Tbills. This makes the currency inert in order to reduce inflation. However, this might also starve the country of cash to cause a recession. That's why the other countries will be encouraged to travel to deficit countries and avail of their services, likely via tourism and hospitality, to empty the Clearing Fund. 
 
 What would be the position of ownership of the deficit countries?
 - America sells 10x more to Britain
@@ -101,7 +101,7 @@ This cannot be answered unless the time sequence of all individual transactions 
 
 **This is the decisive feature of “Pool Clearing”.**
 
-> *Superphysics Note: The balances lose their identity because currency destroys the traceability. Pantrynomics uses agreements to maintain the identity and traceability to be able to disentangle world trade. If a country leaves the pool, then its promise-to-import will be enforced. Otherwise, the pool will absorb the loss.
+> *Superphysics Note: The balances lose their identity because currency destroys the traceability. Supereconomics uses agreements to maintain the identity and traceability to be able to disentangle world trade. If a country leaves the pool, then its promise-to-import will be enforced. Otherwise, the pool will absorb the loss.
 
 
 
@@ -127,4 +127,4 @@ All cash balances accumulating (in the form of a holding of Treasury Bills) in t
 ![Pool Union Graphic](https://sorasystem.sirv.com/charts/pool/poolunion.png)
 
 
-> *Superphysics Note: In the Pantrynomic system, this is the job of ISAIAH. The main difference is that Schumacher's system 'sells' the idle cash to the money market. In Pantrynomics, the idle cash stays idle and does not earn interest because its only purpose is to circulate world trade. This is because Adam Smith, from whom Pantrynomics is based, saw Tbills as part of the Mercantile system. This removes the need for an International Clearing Office and International Pool, as well as the costs associated with it. However, this creates the need for a deposit and withdrawal sysetm for the citizens of the Pool to travel to other Pool-member countries to avail of 'nonindustrialized' services instead of goods. This subsystem is called Resource Banking. Instead, idle cash in net-importer-countries are emitted back to the economy through foreign tourists coming in, and the outsourcing or export of services.
+> *Superphysics Note: In the Pantrynomic system, this is the job of ISAIAH. The main difference is that Schumacher's system 'sells' the idle cash to the money market. In Supereconomics, the idle cash stays idle and does not earn interest because its only purpose is to circulate world trade. This is because Adam Smith, from whom Supereconomics is based, saw Tbills as part of the Mercantile system. This removes the need for an International Clearing Office and International Pool, as well as the costs associated with it. However, this creates the need for a deposit and withdrawal sysetm for the citizens of the Pool to travel to other Pool-member countries to avail of 'nonindustrialized' services instead of goods. This subsystem is called Resource Banking. Instead, idle cash in net-importer-countries are emitted back to the economy through foreign tourists coming in, and the outsourcing or export of services.

@@ -1,14 +1,13 @@
 ---
 title: "The Study of History"
-heading: "Essay 6, Part 3"
+heading: "Essay 6"
 description: "The Study of History is good for women"
 image: /covers/essays.jpg
-date: "2020-03-06"
-linkb: "/research/hume/essays/part-3/5-love-marriage"
-linkbtext: "love and marriage"
-linkf: "/research/hume/essays/part-3/7-avarice"
-linkftext: "Avarice"
+weight: 16
+author: David Hume
+icon: /avatars/hume.png
 ---
+
 
 
 I fully recommend the study of history as an occupation to my female readers. It is:

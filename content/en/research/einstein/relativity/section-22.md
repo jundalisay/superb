@@ -1,7 +1,8 @@
 ---
 title: "A Few Inferences From General Relativity"
 heading: "Section 22"
-date: 2022-03-20
+# date: 2022-03-20
+weight: 38
 description: "Einstein separates Special Relativity from General Relativity"
 image: "/covers/rel.jpg"
 ---

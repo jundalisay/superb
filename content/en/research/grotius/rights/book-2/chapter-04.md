@@ -1,7 +1,7 @@
 ---
 title: Title to Desert Land by Occupancy, Possession, Prescription.
 heading: Chapter 4
-date: 2022-07-20
+weight: 14
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

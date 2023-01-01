@@ -3,7 +3,7 @@ title: "The Philosophy of General Relativity"
 heading: "Part 2"
 description: "How does my theory of relativity relate to philosophy?"
 image: "/covers/reply.jpg"
-date: 2020-01-28
+weight: 8
 ---
 
 

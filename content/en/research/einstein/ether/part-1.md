@@ -2,7 +2,8 @@
 title: "Ether and General Relativity"
 description: "Einstein's Ether is an impotent something"
 image: "/covers/ether.jpg"
-date: 2020-01-31
+weight: 4
+# date: 2020-01-31
 aliases:
   /research/einstein/ether
 ---

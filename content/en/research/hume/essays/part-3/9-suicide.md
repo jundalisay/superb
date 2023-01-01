@@ -1,14 +1,13 @@
 ---
 title: "Suicide"
-heading: "Essay 9, Part 3"
+heading: "Essay 9"
 description: "The Three arguments for the immortality of the soul"
 image: /covers/essays.jpg
-date: "2020-03-10"
-linkb: "/research/hume/essays/part-3/9-suicide"
-linkbtext: "Suicide"
-linkb: "/research/hume/essays/part-3/10-immortality-of-the-soul"
-linkftext: "Immortality-of-the-soul"
+weight: 20
+author: David Hume
+icon: /avatars/hume.png
 ---
+
 
 
 Philosophy is the sovereign antidote to superstition and false religion. Plain good-sense and the practice of the world can serve most purposes of life, but are ineffective against them.<!-- All other remedies against that pestilent distemper are vain, or, at least, uncertain.  -->

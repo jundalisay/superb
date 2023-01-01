@@ -3,6 +3,8 @@ title: "Attack by Fire"
 image: "/covers/war.jpg"
 description: "Attack by Strategem"
 heading: "Chapter 12"
+
+
 ---
 
 
@@ -21,7 +23,7 @@ There is a proper season for making attacks with fire, and special days for star
 - The proper season is when the weather is very dry
 - The special days are those when the moon is in the constellations of the Sieve, the Wall, the Wing or the Cross-bar; for these four are all days of rising wind.
 
-In attacking with fire, one should be prepared to meet five possible developments= 
+In attacking with fire, one should be prepared to meet five possible developments:
 
 1. When fire breaks out inside to enemy's camp, respond at once with an attack from outside
 2. If there is an outbreak of fire, but the enemy's soldiers remain quiet, bide your time and do not attack.
@@ -35,10 +37,23 @@ In every army, the five developments connected with fire must be known, the move
 
 By means of water, an enemy may be intercepted, but not robbed of all his belongings. Unhappy is the fate of one who tries to win his battles and succeed in his attacks without cultivating the spirit of enterprise; for the result is waste of time and general stagnation.
 
-Hence the saying=  The enlightened ruler lays his plans well ahead; the good general cultivates his resources. Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical.
+Hence the saying:
+
+{{< q >}} 
+The enlightened ruler lays his plans well ahead; the good general cultivates his resources. Move not unless you see an advantage; use not your troops unless there is something to be gained; fight not unless the position is critical.
+{{< /q >}} 
+
 
 No ruler should put troops into the field merely to gratify his own spleen; no general should fight a battle simply out of pique.
 
-If it is to your advantage, make a forward move; if not, stay where you are. Anger may in time change to gladness; vexation may be succeeded by content.
+If it is to your advantage, make a forward move. If not, stay where you are. 
 
-But a kingdom that has once been destroyed can never come again into being; nor can the dead ever be brought back to life. Hence the enlightened ruler is heedful, and the good general full of caution. This is the way to keep a country at peace and an army intact.
+Anger may in time change to gladness. Vexation may be succeeded by content.
+
+But a kingdom that has once been destroyed can never come again into being. Nor can the dead ever be brought back to life. 
+
+Hence:
+- the enlightened ruler is heedful
+- the good general full of caution
+
+This is the way to keep a country at peace and an army intact.

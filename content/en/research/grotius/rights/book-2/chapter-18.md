@@ -1,7 +1,7 @@
 ---
 title: The Right of Embassies
 heading: Chapter 18
-date: 2022-06-30
+weight: 38
 image: /covers/warpeace.jpg
 description: ""
 author: "Hugo Grotius"

@@ -1,9 +1,9 @@
 ---
 title: "Dignity and Meanness Of Human Nature"
-heading: "Essay 11 by David Hume from Part 1"
+heading: "Essay 11"
 description: "Are Humans Inherently Good or Bad?"
 image: /covers/essays.jpg
-date: 2020-12-10
+weight: 22
 author: David Hume
 icons: /icons/hume.png
 --- 

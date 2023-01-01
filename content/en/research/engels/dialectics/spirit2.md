@@ -1,7 +1,8 @@
 ---
 title: William Crookes
 # heading: Dialectics of Nature
-date: 2022-02-01
+# date: 2022-02-01
+weight: 20
 description: The second eminent adept among English natural scientists is Mr. William Crookes. He discovered the chemical element thallium and the radiometer
 image: "/covers/nature.jpg"
 linkb: "/research/engels/dialectics/"
@@ -43,11 +44,26 @@ She even made her appearance – which can no longer surprise us – in Mr. Croo
 
 “This figure,” says Mr. Wallace, “after she had been seen, touched, photographed, and conversed with, vanished absolutely out of a small room from which there was no other exit than an adjoining room filled with spectators” – which was not such a great feat, provided that the spectators were polite enough to show as much faith in Mr. Crookes, in whose house this happened, as Mr. Crookes did in the spirit.
 
-Unfortunately, these “fully authenticated phenomena” are not immediately credible even for spiritualists. We saw above how the very spiritualistic Mr. Volckmann permitted himself to make a very material grab. 
+Unfortunately, these “fully authenticated phenomena” are not immediately credible even for spiritualists. 
 
-And now a clergyman, a member of the committee of the “British National Association of Spiritualists,” has also been present at a séance with Miss Cook, and he established the fact without difficulty that the room through the door of which the spirit came and disappeared communicated with the outer world by a second door. The behaviour of Mr. Crookes, who was also present, gave “the final death blow to my belief that there might be something in the manifestations.” (Mystic London, by the Rev. C. Maurice Davies, London, Tinsley Brothers).[6] And, over and above that, it came to light in America how “Katies” were “materialised.” A married couple named Holmes held séances in Philadelphia in which likewise a “Katie” appeared and received bountiful presents from the believers. However, one sceptic refused to rest until he got on the track of the said Katie, who, anyway, had already gone on strike once because of lack of pay; he discovered her in a boarding-house as a young lady of unquestionable flesh and bone, and in possession of all the presents that had been given to the spirit.
+The very spiritualistic Mr. Volckmann permitted himself to make a very material grab. 
 
-Meanwhile the Continent also had its scientific spiritseers. A scientific association at St. Petersburg – I do not know exactly whether the University or even the Academy itself – charged the Councillor of State, Aksakov, and the chemist, Butlerov, to examine the basis of the spiritualistic phenomena, but it dbes not seem that very much came of this. On the other hand – if the noisy announcements of the spiritualists are to be believed – Germany has now also put forward its man in the person of Professor Zöllner in Leipzig.
+And now a clergyman, a member of the committee of the “British National Association of Spiritualists,” has also been present at a séance with Miss Cook, and he established the fact without difficulty that the room through the door of which the spirit came and disappeared communicated with the outer world by a second door. 
+
+The behaviour of Mr. Crookes, who was also present, gave “the final death blow to my belief that there might be something in the manifestations.” (Mystic London, by the Rev. C. Maurice Davies, London, Tinsley Brothers).[6] 
+
+And, over and above that, it came to light in America how “Katies” were “materialised.” 
+
+A married couple named Holmes held séances in Philadelphia in which likewise a “Katie” appeared and received bountiful presents from the believers. However, one sceptic refused to rest until he got on the track of the said Katie, who, anyway, had already gone on strike once because of lack of pay; he discovered her in a boarding-house as a young lady of unquestionable flesh and bone, and in possession of all the presents that had been given to the spirit.
+
+
+## European Spiritseers
+
+Europe also had its scientific spiritseers. 
+
+A scientific association at St. Petersburg – I do not know exactly whether the University or even the Academy itself – charged the Councillor of State, Aksakov, and the chemist, Butlerov, to examine the basis of the spiritualistic phenomena. But not much came of this. 
+
+On the other hand – if the noisy announcements of the spiritualists are to be believed – Germany has now also put forward its man in the person of Professor Zöllner in Leipzig.
 
 For years, Herr Zöllner has been hard at work on the “fourth dimension” of space. He has discovered that many things that are impossible in 3D space are a simple matter 4D space. 
 
@@ -77,7 +93,11 @@ And now we have even the physiology of the spirit bodies! They breathe, they hav
 
 Breathing requires carbohydrates which undergo combustion in the lungs. These carbohydrates can only be supplied from outside. hence, stomach, intestines, and their accessories – and if we have once established so much, the rest follows without difficulty. 
 
-The existence of such organs, however, implies the possibility of their falling a prey to disease, hence it may still come to pass that Herr Virchow will have to compile a cellular pathology of the spirit world. And since most of these spirits are very handsome young ladies, who are not to be distinguished in any respect whatsoever from terrestrial damsels, other than by their supra-mundane beauty, it could not be very long before they come into contact with “men who feel the passion of love"; and since, as established by Mr. Crookes from the beat of the pulse, “the female heart is not absent,” natural selection also has opened before it the prospect of a fourth dimension, one in which it has no longer any need to fear of being confused with wicked social-democracy.
+The existence of such organs, however, implies the possibility of their falling a prey to disease, hence it may still come to pass that Herr Virchow will have to compile a cellular pathology of the spirit world. 
+
+Since most of these spirits are very handsome young ladies, who are not to be distinguished in any respect whatsoever from terrestrial damsels, other than by their supra-mundane beauty, it could not be very long before they come into contact with “men who feel the passion of love".
+
+Since, as established by Mr. Crookes from the beat of the pulse, “the female heart is not absent,” natural selection also has opened before it the prospect of a fourth dimension, one in which it has no longer any need to fear of being confused with wicked social-democracy.
 
  
 
@@ -91,13 +111,17 @@ We say that we can verify the one but not the other. But the spirit-seers argue 
 
 Dialectics cannot be despised with impunity. 
 
-However great one’s contempt for all theoretical thought, nevertheless one cannot bring two natural facts into relation with one another, or understand the connection existing between them, without theoretical thought. The only question is whether one’s thinking is correct or not, and contempt of theory is evidently the most certain way to think naturalistically, and therefore incorrectly. 
+However great one’s contempt for all theoretical thought, nevertheless one cannot bring two natural facts into relation with one another, or understand the connection existing between them, without theoretical thought. 
+
+The only question is whether one’s thinking is correct or not, and contempt of theory is evidently the most certain way to think naturalistically, and therefore incorrectly. 
 
 But, according to an old and well-known dialectic law, incorrect thinking, carried to its logical conclusion, inevitably arrives at the opposite of its point of departure. Hence, the empirical contempt of dialectics on the part of some of the most sober empiricists is punished by their being led into the most barren of all superstitions, into modern spiritualism.
 
 It is the same with mathematics. The ordinary metaphysical mathematicians boast with enormous pride of the absolute irrefutability of the results of their science. 
 
-But these results include also imaginary magnitudes, which thereby acquire a certain reality. When one has once become accustomed to ascribe some kind of reality outside of our minds to √-1, or to the fourth dimension, then it is not a matter of much importance if one goes a step further and also accepts the spirit world of the mediums. It is as Ketteler said about Döllinger[7]: “The man has defended so much nonsense in his life, he really could have accepted infallibility into the bargain!”
+But these results include also imaginary magnitudes, which thereby acquire a certain reality. When one has once become accustomed to ascribe some kind of reality outside of our minds to √-1, or to the fourth dimension, then it is not a matter of much importance if one goes a step further and also accepts the spirit world of the mediums. 
+
+It is as Ketteler said about Döllinger[7]: “The man has defended so much nonsense in his life, he really could have accepted infallibility into the bargain!”
 
 In fact, mere empiricism is incapable of refuting the spiritualists because:
 

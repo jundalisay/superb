@@ -1,6 +1,6 @@
 ---
 title: "Part 2"
-heading: "The Essays by David Hume"
-description: "Research on David Hume"
+description: "Essays by David Hume Part 2"
 image: /covers/essays.jpg
+weight: 2
 ---

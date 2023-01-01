@@ -1,6 +1,7 @@
 ---
 title: Kant's Contribution 
-date: 2022-02-01
+# date: 2022-02-01
+weight: 16
 image: "/covers/nature.jpg"
 description: Dialectics of Nature
 author: "Frederick Engels"

@@ -1,7 +1,7 @@
 ---
 title: Electro-dynamics
 heading: Chapter 13
-date: 2021-12-23
+weight: 72
 description: Science and Hypothesis
 image: "/covers/hyp.jpg"
 author: "H. Poincare"

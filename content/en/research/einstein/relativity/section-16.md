@@ -1,7 +1,8 @@
 ---
 title: "Experience of Special Relativity"
 heading: "Section 16"
-date: 2022-04-02
+weight: 26
+# date: 2022-04-02
 description: "Special Relativity is proven by Starlight, Electrons, and the lack of Aether drift"
 image: "/covers/rel.jpg"
 ---
@@ -47,7 +48,9 @@ Electro-dynamic theory is unable to give an account of their nature. This is bec
 
 If we now assume that the relative distances between the electrical masses constituting the electron remain unchanged during the motion of the electron (rigid connection in the sense of classical mechanics), we arrive at a law of motion of the electron which does not agree with experience.
 
-H. A. Lorentz first introduced the hypothesis that electrons contract in the direction of motion=  <!--  in consequence of that motion, the amount of this contraction being proportional to the expression -->
+H. A. Lorentz first introduced the hypothesis that electrons contract in the direction of motion:
+
+<!--  in consequence of that motion, the amount of this contraction being proportional to the expression -->
 
 ``` elixir
 √ 1 - (v2/c2)
@@ -71,7 +74,7 @@ Before my theory of relativity existed, it was difficult to reconcile this "no" 
 
 The Maxwell-Lorentz equations hold for a non-moving viewpoint `K`. But they do not hold for a moving viewpoint `K'` moving uniformly with respect to non-moving `K`, if we assume that the relations of the Galileian transformation exist between `K` and `K'`. 
 
-Thus, of all Galileian coordinate systems, <!-- one non-moving `K` corresponding to a state of motion --> movement in non-moving `K` is physically unique. This implied that= 
+Thus, of all Galileian coordinate systems, <!-- one non-moving `K` corresponding to a state of motion --> movement in non-moving `K` is physically unique. This implied that:
 
 - the non-moving `K` was at rest with a hypothetical æther of space
 <!-- This result was interpreted physically by regarding  -->
@@ -101,6 +104,7 @@ Section 12 of my theory of relativity shows that this solution was the right one
 
 Instead, the contraction of moving bodies comes from the two fundamental principles of my theory without the introduction of particular hypotheses [i.e. the contraction comes from spacetime itself]. 
 
-The prime factor involved is not the motion in itself,<!--  to which we cannot attach any meaning, --> but the motion with respect to the body of reference chosen. Thus= 
+The prime factor involved is not the motion in itself,<!--  to which we cannot attach any meaning, --> but the motion with respect to the body of reference chosen. Thus:
 - for a coordinate system moving with the earth, the mirror system of Michelson and Morley is not shortened
 - but it is shortened for a coordinate system which is at rest relatively to the sun
+

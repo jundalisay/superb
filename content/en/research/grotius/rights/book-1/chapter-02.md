@@ -1,9 +1,9 @@
 ---
 title: The Lawfulness of War
 heading: Chapter 2
-date: 2022-07-26
+weight: 8
 image: /covers/warpeace.jpg
-description: 
+description: Is any war is just? Is it ever lawful to make war?
 author: "Hugo Grotius"
 ---
 

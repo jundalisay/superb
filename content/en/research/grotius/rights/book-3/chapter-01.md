@@ -1,7 +1,7 @@
 ---
 title: What is Lawful in War?
 heading: Chapter 1
-date: 2022-07-30
+weight: 8
 image: /covers/warpeace.jpg
 description: 
 author: "Hugo Grotius"

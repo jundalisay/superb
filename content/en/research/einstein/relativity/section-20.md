@@ -1,7 +1,8 @@
 ---
 title: "General Relativity Needs the Equality of Inertial and Gravitational Mass"
 heading: "Section 20"
-date: 2022-03-24
+weight: 34
+# date: 2022-03-24
 description: "The sophistry of General Relativity requires inertial and gravitational mass to be the same"
 image: "/covers/rel.jpg"
 aliases:
@@ -16,7 +17,13 @@ aliases:
 
 It is then possible to choose a Galileian reference-body for this part of space, relative to which points at rest remain at rest and points in motion continue permanently in uniform rectilinear motion.  -->
 
-Assume that, in outerspace, there is a huge glass box that serves as our reference-body. That box has a man inside it. <!--  let us imagine a spacious chest resembling a room with an observer inside who is equipped with apparatus. --> He floats because there is no gravity.  <!-- Gravitation naturally does not exist for this observer. He must tie himself with strings to the floor. Otherwise, the slightest impact against the floor will cause him to rise slowly towards the ceiling of the room. --> To the middle of the lid of the chest is fixed externally a hook with rope attached. This rope is pulled <!-- , and now a “being” (what kind of a being is immaterial to us) begins pulling at this --> . Then assume that this box moves upwards through a constant force.  <!-- The chest together with the observer then begin to move “upwards” with a uniformly accelerated motion. In course of time their velocity will reach unheard-of values — provided that we are viewing all this from another reference-body which is not being pulled with a rope. But how does the man in the chest regard the process?  --> The man will feel the acceleration of the chest by the reaction of the floor. He must take up this pressure through his legs  if he does not wish to be laid out on the floor. He is then standing inside the box<!--  in exactly the same way as anyone stands in a room of a house on our earth -->.
+Assume that, in outerspace, there is a huge glass box that serves as our reference-body. That box has a man inside it. <!--  let us imagine a spacious chest resembling a room with an observer inside who is equipped with apparatus. --> He floats because there is no gravity.  <!-- Gravitation naturally does not exist for this observer. He must tie himself with strings to the floor. Otherwise, the slightest impact against the floor will cause him to rise slowly towards the ceiling of the room. --> 
+
+In the middle of the lid of the chest, a hook is fixed externally. It has a rope attached. 
+
+This rope is pulled <!-- , and now a “being” (what kind of a being is immaterial to us) begins pulling at this --> . Then assume that this box moves upwards through a constant force.  <!-- The chest together with the observer then begin to move “upwards” with a uniformly accelerated motion. In course of time their velocity will reach unheard-of values — provided that we are viewing all this from another reference-body which is not being pulled with a rope. But how does the man in the chest regard the process?  --> 
+
+The man will feel the acceleration of the chest by the reaction of the floor. He must take up this pressure through his legs  if he does not wish to be laid out on the floor. He is then standing inside the box<!--  in exactly the same way as anyone stands in a room of a house on our earth -->.
 
 ![Box](/graphics/physics/box.jpg)
 

@@ -1,16 +1,15 @@
 ---
 title: "The Populousness Of Ancient Nations"
-heading: "Essay 11 Part 2"
+heading: "Essay 11"
 description: "The population was fewer during the ancient times"
 image: /covers/essays.jpg
-date: "2020-02-11"
-linkb: "/research/hume/essays/part-2/10-remarkable-customs"
-linkbtext: "remarkable-customs"
-linkf: "/research/hume/essays/part-2/11b-convents"
-linkftext: "convents"
+weight: 24
+author: David Hume
+icon: /avatars/hume.png
 aliases:
   /research/hume/essays/part-2/ancient-population-size/
 ---
+
 
 
 The world is not eternal nor incorruptible. 
