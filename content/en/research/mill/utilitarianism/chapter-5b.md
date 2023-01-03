@@ -2,7 +2,7 @@
 title: "The Communists"
 heading: "Chapter 5b"
 image: "/covers/ut.jpg"
-date: 2022-01-18
+weight: 16
 author: "John Stuart Mill"
 description: "Some Communists consider it unjust that the produce of the labour of the community should be shared only based on exact equality"
 icon: "/icons/mill.png"

@@ -2,7 +2,7 @@
 title: "Practical Truths"
 heading: "Chapter 2d"
 image: "/covers/liberty.jpg"
-date: 2022-01-25
+weight: 12
 author: "John Stuart Mill"
 description: "But in the sense of that living belief which regulates conduct, they believe these doctrines just up to the point to which it is usual to act on them"
 icon: "/icons/mill.png"

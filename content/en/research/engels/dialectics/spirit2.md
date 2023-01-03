@@ -6,7 +6,7 @@ weight: 20
 description: The second eminent adept among English natural scientists is Mr. William Crookes. He discovered the chemical element thallium and the radiometer
 image: "/covers/nature.jpg"
 linkb: "/research/engels/dialectics/"
-icon: /icons/engels.png
+icon: /avatars/engels.jpg
 ---
 
 

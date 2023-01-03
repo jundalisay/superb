@@ -168,7 +168,7 @@ No, it will still be needed.
 Justice is useful in peace and in war, like husbandry for wheat acquisition, and shoemaking for getting shoes. Justice is useful in peacetime in contracts, like partnerships.
 {{< /r >}}
 
-{{< l a="Socrates" >}}The skilful player is a more useful and better partner at a game of drafts than the just man. In the laying of bricks and stones, the builder is a more useful or better partner than the just man.
+{{< l a="Socrates" >}} The skilful player is a more useful and better partner at a game of drafts than the just man. In the laying of bricks and stones, the builder is a more useful or better partner than the just man.
 {{< /l >}}
 
 {{< r a="Polemarchus" >}}
@@ -176,7 +176,9 @@ The just man is a better partner than a harp-player in a money partnership.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-Yes, but surely not in the use of money. You do not want a just man to be your counsellor in buying or selling a horse. A horse expert is better for that. When you want to buy a ship, the shipwright or the pilot would be better. So when would a just man be better for the use of silver or gold?
+Yes, but surely not in the use of money. You do not want a just man to be your counsellor in buying or selling a horse. A horse expert is better for that. 
+
+When you want to buy a ship, the shipwright or the pilot would be better. So when would a just man be better for the use of silver or gold?
 {{< /l >}}
 
 {{< r a="Polemarchus" >}}
@@ -184,16 +186,22 @@ When you want a deposit to be kept safely.
 {{< /r >}}
 
 {{< l a="Socrates" >}}
-<p>But a deposit means that money is not used, so it means that justice is useful when money is useless. <p>
+But a deposit means that money is not used, so it means that justice is useful when money is useless.
 
 - Justice is useful if you want to keep pruning shears safe. But if you want to use it, then the gardening arts are more useful. 
 - Justice is useful if you want to keep a weapon and not to use it. But if you want to use it, then the art of the soldier is more useful. And so for all other things.
 
 Justice is useful when those things are useless. Justice is useless when those things are useful. Then justice is not good for much. 
 
-The best boxer that can box is also the best one to avoid the blows. The most skilful in preventing a disease is the best able to create one. The best guard of a camp is the best able to infiltrate the enemy camp. A good keeper of anything is also a good thief. Then if the just man is good at keeping money, he is good at stealing it. Then after all, the just man has turned out to be a thief. This is a lesson which I suspect you must have learnt out of Homer.
+The best boxer that can box is also the best one to avoid the blows. The most skilful in preventing a disease is the best able to create one. The best guard of a camp is the best able to infiltrate the enemy camp. 
 
-Autolycus was the maternal grandfather of Odysseus, who is a favourite of Homer. Homer said of Autolycus that 'He was excellent above all men in theft and perjury.' And so, you, Homer, and Simonides agree that justice is an art of theft. But it is to be practised 'for the good of friends and for the harm of enemies'.
+A good keeper of anything is also a good thief. Then if the just man is good at keeping money, he is good at stealing it. Then after all, the just man has turned out to be a thief. 
+
+This is a lesson which I suspect you must have learnt out of Homer.
+
+Autolycus was the maternal grandfather of Odysseus, who is a favourite of Homer. Homer said of Autolycus that 'He was excellent above all men in theft and perjury.' 
+
+And so, you, Homer, and Simonides agree that justice is an art of theft. But it is to be practised 'for the good of friends and for the harm of enemies'.
 {{< /l >}}
 
 {{< r a="Polemarchus" >}}

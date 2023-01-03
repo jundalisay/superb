@@ -7,3 +7,6 @@ author: "Socrates"
 image: "/covers/republic.jpg"
 description: "Socrates debates with Thrasymachus on what justice is. He ends up explaining that Justice is the dharma of society"
 ---
+
+
+<!-- δικαιοσύνην dikayosunin -->

@@ -1,13 +1,13 @@
-+++
-title=  "Membership"
-description=  "Membership in the United Nations is open to all other peace-loving states which accept the obligations contained in the present Charter"
-date=  2022-01-31
-image=  "/covers/icj.jpg"
-linkb=  "/research/modern/icj/"
-linkbtext=  "Index"
-linkf=  "/research/modern/icj/chapter-1b"
-linkftext=  "Chapter 1b"
-+++ 
+---
+title: Membership
+heading: "Articles 1-12"
+description: "Membership in the United Nations is open to all other peace-loving states which accept the obligations contained in the present Charter"
+image: /covers/icj.jpg
+author: UN
+weight: 8
+---
+
+
 
 
 ## Article 1

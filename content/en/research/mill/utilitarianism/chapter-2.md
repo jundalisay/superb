@@ -2,7 +2,7 @@
 title: "What is Utilitarianism?"
 heading: "Chapter 2"
 image: "/covers/ut.jpg"
-date: 2022-01-28
+weight: 8
 author: "John Stuart Mill"
 description: "People who use utility as the moral basis usually make the ignorant blunder of defining utility as being opposed to pleasure."
 icon: "/icons/mill.png"

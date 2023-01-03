@@ -2,7 +2,7 @@
 title: "The Liberty Of Thought And Discussion"
 heading: "Chapter 2"
 image: "/covers/liberty.jpg"
-date: 2022-01-28
+weight: 6
 author: "John Stuart Mill"
 description: "Utility is the foundation of morality"
 icon: "/icons/mill.png"

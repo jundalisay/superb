@@ -13,10 +13,13 @@ I think that Periander, Perdiccas, Xerxes or Ismenias the Theban, or some other 
 {{< /l >}}
 
 
-Several times, Thrasymachus tried to get the argument into his own hands. He had been put down by the rest of the company. They wanted to hear the end. But when Polemarchus and I had done speaking, he could no longer hold his peace. He came at us like a wild beast, seeking to devour us. We were quite panic-stricken at the sight of him.
+Several times, Thrasymachus tried to get the argument into his own hands. He had been put down by the rest of the company. They wanted to hear the end. 
+
+But when Polemarchus and I had done speaking, he could no longer hold his peace. He came at us like a wild beast, seeking to devour us. We were quite panic-stricken at the sight of him.
 
 {{< r a="Thrasymachus" >}}
 If you want really to know what justice is, you should not only ask but answer. You should not seek honour to yourself from the refutation of an opponent.
+
 Many ask but cannot answer. I will not let you say that justice is duty, advantage, profit, gain, or interest. This nonsense will not do for me. I must have clearness and accuracy.
 {{< /r >}}
 
@@ -30,12 +33,16 @@ Justice is more precious than gold. When we look for justice, we are not doing i
 
 
 {{< r a="Thrasymachus" >}}
-Thrasymachus= You ask but you refuse to answer. You try irony or any other shuffle to avoid answering. 
+You ask but you refuse to answer. You try irony or any other shuffle to avoid answering. 
 {{< /r >}}
 
 
 {{< l a="Socrates" >}}
-You are a philosopher. If you ask a person what numbers make up 12 and prohibit him from answering 6 x 2, 3 x 4, 6 x 2, or 4 x 3, saying 'that sort of nonsense will not do for me', then obviously no one can answer you. But if he responded by asking= "What do you mean? If one of these numbers were the true answer, then some other number is the right one." How would you answer him?
+You are a philosopher. 
+
+If you ask a person what numbers make up 12 and prohibit him from answering 6 x 2, 3 x 4, 6 x 2, or 4 x 3, saying 'that sort of nonsense will not do for me', then obviously no one can answer you. 
+
+But if he responded by asking: "What do you mean? If one of these numbers were the true answer, then some other number is the right one." How would you answer him?
 {{< /l >}}
 
 {{< r a="Thrasymachus" >}}
@@ -92,7 +99,7 @@ But you cannot mean to say that. Polydamas, the pancratiast, is stronger than us
 {{< r a="Thrasymachus" >}}
 That's abominable of you, Socrates. You take the words in the sense which is most damaging to the argument. The forms of government differ. There are tyrannies, democracies, and aristocracies. 
 
-<p>The government is the ruling power in each state. The different forms of government make laws democratical, aristocratical, tyrannical, with a view to their several interests. These laws, which are made by them for their own interests, are the justice which they deliver to their subjects.</p>
+The government is the ruling power in each state. The different forms of government make laws democratical, aristocratical, tyrannical, with a view to their several interests. These laws, which are made by them for their own interests, are the justice which they deliver to their subjects.
 
 Those who transgress them they punish as a breaker of the law, and as the unjust. That is what I mean in justice being the interest of all governments and the government having that power. Thus, everywhere there is one principle of justice, which is the interest of the stronger.
 {{< /r >}}
@@ -120,7 +127,7 @@ Yes Polemarchus. So it follows that justice can be the injury of the stronger ju
 {{< /l >}}
 
 {{< r a="Cleitophon" >}}
-Justice is what the strong <b>think</b> is in their interest.
+Justice is what the strong *think* is in their interest.
 {{< /r >}}
 
 {{< r a="Polemarchus" >}}

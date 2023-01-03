@@ -2,7 +2,7 @@
 title: "The ideal public"
 heading: "Chapter 4c"
 image: "/covers/liberty.jpg"
-date: 2022-01-17
+weight: 22
 author: "John Stuart Mill"
 description: "It is easy for any one to imagine an ideal public, which leaves the freedom and choice of individuals in all uncertain matters undisturbed"
 icon: "/icons/mill.png"

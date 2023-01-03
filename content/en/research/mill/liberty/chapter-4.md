@@ -2,7 +2,7 @@
 title: "The rightful limit to self-interest"
 heading: "Chapter 4"
 image: "/covers/liberty.jpg"
-date: 2022-01-21
+weight: 18
 author: "John Stuart Mill"
 description: "What is the rightful limit to self-interest?"
 icon: "/icons/mill.png"

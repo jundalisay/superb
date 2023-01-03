@@ -1,6 +1,8 @@
 ---
 title: Dialectics of Nature
-date: 2022-03-30
+linkTitle: Dialectics
+weight: 1
+#date: 2022-03-30
 description: Dialectics of Nature
 author: "Frederick Engels"
 image: "/covers/nature.jpg"

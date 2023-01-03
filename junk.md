@@ -1,3 +1,6 @@
+restrict meat farming, land is for grains
+
+
 Lenovo IdeaPad D330-10IGL 82H0000JPH/10.1in HD Detachable/Celeron N4020/8GB DDR4/128GB eMMC/UHD Graphics 600/Win10 Pro @ 1569 
 
 Acer aspire is Intel Pentium N4200 @ 1.10GHz @ 2160 score

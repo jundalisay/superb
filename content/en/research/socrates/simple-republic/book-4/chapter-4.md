@@ -42,11 +42,16 @@ The principle which bids and attracts comes from passion and disease. -->
 
 
 {{< l a="Socrates" >}}
-These two are differerent from one another. The one with which a man reasons, we may call the "rational principle of the soul". The other, which drives him to love, hunger, thirst, and feel the flutterings of any other desire, can be called the "irrational" or appetitive. It is the ally of sundry pleasures and satisfactions. Passion or spirit is akin to desire.
+These 2 are different from one another. 
+- The one with which a man reasons, we may call the "rational principle of the soul". 
+- The other, which drives him to love, hunger, thirst, and feel the flutterings of any other desire, can be called the "irrational" or appetitive. 
+  - It is the ally of sundry pleasures and satisfactions. Passion or spirit is akin to desire.
 
-Thus, the soul has two principles.
+Thus, the soul has 2 principles.
 
-Leontius was the son of Aglaion. He came one day from the Piraeus, under the north wall on the outside. He heard of dead bodies at the place of execution. He wanted to see them, yet also dreaded and abhorred them. For a time, he struggled and covered his eyes. But finally, the desire got the better of him. He forced them open and ran up to the dead bodies, saying, "Look ye wretches, take your fill of the fair sight". The moral of the tale is, that anger at times goes to war with desire, as though they were two distinct things.
+Leontius was the son of Aglaion. He came one day from the Piraeus, under the north wall on the outside. He heard of dead bodies at the place of execution. He wanted to see them, yet also dreaded and abhorred them. For a time, he struggled and covered his eyes. But finally, the desire got the better of him. He forced them open and ran up to the dead bodies, saying, "Look ye wretches, take your fill of the fair sight". 
+
+The moral of the tale is, that anger at times goes to war with desire, as though they were two distinct things.
 {{< /l >}}
 
 
@@ -106,6 +111,7 @@ We must infer that the individual and State is wise in the same way.
 The same quality which constitutes courage in the State constitutes courage in the individual.
 Both the State and the individual bear the same relation to all the other virtues.
 The individual is just in the same way that the State is just.
+
 The justice of the State consisted in each of the three classes doing the work of its own class.
 The individual in whom the several qualities of his nature do their own work will be just, and will do his own work.
 The rational principle is wisdom.
@@ -113,7 +119,9 @@ The rational principle is wisdom.
 
 
 {{< l a="Socrates" >}}
-It has the care of the whole soul. It should rule. The passionate or spirited principle is its subject and ally. The united influence of music and gymnastics will bring reason and passion into accord by:
+It has the care of the whole soul. It should rule. 
+
+The passionate or spirited principle is its subject and ally. The united influence of music and gymnastics will bring reason and passion into accord by:
 
 - nerving and sustaining the reason with noble words and lessons,
 - moderating and soothing and civilizing the wildness of passion by harmony and rhythm.
@@ -154,7 +162,9 @@ The division of labour which required the carpenter, the shoemaker, and the rest
 
 
 {{< l a="Socrates" >}}
-The three principles of animal-desire, passion, and reason may be compared to the higher, lower, and middle notes of the scale and the intermediate intervals. When he has bound together these notes and intervals, they are no longer many. They become one, entirely temperate and perfectly adjusted nature.
+The 3 principles of animal-desire, passion, and reason may be compared to the higher, lower, and middle notes of the scale and the intermediate intervals. 
+
+When he has bound together these notes and intervals, they are no longer many. They become one, entirely temperate and perfectly adjusted nature.
 
 He then proceeds to act in law, medicine, politics or private business. He calls: <!-- that which preserves and co-operates with this harmonious condition as= -->
 - "just and good action" if they are from knowledge and wisdom

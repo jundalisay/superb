@@ -28,16 +28,22 @@ Most articles point to [the decline of the forest-products industry](http://www.
 From the perspective of ~~Socioeconomics~~ Economic Superphysics<!-- (our proposed alternative to Economics) -->, the most fundamental cause of Tasmania's weak economy is its over-reliance on what Adam Smith calls the 'industry of the country'. This industry is a broad category that relies mostly on natural resources <!-- or what he calls the rude produce of the soil --> -- agriculture , forestry, mining, fishing, etc. It naturally provides limited revenue.
 
 {{< q a="Smith" >}}
-The nature of agriculture..does not admit of so many subdivisions of labour, nor of so complete a separation of one business from another, as manufactures. It is impossible to separate so entirely, the business of the grazier from that of the corn-farmer, as the trade of the carpenter is commonly separated from that of the smith... In agriculture, the labour of the rich country is not always much more productive than that of the poor; or, at least, it is never so much more productive, as it commonly is in manufactures.
-
-<cite>The Wealth of Nations Book I, Chapter 1</cite>
+The nature of agriculture..does not admit of so many subdivisions of labour, nor of so complete a separation of one business from another, as manufactures. 
 {{< /q >}}
+
+{{< q a="Smith" >}}
+It is impossible to separate so entirely, the business of the grazier from that of the corn-farmer, as the trade of the carpenter is commonly separated from that of the smith... In agriculture, the labour of the rich country is not always much more productive than that of the poor; or, at least, it is never so much more productive, as it commonly is in manufactures.
+<cite>The Wealth of Nations Book 1, Chapter 1</cite>
+{{< /q >}}
+
 
 {{< q a="Smith" >}}
 A good stone quarry in..London would afford a considerable rent. In many parts of Scotland and Wales it affords none. Barren timber for building is of great value in a populous and well-cultivated country, and the land which produces it affords a considerable rent. 
 
 But in many parts of North America, the landlord would be much obliged to any body who would carry away the greater part of his large trees. In some parts of the highlands of Scotland the bark is the only part of the wood which, for want of roads and water-carriage, can be sent to market. The timber is left to rot upon the ground. 
+{{< /q >}}
 
+{{< q a="Smith" >}}
 <!-- When the materials of lodging are so super-abundant, the part made use of is worth only the labour and expence of fitting it for that use. --> It affords no rent to the landlord.. The demand of wealthier nations, however, sometimes enables him to get a rent for it.. The woods of Norway..find a market in many parts of Great Britain<!--  which they could not find at home, and thereby afford some rent to their proprietors -->.
 
 <cite>The Wealth of Nations Book I, Chapter 11</cite>

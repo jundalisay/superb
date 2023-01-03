@@ -2,7 +2,7 @@
 title: "Individuality, As One Of The Elements Of Well-being"
 heading: "Chapter 3"
 image: "/covers/liberty.jpg"
-date: 2022-01-23
+weight: 14
 author: "John Stuart Mill"
 description: "Those are the reasons why humans should be free to form opinions and express them without reserve"
 icon: "/icons/mill.png"

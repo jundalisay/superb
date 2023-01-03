@@ -4,12 +4,12 @@ heading: "Articles 1-12"
 description: "The foundation of freedom, justice and peace in the world is the recognition of the inherent dignity, and the equal and inalienable rights of all members of the human family"
 image: /flags/us.png
 author: UN
-date: 2022-01-29
+weight: 8
 ---
 
 
 
-Article 22
+## Article 22
 
 Everyone, as a member of society:
 - has the right to social security

@@ -2,7 +2,7 @@
 title: "General Remarks"
 heading: "Chapter 1"
 image: "/covers/ut.jpg"
-date: 2022-01-31
+weight: 6
 author: "John Stuart Mill"
 description: "What is the foundation of morality?"
 icon: "/icons/mill.png"

@@ -2,7 +2,7 @@
 title: "The Ultimate Sanction Of The Principle Of Utility"
 heading: "Chapter 3"
 image: "/covers/ut.jpg"
-date: 2022-01-26
+weight: 10
 author: "John Stuart Mill"
 description: "Utility is pleasure and the absence of pain"
 icon: "/icons/mill.png"

@@ -2,7 +2,7 @@
 title: "Applications--Free Trade"
 heading: "Chapter 5"
 image: "/covers/liberty.jpg"
-date: 2022-01-15
+weight: 24
 author: "John Stuart Mill"
 description: "The individual is not accountable to society for his actions, in so far as these concern the interests of no person but himself"
 icon: "/icons/mill.png"

@@ -2,7 +2,7 @@
 title: "The Connection Between Justice And Utility"
 heading: "Chapter 5"
 image: "/covers/ut.jpg"
-date: 2022-01-20
+weight: 14
 author: "John Stuart Mill"
 description: "One of the strongest obstacles to the doctrine that Utility or Happiness is the criterion of right and wrong"
 icon: "/icons/mill.png"

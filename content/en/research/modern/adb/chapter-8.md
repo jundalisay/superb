@@ -1,14 +1,14 @@
-+++
-title=  "Status, Immunities, Exemptions And Privileges"
-description=  "This is to enable the Bank effectively to fulfill its purpose. The status, immunities, exemptions and privileges set forth in this Chapter shall be accorded to the Bank in the territory of each member"
-date=  2022-01-23
-author=  "Asian Development Bank"
-image=  "/covers/adb.jpg"
-linkb=  "/research/modern/adb/chapter-7"
-linkbtext=  "Chapter 7"
-linkf=  "/research/modern/adb/chapter-9"
-linkftext=  "Chapter 9"
-+++ 
+---
+title: "Status, Immunities, Exemptions And Privileges"
+heading: Articles 49
+description: "This is to enable the Bank effectively to fulfill its purpose. The status, immunities, exemptions and privileges set forth in this Chapter shall be accorded to the Bank in the territory of each member"
+image: "/covers/adb.jpg"
+weight: 17
+author: "Asian Development Bank"
+icon: "/icons/adb.png"
+---
+
+
 
 This is to enable the Bank effectively to fulfill its purpose. The status, immunities, exemptions and privileges set forth in this Chapter shall be accorded to the Bank in the
 territory of each member.

@@ -2,7 +2,7 @@
 title: "The moral vices"
 heading: "Chapter 4b"
 image: "/covers/liberty.jpg"
-date: 2022-01-19
+weight: 20
 author: "John Stuart Mill"
 description: "The moral vices pride and egotism"
 icon: "/icons/mill.png"

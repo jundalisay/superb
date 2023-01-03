@@ -1,13 +1,14 @@
-+++
-title=  "Capital"
-description= "The Bank's authorized capital stock shall be $l,000,000,000 from 31 January 1966"
-date=  2022-01-29
-image=  "/covers/adb.jpg"
-linkb=  "/research/modern/adb/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/modern/adb/chapter-3"
-linkftext=  "Chapter 3"
-+++ 
+---
+title: "Capital"
+heading: Articles 4-7
+description: "The Bank's authorized capital stock shall be $l,000,000,000 from 31 January 1966"
+image: "/covers/adb.jpg"
+weight: 4
+author: "Asian Development Bank"
+icon: "/icons/adb.png"
+---
+
+
 
 ## Article 4: AUTHORIZED CAPITAL
 
@@ -26,7 +27,7 @@ total number of Governors, representing not less than three-fourths of the total
 members.
 
 
-## Article 5=  SUBSCRIPTION OF SHARES
+## Article 5: SUBSCRIPTION OF SHARES
 
 1. Each member shall subscribe to shares of the capital stock of the Bank. Each subscription
 to the original authorized capital stock shall be for paid-in shares and callable shares in equal parts. The
@@ -98,9 +99,9 @@ the option of the member in gold, convertible currency or in the currency requir
 until the inaugural meeting of its Board of Governors, the payment of the first installment referred to in paragraph 1 of this Article shall be made to the Secretary-General of the United Nations, as Trustee for the Bank.
 
 
-### Article 7=  ORDINARY CAPITAL RESOURCES
+### Article 7: ORDINARY CAPITAL RESOURCES
 
-These shall include= = 
+These shall include:
 
 1. Authorized capital stock of the Bank, including both paid-in and callable shares, subscribed pursuant to Article 5 of this Agreement, except such part thereof as may be set aside into one or more Special Funds in accordance with paragraph 1 (i) of Article 19 of this Agreement
 2. Funds raised by borrowings of the Bank by virtue of powers conferred by sub-paragraph 1 of Article 21 of this Agreement, to which the commitment to calls provided for in paragraph 5 of Article 6 of this Agreement is applicable

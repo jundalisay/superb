@@ -1,5 +1,6 @@
 ---
 title: "Engels, Frederick"
+linkTitle: Engels
 heading: Very Unenlightened
 # date: 2022-07-24
 weight: 26

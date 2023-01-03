@@ -2,7 +2,7 @@
 title: "The Roman Catholic Church"
 heading: "Chapter 2b"
 image: "/covers/liberty.jpg"
-date: 2022-01-27
+weight: 8
 author: "John Stuart Mill"
 description: "The Roman Catholic Church is the most intolerant of churches"
 icon: "/icons/mill.png"

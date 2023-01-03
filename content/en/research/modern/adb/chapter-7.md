@@ -1,26 +1,23 @@
-+++
-title= "Withdrawal And Suspension Of Members, Temporary Suspension And Termination Of Bank Operations"
-description=  "Any member may withdraw from the Bank at any time by delivering a notice in writing to the Bank at its principal office"
-date=  2022-01-24
-# date=  1945-06-26
-author=  "Asian Development Bank"
-image=  "/covers/adb.jpg"
-linkb=  "/research/modern/adb/chapter-6"
-linkbtext=  "Chapter 6"
-linkf=  "/research/modern/adb/chapter-8"
-linkftext=  "Chapter 8"
-+++
+---
+title: "Withdrawal And Suspension Of Members, Temporary Suspension And Termination Of Bank Operations"
+heading: Articles 41
+description: "Any member may withdraw from the Bank at any time by delivering a notice in writing to the Bank at its principal office"
+image: "/covers/adb.jpg"
+weight: 16
+author: "Asian Development Bank"
+icon: "/icons/adb.png"
+---
 
-## Article 41=  WITHDRAWAL
+
+
+## Article 41: WITHDRAWAL
 
 1. Any member may withdraw from the Bank at any time by delivering a notice in writing to the Bank at its principal office.
-2. Withdrawal by a member shall become effective, and its membership shall cease, on the
-date specified in its notice but in no event less than six (6) months after the date that notice has been received by the Bank. However, at any time before the withdrawal becomes finally effective, the member may notify the Bank in writing of the cancellation of its notice of intention to withdraw.
-3. A withdrawing member shall remain liable for all direct and contingent obligations to the
-Bank to which it was subject at the date of delivery of the withdrawal notice. If the withdrawal becomes finally effective, the member shall not incur any liability for obligations resulting from operations of the Bank effected after the date on which the withdrawal notice was received by the Bank.
+2. Withdrawal by a member shall become effective, and its membership shall cease, on the date specified in its notice but in no event less than six (6) months after the date that notice has been received by the Bank. However, at any time before the withdrawal becomes finally effective, the member may notify the Bank in writing of the cancellation of its notice of intention to withdraw.
+3. A withdrawing member shall remain liable for all direct and contingent obligations to the Bank to which it was subject at the date of delivery of the withdrawal notice. If the withdrawal becomes finally effective, the member shall not incur any liability for obligations resulting from operations of the Bank effected after the date on which the withdrawal notice was received by the Bank.
 
 
-## Article 42=  SUSPENSION OF MEMBERSHIP
+## Article 42: SUSPENSION OF MEMBERSHIP
 
 1. If a member fails to fulfill any of its obligation to the Bank, the Board of Governors may
 suspend such member by a vote of two-thirds of the total number of Governors, representing not less than 3/4 of the total voting power of the members.
@@ -72,10 +69,8 @@ to the orderly realization, conservation and preservation of its assets and sett
 
 ## Article 46: LIABILITY OF MEMBERS AND PAYMENT OF CLAIMS
 
-1. In the event of termination of the operation of the Bank, the liability of all members for
-uncalled subscriptions to the capital stock of the Bank and in respect of the depreciation of their currencies shall continue until all claims of creditors, including all contingent claims shall have been discharged.
-2. All creditors holding direct claims shall first be paid out of the assets of the Bank and
-then out of payments to the Bank or unpaid or callable subscriptions. Before making any payments to creditors holding direct claims, the Board of Directors shall make such arrangements as are necessary, in its judgment, to ensure a pro rata distribution among holders of direct and contingent claims.
+1. In the event of termination of the operation of the Bank, the liability of all members for uncalled subscriptions to the capital stock of the Bank and in respect of the depreciation of their currencies shall continue until all claims of creditors, including all contingent claims shall have been discharged.
+2. All creditors holding direct claims shall first be paid out of the assets of the Bank and then out of payments to the Bank or unpaid or callable subscriptions. Before making any payments to creditors holding direct claims, the Board of Directors shall make such arrangements as are necessary, in its judgment, to ensure a pro rata distribution among holders of direct and contingent claims.
 
 
 ### Article 47 DISTRIBUTION OF ASSETS

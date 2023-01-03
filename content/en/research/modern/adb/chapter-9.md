@@ -1,14 +1,14 @@
-+++
-title=  "Amendments, Interpretation, Arbitration"
-heading= "Articles 59-62"
-description=  "This Agreement may be amended only by a resolution of the Board of Governors approved by a vote of 2/3 of the total number of Governors, representing not less than 3.4 of the total voting power of the members"
-date=  2022-01-22
-image=  "/covers/adb.jpg"
-linkb=  "/research/modern/adb/chapter-8"
-linkbtext=  "Chapter 8"
-linkf=  "/research/modern/adb/chapter-10"
-linkftext=  "Chapter 10"
-+++ 
+---
+title: "Amendments, Interpretation, Arbitration"
+heading: Articles 59-52
+description: "This Agreement may be amended only by a resolution of the Board of Governors approved by a vote of 2/3 of the total number of Governors, representing not less than 3.4 of the total voting power of the members"
+image: "/covers/adb.jpg"
+weight: 20
+author: "Asian Development Bank"
+icon: "/icons/adb.png"
+---
+
+
 
 
 ## Article 59: AMENDMENTS
@@ -16,14 +16,14 @@ linkftext=  "Chapter 10"
 1. This Agreement may be amended only by a resolution of the Board of Governors approved by a vote of 2/3 of the total number of Governors, representing not less than three-fourths
 of the total voting power of the members.
 
-2. Notwithstanding the provisions of paragraph 1 of this Article, the unanimous agreement
-of the Board of Governors shall be required for the approval of any amendment modifying= 
+2. Notwithstanding the provisions of paragraph 1 of this Article, the unanimous agreement of the Board of Governors shall be required for the approval of any amendment modifying:
+
 (i) the right to withdraw from the Bank;
 (ii) the limitations on liability provided in paragraphs 6 and 7 of Article 5; and(iii)
 the rights pertaining to purchase of capital stock provided in paragraph 2 of Article 5.
 
-3. Any proposal to amend this Agreement, whether emanating from a member or the Board
-of Directors, shall be communicated to the Chairman of the Board of Governors, who shall bring the proposal before the Board of Governors. When an amendment has been adopted, the Bank shall so certify in an official communication addressed to all members. Amendments shall enter into force for all members three (3) months after the date of the official communication unless the Board of Governors specifies therein a different period.
+3. Any proposal to amend this Agreement, whether emanating from a member or the Board of Directors, shall be communicated to the Chairman of the Board of Governors, who shall bring the proposal before the Board of Governors. When an amendment has been adopted, the Bank shall so certify in an official communication addressed to all members. Amendments shall enter into force for all members three (3) months after the date of the official communication unless the Board of Governors specifies therein a different period.
+
 
 ## Article 60: INTERPRETATION OR APPLICATION
 
@@ -51,4 +51,3 @@ with respect thereto.
 Whenever the approval of any member is required before any act may be done by the Bank,
 approval shall be deemed to have been given unless the member presents an objection within such
 reasonable period as the Bank may fix in notifying the member of the proposed act.
-

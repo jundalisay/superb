@@ -1,19 +1,19 @@
-+++
-title=  "Borrowing And Other Miscellaneous Powers"
-description=  "The Bank's authorized capital stock shall be $l,000,000,000 from 31 January 1966"
-date=  2022-01-27
-author=  "Asian Development Bank"
-image=  "/covers/adb.jpg"
-linkb=  "/research/modern/adb/chapter-3"
-linkbtext=  "Chapter 3"
-linkf=  "/research/modern/adb/chapter-5"
-linkftext=  "Chapter 5"
-+++
+---
+title: "Borrowing And Other Miscellaneous Powers"
+heading: Articles 21
+description: "The Bank's authorized capital stock shall be $l,000,000,000 from 31 January 1966"
+image: "/covers/adb.jpg"
+weight: 10
+author: "Asian Development Bank"
+icon: "/icons/adb.png"
+---
 
 
-## Article 21=  GENERAL POWERS
 
-The Bank shall have the power to= 
+
+## Article 21: GENERAL POWERS
+
+The Bank shall have the power to:
 
 1. Borrow funds in member countries or elsewhere, and in this connection to furnish such
 collateral or other security therefore as the Bank shall determine, provided always that= 
@@ -38,8 +38,7 @@ enterprise for purposes consistent with the purpose of the Bank;
 6. provide technical advice and assistance which serve its purpose and come within its functions, and where expenditures incurred in furnishing such services are not reimbursable, charge the net income of the Bank therewith; in the first five (5) years of its operations, the Bank may use up to 2% of its paid-in capital for furnishing such services on a non-reimbursable basis, and (vii) exercise such other powers and establish such rules and regulations as may be necessary or appropriate in furtherance of its purpose and functions, consistent with the provisions of this Agreement.
 
 
-## Article 22
-
-NOTICE TO BE PLACED ON SECURITIES
+## Article 22: NOTICE TO BE PLACED ON SECURITIES
 
 Every security issued or guaranteed by the Bank shall bear on its face a conspicuous statement to the effect that it is not an obligation of any Government, unless it is in fact the obligation of a particular Government, in which case it shall so state.
+
