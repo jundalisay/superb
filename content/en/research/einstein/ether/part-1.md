@@ -94,7 +94,7 @@ This led to a fundamental dualism which was insupportable in the long-run. <!-- 
 
 <!-- This dualism still confronts us in unextenuated form  -->
 
-In the theory of Hertz, matter is= 
+In the theory of Hertz, matter is:
 - the bearer of velocities, kinetic energy, and mechanical pressures, and
 - electromagnetic fields which also occur in vacuo (in free ether)
 

@@ -89,7 +89,7 @@ But on the other hand, the <!--  is a weighty argument to be adduced in favour o
 
 <!-- . To deny the ether is ultimately to assume that empty space has no physical qualities whatever.  -->
 
- do not harmonize with this view. For 
+ <!-- do not harmonize with this view. For  -->
 
 The mechanical behaviour of body hovering freely in empty space depends on:
 - relative positions (distances)

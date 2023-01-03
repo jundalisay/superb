@@ -1,13 +1,13 @@
-+++
-title= "Articles 13-33"
-description=  "The members of the Court shall be elected for 9 years and may be re-elected"
-date=  2022-01-30
-image=  "/covers/icj.jpg"
-linkb=  "/research/modern/icj/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/modern/icj/chapter-2"
-linkftext=  "Chapter 2"
-+++ 
+---
+title: Membership
+heading: "Articles 13-33"
+description: "The members of the Court shall be elected for 9 years and may be re-elected"
+image: /covers/icj.jpg
+author: UN
+weight: 8
+---
+
+
 
 ## Article 13
 
