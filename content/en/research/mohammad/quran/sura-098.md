@@ -1,7 +1,7 @@
 ---
 title: "Clear Evidence (al-bayyinah) And The Quake (az-Zalzalah)"
-heading: "Sura 98 of the Quran Simplified"
-date: 2021-04-19
+heading: "Sura 98 "
+weight: 252
 image: "/covers/quran.jpg"
 description: "The Prophet Mohammad tries to connect the historical Imran family to his Islam."
 ---

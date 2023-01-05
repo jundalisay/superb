@@ -49,7 +49,7 @@ Modern Economics began with Paul Samuelson's neo-classical synthesis which descr
 <cite>Paul Samuelson, Economics, Chapter 4 Supply and Demand: The Bare Elements, page 61</cite>
 {{< /quote >}}
 
-> *Instead of a demand schedule, pantrynomics uses the modern economic table of the Physiocrats to determine the real price of everything in real-time. If everyone knows the real price of everything, then information asymmetry and profit maximization stop existing. Consequently, economic crises no longer have a chance to form. The maxim 'prevention is better than cure' applies to an economy just as it applies to health,
+> *Instead of a demand schedule, Supereconomics uses the modern economic table of the Physiocrats to determine the real price of everything in real-time. If everyone knows the real price of everything, then information asymmetry and profit maximization stop existing. Consequently, economic crises no longer have a chance to form. The maxim 'prevention is better than cure' applies to an economy just as it applies to health,
 
 
 
@@ -161,7 +161,7 @@ When the price of any commodity is neither more nor less than what is sufficient
 
 ![Real Downward Supply Curve](https://socioecons.files.wordpress.com/2015/08/image002.jpg)
 
-Unlike the producer's or mercantile supply curves which slope upwards, Smith's [pantrynomic](/social/economics/principles/second-law) supply curve slopes downward to represent less effort and energy expense while production increases. This phenomenon is called **economies of scale or division of labour**. 
+Unlike the producer's or mercantile supply curves which slope upwards, Smith's [supereconomic](/social/economics/principles/second-law) supply curve slopes downward to represent less effort and energy expense while production increases. This phenomenon is called **economies of scale or division of labour**. 
 
 
 Why does Samuelson's costs go up with more production, while Smith's costs go down, properly leading to lower prices? This is simply because Smith and Samuelson's costs **are seen from different positions**:

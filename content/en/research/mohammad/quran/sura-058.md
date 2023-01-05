@@ -1,7 +1,7 @@
 ---
 title: "The Argument (al-Mujadilah)"
-heading: "Sura 58a of the Quran Simplified"
-date: 2021-06-22
+heading: "Sura 58a "
+weight: 192
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

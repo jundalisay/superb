@@ -1,7 +1,7 @@
 ---
 title: "The Night and Morning Light"
-heading: "Sura 92 of the Quran Simplified"
-date: 2021-04-22
+heading: "Sura 92 "
+weight: 246
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

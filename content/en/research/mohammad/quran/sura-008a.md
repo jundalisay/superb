@@ -1,7 +1,7 @@
 ---
 title: "The Spoils (al-Anfal)"
-heading: "Sura 8a of the Quran Simplified"
-date: 2021-12-28
+heading: "Sura 8a "
+weight: 72
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

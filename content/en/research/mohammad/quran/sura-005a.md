@@ -1,7 +1,7 @@
 ---
 title: "The Table (al-Ma’idah)"
-heading: "Sura 5a of the Quran Simplified"
-date: 2022-01-08
+heading: "Sura 5a "
+weight: 50
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Rules on Food, Fasting, Gambling, and Revenge"
-heading: "Sura 2g of the Quran Simplified"
-date: 2022-01-25
+heading: "Sura 2g"
+weight: 16
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

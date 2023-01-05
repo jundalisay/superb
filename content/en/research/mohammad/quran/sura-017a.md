@@ -1,7 +1,7 @@
 ---
 title: "Domestic Rules"
-heading: "Sura 17a of the Quran Simplified"
-date: 2021-11-17
+heading: "Sura 17a "
+weight: 100
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

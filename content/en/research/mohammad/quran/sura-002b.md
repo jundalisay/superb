@@ -1,13 +1,9 @@
 ---
 title: "Adam and the Jews"
-heading: "Sura 2b of the Quran Simplified"
-date: 2022-01-30
+heading: "Sura 2b "
+weight: 6
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002a
-linkbtext: "sura-002a"
-linkf: /research/mohammad/quran/sura-002c
-linkftext: "sura-002c"
 ---
 
 

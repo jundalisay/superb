@@ -1,7 +1,7 @@
 ---
 title: "Joseph in Prison"
-heading: "Sura 12b of the Quran Simplified"
-date: 2021-12-08
+heading: "Sura 12b "
+weight: 88
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

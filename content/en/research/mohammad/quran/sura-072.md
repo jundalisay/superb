@@ -1,7 +1,7 @@
 ---
 title: "The Jinn (al-Jinn)"
-heading: "Sura 72 of the Quran Simplified"
-date: 2021-05-20
+heading: "Sura 72 "
+weight: 216
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

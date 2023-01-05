@@ -1,7 +1,7 @@
 ---
 title: "Muslims"
-heading: "Sura 3a of the Quran Simplified"
-date: 2022-01-15
+heading: "Sura 3a "
+weight: 36
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

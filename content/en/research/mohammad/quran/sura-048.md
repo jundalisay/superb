@@ -1,7 +1,7 @@
 ---
 title: "Victory (al-Fath)"
-heading: "Sura 48 of the Quran Simplified"
-date: 2021-07-20
+heading: "Sura 48 "
+weight: 172
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

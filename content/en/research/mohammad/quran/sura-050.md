@@ -1,7 +1,7 @@
 ---
 title: "Qaf"
-heading: "Sura 50a of the Quran Simplified"
-date: 2021-07-10
+heading: "Sura 50a "
+weight: 176
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Gathering (at-Taghabun)"
-heading: "Sura 64a of the Quran Simplified"
-date: 2021-06-10
+heading: "Sura 64a "
+weight: 200
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

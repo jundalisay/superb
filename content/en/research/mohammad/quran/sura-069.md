@@ -1,7 +1,7 @@
 ---
 title: "The Reality (al-Haqqah)"
-heading: "Sura 69 of the Quran Simplified"
-date: 2021-05-28
+heading: "Sura 69 "
+weight: 210
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

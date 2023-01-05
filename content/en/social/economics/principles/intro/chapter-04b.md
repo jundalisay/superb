@@ -4,7 +4,7 @@ title: "Four Laws Table"
 weight: 14
 # date: 2022-03-24
 image: "/photos/buy.jpg"
-description: "Here is a table for the four classifications of Exchangeable value in pantrynomics, using 'price' as its snapshot"
+description: "Here is a table for the four classifications of Exchangeable value in supereconomics, using 'price' as its snapshot"
 author: Juan Dalisay Jr
 ---
 
@@ -40,7 +40,7 @@ Law | Price | Purpose
 
 In addition, we can see how the four laws of value are the reverse of the laws of thermodynamics. For example:
 - the Zeroth law or the balancing of temperature is the first in Physics, but is the last in Superphysics as economic balance of the Fourth law
-- the Third law, as absolute zero, is the last in Physics, but is the first in pantrynomics as its First law, as everything having a value.
+- the Third law, as absolute zero, is the last in Physics, but is the first in Supereconomics as its First law, as everything having a value.
 
 This is because Physics believes that the universe began as an energetic Big Bang where energy began first, whereas humans start from birth or low-energy sleep where lack begins first
 

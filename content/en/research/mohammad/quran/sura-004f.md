@@ -1,7 +1,7 @@
 ---
 title: "Islamic Justice"
-heading: "Sura 4f of the Quran Simplified"
-date: 2022-01-09
+heading: "Sura 4f "
+weight: 48
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

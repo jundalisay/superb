@@ -1,7 +1,7 @@
 ---
 title: "Rules on Wealth, Charity, Debt and Usury"
-heading: "Sura 2g of the Quran Simplified"
-date: 2022-01-20
+heading: "Sura 2g "
+weight: 26
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

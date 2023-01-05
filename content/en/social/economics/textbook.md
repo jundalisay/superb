@@ -88,7 +88,7 @@ _ | Mercantilism for merchants
 _ | Capitalism for manufacturers
 _ | Communism for workers
 Divisions of Precrisis Economics | Micro, macro, behavioral, welfare, development, etc
-Future | Artificial intelligence and Extraplanetary pantrynomics -- how to autoamte value-creation and spread it throughout the universe 
+Future | Artificial intelligence and Extraplanetary supereconomics -- how to autoamte value-creation and spread it throughout the universe 
 
 
 

@@ -204,11 +204,11 @@ The doctrine of the immateriality, simplicity, and indivisibility of a thinking 
 It will justify all those feelings that Spinoza is so universally infamous for.
 I hope at least to reap one advantage.
 My adversaries will not render my present doctrine odious because they will see that they can be so easily retorted on them.
-The fundamental principle of Spinoza's atheism is the doctrine of the:
 
-universe's simplicity
-unity of that substance which is inherent in thought and matter.
-He says that there is only one substance in the world.
+The fundamental principle of Spinoza's atheism is the doctrine of the:
+- universe's simplicity
+- unity of that substance which is inherent in thought and matter.
+- He says that there is only one substance in the world.
 
 That substance is:
 perfectly simple,

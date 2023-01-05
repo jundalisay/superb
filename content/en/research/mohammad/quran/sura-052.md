@@ -1,7 +1,7 @@
 ---
 title: "THE MOUNT (at-Tur)"
-heading: "Sura 52 of the Quran Simplified"
-date: 2021-07-05
+heading: "Sura 52 "
+weight: 180
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

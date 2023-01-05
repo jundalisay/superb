@@ -22,7 +22,7 @@ aliases:
 Overhauled on  to harmonize Socrates with Hume and Smith
 {{< /me >}}
 
-Our proposed science of [pantrynomics](/pantrynomics) is based on a new paradigm that sees individual entities as naturally part of a larger group of entities called a society. -->
+-->
 
 Modern Sociology defines a society as "a group of people who live in a defined geographic area, who interact with one another, and who
 share a common culture."

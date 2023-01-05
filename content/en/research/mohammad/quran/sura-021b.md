@@ -1,7 +1,7 @@
 ---
 title: "The Prophets"
-heading: "Sura 21b of the Quran Simplified"
-date: 2021-10-10
+heading: "Sura 21b "
+weight: 120
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

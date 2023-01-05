@@ -1,7 +1,7 @@
 ---
 title: "The Rupture (al-Inshiqaq)"
-heading: "Sura 84a of the Quran Simplified"
-date: 2021-04-27
+heading: "Sura 84a "
+weight: 236
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

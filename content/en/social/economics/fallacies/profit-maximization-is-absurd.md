@@ -128,7 +128,8 @@ To truly solve current economic problems, an alternative science to Economics mu
 
 Superphysics is a complete economic science derived entirely from Smith's Political Economy which is ultimately based on Hume's Metaphysics or Science of Man. Included in this science is the clear definition of perfect liberty* as <b>dharmic or taoic liberty</b> which puts emphasis on society and real happiness or lasting peace, instead of giving too much focus on the self (ego) and its temporary pleasures. 
 
-This science is then used to create a pantrynomic system tasked to implement this liberty and prevent the problems of the old one.
+This science is then used to create a "supereconomic" system tasked to implement this liberty and prevent the problems of the old one.
+
 
 > *In the absence of splitting up giant corporations, our bottom-up solution is a points-based system that is NOT based on gifts
 

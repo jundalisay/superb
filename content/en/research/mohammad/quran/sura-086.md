@@ -1,7 +1,7 @@
 ---
 title: "The Nightly Visitor and The Most High"
-heading: "Sura 86a of the Quran Simplified"
-date: 2021-04-25
+heading: "Sura 86a "
+weight: 240
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

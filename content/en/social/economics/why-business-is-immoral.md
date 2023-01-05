@@ -85,6 +85,6 @@ A moral or sustainable economic system must focus on the exchange agreements the
 
 This agreement-based system is the foundation of a free trade network that allows barter, money or points and is more robust than the money-only commercial system. The Commercial system is based money which makes it easy to compare the prices of commodities. 
 
-How can Pantrynomic free trade match that, when it uses barter, money, and points?
+How can Supereconomic free trade match that, when it uses barter, money, and points?
 
 The answer is in [the Grain Index](/social/economics/solutions/gdp) from the Effort Theory of Value.

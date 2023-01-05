@@ -1,7 +1,7 @@
 ---
 title: "Resurrection (al-Qiyamah)"
-heading: "Sura 75a of the Quran Simplified"
-date: 2021-05-13
+heading: "Sura 75a "
+weight: 222
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
 ---

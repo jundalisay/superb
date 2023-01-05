@@ -1,7 +1,7 @@
 ---
 title: "The Star (an-Najm)"
-heading: "Sura 53 of the Quran Simplified"
-date: 2021-07-03
+heading: "Sura 53 "
+weight: 182
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

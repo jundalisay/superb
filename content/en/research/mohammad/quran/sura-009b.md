@@ -1,7 +1,7 @@
 ---
 title: "Abraham's Submission to the Lord"
-heading: "Sura 9b of the Quran Simplified"
-date: 2021-12-26
+heading: "Sura 9b "
+weight: 76
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

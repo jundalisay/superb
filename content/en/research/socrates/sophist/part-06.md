@@ -1,3 +1,14 @@
+---
+title: "The Arts"
+heading: "Part 6"
+weight: 10
+author: Plato
+image: "/covers/sophist.jpg"
+description: "We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher"
+icon: "/icons/soc.png"
+---
+
+
 
 STRANGER: Well, then, pursuing the same analytic method as before, I think that I can discern two divisions of the imitative art, but I am not as yet able to see in which of them the desired form is to be found.
 

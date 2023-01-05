@@ -1,7 +1,7 @@
 ---
 title: "The Chambers (al-Hujurat)"
-heading: "Sura 49 of the Quran Simplified"
-date: 2021-07-15
+heading: "Sura 49 "
+weight: 174
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

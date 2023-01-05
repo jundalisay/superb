@@ -1,7 +1,7 @@
 ---
 title: "The Unleashed (al-Mursalat)"
-heading: "Sura 77a of the Quran Simplified"
-date: 2021-05-08
+heading: "Sura 77a "
+weight: 226
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

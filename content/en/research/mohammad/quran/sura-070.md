@@ -1,7 +1,7 @@
 ---
 title: "Ways Of Ascent (al-Ma’arij)"
-heading: "Sura 70a of the Quran Simplified"
-date: 2021-05-25
+heading: "Sura 70a "
+weight: 212
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

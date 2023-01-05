@@ -1,7 +1,7 @@
 ---
 title: "The Racers, Shocker"
-heading: "Sura 100-101 of the Quran Simplified"
-date: 2021-04-18
+heading: "Sura 100-101 "
+weight: 254
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

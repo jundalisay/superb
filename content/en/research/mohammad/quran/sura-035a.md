@@ -1,7 +1,7 @@
 ---
 title: "Originator (Fatir)"
-heading: "Sura 35 of the Quran Simplified"
-date: 2021-08-24
+heading: "Sura 35 "
+weight: 146
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

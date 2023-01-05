@@ -1,7 +1,7 @@
 ---
 title: "The Enrobed (al-Muddathir)"
-heading: "Sura 74a of the Quran Simplified"
-date: 2021-05-14
+heading: "Sura 74a "
+weight: 220
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

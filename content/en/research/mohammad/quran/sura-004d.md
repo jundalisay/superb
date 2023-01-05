@@ -1,7 +1,7 @@
 ---
 title: "Fight for Allah"
-heading: "Sura 4d of the Quran Simplified"
-date: 2022-01-11
+heading: "Sura 4d "
+weight: 44
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

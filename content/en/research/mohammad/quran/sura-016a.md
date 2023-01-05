@@ -1,7 +1,7 @@
 ---
 title: "The Bee (an-Nahl)"
-heading: "Sura 16a of the Quran Simplified"
-date: 2021-11-19
+heading: "Sura 16a "
+weight: 96
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

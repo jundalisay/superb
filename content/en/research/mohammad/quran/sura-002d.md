@@ -1,13 +1,9 @@
 ---
 title: "The Characteristics of the Jews"
-heading: "Sura 2d of the Quran Simplified"
-date: 2022-01-28
+heading: "Sura 2d "
+weight: 10
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/sura-002c
-linkbtext: "2c"
-linkf: /research/mohammad/quran/sura-002e
-linkftext: "2e"
 ---
 
 

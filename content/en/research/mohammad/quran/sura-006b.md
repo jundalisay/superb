@@ -1,14 +1,13 @@
 ---
 title: "Azar"
-heading: "Sura 6b of the Quran Simplified"
-date: 2022-01-03
+heading: "Sura 6b "
+weight: 60
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
 ---
 
 
-
-68. When you encounter those who gossip about Our revelations, turn away from them, until they engage in another topic. 
+{{< s v="68" >}} When you encounter those who gossip about Our revelations, turn away from them, until they engage in another topic. 
 
 But should Satan make you forget, do not sit after the recollection with the wicked people.
 

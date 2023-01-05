@@ -1,7 +1,7 @@
 ---
 title: "The Poets (ash-Shu’ara’)"
-heading: "Sura 26 of the Quran Simplified"
-date: 2021-09-15
+heading: "Sura 26 "
+weight: 130
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Sophist by Plato Simplified"
-linkTitle: "Sophist"
+title: "Protogoras by Plato Simplified"
+linkTitle: "Protogoras "
 weight: 6
-description: "Sophist by Plato Simplified"
-image: "/covers/sophist.jpg"
+description: "Protogoras by Plato Simplified"
+image: "/covers/prot.jpg"
 ---

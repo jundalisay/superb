@@ -1,7 +1,7 @@
 ---
 title: "The Romans (ar-Rum)"
-heading: "Sura 30 of the Quran Simplified"
-date: 2021-09-05
+heading: "Sura 30 "
+weight: 136
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

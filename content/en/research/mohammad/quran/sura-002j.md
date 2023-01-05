@@ -1,7 +1,7 @@
 ---
 title: "Rules on Divorce and Widows"
-heading: "Sura 2j of the Quran Simplified"
-date: 2022-01-22
+heading: "Sura 2j "
+weight: 22
 image: "/covers/quran.jpg"
 description: "Divorced women shall wait by themselves for 3 periods. It is unlawful for Muslim to conceal what Allah has created in their wombs"
 ---

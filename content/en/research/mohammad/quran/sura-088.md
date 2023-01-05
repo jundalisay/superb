@@ -1,7 +1,7 @@
 ---
 title: "The Overwhelming, The Dawn"
-heading: "Sura 88-89 of the Quran Simplified"
-date: 2021-04-24
+heading: "Sura 88-89 "
+weight: 242
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

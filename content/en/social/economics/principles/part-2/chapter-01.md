@@ -26,7 +26,9 @@ The Second Law of Value states that **value goes from areas with high value to a
 > *It explains why people always make an effort to better themselves just as time always moves forward. The causal mechanism is the cycling of the Positive and Negative forces
 
 
-The instability is a sign of Nature’s inherent dynamism* and manifests as the concept of <b>Absolute Demand</b> in pantrynomics, which does not exist in Economics. This demand manifests as the arbitrary motives such as profit, duty, conservation, benevolence, the force of capital, goal-in-life, etc. as part of the personal interest. This is different from Economics which enshrines only the profit motive as the selfish interest.
+The instability is a sign of Nature’s inherent dynamism* and manifests as the concept of Absolute Demand of Supereconomics, which does not exist in Economics. 
+
+This demand manifests as the arbitrary motives such as profit, duty, conservation, benevolence, the force of capital, goal-in-life, etc. as part of the personal interest. This is different from Economics which enshrines only the profit motive as the selfish interest.
 
 > *In Medical Superphysics, this dynamism or entropy manifests as the mind jumping to conclusions unless it is restrained by conscience. In Supersociology, this manifests as popular opinion turning into mob rule unless it is restrained by the common interest.
 
@@ -74,7 +76,7 @@ Cake Market Price  | Day 1 Buyers | Day 2 Buyers | Day 3 Buyers | Chef Revenue a
 $2 | C | D | E | $2 | $6 (3 cakes) | none | 3 days
 
 
-### Pantrynomic Entrepreneur: $4
+### Supereconomic Entrepreneur: $4
 
 So through trial and error, he sets his market price to $4. In this way, his first sale will let him make two more, and all demand can be satisfied in 2 days. His net nominal revenue will be $4 in the end. This can be used to export cakes to other towns to keep Mr. Chef employed and making cakes for everyone. 
 
@@ -89,7 +91,7 @@ $4 | C | D, E | demand satisfied | $4 | $12 (3 cakes) | all ok | 3 days
 
 ### Profit-Maximizing Entrepreneur: $6
 
-The Pantrynomic supply curve is very different from the profit maximizing one of Economics which will sell the cake at a higher price of $6. This will:
+The Supereconomic supply curve is very different from the profit maximizing one of Economics which will sell the cake at a higher price of $6. This will:
 - create 3 cakes on the second day
 - 1 will be sold, leaving 2 unsold yet Mr. C would not be able to afford any of it
 

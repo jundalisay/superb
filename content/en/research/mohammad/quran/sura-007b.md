@@ -1,14 +1,13 @@
 ---
 title: "The Elevations (al-A’raf)"
-heading: "Sura 7b of the Quran Simplified"
-date: 2021-12-31
+heading: "Sura 7b "
+weight: 66
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
 ---
 
 
-
-48. The dwellers of the Purgatory will call to men they recognize by their features, saying, “Your hoardings did not avail you, nor did your arrogance.”
+{{< s v="48" >}} The dwellers of the Purgatory will call to men they recognize by their features, saying, “Your hoardings did not avail you, nor did your arrogance.”
 
 49. “Are these the ones you swore Allah will not touch with mercy?” “Enter the Garden; you have nothing to fear, and you will not grieve.”
 

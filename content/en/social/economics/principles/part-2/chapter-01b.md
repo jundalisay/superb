@@ -129,7 +129,7 @@ Here, my dear Glaucon, is the supreme peril of our human state. Therefore, the u
 
 This is the same reasoning behind the Hindu varna system wherein a family of farmers trains its some of its children as farmers, and a family of doctors trains some of its children as doctors. Unfortunately, this system degenerated into a rigid caste system that people got trapped into. Instead of the occupations being naturally dynamic, it became static. 
 
-To prevent this, one of the features of our proposed pantrynomic system is for the classification of careers to be done by artificial intellgence based on personality instead of heredity, so that society can have economic balance and higher quality of goods and services.
+To prevent this, one of the features of our proposed system is for the classification of careers to be done by artificial intellgence based on personality instead of heredity, so that society can have economic balance and higher quality of goods and services.
 
 
 {{< img alt="Sorting hat" src="https://ik.imagekit.io/sora/cards/sorting_oIPhW50VG.jpg" cap="ISAIAH suggests the best career or educational path for workers and students to align them with their natural Tao or Dharma" >}}

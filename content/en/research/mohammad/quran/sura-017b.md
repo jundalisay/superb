@@ -1,7 +1,7 @@
 ---
 title: "The Night Journey (al-Isra’)"
-heading: "Sura 17b of the Quran Simplified"
-date: 2021-11-15
+heading: "Sura 17b "
+weight: 102
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

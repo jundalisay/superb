@@ -1,7 +1,7 @@
 ---
 title: "The 12 Tribes of Israel"
-heading: "Sura 7d of the Quran Simplified"
-date: 2021-12-29
+heading: "Sura 7d "
+weight: 70
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

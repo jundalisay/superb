@@ -1,7 +1,7 @@
 ---
 title: "The Pilgrimage (al-Hajj)"
-heading: "Sura 22 of the Quran Simplified"
-date: 2021-10-04
+heading: "Sura 22 "
+weight: 122
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

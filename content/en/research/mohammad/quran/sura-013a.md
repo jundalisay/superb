@@ -1,7 +1,7 @@
 ---
 title: "Thunder (ar-Ra’d)"
-heading: "Sura 13a of the Quran Simplified"
-date: 2021-12-05
+heading: "Sura 13a "
+weight: 90
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

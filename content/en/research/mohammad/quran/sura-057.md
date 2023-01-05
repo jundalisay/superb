@@ -1,7 +1,7 @@
 ---
 title: "Iron (al-Hadid`)"
-heading: "Sura 57 of the Quran Simplified"
-date: 2021-06-25
+heading: "Sura 57 "
+weight: 190
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
@@ -24,8 +24,8 @@ what the hearts contains.
 among you who believe and give will have a great reward.
 
 8. What is the matter with you that you do not believe in Allah, when the Messenger calls
-you to believe in your Lord, and He has received a pledge from you, if you are believers?{{< s v="9" >}}  It is He who sends down upon His servant clear revelations, to bring you out of darkness
-into the light. Allah is Gentle towards you, Most Compassionate.
+you to believe in your Lord, and He has received a pledge from you, if you are believers?{{< s v="9" >}}  It is He who sends down upon His servant clear revelations, to bring you out of darkness into the light.
+
 {{< s v="10" >}}  And why is it that you do not spend in the cause of Allah, when to Allah belongs the in-
 heritance of the heavens and the earth? Not equal among you are those who contributed
 before the conquest, and fought. Those are higher in rank than those who contributed

@@ -1,7 +1,7 @@
 ---
 title: "Repentance (at-Tawbah)"
-heading: "Sura 9a of the Quran Simplified"
-date: 2021-12-27
+heading: "Sura 9a "
+weight: 74
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Soothing and The Fig"
-heading: "Sura 95 of the Quran Simplified"
-date: 2021-04-21
+heading: "Sura 95 "
+weight: 248
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

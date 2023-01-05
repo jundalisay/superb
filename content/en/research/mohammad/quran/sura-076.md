@@ -1,7 +1,7 @@
 ---
 title: "Man (al-Insan)"
-heading: "Sura 76a of the Quran Simplified"
-date: 2021-05-10
+heading: "Sura 76a "
+weight: 224
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

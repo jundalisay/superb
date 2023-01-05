@@ -1,7 +1,7 @@
 ---
 title: "The Snatchers (an-Nazi’at)"
-heading: "Sura 79 of the Quran Simplified"
-date: 2021-05-05
+heading: "Sura 79 "
+weight: 228
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

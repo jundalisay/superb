@@ -1,7 +1,7 @@
 ---
 title: "Jews and Christians Versus the Muslims"
-heading: "Sura 3c of the Quran Simplified"
-date: 2022-01-17
+heading: "Sura 3c "
+weight: 32
 image: "/covers/quran.jpg"
 description: "The Prophet Mohammad describes the differences of his beliefs with those of Jews and Christians"
 ---

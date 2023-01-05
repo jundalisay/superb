@@ -1,7 +1,7 @@
 ---
 title: "The Enwrapped (al-Muzzammil)"
-heading: "Sura 73a of the Quran Simplified"
-date: 2021-05-18
+heading: "Sura 73a "
+weight: 218
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

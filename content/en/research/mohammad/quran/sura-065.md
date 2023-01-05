@@ -1,7 +1,7 @@
 ---
 title: "Divorce (at-Talaq)"
-heading: "Sura 65a of the Quran Simplified"
-date: 2021-06-08
+heading: "Sura 65a "
+weight: 202
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

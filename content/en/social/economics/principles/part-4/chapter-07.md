@@ -64,7 +64,7 @@ Type | Demand The needs and wants of the people | Capital Available potential ef
 --- | --- | --- | --- | ---
 Quantitative G Economic Growth V Economic Value | P Population Size Y Youth or Age F Female-Male Ratio | J Employment L Education  Ii Incoming Investments Xi Outgoing investments | G Real GDP in Dollar or Grain Value O Grain Value Initiated By Government S Grain Value Initiated By Services A Grain Value Initiated By Agriculture M Grain Value Initiated By Manufacturing | G as Nominal GDP Growth R Rate Of Interest N Inflation D Debt It Imports Xt Exports 
 Qualitative | GP, VP, GF, VF, GY, VY | GJ, VJ, GL, VL, VIi, VXi | GO, VO, GS, VS, GA, VA, GM, VM | GR, GN, GD, GIt, GXt, VIt, VXt
-Pantrynomic Indicators | G Change in Grain Value P Number of Users Y Average Age of Users F Average Female-Male Ratio | G Change In Grain Value J Users Without Job Contracts For X Months L Users Without Learning or Training Contracts For Y Years | O grain value of govt contracts S grain value of service contracts A grain value of agri contracts M grain value of product contracts | R Interest Rate of Clearing Funds or Resource banks N Grain Index Inflation D Debt via Resource banking It value of imports via Pool Xt value of exports via Pool*
+Supereconomic Indicators | G Change in Grain Value P Number of Users Y Average Age of Users F Average Female-Male Ratio | G Change In Grain Value J Users Without Job Contracts For X Months L Users Without Learning or Training Contracts For Y Years | O grain value of govt contracts S grain value of service contracts A grain value of agri contracts M grain value of product contracts | R Interest Rate of Clearing Funds or Resource banks N Grain Index Inflation D Debt via Resource banking It value of imports via Pool Xt value of exports via Pool*
 Industry | Strong Layer | Real Price via the Economic Table | Economic balance or stasis that is lacking in Capitalism 
 
 
@@ -107,7 +107,7 @@ These give us ratios that describe the socio-economic nature of the society in q
 You can think of DCTI as a bunch of detectors that help give a complete picture of the soul of society:
 
 
-Factor | Physics equivalent | Pantrynomic system | Remarks
+Factor | Physics equivalent | Supereconomic system | Remarks
 --- | --- | --- | ---
 Demand | Higgs Field | [First Law of Value](/social/economics/principles/part-1/chapter-01/): Basic Universal Revenue and the Grain Index as store of value | Basis of economic justice which is lacking in both Capitalism and Communism
 Capital | Gravitation | [Second Law of Value](/social/economics/principles/part-2/chapter-01/): Effort Theory of Value ISAIAH Match Leads to economic democracy and maximized non-commercial potential | We gravitate towards certain interests based on our dharma

@@ -1,7 +1,7 @@
 ---
 title: "The Elephant, Quraysh, Assistance, Plenty, Disbelievers"
-heading: "Sura 105-109 of the Quran Simplified"
-date: 2021-04-17
+heading: "Sura 105-109 "
+weight: 256
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

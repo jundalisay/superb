@@ -1,7 +1,7 @@
 ---
 title: "Abraham (Ibrahim)"
-heading: "Sura 14a of the Quran Simplified"
-date: 2021-12-01
+heading: "Sura 14a "
+weight: 92
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
@@ -18,46 +18,36 @@ lievers from a severe torment.{{< s v="3" >}}  Those who prefer the present life
 Hereafter, and repel from the path of Allah,
 and seek to make it crooked—these are far
 astray. -->
-{{< s v="4" >}}  We never sent any messenger except in the language of his people, to make things clear
+{{< s v="4" >}} We never sent any messenger except in the language of his people, to make things clear
 for them. <!-- Allah leads astray whom He wills, and guides whom He wills. He is the Mighty,
 the Wise. -->
 
-{{< s v="5" >}}  We sent Moses with Our signs: “Bring your people out of darkness into light, and remind
-them of the Days of Allah.” In that are signs for every patient and thankful person.”
+{{< s v="5" >}}  We sent Moses with Our signs: “Bring your people out of darkness into light, and remind them of the Days of Allah.” In that are signs for every patient and thankful person.”
 
 
-6. Moses said to his people, “Remember Allah’s blessings upon you, as He delivered you from the people of Pharaoh, who inflicted on you terrible suffering, slaughtering your sons while sparing your daughters. In that was a serious trial from your Lord.”
+{{< s v="6" >}} Moses said to his people, “Remember Allah’s blessings upon you, as He delivered you from the people of Pharaoh, who inflicted on you terrible suffering, slaughtering your sons while sparing your daughters. In that was a serious trial from your Lord.”
 
-7. And when your Lord proclaimed: “If you give thanks, I will grant you increase; but if
-you are ungrateful, My punishment is severe.”
+{{< s v="7" >}} When your Lord proclaimed: “If you give thanks, I will grant you increase; but if you are ungrateful, My punishment is severe.”
 
-8. And Moses said, “Even if you are ungrateful, together with everyone on earth—Allah is in no need, Worthy of Praise.”{{< s v="9" >}}  Has not the story reached you, of those before you, the people of Noah, and Aad, and
-Thamood—and those after them? None knows them except Allah. 
+{{< s v="8" >}} Moses said, “Even if you are ungrateful, together with everyone on earth—Allah is in no need, Worthy of Praise.”{{< s v="9" >}}  Has not the story reached you, of those before you, the people of Noah, and Aad, and Thamood—and those after them? None knows them except Allah. 
 
-Their messengers came to them with the clear proofs, but they
-tried to silence them, and said, “We reject what you are sent with, and we are in serious
-doubt regarding what you are calling us to.”
+Their messengers came to them with the clear proofs, but they tried to silence them, and said, “We reject what you are sent with, and we are in serious doubt regarding what you are calling us to.”
 
 {{< s v="10" >}}  Their messengers said, “Is there any doubt about Allah, Maker of the heavens and the earth? He calls you to forgive you your sins, and to defer you until a stated term.” 
 
-They said, “You are only humans like us; you want to turn us away from what our ancestors wor-
-shiped; so bring us a clear proof.”
+They said: “You are only humans like us; you want to turn us away from what our ancestors worshiped; so bring us a clear proof.”
 
 {{< s v="11" >}}  Their messengers said to them, “We are only humans like you, but Allah favors whomever He wills from among His servants.
 
 We cannot possibly show you any proof, except by leave of Allah. In Allah let the faithful put their trust.”
 
-12. “And why should we not trust in Allah, when He has guided us in our ways? We will
-persevere in the face of your persecution.
+{{< s v="12" >}} “Why should we not trust in Allah, when He has guided us in our ways? We willpersevere in the face of your persecution.
 
 And upon Allah the reliant should rely.”
 
-13. Those who disbelieved said to their messengers, “We will expel you from our land,
-unless you return to our religion.” And their Lord inspired them: “We will destroy the
-wrongdoers.”
+{{< s v="13" >}} Those who disbelieved said to their messengers, “We will expel you from our land, unless you return to our religion.” And their Lord inspired them: “We will destroy the wrongdoers.”
 
-14. “And We will settle you in the land after
-them. That is for him who fears My Majesty, and fears My threats.”
+{{< s v="14" >}} "We will settle you in the land after them. That is for him who fears My Majesty, and fears My threats.”
 
 15. And they prayed for victory, and every stubborn tyrant came to disappointment.
 

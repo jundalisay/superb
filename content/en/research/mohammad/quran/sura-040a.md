@@ -1,7 +1,7 @@
 ---
 title: "FORGIVER (Ghafir)"
-heading: "Sura 40 of the Quran Simplified"
-date: 2021-08-12
+heading: "Sura 40 "
+weight: 156
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

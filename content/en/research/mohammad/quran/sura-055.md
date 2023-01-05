@@ -1,7 +1,7 @@
 ---
 title: "The Compassionate (ar-Rahman)"
-heading: "Sura 55a of the Quran Simplified"
-date: 2021-06-30
+heading: "Sura 55a "
+weight: 186
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

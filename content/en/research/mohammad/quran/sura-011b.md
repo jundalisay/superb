@@ -1,7 +1,7 @@
 ---
-heading: "Sura 11b of the Quran Simplified"
+heading: "Sura 11b "
 title: "Shuaib's Dialogue"
-date: 2021-12-13
+weight: 84
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

@@ -68,12 +68,13 @@ This is why Superphysics will use points and bank gold to replace fiat currency*
 {{< youtube fD9ynFI8bQQ >}}
 
 
-Thus, a Pantrynomic system will have two stores of value:
+Thus, a Supereconomic system will have 2 stores of value:
 
 Kind | Manifestation | Speed | Reach | Remarks
 --- | --- | --- | --- | ---
 Grains | Local Points| Moderate | For local transactions of basic value
 Gold | Bank Gold and gold-backed local currencies | Slow | For foreign investments and circulation of non-basic value (wholesale money)  
+
 
 {{< img src="/graphics/econ/storesvalue.png" alt="Bank Gold, Points" cap="In Superphysics, the two stores of value work together to maintain and grow the economy sustainably" >}}
 

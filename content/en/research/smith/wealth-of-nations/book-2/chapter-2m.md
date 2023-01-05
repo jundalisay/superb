@@ -11,10 +11,10 @@ icon: "/icons/smith.png"
 
 
 
-{{< s v="88" >}} The circulation of every country is divided into two branches:
+{{< s v="88" >}} The circulation of every country is divided into 2 branches:
 
-1. The circulation of the dealers with one another, and
-2. The circulation between the dealers and the consumers.
+1. The circulation of the dealers with one another
+2. The circulation between the dealers and the consumers
 
 Each circulation requires a certain stock of money.
 
@@ -80,6 +80,7 @@ This happened in Scotland and more in North America.
 
 Those metals became more abundant in America since the suppression of some of their paper currencies. Gold and silver were more abundant before the institution of those currencies.
 
+
 {{< s v="93" >}} Banks can still give the same assistance to its country's industry and commerce if paper money were confined to the circulation between dealers and dealers, as when paper money filled almost the whole circulation.
 
 The dealer's ready money for answering occasional demands is destined to circulate between himself and the other dealers which he buys goods from.
@@ -99,5 +100,4 @@ Banks can still relieve those dealers from needing to keep ready money unemploye
 But the exertions of the natural liberty of a few individuals which might endanger the security of the whole society, should be restrained by the laws of all governments, of the most free as well as of the most despotical.
 
 The obligation of building firewalls is a violation of natural liberty of the same kind with the banking regulations here proposed.
-
 

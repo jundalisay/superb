@@ -1,7 +1,7 @@
 ---
 title: "Victory at Badr"
-heading: "Sura 3d of the Quran Simplified"
-date: 2022-01-16
+heading: "Sura 3d "
+weight: 34
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Clot (al-’Alaq)"
-heading: "Sura 96 of the Quran Simplified"
-date: 2021-04-20
+heading: "Sura 96 "
+weight: 250
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

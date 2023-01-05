@@ -1,17 +1,13 @@
 ---
 title: "Shuaib the Prophet"
-heading: "Sura 7c of the Quran Simplified"
-date: 2021-12-30
+heading: "Sura 7c "
+weight: 68
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
-linkb: /research/mohammad/quran/
-linkbtext: "Index"
-linkf: /research/mohammad/quran/
-linkftext: "Index"
 ---
 
 
-85-86. We sent to the people of Madyan their brother Shuaib. He said:
+{{< s v="85-86" >}} We sent to the people of Madyan their brother Shuaib. He said:
 
 {{< l a="Shuaib" >}}
 “O my people, worship Allah. Give full measure and weight. Do not:

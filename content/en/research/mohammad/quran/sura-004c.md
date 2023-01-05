@@ -1,7 +1,7 @@
 ---
 title: "Rules on Prayer"
-heading: "Sura 4c of the Quran Simplified"
-date: 2022-01-12
+heading: "Sura 4c"
+weight: 42
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

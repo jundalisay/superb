@@ -1,7 +1,7 @@
 ---
 title: "Jesus Son of Mary"
-heading: "Sura 5d of the Quran Simplified"
-date: 2022-01-05
+heading: "Sura 5d "
+weight: 56
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

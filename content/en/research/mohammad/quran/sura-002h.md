@@ -1,7 +1,7 @@
 ---
 title: "Fight for Allah"
-heading: "Sura 2h of the Quran Simplified"
-date: 2022-01-24
+heading: "Sura 2h "
+weight: 18
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

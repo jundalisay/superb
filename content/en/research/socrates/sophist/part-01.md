@@ -1,6 +1,6 @@
 ---
 title: "The Foreigner"
-heading: "Chapter 1"
+heading: "Part 1"
 weight: 2
 author: Plato
 image: "/covers/sophist.jpg"
@@ -12,13 +12,13 @@ icon: "/icons/soc.png"
 
 <!-- Translated by Benjamin Jowett -->
 
-PERSONS OF THE DIALOGUE: Theodorus, Theaetetus, Socrates. An Eleatic Stranger, whom Theodorus and Theaetetus bring with them. The younger Socrates, who is a silent auditor.
+PERSONS OF THE DIALOGUE: Theodorus, Theaetetus, Socrates. An Eleatic FOREIGNER, whom Theodorus and Theaetetus bring with them. The younger Socrates, who is a silent auditor.
 
 THEODORUS: We bring with us a foreigner from Elea, who is a disciple of Parmenides and Zeno, and a true philosopher.
 
-<!-- SOCRATES: Is he not rather a god, Theodorus, who comes to us in the disguise of a stranger?
+<!-- SOCRATES: Is he not rather a god, Theodorus, who comes to us in the disguise of a FOREIGNER?
 
-Homer says that all the gods, and especially the god of strangers, are companions of the meek and just, and visit the good and evil among men. And may not your companion be one of those higher powers, a cross-examining deity, who has come to spy out our weakness in argument, and to cross-examine us? -->
+Homer says that all the gods, and especially the god of FOREIGNERs, are companions of the meek and just, and visit the good and evil among men. And may not your companion be one of those higher powers, a cross-examining deity, who has come to spy out our weakness in argument, and to cross-examine us? -->
 
 <!-- THEODORUS: Nay, Socrates, he is not one of the disputatious sort—he is too good for that. And, in my opinion, he is not a god at all; but  -->
 
@@ -55,7 +55,7 @@ FOREIGNER: I feel ashamed, Socrates, being a new-comer into your society, instea
 
 For the true answer will certainly be a very long one, a great deal longer than might be expected from such a short and simple question. At the same time, I fear that I may seem rude and ungracious if I refuse your courteous request, especially after what you have said. For I certainly cannot object to your proposal, that Theaetetus should respond, having already conversed with him myself, and being recommended by you to take him.
 
-THEAETETUS: But are you sure, Stranger, that this will be quite so acceptable to the rest of the company as Socrates imagines?
+THEAETETUS: But are you sure, FOREIGNER, that this will be quite so acceptable to the rest of the company as Socrates imagines?
 
 FOREIGNER: You hear them applauding, Theaetetus; after that, there is nothing more to be said. Well then, I am to argue with you, and if you tire of the argument, you may complain of your friends and not of me.
 

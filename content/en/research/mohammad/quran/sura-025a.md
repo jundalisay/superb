@@ -1,7 +1,7 @@
 ---
 title: "The Criterion (al-Furqan)"
-heading: "Sura 25 of the Quran Simplified"
-date: 2021-09-20
+heading: "Sura 25 "
+weight: 128
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Light (an-Nur)"
-heading: "Sura 24 of the Quran Simplified"
-date: 2021-09-25
+heading: "Sura 24 "
+weight: 126
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

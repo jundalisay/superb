@@ -1,7 +1,7 @@
 ---
 title: "The Story of Noah and Moses"
-heading: "Sura 10b of the Quran Simplified"
-date: 2021-12-18
+heading: "Sura 10b "
+weight: 80
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

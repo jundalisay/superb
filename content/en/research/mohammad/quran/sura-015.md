@@ -1,7 +1,7 @@
 ---
 title: "The Rock (al-Hijr)"
-heading: "Sura 15a of the Quran Simplified"
-date: 2021-11-30
+heading: "Sura 15a "
+weight: 94
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

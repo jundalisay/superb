@@ -31,7 +31,7 @@ However, no one seems to have a name for the area on the right side of equilibri
 
 ## The Proper Surpluses Plotted Realistically
 
-To eliminate this unreal area, we will show how these ‘surpluses’ naturally manifest in our pantrynomic supply and demand curves below:
+To eliminate this unreal area, we will show how these ‘surpluses’ naturally manifest in our supereconomic supply and demand curves below:
 
 ![Supply and Demand of Superphysics](/charts/econ/prod.png)
 
@@ -46,7 +46,7 @@ This shows the following:
 
 - A man-made environmental limit* checks overconsumption just as a man-made price ceiling discourages underconsumption. Such a limit might raise prices by preventing economies of scale. But such prices can be later reduced by technological advancement. From this view, <b>we can say that an environmental limit is a win-win: it preserves nature, while advancing technology</b>.
 
-> *Update Sept 2021: The man-made environmental limit is one of the key features of Pantrynomic systems that sets it apart from economic systems. The latter does not put a check on profits, consumption and the subsequent exploitation. This makes the people lazy in finding solutions to scarcity. They keep on pushing for growth and will only look for solutions when the karma of their activities are in their face as global warming disasters such as supertyphoons, droughts, floods, and zoonotic viruses like Covid. In contrast, Superphysics pre-empts those problems by constraining profits and exploitation artificially beforehand. This forces minds to think of solutions and technologies to improve life despite those limits. 
+> *Update Sept 2021: The man-made environmental limit is one of the key features of Supereconomic systems that sets it apart from economic systems. The latter does not put a check on profits, consumption and the subsequent exploitation. This makes the people lazy in finding solutions to scarcity. They keep on pushing for growth and will only look for solutions when the karma of their activities are in their face as global warming disasters such as supertyphoons, droughts, floods, and zoonotic viruses like Covid. In contrast, Superphysics pre-empts those problems by constraining profits and exploitation artificially beforehand. This forces minds to think of solutions and technologies to improve life despite those limits. 
 
 
 From this new curve, we can get more realistic information:
@@ -73,13 +73,13 @@ Consumption is the sole end and purpose of all production.. the interest of the 
 
 However, oversupply hurts the environment in the long run, and so we also see excessive consumer surplus and consumerism as bad. Therefore, while the goal of both Superphysics and Economics is balance, Superphysics ensures that supplies are delivered to everyone as they are needed, and not in excess, since it factors in the environment in its models through environmental limits* (unlike Economics). This real-time delivery and regulation system is then implemented by [ISAIAH](/superphysics/solutions/isaiah), which is our implementation of Socrates’ Guardians.
 
-> ![Poor Orangutan on a tree](https://sorasystem.sirv.com/photos/orang.jpg) *Plants and animals are also users of natural resources and so their natural habitat must be generally off limits to humans to preserve their lifestyle, just as we do not allow lions and tigers into our habitat. (Update March 2020: [The destruction of natural habitats unleashes viruses](https://www.scientificamerican.com/article/destroyed-habitat-creates-the-perfect-conditions-for-coronavirus-to-emerge/) that destroy humans, so this Pantrynomic policy would help ensure the existence of the human species, something that is beyond the scope of Economics)
+> ![Poor Orangutan on a tree](https://sorasystem.sirv.com/photos/orang.jpg) *Plants and animals are also users of natural resources and so their natural habitat must be generally off limits to humans to preserve their lifestyle, just as we do not allow lions and tigers into our habitat. (Update March 2020: [The destruction of natural habitats unleashes viruses](https://www.scientificamerican.com/article/destroyed-habitat-creates-the-perfect-conditions-for-coronavirus-to-emerge/) that destroy humans, so this Supereconomic policy would help ensure the existence of the human species, something that is beyond the scope of Economics)
 
 
 
 ## The Same Curves Applied to the ‘Family-society’
 
-From the economic definitions of surpluses, we can create their Pantrynomic equivalents, using our effort theory of value, so that they can be applied to families, organizations, etc (ours is a socio-economic system, with more features than an economic system such as Capitalism and Communism):
+From the economic definitions of surpluses, we can create their Supereconomic equivalents, using our effort theory of value, so that they can be applied to families, organizations, etc (ours is a socio-economic system, with more features than an economic system such as Capitalism and Communism):
 
 - Producer’s surplus — a state where the producer gets more gain. Examples are families where parents neglect their children, or a company where the employer gets way more benefit than the employees.
 

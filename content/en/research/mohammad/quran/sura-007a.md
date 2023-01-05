@@ -1,13 +1,9 @@
 ---
 title: "Purgatory (al-A’raf)"
-heading: "Sura 7a of the Quran Simplified"
-date: 2022-01-01
+heading: "Sura 7a "
+weight: 64
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
-linkb: /research/mohammad/quran/sura-006c
-linkbtext: "Sura 6c"
-linkf: /research/mohammad/quran/sura-007b
-linkftext: "Sura 7b"
 ---
 
 

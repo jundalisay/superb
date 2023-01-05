@@ -1,7 +1,7 @@
 ---
 title: "Rules on Intoxicants, Menstruation, and Sex"
-heading: "Sura 2e of the Quran Simplified"
-date: 2022-01-23
+heading: "Sura 2e "
+weight: 20
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---
@@ -13,24 +13,25 @@ Do not follow the footsteps of Satan.
 
 {{< s v="209" >}} But if you slip after the proofs have come to you, know that Allah is Powerful and Wise.
 
-210. Are they waiting for Allah Himself to come to them in the shadows of the clouds, together with the angels, and thus the matter is settled? 
+{{< s v="210" >}} Are they waiting for Allah Himself to come to them in the shadows of the clouds, together with the angels, and thus the matter is settled? 
 
-211. Ask the Jews how many clear signs We have given them. Whoever alters the blessing of Allah after it has come to
+{{< s v="211" >}} Ask the Jews how many clear signs We have given them. Whoever alters the blessing of Allah after it has come to
 him—Allah is severe in retribution.
 
-212. Beautified is the life of this world for those who disbelieve, and they ridicule those who believe. But the righteous will be above them on the Day of Resurrection. Allah provides to whomever He wills without measure.
+{{< s v="212" >}} Beautified is the life of this world for those who disbelieve, and they ridicule those who believe. But the righteous will be above them on the Day of Resurrection. Allah provides to whomever He wills without measure.
 
-213. Humanity used to be one community. 
+{{< s v="213" >}} Humanity used to be one community. 
 - Then Allah sent the prophets, the Scripture and the truth, bringing good news and giving warnings to judge between people regarding their differences. 
 
 But none differed over it except those who were given it—after the proofs had come to them—out of mutual envy between them. 
 
 Then Allah guided those who believed to the truth they had disputed, in accordance with His will. Allah guides whom He wills to a straight path.
 
-214. Or do you expect to enter Paradise before the example of those who came before you had reached you? Adversity and hardship
+
+{{< s v="214" >}} Or do you expect to enter Paradise before the example of those who came before you had reached you? Adversity and hardship
 had afflicted them, and they were so shaken up, that the Messenger and those who believed with him said, “When is Allah’s victory?” Indeed, Allah’s victory is near.
 
-215. They ask you what they should give. Say, “Whatever charity you give is for the parents, and the relatives, and the orphans, and the
+{{< s v="215" >}} They ask you what they should give. Say, “Whatever charity you give is for the parents, and the relatives, and the orphans, and the
 poor, and the wayfarer. Whatever good you do, Allah is aware of it.
 
 {{< s v="216" >}} Fighting is ordained for you, even though you dislike it. 

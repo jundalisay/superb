@@ -63,11 +63,11 @@ This metaphysical starting point is called the idea of the self. The path taken 
 But the word 'enlightened' is also unclear. Is stealing $1 more enlightened than stealing $1,000? Is destroying a forest to build houses for the poor less enlightened than preserving it to reduce CO2 and global warming?
 
 
-{{< img src="https://sorasystem.sirv.com/graphics/mat2.png" alt="Pantrynomic network of needs" cap="Our pantrynomic network of needs starts with the metaphysical center that branches out into physical needs. The core of this metaphysical center is The Tao or svadharma of that discrete entity. You can think of this as Maslow's hierarchy pyramid viewed from the top" >}}
+{{< img src="https://sorasystem.sirv.com/graphics/mat2.png" alt="Supereconomic network of needs" cap="Our Supereconomic network of needs starts with the metaphysical center that branches out into physical needs. The core of this metaphysical center is The Tao or svadharma of that discrete entity. You can think of this as Maslow's hierarchy pyramid viewed from the top" >}}
 
 
 
-{{< img src="https://sorasystem.sirv.com/graphics/mat3.png" alt="Pantrynomic hierarchy of needs" cap="Our pantrynomic hierarchy of needs goes down or outwards onto the material areas and onto the Tao of other people or entities. In this way, pantrynomic systems are harmonious, scalable, and non-conflicting" >}}
+{{< img src="https://sorasystem.sirv.com/graphics/mat3.png" alt="Supereconomic hierarchy of needs" cap="Our Supereconomic hierarchy of needs goes down or outwards onto the material areas and onto the Tao of other people or entities. In this way, supereconomic systems are harmonious, scalable, and non-conflicting" >}}
 
 To get rid of this ambiguity, we change the word 'interest' into 'purpose' in order to focus on the end goal. If the end is agreeable, then the means must be agreeable too (Hume, Book 3). Thus, a banker's purpose in life is to do banking. But it wouldn't be so easy to say that a bank robber's life-purpose is to rob banks since everyone feels that robbing is wrong and therefore cannot be a life goal. Who would ever honestly say that his soul exists on Earth to rob banks? Stealing might be a life goal of other animal species, but it would result in a them having a totally different hierarchy of needs.
 
@@ -109,7 +109,7 @@ Eastern philosophy tells us that dharma is the proper way out of this trap calle
 
 By following one's path and purpose in life, then humans can better understand how their dualistic world works. So, by replacing utility with self-purpose, Superphysics not only can help people generate and distribute value among each other, but also increase their chances of understanding the reason for their existence so that they can exist in harmony with everything else that exists. 
 
-A key characteristic of a pantrynomic implementation or a *pantrynomy* therefore is that it gives lower stress in exchange and acquisition of goods or services than that in economic, capitalist, or communist systems.
+A key characteristic of a supereconomic implementation or a *supereconomy* therefore is that it gives lower stress in exchange and acquisition of goods or services than that in economic, capitalist, or communist systems.
 
 The Principles of Superphysics* makes its way into the other sciences
 The use of the Tao as the center of the sciences makes it useful in solving the problems in those sciences. 

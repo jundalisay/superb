@@ -1,7 +1,7 @@
 ---
 title: "Sovereignty (al-Mulk)"
-heading: "Sura 67a of the Quran Simplified"
-date: 2021-06-03
+heading: "Sura 67a"
+weight: 206
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

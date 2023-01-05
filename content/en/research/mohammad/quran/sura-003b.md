@@ -1,7 +1,7 @@
 ---
 title: "Mary and Zachariah"
-heading: "Sura 3b of the Quran Simplified"
-date: 2022-01-18
+heading: "Sura 3b "
+weight: 30
 image: "/covers/quran.jpg"
 description: "The Prophet Mohammad tries to connect the historical Imran family to his Islam."
 ---

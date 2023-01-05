@@ -1,7 +1,7 @@
 ---
 title: "The Aligners (as-Saffat)"
-heading: "Sura 37 of the Quran Simplified"
-date: 2021-08-20
+heading: "Sura 37 "
+weight: 150
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

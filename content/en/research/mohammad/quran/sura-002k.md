@@ -1,7 +1,7 @@
 ---
 title: "David and Goliath"
-heading: "Sura 2k of the Quran Simplified"
-date: 2022-01-21
+heading: "Sura 2k "
+weight: 24
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

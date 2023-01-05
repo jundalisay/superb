@@ -1,7 +1,7 @@
 ---
 title: "The Confederates (al-Ahzab)"
-heading: "Sura 33 of the Quran Simplified"
-date: 2021-08-28
+heading: "Sura 33 "
+weight: 142
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

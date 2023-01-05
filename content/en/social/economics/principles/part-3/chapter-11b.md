@@ -187,7 +187,7 @@ Nowadays, almost anyone can own stocks and some people, like pensioners and insu
 {{< img alt="Stock price ticker" cap="Stocks and stock prices are inseparable from modern capitalism just as commodities and commodity prices were inseparable from mercantilism" src="https://socioecons.files.wordpress.com/2015/07/fm50.jpg" >}}
 
 
-## The Basic Pantrynomic Definition of Capitalism
+## The Basic Supereconomic Definition of Capitalism
 
 With these ideas of centralization, private gain, and the ownership of other people's work, we can thus define capitalism in simple terms as **an economic system that uses outside ownership to amass private profits**.
 

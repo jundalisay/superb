@@ -1,7 +1,7 @@
 ---
-heading: "Sura 6c of the Quran Simplified"
+heading: "Sura 6c "
 title: "Details of the Rules on Food"
-date: 2022-01-02
+weight: 62
 image: "/covers/quran.jpg"
 description: "O People of the Book! Our Messenger has come to you, clarifying for you much of what you kept hidden of the Book, and overlooking much. A light from Allah has come to you, and a clear Book."
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Kneeling (al-Jathiyah)"
-heading: "Sura 45 of the Quran Simplified"
-date: 2021-07-25
+heading: "Sura 45 "
+weight: 166
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

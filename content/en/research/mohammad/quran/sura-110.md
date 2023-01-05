@@ -1,7 +1,7 @@
 ---
 title: "Victory, Thorns, Monotheism, Daybreak, Mankind"
-heading: "Sura 110-113 of the Quran Simplified"
-date: 2021-04-16
+heading: "Sura 110-113 "
+weight: 258
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

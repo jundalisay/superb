@@ -1,7 +1,7 @@
 ---
 title: "Abraham's Submission to the Lord"
-heading: "Sura 2d of the Quran Simplified"
-date: 2022-01-27
+heading: "Sura 2d "
+weight: 12
 image: "/covers/quran.jpg"
 description: "Allah talks to Abraham."
 ---

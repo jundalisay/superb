@@ -1,7 +1,7 @@
 ---
 title: "History (al-Qasas)"
-heading: "Sura 28 of the Quran Simplified"
-date: 2021-09-10
+heading: "Sura 28 "
+weight: 132
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

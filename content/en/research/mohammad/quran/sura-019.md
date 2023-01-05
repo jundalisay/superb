@@ -1,7 +1,7 @@
 ---
 title: "Mary (Maryam)"
-heading: "Sura 19 of the Quran Simplified"
-date: 2021-11-01
+heading: "Sura 19 "
+weight: 108
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

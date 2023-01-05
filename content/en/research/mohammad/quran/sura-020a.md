@@ -1,7 +1,7 @@
 ---
 title: "Moses (Ta-Ha)"
-heading: "Sura 20a of the Quran Simplified"
-date: 2021-10-25
+heading: "Sura 20a "
+weight: 112
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

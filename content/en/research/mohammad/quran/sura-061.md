@@ -1,7 +1,7 @@
 ---
 title: "Column (as-Saff)"
-heading: "Sura 61a of the Quran Simplified"
-date: 2021-06-13
+heading: "Sura 61a "
+weight: 198
 image: "/covers/quran.jpg"
 description: "This is the Book in which there is no doubt, a guide for the righteous."
 ---

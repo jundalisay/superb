@@ -16,7 +16,7 @@ aliases:
 [The actual supply prices of Covid vaccines](/social/economics/fallacies/inelastic-supply-curve) are consistent with our assertions here that the supply curve cannot be naturally vertical, and is the final proof of the sophistry of the equilibrium theory of Economics
 {{< /me >}}
 
-Adam Smith’s Supply and Demand Curves (below) are the foundation our proposed science called pantrynomics which is based on Classical Economics. It can be applied to any problem in economics in order to provide common sense answers.
+Adam Smith’s Supply and Demand Curves (below) are the foundation our proposed science called Supereconomics which is based on Classical Economics. It can be applied to any problem in economics in order to provide common sense answers.
 
 ![Supply and Demand Correct](https://sorasystem.sirv.com/charts/demsup/right.png)
 
@@ -74,7 +74,7 @@ More realistically, the event called specifically for that kind of mug, which le
 
 It was a new kind of mug based on a limited material. It was first sold at an introductory price to test the market. Once demand was established, the competition* among mug-makers for the limited material raised the cost, without increasing the number of such mugs in society. This increased cost then increased its natural price. Unlike the economist's answer, the price of the mugs in this case cannot be raised to infinite heights. The pantrynomist's answer leads to this. 
 
-> *In Economics, the knowhow to make the special mugs would be monopolized by a single supplier. In pantrynomics, on the other hand, the basic intellectual property is made available to allow others to make the product and quench all demand as fast as possible. 
+> *In Economics, the knowhow to make the special mugs would be monopolized by a single supplier. In Supereconomics, on the other hand, the basic intellectual property is made available to allow others to make the product and quench all demand as fast as possible. 
 
 
 
