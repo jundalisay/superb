@@ -2,7 +2,7 @@
 title: "Book 1"
 heading: Part 4
 description: "Research on David Hume"
-image: /covers/essays.jpg
+image: /covers/treatise.jpg
 weight: 4
 author: David Hume
 icon: /avatars/hume.png

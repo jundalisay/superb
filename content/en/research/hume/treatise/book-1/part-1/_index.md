@@ -1,6 +1,6 @@
 ---
-title: ""
-heading: Part 3
+title: "Book 1"
+heading: Part 1
 description: "Research on David Hume"
 image: /covers/essays.jpg
 weight: 4
