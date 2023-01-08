@@ -8,10 +8,13 @@ icon: /icons/spmat.png
 ---
 
 
-Physicists and astronomers were surprised that the James Webb Telescope revealed new facts about the universe:
+Physicists and astronomers were surprised that the James Webb Telescope revealed [new facts about the universe](https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf:
 
 1. The universe was spread out more evenly than expected
-2. The youngest galaxies were smaller compared to ours and were more than expected
+2. The oldest galaxies were smaller compared to our younger Milky Way and were more than expected
+
+<!-- surprisingly many galaxies, galaxies that are surprisingly smooth, surprisingly small and surprisingly old. -->
+
 
 ![Galaxy](/photos/physics/galaxy.jpg)
 
@@ -21,7 +24,11 @@ Such a theory would lead to the following assumptions:
 - There should be more galaxies at a certain region of the universe compared to others
 - Old galaxies should be bigger than new ones
 
-Such assumptions were destroyed by the findings of the James Webb Telescope.
+Such assumptions were destroyed by the findings of the James Webb Telescope which could detect red-shift.
+
+
+<!-- The spectra reveal that these primeval galaxies are extremely metal poor, have masses between 107 and a few times 108
+solar masses, and young ages.. These findings demonstrate the rapid emergence of the first generations of galaxies at cosmic dawn. -->
 
 
 ## The Cause of the Error
@@ -45,7 +52,7 @@ A centripetal force draws a body towards a center. Examples are gravity which dr
 Newton ascribes the cause of motion, including gravitational motion, to the mass, or amount of matter, of bodies. This leads him to assert that the universe has a center:
 
 {{< q a="newton" >}}
-<b>Hypothesis 1: The centre of universe is immovable</b>
+<b>Hypothesis 1: The centre of the universe is immovable</b>
 <br>
 The common centre of gravity of the earth, the sun, and all the planets, is the centre of the universe. This is because the sun, and all the planets, mutually gravitate one towards another, and are therefore, according to their powers of gravity, in perpetual agitation. It is plain that their moveable centres can not be taken for the immovable centre of the world.
   
@@ -120,7 +127,7 @@ Superphysics is rooted in the aether, as the highest layer in the 5-layer univer
 {{< img src="/graphics/physics/layercomp.jpg" cap="Superphysics has the aether as the highest layer or element, based on the Hindu Pancabhutas and Taoist Wu-xing framework. Materialist Physics has matter as the highest layer or element, as an effect of fully embracing the illusion created  by Nature" >}}
 
 
-Instead of a material big bang, the universe began as [aethereal ideas of the Supreme Mind](/material/principles/part-1/chapter-02/) (Saguna Brahma). 
+Instead of a material big bang, the universe began as [aethereal ideas of the Supreme Mind](/material/principles/part-1/chapter-02/) (Saguna Brahma).
 
 These ideas flow down (as per Taoism) onto the Spacetime layer as vortices. 
 - Clockwise vortices convert matter and objects into energy and ideas. In cosmology, this manifests as quasars.
@@ -142,7 +149,7 @@ Therefore, **the age of a universe depends on the layer where the perceiving min
 
 - From a species in the spacetime layer, the universe is a few 'days' old. 
 
-- From a species in the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closes to the non-layer which we call 'probabilty'. 
+- From a species in the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closes to the non-layer which we call 'probabilty' and because it is above spacetime, making time irrelevant. 
 
 The layer where the mind is then depends on the strength of [the Negative Force](/superphysics/principles/chapter-05/) 
 
@@ -167,6 +174,8 @@ My work can lay the foundation to discover how this Spirit operates.
 Therefore, Netwon ascribes gravity to matter which is then dominated by an aethereal Spirit. In short form, this makes gravity caused by the aether, made perceivable by matter. This is the same as what Descartes was explaining. 
 
 Both Newton and Descartes ascribe the cause of reality to vibrations of the aether. Superphysics interprets such vibrations as waves and is why Superphysics is technically [a wave-based science](social/economics/principles/intro/chapter-01/), notated by [qualimath](/superphysics/principles/chapter-04b) in order to realize shiny new spacetime and aethereal technologies. 
+
+Newton explained that the vibrational Spirit operates on both gravity and impulses in the brain. This is why Superphysics has Material Superphysics for gravitational vibrations, and Medical Superphysics for 'brain vibrations'. We also have Social Superphysics for social vibrations such as the ones that trigger economic, political, and social actions.
 
 We were able to unite Newton and Descartes because we went outside the box of Western Science and tapped what the Asian Sciences of Hinduism, Taoism, and the Ancient Greek had discovered much earlier.
 
