@@ -104,7 +104,7 @@ more velocity
 <!-- The celestial motions are scarcely retarded by outer space, 
 no resistance of the spaces in which they are performed, to keep up the parity of cases,  -->
 
-Assuming there is no air around the earth= <!-- or at least that it is endowed with little or no power
+Assuming there is no air around the earth: <!-- or at least that it is endowed with little or no power
 of resisting and for the same reason tl a*=  -->
 - the body projected with a less velocity traces the lesser arc VD
 - the body projected with a greater velocity traces the greater arc VE and goes farther and farther to F and G

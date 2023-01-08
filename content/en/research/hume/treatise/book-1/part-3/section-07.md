@@ -1,36 +1,61 @@
-Section 7: The Nature of Idea or Belief
-A Belief is a Strong Idea that Gives Ideas More Force
+---
+title: "The Nature of Idea or Belief"
+heading: Section 7
+description: "The Impressions of the Senses and Memory Simplified"
+image: /covers/treatise.jpg
+weight: 14
+author: David Hume
+icon: /avatars/hume.png
+---
+
+
+
+## A Belief is a Strong Idea that Gives Ideas More Force
+
 The idea of an object is an essential part of the belief of it, but not the whole.
 
 We conceive many things which we do not believe.
+
 Let us consider the following to discover the nature of belief.
+
 A matter of fact is the existence of objects or of their qualities.
 
 All reasonings from causes or effects end in conclusions about a matter of fact.
+
 The idea of existence is not different from the idea of any object.
+
 After we have a simple conception of anything, we do not add nor change our first idea.
+
 When we affirm that God exists, we simply form the idea of such a being as is represented to us.
+
 The existence we give him is not conceived by an idea which we:
-join to the idea of his other qualities, and
-can again separate from them.
+- join to the idea of his other qualities, and
+- can again separate from them.
+
 The conception of any object's existence is not an addition to the simple conception of it.
 
 The belief of the existence joins no new ideas to those which compose the idea of the object.
+
 When I think of God as existing, my idea of him does not increase nor decrease.
+
 There is certainly a great difference between:
-the simple conception of an object's existence, and
-the belief of the object.
+- the simple conception of an object's existence, and
+- the belief of the object.
+
 Since this difference does not lie in the parts of the idea which we conceive, it follows that it must lie in how we conceive it.
+
 Suppose a person asserts to me that:
 
 Caesar died in his bed,
 silver is more fusible, than lead, and
 mercury is heavier than gold.
-Despite my incredulity:
 
-I understand his meaning.
-I form all the ideas he forms.
+Despite my incredulity:
+- I understand his meaning.
+- I form all the ideas he forms.
+
 My imagination is has the same powers as his.
+
 It is impossible for him to:
 conceive any idea which I cannot conceive, nor
 conjoin any idea which I cannot conjoin.
@@ -63,31 +88,40 @@ that conception from which we dissent.
 We may mingle, unite, separate, confound, and vary our ideas in 100 different ways.
 
 But in reality, we have no opinion until there is some principle which fixes one of these different situations.
-This principle:
-does not add to our precedent ideas, and
-can only change the way we conceive them.
-All the mind's perceptions are of two kinds:
 
-Impressions
-Ideas
+This principle:
+- does not add to our precedent ideas, and
+- can only change the way we conceive them.
+
+All the mind's perceptions are of 2 kinds:
+- Impressions
+- Ideas
+
 These differ from each other only in their force and vivacity.
 
 Our ideas:
-are copied from our impressions, and
-represent our impressions in all their parts.
+- are copied from our impressions, and
+- represent our impressions in all their parts.
+
 When you vary the idea of an object, you can only vary its force and vivacity.
 
 If you change it, it represents a different object or impression.
 The case is the same with colours.
-A shade of any colour may acquire a new liveliness or brightness without any other variation.
-But when you produce any other variation, it is no longer the same shade or colour.
-Belief only varies the way we conceive any object.
-Belief can only bestow an additional force and vivacity on our ideas.
-Therefore, an opinion or belief may be most accurately defined as a lively idea associated with a present impression.
-There is a very remarkable error frequently inculcated in the schools, that:
 
-has become an established maxim, and
-is universally received by all logicians.
+A shade of any colour may acquire a new liveliness or brightness without any other variation.
+
+But when you produce any other variation, it is no longer the same shade or colour.
+
+Belief only varies the way we conceive any object.
+
+Belief can only bestow an additional force and vivacity on our ideas.
+
+Therefore, an opinion or belief may be most accurately defined as a lively idea associated with a present impression.
+
+There is a very remarkable error frequently inculcated in the schools, that:
+- has become an established maxim, and
+- is universally received by all logicians.
+
 This error consists in the vulgar division of the acts of the understanding, into conception, judgment and reasoning, and in our definitions of them.
 
 Conception is defined as the simple survey of one or more ideas.
@@ -99,31 +133,38 @@ But these distinctions and definitions are faulty.
 It is not true that we unite two different ideas in our every judgment.
 The idea of God, or any other idea that regards existence, is not a compound idea combined with the idea of existence.
 We can create a proposition which has only one idea.
+
 Therefore, we can reason:
-without using more than two ideas, and
-without needing a third idea to serve as a medium between them.
+- without using more than two ideas, and
+- without needing a third idea to serve as a medium between them.
+
 We infer a cause immediately from its effect.
 
 This inference is:
-a true species of reasoning,
-the strongest of all others, and
-more convincing than when we interpose another idea to connect the two extremes.
+- a true species of reasoning,
+- the strongest of all others, and
+- more convincing than when we interpose another idea to connect the two extremes.
+
 These three acts of the understanding:
-all resolve themselves into the first.
-are just ways of conceiving our objects.
+- all resolve themselves into the first.
+- are just ways of conceiving our objects.
+
 The act of the mind does not exceed a simple conception, whether we:
+- consider an object or several objects,
+- dwell on these objects, or
+- run from them to others in whatever form or order.
 
-consider an object or several objects,
-dwell on these objects, or
-run from them to others in whatever form or order.
 The only remarkable difference occurs when we:
+- join belief to the conception, and
+- are persuaded of the truth of what we conceive.
 
-join belief to the conception, and
-are persuaded of the truth of what we conceive.
 This act of the mind has never been explained by any philosopher, so I am free to propose my hypothesis on it:
 
 Belief is only a strong and steady conception of any idea, approaching to an immediate impression. [Footnote 5]
-Footnote 5
+
+{{< box >}}
+
+### Footnote 5
 
 When we infer the existence of an object from the existence of other objects, some object must always be present to the memory or senses to be the foundation of our reasoning, since the mind cannot run up with its inferences to infinity.
 Reason can never satisfy us that the existence of any one object implies the existence of another.
@@ -133,6 +174,9 @@ It is a way of forming an idea.
 The same idea can only be varied by a variation of its force and vivacity.
 It follows that belief is a lively idea produced by a relation to a present impression, according to the foregoing definition.
 This operation of the mind which forms the belief of any matter of fact has been one of philosophy's greatest mysteries.
+
+{{< /box >}}
+
 
 No one has suspected that it would be difficult to explain.
 I find it difficult to explain it.

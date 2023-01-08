@@ -1,24 +1,40 @@
-Section 8: Causes of Belief
-Beliefs are Strengthened by Impressions
-Having explained that belief consists in a lively idea related to a present impression, let us examine:
+---
+title: "Causes of Belief"
+heading: Section 8
+description: "The Impressions of the Senses and Memory Simplified"
+image: /covers/treatise.jpg
+weight: 16
+author: David Hume
+icon: /avatars/hume.png
+---
 
-its principles, and
-what bestows the vivacity on the idea.
+
+## Beliefs are Strengthened by Impressions
+
+Having explained that belief consists in a lively idea related to a present impression, let us examine:
+- its principles, and
+- what bestows the vivacity on the idea.
+
 I establish it as a general maxim that when any impression becomes present to us, it not only transports the mind to such ideas as are related to it, but likewise communicates to them a share of its force and vivacity.
 
 All the operations of the mind depend greatly on its disposition when it performs them.
+
 The action will always have vigour and vivacity depending on:
-the elevation of the spirits, and
-the level of attention.
+- the elevation of the spirits, and
+- the level of attention.
+
 Therefore, when any object which elevates and enlivens the thought is presented, the mind's actions will be stronger and more vivid, as long as that disposition continues.
 
 The continuance of the disposition depends entirely on the objects the mind is employed in.
+
 Any new object naturally:
-gives a new direction to the spirits, and
-changes the disposition.
+- gives a new direction to the spirits, and
+- changes the disposition.
+
 On the contrary, the disposition has a much longer duration when the mind:
-fixes constantly on the same object, or
-passes easily and insensibly along related objects.
+- fixes constantly on the same object, or
+- passes easily and insensibly along related objects.
+
 Hence, when the mind is once enlivened by a present impression, it forms a more lively idea of the related objects by a natural transition of the disposition from the one to the other.
 
 The change of the objects is so easy.

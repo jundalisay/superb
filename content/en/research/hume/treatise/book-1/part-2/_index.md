@@ -1,8 +1,8 @@
 ---
-title: "Part 2"
+title: "The Ideas of Space and Time"
 heading: Part 2
-description: "Research on David Hume"
-image: /covers/essays.jpg
+description: "The Ideas of Space and Time Simplified"
+image: /covers/treatise.jpg
 weight: 4
 author: David Hume
 icon: /avatars/hume.png

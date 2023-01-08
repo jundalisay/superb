@@ -1429,12 +1429,13 @@ carried hither and thither by various motions among themselves; and the
 common centre of gravity of all (by Cor. IT of the Laws of Motion) will
 in which
 either be quiescent, or move uniformly forward in a right line
-:
+
 whole system will likewise move uniformly forward in right lines.
 But this is an hypothesis hardly to be admitted and, therefore, setting it
 arfide, that common centre will be quiescent= and from it the sun is never
 case the
-;
+
+
 far
 The common
 removed.
@@ -1538,9 +1539,8 @@ And from the actions of the exterior
 planets on the interior, the periodic times of the interior are something
 and their aphelions
 protracted, though scarcely by any sensible quantity
-;
-VI and
-VII, Prop. LXVI)by very slow motions
+
+VI and VII, Prop. LXVI)by very slow motions
 on the like account the periodic times of all, espe
 are transferred (by Cor.
 in conset/ue/ttia. And
@@ -2224,7 +2224,7 @@ this passage.
 even by the
 happens at the third lunar hour in the Canary islands
 for the flood
-;
+
 and
 at all those western coasts that lie towards the Atlantic ocean, as of Ire
 land, France, Spain, and all Africa, to the Cape of Good Hope, except
@@ -2268,7 +2268,7 @@ And it is probable that
 not rise in one place but by falling in another.
 the Pacific sea is agitated by the same laws for in the coasts of Chili and
 Peru the highest flood is said to happen at the third lunar hour. But
-:
+
 with what velocity
 it
 Japan, the Philippine
@@ -2324,14 +2324,18 @@ riot twice,
 in
 only to their greatest, and once only to their least height and their great
 est height, if the moon declined towards the elevated pole, would happen
-;
+
+
+
 at the sixth or thirtieth
 hour after the appulse of the moon to the meridian
 its declination, this flood would be changed
 and when the moon changed
 into an ebb.
-Of all which we have an example in the port of Batsham, in the king
-dom of Tunquin. in the latitude of 20 50 north. In that port, on the
+
+Of all which we have an example in the port of Batsham, in the kingdom of Tunquin. in the latitude of 20 50 north. 
+
+In that port, on the
 day which follows after the passage of the moon over the equator, the
 waters stagnate when the moon declines to the north, they begin to fluw
 ;
@@ -2355,14 +2359,13 @@ There are two inlets from the ocean to this port; one more direct and short
 ;
 between the island
 Hainan and
-the coast of QuanttiHg, a province of
-of
-China ; the other round about between the same island and the coast
+the coast of QuanttiHg, a province of of China ; the other round about between the same island and the coast
 Cochim ; and through the shorter passage the tide is sooner propagated
 Batsham.
+
 to
-In the channels of rivers the influx and reflux depends upon the current
-of the rivers, which obstructs the ingress of the waters from the sea. and
+
+In the channels of rivers the influx and reflux depends upon the current of the rivers, which obstructs the ingress of the waters from the sea. and
 promotes their egress to the sea, making the ingress later and slower, and
 the egress sooner arid faster; and hence it is that the reflux is of longer
 duration that the influx, especially far up the rivers, where the force of the
@@ -5201,9 +5204,9 @@ the motions of the comets from beginning to end.
 The method of fh*
 whole computation
 is this.
-LEMMA
-567
-I.
+
+LEMMA I.
+
 To cut two right lines OR, TP, given in, position, by a third right line
 RP, so as TRP may be a right angle ; and, if another right line SP
 is drawn to any given point S, the solid contained under this line SP
@@ -5431,8 +5434,9 @@ intricate sort of problems, as well by trigonometry as by
 more
 arithmetic, without those perplexed computations and resolutions of affected
 equations which hitherto have been in use.
-LEMMA
-II.
+
+LEMMA II.
+
 cut three right lines given in position by a fourth right line that
 shall pass through a point assigned in any of the three, and so as its
 intercepted parts shall be in a given ratio one to the other.
@@ -5784,6 +5788,7 @@ tities, we may conclude, by the Rule of Three, how far those other
 quantities ought to be varied or corrected, so as the error may become as
 And by means of these corrections we may have the
 small as possible.
+
 trajectory exactly, providing the observations
 was founded were
 trajectory

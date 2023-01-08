@@ -1,53 +1,81 @@
-Section 16: The Reason of Animals
-Animals Have Reason Just as Humans Have Reason
+---
+title: "The Reason of Animals"
+heading: Section 16
+description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
+image: /covers/treatise.jpg
+weight: 32
+author: David Hume
+icon: /avatars/hume.png
+---
+
+
+
+## Animals Have Reason Just as Humans Have Reason
+
 Next to the ridicule of denying an evident truth, is the ridicule of taking much pains to defend it.
 
 The most obvious truth is that beasts are endowed with thought and reason as well as humans.
+
 The arguments in this case are so obvious, that they never escape the most stupid and ignorant.
+
 We are conscious that we are guided by reason and design in adapting means to ends.
 
 We do not ignorantly nor casually perform actions for:
-self-preservation,
-obtaining pleasure, and
-avoiding pain.
-When we see other creatures perform like actions and direct them to the ends, all our principles of reason and probability carry us with an invincible force to believe the existence of a like cause.
-We can illustrate this easily.
-The resemblance between the actions of animals and men is so entire.
-The very first action of the first animal we examine, will afford us an incontestable argument for the present doctrine.
-This doctrine:
+- self-preservation,
+- obtaining pleasure, and
+- avoiding pain.
 
-is as useful as it is obvious, and
-furnishes us with a kind of touchstone, by which we may try every system in this species of philosophy.
+When we see other creatures perform like actions and direct them to the ends, all our principles of reason and probability carry us with an invincible force to believe the existence of a like cause.
+
+We can illustrate this easily.
+
+The resemblance between the actions of animals and men is so entire.
+
+The very first action of the first animal we examine, will afford us an incontestable argument for the present doctrine.
+
+This doctrine:
+- is as useful as it is obvious, and
+- furnishes us with a kind of touchstone, by which we may try every system in this species of philosophy.
+
 It is from the resemblance of the external actions of animals to our external actions, that we judge their internal actions likewise to resemble our internal actions.
 
 The same principle of reasoning will make us conclude that since our internal actions resemble each other, their causes must also be resembling.
+
 Therefore, when any hypothesis is advanced to explain a mental operation common to men and beasts, we must apply the same hypothesis to both.
+
 Every true hypothesis will obey this trial.
+
 No false hypothesis will ever be able to survive this trial.
+
 Philosophers have used systems to account for the mind's actions.
 
 Their common defect is that they suppose such a subtlety and refinement of thought that exceeds the capacity of animals and even of children and common humans.
+
 Animals, children, and common people have the same emotions and affections as the most accomplishd geniuses.
+
 Such a subtlety is a proof of any system's falsehood, just as simplicity is its proof of truth.
+
 Let us test our system on the nature of the understanding.
 
 Let us see whether it will equally account for the reasonings of animals and humans.
+
 We distinguish between:
-the actions of animals which:
-are of a vulgar nature, and
-are on a level with their common capacities, and
-the more extraordinary instances of sagacity which they sometimes discover for:
-their own preservation, and
-the propagation of their species.
+- the actions of animals which:
+  - are of a vulgar nature, and
+  - are on a level with their common capacities, and
+  - the more extraordinary instances of sagacity which they sometimes discover for:
+- their own preservation, and
+- the propagation of their species.
+
 1. The first example is a dog that:
+- avoids fire and precipices,
+- shuns strangers, and
+- caresses his master.
 
-avoids fire and precipices,
-shuns strangers, and
-caresses his master.
 2. A second example is a bird that:
+- carefully chooses the place and materials of her nest, and
+- sits on her eggs for a due time and in suitable season, with all the precaution that a chemist has.
 
-carefully chooses the place and materials of her nest, and
-sits on her eggs for a due time and in suitable season, with all the precaution that a chemist has.
 I assert that those actions come from a reasoning that is not different, nor founded on different principles, from human reasoning.
 
 There must be some impression immediately present to their memory or senses to be the foundation of their judgment.

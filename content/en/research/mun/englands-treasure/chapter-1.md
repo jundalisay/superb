@@ -1,7 +1,3 @@
-
-
-
-
 +++
 title=  "The Qualities which are required in a perfect Foreign Trade Merchant"
 heading=  "Chapter 1"

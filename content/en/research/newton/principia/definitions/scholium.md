@@ -1,13 +1,13 @@
-+++
-title= "Scholium"
-image= "/covers/principia.jpg"
-description= "Newton explains time, space, location, and motion"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+title: "Scholium"
+weight: 4
+image: /covers/principia.jpg
+description: "Newton classifies time, space, place, and motion as absolute and relative, true and apparent, mathematical and common"
+author: Isaac Newton
+icon: /icons/newton.png
+---
+
+
 
 I classify time, space, place, and motion as:
 - absolute and relative
@@ -21,6 +21,7 @@ Absolute, true, and mathematical time flow equably without regard to anything ex
 
 Relative, apparent, and common time, is a sensible and external measure of duration by the means of motion, which is commonly used. Examples are= an hour, a day, a month, a year.
 
+
 ## 2. Space
 
 Absolute space has no regard to anything external. It remains always similar and immovable. 
@@ -30,6 +31,7 @@ Relative space is some movable dimension or measure of the absolute spaces which
 Absolute and relative space are the same in figure and magnitude. But they do not remain always numerically the same. 
 
 For example, if the earth's atmosphere-space is increased vertically then the relative atmosphere-space will increase, but the absolute space will be the same. 
+
 
 ## 3. Place 
 

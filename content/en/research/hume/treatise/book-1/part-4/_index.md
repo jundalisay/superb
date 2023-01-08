@@ -1,9 +1,9 @@
 ---
-title: ""
-heading: Part 3
-description: "Research on David Hume"
-image: /covers/essays.jpg
-weight: 4
+title: "The Skeptical and Other Systems of Philosophy"
+heading: Part 4
+description: "The Skeptical and Other Systems of Philosophy Simplified"
+image: /covers/treatise.jpg
+weight: 8
 author: David Hume
 icon: /avatars/hume.png
 ---

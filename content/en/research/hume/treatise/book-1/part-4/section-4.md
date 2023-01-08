@@ -1,15 +1,13 @@
-+++
-title       = "The Philosophy of Descartes -- Imagination"
-description = "The fundamental principle of Descartes' philosophy is its opinion that colours, sounds, tastes, smells, and temperature are nothing but impressions in the mind"
-date        = "2020-06-16"
-image = "/covers/treatise.jpg"
-author      = "David Hume"
-linkTitle   = "The Philosophy of Descartes"
-linkb = "/research/hume/treatise/book-1/part-4/section-3"
-linkbtext = "Section 3"
-linkf = "/research/hume/treatise/book-1/part-4/section-4b"
-linkftext = "Section 4b"
-+++
+---
+title: "The Philosophy of Descartes -- Imagination"
+heading: Section 4
+description: "The fundamental principle of Descartes' philosophy is its opinion that colours, sounds, tastes, smells, and temperature are nothing but impressions in the mind"
+image: /covers/treatise.jpg
+weight: 8
+author: David Hume
+icon: /avatars/hume.png
+---
+
 
 
 ## Descartes has an Irregular Imagination
@@ -44,7 +42,7 @@ The following are like the spectres in the dark=
 - their fictions of substance and accident, and
 - their reasonings on substantial forms and occult qualities.
 
-> *Translator's note=  Here, Hume is targetting Aristotle, as seen in Section 3 
+> *Superphysics note: Here, Hume is targetting Aristotle, as seen in Section 3 
 
 
 They are derived from common principles in human nature which are not universal and are avoidable.

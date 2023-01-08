@@ -1,9 +1,20 @@
-Section 14: Cause and Effect Need to be Tied to Each Other
-The Efficacy of Causes Creates a Needed and Consequential Connection from Its Effects
-I have explained how we:
+---
+title: "Cause and Effect Need to be Tied to Each Other"
+heading: Section 14
+description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
+image: /covers/treatise.jpg
+weight: 28
+author: David Hume
+icon: /avatars/hume.png
+---
 
-reason beyond our immediate impressions, and
-conclude that such causes must have such effects
+
+## The Efficacy of Causes Creates a Needed and Consequential Connection from Its Effects
+
+I have explained how we:
+- reason beyond our immediate impressions, and
+- conclude that such causes must have such effects
+
 Why do cause and effect need to be connected to each other? (Section 2)
 
 All our ideas are derived from impressions.
@@ -11,11 +22,15 @@ We must find some impression that creates this need.
 To do this, I consider where the need arises.
 It is always ascribed to causes and effects.
 I look at two objects, one is the cause and the other, the effect.
+
 I examine them in all situations and immediately perceive that:
-they are contiguous in time and place, and
-the object that we call 'cause' precedes the object we call 'effect'.
+- they are contiguous in time and place, and
+- the object that we call 'cause' precedes the object we call 'effect'.
+
 I cannot go any further.
+
 It is impossible for me to discover any third relation between these objects.
+
 I enlarge my view to comprehend instances where I find similar objects always existing successively and contiguously.
 
 Thinking about these several instances only repeats the same idea of cause and effect.

@@ -1,5 +1,17 @@
-Section 12: The Probability of Causes
-There are Three Origins of Chances: Experience, Contrariety, Analogy
+---
+title: "The Probability of Causes"
+heading: Section 12
+description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
+image: /covers/treatise.jpg
+weight: 24
+author: David Hume
+icon: /avatars/hume.png
+---
+
+
+
+## There are 3 Origins of Chances: Experience, Contrariety, Analogy
+
 My explanation of the probability of chances is only for explaining the probability of causes.
 
 Philosophers say that what the vulgar call 'chance' is just a secret and concealed cause.
@@ -7,19 +19,29 @@ Therefore, we must examine the probability of causes.
 There are several kinds of the probabilities of causes, all derived from the same origin: the association of ideas to a present impression.
 
 The habit produces the association and arises from the frequent conjunction of objects.
+
 The habit must:
-arrive at its perfection by degrees, and
-acquire new force from each instance that we experience.
+- arrive at its perfection by degrees, and
+- acquire new force from each instance that we experience.
+
 The first instance has little or no force.
+
 The second makes some force added to it.
+
 The third becomes still more sensible.
+
 Our judgment arrives at a full assurance by these slow steps.
+
 But before it attains this perfection, it passes through several inferior degrees.
+
 In all of them, it is only a presumption or probability.
+
 Therefore, the gradation from probabilities to proofs is insensible in many cases.
 
 The difference between these kinds of evidence is more easily perceived in the remote differences than in those near and contiguous.
-Imperfect Experience as a Kind of Probability and an Origin of Chance
+
+## Imperfect Experience as a Kind of Probability and an Origin of Chance
+
 1. Our first experience of anything happens before any proof can exist.
 
 However, no mature person refers to his first experiences of anything all the time.

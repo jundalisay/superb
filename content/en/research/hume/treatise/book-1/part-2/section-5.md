@@ -1,14 +1,29 @@
-Section 5: More Objections
-The Idea of Space is Just Made Up of Points
+---
+heading: "Section 5"
+title: "More Objections"
+weight: 10
+image: /covers/treatise.jpg
+description: "The Idea of Space is Just Made Up of Points"
+author: David Hume
+icon: /icons/hume.png
+---
+
+
+
+## The Idea of Space is Just Made Up of Points
+
 The second part of my system is that the idea of space is just the idea of visible or tangible points distributed in a certain order.
 
 If this is true, it follows that we cannot form an idea of a vacuum or space where there is nothing visible or tangible.
+
 This creates three objections which I shall examine together because the answer for one is related to the answers for the others.
+
 1. For many ages, men have disputed a vacuum and a plenum [ a space filled with matter], inconclusively.
 
 Philosophers think themselves free to take part on either side.
 But the very dispute is decisive on the idea.
 It is impossible men could so long reason about a vacuum and refute or defend it, without knowing what they refuted or defended.
+
 2. The reality or possibility of the idea of a vacuum is proven by the following reasoning.
 
 Every idea is possible.

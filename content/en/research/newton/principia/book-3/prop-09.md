@@ -10,6 +10,8 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
+
+
 ### Proposition 9 Theorem 9
 
 Gravity, as a downward pull of a planet, decreases nearly in the proportion of the distances from their centres. 
@@ -141,7 +143,7 @@ planets and comets meeting no sensible resistance in those spaces will con
 tinue their motions through them for an immense tract of time.
 
 
-## Hypothesis 1= The centre of universe is immovable
+## Hypothesis 1: The centre of universe is immovable
 
 <!-- while some contend that the
 all,

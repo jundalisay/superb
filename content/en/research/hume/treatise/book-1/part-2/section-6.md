@@ -1,5 +1,17 @@
-Section 6: The Idea of Existence and External Existence
-The Idea of Existence Automatically Arises With Every Conception
+---
+heading: "Section 6"
+title: "The Idea of Existence and External Existence"
+weight: 12
+image: /covers/treatise.jpg
+description: "The Idea of Space is Just Made Up of Points"
+author: David Hume
+icon: /icons/hume.png
+---
+
+
+
+## The Idea of Existence Automatically Arises With Every Conception
+
 The ideas of existence and external existence have their difficulties just as with the ideas of space and time.
 
 By explaining existence, we shall be more prepared to examine knowledge and probability.
@@ -14,12 +26,17 @@ the same with the idea of the perception or object.
 This dilemma is a consequence of the principle that every idea arises from a similar impression.
 
 I do not think that there are any two distinct impressions which are inseparably conjoined.
+
 Certain sensations might be united at one time.
+
 But we quickly find that they:
-allow a separation, and
-can be presented apart.
+- allow a separation, and
+- can be presented apart.
+
 Every impression and idea that we remember is existent.
+
 But that idea of existence is not derived from any impression.
+
 Therfore, the idea of existence is the very same with the idea of whatever we conceive to exist.
 
 Simply reflecting on anything, and reflecting on it as existing, is the same.

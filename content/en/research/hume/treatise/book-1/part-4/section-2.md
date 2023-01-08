@@ -1,24 +1,41 @@
-Section 2: Skepticism Regarding Our Senses
-Is the Perception of Existence from Our Senses, Reason, or Imagination?
+---
+title: "Skepticism Regarding Our Senses"
+heading: Section 2
+description: "The Skeptical and Other Systems of Philosophy Simplified"
+image: /covers/treatise.jpg
+weight: 6
+author: David Hume
+icon: /avatars/hume.png
+---
+
+
+## Is the Perception of Existence from Our Senses, Reason, or Imagination?
+
 The skeptic still continues to reason even if he cannot defend his reason by reason.
 
 He must assent to the principle on the body's existence even though he cannot maintain its veracity by any philosophical arguments.
+
 Nature has:
-not left this to his choice, and
-not seen it too important to be trusted to our uncertain reasonings and speculations.
+- not left this to his choice, and
+- not seen it too important to be trusted to our uncertain reasonings and speculations.
+
 We may ask: Why do we believe in the body's existence?
 
 But it is in vain to ask: Is there a body or not?
+
 We must take this for granted in all our reasonings.
+
 Two questions are commonly confounded together:
 
-Why do we attribute a continued existence to objects, even when they are not present to the senses?
-Why do we suppose them to have an existence distinct from the mind and perception?
+1. Why do we attribute a continued existence to objects, even when they are not present to the senses?
+2. Why do we suppose them to have an existence distinct from the mind and perception?
+
 Existence here includes:
-situation and relations,
-external position, and
-the independence of their existence and operation.
-These two questions ask about the continued and distinct existence of body, and are intimately connected together.
+- situation and relations,
+- external position, and
+- the independence of their existence and operation.
+
+These 2 questions ask about the continued and distinct existence of body, and are intimately connected together.
 
 If the objects of our senses continue to exist even when they are not perceived, it means that their existence is independent from our perception.
 Conversely, if their existence is independent of our perception, they must continue to exist even if they are not perceived.

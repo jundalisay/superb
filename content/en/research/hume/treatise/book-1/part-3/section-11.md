@@ -1,47 +1,80 @@
-Section 11: The Probability of Chances
-Chance is the Negation of Cause
+---
+title: "The Probability of Chances"
+heading: Section 11
+description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
+image: /covers/treatise.jpg
+weight: 22
+author: David Hume
+icon: /avatars/hume.png
+---
+
+
+
+## Chance is the Negation of Cause
+
 To show the full force and evidence of this system, we must:
+- view its consequences, and
+- explain from the same principles some other species of reasoning derived from the same origin.
 
-view its consequences, and
-explain from the same principles some other species of reasoning derived from the same origin.
 The following philosophers are obliged to comprehend all our arguments from causes or effects under the general term of probability:
+- Those who have:
+  - divided human reason into knowledge and probability, and
+  - defined the reason to be that evidence which arises from the comparison of ideas.
 
-Those who have:
-divided human reason into knowledge and probability, and
-defined the reason to be that evidence which arises from the comparison of ideas.
 Everyone is free to use his words in what sense he pleases.
 
 However, many arguments from causation:
-exceed probability, and
-may be received as a superior kind of evidence.
+- exceed probability, and
+- may be received as a superior kind of evidence.
+
 It would be ridiculous to say that it is only probable:
-that the sun will rise tomorrow, or
-that all men must die.
+- that the sun will rise tomorrow, or
+- that all men must die.
+
 We have no assurance of these facts other than what experience affords us.
+
 Let us categorize human reason into three kinds in order to preserve the meaning words and mark the several degrees of evidence.
 
 From knowledge
+
 Knowledge is the assurance arising from the comparison of ideas.
+
 From proofs
+
 Proofs are those arguments:
-derived from the relation of cause and effect, and
-entirely free from doubt and uncertainty.
+- derived from the relation of cause and effect, and
+- entirely free from doubt and uncertainty.
+
 From probabilities
+
 Probability means that evidence which is still attended with uncertainty.
+
 Probability is reasoning from conjecture.
-It may be divided into two kinds:
+
+It may be divided into 2 kinds:
+
 Probability founded on chance
 Probability arising from causes.
+
 The idea of cause and effect is derived from experience.
 
 Experience presents us with certain objects constantly conjoined with each other.
+
 It produces a habit of surveying them in that relation.
+
 We cannot survey them in any other relation, without a sensible violence.
+
 On the other hand, chance is not real in itself.
+
 It is merely the negation of a cause.
+
+
 Its influence on the mind is contrary to the influence of causation.
+
 Chance is essential to the mind.
+
 It leaves the imagination perfectly indifferent to consider the existence or non-existence of that object it regards as contingent.
+
 A cause traces the way to our thought.
 It forces us to survey such certain objects, in such certain relations.
 Chance can only:

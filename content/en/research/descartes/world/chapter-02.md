@@ -43,9 +43,11 @@ Its parts move independently of one another. Even though they often act together
 
 Their motion is very fast and very violent because they are so small that we cannot distinguish them by sight. They would not have the force to act against other bodies if the quickness of their motion did not compensate for their smallness.[8]
 
-I add nothing concerning the direction in which each moves. For, if you consider that 
+I add nothing concerning the direction in which each moves. 
 
-The power to move and the power that determines that motion's direction are two completely different things. These can exist one without the other (as I have set out in the Dioptrics)[9]. Each part moves in the way least difficult* for it by the bodies around it.[10]
+<!-- For, if you consider that  -->
+
+This is because the power to move and the power that determines that motion's direction are two completely different things. These can exist one without the other (as I have set out in the Dioptrics)[9]. Each part moves in the way least difficult* for it by the bodies around it.[10]
 
 > *Superphysics note: This is the path of least resistance for each quantum
 

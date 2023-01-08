@@ -66,8 +66,19 @@ According to Pythagoras, the world was divided into opposite powers:
 {{< /q >}}
 
 
+These 2 forces manifest in the material domain in the following forms:
 
-### Duality from the Two Forces
+Layer | Positive | Negative
+--- | --- | ---
+Aethereal | Unity | Division
+Spacetime | Gravity | Dark Energy  
+Electromagentic| Attraction | Repulsion
+Transformative (Radioactive) | Fusion (Stability) | Fission (Chemical Reaction)
+Material | Solidity | Splitting up
+
+
+
+### Duality from the Two Forces, as a Loop
 
 The Negative force splits the Absolute into a dualistic Creator, as the Supreme, which makes imperfections of Itself, as Its dualistic ideas and feelings:
 - The creation of the idea of beauty also leads to the creation of ugliness. 
@@ -91,12 +102,12 @@ Thus:
 - The Positive Force unites and creates knowledge
 
 
-
-
 {{< q a="lao">}} 
 The Great passes on in constant flow. Passing on, it becomes remote.  Having become remote, it returns.
 <cite>Part 6, The Tao Te Ching Simplified</cite>
 {{< /q >}} 
+
+
 
 
 The physicalized versions of metaphysical ideas are the physical expression of those ideas. <!-- Since ideas and feelings exist before their physical counterparts, we can say that the latter are expressions of such ideas.  --> For example, a tasty dish is an expression or manifestation of the idea of tastiness. 

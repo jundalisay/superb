@@ -148,10 +148,10 @@ To talk therefore of objections and replies, and balancing of arguments in such 
 Demonstrations may be difficult to be comprehended because of the abstractedness of the subject.
 
 But demonstrations can never have such difficulties as will weaken their authority after they are comprehended.
-Mathematicians are used to saying that:
-here there are equally strong arguments on the other side of the question, and
-the doctrine of indivisible points is also liable to unanswerable objections.
 
+Mathematicians are used to saying that:
+- here there are equally strong arguments on the other side of the question, and
+- the doctrine of indivisible points is also liable to unanswerable objections.
 
 I will take these arguments in a body and prove at once that it is impossible they can have any just foundation.
 

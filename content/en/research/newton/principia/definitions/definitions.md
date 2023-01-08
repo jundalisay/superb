@@ -1,13 +1,13 @@
-+++
-title= "Definitions"
-image= "/covers/principia.jpg"
-description= "Newton defines mass, inertia, force, and motion"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+title: "Definitions"
+weight: 2
+image: /covers/principia.jpg
+description: "Newton defines mass, inertia, force, and motion"
+author: Isaac Newton
+icon: /icons/newton.png
+---
+
+
 
 > 1. Mass is the amount of matter in a body
 
@@ -20,7 +20,6 @@ This mass is known by the weight of the body because mass is proportional to wei
 
 This definition does not care about any medium that pervades the gaps within bodies.  
 
-<br>
 
 > 2. The total motion of a body is the sum of all motions of its parts and is based on its velocity and mass
 
@@ -29,7 +28,7 @@ This definition does not care about any medium that pervades the gaps within bod
 
 he quantity of motion is the velocity of matter
 
-<br>
+
 
 > 3. Inertia is the innate force of matter for resisting movement when not moving, or for moving when already moving
 
@@ -39,7 +38,7 @@ This force can be considered both as:
 
 All bodies are not always truly at rest. 
 
-<br>
+
 
 > 4. Force is an external action exerted on the body in order to change its state
 
@@ -52,7 +51,7 @@ This Force can come from:
 - pressure
 - centripetal force 
 
-<br>
+
 
 > 5. A centripetal force draws a body towards a center
 
@@ -70,40 +69,40 @@ It will go farther if there is:
 - less gravity or
 - more velocity
 
-<br>
+
 
 > 6. The strength of the centripetal force is based on the center
 
 Magnetism is less in a small magnet than a bigger magnet.
 
-<br>
+
 
 > 7. The increasing quantity of centripetal force
 
 - Magnetism is less when far from a magnet and stronger when near a magnet. 
 - Gravity is stronger in the bottom of valleys, less on mountaintops, and even less away from Earth.
 
-<br>
+
 
 > 8.
 
-The motive quantity of a centripetal force, is the measure of the samt\
-proportional to the motion which it generates in a given twip.
+<!-- The motive quantity of a centripetal force, is the measure of the samt\
+proportional to the motion which it generates in a given twip. -->
 
 A larger body has more weight than a smaller one. 
 
 Weight is the tendency of a body to go to center. It is measured by a contrary force of the weighing scale that prevents it from going to the center.
 
-The quantities of these forces can be called= 
-- accelerative (speed)= this is the propensity of areas around the center to draw bodies to the center
-- motive (motion)= this is the total propensity of the body to go to the center
-- absolute= this activates the motive force to go with the accelerative
+The quantities of these forces can be called:
+- accelerative (speed): this is the propensity of areas around the center to draw bodies to the center
+- motive (motion): this is the total propensity of the body to go to the center
+- absolute: this activates the motive force to go with the accelerative
 
 I do not bother to know where such an absolute force come from. I just want to give them a mathematical form. 
 
 The accelerative force is relative to the motive force just as speed is relative to motion. 
 - The quantity of motion comes from speed drawn into the mass of the central body. 
-- The motive force comes from the accelerative force drawn into the same nass of the central body.
+- The motive force comes from the accelerative force drawn into the same mass of the central body.
 
 The sum of the accelerative forces in each space is the total motive force. 
 

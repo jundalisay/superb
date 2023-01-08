@@ -157,7 +157,7 @@ sometimes upon their disks make it plain that the light they shine with is
 not their own, but borrowed from the sun.
 
 
-## PHENOMENON 4= 
+## PHENOMENON 4
 
 With the fixed stars at rest, the periodic times of the five primary planets, and (whether of the suit about the earth, or) of the earth about the sun, are in the sesquiplicate proportion of their mean distances from the sun.
 

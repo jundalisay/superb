@@ -1,14 +1,13 @@
-+++
-title= "Proposition 35"
-image= "/covers/principia.jpg"
-description= "With a given time, find the inclination of the moom's  orbit to the plane of the eclipltic"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Proposition 19"
+heading: "Section 5"
+weight: 4
+image: "/covers/principia.jpg"
+description: "With a given time, find the inclination of the moom's  orbit to the plane of the eclipltic"
+draft: true
+---
+
+
 
 ## Proposition 35 Problem 16
 

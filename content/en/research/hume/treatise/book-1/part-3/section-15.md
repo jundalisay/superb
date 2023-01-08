@@ -1,37 +1,75 @@
-Section 15: Rules in Judging Causes and Effects
-It is Easy to Give Rules, But Hard to Implement Them
+---
+title: "Rules in Judging Causes and Effects"
+heading: Section 15
+description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
+image: /covers/treatise.jpg
+weight: 30
+author: David Hume
+icon: /avatars/hume.png
+---
+
+
+## It is Easy to Give Rules, But Hard to Implement Them
+
 We cannot determine any object to be the cause of any other object without consulting experience.
 
 Anything can produce anything.
+
 Creation, annihilation, motion, reason, and volition may arise from one another, or from any other object that we can imagine.
+
 This will not appear strange if we compare two principles explained above, (Part 1, Section 5) that:
-the constant conjunction of objects determines their causation, and
-no objects are contrary to each other but existence and non-existence.
+- the constant conjunction of objects determines their causation, and
+- no objects are contrary to each other but existence and non-existence.
+
 If objects are not contrary, nothing hinders them from having that constant conjunction which cause and effect totally depends on.
+
 It is possible for all objects to become causes or effects to each other.
 
 Thus, we can create some general rules for us to know if they are so.
+
 The cause and effect must be contiguous in space and time.
+
 The cause must be prior to the effect.
+
 There must be a constant union between the cause and effect.
+
 Cause and effect are chiefly made up of constant union.
+
 The same cause always produces the same effect.
+
 The same effect never arises but from the same cause.
+
 We derive this principle from experience.
+
 This is the source of most of our philosophical reasonings.
+
 When we have discovered the causes or effects of any phenomenon by experiment, we immediately extend our observation to every phenomenon of the same kind.
+
 We do not wait for that constant repetition, from which the first idea of this relation is derived.
+
 Another principle hangs on this: that where different objects produce the same effect, it must be through some quality common among them.
+
 Like effects imply like causes.
+
 We must always ascribe the causation to the circumstance, wherein we discover the resemblance.
+
 The following principle is founded on the same reason:
+
 The difference in the effects of two resembling objects must come from the qualities in which they differ.
+
+
 Like causes always produce like effects.
+
 When an instance of the effect fails, we conclude that such an irregularity comes from some difference in the causes.
-When any object changes with the change of its cause, it is to be regarded as a compounded effect derived from the union of the several effects arising from the several parts of the cause.
+
+When any object changes with the change of its cause, it is to be regarded as a compounded effect derived from the union of the several effects  arising from the several parts of the cause.
+
 The absence or presence of one part of the cause is here supposed to be always attended with the absence or presence of a proportional part of the effect.
+
 This constant conjunction sufficiently proves that the one part is the cause of the other.
+
 However, we must not draw such a conclusion from a few experiments.
+
 A certain degree of heat gives pleasure.
 If you reduce that heat, the pleasure reduces.
 But it does not follow that if you augment it beyond a certain degree, the pleasure will likewise augment for we find that it degenerates into pain.

@@ -1,17 +1,32 @@
-Section 5: The Impressions of the Senses and Memory
-The Initial Impressions Come from the Memory, Imagination, and Senses
+---
+title: "The Impressions of the Senses and Memory"
+heading: Section 5
+description: "The Impressions of the Senses and Memory Simplified"
+image: /covers/treatise.jpg
+weight: 10
+author: David Hume
+icon: /avatars/hume.png
+---
+
+
+
+## The Initial Impressions Come from the Memory, Imagination, and Senses
+
 In this kind of reasoning from causation, we employ mixed and heterogeneous materials.
 
 These materials are essentially different from each other no matter how connected they are.
+
 All our arguments on causes and effects consist of:
-an impression of the memory or senses, and
-the idea of that existence which:
-produces the object of the impression, or
-is produced by that object.
+- an impression of the memory or senses, and
+- the idea of that existence which:
+- produces the object of the impression, or
+- is produced by that object.
+
 We have three things to explain:
-The original impression,
-The transition to the idea of the connected cause or effect,
-The nature and qualities of that idea.
+- The original impression,
+- The transition to the idea of the connected cause or effect,
+- The nature and qualities of that idea.
+
 I think the ultimate cause of those impressions from the senses are inexplicable by human reason.
 
 It will always be impossible to decide with certainty, whether they:

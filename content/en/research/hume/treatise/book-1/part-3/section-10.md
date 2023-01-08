@@ -1,23 +1,44 @@
-Section 10: The Influence of Belief
-Impressions and Ideas are Balanced by Nature
+---
+title: "The Influence of Belief"
+heading: Section 10
+description: "Education is disclaimed by philosophy as a fallacious assent to any opinion"
+image: /covers/treatise.jpg
+weight: 20
+author: David Hume
+icon: /avatars/hume.png
+---
+
+
+
+## Impressions and Ideas are Balanced by Nature
+
 Education is disclaimed by philosophy as a fallacious assent to any opinion.
 
 Nevertheless, it prevails in the world.
 Education is the cause why all systems are apt to be initially rejected as new and unusual.
 This perhaps will be the fate of what I have advanced here concerning belief.
 My proofs appear perfectly conclusive to me.
+
 But I do not expect to make many converts to my opinion.
+
 Men will never be persuaded that the effects of such consequence can flow from principles:
-which are so inconsiderable, and
-that all our actions and passions are derived from nothing but custom and habit.
+- which are so inconsiderable, and
+- that all our actions and passions are derived from nothing but custom and habit.
+
 To address this objection, I shall introduce the topic of the passions and the sense of beauty.
+
 A perception of pain and pleasure is implanted in the human mind as the chief spring and moving principle of all its actions.
+
 But pain and pleasure have two ways of appearing in the mind.
+
 The effects of these two ways are very different.
+
 They may appear:
-in impression to the actual feeling, or
-only in idea.
+- in impression to the actual feeling, or
+- only in idea.
+
 The influence of these on our actions is not equal.
+
 Impressions always actuate the soul in the highest degree.
 
 But not every idea has the same effect.
@@ -29,16 +50,21 @@ On the other hand, if every idea influenced our actions, our condition would not
 The images of everything, especially of goods and evils, are always wandering in the mind.
 If the mind were moved by every idle conception, it would never enjoy a moment's peace.
 Nature, therefore, has chosen a medium.
+
 It has not:
-bestowed the power of actuating the will on every idea of good and evil, nor
-entirely excluded the idea of good and evil from this influence.
+- bestowed the power of actuating the will on every idea of good and evil, nor
+- entirely excluded the idea of good and evil from this influence.
+
 An idle fiction has no efficacy.
 
 The ideas of those objects, which we believe are or will be existent, produce in a lesser degree those impressions which are immediately present to the senses and perception.
+
 The effect of belief is then to:
-raise up a simple idea to an equality with our impressions, and
-bestow on it a like influence on the passions.
+- raise up a simple idea to an equality with our impressions, and
+- bestow on it a like influence on the passions.
+
 It can only have this effect by making an idea approach an impression in force and vivacity.
+
 The different degrees of force make all the original difference between an impression and an idea.
 
 They must be the source of all the differences in the effects of these perceptions.
@@ -178,21 +204,29 @@ Poetry and eloquence give the vigour of conception to fictional ideas.
 This vigour of conception is merely accidental.
 Every idea is equally susceptible to this.
 Such fictions are connected with nothing real.
+
 This observation:
-makes us only lend ourselves to the fiction, and
-causes the idea to feel very different from the eternal established persuasions founded on memory and custom.
+- makes us only lend ourselves to the fiction, and
+- causes the idea to feel very different from the eternal established persuasions founded on memory and custom.
+
 Those established ideas are somewhat of the same kind as the fictional ideas.
+
 But the fictional ideas are much inferior to the established ideas, both in its causes and effects.
+
 A like reflection on general rules keeps us from adding our belief on every increase of the force and vivacity of our ideas.
 
 We give full conviction on an opinion that admits no doubt, even if the lack of similarity or contiguity may render its force inferior.
 The understanding corrects the appearances of the senses.
 It makes us imagine that an object 20 feet away is as large to the eye as one of the same dimensions, 10 feet away.
+
 We may observe the same effect of poetry in a lesser degree.
+
 The only difference is that the least reflection:
-dissipates the illusions of poetry, and
-places the objects in their proper light.
+- dissipates the illusions of poetry, and
+- places the objects in their proper light.
+
 In the warmth of a poetical enthusiasm, a poet has:
-a counterfeit belief, and
-a kind of vision of his objects.
+- a counterfeit belief, and
+- a kind of vision of his objects.
+
 A blaze of poetical images which have their effect on the poet himself and on his readers, contributes most to his full conviction.

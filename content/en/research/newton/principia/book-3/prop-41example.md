@@ -10,6 +10,7 @@ icon= "/icons/newton.png"
 draft= true
 +++
 
+
 ## EXAMPLE
 
 We propose a comet in the year 1680. This table shows its motion, as observed by Flamsted, and calculated and corrected by Dr. Halley.

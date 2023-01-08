@@ -1,14 +1,12 @@
-+++
-title= "The Laws of Motion"
-heading= "Plus Corollaries"
-image= "/covers/principia.jpg"
-description= "Newton enumerates 3 Laws and 6 Corollaries"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+title: "The Laws of Motion"
+weight: 2
+image: /covers/principia.jpg
+description: "Newton enumerates 3 Laws and 6 Corollaries"
+author: Isaac Newton
+icon: /icons/newton.png
+---
+
 
 
 ## Law 1

@@ -1,14 +1,13 @@
-+++
-title= "Proposition 19"
-image= "/covers/principia.jpg"
-description= ""
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Proposition 19"
+heading: "Section 5"
+weight: 4
+image: "/covers/quran.jpg"
+description: "This is the Book in which there is no doubt, a guide for the righteous."
+draft: true
+---
+
+
 
 #### What is a fluid?
 

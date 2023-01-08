@@ -1,9 +1,9 @@
 ---
-title: ""
+title: "Knowledge and Probability"
 heading: Part 3
-description: "Research on David Hume"
-image: /covers/essays.jpg
-weight: 4
+description: "Knowledge and Probability"
+image: /covers/treatise.jpg
+weight: 6
 author: David Hume
 icon: /avatars/hume.png
 ---

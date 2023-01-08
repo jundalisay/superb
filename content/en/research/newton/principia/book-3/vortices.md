@@ -1,14 +1,13 @@
-+++
-title= "Vortices"
-image= "/covers/principia.jpg"
-description= "The hypothesis of vortices is problematic.  It says that each planet by a radius drawn to the sun may describe areas proportional to the times of description, the periodic times of the several parts of the vortices should observe the duplicate proportion of their distances from the sun"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
+---
+title: "Vortices"
+weight: 2
+image: /covers/principia.jpg
+description: "The hypothesis of vortices is problematic.  It says that each planet by a radius drawn to the sun may describe areas proportional to the times of description, the periodic times of the several parts of the vortices should observe the duplicate proportion of their distances from the sun"
+author: Isaac Newton
+icon: /icons/newton.png
+---
 
-+++
+
 
 The hypothesis of vortices is problematic. 
 
@@ -35,7 +34,7 @@ of gravity, yet they could by no means have at first derived the
 regular
 position of the orbits themselves from those laws. -->
 
-The six planets revolve around the sun:
+The 6 planets revolve around the sun:
 - in concentric circles,
 - with motions directed towards the same parts, and
 - almost in the same plane
@@ -67,12 +66,12 @@ The Supreme God is a Being eternal, infinite, absolutely perfect.
 - He is not eternity or infinity, but eternal and infinite
 - He is not duration or space, but He endures and is present
 
-Since every
+<!-- Since every -->
 <!-- Lord God for we say, my God, your God, the God of Israel, the God of
 Gods, and Lord of Lords but we do not say, my Eternal, your Eternal.
 the Eternal of Israd the Eternal of Gods; we do not say, my Infinite, o? -->
 
-and by existing always and every where, he consti
+<!-- and by existing always and every where, he consti -->
 
 Since every particle of space is always, and every indivisible moment of duration is every where, certainly the Maker and Lord of all things cannot be never and no where. 
 
@@ -80,7 +79,7 @@ Every soul that has perception is still the same indivisible person.
 - There are given successive parts in duration, co-existent parts in space, but neither the one nor the
 other in the person of a man, or his thinking principle and much less
 
-can they be found in the thinking substance of God.
+<!-- can they be found in the thinking substance of God. -->
 
 Every man, so far as he is a thing that has perception, is one and the same man during his whole life. 
 
@@ -175,7 +174,7 @@ It must:
 sea by the power of gravity, but have not yet assigned the cause of this
 This is certain, that it must --> 
 - proceed from a cause that penetrates to the very centres of the sun and planets, without suffering the least diminution of its force. 
-- operate on the quantity of the solid matter which they contain, not according to the surface area as  mechanical causes do
+- operate on the quantity of the solid matter which they contain, not according to the surface area as mechanical causes do
 - it propagates its virtue on all sides to immense distances, decreasing always in the duplicate proportion of the distances.
 
 Gravitation towards the sun is made up of the gravitations towards the particles of the sun.
