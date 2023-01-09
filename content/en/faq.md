@@ -12,8 +12,19 @@ What is Superphysics?
 {{< /r >}}
 
 {{< l ava="sp" >}}
-The merging of Science and Metaphysics without going into the details of either.
+The merging of Science and Metaphysics without going into the details of either. This acts as a bridge between ancient metaphysics and modern science, as explained by Francis Bacon.
 {{< /l >}}
+
+{{< q a="Bacon" >}}
+Natural science or theory is divided into physic and metaphysic.
+<li>Physic should contemplate that which is inherent in matter, and therefore transitory.</li>
+<li>Metaphysic should contemplate that which is abstracted and fixed.</li>
+<li>Physic should handle that which supposeth in nature only a being and moving.</li>
+<li>Metaphysic should handle that which supposeth further in nature a reason, understanding, and platform.</li>
+<cite>Book 2 Part 7, The Proficience And Advancement Of Learning Simplified</cite>
+{{< /q >}}
+
+
 
 {{< r ava="asker" >}}
 So it's pseudo-science because it has metaphysics?
@@ -30,7 +41,16 @@ No. We call it as a smart-phone.
 {{< /r >}}
 
 {{< l ava="sp" >}}
-Correct. We add the word 'smart.' Similarly, we add 'super' to 'physics' to set it apart. Socratic dialectics makes up the core of this 'super' upgrade. 
+Correct. We add the word 'smart.' Similarly, we add 'super' to 'physics' to set it apart. This is supported by Francis Bacon who called 'natural magic' as part of metaphysics.
+{{< /l >}}
+
+{{< q a="Bacon" >}}
+Superstitious narrations of sorceries, witchcrafts, dreams, divinations, and the like, where there is an assurance and clear evidence of the fact, should not be excluded altogether. This is because it is not yet known in what cases and how far effects attributed to superstition do participate of natural causes. Therefore, howsoever the practice of such things is to be condemned, yet from the speculation and consideration of them, light may be taken for the further understanding of Nature.   
+<cite>Book 2 Part 1, The Proficience And Advancement Of Learning Simplified</cite>
+{{< /q >}}
+
+{{< l ava="sp" >}}
+Socratic Dialectics makes up the core of this 'super' upgrade as part of the process of data gathering, probing, and experimenting. 
 {{< /l >}}
 
 {{< r ava="asker" >}}

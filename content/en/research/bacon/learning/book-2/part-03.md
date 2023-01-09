@@ -1,5 +1,6 @@
 ---
-title: "Part 3"
+heading: "Part 3"
+title: Ecclesiastical History
 weight: 8
 description: ""
 image: "/covers/learning.jpg"

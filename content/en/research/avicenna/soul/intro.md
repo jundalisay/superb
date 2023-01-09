@@ -1,16 +1,16 @@
 ---
 heading: "Introduction"
 title: "Avicena’s Offering To The Prince"
-description: ""
+description: "I have concluded that the chief virtues are 2: The Love of wisdom and the Choice of Career"
 author: "Avicenna"
-weight: 1
+weight: 2
 image: "/covers/soul.jpg"
 ---
 
 
-Translator: Edward Abbott van Dyck
+<!-- Translator: Edward Abbott van Dyck
 
-Release Date: October 28, 2018
+Release Date: October 28, 2018 -->
 
 
 
@@ -82,41 +82,69 @@ One yet in growth will ever grateful be.
 
 <!-- In the Name of GOD, the Merciful, the Compassionate: May GOD bless our Lord Muhammad and his Kinsfolk, and give them peace. O my God facilitate [this undertaking]; and make [it] end in good, O Thou Bounteous Being!
  -->
-Abu-´Aly, Ibn Sînâ, the chief elder, learnèd and erudite leader, the precise and accurate researcher, Truth’s plea against mankind, the physician of physicians, the philosopher of Islâm, may the Most High GOD have mercy upon him, saith:
+<!-- Abu-´Aly, Ibn Sînâ, the chief elder, learnèd and erudite leader, the precise and accurate researcher, Truth’s plea against mankind, the physician of physicians, the philosopher of Islâm, may the Most High GOD have mercy upon him, saith: -->
 
-The best of beginnings is that which is adorned with praise to the Giver of strength for praising Him; and for invoking blessing and peace upon our Lord Muhammad, His prophet and servant, and upon his good and pure offspring after him. And after this beginning, he saith further:—
+<!-- The best of beginnings is that which is adorned with praise to the Giver of strength for praising Him; and for invoking blessing and peace upon our Lord Muhammad, His prophet and servant, and upon his good and pure offspring after him. And after this beginning, he saith further:— -->
 
-Had not custom given leave to the small and low to reach up to the great and high, it would be most difficult for them ever to tread those paths in going over which they need to lay hold of their upholding arm[3] and seek the help of[Pg 14] their superior strength; to attain to a position in their service, and join themselves to their social circle; to pride themselves on having become connected with them, and openly declare their reliance upon them. 
+Had not custom given leave to the small and low to reach up to the great and high, it would be most difficult for them ever to tread those paths in going over which they need to lay hold of their upholding arm[3] and seek the help of[Pg 14] their superior strength; 
 
-Nay, the very bond which joins the common man to the man of élite would be severed, and the reliance of the flock upon its shepherd would cease; the frail would no longer become powerful through the strength of the mighty, nor the low-born rise through the protection and countenance of the high-born; the foolish would not be able to correct his folly and ignorance by intercourse with the prudent and wise; nor the wise draw nigh to the ignorant and foolish.
+to attain to a position in their service, and join themselves to their social circle; to pride themselves on having become connected with them, and openly declare their reliance upon them. 
 
-And whereas I find that custom has trod along this highroad, and prescribed this usage, I avail myself of such a precedent and excuse to warrant my reaching up and aspiring to the Prince, GOD give him long life, with an offering [an acceptable present]; and I have given prevalence to the thought that my choice ought to fall upon an object which will at once be most acceptable to him, and best calculated to attain my aim of ingratiating myself into his favor; and this, after coming to the certain conclusion that the chief virtues are two, namely
+Nay, the very bond which joins the common man to the man of élite would be severed. The reliance of the flock on its shepherd would cease. 
+
+The frail would no longer become powerful through the strength of the mighty, nor the low-born rise through the protection and countenance of the high-born. 
+
+The foolish would not be able to correct his folly and ignorance by intercourse with the prudent and wise; nor the wise draw nigh to the ignorant and foolish.
+
+I find that custom has trod along this highroad, and prescribed this usage. 
+
+I avail myself of such a precedent and excuse to warrant my reaching up and aspiring to the Prince, GOD give him long life, with an offering [an acceptable present]; and I have given prevalence to the thought that my choice ought to fall upon an object which will at once be most acceptable to him, and best calculated to attain my aim of ingratiating myself into his favor. 
+
+I have concluded that the chief virtues are 2:
 
 1. Love of wisdom as to the Articles of Faith, (i.e., Love of Philosophy in theoretical principles)
-2. Choice of the most honest of deeds as to in[Pg 15]tention (i.e., the preference of pure purposes in practical life).
+2. Choice of the most honest of deeds as to intention (i.e., the preference of pure purposes in practical life).
 
-And in this connection I find the Prince, God prolong his days, to have given to his intrinsically worthy character so much of the polish and lustre imparted by wisdom that he far outstrips his rivals among the princes, and overtops all such as are of his kind.
+<!-- And in this connection I find the Prince, God prolong his days, to have given to his intrinsically worthy character so much of the polish and lustre imparted by wisdom that he far outstrips his rivals among the princes, and overtops all such as are of his kind. -->
 
-Hence I clearly perceive that of all presents the one he will appreciate most is such as conduces to the most precious of the virtues, to wit wisdom. I had, however, so far profitted from a careful perusal of the books of the learnèd as to find their researches into the spiritual faculties among the most abstruse and refractory against the mind’s grasping what they mean, and the most bewildering, obscure and misleading as to their results. 
+<!-- Hence I clearly perceive that of all presents the one he will appreciate most is such as conduces to the most precious of the virtues, to wit wisdom. I had, however, so far profitted from a careful perusal of the books of the learnèd as to find their researches into the spiritual faculties among the most abstruse and refractory against the mind’s grasping what they mean, and the most bewildering, obscure and misleading as to their results.  -->
 
-And yet I have seen it reported about a number of wise men (philosophers) and pious[4] saints that they agree in this dictum (motto), viz: “Whoso Knoweth himself, Knoweth his Lord”; and I have also heard the Chief of the Philosophers say, in agreement with their saying: “Whoso faileth to Know himself, is still more likely (apt) to fail of Knowing his Creator”; and “How shall he, who is trusted as a reliable authority in a science, be deemed to have any views at all, when he is ignorant of himself?” I see further the Book of the Most High GOD pointing to the measure of truth of this, where He says, when[Pg 16] mentioning the distance separating the Erring from His mercy: Surah 59, al-Hashr, v. 19: “they forgot God, and He made them forget themselves”; is not His making the forgetting of self to depend upon forgetting Him done so as to awaken the attention to His closely binding the remembrance of Him with the remembrance of self, and the knowledge of Him with the knowledge of self, scilicet of one’s own soul? 
+Many philosophers and pious[4] saints agree that: “Whoso Knoweth himself, Knoweth his Lord”.
 
-Furthermore, I have read in the books of the ancients that the hard task of going deeply into the knowledge of self had been enjoined upon them by an oracle that had descended upon them at one of the temples of the gods, which says: “Know thyself, O man, so shalt thou know thy Lord.” I have also read that this saying was engraved in the façade of the temple of Aesculapius, who is known among them as one of the prophets, and whose most famous miracle is that he was wont to heal the sick by mere loud supplication; and so did all priests who performed sacerdotal functions in his temple. From him have philosophers got the science of medicine.
+The Chief of the Philosophers said in agreement:
+- “Whoso fails to Know himself, is still more likely (apt) to fail of Knowing his Creator”
+- “How shall he, who is trusted as a reliable authority in a science, be deemed to have any views at all, when he is ignorant of himself?” 
 
-Thus I have thought fit to make for the Prince[5] a book on the soul, in the form of a compendium; and I ask the Most High God to prolong his life, to keep intact from the evil eye his frail and mortal body, to refresh through him wisdom after its fading, to revive it after its languishing, to renew its might through his might,[Pg 17] and to give it length of days through length of days to him, in order that by his prestige the advantages accruing from the prestige of its kin shall become all-embracing, and that the number of the seekers after its fullness shall abound. Nor shall I achieve this my ambition save through God: He is my all-sufficient stay, and best helper. I have arranged the Book in sections, ten in all:—
+The Quran points to the measure of truth of this, where Allah mentions the distance separating the Erring from His mercy: Surah 59, al-Hashr, v. 19: “they forgot God, and He made them forget themselves”.
 
-To Establish the Existence of the Faculties of the Soul, the detailed analysis and explanation of which I have undertaken.
-Division and Classification of the Primary (Primitive) Faculties of the Soul, and Definition of the Soul at large (or as a whole).
-That None of the Faculties of the Soul originates from the Combination (Blending) of the Four Elements, but on the contrary comes upon them from without.
+Is not His making the forgetting of self to depend upon forgetting Him done so as to awaken the attention to His closely binding the remembrance of Him with the remembrance of self, and the knowledge of Him with the knowledge of self, scilicet of one’s own soul? 
 
-Detailed Statement concerning the Vegetable Powers (faculties), and Mentioning the Need for Each One of them.
-Detailed Statement concerning the Animal Faculties (powers), and Mentioning the Need for Each One of them.
-Detailed Statement concerning the External (Apparent) Senses, and How they perceive, mentioning the Disagreement [of researchers] as to How Seeing is performed.
 
-Detailed Statement concerning the Internal (Hidden) Senses, and the Body Moving Power.
-Memoir on the Human Soul from the Stage of its Beginning to the Stage of its Perfection.
-Establishing the Proofs necessary for affirming the Essentiality of the Speaking (Rational) Soul, by the logical method.
-Establishing the Argument for the Existence of an Intellectual Essence, distinct from Bodies, standing to the Rational (speaking) Faculties in the stead of a Fountain, and in the stead of Light to Sight; and Showing that Rational (speaking) Souls remain united with It after the death of the body, secure and safe from corruption and change; and It is what is called Universal (generic) Intelligence.
+I have read in the books of the ancients that the hard task of going deeply into the knowledge of self had been enjoined upon them by an oracle that had descended upon them at one of the temples of the gods. 
+
+He says: “Know thyself, O man, so shalt thou know thy Lord.” 
+
+I have also read that this saying was engraved in the façade of the temple of Aesculapius, who is known among them as one of the prophets, and whose most famous miracle is that he was wont to heal the sick by mere loud supplication; and so did all priests who performed sacerdotal functions in his temple. From him have philosophers got the science of medicine.
+
+Thus I have thought fit to make for the Prince[5] a book on the soul, in the form of a compendium. 
+
+<!-- ; and I ask the Most High God to prolong his life, to keep intact from the evil eye his frail and mortal body, to refresh through him wisdom after its fading, to revive it after its languishing, to renew its might through his might,[Pg 17] and to give it length of days through length of days to him, in order that by his prestige the advantages accruing from the prestige of its kin shall become all-embracing, and that the number of the seekers after its fullness shall abound. Nor shall I achieve this my ambition save through God: He is my all-sufficient stay, and best helper. :— -->
+
+
+I have arranged the Book in 10 sections:
+
+1. The Existence of the Faculties of the Soul
+2. Division and Classification of the Primary (Primitive) Faculties of the Soul, and Definition of the Soul at large (or as a whole).
+3. None of the Faculties of the Soul originates from the Combination (Blending) of the 4 Elements, but on the contrary comes upon them from outside.
+4. The Vegetable Powers (faculties) and the Need for Each One of them
+5. The Animal Faculties (powers) and the Need for Each One of them
+6. The External (Apparent) Senses, How they perceive, the Disagreement [of researchers] as to How Seeing is performed.
+7. The Internal (Hidden) Senses, and the Body Moving Power.
+8. Memoir on the Human Soul from the Stage of its Beginning to the Stage of its Perfection.
+9. The Proofs necessary for affirming the Essentiality of the Speaking (Rational) Soul, by the logical method.
+10. The Existence of an Intellectual Essence
+
+This essence is distinct from Bodies, standing to the Rational (speaking) Faculties in the stead of a Fountain, and in the stead of Light to Sight; and Showing that Rational (speaking) Souls remain united with It after the death of the body, secure and safe from corruption and change; and It is what is called Universal (generic) Intelligence.
 
 
 

@@ -99,4 +99,6 @@ For as when I read in Tacitus the actions of Nero or Claudius, with circumstance
 
 Neither do I exclude opinions of latter times to be likewise represented in this calendar of sects of philosophy, as that of Theophrastus Paracelsus, eloquently reduced into an harmony by the pen of Severinus the Dane; and that of Tilesius, and his scholar Donius, being as a pastoral philosophy, full of sense, but of no great depth; and that of Fracastorius, who, though he pretended not to make any new philosophy, yet did use the absoluteness of his own sense upon the old; and that of Gilbertus our countryman, who revived, with some alterations and demonstrations, the opinions of Xenophanes; and any other worthy to be admitted.
 
-(6) Thus have we now dealt with two of the three beams of man’s knowledge; that is radius directus, which is referred to nature, radius refractus, which is referred to God, and cannot report truly because of the inequality of the medium.  There resteth radius reflexus, whereby man beholdeth and contemplateth himself.
+(6) Thus have we now dealt with two of the three beams of man’s knowledge; that is radius directus, which is referred to nature, radius refractus, which is referred to God, and cannot report truly because of the inequality of the medium.  
+
+There resteth radius reflexus, whereby man beholdeth and contemplateth himself.

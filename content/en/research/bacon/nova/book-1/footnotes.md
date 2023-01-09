@@ -1,13 +1,9 @@
 ---
 title: "Footnotes"
 heading: Chapter 1 Book 2 of Nova Organum
-weight: 1
+weight: 34
 description: ""
 image: "/covers/nova.jpg"
-linkb: "/research/bacon/nova/book-2/"
-linkbtext: "Index"
-linkf: "/research/bacon/nova/book-2/"
-linkftext: "Chapter 2"
 icon: /icons/bacon.png
 ---
 

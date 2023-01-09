@@ -1,7 +1,8 @@
 ---
-title: "Part 14"
+title: "Private or Particular Good"
+heading: Part 21
 weight: 42
-description: ""
+description: "Private or particular good is either active and passive"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon

@@ -1,16 +1,21 @@
 ---
-title: "Part 14"
+title: Eloquence
+heading: "Part 19"
 weight: 40
-description: ""
+description: "In the handling of this science, those which have written seem to me to have done as if a man, that professed to teach to write, did only exhibit fair copies of alphabets and letters joined"
 image: "/covers/learning.jpg"
 icon: /icons/bacon.png
 author: Francis Bacon
 ---
 
 
-{{< s v="20" >}}  We proceed now to that knowledge which considereth of the appetite and will of man: whereof Solomon saith, Ante omnia, fili, custodi cor tuum: nam inde procedunt actiones vitæ.  In the handling of this science, those which have written seem to me to have done as if a man, that professed to teach to write, did only exhibit fair copies of alphabets and letters joined, without giving any precepts or directions for the carriage of the hand and framing of the letters. 
+{{< s v="20" >}}  We proceed now to that knowledge which considereth of the appetite and will of man: whereof Solomon saith, Ante omnia, fili, custodi cor tuum: nam inde procedunt actiones vitæ.  
 
-So have they made good and fair exemplars and copies, carrying the draughts and portraitures of good, virtue, duty, felicity; propounding them well described as the true objects and scopes of man’s will and desires. But how to attain these excellent marks, and how to frame and subdue the will of man to become true and conformable to these pursuits, they pass it over altogether, or slightly and unprofitably.  
+In the handling of this science, those which have written seem to me to have done as if a man, that professed to teach to write, did only exhibit fair copies of alphabets and letters joined, without giving any precepts or directions for the carriage of the hand and framing of the letters. 
+
+So have they made good and fair exemplars and copies, carrying the draughts and portraitures of good, virtue, duty, felicity; propounding them well described as the true objects and scopes of man’s will and desires. 
+
+But how to attain these excellent marks, and how to frame and subdue the will of man to become true and conformable to these pursuits, they pass it over altogether, or slightly and unprofitably.  
 
 For it is not the disputing that moral virtues are in the mind of man by habit and not by nature, or the distinguishing that generous spirits are won by doctrines and persuasions, and the vulgar sort by reward and punishment, and the like scattered glances and touches, that can excuse the absence of this part.
 

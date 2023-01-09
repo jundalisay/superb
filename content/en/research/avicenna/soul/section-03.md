@@ -1,6 +1,6 @@
 ---
 heading: "Section 3"
-title: "The General Definition of the Soul"
+title: "The Faculties of the Soul have External Origins and are not from the 4 Elements"
 description: "All the various things that are, however composite they may be, and whatever form may have come about in the compound"
 author: "Avicenna"
 weight: 8
@@ -8,33 +8,52 @@ image: "/covers/soul.jpg"
 ---
 
 
-To Establish that not One of the Faculties of the Soul Originates out of a Combination (Blending) of the Elements, but on the contrary Comes upon Them from Outside.
+
+
+<!-- Soul Originates out of a Combination (Blending) of the Elements, but on the contrary Comes upon Them from Outside. -->
 
 All the various things that are, however composite they may be, and whatever form may have come about in the compound, will be:
 
-- (a) either inclining towards some one of the forms of the simples, or else will not be so. 
+1. Incline or not towards one of the forms of the simples
 
-if they be not so inclining, they will be 
+<!-- , or else will not be so. 
 
-- (b) either resulting from an aggregate (or mean) of the forms of the simples, according to the degree of disproportion and deviation of the constituents from equality, or else 
+if they be not so inclining, they will be  -->
 
-- c) they will not be assimilated to any one of the simples, but there will be made (generated, produced) a form exceeding the requirement of the forms of the simples, both in regard to the measure of its simplicity and in regard to the measure of its complexity. 
+Examples are:
+- the bitterish taste on compounding aloe, which is overpoweringly bitter
+- honey, which is feebly sweet. 
 
-An example of the first division is the bitterish taste on compounding aloe, which is overpoweringly bitter, and honey, which is feebly sweet. 
 
-An example of the second division is the color grey, holding an equal relationship to both of the extremes (contrasts) blackness and whiteness, which results on compounding a white and a black opposite. An example of the third of the said divisions is the seal’s stamp (imprint) remaining in the clay (mortar, putty) which is composed of dry dust and liquid water on their being mixed up together; for it is known that the imprint remaining in the putty is not in pursuance to the requirement of the forms of the simples, neither whether they be considered in respect of the resultant compound, nor whether they be considered in respect of the simple constituents taken singly.
+If these are produced, from simples whose forms are contrary not through mechanical mixture (commingling) but through blending (alloy, amalgam), then the overpowered contraries will no longer have an existence of their own, nor an existence of the effects peculiar to them. This is because of the impossibility of 2 contraries working together in one and the same carrier (medium). 
 
-To recapitulate:—it is known that the first division, if it be produced, from simples whose forms are opposed (contrary) not through mechanical mixture (commingling) but through[10] blending (alloy, amalgam)—
+The utmost effects they can exert will be to introduce a decrease in the strength of the overpowering constituent, and nothing more.
 
-In such cases that the overpowered contraries will no longer have an existence of their own, nor an existence of the effects peculiar to them, because of the impossibility of two contraries working together in one and the same carrier (medium), 
 
-but the utmost effects they can exert will be to introduce a decrease in the strength of the overpowering constituent, and nothing more; and it is known that the second division, in what proportions soever it be found, imposes reciprocity and equality both passive and active, that is to say the manifold workings that the forms of the simples necessarily exert and the corresponding effects that these forms suffer mutually one from the other must of necessity be reciprocal, and in the ratio of their respective proportions and strengths; 
 
-The third division, if it comes about, will not have resulted from the intrinsic (very) self of the compound, since it in no way at all belongs to it, neither in consideration of its simple nor of its composite form. Hence it is gained (got, acquired) from without.
+2. Result from an aggregate (or mean) of the forms of the simples, according to the degree of disproportion and deviation of the constituents from equality, or else 
+
+An example is the color grey. It holds an equal relationship to both of the extremes (contrasts) blackness and whiteness, which results on compounding a white and a black opposite. 
+
+This imposes both passive and active reciprocity and equality. The manifold workings that the forms of the simples necessarily exert and the corresponding effects that these forms suffer mutually one from the other must of necessity be reciprocal, and in the ratio of their respective proportions and strengths.
+
+
+
+
+3. They will not be assimilated to any one of the simples, but there will be made (generated, produced) a form exceeding the requirement of the forms of the simples, both in regard to the measure of its simplicity and in regard to the measure of its complexity. 
+
+An example is the seal’s stamp (imprint) remaining in the clay (mortar, putty) which is composed of dry dust and liquid water on their being mixed up together.
+
+The imprint remaining in the putty is not in pursuance to the requirement of the forms of the simples, neither whether they be considered in respect of the resultant compound, nor whether they be considered in respect of the simple constituents taken singly.
+
+
+
+This kind, if it comes about, will not have resulted from the intrinsic (very) self of the compound, since it in no way at all belongs to it, neither in consideration of its simple nor of its composite form. Hence it is gained (got, acquired) from without.
 
 <!-- It is now necessary, since we have prefixed these premisses, that we go deeper into our pursuit, so we say:— -->
 
-That the soul has only come forth [for us through the foregoing contemplations] in compound bodies whose forms are opposed and in none others; nor will its manifestation in them be devoid (divested) of one of the three divisions; but it is not of the first division; else it is heat or coldness, dryness or moisture (dampness), in any of which soever a decrease has more or less come about; 
+
+The soul has only come forth [for us through the foregoing contemplations] in compound bodies whose forms are opposed and in none others; nor will its manifestation in them be devoid (divested) of one of the three divisions; but it is not of the first division; else it is heat or coldness, dryness or moisture (dampness), in any of which soever a decrease has more or less come about; 
 
 how shall any one of these powers be fit to put forth from itself multifarious psychical deeds, given the fact of the decrease (defect) occasioned in the very composition, and given also what it would have expended in that decrease out of its strength? nay, how shall any one of these powers cause motion save towards[Pg 34] one direction alone?
 
