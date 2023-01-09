@@ -1,5 +1,6 @@
 ---
-title: "Part 5"
+title: Other Causes of the Errors in Learning
+heading: "Part 5"
 weight: 14
 description: ""
 image: "/covers/learning.jpg"
@@ -8,14 +9,24 @@ author: Francis Bacon
 ---
 
 
-{{< s v="1" >}} The first of these is the extreme affecting of two extremities: the one antiquity, the other novelty; wherein it seemeth the children of time do take after the nature and malice of the father.  
+{{< s v="1" >}} The first of these is the extreme affecting of 2 extremities: 
 
-For as he devoureth his children, so one of them seeketh to devour and suppress the other; while antiquity envieth there should be new additions, and novelty cannot be content to add but it must deface; surely the advice of the prophet is the true direction in this matter, State super vias antiquas, et videte quænam sit via recta et bona et ambulate in ea. 
+1. The antiquity
+2. The novelty
 
-Antiquity deserveth that reverence, that men should make a stand thereupon and discover what is the best way; but when the discovery is well taken, then to make progression.  And to speak truly, Antiquitas sæculi juventus mundi.  These times are the ancient times, when the world is ancient, and not those which we account ancient ordine retrogrado, by a computation backward from ourselves.
+The children of time seem to take after the nature and malice of the father.
+- For as he devoureth his children, so one of them seeketh to devour and suppress the other; while antiquity envieth there should be new additions, and novelty cannot be content to add but it must deface; 
+
+surely the advice of the prophet is the true direction in this matter, State super vias antiquas, et videte quænam sit via recta et bona et ambulate in ea. 
+
+Antiquity deserveth that reverence, that men should make a stand thereupon and discover what is the best way. 
+
+But when the discovery is well taken, then to make progression.  And to speak truly, Antiquitas sæculi juventus mundi.  These times are the ancient times, when the world is ancient, and not those which we account ancient ordine retrogrado, by a computation backward from ourselves.
 
 
-{{< s v="2" >}} Another error induced by the former is a distrust that anything should be now to be found out, which the world should have missed and passed over so long time: as if the same objection were to be made to time that Lucian maketh to Jupiter and other the heathen gods; of which he wondereth that they begot so many children in old time, and begot none in his time; and asketh whether they were become septuagenary, or whether the law Papia, made against old men’s marriages, had restrained them.  
+{{< s v="2" >}} Another error induced by the former is a distrust that anything should be now to be found out, which the world should have missed and passed over so long time: 
+
+As if the same objection were to be made to time that Lucian maketh to Jupiter and other the heathen gods; of which he wondereth that they begot so many children in old time, and begot none in his time; and asketh whether they were become septuagenary, or whether the law Papia, made against old men’s marriages, had restrained them.  
 
 So it seems men doubt lest time is become past children and generation; wherein contrariwise we see commonly the levity and unconstancy of men’s judgments, which, till a matter be done, wonder that it can be done; and as soon as it is done, wonder again that it was no sooner done: as we see in the expedition of Alexander into Asia, which at first was prejudged as a vast and impossible enterprise; and yet afterwards it pleaseth Livy to make no more of it than this, Nil aliud quàm bene ausus vana contemnere. 
 

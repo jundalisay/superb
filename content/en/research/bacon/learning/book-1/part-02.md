@@ -1,5 +1,6 @@
 ---
-title: "Part 2"
+heading: "Part 2"
+title: "Learning and Politics"
 weight: 6
 description: ""
 image: "/covers/learning.jpg"
@@ -21,9 +22,21 @@ Learning:
 - at least, diverts men’s travails from action and business, and bringeth them to a love of leisure and privateness
 - brings into states a relaxation of discipline, whilst every man is more ready to argue than to obey and execute.  
 
-Out of this conceit Cato, surnamed the Censor, one of the wisest men indeed that ever lived, when Carneades the philosopher came in embassage to Rome, and that the young men of Rome began to flock about him, being allured with the sweetness and majesty of his eloquence and learning, gave counsel in open senate that they should give him his despatch with all speed, lest he should infect and enchant the minds and affections of the youth, and at unawares bring in an alteration of the manners and customs of the state.  
+ 
 
-Out of the same conceit or humour did Virgil, turning his pen to the advantage of his country and the disadvantage of his own profession, make a kind of separation between policy and government, and between arts and sciences, in the verses so much renowned, attributing and challenging the one to the Romans, and leaving and yielding the other to the Grecians: Tu regere imperio popules, Romane, memento, Hæ tibi erunt artes, &c. So likewise we see that Anytus, the accuser of Socrates, laid it as an article of charge and accusation against him, that he did, with the variety and power of his discourses and disputatious, withdraw young men from due reverence to the laws and customs of their country, and that he did profess a dangerous and pernicious science, which was to make the worse matter seem the better, and to suppress truth by force of eloquence and speech.
+Carneades the philosopher came in embassage to Rome. 
+
+The young men of Rome began to flock about him, being allured with the sweetness and majesty of his eloquence and learning.
+
+Out of conceit, Cato surnamed the Censor who was one of the wisest men that ever lived. 
+
+Cato told the open senate that they should evict Carneads quickly, lest he should enchant the minds and affections of the youth, and at unawares bring in an alteration of the manners and customs of the state.
+
+Out of the same conceit, Virgil wrote about the advantage of his country and the disadvantage of his own profession. He made a kind of separation between policy and government, and between arts and sciences. 
+
+In renowned verses, he attributed and challenged the one to the Romans. He left and yielded the other to the Grecians: Tu regere imperio popules, Romane, memento, Hæ tibi erunt artes, &c. 
+
+So likewise we see that Anytus, the accuser of Socrates, laid it as an article of charge and accusation against him, that he did, with the variety and power of his discourses and disputatious, withdraw young men from due reverence to the laws and customs of their country, and that he did profess a dangerous and pernicious science, which was to make the worse matter seem the better, and to suppress truth by force of eloquence and speech.
 
 
 {{< s v="2" >}} But these and the like imputations have rather a countenance of gravity than any ground of justice: for experience doth warrant that, both in persons and in times, there hath been a meeting and concurrence in learning and arms, flourishing and excelling in the same men and the same ages.  

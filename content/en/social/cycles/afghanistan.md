@@ -91,7 +91,7 @@ Year | Event
 2001 | The US war in Afghanistan begins
 
 
-Five years, or even twenty years, is way too short. The ideal length for a society to form its own consciousness is around 80 years. For example, the period from the American Revolution to the Civil war is around 80 years. Only after this period was the American identity unified. Likewise, it took 78 years from the British War of the Roses to establish British identity as an Anglican society under Henry VIII.
+Five years, or even twenty years, is way too short. The ideal length for a society to form its own consciousness is around 80 years. For example, the period from the American Revolution to the Civil war is around 80 years. Only after this period was the American identity unified. Likewise, it took 78 years from the British War of the Roses to establish British identity as an Anglican society under Henry the 8th.
 
 <!-- Twenty years of American Occupation is thus only 1/4 of the time needed.  -->
 
@@ -104,9 +104,9 @@ How did we come up with 80 years? According to [Socrates' social cycles](/social
 
 We then convert the phases to their root characteristics
 
-1. Philosophical
-2. Mercantile
-3. Popular
+1. Thinker
+2. Trader
+3. Worker
 4. Warrior
 
 We then plotted [each phase of modern societies](/social/cycles/) to be under 20 years. Thus, we multiply 20 by four phases to come up with 80 years as a general rule. Europe and small countries seem to have 60 years. 
@@ -120,9 +120,13 @@ Successful assimilation, such as what happened during the colonial period, took 
 
 ### Mistake 3: Democracy in a Desert
 
-According to the model, popular democracy is the third phase of the evolution of society. The Americans started with the third "popular" phase when they should have begun with the first -- the philosophical. Of all the philosophies, Islam is the natural one for Afghanistan, while freedom is the most unnatural one, as explained in Mistake 1. This is supported by Adam Smith: 
+According to the model, popular working-man's democracy is the third phase of the evolution of society. The Americans started with the third "popular" phase when they should have begun with the first -- the thinking phase. 
 
-{{< quote ava="smith" >}}Generally,the situation of a country, and its improvement in agriculture and trade are favourable to the introduction of a republican government. There is little probability that republican governments will ever be introduced into Tartary or Arabia, because their country cannot be improved. 
+Thinking leads to philosophies. Of all the philosophies, Islam is the natural one for Afghanistan, while democracy is the most unnatural one, as explained in Mistake 1. 
+
+This is supported by Adam Smith: 
+
+{{< quote ava="smith" >}} Generally,the situation of a country, and its improvement in agriculture and trade are favourable to the introduction of a republican government. There is little probability that republican governments will ever be introduced into Tartary or Arabia, because their country cannot be improved. 
 <cite>Simple Lectures, Part 1, Chapter 3</cite>
 {{< /quote >}}
 

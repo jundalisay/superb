@@ -94,18 +94,16 @@ Balance is essential to make systems last long. This applies to material bodies,
 
 ## How Balance Is Disrupted
 
-According to the Four Social Cycles, the Worker, Warrior, Philosopher, and Merchant have to work together to move their society forward. Most often, one of them gains a natural dominance depending on the current cycle. 
+According to the Four Social Cycles, the Worker, Warrior, Thinker, and Trader have to work together to move their society forward. Most often, one of them gains a natural dominance depending on the current cycle. 
 
 However, sometimes the dominant class wants to stay in power. In the economy, this is done in the following ways:
 
-Class | Method | Examples
---- | --- | --- 
-1 Worker | Communism, Populism
-2 Warrior | Tyranny, Dictatorship
-3 Philosopher | Tithes, Dogma
-4 Merchant | Mercantilism, Profit Maximization Doctrine
+Class | Examples | Revenue Model
+--- | --- 
+1 Worker | Communism, Populism | Wages
+2 Warrior | Tyranny, Dictatorship | Tax
+3 Thinker | Research, Religions | Research Grants, Tithes, Dogma
+4 Trader | Mercantilism | Profits
 
 
 As the most pressing and obvious disruption was caused by Neoclassical Economics, we shall explain it in Part 4. 
-
-

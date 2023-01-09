@@ -1,6 +1,6 @@
 ---
 title: "The Social Cycles of Palestine"
-heading: "Positive Philosopher"
+heading: "Positive Thinker"
 date: 2021-07-27
 image: "/flags/ps.png"
 description: "The social cycles of Palestine last 13 years"
@@ -11,8 +11,8 @@ icon: "/flags/ps.png"
 
 Current Cycle | Years per Cycle | Social Age
 --- | --- | ---
-Philosopher | 13 | 
+Thinker | 13 | 
 
 
 
-The entry of the intellectual cycle explains the ceasefire of 2021 
+The entry of the Thinker cycle explains the ceasefire of 2021 

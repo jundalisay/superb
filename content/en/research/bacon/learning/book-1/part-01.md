@@ -1,5 +1,6 @@
 ---
-title: "Part 1"
+heading: "Part 1"
+title: "The 3 True Limitations of Human Knowledge"
 weight: 4
 description: "Learning should be delivered from the discredits and disgraces which it has received from disguised ignorance"
 image: "/covers/learning.jpg"
@@ -44,9 +45,16 @@ For that nothing parcel of the world is denied to man’s inquiry and invention,
 
 Not but that it is an excellent thing to speak with the tongues of men and angels, but because, if it be severed from charity, and not referred to the good of men and mankind, it hath rather a sounding and unworthy glory than a meriting and substantial virtue.  
 
-And as for that censure of Solomon concerning the excess of writing and reading books, and the anxiety of spirit which redoundeth from knowledge, and that admonition of St. Paul, “That we be not seduced by vain philosophy,” let those places be rightly understood;
+Solomon censured:
+- the excess of writing and reading books
+- the anxiety of spirit which redoundeth from knowledge
+<!-- - the admonition of , “That we ; -->
 
-They do excellently set forth the true bounds and limitations whereby human knowledge is confined and circumscribed, and yet without any such contracting or coarctation, but that it may comprehend all the universal nature of things. 
+St. Paul admonished people to:
+- not be seduced by vain philosophy
+- let those places be rightly understood
+
+They excellently set the true limitations where human knowledge is confined and circumscribed, yet without any such contracting or coarctation, so that it may comprehend all the universal nature of things. 
 
 These limitations are 3: 
 
@@ -63,12 +71,24 @@ There is no vexation or anxiety of mind which resulteth from knowledge otherwise
 This point deserves to be a little stood upon, and not to be lightly passed over; for if any man shall think by view and inquiry into these sensible and material things to attain that light, whereby he may reveal unto himself the nature or will of God, then, indeed, is he spoiled by vain philosophy; for the contemplation of God’s creatures and works produceth (having regard to the works and creatures themselves) knowledge, but having regard to God no perfect knowledge, but wonder, which is broken knowledge. 
 
 
-Therefore, it was most aptly said by one of Plato’s school, “That the sense of man carrieth a resemblance with the sun, which (as we see) openeth and revealeth all the terrestrial globe; but then, again, it obscureth and concealeth the stars and celestial globe: so doth the sense discover natural things, but it darkeneth and shutteth up divine.”  
+Therefore, it was most aptly said by 
 
-And hence it is true that it hath proceeded, that divers great learned men have been heretical, whilst they have sought to fly up to the secrets of the Deity by this waxen wings of the senses.  And as for the conceit that too much knowledge should incline a man to atheism, and that the ignorance of second causes should make a more devout dependence upon God, which is the first cause; first, it is good to ask the question which Job asked of his friends: 
+One of Plato’s school rightly said that the sense of man resembles the sun. 
+- It shines on all of the terrestrial globe.
+- But it also obscures and conceals the stars and celestial world
+
+The sense discovers natural things. But it darkens and shuts the divine.  
+
+This is why great learned men have been heretical when they tried to fly up to the secrets of the Deity by this waxen wings of the senses.
+
+And as for the conceit that too much knowledge should incline a man to atheism, and that the ignorance of second causes should make a more devout dependence upon God, which is the first cause; first, it is good to ask the question which Job asked of his friends: 
 
 “Will you lie for God, as one man will lie for another, to gratify him?”  For certain it is that God worketh nothing in Nature but by second causes; and if they would have it otherwise believed, it is mere imposture, as it were in favour towards God, and nothing else but to offer to the Author of truth the unclean sacrifice of a lie.  But further, it is an assured truth, and a conclusion of experience, that a little or superficial knowledge of philosophy may incline the mind of men to atheism, but a further proceeding therein doth bring the mind back again to religion. 
 
 For in the entrance of philosophy, when the second causes, which are next unto the senses, do offer themselves to the mind of man, if it dwell and stay there it may induce some oblivion of the highest cause; but when a man passeth on further and seeth the dependence of causes and the works of Providence; then, according to the allegory of the poets, he will easily believe that the highest link of Nature’s chain must needs he tied to the foot of Jupiter’s chair.  
 
-To conclude, therefore, let no man upon a weak conceit of sobriety or an ill-applied moderation think or maintain that a man can search too far, or be too well studied in the book of God’s word, or in the book of God’s works, divinity or philosophy; but rather let men endeavour an endless progress or proficience in both; only let men beware that they apply both to charity, and not to swelling; to use, and not to ostentation; and again, that they do not unwisely mingle or confound these learnings together.
+In conclusion, let no man upon a weak conceit of sobriety or an ill-applied moderation think that a man can search too far, or well study in the book of God’s word, or in the book of God’s works, divinity or philosophy. 
+
+Instead, men should endeavour an endless progress or proficience in both. 
+
+only let men beware that they apply both to charity, and not to swelling; to use, and not to ostentation; and again, that they do not unwisely mingle or confound these learnings together.
