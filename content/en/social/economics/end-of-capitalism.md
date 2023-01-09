@@ -32,7 +32,8 @@ A system that focuses on money will close out the infinite, subjective nature of
 
 Imagine a mother charging a money-price to her children for every dinner that she cooks for them, putting them under a precise money-debt which gathers interest the longer they do not repay her. Such a mother would be regarded as cruel. 
 
-![Family](/photos/social/family.jpg)
+{{< img src="/photos/social/family.jpg" alt="family eating" cap="'Mommy, will you charge me for this meal?'" >}}
+
 
 In reality, her cooking was sourced from her love for them, just as they are expected to love her back in non-exact or non-quantifiable ways. The imposition of an objective money-payment naturally kills that subjective feeling of love. 
 
@@ -154,32 +155,37 @@ For example, an Arab sheik has 100 million dollars and personally knows very few
 
 The cash saved by the points-system will be used to grow the global economy. Remember that the points-economy works best for tightly-integrated economies such as a small town or a district of a large city. 
 
-[Points-banking](https://pantrypoints.com/banking) can then connect these local economies with each other. 
+[Points-banking](https://pantrypoints.com/banking) can then connect these local economies with each other, such as City A with City B. 
 
-However, points-banking cannot connect Country A to Country B which might have very different laws on trade and taxation. 
+However, points-banking cannot connect Country A to Country B which might have very different laws on imports-exports and taxation.
 
 In this case, the money system is better suited. For example, the US dollar is designed for cross-border transactions:
 - prices are denoted in US dollars
 - banks are able to accept local currency for conversion to US dollars for world trade
 
-The local currency can therefore be used to import foreign goods and even foreign services as foreign education, tourism, and foreign workers.
+To import a product, local currency is used to buy US dollars which is then sent to the exporter. Points-banking saves a lot of local currency, and so imports will increase as a consequence. 
 
-The problem is that, in the current world trade system, this will create a **balance of trade deficit** which will then cause a devaluation of the local currency. 
+<!-- The local currency can therefore be used to import foreign goods and even foreign services as foreign education, tourism, and foreign workers. -->
 
-This solution only works if all countries are on the same page and use most of their money to import, since imports in one country are exports of another. If countries are not united, then the system might solve stagnation in the exporting countries, but destroy the industry of the importing countries. 
+The problem is that, in the current world trade system, this will create a **balance of trade deficit** which will then cause a devaluation of the local currency. This then will negate the advantages of the Points system -- solving a bad stagnation just to create a bad devaluation. 
+
+<!-- This solution only works if all countries are on the same page and use most of their money to import, since imports in one country are exports of another. If countries are not united, then the system might solve stagnation in the exporting countries, but destroy the industry of the importing countries.  -->
+
+How can such a trade gap be solved?
+
 
 
 ## Pool Clearing to the Rescue
 
 The economist EF Schumacher thought about this in the 1940's and proposed a [Pool Clearing system](https://centerforneweconomics.org/publications/multilateral-clearing/) as a solution. 
 
-Instead of world trade being done in an unregulated way, each country joins the global pool which mandates them to set up a **National Clearing Fund**. 
+Instead of world trade being done in an unregulated way all in US dollars, each country joins the global pool which mandates them to set up a **National Clearing Fund**. 
 
 This fund will be used to:
 - accept local currency payments for imports 
 - disburse local currency to exporters
 
-The Clearing Funds eliminate the need for cross-border money transactions -- money no longer leaves any country. This will make currency speculation and currency crises obsolete. It also helps deficient and stagnating countries like Sri Lanka to get out of crisis by letting them export their way out of their quagmire. 
+The Clearing Funds eliminate the need for cross-border money transactions -- money no longer leaves any country. This will make currency speculation and currency crises obsolete. It will also help deficient and stagnating countries like Sri Lanka to get out of crisis by letting them export their way out of their quagmire.
 
 Each country's Clearing Fund will be subdivided into different industries, with subdivisions, such as:
 - Agriculture Fund
@@ -196,9 +202,9 @@ Each country's Clearing Fund will be subdivided into different industries, with 
   - Precision Equipment Fund
 - etc
 
-Investors, such as the Arab sheik, can then park his money in a fund that he likes, in a country that he likes. If a country can define 1 million industries, then each can have its own fund. The sheik can then have 1 million investment options. 
+Investors, such as the Arab sheik, can then park their money in a fund that they like, in a country that they like. If a country can define 1 million industries, then each can have its own fund. The sheik can then have 1 million investment options.
 
-There is still **a gaming element** since not all funds will succeed equally, yet not all funds will fail unless the country is totally mismanaged. This will allow people to enjoy such a childish pleasure*.
+There is still **a gaming element** since not all funds will succeed equally. Yet not all funds will fail unless the country is totally mismanaged. This will allow people to enjoy such a childish pleasure*.
 
 
 > *Not all investors are rich. Some just use their savings in the hopes of striking it rich quickly.
