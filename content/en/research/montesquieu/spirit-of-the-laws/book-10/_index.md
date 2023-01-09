@@ -1,8 +1,11 @@
-+++
-title= "Laws Related to Offense"
-description= "Book 10 of The Spirit of the Laws by Montesquieu Simplified"
-date= "2021-09-19"
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-# heading= Book 10, 17 chapters
-+++
+---
+heading: "Book 10"
+title: "Laws Related to Offense"
+linkTitle: "Book 10"
+weight: 20
+# "2021-09-30"
+description: "Book 10 of The Spirit of the Laws by Montesquieu Simplified as 17 chapters"
+image: "/covers/spirit.jpg"
+---
+
+

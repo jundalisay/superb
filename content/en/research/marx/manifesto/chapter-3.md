@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 3 of The Communist Manifest Simplified"
+heading: "Chapter 3 "
 title: "Socialist and Communist Literature"
-date: 2022-04-19
+weight: 14
 image: /covers/manifesto.png
-description: ""
+description: "The French and English aristocracies wrote pamphlets against modern capitalist society"
 author: Karl Marx
 icon: /icons/marx.png
 ---

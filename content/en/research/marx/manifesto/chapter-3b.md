@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 3b of The Communist Manifest Simplified"
+heading: "Chapter 3b "
 title: "German or 'True' Socialism"
-date: 2022-04-16
+weight: 16
 image: /covers/manifesto.png
-description: ""
+description: "The Socialist and Communist literature of France began as a fight against the capitalists in power"
 author: Karl Marx
 icon: /icons/marx.png
 ---

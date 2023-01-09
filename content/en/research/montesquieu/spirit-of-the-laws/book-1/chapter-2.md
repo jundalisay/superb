@@ -1,13 +1,13 @@
-+++
-title= "The Four Laws of Nature"
-date= 2015-09-29
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-1/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-1/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+heading: "Chapter 2"
+title: "The Four Laws of Nature"
+weight: 4
+description: "Antecdent to the above-mentioned laws are those of nature"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
 
 Antecdent to the above-mentioned laws are those of nature.
 - They get their force entirely from our frame and existence.

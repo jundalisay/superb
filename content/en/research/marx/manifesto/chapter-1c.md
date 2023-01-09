@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 1c of The Communist Manifest Simplified"
+heading: "Chapter 1c"
 title: "Class Struggle Between Proletariat and Bourgeoisie"
-date: 2022-04-26
+weight: 8
 image: /covers/manifesto.png
-description: ""
+description: "Of all the classes that stand face to face with the capitalists today, the proletariat alone is revolutionary"
 author: Karl Marx
 icon: /icons/marx.png
 ---

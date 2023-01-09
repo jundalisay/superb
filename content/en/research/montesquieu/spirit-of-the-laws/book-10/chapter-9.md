@@ -1,15 +1,14 @@
-+++
-title= "Conquests made by a Monarchy"
-heading= "Chapter 9"
-date= 2015-09-28
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-description= "A monarchy should not conquer beyond the natural limits of its government"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-10/chapter-6"
-linkbtext= "Chapter 6"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-10/chapter-14"
-linkftext= "Chapter 14"
-+++
+---
+heading: "Chapters 6-8"
+title: "Conquests made by a Monarchy"
+weight: 8
+description: "A monarchy should not conquer beyond the natural limits of its government"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 
 
@@ -25,13 +24,12 @@ If a monarchy has been long endeavouring at conquests, the provinces of its anci
 
 Such is the necessary state of a conquer ing monarchy; a shocking luxury in the capital; misery in the provinces som ewhat distant; and plenty in the most remote. It is the same with such a mo narchy as with our planet; fire at the center, verdure on the surface, and, between both, a dry, cold, and barren, earth.
 
-<br>
 
-## Chapter 10= One Monarchy that subdues another
+
+## Chapter 10: One Monarchy that subdues another
 
 SOMETIMES one monarchy subdues another.  The smaller the latter, the better it is over-awed by Edition= current; Page= [185] fortresses; and, th e larger it is, the better will it be preserved by colonies.
 
-<br>
 
 ## Chapter 11= The Manners of a conquered People
 

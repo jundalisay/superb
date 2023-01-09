@@ -1,18 +1,17 @@
 ---
-heading: ""
-title: "Preface of the Comunist Manifesto Simplified"
-date: 2022-04-30
+heading: "The 1872 German and 1882 Russian Editions"
+title: "Preface"
+# date:2022-04-30
+weight: 2
 image: /covers/manifesto.png
-description: ""
+description: "The Communist League is an international association of workers. It could only be secret one, under conditions at the time"
 author: Karl Marx
 icon: /icons/marx.png
 ---
 
 
-## The 1872 German Edition
 
-
-### History of the Manifesto 
+## History of the Manifesto 
 
 The Communist League is an international association of workers. It could only be secret one, under conditions at the time. 
 

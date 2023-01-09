@@ -1,7 +1,7 @@
 ---
 title: The General Formula for Capital
 heading: Capital Volume One
-date: 2022-02-01
+weight: 1
 description: The General Formula for Capital
 author: "Karl Marx"
 icon: /icons/marx.png

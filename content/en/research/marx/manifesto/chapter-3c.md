@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 3c of The Communist Manifest Simplified"
+heading: "Chapter 3c "
 title: "Critical-Utopian Socialism and Communism"
-date: 2022-04-15
+weight: 18
 image: /covers/manifesto.png
-description: ""
+description: "The first direct attempts of the proletariat to attain its own ends was during the overthrow of feudal society"
 author: Karl Marx
 icon: /icons/marx.png
 ---

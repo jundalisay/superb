@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 1b of The Communist Manifest Simplified"
+heading: "Chapter 1b "
 title: "Modern Industry"
-date: 2022-04-28
+weight: 7
 image: /covers/manifesto.png
-description: ""
+description: "The capitalist focuses on centralization has led to political centralization"
 author: Karl Marx
 icon: /icons/marx.png
 ---

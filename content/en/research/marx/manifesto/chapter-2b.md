@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 2b of The Communist Manifest Simplified"
+heading: "Chapter 2b "
 title: "Abolition of the Family and Nations"
-date: 2022-04-23
+weight: 12
 image: /covers/manifesto.png
-description: ""
+description: "Even the most radical flare up at our call to abolish the family"
 author: Karl Marx
 icon: /icons/marx.png
 ---

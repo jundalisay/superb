@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 1 of The Communist Manifest Simplified"
+heading: "Chapter 1"
 title: "Bourgeois and Proletarians"
-date: 2022-04-29
+weight: 6
 image: /covers/manifesto.png
-description: ""
+description: "The spectre of communism is haunting Europe"
 author: Karl Marx
 icon: /icons/marx.png
 ---

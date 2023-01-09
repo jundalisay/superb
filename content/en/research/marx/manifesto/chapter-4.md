@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 4"
 title: "The Communists and Various Opposition Parties Simplified"
-date: 2022-04-13
+weight: 20
 image: /covers/manifesto.png
 description: "The Communists fight for the attainment of the immediate aims and the enforcement of the momentary interests of the working class"
 author: Karl Marx

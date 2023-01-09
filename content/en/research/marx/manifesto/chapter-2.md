@@ -1,9 +1,9 @@
 ---
-heading: "Chapter 2 of The Communist Manifest Simplified"
+heading: "Chapter 2 "
 title: "Proletarians and Communists"
-date: 2022-04-24
+weight: 10
 image: /covers/manifesto.png
-description: ""
+description: "What is the relationship between Communists and the proletarians?"
 author: Karl Marx
 icon: /icons/marx.png
 ---

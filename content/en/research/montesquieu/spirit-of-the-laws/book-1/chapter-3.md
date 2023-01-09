@@ -1,16 +1,15 @@
-+++
-title= "The Laws Depend on the Nature of the People"
-heading= "Chapter 3 "
-date= 2015-09-28
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-1/chapter-2"
-linkbtext= "Chapter 2"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-2/chapter-1"
-linkftext= "Chapter 1"
-+++
+---
+heading: "Chapter 3"
+title: "The Laws Depend on the Nature of the People"
+weight: 6
+description: "As soon as mankind enter into a state of society, they lose the sense of their weakness. Equality ceases, and then commences the state of war"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-AS soon as mankind enter into a state of society, they lose the sense of their weakness. Equality ceases, and then commences the state of war.
+
+As soon as mankind enter into a state of society, they lose the sense of their weakness. Equality ceases, and then commences the state of war.
 
 Each particular society begins to feel its strength. This leads to a state of war between different nations. 
 

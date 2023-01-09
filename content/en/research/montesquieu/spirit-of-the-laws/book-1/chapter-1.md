@@ -1,13 +1,14 @@
-+++
-title= "The Relation of Laws to different Beings"
-date= 2015-09-30
-image= "/covers/spirit.jpg"
-description= "Each domain or layer of the universe has its laws designed by the Creator"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-1/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-1/chapter-3"
-linkftext= "Chapter 2"
-+++
+---
+heading: "Chapter 1"
+title: "The Relation of Laws to different Beings"
+weight: 2
+description: "Each domain or layer of the universe has its laws designed by the Creator"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 Laws generally are the necessary relations arising from the nature of things. In this sense, all beings have their laws.
 - The Deity has his laws.
