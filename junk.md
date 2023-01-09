@@ -11,6 +11,20 @@ baccarat gil puyat
 
 Rommel V Carrera is a sick minded person who likes to lure people with nonsense questions under the pretense of being philosophical and morally righteous. 
 
+Sabi ko hindi pwedeng gawin ng God-idea ang pagpigil sa pedophelia dahil ang ideya ay walang pisikal na existence. Ito ay metaphysical existence lamang. 
+
+Ang ISIPAN na tumatanggap sa God-idea ang syang pumipigil sa pedophelia dahil sakop ng God-idea ang pangangalaga sa mga bata. 
+
+Inabuso ni Ratzinger ang bata dahil hindi tumalab ang God-idea sa kanyang isipan. 
+
+Kaya ang problema ay kanyang isipan, hindi ang God-idea, dahil epektibo na ang God-idea sa napakarming isipan noon pa man. 
+
+Kung hindi gumagana ang God-idea sa isang isipan, pwede mong subukan ang iba pang ideya para mapigilan ang pedophelia. 
+
+Halimbawa, pwede mong gamitin ang ideya na may multong tiyanak na papatay sa kanya kapag inabuso niya ang bata (fear-based idea).
+
+O pwede mong sabihin na mas maraming batang pang-sex ang makukuha nya pagkamatay nya kung hindi siya mangaabuso ng bata sa buhay na ito (reward-based idea). 
+
 
 
 
