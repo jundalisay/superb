@@ -19,7 +19,7 @@ This necessarily led to political centralisation.
 
 <!-- Independent, or but loosely connected provinces, with separate interests, laws, governments, and systems of taxation, became lumped together into one nation, with one government, one code of laws, one national class-interest, one frontier, and one customs-tariff. -->
 
-Thhis centralization has led to colossal productive forces in less than 100 years. 
+This centralization has led to colossal productive forces in less than 100 years. 
 
 <!-- The capitalists, during its rule of scarce one hundred years, has created more massive and more  than have all preceding generations together. Subjection of Nature’s forces to man, machinery, application of chemistry to industry and agriculture, steam-navigation, railways, electric telegraphs, clearing of whole continents for cultivation, canalisation of rivers, whole populations conjured out of the ground — what earlier century had even a presentiment that such productive forces slumbered in the lap of social labour? -->
 

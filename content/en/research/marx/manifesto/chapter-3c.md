@@ -40,7 +40,7 @@ They saw the:
 But the proletariat back then was still in its infancy because industry was not developed yet to create class antagonism*. 
 - It offered to them a class without any historical initiative or any independent political movement.
 
-> *Superphysics Note; Class antagonism is really just heightened jealousy between the different classes. This jealousy arises when one class becomes too strong or favored over another. This jealousy is seen in monkeys, fed with little food, upon them seeing other monkeys getting better food. It is not so easily seen in cats or dogs. 
+> *Superphysics Note: Class antagonism is really just heightened jealousy between the different classes. This jealousy arises when one class becomes too strong or favored over another. This jealousy is seen in monkeys, fed with little food, upon them seeing other monkeys getting better food. It is not so easily seen in cats or dogs. Class antagonism, as well as 'keeping up with the Joneses', are merely signs of leftover monkey-behavior in humans.
 
 
 They therefore search for a new social science with new social laws, that are to create these conditions.

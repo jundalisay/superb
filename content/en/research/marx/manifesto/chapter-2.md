@@ -76,10 +76,15 @@ Capital is both a personal and a social power.
 
 
 The average price of wage-labour is the minimum wage. 
+- It is that quantum of the means of subsistence which is absolutely requisite to keep the labourer in bare existence as a labourer. 
+- Therefore, the wage-labourer appropriates by means of his labour, merely suffices to prolong a bare existence. 
 
-, i.e., that quantum of the means of subsistence which is absolutely requisite to keep the labourer in bare existence as a labourer. What, therefore, the wage-labourer appropriates by means of his labour, merely suffices to prolong and reproduce a bare existence. We by no means intend to abolish this personal appropriation of the products of labour, an appropriation that is made for the maintenance and reproduction of human life, and that leaves no surplus wherewith to command the labour of others. 
+We do not intend to abolish this personal appropriation of the products of labour. 
+<!-- , an appropriation that is made for the maintenance and reproduction of human life, and that leaves no surplus wherewith to command the labour of others.  -->
 
-All that we want is to do away with the miserable character of this appropriation, under which the labourer lives merely to increase capital, and is allowed to live only in so far as the interest of the ruling class requires it.
+All that we want is to do away with the miserable character of this appropriation, under which the labourer:
+- lives merely to increase capital, and
+- is allowed to live only in so far as the interest of the ruling class requires it.
 
 In capitalist society, labour is just a means to increase private profits. <!--  accumulated labour. --> 
 
@@ -138,3 +143,5 @@ This is wrong. It is like saying that the disappearance of a single culture will
 You have such wrong ideas because you yourself use the current mode of production and form of property. This is the same misconception that the ruling class has. 
 
 <!-- The selfish misconception that induces you to transform into eternal laws of nature and of reason, the social forms springing from your present mode of production and form of property – historical relations that rise and disappear in the progress of production – this misconception you share with every ruling class that has preceded you. What you see clearly in the case of ancient property, what you admit in the case of feudal property, you are of course forbidden to admit in the case of your own capitalist form of property. -->
+
+

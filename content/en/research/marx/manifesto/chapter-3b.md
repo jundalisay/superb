@@ -63,18 +63,18 @@ To the absolute governments, True Socialism served as a welcome scarecrow agains
 <!-- It was a sweet finish, after the bitter pills of flogging and bullets, with which these same governments, just at that time, dosed the German working-class risings. -->
 
 The monarchial government used this “True” Socialism as a weapon against the German capitalists. 
+- At the same time, it directly represented a reactionary interest, the interest of German Philistines. 
 
- it, at the same time, directly represented a reactionary interest, the interest of German Philistines. 
-
-In Germany, the petty-capitalist class was a relic of the 16th century. Since then, it had constantly cropped up under the various forms. It is the real social cause of the existing state of things.
-
-To preserve this class is to preserve the existing state of things in Germany. 
+In Germany, the petty-capitalist class:
+- was a relic of the 16th century -- since then, it had constantly cropped up under the various forms. 
+- is the real social cause of the existing state of things.
+  - To preserve the petty-capitalist class is to preserve the existing state of things in Germany. 
 
 The industrial and political supremacy of the capitalists threatens Germany with certain destruction either by:
 - the concentration of capital, or
 - the rise of a revolutionary proletariat. 
 
-“True” Socialism appeared to kill these two birds with one stone. It spread like an epidemic.
+“True” Socialism appeared to kill these 2 birds with one stone. It spread like an epidemic.
 
 <!-- The robe of speculative cobwebs, embroidered with flowers of rhetoric, steeped in the dew of sickly sentiment, this transcendental robe in which the German Socialists wrapped their sorry “eternal truths”, all skin and bone, served to wonderfully increase the sale of their goods amongst such a public. -->
 
@@ -113,23 +113,23 @@ The Socialistic capitalist:
 - The capitalists naturally conceives the world in which it is supreme to be the best
 
 Capitalist Socialism develops system for this. 
+- It requires the proletariat to march straightway into the social New Jerusalem.
+- In reality, it really requires the proletariat to:
+  - remain within the bounds of existing society and
+  - cast away all its hate against the capitalists.
 
-In requiring the proletariat to carry out such a system, and thereby to march straightway into the social New Jerusalem, it but requires in reality, that the proletariat should remain within the bounds of existing society, but should cast away all its hateful ideas concerning the capitalists.
+A second, and more practical, but less systematic, form of this Socialism tried to depreciate every revolutionary working class movement. 
+- It did this by showing that only a change in the material conditions of existence, in economical relations, were useful to them, and not mere political reform.
+  - This form of Socialism, thus, does not understand that the abolition of the capitalist relations of production can only happen through a revolution. 
+  - Instead, it pushes for administrative reforms, based on the continued existence of these relations.
+  - But these reforms merely lessen the cost, and simplify the administrative work, of capitalist government.
 
-A second, and more practical, but less systematic, form of this Socialism sought to depreciate every revolutionary movement in the eyes of the working class by showing that no mere political reform, but only a change in the material conditions of existence, in economical relations, could be of any advantage to them. 
+<!-- reforms, therefore, that in no respect affect the relations between capital and labour, but, at the best,  -->
 
-By changes in the material conditions of existence, this form of Socialism, however, by no means understands abolition of the capitalist relations of production, an abolition that can be affected only by a revolution, but administrative reforms, based on the continued existence of these relations; 
-
-reforms, therefore, that in no respect affect the relations between capital and labour, but, at the best, lessen the cost, and simplify the administrative work, of capitalist government.
-
-Capitalist Socialism is only a mere figure of speech.
-
-Free trade: for the benefit of the working class. 
-
-Protective duties: for the benefit of the working class. 
-
-Prison Reform: for the benefit of the working class. This is the last word and the only seriously meant word of capitalist socialism.
+Capitalist Socialism is only a mere figure of speech. They say:
+- "Free trade for the benefit of the working class."
+- "Protective duties for the benefit of the working class."
+- "Prison Reform for the benefit of the working class."
+  - This is the last word and the only seriously meant word of capitalist socialism.
 
 It is summed up in the phrase: Capitalism for the benefit of the working class.
-
- 

@@ -1,15 +1,13 @@
-+++
-title= "New Methods of preserving a Conquest"
-heading= "Chapter 15-17"
-date= 2015-09-26
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-description= "WHEN a conquest happens to be vastly large, it supposes a despotic power. And then the army dispersed in the provinces is not sufficient"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-10/chapter-14"
-linkbtext= "Chapter 14"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-11/chapter-1"
-linkftext= "Chapter 1"
-+++
+---
+heading: "Chapters 15-17"
+title: "New Methods of preserving a Conquest"
+linkTitle: "Chapters 15-17"
+weight: 20
+description: "WHEN a conquest happens to be vastly large, it supposes a despotic power. And then the army dispersed in the provinces is not sufficient"
+image: "/covers/spirit.jpg"
+author: "Montesquieu"
+---
+
 
 <!-- WHEN a , he may make use of an admirable method, equally proper for moderating despotic power and for preserving the conquest= it is a method practised by the conquerors of China.
  -->
