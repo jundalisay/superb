@@ -4,7 +4,7 @@ description: "Philosophers speculated about the condition of the world in the bo
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2a"
-date: 2020-01-30
+weight: 4
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: "THE CITY OF LEON TAKEN AND BURNT"
 heading: "Chapter 8b"
+weight: 32
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "The city of Leon is 20 mile up in the country. The way to it plain and even through a champion country of long grassy savannahs and spots of high woods"
@@ -11,7 +12,7 @@ icon: "/icons/dampier.png"
 
 The city of Leon is 20 mile up in the country. The way to it plain and even through a champion country of long grassy savannahs and spots of high woods. 
 
-About five mile from the landing-place there is a sugar-work, three mile farther there is another, and two mile beyond that there is a fine river to ford, which is not very deep, besides which there is no water in all the way till you come to an Indian town which is two miles before you come to the city, and from thence it is a pleasant straight sandy way to Leon. This city stands in a plain not far from a high peaked mountain which oftentimes casts forth fire and smoke from its top. 
+About 5 miles from the landing-place there is a sugar-work, three mile farther there is another, and two mile beyond that there is a fine river to ford, which is not very deep, besides which there is no water in all the way till you come to an Indian town which is two miles before you come to the city, and from thence it is a pleasant straight sandy way to Leon. This city stands in a plain not far from a high peaked mountain which oftentimes casts forth fire and smoke from its top. 
 
 It may be seen at sea and it is called the volcano of Leon. The houses of Leon are not high built but strong and large, with gardens about them. The walls are stone and the covering of pan-tile: there are three churches and a cathedral which is the head church in these parts. Our countryman Mr. Gage, who travelled in these parts, recommends it to the world as the pleasantest place in all America, and calls it the Paradise of the Indies. Indeed if we consider the advantage of its situation we may find it surpassing most places for health and pleasure in America, for the country about it is of a sandy soil which soon drinks up all the rain that falls, to which these parts are much subject. It is encompassed with savannahs; so that they have the benefit of the breezes coming from any quarter; all which makes it a very healthy place. It is a place of no great trade and therefore not rich in money. Their wealth lies in their pastures, and cattle, and plantations of sugar. It is said that they make cordage here of hemp, but if they have any such manufactory it is at some distance from the town, for here is no sign of any such thing.
 

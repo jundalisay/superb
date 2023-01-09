@@ -4,7 +4,8 @@ description: "Tahir's Letter to his Son Abdallah"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 49"
-date: 2020-01-02
+weight: 134
+author: Ibn Khaldun
 ---
 
 

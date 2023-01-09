@@ -4,7 +4,8 @@ description: "The Patriarch was called 'Pope' meaning 'Father of fathers'. It fi
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32a"
-date: 2019-11-30
+weight: 76
+author: Ibn Khaldun
 ---
 
 

@@ -4,7 +4,7 @@ description: "Royal authority is a noble and enjoyable position. It comprises al
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
-date: 2020-01-31
+weight: 8
 ---
 
 <!-- ## 1. Royal authority and large dynastic power are attained only through a group and group feeling -->

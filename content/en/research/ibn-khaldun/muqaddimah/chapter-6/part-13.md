@@ -4,7 +4,8 @@ description: "The science of the principles of jurisprudence and its subdivision
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 13"
-date: 2022-01-15
+weight: 30
+author: Ibn Khaldun
 ---
 
 

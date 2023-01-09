@@ -4,7 +4,7 @@ description: "The group feeling that leads to royal authority is a composite of 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 10"
-date: 2020-01-18
+weight: 22
 ---
 
 

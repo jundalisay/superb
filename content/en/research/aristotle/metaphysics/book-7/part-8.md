@@ -94,4 +94,8 @@ The natural things which (like the artificial objects previously considered) can
 
 But not only regarding substance does our argument prove that its form does not come to be, but the argument applies to all the primary classes alike, i.e. quantity, quality, and the other categories. 
 
-For as the brazen sphere comes to be, but not the sphere nor the brass, and so too in the case of brass itself, if it comes to be, it is its concrete unity that comes to be (for the matter and the form must always exist before), so is it both in the case of substance and in that of quality and quantity and the other categories likewise; for the quality does not come to be, but the wood of that quality, and the quantity does not come to be, but the wood or the animal of that size. But we may learn from these instances a peculiarity of substance, that there must exist beforehand in complete reality another substance which produces it, e.g. an animal if an animal is produced; but it is not necessary that a quality or quantity should pre-exist otherwise than potentially.
+For as the brazen sphere comes to be, but not the sphere nor the brass. 
+
+And so too in the case of brass itself, if it comes to be, it is its concrete unity that comes to be (for the matter and the form must always exist before), so is it both in the case of substance and in that of quality and quantity and the other categories likewise; for the quality does not come to be, but the wood of that quality, and the quantity does not come to be, but the wood or the animal of that size. 
+
+But we may learn from these instances a peculiarity of substance, that there must exist beforehand in complete reality another substance which produces it, e.g. an animal if an animal is produced; but it is not necessary that a quality or quantity should pre-exist otherwise than potentially.

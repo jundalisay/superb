@@ -3,8 +3,8 @@ title: "Zone 7"
 description: "Half of this section is mostly covered by the sea, which stretches eastward in a curving line along the northern part, then runs southward along the eastern part, and ends near the southern part of the section"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 2h"
-date: 2020-01-21
+heading: "Part 2j"
+weight: 22
 ---
 
 

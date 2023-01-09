@@ -4,7 +4,7 @@ description: "The size of monuments is proportional to the importance of the var
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
-date: 2020-01-28
+weight: 1
 ---
 
 <!-- ## 3. Only a strong royal authority is able to construct large cities and high monuments -->

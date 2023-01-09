@@ -5,7 +5,7 @@ description: "Habits result only from repeated action. An action is done first o
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 44c"
-date: 2021-10-31
+weight: 1
 ---
 
 

@@ -4,7 +4,8 @@ description: "The ministry of taxation is is concerned with tax operations and g
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32e"
-date: 2019-11-24
+weight: 84
+author: Ibn Khaldun
 ---
 
 

@@ -4,7 +4,8 @@ description: "The science of inheritance laws is the knowledge of estate divisio
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12b"
-date: 2022-01-17
+weight: 28
+author: Ibn Khaldun
 ---
 
 

@@ -1,6 +1,18 @@
-ISLE OF OTOQUE.
+---
+title: "ISLE OF OTOQUE"
+heading: "Chapter 7d"
+weight: 28
+author: "William Dampier"
+image: "/covers/voyage.jpg"
+description: "While we lay here, Captain Davis's bark went to the Otoque island."
+icon: "/icons/dampier.png"
+---
 
-While we lay here Captain Davis's bark went to the island Otoque. This is another inhabited island in the Bay of Panama; not so big as Tabago, yet there are good plantain-walks on it, and some Negroes to look after them. These Negroes rear fowls and hogs for their masters, who live at Panama; as at the King's Islands.
+
+
+While we lay here, Captain Davis's bark went to the Otoque island. 
+
+This is another inhabited island in the Bay of Panama. It is not so big as Tabago, yet there are good plantain-walks on it, and some Negroes to look after them. These Negroes rear fowls and hogs for their masters, who live at Panama; as at the King's Islands.
 
 THE PACKET FROM LIMA TAKEN, OTHER ENGLISH AND FRENCH PRIVATEERS ARRIVE.
 

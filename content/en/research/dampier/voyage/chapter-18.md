@@ -4,6 +4,7 @@ heading: "Chapter 18"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: ""
+weight: 76
 icon: "/icons/dampier.png"
 ---
 

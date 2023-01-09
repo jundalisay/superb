@@ -4,7 +4,8 @@ description: "The Mutazilah extended the subject to the negative verses and deci
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 14c"
-date: 2022-01-08
+weight: 38
+author: Ibn Khaldun
 ---
 
 

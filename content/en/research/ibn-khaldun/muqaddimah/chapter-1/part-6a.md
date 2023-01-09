@@ -1,15 +1,13 @@
-+++
-title= "The types of human beings who have supernatural perception"
-description= "God has chosen certain individuals so that they might know Him. He made them connecting links between Himself and His servants."
-image= "/covers/muq.jpg"
-linkb= "/research/ibn-khaldun/muqaddimah/chapter-1/part-5"
-linkbtext= "part-5"
-linkf= "/research/ibn-khaldun/muqaddimah/chapter-1/part-6b"
-linkftext= "part-6b"
-heading= "Part 6a"
-icon = "/icons/ibn.jpg"
-date = 2020-01-17
-+++
+---
+title: "The types of human beings who have supernatural perception"
+description: "God has chosen certain individuals so that they might know Him. He made them connecting links between Himself and His servants"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 6a"
+weight: 30
+---
+
+
 
 <!-- SIXTH PREFATORY DISCUSSION
 The various types of human beings who have supernatural perception either through natural disposition or

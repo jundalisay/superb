@@ -4,7 +4,8 @@ description: "Livelihood (making a living) means the desire for sustenance and t
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2"
-date: 2022-01-28
+weight: 12
+author: Ibn Khaldun
 ---
 
 

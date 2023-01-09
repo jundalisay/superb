@@ -4,7 +4,7 @@ description: "To be caliph in reality means acting as substitute for Muhammad wi
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 29b"
-date: 2019-12-08
+weight: 68
 ---
 
 

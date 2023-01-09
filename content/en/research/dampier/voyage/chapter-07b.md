@@ -1,6 +1,7 @@
 ---
 title: "THE SPANISH ARMADA"
 heading: "Chapter 7"
+weight: 24
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"

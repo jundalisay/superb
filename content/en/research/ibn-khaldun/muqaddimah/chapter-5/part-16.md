@@ -4,7 +4,8 @@ description: "The crafts are perfected only if there exists a large and perfect 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 16-19"
-date: 2022-01-16
+weight: 24
+author: Ibn Khaldun
 ---
 
 

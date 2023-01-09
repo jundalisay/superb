@@ -4,7 +4,8 @@ description: "Some scholars considered him weak, others reliable"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 51d"
-date: 2019-12-24
+weight: 144
+author: Ibn Khaldun
 ---
  
 

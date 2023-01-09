@@ -3,6 +3,7 @@ title: "The Hodmadods Or Hottentots, the Natural Inhabitants Of The Cape Of Good
 heading: "Chapter 20"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
+weight: 82
 description: ""
 icon: "/icons/dampier.png"
 ---
@@ -10,7 +11,7 @@ icon: "/icons/dampier.png"
 
 The natural inhabitants of the Cape are the Hodmadods, as they are commonly called, which is a corruption of the word Hottentot; for this is the name by which they call to one another, either in their dances or on any occasion; as if every one of them had this for his name. The word probably has some signification or other in their language, whatever it is.
 
-## THEIR PERSONAGE, GARB, BESMEARING THEMSELVES; THEIR CLOTHING, HOUSES, FOOD, WAY OF LIVING, AND DANCING AT THE FULL OF THE MOON: COMPARED IN THOSE RESPECTS WITH OTHER NEGROES AND WILD INDIANS.
+## Their Personage, Garb, Besmearing Themselves; Their Clothing, Houses, Food, Way Of Living, And Dancing At The Full Of The Moon: Compared In Those Respects With Other Negroes And Wild Indians.
 
 These Hottentots are people of a middle stature with small limbs and thin bodies, full of activity. Their faces are of a flat oval figure, of the Negro make, with great eyebrows, black eyes, but neither are their noses so flat, nor their lips so thick, as the Negroes of Guinea. Their complexion is darker than the common Indians; though not so black as the Negroes or New Hollanders; neither is their hair so much frizzled.
 

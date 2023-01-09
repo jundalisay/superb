@@ -4,7 +4,7 @@ description: "The group to which a given dynasty belongs and the people who supp
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 5"
-date: 2020-01-25
+weight: 16
 ---
 
 

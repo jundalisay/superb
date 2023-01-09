@@ -3,8 +3,9 @@ title: "The Science of the secrets of letters"
 description: "The word was transferred from talismans to this science and used in this conventional meaning in the technical terminology of Sufi practitioners of magic"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 27b"
-date: 2021-12-02
+heading: "Part 28"
+weight: 78
+author: Ibn Khaldun
 ---
 
 

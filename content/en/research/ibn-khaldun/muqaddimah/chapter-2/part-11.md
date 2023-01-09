@@ -4,7 +4,8 @@ description: "This is because leadership exists only through superiority, and su
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 11-12"
-date: 2020-01-22
+weight: 16
+author: Ibn Khaldun
 ---
 
 

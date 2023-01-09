@@ -4,7 +4,8 @@ description: "Malik b. Anas was followed by Muhammad b. Idris al-Muttalibi ash-S
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12b"
-date: 2022-01-18
+weight: 26
+author: Ibn Khaldun
 ---
 
 

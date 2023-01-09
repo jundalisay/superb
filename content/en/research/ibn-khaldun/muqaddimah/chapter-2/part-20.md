@@ -4,7 +4,7 @@ description: "A sign of the qualification of an individual for royal authority i
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 20"
-date: 2020-01-10
+weight: 28
 ---
 
 

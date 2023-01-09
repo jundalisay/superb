@@ -4,7 +4,8 @@ description: "The geometrical sciences are Astronomy, Surveying, Optics"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 20"
-date: 2021-12-16
+weight: 62
+author: Ibn Khaldun
 ---
 
 

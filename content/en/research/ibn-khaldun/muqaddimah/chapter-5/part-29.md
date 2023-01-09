@@ -4,7 +4,8 @@ description: "Writing is the outlining and shaping of letters to indicate audibl
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 29"
-date: 2022-01-04
+weight: 36
+author: Ibn Khaldun
 ---
 
 

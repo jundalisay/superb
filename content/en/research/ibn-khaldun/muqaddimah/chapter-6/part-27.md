@@ -3,8 +3,9 @@ title: "The Sciences of sorcery and talismans"
 description: "These show how human souls may become prepared to exercise an influence upon the world of the elements, either without any aid or with the aid of celestial matters"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 26"
-date: 2021-12-06
+heading: "Part 27"
+weight: 74
+author: Ibn Khaldun
 ---
 
 

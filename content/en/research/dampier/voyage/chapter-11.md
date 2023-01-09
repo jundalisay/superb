@@ -2,6 +2,7 @@
 title: "Resolving To Go To Mindanao"
 heading: "Chapter 11"
 author: "William Dampier"
+weight: 44
 image: "/covers/voyage.jpg"
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 icon: "/icons/dampier.png"

@@ -4,7 +4,7 @@ description: "Some of the Wigifiyah say that the imam who died will return to ac
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 25b"
-date: 2019-12-23
+weight: 48
 ---
 
 

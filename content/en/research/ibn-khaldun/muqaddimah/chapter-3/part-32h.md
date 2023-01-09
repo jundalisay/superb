@@ -4,7 +4,7 @@ description: "In Ifriqiyah, the chief of police is now called the 'magistrate' (
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32h"
-date: 2020-11-20
+weight: 90
 author: Ibn Khaldun
 ---
 

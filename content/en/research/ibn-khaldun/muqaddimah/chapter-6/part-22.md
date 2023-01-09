@@ -3,8 +3,9 @@ title: "The science of logic"
 description: "Logic concerns the norms enabling a person to distinguish between right and wrong, both in definitions that give information about the essence of things, and in arguments that assure apperception"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 20"
-date: 2021-12-12
+heading: "Part 22"
+weight: 66
+author: Ibn Khaldun
 ---
 
 

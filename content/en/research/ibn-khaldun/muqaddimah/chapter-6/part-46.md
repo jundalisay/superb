@@ -4,7 +4,7 @@ description: "Languages and (linguistic) habits are not matters of chance"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 45b"
-date: 2021-10-24
+weight: 1
 ---
 
 

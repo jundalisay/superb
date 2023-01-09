@@ -3,8 +3,9 @@ title: "The Science of Astronomy"
 description: "Astronomy studies the motions of the fixed stars and the planets"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 20"
-date: 2021-12-14
+heading: "Part 21"
+weight: 64
+author: Ibn Khaldun
 ---
 
 

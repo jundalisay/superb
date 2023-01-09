@@ -1,6 +1,7 @@
 ---
 title: "ISLES OF CHAMETLY"
 heading: "Chapter 9c"
+weight: 38
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "The keys or islands of Chametly are about 16 or 18 leagues to the eastward of Cape Corrientes"

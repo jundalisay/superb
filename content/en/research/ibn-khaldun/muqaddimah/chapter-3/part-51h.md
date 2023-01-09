@@ -1,13 +1,38 @@
-The group feeling of the Fatimids and the Talibids, indeed, that of all the Quraysh, has everywhere disappeared. There are other nations, whose group feeling has gained the upper hand over that of the Quraysh. The only exception is a remnant
-of the Talibids-Hasanids, Husaynids, and Ja'farites 982 - in the Hijaz, in Mecca, al-
-Yanbu', and Medina. They are spread over these regions and dominate them. They
-are Bedouin groups. They are settled and rule in different places and hold divergent
-opinions. They number several thousands. If it is correct that a Mahdi is to appear,
-there is only one way for his propaganda to make its appearance. He must be one of
+---
+title: "The Fatimids, the Talibids, the Quraysh"
+description: "The group feeling of the Fatimids and the Talibids, that of all the Quraysh, has everywhere disappeared"
+image: "/covers/muq.jpg"
+icon: "/icons/ibn.jpg"
+heading: "Part 51h"
+weight: 150
+author: Ibn Khaldun
+---
+
+
+
+The group feeling of the Fatimids and the Talibids, that of all the Quraysh, has everywhere disappeared. 
+
+There are other nations, whose group feeling has gained the upper hand over that of the Quraysh. 
+
+The only exception is a remnant of the Talibids-Hasanids, Husaynids, and Ja'farites 982 - in:
+- the Hijaz
+- Mecca
+- al-Yanbu
+- Medina. 
+
+They are Bedouin groups and are spread over these regions and dominate them.
+
+They are settled and rule in different places and hold divergent
+opinions. 
+
+They number several thousands. 
+
+If it is correct that a Mahdi is to appear, there is only one way for his propaganda to make its appearance. He must be one of
 them, and God must unite them in the intention to follow him, until he gathers
 enough strength and group feeling to gain success for his cause and to move the
-people to support him. Any other way -such as a Fatimid who would make
-propaganda for (the cause of the Mahdi) among people anywhere at all, without the
+people to support him. 
+
+Any other way -such as a Fatimid who would make propaganda for (the cause of the Mahdi) among people anywhere at all, without the
 support of group feeling and power, by merely relying on his relationship to the
 family of Muhammad - will not be feasible or successful, for the sound reasons that
 we have mentioned previously.

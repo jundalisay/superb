@@ -4,7 +4,8 @@ description: "Architecture is the oldest craft of sedentary civilization. It is 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 24"
-date: 2022-01-12
+weight: 28
+author: Ibn Khaldun
 ---
 
 

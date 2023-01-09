@@ -4,7 +4,7 @@ description: "Group feeling is necessary to the Muslim community. Its existence 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 26b"
-date: 2019-12-20
+weight: 52
 ---
 
 

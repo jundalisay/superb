@@ -5,7 +5,7 @@ decays inevitably. No human being exists who possesses an unbroken pedigree of n
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 13"
-date: 2020-01-18
+weight: 20
 ---
 
 

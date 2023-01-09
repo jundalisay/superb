@@ -4,7 +4,8 @@ description: "Scholars studied the basic premises the earlier theologians had es
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 14d"
-date: 2022-01-07
+weight: 40
+author: Ibn Khaldun
 ---
 
 

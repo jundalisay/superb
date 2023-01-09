@@ -4,7 +4,8 @@ description: "The person of rank who is highly esteemed is in every material asp
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Parts 5-7"
-date: 2022-01-22
+weight: 18
+author: Ibn Khaldun
 ---
 
 

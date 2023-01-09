@@ -4,7 +4,8 @@ description: "The first perceptible consequence of a dynasty's senility is that 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 43"
-date: 2020-10-20
+weight: 120
+author: Ibn Khaldun
 ---
 
 

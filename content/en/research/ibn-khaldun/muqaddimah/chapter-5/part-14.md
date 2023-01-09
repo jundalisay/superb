@@ -4,7 +4,8 @@ description: "A merchant concerns himself with buying and selling, earning money
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Parts 14-15"
-date: 2022-01-18
+weight: 22
+author: Ibn Khaldun
 ---
 
 

@@ -4,7 +4,8 @@ description: "At the beginning of Islam, all battles were fought in closed forma
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 35b"
-date: 2020-11-04
+weight: 106
+author: Ibn Khaldun
 ---
 
 

@@ -4,8 +4,10 @@ description: "The historians of Baghdad report that in the days of alMuqtadir, t
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 52"
-date: 2020-01-31
+weight: 156
+author: Ibn Khaldun
 ---
+
 
 
 The historians of Baghdad report that in the days of alMuqtadir, there lived in Baghdad a skillful copyist by the name of ad-Daniyali. <!-- 1097 --> 

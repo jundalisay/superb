@@ -3,8 +3,9 @@ title: "The Za'irajah"
 description: "The Zairajah is a branch of the science of letter magic, practiced among the authorities on letter magic, is the technique of finding out answers from questions by means of connections existing between the letters of the expressions used in the question"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 27c"
-date: 2021-11-30
+heading: "Part 28c"
+author: Ibn Khaldun
+weight: 82
 ---
 
 

@@ -4,7 +4,7 @@ description: "A student's whole lifetime would not suffice to know all the liter
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 34"
-date: 2021-11-12
+weight: 1
 ---
 
 

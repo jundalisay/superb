@@ -4,7 +4,7 @@ description: "Astrologers think that astrology enables them to know the things t
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 31"
-date: 2021-11-20
+weight: 1
 ---
 
 

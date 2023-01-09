@@ -4,7 +4,7 @@ description: "This is concerned with explaining the (conventional) meanings of t
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 44b"
-date: 2021-11-01
+weight: 1
 ---
 
 

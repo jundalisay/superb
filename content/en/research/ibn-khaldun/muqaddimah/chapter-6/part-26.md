@@ -4,8 +4,10 @@ description: "This studies the substance through which the generation of gold an
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 26"
-date: 2021-12-06
+weight: 72
+author: Ibn Khaldun
 ---
+
 
 This studies existence. 
 

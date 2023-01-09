@@ -3,6 +3,7 @@ title: "RAJA LAUT THE GENERAL AND HIS FAMILY"
 heading: "Chapter 12"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
+weight: 50
 description: "There is a difference between our sensation of light and what is in the objects that produces that sensation"
 icon: "/icons/dampier.png"
 ---

@@ -4,7 +4,8 @@ description: "In the Maghrib, there is a type of magical practitioners who are k
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 27b"
-date: 2021-12-04
+weight: 76
+author: Ibn Khaldun
 ---
 
 

@@ -4,7 +4,7 @@ description: "Taste attests to the fact that these things are needed by the stud
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 47"
-date: 2021-10-22
+weight: 1
 ---
 
 

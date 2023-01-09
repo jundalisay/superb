@@ -4,7 +4,7 @@ description: "There are seven purposes for creating a literary work."
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 33"
-date: 2021-11-14
+weight: 1
 ---
 
 

@@ -4,7 +4,7 @@ description: "Religious propaganda gives a dynasty at its beginning more power i
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 5"
-date: 2020-01-27
+weight: 14
 ---
 
 

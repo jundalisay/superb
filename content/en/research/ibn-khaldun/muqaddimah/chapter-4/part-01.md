@@ -4,7 +4,7 @@ description: "Towns and cities are secondary products of royal authority because
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
-date: 2020-01-31
+weight: 1
 ---
 
 

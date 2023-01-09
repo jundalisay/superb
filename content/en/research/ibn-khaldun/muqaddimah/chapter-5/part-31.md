@@ -4,7 +4,8 @@ description: "This sets poems to music by scanning the sounds according to well-
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 31"
-date: 2022-01-01
+weight: 42
+author: Ibn Khaldun
 ---
 
 

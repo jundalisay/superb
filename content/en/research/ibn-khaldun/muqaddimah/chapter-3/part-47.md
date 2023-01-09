@@ -4,7 +4,8 @@ description: "When the ruling dynasty starts on the road to senility and destruc
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 47"
-date: 2020-01-06
+weight: 128
+author: Ibn Khaldun
 ---
 
 

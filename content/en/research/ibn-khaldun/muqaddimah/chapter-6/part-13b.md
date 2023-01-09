@@ -4,7 +4,8 @@ description: "Differences of opinion result from the different sources they use 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 13b"
-date: 2022-01-13
+weight: 32
+author: Ibn Khaldun
 ---
 
 

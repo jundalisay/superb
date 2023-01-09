@@ -4,7 +4,7 @@ description: "The influence of the air upon the color of human beings and upon m
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
-date: 2020-01-20
+weight: 24
 ---
 
 

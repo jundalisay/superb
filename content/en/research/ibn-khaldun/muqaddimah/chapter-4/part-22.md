@@ -4,7 +4,7 @@ description: "This is because the activities of the citizens necessitate each ot
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 22"
-date: 2020-01-04
+weight: 1
 ---
 
 

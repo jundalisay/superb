@@ -1,6 +1,7 @@
 ---
 title: "CRUISING WITH THE PRIVATEERS IN THE NORTH SEAS ON THE WEST INDIA COAST"
 heading: "Chapter 3"
+weight: 8
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "On April 8, 1684 we sailed from the isle of Juan Fernandez with the wind at south-east"

@@ -3,8 +3,9 @@ title: "The Five Universals"
 description: "When the theologians invented the science of speculative theology, in order to support the articles of faith with rational evidence, their approach was to use  particular evidence"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 20"
-date: 2021-12-10
+heading: "Part 22b"
+weight: 68
+author: Ibn Khaldun
 ---
 
 

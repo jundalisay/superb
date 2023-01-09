@@ -3,6 +3,7 @@ title: "Their Coasting Along Mindanao, From East to Southeast"
 heading: "Chapter 13"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
+weight: 52
 description: "It was in a bay on the north-east side of the island that we came to an anchor, as has been said. We lay in this bay but one night and part of the next day"
 icon: "/icons/dampier.png"
 ---

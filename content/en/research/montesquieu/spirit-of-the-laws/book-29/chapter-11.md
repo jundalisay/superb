@@ -1,17 +1,16 @@
-+++
-title=  "Sylla, Pompey, and Caesar"
-heading=  "Chapter 11 of The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-10"
-linkbtext=  "Chapter 10"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-12"
-linkftext=  "Chapter 12"
-+++
+---
+title: "Sylla, Pompey, and Caesar"
+heading: Chapter 11
+# date: 2022-04-13
+image: /covers/spirit.jpg
+description: "The aether drag has always been in the measurements done by physicists on light"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-I will not discuss the horrors of the wars between Marius and Sylla. Appian has collected all the dreadful particulars into this history=  
+
+
+I will not discuss the horrors of the wars between Marius and Sylla. Appian has collected all the dreadful particulars into this history.
 
 Both chiefs were jealous, ambitious, barbarous, and furious. The new citizens, and the ancient, no longer considered each other as members of the same republic, but gave a loose to a series of hostilities, so peculiar in their nature, as to comprehend all the miseries of a civil and foreign war.
 
@@ -114,23 +113,52 @@ One day, when the senate tendered him some particular honours, he neglected to r
 
 Mankind are always most offended at any trespass on the ceremonials and punctilios they expect. If you endeavour to oppress them, it sometimes passes for a proof of the esteem you entertain for them, but a violation of their decorums is always an instance of contempt.
 
-Cæsar, who was a constant enemy to the senate, could not conceal the mean opinion he entertained of that body, who had almost rendered themselves ridiculous, when they were no longer in possession of power=  for which reason even his clemency was an insult, and it became evident that he only pardoned because he scorned to punish.
+Cæsar was a constant enemy to the senate. He could not conceal the mean opinion he entertained of that body, who had almost rendered themselves ridiculous, when they were no longer in possession of power=  for which reason even his clemency was an insult, and it became evident that he only pardoned because he scorned to punish.
 
-Cæsar formed the edicts of the senate himself, and subscribed them with the names of the first senators he happened to think on. Cicero, in the ninth book of his familiar letters, writes to this effect=  “I have been sometimes informed, that an edict of the senate passed by my consent, has been transmitted to Syria and Armenia, before I had any knowledge that it was made; and several princes have sent me letters of acknowledgment for my consent, to allow them the title of kings, when, at the same time, I was so far from knowing them to be kings till that moment, that I even had not heard there were any such persons in the world.”
+Cæsar:
+- formed the edicts of the senate himself
+- subscribed them with the names of the first senators he happened to think on.
+
+Cicero, in the ninth book of his familiar letters, writes to this effect: 
+
+“I have been sometimes informed, that an edict of the senate passed by my consent, has been transmitted to Syria and Armenia, before I had any knowledge that it was made; and several princes have sent me letters of acknowledgment for my consent, to allow them the title of kings, when, at the same time, I was so far from knowing them to be kings till that moment, that I even had not heard there were any such persons in the world.”
 
 
-We may see, in the letters of some great men of that time, though they passed under. Cicero’s name, because most of them were written by himself, into what dejection and despair persons of the first rank in the republic were sunk by this sudden revolution, which divested them of their honours, and even their employments; when the senate, having no longer any functions to perform, that reputation they had acquired through all the world, was now to be dispensed from the cabinet of one man. 
+The letters of some great men of that time passed under Cicero’s name because most of them were written by himself, 
 
-This state of affairs appears in a much better light in those letters, than in any relations of historians; and they are the most masterly representation of the ingenuous turn of mind of a set of people united by a common affliction, and give us a complete portrait of an age wherein a false politeness had not infected all society with insincerity and untruth. 
+These show into what dejection and despair persons of the first rank in the republic were sunk by this sudden revolution. It divested them of their honours, and even their employments. 
+
+When the senate, having no longer any functions to perform, that reputation they had acquired through all the world, was now to be dispensed from the cabinet of one man. 
+
+This state of affairs appears in a much better light in those letters, than in any relations of historians. 
+
+They are the most masterly representation of the ingenuous turn of mind of a set of people united by a common affliction. They give us a complete portrait of an age wherein a false politeness had not infected all society with insincerity and untruth. 
 
 In a word, they are not written like out modern letters, with a view to deceive, but are the faithful intercourse of friends, who communicated all they knew.
 
 It was hardly possible for Caesar, in his situation, to preserve his life=  the generality of the conspirators against him, were of his party, or had received many great obligations from him, and the reason of their intention to assassinate him, is very natural; they had gained signal advantages by his conquest, but the more their fortune improved, the greater was their share of the common calamity, and to those who have not any thing they can properly call their own, it seems, in some particulars, to be of little consequence under what government they live.
 
-Besides, there was a certain law of nations, or a settled opinion which prevailed in all the republics of Greece and Italy, and ascribed the character of a virtuous man to the person who should assassinate any one who had usurped the sovereign power. Rome had been extremely fond of this notion, ever since the expulsion of her kings=  the law was very express; the examples had a general approbation; the republic put a sword into the hand of every citizen, constituted him their magistrate for a few moments, and acknowledged him for their defender.
+Besides, there was a certain law of nations, or a settled opinion which prevailed in all the republics of Greece and Italy, and ascribed the character of a virtuous man to the person who should assassinate any one who had usurped the sovereign power. Rome had been extremely fond of this notion, ever since the expulsion of her kings: the law was very express. 
 
-Brutus was bold enough to tell his friends that, should his own father return from the grave, he would sacrifice him to the public good, with as little remorse as he stabbed Cæsar. By the continuance of tyranny, this surprising spirit of liberty had gradually lost its vigour, yet the conspiracies, at the beginning of Augustus’s reign, were perpetually reviving.
+The examples had a general approbation; the republic put a sword into the hand of every citizen, constituted him their magistrate for a few moments, and acknowledged him for their defender.
 
-The ancient Romans were animated by a predominant love for their country, which, acting by a variation from the common ideas of crimes and virtues, was only attentive to its own dictates, and in the fervors of its operation entirely disregarded friends and citizens, fathers and benefactors. Virtue seemed to have forgotten her own precepts, with a resolution to surpass herself, and when an action seemed too severe to be immediately considered with approbation, she soon caused it to be admired as divine.
+Brutus was bold enough to tell his friends that, should his own father return from the grave, he would sacrifice him to the public good, with as little remorse as he stabbed Cæsar. 
 
-In a word, did not the guilt of Cæsar, who lived in a free government, consist in placing himself out of the reach of all punishments but an assassination? And when we ask why he was not opposed by open force, or the power of the laws, do we not at the same time demand satisfaction for his crimes?
+By the continuance of tyranny, this surprising spirit of liberty had gradually lost its vigour, yet the conspiracies, at the beginning of Augustus’s reign, were perpetually reviving.
+
+The ancient Romans were animated by a predominant love for their country. 
+
+This love was:
+- different from the common ideas of crimes and virtues
+- attentive only to its own dictates
+
+In the fervors of its operation, this love entirely disregarded friends and citizens, fathers and benefactors. 
+
+Virtue was forgotten from her own precepts, with a resolution to surpass herself. 
+
+When an action seemed too severe to be immediately considered with approbation, she soon caused it to be admired as divine.
+
+
+Cæsar lived in a free government. His guilt was in placing himself out of the reach of all punishments but an assassination. 
+
+We demand punishment for his crimes when we ask why he was not opposed by open force, or the power of the laws.

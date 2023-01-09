@@ -1,6 +1,7 @@
 ---
 title: "THE AIR AND WEATHER AT PANAMA"
 heading: "Chapter 7c"
+weight: 26
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "There are no woods nor marshes near Panama, but a brave dry champion land, not subject to fogs nor mists. The wet season begins in the latter end of May and continues till November. At that time the sea-breezes are at south-south-west and the land-winds at north"
@@ -8,11 +9,24 @@ icon: "/icons/dampier.png"
 ---
 
 
-There are no woods nor marshes near Panama, but a brave dry champion land, not subject to fogs nor mists. The wet season begins in the latter end of May and continues till November. At that time the sea-breezes are at south-south-west and the land-winds at north. At the dry season the winds are most betwixt the east-north-east and the north. Yet off in the bay they are commonly at south; but of this I shall be more particular in my Chapter of Winds in the Appendix. The rains are not so excessive about Panama itself as on either side of the bay; yet in the months of June, July, and August, they are severe enough. Gentlemen that come from Peru to Panama, especially in these months, cut their hair close to preserve them from fevers; for the place is sickly to them, because they come out of a country which never has any rains or fogs but enjoys a constant serenity; but I am apt to believe this city is healthy enough to any other people. Thus much for Panama.
+There are no woods nor marshes near Panama, but a brave dry champion land, not subject to fogs nor mists. 
 
-## THE ISLES OF PERICO.
+The wet season begins in the latter end of May and continues till November. At that time the sea-breezes are at south-south-west and the land-winds at north. 
 
-The 20th day we went and anchored within a league of the islands Perico (which are only 3 little barren rocky islands) in expectation of the president of Panama's answer to the letter I said we sent him by Don Diego, treating about exchange of prisoners; this being the day on which he had given us his parole to return with an answer. The 21st day we took another bark laden with hogs, fowls, salt-beef and molasses; she came from Lavelia, and was going to Panama. In the afternoon we sent another letter ashore by a young Mestizo (a mixed brood of Indians and Europeans) directed to the president, and 3 or 4 copies of it to be dispersed abroad among the common people. This letter, which was full of threats, together with the young man's managing the business, wrought so powerfully among the common people that the city was in an uproar. The president immediately sent a gentleman aboard, who demanded the flour-prize that we took off of Gallo and all the prisoners for the ransom of our two men: but our captains told him they would exchange man for man. The gentleman said he had not orders for that, but if we would stay till the next day he would bring the governors' answer. The next day he brought aboard our two men and had about 40 prisoners in exchange.
+At the dry season the winds are most between the east-north-east and the north. 
+
+Yet off in the bay they are commonly at south; but of this I shall be more particular in my Chapter of Winds in the Appendix. The rains are not so excessive about Panama itself as on either side of the bay; yet in the months of June, July, and August, they are severe enough. 
+
+Gentlemen that come from Peru to Panama, especially in these months, cut their hair close to preserve them from fevers; for the place is sickly to them, because they come out of a country which never has any rains or fogs but enjoys a constant serenity; but I am apt to believe this city is healthy enough to any other people. Thus much for Panama.
+
+
+## THE ISLES OF PERICO
+
+The 20th day we went and anchored within a league of the islands Perico which are only 3 little barren rocky islands. 
+
+We were expecting the president of Panama's answer to the letter I said we sent him by Don Diego, treating about exchange of prisoners.
+
+This being the day on which he had given us his parole to return with an answer. The 21st day we took another bark laden with hogs, fowls, salt-beef and molasses; she came from Lavelia, and was going to Panama. In the afternoon we sent another letter ashore by a young Mestizo (a mixed brood of Indians and Europeans) directed to the president, and 3 or 4 copies of it to be dispersed abroad among the common people. This letter, which was full of threats, together with the young man's managing the business, wrought so powerfully among the common people that the city was in an uproar. The president immediately sent a gentleman aboard, who demanded the flour-prize that we took off of Gallo and all the prisoners for the ransom of our two men: but our captains told him they would exchange man for man. The gentleman said he had not orders for that, but if we would stay till the next day he would bring the governors' answer. The next day he brought aboard our two men and had about 40 prisoners in exchange.
 
 
 ## TABAGO, A PLEASANT ISLAND.

@@ -4,7 +4,8 @@ description: "Many jurists and muftis have undertaken to refute these and simila
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 16d"
-date: 2021-12-26
+weight: 52
+author: Ibn Khaldun
 ---
 
 

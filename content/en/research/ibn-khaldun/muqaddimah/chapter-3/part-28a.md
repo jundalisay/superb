@@ -4,7 +4,7 @@ description: "The appointment of a successor to the Caliph is part of the religi
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 27"
-date: 2019-12-16
+weight: 56
 ---
 
 

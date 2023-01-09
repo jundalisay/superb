@@ -4,7 +4,7 @@ description: "The accumulation of estates and farms in cities, their uses and yi
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 15"
-date: 2020-01-14
+weight: 1
 ---
 
 

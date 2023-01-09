@@ -4,7 +4,7 @@ description: "Arabic language has 4 pillars: lexicography, grammar, syntax and s
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 44"
-date: 2021-11-02
+weight: 1
 ---
 
 

@@ -4,7 +4,8 @@ description: "In his Kitab as-Sunan, Ibn Majah published the following tradition
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 51d"
-date: 2019-12-25
+weight: 142
+author: Ibn Khaldun
 ---
  
 

@@ -4,7 +4,8 @@ description: "The sciences are numerous only where civilization is large and sed
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 8"
-date: 2022-01-24
+weight: 18
+author: Ibn Khaldun
 ---
 
 

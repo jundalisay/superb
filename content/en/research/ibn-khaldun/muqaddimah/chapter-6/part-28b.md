@@ -4,7 +4,8 @@ description: "An innate ability for sorcery requires exercise, in order to be ca
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 28b"
-date: 2021-12-01
+weight: 80
+author: Ibn Khaldun
 ---
 
 

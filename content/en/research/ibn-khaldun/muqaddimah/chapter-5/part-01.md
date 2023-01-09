@@ -4,7 +4,8 @@ description: "Man, by nature, needs something to feed him and to provide for him
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
-date: 2022-01-31
+weight: 10
+author: Ibn Khaldun
 ---
 
 

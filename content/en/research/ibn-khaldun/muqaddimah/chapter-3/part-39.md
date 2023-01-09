@@ -4,7 +4,8 @@ description: "After royal authority has obtained control over his people, he pre
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 39"
-date: 2020-10-28
+weight: 112
+author: Ibn Khaldun
 ---
 
 

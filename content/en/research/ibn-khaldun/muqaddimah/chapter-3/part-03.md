@@ -4,7 +4,7 @@ description: "The group feeling in which a member of a royal family shares may h
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
-date: 2020-01-29
+weight: 12
 ---
 
 

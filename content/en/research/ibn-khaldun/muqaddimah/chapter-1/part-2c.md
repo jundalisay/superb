@@ -4,7 +4,7 @@ description: "The ancient philosophers divided the cultivated part of the earth 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2c"
-date: 2020-01-28
+weight: 8
 ---
 
 

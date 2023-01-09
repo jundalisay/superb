@@ -4,7 +4,7 @@ description: "There are few cities and towns in Ifriqiyah and the Maghrib"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 11"
-date: 2020-01-20
+weight: 1
 ---
 
 

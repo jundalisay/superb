@@ -4,7 +4,8 @@ description: "Sufism is based on the assumption that the method of the Sufis was
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 16"
-date: 2022-01-01
+weight: 46
+author: Ibn Khaldun
 ---
 
 

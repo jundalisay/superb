@@ -3,7 +3,8 @@ title: "St. Helena Island and Return to England"
 heading: "Chapter 20b"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
-description: ""
+weight: 84
+description: "On May 23, we sailed from the Cape in the company of the James and Mary and the Josiah, directing our course towards the island St. Helena"
 icon: "/icons/dampier.png"
 ---
 

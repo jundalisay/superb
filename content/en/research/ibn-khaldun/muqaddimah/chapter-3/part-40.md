@@ -4,7 +4,7 @@ description: "If the ruler holds on to property and revenue, or if they are lost
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 40"
-date: 2020-10-26
+weight: 114
 ---
 
 

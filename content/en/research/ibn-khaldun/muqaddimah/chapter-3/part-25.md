@@ -4,7 +4,7 @@ description: "Shi'ah means 'companions and followers'"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 25"
-date: 2019-12-25
+weight: 46
 ---
 
 

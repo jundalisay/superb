@@ -4,7 +4,7 @@ description: "Parallel to the courses of all these stars in their spheres, there
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2b"
-date: 2020-01-29
+weight: 6
 ---
 
 

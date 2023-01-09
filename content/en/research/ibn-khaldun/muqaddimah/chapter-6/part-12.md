@@ -4,7 +4,8 @@ description: "Jurisprudence is the knowledge of the classification of the laws o
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12"
-date: 2022-01-20
+weight: 24
+author: Ibn Khaldun
 ---
 
 

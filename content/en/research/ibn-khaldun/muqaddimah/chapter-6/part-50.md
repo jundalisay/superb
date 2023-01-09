@@ -4,7 +4,7 @@ description: "If another habit previously occupied the place of that habit, the 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 50"
-date: 2021-10-18
+weight: 1
 ---
 
 

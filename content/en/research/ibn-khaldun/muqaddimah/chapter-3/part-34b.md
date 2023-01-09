@@ -4,7 +4,8 @@ description: "This is concerned with the stamping of the dinars and dirhams used
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 34b"
-date: 2020-11-14
+weight: 96
+author: Ibn Khaldun
 ---
 
 

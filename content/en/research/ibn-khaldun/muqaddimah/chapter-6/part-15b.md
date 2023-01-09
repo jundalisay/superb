@@ -4,7 +4,8 @@ description: "Even though human reality is a uniform element, it has four differ
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 15b"
-date: 2022-01-03
+weight: 44
+author: Ibn Khaldun
 ---
 
 

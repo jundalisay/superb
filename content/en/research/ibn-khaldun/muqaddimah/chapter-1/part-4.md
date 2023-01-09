@@ -4,7 +4,7 @@ description: "Negroes live in the earth's hot zone. Heat dominates their tempera
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 4"
-date: 2020-01-19
+weight: 26
 ---
 
 

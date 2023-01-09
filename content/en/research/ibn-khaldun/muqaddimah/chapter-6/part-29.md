@@ -4,7 +4,7 @@ description: "This studies the substance through which the generation of gold an
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 29"
-date: 2021-11-27
+weight: 1
 ---
 
 

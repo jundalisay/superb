@@ -4,7 +4,7 @@ description: "The goal of group feeling is royal authority. This is because grou
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12"
-date: 2020-01-15
+weight: 22
 ---
 
 

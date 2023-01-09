@@ -4,7 +4,7 @@ description: "Human society is necessary. The philosophers expressed this by say
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
-date: 2020-01-31
+weight: 2
 ---
 
 <!-- FIRST PREFATORY DISCUSSION -->

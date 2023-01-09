@@ -3,8 +3,9 @@ title: "The Science of Physics"
 description: "This investigates bodies from the point of view of the motion and stationariness which attach to them"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 20"
-date: 2021-12-08
+heading: "Part 23"
+weight: 70
+author: Ibn Khaldun
 ---
 
 

@@ -4,7 +4,7 @@ description: "This is because royal authority exists only through group feeling"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 8"
-date: 2020-01-23
+weight: 18
 ---
  
 

@@ -4,7 +4,7 @@ description: "They follow different procedures followed depending on 'the Noble 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32"
-date: 2021-11-18
+weight: 1
 ---
 
 

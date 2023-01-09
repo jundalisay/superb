@@ -4,7 +4,7 @@ description: "The condition of the inhabitants in regions that have an abundant 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 14"
-date: 2020-01-16
+weight: 1
 ---
 
 

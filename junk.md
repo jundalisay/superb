@@ -9,6 +9,8 @@ Lenovo N4500 @ 2000 score
 
 baccarat gil puyat 
 
+Rommel V Carrera is a sick minded person who likes to lure people with nonsense questions under the pretense of being philosophical and morally righteous. 
+
 
 
 

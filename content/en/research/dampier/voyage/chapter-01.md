@@ -1,6 +1,7 @@
 ---
 title: "Return Out Of The South Seas"
 heading: "Chapter 1"
+weight: 4
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "On April 8, 1684 we sailed from the isle of Juan Fernandez with the wind at south-east"

@@ -4,8 +4,9 @@ description: "This is because they are more rooted in desert life than any other
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 27"
-date: 2020-01-04
+weight: 36
 ---
+
 
 
 <!-- ## 27. The Arabs are of all nations the one most remote from royal leadership -->

@@ -4,7 +4,8 @@ description: "There are various kinds of intellect such as discerning, experimen
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6"
-date: 2022-01-26
+weight: 16
+author: Ibn Khaldun
 ---
 
 

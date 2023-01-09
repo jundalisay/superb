@@ -4,7 +4,8 @@ description: "A dynasty may find itself in financial straits from its luxury and
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 38"
-date: 2020-10-31
+weight: 111
+author: Ibn Khaldun
 ---
 
 

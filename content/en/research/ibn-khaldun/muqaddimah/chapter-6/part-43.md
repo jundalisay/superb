@@ -4,7 +4,7 @@ description: "A person whose first language was not Arabic has a harder time to 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 43"
-date: 2021-11-04
+weight: 1
 ---
 
 

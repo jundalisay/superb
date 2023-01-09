@@ -4,7 +4,7 @@ description: "Places that succumb to the Arabs are quickly ruined"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 25"
-date: 2020-01-06
+weight: 34
 ---
 
 

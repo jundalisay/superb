@@ -3,6 +3,7 @@ title: "Formosa and Its Islands"
 heading: "Chapter 15b"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
+weight: 64
 description: "Monmouth and Grafton Isles are very hilly, with many of those steep inhabited precipices on them that I shall describe particularly"
 icon: "/icons/dampier.png"
 ---

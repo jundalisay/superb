@@ -4,7 +4,8 @@ description: "Abu Dawud published a tradition relating to 'All in the chapter (o
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 51c"
-date: 2019-12-26
+weight: 140
+author: Ibn Khaldun
 ---
  
 

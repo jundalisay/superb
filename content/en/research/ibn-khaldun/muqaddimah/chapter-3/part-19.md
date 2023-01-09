@@ -4,7 +4,7 @@ description: "The ruler seeks the help of clients and followers against the men 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 19"
-date: 2020-01-04
+weight: 36
 ---
 
 

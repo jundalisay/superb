@@ -3,8 +3,8 @@ title: "Zone 3"
 description: "Opposite its western limit in the Surrounding Sea are two of Canary Islands. At the southernmost part of the first and second sections of the second zone, there is the land of Qamnuriyah"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 2d"
-date: 2020-01-25
+heading: "Part 2f"
+weight: 14
 ---
 
 

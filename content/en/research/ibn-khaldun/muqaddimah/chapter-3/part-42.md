@@ -4,7 +4,7 @@ description: "If a dynasty at the beginning of its rule is a Bedouin one, the ru
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 42"
-date: 2020-10-22
+weight: 118
 ---
 
 
@@ -17,20 +17,17 @@ A dynasty based upon religion is remote from royal aspirations. In one based exc
 
 If a dynasty at the beginning of its rule is a Bedouin one, the ruler possesses austerity and the desert attitude. He is close to the people and easily accessible. 
 
-Then, when his power is firmly established, he comes to claim all the
-glory for himself. He needs to keep away from the people and to remain aloof with
-his friends, in order to be able to talk with them about his special (private) affairs,
-since his following has by then become large. 
+Then, when his power is firmly established, he comes to claim all the glory for himself. He needs to keep away from the people and to remain aloof with his friends, in order to be able to talk with them about his special (private) affairs, since his following has by then become large. 
 
-Therefore, he seeks to keep away from the common people as much as possible. He employs someone at his door to
-admit (only) those of his friends and of the people of the dynasty whom he cannot
-avoid, and to prevent people (in general) from having access to him. (That person) is
-stationed at the (ruler's) door to exercise his function.
+Therefore, he seeks to keep away from the common people as much as possible. 
 
-Then, when royal authority flourishes and royal ways and aspirations make
-their appearance, the ruler adopts royal character qualities. They are strange, peculiar
-qualities. They must be carefully handled in the proper way by those who are in
-contact with them. Persons in contact with (rulers) often do not know about these
+He employs someone at his door to admit (only) those of his friends and of the people of the dynasty whom he cannot avoid, and to prevent people (in general) from having access to him. 
+
+That person is stationed at the (ruler's) door to exercise his function.
+
+Then, when royal authority flourishes and royal ways and aspirations make their appearance, the ruler adopts royal character qualities. They are strange, peculiar qualities. 
+
+They must be carefully handled in the proper way by those who are in contact with them. Persons in contact with (rulers) often do not know about these
 qualities and may do something that (rulers) do not like. He may become displeased
 with them and get into the mood of. punishing them. Thus, knowledge of manners to
 be used in intercourse with (rulers) became the sole property of their special friends.

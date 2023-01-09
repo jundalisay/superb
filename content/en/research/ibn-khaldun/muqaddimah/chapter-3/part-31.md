@@ -4,7 +4,7 @@ description: "The Patriarch was called 'Pope' meaning 'Father of fathers'. It fi
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 31"
-date: 2019-12-02
+weight: 74
 ---
 
 

@@ -4,7 +4,7 @@ description: "This office is not required by the nature of royal authority. Many
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32f"
-date: 2019-11-23
+weight: 86
 ---
 
 

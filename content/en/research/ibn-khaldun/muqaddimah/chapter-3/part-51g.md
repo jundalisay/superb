@@ -4,7 +4,8 @@ description: "The ancient Sufis did not go into anything concerned with (the Mah
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 51g"
-date: 2020-01-14
+weight: 148
+author: Ibn Khaldun
 ---
 
 

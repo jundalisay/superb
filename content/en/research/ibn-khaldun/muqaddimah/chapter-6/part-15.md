@@ -4,7 +4,8 @@ description: "An exposition of ambiguity in the Qur'an and the Sunnah and of the
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 15"
-date: 2022-01-05
+weight: 42
+author: Ibn Khaldun
 ---
 
 

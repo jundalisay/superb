@@ -4,7 +4,8 @@ description: "At the beginning of the dynasty, taxation yields a large revenue f
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 36"
-date: 2020-11-02
+weight: 108
+author: Ibn Khaldun
 ---
 
 

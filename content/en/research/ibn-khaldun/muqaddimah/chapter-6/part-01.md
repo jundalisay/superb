@@ -4,7 +4,8 @@ description: "God distinguished man from all the other animals by an ability to 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
-date: 2022-01-31
+weight: 12
+author: Ibn Khaldun
 ---
 
 

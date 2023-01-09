@@ -4,7 +4,8 @@ description: "It is part of royal pomp to have the names of rulers or their pecu
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 34e"
-date: 2020-11-08
+weight: 102
+author: Ibn Khaldun
 ---
 
 

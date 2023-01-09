@@ -4,17 +4,33 @@ description: "Abu Dawud published a tradition relating to 'All in the chapter (o
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 51b"
-date: 2019-12-28
+weight: 138
+author: Ibn Khaldun
 ---
  
 
 
-Abu Dawud published a tradition relating to 'All in the chapter (on the Mahdi), as transmitted by Fitr b. Khalifah,<!-- 832 --> on the authority of al-Qasim b. Abi Bazzah, <!-- 833 --> on the authority of Abu t-Tufayl, 834 on the authority of 'Ali, on the
-authority of the Prophet, who said: "If only one day of the whole duration of the
-world remained, God would send a man of my family who will fill the world with
+Abu Dawud published a tradition relating to all in the chapter (on the Mahdi).
+
+It was transmitted by Fitr b. Khalifah, on the authority of:
+- al-Qasim b. Abi Bazzah
+  - Abu t-Tufayl
+    - Ali
+      - the Prophet
+
+The Prophet said: "If only one day of the whole duration of the world remained, God would send a man of my family who will fill the world with
 justice, as it had been filled with injustice." <!-- 835 -->
 
-Fitr b. Khalifah was considered reliable by Ahmad (b. Hanbal), Yahya b. al-Qattan, Ibn Ma'in,836 an-Nasa'i, and others, but al 'Ijli said= "He is 'good' in his traditions, (but) he has some pro-Shi'ah bias." Ibn Ma'in once said= "He is a reliable
+Fitr b. Khalifah was considered reliable by:
+- Ahmad (b. Hanbal)
+- Yahya b. al-Qattan
+- Ibn Ma'in
+- an-Nasa'i
+- and others
+
+But al 'Ijli said:
+
+"He is 'good' in his traditions, (but) he has some pro-Shi'ah bias." Ibn Ma'in once said= "He is a reliable
 person and a Shi'ah." 
 
 Ahmad b. Abdallah b. Yunus 837 said= "We used to go and see Fitr, but he is rejected, and we did not write down (traditions) on his authority."

@@ -4,7 +4,7 @@ description: "The soul then adopts the victor's manners and assimilates itself t
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 22"
-date: 2020-01-08
+weight: 32
 ---
 
 

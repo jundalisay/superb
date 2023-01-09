@@ -4,7 +4,7 @@ description: "The bay'ah (oath of allegiance) is a contract to render obedience.
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 27"
-date: 2019-12-18
+weight: 54
 ---
 
 

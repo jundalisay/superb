@@ -4,7 +4,7 @@ description: "Iram was a city having columns. Ad b. Us b. Iram had two sons Shad
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2"
-date: 2021-10-28
+weight: 1
 ---
 
 

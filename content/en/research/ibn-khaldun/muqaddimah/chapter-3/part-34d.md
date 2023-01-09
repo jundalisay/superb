@@ -4,7 +4,8 @@ description: "The use of the seal is one of the government functions and a royal
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 34d"
-date: 2020-11-10
+weight: 100
+author: Ibn Khaldun
 ---
 
 

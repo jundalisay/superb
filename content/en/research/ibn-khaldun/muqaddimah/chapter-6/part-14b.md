@@ -4,7 +4,8 @@ description: "The object of all religious obligations is the acquisition of a ha
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 14b"
-date: 2022-01-10
+weight: 36
+author: Ibn Khaldun
 ---
 
 

@@ -4,7 +4,8 @@ description: "Formerly, people were concerned with scholarly writings and (offic
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 30"
-date: 2022-01-02
+weight: 40
+author: Ibn Khaldun
 ---
 
 

@@ -4,7 +4,7 @@ description: "Some philosophers have thought such a stone is found in animals, p
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 29b"
-date: 2021-11-26
+weight: 1
 ---
 
 

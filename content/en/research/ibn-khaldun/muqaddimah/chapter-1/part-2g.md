@@ -3,8 +3,8 @@ title: "Zone 4"
 description: "Its first section, in the west, contains a portion of the Surrounding Sea which, oblong in shape, extends from the southern to the northern boundary of the section. The city of Tangier is situated on it in the south"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
-heading: "Part 2d"
-date: 2020-01-24
+heading: "Part 2g"
+weight: 16
 ---
 
 

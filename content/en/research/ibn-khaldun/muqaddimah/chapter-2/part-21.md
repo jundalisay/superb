@@ -4,7 +4,7 @@ description: "the people obtain royal authority only after proving their forcefu
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 21"
-date: 2020-01-09
+weight: 30
 ---
 
 

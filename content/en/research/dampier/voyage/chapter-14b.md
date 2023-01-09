@@ -2,6 +2,7 @@
 title: "Pulo Condore"
 heading: "Chapter 14b"
 author: "William Dampier"
+weight: 60
 image: "/covers/voyage.jpg"
 description: "On January 14, 1687 at 3pm we sailed from the river of Mindanao, designing to cruise before Manila"
 icon: "/icons/dampier.png"

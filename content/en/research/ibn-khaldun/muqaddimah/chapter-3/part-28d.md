@@ -5,7 +5,7 @@ description: "When Uthman was killed, the important Muslims were dispersed over 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 28c"
-date: 2019-12-11
+weight: 62
 ---
 
 

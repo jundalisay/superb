@@ -4,7 +4,8 @@ description: "Ibn al-Bawwab wrote a poem in the basit meter with the rhyme on r"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 29b"
-date: 2022-01-03
+weight: 38
+author: Ibn Khaldun
 ---
 
 

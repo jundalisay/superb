@@ -4,7 +4,8 @@ description: "The ruler who picks a secretary from the rank and file has many co
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32g"
-date: 2020-11-22
+weight: 88
+author: Ibn Khaldun
 ---
 
 

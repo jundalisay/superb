@@ -4,7 +4,8 @@ description: "The rational spirit has its perceptions and passes them on to the 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 17b"
-date: 2021-12-22
+weight: 56
+author: Ibn Khaldun
 ---
 
 

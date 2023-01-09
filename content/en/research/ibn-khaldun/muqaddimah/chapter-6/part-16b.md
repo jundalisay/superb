@@ -4,7 +4,8 @@ description: "The Sufis do not consider removal (of the veil) sound, unless it o
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 16b"
-date: 2021-12-31
+weight: 48
+author: Ibn Khaldun
 ---
 
 

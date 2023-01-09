@@ -5,7 +5,7 @@ image: "/covers/muq.jpg"
 author: Ibn Khaldun
 icon: "/icons/ibn.jpg"
 heading: "Part 37"
-date: 2021-11-10
+weight: 1
 ---
 
 

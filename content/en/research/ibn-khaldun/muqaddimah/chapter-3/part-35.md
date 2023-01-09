@@ -4,7 +4,8 @@ description: "The origin of war is the desire of certain human beings to take re
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 35"
-date: 2020-11-06
+weight: 104
+author: Ibn Khaldun
 ---
 
 

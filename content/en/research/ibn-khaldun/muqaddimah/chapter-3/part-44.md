@@ -4,7 +4,8 @@ description: "Senility is a chronic disease that cannot be cured or made to disa
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 44"
-date: 2020-10-18
+weight: 122
+author: Ibn Khaldun
 ---
 
 

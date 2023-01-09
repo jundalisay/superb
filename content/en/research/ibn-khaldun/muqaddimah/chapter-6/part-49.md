@@ -4,7 +4,7 @@ description: "This is because Arabic philology is merely a knowledge of the rule
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 49"
-date: 2021-10-20
+weight: 1
 ---
 
 

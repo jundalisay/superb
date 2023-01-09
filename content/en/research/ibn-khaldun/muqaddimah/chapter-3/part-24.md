@@ -4,7 +4,7 @@ description: "The Caliphate substitutes for Muhammad in as much as it serves, li
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 20"
-date: 2019-12-28
+weight: 42
 ---
 
 

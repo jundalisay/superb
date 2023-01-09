@@ -4,7 +4,8 @@ description: "The reliance of sedentary people on laws destroys their fortitude 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6"
-date: 2020-01-26
+weight: 12
+author: Ibn Khaldun
 ---
 
 

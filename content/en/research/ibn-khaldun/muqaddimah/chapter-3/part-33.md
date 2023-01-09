@@ -4,7 +4,8 @@ description: "Both the sword and the pen are instruments for the ruler to use in
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 33"
-date: 2020-11-18
+weight: 92
+author: Ibn Khaldun
 ---
 
 

@@ -4,7 +4,8 @@ description: "The four kinds of intellectual sciences are logic, physics, metaph
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 18"
-date: 2021-12-20
+weight: 58
+author: Ibn Khaldun
 ---
 
 

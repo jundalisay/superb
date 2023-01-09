@@ -4,7 +4,7 @@ description: "Royal authority and large dynastic power are attained only through
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 16"
-date: 2020-01-08
+weight: 32
 ---
 
 

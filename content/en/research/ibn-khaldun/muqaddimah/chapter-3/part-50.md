@@ -4,7 +4,8 @@ description: "People in any social organization must have someone who exercises 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 50"
-date: 2020-01-03
+weight: 132
+author: Ibn Khaldun
 ---
 
 

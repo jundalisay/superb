@@ -4,7 +4,8 @@ description: "In the Umayyad and 'Abbasid dynasties, the title of doorkeeper (ha
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32d"
-date: 2019-11-26
+weight: 82
+author: Ibn Khaldun
 ---
 
 

@@ -4,7 +4,8 @@ description: "Social organization enables the Bedouins to cooperate toward that 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
-date: 2020-01-31
+weight: 6
+author: Ibn Khaldun
 ---
 
 

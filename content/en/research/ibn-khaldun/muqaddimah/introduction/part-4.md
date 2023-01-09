@@ -4,7 +4,7 @@ description: "Another illustration of this kind of error is the baseless conclus
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 4"
-date: 2021-10-20
+weight: 1
 ---
 
 

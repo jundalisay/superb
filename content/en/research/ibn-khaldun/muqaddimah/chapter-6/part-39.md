@@ -4,7 +4,7 @@ description: "Severe punishment during teaching harms the student, especially li
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 37"
-date: 2021-11-08
+weight: 1
 ---
 
 

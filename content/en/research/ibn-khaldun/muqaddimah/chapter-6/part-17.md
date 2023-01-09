@@ -4,7 +4,8 @@ description: "This originated in Islam when the sciences became crafts and schol
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 17"
-date: 2021-12-24
+weight: 54
+author: Ibn Khaldun
 ---
 
 

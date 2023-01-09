@@ -4,7 +4,8 @@ description: "Servants exist on a lower level because most of those who live in 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
-date: 2022-01-26
+weight: 14
+author: Ibn Khaldun
 ---
 
 

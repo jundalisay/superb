@@ -4,7 +4,7 @@ description: "History is a discipline that is very useful and has many different
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
-date: 2021-10-30
+weight: 1
 ---
 
 

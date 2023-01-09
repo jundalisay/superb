@@ -4,7 +4,8 @@ description: "Trying to make money from buried and other treasures is not a natu
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 4"
-date: 2022-01-24
+weight: 16
+author: Ibn Khaldun
 ---
 
 

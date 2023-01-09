@@ -4,7 +4,8 @@ description: "This is a science that involves arguing with logical proofs in def
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 14"
-date: 2022-01-11
+weight: 34
+author: Ibn Khaldun
 ---
 
 

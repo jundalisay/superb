@@ -4,7 +4,7 @@ description: "Yazid was wicked as a caliph"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 28b"
-date: 2019-12-15
+weight: 58
 ---
 
 

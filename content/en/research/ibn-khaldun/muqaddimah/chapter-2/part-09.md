@@ -4,7 +4,8 @@ description: "Purity of lineage is found only among the savage because of the po
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 22"
-date: 2020-01-24
+weight: 14
+author: Ibn Khaldun
 ---
 
 

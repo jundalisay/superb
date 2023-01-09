@@ -4,7 +4,7 @@ description: "Injustice should not be understood to imply only the confiscation 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 40"
-date: 2020-10-24
+weight: 116
 ---
 
 

@@ -4,7 +4,8 @@ description: "Midwifery is a craft that shows how to proceed in bringing the new
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 27"
-date: 2022-01-08
+weight: 32
+author: Ibn Khaldun
 ---
 
 

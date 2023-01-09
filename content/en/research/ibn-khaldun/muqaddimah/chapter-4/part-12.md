@@ -4,7 +4,7 @@ description: "When a city is large and highly developed, the prices of necessary
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12"
-date: 2020-01-18
+weight: 1
 ---
 
 

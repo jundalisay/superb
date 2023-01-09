@@ -4,7 +4,7 @@ description: "The conditions are knowledge, probity, competence, freedom of the 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 24b"
-date: 2019-12-27
+weight: 44
 ---
 
 

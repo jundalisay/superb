@@ -1,6 +1,7 @@
 ---
 title: "Port Marquis"
 heading: "Chapter 9b"
+weight: 36
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "Port Marquis is a very good harbour a league to the east of Acapulco Harbour"

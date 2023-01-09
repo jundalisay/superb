@@ -4,7 +4,8 @@ description: "The Quran is the word of God that was revealed to His Prophet. It 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 10"
-date: 2022-01-24
+weight: 20
+author: Ibn Khaldun
 ---
 
 

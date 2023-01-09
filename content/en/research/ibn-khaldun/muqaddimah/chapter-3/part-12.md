@@ -4,7 +4,7 @@ description: "Simlarly, dynasties have a lifespan which differ according to the 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12"
-date: 2020-01-14
+weight: 26
 ---
 
 

@@ -4,7 +4,8 @@ description: "Through sound intuition, we observe in ourselves the existence of 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 4"
-date: 2022-01-28
+weight: 14
+author: Ibn Khaldun
 ---
 
 

@@ -3,6 +3,7 @@ title: "THE SHIP'S CREW WHO SET THE AUTHOR ASHORE AT NICOBAR"
 heading: "Chapter 18b"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
+weight: 78
 description: "We set sail for the Cape of Good Hope January 25 1691, and made the best of our way as wind and weather would permit; expecting there to meet three English ships more bound home from the Indies"
 icon: "/icons/dampier.png"
 ---

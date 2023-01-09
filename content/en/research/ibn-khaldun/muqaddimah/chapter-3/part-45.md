@@ -4,7 +4,8 @@ description: "The transition of dynasties from desert life to sedentary culture"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 45"
-date: 2020-01-16
+weight: 124
+author: Ibn Khaldun
 ---
 
 

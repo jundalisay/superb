@@ -3,6 +3,7 @@ title: "NEW HOLLAND"
 heading: "Chapter 16b"
 author: "William Dampier"
 image: "/covers/voyage.jpg"
+weight: 70
 description: "This harbour is in latitude 4 degrees 54 minutes south; lying on the east side of the island Bouton. Which island lies near the south-east end of the island Celebes, distant from it about three or four leagues"
 icon: "/icons/dampier.png"
 ---

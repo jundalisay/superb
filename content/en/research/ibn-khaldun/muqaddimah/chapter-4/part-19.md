@@ -4,7 +4,7 @@ description: "Royal authority and the foundation of dynasties are the goal of gr
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 18"
-date: 2020-01-08
+weight: 1
 ---
 
 

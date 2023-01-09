@@ -4,7 +4,7 @@ description: "The mosques and venerated buildings of the world"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6"
-date: 2020-01-24
+weight: 1
 ---
 
 

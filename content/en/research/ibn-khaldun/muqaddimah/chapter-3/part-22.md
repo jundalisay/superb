@@ -4,7 +4,7 @@ description: "Those who gain power over the ruler do not share with him in the s
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 20"
-date: 2019-12-30
+weight: 40
 ---
 
 

@@ -4,7 +4,7 @@ description: "This settles suits and breaks off disputes and dissensions, follow
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 29b"
-date: 2019-12-09
+weight: 66
 ---
 
 

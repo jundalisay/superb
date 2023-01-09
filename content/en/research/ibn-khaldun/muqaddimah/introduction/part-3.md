@@ -4,7 +4,7 @@ description: "A parallel or similar story is that reported by all (the historian
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
-date: 2021-10-26
+weight: 1
 ---
 
 

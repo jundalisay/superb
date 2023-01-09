@@ -4,7 +4,8 @@ description: "This nobility is in the basic and real sense. Others will have it 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12"
-date: 2020-01-20
+weight: 18
+author: Ibn Khaldun
 ---
 
 

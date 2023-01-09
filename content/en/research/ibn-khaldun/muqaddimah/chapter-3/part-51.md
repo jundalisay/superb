@@ -4,7 +4,8 @@ description: "The caliph acts as substitute for Muhammad with regard to the pres
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 51"
-date: 2019-12-30
+weight: 136
+author: Ibn Khaldun
 ---
 
 

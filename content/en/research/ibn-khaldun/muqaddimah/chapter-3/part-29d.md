@@ -4,7 +4,7 @@ description: "This is a religious position depending on the office of judge and 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 29b"
-date: 2019-12-07
+weight: 70
 ---
 
 

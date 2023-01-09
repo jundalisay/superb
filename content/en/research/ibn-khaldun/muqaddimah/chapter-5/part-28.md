@@ -4,7 +4,8 @@ description: "The craft of medicine is needed in settled areas and cities but no
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 28"
-date: 2022-01-06
+weight: 34
+author: Ibn Khaldun
 ---
 
 

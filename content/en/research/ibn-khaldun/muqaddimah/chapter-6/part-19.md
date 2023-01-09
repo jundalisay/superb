@@ -4,7 +4,8 @@ description: "Arithmetic, Calculation, Algebra"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 18"
-date: 2021-12-18
+weight: 60
+author: Ibn Khaldun
 ---
 
 

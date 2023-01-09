@@ -4,7 +4,7 @@ description: "This is because the differences in opinions and desires. Behind ea
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 9"
-date: 2020-01-20
+weight: 20
 ---
  
 

@@ -4,7 +4,7 @@ description: "Meekness and docility to outsiders that may be found in a tribe ar
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12"
-date: 2020-01-13
+weight: 24
 ---
 
 

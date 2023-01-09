@@ -4,7 +4,7 @@ description: "The dynasty becomes senile after it claims all glory for itself an
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 11"
-date: 2020-01-16
+weight: 24
 ---
 
 

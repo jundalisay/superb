@@ -4,7 +4,8 @@ description: "The wazirate is the mother of governmental functions and royal ran
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 32b"
-date: 2019-11-29
+weight: 78
+author: Ibn Khaldun
 ---
 
 

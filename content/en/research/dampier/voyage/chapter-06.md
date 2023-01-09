@@ -1,6 +1,7 @@
 ---
 title: "DEPARTING FROM AMAPALLA"
 heading: "Chapter 5c"
+weight: 16
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: "Captain Cook got sick at Juan Fernandez. He continued so till we came within 2 or 3 leagues of Cape Blanco, and then died suddenly"
