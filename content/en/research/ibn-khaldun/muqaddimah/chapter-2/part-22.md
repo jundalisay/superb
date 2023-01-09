@@ -10,7 +10,9 @@ weight: 32
 
 
 
-## 22. The vanquished always want to imitate the victor in his distinctive marks, dress, occupation, and all his other conditions and customs
+## 22. The vanquished always want to imitate the victor in his distinctive marks, dress, etc
+
+<!-- occupation, and all his other conditions and customs -->
 
 This is because the soul always sees perfection in the person who is superior to it and to whom it is subservient. It considers him perfect, either because:
 - its respect for him impresses it, or

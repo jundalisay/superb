@@ -7,6 +7,8 @@ description: "Most crimes throughout the world are committed due to poverty, exc
 icon: "/icons/sarkar.png"
 author: PR Sarkar
 keywords: [Criminals]
+aliases:
+  /research/sarkar/criminals/part-3-poverty
 ---
 
 
