@@ -1,7 +1,7 @@
 ---
 heading: Chapter 11
 title: "Excursions To Bulusán And Sorsogón"
-date: 2022-03-24
+weight: 48
 image: /covers/travels.jpg
 description: "I saw several ruined square towers, made of blocks of coral, and built by the Jesuits as a protection against the Moors--a term here applied to the pirates. Like the Moors who were formerly in Spain, they are Muslims"
 linkTitle: "Chapter 11"

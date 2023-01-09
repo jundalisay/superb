@@ -3,7 +3,7 @@ title: "One Should Avoid Being Hated And Despised"
 heading: "Chapter 19"
 author: "Niccolo Machiavelli"
 description: "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
-date: 2021-09-02
+weight: 32
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

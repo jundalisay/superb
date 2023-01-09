@@ -3,7 +3,7 @@ title: "How Many Kinds Of Principalities There Are, How They Are Acquired"
 heading: "Chapters 1-3"
 author: "Niccolo Machiavelli"
 description: "It is easier to hold hereditary states, particularly those long accustomed to the family of their prince, than new ones"
-date: 2021-09-30
+weight: 2
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

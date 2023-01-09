@@ -1,7 +1,7 @@
 ---
 title: The People's War
 heading: Chapter 8
-date: 2022-01-24
+weight: 18
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

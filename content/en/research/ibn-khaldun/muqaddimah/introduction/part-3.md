@@ -4,7 +4,8 @@ description: "A parallel or similar story is that reported by all (the historian
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
-weight: 1
+weight: 8
+author: Ibn Khaldun
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 6
 title: "Fires in Bulacan"
-date: 2022-04-13
+weight: 28
 image: /covers/travels.jpg
 description: "The province of Bulacan is on the northern shore of Manila Bay"
 linkTitle: "Chapter 6"

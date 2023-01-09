@@ -1,7 +1,7 @@
 ---
 title: The People's Army
 heading: Chapter 6
-date: 2022-01-23
+weight: 20
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

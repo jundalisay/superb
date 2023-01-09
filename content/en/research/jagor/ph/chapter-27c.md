@@ -1,7 +1,7 @@
 ---
 title: "Juan de Salcédo"
-linkTitle: Chapter 27c
-date: 2022-01-02
+heading: Chapter 27c
+weight: 132
 image: /covers/travels.jpg
 description: "Juan de Salcédo was the most illustrious of all the conquerors"
 author: Jagor

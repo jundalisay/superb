@@ -2,7 +2,7 @@
 heading: Chapter 3b
 title: "Public Promenades"
 linkTitle: Chapter 3b
-date: 2022-04-23
+weight: 16
 image: /covers/travels.jpg
 description: "How many of the prettiest natives are of perfectly unmixed blood is difficult to decide."
 author: Jagor

@@ -1,9 +1,9 @@
 ---
 title: "Sesal or Sesal-hemp"
-date: 2022-01-16
+weight: 116
 image: /covers/travels.jpg
 description: "Sesal, or sesal-hemp is known as Mexican grass. For some years past, it been used increasingly as a substitute for abaca"
-linkTitle: "Chapter 24b"
+heading: "Chapter 24b"
 author: Jagor
 icon: /graphics/flag.png
 ---

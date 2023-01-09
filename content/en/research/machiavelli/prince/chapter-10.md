@@ -3,7 +3,7 @@ title: "How The Strength Of All Principalities Should Be Measured"
 heading: "Chapter 10"
 author: "Niccolo Machiavelli"
 description: "Whoever protects his town well, and has managed the other concerns of his subjects in the way stated above, will never be attacked without great caution"
-date: 2021-09-16
+weight: 16
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

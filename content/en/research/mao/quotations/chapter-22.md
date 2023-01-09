@@ -1,13 +1,9 @@
 ---
 title: Methods Of Thinking And Work
 heading: Chapter 22
-date: 2022-01-14
+weight: 46
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-21"
-linkbtext: "Chapter 21"
-linkf: "/research/mao/quotations/chapter-23"
-linkftext: "Chapter 23"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
@@ -23,33 +19,29 @@ Ideas of stagnation, pessimism, inertia and complacency are all wrong. They are 
 
 Quoted in "Premier Chou Enlai's Report on the Work of the Government to the First Session of the Third National People's Congress of the People's Republic of China " (December 21-22, 1964).
 
-Natural science is one of man's weapons in his fight for freedom. For the
-purpose of attaining freedom in society, man must use social science to
-understand and change society and carry out social revolution. For the
-purpose of attaining freedom in the world of nature, man must use natural
-science to understand, conquer and change nature and thus attain freedom
-from nature.
+Natural science is one of man's weapons in his fight for freedom. For the purpose of attaining freedom in society, man must use social science to
+understand and change society and carry out social revolution. For the purpose of attaining freedom in the world of nature, man must use natural
+science to understand, conquer and change nature and thus attain freedom from nature.
 
 Speech at the inaugural meeting of the Natural Science Research Society of the Border
 Region (February 5, 1940).
-The Marxist philosophy of dialectical materialism has two outstanding
-characteristics. One is its class nature: it openly avows that dialectical
-materialism is in the service of the proletariat. The other is its practicality: it
-emphasizes the dependence of theory on practice, emphasizes that theory is
-based on practice and in turn serves practice."On Practice" (July 1937), Selected Works, Vol. I, p. 297.
-Marxist philosophy holds that the most important problem does not lie in
-understanding the laws of the objective world and thus being able to explain
+
+The Marxist philosophy of dialectical materialism has 2 outstanding characteristics. 
+
+1. Its class nature: it openly avows that dialectical materialism is in the service of the proletariat.
+2. Its practicality: it emphasizes the dependence of theory on practice, emphasizes that theory is based on practice and in turn serves practice."On Practice" (July 1937), Selected Works, Vol. I, p. 297.
+
+Marxist philosophy holds that the most important problem does not lie in understanding the laws of the objective world and thus being able to explain
 it, but in applying the knowledge of these laws actively to change the world.
 Ibid., p. 304.
 
-Where do correct ideas come from? Do they drop from the skies? No. Are
-they innate in the mind? No. They come from social practice, and from it
-alone; they come from three kinds of social practice, the struggle for
-production, the class struggle and scientific experiment.
+Where do correct ideas come from? Do they drop from the skies? 
+
+No. Are they innate in the mind? No. They come from social practice, and from it alone; they come from three kinds of social practice, the struggle for production, the class struggle and scientific experiment.
+
 Where Do Correct Ideas Come from? (May 1963), 1st pocket ed., p. 1.
-It is man's social being that determines his thinking. Once the correct ideas
-characteristic of the advanced class are grasped by the masses, these ideas
-turn into a material force which changes society and changes the world.
+
+It is man's social being that determines his thinking. Once the correct ideas characteristic of the advanced class are grasped by the masses, these ideas turn into a material force which changes society and changes the world.
 Ibid.
 
 In their social practice, men engage in various kinds of struggle and gain rich

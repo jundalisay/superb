@@ -1,8 +1,8 @@
 ---
 title: "Burial Caverns And Funeral Customs Of The Ancient Bisayans"
-date: 2022-02-10
+weight: 92
 image: /covers/travels.jpg
-description: ""
+description: "In Guiuan, I was visited by some Micronesians. For the last 14 days, they had been in Sulangan on the small neck of land south-east from Guíuan"
 linkTitle: "Chapter 20"
 author: Jagor
 icon: /graphics/flag.png

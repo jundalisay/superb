@@ -1,16 +1,13 @@
-+++
-title= "Considerations on Gravitation by Lorentz"
-heading= "Part 5"
-date= 2021-09-28
-author= "Lorentz"
-image= "/covers/grav.jpg"
-description= "I use Mossotti's idea which has been afterwards accepted by Wilhelm Weber and Zöllner."
-linkb= "/research/lorentz/gravitation/part-1"
-linkbtext= "Part 5"
-linkf= "/research/lorentz/gravitation/part-8"
-linkftext= "Part 8"
-icon = "/icons/lor.jpg"
-+++
+---
+title: Considerations on Gravitation
+author: Lorentz
+heading: Part 5
+description: I use Mossotti's idea which has been afterwards accepted by Wilhelm Weber and Zöllner.
+image: "/covers/grav.jpg"
+# date2021-09-28"
+weight: 6
+---
+
 
 
 The following are insufficient to account for universal attraction:
@@ -51,7 +48,9 @@ This difference will lead us to the same result that Mossotti attained by means 
 
 Each of the two disturbances of the aether is propagated with the velocity of light. By itself, it obeys the ordinary laws of the electromagnetic field. 
 
-These laws are expressed in the simplest form if, besides the dielectric displacement d, we consider the magnetic force H, both together determining, as we shall now say, one state of the aether or one field. In accordance with this, I shall introduce two pairs of vectors, the one d {\displaystyle {\mathfrak {d}}} {\displaystyle {\mathfrak {d}}}, H {\displaystyle {\mathfrak {H}}} {\displaystyle {\mathfrak {H}}} belonging to the field that is produced by the positive ions, whereas the other pair d ′ {\displaystyle {\mathfrak {d}}'} {\displaystyle {\mathfrak {d}}'}, H ′ {\displaystyle {\mathfrak {H}}'} {\displaystyle {\mathfrak {H}}'} serve to indicate the state of the aether which is called into existence by the negative ions. I shall write down two sets of equations, one for d {\displaystyle {\mathfrak {d}}} {\displaystyle {\mathfrak {d}}}, H {\displaystyle {\mathfrak {H}}} {\displaystyle {\mathfrak {H}}}, the other for d ′ , H ′ {\displaystyle {\mathfrak {d}}',{\mathfrak {H}}'} {\displaystyle {\mathfrak {d}}',{\mathfrak {H}}'}, and having the form which I have used in former papers[1] for the equations of the electromagnetic field, and which is founded on the assumption that the ions are perfectly permeable to the aether and that they can be displaced without dragging the aether along with them.
+These laws are expressed in the simplest form if, besides the dielectric displacement d, we consider the magnetic force H, both together determining, as we shall now say, one state of the aether or one field. In accordance with this, I shall introduce two pairs of vectors, the one d {\displaystyle {\mathfrak {d}}} {\displaystyle {\mathfrak {d}}}, H {\displaystyle {\mathfrak {H}}} {\displaystyle {\mathfrak {H}}} belonging to the field that is produced by the positive ions, whereas the other pair d ′ {\displaystyle {\mathfrak {d}}'} {\displaystyle {\mathfrak {d}}'}, H ′ {\displaystyle {\mathfrak {H}}'} {\displaystyle {\mathfrak {H}}'} serve to indicate the state of the aether which is called into existence by the negative ions. 
+
+I shall write down two sets of equations, one for d {\displaystyle {\mathfrak {d}}} {\displaystyle {\mathfrak {d}}}, H {\displaystyle {\mathfrak {H}}} {\displaystyle {\mathfrak {H}}}, the other for d ′ , H ′ {\displaystyle {\mathfrak {d}}',{\mathfrak {H}}'} {\displaystyle {\mathfrak {d}}',{\mathfrak {H}}'}, and having the form which I have used in former papers[1] for the equations of the electromagnetic field, and which is founded on the assumption that the ions are perfectly permeable to the aether and that they can be displaced without dragging the aether along with them.
 
 I shall immediately take this general case of moving particles.
 

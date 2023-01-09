@@ -1,7 +1,7 @@
 ---
 title: Classes And Class Struggle
 heading: Chapter 2
-date: 2022-01-30
+weight: 6
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

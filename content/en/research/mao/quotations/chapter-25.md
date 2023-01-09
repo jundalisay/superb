@@ -1,22 +1,16 @@
 ---
 title: Unity and Discipline
 heading: Chapter 25-26
-date: 2022-01-12
+weight: 52
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-24"
-linkbtext: "Chapter 24"
-linkf: "/research/mao/quotations/chapter-27"
-linkftext: "Chapter 27"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
 
 
 
-The unification of our country, the unity of our people and the unity of our
-various nationalities - these are the basic guarantees of the sure triumph of
-our cause.
+The unification of our country, the unity of our people and the unity of our various nationalities - these are the basic guarantees of the sure triumph of our cause.
 
 On the Correct Handling of Contradictions Among the People (February 27, 1957).
 1st pocket ed., pp. 1-2.

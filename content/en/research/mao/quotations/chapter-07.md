@@ -1,7 +1,7 @@
 ---
 title: Dare to Struggle, Dare to Win
 heading: Chapter 7
-date: 2022-01-25
+weight: 16
 description: "People of the world, unite and defeat the U.S. aggressors and all their running dogs!"
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

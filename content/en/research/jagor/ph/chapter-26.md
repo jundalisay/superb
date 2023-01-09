@@ -1,6 +1,6 @@
 ---
 title: "The Chinese"
-date: 2022-01-10
+heading: 122
 image: /covers/travels.jpg
 description: "The Chinese are an important portion of the population because of their contribution to the development of the land-cultivation"
 linkTitle: "Chapter 26"

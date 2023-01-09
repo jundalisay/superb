@@ -3,7 +3,7 @@ title: "Why The Princes Of Italy Lost Their States"
 heading: "Chapter 24"
 author: "Niccolo Machiavelli"
 description: "The actions of a new prince are more critically observed than those of an hereditary one"
-date: 2021-08-22
+weight: 42
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

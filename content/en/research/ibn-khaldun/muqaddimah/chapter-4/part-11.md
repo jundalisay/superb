@@ -4,7 +4,8 @@ description: "There are few cities and towns in Ifriqiyah and the Maghrib"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 11"
-weight: 1
+weight: 20
+author: Ibn Khaldun
 ---
 
 

@@ -3,7 +3,7 @@ title: "The Constitutional Principality"
 heading: "Chapter 9"
 author: "Niccolo Machiavelli"
 description: "A 'constitutional principality' emerges when a leading citizen becomes the prince by the favour of his fellow citizens and not by wickedness or violence"
-date: 2021-09-18
+weight: 14
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

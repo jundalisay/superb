@@ -1,16 +1,13 @@
 ---
 title: The Youth
 heading: Chapter 30
-date: 2022-01-09
+weight: 58
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-28"
-linkbtext: "Chapter 30"
-linkf: "/research/mao/quotations/chapter-31"
-linkftext: "Chapter 31"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
+
 
 The world is yours, as well as ours, but in the last analysis, it is yours. Young people, full of vigour and vitality, are in the bloom of life, like the sun at eight or nine in the morning. Our hope is placed on you.
 

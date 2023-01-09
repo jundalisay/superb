@@ -1,7 +1,7 @@
 ---
 heading: Chapter 6b
 title: "The Houses of the People"
-date: 2022-04-12
+weight: 30
 image: /covers/travels.jpg
 description: "The province of Bulacan is on the northern shore of Manila Bay"
 linkTitle: "Chapter 6b"

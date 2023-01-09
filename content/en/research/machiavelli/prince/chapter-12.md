@@ -3,7 +3,7 @@ title: "Mercenaries and the Different Kinds Of Soldiers"
 heading: "Chapter 12"
 author: "Niccolo Machiavelli"
 description: "Whoever protects his town well, and has managed the other concerns of his subjects in the way stated above, will never be attacked without great caution"
-date: 2021-09-14
+weight: 20
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

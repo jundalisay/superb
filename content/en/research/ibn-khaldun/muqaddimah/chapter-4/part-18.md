@@ -4,8 +4,10 @@ description: "Royal authority and the foundation of dynasties are the goal of gr
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 18"
-weight: 1
+weight: 30
+author: Ibn Khaldun
 ---
+
 
 <!-- The end of its life span and brings about its corruption. -->
 

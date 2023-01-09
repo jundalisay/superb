@@ -1,8 +1,8 @@
 ---
-title: "The Philippines"
-date: 2022-02-14
+title: "Travels in Samar"
+weight: 88
 image: /covers/travels.jpg
-description: ""
+description: "At the present time, each island has its separate governor"
 linkTitle: "Chapter 19"
 author: Jagor
 icon: /graphics/flag.png

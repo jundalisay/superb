@@ -1,7 +1,7 @@
 ---
 title: Revolutionary Heroism
 heading: Chapter 19
-date: 2022-01-15
+weight: 40
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

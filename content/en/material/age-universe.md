@@ -8,7 +8,7 @@ icon: /icons/spmat.png
 ---
 
 
-Physicists and astronomers were surprised that the James Webb Telescope revealed [new facts about the universe](https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf:
+Physicists and astronomers were surprised that the James Webb Telescope revealed [new facts about the universe](https://webbtelescope.org/files/live/sites/webb/files/home/webb-science/early-highlights/_documents/2022-061-jades/JADES_CurtisLake.pdf)
 
 1. The universe was spread out more evenly than expected
 2. The oldest galaxies were smaller compared to our younger Milky Way and were more than expected
@@ -24,7 +24,7 @@ Such a theory would lead to the following assumptions:
 - There should be more galaxies at a certain region of the universe compared to others
 - Old galaxies should be bigger than new ones
 
-Such assumptions were destroyed by the findings of the James Webb Telescope which could detect red-shift.
+Such assumptions were destroyed by the findings of the James Webb Telescope which could detect red-shift, and thus, get more information about distant galaxies.
 
 
 <!-- The spectra reveal that these primeval galaxies are extremely metal poor, have masses between 107 and a few times 108
@@ -33,7 +33,7 @@ solar masses, and young ages.. These findings demonstrate the rapid emergence of
 
 ## The Cause of the Error
 
-The Big Bang theory is totally flawed because it is based on the belief of Isaac Newton that gravity comes from **matter**. 
+The Big Bang theory is totally flawed because it is based on the belief of Isaac Newton that **gravity comes from matter**. 
 
 {{< q a="newton" >}}
 Mass is the amount of matter in a body..
@@ -76,7 +76,7 @@ The aether is the first mover which rolls around the universe at an incomprehens
 
 ## Materialists Enshrine Matter, Superphysics Enshrines the Aether
 
-The matter-based mindset was enshrined by Newton, creating the Laws of Motion from it, leading to modern science. This overturned and replaced the aether-based philosophical mindset promoted by Descartes. 
+The matter-based mindset was enshrined by Newton, creating the Laws of Motion from it, leading to modern science. This overturned and replaced the then-established aether-based philosophical mindset from Descartes, who promoted the theory of aethereal vortices. 
 
 
 {{< q a="newton" >}}
@@ -84,7 +84,7 @@ The hypothesis of vortices is problematic.
 <br>
 It says that each planet by a radius drawn to the sun may describe areas proportional to the times of description, the periodic times of the several parts of the vortices should observe the duplicate proportion of their distances from the sun. The smaller vortices may maintain their lesser revolutions about Saturn, Jupiter, and other planets, and swim quietly and undisturbed in the greater vortex of the sun. 
 <br>
-But I have explained that the motions of the comets are very regular. These are governed by the same laws with the motions of the planets  
+But I have explained that the motions of the comets are very regular. These are governed by the same laws with the motions of the planets.  
 <cite>Principia Mathematica Simplified</cite>
 {{< /q >}}
 
@@ -110,7 +110,8 @@ These have caused a lot of conflict and suffering since matter is naturally crud
 
 {{< img src="/photos/russia.jpg" alt="Russian Invasion" cap="Superphysics explains universal principles. We show examples of how principles in one science is connected, and manifests, in another. In this case, the materialist principles manifest both in physics and politics/economics" >}}
 
-Scientifically, the dominance of matter is why research requires material evidence and material reproducability. This then incrementally increases the cost of research as time passes. A research project in the 17th century is far cheaper than one done today and is why there were so much more innovations in the past. It also leads to the current increase in slowness in research output, especially in physics and chemistry.  
+
+Scientifically, the dominance of matter is why research requires material evidence and material reproducability. This then incrementally increases the cost of research as time passes. A research project in the 17th century is far cheaper than one done today and is why there were far more innovations in the past. It also leads to the current increase in slowness in research output, especially in physics and chemistry.  
 
 <!-- In cosmology, the materialist mindset leads to the flawed Big Bang Theory.  -->
 
@@ -124,12 +125,12 @@ Therefore, the dominance of matter in the minds of post-Newton humans manifests 
 
 Superphysics is rooted in the aether, as the highest layer in the 5-layer universe. 
 
-{{< img src="/graphics/physics/layercomp.jpg" cap="Superphysics has the aether as the highest layer or element, based on the Hindu Pancabhutas and Taoist Wu-xing framework. Materialist Physics has matter as the highest layer or element, as an effect of fully embracing the illusion created  by Nature" >}}
+{{< img src="/graphics/physics/layercomp.jpg" cap="Superphysics has the aether as the highest layer or element, based on the neatly-ordered and intuitive Hindu Pancabhutas and Taoist Wu-xing framework. Materialist Physics has matter as the highest layer or element, as an effect of fully embracing the illusion created  by Nature" >}}
 
 
 Instead of a material big bang, the universe began as [aethereal ideas of the Supreme Mind](/material/principles/part-1/chapter-02/) (Saguna Brahma).
 
-These ideas flow down (as per Taoism) onto the Spacetime layer as vortices. 
+These ideas flow down (as per Taoism) as Thoughts onto the Spacetime layer, manifesting as vortices (as per Descartes). 
 - Clockwise vortices convert matter and objects into energy and ideas. In cosmology, this manifests as quasars.
 - Counter-Clockwise vortices convert energy and ideas into matter and objects. This manifests as galaxies.
 
@@ -151,7 +152,7 @@ Therefore, **the age of a universe depends on the layer where the perceiving min
 
 - From a species in the aethereal layer, the universe is a few 'seconds' old and even instantaneous. This is because the aethereal layer is closes to the non-layer which we call 'probabilty' and because it is above spacetime, making time irrelevant. 
 
-The layer where the mind is then depends on the strength of [the Negative Force](/superphysics/principles/chapter-05/) 
+The layer where the mind is then depends on the strength of [the Negative Force](/superphysics/principles/chapter-05/) on it. 
 
 > We can expose Newton's misunderstanding of the vortices theory in another post.
 
@@ -175,8 +176,8 @@ Therefore, Netwon ascribes gravity to matter which is then dominated by an aethe
 
 Both Newton and Descartes ascribe the cause of reality to vibrations of the aether. Superphysics interprets such vibrations as waves and is why Superphysics is technically [a wave-based science](social/economics/principles/intro/chapter-01/), notated by [qualimath](/superphysics/principles/chapter-04b) in order to realize shiny new spacetime and aethereal technologies. 
 
-Newton explained that the vibrational Spirit operates on both gravity and impulses in the brain. This is why Superphysics has Material Superphysics for gravitational vibrations, and Medical Superphysics for 'brain vibrations'. We also have Social Superphysics for social vibrations such as the ones that trigger economic, political, and social actions.
+Newton explained that the vibrational Spirit operates on both gravity and impulses in the brain. This is why Superphysics has Material Superphysics for gravitational vibrations, and Medical Superphysics for 'brain vibrations' (soul vibrations). We also have Social Superphysics for social vibrations such as the ones that trigger economic, political, and social actions. We even test vibrations on plants, as part of Agricultural Supereconomics, by trying out different sounds to increase crop yield. 
 
 We were able to unite Newton and Descartes because we went outside the box of Western Science and tapped what the Asian Sciences of Hinduism, Taoism, and the Ancient Greek had discovered much earlier.
 
-We were able to look into all of Western science and Asian science because the internet was invented and it allowed such information to be available to all.
+We were able to look into all of what Western science and Asian science had written down because the internet was invented and it allowed such information to be available to all.

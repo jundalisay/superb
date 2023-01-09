@@ -3,7 +3,7 @@ title: "New Principalities Acquired By One's Own Arms And Ability"
 heading: "Chapter 6"
 author: "Niccolo Machiavelli"
 description: "Becoming a prince from a private station requires ability or good luck which can reduce many difficulties"
-date: 2021-09-24
+weight: 8
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

@@ -2,7 +2,7 @@
 heading: Chapter 2
 title: "The Galleon Trade"
 linkTitle: Chapter 2
-date: 2022-04-26
+weight: 10
 image: /covers/travels.jpg
 description: "The Manila custom-house requires many formalities which the native minor officials exercised without  discretion."
 author: Jagor

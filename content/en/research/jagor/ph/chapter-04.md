@@ -2,7 +2,7 @@
 heading: Chapter 4a
 linkTitle: Chapter 4a
 title: "The Europeans"
-date: 2022-04-20
+weight: 18
 image: /covers/travels.jpg
 description: "The Dutch are as unable as the English to acclimatise themselves in tropical countries. They get all they can out of those countries"
 author: Jagor

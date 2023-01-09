@@ -1,7 +1,7 @@
 ---
 title: "Epitome-concluding Observations of the Philippines"
-linkTitle: Chapter 27
-date: 2022-01-06
+heading: Chapter 27
+weight: 128
 image: /covers/travels.jpg
 description: "The Philippines was discovered by Magellan on March 16, 1521 on St. Lazarus's day."
 author: Jagor

@@ -3,7 +3,7 @@ title: "Balancing the Power"
 heading: "Chapter 3b"
 author: "Niccolo Machiavelli"
 description: "The prince who holds a country of different language, customs and law, should strengthen his weaker neighbours weaken his more powerful ones"
-date: 2021-09-28
+weight: 4
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "The Master"
-heading: "Chapter 2 of Yoga Sutras Simplified"
+heading: "Chapter 2 "
 weight: 8
 author: "Patanjali"
 description: "Spiritual consciousness may be gained by ardent service of the Master"

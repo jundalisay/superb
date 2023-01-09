@@ -1,12 +1,13 @@
 ---
 title: "The Mind"
-heading: "Chapter 2 Book 4 of Yoga Sutras Simplified"
+heading: "Chapter 2"
 weight: 10
 author: "Patanjali"
-description: ""
+description: "The movements of the psychic nature are perpetually objects of perception, since the Spiritual Man, who is the lord of them, remains unchanging"
 image: "/covers/yoga.jpg"
 icon: "/flags/in.png"
 ---
+
 
 {{< s v="18">}} The movements of the psychic nature are perpetually objects of perception, since the Spiritual Man, who is the lord of them, remains unchanging.
 

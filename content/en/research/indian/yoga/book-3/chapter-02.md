@@ -1,14 +1,12 @@
 ---
 title: "Yoga"
-heading: "Chapter 2 of Yoga Sutras Simplified"
+heading: "Chapter 2"
 weight: 8
 author: "Patanjali"
-description: ""
+description: "The differences in development is caused by the differences in stage"
 image: "/covers/yoga.jpg"
 icon: "/flags/in.png"
 ---
-
-
 
 
 {{< s v="15" >}} The differences in development is caused by the differences in stage.

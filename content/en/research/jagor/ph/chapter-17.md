@@ -1,6 +1,6 @@
 ---
-title: "Oppression Of The Igorots"
-date: 2022-02-22
+title: "The Oppression Of The Igorots"
+weight: 80
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 17"

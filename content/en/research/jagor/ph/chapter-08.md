@@ -1,7 +1,7 @@
 ---
 heading: Chapter 8a
 title: "The San Bernardino Straits"
-date: 2022-04-06
+weight: 36
 image: /covers/travels.jpg
 description: "We turned northwards and sailed up the straits of San Bernardino, which separate Luzon from Sámar"
 linkTitle: "Chapter 8"

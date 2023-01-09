@@ -2,7 +2,7 @@
 heading: Chapter 4c
 title: "Colonial Taxation Policy"
 linkTitle: Chapter 4c
-date: 2022-04-18
+weight: 22
 image: /covers/travels.jpg
 description: "The taxes laid on the Filipino natives were so trifling that they were not enough for the colonial administration."
 author: Jagor

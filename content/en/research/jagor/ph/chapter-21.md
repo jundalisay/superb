@@ -1,6 +1,6 @@
 ---
 title: "Sulphur Smelting"
-date: 2022-02-02
+weight: 102
 image: /covers/travels.jpg
 description: "The roof of the cavern is hung with stalactites, covered with solid sulphur."
 linkTitle: "Chapter 21"

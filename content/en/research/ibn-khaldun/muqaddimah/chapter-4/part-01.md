@@ -4,7 +4,8 @@ description: "Towns and cities are secondary products of royal authority because
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 1"
-weight: 1
+weight: 10
+author: Ibn Khaldun
 ---
 
 

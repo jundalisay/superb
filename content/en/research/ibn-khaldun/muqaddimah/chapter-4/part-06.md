@@ -4,7 +4,8 @@ description: "The mosques and venerated buildings of the world"
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 6"
-weight: 1
+weight: 16
+author: Ibn Khaldun
 ---
 
 

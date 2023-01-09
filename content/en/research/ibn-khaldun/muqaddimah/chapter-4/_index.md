@@ -1,7 +1,8 @@
 ---
 heading: "Chapter 4"
-title: "Countries and cities"
+title: "Countries and Cities"
+author: Ibn Khaldun
 description: "Countries, cities and sedentary civilization"
-weight: 1
+weight: 8
 image: "/covers/muq.jpg"
 ---

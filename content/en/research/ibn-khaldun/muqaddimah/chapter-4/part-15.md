@@ -4,7 +4,8 @@ description: "The accumulation of estates and farms in cities, their uses and yi
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 15"
-weight: 1
+weight: 26
+author: Ibn Khaldun
 ---
 
 

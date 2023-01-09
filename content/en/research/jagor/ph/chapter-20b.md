@@ -1,6 +1,6 @@
 ---
 title: "Superstition Invaded"
-date: 2022-02-10
+weight: 94
 image: /covers/travels.jpg
 description: "In the caverns of these rocks, the ancient Pintados interred the corpses of their heroes and ancestors in well-locked coffins."
 linkTitle: "Chapter 20b"

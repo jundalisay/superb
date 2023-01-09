@@ -3,7 +3,7 @@ title: "How Princes Should Keep Faith"
 heading: "Chapter 18-19"
 author: "Niccolo Machiavelli"
 description: "A wise lord cannot and should not keep faith when such promises may be turned against him, and when the reasons that caused him to promise no longer exist"
-date: 2021-09-04
+weight: 30
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

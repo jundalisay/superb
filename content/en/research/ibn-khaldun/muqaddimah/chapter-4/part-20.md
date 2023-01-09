@@ -4,7 +4,8 @@ description: "This is because the activities of the citizens necessitate each ot
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 20"
-weight: 1
+weight: 34
+author: Ibn Khaldun
 ---
 
 

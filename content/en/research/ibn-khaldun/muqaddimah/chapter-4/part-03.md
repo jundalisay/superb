@@ -4,7 +4,8 @@ description: "The size of monuments is proportional to the importance of the var
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 3"
-weight: 1
+weight: 12
+author: Ibn Khaldun
 ---
 
 <!-- ## 3. Only a strong royal authority is able to construct large cities and high monuments -->

@@ -1,7 +1,7 @@
 ---
 heading: Chapter 13
 title: "Native Priests"
-date: 2022-03-16
+weight: 54
 image: /covers/travels.jpg
 description: "The native priest of Bátu was full of complaints about his parishioners, who gave him no opportunities of gaining an honest penny."
 linkTitle: "Chapter 13"

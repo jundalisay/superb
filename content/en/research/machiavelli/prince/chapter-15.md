@@ -3,7 +3,7 @@ title: "Why Princes Are Praised Or Blamed"
 heading: "Chapter 15"
 author: "Niccolo Machiavelli"
 description: "A prince who wishes to survive must know how to do wrong, and how to do or not do wrong according to necessity"
-date: 2021-09-08
+weight: 26
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

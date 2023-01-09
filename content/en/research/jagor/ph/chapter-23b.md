@@ -1,9 +1,9 @@
 ---
 title: "Sugar and the Benefits of Free Trade"
-date: 2022-01-20
+weight: 112
 image: /covers/travels.jpg
 description: "Sugar cultivation increased in Iloilo, Antique, Panay, and Negros"
-linkTitle: "Chapter 23b"
+heading: "Chapter 23b"
 author: Jagor
 icon: /graphics/flag.png
 ---

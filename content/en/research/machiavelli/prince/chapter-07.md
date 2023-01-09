@@ -3,7 +3,7 @@ title: "New Principalities Acquired By Arms or Good Fortune"
 heading: "Chapter 7"
 author: "Niccolo Machiavelli"
 description: "Things in nature which are born and grow rapidly cannot establish their foundations well. This lets them get destroyed by the first storm"
-date: 2021-09-22
+weight: 10
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

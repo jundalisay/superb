@@ -2,7 +2,7 @@
 heading: Chapter 4d
 title: "Bamboo"
 linkTitle: Chapter 4d
-date: 2022-04-17
+weight: 24
 image: /covers/travels.jpg
 description: "Bamboos with luxuriant leafy tops grow plentifully by the huts in the rice-fields which fringe the banks of the river"
 author: Jagor

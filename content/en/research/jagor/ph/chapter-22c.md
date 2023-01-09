@@ -1,6 +1,6 @@
 ---
 title: "Native Superstition"
-date: 2022-01-26
+weight: 108
 image: /covers/travels.jpg
 description: "A family consisting of father, mother, and 5 children requires daily 12 chupas of rice"
 linkTitle: "Chapter 22c"

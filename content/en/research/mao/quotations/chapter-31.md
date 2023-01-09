@@ -1,22 +1,19 @@
 ---
 title: Women
 heading: Chapter 31
-date: 2022-01-08
+weight: 60
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-30"
-linkbtext: "Chapter 30"
-linkf: "/research/mao/quotations/chapter-32"
-linkftext: "Chapter 32"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
 
 
 A man in China is usually subjected to the domination of 3 systems of authority:
-- political authority
-- clan authority
-- religious authority
+
+1. Political authority
+2. Clan authority
+3. Religious authority
 
 Women, are also dominated by these, but also dominated by the men as the authority of the husband. 
 

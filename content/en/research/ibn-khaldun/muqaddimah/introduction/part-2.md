@@ -4,7 +4,8 @@ description: "Iram was a city having columns. Ad b. Us b. Iram had two sons Shad
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 2"
-weight: 1
+weight: 6
+author: Ibn Khaldun
 ---
 
 

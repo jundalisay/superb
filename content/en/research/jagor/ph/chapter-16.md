@@ -1,6 +1,6 @@
 ---
 title: "Journey Along The Coast Of Camarines"
-date: 2022-02-24
+weight: 78
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 16"

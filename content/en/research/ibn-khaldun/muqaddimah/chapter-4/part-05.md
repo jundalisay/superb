@@ -4,7 +4,8 @@ description: "Towns are dwelling places that nations use when they have reached 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 5"
-weight: 1
+weight: 14
+author: Ibn Khaldun
 ---
 
 

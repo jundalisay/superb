@@ -3,7 +3,7 @@ title: "Why Alexander's Successors Remained "
 heading: "Chapter 4-7"
 author: "Niccolo Machiavelli"
 description: "His successors maintained themselves, and had no other difficulty than that which arose among themselves"
-date: 2021-09-26
+weight: 6
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "The Family Economy and Debt Slavery"
-date: 2022-01-28
+weight: 106
 image: /covers/travels.jpg
 description: "A family consisting of father, mother, and 5 children requires daily 12 chupas of rice"
 linkTitle: "Chapter 22b"

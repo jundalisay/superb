@@ -1,7 +1,7 @@
 ---
 heading: Chapter 7b
 title: "Lucban"
-date: 2022-04-08
+weight: 34
 image: /covers/travels.jpg
 description: "The province of Bulacan is on the northern shore of Manila Bay"
 linkTitle: "Chapter 7b"

@@ -1,13 +1,9 @@
 ---
 title: Investigation And Study
 heading: Chapter 23
-date: 2022-01-13
+weight: 48
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-22"
-linkbtext: "Chapter 22"
-linkf: "/research/mao/quotations/chapter-24"
-linkftext: "Chapter 24"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

@@ -1,17 +1,14 @@
+---
+title: Considerations on Gravitation
+author: Lorentz
+heading: Part 5
+description: Every theory of gravitation has to deal with the problem of the influence, exerted on this force by the motion of the heavenly bodies.
+image: "/covers/grav.jpg"
+# date2021-09-28"
+weight: 8
+---
 
-+++
-title= "Considerations on Gravitation"
-heading= "Part 8"
-date= 2021-09-28
-author= "Lorentz"
-image= "/covers/grav.jpg"
-description= "Every theory of gravitation has to deal with the problem of the influence, exerted on this force by the motion of the heavenly bodies."
-linkb= "/research/lorentz/gravitation/part-5"
-linkbtext= "Part 5"
-linkf= "/research/lorentz/gravitation/"
-linkftext= "Index"
-icon = "/icons/lor.jpg"
-+++
+
 
 Every theory of gravitation has to deal with the problem of the influence, exerted on this force by the motion of the heavenly bodies. The solution is easily deduced from our equations; it takes the same form as the corresponding solution for the electromagnetic actions between charged particles.[4]
 

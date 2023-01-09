@@ -1,7 +1,7 @@
 ---
 title: Socialism And Communism
 heading: Chapter 3
-date: 2022-01-29
+weight: 8
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

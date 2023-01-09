@@ -1,7 +1,7 @@
 ---
 heading: Chapter 15
 title: "Japanese and Their Earthen Jars"
-date: 2022-03-01
+weight: 68
 image: /covers/travels.jpg
 description: "The Datu of Tamparuli (Borneo) gave rice to the value of almost £700 for a jar, and that he possessed a second jar of almost fabulous value, which was about two feet high, and of a dark olive green"
 linkTitle: "Chapter 15"

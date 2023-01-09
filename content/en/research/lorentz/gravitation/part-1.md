@@ -1,39 +1,45 @@
-+++
-title= "Considerations on Gravitation by Lorentz"
-heading= "Part 1"
-date= "2021-09-28"
-author= "Lorentz"
-image= "/covers/grav.jpg"
-description= "Can we ascribe gravity to a certain state of the aether?"
-linkb= "/research/lorentz/gravitation/"
-linkbtext= "Index"
-linkf= "/research/lorentz/gravitation/part-5"
-linkftext= "Part 5"
-icon = "/icons/lor.jpg"
-+++
+---
+title: Can we ascribe gravity to a certain state of the aether?
+author: Lorentz
+heading: Part 1
+description: Can we ascribe gravity to a certain state of the aether?
+image: "/covers/grav.jpg"
+# date2021-09-28"
+weight: 4
+---
+
 
 <!-- § 1. After all we have learned in the last twenty or thirty years about the mechanism of electric and magnetic phenomena, it is natural to examine in how far it is possible to account for the force of -->
 
-Can we ascribe gravity to a certain state of the aether?
 
-A theory of universal attraction, founded on such an assumption, would take the simplest form if new hypotheses about the aether could be avoided, i.e. if the two states which exist in an electric and a magnetic field, and whose mutual connection is expressed by the well known electromagnetic equations were found sufficient for the purpose.
+A theory of universal attraction, founded on the state of the aether, would take the simplest form
 
-If further it be taken for granted that only electrically charged particles or ions, are directly acted on by the aether, one is led to the idea that every particle of ponderable matter might consist of two ions with equal opposite charges — or at least might contain two such ions — and that 
+ <!-- if new hypotheses about the aether could be avoided, i.e. if the two states which exist in an electric and a magnetic field, and whose mutual connection is expressed by Maxwell equations were found sufficient for the purpose. -->
+
+
+It is believed that only electrically charged particles or ions, are directly acted on by the aether. 
+
+This leads to the idea that every particle of ponderable matter might consist of 2 ions with equal opposite charges. Or at least:
+- they might contain 2 such ions 
 - gravity might be the result of the forces experienced by these ions. 
 
-So many phenomena have been explained by a theory of ions. This idea seems to be more admissible than it was ever before.
+So many phenomena have been explained by a theory of ions. This idea seems to be more admissible than before.
 
 Electromagnetic disturbances in the aether might possibly be the cause of gravitation. This is possible if <!-- , they must at all events be of such a nature, that --> they could penetrate all bodies without diminishing in intensity. 
 
-Electric vibrations of extremely small wave-length possess this property. But what action there would be between two ions, if the aether were traversed in all directions by trains of electric waves of small wave-length?
+Electric vibrations of extremely small wavelength possess this property. 
+
+But what action there would be between 2 ions, if the aether were traversed in all directions by trains of electric waves of small wavelength?
 
 The above ideas are not new. 
 
-Every physicist knows Le Sage's theory in which innumerable small corpuscula are supposed to move with great velocities, producing gravitation by their impact against the coarser particles of ordinary ponderable matter. 
+Every physicist knows Le Sage's theory in which innumerable small corpuscula are supposed to move with great velocities. This produces gravitation by their impact against the coarser particles of ordinary ponderable matter. 
 
 This theory is not in harmony with modern physical views. 
 
-But it was found that a pressure against a body may be produced as well by trains of electric waves and by rays of light (e.g. as by moving projectiles). When penetrating x-rays were discovered, it was natural to replace Le Sage's corpuscula by vibratory motions.
+But it was found that a pressure against a body may be produced as well by trains of electric waves and by rays of light (e.g. as by moving projectiles). 
+
+When penetrating x-rays were discovered, it was natural to replace Le Sage's corpuscula by vibratory motions.
 
 There could be radiations, far more penetrating than even the X-rays. This would account for gravity which is independent of all intervening matter. <!-- a force which as far as we know, is independent of all intervening ponderable matter? -->
 
@@ -75,13 +81,27 @@ e ( y ˙ H z − z ˙ H y ) {\displaystyle e\left({\dot {\mathsf {y}}}{\mathfrak
 
 If, as we shall suppose, the displacement of the ion be very small, compared with the wave-length, the forces (3) and (4) are much smaller than the force (1); since they are periodic — with the frequency 2n, — they will give rise to new vibrations of the particle. We shall however omit the consideration of these slight vibrations, and examine only the mean values of the forces (3) and (4), calculated for a rather long lapse of time, or, what amounts to the same thing, for a full period 2 π n {\displaystyle {\tfrac {2\pi }{n}}} {\displaystyle {\tfrac {2\pi }{n}}}.
 
-§ 3. It is immediately clear that this mean force will be 0 if the ion is alone in a field in which the propagation of waves takes place equally in all directions. It will be otherwise, as soon as a second ion Q has been placed in the neighbourhood of P; then, in consequence of the vibrations emitted by Q after it has been itself put in motion, there may be a force on P, of course in the direction of the line QP. In computing the value of this force, one finds a great number of terms, which depend in different ways on the distance r. We shall retain those which are inversely proportional to r or r2, but we shall neglect all terms varying inversely as the higher powers of r; indeed, the influence of these, compared with that of the first mentioned terms will be of the order λ r {\displaystyle {\tfrac {\lambda }{r}}} {\displaystyle {\tfrac {\lambda }{r}}} , if λ {\displaystyle \lambda } \lambda is the wave-length, and we shall suppose this to be a very small fraction.
+§ 3. 
+
+This mean force will be `0` if the ion is alone in a field in which the propagation of waves takes place equally in all directions. 
+
+It will be otherwise, as soon as a second ion `Q` has been placed in the neighbourhood of `P`. 
+
+Then, in consequence of the vibrations emitted by `Q` after it has been itself put in motion, there may be a force on `P`, of course in the direction of the line `QP`. 
+
+In computing the value of this force, one finds many terms, which depend in different ways on the distance `r`. 
+
+We shall retain those which are inversely proportional to `r` or `r2`. 
+
+But we shall neglect all terms varying inversely as the higher powers of `r`. 
+
+The influence of these, compared with that of the first mentioned terms will be of the order λ r {\displaystyle {\tfrac {\lambda }{r}}} {\displaystyle {\tfrac {\lambda }{r}}} , if λ {\displaystyle \lambda } \lambda is the wave-length, and we shall suppose this to be a very small fraction.
 
 We shall also omit all terms containing such factors as cos ⁡   2 π k r λ {\displaystyle \cos \ 2\pi k{\tfrac {r}{\lambda }}} {\displaystyle \cos \ 2\pi k{\tfrac {r}{\lambda }}} or sin ⁡   2 π k r λ {\displaystyle \sin \ 2\pi k{\tfrac {r}{\lambda }}} {\displaystyle \sin \ 2\pi k{\tfrac {r}{\lambda }}} (k a moderate number). These reverse their signs by a very small change in r; they will therefore disappear from the resultant force, as soon as, instead of single particles P and Q, we come to consider systems of particles with dimensions many times greater than the wave-length.
 
 In applying the above formulae to the ion P, it is sufficient, to take for d {\displaystyle {\mathfrak {d}}} {\displaystyle {\mathfrak {d}}} and H {\displaystyle {\mathfrak {H}}} {\displaystyle {\mathfrak {H}}} the vectors that would exist if P were removed from the field. In each of these vectors two parts are to be distinguished. We shall denote by d 1 {\displaystyle {\mathfrak {d}}_{1}} {\displaystyle {\mathfrak {d}}_{1}} and H 1 {\displaystyle {\mathfrak {H}}_{1}} {\displaystyle {\mathfrak {H}}_{1}} the parts existing independently of Q, and by d 2 {\displaystyle {\mathfrak {d}}_{2}} {\displaystyle {\mathfrak {d}}_{2}} and H 2 {\displaystyle {\mathfrak {H}}_{2}} {\displaystyle {\mathfrak {H}}_{2}} the parts due to the vibrations of this ion.
 
-Let Q be taken as origin of coordinates, QP as axis of x, and let us begin with the terms in (2) having the coefficient a.
+Let `Q` be taken as origin of coordinates, QP as axis of x, and let us begin with the terms in (2) having the coefficient `a`.
 
 To these corresponds a force on P, whose first component is
 4 π V 2 e 2 a ( d x ∂ d x ∂ x + d y ∂ d x ∂ y + d z ∂ d x ∂ z ) + e 2 a ( d ˙ y H z − d ˙ z H y ) {\displaystyle 4\pi V^{2}e^{2}a\left({\mathfrak {d}}_{\mathsf {x}}{\frac {\partial {\mathfrak {d}}_{\mathsf {x}}}{\partial x}}+{\mathfrak {d}}_{\mathsf {y}}{\frac {\partial {\mathfrak {d}}_{\mathsf {x}}}{\partial y}}+{\mathfrak {d}}_{\mathsf {\mathsf {z}}}{\frac {\partial {\mathfrak {d}}_{\mathsf {x}}}{\partial z}}\right)+e^{2}a\left({\mathfrak {\dot {d}}}_{\mathsf {y}}{\mathfrak {H}}_{\mathsf {z}}-{\mathfrak {\dot {d}}}_{\mathsf {z}}{\mathfrak {H}}_{\mathsf {y}}\right)} {\displaystyle 4\pi V^{2}e^{2}a\left({\mathfrak {d}}_{\mathsf {x}}{\frac {\partial {\mathfrak {d}}_{\mathsf {x}}}{\partial x}}+{\mathfrak {d}}_{\mathsf {y}}{\frac {\partial {\mathfrak {d}}_{\mathsf {x}}}{\partial y}}+{\mathfrak {d}}_{\mathsf {\mathsf {z}}}{\frac {\partial {\mathfrak {d}}_{\mathsf {x}}}{\partial z}}\right)+e^{2}a\left({\mathfrak {\dot {d}}}_{\mathsf {y}}{\mathfrak {H}}_{\mathsf {z}}-{\mathfrak {\dot {d}}}_{\mathsf {z}}{\mathfrak {H}}_{\mathsf {y}}\right)}. 	(5)

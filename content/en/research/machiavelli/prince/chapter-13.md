@@ -3,7 +3,7 @@ title: "Auxiliaries, Mixed Armies, And One's Own Soldiers"
 heading: "Chapter 13"
 author: "Niccolo Machiavelli"
 description: "Auxiliaries are the other kind of most useless soldiers. They are employed when a prince needs other forces to aid and defend him"
-date: 2021-09-12
+weight: 22
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

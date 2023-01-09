@@ -1,7 +1,7 @@
 ---
 title: The Communist Party
 heading: Chapter 1
-date: 2022-01-31
+weight: 4
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

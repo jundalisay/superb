@@ -1,7 +1,7 @@
 ---
 heading: Chapter 15c
 title: "Paracáli and Mambuláo"
-date: 2022-02-26
+weight: 72
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 15c"

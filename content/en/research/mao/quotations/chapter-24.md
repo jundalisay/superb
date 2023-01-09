@@ -1,13 +1,9 @@
 ---
 title: Correcting Mistaken Ideas
 heading: Chapter 24
-date: 2022-01-12
+weight: 50
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-23"
-linkbtext: "Chapter 23"
-linkf: "/research/mao/quotations/chapter-25"
-linkftext: "Chapter 25"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

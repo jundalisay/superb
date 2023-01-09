@@ -1,7 +1,7 @@
 ---
 title: Patriotism And Internationalism
 heading: Chapter 18
-date: 2022-01-16
+weight: 38
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

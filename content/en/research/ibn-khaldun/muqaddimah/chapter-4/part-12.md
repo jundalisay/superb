@@ -4,7 +4,8 @@ description: "When a city is large and highly developed, the prices of necessary
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 12"
-weight: 1
+weight: 22
+author: Ibn Khaldun
 ---
 
 

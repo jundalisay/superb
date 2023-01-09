@@ -1,7 +1,7 @@
 ---
 title: Leadership Of Party Committees
 heading: Chapter 10
-date: 2022-01-22
+weight: 22
 description: Quotations of Mao Simplified
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

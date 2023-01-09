@@ -1,7 +1,7 @@
 ---
 title: The Mass Line
 heading: Chapter 11
-date: 2022-01-21
+weight: 24
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

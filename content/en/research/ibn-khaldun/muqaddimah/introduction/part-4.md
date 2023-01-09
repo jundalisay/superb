@@ -4,7 +4,8 @@ description: "Another illustration of this kind of error is the baseless conclus
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 4"
-weight: 1
+weight: 10
+author: Ibn Khaldun
 ---
 
 

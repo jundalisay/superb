@@ -1,7 +1,7 @@
 ---
 heading: Chapter 8b
 title: "Legaspi in Albay"
-date: 2022-04-04
+weight: 38
 image: /covers/travels.jpg
 description: "The traffic between Manila and Legaspi is at its height between January and October. But during the autumn months, all communication by water ceases"
 linkTitle: "Chapter 8b"

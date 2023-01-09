@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10
 title: "Philippine Cacao"
-date: 2022-03-30
+weight: 42
 image: /covers/travels.jpg
 description: "The best cacao of the Philippines is produced in the small island of Maripipi, which lies to the north-west of Leyté"
 linkTitle: "Chapter 10"

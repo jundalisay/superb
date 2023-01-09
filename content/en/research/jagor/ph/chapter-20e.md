@@ -1,6 +1,6 @@
 ---
 title: "Manufacture Of Coconut Oil"
-date: 2022-02-05
+weight: 100
 image: /covers/travels.jpg
 description: "On the southern half of the eastern border, on the shore from Borongan by Láuang as far as Guíuan, there are considerable plantations of coconuts, which are most imperfectly applied to oil production"
 linkTitle: "Chapter 20e"

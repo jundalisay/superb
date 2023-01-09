@@ -2,7 +2,7 @@
 heading: Chapter 1
 title: "Commercial Relations"
 linkTitle: Chapter 1
-date: 2022-04-30
+weight: 4
 image: /covers/travels.jpg
 description: "The Philippines, or at any rate, the principal market for their commerce, would have fallen within the limits of the western hemisphere, to which indeed they were relegated by the illustrious Spanish geographers at Badajoz"
 author: Jagor

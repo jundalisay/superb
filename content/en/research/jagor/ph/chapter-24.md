@@ -1,9 +1,9 @@
 ---
 title: "Abacá or Manila Hemp"
-date: 2022-01-18
+weight: 114
 image: /covers/travels.jpg
 description: "One of the most interesting products of the Philippines is Manila hemp, so called by the French."
-linkTitle: "Chapter 24"
+heading: "Chapter 24"
 author: Jagor
 icon: /graphics/flag.png
 ---

@@ -1,7 +1,7 @@
 ---
 title: Serving The People
 heading: Chapter 17
-date: 2022-01-17
+weight: 36
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

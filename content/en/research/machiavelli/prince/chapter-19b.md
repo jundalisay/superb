@@ -3,7 +3,7 @@ title: "The Roman Emperors"
 heading: "Chapter 19b"
 author: "Niccolo Machiavelli"
 description: "Machiavelli says a prince must take bits of Marcus and Severus"
-date: 2021-08-30
+weight: 34
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

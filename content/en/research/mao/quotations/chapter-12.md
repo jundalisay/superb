@@ -1,7 +1,7 @@
 ---
 title: Political Work
 heading: Chapter 12
-date: 2022-01-20
+weight: 26
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

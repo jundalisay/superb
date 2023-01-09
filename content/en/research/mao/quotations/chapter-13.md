@@ -1,7 +1,7 @@
 ---
 title: Relations Between Officers And Men
 heading: Chapter 13
-date: 2022-01-21
+weight: 28
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

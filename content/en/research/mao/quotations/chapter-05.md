@@ -1,7 +1,7 @@
 ---
 title: War and Peace
 heading: Chapter 5
-date: 2022-01-27
+weight: 12
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

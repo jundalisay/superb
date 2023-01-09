@@ -4,7 +4,8 @@ heading: "Section 2 of Das Kapital by Karl Marx"
 author: "Karl Marx"
 image: "/covers/daskapital.jpg"
 description: "Circulation of values"
-date: "2020-01-31"
+weight: 6
+# date: "2020-01-31"
 ---
 
 

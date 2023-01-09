@@ -1,13 +1,9 @@
 ---
 title: The Communists
 heading: Chapter 10
-date: 2022-01-10
+weight: 56
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-27"
-linkbtext: "Chapter 27"
-linkf: "/research/mao/quotations/chapter-30"
-linkftext: "Chapter 30"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

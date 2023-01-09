@@ -2,7 +2,7 @@
 heading: Chapter 13b
 linkTitle: Chapter 13b
 title: "Tribal People"
-date: 2022-03-15
+weight: 56
 image: /covers/travels.jpg
 description: "Manila lies 650 nautical miles south-east of Hongkong. A mail steamer can travel it in 3 to 4 days"
 author: Jagor

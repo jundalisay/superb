@@ -1,7 +1,7 @@
 ---
 title: Relations Between The Army And The People
 heading: Chapter 14
-date: 2022-01-20
+weight: 30
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

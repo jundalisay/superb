@@ -1,7 +1,9 @@
 ---
 title: Quotations from Mao Zedong
 linkTitle: Quotations
+author: Mao Zedong
 description: Quotations from Mao
 image: "/covers/mao.jpg"
-date: 2022-03-10
+#date2022-03-10
+weight: 60
 ---

@@ -1,7 +1,7 @@
 ---
 title: Education And The Training Of Troops
 heading: Chapter 16
-date: 2022-01-18
+weight: 34
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

@@ -1,7 +1,7 @@
 ---
 title: Building Our Country Through Diligence And Frugality 
 heading: Chapter 20
-date: 2022-01-15
+weight: 42
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

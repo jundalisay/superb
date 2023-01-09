@@ -3,7 +3,7 @@ title: "Is It Better To Be Loved Than Feared?"
 heading: "Chapter 17"
 author: "Niccolo Machiavelli"
 description: "Every prince should want to be considered kind and not cruel. Nevertheless, he should take care not to misuse this kindness"
-date: 2021-09-06
+weight: 28
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

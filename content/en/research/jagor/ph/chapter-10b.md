@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10b
 title: "Philippine Coffee"
-date: 2022-03-28
+weight: 44
 image: /covers/travels.jpg
 description: "According to the report of an Englishman in 1828, the coffee-plant was almost unknown 40 years before, and was represented only by a few specimens in the Botanical Gardens at Manila"
 linkTitle: "Chapter 10b"

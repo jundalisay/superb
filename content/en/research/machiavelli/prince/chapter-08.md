@@ -3,7 +3,7 @@ title: "Those Who Have Obtained A Principality By Wickedness"
 heading: "Chapter 8"
 author: "Niccolo Machiavelli"
 description: "How could Agathocles, and his like, after infinite wickedness and cruelties, should live securely for so long in his country?"
-date: 2021-09-20
+weight: 12
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

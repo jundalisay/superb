@@ -3,7 +3,7 @@ title: "The Personal Staff Of Princes"
 heading: "Chapter 22"
 author: "Niccolo Machiavelli"
 description: "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
-date: 2021-08-24
+weight: 40
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

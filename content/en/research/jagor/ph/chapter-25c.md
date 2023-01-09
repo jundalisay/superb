@@ -1,7 +1,7 @@
 ---
 title: "The System Of Control"
-linkTitle: "Chapter 25c"
-date: 2022-01-12
+heading: "Chapter 25c"
+weight: 120
 image: /covers/travels.jpg
 description: "At the time of my visit, the royal factories could not turn out a supply of cigars commensurate with the requirements of commerce"
 author: Jagor

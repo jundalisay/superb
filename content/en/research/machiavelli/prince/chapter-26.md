@@ -3,7 +3,7 @@ title: "A Call To Liberate Italy From The Invaders"
 heading: "Chapter 26"
 author: "Niccolo Machiavelli"
 description: "The choice of staff is very important to a prince, and they are good or not according to the discrimination of the prince"
-date: 2021-08-18
+weight: 44
 image: "/covers/prince.png"
 icon: "/icons/mach.jpg"
 ---

@@ -1,13 +1,9 @@
 ---
 title: Self-reliance And Arduous Struggle
 heading: Chapter 21
-date: 2022-01-15
+weight: 44
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-20"
-linkbtext: "Chapter 20"
-linkf: "/research/mao/quotations/chapter-22"
-linkftext: "Chapter 22"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---

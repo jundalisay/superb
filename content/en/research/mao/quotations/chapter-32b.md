@@ -1,16 +1,13 @@
 ---
 title: Study
 heading: Chapter 32
-date: 2022-01-08
+weight: 64
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
-linkb: "/research/mao/quotations/chapter-32"
-linkbtext: "Chapter 32"
-linkf: "/research/mao/quotations/"
-linkftext: "Index"
 author: "Mao Zedong"
 icon: /icons/mao.png
 ---
+
 
 
 In transforming a backward agricultural China into an advanced industrialized country, we are confronted with arduous tasks and our experience is far from adequate. So we must be good at learning. 

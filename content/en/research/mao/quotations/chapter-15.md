@@ -1,7 +1,7 @@
 ---
 title: Democracy In The 3 Main Fields
 heading: Chapter 15
-date: 2022-01-19
+weight: 32
 description: Quotations of Mao
 image: "/covers/quotations.jpg"
 author: "Mao Zedong"

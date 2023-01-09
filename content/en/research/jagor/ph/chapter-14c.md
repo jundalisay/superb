@@ -1,7 +1,7 @@
 ---
 heading: Chapter 14c
 title: "The Domestic Philippine Economy"
-date: 2022-03-05
+weight: 64
 image: /covers/travels.jpg
 description: ""
 linkTitle: "Chapter 14C"

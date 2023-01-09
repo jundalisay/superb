@@ -4,7 +4,8 @@ description: "The condition of the inhabitants in regions that have an abundant 
 image: "/covers/muq.jpg"
 icon: "/icons/ibn.jpg"
 heading: "Part 14"
-weight: 1
+weight: 24
+author: Ibn Khaldun
 ---
 
 

@@ -1,10 +1,11 @@
 ---
 title: "The Measure Of Values"
-heading: "Section 1 of Das Kapital"
+heading: "Section 1"
 author: "Karl Marx"
 image: "/covers/daskapital.jpg"
-description: "Circulation of values"
-date: "2020-01-31"
+description: "The first chief function of money is to express the comparative value of commodities as the universal measure of value"
+weight: 4
+# date: "2020-01-31"
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 title: "Degree Of Civilisation"
-date: 2022-02-22
+weight: 82
 image: /covers/travels.jpg
-description: ""
+description: "Wax is in demand for church solemnities"
 linkTitle: "Chapter 17"
 author: Jagor
 icon: /graphics/flag.png

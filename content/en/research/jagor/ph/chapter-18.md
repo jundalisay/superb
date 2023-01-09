@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 18a"
 title: "Mazarága"
-date: 2022-02-18
+weight: 84
 image: /covers/travels.jpg
 description: "From the Ysaróg I returned through Nága and Nabua to Yriga"
 linkTitle: "Chapter 18a"

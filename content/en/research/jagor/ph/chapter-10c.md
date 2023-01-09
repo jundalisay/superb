@@ -1,7 +1,7 @@
 ---
 heading: Chapter 10c
 title: "Philippine Theater"
-date: 2022-04-26
+weight: 46
 image: /covers/travels.jpg
 description: "According to the report of an Englishman in 1828, the coffee-plant was almost unknown 40 years before, and was represented only by a few specimens in the Botanical Gardens at Manila"
 linkTitle: "Chapter 10c"
