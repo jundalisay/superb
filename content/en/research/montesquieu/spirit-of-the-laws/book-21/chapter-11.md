@@ -1,15 +1,13 @@
-+++
-title= "Carthage and Marseilles"
-heading= "Chapter 11"
-date= 2021-09-22
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "THE law of nations which obtained at Carthage, was very extraordinary all strangers, who traded to Sardinia and towards Hercules’s pillars, this haughty republic sentenced to be drowned."
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-10"
-linkbtext= "Chapter 10"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-12"
-linkftext= "Chapter 12"
-+++
+---
+heading: "Chapter 11"
+title: "Carthage and Marseilles"
+weight: 60
+description: "THE law of nations which obtained at Carthage, was very extraordinary all strangers, who traded to Sardinia and towards Hercules’s pillars, this haughty republic sentenced to be drowned"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
 
 
 THE law of nations which obtained at Carthage, was very extraordinary. All strangers, who traded to Sardinia and towards Hercules’s pillars, this haughty republic sentenced to be drowned.

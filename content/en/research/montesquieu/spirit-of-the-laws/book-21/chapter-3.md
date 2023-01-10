@@ -1,15 +1,12 @@
-+++
-title= "The wants of the People in the South are different from those of the North"
-heading= "Chapter 3 of Book 21"
-date= 2021-09-29
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "The North is generally industrious while the South is lazy"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-4"
-linkftext= "Chapter 4"
-+++
+---
+heading: "Chapter 3"
+title: "The wants of the People in the South are different from those of the North"
+weight: 74
+description: "The North is generally industrious while the South is lazy"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
 In Europe, there is a kind of balance between the southern and northern nations.

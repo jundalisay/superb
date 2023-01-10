@@ -1,15 +1,15 @@
-+++
-title= "Public Debts"
-heading= "Chapter 17"
-description= "SOME have imagined that it was advantageous for a state to be indebted to itself"
-image= "/covers/spirit.jpg"
-# image= "https://sorasystem.sirv.com/photos/medieval/sest.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-14"
-linkbtext= "Chapter 14"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-19"
-linkftext= "Chapter 19"
-+++
+---
+title: "Public Debts"
+heading: "Chapter 17"
+description: "SOME have imagined that it was advantageous for a state to be indebted to itself"
+image: "/covers/spirit.jpg"
+weight: 20
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
+
 
 SOME have imagined that it was advantageous for a state to be indebted to itself. 
 
@@ -38,7 +38,7 @@ People make this error by reflecting, that the paper which represents the debt o
 
 
 
-## Chapter 18= The Payment of Public Debts
+## Chapter 18: The Payment of Public Debts
 
 There should be a proportion between the state as creditor, and the state as debtor. 
 

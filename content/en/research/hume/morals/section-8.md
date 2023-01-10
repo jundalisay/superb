@@ -1,15 +1,13 @@
-+++
-title       = "Qualities Immediately Agreeable To Others"
-description = "No quality is absolutely either blameable or praiseworthy. It is all according to its degree"
-date        = "2020-06-16"
-image = "/covers/morals.jpg"
-author      = "David Hume"
-linkTitle   = "Section 8"
-linkb = "/research/hume/morals/section-7"
-linkbtext = "Section 7"
-linkf = "/research/hume/morals/section-9"
-linkftext = "Section 9"
-+++
+---
+title: "Qualities Immediately Agreeable To Others"
+heading: "Section 8"
+description: "The mutual shocks in SOCIETY and the oppositions of interest and ego have constrained mankind to establish the laws of JUSTICE, in order to preserve the advantages of mutual assistance and protection"
+image: /covers/morals.jpg
+author: David Hume
+icon: /avatars/hume.png
+weight: 24
+---
+
 
 
 [Footnote=  The natural definition of virtue is **a quality of the mind agreeable to or approved of by every one who considers or contemplates it**. Some qualities produce pleasure because they are useful to society or to the person himself, Other qualities produce pleasure more immediately. This is the case with the class of virtues here.]

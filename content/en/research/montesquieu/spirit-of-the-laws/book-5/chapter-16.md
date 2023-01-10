@@ -1,16 +1,14 @@
-+++
-title=  "The Communication of Power"
-heading=  "Chapters 16-18=  The Simple Spirit of the Laws by Montesquieu Volume 1"
-date=  2015-09-09
-image= "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-5/chapter-13"
-linkbtext=  "Chapter 13"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-5/chapter-19"
-linkftext=  "Chapter 19"
-+++
+---
+heading: "Chapters 16-17"
+title: "The Communication of Power"
+weight: 12
+description: "WHEN the savages of Louisiana want fruit, they cut the tree to the root, and gather the fruit. This is an emblem of despotic government"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-## Chapter 16=  The Communication of Power
+
 
 IN a despotic government, the power is communicated entire to the person intrusted with it. The vizir himself is the despotic prince; and each particular officer is the vizir. In monarchies, the power is less immediately applied, being tempered by the monarch as he gives it‡. He makes such a distribution of his authority, as never to communicate a part of it without reserving a greater share to himself.
 
@@ -47,9 +45,9 @@ They, who receive nothing, expect nothing. They, who receive a little, soon cove
 
 Besides, it is much easier to convict a man, who knows himself obliged to accept of no present at all, and yet will accept of something, than a person who takes more when he ought to take less, and who always finds pretexts, excuses, and plausible reasons, in justification of his conduct.
 
-<br>
 
-## Chapter 18=  Rewards conferred by the Sovereign
+
+## Chapter 18: Rewards conferred by the Sovereign
 
 IN despotic governments, the principal motive of action is the hope of the conveniences of life. The prince who confers rewards has nothing to bestow but money. 
 

@@ -1,13 +1,10 @@
+---
+heading: "Book 28"
+title: "The Origin of the French Civil Laws"
+linkTitle: "Book 28"
+weight: 20
+# "2021-09-30"
+description: "Book 28 of The Spirit of the Laws by Montesquieu Simplified in 45 chapters"
+image: "/covers/spirit.jpg"
+---
 
-
-
-
-
-+++
-title=  "The Origin of the French Civil Laws"
-data=  "2021-08-20"
-description=  "Book 28 of The Spirit of the Laws by Montesquieu Simplified"
-author= "Montesquieu"
-image=  "/covers/spirit.jpg"
-# heading=  Book 28, 45 chapters
-+++

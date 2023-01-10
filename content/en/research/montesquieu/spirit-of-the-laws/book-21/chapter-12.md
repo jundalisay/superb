@@ -1,18 +1,15 @@
+---
+heading: "Chapter 12"
+title: "The Isle of Delos and Mithridates"
+weight: 60
+description: "From the earliest times, the Greeks sent colonies to Propontis and to the Euxine sea"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
 
-+++
-title= "The Isle of Delos and Mithridates"
-heading= "Chapter 12"
-date= 2021-09-21
-description= "From the earliest times, the Greeks sent colonies to Propontis and to the Euxine sea"
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-11"
-linkbtext= "Chapter 11"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-15"
-linkftext= "Chapter 15"
-+++
 
 UPON the destruction of Corinth by the Romans, the merchants retired to Delos island, which was <!-- from religious considerations was looked upon as --> a place of safety. It was extremely well situated for the commerce of Italy and Asia, which, since the reduction of Africa, and the weakening of Greece, was grown more important.
 

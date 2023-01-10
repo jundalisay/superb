@@ -1,20 +1,18 @@
+---
+heading: "Chapter 19"
+title: "The Wars that Rome Sustained"
+weight: 17
+description: "Another consequence of the maxim of waging perpetual war was that the Romans only made peace when  they were victorious"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
 
-+++
-title=  "The Wars that Rome Sustained"
-heading=  "Chapter 1b of Volume 3"
-date=  2021-09-29
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "Another consequence of the maxim of waging perpetual war was that the Romans only made peace when  they were victorious"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-2"
-linkftext=  "Chapter 2"
-+++
+Another consequence of the maxim of waging perpetual war was that the Romans only made peace when  they were victorious. 
 
-Another consequence of the maxim of waging perpetual war was that the Romans only made peace when  they were victorious. Why would they make an ignominious peace with one nation, and afterwards go and invade another?
+Why would they make an ignominious peace with one nation, and afterwards go and invade another?
 
 In this view, their pretensions rose always in proportion to their defeat; by this they surprized the conqueror, and said themselves under a greater necessity of conquering.
 

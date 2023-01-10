@@ -1,18 +1,21 @@
-+++
-title=  "Ancient vs Modern Education. Education in a Republic"
-heading=  "Chapter 4-5=  "
-date=  2015-09-09
-image= "/covers/spirit.jpg"
-description=  "The education in modern and ancient Europe were very different"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-4/chapter-1"
-linkbtext=  "Chapter 1"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-4/chapter-6"
-linkftext=  "Chapter 6"
-+++
+---
+heading: "Chapters 3-4"
+title: "Ancient vs Modern Education. Education in a Republic"
+weight: 4
+description: "The education in modern and ancient Europe were very different"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-## Chapter 3=  Education in a despotic Government
 
-AS education in monarchies tends to raise and ennoble the mind, in despotic governments its only aim is to debase it. Here it must necessarily be servile=  even in power such an education will be an advantage, because every tyrant is at the same time a slave.
+## Chapter 3: Education in a Despotic Government
+
+Education in monarchies tends to raise and ennoble the mind. 
+
+In despotic governments, its only aim is to debase it. 
+- Here, it must necessarily be servile. 
+- Even in power, such an education will be an advantage because every tyrant is at the same time a slave.
 
 Excessive obedience supposes ignorance in the person that obeys. The same it supposes in him that Edition=  current; Page=  [42] commands; for he has no occasion to deliberate, to doubt, to reason; he has only to will.
 
@@ -20,10 +23,11 @@ In despotic states each house is a separate government. As education, therefore,
 
 Here therefore education is in some measure needless=  to give something, one must take away every thing; and begin with making a bad subject, in order to make a good slave.
 
-For why should education take pains in forming a good citizen, only to make him share in the public misery? If he loves his country, he will strive to relax the springs of government=  if he miscarries, he will be undone=  if he succeeds, he must expose himself, the prince, and his country, to ruin.⚓✪
+For why should education take pains in forming a good citizen, only to make him share in the public misery? If he loves his country, he will strive to relax the springs of government=  if he miscarries, he will be undone=  if he succeeds, he must expose himself, the prince, and his country, to ruin.
 
 
-## Chapter 4=  Difference between the Effects of ancient and modern Education
+
+## Chapter 4: Difference between the Effects of ancient and modern Education
 
 MOST of the ancients lived under governments that had virtue for their principle; and, when this was in full vigour, they performed actions unusual in our times, and at which our narrow minds are astonished.
 
@@ -32,9 +36,11 @@ Another advantage their education had over ours; it never was effaced by contrar
 In our days we receive three different or contrary educations; namely, of our parents, of our masters, and of the world. What we learn in the latter effaces all the ideas of the former. This in some measure arises from the contrast we experience between our religious and worldly engagements; a thing unknown to the ancients.
 
 
-## Chapter 5=  Education in a republican Government.
+## Chapter 5: Education in a republican Government.
 
-IT is in a republican government that the whole power of education is required. The fear of despotic governments naturally rises of itself amidst threats and punishments=  the honour of monarchies is favoured by the passions, and favours them in its turn=  but virtue is a self-renunciation, which is ever arduous and painful.
+IT is in a republican government that the whole power of education is required. The fear of despotic governments naturally rises of itself amidst threats and punishments: the honour of monarchies is favoured by the passions, and favours them in its turn. 
+
+But virtue is a self-renunciation, which is ever arduous and painful.
 
 This virtue may be defined the love of the laws and of our country. As such love requires a constant preference of public to private interest, it is the source of all private virtues; for they are nothing more than this very preference itself.
 
@@ -49,5 +55,3 @@ People have it generally in their power to communicate their ideas to their chil
 If it happens otherwise, it is because the impressions made at home are effaced by those they have received abroad.
 
 It is not the young people that degenerate=  they are not spoilt till those of maturer age are already sunk into corruption.
-
-

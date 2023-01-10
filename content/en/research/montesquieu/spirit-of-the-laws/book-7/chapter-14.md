@@ -1,12 +1,14 @@
-+++
-title=  "Sumptuary Laws among the Romans"
-heading=  "Chapters 14-17 of The Spirit of the Laws Book 7 Simplified"
-description=  "Research from Montesquieu"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-7/chapter-8"
-linkbtext=  "Chapter 8"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-8"
-linkftext=  "Book 8"
-+++
+---
+heading: "Chapters 14"
+title: "Sumptuary Laws among the Romans"
+weight: 8
+description: "Public incontinence is the inseparable companion of luxury"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 Public incontinence is the inseparable companion of luxury. 
 
@@ -16,7 +18,7 @@ At Rome, besides the general institutions, the censors prevailed on the magistra
 
 In Livy, the great ferment the senate was in when the women insisted upon the revocation of the Oppian law. The abrogation o f this law is fixed upon, by Valerius Maximus, as the period from whence we may date the luxury of the Romans.
 
-<br>
+
 
 ## Chapter 15: Dowries and nuptial Advantages in different Constitutions
 
@@ -30,9 +32,8 @@ It is less so in a republic, where women are possessed of more virtue. But it wo
 
 As women are in a state that furnishes su fficient inducements to marriage, the advantages which the law gives them o ver the husband's property are of no service to society=  but, in a republic, they would be extremely prejudicial, because riches are productiv e of luxury. In despotic governments the profits accruing from marriage oug ht to be mere subsistence, and no more.
 
-<br>
 
-## Chapter 16=  An excellent Custom of the Samnites
+## Chapter 16: An excellent Custom of the Samnites
 
 THE Samnites were a very small republic. They had a custom to gather the young people in one place. Their conduct was examined. The best was allowed to choose the girl he wanted to be his wife. The second best chose after him and so on. 
 
@@ -42,9 +43,8 @@ Love, beauty, chastity, virtue, birth, and even wealth itself, were all, in some
 
 The Samnites were descended from the Spartans. Plato, whose institutes are only an improvement of those of Lycurgus, enacted nearly the same law.
 
-<br>
 
-## Chapter 17=  Female-Administration
+## Chapter 17: Female-Administration
 
 IT is contrary to reason and nature for women to reign in families, as was customary among the Egyptians. Their natural weakness prevents their preeminence.
 

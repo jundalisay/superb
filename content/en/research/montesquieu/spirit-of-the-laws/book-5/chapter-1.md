@@ -1,17 +1,13 @@
+---
+heading: "Chapters 1-9"
+title: "Governance Laws should be Relative to the Type of Government"
+weight: 4
+description: "The laws of governance should be relative to the principle of each government, just as the laws of education are"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-
-
-+++
-title=  "Governance Laws should be Relative to the Type of Government"
-heading=  "Chapters 1-9 "
-date=  2015-09-09
-image= "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-4"
-linkbtext=  "Book 4"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-5/chapter-8"
-linkftext=  "Chapter 8"
-+++
 
 The laws of governance should be relative to the principle of each government, just as the laws of education are. 
 
@@ -21,9 +17,8 @@ And thus it is, in mechanics, that action is al ways followed by re-action.
 
 We examine this relation in each government, beginning with the republican state, whose principle is  virtue.
 
-<br>
 
-## Chapter 2=  What is meant by Virtue in a Political State
+## Chapter 2: What is meant by Virtue in a Political State
 
 VIRTUE in a republic is a most simple thing.
 
@@ -31,17 +26,18 @@ It is a love of the republic; it is a sensation, and not a consequence  of acqui
 
  a sensation that may be felt by the meanest as well  as by the highest person in the state. 
 
-When the common people adopt good maxims, they adhere to them steadier than those we call gentlemen. It is very rare that corruption commences with the former=  nay, they frequently deriv e from their imperfect light a stronger attachment to the established laws  and customs.
+When the common people adopt good maxims, they adhere to them steadier than those we call gentlemen. It is very rare that corruption commences with the former.
+
+Nay, they frequently deriv e from their imperfect light a stronger attachment to the established laws  and customs.
 
 The love of our country is conducive to a purity of morals which then is conducive to the former. 
 
 The less we are able to satisfy our private passions, the more we abandon ourselve s to those of a general nature. How comes it that monks are so fond of thei r order? It is owing to the very cause that renders the order insupportable. 
 
-Their rule debars them of all those things by which the ordinary passions are fed; there remains, therefore, only this passion for the very rule tha t torments them=  the more austere it is, that is, the more it curbs their i nclinations, the more force it gives to the only passion left them.
+Their rule debars them of all those things by which the ordinary passions are fed; there remains, therefore, only this passion for the very rule that torments them=  the more austere it is, that is, the more it curbs their i nclinations, the more force it gives to the only passion left them.
 
-<br>
 
-## Chapter 3=  What is meant by a Love of the R epublic, in a Democracy.
+## Chapter 3: What is meant by a Love of the R epublic, in a Democracy.
 
 A love of the republic, in a democracy, i s a love of the democracy; as the latter is that of equality.
 
@@ -69,9 +65,9 @@ It is the same with respect to frugality. To love it, we must practise and enjoy
 
 A true maxim it is, therefore, that, in o rder to love equality and frugality in a republic, these virtues must have  been previously established by law.
 
-<br>
 
-## Chapter 5=  How the Laws establish Equality in a Democracy.
+
+## Chapter 5: How the Laws establish Equality in a Democracy.
 
 SOME ancient legislators, as Lycurgus and Romulus, made an equal division of lands. A settlement of this kind can ne ver take place but upon the foundation of a new republic, or when the old o ne is so corrupt, and the minds of the people are so disposed, Edition=  current; Page=  [55] that the p oor think themselves obliged to demand, and the rich obliged to consent to, a remedy of this nature.
 
@@ -97,54 +93,9 @@ Phaleas of Chalcedon contrived a very extraordinary me thod of rendering all for
 
 Though real equality be the very soul of  a democracy, it is so difficult to establish, that an extreme exactness in  this respect would not be always convenient. Sufficient it is to establish  a census,* which shoul d reduce or fix the differences to a certain point=  it is afterwards the bu siness of particular laws to level, as it were, the inequalities, by the d uties laid upon the rich, and by the ease afforded to the poor. It is moder ate riches alone that can give or suffer this sort of compensations; for, a s to men of over-grown estates, every thing which does not contribute to ad vance their power and honour is considered by them as an injury.
 
-All inequality in democracies ought to be derived from the nature of the government, and even from the principle of  equality. For example, it may be apprehended that people, who are obliged t o live by their labour, would be too much impoverished by a public employme nt, or neglect the duties attending it; that artisans would grow insolent;  and that too great a number of freemen would overpower the ancient citizens . In this case the equalityE280A0 in a democracy may be suppressed, for the good of the state. But this is only an apparent equality=  for a man ruined by a public employ ment would be in a worse condition than his fellow-citizens; and this same  man, being obliged to neglect his duty, would reduce the rest to a worse co ndition than himself; and so on.
-CHAP. VI.=  In what Manner the Laws ought to  maintain Frugality in a Democracy.
+All inequality in democracies ought to be derived from the nature of the government, and even from the principle of  equality. For example, it may be apprehended that people, who are obliged t o live by their labour, would be too much impoverished by a public employme nt, or neglect the duties attending it; that artisans would grow insolent;  and that too great a number of freemen would overpower the ancient citizens.
 
-IT is not sufficient, in a well-regulated democracy, that the divisions of land be equal; they ought also to be smal l, as was customary among the Romans. God forbid,E2809D said Cu rius to his soldiers,E2 80A1 E2809Cthat a citizen should look upon that as a small piece o f land which is sufficient to maintain him.
+In this case, the equality in a democracy may be suppressed, for the good of the state.
 
-As equality of fortunes supports frugalit y, so the latter maintains the former. These things, though in themselves d ifferent, are of such a nature as to be unable to subsist separately=  they  reciprocally act upon each other=  if one withdraws itself from a democracy, the other surely follows it.
+But this is only an apparent equality. A man ruined by a public employ ment would be in a worse condition than his fellow-citizens; and this same  man, being obliged to neglect his duty, would reduce the rest to a worse co ndition than himself; and so on.
 
-True it is, that, when a democracy is fou nded in commerce, private people may acquire vast riches without a corrupti on of morals. This is because the spirit of commerce is naturally attended  with that of frugality, C593conomy, moderation, labour, prudence, tranqui lity, order, and rule. So long as this spirit subsists, the riches it produ ces have no bad effect. The mischief is when excessive wealth destroys the  spirit of commerce=  then it is that the inconveniences of inequality begin  to be felt.
-
-In order to support this spirit, commerce should be carried on by the principal citizens=  this should be their sole  aim and study; this the chief object of the laws=  and these very laws, by d ividing the estates of individuals in proportion to the increase of commerc e, should set every poor citizen so far at his ease, as to be able to work  like the rest; and every wealthy citizen in such a mediocrity, as to be obl iged to take some pains either in preserving or acquiring a fortune.
-
-It is an excellent law, in a trading repu blic, to make an equal division of the paternal estate among the children.  The consequence of this is, that, how great soever a fortune the father has made, his children, being not so rich as he, are induced to avoid luxury,  and to work as he had done. I speak here only of trading republics; for, as to those that have no commerce, the legislator must pursue quite different measures.
-
-In Greece there were two sorts of republi cs; the one military, like Sparta; the other commercial, as Athens. In the  former, the citizens were obliged to be idle; in the latter, endeavours wer e used to inspire them with the love of industry and labour. Solon made idl eness a crime, and insisted that each citizen should give an account of his manner of getting a livelihood. And indeed, in a well-regulated democracy, where peopleE28099s expences should extend only to what is necessary, e very one ought to have it; for how should their wants be otherwise supplied.
-
-
-## Chapter 7=  Other Methods of favouring the Principle of Democracy.
-
-AN equal division of lands cannot be esta blished in all democracies. There are some circumstances in which a regulat ion of this nature would be impracticable, dangerous, and even subversive o f the constitution. We are not always obliged to proceed to extremes. If it appears that this division of lands, which was designed to preserve the pe opleE28099s morals, does not suit with the democracy, recourse must be h ad to other methods.
-
-If a permanent body be established, to se rve as a rule and pattern of manners; a senate, to which years, virtue, gra vity, and eminent services, procure admittance; the senators, by being expo sed to public view like the statues of the gods, must naturally inspire eve ry family with sentiments of virtue.
-
-Above all, this senate must steadily adhe re to the ancient institutions, and mind that the people and the magistrate s never swerve from them.
-
-The preservation of the ancient customs i s a very considerable point in respect to manners. Since a corrupt people s eldom perform any memorable actions, Edition=  current; Page=  [61] seldom establish societies, build cit ies, or enact laws=  on the contrary, since most institutions are derived fr om people whose manners are plain and simple, to keep up the ancient custom is the way to preserve the original purity of morals.
-
-Besides, if, by some revolution, the stat e has happened to assume a new form, this seldom can be effected without in finite pains and labour, and hardly ever by idle and debauched persons. Eve n those who had been the instruments of the revolution were desirous it sho uld be relished; which is difficult to compass without good laws. Hence it  is that ancient institutions generally tend to reform the peopleE28099s  manners, and those of modern date to corrupt them. In the course of a long  administration the descent to vice is insensible; but there is no reascendi ng to virtue without making the most generous efforts.
-
-It has been questioned, whether the membe rs of the senate we are speaking of ought to be for life, or only chosen fo r a time. Doubtless they ought to be for life, as was the custom at Rome,* at Sparta,E280A0 and even at Athens=  for  we must not confound the senate at Athens, which was a body that changed ev ery three months, with the Areopagus, whose members, as standing patterns,  were established for life.
-
-Let this be therefore a general maxim; th at, in a senate designed to be a rule and the depositary, as it were, of ma nners, the members ought to be chosen for life; in a senate intended for the administration of affairs the members may be changed.
-
-The spirit, says Aristotle, waxes old, as well as the body. This reflection holds good only in regard to a single ma gistrate, but cannot be applied to a senatorian assembly.
-
-At Athens, beside the Areopagus, there we re guardians of the public morals, as well as of the laws.E280A1 At Sparta all the old men we re censors. At Rome the censorship was committed to two particular magistra tes. As the senate watched over the people, the censors were to have an eye over the people and the senate. Their office was to reform the corruptions of the republic, to stigmatize indolence, to censure neglects, and to corr ect mistakes=  as to flagrant crimes, these were left to the punishment of t he laws.
-
-That Roman law, which required the accusa tions in cases of adultery to be public, was admirably well calculated for  preserving the purity of morals; it intimidated married women, as well as t hose who were to watch over their conduct.
-
-Nothing contributes more to the preservat ion of morals than an extreme subordination of the young to the old. Thus t hey are both restrained, the former by their respect for those of advanced  age, and the latter by their regard for themselves.
-
-Nothing gives a greater force to the laws than a perfect subordination between the citizens and the magistrate. The great difference which Lycurgus established between Sparta and th e other cities (says Xenophon*) consists chiefly in the obedience the citizens shew to the laws=  they run when the magistrate calls them. But, at Athens, a rich man would b e highly displeased to be thought dependent on the magistrate.
-
-Paternal authority is likewise of great u se towards the preservation of morals. We have already observed, that, in a republic, there is not so coercive a force as in other governments. The la ws must therefore endeavour to supply this defect by some means or other; a nd this is done by paternal authority.
-
-Fathers, at Rome, had the power of life a nd death over their children.E280A0 At Sparta every father had a right to correct another man's child.
-
-Paternal authority ended, at Rome, togeth er with the republic. In monarchies, where such a purity of morals is not r equired, they are controuled by no other authority than that of the magistr ates.
-
-The Roman laws, which accustomed young pe ople to dependence, established a long minority. Perhaps we are mistaken in conforming to this custom=  there is no necessity for so much constraint in monarchies.
-
-This very subordination in a republic mig ht make it necessary for the father to continue in the possession of his children's fortune during life, as was the custom at Rome. But this i s not agreeable to the spirit of monarchy.

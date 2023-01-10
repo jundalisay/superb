@@ -1,17 +1,14 @@
-+++
-title= "New Consequences of the Principles of the three Governments"
-heading= "Chapters 19= The Simple Spirit of the Laws by Montesquieu Volume 1"
-date= 2015-09-09
-image= "https://sorasystem.sirv.com/avatars/mont.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-5/chapter-16"
-linkbtext= "Chapter 16"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-6"
-linkftext= "Book 6"
-+++
+---
+heading: "Chapter 9"
+title: "The Severity of Punishments in different Governments"
+weight: 8
+description: "There are still many states where many judges to decide exchequer causes, and where the ministers judge cases."
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-## Chapter 9= The Severity of Punishments in different Governments.
 
 THE severity of punishments is fitter for despotic governments, whose principle is terror, than for a monarchy or a republic, whose spring is honour and virtue.
 
@@ -33,25 +30,32 @@ When, in reading history, we observe the cruelty of the sultans in the administr
 
 In moderate governments, a good legislator may make use of every thing by way of punishment. Is it not very extraordinary, that one of the chief penalties, at Sparta, was to deprive a person of the power of lending out his wife, or of receiving the wife of another man, and to oblige him to have no company at home but virgins? In short, whatever the law calls a punishment, is such effectively.
 
-<br>
 
-## Chapter 10= The ancient French Laws
 
-IN the ancient French laws we find the true spirit of monarchy. In cases relating to pecuniary mulcts, the common people are less severely punished than the nobility‡= but in criminal∥ cases it is quite the [107] reverse; the nobleman loses his honour and his voice in court, while the peasant, who has no honour to lose, undergoes a corporal punishment.
+## Chapter 10: The ancient French Laws
 
-<br>
 
-## Chapter 11= When People are virtuous, few Punishments are necessary.
+The true spirit of monarchy was in the ancient French laws. 
 
-THE people of Rome had some share of probity. Such was the force of this probity, that the legislator had frequently no farther occasion than to point out the right road, and they were sure to follow it. One would imagine, that, instead of precepts, it was sufficient to give them counsels.
+In cases relating to pecuniary mulcts, the common people are less severely punished than the nobility‡. 
+
+But in criminal cases, it is quite the reverse. The nobleman loses his honour and his voice in court, while the peasant, who has no honour to lose, undergoes a corporal punishment.
+
+
+
+## Chapter 11: When People are Virtuous, few Punishments are necessary
+
+THE people of Rome had some share of probity. 
+
+Such was the force of this probity, that the legislator had frequently no farther occasion than to point out the right road, and they were sure to follow it. One would imagine, that, instead of precepts, it was sufficient to give them counsels.
 
 The punishments of the regal laws, and those of the twelve tables, were almost all abolished in the time of the republic, in consequence either of the Valerian§ or of the Porcian law.¶ It was never observed that this step did any manner of prejudice to the civil administration.
 
 This Valerian law, which restrained the magistrates from using violent methods against a citizen that had appealed to the people, inflicted no other punishment on the person who infringed it than that of being reputed a dishonest man.*
 
-<br>
 
-## Chapter 12= The Power of Punishments
+
+## Chapter 12: The Power of Punishments
 
 In countries that have lenient laws, the people are much affected by slight penalties, as other countries are affected by severer punishments.
 
@@ -84,13 +88,11 @@ The Athenians were therefore all massacred, except Adymantes who had opposed thi
 Lysander reproached Philocles before he was put to death, with having depraved the people’s minds, and given lessons of cruelty to all Greece.
 
 
-Plutarch says= 
+Plutarch says:
 
 {{< quote >}}
 <p>The Argives having put fifteen hundred of their citizens to death, the Athenians ordered sacrifices of expiation, that it might please the gods to turn the hearts of the Athenians from so cruel a thought.</p>
-</div>
+{{< /quote >}}
 
 There are two sorts of corruption; one when the people do not observe the laws; the other when they are corrupted by the laws= an incurable evil, because it is in the very remedy itself.
-
-<br>
 

@@ -1,16 +1,14 @@
+---
+heading: "Chapter 18"
+title: "Some new maxims received by the Romans"
+weight: 17
+description: "SOMETIMES the pusillanimous spirit of the emperors†, and frequently the defenceless state of the empire made the people employ their money to appease the nations that threatened to invade them"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-+++
-title=  "Some new maxims received by the Romans"
-heading=  "Chapter 18 of The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-17"
-linkbtext=  "Chapter 17"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-19"
-linkftext=  "Chapter 19"
-+++
+
 
 SOMETIMES the pusillanimous spirit of the emperors † , and frequently the defenceless state of the empire made the people employ their money to appease the nations that threatened to invade them; but the desired peace could never be effectually purchased, because those who sold it could, whenever they pleased, oblige the Romans to buy it again.
 
@@ -48,7 +46,11 @@ In a word, the Romans lost their military discipline, and even neglected it in t
 
 The same author adds, they had lost the art of fortifying their camps, and that by this negligence they were easily overwhelmed by the Barbarian horse.
 
-The cavalry of the first Romans was not numerous, it was but the eleventh part of the legion, and often less, and what is extraordinary, was made less use of by them than by us who are obliged to carry on so many sieges, where cavalry is of little service. When the Roman empire was in its decay, their forces consisted of little else but cavalry. I imagine, as a nation improves in the knowledge of the military art, it trusts the more to its intantry; and as that science decreases, it increases its cavalry in proportion=  the reason is, because the infantry, whether light or heavy, is nothing without discipline, whereas, the cavalry is always of use, even in its disorder * . The action of the latter consists chiefly in its impetuosity and sudden shock; that of the former in its resistance and impenetrable firmness, which is not so much action as re-action. Lastly, the force of the cavalry is momentaneous; that of the infantry of longer duration; now there is need of discipline to continue it in a persevering state.
+The cavalry of the first Romans was not numerous, it was but the eleventh part of the legion, and often less, and what is extraordinary, was made less use of by them than by us who are obliged to carry on so many sieges, where cavalry is of little service. When the Roman empire was in its decay, their forces consisted of little else but cavalry.
+
+I imagine, as a nation improves in the knowledge of the military art, it trusts the more to its intantry; and as that science decreases, it increases its cavalry in proportion=  the reason is, because the infantry, whether light or heavy, is nothing without discipline, whereas, the cavalry is always of use, even in its disorder * . 
+
+The action of the latter consists chiefly in its impetuosity and sudden shock; that of the former in its resistance and impenetrable firmness, which is not so much action as re-action. Lastly, the force of the cavalry is momentaneous; that of the infantry of longer duration; now there is need of discipline to continue it in a persevering state.
 
 The Romans arrived at universal monarchy not only by the arts of war, but likewise by their wisdom, their perseverance, their passion for glory, and their heroic love for their country=  and when even these virtues disappeared under the emperors, and they had only the art military among them, yet this alone, notwithstanding the weakness and tyranny of their princes, enabled them to preserve their former acquisitions. But when corruption had at last insinuated itself among the soldiery, they became the prey of every nation.
 
@@ -56,12 +58,20 @@ An empire founded by arms, must likewise have arms for its support. But as a peo
 
 It was an inviolable law among the Romans, that whoever abandoned his post or quitted his arms in the combat, should be punished with death. Julian and Valentinian, had reinforced the ancient penalties in this particular; but the Barbarians who were taken into the Roman pay * , and were accustomed to make war in the manner now practised by the Tartars, who fly in order to rally, and are more solicitous for plunder than martial reputation, were incapable of conforming to such severe regulations.
 
-The discipline of the ancient Romans was so strict that they have had generals who sentenced their own children to die, for gaining a battle without their orders=  but when they were intermixed with the Barbarians, they contracted, from that association, the same spirit of independence which marks out the character of those nations; and such as read the wars of Belifarius with the Goths, will see a general very frequently disobeyed by his officers.
+The discipline of the ancient Romans was so strict that they have had generals who sentenced their own children to die, for gaining a battle without their orders. 
 
-Sylla and Sertorius amidst the fury of civil wars would rather die than connive at any thing from whence Mithridates might derive the least advantage; but in the succeeding times, when a minister † or any grandee [138] imagined it would be favourable to his avarice, his revenge, or ambition, to admit the Barbarians into the empire, he immediately permitted them to give a loose to their depredations.
+But when they were intermixed with the Barbarians, they contracted, from that association, the same spirit of independence which marks out the character of those nations; and such as read the wars of Belifarius with the Goths, will see a general very frequently disobeyed by his officers.
+
+Sylla and Sertorius amidst the fury of civil wars would rather die than connive at any thing from whence Mithridates might derive the least advantage. 
+
+But in the succeeding times, when a minister † or any grandee [138] imagined it would be favourable to his avarice, his revenge, or ambition, to admit the Barbarians into the empire, he immediately permitted them to give a loose to their depredations.
 
 No states are more necessitated for tributes than those which are weak, because this circumstance obliges them to augment their charges in proportion to the people’s inability to defray them; and therefore the tributes in the Roman provinces became insupportable.
 
-It would not be improper to read Salvian’s * account of the horrible exactions that were made upon the people. The citizens were so harrassed by the farmers of the revenue, that they were obliged either to seek refuge among the Barbarians, or surrender their liberty to the first of their insatiable countrymen who would accept of such a present.
+Salvian* had an account of the horrible exactions that were made upon the people. 
 
-This may account for the relations we find in our French history, of the patience with which the Gauls supported a revolution calculated to establish that shocking distinction between a gallant nation, and a community of servile wretches; I say, between a nation who retained their liberty and military privileges, and an ignoble body of people. The Barbarians, in making so many citizens slaves to till the earth, that is, the country to which they were attached, introduced no services which were not more cruelly exacted before † .
+The citizens were so harrassed by the farmers of the revenue, that they were obliged either to seek refuge among the Barbarians, or surrender their liberty to the first of their insatiable countrymen who would accept of such a present.
+
+This may account for the relations we find in our French history, of the patience with which the Gauls supported a revolution calculated to establish that shocking distinction between a gallant nation, and a community of servile wretches; I say, between a nation who retained their liberty and military privileges, and an ignoble body of people. 
+
+The Barbarians made so many citizens slaves until country produced no more services which were not more cruelly exacted before † .

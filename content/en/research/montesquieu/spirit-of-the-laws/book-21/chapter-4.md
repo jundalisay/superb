@@ -1,20 +1,19 @@
+---
+heading: "Chapter 3"
+title: "The Principal Difference between the Commerce of the Ancients and the Moderns"
+weight: 74
+description: "European trade is currently carried on principally from the north to the south"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-+++
-title= "The principal Difference between the Commerce of the Ancients and the Moderns"
-heading= "Chapter 4-5"
-date= 2021-09-28
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= ""
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-3"
-linkbtext= "Chapter 3"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-6"
-linkftext= "Chapter 6"
-+++
+
 
 Commerce has changed through time.
 
 European trade is currently carried on principally from the north to the south.
+
 The difference of climate is the cause that the several nations have great occasion for the merchandizes of each other.
 For example, the liquors of the south, which are carried to the north, form a commerce little known to the ancients.
 Thus the burden of vessels, which was formerly computed by measures of corn, is at present determined by tons of liquor.
@@ -27,9 +26,9 @@ The commerce of Europe was therefore formerly less extended than at present.
 
 This does not at all contradict what I have said of our commerce to the Indies= for here the prodigious difference of climate destroys all relation between their wants and ours.
 
-<br>
 
-## Chapter 5= Other Differences
+
+## Chapter 5: Other Differences
 
 COMMERCE is sometimes destroyed by conquerors, sometimes cramped by monarchs.
 - it traverses the earth, flies from the places where it is oppressed, and stays where it has liberty to breathe:

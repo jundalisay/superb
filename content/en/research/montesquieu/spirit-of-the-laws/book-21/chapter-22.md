@@ -1,17 +1,14 @@
+---
+heading: "Chapter 22"
+title: "The Riches which Spain drew from America"
+weight: 74
+description: "Philip 2nd succeeded Charles 5th. He was obliged to make the celebrated bankruptcy known to all the world"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-+++
-title= "The Riches which Spain drew from America"
-heading= "Chapter 22"
-date= 2021-09-16
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "Philip 2nd succeeded Charles 5th. He was obliged to make the celebrated bankruptcy known to all the world"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-21"
-linkbtext= "Suicide"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-1"
-linkftext= "Immortality-of-the-soul"
-+++
 
 Spain has derived so many advantages from the American trade.
 

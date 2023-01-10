@@ -1,13 +1,15 @@
-+++
-title= "How Republics provide for their Safety"
-heading= "Chapter 1"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-7"
-linkbtext= "Book 7"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-8/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+heading: "Chapter 1"
+title: "How Republics provide for their Safety"
+weight: 4
+description: "A small republic is destroyed by a foreign force"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
+
 
 A small republic is destroyed by a foreign force. 
 
@@ -48,7 +50,7 @@ This government is composed of petty republics, it enjoys the internal happiness
 
 Because of its association, it has all the advantages of large monarchies with regard to its external situation.
 
-<br>
+
 
 ## Chapter 2: A Confederate Government Should be Republican
 <!-- Have States of the same Nature, especially of the Republican Kind. -->
@@ -71,7 +73,7 @@ Thus in the Roman history, t hat, when the Veientes had chosen a king, they were
 
 Greece was undone as soon as the kings of Macedon obtained a seat among the Amphictyons.
 
-<br>
+
 
 ## Chapter 3: Other Requisites in a Confederate Republic
 

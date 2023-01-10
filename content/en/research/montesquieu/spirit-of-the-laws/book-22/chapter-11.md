@@ -1,31 +1,30 @@
+---
+title: "How Rome Devalued their Money"
+heading: "Chapter 11"
+description: "Our two successive ministers exerted much authority over our French coin. But this was vastly exceeded by the Romans after they conquered Italy and had war with the Carthaginians when they raised their coin"
+image: "/covers/spirit.jpg"
+weight: 14
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-+++
-title= "How Rome Devalued their Money"
-heading= "Chapter 11 The Proceedings of the Romans with respect to Money from The Spirit of the Laws"
-date= 2020-01-01
-image= "/covers/spirit.jpg"
-description= "Debasing the national coin cannot increase national wealth"
-linkbtext= "Chapter 7"
-linkb= "/research/mun/englands-treasure/chapter-7"
-linkftext= "Chapter 8"
-linkf= "/research/mun/englands-treasure/chapter-8"
-+++
 
-Our two successive ministers exerted much authority over our French coin. But this was vastly exceeded by the Romans after they conquered Italy and had war with the Carthaginians when they raised their coin:
+
+Our 2 successive ministers exerted much authority over our French coin. But this was vastly exceeded by the Romans after they conquered Italy and had war with the Carthaginians when they raised their coin:
 
 - In the first Punic war their 12 ounces of copper weighed only 2 ounces.
 - In the second Punic war, it was no more than 1 ounce.
 
-A modern example is to take half the silver from a crown of fix livres, in order to:
+A modern example is to take half the silver from a crown of 5 livres, in order to:
 - make two crowns, or
 - raise it to the value of 12 livres.
 
 They mentioned this in the second Punic war, as a proof of the most consummate wisdom.
 
 The republic could not pay her debts.
-- The as weighed two ounces of copper.
-- The denarius was ten ases (20 ounces).
+- The as weighed 2 ounces of copper.
+- The denarius was 10 ases (20 ounces).
 
 The republic was willing to gain half on her creditors so it made an as of 1 ounce of copper and paid the value of a denarius with 10 ounces.  They had in view the deliverance of the republic and not of the citizens. 
 
@@ -35,9 +34,9 @@ To soften the injustice, they made a denarius contain 16 ases. This made the rep
                 
 The Romans then conducted themselves with greater prudence than us.
 
-<br>
 
-## Chapter 12= The Situation of Rome when they Devalued their Money
+
+## Chapter 12: The Situation of Rome when they Devalued their Money
 
 Italy had few mines of gold or silver and so they had few of those metals. When Rome was taken by the Gauls, they found only 1,000 weight of gold. And yet the Romans had sacked many powerful cities, and brought home their wealth.
 

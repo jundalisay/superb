@@ -1,16 +1,14 @@
+---
+heading: "Chapter 2"
+title: "The Science of War of the Romans"
+weight: 17
+description: "The Romans devoted themselves entirely to war, and considered it as the only science. Vegetius says that this inspired them with the idea of the legion"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-+++
-title=  "The Science of War of the Romans"
-heading=  "Chapter 2 of Volume 3"
-date=  2015-09-28
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-1b"
-linkbtext=  "Chapter 1b"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-3"
-linkftext=  "Chapter 3"
-+++
+
 
 The Romans devoted themselves entirely to war, and considered it as the only science. Vegetius says that this inspired them with the idea of the legion.
 

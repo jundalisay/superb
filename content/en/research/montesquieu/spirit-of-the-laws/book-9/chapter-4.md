@@ -1,13 +1,13 @@
-+++
-title= "How Republics provide for their Safety"
-heading= "Chapter 4"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-9/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-10"
-linkftext= "Book 10"
-+++
+---
+heading: "Chapter 4"
+title: "How Despotic Governments provide for their Safety"
+weight: 6
+description: "A small republic is destroyed by a foreign force"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
 
 
 ## Chapter 4: How Despotic Governments provide for their Security
@@ -70,10 +70,7 @@ The subjects of this prince become vain overseas. They would never have the soli
 <!-- , who, in tra velling abroad, are never affected but with what they have left at home; wh o, on quitting their own habitations, look upon glory as their chief object , and, in distant countries, as an obstacle to their return; who disgust yo u even by their good qualities, because they are tainted with so much vanity; who are capable of supporting wounds, perils, and fatigues, but not of foregoing their pleasures; who are supremely fond of gaiety, and comfort the mselves for the loss of a battle by a song upon the general;  -->
 
 
-
-<br>
-
-## Chapter 8= A Case where a state's defensive power is inferior to their offensive power
+## Chapter 8: A Case where a state's defensive power is inferior to their offensive power
 
 The lord of Coucy said to King Charles 5th that the English are easiest to overcome in their own country. 
 
@@ -85,17 +82,18 @@ The lord of Coucy's maxim is an exception to the general rule, which disapproves
 
 This exception confirms likewise the rule, because it takes place only with regard to those by whom such wars are undertaken.
 
-<br>
 
-## Chapter 9= The relative Force of States
+## Chapter 9: The relative Force of States
 
 ALL grandeur, force, and power, are rela tive. Care, therefore, must be taken, that, in endeavouring to increase the real grandeur, the relative be not diminished.
 
-Under the reign of Lewis 14th, France was at its highest pitch of relative grandeur. Germany had not yet produced su ch powerful princes as have since appeared in that country. Italy was in th e same case. England and Scotland were not yet formed into one united kingd om. Arragon was not joined to Castile= the distant branches of the Spanish  monarchy were weakened by it, and weakened it in their turn= and Muscovy wa s as little known in Europe as Crim-Tartary.
+Under the reign of Lewis 14th, France was at its highest pitch of relative grandeur. Germany had not yet produced su ch powerful princes as have since appeared in that country. Italy was in th e same case. England and Scotland were not yet formed into one united kingd om. 
 
-<br>
+Arragon was not joined to Castile= the distant branches of the Spanish  monarchy were weakened by it, and weakened it in their turn= and Muscovy wa s as little known in Europe as Crim-Tartary.
 
-## Chapter 10= The Weakness of neighbouring States.
+
+
+## Chapter 10: The Weakness of neighbouring States
 
 WHENSOEVER a state lies contiguous to an other that happens to be in its decline, the former should take care not to precipitate the ruin of the latter, because this is the happiest situation imaginable. 
 

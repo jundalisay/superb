@@ -1,18 +1,23 @@
-+++
-title=  "Tiberius"
-description=  "The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-13"
-linkbtext=  "Chapter 13"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-15"
-linkftext=  "Chapter 15"
-+++
+---
+heading: "Chapter 14"
+title: "Tiberius"
+weight: 17
+description: "Some nations chose to preserve their ancient usages and not assist Rome"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-AS a river, sometimes, with a slow and silent progress, undermines the banks that have been thrown up to restrain its current, and at last overwhelms them in a moment, and sheds an inundation over the fields they formerly preserved; in the same manner, the supreme authority, which gained an insensible growth under Augustus, bore down all before it in the succeeding reign of Tiberius.
 
-A law at that time subsisted, which made it treason to form any injurious attempt against the majesty of the people=  Tiberius assumed to himself the interpretation and enforcement of this law, and extended it not only to the cases for which it was originally calculated, but to every conjuncture that could possibly be favourable to his hatred or suspicions. And now, not only actions, but words and signs, and even thoughts were adjudged by this standard=  for those expressions which drop from the overflowing of the heart, in the conversation of intimate friends, are always supposed to be their real sentiments. All freedom was therefore banished from their feasts, diffidence reigned among relations, there was no fidelity among the slaves=  the gloomy disposition and insincerity of the prince were diffused through all ranks of men; friendship had the disrepute of a dangerous quicksand; a fine genius passed for a shining indiscretion, and virtue itself was only considered as an affectation, which officiously reminded the people of their lost happiness.
+
+
+A river sometimes, slowly and silently, undermines the banks that restrain its current. When it succeeds, it floods the fields they formerly preserved. 
+
+In the same way, the supreme authority, which gained an insensible growth under Augustus, bore down all before it in the succeeding reign of Tiberius.
+
+A law at that time subsisted, which made it treason to form any injurious attempt against the majesty of the people=  Tiberius assumed to himself the interpretation and enforcement of this law, and extended it not only to the cases for which it was originally calculated, but to every conjuncture that could possibly be favourable to his hatred or suspicions. 
+
+Now, not only actions, but words and signs, and even thoughts were adjudged by this standard=  for those expressions which drop from the overflowing of the heart, in the conversation of intimate friends, are always supposed to be their real sentiments. All freedom was therefore banished from their feasts, diffidence reigned among relations, there was no fidelity among the slaves=  the gloomy disposition and insincerity of the prince were diffused through all ranks of men; friendship had the disrepute of a dangerous quicksand; a fine genius passed for a shining indiscretion, and virtue itself was only considered as an affectation, which officiously reminded the people of their lost happiness.
 
 No tyranny can have a severer effect than that which is exercised under the appearance of laws, and [97] with the plausible colours of justice; when the executors of cruel power would, if we may use the expression, drown the unhappy wretches on the very plank that before saved them amidst the troubled waves.
 

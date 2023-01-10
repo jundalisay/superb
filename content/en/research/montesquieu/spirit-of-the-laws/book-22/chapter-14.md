@@ -1,16 +1,14 @@
+---
+title: "How the Exchange is a Constraint on Despotic Power"
+heading: "Chapter 14"
+description: "Moscow would have descended from its despotic power, but could not"
+image: "/covers/spirit.jpg"
+weight: 18
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-+++
-title= "How the Exchange is a Constraint on despotic Power"
-heading= "Chapter 14"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-# image= "https://sorasystem.sirv.com/photos/medieval/sest.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-13"
-linkftext= "Chapter 13"
-+++
+
 
 Moscow would have descended from its despotic power, but could not.
 
@@ -30,9 +28,9 @@ Russia is composed only of:
 
 There is then nobody left for the third estate of mechanics and merchants.
 
-<br>
 
-## Chapter 15= The Practice in Italy
+
+## Chapter 15: The Practice in Italy
 
 THEY have made laws in some part of Italy to prevent subjects from selling their lands, in order to remove their coin into foreign countries.
 
@@ -49,9 +47,8 @@ It is a bad law because it:
 - deters foreigners from settling in the country and
 - may be eluded.
 
-<br>
 
-## Chapter 16= The Assistance a State may derive from Bankers
+## Chapter 16: The Assistance a State may derive from Bankers
 
 THE bankers business is to change, not to lend money.
 

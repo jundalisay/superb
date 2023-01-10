@@ -1,19 +1,14 @@
+---
+title: "The relative Scarcity of Gold and Silver"
+heading: "Chapter 9"
+description: "BESIDES the positive plenty and scarcity of gold and silver, there is still a relative abundance and a relative scarcity of one of these metals compared to the other"
+image: "/covers/spirit.jpg"
+weight: 10
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-
-
-+++
-title= "The relative Scarcity of Gold and Silver"
-heading= "Chapter 9"
-description= "BESIDES the positive plenty and scarcity of gold and silver, there is still a relative abundance and a relative scarcity of one of these metals compared to the other"
-image= "/covers/spirit.jpg"
-# image= "https://sorasystem.sirv.com/photos/medieval/sest.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
 
 BESIDES the positive plenty and scarcity of gold and silver, there is still a relative abundance and a relative scarcity of one of these metals compared to the other.
 

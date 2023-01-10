@@ -3,7 +3,7 @@ title: Freedom and Consequence
 description: We would expect that in most disputed questions since the first origin of philosophy, that the meaning of all the terms, at least, should have been agreed upon among the disputants
 image: /covers/enquiry.jpg
 # date: "2020-01-01"
-weight: 1
+weight: 26
 heading: "Section 8"
 ---
 

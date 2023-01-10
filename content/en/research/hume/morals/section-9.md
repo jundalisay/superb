@@ -1,18 +1,13 @@
-+++
-title       = "Conclusion"
-description = "No quality is absolutely either blameable or praiseworthy. It is all according to its degree"
-date        = "2020-06-16"
-banner 		= "/covers/morals.jpg"
-author      = "David Hume"
-# keywords    = ["documentation"]
-linkTitle   = "Section 9"
-tags        = []
-categories  = []
-linkb = "/research/hume/morals/section-8"
-linkbtext = "Section 8"
-linkf = "/research/hume/morals/section-9p2"
-linkftext = "Section 9 Part 2"
-+++
+---
+title: "Conclusion"
+heading: "Section 9"
+description: "IT is surprising that any man in so late an age, should find it requisite to prove, by elaborate reasoning, that Personal Merit consists altogether in the possession of mental qualities, USEFUL or AGREEABLE to the PERSON HIMSELF or to OTHERS"
+image: /covers/morals.jpg
+author: David Hume
+icon: /avatars/hume.png
+weight: 26
+---
+
 
 ## PART 1
 

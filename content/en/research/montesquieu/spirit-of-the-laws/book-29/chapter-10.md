@@ -1,25 +1,30 @@
-+++
-title=  "The Corruption of the Romans"
-heading=  "Chapter 10 of The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-9"
-linkbtext=  "Chapter 9"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-11"
-linkftext=  "Chapter 11"
-+++
+---
+heading: "Chapter 10"
+title: "The Corruption of the Romans"
+weight: 14
+description: "Some nations chose to preserve their ancient usages and not assist Rome"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-I think that the sect of Epicurus, which began to be propagated at Rome, towards the close of the republic, was very prejudicial to the minds and genius of the people. 
 
-The Greeks had been infatuated with its doctrines long before. Consequently, they were corrupted much earlier than the Romans. Polybius says  that oaths, in his time, could not induce any person to place confidence in a Greek, whereas they were considered by a Roman as inviolable obligations upon his conscience.
+
+
+The sect of Epicurus began to be propagated at Rome towards the end of the republic. It think that it was very prejudicial to the minds and genius of the people. 
+
+The Greeks had been infatuated with its doctrines long before. 
+
+Consequently, they were corrupted much earlier than the Romans. 
+
+Polybius says that oaths, in his time, could not induce any person to place confidence in a Greek, whereas they were considered by a Roman as inviolable obligations upon his conscience.
+
 
 One of Cicero’s letters to Atticus writes how much the Romans had degenerated in this since the time of Polybius.
 
-<div class="squote mont" data-sal="slide-right">
+{{< q >}}
 “Memmius imparted to the senate the agreement he and his fellow candidate had made with the consuls, by which the latter stipulated to favour them in their solicitations for the consulship the ensuing year; and they obliged themselves to pay four hundred thousand sesterces to the consuls, if they did not furnish them with three augurs, who should declare they themselves were present when the people made the Curiatian law, though in reality it had not been enacted; and two former consuls, who should affirm they had assisted at signing the edict of the senate which regulated the state of the provinces assigned to the present consuls, notwithstanding no such edict was in being.” 
-</div>
+{{< /q >}}
 
 What an admirable set of people we discover in a single contract!
 

@@ -1,22 +1,24 @@
+---
+title: "How the Emperors Devalued their Coin"
+heading: "Chapter 13"
+description: "Proceedings with respect to Money in the Time of the Emperors"
+image: "/covers/spirit.jpg"
+weight: 16
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-+++
-title= "How the Emperors Devalued their Coin"
-heading= "Chapter 13"
-description= "Proceedings with respect to Money in the Time of the Emperors"
-image= "/covers/spirit.jpg"
-# image= "https://sorasystem.sirv.com/photos/medieval/sest.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-11"
-linkbtext= "Chapter 11"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-14"
-linkftext= "Chapter 14"
-+++
+
+
 
 The Roman republic devalued their coin by adding alloys because of the unwise spending of their leaders. They even plated or covered cheap metals like copper with a thin plate of silver. This money is mentioned in the 77th book of Dio. 
 
 Didius Julian first began to debase it.
+
 The coin of Caracalla had an alloy of more than half.
+
 The coin of Alexander Severus had 2/3.
+
 The debasing increased until under Gallienus until the silver coin was merely copper silvered over.
 
 <!-- The state reposed in the people the knowledge of its wants; and did not pretend to deceive them.

@@ -1,42 +1,41 @@
+---
+heading: "Chapter 17"
+title: "Changes in the State"
+weight: 17
+description: "IN this period, the Stoics propagated their doctrines in the empire with great popularity"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
 
 
-
-+++
-title=  "Changes in the State"
-heading=  "Chapter 17 of The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-16"
-linkbtext=  "Chapter 16"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-18"
-linkftext=  "Chapter 18"
-+++
-
-To prevent the continual treasons of the army= 
+To prevent the continual treasons of the army:
 - the Roman emperors associated into the government proper persons in whom they might confide.
 - Dioclesian, under pretext of the weight and multiplicity of the public affairs, established a law, that there should always be two Emperors and as many Cæsars. 
 
-He judged that this would make the four main armies being possessed by the partners in the empire, would naturally intimidate one another, and that the inferior armies being too weak to have any thoughts of raising [124] their chiefs to the imperial dignity, their custom of election would be gradually discontinued, and entirely abolished at last. Besides, the dignity of the Cæsars being always subordinate, that power, which, for the security of the government, was in the participation of four, would be exercised in its full extent by no more than two.
+He judged that this would make the four main armies being possessed by the partners in the empire, would naturally intimidate one another, and that the inferior armies being too weak to have any thoughts of raising [124] their chiefs to the imperial dignity, their custom of election would be gradually discontinued, and entirely abolished at last. 
+
+Besides, the dignity of the Cæsars being always subordinate, that power, which, for the security of the government, was in the participation of four, would be exercised in its full extent by no more than two.
 
 The soldiers were likewise restrained from their exorbitances by considering, that as the riches of particular persons as well as the public treasure were considerably diminished, the emperors were in no condition to offer them such large donations as formerly, and consequently the gratuities would be no longer proportionable to the danger of a new election.
 
-The prefects of 
+<!-- The prefects of  -->
 
-The power of the prætorian guard= 
+The power of the prætorian guard:
 - made them the grand visirs of those times
 - frequently tempted them to murder their emperors in order to raise themselves to the throne.
 
-This power was greatly reduced by Constantine by= 
+This power was greatly reduced by Constantine by: 
 - divesting them of all but their civil functions
-- increasing them to four instead of two.
+- increasing them to 4 instead of 2
 
 The made the lives of the emperors more secure. But this security <!--  began now to be in greater security, and they might reasonably expect to die peaceably in their beds. This circumstance seems in some measure to have --> softened their dispositions. They no longer shed much human blood like their <!--  with the barbarous prodigality of their --> predecessors. 
 
-But as the immense power they still possessed must needs have some particular tendency, it began to manifest itself in a species of tyranny less glaring than the former. The subjects no longer had the fear of inhuman massacres. Instead, they were harassed by unjust sentences and forms of judicature, which deferred death only to render life itself uncomfortable. 
+But as the immense power they still possessed must needs have some particular tendency, it began to manifest itself in a species of tyranny less glaring than the former. 
+
+The subjects no longer had the fear of inhuman massacres. Instead, they were harassed by unjust sentences and forms of judicature, which deferred death only to render life itself uncomfortable. 
 
 The court governed, and was likewise swayed in its turn, by a greater variety of artifices and a more exquisite train of political resinements, which were conducted with greater silence than [125] usual. 
 
@@ -88,7 +87,7 @@ After he had weakened the capital, Constantine weakened [129] the frontiers by t
 
 <!-- This innovation was extremely prejudicial in more instances than one; for as the barrier which comprehended so many nations was now removed; so the soldiers * passed all their time, and grew  † . -->
 
-When Julian was sent by Constantius into Gaul, he found that= 
+When Julian was sent by Constantius into Gaul, he found that:
 - 50 towns on the Rhine had been taken by the Barbarians
 - the provinces were all plundered
 - the Roman army was gone, fleeing at the very mention of the enemies' name.
@@ -97,11 +96,11 @@ By his wisdom, preservance, economy, conduct, and valour, he led a series of her
 
 
 
-The characters of the emperors were greatly disfigured by= 
+The characters of the emperors were greatly disfigured by:
 - the shortness of the reigns
 - the various political parties, the different religions and their sects have  
 
-Examples are=  
+Examples are:
 - Alexander is a coward in Herodian but is a hero in Lampridius
 - Gratian is so highly celebrated [130] by the Orthodox but is compared to Nero by Philostorgius
 
@@ -119,10 +118,14 @@ Some people think that the slime which was rolled down by the current of the Tan
 
 Others think that two young Scythians being in full pursuit of a hind, the terrified creature swam over that arm of the sea, upon which the youths immediately followed her in the same track, were exceedingly astonished to find [131] themselves in a new world; and, at their return to the old one, they gave their countrymen * a particular account of the strange hands, and if I may be indulged the expression, in inviting Indies they had lately discovered.
 
-Upon this information, an innumerable body of Huns immediately passed those streights; and, meeting first with the Goths, made that people fly before them. It should seem as if these mighty countries poured their nations out precipitately upon one another, and that Asia had acquired a new weight to make it ponderate equal to the European power.
+Upon this information, an innumerable body of Huns immediately passed those streight. They met the Goths for the first time and made them fly before them. 
 
-The Goths in consternation presented themselves on the banks of the Danube, and with a suppliant air intreated the Romans to allow them a place of refuge. The flatterers † of Valens improved this conjecture, and represented it as a fortunate conquest of a new people, who, by the accession of their numbers, would defend and enrich the empire.
+It should seem as if these mighty countries poured their nations out precipitately upon one another, and that Asia had acquired a new weight to make it ponderate equal to the European power.
 
-Valens ordered them to be admitted into his territories upon delivering up their arms; but his officers suffered them to re-purchase with their money as many as they pleased=  
+The Goths in consternation presented themselves on the banks of the Danube. With a suppliant air, they intreated the Romans to allow them a place of refuge. 
+
+The flatterers† of Valens improved this conjecture, and represented it as a fortunate conquest of a new people, who, by the accession of their numbers, would defend and enrich the empire.
+
+Valens ordered them to be admitted into his territories upon delivering up their arms; but his officers suffered them to re-purchase with their money as many as they pleased.
 
 They were afterwards distributed into several allotments of land; but the Goths, ∥ contrary to the custom of the Huns, did not cultivate the portions of ground assigned them. They were even left destitute of the promised supplies of corn, and were [132] ready to perish amidst a land of plenty; they were armed for war, and yet unjustly insulted. In consequence of these provocations, they ravaged all the country from the Danube to the Bosphorus; they destroyed Valens and all his army, and repassed the Danube only to quit the hideous solitude they had effected by their devastations * .

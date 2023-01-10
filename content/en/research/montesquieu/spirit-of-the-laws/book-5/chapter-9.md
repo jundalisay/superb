@@ -1,21 +1,22 @@
-+++
-title=  "How the Laws are in Monarchies"
-heading=  "Chapters 9-12 of The Spirit of the Laws Book 5 Simplified"
-date=  2015-09-09
-image= "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Book 5"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-5/chapter-8"
-linkbtext=  "Chapter 8"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-5/chapter-13"
-linkftext=  "Chapter 13"
-+++
+---
+heading: "Chapters 9-12"
+title: "How the Laws are in Monarchies"
+weight: 10
+description: "IT is not sufficient, in a well-regulated democracy, that the divisions of land be equal"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-AS honour is the principle of a monarchical government, the laws ought to be relative to this principle.
 
-They should endeavour to support the nobility; in respect to whom, honour may be, in some measure, deemed both child and parent.
+Honour is the principle of a monarchical government. 
+- This is why the laws should be relative to the principle of honour.
 
-They should render the nobility hereditary; not as a boundary between the power of the prince and the weakness of the people, but as the link which connects them both.
+
+The laws should:
+- support the nobility; in respect to whom, honour may be, in some measure, deemed both child and parent.
+- render the nobility hereditary; not as a boundary between the power of the prince and the weakness of the people, but as the link which connects them both.
 
 In this government, substitutions, which preserve the estates of families undivided, are extremely useful, though in others not so proper.
 
@@ -25,11 +26,13 @@ The lands of the nobility ought to have privileges as well as their persons. The
 
 All these privileges must be particular to the nobility and incommunicable to the people, unless we intend to act contrary to the principle of government, and to diminish the power of the nobles together with that of the people.
 
-Substitutions are a restraint to commerce; the power of redemption produces an infinite number of processes; every estate in land, that is sold throughout the kingdom, is, in some measure, without an owner for the space of a year. Privileges annexed to fiefs give a power very burthensome to those governments which tolerate them. These are the inconveniences Edition=  current; Page=  [70] of nobility; inconveniences, however, that vanish when confronted with its general utility. But, when these privileges are communicated to the people, every principle of government is wantonly violated.
+Substitutions are a restraint to commerce; the power of redemption produces an infinite number of processes; every estate in land, that is sold throughout the kingdom, is, in some measure, without an owner for the space of a year. Privileges annexed to fiefs give a power very burthensome to those governments which tolerate them. 
+
+These are the inconveniences of nobility; inconveniences, however, that vanish when confronted with its general utility. But, when these privileges are communicated to the people, every principle of government is wantonly violated.
 
 In monarchies, a person may leave the bulk of his estate to one of his children; a permission improper in any other government.
 
-The laws ought to favour all kind of commerce∥ consistent with the constitution, to the end that the subjects may, without ruining themselves, be able to satisfy the continual cravings of the prince and his court.
+The laws should favour all kind of commerce consistent with the constitution, to the end that the subjects may, without ruining themselves, be able to satisfy the continual cravings of the prince and his court.
 
 They should establish some regulation, that the manner of collecting the taxes may not be more burthensome than the taxes themselves.
 
@@ -54,7 +57,13 @@ MONARCHY has a great advantage over a despotic government. As it naturally requi
 
 Cicero* is of opinion, that the establishing of the tribunes preserved the republic. “And, indeed, (says he,) the violence of a headless people is more terrible. A chief, or head, is sensible that the affair depends upon himself, and therefore he thinks; but the people, in their impetuosity, are ignorant of the danger into which they hurry Edition=  current; Page=  [72] themselves.” This reflection may be applied to a despotic government, which is a people without tribunes, and to a monarchy, where the people have some sort of tribunes.
 
-Accordingly, it is observable, that, in the commotions of a despotic government, the people, hurried away by their passions, are apt to push things as far as they can go. The disorders they commit are all extreme; whereas, in monarchies, matters are seldom carried to excess. The chiefs are apprehensive on their own account; they are afraid of being abandoned; and the intermediate dependent powers† do not choose that the populace should have too much the upper hand. It rarely happens that the states of the kingdom are entirely corrupted=  the prince adheres to these; and the seditious, who have neither will nor hopes to subvert the government, have neither power nor will to dethrone the prince.
+Accordingly, in the commotions of a despotic government, the people, hurried away by their passions, are apt to push things as far as they can go.
+
+The disorders they commit are all extreme. Whereas, in monarchies, matters are seldom carried to excess. 
+
+The chiefs are apprehensive on their own account; they are afraid of being abandoned; and the intermediate dependent powers† do not choose that the populace should have too much the upper hand. 
+
+It rarely happens that the states of the kingdom are entirely corrupted=  the prince adheres to these; and the seditious, who have neither will nor hopes to subvert the government, have neither power nor will to dethrone the prince.
 
 In these circumstances, men of prudence and authority interfere; moderate measures are first proposed, then complied with, and things at length are redressed; the laws resume their vigour, and command submission.
 

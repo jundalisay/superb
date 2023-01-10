@@ -1,32 +1,34 @@
+---
+heading: "Chapters 13"
+title: "The Despotic Government: Fear"
+weight: 6
+description: "WHEN the savages of Louisiana want fruit, they cut the tree to the root, and gather the fruit. This is an emblem of despotic government"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
 
-+++
-title=  "The Excellence of a monarchical government"
-heading=  "Chapters 13-18 "
-date=  2015-09-09
-image=  "https://sorasystem.sirv.com/avatars/mont.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-5/chapter-9"
-linkbtext=  "Chapter 9"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-5/chapter-16"
-linkftext=  "Chapter 16"
-+++
-
-## Chapter 13-18=  Despotic Power
-
-WHEN the savages of Louisiana are desirous of fruit, they cut the tree to the root, and gather the Edition=  current; Page=  [74] fruit.* This is an emblem of despotic government.
-
-<br>
 
 
-## Chapter 14=  How the Laws are relative to the Principles of despotic Government.↩
+## Chapter 13: Despotic Power
 
-THE principle of despotic government is fear. A timid, ignorant, and faint-spirited people have no occasion for many laws.
+WHEN the savages of Louisiana want fruit, they cut the tree to the root, and gather the fruit.*
+- This is an emblem of despotic government.
+
+
+
+## Chapter 14:  How the Laws are relative to the Principles of despotic Government
+
+THE principle of despotic government is fear. 
+
+A timid, ignorant, and faint-spirited people have no occasion for many laws.
 
 Everything should depend here on two or three ideas. Hence, there is no necessity that any new notions should be added. 
 
-When we want to break a horse, we take care not to let him change his master, his lesson, or his pace. Thus an impression is made on his brain by two or three motions, and no more.
+When we want to break a horse, we take care not to let him change his master, his lesson, or his pace. 
+- Thus an impression is made on his brain by two or three motions, and no more.
 
 If a prince is shut up in a seraglio, he cannot leave his voluptuous abode without alarming those who keep him confined. They will not bear that his person and power should pass into other hands. He seldom, therefore, wages war in person, and hardly ventures to intrust the command to his generals.
 

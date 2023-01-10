@@ -1,15 +1,15 @@
+---
+heading: "Chapter 4"
+title: "Commerce in different Governments"
+weight: 4
+description: "TRADE has some relation to forms of government"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-+++
-title= "Commerce in different Governments"
-heading= "Chapter 4 "
-date= 2015-09-23
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 1"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-10"
-linkftext= "Chapter 10"
-+++
+
+
 
 TRADE has some relation to forms of government.
 

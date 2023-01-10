@@ -3,8 +3,9 @@ title: "Benevolence"
 heading: "Section 2"
 description: "In men of more ordinary talents and capacity, the social virtues become more needed."
 image: /covers/morals.jpg
-# image: "https://sorasystem.sirv.com/photos/medieval/cicero.jpg"
-weight: 1
+author: David Hume
+icon: /avatars/hume.png
+weight: 6
 ---
 
 
@@ -45,7 +46,11 @@ In men of more ordinary talents and capacity, the social virtues become more nee
 
 A high ambition, an elevated courage, is apt, says Cicero, in less perfect characters, to degenerate into a turbulent ferocity. The more social and softer virtues are there chiefly to be regarded. These are always good and amiable [Cic. de Officiis, lib. I].
 
-The principal advantage, which Juvenal discovers in the extensive capacity of the human species, is that it renders our benevolence also more extensive, and gives us larger opportunities of spreading our kindly influence than what are indulged to the inferior creation [Sat. XV. 139 and seq.]. It must, indeed, be confessed, that by doing good only, can a man truly enjoy the advantages of being eminent. His exalted station, of itself but the more exposes him to danger and tempest. His sole prerogative is to afford shelter to inferiors, who repose themselves under his cover and protection.
+The principal advantage, which Juvenal discovers in the extensive capacity of the human species, is that it renders our benevolence also more extensive, and gives us larger opportunities of spreading our kindly influence than what are indulged to the inferior creation [Sat. XV. 139 and seq.]. 
+
+It only by doing good that a man can truly enjoy the advantages of being eminent. 
+
+His exalted station, of itself but the more exposes him to danger and tempest. His sole prerogative is to afford shelter to inferiors, who repose themselves under his cover and protection.
 
 My goal is not:
 - to recommend generosity and benevolence

@@ -1,15 +1,13 @@
+---
+heading: "Chapters 21"
+title: "The Empire of China"
+weight: 16
+description: "Our missionaries inform us that the Imperial Chinese government is admirable"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-+++
-title= "The Empire of China"
-heading= "Simple Spirit of the Laws"
-description= "Research from Montesquieu"
-date= 2020-01-20
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-8/chapter-15"
-linkbtext= "Chapter 15"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-9"
-linkftext= "Book 9"
-+++
 
 <!-- BEFORE I conclude this book, I shall ans wer an objection that may be made to the foregoing doctrine.
  -->
@@ -24,7 +22,8 @@ But I cannot conceive what this honour can be, among a people who act only throu
 
 Our merchants* do not give us such accounts of the virtue so much talked of by the missionaries. They tell us of the robberies and extortions of the mandarins. The great lord Anson supports this.
 
-> [ *Translator's note= This is because merchants compete with other merchants ]
+> *Superphysics note: This is because merchants compete with other merchants
+
 
 Father Perennin's letters wrote of the emperor's proceedings against some of his prince-relatives who had converted. They show <!--  blood, who had incurred his displeasure by their conversion, plainly shew us --> a settled plan of tyranny, and barbarities done in <!-- committed by rule, that is, in --> cold blood.
 

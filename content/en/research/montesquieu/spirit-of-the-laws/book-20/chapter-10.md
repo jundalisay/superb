@@ -1,14 +1,15 @@
-+++
-title= "Institutions for Commerce= Banks, Freeports, Trade Rules"
-heading= "Chapter 10-12"
-date= 2015-09-28
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-4"
-linkbtext= "Chapter 4"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-13"
-linkftext= "Chapter 13"
-+++
+---
+heading: "Chapter 10-12"
+title: "Institutions for Commerce= Banks, Freeports, Trade Rules"
+weight: 6
+description: "TRADE has some relation to forms of government"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
+
 
 ## Chapter 10: Banks
 
@@ -20,9 +21,9 @@ This is why mercantile companies are seldom proper in absolute governments. Thes
 
 Mercantile companies are not even always proper in commercial states. If the trade can be managed by a few persons, then it is much better to leave it open than to restrain the liberty of commerce by exclusive privileges. 
 
-<br>
 
-## Chapter 11= Freeports
+
+## Chapter 11: Freeports
 
 A FREE port may be established in economical commercial states. The frugality of people always leads to that œconomy in the government and is the soul of its economical commerce. It leads to loss with respect to customs duties revenue. But this can be repaired by drawing taxes from the wealth and industry of the democratic republic. 
 
@@ -31,9 +32,9 @@ But in a monarchy, a free port would merely reduce the tax revenue from imported
 this would be a step of this kind must be opposite to reason; for it could have no other effect, than to ease luxury of the weight of taxes. This would be depriving itself of the only advantage that luxury can procure, and of the only curb which, in a constitution like this, it is can receive.
  -->
 
-<br>
 
-## Chapter 12= The Freedom of Commerce Leads to Slavery of the Merchants
+
+## Chapter 12: The Freedom of Commerce Leads to Slavery of the Merchants
 
 THE freedom of commerce is not a power granted to the merchants to do what they please. Instead, this freedom of commerce is more properly the slavery of the merchant -- the constraint of the merchant is not the constraint of commerce.
 

@@ -1,15 +1,15 @@
-+++
-title= "How the Price of Things is fixed in the Variation of the Sign of Riches"
-heading= "Chapter 7-8"
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-# image= "https://sorasystem.sirv.com/photos/medieval/sest.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+title: "How the Price of Things is fixed in the Variation of the Sign of Riches"
+heading: "Chapter 7"
+description: "MONEY is the price of merchandise or manufactures. But how shall we fix this price? By what piece of money is everything to be represented?"
+image: "/covers/spirit.jpg"
+weight: 8
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
+
 
 MONEY is the price of merchandise or manufactures. But how shall we fix this price? By what piece of money is everything to be represented?
 
@@ -19,19 +19,24 @@ Let us suppose that there is only one commodity in the world but is divisible li
 10%, 1%, and 0.1% of the one will answer to 10%, 1%, and 0.1% of the other.
 
 But:
-property is not all at once in trade amongst mankind
-money, which is the sign of property, is not all in trade at the same time.
+- property is not all at once in trade amongst mankind
+- money, which is the sign of property, is not all in trade at the same time.
+
 So:
-the price is fixed in the compound ratio of the total of things with the total of signs, and
-the price of the total of things in trade is fixed with the total of signs in trade also
+- the price is fixed in the compound ratio of the total of things with the total of signs, and
+- the price of the total of things in trade is fixed with the total of signs in trade also
+
 The things which are not in trade today may be in trade tomorrow.
+
 The signs not now in trade may enter into trade at the same time.
-The establishment of the price of things fundamentally depends on the proportion of the total of things to the total of signs.
+
+The establishment of the price of things fundamentally depends on the proportion of the total of things to the total of signs.*
 
 Thus, the prince can no more ascertain the value of merchandise that he can establish by a decree, that the ratio of 1:10, is equal to 1:20.
 
 Julian’s lowering the price of provisions at Antioch caused a most terrible famine.
-[Translator's Note= Price controls misrepresents the actual supply] 
+
+> *Superphysics Note: Price controls misrepresents the actual supply
 
 
 

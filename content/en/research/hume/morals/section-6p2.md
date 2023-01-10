@@ -1,16 +1,15 @@
-+++
-title       = "Physical Beauty"
-heading = "Section 6"
-description = "No quality is absolutely either blameable or praiseworthy. It is all according to its degree"
-date        = "2020-06-16"
-image = "/covers/morals.jpg"
-author      = "David Hume"
-linkTitle   = "Section 6 Part 2"
-linkb = "/research/hume/morals/section-2"
-linkbtext = "Section 2"
-linkf = "/research/hume/morals/section-3"
-linkftext = "Section 3"
-+++
+---
+title: "Physical Beauty"
+heading: "Section 6b"
+description: "One considerable source of BEAUTY in all animals is the advantage which they reap from the particular structure of their limbs and body parts"
+image: /covers/morals.jpg
+author: David Hume
+icon: /avatars/hume.png
+weight: 20
+---
+
+
+
 
 
 <!-- It may not be improper, in this place, to examine the influence of bodily endowments, and of the goods of fortune, over our sentiments of regard and esteem, and to consider whether these phenomena fortify or weaken the present theory.  -->
@@ -20,7 +19,10 @@ All ancient moralists say that physical beauty is like a beautiful mind. We both
 
 <!-- It will naturally be expected, that the beauty of the body, as is supposed by , will be similar, in some respects, to that of the mind; and that every kind of esteem, which is paid to a man, will have something similar in its origin, whether it arise from his mental endowments, or from the situation of his exterior circumstances. -->
 
-One considerable source of BEAUTY in all animals is the advantage which they reap from the particular structure of their limbs and members, suitably to the particular manner of life, to which they are by nature destined. The just proportions of a horse, described by Xenophon and Virgil, are the same that are received at this day by our modern jockeys; because the foundation of them is the same, namely, experience of what is detrimental or useful in the animal.
+One considerable source of BEAUTY in all animals is the advantage which they reap from the particular structure of their limbs and body parts. 
+- This suits their way of life destined by nature.
+
+The just proportions of a horse, described by Xenophon and Virgil, are the same that are received at this day by our modern jockeys; because the foundation of them is the same, namely, experience of what is detrimental or useful in the animal.
 
 Broad shoulders, a lank belly, firm joints, taper legs; all these are beautiful in our species, because signs of force and vigour. Ideas of utility and its contrary, though they do not entirely determine what is handsome or deformed, are evidently the source of a considerable part of approbation or dislike.
 

@@ -1,22 +1,22 @@
-+++
-title=  "New Consequences of the Principles of the three Governments"
-heading=  "Chapters 19=  The Simple Spirit of the Laws by Montesquieu Volume 1"
-date=  2015-09-09
-image= "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-5/chapter-16"
-linkbtext=  "Chapter 16"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-6"
-linkftext=  "Book 6"
-+++
+---
+heading: "Chapters 19"
+title: "New Consequences of the Principles of the three Governments"
+weight: 14
+description: "WHEN the savages of Louisiana want fruit, they cut the tree to the root, and gather the fruit. This is an emblem of despotic government"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
+
 
 ## Chapter 19: New Consequences of the Principles of the three Governments
 
 <!-- I cannot conclude this book without making some applications of my three principles. -->
 
-<br>
 
-### Question 1=  Should the laws oblige a subject to accept of a public employment?
+### Question 1: Should the laws oblige a subject to accept of a public employment?
 
 They should in a republic, but not in a monarchical government. 
 
@@ -24,17 +24,16 @@ In a republic, public employments are attestations of virtue, depositums with wh
 
 The late king of Sardinia inflicted punishments* on his subjects who refused the dignities and public offices of the state. In this he unknowingly followed republican ideas=  but his manner of governing, in other respects, sufficiently proves that this was not his intention.
 
-<br>
 
-### Question 2=  Should a subject be obliged to accept of a post in the army inferior to that which he held before?
+### Question 2: Should a subject be obliged to accept of a post in the army inferior to that which he held before?
 
 Among the Romans, it was usual to see a captain serve the next year under his lieutenant†. This is because virtue in republics requires a continual sacrifice of our persons and of our repugnances for the good of the state. But, in monarchies, honour, true or false, will never bear with what it calls degrading itself.
 
 In despotic governments, where honour, posts, and ranks, are equally abused, they indiscriminately make of a prince a scullion, and of a scullion a prince.
 
-<br>
 
-### Question 3=  Should civil and military employments be conferred on the same person? 
+
+### Question 3: Should civil and military employments be conferred on the same person? 
 
 In republics, they should be joined, but in monarchies separated. 
 
@@ -50,21 +49,21 @@ The division of civil and military employments, made by the Romans after the ext
 
 Procopius, therefore, the competitor of Valens, the emperor, was very much to blame, when, conferring the proconsular dignity¶ upon Hormisdas, a prince of the blood-royal of Persia, he restored to this magistracy the military command of which it had been formerly possessed, unless, indeed, he had very particular reasons for so doing. A person, that aspires to the sovereignty, concerns himself less about what is serviceable to the state than what is likely to promote his own interest.
 
-<br>
 
-### Question 4=  Should public employments be sold?
+### Question 4: Should public employments be sold?
 
 In despotic governments, they should not.   where the subjects must be instantaneously placed or displaced by the prince.
 
 But, in monarchies, this custom is not at all improper, by reason it is an inducement to engage in that, as a family employment, which would not be undertaken through a motive of virtue=  it fixes, likewise, every one to his duty, and renders the several orders of the kingdom more permanent. Suidas* very justly observes, that Anastasius had changed the empire into a kind of aristocracy, by selling all public employments.
 
-Plato cannot bear with this prostitution=  “This is exactly (says he) as if a person were to be made a mariner or pilot of a ship for his money. Is it possible that this rule should be bad in every other employment of life and hold good only in the administration of a republic?” 
+Plato cannot bear with this prostitution: “This is exactly (says he) as if a person were to be made a mariner or pilot of a ship for his money. Is it possible that this rule should be bad in every other employment of life and hold good only in the administration of a republic?” 
 
-But Plato speaks of a republic founded on virtue, and we of a monarchy. Now, in monarchies, (where, though there were no such thing as a regular sale of public offices, still the indigence and avidity of the courtier would equally prompt him to expose them to sale,) chance will furnish better subjects than the prince’s choice. In short, the method of attaining to honours through riches inspires and cherishes industry‡, a thing extremely wanting in this kind of government.
+But Plato speaks of a republic founded on virtue, and we of a monarchy.
 
-<br>
+In monarchies, (where, though there were no such thing as a regular sale of public offices, still the indigence and avidity of the courtier would equally prompt him to expose them to sale,) chance will furnish better subjects than the prince’s choice. In short, the method of attaining to honours through riches inspires and cherishes industry‡, a thing extremely wanting in this kind of government.
 
-### Question 5=  In what kind of government are censors necessary?
+
+### Question 5: In what kind of government are censors necessary?
 
 They are necessary in a republic, where the principle of government is virtue. 
 

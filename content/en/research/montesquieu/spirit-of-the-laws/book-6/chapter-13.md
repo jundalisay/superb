@@ -1,14 +1,13 @@
-+++
-title= "Insufficiency of the Japanese Laws"
-heading= "Chapters 13"
-date= 2015-09-09
-image= "https://sorasystem.sirv.com/avatars/mont.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-6/chapter-1"
-linkbtext= "Chapter 9"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-6/chapter-9"
-linkftext= "Chapter 14"
-+++ 
+---
+heading: "Chapter 13"
+title: "The Insufficiency of the Japanese Laws"
+weight: 8
+description: "EXCESSIVE punishments may even corrupt a despotic government as seen in Japan"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
 
 EXCESSIVE punishments may even corrupt a despotic government as seen in Japan.
 

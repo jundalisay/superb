@@ -1,16 +1,14 @@
+---
+heading: "Chapters 8"
+title: "Honour in a Despotism, Principles of Despotism"
+weight: 4
+description: "Honour is not the Principle of a despotic Government"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-+++
-title=  "Honour in a Despotism, Principles of Despotism"
-heading=  "Chapter 8-11"
-date=  2015-09-28
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description= "Honour is not the Principle of a despotic Government."
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-3/chapter-5"
-linkbtext=  "Chapter 5"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-4"
-linkftext=  "Book 4"
-+++
+
 
 
 Honour is not the Principle of a despotic Government.
@@ -35,16 +33,15 @@ therefore, a thing unknown in arbitrary governments, some of which have not even
 
 here it gives life to the whole body politic, to the laws, and even to the virtues themselves.
 
-<br>
 
-## Chapter 9: The Principle of despotic Government
+## Chapter 9: The Principle of Despotic Government
 
-The following are necessary= 
+The following are necessary:
 - virtue in a republic
 - honour in a monarchy
 - fear in a despotism
 
-In a despotism= 
+In a despotism:
 - there is no need for virtue
 - honour would be extremely dangerous
 - the prince's immense power is devolved entirely on those whom he likes 
@@ -63,9 +60,9 @@ It is necessary that the people should be judged by laws, and the great men by t
 
 The Sophi of Persia, dethroned, in our days, by Mahomet, the son of Miriveis, saw the constitution subverted, before this revolution, because he had been too sparing of blood*.informs us, that the horrid cruelties of Domitian struck such a terror into the governors, that the people recovered themselves a little under his reign§. Thus a torrent overflows one side of a country, and, on the other, leaves fields untouched, where the eye is refreshed by the prospect of fine meadows.
 
-<br>
 
-## Chapter 10=  Difference of Obedience in moderate and despotic Governments
+
+## Chapter 10: Difference of Obedience in moderate and despotic Governments
 
 In Despotic states, the nature of government requires the most passive obedience.
 
@@ -79,12 +76,17 @@ They will slay a parent if the prince so commands. But he cannot oblige them to 
 
 But, with respect to the law of nature, it is otherwise. The prince is no longer supposed to be a man. 
 
-In monarchical and moderate states, the power is limited by its very spring, I mean, by honour, which, like a monarch, reigns over the prince and his people. They will not alledge to their sovereign, the laws of religion; a courtier would be apprehensive of rendering himself ridiculous. But the laws of honour will be appealed to on all occasions. Hence arise the restrictions necessary to obedience=  honour is naturally subject to whims, by which the subject’s submission will be ever directed.the manner of obeying be different, in these two kinds of government, the power is the same. On which side soever the monarch turns, he inclines the scale, and is obeyed. The whole difference is, that, in a monarchy, the prince receives instruction, at the same time that his ministers have greater abilities, and are more versed in public affairs, than the ministers of a despotic government.
+In monarchical and moderate states, the power is limited by its very spring, I mean, by honour, which, like a monarch, reigns over the prince and his people. 
+
+They will not alledge to their sovereign, the laws of religion; a courtier would be apprehensive of rendering himself ridiculous. 
+
+But the laws of honour will be appealed to on all occasions. Hence arise the restrictions necessary to obedience=  honour is naturally subject to whims, by which the subject’s submission will be ever directed.the manner of obeying be different, in these two kinds of government, the power is the same. 
+
+On which side soever the monarch turns, he inclines the scale, and is obeyed. The whole difference is, that, in a monarchy, the prince receives instruction, at the same time that his ministers have greater abilities, and are more versed in public affairs, than the ministers of a despotic government.
 
 
-<br>
 
-## Chapter 11=  Reflections on the preceding Chapters
+## Chapter 11: Reflections on the preceding Chapters
 
 These principles imply that= 
 

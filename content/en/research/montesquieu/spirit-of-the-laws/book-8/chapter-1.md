@@ -1,14 +1,14 @@
-+++
-title= "The Corruption of Democracy, Aristocracy, Monarchy"
-heading= "Chapter 1"
-description= "Research from Montesquieu"
-date= 2020-01-31
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-7"
-linkbtext= "Book 7"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-8/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+heading: "Chapter 1"
+title: "The Corruption of Democracy, Aristocracy, Monarchy"
+weight: 4
+description: "A small republic is destroyed by a foreign force"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 
 The principle of democracy is corrupted when:

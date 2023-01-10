@@ -1,17 +1,15 @@
+---
+title: "Exchange"
+heading: "Chapter 10"
+description: "THE relative abundance and scarcity of coin in different countries leads to the course of exchange. Exchange is a fixing of the actual and momentary value of coin"
+image: "/covers/spirit.jpg"
+weight: 12
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-+++
-title= "Exchange"
-heading= "Chapter 10= "
-description= "Research from Montesquieu"
-image= "/covers/spirit.jpg"
-# image= "https://sorasystem.sirv.com/photos/medieval/sest.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+
 
 THE relative abundance and scarcity of coin in different countries leads to the course of exchange. Exchange is a fixing of the actual and momentary value of coin.
 

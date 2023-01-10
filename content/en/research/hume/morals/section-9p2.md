@@ -1,16 +1,14 @@
-+++
-title       = "Moral obligations"
-heading = "Section 9 part 2"
-description = "No quality is absolutely either blameable or praiseworthy. It is all according to its degree"
-date        = "2020-06-16"
-image = "/covers/morals.jpg"
-author      = "David Hume"
-linkTitle   = "Section 9 part 2"
-linkb = "/research/hume/morals/section-9"
-linkbtext = "Section 9"
-linkf = "/research/hume/morals/appendix-1"
-linkftext = "Appendix 1"
-+++
+---
+title: "Moral Obligations"
+heading: "Section 9b"
+description: "The philosophical truth of any proposition does not depend on its tendency to promote the interests of society"
+image: /covers/morals.jpg
+author: David Hume
+icon: /avatars/hume.png
+weight: 28
+---
+
+
 
 
 ## Part 2
@@ -21,7 +19,7 @@ Why do we agree to moral obligations?
 
 <!-- If this can be clearly ascertained from the foregoing theory, we shall have the satisfaction to reflect, that we have advanced principles, which not only, it is hoped, will stand the test of reasoning and inquiry, but may contribute to the amendment of men's lives, and their improvement in morality and social virtue.  -->
 
-Though the philosophical truth of any proposition by no means depends on its tendency to promote the interests of society; yet a man has but a bad grace, who delivers a theory, however true, which, he must confess, leads to a practice dangerous and pernicious. Why rake into those corners of nature which spread a nuisance all around? Why dig up the pestilence from the pit in which it is buried? 
+The philosophical truth of any proposition does not depend on its tendency to promote the interests of society. Yet a man has but a bad grace, who delivers a theory, however true, which, he must confess, leads to a practice dangerous and pernicious. Why rake into those corners of nature which spread a nuisance all around? Why dig up the pestilence from the pit in which it is buried? 
 
 The ingenuity of your researches may be admired, but your systems will be detested; and mankind will agree, if they cannot refute them, to sink them, at least, in eternal silence and oblivion. Truths which are pernicious to society, if any such there be, will yield to errors which are salutary and ADVANTAGEOUS.
 

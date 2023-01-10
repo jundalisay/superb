@@ -1,14 +1,14 @@
-+++
-title=  "New Consequences of the Principles of the three Governments"
-heading=  "Chapters 19=  The Simple Spirit of the Laws by Montesquieu Volume 1"
-date=  2015-09-09
-image= "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-6"
-linkbtext=  "Book 6"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-7/chapter-6"
-linkftext=  "Chapter 6"
-+++
+---
+heading: "Chapters 1-4"
+title: "New Consequences of the Principles of the three Governments"
+weight: 4
+description: "LUXURY indicates the inequality of fortunes"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 LUXURY indicates the inequality of fortunes. 
 
@@ -48,9 +48,9 @@ Hence arises a general inconvenience. Those who excel in a profession set what v
 
 It is the opinion of several, that the as sembling so great a multitude of people in capital cities is an obstruction to commerce, because the inhabitants are no longer at a proper distance from each other=  but I cannot think so; for men have more desires, more wants , more fancies, when they live together.
 
-<br>
 
-## Chapter 2=  The sumptuary Laws in a Democracy
+
+## Chapter 2: The Sumptuary Laws in a Democracy
 
 A republic that has no inequality has no luxury. 
 
@@ -59,8 +59,6 @@ Chapter 5 showed that this equal distribution constitutes the excellency of a re
 There was none among the old Romans and the Spartans. 
 
 In republics where this equality  is not quite lost, the spirit of commerce, industry, and virtue, renders every man able and willing to live on his own property, and consequently prevents the growth of luxury.
-
-,  
 
 Some republics insisted so eagerly in the laws on the new division of lands. They are dangerous only as they are subitaneous. 
 
@@ -75,9 +73,9 @@ No sooner were the Romans corrupted than their desires became boundless and imme
 
 When the whole world, impelled by the force of corruption, is immersed in voluptuousness what must then become of virtue?
 
-<br>
 
-## Chapter 3=  Sumptuary Laws in an Aristocracy
+
+## Chapter 3: Sumptuary Laws in an Aristocracy
 
 An ill-constituted aristocracy causes the wealth to center in the nobility, and yet they are not allowed to spend it. for, as luxury is contrary to the spirit of mode ration, it must be banished from thence. 
 
@@ -89,11 +87,10 @@ The most contemptible of women may be profuse witho ut danger, whilst those who 
 
 In this respect, the institutions of the principal Greek republics are admirable. The rich employed their money in festivals, musical choruses, chariots, horse-races, and chargeable offices. Wealth was therefore as burthensome there as poverty.
 
-<br>
 
-## Chapter 4=  Sumptuary Laws in a Monarchy
+## Chapter 4: Sumptuary Laws in a Monarchy
 
-TACITUS says that the Suiones, a German nation, have a particular respect for riches. This was why they live under the government of one person. This shows= 
+TACITUS says that the Suiones, a German nation, have a particular respect for riches. This was why they live under the government of one person. This shows:
 - that luxury is extremely proper for monarchies, and
 - that under this government there must be no sumptuary laws.
 
@@ -111,9 +108,9 @@ Luxury is therefore absolutely necessary  in monarchies; as it is also in despot
 
 Hence arises a very natural reflexion. Re publics end with luxury; monarchies with poverty.
 
-<br>
 
-## Chapter 5=  In what Cases sumptuary Laws are useful in a Monarchy
+
+## Chapter 5: When Sumptuary Laws are Useful in a Monarchy
 
 WHETHER it was from a republican spirit,  or from some other particular circumstance, sumptuary laws were made in Arr agon, in the middle of the thirteenth century. James 1st ordained, th at neither the king, nor any of his subjects, should have above two sorts o f dishes at a meal, and that each dish should be dressed only one way, except it were game of their own killing.
 
@@ -123,7 +120,7 @@ A government may make sumptuary laws with a view to absolute frugality. This is 
 
 Sumptuary laws may likewise be establishe d with a design to promote a relative frugality. When a government, perceiv ing that foreign merchandizes, being at too high a price, will require such an exportation of home manufactures, as to deprive them of more advantages , by the loss of the latter, than they can receive from the possession of t he former, they will forbid their being introduced=  and this is the spirit  of the laws which in our days have been passed in Sweden. Such are the sumptuary laws  proper for monarchies.
 
-In general= 
+In general:
 - the poorer a state, the more it is ruined by its relative luxury, and consequently the more occasion it has for relative sumptuary laws. 
 - the richer a state, the more it thrives by its relative luxury; for which reason, it must take particular care not to make any relative sumptuary laws. 
 

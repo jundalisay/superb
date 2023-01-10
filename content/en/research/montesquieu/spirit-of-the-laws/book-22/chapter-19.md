@@ -1,15 +1,14 @@
-+++
-title= "Lending on Interest"
-heading= "Chapter 19-22"
-description= "SPECIE is the sign of value. He who has occasion for this sign, should pay for the use of it, as well as for everything else that he has occasion for"
-image= "/covers/spirit.jpg"
-# image= "https://sorasystem.sirv.com/photos/medieval/sest.jpg"
-date= "2020-03-10"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-17"
-linkbtext= "Chapter 17"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-23"
-linkftext= "Book 23"
-+++
+---
+title: "Lending on Interest"
+heading: "Chapter 19-22"
+description: "SPECIE is the sign of value. He who has occasion for this sign, should pay for the use of it, as well as for everything else that he has occasion for"
+image: "/covers/spirit.jpg"
+weight: 22
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 SPECIE is the sign of value. He who has occasion for this sign, should pay for the use of it, as well as for everything else that he has occasion for. 
 
@@ -25,22 +24,30 @@ The laws of Mahomet confound usury with lending upon interest. Usury increases i
 
 In those eastern countries, the greatest part of the people are secure of nothing; there is hardly any proportion between the actual possession of a sum, and the hope of receiving it again after having lent it= usury then must be raised in proportion to the danger of insolvency.
 
-## Chapter 20= Maritime Usury
 
-THE greatness of maritime usury is founded on two things= the danger of the sea, which makes it proper that those who expose their specie, should not do it without considerable advantage; and the ease with which the borrower, by the means of commerce, speedily accomplishes a variety of great affairs. But usury, with respect to land-men, not being founded on either of these two reasons, is either prohibited by the legislators, or, what is more rational, reduced to proper bounds.
 
-[113]
+## Chapter 20: Maritime Usury
 
-## Chapter 21= Lending by Contract, and the State of Usury amongst the Romans
+THE greatness of maritime usury is founded on two things= the danger of the sea, which makes it proper that those who expose their specie, should not do it without considerable advantage; and the ease with which the borrower, by the means of commerce, speedily accomplishes a variety of great affairs. 
+
+But usury, with respect to land-men, not being founded on either of these two reasons, is either prohibited by the legislators, or, what is more rational, reduced to proper bounds.
+
+
+
+## Chapter 21: Lending by Contract, and the State of Usury amongst the Romans
 
 BESIDES the loans made for the advantage of commerce, there is still a kind of lending by a civil contract, from whence results interest or usury.
 
 As the people of Rome increased every day in power, the magistrates sought to insinuate themselves in their favour, by enacting such laws as were most agreeable to them. They retrenched capitals; they first lowered, and at length prohibited interest; they took away the power of confining the debtor’s body= in fine, the abolition of debts was contended for, whenever a tribune was disposed to render himself popular.
 
-These continual changes, whether made by the laws, or by the plebiscita, naturalised usury at Rome; for the creditors seeing the people their debtor, their legislator, and their judge, had no longer any confidence in their agreements; the people, like a debtor who has lost his credit, could only tempt them to lend, by allowing an exorbitant interest; especially as the laws applied a remedy to the evil only from time to time, while the complaints of the people were continual, and constantly intimidated the creditors. This was the cause that all honest means of borrowing and lending were abolished at Rome, and that the most monstrous usury established* itself in that city, notwithstanding the strict prohibition and severity of the law. This evil was a consequence of the severity of the laws against usury. Laws excessively good are [114] the source of excessive evil. The borrower found himself under a necessity of paying for the interest of the money, and for the danger the creditor underwent of suffering the penalty of the law.
+These continual changes, whether made by the laws, or by the plebiscita, naturalised usury at Rome; for the creditors seeing the people their debtor, their legislator, and their judge, had no longer any confidence in their agreements; the people, like a debtor who has lost his credit, could only tempt them to lend, by allowing an exorbitant interest; especially as the laws applied a remedy to the evil only from time to time, while the complaints of the people were continual, and constantly intimidated the creditors. 
+
+This was the cause that all honest means of borrowing and lending were abolished at Rome, and that the most monstrous usury established* itself in that city, notwithstanding the strict prohibition and severity of the law. 
+
+This evil was a consequence of the severity of the laws against usury. Laws excessively good are the source of excessive evil. The borrower found himself under a necessity of paying for the interest of the money, and for the danger the creditor underwent of suffering the penalty of the law.
 
 
-## Chapter 22= Continued
+## Chapter 22: Continued
 
 THE primitive Romans had not any laws to regulate the rate of usury.* In the contests which arose on this subject between the plebeians and the patricians, even in the †sedition on the Mons sacer, nothing was alledged, on the one hand, but justice; and on the other, but the severity of contracts.
 
@@ -55,7 +62,9 @@ I answer, that this people, being very often obliged to go to war without pay, w
 
 They then made laws, which had only an influence on the present situation of affairs= they ordained, for instance, that those who enrolled themselves for the war they were engaged in, should not be molested by their creditors; that those who were in prison should be set at liberty; that the most indigent should be sent into the colonies= and sometimes they opened the public treasury. The people, being eased of their present burthens, became appeased; and as they required nothing for the future, the senate were far from providing against it.
 
-At the time when the senate maintained the cause of usury with so much constancy, the Romans were distinguished by an extreme love of frugality, poverty. and moderation= but the constitution was such, that the principal citizens alone supported all the expences of government, while the common people paid nothing. How then was it possible to deprive the former of the liberty of pursuing their debtors, and at the same time to oblige them to execute their offices, and to support the republic amidst its most pressing necessities?
+At the time when the senate maintained the cause of usury with so much constancy, the Romans were distinguished by an extreme love of frugality, poverty. and moderation: but the constitution was such, that the principal citizens alone supported all the expences of government, while the common people paid nothing. 
+
+How then was it possible to deprive the former of the liberty of pursuing their debtors, and at the same time to oblige them to execute their offices, and to support the republic amidst its most pressing necessities?
 
 Tacitus† says, that the law of the twelve tables fixed the interest at one per cent. It is evident that he was mistaken, and that he took another law, of which I am going to speak, for the law of the twelve tables. If this had been regulated in the law of the twelve tables, why did they not make use of its authority in the disputes which afterwards arose between the creditors and debtors? We find not any vestige of this law upon lending at interest; and let us have but never so little knowledge of the history of Rome, [116] we shall see that a law like this could not be the work of the decemvirs.
 
@@ -83,6 +92,8 @@ To remedy this abuse, they were obliged to enact a new law; and Gabinius† upon
 
 As lending upon interest was forbidden by the Gabinian law between provincials and Roman citizens, and the latter at that time had all the money of the globe in their hands, there was a necessity for tempting them with the bait of extravagant interest, to the end that the avaricious might thus lose sight of the danger of losing their money. And as they were men of great power in Rome, who awed the magistrates, and over-ruled the laws, they were emboldened to lend, and to extort great usury. Hence the provinces were successively ravaged by every one who had any credit in Rome= and as each governor, at entering upon this province, published his edict,* wherein he fixed the rate of interest in what manner he pleased, the legislature played into the hands of avarice, and the latter served the mean purposes of the legislator.
 
-But the public business must be carried on; and wherever a total inaction obtains, the state is undone. On some occasion the towns, the corporate bodies, and societies, as well as private people, were under a necessity of borrowing; a necessity but too urgent, were it only to repair the ravages of armies, the rapacity of magistrates, the extortions of collectors, and the corrupt practices daily introduced; for never was there at one period so much poverty and opulence. The senate, being possefled of the executive power, granted, through necessity, and oftentimes through favour, a permission of borrowing from Roman citizens, [120] so as to enact decrees for that particular purpose. But even these decrees were discredited by the law; for they might give occasion to the people’s* insisting upon new rates of interest, which would augment the danger of losing the capital, while they made a farther extension of usury. I shall ever repeat it, that mankind are governed, not by extremes, but by principles of moderation.
+But the public business must be carried on; and wherever a total inaction obtains, the state is undone. On some occasion the towns, the corporate bodies, and societies, as well as private people, were under a necessity of borrowing; a necessity but too urgent, were it only to repair the ravages of armies, the rapacity of magistrates, the extortions of collectors, and the corrupt practices daily introduced; for never was there at one period so much poverty and opulence. 
+
+The senate, being possefled of the executive power, granted, through necessity, and oftentimes through favour, a permission of borrowing from Roman citizens, [120] so as to enact decrees for that particular purpose. But even these decrees were discredited by the law; for they might give occasion to the people’s* insisting upon new rates of interest, which would augment the danger of losing the capital, while they made a farther extension of usury. I shall ever repeat it, that mankind are governed, not by extremes, but by principles of moderation.
 
 He pays least, says Ulpian, who pays latest. This decides the question, whether interest be lawful? that is, whether the creditor can sell time, and the debtor buy it.

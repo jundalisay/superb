@@ -1,14 +1,13 @@
-+++
-title= "The Prince's Clemency"
-heading= "Chapter 21"
-date= 2015-09-09
-image= "https://sorasystem.sirv.com/avatars/mont.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-6/chapter-16"
-linkbtext= "Chapter 16"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-7"
-linkftext= "Book 7"
-+++ 
+---
+heading: "Chapter 21"
+title: "The Prince's Clemency"
+weight: 20
+description: "CLEMENCY is the characteristic of monarchs. In republics, whose principle is virtue, it is not so necessary"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+---
+
+
 
 CLEMENCY is the characteristic of monarchs. In republics, whose principle is virtue, it is not so necessary. 
 

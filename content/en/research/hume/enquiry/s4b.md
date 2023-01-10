@@ -2,9 +2,12 @@
 title: Doubts on the Mind's Operations
 description: All the objects of human reason or enquiry may naturally be divided into two kinds
 image: "/covers/enquiry.jpg"
-weight: 1
+weight: 14
 heading: "Section 4"
+author: David Hume
+icon: /avatars/hume.png
 ---
+
 
 ## PART 2
 

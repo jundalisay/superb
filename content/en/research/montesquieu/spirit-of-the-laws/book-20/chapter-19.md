@@ -1,16 +1,18 @@
-+++
-title= "A Prince should not engage himself in Commerce"
-heading= "Chapter 19-22"
-date= 2015-09-25
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 1"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-19"
-linkbtext= "Chapter 19"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-23"
-linkftext= "Chapter 23"
-+++
+---
+heading: "Chapters 19-22"
+title: "A Prince should not engage himself in Commerce"
+weight: 12
+description: "Commerce Requires Men who are Competitive"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-## Chapter 19= A Prince should not engage in Commerce
+
+
+
+
+## Chapter 19: A Prince should not engage in Commerce
 
 Theophilus saw a vessel laden with merchandises for his wife Theodora and ordered it to be burnt. He said= “I am Emperor, and you make me the master of a galley. How shall these poor men gain a livelihood, if we take their trade out of their hands?”
 
@@ -22,9 +24,9 @@ He might have added:
   - "The people have some confidence in our justice."
   - "They will have no confidence in our opulence."
 
-<br>
 
-## Chapter 20= Commerce Requires Men who are Competitive
+
+## Chapter 20: Commerce Requires Men who are Competitive
 
 All these numerous duties, which are the cause of their wants, are certain proofs of ours.
 

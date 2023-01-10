@@ -1,15 +1,15 @@
-+++
-title= "How Europe was Affected by the Discovery of Two New Worlds"
-heading= "Chapter 21"
-date= 2021-09-17
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "Research from Montesquieu"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-21"
-linkbtext= "Suicide"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-1"
-linkftext= "Immortality-of-the-soul"
-+++
+---
+heading: "Chapter 21"
+title: "How Europe was Affected by the Discovery of Two New Worlds"
+weight: 70
+description: "Commerce was transferred to Jews who were covered with infamy. It soon ranked with the most shameful usury with monopolies, the levying of subsidies, and all the dishonest means of acquiring wealth"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
+
 
 The compass opened the universe.
  
@@ -53,9 +53,8 @@ The colonies they have formed are under a kind of dependance, of which there are
 The design of these colonies is to trade on more advantageous conditions than could otherwise be done with the neighbouring people, with whom all advantages are reciprocal.
     It has been established, that the> * metropolis,  or mother country, alone shall trade in the colonies, and that from very good reason; because the design of the settlement was the extension of commerce, not the foundation of a city, or of a new empire.
 
-Thus it is still a fundamental law of Europe, that all commerce with a foreign colony shall be regarded as a mere monopoly, punishable by the laws of the country;
-
-    In this case, the laws and precedents of the ancients, which are not applicable
+Thus it is still a fundamental law of Europe, that all commerce with a foreign colony shall be regarded as a mere monopoly, punishable by the laws of the country.
+- In this case, the laws and precedents of the ancients, which are not applicable
 
 A commerce established between the mother countries, does not include a permission to trade in the colonies; for these always continue in a state of prohibition.
 

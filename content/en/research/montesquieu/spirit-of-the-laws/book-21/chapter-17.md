@@ -1,16 +1,14 @@
-+++
-title= "Commerce after the Destruction of the Western Empire"
-heading= "Chapter 17"
-date= 2021-09-19
-description= "Commerce was destroyed after the fall of the Roman empire. The barbarous nations at first saw it only as an opportunity for robbery"
-# image= "https://sorasystem.sirv.com/cards/gold.jpg"
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-15"
-linkbtext= "Chapter 15"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-20"
-linkftext= "Chapter 20"
-+++
+---
+heading: "Chapter 17"
+title: "Commerce after the Destruction of the Western Empire"
+weight: 60
+description: "Commerce was destroyed after the fall of the Roman empire. The barbarous nations at first saw it only as an opportunity for robbery"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 Commerce was destroyed after the fall of the Roman empire. The barbarous nations at first saw it only as an opportunity for robbery. When they had subdued the Romans, they honoured it no more than agriculture, and the other professions of a conquered people.
 
@@ -25,20 +23,22 @@ They thought that strangers were not united to them by any civil law. So they ow
 In the narrow bounds which nature had originally prescribed to the people of the north, all were strangers to them;
 
 and in their poverty they regarded all only as contributing to their riches.
-    Being established, before their conquest, on the coasts of a sea of very little breadth, and full of rocks from these very rocks they drew their subsistence.
+
+Being established, before their conquest, on the coasts of a sea of very little breadth, and full of rocks from these very rocks they drew their subsistence.
 
 But the Romans made laws for all the world. They had established the most humane ones with regard to shipwrecks. They suppressed the rapine of those who inhabited the coasts; and what was more still, the rapaciousness of their treasuries. †
 
 
-## Chapter 18= The Visigoth Rule on Commerce
+## Chapter 18: The Visigoth Rule on Commerce
 
-The Visigoths had one regulation in favour of commerce. It ordained, that foreign merchants should be judged by the laws and judges of their own nation.
+The Visigoths had one regulation in favour of commerce.
+
+It ordained, that foreign merchants should be judged by the laws and judges of their own nation.
 
 This is based on the custom of mixed people that every man should live under his own law.
 
-<br>
 
-## Chapter 19= Commerce after the Decay of the Roman Power in the East
+## Chapter 19: Commerce after the Decay of the Roman Power in the East
 
 After the fall of Rome:
 - the Muslims appeared, conquered, extended, and dispersed themselves.

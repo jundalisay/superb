@@ -1,15 +1,15 @@
-+++
-title= "The Circuit of Africa"
-heading= "Chapter 10 of The Spirit of the Laws Volume 2"
-date= 2021-09-23
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-3"
-linkftext= "Chapter 2"
-+++
+---
+heading: "Chapter 10"
+title: "The Circuit of Africa"
+weight: 4
+description: "Before the discovery of the compass, four attempts were made to sail round the coast of Africa"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
+
 
 Before the discovery of the compass, four attempts were made to sail round the coast of Africa.
 

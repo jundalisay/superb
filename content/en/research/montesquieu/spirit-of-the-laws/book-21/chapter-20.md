@@ -1,15 +1,13 @@
-+++
-title= "How Commerce broke through Europe's Barbarism"
-heading= "Chapter 20"
-date= 2021-09-18
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-description= "Research from Montesquieu"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-21"
-linkbtext= "Suicide"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-1"
-linkftext= "Immortality-of-the-soul"
-+++
+---
+heading: "Chapter 20"
+title: "How Commerce broke through Europe's Barbarism"
+weight: 68
+description: "Commerce was transferred to Jews who were covered with infamy. It soon ranked with the most shameful usury with monopolies, the levying of subsidies, and all the dishonest means of acquiring wealth"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
 
 
 Aristotle's philosophy was carried to the west. It pleased the subtile geniuses, who were the virtuosi of those times of ignorance.

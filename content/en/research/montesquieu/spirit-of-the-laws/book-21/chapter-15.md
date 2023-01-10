@@ -1,15 +1,14 @@
-+++
-title= "The Commerce of the Romans with the Barbarians"
-heading= "Chapter 15"
-date= 2021-09-20
-description= "The weakness of the people and the tyranny of their laws united this immense body. The Roman policy was then to avoid all communication with those nations whom they had not subdued"
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-12"
-linkbtext= "Chapter 12"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-17"
-linkftext= "Chapter 17"
-+++
+---
+heading: "Chapter 15"
+title: "The Commerce of the Romans with the Barbarians"
+weight: 60
+description: "The weakness of the people and the tyranny of their laws united this immense body. The Roman policy was then to avoid all communication with those nations whom they had not subdued"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 THE Romans erected a vast empire in Europe, Asia, and Africa.
 
@@ -28,7 +27,7 @@ After the decline of the Roman Empire, the barbarians obliged the Romans to esta
 
 
 
-## Chapter 16= The Commerce of the Romans with Arabia, India
+## Chapter 16: The Commerce of the Romans with Arabia, India
 
 The only foreign trade of the Romans was to:
 - Arabia Felix, and

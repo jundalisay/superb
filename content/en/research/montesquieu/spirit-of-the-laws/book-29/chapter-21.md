@@ -1,23 +1,25 @@
-+++
-title=  "Disorders in the Eastern Empire"
-heading=  "Chapter 21 of Volume 3"
-date=  2015-09-19
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Persians had cultivated the military art to as great a degree as it was neglected by the Romans"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-20"
-linkbtext=  "Chapter 20"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-22"
-linkftext=  "Chapter 22"
-+++
+---
+heading: "Chapter 2"
+title: "Disorders in the Eastern Empire"
+weight: 17
+description: "The Persians had cultivated the military art to as great a degree as it was neglected by the Romans"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-THE Persians, during this period, were in a much better situation than the Romans. They had little reason to fear the northern people because mount Taurus, which extends between the Caspian and Euxine seas, separated them. 
 
-They effectively closed a very narrow pass which was the only way for the cavalry. In every other part, the Barbarians had to descend from frightful precipices and leave their horses. <!--  in which all their military strength consisted; and besides these impediments --> 
+THE Persians, during this period, were in a much better situation than the Romans. 
+- They had little reason to fear the northern people because mount Taurus, which extends between the Caspian and Euxine seas, separated them. 
+- They effectively closed a very narrow pass which was the only way for the cavalry. 
+
+In every other part, the Barbarians had to descend from frightful precipices and leave their horses. <!--  in which all their military strength consisted; and besides these impediments --> 
 
 They were blocked in by the Araxes, a deep river which flows from west to east.<!-- , all the passages of which were easy to be defended. -->
 
-With all these advantages, the Persians were in peace. <!--  perfect tranquility with respect to the eastern nations; --> On the south, they were bounded by the sea. The Arabian princes, who were partly their allies, and partly [157] in confederacy with the Romans, were totally engaged in pillaging one another. 
+With all these advantages, the Persians were in peace. <!--  perfect tranquility with respect to the eastern nations; --> On the south, they were bounded by the sea. 
+
+The Arabian princes, who were partly their allies, and partly [157] in confederacy with the Romans, were totally engaged in pillaging one another. 
 
 The Persians therefore had none whom they could properly call their enemies but the Romans. We are sensible, said an ambassador of Hormisdas * , that the Romans are engaged in several wars, and are at variance with almost all nations, whilst we, as they well know, have no hostilities with any people but themselves.
 

@@ -1,16 +1,17 @@
-+++
-title= "The Law in Geneva and Rhodesia, Commercial Judges"
-heading= "Chapter 16-17 "
-date= 2015-09-26
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-13"
-linkbtext= "Chapter 13"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-19"
-linkftext= "Chapter 19"
-+++
+---
+heading: "Chapters 16"
+title: "The Law in Geneva and Rhodesia, Commercial Judges"
+weight: 10
+description: "Geneva has an admirable law which excludes the children of bankrupts from the magistracy and even from the admittance into the great council until they have discharged their father’s debts"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-### Chapter 16= An excellent Law of Rhodes
+
+
+
+### Chapter 16: An excellent Law of Rhodes
 
 Geneva has an admirable law which excludes the children of bankrupts from the magistracy and even from the admittance into the great council until they have discharged their father’s debts.
 

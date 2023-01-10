@@ -1,25 +1,40 @@
-+++
-title=  "Augustus"
-heading=  "Chapter 13 of The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-12"
-linkbtext=  "Chapter 12"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-14"
-linkftext=  "Chapter 14"
-+++
+---
+heading: "Chapter 13"
+title: "Augustus"
+weight: 14
+description: "Some nations chose to preserve their ancient usages and not assist Rome"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-Sextus Pompeius possessed Sicily and Sardinia, was master at sea, and saw himself at the head of a great multitude of fugitives, and persons devoted to death by proscriptions, whose last hopes depended on their valour. Octavius contended with him, in two very laborious wars; and after a variety of ill success, vanquished him by the abilities of Agrippa.
 
-Most of the conspirators ended their lives in a miserable manner; and it was natural that persons who headed a party, so frequently harrassed by wars, in [88] which no quarter was afforded, should die a violent death. That event was, however, interpreted into a consequence of divine vengeance, which punished the murderers of Cæsar, and in its turn proscribed their cause.
+
+
+Sextus Pompeius:
+- possessed Sicily and Sardinia
+- was master at sea
+- saw himself at the head of many fugitives and persons devoted to death by proscriptions, whose last hopes depended on their valour. 
+
+Octavius contended with him in 2 very laborious wars. 
+
+After a variety of ill-success, he vanquished Sextus by the abilities of Agrippa.
+
+Most of the conspirators ended their lives in a miserable manner. 
+
+It was natural that persons who headed a party, so frequently harrassed by wars, in which no quarter was afforded, should die a violent death. 
+
+That event was, however, interpreted into a consequence of divine vengeance, which punished the murderers of Cæsar, and in its turn proscribed their cause.
 
 Octavius gained over the soldiers of Lepidus to his own interest, and divested him of his power in the triumvirate; he even envied him the consolation of passing the remainder of his days in obseurity, and compelled him to appear as a private man in the assemblies of the people.
 
 It is impossible for any one to be displeased at the humiliation of this Lepidus; he was the most depraved citizen in all the republic, a constant promoter of disturbances, and one who perpetually formed fatal schemes, wherein he was obliged to associate with people of more ability than himself. A modern author * has thought fit to be large in his commendation, and cites Antony, who, in one of his letters, represents him as an honest man. But he, who had that character from Antony, could not have much title to it from other persons.
 
-I believe Octavius is the only man of all the Roman generals, who ever gained the affections of the soldiers by giving them perpetual instances of a natural timidity of spirit. The soldiers, at that time, were more affected with the liberality of their commanders than their valour; perhaps it was even fortunate for him that he was not master of any qualities which could procure him the empire, and that his very incapacity should be the cause of his promotion to it, since it made him the less dreaded. It is not impossible that the defects which threw the greatest dishonour on his character, were the most propitious to his fortune. If he had discovered, at first, any traces of an exalted soul, all mankind would have been jealous of his abilities; and if he had been spirited by any true bravery, [89] he would not have given Antony time to launch into all the extravagances which proved his ruin.
+I believe Octavius is the only man of all the Roman generals, who ever gained the affections of the soldiers by giving them perpetual instances of a natural timidity of spirit. 
+
+The soldiers, at that time, were more affected with the liberality of their commanders than their valour; perhaps it was even fortunate for him that he was not master of any qualities which could procure him the empire, and that his very incapacity should be the cause of his promotion to it, since it made him the less dreaded. It is not impossible that the defects which threw the greatest dishonour on his character, were the most propitious to his fortune. 
+
+If he had discovered, at first, any traces of an exalted soul, all mankind would have been jealous of his abilities; and if he had been spirited by any true bravery, [89] he would not have given Antony time to launch into all the extravagances which proved his ruin.
 
 When Antony was preparing to march against Octavius, he assured his soldiers, by a solemn oath, that he would restore the republic; which makes it evident, that even they were jealous of the liberty of their country, though they were the perpetual instruments of its destruction; for an army is the blindest and most inconsiderate set of people in the world.
 
@@ -43,10 +58,19 @@ When Augustus was at the head of an armed power, he dreaded the revolt of his so
 
 A question has been started, whether Augustus had a real inclination to divest himself of the empire. But is it not apparent, that, had he been in earnest, he might easily have effected his design? But his whole proceeding, in that affair, was a mere artifice; because, though he expressed a desire every ten years, to be eased of the mighty load that encumbered him, yet he always thought fit to bear it. These were little refinements of low cunning, calculated to induce the people to give him what, in his opinion, he had not sufficiently acquired. I form my thoughts in this particular, by the whole life of Augustus; and though mankind are frequently fanciful and inconsistent, they are seldom known to renounce, in one moment, any enjoyment that has engaged the attention of all their life. Every action of Augustus, and each of his various regulations, visibly tended to the establishment of monarchy. Sylla resigned the dictatorship=  but, amidst all his violent proceedings, a republican spirit is apparent in every part of his conduct; all his regulations, though executed with a tyrannical air, had an aspect to some certain form of a commonwealth. Sylla, who was a man of an impetuous temper, precipitated the Romans into liberty. Augustus, who was a smooth and subtile tyrant * , led them gently into slavery. When the republic regained its power, under Sylla, all the people exclaimed against tyranny; and whilst this became fortified, under Augustus, liberty was the general boast.
 
-[93]
-The custom of triumphs, which had so much contributed to the greatness of Rome, was abolished by Augustus, or, more properly, this honour became the prerogative of sovereignty * . The greatest part of those customs which prevailed under the emperors, derived their origin from the republic † ; and it will be proper to bring them together, that the similitude may be more apparent. That person alone under whose auspices a war had been conducted, was intitled to demand a triumph ‡ =  now wars were always carried on under the auspices of a generalissimo, and consequently of the emperor, who was the generalissimo of all the forces.
 
-As constant war was the reigning principle of the republic, the maxim under the emperors was altogether pacific. Victories were considered as so many opportunities of introducing disorder by armies, who might fix too great a valuation on their services.
+The custom of triumphs had so much contributed to the greatness of Rome. 
+- It was abolished by Augustus, or, more properly, this honour became the prerogative of sovereignty * . 
+
+The greatest part of those customs which prevailed under the emperors, derived their origin from the republic †
+
+It will be proper to bring them together, that the similitude may be more apparent. 
+
+That person alone under whose auspices a war had been conducted, was intitled to demand a triumph ‡ =  now wars were always carried on under the auspices of a generalissimo, and consequently of the emperor, who was the generalissimo of all the forces.
+
+Constant war was the reigning principle of the republic. 
+
+The maxim under the emperors was altogether pacific. Victories were considered as so many opportunities of introducing disorder by armies, who might fix too great a valuation on their services.
 
 Those who were advanced to any command, were apprehensive of engaging in enterprises of too great importance; they found it necessary to aim at glory with moderation, and were to engage the emperor’s notice, and not raise his jealousy; in a word, they were not to appear before him with a lustre which his eyes could not bear.
 
@@ -54,7 +78,15 @@ Augustus was very cautious § of investing any one with the rights of a Roman ci
 
 These three particulars were very well connected; for when all war was discontinued, there was no need either of new citizens or enfranchisements.
 
-When Rome was in a constant state of war, she was under a perpetual necessity of recruiting her inhabitants. At the beginning, part of the people were transplanted thither from the conquered cities, and in process of time several citizens of the neighbouring towns came to Rome to obtain a share in the rights of suffrage, and established themselves there in such numbers, that, upon the complaints of the allies, the Romans were obliged to remand them back. Multitudes at last arrived from the provinces; the laws favoured marriages, and even rendered them necessary. Rome, in all her wars, gained a prodigious number of slaves, and when the riches of the citizens became immense, they bought these unhappy people from all parts, and, from a principle of generosity, avarice, or ambition, enfranchised them without number † . Some intended by this proceeding to reward the fidelity of their slaves=  others had a view by it to receive, in their name, the corn which the republic distributed among the poor citizens. In a word, others desired to have their funeral solemnity graced with a long train of attendance crowned with flowers. The people were generally composed of persons ‡ who had received their freedom, so that the lords of the universe, not only in their original, but through the greatest part of succeeding times, were of servile extraction.
+When Rome was in a constant state of war, she was under a perpetual necessity of recruiting her inhabitants. At the beginning, part of the people were transplanted thither from the conquered cities, and in process of time several citizens of the neighbouring towns came to Rome to obtain a share in the rights of suffrage, and established themselves there in such numbers, that, upon the complaints of the allies, the Romans were obliged to remand them back. Multitudes at last arrived from the provinces; the laws favoured marriages, and even rendered them necessary. 
+
+Rome, in all her wars, gained many slaves. When the riches of the citizens became immense, they bought these unhappy people from all parts. 
+
+From a principle of generosity, avarice, or ambition, enfranchised them without number † . 
+
+Some intended by this proceeding to reward the fidelity of their slaves=  others had a view by it to receive, in their name, the corn which the republic distributed among the poor citizens. 
+
+In a word, others desired to have their funeral solemnity graced with a long train of attendance crowned with flowers. The people were generally composed of persons ‡ who had received their freedom, so that the lords of the universe, not only in their original, but through the greatest part of succeeding times, were of servile extraction.
 
 The number of the populace being chiefly collected out of slaves who had been enfranchised, or the [95] sons of such, became very incommodious, and were therefore transplanted into colonies; by which means the state effectually secured the obedience of the provinces. There was a general circulation of mankind through the world. Rome received them in the state of slaves, and sent them away Romans.
 

@@ -1,32 +1,43 @@
+---
+heading: "Chapter 15b"
+title: "The State of the Empire from Antoninus to Probus"
+weight: 17
+description: "IN this period, the Stoics propagated their doctrines in the empire with great popularity"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-+++
-title=  "Considerations on the State of the Empire from Antoninus to Probus"
-heading=  "Chapter 16 of The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-15"
-linkbtext=  "Chapter 15"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-17"
-linkftext=  "Chapter 17"
-+++
+IN this period, the Stoics propagated their doctrines in the empire with great popularity. 
 
+It seems as if nature herself had been industrious to produce this admirable sect, which resembled those plants the earth causes to spring up in places never visited by the sunbeams.
 
-IN this period, the Stoics propagated their doctrines in the empire with great popularity; and it seems as if nature herself had been industrious to produce this admirable sect, which resembled those plants the earth causes to spring up in places never visited by the sunbeams.
+This sect furnished the Romans with their best emperors.
 
-This sect furnished the Romans with their best emperors; none but Marcus Aurelius could extinguish the remembrance of the first Antonine who adopted him; and we find ourselves affected with a secret pleasure when we speak of this emperor. We cannot read his life without some impressions of tenderness, and grow inclinable to think better of ourselves, because the history of that prince makes us entertain a more favourable opinion of mankind.
+Only Marcus Aurelius could extinguish the remembrance of the first Antonine who adopted him. 
 
-The wisdom of Nerva, the glory of Trajan, the valour of Adrian, and the virtue of the two Antonines, gained them the veneration of the soldiers; but when a set of new monsters became their successors, the abuse of military government appeared in its full enormity; and the soldiers, who had exposed the empire to sale, assassinated the emperors for the sake of new gratuities.
+<!-- We find ourselves affected with a secret pleasure when we speak of this emperor.  -->
+
+We cannot read his life without some impressions of tenderness, and grow inclinable to think better of ourselves, because the history of that prince makes us entertain a more favourable opinion of mankind.
+
+The wisdom of Nerva, the glory of Trajan, the valour of Adrian, and the virtue of the two Antonines, gained them the veneration of the soldiers. 
+
+But when a set of new monsters became their successors, the abuse of military government appeared in its full enormity; and the soldiers, who had exposed the empire to sale, assassinated the emperors for the sake of new gratuities.
 
 It has been a conceived opinion that there is a certain prince in the world, who, for the space of fifteen years, has been endeavouring to abolish the civil government in his dominions, and to substitute the military in its room. I have no intention to make odious reflections on such a design, and shall only observe, that from the nature of things in general, two hundred guards may be a better security to a prince than four thousand; and besides, an armed people are of all others the most dangerous to be opposed.
 
-Commodus succeeded his father Marcus Aurelius, and was a monster who gave a loose to all his own passions, and those of his courtiers. The persons who delivered the world from such a Barbarian, transferred the imperial dignity to the venerable Pertinax, who was soon assassinated by the prætorian bands.
+Commodus succeeded his father Marcus Aurelius. He was a monster who gave a loose to all his own passions, and those of his courtiers. 
 
-The empire was then exposed to auction, and Didius Julian carried it by a number of magnificent promises. This proceeding exasperated the whole body of the people; for though the empire had been frequently bought, it had never been sold upon credit before. Pescennius Niger, Severus, and Albinus, were saluted [113] emperors; and Julian, not being in a condition to pay the immense sums he had promised, was abandoned by the soldiers.
+The persons who delivered the world from such a Barbarian, transferred the imperial dignity to the venerable Pertinax, who was soon assassinated by the prætorian bands.
 
-Severus defeated Niger and Albinus=  he was master of extraordinary qualities, but wanted that sweetness of disposition, which in princes is the most amiable quality they can possess.
+The empire was then exposed to auction. 
+
+Didius Julian carried it by a number of magnificent promises. This exasperated all the people. The empire had been frequently bought. But it had never been sold on credit before. 
+
+Pescennius Niger, Severus, and Albinus, were saluted emperors. Julian, not being in a condition to pay the immense sums he had promised, was abandoned by the soldiers.
+
+Severus defeated Niger and Albinus. He was master of extraordinary qualities, but wanted that sweetness of disposition, which in princes is the most amiable quality they can possess.
 
 The power of the Emperors might easily appear more tyrannical than that of modern princes; for as their dignity was a conjunction of the various authorities in the Roman magistracy, such as dictators, for instance, tribunes of the people, proconsuls, censors, supreme pontiffs, and sometimes consuls, they frequently assumed the dispensation of distributive justice, and it was easy for them to create suspicions that they had oppressed those whom they condemned; for the people usually judge of the abuse of power, by the greatness of its extent; whereas the kings of Europe, being legislators and not executors of the law, sovereign princes but not judges, are consequently discharged from the exercise of an authority that might prove odious; and have consigned the infliction of punishments to magistrates, whilst they reserved to themselves the distribution of pardons and other popular acts of mercy.
 
@@ -34,12 +45,11 @@ Few emperors have ever been more jealous of their authority than Tiberius and Se
 
 The unhappy custom of proscribing, introduced by Sylla, was still practised under the emperors; and the prince must have been distinguished by some virtue, if he discountenanced that severe proceeding; for as the ministers and favourites turned their thoughts to confiscations at the beginning of a reign, they were always representing to their sovereign the necessity of punishments, and the dangerous effects of clemency.
 
-[114]
 When Severus gave full play to his proscriptions, a great body of Niger’s * army retired for safety to the Parthians † and perfected them in every part of military discipline wherein they were any way defective; they habituated them to the Roman weapons, and even taught their workmen how to make their martial equipage; in consequence of which, that people, who till then had usually limited their exploits to defensive wars ‡ , were generally aggressors for the future.
 
-It is very remarkable, that in the long series of those civil wars that were continually raging, the chiefs, who were supported by the legions of Europe, generally defeated the leaders of the Asiatic legions ∥ ; and we read, in the history of Severus, that he could not take the city of Atra in Arabia, because the European legions having mutinied, he was obliged to employ those of Syria.
+It is very remarkable, that in the long series of those civil wars that were continually raging, the chiefs, who were supported by the legions of Europe, generally defeated the leaders of the Asiatic legions. The history of Severus writes that he could not take the city of Atra in Arabia, because the European legions having mutinied, he was obliged to employ those of Syria.
 
-This difference became evident, when the levies were first made § in the provinces, and it appeared as considerable in the legions, as it did in the nations out of which they were raised, and who, by nature or education, were more or less formed for war.
+This difference became evident, when the levies were first made § in the provinces. It appeared as considerable in the legions, as it did in the nations out of which they were raised, and who, by nature or education, were more or less formed for war.
 
 Another unhappy consequence likewise ensued from these provincial levies; for the emperors, who were generally elected out of the soldiery, were for the most part strangers, and sometimes the worst of Barbarians. [115] Rome was now no longer mistress of the world, but received laws from the whole universe.
 
@@ -107,7 +117,13 @@ Those princes who have large dominions, seldom find them bordered by any territo
 
 In the reign of Gallus, a mighty collection of nations, who afterwards became more celebrated, spread their ravages through all Europe; and the Persians having invaded Syria, abandoned their conquests only to preserve their booty.
 
-We no longer see any of those swarms of Barbarians which the North formerly sent out. The violences of the Romans had made the people of the South retire into the North=  while the force which confined them subsisted, they remained there=  when it was weakened, they dispersed themselves into all parts * . The same thing happened some ages after. The conquest and tyrannies of Charlemagne had again forced the nations of the South into the North=  as soon as this empire was weakened, they poured a second time from the North into the South. And if at present a prince made the same ravages in Europe, the nations driven into the North, with their backs to the limits of the universe, would maintain their ground, till the moment they should over-run and conquer Europe a third time.
+We no longer see any of those swarms of Barbarians which the North formerly sent out. The violences of the Romans had made the people of the South retire into the North=  while the force which confined them subsisted, they remained there=  when it was weakened, they dispersed themselves into all parts * . 
+
+The same thing happened some ages after. 
+
+The conquest and tyrannies of Charlemagne had again forced the nations of the South into the North=  as soon as this empire was weakened, they poured a second time from the North into the South.
+
+If at present a prince made the same ravages in Europe, the nations driven into the North, with their backs to the limits of the universe, would maintain their ground, till the moment they should over-run and conquer Europe a third time.
 
 The miserable disorders which had so long been springing up in the several successions of the emperors, were now come to their fatal maturity, and that period which was concurrent with the close of Valerian’s reign, and the duration of that of his son Gallienus, produced thirty pretenders to the empire, the greatest part of whom being swept away by their mutual contentions, their devastations were limited to a short reign; and they gained nothing durable but the appellation of the thirty tyrants.
 
@@ -115,4 +131,12 @@ Valerian having been taken prisoner by the Persians, and his son Gallienus negle
 
 The terrible confusion in succeeding to the empire being come to its height, we find at the end of the reign of Valerian, and during that of Gallienus, his son, no less that thirty pretencers to the throne, most of whom having got possession of it, and reigned for a very short time, were called the tyrants.
 
-Odenatus, prince of Palmyra, and one of the Roman allies, dislodged the Pe sians, who had invaded the greatest part of Asia=  Rome furnished an army of its own citizens, and they effectually delivered it from the Barbarians who came to pillage their city=  an innumerable army of Scythians, who put to sea in a fleet of five thousand ships, entirely perished by storms, fatigue, and famine, and even by their formidable grandeur; and Gallienus being at last slain, Claudius, Aurelian, Tacitus, and Probus, who happily succeeded him, and were four extraordinary princes, snatched the empire from the verge of ruin.
+Odenatus was prince of Palmyra and one of the Roman allies. 
+
+He dislodged the Persians who had invaded the greatest part of Asia. 
+
+Rome furnished an army of its own citizens, and they effectually delivered it from the Barbarians who came to pillage their city. 
+
+An innumerable army of Scythians, who put to sea in a fleet of 5,000 ships, entirely perished by storms, fatigue, and famine, and even by their formidable grandeur.
+
+Gallienus being at last slain, Claudius, Aurelian, Tacitus, and Probus, who happily succeeded him, and were four extraordinary princes, snatched the empire from the verge of ruin.

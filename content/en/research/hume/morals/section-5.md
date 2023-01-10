@@ -1,34 +1,39 @@
-+++
-title       = "Why Utility Pleases"
-description = "Is public utility the SOLE origin of justice? Are the benefits of justice the SOLE foundation of its merit?"
-date        = "2020-06-16"
-image = "/covers/morals.jpg"
-author      = "David Hume"
-keywords    = ["documentation"]
-linkTitle   = "Documentation"
-linkb = "/research/hume/morals/section-4"
-linkbtext = "Section 4"
-linkf = "/research/hume/morals/section-5b"
-linkftext = "Section 5b"
-+++
+---
+title: "Why Utility Pleases"
+heading: "Section 5"
+description: "There would be no need for governments or political society if everyone could observe justice and equity and had the strength of mind to resist present pleasure and advantage"
+image: /covers/morals.jpg
+author: David Hume
+icon: /avatars/hume.png
+weight: 14
+---
+
 
 
 ## Part 1
+ 
+It is natural to base the praise that we give to the social virtues to their utility. This is why moral writers everywhere use utility as the chief foundation of their reasoning and enquiry. 
 
-It seems so natural a thought to ascribe to their utility the praise, which we bestow on the social virtues, that one would expect to meet with this principle everywhere in moral writers, as the chief foundation of their reasoning and enquiry. 
+In common life, utility is always appealed to. The man who shows his usefulness to the public, and enumerates the services to mankind and society gets the most praises. 
 
-In common life, we may observe, that the circumstance of utility is always appealed to; nor is it supposed, that a greater eulogy can be given to any man, than to display his usefulness to the public, and enumerate the services, which he has performed to mankind and society. 
+What praise, even of an inanimate form, if the regularity and elegance of its parts destroy not its fitness for any useful purpose! 
 
-What praise, even of an inanimate form, if the regularity and elegance of its parts destroy not its fitness for any useful purpose! And how satisfactory an apology for any disproportion or seeming deformity, if we can show the necessity of that particular construction for the use intended! A ship appears more beautiful to an artist, or one moderately skilled in navigation, where its prow is wide and swelling beyond its poop, than if it were framed with a precise geometrical regularity, in contradiction to all the laws of mechanics. 
+And how satisfactory an apology for any disproportion or seeming deformity, if we can show the necessity of that particular construction for the use intended! 
+
+A ship appears more beautiful to an artist, or one moderately skilled in navigation, where its prow is wide and swelling beyond its poop, than if it were framed with a precise geometrical regularity, in contradiction to all the laws of mechanics. 
 
 A building, whose doors and windows were exact squares, would hurt the eye by that very proportion; as ill adapted to the figure of a human creature, for whose service the fabric was intended.
 
 What wonder then, that a man, whose habits and conduct are hurtful to society, and dangerous or pernicious to every one who has an intercourse with him, should, on that account, be an object of disapprobation, and communicate to every spectator the strongest sentiment of disgust and hatred.
 
 {{< box >}}
-[Footnote=  An inanimate object may be useful as well as a man, that therefore it ought also, according to this system, to merit he appellation of VIRTUOUS. The sentiments, excited by utility, are, in the two cases, very different; and the one is mixed with affection, esteem, approbation, &c., and not the other. In like manner, an inanimate object may have good colour and proportions as well as a human figure. But can we ever be in love with the former?
+[Footnote: An inanimate object may be useful as well as a man, that therefore it ought also, according to this system, to merit he appellation of VIRTUOUS. 
 
-There are a numerous set of passions and sentiments, of which thinking rational beings are, by the original constitution of nature, the only proper objects=  and though the very same qualities be transferred to an insensible, inanimate being, they will not excite the same sentiments.
+The sentiments, excited by utility, are, in the two cases, very different; and the one is mixed with affection, esteem, approbation, &c., and not the other. 
+
+In like manner, an inanimate object may have good colour and proportions as well as a human figure. But can we ever be in love with the former?
+
+There are a numerous set of passions and sentiments, of which thinking rational beings are, by the original constitution of nature, the only proper objects: and though the very same qualities be transferred to an insensible, inanimate being, they will not excite the same sentiments.
 The beneficial qualities of herbs and minerals are, indeed, sometimes called their VIRTUES; but this is an effect of the caprice of language, which out not to be regarded in reasoning. For though there be a species of approbation attending even inanimate objects, when beneficial, yet
 this sentiment is so weak, and so different from that which is directed to beneficent magistrates or statesman; that they ought not to be ranked under the same class or appellation.
 

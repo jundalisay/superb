@@ -1,15 +1,14 @@
-+++
-title= "Why we use Money"
-heading= "Chapter 1 and 2"
-description= "When a nation trades with a great variety of merchandise, money becomes necessary"
-image= "/covers/spirit.jpg"
-author= "Montesquieu"
-date= 2020-03-31
-linkb= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-22"
-linkbtext= "Chapter 22"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-22/chapter-3"
-linkftext= "Chapter 3"
-+++
+---
+heading: "Chapters 1-2"
+title: "Why we use Money"
+weight: 4
+description: "When a nation trades with a great variety of merchandise, money becomes necessary"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 The following people trade by exchange:
 - savages who have few merchandise

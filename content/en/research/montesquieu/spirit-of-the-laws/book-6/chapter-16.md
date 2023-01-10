@@ -1,13 +1,14 @@
-+++
-title= "The just Proportion betwixt Punishments and Crimes"
-description= "Chapters 16= The Simple Spirit of the Laws by Montesquieu Volume 1"
-date= 2015-09-09
-image= "https://sorasystem.sirv.com/avatars/mont.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-6/chapter-14"
-linkbtext= "Chapter 14"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-6/chapter-21"
-linkftext= "Chapter 21"
-+++
+---
+heading: "Chapter 16"
+title: "The Just Proportion Between Punishments and Crimes"
+weight: 8
+description: "Public incontinence is the inseparable companion of luxury"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
 
 IT is an essential point, that there should be a certain proportion in punishments, because it is essential that a great crime should be avoided rather than a smaller, and that which is more pernicious to society rather than that which is less.
 

@@ -31,14 +31,23 @@ This is similar to <!-- In this connection, one may compare --> how children con
 - They do that only because they see perfection in him. 
 - One may also compare how almost everywhere people are dominated (in the matter of fashion) by the dress of the militia and the government forces, because they are ruled by them. 
 
-This goes so far that a nation dominated by another, neighboring nation will show a great deal of assimilation and imitation. At this time, this is the case in Spain. The Spaniards are found to assimilate themselves to the Galician nations in their dress, their emblems, and most of their customs and conditions. 
+This goes so far that a nation dominated by another, neighboring nation will show a great deal of assimilation and imitation. 
 
-This goes so far that they even draw pictures on the walls and (have them) in buildings and houses. The intelligent observer will draw from this the conclusion that it is a sign of domination (by others). God has the power to command. 134
+At this time, this is the case in Spain. 
+- The Spaniards have assimilated themselves to the Galician nations in their dress, their emblems, and most of their customs and conditions. 
+- They even draw pictures on the walls of their buildings and houses. 
 
-In this light, one should understand the secret of the saying, "The common people follow the religion of the ruler." 135 (This saying) belongs to the subject under discussion. The ruler dominates those under him. His subjects imitate him, because they see perfection in him, exactly as children imitate their parents, or students their teachers.
+The intelligent observer will see this as a sign of domination by others.
+
+This is proven by the saying: "The common people follow the religion of the ruler"  
+- The ruler dominates those under him.
+- His subjects imitate him, because they see perfection in him, exactly as children imitate their parents, or students their teachers.
 
 
-## 23. A nation that has been defeated and come under the rule of another nation will quickly perish. 
+
+<!-- ## 23. A nation that has been defeated and come under the rule of another nation will quickly perish.  -->
+
+## 23. A subjugated nation will quickly perish. 
 
 This is because the apathy that comes over people when they lose control of their own affairs and, through enslavement, become the
 instrument of others and dependent upon them.  

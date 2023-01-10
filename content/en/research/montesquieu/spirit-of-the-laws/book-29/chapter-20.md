@@ -1,17 +1,13 @@
+---
+heading: "Chapter 2"
+title: "Justinian's Conquests and Government"
+weight: 17
+description: "The barbarians broke all at once like a flood into the empire. They fought each other"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-
-+++
-title=  "Justinian's Conquests and Government"
-heading=  "Chapter 20 of Volume 3"
-date=  2015-09-20
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-19"
-linkbtext=  "Chapter 19"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-21"
-linkftext=  "Chapter 21"
-+++
 
 The barbarians broke all at once like a flood into the empire. They fought each other. The politics of those times set them against each other. This was easy to accomplish becaus of their avarice and fierce dispoposition<!--  greatly contributing to make it practicable -->. 
 

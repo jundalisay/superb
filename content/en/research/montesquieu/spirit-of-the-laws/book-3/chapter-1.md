@@ -1,15 +1,17 @@
-+++
-title=  "The Laws from the Nature of Government"
-heading=  "Chapter 1-4=  The Principles of government. The Principles of Democracy and Aristocracy"
-date=  2015-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-2"
-linkbtext=  "Book 2"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-3/chapter-5"
-linkftext=  "Chapter 5"
-+++
+---
+heading: "Chapters 1-4"
+title: "The Laws from the Nature of Government"
+weight: 4
+description: "Commerce was transferred to Jews who were covered with infamy. It soon ranked with the most shameful usury with monopolies, the levying of subsidies, and all the dishonest means of acquiring wealth"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
+
+
+
+<!-- heading=  "Chapter 1-4=  The Principles of government. The Principles of Democracy and Aristocracy" -->
+
 
 A monarchical or despotic government does not need virtue. The force of laws and the prince’s arm are enough to maintain it. 
 
@@ -54,10 +56,9 @@ When Hannibal tried to hinder Carthaginians from plundering the Roman republic, 
 
 Rome soon insisted on having 300 of their principal citizens as hostages. Carthage obliged them next to surrender their arms and ships and then declared war. From the desperate efforts of this defenceless city, one may judge of what she might have performed in her full vigour, and assisted by virtue.
 
-<br>
 
 
-## Chapter 4=  The Principle of Aristocracy
+## Chapter 4: The Principle of Aristocracy
 
 Virtue is also necessary in an aristocracy.
 

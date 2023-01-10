@@ -1,28 +1,21 @@
+---
+heading: "Chapter 1"
+title: "The Infancy of Rome and the Wars it sustained"
+weight: 4
+description: "Some nations chose to preserve their ancient usages and not assist Rome"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
 
-
-
-
-
-+++
-title=  "The Infancy of Rome and the Wars it sustained."
-heading=  "Chapter 1 of Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-45"
-linkbtext=  "Chapter 45"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-2"
-linkftext=  "Chapter 2"
-+++
 
 We are not to form to ourselves an idea of the city of Rome, in its infancy, from the cities which exist at this time, except we have in view those of the Crim Tartars, built for the stowing and securing of plunder, cattle, fruits, and other produce of the country. 
 
 The ancient names of the chief places in Rome, are all relative to this use.
 
-Rome didn't even have streets unless we call their central roads as such. The houses were= 
+Rome didn't even have streets unless we call their central roads as such. The houses were:
 - straggling, 
 - built in an irregular manner, and 
 - very small
@@ -75,7 +68,7 @@ No flattering colours have been employed in the picture which is left us of Tarq
 
 His name has not escaped any of the orators who declaimed against tyranny. 
 
-I think that Tarquin was not contemptible because= 
+I think that Tarquin was not contemptible because:
 - his conduct foresaw his own calamities
 - he was gentle and humane towards the conquered 
 - he was beneficent to the soldiers
@@ -92,7 +85,9 @@ The rank or place which posterity bestows, is subject, as all others are, to the
 
 The Romans, after having banished their kings, appointed consuls annually; a circumstance which contributed to raise them to so exalted a pitch. 
 
-In the lives of all princes there are certain periods of ambition, and these are afterwards succeeded by other passions, and even by indolence; but the commonwealth [5] being governed by magistrates who were changed every year, and who endeavoured to signalize themselves in their employment, in the view of obtaining new ones, ambition had not a moment to lose. Hence it was that these magistrates were ever persuading the senate to stir up the people to war, and pointed our to them new enemies every day.
+In the lives of all princes there are certain periods of ambition, and these are afterwards succeeded by other passions, and even by indolence; but the commonwealth [5] being governed by magistrates who were changed every year, and who endeavoured to signalize themselves in their employment, in the view of obtaining new ones, ambition had not a moment to lose.
+
+Hence it was that these magistrates were ever persuading the senate to stir up the people to war, and pointed our to them new enemies every day.
 
 This body (the senate) was inclined enough to do this of their own accord; for, being quite tired of the complaints and demands of the people, they endeavoured to remove the occasion of their disquiet, and to employ them in foreign wars.
 

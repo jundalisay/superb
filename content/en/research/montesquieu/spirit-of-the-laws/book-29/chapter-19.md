@@ -1,38 +1,52 @@
+---
+heading: "Chapter 19"
+title: "The Grandeur of Attila and Why the Western Empire was overturned before the Eastern"
+weight: 17
+description: "Christianity was established when the empire was declining. The Christians reproached the Pagans for that decay. The Pagans retorted the charge on Christianity"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-+++
-title=  "The Grandeur of Attila and Why the Western Empire was overturned before the Eastern"
-heading=  "Chapter 19 of The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-18"
-linkbtext=  "Chapter 18"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-20"
-linkftext=  "Chapter 20"
-+++
+Christianity was established when the empire was declining. The Christians reproached the Pagans for that decay. The Pagans retorted the charge on Christianity. 
 
-Christianity was established when the empire was declining. The Christians reproached the Pagans for that decay. The Pagans retorted the charge on Christiantiy. 
-
-The Christians replied that Dioclesian ruined the empire, by associating his three colleagues because each emperor would be as expensive, and maintained as great armies as could have subsisted had there been but one sovereign.
+The Christians replied that Dioclesian ruined the empire by having 3 emperors. 
+- Each emperor was expensive and maintained more armies than when there was but one sovereign.
 
 As a consequence, those who furnished the contributions being unequally proportioned to the number of the receivers, the charges became so excessive that the lands were forsaken by the husbandmen, and for want of cultivation lay waste, and were covered with wild and barren forests.
 
 The Pagans, on the other hand, were perpetually exclaiming against the strange innovations in religion, introduced by their adversaries, and never heard of till those days. 
 
-And as the overflowings of the Tyber, and other prejudicial effects of nature, were, in the flourishing state of Rome, ascribed to the displeasure of the gods; so the calamities of declining Rome were imputed to a religious novelty, and the subversion of the ancient altars.
 
-Symmachus the prefect, in a letter to the emperors, relating to the altar of Victory, attacked the christian religion with arguments extremely popular, and consequently very seducing, and had art enough to set them off with all the plausibility invention could furnish.
 
-{{< quote >}}
-The experience of our former prosperity can lead us more effectually to the knowledge of the gods. We should be faithful to such a series of ages, and pursue the same track followed by our fathers and their ancestors. <!-- Imagine Rome herself speaks to you in this manner=  O imperial princes! compassionate fathers of your country!  -->
+In the flourishing state of Rome, the following were ascribed to the displeasure of the gods:
+- the overflowings of the Tiber
+- other prejudicial effects of nature
+
+The calamities of declining Rome were imputed to:
+- the new Christian religion
+- the subversion of the ancient altars
+
+Symmachus the prefect wrote a letter to the emperors attacked the christian religion with extremely popular and seducing arguments. He had enough art to set them off with all the plausibility invention could furnish.
+
+<!-- , relating to the altar of Victory, -->
+
+{{< q >}}
+The experience of our former prosperity can lead us more effectually to the knowledge of the gods. 
+
+We should be faithful to such a series of ages, and pursue the same track followed by our fathers and their ancestors. <!-- Imagine Rome herself speaks to you in this manner=  O imperial princes! compassionate fathers of your country!  -->
 <!-- Look with eyes of veneration on those years of mine, wherein I always conformed to the ceremonies of my predecessors.  -->
-Those sacred institutions have made the universe obedient to my laws. These were the allies that chased Hannibal from my walls, and drove the Gauls in confusion from the capitol. We fervently ask peace for the gods of our country. We solicit it in the anguish of our souls, for our compatriot deities! We have no inclination to engage in disputes which are only proper for idle persons, and we would express ourselves in the language of supplication, and not of war.
-</div>
+
+Those sacred institutions have made the universe obedient to my laws. These were the allies that chased Hannibal from my walls, and drove the Gauls in confusion from the capitol. 
+
+We fervently ask peace for the gods of our country. We solicit it in the anguish of our souls, for our compatriot deities! 
+
+We have no inclination to engage in disputes which are only proper for idle persons, and we would express ourselves in the language of supplication, and not of war.
+{{< /q >}}
 
 
-Symmachus was answered by three celebrated authors. Orosius composed his history to prove there had always been calamities in the world, as great as those complained of by the Pagans. 
+Symmachus was answered by 3 celebrated authors. Orosius composed his history to prove there had always been calamities in the world, as great as those complained of by the Pagans. 
 
 Salvian likewise wrote his book, wherein he maintains, that the ravages of the Barbarians were to be imputed to the degenerate behaviour of the christians. 
 
@@ -40,28 +54,45 @@ St. Austin demonstrates, that the city of heaven is very different from that cit
 
 Part of the politics of the ancient Romans consisted in dividing all the powers that gave them any umbrage; but that scheme was deseated in after times, and Rome could not prevent Attili from conquering all the northern nations=  he extended his victories from the Danube to the Rhine, demolished all the forts and military works on the banks of those rivers, and made both the empires tributary.
 
-He says=  
+He says:
 
-"Theodosius with an insolent air, is descended from a father as noble as mine; but the moment I compelled him to pay tribute to me, he fell from the grandeur of his extraction, and became my vassal=  and therefore it is unjust in him to act like a base slave, and endeavour to prejudice his master by treachery.”
+{{< q >}}
+"Theodosius with an insolent air, is descended from a father as noble as mine; but the moment I compelled him to pay tribute to me, he fell from the grandeur of his extraction, and became my vassal. Therefore it is unjust in him to act like a base slave, and endeavour to prejudice his master by treachery.”
+{{< /q >}}
 
-“An emperor, said he, upon an other occasion, ought not to be a liar; he promised one of my subjects to give him the daughter of Saturninus in marriage; and I will immediately declare war against him, if he presumes to depart from his word; but if the disobedience of those about him puts it out of his power to be punctual, I will march to his assistance.”
+
+{{< q >}}
+“An emperor, upon an other occasion, should not be a liar. He promised one of my subjects to give him the daughter of Saturninus in marriage; and I will immediately declare war against him, if he presumes to depart from his word; but if the disobedience of those about him puts it out of his power to be punctual, I will march to his assistance.”
+{{< /q >}}
+
 
 
 ## Attila the Hun
 
-It is not to be imagined that Attila was induced by any moderation and lenity of temper, to let the Romans subsist; he only conformed himself to the genius of his nation, which prompted them to awe, and not to conquer foreign states. 
+It is not to be imagined that Attila was induced by any moderation and lenity of temper, to let the Romans subsist. 
 
-Attila retired from the splendor of majesty to his mansion built of wood, according to the representation of Priscus, though at the same time he was lord of all the barbarous nations, and, in some degree, master of the chief part of those who were civilized, was one of the geeatest monarchs recorded in history.
+He only conformed himself to the genius of his nation, which prompted them to awe, and not to conquer foreign states. 
+
+Priscus says that Attila retired from the splendor of majesty to his mansion built of wood when he was lord of all the barbarous nations.
+- He was one of the geeatest monarchs recorded in history.
+
+<!-- , and, in some degree, master of the chief part of those who were civilized,  -->
 
 Ambassadors from the eastern and western Roman empires were dispatched to his court to receive his laws and implore his favour. 
 
-Sometimes he commanded them to deliver up the Huns who had deserted from his armies, or the Roman slaves who had escaped from the vigilance of his officers. At other times, he would not be satisfied till some minister of the emperor was surrendered into his power. He charged the Eastern empire with a tribute of 200,000 of gold.
+Sometimes, he commanded them to deliver up the Huns who had deserted from his armies, or the Roman slaves who had escaped from the vigilance of his officers. 
+
+At other times, he would not be satisfied till some minister of the emperor was surrendered into his power. He charged the Eastern empire with a tribute of 200,000 of gold.
 
 He received the yearly sum allowed to a Roman general and sent those he intended to reward to Constantinople, that they might be gratified to their utmost wish, making by these means a constant traffic of the apprehensions of the Romans.
 
-He was feared by his subjects. But we have no reason to believe they entertained any aversion to his person=  he was surprizingly fierce and impetuous, and at the same time exceeding politic and artful. 
+He was feared by his subjects, but not hated. 
 
-He appeared violent in his rage, but had a sufficient presence of mind to know when to pardon an offence, or deser a punishment as the circumstances were more or less agreeable to his interest. 
+<!-- But we have no reason to believe they entertained any aversion to his person= -->
+
+He was surprisingly fierce and impetuous, yet exceeding politic and artful. 
+
+He appeared violent in his rage. But he had a sufficient presence of mind to know when to pardon an offence, or deser a punishment as the circumstances were more or less agreeable to his interest. 
 
 War was never his choice, when he could derive sufficient advantages from peace. He was faithfully served even by the kings who were subordinate to his power, and had collected into his own conduct all the ancient simplicity of the northern manners. 
 

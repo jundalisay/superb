@@ -1,15 +1,17 @@
-+++
-title= "Improper Customs Destroys Commerce"
-heading= "Chapters 13-14"
-date= 2015-09-27
-image= "/covers/spirit.jpg"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-10"
-linkbtext= "Chapter 10"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-16"
-linkftext= "Chapter 16"
-+++
+---
+heading: "Chapters 13-14"
+title: "Improper Customs Destroys Commerce"
+weight: 8
+description: "TRADE has some relation to forms of government"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-## Chapter 13= How Improper Customs Destroys the Freedom of Commerce
+
+
+
+## Chapter 13: How Improper Customs Destroys the Freedom of Commerce
 
 WHEREVER commerce subsists, customs are established.
 
@@ -31,9 +33,8 @@ In England, the customs are managed by the king’s officers. Business there is 
 - obviate all the difficulties of the tax farmers, or
 - submit to them.
 
-<br>
 
-## Chapter 14= The Laws of Commerce on the Confiscation of Merchandise
+## Chapter 14: The Laws of Commerce on the Confiscation of Merchandise
 
 THE Magna Charta of England forbids the seizing and confiscating, in case of war, the effects of foreign merchants, except by way of reprisals. It is an honour to England that they have made this one of the articles of their liberty.
 
@@ -45,9 +46,9 @@ Only the laws of Japan is similar to this.
 
 The severity of the penalty is not proportional to the crime and therefore shocks humanity, the spirit of commerce, and the harmony. It makes a civil crime a crime against the state.
 
-<br>
 
-## Chapter 15= Imprisoning Merchants
+
+## Chapter 15: Imprisoning Merchants
 
 SOLON copied an Egyptian law that decreed that the citizens should no longer be imprisoned for civil debts. It had been made by Boccoris, and renewed by Sesostris. This law is extremely good, with respect to the generality of civil affairs.
 
@@ -57,4 +58,3 @@ Merchants pay and receive large sums of money for a very short time. It is essen
 - In common civil contracts, the law should not permit imprisonment because the liberty of one citizen is more important than the ease or prosperity of another.
 - But in commercial conventions, the law should consider the public prosperity as more important than the liberty of a citizen.
   - This, however, does not hinder the restrictions demanded by humanity and good policy.
-

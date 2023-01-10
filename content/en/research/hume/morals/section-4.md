@@ -1,16 +1,13 @@
-+++
-title       = "Political Society"
-description = "Is public utility the SOLE origin of justice? Are the benefits of justice the SOLE foundation of its merit?"
-date        = "2020-06-16"
-image = "/covers/morals.jpg"
-author      = "David Hume"
-keywords    = ["documentation"]
-linkTitle   = "Documentation"
-linkb = "/research/hume/morals/section-2"
-linkbtext = "Section 2"
-linkf = "/research/hume/morals/section-3"
-linkftext = "Section 3"
-+++
+---
+title: "Political Society"
+heading: "Section 4"
+description: "There would be no need for governments or political society if everyone could observe justice and equity and had the strength of mind to resist present pleasure and advantage"
+image: /covers/morals.jpg
+author: David Hume
+icon: /avatars/hume.png
+weight: 12
+---
+
 
 <!-- Had every man sufficient SAGACITY to perceive, at all times, the strong interest which binds him to the observance of justice and equity, and STRENGTH OF MIND sufficient to persevere in a steady adherence to a general and a distant interest, in opposition to the allurements of  -->
 
@@ -37,7 +34,9 @@ The difference between kingdoms and individuals is that the latter needs other i
 
 But nations can subsist without each other. They may even subsist, in some degree, under a general war. 
 
-The observance of justice, though useful among them, is not guarded by so strong a necessity as among individuals; and the moral obligation holds proportion with the USEFULNESS. All politicians will allow, and most philosophers, that reasons of state may, in particular emergencies, dispense with the rules of justice, and invalidate any treaty or alliance, where the strict observance of it would be prejudicial, in a considerable degree, to either of the contracting parties. But nothing less than the most extreme necessity, it is confessed, can justify individuals in a breach of promise, or an invasion of the properties of others.
+The observance of justice, though useful among them, is not guarded by so strong a necessity as among individuals; and the moral obligation holds proportion with the USEFULNESS. 
+
+All politicians will allow, and most philosophers, that reasons of state may, in particular emergencies, dispense with the rules of justice, and invalidate any treaty or alliance, where the strict observance of it would be prejudicial, in a considerable degree, to either of the contracting parties. But nothing less than the most extreme necessity, it is confessed, can justify individuals in a breach of promise, or an invasion of the properties of others.
 
 The old Achaean republic and the modern Swiss Cantons and United Provinces are confederated commonwealths. Their league is useful and their unity has sacredness and authority. Their violation would be regarded as more criminal than any private injustice.
 

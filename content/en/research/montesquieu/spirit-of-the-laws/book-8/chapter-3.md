@@ -1,16 +1,14 @@
+---
+heading: "Chapters 3-5"
+title: "The Spirit of extreme Equality"
+weight: 6
+description: "In the state of nature, all men are born equal. But they cannot continue in this equality for society makes them lose it. They recover it only by the protection of the laws"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-+++
-title=  "The Spirit of extreme Equality"
-heading=  "Chapter 1"
-description=  "Research from Montesquieu"
-date=  2020-01-20
-image=  "/covers/spirit.jpg"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-7"
-linkbtext=  "Book 7"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-8/chapter-3"
-linkftext=  "Chapter 3"
-+++
 
 AS distant as heaven is from earth, so is the true spirit of equality from that of extreme equality. The former does not imply that every body should command, or that no one should be commanded, but that we obey or command our equals. It endeavours not to shake off the authority of a master, but that its masters should be none but its equals.
 
@@ -20,9 +18,9 @@ In a well regulated democracy, men are equal only as citizens. But in a badly re
 
 The natural place of virtue is near to liberty. But it is closer to servitude than to excessive liberty.
 
-<br>
 
-## Chapter 4=  Particular Cause of the Corruption of the People
+
+## Chapter 4: Particular Cause of the Corruption of the People
 
 GREAT success, especially when chiefly owing to the people, intoxicates them to such a degree that it is impossible to contain them within bounds. 
 
@@ -30,9 +28,8 @@ Jealous of their magistrates, they soon bec ome jealous likewise of the magistra
 
 Marseilles never experienced those great transitions from lowness to grandeur; this was owing to the prudent conduc t of that republic, who always preserved her principles.
 
-<br>
 
-## Chapter 5=  The Corruption of the Principle of Aristocracy
+## Chapter 5: The Corruption of the Principle of Aristocracy
 
 ARISTOCRACY is corrupted if the power of the nobles becomes arbitrary=  when this is the case, there can no longer b e any virtue either in the governors or the governed.
 
@@ -46,12 +43,13 @@ The great number, therefore, of nobles,  in an hereditary aristocracy, renders t
 
 An aristocracy may maintain the full vig our of its constitution, if the laws be such as are apt to render the noble s more sensible of the perils and fatigues, than of the pleasure, of comman d; and if the government be in such a situation as to have something to dre ad, while security shelters under its protection, and uncertainty threatens from abroad.
 
-As a certain kind of confidence forms th e glory and stability of monarchies, republics, on the contrary, must have  something to apprehend*< /a>. A fear of the Persians supported the laws of Greece. Carthage and Rome were alarmed and strengthened by each other. Strange, that, the greater se curity those states enjoyed, the more, like stagnated waters, they were sub ject to corruption!
+As a certain kind of confidence forms th e glory and stability of monarchies, republics, on the contrary, must have  something to apprehend*< /a>. A fear of the Persians supported the laws of Greece. 
+
+Carthage and Rome were alarmed and strengthened by each other. Strange, that, the greater se curity those states enjoyed, the more, like stagnated waters, they were sub ject to corruption!
 
 
-  <br>
 
-## Chapter 6=  The Corruption of the Principle of Monarchy
+## Chapter 6: The Corruption of the Principle of Monarchy
 
 Democracies are subverted when the people despoil the senate, the magistrates, and judges, of their functions. The multitude usurps the power.
 
@@ -61,7 +59,7 @@ The destruction of the dynasties of Tsin and SoC3BCi (says a Chinese author) was
 
 <!-- The Chinese author gives us, in this instance, the cause of the corruption of almost all monarchies. -->
 
-Monarchy is destroyed, when a prince= 
+Monarchy is destroyed, when a prince: 
 - thinks he shews a greater exertion of power in changing, than in conforming to , the order of things
 - deprives some of his subjects of their hered itary employments to bestow them arbitrarily upon others
 - is fo nder of being guided by fancy than judgement.
@@ -70,9 +68,9 @@ Monarchy is destroyed, when a prince=
 - mistakes his authority, his situation, and the love of his people
 - is not fully persuaded that a monarch ought to think himself secure,  as a despotic prince ought to think himself in danger.
 
-<br>
 
-## Chapter 7=  Continued
+
+## Chapter 7: Continued
 
 THE principle of monarchy is corrupted,  when the first dignities are marks of the first servitude, when the great m en are deprived of public respect, and rendered the low tools of arbitrary  power.
 

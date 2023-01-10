@@ -1,18 +1,16 @@
+---
+heading: "Chapters 1-3"
+title: "The Spirit of Commerce and Two Types of Poor"
+weight: 2
+description: "Each domain or layer of the universe has its laws designed by the Creator"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-+++
-title= "The Spirit of Commerce and Two Types of Poor"
-heading= "Chapter 1-3"
-date= 2015-09-30
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-4"
-linkftext= "Chapter 2"
-+++
 
-## Chapter 1= How Commerce Improves and Corrupts Morals
+## Chapter 1: How Commerce Improves and Corrupts Morals
 
 Commerce is a cure for the most destructive prejudices.
 - whereever we find agreeable manners, there commerce flourishes
@@ -22,9 +20,9 @@ Our manners are now less savage because of commerce. It has everywhere diffused 
 
 Commercial laws improve manners, for the same reason as they destroy them. They corrupt the purest morals as complained by Plato, yet we see that they polish and refine the most barbarous.
 
-<br>
 
-## Chapter 2= The Spirit of Commerce
+
+## Chapter 2: The Spirit of Commerce
 
 Peace is the natural effect of trade. Two nations who traffic with each other become reciprocally dependent because if one has an interest in buying, the other has an interest in selling. Thus their union is founded on their mutual necessities.
 
@@ -48,9 +46,9 @@ But when the Germans had founded kingdoms, hospitality was become burdensome. Th
 - One inflicted a penalty on every barbarian, who presumed to show a stranger the house of a Roman.
 - The other decreed, that whoever received a stranger should be indemnified by the inhabitants, every one being obliged to pay his proper proportion.
 
-<br>
 
-### Chapter 3= The Poor
+
+### Chapter 3: The Poor
 
 THERE are two kinds of poor:
 

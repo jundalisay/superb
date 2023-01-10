@@ -1,16 +1,17 @@
-+++
-title= "To what Nations Commerce is prejudicial"
-heading= "Chapters 23 "
-date= 2015-09-24
-image= "/covers/spirit.jpg"
-description= "The Spirit of the Laws Volume 1"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-20/chapter-19"
-linkbtext= "Chapter 19"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-21/chapter-1"
-linkftext= "Chapter 1"
-+++
+---
+heading: "Chapters 23"
+title: "To what Nations Commerce is prejudicial"
+weight: 12
+description: "Riches consist either in lands, or in moveable effects"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-## Chapter 23= To what Nations Commerce is prejudicial
+
+
+
+## Chapter 23: To what Nations Commerce is prejudicial
 
 Riches consist either in lands, or in moveable effects.
 

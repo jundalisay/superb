@@ -1,25 +1,40 @@
-
-+++
-title=  "Remarks on the Emperors, from Caius Calicula to Antoninus"
-heading=  "Chapter 15 of The Spirit of the Laws Volume 3"
-date=  2021-09-30
-author=  "Montesquieu"
-image=  "/covers/spirit.jpg"
-description=  "The Spirit of the Laws Volume 3"
-linkb=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-14"
-linkbtext=  "Chapter 14"
-linkf=  "/research/montesquieu/spirit-of-the-laws/book-29/chapter-16"
-linkftext=  "Chapter 16"
-+++
+---
+heading: "Chapter 15"
+title: "The Emperors From Caius, Calicula, to Antoninus"
+weight: 17
+description: "Some nations chose to preserve their ancient usages and not assist Rome"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
 
-CALICULA succeeded Tiberius, and it was said of him, that there never was a better slave, nor a worse master=  and indeed these two circumstances are very consistent; for the same turn of mind which inclines a person to be strongly affected at unlimited power in his sovereign, makes him to be no less in love with it, when he rises to empire himself.
 
-Caligula restored the assemblies of the people, which Tiberius had prohibited; and abolished the arbitrary law and constructions of treason established by that emperor=  from which proceeding we may observe, that the beginnings of a bad reign sometimes resemble the conclusion of a good one; for a wicked prince may, from a principle of contradiction to the motives of his predecessor’s conduct, be spirited to actions which the other performed from a virtuous inducement; and we owe to this very principle a number of good as well as bad regulations.
+CALICULA succeeded Tiberius. 
 
-But what did the Romans gain by these plausible beginnings? Caligula annulled the law which constituted the circumstantials of treason; but then he destroyed those who displeased him, by a military severity; and his vengeance, instead of pointing at some particular senators, hung over all their heads, like a sword that threatened them with extermination at one blow.
+He was said to be the best slave and the worst master. 
 
-This formidable tyranny of the emperors arose from the disposition of the Romans in general; who, as they were suddenly enslaved to an arbitrary government, and were hardly sensible of any interval between dominion and subjection, were not prepared for such a transition by any gentle softenings. The fierce and untractable disposition still remained, and the citizens were used in the same manner as they themselves had treated their conquered enemies, and were governed altogether upon the same plan. When Sylla made his public entrance into Rome, he was still the Sylla who had done the same in Athens, and he governed with an uniform imperiousness. As to us who are natives of France, and have sunk into subjection, by insensible degrees, if we are destitute of laws, we are at least governed by engaging manners.
+This is correct because the same turn of mind which inclines a person to be strongly affected at unlimited power in his sovereign, makes him to be no less in love with it, when he rises to empire himself.
+
+Caligula:
+- restored the assemblies of the people, which Tiberius had prohibited. 
+- abolished the arbitrary law and constructions of treason established by Tiberius
+
+The beginnings of a bad reign sometimes resemble the conclusion of a good one. 
+
+A wicked prince may be spirited be virtuous from a principle of contradicting his predecessor’s conduct. 
+
+This very principle leads to many good and bad regulations.
+
+What did the Romans gain by these plausible beginnings? 
+
+Caligula annulled the law which constituted the circumstantials of treason. But then he destroyed those who displeased him, by a military severity. 
+
+His vengeance, instead of pointing at some particular senators, hung over all their heads, like a sword that threatened them with extermination at one blow.
+
+This formidable tyranny of the emperors arose from the disposition of the Romans in general; who, as they were suddenly enslaved to an arbitrary government, and were hardly sensible of any interval between dominion and subjection, were not prepared for such a transition by any gentle softenings. 
+
+The fierce and untractable disposition still remained, and the citizens were used in the same manner as they themselves had treated their conquered enemies, and were governed altogether upon the same plan. When Sylla made his public entrance into Rome, he was still the Sylla who had done the same in Athens, and he governed with an uniform imperiousness. As to us who are natives of France, and have sunk into subjection, by insensible degrees, if we are destitute of laws, we are at least governed by engaging manners.
 
 The constant view of the combatants of gladiators inspired the Romans with extraordinary fierceness; and it was observable, that Claudius became more disposed [103] to shed blood, by being habituated to those spectacles. The example of this emperor, who was naturally of a gentle disposition, and yet degenerated into so much cruelty at last, makes it evident, that the education in those times, was very different from our own.
 
@@ -29,29 +44,62 @@ We are fatigued and satiated with seeing in the history of the emperors such an 
 
 That class of the Roman people who were called Plebeians, had no aversion to the worst of their emperors; for since they had no longer any share of empire themselves, nor were any more employed in wars, they became the most contemptible and degenerate people in the world; they looked upon commerce and the sciences [104] as only proper for slaves, and the distributions of corn which they received, made them neglect the cultivation of their lands=  they had been familiarized to public games and splendid spectacles, and since they had no longer any tribunes to obey, or magistrates to elect, those gratifications which they were only permitted to enjoy, became necessary to them, and their indolence and inactivity stimulated their relish of those indulgences.
 
-Caligula, Nero, Commodus, Carcalla, were lamented by the people for their folly, for whatever these loved, the others were as madly fond of, in their turn, and not only contributed their whole power, but even devoted their own persons to those pseasures; they lavished all the riches of the empire with the greatest prodigality; and when these were exhausted, the people without the least emotion, beheld all the great families pillaged. They enjoyed the fruits of tyranny, without the least intermixture of uneasiness, because their low obscurity was their protection. Such princes have a natural antipathy to people of merit and virtue, because they are sensible their actions are disapproved by such persons. The contradiction * and even the silence of an austere citizen were insupportable to them; and as they grew intoxicated with popular applause, they at last imagined their government constituted the public felicity, and consequently that it could be censured by none but disaffected and ill-disposed persons.
+Caligula, Nero, Commodus, Carcalla, were lamented by the people for their folly, for whatever these loved, the others were as madly fond of, in their turn, and not only contributed their whole power, but even devoted their own persons to those pseasures. 
 
-Caligula was a true sophist in cruelty; for as he equally descended from Antony and Augustus, he declared [105] he would punish the consuls if they celebrated the day appointed to commemorate the victory at Actium, and that they should likewise feel his severity if they neglected to honour that event; and Drusilla, to whom he accorded divine honours, being dead, it was a crime to bewail her because she was a goddess, and as great an offence to forbear that sorrow because she was a sister.
+They lavished all the riches of the empire with the greatest prodigality. When these were exhausted, the people without the least emotion, beheld all the great families pillaged.
 
-We have now ascended an eminence from whence we may take a view of human affairs=  when we trace, in the Roman history, such a variety of wars, and their prodigal effusion of human blood; when we view so many once flourishing nations depopulated, and see such a diversity of shining actions and triumphant processions=  when we trace the masterly strokes of politics, sagacity, and fortitude, so conspicuous in that people, and reflect on their advances to universal monarchy by schemes so judiciously concerted, so successfully supported, and so happily accomplished; to what view are all these mighty preparations directed? Why, truly, to satiate the ambition of five or six monsters! Is it possible then, that the senate could divest so many kings of their power, only to plunge themselves into the most abject slavery to one of their unworthy citizens, and to exterminate itself by its own edicts? Did it rise to such a height of grandeur, to drop more splendidly into ruin, and do the sons of men only labour to augment their power, that they may sall by their own combinations into better hands?
+They enjoyed the fruits of tyranny, without the least intermixture of uneasiness, because their low obscurity was their protection. 
 
-When Caligula was assassinated, the senate assembled to form a new model of government; and whilst they were engaged in such deliberations, a party of soldiers rushed in to plunder the palace, and found, in some obscure place, a man trembling with fear; this man was Claudius, and they immediately saluted him emperor.
+Such princes have a natural antipathy to people of merit and virtue, because they are sensible their actions are disapproved by such persons. 
 
-Claudius completed the subversion of the ancient form of government, by intrusting the dispensation of [106] justice to his officers=  the principal motive to the wars of Marius and Sylla, was to determine the competition of the senators and the equestrian * order for this prerogative; and it was now wrested from both parties by the arbitrary fancy of a weak man. Surprizing event indeed, of a dispute which had set the world in flames!
+The contradiction* and even the silence of an austere citizen were insupportable to them; and as they grew intoxicated with popular applause, they at last imagined their government constituted the public felicity, and consequently that it could be censured by none but disaffected and ill-disposed persons.
+
+Caligula was a true sophist in cruelty. He equally descended from Antony and Augustus. He declared [105] he would punish the consuls if they celebrated the day appointed to commemorate the victory at Actium, and that they should likewise feel his severity if they neglected to honour that event; and Drusilla, to whom he accorded divine honours, being dead, it was a crime to bewail her because she was a goddess, and as great an offence to forbear that sorrow because she was a sister.
+
+We have now ascended an eminence from whence we may take a view of human affairs=  when we trace, in the Roman history, such a variety of wars, and their prodigal effusion of human blood. 
+
+When we view so many once flourishing nations depopulated, and see such a diversity of shining actions and triumphant processions=  when we trace the masterly strokes of politics, sagacity, and fortitude, so conspicuous in that people, and reflect on their advances to universal monarchy by schemes so judiciously concerted, so successfully supported, and so happily accomplished; to what view are all these mighty preparations directed? Why, truly, to satiate the ambition of five or six monsters! 
+
+Is it possible then, that the senate could divest so many kings of their power, only to plunge themselves into the most abject slavery to one of their unworthy citizens, and to exterminate itself by its own edicts? 
+
+Did it rise to such a height of grandeur, to drop more splendidly into ruin, and do the sons of men only labour to augment their power, that they may sall by their own combinations into better hands?
+
+When Caligula was assassinated, the senate assembled to form a new model of government. While they were deliberating, a party of soldiers rushed in to plunder the palace. 
+
+They found Claudius trembling with fear in some obscure place. They immediately saluted him emperor.
+
+Claudius completed the subversion of the ancient form of government, by intrusting the dispensation of [106] justice to his officers. 
+
+The principal motive to the wars of Marius and Sylla, was to determine the competition of the senators and the equestrian * order for this prerogative; and it was now wrested from both parties by the arbitrary fancy of a weak man. 
+
+Surprizing event indeed, of a dispute which had set the world in flames!
 
 When the reign of a prince succeeds the dissolution of a republic, no authority can be more absolute than his own, for he then possesses all that power which before was distributed among the people, who exercised it without any limitations; and for this reason the kings of Denmark are the most despotic sovereigns in Europe.
 
 The people were altogether as abject and unmanly as the senate, though they once were animated with such a martial spirit, that, when armies were levied in the city, before the time of the emperors, they gained the military discipline upon the spot, and immediately marched to the enemy. In the civil wars of Vitellius and Vespasian, Rome became a prey to the ambitious, and was full of timorous citizens, who were struck with consternation by any party of soldiers who could first approach them.
 
-The emperors themselves were in no better a situation; for as the right of electing a sovereign was not appropriated to any single army, it generally happened, that when an emperor was chosen by one body of soldiers, that circumstance alone was sufficient to discredit him with the others, who immediately set up a competitor to oppose him.
+The emperors themselves were in no better a situation. The right of electing a sovereign was not appropriated to any single army. 
 
-As the grandeur therefore of the republic proved fatal to that form of government, so the mighty extent of the empire was altogether as pernicious to the monarchs. If the territories they were to defend had been confined to moderate limits, those sovereigns might have been effectually served by one principal army; [107] and the soldiers, when they had once elected their emperor, would have been dutiful enough to acquiesce in their choice.
+When an emperor was chosen by one body of soldiers, another group of soldiers would immediately set up a competitor to oppose him.
+
+The republic's grandeur therefore proved fatal to the republican form of government. 
+
+So the mighty extent of the empire was altogether as pernicious to the monarchs. If the territories they were to defend had been confined to moderate limits, those sovereigns might have been effectually served by one principal army; [107] and the soldiers, when they had once elected their emperor, would have been dutiful enough to acquiesce in their choice.
 
 The soldiers were attached to the family of Cæsar, under which they enjoyed every advantage that a revolution would have procured them. The time came, that the great families of Rome were all exterminated but that of Cæsar, which itself became extinct in the person of Nero. The civil power, which had been continually depressed, was unable to balance the military; each army wanted to make an emperor.
 
-Let us here compare the times=  when Tiberius began his reign, wherein did he not employ the senate * ? He was informed that the armies of Illyrium and Germany had mutinied=  he granted some of their demands, and maintained, that it belonged to the † senate to judge of the rest. He sent them deputies of that body. Those who have ceased to fear the power, may still respect the authority. When it had been represented to the soldiers, that in a Roman army the children of the emperors, and the deputies of the senate, ran the risk of ‡ their lives, they might relent=  and even proceed so far as to punish ∥ themselves=  but when the senate was entirely depressed, its example moved no one. In vain did § Otho harangue his soldiers, to talk to them of the dignity of the senate=  in vain did ** Vitellius send the principal senators to make his peace with Vespasian=  they did not, for one moment, pay to the orders of the state that respect which they had so long lost. The armies looked on these deputies as the most abject slaves of a master whom they had already rejected.
 
-It was an ancient custom at Rome, for those who obtained a triumph, to distribute some money to each soldier=  it was not much * . In the time of the civil wars these gratuities were augmented † . Formerly they were made with the money taken from the enemy; in these unhappy times, they gave that of the citizens, and the soldiers would have a share where there was no booty=  these distributions had taken place only after a war; Nero made them in a time of peace=  the soldiers were used to them, and they raged against Galba, who boldly told them, that he knew to choose, but not to buy them.
+When Tiberius began his reign, wherein did he not employ the senate * ? 
+
+He was informed that the armies of Illyrium and Germany had mutinied=  he granted some of their demands, and maintained, that it belonged to the † senate to judge of the rest. 
+
+He sent them deputies of that body. Those who have ceased to fear the power, may still respect the authority. When it had been represented to the soldiers, that in a Roman army the children of the emperors, and the deputies of the senate, ran the risk of ‡ their lives, they might relent=  and even proceed so far as to punish ∥ themselves=  but when the senate was entirely depressed, its example moved no one. 
+
+In vain did § Otho harangue his soldiers, to talk to them of the dignity of the senate=  in vain did ** Vitellius send the principal senators to make his peace with Vespasian=  they did not, for one moment, pay to the orders of the state that respect which they had so long lost. The armies looked on these deputies as the most abject slaves of a master whom they had already rejected.
+
+It was an ancient custom at Rome, for those who obtained a triumph, to distribute some money to each soldier=  it was not much * . In the time of the civil wars these gratuities were augmented † . 
+
+Formerly they were made with the money taken from the enemy; in these unhappy times, they gave that of the citizens, and the soldiers would have a share where there was no booty=  these distributions had taken place only after a war; Nero made them in a time of peace=  the soldiers were used to them, and they raged against Galba, who boldly told them, that he knew to choose, but not to buy them.
 
 Galba, Otho, and Vitellius, ‡ made a very transient appearance in the imperial scene. Vespasian, who, like them, was elected by the army, devoted all his reign to the re-establishment of the empire, which had been successively possessed by six tyrants, all equally cruel, and most of them exceedingly furious and untractable; generally very weak, and to complete the public calamity, profuse even to infatuation.
 
@@ -59,20 +107,3 @@ Titus, who succeeded his father, was the darling of the people; but Domitian pre
 
 His favourite freemen, and, according to some historians, the empress herself, finding his friendship as dangerous as his aversion, and that he allowed no bounds to his suspicions and accusations, turned their thoughts to a successor, and chose the venerable Nerva.
 
-Nerva adopted Trajan, who proved the most accomplished prince in all history; it was a happiness to be born under his reign, which blessed the empire with more prosperity and true glory than it had ever enjoyed before. He was an admirable statesman, and a most accomplished general; the native sweetness of his disposition inclined him to universal humanity; and his unclouded penetration guided him through the best and purest tracts of government; he was actuated by a noble soul, to whose embellishment every virtue had contributed; his conduct was free from all extremes, and his amiable qualities were tempered with such exact proportion that the brightness of one was never lost in the lustre of another. To sum up all, he was the best qualified of mankind, to do honour to human nature, and to represent the divinity on earth.
-
-He accomplished Cæsar’s project of invading the Parthians, and was very successful in his wars with that mighty people; any monarch but himself would have sunk under the weight of such an enterprize, where danger was always present, and from whence the source of his necessary supplies was at a vast distance; in a word, where he could not be sure of victory itself would save him from destruction.
-
-The difficulty consisted in the situation of the two empires, and the military discipline of both nations. If he directed his march through Armenia towards the sources of Tygris and Euphrates, he was sure to be incommoded with a mountainous and impracticable country, through which no convoy of provision could pass, so that the army would be half destroyed before they could penetrate into Media * . On the other hand, if he should strike out a lower tract towards the south, through Nisibis, he would find himself bewildered in a ghastly desart that separated the two empires; and if he intended to proceed still lower, and march through [110] Mesopotamia, he was then to cross a large country that was either uncultivated or laid under water; and as the Tygris and Euphrates flowed from north to south, he could not gain a passage into the country without quitting those rivers, which, if he did, he must inevitably perish.
-
-As to the manner practised by the two nations in making war, the strength of the Romans consisted in their infantry, which was the most firm and best disciplined body of soldiers in the world.
-
-The Parthians on the contrary, had no infantry, but then their horse were admirable, and always combated at such a distance, as placed them out of the reach of the Roman army, and the javelin was seldom launched far enough to wound them. Their own weapons consisted of a bow, and many formidable shafts, and they rather besieged an army than gave it battle; they were pursued to no purpose in their flight, for that was the same with them as an engagement. They carried off all the inhabitants of the country, and only left garrisons in their fortified places; and when these were taken, the conquerors were obliged to destroy them. The Parthians likewise set fire to all the country that lay round the Roman army, and did not leave them the least blade of herbage. In a word, they managed their wars in manner very much like that which is now practised on the same frontiers.
-
-We may add to these disadvantages, that the Illyrian and German legions which were drawn out for this war, were no way capable to sustain it, * because the soldiers, who were accustomed to plentiful food in their own country, perished in these regions for want of many necessaries.
-
-The Parthians by these means had accomplished that, for the preservation of their liberty, which had hitherto been impracticable to all other nations, against [111] the victorious power of the Romans=  but they owed this advantage not to any resistless valour, but to their inaccessible situation.
-
-Adrian gave up the conquest of Trajan, and made Euphrates the boundary of his empire; and indeed it was surprizing that the Romans, after such a series of war, should lose nothing but what they were desirous to quit; and thus they resembled the ocean, whose expansion is never lessened but when it retires of itself.
-
-This conduct of Adrian occasioned great dissatisfactions among the people. It was recorded in the sacred book of that nation * that when Tarquin intended to build the capitol, he found the place most commodious for his purpose filled with the statues of other deities, upon which he employed his skill in augury to discover if they were inclinable to resign their places to Jupiter, and they all consented, except Mars, Hebe, and Terminus. This proceeding gave birth to three religious opinions, namely, that Mars would never resign his place to any other being; that the Roman youth would be always invincible; and that their god Terminus would never recede from his station; the contrary of which was however verified in the reign of Adrian.

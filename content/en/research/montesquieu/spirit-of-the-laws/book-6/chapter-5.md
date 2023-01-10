@@ -1,22 +1,24 @@
-+++
-title= "In what Governments the Sovereign may be Judge"
-heading= "Chapters 9-12"
-date= 2015-09-09
-image= "https://sorasystem.sirv.com/avatars/mont.jpg"
-description= "The Spirit of the Laws Volume 3"
-linkb= "/research/montesquieu/spirit-of-the-laws/book-6/chapter-1"
-linkbtext= "Chapter 1"
-linkf= "/research/montesquieu/spirit-of-the-laws/book-6/chapter-9"
-linkftext= "Chapter 9"
-+++
+---
+heading: "Chapter 5"
+title: "In what Governments the Sovereign may be Judge"
+weight: 8
+description: "Public incontinence is the inseparable companion of luxury"
+image: "/covers/spirit.jpg"
+author: Montesquieu
+icon: /icons/mont.png
+---
 
-MACHIAVEL says that Florence lost its liberty because its people did not judge cases of high-treason as a body, as was customary at Rome. Instead, they had eight judges. 
 
-Machiavel says that the few are corrupted by a few.
+MACHIAVEL says that:
+- Florence lost its liberty because its people did not judge cases of high-treason as a body, as was customary at Rome. 
+- Instead, they had 8 judges. 
+  - those few are corrupted by a few.
 
 I agree to his maxim.
 
-When a few people decide, the political interest prevails over the civil because it is always inconvenient for the people to be judges in their own cause. In order to remedy this evil, the laws must provide as much as possible for the security of individuals.
+When a few people decide, the political interest prevails over the civil because it is always inconvenient for the people to be judges in their own cause. 
+
+In order to remedy this evil, the laws must provide as much as possible for the security of individuals.
 
 With this view, the Roman legislators did two things:
 
@@ -25,7 +27,9 @@ With this view, the Roman legislators did two things:
 
 In Book 11, the other limitations that were set to the judicatory power residing in the people.
 
-Solon knew how to prevent the abuse which the people might commit in criminal judgements. He ordained that the court of Areopagus should re-examine the affair.
+Solon knew how to prevent the abuse which the people might commit in criminal judgements. 
+
+He ordained that the court of Areopagus should re-examine the affair.
 - If they believed the party accused was unjustly acquitted, they should impeach him again before the people. 
 - If they believed him unjustly condemned, they should prevent the execution of the sentence, and make them re-judge the proceeding. 
 
@@ -86,43 +90,3 @@ The laws are the eye of the prince; by them he sees what would otherwise escape 
 
 
 
-## Chapter 6= In Monarchies, Ministers Should not sit as Judges
-
-<!-- IT is, likewise, a very great inconveniency, in monarchies, for the ministers of the prince to sit as judges. We have still instances of -->
-
-There are still many states where many judges to decide exchequer causes, and where the ministers judge cases.  
-<!-- Many are the reflections that here arise; but this single one will suffice for my purpose. -->
-<!-- There is, in the very nature of things, a kind of contrast between  -->
-
-A prince’s council is different from his courts of judicature. The king’s council should be composed of a few persons. The courts of judicature should have many people. 
-
-The reason is, in the former, things should be undertaken and conducted with a kind of warmth and passion, which can hardly be expected but from four or five men who make it their sole business. On the contrary, in courts of judicature, a certain coolness is requisite, and an indifference, in some measure, to all manner of affairs.
-
-<br>
-
-## Chapter 7= A single Magistrate
-
-A magistracy of this kind can only take place in a despotic government. We have an instance, in the Roman history, how far a single magistrate may abuse his power. 
-
-Might it not be very well expected that 
-
-Appius, on his tribunal, should condemn all laws, after having violated that of his own enacting? 
-
-Livy has given us the iniquitous distinction of the decemvir. He had suborned a man to reclaim Virginia, in his presence, as his slave= 
-
-Virginia’s relations insisted, that, by virtue of his own law, she should be consigned to them till the definitive judgement was passed. Upon which, he declared, that his law had been enacted only in favour of the father; and that, as Virginius was absent, no application could be made of it to the present case∥.
-
-
-<br>
-
-## Chapter 8= Accusation in different Governments
-
-AT Rome, it was lawful for one citizen to accuse another. This was agreeable to the spirit of a republic, where each citizen ought to have an unlimited zeal for the public good, and is supposed to hold all the rights of his country in his own hands. 
-
-Under the emperors, the republican maxims were still pursued. Instantly appeared a pernicious tribe, a swarm of informers. Crafty wicked men, who could stoop to any indignity to serve the purposes of their ambition, were sure to busy themselves in the search of criminals whose condemnation might be agreeable to the prince= this was the road to honour and preferment. but luckily we are strangers to it in our country.
-
-We have at present an admirable law, namely, that by which the prince, who is established for the execution of the laws, appoints an officer in each court of judicature to prosecute all sorts of crimes in his name= 
-
-Hence, the profession of informers is unknown to us because if this public avenger were suspected to abuse his office, he would soon be obliged to mention his author.
-
-By Plato’s laws, those who neglect to inform or assist the magistrates are liable to punishment. This would not be so proper today. The public prosecutor watches for the safety of the citizens. He proceeds in his office while they enjoy their quiet and ease.

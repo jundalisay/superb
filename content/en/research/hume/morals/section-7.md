@@ -1,15 +1,13 @@
-+++
-title       = "Qualities Immediately Agreeable To Ourselves"
-description = "No quality is absolutely either blameable or praiseworthy. It is all according to its degree"
-date        = "2020-06-16"
-image = "/covers/morals.jpg"
-author      = "David Hume"
-linkTitle   = "Section 7"
-linkb = "/research/hume/morals/section-6p2"
-linkbtext = "Section 6 Part 2"
-linkf = "/research/hume/morals/section-8"
-linkftext = "Section 8"
-+++
+---
+title: "Qualities Immediately Agreeable To Ourselves"
+heading: "Section 7"
+description: "A sad group of people sometimes has a lively member who suddenly animates their conversation. Such a cheerfulness carries great merit with it and most more readily communicates itself all around"
+image: /covers/morals.jpg
+author: David Hume
+icon: /avatars/hume.png
+weight: 22
+---
+
 
 A sad group of people sometimes has a lively member who suddenly animates their conversation. Such a cheerfulness carries great merit with it and most more readily communicates itself all around. The flame spreads through the whole circle; and the most sullen and morose are often caught by it.
 
@@ -109,7 +107,7 @@ The Athenians pretended to the first invention of agriculture and of laws=  and 
 
 It is observable, that the great charm of poetry consists in lively pictures of the sublime passions, magnanimity, courage, disdain of fortune; or those of the tender affections, love and friendship; which warm the heart, and diffuse over it similar sentiments and emotions. And though all kinds of passion, even the most disagreeable, such as grief and anger, are observed, when excited by poetry, to convey a satisfaction, from a mechanism of nature, not easy to be explained=  Yet those more elevated or softer affections have a peculiar influence, and please from more than one cause or principle. Not to mention that they alone interest us in the fortune of the persons represented, or communicate any esteem and affection for their character.
 
-And can it possibly be doubted, that this talent itself of poets, to move the passions, this pathetic and sublime of sentiment, is a very considerable merit; and being enhanced by its extreme rarity, may exalt the person possessed of it, above every character of the age in which he lives? The prudence, address, steadiness, and benign government of Augustus, adorned with all the splendour of his noble birth and imperial crown, render him but an unequal competitor for fame with Virgil, who lays nothing into the opposite scale but the divine beauties of his poetical genius.
+Can it be doubted, that this talent itself of poets, to move the passions, this pathetic and sublime of sentiment, is a very considerable merit; and being enhanced by its extreme rarity, may exalt the person possessed of it, above every character of the age in which he lives? The prudence, address, steadiness, and benign government of Augustus, adorned with all the splendour of his noble birth and imperial crown, render him but an unequal competitor for fame with Virgil, who lays nothing into the opposite scale but the divine beauties of his poetical genius.
 
 The very sensibility to these beauties, or a delicacy of taste, is itself a beauty in any character; as conveying the purest, the most durable, and most innocent of all enjoyments.
 

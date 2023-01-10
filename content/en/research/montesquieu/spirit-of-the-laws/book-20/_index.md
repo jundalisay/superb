@@ -1,9 +1,9 @@
-+++
-title= "The Nature of Commercial Laws"
-description= "Book 23 of The Spirit of the Laws by Montesquieu Simplified"
-# image= "https://sorasystem.sirv.com/photos/medieval/galleon.jpg"
-date= "2021-08-30"
-author= "Montesquieu"
-image= "/covers/spirit.jpg"
-# heading= Book 20, 23 chapters
-+++
+---
+heading: "Book 20"
+title: "The Nature of Commercial Laws"
+linkTitle: "Book 20"
+weight: 20
+# "2021-09-30"
+description: "Book 20 of The Spirit of the Laws by Montesquieu Simplified in 23 chapters"
+image: "/covers/spirit.jpg"
+---
