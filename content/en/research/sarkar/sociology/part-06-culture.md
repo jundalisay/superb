@@ -1,6 +1,6 @@
 ---
 title: "Culture and Civilization"
-# heading: "Chapter 7 "
+
 weight: 16
 image: "/covers/discourses.jpg"
 description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"

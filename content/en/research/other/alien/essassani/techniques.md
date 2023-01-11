@@ -1,6 +1,5 @@
 ---
 title: "Techniques"
-# heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
 weight: 12
 image: "/photos/physics/quasar.jpg"
 description: "The Metaphysics followed by the Essassani"

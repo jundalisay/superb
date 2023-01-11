@@ -1,6 +1,7 @@
+
 +++
 title=  "Propositions 28-71"
-# heading=  "The Simple Ethics by Spinoza Part 3"
+
 date=  2015-09-09
 image=  "/covers/ethics.jpg"
 linkb=  "/research/spinoza/simple-ethics/part-4/propositions-20-27"

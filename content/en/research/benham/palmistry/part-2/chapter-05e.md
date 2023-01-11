@@ -28,11 +28,25 @@ White color in the line of Heart, even if the line is otherwise good, shows the 
 
 With a white-colored Heart line, apply its coldness to the type of subject, and estimate the result. It will much reduce the strength of the four warmer types, and will make the cold types colder.
 
-With the thin and narrow, broad and shallow, and chained lines, white color exaggerates their cold qualities, and selfishness, vacillation, and fickleness will be exceedingly pronounced, according to which characteristic the line has. Here, again, look at both hands to see if matters are growing better or worse. Pink color will make a deep line operate properly, and all the warmth, steadfastness, and reliability of this good line will be accentuated. If found on the warm types, it will make them strong in the natural directions. If found on the cold types, it will warm them up. Pink color will make a thin line less selfish and narrow; it will make a broad and shallow or a chained line less fickle, and often with these formations pink color is the thing which saves the subject from being entirely inconstant. Red color is the intensity of rich, warm blood, and in the Heart line makes intense all the fires of affection. It shows a heart so strong that it may be dangerous.
+With the thin and narrow, broad and shallow, and chained lines, white color exaggerates their cold qualities, and selfishness, vacillation, and fickleness will be exceedingly pronounced, according to which characteristic the line has. Here, again, look at both hands to see if matters are growing better or worse. 
 
-On the Martian type we expect it, but it is too strong to be good for any of the others. It is seen on Jupiterians, but is not good on this type. Naturally over-eaters, they tend to apoplexy and heart failure. So a deep red line on a pronounced Jupiterian is indeed a danger signal. Red color in a Martian Heart line will make the affections of the subject intense and his passions great. It will warm up the cold heart of a Lunarian, and make him less selfish. 
+Pink color will make a deep line operate properly, and all the warmth, steadfastness, and reliability of this good line will be accentuated. If found on the warm types, it will make them strong in the natural directions. If found on the cold types, it will warm them up. 
 
-The Saturnian yields some of his hate of mankind to red color, while Venusians and Apollonians become too intense. Red color in the deep Heart line will make a strong combination, too intense to be good in many cases. It tends toward excess of this good line, and excess is not desirable. You rarely see red color in thin and narrow, broad and shallow, or chained Heart lines, but when you do, always considerably reduce the estimate of their qualities. Yellow color in the Heart line will tinge the affections with morbidness and will make even the subject with the good, deep line suspicious of those he loves. 
+Pink color will make a thin line less selfish and narrow; it will make a broad and shallow or a chained line less fickle, and often with these formations pink color is the thing which saves the subject from being entirely inconstant. 
+
+Red color is the intensity of rich, warm blood, and in the Heart line makes intense all the fires of affection. It shows a heart so strong that it may be dangerous.
+
+On the Martian type we expect it, but it is too strong to be good for any of the others. It is seen on Jupiterians, but is not good on this type. Naturally over-eaters, they tend to apoplexy and heart failure.
+
+So a deep red line on a pronounced Jupiterian is indeed a danger signal. Red color in a Martian Heart line will make the affections of the subject intense and his passions great. It will warm up the cold heart of a Lunarian, and make him less selfish. 
+
+The Saturnian yields some of his hate of mankind to red color.
+
+Venusians and Apollonians become too intense. 
+
+Red color in the deep Heart line will make a strong combination, too intense to be good in many cases. 
+
+It tends toward excess of this good line, and excess is not desirable. You rarely see red color in thin and narrow, broad and shallow, or chained Heart lines, but when you do, always considerably reduce the estimate of their qualities. Yellow color in the Heart line will tinge the affections with morbidness and will make even the subject with the good, deep line suspicious of those he loves. 
 
 Bile spoils everything, even a good Heart line, and adds its pessimistic view even to love. A yellow Heart line, though it may be deep, is less to be depended upon and is more incline to double dealing than even a white one. Whiteness indicates simply indifference, while yellow color leads to distortion in the manner of looking at things. A yellow Heart line on a strong Saturnian will make as mean a subject as could be found, and it would take very little inducement to make such an one a criminal.
 

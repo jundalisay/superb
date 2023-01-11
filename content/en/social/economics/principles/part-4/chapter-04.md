@@ -2,7 +2,7 @@
 heading: "Chapter 4"
 title: "The Six Types of Effort"
 weight: 24
-# heading: "Material, Immaterial, Skilled, Unskilled, Value-adding, Value-maintaining"
+
 date: 2018-06-03
 # image: /photos/econ/singer.jpg
 description : "The Six Types of Effort in Superphysics are Material, Immaterial, Skilled, Unskilled, Value-adding, Value-maintaining"

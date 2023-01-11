@@ -2,7 +2,7 @@
 title: "The Matrix of Existence"
 # title: "We're in a Matrix!"
 heading: "Chapter 1"
-# heading: "The Nature of Reality"
+
 date: 2019-01-01
 weight: 4
 image: /photos/tech/mac.jpg

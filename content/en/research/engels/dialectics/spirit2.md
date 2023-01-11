@@ -1,6 +1,6 @@
 ---
 title: William Crookes
-# heading: Dialectics of Nature
+
 # date: 2022-02-01
 weight: 20
 description: The second eminent adept among English natural scientists is Mr. William Crookes. He discovered the chemical element thallium and the radiometer

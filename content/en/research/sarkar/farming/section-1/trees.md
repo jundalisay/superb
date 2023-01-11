@@ -1,6 +1,6 @@
 ---
 title: "Trees"
-# heading: "Chapter 1 of Yoga Sutras Simplified"
+
 weight: 40
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"

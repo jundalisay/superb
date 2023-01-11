@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1b"
 title: "The 4 Main Schools of Post-Smith Economics"
-# heading: "The Good, Bad, the Ugly"
+
 date: 2015-01-01
 weight: 18
 image: /avatars/smithstatue.jpg

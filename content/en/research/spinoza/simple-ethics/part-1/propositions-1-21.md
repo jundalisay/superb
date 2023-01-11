@@ -1,6 +1,6 @@
 +++
 title=  "Propositions 1 to 20"
-# heading=  "The Simple Ethics by Spinoza Part 1"
+
 image=  "/covers/ethics.jpg"
 description=  "Substance is by nature prior to its modifications"
 linkf=  "/research/spinoza/simple-ethics/part-1/propositions-22-29"

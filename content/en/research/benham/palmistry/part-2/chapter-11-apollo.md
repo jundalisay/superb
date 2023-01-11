@@ -1,6 +1,6 @@
 ---
 title: "The Apollo Line"
-# heading: "A Working Hypothesis"
+
 weight: 60
 author: William Benham
 image: "/photos/objects/hand.jpg"

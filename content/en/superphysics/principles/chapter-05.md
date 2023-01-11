@@ -3,7 +3,7 @@ title: "Desire and the Two Forces"
 # title: "Everything is an Idea"
 #, Propelled by Feelings
 heading: "Chapter 5"
-# heading: "Inside the Matrix or the Mind of the Brahma"
+
 date: 2020-01-02
 weight: 16
 image: /photos/meta/yinyang.jpg

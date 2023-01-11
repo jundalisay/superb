@@ -22,21 +22,38 @@ Any defect on the Head line indicates:
 
 In making a distinction between character and diseases the Life line should be examined to see if it is also defective at about the same period as the defect appears on the Head line. Anything abnormal found on the Life line will fix the defect on the Head line as an illness.
 
-The nails must also be consulted in connection with the Head line, for if badly fluted they tell of great nervous disturbance, which is emanating from the centre of nerve force, the brain. If in addition to a defective Head line, fluted and brittle nails are found you are warned that the subject is using up his nervous vitality faster than it can be generated and is in danger of paralysis. This is further confirmed if the subject be either a Saturnian, Mercurian, or Lunarian. 
+The nails must also be consulted in connection with the Head line. 
+- If badly fluted, they tell of great nervous disturbance which is emanating from the centre of nerve force, the brain. 
+- If in addition to a defective Head line, fluted and brittle nails are found you are warned that the subject is using up his nervous vitality faster than it can be generated and is in danger of paralysis. This is further confirmed if the subject be either a Saturnian, Mercurian, or Lunarian. 
 
-The color of the hand and particularly of the lines is exceedingly important in this investigation. If too white, the anaemic condition furnishes little blood, and the operation of the brain will be weakened. On the other hand, extreme redness will show that blood in excessive quantity and in too great strength is being forced to the brain. Either of these indications show an abnormal condition and indicate disease, whiteness predisposing to weakness and insufficiency, and redness indicating liability to fevers or apoplexy.
+The color of the hand and particularly of the lines is exceedingly important in this investigation. 
+- If too white, the anaemic condition furnishes little blood, and the operation of the brain will be weakened. 
+- On the other hand, extreme redness will show that blood in excessive quantity and in too great strength is being forced to the brain. 
 
-The latter condition is to be read from the presence of stars, crosses, dots, or deep cutting of the line, red color being also present with these markings. When a defective Head line is noted, use the Life line as indicated above, the Mercury line in the same way as the Life line, together with nails and color, for all these must be consulted along with the type of the subject, and from this combined point of view you will be able to distinguish health defects from mental defects. 
+Either of these indications show an abnormal condition and indicate disease, whiteness predisposing to weakness and insufficiency, and redness indicating liability to fevers or apoplexy.
+
+The latter condition is to be read from the presence of stars, crosses, dots, or deep cutting of the line, red color being also present with these markings. 
+
+When a defective Head line is noted, use the Life line as indicated above, the Mercury line in the same way as the Life line, together with nails and color, for all these must be consulted along with the type of the subject, and from this combined point of view you will be able to distinguish health defects from mental defects. 
 
 <!-- The Line Of Head Part 2 246 No. 89. The Line Of Head Part 2 247 No. 90.  -->
 
-The starting-point or source of the Head line must be noted. In the greater number of hands the line rises from the line of Life, to which it is slightly attached at the start (89), and branches away from the Life line, sometimes near the beginning of that line, sometimes farther along (90). 
+The starting-point or source of the Head line must be noted.
 
-At this point the Head line registers the early years of life, and the sooner the line separates from the Life line, the younger was the subject when he began to think for himself. The longer the Head line is tied to the Life line the less self-confidence has the subject and the more he relies upon the advice of others. 
+In most hands, the line rises from the line of Life, to which it is slightly attached at the start (89), and branches away from the Life line, sometimes near the beginning of that line, sometimes farther along (90).
 
-The longer the period covered by this union of the two lines, the later in life did the subject begin to rely upon himself. The Head line is not often bound to the Life line longer than the twelfth year, and many Head lines are seen which only touch the Life line at its beginning, showing that as a mere child the subject was self-reliant. 
+At this point, the Head line registers the early years of life. 
+- The sooner the line separates from the Life line, the younger was the subject when he began to think for himself. 
+- The longer the Head line is tied to the Life line the less self-confidence has the subject and the more he relies upon the advice of others. 
+- The longer the period covered by this union of the two lines, the later in life did the subject begin to rely upon himself. 
 
-In examining the beginning of the Head line note how sharp the angle formed by the lines of Head and Life. The more pointed this angle (90), the more sensitive the subject, the easier are his feelings hurt, and if in addition the sensitive pads are found on the ends of the fingers, this sensitive disposition will be extreme. The subject will do almost anything rather than hurt the feelings of others, and the lives of such will be often made unhappy by unintentional slights. 
+The Head line is not often bound to the Life line longer than the 12th year. 
+
+Many Head lines are seen which only touch the Life line at its beginning, showing that as a mere child the subject was self-reliant. 
+
+In examining the beginning of the Head line note how sharp the angle formed by the lines of Head and Life. The more pointed this angle (90), the more sensitive the subject, the easier are his feelings hurt, and if in addition the sensitive pads are found on the ends of the fingers, this sensitive disposition will be extreme. 
+
+The subject will do almost anything rather than hurt the feelings of others, and the lives of such will be often made unhappy by unintentional slights. 
 
 The type of the subject and his finger-tips must be taken into consideration here. With pointed tips and this acute angle the subject will be entirely lacking in self-reliance, timid, cautious, leaning constantly upon someone else, and suffering a fall every time the support is taken away. 
 

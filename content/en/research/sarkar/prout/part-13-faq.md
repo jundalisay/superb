@@ -1,5 +1,5 @@
 ---
-# heading: "Yogic Treatments and Natural Remedies"
+
 title: "PROUT Questions and Answers"
 weight: 22
 author: "PR Sarkar"

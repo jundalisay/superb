@@ -1,5 +1,5 @@
 ---
-# heading: "Western Medicine, Naturopathy, Ayurveda, TCM, Homeopathy"
+
 heading: Chapter 3
 title: "The 5 Medical Paradigms"
 linkTitle: "Five Paradigms"

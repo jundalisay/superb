@@ -2,7 +2,7 @@
 title: A Story of Jewish Politics
 heading: Chapter 11
 weight: 12
-# heading: "How Jesus was Defeated"
+
 date: 2021-07-21
 image: /photos/medieval/arab.jpg
 description: "Jesus was Defeated by the Pharisees because of their connection to the Emperor"

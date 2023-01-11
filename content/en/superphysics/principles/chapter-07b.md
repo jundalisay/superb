@@ -1,6 +1,6 @@
 ---
 title: "The Nature of Consciousness"
-# heading: "Consciousness is Binary as the Other Side of Existence"
+
 heading: "Chapter 7b"
 # date: "2019-07-21"
 date: 2020-12-08

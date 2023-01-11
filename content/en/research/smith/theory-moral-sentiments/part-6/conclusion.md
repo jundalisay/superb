@@ -1,6 +1,6 @@
 ---
 title: "Conclusion on Part 6"
-# heading: "Chapter 3"
+
 description: "Prudence Justice Beneficence"
 weight: 44
 author: "Adam Smith"

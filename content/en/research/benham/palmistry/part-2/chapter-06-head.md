@@ -4,7 +4,7 @@ heading: "Chapter 6 of Part 2"
 # date: 2021-11-20
 weight: 26
 image: "/photos/objects/hand.jpg"
-description: ""
+description: "The line of the Head is the second line which receives the Electric Current when it enters our bodies through the finger of Jupiter"
 author: William Benham
 ---
 

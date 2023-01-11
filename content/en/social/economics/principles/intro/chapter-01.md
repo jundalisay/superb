@@ -1,7 +1,7 @@
 ---
 title: "The Collective Wave of Human Desire"
 heading: Chapter 1
-# heading: "Ideas are Particles, Feelings are Waves"
+
 # date: 2015-09-09
 image: "/photos/social/pageant.jpg"
 description: "The Collective Wave of Human Desire explains how cycles maninfest in Economics"

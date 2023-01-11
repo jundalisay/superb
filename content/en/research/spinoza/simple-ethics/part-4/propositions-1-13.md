@@ -1,6 +1,7 @@
+
 +++
 title=  "Propositions 1 to 10"
-# heading=  "The Simple Ethics by Spinoza Part 4"
+
 date=  2015-09-09
 image=  "/covers/ethics.jpg"
 linkb=  "/research/spinoza/simple-ethics/part-4/definitions"

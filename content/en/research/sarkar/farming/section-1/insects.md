@@ -1,6 +1,6 @@
 ---
 title: "Pest Control, Sericulture, Dairy, Fish"
-# heading: "Chapter 1 of Yoga Sutras Simplified"
+
 weight: 18
 author: "PR Sarkar"
 description: "Cereals are the staple food of human beings. Cereals vary in their type, nutritional value and use. "

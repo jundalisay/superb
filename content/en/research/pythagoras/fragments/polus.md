@@ -1,6 +1,6 @@
 ---
 title: "Polus' Treatise On Justice"
-# heading: Prudence And Prosperity
+
 weight: 14
 description: "Justice may be called the mother and the nurse of the other virtues"
 image: "/covers/fragments.png"

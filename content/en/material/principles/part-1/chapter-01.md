@@ -1,7 +1,6 @@
 ---
 heading: "Chapter 1"
 title: "The Aethereal Layer"
-# heading: The mind of the universe
 date: 2020-01-31
 image: "/covers/spblack.jpg"
 # image: /photos/meta/buddhism.jpg

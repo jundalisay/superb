@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3"
 title: "Universal Relativity"
-# heading: "Bye bye Einstein!"
+
 date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "We replace Einstein's Relativity with Universal Relativity as a template for all the movements in the universe, whether physical or metaphysical"

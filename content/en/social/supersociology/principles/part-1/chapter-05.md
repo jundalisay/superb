@@ -1,7 +1,7 @@
 ---
 title: "The Law of Social Cycles by Socrates"
 heading: Chapter 5
-# heading: "Democracy, Tyranny, Aristocracy, and Oligarchy"
+
 date: 2021-07-21
 # Socio-Political changes are caused by changing wave-cycles of society
 weight: 22

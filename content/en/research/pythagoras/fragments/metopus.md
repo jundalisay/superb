@@ -1,6 +1,6 @@
 ---
 title: "Metopus' Treatise on Virtue"
-# heading: Prudence And Prosperity
+
 weight: 12
 description: "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
 image: "/covers/fragments.png"

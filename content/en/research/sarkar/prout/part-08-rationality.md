@@ -1,5 +1,5 @@
 ---
-# heading: "Yogic Treatments and Natural Remedies"
+
 title: "The Rule of Rationality"
 weight: 12
 author: "PR Sarkar"

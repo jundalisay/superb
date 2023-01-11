@@ -1,7 +1,7 @@
 ---
 title: "Self-Regulation Requires Fellow-Feeling"
 heading: Chapter 3b
-# heading: "Is self-requlation (with the future, past self, or with others) possible?"
+
 date: 2021-07-21
 weight: 14
 image: /photos/objects/king.jpg

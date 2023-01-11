@@ -1,6 +1,6 @@
 ---
 title: "Articles 3-4"
-# heading: "US Constitution Simplified"
+
 weight: 1
 image: "/flags/us.png"
 description: "The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish. "

@@ -1,6 +1,6 @@
 ---
 title: "Hipparchus' Treatise On Tranquillity"
-# heading: Prudence And Prosperity
+
 weight: 8
 description: Men live but for a very short period. If their life is compared with the whole of time, they will make a most beautiful journey as it were, if they pass through life with tranquillity
 image: "/covers/fragments.png"

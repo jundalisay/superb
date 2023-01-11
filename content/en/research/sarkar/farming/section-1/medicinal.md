@@ -1,6 +1,6 @@
 ---
 title: "Medicinal Plants"
-# heading: "Chapter 1 of Yoga Sutras Simplified"
+
 weight: 20
 author: "PR Sarkar"
 description: "Numerous plants have known medicinal value"

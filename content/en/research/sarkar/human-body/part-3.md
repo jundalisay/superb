@@ -1,6 +1,6 @@
 ---
 title: "Glands and Sub-Glands"
-# heading: "Chapter 7 "
+
 weight: 6
 image: "/covers/discourses.jpg"
 description: "There are many underdeveloped creatures which have no nerve cells or nerve fibres and behave according to their instincts only."

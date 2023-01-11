@@ -1,6 +1,6 @@
 ---
 title: "Oilseed Plants"
-# heading: "Chapter 1 of Yoga Sutras Simplified"
+
 weight: 22
 author: "PR Sarkar"
 description: "Numerous plants have known medicinal value"

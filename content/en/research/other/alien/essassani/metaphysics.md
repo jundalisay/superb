@@ -1,6 +1,6 @@
 ---
 title: "Metaphysics"
-# heading=  "Chapter 10 and 11 of England's Treasure on Foreign Trade by Thomas Mun"
+
 weight: 8
 image: "/photos/physics/quasar.jpg"
 description: "The Metaphysics followed by the Essassani"

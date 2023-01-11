@@ -1,6 +1,6 @@
 ---
 title: "Views of Other Faiths"
-# heading: "Chapter 7 "
+
 weight: 26
 image: "/covers/discourses.jpg"
 description: "Vicára is 'justice' in English. It means a particular type of mental process to ascertain the truth"

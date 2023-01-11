@@ -1,6 +1,6 @@
 ---
 title: "Crop Rotation for Rice and Banana"
-# heading: "The Blending of Crops"
+
 weight: 8
 author: "PR Sarkar"
 description: "Integrated farming is designed to utilize every inch of land through Mixed and Supplementary Cropping and Crop Rotation"

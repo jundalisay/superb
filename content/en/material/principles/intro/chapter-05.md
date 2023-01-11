@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 5"
 title: "The Kepler Tensor and Removing the Metric Tensor"
-# heading: "Bye bye Einstein!"
+
 date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "The Kepler Tensor plot movements in space or no-space according to universal relativity."

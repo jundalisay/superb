@@ -1,6 +1,6 @@
 ---
 title: "Integrated Farming"
-# heading: "Chapter 1 of Section 1"
+
 weight: 10
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"

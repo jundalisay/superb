@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 1b"
-# heading: "Replacing the utility motive with life purpose"
+
 title: "The Tao as One's Life Purpose"
 # date: 2015-08-20
 # date: 2022-08-29

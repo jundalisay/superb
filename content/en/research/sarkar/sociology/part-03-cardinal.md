@@ -1,6 +1,6 @@
 ---
 title: "Social Values and Human Cardinal Principles"
-# heading: "Chapter 7 "
+
 weight: 10
 image: "/covers/discourses.jpg"
 description: "Samája (society) means a group of people who move together"

@@ -1,7 +1,7 @@
 ---
 title: "How Modern Education Corrups Knowledge with Shallow Reasoning"
 heading: Chapter 7
-# heading: "Caused by the For-Profit School System"
+
 # date: 2019-06-29
 weight: 28
 date: 2013-10-21

@@ -1,6 +1,6 @@
 ---
 title: "Euryphamus' Treatise On Human Life"
-# heading: Prudence And Prosperity
+
 weight: 6
 description: The musical contrectation is the motion of these conformably to the apt composition. Thus also human life requires these same three things
 image: "/covers/fragments.png"

@@ -9,7 +9,7 @@ linkb=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-28"
 linkbtext=  "Chapter 28"
 linkf=  "/research/montesquieu/spirit-of-the-laws/book-28/chapter-30"
 linkftext=  "Chapter 30"
-# heading=  Chapter 29
+
 +++
 
 ST. LEWIS abolished the judicial combats in all the courts of his demesne. But he did not suppress them in the courts of his barons, except in the case of appeal of false judgment.

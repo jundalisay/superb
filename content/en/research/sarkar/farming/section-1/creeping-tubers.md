@@ -1,6 +1,6 @@
 ---
 title: "Tubers Winter Vegetables"
-# heading: "Part 2"
+
 weight: 6
 author: "PR Sarkar"
 description: "Cereals are the staple food of human beings. Cereals vary in their type, nutritional value and use. "

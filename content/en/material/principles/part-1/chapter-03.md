@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3"
 title: "Aethereal Relativity -- Action at a Distance"
-# heading: The 2D Kepler Tensor on the Aethereal Cartesian Plane 
+
 date: 2020-01-31
 # image: /photos/meta/buddhism.jpg
 image: "/covers/spblack.jpg"

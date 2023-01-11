@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
 title: "The Quantum of Spacetime or Qost"
-# heading: Spacetime and Gravitation
+
 date: 2020-01-31
 linkTitle: "Qost"
 # image: /photos/physics/galaxy.jpg

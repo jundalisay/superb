@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 3"
 title: "The Three Rules of Movement"
-# heading: "Bye bye Einstein!"
+
 date: 2022-01-03
 image: "/covers/spblack.jpg"
 description: "Rene Descartes gave 3 Rules of Movement in The World"

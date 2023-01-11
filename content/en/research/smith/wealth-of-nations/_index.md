@@ -1,5 +1,5 @@
 ---
-# heading: Introduction
+
 title: "The Wealth of Nations Simplified"
 # date: 2020-09-30
 weight: 14

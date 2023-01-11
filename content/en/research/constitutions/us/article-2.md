@@ -1,6 +1,6 @@
 ---
 title: "Article 2"
-# heading: "US Constitution Simplified"
+
 weight: 1
 image: "/flags/us.png"
 description: ""

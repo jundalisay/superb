@@ -1,6 +1,6 @@
 ---
 title: "The Spirit of Society"
-# heading: "Chapter 7 "
+
 weight: 12
 image: "/covers/discourses.jpg"
 description: "Samája (society) means a group of people who move together"

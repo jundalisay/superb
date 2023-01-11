@@ -1,6 +1,7 @@
+
 +++
 title=  "Definitions"
-# heading=  "Ethics by Spinoza Part 1"
+
 image=  "/covers/ethics.jpg"
 description=  "Self—caused means something of which the essence involves existence"
 linkf=  "/research/spinoza/simple-ethics/"

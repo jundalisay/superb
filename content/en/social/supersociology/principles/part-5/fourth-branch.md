@@ -1,7 +1,7 @@
 ---
 heading: Chapter 1
 title: "The Fourth Branch of Government"
-# heading: "The resources branch deals with sourcing and allocating resources"
+
 date: 2017-04-26
 weight: 12
 image: "/photos/objects/gavel.jpg"

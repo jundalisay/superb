@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 1b"
 title: "The Effort Theory of Value"
-# heading: "The Alternative to Arbitrary Narginal Pricing"
+
 date: 2015-10-30
 weight: 12
 image: "/graphics/jfk.jpg"

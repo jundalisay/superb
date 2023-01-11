@@ -1,6 +1,6 @@
 ---
 title: "The Earth Government"
-# heading: "How it is Similar to the 2008 Financial Crisis"
+
 date: 2020-07-02
 weight: 14
 image: "/photos/objects/gavel.jpg"

@@ -1,6 +1,6 @@
 +++
 title=  "Appendix"
-# heading=  "The Simple Ethics by Spinoza Part 1"
+
 image=  "/covers/ethics.jpg"
 description=  "All things are predetermined by God, from his infinite power and not from his free will"
 linkf=  "/research/spinoza/simple-ethics/part-1/propositions-22-29"

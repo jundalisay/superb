@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 10"
 title: "What is Superphysics?"
-# heading: "An upgrade of science to include feelings and metaphysics"
+
 # date: 2021-07-19
 date: 2020-11-20
 weight: 36

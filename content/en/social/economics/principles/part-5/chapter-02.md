@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 2"
 title: "The Future of Economic Superphysics"
-# heading: "How Superphysics Can Make a Readily-deployable system for Mars"
+
 # date: 2019-10-17
 date: 2015-04-12
 weight: 20

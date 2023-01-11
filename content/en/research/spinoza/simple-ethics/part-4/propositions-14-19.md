@@ -1,6 +1,6 @@
 +++
 title=  "Propositions 14-19"
-# heading=  "The Simple Ethics by Spinoza Part 3"
+
 date=  2015-09-09
 # image=  "https:sorasystem.sirv.com/avatars/spinoza.png"
 image=  "/covers/ethics.jpg"

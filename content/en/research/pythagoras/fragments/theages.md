@@ -1,6 +1,6 @@
 ---
 title: "Theages' Treatise On The Virtues"
-# heading: Prudence And Prosperity
+
 weight: 16
 description: "Iamblichus’ Life of Pythagoras, or Pythagoric Life"
 image: "/covers/fragments.png"

@@ -1,6 +1,6 @@
 ---
 title: "Preface"
-# heading: "Chapter 1"
+
 author: "William Dampier"
 image: "/covers/voyage.jpg"
 description: ""

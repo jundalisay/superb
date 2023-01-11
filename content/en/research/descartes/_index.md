@@ -9,7 +9,7 @@ image: "/covers/descartes.jpg"
 ---
 
 <!-- 
-# heading= correctly explained the mind and the aether 
+
 description= ""
 # linking the previously separate fields of geometry and algebra. He is one of the foundations of Material Superphysics, aside from Pythagoras and Kepler
 image= ""

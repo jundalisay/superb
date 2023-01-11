@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 7"
 title: "The Nature of Mind"
-# heading: "Inside the Mind of the Brahma Everything is a"
+
 # date: 2020-01-01
 date: 2020-12-10
 weight: 24

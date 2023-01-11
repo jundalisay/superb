@@ -1,7 +1,7 @@
 ---
 heading: "Chapter 9b"
 title: "What is the Impartial Spectator?"
-# heading: "The moral sense in all humans"
+
 # date: 2017-09-21
 date: 2020-11-28
 weight: 34

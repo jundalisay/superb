@@ -2,7 +2,7 @@
 
 +++
 title=  "Judicial Combats and Appeal of false Judgment"
-# heading=  between one of the Parties, and one of the Lord’s Peers. 
+
 description=  "Judicial Combats Resolved Cases Quickly and made appeals unknown"
 date=  "2020-03-15"
 author=  "Montesquieu"

@@ -1,5 +1,5 @@
 ---
-# heading: "Chapter 1"
+
 title: Introduction
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.jpg

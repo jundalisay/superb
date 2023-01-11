@@ -1,6 +1,6 @@
 ---
 title: "Civilization, Science and Spiritual Progress"
-# heading: "Chapter 7 "
+
 weight: 1
 image: "/covers/discourses.jpg"
 description: "How does the development of civilization take place? Civilization has an intimate relation with science. They progress together"

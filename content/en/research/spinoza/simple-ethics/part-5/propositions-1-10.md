@@ -1,6 +1,6 @@
 +++
 title=  "Propositions 1-10"
-# heading=  "The Simple Ethics by Spinoza Part 5"
+
 date=  2015-09-09
 image=  "/covers/ethics.jpg"
 linkb=  "/research/spinoza/simple-ethics/part-5/axioms"

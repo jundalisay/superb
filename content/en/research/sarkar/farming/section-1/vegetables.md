@@ -1,6 +1,6 @@
 ---
 title: "Vegetable Crops"
-# heading: "Part  of Ideal Farming Simplified Section 1"
+
 weight: 42
 author: "PR Sarkar"
 description: "Self-reliance is the main objective of our farming projects, hence they should be oriented towards production"

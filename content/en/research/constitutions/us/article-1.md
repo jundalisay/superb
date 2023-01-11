@@ -1,6 +1,6 @@
 ---
 title: "Article 1 Sections 1-6"
-# heading: "US Constitution"
+
 weight: 1
 image: "/flags/us.png"
 description: "All legislative Powers are with the US Congress, consisting of a Senate a House of Representatives"

@@ -1,6 +1,6 @@
 ---
 title: "Socrates in Prison"
-# heading= "The Simple Phaedo by Plato"
+
 weight: 4
 image: "/covers/phaedo.jpg"
 description: "'If one of your own possessions, such as an ox killed itself without your permission then you would be angry with him. You would punish him if you could. And so a man should wait, and not take his own life until God summons him, as he is now summoning me.'"

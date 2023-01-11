@@ -1,6 +1,6 @@
 ---
 title: "Amendments 1-12"
-# heading: "US Constitution"
+
 weight: 1
 image: "/flags/us.png"
 description: ""

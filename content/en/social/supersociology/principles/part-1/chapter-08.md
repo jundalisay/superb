@@ -1,6 +1,6 @@
 ---
 title: "Criminality"
-# heading: "Doing what is correct and avoiding the wrong"
+
 date: 2019-12-17
 weight: 30
 image: "/photos/phone.jpg"

@@ -1,6 +1,6 @@
 ---
 heading: "Chapter 6"
-# heading: "The Necessary Effect of the 2 Forces"
+
 title: "The Nature of Feelings"
 date: 2020-12-15
 weight: 18
