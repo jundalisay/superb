@@ -2,7 +2,8 @@
 title: "Rehabilitation And Development"
 heading: "Article 14"
 description: "The Bangsamoro Government, with funding from the Central Government, shall rehabilitate, reconstruct and development the Bangsamoro as part of the normalization process"
-date: 2021-08-25
+# date: 2021-08-25
+weight: 26
 image: "/covers/bbl.jpg"
 ---
 

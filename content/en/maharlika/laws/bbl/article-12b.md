@@ -2,7 +2,8 @@
 title: "Loans"
 heading: "Article 12b"
 description: "The contracting of loans, credits, and other forms of indebtedness by the Bangsamoro Government shall be for Bangsamoro's development and the people's welfare"
-date: 2021-09-01
+# date: 2021-09-01
+weight: 20
 image: "/covers/bbl.jpg"
 ---
 

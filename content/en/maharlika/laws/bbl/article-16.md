@@ -2,14 +2,15 @@
 title: "Bangsamoro Transition Authority"
 heading: "Article 16"
 description: "The Bangsamoro Government’s economic policies and programs shall be based on the principle of social justice"
-date: 2021-08-25
+# date: 2021-08-25
+weight: 28
 image: "/covers/bbl.jpg"
 ---
 
 
 ## Article 16: Bangsamoro Transition Authority (BTA)
 
-Section 1. Transition Period
+### Section 1. Transition Period
 
 The transition or interim period to establish the Bangsamoro shall start upon ratification of this Basic Law.
 
@@ -19,7 +20,8 @@ Transition period shall end upon the dissolution of the BTA as provided in this 
 
 The period of transition herein defined shall be without prejudice to the initiation or continuation of other measures that may be required by post-conflict transition and normalization even beyond the term of the BTA.
 
-Section 2. Bangsamoro Transition Authority (BTA)
+
+### Section 2. Bangsamoro Transition Authority (BTA)
 
 The BTA:
 - is the interim government during the transition period. The MILF is the principal party to the Comprehensive Agreement on the Bangsamoro and shall lead the BTA, in its leadership and membership.
@@ -29,7 +31,7 @@ communities and other sectors shall have representatives in the BTA. Nominations
 The Council of Leaders as provided in Section 5, Article VI shall also be organized during the transition period.93
 
 
-Section 3. Powers and Authorities
+### Section 3. Powers and Authorities
 
 Legislative and executive powers in the Bangsamoro during transition shall be vested in the BTA. During the transition period, executive authority shall be exercised by the interim Chief Minister, who shall be appointed by the President as such, while legislative authority shall be exercised by the BTA.
 
@@ -38,7 +40,7 @@ All devolved authorities shall be vested in the BTA during the transition period
 For purposes of mechanisms for intergovernmental relations with the Central Government and local governments units in the Bangsamoro, the BTA shall be deemed as the Bangsamoro Government for the duration of the transition period.
 
 
-Section 4. Functions and Priorities
+### Section 4. Functions and Priorities
 
 The BTA shall ensure the accomplishment of the following priorities during the transition period:
 
@@ -52,19 +54,22 @@ c. Transfer of powers and properties of the ARMM Regional Government to the Bang
 
 d. Other matters that may be necessary for the transition from the ARMM Regional Government to the Bangsamoro Government, as provided in this Basic Law.
 
-Section 5. Transition Plan
+
+### Section 5. Transition Plan
 
 Within the first sixty (60) days of the transition period, the interim Chief Minister shall submit to the BTA a transition plan that shall contain the proposed organizational plan, as well as the schedule therefor. 
 
 The BTA shall approve or otherwise act on the proposed transition plan within ten (10) days upon submission by the interim Chief Minister. It shall be implemented within fifteen (15) days from its approval.
 
-Section 6. Interim Officers
+
+### Section 6. Interim Officers
 
 The interim Chief Minister shall organize the interim Cabinet and shall appoint an interim Deputy Chief Minister, who shall also be a member of the BTA. The interim Chief Minister shall also appoint such other ministers as may be necessary to perform the functions of government during transition, a majority of whom shall be from among members of the BTA.
 
 Members of the BTA who are appointed to cabinet positions shall serve their offices concurrently; Provided that, no member of the BTA may be appointed, elected or otherwise hold more than two (2) positions at the same time.
 
-Section 7. Interim Cabinet
+
+### Section 7. Interim Cabinet
 
 The Interim Cabinet shall have 10 primary offices with sub-offices for matters covered and priority ministries, namely:
 - Governance, in charge of budget and finance, accountability
@@ -80,7 +85,8 @@ The Interim Cabinet shall have 10 primary offices with sub-offices for matters c
 
 The BTA may empower the interim Chief Minister to create other ministries and primary offices, upon a determination of the majority of its members that the same is necessary for achieving the twin goals of continuity of social services and transitioning to the regular Bangsamoro Government.
 
-Section 8. Organization of the Bureaucracy
+
+### Section 8. Organization of the Bureaucracy
 
 The authority of the BTA to create offices and organize the bureaucracy during transition is without prejudice to the authority of the Bangsamoro Government to reorganize the bureaucracy upon its constitution, or any time thereafter. 
 
@@ -88,7 +94,8 @@ In the exercise of this authority, the BTA shall ensure the least possible disru
 
 All offices and institutions created by laws enacted by the ARMM Regional Legislative Assembly shall be deemed part of the ARMM Government and shall be subject to the phase out plan that will be adopted by the BTA.96
 
-Section 9. Transfer of Powers and Properties and Disposition of Personnel
+
+### Section 9. Transfer of Powers and Properties and Disposition of Personnel
 
 All powers, functions, assets, capital, receivables, equipment and facilities of the ARMM Regional Government at the time of the ratification of this Basic Law shall be transferred to the Bangsamoro Government.
 
@@ -103,7 +110,7 @@ An inventory will be conducted to ensure that the liabilities of the ARMM under 
 For this purpose, the Office of the Regional Governor of the ARMM shall turnover to the BTA upon the latter's constitution a summary report on the status of the Regional Government as of the date of the ratification of this Basic Law, including information on the status of devolution, personnel, properties and assets of the Regional Government.
 
 
-Section 10. Disposition of Personnel and Assets of Central Government
+### Section 10. Disposition of Personnel and Assets of Central Government
 
 Offices/Agencies
 
@@ -112,13 +119,15 @@ The Central Government shall provide for the disposition of personnel of Central
 Properties and assets shall be transferred to the Bangsamoro Government within six (6) weeks from the organization of the BTA. The transfer of properties and assets is without prejudice to the power of the BTA to organize the bureaucracy during
 transition.97
 
-Section 11. Dissolution of the BTA
+
+### Section 11. Dissolution of the BTA
 
 Immediately upon the qualification of the elected Chief Minister under the first Bangsamoro Parliament, the Bangsamoro Transition Authority shall be deemed dissolved.
 
 The BTA shall submit its final report and recommendations to the Bangsamoro Parliament, as well as to the House of Representatives and the Senate, on the status of government during the transition period within sixty (60) days from the assumption into office of all members of the first Parliament.
 
-Section 12. Regular Elections
+
+### Section 12. Regular Elections
 
 The first regular elections for the Bangsamoro Government under this Basic Law shall be held on the first Monday of May 2016, governed by the Bangsamoro Electoral Code. 
 
@@ -129,7 +138,7 @@ The Commission on Elections (COMELEC), through the Bangsamoro Electoral Office, 
 - enforce and administer the same, consistent with this Basic Law and the Bangsamoro Electoral Code, as correlated with relevant national laws.
 
 
-Section 13. Initial Funding for Transition
+### Section 13. Initial Funding for Transition
 
 To carry out the requirements of transition, including , as provided in this Basic Law, the amount of 
 

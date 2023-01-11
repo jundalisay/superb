@@ -3,7 +3,7 @@ heading: "Part 2"
 title: "Incentives And Benefits"
 description: "All BMBEs shall be exempt from tax for income arising from the operations of the enterprise"
 # date: 2002-11-13
-weight: 2
+weight: 4
 image: "/covers/bbl.jpg"
 ---
 

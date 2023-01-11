@@ -19,9 +19,25 @@ Youthful skin is fresh looking, elastic, generally well colored, and has the app
 
 As age comes on the skin grows less fresh looking, takes on a satiny, glossy appearance, and gets darker, often becoming brown in spots. 
 
-This satiny appearance begins at about fifty years of age, and grows more pronounced from that time on. There is not much trouble to distinguish the hands of youth by size and appearance, neither is it hard to judge the hands of middle-aged or old persons. But from the years of twenty to fifty there is greater difficulty in reaching accuracy, though proficiency can be acquired by a close observation of skin, consistency, color, and general appearance. It is desirable to acquire skill in this matter, for knowledge of the present age of a subject will enable you to tell what events seen in his hand have passed, and about what point the subject has reached in the life map of the hand at the time your reading takes place. Until you have gained some proficiency in this respect, it is much better to ask the subject what age he has attained, and use his answer as a basis. 
+This satiny appearance:
+- begins at about 50 years old
+- grows more pronounced from that time on. 
 
-I do not mean that you should rely absolutely upon it, for all persons will not be truthful; but they will be within reasonable distance of the correct age, and you will have to use your own judgment, based upon the appearance of the hand, as to how much they are misleading you. I believe there is a way to tell the age of a subject from the lines, and have been experimenting with it for some time, but the results do not as yet warrant me in giving the method as an absolutely correct one. If the temperature of your room is exactly right, and the subject in perfect health, you will often find by pressing the Life line quite hard from the top downward so that you force all of the blood out of it, repeating, if necessary, this pressure several times, that there will sometimes appear, only for a second, a white spot in the line. 
+<!-- There is not much trouble to distinguish the hands of youth by size and appearance, neither is it hard to judge the hands of middle-aged or old persons.  -->
+
+From the 20-50 there is greater difficulty in reaching accuracy, though proficiency can be acquired by a close observation of skin, consistency, color, and general appearance. 
+
+It is desirable to acquire skill in this matter, for knowledge of the present age of a subject will enable you to tell what events seen in his hand have passed, and about what point the subject has reached in the life map of the hand at the time your reading takes place. 
+
+Until you have gained some proficiency in this respect, it is much better to ask the subject what age he has attained, and use his answer as a basis. 
+
+Not everyone will be truthful. 
+
+They will be within reasonable distance of the correct age. You will have to use your own judgment, based upon the appearance of the hand, as to how much they are misleading you. 
+
+There is a way to tell the age of a subject from the lines, and have been experimenting with it for some time, but the results do not as yet warrant me in giving the method as an absolutely correct one. 
+
+If the temperature of your room is exactly right, and the subject in perfect health, you will often find by pressing the Life line quite hard from the top downward so that you force all of the blood out of it, repeating, if necessary, this pressure several times, that there will sometimes appear, only for a second, a white spot in the line. 
 
 In about half of the cases on which I have tried this experiment, this white spot has shown itself at the correct age of the subject. It has been successful so often that I believe if the conditions of health in the subject, and temperature of the room were always just right, that the results would be astonishing in their accuracy, but we encounter such varying conditions that I do not feel justified in making the positive statement that age can always be discovered in this way. It will be valuable to Palmistry if this possibility can be fully established.
 
@@ -29,7 +45,9 @@ If our hypothesis that the lines in the hand are a map of the natural course of 
 
 Experiments have clearly shown that the beginning of a line (remembering always from which end the line in question is read) records the first years, and that, as the line continues, it records the advancing years of that life. The degree of proficiency possible to attain in reading the age at which events occur depends entirely upon the keenness and good judgment of the practitioner. There are some who can tell of an event and fix the time within a year, but those who have reached such skill are few. Others are successful within two, three, or five years. No one can do more than fix the year in which an event occurs if he relies entirely upon the rules of Palmistry. 
 
-To fix scientifically a month or specific day for any event is impossible. Neither is it possible, relying solely on the hand, to tell the name of a subject, the initial of his name, or that of a friend or relative. In every case when you are asked to write these things on a paper, no matter what is apparently done with the paper, you may be absolutely certain that the practitioner is relying upon sleight of hand to enable him to read what you have written. There is no possible method either of locating "lucky days," and nothing should more quickly give the stamp of fraud than such a statement from a practitioner. 
+To fix scientifically a month or specific day for any event is impossible. 
+
+Neither is it possible, relying solely on the hand, to tell the name of a subject, the initial of his name, or that of a friend or relative. In every case when you are asked to write these things on a paper, no matter what is apparently done with the paper, you may be absolutely certain that the practitioner is relying upon sleight of hand to enable him to read what you have written. There is no possible method either of locating "lucky days," and nothing should more quickly give the stamp of fraud than such a statement from a practitioner. 
 
 Neither does a scientific palmist confine himself entirely to the future, telling of wonderful things that will happen after he is gone. Such practitioners succeed because there is just enough credulity in our human nature to make us hope these things - which are always made to be pleasant - will come to pass. Any palmist who understands his art can tell past events, and if he cannot deal correctly with your character, health, temperament, and a good deal of your past life, do not put faith in his skill. Trifling events are not shown in the hand. The mere routine of living does not appear in the life map, so any claim to trace your life from day to day is a false one, intended merely to deceive. Only important events, serious illnesses, changes of condition, severe trials, great joys or dangers, will be seen, or those things or persons who have greatly influenced and have produced strong brain impressions upon you, or have made marked changes in the course of the life. To be correct in reading age on the lines, we must consider how long the average human being lives. 
 

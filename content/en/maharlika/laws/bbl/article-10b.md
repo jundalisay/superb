@@ -2,14 +2,15 @@
 title: "Shari’ah and Tribal Justice"
 heading: "Article 10b"
 description: "For Muslims, the justice system in the Bangsamoro shall give primary consideration to Shari’ah, and customary rights and traditions of the indigenous peoples in the Bangsamoro."
-date: 2021-09-12
+# date: 2021-09-12
+weight: 14
 image: "/covers/bbl.jpg"
 ---
 
 
-Section 10. Shari’ah Judicial and Bar Council
+### Section 10. Shariah Judicial and Bar Council
 
-The Shari’ah Judicial and Bar Council shall recommend to the Judicial and Bar Council the applicants to be:
+The Shariah Judicial and Bar Council shall recommend to the Judicial and Bar Council the applicants to be:
 - judges in the Shari’ah District and Circuit Courts 
 - the justices of the Shari’ah High Court. 
 
@@ -18,11 +19,12 @@ The Judicial and Bar Council shall give utmost consideration to the Shar’iah J
 The President shall issue the appointments within 90 days from the submission by the Judicial and Bar Council of the list.
 
 
-Section 11. Consultant to the Judicial and Bar Council
+### Section 11. Consultant to the Judicial and Bar Council
 
 The President shall appoint a consultant to the Judicial and Bar Council, recommended by the Chief Minister from among the members of the Shari’ah Judicial and Bar Council, who shall advise and be consulted by the Judicial and Bar Council on appointments to Shari’ah judicial positions in the Bangsamoro.
 
-Section 12. Composition of the Shari’ah Judicial and Bar Council. 
+
+### Section 12. Composition of the Shari’ah Judicial and Bar Council. 
 
 This law creates a Shari’ah Judicial and Bar Council having 5 members:
 - a senior member of the Shari’ah High Court, as ex-officio Chairman
@@ -34,7 +36,8 @@ Other regular members of the Council shall be 1 representative each from the acc
 The regular members of the Council shall be appointed by the Chief Minister with a term of 5 years without reappointment. 
 
 
-Section 13. Functions of the Shari’ah Judicial and Bar Council
+
+### Section 13. Functions of the Shari’ah Judicial and Bar Council
 
 The Shari’ah Judicial and Bar Council shall have the following functions:
 
@@ -42,15 +45,20 @@ The Shari’ah Judicial and Bar Council shall have the following functions:
 - b. Conduct investigations over erring members of the Shari’ah Bar in the Bangsamoro and over judges and personnel of the Shari’ah Courts in the Bangsamoro, and submit the results of such investigation to the Supreme Court for the latter’s action.
 
 
-Section 14. Shari’ah Rules of Court. 
+
+### Section 14. Shari’ah Rules of Court
 
 The rules of court for the Shari’ah courts in the Bangsamoro shall be promulgated by the Supreme Court, giving utmost consideration to the recommendations of the Bangsamoro Shari’ah High Court. In the meantime, the special rules of court for Shari’ah courts, as promulgated by the Supreme Court, shall continue to be in force.
 
-Section 15. Special Bar Examinations for Shari’ah
+
+
+### Section 15. Special Bar Examinations for Shari’ah
 
 The Supreme Court shall continue to administer Shari’ah Bar examinations for admission of applicants to the Philippine Bar as special members thereof, with due consideration for the special nature of the Shari'ah system and utmost regard to the proposals of the Bangsamoro Shari’ah High Court on this matter.
 
-Section 16. Compensation
+
+
+### Section 16. Compensation
 
 Judges of the Shari’ah Circuit Court in the Bangsamoro shall receive the same compensation and enjoy the same privileges as judges of Municipal Circuit Trial Courts.
 
@@ -58,13 +66,19 @@ Judges of the Shari’ah District Court in the Bangsamoro shall receive the same
 
 Justices of the Bangsamoro Shari’ah High Court shall receive the same compensation and enjoy the same privileges as the justices of the Court of Appeals. 
 
-Section 17. Appointment and Discipline of Shari’ah Court Personnel
+
+
+### Section 17. Appointment and Discipline of Shari’ah Court Personnel
 
 The Supreme Court shall appoint the Shari’ah court personnel, and shall have the power of discipline over them. The Shari’ah Judicial and Bar Council shall conduct investigations over erring personnel in Shari’ah courts in the Bangsamoro, and submit the results of such investigation to the Supreme Court for the latter’s action.
 
-Section 18. Shari’ah Public Assistance Office. To provide free legal assistance to indigent party litigants, the Bangsamoro Parliament shall create a Shari’ah Public Assistance Office for the different Shari’ah courts in the Bangsamoro.
 
-Section 19. Shari’ah Special Prosecution Service
+### Section 18. Shariah Public Assistance Office
+
+To provide free legal assistance to indigent party litigants, the Bangsamoro Parliament shall create a Shari’ah Public Assistance Office for the different Shari’ah courts in the Bangsamoro.
+
+
+### Section 19. Shari’ah Special Prosecution Service
 
 There shall be created a Shari’ah Special Prosecution Service for Shari’ah administration of justice in the Bangsamoro.
 The Shari’ah Special Prosecution Service shall be attached to the National Prosecutorial
@@ -72,17 +86,17 @@ Service of the Central Government.
 
 The Bangsamoro Government shall recommend the qualified applicants for the position of the Shari’ah prosecutors and personnel of the Shari’ah Special Prosecution Service to the Secretary of Justice.
 
-Section 20. Shari’ah Academy
 
-This Law creates a Shari’ah Academy which:
+### Section 20. Shariah Academy
+
+This Law creates a Shariah Academy which:
 - conducts courses and trainings on the Shari’ah law in the Bangsamoro
 - accredit Shari’ah courses and degrees obtained by Bangsamoro from schools and universities abroad
 - develop the curriculum of schools and universities in the Bangsamoro. 
 
 The Bangsamoro Parliament shall define its powers and additional functions and appropriate funds therefor. The Shari’ah Academy may coordinate with the National Commission on Muslim Filipinos (NCMF) whenever necessary.
 
-
-Section 21. Bangsamoro Jurisconsult in Islamic Law
+### Section 21. Bangsamoro Jurisconsult in Islamic Law
 
 This Law creates an office of Jurisconsult of Islamic law in the Bangsamoro, with powers defined by the Parliament.
 
@@ -92,14 +106,16 @@ The Office of Jurisconsult shall be a collegial body composed of:
 
 The Jurisconsult and his deputies shall be members of the Philippine Shari’ah Bar or the Integrated Bar of the Philippines, Muslim Bangsamoro, holders of Bachelor Degree in Islamic Law and Jurisprudence, must not be commonly known as one who violates Islamic injunctions, with proven competence and probity, mentally fit, and known for integrity and high moral standards.
 
-Section 22. Jurisconsult Under Existing Law
+
+
+### Section 22. Jurisconsult Under Existing Law
 
 - The Office of the Jurisconsult under PD 1083 shall be strengthened by providing for salary, rank and privileges of a Justice of the Court of Appeals
 
 
 ## Traditional/Tribal Justice Systems
 
-Section 23. Traditional/Tribal Justice Systems. 
+### Section 23. Traditional/Tribal Justice Systems. 
 
 The Bangsamoro Parliament shall enact laws to promote and support the traditional/tribal justice systems for the indigenous peoples, as defined by them. 
 

@@ -20,7 +20,9 @@ This will indicate the strength of the blood stream and will help to distinguish
 In some lines, the blood flows freely. In others, the whiteness under pressure shows the weak blood supply.
 
 
-If with the deep, well-cut Heart line we find white color, it will not be so strong an indication of a good physical heart as if the color were pink. We know by the deep line that, while the heart was intended to be of full development, something has taken place, as shown by white color, by which it has been weakened. In such a case look at both hands; if the line colors well in the left and shows white in the right, it will indicate plainly that the naturally strong heart has been impaired and weakened. 
+If with the deep, well-cut Heart line we find white color, it will not be so strong an indication of a good physical heart as if the color were pink. We know by the deep line that, while the heart was intended to be of full development, something has taken place, as shown by white color, by which it has been weakened. 
+
+In such a case look at both hands; if the line colors well in the left and shows white in the right, it will indicate plainly that the naturally strong heart has been impaired and weakened. 
 
 White color in the line of Heart, even if the line is otherwise good, shows the heart's action to be weaker than normal, and the affections colder. With color, always apply it to the type of the subject. Coldness belongs to the Lunarian primarily, the Saturnian second, Mercurian third, while Martians, Apol-lonians, Venusians, and Jupiterians are warm-hearted.
 
