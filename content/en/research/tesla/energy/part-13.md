@@ -28,9 +28,13 @@ But to enable a practical introduction of the system, a number of essential requ
 
 From that moment when it was observed that, contrary to the established opinion, low and easily accessible strata of the atmosphere are capable of conducting electricity, the transmission of electrical energy without wires has become a rational task of the engineer, and one surpassing all others in importance. Its practical consummation would mean that energy would be available for the uses of man at any point of the globe, not in small amounts such as might be derived from the ambient medium by suitable machinery, but in quantities virtually unlimited, from waterfalls.
 
-Export of power would then become the chief source of income for many happily situated countries, as the United States, Canada, Central and South America, Switzerland, and Sweden. Men could settle down everywhere, fertilize and irrigate the soil with little effort, and convert barren deserts into gardens, and thus the entire globe could be transformed and made a fitter abode for mankind. It is highly probable that if there are intelligent beings on Mars they have long ago realized this very idea, which would explain the changes on its surface noted by astronomers. The atmosphere on that planet, being of considerably smaller density than that of the earth, would make the task much more easy. 
+Export of power would then become the chief source of income for many happily situated countries, as the United States, Canada, Central and South America, Switzerland, and Sweden. 
 
-It is probable that we shall soon have a self-acting heat-engine capable of deriving moderate amounts of energy from the ambient medium. There is also a possibility—though a small one—that we may obtain electrical energy direct from the sun. This might be the case if the Maxwellian theory is true, according to which electrical vibrations of all rates should emanate from the sun. I am still investigating this subject. Sir William Crookes has shown in his beautiful invention known as the "radiometer" that rays may produce by impact a mechanical effect, and this may lead to some important revelation as to the utilization of the sun's rays in novel ways.
+Men could settle down everywhere, fertilize and irrigate the soil with little effort, and convert barren deserts into gardens, and thus the entire globe could be transformed and made a fitter abode for mankind. It is highly probable that if there are intelligent beings on Mars they have long ago realized this very idea, which would explain the changes on its surface noted by astronomers. The atmosphere on that planet, being of considerably smaller density than that of the earth, would make the task much more easy. 
+
+It is probable that we shall soon have a self-acting heat-engine capable of deriving moderate amounts of energy from the ambient medium. 
+
+There is also a possibility—though a small one—that we may obtain electrical energy direct from the sun. This might be the case if the Maxwellian theory is true, according to which electrical vibrations of all rates should emanate from the sun. I am still investigating this subject. Sir William Crookes has shown in his beautiful invention known as the "radiometer" that rays may produce by impact a mechanical effect, and this may lead to some important revelation as to the utilization of the sun's rays in novel ways.
 
 
 ## The Best Means Of Increasing The Force Accelerating The Human Mass
@@ -41,14 +45,14 @@ On the other hand, if at any point of the globe energy can be obtained in limite
 
 I anticipate that any, unprepared for these results, which, through long familiarity, appear to me simple and obvious, will consider them still far from practical application. Such reserve, and even opposition, of some is as useful a quality and as necessary an element in human progress as the quick receptivity and enthusiasm of others. Thus, a mass which resists the force at first, once set in movement, adds to the energy. The scientific man does not aim at an immediate result. He does not expect that his advanced ideas will be readily taken up. His work is like that of the planter—for the future. His duty is to lay the foundation for those who are to come, and point the way. He lives and labors and hopes with the poet who says: 
 
-Schaff' das Tagwerk meiner Hände,
+<!-- Schaff' das Tagwerk meiner Hände,
 Hohes Glück, dass ich's vollende!
 Lass, o lass mich nicht ermatten!
 Nein, es sind nicht leere Träume:
 Jetzt nur Stangen, diese Bäume
-Geben einst noch Frucht und Schatten. [1] 
+Geben einst noch Frucht und Schatten. [1]  -->
 
-1 Daily work—my hands' employment,
+Daily work—my hands' employment,
 To complete is pure enjoyment!
 Let, oh, let me never falter!
 No! there is no empty dreaming:
@@ -56,6 +60,7 @@ Lo! these trees, but bare poles seeming,
 
 Yet will yield both food and shelter! 
 
-Goethe's "Hope"
+<!-- Goethe's "Hope"
 
 Translated by William Gibson, Com. U. S. N.
+ -->

@@ -162,6 +162,13 @@
 
 [[navbar]]
     parent = "enl"
+    weight = 163
+    name = "Quesnay"
+    url = "/research/quesnay"
+    pre = "<img src='/icons/quesnay.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
+[[navbar]]
+    parent = "enl"
     weight = 165
     name = "Sarkar"
     url = "/research/sarkar"
@@ -216,12 +223,7 @@
     url = "/research/tesla"
     pre = "<img src='/avatars/tesla.png' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
 
-# [[navbar]]
-#     parent = "enl"
-#     weight = 199
-#     name = "Quesnay"
-#     url = "/research/quesnay"
-#     pre = "<img src='/icons/quesnay.jpg' style='width: 30px !important; border-radius: 9999px; padding-right: 10px'>"
+
 
 
 
