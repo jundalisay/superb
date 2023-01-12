@@ -4,12 +4,14 @@ title: "Independence and Dependence of Self-Consciousness: Lordship and Bondage"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.jpg
 author: Hegel
-date: 2021-12-30
+weight: 6
 ---
 
 
 
-Φ 178. SELF-CONSCIOUSNESS exists in itself and for itself, in that, and by the fact that it exists for another self-consciousness; that is to say, it is only by being acknowledged or “recognized”. The conception of this its unity in its duplication, of infinitude realizing itself in self-consciousness, has many sides to it and encloses within it elements of varied significance. 
+<!-- Φ 178.  -->
+
+SELF-CONSCIOUSNESS exists in itself and for itself, in that, and by the fact that it exists for another self-consciousness; that is to say, it is only by being acknowledged or “recognized”. The conception of this its unity in its duplication, of infinitude realizing itself in self-consciousness, has many sides to it and encloses within it elements of varied significance. 
 
 Thus its moments must on the one hand be strictly kept apart in detailed distinctiveness, and, on the other, in this distinction must, at the same time, also be taken as not distinguished, or must always be accepted and understood in their opposite sense. This double meaning of what is distinguished lies in the nature of self-consciousness: — of its being infinite, or directly the opposite of the determinateness in which it is fixed. The detailed exposition of the notion of this spiritual unity in its duplication will bring before us the process of Recognition.
 

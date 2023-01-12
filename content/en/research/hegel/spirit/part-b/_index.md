@@ -1,6 +1,6 @@
 ---
 title: "Self Consciousness"
-date: 2021-12-31
+weight: 2
 description: "The Phenomenology of Spirit"
 image: /covers/phenom.jpg
 ---

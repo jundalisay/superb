@@ -1,14 +1,16 @@
 ---
 heading: "Section 2b"
 title: "The Contradictoriness of the Perception of 'Things'"
-description: The subject of philosophy is the actual knowledge of what truly is.
+description: I am aware of the 'thing' as a one and have to keep it fixed in this true character as 'one'
 image: /covers/phenom.jpg
 author: Hegel
-date: 2021-12-28
+weight: 10
 ---
 
 
-{{< s v='119' >}} I am aware of the “thing” as a one and have to keep it fixed in this true character as one”. If in the course of perceiving something crops up contradicting that, then I must take it to be due to my reflection. Now, in perception various different properties also turn up, which seem to be properties of the thing. But the thin is a “one”; and we are aware in ourselves that this diversity, by which the thing ceases to be a unity, falls in us. 
+{{< s v='119' >}} I am aware of the “thing” as a one and have to keep it fixed in this true character as one”. 
+
+If in the course of perceiving something crops up contradicting that, then I must take it to be due to my reflection. Now, in perception various different properties also turn up, which seem to be properties of the thing. But the thin is a “one”; and we are aware in ourselves that this diversity, by which the thing ceases to be a unity, falls in us. 
 
 This thing, then, is, in point of fact, merely white to our eyes, also tart to our tongue, and also cubical to our feeling, and so on. The entire diversity of these aspects comes not from the thing, but from us; and we find them falling apart thus from one another, because the organs they affect are quite distinct inter se, the eye is entirely distinct from the tongue, and so on. We are, consequently, the universal medium where such elements get dissociated, and exist each by itself. By the fact, then, that we regard the characteristic of being a universal medium as our reflection, we preserve and maintain the self-sameness and truth of the thing, its being a “one”.
 

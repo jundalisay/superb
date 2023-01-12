@@ -4,7 +4,7 @@ title: "The Inner Realm"
 description: This true being of things does not exist immediately for consciousness.
 image: /covers/phenom.jpg
 author: Hegel
-date: 2021-12-30
+weight: 18
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: "Free Concrete Mind"
-date: 2021-12-31
+weight: 3
 description: "The Phenomenology of Spirit"
 image: /covers/phenom.jpg
 ---

@@ -1,10 +1,10 @@
 ---
 heading: "Section 2"
 title: "Perception Or Things and their Deceptiveness"
-description: The subject of philosophy is the actual knowledge of what truly is.
+description: Immediate certainty does not make the truth its own, for its truth is something universal, whereas certainty wants to deal with the This.
 image: /covers/phenom.jpg
 author: Hegel
-date: 2021-12-28
+weight: 8
 ---
 
 

@@ -4,7 +4,7 @@ title: "Force and the play of Forces"
 description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.jpg
 author: Hegel
-date: 2021-12-30
+weight: 16
 ---
 
 
