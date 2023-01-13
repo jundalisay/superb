@@ -1,44 +1,85 @@
 ---
 heading: "Section 1b"
-title: "The Subject of Sense Certainty"
-description: This certainty wholly refuses to come out if we direct its attention to a Now that is night, or an I to whom it is night. We will go to it and let ourselves point out the Now that is asserted.
+title: "The Here"
+description: The subject of philosophy is the actual knowledge of what truly is.
 image: /covers/phenom.jpg
 author: Hegel
+icon: /avatars/hegel.png
 weight: 6
 ---
 
 
-{{< s v='105' >}} This certainty wholly refuses to come out if we direct its attention to a Now that is night, or an I to whom it is night. 
+{{< s v="98" >}} The same applies to the Here which is the other form of the This.
 
-We will go to it and let ourselves point out the Now that is asserted. 
+For example, the Here is the tree.
+- I turn around and this truth, the tree, has disappeared. 
+  - The Here has changed round into a house. 
+- The Here itself does not disappear.
+  - It remains even if the house, tree, etc disappears. 
 
-We must let ourselves point it out for the truth of this immediate relation is the truth of this ego which restricts itself to a Now or a Here. Were we to examine this truth afterwards, or stand at a distance from it, it would have no meaning at all; for that would do away with the immediacy, which is of its essence. We have therefore to enter the same point of time or of space, indicate them, point them out to ourselves, i.e. we must let ourselves take the place of the very same I, the very same This, which is the subject knowing with certainty. Let us, then, see how that immediate is constituted, which is shown to us.
-
-Φ 106. The Now is pointed out; this Now. “Now”; it has already ceased to be when it is pointed out. The Now that is, is other than the one indicated, and we see that the Now is just this – to be no longer the very time when it is. The Now as it is shown to us is one that has been, and that is its truth; it does not have the truth of being, of something that is. No doubt this is true, that it has been; but what has been is in point of fact not genuinely real, it is not, and the point in question concerned what is, concerned being.
-
-Φ 107. In thus pointing out the Now we see then merely a process which takes the following course: First I point out the Now, and it is asserted to be the truth. I point it out, however, as something that has been, or as something cancelled and done away with. I thus annul and pass beyond that first truth and in the second place I now assert as the second truth that it has been, that it is superseded. But, thirdly, what has been is not; I then supersede, cancel, its having been, the fact of its being annulled, the second truth, negate thereby the negation of the Now and return in so doing to the first position: that Now is. The Now and pointing out the Now are thus so constituted that neither the one nor the other is an immediate simple fact, but a process with diverse moments in it. A This is set up; it is, however, rather an other that is set up; the This is superseded: and this otherness, this cancelling of the former, is itself again annulled, and so turned back to the first. But this first, reflected thus into itself, is not exactly the same as it was to begin with, namely something immediate: rather it is a something reflected into-self, a simple entity which remains in its otherness, what it is: a Now which is any number of Nows. And that is the Genuinely true Now; the Now is simple day-time which has many Nows within it – hours. A Now of that sort, again – an hour – is similarly many minutes; and this Now – a minute – in the same way many Nows and so on. Showing, indicating, pointing out [the Now] is thus itself the very process which expresses what the Now in truth really is: namely a result, or a plurality of Nows all taken together. And the pointing, out is the way of getting to know, of experiencing, that Now is a universal.
-
-Φ 108. The Here pointed out, which I keep hold of, is likewise a this Here which, in fact, is not this Here, but a Before and Behind, an Above and Below, a Right and Left. The Above is itself likewise this manifold otherness – above, below, etc. The Here, which was to be pointed out, disappears in other Heres, and these disappear similarly. What is pointed out, held fast, and is permanents a negative This, which only is so when the Heres are taken as they should be, but therein cancel one another; it is a simple complex of many Heres. The Here that is “meant” would be the point. But it is not: rather, when it is pointed out as being, as having existence, that very act of pointing out proves to be not immediate knowledge, but a process, a movement from the Here “meant” through a plurality of Heres to the universal Here, which is a simple plurality of Heres, just as day is a simple plurality of Nows.
+The This, as the Here, therefore is also mediated simplicity, a Universality.
 
 
-## 3. The Concrete Experience of Sense Certainty
+{{< s v="99" >}} Pure being, then, remains as the essential element for this perception (sense-certainty) since perception (sense-certainty) in its very nature proves the Universal to be the truth of its object. 
 
-Φ 109. It is clear from all this that the dialectic process involved in sense-certainty is nothing else than the mere history of its process – of its experience; and sense-certainty itself is nothing else than simply this history. The naïve consciousness, too, for that reason, is of itself always coming to this result, which is the real truth in this case, and is always having experience of it: but is always forgetting it again and beginning the process all over. It is therefore astonishing when, in defiance of this experience, it is announced as “universal experience” – nay, even as a philosophical doctrine, the outcome, in fact, of scepticism – that the reality or being of external things in the sense of “Thises”, particular sense objects, has absolute validity and truth for consciousness. One who makes such an assertion really does not know what he is saying, does not know that he is stating the opposite of what he wants to say. The truth for consciousness of a “This” of sense is said to be universal experience; but the very opposite is universal experience. Every consciousness of itself cancels again, as soon as made, such a truth as e.g. the Here is a tree, or the Now is noon, and expresses the very opposite: the Here is not a tree but a house. And similarly it straightway cancels again the assertion which here annuls the first, and which is also just such an assertion of a sensuous This. And in all sense-certainty what we find by experience is in truth merely, as we have seen, that “This” is a universal, the very opposite of what that assertion maintained to be universal experience.
+But that pure being is not in the form of something immediate, but of something in which the process of negation and mediation is essential. 
 
-We may be permitted here, in this appeal to universal experience, to anticipate(5) with a reference to the practical sphere. In this connection we may answer those who thus insist on the truth and certainty of the reality of objects of sense, by saying that they had better be sent back to the most elementary school of wisdom, the ancient Eleusinian mysteries of Ceres and Bacchus; they have not yet learnt the inner secret of the eating of bread and the drinking of wine. For one who is initiated into these mysteries not only comes to doubt the being of things of sense, but gets into a state of despair about it altogether; and in dealing with them he partly himself brings about the nothingness of those things, partly he sees these bring about their own nothingness. Even animals are not shut off from this wisdom, but show they are deeply initiated into it. For they do not stand stock still before things of sense as if these were things per se, with being in themselves: they despair of this reality altogether, and in complete assurance of the nothingness of things they fall-to without more ado and eat them up. And all nature proclaims, as animals do, these open secrets, these mysteries revealed to all, which teach what the truth of things of sense is.
+Consequently it is not what we intend or “mean” by being, but being with the characteristic that it is an abstraction, the purely universal. 
 
-Φ 110. Those who put forward such assertions really themselves say, if we bear in mind what we remarked before, the direct opposite of what they mean: a fact which is perhaps best able to bring them to reflect on the nature of the certainty of sense-experience. They speak of the “existence” of external objects, which can be more precisely characterized as actual, absolutely particular, wholly personal, individual things, each of them not like anything or anyone else; this is the existence which they say has absolute certainty and truth. They “mean” this bit of paper I am writing on, or rather have written on: but they do not say what they “mean”. If they really wanted to say this bit of paper which they “mean”, and they wanted to say so, that is impossible, because the This of sense, which is “meant”, cannot be reached by language, which belongs to consciousness, i.e. to what is inherently universal. In the very attempt to say it, it would, therefore, crumble in their hands; those who have begun to describe it would not be able to finish doing so: they would have to hand it over to others, who would themselves in the last resort have to confess to speaking about a thing that has no being. They mean, then, doubtless this bit of paper here, which is quite different from that bit over there; but they speak of actual things, external or sensible objects, absolutely individual, real, and so on; that is, they say about them what is simply universal. Consequently what is called unspeakable is nothing else than what is untrue, irrational, something barely and simply meant.
+Our intended “meaning”, which takes the truth of perception (sense-certainty) to be not something universal, is alone left standing in contrast to this empty, indifferent Here and Now.
 
-If nothing is said of a thing except that it is an actual thing, an external object, this only makes it the most universal of all possible things, and thereby we express its likeness, its identity, with everything, rather than its difference from everything else. When I say “an individual thing”, I at once state it to be really quite a universal, for everything is an individual thing: and in the same way “this thing” is everything and anything we like. More precisely, as this bit of paper, each and every paper is a “this bit of paper”, and I have thus said all the while what is universal. If I want, however, to help out speech – which has the divine nature of directly turning the mere “meaning” right round about, making it into something else, and so not letting it ever come the length of words at all – by pointing out this bit of paper, then I get the experience of what is, in point of fact, the real truth of sense-certainty. I point it out as a Here, which is a Here of other Heres, or is in itself simply many Heres together, i.e. is a universal. I take it up then, as in truth it is; and instead of knowing something immediate, I “take” something “truly”, I per-ceive (wahrnehme, per-cipio).
 
-Perception: Or Things and their Deceptiveness
+{{< s v="100" >}} If we compare the relation in which knowledge and the object first stood with the relation they have come to assume in this result, it is found to be just the reverse of what first appeared. 
 
-1. In addition to the works mentioned on p. 40 (note), the reader may be referred to the analysis of Sensation and Perception in Plato's Theaetetus, and to Bradley's Appearance and Reality, Chaps. II, V, VIII and XIX.
+The object, which professed to be the essential reality, is now the non-essential element of perception (sense-certainty). This is because the universal, which the object has come to be, is no longer such as the object essentially was to be for perception (sense-certainty). 
 
-2. Ie. For the purposes of philosophical analysis.
+The certainty is now found to lie in the opposite element, namely in knowledge, which formerly was the non-essential factor. 
 
-3. I.e. the naïve consciousness here analyzed.
+Its truth lies in the object as my object, or lies in the “meaning” (Meinen), in what I “mean”; it is, because I know it. 
 
-4. Cf. Encyclo. § 250.
+Sense-certainty is thus banished from the object. But it is not yet thereby done away with. It is merely forced back into the I. 
 
-5. Cf. Analysis of Desire, p. 220 ff.
+We have still to see what experience reveals regarding its reality in this sense.
+
+
+{{< s v="101" >}} The force of its truth thus lies now in the I, in the immediate fact of my seeing, hearing, and so on. 
+
+The disappearance of the particular Now and Here that we “mean” is prevented by the fact that I keep hold on them. 
+
+The Now is daytime, because I see it; the Here is a tree for a similar reason. 
+
+Sense-certainty, however, goes through, in this connection, the same dialectic process as in the former case. 
+
+I, this I, see the tree, and assert the tree to be the Here; another I, however, sees the house and maintains the Here is not a tree but a house. 
+
+Both truths have the same authenticity – the immediacy of seeing and the certainty and assurance both have as to their specific way of knowing; but the one certainty disappears in the other.
+
+{{< s v="102" >}} In all this, what does not disappear is the I qua universal, whose seeing is neither the seeing of this tree nor of this house, but just seeing simpliciter, which is mediated through the negation of this house, etc., and, in being so, is all the same simple and indifferent to what is associated with it, the house, the tree, and so on. 
+
+I is merely universal, like Now, Here, or This in general. 
+
+I “mean” an individual I, but just something as little as I am able to say what I “mean” by Now, Here, so it is impossible in the case of the I too. By saying “this Here”, “this Now”, “an individual thing”, I say all Thises, Heres, Nows, or Individuals. 
+
+In the same way when I say “I”, “this individual I”, I say quite generally “all I's”, every one is “I”, this individual I. 
+
+When philosophy is requested, by way of putting it to a crucial test – a test which it could not possibly sustain – to “deduce”, to “construe”, “to find a priori”, or however it is put, a so-called this thing, or this particular man,(4) it is reasonable that the person making this demand should say what “this thing”, or what “this I”, he means: but to say this is quite impossible.
+
+
+{{< s v="103" >}} Sense-certainty discovers by experience, therefore, that its essential nature lies neither in the object nor in the I; and that the immediacy peculiar to it is neither an immediacy of the one nor of the other.
+
+For, in the case of both, what I “mean” is rather something non-essential. 
+
+The object and the I are universals, in which that Now and Here and I, which I “mean”, do not hold out, do not exist. We arrive in this way at the result, that we have to put the whole, of sense-certainty as its essential reality, and no longer merely one of its moments, as happened in both cases, where first the object as against the I, and then the I, was to be its true reality. 
+
+Thus, it is only the whole sense-certainty itself which persists therein as immediacy. In consequence, it excludes from itself all the opposition which in the foregoing had a place there.
+
+
+{{< s v="104" >}} This pure immediacy has nothing more to do with the fact of otherness, with Here in the form of a tree passing into a Here that is not a tree, with Now in the sense of day-time changing into a Now that is night-time, or with there being an other I to which something else is object. 
+
+Its truth stands fast as a self-identical relation making no distinction of essential and non-essential, between I and object, and into which, therefore, in general, no distinction can find its way. 
+
+I, this I, assert, then, the Here as tree, and do not turn round so that for me Here might become not a tree, and I take no notice of the fact that another I finds the Here as not-tree, or that I myself at some other time take the Here as not-tree, the Now as not-day. 
+
+I am directly conscious, I intuit and nothing more, I am pure intuition. I am-seeing, looking. 
+
+For myself I stand by the fact, the Now is day-time, or, again, by the fact the Here is tree, and, again, do not compare Here and Now themselves with one another; I take my stand on one immediate relation: the Now is day.

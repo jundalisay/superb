@@ -4,6 +4,7 @@ title: "The Contradictoriness of the Perception of 'Things'"
 description: I am aware of the 'thing' as a one and have to keep it fixed in this true character as 'one'
 image: /covers/phenom.jpg
 author: Hegel
+icon: /avatars/hegel.png
 weight: 10
 ---
 
