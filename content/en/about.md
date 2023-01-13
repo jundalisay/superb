@@ -1,8 +1,9 @@
 ---
-title: "About"
-description: "About Superphysics"
+title: "About Superphysics"
+description: "Superphysics is a unification of Science and Philosophy, Physics with Metaphysics, Matter with the Aether."
 image: /covers/spblack.jpg
 ---
+
 <!-- img1: "https://sorasystem.sirv.com/books/taonomics.png"
 img2: "https://sorasystem.sirv.com/books/spmat.jpg"
 img3: "https://sorasystem.sirv.com/books/tms.jpg"
@@ -36,10 +37,11 @@ _ | [Material Superphysics](/material) | [Medical Superphysics](/medical) | [Soc
 Goal | To discover levitation, teleportation, and gravity-based energy by using gravitational signatures | Solve all diseases, even viruses and mental health issues, create Artificial Sentience for predicting health issues  | Solve social problems, even economics and politics such as financial crisis and war, create Artificial Sentience for preventing crises. Create a global constitution, national constitution template, and organic law as a unified political system
 Example Technologies | Cargo ship levitation, Fusion via levitation of plasma | Five medical paradigms known to all, Agriculture on seawater (Medical Superphysics for plants) | Free Trade system, Confirmation Elections, Constitutional Virtues 
 Method | Redefines E = mc^2  into E = G<sub>l</sub>  as template for all movement in the physical and metaphysical universe | This opens up the principles of chi or vayu of Traditional Chinese Medicine (TCM), pitta kapha and rakta of Ayurveda, acidic-alkaline of Naturopathy, and like-cures-like of Homeopathy | Plot the social cycles of each society, apply the Four Laws of Value. Find common patterns in national constitutions
-Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare  | While "medical science" is based on Western medicine, "Medical Superphysics" is based on a combination of Western medicine, TCM, Ayurveda, naturopathy, and homeopathy, turing the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist or a Pantrynomist and a sociologist and lawmaker into a supersociologist and superlawmaker
+Source | Patterned after A Treatise of Human Nature Book 1 | Patterned after Book 2 | Patterned after Book 3
+Notes | This requires a total refutation of Einstein, to be replaced by Lorentz-Poincare  | While "medical science" is based on Western medicine, "Medical Superphysics" is based on a combination of Western medicine, TCM, Ayurveda, naturopathy, and homeopathy, turing the doctor into a superdoctor | This is made up of Economic Superphysics (Supereconomics) for economic problems and Supersociology for social problems. This turns the economist into a supereconomist and a sociologist and lawmaker into a supersociologist and superlawmaker.
 
 
-{{< img src="/graphics/scirelsp.png" alt="Superphysics" cap="Superphysics goes for the invisible Aether instead of being stuck with obvious Matter" >}}
+{{< img src="/graphics/scirelsp.png" alt="Superphysics" cap="Superphysics goes for the mysterious, invisible Aether (the spooky Actor from a distance) instead of being stuck with oh-so-obvious Matter" >}}
 
 
 Materialists would say that all of this is pseudo-science. We would rather say it's Superphysics or [Dialectics](/superphysics/socratic-dialectics).

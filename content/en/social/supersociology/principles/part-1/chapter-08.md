@@ -1,6 +1,6 @@
 ---
 title: "Criminality"
-
+heading: "Chapter 8"
 date: 2019-12-17
 weight: 30
 image: "/photos/phone.jpg"

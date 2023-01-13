@@ -1,13 +1,12 @@
-+++
-title= "1= Rules of Reasoning"
-image= "/covers/principia.jpg"
-description= "Book 1 laid down the principles of mathematical philosophy. This will be the basis of our reasonings on philosophical inquiries"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+title: "1: Rules of Reasoning"
+description: "Book 1 laid down the principles of mathematical philosophy. This will be the basis of our reasonings on philosophical inquiries"
+heading: Book 3
+image: "/covers/principia.jpg"
+icon: "/icons/newton.png"
+weight: 4
+---
+
 
 Book 1 laid down the principles of mathematical philosophy. This will be the basis of our reasonings on philosophical inquiries.
 
@@ -23,24 +22,24 @@ I explain the principles as propositions. Readers should go through Books 1 and 
 - laws of motion
 - sections 1-3 of Book 1
 
-<br>
+
 
 ## Rules Of Reasoning
 
-### Rule 1= We only need to look for the causes of natural phenomena that are enough to explain their appearances.  
+### Rule 1: We only need to look for the causes of natural phenomena that are enough to explain their appearances.  
 
 Nature is pleased with simpicity.
 
-### Rule 2(!*)= The same natural effects come from the same natural causes
+### Rule 2(!*): The same natural effects come from the same natural causes
 
 - Respiration is the same for humans and animals
 - The light of our stove fire is the same as the light of the sun 
 
-> *Superphysics Note= Newton bases perception-effects on the immediate senses. This leads to causes which are limited to the 3 layers instead of all 5 layers since 2 of the upper layers are sensed by feelings instead of the eyes.
+> *Superphysics Note: Newton bases perception-effects on the immediate senses. This leads to causes which are limited to the 3 layers instead of all 5 layers since 2 of the upper layers are sensed by feelings instead of the eyes.
 
 
 
-### Rule 3= Universal qualities are those which are common to all the bodies which we experiment with 
+### Rule 3: Universal qualities are those which are common to all the bodies which we experiment with 
 
 The qualities of bodies are only known to us by experiments. We deem universal all those qualities that universally agree with experiments. <!--  nnd such as are not liable to diminution can never be quite taken away. -->
 
@@ -134,9 +133,9 @@ This is immutable.
 Their gravity is diminished as they recede from the earth. -->
 
 
-### Rule 4*= Induction from Phenomena over Imaginary Hypothesis
+### Rule 4*: Induction from Phenomena over Imaginary Hypothesis
 
 Our experiments<!--  philosophy -->, must be based on propositions collected by general induction from phenomena as accurately or very nearly true, despite any contrary imaginary hypotheses, until these are corrected by <!--  till such time as --> other phenomena. <!--  occur, by which they may either be made more accurate, or liable to exceptions. --> <!-- This rule we must follow, that --> The argument of induction cannot evaded by hypotheses.
 
 
-> *Superhysics Note= Superphysics improves Physics-inductions by getting the general inductions from the feelings noted throughout history which may have escaped most people who have a limited view. These are then put into experiments to create new principles. We use data science instead of math to improve the quality of inductions, as well as aid in the expriments, since the brain can only process a limited data set
+> *Superhysics Note: Superphysics improves Physics-inductions by getting the general inductions from the feelings noted throughout history which may have escaped most people who have a limited view. These are then put into experiments to create new principles. We use data science instead of math to improve the quality of inductions, as well as aid in the expriments, since the brain can only process a limited data set

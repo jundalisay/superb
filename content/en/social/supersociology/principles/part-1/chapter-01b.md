@@ -1,5 +1,6 @@
 ---
 title: "What is a Society, Nation, and State?"
+heading: "Chapter 1b"
 date: 2015-08-15
 weight: 6
 image: "/photos/egypt.jpg"

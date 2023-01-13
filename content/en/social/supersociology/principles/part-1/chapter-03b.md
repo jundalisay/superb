@@ -1,7 +1,6 @@
 ---
 title: "Self-Regulation Requires Fellow-Feeling"
 heading: Chapter 3b
-
 date: 2021-07-21
 weight: 14
 image: /photos/objects/king.jpg

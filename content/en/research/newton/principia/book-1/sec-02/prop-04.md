@@ -1,49 +1,37 @@
-+++
-title= "Proposition 4"
-image= "/covers/principia.jpg"
-description= "Every body that moves in any curve line described in a plane, and by a radius, drawn to a point either immovable, or moving forward with an uniform rectilinear motion, describes about that point areas proportional to the times, is urged by a centripetal force directed"
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-+++
+---
+title: "Proposition 4"
+heading: Section 2 
+description: "Every body that moves in any curve line described in a plane, and by a radius, drawn to a point either immovable, or moving forward with an uniform rectilinear motion, describes about that point areas proportional to the times, is urged by a centripetal force directed"
+image: "/covers/principia.jpg"
+icon: "/icons/newton.png"
+weight: 10
+---
+
 
 
 ## Proposition 4 Theorem 4
 
-The centripetal forces of bodies,which by equable motions describe different circles, tend to the centres of the same circles and are one to the other as the squares of the arcs described in equal times applied to the radii of the circles
+The centripetal forces of bodies, which by equable motions describe different circles:
+- tend to the centres of the same circles (Prop. 2 and Cor. 2, Prop. 50)
+- are one to the other as the squares of the arcs described in equal times applied to the radii of the circles (by Cor. 4, Prop. 1)
 
-These forces tend to the centres of the circles (by Prop. 2 and Cor. 2, Prop. 50), and are one to another as the versed sines of the least arcs described in equal times (by Cor. 4, Prop. I.)
+<!-- These forces tend to the centres of the circles , and are one to another as the versed sines of the least arcs described in equal times  -->
 
-that is, as the squares of the
+<!-- that is, as the squares of the -->
 
-These arcs applied to the diameters of the circles (by Lem. VII.) and there
-fore since those arcs are as arcs described in any equal times, and the dia-
-same
-me
-;
-ers ace as the radii, the forces will be
-scr bed in the
-^OR.
-1.
-same time applied
-as the squares of
-to the radii of the circles.
-any arcs
+<!-- These arcs applied to the diameters of the circles (by Lem. VII.)  -->
 
-de-
-Therefore, since those arcs are as the velocities of the bodies.
+Therefore, since those arcs are as arcs described in any equal times, and the diameters are as the radii. And so the forces will be as the squares of any area described in the same time applied to the radii of the circles. QED.
 
-the centripetal forces are in a ratio compounded of the duplicate ra jio of
-the velocities directly, and of the simple ratio of the radii inversely.
+
+### Corollary 1
+
+Therefore, since those arcs are as the velocities of the bodies, the centripetal forces are in a ratio compounded of the duplicate ratio of the velocities directly, and of the simple ratio of the radii inversely.
+
 
 ### Corollary 2
 
-Since the periodic times are in a ratio compounded of the
-ratio of the radii directly, and the ratio of the velocities inversely, the cen
-tripetal forces, are in a ratio compounded of the ratio of the radii directly,
-and the duplicate ratio of the periodic times inversely.
+Since the periodic times are in a ratio compounded of the ratio of the radii directly, and the ratio of the velocities inversely, the centripetal forces, are in a ratio compounded of the ratio of the radii directly, and the duplicate ratio of the periodic times inversely.
 
 ### Corollary 3
 
@@ -51,12 +39,7 @@ Whence if the periodic times are equal, and the velocities therefore as the radi
 
 ### Corollary 4
 
-If the periodic times and the velocities are both in the subdu
-of the radii, the centripetal forces will be equal among them ratio
-plicate
-selves
-and the contrary.
-
+If the periodic times and the velocities are both in the subduplicate ratio of the radii, the centripetal forces will be equal among themselves and the contrary.
 
 ### Corollary 5
 
@@ -64,40 +47,23 @@ If the periodic times are as the radii, and therefore the velocities equal, the 
 
 ### Corollary 6
 
-If the periodic times are in the sesquiplicate ratio of the radii,
-and therefore the velocities reciprocally in the subduplicate ratio of the
-radii, the centripetal forces will
-versely
-
-be in the duplicate ratio of the radii in
-and the contrary.
+If the periodic times are in the sesquiplicate ratio of the radii, and therefore the velocities reciprocally in the subduplicate ratio of the
+radii, the centripetal forces will be in the duplicate ratio of the radii inversely, and the contrary.
 
 ### Corollary 7
 
-Universally, if the periodic time is as any power
-radius R, and therefore the velocity reciprocally as the power
-the radius, the centripetal force will be reciprocally as the power
-the radius; and the contrary.
+Universally, if the periodic time is as any power Rn of the radius R, and therefore the velocity reciprocally as the power Rn-1 of the radius, the centripetal force will be reciprocally as the power R20-1 of the radius; and the contrary.
 
 ### Corollary 8 
 
-The same things all hold concerning the times, the velocities, and forces by which bodies describe the similar parts of any similar figures as appears
-that have their centres in a similar position with those figures of
-the cases to demonstration those.
-the
-And the
-preceding
-by applying
-;
-application is easy, by only substituting the equable description of areas in
-the place of equable motion, and using the distances of the bodies from the
-centres instead of the radii.
+The same things all hold concerning the times, the velocities, and forces by which bodies describe the similar parts of any similar figures that have their centres in a similar position with those figures; as appears by applying the demonstration of the preceding cases to those.
+
+The application is easy, by only substituting the equable description of areas in the place of equable motion, and using the distances of the bodies from the centres instead of the radii.
 
 ### Corollary 9
 
-From the same demonstration it likewise follows, that the arc
-which a body, uniformly revolving in a circle by means of a given centri
-describes in any time, is a mean proportional between the
+From the same demonstration it likewise follows, that the arc which a body, uniformly revolving in a circle by means of a given centri
+describes in any time, is a mean proportional between the 
 petal force,
 diameter of the circle, and the space which the same body falling by the
 force would descend through in the same given time.

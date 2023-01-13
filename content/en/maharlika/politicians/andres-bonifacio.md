@@ -3,7 +3,7 @@ title: "Why Andres Bonifacio Should Be The National Hero"
 heading: "He did most of the work required for a revolution"
 description: "Currently, Jose Rizal is the national hero. But morally, it would be better for Andres Bonifacio to be the hero."
 date: 2020-04-06
-image: /covers/boni.jpg
+image: /graphics/mh/boni.jpg
 author: Juan
 icon: /icons/sun.png
 ---
@@ -55,14 +55,14 @@ Rizal did not believe in the capabilities of the masses at all:
 {{< /q >}}
 
 
-Felipe-nos surrender to policies of foreigners and vested interests, such as exporting its people as overseas workers
+Felipe-nos surrender to policies of foreigners and vested interests, such as exporting its people as overseas workers as OFWs (Overseas Felipe-no Worker)
 
 On the other hand, Katagalugans (River People) or Maharlikans (free people) has Andres Bonifacio as their national hero. These are free from foreign and vested interests, just as rivers flow freely according to their national interests. 
 
 Tagalogs or Maharlikans make their own policies for the benefit of its own people and are against oppression from:
 - High taxes
 - Trade monopolies
-- Profiteering (especially by the Chinese [Valley people])
+- Profiteering (especially by the Chinese Han [Valley people])
 - Lack of representation
 - Incompetent government officials
 - Abuses of authority

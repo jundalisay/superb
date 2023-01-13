@@ -1,5 +1,6 @@
 ---
 title: What's the Difference Between Reasonable vs Unreasonable?
+heading: "Chapter 4b"
 description: "Being reasonable means to project one's own ego onto the future as to feel the consequences of a proposed action"
 date: 2019-02-20
 weight: 18

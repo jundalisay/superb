@@ -1,7 +1,6 @@
 ---
 title: "What is Social Topographic Behavior?"
 heading: "Chapter 6"
-
 date: 2021-08-21
 weight: 24
 image: "/photos/objects/egypt.jpg"

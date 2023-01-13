@@ -258,7 +258,10 @@ This laborious method produces a huge dataset that is similar to the "table of e
 
 {{< q a="Bacon" >}}
 The investigation of forms proceeds thus from a given nature, we first present to the understanding all the known instances which agree in the same nature, even if the subject matter is considerably diversified. This collection must be made as a mere history, without any premature reflection.
-<br><br>
+{{< /q >}}
+
+
+{{< q a="Bacon" >}}
 For instance, take the investigation of the form of heat. Instances agreeing in the Form of Heat:
 <br>
 1. The rays of the sun, particularly in summer, and at noon.
@@ -277,7 +280,7 @@ For instance, take the investigation of the form of heat. Instances agreeing in 
 <br>
 28. Other instances.
 <br>
-This is a **table of existence and presence**.
+This is a <b>table of existence and presence</b>
 {{< /q >}}
 
 From this table we can apply machine learning algorithms in order to extract new ideas which will then lead into a new table. That new table will then lead to new ideas which will form a new table and so on. 

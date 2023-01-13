@@ -1,14 +1,14 @@
-+++
-title= "Proposition 5 Problem 1"
-image= "/covers/principia.jpg"
-description= "There being given, in any places, the velocity with which a body describes a given figure, by means of forces directed to some common centre to find that centre."
-linkb= "/research/newton/principia/"
-linkbtext= "Index"
-linkf= "/research/newton/principia/"
-linkftext= "Index"
-icon= "/icons/newton.png"
-draft= true
-+++
+---
+title: "Proposition 5 Problem 1"
+description: "There being given, in any places, the velocity with which a body describes a given figure, by means of forces directed to some common centre to find that centre"
+heading: Section 2 
+image: "/covers/principia.jpg"
+icon: "/icons/newton.png"
+weight: 12
+draft: true
+---
+
+
 
 ## Proposition 5 Problem 1
 

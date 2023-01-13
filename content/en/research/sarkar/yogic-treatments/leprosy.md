@@ -13,19 +13,19 @@ icon: "/icons/yoga.jpg"
 
 ![Leprosy](/photos/med/leprosy.jpg)
 
-Leprosy comes about when seven elements of the body are defective:
+Leprosy comes about when 7 elements of the body are defective:
 
-- chyle
-- blood
-- flesh
-- fat
-- bone
-- marrow
-- shukra
+1. Chyle
+2. Blood
+3. Flesh
+4. Fat
+5. Bone
+6. Marrow
+7. Shukra
 
  <!-- due to the disturbance of the seven constituent elements of the body. In other words, leprosy develops only when all seven elements of the body, i.e., the  are defective. -->
 
-Leprosy has three stages. 
+Leprosy has 3 stages. 
 
 ### Stage 1 
 
@@ -44,6 +44,7 @@ Often he or she suffers from headaches, and sometimes sweats profusely, sometime
 
 While walking the patient sometimes feels as if some hard objects are lodging in the soles of the feet. In colloquial language this stage of the disease is called “plum-stone disease,” that is, the patient feels as if plum-stones are getting lodged in the soles.
 
+
 ### Stage 3
 
 - Circular red spots appear on different parts of the body and gradually those places become numb.
@@ -51,20 +52,32 @@ While walking the patient sometimes feels as if some hard objects are lodging in
 
 ## Causes
 
- are lacking for days together, 
+ <!-- are lacking for days together,  -->
 
 The blood becomes very weak when the following are lacking for many days:
 - nutritious food
 - green vegetables
 - milk, ghee and other fatty substances
 
-If in this condition, a person continues for a long period to eat foods which cause dysentery or constipation, or eats a large quantity of spoiled fish, meat, snails or shell-fish, or a large quantity of biláti, diḿle or súryi pumpkin, jhiḿge or white brinjal (white eggplant), then leprosy develops.
+If in this condition, a person continues 
 
-After the blood, the remaining six elements of the body gradually get contaminated, because when the blood is contaminated all the organs of the body become weak. 
+ to eat foods
 
-And as a result of this disturbance of the seven elements of the body, the person’s immune system loses its strength. 
 
-If in the long and bitter struggle which ensues between the white blood cells and the leprosy bacteria, the fat, flesh, blood and chyle of the body become spent, as a final result the extremities of the body will also become loosened and start falling off.
+Leprosy develops if this condition continues for a long period and the person continues to:
+- eat foods which cause dysentery or constipation, or
+- eats a large quantity of:
+  - spoiled fish, meat, snails or shell-fish
+  - biláti
+  - diḿle or súryi pumpkin
+  - jhiḿge or white eggplant
+
+
+When the blood is contaminated, all the organs of the body become weak afterwards. And so, the remaining 6 elements of the body gradually get contaminated after the blood is contaminated. 
+
+As a result of this disturbance of the 7 elements of the body, the person’s immune system loses its strength. 
+
+If in the long and bitter struggle which ensues between the white blood cells and the leprosy bacteria, the fat, flesh, blood and chyle of the body become spent, the extremities of the body will also become loosened and start falling off as a final result.
 
 <!-- Treatment:
 Morning – Utkśepa Mudrá, Padahastásana, Agnisára Mudrá, Ud́d́ayana Mudrá, Naokásana, and Shiitalii Kumbhaka. Then massage the affected limbs.
@@ -75,12 +88,18 @@ Evening – Ud́d́ayana Mudrá, Agnisára Mudrá, Bandhatraya Yoga Mudrá, 
 
 The patient must strictly avoid all non-vegetarian food. All sorts of nutritious vegetarian food should be eaten if the condition of the liver allows. 
 
-Ghee, butter, or olive oil should be an item of the daily menu. The patient should drink a large quantity of water (about four or five seers a day, but not much at a time) and should observe the rules of fasting.
+Ghee, butter, or olive oil should be an item of the daily menu. 
+
+The patient should:
+- drink a large quantity of water (around 4-5 seers a day, but not much at a time), and
+- observe the rules of fasting.
 
 
 ## Dos and don’ts
 
-Taking sun-baths is a must for every leprosy patient. Taking a dip-bath after applying river mud all over the body is desirable. As far as possible, the patient should live on fruits and roots, milk and vegetable soups. 
+Taking sun-baths is a must for every leprosy patient. Taking a dip-bath after applying river mud all over the body is desirable. 
+
+As far as possible, the patient should live on fruits and roots, milk and vegetable soups. 
 
 He or she should not succumb to eating out of greed. Crowds, too much food, intoxicants and sexual relations should be strictly avoided.
 

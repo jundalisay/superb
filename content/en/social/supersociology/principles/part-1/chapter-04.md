@@ -1,6 +1,7 @@
 ---
 title: "What is Morality?"
-heading: "Doing what is correct and avoiding the wrong"
+heading: Chapter 4
+# heading: "Doing what is correct and avoiding the wrong"
 date: 2019-12-17
 weight: 16
 image: "/photos/phone.jpg"

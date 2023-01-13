@@ -1,7 +1,6 @@
 ---
 title: "How Modern Education Corrups Knowledge with Shallow Reasoning"
 heading: Chapter 7
-
 # date: 2019-06-29
 weight: 28
 date: 2013-10-21

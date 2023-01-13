@@ -26,13 +26,21 @@ The Pythagoreans greatly venerated the the tetractys.
 
 Theo of Smyrna,[106] showed how many tetractys there are. He said:
 
+{{< q >}}
 "The tetractys was principally honored by the Pythagoreans because all symphonies are found to exist within it, and also because it appears to contain the nature of all things.” 
+{{< /q >}}
 
-Hence their oath was= “Not by Pythagoras who <!-- delivered to our soul --> invented the tetractys, which contains the fountain and root of everlasting nature.” 
+Hence their oath was:
+
+{{< q >}}
+“Not by Pythagoras who <!-- delivered to our soul --> invented the tetractys, which contains the fountain and root of everlasting nature.” 
+{{< /q >}}
 
 <!-- But by him who delivered the tetractys they mean ; for the doctrine concerning it appears to have been his invention.  -->
 
-The tetractys, therefore, is seen in the composition of the first numbers 1. 2. 3. 4. But the second tetractys arises from the increase by multiplication of even and odd numbers beginning from the monad.
+The tetractys, therefore, is seen in the composition of the first numbers 1. 2. 3. 4. 
+
+But the second tetractys arises from the increase by multiplication of even and odd numbers beginning from the monad.
 
 
 ## First Tetractys
@@ -77,12 +85,14 @@ There are, therefore, two tetractys of numbers, one of which subsists by additio
 
 But the third tetractys is that which according to the same analogy or proportion comprehends the nature of all magnitude. 
 
-For what the monad was in the former tetractys, that a point is in this. What the numbers 2 and 3, which are in power a side, were in the former tetractys, that the extended species of a line, the circular and the right, are in this; the right line indeed subsisting in conformity to the even number, since it is terminated[107] by two points; but the circular in conformity to the odd number, because it is comprehended by one line which has no end. But what in the former tetractys the square numbers 4 and 9 were, that the two-fold 332 species of planes, the rectilinear and the circular, are in this. 
+For what the monad was in the former tetractys, that a point is in this. 
+
+What the numbers 2 and 3, which are in power a side, were in the former tetractys, that the extended species of a line, the circular and the right, are in this; the right line indeed subsisting in conformity to the even number, since it is terminated[107] by two points; but the circular in conformity to the odd number, because it is comprehended by one line which has no end. But what in the former tetractys the square numbers 4 and 9 were, that the two-fold 332 species of planes, the rectilinear and the circular, are in this. 
 
 And what the cube numbers 8 and 27 were in the former, the one being an even, but the other an odd number, that the two solids, one of which has a hollow superficies, as the sphere and the cylinder, but the other a plane superficies, as the cube and pyramid, are in this tetractys. Hence, this is the third tetractys, which gives completion to every magnitude, from a point, a line, a superficies, and a solid.
 
 
-## Fourth Tetractys= The Four Elements
+## Fourth Tetractys: The Four Elements
 
 The fourth tetractys is of the simple bodies fire, air, water, and earth, which have an analogy according to numbers. 
 
@@ -95,17 +105,17 @@ For such is the nature of the elements according to tenuity and density of parts
 In other respects also they are analogous to each other.
 
 
-## Fifth Tetractys= The Four Elements
+## Fifth Tetractys: Simple Bodies
 
 The fifth tetractys is of the figures of the simple bodies. 
 
-- The pyramid is the shape of fire. 
+- The pyramid is the shape of fire
 - The octaedron is the shape of air 
 - The icosaedron is the shape of water
 - The cube is the shape of earth
 
 
-## Sixth Tetractys= Life
+## Sixth Tetractys: Life
 
 The sixth tetractys is of things rising into existence through the vegetative life. 
 
@@ -114,26 +124,32 @@ The seed is analogous to the monad and a point.
 But if it increases in length it is analogous to the duad and a line. If in breadth, to the triad and a superficies; but if in thickness, to the tetrad and a solid.
 
 
-## Seventh Tetractys= Society
+## Seventh Tetractys: Society
 
 The seventh tetractys is of communities. The principle as the monad, is man. The duad is a house. The triad a street; and the tetrad a city. A nation consists of these.
 
 These are the material and sensible tetractys.
 
 
-## Eighth Tetractys= 
+## Eighth Tetractys: Sense and Intellect
 
 These are in the powers which form a judgment of things material and sensible, and which are of a certain intelligible nature -- intellect, science, opinion, and sense. 
 
-Intellect, indeed, corresponds in its essence to the monad; but science to the duad; for science is the science of a certain thing. Opinion subsists between science and ignorance; but sense is as the tetrad. For the touch which is common to all the senses being fourfold, all the senses energize according to contact.
+Intellect, indeed, corresponds in its essence to the monad. 
+
+Science corresponds to the duad because science is the science of a certain thing. 
+
+Opinion subsists between science and ignorance. 
+
+Sense is as the tetrad because the touch which is common to all the senses being fourfold, all the senses energize according to contact.
 
 
-## Ninth Tetractys= 
+## Ninth Tetractys: Soul and Body
 
 The ninth tetractys is that from which the animal is composed, the soul and the body. For the parts of the soul, indeed, are the rational, the irascible, and the epithymetic, or that which desires external good; and the fourth is the body in which the soul subsists.
 
 
-## Tenth Tetractys= 
+## Tenth Tetractys: Seasons
 
 The tenth tetractys is of the seasons of the year, 334 through which all things rise into existence, viz. the spring, the summer, the autumn, and the winter.
 

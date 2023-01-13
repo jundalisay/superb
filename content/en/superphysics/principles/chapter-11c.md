@@ -21,7 +21,7 @@ These fallacies were merely created by academics for the sake of creating someth
 Socrates was aware of such useless thinking and so he classified the output of all logic into either truth, falsehood, or sophistry. I combined this with David Hume’s definitions to visualize them.
 
 
-## Truth vs Fallaccy
+## Truth vs Fallacy
 
 ![Truth diagram](/graphics/truth.jpg)
 <!-- ![](https://sorasystem.sirv.com/graphics/f-truth.jpg) -->

@@ -1,7 +1,6 @@
 ---
 title: "The Essentials of a Civilization"
-heading: "Chapter 1b"
-
+heading: "Chapter 1c"
 # image: "/photos/social/protests.jpg"
 image: "/photos/medieval/slave.jpg"
 date: 2021-07-01

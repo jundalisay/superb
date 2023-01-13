@@ -109,8 +109,20 @@ With respect to what is said of the necessity of protecting society from the bad
 
 But we are now speaking of conduct which, while it does no wrong to others, is supposed to do great harm to the agent himself= and I do not see how those who believe this, can think otherwise than that the example, on the whole, must be more salutary than hurtful, since, if it displays the misconduct, it displays also the painful or degrading consequences which, if the conduct is justly censured, must be supposed to be in all or most cases attendant on it.
 
-But the strongest of all the arguments against the interference of the public with purely personal conduct, is that when it does interfere, the odds are that it interferes wrongly, and in the wrong place. On questions of social morality, of duty to others, the opinion of the public, that is, of an overruling majority, though often wrong, is likely to be still oftener right; because on such questions they are only required to judge of their own interests; of the manner in which some mode of conduct, if allowed to be practised, would affect themselves. 
+But the strongest of all the arguments against the interference of the public with purely personal conduct, is that when it does interfere, the odds are that it interferes wrongly, and in the wrong place. 
 
-But the opinion of a similar majority, imposed as a law on the minority, on questions of self-regarding conduct, is quite as likely to be wrong as right; for in these cases public opinion means, at the best, some people's opinion of what is good or bad for other people; while very often it does not even mean that; the public, with the most perfect indifference, passing over the pleasure or convenience of those whose conduct they censure, and considering only their own preference. 
+On questions of social morality, of duty to others, the opinion of the public, that is, of an overruling majority, though often wrong, is likely to be still oftener right; because on such questions they are only required to judge of their own interests; of the manner in which some mode of conduct, if allowed to be practised, would affect themselves. 
 
-There are many who consider as an injury to themselves any conduct which they have a distaste for, and resent it as an outrage to their feelings; as a religious bigot, when charged with disregarding the religious feelings of others, has been known to retort that they disregard his feelings, by persisting in their abominable worship or creed. But there is no parity between the feeling of a person for his own opinion, and the feeling of another who is offended at his holding it; no more than between the desire of a thief to take a purse, and the desire of the right owner to keep it. And a person's taste is as much his own peculiar concern as his opinion or his purse. 
+But the opinion of a similar majority, imposed as a law on the minority, on questions of self-regarding conduct, is quite as likely to be wrong as right.
+
+This is because in these cases, public opinion means, at the best, some people's opinion of what is good or bad for other people. But very often, it does not even mean that. 
+
+The public, with perfect indifference:
+- passes over the pleasure or convenience of those whose conduct they censure
+- considers only their own preference. 
+
+There are many who consider as an injury to themselves any conduct which they have a distaste for, and resent it as an outrage to their feelings.
+
+For example, a religious bigot, when charged with disregarding the religious feelings of others, has been known to retort that they disregard his feelings, by persisting in their abominable worship or creed. 
+
+But there is no parity between the feeling of a person for his own opinion, and the feeling of another who is offended at his holding it; no more than between the desire of a thief to take a purse, and the desire of the right owner to keep it. And a person's taste is as much his own peculiar concern as his opinion or his purse. 
